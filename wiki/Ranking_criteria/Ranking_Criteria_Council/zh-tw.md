@@ -64,7 +64,7 @@ The Ranking Criteria Council 並未成功。只有 osu!catch 的成員提案，�
 
 The United Beat-Knights of Ranking Criteria (*UBKRC*) 是一個全新的組織，與 Ranking Criteria Council 的目的類似，但以比較寬鬆的方式管理。為了比 **Ranking Criteria Council** 更平易近人，*UBKRC* 故意選擇了一個較為愚蠢的名字。
 
-此組織直到結束前都由 ::Okoratu::{ user=1623405 } 和 [pishifat](https://osu.ppy.sh/users/3178418) 管理。
+此組織直到結束前都由 ::Okoratu::{ user=1623405 } 和 ::pishifat::{ user=3178418 } 管理。
 
 在 UBKRC 中，由專家組成的小隊會被指派負責審核標準中的各個區域，包括遊戲模式專屬的區塊。如果玩家對任何小組有興趣也可加入。
 

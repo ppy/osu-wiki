@@ -29,7 +29,7 @@ In case you don't read the end of this post, be sure to submit suggestions for b
 
 ## osu!
 
-osu! Loved candidates were chosen by ::-Roxas::{ user=1986262 }, [BeasttrollMC](https://osu.ppy.sh/users/3171691), ::Bubbleman::{ user=5182050 }, [DigitalHypno](https://osu.ppy.sh/users/4384207) and ::waywern2012::{ user=5870453 }!
+osu! Loved candidates were chosen by ::-Roxas::{ user=1986262 }, ::BeasttrollMC::{ user=3171691 }, ::Bubbleman::{ user=5182050 }, ::DigitalHypno::{ user=4384207 } and ::waywern2012::{ user=5870453 }!
 
 ---
 
@@ -56,7 +56,7 @@ This is a lively song to go with a lively map: Kaifin's "The Wrecks - Favorite L
 
 [![](/wiki/shared/news/2019-02-12-project-loved-week-of-february-10th/osu/third-eye-ya.jpg)](https://osu.ppy.sh/community/forums/topics/868435)
 
-[IOSYS - Third Eye Ya!](https://osu.ppy.sh/beatmapsets/286303#osu) by ::koreapenguin::{ user=1458069 } and [Fast](https://osu.ppy.sh/users/4266189)\
+[IOSYS - Third Eye Ya!](https://osu.ppy.sh/beatmapsets/286303#osu) by ::koreapenguin::{ user=1458069 } and ::Fast::{ user=4266189 }\
 *written by ::waywern2012::{ user=5870453 }*
 
 This is a classic map from koreapenguin with the help of Fast. One of the first maps to feature changing slider movement to the rhythm, this map was one of the big steps forward in techniques we see many mappers use nowadays, although not so extreme. The map is somewhat old, but still lives up to its title with a stable 100 favourites. Can you hit these tricky sliders and jumps?
@@ -96,11 +96,11 @@ This map is not for the light hearted. It's about time the world has seen Bibbit
 
 If you're a big fan of spaced streams, you're going to love this one. ParkourWizard's take on Ryu-5150's "Louder than Steel" pushes players to the extreme on their spaced streaming abilities with a map that gets more difficult as you play. The streams are pretty comfortable for the most part, but the spacing gradually increases more and more as the map progresses, keeping players on their toes.
 
-After clips from various players including ::Umbre::{ user=2766034 }, [firebat92](https://osu.ppy.sh/users/1777162), and myself began surfacing, the map quickly gained traction and has garnered over 250 favorites now! Check out the map for yourself and vote for its spot in Project Loved.
+After clips from various players including ::Umbre::{ user=2766034 }, ::firebat92::{ user=1777162 }, and myself began surfacing, the map quickly gained traction and has garnered over 250 favorites now! Check out the map for yourself and vote for its spot in Project Loved.
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-\1 ix Ishida xi \1-::{ user=242910 }, [-Kazu-](https://osu.ppy.sh/users/920861), ::iceOC::{ user=5482401 }, [jyake](https://osu.ppy.sh/users/9099822) and ::nyanmi-1828::{ user=6866480 }!
+osu!taiko Loved candidates were chosen by ::-\1 ix Ishida xi \1-::{ user=242910 }, ::-Kazu-::{ user=920861 }, ::iceOC::{ user=5482401 }, ::jyake::{ user=9099822 } and ::nyanmi-1828::{ user=6866480 }!
 
 ---
 
@@ -134,7 +134,7 @@ osu needs more lapix! This mapset by HEKUSODASU is often times recognized and lo
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Ascendance::{ user=2931883 }, [Sartan](https://osu.ppy.sh/users/4100941), ::Tenshichan::{ user=1101600 } and [Wesley](https://osu.ppy.sh/users/2407265)!
+osu!catch Loved candidates were chosen by ::Ascendance::{ user=2931883 }, ::Sartan::{ user=4100941 }, ::Tenshichan::{ user=1101600 } and ::Wesley::{ user=2407265 }!
 
 ---
 
@@ -154,7 +154,7 @@ Oh boy, despite this map being one of the most popular ones released in 2018, it
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::Lenfried-::{ user=5314573 }, [Pope Gadget](https://osu.ppy.sh/users/2288341), ::Shoegazer::{ user=2520707 } and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
+osu!mania Loved candidates were chosen by ::Lenfried-::{ user=5314573 }, ::Pope Gadget::{ user=2288341 }, ::Shoegazer::{ user=2520707 } and ::Toaph Daddy::{ user=7616811 }!
 
 ---
 
@@ -198,7 +198,7 @@ For this round, we have Takane6's Persephone as a spread pick. The focal point o
 
 From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
-In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Ephemeral::{ user=102335 }, [Noffy](https://osu.ppy.sh/users/1541323), ::Toy::{ user=2757689 } and [Zak](https://osu.ppy.sh/users/1375955) for their miscellaneous help in managing Project Loved.
+In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Ephemeral::{ user=102335 }, ::Noffy::{ user=1541323 }, ::Toy::{ user=2757689 } and ::Zak::{ user=1375955 } for their miscellaneous help in managing Project Loved.
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! You can view the current submissions on the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0).
 

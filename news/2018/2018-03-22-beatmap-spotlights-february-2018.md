@@ -45,7 +45,7 @@ The mapper found a perfect balance between complexity and playability, don't mis
 
 [![](/wiki/shared/news/2018-03-22-beatmap-spotlights-february-2018/fair-wind.jpg)](https://osu.ppy.sh/beatmapsets/587541)
 
-For anyone who misses the 2014 mapping, ::Zero\1\1wind::{ user=1822830 }'s "Fair wind" is sure to give you a nostalgia fix. The top difficulty, mapped by ::cRyo\[iceeicee\]::{ user=835998 } and [xsrsbsns](https://osu.ppy.sh/users/414427), sports a highly improvised rhythm style that matches the high pace of the song quite well.
+For anyone who misses the 2014 mapping, ::Zero\1\1wind::{ user=1822830 }'s "Fair wind" is sure to give you a nostalgia fix. The top difficulty, mapped by ::cRyo\[iceeicee\]::{ user=835998 } and ::xsrsbsns::{ user=414427 }, sports a highly improvised rhythm style that matches the high pace of the song quite well.
 
 If you're looking for an aim challenge, the Extra difficulty is a lot easier on the tapping but just as expressive than the top one.
 

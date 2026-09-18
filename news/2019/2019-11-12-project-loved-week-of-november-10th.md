@@ -22,7 +22,7 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ## osu!standard
 
-osu!standard Loved candidates were chosen by ::DigitalHypno::{ user=4384207 } and [waywern2012](https://osu.ppy.sh/users/5870453)!
+osu!standard Loved candidates were chosen by ::DigitalHypno::{ user=4384207 } and ::waywern2012::{ user=5870453 }!
 
 ---
 
@@ -44,13 +44,13 @@ Did someone say perfect overlaps, funky sliders, an equally funky song, and a bu
 
 [![](/wiki/shared/news/2019-11-12-project-loved-week-of-november-10th/osu/3-nothing-but-theory.jpg)](https://osu.ppy.sh/community/forums/topics/984616)
 
-[lapix - Nothing but Theory](https://osu.ppy.sh/beatmapsets/914146#osu) by ::azr8::{ user=2562987 }, [Jace](https://osu.ppy.sh/users/4394718) and ::Akali::{ user=2127359 }\
+[lapix - Nothing but Theory](https://osu.ppy.sh/beatmapsets/914146#osu) by ::azr8::{ user=2562987 }, ::Jace::{ user=4394718 } and ::Akali::{ user=2127359 }\
 160 BPM, 2:02 | 6.07★, 7.23★\
 *description written by ::DigitalHypno::{ user=4384207 }*
 
 If you've been looking to prove your technical and alternating skills while jamming out to the masterful neurofunk of lapix, you need to download this map. Both of the maps in this two-difficulty mapset feature fluid jumpstreams, tricky sliders, and technical rhythms.
 
-The lower difficulty, a collab between ::azr8::{ user=2562987 } and [Jace](https://osu.ppy.sh/users/4394718), is a definite challenge that gets your fingers moving to the song. If that's too easy for you, ::Akali::{ user=2127359 }'s 7-star guest difficulty is more than enough to challenge even the best players who come across this map—it takes all the theory from the lower difficulty and amplifies it to much crazier extremes. You won't want to miss out on either of these amazing maps, so be sure to try them both!
+The lower difficulty, a collab between ::azr8::{ user=2562987 } and ::Jace::{ user=4394718 }, is a definite challenge that gets your fingers moving to the song. If that's too easy for you, ::Akali::{ user=2127359 }'s 7-star guest difficulty is more than enough to challenge even the best players who come across this map—it takes all the theory from the lower difficulty and amplifies it to much crazier extremes. You won't want to miss out on either of these amazing maps, so be sure to try them both!
 
 [![](/wiki/shared/news/2019-11-12-project-loved-week-of-november-10th/osu/4-dynamite-camellia-s-macho-tnt-remix.jpg)](https://osu.ppy.sh/community/forums/topics/984615)
 
@@ -62,7 +62,7 @@ USAO and Camellia are both incredible artists, but what happens when you put the
 
 [![](/wiki/shared/news/2019-11-12-project-loved-week-of-november-10th/osu/5-flicker.jpg)](https://osu.ppy.sh/community/forums/topics/984614)
 
-[Porter Robinson - Flicker](https://osu.ppy.sh/beatmapsets/284931#osu) by ::Cyllinus::{ user=2413420 }, [ryuu](https://osu.ppy.sh/users/682919) and ::Alonevpk::{ user=2080978 }\
+[Porter Robinson - Flicker](https://osu.ppy.sh/beatmapsets/284931#osu) by ::Cyllinus::{ user=2413420 }, ::ryuu::{ user=682919 } and ::Alonevpk::{ user=2080978 }\
 92 BPM, 4:32 | 1.68★ – 5.43★\
 The \[Cyllinus's Hard\] difficulty is *not* being nominated for Loved.\
 *description written by ::DigitalHypno::{ user=4384207 }*
@@ -71,7 +71,7 @@ Many of you may know this map already. It's a jumpy, 7-difficulty spread that ac
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [iceOC](https://osu.ppy.sh/users/5482401), ::jyake::{ user=9099822 }, [nyanmi-1828](https://osu.ppy.sh/users/6866480) and ::Ulqui::{ user=1263669 }!
+osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::iceOC::{ user=5482401 }, ::jyake::{ user=9099822 }, ::nyanmi-1828::{ user=6866480 } and ::Ulqui::{ user=1263669 }!
 
 ---
 
@@ -93,7 +93,7 @@ And representing the "storm" we mentioned before, *The illegaL QueeN*, one of th
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Tenshichan::{ user=1101600 }, [Sartan](https://osu.ppy.sh/users/4100941), ::Wesley::{ user=2407265 } and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
+osu!catch Loved candidates were chosen by ::Tenshichan::{ user=1101600 }, ::Sartan::{ user=4100941 }, ::Wesley::{ user=2407265 } and ::Yumeno Himiko::{ user=1806962 }!
 
 ---
 
@@ -103,7 +103,7 @@ osu!catch Loved candidates were chosen by ::Tenshichan::{ user=1101600 }, [Sarta
 124 BPM, 1:24 | 2.14★ – 7.77★\
 *description written by ::Wesley::{ user=2407265 }*
 
-This mapset really is something. Spectator and everyone else who participated are already quite known in the osu!catch mapping community. Spectator himself made a few difficulties mimicking ::Drafura::{ user=326099 } and [Starrodkirby86](https://osu.ppy.sh/users/410)'s mapping styles, and yet another one with his own style.
+This mapset really is something. Spectator and everyone else who participated are already quite known in the osu!catch mapping community. Spectator himself made a few difficulties mimicking ::Drafura::{ user=326099 } and ::Starrodkirby86::{ user=410 }'s mapping styles, and yet another one with his own style.
 
 Every difficulty in this mapset has a very unique feeling to it. Not one of the difficulties plays the same—everyone did their own thing whether it is low or high approach rate, low or high circle size (or even both!)—it really has everything. Try it out and see for yourself!
 
@@ -117,7 +117,7 @@ Kyptoric is back in for some loved action again! *Yotogibanashi no Kamikakushi* 
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::Shoegazer::{ user=2520707 }, [lenpai](https://osu.ppy.sh/users/5314573), ::Pope Gadget::{ user=2288341 } and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
+osu!mania Loved candidates were chosen by ::Shoegazer::{ user=2520707 }, ::lenpai::{ user=5314573 }, ::Pope Gadget::{ user=2288341 } and ::Toaph Daddy::{ user=7616811 }!
 
 ---
 
@@ -150,7 +150,7 @@ Prepare yourselves for yet another serving of Cuppp noodles cause we're having *
 
 From everyone on the Project Loved team, we hope you enjoyed this week's selection, and are looking forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
-In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Noffy::{ user=1541323 }, [PsychoStatic](https://osu.ppy.sh/users/7291594), ::huu::{ user=6044237 } and [Ephemeral](https://osu.ppy.sh/users/102335) for their miscellaneous help in managing Project Loved.
+In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Noffy::{ user=1541323 }, ::PsychoStatic::{ user=7291594 }, ::huu::{ user=6044237 } and ::Ephemeral::{ user=102335 } for their miscellaneous help in managing Project Loved.
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! You can view the current submissions on the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0). For osu!mania, please use [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSeaGfoQNGMqw4qQcqRPItUZILh2fGwJR6ly6cZNY9OWPXkFhw/viewform) and [this Google sheet](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit) instead.
 

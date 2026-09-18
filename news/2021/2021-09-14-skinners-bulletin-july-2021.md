@@ -97,7 +97,7 @@ If you want your skin to be hosted in the new compendium, all you need to do is 
 
 Future skinners extraordinaire, have a read and follow us to the depths of skinning sorcery!
 
-Ever wondered how to locate the accuracy counter at the very center of the playfield? If so, we're here to blow the whistle. Written by the very hands of ::tetsui::{ user=10974678 } and [RockRoller](https://osu.ppy.sh/users/8388854), [the guide of Centring Accuracy](https://skinship.xyz/guides/centring_accuracy "skinship") will teach you how to do so in a couple of ways. With the help of this guide, those merely looking for its practical usage will be able to do so by an eyeball estimate, whilst perfectionists will enjoy a 100% accurate accuracy counter at the very center.
+Ever wondered how to locate the accuracy counter at the very center of the playfield? If so, we're here to blow the whistle. Written by the very hands of ::tetsui::{ user=10974678 } and ::RockRoller::{ user=8388854 }, [the guide of Centring Accuracy](https://skinship.xyz/guides/centring_accuracy "skinship") will teach you how to do so in a couple of ways. With the help of this guide, those merely looking for its practical usage will be able to do so by an eyeball estimate, whilst perfectionists will enjoy a 100% accurate accuracy counter at the very center.
 
 If this gimmick suits your interest as well, this guide is most certainly a must-read!
 
@@ -114,7 +114,7 @@ Since this breaking change might be affecting a wide variety of skins, including
 
 With that, it is time to tie up the very first issue of the Skinners' Bulletin!
 
-We would like to thank ::Matt2e2::{ user=12144912 } and [Master-TigerKun](https://osu.ppy.sh/users/10688456) for pouring their creativity into the banner design, ::watterino::{ user=3512261 } for preparing all the showcase videos of this issue, ::Roan::{ user=8214639 } for helping us compile the July 2021 statistics, and you, the readers, for allocating your precious time to read our bulletin!
+We would like to thank ::Matt2e2::{ user=12144912 } and ::Master-TigerKun::{ user=10688456 } for pouring their creativity into the banner design, ::watterino::{ user=3512261 } for preparing all the showcase videos of this issue, ::Roan::{ user=8214639 } for helping us compile the July 2021 statistics, and you, the readers, for allocating your precious time to read our bulletin!
 
 If you have any questions or suggestions about our content, feel free to contact [RockRoller](https://osu.ppy.sh/home/messages/users/8388854) or [Zeus-](https://osu.ppy.sh/home/messages/users/5464437) directly. We are always open to fresh ideas to enrich our serving plate with more content.
 

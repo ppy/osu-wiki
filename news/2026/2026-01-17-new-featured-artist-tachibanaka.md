@@ -19,7 +19,7 @@ Experience **tachibanaka**'s music for yourself:
 
 ### tachibanaka - Sayonara
 
-Hybrid maps are a rarity these days, but ::Daycore::{ user=5596337 } and [Ryxliee](https://osu.ppy.sh/users/15823344) made it happen on [this map of *Sayonara*](https://osu.ppy.sh/beatmapsets/2330830)!
+Hybrid maps are a rarity these days, but ::Daycore::{ user=5596337 } and ::Ryxliee::{ user=15823344 } made it happen on [this map of *Sayonara*](https://osu.ppy.sh/beatmapsets/2330830)!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -37,7 +37,7 @@ Sink your keys into [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2283380)
 
 ### hellfly, tachibanaka - cute things
 
-Combining music and mapping knowledge resulted in [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2379637) created by two artists, ::\_HeLLFly\_::{ user=14225226 } and [Tachibana_](https://osu.ppy.sh/users/13069714)!
+Combining music and mapping knowledge resulted in [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2379637) created by two artists, ::\_HeLLFly\_::{ user=14225226 } and ::Tachibana\1::{ user=13069714 }!
 
 <audio controls class="osu-md__paragraph">
     <source src="https://assets.ppy.sh/artists/520/Songs/hellfly%2C%20tachibanaka%20-%20cute%20things.mp3">

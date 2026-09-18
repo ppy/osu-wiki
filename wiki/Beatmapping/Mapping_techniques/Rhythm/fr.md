@@ -163,7 +163,7 @@ Cependant, il peut être accepté comme l'une des beatmaps *approuvée*.
 
 ### Slider Stream Jumps
 
-Nominateur(s) : ::dkun::{ user=154400 } et [MMzz](https://osu.ppy.sh/users/128993)
+Nominateur(s) : ::dkun::{ user=154400 } et ::MMzz::{ user=128993 }
 
 Le **slider stream jumps** est une technique plus avancée pour osu!.
 Au lieu d'utiliser un stream ordinaire, vous le remplacez par des sliders.

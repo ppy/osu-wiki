@@ -35,7 +35,7 @@ Try out [another 4K osu!mania spread](https://osu.ppy.sh/beatmapsets/2071574) ho
 
 ### [BrayanKitsn vs. burger ate pizza - plana stella achernar](https://assets.ppy.sh/artists/506/plana%20stella%20achernar/BrayanKitsn%20vs.%20burger%20ate%20pizza%20-%20plana%20stella%20achernar.osz)
 
-Experience [this 5-way collab marathon](https://osu.ppy.sh/beatmapsets/2119559) by ::Hytex::{ user=8536263 }, [fvrex](https://osu.ppy.sh/users/11863699), ::Lott::{ user=13821222 }, [Ucitysm](https://osu.ppy.sh/users/14768693), and ::Polarin::{ user=15104680 }!
+Experience [this 5-way collab marathon](https://osu.ppy.sh/beatmapsets/2119559) by ::Hytex::{ user=8536263 }, ::fvrex::{ user=11863699 }, ::Lott::{ user=13821222 }, ::Ucitysm::{ user=14768693 }, and ::Polarin::{ user=15104680 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/506/plana%20stella%20achernar/BrayanKitsn%20vs.%20burger%20ate%20pizza%20-%20plana%20stella%20achernar.mp3">

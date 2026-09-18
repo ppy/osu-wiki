@@ -22,7 +22,7 @@ Before we get into the maps selected for this month, the Project Loved Team woul
 
 ## osu!standard
 
-osu!standard Loved candidates were chosen by ::DigitalHypno::{ user=4384207 } and [waywern2012](https://osu.ppy.sh/users/5870453)! This round, all osu!standard beatmap descriptions were written by ::DigitalHypno::{ user=4384207 }.
+osu!standard Loved candidates were chosen by ::DigitalHypno::{ user=4384207 } and ::waywern2012::{ user=5870453 }! This round, all osu!standard beatmap descriptions were written by ::DigitalHypno::{ user=4384207 }.
 
 ---
 
@@ -56,7 +56,7 @@ This mapset is truly an expression of creativity. Being a cheerful and upbeat so
 
 [![](/wiki/shared/news/2020-11-27-project-loved-november-2020/osu/5-yoru-ni-kakeru.jpg)](https://osu.ppy.sh/community/forums/topics/1190611)
 
-[YOASOBI - Yoru ni Kakeru](https://osu.ppy.sh/beatmapsets/1100333#osu) by ::9ami::{ user=1499997 } and [2lewd](https://osu.ppy.sh/users/8286850)\
+[YOASOBI - Yoru ni Kakeru](https://osu.ppy.sh/beatmapsets/1100333#osu) by ::9ami::{ user=1499997 } and ::2lewd::{ user=8286850 }\
 130 BPM, 4:19 | 5.05★, 7.30★
 
 This mapset complements the ranked mapset of this song perfectly in offering two super enjoyable maps with star ratings that aren't found in the ranked mapset. These maps by 9ami and 2lewd provide a really fun challenge mapped to a fun and upbeat song. Don't just take my word for it, though: this has reached nearly 400 favorites in under a year, so it's time to bring it to the public and show you all what exactly makes it stand out.
@@ -84,7 +84,7 @@ This map feels like a final boss of sorts when it comes to grid mapping with its
 
 [![](/wiki/shared/news/2020-11-27-project-loved-november-2020/osu/9-sha.jpg)](https://osu.ppy.sh/community/forums/topics/1190607)
 
-[sakuraburst - sha](https://osu.ppy.sh/beatmapsets/624314#osu) by ::Ameth Rianno::{ user=5219516 } and [NeilPerry](https://osu.ppy.sh/users/841391)\
+[sakuraburst - sha](https://osu.ppy.sh/beatmapsets/624314#osu) by ::Ameth Rianno::{ user=5219516 } and ::NeilPerry::{ user=841391 }\
 170 BPM, 4:04 | 5.97★
 
 I think we all have this general understanding that sometimes the star rating of a map doesn't perfectly reflect how difficult a map is, but just how far can some maps push that rule? This map doesn't even pass 6 stars in difficulty, yet it's easily one of the most challenging and cleanly mapped technical maps that exist. Nearly every other slider changes speed, and nearly every object is a slider. Couple that with the fact that every slider is strategically mapped nearly to the point of perfection and you get yourself one of the most unforgiving challenges of a technical map out there. If you've been dying for a break from all the jumpy and generic maps out there, you *need* this map.
@@ -98,7 +98,7 @@ A lot of us already know of [the Ranked short version](https://osu.ppy.sh/beatma
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [nyanmi-1828](https://osu.ppy.sh/users/6866480) and ::Raphalge::{ user=3918650 }!
+osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::nyanmi-1828::{ user=6866480 } and ::Raphalge::{ user=3918650 }!
 
 ---
 
@@ -130,7 +130,7 @@ When I got on the bus I wasn't expecting such a smooth, graceful ride, but with 
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, [Tenshichan](https://osu.ppy.sh/users/1101600), ::Wesley::{ user=2407265 } and [Spectator](https://osu.ppy.sh/users/702598)!
+osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, ::Tenshichan::{ user=1101600 }, ::Wesley::{ user=2407265 } and ::Spectator::{ user=702598 }!
 
 ---
 
@@ -168,7 +168,7 @@ Kuzino is certainly a name that comes to mind when you think about old mappers t
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::-mint-::{ user=8976576 }, [Abraxos](https://osu.ppy.sh/users/5025064), ::lenpai::{ user=5314573 }, [Pope Gadget](https://osu.ppy.sh/users/2288341) and ::Toaph Daddy::{ user=7616811 }!
+osu!mania Loved candidates were chosen by ::-mint-::{ user=8976576 }, ::Abraxos::{ user=5025064 }, ::lenpai::{ user=5314573 }, ::Pope Gadget::{ user=2288341 } and ::Toaph Daddy::{ user=7616811 }!
 
 ---
 
@@ -196,7 +196,7 @@ Do you like super fast cars? Do you like eurobeat? Are fast-paced action-packed 
 
 [![](/wiki/shared/news/2020-11-27-project-loved-november-2020/mania/4-hanjuuryoku-no-machi.jpg)](https://osu.ppy.sh/community/forums/topics/1190590)
 
-[Ayo - Hanjuuryoku no Machi](https://osu.ppy.sh/beatmapsets/850757#mania) by ::MisterLuka::{ user=6117525 } and [Flexo123](https://osu.ppy.sh/users/5367287)\
+[Ayo - Hanjuuryoku no Machi](https://osu.ppy.sh/beatmapsets/850757#mania) by ::MisterLuka::{ user=6117525 } and ::Flexo123::{ user=5367287 }\
 170 BPM, 3:07 | \[4K\] 7.27★, \[6K\] 9.80★, \[7K\] 10.18★
 
 This month, we bring you another LN-based multi-keymode set by ruka and Flexo123 -- *Hanjuuryoku no Machi*. With 4K and 7K difficulties, this mapset has gained sizable popularity as a fun experience accompanied with a light-hearted song. The 4K difficulty, mapped by ruka, is mostly streamy with inverse jumpstreams, flams and bursts, and some long inverse streams; it is a welcoming and familiar experience to players who are accustomed to these kinds of charts. The 7K difficulty by Flexo123 is similar, with an emphasis on long notes and larger chords. With a variety of LN-based patterns, this mapset overall provides a very enjoyable time for those who play LN maps, and thus deserves a spot in the Loved section.
@@ -210,7 +210,7 @@ For this month, 7K is about to deliver a heaping serving of rice starting off wi
 
 [![](/wiki/shared/news/2020-11-27-project-loved-november-2020/mania/6-ichinen-nikagetsu-hatsuka.jpg)](https://osu.ppy.sh/community/forums/topics/1190588)
 
-[BRIGHT - Ichinen Nikagetsu Hatsuka](https://osu.ppy.sh/beatmapsets/895652#mania) by ::Kawawa::{ user=4647754 } and [Remuring](https://osu.ppy.sh/users/6522146)\
+[BRIGHT - Ichinen Nikagetsu Hatsuka](https://osu.ppy.sh/beatmapsets/895652#mania) by ::Kawawa::{ user=4647754 } and ::Remuring::{ user=6522146 }\
 131 BPM, 2:57 | \[7K\] 5.14★, \[7K\] 5.58★, \[7K\] 6.01★, \[7K\] 6.46★, \[7K\] 6.89★
 
 If wristjacks and control aren't quite your pace, we have a more chordstream oriented pick for this round. This collaboration between Kawawa and Remuring brings us a training chart with a fairly catchy song. As the difficulty names imply, brackets are the name of the game for this map. The set owner has done a considerate job of indicating the equivalent skill level for each rate with DT included. When factoring in HT, we have a range of 89 BPM up to 251 BPM as points of practice! Like the many people who have played this map, it's time for you to work on those bracketing skills!

@@ -20,7 +20,7 @@ You think to yourself how that's a really specific topic, but still get curious 
 
 Last, but not least, here are the latest happenings within the Project Loved team:
 
-- The applications for the Project Loved description reviewers have been closed, and after careful consideration and discussion, we are proud to welcome ::-Kazuha::{ user=29978316 }, [Albionthegreat](https://osu.ppy.sh/users/9853595), and ::Glassive::{ user=12453848 } to the team!
+- The applications for the Project Loved description reviewers have been closed, and after careful consideration and discussion, we are proud to welcome ::-Kazuha::{ user=29978316 }, ::Albionthegreat::{ user=9853595 }, and ::Glassive::{ user=12453848 } to the team!
 - ::Mismagius::{ user=19048 } shared data about [the performance of Project Loved's category system](https://twitter.com/mismagismagius/status/1775543974033293539) for osu!. If you are a stats nerd you will enjoy this.
 - ::Sebola::{ user=15821708 }, an osu!taiko captain has departed from the Project Loved team. We thank them for their service!
 - ::Remuring::{ user=6522146 } from the osu!mania side has also decided to step down after over a year of providing the 7K community with great Loved nominations! In the wake of their resignation, applications are now open for an osu!mania captain (specific to 7K), and you can apply by clicking the banner below!
@@ -36,7 +36,7 @@ Last, but not least, here are the latest happenings within the Project Loved tea
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::Aistre::{ user=4879380 }, [chiv](https://osu.ppy.sh/users/6701656), ::Danny Carey::{ user=7010761 }, [Librarian](https://osu.ppy.sh/users/10083084), ::megumic::{ user=7537133 }, [Mismagius](https://osu.ppy.sh/users/19048), ::Skill::{ user=7802027 }, and [vyper](https://osu.ppy.sh/users/9948665)!
+The osu! Loved candidates were chosen by ::Aistre::{ user=4879380 }, ::chiv::{ user=6701656 }, ::Danny Carey::{ user=7010761 }, ::Librarian::{ user=10083084 }, ::megumic::{ user=7537133 }, ::Mismagius::{ user=19048 }, ::Skill::{ user=7802027 }, and ::vyper::{ user=9948665 }!
 
 <div align="center">
   <video width="95%" controls>
@@ -84,26 +84,26 @@ Want to see this enter Loved? It's up to you, so leave us your vote!
 
 [![](/wiki/shared/news/2024-04-16-project-loved-april-2024/929130.jpg)](https://osu.ppy.sh/community/forums/topics/1910640)
 
-[Minamotoya feat. Kuroa\* - Hana Kagerou](https://osu.ppy.sh/beatmapsets/929130#osu) by ::Luscent::{ user=2688581 }, [Aery](https://osu.ppy.sh/users/3994671), ::fanzhen0019::{ user=418699 }, [Kyrari](https://osu.ppy.sh/users/2782093), ::Rumia-::{ user=1787171 }, and [YokesPai](https://osu.ppy.sh/users/6399568)\
+[Minamotoya feat. Kuroa\* - Hana Kagerou](https://osu.ppy.sh/beatmapsets/929130#osu) by ::Luscent::{ user=2688581 }, ::Aery::{ user=3994671 }, ::fanzhen0019::{ user=418699 }, ::Kyrari::{ user=2782093 }, ::Rumia-::{ user=1787171 }, and ::YokesPai::{ user=6399568 }\
 176 BPM, 2:01 | 2.33★ – 6.31★\
 *description written by ::Librarian::{ user=10083084 }*
 
 The humble beginnings of one of the greatest mappers in the modern osu! era, and it sure is a banger.
 
-This full set ranges from 2.33★ to 6.31★, boasting a mix of tech and reading. ::Luscent::{ user=2688581 } and [fanzhen0019](https://osu.ppy.sh/users/418699)'s diffs provide an enjoyable experience for the former, and ::YokesPai::{ user=6399568 } and [Aery](https://osu.ppy.sh/users/3994671)'s diffs ramp the density up for the latter. All this on top of an absolute bop, with Kuroa\*'s stunning vocals. Vote this classic in for Loved today!
+This full set ranges from 2.33★ to 6.31★, boasting a mix of tech and reading. ::Luscent::{ user=2688581 } and ::fanzhen0019::{ user=418699 }'s diffs provide an enjoyable experience for the former, and ::YokesPai::{ user=6399568 } and ::Aery::{ user=3994671 }'s diffs ramp the density up for the latter. All this on top of an absolute bop, with Kuroa\*'s stunning vocals. Vote this classic in for Loved today!
 
 *okay can we pretend i made a really funny infinite infection pun which made everyone laugh haha right here? haha! am i right??*
 
 [![](/wiki/shared/news/2024-04-16-project-loved-april-2024/1100957.jpg)](https://osu.ppy.sh/community/forums/topics/1910639)
 
-[SWAN K feat. Asuka M - LOVE B.B.B](https://osu.ppy.sh/beatmapsets/1100957#osu) by ::Saika0k1::{ user=4316633 } and [YokesPai](https://osu.ppy.sh/users/6399568)\
+[SWAN K feat. Asuka M - LOVE B.B.B](https://osu.ppy.sh/beatmapsets/1100957#osu) by ::Saika0k1::{ user=4316633 } and ::YokesPai::{ user=6399568 }\
 173 BPM, 1:51 | 5.85★, 5.98★\
 The \[cs4\] and \[YOKE'S 8.5\] difficulties are *not* being nominated for Loved.\
 *description written by ::chiv::{ user=6701656 }*
 
 ⚠ WARNING! ⚠ LOVE B.B.B DETECTED IN 2024
 
-That's right, our beloved players ::Saika0k1::{ user=4316633 } and [YokesPai](https://osu.ppy.sh/users/6399568) have put their own twist on [LOVE B.B.B's](https://osu.ppy.sh/beatmapsets/1100957#osu/2436870) electrifying built-in keysounds and beautiful melody. Although appearing as a simple reading challenge on the surface, constant rhythmic elements and heavy aim control make this possibly one of the most satisfying gimmick maps in the game. Also, I wasn't joking about the keysounds — the [backing track](https://www.youtube.com/watch?v=pJ2SreVR7eQ) sounds like it came straight from some *Final Destination* visualization.
+That's right, our beloved players ::Saika0k1::{ user=4316633 } and ::YokesPai::{ user=6399568 } have put their own twist on [LOVE B.B.B's](https://osu.ppy.sh/beatmapsets/1100957#osu/2436870) electrifying built-in keysounds and beautiful melody. Although appearing as a simple reading challenge on the surface, constant rhythmic elements and heavy aim control make this possibly one of the most satisfying gimmick maps in the game. Also, I wasn't joking about the keysounds — the [backing track](https://www.youtube.com/watch?v=pJ2SreVR7eQ) sounds like it came straight from some *Final Destination* visualization.
 
 So, does anyone actually know what the B.B.B part stands for? [Banger Bonanza Brawl](https://osu.ppy.sh/community/forums/topics/1541618?n=1)? [Biggest Beast Birchman](https://www.twitch.tv/videos/2108265280?t=01h38m23s)? [Blessed BATBALL Balancing](https://osu.ppy.sh/community/forums/topics/1767170?n=1)? What about Best Beatmap Built? Well, surely we can prove that by getting this Loved! :steamhappy::steamhappy::steamhappy:
 
@@ -147,7 +147,7 @@ Snow Note is famous for his very hard "old-style" maps, and this is no exception
 
 [![](/wiki/shared/news/2024-04-16-project-loved-april-2024/63732.jpg)](https://osu.ppy.sh/community/forums/topics/1910636)
 
-[Neil Davidge - Green & Blue (KOAN Sound Remix)](https://osu.ppy.sh/beatmapsets/63732#osu) by ::galvenize::{ user=381444 }, Ampzz, and [LKs](https://osu.ppy.sh/users/150768)\
+[Neil Davidge - Green & Blue (KOAN Sound Remix)](https://osu.ppy.sh/beatmapsets/63732#osu) by ::galvenize::{ user=381444 }, Ampzz, and ::LKs::{ user=150768 }\
 200 BPM, 2:27 | 1.65★, 2.14★, 3.77★, 5.17★\
 *description written by ::Librarian::{ user=10083084 }*
 
@@ -189,13 +189,13 @@ Want to see this map in a Loved state? Go vote now!
 
 I actually prefer to be ti— *Ahem*, let's just pretend that part of the beatmap description doesn't exist.
 
-One of the most popular maps from [OWC'21](/wiki/Tournaments/OWC/2021), ::Camo::{ user=5194391 }'s map of [Tie me down gently](https://osu.ppy.sh/beatmapsets/1621830#osu/3311238) has secured itself as a staple among any tournament mappool. Constant awkward aim and slider aim control keeps your fingers dancing whether you're playing NM, HR (bonus points!!) or that *other mod* that won't be mentioned for my own sake... This is, of course, assuming you're probably a normal player and not one of ::three::{ user=7562902 } [types](https://osu.ppy.sh/users/11415230) of ::aliens::{ user=2035254 }.
+One of the most popular maps from [OWC'21](/wiki/Tournaments/OWC/2021), ::Camo::{ user=5194391 }'s map of [Tie me down gently](https://osu.ppy.sh/beatmapsets/1621830#osu/3311238) has secured itself as a staple among any tournament mappool. Constant awkward aim and slider aim control keeps your fingers dancing whether you're playing NM, HR (bonus points!!) or that *other mod* that won't be mentioned for my own sake... This is, of course, assuming you're probably a normal player and not one of ::three::{ user=7562902 } ::types::{ user=11415230 } of ::aliens::{ user=2035254 }.
 
 Anyways, one vote for this map means one less HD map in your mappool that's a 250 BPM burst check map disguised as what those snarky mappoolers call "density". Your local charity full of ::snail aim players::{ user=5477343 } will be ecstatic to see this one again!
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::aceticke::{ user=8838763 }, [Boaz](https://osu.ppy.sh/users/13302996), ::Gamelan4::{ user=9856910 }, [Horiiizon](https://osu.ppy.sh/users/8071438), and ::ler1211::{ user=19901680 }!
+The osu!taiko Loved candidates were chosen by ::aceticke::{ user=8838763 }, ::Boaz::{ user=13302996 }, ::Gamelan4::{ user=9856910 }, ::Horiiizon::{ user=8071438 }, and ::ler1211::{ user=19901680 }!
 
 <div align="center">
   <video width="95%" controls>
@@ -253,7 +253,7 @@ Do you have what it takes?
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::fuhie::{ user=7620002 }, [Tenshichan](https://osu.ppy.sh/users/1101600), and ::Wesley::{ user=2407265 }!
+The osu!catch Loved candidates were chosen by ::fuhie::{ user=7620002 }, ::Tenshichan::{ user=1101600 }, and ::Wesley::{ user=2407265 }!
 
 <div align="center">
   <video width="95%" controls>
@@ -280,7 +280,7 @@ Give it a try! Despite its age, it's a fantastic map.
 
 [![](/wiki/shared/news/2024-04-16-project-loved-april-2024/1285325.jpg)](https://osu.ppy.sh/community/forums/topics/1910626)
 
-[ExileLord - Soulless 2](https://osu.ppy.sh/beatmapsets/1285325#fruits) by ::Sutavv::{ user=5320583 } and [fuhie](https://osu.ppy.sh/users/7620002)\
+[ExileLord - Soulless 2](https://osu.ppy.sh/beatmapsets/1285325#fruits) by ::Sutavv::{ user=5320583 } and ::fuhie::{ user=7620002 }\
 250 BPM, 4:38 | 9.90★\
 *description written by ::fuhie::{ user=7620002 }*
 
@@ -308,7 +308,7 @@ Are you ready to take on [GHOST](https://osu.ppy.sh/beatmapsets/643481#fruits/13
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::elexire::{ user=9206093 }, [Leeju](https://osu.ppy.sh/users/18219603), ::Paturages::{ user=1375479 }, [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::SunApple::{ user=11817622 }, and [YuEast 2018](https://osu.ppy.sh/users/13953619)!
+The osu!mania Loved candidates were chosen by ::elexire::{ user=9206093 }, ::Leeju::{ user=18219603 }, ::Paturages::{ user=1375479 }, ::Silhoueska Elze::{ user=11517895 }, ::SunApple::{ user=11817622 }, and ::YuEast 2018::{ user=13953619 }!
 
 <div align="center">
   <video width="95%" controls>
@@ -417,7 +417,7 @@ ruka is once again demonstrating their skill in charting creative and enjoyable 
 
 [![](/wiki/shared/news/2024-04-16-project-loved-april-2024/1529154.jpg)](https://osu.ppy.sh/community/forums/topics/1910617)
 
-[Carpainter ft. Onjuice (FOXSKY Version) - PAM!!!](https://osu.ppy.sh/beatmapsets/1529154#mania) by ::arcwinolivirus::{ user=2039089 } and [Remuring](https://osu.ppy.sh/users/6522146)\
+[Carpainter ft. Onjuice (FOXSKY Version) - PAM!!!](https://osu.ppy.sh/beatmapsets/1529154#mania) by ::arcwinolivirus::{ user=2039089 } and ::Remuring::{ user=6522146 }\
 135 – 148.5 BPM, 2:48 | 4.26★ – 8.50★\
 *description written by ::Leeju::{ user=18219603 }*
 

@@ -16,7 +16,7 @@ The [markup language](https://en.wikipedia.org/wiki/Markup_language) [BBCode](/w
 
 ## March
 
-In 2022's [Skin of the Year](https://osu.ppy.sh/home/news/2023-02-09-skin-of-the-year-2022) contest, users were able to vote for their most favourite skin. The top three entries from 1st to 3rd place, by ::- Koshiin -::{ user=19135423 }, [moonstaar](https://osu.ppy.sh/users/27339355), and ::BatuhanYtho::{ user=12091015 } respectively, received custom badges as the contest's price. Each finalist ranging from place #1 to #10 was gifted different amounts of osu!supporter.[^soty-results]
+In 2022's [Skin of the Year](https://osu.ppy.sh/home/news/2023-02-09-skin-of-the-year-2022) contest, users were able to vote for their most favourite skin. The top three entries from 1st to 3rd place, by ::- Koshiin -::{ user=19135423 }, ::moonstaar::{ user=27339355 }, and ::BatuhanYtho::{ user=12091015 } respectively, received custom badges as the contest's price. Each finalist ranging from place #1 to #10 was gifted different amounts of osu!supporter.[^soty-results]
 
 ::EEEEEEEEEEEEEEE::{ user=2927048 } played all ranked beatmaps in the [osu! game mode](/wiki/Game_mode/osu!) as of March 12 and is thus the third to receive the [osu!completionist](/wiki/People/Completionists) [user title](/wiki/Community/User_title).[^completionist-tweet]
 
@@ -46,7 +46,7 @@ In the second release of the month 2 weeks later, the osu! [game mode](/wiki/Gam
 
 The third season of [osu!monthly](/wiki/Community/osu!monthly) ended with the [9th edition](https://osu.ppy.sh/home/news/2023-06-26-osumonthly-9), outlining the most important community events from March 2023. Mainly due to the mapping team within the project disbanding[^mapping-team-disbanding] and the ample effort required to author osu!monthly editions, the osu!monthly team decided to put the project on hold for the time being. Reorganising the work and publishing seasonal or annual editions instead was considered in various discussions.[^monthly-discord][^writing-proposal] ::0x84f::{ user=7944724 }, one of the third season's project leaders, also published public polls to find out what the community was interested in and would like to see in the osu! website's news section in general.[^news-content-1][^news-content-2]
 
-Serving as a memorial to the first two seasons that were published in a PDF format, the 9th osu!monthly was realised [as a magazine](https://assets.ppy.sh/media/osu-monthly/2023-03/osu-monthly-2023-03.pdf) instead of the usual news posts. It featured news about mapping, skinning and community happenings, as well as interviews with ::EEEEEEEEEEEEEEE::{ user=2927048 } and [pishifat](https://osu.ppy.sh/users/3178418).
+Serving as a memorial to the first two seasons that were published in a PDF format, the 9th osu!monthly was realised [as a magazine](https://assets.ppy.sh/media/osu-monthly/2023-03/osu-monthly-2023-03.pdf) instead of the usual news posts. It featured news about mapping, skinning and community happenings, as well as interviews with ::EEEEEEEEEEEEEEE::{ user=2927048 } and ::pishifat::{ user=3178418 }.
 
 ## July
 
@@ -54,7 +54,7 @@ Serving as a memorial to the first two seasons that were published in a PDF form
 
 ## August
 
-From May through August, the [Icons of an Era](https://osu.ppy.sh/home/news/2023-05-10-skinning-contest-icons-of-an-era) skinning contest was organised to celebrate 15 years of osu! in the form of [skins](/wiki/Skin) representing popular beatmaps or mascots. ::Spoo::{ user=11805037 }, [Chromasia](https://osu.ppy.sh/users/7306251), and ::thetasigma::{ user=6234482 } won first, second, and third place in the contest respectively. The prize included a custom badge and varying amounts of osu!supporter.[^icons-of-an-era]
+From May through August, the [Icons of an Era](https://osu.ppy.sh/home/news/2023-05-10-skinning-contest-icons-of-an-era) skinning contest was organised to celebrate 15 years of osu! in the form of [skins](/wiki/Skin) representing popular beatmaps or mascots. ::Spoo::{ user=11805037 }, ::Chromasia::{ user=7306251 }, and ::thetasigma::{ user=6234482 } won first, second, and third place in the contest respectively. The prize included a custom badge and varying amounts of osu!supporter.[^icons-of-an-era]
 
 ::: Infobox
 ![](img/place-profile.png "Screenshot of the canvas on 20 October 2024")

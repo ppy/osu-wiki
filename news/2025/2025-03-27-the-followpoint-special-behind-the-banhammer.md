@@ -11,7 +11,7 @@ Ever wanted to get some insight into how Global Moderation Team works? Then now 
 
 Welcome, strangers and returning readers! Like you've already read in the title and the short intro, this post of The Followpoint will be an unusual one, talking about a team inside osu! instead of an individual person. The [Global Moderation Team](/wiki/People/Global_Moderation_Team) (usually referred to as GMT) is one of the essential and oldest osu! teams, consisting of community members who mainly focus on player moderation. Its [wiki article](/wiki/People/Global_Moderation_Team) explains things really well, so you should give it a read if you haven't yet!
 
-We're still an interview series, and for today's news post we interviewed **all 3 current leaders** of the Global Moderation Team: ::0x84f::{ user=7944724 }, [Kobold84](https://osu.ppy.sh/users/3227533) and ::Venix::{ user=5999631 }! Be warned though, please don't expect this to be all serious and reveal every secret or something. We tried to make the questions interesting while also remaining a little bit silly. 🙃
+We're still an interview series, and for today's news post we interviewed **all 3 current leaders** of the Global Moderation Team: ::0x84f::{ user=7944724 }, ::Kobold84::{ user=3227533 } and ::Venix::{ user=5999631 }! Be warned though, please don't expect this to be all serious and reveal every secret or something. We tried to make the questions interesting while also remaining a little bit silly. 🙃
 
 And now with the small introductions done, let's get to the interview!
 

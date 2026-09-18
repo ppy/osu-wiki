@@ -60,18 +60,18 @@ How could anyone forget one of the most iconic beatmaps of 2015? cRyo\[iceeicee\
 [Zedd, Grey - Adrenaline](https://osu.ppy.sh/beatmapsets/584333) by ::Hollow Wings::{ user=416662 } et al.\
 *written by ::Kaifin::{ user=2596942 }*
 
-Adrenaline marks Hollow Wings' debut into Loved, and this mapset is certainly a fantastic start. The beatmap is brutally difficult, requiring incredibly precise aim as well as reading and finger control to properly play while remaining super fun and fair to the player. If the top difficulty isn't to your taste, there are three other Extra guest difficulties by notable mappers like ::Kite::{ user=134572 } and [Pho](https://osu.ppy.sh/users/3624692), so there is something for everyone in this masterfully crafted set!
+Adrenaline marks Hollow Wings' debut into Loved, and this mapset is certainly a fantastic start. The beatmap is brutally difficult, requiring incredibly precise aim as well as reading and finger control to properly play while remaining super fun and fair to the player. If the top difficulty isn't to your taste, there are three other Extra guest difficulties by notable mappers like ::Kite::{ user=134572 } and ::Pho::{ user=3624692 }, so there is something for everyone in this masterfully crafted set!
 
 [![](/wiki/shared/news/2018-04-09-project-loved-week-of-april-8th/osu/last-stardust.jpg)](https://osu.ppy.sh/community/forums/topics/727583)
 
-[BLOOD STAIN CHILD - Last Stardust](https://osu.ppy.sh/beatmapsets/332345) by ::Smoothie::{ user=1065180 } and [tutuhara](https://osu.ppy.sh/users/3043544)\
+[BLOOD STAIN CHILD - Last Stardust](https://osu.ppy.sh/beatmapsets/332345) by ::Smoothie::{ user=1065180 } and ::tutuhara::{ user=3043544 }\
 *written by ::Kaifin::{ user=2596942 }*
 
 Coming right out of mid 2015 is Smoothie's mapset of Last Stardust, a beatmap which has been revered by many stream players for its high quality. It is quite rare for a brutal song like this one to get a full spread, let alone one of this high of quality, so even if you aren't a top tier stream player there are still plenty of difficulties for you to enjoy! If you're craving a high bpm streaming challenge, this is definitely the beatmap for you.
 
 [![](/wiki/shared/news/2018-04-09-project-loved-week-of-april-8th/osu/kakushigoto.jpg)](https://osu.ppy.sh/community/forums/topics/727585)
 
-[yuikonnu - Kakushigoto](https://osu.ppy.sh/beatmapsets/104727) by ::murasaki\1sk::{ user=1022958 } and [caren\_sk](https://osu.ppy.sh/users/542498)\
+[yuikonnu - Kakushigoto](https://osu.ppy.sh/beatmapsets/104727) by ::murasaki\1sk::{ user=1022958 } and ::caren\_sk::{ user=542498 }\
 *written by ::Toy::{ user=2757689 }*
 
 To go along with the other few iconic beatmaps predating 2015, murasaki\_sk tagged with caren\_sk (better known as CRN) to create an immensely popular rendition of a similarly popular song, Kakushigoto. Standing at 220+ favorites, this map, while slowly forgotten through the passage of time, still remains as an artifact of mapping before ppv2.
@@ -112,14 +112,14 @@ ProfessionalBox has long been known as a high quality technical mapper, and koda
 
 [![](/wiki/shared/news/2018-04-09-project-loved-week-of-april-8th/taiko/soundcloud-do-not-die.jpg)](https://osu.ppy.sh/community/forums/topics/727591)
 
-[Katagiri - Soundcloud, do not die!](https://osu.ppy.sh/beatmapsets/702806) by ::Rafael Nadal::{ user=3456229 } and [Sansheng](https://osu.ppy.sh/users/3579473)\
+[Katagiri - Soundcloud, do not die!](https://osu.ppy.sh/beatmapsets/702806) by ::Rafael Nadal::{ user=3456229 } and ::Sansheng::{ user=3579473 }\
 *written by ::Gezoda::{ user=481582 }*
 
 Boy, where do we have to start? Soundcloud, do not die! is a difficult beatmap by Rafael Nadal - not the famous tennisman - and is going to be very taxing on your stamina. It also comes with a slightly easier difficulty by Sansheng, complimenting the beatmap and offering a different approach to the beatmap! Both of the difficulties are very difficult to master, as its density is very high, reaching 1,000 notes per minute. Needless to say, this beatmap is really not for the faint-hearted! If you're looking for a fun, difficult beatmap and want to train your stamina, look no further!
 
 [![](/wiki/shared/news/2018-04-09-project-loved-week-of-april-8th/taiko/grief-and-malice.jpg)](https://osu.ppy.sh/community/forums/topics/727592)
 
-[Helblinde - Grief & Malice](https://osu.ppy.sh/beatmapsets/439241) by ::S a n d::{ user=676578 } and [Backfire](https://osu.ppy.sh/users/263110)\
+[Helblinde - Grief & Malice](https://osu.ppy.sh/beatmapsets/439241) by ::S a n d::{ user=676578 } and ::Backfire::{ user=263110 }\
 *written by ::Gezoda::{ user=481582 }*
 
 Created by S a n d and Backfire, Grief & Malice is a popular beatmap that some of you have already played in Taiko World Cup 2017. This awesome beatmap uses mild SV, kiai fountains and many streams all set to a catchy tune! The beatmap is challenging without being too hard, and is fun for most players who are seeking a great beatmap to play anytime, in any occasion: multiplayer, singleplayer, tournaments, etc.
@@ -140,7 +140,7 @@ A very notably high star difficulty that just seemed to never get pushed for Ran
 
 [![](/wiki/shared/news/2018-04-09-project-loved-week-of-april-8th/taiko/uber-6.jpg)](https://osu.ppy.sh/community/forums/topics/727595)
 
-[PrimeMIX - Uber 6](https://osu.ppy.sh/beatmapsets/332051) by ::snowball112::{ user=2350722 }, [Onicorn](https://osu.ppy.sh/users/3936770) and ::Okoratu::{ user=1623405 }\
+[PrimeMIX - Uber 6](https://osu.ppy.sh/beatmapsets/332051) by ::snowball112::{ user=2350722 }, ::Onicorn::{ user=3936770 } and ::Okoratu::{ user=1623405 }\
 *written by ::Backfire::{ user=263110 }*
 
 Familiar to those who participated in the TWC: Last Man Standing 3 Tournament, this is a bit of a peculiar map, as it was in the Grand Finals Free Mod bracket, but also it seems that its background was a real hit with the Japanese team that ended up winning, all of them having corresponding avatars (which can actually still be seen on IceOC's user page!). The mapset itself has a variety of difficulties for everyone to enjoy, and we hope everyone appreciates it in the same way that everyone appreciates the background!
@@ -195,7 +195,7 @@ Apparition from Razor Sharp is definitely one hell of a map. This super strenuou
 
 [![](/wiki/shared/news/2018-04-09-project-loved-week-of-april-8th/catch/pizza-rolls.jpg)](https://osu.ppy.sh/community/forums/topics/727603)
 
-[Shawn Wasabi - Pizza Rolls (metal x EDM mashup)](https://osu.ppy.sh/beatmapsets/246497) by ::\[224\]Reol::{ user=3313041 } and [Gommy](https://osu.ppy.sh/users/3555114)\
+[Shawn Wasabi - Pizza Rolls (metal x EDM mashup)](https://osu.ppy.sh/beatmapsets/246497) by ::\[224\]Reol::{ user=3313041 } and ::Gommy::{ user=3555114 }\
 *written by ::JBHyperion::{ user=4879508 }*
 
 A true classic seen in multiplayer lobbies the world over for years, \[224\]Reol's take on one of the emergent Shawn Wasabi's earliest tracks is a beatmap that has been overlooked for inclusion in the Loved category for far too long. With emphasis on  both quick, snapping patterns as well as more tempered, flowing slider-heavy sections, Pizza Rolls provides everything you could want from a beatmap in this category; challenge, intrigue, nostalgia, and most importantly of all, a huge dose of fun bopping along to this energetic 50-something song mashup.
@@ -257,7 +257,7 @@ A lot of people wanted to see this beatmap loved, and here comes the chance for 
 
 [![](/wiki/shared/news/2018-04-09-project-loved-week-of-april-8th/mania/messier-333.jpg)](https://osu.ppy.sh/community/forums/topics/727614)
 
-[sun3 - Messier 333](https://osu.ppy.sh/beatmapsets/89535) by ::MOONWOLF::{ user=228917 }, [Marirose](https://osu.ppy.sh/users/1899763), ::Nijigen-kun::{ user=4635760 } and [leqek](https://osu.ppy.sh/users/1517607)\
+[sun3 - Messier 333](https://osu.ppy.sh/beatmapsets/89535) by ::MOONWOLF::{ user=228917 }, ::Marirose::{ user=1899763 }, ::Nijigen-kun::{ user=4635760 } and ::leqek::{ user=1517607 }\
 *written by ::Kamikaze::{ user=2124783 }*
 
 Next up is a song that is a classic amongst older rhythm game players, a song from EZ2DJ and THE BMS OF FIGHTERS 2009 - revolutionary battles -, one of the most recognizable songs from those games, Messier 333 by sun3 charted by an old Korean charter MOONWOLF with guest difficulties by Marirose (formerly known as xeona), Nijigen-kun (listed here as 2D) and leqek. This set features four keymodes—4, 5, 6 and 7K—and it has a full spread of difficulties mainly testing your typical BMS skillsets, streams, density and an insane amount of bracketing on 7K Extra difficulty. It will test your physical abilities as well as your mental stamina and general prowess at the keymode of your choice. Good luck and don't get lost in the rice!
@@ -271,7 +271,7 @@ More Long Notes! This time we have Entozer coming up with a very special beatmap
 
 [![](/wiki/shared/news/2018-04-09-project-loved-week-of-april-8th/mania/over-the-top.jpg)](https://osu.ppy.sh/community/forums/topics/727616)
 
-[xi - over the top](https://osu.ppy.sh/beatmapsets/416575) by ::ArcherLove::{ user=2468021 }, [AncuL](https://osu.ppy.sh/users/2449200) and ::Eternalie::{ user=1378291 }\
+[xi - over the top](https://osu.ppy.sh/beatmapsets/416575) by ::ArcherLove::{ user=2468021 }, ::AncuL::{ user=2449200 } and ::Eternalie::{ user=1378291 }\
 *written by ::aitor98::{ user=3154852 }*
 
 xi - over the top is a beatmap created by ArcherLove that is mainly focused in 7K, with a wide range of difficulties that makes this set accessible for every kind of player, no matter how skilled you are. It does have a few Guest Difficulties as well, done by AncuL and Eternalie, which helped this set a lot in terms of pattern variety. The beatmap has both Chordstream and Long Note based difficulties, so even if there is a difficulty that you might not like due to the patterns, pretty sure you'll find another one that will meet your standards.

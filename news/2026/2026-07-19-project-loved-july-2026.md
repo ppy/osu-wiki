@@ -39,7 +39,7 @@ PS. There are no preview videos in this round since our beloved video editor is 
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::BATBALL::{ user=15173952 }, [Chaoslitz](https://osu.ppy.sh/users/3621552), ::chiv::{ user=6701656 }, [MALISZEWSKI](https://osu.ppy.sh/users/12408961), ::momoyo::{ user=12469536 }, [Petal](https://osu.ppy.sh/users/7354729), ::plambob::{ user=10077431 }, [Riot](https://osu.ppy.sh/users/4256461), ::seros::{ user=10562853 }, [Skill](https://osu.ppy.sh/users/7802027), and ::Wispy::{ user=11106929 }!
+The osu! Loved candidates were chosen by ::BATBALL::{ user=15173952 }, ::Chaoslitz::{ user=3621552 }, ::chiv::{ user=6701656 }, ::MALISZEWSKI::{ user=12408961 }, ::momoyo::{ user=12469536 }, ::Petal::{ user=7354729 }, ::plambob::{ user=10077431 }, ::Riot::{ user=4256461 }, ::seros::{ user=10562853 }, ::Skill::{ user=7802027 }, and ::Wispy::{ user=11106929 }!
 
 **[Click here to download all of this round's osu! picks!](https://packs.ppy.sh/LR100%20-%20Project%20Loved:%20July%202026%20(osu!).zip)**
 
@@ -87,13 +87,13 @@ Make sure to vote **YES** and get ready for the custom maps we will have in this
 
 [![](/wiki/shared/news/2026-07-19-project-loved-july-2026/858243.jpg)](https://osu.ppy.sh/community/forums/topics/2226662)
 
-[t.A.T.u - Not Gonna Get Us](https://osu.ppy.sh/beatmapsets/858243#osu) by ::-NeBu-::{ user=4099626 } and [saggi](https://osu.ppy.sh/users/8027395)\
+[t.A.T.u - Not Gonna Get Us](https://osu.ppy.sh/beatmapsets/858243#osu) by ::-NeBu-::{ user=4099626 } and ::saggi::{ user=8027395 }\
 130 BPM, 3:48 | 7.96★, 8.49★\
 *description written by ::MALISZEWSKI::{ user=12408961 }*
 
 AIM JULY STRIKES AGAIN
 
-We are keeping the momentum going with a well-known titan of a map: [t.A.T.u - Not Gonna Get Us](https://osu.ppy.sh/beatmapsets/858243#osu), brought to you by the Polish duo ::-NeBu-::{ user=4099626 } and [saggi](https://osu.ppy.sh/users/8027395).
+We are keeping the momentum going with a well-known titan of a map: [t.A.T.u - Not Gonna Get Us](https://osu.ppy.sh/beatmapsets/858243#osu), brought to you by the Polish duo ::-NeBu-::{ user=4099626 } and ::saggi::{ user=8027395 }.
 
 If you know anything about these two mappers, you know exactly what you're getting into. Unapologetically aggressive, high-skill jump maps that push your aiming limits. The energy of this 2000s masterpiece fits their signature style perfectly, making it an absolute blast to play from start to finish.
 
@@ -101,7 +101,7 @@ Make sure to vote "YES" and show some love to this map!
 
 [![](/wiki/shared/news/2026-07-19-project-loved-july-2026/961858.jpg)](https://osu.ppy.sh/community/forums/topics/2226663)
 
-[YUC'e - PUMP](https://osu.ppy.sh/beatmapsets/961858#osu) by ::Kawashiro::{ user=1533796 }, [-Amia](https://osu.ppy.sh/users/1872936), ::921206025887::{ user=4879380 }, [Acylica](https://osu.ppy.sh/users/1943309), ::Affirmation::{ user=6186628 }, [ailv](https://osu.ppy.sh/users/6933054), ::Dailycare::{ user=1634445 }, [Dasvidaniya](https://osu.ppy.sh/users/4746949), ::Fursum::{ user=4865030 }, [GimBab](https://osu.ppy.sh/users/3141964), ::hime::{ user=2490770 }, [Isagi Yoichi](https://osu.ppy.sh/users/2013571), ::Kensuke::{ user=4314710 }, [Otosaka-Yu](https://osu.ppy.sh/users/3170678), ::Pachiru::{ user=2850983 }, [Realazy](https://osu.ppy.sh/users/918297), ::Rieri::{ user=5379679 }, [Rose Pacifica](https://osu.ppy.sh/users/1393255), ::Sakurai Miyo::{ user=1125647 }, [Sing](https://osu.ppy.sh/users/3795679), ::Suisei Hosimati::{ user=2433720 }, [Taeyang](https://osu.ppy.sh/users/2732340), ::yf\_bmp::{ user=1243669 }, and [Yusomi](https://osu.ppy.sh/users/4174940)\
+[YUC'e - PUMP](https://osu.ppy.sh/beatmapsets/961858#osu) by ::Kawashiro::{ user=1533796 }, ::-Amia::{ user=1872936 }, ::921206025887::{ user=4879380 }, ::Acylica::{ user=1943309 }, ::Affirmation::{ user=6186628 }, ::ailv::{ user=6933054 }, ::Dailycare::{ user=1634445 }, ::Dasvidaniya::{ user=4746949 }, ::Fursum::{ user=4865030 }, ::GimBab::{ user=3141964 }, ::hime::{ user=2490770 }, ::Isagi Yoichi::{ user=2013571 }, ::Kensuke::{ user=4314710 }, ::Otosaka-Yu::{ user=3170678 }, ::Pachiru::{ user=2850983 }, ::Realazy::{ user=918297 }, ::Rieri::{ user=5379679 }, ::Rose Pacifica::{ user=1393255 }, ::Sakurai Miyo::{ user=1125647 }, ::Sing::{ user=3795679 }, ::Suisei Hosimati::{ user=2433720 }, ::Taeyang::{ user=2732340 }, ::yf\_bmp::{ user=1243669 }, and ::Yusomi::{ user=4174940 }\
 180 BPM, 1:08 | 2.05★ – 7.86★\
 *description written by ::Bernkastel::{ user=5154946 }*
 
@@ -175,11 +175,11 @@ If you're up for a challenge, VOTE YES NOW!!!
 
 [![](/wiki/shared/news/2026-07-19-project-loved-july-2026/506618.jpg)](https://osu.ppy.sh/community/forums/topics/2226668)
 
-[GET IN THE RING - Moonscraper](https://osu.ppy.sh/beatmapsets/506618#osu) by ::Seni::{ user=4830261 } and [Yusomi](https://osu.ppy.sh/users/4174940)\
+[GET IN THE RING - Moonscraper](https://osu.ppy.sh/beatmapsets/506618#osu) by ::Seni::{ user=4830261 } and ::Yusomi::{ user=4174940 }\
 220 BPM, 3:49 | 7.59★, 7.65★\
 *description written by ::Skill::{ user=7802027 }*
 
-This months *Skill-certified aim pick* is ::Seni::{ user=4830261 } & [Yusomi](https://osu.ppy.sh/users/4174940)'s collab of [GET IN THE RING - Moonscraper](https://osu.ppy.sh/beatmapsets/506618#osu).
+This months *Skill-certified aim pick* is ::Seni::{ user=4830261 } & ::Yusomi::{ user=4174940 }'s collab of [GET IN THE RING - Moonscraper](https://osu.ppy.sh/beatmapsets/506618#osu).
 
 If you were around in 2016/2017, you've most likely come across this map, whether it would be from [Cookiezi's iconic HDHR 2 miss](https://youtu.be/KaRVwELVdLk?si=bf4tIP26Pdl1uxyC), [Angelsim's 1x100 NM FC](https://youtu.be/kKL3ya5BnBs?si=etOa1zX58OJ_d9YL) or just simply by looking for higher SR aim maps back then. This map is the perfect example of what people look for in "graveyarded 2016 aim maps", produced by 2 of the most iconic aim mappers in the game today.
 
@@ -201,19 +201,19 @@ Keep your eyes on the road, and make sure to take the fork in the road labeled "
 
 [![](/wiki/shared/news/2026-07-19-project-loved-july-2026/2242333.jpg)](https://osu.ppy.sh/community/forums/topics/2226670)
 
-[alien3 - alien friend request](https://osu.ppy.sh/beatmapsets/2242333#osu) by ::melonboy::{ user=3053382 }, [Chai the Tea](https://osu.ppy.sh/users/10234218), ::MintLeaf::{ user=18649304 }, and [waefwerf](https://osu.ppy.sh/users/3868653)\
+[alien3 - alien friend request](https://osu.ppy.sh/beatmapsets/2242333#osu) by ::melonboy::{ user=3053382 }, ::Chai the Tea::{ user=10234218 }, ::MintLeaf::{ user=18649304 }, and ::waefwerf::{ user=3868653 }\
 200 BPM, 3:35 | 5.89★, 6.56★\
 *description written by ::chiv::{ user=6701656 }*
 
 *⚡ Turn on the generator...*
 
-Yes, you aren't dreaming. ::melonboy::{ user=3053382 }'s [alien friend request](https://osu.ppy.sh/beatmapsets/2242333#osu) has officially touched down in Project Loved. This lovely passion project was born out of the legendary [Kyoku 2024](/wiki/Contests/Kyoku/2024), where mappers and artists joined forces to cook up some magic. Here, ::melonboy::{ user=3053382 } pulled double duty, showing off serious chops in both mapping and vocals, while legendary mapper ::-PC::{ user=2916414 } brought the song's composition to life. With backup from close friends ::Chai the Tea::{ user=10234218 } and [waefwerf](https://osu.ppy.sh/users/3868653), plus a delightful reading difficulty from ::MintLeaf::{ user=18649304 }, this beatmap is pure charm from start to finish, feeling like a genuine love letter to the game.
+Yes, you aren't dreaming. ::melonboy::{ user=3053382 }'s [alien friend request](https://osu.ppy.sh/beatmapsets/2242333#osu) has officially touched down in Project Loved. This lovely passion project was born out of the legendary [Kyoku 2024](/wiki/Contests/Kyoku/2024), where mappers and artists joined forces to cook up some magic. Here, ::melonboy::{ user=3053382 } pulled double duty, showing off serious chops in both mapping and vocals, while legendary mapper ::-PC::{ user=2916414 } brought the song's composition to life. With backup from close friends ::Chai the Tea::{ user=10234218 } and ::waefwerf::{ user=3868653 }, plus a delightful reading difficulty from ::MintLeaf::{ user=18649304 }, this beatmap is pure charm from start to finish, feeling like a genuine love letter to the game.
 
 Here's a word from our sponsor this week. 🐸: "Ahem. It seems to me that you guys have two options.... Let's make sure we vote 'yes!'"
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::\_gt::{ user=8301957 }, [Horiiizon](https://osu.ppy.sh/users/8071438), ::K a y o k o::{ user=17664300 }, and [nevqr](https://osu.ppy.sh/users/14269506)!
+The osu!taiko Loved candidates were chosen by ::\_gt::{ user=8301957 }, ::Horiiizon::{ user=8071438 }, ::K a y o k o::{ user=17664300 }, and ::nevqr::{ user=14269506 }!
 
 **[Click here to download all of this round's osu!taiko picks!](https://packs.ppy.sh/LR99%20-%20Project%20Loved:%20July%202026%20(osu!taiko).zip)**
 
@@ -272,7 +272,7 @@ Would you like to see this in Loved? Are you feelin' me? Make sure to vote yes i
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::Jakkubon::{ user=3396013 }, [LaviSorrow](https://osu.ppy.sh/users/9966768), ::MILK\_16::{ user=9137627 }, and [Natsuko](https://osu.ppy.sh/users/8266817)!
+The osu!catch Loved candidates were chosen by ::Jakkubon::{ user=3396013 }, ::LaviSorrow::{ user=9966768 }, ::MILK\_16::{ user=9137627 }, and ::Natsuko::{ user=8266817 }!
 
 **[Click here to download all of this round's osu!catch picks!](https://packs.ppy.sh/LR98%20-%20Project%20Loved:%20July%202026%20(osu!catch).zip)**
 
@@ -280,13 +280,13 @@ The osu!catch Loved candidates were chosen by ::Jakkubon::{ user=3396013 }, [Lav
 
 [![](/wiki/shared/news/2026-07-19-project-loved-july-2026/746788.jpg)](https://osu.ppy.sh/community/forums/topics/2226648)
 
-[Function Phantom - Algebra](https://osu.ppy.sh/beatmapsets/746788#fruits) by ::Yumeno Himiko::{ user=1806962 }, [CLSW](https://osu.ppy.sh/users/531253), and ::Spectator::{ user=702598 }\
+[Function Phantom - Algebra](https://osu.ppy.sh/beatmapsets/746788#fruits) by ::Yumeno Himiko::{ user=1806962 }, ::CLSW::{ user=531253 }, and ::Spectator::{ user=702598 }\
 177 BPM, 4:01 | 5.36★, 5.36★, 5.36★, 5.36★\
 *description written by ::Natsuko::{ user=8266817 }*
 
 Aspire is all about trying things you've probably never seen before, and this set is a perfect example of that.
 
-Originally mapped by ::Spectator::{ user=702598 } and [CLSW](https://osu.ppy.sh/users/531253), and later brought further with the Aspire concept made by ::Yumeno Himiko::{ user=1806962 } (a mapper who's already known for making some really creative storyboard projects), this set takes that same mindset into osu!catch with four experimental difficulties. The Speed Change versions are the first attempt at playing around with dynamic SV, while the Prototype versions make notes speed up or slow down as they fall, giving the gameplay a really different feel inspired by games like Deemo.
+Originally mapped by ::Spectator::{ user=702598 } and ::CLSW::{ user=531253 }, and later brought further with the Aspire concept made by ::Yumeno Himiko::{ user=1806962 } (a mapper who's already known for making some really creative storyboard projects), this set takes that same mindset into osu!catch with four experimental difficulties. The Speed Change versions are the first attempt at playing around with dynamic SV, while the Prototype versions make notes speed up or slow down as they fall, giving the gameplay a really different feel inspired by games like Deemo.
 
 It's a super cool and innovative take on catch, and definitely something you won't find in a classic map. If the included skin is giving you a hard time, there's also a document linked in the map description that shows you how to play everything with your own skin instead.
 
@@ -308,7 +308,7 @@ I don't want to bother you any further with this, but you really should go vote 
 
 [![](/wiki/shared/news/2026-07-19-project-loved-july-2026/943051.jpg)](https://osu.ppy.sh/community/forums/topics/2226650)
 
-[t+pazolite - Chrome VOX](https://osu.ppy.sh/beatmapsets/943051#fruits) by ::Absolute Zero::{ user=4847256 } and [Rocma](https://osu.ppy.sh/users/566276)\
+[t+pazolite - Chrome VOX](https://osu.ppy.sh/beatmapsets/943051#fruits) by ::Absolute Zero::{ user=4847256 } and ::Rocma::{ user=566276 }\
 205 BPM, 2:22 | 1.78★, 2.47★, 3.31★, 5.44★, 5.47★\
 The \[Collab Rain\] difficulty is *not* being nominated for Loved.\
 *description written by ::Jakkubon::{ user=3396013 }*
@@ -339,7 +339,7 @@ Today, we're excited to bring you this mapset as a standalone release, giving yo
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::BKwind::{ user=8900975 }, [Carpihat](https://osu.ppy.sh/users/10085090), ::ExNeko::{ user=7590894 }, [foxgirls](https://osu.ppy.sh/users/9206093), ::LivelyPeninsula::{ user=11517895 }, [myucchii](https://osu.ppy.sh/users/10072733), ::Nepijin::{ user=11734610 }, [Oceanus](https://osu.ppy.sh/users/9164100), and ::Yuiesta::{ user=13953619 }!
+The osu!mania Loved candidates were chosen by ::BKwind::{ user=8900975 }, ::Carpihat::{ user=10085090 }, ::ExNeko::{ user=7590894 }, ::foxgirls::{ user=9206093 }, ::LivelyPeninsula::{ user=11517895 }, ::myucchii::{ user=10072733 }, ::Nepijin::{ user=11734610 }, ::Oceanus::{ user=9164100 }, and ::Yuiesta::{ user=13953619 }!
 
 **[Click here to download all of this round's osu!mania picks!](https://packs.ppy.sh/LR97%20-%20Project%20Loved:%20July%202026%20(osu!mania).zip)**
 
@@ -425,7 +425,7 @@ If you're looking to cool off this summer with Shiina Ringo's unmistakable vocal
 
 [![](/wiki/shared/news/2026-07-19-project-loved-july-2026/1579707.jpg)](https://osu.ppy.sh/community/forums/topics/2226641)
 
-[Camellia - CICADA3302](https://osu.ppy.sh/beatmapsets/1579707#mania) by ::\_Y u r i\_::{ user=8463274 } and [Wildcard\_Chase](https://osu.ppy.sh/users/25886256)\
+[Camellia - CICADA3302](https://osu.ppy.sh/beatmapsets/1579707#mania) by ::\_Y u r i\_::{ user=8463274 } and ::Wildcard\_Chase::{ user=25886256 }\
 155 BPM, 7:14 | 1.93★ – 5.80★\
 *description written by ::LivelyPeninsula::{ user=11517895 }*
 

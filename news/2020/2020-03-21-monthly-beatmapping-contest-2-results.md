@@ -41,7 +41,7 @@ Like the runner-up, Mao has earned a month of supporter and is halfway to the pr
 
 ---
 
-As per usual, all participants in February's contest received a message showing how the screening crew viewed their entry. Big thanks to ::coco::{ user=9579526 }, [fieryrage](https://osu.ppy.sh/users/3533958), ::Hobbes2::{ user=8157492 }, [Niva](https://osu.ppy.sh/users/197805), ::Noffy::{ user=1541323 }, [Nuvolina](https://osu.ppy.sh/users/10974170), ::Pyxo::{ user=2202645 }, [Regou](https://osu.ppy.sh/users/419954), ::Sing::{ user=3795679 }, [Smokeman](https://osu.ppy.sh/users/2140676), ::Trynna::{ user=2652951 }, [Uberzolik](https://osu.ppy.sh/users/1314547), ::Venix::{ user=5999631 }, and [Zelq](https://osu.ppy.sh/users/8953955) for screening all 50 contest submissions, and bigger thanks to *you* for voting! ...If you did, that is.
+As per usual, all participants in February's contest received a message showing how the screening crew viewed their entry. Big thanks to ::coco::{ user=9579526 }, ::fieryrage::{ user=3533958 }, ::Hobbes2::{ user=8157492 }, ::Niva::{ user=197805 }, ::Noffy::{ user=1541323 }, ::Nuvolina::{ user=10974170 }, ::Pyxo::{ user=2202645 }, ::Regou::{ user=419954 }, ::Sing::{ user=3795679 }, ::Smokeman::{ user=2140676 }, ::Trynna::{ user=2652951 }, ::Uberzolik::{ user=1314547 }, ::Venix::{ user=5999631 }, and ::Zelq::{ user=8953955 } for screening all 50 contest submissions, and bigger thanks to *you* for voting! ...If you did, that is.
 
 ## March's MBC
 

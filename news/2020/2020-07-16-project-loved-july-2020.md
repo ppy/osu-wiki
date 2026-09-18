@@ -20,7 +20,7 @@ For those new to the drill around here, you can click each map's banner to vote 
 
 ## osu!standard
 
-osu!standard Loved candidates were chosen by ::DigitalHypno::{ user=4384207 } and [waywern2012](https://osu.ppy.sh/users/5870453)! This round, all osu!standard beatmap descriptions were written by ::DigitalHypno::{ user=4384207 }.
+osu!standard Loved candidates were chosen by ::DigitalHypno::{ user=4384207 } and ::waywern2012::{ user=5870453 }! This round, all osu!standard beatmap descriptions were written by ::DigitalHypno::{ user=4384207 }.
 
 ---
 
@@ -47,7 +47,7 @@ More high-star challenges are coming straight to the Loved category with this Se
 
 [![](/wiki/shared/news/2020-07-16-project-loved-july-2020/osu/4-cold-as-ice-ph-electro-remix-nightcore-mix.jpg)](https://osu.ppy.sh/community/forums/topics/1107005)
 
-[Sarah Connor - Cold As Ice (PH Electro Remix) (Nightcore Mix)](https://osu.ppy.sh/beatmapsets/358119#osu) by ::Gologle::{ user=4696401 } and [saggi](https://osu.ppy.sh/users/8027395)\
+[Sarah Connor - Cold As Ice (PH Electro Remix) (Nightcore Mix)](https://osu.ppy.sh/beatmapsets/358119#osu) by ::Gologle::{ user=4696401 } and ::saggi::{ user=8027395 }\
 160 BPM, 3:08 | 2.15★ – 6.51★
 
 With over 2,200 favorites to its name, this mapset by Gologle features 9 difficulties between 2 and 6 stars. At 160 BPM, this mapset is super friendly for players of any skill to train their aim and precision skills on a catchy 3-minute nightcore song. Come check out what all the hype is about in this mapset!
@@ -68,7 +68,7 @@ One of the most noteworthy parts of the anime *Jojo's Bizarre Adventure* is defi
 
 [![](/wiki/shared/news/2020-07-16-project-loved-july-2020/osu/7-vanity-clock.jpg?1)](https://osu.ppy.sh/community/forums/topics/1107002)
 
-[love solfege - Vanity Clock](https://osu.ppy.sh/beatmapsets/609057#osu) by ::Parachute::{ user=1175275 } and [Adlol](https://osu.ppy.sh/users/6801630)\
+[love solfege - Vanity Clock](https://osu.ppy.sh/beatmapsets/609057#osu) by ::Parachute::{ user=1175275 } and ::Adlol::{ user=6801630 }\
 120 BPM, 4:10 | 5.98★, 7.35★
 
 Parachute is a user known to have many uniquely challenging maps, and this map is nothing close to an exception. Despite the map being 7 stars in difficulty, there are many features that make it stand out from the ordinary high star beatmap, and the unique approach rate of 8.6 is only one of them. The map is 200 BPM and features many uniquely structured aim patterns that are a super fun challenge to attempt. A lower difficulty exists by a user named Adlol for those of you looking for a more typical kind of map.
@@ -82,13 +82,13 @@ This mapset was in the Loved in the past, and after some adjustments, it's time 
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [nyanmi-1828](https://osu.ppy.sh/users/6866480) and ::Ulqui::{ user=1263669 }!
+osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::nyanmi-1828::{ user=6866480 } and ::Ulqui::{ user=1263669 }!
 
 ---
 
 [![](/wiki/shared/news/2020-07-16-project-loved-july-2020/taiko/1-reichi-no-taiyou-shinkou-1th-anniversary-mix.jpg?1)](https://osu.ppy.sh/community/forums/topics/1106999)
 
-[Natsusan - Reichi no Taiyou Shinkou (1th Anniversary mix)](https://osu.ppy.sh/beatmapsets/1187471#taiko) by ::HM495::{ user=810813 } and [Firce777](https://osu.ppy.sh/users/274072)\
+[Natsusan - Reichi no Taiyou Shinkou (1th Anniversary mix)](https://osu.ppy.sh/beatmapsets/1187471#taiko) by ::HM495::{ user=810813 } and ::Firce777::{ user=274072 }\
 175 BPM, 4:45 | 6.00★\
 *description written by ::nyanmi-1828::{ user=6866480 }*
 
@@ -98,7 +98,7 @@ First of all, this map deserves some praise for collecting 154 favourites in a m
 
 [![](/wiki/shared/news/2020-07-16-project-loved-july-2020/taiko/2-genkyoku-o-kizamu.jpg?1)](https://osu.ppy.sh/community/forums/topics/1106997)
 
-[2gou. - Genkyoku o Kizamu](https://osu.ppy.sh/beatmapsets/756214#taiko) by ::nyanmi-1828::{ user=6866480 } and [kai53247](https://osu.ppy.sh/users/5336716)\
+[2gou. - Genkyoku o Kizamu](https://osu.ppy.sh/beatmapsets/756214#taiko) by ::nyanmi-1828::{ user=6866480 } and ::kai53247::{ user=5336716 }\
 140 BPM, 1:53 | 5.66★, 7.72★\
 *description written by ::Ulqui::{ user=1263669 }*
 
@@ -114,7 +114,7 @@ Nofool has been very consistently putting out most of the quality SV maps we hav
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, [Tenshichan](https://osu.ppy.sh/users/1101600), ::Wesley::{ user=2407265 } and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
+osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, ::Tenshichan::{ user=1101600 }, ::Wesley::{ user=2407265 } and ::Yumeno Himiko::{ user=1806962 }!
 
 ---
 
@@ -141,7 +141,7 @@ Perhaps most importantly though: the song is a banger, and Nitsches really provi
 
 [![](/wiki/shared/news/2020-07-16-project-loved-july-2020/catch/3-u-n-owen-wa-kanojo-nano-ka.jpg)](https://osu.ppy.sh/community/forums/topics/1106992)
 
-[Demetori - U.N. Owen wa Kanojo Nano ka?](https://osu.ppy.sh/beatmapsets/1099437#fruits) by ::DakkyChan::{ user=2107017 }, [Minato Yukina](https://osu.ppy.sh/users/531253), ::Louis Cyphre::{ user=186243 }, [Spectator](https://osu.ppy.sh/users/702598), ::Kuzino::{ user=158552 } and [ExGon](https://osu.ppy.sh/users/214187)\
+[Demetori - U.N. Owen wa Kanojo Nano ka?](https://osu.ppy.sh/beatmapsets/1099437#fruits) by ::DakkyChan::{ user=2107017 }, ::Minato Yukina::{ user=531253 }, ::Louis Cyphre::{ user=186243 }, ::Spectator::{ user=702598 }, ::Kuzino::{ user=158552 } and ::ExGon::{ user=214187 }\
 205 BPM, 4:47 | 8.45★, 10.07★\
 *description written by ::Yumeno Himiko::{ user=1806962 }*
 
@@ -157,7 +157,7 @@ If you grew up as a PC gamer like me, then you will likely find some nostalgia i
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::-mint-::{ user=8976576 }, [Abraxos](https://osu.ppy.sh/users/5025064), ::lenpai::{ user=5314573 }, [Pope Gadget](https://osu.ppy.sh/users/2288341) and ::Toaph Daddy::{ user=7616811 }!
+osu!mania Loved candidates were chosen by ::-mint-::{ user=8976576 }, ::Abraxos::{ user=5025064 }, ::lenpai::{ user=5314573 }, ::Pope Gadget::{ user=2288341 } and ::Toaph Daddy::{ user=7616811 }!
 
 ---
 
@@ -170,7 +170,7 @@ We have seen Jole upon this stage of Loved before, and this particular choice al
 
 [![](/wiki/shared/news/2020-07-16-project-loved-july-2020/mania/2-palette-gamma.jpg)](https://osu.ppy.sh/community/forums/topics/1106988)
 
-[Yuyoyuppe - Palette GAMMA](https://osu.ppy.sh/beatmapsets/409429#mania) by ::Cadmium-113::{ user=4749111 }, [\[Crz\]Player](https://osu.ppy.sh/users/1089335) and ::Gemu-::{ user=547882 }\
+[Yuyoyuppe - Palette GAMMA](https://osu.ppy.sh/beatmapsets/409429#mania) by ::Cadmium-113::{ user=4749111 }, ::\[Crz\]Player::{ user=1089335 } and ::Gemu-::{ user=547882 }\
 270 BPM, 1:24 | \[4K\], 1.17★ – 6.30★
 
 "VERY fast streams going at incredible hihg speed" is the theme, and *Palette GAMMA* is the game. With a selection of difficulties at 270 BPM, there is plenty of space for speed freaks of all ranks to duke it out. Guest difficulties by game rock and \[Crz\]Player (otherwise known as ATTang) close the gap for both the newest of players and oldest of veterans, providing the extreme and the easy. If you find the original Myriad difficulty too mean, Cadmium-113's polished Myriad may prove to be kinder, but at this level of speed, expect no less of a challenge at any level of difficulty you find yourself on.
@@ -197,7 +197,7 @@ With all of this in mind, it's evident that Ciel put a lot of thought into this 
 
 [![](/wiki/shared/news/2020-07-16-project-loved-july-2020/mania/5-valhalla.jpg)](https://osu.ppy.sh/community/forums/topics/1106985)
 
-[xi - Valhalla](https://osu.ppy.sh/beatmapsets/729419#mania) by ::AncuL::{ user=2449200 } and [Evening](https://osu.ppy.sh/users/2193881)\
+[xi - Valhalla](https://osu.ppy.sh/beatmapsets/729419#mania) by ::AncuL::{ user=2449200 } and ::Evening::{ user=2193881 }\
 174 BPM, 4:24 | \[7K\] 7.30★
 
 Look! 7K is back! And we're kicking things up with a spicy technical hybrid pick. A collaboration between AncuL and Evening, *Valhalla* tests any player's ability to deal with bursts, trills, jacks, and finger independent trilling at 174 BPM, all of which are taken up a notch with the frequent use of LNs. What makes the chart notable is its quality and playing experience is how it is paced. The chart eases the player into low density but technical piano-pitch-relevant mapping which signifies the kind of chart they're getting into. A fair contrast between rolly and comfy versus technical and awkward is provided when the sections transition into each other, giving the chart its personality. Taking inspiration from O2-style ideas and merging it with more modern mapping solidifies this chart's quality and makes it worth putting up for the Loved voting.

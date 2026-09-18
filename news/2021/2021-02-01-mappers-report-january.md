@@ -47,17 +47,17 @@ Another year, another wave of Beatmap Nominators! As with every issue, here's wh
 
 ### BN Additions
 
-- **osu!:** ::rosario wknd::{ user=6341518 } & [Xahlt](https://osu.ppy.sh/users/13466351)
-- **osu!taiko:** ::Ulqui::{ user=1263669 } & [Hivie](https://osu.ppy.sh/users/14102976)
-- **osu!catch:** ::GIGACHAD::{ user=11081858 } & [Myxo](https://osu.ppy.sh/users/2202645)
-- **osu!mania:** ::guden::{ user=11626065 } & [deta5859](https://osu.ppy.sh/users/15275662)
+- **osu!:** ::rosario wknd::{ user=6341518 } & ::Xahlt::{ user=13466351 }
+- **osu!taiko:** ::Ulqui::{ user=1263669 } & ::Hivie::{ user=14102976 }
+- **osu!catch:** ::GIGACHAD::{ user=11081858 } & ::Myxo::{ user=2202645 }
+- **osu!mania:** ::guden::{ user=11626065 } & ::deta5859::{ user=15275662 }
 
 ### BN Resignations
 
 - **osu!:** ::Okoratu::{ user=1623405 }
 - **osu!taiko:** ::Greenshell::{ user=8693851 }
-- **osu!catch:** ::JierYagtama::{ user=7483452 } & [-Joni-](https://osu.ppy.sh/users/9988837)
-- **osu!mania:** ::Rivals\17::{ user=4610379 } & [Voxa](https://osu.ppy.sh/users/9229539)
+- **osu!catch:** ::JierYagtama::{ user=7483452 } & ::-Joni-::{ user=9988837 }
+- **osu!mania:** ::Rivals\17::{ user=4610379 } & ::Voxa::{ user=9229539 }
 
 Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator! The applications are always open.
 

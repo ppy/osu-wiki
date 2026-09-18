@@ -25,7 +25,7 @@ Check out a few previews, plus some new showcase maps:
 
 ### Ame ni Utaeba
 
-Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1385670) with difficulties by ::coco::{ user=9579526 }, [captin1](https://osu.ppy.sh/users/689997), ::Deca::{ user=9088487 }, and [Leader](https://osu.ppy.sh/users/631530) of the Mappers' Guild!
+Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1385670) with difficulties by ::coco::{ user=9579526 }, ::captin1::{ user=689997 }, ::Deca::{ user=9088487 }, and ::Leader::{ user=631530 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/145/Ame%20ni%20Utaeba/Empty%20Peperoncino%20-%20Ame%20ni%20Utaeba.mp3" type="audio/mpeg">

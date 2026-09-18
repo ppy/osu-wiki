@@ -47,7 +47,7 @@ Or try [this other osu!taiko map](https://osu.ppy.sh/beatmapsets/1461343) hosted
 
 ### TH3 5UMMONERS
 
-If you somehow missed it, try [this mapset](https://osu.ppy.sh/beatmapsets/1497954) by ::Fisky::{ user=8352623 } and [DTM9 Nowa](https://osu.ppy.sh/users/5428909) of the Mappers' Guild!
+If you somehow missed it, try [this mapset](https://osu.ppy.sh/beatmapsets/1497954) by ::Fisky::{ user=8352623 } and ::DTM9 Nowa::{ user=5428909 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/185/Songs/seatrus%20-%20TH3%205UMMONERS.mp3" type="audio/mpeg">

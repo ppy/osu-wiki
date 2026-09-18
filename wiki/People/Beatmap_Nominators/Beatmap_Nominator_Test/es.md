@@ -10,7 +10,7 @@ Los usuarios que solicitaban ser Beatmap Nominators debían realizar una prueba 
 
 Se crearon rompecabezas de modding similares por diversión hasta 2015, cuando se creó la primera prueba para convertirse en un Beatmap Nominator de uso práctico. La prueba incluía una sección de opción múltiple similar al anterior formulario de la prueba, así como un rompecabezas práctico de modding creado por ::Charles445::{ user=85000 }. El beatmap para la prueba de modding presentaba 10 dificultades con segmentos de mapa cortos. A cada segmento se le asignó un [nivel de dificultad](/wiki/Beatmap/Difficulty) y se esperaba encontrar problemas dado ese contexto.
 
-La segunda prueba (creada por ::Irreversible::{ user=1287964 } y [Mao](https://osu.ppy.sh/users/2204515)), la tercera prueba (creada por Irreversible, Mao, y ::Myxo::{ user=2202645 }), y la cuarta prueba (creada por Irreversible y Mao) se diseñaron como distribuciones completas de beatmaps. Su objetivo era dar la impresión de estar modeando un beatmap real.
+La segunda prueba (creada por ::Irreversible::{ user=1287964 } y ::Mao::{ user=2204515 }), la tercera prueba (creada por Irreversible, Mao, y ::Myxo::{ user=2202645 }), y la cuarta prueba (creada por Irreversible y Mao) se diseñaron como distribuciones completas de beatmaps. Su objetivo era dar la impresión de estar modeando un beatmap real.
 
 Estas pruebas prácticas de modding se usaron para ayudar a determinar los nuevos Beatmap Nominators hasta 2017, cuando se dejaron de realizar debido a la preocupación por las trampas. Después de 2017, las nuevas incorporaciones a los BN se gestionaron mediante el juicio subjetivo del [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) (*QAT*) y, posteriormente, del NAT.
 

@@ -137,7 +137,7 @@ Some fun was had after the fact, with ::{ flag=PL }:: ::Graf::{ user=4448391 } a
 
 ---
 
-Thank you to everyone who played, staffed, attended, and cheered the players on, both in person and online! On a personal note, I'd also like to thank the hosts — ::flapczek::{ user=8210988 } and [myksmyks](https://osu.ppy.sh/users/6840526) — for letting ::Walavouchey::{ user=5773079 } and myself in behind the scenes, and allowing us to run around with a phone taking photos and videos of everything. Next to that, thank you to ::Daria Maria::{ user=10806219 } for letting me use their photos that they took during the event.
+Thank you to everyone who played, staffed, attended, and cheered the players on, both in person and online! On a personal note, I'd also like to thank the hosts — ::flapczek::{ user=8210988 } and ::myksmyks::{ user=6840526 } — for letting ::Walavouchey::{ user=5773079 } and myself in behind the scenes, and allowing us to run around with a phone taking photos and videos of everything. Next to that, thank you to ::Daria Maria::{ user=10806219 } for letting me use their photos that they took during the event.
 
 It's always great to see the osu! community come together and plan amazing events, and I can only hope we see more high-quality LANs just like this, and hopefully even have more news posts with IRL coverage.
 

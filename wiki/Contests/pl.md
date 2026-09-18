@@ -146,9 +146,9 @@ Pending Cup to konkurs dot. tworzenia beatmap, w którym uczestniczą głównie 
 
 | Numer utworu | Utwory | ![Złota korona](/wiki/shared/crown-gold.png "1. miejsce") | ![Srebrna korona](/wiki/shared/crown-silver.png "2. miejsce") | ![Brązowa korona](/wiki/shared/crown-bronze.png "3. miejsce") |
 | :-- | :-- | :-- | :-- | :-- |
-| 1 | TERRA - 華爛漫 -Flowers- | ::buhei::{ user=1371514 } | [Flask](https://osu.ppy.sh/users/959763) | ::Nyquill::{ user=682935 } |
-| 2 | 葉月ゆら - 宵闇花火 | ::Lan Wings::{ user=467860 } | [Kotone](https://osu.ppy.sh/users/26507) | ::Regou::{ user=419954 } |
-| 3 | An - アートコア神社 | ::Flower::{ user=1033017 } | [Amamiya Yuko](https://osu.ppy.sh/users/873961) | ::Regou::{ user=419954 } |
+| 1 | TERRA - 華爛漫 -Flowers- | ::buhei::{ user=1371514 } | ::Flask::{ user=959763 } | ::Nyquill::{ user=682935 } |
+| 2 | 葉月ゆら - 宵闇花火 | ::Lan Wings::{ user=467860 } | ::Kotone::{ user=26507 } | ::Regou::{ user=419954 } |
+| 3 | An - アートコア神社 | ::Flower::{ user=1033017 } | ::Amamiya Yuko::{ user=873961 } | ::Regou::{ user=419954 } |
 
 - [Wątek dot. konkursu](https://osu.ppy.sh/community/forums/topics/135492)
 - [Wątek z wynikami](https://osu.ppy.sh/community/forums/topics/152966)
@@ -157,8 +157,8 @@ Pending Cup to konkurs dot. tworzenia beatmap, w którym uczestniczą głównie 
 
 | Numer utworu | Utwory | ![Złota korona](/wiki/shared/crown-gold.png "1. miejsce") | ![Srebrna korona](/wiki/shared/crown-silver.png "2. miejsce") | ![Brązowa korona](/wiki/shared/crown-bronze.png "3. miejsce") |
 | :-- | :-- | :-- | :-- | :-- |
-| 1 | Sharlo & Sabbo - 桜の花が舞い落ちるとき | ::Loneight::{ user=663131 } | [Macuilxochitl](https://osu.ppy.sh/users/418699) | [eveless](https://osu.ppy.sh/userssers/102976) |
-| 2 | 木製みゅーと - 七つ一旋桜 | ::OSUtoto::{ user=847182 } | [bo0O0od](https://osu.ppy.sh/users/530547) | ::Kawaiwkyik::{ user=1367570 } |
+| 1 | Sharlo & Sabbo - 桜の花が舞い落ちるとき | ::Loneight::{ user=663131 } | ::Macuilxochitl::{ user=418699 } | [eveless](https://osu.ppy.sh/userssers/102976) |
+| 2 | 木製みゅーと - 七つ一旋桜 | ::OSUtoto::{ user=847182 } | ::bo0O0od::{ user=530547 } | ::Kawaiwkyik::{ user=1367570 } |
 
 - [Wątek dot. konkursu](https://osu.ppy.sh/community/forums/topics/229019)
 - [Wątek z wynikami](https://osu.ppy.sh/community/forums/topics/243930)
@@ -167,9 +167,9 @@ Pending Cup to konkurs dot. tworzenia beatmap, w którym uczestniczą głównie 
 
 | Numer utworu | Utwory | ![Złota korona](/wiki/shared/crown-gold.png "1. miejsce") | ![Srebrna korona](/wiki/shared/crown-silver.png "2. miejsce") | ![Brązowa korona](/wiki/shared/crown-bronze.png "3. miejsce") |
 | :-- | :-- | :-- | :-- | :-- |
-| 1 | 挨批熊 - 权御天下 | ::Regraz::{ user=3076909 } | [Syameimaru-Aya](https://osu.ppy.sh/users/3153354) | ::jonathanlfj::{ user=270377 } |
-| 2 | 削除 - Imprinting | ::yf\1bmp::{ user=1243669 } | [Syameimaru-Aya](https://osu.ppy.sh/users/3153354) | ::Inazuma::{ user=1033017 } |
-| 3 | P*Light - YELLOW SPLASH!! | ::fanzhen0019::{ user=418699 } | [yf_bmp](https://osu.ppy.sh/users/1243669) | ::Minakami Yuki::{ user=2433507 } |
+| 1 | 挨批熊 - 权御天下 | ::Regraz::{ user=3076909 } | ::Syameimaru-Aya::{ user=3153354 } | ::jonathanlfj::{ user=270377 } |
+| 2 | 削除 - Imprinting | ::yf\1bmp::{ user=1243669 } | ::Syameimaru-Aya::{ user=3153354 } | ::Inazuma::{ user=1033017 } |
+| 3 | P*Light - YELLOW SPLASH!! | ::fanzhen0019::{ user=418699 } | ::yf\1bmp::{ user=1243669 } | ::Minakami Yuki::{ user=2433507 } |
 
 - [Wątek dot. konkursu](https://osu.ppy.sh/community/forums/topics/345263)
 - [Wątek z wynikami](https://osu.ppy.sh/community/forums/topics/373843)
@@ -178,9 +178,9 @@ Pending Cup to konkurs dot. tworzenia beatmap, w którym uczestniczą głównie 
 
 | Numer utworu | Utwory | ![Złota korona](/wiki/shared/crown-gold.png "1. miejsce") | ![Srebrna korona](/wiki/shared/crown-silver.png "2. miejsce") | ![Brązowa korona](/wiki/shared/crown-bronze.png "3. miejsce") |
 | :-- | :-- | :-- | :-- | :-- |
-| 1 | ClariS - SECRET | ::FreeSongs::{ user=2116792 } | [handsome](https://osu.ppy.sh/users/2123087) | ::Snowy Wings::{ user=2234810 } |
-| 2 | 干瓢碁 - 運命のダークサイド -Rolling Gothic mix | ::FreeSongs::{ user=2116792 } | [rui](https://osu.ppy.sh/users/74313) | ::yf\1bmp::{ user=1243669 } |
-| 3 | Dollscythe - Flashes (Extended) | ::Skystar::{ user=873961 } | [Level9](https://osu.ppy.sh/users/7232130) | ::Frostings::{ user=2652543 } |
+| 1 | ClariS - SECRET | ::FreeSongs::{ user=2116792 } | ::handsome::{ user=2123087 } | ::Snowy Wings::{ user=2234810 } |
+| 2 | 干瓢碁 - 運命のダークサイド -Rolling Gothic mix | ::FreeSongs::{ user=2116792 } | ::rui::{ user=74313 } | ::yf\1bmp::{ user=1243669 } |
+| 3 | Dollscythe - Flashes (Extended) | ::Skystar::{ user=873961 } | ::Level9::{ user=7232130 } | ::Frostings::{ user=2652543 } |
 
 - [Wątek dot. konkursu](https://osu.ppy.sh/community/forums/topics/482629)
 - [Wątek z wynikami](https://osu.ppy.sh/community/forums/topics/504645)
@@ -189,9 +189,9 @@ Pending Cup to konkurs dot. tworzenia beatmap, w którym uczestniczą głównie 
 
 | Numer utworu | Utwory | ![Złota korona](/wiki/shared/crown-gold.png "1. miejsce") | ![Srebrna korona](/wiki/shared/crown-silver.png "2. miejsce") | ![Brązowa korona](/wiki/shared/crown-bronze.png "3. miejsce") |
 | :-- | :-- | :-- | :-- | :-- |
-| 1 | 霜月はるか - 白夜幻想谭 | ::Chaoslitz::{ user=3621552 } | [Level9](https://osu.ppy.sh/users/7232130) | ::Kibbleru::{ user=3193504 } |
-| 2 | 猫叉劇団 - AsiaN distractive | ::Chaoslitz::{ user=3621552 } | [Garden](https://osu.ppy.sh/users/2849992) | ::Ellyu::{ user=4438154 } |
-| 3 | かめりあ - Chirality | ::Suzuki\11112::{ user=3170678 } | [Miura](https://osu.ppy.sh/users/4990362) | ::\[ Drop \]::{ user=2391299 } |
+| 1 | 霜月はるか - 白夜幻想谭 | ::Chaoslitz::{ user=3621552 } | ::Level9::{ user=7232130 } | ::Kibbleru::{ user=3193504 } |
+| 2 | 猫叉劇団 - AsiaN distractive | ::Chaoslitz::{ user=3621552 } | ::Garden::{ user=2849992 } | ::Ellyu::{ user=4438154 } |
+| 3 | かめりあ - Chirality | ::Suzuki\11112::{ user=3170678 } | ::Miura::{ user=4990362 } | ::\[ Drop \]::{ user=2391299 } |
 
 - [Wątek dot. konkursu](https://osu.ppy.sh/community/forums/topics/620182)
 - [Wątek z wynikami](https://osu.ppy.sh/community/forums/topics/640906)
@@ -200,9 +200,9 @@ Pending Cup to konkurs dot. tworzenia beatmap, w którym uczestniczą głównie 
 
 | Numer utworu | Utwory | ![Złota korona](/wiki/shared/crown-gold.png "1. miejsce") | ![Srebrna korona](/wiki/shared/crown-silver.png "2. miejsce") | ![Brązowa korona](/wiki/shared/crown-bronze.png "3. miejsce") |
 | :-- | :-- | :-- | :-- | :-- |
-| 1 | 米津玄师 - LOSER | ::Skystar::{ user=873961 } | [how2miss](https://osu.ppy.sh/users/4477199) | ::AIR::{ user=2070688 } |
-| 2 | DJ TOTTO - 少女アリスと箱庭幻想コンチェルト | ::J1\1::{ user=5918561 } | [yf_bmp](https://osu.ppy.sh/users/1243669) | ::Level9::{ user=7232130 } |
-| 3 | Sota Fujimori - ACCELERATE | ::Chaoslitz::{ user=3621552 } | [Koiyuki](https://osu.ppy.sh/users/2433507) | ::yf\1bmp::{ user=1243669 } |
+| 1 | 米津玄师 - LOSER | ::Skystar::{ user=873961 } | ::how2miss::{ user=4477199 } | ::AIR::{ user=2070688 } |
+| 2 | DJ TOTTO - 少女アリスと箱庭幻想コンチェルト | ::J1\1::{ user=5918561 } | ::yf\1bmp::{ user=1243669 } | ::Level9::{ user=7232130 } |
+| 3 | Sota Fujimori - ACCELERATE | ::Chaoslitz::{ user=3621552 } | ::Koiyuki::{ user=2433507 } | ::yf\1bmp::{ user=1243669 } |
 
 - [Wątek dot. konkursu](https://osu.ppy.sh/community/forums/topics/775847)
 - [Wątek z wynikami](https://osu.ppy.sh/community/forums/topics/806794)
@@ -215,8 +215,8 @@ Newspaper Cup to coroczny konkurs dot. tworzenia beatmap, którego głównymi ce
 
 | Numer utworu | Utwory | ![Złota korona](/wiki/shared/crown-gold.png "1. miejsce") | ![Srebrna korona](/wiki/shared/crown-silver.png "2. miejsce") | ![Brązowa korona](/wiki/shared/crown-bronze.png "3. miejsce") |
 | :-- | :-- | :-- | :-- | :-- |
-| 1 | wa.vs ETIA. - Akasagarbha | ::tm1209::{ user=2775906 } | [Philosophy2](https://osu.ppy.sh/users/372256) | ::bread129988::{ user=2010665 } |
-| 2 | 猫叉Master - Far east nightbird | ::Narcissu::{ user=1826598 } | [JJburstOwO](https://osu.ppy.sh/users/1776055) | ::Kamio Misuzu::{ user=2041350 } |
+| 1 | wa.vs ETIA. - Akasagarbha | ::tm1209::{ user=2775906 } | ::Philosophy2::{ user=372256 } | ::bread129988::{ user=2010665 } |
+| 2 | 猫叉Master - Far east nightbird | ::Narcissu::{ user=1826598 } | ::JJburstOwO::{ user=1776055 } | ::Kamio Misuzu::{ user=2041350 } |
 
 - [Wątek dot. konkursu](https://osu.ppy.sh/community/forums/topics/272739)
 - [Wątek z wynikami](https://osu.ppy.sh/community/forums/topics/312154)
@@ -225,8 +225,8 @@ Newspaper Cup to coroczny konkurs dot. tworzenia beatmap, którego głównymi ce
 
 | Numer utworu | Utwory | ![Złota korona](/wiki/shared/crown-gold.png "1. miejsce") | ![Srebrna korona](/wiki/shared/crown-silver.png "2. miejsce") | ![Brązowa korona](/wiki/shared/crown-bronze.png "3. miejsce") |
 | :-- | :-- | :-- | :-- | :-- |
-| 1 | 葉月ゆら - Eclipse Parade | ::LunaSaika::{ user=4018820 } | [FreeSongs](https://osu.ppy.sh/users/2116792) | ::Vert::{ user=3420746 } |
-| 2 | Sakuzyo - Laplace | ::Hakurei Yoru::{ user=3280555 } | [liaoxingyao](https://osu.ppy.sh/users/3620963) | ::Kencho::{ user=3178411 } |
+| 1 | 葉月ゆら - Eclipse Parade | ::LunaSaika::{ user=4018820 } | ::FreeSongs::{ user=2116792 } | ::Vert::{ user=3420746 } |
+| 2 | Sakuzyo - Laplace | ::Hakurei Yoru::{ user=3280555 } | ::liaoxingyao::{ user=3620963 } | ::Kencho::{ user=3178411 } |
 
 - [Wątek dot. konkursu](https://osu.ppy.sh/community/forums/topics/415669)
 - [Wątek z wynikami](https://osu.ppy.sh/community/forums/topics/432070)
@@ -235,8 +235,8 @@ Newspaper Cup to coroczny konkurs dot. tworzenia beatmap, którego głównymi ce
 
 | Numer utworu | Utwory | ![Złota korona](/wiki/shared/crown-gold.png "1. miejsce") | ![Srebrna korona](/wiki/shared/crown-silver.png "2. miejsce") |
 | :-- | :-- | :-- | :-- |
-| 1 | 影翔鼓舞 - Oriental Blossom | ::yf\1bmp::{ user=1243669 }, [EmingK](https://osu.ppy.sh/users/2021118) | ::Gaia::{ user=2683648 }, [Doj](https://osu.ppy.sh/users/4121612) |
-| 2 | ESQUARIA - 寒椿 ～ Kantsubaki | ::Regou::{ user=419954 }, [fish39](https://osu.ppy.sh/users/3522390) | ::Bluekrait::{ user=4205741 }, [Rose Pacifica](https://osu.ppy.sh/users/1393255) |
+| 1 | 影翔鼓舞 - Oriental Blossom | ::yf\1bmp::{ user=1243669 }, ::EmingK::{ user=2021118 } | ::Gaia::{ user=2683648 }, ::Doj::{ user=4121612 } |
+| 2 | ESQUARIA - 寒椿 ～ Kantsubaki | ::Regou::{ user=419954 }, ::fish39::{ user=3522390 } | ::Bluekrait::{ user=4205741 }, ::Rose Pacifica::{ user=1393255 } |
 
 - [Wątek dot. konkursu](https://osu.ppy.sh/community/forums/topics/546038)
 - [Wątek z wynikami](https://osu.ppy.sh/community/forums/topics/570350)
@@ -245,8 +245,8 @@ Newspaper Cup to coroczny konkurs dot. tworzenia beatmap, którego głównymi ce
 
 | Numer utworu | Utwory | ![Złota korona](/wiki/shared/crown-gold.png "1. miejsce") | ![Srebrna korona](/wiki/shared/crown-silver.png "2. miejsce") |
 | :-- | :-- | :-- | :-- |
-| 1 | 葉月ゆら - サラマンドラの踊り子 | [Yugu](https://osu.ppy.sh/users/Yugu) | [nika mika](https://osu.ppy.sh/users/nika%20mika) |
-| 2 | P＊Light - SAY BAY | [Firika](https://osu.ppy.sh/users/Firika) | [Yugu](https://osu.ppy.sh/users/Yugu) |
+| 1 | 葉月ゆら - サラマンドラの踊り子 | ::Yugu::{ user=3161834 } | [nika mika](https://osu.ppy.sh/users/nika%20mika) |
+| 2 | P＊Light - SAY BAY | ::Firika::{ user=9590557 } | [Yugu](https://osu.ppy.sh/users/Yugu) |
 
 - [Wątek dot. konkursu](https://osu.ppy.sh/community/forums/topics/690824)
 - [Wątek z wynikami](https://osu.ppy.sh/community/forums/topics/721264)

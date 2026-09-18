@@ -43,7 +43,7 @@ Whether you are experienced or just started out playing the game you can bet the
 
 [![](/wiki/shared/news/2017-06-27-beatmap-spotlights-may-2017/ben-se.jpg)](https://osu.ppy.sh/beatmapsets/567325)
 
-This beatmap set truly stands out due to the unique spacing and patterning in both difficulties. The flow is smooth but expressive, perfectly supporting the mood of the song. **::09kami::{ user=443031 }**'s and **[Crystal](https://osu.ppy.sh/users/1646397)**'s maps are on a similar difficulty level, but represent the song in different ways. Check out both of them, you will not regret it!
+This beatmap set truly stands out due to the unique spacing and patterning in both difficulties. The flow is smooth but expressive, perfectly supporting the mood of the song. **::09kami::{ user=443031 }**'s and **::Crystal::{ user=1646397 }**'s maps are on a similar difficulty level, but represent the song in different ways. Check out both of them, you will not regret it!
 
 [![](/wiki/shared/news/2017-06-27-beatmap-spotlights-may-2017/kokoronashi.jpg)](https://osu.ppy.sh/beatmapsets/565432)
 
@@ -63,7 +63,7 @@ The set also has nicely done lower diffs, including his signature "Basic" diffic
 
 [![](/wiki/shared/news/2017-06-27-beatmap-spotlights-may-2017/proof-of-existence.jpg)](https://osu.ppy.sh/beatmapsets/427864)
 
-What a high quality set brought up by **::tasuke912::{ user=2774767 }** and **[SKSalt](https://osu.ppy.sh/users/3280542)** this month! What made this chart get featured in the Spotlights is the management of a flawless structure, patterning and flow in each of their respective difficulties, really contrasting with some other ranked maps this month. tasuke912's pair patterns usage and rhythm changes in the Inner Oni is the signature of a very highly experienced beatmapper, representing the song extremely accurately while making it fun to play through flow and hitsounding.
+What a high quality set brought up by **::tasuke912::{ user=2774767 }** and **::SKSalt::{ user=3280542 }** this month! What made this chart get featured in the Spotlights is the management of a flawless structure, patterning and flow in each of their respective difficulties, really contrasting with some other ranked maps this month. tasuke912's pair patterns usage and rhythm changes in the Inner Oni is the signature of a very highly experienced beatmapper, representing the song extremely accurately while making it fun to play through flow and hitsounding.
 
 [![](/wiki/shared/news/2017-06-27-beatmap-spotlights-may-2017/on-the-fm.jpg)](https://osu.ppy.sh/beatmapsets/568544)
 
@@ -120,7 +120,7 @@ As usual, the usage of long notes and chords play really well, making it a reall
 
 [![](/wiki/shared/news/2017-06-27-beatmap-spotlights-may-2017/doppelganger.jpg)](https://osu.ppy.sh/beatmapsets/407153)
 
-While this beatmap set may be harder than others in the spotlights so far, its challenge is no detterent to its enjoyability, sporting some difficult but rewarding patterning in every difficulty. Guest difficulties from **::Evening::{ user=2193881 }**, **[jakads](https://osu.ppy.sh/users/259972)** and **::Lude::{ user=6974536 }** provide some variety within the set overall, with Evening's chart in particular being somewhat light, but chock full of scroll speed changes.
+While this beatmap set may be harder than others in the spotlights so far, its challenge is no detterent to its enjoyability, sporting some difficult but rewarding patterning in every difficulty. Guest difficulties from **::Evening::{ user=2193881 }**, **::jakads::{ user=259972 }** and **::Lude::{ user=6974536 }** provide some variety within the set overall, with Evening's chart in particular being somewhat light, but chock full of scroll speed changes.
 
 Alter Ego is definitely one of the harder songs around to map, but the people behind the set have done an excellent job of patterning their charts to fit it, and it is definitely something you should try and see for yourself.
 

@@ -20,7 +20,7 @@ In case you're new here: Project Loved runs monthly polls to decide which unrank
 
 ## osu!standard
 
-osu!standard Loved candidates were chosen by ::DigitalHypno::{ user=4384207 } and [waywern2012](https://osu.ppy.sh/users/5870453)! This round, all osu!standard beatmap descriptions were written by ::DigitalHypno::{ user=4384207 }.
+osu!standard Loved candidates were chosen by ::DigitalHypno::{ user=4384207 } and ::waywern2012::{ user=5870453 }! This round, all osu!standard beatmap descriptions were written by ::DigitalHypno::{ user=4384207 }.
 
 ---
 
@@ -62,7 +62,7 @@ For those of you who are dedicated fans of a certain artist, game, or series, th
 
 [![](/wiki/shared/news/2021-02-02-project-loved-january-2021/osu/6-super-panda-64-sped-up-ver.jpg)](https://osu.ppy.sh/community/forums/topics/1239873)
 
-[Panda Eyes - Super Panda 64 (Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/721599#osu) by ::dima21::{ user=8185954 } and [Evgerable](https://osu.ppy.sh/users/5657937)\
+[Panda Eyes - Super Panda 64 (Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/721599#osu) by ::dima21::{ user=8185954 } and ::Evgerable::{ user=5657937 }\
 200 BPM, 3:32 | 5.16★, 6.27★
 
 This map gives a high-energy future bass song by the featured artist *Panda Eyes* the equally high-energy jumps it deserves, being a 3-minute map of clean jumps that are so fitting it almost feels like they're mapped in the song itself. The mapset features two difficulties at 5 and 6 stars, and with nearly 200 favourites and over 50,000 plays to its name, it's no wonder why this map is being brought to this round's Loved voting. Check it out for yourself—you just might find yourself a new go-to favourite.
@@ -91,13 +91,13 @@ Nothing feels more rewarding than completing a high quality technical map, espec
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [nyanmi-1828](https://osu.ppy.sh/users/6866480), ::POCARI SWEAT::{ user=5082685 } and [X a v y](https://osu.ppy.sh/users/3738344)!
+osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::nyanmi-1828::{ user=6866480 }, ::POCARI SWEAT::{ user=5082685 } and ::X a v y::{ user=3738344 }!
 
 ---
 
 [![](/wiki/shared/news/2021-02-02-project-loved-january-2021/taiko/1-ignite.jpg)](https://osu.ppy.sh/community/forums/topics/1239867)
 
-[Jeff Williams feat. Casey Lee Williams and Lamar Hall - Ignite](https://osu.ppy.sh/beatmapsets/1149489#taiko) by ::Skull Kid::{ user=3044264 } and [7_7](https://osu.ppy.sh/users/7491106)\
+[Jeff Williams feat. Casey Lee Williams and Lamar Hall - Ignite](https://osu.ppy.sh/beatmapsets/1149489#taiko) by ::Skull Kid::{ user=3044264 } and ::7\17::{ user=7491106 }\
 146 BPM, 4:01 | 8.18★\
 *description written by ::-Kazu-::{ user=920861 }*
 
@@ -105,7 +105,7 @@ The first in the list of candidates for the Loved section of 2021 is no other th
 
 [![](/wiki/shared/news/2021-02-02-project-loved-january-2021/taiko/2-berserkerz-warfare-345.jpg)](https://osu.ppy.sh/community/forums/topics/1239866)
 
-[Camellia - Berserkerz' Warfare 345](https://osu.ppy.sh/beatmapsets/640750#taiko) by ::namaniku::{ user=2680544 } and [KTYN](https://osu.ppy.sh/users/2250574)\
+[Camellia - Berserkerz' Warfare 345](https://osu.ppy.sh/beatmapsets/640750#taiko) by ::namaniku::{ user=2680544 } and ::KTYN::{ user=2250574 }\
 345 BPM, 4:34 | 8.60★\
 *description written by ::-Kazu-::{ user=920861 }*
 
@@ -121,7 +121,7 @@ A lot of the identity katagiri has as an artist is the usage of sampling over a 
 
 [![](/wiki/shared/news/2021-02-02-project-loved-january-2021/taiko/4-unmeiron.jpg)](https://osu.ppy.sh/community/forums/topics/1239864)
 
-[LUZE \* Emew. - Unmeiron](https://osu.ppy.sh/beatmapsets/1053540#taiko) by ::yassu-::{ user=7095592 }, [7_7](https://osu.ppy.sh/users/7491106), ::Osamix::{ user=2999359 }, [applerss](https://osu.ppy.sh/users/983349), ::Taka030::{ user=7563054 } and [mysterfish](https://osu.ppy.sh/users/8824190)\
+[LUZE \* Emew. - Unmeiron](https://osu.ppy.sh/beatmapsets/1053540#taiko) by ::yassu-::{ user=7095592 }, ::7\17::{ user=7491106 }, ::Osamix::{ user=2999359 }, ::applerss::{ user=983349 }, ::Taka030::{ user=7563054 } and ::mysterfish::{ user=8824190 }\
 85 – 170 BPM, 2:43 | 3.57★ – 8.85★\
 *description written by ::POCARI SWEAT::{ user=5082685 }*
 
@@ -129,7 +129,7 @@ It's finally here, the greatest challenge of all time. yassu's beatmap of *Unmei
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, [Spectator](https://osu.ppy.sh/users/702598), ::Tenshichan::{ user=1101600 } and [Wesley](https://osu.ppy.sh/users/2407265)!
+osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, ::Spectator::{ user=702598 }, ::Tenshichan::{ user=1101600 } and ::Wesley::{ user=2407265 }!
 
 ---
 
@@ -163,7 +163,7 @@ Aryssiel is known as one of the top players in catch. But what most people don't
 
 [![](/wiki/shared/news/2021-02-02-project-loved-january-2021/catch/4-garakuta-doll-play.jpg)](https://osu.ppy.sh/community/forums/topics/1239859)
 
-[t+pazolite - Garakuta Doll Play](https://osu.ppy.sh/beatmapsets/848546#fruits) by ::Minato Yukina::{ user=531253 } and [Rocma](https://osu.ppy.sh/users/566276)\
+[t+pazolite - Garakuta Doll Play](https://osu.ppy.sh/beatmapsets/848546#fruits) by ::Minato Yukina::{ user=531253 } and ::Rocma::{ user=566276 }\
 256 BPM, 2:02 | 5.99★, 7.48★\
 The \[Easy\] difficulty is *not* being nominated for Loved.\
 *description written by ::Sartan::{ user=4100941 }*
@@ -176,7 +176,7 @@ Go give both difficulties a spin, and see what you think! Definitely vote yes on
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::-mint-::{ user=8976576 }, [Abraxos](https://osu.ppy.sh/users/5025064), ::lenpai::{ user=5314573 }, [Pope Gadget](https://osu.ppy.sh/users/2288341) and ::Toaph Daddy::{ user=7616811 }!
+osu!mania Loved candidates were chosen by ::-mint-::{ user=8976576 }, ::Abraxos::{ user=5025064 }, ::lenpai::{ user=5314573 }, ::Pope Gadget::{ user=2288341 } and ::Toaph Daddy::{ user=7616811 }!
 
 ---
 

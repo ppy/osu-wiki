@@ -13,7 +13,7 @@ The Semifinals offered some very exciting matches, including the first tiebreake
 
 ### Semifinals Matches
 
-**The opening match started with Australia eliminating Chile 6-2.** At first, the Australians found themselves in a 1-2 deficit, losing out heavily on the nomods [UNDEAD CORPORATION - Revived](https://osu.ppy.sh/beatmapsets/373517#taiko/818305) and [Qoiet - Out Now On Crowsnest](https://osu.ppy.sh/beatmapsets/667033#taiko/1411524). All the following picks went in favour of Australia, as the combined strength of ::Jaye::{ user=4841352 } and [rango](https://osu.ppy.sh/users/7728466) was too much to handle for the Chileans.
+**The opening match started with Australia eliminating Chile 6-2.** At first, the Australians found themselves in a 1-2 deficit, losing out heavily on the nomods [UNDEAD CORPORATION - Revived](https://osu.ppy.sh/beatmapsets/373517#taiko/818305) and [Qoiet - Out Now On Crowsnest](https://osu.ppy.sh/beatmapsets/667033#taiko/1411524). All the following picks went in favour of Australia, as the combined strength of ::Jaye::{ user=4841352 } and ::rango::{ user=7728466 } was too much to handle for the Chileans.
 
 The next team to secure their top 8 placement was **Indonesia with a 6-0 sweep over Brazil.** While some maps were close, Brazil leaves the match empty-handed as they're knocked out of the tournament along with Chile, leaving no Latin American teams left in the cup.
 
@@ -60,7 +60,7 @@ In the winners bracket, the undefeated teams of Japan and Taiwan will battle for
 
 ### Useful Links
 
-**Want to join in on the Finals action?** The first match between South Korea and Canada starts on Sunday at 02:00 UTC on the [osulive channel](https://www.twitch.tv/osulive), so don't miss out! While you're there, you can also [rewatch past matches](https://www.twitch.tv/osulive/videos/all). If you're into stats, why not have a look at the various ones compiled by ::deadbeat::{ user=128370 } and [Nwolf](https://osu.ppy.sh/users/1910766) which can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSp05eL_jYsj4RGa2-lsS39wC1AQDLYXidmQJn0jcLU3c6nETCVZW2BhB5Cy_uIQ_Cp3K_BuTtLJDy4/pubhtml#), as well as [these leaderboards I've compiled](https://docs.google.com/spreadsheets/d/1cZzz-MiT3i6Hp0VW2XXvASMDUVe1ETl-r6fMKHwVhtE/edit#gid=1063908524).
+**Want to join in on the Finals action?** The first match between South Korea and Canada starts on Sunday at 02:00 UTC on the [osulive channel](https://www.twitch.tv/osulive), so don't miss out! While you're there, you can also [rewatch past matches](https://www.twitch.tv/osulive/videos/all). If you're into stats, why not have a look at the various ones compiled by ::deadbeat::{ user=128370 } and ::Nwolf::{ user=1910766 } which can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSp05eL_jYsj4RGa2-lsS39wC1AQDLYXidmQJn0jcLU3c6nETCVZW2BhB5Cy_uIQ_Cp3K_BuTtLJDy4/pubhtml#), as well as [these leaderboards I've compiled](https://docs.google.com/spreadsheets/d/1cZzz-MiT3i6Hp0VW2XXvASMDUVe1ETl-r6fMKHwVhtE/edit#gid=1063908524).
 
 **Don't forget to buy a banner if you haven't already!** If you end up supporting the winner of the tournament, your banner will remain on your profile until the next world cup! Since there are so few teams remaining, the chances of that happening are now fairly sizeable. You can pick up your banner at [the osu!store](https://osu.ppy.sh/store/products/296). By doing so, you contribute to the tournament prize pool.
 

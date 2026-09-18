@@ -310,7 +310,7 @@ Just a few days after BeasttrollMC's HR FC, fieryrage raises the sword even high
 
 **::Jaye::{ user=4841352 }**: [Stronghold [Special Oni]](https://osu.ppy.sh/beatmapsets/464923#taiko/995363) +HD **Silver S** (FC, 99.89%)\
 22 February 2019, Loved\
-*Added by ::JDrago14::{ user=7690078 }, written by [Raphalge](https://osu.ppy.sh/users/3918650)*
+*Added by ::JDrago14::{ user=7690078 }, written by ::Raphalge::{ user=3918650 }*
 
 Some of you may remember this map from from the RO16 pool of TWC 2017, and if you do, you'll know that it contains every type of SV imaginable. High speeds, low speeds... Really low speeds... You name it! However, for the seasoned Hidden player Jaye, this is not an issue. It seems this was just another name on his "Crazy Hidden Scores" hit list... As if completely unfazed by the chaos, Jaye manages to pull off an incredible 99.89% Full Combo, using Hidden on this already eye-straining beast of a map.
 
@@ -318,7 +318,7 @@ Some of you may remember this map from from the RO16 pool of TWC 2017, and if yo
 
 **::shinchikuhome::{ user=3174184 }**: [Uta [lolcubes' Hell Oni]](https://osu.ppy.sh/beatmapsets/410162#taiko/899716) +DT **S** (FC, 99.59%)\
 24 February 2019, Ranked, 618pp\
-*Added by ::JDrago14::{ user=7690078 }, written by [Raphalge](https://osu.ppy.sh/users/3918650)*
+*Added by ::JDrago14::{ user=7690078 }, written by ::Raphalge::{ user=3918650 }*
 
 Every now and then I think to myself "This is it. We've reached peak performance". However, minutes later someone decides to put the pedal to the metal and does what was previously thought to be impossible. For shinchikuhome, an 8-minute, 205 BPM, appropriately titled "Hell Oni" map is simply too easy, and needs some spice. Double Time spice to be exact, taking this already very dense 6\* map and bumping it up to a jaw-dropping 8.95\*. It speaks for itself, really. 5 minutes of 308 BPM at what is basically 9\*? I'd say that's worth having a look at.
 
@@ -342,7 +342,7 @@ One of the more recently ranked TAIKO-HOLIC mapsets from the famous Japanese Tai
 
 **::applerss::{ user=983349 }**: [Kattobi KEIKYU Rider [Kaisoku Tokkyu]](https://osu.ppy.sh/beatmapsets/673769#taiko/1433274) +HD **Silver S** (FC, 98.46%)\
 1 March 2019, Loved\
-*Added by ::JDrago14::{ user=7690078 }, written by [Raphalge](https://osu.ppy.sh/users/3918650)*
+*Added by ::JDrago14::{ user=7690078 }, written by ::Raphalge::{ user=3918650 }*
 
 And the award for the most stupidly catchy song goes to... A song about trains? A well-known map, infamous for it's abundant usage of 1/6 patterns and speed. Matched with a player, well-known for his proficiency in those exact areas? A match made in heaven if you ask me. applerss makes a rare appearance in this installment of the biweekly Scorewatch, facing off against the ever-powerful Densha Warrior. Will he use his trump card "Hidden" and tear through the map with ease, or will he be overwhelmed by the speed and technicalities and fail? Well, you already see the results in the title. But give it a watch anyways!
 

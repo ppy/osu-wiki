@@ -18,7 +18,7 @@ Congratulations to osu!idol's winner: ::yealina::{ user=139551 }! They came in t
 
 Now for the runners up.
 
-Congratulations to ::Sharlo::{ user=1622450 } and [MissTitannia](https://osu.ppy.sh/users/4490361) for claiming 2nd and 3rd place respectively! Just because they did not get 1st place, it does not mean they are not outstanding. Their singing is amazing and most would want to see them again next year! For taking 2nd place, Sharlo will receive a 2 months supporter tag and for taking 3rd, MissTitannia will receive 1 month supporter tag! Here are the links for 2nd and 3rd place respectively.
+Congratulations to ::Sharlo::{ user=1622450 } and ::MissTitannia::{ user=4490361 } for claiming 2nd and 3rd place respectively! Just because they did not get 1st place, it does not mean they are not outstanding. Their singing is amazing and most would want to see them again next year! For taking 2nd place, Sharlo will receive a 2 months supporter tag and for taking 3rd, MissTitannia will receive 1 month supporter tag! Here are the links for 2nd and 3rd place respectively.
 
 [You can insight the contest results here.](https://docs.google.com/spreadsheets/d/1XEL-Zb_ldV0l4jpv7IAWzER-LV-uoo9pE2nIb7PI23Y/edit#gid=1003675360) For more information, please visit the [osu!idol thread](https://osu.ppy.sh/community/forums/topics/234545)
 

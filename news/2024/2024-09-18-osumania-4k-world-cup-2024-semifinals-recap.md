@@ -67,7 +67,7 @@ With Akiri already having a large amount of originals in their catalogue, you ca
     </audio>
 </div>
 
-Last, but CERTAINLY not least, [Kabocha](https://osu.ppy.sh/beatmaps/artists/345) and incredible vocalist [Aitsuki Nakuru](https://osu.ppy.sh/beatmaps/artists/127) bring [Dear The Night I Loved](https://osu.ppy.sh/beatmapsets/2246380#mania/4775997) charted by ::-mint-::{ user=8976576 } and [MyZterioN-](https://osu.ppy.sh/users/8976576)!
+Last, but CERTAINLY not least, [Kabocha](https://osu.ppy.sh/beatmaps/artists/345) and incredible vocalist [Aitsuki Nakuru](https://osu.ppy.sh/beatmaps/artists/127) bring [Dear The Night I Loved](https://osu.ppy.sh/beatmapsets/2246380#mania/4775997) charted by ::-mint-::{ user=8976576 } and ::MyZterioN-::{ user=8976576 }!
 
 If you're at all familiar with their song *Lilith*, you're familiar with this one. This is the aforementioned LN4, and it's much more stream/snap focused, leading to smooth patterns that can have a heavy toll on your accuracy due to the nature of how staggered (just about) every release is. All long note players are sure to enjoy this one.
 

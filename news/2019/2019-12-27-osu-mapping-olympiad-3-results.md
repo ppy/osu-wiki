@@ -45,7 +45,7 @@ As a bonus for winning first place, PianoLuigi's badge description will include 
 
 You can also visit the [listing of all accumulated Olympiad Points](https://docs.google.com/spreadsheets/d/1_gIDJwTOgIhGr2h4069-r1C-2GHuV--5wtwPywzYsz8/edit), which is updated after each contest.
 
-We would like to give a big thank you to ::Asherz007::{ user=9014047 }, [Leniane](https://osu.ppy.sh/users/7138602), and ::Tailsdk::{ user=6751666 } for stepping up to judge the entries. As with the osu!taiko contest, we unfortunately ran into issues with getting judging completed for this contest. It was a huge help for these three to come in and judge the entries so that we could finish the contest. We could not have done it without them. Please note that while Asherz007 helped organize the beginning parts of this contest, he did not have access to the identities of the entries as the anonymization process was handled by Chaos.
+We would like to give a big thank you to ::Asherz007::{ user=9014047 }, ::Leniane::{ user=7138602 }, and ::Tailsdk::{ user=6751666 } for stepping up to judge the entries. As with the osu!taiko contest, we unfortunately ran into issues with getting judging completed for this contest. It was a huge help for these three to come in and judge the entries so that we could finish the contest. We could not have done it without them. Please note that while Asherz007 helped organize the beginning parts of this contest, he did not have access to the identities of the entries as the anonymization process was handled by Chaos.
 
 Thank you to all of the participants and congratulations again to ::PianoLuigi::{ user=9665915 }! Be on the lookout for another osu!catch Olympiad contest coming soon, and an osu!standard contest on the horizon!
 

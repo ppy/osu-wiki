@@ -66,41 +66,41 @@ Seri *podcast* ini telah diatur sehingga siapa pun dapat dengan bebas masuk ke d
 
 | No. EP | Topik | Narasumber | Tautan |
 | :-- | :-- | :-- | :-- |
-| 1 | Pengerjaan Ulang Staf | ::Charles445::{ user=85000 }, [Ephemeral](https://osu.ppy.sh/users/102335), dan ::OnosakiHito::{ user=290128 } | [Tautan](https://www.youtube.com/watch?v=c10Jiq1xZus) |
-| 2 | Overmapping | ::Kyonko Hizara::{ user=444868 }, [Loctav](https://osu.ppy.sh/users/71366), ::MMzz::{ user=128993 }, dan [OnosakiHito](https://osu.ppy.sh/users/290128) | [Tautan](https://www.youtube.com/watch?v=RepSYE3hN3A) |
-| 3 | Moderasi | ::Charles445::{ user=85000 }, [Flanster](https://osu.ppy.sh/users/447818), dan ::Kitokofox::{ user=1815420 } | [Tautan](https://www.youtube.com/watch?v=C1hvpnW5A7k) |
-| 4 | osu!academy dan acara yang akan datang | ::Charles445::{ user=85000 }, [Kyonko Hizara](https://osu.ppy.sh/users/444868), dan ::Kitokofox::{ user=1815420 } | [Tautan](https://www.youtube.com/watch?v=-N44vLwJ9oM) |
-| 5 | osu! World Cup 2014 | ::Charles445::{ user=85000 }, [cptnXn](https://osu.ppy.sh/users/495272), ::Loctav::{ user=71366 }, [Mr Color](https://osu.ppy.sh/users/116078), ::p3n::{ user=123703 }, dan [ToGlette](https://osu.ppy.sh/users/1076236) | [Tautan](https://www.youtube.com/watch?v=Tl0E8vqubjw) |
-| 6 | osu! World Cup Grand Finals | ::cptnXn::{ user=495272 }, [Doomsday](https://osu.ppy.sh/users/18983), ::Loctav::{ user=71366 }, [Mr Color](https://osu.ppy.sh/users/116078), dan ::Tom94::{ user=1857058 } | [Tautan](https://www.youtube.com/watch?v=bl63NpUz_T8) |
-| 7 | Guest difficulties vs single mapper set | ::Doomsday::{ user=18983 }, [shARPII](https://osu.ppy.sh/users/776257), dan ::WubWoofWolf::{ user=39828 } | [Tautan](https://www.youtube.com/watch?v=OMsHFRS662k) |
-| 8 | osu!next | ::flyte::{ user=3103765 } dan [peppy](https://osu.ppy.sh/users/2) | [Tautan](https://www.youtube.com/watch?v=jBUNIDa427Q) |
-| 9 | Legenda dari ketagihan mengklik lingkaran | ::Charles445::{ user=85000 }, [Kyonko Hizara](https://osu.ppy.sh/users/444868), ::Flanster::{ user=447818 }, dan [p3n](https://osu.ppy.sh/users/123703) | [Tautan](https://www.youtube.com/watch?v=tIEuc4DK_nM) |
-| 10 | osu!next ronde kedua | ::flyte::{ user=3103765 } dan [peppy](https://osu.ppy.sh/users/2) | [Tautan](https://www.youtube.com/watch?v=tICLLkOlpno) |
-| 11 | Diskusi Catch the Beat | ::Kingkevin30::{ user=564334 }, [- Magic Bomb -](https://osu.ppy.sh/users/3071175), ::Candlestorm::{ user=6115166 }, [Saki](https://osu.ppy.sh/users/3026611), dan ::Zak::{ user=1375955 } | [Tautan](https://www.youtube.com/watch?v=1SvUNLkcoQg) |
-| 12 | Diskusi osu!idol | ::Flanster::{ user=447818 }, [shARPII](https://osu.ppy.sh/users/776257), dan ::Kyonko Hizara::{ user=444868 } | [Tautan](https://www.youtube.com/watch?v=gwtlGM1GpWM) |
-| 13 | OWC 2015 | ::juankristal::{ user=443656 }, [Rohulk](https://osu.ppy.sh/users/3219026), ::Xilver15::{ user=3099689 }, dan [Zak](https://osu.ppy.sh/users/1375955) | [Tautan](https://www.youtube.com/watch?v=vwIPweKIH-Y) |
-| 14 | Musik | ::nekodex::{ user=102 } dan [cYsmix](https://osu.ppy.sh/users/272870) | [Tautan](https://www.youtube.com/watch?v=qRnPEdVf4hU) |
-| 15 | Acara yang diselenggarakan oleh staf | ::Flanster::{ user=447818 } dan [karterfreak](https://osu.ppy.sh/users/1031958) | [Tautan](https://www.youtube.com/watch?v=9EZBbmNYHaM) |
-| 16 | Aspire II | ::Ephemeral::{ user=102335 }, [Okoratu](https://osu.ppy.sh/users/1623405), ::Ciyus Miapah::{ user=2805457 }, dan [Taeyang](https://osu.ppy.sh/users/2732340) | [Tautan](https://www.youtube.com/watch?v=h5_QV1hTdVk) |
-| 17 | OWC 2016 | ::juankristal::{ user=443656 }, [Doomsday](https://osu.ppy.sh/users/18983), dan ::Omgforz::{ user=578943 } | [Tautan](https://www.youtube.com/watch?v=6TFaY-2L4QE) |
-| 18 | Ujian-ujian Nominator | ::Mao::{ user=2204515 }, [Feerum](https://osu.ppy.sh/users/4815717), dan ::JBHyperion::{ user=4879508 } | [Tautan](https://www.youtube.com/watch?v=rV0gR3ctmBU) |
-| 19 | Tim OWC Amerika Serikat | ::HappyStick::{ user=256802 }, [Ritzeh](https://osu.ppy.sh/users/1028387), dan ::idke::{ user=4650315 } | [Tautan](https://www.youtube.com/watch?v=9fsfdfBFsI8) |
-| 20 | Program Bimbingan Komunitas | ::Yuii-::{ user=2935923 }, [Raiden](https://osu.ppy.sh/users/2239480), ::JBHyperion::{ user=4879508 }, dan [juankristal](https://osu.ppy.sh/users/443656) | [Tautan](https://www.youtube.com/watch?v=yseX90wmD5E) |
-| 21 | Aspire 2017 | ::Ephemeral::{ user=102335 }, [ProfessionalBox](https://osu.ppy.sh/users/3250792), ::pishifat::{ user=3178418 }, dan [MinG3012](https://osu.ppy.sh/users/1583218) | [Tautan](https://www.youtube.com/watch?v=MyfupLRh1Io) |
-| 22 | Taiko World Cup 2017 | ::OnosakiHito::{ user=290128 }, [Raiden](https://osu.ppy.sh/users/2239480), ::magnomizer::{ user=1893718 }, dan [Jaye](https://osu.ppy.sh/users/4841352) | [Tautan](https://www.youtube.com/watch?v=3RXemratCb8) |
-| 23 | Turnamen-turnamen yang diselenggarakan oleh komunitas | ::Doomsday::{ user=18983 }, [HappyStick](https://osu.ppy.sh/users/256802), dan ::juankristal::{ user=443656 } | [Tautan](https://www.youtube.com/watch?v=rqCvZq50MBc) |
-| 24 | Restrukturisasi Beatmap Nominator | ::pishifat::{ user=3178418 }, [Seijiro](https://osu.ppy.sh/users/2581696), ::Sonnyc::{ user=11771 }, [Xexxar](https://osu.ppy.sh/users/2773526), dan ::Yuii-::{ user=2935923 } | [Tautan](https://www.youtube.com/watch?v=Va0cHczm8Mk) |
-| 25 | Aturan Main yang dibuat oleh Komunitas | ::Shawdooow::{ user=7726082 }, [ColdVolcano](https://osu.ppy.sh/users/7492333), dan ::andy840119::{ user=1030492 } | [Tautan](https://www.youtube.com/watch?v=0nuLwWejdII) |
-| 26 | osu!idol 2017 | ::Flanster::{ user=447818 }, [Kyonko Hizara](https://osu.ppy.sh/users/444868), ::CptHampton::{ user=3200587 }, dan [HeatKai](https://osu.ppy.sh/users/332555) | [Tautan](https://www.youtube.com/watch?v=Xz2R18xeqhI) |
+| 1 | Pengerjaan Ulang Staf | ::Charles445::{ user=85000 }, ::Ephemeral::{ user=102335 }, dan ::OnosakiHito::{ user=290128 } | [Tautan](https://www.youtube.com/watch?v=c10Jiq1xZus) |
+| 2 | Overmapping | ::Kyonko Hizara::{ user=444868 }, ::Loctav::{ user=71366 }, ::MMzz::{ user=128993 }, dan ::OnosakiHito::{ user=290128 } | [Tautan](https://www.youtube.com/watch?v=RepSYE3hN3A) |
+| 3 | Moderasi | ::Charles445::{ user=85000 }, ::Flanster::{ user=447818 }, dan ::Kitokofox::{ user=1815420 } | [Tautan](https://www.youtube.com/watch?v=C1hvpnW5A7k) |
+| 4 | osu!academy dan acara yang akan datang | ::Charles445::{ user=85000 }, ::Kyonko Hizara::{ user=444868 }, dan ::Kitokofox::{ user=1815420 } | [Tautan](https://www.youtube.com/watch?v=-N44vLwJ9oM) |
+| 5 | osu! World Cup 2014 | ::Charles445::{ user=85000 }, ::cptnXn::{ user=495272 }, ::Loctav::{ user=71366 }, ::Mr Color::{ user=116078 }, ::p3n::{ user=123703 }, dan ::ToGlette::{ user=1076236 } | [Tautan](https://www.youtube.com/watch?v=Tl0E8vqubjw) |
+| 6 | osu! World Cup Grand Finals | ::cptnXn::{ user=495272 }, ::Doomsday::{ user=18983 }, ::Loctav::{ user=71366 }, ::Mr Color::{ user=116078 }, dan ::Tom94::{ user=1857058 } | [Tautan](https://www.youtube.com/watch?v=bl63NpUz_T8) |
+| 7 | Guest difficulties vs single mapper set | ::Doomsday::{ user=18983 }, ::shARPII::{ user=776257 }, dan ::WubWoofWolf::{ user=39828 } | [Tautan](https://www.youtube.com/watch?v=OMsHFRS662k) |
+| 8 | osu!next | ::flyte::{ user=3103765 } dan ::peppy::{ user=2 } | [Tautan](https://www.youtube.com/watch?v=jBUNIDa427Q) |
+| 9 | Legenda dari ketagihan mengklik lingkaran | ::Charles445::{ user=85000 }, ::Kyonko Hizara::{ user=444868 }, ::Flanster::{ user=447818 }, dan ::p3n::{ user=123703 } | [Tautan](https://www.youtube.com/watch?v=tIEuc4DK_nM) |
+| 10 | osu!next ronde kedua | ::flyte::{ user=3103765 } dan ::peppy::{ user=2 } | [Tautan](https://www.youtube.com/watch?v=tICLLkOlpno) |
+| 11 | Diskusi Catch the Beat | ::Kingkevin30::{ user=564334 }, ::- Magic Bomb -::{ user=3071175 }, ::Candlestorm::{ user=6115166 }, ::Saki::{ user=3026611 }, dan ::Zak::{ user=1375955 } | [Tautan](https://www.youtube.com/watch?v=1SvUNLkcoQg) |
+| 12 | Diskusi osu!idol | ::Flanster::{ user=447818 }, ::shARPII::{ user=776257 }, dan ::Kyonko Hizara::{ user=444868 } | [Tautan](https://www.youtube.com/watch?v=gwtlGM1GpWM) |
+| 13 | OWC 2015 | ::juankristal::{ user=443656 }, ::Rohulk::{ user=3219026 }, ::Xilver15::{ user=3099689 }, dan ::Zak::{ user=1375955 } | [Tautan](https://www.youtube.com/watch?v=vwIPweKIH-Y) |
+| 14 | Musik | ::nekodex::{ user=102 } dan ::cYsmix::{ user=272870 } | [Tautan](https://www.youtube.com/watch?v=qRnPEdVf4hU) |
+| 15 | Acara yang diselenggarakan oleh staf | ::Flanster::{ user=447818 } dan ::karterfreak::{ user=1031958 } | [Tautan](https://www.youtube.com/watch?v=9EZBbmNYHaM) |
+| 16 | Aspire II | ::Ephemeral::{ user=102335 }, ::Okoratu::{ user=1623405 }, ::Ciyus Miapah::{ user=2805457 }, dan ::Taeyang::{ user=2732340 } | [Tautan](https://www.youtube.com/watch?v=h5_QV1hTdVk) |
+| 17 | OWC 2016 | ::juankristal::{ user=443656 }, ::Doomsday::{ user=18983 }, dan ::Omgforz::{ user=578943 } | [Tautan](https://www.youtube.com/watch?v=6TFaY-2L4QE) |
+| 18 | Ujian-ujian Nominator | ::Mao::{ user=2204515 }, ::Feerum::{ user=4815717 }, dan ::JBHyperion::{ user=4879508 } | [Tautan](https://www.youtube.com/watch?v=rV0gR3ctmBU) |
+| 19 | Tim OWC Amerika Serikat | ::HappyStick::{ user=256802 }, ::Ritzeh::{ user=1028387 }, dan ::idke::{ user=4650315 } | [Tautan](https://www.youtube.com/watch?v=9fsfdfBFsI8) |
+| 20 | Program Bimbingan Komunitas | ::Yuii-::{ user=2935923 }, ::Raiden::{ user=2239480 }, ::JBHyperion::{ user=4879508 }, dan ::juankristal::{ user=443656 } | [Tautan](https://www.youtube.com/watch?v=yseX90wmD5E) |
+| 21 | Aspire 2017 | ::Ephemeral::{ user=102335 }, ::ProfessionalBox::{ user=3250792 }, ::pishifat::{ user=3178418 }, dan ::MinG3012::{ user=1583218 } | [Tautan](https://www.youtube.com/watch?v=MyfupLRh1Io) |
+| 22 | Taiko World Cup 2017 | ::OnosakiHito::{ user=290128 }, ::Raiden::{ user=2239480 }, ::magnomizer::{ user=1893718 }, dan ::Jaye::{ user=4841352 } | [Tautan](https://www.youtube.com/watch?v=3RXemratCb8) |
+| 23 | Turnamen-turnamen yang diselenggarakan oleh komunitas | ::Doomsday::{ user=18983 }, ::HappyStick::{ user=256802 }, dan ::juankristal::{ user=443656 } | [Tautan](https://www.youtube.com/watch?v=rqCvZq50MBc) |
+| 24 | Restrukturisasi Beatmap Nominator | ::pishifat::{ user=3178418 }, ::Seijiro::{ user=2581696 }, ::Sonnyc::{ user=11771 }, ::Xexxar::{ user=2773526 }, dan ::Yuii-::{ user=2935923 } | [Tautan](https://www.youtube.com/watch?v=Va0cHczm8Mk) |
+| 25 | Aturan Main yang dibuat oleh Komunitas | ::Shawdooow::{ user=7726082 }, ::ColdVolcano::{ user=7492333 }, dan ::andy840119::{ user=1030492 } | [Tautan](https://www.youtube.com/watch?v=0nuLwWejdII) |
+| 26 | osu!idol 2017 | ::Flanster::{ user=447818 }, ::Kyonko Hizara::{ user=444868 }, ::CptHampton::{ user=3200587 }, dan ::HeatKai::{ user=332555 } | [Tautan](https://www.youtube.com/watch?v=Xz2R18xeqhI) |
 
 ## Spesial
 
 | No. EP | Topik | Narasumber | Tautan |
 | :-- | :-- | :-- | :-- |
 | 1 | Silakan Tanya Saya Apapun | *N/A* | [Tautan](https://www.youtube.com/watch?v=A0xqa-vBPgY) |
-| 2 | Silakan Tanya Saya Apapun 2015 | ::Charles445::{ user=85000 }, [Flanster](https://osu.ppy.sh/users/447818), dan ::p3n::{ user=123703 } | [Tautan](https://www.youtube.com/watch?v=a9An8cD18Co) |
+| 2 | Silakan Tanya Saya Apapun 2015 | ::Charles445::{ user=85000 }, ::Flanster::{ user=447818 }, dan ::p3n::{ user=123703 } | [Tautan](https://www.youtube.com/watch?v=a9An8cD18Co) |
 | 3 | Perayaan 1 tahun | ::Charles445::{ user=85000 } | [Tautan](https://www.youtube.com/watch?v=AHU7RgGCB50) |
-| 4 | Selamat datang kembali | ::Kyonko Hizara::{ user=444868 }, [Nyquill](https://osu.ppy.sh/users/682935), dan ::Zak::{ user=1375955 } | [Tautan](https://www.youtube.com/watch?v=mxXNNH5bnU4) |
+| 4 | Selamat datang kembali | ::Kyonko Hizara::{ user=444868 }, ::Nyquill::{ user=682935 }, dan ::Zak::{ user=1375955 } | [Tautan](https://www.youtube.com/watch?v=mxXNNH5bnU4) |
 | 5 | Tanya jawab acara yang akan datang | ::Kyonko Hizara::{ user=444868 } | [Tautan](https://www.youtube.com/watch?v=-f9hGuNC4Jg) |
 
 ## Tautan eksternal

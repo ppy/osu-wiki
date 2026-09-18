@@ -10,13 +10,13 @@ The judges have made their decisions, and the winner of the second Aspire contes
 
 ![](https://puu.sh/oTUdn/ce9faf4bbe.jpg)
 
-After weeks of intense scrutiny, our judging dream-team of [Chaoslitz](https://osu.ppy.sh/users/chaoslitz), [Natsu](https://osu.ppy.sh/users/Natsu), [Okorin](https://osu.ppy.sh/users/Okorin), [Sonnyc](https://osu.ppy.sh/users/Sonnyc) agonized endlessly over the creativity thrust before them. In keeping with Aspire tradition, both [ztrot](https://osu.ppy.sh/users/ztrot) and myself stepped in to judge purely in the creative category alone, giving the contest its signature weighting towards creative enterprise.
+After weeks of intense scrutiny, our judging dream-team of ::Chaoslitz::{ user=3621552 }, [Natsu](https://osu.ppy.sh/users/Natsu), ::Okorin::{ user=1623405 }, [Sonnyc](https://osu.ppy.sh/users/Sonnyc) agonized endlessly over the creativity thrust before them. In keeping with Aspire tradition, both ::ztrot::{ user=6347 } and myself stepped in to judge purely in the creative category alone, giving the contest its signature weighting towards creative enterprise.
 
 We showcased one of the game's most creatively-oriented maps (as far as mapping mechanics goes) in the announcement contest, and boy were we surprised by the massive variation in entries this time around! We saw everything, from stereo hitsounding, to fully keysounded maps, atmospheric storyboarding, metamorphising sliders, 2B burai kicksliders, wiggle-hold sliders, double-taps, 2016 TAG4 mapping and so, so much more. Personally, I was more impressed with this iteration of the contest from the sheer breadth of experimentation in its entries alone.
 
 There was however, a clear leader over the rest. One aspirant displayed perhaps the most visually impressive entry we've ever seen in the contest thus far. If nothing else, it is at least a viable contender for the example set by [the last contest winning map](https://osu.ppy.sh/beatmapsets/227126). Beyond being simply visually impressive, the mapper displayed some incredibly savvy technical understanding of the game and its mechanics, pulling out all the stops to impress every judge with their stellar work.
 
-This entrant, now our newest Elite Mapper: Aspirant, is none other than **[Monstrata](https://osu.ppy.sh/users/monstrata)**. Some among you may know him as the Lord of Triangles, or the Three-sided Saviour. Or any other name that vaguely references his signature mapping technique (hint: triangles) somehow.
+This entrant, now our newest Elite Mapper: Aspirant, is none other than **::Monstrata::{ user=2706438 }**. Some among you may know him as the Lord of Triangles, or the Three-sided Saviour. Or any other name that vaguely references his signature mapping technique (hint: triangles) somehow.
 
 View his spectacular winning entry below, courtesy of the osu!news channel:
 
@@ -32,15 +32,15 @@ It isn't over yet, though!
 
 A number of other entrants had entries worthy of an Honorable Mention:
 
-[Regou](https://osu.ppy.sh/users/Regou) wowed us all with a spectacularly well-done map hitsounded entirely in simulated stereo. Slap on a pair of headphones and give their entry a listen - it's truly something quite exceptional! [Play Regou's stereo sensation here!](https://osu.ppy.sh/beatmapsets/485018)
+::Regou::{ user=419954 } wowed us all with a spectacularly well-done map hitsounded entirely in simulated stereo. Slap on a pair of headphones and give their entry a listen - it's truly something quite exceptional! [Play Regou's stereo sensation here!](https://osu.ppy.sh/beatmapsets/485018)
 
-[Fort](https://osu.ppy.sh/users/Fort) brought out all of his storyboarding and mapping muscle, creating a phenomenal example of how much well-done storyboards can add to a map. [Play Fort's masterpiece for yourself here!](https://osu.ppy.sh/beatmapsets/484661)
+::Fort::{ user=11595696 } brought out all of his storyboarding and mapping muscle, creating a phenomenal example of how much well-done storyboards can add to a map. [Play Fort's masterpiece for yourself here!](https://osu.ppy.sh/beatmapsets/484661)
 
 ::Kin::{ user=480689 } won over the judges with their beautifully color annotated 2B-inclusive map. This sounds unimpressive, but believe me - it is a strong enough entry to give the developers serious pause to consider 2B as an official mechanic. [Play Kin's amazing entry here!](https://osu.ppy.sh/beatmapsets/484802)
 
 ::Taeyang::{ user=2732340 } brought out all of their Elite Mapper prowess, creating an extremely impressive entry (complete with spectacular storyboard) that only fell short of being a top 5 scorer due to the autofail restriction listed in the contest rules. Alas! Still a phenomenal entry, and definitely worthy of its spot as an Honorable Mention. [Play their entry for yourself here!](https://osu.ppy.sh/beatmapsets/484577)
 
-[Wafu](https://osu.ppy.sh/users/Wafu) stunned us all with an excellent map coupled with a stunning storyboard to the backing track. Very much worthy of its mention! [Play Wafu's entry here!](https://osu.ppy.sh/beatmapsets/484593)
+::Wafu::{ user=888955 } stunned us all with an excellent map coupled with a stunning storyboard to the backing track. Very much worthy of its mention! [Play Wafu's entry here!](https://osu.ppy.sh/beatmapsets/484593)
 
 ---
 

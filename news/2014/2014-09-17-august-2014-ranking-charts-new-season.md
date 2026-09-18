@@ -29,7 +29,7 @@ Congratulations to the winners of the July 2014 Ranking Charts. They get rewarde
 Additionally, we reward the highest voted map by providing 1 month supporter tag to the mapper:
 
 - **osu! standard:** ::Macuilxochitl::{ user=418699 } for [Starving Trancer - New Gravity](https://osu.ppy.sh/beatmapsets/188877) (9 votes)
-- **Taiko:** ::Backfire::{ user=263110 } & [-Anhedonia-](https://osu.ppy.sh/users/920861) for [Knife Party - Bonfire](https://osu.ppy.sh/beatmapsets/73576) (11 votes)
+- **Taiko:** ::Backfire::{ user=263110 } & ::-Anhedonia-::{ user=920861 } for [Knife Party - Bonfire](https://osu.ppy.sh/beatmapsets/73576) (11 votes)
 - **Catch the Beat:** ::Deif::{ user=318565 } for [Toku-P ft. ryo - SPiCa x Melt](https://osu.ppy.sh/beatmapsets/15066) (8 votes)
 - **osu!mania:** ::Fullerene-::{ user=2531335 } for [Yuyoyuppe - AiAe](https://osu.ppy.sh/beatmapsets/174381) (12 votes)
 

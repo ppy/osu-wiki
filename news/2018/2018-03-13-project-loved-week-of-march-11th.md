@@ -194,7 +194,7 @@ Is the highest difficulty too difficult for you? That's no problem. There are 2 
 
 *written by ::Kamikaze::{ user=2124783 }*
 
-We're going into more MWC picks, hooray! Here's one of the most evil charts from MWC 7K 2017 Finals, a collaboration between ::Jinjin::{ user=3360737 } and [Evening](https://osu.ppy.sh/users/2193881), [Angelic Party](https://osu.ppy.sh/beatmapsets/560692)!
+We're going into more MWC picks, hooray! Here's one of the most evil charts from MWC 7K 2017 Finals, a collaboration between ::Jinjin::{ user=3360737 } and ::Evening::{ user=2193881 }, [Angelic Party](https://osu.ppy.sh/beatmapsets/560692)!
 
 This 4 minute chart features most of what you can expect from a ridiculously hard chart that tests all skillsets: it has very dense streaming, it has very dense LN patterns, a combination of both, bursts, speedup SVs and nasty slowjams with 6 column inversions, clocking at 8.88 stars, this is a monster a lot of top players will struggle with.
 
@@ -234,7 +234,7 @@ And to finish this list off, we have something to help you relax and help you ge
 
 It's a funny, uplifting song, and the mapset is keeping in theme, with various light streaming patterns, some interesting jump SVs and fun LN patterning.
 
-Offering two keymodes, 4K and 9K with top difficulties made by ::Reyzra::{ user=2684831 } and [Shinzo-](https://osu.ppy.sh/users/4720038) respectively, the 9K chart focuses more on being an all round tester with a mix of streams, LNs and SVs, while the 9K focuses more on interesting and challenging stream patterning. Don't get lost!
+Offering two keymodes, 4K and 9K with top difficulties made by ::Reyzra::{ user=2684831 } and ::Shinzo-::{ user=4720038 } respectively, the 9K chart focuses more on being an all round tester with a mix of streams, LNs and SVs, while the 9K focuses more on interesting and challenging stream patterning. Don't get lost!
 
 ---
 

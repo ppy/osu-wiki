@@ -11,7 +11,7 @@ series: project_loved
 
 Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! Every two weeks, we pick out a few beatmaps from each game mode that will get their shot at making it into the Loved category. From the maps we selected, you can now vote whether or not you want them to be Loved! Click on each map's header image in this post to be taken to their voting threads.
 
-osu!taiko returns this week from its break, and the team will be selecting four maps per round. They've heard your feedback from the discussion thread that was open for the last two weeks, and will do their best to incorporate it into the picks from now on! Though they didn't make it in time to help out for this week, we're also welcoming two new captains for osu!taiko: ::nyanmi-1828::{ user=6866480 } and [-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910)!
+osu!taiko returns this week from its break, and the team will be selecting four maps per round. They've heard your feedback from the discussion thread that was open for the last two weeks, and will do their best to incorporate it into the picks from now on! Though they didn't make it in time to help out for this week, we're also welcoming two new captains for osu!taiko: ::nyanmi-1828::{ user=6866480 } and ::-\[ ix Ishida xi \]-::{ user=242910 }!
 
 As a sort of experiment this week, ::Toy::{ user=2757689 } decided to crank up the threshold for osu!standard from 80% to 90%. This will hopefully draw a finer line between maps that deserve to be moved to Loved and those that have just gained some momentary fame from a community influencer. If this proves to work out, we'll just stick with 90% for osu!standard going forward.
 
@@ -28,7 +28,7 @@ In case you don't read the end of this post, be sure to submit suggestions for b
 
 ## osu!
 
-osu! Loved candidates were chosen by ::Toy::{ user=2757689 } and [DigitalHypno](https://osu.ppy.sh/users/4384207)!
+osu! Loved candidates were chosen by ::Toy::{ user=2757689 } and ::DigitalHypno::{ user=4384207 }!
 
 ---
 
@@ -48,7 +48,7 @@ This song, Forward, definitely has a jumpy feel to it. Evgerable captured this f
 
 [![](/wiki/shared/news/2018-09-09-project-loved-week-of-september-9th/osu/ghost-rule.jpg)](https://osu.ppy.sh/community/forums/topics/801919)
 
-[DECO\*27 - Ghost Rule](https://osu.ppy.sh/beatmapsets/425169) by ::val0108::{ user=243917 }, [Kenterz](https://osu.ppy.sh/users/1587976), ::z1085684963::{ user=1816779 } and [caren\_sk](https://osu.ppy.sh/users/542498)\
+[DECO\*27 - Ghost Rule](https://osu.ppy.sh/beatmapsets/425169) by ::val0108::{ user=243917 }, ::Kenterz::{ user=1587976 }, ::z1085684963::{ user=1816779 } and ::caren\_sk::{ user=542498 }\
 *written by ::DigitalHypno::{ user=4384207 }*
 
 A song popularized by a few other mapsets in the Ranked and Loved categories, this mapset of Ghost Rule with four different difficulties from four different mappers—Kenterz, val0108, z1085684963 and caren\_sk—does a great job capturing the song in styles that aren't offered by the other sets. It certainly shows, too: the mapset has over 190 favorites, and that number is sure to increase. Whether you're a fan of unconventional flow or large, flowy, full screen jumps, this mapset has something for you.
@@ -62,7 +62,7 @@ If you've played one lahphnya map, you've played them all. Right? I'm not here t
 
 [![](/wiki/shared/news/2018-09-09-project-loved-week-of-september-9th/osu/iro-wa-jou-e-to-izanau.jpg)](https://osu.ppy.sh/community/forums/topics/801921)
 
-[senya - Iro wa Jou e to Izanau](https://osu.ppy.sh/beatmapsets/226670) by ::Momizi::{ user=2737871 }, [Spring Roll](https://osu.ppy.sh/users/2499198), ::Mikagura Seisa::{ user=1990956 } and [FreeSongs](https://osu.ppy.sh/users/2116792)\
+[senya - Iro wa Jou e to Izanau](https://osu.ppy.sh/beatmapsets/226670) by ::Momizi::{ user=2737871 }, ::Spring Roll::{ user=2499198 }, ::Mikagura Seisa::{ user=1990956 } and ::FreeSongs::{ user=2116792 }\
 *written by ::Toy::{ user=2757689 }*
 
 Psst, hey you. Do you like storyboards? This unfortunately abandoned full mapset of a gorgeous senya song has the start of what looks to be an extremely promising storyboard. Floating flower petals, lyrics flying on-screen, even a musically synchronized changing of lunar phases. Though as disappointing it is to see something like this left to rot for a full year, the mapping on every difficulty is fully complete and fantastic to boot featuring GDs from Spring Roll, Mikagura Seisa and FreeSongs.
@@ -104,7 +104,7 @@ Are you looking for another cute song and fun map to add to your collections? Or
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::Backfire::{ user=263110 }, [-Kazu-](https://osu.ppy.sh/users/920861) and ::iceOC::{ user=5482401 }! This week, all osu!taiko beatmap descriptions were written by ::Backfire::{ user=263110 }.
+osu!taiko Loved candidates were chosen by ::Backfire::{ user=263110 }, ::-Kazu-::{ user=920861 } and ::iceOC::{ user=5482401 }! This week, all osu!taiko beatmap descriptions were written by ::Backfire::{ user=263110 }.
 
 ---
 
@@ -134,7 +134,7 @@ As with many kobaryo songs, this is speedcore, and I mean truly intense speedcor
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Zak::{ user=1375955 }, [Ascendance](https://osu.ppy.sh/users/2931883), ::Sartan::{ user=4100941 } and [Tenshichan](https://osu.ppy.sh/users/1101600)!
+osu!catch Loved candidates were chosen by ::Zak::{ user=1375955 }, ::Ascendance::{ user=2931883 }, ::Sartan::{ user=4100941 } and ::Tenshichan::{ user=1101600 }!
 
 ---
 
@@ -154,7 +154,7 @@ Space time is not what you expect of an average very-hard map. The whole thing i
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::Kamikaze::{ user=2124783 }, [\_underjoy](https://osu.ppy.sh/users/2235750), ::aitor98::{ user=3154852 }, [Pope Gadget](https://osu.ppy.sh/users/2288341) and ::TheToaphster::{ user=7616811 }!
+osu!mania Loved candidates were chosen by ::Kamikaze::{ user=2124783 }, ::\_underjoy::{ user=2235750 }, ::aitor98::{ user=3154852 }, ::Pope Gadget::{ user=2288341 } and ::TheToaphster::{ user=7616811 }!
 
 ---
 
@@ -192,7 +192,7 @@ Rock It by Hommarju, mapped by Mage, is probably one of the most energetic Long 
 
 [![](/wiki/shared/news/2018-09-09-project-loved-week-of-september-9th/mania/knew-day.jpg)](https://osu.ppy.sh/community/forums/topics/801949)
 
-[(K)NoW\_NAME - Knew day](https://osu.ppy.sh/beatmapsets/510249) by ::Niima::{ user=3221985 } and [shuniki](https://osu.ppy.sh/users/4942174)\
+[(K)NoW\_NAME - Knew day](https://osu.ppy.sh/beatmapsets/510249) by ::Niima::{ user=3221985 } and ::shuniki::{ user=4942174 }\
 *written by ::aitor98::{ user=3154852 }*
 
 Hello and welcome to your average LN map! This time, Niima is bringing us a set that features... Long Notes. Knew day has every kind of Long Note based pattern, such as shields, inverted chordstreams, irregular releases, and more. It also features two keymodes (4K and 7K) for those who want to have a taste of this O2Jam-style mapping.

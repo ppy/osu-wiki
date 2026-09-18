@@ -55,7 +55,7 @@ Or discover something unreal with [this map](https://osu.ppy.sh/beatmapsets/7693
 
 ### Whispered - Tsukiakari
 
-It doesn't matter whether you prefer osu! or osu!taiko. [This map](https://osu.ppy.sh/beatmapsets/462888) by ::MrKosiej::{ user=7024544 } and [Raiden](https://osu.ppy.sh/users/2239480) has both, and [here's another osu!taiko marathon](https://osu.ppy.sh/beatmapsets/1326162) by ::Heaxys::{ user=5671417 } if you're feeling picky.
+It doesn't matter whether you prefer osu! or osu!taiko. [This map](https://osu.ppy.sh/beatmapsets/462888) by ::MrKosiej::{ user=7024544 } and ::Raiden::{ user=2239480 } has both, and [here's another osu!taiko marathon](https://osu.ppy.sh/beatmapsets/1326162) by ::Heaxys::{ user=5671417 } if you're feeling picky.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/347/Metsutan%2FWhispered%20-%20Tsukiakari.mp3">

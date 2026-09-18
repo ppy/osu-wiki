@@ -33,9 +33,9 @@ Navigate to whichever topic you're interested in above (or flex your scrolling m
 | ::LeCandy::{ user=6626249 } | [Redside - Sidequest](https://osu.ppy.sh/beatmapsets/2088634#osu/4376938) | 3rd | - | +1 (1 total) |
 | ::Lasse::{ user=896613 } | [ABSOLUTE CASTAWAY - Musubime](https://osu.ppy.sh/beatmapsets/2088521#osu/4376727) | Screener's pick | - | +1 (1 total) |
 
-To start, ::acnozei::{ user=10141268 } and [Lasse](https://osu.ppy.sh/users/896613) completely dominated the screening phase! Each of their maps were praised equally, yet both were far ahead of the next map in line, earning the mappers a single [contest point](/wiki/Contests/Contest_points) towards their future *Elite Mapper* titles.
+To start, ::acnozei::{ user=10141268 } and ::Lasse::{ user=896613 } completely dominated the screening phase! Each of their maps were praised equally, yet both were far ahead of the next map in line, earning the mappers a single [contest point](/wiki/Contests/Contest_points) towards their future *Elite Mapper* titles.
 
-::acnozei::{ user=10141268 }'s talent only continued to impress, earning them the top spot in the judging panel and 3 more contest points! ::phyr::{ user=13181574 } and [LeCandy](https://osu.ppy.sh/users/6626249) were close behind, earning 2 and 1 contest points respectively.
+::acnozei::{ user=10141268 }'s talent only continued to impress, earning them the top spot in the judging panel and 3 more contest points! ::phyr::{ user=13181574 } and ::LeCandy::{ user=6626249 } were close behind, earning 2 and 1 contest points respectively.
 
 ### osu!mania results
 

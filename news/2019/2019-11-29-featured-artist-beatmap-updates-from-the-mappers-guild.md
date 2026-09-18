@@ -27,7 +27,7 @@ Today we'll be going over finished quests from the Mappers' Guild, featured arti
 
 For the **Creo mini-pack (osu!)** quest, the mappers had to create and rank at least 4 mapsets of songs by Creo, each hosted by a different user.
 
-This quest was completed by ::VINXIS::{ user=4323406 } , [deetz](https://osu.ppy.sh/users/3513559), ::Cheesecake::{ user=3700647 }, [NeilPerry](https://osu.ppy.sh/users/841391), ::mithew::{ user=2571893 }, and [Kite](https://osu.ppy.sh/users/134572).
+This quest was completed by ::VINXIS::{ user=4323406 } , ::deetz::{ user=3513559 }, ::Cheesecake::{ user=3700647 }, ::NeilPerry::{ user=841391 }, ::mithew::{ user=2571893 }, and ::Kite::{ user=134572 }.
 
 - [Creo - Idolize](https://osu.ppy.sh/beatmapsets/1020213) hosted by ::deetz::{ user=3513559 }
 - [Creo - Nautilus](https://osu.ppy.sh/beatmapsets/1015289) hosted by ::VINXIS::{ user=4323406 }
@@ -38,7 +38,7 @@ This quest was completed by ::VINXIS::{ user=4323406 } , [deetz](https://osu.ppy
 
 For the **Inferi Collab mini-pack (osu!taiko)** quest, mappers had to create and rank at least 4 mapsets of songs by Inferi, each with a collaborative difficulty between two or more users.
 
-This quest was completed by ::komasy::{ user=1980256 }, [Greenshell](https://osu.ppy.sh/users/8693851), ::Rhytoly::{ user=8121109 }, [mintong89](https://osu.ppy.sh/users/966210), ::Raiden::{ user=2239480 }, [-Kazu-](https://osu.ppy.sh/users/920861), and ::iceOC::{ user=5482401 }.
+This quest was completed by ::komasy::{ user=1980256 }, ::Greenshell::{ user=8693851 }, ::Rhytoly::{ user=8121109 }, ::mintong89::{ user=966210 }, ::Raiden::{ user=2239480 }, ::-Kazu-::{ user=920861 }, and ::iceOC::{ user=5482401 }.
 
 - [Inferi - A Betrayal Unforetold](https://osu.ppy.sh/beatmapsets/1026679) hosted by ::Raiden::{ user=2239480 }
 - [Inferi - Forged in the Phlegethon](https://osu.ppy.sh/beatmapsets/1041193) hosted by ::iceOC::{ user=5482401 }
@@ -49,7 +49,7 @@ This quest was completed by ::komasy::{ user=1980256 }, [Greenshell](https://osu
 
 For the **High Tempo pack (osu!)** quest, mappers had to create and rank at least 8 mapsets of songs whose tempos are mainly 200BPM or faster, without a single user hosting more than two mapsets.
 
-This quest was completed by ::Cris-::{ user=6175280 }, [walaowey](https://osu.ppy.sh/users/1475828), ::Minorsonek::{ user=5377178 }, [Hazu-](https://osu.ppy.sh/users/4668230), ::Cosmolade::{ user=2172778 }, [RVMathew](https://osu.ppy.sh/users/3718151), ::-Sh1n1-::{ user=1957638 }, [Gero](https://osu.ppy.sh/users/1467715), ::Tatan::{ user=5646529 }, [Crissa](https://osu.ppy.sh/users/5405836), ::pkhg::{ user=343624 }, and [[ L u k a s ]](https://osu.ppy.sh/users/8067876).
+This quest was completed by ::Cris-::{ user=6175280 }, ::walaowey::{ user=1475828 }, ::Minorsonek::{ user=5377178 }, ::Hazu-::{ user=4668230 }, ::Cosmolade::{ user=2172778 }, ::RVMathew::{ user=3718151 }, ::-Sh1n1-::{ user=1957638 }, ::Gero::{ user=1467715 }, ::Tatan::{ user=5646529 }, ::Crissa::{ user=5405836 }, ::pkhg::{ user=343624 }, and ::\1 L u k a s \1::{ user=8067876 }.
 
 - [HyuN - White Aura](https://osu.ppy.sh/beatmapsets/996898) hosted by ::\1 L u k a s \1::{ user=8067876 }
 - [OISHII - ONIGIRI FREEWAY](https://osu.ppy.sh/beatmapsets/996628) hosted by ::Hazu-::{ user=4668230 }
@@ -65,7 +65,7 @@ This quest was completed by ::Cris-::{ user=6175280 }, [walaowey](https://osu.pp
 
 For the **Camellia Hybrid pack (osu!taiko & osu!mania)** quest, mappers had to create and rank at least 6 mapsets of songs by Camellia. Half of the mapsets must include difficulties of a game mode different from the other half, and each mapset must be hosted by a different user.
 
-This quest was completed by ::Nifty::{ user=4956097 }, [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ::Faputa::{ user=845733 }, [\_DUSK\_](https://osu.ppy.sh/users/6092181), ::Nepuri::{ user=6637817 }, [Genjuro](https://osu.ppy.sh/users/3196091), ::Asherz007::{ user=9014047 }, [Leniane](https://osu.ppy.sh/users/7138602), ::Dergo::{ user=7439226 }, [AncuL](https://osu.ppy.sh/users/2449200), and ::\_Kobii::{ user=6209713 }.
+This quest was completed by ::Nifty::{ user=4956097 }, ::Cynplytholowazy::{ user=3901754 }, ::Faputa::{ user=845733 }, ::\_DUSK\_::{ user=6092181 }, ::Nepuri::{ user=6637817 }, ::Genjuro::{ user=3196091 }, ::Asherz007::{ user=9014047 }, ::Leniane::{ user=7138602 }, ::Dergo::{ user=7439226 }, ::AncuL::{ user=2449200 }, and ::\_Kobii::{ user=6209713 }.
 
 - [Camellia - Artificial Snow](https://osu.ppy.sh/beatmapsets/1026319) hosted by ::Dergo::{ user=7439226 }
 - [Camellia - Break The Silence](https://osu.ppy.sh/beatmapsets/1032778) by ::Nepuri::{ user=6637817 }
@@ -79,7 +79,7 @@ This quest was completed by ::Nifty::{ user=4956097 }, [Cynplytholowazy](https:/
 
 For the **LukHash mini-pack (osu!catch)** quest, mappers had to create and rank at least 4 mapsets of songs by LukHash, each hosted by a different user. The party was so motivated, they went above and beyond by making 8 sets!
 
-This quest was completed by ::MBomb::{ user=3071175 }, [Nelly](https://osu.ppy.sh/users/4741164), ::Absolute Zero::{ user=4847256 }, [Bunnrei](https://osu.ppy.sh/users/829284), ::JBHyperion::{ user=4879508 }, [Ascendance](https://osu.ppy.sh/users/2931883), ::wonjae::{ user=5032045 }, and [Rocma](https://osu.ppy.sh/users/566276).
+This quest was completed by ::MBomb::{ user=3071175 }, ::Nelly::{ user=4741164 }, ::Absolute Zero::{ user=4847256 }, ::Bunnrei::{ user=829284 }, ::JBHyperion::{ user=4879508 }, ::Ascendance::{ user=2931883 }, ::wonjae::{ user=5032045 }, and ::Rocma::{ user=566276 }.
 
 - [LukHash - 8BIT FAIRY TALE](https://osu.ppy.sh/beatmapsets/1045131) hosted by ::Ascendance::{ user=2931883 }
 - [LukHash - DIGITAL HEART](https://osu.ppy.sh/beatmapsets/1031580) hosted by ::MBomb::{ user=3071175 }
@@ -94,7 +94,7 @@ This quest was completed by ::MBomb::{ user=3071175 }, [Nelly](https://osu.ppy.s
 
 For the **UNDEAD CORPORATION Other Albums pack (osu!)** quest, mappers had to create and rank at least 5 mapsets of UNDEAD CORPORATION's other songs (not listed under TOHO Complete Box), each hosted by a different user.
 
-This quest was completed by ::Trynna::{ user=2652951 }, [pishifat](https://osu.ppy.sh/users/3178418), ::eiri-::{ user=3388410 }, [Hinsvar](https://osu.ppy.sh/users/1249323), ::Niva::{ user=197805 }, and [Seto Kousuke](https://osu.ppy.sh/users/2857314).
+This quest was completed by ::Trynna::{ user=2652951 }, ::pishifat::{ user=3178418 }, ::eiri-::{ user=3388410 }, ::Hinsvar::{ user=1249323 }, ::Niva::{ user=197805 }, and ::Seto Kousuke::{ user=2857314 }.
 
 - [UNDEAD CORPORATION - Datura](https://osu.ppy.sh/beatmapsets/1020613) hosted by ::Seto Kousuke::{ user=2857314 }
 - [UNDEAD CORPORATION - Gleaming](https://osu.ppy.sh/beatmapsets/1023469) hosted by ::Trynna::{ user=2652951 }
@@ -106,7 +106,7 @@ This quest was completed by ::Trynna::{ user=2652951 }, [pishifat](https://osu.p
 
 For the **From The Vault pack (osu!)** quest, mappers had to create and rank at least 3 mapsets of unpublished songs by one of our current featured artists. The unpublished songs were later revealed to be part of a massive update to Rin's library released [this past October](https://osu.ppy.sh/home/news/2019-10-01-new-featured-artist-updates).
 
-This quest was completed by ::Trynna::{ user=2652951 }, [pishifat](https://osu.ppy.sh/users/3178418), ::eiri-::{ user=3388410 }, [schoolboy](https://osu.ppy.sh/users/8722791), ::Hinsvar::{ user=1249323 }, and [Niva](https://osu.ppy.sh/users/197805).
+This quest was completed by ::Trynna::{ user=2652951 }, ::pishifat::{ user=3178418 }, ::eiri-::{ user=3388410 }, ::schoolboy::{ user=8722791 }, ::Hinsvar::{ user=1249323 }, and ::Niva::{ user=197805 }.
 
 - [Rin - Ayakashi set 12 Another ~ Border of Life](https://osu.ppy.sh/beatmapsets/1001360) by ::pishifat::{ user=3178418 }
 - [Rin - Chireiden set 05 ~ Walking the Streets of a Former Hell](https://osu.ppy.sh/beatmapsets/985478) hosted by ::Niva::{ user=197805 }
@@ -118,7 +118,7 @@ This quest was completed by ::Trynna::{ user=2652951 }, [pishifat](https://osu.p
 
 For the **2 (osu!taiko)** quest, mappers had to create and rank at least 2 mapsets of songs by an unpublished featured artist, each hosted by a different user. When licensing songs from Dictate, osu! also licensed 2 tracks by the artist ALEPH, but only 2 songs were not enough for their own Featured Artist listing, so the songs have not been listed on the website. That said, the 2 songs are licensed and free to use for mapping on osu!, so be sure to check the songs out and map them if you like them "2"!
 
-This quest was completed by ::tasuke912::{ user=2774767 }, [salchow](https://osu.ppy.sh/users/9738159), ::Nardoxyribonucleic::{ user=876419 }, and [Volta](https://osu.ppy.sh/users/4154071).
+This quest was completed by ::tasuke912::{ user=2774767 }, ::salchow::{ user=9738159 }, ::Nardoxyribonucleic::{ user=876419 }, and ::Volta::{ user=4154071 }.
 
 - [ALEPH - The Evil Spirit](https://osu.ppy.sh/beatmapsets/1034358) hosted by ::tasuke912::{ user=2774767 }
 - [ALEPH - Scintillations](https://osu.ppy.sh/beatmapsets/1037567) hosted by ::Nardoxyribonucleic::{ user=876419 }

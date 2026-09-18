@@ -8,7 +8,7 @@ series: beatmap_spotlights
 
 The Ranking Charts for January 2016 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1601)!
 
-This month ::ByBy13::{ user=3436326 }, [mintong89](https://osu.ppy.sh/users/966210), ::ZiRoX::{ user=200768 } and [Feerum](https://osu.ppy.sh/users/4815717) picked the maps for the Monthly Ranking Charts.
+This month ::ByBy13::{ user=3436326 }, ::mintong89::{ user=966210 }, ::ZiRoX::{ user=200768 } and ::Feerum::{ user=4815717 } picked the maps for the Monthly Ranking Charts.
 
 ## Ranking Charts Creation
 
@@ -62,7 +62,7 @@ Ah, another great song mapped by the known Taiko mapper MMzz! The tune of the so
 
 This is the easiest map I picked for this month's Chart. I choose this set for seeing potential within the mapper, which can be seen in this beatmap: Following the drum hitsounds of the song in an very accurate way. It might also suffice for the mod Double Time.
 
-- [goreshit - burn this moment into the retina of my eye](https://osu.ppy.sh/beatmapsets/359890) by ::Loctav::{ user=71366 } & [aEoNNzR](https://osu.ppy.sh/users/1594036)
+- [goreshit - burn this moment into the retina of my eye](https://osu.ppy.sh/beatmapsets/359890) by ::Loctav::{ user=71366 } & ::aEoNNzR::{ user=1594036 }
 
 Might sound crazy that I choose this beatmap for the Ranking Charts, but I had to choose it for the amazingly well done flow! Even though they used easier pattern structures, they managed to make them fit into the song and achieved having very difficulty beatmaps. Thumbs up to the mappers.
 

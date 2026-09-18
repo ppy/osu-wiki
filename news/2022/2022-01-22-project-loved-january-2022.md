@@ -31,7 +31,7 @@ Without any further delay, let's move onto this month's picks!
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, [Doomsday](https://osu.ppy.sh/users/18983) and ::kotkeone::{ user=10083084 }!
+The osu! Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, ::Doomsday::{ user=18983 } and ::kotkeone::{ user=10083084 }!
 
 ---
 
@@ -92,7 +92,7 @@ Originally starring as a custom map for [Maple Cup 2021](https://osu.ppy.sh/comm
 
 [![](/wiki/shared/news/2022-01-22-project-loved-january-2022/930413.jpg)](https://osu.ppy.sh/community/forums/topics/1508658)
 
-[FROZEN QUALIA - WINTER DIAMOND](https://osu.ppy.sh/beatmapsets/930413#osu) by ::Settia::{ user=2445897 } and [Tsumia](https://osu.ppy.sh/users/2244234)\
+[FROZEN QUALIA - WINTER DIAMOND](https://osu.ppy.sh/beatmapsets/930413#osu) by ::Settia::{ user=2445897 } and ::Tsumia::{ user=2244234 }\
 144 BPM, 4:53 | 5.52★, 5.62★, 5.86★\
 *description written by ::kotkeone::{ user=10083084 }*
 
@@ -100,13 +100,13 @@ A name well versed in the Loved section, Settia has a cute and flowy 5-star, 144
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [Boaz](https://osu.ppy.sh/users/13302996), ::Gamelan4::{ user=9856910 }, [Horiiizon](https://osu.ppy.sh/users/8071438) and ::KuroKuroKuro::{ user=11931563 }!
+The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::Boaz::{ user=13302996 }, ::Gamelan4::{ user=9856910 }, ::Horiiizon::{ user=8071438 } and ::KuroKuroKuro::{ user=11931563 }!
 
 ---
 
 [![](/wiki/shared/news/2022-01-22-project-loved-january-2022/1039654.jpg)](https://osu.ppy.sh/community/forums/topics/1508655)
 
-[youman feat. GUMI - R.I.P.](https://osu.ppy.sh/beatmapsets/1039654#taiko) by ::ekumea1123::{ user=9119501 } and [nyanmi-1828](https://osu.ppy.sh/users/6866480)\
+[youman feat. GUMI - R.I.P.](https://osu.ppy.sh/beatmapsets/1039654#taiko) by ::ekumea1123::{ user=9119501 } and ::nyanmi-1828::{ user=6866480 }\
 270 BPM, 3:40 | 6.70★, 7.47★\
 *description written by ::Boaz::{ user=13302996 }*
 
@@ -150,7 +150,7 @@ Are you up to the challenge?
 
 [![](/wiki/shared/news/2022-01-22-project-loved-january-2022/995928.jpg)](https://osu.ppy.sh/community/forums/topics/1508651)
 
-[katagiri - #2wise4u](https://osu.ppy.sh/beatmapsets/995928#taiko) by ::maguro869::{ user=4733750 } and [KTYN](https://osu.ppy.sh/users/2250574)\
+[katagiri - #2wise4u](https://osu.ppy.sh/beatmapsets/995928#taiko) by ::maguro869::{ user=4733750 } and ::KTYN::{ user=2250574 }\
 200 – 250 BPM, 2:45 | 6.07★, 6.53★\
 *description written by ::-Kazu-::{ user=920861 }*
 
@@ -170,7 +170,7 @@ Are you ready for some techy bursts? Or would you rather have some raw 360 BPM p
 
 [![](/wiki/shared/news/2022-01-22-project-loved-january-2022/1327834.jpg)](https://osu.ppy.sh/community/forums/topics/1508648)
 
-[katagiri - 16bit.rar](https://osu.ppy.sh/beatmapsets/1327834#taiko) by ::rezi888::{ user=2337821 } and [7_7](https://osu.ppy.sh/users/7491106)\
+[katagiri - 16bit.rar](https://osu.ppy.sh/beatmapsets/1327834#taiko) by ::rezi888::{ user=2337821 } and ::7\17::{ user=7491106 }\
 320 BPM, 3:13 | 7.79★\
 *description written by ::KuroKuroKuro::{ user=11931563 }*
 
@@ -178,7 +178,7 @@ Are you ready for some techy bursts? Or would you rather have some raw 360 BPM p
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, [Spectator](https://osu.ppy.sh/users/702598), ::Tenshichan::{ user=1101600 } and [Wesley](https://osu.ppy.sh/users/2407265)!
+The osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, ::Spectator::{ user=702598 }, ::Tenshichan::{ user=1101600 } and ::Wesley::{ user=2407265 }!
 
 ---
 
@@ -232,7 +232,7 @@ Being featured in the Grand Finals of [AxS 6](https://osu.ppy.sh/community/forum
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, [DannyPX](https://osu.ppy.sh/users/11253722), ::Kawawa::{ user=4647754 }, [Paturages](https://osu.ppy.sh/users/1375479), ::Penguinosity::{ user=10235296 } and [RandomeLoL](https://osu.ppy.sh/users/7080063)!
+The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, ::DannyPX::{ user=11253722 }, ::Kawawa::{ user=4647754 }, ::Paturages::{ user=1375479 }, ::Penguinosity::{ user=10235296 } and ::RandomeLoL::{ user=7080063 }!
 
 ---
 
@@ -292,7 +292,7 @@ Let's give a warm welcome to Nixo, as we're glad to finally bring them into the 
 
 [![](/wiki/shared/news/2022-01-22-project-loved-january-2022/339222.jpg)](https://osu.ppy.sh/community/forums/topics/1508637)
 
-[DJ Myosuke & Noizenecio - Architecture](https://osu.ppy.sh/beatmapsets/339222#mania) by ::Mat::{ user=2668921 } and [FAMoss](https://osu.ppy.sh/users/7707789)\
+[DJ Myosuke & Noizenecio - Architecture](https://osu.ppy.sh/beatmapsets/339222#mania) by ::Mat::{ user=2668921 } and ::FAMoss::{ user=7707789 }\
 300 BPM, 4:05 | 4.35★, 5.58★, 7.83★, 8.02★\
 The \[Envory's Hard\], \[Shikkou's Hard\] and \[Jakads' Extreme \[wip\]\] difficulties are *not* being nominated for Loved.\
 *description written by ::Paturages::{ user=1375479 }*
@@ -315,7 +315,7 @@ Maybe the... "avant-garde" background caught you an eye while you were scrolling
 
 [![](/wiki/shared/news/2022-01-22-project-loved-january-2022/264677.jpg)](https://osu.ppy.sh/community/forums/topics/1508635)
 
-[DJ SHARPNEL - Pacific Girls](https://osu.ppy.sh/beatmapsets/264677#mania) by ::Fullerene-::{ user=2531335 } and [IcyWorld](https://osu.ppy.sh/users/1383951)\
+[DJ SHARPNEL - Pacific Girls](https://osu.ppy.sh/beatmapsets/264677#mania) by ::Fullerene-::{ user=2531335 } and ::IcyWorld::{ user=1383951 }\
 195 BPM, 5:16 | 5.27★, 5.30★\
 *description written by ::RandomeLoL::{ user=7080063 }*
 
@@ -393,7 +393,7 @@ Despite all of its tremendous difficulty, *Rude Buster* is a thoughtfully mapped
 
 [![](/wiki/shared/news/2022-01-22-project-loved-january-2022/1232389.jpg)](https://osu.ppy.sh/community/forums/topics/1508629)
 
-[Various Artists - dressurf's 7k practice charts](https://osu.ppy.sh/beatmapsets/1232389#mania) by ::dressurf::{ user=758406 } and [Evening](https://osu.ppy.sh/users/2193881)\
+[Various Artists - dressurf's 7k practice charts](https://osu.ppy.sh/beatmapsets/1232389#mania) by ::dressurf::{ user=758406 } and ::Evening::{ user=2193881 }\
 127 – 300 BPM, 3:51 | 4.88★ – 9.72★\
 *description written by ::\_underjoy::{ user=2235750 }*
 
@@ -420,7 +420,7 @@ We're happy to welcome new faces to the votings and thus, give a warm round of a
 
 [![](/wiki/shared/news/2022-01-22-project-loved-january-2022/249553.jpg)](https://osu.ppy.sh/community/forums/topics/1508626)
 
-[nano - No pain, No game](https://osu.ppy.sh/beatmapsets/249553#mania) by ::Takane6::{ user=4568037 }, [Julie](https://osu.ppy.sh/users/2420987) and ::Remillion Cross::{ user=1983784 }\
+[nano - No pain, No game](https://osu.ppy.sh/beatmapsets/249553#mania) by ::Takane6::{ user=4568037 }, ::Julie::{ user=2420987 } and ::Remillion Cross::{ user=1983784 }\
 190 BPM, 3:19 | 1.76★ – 5.57★\
 *description written by ::\_underjoy::{ user=2235750 }*
 
@@ -456,7 +456,7 @@ No further comment really needs to be made here — just play the map. And vote 
 
 [![](/wiki/shared/news/2022-01-22-project-loved-january-2022/424715.jpg)](https://osu.ppy.sh/community/forums/topics/1508623)
 
-[Nana Mizuki - Vitalization](https://osu.ppy.sh/beatmapsets/424715#mania) by ::MoTeSolo::{ user=3155787 } and [Pengdoll](https://osu.ppy.sh/users/6392061)\
+[Nana Mizuki - Vitalization](https://osu.ppy.sh/beatmapsets/424715#mania) by ::MoTeSolo::{ user=3155787 } and ::Pengdoll::{ user=6392061 }\
 190 BPM, 3:39 | 10.47★\
 *description written by ::\_underjoy::{ user=2235750 }*
 

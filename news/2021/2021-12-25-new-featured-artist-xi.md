@@ -88,7 +88,7 @@ And who would've guessed that there's *even more* maps:
 
 Try out one of these maps from every game mode:
 
-- [osu! and osu!taiko hybrid mapset](https://osu.ppy.sh/beatmapsets/225377) by ::Cherry Blossom::{ user=1156742 } and [Kurokotei](https://osu.ppy.sh/users/398275)
+- [osu! and osu!taiko hybrid mapset](https://osu.ppy.sh/beatmapsets/225377) by ::Cherry Blossom::{ user=1156742 } and ::Kurokotei::{ user=398275 }
 - [osu!catch mapset](https://osu.ppy.sh/beatmapsets/609324) hosted by ::F D Flourite::{ user=2459589 }
 - [4K and 7K osu!mania mapset](https://osu.ppy.sh/beatmapsets/344198) hosted by ::Blocko::{ user=4075092 }
 

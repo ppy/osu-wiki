@@ -219,7 +219,7 @@ A lot of people were involved in making Resurrection Cup happen. We've asked a f
 
 ![](/wiki/shared/news/2024-11-04-resurrection-cup-2024-results/alvearia-and-luminous-sky.jpg)
 
-As members of the Mappool Quality Assurance team, ::Alvearia::{ user=6248691 } and [Luminous Sky](https://osu.ppy.sh/users/4429612) were indispensable in integrating nearly 100 custom maps into the different mappools.
+As members of the Mappool Quality Assurance team, ::Alvearia::{ user=6248691 } and ::Luminous Sky::{ user=4429612 } were indispensable in integrating nearly 100 custom maps into the different mappools.
 
 ---
 
@@ -355,7 +355,7 @@ I draw inspiration from these three and try to incorporate their strengths into 
 
 ![](/wiki/shared/news/2024-11-04-resurrection-cup-2024-results/hoaq-and-[boy]dalat.jpg)
 
-::Hoaq::{ user=7696512 } and [[Boy]DaLat](https://osu.ppy.sh/users/8266808) went above and beyond with their immersive and captivating stream overlay. The recognisable and distinctive design elevated the viewing experience and helped to distinguish ResCup from the more conventional overlays.
+::Hoaq::{ user=7696512 } and ::\1Boy\1DaLat::{ user=8266808 } went above and beyond with their immersive and captivating stream overlay. The recognisable and distinctive design elevated the viewing experience and helped to distinguish ResCup from the more conventional overlays.
 
 ---
 

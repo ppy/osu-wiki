@@ -27,7 +27,7 @@ In case you don't read the end of this post, be sure to submit suggestions for b
 
 ## osu!
 
-osu! Loved candidates were chosen by ::BeasttrollMC::{ user=3171691 }, [Bubbleman](https://osu.ppy.sh/users/5182050), ::DigitalHypno::{ user=4384207 }, [fartownik](https://osu.ppy.sh/users/56917), ::SoraRoxas01::{ user=1986262 } and [waywern2012](https://osu.ppy.sh/users/5870453)!
+osu! Loved candidates were chosen by ::BeasttrollMC::{ user=3171691 }, ::Bubbleman::{ user=5182050 }, ::DigitalHypno::{ user=4384207 }, ::fartownik::{ user=56917 }, ::SoraRoxas01::{ user=1986262 } and ::waywern2012::{ user=5870453 }!
 
 ---
 
@@ -82,7 +82,7 @@ With a hardcore song comes a hardcore beatmap by Silverboxer. With just over fou
 
 [![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/osu/kirby-mix-compilation-2.jpg)](https://osu.ppy.sh/community/forums/topics/837086)
 
-[Various Artists - KIRBY Mix Compilation 2](https://osu.ppy.sh/beatmapsets/549969#osu) by ::Nitroz::{ user=5256529 } and [Starrodkirby86](https://osu.ppy.sh/users/410)\
+[Various Artists - KIRBY Mix Compilation 2](https://osu.ppy.sh/beatmapsets/549969#osu) by ::Nitroz::{ user=5256529 } and ::Starrodkirby86::{ user=410 }\
 *written by ::SoraRoxas01::{ user=1986262 }*
 
 If you were around in the old osu! times, you would recognize a mapper called Starrodkirby86, or have seen his "Kirby Mix" difficulties on certain maps. He is a mapper that likes to map in old style symmetry in a way that is very unique and different to play; it may test how good you are at aim control and reading. This map is a compilation of a bunch of well-known maps that he has made, and would make for a good reading practice map for low AR. With maps like Genesis of Aquarion and Fairy Tail Main Theme in there, this map is definitely worth a shot. Along with a great map is a nice arena-like storyboard made by Kirby himself, which makes the map feel like a set of "stages", in a way. Will you make it to the end and pass all of these gems?
@@ -126,7 +126,7 @@ One can never seem to have enough Nanahira maps, huh? Here's a two-difficulty ma
 
 [![](/wiki/shared/news/2018-09-25-project-loved-one-year-week-of-september-23rd/osu/insane-techniques-extended.jpg)](https://osu.ppy.sh/community/forums/topics/837092)
 
-[kors k - Insane Techniques (Extended)](https://osu.ppy.sh/beatmapsets/181957) by ::RLC::{ user=1047883 } and [fanzhen0019](https://osu.ppy.sh/users/418699)\
+[kors k - Insane Techniques (Extended)](https://osu.ppy.sh/beatmapsets/181957) by ::RLC::{ user=1047883 } and ::fanzhen0019::{ user=418699 }\
 *written by ::DigitalHypno::{ user=4384207 }*
 
 Some of you may know the other ranked mapsets of this song, but I'd say you're missing out if you haven't given this version a try as well. In 2014, RLC and fanzhen0019 came together to collab the extended version of this up-beat banger of a track by kors k. The comparison of their mapping styles in this collab is quite interesting, and overall makes for a very engaging map. Over 110 players have favorited this map so far, and if you're one for five minutes of disconnected streams and variable slider velocities, you just might be the next one!
@@ -140,13 +140,13 @@ Many of you may recognize this iconic scene from The Simpsons; it's an everlasti
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-\1 ix Ishida xi \1-::{ user=242910 }, [-Kazu-](https://osu.ppy.sh/users/920861), ::Backfire::{ user=263110 }, [iceOC](https://osu.ppy.sh/users/5482401) and ::nyanmi-1828::{ user=6866480 }! This week, all osu!taiko beatmap descriptions were written by ::Backfire::{ user=263110 }.
+osu!taiko Loved candidates were chosen by ::-\1 ix Ishida xi \1-::{ user=242910 }, ::-Kazu-::{ user=920861 }, ::Backfire::{ user=263110 }, ::iceOC::{ user=5482401 } and ::nyanmi-1828::{ user=6866480 }! This week, all osu!taiko beatmap descriptions were written by ::Backfire::{ user=263110 }.
 
 ---
 
 [![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/taiko/beat-the-drum-hard-kobaryo-s-ftn-remix.jpg)](https://osu.ppy.sh/community/forums/topics/837097)
 
-[Sinister Souls - Beat The Drum Hard (Kobaryo's FTN-Remix)](https://osu.ppy.sh/beatmapsets/747031#taiko) by ::Nyanners-::{ user=459886 } and [Backfire](https://osu.ppy.sh/users/263110)
+[Sinister Souls - Beat The Drum Hard (Kobaryo's FTN-Remix)](https://osu.ppy.sh/beatmapsets/747031#taiko) by ::Nyanners-::{ user=459886 } and ::Backfire::{ user=263110 }
 
 So, a short story about this map: I was a big fan of it from the start (originally, it was made by just Nyanners-). It was one of Nyanners-'s first maps, and it had these unbelievably hard burst sections that were very difficult to hit. There was always something compelling about the song and the way those burst sections felt, which I would argue are the map's main drawing point. It does not pull punches with its difficulty. However, the map was deleted, but I spoke with Nyanners- about re-uploading it, with some changes to make it a truly great map. That is how we are left with the map as it is currently presented! The two difficulties are the original by Nyanners- and an SV + modified version that I created. Players may be familiar with it also from tournaments like [Taiko Battlegrounds](https://osu.ppy.sh/community/forums/topics/644119) and [LMS: Shift Cup](https://osu.ppy.sh/community/forums/topics/744163)!
 
@@ -170,7 +170,7 @@ Very well-known to those who are familiar with the osu!taiko World Cups, Sweet M
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Ascendance::{ user=2931883 }, [Sartan](https://osu.ppy.sh/users/4100941), ::Tenshichan::{ user=1101600 } and [Zak](https://osu.ppy.sh/users/1375955)!
+osu!catch Loved candidates were chosen by ::Ascendance::{ user=2931883 }, ::Sartan::{ user=4100941 }, ::Tenshichan::{ user=1101600 } and ::Zak::{ user=1375955 }!
 
 ---
 
@@ -190,7 +190,7 @@ Boasting a strong 2nd place in the 2016 osu!catch Transcend Contest, ExGon's ren
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, [aitor98](https://osu.ppy.sh/users/3154852), ::Kamikaze::{ user=2124783 }, [Lenfried-](https://osu.ppy.sh/users/5314573), ::Pope Gadget::{ user=2288341 }, [stupud man](https://osu.ppy.sh/users/2141612) and ::TheToaphster::{ user=7616811 }!
+osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, ::aitor98::{ user=3154852 }, ::Kamikaze::{ user=2124783 }, ::Lenfried-::{ user=5314573 }, ::Pope Gadget::{ user=2288341 }, ::stupud man::{ user=2141612 } and ::TheToaphster::{ user=7616811 }!
 
 ---
 
@@ -217,7 +217,7 @@ Pure technical play with a plethora of burst, minijack, and long-jack patterns, 
 
 [![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/mania/hellfire.jpg)](https://osu.ppy.sh/community/forums/topics/837122)
 
-[Hommarju - Hellfire](https://osu.ppy.sh/beatmapsets/469343#mania) by ::snoverpk::{ user=3595196 } and [\_underjoy](https://osu.ppy.sh/users/2235750)\
+[Hommarju - Hellfire](https://osu.ppy.sh/beatmapsets/469343#mania) by ::snoverpk::{ user=3595196 } and ::\_underjoy::{ user=2235750 }\
 *written by ::TheToaphster::{ user=7616811 }*
 
 It's all about how well one can handle extremely fast jacks in the next nomination for osu!mania. Clocking in at 176 BPM with a large surplus of fast jack-tech is snoverpk's Hellfire. This chart starts with about 20 seconds of calm before unleashing a fury of minijacks and gluts with the occasional burst to spice things up a bit. With a small break and some buildup, it comes to a massive wall, which is only to be followed by the densest section of the chart to finish it off. This is an intense challenge to be sure, only shown off by its inclusion in the osu!mania 4K World Cup 2016 Finals map pool. This and the great use it has as a skill tester make it a fantastic nomination for the Loved Section.
@@ -247,7 +247,7 @@ And for our last pick we have a chart that should be familiar if you're followin
 
 From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
-In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Ephemeral::{ user=102335 }, [Noffy](https://osu.ppy.sh/users/1541323) and ::Toy::{ user=2757689 } for their miscellaneous help in managing Project Loved.
+In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Ephemeral::{ user=102335 }, ::Noffy::{ user=1541323 } and ::Toy::{ user=2757689 } for their miscellaneous help in managing Project Loved.
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! You can view the current submissions on the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0).
 

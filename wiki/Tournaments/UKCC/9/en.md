@@ -543,7 +543,7 @@ Top 10 qualification results:
 - Schedules for the next round are released on the Monday before a stage is due to happen and **all** matches will be scheduled for the weekend. You can reschedule for weekdays at the staff's discretion.
 - In order to reschedule, you must contact your opponents, agree on a time, and be able to provide **proof** (by form of a screenshot/image) of the agreed reschedule to the hosts.
 - In order to ensure that as many matches take place as possible, reschedules are allowed up to **2 hours before your match is due to be played**. However, your opponent holds the right to **refuse a reschedule if asked less than 12 hours before the scheduled time**.
-- If it is impossible to find a time to reschedule to that suits both teams, both teams should talk to the hosts (::Bae-::{ user=6576972 } or [Yazzehh](https://osu.ppy.sh/users/7068973)) who will attempt to sort something out.
+- If it is impossible to find a time to reschedule to that suits both teams, both teams should talk to the hosts (::Bae-::{ user=6576972 } or ::Yazzehh::{ user=7068973 }) who will attempt to sort something out.
 - Matches that are uncertain to happen (for example, losers' bracket matches) will still appear on the schedule. They are to be rescheduled if needed in the same way as confirmed matches.
 - If a match needs rescheduling to a time after a related losers' bracket match, the matches relying on the outcome of the rescheduled match will be rescheduled by staff and 24 hours will be given for rescheduling them, if needed.
 

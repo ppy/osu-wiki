@@ -42,7 +42,7 @@ This article covers results from the last contest, plus criteria for this contes
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/mpjFNSPuQA0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Thanks to the usual judging crew for evaluating every map this month: ::arcpotato::{ user=12842392 }, [meiqth](https://osu.ppy.sh/users/12565402), ::Yasuho::{ user=8458835 }, and [SimplySynthy](https://osu.ppy.sh/users/15272997)!
+Thanks to the usual judging crew for evaluating every map this month: ::arcpotato::{ user=12842392 }, ::meiqth::{ user=12565402 }, ::Yasuho::{ user=8458835 }, and ::SimplySynthy::{ user=15272997 }!
 
 ### osu!catch results
 
@@ -61,7 +61,7 @@ Thanks to the usual judging crew for evaluating every map this month: ::arcpotat
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/J3Al-yZgKEw" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Send your appreciation to ::Morusya::{ user=13681464 }, [Mniam](https://osu.ppy.sh/users/6050530), ::Jemzuu::{ user=7890134 }, and [Greaper](https://osu.ppy.sh/users/2369776) for judging this month's contest!
+Send your appreciation to ::Morusya::{ user=13681464 }, ::Mniam::{ user=6050530 }, ::Jemzuu::{ user=7890134 }, and ::Greaper::{ user=2369776 } for judging this month's contest!
 
 And special thanks to ::Nelly::{ user=4741164 } for coordinating the Monthly Beatmapping Contest for osu!catch throughout the last year! Starting with this month's contest, ::Morusya::{ user=13681464 } is stepping up to the plate in his stead.
 

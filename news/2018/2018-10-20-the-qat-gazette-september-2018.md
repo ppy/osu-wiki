@@ -31,7 +31,7 @@ This time around we changed things up a bit. First and foremost, we decided to b
 
 ### Beatmap Nominator Retirements
 
-Fun times always have to come to an end eventually. This month, we give our farewells to two of our diligent Beatmap Nominators: ::Plaudible::{ user=7149815 } and [Jonawaga](https://osu.ppy.sh/users/3653035).
+Fun times always have to come to an end eventually. This month, we give our farewells to two of our diligent Beatmap Nominators: ::Plaudible::{ user=7149815 } and ::Jonawaga::{ user=3653035 }.
 
 On behalf of the community, we thank you for your hard work in bringing new content into the game, and we wish you good luck in your next steps in life!
 

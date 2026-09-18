@@ -27,7 +27,7 @@ In case you missed any of the new songs, this article highlights every osu! orig
 
 This high-tempo jazzy tune by [**Toromaru**](https://osu.ppy.sh/beatmaps/artists/279) isn't what you'd expect from a rhythm game, but it's exactly what you need. This acted as a *Rice* pick in the [Semifinals map pool](/wiki/Tournaments/MWC/2023_7K#semifinals.1).
 
-Play the [7-star map](https://osu.ppy.sh/beatmapsets/1931471) for yourself, created by ::Jinjin::{ user=3360737 } and [\_underjoy](https://osu.ppy.sh/users/2235750)!
+Play the [7-star map](https://osu.ppy.sh/beatmapsets/1931471) for yourself, created by ::Jinjin::{ user=3360737 } and ::\_underjoy::{ user=2235750 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/279/Songs/Toromaru%20-%20Uncharted%20Sky.mp3" type="audio/mpeg">
@@ -57,7 +57,7 @@ Try [its beatmap](https://osu.ppy.sh/beatmapsets/1935691) created (yet again) by
 
 osu! player turned musician [**SAMString**](https://osu.ppy.sh/beatmaps/artists/273) has given back to osu! through this stellar electro tune used as a *Long Note* pick in the [Grand Finals map pool](/wiki/Tournaments/MWC/2023_7K#grand-finals).
 
-Check out [the 9-star beatmap](https://osu.ppy.sh/beatmapsets/1939418) created by ::Remuring::{ user=6522146 } and [Jinjin](https://osu.ppy.sh/users/3360737)!
+Check out [the 9-star beatmap](https://osu.ppy.sh/beatmapsets/1939418) created by ::Remuring::{ user=6522146 } and ::Jinjin::{ user=3360737 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/273/Songs/SAMString%20-%20Ataraxia.mp3" type="audio/mpeg">
@@ -67,7 +67,7 @@ Check out [the 9-star beatmap](https://osu.ppy.sh/beatmapsets/1939418) created b
 
 The [Grand Finals tiebreaker](/wiki/Tournaments/MWC/2023_7K#grand-finals) is a coveted position for any beatmap, and this masterpiece by [**katagiri**](https://osu.ppy.sh/beatmaps/artists/176) has the slot secured.
 
-If you can somehow play a [10.76-star beatmap](https://osu.ppy.sh/beatmapsets/1939261), give this collab by ::\_underjoy::{ user=2235750 }, [Jinjin](https://osu.ppy.sh/users/3360737), ::Blocko::{ user=4075092 }, [Remuring](https://osu.ppy.sh/users/6522146) and ::MapleSyrup-::{ user=1192936 } a go.
+If you can somehow play a [10.76-star beatmap](https://osu.ppy.sh/beatmapsets/1939261), give this collab by ::\_underjoy::{ user=2235750 }, ::Jinjin::{ user=3360737 }, ::Blocko::{ user=4075092 }, ::Remuring::{ user=6522146 } and ::MapleSyrup-::{ user=1192936 } a go.
 
 Look forward to hearing this song in a potential tiebreaker this weekend on [osu!'s Twitch channel](https://www.twitch.tv/osulive)!
 

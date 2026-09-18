@@ -37,7 +37,7 @@ As one of the most well known mappers in the community, ::handsome::{ user=21230
 
 [![](/wiki/shared/news/2018-01-23-beatmap-spotlights-december-2017/geurida.jpg)](https://osu.ppy.sh/beatmapsets/688183)
 
-A distinctive oriental track from known composer Memme and mapped by ::NeilPerry::{ user=841391 }, Geurida features fast sliders which are quite commonly seen in wub maps nowadays, though it also contains various unique patterns that make the map stand out from the rest. The mapset also includes guest difficulties from the likes of well-known mapper ::Sing::{ user=3795679 }, as well as new aspiring mappers ::LowComboFC::{ user=7322726 } and [Sulfur](https://osu.ppy.sh/users/5297447).
+A distinctive oriental track from known composer Memme and mapped by ::NeilPerry::{ user=841391 }, Geurida features fast sliders which are quite commonly seen in wub maps nowadays, though it also contains various unique patterns that make the map stand out from the rest. The mapset also includes guest difficulties from the likes of well-known mapper ::Sing::{ user=3795679 }, as well as new aspiring mappers ::LowComboFC::{ user=7322726 } and ::Sulfur::{ user=5297447 }.
 
 [![](/wiki/shared/news/2018-01-23-beatmap-spotlights-december-2017/taylor.jpg)](https://osu.ppy.sh/beatmapsets/648127)
 
@@ -85,7 +85,7 @@ Don't be fooled by the low BPM, creative stream patterns and plenty of hyperdash
 
 [![](/wiki/shared/news/2018-01-23-beatmap-spotlights-december-2017/sekai-wa-koi-ni-ochiteiru.jpg)](https://osu.ppy.sh/beatmapsets/596305)
 
-Bringing this sweet song with a sweet map to us are ::-wwwww::{ user=3922569 } and [Ascendance](https://osu.ppy.sh/users/2931883)! Though it might be simple in terms of difficulty, this map illustrates the beauty of simplicity. With occasional hyperdashes carefully placed and overall fluent movements, a sprightly and delicate atmosphere is created, matching the song just fine! Check it out if you want some melty moments during fruit-catching!
+Bringing this sweet song with a sweet map to us are ::-wwwww::{ user=3922569 } and ::Ascendance::{ user=2931883 }! Though it might be simple in terms of difficulty, this map illustrates the beauty of simplicity. With occasional hyperdashes carefully placed and overall fluent movements, a sprightly and delicate atmosphere is created, matching the song just fine! Check it out if you want some melty moments during fruit-catching!
 
 [![](/wiki/shared/news/2018-01-23-beatmap-spotlights-december-2017/fairytale.jpg)](https://osu.ppy.sh/beatmapsets/629289)
 
@@ -95,7 +95,7 @@ With nice flow and unique vocal emphasis with slider velocity manipulation, ::Ha
 
 [![](/wiki/shared/news/2018-01-23-beatmap-spotlights-december-2017/just-hold-on.jpg)](https://osu.ppy.sh/beatmapsets/409440)
 
-::Blocko::{ user=4075092 }'s set of void - Just Hold on (To All Fighters) tops this month's Spotlights! With additional help from guest mappers ::Expew::{ user=665612 } and [Soul Evans](https://osu.ppy.sh/users/4490770), this mapset is truly a monumental effort, spanning 7 difficulties from Easy to Extra, with a long drain time of 4:20. Each difficulty exhibits their own unique style, allowing for exciting gameplay from the novice to the master.
+::Blocko::{ user=4075092 }'s set of void - Just Hold on (To All Fighters) tops this month's Spotlights! With additional help from guest mappers ::Expew::{ user=665612 } and ::Soul Evans::{ user=4490770 }, this mapset is truly a monumental effort, spanning 7 difficulties from Easy to Extra, with a long drain time of 4:20. Each difficulty exhibits their own unique style, allowing for exciting gameplay from the novice to the master.
 
 The advantage of such an exceptionally long chart is that it allows for greater variation in pattern diversity, leaving no room for boredom or over-repetitiveness. As the title of the song suggests, the key charm of the song are the complicated long notes that show up at every corner, especially in the Resolve difficulty, where the slider velocity changes are used to represent the intensity of the individual parts, adding another layer to the already exhilarating gameplay. Just hold on to the long notes. You'll be fine, I promise!
 

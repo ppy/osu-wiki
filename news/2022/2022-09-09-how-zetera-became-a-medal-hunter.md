@@ -11,7 +11,7 @@ Join us for a history lesson, a story about an elusive medal and one man's journ
 
 Before we begin with this story, we first must learn about the history of medals.
 
-Medals were first introduced in early August 2008, with their original goal being to serve as an achievement system linked to a now-abandoned "story mode" for osu!, similar to the original *Elite Beat Agents* campaign. The first ever medals to be added were the play count medals, and since they were retroactively given to all users who already fulfilled the requirements, some users like ::Echo::{ user=431 } and [Saturos](https://osu.ppy.sh/users/3781) acquired them pretty much on release.
+Medals were first introduced in early August 2008, with their original goal being to serve as an achievement system linked to a now-abandoned "story mode" for osu!, similar to the original *Elite Beat Agents* campaign. The first ever medals to be added were the play count medals, and since they were retroactively given to all users who already fulfilled the requirements, some users like ::Echo::{ user=431 } and ::Saturos::{ user=3781 } acquired them pretty much on release.
 
 Soon after the play count medals came the first batch of beatmap pack medals, and while some do not exist any more, there are still some that you can acquire! Some examples would be the [Internet Pack vol.1](https://osekai.net/medals/?medal=Internet!+Pack+vol.1), [Anime Pack vol.1](https://osekai.net/medals/?medal=Anime+Pack+vol.1), [Video Game Pack vol.1](https://osekai.net/medals/?medal=Video+Game+Pack+vol.1) and [Rhythm Game Pack vol.1](https://osekai.net/medals/?medal=Rhythm+Game+Pack+vol.1) medals.
 

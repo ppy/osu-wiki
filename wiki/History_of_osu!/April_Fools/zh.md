@@ -132,7 +132,7 @@ osu! 的主菜单背景中也有一大堆缓缓升起的 osu!coins，主题曲�
 
 ### VR中的 osu!
 
-2016 年 4 月 1 日，[一篇新闻帖](https://osu.ppy.sh/home/news/2016-04-01-oculus-rift-to-be-supported-as-an-input-method) 详细宣布了计划，将增加对 [Oculus Rift](https://zh.wikipedia.org/wiki/Oculus_Rift) 作为 osu! 中新的[输入设备](/wiki/Gameplay/Input_device) 的支持。这篇由 ::Evrien::{ user=791660 } 撰写的帖子，引用了对 [peppy](https://osu.ppy.sh/users/2) 所谓采访中的许多引述，其中他解释了他做出这一宣布的理由以及这个概念可能如何实现的想法。[^osu-vr-news]
+2016 年 4 月 1 日，[一篇新闻帖](https://osu.ppy.sh/home/news/2016-04-01-oculus-rift-to-be-supported-as-an-input-method) 详细宣布了计划，将增加对 [Oculus Rift](https://zh.wikipedia.org/wiki/Oculus_Rift) 作为 osu! 中新的[输入设备](/wiki/Gameplay/Input_device) 的支持。这篇由 ::Evrien::{ user=791660 } 撰写的帖子，引用了对 ::peppy::{ user=2 } 所谓采访中的许多引述，其中他解释了他做出这一宣布的理由以及这个概念可能如何实现的想法。[^osu-vr-news]
 
 关于玩家可能如何使用 Oculus Rift 作为输入设备，新闻帖描述道："玩家将体验光标在屏幕上移动到击中对象时的第一人称视角……"，并通过"……让玩家用嘴发出元音般的声音" 来击中对象。实际上，游戏内没有做出与使用 Oculus Rift 或类似的[虚拟现实 (VR)](https://zh.wikipedia.org/wiki/%E8%99%9A%E6%8B%9F%E7%8E%B0%E5%AE%9E) 设备来控制 osu! 相关的更改。[^osu-vr-news]
 

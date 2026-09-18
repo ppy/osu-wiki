@@ -119,7 +119,7 @@ The **Diamond formation** is just like the [square formation](#square-formation)
 
 ### Double Stacks
 
-Nominators: ::-Xero-::{ user=179314 } and [F1r3tar](https://osu.ppy.sh/users/5590317)
+Nominators: ::-Xero-::{ user=179314 } and ::F1r3tar::{ user=5590317 }
 
 **Double stacks** use two notes (or one note and a slider end) that are stacked on top of each other.
 

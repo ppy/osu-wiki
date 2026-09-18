@@ -37,7 +37,7 @@ We love people setting chaotic scores. We also love people setting chaotic score
 
 ## SCORESHOW WITH ZSEIKIMATSU
 
-It's time for a duel between ::jakads::{ user=259972 } and [dksgo](https://osu.ppy.sh/users/1190879) (previously WindyS) who are both global and Korean #1 and #2 rank players! Watch them battle on [Camellia - Glitch Nerds](https://osu.ppy.sh/beatmapsets/462748) in the video below!
+It's time for a duel between ::jakads::{ user=259972 } and ::dksgo::{ user=1190879 } (previously WindyS) who are both global and Korean #1 and #2 rank players! Watch them battle on [Camellia - Glitch Nerds](https://osu.ppy.sh/beatmapsets/462748) in the video below!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/zgCqgccHR7A" frameborder="0" allowfullscreen></iframe></br>
 

@@ -13,7 +13,7 @@ Welcome back to Project Loved, yet another month! If it's not "back", but "for t
 
 Before getting to the picks, we do have some team-related news for you:
 
-- From the fruit-catching osu!catch captains, both ::5ean::{ user=76200029 } and [Dahcreeper](https://osu.ppy.sh/users/6926006) have decided to retire as captains, please send your thanks to them for picking many great maps over the last 3 years!
+- From the fruit-catching osu!catch captains, both ::5ean::{ user=76200029 } and ::Dahcreeper::{ user=6926006 } have decided to retire as captains, please send your thanks to them for picking many great maps over the last 3 years!
 - And from the key-smashing osu!mania captains, our friend ::Maxus::{ user=4335785 } has also stepped down. Please thank him for his dedicated contributions, not only to Loved, but in a truly astounding array of modding and mapping-related endeavours!
 
 Related with the above, **both the osu!catch and osu!mania captains have decided to open applications** to get some fresh faces in the team. Please note the osu!mania team are looking for **7k-specific** captains! If you think you'd be a good fit for that, click one of the boxes and fill one of the forms below:
@@ -42,7 +42,7 @@ And now here are the May 2026 picks, as always remember you can test them out in
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::BATBALL::{ user=15173952 }, [Bernkastel](https://osu.ppy.sh/users/5154946), ::Chaoslitz::{ user=3621552 }, [chiv](https://osu.ppy.sh/users/6701656), ::MALISZEWSKI::{ user=12408961 }, [momoyo](https://osu.ppy.sh/users/12469536), ::Petal::{ user=7354729 }, [Riot](https://osu.ppy.sh/users/4256461), ::seros::{ user=10562853 }, and [Wispy](https://osu.ppy.sh/users/11106929)!
+The osu! Loved candidates were chosen by ::BATBALL::{ user=15173952 }, ::Bernkastel::{ user=5154946 }, ::Chaoslitz::{ user=3621552 }, ::chiv::{ user=6701656 }, ::MALISZEWSKI::{ user=12408961 }, ::momoyo::{ user=12469536 }, ::Petal::{ user=7354729 }, ::Riot::{ user=4256461 }, ::seros::{ user=10562853 }, and ::Wispy::{ user=11106929 }!
 
 **[Click here to download all of this round's osu! picks!](https://packs.ppy.sh/LR92%20-%20Project%20Loved:%20May%202026%20(osu!).zip)**
 
@@ -56,13 +56,13 @@ The osu! Loved candidates were chosen by ::BATBALL::{ user=15173952 }, [Bernkast
 
 [![](/wiki/shared/news/2026-05-18-project-loved-may-2026/1965110.jpg)](https://osu.ppy.sh/community/forums/topics/2207341)
 
-[Enako feat. Pmarusama. - Iden Tei Tei Meltdown](https://osu.ppy.sh/beatmapsets/1965110#osu) by ::Amateurre::{ user=7326908 }, [milr\_](https://osu.ppy.sh/users/4485933), and ::Sakurai Miyo::{ user=1125647 }\
+[Enako feat. Pmarusama. - Iden Tei Tei Meltdown](https://osu.ppy.sh/beatmapsets/1965110#osu) by ::Amateurre::{ user=7326908 }, ::milr\_::{ user=4485933 }, and ::Sakurai Miyo::{ user=1125647 }\
 155 BPM, 3:57 | 3.58★, 7.87★\
 *description written by ::BATBALL::{ user=15173952 }*
 
 uhmhmm... ermm. Uhhhhhh. Hi guys. Here's your first map nominated for Loved this month.
 
-If you were keeping up with anime in 2023, the song [Iden Tei Tei Meltdown by Enako feat. Pmarusama.](https://osu.ppy.sh/beatmapsets/1965110#osu), was everywhere in the collective consciousness. Mappers ::Amateurre::{ user=7326908 } and [Sakurai Miyo](https://osu.ppy.sh/users/1125647) bring their own interpretation of the song, with a near 8.00★ alt map challenge filled with satisfying geometric aim control patterns that give the map a consistent and charming theme. There is also a more accessible Hard difficulty by ::milr\1::{ user=4485933 } for you to try!
+If you were keeping up with anime in 2023, the song [Iden Tei Tei Meltdown by Enako feat. Pmarusama.](https://osu.ppy.sh/beatmapsets/1965110#osu), was everywhere in the collective consciousness. Mappers ::Amateurre::{ user=7326908 } and ::Sakurai Miyo::{ user=1125647 } bring their own interpretation of the song, with a near 8.00★ alt map challenge filled with satisfying geometric aim control patterns that give the map a consistent and charming theme. There is also a more accessible Hard difficulty by ::milr\1::{ user=4485933 } for you to try!
 
 Make sure to vote "YES c:", if you would like this map in Loved this month, and #FREEAGDT2, iykyk.
 
@@ -94,7 +94,7 @@ Created by the veteran mapper ::NeilPerry::{ user=841391 }, you're guaranteed an
 
 [![](/wiki/shared/news/2026-05-18-project-loved-may-2026/2149436.jpg)](https://osu.ppy.sh/community/forums/topics/2207344)
 
-[DECO\*27 -  Rabbit Hole feat. Hatsune Miku](https://osu.ppy.sh/beatmapsets/2149436#osu) by ::Skrowell::{ user=9694263 }, [\_necroplasma](https://osu.ppy.sh/users/10805852), ::APRL03::{ user=11394892 }, [asta is cute](https://osu.ppy.sh/users/7629976), ::DaNILMaZ1::{ user=14899675 }, [daph](https://osu.ppy.sh/users/19815360), ::desuqe::{ user=9712285 }, [gamer228666](https://osu.ppy.sh/users/5981005), ::garab1k::{ user=9984244 }, [geiboi77](https://osu.ppy.sh/users/18564015), ::karta::{ user=17958775 }, [Kucheryavyy](https://osu.ppy.sh/users/10038930), ::Lalu2607::{ user=32095903 }, [marko](https://osu.ppy.sh/users/25387732), ::Markrum::{ user=11854446 }, [Moofu](https://osu.ppy.sh/users/12189647), ::perevod::{ user=19821599 }, [Sus\_\_](https://osu.ppy.sh/users/10971401), ::SyIv::{ user=6821832 }, [Wavewy](https://osu.ppy.sh/users/17352850), and ::zacfr::{ user=19094096 }\
+[DECO\*27 -  Rabbit Hole feat. Hatsune Miku](https://osu.ppy.sh/beatmapsets/2149436#osu) by ::Skrowell::{ user=9694263 }, ::\_necroplasma::{ user=10805852 }, ::APRL03::{ user=11394892 }, ::asta is cute::{ user=7629976 }, ::DaNILMaZ1::{ user=14899675 }, ::daph::{ user=19815360 }, ::desuqe::{ user=9712285 }, ::gamer228666::{ user=5981005 }, ::garab1k::{ user=9984244 }, ::geiboi77::{ user=18564015 }, ::karta::{ user=17958775 }, ::Kucheryavyy::{ user=10038930 }, ::Lalu2607::{ user=32095903 }, ::marko::{ user=25387732 }, ::Markrum::{ user=11854446 }, ::Moofu::{ user=12189647 }, ::perevod::{ user=19821599 }, ::Sus\_\_::{ user=10971401 }, ::SyIv::{ user=6821832 }, ::Wavewy::{ user=17352850 }, and ::zacfr::{ user=19094096 }\
 173 BPM, 2:37 | 6.34★ – 9.78★\
 *description written by ::chiv::{ user=6701656 }*
 
@@ -118,7 +118,7 @@ VOTE YES!!!!
 
 [![](/wiki/shared/news/2026-05-18-project-loved-may-2026/2321108.jpg)](https://osu.ppy.sh/community/forums/topics/2207346)
 
-[midnightcoupes - stay away](https://osu.ppy.sh/beatmapsets/2321108#osu) by ::azphyx::{ user=15137544 } and [Xarr](https://osu.ppy.sh/users/7262065)\
+[midnightcoupes - stay away](https://osu.ppy.sh/beatmapsets/2321108#osu) by ::azphyx::{ user=15137544 } and ::Xarr::{ user=7262065 }\
 185 BPM, 3:12 | 6.60★, 8.46★\
 *description written by ::chiv::{ user=6701656 }*
 
@@ -186,7 +186,7 @@ Vote?: Yes
 
 [![](/wiki/shared/news/2026-05-18-project-loved-may-2026/1736593.jpg)](https://osu.ppy.sh/community/forums/topics/2207351)
 
-[Steve Ouimette - The Devil Went Down to Georgia](https://osu.ppy.sh/beatmapsets/1736593#osu) by ::Froslass::{ user=19048 } and [Woey](https://osu.ppy.sh/users/3792472)\
+[Steve Ouimette - The Devil Went Down to Georgia](https://osu.ppy.sh/beatmapsets/1736593#osu) by ::Froslass::{ user=19048 } and ::Woey::{ user=3792472 }\
 150 BPM, 6:11 | 8.83★, 11.05★\
 *description written by ::Wispy::{ user=11106929 }*
 
@@ -198,7 +198,7 @@ Vote yes if you want to acquire that coveted golden fiddle!
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::\_gt::{ user=8301957 }, [chmekoe](https://osu.ppy.sh/users/7807444), ::Horiiizon::{ user=8071438 }, and [nevqr](https://osu.ppy.sh/users/14269506)!
+The osu!taiko Loved candidates were chosen by ::\_gt::{ user=8301957 }, ::chmekoe::{ user=7807444 }, ::Horiiizon::{ user=8071438 }, and ::nevqr::{ user=14269506 }!
 
 **[Click here to download all of this round's osu!taiko picks!](https://packs.ppy.sh/LR91%20-%20Project%20Loved:%20May%202026%20(osu!taiko).zip)**
 
@@ -226,7 +226,7 @@ Play this masterpiece and vote "yes!" to help this map get to Loved status. ❤�
 
 [![](/wiki/shared/news/2026-05-18-project-loved-may-2026/2441332.jpg)](https://osu.ppy.sh/community/forums/topics/2207337)
 
-[MYUKKE. - Unknown Amnasia](https://osu.ppy.sh/beatmapsets/2441332#taiko) by ::Yuemiao::{ user=4493348 }, [K a y o k o](https://osu.ppy.sh/users/17664300), ::KaEDe1106::{ user=13122339 }, [qoot8123](https://osu.ppy.sh/users/766371), and ::wth::{ user=8957119 }\
+[MYUKKE. - Unknown Amnasia](https://osu.ppy.sh/beatmapsets/2441332#taiko) by ::Yuemiao::{ user=4493348 }, ::K a y o k o::{ user=17664300 }, ::KaEDe1106::{ user=13122339 }, ::qoot8123::{ user=766371 }, and ::wth::{ user=8957119 }\
 180 BPM, 2:32 | 6.35★\
 *description written by ::nevqr::{ user=14269506 }*
 
@@ -260,7 +260,7 @@ This month, [searoad tracks =side blue=](https://osu.ppy.sh/beatmapsets/943160#t
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::Des9::{ user=5404711 } and [LaviSorrow](https://osu.ppy.sh/users/9966768)!
+The osu!catch Loved candidates were chosen by ::Des9::{ user=5404711 } and ::LaviSorrow::{ user=9966768 }!
 
 **[Click here to download all of this round's osu!catch picks!](https://packs.ppy.sh/LR90%20-%20Project%20Loved:%20May%202026%20(osu!catch).zip)**
 
@@ -274,7 +274,7 @@ The osu!catch Loved candidates were chosen by ::Des9::{ user=5404711 } and [Lavi
 
 [![](/wiki/shared/news/2026-05-18-project-loved-may-2026/1978763.jpg)](https://osu.ppy.sh/community/forums/topics/2207332)
 
-[ATARASHII GAKKO! - OTONABLUE](https://osu.ppy.sh/beatmapsets/1978763#fruits) by ::Ash Ketchum::{ user=7297777 } and [rinkiha](https://osu.ppy.sh/users/10786819)\
+[ATARASHII GAKKO! - OTONABLUE](https://osu.ppy.sh/beatmapsets/1978763#fruits) by ::Ash Ketchum::{ user=7297777 } and ::rinkiha::{ user=10786819 }\
 130 BPM, 3:01 | 2.90★, 3.95★, 4.77★\
 *description written by ::LaviSorrow::{ user=9966768 }*
 
@@ -290,13 +290,13 @@ As a mapper, you created many interesting maps, and the one we are nominating fo
 
 [![](/wiki/shared/news/2026-05-18-project-loved-may-2026/1996369.jpg)](https://osu.ppy.sh/community/forums/topics/2207333)
 
-[Machine Girl - Ghost](https://osu.ppy.sh/beatmapsets/1996369#fruits) by ::Mniam::{ user=6050530 } and [Dika312](https://osu.ppy.sh/users/741613)\
+[Machine Girl - Ghost](https://osu.ppy.sh/beatmapsets/1996369#fruits) by ::Mniam::{ user=6050530 } and ::Dika312::{ user=741613 }\
 154 BPM, 2:59 | 4.73★\
 *description written by ::Des9::{ user=5404711 }*
 
 And with next edition of the [osu!catch World Cup](https://osu.ppy.sh/home/news/2026-04-30-osucatch-world-cup-2026-registrations-now-open) starting soon, wanted to pick another map from a previous edition. Directly from [osu!catch World Cup 2023](/wiki/Tournaments/CWC/2023), being Round of 16 No Mod 3, [Machine Girl - Ghost](https://osu.ppy.sh/beatmapsets/1996369)!
 
-Mapped by ::Mniam::{ user=6050530 } and [Dika312](https://osu.ppy.sh/users/741613), this is a good example of what an NM3 is supposed to be. With gimmicks, tapping, control, long sliders, dashes, streamy wiggles, etc., this map has everything. Mappers took this song and did different types of testing on every section. Very cool if you use it as a warmup NM or with your favorite mods.
+Mapped by ::Mniam::{ user=6050530 } and ::Dika312::{ user=741613 }, this is a good example of what an NM3 is supposed to be. With gimmicks, tapping, control, long sliders, dashes, streamy wiggles, etc., this map has everything. Mappers took this song and did different types of testing on every section. Very cool if you use it as a warmup NM or with your favorite mods.
 
 Those who are unfamiliar with this map, don't hesitate and give it a try!
 
@@ -314,7 +314,7 @@ This map is already considered by many to be an HD2 classic, but it's worth noti
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::foxgirls::{ user=9206093 }, [LivelyPeninsula](https://osu.ppy.sh/users/11517895), ::myucchii::{ user=10072733 }, [Nepijin](https://osu.ppy.sh/users/11734610), ::Oceanus::{ user=9164100 }, [Paturages](https://osu.ppy.sh/users/1375479), ::taba2::{ user=7850508 }, and [Yuiesta](https://osu.ppy.sh/users/13953619)!
+The osu!mania Loved candidates were chosen by ::foxgirls::{ user=9206093 }, ::LivelyPeninsula::{ user=11517895 }, ::myucchii::{ user=10072733 }, ::Nepijin::{ user=11734610 }, ::Oceanus::{ user=9164100 }, ::Paturages::{ user=1375479 }, ::taba2::{ user=7850508 }, and ::Yuiesta::{ user=13953619 }!
 
 **[Click here to download all of this round's osu!mania picks!](https://packs.ppy.sh/LR89%20-%20Project%20Loved:%20May%202026%20(osu!mania).zip)**
 
@@ -468,7 +468,7 @@ If you'd like to support his first step into the Loved scene with this unique ma
 
 That's all from us this month! All the beatmaps that pass voting will reach the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) soon™ after the polls end, so stay tuned and don't forget your vote, every vote counts!
 
-And a special thank you to this month's replay contributors: ::Petal::{ user=7354729 }, [Utiba](https://osu.ppy.sh/users/11354436), ::seros::{ user=10562853 }, [nevqr](https://osu.ppy.sh/users/14269506), ::LaviSorrow::{ user=9966768 }, [Oceanus](https://osu.ppy.sh/users/9164100) and ::dressurf::{ user=758406 }.
+And a special thank you to this month's replay contributors: ::Petal::{ user=7354729 }, ::Utiba::{ user=11354436 }, ::seros::{ user=10562853 }, ::nevqr::{ user=14269506 }, ::LaviSorrow::{ user=9966768 }, ::Oceanus::{ user=9164100 } and ::dressurf::{ user=758406 }.
 
 More info about Project Loved can be found on its [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/). Stop by the #osu-loved channel of the [osu! Discord server](https://discord.com/invite/ppy) if you have any questions, concerns, or are interested in helping out.
 

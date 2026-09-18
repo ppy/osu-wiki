@@ -66,58 +66,58 @@ outdated_translation: true
 | Flag | Country | Group A Members |
 | :-- | :-- | :-- |
 | ::{ flag=PH }:: | 필리핀 | --- disbanded --- |
-| ::{ flag=GB }:: | 영국 | **::destructor966::{ user=2667584 }**, [Nanomight](https://osu.ppy.sh/users/160439), ::bubbz::{ user=86414 }, [Phlo10](https://osu.ppy.sh/users/2643155), ::DarkKanaki::{ user=2614160 } |
-| ::{ flag=TH }:: | 타이 | **::boomngong::{ user=1090858 }**, [Nansugumi](https://osu.ppy.sh/users/795915), ::0814587134::{ user=1054016 } |
-| ::{ flag=US }:: | 미국 | **::Zak::{ user=1375955 }**, [-itsy_v2-](https://osu.ppy.sh/users/2815946), ::-Kurisu-::{ user=500696 }, [Minky](https://osu.ppy.sh/users/1978891), ::TenguKing9::{ user=1637716 }, [-Ryuuji-](https://osu.ppy.sh/users/2107523) |
+| ::{ flag=GB }:: | 영국 | **::destructor966::{ user=2667584 }**, ::Nanomight::{ user=160439 }, ::bubbz::{ user=86414 }, ::Phlo10::{ user=2643155 }, ::DarkKanaki::{ user=2614160 } |
+| ::{ flag=TH }:: | 타이 | **::boomngong::{ user=1090858 }**, ::Nansugumi::{ user=795915 }, ::0814587134::{ user=1054016 } |
+| ::{ flag=US }:: | 미국 | **::Zak::{ user=1375955 }**, ::-itsy\1v2-::{ user=2815946 }, ::-Kurisu-::{ user=500696 }, ::Minky::{ user=1978891 }, ::TenguKing9::{ user=1637716 }, ::-Ryuuji-::{ user=2107523 } |
 
 | Flag | Country | Group B Members |
 | :-- | :-- | :-- |
-| ::{ flag=HK }:: | 홍콩 | **::alienflybot::{ user=636114 }**, [XXXZ](https://osu.ppy.sh/users/1226238), ::\1\1NaGI\1::{ user=788406 }, [HineX](https://osu.ppy.sh/users/13854), ::longkitang::{ user=1744806 } |
-| ::{ flag=PL }:: | 폴란드 | **::WujekGrzyb::{ user=258289 }**, [wampir](https://osu.ppy.sh/users/261497), ::Kosmit::{ user=1749173 }, [Scorpionek](https://osu.ppy.sh/users/149730) |
+| ::{ flag=HK }:: | 홍콩 | **::alienflybot::{ user=636114 }**, ::XXXZ::{ user=1226238 }, ::\1\1NaGI\1::{ user=788406 }, ::HineX::{ user=13854 }, ::longkitang::{ user=1744806 } |
+| ::{ flag=PL }:: | 폴란드 | **::WujekGrzyb::{ user=258289 }**, ::wampir::{ user=261497 }, ::Kosmit::{ user=1749173 }, ::Scorpionek::{ user=149730 } |
 | ::{ flag=CL }:: | 칠레 | --- disbanded --- |
-| ::{ flag=EE }:: | 에스토니아 | **::fanatik::{ user=913992 }**, [warstape](https://osu.ppy.sh/users/1133783), ::KostjaSun::{ user=2450912 } |
+| ::{ flag=EE }:: | 에스토니아 | **::fanatik::{ user=913992 }**, ::warstape::{ user=1133783 }, ::KostjaSun::{ user=2450912 } |
 
 | Flag | Country | Group C Members |
 | :-- | :-- | :-- |
 | ::{ flag=TW }:: | 타이완 | --- disqualified --- |
-| ::{ flag=NL }:: | 네덜란드 | **::Givralii::{ user=2466879 }**, [Nebux](https://osu.ppy.sh/users/2342051), ::Greaper::{ user=2369776 }, [CakeAndBanana](https://osu.ppy.sh/users/1981424), ::wesley221::{ user=2407265 } |
-| ::{ flag=SG }:: | 싱가포르 | **::Accel::{ user=1169796 }**, [Kagayane](https://osu.ppy.sh/users/1777691), ::He Ang Erika::{ user=2451381 }, [Otaku_MQ](https://osu.ppy.sh/users/2650135), ::Ridicule::{ user=3473425 } |
-| ::{ flag=NO }:: | 노르웨이 | **::Kiwikun::{ user=1794766 }**, [Azeidith](https://osu.ppy.sh/users/2819676), ::lanki33::{ user=2535200 }, [Zerzxes](https://osu.ppy.sh/users/2094253), ::Hakkun::{ user=2179438 } |
+| ::{ flag=NL }:: | 네덜란드 | **::Givralii::{ user=2466879 }**, ::Nebux::{ user=2342051 }, ::Greaper::{ user=2369776 }, ::CakeAndBanana::{ user=1981424 }, ::wesley221::{ user=2407265 } |
+| ::{ flag=SG }:: | 싱가포르 | **::Accel::{ user=1169796 }**, ::Kagayane::{ user=1777691 }, ::He Ang Erika::{ user=2451381 }, ::Otaku\1MQ::{ user=2650135 }, ::Ridicule::{ user=3473425 } |
+| ::{ flag=NO }:: | 노르웨이 | **::Kiwikun::{ user=1794766 }**, ::Azeidith::{ user=2819676 }, ::lanki33::{ user=2535200 }, ::Zerzxes::{ user=2094253 }, ::Hakkun::{ user=2179438 } |
 
 | Flag | Country | Group D Members |
 | :-- | :-- | :-- |
-| ::{ flag=AT }:: | 오스트리아 | **::\[ K a z u \]::{ user=1902480 }, [Raaban](https://osu.ppy.sh/users/1569025), ::xXMarcelXx::{ user=2355698 }, [Zuyanta](https://osu.ppy.sh/users/2772759) |
+| ::{ flag=AT }:: | 오스트리아 | **::\[ K a z u \]::{ user=1902480 }, ::Raaban::{ user=1569025 }, ::xXMarcelXx::{ user=2355698 }, ::Zuyanta::{ user=2772759 } |
 | ::{ flag=FR }:: | 프랑스 | --- disbanded --- |
-| ::{ flag=MY }:: | 말레이시아 | **::-Rin::{ user=1202101 }**, [Shadow Fear](https://osu.ppy.sh/users/635485), ::Rick--::{ user=950241 }, [QHideaki13](https://osu.ppy.sh/users/733998), ::kho keng chung::{ user=369045 } |
-| ::{ flag=JP }:: | 일본 | **::uppia::{ user=1513301 }**, [rullu](https://osu.ppy.sh/users/595140), ::sekirei::{ user=1643335 }, [giru HD](https://osu.ppy.sh/users/707456), ::Magiyu::{ user=1667470 }, [Lafollia](https://osu.ppy.sh/users/827985) |
+| ::{ flag=MY }:: | 말레이시아 | **::-Rin::{ user=1202101 }**, ::Shadow Fear::{ user=635485 }, ::Rick--::{ user=950241 }, ::QHideaki13::{ user=733998 }, ::kho keng chung::{ user=369045 } |
+| ::{ flag=JP }:: | 일본 | **::uppia::{ user=1513301 }**, ::rullu::{ user=595140 }, ::sekirei::{ user=1643335 }, ::giru HD::{ user=707456 }, ::Magiyu::{ user=1667470 }, ::Lafollia::{ user=827985 } |
 
 | Flag | Country | Group E Members |
 | :-- | :-- | :-- |
-| ::{ flag=MX }:: | 멕시코 | **::Lostty::{ user=2118519 }**, [ChibiOzed](https://osu.ppy.sh/users/1690328), ::blacklotus::{ user=2115337 } |
-| ::{ flag=DK }:: | 덴마크 | **::-Crab-::{ user=2563435 }**, [TheCo0k1e](https://osu.ppy.sh/users/3386472), ::jacoblemming12::{ user=3593786 }, [FlowHomie](https://osu.ppy.sh/users/2831095) |
-| ::{ flag=NZ }:: | 뉴질랜드 | **::IQ166::{ user=1452911 }**, [Nibble147](https://osu.ppy.sh/users/3866541), ::JakeCC::{ user=88973 } |
-| ::{ flag=SE }:: | 스웨덴 | **::Yukiteru Amano::{ user=1894511 }**, [Walterx8](https://osu.ppy.sh/users/1993041), ::Negri\1sk::{ user=2231396 }, [-Airi-](https://osu.ppy.sh/users/2546340), ::Suzuki::{ user=2960209 } |
+| ::{ flag=MX }:: | 멕시코 | **::Lostty::{ user=2118519 }**, ::ChibiOzed::{ user=1690328 }, ::blacklotus::{ user=2115337 } |
+| ::{ flag=DK }:: | 덴마크 | **::-Crab-::{ user=2563435 }**, ::TheCo0k1e::{ user=3386472 }, ::jacoblemming12::{ user=3593786 }, ::FlowHomie::{ user=2831095 } |
+| ::{ flag=NZ }:: | 뉴질랜드 | **::IQ166::{ user=1452911 }**, ::Nibble147::{ user=3866541 }, ::JakeCC::{ user=88973 } |
+| ::{ flag=SE }:: | 스웨덴 | **::Yukiteru Amano::{ user=1894511 }**, ::Walterx8::{ user=1993041 }, ::Negri\1sk::{ user=2231396 }, ::-Airi-::{ user=2546340 }, ::Suzuki::{ user=2960209 } |
 
 | Flag | Country | Group F Members |
 | :-- | :-- | :-- |
-| ::{ flag=ES }:: | 스페인 | **::SK Eternal::{ user=588046 }**, [Raimon](https://osu.ppy.sh/users/609627), ::RAMONLINKK::{ user=843155 }, [Nokeru-Chan](https://osu.ppy.sh/users/602315), ::sarkras::{ user=709625 } |
+| ::{ flag=ES }:: | 스페인 | **::SK Eternal::{ user=588046 }**, ::Raimon::{ user=609627 }, ::RAMONLINKK::{ user=843155 }, ::Nokeru-Chan::{ user=602315 }, ::sarkras::{ user=709625 } |
 | ::{ flag=PE }:: | 페루 | --- disbanded --- |
-| ::{ flag=FI }:: | 핀란드 | **::YERTI::{ user=1490757 }**, [Static Noise Bird](https://osu.ppy.sh/users/826132), ::MrSake::{ user=264729 }, [Mianki](https://osu.ppy.sh/users/39658) |
-| ::{ flag=HR }:: | 크로아티아 | **::Meikyuuiri Tsumi::{ user=404314 }**, [Animewolf](https://osu.ppy.sh/users/949513), ::TinTin::{ user=2227976 } |
+| ::{ flag=FI }:: | 핀란드 | **::YERTI::{ user=1490757 }**, ::Static Noise Bird::{ user=826132 }, ::MrSake::{ user=264729 }, ::Mianki::{ user=39658 } |
+| ::{ flag=HR }:: | 크로아티아 | **::Meikyuuiri Tsumi::{ user=404314 }**, ::Animewolf::{ user=949513 }, ::TinTin::{ user=2227976 } |
 
 | Flag | Country | Group G Members |
 | :-- | :-- | :-- |
-| ::{ flag=KR }:: | 한국 | **::Spectator::{ user=702598 }**, [dae6254](https://osu.ppy.sh/users/563262), ::Frobe::{ user=670365 }, [Kuzino](https://osu.ppy.sh/users/158552), ::Last Bubble::{ user=1302259 } |
-| ::{ flag=DE }:: | 독일 | **::DeathXHunter::{ user=405326 }**, [NoteKuroi](https://osu.ppy.sh/users/186642), ::Nyan-Zapo::{ user=480676 } |
-| ::{ flag=CA }:: | 캐나다 | **::Kitokofox::{ user=1815420 }**, [Sumaki](https://osu.ppy.sh/users/207916), ::Kitsunemimi::{ user=100037 } |
-| ::{ flag=BO }:: | 볼리비아 | **::donjuan\1217::{ user=2169426 }**, [brian_rqc](https://osu.ppy.sh/users/3710738), ::gakupoXD::{ user=871103 }, [Zen Youkai](https://osu.ppy.sh/users/3364257) |
+| ::{ flag=KR }:: | 한국 | **::Spectator::{ user=702598 }**, ::dae6254::{ user=563262 }, ::Frobe::{ user=670365 }, ::Kuzino::{ user=158552 }, ::Last Bubble::{ user=1302259 } |
+| ::{ flag=DE }:: | 독일 | **::DeathXHunter::{ user=405326 }**, ::NoteKuroi::{ user=186642 }, ::Nyan-Zapo::{ user=480676 } |
+| ::{ flag=CA }:: | 캐나다 | **::Kitokofox::{ user=1815420 }**, ::Sumaki::{ user=207916 }, ::Kitsunemimi::{ user=100037 } |
+| ::{ flag=BO }:: | 볼리비아 | **::donjuan\1217::{ user=2169426 }**, ::brian\1rqc::{ user=3710738 }, ::gakupoXD::{ user=871103 }, ::Zen Youkai::{ user=3364257 } |
 
 | Flag | Country | Group H Members |
 | :-- | :-- | :-- |
-| ::{ flag=AR }:: | 아르헨티나 | **::NightWar::{ user=1209167 }**, [Litooo](https://osu.ppy.sh/users/1170107), ::Gundisalv::{ user=1160340 }, [musicguy007](https://osu.ppy.sh/users/2159777) |
-| ::{ flag=CN }:: | 중국 | **::Dusk::{ user=533210 }**, [hy1hy1hy](https://osu.ppy.sh/users/243877), ::MisakaMikoto::{ user=434917 }, [Ibuki Suika](https://osu.ppy.sh/users/290249) |
-| ::{ flag=UY }:: | 우루과이 | **::Themaster155::{ user=1850067 }**, [quique95](https://osu.ppy.sh/users/472924), ::Truxxxton::{ user=1379428 }, [S3B4](https://osu.ppy.sh/users/3437784) |
-| ::{ flag=ID }:: | 인도네시아 | **::Shurelia::{ user=3807986 }**, [Deceitful](https://osu.ppy.sh/users/1396447), ::\_EliteYud\_::{ user=2365634 }, [Yoshida Haru-](https://osu.ppy.sh/users/3073351), ::- Rii -::{ user=3734591 } |
+| ::{ flag=AR }:: | 아르헨티나 | **::NightWar::{ user=1209167 }**, ::Litooo::{ user=1170107 }, ::Gundisalv::{ user=1160340 }, ::musicguy007::{ user=2159777 } |
+| ::{ flag=CN }:: | 중국 | **::Dusk::{ user=533210 }**, ::hy1hy1hy::{ user=243877 }, ::MisakaMikoto::{ user=434917 }, ::Ibuki Suika::{ user=290249 } |
+| ::{ flag=UY }:: | 우루과이 | **::Themaster155::{ user=1850067 }**, ::quique95::{ user=472924 }, ::Truxxxton::{ user=1379428 }, ::S3B4::{ user=3437784 } |
+| ::{ flag=ID }:: | 인도네시아 | **::Shurelia::{ user=3807986 }**, ::Deceitful::{ user=1396447 }, ::\_EliteYud\_::{ user=2365634 }, ::Yoshida Haru-::{ user=3073351 }, ::- Rii -::{ user=3734591 } |
 
 ## 비트맵 풀
 

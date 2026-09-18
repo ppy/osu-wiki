@@ -259,7 +259,7 @@ Clicking the song banners will take you to the respective beatmaps. We will be h
 - BGM for the story sections in [EGTS 2022](/wiki/Tournaments/GTS/EGTS_2022) and [COEGTS 2023](/wiki/Tournaments/GTS/COEGTS_2023)
 - Mastering Engineer for our [BespokE : GTS 2023](https://gratiaproductions.bandcamp.com/album/bespoke-gts-2023) album.
 
-With a track that has waited 2 years to be able to release, he has still managed to make one of the most impressive tracks to start off the first round of EGTS 2025 with, and the map provided by ::Gamelan4::{ user=2140739 } and [Shinsekai-](https://osu.ppy.sh/users/2140739) has helped players ease into the high level of gameplay that EGTS is shooting for very well.
+With a track that has waited 2 years to be able to release, he has still managed to make one of the most impressive tracks to start off the first round of EGTS 2025 with, and the map provided by ::Gamelan4::{ user=2140739 } and ::Shinsekai-::{ user=2140739 } has helped players ease into the high level of gameplay that EGTS is shooting for very well.
 
 ### Round of 32
 
@@ -273,7 +273,7 @@ With a track that has waited 2 years to be able to release, he has still managed
 
 We then moved on to quite a different style for this tiebreaker, being a more rock/speedcore-focused song, rhythms changing all over the board. This was a song of professional grade, despite the composer, [trailmix37](https://soundcloud.com/trailmix38), being completely unknown with just 52 subscribers on SoundCloud and not a single osu! map submitted for any of his 4 past songs. That said, if you were to play this without knowing any of this context? You would not notice it whatsoever.
 
-Mappers ::davidminh0111::{ user=2140739 } and [SolaEclipse](https://osu.ppy.sh/users/2140739) did not hold back after hearing this song, with some of these sections vying to trip you up no matter which mod you choose, and you can see this even in the matches where players attempted this map.
+Mappers ::davidminh0111::{ user=2140739 } and ::SolaEclipse::{ user=2140739 } did not hold back after hearing this song, with some of these sections vying to trip you up no matter which mod you choose, and you can see this even in the matches where players attempted this map.
 
 ### Round of 16
 
@@ -289,7 +289,7 @@ This one is just shooting to be a massive bomb. Welcome to 5 minutes of frenchco
 
 A massive departure from the melancholic hype that the two prior songs possessed. A song by one of the more prolific artists in the Japanese hardtek scene. A song named "[The Great Revelation By Mother Brain](https://soundcloud.com/mothtek/mothtek-the-great-revelation-by-mother-brainegts2025-round-of-16-tiebreaker)". When does it stop? The answer is never (figuratively).
 
-Mappers ::Ideal::{ user=3869519 } and [Raphalge](https://osu.ppy.sh/users/3918650) tried to reel this insane song in a bit by toning down the mechanical difficulty compared to the Round of 32, as it instead aims to be played with mods by the players left, but even then, it is a struggle for sure.
+Mappers ::Ideal::{ user=3869519 } and ::Raphalge::{ user=3918650 } tried to reel this insane song in a bit by toning down the mechanical difficulty compared to the Round of 32, as it instead aims to be played with mods by the players left, but even then, it is a struggle for sure.
 
 ### Quarterfinals
 
@@ -319,7 +319,7 @@ The map by ::My Angel Seia::{ user=17797595 } has absolutely nothing angelic abo
 
 [Xyris](https://soundcloud.com/itsxyris), being no stranger to the osu! tournament scene, definitely understood the assignment here as well. He throws out crazy mixes of speedcore and dubstep to make for some of the most challenging bursts.
 
-In conjunction, mappers ::Briesmas::{ user=2865172 } and [MTNTWarz](https://osu.ppy.sh/users/2865172), heavily accompanied by head mappoolers ::4sbet1::{ user=11563671 } and [Raphalge](https://osu.ppy.sh/users/3918650), have created one of the most daunting maps in this tournament for sure, having the second-highest star rating among this tournament's tiebreakers.
+In conjunction, mappers ::Briesmas::{ user=2865172 } and ::MTNTWarz::{ user=2865172 }, heavily accompanied by head mappoolers ::4sbet1::{ user=11563671 } and ::Raphalge::{ user=3918650 }, have created one of the most daunting maps in this tournament for sure, having the second-highest star rating among this tournament's tiebreakers.
 
 ### Finals
 
@@ -335,7 +335,7 @@ In conjunction, mappers ::Briesmas::{ user=2865172 } and [MTNTWarz](https://osu.
 
 This whole song was quite the challenge to even finalise for everyone involved, being born out of another song that was cancelled last-minute, hence the production period of 2 December 2024 to 9 March 2025, finishing exactly 7 days before release. However, nothing here shows any corners being cut. This is one of the most melodic songs in our late stage, mixing hardcore techno, gabber, as well as hi-tech.
 
-With a map by ::tasuke912::{ user=2774767 }, [uone](https://osu.ppy.sh/users/532171910), and ::kei821::{ user=5846289 }, who were forced to complete it in a total of three days, it did not disappoint and made for an amazing experience overall.
+With a map by ::tasuke912::{ user=2774767 }, ::uone::{ user=532171910 }, and ::kei821::{ user=5846289 }, who were forced to complete it in a total of three days, it did not disappoint and made for an amazing experience overall.
 
 ### Grand Finals
 
@@ -432,7 +432,7 @@ By Wednesday, we had made enough notes of most of the maps, and on Thursday, we 
 
 From Friday until just before the matches, we didn't practice all that much, but played the maps as if we were playing a real match, checked if there were any weak parts or habits to note, and if there were, we simply tried to correct them.
 
-The two people that surprised me with their performance were ::Grape\1Tea::{ user=9540073 } and [chibamasu](https://osu.ppy.sh/users/16067522):
+The two people that surprised me with their performance were ::Grape\1Tea::{ user=9540073 } and ::chibamasu::{ user=16067522 }:
 
 - ::Grape\1Tea::{ user=9540073 } really surprised me by SSing every map in the Qualifiers, and with their overwhelming consistency in the map pools every week.
 - I played against ::chibamasu::{ user=16067522 } in the Round of 32, and I was impressed when they FC'd every FM map with HDHR and when they SS'd the NM5 map. Their HD skill and overall consistency really surprised me. Their HD2 play at the All-Star Showcase was impressive as well.
@@ -481,7 +481,7 @@ For Japanese Taiko players, who are usually part of a relatively closed-off comm
 
 This outcome was made possible thanks to the GTS community members, who opened their hearts and reached out to us! We Japanese need to learn from this kind of open-mindedness as well.
 
-To be honest, ekumea1123 did more work than I did, and I also received a tremendous amount of help from ::Briesmas::{ user=2865172 }, [goheegy](https://osu.ppy.sh/users/8057655), and ::Raphalge::{ user=3918650 }. Please don't forget about them either.
+To be honest, ekumea1123 did more work than I did, and I also received a tremendous amount of help from ::Briesmas::{ user=2865172 }, ::goheegy::{ user=8057655 }, and ::Raphalge::{ user=3918650 }. Please don't forget about them either.
 
 </div>
 
@@ -603,7 +603,7 @@ I wouldn't even say this is necessarily hard, more so just tricky, and being in 
 
 To perfectly account for your own personal biases, you'd also need to know your exact skillset, as in, how good you are at X compared to Y for just about every relation between two skills, and getting most of the way there isn't too hard if you have some self-awareness but everyone whiffs on it sometimes: I called grand finals HR1 "too easy" but it was still getting misses out of the podium players even without buffs that I was hoping for!
 
-To be fair, I was never there for the sake of testing the late rounds, and I have to thank ::miyagishima::{ user=8027517 }, [kitafuma](https://osu.ppy.sh/users/8987606), and ::Seren58::{ user=15252950 } for carrying me on that front, but the same idea can happen in any given round really. A handful of opinions is so much nicer to work with than one, and for a while I really did feel like the only playtester doing anything, but in EGTS' case the head poolers were all top players and all did a ton of work for the tourney, so they thankfully had their own judgment to work with.
+To be fair, I was never there for the sake of testing the late rounds, and I have to thank ::miyagishima::{ user=8027517 }, ::kitafuma::{ user=8987606 }, and ::Seren58::{ user=15252950 } for carrying me on that front, but the same idea can happen in any given round really. A handful of opinions is so much nicer to work with than one, and for a while I really did feel like the only playtester doing anything, but in EGTS' case the head poolers were all top players and all did a ton of work for the tourney, so they thankfully had their own judgment to work with.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/6177263" style="background-image: url('/wiki/shared/avatars/Kasumi-sama.jpg')"></a>
 

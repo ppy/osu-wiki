@@ -31,7 +31,7 @@ A reminder that we have dedicated hubs for Project Loved if you want to hang out
 Before we move on to this month's picks, let's go through some updates within the Project Loved team:
 
 - A new member approaches! Let's welcome ::Leeju::{ user=18219603 } to the osu!mania captains, who will dedicate their time and efforts to serve you exquisite doses of 7K picks!
-- However, all good things must come to an end at one point, so let's take a moment to bid farewell to ::Kasumi-sama::{ user=6177263 } and [Sartan](https://osu.ppy.sh/users/4100941) and thank them for their continued tenure with us, as they've decided to move on from the project.
+- However, all good things must come to an end at one point, so let's take a moment to bid farewell to ::Kasumi-sama::{ user=6177263 } and ::Sartan::{ user=4100941 } and thank them for their continued tenure with us, as they've decided to move on from the project.
 - Fear not, because with the recent resignations, the osu!catch captains are now looking for some fresh blood to join them! If you're a seasoned fruit connoisseur and think you've got what it takes, apply to join the team by clicking the banner below!
 
 [![osu!catch captain application banner](/wiki/shared/news/banners/project-loved/apply-catch.png)](https://forms.gle/jjm44bhhbcqF1utK8)
@@ -47,7 +47,7 @@ Okay, now let's go through what we've cooked for you this month:
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::Aistre::{ user=4879380 }, [Kingling](https://osu.ppy.sh/users/7010761), ::Librarian::{ user=10083084 }, [megumic](https://osu.ppy.sh/users/7537133), ::Mismagius::{ user=19048 }, [rHO](https://osu.ppy.sh/users/1629553), and ::Skill::{ user=7802027 }!
+The osu! Loved candidates were chosen by ::Aistre::{ user=4879380 }, ::Kingling::{ user=7010761 }, ::Librarian::{ user=10083084 }, ::megumic::{ user=7537133 }, ::Mismagius::{ user=19048 }, ::rHO::{ user=1629553 }, and ::Skill::{ user=7802027 }!
 
 <div align="center">
   <video width="95%" controls>
@@ -83,15 +83,15 @@ Work through never-ending 240 BPM bursts, challenging linear patterns, symmetric
 
 [![](/wiki/shared/news/2023-11-22-project-loved-november-2023/685539.jpg)](https://osu.ppy.sh/community/forums/topics/1848315)
 
-[Nekomata Master feat. Nagayama Maki - Tegami](https://osu.ppy.sh/beatmapsets/685539#osu) by ::Kenny::{ user=1225459 } and [pishifat](https://osu.ppy.sh/users/3178418)\
+[Nekomata Master feat. Nagayama Maki - Tegami](https://osu.ppy.sh/beatmapsets/685539#osu) by ::Kenny::{ user=1225459 } and ::pishifat::{ user=3178418 }\
 77 BPM, 4:28 | 2.07★, 2.78★, 4.04★, 4.27★\
 *description written by ::Aistre::{ user=4879380 }*
 
-This month's *Small Spectacles* pick is [Tegami](https://osu.ppy.sh/beatmapsets/685539#osu/2448938) mapped by ::Kenny::{ user=1225459 } and [pishifat](https://osu.ppy.sh/users/3178418)!
+This month's *Small Spectacles* pick is [Tegami](https://osu.ppy.sh/beatmapsets/685539#osu/2448938) mapped by ::Kenny::{ user=1225459 } and ::pishifat::{ user=3178418 }!
 
 This pretty chill and ambient 77 BPM mapset features a spread ranging from 2.07★ to 4.27★. pishi's difficulty can be described as simply elegant and conceptual, whereas the top difficulty *\[Sincerely,\]* shows a more meticulous approach to emphasising the beautiful vocals with fun sliders.
 
-What I really want to show you is the storyboard created by ::S2VX::{ user=1472763 } and [niseboi](https://osu.ppy.sh/users/2747929). It was developed over many *many* hours, involving hundreds of individually rotoscoped frames and a whole lot of C++ coding to brilliantly execute. S2VX, or maxrchung, documented the [entire creative process](https://maxrchung.com/projects/tegami) in immense detail, which you should definitely check out! It really is a sight to behold, so please experience it at least once while playing.
+What I really want to show you is the storyboard created by ::S2VX::{ user=1472763 } and ::niseboi::{ user=2747929 }. It was developed over many *many* hours, involving hundreds of individually rotoscoped frames and a whole lot of C++ coding to brilliantly execute. S2VX, or maxrchung, documented the [entire creative process](https://maxrchung.com/projects/tegami) in immense detail, which you should definitely check out! It really is a sight to behold, so please experience it at least once while playing.
 
 Just a small warning—be careful with opening the map in the editor as it causes some serious lag and might crash in some instances. Nevertheless, be sure to cast your vote if you wish to see Tegami in loved!
 
@@ -109,7 +109,7 @@ Take a look at them for yourself, and if you too want to see your favourite top 
 
 [![](/wiki/shared/news/2023-11-22-project-loved-november-2023/1529141.jpg)](https://osu.ppy.sh/community/forums/topics/1848313)
 
-[Ata - I'm Not Crazy](https://osu.ppy.sh/beatmapsets/1529141#osu) by ::Ciyus Miapah::{ user=2805457 }, [d0m](https://osu.ppy.sh/users/12814551), ::Nattu::{ user=1886722 }, [OKSY](https://osu.ppy.sh/users/19484011), ::Omekyu::{ user=14348073 }, and [Uchigatana](https://osu.ppy.sh/users/15878733)\
+[Ata - I'm Not Crazy](https://osu.ppy.sh/beatmapsets/1529141#osu) by ::Ciyus Miapah::{ user=2805457 }, ::d0m::{ user=12814551 }, ::Nattu::{ user=1886722 }, ::OKSY::{ user=19484011 }, ::Omekyu::{ user=14348073 }, and ::Uchigatana::{ user=15878733 }\
 180 BPM, 7:25 | 4.90★ – 8.32★\
 *description written by ::Kingling::{ user=7010761 }*
 
@@ -131,7 +131,7 @@ If you promise you're not crazy, make sure to vote yes on this map!!
 
 [![](/wiki/shared/news/2023-11-22-project-loved-november-2023/1137181.jpg)](https://osu.ppy.sh/community/forums/topics/1848311)
 
-[Wowkie Zhang - Yang Guang Cai Hong Xiao Bai Ma](https://osu.ppy.sh/beatmapsets/1137181#osu) by ::Rektygon::{ user=7813296 }, [Astronic](https://osu.ppy.sh/users/9320502), ::grizzlypng::{ user=9500951 }, and [vekt0r](https://osu.ppy.sh/users/8484892)\
+[Wowkie Zhang - Yang Guang Cai Hong Xiao Bai Ma](https://osu.ppy.sh/beatmapsets/1137181#osu) by ::Rektygon::{ user=7813296 }, ::Astronic::{ user=9320502 }, ::grizzlypng::{ user=9500951 }, and ::vekt0r::{ user=8484892 }\
 192 BPM, 2:07 | 1.32★ – 6.04★\
 *description written by ::megumic::{ user=7537133 }*
 
@@ -141,7 +141,7 @@ bruh.
 
 [![](/wiki/shared/news/2023-11-22-project-loved-november-2023/1140056.jpg)](https://osu.ppy.sh/community/forums/topics/1848310)
 
-[Powfu - death bed (coffee for your head) (feat. beabadoobee)](https://osu.ppy.sh/beatmapsets/1140056#osu) by ::Qiyana::{ user=4272879 }, [jamesjan3](https://osu.ppy.sh/users/6260705), and ::Zhuosh::{ user=11056763 }\
+[Powfu - death bed (coffee for your head) (feat. beabadoobee)](https://osu.ppy.sh/beatmapsets/1140056#osu) by ::Qiyana::{ user=4272879 }, ::jamesjan3::{ user=6260705 }, and ::Zhuosh::{ user=11056763 }\
 144 BPM, 2:40 | 1.40★, 2.14★, 2.57★, 3.43★\
 *description written by ::Librarian::{ user=10083084 }*
 
@@ -164,17 +164,17 @@ What's that buzzing sound? Oh right, that's the sound of this month's *Chill Cha
 
 [![](/wiki/shared/news/2023-11-22-project-loved-november-2023/1178351.jpg)](https://osu.ppy.sh/community/forums/topics/1848308)
 
-[Maoki Yamamoto - PIRATES BANQUET](https://osu.ppy.sh/beatmapsets/1178351#osu) by ::thzz::{ user=1614839 } and [GGJaeger](https://osu.ppy.sh/users/1762437)\
+[Maoki Yamamoto - PIRATES BANQUET](https://osu.ppy.sh/beatmapsets/1178351#osu) by ::thzz::{ user=1614839 } and ::GGJaeger::{ user=1762437 }\
 146 BPM, 1:55 | 1.48★ – 7.06★\
 *description written by ::megumic::{ user=7537133 }*
 
-[Maoki Yamamoto - PIRATES BANQUET](https://osu.ppy.sh/beatmapsets/1178351#osu) by ::thzz::{ user=1614839 } and [GGJaeger](https://osu.ppy.sh/users/1762437) is up as the first *wildcard* for this month! AWESOME ARTIST! AWESOME SONG! AWESOME MAP! LET'S GO!!!
+[Maoki Yamamoto - PIRATES BANQUET](https://osu.ppy.sh/beatmapsets/1178351#osu) by ::thzz::{ user=1614839 } and ::GGJaeger::{ user=1762437 } is up as the first *wildcard* for this month! AWESOME ARTIST! AWESOME SONG! AWESOME MAP! LET'S GO!!!
 
 This 146 BPM alt map rocks an extensive range of difficulties from 1.48★ to 7.06★, and by now has graced every difficulty of the osu! tournament scene as well, most notably in [osu! World Cup 2020](/wiki/Tournaments/OWC/2020). PIRATES BANQUET is an instant classic to slap on for anyone itching to play an alt map, so why not give it the leaderboard it deserves? Vote now!
 
 [![](/wiki/shared/news/2023-11-22-project-loved-november-2023/1133651.jpg)](https://osu.ppy.sh/community/forums/topics/1848307)
 
-[Magnetude - I'm For You](https://osu.ppy.sh/beatmapsets/1133651#osu) by ::\_milr::{ user=7835664 }, [Annabel](https://osu.ppy.sh/users/3388410), ::KeRLi\_::{ user=5902629 }, [Marmowka](https://osu.ppy.sh/users/2907237), and ::Withdrown::{ user=12546568 }\
+[Magnetude - I'm For You](https://osu.ppy.sh/beatmapsets/1133651#osu) by ::\_milr::{ user=7835664 }, ::Annabel::{ user=3388410 }, ::KeRLi\_::{ user=5902629 }, ::Marmowka::{ user=2907237 }, and ::Withdrown::{ user=12546568 }\
 174 BPM, 4:47 | 5.20★, 5.67★, 6.73★, 7.06★\
 *description written by ::Kingling::{ user=7010761 }*
 
@@ -200,7 +200,7 @@ Want to see this enter a Loved status? Vote now!
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [aceticke](https://osu.ppy.sh/users/8838763), ::Boaz::{ user=13302996 }, [Eriha](https://osu.ppy.sh/users/16320311), ::Horiiizon::{ user=8071438 }, and [ler1211](https://osu.ppy.sh/users/19901680)!
+The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::aceticke::{ user=8838763 }, ::Boaz::{ user=13302996 }, ::Eriha::{ user=16320311 }, ::Horiiizon::{ user=8071438 }, and ::ler1211::{ user=19901680 }!
 
 <div align="center">
   <video width="95%" controls>
@@ -212,7 +212,7 @@ The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [acetic
 
 [![](/wiki/shared/news/2023-11-22-project-loved-november-2023/1414457.jpg)](https://osu.ppy.sh/community/forums/topics/1848305)
 
-[Kurokotei - Nonbinarity](https://osu.ppy.sh/beatmapsets/1414457#taiko) by ::uone::{ user=5321719 } and [syaron105](https://osu.ppy.sh/users/8741695)\
+[Kurokotei - Nonbinarity](https://osu.ppy.sh/beatmapsets/1414457#taiko) by ::uone::{ user=5321719 } and ::syaron105::{ user=8741695 }\
 175 BPM, 3:40 | 7.06★, 8.27★\
 *description written by ::Boaz::{ user=13302996 }*
 
@@ -236,7 +236,7 @@ Did you know that former rank 1 player ::\_yu68::{ user=6170507 } even SS'd this
 
 [![](/wiki/shared/news/2023-11-22-project-loved-november-2023/1233048.jpg)](https://osu.ppy.sh/community/forums/topics/1848303)
 
-[Yonekura Chihiro - Koiseyo Otome! (Ozu's bootleg remix)](https://osu.ppy.sh/beatmapsets/1233048#taiko) by ::hoku::{ user=9503098 }, [7_7](https://osu.ppy.sh/users/7491106), ::rezi888::{ user=2337821 }, [Shamirin_mzk](https://osu.ppy.sh/users/11325757), and ::X a v y::{ user=3738344 }\
+[Yonekura Chihiro - Koiseyo Otome! (Ozu's bootleg remix)](https://osu.ppy.sh/beatmapsets/1233048#taiko) by ::hoku::{ user=9503098 }, ::7\17::{ user=7491106 }, ::rezi888::{ user=2337821 }, ::Shamirin\1mzk::{ user=11325757 }, and ::X a v y::{ user=3738344 }\
 264 BPM, 1:09 | 6.54★, 6.54★, 6.66★, 6.74★, 6.78★\
 *description written by ::ler1211::{ user=19901680 }*
 
@@ -260,22 +260,22 @@ If you don't have enough stamina to play 4 minute map, go practice with the shor
 
 [![](/wiki/shared/news/2023-11-22-project-loved-november-2023/1869763.jpg)](https://osu.ppy.sh/community/forums/topics/1848301)
 
-[Various Artists - EGTS 2022 Gimmick Compilation](https://osu.ppy.sh/beatmapsets/1869763#taiko) by ::Mew::{ user=2345156 }, [\[Zeth\]](https://osu.ppy.sh/users/9912966), ::Cynplytholowazy::{ user=3901754 }, and [X a v y](https://osu.ppy.sh/users/3738344)\
+[Various Artists - EGTS 2022 Gimmick Compilation](https://osu.ppy.sh/beatmapsets/1869763#taiko) by ::Mew::{ user=2345156 }, ::\[Zeth\]::{ user=9912966 }, ::Cynplytholowazy::{ user=3901754 }, and ::X a v y::{ user=3738344 }\
 100 – 224 BPM, 2:51 | 5.36★ – 8.91★\
 The \[del:eh:t upon download\] difficulty is *not* being nominated for Loved.\
 *description written by ::aceticke::{ user=8838763 }*
 
-This month I am presenting the [EGTS 2022 Gimmick Compilation](https://osu.ppy.sh/beatmapsets/1869763#taiko) hosted by ::Mew::{ user=2345156 } with guest appearances from ::\[Zeth\]::{ user=9912966 }, [Cynplytholowazy](https://osu.ppy.sh/users/3901754) and ::X a v y::{ user=3738344 }! There's something for everyone in this beatmap pack featuring 9 unique beatmaps and songs from the famous [Expert Global Taiko Showdown's 2022 iteration](/wiki/Tournaments/GTS/EGTS_2022)! SV, finishers, barlines, sliders... it's tough to list them all!
+This month I am presenting the [EGTS 2022 Gimmick Compilation](https://osu.ppy.sh/beatmapsets/1869763#taiko) hosted by ::Mew::{ user=2345156 } with guest appearances from ::\[Zeth\]::{ user=9912966 }, ::Cynplytholowazy::{ user=3901754 } and ::X a v y::{ user=3738344 }! There's something for everyone in this beatmap pack featuring 9 unique beatmaps and songs from the famous [Expert Global Taiko Showdown's 2022 iteration](/wiki/Tournaments/GTS/EGTS_2022)! SV, finishers, barlines, sliders... it's tough to list them all!
 
 Why not give it a shot and see what *you* excel at? And, if you want to brawl in a competitive leaderboard, it's up for voting now!
 
 [![](/wiki/shared/news/2023-11-22-project-loved-november-2023/895493.jpg)](https://osu.ppy.sh/community/forums/topics/1848300)
 
-[keyyoung - Rainy Abyss](https://osu.ppy.sh/beatmapsets/895493#taiko) by ::Raphalge::{ user=3918650 }, [Coryn](https://osu.ppy.sh/users/2828556), ::Gamelan4::{ user=9856910 }, and [Ulqui](https://osu.ppy.sh/users/1263669)\
+[keyyoung - Rainy Abyss](https://osu.ppy.sh/beatmapsets/895493#taiko) by ::Raphalge::{ user=3918650 }, ::Coryn::{ user=2828556 }, ::Gamelan4::{ user=9856910 }, and ::Ulqui::{ user=1263669 }\
 250 BPM, 2:54 | 2.12★, 3.35★, 4.33★, 5.34★, 6.94★\
 *description written by ::-Kazu-::{ user=920861 }*
 
-*keyyoung - Rainy Abyss* is one of those timeless classics made by none other than ::Raphalge::{ user=3918650 }, with guest diffs by prominent mappers from South America: ::Gamelan4::{ user=9856910 }, [Ulquip](https://osu.ppy.sh/users/1263669) and ::Coryn::{ user=2828556 }, providing quality content for most players out there.
+*keyyoung - Rainy Abyss* is one of those timeless classics made by none other than ::Raphalge::{ user=3918650 }, with guest diffs by prominent mappers from South America: ::Gamelan4::{ user=9856910 }, ::Ulquip::{ user=1263669 } and ::Coryn::{ user=2828556 }, providing quality content for most players out there.
 
 This mapset, although lost in time and probably in a few BN queues, has an astonishing quality with silky patterns that roll off the hands like butter and is mostly clean of SV usage, allowing players to focus on being able to hit those patterns instead of strange reading skills.
 
@@ -295,7 +295,7 @@ Bonne Chance!
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::Kasumi-sama::{ user=6177263 } and [Sartan](https://osu.ppy.sh/users/4100941)!
+The osu!catch Loved candidates were chosen by ::Kasumi-sama::{ user=6177263 } and ::Sartan::{ user=4100941 }!
 
 <div align="center">
   <video width="95%" controls>
@@ -323,11 +323,11 @@ Is it still very fun to play? Absolutely!
 
 [![](/wiki/shared/news/2023-11-22-project-loved-november-2023/467816.jpg)](https://osu.ppy.sh/community/forums/topics/1848296)
 
-[Yooh - snow storm -euphoria-](https://osu.ppy.sh/beatmapsets/467816#fruits) by ::Spectator::{ user=702598 }, [CLSW](https://osu.ppy.sh/users/531253), ::Kyuare::{ user=2705312 }, and [Rocma](https://osu.ppy.sh/users/566276)\
+[Yooh - snow storm -euphoria-](https://osu.ppy.sh/beatmapsets/467816#fruits) by ::Spectator::{ user=702598 }, ::CLSW::{ user=531253 }, ::Kyuare::{ user=2705312 }, and ::Rocma::{ user=566276 }\
 180 BPM, 1:57 | 2.12★, 3.44★, 4.68★, 5.20★\
 *description written by ::Sartan::{ user=4100941 }*
 
-It is quite crazy to think about the fact that the highest difficulty of this map was used as a Hard Rock pick in the Grand Finals of CWC 2017; how far we've come in terms of player skill since then. But I reckon that even the players that have improved massively since will still enjoy seeing this classic in this week's round of loved maps. *snow storm -euphoria-* is a non-extreme, 4 difficulty set created by ::Spectator::{ user=702598 } in collaboration with ::Minato Yukina::{ user=531253 }, [Kyuare](https://osu.ppy.sh/users/2705312) and ::Rocma::{ user=566276 }. Despite its serious quality in 2017 it unfortunately never got the chance to become ranked.
+It is quite crazy to think about the fact that the highest difficulty of this map was used as a Hard Rock pick in the Grand Finals of CWC 2017; how far we've come in terms of player skill since then. But I reckon that even the players that have improved massively since will still enjoy seeing this classic in this week's round of loved maps. *snow storm -euphoria-* is a non-extreme, 4 difficulty set created by ::Spectator::{ user=702598 } in collaboration with ::Minato Yukina::{ user=531253 }, ::Kyuare::{ user=2705312 } and ::Rocma::{ user=566276 }. Despite its serious quality in 2017 it unfortunately never got the chance to become ranked.
 
 So, here we are! Considering the fact that the northern hemisphere is starting to become somewhat cold again, it made sense to prepare ourselves for the coming snowstorms. The map consists of a mix of jumps, short streams, and a bit of a difficulty increase for its kiai. Most players will certainly be comfortable playing one of the difficulties, but adding mods to the map imbues it with new life and makes it challenging again (without any oddities)! To the crazies out there: double time may certainly be an option for the highest difficulty by now...
 
@@ -351,7 +351,7 @@ Either way, here's to another Kyuare map in our 2023 curriculum of loved maps. J
 220 BPM, 8:12 | 8.71★\
 *description written by ::Sartan::{ user=4100941 }*
 
-You might see a returning theme here if you visited the [snow storm -euphoria-](https://osu.ppy.sh/beatmapsets/467816#fruits/1000764) map voting before this one; another [CWC 2017](/wiki/Tournaments/CWC/2017) grand final map! This time, it's from a name we have technically only seen once if we consider their guest participation in a ::Rocma::{ user=566276 } map, namely [Last Bubble](https://osu.ppy.sh/users/1302259)!
+You might see a returning theme here if you visited the [snow storm -euphoria-](https://osu.ppy.sh/beatmapsets/467816#fruits/1000764) map voting before this one; another [CWC 2017](/wiki/Tournaments/CWC/2017) grand final map! This time, it's from a name we have technically only seen once if we consider their guest participation in a ::Rocma::{ user=566276 } map, namely ::Last Bubble::{ user=1302259 }!
 
 They may not be the most consistently active mapper, but they sure made a great mark on osu!catch history after their effort on this cracking tiebreaker. Most people are surely already familiar with the type of music that our lovely featured artist Imperial Circus Dead Decadence makes, and what types of beatmaps it allows to manifest. *Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo* has \*MANY STREAMSSSSS\*, many many many \*STREAMSSSSSSSSSSSS\*. This 8-minute-long finger breaker is freaking rough, simply said. There's no magic behind it, you just need tons of stamina and focus in order to complete this behemoth, let alone get anything resembling a full combo. Again, this one is for the top players in our midst.
 
@@ -375,7 +375,7 @@ Thanks once more for all the great times, love you all dearly 😊.
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::-NoName-::{ user=10400730 }, [elexire](https://osu.ppy.sh/users/9206093), ::kadoen::{ user=12780575 }, [Mipha-](https://osu.ppy.sh/users/5767941), ::Paturages::{ user=1375479 }, [SunApple](https://osu.ppy.sh/users/11817622), and ::YuEast 2018::{ user=13953619 }!
+The osu!mania Loved candidates were chosen by ::-NoName-::{ user=10400730 }, ::elexire::{ user=9206093 }, ::kadoen::{ user=12780575 }, ::Mipha-::{ user=5767941 }, ::Paturages::{ user=1375479 }, ::SunApple::{ user=11817622 }, and ::YuEast 2018::{ user=13953619 }!
 
 <div align="center">
   <video width="95%" controls>
@@ -456,11 +456,11 @@ Not to mention, rates are also featured here if you thought 1.0 wasn't hard enou
 
 [![](/wiki/shared/news/2023-11-22-project-loved-november-2023/704152.jpg)](https://osu.ppy.sh/community/forums/topics/1848287)
 
-[Cardboard Box - The Limit Does Not Exist](https://osu.ppy.sh/beatmapsets/704152#mania) by ::Asherz007::{ user=9014047 }, [Feerum](https://osu.ppy.sh/users/4815717), and ::Mentholzzz::{ user=7182779 }\
+[Cardboard Box - The Limit Does Not Exist](https://osu.ppy.sh/beatmapsets/704152#mania) by ::Asherz007::{ user=9014047 }, ::Feerum::{ user=4815717 }, and ::Mentholzzz::{ user=7182779 }\
 260 BPM, 1:55 | 1.17★ – 5.95★\
 *description written by ::elexire::{ user=9206093 }*
 
-For our popularity pick, we'll be introducing [The Limit Does Not Exist](https://osu.ppy.sh/beatmapsets/704152#mania/1490013) by ::Asherz007::{ user=9014047 }, featuring guest difficulties by ::Mentholzzz::{ user=7182779 } and [Feerum](https://osu.ppy.sh/users/4815717)!
+For our popularity pick, we'll be introducing [The Limit Does Not Exist](https://osu.ppy.sh/beatmapsets/704152#mania/1490013) by ::Asherz007::{ user=9014047 }, featuring guest difficulties by ::Mentholzzz::{ user=7182779 } and ::Feerum::{ user=4815717 }!
 
 This song had a good amount of notoriety due to the [7K set](https://osu.ppy.sh/beatmapsets/379758#mania/831951)'s existence back in the older days of mania's lifespan. This eventually led to the 4K set you see here being uploaded a little over two years after. Having the same intent the 7K one had, you'll find a grand usage of 260 BPM jumpstreams and other 1/4 patterns throughout the higher difficulties. Looking at the bigger picture, however, you've got a full spread of difficulties for easy access to all players looking for more songs to play.
 
@@ -506,13 +506,13 @@ Noodle players across 4K and 7K are eating well this month. Be sure to support E
 
 [![](/wiki/shared/news/2023-11-22-project-loved-november-2023/787750.jpg)](https://osu.ppy.sh/community/forums/topics/1848283)
 
-[NH22 - Corrosion](https://osu.ppy.sh/beatmapsets/787750#mania) by ::drunkenstein::{ user=4565389 } and [eZmmR](https://osu.ppy.sh/users/8647138)\
+[NH22 - Corrosion](https://osu.ppy.sh/beatmapsets/787750#mania) by ::drunkenstein::{ user=4565389 } and ::eZmmR::{ user=8647138 }\
 205 BPM, 3:22 | 8.05★, 8.51★, 10.16★\
 *description written by ::kadoen::{ user=12780575 }*
 
 The onslaught of mixed keycount LN continues with *Corrosion*!
 
-::drunkenstein::{ user=4565389 } and [eZmmR](https://osu.ppy.sh/users/8647138) present us with a spectacle of noodle patterns across both 4K and 7K, all accompanied by a classic Newgrounds nostalgia track by NightHawk22. Both 4K difficulties have similar object counts — but don't be fooled, as \[Virtuoso\] (and especially its ending) is significantly harder than the OD0 \[Scattered Thoughts\].
+::drunkenstein::{ user=4565389 } and ::eZmmR::{ user=8647138 } present us with a spectacle of noodle patterns across both 4K and 7K, all accompanied by a classic Newgrounds nostalgia track by NightHawk22. Both 4K difficulties have similar object counts — but don't be fooled, as \[Virtuoso\] (and especially its ending) is significantly harder than the OD0 \[Scattered Thoughts\].
 
 But let's turn our attention to the 7K \[Masterpiece\]. Did you know eZmmR maps 7K as well? Well now you do! This is definitely not a beginner's work. The music, while important, takes a backstep behind a fantastic array of patterns: hybrid streams, trills, noodle sweeps, shields, reverse shields, everything in between and more, seamlessly transitioning from one to another over the intense synth, piano and guitar techno.
 

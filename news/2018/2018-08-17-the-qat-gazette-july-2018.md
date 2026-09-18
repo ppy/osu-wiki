@@ -35,7 +35,7 @@ As a result of the Beatmap Nominator Re-Evaluations, 49/95 Nominators were retai
 
 Whilst our existing Beatmap Nominators were being reviewed, we were pleased to present a wave of some new and returning circle inspectors to the team. Please offer a warm welcome and congratulations to the following on their admission into the Beatmap Nominators:
 
-::BOUYAAA::{ user=405449 }, [Cris-](https://osu.ppy.sh/users/6175280), ::frogyfro::{ user=7010859 }, [Gottagof4st](https://osu.ppy.sh/users/6122935), ::IceKalt::{ user=5410645 }, [MrSergio](https://osu.ppy.sh/users/2581696), ::pimpG::{ user=328615 }, [riffy](https://osu.ppy.sh/users/597957), ::Rizen::{ user=3056732 }, [Seto Kousuke](https://osu.ppy.sh/users/2857314), ::UndeadCapulet::{ user=2523533 }, [Yauxo](https://osu.ppy.sh/users/898306) and ::Yugu::{ user=3161834 }!
+::BOUYAAA::{ user=405449 }, ::Cris-::{ user=6175280 }, ::frogyfro::{ user=7010859 }, ::Gottagof4st::{ user=6122935 }, ::IceKalt::{ user=5410645 }, ::MrSergio::{ user=2581696 }, ::pimpG::{ user=328615 }, ::riffy::{ user=597957 }, ::Rizen::{ user=3056732 }, ::Seto Kousuke::{ user=2857314 }, ::UndeadCapulet::{ user=2523533 }, ::Yauxo::{ user=898306 } and ::Yugu::{ user=3161834 }!
 
 May their efforts bring you many Ranked-beatmap-sized bundles of happiness over the coming weeks, months, and maybe even years!
 
@@ -43,7 +43,7 @@ May their efforts bring you many Ranked-beatmap-sized bundles of happiness over 
 
 Where some may be taking their first steps as a Nominator, others seek new pastures, new challenges, or perhaps simply a well-deserved rest. We thank the following departees for their tireless efforts and enduring vision:
 
-::Arzenvald::{ user=3027421 }, [incandescence](https://osu.ppy.sh/users/6256027), ::Delis::{ user=1603923 } and [Sorcerer](https://osu.ppy.sh/users/1913190).
+::Arzenvald::{ user=3027421 }, ::incandescence::{ user=6256027 }, ::Delis::{ user=1603923 } and ::Sorcerer::{ user=1913190 }.
 
 ## Within the Quality Assurance Team
 

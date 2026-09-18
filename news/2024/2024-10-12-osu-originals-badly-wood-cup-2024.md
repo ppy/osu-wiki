@@ -51,7 +51,7 @@ See what's in store for yourself:
     <source src="https://assets.ppy.sh/artists/441/Songs/seatrus%20-%20Blank%20society.mp3">
 </audio>
 
-### [katagiri - VIVID ABYSS](https://osu.ppy.sh/beatmapsets/2227434) mapped by ::Altai::{ user=5745865 }, [Lince Cosmico](https://osu.ppy.sh/users/6070370), ::jas::{ user=8920907 } and [toybot](https://osu.ppy.sh/users/2848604)
+### [katagiri - VIVID ABYSS](https://osu.ppy.sh/beatmapsets/2227434) mapped by ::Altai::{ user=5745865 }, ::Lince Cosmico::{ user=6070370 }, ::jas::{ user=8920907 } and ::toybot::{ user=2848604 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/441/Songs/katagiri%20-%20VIVID%20ABYSS.mp3">

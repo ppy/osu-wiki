@@ -45,7 +45,7 @@ Once again, a massive show of appreciation to everyone who entered the contest, 
 
 [A complete listing of all accumulated Olympiad Points can be located here](https://docs.google.com/spreadsheets/d/1_gIDJwTOgIhGr2h4069-r1C-2GHuV--5wtwPywzYsz8/edit?usp=sharing). Updates to the listing will be posted shortly after the conclusion of each contest.
 
-Additional thanks to our hard-working judges ::Electoz::{ user=6485263 }, [Greaper](https://osu.ppy.sh/users/2369776) and ::Sc4v4ng3r::{ user=4838429 } for their time and effort in reviewing all of the submitted entries. Your dedication helps keep contests running and osu! awesome, and for that we are greatly appreciative!
+Additional thanks to our hard-working judges ::Electoz::{ user=6485263 }, ::Greaper::{ user=2369776 } and ::Sc4v4ng3r::{ user=4838429 } for their time and effort in reviewing all of the submitted entries. Your dedication helps keep contests running and osu! awesome, and for that we are greatly appreciative!
 
 If you'd like to check each of the entries for yourselves and decide on your own favourite, [all of the submissions can be downloaded here](https://drive.google.com/open?id=14yiLiftoWE2nMdJ6mj6BkgeAi_EvteE8) for you to dive into!
 

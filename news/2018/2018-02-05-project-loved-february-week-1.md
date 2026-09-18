@@ -51,7 +51,7 @@ A full set of a brutal aim map that disguises itself as a stream map. ::Krimek::
 
 Mazare Party as a song is a collaboration between 3 popular Japanese vocalists, and likewise the map is a collaboration between 3 popular mappers!
 
-::ProfessionalBox::{ user=3250792 }, [Asahina Momoko](https://osu.ppy.sh/users/3650145), and ::Nathan::{ user=4785223 } join forces in a fantastic collab to a fantastic song, with a few lower difficulties by ::toybot::{ user=2848604 } and [NeilPerry](https://osu.ppy.sh/users/841391) to fill out the set.
+::ProfessionalBox::{ user=3250792 }, ::Asahina Momoko::{ user=3650145 }, and ::Nathan::{ user=4785223 } join forces in a fantastic collab to a fantastic song, with a few lower difficulties by ::toybot::{ user=2848604 } and ::NeilPerry::{ user=841391 } to fill out the set.
 
 [![](/wiki/shared/news/2018-02-05-project-loved-february-week-1/osu/responsibility-response.jpg)](https://osu.ppy.sh/community/forums/topics/699480)
 
@@ -161,13 +161,13 @@ Tricky one handed patterns with general stream heavy layering is topped with OD 
 
 [![](/wiki/shared/news/2018-02-05-project-loved-february-week-1/mania/quo-vadis.jpg)](https://osu.ppy.sh/community/forums/topics/699508)
 
-The next submission is Quo Vadis, a mapset by ::JamesHappy::{ user=3901876 }, with guest difficulties from ::arcwinolivirus::{ user=2039089 }, [Evening](https://osu.ppy.sh/users/2193881) and XleonQ.
+The next submission is Quo Vadis, a mapset by ::JamesHappy::{ user=3901876 }, with guest difficulties from ::arcwinolivirus::{ user=2039089 }, ::Evening::{ user=2193881 } and XleonQ.
 
 Featured in various tournaments, this is a 4+7K spread that's mostly consisting of jumpstream/chordstream oriented patterning with some neat SV usage in higher difficulties. The funky vibe of the song combined with flowy and bursty layering creates for a very fun chart that's been very popular over the years, having 83 favourites gained since it's submission in late 2014.
 
 [![](/wiki/shared/news/2018-02-05-project-loved-february-week-1/mania/apollon.jpg)](https://osu.ppy.sh/community/forums/topics/699509)
 
-Another fan favourite, ApolloN is a mapset by (fairly) prolific charters ::bbu2::{ user=4307930 } and [LeiN-](https://osu.ppy.sh/users/2162939). LeiN-, being one of the best 4K charters in 2015, places another feather in his cap with solid 4K difficulties.
+Another fan favourite, ApolloN is a mapset by (fairly) prolific charters ::bbu2::{ user=4307930 } and ::LeiN-::{ user=2162939 }. LeiN-, being one of the best 4K charters in 2015, places another feather in his cap with solid 4K difficulties.
 
 The Hard and Insane difficulties utilised deliberate patterning in a way that not many charters utilised at the time, with beautiful use of repetition and cathartic second halves overall. bbu2's 7K Extreme chart utilises fairly similar concepts (e.g. repetition), and the concepts are executed very well.
 
@@ -175,7 +175,7 @@ Its extant popularity, strong accessibility (a full mapset for two keymodes!) an
 
 [![](/wiki/shared/news/2018-02-05-project-loved-february-week-1/mania/dark-flight-dreamer.jpg)](https://osu.ppy.sh/community/forums/topics/699510)
 
-Once again, ::PiraTom::{ user=1847698 } and [inteliser](https://osu.ppy.sh/users/1824775) pull off an enjoyable LN chart which still stands as a popular challenge today.
+Once again, ::PiraTom::{ user=1847698 } and ::inteliser::{ user=1824775 } pull off an enjoyable LN chart which still stands as a popular challenge today.
 
 This is a quick, dense and varied semi-finals pick in 2016 meaning that this chart certainly doesn't mess about, and getting that full combo may be easier said than done. That said, good luck!
 

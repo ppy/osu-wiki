@@ -31,7 +31,7 @@ PS: The preview videos are back, please thank our editor ::Yasuho::{ user=845883
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::BATBALL::{ user=15173952 }, [Chaoslitz](https://osu.ppy.sh/users/3621552), ::chiv::{ user=6701656 }, [MALISZEWSKI](https://osu.ppy.sh/users/12408961), ::Petal::{ user=7354729 }, [Plasma](https://osu.ppy.sh/users/10077431), ::Riot::{ user=4256461 }, and [Skill](https://osu.ppy.sh/users/7802027)!
+The osu! Loved candidates were chosen by ::BATBALL::{ user=15173952 }, ::Chaoslitz::{ user=3621552 }, ::chiv::{ user=6701656 }, ::MALISZEWSKI::{ user=12408961 }, ::Petal::{ user=7354729 }, ::Plasma::{ user=10077431 }, ::Riot::{ user=4256461 }, and ::Skill::{ user=7802027 }!
 
 **[Click here to download all of this round's osu! picks!](https://packs.ppy.sh/LR104%20-%20Project%20Loved:%20August%202026%20(osu!).zip)**
 
@@ -69,25 +69,25 @@ Vote Yes. Homura has suffered enough. 😭
 
 [![](/wiki/shared/news/2026-08-27-project-loved-august-2026/1621891.jpg)](https://osu.ppy.sh/community/forums/topics/2239527)
 
-[Dirtyphonics - Night Ride](https://osu.ppy.sh/beatmapsets/1621891#osu) by ::Halgoh::{ user=4109923 }, [Ameth Rianno](https://osu.ppy.sh/users/5219516), and ::NeilPerry::{ user=841391 }\
+[Dirtyphonics - Night Ride](https://osu.ppy.sh/beatmapsets/1621891#osu) by ::Halgoh::{ user=4109923 }, ::Ameth Rianno::{ user=5219516 }, and ::NeilPerry::{ user=841391 }\
 180 BPM, 4:00 | 6.74★, 6.84★\
 *description written by ::chiv::{ user=6701656 }*
 
-Project Loved is picking NM4 this week. Here's our lineup: ::BATBALL::{ user=15173952 }, [MALISZEWSKI](https://osu.ppy.sh/users/12408961), ::Riot::{ user=4256461 }, and [plambob](https://osu.ppy.sh/users/10077431). Brings a tear to my eye seeing *real players* finally on the roster... back in my day we had to run ::"chiv"::{ user=6701656 } and ["Wixonater"](https://osu.ppy.sh/users/10083084). Let's just forfeit the match while we're at it. 😂
+Project Loved is picking NM4 this week. Here's our lineup: ::BATBALL::{ user=15173952 }, ::MALISZEWSKI::{ user=12408961 }, ::Riot::{ user=4256461 }, and ::plambob::{ user=10077431 }. Brings a tear to my eye seeing *real players* finally on the roster... back in my day we had to run ::"chiv"::{ user=6701656 } and ::"Wixonater"::{ user=10083084 }. Let's just forfeit the match while we're at it. 😂
 
-If you've ever wondered where the whole "tournament tech" thing started getting really fun, [Night Ride](https://osu.ppy.sh/beatmapsets/1621891#osu) is a pretty good place to look. As one of the earlier bridges into this new generation of tournament tech, ::Halgoh::{ user=4109923 }'s map helped pioneer a whole wave of tournament players straight out of the wonders of OWC2021. Everything flows together super naturally, so once you get into the rhythm of it, it's hard not to have a good time. For those who want an even crazier throwback, legendary mappers ::Ameth Rianno::{ user=5219516 } and [NeilPerry](https://osu.ppy.sh/users/841391) run the lower difficulty for you to give a shot.
+If you've ever wondered where the whole "tournament tech" thing started getting really fun, [Night Ride](https://osu.ppy.sh/beatmapsets/1621891#osu) is a pretty good place to look. As one of the earlier bridges into this new generation of tournament tech, ::Halgoh::{ user=4109923 }'s map helped pioneer a whole wave of tournament players straight out of the wonders of OWC2021. Everything flows together super naturally, so once you get into the rhythm of it, it's hard not to have a good time. For those who want an even crazier throwback, legendary mappers ::Ameth Rianno::{ user=5219516 } and ::NeilPerry::{ user=841391 } run the lower difficulty for you to give a shot.
 
 So lock in, vote yes, and enjoy the ride! hahaha get it because night ride oh my goodness BWAO BLARH WABWOBWUBWZZZAB
 
 [![](/wiki/shared/news/2026-08-27-project-loved-august-2026/2287939.jpg)](https://osu.ppy.sh/community/forums/topics/2239528)
 
-[XenjeS - Organic's Decay (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2287939#osu) by ::nooj::{ user=8271086 } and [Feiri](https://osu.ppy.sh/users/3214844)\
+[XenjeS - Organic's Decay (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2287939#osu) by ::nooj::{ user=8271086 } and ::Feiri::{ user=3214844 }\
 174 BPM, 4:22 | 8.12★\
 *description written by ::Petal::{ user=7354729 }*
 
 Okay chat, this might be a banger, no... THIS IS A BANGER
 
-PLEASE WELCOME [Organic's Decay](https://osu.ppy.sh/beatmapsets/2287939#osu/4881668) MAPPED BY ::nooj::{ user=8271086 } & [Feiri](https://osu.ppy.sh/users/3214844), TO THE LOVED VOTING THIS AUGUST.
+PLEASE WELCOME [Organic's Decay](https://osu.ppy.sh/beatmapsets/2287939#osu/4881668) MAPPED BY ::nooj::{ user=8271086 } & ::Feiri::{ user=3214844 }, TO THE LOVED VOTING THIS AUGUST.
 
 This is not a drill!!! Organic's Decay is finally here because of overwhelming support and love from the community after its appearance in the 2024 iteration of the standard osu! World Cup. This map was, and still is, known as one of the HARDEST aim-control-slider-tech maps out there. If you haven't seen it yet, seriously, this is not for the faint-hearted.
 
@@ -157,7 +157,7 @@ If you also wish for this map to have a leaderboard, make sure to vote YES!
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::chmekoe::{ user=7807444 }, [Eriha](https://osu.ppy.sh/users/16320311), ::K a y o k o::{ user=17664300 }, [nevqr](https://osu.ppy.sh/users/14269506), and ::Roxy-::{ user=11931563 }!
+The osu!taiko Loved candidates were chosen by ::chmekoe::{ user=7807444 }, ::Eriha::{ user=16320311 }, ::K a y o k o::{ user=17664300 }, ::nevqr::{ user=14269506 }, and ::Roxy-::{ user=11931563 }!
 
 **[Click here to download all of this round's osu!taiko picks!](https://packs.ppy.sh/LR103%20-%20Project%20Loved:%20August%202026%20(osu!taiko).zip)**
 
@@ -240,7 +240,7 @@ Be sure to play the map yourself and decide if it deserves to be Loved!
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::Des9::{ user=5404711 }, [Jakkubon](https://osu.ppy.sh/users/3396013), ::mieldeprairie::{ user=19290397 }, [MILK\_16](https://osu.ppy.sh/users/9137627), and ::Natsuko::{ user=8266817 }!
+The osu!catch Loved candidates were chosen by ::Des9::{ user=5404711 }, ::Jakkubon::{ user=3396013 }, ::mieldeprairie::{ user=19290397 }, ::MILK\_16::{ user=9137627 }, and ::Natsuko::{ user=8266817 }!
 
 **[Click here to download all of this round's osu!catch picks!](https://packs.ppy.sh/LR102%20-%20Project%20Loved:%20August%202026%20(osu!catch).zip)**
 
@@ -328,7 +328,7 @@ In summary, if you want to see something unusual, made with passion or you are j
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::BKwind::{ user=8900975 }, [Carpihat](https://osu.ppy.sh/users/10085090), ::elexire::{ user=9206093 }, [ExNeko](https://osu.ppy.sh/users/7590894), ::LivelyPeninsula::{ user=11517895 }, [myucchii](https://osu.ppy.sh/users/10072733), ::Nepijin::{ user=11734610 }, [Oceanus](https://osu.ppy.sh/users/9164100), ::Paturages::{ user=1375479 }, and [Yuiesta](https://osu.ppy.sh/users/13953619)!
+The osu!mania Loved candidates were chosen by ::BKwind::{ user=8900975 }, ::Carpihat::{ user=10085090 }, ::elexire::{ user=9206093 }, ::ExNeko::{ user=7590894 }, ::LivelyPeninsula::{ user=11517895 }, ::myucchii::{ user=10072733 }, ::Nepijin::{ user=11734610 }, ::Oceanus::{ user=9164100 }, ::Paturages::{ user=1375479 }, and ::Yuiesta::{ user=13953619 }!
 
 **[Click here to download all of this round's osu!mania picks!](https://packs.ppy.sh/LR101%20-%20Project%20Loved:%20August%202026%20(osu!mania).zip)**
 
@@ -342,7 +342,7 @@ The osu!mania Loved candidates were chosen by ::BKwind::{ user=8900975 }, [Carpi
 
 [![](/wiki/shared/news/2026-08-27-project-loved-august-2026/2031975.jpg)](https://osu.ppy.sh/community/forums/topics/2239502)
 
-[Camellia - GHOUL](https://osu.ppy.sh/beatmapsets/2031975#mania) by ::Orca-::{ user=7958845 }, [Archaic84](https://osu.ppy.sh/users/8611177), ::awdse22::{ user=8743513 }, [BlackyDay](https://osu.ppy.sh/users/5724831), ::Neon-Hooray::{ user=24058560 }, [NovaSagittarii](https://osu.ppy.sh/users/11664177), and ::RuleBlazing::{ user=7312402 }\
+[Camellia - GHOUL](https://osu.ppy.sh/beatmapsets/2031975#mania) by ::Orca-::{ user=7958845 }, ::Archaic84::{ user=8611177 }, ::awdse22::{ user=8743513 }, ::BlackyDay::{ user=5724831 }, ::Neon-Hooray::{ user=24058560 }, ::NovaSagittarii::{ user=11664177 }, and ::RuleBlazing::{ user=7312402 }\
 230 BPM, 4:17 | 4.55★, 4.55★\
 *description written by ::Paturages::{ user=1375479 }*
 
@@ -476,7 +476,7 @@ In my personal view, this map is almost the pioneer that defined the tournament 
 
 [![](/wiki/shared/news/2026-08-27-project-loved-august-2026/1835030.jpg)](https://osu.ppy.sh/community/forums/topics/2239510)
 
-[Tatsuro Yamashita - RIDE ON TIME (Rainych & evening cinema Cover)](https://osu.ppy.sh/beatmapsets/1835030#mania) by ::taba2::{ user=7850508 }, [Bomber E7](https://osu.ppy.sh/users/23158819), and ::qodtjr::{ user=3021168 }\
+[Tatsuro Yamashita - RIDE ON TIME (Rainych & evening cinema Cover)](https://osu.ppy.sh/beatmapsets/1835030#mania) by ::taba2::{ user=7850508 }, ::Bomber E7::{ user=23158819 }, and ::qodtjr::{ user=3021168 }\
 120.5 BPM, 4:17 | 6.41★\
 *description written by ::Carpihat::{ user=10085090 }*
 

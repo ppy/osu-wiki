@@ -74,7 +74,7 @@ As a reminder of the various core values in the difficulty calculation algorithm
 
 ### Combo scaling removal
 
-This is the change you're most likely already familiar with, due to the extensive public discourse on various social media. It's ::moonpoint::{ user=9558549 } and [KermitNuggies](https://osu.ppy.sh/users/33452559)'s [performance algorithm change](https://github.com/ppy/osu/pull/16280) to remove the "combo scaling factor" applied to the aim and speed portions of performance points.
+This is the change you're most likely already familiar with, due to the extensive public discourse on various social media. It's ::moonpoint::{ user=9558549 } and ::KermitNuggies::{ user=33452559 }'s [performance algorithm change](https://github.com/ppy/osu/pull/16280) to remove the "combo scaling factor" applied to the aim and speed portions of performance points.
 
 In short, missing used to be more punishing when missing in the middle of a map compared to the beginning or end, since in the latter case you'd get more combo. Now, plays with the same amount of misses will give about the same amount of pp, no matter where the misses occur.
 

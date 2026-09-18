@@ -47,7 +47,7 @@ This stage, we saw a total of 39 picks and 14 bans across 7 complete matches.
 
 Picks were fairly balanced across the board, with the exception of [Falcom Sound Team J.D.K. - Phantasmagoria](https://osu.ppy.sh/beatmaps/293691&m=3) and [she - gum](https://osu.ppy.sh/beatmaps/1546340&m=3) - both were banned a total of 6 times each. [she - Is This Love [osu!mania Speedmapping Challenge #5]](https://osu.ppy.sh/beatmaps/1206690&m=3) was the most popular pick this weekend, having been played in 6 out of 7 matches.
 
-For full details, please refer to the [statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSzdrbcYPggEJ2gRz_2nct0KfPa6ZJmD3T-mRT6XD7Ci4MhvzYyjguqQ--uYVkYZR5Sdf-pr3oEEOx9/pubhtml#) compiled by ::Nwolf::{ user=1910766 } and [deadbeat](https://osu.ppy.sh/users/128370)!
+For full details, please refer to the [statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSzdrbcYPggEJ2gRz_2nct0KfPa6ZJmD3T-mRT6XD7Ci4MhvzYyjguqQ--uYVkYZR5Sdf-pr3oEEOx9/pubhtml#) compiled by ::Nwolf::{ user=1910766 } and ::deadbeat::{ user=128370 }!
 
 ## Tournament Matches
 

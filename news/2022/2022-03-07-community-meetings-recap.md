@@ -9,7 +9,7 @@ Check out what's been happening in the new community meetings, and fill out a ne
 
 ![](https://assets.ppy.sh/media/generic-header.png)
 
-If you're not in the know, we've been hosting [community meetings](/wiki/Community/osu!_community_meetings) since mid-September in 2021. Originally, these meetings were a Q&A-style panel featuring ::peppy::{ user=2 }, [smoogipoo](https://osu.ppy.sh/users/1040328) and ::Ephemeral::{ user=102335 } as they tackled specific topics and open questions from the community at large, mostly regarding the future of the game with things like lazer.
+If you're not in the know, we've been hosting [community meetings](/wiki/Community/osu!_community_meetings) since mid-September in 2021. Originally, these meetings were a Q&A-style panel featuring ::peppy::{ user=2 }, ::smoogipoo::{ user=1040328 } and ::Ephemeral::{ user=102335 } as they tackled specific topics and open questions from the community at large, mostly regarding the future of the game with things like lazer.
 
 Not familiar with what lazer is? Check out this brief overview:
 

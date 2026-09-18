@@ -22,4 +22,4 @@ tags:
 
 ## Примечания
 
-[^name-example]: Например, в карте [masazi - mayday B](https://osu.ppy.sh/beatmapsets/74277#osu/233068) от ::Vass\_Bass::{ user=188248 } есть коллаб с [Reiji-RJ](https://osu.ppy.sh/users/305389), названный "Vass-RJ".
+[^name-example]: Например, в карте [masazi - mayday B](https://osu.ppy.sh/beatmapsets/74277#osu/233068) от ::Vass\_Bass::{ user=188248 } есть коллаб с ::Reiji-RJ::{ user=305389 }, названный "Vass-RJ".

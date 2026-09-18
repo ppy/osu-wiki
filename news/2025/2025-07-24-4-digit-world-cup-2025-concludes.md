@@ -171,7 +171,7 @@ Congratulations on making it to the podium! What would you say were the key fact
 
 I'd say the biggest factor was simply the team's overall improvement between 2024 and 2025. We all grew as players and worked on our weaker skillsets after last year's run, which added a lot of depth to the lineup.
 
-Another key factor, just as important in my opinion, was bringing in ::Kuba -::{ user=9322480 } and [BadAimBoi](https://osu.ppy.sh/users/7009485), two very solid tapping players. In 2024, our tapping roster consisted of just me, ::szedis::{ user=14282987 }, and [hedayo](https://osu.ppy.sh/users/9323821) — we never really had a comfortable fourth player. It was our weakest skillset that year by a significant margin, but with their addition, we turned our biggest weakness into arguably our biggest strength. What used to be a skillset we dreaded and tried to avoid as much as possible became a core part of our picking strategy.
+Another key factor, just as important in my opinion, was bringing in ::Kuba -::{ user=9322480 } and ::BadAimBoi::{ user=7009485 }, two very solid tapping players. In 2024, our tapping roster consisted of just me, ::szedis::{ user=14282987 }, and ::hedayo::{ user=9323821 } — we never really had a comfortable fourth player. It was our weakest skillset that year by a significant margin, but with their addition, we turned our biggest weakness into arguably our biggest strength. What used to be a skillset we dreaded and tried to avoid as much as possible became a core part of our picking strategy.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10000899" style="background-image: url('/wiki/shared/avatars/shdewz.jpg')"></a>
 
@@ -197,7 +197,7 @@ Poland has been on an upward trend in 4WC. Do you think the potential inclusion 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/14100781">hav</a></p>
 
-As it stands, we'd lose a big portion of our core roster with BWS involved: ::szedis::{ user=14282987 }, [eniu](https://osu.ppy.sh/users/5472693), ::Asriel::{ user=11308471 }, and most likely ::Kosiarek::{ user=9086565 } as he's been planning on ranking up soon. It'd be a big loss, but there are a lot of up-and-coming faces in the Polish 4 digit scene to help fill those gaps. ::squarem::{ user=4740837 } is one of the standouts, and I'm sure others will show up in due time, so I believe we'd be able to rebuild pretty well.
+As it stands, we'd lose a big portion of our core roster with BWS involved: ::szedis::{ user=14282987 }, ::eniu::{ user=5472693 }, ::Asriel::{ user=11308471 }, and most likely ::Kosiarek::{ user=9086565 } as he's been planning on ranking up soon. It'd be a big loss, but there are a lot of up-and-coming faces in the Polish 4 digit scene to help fill those gaps. ::squarem::{ user=4740837 } is one of the standouts, and I'm sure others will show up in due time, so I believe we'd be able to rebuild pretty well.
 
 As for how we'd compare to other teams, right now it's hard to say. Most of the top contenders would take a big hit and have to rebuild, some nearly from scratch. From what I've seen, the United States would get hit the hardest, losing more than half of their current roster, so it'd definitely shake things up and level the playing field a bit. Only time will really tell how it all plays out.
 

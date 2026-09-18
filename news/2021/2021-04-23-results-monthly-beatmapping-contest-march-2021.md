@@ -44,7 +44,7 @@ Yep, there's two! Final scores (both raw and standardized) were practically tied
 
 Despite scoring similarly, these maps couldn't be more different. Oriental's is a high-effort storyboard/skinning/keysounding/concept-mapping moshpit that would've scored considerably higher if it actually focused on the "no 1/4 sliders" limitation. Meanwhile, Mao's nearly 7-star entry was a riskier mapping venture featuring "incredibly based doubles" according to screener ::Chugger::{ user=4491713 }.
 
-The runner-up spot isn't enough to earn Oriental any prizes, but Mao was on the cusp of earning the ***Elite Mapper*** title and this finally pushed him over the edge. Congratulations to Mao for joining ::hypercyte::{ user=9155377 } and [xbopost](https://osu.ppy.sh/users/6842421) as mappers who've earned this prestigious title through the Monthly Beatmapping Contest!
+The runner-up spot isn't enough to earn Oriental any prizes, but Mao was on the cusp of earning the ***Elite Mapper*** title and this finally pushed him over the edge. Congratulations to Mao for joining ::hypercyte::{ user=9155377 } and ::xbopost::{ user=6842421 } as mappers who've earned this prestigious title through the Monthly Beatmapping Contest!
 
 ### Screening crew #1
 
@@ -84,12 +84,12 @@ Nifty is halfway towards receiving the MBC profile badge. Another win could be e
 
 Congratulations again to all the winners! Be sure to check the [MBC leaderboards](/wiki/Contests/Monthly_Beatmapping_Contest#points) to see how close everyone is to the prize thresholds. And as with every month, we'd like to spread appreciation to everyone who helped make it possible.
 
-For osu!, thanks to ::Noffy::{ user=1541323 }, [Uberzolik](https://osu.ppy.sh/users/1314547), ::Nozhomi::{ user=2716981 }, [Cheri](https://osu.ppy.sh/users/5226970), ::Agatsu::{ user=5579871 }, [Daycore](https://osu.ppy.sh/users/5596337), ::Akito::{ user=5716327 },  [Aistre](https://osu.ppy.sh/users/4879380), ::Fisky::{ user=8352623 }, [Jacob](https://osu.ppy.sh/users/2786413), and  ::Chugger::{ user=4491713 } for screening this month's entries, as well as ::Nuvolina::{ user=10974170 }, [xbopost](https://osu.ppy.sh/users/6842421), ::Seolv::{ user=8067876 }, [UberFazz](https://osu.ppy.sh/users/8646059), ::AJT::{ user=3181083 }, and [Mazzerin](https://osu.ppy.sh/users/2942381) for judging this month's finalists.
+For osu!, thanks to ::Noffy::{ user=1541323 }, ::Uberzolik::{ user=1314547 }, ::Nozhomi::{ user=2716981 }, ::Cheri::{ user=5226970 }, ::Agatsu::{ user=5579871 }, ::Daycore::{ user=5596337 }, ::Akito::{ user=5716327 },  ::Aistre::{ user=4879380 }, ::Fisky::{ user=8352623 }, ::Jacob::{ user=2786413 }, and  ::Chugger::{ user=4491713 } for screening this month's entries, as well as ::Nuvolina::{ user=10974170 }, ::xbopost::{ user=6842421 }, ::Seolv::{ user=8067876 }, ::UberFazz::{ user=8646059 }, ::AJT::{ user=3181083 }, and ::Mazzerin::{ user=2942381 } for judging this month's finalists.
 
-And thanks to ::Ulqui::{ user=1263669 }, [Capu](https://osu.ppy.sh/users/2474015), ::\1Zeth\1::{ user=9912966 }, [Axer](https://osu.ppy.sh/users/7299864), ::Cynplytholowazy::{ user=3901754 }, [Stefan](https://osu.ppy.sh/users/626907), ::davidminh0111::{ user=9623142 }, and [cdhsausageboy](https://osu.ppy.sh/users/2403621) for making the first osu!taiko MBC a reality!
+And thanks to ::Ulqui::{ user=1263669 }, ::Capu::{ user=2474015 }, ::\1Zeth\1::{ user=9912966 }, ::Axer::{ user=7299864 }, ::Cynplytholowazy::{ user=3901754 }, ::Stefan::{ user=626907 }, ::davidminh0111::{ user=9623142 }, and ::cdhsausageboy::{ user=2403621 } for making the first osu!taiko MBC a reality!
 
 This isn't the end of the road for the Monthly Beatmapping Contest. [April's MBC](https://osu.ppy.sh/home/news/2021-04-08-monthly-beatmapping-contest-april-2021) will continue accepting entries for the next 3 days, so put on your speedmapping shoes and get running.
 
-And in case you're looking for *even more results*, winners for [A Labour of Love](https://osu.ppy.sh/community/contests/115) will be announced on a live stream this Sunday on the [osulive Twitch channel](https://www.twitch.tv/osulive) with commentary from ::pishifat::{ user=3178418 }, [Uberzolik](https://osu.ppy.sh/users/1314547), and ::Ephemeral::{ user=102335 }. See you there around 17:00 UTC!
+And in case you're looking for *even more results*, winners for [A Labour of Love](https://osu.ppy.sh/community/contests/115) will be announced on a live stream this Sunday on the [osulive Twitch channel](https://www.twitch.tv/osulive) with commentary from ::pishifat::{ user=3178418 }, ::Uberzolik::{ user=1314547 }, and ::Ephemeral::{ user=102335 }. See you there around 17:00 UTC!
 
 —pishifat & radar

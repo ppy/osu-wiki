@@ -12,7 +12,7 @@ Judging the staggering number of entries submitted to Aspire was no small task. 
 
 In a shocking upheaval that left us utterly astonished, ::Charles445::{ user=85000 } broke away from a _two way tie for second place_ between ThEBonzi and ::fartownik::{ user=56917 } with _a single point_, leaving him with a cumulative score of 142 compared to the 141 of the runners up.
 
-Honorable mentions go to ::Low::{ user=976963 } and [Damnae](https://osu.ppy.sh/users/989377), who tied for third place each with a score of 140.
+Honorable mentions go to ::Low::{ user=976963 } and ::Damnae::{ user=989377 }, who tied for third place each with a score of 140.
 
 We were all surprised and amazed by the sheer range of entries we received, with some players utilizing clever storyboarding techniques to alter their maps dramatically, with others opting to go for huge design and placement changes that set themselves apart from their peers. So impressed, infact, that we will be considering hosting another Aspire-style MBC in the near future across a variety of genres and gamemodes. Look forward to it! We've also decided to approve the winning map for ranked play, but be warned - it is harder than possibly anything you've played yet!
 

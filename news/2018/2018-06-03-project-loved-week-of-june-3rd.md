@@ -34,14 +34,14 @@ Alright then, let's jump right in!
 
 [![](/wiki/shared/news/2018-06-03-project-loved-week-of-june-3rd/osu/angel-with-a-shotgun-nightcore-mix-.jpg)](https://osu.ppy.sh/community/forums/topics/755746)
 
-[The Cab - Angel With A Shotgun (Nightcore Mix)](https://osu.ppy.sh/beatmapsets/53317) by ::Piscis::{ user=540992 }, [Giffen](https://osu.ppy.sh/users/903117) and ::Bakari::{ user=597957 }\
+[The Cab - Angel With A Shotgun (Nightcore Mix)](https://osu.ppy.sh/beatmapsets/53317) by ::Piscis::{ user=540992 }, ::Giffen::{ user=903117 } and ::Bakari::{ user=597957 }\
 *written by ::Toy::{ user=2757689 }*
 
 Here's a map dating back to 2012 and most recently updated in 2016. Piscis's Angel With A Shotgun can most likely attribute its 400+ favorites level of popularity to being a Nightcore Mix of a popular English song. However, this shouldn't detract from the mapset being of good quality. Even after receiving a healthy number of mods, the map never saw the ranked section. Now it has a chance to boast its own leaderboard featuring guest difficulties from Giffen and Bakari.
 
 [![](/wiki/shared/news/2018-06-03-project-loved-week-of-june-3rd/osu/paradigm-shift.jpg)](https://osu.ppy.sh/community/forums/topics/755747)
 
-[Morimori Atsushi - Paradigm Shift](https://osu.ppy.sh/beatmapsets/432589) by ::Avena::{ user=2198472 }, [P o M u T a](https://osu.ppy.sh/users/610988) and ::toybot::{ user=2848604 }\
+[Morimori Atsushi - Paradigm Shift](https://osu.ppy.sh/beatmapsets/432589) by ::Avena::{ user=2198472 }, ::P o M u T a::{ user=610988 } and ::toybot::{ user=2848604 }\
 *written by ::Kaifin::{ user=2596942 }*
 
 Paradigm Shift is one of Avena's most popular mapsets, and is a fitting map to mark his Loved debut. If you're a fan of his signature technical style seen in maps such as [Internet Bitch](https://osu.ppy.sh/beatmapsets/296198#osu/665149) and [Critical Crystal](https://osu.ppy.sh/beatmapsets/199535#osu/473210), then you will surely enjoy this map as well! There's a full spread of difficulties, including a fantastic Extra by P o M u T a, which is definitely worth checking out!
@@ -159,7 +159,7 @@ After many insane gimmick beatmaps going into Loved polls, here's something more
 
 [![](/wiki/shared/news/2018-06-03-project-loved-week-of-june-3rd/catch/r-u-still-xxxx-.jpg)](https://osu.ppy.sh/community/forums/topics/755776)
 
-[Camellia - R U Still xxxx?](https://osu.ppy.sh/beatmapsets/433615) by ::INO::{ user=904219 } and [Milquar](https://osu.ppy.sh/users/5878453)\
+[Camellia - R U Still xxxx?](https://osu.ppy.sh/beatmapsets/433615) by ::INO::{ user=904219 } and ::Milquar::{ user=5878453 }\
 *written by ::SartNYAN OwO xD::{ user=4100941 }*
 
 This fast, break beatin' map from INO and Milquar has been one of the most well received and fun maps to play in multiplayer lobbies among high end players since its release in 2016. In this map you will find tons of difficult streaming, jumping and tap dashing sections, which will definitely satisfy and entertain you for quite a handful of tries, if you are skillful enough to actually play the map that is. With it's higher than average amount of favourites for an osu!catch map, this map definitely deserves a spot in the loved section in our opinion, so give it a spin!
@@ -198,7 +198,7 @@ What makes NS18 stand out from other charts that are similarly popular in compet
 
 [![](/wiki/shared/news/2018-06-03-project-loved-week-of-june-3rd/mania/dans-la-mer-de-son.jpg)](https://osu.ppy.sh/community/forums/topics/755785)
 
-[Camellia - Dans la mer de son](https://osu.ppy.sh/beatmapsets/556824) by ::Jinjin::{ user=3360737 } and [TheToaphster](https://osu.ppy.sh/users/7616811)\
+[Camellia - Dans la mer de son](https://osu.ppy.sh/beatmapsets/556824) by ::Jinjin::{ user=3360737 } and ::TheToaphster::{ user=7616811 }\
 *written by ::Shoegazer::{ user=2520707 }*
 
 Camellia's Dans la mer de son is among Camellia's most progressive and atmospheric tracks, and it would make sense for it to be charted multiple times by multiple charters in osu!mania. Among all of the mapsets for Dans la mer de son, the mapset made by notorious PP 7K charter Jinjin and up-and-coming 4K charter TheToaphster stands out for not only the difficulties' musical relevance but also their memorability.
@@ -240,7 +240,7 @@ It also has an SV-based difficulty that makes everything much harder than it is;
 
 [![](/wiki/shared/news/2018-06-03-project-loved-week-of-june-3rd/mania/wizdomiot.jpg)](https://osu.ppy.sh/community/forums/topics/755789)
 
-[LeaF - Wizdomiot](https://osu.ppy.sh/beatmapsets/483389) by ::pporse::{ user=4991434 } and [bbu2](https://osu.ppy.sh/users/4307930)\
+[LeaF - Wizdomiot](https://osu.ppy.sh/beatmapsets/483389) by ::pporse::{ user=4991434 } and ::bbu2::{ user=4307930 }\
 *written by ::Kamikaze::{ user=2124783 }*
 
 Next up we have the Korean 7K charting machine pporse and for some, his most iconic chart being put up for the voting now: LeaF - Wizdomiot. This set features a full spread of difficulties for every level of players, from fairly beginner-friendly Normal, through rough streaming in Another, to brutal chordstreaming with bursts on Rational Punishment and to top it off we have bbu2's LN version of the top difficulty being the challenge for extreme masochists.
@@ -249,7 +249,7 @@ It really stands out as one of the most organized and neatly patterned high leve
 
 [![](/wiki/shared/news/2018-06-03-project-loved-week-of-june-3rd/mania/vitalization.jpg)](https://osu.ppy.sh/community/forums/topics/755790)
 
-[nana mizuki - Vitalization](https://osu.ppy.sh/beatmapsets/424715) by ::MoTeSolo::{ user=3155787 } and [W\_B](https://osu.ppy.sh/users/6392061)\
+[nana mizuki - Vitalization](https://osu.ppy.sh/beatmapsets/424715) by ::MoTeSolo::{ user=3155787 } and ::W\_B::{ user=6392061 }\
 *written by ::aitor98::{ user=3154852 }*
 
 Our last pick for the list comes from a long time osu!mania player, a Korean o2 master and charter MoTeSolo and it's one of his staples, Vitalization by nana mizuki. Coming up at ten and a half stars, it shows up how hard a long note chart can be. Shields, inverse chordstreams and staircases, dense chordstream sections mixed with long notes and way more things that will drive us crazy the further we reach into the map.

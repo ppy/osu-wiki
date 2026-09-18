@@ -213,7 +213,7 @@ If you want to know who to get on your team for CTA3, you can check the [stats s
 
 ---
 
-I've very thankful to the staff that helped bring this event to life, because making this many achievements of at least decent quality is no easy task. In addition, ::yandax::{ user=17465623 } and [Alanko](https://osu.ppy.sh/users/14208558) helped greatly with implementing achievements on the CTA server to reduce bugs and my workload. A full list of staff is available on the [CTA Staff page](https://cta.sheppsu.me/credits).
+I've very thankful to the staff that helped bring this event to life, because making this many achievements of at least decent quality is no easy task. In addition, ::yandax::{ user=17465623 } and ::Alanko::{ user=14208558 } helped greatly with implementing achievements on the CTA server to reduce bugs and my workload. A full list of staff is available on the [CTA Staff page](https://cta.sheppsu.me/credits).
 
 I plan to host CTA3 next summer and implement the feedback received from this event, so look forward to that!
 

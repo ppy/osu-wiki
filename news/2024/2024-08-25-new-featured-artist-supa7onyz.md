@@ -41,7 +41,7 @@ Flex your 6K osu!mania prowess with [this unorthodox map](https://osu.ppy.sh/bea
 
 ### Noma Nadeshiko - Sanzu no Kawa Ninngyou Gekijyou
 
-Or if you're into osu!taiko, explore [this map](https://osu.ppy.sh/beatmapsets/2091610) by ::ZTH::{ user=5258461 } and [\[Zeth\]](https://osu.ppy.sh/users/9912966)!
+Or if you're into osu!taiko, explore [this map](https://osu.ppy.sh/beatmapsets/2091610) by ::ZTH::{ user=5258461 } and ::\[Zeth\]::{ user=9912966 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/435/Songs/Noma%20Nadeshiko%20-%20Sanzu%20no%20Kawa%20Ninngyou%20Gekijyou.mp3">

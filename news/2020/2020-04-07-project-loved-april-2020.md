@@ -31,7 +31,7 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ## osu!standard
 
-osu!standard Loved candidates were chosen by ::Bubbleman::{ user=5182050 }, [DigitalHypno](https://osu.ppy.sh/users/4384207) and ::waywern2012::{ user=5870453 }!
+osu!standard Loved candidates were chosen by ::Bubbleman::{ user=5182050 }, ::DigitalHypno::{ user=4384207 } and ::waywern2012::{ user=5870453 }!
 
 ---
 
@@ -53,7 +53,7 @@ RLC's own "AR10 warmup map", and a marathon to boot, this 240 BPM track from t+p
 
 [![](/wiki/shared/news/2020-04-07-project-loved-april-2020/osu/3-duan-di-da-wang-nyanpasu.jpg)](https://osu.ppy.sh/community/forums/topics/1048120)
 
-[Dian Bo Feng - Duan Di Da Wang Nyanpasu](https://osu.ppy.sh/beatmapsets/487585#osu) by ::Startrick::{ user=2782104 } and [Reol](https://osu.ppy.sh/users/1945351)\
+[Dian Bo Feng - Duan Di Da Wang Nyanpasu](https://osu.ppy.sh/beatmapsets/487585#osu) by ::Startrick::{ user=2782104 } and ::Reol::{ user=1945351 }\
 180 BPM, 2:58 | 9.71★, 6.77★\
 *description written by ::DigitalHypno::{ user=4384207 }*
 
@@ -61,7 +61,7 @@ Here's a great map for those of you wishing there were more genuine TAG4 maps in
 
 [![](/wiki/shared/news/2020-04-07-project-loved-april-2020/osu/4-lovely-girls-anthem-cobalt-green-eurobeatremix.jpg)](https://osu.ppy.sh/community/forums/topics/1048119)
 
-[Natsuko Aso - Lovely Girls Anthem (cobalt green EuroBeatRemix)](https://osu.ppy.sh/beatmapsets/199084#osu) by ::Midge::{ user=2226436 } and [cRyo\[iceeicee\]](https://osu.ppy.sh/users/835998)\
+[Natsuko Aso - Lovely Girls Anthem (cobalt green EuroBeatRemix)](https://osu.ppy.sh/beatmapsets/199084#osu) by ::Midge::{ user=2226436 } and ::cRyo\[iceeicee\]::{ user=835998 }\
 152 BPM, 4:09 | 4.64★, 5.23★\
 *description written by ::DigitalHypno::{ user=4384207 }*
 
@@ -77,7 +77,7 @@ This fast-paced 240 BPM map from -Ran Yakumo- will surely take you by surprise, 
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::jyake::{ user=9099822 } and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
+osu!taiko Loved candidates were chosen by ::jyake::{ user=9099822 } and ::nyanmi-1828::{ user=6866480 }!
 
 ---
 
@@ -93,7 +93,7 @@ To celebrate his 300th map, KTYN (a.k.a. KitajimaYN) invited well-known mappers 
 
 [![](/wiki/shared/news/2020-04-07-project-loved-april-2020/taiko/2-ao-to-natsu-katagiri-bootleg-sped-up-ver.jpg)](https://osu.ppy.sh/community/forums/topics/1048114)
 
-[Mrs. GREEN APPLE - Ao to Natsu (katagiri Bootleg) (Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/972227#taiko) by ::HEKUSODASU::{ user=9044692 }, [Shallty](https://osu.ppy.sh/users/6205471) and ::KTYN::{ user=2250574 }\
+[Mrs. GREEN APPLE - Ao to Natsu (katagiri Bootleg) (Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/972227#taiko) by ::HEKUSODASU::{ user=9044692 }, ::Shallty::{ user=6205471 } and ::KTYN::{ user=2250574 }\
 240 BPM, 3:32 | 6.42★, 6.78★, 6.51★\
 *description written by ::jyake::{ user=9099822 }*
 
@@ -101,7 +101,7 @@ Quality! That's all I see in this. It isn't a gimmick or unique concept that mak
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, [Tenshichan](https://osu.ppy.sh/users/1101600), ::Wesley::{ user=2407265 } and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
+osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, ::Tenshichan::{ user=1101600 }, ::Wesley::{ user=2407265 } and ::Yumeno Himiko::{ user=1806962 }!
 
 ---
 
@@ -115,7 +115,7 @@ Starting off the Loved rotation, we have a pretty famous song in the osu!catch c
 
 [![](/wiki/shared/news/2020-04-07-project-loved-april-2020/catch/2-preserved-valkyria.jpg)](https://osu.ppy.sh/community/forums/topics/1048110)
 
-[penoneri - Preserved Valkyria](https://osu.ppy.sh/beatmapsets/420533#fruits) by ::Kyuare::{ user=2705312 }, [Hareimu](https://osu.ppy.sh/users/4138746), ::Lacrima::{ user=4915649 } and [Nelly](https://osu.ppy.sh/users/4741164)\
+[penoneri - Preserved Valkyria](https://osu.ppy.sh/beatmapsets/420533#fruits) by ::Kyuare::{ user=2705312 }, ::Hareimu::{ user=4138746 }, ::Lacrima::{ user=4915649 } and ::Nelly::{ user=4741164 }\
 155 BPM, 1:59 | 5.90★, 3.26★, 4.49★, 2.23★\
 *description written by ::Sartan::{ user=4100941 }*
 
@@ -131,7 +131,7 @@ In Spring one sleeps, unaware of dawn; everywhere one hears crowing birds. The m
 
 [![](/wiki/shared/news/2020-04-07-project-loved-april-2020/catch/4-the-flawless-wings-of-yatagarasu.jpg)](https://osu.ppy.sh/community/forums/topics/1048107)
 
-[Gls - The Flawless Wings of Yatagarasu](https://osu.ppy.sh/beatmapsets/625636#fruits) by ::ExGon::{ user=214187 } and [DakkyChan](https://osu.ppy.sh/users/2107017)\
+[Gls - The Flawless Wings of Yatagarasu](https://osu.ppy.sh/beatmapsets/625636#fruits) by ::ExGon::{ user=214187 } and ::DakkyChan::{ user=2107017 }\
 170 BPM, 3:53 | 15.79★\
 *description written by ::Tenshichan::{ user=1101600 }*
 
@@ -139,13 +139,13 @@ It has been a while, so let's start the new Project Loved rotation with a bang. 
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::lenpai::{ user=5314573 }, [Pope Gadget](https://osu.ppy.sh/users/2288341), ::Shoegazer::{ user=2520707 } and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
+osu!mania Loved candidates were chosen by ::lenpai::{ user=5314573 }, ::Pope Gadget::{ user=2288341 }, ::Shoegazer::{ user=2520707 } and ::Toaph Daddy::{ user=7616811 }!
 
 ---
 
 [![](/wiki/shared/news/2020-04-07-project-loved-april-2020/mania/1-arche.jpg)](https://osu.ppy.sh/community/forums/topics/1048104)
 
-[Camellia - Arche](https://osu.ppy.sh/beatmapsets/1047817#mania) by ::-mint-::{ user=8976576 } and [Kamuy](https://osu.ppy.sh/users/7439226)\
+[Camellia - Arche](https://osu.ppy.sh/beatmapsets/1047817#mania) by ::-mint-::{ user=8976576 } and ::Kamuy::{ user=7439226 }\
 200 BPM, 5:09 | \[4K\] 5.43★
 
 The opener for the osu!mania Loved section's return is a highlight on more than one front. A curator for hype through a multitude of qualities, even a beauty in many respects, and an overall enjoyable time brought by -mint- and Kamuy, it is their chart for *Arche*. Camellia songs are sure to bring the hype, and *Arche* is certainly no exception to that rule. The chart also backs this up beautifully, with many difficult sections covering a vast array of skill sets. Given it was made as a tiebreaker for this past year's osu!mania 4K World Cup, it's no wonder that -mint- and Kamuy made it this way, including speedy bursts, some tech-jacks, minor SVs, and a brutal LN section coming in during the second half, culminating in an extremely all-rounded chart that can appeal to a wide audience. The two's goals were met and more, leading to an overall very positive reception from MWC and beyond, giving it a very fitting place among the Loved nominations.
@@ -159,7 +159,7 @@ snoverpk, as many high-level players know, has his fair share of extremely diffi
 
 [![](/wiki/shared/news/2020-04-07-project-loved-april-2020/mania/3-jumpstream-of-fighters-vol-2b.jpg)](https://osu.ppy.sh/community/forums/topics/1048102)
 
-[(Various Artists) - Jumpstream Of Fighters Vol. 2B](https://osu.ppy.sh/beatmapsets/547215#mania) by ::Leo137::{ user=1177817 }, [Manwon](https://osu.ppy.sh/users/4129020), ::swiftwinter::{ user=3453387 }, [AZVW_2](https://osu.ppy.sh/users/6328227) and ::blazziken::{ user=2544313 }\
+[(Various Artists) - Jumpstream Of Fighters Vol. 2B](https://osu.ppy.sh/beatmapsets/547215#mania) by ::Leo137::{ user=1177817 }, ::Manwon::{ user=4129020 }, ::swiftwinter::{ user=3453387 }, ::AZVW\12::{ user=6328227 } and ::blazziken::{ user=2544313 }\
 200 BPM, 14:19 | \[4K\], 4.74★ – 6.02★\
 The \[(Marathon) - Delete Upon Download\] difficulty is *not* being nominated for Loved.
 
@@ -167,14 +167,14 @@ There's some more StepMania coming your way with about half of a very popular pa
 
 [![](/wiki/shared/news/2020-04-07-project-loved-april-2020/mania/4-the-everlasting-guilty-crown.jpg)](https://osu.ppy.sh/community/forums/topics/1048101)
 
-[EGOIST - The Everlasting Guilty Crown](https://osu.ppy.sh/beatmapsets/789040#mania) by ::eZmmR::{ user=8647138 }, [upan](https://osu.ppy.sh/users/5214397) and ::-Muses-::{ user=9705896 }\
+[EGOIST - The Everlasting Guilty Crown](https://osu.ppy.sh/beatmapsets/789040#mania) by ::eZmmR::{ user=8647138 }, ::upan::{ user=5214397 } and ::-Muses-::{ user=9705896 }\
 172 BPM, 5:18 | \[4K\] 6.35★
 
 eZmmR and upan are back in the Loved nominations with a new face, -Muses-, presenting their collab for *The Everlasting Guilty Crown*! eZmmR fans will immediately know what's up with this pick, and given him and his friends' past endeavors, the style should be more than well known to the community. Very difficult and varying LN patterns, including LN streams, release play, inverse of course, and even the occasional rolly stream to spice things up just a bit. Transitioning between these different skills, whether it's just from normal LN streams to inverse or an entire switch-up in mapping style between eZmmr, upan, and -Muses-, can be very difficult, but it is always satisfying to play and hit properly. The training potential that many of eZmmR's maps share is through the roof, and the fun factor is of course up there too, making it no wonder that they have become the powerhouse in LN charting that they are. *The Everlasting Guilty Crown* proves to be more than a fitting return for eZmmR in the Loved section.
 
 [![](/wiki/shared/news/2020-04-07-project-loved-april-2020/mania/5-sudden-romance.jpg)](https://osu.ppy.sh/community/forums/topics/1048100)
 
-[void - Sudden Romance](https://osu.ppy.sh/beatmapsets/759647#mania) by ::\_underjoy::{ user=2235750 } and [anti-](https://osu.ppy.sh/users/758406)\
+[void - Sudden Romance](https://osu.ppy.sh/beatmapsets/759647#mania) by ::\_underjoy::{ user=2235750 } and ::anti-::{ user=758406 }\
 152 BPM, 4:39 | \[7K\] 6.98★, \[7K\] 7.44★, \[7K\] 8.42★, \[7K\] 5.84★, \[7K\] 6.63★
 
 Chordjack-oriented charts are definitely a rarity in osu!mania 7K, but *Sudden Romance* takes this pattern into full force. Presenting three different levels of difficulties, two of which have short versions, *Sudden Romance* provides 152 BPM 1/3rd chordjack action. Ranging from consistent triples on the lowest diff to continuous 5-note chords with 7-note presses on the top diff, this set should serve as a decent challenge and practice for anyone looking forward to smashing some chords.

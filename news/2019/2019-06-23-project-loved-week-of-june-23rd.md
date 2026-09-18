@@ -24,7 +24,7 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ## osu!standard
 
-osu!standard Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, [-Roxas](https://osu.ppy.sh/users/1986262), ::BeasttrollMC::{ user=3171691 }, [Bubbleman](https://osu.ppy.sh/users/5182050), ::fartownik::{ user=56917 } and [waywern2012](https://osu.ppy.sh/users/5870453)!
+osu!standard Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, ::-Roxas::{ user=1986262 }, ::BeasttrollMC::{ user=3171691 }, ::Bubbleman::{ user=5182050 }, ::fartownik::{ user=56917 } and ::waywern2012::{ user=5870453 }!
 
 ---
 
@@ -46,7 +46,7 @@ You wake up one morning feeling lost and confused. You check your phone—the ye
 
 [![](/wiki/shared/news/2019-06-23-project-loved-week-of-june-23rd/osu/3-witch-doctor.jpg)](https://osu.ppy.sh/community/forums/topics/925116)
 
-[Cartoons - Witch Doctor](https://osu.ppy.sh/beatmapsets/67937#osu) by ::Mara::{ user=194294 } and [DTM9 Nowa](https://osu.ppy.sh/users/5428909)\
+[Cartoons - Witch Doctor](https://osu.ppy.sh/beatmapsets/67937#osu) by ::Mara::{ user=194294 } and ::DTM9 Nowa::{ user=5428909 }\
 136 BPM, 2:53 | 7.40★, 7.41★\
 *description written by ::waywern2012::{ user=5870453 }*
 
@@ -73,7 +73,7 @@ Another galvenize set to grace the voting, this time a set featuring two AR8 dif
 
 [![](/wiki/shared/news/2019-06-23-project-loved-week-of-june-23rd/osu/6-k-y-a-f-a-kill-you-all-fucking-asshole.jpg)](https://osu.ppy.sh/community/forums/topics/925113)
 
-[Camellia - K.Y.A.F.A. (Kill You All Fucking Asshole)](https://osu.ppy.sh/beatmapsets/414034#osu) by ::DeRandom Otaku::{ user=5156153 }, [SnowNiNo\_](https://osu.ppy.sh/users/2506267) and ::Shmiklak::{ user=5504231 }\
+[Camellia - K.Y.A.F.A. (Kill You All Fucking Asshole)](https://osu.ppy.sh/beatmapsets/414034#osu) by ::DeRandom Otaku::{ user=5156153 }, ::SnowNiNo\_::{ user=2506267 } and ::Shmiklak::{ user=5504231 }\
 220 BPM, 3:54 | 1.98★ – 6.41★\
 *description written by ::Bubbleman::{ user=5182050 }*
 
@@ -89,7 +89,7 @@ A staple of multiplayer lobbies from years past, DeRandom Otaku's map of *K.Y.A.
 
 [![](/wiki/shared/news/2019-06-23-project-loved-week-of-june-23rd/osu/8-soitogeta-android-e.jpg)](https://osu.ppy.sh/community/forums/topics/925111)
 
-[Mofu@ - Soitogeta Android e](https://osu.ppy.sh/beatmapsets/119209#osu) by ::Natsuki Nanaka::{ user=1035016 }, [KantoKun](https://osu.ppy.sh/users/1280801) and ::P A N::{ user=1285234 }\
+[Mofu@ - Soitogeta Android e](https://osu.ppy.sh/beatmapsets/119209#osu) by ::Natsuki Nanaka::{ user=1035016 }, ::KantoKun::{ user=1280801 } and ::P A N::{ user=1285234 }\
 190 BPM, 4:16 | 2.12★, 3.52★, 3.84★, 5.06★\
 *description written by ::fartownik::{ user=56917 }*
 
@@ -105,7 +105,7 @@ Artificial voice screaming has never been so pleasant! *Soitogeta Android e* by 
 
 [![](/wiki/shared/news/2019-06-23-project-loved-week-of-june-23rd/osu/10-galaxy-burst.jpg)](https://osu.ppy.sh/community/forums/topics/925109)
 
-[Camellia - GALAXY BURST](https://osu.ppy.sh/beatmapsets/753858#osu) by ::Zaiten::{ user=6482589 } and [AtHeoN](https://osu.ppy.sh/users/1770367)\
+[Camellia - GALAXY BURST](https://osu.ppy.sh/beatmapsets/753858#osu) by ::Zaiten::{ user=6482589 } and ::AtHeoN::{ user=1770367 }\
 201 BPM, 3:56 | 7.19★, 7.33★, 7.64★\
 *description written by ::BeasttrollMC::{ user=3171691 }*
 
@@ -113,7 +113,7 @@ Artificial voice screaming has never been so pleasant! *Soitogeta Android e* by 
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [iceOC](https://osu.ppy.sh/users/5482401), ::jyake::{ user=9099822 } and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
+osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::iceOC::{ user=5482401 }, ::jyake::{ user=9099822 } and ::nyanmi-1828::{ user=6866480 }!
 
 ---
 
@@ -157,7 +157,7 @@ This week, we have a high-BPM map that even the best may stumble at. This map, w
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Tenshichan::{ user=1101600 }, [Sartan](https://osu.ppy.sh/users/4100941), ::Wesley::{ user=2407265 } and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
+osu!catch Loved candidates were chosen by ::Tenshichan::{ user=1101600 }, ::Sartan::{ user=4100941 }, ::Wesley::{ user=2407265 } and ::Yumeno Himiko::{ user=1806962 }!
 
 ---
 
@@ -179,7 +179,7 @@ ExGon is known for his bizarre mapping, and this map is no exception. In fact, I
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::Shoegazer::{ user=2520707 }, [Lenfried-](https://osu.ppy.sh/users/5314573), ::Pope Gadget::{ user=2288341 } and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
+osu!mania Loved candidates were chosen by ::Shoegazer::{ user=2520707 }, ::Lenfried-::{ user=5314573 }, ::Pope Gadget::{ user=2288341 } and ::Toaph Daddy::{ user=7616811 }!
 
 ---
 
@@ -224,7 +224,7 @@ Kawawa makes a comeback to Project Loved with yet another rice-oriented chart. V
 
 From everyone on the Project Loved team, we hope you enjoyed this week's selection, and are looking forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
-In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Noffy::{ user=1541323 }, [huu](https://osu.ppy.sh/users/6044237) and ::Ephemeral::{ user=102335 } for their miscellaneous help in managing Project Loved.
+In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Noffy::{ user=1541323 }, ::huu::{ user=6044237 } and ::Ephemeral::{ user=102335 } for their miscellaneous help in managing Project Loved.
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! You can view the current submissions on the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0). For osu!mania, please use [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSeaGfoQNGMqw4qQcqRPItUZILh2fGwJR6ly6cZNY9OWPXkFhw/viewform) and [this Google sheet](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit) instead.
 

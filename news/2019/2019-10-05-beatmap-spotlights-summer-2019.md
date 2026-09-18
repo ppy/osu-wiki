@@ -15,10 +15,10 @@ The [ranking charts for Summer Spotlights](https://osu.ppy.sh/rankings/osu/chart
 
 First of all, congratulations to the winners of the Spring 2019 Seasonal Spotlights. They will receive 3, 2, and 1 month(s) of supporter for 1st, 2nd, and 3rd place respectively for their achievement!
 
-- **osu!:** ::Toy::{ user=2757689 }, [Woey](https://osu.ppy.sh/users/3792472) and ::xxluizxx47::{ user=4687701 }
-- **osu!taiko:** ::Jaye::{ user=4841352 }, [AlvaroYL](https://osu.ppy.sh/users/6333166) and ::Whulf::{ user=11601107 }
-- **osu!catch:** ::RAMPAGE88::{ user=448547 }, [Predominador](https://osu.ppy.sh/users/4568537) and ::Chatie::{ user=6524765 }
-- **osu!mania:** ::\1Crz\1Satori::{ user=7082178 }, [Stink God](https://osu.ppy.sh/users/7381289) and ::Cryolien::{ user=1626983 }
+- **osu!:** ::Toy::{ user=2757689 }, ::Woey::{ user=3792472 } and ::xxluizxx47::{ user=4687701 }
+- **osu!taiko:** ::Jaye::{ user=4841352 }, ::AlvaroYL::{ user=6333166 } and ::Whulf::{ user=11601107 }
+- **osu!catch:** ::RAMPAGE88::{ user=448547 }, ::Predominador::{ user=4568537 } and ::Chatie::{ user=6524765 }
+- **osu!mania:** ::\1Crz\1Satori::{ user=7082178 }, ::Stink God::{ user=7381289 } and ::Cryolien::{ user=1626983 }
 
 ### Navigation
 
@@ -57,11 +57,11 @@ Mixing of various kinds of aesthetic design ideas, the top difficulty raised the
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/osu/pray.jpg)](https://osu.ppy.sh/beatmapsets/940111)
 
-::Mirash::{ user=2841009 } and [Kalibe](https://osu.ppy.sh/users/3376777) combine their unique styles on the heartrending ending of Satsuriku no Tenshi to produce a wonderfully emotional map.
+::Mirash::{ user=2841009 } and ::Kalibe::{ user=3376777 } combine their unique styles on the heartrending ending of Satsuriku no Tenshi to produce a wonderfully emotional map.
 
 Kalibe's unique movement and rhythm combine with Mirash's distinctive approach to circle patterns in a way that fits this song incredibly well, creating an intensity that doesn't overwhelm the song but engages the player.
 
-Be sure to check out the Insane collaboration between ::Hey lululu::{ user=4086497 } and [Garden](https://osu.ppy.sh/users/2849992) as well, it's absolutely lovely in its own right. And of course, both diffs are complemented by a very technically impressive storyboard by ::Peter::{ user=8623835 }.
+Be sure to check out the Insane collaboration between ::Hey lululu::{ user=4086497 } and ::Garden::{ user=2849992 } as well, it's absolutely lovely in its own right. And of course, both diffs are complemented by a very technically impressive storyboard by ::Peter::{ user=8623835 }.
 
 *written by ::Deca::{ user=9088487 }*
 
@@ -91,7 +91,7 @@ From ImpurePug's pattern-oriented and highly pristine style in the top difficult
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/osu/tokio.jpg)](https://osu.ppy.sh/beatmapsets/913536)
 
-With a familiar artist comes a few familiar faces. Prominent mappers ::Pho::{ user=3624692 } and [Chaoslitz](https://osu.ppy.sh/users/3621552) band together to bring the funkiness of Reol's TOKIO FUNKA to life in a brilliant fashion, with the constant variation of the slider velocities, to the ever-changing rhythm choices, complimenting each tiny detail of the song.
+With a familiar artist comes a few familiar faces. Prominent mappers ::Pho::{ user=3624692 } and ::Chaoslitz::{ user=3621552 } band together to bring the funkiness of Reol's TOKIO FUNKA to life in a brilliant fashion, with the constant variation of the slider velocities, to the ever-changing rhythm choices, complimenting each tiny detail of the song.
 
 Don't forget about the amazing hitsounds, reminiscent of Japanese festivals, immersing the players into the mood. With such effort put into this map, it is sure to leave an everlasting impression.
 
@@ -123,7 +123,7 @@ The map manages to constantly feel fresh throughout its four-minute playtime, bu
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/osu/wasureji.jpg)](https://osu.ppy.sh/beatmapsets/937736)
 
-::Irohas::{ user=4403937 } and [Kalibe](https://osu.ppy.sh/users/3376777) bring their distinctive styles to Wolpis Kater's Wasureiji no Kotonoha to create an engaging yet tranquil atmosphere that reflects the slow, sparse song itself.
+::Irohas::{ user=4403937 } and ::Kalibe::{ user=3376777 } bring their distinctive styles to Wolpis Kater's Wasureiji no Kotonoha to create an engaging yet tranquil atmosphere that reflects the slow, sparse song itself.
 
 A careful, deliberate map culminates with incredibly satisfying slider patterns that manage to convey the calm vocals while not in the slightest overstepping what the song provides.
 
@@ -165,7 +165,7 @@ An airy skip and a chill-paced dance, this map is a fantastic example of blendin
 
 If this song isn't enough to get you hyped then this mapset sure is!
 
-::ScubDomino::{ user=8972308 } with his collaborators ::ImpurePug::{ user=3124248 }, [Lv9](https://osu.ppy.sh/users/7232130), ::Kalibe::{ user=3376777 }, [lewski](https://osu.ppy.sh/users/4980738) and ::KKipalt::{ user=6889573 } set out to deliver a wide range of expressive maps to Shikata Akiko's thunderous piece "TETHE'ALLA \~Tai no Kodomotachi\~".
+::ScubDomino::{ user=8972308 } with his collaborators ::ImpurePug::{ user=3124248 }, ::Lv9::{ user=7232130 }, ::Kalibe::{ user=3376777 }, ::lewski::{ user=4980738 } and ::KKipalt::{ user=6889573 } set out to deliver a wide range of expressive maps to Shikata Akiko's thunderous piece "TETHE'ALLA \~Tai no Kodomotachi\~".
 
 At the forefront stands ScubDomino with a map which feels like a natural extension of the song rather than just another stage in a rhythm game. The high speed combined with the generous circle size allow for each emotional beat of the song to be maximized creating something truly spectacular. In a similar vein, ImpurePug delivers a map not far behind in impact.
 
@@ -209,7 +209,7 @@ If you crave good speed changes combined with complex patterns, be sure to give 
 
 Even though it's a bit short as it is coming from a arcade rhythm game, Dream to Nightmare definitely lives up to the "Good things come in small packages".
 
-Both ::Kqrth::{ user=4115718 }'s top diff which is full of insane 1/6 bursts that can prove quite difficult to pull off and ::\_WWWWWW\_WWWWWW\_::{ user=1981781 }'s and [vrnl](https://osu.ppy.sh/users/4799788) low diffs that are greatly representative of the mood of the song are the reason we bring this mapset to the spotlight this season.
+Both ::Kqrth::{ user=4115718 }'s top diff which is full of insane 1/6 bursts that can prove quite difficult to pull off and ::\_WWWWWW\_WWWWWW\_::{ user=1981781 }'s and ::vrnl::{ user=4799788 } low diffs that are greatly representative of the mood of the song are the reason we bring this mapset to the spotlight this season.
 
 *written by ::Kazu::{ user=920861 }*
 
@@ -218,7 +218,7 @@ Both ::Kqrth::{ user=4115718 }'s top diff which is full of insane 1/6 bursts tha
 Even as a shadow of what his former top diff was, LOVE B.B.B by Zetera is definitely one of the most fun and memorable we have seen this season.
 Consisting of a very consistent mapping across the whole mapset and a very fun-oriented approach we see from ::Zetera::{ user=587737 }'s mapping, this is one of our favourite picks for this season, as it is also easily one of the most carefully crafted maps out there.
 
-But ::xtrem3x::{ user=136385 } and [eiri-](https://osu.ppy.sh/users/3388410)/::Realazy::{ user=918297 }'s diffs don't fall short to it either, with really well polished diff that matches perfectly their spots for this mapset. Congratulations to all of them!
+But ::xtrem3x::{ user=136385 } and ::eiri-::{ user=3388410 }/::Realazy::{ user=918297 }'s diffs don't fall short to it either, with really well polished diff that matches perfectly their spots for this mapset. Congratulations to all of them!
 
 *written by ::Kazu::{ user=920861 }*
 
@@ -258,7 +258,7 @@ The use of simple patterns are a breath of fresh air, keeping movement controlle
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/catch/emperor.jpg)](https://osu.ppy.sh/beatmapsets/979438)
 
-There is no Spotlights without a ::JBHyperion::{ user=4879508 } map. This time he and [Ascendance](https://osu.ppy.sh/users/Ascendance) grouped together and raised the new EMPEROR to the throne.
+There is no Spotlights without a ::JBHyperion::{ user=4879508 } map. This time he and ::Ascendance::{ user=2931883 } grouped together and raised the new EMPEROR to the throne.
 
 The OVERLORD difficulty deature dynamic jumps following the rhythm of the music neatly. Even though that this targets the more experienced players due to the very good flow it is very easy to follow the patterns and provides a good map to those who want to practice on harder difficulties. The second third features some very uncommon slider patterns accompanied with Hypers.
 
@@ -278,7 +278,7 @@ With an Approach Rate of 8.8, you can also give a try with DoubleTime on this ma
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/catch/illusion.jpg?1)](https://osu.ppy.sh/beatmapsets/972887)
 
-Being the first Featured Artist mapset for ::Jemzuu::{ user=7890134 } (Previously known as AJamez), along with the collaboration from ::JBHyperion::{ user=4879508 } and [alienflybot](https://osu.ppy.sh/users/alienflybot), this mapset manages to show challenges with different mapping styles in a neat spread.
+Being the first Featured Artist mapset for ::Jemzuu::{ user=7890134 } (Previously known as AJamez), along with the collaboration from ::JBHyperion::{ user=4879508 } and ::alienflybot::{ user=636114 }, this mapset manages to show challenges with different mapping styles in a neat spread.
 
 Majeure has fun and technical streams with tap dashes and wiggles, which are especially challenging with HD mod on. AFB's Rain proposes a simple and comfortable flow with some 1/4 normal dashes and gimmick 1/6 jumps. Hyperion's Platter focuses on providing varying flow and gimmicky walks, being a wonderful step-up difficulty for newbie players.
 
@@ -312,7 +312,7 @@ In addition, ::Murumoo::{ user=8001433 }'s difficulties are straightforward and 
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/mania/delta.jpg)](https://osu.ppy.sh/beatmapsets/928491)
 
-::Dergo::{ user=7439226 }, [-mint-](https://osu.ppy.sh/users/8976576), and ::\1Kobii::{ user=6209713 }'s d:for the DELTA (Camellia's "PLANETARY//DUBSTEP" Remix) is perhaps one of the most audacious ranked maps this year, and quickly became well known among higher-level players in the osu!mania community due to it's uniqueness in comparison to other maps around its difficulty level.
+::Dergo::{ user=7439226 }, ::-mint-::{ user=8976576 }, and ::\1Kobii::{ user=6209713 }'s d:for the DELTA (Camellia's "PLANETARY//DUBSTEP" Remix) is perhaps one of the most audacious ranked maps this year, and quickly became well known among higher-level players in the osu!mania community due to it's uniqueness in comparison to other maps around its difficulty level.
 
 Dergo's sections start (and end) the song with an exciting technical interpretation of the song, combining light yet tough long note patterns focusing on jacks, long trills, and difficult releases along with intense longer bursts. His attention to detail in the quieter portions of the song is also quite impressive, as he made sure to differentiate different instruments though LN usage, column placements, and repetition.
 
@@ -336,7 +336,7 @@ As the meta of the ranked section continues to morph, the influence and prevalen
 
 ::-MysticEyes::{ user=6253266 } is back again with another mapset, Life is beautiful by Nekomata Master! Though not necessarily representative of his current style, the top difficulty, DAYBREAK, is a technical and intricately designed map filled with bursts and jacks galore, a fun and challenging experience for expert osu!mania players. And the patterns never stop; they just keep coming, and another big part of the challenge is maintaining one's top performance without losing stamina or slipping up.
 
-With the mapset also containing guest difficulties by ::KeppSado::{ user=11085809 }, [Leniane](https://osu.ppy.sh/users/7138602), and ::LeiN-::{ user=2162939 }, it allows for a diverse set of difficulties that create a different experience in each difficulty for a huge range of players. I mean, one could even say that this mapset is ... beautiful.
+With the mapset also containing guest difficulties by ::KeppSado::{ user=11085809 }, ::Leniane::{ user=7138602 }, and ::LeiN-::{ user=2162939 }, it allows for a diverse set of difficulties that create a different experience in each difficulty for a huge range of players. I mean, one could even say that this mapset is ... beautiful.
 
 *written by ::-mint-::{ user=8976576 }*
 
@@ -354,7 +354,7 @@ His sheer creativity made this map quite exciting to play as well as look at in 
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/mania/drug.jpg)](https://osu.ppy.sh/beatmapsets/717251)
 
-::Fontes::{ user=8875919 }, [Wonki](https://osu.ppy.sh/users/7898495), ::Murumoo::{ user=8001433 }, and [Agayers](https://osu.ppy.sh/users/8525528) bring back the hype from Zekk with their creations on "uet - Drug on the Drop (Zekk Remix)".
+::Fontes::{ user=8875919 }, ::Wonki::{ user=7898495 }, ::Murumoo::{ user=8001433 }, and ::Agayers::{ user=8525528 } bring back the hype from Zekk with their creations on "uet - Drug on the Drop (Zekk Remix)".
 
 As what the community expects, Collab Another by Fontes and Wonki features well-balanced SVs and representative 1/2 chordjacks to maximize the excitement from the drop and low bass of the song in great consideration of playability too. Insane by Fontes presents a easier version of Another.
 

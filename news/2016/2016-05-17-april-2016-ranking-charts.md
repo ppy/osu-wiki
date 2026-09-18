@@ -10,7 +10,7 @@ Time went by pretty fast! One year ago, we started with giving individual commun
 
 With that being said, we are heading to the current Ranking Charts for April 2016 which have been released yesterday and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1604)!
 
-This month ::Andrea::{ user=33599 }, [S a n d](https://osu.ppy.sh/users/676578), ::Kingkevin30::{ user=564334 } and [_underjoy](https://osu.ppy.sh/users/2235750) picked the maps for the Monthly Ranking Charts.
+This month ::Andrea::{ user=33599 }, ::S a n d::{ user=676578 }, ::Kingkevin30::{ user=564334 } and ::\1underjoy::{ user=2235750 } picked the maps for the Monthly Ranking Charts.
 
 ## Ranking Charts Creation
 

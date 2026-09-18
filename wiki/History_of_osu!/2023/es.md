@@ -16,7 +16,7 @@ El [lenguaje de marcado](https://es.wikipedia.org/wiki/Lenguaje_de_marcado) [BBC
 
 ## Marzo
 
-En el concurso [Skin of the Year](https://osu.ppy.sh/home/news/2023-02-09-skin-of-the-year-2022) de 2022, los usuarios pudieron votar por su skin favorita. Los tres primeros lugares, ocupados por ::- Koshiin -::{ user=19135423 }, [moonstaar](https://osu.ppy.sh/users/27339355) y ::BatuhanYtho::{ user=12091015 } respectivamente, recibieron insignias personalizadas como premio del concurso. Cada finalista, desde el puesto número 1 al número 10, recibió diferentes cantidades de osu!supporter.[^soty-results]
+En el concurso [Skin of the Year](https://osu.ppy.sh/home/news/2023-02-09-skin-of-the-year-2022) de 2022, los usuarios pudieron votar por su skin favorita. Los tres primeros lugares, ocupados por ::- Koshiin -::{ user=19135423 }, ::moonstaar::{ user=27339355 } y ::BatuhanYtho::{ user=12091015 } respectivamente, recibieron insignias personalizadas como premio del concurso. Cada finalista, desde el puesto número 1 al número 10, recibió diferentes cantidades de osu!supporter.[^soty-results]
 
 ::EEEEEEEEEEEEEEE::{ user=2927048 } jugó todos los beatmaps clasificados en el [modo de juego osu!](/wiki/Game_mode/osu!) hasta el 12 de marzo y, por lo tanto, fue el tercero en recibir el [título de usuario](/wiki/Community/User_title) [osu!completionist](/wiki/People/Completionists).[^completionist-tweet]
 
@@ -46,7 +46,7 @@ En el segundo lanzamiento del mes, 2 semanas después, el [modo de juego](/wiki/
 
 La tercera temporada del [osu!monthly](/wiki/Community/osu!monthly) finalizó con la [9ª edición](https://osu.ppy.sh/home/news/2023-06-26-osumonthly-9), que resumió los acontecimientos más importantes de la comunidad a partir de marzo de 2023. Debido principalmente a la disolución del equipo de mapping del proyecto[^mapping-team-disbanding] y al gran trabajo necesario para redactar las ediciones del osu!monthly, el equipo del osu!monthly decidió dejar el proyecto en pausa por el momento. En varias discusiones se consideró la posibilidad de reorganizar el trabajo y publicar en su lugar ediciones estacionales o anuales.[^monthly-discord][^writing-proposal] ::0x84f::{ user=7944724 }, uno de los responsables del proyecto de la tercera temporada, también hizo encuestas públicas para averiguar qué le interesaba a la comunidad y qué le gustaría ver en la sección de noticias del sitio web de osu! en general.[^news-content-1][^news-content-2]
 
-Como homenaje a las dos primeras temporadas que se publicaron en formato PDF, el 9º osu!monthly se realizó [como revista](https://assets.ppy.sh/media/osu-monthly/2023-03/osu-monthly-2023-03.pdf) en lugar de las habituales noticias. Incluyó noticias sobre el mapping, el skinning y los acontecimientos de la comunidad, así como entrevistas con ::EEEEEEEEEEEEEEE::{ user=2927048 } y [pishifat](https://osu.ppy.sh/users/3178418).
+Como homenaje a las dos primeras temporadas que se publicaron en formato PDF, el 9º osu!monthly se realizó [como revista](https://assets.ppy.sh/media/osu-monthly/2023-03/osu-monthly-2023-03.pdf) en lugar de las habituales noticias. Incluyó noticias sobre el mapping, el skinning y los acontecimientos de la comunidad, así como entrevistas con ::EEEEEEEEEEEEEEE::{ user=2927048 } y ::pishifat::{ user=3178418 }.
 
 ## Julio
 
@@ -54,7 +54,7 @@ Como homenaje a las dos primeras temporadas que se publicaron en formato PDF, el
 
 ## Agosto
 
-Desde mayo hasta agosto, se organizó el concurso de skins [Icons of an Era](https://osu.ppy.sh/home/news/2023-05-10-skinning-contest-icons-of-an-era) para celebrar los 15 años de osu! en forma de [skins](/wiki/Skin) que representaban beatmaps o mascotas populares. ::Spoo::{ user=11805037 }, [Chromasia](https://osu.ppy.sh/users/7306251) y ::thetasigma::{ user=6234482 } obtuvieron el primer, segundo y tercer lugar del concurso, respectivamente. Los premios incluyeron una insignia personalizada y diversas cantidades de osu!supporter.[^icons-of-an-era]
+Desde mayo hasta agosto, se organizó el concurso de skins [Icons of an Era](https://osu.ppy.sh/home/news/2023-05-10-skinning-contest-icons-of-an-era) para celebrar los 15 años de osu! en forma de [skins](/wiki/Skin) que representaban beatmaps o mascotas populares. ::Spoo::{ user=11805037 }, ::Chromasia::{ user=7306251 } y ::thetasigma::{ user=6234482 } obtuvieron el primer, segundo y tercer lugar del concurso, respectivamente. Los premios incluyeron una insignia personalizada y diversas cantidades de osu!supporter.[^icons-of-an-era]
 
 ::: Infobox
 ![](img/place-profile.png "Captura de pantalla del lienzo del 20 de octubre de 2024")

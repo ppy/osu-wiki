@@ -55,7 +55,7 @@ Staying true to the theme of the song, as well as creating an extremely fluid re
 
 This iteration of Aspire has been quite the journey. We've received a total of 63 entries, which while a little less than expected, has featured some of the most creative entries we've seen to date. Out of these entries, a total of 27 different artists and 49 songs were used.
 
-Once again we'd like to give a huge thanks to our category selectors, ::pishifat::{ user=3178418 }, [Zelq](https://osu.ppy.sh/users/8953955), ::Nuvolina::{ user=10974170 }, [Feerum](https://osu.ppy.sh/users/4815717), ::Unpredictable::{ user=7560872 }, [Yumeno Himiko](https://osu.ppy.sh/users/1806962), ::Doomsday::{ user=18983 }, and [jackylam5](https://osu.ppy.sh/users/1540807). I'd also like to give a thanks to ::heyronii::{ user=5642779 }, who helped with processing the beatmaps from entry to distribution.
+Once again we'd like to give a huge thanks to our category selectors, ::pishifat::{ user=3178418 }, ::Zelq::{ user=8953955 }, ::Nuvolina::{ user=10974170 }, ::Feerum::{ user=4815717 }, ::Unpredictable::{ user=7560872 }, ::Yumeno Himiko::{ user=1806962 }, ::Doomsday::{ user=18983 }, and ::jackylam5::{ user=1540807 }. I'd also like to give a thanks to ::heyronii::{ user=5642779 }, who helped with processing the beatmaps from entry to distribution.
 
 The enormous range of creativity and variety this iteration of Aspire has produced has been truly great to see - the changes we've made for this contest have proven to be positive. However, we know that the contest in its current format is far from perfect, and there are several things we've identified that could be improved.
 

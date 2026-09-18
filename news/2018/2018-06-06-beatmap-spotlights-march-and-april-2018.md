@@ -45,7 +45,7 @@ Halloween comes early this year as ::Loneight::{ user=663131 } returns with a se
 
 [![](/wiki/shared/news/2018-06-06-beatmap-spotlights-march-and-april-2018/cosmic-love.jpg)](https://osu.ppy.sh/beatmapsets/696222)
 
-Fans of western electronic music won't be left out this month, as the team of ::PandaHero::{ user=1233255 }, [La Cataline](https://osu.ppy.sh/users/301279), and ::Mirash::{ user=2841009 } bring forward their mapset of Florence + The Machine's "Cosmic Love". The top difficulty shows off great usage of slow sliders, while the rest of the spread keeps a varied and enjoyable experience for players of all skill levels.
+Fans of western electronic music won't be left out this month, as the team of ::PandaHero::{ user=1233255 }, ::La Cataline::{ user=301279 }, and ::Mirash::{ user=2841009 } bring forward their mapset of Florence + The Machine's "Cosmic Love". The top difficulty shows off great usage of slow sliders, while the rest of the spread keeps a varied and enjoyable experience for players of all skill levels.
 
 [![](/wiki/shared/news/2018-06-06-beatmap-spotlights-march-and-april-2018/on-the-backs-of-angels.jpg)](https://osu.ppy.sh/beatmapsets/707720)
 
@@ -188,13 +188,13 @@ The fact that Sc4v4ng3r's mapset has managed to reached Ranked status, even when
 
 [![](/wiki/shared/news/2018-06-06-beatmap-spotlights-march-and-april-2018/der-wald.jpg)](https://osu.ppy.sh/beatmapsets/581787)
 
-An amazing set of top-quality maps by ::Ascendance::{ user=2931883 }, [Spectator](https://osu.ppy.sh/users/702598) and ::Hareimu::{ user=4138746 }! Ascendance, as the mapper of the top difficulty, intentionally uses tricky yet decent anti-flows throughout the map, which heavily challenge reading skills and tapping precision.
+An amazing set of top-quality maps by ::Ascendance::{ user=2931883 }, ::Spectator::{ user=702598 } and ::Hareimu::{ user=4138746 }! Ascendance, as the mapper of the top difficulty, intentionally uses tricky yet decent anti-flows throughout the map, which heavily challenge reading skills and tapping precision.
 
 The lower two difficulties are also neatly organized with delicate and friendly patterns, making the set enjoyable for fruit lovers of all levels. Don't forget to check it out!
 
 [![](/wiki/shared/news/2018-06-06-beatmap-spotlights-march-and-april-2018/akaito.jpg)](https://osu.ppy.sh/beatmapsets/610994)
 
-It's time we could enjoy 1/2 jump party! Surrounded by 1/4-rhythm-based overdoses today, ::RoseusJaeger::{ user=67098409 } and [Ascendance](https://osu.ppy.sh/users/2931883) are surprisingly gifting us a newly approved mapset, "Akaito" by Rib, with mostly 1/2 patterns. This map features convenient flow and proper emphasis throughout the whole difficulty. Meanwhile it's' also able to come up with different patterns that make it colourful and catchy. With Rib's smooth voice, you are about to love playing this map.
+It's time we could enjoy 1/2 jump party! Surrounded by 1/4-rhythm-based overdoses today, ::RoseusJaeger::{ user=67098409 } and ::Ascendance::{ user=2931883 } are surprisingly gifting us a newly approved mapset, "Akaito" by Rib, with mostly 1/2 patterns. This map features convenient flow and proper emphasis throughout the whole difficulty. Meanwhile it's' also able to come up with different patterns that make it colourful and catchy. With Rib's smooth voice, you are about to love playing this map.
 
 ### osu!mania
 

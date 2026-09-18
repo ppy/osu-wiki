@@ -20,7 +20,7 @@ Today's Featured Artist additions — [**Grabbitz**](https://osu.ppy.sh/beatmaps
 Here on osu!, **[Grabbitz](https://osu.ppy.sh/beatmaps/artists/410) - Way Too Deep** is expressed by the sides of a coin:
 
 - One side is [this extremely difficult rendition](https://osu.ppy.sh/beatmapsets/383070) created by ::UndeadCapulet::{ user=2523533 }, whose ideas still feel modern despite being nearly a decade old.
-- On the flip side is [this calmer version](https://osu.ppy.sh/beatmapsets/919243) designed by mapping relics ::Mismagius::{ user=19048 } and [\[Luanny\]](https://osu.ppy.sh/users/802909), which is newer but uses a style that *intentionally feels over a decade old*. 
+- On the flip side is [this calmer version](https://osu.ppy.sh/beatmapsets/919243) designed by mapping relics ::Mismagius::{ user=19048 } and ::\[Luanny\]::{ user=802909 }, which is newer but uses a style that *intentionally feels over a decade old*. 
 - ::\[Zeth\]::{ user=9912966 }'s [osu!taiko map](https://osu.ppy.sh/beatmapsets/888853) is what you get when the coin lands [like this](/wiki/shared/news/2024-04-06-new-featured-artists-grabbitz-oddeeo-pas-lam-system-and-reaper/coin.jpg).
 
 If you're not into any of these maps, [download the beatmap template here](https://assets.ppy.sh/artists/410/Songs/Grabbitz%20-%20Way%20Too%20Deep.osz) and make your own!
@@ -45,7 +45,7 @@ Try that for yourself, or [design your own map with this template](https://asset
 
 ### Pa's Lam System - City Lights Feat. EVO+, Jinmenusagi (Pa's Lam System Remix)
 
-[**Pa's Lam System**](https://osu.ppy.sh/beatmaps/artists/412)'s future bass remix of *City Lights* was an early pillar of the emerging tech craze via [this Loved map](https://osu.ppy.sh/beatmapsets/575809) by ::hehe::{ user=2123087 } and [byfar](https://osu.ppy.sh/users/4674054)! A few years later, ::Kukkai::{ user=7811952 } contributed to this song's popularity with [a full osu!catch spread](https://osu.ppy.sh/beatmapsets/1486745)!
+[**Pa's Lam System**](https://osu.ppy.sh/beatmaps/artists/412)'s future bass remix of *City Lights* was an early pillar of the emerging tech craze via [this Loved map](https://osu.ppy.sh/beatmapsets/575809) by ::hehe::{ user=2123087 } and ::byfar::{ user=4674054 }! A few years later, ::Kukkai::{ user=7811952 } contributed to this song's popularity with [a full osu!catch spread](https://osu.ppy.sh/beatmapsets/1486745)!
 
 [Here's a beatmap template.](https://assets.ppy.sh/artists/412/Songs/Pa_s%20Lam%20System%20-%20City%20Lights%20Feat.%20EVO%2B%20%2C%20Jinmenusagi%20(Pa_s%20Lam%20System%20Remix).osz) You know what to do.
 

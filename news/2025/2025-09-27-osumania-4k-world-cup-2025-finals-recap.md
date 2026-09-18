@@ -13,7 +13,7 @@ For many, this is most likely the most important and exciting stage of the tourn
 
 From our preliminary observations, this has perhaps been one of the most — if not the most — entertaining round of the whole tournament, to the point we were close to highlight all matches! No surprise there given that only the best of the best teams remained in the bracket.
 
-But for those looking forward to *all* matches, including some extra goodies like an interview to team China, please check out this week's video recap, courtesy of ::Dynascape::{ user=8784587 }, [SunApple](https://osu.ppy.sh/users/11817622), ::Normiplier::{ user=10069850 }, and [akace100](https://osu.ppy.sh/users/9308128).
+But for those looking forward to *all* matches, including some extra goodies like an interview to team China, please check out this week's video recap, courtesy of ::Dynascape::{ user=8784587 }, ::SunApple::{ user=11817622 }, ::Normiplier::{ user=10069850 }, and ::akace100::{ user=9308128 }.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/USnL3VWMep4" frameborder="0" allowfullscreen></iframe>

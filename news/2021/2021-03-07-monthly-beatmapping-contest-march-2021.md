@@ -38,7 +38,7 @@ These points carry over between each month's contests. By reaching certain point
 - **MBC profile badge** (different badges at 2, 4, and 6 point thresholds)
 - ***Elite Mapper* forum title** (6 points)
 
-In case you're confused, the [MBC wiki page](/wiki/Contests/Monthly_Beatmapping_Contest#rewards) covers the rewards in more detail. This page also shows how ::Sylas::{ user=3906405 }, [Mao](https://osu.ppy.sh/users/2204515), and ::Acylica::{ user=1943309 } are only inches away from the *Elite Mapper* prize, so you'd be wise to bet that they're submitting to this month's contest.
+In case you're confused, the [MBC wiki page](/wiki/Contests/Monthly_Beatmapping_Contest#rewards) covers the rewards in more detail. This page also shows how ::Sylas::{ user=3906405 }, ::Mao::{ user=2204515 }, and ::Acylica::{ user=1943309 } are only inches away from the *Elite Mapper* prize, so you'd be wise to bet that they're submitting to this month's contest.
 
 ## Beatmapping
 

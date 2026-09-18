@@ -60,7 +60,7 @@ A big thank you to everyone who voted!
 
 ![](/wiki/shared/news/2022-12-06-beatmap-spotlights-season-8-winter-2023-precision/3659392.jpg)
 
-**[SOPHIE - NOTHING MORE TO SAY (DUB) [NOTHING ELSE TO SLAY (DAB) ft. tatemae & emilia]](https://osu.ppy.sh/beatmapsets/1786386#osu/3659392)**, mapped by ::schoolboy::{ user=8722791 }, [tatemae](https://osu.ppy.sh/users/5223028), and ::emilia::{ user=2003326 }\
+**[SOPHIE - NOTHING MORE TO SAY (DUB) [NOTHING ELSE TO SLAY (DAB) ft. tatemae & emilia]](https://osu.ppy.sh/beatmapsets/1786386#osu/3659392)**, mapped by ::schoolboy::{ user=8722791 }, ::tatemae::{ user=5223028 }, and ::emilia::{ user=2003326 }\
 *primarily suggested and described by ::Nowaie::{ user=5428909 }*
 
 In a time where a lot of mappers who decide to make monuments from complex songs, our collaborators in question here show the potential of each rhythm in a song. Let yourself fall in love with the ethereal trance-like *NOTHING MORE TO SAY (DUB)* along with the map accompanying it made by schoolboy, tatemae and emilia.
@@ -86,7 +86,7 @@ Kloyd does an amazing job of capturing such an intense track perfectly with many
 
 ![](/wiki/shared/news/2022-12-06-beatmap-spotlights-season-8-winter-2023-precision/3621429.jpg)
 
-**[MUZZ - Nemesis [clockbite & Tachi's Sanctuary]](https://osu.ppy.sh/beatmapsets/1751193#taiko/3621429)**, mapped by ::clockbite::{ user=16736934 } and [Tachibana_](https://osu.ppy.sh/users/13069714)\
+**[MUZZ - Nemesis [clockbite & Tachi's Sanctuary]](https://osu.ppy.sh/beatmapsets/1751193#taiko/3621429)**, mapped by ::clockbite::{ user=16736934 } and ::Tachibana\1::{ user=13069714 }\
 *primarily suggested and described by ::\1Zeth\1::{ user=9912966 }*
 
 For the players' pick, clockbite and Tachibana_'s rendition of *Nemesis* by MUZZ takes the crown and it's not hard to see why.
@@ -171,7 +171,7 @@ This season, we will say farewell to some of our members as well as welcome some
 **Curator additions:**
 
 - **osu!taiko**: ::Horiiizon::{ user=8071438 }
-- **osu!mania**: ::MadBricktree::{ user=4790958 }, [Maxus](https://osu.ppy.sh/users/4335785)
+- **osu!mania**: ::MadBricktree::{ user=4790958 }, ::Maxus::{ user=4335785 }
 
 ::Nowaie::{ user=5428909 } will also be stepping down from leading the osu! Curators team, while ::ChillierPear::{ user=9501251 } will handle his tasks from now on.
 

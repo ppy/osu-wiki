@@ -20,7 +20,7 @@ In case you don't know how it works, Project Loved hosts monthly polls to decide
 
 ## osu!standard
 
-osu!standard Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, [waywern2012](https://osu.ppy.sh/users/5870453) and ::Bubbleman::{ user=5182050 }!
+osu!standard Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, ::waywern2012::{ user=5870453 } and ::Bubbleman::{ user=5182050 }!
 
 ---
 
@@ -34,7 +34,7 @@ A long forgotten treasure reappears at last, this map is full of old style awkwa
 
 [![](/wiki/shared/news/2020-09-13-project-loved-september-2020/osu/2-crazy-noisy-bizarre-town-tv-size.jpg)](https://osu.ppy.sh/community/forums/topics/1143868)
 
-[THE DU - Crazy Noisy Bizarre Town (TV Size)](https://osu.ppy.sh/beatmapsets/451198#osu) by ::Cloudchaser::{ user=1576498 }, [Atsuro](https://osu.ppy.sh/users/2279351) and ::Kyshiro::{ user=640611 }\
+[THE DU - Crazy Noisy Bizarre Town (TV Size)](https://osu.ppy.sh/beatmapsets/451198#osu) by ::Cloudchaser::{ user=1576498 }, ::Atsuro::{ user=2279351 } and ::Kyshiro::{ user=640611 }\
 136 BPM, 1:12 | 1.63★ – 6.24★\
 *description written by ::DigitalHypno::{ user=4384207 }*
 
@@ -66,7 +66,7 @@ There are very few maps out there that challenge players as uniquely as rustbell
 
 [![](/wiki/shared/news/2020-09-13-project-loved-september-2020/osu/6-firelight-neokontrol-remix.jpg)](https://osu.ppy.sh/community/forums/topics/1143864)
 
-[Dustvoxx, Laur - FireLight (Neokontrol Remix)](https://osu.ppy.sh/beatmapsets/1035362#osu) by ::Nattu::{ user=1886722 } and [Ciyus Miapah](https://osu.ppy.sh/users/2805457)\
+[Dustvoxx, Laur - FireLight (Neokontrol Remix)](https://osu.ppy.sh/beatmapsets/1035362#osu) by ::Nattu::{ user=1886722 } and ::Ciyus Miapah::{ user=2805457 }\
 190 BPM, 5:34 | 8.11★\
 *description written by ::DigitalHypno::{ user=4384207 }*
 
@@ -91,7 +91,7 @@ What happens when you mix a catchy Hatsune Miku song with exciting spaced stream
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::Remus::{ user=6850949 }, [nyanmi-1828](https://osu.ppy.sh/users/6866480), ::POCARI SWEAT::{ user=5082685 } and [Raphalge](https://osu.ppy.sh/users/3918650)!
+osu!taiko Loved candidates were chosen by ::Remus::{ user=6850949 }, ::nyanmi-1828::{ user=6866480 }, ::POCARI SWEAT::{ user=5082685 } and ::Raphalge::{ user=3918650 }!
 
 ---
 
@@ -143,7 +143,7 @@ With his mapset of *katagiri - Dream Vandalism*, applerss offers a challenge to 
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, [Tenshichan](https://osu.ppy.sh/users/1101600), ::Wesley::{ user=2407265 }, [Yumeno Himiko](https://osu.ppy.sh/users/1806962) and ::Spectator::{ user=702598 }!
+osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, ::Tenshichan::{ user=1101600 }, ::Wesley::{ user=2407265 }, ::Yumeno Himiko::{ user=1806962 } and ::Spectator::{ user=702598 }!
 
 ---
 
@@ -185,7 +185,7 @@ f you like the style older maps have, there is a high chance you will enjoy this
 
 [![](/wiki/shared/news/2020-09-13-project-loved-september-2020/catch/5-ichido-dake-no-koi-nara.jpg)](https://osu.ppy.sh/community/forums/topics/1143851)
 
-[Walkure - Ichido dake no Koi nara](https://osu.ppy.sh/beatmapsets/456481#fruits) by ::noraRcat::{ user=883939 } and [Furely](https://osu.ppy.sh/users/853694)\
+[Walkure - Ichido dake no Koi nara](https://osu.ppy.sh/beatmapsets/456481#fruits) by ::noraRcat::{ user=883939 } and ::Furely::{ user=853694 }\
 172 BPM, 4:05 | 5.40★, 6.53★, 6.60★\
 *description written by ::Sartan::{ user=4100941 }*
 
@@ -194,7 +194,7 @@ All in all, you hopefully catch my drift when I say that this makes for a very f
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::-mint-::{ user=8976576 }, [Abraxos](https://osu.ppy.sh/users/5025064), ::lenpai::{ user=5314573 }, [Pope Gadget](https://osu.ppy.sh/users/2288341) and ::Toaph Daddy::{ user=7616811 }!
+osu!mania Loved candidates were chosen by ::-mint-::{ user=8976576 }, ::Abraxos::{ user=5025064 }, ::lenpai::{ user=5314573 }, ::Pope Gadget::{ user=2288341 } and ::Toaph Daddy::{ user=7616811 }!
 
 ---
 

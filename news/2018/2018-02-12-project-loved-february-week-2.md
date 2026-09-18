@@ -69,17 +69,17 @@ An often submitted community favorite, ::Alonevpk::{ user=2080978 }'s me & u has
 
 [![](/wiki/shared/news/2018-02-12-project-loved-february-week-2/osu/gigantic-otn.jpg)](https://osu.ppy.sh/community/forums/topics/702306)
 
-Possibly scraping the line of what is considered a "love song", ::caren\1sk::{ user=542498 }'s Gigantic O.T.N is a powerhouse of popular 2013 mapper GD's including ::Aqo::{ user=308902 }, [Reol](https://osu.ppy.sh/users/1945351), ::HabiHolic::{ user=1974436 }, and more. Most difficulties come with both an AR9 and AR10 diff for those who prefer a bit more of a reading challenge, though every difficulty comes jam-packed with fun patterns giving the whole set a lot of playability.
+Possibly scraping the line of what is considered a "love song", ::caren\1sk::{ user=542498 }'s Gigantic O.T.N is a powerhouse of popular 2013 mapper GD's including ::Aqo::{ user=308902 }, ::Reol::{ user=1945351 }, ::HabiHolic::{ user=1974436 }, and more. Most difficulties come with both an AR9 and AR10 diff for those who prefer a bit more of a reading challenge, though every difficulty comes jam-packed with fun patterns giving the whole set a lot of playability.
 
 ## osu!taiko
 
 [![](/wiki/shared/news/2018-02-12-project-loved-february-week-2/taiko/yomi-yori.jpg)](https://osu.ppy.sh/community/forums/topics/702312)
 
-osu!taiko veteran ::Backfire::{ user=263110 } and newcomer [Y O U T A](https://osu.ppy.sh/users/4909860)'s collaboration feature consistent pattering, partially reminiscent to how older maps looked like, tough 1/3+1/6 sections and long streams, mixed into one awesome map (and song). You can truly see both mapper's trademarks, like ::Y O U T A::{ user=4909860 }'s flow and [Backfire](https://osu.ppy.sh/users/263110)'s slider velocity change usage, coming into this map and it works damn well.
+osu!taiko veteran ::Backfire::{ user=263110 } and newcomer ::Y O U T A::{ user=4909860 }'s collaboration feature consistent pattering, partially reminiscent to how older maps looked like, tough 1/3+1/6 sections and long streams, mixed into one awesome map (and song). You can truly see both mapper's trademarks, like ::Y O U T A::{ user=4909860 }'s flow and ::Backfire::{ user=263110 }'s slider velocity change usage, coming into this map and it works damn well.
 
 [![](/wiki/shared/news/2018-02-12-project-loved-february-week-2/taiko/nightfall.jpg)](https://osu.ppy.sh/community/forums/topics/702313)
 
-Everyone who has played, or watched, osu!taiko tournaments in the past years has come across this map at some point. ::Ryui::{ user=1938873 } and [R i n g o](https://osu.ppy.sh/users/2036767)'s collaboration is probably one of the most known graved osu!taiko maps around, and that's not surprising: this hype song features great flow and patterns, tough finisher usage and is overall just an enjoyable experience.
+Everyone who has played, or watched, osu!taiko tournaments in the past years has come across this map at some point. ::Ryui::{ user=1938873 } and ::R i n g o::{ user=2036767 }'s collaboration is probably one of the most known graved osu!taiko maps around, and that's not surprising: this hype song features great flow and patterns, tough finisher usage and is overall just an enjoyable experience.
 
 [![](/wiki/shared/news/2018-02-12-project-loved-february-week-2/taiko/shut-down-everything.jpg)](https://osu.ppy.sh/community/forums/topics/702314)
 

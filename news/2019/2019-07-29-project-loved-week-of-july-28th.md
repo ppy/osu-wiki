@@ -22,7 +22,7 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ## osu!standard
 
-osu!standard Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, [-Roxas](https://osu.ppy.sh/users/1986262), ::BeasttrollMC::{ user=3171691 }, [Bubbleman](https://osu.ppy.sh/users/5182050), ::fartownik::{ user=56917 } and [waywern2012](https://osu.ppy.sh/users/5870453)!
+osu!standard Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, ::-Roxas::{ user=1986262 }, ::BeasttrollMC::{ user=3171691 }, ::Bubbleman::{ user=5182050 }, ::fartownik::{ user=56917 } and ::waywern2012::{ user=5870453 }!
 
 ---
 
@@ -102,7 +102,7 @@ Many players already know of Nemis's set for *Shuffle Heaven*, but did you know 
 
 [![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/osu/10-coward-killing-time.jpg)](https://osu.ppy.sh/community/forums/topics/940587)
 
-[The Quick Brown Fox - Coward Killing Time](https://osu.ppy.sh/beatmapsets/23412#osu) by ::theowest::{ user=60604 }, [OzzyOzrock](https://osu.ppy.sh/users/465153) and ::Medi-chan::{ user=707875 }\
+[The Quick Brown Fox - Coward Killing Time](https://osu.ppy.sh/beatmapsets/23412#osu) by ::theowest::{ user=60604 }, ::OzzyOzrock::{ user=465153 } and ::Medi-chan::{ user=707875 }\
 200 BPM, 1:48 | 1.62★, 2.39★, 2.44★, 3.72★, 5.62★\
 *description written by ::Bubbleman::{ user=5182050 }*
 
@@ -110,7 +110,7 @@ Ever wondered how speedcore would have been mapped in 2010? Wonder no more! Hail
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [iceOC](https://osu.ppy.sh/users/5482401), ::jyake::{ user=9099822 } and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
+osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::iceOC::{ user=5482401 }, ::jyake::{ user=9099822 } and ::nyanmi-1828::{ user=6866480 }!
 
 ---
 
@@ -128,7 +128,7 @@ You could probably call this the foundation of all pp maps as it has high star-r
 
 [![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/taiko/2-deadly-dolly-dance.jpg)](https://osu.ppy.sh/community/forums/topics/940584)
 
-[Shiron - Deadly Dolly Dance](https://osu.ppy.sh/beatmapsets/565909#taiko) by ::butter0414::{ user=7935022 } and [komasy](https://osu.ppy.sh/users/1980256)\
+[Shiron - Deadly Dolly Dance](https://osu.ppy.sh/beatmapsets/565909#taiko) by ::butter0414::{ user=7935022 } and ::komasy::{ user=1980256 }\
 160 BPM, 1:58 | 4.03★, 6.83★\
 *description written by ::jyake::{ user=9099822 }*
 
@@ -144,13 +144,13 @@ Hope you studied for your tests because w_tre respect for AT&HU's  *Schur's Theo
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Tenshichan::{ user=1101600 }, [Sartan](https://osu.ppy.sh/users/4100941), ::Wesley::{ user=2407265 } and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
+osu!catch Loved candidates were chosen by ::Tenshichan::{ user=1101600 }, ::Sartan::{ user=4100941 }, ::Wesley::{ user=2407265 } and ::Yumeno Himiko::{ user=1806962 }!
 
 ---
 
 [![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/catch/1-end-time.jpg)](https://osu.ppy.sh/community/forums/topics/940581)
 
-[Cres - End Time](https://osu.ppy.sh/beatmapsets/406487#fruits) by ::Callionet::{ user=3072921 } and [ZHSteven](https://osu.ppy.sh/users/142413)\
+[Cres - End Time](https://osu.ppy.sh/beatmapsets/406487#fruits) by ::Callionet::{ user=3072921 } and ::ZHSteven::{ user=142413 }\
 180 BPM, 2:09 | 5.16★, 6.08★\
 *description written by ::Yumeno Himiko::{ user=1806962 }*
 
@@ -166,13 +166,13 @@ Even though Nucoin doesn't play osu!catch anymore, they created a very fun map w
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::Shoegazer::{ user=2520707 }, [Lenfried-](https://osu.ppy.sh/users/5314573), ::Pope Gadget::{ user=2288341 } and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
+osu!mania Loved candidates were chosen by ::Shoegazer::{ user=2520707 }, ::Lenfried-::{ user=5314573 }, ::Pope Gadget::{ user=2288341 } and ::Toaph Daddy::{ user=7616811 }!
 
 ---
 
 [![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/mania/1-uta.jpg)](https://osu.ppy.sh/community/forums/topics/940578)
 
-[Imperial Circus Dead Decadence - Uta](https://osu.ppy.sh/beatmapsets/981714#mania) by ::Evening::{ user=2193881 } and [XeoStyle](https://osu.ppy.sh/users/3377280)\
+[Imperial Circus Dead Decadence - Uta](https://osu.ppy.sh/beatmapsets/981714#mania) by ::Evening::{ user=2193881 } and ::XeoStyle::{ user=3377280 }\
 140 BPM, 8:48 | \[4K\] 4.74★, \[4K\] 5.64★, \[4K\] 5.77★
 
 "Return of the king" is a phrase one may use seeing this nomination to the Loved section. Evening, one of the most well-known and influential mappers to ever grace osu!mania, is back in the nominations with an even more well-known and popular song from a recently added Featured Artist—Imperial Circus Dead Decadence.
@@ -209,7 +209,7 @@ Taking the creative liberties of extensive LN usages, tanjinxi manages to incorp
 
 From everyone on the Project Loved team, we hope you enjoyed this week's selection, and are looking forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
-In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Noffy::{ user=1541323 }, [huu](https://osu.ppy.sh/users/6044237) and ::Ephemeral::{ user=102335 } for their miscellaneous help in managing Project Loved.
+In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Noffy::{ user=1541323 }, ::huu::{ user=6044237 } and ::Ephemeral::{ user=102335 } for their miscellaneous help in managing Project Loved.
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! You can view the current submissions on the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0). For osu!mania, please use [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSeaGfoQNGMqw4qQcqRPItUZILh2fGwJR6ly6cZNY9OWPXkFhw/viewform) and [this Google sheet](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit) instead.
 

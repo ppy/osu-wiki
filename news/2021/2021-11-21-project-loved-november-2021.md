@@ -31,7 +31,7 @@ Without further ado, let's move onto this month's picks!
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, [Doomsday](https://osu.ppy.sh/users/18983), ::kotkeone::{ user=10083084 } and [UberFazz](https://osu.ppy.sh/users/8646059)!
+The osu! Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, ::Doomsday::{ user=18983 }, ::kotkeone::{ user=10083084 } and ::UberFazz::{ user=8646059 }!
 
 ---
 
@@ -77,7 +77,7 @@ This simple yet charming map has gained a notable amount of attention over the p
 
 [![](/wiki/shared/news/2021-11-21-project-loved-november-2021/126492.jpg)](https://osu.ppy.sh/community/forums/topics/1467978)
 
-[Nanaki - Koi no Shirahata](https://osu.ppy.sh/beatmapsets/126492#osu) by ::caren\1sk::{ user=542498 } and [HabiHolic](https://osu.ppy.sh/users/1974436)\
+[Nanaki - Koi no Shirahata](https://osu.ppy.sh/beatmapsets/126492#osu) by ::caren\1sk::{ user=542498 } and ::HabiHolic::{ user=1974436 }\
 208 BPM, 2:25 | 5.30★, 5.30★, 5.62★, 5.62★\
 *description written by ::Doomsday::{ user=18983 }*
 
@@ -103,7 +103,7 @@ I have not had more fun playing a map of this style than I have with this map. T
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::Gamelan4::{ user=9856910 }, [Horiiizon](https://osu.ppy.sh/users/8071438), ::KuroKuroKuro::{ user=11931563 } and [POCARI SWEAT](https://osu.ppy.sh/users/5082685)!
+The osu!taiko Loved candidates were chosen by ::Gamelan4::{ user=9856910 }, ::Horiiizon::{ user=8071438 }, ::KuroKuroKuro::{ user=11931563 } and ::POCARI SWEAT::{ user=5082685 }!
 
 ---
 
@@ -131,7 +131,7 @@ This mapset features a great difficulty progression between diffs that will guid
 
 [![](/wiki/shared/news/2021-11-21-project-loved-november-2021/480077.jpg)](https://osu.ppy.sh/community/forums/topics/1467970)
 
-[BlackY - Trixxxter](https://osu.ppy.sh/beatmapsets/480077#taiko) by ::KinomiCandy::{ user=375143 } and [MMzz](https://osu.ppy.sh/users/128993)\
+[BlackY - Trixxxter](https://osu.ppy.sh/beatmapsets/480077#taiko) by ::KinomiCandy::{ user=375143 } and ::MMzz::{ user=128993 }\
 180 BPM, 1:53 | 5.83★\
 *description written by ::KuroKuroKuro::{ user=11931563 }*
 
@@ -159,7 +159,7 @@ This will be the perfect one to represent nananass's own unique mapping style, c
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, [Spectator](https://osu.ppy.sh/users/702598), ::Tenshichan::{ user=1101600 } and [Wesley](https://osu.ppy.sh/users/2407265)!
+The osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, ::Spectator::{ user=702598 }, ::Tenshichan::{ user=1101600 } and ::Wesley::{ user=2407265 }!
 
 ---
 
@@ -191,7 +191,7 @@ The map is also not the shortest, so you have to bring some consistency to the t
 
 [![](/wiki/shared/news/2021-11-21-project-loved-november-2021/981773.jpg)](https://osu.ppy.sh/community/forums/topics/1467962)
 
-[UNDEAD CORPORATION - Everything will freeze Guitar Inst-hen](https://osu.ppy.sh/beatmapsets/981773#fruits) by ::Du5t::{ user=6053071 }, [Minato Yukina](https://osu.ppy.sh/users/531253) and ::Sanyi::{ user=7496029 }\
+[UNDEAD CORPORATION - Everything will freeze Guitar Inst-hen](https://osu.ppy.sh/beatmapsets/981773#fruits) by ::Du5t::{ user=6053071 }, ::Minato Yukina::{ user=531253 } and ::Sanyi::{ user=7496029 }\
 240 BPM, 3:14 | 1.95★ – 8.56★\
 *description written by ::Sartan::{ user=4100941 }*
 
@@ -215,7 +215,7 @@ Time for some swingy jazz, shall we dance in the caravan?
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, [Kawawa](https://osu.ppy.sh/users/4647754), ::Paturages::{ user=1375479 }, [Penguinosity](https://osu.ppy.sh/users/10235296) and ::RandomeLoL::{ user=7080063 }!
+The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, ::Kawawa::{ user=4647754 }, ::Paturages::{ user=1375479 }, ::Penguinosity::{ user=10235296 } and ::RandomeLoL::{ user=7080063 }!
 
 ---
 
@@ -331,7 +331,7 @@ For those looking to up the speed on things, there are of course a number of upr
 
 [![](/wiki/shared/news/2021-11-21-project-loved-november-2021/581007.jpg)](https://osu.ppy.sh/community/forums/topics/1467949)
 
-[Pegboard Nerds - Swamp Thing](https://osu.ppy.sh/beatmapsets/581007#mania) by ::Xnery::{ user=9661048 }, [Dubstek](https://osu.ppy.sh/users/9555243) and ::inv41idu53rn4m3::{ user=6656684 }\
+[Pegboard Nerds - Swamp Thing](https://osu.ppy.sh/beatmapsets/581007#mania) by ::Xnery::{ user=9661048 }, ::Dubstek::{ user=9555243 } and ::inv41idu53rn4m3::{ user=6656684 }\
 135 BPM, 4:13 | 1.39★ – 5.58★\
 *description written by ::Penguinosity::{ user=10235296 }*
 
@@ -373,7 +373,7 @@ Good luck confronting the uprated challenge, *you'll surely need it*... Oh and i
 
 [![](/wiki/shared/news/2021-11-21-project-loved-november-2021/912281.jpg)](https://osu.ppy.sh/community/forums/topics/1467945)
 
-[Camellia - Upload Your Mind :: Download My Soul](https://osu.ppy.sh/beatmapsets/912281#mania) by ::paradoxus\_::{ user=11185275 } and [Hoto Cocoa](https://osu.ppy.sh/users/6974536)\
+[Camellia - Upload Your Mind :: Download My Soul](https://osu.ppy.sh/beatmapsets/912281#mania) by ::paradoxus\_::{ user=11185275 } and ::Hoto Cocoa::{ user=6974536 }\
 166 BPM, 4:35 | 0.90★ – 6.56★\
 *description written by ::Kawawa::{ user=4647754 }*
 
@@ -403,7 +403,7 @@ Please don't forget to vote to support DrLou's hard work, and make sure to leave
 
 [![](/wiki/shared/news/2021-11-21-project-loved-november-2021/650554.jpg)](https://osu.ppy.sh/community/forums/topics/1467943)
 
-[DJ Nanasaki - Unorthodox Red](https://osu.ppy.sh/beatmapsets/650554#mania) by ::ExNeko::{ user=7590894 }, [\_Stan](https://osu.ppy.sh/users/1653229), ::\_VianK\_::{ user=6889055 }, [ExInyf](https://osu.ppy.sh/users/7113563) and ::Shima Rin::{ user=6089608 }\
+[DJ Nanasaki - Unorthodox Red](https://osu.ppy.sh/beatmapsets/650554#mania) by ::ExNeko::{ user=7590894 }, ::\_Stan::{ user=1653229 }, ::\_VianK\_::{ user=6889055 }, ::ExInyf::{ user=7113563 } and ::Shima Rin::{ user=6089608 }\
 220 BPM, 3:51 | 1.80★ – 7.27★\
 *description written by ::\_underjoy::{ user=2235750 }*
 
@@ -421,7 +421,7 @@ Exlnyf's 7K chart on the other hand is filled to the brim with uncomfortable and
 
 [![](/wiki/shared/news/2021-11-21-project-loved-november-2021/1178390.jpg)](https://osu.ppy.sh/community/forums/topics/1467942)
 
-[YOASOBI - Yoru ni Kakeru](https://osu.ppy.sh/beatmapsets/1178390#mania) by ::ruka::{ user=6117525 } and [Pengdoll](https://osu.ppy.sh/users/6392061)\
+[YOASOBI - Yoru ni Kakeru](https://osu.ppy.sh/beatmapsets/1178390#mania) by ::ruka::{ user=6117525 } and ::Pengdoll::{ user=6392061 }\
 130 BPM, 4:19 | 7.49★\
 *description written by ::Kawawa::{ user=4647754 }*
 

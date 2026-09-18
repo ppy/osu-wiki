@@ -21,7 +21,7 @@ Onwards to the winners:
 
 Taking top spot with a whopping **1667** votes is none other than [**sabi - true DJ MAG top ranker's song Zenpen (katagiri Remix)**](https://osu.ppy.sh/beatmapsets/1357624) by ::**Nathan**::{ user=4785223 }!
 
-In an outcome that should surprise exactly nobody, this titanic creation burst into the scene nearly mid-way through 2021, turned heads and stole hearts. Showcasing an absolutely colossal collaboration of some of osu!'s most skilled creators in ::**toybot**::{ user=2848604 }, [**Sing**](https://osu.ppy.sh/users/3795679), ::**im a fancy lad**::{ user=4908650 }, [**captin1**](https://osu.ppy.sh/users/689997), ::**Acylica**::{ user=1943309 }, [**Senseabel**](https://osu.ppy.sh/users/6184386), and ::**ScubDomino**::{ user=8972308 } plus some exemplary storyboarding by ::**Tommy Phelps**::{ user=10974581 }, an outpouring of support in such magnitude was almost inevitable.
+In an outcome that should surprise exactly nobody, this titanic creation burst into the scene nearly mid-way through 2021, turned heads and stole hearts. Showcasing an absolutely colossal collaboration of some of osu!'s most skilled creators in ::**toybot**::{ user=2848604 }, ::**Sing**::{ user=3795679 }, ::**im a fancy lad**::{ user=4908650 }, ::**captin1**::{ user=689997 }, ::**Acylica**::{ user=1943309 }, ::**Senseabel**::{ user=6184386 }, and ::**ScubDomino**::{ user=8972308 } plus some exemplary storyboarding by ::**Tommy Phelps**::{ user=10974581 }, an outpouring of support in such magnitude was almost inevitable.
 
 There was not a moment throughout the entirety of this poll where it was not first place. That has to say something.
 
@@ -118,7 +118,7 @@ In the osu!catch mapping scene however, the competition for this year's Mapper's
 
 Affectionately dubbed 'bagelseeker' by some intrepid fruit catchers, Aegelseeker is a set among sets, charted entirely up the difficulty spectrum from the very first steps someone can make in osu!catch all the way up to Beyond the Light of Deliverance, which is mapper top difficulty lingo for "breaking your fingers in slow motion".
 
-A set of this magnitude can only arise from the efforts of many, as evidenced by the many collaborators involved, namely: ::**autofanboy**::{ user=636114 }, the selfsame Kukkai from above, ::**Nosuri**::{ user=2150415 }, [**Bunnrei**](https://osu.ppy.sh/users/829284), ::**Razor Sharp**::{ user=3414261 } and [**GiGas**](https://osu.ppy.sh/users/7300747). Excellent stuff!
+A set of this magnitude can only arise from the efforts of many, as evidenced by the many collaborators involved, namely: ::**autofanboy**::{ user=636114 }, the selfsame Kukkai from above, ::**Nosuri**::{ user=2150415 }, ::**Bunnrei**::{ user=829284 }, ::**Razor Sharp**::{ user=3414261 } and ::**GiGas**::{ user=7300747 }. Excellent stuff!
 
 Finalists:
 

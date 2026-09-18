@@ -173,7 +173,7 @@ During the [score ranking](/wiki/Ranking#score-ranking) era, the use of deathstr
 
 ### Slider Stream Jumps
 
-Nominator(s): ::dkun::{ user=154400 } and [MMzz](https://osu.ppy.sh/users/128993)
+Nominator(s): ::dkun::{ user=154400 } and ::MMzz::{ user=128993 }
 
 **Slider stream jumps** is a more advanced technique for osu!.
 Instead of using an orthodox stream, you replace it with sliders.

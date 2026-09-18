@@ -15,10 +15,10 @@ The beatmap charts for the Autumn Spotlights can be found [here](https://osu.ppy
 
 First of all, congratulations to the winners of the Seasonal Spotlights: Summer 2018. They will receive 3, 2, and 1 months of supporter for 1st, 2nd, and 3rd place respectively for their efforts!
 
-- **osu!:** ::Toy::{ user=2757689 }, [StreaminDemon](https://osu.ppy.sh/users/6245906) and ::emu1337::{ user=2185987 }
-- **osu!taiko:** ::Jaye::{ user=4841352 }, [apaajaboleh10](https://osu.ppy.sh/users/5151647) and ::BluePlusSymbol::{ user=6503700 }
-- **osu!catch:** ::RAMPAGE88::{ user=448547 }, [Crystal](https://osu.ppy.sh/users/1646397) and ::Nelly::{ user=4741164 }
-- **osu!mania:** ::\[Crz\]Satori::{ user=7082178 }, [robby250](https://osu.ppy.sh/users/2653437) and ::Cryolien::{ user=1626983 }
+- **osu!:** ::Toy::{ user=2757689 }, ::StreaminDemon::{ user=6245906 } and ::emu1337::{ user=2185987 }
+- **osu!taiko:** ::Jaye::{ user=4841352 }, ::apaajaboleh10::{ user=5151647 } and ::BluePlusSymbol::{ user=6503700 }
+- **osu!catch:** ::RAMPAGE88::{ user=448547 }, ::Crystal::{ user=1646397 } and ::Nelly::{ user=4741164 }
+- **osu!mania:** ::\[Crz\]Satori::{ user=7082178 }, ::robby250::{ user=2653437 } and ::Cryolien::{ user=1626983 }
 
 ## Autumn 2018 Spotlights
 
@@ -37,7 +37,7 @@ Contrasting her mapset of "Odoru Mizushibuki", ::Hollow Wings::{ user=416662 } b
 
 [![](/wiki/shared/news/2019-01-16-beatmap-spotlights-autumn-2018/osu/abst.jpg)](https://osu.ppy.sh/beatmapsets/839256)
 
-::Ryuusei Aika::{ user=7777875 }, known best for his extremely high BN activity and clean mapping style, brings forth AcuticNotes' "Abst:Re:Act" in collaboration with ::DJMax::{ user=6242405 } and [Suzuki\_1112](https://osu.ppy.sh/users/3170678). The map does not let up until the ending slider art, constantly throwing crazy stream and kickslider patterns mixed with extreme spacing changes sure to challenge even the most confident of technical players. If that's too much for you, give the guest difficulty a try—it's easier than the top difficulty, but not by much!
+::Ryuusei Aika::{ user=7777875 }, known best for his extremely high BN activity and clean mapping style, brings forth AcuticNotes' "Abst:Re:Act" in collaboration with ::DJMax::{ user=6242405 } and ::Suzuki\_1112::{ user=3170678 }. The map does not let up until the ending slider art, constantly throwing crazy stream and kickslider patterns mixed with extreme spacing changes sure to challenge even the most confident of technical players. If that's too much for you, give the guest difficulty a try—it's easier than the top difficulty, but not by much!
 
 [![](/wiki/shared/news/2019-01-16-beatmap-spotlights-autumn-2018/osu/great-spirit.jpg)](https://osu.ppy.sh/beatmapsets/765801)
 
@@ -61,7 +61,7 @@ With a different take on an already ranked map, ::celerih::{ user=4696296 }'s ma
 
 [![](/wiki/shared/news/2019-01-16-beatmap-spotlights-autumn-2018/osu/poppy.jpg)](https://osu.ppy.sh/beatmapsets/838383)
 
-Featuring a song from the quirky Internet star Poppy's "I'm Poppy", ::Myxomatosis::{ user=2202645 } and [Mao](https://osu.ppy.sh/users/2204515) give us this wonderful set brimming with energy and personality. Every difficulty manages to perfectly capture the robotic nature of the song, without feeling stiff or unnatural. Good luck trying to play this map without a smile. Follow Poppy's steps and enjoy this fantastic mapset.
+Featuring a song from the quirky Internet star Poppy's "I'm Poppy", ::Myxomatosis::{ user=2202645 } and ::Mao::{ user=2204515 } give us this wonderful set brimming with energy and personality. Every difficulty manages to perfectly capture the robotic nature of the song, without feeling stiff or unnatural. Good luck trying to play this map without a smile. Follow Poppy's steps and enjoy this fantastic mapset.
 
 [![](/wiki/shared/news/2019-01-16-beatmap-spotlights-autumn-2018/osu/utsukushii.jpg)](https://osu.ppy.sh/beatmapsets/777597)
 
@@ -205,7 +205,7 @@ If you like energetic songs, then this is your perfect fit! JENNY ROM's "WWW.BLO
 
 [![](/wiki/shared/news/2019-01-16-beatmap-spotlights-autumn-2018/catch/dearest.jpg)](https://osu.ppy.sh/beatmapsets/842871)
 
-The ultimate duo, consisting of ::Ascendance::{ user=2931883 } and [Fii](https://osu.ppy.sh/users/3922569), is back once again with their rendition of supercell's "My Dearest". Featuring an impressive storyboard by ::Storyboarder::{ user=6124671 } and [PoNo](https://osu.ppy.sh/users/4610047), the map is quite the experience and manages to keep bringing fun and engaging patterns for its entire duration, making the map fly by. Make sure to check this map out, as it is a definite highlight when it comes to these two mappers.
+The ultimate duo, consisting of ::Ascendance::{ user=2931883 } and ::Fii::{ user=3922569 }, is back once again with their rendition of supercell's "My Dearest". Featuring an impressive storyboard by ::Storyboarder::{ user=6124671 } and ::PoNo::{ user=4610047 }, the map is quite the experience and manages to keep bringing fun and engaging patterns for its entire duration, making the map fly by. Make sure to check this map out, as it is a definite highlight when it comes to these two mappers.
 
 [![](/wiki/shared/news/2019-01-16-beatmap-spotlights-autumn-2018/catch/gensou.jpg)](https://osu.ppy.sh/beatmapsets/699439)
 
@@ -233,7 +233,7 @@ All of this is paired with difficult yet smooth transitions and patterning to ma
 
 Hakuryu's "Genesis At Oasis (MOONLiGHT Mix)" mapped by ::Alternater::{ user=4980256 } was featured in the osu!mania 4K World Cup 2018, and the top difficulty has already been well-known before the set was flushed out into this great full spread. Even though the patterns used contain mostly variations of basic jumpstreams, they closely fit with the music and therefore well represent the whole song. The slider velocity manipulation is also very comfortable and beneficially exaggerates the musical impact.
 
-::-MysticEyes::{ user=6253266 }, [Unpredictable](https://osu.ppy.sh/users/7560872), and ::qqqant::{ user=8976576 } also thoughtfully contributed to the set by mapping solid lower difficulties for this set. Overall, this set expresses the music perfectly and deserves a place in this season's Spotlight!
+::-MysticEyes::{ user=6253266 }, ::Unpredictable::{ user=7560872 }, and ::qqqant::{ user=8976576 } also thoughtfully contributed to the set by mapping solid lower difficulties for this set. Overall, this set expresses the music perfectly and deserves a place in this season's Spotlight!
 
 [![](/wiki/shared/news/2019-01-16-beatmap-spotlights-autumn-2018/mania/dream-catcher.jpg)](https://osu.ppy.sh/beatmapsets/696380)
 

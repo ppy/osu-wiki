@@ -15,7 +15,7 @@ There have been quite a lot of exciting moments on this week alone. From histori
 
 We even got the chance to interview ::-luvv::{ user=23731514 } on behalf of team Peru given their players' performances throughout the tournament. Definitely a story worth telling from one of this year's most promising teams!
 
-Rambling and spoilers aside, this week's video recap is yet again brought to you by ::SurfChu85::{ user=4469895 } and [yukina meng](https://osu.ppy.sh/users/9919550). A very good alternative to the usual podcasts you may be used to listening in the background on your spare time.
+Rambling and spoilers aside, this week's video recap is yet again brought to you by ::SurfChu85::{ user=4469895 } and ::yukina meng::{ user=9919550 }. A very good alternative to the usual podcasts you may be used to listening in the background on your spare time.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/aG5PQCqq99A" frameborder="0" allowfullscreen></iframe>
@@ -65,7 +65,7 @@ Following last week, we've got a couple new osu! originals lined up! The first o
     </audio>
 </div>
 
-Our second and last original track of the week was [Ruin in Cascade](https://osu.ppy.sh/beatmapsets/2318032#mania/4964418) by [kanemiko](https://osu.ppy.sh/beatmaps/artists/367). Keeping up with the tradition of featuring exciting new tracks on the tiebreaker, this year's MWC 7K was no exception! This was a massive collaborative effort between ::Critical\1Star::{ user=3793196 }, [_Stan](https://osu.ppy.sh/users/1653229), ::Maxus::{ user=4335785 }, [kaulpakka](https://osu.ppy.sh/users/7115625), ::ExNeko::{ user=7590894 }, and [taba2](https://osu.ppy.sh/users/7850508).
+Our second and last original track of the week was [Ruin in Cascade](https://osu.ppy.sh/beatmapsets/2318032#mania/4964418) by [kanemiko](https://osu.ppy.sh/beatmaps/artists/367). Keeping up with the tradition of featuring exciting new tracks on the tiebreaker, this year's MWC 7K was no exception! This was a massive collaborative effort between ::Critical\1Star::{ user=3793196 }, ::\1Stan::{ user=1653229 }, ::Maxus::{ user=4335785 }, ::kaulpakka::{ user=7115625 }, ::ExNeko::{ user=7590894 }, and ::taba2::{ user=7850508 }.
 
 But words alone cannot describe the map, so why not enjoy it in full thanks to ::cheewee10::{ user=4477497 }'s amazing play, with ::Noffy::{ user=1541323 }'s eye-watering storyboard to accompany it!
 

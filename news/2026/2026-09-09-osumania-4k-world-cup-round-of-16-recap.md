@@ -13,7 +13,7 @@ Round of 16 tends to be one of the most bittersweet moments of the entire tourna
 
 Despite the hurdles, however, no team has been willing to give up. No team has been eliminated without putting up a fight, and most winning teams have had to put some effort in just to stay afloat. As such, when we're getting these many good matches so early on, we can only be left wondering how the later rounds will pan out.
 
-And what better way to showcase this than by enjoying our weekly video summary, brought to you by ::Dynascape::{ user=8784587 }, [SunApple](https://osu.ppy.sh/users/11817622), ::Normiplier::{ user=10069850 }, [akace100](https://osu.ppy.sh/users/9308128), and ::Rush\1FTK::{ user=3046856 }. No reason not to enjoy it, even if you boast of a short attention span.
+And what better way to showcase this than by enjoying our weekly video summary, brought to you by ::Dynascape::{ user=8784587 }, ::SunApple::{ user=11817622 }, ::Normiplier::{ user=10069850 }, ::akace100::{ user=9308128 }, and ::Rush\1FTK::{ user=3046856 }. No reason not to enjoy it, even if you boast of a short attention span.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/sQ_dMsXAVAE" frameborder="0" allowfullscreen></iframe>
@@ -53,7 +53,7 @@ And for the moment that many players and viewers alike have been waiting for, du
     </audio>
 </div>
 
-[Steamtekk](https://osu.ppy.sh/beatmapsets/2608577#mania/5839930) (RC4) charted by ::{ flag=BR }:: ::AutotelicBrown::{ user=4238941 } is a unique, steampunk-styled song by Kolaa, who took a very different approach in comparison to their other songs, which ended up working out nicely. The chart contains pretty much everything rice: from burst-heavy sections, to more flowy sections, and eventually climaxing with a very satisfying light jack section. Many thanks to ::Minerva Rin::{ user=30314534 } and [Hiro](https://osu.ppy.sh/users/15251809) for the illustration, ::Isuzaki::{ user=39126469 } and [Spoo](https://osu.ppy.sh/users/11805037) for the GFX, and ::Initial D::{ user=8382535 } for the storyboard!
+[Steamtekk](https://osu.ppy.sh/beatmapsets/2608577#mania/5839930) (RC4) charted by ::{ flag=BR }:: ::AutotelicBrown::{ user=4238941 } is a unique, steampunk-styled song by Kolaa, who took a very different approach in comparison to their other songs, which ended up working out nicely. The chart contains pretty much everything rice: from burst-heavy sections, to more flowy sections, and eventually climaxing with a very satisfying light jack section. Many thanks to ::Minerva Rin::{ user=30314534 } and ::Hiro::{ user=15251809 } for the illustration, ::Isuzaki::{ user=39126469 } and ::Spoo::{ user=11805037 } for the GFX, and ::Initial D::{ user=8382535 } for the storyboard!
 
 ## Round of 16 summary
 

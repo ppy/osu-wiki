@@ -40,7 +40,7 @@ This contest's **24** submissions were narrowed down to the **top 8** by our [sc
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/sWwGnOa0WxI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Special thanks to ::Uberzolik::{ user=1314547 }, [Aeril](https://osu.ppy.sh/users/4334976), ::Astrolis::{ user=12357714 }, [Daycore](https://osu.ppy.sh/users/5596337), ::Mattay::{ user=9748303 }, [Shii](https://osu.ppy.sh/users/9186316), and ::Petal::{ user=7354729 } for screening, along with ::FuJu::{ user=10773882 }, [Gordon](https://osu.ppy.sh/users/7856835), ::wafer::{ user=9416836 }, [enneya](https://osu.ppy.sh/users/10959501), ::Tycani::{ user=6693266 }, [funny](https://osu.ppy.sh/users/8473573), and ::Pennek::{ user=3723742 } for judging!
+Special thanks to ::Uberzolik::{ user=1314547 }, ::Aeril::{ user=4334976 }, ::Astrolis::{ user=12357714 }, ::Daycore::{ user=5596337 }, ::Mattay::{ user=9748303 }, ::Shii::{ user=9186316 }, and ::Petal::{ user=7354729 } for screening, along with ::FuJu::{ user=10773882 }, ::Gordon::{ user=7856835 }, ::wafer::{ user=9416836 }, ::enneya::{ user=10959501 }, ::Tycani::{ user=6693266 }, ::funny::{ user=8473573 }, and ::Pennek::{ user=3723742 } for judging!
 
 ### osu!mania results
 
@@ -62,7 +62,7 @@ Following the same line of thought as **osu!**'s contest, **osu!mania**'s submis
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/JlQpeQRN75A" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Special thanks to ::Paraxia::{ user=14001000 }, [SilentWuffer](https://osu.ppy.sh/users/11355206), ::\1 deleted \1::{ user=16341063 }, [Evening](https://osu.ppy.sh/users/2193881), ::Maxus::{ user=4335785 }, and [Protastic101](https://osu.ppy.sh/users/6712747) for screening this contest, plus ::epic man 2::{ user=14566000 }, [Unpredictable](https://osu.ppy.sh/users/7560872), ::gzdongsheng::{ user=8660315 }, and [-mint-](https://osu.ppy.sh/users/8976576) for judging!
+Special thanks to ::Paraxia::{ user=14001000 }, ::SilentWuffer::{ user=11355206 }, ::\1 deleted \1::{ user=16341063 }, ::Evening::{ user=2193881 }, ::Maxus::{ user=4335785 }, and ::Protastic101::{ user=6712747 } for screening this contest, plus ::epic man 2::{ user=14566000 }, ::Unpredictable::{ user=7560872 }, ::gzdongsheng::{ user=8660315 }, and ::-mint-::{ user=8976576 } for judging!
 
 ---
 

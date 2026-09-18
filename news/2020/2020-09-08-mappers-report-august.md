@@ -61,10 +61,10 @@ As there weren't many Ranking Criteria changes this month, we would like to list
 
 ### BN Additions
 
-- **osu!:** ::Sylas::{ user=3906405 }, [Ryuusei Aika](https://osu.ppy.sh/users/7777875), ::NeKroMan4ik::{ user=11387664 }, [Karen](https://osu.ppy.sh/users/3143784), ::Een Persoon::{ user=10959501 }, [Pentori](https://osu.ppy.sh/users/7452237), ::Firika::{ user=9590557 } & [Mimari](https://osu.ppy.sh/users/14339830)
-- **osu!taiko:** ::Ulqui::{ user=1263669 } & [Jaltzu](https://osu.ppy.sh/users/2597417)
-- **osu!catch:** ::Rocma::{ user=566276 }, [JierYagtama](https://osu.ppy.sh/users/7483452) & ::autofanboy::{ user=636114 }
-- **osu!mania:** ::Murumoo::{ user=8001433 }, [RiP46](https://osu.ppy.sh/users/5222596) & ::Stelar::{ user=15205070 }
+- **osu!:** ::Sylas::{ user=3906405 }, ::Ryuusei Aika::{ user=7777875 }, ::NeKroMan4ik::{ user=11387664 }, ::Karen::{ user=3143784 }, ::Een Persoon::{ user=10959501 }, ::Pentori::{ user=7452237 }, ::Firika::{ user=9590557 } & ::Mimari::{ user=14339830 }
+- **osu!taiko:** ::Ulqui::{ user=1263669 } & ::Jaltzu::{ user=2597417 }
+- **osu!catch:** ::Rocma::{ user=566276 }, ::JierYagtama::{ user=7483452 } & ::autofanboy::{ user=636114 }
+- **osu!mania:** ::Murumoo::{ user=8001433 }, ::RiP46::{ user=5222596 } & ::Stelar::{ user=15205070 }
 
 Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator! The applications are always open.
 
@@ -72,7 +72,7 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com) and ap
 
 ### BN Departures
 
-- **osu!taiko:** ::Yales::{ user=2377881 } & [Axer](https://osu.ppy.sh/users/7299864)
+- **osu!taiko:** ::Yales::{ user=2377881 } & ::Axer::{ user=7299864 }
 - **osu!catch:** ::Dako::{ user=11081858 }
 - **osu!mania:** ::Kyousukee::{ user=8842107 }
 
@@ -81,7 +81,7 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com) and ap
 It's time again for the Mappers' Showcase! Similar to other months, we would like to present you some lesser-known mappers which are doing great content!
 As we have now finished the first cycle with all modes and the Storyboarder showcase, we're going back to the beginning, starting again with the osu! game mode.
 
-Thanks to ::Pachiru::{ user=2850983 } and [hypercyte](https://osu.ppy.sh/users/9155377) for the selections of this month.
+Thanks to ::Pachiru::{ user=2850983 } and ::hypercyte::{ user=9155377 } for the selections of this month.
 
 ### Scyhei
 
@@ -145,7 +145,7 @@ Do you know about mapping contests going on, or being announced soon? Then pleas
 
 ## Around the Community
 
-We're back with the "Around the Community" section, this time with an interesting project for all the modders! Should you have something worth including, be sure to let ::Feerum::{ user=4815717 } or [Noffy](https://osu.ppy.sh/users/1541323) know about it! We're happy to give it more attention in our news post!
+We're back with the "Around the Community" section, this time with an interesting project for all the modders! Should you have something worth including, be sure to let ::Feerum::{ user=4815717 } or ::Noffy::{ user=1541323 } know about it! We're happy to give it more attention in our news post!
 
 ### Modding Mentorship
 
@@ -189,7 +189,7 @@ Mentioned previously in the Mappers' Report, the **osu! Map Cast** has recently 
 
 And with that, we conclude the Mappers' Report for this month. Again a bit of a read but we're happy you made it until here.
 
-As always, if you have anything noteworthy we could include in the next issue of the Mappers' Report, please do not hesitate to tell ::Feerum::{ user=4815717 } or [Noffy](https://osu.ppy.sh/users/1541323). You can as well join us in the `#mappers-report` channel on the [osu! Community Discord Server](https://discord.gg/0Vxo9AsejDkGlk3H).
+As always, if you have anything noteworthy we could include in the next issue of the Mappers' Report, please do not hesitate to tell ::Feerum::{ user=4815717 } or ::Noffy::{ user=1541323 }. You can as well join us in the `#mappers-report` channel on the [osu! Community Discord Server](https://discord.gg/0Vxo9AsejDkGlk3H).
 
 Hope to see you there soon, thank you for reading and stay safe and healthy!
 

@@ -24,7 +24,7 @@ La primera edición del [osu!monthly](/wiki/Community/osu!monthly) fue publicada
 
 ## Septiembre
 
-Una versión no oficial de osu! fue lanzada por [Pesets](https://osu.ppy.sh/users/%40Pesets) para la plataforma [Android](https://es.wikipedia.org/wiki/Android).[^droid] Este proyecto fue archivado en un [subforo](http://osu.ppy.sh/forum/viewforum.php?f=85) dedicado.
+Una versión no oficial de osu! fue lanzada por ::Pesets::{ user=37086259 } para la plataforma [Android](https://es.wikipedia.org/wiki/Android).[^droid] Este proyecto fue archivado en un [subforo](http://osu.ppy.sh/forum/viewforum.php?f=85) dedicado.
 
 ## Octubre
 

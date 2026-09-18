@@ -42,7 +42,7 @@ See how **Marmalade butcher** translates to osu!mania through [this beatmap](htt
 Check out one of these masterpieces:
 
 - [Popular graveyard map](https://osu.ppy.sh/beatmapsets/1139182) hosted by ::xbopost::{ user=6842421 }
-- [Full mapset spread](https://osu.ppy.sh/beatmapsets/1473778) hosted by ::Camo::{ user=5194391 }, including an awesome OWC 2020 difficulty made by ::DeviousPanda::{ user=4966334 }, [Mao](https://osu.ppy.sh/users/2204515), and ::Zelq::{ user=8953955 }!
+- [Full mapset spread](https://osu.ppy.sh/beatmapsets/1473778) hosted by ::Camo::{ user=5194391 }, including an awesome OWC 2020 difficulty made by ::DeviousPanda::{ user=4966334 }, ::Mao::{ user=2204515 }, and ::Zelq::{ user=8953955 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/220/Nullum%20Sonum/Marmalade%20butcher%20-%20Amanita.mp3" type="audio/mpeg">

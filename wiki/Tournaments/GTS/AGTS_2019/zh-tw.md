@@ -64,36 +64,36 @@ outdated_translation: true
 
 |  | 國家 | 成員 |
 | :-: | :-: | :-- |
-| ::{ flag=AR }:: | **阿根廷** | **::Pollotuc::{ user=42440 }**, [juanilp4evr](https://osu.ppy.sh/users/6413125), ::Atreevete::{ user=2615199 }, [warning dark](https://osu.ppy.sh/users/5040981) |
-| ::{ flag=AU }:: | **澳大利亞** | **::Beat43210::{ user=5664171 }**, [Tsubasa2](https://osu.ppy.sh/users/6835183), ::richy2001::{ user=11499467 }, [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046) |
-| ::{ flag=AT }:: | **奧地利** | **::animexamera::{ user=7511357 }**, [morth1](https://osu.ppy.sh/users/7246874), ::Der Katze::{ user=7645997 }, [kBocaj](https://osu.ppy.sh/users/11453341), ::Amane::{ user=6821436 } |
-| ::{ flag=BR }:: | **巴西** | **::Lazarento::{ user=3224958 }**, [Uzi I](https://osu.ppy.sh/users/6042123), ::AiAyako::{ user=7003491 }, [Lolligerjoj](https://osu.ppy.sh/users/9053338), ::mihinho::{ user=6509269 } |
-| ::{ flag=CA }:: | **加拿大** | **::beary605::{ user=2198070 }**, [iceandele](https://osu.ppy.sh/users/1740540), ::Player-::{ user=3724819 }, [rubies87](https://osu.ppy.sh/users/4949934), ::DuckyDoom::{ user=3153062 } |
-| ::{ flag=CL }:: | **智利** | **::Catulus::{ user=6276709 }**, [Adimoc](https://osu.ppy.sh/users/6757492), ::-NaNdo-::{ user=1934382 } |
-| ::{ flag=CN }:: | **中國** | **::\[sACRIFICe\]::{ user=6294200 }**, [super mario fan](https://osu.ppy.sh/users/8263525), ::Flandre sca::{ user=10324309 }, [-OvO-](https://osu.ppy.sh/users/12208924), ::Nisoquo::{ user=12345370 } |
-| ::{ flag=EC }:: | **厄瓜多爾** | **::Gamelan4::{ user=9856910 }**, [Arkano036](https://osu.ppy.sh/users/5899577), ::Etsu::{ user=3442319 } |
-| ::{ flag=FR }:: | **法國** | **::maximaxiU::{ user=4069690 }**, [Chernobog](https://osu.ppy.sh/users/3317042), ::Gintoki8::{ user=2239411 }, [ALISTAR033009](https://osu.ppy.sh/users/9819975), ::ZeddaStake::{ user=8801844 } |
-| ::{ flag=DE }:: | **德國A.** | **::Capu::{ user=2474015 }**, [\[TaikoTori\]](https://osu.ppy.sh/users/1074143), ::QEpicAce::{ user=9489153 }, [Siegmund99](https://osu.ppy.sh/users/5168596), ::xBourbon\_Kid::{ user=645775 } |
-| ::{ flag=DE }:: | **德國B.** | **::Aninoss::{ user=7364706 }**, [Sayira](https://osu.ppy.sh/users/7253958), ::JanteSmith::{ user=371772 }, [Naugustogi](https://osu.ppy.sh/users/6803970) |
-| ::{ flag=HK }:: | **香港** | **::Brown918::{ user=9805760 }**, [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ::\[\_isolated\_\]::{ user=6187838 } |
-| ::{ flag=ID }:: | **印度尼西亞A.** | **::Mikurio::{ user=10734140 }**, [misaki_tk](https://osu.ppy.sh/users/3866964), ::steven1::{ user=3090416 }, [Volta](https://osu.ppy.sh/users/4154071) |
-| ::{ flag=ID }:: | **印度尼西亞B.** | **::Viewland::{ user=6250135 }**, [Shirai-](https://osu.ppy.sh/users/4221845), ::Alwaysyukaz::{ user=4999506 }, [ImChro](https://osu.ppy.sh/users/7280717), ::Ahmad Haris::{ user=6048245 } |
-| ::{ flag=JP }:: | **日本** | **::Briesmas::{ user=2865172 }**, [autumndayo](https://osu.ppy.sh/users/12268857), ::TEL09016579767::{ user=3925121 }, [shinnme_ao](https://osu.ppy.sh/users/6252972), ::Ku\1Ren::{ user=2535243 } |
-| ::{ flag=MY }:: | **馬來西亞** | **::Bedwyr Aorta::{ user=10875855 }**, [Megumin-Sama](https://osu.ppy.sh/users/6201335), ::Minisora::{ user=9627666 }, [imnoobatosuosu](https://osu.ppy.sh/users/12086753) |
-| ::{ flag=MX }:: | **墨西哥** | **::Iojioji::{ user=1346121 }**, [ZaveryK](https://osu.ppy.sh/users/10913397), ::L\_CORTES\_01::{ user=12548363 } |
-| ::{ flag=NL }:: | **荷蘭** | **::Krekker::{ user=8265940 }**, [Hypello](https://osu.ppy.sh/users/1594036), ::jesse-98::{ user=502722 }, [StrijkIjzer](https://osu.ppy.sh/users/4130926) |
-| ::{ flag=PH }:: | **菲律賓** | **::yuki\_momoiro722::{ user=7186791 }**, [Niro-](https://osu.ppy.sh/users/6443899), ::A i r::{ user=10363380 }, [Yron8](https://osu.ppy.sh/users/1537747) |
-| ::{ flag=PL }:: | **波蘭** | **::Agresywny Arbuz::{ user=7056658 }**, [Tetsurio](https://osu.ppy.sh/users/2044810), ::-Jamu-::{ user=2271556 }, [Wolfgang](https://osu.ppy.sh/users/7184324), ::fafik99::{ user=1787011 } |
-| ::{ flag=RU }:: | **俄羅斯聯邦A.** | **::Nozdormu::{ user=7169208 }**, [Akonine](https://osu.ppy.sh/users/7774222), ::pavlukivan::{ user=8321579 }, [CrowWhite](https://osu.ppy.sh/users/8638977), ::TwinT::{ user=9976154 } |
-| ::{ flag=RU }:: | **俄羅斯聯邦B.** | **::-Rmdy::{ user=1933816 }**, [JW-Dash](https://osu.ppy.sh/users/5285786), ::oserry::{ user=11973082 }, [Starger](https://osu.ppy.sh/users/3398715), ::Crysally::{ user=7792131 } |
-| ::{ flag=DK }:: ::{ flag=NO }:: ::{ flag=SE }:: | **斯堪的納維亞** | **::Hana Hayashi::{ user=4601806 }**, [1794766](https://osu.ppy.sh/users/1794766), ::Mills::{ user=7234023 }, [KatLeNeko](https://osu.ppy.sh/users/10183710), ::mammasutter::{ user=11830625 } |
-| ::{ flag=KR }:: | **韓國** | **::POCARI-SWEAT::{ user=5082685 }**, [bbj0920](https://osu.ppy.sh/users/87546), ::yuhuna\1kor::{ user=13046017 }, [\[Akita-Neru\]](https://osu.ppy.sh/users/613944), ::TRAtOrTs::{ user=12481695 } |
-| ::{ flag=ES }:: | **西班牙** | **::naliem::{ user=3252709 }**, [RuinedChicken](https://osu.ppy.sh/users/7983713), ::Machango::{ user=7180552 }, [Nara\_NB](https://osu.ppy.sh/users/3593992) |
-| ::{ flag=TW }:: | **台灣** | **::- DeveRUX -::{ user=2900875 }**, [Hatsuse](https://osu.ppy.sh/users/697007), ::nw9v4g46::{ user=2169329 }, [david649713](https://osu.ppy.sh/users/1390823) |
-| ::{ flag=GB }:: ::{ flag=PT }:: | **英國/葡萄牙** | **::Metzo::{ user=10633982 }**, [w1ll](https://osu.ppy.sh/users/11406987), ::Ali161102::{ user=7582420 }, [Yumi\_Hideaki](https://osu.ppy.sh/users/10081162) |
-| ::{ flag=US }:: | **美國A.** | **::Backfire::{ user=263110 }**, [ChurroChef](https://osu.ppy.sh/users/9258564), ::CaptainEChan::{ user=9536977 }, [dragonworm](https://osu.ppy.sh/users/11464752) |
-| ::{ flag=US }:: | **美國B.** | **::driodx::{ user=9709548 }**, [Shindamama](https://osu.ppy.sh/users/12780046), ::R J::{ user=6490509 }, [DiggyDogg](https://osu.ppy.sh/users/5014664) |
-| ::{ flag=VE }:: | **委內瑞拉** | **::Nutellitah::{ user=10613075 }**, [JessiChan](https://osu.ppy.sh/users/1368025) |
+| ::{ flag=AR }:: | **阿根廷** | **::Pollotuc::{ user=42440 }**, ::juanilp4evr::{ user=6413125 }, ::Atreevete::{ user=2615199 }, ::warning dark::{ user=5040981 } |
+| ::{ flag=AU }:: | **澳大利亞** | **::Beat43210::{ user=5664171 }**, ::Tsubasa2::{ user=6835183 }, ::richy2001::{ user=11499467 }, ::AmateurMonkeyYT::{ user=8379046 } |
+| ::{ flag=AT }:: | **奧地利** | **::animexamera::{ user=7511357 }**, ::morth1::{ user=7246874 }, ::Der Katze::{ user=7645997 }, ::kBocaj::{ user=11453341 }, ::Amane::{ user=6821436 } |
+| ::{ flag=BR }:: | **巴西** | **::Lazarento::{ user=3224958 }**, ::Uzi I::{ user=6042123 }, ::AiAyako::{ user=7003491 }, ::Lolligerjoj::{ user=9053338 }, ::mihinho::{ user=6509269 } |
+| ::{ flag=CA }:: | **加拿大** | **::beary605::{ user=2198070 }**, ::iceandele::{ user=1740540 }, ::Player-::{ user=3724819 }, ::rubies87::{ user=4949934 }, ::DuckyDoom::{ user=3153062 } |
+| ::{ flag=CL }:: | **智利** | **::Catulus::{ user=6276709 }**, ::Adimoc::{ user=6757492 }, ::-NaNdo-::{ user=1934382 } |
+| ::{ flag=CN }:: | **中國** | **::\[sACRIFICe\]::{ user=6294200 }**, ::super mario fan::{ user=8263525 }, ::Flandre sca::{ user=10324309 }, ::-OvO-::{ user=12208924 }, ::Nisoquo::{ user=12345370 } |
+| ::{ flag=EC }:: | **厄瓜多爾** | **::Gamelan4::{ user=9856910 }**, ::Arkano036::{ user=5899577 }, ::Etsu::{ user=3442319 } |
+| ::{ flag=FR }:: | **法國** | **::maximaxiU::{ user=4069690 }**, ::Chernobog::{ user=3317042 }, ::Gintoki8::{ user=2239411 }, ::ALISTAR033009::{ user=9819975 }, ::ZeddaStake::{ user=8801844 } |
+| ::{ flag=DE }:: | **德國A.** | **::Capu::{ user=2474015 }**, ::\[TaikoTori\]::{ user=1074143 }, ::QEpicAce::{ user=9489153 }, ::Siegmund99::{ user=5168596 }, ::xBourbon\_Kid::{ user=645775 } |
+| ::{ flag=DE }:: | **德國B.** | **::Aninoss::{ user=7364706 }**, ::Sayira::{ user=7253958 }, ::JanteSmith::{ user=371772 }, ::Naugustogi::{ user=6803970 } |
+| ::{ flag=HK }:: | **香港** | **::Brown918::{ user=9805760 }**, ::Cynplytholowazy::{ user=3901754 }, ::\[\_isolated\_\]::{ user=6187838 } |
+| ::{ flag=ID }:: | **印度尼西亞A.** | **::Mikurio::{ user=10734140 }**, ::misaki\1tk::{ user=3866964 }, ::steven1::{ user=3090416 }, ::Volta::{ user=4154071 } |
+| ::{ flag=ID }:: | **印度尼西亞B.** | **::Viewland::{ user=6250135 }**, ::Shirai-::{ user=4221845 }, ::Alwaysyukaz::{ user=4999506 }, ::ImChro::{ user=7280717 }, ::Ahmad Haris::{ user=6048245 } |
+| ::{ flag=JP }:: | **日本** | **::Briesmas::{ user=2865172 }**, ::autumndayo::{ user=12268857 }, ::TEL09016579767::{ user=3925121 }, ::shinnme\1ao::{ user=6252972 }, ::Ku\1Ren::{ user=2535243 } |
+| ::{ flag=MY }:: | **馬來西亞** | **::Bedwyr Aorta::{ user=10875855 }**, ::Megumin-Sama::{ user=6201335 }, ::Minisora::{ user=9627666 }, ::imnoobatosuosu::{ user=12086753 } |
+| ::{ flag=MX }:: | **墨西哥** | **::Iojioji::{ user=1346121 }**, ::ZaveryK::{ user=10913397 }, ::L\_CORTES\_01::{ user=12548363 } |
+| ::{ flag=NL }:: | **荷蘭** | **::Krekker::{ user=8265940 }**, ::Hypello::{ user=1594036 }, ::jesse-98::{ user=502722 }, ::StrijkIjzer::{ user=4130926 } |
+| ::{ flag=PH }:: | **菲律賓** | **::yuki\_momoiro722::{ user=7186791 }**, ::Niro-::{ user=6443899 }, ::A i r::{ user=10363380 }, ::Yron8::{ user=1537747 } |
+| ::{ flag=PL }:: | **波蘭** | **::Agresywny Arbuz::{ user=7056658 }**, ::Tetsurio::{ user=2044810 }, ::-Jamu-::{ user=2271556 }, ::Wolfgang::{ user=7184324 }, ::fafik99::{ user=1787011 } |
+| ::{ flag=RU }:: | **俄羅斯聯邦A.** | **::Nozdormu::{ user=7169208 }**, ::Akonine::{ user=7774222 }, ::pavlukivan::{ user=8321579 }, ::CrowWhite::{ user=8638977 }, ::TwinT::{ user=9976154 } |
+| ::{ flag=RU }:: | **俄羅斯聯邦B.** | **::-Rmdy::{ user=1933816 }**, ::JW-Dash::{ user=5285786 }, ::oserry::{ user=11973082 }, ::Starger::{ user=3398715 }, ::Crysally::{ user=7792131 } |
+| ::{ flag=DK }:: ::{ flag=NO }:: ::{ flag=SE }:: | **斯堪的納維亞** | **::Hana Hayashi::{ user=4601806 }**, ::1794766::{ user=1794766 }, ::Mills::{ user=7234023 }, ::KatLeNeko::{ user=10183710 }, ::mammasutter::{ user=11830625 } |
+| ::{ flag=KR }:: | **韓國** | **::POCARI-SWEAT::{ user=5082685 }**, ::bbj0920::{ user=87546 }, ::yuhuna\1kor::{ user=13046017 }, ::\[Akita-Neru\]::{ user=613944 }, ::TRAtOrTs::{ user=12481695 } |
+| ::{ flag=ES }:: | **西班牙** | **::naliem::{ user=3252709 }**, ::RuinedChicken::{ user=7983713 }, ::Machango::{ user=7180552 }, ::Nara\_NB::{ user=3593992 } |
+| ::{ flag=TW }:: | **台灣** | **::- DeveRUX -::{ user=2900875 }**, ::Hatsuse::{ user=697007 }, ::nw9v4g46::{ user=2169329 }, ::david649713::{ user=1390823 } |
+| ::{ flag=GB }:: ::{ flag=PT }:: | **英國/葡萄牙** | **::Metzo::{ user=10633982 }**, ::w1ll::{ user=11406987 }, ::Ali161102::{ user=7582420 }, ::Yumi\_Hideaki::{ user=10081162 } |
+| ::{ flag=US }:: | **美國A.** | **::Backfire::{ user=263110 }**, ::ChurroChef::{ user=9258564 }, ::CaptainEChan::{ user=9536977 }, ::dragonworm::{ user=11464752 } |
+| ::{ flag=US }:: | **美國B.** | **::driodx::{ user=9709548 }**, ::Shindamama::{ user=12780046 }, ::R J::{ user=6490509 }, ::DiggyDogg::{ user=5014664 } |
+| ::{ flag=VE }:: | **委內瑞拉** | **::Nutellitah::{ user=10613075 }**, ::JessiChan::{ user=1368025 } |
 
 ## 小組
 

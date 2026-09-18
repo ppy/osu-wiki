@@ -124,7 +124,7 @@ This season, we will say farewell to some of our members as well as welcome some
 
 **Curator resignations:**
 
-- **osu!mania**: ::Aruel::{ user=3984370 }, [HowToPlayLN](https://osu.ppy.sh/users/10879600)
+- **osu!mania**: ::Aruel::{ user=3984370 }, ::HowToPlayLN::{ user=10879600 }
 
 For the full Spotlights Team members list, check out the [Beatmap Spotlights wiki article](/wiki/Beatmap_Spotlights).
 

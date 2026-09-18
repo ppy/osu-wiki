@@ -19,7 +19,7 @@ Check everything out:
 
 ### [Ludicin - Lost Requiem](https://assets.ppy.sh/artists/459/Songs/Ludicin%20-%20Lost%20Requiem.osz)
 
-This year's osu!mania 7K World Cup will reach its conclusion next weekend. Expect to see [this year's Grand Finals tiebreaker](https://osu.ppy.sh/beatmapsets/2325151) (mapped by ::\1underjoy::{ user=2235750 }, [Critical_Star](https://osu.ppy.sh/users/3793196), ::Blocko::{ user=4075092 }, [ruka](https://osu.ppy.sh/users/6117525), ::\1Kobii::{ user=6209713 }, [ExNeko](https://osu.ppy.sh/users/7590894), ::U1d::{ user=10125072 }, plus the one and only ::**Ludicin**::{ user=8659666 }) to be the climax!
+This year's osu!mania 7K World Cup will reach its conclusion next weekend. Expect to see [this year's Grand Finals tiebreaker](https://osu.ppy.sh/beatmapsets/2325151) (mapped by ::\1underjoy::{ user=2235750 }, ::Critical\1Star::{ user=3793196 }, ::Blocko::{ user=4075092 }, ::ruka::{ user=6117525 }, ::\1Kobii::{ user=6209713 }, ::ExNeko::{ user=7590894 }, ::U1d::{ user=10125072 }, plus the one and only ::**Ludicin**::{ user=8659666 }) to be the climax!
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/MmccFHPScKA" frameborder="0" allowfullscreen></iframe>
@@ -29,9 +29,9 @@ This year's osu!mania 7K World Cup will reach its conclusion next weekend. Expec
 
 Play through any of these masterpieces:
 
-- [Two osu! marathons](https://osu.ppy.sh/beatmapsets/2111658) by ::Ilay::{ user=9005293 } and [Fursum](https://osu.ppy.sh/users/4865030)
-- [Two osu!taiko marathons](https://osu.ppy.sh/beatmapsets/1984610) by ::Undead Alice::{ user=17415683 } and [Tsukani](https://osu.ppy.sh/users/5146144)
-- [An osu!mania 4K marathon](https://osu.ppy.sh/beatmapsets/2016290) by ::uL-::{ user=10652110 } and [Disguise](https://osu.ppy.sh/users/10764851)
+- [Two osu! marathons](https://osu.ppy.sh/beatmapsets/2111658) by ::Ilay::{ user=9005293 } and ::Fursum::{ user=4865030 }
+- [Two osu!taiko marathons](https://osu.ppy.sh/beatmapsets/1984610) by ::Undead Alice::{ user=17415683 } and ::Tsukani::{ user=5146144 }
+- [An osu!mania 4K marathon](https://osu.ppy.sh/beatmapsets/2016290) by ::uL-::{ user=10652110 } and ::Disguise::{ user=10764851 }
 - [A slightly harder osu!mania 4K marathon](https://osu.ppy.sh/beatmapsets/2025951) by ::7912::{ user=14875348 }
 - [A considerably harder osu!mania 7K marathon](https://osu.ppy.sh/beatmapsets/2017887) by ::tyrcs::{ user=13026904 }
 
@@ -58,9 +58,9 @@ Here's another bunch of maps:
 **Ludicin**'s music is pretty popular. Take *another* batch of maps for this song from [The Perennial 2024](https://osu.ppy.sh/home/news/2024-05-21-the-perennial-returns):
 
 - [The original tournament map](https://osu.ppy.sh/beatmapsets/2214238) by ::hehe::{ user=2123087 }
-- [An osu!catch rendition](https://osu.ppy.sh/beatmapsets/2271235) co-created by ::-Ken::{ user=4430811 }, [Unlucky_w](https://osu.ppy.sh/users/4820793), ::-Rustyy::{ user=16355636 }, and [Ririmu](https://osu.ppy.sh/users/20424806)
+- [An osu!catch rendition](https://osu.ppy.sh/beatmapsets/2271235) co-created by ::-Ken::{ user=4430811 }, ::Unlucky\1w::{ user=4820793 }, ::-Rustyy::{ user=16355636 }, and ::Ririmu::{ user=20424806 }
 - [Two osu!mania 4K marathon difficulties](https://osu.ppy.sh/beatmapsets/2218336) by ::\[ A v a l o n \]::{ user=4632359 }
-- [Another osu!mania 4K marathon](https://osu.ppy.sh/beatmapsets/2246382) by ::-mint-::{ user=8976576 } and [elexire](https://osu.ppy.sh/users/9206093)
+- [Another osu!mania 4K marathon](https://osu.ppy.sh/beatmapsets/2246382) by ::-mint-::{ user=8976576 } and ::elexire::{ user=9206093 }
 - [An osu!mania 6K marathon](https://osu.ppy.sh/beatmapsets/2220030) by ::U1d::{ user=10125072 }
 
 <audio controls>

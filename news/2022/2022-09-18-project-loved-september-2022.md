@@ -31,7 +31,7 @@ Following the same idea, **the osu!catch captains have also opened applications*
 
 As always, if you want to help out with curating the maps that end up in the Loved polls, you can share maps with the captains or [review them on the Project Loved website](https://loved.sh/submissions). We are also in talks about testing out a more direct means for the community to nominate maps for Loved, but no promises just yet.
 
-Also, this post wouldn't be complete without something of a shout-out for the new faces helping around here, namely ::Irisu::{ user=8595858 } for helping me develop the website and ::0x84f::{ user=7944724 }, [dyndenial](https://osu.ppy.sh/users/16779673), ::Vysion::{ user=11594132 }, and [Irisu](https://osu.ppy.sh/users/8595858) for editing the captains' descriptions.
+Also, this post wouldn't be complete without something of a shout-out for the new faces helping around here, namely ::Irisu::{ user=8595858 } for helping me develop the website and ::0x84f::{ user=7944724 }, ::dyndenial::{ user=16779673 }, ::Vysion::{ user=11594132 }, and ::Irisu::{ user=8595858 } for editing the captains' descriptions.
 
 Lastly before the picks, check out these fancy banners for all of the Project Loved Discord servers made by ::Tanza3D::{ user=10379965 }, because by some arcane attention-grabbing power these generate dramatically more traffic than their plaintext link counterparts:
 
@@ -122,7 +122,7 @@ This map is a cultural icon dating back all the way to 2013, being one of the pr
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [Boaz](https://osu.ppy.sh/users/13302996), ::Gamelan4::{ user=9856910 }, [Horiiizon](https://osu.ppy.sh/users/8071438) and ::Roxy-::{ user=11931563 }!
+The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::Boaz::{ user=13302996 }, ::Gamelan4::{ user=9856910 }, ::Horiiizon::{ user=8071438 } and ::Roxy-::{ user=11931563 }!
 
 ---
 
@@ -170,7 +170,7 @@ It's impossible for us Loved captains to just ignore such a map, so we are excit
 240 BPM, 2:27 | 6.41★\
 *description written by ::-Kazu-::{ user=920861 }*
 
-At this point one could say there's two major traits that come to mind every time we feature a map by ::Ulqui::{ user=1263669 } or [Myckoll](https://osu.ppy.sh/users/554976) (and in this case, both!).
+At this point one could say there's two major traits that come to mind every time we feature a map by ::Ulqui::{ user=1263669 } or ::Myckoll::{ user=554976 } (and in this case, both!).
 
 First and the most obvious is the sheer amount of SV changes (and pretty high ones at that) these two use in order to keep players on their toes and emphasize the intensity of the song through note scroll speed, almost reaching Hard Rock territory most of the time.
 
@@ -192,7 +192,7 @@ Do you have what it takes to pass the top diff?
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, [Tenshichan](https://osu.ppy.sh/users/1101600) and ::Wesley::{ user=2407265 }!
+The osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, ::Tenshichan::{ user=1101600 } and ::Wesley::{ user=2407265 }!
 
 ---
 
@@ -238,7 +238,7 @@ Let go of that dash button once in a while and try to catch some of the hyperwal
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, [-NoName-](https://osu.ppy.sh/users/10400730), ::kadoen::{ user=12780575 }, [Paturages](https://osu.ppy.sh/users/1375479), ::RandomeLoL::{ user=7080063 } and [stupud man](https://osu.ppy.sh/users/2141612)!
+The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, ::-NoName-::{ user=10400730 }, ::kadoen::{ user=12780575 }, ::Paturages::{ user=1375479 }, ::RandomeLoL::{ user=7080063 } and ::stupud man::{ user=2141612 }!
 
 ---
 

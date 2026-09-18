@@ -42,7 +42,7 @@ Don't discount the rest of the spread though, especially not the 'Collab Insane'
 
 [![](/wiki/shared/news/2017-11-09-beatmap-spotlights-september-2017/chrono-diver.jpg)](https://osu.ppy.sh/beatmapsets/419600)
 
-**::toybot::{ user=2848604 }**, [ProfessionalBox](https://osu.ppy.sh/users/3280792), ::Sing::{ user=3795679 } & [byfar](https://osu.ppy.sh/users/4674054). A quick glance at the collaborator's names would already tell you that you're in for an extravagant composition. Filled with modern patterns and energy-filled gameplay, this mapset is accompanied by an alluring storyboard put together by famous storyboarders ::-Tochi::{ user=3664366 } and [Storyboarder](https://osu.ppy.sh/users/6124671)!
+**::toybot::{ user=2848604 }**, ::ProfessionalBox::{ user=3280792 }, ::Sing::{ user=3795679 } & ::byfar::{ user=4674054 }. A quick glance at the collaborator's names would already tell you that you're in for an extravagant composition. Filled with modern patterns and energy-filled gameplay, this mapset is accompanied by an alluring storyboard put together by famous storyboarders ::-Tochi::{ user=3664366 } and ::Storyboarder::{ user=6124671 }!
 
 As the song progresses from a calming, tropical tone to an energetic drumstep drop, we can observe a similar gradual increase in map intensity. The general style remains consistent, while the rhythms and spacing are slowly amped up. Carefully crafted by the four mappers, their novel styles meld effortlessly into one another, creating a feeling of smooth harmony. It's simply dazzling as to how easily the mapping flows from one section to the next, while still giving the punch that it needs for the kiais.
 

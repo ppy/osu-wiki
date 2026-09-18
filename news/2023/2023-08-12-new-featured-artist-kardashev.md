@@ -23,7 +23,7 @@ Speaking of hopeless cries for salvation, we asked ::A L E P H::{ user=6735738 }
 
 ### Kardashev - Cellar of Ghosts
 
-Attempt [the map from the video above](https://osu.ppy.sh/beatmapsets/1804362) by ::morphne::{ user=12927633 } and [iamtickrate](https://osu.ppy.sh/users/10772580)!
+Attempt [the map from the video above](https://osu.ppy.sh/beatmapsets/1804362) by ::morphne::{ user=12927633 } and ::iamtickrate::{ user=10772580 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/375/Liminal%20Rite/Kardashev%20-%20Cellar%20of%20Ghosts.mp3">

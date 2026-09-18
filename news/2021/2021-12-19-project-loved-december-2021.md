@@ -35,7 +35,7 @@ Let's move onto the last picks of 2021:
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, [Doomsday](https://osu.ppy.sh/users/18983) and ::kotkeone::{ user=10083084 }!
+The osu! Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, ::Doomsday::{ user=18983 } and ::kotkeone::{ user=10083084 }!
 
 ---
 
@@ -51,7 +51,7 @@ The combination a notable song, a funny little slider, and a well-made map has a
 
 [![](/wiki/shared/news/2021-12-16-project-loved-december-2021/1045242.jpg)](https://osu.ppy.sh/community/forums/topics/1484678)
 
-[BlackY vs. cosMo@BousouP - Improvisation Colosseum](https://osu.ppy.sh/beatmapsets/1045242#osu) by ::Nattu::{ user=1886722 } and [Ciyus Miapah](https://osu.ppy.sh/users/2805457)\
+[BlackY vs. cosMo@BousouP - Improvisation Colosseum](https://osu.ppy.sh/beatmapsets/1045242#osu) by ::Nattu::{ user=1886722 } and ::Ciyus Miapah::{ user=2805457 }\
 162 BPM, 4:52 | 7.24★\
 *description written by ::kotkeone::{ user=10083084 }*
 
@@ -125,7 +125,7 @@ I was very active in the mapping community around the time that he was, and I am
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [Boaz](https://osu.ppy.sh/users/13302996), ::Gamelan4::{ user=9856910 }, [Horiiizon](https://osu.ppy.sh/users/8071438), ::KuroKuroKuro::{ user=11931563 } and [POCARI SWEAT](https://osu.ppy.sh/users/5082685)!
+The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::Boaz::{ user=13302996 }, ::Gamelan4::{ user=9856910 }, ::Horiiizon::{ user=8071438 }, ::KuroKuroKuro::{ user=11931563 } and ::POCARI SWEAT::{ user=5082685 }!
 
 ---
 
@@ -167,7 +167,7 @@ Grape_Tea's *Chroma - lost found melody* has the most gorgeous bar-line effects 
 
 [![](/wiki/shared/news/2021-12-16-project-loved-december-2021/1158443.jpg)](https://osu.ppy.sh/community/forums/topics/1484667)
 
-[Mia REGINA - I got it! (Slax Remix)](https://osu.ppy.sh/beatmapsets/1158443#taiko) by ::maguro869::{ user=4733750 } and [hoku](https://osu.ppy.sh/users/9503098)\
+[Mia REGINA - I got it! (Slax Remix)](https://osu.ppy.sh/beatmapsets/1158443#taiko) by ::maguro869::{ user=4733750 } and ::hoku::{ user=9503098 }\
 210 BPM, 3:05 | 6.18★\
 *description written by ::Boaz::{ user=13302996 }*
 
@@ -189,7 +189,7 @@ Hopefully this map is enjoyed by ll-taiko Sp. fans and those who may struggle to
 
 [![](/wiki/shared/news/2021-12-16-project-loved-december-2021/1074374.jpg)](https://osu.ppy.sh/community/forums/topics/1484665)
 
-[Rahatt - WOULD AMENPUNK IS IMPRESSED?](https://osu.ppy.sh/beatmapsets/1074374#taiko) by ::Mew::{ user=2345156 }, [incandescence](https://osu.ppy.sh/users/6256027) and ::Zetera::{ user=587737 }\
+[Rahatt - WOULD AMENPUNK IS IMPRESSED?](https://osu.ppy.sh/beatmapsets/1074374#taiko) by ::Mew::{ user=2345156 }, ::incandescence::{ user=6256027 } and ::Zetera::{ user=587737 }\
 200 BPM, 2:24 | 4.74★, 5.89★, 7.14★\
 *description written by ::Horiiizon::{ user=8071438 }*
 
@@ -199,7 +199,7 @@ Despite having no flashy SVs or unusual snappings, *WOULD AMENPUNK IS IMPRESSED?
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::Spectator::{ user=702598 }, [Tenshichan](https://osu.ppy.sh/users/1101600) and ::Wesley::{ user=2407265 }!
+The osu!catch Loved candidates were chosen by ::Spectator::{ user=702598 }, ::Tenshichan::{ user=1101600 } and ::Wesley::{ user=2407265 }!
 
 ---
 
@@ -260,7 +260,7 @@ This is a very fast-paced but short song with a lot of hyperwalks all over the p
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, [Kawawa](https://osu.ppy.sh/users/4647754), ::Paturages::{ user=1375479 }, [Penguinosity](https://osu.ppy.sh/users/10235296) and ::RandomeLoL::{ user=7080063 }!
+The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, ::Kawawa::{ user=4647754 }, ::Paturages::{ user=1375479 }, ::Penguinosity::{ user=10235296 } and ::RandomeLoL::{ user=7080063 }!
 
 ---
 
@@ -367,7 +367,7 @@ Many older players are now going to be able to relieve a figment of hi19's secon
 
 [![](/wiki/shared/news/2021-12-16-project-loved-december-2021/1157663.jpg)](https://osu.ppy.sh/community/forums/topics/1484634)
 
-[Aethral - Victorious Journey](https://osu.ppy.sh/beatmapsets/1157663#mania) by ::Nimis::{ user=7439226 } and [Raveille](https://osu.ppy.sh/users/1388767)\
+[Aethral - Victorious Journey](https://osu.ppy.sh/beatmapsets/1157663#mania) by ::Nimis::{ user=7439226 } and ::Raveille::{ user=1388767 }\
 175 BPM, 3:54 | 5.38★\
 *description written by ::Penguinosity::{ user=10235296 }*
 
@@ -435,7 +435,7 @@ This is a well-done and difficult map, which given how rare 7K chordjack charts 
 
 [![](/wiki/shared/news/2021-12-16-project-loved-december-2021/739735.jpg)](https://osu.ppy.sh/community/forums/topics/1484628)
 
-[Chroma - I](https://osu.ppy.sh/beatmapsets/739735#mania) by ::Jakads::{ user=259972 }, [Murumoo](https://osu.ppy.sh/users/8001433), ::Shima Rin::{ user=6089608 }, [Turrim](https://osu.ppy.sh/users/3846265) and ::Wonki::{ user=7898495 }\
+[Chroma - I](https://osu.ppy.sh/beatmapsets/739735#mania) by ::Jakads::{ user=259972 }, ::Murumoo::{ user=8001433 }, ::Shima Rin::{ user=6089608 }, ::Turrim::{ user=3846265 } and ::Wonki::{ user=7898495 }\
 225 BPM, 2:00 | 1.39★ – 8.58★\
 *description written by ::\_underjoy::{ user=2235750 }*
 
@@ -463,7 +463,7 @@ That's all that I can really say for this, just a fun set and to such an energet
 
 [![](/wiki/shared/news/2021-12-16-project-loved-december-2021/868433.jpg)](https://osu.ppy.sh/community/forums/topics/1484626)
 
-[Otokaze - Natsukoi -Instrumental- (Cut Ver.)](https://osu.ppy.sh/beatmapsets/868433#mania) by ::Nananana::{ user=9116519 } and [ccouy123](https://osu.ppy.sh/users/7089532)\
+[Otokaze - Natsukoi -Instrumental- (Cut Ver.)](https://osu.ppy.sh/beatmapsets/868433#mania) by ::Nananana::{ user=9116519 } and ::ccouy123::{ user=7089532 }\
 92 BPM, 2:38 | 4.82★, 5.15★, 6.95★\
 *description written by ::\_underjoy::{ user=2235750 }*
 

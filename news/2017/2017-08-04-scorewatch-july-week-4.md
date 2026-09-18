@@ -37,7 +37,7 @@ osu!mania is back on the Scorewatch after a brief absence, this time round we go
 
 ## SCORESHOW WITH ZSEIKIMATSU
 
-::ExGon::{ user=214187 } and [Ryoko](https://osu.ppy.sh/users/2660111) slap on some extraordinary mod combinations and battle it out on [xi - Glorious Crown](https://osu.ppy.sh/p/beatmap?b=1181761&m=2) with EZ and FL!
+::ExGon::{ user=214187 } and ::Ryoko::{ user=2660111 } slap on some extraordinary mod combinations and battle it out on [xi - Glorious Crown](https://osu.ppy.sh/p/beatmap?b=1181761&m=2) with EZ and FL!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/T_Tqf8y6dKU" frameborder="0" allowfullscreen></iframe></br>
 

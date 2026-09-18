@@ -22,7 +22,7 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ## osu!standard
 
-osu!standard Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, [fartownik](https://osu.ppy.sh/users/56917) and ::Ventus::{ user=1986262 }! This round, all osu!standard beatmap descriptions were written by ::DigitalHypno::{ user=4384207 }.
+osu!standard Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, ::fartownik::{ user=56917 } and ::Ventus::{ user=1986262 }! This round, all osu!standard beatmap descriptions were written by ::DigitalHypno::{ user=4384207 }.
 
 ---
 
@@ -88,7 +88,7 @@ It's hard to find a map that executes stream tech well, but *shadows of cats* by
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::jyake::{ user=9099822 } and [-Kazu-](https://osu.ppy.sh/users/920861)!
+osu!taiko Loved candidates were chosen by ::jyake::{ user=9099822 } and ::-Kazu-::{ user=920861 }!
 
 ---
 
@@ -113,7 +113,7 @@ As one of the most hype maps to watch back in TWC 2019 (with KyouRekii87 doing a
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, [Tenshichan](https://osu.ppy.sh/users/1101600), ::Wesley::{ user=2407265 } and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
+osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, ::Tenshichan::{ user=1101600 }, ::Wesley::{ user=2407265 } and ::Yumeno Himiko::{ user=1806962 }!
 
 ---
 
@@ -136,7 +136,7 @@ We're back again with a map from Vincs, a French cover of the well-known song *D
 
 [![](/wiki/shared/news/2020-05-16-project-loved-may-2020/catch/3-fire.jpg)](https://osu.ppy.sh/community/forums/topics/1070619)
 
-[BTS - FIRE](https://osu.ppy.sh/beatmapsets/731684#fruits) by ::Spectator::{ user=702598 } and [Ollapeu](https://osu.ppy.sh/users/2064505)\
+[BTS - FIRE](https://osu.ppy.sh/beatmapsets/731684#fruits) by ::Spectator::{ user=702598 } and ::Ollapeu::{ user=2064505 }\
 100 BPM, 3:22 | 5.94★, 4.79★\
 *description written by ::Sartan::{ user=4100941 }*
 
@@ -156,7 +156,7 @@ A very hard map with unorthodox patterns bordering on the impossible, it is easy
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::-mint-::{ user=8976576 }, [Abraxos](https://osu.ppy.sh/users/5025064), ::lenpai::{ user=5314573 }, [Pope Gadget](https://osu.ppy.sh/users/2288341) and ::Toaph Daddy::{ user=7616811 }!
+osu!mania Loved candidates were chosen by ::-mint-::{ user=8976576 }, ::Abraxos::{ user=5025064 }, ::lenpai::{ user=5314573 }, ::Pope Gadget::{ user=2288341 } and ::Toaph Daddy::{ user=7616811 }!
 
 ---
 

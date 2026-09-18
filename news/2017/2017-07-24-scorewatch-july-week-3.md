@@ -38,7 +38,7 @@ In all of his extraordinary glory, ::kablaze::{ user=3043603 } does it again wit
 
 ## SCORESHOW WITH ZSEIKIMATSU
 
-::\1yu68::{ user=6170507 } and [shinchikuhome](https://osu.ppy.sh/users/3174184), the 2 greatest osu!taiko players, go on a DragonForce battle on [Symphony of the Night](https://osu.ppy.sh/beatmapsets/555073).
+::\1yu68::{ user=6170507 } and ::shinchikuhome::{ user=3174184 }, the 2 greatest osu!taiko players, go on a DragonForce battle on [Symphony of the Night](https://osu.ppy.sh/beatmapsets/555073).
 
 <iframe width="100%" height="315"
 src="https://www.youtube.com/embed/D37TPIuwPP8" frameborder="0" allowfullscreen></iframe></br>

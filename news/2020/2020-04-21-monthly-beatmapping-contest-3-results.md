@@ -41,7 +41,7 @@ And while he didn't win, we'd like to give a shoutout to ::Mao::{ user=2204515 }
 
 ---
 
-And as per usual, all participants in March's contest received a message showing how the screening crew viewed their entry. Thanks to ::coco::{ user=9579526 }, [fieryrage](https://osu.ppy.sh/users/3533958), ::Moecho::{ user=5075660 }, [Niva](https://osu.ppy.sh/users/197805), ::Cheri::{ user=5226970 }, [Nuvolina](https://osu.ppy.sh/users/10974170), ::Myxo::{ user=2202645 }, [Regou](https://osu.ppy.sh/users/419954), ::Seolv::{ user=8067876 }, [Trynna](https://osu.ppy.sh/users/2652951), ::Uberzolik::{ user=1314547 }, [Venix](https://osu.ppy.sh/users/5999631), and ::Zelq::{ user=8953955 } for screening all 60 contest submissions, and thanks to you for voting in the community poll.
+And as per usual, all participants in March's contest received a message showing how the screening crew viewed their entry. Thanks to ::coco::{ user=9579526 }, ::fieryrage::{ user=3533958 }, ::Moecho::{ user=5075660 }, ::Niva::{ user=197805 }, ::Cheri::{ user=5226970 }, ::Nuvolina::{ user=10974170 }, ::Myxo::{ user=2202645 }, ::Regou::{ user=419954 }, ::Seolv::{ user=8067876 }, ::Trynna::{ user=2652951 }, ::Uberzolik::{ user=1314547 }, ::Venix::{ user=5999631 }, and ::Zelq::{ user=8953955 } for screening all 60 contest submissions, and thanks to you for voting in the community poll.
 
 That's it for March's MBC! We're looking forward to seeing what can be created for [April's contest](https://osu.ppy.sh/community/contests/93) under the extremely-restrictive *sliders must have reverses* limitation. Also check out the latest [Aspire V contest](https://osu.ppy.sh/home/news/2020-04-09-aspire-v-a-new-format) if you're itching for even more mapping!
 

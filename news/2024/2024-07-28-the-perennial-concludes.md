@@ -254,7 +254,7 @@ Were there any other teams you were rooting for during the course of the tournam
 
 Yes, "mom's touch" and "EMPICONES", which placed 5th and 4th respectively. mom's touch, which was intended to be the B team for APAC RADIANT, was an all-Asian team I formed with ::Milkteaism::{ user=9642774 } in hopes of giving him more experience as both a tournament player and captain in preparation for OWC 2024 due to my absence this year.
 
-EMPICONES, on the other hand, was a team consisting of players I knew from a group called [#EMPATHS](https://www.twitch.tv/team/empaths) - specifically, ::BATBALL::{ user=15173952 }, [Pezz](https://osu.ppy.sh/users/10651106), ::suntanCTM::{ user=19998548 }, and [Twilight](https://osu.ppy.sh/users/6327638). I was rooting for both teams, so it was heartbreaking not to see either of them make the podium, but I believe their success in this year's Perennial is nothing to scoff at.
+EMPICONES, on the other hand, was a team consisting of players I knew from a group called [#EMPATHS](https://www.twitch.tv/team/empaths) - specifically, ::BATBALL::{ user=15173952 }, ::Pezz::{ user=10651106 }, ::suntanCTM::{ user=19998548 }, and ::Twilight::{ user=6327638 }. I was rooting for both teams, so it was heartbreaking not to see either of them make the podium, but I believe their success in this year's Perennial is nothing to scoff at.
 
 </div>
 

@@ -24,13 +24,13 @@ In case you don't read the end of this post, be sure to submit suggestions for b
 
 ## osu!
 
-osu! Loved candidates were chosen by ::-Roxas::{ user=1986262 }, [BeasttrollMC](https://osu.ppy.sh/users/3171691), ::Bubbleman::{ user=5182050 }, [DigitalHypno](https://osu.ppy.sh/users/4384207) and ::waywern2012::{ user=5870453 }!
+osu! Loved candidates were chosen by ::-Roxas::{ user=1986262 }, ::BeasttrollMC::{ user=3171691 }, ::Bubbleman::{ user=5182050 }, ::DigitalHypno::{ user=4384207 } and ::waywern2012::{ user=5870453 }!
 
 ---
 
 [![](/wiki/shared/news/2019-03-11-project-loved-week-of-march-10th/osu/ao-infinity.jpg)](https://osu.ppy.sh/community/forums/topics/880242)
 
-[Seiryu - AO-Infinity](https://osu.ppy.sh/beatmapsets/595127#osu) by ::Mordred::{ user=7265097 } and [Telomere](https://osu.ppy.sh/users/6295380)\
+[Seiryu - AO-Infinity](https://osu.ppy.sh/beatmapsets/595127#osu) by ::Mordred::{ user=7265097 } and ::Telomere::{ user=6295380 }\
 191 BPM, 3:12 | 6.52★, 7.09★\
 *written by ::BeasttrollMC::{ user=3171691 }*
 
@@ -46,7 +46,7 @@ Known for her high difficulty and jump-based maps, Yusomi returns again with her
 
 [![](/wiki/shared/news/2019-03-11-project-loved-week-of-march-10th/osu/night-club-junkie.jpg)](https://osu.ppy.sh/community/forums/topics/880240)
 
-[YUC'e - Night Club Junkie](https://osu.ppy.sh/beatmapsets/756066#osu) by ::Nathan::{ user=4785223 } and [fanzhen0019](https://osu.ppy.sh/users/418699)\
+[YUC'e - Night Club Junkie](https://osu.ppy.sh/beatmapsets/756066#osu) by ::Nathan::{ user=4785223 } and ::fanzhen0019::{ user=418699 }\
 240 BPM, 2:50 | 5.13★, 5.62★\
 *written by ::DigitalHypno::{ user=4384207 }*
 
@@ -70,11 +70,11 @@ Now here's a big boy map appearing in voting, Rizumu Tenshi (formerly Baka Tensh
 
 [![](/wiki/shared/news/2019-03-11-project-loved-week-of-march-10th/osu/planet-shaper.jpg)](https://osu.ppy.sh/community/forums/topics/880237)
 
-[Camellia - PLANET//SHAPER](https://osu.ppy.sh/beatmapsets/611729#osu) by ::09kami::{ user=443031 } and [Leader](https://osu.ppy.sh/users/631530)\
+[Camellia - PLANET//SHAPER](https://osu.ppy.sh/beatmapsets/611729#osu) by ::09kami::{ user=443031 } and ::Leader::{ user=631530 }\
 147 BPM, 5:47 | 6.98★\
 *written by ::-Roxas::{ user=1986262 }*
 
-We're back with another fun 09kami map, this time being "Camellia - PLANET//SHAPER". This map, similar to his other maps, is very slider and tech heavy. In addition, this map also has 2B patterns chucked in throughout the map, making it a bit more unique than the rest. If this is your type of map, then what are you waiting for? Give it a try! With the map being favorites by many players, including notable names like ::rrtyui::{ user=352328 }, [Akali](https://osu.ppy.sh/users/2127359) and ::yf\_bmp::{ user=1243669 }, you won't be let down. The star rating almost hits 7, so it may be a bit of a challenge, but don't be afraid! You never know how well you'll do until you play it.
+We're back with another fun 09kami map, this time being "Camellia - PLANET//SHAPER". This map, similar to his other maps, is very slider and tech heavy. In addition, this map also has 2B patterns chucked in throughout the map, making it a bit more unique than the rest. If this is your type of map, then what are you waiting for? Give it a try! With the map being favorites by many players, including notable names like ::rrtyui::{ user=352328 }, ::Akali::{ user=2127359 } and ::yf\_bmp::{ user=1243669 }, you won't be let down. The star rating almost hits 7, so it may be a bit of a challenge, but don't be afraid! You never know how well you'll do until you play it.
 
 [![](/wiki/shared/news/2019-03-11-project-loved-week-of-march-10th/osu/snow-prism.jpg)](https://osu.ppy.sh/community/forums/topics/880236)
 
@@ -110,7 +110,7 @@ toybot's mapset of "LegenD." was updated and revised for a year after its creati
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [iceOC](https://osu.ppy.sh/users/5482401), ::jyake::{ user=9099822 } and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
+osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::iceOC::{ user=5482401 }, ::jyake::{ user=9099822 } and ::nyanmi-1828::{ user=6866480 }!
 
 ---
 
@@ -132,7 +132,7 @@ This week, we have katagiri... but this isn't only a katagiri song: It's Katagir
 
 [![](/wiki/shared/news/2019-03-11-project-loved-week-of-march-10th/taiko/nosso-samba.jpg)](https://osu.ppy.sh/community/forums/topics/880224)
 
-[Noam Lederman - Nosso Samba](https://osu.ppy.sh/beatmapsets/716866#taiko) by ::mangomizer::{ user=1893718 } and [Midnaait](https://osu.ppy.sh/users/1506011)\
+[Noam Lederman - Nosso Samba](https://osu.ppy.sh/beatmapsets/716866#taiko) by ::mangomizer::{ user=1893718 } and ::Midnaait::{ user=1506011 }\
 110 BPM, 3:09 | 2.42★, 4.14★\
 *written by ::iceOC::{ user=5482401 }*
 
@@ -140,7 +140,7 @@ Nosso Samba... 1, 2, 1, 2. You may know this map if you've been active recently.
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Ascendance::{ user=2931883 }, [Sartan](https://osu.ppy.sh/users/4100941), ::Tenshichan::{ user=1101600 } and [Wesley](https://osu.ppy.sh/users/2407265)!
+osu!catch Loved candidates were chosen by ::Ascendance::{ user=2931883 }, ::Sartan::{ user=4100941 }, ::Tenshichan::{ user=1101600 } and ::Wesley::{ user=2407265 }!
 
 ---
 
@@ -162,7 +162,7 @@ Despite it not being quite as big of a leap back as the other map featured this 
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::Lenfried-::{ user=5314573 }, [Pope Gadget](https://osu.ppy.sh/users/2288341), ::Shoegazer::{ user=2520707 } and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
+osu!mania Loved candidates were chosen by ::Lenfried-::{ user=5314573 }, ::Pope Gadget::{ user=2288341 }, ::Shoegazer::{ user=2520707 } and ::Toaph Daddy::{ user=7616811 }!
 
 ---
 
@@ -208,7 +208,7 @@ Both diffs start off with dense but comfy chordstreams followed up by a mild res
 
 [![](/wiki/shared/news/2019-03-11-project-loved-week-of-march-10th/mania/ame-to-asphalt.jpg)](https://osu.ppy.sh/community/forums/topics/880215)
 
-[40mP feat. yuikonnu - Ame to Asphalt](https://osu.ppy.sh/beatmapsets/808101#mania) by ::MisterLuka::{ user=6117525 }, [eZmmR](https://osu.ppy.sh/users/8647138), ::shuniki::{ user=4942174 } and [[R]](https://osu.ppy.sh/users/3577322)\
+[40mP feat. yuikonnu - Ame to Asphalt](https://osu.ppy.sh/beatmapsets/808101#mania) by ::MisterLuka::{ user=6117525 }, ::eZmmR::{ user=8647138 }, ::shuniki::{ user=4942174 } and ::\1R\1::{ user=3577322 }\
 190 BPM, 4:09 | 4K 6.37★, 7K 8.78★
 
 We have another fresh face coming to Project Loved. For those who want more noodles, we have MisterLuka's Ame to Asphalt which is not just a 7K pick, but it also presents a 4K map with the collaboration with two notable mappers in the 4K LN scene: eZmmR and shuniki!
@@ -221,7 +221,7 @@ Entering into the 7K map, we get to see MisterLuka's style in full view. Followi
 
 From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
-In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Ephemeral::{ user=102335 }, [huu](https://osu.ppy.sh/users/6044237), ::Noffy::{ user=1541323 } and [Toy](https://osu.ppy.sh/users/2757689) for their miscellaneous help in managing Project Loved.
+In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Ephemeral::{ user=102335 }, ::huu::{ user=6044237 }, ::Noffy::{ user=1541323 } and ::Toy::{ user=2757689 } for their miscellaneous help in managing Project Loved.
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! You can view the current submissions on the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0). For osu!mania, please use [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSeaGfoQNGMqw4qQcqRPItUZILh2fGwJR6ly6cZNY9OWPXkFhw/viewform) and [this Google sheet](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit) instead.
 

@@ -8,7 +8,7 @@ series: beatmap_spotlights
 
 The Ranking Charts for February 2016 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1602)!
 
-This month ::Blue Dragon::{ user=19048 }, [Lost The Lights](https://osu.ppy.sh/users/1255920), ::Kurokami::{ user=260933 } and [iJinjin](https://osu.ppy.sh/users/3360737) picked the maps for the Monthly Ranking Charts.
+This month ::Blue Dragon::{ user=19048 }, ::Lost The Lights::{ user=1255920 }, ::Kurokami::{ user=260933 } and ::iJinjin::{ user=3360737 } picked the maps for the Monthly Ranking Charts.
 
 ## Ranking Charts Creation
 

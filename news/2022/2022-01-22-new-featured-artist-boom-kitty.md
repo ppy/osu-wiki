@@ -23,7 +23,7 @@ As an innovator in the EDM scene, it's only fitting that you experience **Boom K
 
 ### Boom Kitty - Any Other Way (feat. Ivy Marie)
 
-Try [the map from the video above](https://osu.ppy.sh/beatmapsets/1673457) created by ::elicz1::{ user=8039342 } and [Zelq](https://osu.ppy.sh/users/8953955)!
+Try [the map from the video above](https://osu.ppy.sh/beatmapsets/1673457) created by ::elicz1::{ user=8039342 } and ::Zelq::{ user=8953955 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/233/Songs/Boom%20Kitty%20-%20Any%20Other%20Way%20%28feat.%20Ivy%20Marie%29.mp3" type="audio/mpeg">

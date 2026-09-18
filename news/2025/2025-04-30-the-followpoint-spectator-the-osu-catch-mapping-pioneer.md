@@ -94,7 +94,7 @@ Is there a specific memory from osu! that stands out to you? If so, which one?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/702598">Spectator</a></p>
 
-There are a lot of great memories, but the most memorable one for me was the Grand Finals match of the [osu! Catch The Beat World Cup 2014](/wiki/Tournaments/CWC/2014). Our opponent was Germany, a team full of outstanding players like ::NoteKuroi::{ user=186642 }, [Nyan-Zapo](https://osu.ppy.sh/users/480676), and ::DeathXHunter::{ user=405326 }.
+There are a lot of great memories, but the most memorable one for me was the Grand Finals match of the [osu! Catch The Beat World Cup 2014](/wiki/Tournaments/CWC/2014). Our opponent was Germany, a team full of outstanding players like ::NoteKuroi::{ user=186642 }, ::Nyan-Zapo::{ user=480676 }, and ::DeathXHunter::{ user=405326 }.
 
 Due to a DDoS attack, we had to replay the match without a stream, and it was one of the most nerve-wracking moments of my osu! tournament career. But somehow, I performed better in the rematch and managed to win the World Cup for the first time. Even to this day, those three players from Germany remain some of my best rivals in the game, and I'll always be grateful to them for the unforgettable memories.
 
@@ -186,7 +186,7 @@ And as a bonus to the previous question, are there any mappers that you like or 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/702598">Spectator</a></p>
 
-Back when I started osu!catch mapping, there weren't many osu!catch specific maps, so I found most of my inspiration from standard mappers. I was really impressed by ::RLC::{ user=1047883 }'s mapping style, and later on, mappers like ::Cherry Blossom::{ user=1156742 }, [Frostmourne](https://osu.ppy.sh/users/199669), ::Shiirn::{ user=465126 }, and [Charles445](https://osu.ppy.sh/users/85000) also had a huge influence on me. In the modern era, ::Rocma::{ user=566276 } and Jemzuu have influenced me the most. They're capable of so much in the editor, and I'm always picking up ideas from their work.
+Back when I started osu!catch mapping, there weren't many osu!catch specific maps, so I found most of my inspiration from standard mappers. I was really impressed by ::RLC::{ user=1047883 }'s mapping style, and later on, mappers like ::Cherry Blossom::{ user=1156742 }, ::Frostmourne::{ user=199669 }, ::Shiirn::{ user=465126 }, and ::Charles445::{ user=85000 } also had a huge influence on me. In the modern era, ::Rocma::{ user=566276 } and Jemzuu have influenced me the most. They're capable of so much in the editor, and I'm always picking up ideas from their work.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
@@ -264,7 +264,7 @@ If you could meet any osu! player IRL, who would you want to meet the most, and 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/702598">Spectator</a></p>
 
-I met up with ::Ascendance::{ user=2931883 } and [wonjae](https://osu.ppy.sh/users/5032045) for the first time in Korea a few days ago, and it was an amazing experience. If I get the chance to meet more osu! players, I'd love to meet ::Daletto::{ user=7592136 }, [Kukkai](https://osu.ppy.sh/users/7811952), ::-Luminate::{ user=4778689 }, and Jemzuu. They're not only the mappers I look up to, but also my closest friends in the game.
+I met up with ::Ascendance::{ user=2931883 } and ::wonjae::{ user=5032045 } for the first time in Korea a few days ago, and it was an amazing experience. If I get the chance to meet more osu! players, I'd love to meet ::Daletto::{ user=7592136 }, ::Kukkai::{ user=7811952 }, ::-Luminate::{ user=4778689 }, and Jemzuu. They're not only the mappers I look up to, but also my closest friends in the game.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 

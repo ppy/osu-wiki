@@ -14,7 +14,7 @@ Comme les éléments de [skinning](/wiki/Skinning) se sont développés, l'élé
 
 ## Avril
 
-Le tout premier "osu! Monthly Fanart Contest" a été annoncé le 3 avril 2014. Il s'agissait d'un concours informel organisé par ::LuigiHann::{ user=1079 } qui se déroulerait tous les mois et récompenserait deux gagnants par an d'[osu!supporter](https://osu.ppy.sh/home/support) (l'un choisi par le public et l'autre par le personnel d'osu!).[^fanart] Le premier concours s'est conclu par un [newspost](https://osu.ppy.sh/home/news/2014-05-21-first-official-osu-fanart-contest-results) le 21 mai 2014, les joueurs ::kunny::{ user=3931585 } et [DumplingYumYum](https://osu.ppy.sh/users/1715930) remportant respectivement la première et la deuxième place.[^fanart-results]
+Le tout premier "osu! Monthly Fanart Contest" a été annoncé le 3 avril 2014. Il s'agissait d'un concours informel organisé par ::LuigiHann::{ user=1079 } qui se déroulerait tous les mois et récompenserait deux gagnants par an d'[osu!supporter](https://osu.ppy.sh/home/support) (l'un choisi par le public et l'autre par le personnel d'osu!).[^fanart] Le premier concours s'est conclu par un [newspost](https://osu.ppy.sh/home/news/2014-05-21-first-official-osu-fanart-contest-results) le 21 mai 2014, les joueurs ::kunny::{ user=3931585 } et ::DumplingYumYum::{ user=1715930 } remportant respectivement la première et la deuxième place.[^fanart-results]
 
 ## Juin
 

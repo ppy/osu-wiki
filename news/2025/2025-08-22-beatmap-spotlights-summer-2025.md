@@ -86,11 +86,11 @@ Fun fact: ::Andrea::{ user=33599 } nominated both the original 2009 map and this
 
 [![](/wiki/shared/news/2025-08-22-beatmap-spotlights-summer-2025/2347284.jpg)](https://osu.ppy.sh/beatmapsets/2347284#osu/5048624)
 
-**[Supire - Dead Aire (Jayceko) \[Nwolf's & Jayceko's Inherited Misfortune\]](https://osu.ppy.sh/beatmapsets/2347284#osu/5048624)**, created by ::Jayceko::{ user=19951350 } and [Nwolf](https://osu.ppy.sh/users/1910766)\
+**[Supire - Dead Aire (Jayceko) \[Nwolf's & Jayceko's Inherited Misfortune\]](https://osu.ppy.sh/beatmapsets/2347284#osu/5048624)**, created by ::Jayceko::{ user=19951350 } and ::Nwolf::{ user=1910766 }\
 *primarily suggested by ::nevqr::{ user=14269506 }*\
 *described by ::Yasuho::{ user=8458835 }*
 
-Let's all take a well-needed breather and go back to one of the greatest maps the [osu!taiko World Cup 2025](/wiki/Tournaments/TWC/2025) had to offer. Of course, we are talking about [Supire - Dead Aire](https://osu.ppy.sh/beatmapsets/2347284#taiko/5048624) mapped by ::Jayceko::{ user=19951350 } and [Nwolf](https://osu.ppy.sh/users/1910766), this year's Quarterfinals tiebreaker.
+Let's all take a well-needed breather and go back to one of the greatest maps the [osu!taiko World Cup 2025](/wiki/Tournaments/TWC/2025) had to offer. Of course, we are talking about [Supire - Dead Aire](https://osu.ppy.sh/beatmapsets/2347284#taiko/5048624) mapped by ::Jayceko::{ user=19951350 } and ::Nwolf::{ user=1910766 }, this year's Quarterfinals tiebreaker.
 
 Amazing design and song meets beatmapping extraordinaire — a collab we didn't know we needed. The techy mapping style is greatly supported by this song's neurofunk atmosphere. From start to finish, players receive plenty of difficult snapping and slider velocity changes and a custom song experience that can very easily cause goosebumps. Also remember to turn on the storyboard by ::binarie::{ user=15632854 } for the full experience.
 
@@ -199,12 +199,12 @@ Following up on recent Beatmap Spotlight Curator applications, there's been some
 
 We’d like to give a warm welcome to the new members joining us this season. They will support the existing Curators team in crafting the best playlists for you to compete on!
 
-- **osu!**: ::Boolin::{ user=10664409 }, [Chaoslitz](https://osu.ppy.sh/users/3621552), ::nanoya::{ user=12366071 }, [Ryuusei Aika](https://osu.ppy.sh/users/7777875), ::Willy::{ user=3521482 }, [Wispy](https://osu.ppy.sh/users/11106929), ::zekk::{ user=9704802 }
-- **osu!taiko**: ::nevqr::{ user=14269506 }, [Yasuho](https://osu.ppy.sh/users/8458835)
-- **osu!catch**: ::Constantine::{ user=3221898 }, [Realmaas](https://osu.ppy.sh/users/6567640)
-- **osu!mania**: ::Akasha-::{ user=2596306 }, [Muse Dash](https://osu.ppy.sh/users/13695676), ::Rurvker::{ user=24526335 }, [Spy](https://osu.ppy.sh/users/1217122)
+- **osu!**: ::Boolin::{ user=10664409 }, ::Chaoslitz::{ user=3621552 }, ::nanoya::{ user=12366071 }, ::Ryuusei Aika::{ user=7777875 }, ::Willy::{ user=3521482 }, ::Wispy::{ user=11106929 }, ::zekk::{ user=9704802 }
+- **osu!taiko**: ::nevqr::{ user=14269506 }, ::Yasuho::{ user=8458835 }
+- **osu!catch**: ::Constantine::{ user=3221898 }, ::Realmaas::{ user=6567640 }
+- **osu!mania**: ::Akasha-::{ user=2596306 }, ::Muse Dash::{ user=13695676 }, ::Rurvker::{ user=24526335 }, ::Spy::{ user=1217122 }
 
-We would also like to say farewell to the following people who decided to step down from the team: ::Boaz::{ user=13302996 }, [DeviousPanda](https://osu.ppy.sh/users/4966334), ::enri::{ user=8640970 }, [Hivie](https://osu.ppy.sh/users/14102976), ::meiqth::{ user=12565402 } and [sularis](https://osu.ppy.sh/users/14571181). Big thanks for your service!
+We would also like to say farewell to the following people who decided to step down from the team: ::Boaz::{ user=13302996 }, ::DeviousPanda::{ user=4966334 }, ::enri::{ user=8640970 }, ::Hivie::{ user=14102976 }, ::meiqth::{ user=12565402 } and ::sularis::{ user=14571181 }. Big thanks for your service!
 
 This season, ::Yasuho::{ user=8458835 } also took over the osu!taiko curators, while ::Maxus::{ user=4335785 } has started taking the reins with leading the osu!mania team.
 

@@ -37,7 +37,7 @@ Alright, enough said. Let’s get on with this month’s nominations.
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, [Doomsday](https://osu.ppy.sh/users/18983), ::UberFazz::{ user=8646059 } and [Wixonater](https://osu.ppy.sh/users/10083084)!
+The osu! Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, ::Doomsday::{ user=18983 }, ::UberFazz::{ user=8646059 } and ::Wixonater::{ user=10083084 }!
 
 ---
 
@@ -59,7 +59,7 @@ Mismagius makes his return to Loved with another tech map of a speedcore track b
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/1224177.jpg)](https://osu.ppy.sh/community/forums/topics/1445550)
 
-[Camellia feat. Nanahira - Konran Shoujo Soflan-chan!! (Long Version)](https://osu.ppy.sh/beatmapsets/1224177#osu) by ::0ugi::{ user=3812234 } and [LeCandy](https://osu.ppy.sh/users/6626249)\
+[Camellia feat. Nanahira - Konran Shoujo Soflan-chan!! (Long Version)](https://osu.ppy.sh/beatmapsets/1224177#osu) by ::0ugi::{ user=3812234 } and ::LeCandy::{ user=6626249 }\
 153 BPM, 9:00 | 7.81★, 8.84★\
 *description written by ::UberFazz::{ user=8646059 }*
 
@@ -83,7 +83,7 @@ Although known throughout the tournament community for many NM1 maps, Skyflame h
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/780368.jpg)](https://osu.ppy.sh/community/forums/topics/1445547)
 
-[MowtenDoo - Blend W](https://osu.ppy.sh/beatmapsets/780368#osu) by ::Kalindraz::{ user=2313166 }, [Alexsander](https://osu.ppy.sh/users/9254241), ::ekisu::{ user=3822808 }, [Lucifinho](https://osu.ppy.sh/users/3687604), ::Marianna::{ user=6701398 }, [reicavera](https://osu.ppy.sh/users/9314703) and ::xxluizxx47::{ user=4687701 }\
+[MowtenDoo - Blend W](https://osu.ppy.sh/beatmapsets/780368#osu) by ::Kalindraz::{ user=2313166 }, ::Alexsander::{ user=9254241 }, ::ekisu::{ user=3822808 }, ::Lucifinho::{ user=3687604 }, ::Marianna::{ user=6701398 }, ::reicavera::{ user=9314703 } and ::xxluizxx47::{ user=4687701 }\
 152 BPM, 1:29 | 2.45★ – 5.48★\
 *description written by ::Doomsday::{ user=18983 }*
 
@@ -113,7 +113,7 @@ A jump-heavy mapset with a rather spooky twist, this is one for those looking fo
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [Gamelan4](https://osu.ppy.sh/users/9856910), ::Horiiizon::{ user=8071438 }, [KuroKuroKuro](https://osu.ppy.sh/users/11931563) and ::POCARI SWEAT::{ user=5082685 }!
+The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::Gamelan4::{ user=9856910 }, ::Horiiizon::{ user=8071438 }, ::KuroKuroKuro::{ user=11931563 } and ::POCARI SWEAT::{ user=5082685 }!
 
 ---
 
@@ -169,7 +169,7 @@ In contrast to the *Chariot* map above, *dancing on the sidewalk lights flicker*
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, [Spectator](https://osu.ppy.sh/users/702598), ::Tenshichan::{ user=1101600 } and [Wesley](https://osu.ppy.sh/users/2407265)!
+The osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, ::Spectator::{ user=702598 }, ::Tenshichan::{ user=1101600 } and ::Wesley::{ user=2407265 }!
 
 ---
 
@@ -191,7 +191,7 @@ Nelly's older style focuses more on the playability and flow than any of our mod
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/529589.jpg)](https://osu.ppy.sh/community/forums/topics/1445531)
 
-[Imperial Circus Dead Decadence - FUBUKI](https://osu.ppy.sh/beatmapsets/529589#fruits) by ::Bunnrei::{ user=829284 } and [Magic Girl](https://osu.ppy.sh/users/3095784)\
+[Imperial Circus Dead Decadence - FUBUKI](https://osu.ppy.sh/beatmapsets/529589#fruits) by ::Bunnrei::{ user=829284 } and ::Magic Girl::{ user=3095784 }\
 195 BPM, 1:39 | 1.72★, 3.05★, 4.14★, 5.74★\
 *description written by ::Sartan::{ user=4100941 }*
 
@@ -215,13 +215,13 @@ If you think you have what it takes to tackle this map, give it a shot.
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, [Kawawa](https://osu.ppy.sh/users/4647754), ::Paturages::{ user=1375479 }, [Penguinosity](https://osu.ppy.sh/users/10235296) and ::RandomeLoL::{ user=7080063 }!
+The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, ::Kawawa::{ user=4647754 }, ::Paturages::{ user=1375479 }, ::Penguinosity::{ user=10235296 } and ::RandomeLoL::{ user=7080063 }!
 
 ---
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/639647.jpg)](https://osu.ppy.sh/community/forums/topics/1445526)
 
-[Camellia - GHOST](https://osu.ppy.sh/beatmapsets/639647#mania) by ::-mint-::{ user=8976576 }, [Mentholzzz](https://osu.ppy.sh/users/7182779) and ::Polytetral::{ user=8612061 }\
+[Camellia - GHOST](https://osu.ppy.sh/beatmapsets/639647#mania) by ::-mint-::{ user=8976576 }, ::Mentholzzz::{ user=7182779 } and ::Polytetral::{ user=8612061 }\
 220 BPM, 5:32 | 1.99★ – 6.02★\
 *description written by ::Paturages::{ user=1375479 }*
 
@@ -235,7 +235,7 @@ Do not get haunted by this long-winded description: go cast your vote now and al
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/547197.jpg)](https://osu.ppy.sh/community/forums/topics/1445525)
 
-[Various Artists - Jumpstream Of Fighters Vol. 2A](https://osu.ppy.sh/beatmapsets/547197#mania) by ::Leo137::{ user=1177817 }, [akuma123](https://osu.ppy.sh/users/914472), ::Alamanar::{ user=7621152 }, [blazziken_old](https://osu.ppy.sh/users/2544313) and ::porkypink::{ user=8599368 }\
+[Various Artists - Jumpstream Of Fighters Vol. 2A](https://osu.ppy.sh/beatmapsets/547197#mania) by ::Leo137::{ user=1177817 }, ::akuma123::{ user=914472 }, ::Alamanar::{ user=7621152 }, ::blazziken\1old::{ user=2544313 } and ::porkypink::{ user=8599368 }\
 170 – 224 BPM, 3:59 | 4.21★ – 5.22★\
 The \[(Marathon) - Delete Upon Download\] difficulty is *not* being nominated for Loved.\
 *description written by ::Paturages::{ user=1375479 }*
@@ -289,7 +289,7 @@ Penguinosity did a great and clean job with this chart. Although highly chaotic,
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/1133738.jpg)](https://osu.ppy.sh/community/forums/topics/1445520)
 
-[Camellia feat. Nanahira - finorza](https://osu.ppy.sh/beatmapsets/1133738#mania) by ::AlexDunk::{ user=9194799 } and [lovely_hyahya](https://osu.ppy.sh/users/10318380)\
+[Camellia feat. Nanahira - finorza](https://osu.ppy.sh/beatmapsets/1133738#mania) by ::AlexDunk::{ user=9194799 } and ::lovely\1hyahya::{ user=10318380 }\
 225 BPM, 4:41 | 5.18★, 5.57★\
 *description written by ::RandomeLoL::{ user=7080063 }*
 
@@ -421,7 +421,7 @@ The playful nature of the song is well reflected in the map's flow that always f
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/1386965.jpg)](https://osu.ppy.sh/community/forums/topics/1445510)
 
-[AAAA + Umeboshi Chazuke - Cait Sith](https://osu.ppy.sh/beatmapsets/1386965#mania) by ::Yunabi::{ user=12006280 }, [qodtjr](https://osu.ppy.sh/users/3021168) and ::SYISHI::{ user=8884753 }\
+[AAAA + Umeboshi Chazuke - Cait Sith](https://osu.ppy.sh/beatmapsets/1386965#mania) by ::Yunabi::{ user=12006280 }, ::qodtjr::{ user=3021168 } and ::SYISHI::{ user=8884753 }\
 170 BPM, 3:09 | 4.43★, 4.77★, 7.09★\
 *description written by ::Kawawa::{ user=4647754 }*
 

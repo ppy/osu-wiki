@@ -13,7 +13,7 @@ osu! is one of the few rhythm games that promotes *every* genre of music, and **
 
 **7** songs are up for the taking, all pre-timed and available from [**JOYLESS**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/267).
 
-What's more engaging than an osu! liveplay? TWO liveplays. Watch ::Monko2k::{ user=4852013 } and [Kahli](https://osu.ppy.sh/users/8926244) play two difficulties of [JOYLESS - Bristol](https://osu.ppy.sh/beatmapsets/1728251) at the same time, then try out a few maps for yourself:
+What's more engaging than an osu! liveplay? TWO liveplays. Watch ::Monko2k::{ user=4852013 } and ::Kahli::{ user=8926244 } play two difficulties of [JOYLESS - Bristol](https://osu.ppy.sh/beatmapsets/1728251) at the same time, then try out a few maps for yourself:
 
 <div align="center">
     <video width="100%" controls>

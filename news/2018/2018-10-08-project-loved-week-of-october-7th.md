@@ -26,7 +26,7 @@ In case you don't read the end of this post, be sure to submit suggestions for b
 
 ## osu!
 
-osu! Loved candidates were chosen by ::Toy::{ user=2757689 } and [DigitalHypno](https://osu.ppy.sh/users/4384207)! This week, all osu! beatmap descriptions were written by ::DigitalHypno::{ user=4384207 }.
+osu! Loved candidates were chosen by ::Toy::{ user=2757689 } and ::DigitalHypno::{ user=4384207 }! This week, all osu! beatmap descriptions were written by ::DigitalHypno::{ user=4384207 }.
 
 ---
 
@@ -44,25 +44,25 @@ One can never seem to have enough Nanahira maps, huh? Here's a two-difficulty ma
 
 [![](/wiki/shared/news/2018-10-08-project-loved-week-of-october-7th/osu/pump.jpg)](https://osu.ppy.sh/community/forums/topics/813802)
 
-[YUC'e - PUMP](https://osu.ppy.sh/beatmapsets/615870#osu) by ::Flare-kun::{ user=5550977 }, [-Jordan-](https://osu.ppy.sh/users/7288862) and ::yea::{ user=6874332 }
+[YUC'e - PUMP](https://osu.ppy.sh/beatmapsets/615870#osu) by ::Flare-kun::{ user=5550977 }, ::-Jordan-::{ user=7288862 } and ::yea::{ user=6874332 }
 
 Are you feeling PUMPED? Maybe not, but this J-Core banger by YUC'e can certainly help with that! Flare-kun's mapset of "PUMP" features a standard collaboration difficulty between them and -Jordan-, along with an osu!taiko guest difficulty by yea. The standard difficulty is nothing less than a well-crafted technical map, with lots of fun patterns throughout. If you're in the mood for a high-tech banger, you've come to the right place. As a wise man once said, "YUC'e is my wife".
 
 [![](/wiki/shared/news/2018-10-08-project-loved-week-of-october-7th/osu/spider-dance-dual-mix.jpg)](https://osu.ppy.sh/community/forums/topics/813803)
 
-[toby fox - Spider Dance Dual Mix](https://osu.ppy.sh/beatmapsets/372723#osu) by ::Battle::{ user=4037545 } and [Raiden](https://osu.ppy.sh/users/2239480)
+[toby fox - Spider Dance Dual Mix](https://osu.ppy.sh/beatmapsets/372723#osu) by ::Battle::{ user=4037545 } and ::Raiden::{ user=2239480 }
 
 Here's another addition to your list of favorite toby fox maps! Battle's mapset of "Spider Dance Duel Mix", a remix between the original Spider Dance and a metal cover done by Ferdk, contains four standard difficulties by Battle and two guest osu!taiko difficulties by Raiden. The difficulty spread follows a generic Easy-Normal-Hard-Insane, ranging from below 2 stars to mid-4 stars, which makes the mapset very accessible to all kinds of players (including the 180+ who already have this mapset favorited!). If you're a fan of the UNDERTALE soundtrack, be sure to give this mapset a try! Afterwards, as always, don't forget to vote on whether or not it should be included in the Loved category!
 
 [![](/wiki/shared/news/2018-10-08-project-loved-week-of-october-7th/osu/slotcore-is-dead.jpg)](https://osu.ppy.sh/community/forums/topics/813804)
 
-[sHimaU - SLOTcore Is Dead](https://osu.ppy.sh/beatmapsets/306012#osu) by ::Arphimigon::{ user=5392762 }, [Irreversible](https://osu.ppy.sh/users/1287964), ::diraimur::{ user=3737694 } and [Voli](https://osu.ppy.sh/users/2522275)
+[sHimaU - SLOTcore Is Dead](https://osu.ppy.sh/beatmapsets/306012#osu) by ::Arphimigon::{ user=5392762 }, ::Irreversible::{ user=1287964 }, ::diraimur::{ user=3737694 } and ::Voli::{ user=2522275 }
 
 I'm gonna whisper something in your ear, and you have to tell me what I said—ready? Th... n.... ...zie... ps I... er s... n. Oh, couldn't quite catch that? I'll say it louder: this is one of the craziest maps I've ever seen. I'll put it this way: how many of you think 270 BPM jumps are hard? Maybe not all of you, but what if I throw in some bursts at the same BPM? And by some bursts, I mean a lot of bursts. How about some short streams too? Maybe an overlapping pattern here and there? If you feel like you're up for the challenge, get in line to try Arphimigon's map of "SLOTcore Is Dead". The mapset features ten difficulties, one at each star difficulty ranging from a measly 1 star to a jaw-dropping 9, along with a collab bonus difficulty at 4 stars. With 149 favorites, I'm sure some of you already know the map. For those who don't, I'll cut my words off here—check out the map and see the insanity for yourself.
 
 [![](/wiki/shared/news/2018-10-08-project-loved-week-of-october-7th/osu/wakusei-rabbit-feat-toriena.jpg)](https://osu.ppy.sh/community/forums/topics/813805)
 
-[Yunomi - Wakusei Rabbit (feat. TORIENA)](https://osu.ppy.sh/beatmapsets/487784#osu) by ::GenDoNL::{ user=5939445 }, [Shunao](https://osu.ppy.sh/users/7901324), ::Elcheer::{ user=4420014 } and [Kami-senpai](https://osu.ppy.sh/users/5797359)
+[Yunomi - Wakusei Rabbit (feat. TORIENA)](https://osu.ppy.sh/beatmapsets/487784#osu) by ::GenDoNL::{ user=5939445 }, ::Shunao::{ user=7901324 }, ::Elcheer::{ user=4420014 } and ::Kami-senpai::{ user=5797359 }
 
 The song we all know and love has brought a new candidate to the Loved category, this time with a jumpy twist! GonDoNL's mapset of Yunomi (feat. TORIENA)'s "Wakusei Rabbit" features a full spread of difficulties with guest diffs from Shunao, Elcheer, and Kami-senpai. The top difficulty reaches past 6 stars, making it almost a full star higher than the highest difficulty of ::Nathan::{ user=4785223 }'s popular ranked mapset. As such, this map is a bit more jumpy (like a rabbit!) than you may have expected, but it doesn't forget to throw in some streams or fancy sliders when the song calls for it. Overall, the mapset is complete to a T, even featuring custom hitsounding—check it out!
 
@@ -74,7 +74,7 @@ Anyone digging some rap music? This 7+ star map of A-F-R-O's "Definition of a Ra
 
 [![](/wiki/shared/news/2018-10-08-project-loved-week-of-october-7th/osu/turn-it-up-feat-kanae-asaba.jpg)](https://osu.ppy.sh/community/forums/topics/813807)
 
-[DJ Noriken - Turn It Up feat. Kanae Asaba](https://osu.ppy.sh/beatmapsets/611867#osu) by ::Akali::{ user=2127359 } and [Cassu2](https://osu.ppy.sh/users/2587961)
+[DJ Noriken - Turn It Up feat. Kanae Asaba](https://osu.ppy.sh/beatmapsets/611867#osu) by ::Akali::{ user=2127359 } and ::Cassu2::{ user=2587961 }
 
 Coming up to the stage is a collaboration map between Akali and Cassu2 of the song "Turn It Up" by DJ Noriken! The mapset for this upbeat future bass song has one difficulty reaching the high-5-star range. The map was made with a perfect mix of DnB rhythm and the tricky technical sections we all know Akali and Cassu2 for, all tied together at a comfortable 175 BPM. The 160+ people who already have this map favorited will definitely agree when I say that this is a great map to fill the niche of anyone looking for something perfectly between a stream map and a technical map... so, check it out!
 
@@ -92,13 +92,13 @@ Many of you may recognize this iconic scene from The Simpsons; it's an everlasti
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::Backfire::{ user=263110 }, [-[ ix Ishida xi ]-](https://osu.ppy.sh/users/242910), ::-Kazu-::{ user=920861 }, [iceOC](https://osu.ppy.sh/users/5482401) and ::nyanmi-1828::{ user=6866480 }!
+osu!taiko Loved candidates were chosen by ::Backfire::{ user=263110 }, ::-\1 ix Ishida xi \1-::{ user=242910 }, ::-Kazu-::{ user=920861 }, ::iceOC::{ user=5482401 } and ::nyanmi-1828::{ user=6866480 }!
 
 ---
 
 [![](/wiki/shared/news/2018-10-08-project-loved-week-of-october-7th/taiko/endorphin.jpg)](https://osu.ppy.sh/community/forums/topics/813813)
 
-[U1 overground - Endorphin](https://osu.ppy.sh/beatmapsets/754140#taiko) by ::ekumea1123::{ user=9119501 } and [iceOC](https://osu.ppy.sh/users/5482401)\
+[U1 overground - Endorphin](https://osu.ppy.sh/beatmapsets/754140#taiko) by ::ekumea1123::{ user=9119501 } and ::iceOC::{ user=5482401 }\
 *written by ::-Kazu-::{ user=920861 }*
 
 Whether you love tech maps or are just starting out practicing these, this is definitely your map: with both tricky patterns and fun SV usage that will challenge your reading skills, ekumea1123 and his "Eclipse" difficulty will for sure become part of your daily tech training. Not a fan of SV? He made a clean diff, too!. Still too hard? iceOC's diff is a extremely well designed map which was featured in TWC 2018 and for a good reason, as it's easy to read and fun to play. Have fun!
@@ -126,7 +126,7 @@ This is a wonderful map pack featuring the ever-popular YUC'e! Six great songs f
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Zak::{ user=1375955 }, [Ascendance](https://osu.ppy.sh/users/2931883), ::Sartan::{ user=4100941 } and [Tenshichan](https://osu.ppy.sh/users/1101600)!
+osu!catch Loved candidates were chosen by ::Zak::{ user=1375955 }, ::Ascendance::{ user=2931883 }, ::Sartan::{ user=4100941 } and ::Tenshichan::{ user=1101600 }!
 
 ---
 
@@ -146,7 +146,7 @@ Cloudsmasher is a time machine that will bring you back to the year 2012. It has
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::Kamikaze::{ user=2124783 }, [\_underjoy](https://osu.ppy.sh/users/2235750), ::aitor98::{ user=3154852 }, [Pope Gadget](https://osu.ppy.sh/users/2288341), ::stupud man::{ user=2141612 } and [TheToaphster](https://osu.ppy.sh/users/7616811)!
+osu!mania Loved candidates were chosen by ::Kamikaze::{ user=2124783 }, ::\_underjoy::{ user=2235750 }, ::aitor98::{ user=3154852 }, ::Pope Gadget::{ user=2288341 }, ::stupud man::{ user=2141612 } and ::TheToaphster::{ user=7616811 }!
 
 ---
 

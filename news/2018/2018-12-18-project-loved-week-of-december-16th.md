@@ -26,7 +26,7 @@ In case you don't read the end of this post, be sure to submit suggestions for b
 
 ## osu!
 
-osu! Loved candidates were chosen by ::BeasttrollMC::{ user=3171691 }, [Bubbleman](https://osu.ppy.sh/users/5182050), ::DigitalHypno::{ user=4384207 }, [fartownik](https://osu.ppy.sh/users/56917), ::SoraRoxas01::{ user=1986262 } and [waywern2012](https://osu.ppy.sh/users/5870453)!
+osu! Loved candidates were chosen by ::BeasttrollMC::{ user=3171691 }, ::Bubbleman::{ user=5182050 }, ::DigitalHypno::{ user=4384207 }, ::fartownik::{ user=56917 }, ::SoraRoxas01::{ user=1986262 } and ::waywern2012::{ user=5870453 }!
 
 ---
 
@@ -46,7 +46,7 @@ A familiar song in a familiar style, this mapset of yuikonnu's cover of Ghost Ru
 
 [![](/wiki/shared/news/2018-12-16-project-loved-week-of-december-16th/osu/bebe.jpg)](https://osu.ppy.sh/community/forums/topics/843145)
 
-[WJSN (Cosmic Girls) - BeBe](https://osu.ppy.sh/beatmapsets/539135#osu) by ::Sidetail::{ user=2036217 }, [Nuolong](https://osu.ppy.sh/users/4732455) and ::\1 M I N A K O \1::{ user=7106283 }\
+[WJSN (Cosmic Girls) - BeBe](https://osu.ppy.sh/beatmapsets/539135#osu) by ::Sidetail::{ user=2036217 }, ::Nuolong::{ user=4732455 } and ::\1 M I N A K O \1::{ user=7106283 }\
 *written by ::BeasttrollMC::{ user=3171691 }*
 
 This will be a pleasant surprise to all K-pop fans out there, as we have a song from COSMIC GIRLS up for a spot in Project Loved! This map features four different difficulties ranging from 4 to 6 stars, so there is a little something for everyone. Its highest difficulty, although being in the low 6-star range, is a great way for players to challenge their raw aim skill, as the map has plenty of fullscreen jumps for players to test themselves. This is the type of map that always seems to draw you back because of how catchy it is. Don't believe me? Give it a go and vote for its place here in Project Loved!
@@ -67,14 +67,14 @@ Colors, remixed by sasakure.UK, is probably one of the most addictive songs I ha
 
 [![](/wiki/shared/news/2018-12-16-project-loved-week-of-december-16th/osu/megalara-garuda.jpg)](https://osu.ppy.sh/community/forums/topics/843148)
 
-[SYUNN - Megalara Garuda](https://osu.ppy.sh/beatmapsets/536607#osu) by ::Callionet::{ user=227717 }, [rustbell](https://osu.ppy.sh/users/227717) and ::fanzhen0019::{ user=418699 }\
+[SYUNN - Megalara Garuda](https://osu.ppy.sh/beatmapsets/536607#osu) by ::Callionet::{ user=227717 }, ::rustbell::{ user=227717 } and ::fanzhen0019::{ user=418699 }\
 *written by ::fartownik::{ user=56917 }*
 
 Megalara Garuda is a mapset not for the faint-hearted. Callionet's set consists of three highly-demanding maps, the most difficult of them (made by rustbell) reaching almost 8 stars in difficulty, and the other two, made by fanzhen0019 and Callionet, not falling short behind. The difficulties offer a wide range of technical patterns: unusually-spaced streams, uncomfortable angles and hyper-velocity sliders used in rustbell's map, short but deadly kicksliders that fanzhen's symmetry-driven difficulty revolves around, and finally a bit of both in Callionet's creation. Passing at least one of these maps will surely be a success for most. Will it be for you?
 
 [![](/wiki/shared/news/2018-12-16-project-loved-week-of-december-16th/osu/kami-no-kotoba.jpg)](https://osu.ppy.sh/community/forums/topics/843149)
 
-[Luschka - Kami no Kotoba](https://osu.ppy.sh/beatmapsets/718825#osu) by ::Shifu Touka::{ user=7379108 } and [Kaizuun](https://osu.ppy.sh/users/4919909)\
+[Luschka - Kami no Kotoba](https://osu.ppy.sh/beatmapsets/718825#osu) by ::Shifu Touka::{ user=7379108 } and ::Kaizuun::{ user=4919909 }\
 *written by ::DigitalHypno::{ user=4384207 }*
 
 Some of you may know the ranked mapset of this song made by ::byfar::{ user=4674054 }, but if you've ever wished for a map of the song with more modern difficulty settings, Shifu Touka has just what you're looking for. The mapset contains one 7-star difficulty at an approach rate of 9.6, compared to the ranked set's top difficulty being only 9. Regarding the map itself, there's a perfect balance between slow build-up sections and lengthy jump sections, all structured masterfully and backed up perfectly by the song itself. If you're a fan of the ranked set and want a fresh, modern experience for the song, or if you're just a fan of maps that can push your jump aim control to its limits, check out the map and vote for its place in the Loved category!
@@ -102,7 +102,7 @@ Another spicy Yusomi mapset has appeared for Loved voting! Yusomi has mapped thi
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-\1 ix Ishida xi \1-::{ user=242910 }, [-Kazu-](https://osu.ppy.sh/users/920861), ::Backfire::{ user=263110 }, [iceOC](https://osu.ppy.sh/users/5482401) and ::nyanmi-1828::{ user=6866480 }!
+osu!taiko Loved candidates were chosen by ::-\1 ix Ishida xi \1-::{ user=242910 }, ::-Kazu-::{ user=920861 }, ::Backfire::{ user=263110 }, ::iceOC::{ user=5482401 } and ::nyanmi-1828::{ user=6866480 }!
 
 ---
 
@@ -115,7 +115,7 @@ One of katacheh's best maps, this comes from an era in his maps that focused on 
 
 [![](/wiki/shared/news/2018-12-16-project-loved-week-of-december-16th/taiko/m1r4cl3-m1m1k4.jpg)](https://osu.ppy.sh/community/forums/topics/843155)
 
-[Eity - M1R4CL3 M1M1K4](https://osu.ppy.sh/beatmapsets/742391#taiko) by ::7\_7::{ user=7491106 }, [yyyyyyyyyyypetu](https://osu.ppy.sh/users/468029) and ::KitajimaYN::{ user=2250574 }\
+[Eity - M1R4CL3 M1M1K4](https://osu.ppy.sh/beatmapsets/742391#taiko) by ::7\_7::{ user=7491106 }, ::yyyyyyyyyyypetu::{ user=468029 } and ::KitajimaYN::{ user=2250574 }\
 *written by ::-Kazu-::{ user=920861 }*
 
 This time around we have M1R4CL3 M1M1K4, by 7\_7, KitajimaYN and yyyyyyyyyyypetu. This is a really catchy song that will most likely keep sounding in your head for days with really masterful mapping, especially on the guest diffs. It also features a really good Oni diff that feels really well-designed, as well as a hellish top diff that will for sure attract a lot of players to try and get a nice score.
@@ -143,7 +143,7 @@ Pavor Nocturnus really has quite a background, as not only was it featured in TW
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Ascendance::{ user=2931883 }, [Sartan](https://osu.ppy.sh/users/4100941), ::Tenshichan::{ user=1101600 } and [Zak](https://osu.ppy.sh/users/1375955)! This week, all osu!catch beatmap descriptions were written by ::Sartan::{ user=4100941 }.
+osu!catch Loved candidates were chosen by ::Ascendance::{ user=2931883 }, ::Sartan::{ user=4100941 }, ::Tenshichan::{ user=1101600 } and ::Zak::{ user=1375955 }! This week, all osu!catch beatmap descriptions were written by ::Sartan::{ user=4100941 }.
 
 ---
 
@@ -173,7 +173,7 @@ There are no candidates for osu!mania this week. Here is a note from ::stupud ma
 
 From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
-In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Ephemeral::{ user=102335 }, [Noffy](https://osu.ppy.sh/users/1541323) and ::Toy::{ user=2757689 } for their miscellaneous help in managing Project Loved.
+In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Ephemeral::{ user=102335 }, ::Noffy::{ user=1541323 } and ::Toy::{ user=2757689 } for their miscellaneous help in managing Project Loved.
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! You can view the current submissions on the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0).
 

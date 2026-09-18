@@ -112,7 +112,7 @@ La **formación de diamante** es igual que la [formación cuadrada](#formación-
 
 ### Stacks dobles
 
-Nominadores: ::-Xero-::{ user=179314 } y [F1r3tar](https://osu.ppy.sh/users/5590317)
+Nominadores: ::-Xero-::{ user=179314 } y ::F1r3tar::{ user=5590317 }
 
 Los **stacks dobles** usan dos notas (o una nota y un slider end) que se apilan una encima de la otra.
 

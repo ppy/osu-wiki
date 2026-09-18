@@ -53,7 +53,7 @@ We also had a grand total of **four** [osu! originals](/wiki/Community/Bespoke_m
     </audio>
 </div>
 
-Firstly, new featured artist [XenjeS](https://osu.ppy.sh/beatmaps/artists/482) gave us an aggressive, hard-hitting electronic banger in [Inorganic Dystopia](https://osu.ppy.sh/beatmapsets/2471967#osu/5416113). Mapped by ::9ami::{ user=1499997 }, [ralsricat](https://osu.ppy.sh/users/12318332) and ::Matsuyuki Ame::{ user=12763959 }, this is one truly crazy tech experience.
+Firstly, new featured artist [XenjeS](https://osu.ppy.sh/beatmaps/artists/482) gave us an aggressive, hard-hitting electronic banger in [Inorganic Dystopia](https://osu.ppy.sh/beatmapsets/2471967#osu/5416113). Mapped by ::9ami::{ user=1499997 }, ::ralsricat::{ user=12318332 } and ::Matsuyuki Ame::{ user=12763959 }, this is one truly crazy tech experience.
 
 [![](/wiki/shared/news/2025-12-14-osu-world-cup-2025-finals-recap/ruby_of_twilight_banner.jpg)](https://osu.ppy.sh/beatmapsets/2471980#osu/5416133)
 

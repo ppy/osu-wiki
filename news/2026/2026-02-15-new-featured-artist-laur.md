@@ -19,7 +19,7 @@ Stretch your scrolling muscles (and play some maps along the way):
 
 ### Laur - SEV-26
 
-You probably aren't playing in the World Cup, but you can still try out [the tiebreaker](https://osu.ppy.sh/beatmapsets/2508618) mapped by ::Mochineko::{ user=3793196 }, [Blocko](https://osu.ppy.sh/users/4075092), ::ruka::{ user=6117525 }, [Remuring](https://osu.ppy.sh/users/6522146), ::ExNeko::{ user=7590894 }, [My Angel Koishi](https://osu.ppy.sh/users/8273098), ::BKwind::{ user=8900975 }, [U1d](https://osu.ppy.sh/users/10125072), and ::Ulazis::{ user=11144363 }!
+You probably aren't playing in the World Cup, but you can still try out [the tiebreaker](https://osu.ppy.sh/beatmapsets/2508618) mapped by ::Mochineko::{ user=3793196 }, ::Blocko::{ user=4075092 }, ::ruka::{ user=6117525 }, ::Remuring::{ user=6522146 }, ::ExNeko::{ user=7590894 }, ::My Angel Koishi::{ user=8273098 }, ::BKwind::{ user=8900975 }, ::U1d::{ user=10125072 }, and ::Ulazis::{ user=11144363 }!
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/2b46pWr4cR8" frameborder="0" allowfullscreen></iframe>

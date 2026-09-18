@@ -52,7 +52,7 @@ This contest's restriction: **all sliders must be straight lines**. Due to a hig
 
 Since as far back as 2021, **phyr** has been pumping out maps for the Monthly Beatmapping Contest. Despite *still* having 0 Ranked maps, **phyr** has proven that you don't need to be an established mapper to join the hall of fame as one of osu!'s *Elite Mappers*.
 
-And of course, thanks to ::Uberzolik::{ user=1314547 }, [velamy](https://osu.ppy.sh/users/15538779), ::Andrea::{ user=33599 }, [Chromasia](https://osu.ppy.sh/users/7306251), ::nuclei::{ user=25134566 }, [fllecc](https://osu.ppy.sh/users/14060327), ::table tennis::{ user=17592067 }, [Mafumafu](https://osu.ppy.sh/users/3076909), and ::plork::{ user=10994474 } for screening this month's contest, plus ::LaurKappita::{ user=23040683 }, [isle](https://osu.ppy.sh/users/8247685), ::Snowflake::{ user=18688946 }, [LeCandy](https://osu.ppy.sh/users/6626249), ::Daycore::{ user=5596337 }, and [GalenTori](https://osu.ppy.sh/users/5057420) for judging!
+And of course, thanks to ::Uberzolik::{ user=1314547 }, ::velamy::{ user=15538779 }, ::Andrea::{ user=33599 }, ::Chromasia::{ user=7306251 }, ::nuclei::{ user=25134566 }, ::fllecc::{ user=14060327 }, ::table tennis::{ user=17592067 }, ::Mafumafu::{ user=3076909 }, and ::plork::{ user=10994474 } for screening this month's contest, plus ::LaurKappita::{ user=23040683 }, ::isle::{ user=8247685 }, ::Snowflake::{ user=18688946 }, ::LeCandy::{ user=6626249 }, ::Daycore::{ user=5596337 }, and ::GalenTori::{ user=5057420 } for judging!
 
 ### osu!taiko results
 
@@ -71,7 +71,7 @@ This contest was themed around **finishers**. [See the full results here!](https
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/L7SMKpHMjvM" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Send some appreciation to ::BlackBN::{ user=6291741 }, [arcpotato](https://osu.ppy.sh/users/12842392), ::meiqth::{ user=12565402 }, and [Yasuho](https://osu.ppy.sh/users/8458835) for judging this contest!
+Send some appreciation to ::BlackBN::{ user=6291741 }, ::arcpotato::{ user=12842392 }, ::meiqth::{ user=12565402 }, and ::Yasuho::{ user=8458835 } for judging this contest!
 
 ## Game modes
 

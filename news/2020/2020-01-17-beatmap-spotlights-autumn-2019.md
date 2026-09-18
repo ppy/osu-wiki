@@ -15,10 +15,10 @@ The beatmap charts for the Autumn Spotlights can be found [here](https://osu.ppy
 
 First of all, congratulations to the winners of the Seasonal Spotlights: Summer 2019. They will receive 3, 2, and 1 month of supporter for 1st, 2nd, and 3rd place respectively for their efforts!
 
-- **osu!:** ::Toy::{ user=2757689 }, [Maxe191](https://osu.ppy.sh/users/2184751) and ::Xilver15::{ user=3099689 }
-- **osu!taiko:** ::JDrago14::{ user=7690078 }, [Gra](https://osu.ppy.sh/users/13852925) and ::Wilben\1Chan::{ user=6659363 }
-- **osu!catch:** ::RAMPAGE88::{ user=448547 }, [dika312](https://osu.ppy.sh/users/741613) and ::rostld::{ user=4365562 }
-- **osu!mania:** ::Rashod::{ user=12705051 }, [tsusai](https://osu.ppy.sh/users/7637292) and ::Cryolien::{ user=1626983 }
+- **osu!:** ::Toy::{ user=2757689 }, ::Maxe191::{ user=2184751 } and ::Xilver15::{ user=3099689 }
+- **osu!taiko:** ::JDrago14::{ user=7690078 }, ::Gra::{ user=13852925 } and ::Wilben\1Chan::{ user=6659363 }
+- **osu!catch:** ::RAMPAGE88::{ user=448547 }, ::dika312::{ user=741613 } and ::rostld::{ user=4365562 }
+- **osu!mania:** ::Rashod::{ user=12705051 }, ::tsusai::{ user=7637292 } and ::Cryolien::{ user=1626983 }
 
 ### Navigation
 
@@ -33,13 +33,13 @@ First of all, congratulations to the winners of the Seasonal Spotlights: Summer 
 
 [![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/osu/alex.jpg)](https://osu.ppy.sh/beatmapsets/1054045)
 
-It's here. ::ProfessionalBox::{ user=3250792 } has christened this 10 minute masterpiece mapset as his swan song, and what a legacy it leaves behind. Magnificent hitsounding and a beautiful storyboard by ::PoNo::{ user=4610047 } and [-Tochi](https://osu.ppy.sh/users/3664366), some fresh patterning and slider design all on top of a highly emotive collection of instrumental tracks, Alexithymia | Lupinus | Tokei no Heya to Seishin Sekai is one of the most impressive projects we've seen in a long time, or will see in the coming years. It behooves any osu! enthusiast to grace their clients with this paragon of beatmapping.
+It's here. ::ProfessionalBox::{ user=3250792 } has christened this 10 minute masterpiece mapset as his swan song, and what a legacy it leaves behind. Magnificent hitsounding and a beautiful storyboard by ::PoNo::{ user=4610047 } and ::-Tochi::{ user=3664366 }, some fresh patterning and slider design all on top of a highly emotive collection of instrumental tracks, Alexithymia | Lupinus | Tokei no Heya to Seishin Sekai is one of the most impressive projects we've seen in a long time, or will see in the coming years. It behooves any osu! enthusiast to grace their clients with this paragon of beatmapping.
 
 *written by ::Toy::{ user=2757689 }*
 
 [![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/osu/point.jpg)](https://osu.ppy.sh/beatmapsets/1020276)
 
-::Beomsan::{ user=3626063 } and [Down](https://osu.ppy.sh/users/4694602) here to show how detailed a map could be. In their mapset of Nekomata Master+'s "POINT ZERO", every pitch change and variation in intensity is perfectly represented, with the constant changes in spacing and the high contrast between slider velocities. But that's just the beginning.
+::Beomsan::{ user=3626063 } and ::Down::{ user=4694602 } here to show how detailed a map could be. In their mapset of Nekomata Master+'s "POINT ZERO", every pitch change and variation in intensity is perfectly represented, with the constant changes in spacing and the high contrast between slider velocities. But that's just the beginning.
 
 To accompany the spontaneous piano and the jumbled background percussions near the end, the map strives to portray every bit of the music. Irregular patterns kick in, increasing the intensity of the beatmap to match the music. Such a chaotic piece being depicted in such a chaotic fashion, it's without question that this should be added to your collection.
 
@@ -47,7 +47,7 @@ To accompany the spontaneous piano and the jumbled background percussions near t
 
 [![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/osu/arrogance.jpg)](https://osu.ppy.sh/beatmapsets/940377)
 
-Do you need to map literally everything when you want to follow a song in the best way? ::Mirash::{ user=2841009 } and [PandaHero](https://osu.ppy.sh/users/1233255) proved, in their new mapset onumi - ARROGANCE, that you don't need to at all. Pairing with their representative style which uses iconic slider shapes and various dope overlap patterns inserting strict geometrics, this mapset brings out onumi's experimental electronic song's hidden potential by largely and intentionally undermapping at certain key spots, especially at the beginning, the transition parts in the middle and at the end.
+Do you need to map literally everything when you want to follow a song in the best way? ::Mirash::{ user=2841009 } and ::PandaHero::{ user=1233255 } proved, in their new mapset onumi - ARROGANCE, that you don't need to at all. Pairing with their representative style which uses iconic slider shapes and various dope overlap patterns inserting strict geometrics, this mapset brings out onumi's experimental electronic song's hidden potential by largely and intentionally undermapping at certain key spots, especially at the beginning, the transition parts in the middle and at the end.
 
 The duo follows the general vibe of the background instrumental ignoring the drums, sometimes even dropping entire sections, which forces players to notice every single layer's detail and thus represent the whole song much more clearly, instead of blindly trying to follow every single sound in this very complex track. In addition, carefully chosen hitsounds aid in improving the overall playing experience overall.
 
@@ -67,7 +67,7 @@ The beauty in Sit down. Stand up. (Snakes & Ladders.) stems from the story it te
 
 Being a fanatic of Nekomata Master's music tracks, ::Icekalt::{ user=5410645 } decided to compile some of their best in Instrumental Compilation. He portrays every track excerpt as thoroughly as possible, putting in 1/6 trills, long chains of low bpm streams, varying slider velocity choices constantly, all in an effort to keep the map as engaging as possible.
 
-On top of this, he also invited mappers ::ScubDomino::{ user=8972308 }, [den0saur](https://osu.ppy.sh/users/5385151), ::Xilver15::{ user=3099689 } and [celerih](https://osu.ppy.sh/users/4696296) to map a few of the songs as well, with each of their own unique styles to represent their respective songs.
+On top of this, he also invited mappers ::ScubDomino::{ user=8972308 }, ::den0saur::{ user=5385151 }, ::Xilver15::{ user=3099689 } and ::celerih::{ user=4696296 } to map a few of the songs as well, with each of their own unique styles to represent their respective songs.
 
 If you have enough time, be sure to check this one out!
 
@@ -75,7 +75,7 @@ If you have enough time, be sure to check this one out!
 
 [![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/osu/last.jpg)](https://osu.ppy.sh/beatmapsets/1015203)
 
-Stop arguing over whether flawless playability and high-end aesthetic can exist in the same map: ::captin1::{ user=689997 } and [Kalibe](https://osu.ppy.sh/users/3376777) have proven in their collaboration work, lmy - Last words, that it is completely possible. Multiple takes on emphasis combining with positively weird but well-designed slider patterns bring a whole new playing experience set to Aitsuki Nakuru's beautiful voice.
+Stop arguing over whether flawless playability and high-end aesthetic can exist in the same map: ::captin1::{ user=689997 } and ::Kalibe::{ user=3376777 } have proven in their collaboration work, lmy - Last words, that it is completely possible. Multiple takes on emphasis combining with positively weird but well-designed slider patterns bring a whole new playing experience set to Aitsuki Nakuru's beautiful voice.
 
 *written by ::Ryuusei Aika::{ user=7777875 }*
 
@@ -183,7 +183,7 @@ The Oni difficulty gives intermediate players a chance to shine as it is structu
 
 [![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/taiko/betrayal.jpg)](https://osu.ppy.sh/beatmapsets/1026679)
 
-The obligatory metal beatmap for the Autumn spotlights is Inferi - A Betrayal Unforetold, a Featured Artist song mapped by ::Raiden::{ user=2239480 } and [Grünschale/Greenshell](https://osu.ppy.sh/users/Greenshell) (with a storyboard by [Faputa](https://osu.ppy.sh/users/Faputa)!).
+The obligatory metal beatmap for the Autumn spotlights is Inferi - A Betrayal Unforetold, a Featured Artist song mapped by ::Raiden::{ user=2239480 } and ::Grünschale/Greenshell::{ user=8693851 } (with a storyboard by ::Faputa::{ user=845733 }!).
 
 This intense song is filled with insane guitars and drums, which reflect in the Perfidiae difficulty. It's out to drain all of your stamina with its numerous never-ending 'deathstreams', complicated long streams that in this map also often include a staple for modern metal maps, mono streams. You will understand when you play the map, trust me. These streams are very well mapped, with the two mappers' styles not conflicting once in the map, rather complimenting each other, with several ideas shared between their sections making this map also feel more coherent.
 
@@ -227,7 +227,7 @@ Especially for the kiai parts, the mapper uses a lot of high velocity sliders, w
 
 The top difficulty, named Necromancy, features intense jumps during the kiai sections, wild build-ups but calm intro and mid sections. Do not be fooled by the easy start, this map becomes challenging as soon as the melody picks up. The rhythm is easy to follow simply because Du5t decided to not vary the notes but instead do that with the patterns meanwhile trying to keep the distances as similar as possible, this was a very good decision. Due to this, it provides and easy ground to those who are skilled enough to earn an easy full combo by simply banging their head. This difficulty is a great example of how to make something good by holding back the Hyperdashes and just follow what is there.
 
-But do not forget the guest mappers either, ::Daletto::{ user=7592136 }, [Greaper](https://osu.ppy.sh/users/2369776), ::Nuvolina::{ user=10974170 } and [Sanyi](https://osu.ppy.sh/users/7496029) also contributed into this set, Each of these guys approached the Gothic Hardtrapcore genre differently so be sure to take a look at their part too. Who knows, you might fall in love with this set just as much as I did!
+But do not forget the guest mappers either, ::Daletto::{ user=7592136 }, ::Greaper::{ user=2369776 }, ::Nuvolina::{ user=10974170 } and ::Sanyi::{ user=7496029 } also contributed into this set, Each of these guys approached the Gothic Hardtrapcore genre differently so be sure to take a look at their part too. Who knows, you might fall in love with this set just as much as I did!
 
 *written by ::Kurokami::{ user=260933 }*
 
@@ -235,13 +235,13 @@ But do not forget the guest mappers either, ::Daletto::{ user=7592136 }, [Greape
 
 Team osu!catch is here to take a place in this season's Spotlights with not one, nor two, but thirteen mappers!
 
-Dreamland, which is the top difficulty, is mapped by ::Ascendance::{ user=2931883 } and [Spectator](https://osu.ppy.sh/users/702598) in collab. Everyone is surely already familiar with them and probably know that they are here for a rare treat. Without even looking at who mapped which part it is easy to recognize their styles even when they are blending into each other in a godly manner. From the calm mid-section through the build-ups and intense intro to the kiais, this map is perfectly orchestrated and delivers what you expect from both of the mappers.
+Dreamland, which is the top difficulty, is mapped by ::Ascendance::{ user=2931883 } and ::Spectator::{ user=702598 } in collab. Everyone is surely already familiar with them and probably know that they are here for a rare treat. Without even looking at who mapped which part it is easy to recognize their styles even when they are blending into each other in a godly manner. From the calm mid-section through the build-ups and intense intro to the kiais, this map is perfectly orchestrated and delivers what you expect from both of the mappers.
 
-Next up we have ::Minato Yukina::{ user=531253 }, [Rocma](https://osu.ppy.sh/users/566276) and a collab between ::Ascendance::{ user=2931883 } and [alienflybot](https://osu.ppy.sh/users/636114). They each offer a different approach on the same difficulty level which is on par, if not better, with the top difficulty. Minato Yukina decided to follow the melody which resulted in a streamy map with intense hyperjump sections, Rocma stands in the middle in terms of rhythm but he has wild patterns. Lastly, do not be fooled with the lower star rating for the collab, this is a real beast on its own, be prepared.
+Next up we have ::Minato Yukina::{ user=531253 }, ::Rocma::{ user=566276 } and a collab between ::Ascendance::{ user=2931883 } and ::alienflybot::{ user=636114 }. They each offer a different approach on the same difficulty level which is on par, if not better, with the top difficulty. Minato Yukina decided to follow the melody which resulted in a streamy map with intense hyperjump sections, Rocma stands in the middle in terms of rhythm but he has wild patterns. Lastly, do not be fooled with the lower star rating for the collab, this is a real beast on its own, be prepared.
 
-Going further down the list comes ::JBHyperion::{ user=4879508 }, [Benita](https://osu.ppy.sh/users/4023183) and yet another collab but now between ::Sorcerer::{ user=1913190 } and [Bunnrei](https://osu.ppy.sh/users/829284). These guys took on the challenge and tried to approach the Rain difficulty differently, from low circle size to mostly 1/4 patterns. Do not be afraid if you can't handle one of these, try the others as well!
+Going further down the list comes ::JBHyperion::{ user=4879508 }, ::Benita::{ user=4023183 } and yet another collab but now between ::Sorcerer::{ user=1913190 } and ::Bunnrei::{ user=829284 }. These guys took on the challenge and tried to approach the Rain difficulty differently, from low circle size to mostly 1/4 patterns. Do not be afraid if you can't handle one of these, try the others as well!
 
-But let's not forget the rest of the team either—we still have a lot to speak of! The mapset features two Platter difficulty by ::ZiRoX::{ user=200768 } and a collab between ::Ascendance::{ user=2931883 } and [Mbomb](https://osu.ppy.sh/users/3071175) each with their own mapping style fitting this difficulty. Then we have ::Jemzuu::{ user=7890134 } and [Sanyi](https://osu.ppy.sh/users/7496029) with a Salad and Cup respectively. These guys really went all out and made this mapset fitting for everyone.
+But let's not forget the rest of the team either—we still have a lot to speak of! The mapset features two Platter difficulty by ::ZiRoX::{ user=200768 } and a collab between ::Ascendance::{ user=2931883 } and ::Mbomb::{ user=3071175 } each with their own mapping style fitting this difficulty. Then we have ::Jemzuu::{ user=7890134 } and ::Sanyi::{ user=7496029 } with a Salad and Cup respectively. These guys really went all out and made this mapset fitting for everyone.
 
 Even still, we have two more names to mention who took part, namely ::-Tochi::{ user=3664366 }, who created a wonderful storyboard and that is accompanied by hitsounding by ::-Luminate::{ user=4778689 }. Together, they've created something really awesome. Congratulations guys!
 
@@ -341,7 +341,7 @@ Blocko's 7K difficulty is replete with relentless patterning that coordinates th
 
 ::-MysticEyes::{ user=6253266 } outdoes himself once again with his latest installment to the ranked section: in love with a ghost - flowers feat. nori, which is by far his most ambitious set to date, and a new approach that we haven't seen yet from him.
 
-Though the song may seem limiting through its simplicity alone, -MysticEyes is fully aware of this and takes full advantage of it by concrete concepts in the overall design of the map, such as pitch relevancy and repetition which ultimately carry the song much further than anyone could have really anticipated. On top of this, the set also features some other keymodes as well such as 6K, 7K, and even 9K for those looking to expand their horizons onto other keymodes, with ::Leniane::{ user=7138602 } mapping out the 6K difficulties, as well as ::-mint-::{ user=8976576 } and [Vortex-](https://osu.ppy.sh/users/4999669) having their own take on the song as well through their 7K difficulties.
+Though the song may seem limiting through its simplicity alone, -MysticEyes is fully aware of this and takes full advantage of it by concrete concepts in the overall design of the map, such as pitch relevancy and repetition which ultimately carry the song much further than anyone could have really anticipated. On top of this, the set also features some other keymodes as well such as 6K, 7K, and even 9K for those looking to expand their horizons onto other keymodes, with ::Leniane::{ user=7138602 } mapping out the 6K difficulties, as well as ::-mint-::{ user=8976576 } and ::Vortex-::{ user=4999669 } having their own take on the song as well through their 7K difficulties.
 
 Even with these keymodes, these mappers combined incorporate these concepts on their own difficulties and arguably, the higher keymodes is where these concepts shine the most on, making this something we haven't quite seen in the ranked section before. With all that being said, the set is also keysounded, just to make your experience playing the set even more enjoyable than it is already.
 

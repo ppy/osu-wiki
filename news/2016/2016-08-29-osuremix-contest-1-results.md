@@ -10,7 +10,7 @@ The results are in for the first ever osu!remix contest. Get ready to feast your
 
 ![](https://osu.ppy.sh/images/headers/news-show-default.jpg)
 
-A little while ago, we held our first official remix contest for one of osu!'s first ever exclusive tracks - *circles!*, by our in-house composer (and developer!) [nekodex](https://osu.ppy.sh/users/nekodex). 21 talented musicians stepped forward and took their own spin on *circles!*, with everything from electronica to dubstep and beyond explored by our intrepid contestants.
+A little while ago, we held our first official remix contest for one of osu!'s first ever exclusive tracks - *circles!*, by our in-house composer (and developer!) ::nekodex::{ user=102 }. 21 talented musicians stepped forward and took their own spin on *circles!*, with everything from electronica to dubstep and beyond explored by our intrepid contestants.
 
 To refresh everyone's memory, the contest is split into two prizes - a staff pick and a community vote. The staff pick consists of the members of osu!'s internal team personally voting for their favorite three tracks from the lot. The community vote functioned a bit differently, with everyone being given three votes to distribute across their favorite three tracks from the competition.
 
@@ -27,12 +27,12 @@ Additionally, BilliumMoto's track also won the community vote, snatching a whopp
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/273113582&color=ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false"></iframe>
 <br/>
 
-However, to spread the glory around a bit, we've decided to crown the second-most chosen entry from the community vote as the winner for the community prize as well. **[Sayaka-](https://osu.ppy.sh/users/Sayaka-)**'s entry was a strong contender for first place from the moment the polls began.
+However, to spread the glory around a bit, we've decided to crown the second-most chosen entry from the community vote as the winner for the community prize as well. **::Sayaka-::{ user=398275 }**'s entry was a strong contender for first place from the moment the polls began.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/263249493&color=ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false"></iframe>
 <br/>
 
-We'd also like to give an honorable mention to the third place entry from the community vote, created by **[happy30](https://osu.ppy.sh/users/happy30)**. happy30 has been with us for a long time and is well established as a mapper on his own merit, and it is truly something special to see him producing more excellent original content for osu! - albeit in an entirely different domain!
+We'd also like to give an honorable mention to the third place entry from the community vote, created by **::happy30::{ user=27767 }**. happy30 has been with us for a long time and is well established as a mapper on his own merit, and it is truly something special to see him producing more excellent original content for osu! - albeit in an entirely different domain!
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/279974384&color=ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false"></iframe>
 <br/>

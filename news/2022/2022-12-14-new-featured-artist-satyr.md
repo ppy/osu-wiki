@@ -33,7 +33,7 @@ Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1902228)
 
 ### Satyr - Levitator
 
-Or check out [this massive mapset](https://osu.ppy.sh/beatmapsets/1520317) hosted by ::IllusionB::{ user=13292488 } featuring guest difficulties from ::flake::{ user=7627157 }, [Zoli](https://osu.ppy.sh/users/7641573), ::Zetera::{ user=587737 }, [LMT](https://osu.ppy.sh/users/7262798), and ::ItsWinter::{ user=6381153 }!
+Or check out [this massive mapset](https://osu.ppy.sh/beatmapsets/1520317) hosted by ::IllusionB::{ user=13292488 } featuring guest difficulties from ::flake::{ user=7627157 }, ::Zoli::{ user=7641573 }, ::Zetera::{ user=587737 }, ::LMT::{ user=7262798 }, and ::ItsWinter::{ user=6381153 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/328/Locus/Satyr%20-%20Levitator.mp3" type="audio/mpeg">

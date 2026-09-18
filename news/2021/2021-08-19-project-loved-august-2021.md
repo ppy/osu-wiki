@@ -35,7 +35,7 @@ With all of that being said, here are the picks for the month of August!
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::Bubbleman::{ user=5182050 }, [DigitalHypno](https://osu.ppy.sh/users/4384207) and ::Wixonater::{ user=10083084 }!
+The osu! Loved candidates were chosen by ::Bubbleman::{ user=5182050 }, ::DigitalHypno::{ user=4384207 } and ::Wixonater::{ user=10083084 }!
 
 ---
 
@@ -101,7 +101,7 @@ If you've hung around in a top player's stream before, chances are you'll have s
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 } and [X a v y](https://osu.ppy.sh/users/3738344)!
+The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 } and ::X a v y::{ user=3738344 }!
 
 ---
 
@@ -132,7 +132,7 @@ This is the latest edition to Shamirin_mzk's "Mono." series, which was received 
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, [Spectator](https://osu.ppy.sh/users/702598), ::Tenshichan::{ user=1101600 } and [Wesley](https://osu.ppy.sh/users/2407265)!
+The osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, ::Spectator::{ user=702598 }, ::Tenshichan::{ user=1101600 } and ::Wesley::{ user=2407265 }!
 
 ---
 
@@ -149,7 +149,7 @@ While the map is of a relatively low star rating given the snappiness of the sli
 
 [![](/wiki/shared/news/2021-08-19-project-loved-august-2021/885149.jpg)](https://osu.ppy.sh/community/forums/topics/1400708)
 
-[Various Artists - Dan \~ CTB \~ 2nd Pack](https://osu.ppy.sh/beatmapsets/885149#fruits) by ::Emiru::{ user=3306180 }, [Minato Yukina](https://osu.ppy.sh/users/531253), ::Natsuko::{ user=8266817 } and [Spectator](https://osu.ppy.sh/users/702598)\
+[Various Artists - Dan \~ CTB \~ 2nd Pack](https://osu.ppy.sh/beatmapsets/885149#fruits) by ::Emiru::{ user=3306180 }, ::Minato Yukina::{ user=531253 }, ::Natsuko::{ user=8266817 } and ::Spectator::{ user=702598 }\
 153 – 200 BPM, 9:30 | 6.06★ – 7.87★\
 *description written by ::Spectator::{ user=702598 }*
 
@@ -169,7 +169,7 @@ The original AR of the map is 9.3 but the set also comes with an AR 9.6 difficul
 
 [![](/wiki/shared/news/2021-08-19-project-loved-august-2021/186074.jpg)](https://osu.ppy.sh/community/forums/topics/1400706)
 
-[yuikonnu - Souzou Forest](https://osu.ppy.sh/beatmapsets/186074#fruits) by ::Serena-::{ user=2193444 } and [Kowaii_ne](https://osu.ppy.sh/users/2213794)\
+[yuikonnu - Souzou Forest](https://osu.ppy.sh/beatmapsets/186074#fruits) by ::Serena-::{ user=2193444 } and ::Kowaii\1ne::{ user=2213794 }\
 180 BPM, 3:38 | 1.98★, 3.16★, 4.61★\
 *description written by ::Sartan::{ user=4100941 }*
 
@@ -177,7 +177,7 @@ Sometimes, and I mean *sometimes*, you want something that is calm, not too stra
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, [-mint-](https://osu.ppy.sh/users/8976576), ::Kawawa::{ user=4647754 } and [Penguinosity](https://osu.ppy.sh/users/10235296)!
+The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, ::-mint-::{ user=8976576 }, ::Kawawa::{ user=4647754 } and ::Penguinosity::{ user=10235296 }!
 
 ---
 
@@ -231,7 +231,7 @@ Give MyZterioN- your support by casting your vote!
 
 [![](/wiki/shared/news/2021-08-19-project-loved-august-2021/1085851.jpg)](https://osu.ppy.sh/community/forums/topics/1400700)
 
-[Various Artists - 6K Endurance Patterns Practice Vol.1](https://osu.ppy.sh/beatmapsets/1085851#mania) by ::Imperial Wolf::{ user=9080296 }, [\_IceRain](https://osu.ppy.sh/users/7859973), ::\[Crz\]sunnyxxy::{ user=10333739 }, [Alipay](https://osu.ppy.sh/users/9339256), ::Anson\198::{ user=6198587 }, [Arkman](https://osu.ppy.sh/users/8814590) and ::tyrcs::{ user=13026904 }\
+[Various Artists - 6K Endurance Patterns Practice Vol.1](https://osu.ppy.sh/beatmapsets/1085851#mania) by ::Imperial Wolf::{ user=9080296 }, ::\_IceRain::{ user=7859973 }, ::\[Crz\]sunnyxxy::{ user=10333739 }, ::Alipay::{ user=9339256 }, ::Anson\198::{ user=6198587 }, ::Arkman::{ user=8814590 } and ::tyrcs::{ user=13026904 }\
 172 BPM, 5:48 | 5.18★ – 6.44★\
 The \[(marathon)\[DELETE UPON DOWNLOAD!\]\] difficulty is *not* being nominated for Loved.\
 *description written by ::Penguinosity::{ user=10235296 }*
@@ -244,7 +244,7 @@ The people who provided beatmaps to this set are well-known within the 6K mappin
 
 [![](/wiki/shared/news/2021-08-19-project-loved-august-2021/655302.jpg)](https://osu.ppy.sh/community/forums/topics/1400699)
 
-[YUC'e - Future Cider](https://osu.ppy.sh/beatmapsets/655302#mania) by ::bsc::{ user=6928171 }, [Arzenvald](https://osu.ppy.sh/users/3027421), ::Bpple::{ user=8210168 } and [Jakads](https://osu.ppy.sh/users/259972)\
+[YUC'e - Future Cider](https://osu.ppy.sh/beatmapsets/655302#mania) by ::bsc::{ user=6928171 }, ::Arzenvald::{ user=3027421 }, ::Bpple::{ user=8210168 } and ::Jakads::{ user=259972 }\
 180 BPM, 3:59 | 1.06★ – 7.37★\
 *description written by ::\_underjoy::{ user=2235750 }*
 
@@ -258,7 +258,7 @@ This set has waited way too long in the darkness and we're glad to finally bring
 
 [![](/wiki/shared/news/2021-08-19-project-loved-august-2021/351345.jpg)](https://osu.ppy.sh/community/forums/topics/1400698)
 
-[Randy Mortimer - Penguin (Pinnacle Remix) (Cut Ver.)](https://osu.ppy.sh/beatmapsets/351345#mania) by ::Cuppp::{ user=2345293 } and [Onta_Metalslug](https://osu.ppy.sh/users/3518460)\
+[Randy Mortimer - Penguin (Pinnacle Remix) (Cut Ver.)](https://osu.ppy.sh/beatmapsets/351345#mania) by ::Cuppp::{ user=2345293 } and ::Onta\1Metalslug::{ user=3518460 }\
 170 BPM, 1:36 | 6.54★, 11.09★\
 *description written by ::Penguinosity::{ user=10235296 }*
 

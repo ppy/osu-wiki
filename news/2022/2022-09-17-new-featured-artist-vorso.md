@@ -15,7 +15,7 @@ Ranging from neurofunk to halftime with drum & bass elements mixed in, **Vorso**
 
 **5** of these technical masterpieces are up for grabs from [**Vorso**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/303)!
 
-If you think mapping **Vorso**'s songs will be difficult, you're absolutely right. Take a peek at what ::Mun::{ user=6699165 } and [Hirakawa](https://osu.ppy.sh/users/7516879) came up with in their beatmap of [Midnight Sun (feat. Ekcle)](https://osu.ppy.sh/beatmapsets/818668) alongside 10 skins from [*Chromatic Alteration*](https://osu.ppy.sh/community/contests/148): osu!'s latest skinning contest!
+If you think mapping **Vorso**'s songs will be difficult, you're absolutely right. Take a peek at what ::Mun::{ user=6699165 } and ::Hirakawa::{ user=7516879 } came up with in their beatmap of [Midnight Sun (feat. Ekcle)](https://osu.ppy.sh/beatmapsets/818668) alongside 10 skins from [*Chromatic Alteration*](https://osu.ppy.sh/community/contests/148): osu!'s latest skinning contest!
 
 <div align="center">
     <video width="100%" controls>

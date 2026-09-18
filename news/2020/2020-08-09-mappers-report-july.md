@@ -74,9 +74,9 @@ And now let's move on to the team movements for this month:
 
 ### BN Additions
 
-- **osu!:** ::-Aqua::{ user=7150015 }, [Bibbity Bill](https://osu.ppy.sh/users/4446810), ::Log Off Now::{ user=4378277 }, [C00L](https://osu.ppy.sh/users/4930630), ::Ayucchi::{ user=7823498 } & [Hobbes2](https://osu.ppy.sh/users/8157492)
-- **osu!catch:** ::wonjae::{ user=5032045 } & [-Joni-](https://osu.ppy.sh/users/9988837)
-- **osu!mania:** ::Arzenvald::{ user=3027421 }, [lenpai](https://osu.ppy.sh/users/5314573) & ::Davvy::{ user=10047413 }
+- **osu!:** ::-Aqua::{ user=7150015 }, ::Bibbity Bill::{ user=4446810 }, ::Log Off Now::{ user=4378277 }, ::C00L::{ user=4930630 }, ::Ayucchi::{ user=7823498 } & ::Hobbes2::{ user=8157492 }
+- **osu!catch:** ::wonjae::{ user=5032045 } & ::-Joni-::{ user=9988837 }
+- **osu!mania:** ::Arzenvald::{ user=3027421 }, ::lenpai::{ user=5314573 } & ::Davvy::{ user=10047413 }
 
 Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator! The applications are always open.
 
@@ -84,7 +84,7 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com) and ap
 
 ### BN Departures
 
-- **osu!:** ::Peter::{ user=8623835 }, [Kaitjuh](https://osu.ppy.sh/users/2225327), ::Icekalt::{ user=5410645 } & [Rizen](https://osu.ppy.sh/users/3056732)
+- **osu!:** ::Peter::{ user=8623835 }, ::Kaitjuh::{ user=2225327 }, ::Icekalt::{ user=5410645 } & ::Rizen::{ user=3056732 }
 - **osu!taiko:** ::Volta::{ user=4154071 }
 - **osu!catch:** ::JBHyperion::{ user=4879508 }
 
@@ -134,7 +134,7 @@ As for results, results for both May and June's MBC have been announced, includi
 
 May's contest concluded with 2 winners! Congratulations to both ::hypercyte::{ user=9155377 } who won both the community vote and "screening crew's favourite" categories, and to ::Acylica::{ user=1943309 } who was the community vote's runner-up! Further congratulations to ::hypercyte::{ user=9155377 } on being the first mapper to have won the MBC grand prize and earning the **Elite Mapper** title through the new Monthly Beatmapping Contests with an overall total of 7 points!
 
-As for June, we congratulate ::Kalibe::{ user=3376777 }, [xbopost](https://osu.ppy.sh/users/6842421) and ::Sylas::{ user=3906405 } on winning MBC for this month! There was a 3-way tie this time so there will be no runner-up for this month. The scores between their entries were so thin, with an amazing display of work from all three of them. ::Mao::{ user=2204515 } and [K4L1](https://osu.ppy.sh/users/11334594) also received honorable mentions for their creative entries which unfortunately did not score as high.
+As for June, we congratulate ::Kalibe::{ user=3376777 }, ::xbopost::{ user=6842421 } and ::Sylas::{ user=3906405 } on winning MBC for this month! There was a 3-way tie this time so there will be no runner-up for this month. The scores between their entries were so thin, with an amazing display of work from all three of them. ::Mao::{ user=2204515 } and ::K4L1::{ user=11334594 } also received honorable mentions for their creative entries which unfortunately did not score as high.
 
 View the latest information regarding MBC in the [wiki article](/wiki/Contests/Monthly_Beatmapping_Contest).
 

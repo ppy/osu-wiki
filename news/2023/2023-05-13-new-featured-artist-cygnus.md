@@ -25,7 +25,7 @@ Given **cygnus**'s presence in the mapping community, it's no surprise that he w
 
 ### cygnus - STRIKER+
 
-Play through [this soon-to-be-Ranked map](https://osu.ppy.sh/beatmapsets/1966073) with an 8-star top difficulty and guest difficulties by the *no caps crew*: ::rrtyui::{ user=352328 }, [mithew](https://osu.ppy.sh/users/2571893), ::semaphore::{ user=6313643 }, and [fanzhen0019](https://osu.ppy.sh/users/418699)!
+Play through [this soon-to-be-Ranked map](https://osu.ppy.sh/beatmapsets/1966073) with an 8-star top difficulty and guest difficulties by the *no caps crew*: ::rrtyui::{ user=352328 }, ::mithew::{ user=2571893 }, ::semaphore::{ user=6313643 }, and ::fanzhen0019::{ user=418699 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/359/The%20Evolution%20of%20War/cygnus%20-%20STRIKER%2B.mp3">

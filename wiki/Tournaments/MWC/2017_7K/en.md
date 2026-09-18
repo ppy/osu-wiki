@@ -55,22 +55,22 @@ The osu!mania 7K World Cup 2017 was run by various community members.
 
 |  | Country | Members |
 | --: | :-: | :-- |
-| ::{ flag=AR }:: | **Argentina** | **::lxLucasxl::{ user=3632846 }**, [aluuu](https://osu.ppy.sh/users/4585260), ::Euroe::{ user=3633019 }, [Feravel](https://osu.ppy.sh/users/1276617), ::pablodinakinsito::{ user=2052925 }, [wtfamidoing](https://osu.ppy.sh/users/2034976) |
-| ::{ flag=AU }:: | **Australia** | **::Pew::{ user=597692 }**, [Alchalyne](https://osu.ppy.sh/users/3999031), ::ApocaZumbee::{ user=3431615 }, [Evios](https://osu.ppy.sh/users/2058022), ::sankansuki::{ user=2877926 }, [Shirinisu](https://osu.ppy.sh/users/4922584) |
-| ::{ flag=BR }:: | **Brazil** | **::spoonguy::{ user=932381 }**, [Guilhermeziat](https://osu.ppy.sh/users/3661387), ::Keweft::{ user=75777 }, [Lazarento](https://osu.ppy.sh/users/3224958), ::Shinora-::{ user=5828575 }, [SillyFangirl](https://osu.ppy.sh/users/2288363) |
-| ::{ flag=CL }:: | **Chile** | **::Gonzaalooo::{ user=1948903 }**, [Asagaki](https://osu.ppy.sh/users/2632902), ::Skalim::{ user=2225008 } |
-| ::{ flag=CN }:: | **China** | **::ZhangFan::{ user=89545 }**, [KafuuChino](https://osu.ppy.sh/users/427355), ::Kaguya::{ user=681814 }, [ljqandylee](https://osu.ppy.sh/users/141469), ::Philosophorum::{ user=6503335 }, [Sern888](https://osu.ppy.sh/users/2089244) |
-| ::{ flag=FR }:: | **France** | **::Elementaires::{ user=2284328 }**, [AntoAa](https://osu.ppy.sh/users/3897919), ::bumpinho::{ user=1594604 }, [CharlisMadCut](https://osu.ppy.sh/users/2863607) |
-| ::{ flag=ID }:: | **Indonesia** | **::Fiea::{ user=3183277 }**, [Cailne](https://osu.ppy.sh/users/1031263), ::ExKagii-::{ user=4591324 }, [Kephin](https://osu.ppy.sh/users/5033561), ::Nyooo::{ user=2319372 }, [reyss](https://osu.ppy.sh/users/4557440) |
-| ::{ flag=MY }:: | **Malaysia** | **::Cryolien::{ user=1626983 }**, [InabaYap](https://osu.ppy.sh/users/2041034), ::seyren95::{ user=1761259 } |
-| ::{ flag=PH }:: | **Philippines** | **::arcwinolivirus::{ user=2039089 }**, [BLVGARI](https://osu.ppy.sh/users/877011), ::Dadots::{ user=3525251 }, [kei101895](https://osu.ppy.sh/users/3032245), ::Nikana::{ user=4345491 }, [SanniSanni](https://osu.ppy.sh/users/3036686) |
-| ::{ flag=PL }:: | **Poland** | **::SitekX::{ user=3840946 }**, [\_underjoy](https://osu.ppy.sh/users/2235750), ::Ereedon::{ user=1887068 }, [Hudonom](https://osu.ppy.sh/users/1654221), ::LolimeisterTDS::{ user=4308015 }, [Modren](https://osu.ppy.sh/users/1828621) |
-| ::{ flag=RU }:: | **Russian Federation** | **::Kivicat::{ user=2790640 }**, [Akary](https://osu.ppy.sh/users/3912608), ::DarkSider2442::{ user=1130069 }, [Grifanych](https://osu.ppy.sh/users/2025416), ::Mage::{ user=5527957 }, [MisterPlegas](https://osu.ppy.sh/users/3677208) |
-| ::{ flag=SG }:: | **Singapore** | **::Paralit::{ user=876528 }**, [\[-Seiryuu-\]](https://osu.ppy.sh/users/2808028), ::ByeForNow::{ user=7199159 }, [danielrox](https://osu.ppy.sh/users/4893212), ::Level 51::{ user=3617847 }, [-Xarea-](https://osu.ppy.sh/users/7935679) |
-| ::{ flag=KR }:: | **South Korea** | **::jakads::{ user=259972 }**, [Cobo-](https://osu.ppy.sh/users/1482965), ::cr1sp::{ user=5332153 }, [Estonians](https://osu.ppy.sh/users/7014697), ::Kim\_GodSSI::{ user=2218047 }, [WindyS](https://osu.ppy.sh/users/1190879) |
-| ::{ flag=TH }:: | **Thailand** | **::\_S h i r o\_::{ user=766374 }**, [- A s u s a -](https://osu.ppy.sh/users/4607354), ::Komeiji::{ user=1177753 }, [Leoros](https://osu.ppy.sh/users/6577073), ::moni::{ user=1750531 }, [Zenonia](https://osu.ppy.sh/users/437945) |
-| ::{ flag=GB }:: | **United Kingdom** | **::PLiv::{ user=929134 }**, [FOR THE QUEEN](https://osu.ppy.sh/users/3359035), ::Hayabusa::{ user=3104108 }, [KOTFTW](https://osu.ppy.sh/users/2075727), ::Pipper::{ user=4168230 } |
-| ::{ flag=US }:: | **United States** | **::Gekido-::{ user=4693052 }**, [Craig](https://osu.ppy.sh/users/3565377), ::dewero::{ user=2644993 }, [Jinjin](https://osu.ppy.sh/users/3360737), ::OroMaster::{ user=2375374 }, [Squishykorean](https://osu.ppy.sh/users/4372604) |
+| ::{ flag=AR }:: | **Argentina** | **::lxLucasxl::{ user=3632846 }**, ::aluuu::{ user=4585260 }, ::Euroe::{ user=3633019 }, ::Feravel::{ user=1276617 }, ::pablodinakinsito::{ user=2052925 }, ::wtfamidoing::{ user=2034976 } |
+| ::{ flag=AU }:: | **Australia** | **::Pew::{ user=597692 }**, ::Alchalyne::{ user=3999031 }, ::ApocaZumbee::{ user=3431615 }, ::Evios::{ user=2058022 }, ::sankansuki::{ user=2877926 }, ::Shirinisu::{ user=4922584 } |
+| ::{ flag=BR }:: | **Brazil** | **::spoonguy::{ user=932381 }**, ::Guilhermeziat::{ user=3661387 }, ::Keweft::{ user=75777 }, ::Lazarento::{ user=3224958 }, ::Shinora-::{ user=5828575 }, ::SillyFangirl::{ user=2288363 } |
+| ::{ flag=CL }:: | **Chile** | **::Gonzaalooo::{ user=1948903 }**, ::Asagaki::{ user=2632902 }, ::Skalim::{ user=2225008 } |
+| ::{ flag=CN }:: | **China** | **::ZhangFan::{ user=89545 }**, ::KafuuChino::{ user=427355 }, ::Kaguya::{ user=681814 }, ::ljqandylee::{ user=141469 }, ::Philosophorum::{ user=6503335 }, ::Sern888::{ user=2089244 } |
+| ::{ flag=FR }:: | **France** | **::Elementaires::{ user=2284328 }**, ::AntoAa::{ user=3897919 }, ::bumpinho::{ user=1594604 }, ::CharlisMadCut::{ user=2863607 } |
+| ::{ flag=ID }:: | **Indonesia** | **::Fiea::{ user=3183277 }**, ::Cailne::{ user=1031263 }, ::ExKagii-::{ user=4591324 }, ::Kephin::{ user=5033561 }, ::Nyooo::{ user=2319372 }, ::reyss::{ user=4557440 } |
+| ::{ flag=MY }:: | **Malaysia** | **::Cryolien::{ user=1626983 }**, ::InabaYap::{ user=2041034 }, ::seyren95::{ user=1761259 } |
+| ::{ flag=PH }:: | **Philippines** | **::arcwinolivirus::{ user=2039089 }**, ::BLVGARI::{ user=877011 }, ::Dadots::{ user=3525251 }, ::kei101895::{ user=3032245 }, ::Nikana::{ user=4345491 }, ::SanniSanni::{ user=3036686 } |
+| ::{ flag=PL }:: | **Poland** | **::SitekX::{ user=3840946 }**, ::\_underjoy::{ user=2235750 }, ::Ereedon::{ user=1887068 }, ::Hudonom::{ user=1654221 }, ::LolimeisterTDS::{ user=4308015 }, ::Modren::{ user=1828621 } |
+| ::{ flag=RU }:: | **Russian Federation** | **::Kivicat::{ user=2790640 }**, ::Akary::{ user=3912608 }, ::DarkSider2442::{ user=1130069 }, ::Grifanych::{ user=2025416 }, ::Mage::{ user=5527957 }, ::MisterPlegas::{ user=3677208 } |
+| ::{ flag=SG }:: | **Singapore** | **::Paralit::{ user=876528 }**, ::\[-Seiryuu-\]::{ user=2808028 }, ::ByeForNow::{ user=7199159 }, ::danielrox::{ user=4893212 }, ::Level 51::{ user=3617847 }, ::-Xarea-::{ user=7935679 } |
+| ::{ flag=KR }:: | **South Korea** | **::jakads::{ user=259972 }**, ::Cobo-::{ user=1482965 }, ::cr1sp::{ user=5332153 }, ::Estonians::{ user=7014697 }, ::Kim\_GodSSI::{ user=2218047 }, ::WindyS::{ user=1190879 } |
+| ::{ flag=TH }:: | **Thailand** | **::\_S h i r o\_::{ user=766374 }**, ::- A s u s a -::{ user=4607354 }, ::Komeiji::{ user=1177753 }, ::Leoros::{ user=6577073 }, ::moni::{ user=1750531 }, ::Zenonia::{ user=437945 } |
+| ::{ flag=GB }:: | **United Kingdom** | **::PLiv::{ user=929134 }**, ::FOR THE QUEEN::{ user=3359035 }, ::Hayabusa::{ user=3104108 }, ::KOTFTW::{ user=2075727 }, ::Pipper::{ user=4168230 } |
+| ::{ flag=US }:: | **United States** | **::Gekido-::{ user=4693052 }**, ::Craig::{ user=3565377 }, ::dewero::{ user=2644993 }, ::Jinjin::{ user=3360737 }, ::OroMaster::{ user=2375374 }, ::Squishykorean::{ user=4372604 } |
 
 ## Groups
 

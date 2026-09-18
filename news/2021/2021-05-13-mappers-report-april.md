@@ -38,9 +38,9 @@ As is the cycle of life, some Beatmap Nominators come and go every month. Hereâ€
 
 ### BN Additions
 
-- **osu!:** ::Okoratu::{ user=1623405 } & [CallieCube](https://osu.ppy.sh/users/7535045)
+- **osu!:** ::Okoratu::{ user=1623405 } & ::CallieCube::{ user=7535045 }
 - **osu!taiko:** ::CallMeLyra::{ user=15272997 }
-- **osu!catch:** ::-Luminate::{ user=4778689 }, [Souvenir](https://osu.ppy.sh/users/14057792) & ::My Angel RangE::{ user=6336713 }
+- **osu!catch:** ::-Luminate::{ user=4778689 }, ::Souvenir::{ user=14057792 } & ::My Angel RangE::{ user=6336713 }
 
 Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator! The applications are always open.
 
@@ -48,9 +48,9 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com/) and a
 
 ### BN Departures
 
-- **osu!:** ::-Aqua::{ user=7150015 }, [Ayucchi](https://osu.ppy.sh/users/7823498) & ::Milan-::{ user=1052994 },
+- **osu!:** ::-Aqua::{ user=7150015 }, ::Ayucchi::{ user=7823498 } & ::Milan-::{ user=1052994 },
 - **osu!taiko:** ::Ulqui::{ user=1263669 }
-- **osu!catch:** ::Xinely::{ user=1521445 } & [Myxo](https://osu.ppy.sh/users/2202645)
+- **osu!catch:** ::Xinely::{ user=1521445 } & ::Myxo::{ user=2202645 }
 
 ## Mappers' Showcase
 
@@ -152,7 +152,7 @@ Well, what are you waiting for? Start tuning your keytar and head over to the [f
 
 Looks like another osu!mania-related mapping contest is on the horizon. Here comes the Otaku TV Size Mapping Contest for you to enjoy the spirit of anime to the fullest!
 
-Hosted by ::Sun::{ user=4115819 }, [Murumoo](https://osu.ppy.sh/users/8001433), ::Paran::{ user=13340203 } and [deta5859](https://osu.ppy.sh/users/15275662), the contest allows everyone to participate in both of the two pre-selected songs.
+Hosted by ::Sun::{ user=4115819 }, ::Murumoo::{ user=8001433 }, ::Paran::{ user=13340203 } and ::deta5859::{ user=15275662 }, the contest allows everyone to participate in both of the two pre-selected songs.
 
 The winning entry hosting the runner-ups' guest difficulties will be speed-carried to the ranked section, and you will have the pleasure of being remembered as an *Otaku Mapper*! For better or worse.
 

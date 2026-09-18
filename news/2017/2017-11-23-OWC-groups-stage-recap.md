@@ -17,7 +17,7 @@ The Group Stage just concluded this past weekend - the first of a few stages of 
 
 ## Group Stage
 
-The tournament started off with a great match from Team Australia and Team Indonesia, featuring some very old names in the community like ::Bauxe::{ user=1881685 }, [Fuma](https://osu.ppy.sh/users/1501956), and ::Lunirs::{ user=2118945 }. Both teams gave each other a run for the prize, but Team Australia pulled off with a decisive 5-2 victory.
+The tournament started off with a great match from Team Australia and Team Indonesia, featuring some very old names in the community like ::Bauxe::{ user=1881685 }, ::Fuma::{ user=1501956 }, and ::Lunirs::{ user=2118945 }. Both teams gave each other a run for the prize, but Team Australia pulled off with a decisive 5-2 victory.
 
 Team Japan was widely hyped after being absent last year. The roster, led by Captain ::Sinch::{ user=360552 } (from the 2014 roster), saw some impressive moments when they took on the Top Seed team France, and managed to secure a close but well-earned victory in the Tiebreaker.
 
@@ -31,7 +31,7 @@ Over recent years Canada is another country that has seen some tremendous growth
 
 Both teams came down to a tiebreaker, where Team Canada's overall consistency and Tiebreaker experience won them the match. If you have time to check out just one match from this past weekend – this would be your top pick.
 
-Team Hong Kong was especially noteworthy for being the only low-seeded team climbing out as top in the group this past weekend. Facing incredible opposing teams of Philippines, Norway, and Chile, this highly underrated team surprised the fans over and over again with their immovable consistency. Assisted by players like ::DenierNezzar::{ user=126144 }, [MinG3012](https://osu.ppy.sh/users/1583218), ::Chaoslitz::{ user=3621552 }, and [– G I D Z –](https://osu.ppy.sh/users/2286528), the Hong Kong team avenged itself for having being eliminated last year in the Groups.
+Team Hong Kong was especially noteworthy for being the only low-seeded team climbing out as top in the group this past weekend. Facing incredible opposing teams of Philippines, Norway, and Chile, this highly underrated team surprised the fans over and over again with their immovable consistency. Assisted by players like ::DenierNezzar::{ user=126144 }, ::MinG3012::{ user=1583218 }, ::Chaoslitz::{ user=3621552 }, and ::– G I D Z –::{ user=2286528 }, the Hong Kong team avenged itself for having being eliminated last year in the Groups.
 
 ## Upcoming Stage: Eliminations
 
@@ -41,11 +41,11 @@ From the 32 teams came 16 – Taiwan will face South Korea, United Kingdom chall
 
 Personally, I have high anticipation towards all matches. To say the least, the Taiwan vs South Korea match will definitely be one to watch out for - both teams have had a long history of rivalry in the OWC, and team captain ::Rucker::{ user=147515 } from Taiwan will seek to settle the score once and for all this year.
 
-The South Korean "busdrivers" have been a force to be reckoned with in the competitive osu! scene. Featuring returning strong candidates like ::firebat92::{ user=1777162 } along with new blood powerhouses like ::Pray::{ user=2190336 } and [Pring](https://osu.ppy.sh/users/3478883), the South Korean team will definitely put up a good show against their old friend and rival.
+The South Korean "busdrivers" have been a force to be reckoned with in the competitive osu! scene. Featuring returning strong candidates like ::firebat92::{ user=1777162 } along with new blood powerhouses like ::Pray::{ user=2190336 } and ::Pring::{ user=3478883 }, the South Korean team will definitely put up a good show against their old friend and rival.
 
 Another noteworthy pair is Canada and Brazil. Both teams have a bond of friendship where they would often scrim with one another in past OWCs. However this year, fate has played the strings and brought them to meet each other in Round of 16 already.
 
-Neither side has a distinct advantage over the other - Canada features reading and consistency players like ::Azer::{ user=2155578 }, [MiruHong](https://osu.ppy.sh/users/2866814), and ::FunOrange::{ user=2051389 }, while Brazil boasts the Samba pride with tournament beasts like ::MouseEasy::{ user=1558603 } and [fabriciorby](https://osu.ppy.sh/users/209664). The mappool is also well within the comfort range of both teams, and I foresee that many picks may just come down to a matter of consistency and accuracy.
+Neither side has a distinct advantage over the other - Canada features reading and consistency players like ::Azer::{ user=2155578 }, ::MiruHong::{ user=2866814 }, and ::FunOrange::{ user=2051389 }, while Brazil boasts the Samba pride with tournament beasts like ::MouseEasy::{ user=1558603 } and ::fabriciorby::{ user=209664 }. The mappool is also well within the comfort range of both teams, and I foresee that many picks may just come down to a matter of consistency and accuracy.
 
 ---
 

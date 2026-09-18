@@ -191,7 +191,7 @@ In short, like the length bonus mentioned above, the new miss penalty is *also* 
 
 ### Rhythm object-snapping fix
 
-A [change](https://github.com/ppy/osu/pull/33403) by ::ltca::{ user=11475208 } and [BabySnakes](https://osu.ppy.sh/users/4669728) was made in order to fix an issue with "unsnapped" objects unfairly buffing rhythm difficulty.
+A [change](https://github.com/ppy/osu/pull/33403) by ::ltca::{ user=11475208 } and ::BabySnakes::{ user=4669728 } was made in order to fix an issue with "unsnapped" objects unfairly buffing rhythm difficulty.
 
 Prior to this fix, objects placed 1–5 ms off from their intended timing would be treated as entirely new rhythms. These patterns would be played identically, yet the system would incorrectly see these as complex rhythm changes and inflate star rating as a result. In some extreme cases, this caused inflation upwards of 2*.
 
@@ -217,7 +217,7 @@ This *length bonus* would previously spike by about 0.2* as soon as the stamina 
 - A [change](https://github.com/ppy/osu/pull/33415) by ::rloseise::{ user=6793778 } to remove static nerfs for the EZ mod
 - A [change](https://github.com/ppy/osu/pull/33500) by ::rloseise::{ user=6793778 } to change how difficulty and accuracy PP are summed
 - A [change](https://github.com/ppy/osu/pull/34962) by ::rloseise::{ user=6793778 } to rebalance final values to meet community expectations 
-- A [set](https://github.com/ppy/osu/pull/33233) of [changes](https://github.com/ppy/osu/pull/34327) by ::ltca::{ user=11475208 } and [rloseise](https://osu.ppy.sh/users/6793778) to add a "consistency factor" used to power the length bonus and miss penalty changes
+- A [set](https://github.com/ppy/osu/pull/33233) of [changes](https://github.com/ppy/osu/pull/34327) by ::ltca::{ user=11475208 } and ::rloseise::{ user=6793778 } to add a "consistency factor" used to power the length bonus and miss penalty changes
 
 ## osu!catch
 

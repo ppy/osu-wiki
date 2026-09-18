@@ -14,7 +14,7 @@ Do you ever get the feeling the game changes whenever you're not looking at it? 
 </tr></table>
 
 **A big thanks to the following contributors for making this *haunting* edition of osu!weekly possible:**<br>
-[Count Raveille](https://osu.ppy.sh/users/Raveille), [Xylostein](https://osu.ppy.sh/users/Xylo-), [He Who Beats The Dead](https://osu.ppy.sh/users/deadbeat), [and an intractably handsome unnamed spirit with a strange fixation on chips](https://osu.ppy.sh/users/Ephemeral)
+::Count Raveille::{ user=1388767 }, [Xylostein](https://osu.ppy.sh/users/Xylo-), ::He Who Beats The Dead::{ user=128370 }, [and an intractably handsome unnamed spirit with a strange fixation on chips](https://osu.ppy.sh/users/Ephemeral)
 
 **You know what's more spooky than the rate of which the game updates? The fact that Ephemeral already made [a post](https://osu.ppy.sh/home/news/2016-10-29-halloween-cometh) about it!** cYsmix (one of the resident osu!musicians) released a banging new track that will be *mysteriously* replacing our beloved circles theme from nekodex. Other new content such as new paranormal "hush-hush" achievements are also waiting for you to stumble upon when you least expect it!
 
@@ -32,7 +32,7 @@ Do you ever get the feeling the game changes whenever you're not looking at it? 
 
 Earlier in October, ::RAMPAGE88::{ user=448547 }, a Saudi Arabian osu!catch player, set a record for having the highest ranked score in all modes, with 200,000,000,000. osu!catch has been setting many records, with the highest pp play also in osu!catch. I'll wait for someone to hit 250,000,000,000. That's a *lot* of zeroes.
 
-Fancy some taiko action? [\_yu68](https://osu.ppy.sh/users/_yu68) FCed [DragonForce - Heroes Of Our Time](https://osu.ppy.sh/beatmapsets/461782) on DT (99.52%), gaining 586pp. This was an 8.44* FC as well, making it all the more impressive.
+Fancy some taiko action? ::\_yu68::{ user=6170507 } FCed [DragonForce - Heroes Of Our Time](https://osu.ppy.sh/beatmapsets/461782) on DT (99.52%), gaining 586pp. This was an 8.44* FC as well, making it all the more impressive.
 
 ![](https://osu.ppy.sh/ss/6435657)
 <p style="text-align:center;"><i>More like the Horrors of Our Time. Do people even have fingers left after >8 star plays?</i></p>
@@ -47,7 +47,7 @@ Step aside Rafis and hvick225, ::Gayzmcgee::{ user=1419095 } has stolen No.1 on 
 ![](https://osu.ppy.sh/ss/6435682)
 <p style="text-align:center;"><i>Infinitely spooky indeed.</i></p>
 
-Remember the rarity of 700pp plays? No? Me neither! ::Vaxei::{ user=4787150 } and [Rafis](https://osu.ppy.sh/users/2558286) went on to set respective 700pp plays; the former setting a HDDT 98.73% Rank 1 FC score on [Aquors - Aozora Jumping Heart \[hvick225's Extra\]](https://osu.ppy.sh/beatmaps/1063410?m=0) granting him 711pp, the latter setting a HDDTHR 99.25% Rank 1 FC score on [Ayase Rie - Yuima-ru*World TVver. \[Extra\]](https://osu.ppy.sh/beatmaps/983680?m=0), giving him 713pp.
+Remember the rarity of 700pp plays? No? Me neither! ::Vaxei::{ user=4787150 } and ::Rafis::{ user=2558286 } went on to set respective 700pp plays; the former setting a HDDT 98.73% Rank 1 FC score on [Aquors - Aozora Jumping Heart \[hvick225's Extra\]](https://osu.ppy.sh/beatmaps/1063410?m=0) granting him 711pp, the latter setting a HDDTHR 99.25% Rank 1 FC score on [Ayase Rie - Yuima-ru*World TVver. \[Extra\]](https://osu.ppy.sh/beatmaps/983680?m=0), giving him 713pp.
 
 ![](https://osu.ppy.sh/ss/6452900)
 <p style="text-align:center;"><i>Something's jumping, and it isn't a heart.</i></p>

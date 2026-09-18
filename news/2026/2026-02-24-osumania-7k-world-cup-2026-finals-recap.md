@@ -13,7 +13,7 @@ The final weeks of a tournament oftentimes become the most exciting parts of the
 
 While active viewers of the tournament may have already been spoiled by last week's Grand Finals matches, we'd like to reminisce the best moments leading up to the last matches. Bear with us as we take a look back at the Finals: the round that would determine which teams will meet at the final bout.
 
-And with another written recap, we have another video recap by the hands of our trusty team. Keep a heads-up for both this and next week's videos as ::yukina meng::{ user=9919550 }, [Normiplier](https://osu.ppy.sh/users/10069850), ::epic man 2::{ user=14566000 }, [SurfChu85](https://osu.ppy.sh/users/4469895), and ::SunApple::{ user=11817622 }'s series of posts are soon to come to an end!
+And with another written recap, we have another video recap by the hands of our trusty team. Keep a heads-up for both this and next week's videos as ::yukina meng::{ user=9919550 }, ::Normiplier::{ user=10069850 }, ::epic man 2::{ user=14566000 }, ::SurfChu85::{ user=4469895 }, and ::SunApple::{ user=11817622 }'s series of posts are soon to come to an end!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/z0iu3IY6bU4" frameborder="0" allowfullscreen></iframe>

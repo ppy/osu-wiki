@@ -18,7 +18,7 @@ As always, we would like to thank everyone for your participation in the May vot
 - [Results for osu!catch](https://osu.ppy.sh/community/forums/topics/1582851?n=2)
 - [Results for osu!mania](https://osu.ppy.sh/community/forums/topics/1582850?n=2)
 
-Before we proceed with this month's picks, we'd like to introduce you to the newest members of the Project Loved team! Coming from the Global Moderation Team, ::ChillierPear::{ user=9501251 } and [Venix](https://osu.ppy.sh/users/5999631) have joined us to fulfill the duty of beatmap content moderation on Loved picks.
+Before we proceed with this month's picks, we'd like to introduce you to the newest members of the Project Loved team! Coming from the Global Moderation Team, ::ChillierPear::{ user=9501251 } and ::Venix::{ user=5999631 } have joined us to fulfill the duty of beatmap content moderation on Loved picks.
 
 We'd also like to give special thanks to ::Hubz::{ user=10379965 } for giving our banner a fresh coat of paint and getting it up to current osu! standards in terms of design! Hopefully this won't be the only design-related update that Project Loved will be seeing in the future ;).
 
@@ -33,13 +33,13 @@ Without any further delays, let's get into this month's picks! Shall we?
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::Doomsday::{ user=18983 } and [Wixonater](https://osu.ppy.sh/users/10083084)!
+The osu! Loved candidates were chosen by ::Doomsday::{ user=18983 } and ::Wixonater::{ user=10083084 }!
 
 ---
 
 [![](/wiki/shared/news/2022-06-23-project-loved-june-2022/388565.jpg)](https://osu.ppy.sh/community/forums/topics/1599031)
 
-[Wagakki Band - Hanabi](https://osu.ppy.sh/beatmapsets/388565#osu) by ::Atsuro::{ user=2279351 }, [Hazu-](https://osu.ppy.sh/users/4668230), ::iYiyo::{ user=3919785 }, [polka](https://osu.ppy.sh/users/4191702) and ::Underforest::{ user=6753180 }\
+[Wagakki Band - Hanabi](https://osu.ppy.sh/beatmapsets/388565#osu) by ::Atsuro::{ user=2279351 }, ::Hazu-::{ user=4668230 }, ::iYiyo::{ user=3919785 }, ::polka::{ user=4191702 } and ::Underforest::{ user=6753180 }\
 232 BPM, 3:51 | 1.47★ – 7.17★\
 *description written by ::Doomsday::{ user=18983 }*
 
@@ -65,7 +65,7 @@ Do you have what it takes to take on this original boss map? And does it find a 
 
 [![](/wiki/shared/news/2022-06-23-project-loved-june-2022/1113116.jpg)](https://osu.ppy.sh/community/forums/topics/1599029)
 
-[Linkin Park - Breaking The Habit](https://osu.ppy.sh/beatmapsets/1113116#osu) by ::saggi::{ user=8027395 } and [- Sana -](https://osu.ppy.sh/users/4720880)\
+[Linkin Park - Breaking The Habit](https://osu.ppy.sh/beatmapsets/1113116#osu) by ::saggi::{ user=8027395 } and ::- Sana -::{ user=4720880 }\
 200.06 BPM, 2:58 | 7.37★\
 *description written by ::Wixonater::{ user=10083084 }*
 
@@ -87,7 +87,7 @@ So go and try it yourself! Maybe it'll be as alluring for you as to the many who
 
 [![](/wiki/shared/news/2022-06-23-project-loved-june-2022/1062653.jpg)](https://osu.ppy.sh/community/forums/topics/1599027)
 
-[Katakiri Rekka - Answer](https://osu.ppy.sh/beatmapsets/1062653#osu) by ::Delis::{ user=1603923 }, [Axarious](https://osu.ppy.sh/users/2614511), ::CoLouRed GlaZeE::{ user=3189514 }, [FGSky](https://osu.ppy.sh/users/2094566), ::IOException::{ user=2688103 }, [Luscent](https://osu.ppy.sh/users/2688581), ::Mirash::{ user=2841009 }, [neko ds](https://osu.ppy.sh/users/4688735) and ::tatemae::{ user=5223028 }\
+[Katakiri Rekka - Answer](https://osu.ppy.sh/beatmapsets/1062653#osu) by ::Delis::{ user=1603923 }, ::Axarious::{ user=2614511 }, ::CoLouRed GlaZeE::{ user=3189514 }, ::FGSky::{ user=2094566 }, ::IOException::{ user=2688103 }, ::Luscent::{ user=2688581 }, ::Mirash::{ user=2841009 }, ::neko ds::{ user=4688735 } and ::tatemae::{ user=5223028 }\
 224 BPM, 3:39 | 2.41★ – 6.83★\
 *description written by ::Wixonater::{ user=10083084 }*
 
@@ -113,7 +113,7 @@ The original map was deleted some time after 2013, and lost all of the favourite
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [Boaz](https://osu.ppy.sh/users/13302996), ::Gamelan4::{ user=9856910 } and [POCARI SWEAT](https://osu.ppy.sh/users/5082685)!
+The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::Boaz::{ user=13302996 }, ::Gamelan4::{ user=9856910 } and ::POCARI SWEAT::{ user=5082685 }!
 
 ---
 
@@ -182,13 +182,13 @@ Are all you ready to play along for 3 hours, make a record, and engrave your nam
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::Kasumi-sama::{ user=6177263 }, [Sartan](https://osu.ppy.sh/users/4100941), ::Tenshichan::{ user=1101600 } and [Wesley](https://osu.ppy.sh/users/2407265)!
+The osu!catch Loved candidates were chosen by ::Kasumi-sama::{ user=6177263 }, ::Sartan::{ user=4100941 }, ::Tenshichan::{ user=1101600 } and ::Wesley::{ user=2407265 }!
 
 ---
 
 [![](/wiki/shared/news/2022-06-23-project-loved-june-2022/1490540.jpg)](https://osu.ppy.sh/community/forums/topics/1599020)
 
-[mafumafu - I wanna be a girl](https://osu.ppy.sh/beatmapsets/1490540#fruits) by ::Chatie::{ user=6524765 }, [Absolute Zero](https://osu.ppy.sh/users/4847256), ::Aerene::{ user=4818935 }, [Aljotzi](https://osu.ppy.sh/users/10561973), ::amogus 727::{ user=9738159 }, [Astreachan](https://osu.ppy.sh/users/2953898), ::bigh::{ user=16352736 }, [Bunnrei](https://osu.ppy.sh/users/829284), ::Crowley::{ user=6341006 }, [Deif](https://osu.ppy.sh/users/318565), ::GIGACHAD::{ user=11081858 }, [JierYagtama](https://osu.ppy.sh/users/7483452), ::Kyonkichi::{ user=7585544 }, [Mafumafu](https://osu.ppy.sh/users/3076909), ::Mniam::{ user=6050530 }, [nikochurro](https://osu.ppy.sh/users/17628079), ::rew0825::{ user=2488026 }, [rinkiha](https://osu.ppy.sh/users/10786819), ::SadEgg::{ user=10278243 } and [ZiRoX](https://osu.ppy.sh/users/200768)\
+[mafumafu - I wanna be a girl](https://osu.ppy.sh/beatmapsets/1490540#fruits) by ::Chatie::{ user=6524765 }, ::Absolute Zero::{ user=4847256 }, ::Aerene::{ user=4818935 }, ::Aljotzi::{ user=10561973 }, ::amogus 727::{ user=9738159 }, ::Astreachan::{ user=2953898 }, ::bigh::{ user=16352736 }, ::Bunnrei::{ user=829284 }, ::Crowley::{ user=6341006 }, ::Deif::{ user=318565 }, ::GIGACHAD::{ user=11081858 }, ::JierYagtama::{ user=7483452 }, ::Kyonkichi::{ user=7585544 }, ::Mafumafu::{ user=3076909 }, ::Mniam::{ user=6050530 }, ::nikochurro::{ user=17628079 }, ::rew0825::{ user=2488026 }, ::rinkiha::{ user=10786819 }, ::SadEgg::{ user=10278243 } and ::ZiRoX::{ user=200768 }\
 140 BPM, 3:49 | 1.59★, 2.33★, 3.01★, 3.98★, 5.78★\
 *description written by ::Sartan::{ user=4100941 }*
 
@@ -240,7 +240,7 @@ Make sure to give this a try — even though it might not be a type of map you a
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, [-NoName-](https://osu.ppy.sh/users/10400730), ::kadoen::{ user=12780575 }, [Paturages](https://osu.ppy.sh/users/1375479), ::RandomeLoL::{ user=7080063 } and [stupud man](https://osu.ppy.sh/users/2141612)!
+The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, ::-NoName-::{ user=10400730 }, ::kadoen::{ user=12780575 }, ::Paturages::{ user=1375479 }, ::RandomeLoL::{ user=7080063 } and ::stupud man::{ user=2141612 }!
 
 ---
 
@@ -306,7 +306,7 @@ In any case, we hope the community can get to enjoy this pick as much as we've d
 
 [![](/wiki/shared/news/2022-06-23-project-loved-june-2022/1388481.jpg)](https://osu.ppy.sh/community/forums/topics/1599011)
 
-[Camellia - M1LLI0N PP](https://osu.ppy.sh/beatmapsets/1388481#mania) by ::DannyPX::{ user=11253722 }, [-Lethal-](https://osu.ppy.sh/users/5125822), ::\[Crz\]Crysarlene::{ user=5492871 }, [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ::Erkfir::{ user=7756939 }, [Jakads](https://osu.ppy.sh/users/259972), ::juankristal::{ user=443656 }, [Logan636](https://osu.ppy.sh/users/9423766), ::Penguinosity::{ user=10235296 }, [RuleBlazing](https://osu.ppy.sh/users/7312402), ::yetii::{ user=6914714 } and [zero2snow](https://osu.ppy.sh/users/7751516)\
+[Camellia - M1LLI0N PP](https://osu.ppy.sh/beatmapsets/1388481#mania) by ::DannyPX::{ user=11253722 }, ::-Lethal-::{ user=5125822 }, ::\[Crz\]Crysarlene::{ user=5492871 }, ::\[GS\]Myuka::{ user=10072733 }, ::Erkfir::{ user=7756939 }, ::Jakads::{ user=259972 }, ::juankristal::{ user=443656 }, ::Logan636::{ user=9423766 }, ::Penguinosity::{ user=10235296 }, ::RuleBlazing::{ user=7312402 }, ::yetii::{ user=6914714 } and ::zero2snow::{ user=7751516 }\
 234 BPM, 7:02 | 5.77★\
 *description written by ::Paturages::{ user=1375479 }*
 

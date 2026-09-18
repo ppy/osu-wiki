@@ -48,7 +48,7 @@ tags:
 - [Osamu Kubota - Presto \[Jval's Another\]](https://osu.ppy.sh/beatmapsets/1452332#osu/3005290)，由 ::Zelq::{ user=8953955 } 推荐
 - [Neru - Lost One no Goukoku \[eveless\]](https://osu.ppy.sh/beatmapsets/83547#osu/230641)，由 ::Ryuusei Aika::{ user=7777875 } 推荐
 - [OSTER project - Violet Rose \[Insane\]](https://osu.ppy.sh/beatmapsets/1178488#osu/2457698)，由 ::DigitalHypno::{ user=4384207 } 推荐
-- [onoken - ZADAMGA \[Luscent's Extra\]](https://osu.ppy.sh/beatmapsets/1492550#osu/3188917)，由 ::DigitalHypno::{ user=4384207 } 和 [Lefafel](https://osu.ppy.sh/users/2295850) 推荐
+- [onoken - ZADAMGA \[Luscent's Extra\]](https://osu.ppy.sh/beatmapsets/1492550#osu/3188917)，由 ::DigitalHypno::{ user=4384207 } 和 ::Lefafel::{ user=2295850 } 推荐
 - [UKRampage - Jack-the-Ripper \[Extravaganza\]](https://osu.ppy.sh/beatmapsets/1333932#osu/3274710)，由 ::Ryuusei Aika::{ user=7777875 } 推荐
 - [Nekomata Master - Byakuya Gentou \[EX\]](https://osu.ppy.sh/beatmapsets/36849#osu/119375)，由 ::Ryuusei Aika::{ user=7777875 } 推荐
 - [ELECTROCUTICA - Dependence Intension \[AQUARIUM+\]](https://osu.ppy.sh/beatmapsets/1402842#osu/2893781)，由 ::Riot::{ user=4256461 } 推荐
@@ -81,7 +81,7 @@ tags:
 - [Zekk - Feelsleft0ut \[rei's missing 0ut\] (Bunnrei)](https://osu.ppy.sh/beatmapsets/1145368#fruits/2391319)，由 ::SadEgg::{ user=10278243 } 推荐
 - [Phoebe Ryan - Mine (HANAEL Remix) \[Lost\] (Jemzuu)](https://osu.ppy.sh/beatmapsets/1222143#fruits/2542067)，由 ::Rocma::{ user=566276 } 推荐
 
-### osu!mania（由 ::Hydria::{ user=808176 } 领导，[CrumpetFiddler](https://osu.ppy.sh/users/3518705) 提供帮助）
+### osu!mania（由 ::Hydria::{ user=808176 } 领导，::CrumpetFiddler::{ user=3518705 } 提供帮助）
 
 #### 课题 A（异端节奏）
 

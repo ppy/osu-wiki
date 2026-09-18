@@ -41,7 +41,7 @@ Or check out [this map](https://osu.ppy.sh/beatmapsets/1508500) hosted by ::Real
 
 ### Raphiiel - RoquiRa : Between Life and Death
 
-Experience the climax of *HARDCORE UTOPIA III* through [this 10 minute marathon](https://osu.ppy.sh/beatmapsets/1508499) mapped by ::Cubby::{ user=10914582 }, [pocket-](https://osu.ppy.sh/users/6808091), ::Realazy::{ user=918297 }, and [Regou](https://osu.ppy.sh/users/419954)!
+Experience the climax of *HARDCORE UTOPIA III* through [this 10 minute marathon](https://osu.ppy.sh/beatmapsets/1508499) mapped by ::Cubby::{ user=10914582 }, ::pocket-::{ user=6808091 }, ::Realazy::{ user=918297 }, and ::Regou::{ user=419954 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/205/HARDCORE%20UTOPIA%203/Raphiiel%20-%20RoquiRa%20%20Between%20Life%20and%20Death.mp3" type="audio/mpeg">

@@ -28,7 +28,7 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/FKyJHfWWAgA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-osu!standard Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, [-Roxas](https://osu.ppy.sh/users/1986262), ::BeasttrollMC::{ user=3171691 }, [Bubbleman](https://osu.ppy.sh/users/5182050), ::fartownik::{ user=56917 } and [waywern2012](https://osu.ppy.sh/users/5870453)!
+osu!standard Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, ::-Roxas::{ user=1986262 }, ::BeasttrollMC::{ user=3171691 }, ::Bubbleman::{ user=5182050 }, ::fartownik::{ user=56917 } and ::waywern2012::{ user=5870453 }!
 
 ---
 
@@ -74,7 +74,7 @@ Though many would consider this set a "practice mapset", *Chaoz Fantasy* hosts a
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [iceOC](https://osu.ppy.sh/users/5482401), ::jyake::{ user=9099822 } and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
+osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::iceOC::{ user=5482401 }, ::jyake::{ user=9099822 } and ::nyanmi-1828::{ user=6866480 }!
 
 ---
 
@@ -89,7 +89,7 @@ Regarding its taiko diff, Nwolf did a great job at establishing a standard for t
 
 [![](/wiki/shared/news/2019-08-26-project-loved-week-of-august-25th/taiko/2-hide-away-my-heart.jpg)](https://osu.ppy.sh/community/forums/topics/953236)
 
-[MaxNRG - Hide Away My Heart](https://osu.ppy.sh/beatmapsets/693120#taiko) by ::Chromoxx::{ user=1881639 } and [Midnaait](https://osu.ppy.sh/users/1506011)\
+[MaxNRG - Hide Away My Heart](https://osu.ppy.sh/beatmapsets/693120#taiko) by ::Chromoxx::{ user=1881639 } and ::Midnaait::{ user=1506011 }\
 174 BPM, 2:13 | 1.41★ – 8.07★\
 *description written by ::nyanmi-1828::{ user=6866480 }*
 
@@ -102,7 +102,7 @@ Refuge, the top difficulty from *Hide Away My Heart*, has fast 1/8 patterns. Thi
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Tenshichan::{ user=1101600 }, [Sartan](https://osu.ppy.sh/users/4100941), ::Wesley::{ user=2407265 } and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)! This week, all osu!catch beatmap descriptions were written by ::Tenshichan::{ user=1101600 }.
+osu!catch Loved candidates were chosen by ::Tenshichan::{ user=1101600 }, ::Sartan::{ user=4100941 }, ::Wesley::{ user=2407265 } and ::Yumeno Himiko::{ user=1806962 }! This week, all osu!catch beatmap descriptions were written by ::Tenshichan::{ user=1101600 }.
 
 ---
 
@@ -122,7 +122,7 @@ DaxMasterix is known as an old-style mapper and his osu!catch difficulty of *Blu
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::Shoegazer::{ user=2520707 }, [Lenfried-](https://osu.ppy.sh/users/5314573), ::Pope Gadget::{ user=2288341 } and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
+osu!mania Loved candidates were chosen by ::Shoegazer::{ user=2520707 }, ::Lenfried-::{ user=5314573 }, ::Pope Gadget::{ user=2288341 } and ::Toaph Daddy::{ user=7616811 }!
 
 ---
 
@@ -159,7 +159,7 @@ qodtjr maps are arguably a crowd favorite and *Play Time!!* deserves a spot for 
 
 From everyone on the Project Loved team, we hope you enjoyed this week's selection, and are looking forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
-In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Noffy::{ user=1541323 }, [huu](https://osu.ppy.sh/users/6044237) and ::Ephemeral::{ user=102335 } for their miscellaneous help in managing Project Loved.
+In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Noffy::{ user=1541323 }, ::huu::{ user=6044237 } and ::Ephemeral::{ user=102335 } for their miscellaneous help in managing Project Loved.
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! You can view the current submissions on the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0). For osu!mania, please use [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSeaGfoQNGMqw4qQcqRPItUZILh2fGwJR6ly6cZNY9OWPXkFhw/viewform) and [this Google sheet](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit) instead.
 

@@ -37,7 +37,7 @@ That's all for the updates, now onto July's picks!
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, [Doomsday](https://osu.ppy.sh/users/18983) and ::Wixonater::{ user=10083084 }!
+The osu! Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, ::Doomsday::{ user=18983 } and ::Wixonater::{ user=10083084 }!
 
 ---
 
@@ -97,7 +97,7 @@ Trust me, it's even better than it sounds. You've never seen a 7-star tech map q
 
 [![](/wiki/shared/news/2022-07-25-project-loved-july-2022/816594.jpg)](https://osu.ppy.sh/community/forums/topics/1618074)
 
-[Shiritsu Morimori Gakuen Seishun Danshis - TOUCH YOU](https://osu.ppy.sh/beatmapsets/816594#osu) by ::Rabbitt::{ user=6812076 }, [defreeyay](https://osu.ppy.sh/users/11913657), ::hamano::{ user=9714032 }, [myoISHEREowo](https://osu.ppy.sh/users/14533711), ::Piramisu::{ user=8305062 } and [yeastiest](https://osu.ppy.sh/users/12983662)\
+[Shiritsu Morimori Gakuen Seishun Danshis - TOUCH YOU](https://osu.ppy.sh/beatmapsets/816594#osu) by ::Rabbitt::{ user=6812076 }, ::defreeyay::{ user=11913657 }, ::hamano::{ user=9714032 }, ::myoISHEREowo::{ user=14533711 }, ::Piramisu::{ user=8305062 } and ::yeastiest::{ user=12983662 }\
 135 BPM, 1:29 | 1.38★ – 6.20★\
 *description written by ::DigitalHypno::{ user=4384207 }*
 
@@ -113,7 +113,7 @@ One of the most exciting TV size maps you'll ever play.
 
 [![](/wiki/shared/news/2022-07-25-project-loved-july-2022/780250.jpg)](https://osu.ppy.sh/community/forums/topics/1618073)
 
-[Alfakyun. - Teo](https://osu.ppy.sh/beatmapsets/780250#osu) by ::netnesanya::{ user=6017901 }, [rollpan](https://osu.ppy.sh/users/3062998) and ::wajinshu::{ user=6339790 }\
+[Alfakyun. - Teo](https://osu.ppy.sh/beatmapsets/780250#osu) by ::netnesanya::{ user=6017901 }, ::rollpan::{ user=3062998 } and ::wajinshu::{ user=6339790 }\
 185 BPM, 3:25 | 2.29★ – 6.68★\
 *description written by ::DigitalHypno::{ user=4384207 }*
 
@@ -133,7 +133,7 @@ If you can make it to the end, there's a special treat waiting for you in the fo
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [Boaz](https://osu.ppy.sh/users/13302996), ::Horiiizon::{ user=8071438 }, [KuroKuroKuro](https://osu.ppy.sh/users/11931563) and ::POCARI SWEAT::{ user=5082685 }!
+The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::Boaz::{ user=13302996 }, ::Horiiizon::{ user=8071438 }, ::KuroKuroKuro::{ user=11931563 } and ::POCARI SWEAT::{ user=5082685 }!
 
 ---
 
@@ -152,7 +152,7 @@ Now let's dance our way into the next pick, shall we? :)
 
 [![](/wiki/shared/news/2022-07-25-project-loved-july-2022/1586184.jpg)](https://osu.ppy.sh/community/forums/topics/1618070)
 
-[momone - why did i enter the art course](https://osu.ppy.sh/beatmapsets/1586184#taiko) by ::My Angel Koishi::{ user=8273098 }, [miyagishima](https://osu.ppy.sh/users/8027517), ::Myckoll::{ user=554976 }, [syaron105](https://osu.ppy.sh/users/8741695) and ::uranosu1030::{ user=9029238 }\
+[momone - why did i enter the art course](https://osu.ppy.sh/beatmapsets/1586184#taiko) by ::My Angel Koishi::{ user=8273098 }, ::miyagishima::{ user=8027517 }, ::Myckoll::{ user=554976 }, ::syaron105::{ user=8741695 } and ::uranosu1030::{ user=9029238 }\
 219 BPM, 2:32 | 5.85★, 6.18★, 6.33★, 6.85★, 7.42★\
 *description written by ::-Kazu-::{ user=920861 }*
 
@@ -182,7 +182,7 @@ We wish you'll find enjoyment and inspiration from this respectable creation of 
 
 [![](/wiki/shared/news/2022-07-25-project-loved-july-2022/833150.jpg)](https://osu.ppy.sh/community/forums/topics/1618068)
 
-[7_7 - Waga Na ha Gorori](https://osu.ppy.sh/beatmapsets/833150#taiko) by ::7\17::{ user=7491106 }, [hoku](https://osu.ppy.sh/users/9503098), ::KKN::{ user=5384639 } and [KTYN](https://osu.ppy.sh/users/2250574)\
+[7_7 - Waga Na ha Gorori](https://osu.ppy.sh/beatmapsets/833150#taiko) by ::7\17::{ user=7491106 }, ::hoku::{ user=9503098 }, ::KKN::{ user=5384639 } and ::KTYN::{ user=2250574 }\
 286 BPM, 1:10 | 6.43★, 7.14★, 7.46★, 7.47★, 7.73★\
 *description written by ::KuroKuroKuro::{ user=11931563 }*
 
@@ -214,7 +214,7 @@ This concludes this month's osu!taiko Loved picks, we hope you all enjoyed them 
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::Kasumi-sama::{ user=6177263 }, [Sartan](https://osu.ppy.sh/users/4100941), ::Tenshichan::{ user=1101600 } and [Wesley](https://osu.ppy.sh/users/2407265)!
+The osu!catch Loved candidates were chosen by ::Kasumi-sama::{ user=6177263 }, ::Sartan::{ user=4100941 }, ::Tenshichan::{ user=1101600 } and ::Wesley::{ user=2407265 }!
 
 ---
 
@@ -248,7 +248,7 @@ It's not too hard of a map, but you can easily get caught off guard by it. Just 
 
 [![](/wiki/shared/news/2022-07-25-project-loved-july-2022/662173.jpg)](https://osu.ppy.sh/community/forums/topics/1618062)
 
-[Zedd - Clarity feat. Foxes (IOSYS uno DENPA Remix)](https://osu.ppy.sh/beatmapsets/662173#fruits) by ::Cera-::{ user=1974131 } and [Dika312](https://osu.ppy.sh/users/741613)\
+[Zedd - Clarity feat. Foxes (IOSYS uno DENPA Remix)](https://osu.ppy.sh/beatmapsets/662173#fruits) by ::Cera-::{ user=1974131 } and ::Dika312::{ user=741613 }\
 200 BPM, 3:33 | 5.25★, 5.92★, 6.37★\
 *description written by ::Sartan::{ user=4100941 }*
 
@@ -260,13 +260,13 @@ So, just to be clear, you're going to vote, right?!
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, [-NoName-](https://osu.ppy.sh/users/10400730), ::kadoen::{ user=12780575 }, [Paturages](https://osu.ppy.sh/users/1375479), ::RandomeLoL::{ user=7080063 } and [stupud man](https://osu.ppy.sh/users/2141612)!
+The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, ::-NoName-::{ user=10400730 }, ::kadoen::{ user=12780575 }, ::Paturages::{ user=1375479 }, ::RandomeLoL::{ user=7080063 } and ::stupud man::{ user=2141612 }!
 
 ---
 
 [![](/wiki/shared/news/2022-07-25-project-loved-july-2022/1248921.jpg)](https://osu.ppy.sh/community/forums/topics/1618061)
 
-[Various Artists - osu!mania memories](https://osu.ppy.sh/beatmapsets/1248921#mania) by ::PokeSky::{ user=3617111 }, [\_Stan](https://osu.ppy.sh/users/1653229), ::Aruel::{ user=3984370 }, [Crumpey](https://osu.ppy.sh/users/3518705), ::Drum-Hitnormal::{ user=748722 }, [FAMoss](https://osu.ppy.sh/users/7707789) and ::Syadow-::{ user=3484485 }\
+[Various Artists - osu!mania memories](https://osu.ppy.sh/beatmapsets/1248921#mania) by ::PokeSky::{ user=3617111 }, ::\_Stan::{ user=1653229 }, ::Aruel::{ user=3984370 }, ::Crumpey::{ user=3518705 }, ::Drum-Hitnormal::{ user=748722 }, ::FAMoss::{ user=7707789 } and ::Syadow-::{ user=3484485 }\
 155 BPM, 8:41 | 6.56★\
 The \[Titled.Hitsounds\] difficulty is *not* being nominated for Loved.\
 *description written by ::Paturages::{ user=1375479 }*

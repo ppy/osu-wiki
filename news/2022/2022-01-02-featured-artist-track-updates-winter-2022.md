@@ -75,7 +75,7 @@ For good measure, listen to a couple songs too:
 
 [![](https://assets.ppy.sh/artists/31/header.jpg)](https://osu.ppy.sh/beatmaps/artists/31)
 
-Surprising absolutely nobody, **23** songs from **Camellia**'s newest and vaguely osu!-related album *U.U.F.O.* are here to stay. Experience music that's inspired by osu! figures like ::Toy::{ user=2757689 }, [Aireu](https://osu.ppy.sh/users/1650010), and ::BTMC::{ user=3171691 }:
+Surprising absolutely nobody, **23** songs from **Camellia**'s newest and vaguely osu!-related album *U.U.F.O.* are here to stay. Experience music that's inspired by osu! figures like ::Toy::{ user=2757689 }, ::Aireu::{ user=1650010 }, and ::BTMC::{ user=3171691 }:
 
 - **Camellia - Mystery Circles Ultra / U.U.F.O.**
 - **Camellia - (The) Red \* Room**

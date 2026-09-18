@@ -214,7 +214,7 @@ As usual, we interview people in order to get an insight into the going-ons behi
 
 ![](/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/secre-lexii-and-dahcreeper.png)
 
-::Secre::{ user=2306637 }, [Lexii](https://osu.ppy.sh/users/7226149) and ::Dahcreeper::{ user=6926006 } competed for the winning team of the osu!catch World Cup 2024, the United States.
+::Secre::{ user=2306637 }, ::Lexii::{ user=7226149 } and ::Dahcreeper::{ user=6926006 } competed for the winning team of the osu!catch World Cup 2024, the United States.
 
 ---
 
@@ -286,9 +286,9 @@ I'm not exactly sure what the future holds cause I've been playing cwc for a whi
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/2306637">Secre</a></p>
 
-For the future of the USA CWC roster, it's pretty uncertain right now. I think I can say without a doubt that we will not be running back the same 6 man roster that we did this year. I think ::Colin::{ user=5502521 }, [Trent](https://osu.ppy.sh/users/3438241), and ::rostld::{ user=4365562 } are all going to be taking a step back from world cups.
+For the future of the USA CWC roster, it's pretty uncertain right now. I think I can say without a doubt that we will not be running back the same 6 man roster that we did this year. I think ::Colin::{ user=5502521 }, ::Trent::{ user=3438241 }, and ::rostld::{ user=4365562 } are all going to be taking a step back from world cups.
 
-As for myself, ::dahcreeper::{ user=6926006 }, and [lexii](https://osu.ppy.sh/users/7226149), there's the potential we will keep playing together as long as the others do. It's been a long time for all of us though, and we are really looking for new players to take the reigns. Consider this part of my plea for new USA players to step up to the task!
+As for myself, ::dahcreeper::{ user=6926006 }, and ::lexii::{ user=7226149 }, there's the potential we will keep playing together as long as the others do. It's been a long time for all of us though, and we are really looking for new players to take the reigns. Consider this part of my plea for new USA players to step up to the task!
 
 </div>
 
@@ -298,7 +298,7 @@ As for myself, ::dahcreeper::{ user=6926006 }, and [lexii](https://osu.ppy.sh/us
 
 ![](/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/wwwww-and-yoshi_green.png)
 
-::wwwww::{ user=8434466 } and [Yoshi_green](https://osu.ppy.sh/users/1035891) assisted in various tasks as "advisors" for the osu!catch World Cup 2024.
+::wwwww::{ user=8434466 } and ::Yoshi\1green::{ user=1035891 } assisted in various tasks as "advisors" for the osu!catch World Cup 2024.
 
 ---
 

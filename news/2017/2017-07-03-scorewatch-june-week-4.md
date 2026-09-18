@@ -33,13 +33,13 @@ We haven't shown ::jakads::{ user=259972 } in the Scorewatch for a while now, so
 
 ## NOTABLE MENTIONS
 
-::Karthy::{ user=4196808 } followed [cptnXn](https://osu.ppy.sh/users/495272)'s FOUR DIMENSIONS FC legacy and set his own score on [xi - Blue Zenith](https://osu.ppy.sh/beatmapsets/292301) with a 99.86% FC to earn himself 553pp. That is 4 100s if you are wondering how insane this score could be, 2 at the final 10 seconds of the map. Congratulations to Karthy for setting this unbelievable score.
+::Karthy::{ user=4196808 } followed ::cptnXn::{ user=495272 }'s FOUR DIMENSIONS FC legacy and set his own score on [xi - Blue Zenith](https://osu.ppy.sh/beatmapsets/292301) with a 99.86% FC to earn himself 553pp. That is 4 100s if you are wondering how insane this score could be, 2 at the final 10 seconds of the map. Congratulations to Karthy for setting this unbelievable score.
 
 ::WubWoofWolf::{ user=39828 } still continues to amaze the crowd by beating his personal best on [Kurokotei - Galaxy Collapse](https://osu.ppy.sh/beatmaps/924759?m=0) and setting a 1406x combo 88.16% score to claim the No. 1 spot again live at Dreamhack.
 
 ## SCORESHOW WITH ZSEIKIMATSU
 
-::\1yu68::{ user=6170507 } and [uone](https://osu.ppy.sh/users/5321719) take speed, reading and memorization to the next level, going head to head on [u's - LOVELESS WORLD](https://osu.ppy.sh/beatmaps/959168) on HDDT!
+::\1yu68::{ user=6170507 } and ::uone::{ user=5321719 } take speed, reading and memorization to the next level, going head to head on [u's - LOVELESS WORLD](https://osu.ppy.sh/beatmaps/959168) on HDDT!
 
 <iframe width="100%" height="315"
 src="https://www.youtube.com/embed/7irBHT6vUsg" frameborder="0" allowfullscreen></iframe></br>

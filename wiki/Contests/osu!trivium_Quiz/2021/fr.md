@@ -74,4 +74,4 @@ Vous trouverez ci-dessous une liste de liens vers les réponses à chaque questi
 
 ## Règlement
 
-- Vous ne pouvez pas demander à ::mangomizer::{ user=1893718 } ou à [peppy](https://osu.ppy.sh/users/2) des informations, des conseils ou des réponses.
+- Vous ne pouvez pas demander à ::mangomizer::{ user=1893718 } ou à ::peppy::{ user=2 } des informations, des conseils ou des réponses.

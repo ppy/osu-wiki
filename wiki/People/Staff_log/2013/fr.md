@@ -145,7 +145,7 @@ L'histoire de quelques utilisateurs peut être incomplète pendant cette année.
 - Transfert de ::lovhin456::{ user=55096 } : Beatmap Appreciation Team > osu! Alumni (02/08/2013)
 - Transfert de ::Miya::{ user=909167 } : Beatmap Appreciation Team > osu! Alumni (02/08/2013)
 - Transfert de ::orioncomet::{ user=104827 } : Beatmap Appreciation Team > osu! Alumni (02/08/2013)
-- Transfert de [ykcarrot](https://osu.ppy.sh/users/ykcarrot) : Beatmap Appreciation Team > osu! Alumni (02/08/2013)
+- Transfert de ::ykcarrot::{ user=70730 } : Beatmap Appreciation Team > osu! Alumni (02/08/2013)
 - Transfert de ::Frostmourne::{ user=199669 } : osu! Alumni > Beatmap Appreciation Team (02/08/2013)
 - Transfert de ::bossandy::{ user=360437 } : osu! Alumni > Beatmap Appreciation Team (14/08/2013)
 - Transfert de ::p3n::{ user=123703 } : osu! Alumni > Beatmap Appreciation Team (16/08/2013)

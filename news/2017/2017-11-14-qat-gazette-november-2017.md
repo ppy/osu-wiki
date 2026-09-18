@@ -17,10 +17,10 @@ The past month has signalled a relative calm following significant changes broug
 
 ### New Beatmap Nominator Promotions
 
-**We have been joined by a new wave of Beatmap Nominators for osu!** After processing the recent round of applications, we are pleased to announce the names of our newly-appointed circle inspectors: ::celerih::{ user=4696296 }, [Cerulean Veyron](https://osu.ppy.sh/users/1886524), ::Chewin::{ user=617323 }, [DeRandom Otaku](https://osu.ppy.sh/users/5156153),
-::Halfslashed::{ user=4598899 }, [MaridiuS](https://osu.ppy.sh/users/4496961), ::Kisses::{ user=4276114 } and [Sinnoh](https://osu.ppy.sh/users/4236057). Please wish them well in the initial probation period and beyond as they help to push glorious new content to a Ranked section near you!
+**We have been joined by a new wave of Beatmap Nominators for osu!** After processing the recent round of applications, we are pleased to announce the names of our newly-appointed circle inspectors: ::celerih::{ user=4696296 }, ::Cerulean Veyron::{ user=1886524 }, ::Chewin::{ user=617323 }, ::DeRandom Otaku::{ user=5156153 },
+::Halfslashed::{ user=4598899 }, ::MaridiuS::{ user=4496961 }, ::Kisses::{ user=4276114 } and ::Sinnoh::{ user=4236057 }. Please wish them well in the initial probation period and beyond as they help to push glorious new content to a Ranked section near you!
 
-In addition, **two current members of the Beatmap Nominators for osu!taiko** have added proficiency in modding osu! to their repertoire: ::Chromoxx::{ user=1881639 } and [neonat](https://osu.ppy.sh/users/1561995). Congratulations to them also on this impressive accomplishment!
+In addition, **two current members of the Beatmap Nominators for osu!taiko** have added proficiency in modding osu! to their repertoire: ::Chromoxx::{ user=1881639 } and ::neonat::{ user=1561995 }. Congratulations to them also on this impressive accomplishment!
 
 ### Beatmap Nominator Workflow
 

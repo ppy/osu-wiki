@@ -45,7 +45,7 @@ This contest required all maps to use **equal difficulty settings**. [See the fu
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/HHZrITxTBKk" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Thanks to ::skill issue lol::{ user=12498861 }, [Liyac](https://osu.ppy.sh/users/4994598), ::Mniam::{ user=6050530 }, and [Nelly](https://osu.ppy.sh/users/4741164) for judging this month's maps!
+Thanks to ::skill issue lol::{ user=12498861 }, ::Liyac::{ user=4994598 }, ::Mniam::{ user=6050530 }, and ::Nelly::{ user=4741164 } for judging this month's maps!
 
 ### osu!mania results
 
@@ -64,7 +64,7 @@ This contest required **6K maps** with single note, long note, and total object 
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/SF000HMYX9w" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Not so coincidentally, this contest also had 6 judges: ::Ryax::{ user=8949769 }, [Antalf](https://osu.ppy.sh/users/8793773), ::Carpihat::{ user=10085090 }, [gzdongsheng](https://osu.ppy.sh/users/8660315), ::BKwind::{ user=8900975 }, and [U1d](https://osu.ppy.sh/users/10125072)!
+Not so coincidentally, this contest also had 6 judges: ::Ryax::{ user=8949769 }, ::Antalf::{ user=8793773 }, ::Carpihat::{ user=10085090 }, ::gzdongsheng::{ user=8660315 }, ::BKwind::{ user=8900975 }, and ::U1d::{ user=10125072 }!
 
 ## Game modes
 

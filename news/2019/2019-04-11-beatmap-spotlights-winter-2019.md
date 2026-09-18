@@ -15,10 +15,10 @@ The beatmap charts for the Winter Spotlights can be found [here](https://osu.ppy
 
 First of all, congratulations to the winners of the Seasonal Spotlights: Autumn 2018. They will receive 3, 2, and 1 months of supporter for 1st, 2nd, and 3rd place respectively for their efforts!
 
-- **osu!:** ::Toy::{ user=2757689 }, [StreaminDemon](https://osu.ppy.sh/users/6245906) and ::Lilily::{ user=6502403 }
-- **osu!taiko:** ::Jaye::{ user=4841352 }, [ZTH](https://osu.ppy.sh/users/5258461) and ::Edgar\1Figaro::{ user=6508754 }
-- **osu!catch:** ::Crystal::{ user=1646397 }, [Guillotine](https://osu.ppy.sh/users/4365562) and ::RAMPAGE88::{ user=448547 }
-- **osu!mania:** ::\[Crz\]Satori::{ user=7082178 }, [Stink God](https://osu.ppy.sh/users/7381289) and ::Cryolien::{ user=1626983 }
+- **osu!:** ::Toy::{ user=2757689 }, ::StreaminDemon::{ user=6245906 } and ::Lilily::{ user=6502403 }
+- **osu!taiko:** ::Jaye::{ user=4841352 }, ::ZTH::{ user=5258461 } and ::Edgar\1Figaro::{ user=6508754 }
+- **osu!catch:** ::Crystal::{ user=1646397 }, ::Guillotine::{ user=4365562 } and ::RAMPAGE88::{ user=448547 }
+- **osu!mania:** ::\[Crz\]Satori::{ user=7082178 }, ::Stink God::{ user=7381289 } and ::Cryolien::{ user=1626983 }
 
 ## Winter 2019 Spotlights
 
@@ -39,7 +39,7 @@ UndeadCapulet's perseverance, despite all the backlash they received, proves to 
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/osu/houkou-orpheus.jpg)](https://osu.ppy.sh/beatmapsets/879051)
 
-Once again we see ::celerih::{ user=4696296 } in Spotlights, but this time he captures the wild essence of Gekidan Record and Nekomata Master’s Houkou Orpheus perfectly with spaced bursts, captivating 1/6 rhythms and exciting doubles. With outstanding guest difficulties by [felys](https://osu.ppy.sh/users/felys) and ::Icekalt::{ user=5410645 }, this short but rhythmically faithful beatmap is really on another level and something that should absolutely not be overlooked.
+Once again we see ::celerih::{ user=4696296 } in Spotlights, but this time he captures the wild essence of Gekidan Record and Nekomata Master’s Houkou Orpheus perfectly with spaced bursts, captivating 1/6 rhythms and exciting doubles. With outstanding guest difficulties by ::felys::{ user=1759427 } and ::Icekalt::{ user=5410645 }, this short but rhythmically faithful beatmap is really on another level and something that should absolutely not be overlooked.
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/osu/sleepless.jpg?)](https://osu.ppy.sh/beatmapsets/842312)
 
@@ -65,11 +65,11 @@ Each map is in itself tied together gracefully enriching the song taking it to g
 
 ::Smokeman::{ user=2140676 } has always been a master of capturing the beauty in the songs he maps. His rendition of "Kyoumen no Nami \[Orchestra Ver.\] is no different. The map perfectly matches the very serene parts of the song with low density and low slider velocity. Then explodes with a quicker slider velocity and more difficult movements in the chorus which truly make the map shine.
 
-Don't forget to look at the wondrous storyboard made by ::LowAccuracySS::{ user=7306763 } & [Darky1](https://osu.ppy.sh/users/3372928)!
+Don't forget to look at the wondrous storyboard made by ::LowAccuracySS::{ user=7306763 } & ::Darky1::{ user=3372928 }!
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/osu/bohemian.jpg)](https://osu.ppy.sh/beatmapsets/912844)
 
-This collab between ::Icekalt::{ user=5410645 } and [Mao](https://osu.ppy.sh/users/2204515) on Queen's "Bohemian Rhapsody" is impressive in multiple ways. From the way it uses its movement to reflect certain sections which make them really stand out, to the timing by pimp which was also impressive in multiple ways. The large amount of contrast in intensity between the more intense sections and the slower sections also massively play to its advantage as it gives every speedup a massive impact when played. All in all a worthy map for a song with this legendary of a status.
+This collab between ::Icekalt::{ user=5410645 } and ::Mao::{ user=2204515 } on Queen's "Bohemian Rhapsody" is impressive in multiple ways. From the way it uses its movement to reflect certain sections which make them really stand out, to the timing by pimp which was also impressive in multiple ways. The large amount of contrast in intensity between the more intense sections and the slower sections also massively play to its advantage as it gives every speedup a massive impact when played. All in all a worthy map for a song with this legendary of a status.
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/osu/lemon.jpg)](https://osu.ppy.sh/beatmapsets/861466)
 
@@ -93,7 +93,7 @@ Even though hard, this map is also subtle. Combining clever mapping decisions wo
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/osu/first-town.jpg)](https://osu.ppy.sh/beatmapsets/888513)
 
-Staying true to the chiptune-y video game style of Camellia's First Town Of This Journey, ::jungkyuyoung::{ user=8972308 } plasters densely syncopated slider patterning on a beautifully scenic 8-bit background he drew himself. Every difficulty, featuring guest mappers ::Milan-::{ user=1052994 }, [Sing](https://osu.ppy.sh/users/3795679), and ::Delis::{ user=1603923 }, follows similar conventions, using sliderstreams and overlaid sliders to give the entire mapset a cohesive motif culminating in a spectacular interpretation through jungkyuyoung's \[Adventure\] difficulty.
+Staying true to the chiptune-y video game style of Camellia's First Town Of This Journey, ::jungkyuyoung::{ user=8972308 } plasters densely syncopated slider patterning on a beautifully scenic 8-bit background he drew himself. Every difficulty, featuring guest mappers ::Milan-::{ user=1052994 }, ::Sing::{ user=3795679 }, and ::Delis::{ user=1603923 }, follows similar conventions, using sliderstreams and overlaid sliders to give the entire mapset a cohesive motif culminating in a spectacular interpretation through jungkyuyoung's \[Adventure\] difficulty.
 
 The map itself follows its own journey, beginning with highly grid-oriented patterning that slowly diverges from these constraints in a magnificent climax rich with sliderstreams and velocity changes and finally reverts back its more structured composition as the music also returns home. Find yourself grooving along to this bright, upbeat tune as you embark on your personal journey through this mapset.
 
@@ -109,7 +109,7 @@ Another highlight of the set is definitely the high effort hitsounding which add
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/osu/hyperdrive.jpg)](https://osu.ppy.sh/beatmapsets/883505)
 
-HYPERDRIVE, ::hypercyte::{ user=9155377 }'s first spotlighted map, marks a departure from his usual anime TV size sets. Featuring a dynamic and creative storyboard set to an energetic electronic melody,  HYPERDRIVE takes the player on a voyage into the galaxy and beyond. Dive into the HYPERNOVA difficulty and experience engaging jumps, intricate slider patterns and well-thought-out designs sure to express the song to its fullest. For all you aspiring spaceship pilots out there, be sure to take a look at the lower difficulties made by ::Peter::{ user=8623835 } and [Dashyy-](https://osu.ppy.sh/users/6513356), as well as hypercyte's own Easy difficulty.
+HYPERDRIVE, ::hypercyte::{ user=9155377 }'s first spotlighted map, marks a departure from his usual anime TV size sets. Featuring a dynamic and creative storyboard set to an energetic electronic melody,  HYPERDRIVE takes the player on a voyage into the galaxy and beyond. Dive into the HYPERNOVA difficulty and experience engaging jumps, intricate slider patterns and well-thought-out designs sure to express the song to its fullest. For all you aspiring spaceship pilots out there, be sure to take a look at the lower difficulties made by ::Peter::{ user=8623835 } and ::Dashyy-::{ user=6513356 }, as well as hypercyte's own Easy difficulty.
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/osu/nageki.jpg)](https://osu.ppy.sh/beatmapsets/907848)
 
@@ -172,7 +172,7 @@ All in all, for the sheer capacity of interpretation, the outstanding musical ea
 
 Britland makes the spotlight this season, as ::Grimbow::{ user=1387762 } proudly represents them with his map of a remix of Knife Party's "Give It Up." While the song should poise some headbanging from each and every player, the map offers an experience that expert-level players will come to enjoy no matter how much they play it!
 
-Featuring some stunning and visually pleasing scroll speed changes from ::Nofool::{ user=672430 } and [Lno](https://osu.ppy.sh/users/1900787), this map is an improvisational masterpiece, shifting from 1/4 based rhythms to headbanging 1/3 in the kiais. Along with maintaining a consistent flow and consistency across each and every section of the map, Grimbow even manages to sprinkle some 1/8 and 1/6 patterns in the song to really bring out the WUBWUB of the song.
+Featuring some stunning and visually pleasing scroll speed changes from ::Nofool::{ user=672430 } and ::Lno::{ user=1900787 }, this map is an improvisational masterpiece, shifting from 1/4 based rhythms to headbanging 1/3 in the kiais. Along with maintaining a consistent flow and consistency across each and every section of the map, Grimbow even manages to sprinkle some 1/8 and 1/6 patterns in the song to really bring out the WUBWUB of the song.
 
 One thing is for sure: I certainly do not want to give this map up!
 
@@ -216,7 +216,7 @@ After a long break, you can see a very impressive part making use of tremendous 
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/catch/good-time.jpg)](https://osu.ppy.sh/beatmapsets/815390)
 
-From the victors of UCMC 2, ::JBHyperion::{ user=4879508 } and [Sorcerer](https://osu.ppy.sh/users/1913190)’s collab rendition of lapix’s "Good Time" will give you a damn good time while playing as the two mappers’ styles blend cohesively together. Featuring a low bpm, high rhythm density, and tough dashing, this set will keep you on your toes for the majority of the song’s five minutes.
+From the victors of UCMC 2, ::JBHyperion::{ user=4879508 } and ::Sorcerer::{ user=1913190 }’s collab rendition of lapix’s "Good Time" will give you a damn good time while playing as the two mappers’ styles blend cohesively together. Featuring a low bpm, high rhythm density, and tough dashing, this set will keep you on your toes for the majority of the song’s five minutes.
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/catch/eden.jpg)](https://osu.ppy.sh/beatmapsets/810279)
 
@@ -240,13 +240,13 @@ Egoism 440 showcases a variety of patterns different mappers use hosted by ::Asc
 
 ::\_Kobii::{ user=6209713 } strikes again with another long note-based kamome sano mapset! The top difficulty, Sweet Drop, utilizes an interesting concept where intensity of the musical instruments assigned to the long notes is mirrored with the gaps between the long notes, as can be seen multiple times. The difficulty is balanced throughout in terms of density while also representing the music in a very consistent and straightforward yet unique fashion. Not only that, but this difficulty does not have very much strain and discomfort in the long note-heavy sections, and has very sparing use of minijacks, which makes it very player-friendly.
 
-The top difficulty is accompanied with a nice spread catering to players that fall under a wide range of skill. Guest mappers ::KeppSado::{ user=11085809 }, [VianK](https://osu.ppy.sh/users/6889055), and ::Unpredictable::{ user=7560872 } all demonstrate their own approach to the song, with all three of the difficulties somewhat challenging the norms of ranked difficulties in their respective star ratings.
+The top difficulty is accompanied with a nice spread catering to players that fall under a wide range of skill. Guest mappers ::KeppSado::{ user=11085809 }, ::VianK::{ user=6889055 }, and ::Unpredictable::{ user=7560872 } all demonstrate their own approach to the song, with all three of the difficulties somewhat challenging the norms of ranked difficulties in their respective star ratings.
 
 With that said, however, the set remains quite accessible to beginner players and up, and helps to be another set in ranked that encourages lower level players to delve more into long note maps!
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/mania/kill-the-beat.jpg)](https://osu.ppy.sh/beatmapsets/861400)
 
-::Tofu1222::{ user=6089608 } presents another mapset in the ranked section featuring ::Unpredictable::{ user=7560872 }, [FAMoss](https://osu.ppy.sh/users/7707789), ::juankristal::{ user=443656 }, and [qqqant](https://osu.ppy.sh/users/8976576) with their guest difficulties! This mapset brings a variety of flavor in terms of patterns as well as a great song from lapix. Each difficulty brings in a new feel and skill to the map, yet interprets the song clearly in their own way.
+::Tofu1222::{ user=6089608 } presents another mapset in the ranked section featuring ::Unpredictable::{ user=7560872 }, ::FAMoss::{ user=7707789 }, ::juankristal::{ user=443656 }, and ::qqqant::{ user=8976576 } with their guest difficulties! This mapset brings a variety of flavor in terms of patterns as well as a great song from lapix. Each difficulty brings in a new feel and skill to the map, yet interprets the song clearly in their own way.
 
 Unpredictable brings satisfaction to the players with his difficulty by being comfortable to play. Not only that, there are details Unpredictable includes within the chart that should not go away unnoticed. The hard difficulty may bring some challenges as FAMoss orients his difficulty with some jacks. While certainly being a challenging skill, it brings a completely different taste from the normal difficulty from Unpredictable.
 

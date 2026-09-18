@@ -41,7 +41,7 @@ The Finals stage pool was filled with bangers, some examples being the Hard Rock
     </audio>
 </div>
 
-The Finals stage pool had 3 [osu! originals](/wiki/osu!_originals), a record number thus far in the tournament. The first original was [Lusumi](https://osu.ppy.sh/beatmaps/artists/449)'s frenetic gabber-style offering [/data_eraser.wav](https://osu.ppy.sh/beatmapsets/2284633#osu/4872735), which served as a challenging No Mod tech map brought to life by ::hehe::{ user=2123087 } and [funny](https://osu.ppy.sh/users/8473573).
+The Finals stage pool had 3 [osu! originals](/wiki/osu!_originals), a record number thus far in the tournament. The first original was [Lusumi](https://osu.ppy.sh/beatmaps/artists/449)'s frenetic gabber-style offering [/data_eraser.wav](https://osu.ppy.sh/beatmapsets/2284633#osu/4872735), which served as a challenging No Mod tech map brought to life by ::hehe::{ user=2123087 } and ::funny::{ user=8473573 }.
 
 [![](/wiki/shared/news/2024-12-05-osu-world-cup-2024-finals-recap/7he_osu_world_cup_2_dariacore_7imeline_banner.jpg)](https://osu.ppy.sh/beatmapsets/2284644#osu/4872751)
 
@@ -61,7 +61,7 @@ The Finals stage pool had 3 [osu! originals](/wiki/osu!_originals), a record num
     </audio>
 </div>
 
-For our tiebreaker, [nm-y](https://soundcloud.com/nm-y) and [Kry.exe](https://osu.ppy.sh/beatmaps/artists/448) collaborated to make an intense and exciting electronic banger in [Kaiju](https://osu.ppy.sh/beatmapsets/2284698#osu/4872864), mapped by the trio of ::Aerousea::{ user=15664628 }, [9ami](https://osu.ppy.sh/users/1499997) and ::oTwinkle::{ user=15095654 }. The mechanics and tech hybrid didn't end up seeing play last weekend, but you should definitely check it out regardless!
+For our tiebreaker, [nm-y](https://soundcloud.com/nm-y) and [Kry.exe](https://osu.ppy.sh/beatmaps/artists/448) collaborated to make an intense and exciting electronic banger in [Kaiju](https://osu.ppy.sh/beatmapsets/2284698#osu/4872864), mapped by the trio of ::Aerousea::{ user=15664628 }, ::9ami::{ user=1499997 } and ::oTwinkle::{ user=15095654 }. The mechanics and tech hybrid didn't end up seeing play last weekend, but you should definitely check it out regardless!
 
 ## Finals summary
 

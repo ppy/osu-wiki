@@ -12,7 +12,7 @@ The **Aspire beatmapping contest** returns again to welcome in 2017 - with a new
 
 Aspire has long been the premier high-level beatmapping contest since its inception in 2014, producing two incredible beatmaps that have pushed the boundaries of what both the game itself and its players are capable of.
 
-Two Aspirants, ::Charles445::{ user=85000 } and [Monstrata](https://osu.ppy.sh/users/2706438) triumphed over this grand contest to critical acclaim with their performances on [LeaF - Evanescent](https://osu.ppy.sh/beatmapsets/227126) and [IAHN - Transform (Original Mix)](https://osu.ppy.sh/beatmapsets/484689) respectively.
+Two Aspirants, ::Charles445::{ user=85000 } and ::Monstrata::{ user=2706438 } triumphed over this grand contest to critical acclaim with their performances on [LeaF - Evanescent](https://osu.ppy.sh/beatmapsets/227126) and [IAHN - Transform (Original Mix)](https://osu.ppy.sh/beatmapsets/484689) respectively.
 
 It is now time for a third person to join their ranks, or perhaps for one of them to reach the behind the veil and become something new.
 

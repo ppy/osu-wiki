@@ -36,7 +36,7 @@ This week has some awesome picks, so let's jump right in!
 
 *written by ::Toy::{ user=2757689 }*
 
-It seems like at this point there's a small group of mappers who continuously pump out some high quality Polish content. ::XVoIR::{ user=2845588 } and his crew of ::Krfawy::{ user=1478292 }, [CptSqBany](https://osu.ppy.sh/users/3687666), ::Venex::{ user=4826159 } and [LukerMaster](https://osu.ppy.sh/users/2093623) have provided us with a fantastic set along with an osu!catch diff by ::Kyptoric::{ user=1361268 }. The top set began as a not entirely serious top diff that exploded in fame because of its big jump sections during each small kiai. Now with currently over 400 favorites, it's clear the map has reached a wider audience than originally anticipated, and deserves its spot in this week's Loved vote.
+It seems like at this point there's a small group of mappers who continuously pump out some high quality Polish content. ::XVoIR::{ user=2845588 } and his crew of ::Krfawy::{ user=1478292 }, ::CptSqBany::{ user=3687666 }, ::Venex::{ user=4826159 } and ::LukerMaster::{ user=2093623 } have provided us with a fantastic set along with an osu!catch diff by ::Kyptoric::{ user=1361268 }. The top set began as a not entirely serious top diff that exploded in fame because of its big jump sections during each small kiai. Now with currently over 400 favorites, it's clear the map has reached a wider audience than originally anticipated, and deserves its spot in this week's Loved vote.
 
 [![](/wiki/shared/news/2018-03-28-project-loved-week-of-march-25th/osu/katayoku-no-tori.jpg)](https://osu.ppy.sh/community/forums/topics/721035)
 
@@ -54,7 +54,7 @@ Arguably ::elchxyrlia::{ user=1722835 }'s (better known as lahnphnya) most popul
 
 *written by ::Kaifin::{ user=2596942 }*
 
-[City Lights](https://osu.ppy.sh/beatmapsets/575809) is a collaboration between two notoriously edgy mappers, ::handsome::{ user=2123087 } and [byfar](https://osu.ppy.sh/users/4674054), and it REALLY shows. This map is incredibly expressive, utilizing extreme slider velocities and wild patterns to really milk as much excitement as possible out of this bumpin Pa's Lam System remix. Watch closely for the burai sliders throughout the map that really exemplify the sounds they're used for perfectly!
+[City Lights](https://osu.ppy.sh/beatmapsets/575809) is a collaboration between two notoriously edgy mappers, ::handsome::{ user=2123087 } and ::byfar::{ user=4674054 }, and it REALLY shows. This map is incredibly expressive, utilizing extreme slider velocities and wild patterns to really milk as much excitement as possible out of this bumpin Pa's Lam System remix. Watch closely for the burai sliders throughout the map that really exemplify the sounds they're used for perfectly!
 
 [![](/wiki/shared/news/2018-03-28-project-loved-week-of-march-25th/osu/say-goodbye.jpg)](https://osu.ppy.sh/community/forums/topics/721039)
 
@@ -78,7 +78,7 @@ At this point in time, it's likely safe to say that everyone who has played osu!
 
 *written by ::Kaifin::{ user=2596942 }*
 
-After a number of requests for more ::09kami::{ user=443031 } maps in Loved, we are finally delivering with [Platinum](https://osu.ppy.sh/beatmapsets/449225), a large set featuring guest difficulties from several notable mappers! The set features big names such as ::rrtyui::{ user=352328 } and [yf_bmp](https://osu.ppy.sh/users/1243669) as well as a perfect top diff by 09kami himself. If you're looking for a perfectly crafted technical mapset with several different difficulties with different interpretations of the song, this one's for you!
+After a number of requests for more ::09kami::{ user=443031 } maps in Loved, we are finally delivering with [Platinum](https://osu.ppy.sh/beatmapsets/449225), a large set featuring guest difficulties from several notable mappers! The set features big names such as ::rrtyui::{ user=352328 } and ::yf\1bmp::{ user=1243669 } as well as a perfect top diff by 09kami himself. If you're looking for a perfectly crafted technical mapset with several different difficulties with different interpretations of the song, this one's for you!
 
 [![](/wiki/shared/news/2018-03-28-project-loved-week-of-march-25th/osu/eiya.jpg)](https://osu.ppy.sh/community/forums/topics/721043)
 
@@ -116,7 +116,7 @@ Semi-gimmicky mapset featuring a variety of difficulties, all set to a goofy ren
 
 [![](/wiki/shared/news/2018-03-28-project-loved-week-of-march-25th/taiko/thank-you-for-calling.jpg)](https://osu.ppy.sh/community/forums/topics/721053)
 
-[Thank You for Calling!](https://osu.ppy.sh/beatmapsets/681633) is a superstar effort, featuring some of the communities most unique mappers like agu, ::Firce777::{ user=274072 } and [-Kazu-](https://osu.ppy.sh/users/920861). An entire set of difficulties, ranging from quite easy to "oh my god there are 400 bpm streams". Not only is the set impressive with all of its star power, the song is a glitchy speedcore anthem that is by all means worth downloading just to get to listen. I particularly love how most all of the mappers represent the main melody differently in each map, it just shows the layers of the music as well as the uniqueness of the set!
+[Thank You for Calling!](https://osu.ppy.sh/beatmapsets/681633) is a superstar effort, featuring some of the communities most unique mappers like agu, ::Firce777::{ user=274072 } and ::-Kazu-::{ user=920861 }. An entire set of difficulties, ranging from quite easy to "oh my god there are 400 bpm streams". Not only is the set impressive with all of its star power, the song is a glitchy speedcore anthem that is by all means worth downloading just to get to listen. I particularly love how most all of the mappers represent the main melody differently in each map, it just shows the layers of the music as well as the uniqueness of the set!
 
 [![](/wiki/shared/news/2018-03-28-project-loved-week-of-march-25th/taiko/nexta.jpg)](https://osu.ppy.sh/community/forums/topics/721054)
 

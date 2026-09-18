@@ -59,7 +59,7 @@ Let's get into it!
 
 *Who would you say are the best osu! player(s) at the moment that aren't you, and why?*
 
-> There are many osu! Players on the rise and many of you may have noticed that. For example ::Ivaxa::{ user=15406985 }, [aknzx](https://osu.ppy.sh/users/9938943), ::cloutiful::{ user=9970083 } and so on. I seriously believe that these players have potential as they have insane improvement speed and are also so incredibly young, improvement could just possibly come as they age.
+> There are many osu! Players on the rise and many of you may have noticed that. For example ::Ivaxa::{ user=15406985 }, ::aknzx::{ user=9938943 }, ::cloutiful::{ user=9970083 } and so on. I seriously believe that these players have potential as they have insane improvement speed and are also so incredibly young, improvement could just possibly come as they age.
 > 
 > And of course I have to give my props to ::Akolibed::{ user=9269034 } who was the only one so far to be my only competitor ever in the 3 years I've been number 1. It was the first time I've ever felt scared about losing my #1 spot, and honestly it was a humbling fight. I thought I could fight him off easily, but damn was it a challenge, he set so many scores so fast I couldn't keep up! But eventually I caught up and set many scores to now where the gap is now set from 110pp to almost 1000. If you're reading this Akolibed, I look forward to another fight.
 
@@ -83,7 +83,7 @@ Let's get into it!
 
 > That for many times during my reign that I have thought about quitting and being able to rank up again, it's always lonely at the top and not having any competition is definitely draining, but I always somehow find bursts of motivation everytime I try taking a break and just start popping off again. It's weird but it just happens and I guess it's a good thing.
 > 
-> I also have always had a passion for osu! since I was just a kid since I was already extremely motivated to play osu! at a very young age and had looked up to the current top players back then (::Cookiezi::{ user=124493 }, [Rafis](https://osu.ppy.sh/users/2558286), ::hvick225::{ user=50265 }, etc.), so since this has been a dream of mine, since I was very young it always comes back to bite me and play.
+> I also have always had a passion for osu! since I was just a kid since I was already extremely motivated to play osu! at a very young age and had looked up to the current top players back then (::Cookiezi::{ user=124493 }, ::Rafis::{ user=2558286 }, ::hvick225::{ user=50265 }, etc.), so since this has been a dream of mine, since I was very young it always comes back to bite me and play.
 > 
 > I'm here forever.
 
@@ -95,7 +95,7 @@ Let's get into it!
 
 > A score that I'd definitely love to see is an FC on a map called "[Hurting for a Very Hurting Pain](https://osu.ppy.sh/beatmapsets/46848#osu/145669)". This map has been one of my favourites since I just started and though it'd be cool for me to close it out, I'd be very happy to see an FC by anybody on this map.
 > 
-> Honestly, there isn't really a specific map outside of that map that I'd like to see FC'd, but I'm definitely a big fan of upcoming top players who have very big potential to be my competition as there are many players today who have big potential, the good examples are: ::cloutiful::{ user=9970083 } (chud son), [aknzx](https://osu.ppy.sh/users/9938943), ::Ivaxa::{ user=15406985 }, [Kamensh1k](https://osu.ppy.sh/users/16817965), ::aimbotcone::{ user=12952320 } and [Lexu2S](https://osu.ppy.sh/users/8251785) (killer2007). I may have left out a lot of people, but don't worry if you're not in this list because you can very easily prove me wrong!
+> Honestly, there isn't really a specific map outside of that map that I'd like to see FC'd, but I'm definitely a big fan of upcoming top players who have very big potential to be my competition as there are many players today who have big potential, the good examples are: ::cloutiful::{ user=9970083 } (chud son), ::aknzx::{ user=9938943 }, ::Ivaxa::{ user=15406985 }, ::Kamensh1k::{ user=16817965 }, ::aimbotcone::{ user=12952320 } and ::Lexu2S::{ user=8251785 } (killer2007). I may have left out a lot of people, but don't worry if you're not in this list because you can very easily prove me wrong!
 
 *What are some "endgame" scores or milestones you would want to achieve in the future?*
 

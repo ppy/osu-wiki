@@ -73,7 +73,7 @@ For now though, the only natural way to proceed is to interview osu!mania's rank
 
 *Who would you say are the best osu!mania player(s) at the moment that aren't you, and why?*
 
-> I think the term "best" is very subjective, if I see "best" in terms of inspiring and drawing players into the osu!mania scene, I must say ::jhlee0133::{ user=140148 } for 7K genre, [SillyFangirl](https://osu.ppy.sh/users/2288363) for 4K genre.
+> I think the term "best" is very subjective, if I see "best" in terms of inspiring and drawing players into the osu!mania scene, I must say ::jhlee0133::{ user=140148 } for 7K genre, ::SillyFangirl::{ user=2288363 } for 4K genre.
 
 *Is there any advice that you would give to people who are just starting out, or are wanting to improve to one day be like you?*
 

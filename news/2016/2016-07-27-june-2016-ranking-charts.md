@@ -8,7 +8,7 @@ series: beatmap_spotlights
 
 We apologize for the delay as stuff went a bit up and down, but by now, the Ranking Charts for June 2016 have been finally released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1606)!
 
-This month our dedicated top chart and general players, ::Cookiezi::{ user=124493 }, [tasuke912](https://osu.ppy.sh/users/2774767), ::\1Asriel::{ user=566276 } and [Runa](https://osu.ppy.sh/users/4643294) picked the maps for the Monthly Ranking Charts.
+This month our dedicated top chart and general players, ::Cookiezi::{ user=124493 }, ::tasuke912::{ user=2774767 }, ::\1Asriel::{ user=566276 } and ::Runa::{ user=4643294 } picked the maps for the Monthly Ranking Charts.
 
 ## Ranking Charts Creation
 

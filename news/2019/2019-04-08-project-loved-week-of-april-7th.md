@@ -24,7 +24,7 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ## osu!
 
-osu! Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, [-Roxas](https://osu.ppy.sh/users/1986262), ::BeasttrollMC::{ user=3171691 }, [Bubbleman](https://osu.ppy.sh/users/5182050) and ::waywern2012::{ user=5870453 }!
+osu! Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, ::-Roxas::{ user=1986262 }, ::BeasttrollMC::{ user=3171691 }, ::Bubbleman::{ user=5182050 } and ::waywern2012::{ user=5870453 }!
 
 ---
 
@@ -38,7 +38,7 @@ Over time we've seen quite a few competitive standard players dipping their toes
 
 [![](/wiki/shared/news/2019-04-08-project-loved-week-of-april-7th/osu/doki-doki.jpg)](https://osu.ppy.sh/community/forums/topics/892058)
 
-[Thaehan - Doki-Doki](https://osu.ppy.sh/beatmapsets/519054#osu) by ::Mr HeliX::{ user=2330619 }, [MujouSekai](https://osu.ppy.sh/users/5412070), ::Mechanizen::{ user=6168393 } and [rockstarrzz](https://osu.ppy.sh/users/4221626)\
+[Thaehan - Doki-Doki](https://osu.ppy.sh/beatmapsets/519054#osu) by ::Mr HeliX::{ user=2330619 }, ::MujouSekai::{ user=5412070 }, ::Mechanizen::{ user=6168393 } and ::rockstarrzz::{ user=4221626 }\
 180 BPM, 1:42 | 1.25★ – 6.32★\
 *written by ::BeasttrollMC::{ user=3171691 }*
 
@@ -46,7 +46,7 @@ It's obvious that this song has been extremely popular among all players, especi
 
 [![](/wiki/shared/news/2019-04-08-project-loved-week-of-april-7th/osu/nisemono-chuuihou.jpg)](https://osu.ppy.sh/community/forums/topics/892057)
 
-[150P - Nisemono Chuuihou](https://osu.ppy.sh/beatmapsets/55473#osu) by ::Star Stream::{ user=389236 }, [winber1](https://osu.ppy.sh/users/270328), ::yf\_bmp::{ user=1243669 }, [RLC](https://osu.ppy.sh/users/1047883) and ::Stefan::{ user=626907 }\
+[150P - Nisemono Chuuihou](https://osu.ppy.sh/beatmapsets/55473#osu) by ::Star Stream::{ user=389236 }, ::winber1::{ user=270328 }, ::yf\_bmp::{ user=1243669 }, ::RLC::{ user=1047883 } and ::Stefan::{ user=626907 }\
 260 BPM, 3:33 | 1.65★, 2.84★, 4.65★, 6.20★, 6.94★\
 *written by ::DigitalHypno::{ user=4384207 }*
 
@@ -70,7 +70,7 @@ A classic vocaloid tune with a Arles map to go with it, this map is definitely n
 
 [![](/wiki/shared/news/2019-04-08-project-loved-week-of-april-7th/osu/ghost.jpg)](https://osu.ppy.sh/community/forums/topics/892054)
 
-[Camellia - GHOST](https://osu.ppy.sh/beatmapsets/665530#osu) by ::fanzhen0019::{ user=418699 }, [rustbell](https://osu.ppy.sh/users/227717) and ::Callionet::{ user=3072921 }\
+[Camellia - GHOST](https://osu.ppy.sh/beatmapsets/665530#osu) by ::fanzhen0019::{ user=418699 }, ::rustbell::{ user=227717 } and ::Callionet::{ user=3072921 }\
 220 BPM, 5:38 | 8.98★\
 *written by ::-Roxas::{ user=1986262 }*
 
@@ -110,7 +110,7 @@ A funky little tune gets a funky Settia map—coming in at just over a minute in
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [iceOC](https://osu.ppy.sh/users/5482401), ::jyake::{ user=9099822 } and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
+osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::iceOC::{ user=5482401 }, ::jyake::{ user=9099822 } and ::nyanmi-1828::{ user=6866480 }!
 
 ---
 
@@ -140,7 +140,7 @@ White Prism is an exceptionally well-mapped set by kanopu, taking full advantage
 
 [![](/wiki/shared/news/2019-04-08-project-loved-week-of-april-7th/taiko/buchigire-berserker.jpg)](https://osu.ppy.sh/community/forums/topics/892045)
 
-[REDALiCE vs MASAKI - BUCHiGiRE Berserker](https://osu.ppy.sh/beatmapsets/928561#taiko) by ::Taka030::{ user=7563054 } and [yassu-](https://osu.ppy.sh/users/7095592)\
+[REDALiCE vs MASAKI - BUCHiGiRE Berserker](https://osu.ppy.sh/beatmapsets/928561#taiko) by ::Taka030::{ user=7563054 } and ::yassu-::{ user=7095592 }\
 200 BPM, 2:25 | 6.94★, 7.26★\
 *written by ::nyanmi-1828::{ user=6866480 }*
 
@@ -148,13 +148,13 @@ This map by Taka030 is characterized by its many SV changes and comfortable 1/6 
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, [Ascendance](https://osu.ppy.sh/users/2931883), ::Tenshichan::{ user=1101600 } and [Wesley](https://osu.ppy.sh/users/2407265)! This week, all osu!catch beatmap descriptions were written by ::Sartan::{ user=4100941 }.
+osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, ::Ascendance::{ user=2931883 }, ::Tenshichan::{ user=1101600 } and ::Wesley::{ user=2407265 }! This week, all osu!catch beatmap descriptions were written by ::Sartan::{ user=4100941 }.
 
 ---
 
 [![](/wiki/shared/news/2019-04-08-project-loved-week-of-april-7th/catch/nhelv.jpg)](https://osu.ppy.sh/community/forums/topics/892043)
 
-[Silentroom - Nhelv](https://osu.ppy.sh/beatmapsets/684268#fruits) by ::-Plus-::{ user=829284 }, [Spectator](https://osu.ppy.sh/users/702598), ::Nelly::{ user=4741164 } and [Hareimu](https://osu.ppy.sh/users/4138746)\
+[Silentroom - Nhelv](https://osu.ppy.sh/beatmapsets/684268#fruits) by ::-Plus-::{ user=829284 }, ::Spectator::{ user=702598 }, ::Nelly::{ user=4741164 } and ::Hareimu::{ user=4138746 }\
 175 BPM, 2:36 | 1.36★ – 7.20★
 
 It has been a while, but -Plus- makes a return to the Loved vote! Here we have Nhelv, a mapset with plenty of difficulties for players of every skill level. The main theme in the beatmapset seems to be quick left-right movement, which is possible thanks to the neurofunk-like beat of the song. The highest difficulty of this map is definitely in a league of its own though, with even top players struggling to get proper scores without any difficulty-reducing mods. But then again, if the highest difficulty proves to be a bit too much, you can always opt to play another difficulty and mess around with mods to make it as fun as can be. So get your knuckles crackin', your fingers warmed up, and check this map out!
@@ -168,7 +168,7 @@ Entering the Loved arena for the first time ever is Aryssiel! Having mapped abou
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::Shoegazer::{ user=2520707 }, [Lenfried-](https://osu.ppy.sh/users/5314573), ::Pope Gadget::{ user=2288341 } and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
+osu!mania Loved candidates were chosen by ::Shoegazer::{ user=2520707 }, ::Lenfried-::{ user=5314573 }, ::Pope Gadget::{ user=2288341 } and ::Toaph Daddy::{ user=7616811 }!
 
 ---
 
@@ -219,7 +219,7 @@ We have another tournament chart in our hands (from the osu!mania 7K World Cup 2
 
 From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
-In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Toy::{ user=2757689 }, [Noffy](https://osu.ppy.sh/users/1541323), ::ThatsNotAName::{ user=9682904 }, [huu](https://osu.ppy.sh/users/6044237) and ::Ephemeral::{ user=102335 } for their miscellaneous help in managing Project Loved.
+In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Toy::{ user=2757689 }, ::Noffy::{ user=1541323 }, ::ThatsNotAName::{ user=9682904 }, ::huu::{ user=6044237 } and ::Ephemeral::{ user=102335 } for their miscellaneous help in managing Project Loved.
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! You can view the current submissions on the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0). For osu!mania, please use [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSeaGfoQNGMqw4qQcqRPItUZILh2fGwJR6ly6cZNY9OWPXkFhw/viewform) and [this Google sheet](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit) instead.
 

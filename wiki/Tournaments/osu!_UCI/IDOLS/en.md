@@ -314,8 +314,8 @@ IDOLS was run by various osu! community members at UCI or visiting for the event
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| ::Mathyu::{ user=6303313 } | 3 | **6** | [ur cute](https://osu.ppy.sh/users/9993348) | [#1](https://osu.ppy.sh/community/matches/114033601) |
-| ::Mathyu::{ user=6303313 } | **6** | 4 | [ur cute](https://osu.ppy.sh/users/9993348) | [#1](https://osu.ppy.sh/community/matches/114033939) |
+| ::Mathyu::{ user=6303313 } | 3 | **6** | ::ur cute::{ user=9993348 } | [#1](https://osu.ppy.sh/community/matches/114033601) |
+| ::Mathyu::{ user=6303313 } | **6** | 4 | ::ur cute::{ user=9993348 } | [#1](https://osu.ppy.sh/community/matches/114033939) |
 
 #### Finals
 
@@ -323,13 +323,13 @@ IDOLS was run by various osu! community members at UCI or visiting for the event
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| ::Mathyu::{ user=6303313 } | **5** | 2 | [BTMC](https://osu.ppy.sh/users/3171691) | [#1](https://osu.ppy.sh/community/matches/114032596) |
+| ::Mathyu::{ user=6303313 } | **5** | 2 | ::BTMC::{ user=3171691 } | [#1](https://osu.ppy.sh/community/matches/114032596) |
 
 ##### Losers (Grand Finals pool)
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| ::BTMC::{ user=3171691 } | 4 | **6** | [ur cute](https://osu.ppy.sh/users/9993348) | [#1](https://osu.ppy.sh/community/matches/114033075) |
+| ::BTMC::{ user=3171691 } | 4 | **6** | ::ur cute::{ user=9993348 } | [#1](https://osu.ppy.sh/community/matches/114033075) |
 
 #### Semifinals
 
@@ -337,16 +337,16 @@ IDOLS was run by various osu! community members at UCI or visiting for the event
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| ::Mathyu::{ user=6303313 } | **5** | 2 | [Clarity](https://osu.ppy.sh/users/3441616) | [#1](https://osu.ppy.sh/community/matches/114031412) |
-| ::BTMC::{ user=3171691 } | **5** | 3 | [Kahli](https://osu.ppy.sh/users/8926244) | [#1](https://osu.ppy.sh/community/matches/114031335) |
+| ::Mathyu::{ user=6303313 } | **5** | 2 | ::Clarity::{ user=3441616 } | [#1](https://osu.ppy.sh/community/matches/114031412) |
+| ::BTMC::{ user=3171691 } | **5** | 3 | ::Kahli::{ user=8926244 } | [#1](https://osu.ppy.sh/community/matches/114031335) |
 
 ##### Losers (Finals pool)
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| ::Clarity::{ user=3441616 } | 1 | **5** | [ur cute](https://osu.ppy.sh/users/9993348) | [#1](https://osu.ppy.sh/community/matches/114032048) |
-| ::Kahli::{ user=8926244 } | **5** | 2 | [ricoel](https://osu.ppy.sh/users/7438459) | [#1](https://osu.ppy.sh/community/matches/114031999) |
-| ::ur cute::{ user=9993348 } | **5** | 1 | [Kahli](https://osu.ppy.sh/users/8926244) | [#1](https://osu.ppy.sh/community/matches/114032563) |
+| ::Clarity::{ user=3441616 } | 1 | **5** | ::ur cute::{ user=9993348 } | [#1](https://osu.ppy.sh/community/matches/114032048) |
+| ::Kahli::{ user=8926244 } | **5** | 2 | ::ricoel::{ user=7438459 } | [#1](https://osu.ppy.sh/community/matches/114031999) |
+| ::ur cute::{ user=9993348 } | **5** | 1 | ::Kahli::{ user=8926244 } | [#1](https://osu.ppy.sh/community/matches/114032563) |
 
 #### Quarterfinals
 
@@ -354,21 +354,21 @@ IDOLS was run by various osu! community members at UCI or visiting for the event
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| ::Mathyu::{ user=6303313 } | **4** | 0 | [Jarran](https://osu.ppy.sh/users/11417993) | [#1](https://osu.ppy.sh/community/matches/114030002) |
-| ::ricoel::{ user=7438459 } | 3 | **4** | [Clarity](https://osu.ppy.sh/users/3441616) | [#1](https://osu.ppy.sh/community/matches/114030017) |
-| ::ur cute::{ user=9993348 } | 1 | **4** | [BTMC](https://osu.ppy.sh/users/3171691) | [#1](https://osu.ppy.sh/community/matches/114030023) |
-| ::astrin::{ user=14252935 } | 2 | **4** | [Kahli](https://osu.ppy.sh/users/8926244) | [#1](https://osu.ppy.sh/community/matches/114030029) |
+| ::Mathyu::{ user=6303313 } | **4** | 0 | ::Jarran::{ user=11417993 } | [#1](https://osu.ppy.sh/community/matches/114030002) |
+| ::ricoel::{ user=7438459 } | 3 | **4** | ::Clarity::{ user=3441616 } | [#1](https://osu.ppy.sh/community/matches/114030017) |
+| ::ur cute::{ user=9993348 } | 1 | **4** | ::BTMC::{ user=3171691 } | [#1](https://osu.ppy.sh/community/matches/114030023) |
+| ::astrin::{ user=14252935 } | 2 | **4** | ::Kahli::{ user=8926244 } | [#1](https://osu.ppy.sh/community/matches/114030029) |
 
 ##### Losers (Semifinals pool)
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| ::astrin::{ user=14252935 } | **5** | 2 | [RocketeerRover](https://osu.ppy.sh/users/14477332) | [#1](https://osu.ppy.sh/community/matches/114030878) |
-| ::ur cute::{ user=9993348 } | **5** | 1 | [Kenny](https://osu.ppy.sh/users/1225459) | [#1](https://osu.ppy.sh/community/matches/114030801) |
-| ::ricoel::{ user=7438459 } | **5** | 1 | [Daprin](https://osu.ppy.sh/users/10961983) | [#1](https://osu.ppy.sh/community/matches/114030737) |
-| ::Jarran::{ user=11417993 } | 0 | **5** | [AccNome](https://osu.ppy.sh/users/10976433) | [#1](https://osu.ppy.sh/community/matches/114030732) |
-| ::astrin::{ user=14252935 } | 1 | **5** | [ur cute](https://osu.ppy.sh/users/9993348) | [#1](https://osu.ppy.sh/community/matches/114031515) |
-| ::ricoel::{ user=7438459 } | **5** | 3 | [AccNome](https://osu.ppy.sh/users/10976433) | [#1](https://osu.ppy.sh/community/matches/114031333) |
+| ::astrin::{ user=14252935 } | **5** | 2 | ::RocketeerRover::{ user=14477332 } | [#1](https://osu.ppy.sh/community/matches/114030878) |
+| ::ur cute::{ user=9993348 } | **5** | 1 | ::Kenny::{ user=1225459 } | [#1](https://osu.ppy.sh/community/matches/114030801) |
+| ::ricoel::{ user=7438459 } | **5** | 1 | ::Daprin::{ user=10961983 } | [#1](https://osu.ppy.sh/community/matches/114030737) |
+| ::Jarran::{ user=11417993 } | 0 | **5** | ::AccNome::{ user=10976433 } | [#1](https://osu.ppy.sh/community/matches/114030732) |
+| ::astrin::{ user=14252935 } | 1 | **5** | ::ur cute::{ user=9993348 } | [#1](https://osu.ppy.sh/community/matches/114031515) |
+| ::ricoel::{ user=7438459 } | **5** | 3 | ::AccNome::{ user=10976433 } | [#1](https://osu.ppy.sh/community/matches/114031333) |
 
 #### Round of 16
 
@@ -376,23 +376,23 @@ IDOLS was run by various osu! community members at UCI or visiting for the event
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| ::Mathyu::{ user=6303313 } | **4** | 0 | [-Agent](https://osu.ppy.sh/users/12404995) | [#1](https://osu.ppy.sh/community/matches/114029246) |
-| ::Jarran::{ user=11417993 } | **4** | 3 | [RocketeerRover](https://osu.ppy.sh/users/14477332) | [#1](https://osu.ppy.sh/community/matches/114029255) |
-| ::ricoel::{ user=7438459 } | **4** | 0 | [Muff1nkat](https://osu.ppy.sh/users/12404447) | [#1](https://osu.ppy.sh/community/matches/114029267) |
-| ::Kenny::{ user=1225459 } | 1 | **4** | [Clarity](https://osu.ppy.sh/users/3441616) | [#1](https://osu.ppy.sh/community/matches/114029193) |
-| ::ur cute::{ user=9993348 } | **4** | 0 | [Daprin](https://osu.ppy.sh/users/10961983) | [#1](https://osu.ppy.sh/community/matches/114029195) |
-| ::Xpxp::{ user=10809086 } | 2 | **4** | [BTMC](https://osu.ppy.sh/users/3171691) | [#1](https://osu.ppy.sh/community/matches/114029150) |
-| ::astrin::{ user=14252935 } | **4** | 3 | [AccNome](https://osu.ppy.sh/users/10976433) | [#1](https://osu.ppy.sh/community/matches/114029161) |
-| ::Putzy::{ user=23664366 } | 0 | **4** | [Kahli](https://osu.ppy.sh/users/8926244) | [#1](https://osu.ppy.sh/community/matches/114029164) |
+| ::Mathyu::{ user=6303313 } | **4** | 0 | ::-Agent::{ user=12404995 } | [#1](https://osu.ppy.sh/community/matches/114029246) |
+| ::Jarran::{ user=11417993 } | **4** | 3 | ::RocketeerRover::{ user=14477332 } | [#1](https://osu.ppy.sh/community/matches/114029255) |
+| ::ricoel::{ user=7438459 } | **4** | 0 | ::Muff1nkat::{ user=12404447 } | [#1](https://osu.ppy.sh/community/matches/114029267) |
+| ::Kenny::{ user=1225459 } | 1 | **4** | ::Clarity::{ user=3441616 } | [#1](https://osu.ppy.sh/community/matches/114029193) |
+| ::ur cute::{ user=9993348 } | **4** | 0 | ::Daprin::{ user=10961983 } | [#1](https://osu.ppy.sh/community/matches/114029195) |
+| ::Xpxp::{ user=10809086 } | 2 | **4** | ::BTMC::{ user=3171691 } | [#1](https://osu.ppy.sh/community/matches/114029150) |
+| ::astrin::{ user=14252935 } | **4** | 3 | ::AccNome::{ user=10976433 } | [#1](https://osu.ppy.sh/community/matches/114029161) |
+| ::Putzy::{ user=23664366 } | 0 | **4** | ::Kahli::{ user=8926244 } | [#1](https://osu.ppy.sh/community/matches/114029164) |
 
 ##### Losers
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| ::-Agent::{ user=12404995 } | 1 | **4** | [RocketeerRover](https://osu.ppy.sh/users/14477332) | [#1](https://osu.ppy.sh/community/matches/114029948) |
-| ::Muff1nkat::{ user=12404447 } | 0 | **4** | [Kenny](https://osu.ppy.sh/users/1225459) | [#1](https://osu.ppy.sh/community/matches/114030020) |
-| ::Daprin::{ user=10961983 } | **4** | 1 | [Xpxp](https://osu.ppy.sh/users/10809086) | [#1](https://osu.ppy.sh/community/matches/114030091) |
-| ::AccNome::{ user=10976433 } | **4** | 1 | [Putzy](https://osu.ppy.sh/users/23664366) | [#1](https://osu.ppy.sh/community/matches/114029988) |
+| ::-Agent::{ user=12404995 } | 1 | **4** | ::RocketeerRover::{ user=14477332 } | [#1](https://osu.ppy.sh/community/matches/114029948) |
+| ::Muff1nkat::{ user=12404447 } | 0 | **4** | ::Kenny::{ user=1225459 } | [#1](https://osu.ppy.sh/community/matches/114030020) |
+| ::Daprin::{ user=10961983 } | **4** | 1 | ::Xpxp::{ user=10809086 } | [#1](https://osu.ppy.sh/community/matches/114030091) |
+| ::AccNome::{ user=10976433 } | **4** | 1 | ::Putzy::{ user=23664366 } | [#1](https://osu.ppy.sh/community/matches/114029988) |
 
 #### Qualifiers
 
@@ -436,7 +436,7 @@ See the [Qualifier results spreadsheet](https://docs.google.com/spreadsheets/d/1
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| ::MagiScorch::{ user=14241467 } | **6** | 3 | [-mint-](https://osu.ppy.sh/users/8976576) | [#1](https://osu.ppy.sh/community/matches/114031091) |
+| ::MagiScorch::{ user=14241467 } | **6** | 3 | ::-mint-::{ user=8976576 } | [#1](https://osu.ppy.sh/community/matches/114031091) |
 
 #### Finals
 
@@ -444,13 +444,13 @@ See the [Qualifier results spreadsheet](https://docs.google.com/spreadsheets/d/1
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| ::cow::{ user=10629473 } | 0 | **5** | [MagiScorch](https://osu.ppy.sh/users/14241467) | [#1](https://osu.ppy.sh/community/matches/114030140) |
+| ::cow::{ user=10629473 } | 0 | **5** | ::MagiScorch::{ user=14241467 } | [#1](https://osu.ppy.sh/community/matches/114030140) |
 
 ##### Losers (Grand Finals pool)
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| ::cow::{ user=10629473 } | 5 | **6** | [-mint-](https://osu.ppy.sh/users/8976576) | [#1](https://osu.ppy.sh/community/matches/114030547) |
+| ::cow::{ user=10629473 } | 5 | **6** | ::-mint-::{ user=8976576 } | [#1](https://osu.ppy.sh/community/matches/114030547) |
 
 #### Semifinals
 
@@ -458,25 +458,25 @@ See the [Qualifier results spreadsheet](https://docs.google.com/spreadsheets/d/1
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| ::cow::{ user=10629473 } | **4** | 0 | [fogershot](https://osu.ppy.sh/users/12645717) | [#1](https://osu.ppy.sh/community/matches/114028746) |
-| ::-mint-::{ user=8976576 } | 2 | **4** | [MagiScorch](https://osu.ppy.sh/users/14241467) | [#1](https://osu.ppy.sh/community/matches/114028747) |
+| ::cow::{ user=10629473 } | **4** | 0 | ::fogershot::{ user=12645717 } | [#1](https://osu.ppy.sh/community/matches/114028746) |
+| ::-mint-::{ user=8976576 } | 2 | **4** | ::MagiScorch::{ user=14241467 } | [#1](https://osu.ppy.sh/community/matches/114028747) |
 
 ##### Losers (Finals pool)
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| ::-mint-::{ user=8976576 } | **5** | 0 | [ketzu](https://osu.ppy.sh/users/13557639) | [#1](https://osu.ppy.sh/community/matches/114029310) |
+| ::-mint-::{ user=8976576 } | **5** | 0 | ::ketzu::{ user=13557639 } | [#1](https://osu.ppy.sh/community/matches/114029310) |
 | ::fogershot::{ user=12645717 } | **5** | -1 | ::yodevdev::{ user=27123258 } | *forfeit* |
-| ::-mint-::{ user=8976576 } | **5** | 0 | [fogershot](https://osu.ppy.sh/users/12645717) | [#1](https://osu.ppy.sh/community/matches/114029758) |
+| ::-mint-::{ user=8976576 } | **5** | 0 | ::fogershot::{ user=12645717 } | [#1](https://osu.ppy.sh/community/matches/114029758) |
 
 #### Quarterfinals winners
 
-::cow::{ user=10629473 } and [MagiScorch](https://osu.ppy.sh/users/14241467) were given byes and so did not participate in this round.
+::cow::{ user=10629473 } and ::MagiScorch::{ user=14241467 } were given byes and so did not participate in this round.
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| ::ketzu::{ user=13557639 } | 0 | **4** | [fogershot](https://osu.ppy.sh/users/12645717) | [#1](https://osu.ppy.sh/community/matches/114027695) |
-| ::-mint-::{ user=8976576 } | **4** | 0 | [yodevdev](https://osu.ppy.sh/users/27123258) | [#1](https://osu.ppy.sh/community/matches/114027696) |
+| ::ketzu::{ user=13557639 } | 0 | **4** | ::fogershot::{ user=12645717 } | [#1](https://osu.ppy.sh/community/matches/114027695) |
+| ::-mint-::{ user=8976576 } | **4** | 0 | ::yodevdev::{ user=27123258 } | [#1](https://osu.ppy.sh/community/matches/114027696) |
 
 ## Ruleset
 

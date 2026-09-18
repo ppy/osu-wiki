@@ -13,7 +13,7 @@ It's no wonder that Qualifiers tend to be one of the most stressful parts of a t
 
 As such, it is no wonder we've already seen teams and players alike giving their all on the first bracket round of the tournament! The maps got comparatively easier than their Qualifiers counterparts, but the competition and effort required to stay afloat remained very much the same.
 
-While recapping all matches in one single news post would not be possible, thanks to the work of ::Dynascape::{ user=8784587 }, [SunApple](https://osu.ppy.sh/users/11817622), ::Normiplier::{ user=10069850 }, [akace100](https://osu.ppy.sh/users/9308128), and ::Rush\1FTK::{ user=3046856 } you will be able to get up to speed with all matches that took place thanks to their video summary of the week!
+While recapping all matches in one single news post would not be possible, thanks to the work of ::Dynascape::{ user=8784587 }, ::SunApple::{ user=11817622 }, ::Normiplier::{ user=10069850 }, ::akace100::{ user=9308128 }, and ::Rush\1FTK::{ user=3046856 } you will be able to get up to speed with all matches that took place thanks to their video summary of the week!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/zERqb8gkmkY" frameborder="0" allowfullscreen></iframe>

@@ -53,13 +53,13 @@ That's all for updates this month! Don't forget that we've got Discord servers f
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::DeviousPanda::{ user=4966334 }, [DigitalHypno](https://osu.ppy.sh/users/4384207), ::Doomsday::{ user=18983 }, [Mismagius](https://osu.ppy.sh/users/19048), ::rHO::{ user=1629553 }, [Skill](https://osu.ppy.sh/users/7802027) and ::Wixonater::{ user=10083084 }!
+The osu! Loved candidates were chosen by ::DeviousPanda::{ user=4966334 }, ::DigitalHypno::{ user=4384207 }, ::Doomsday::{ user=18983 }, ::Mismagius::{ user=19048 }, ::rHO::{ user=1629553 }, ::Skill::{ user=7802027 } and ::Wixonater::{ user=10083084 }!
 
 ---
 
 [![](/wiki/shared/news/2022-11-14-project-loved-november-2022/1746664.jpg)](https://osu.ppy.sh/community/forums/topics/1675558)
 
-[Kotoha - God-ish](https://osu.ppy.sh/beatmapsets/1746664#osu) by ::IOException::{ user=2688103 }, [ConsumerOfLean](https://osu.ppy.sh/users/6293158), ::Crystal::{ user=1646397 }, [Defy](https://osu.ppy.sh/users/15428357) and ::Len::{ user=1686145 }\
+[Kotoha - God-ish](https://osu.ppy.sh/beatmapsets/1746664#osu) by ::IOException::{ user=2688103 }, ::ConsumerOfLean::{ user=6293158 }, ::Crystal::{ user=1646397 }, ::Defy::{ user=15428357 } and ::Len::{ user=1686145 }\
 142 BPM, 3:22 | 2.06★ – 8.43★\
 *description written by ::DigitalHypno::{ user=4384207 }*
 
@@ -99,19 +99,19 @@ Give your honest vote for this map and help my cause to push more mechanics maps
 
 [![](/wiki/shared/news/2022-11-14-project-loved-november-2022/1670363.jpg)](https://osu.ppy.sh/community/forums/topics/1675553)
 
-[Hakushi Hasegawa - Doku](https://osu.ppy.sh/beatmapsets/1670363#osu) by ::Halgoh::{ user=4109923 } and [Sharu](https://osu.ppy.sh/users/5597639)\
+[Hakushi Hasegawa - Doku](https://osu.ppy.sh/beatmapsets/1670363#osu) by ::Halgoh::{ user=4109923 } and ::Sharu::{ user=5597639 }\
 203 BPM, 2:51 | 6.92★\
 *description written by ::DeviousPanda::{ user=4966334 }*
 
 Now for a map that most likely needs no introduction for anyone familiar with the mapping scene recently.
 
-Widely regarded as one of the best modern tech maps in the game, *Doku* highlights the exceptional level of detail that ::Halgoh::{ user=4109923 } and [Sharu](https://osu.ppy.sh/users/5597639) put into representing complex songs such as this, while also managing to keep the map fun and engaging throughout.
+Widely regarded as one of the best modern tech maps in the game, *Doku* highlights the exceptional level of detail that ::Halgoh::{ user=4109923 } and ::Sharu::{ user=5597639 } put into representing complex songs such as this, while also managing to keep the map fun and engaging throughout.
 
 This map presents a very interesting experience to any player that enjoys challenging themselves with difficult tech maps, so if this is your type of map then make sure to vote it for Loved!
 
 [![](/wiki/shared/news/2022-11-14-project-loved-november-2022/1365121.jpg)](https://osu.ppy.sh/community/forums/topics/1675552)
 
-[DM DOKURO - Roar of The Jungle Dragon](https://osu.ppy.sh/beatmapsets/1365121#osu) by ::Wolftyui::{ user=4833114 }, [\_Misti](https://osu.ppy.sh/users/10605929) and ::gaiooipuaerg::{ user=15051512 }\
+[DM DOKURO - Roar of The Jungle Dragon](https://osu.ppy.sh/beatmapsets/1365121#osu) by ::Wolftyui::{ user=4833114 }, ::\_Misti::{ user=10605929 } and ::gaiooipuaerg::{ user=15051512 }\
 250 BPM, 4:00 | 8.02★, 8.65★\
 *description written by ::Wixonater::{ user=10083084 }*
 
@@ -123,7 +123,7 @@ If you wish to challenge this map yourself, then give it a vote to hopefully see
 
 [![](/wiki/shared/news/2022-11-14-project-loved-november-2022/33888.jpg)](https://osu.ppy.sh/community/forums/topics/1675551)
 
-[Senpi- - The First Part of Touhou EX Boss Rush!!](https://osu.ppy.sh/beatmapsets/33888#osu) by ::Strawberry::{ user=519978 }, [\_Kiva](https://osu.ppy.sh/users/229595), ::Galaxy\1old\11::{ user=1130085 }, [ljzljc](https://osu.ppy.sh/users/103114), ::Megurine Luka::{ user=575846 } and [Shinki](https://osu.ppy.sh/users/364051)\
+[Senpi- - The First Part of Touhou EX Boss Rush!!](https://osu.ppy.sh/beatmapsets/33888#osu) by ::Strawberry::{ user=519978 }, ::\_Kiva::{ user=229595 }, ::Galaxy\1old\11::{ user=1130085 }, ::ljzljc::{ user=103114 }, ::Megurine Luka::{ user=575846 } and ::Shinki::{ user=364051 }\
 185 BPM, 11:33 | 6.15★\
 *description written by ::Doomsday::{ user=18983 }*
 
@@ -167,13 +167,13 @@ When I think of ::Yusomi::{ user=4174940 }'s maps, I immediately think of CS 5 m
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [Boaz](https://osu.ppy.sh/users/13302996), ::Horiiizon::{ user=8071438 }, [POCARI SWEAT](https://osu.ppy.sh/users/5082685) and ::Roxy-::{ user=11931563 }!
+The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::Boaz::{ user=13302996 }, ::Horiiizon::{ user=8071438 }, ::POCARI SWEAT::{ user=5082685 } and ::Roxy-::{ user=11931563 }!
 
 ---
 
 [![](/wiki/shared/news/2022-11-14-project-loved-november-2022/1381180.jpg)](https://osu.ppy.sh/community/forums/topics/1675547)
 
-[sabi - true DJ MAG top ranker's song Zenpen (katagiri Remix)](https://osu.ppy.sh/beatmapsets/1381180#taiko) by ::KawaiiBass::{ user=11992585 }, [aHTaoN](https://osu.ppy.sh/users/4655546) and ::syaron105::{ user=8741695 }\
+[sabi - true DJ MAG top ranker's song Zenpen (katagiri Remix)](https://osu.ppy.sh/beatmapsets/1381180#taiko) by ::KawaiiBass::{ user=11992585 }, ::aHTaoN::{ user=4655546 } and ::syaron105::{ user=8741695 }\
 170 BPM, 6:15 | 8.10★\
 *description written by ::-Kazu-::{ user=920861 }*
 
@@ -217,7 +217,7 @@ Time to introduce everyone's favorite Katagiri map. Do you know this map of *Hei
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::fuhie::{ user=7620002 }, [Sartan](https://osu.ppy.sh/users/4100941), ::Tenshichan::{ user=1101600 } and [Wesley](https://osu.ppy.sh/users/2407265)!
+The osu!catch Loved candidates were chosen by ::fuhie::{ user=7620002 }, ::Sartan::{ user=4100941 }, ::Tenshichan::{ user=1101600 } and ::Wesley::{ user=2407265 }!
 
 ---
 
@@ -269,7 +269,7 @@ As menacing as it may seem, it's worth a try from any player. Are you willing to
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, [-NoName-](https://osu.ppy.sh/users/10400730), ::kadoen::{ user=12780575 }, [Mipha-](https://osu.ppy.sh/users/5767941), ::Paturages::{ user=1375479 } and [RandomeLoL](https://osu.ppy.sh/users/7080063)!
+The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, ::-NoName-::{ user=10400730 }, ::kadoen::{ user=12780575 }, ::Mipha-::{ user=5767941 }, ::Paturages::{ user=1375479 } and ::RandomeLoL::{ user=7080063 }!
 
 ---
 
@@ -371,11 +371,11 @@ If you want to see more of Akayro in the future, don't forget to vote for *Green
 
 [![](/wiki/shared/news/2022-11-14-project-loved-november-2022/945295.jpg)](https://osu.ppy.sh/community/forums/topics/1675531)
 
-[Dormir - Sayonara Trip](https://osu.ppy.sh/beatmapsets/945295#mania) by ::KenZ::{ user=437945 } and [LostCool](https://osu.ppy.sh/users/766374)\
+[Dormir - Sayonara Trip](https://osu.ppy.sh/beatmapsets/945295#mania) by ::KenZ::{ user=437945 } and ::LostCool::{ user=766374 }\
 133 BPM, 4:21 | 7.00★\
 *description written by ::-NoName-::{ user=10400730 }*
 
-::KenZ::{ user=437945 } and [LostCool](https://osu.ppy.sh/users/766374)'s collaboration chart of *Sayonara Trip* has some of the largest variety of LN patterns I've ever seen. It seems as though there's a different LN pattern for every phrase in the song.
+::KenZ::{ user=437945 } and ::LostCool::{ user=766374 }'s collaboration chart of *Sayonara Trip* has some of the largest variety of LN patterns I've ever seen. It seems as though there's a different LN pattern for every phrase in the song.
 
 The song clocks in at only 133 BPM, making this chart very approachable for intermediate players wanting to hone their LN skills. Despite that, the chart is deceptively difficult to score on due to the amount of shield patterns present throughout the chart. It's slow enough that you can just chill and enjoy the song if you are comfortable enough, though.
 

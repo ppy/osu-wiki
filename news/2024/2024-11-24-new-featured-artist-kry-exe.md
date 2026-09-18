@@ -23,7 +23,7 @@ And in case you missed it, here's the debut of this year's OWC Finals tiebreaker
 
 ### [nm-y vs. Kry.exe - Kaiju](https://assets.ppy.sh/artists/448/Songs/nm-y%20vs.%20Kry.exe%20-%20Kaiju.osz)
 
-Give your best attempt on [the map above](https://osu.ppy.sh/beatmapsets/2284698) by ::Aerousea::{ user=15664628 }, [9ami](https://osu.ppy.sh/users/1499997) and ::oTwinkle::{ user=15095654 }!
+Give your best attempt on [the map above](https://osu.ppy.sh/beatmapsets/2284698) by ::Aerousea::{ user=15664628 }, ::9ami::{ user=1499997 } and ::oTwinkle::{ user=15095654 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/448/Songs/nm-y%20vs.%20Kry.exe%20-%20Kaiju.mp3">

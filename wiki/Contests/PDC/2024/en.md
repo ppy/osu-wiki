@@ -8,7 +8,7 @@ tags:
 
 ![](img/banner.jpg)
 
-The **Pending Cup** is originally a Chinese mapping contest, which had its first iteration in 2013 held by ::NatsumeRin::{ user=151679 }. This year's contest was hosted by ::Chaoslitz::{ user=3621552 }, [seros](https://osu.ppy.sh/users/10562853) and ::Elayue::{ user=6400861 }.
+The **Pending Cup** is originally a Chinese mapping contest, which had its first iteration in 2013 held by ::NatsumeRin::{ user=151679 }. This year's contest was hosted by ::Chaoslitz::{ user=3621552 }, ::seros::{ user=10562853 } and ::Elayue::{ user=6400861 }.
 
 ## Schedule
 
@@ -86,7 +86,7 @@ This year included two non-FA songs as part of the song list, which also means a
 
 ---
 
-The [lucky draw](#lucky-draw) winners were ::App::{ user=13650508 } and [Gyro Zeppeli](https://osu.ppy.sh/users/3824882).
+The [lucky draw](#lucky-draw) winners were ::App::{ user=13650508 } and ::Gyro Zeppeli::{ user=3824882 }.
 
 ## Results
 

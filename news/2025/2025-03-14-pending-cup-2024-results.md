@@ -33,7 +33,7 @@ With that all set, let's dive into the results of each track!
 
 —Reioli
 
-Check out [this recently ranked mapset](https://osu.ppy.sh/beatmapsets/2301820) with entries from ::Ryuusei Aika::{ user=7777875 }, [Shijie](https://osu.ppy.sh/users/10927454), ::Plus4j::{ user=4086497 } and [Koiyuki](https://osu.ppy.sh/users/2433507) included hosted by ::iBell::{ user=4298072 } for a fun rhythm challenge!
+Check out [this recently ranked mapset](https://osu.ppy.sh/beatmapsets/2301820) with entries from ::Ryuusei Aika::{ user=7777875 }, ::Shijie::{ user=10927454 }, ::Plus4j::{ user=4086497 } and ::Koiyuki::{ user=2433507 } included hosted by ::iBell::{ user=4298072 } for a fun rhythm challenge!
 
 ### Instrumental track winner - ::William K::{ user=2261651 }
 
@@ -65,7 +65,7 @@ Words cannot describe how fast-paced this experience would be, so make sure to t
 
 —pw384
 
-Be sure to try [this winning entry](https://osu.ppy.sh/beatmapsets/2301648#osu/4926360) by ::Matsuyuki Ame::{ user=12763959 } yourself to truly experience the epic renaissance hardcore, along with entries by ::Luval::{ user=22414293 }, [[W]hiteRBQ 033](https://osu.ppy.sh/users/8678443), and ::Saki::{ user=3420746 }!
+Be sure to try [this winning entry](https://osu.ppy.sh/beatmapsets/2301648#osu/4926360) by ::Matsuyuki Ame::{ user=12763959 } yourself to truly experience the epic renaissance hardcore, along with entries by ::Luval::{ user=22414293 }, ::\1W\1hiteRBQ 033::{ user=8678443 }, and ::Saki::{ user=3420746 }!
 
 ### Track prizes
 

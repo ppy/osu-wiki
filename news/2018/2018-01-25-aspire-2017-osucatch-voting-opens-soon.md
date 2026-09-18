@@ -5,7 +5,7 @@ date: 2018-01-25 09:00:00 +0000
 series: official_contests
 ---
 
-After a long wait of preparation and scrutinisation by our panel of expert judges, **Aspire 2017: osu!catch** is finally ready to step into the spotlight! Join us this **Saturday the 27th of January at 23:00 UTC** for a livestream preview showcasing the final ten submissions, featuring expert commentary from our panel of talented judges; ::Ascendance::{ user=2931883 }, [Nokashi](https://osu.ppy.sh/users/5431196), ::Sartan::{ user=4100941 } and [Zak](https://osu.ppy.sh/users/1375955)!
+After a long wait of preparation and scrutinisation by our panel of expert judges, **Aspire 2017: osu!catch** is finally ready to step into the spotlight! Join us this **Saturday the 27th of January at 23:00 UTC** for a livestream preview showcasing the final ten submissions, featuring expert commentary from our panel of talented judges; ::Ascendance::{ user=2931883 }, ::Nokashi::{ user=5431196 }, ::Sartan::{ user=4100941 } and ::Zak::{ user=1375955 }!
 
 ![](/wiki/shared/news/banners/osu_catch.png)
 

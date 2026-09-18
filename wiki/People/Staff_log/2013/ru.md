@@ -145,7 +145,7 @@
 - Перемещение ::lovhin456::{ user=55096 } из Beatmap Appreciation Team в osu! Alumni (2013-08-02)
 - Перемещение ::Miya::{ user=909167 } из Beatmap Appreciation Team в osu! Alumni (2013-08-02)
 - Перемещение ::orioncomet::{ user=104827 } из Beatmap Appreciation Team в osu! Alumni (2013-08-02)
-- Перемещение [ykcarrot](https://osu.ppy.sh/users/ykcarrot) из Beatmap Appreciation Team в osu! Alumni (2013-08-02)
+- Перемещение ::ykcarrot::{ user=70730 } из Beatmap Appreciation Team в osu! Alumni (2013-08-02)
 - Перемещение ::Frostmourne::{ user=199669 } из osu! Alumni в Beatmap Appreciation Team (2013-08-02)
 - Перемещение ::bossandy::{ user=360437 } из osu! Alumni в Beatmap Appreciation Team (2013-08-14) <!-- https://osu.ppy.sh/community/forums/posts/2505082 -->
 - Перемещение ::p3n::{ user=123703 } из osu! Alumni в Beatmap Appreciation Team (2013-08-16) <!-- https://osu.ppy.sh/community/forums/posts/2511981 -->

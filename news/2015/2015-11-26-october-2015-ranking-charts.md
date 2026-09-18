@@ -8,7 +8,7 @@ series: beatmap_spotlights
 
 Hello everyone and sorry for the late announcement! The Ranking Charts for October 2015 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=1510)!
 
-This month ::Priti::{ user=2198472 }, [SKSalt](https://osu.ppy.sh/users/3280542), ::- Magic Bomb -::{ user=3071175 } and [ExUsagi](https://osu.ppy.sh/users/3027421) picked the maps for the Monthly Ranking Charts.
+This month ::Priti::{ user=2198472 }, ::SKSalt::{ user=3280542 }, ::- Magic Bomb -::{ user=3071175 } and ::ExUsagi::{ user=3027421 } picked the maps for the Monthly Ranking Charts.
 
 ## Ranking Charts Creation
 
@@ -58,11 +58,11 @@ I chose this as the second best set because, it gives a good example of how a ne
 
 This friendly set is the easiest and shortest one in this chart. Every difficulty is mapped in a good way, following the calm song in an appropriate way. It is really short, so you can play it as many times as you want. One player has even become crazy by retrying to fullcombo it...! Of course, you can also enjoy this set by using mods. Have fun!
 
-- [Black Raison d'etre - INSIDE IDENTITY](https://osu.ppy.sh/beatmapsets/66901) by ::taiko\1maniac1811::{ user=595764 } & [lolcubes](https://osu.ppy.sh/users/578401)
+- [Black Raison d'etre - INSIDE IDENTITY](https://osu.ppy.sh/beatmapsets/66901) by ::taiko\1maniac1811::{ user=595764 } & ::lolcubes::{ user=578401 }
 
 This song is long compared to the others. It's over 4 minutes, but you'll never get tired of playing it. There are two difficulties with a basic flow, but it gives you a feeling of how the gameplay in Taiko works. It represents the sentence "less is more" in a good way.
 
-- [Doma Umaru [CV.Tanaka Aimi] - Kakushinteki*Metamaruphose!](https://osu.ppy.sh/beatmapsets/332623) by ::\1Gezo\1::{ user=481582 } & [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)
+- [Doma Umaru [CV.Tanaka Aimi] - Kakushinteki*Metamaruphose!](https://osu.ppy.sh/beatmapsets/332623) by ::\1Gezo\1::{ user=481582 } & ::Nardoxyribonucleic::{ user=876419 }
 
 This song is a famous japanese anime song and its mapset contains all modes. You are able to enjoy the melody even if you don't know the song yet, so I think, overall the maps are very well made. It is a good chance to start playing Taiko, so let's enjoy it!
 

@@ -13,7 +13,7 @@ This week may very well have been one of the most exciting of this year's osu!ma
 
 The stakes could not be higher, however. The longer teams retain their places in the winners' bracket going into the later rounds, the more of an advantage they'll have over their peers. Being in the losers' bracket has become a constant fight for survival!
 
-It's time to check what the matches a week ago had to offer in detail, but for those who'd rather enjoy the recap in video form, ::yukina meng::{ user=9919550 }, [Normiplier](https://osu.ppy.sh/users/10069850), ::epic man 2::{ user=14566000 }, [SurfChu85](https://osu.ppy.sh/users/4469895), and ::SunApple::{ user=11817622 } got you covered!
+It's time to check what the matches a week ago had to offer in detail, but for those who'd rather enjoy the recap in video form, ::yukina meng::{ user=9919550 }, ::Normiplier::{ user=10069850 }, ::epic man 2::{ user=14566000 }, ::SurfChu85::{ user=4469895 }, and ::SunApple::{ user=11817622 } got you covered!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/CRhyy2jJB90" frameborder="0" allowfullscreen></iframe>

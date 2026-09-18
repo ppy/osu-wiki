@@ -27,7 +27,7 @@ Check out [this classic collab set](https://osu.ppy.sh/beatmapsets/65855#osu/192
 
 ### EOS
 
-Check out [this legendary collaboration](https://osu.ppy.sh/beatmapsets/151720#osu/373781) hosted by ::alacat::{ user=869782 }, featuring [RLC](https://osu.ppy.sh/users/1047883) and the visual design of ::11t::{ user=2112092 }!
+Check out [this legendary collaboration](https://osu.ppy.sh/beatmapsets/151720#osu/373781) hosted by ::alacat::{ user=869782 }, featuring ::RLC::{ user=1047883 } and the visual design of ::11t::{ user=2112092 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/72/previews/1943.mp3" type="audio/mpeg">

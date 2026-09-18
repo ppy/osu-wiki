@@ -21,9 +21,9 @@ As always, we would like to thank everyone for your participation in the April v
 Before we move on with the picks, we've got some high-caliber deetz (not the mapper) from within the team:
 
 - Applications for the osu!taiko captain and the metadata reviewer positions have been concluded, say hi to our newest recruits who'll be dedicating their time to make the Loved section more awesome:
-  - **osu!taiko captains**: ::aceticke::{ user=8838763 }, [ler1211](https://osu.ppy.sh/users/19901680), ::Sebola::{ user=15821708 }
-  - **Metadata reviewers**: ::Jerry::{ user=605973 }, [gzdongsheng](https://osu.ppy.sh/users/8660315), ::MadBricktree::{ user=4790958 }, [radar](https://osu.ppy.sh/users/7131099)
-- With heavy hearts, we bid farewell to our cherished members ::bonkmi::{ user=21148690 }, [DigitalHypno](https://osu.ppy.sh/users/4384207), ::Doomsday::{ user=18983 }, [kestreI](https://osu.ppy.sh/users/16779673), and ::Venix::{ user=5999631 }, as they have recently announced their resignations. We wish them the best in their future endeavors.
+  - **osu!taiko captains**: ::aceticke::{ user=8838763 }, ::ler1211::{ user=19901680 }, ::Sebola::{ user=15821708 }
+  - **Metadata reviewers**: ::Jerry::{ user=605973 }, ::gzdongsheng::{ user=8660315 }, ::MadBricktree::{ user=4790958 }, ::radar::{ user=7131099 }
+- With heavy hearts, we bid farewell to our cherished members ::bonkmi::{ user=21148690 }, ::DigitalHypno::{ user=4384207 }, ::Doomsday::{ user=18983 }, ::kestreI::{ user=16779673 }, and ::Venix::{ user=5999631 }, as they have recently announced their resignations. We wish them the best in their future endeavors.
 
 With that out of the way, let's get into May's picks:
 
@@ -36,7 +36,7 @@ With that out of the way, let's get into May's picks:
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::Aistre::{ user=4879380 }, [Kingling](https://osu.ppy.sh/users/7010761), ::megumic::{ user=7537133 }, [Mismagius](https://osu.ppy.sh/users/19048), ::rHO::{ user=1629553 }, [Skill](https://osu.ppy.sh/users/7802027) and ::Wixonater::{ user=10083084 }!
+The osu! Loved candidates were chosen by ::Aistre::{ user=4879380 }, ::Kingling::{ user=7010761 }, ::megumic::{ user=7537133 }, ::Mismagius::{ user=19048 }, ::rHO::{ user=1629553 }, ::Skill::{ user=7802027 } and ::Wixonater::{ user=10083084 }!
 
 <div align="center">
     <video width="95%" controls>
@@ -60,7 +60,7 @@ If you'd like to see this map in the Loved category and prove your skills agains
 
 [![](/wiki/shared/news/2023-05-21-project-loved-may-2023/58666.jpg)](https://osu.ppy.sh/community/forums/topics/1767929)
 
-[Felt - Protagonists](https://osu.ppy.sh/beatmapsets/58666#osu) by ::Rue::{ user=417551 } and [semaphore](https://osu.ppy.sh/users/6313643)\
+[Felt - Protagonists](https://osu.ppy.sh/beatmapsets/58666#osu) by ::Rue::{ user=417551 } and ::semaphore::{ user=6313643 }\
 176 BPM, 3:35 | 2.33★, 3.24★, 5.02★\
 *description written by ::rHO::{ user=1629553 }*
 
@@ -124,7 +124,7 @@ If if if you'd you'd like like this this this this like to to to see see see thi
 
 [![](/wiki/shared/news/2023-05-21-project-loved-may-2023/414582.jpg)](https://osu.ppy.sh/community/forums/topics/1767923)
 
-[KINGS OF THE CITY - Wrong (Muzzy Remix)](https://osu.ppy.sh/beatmapsets/414582#osu) by ::Hikaru Rose::{ user=4811275 } and [Cheesecake](https://osu.ppy.sh/users/3700647)\
+[KINGS OF THE CITY - Wrong (Muzzy Remix)](https://osu.ppy.sh/beatmapsets/414582#osu) by ::Hikaru Rose::{ user=4811275 } and ::Cheesecake::{ user=3700647 }\
 175 BPM, 6:44 | 6.25★\
 *description written by ::Aistre::{ user=4879380 }*
 
@@ -136,13 +136,13 @@ If you'd like to give this map a second shot at Loved, make sure you vote!
 
 [![](/wiki/shared/news/2023-05-21-project-loved-may-2023/1095297.jpg)](https://osu.ppy.sh/community/forums/topics/1767922)
 
-[RADWIMPS - Grand Escape (Movie edit) feat. Toko Miura](https://osu.ppy.sh/beatmapsets/1095297#osu) by ::Monstrata::{ user=2706438 }, [Amamiya Ren](https://osu.ppy.sh/users/7025804), ::Deca::{ user=9088487 }, [Gero](https://osu.ppy.sh/users/1467715) and ::Hey lululu::{ user=4086497 }\
+[RADWIMPS - Grand Escape (Movie edit) feat. Toko Miura](https://osu.ppy.sh/beatmapsets/1095297#osu) by ::Monstrata::{ user=2706438 }, ::Amamiya Ren::{ user=7025804 }, ::Deca::{ user=9088487 }, ::Gero::{ user=1467715 } and ::Hey lululu::{ user=4086497 }\
 146 BPM, 3:31 | 3.36★, 4.46★, 4.69★, 4.75★, 4.76★\
 *description written by ::megumic::{ user=7537133 }*
 
 This month's pick for the *Chill Champions* category is ::Monstrata::{ user=2706438 }'s [RADWIMPS - Grand Escape (Movie edit) feat. Toko Miura](https://osu.ppy.sh/beatmapsets/1095297#osu/2289074).
 
-Grand Escape is a beautiful song from the movie *Weathering With You* that captures the emotions of the listener with its sweeping melodies and heartfelt lyrics, and ::Gero::{ user=1467715 }, [Amamiya Ren](https://osu.ppy.sh/users/7025804), ::Hey lululu::{ user=4086497 }, [Deca](https://osu.ppy.sh/users/9088487) and ::Monstrata::{ user=2706438 } have all done a fantastic job of translating that feeling into pure hit circles and sliders for us.
+Grand Escape is a beautiful song from the movie *Weathering With You* that captures the emotions of the listener with its sweeping melodies and heartfelt lyrics, and ::Gero::{ user=1467715 }, ::Amamiya Ren::{ user=7025804 }, ::Hey lululu::{ user=4086497 }, ::Deca::{ user=9088487 } and ::Monstrata::{ user=2706438 } have all done a fantastic job of translating that feeling into pure hit circles and sliders for us.
 
 Peaking at just 4.76\* in its hardest difficulty, this stunning mapset can be fully enjoyed by any player, so feel free to give it a try. It's sure to become one of your favorites in no time!
 
@@ -172,18 +172,18 @@ If you want to make sure more classic bangers like this one appear in Loved, giv
 
 [![](/wiki/shared/news/2023-05-21-project-loved-may-2023/1037658.jpg)](https://osu.ppy.sh/community/forums/topics/1767919)
 
-[toby fox - MEGALOVANIA (Camellia Remix)](https://osu.ppy.sh/beatmapsets/1037658#osu) by ::Tocorn::{ user=9564072 } and [Ciyus Miapah](https://osu.ppy.sh/users/2805457)\
+[toby fox - MEGALOVANIA (Camellia Remix)](https://osu.ppy.sh/beatmapsets/1037658#osu) by ::Tocorn::{ user=9564072 } and ::Ciyus Miapah::{ user=2805457 }\
 242 BPM, 5:59 | 8.80★, 9.21★\
 *description written by ::megumic::{ user=7537133 }*
 
 heh heh heh heh... time for the third *wildcard*.\
-it's ::tocorn::{ user=9564072 } and [ciyus miapah](https://osu.ppy.sh/users/2805457)'s [toby fox - megalovania (camellia remix)](https://osu.ppy.sh/beatmapsets/1037658#osu/2169346).
+it's ::tocorn::{ user=9564072 } and ::ciyus miapah::{ user=2805457 }'s [toby fox - megalovania (camellia remix)](https://osu.ppy.sh/beatmapsets/1037658#osu/2169346).
 
 get ready for a doozy... this one goes up to 9.21\* in difficulty.
 
 an infamous track from *undertale*, taken to the next level with this remix from camellia.\
 with sliders, jumps and streams spanning the entire playfield throughout the entire marathon,\
-thanks ::tocorn::{ user=9564072 }, [ciyus miapah](https://osu.ppy.sh/users/2805457).
+thanks ::tocorn::{ user=9564072 }, ::ciyus miapah::{ user=2805457 }.
 
 by the end, your fingers...\
 should be burning in hell.
@@ -193,7 +193,7 @@ prepare to geeettttttt dunked on!!!
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [aceticke](https://osu.ppy.sh/users/8838763), ::Boaz::{ user=13302996 }, [Eriha](https://osu.ppy.sh/users/16320311), ::ler1211::{ user=19901680 } and [Sebola](https://osu.ppy.sh/users/15821708)!
+The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::aceticke::{ user=8838763 }, ::Boaz::{ user=13302996 }, ::Eriha::{ user=16320311 }, ::ler1211::{ user=19901680 } and ::Sebola::{ user=15821708 }!
 
 <div align="center">
     <video width="95%" controls>
@@ -205,11 +205,11 @@ The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [acetic
 
 [![](/wiki/shared/news/2023-05-21-project-loved-may-2023/1594935.jpg)](https://osu.ppy.sh/community/forums/topics/1767918)
 
-[Fellsius - Talk](https://osu.ppy.sh/beatmapsets/1594935#taiko) by ::uone::{ user=5321719 } and [My Angel Koishi](https://osu.ppy.sh/users/8273098)\
+[Fellsius - Talk](https://osu.ppy.sh/beatmapsets/1594935#taiko) by ::uone::{ user=5321719 } and ::My Angel Koishi::{ user=8273098 }\
 126 BPM, 3:25 | 6.08★\
 *description written by ::Boaz::{ user=13302996 }*
 
-Lets have a conversation about ::uone::{ user=5321719 } and [My Angel Koishi](https://osu.ppy.sh/users/8273098)'s map of [Talk](https://osu.ppy.sh/beatmapsets/1594935#taiko). Infamous for the insane tech challenge it provides, I believe *Talk* deserves a spot in this month's Loved picks! Don't be fooled by the low OD, Talk is a real struggle to acc with its many creative snappings. Talk provides it all: bursts, techy snappings and many more for you to experience.
+Lets have a conversation about ::uone::{ user=5321719 } and ::My Angel Koishi::{ user=8273098 }'s map of [Talk](https://osu.ppy.sh/beatmapsets/1594935#taiko). Infamous for the insane tech challenge it provides, I believe *Talk* deserves a spot in this month's Loved picks! Don't be fooled by the low OD, Talk is a real struggle to acc with its many creative snappings. Talk provides it all: bursts, techy snappings and many more for you to experience.
 
 So what are you waiting for? I'm done talking... 🎤
 
@@ -263,13 +263,13 @@ For those looking for a challenge, this map can be enjoyed with various mods inc
 
 [![](/wiki/shared/news/2023-05-21-project-loved-may-2023/1325409.jpg)](https://osu.ppy.sh/community/forums/topics/1767913)
 
-[7_7 - Kusa Saitama 2000](https://osu.ppy.sh/beatmapsets/1325409#taiko) by ::7\17::{ user=7491106 }, [EJ_\_](https://osu.ppy.sh/users/7453536) and ::Kobayu::{ user=1834202 }\
+[7_7 - Kusa Saitama 2000](https://osu.ppy.sh/beatmapsets/1325409#taiko) by ::7\17::{ user=7491106 }, ::EJ\1\_::{ user=7453536 } and ::Kobayu::{ user=1834202 }\
 300 BPM, 1:14 | 6.79★, 7.57★, 7.63★\
 *description written by ::Sebola::{ user=15821708 }*
 
 Kyou no gohan wa...\~
 
-Today we don't have rice, but we have speedcore kicks and snares! Featuring difficulties from ::7\17::{ user=7491106 }, Kobayu and [EJ_\_](https://osu.ppy.sh/users/7453536), this beatmap features fun patterns and SVs, with kiai flash gimmicks on [7_7's difficulty](https://osu.ppy.sh/beatmapsets/1325409#taiko/2745548). It's a map supposed to be played without mods, but if you're looking for a challenge, give it a try with some! Now then, are you ready for today's rice?
+Today we don't have rice, but we have speedcore kicks and snares! Featuring difficulties from ::7\17::{ user=7491106 }, Kobayu and ::EJ\1\_::{ user=7453536 }, this beatmap features fun patterns and SVs, with kiai flash gimmicks on [7_7's difficulty](https://osu.ppy.sh/beatmapsets/1325409#taiko/2745548). It's a map supposed to be played without mods, but if you're looking for a challenge, give it a try with some! Now then, are you ready for today's rice?
 
 [![](/wiki/shared/news/2023-05-21-project-loved-may-2023/1608096.jpg)](https://osu.ppy.sh/community/forums/topics/1767912)
 
@@ -285,7 +285,7 @@ Let's have a coffee break together! ☕☕
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::fuhie::{ user=7620002 }, [Kasumi-sama](https://osu.ppy.sh/users/6177263), ::Tenshichan::{ user=1101600 } and [Wesley](https://osu.ppy.sh/users/2407265)!
+The osu!catch Loved candidates were chosen by ::fuhie::{ user=7620002 }, ::Kasumi-sama::{ user=6177263 }, ::Tenshichan::{ user=1101600 } and ::Wesley::{ user=2407265 }!
 
 <div align="center">
     <video width="95%" controls>
@@ -297,7 +297,7 @@ The osu!catch Loved candidates were chosen by ::fuhie::{ user=7620002 }, [Kasumi
 
 [![](/wiki/shared/news/2023-05-21-project-loved-may-2023/1015686.jpg)](https://osu.ppy.sh/community/forums/topics/1767911)
 
-[Fear, and Loathing in Las Vegas - Virtue and Vice (TV Size)](https://osu.ppy.sh/beatmapsets/1015686#fruits) by ::CLSW::{ user=531253 }, [Daletto](https://osu.ppy.sh/users/7592136) and ::Dalleto::{ user=10290952 }\
+[Fear, and Loathing in Las Vegas - Virtue and Vice (TV Size)](https://osu.ppy.sh/beatmapsets/1015686#fruits) by ::CLSW::{ user=531253 }, ::Daletto::{ user=7592136 } and ::Dalleto::{ user=10290952 }\
 145 BPM, 1:30 | 1.64★ – 6.31★\
 *description written by ::Wesley::{ user=2407265 }*
 
@@ -350,7 +350,7 @@ So, you want to duel this David-and-Goliath-style? Vote away!
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, [-NoName-](https://osu.ppy.sh/users/10400730), ::\[Crz\]hinako1804::{ user=13747903 }, [kadoen](https://osu.ppy.sh/users/12780575), ::Mipha-::{ user=5767941 }, [Paturages](https://osu.ppy.sh/users/1375479) and ::Remuring::{ user=6522146 }!
+The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, ::-NoName-::{ user=10400730 }, ::\[Crz\]hinako1804::{ user=13747903 }, ::kadoen::{ user=12780575 }, ::Mipha-::{ user=5767941 }, ::Paturages::{ user=1375479 } and ::Remuring::{ user=6522146 }!
 
 <div align="center">
     <video width="95%" controls>
@@ -362,13 +362,13 @@ The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, [-
 
 [![](/wiki/shared/news/2023-05-21-project-loved-may-2023/1110967.jpg)](https://osu.ppy.sh/community/forums/topics/1767907)
 
-[Getter Jaani - Rockefeller Street (Nightcore Mix)](https://osu.ppy.sh/beatmapsets/1110967#mania) by ::Logan636::{ user=9423766 }, [HowToPlayLN](https://osu.ppy.sh/users/10879600) and ::zero2snow::{ user=7751516 }\
+[Getter Jaani - Rockefeller Street (Nightcore Mix)](https://osu.ppy.sh/beatmapsets/1110967#mania) by ::Logan636::{ user=9423766 }, ::HowToPlayLN::{ user=10879600 } and ::zero2snow::{ user=7751516 }\
 162.5 BPM, 2:20 | 2.54★, 2.54★, 2.54★\
 *description written by ::Paturages::{ user=1375479 }*
 
 Congratulations to Sweden for winning [this year's edition of Eurovision](https://eurovision.tv/event/liverpool-2023)! This month, we are celebrating with a throwback to Getter Jaani's *Rockefeller Street*, Estonia's entry back in 2011 which set itself as a low-key public pleaser with a catchy tune.
 
-::Logan636::{ user=9423766 } was a major driving force in tournament organization, spearheading many editions of the [4 Digit osu!mania World Cup](/wiki/Tournaments/4DM) among other tournaments. With the help of SV mapping veterans ::HowToPlayLN::{ user=10879600 } and [zero2snow](https://osu.ppy.sh/users/7751516), this particular map was featured in its [second edition](/wiki/Tournaments/4DM/2#group-stage) in the group stage, which is to say that despite belonging to the SV category, it is very affordable and accessible for newer players to try and learn.
+::Logan636::{ user=9423766 } was a major driving force in tournament organization, spearheading many editions of the [4 Digit osu!mania World Cup](/wiki/Tournaments/4DM) among other tournaments. With the help of SV mapping veterans ::HowToPlayLN::{ user=10879600 } and ::zero2snow::{ user=7751516 }, this particular map was featured in its [second edition](/wiki/Tournaments/4DM/2#group-stage) in the group stage, which is to say that despite belonging to the SV category, it is very affordable and accessible for newer players to try and learn.
 
 The "Prosperity" difficulty allows non-SV beginners to enjoy a nice song without troubling themselves too much. "ProSinewaveViewingperity" takes a reading-oriented approach, with scrolling variations that will challenge your accuracy, but normalized spacing which makes it easy to reason about. "ProSubconsciousVisualizationperity" puts emphasis on memorizing the rhythm of the chorus, which is a reasonable entry point into memory-oriented SV maps.
 
@@ -465,11 +465,11 @@ With an impressive play count for its key count and skill set, we hope that you 
 
 [![](/wiki/shared/news/2023-05-21-project-loved-may-2023/448507.jpg)](https://osu.ppy.sh/community/forums/topics/1767899)
 
-[FELT - New World](https://osu.ppy.sh/beatmapsets/448507#mania) by ::Cuppp::{ user=2345293 } and [aya_old_1](https://osu.ppy.sh/users/4280188)\
+[FELT - New World](https://osu.ppy.sh/beatmapsets/448507#mania) by ::Cuppp::{ user=2345293 } and ::aya\1old\11::{ user=4280188 }\
 195 BPM, 3:59 | 9.11★\
 *description written by ::-NoName-::{ user=10400730 }*
 
-[FELT - New World](https://osu.ppy.sh/beatmapsets/448507#mania), a collaboration chart between ::Cuppp::{ user=2345293 } and [aya_old_1](https://osu.ppy.sh/users/4280188) (also known as SoF), has been nominated for Project Loved's voting stage.
+[FELT - New World](https://osu.ppy.sh/beatmapsets/448507#mania), a collaboration chart between ::Cuppp::{ user=2345293 } and ::aya\1old\11::{ user=4280188 } (also known as SoF), has been nominated for Project Loved's voting stage.
 
 This is quite an old chart. I hope you are good at O2Jam-style brackets, because there are plenty of that to go around in this chart. This is the kind of chart that you either can or cannot play well.
 

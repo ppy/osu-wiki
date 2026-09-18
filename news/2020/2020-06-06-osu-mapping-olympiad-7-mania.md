@@ -79,7 +79,7 @@ For each eligible submitted difficulty, the judging panel will award points base
 
 After all valid entries are judged and the results are finalized, the top three entrants for each keymode will receive the following prizes:
 
-- **1st place**: 4 months of osu!supporter, 6 Olympiad points (awards *Mapping Olympian* badge), *Elite Mapper* title, and a quick ranking process granted by ::Unpredictable::{ user=7560872 } and [Kamuy](https://osu.ppy.sh/users/7439226)
+- **1st place**: 4 months of osu!supporter, 6 Olympiad points (awards *Mapping Olympian* badge), *Elite Mapper* title, and a quick ranking process granted by ::Unpredictable::{ user=7560872 } and ::Kamuy::{ user=7439226 }
 - **2nd place**: 3 months of osu!supporter and 4 Olympiad points
 - **3rd place**: 2 months of osu!supporter and 2 Olympiad points
 

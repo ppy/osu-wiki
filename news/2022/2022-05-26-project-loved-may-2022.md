@@ -20,7 +20,7 @@ First, thanks for your participation in last month's voting—summaries of the r
 
 After over two years of dedicated captain-ship to Project Loved, this month ::Spectator::{ user=702598 } decided to step down from his role in osu!catch. Make sure there's no shortage of thanks going his way if you appreciated his work!
 
-Similarly, ::hypercyte::{ user=9155377 } spent nearly two years contributing his effort to Loved by correcting metadata of nominated maps, but recently retired from both here and the NAT. ::radar::{ user=7131099 } and [Yasuho](https://osu.ppy.sh/users/8458835) began work in the same area this month to fill the gap!
+Similarly, ::hypercyte::{ user=9155377 } spent nearly two years contributing his effort to Loved by correcting metadata of nominated maps, but recently retired from both here and the NAT. ::radar::{ user=7131099 } and ::Yasuho::{ user=8458835 } began work in the same area this month to fill the gap!
 
 Another development you may have been wondering about is that [survey Project Loved ran at the end of February](https://osu.ppy.sh/home/news/2022-02-27-project-loved-community-survey). While there are still no concrete plans made based on the results, [you can view those results on the Project Loved website](https://loved.sh/survey/community-feedback-february-2022). I'm still working on options for filtering and comparing the data there; if there's anything you have a hard time finding from the existing graphs, let me know in the `#osu-loved` channel of the [osu!dev Discord server](https://discord.gg/ppy).
 
@@ -35,13 +35,13 @@ Other than that, it's business as usual. Read about and vote on the maps below, 
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, [Doomsday](https://osu.ppy.sh/users/18983), ::UberFazz::{ user=8646059 } and [Wixonater](https://osu.ppy.sh/users/10083084)!
+The osu! Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, ::Doomsday::{ user=18983 }, ::UberFazz::{ user=8646059 } and ::Wixonater::{ user=10083084 }!
 
 ---
 
 [![](/wiki/shared/news/2022-05-26-project-loved-may-2022/979160.jpg)](https://osu.ppy.sh/community/forums/topics/1582846)
 
-[Panda Eyes & Teminite - Immortal Flame (feat. Anna Yvette)](https://osu.ppy.sh/beatmapsets/979160#osu) by ::Ciyus Miapah::{ user=2805457 }, [Aia](https://osu.ppy.sh/users/3492472), ::Aleycks::{ user=1697243 }, [Nhawak](https://osu.ppy.sh/users/1572385) and ::phaZ::{ user=1124144 }\
+[Panda Eyes & Teminite - Immortal Flame (feat. Anna Yvette)](https://osu.ppy.sh/beatmapsets/979160#osu) by ::Ciyus Miapah::{ user=2805457 }, ::Aia::{ user=3492472 }, ::Aleycks::{ user=1697243 }, ::Nhawak::{ user=1572385 } and ::phaZ::{ user=1124144 }\
 110 BPM, 4:42 | 2.08★ – 7.05★\
 *description written by ::Wixonater::{ user=10083084 }*
 
@@ -51,7 +51,7 @@ Whether you are looking for some of his classic jump patterns, a variety of biza
 
 [![](/wiki/shared/news/2022-05-26-project-loved-may-2022/1077335.jpg)](https://osu.ppy.sh/community/forums/topics/1582845)
 
-[EBIMAYO - GOODBOUNCE](https://osu.ppy.sh/beatmapsets/1077335#osu) by ::EmertxE::{ user=954557 }, [DuNai](https://osu.ppy.sh/users/2522197) and ::NightFiend::{ user=1955058 }\
+[EBIMAYO - GOODBOUNCE](https://osu.ppy.sh/beatmapsets/1077335#osu) by ::EmertxE::{ user=954557 }, ::DuNai::{ user=2522197 } and ::NightFiend::{ user=1955058 }\
 180 BPM, 2:09 | 7.22★, 7.23★, 10.32★\
 *description written by ::Doomsday::{ user=18983 }*
 
@@ -63,7 +63,7 @@ If you can manage the stern difficulty, this is one of the most fun maps that yo
 
 [![](/wiki/shared/news/2022-05-26-project-loved-may-2022/825417.jpg)](https://osu.ppy.sh/community/forums/topics/1582848)
 
-[lapix - Foolish Hero (FutureCore Mix)](https://osu.ppy.sh/beatmapsets/825417#osu) by ::Jean-Michel Jr::{ user=4430948 }, [Arutsuki](https://osu.ppy.sh/users/7566849), ::lazygirl::{ user=7882675 } and [thiev](https://osu.ppy.sh/users/1028922)\
+[lapix - Foolish Hero (FutureCore Mix)](https://osu.ppy.sh/beatmapsets/825417#osu) by ::Jean-Michel Jr::{ user=4430948 }, ::Arutsuki::{ user=7566849 }, ::lazygirl::{ user=7882675 } and ::thiev::{ user=1028922 }\
 175 BPM, 3:36 | 3.57★, 5.22★, 6.06★, 6.43★, 6.56★\
 *description written by ::Doomsday::{ user=18983 }*
 
@@ -95,7 +95,7 @@ Made by SnowNiNo_, *Bi* is a strange song made by our very own Featured Artist [
 
 [![](/wiki/shared/news/2022-05-26-project-loved-may-2022/1342866.jpg)](https://osu.ppy.sh/community/forums/topics/1582844)
 
-[Camellia - OOPARTS](https://osu.ppy.sh/beatmapsets/1342866#osu) by ::xArief::{ user=12694468 }, [Allice](https://osu.ppy.sh/users/7535045), ::Fisky::{ user=8352623 }, [fusionnqn](https://osu.ppy.sh/users/11606403), ::Kardshark::{ user=4724315 }, [Nagaraia](https://osu.ppy.sh/users/13673790), ::Reywateil::{ user=9828042 }, [t ony](https://osu.ppy.sh/users/9697624) and ::xytoper::{ user=13653298 }\
+[Camellia - OOPARTS](https://osu.ppy.sh/beatmapsets/1342866#osu) by ::xArief::{ user=12694468 }, ::Allice::{ user=7535045 }, ::Fisky::{ user=8352623 }, ::fusionnqn::{ user=11606403 }, ::Kardshark::{ user=4724315 }, ::Nagaraia::{ user=13673790 }, ::Reywateil::{ user=9828042 }, ::t ony::{ user=9697624 } and ::xytoper::{ user=13653298 }\
 205 BPM, 6:40 | 11.17★\
 *description written by ::UberFazz::{ user=8646059 }*
 
@@ -105,7 +105,7 @@ This fascinating collab by xArief and many others takes this song and puts it to
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [Boaz](https://osu.ppy.sh/users/13302996), ::Gamelan4::{ user=9856910 }, [Horiiizon](https://osu.ppy.sh/users/8071438) and ::KuroKuroKuro::{ user=11931563 }!
+The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::Boaz::{ user=13302996 }, ::Gamelan4::{ user=9856910 }, ::Horiiizon::{ user=8071438 } and ::KuroKuroKuro::{ user=11931563 }!
 
 ---
 
@@ -122,7 +122,7 @@ cdh returns to the taiko Loved scene with yet another gimmick map! *How Are You*
 
 [![](/wiki/shared/news/2022-05-26-project-loved-may-2022/1245950.jpg)](https://osu.ppy.sh/community/forums/topics/1582841)
 
-[YOASOBI - YOASOBI Songs Mapset](https://osu.ppy.sh/beatmapsets/1245950#taiko) by ::hoku::{ user=9503098 } and [HEKUSODASU](https://osu.ppy.sh/users/9044692)\
+[YOASOBI - YOASOBI Songs Mapset](https://osu.ppy.sh/beatmapsets/1245950#taiko) by ::hoku::{ user=9503098 } and ::HEKUSODASU::{ user=9044692 }\
 128 – 260 BPM, 4:19 | 4.90★, 5.18★, 6.51★, 6.87★, 6.89★\
 *description written by ::Gamelan4::{ user=9856910 }*
 
@@ -144,7 +144,7 @@ So, if you're up for the task, you should really give this a try!
 
 [![](/wiki/shared/news/2022-05-26-project-loved-may-2022/971144.jpg)](https://osu.ppy.sh/community/forums/topics/1582842)
 
-[Nana Mizuki - Nageki no Hana (Slax Remix) (Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/971144#taiko) by ::Salieri::{ user=11233651 }, [amuzaK](https://osu.ppy.sh/users/3784062) and ::Lix\10101::{ user=11320798 }\
+[Nana Mizuki - Nageki no Hana (Slax Remix) (Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/971144#taiko) by ::Salieri::{ user=11233651 }, ::amuzaK::{ user=3784062 } and ::Lix\10101::{ user=11320798 }\
 270 BPM, 2:32 | 6.53★, 6.69★, 7.00★\
 *description written by ::KuroKuroKuro::{ user=11931563 }*
 
@@ -164,13 +164,13 @@ Despite being on the easier side for Loved and despite the map not containing an
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::Kasumi-sama::{ user=6177263 }, [Sartan](https://osu.ppy.sh/users/4100941), ::Tenshichan::{ user=1101600 } and [Wesley](https://osu.ppy.sh/users/2407265)!
+The osu!catch Loved candidates were chosen by ::Kasumi-sama::{ user=6177263 }, ::Sartan::{ user=4100941 }, ::Tenshichan::{ user=1101600 } and ::Wesley::{ user=2407265 }!
 
 ---
 
 [![](/wiki/shared/news/2022-05-26-project-loved-may-2022/1493146.jpg)](https://osu.ppy.sh/community/forums/topics/1582835)
 
-[Calliope Mori - Excuse My Rudeness, But Could You Please RIP?<3 (t+pazolite Remix)](https://osu.ppy.sh/beatmapsets/1493146#fruits) by ::-Joakh::{ user=7946084 } and [-Rustyy](https://osu.ppy.sh/users/16355636)\
+[Calliope Mori - Excuse My Rudeness, But Could You Please RIP?<3 (t+pazolite Remix)](https://osu.ppy.sh/beatmapsets/1493146#fruits) by ::-Joakh::{ user=7946084 } and ::-Rustyy::{ user=16355636 }\
 260 BPM, 2:52 | 6.80★, 8.29★\
 *description written by ::Wesley::{ user=2407265 }*
 
@@ -216,7 +216,7 @@ Now, don't be such a bad apple and go vote! Wait I mea—
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, [-NoName-](https://osu.ppy.sh/users/10400730), ::kadoen::{ user=12780575 }, [Paturages](https://osu.ppy.sh/users/1375479), ::RandomeLoL::{ user=7080063 } and [stupud man](https://osu.ppy.sh/users/2141612)!
+The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, ::-NoName-::{ user=10400730 }, ::kadoen::{ user=12780575 }, ::Paturages::{ user=1375479 }, ::RandomeLoL::{ user=7080063 } and ::stupud man::{ user=2141612 }!
 
 ---
 
@@ -298,7 +298,7 @@ Look, I know that you can only vote once, but: *One for the blood, two for the l
 
 [![](/wiki/shared/news/2022-05-26-project-loved-may-2022/1555979.jpg)](https://osu.ppy.sh/community/forums/topics/1582826)
 
-[nowisee - Ko Inu](https://osu.ppy.sh/beatmapsets/1555979#mania) by ::ruka::{ user=6117525 }, [emO_Oticon](https://osu.ppy.sh/users/12064488), ::Lung\1P::{ user=8271308 } and [sankansuki](https://osu.ppy.sh/users/2877926)\
+[nowisee - Ko Inu](https://osu.ppy.sh/beatmapsets/1555979#mania) by ::ruka::{ user=6117525 }, ::emO\1Oticon::{ user=12064488 }, ::Lung\1P::{ user=8271308 } and ::sankansuki::{ user=2877926 }\
 176 BPM, 4:22 | 6.86★, 7.27★, 9.31★\
 *description written by ::\_underjoy::{ user=2235750 }*
 

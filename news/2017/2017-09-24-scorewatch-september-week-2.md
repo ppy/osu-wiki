@@ -43,7 +43,7 @@ Once again, do support [osu!archive](https://www.reddit.com/r/osugame/comments/7
 
 ## SCORESHOW WITH ZSEIKIMATSU
 
-::WindyS::{ user=1190879 } takes on [cheewee10](https://osu.ppy.sh/users/4477497) on the 6\* 7K map [m108 - \* Crow Solace \*](https://osu.ppy.sh/beatmapsets/354157).
+::WindyS::{ user=1190879 } takes on ::cheewee10::{ user=4477497 } on the 6\* 7K map [m108 - \* Crow Solace \*](https://osu.ppy.sh/beatmapsets/354157).
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/YwobO3E0lz0" frameborder="0" allowfullscreen></iframe></br>
 

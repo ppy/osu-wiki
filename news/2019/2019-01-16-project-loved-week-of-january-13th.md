@@ -25,20 +25,20 @@ In case you don't read the end of this post, be sure to submit suggestions for b
 
 ## osu!
 
-osu! Loved candidates were chosen by ::BeasttrollMC::{ user=3171691 }, [Bubbleman](https://osu.ppy.sh/users/5182050), ::DigitalHypno::{ user=4384207 }, [SoraRoxas01](https://osu.ppy.sh/users/1986262) and ::waywern2012::{ user=5870453 }!
+osu! Loved candidates were chosen by ::BeasttrollMC::{ user=3171691 }, ::Bubbleman::{ user=5182050 }, ::DigitalHypno::{ user=4384207 }, ::SoraRoxas01::{ user=1986262 } and ::waywern2012::{ user=5870453 }!
 
 ---
 
 [![](/wiki/shared/news/2019-01-16-project-loved-week-of-january-13th/osu/shun-no-seafood-o-ikashita-curry-fuumi-paella.jpg)](https://osu.ppy.sh/community/forums/topics/855901)
 
-[Camellia - Shun no Seafood o Ikashita Curry Fuumi Paella](https://osu.ppy.sh/beatmapsets/482353#osu) by ::Musty::{ user=251683 } and [PoNo](https://osu.ppy.sh/users/4610047)\
+[Camellia - Shun no Seafood o Ikashita Curry Fuumi Paella](https://osu.ppy.sh/beatmapsets/482353#osu) by ::Musty::{ user=251683 } and ::PoNo::{ user=4610047 }\
 *written by ::SoraRoxas01::{ user=1986262 }*
 
 Now that Camellia is a featured artist, this is the best time to put this map up, as this is a classic for the older players. This map has everything from difficult aim patterns to 220 BPM stream-heavy sections, from simple alternating patterns to more challenging tech patterns: this map is not to be taken lightly at all. This really is a test of how good you are in terms of both mechanical and technical skill. With the map hitting 70+ favorites and being 6.8 stars, will you be able to make it past this Musty and PoNo collab?
 
 [![](/wiki/shared/news/2019-01-16-project-loved-week-of-january-13th/osu/energy-synergy-matrix.jpg)](https://osu.ppy.sh/community/forums/topics/855902)
 
-[Tanchiky - ENERGY SYNERGY MATRIX](https://osu.ppy.sh/beatmapsets/774760#osu) by ::Cassu2::{ user=2587961 } and [DTM9 Nowa](https://osu.ppy.sh/users/5428909)\
+[Tanchiky - ENERGY SYNERGY MATRIX](https://osu.ppy.sh/beatmapsets/774760#osu) by ::Cassu2::{ user=2587961 } and ::DTM9 Nowa::{ user=5428909 }\
 *written by ::SoraRoxas01::{ user=1986262 }*
 
 Coming to the Loved voting this time is this energetic tune "ENERGY SYNERGY MATRIX", which was collaboratively mapped by Cassu2 and DTM9 Nowa. If you know about Cassu2's mapping, then you know how they like to map difficult technical patterns, and this song is no exception. With heavy testing of finger control, flow aim and stamina required to play this map, you'll be able to show off to everyone your ability to play weird and not-so-standard maps. With the map being four minutes long, and even picking up its difficulty near the end, will you muster up enough energy to push through and go for a pass?
@@ -66,7 +66,7 @@ A sequel to the infamous song HAELEQUIN, this song sounds similar yet distinct f
 
 [![](/wiki/shared/news/2019-01-16-project-loved-week-of-january-13th/osu/spark-mandrill-acapella-dj-cutman-remix.jpg)](https://osu.ppy.sh/community/forums/topics/855906)
 
-[Smooth McGroove - Spark Mandrill Acapella (Dj CUTMAN Remix)](https://osu.ppy.sh/beatmapsets/399912#osu) by ::ReFaller::{ user=4841608 }, [fartownik](https://osu.ppy.sh/users/56917), ::Okoratu::{ user=1623405 } and [Zetera](https://osu.ppy.sh/users/587737)\
+[Smooth McGroove - Spark Mandrill Acapella (Dj CUTMAN Remix)](https://osu.ppy.sh/beatmapsets/399912#osu) by ::ReFaller::{ user=4841608 }, ::fartownik::{ user=56917 }, ::Okoratu::{ user=1623405 } and ::Zetera::{ user=587737 }\
 *written by ::Bubbleman::{ user=5182050 }*
 
 It's almost a certainty that you'll have heard this song by now. This is Smooth McGroove's signature a cappella style, brought to you in a mapset by ReFaller. The top difficulty is a collaboration between fartownik and Okoratu, and features large comfortable jumps and some spaced bursts to round out the map. The song is absolutely one you shouldn't miss out on, and there is a good difficulty spread, so whether you're looking to chill out or challenge yourself, check this out!
@@ -94,27 +94,27 @@ This is a returning title in Project Loved, only this time it's mapped by Rumia-
 
 [![](/wiki/shared/news/2019-01-16-project-loved-week-of-january-13th/osu/likey.jpg)](https://osu.ppy.sh/community/forums/topics/855909)
 
-[TWICE - LIKEY](https://osu.ppy.sh/beatmapsets/688158#osu) by ::CharmCaster::{ user=847434 }, [Sing](https://osu.ppy.sh/users/3795679), ::Simuzax::{ user=7137202 } and [cosmiccc](https://osu.ppy.sh/users/9700716)\
+[TWICE - LIKEY](https://osu.ppy.sh/beatmapsets/688158#osu) by ::CharmCaster::{ user=847434 }, ::Sing::{ user=3795679 }, ::Simuzax::{ user=7137202 } and ::cosmiccc::{ user=9700716 }\
 *written by ::DigitalHypno::{ user=4384207 }*
 
 Hey TWICE fans, here's another mapset you can add to your collections! CharmCaster's set of LIKEY, with guest difficulties from cosmiccc, Simuzax, and Sing, has a full spread ranging from mid-1 stars to low-6. Though there are similarities, this mapset is much more jump-focused than the ranked set, truly getting your cursor moving with the song. With the mapset already having over 200 favorites, I'm sure many of you have been waiting for this map to have a chance to shine. If you're craving more TWICE in the Loved section, drop a vote on this map and show your support!
 
 [![](/wiki/shared/news/2019-01-16-project-loved-week-of-january-13th/osu/take-on-me.jpg)](https://osu.ppy.sh/community/forums/topics/855910)
 
-[a-ha - Take On Me](https://osu.ppy.sh/beatmapsets/601347#osu) by ::Alvieee::{ user=3579669 } and [HydroCannon13](https://osu.ppy.sh/users/5425046)\
+[a-ha - Take On Me](https://osu.ppy.sh/beatmapsets/601347#osu) by ::Alvieee::{ user=3579669 } and ::HydroCannon13::{ user=5425046 }\
 *written by ::DigitalHypno::{ user=4384207 }*
 
 Ah, this is a classic. I'm sure many of you know this song already, but what about this amazing map to go along with it? Alvieee's mapset of the iconic song "Take On Me" has a full difficulty spread from low-2 stars to mid-5, and features a guest difficulty from HydroCannon13. The maps themselves are very jump-focused, all with circle sizes slightly larger than 4. If you've always wanted to click circles to the sounds of Take On Me, now's your chance—and while you're at it, drop a vote if you want to see the map in the Loved category!
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Ascendance::{ user=2931883 }, [Sartan](https://osu.ppy.sh/users/4100941), ::Tenshichan::{ user=1101600 } and [Zak](https://osu.ppy.sh/users/1375955)! This week, all osu!catch beatmap descriptions were written by ::Sartan::{ user=4100941 }.
+osu!catch Loved candidates were chosen by ::Ascendance::{ user=2931883 }, ::Sartan::{ user=4100941 }, ::Tenshichan::{ user=1101600 } and ::Zak::{ user=1375955 }! This week, all osu!catch beatmap descriptions were written by ::Sartan::{ user=4100941 }.
 
 ---
 
 [![](/wiki/shared/news/2019-01-16-project-loved-week-of-january-13th/catch/yoake-no-bell-ga-naru.jpg)](https://osu.ppy.sh/community/forums/topics/855914)
 
-[Yasuda Mizuho - Yoake no Bell ga Naru](https://osu.ppy.sh/beatmapsets/379459#fruits) by ::Furely::{ user=853694 } and [wairo](https://osu.ppy.sh/users/6369405)
+[Yasuda Mizuho - Yoake no Bell ga Naru](https://osu.ppy.sh/beatmapsets/379459#fruits) by ::Furely::{ user=853694 } and ::wairo::{ user=6369405 }
 
 When seeing the name Furely pop up in Loved, most people would immediately think of his gimmicky maps. Today we went for something else, Yoake no Bell ga Naru, one of the least gimmicky, yet best maps from Furely. In combination with the soothing song, the map itself won't try to blow your brains out. It is very accessible to a lot of players, including people from the middle to lower end of the player skill level spectrum. The map can simply only be described as enchanting, with its very satisfying patterns which are compiled of mostly tranquil jumps.
 
@@ -130,13 +130,13 @@ Other than that the map is fairly straightforward, without any weird gimmicks, a
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::Lenfried-::{ user=5314573 }, [Pope Gadget](https://osu.ppy.sh/users/2288341), ::stupud man::{ user=2141612 } and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
+osu!mania Loved candidates were chosen by ::Lenfried-::{ user=5314573 }, ::Pope Gadget::{ user=2288341 }, ::stupud man::{ user=2141612 } and ::Toaph Daddy::{ user=7616811 }!
 
 ---
 
 [![](/wiki/shared/news/2019-01-16-project-loved-week-of-january-13th/mania/fairytale.jpg)](https://osu.ppy.sh/community/forums/topics/855917)
 
-[cillia - Fairytale,](https://osu.ppy.sh/beatmapsets/442251#mania) by ::shuniki::{ user=4942174 } and [Asusa](https://osu.ppy.sh/users/2927321)
+[cillia - Fairytale,](https://osu.ppy.sh/beatmapsets/442251#mania) by ::shuniki::{ user=4942174 } and ::Asusa::{ user=2927321 }
 
 One of the most well known mappers in the long note scene, shuniki, is introduced as the opener for this week's osu!mania loved nominations with his chart for Fairytale,. As one might expect from shuniki, the chart is a long note fest, using LN streams and inverse patterns to mark the intensity of the different sections. Having gained a significant amount of popularity from these types of charts, it's no wonder shuniki struck a chord with the many emerging LN enthusiasts through this chart, and this popularity is more than enough reason for it to be included in the Loved section.
 
@@ -148,7 +148,7 @@ Intense would be the only word I could imagine using to describe Blinded By Ligh
 
 [![](/wiki/shared/news/2019-01-16-project-loved-week-of-january-13th/mania/koakuma-no-wakuwaku-dokodoko-yuuenchi.jpg)](https://osu.ppy.sh/community/forums/topics/855919)
 
-[Mitsuyoshi Takenobu no Otouto with Yukaina Koakuma-tachi - Koakuma no Wakuwaku Dokodoko Yuuenchi](https://osu.ppy.sh/beatmapsets/785876#mania) by ::Daikyi::{ user=811832 } and [Gradiant](https://osu.ppy.sh/users/1888043)
+[Mitsuyoshi Takenobu no Otouto with Yukaina Koakuma-tachi - Koakuma no Wakuwaku Dokodoko Yuuenchi](https://osu.ppy.sh/beatmapsets/785876#mania) by ::Daikyi::{ user=811832 } and ::Gradiant::{ user=1888043 }
 
 For our next pick, we bring in Daikyi and his chart for The Little Devil's Heart Pounding Amusement Park. The chart definitely lives up to its name, mimicking the build-up and sudden release of a rollercoaster starting with a slow section only to unleash 279 BPM streams, and repeating this process four more times. This is accented with some nice usage of pitch relevance throughout both the fast streams and the breaks, which makes it feel rather satisfying to play, on top of the high-level streams making it great for competitive play, setting it up nicely for the Loved section.
 
@@ -166,7 +166,7 @@ Nothing screams fun more than PISSCORD does. Despite its short duration, the map
 
 [![](/wiki/shared/news/2019-01-16-project-loved-week-of-january-13th/mania/crescent-moon-island.jpg)](https://osu.ppy.sh/community/forums/topics/855922)
 
-[StudioEIM - Crescent Moon Island](https://osu.ppy.sh/beatmapsets/532881#mania) by ::Sturmmann::{ user=3157851 } and [pporse](https://osu.ppy.sh/users/4991434)
+[StudioEIM - Crescent Moon Island](https://osu.ppy.sh/beatmapsets/532881#mania) by ::Sturmmann::{ user=3157851 } and ::pporse::{ user=4991434 }
 
 Sturmmann is a name that will likely only be seen just this one time in regards to Loved nominations. Despite having only three pending beatmaps, he's managed to heavily impress with this set. All of the difficulties encompass the idea of having chordstream with occasional jack and LN usage, just at varying densities depending on the difficulty of the chart. With the song being just two minutes and the wide range of difficulties offered by this set, it's convenient for all kinds of players to compete on and enjoy.
 
@@ -180,7 +180,7 @@ Re:TrymenT has definitely been something that has been on our radar for a while,
 
 From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
-In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Ephemeral::{ user=102335 }, [Noffy](https://osu.ppy.sh/users/1541323) and ::Toy::{ user=2757689 } for their miscellaneous help in managing Project Loved.
+In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Ephemeral::{ user=102335 }, ::Noffy::{ user=1541323 } and ::Toy::{ user=2757689 } for their miscellaneous help in managing Project Loved.
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! You can view the current submissions on the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0).
 

@@ -24,7 +24,7 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ## osu!standard
 
-osu!standard Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, [BeasttrollMC](https://osu.ppy.sh/users/3171691) and ::Bubbleman::{ user=5182050 }!
+osu!standard Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, ::BeasttrollMC::{ user=3171691 } and ::Bubbleman::{ user=5182050 }!
 
 ---
 
@@ -72,13 +72,13 @@ A versatile song turned into a versatile mapset, -kevincela- hosts an array of g
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 } and [Ulqui](https://osu.ppy.sh/users/1263669)!
+osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 } and ::Ulqui::{ user=1263669 }!
 
 ---
 
 [![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/taiko/1-nxc-fanatics.jpg)](https://osu.ppy.sh/community/forums/topics/993246)
 
-[katagiri - NXC Fanatics](https://osu.ppy.sh/beatmapsets/743959#taiko) by ::applerss::{ user=983349 } and [7_7](https://osu.ppy.sh/users/7491106)\
+[katagiri - NXC Fanatics](https://osu.ppy.sh/beatmapsets/743959#taiko) by ::applerss::{ user=983349 } and ::7\17::{ user=7491106 }\
 240 BPM, 3:59 | 7.80★\
 *description written by ::-Kazu-::{ user=920861 }*
 
@@ -94,7 +94,7 @@ This week we bring you *Education*, mapped by \[\_Chichinya\_\]. It's a single-d
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Tenshichan::{ user=1101600 }, [Sartan](https://osu.ppy.sh/users/4100941), ::Wesley::{ user=2407265 } and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
+osu!catch Loved candidates were chosen by ::Tenshichan::{ user=1101600 }, ::Sartan::{ user=4100941 }, ::Wesley::{ user=2407265 } and ::Yumeno Himiko::{ user=1806962 }!
 
 ---
 
@@ -116,7 +116,7 @@ Zyzyx is a mapper that is still fairly new to the scene, yet he has already crea
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::Shoegazer::{ user=2520707 }, [lenpai](https://osu.ppy.sh/users/5314573), ::Pope Gadget::{ user=2288341 } and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
+osu!mania Loved candidates were chosen by ::Shoegazer::{ user=2520707 }, ::lenpai::{ user=5314573 }, ::Pope Gadget::{ user=2288341 } and ::Toaph Daddy::{ user=7616811 }!
 
 ---
 
@@ -159,7 +159,7 @@ Surely it can't get any harder than this. Oh wait. Oh no.
 
 From everyone on the Project Loved team, we hope you enjoyed this week's selection, and are looking forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
-In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Noffy::{ user=1541323 }, [huu](https://osu.ppy.sh/users/6044237) and ::Ephemeral::{ user=102335 } for their miscellaneous help in managing Project Loved.
+In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Noffy::{ user=1541323 }, ::huu::{ user=6044237 } and ::Ephemeral::{ user=102335 } for their miscellaneous help in managing Project Loved.
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! You can view the current submissions on the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0). For osu!mania, please use [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSeaGfoQNGMqw4qQcqRPItUZILh2fGwJR6ly6cZNY9OWPXkFhw/viewform) and [this Google sheet](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit) instead.
 

@@ -149,7 +149,7 @@ Another newer face to the osu! mode scene, osu!mania savant and established osu!
     </audio>
 </div>
 
-Of course we cannot forget to round things off with our very own original Grand Finals tiebreaker. [sugosugiii](https://osu.ppy.sh/beatmaps/artists/442) makes her second appearance of the tournament with this insane 6-minute solo project of [Zyphorath Quixalune](https://osu.ppy.sh/beatmapsets/2337098#osu/5017830). Already established as THE tiebreaker mapper duo, ::9ami::{ user=1499997 } and [oTwinkle](https://osu.ppy.sh/users/15095654) conjured this amazing final experience for South Korea and the United States to duke it out on as the very final map of the tournament!
+Of course we cannot forget to round things off with our very own original Grand Finals tiebreaker. [sugosugiii](https://osu.ppy.sh/beatmaps/artists/442) makes her second appearance of the tournament with this insane 6-minute solo project of [Zyphorath Quixalune](https://osu.ppy.sh/beatmapsets/2337098#osu/5017830). Already established as THE tiebreaker mapper duo, ::9ami::{ user=1499997 } and ::oTwinkle::{ user=15095654 } conjured this amazing final experience for South Korea and the United States to duke it out on as the very final map of the tournament!
 
 ## Interviews
 
@@ -250,7 +250,7 @@ How does it feel like nearly making it to the top of the podium with one of the 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10634348">EthantrixV3</a></p>
 
-NOT GONNA LIE! COMING UP ONLY A COUPLA BREAKS SHORT FROM WINNING KINDA SUCKS!!! But DAMN!!! Am I proud and happy to be able to make a deep run with the bros... If I had to choose my favorite team to lose with this has got to be top 3. I hope all of our players stick around because I had a lot of fun playing. Staying up late with ::Pezz::{ user=10651106 } and [Flameztear](https://osu.ppy.sh/users/13207763) every week playing the maps in multi was a hoot, even if we didn't like some of the maps.
+NOT GONNA LIE! COMING UP ONLY A COUPLA BREAKS SHORT FROM WINNING KINDA SUCKS!!! But DAMN!!! Am I proud and happy to be able to make a deep run with the bros... If I had to choose my favorite team to lose with this has got to be top 3. I hope all of our players stick around because I had a lot of fun playing. Staying up late with ::Pezz::{ user=10651106 } and ::Flameztear::{ user=13207763 } every week playing the maps in multi was a hoot, even if we didn't like some of the maps.
 
 The fact that it was my first ever world cup didn't faze me much in match. After coming heartbreakingly close to a few tournament wins over the past couple of years, I don't fear losing anymore. When I played in that second match, I wasn't thinking about doing better than any player on South Korea. The only thing I had my eyes on was collecting as many points as possible.
 
@@ -318,7 +318,7 @@ Behind the songs and beatmaps that people see, there are loads of work from othe
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/beatmaps/artists/442">sugosugiii</a></p>
 
-Huge shoutout to [SPEC](https://www.instagram.com/its_spec), [OsuMe65](https://osume65.crd.co), and [Kappa_San](https://x.com/Kappa_San0623) for helping me make the background for *Zyphorath Quixalune* and *AZENINE* respectively. Another huge HUGE shoutout to ::Bazuso::{ user=11726139 }, [9ami](https://osu.ppy.sh/users/1499997), and ::oTwinkle::{ user=15095654 } for mapping cinema. I also want to give a shoutout to [SiLiS](https://osu.ppy.sh/beatmaps/artists/434) for the collaboration on *AZENINE* being a day one homie. I probably wouldn't be here without their involvement and I'm forever grateful. Lastly, outside of 3WC, I want to also give a shoutout to ::Phreel::{ user=12840110 } for being the first tournament host to give me an opportunity to create osu! originals.
+Huge shoutout to [SPEC](https://www.instagram.com/its_spec), [OsuMe65](https://osume65.crd.co), and [Kappa_San](https://x.com/Kappa_San0623) for helping me make the background for *Zyphorath Quixalune* and *AZENINE* respectively. Another huge HUGE shoutout to ::Bazuso::{ user=11726139 }, ::9ami::{ user=1499997 }, and ::oTwinkle::{ user=15095654 } for mapping cinema. I also want to give a shoutout to [SiLiS](https://osu.ppy.sh/beatmaps/artists/434) for the collaboration on *AZENINE* being a day one homie. I probably wouldn't be here without their involvement and I'm forever grateful. Lastly, outside of 3WC, I want to also give a shoutout to ::Phreel::{ user=12840110 } for being the first tournament host to give me an opportunity to create osu! originals.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10077264" style="background-image: url('/wiki/shared/avatars/nik.jpg')"></a>
 

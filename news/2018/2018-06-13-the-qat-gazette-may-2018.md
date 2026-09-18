@@ -39,9 +39,9 @@ This isn’t limited only to Beatmap Nominators though. Quality Assurance Team m
 Already, **46 outstanding members** in our community have received profile badges, and we only hope to see this number grow in the future!
 
 ### New Beatmap Nominator Promotions
-While the hustle and bustle of the last couple months would normally be a time to rest, there are always new modders looking to advance their own journey. This time around, we're being joined by seven new Nominator aspirants for osu!taiko, osu!catch, and osu!mania! Please give a warm welcome to ::Nifty::{ user=4956097 }, [Yumeno Himiko](https://osu.ppy.sh/users/1806962), ::Fii::{ user=3922569 }, [Lenfried-](https://osu.ppy.sh/users/5314573), ::Unpredictable::{ user=7560872 }, [\_Stan](https://osu.ppy.sh/users/1653229) and ::DoNotMess::{ user=1596318 }!
+While the hustle and bustle of the last couple months would normally be a time to rest, there are always new modders looking to advance their own journey. This time around, we're being joined by seven new Nominator aspirants for osu!taiko, osu!catch, and osu!mania! Please give a warm welcome to ::Nifty::{ user=4956097 }, ::Yumeno Himiko::{ user=1806962 }, ::Fii::{ user=3922569 }, ::Lenfried-::{ user=5314573 }, ::Unpredictable::{ user=7560872 }, ::\_Stan::{ user=1653229 } and ::DoNotMess::{ user=1596318 }!
 
-Also please welcome the return of two veterans: ::qoot8123::{ user=766371 } and [DE-CADE](https://osu.ppy.sh/users/3734394)!
+Also please welcome the return of two veterans: ::qoot8123::{ user=766371 } and ::DE-CADE::{ user=3734394 }!
 
 We’re running things with a bit more clarity this time too. Applicants should have received a PM regarding whether or not they passed the activity check and have moved onto the evaluation phase. Applicants are, of course, encouraged to double check their activity if they believe they met the minimum mod score threshold.
 
@@ -50,7 +50,7 @@ Beatmap Nominator applications for the **osu! game mode** will be heading your w
 ### Beatmap Nominator Retirements
 While applications are underway to welcome new members to the Beatmap Nominators, some of our hardworking members have departed to explore new horizons and pursue new opportunities. Please give thanks to the following for their contribution to the quality of the ranked section and accessibility to mappers:
 
-::Arrival::{ user=1694000 }, [Chromoxx](https://osu.ppy.sh/users/1881639), ::Chewin::{ user=617323 }, [dsco](https://osu.ppy.sh/users/4330511), ::frukoyurdakul::{ user=7612550 }, [juankristal](https://osu.ppy.sh/users/443656), ::Julie::{ user=2420987 },  [MBomb](https://osu.ppy.sh/users/3071175), ::Nwolf::{ user=1910766 } and [Weber](https://osu.ppy.sh/users/6410432).
+::Arrival::{ user=1694000 }, ::Chromoxx::{ user=1881639 }, ::Chewin::{ user=617323 }, ::dsco::{ user=4330511 }, ::frukoyurdakul::{ user=7612550 }, ::juankristal::{ user=443656 }, ::Julie::{ user=2420987 },  ::MBomb::{ user=3071175 }, ::Nwolf::{ user=1910766 } and ::Weber::{ user=6410432 }.
 
 ## Within the Quality Assurance Team
 by ::JBHyperion::{ user=4879508 }

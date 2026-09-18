@@ -19,7 +19,7 @@ After 5 months of hard work from creators and judges along with votes from thous
 
 ## Live stream showcase
 
-If text isn't your style, we live streamed a reveal of the contest results on [our Twitch channel](https://www.twitch.tv/videos/1000707526) the other day. Below, you can watch the top 8 entries alongside live chat reactions, quick interviews with the winners, and commentary from ::pishifat::{ user=3178418 }, [Ephemeral](https://osu.ppy.sh/users/102335) and ::Uberzolik::{ user=1314547 }:
+If text isn't your style, we live streamed a reveal of the contest results on [our Twitch channel](https://www.twitch.tv/videos/1000707526) the other day. Below, you can watch the top 8 entries alongside live chat reactions, quick interviews with the winners, and commentary from ::pishifat::{ user=3178418 }, ::Ephemeral::{ user=102335 } and ::Uberzolik::{ user=1314547 }:
 
 <iframe src="https://player.twitch.tv/?video=1000707526&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe>
 
@@ -33,7 +33,7 @@ Proving to the world that you don't need a crazy 7 star map to win the love of o
 
 ![Team Red but Blue results](/wiki/shared/news/2021-04-27-results-a-labour-of-love/community_vote.png)
 
-This mapset has everything you could possibly ask for: a 3-difficulty spread by ::Noffy::{ user=1541323 } / [Chompy](https://osu.ppy.sh/users/7427035) / ::Zer0-G::{ user=12577911 } calling back to the original *My Love* mapset, an iconic key visual designed by osu! fanart contest legend ::Tofumang::{ user=4817223 }, a stunning video fashioned by ::Noffy::{ user=1541323 }, and a universally appealing remix produced by ::Redside::{ user=16039046 } (with an extra vocaloid touch by ::Noffy::{ user=1541323 } once again)!
+This mapset has everything you could possibly ask for: a 3-difficulty spread by ::Noffy::{ user=1541323 } / ::Chompy::{ user=7427035 } / ::Zer0-G::{ user=12577911 } calling back to the original *My Love* mapset, an iconic key visual designed by osu! fanart contest legend ::Tofumang::{ user=4817223 }, a stunning video fashioned by ::Noffy::{ user=1541323 }, and a universally appealing remix produced by ::Redside::{ user=16039046 } (with an extra vocaloid touch by ::Noffy::{ user=1541323 } once again)!
 
 Each team member has been rewarded the community pick profile badge for their well-deserved win.
 
@@ -57,7 +57,7 @@ Team *schoolboy fans* takes the contest's theme of celebrating a classic beatmap
 
 ![Overall runner-up badge](/wiki/shared/news/2021-04-27-results-a-labour-of-love/runnerup.png)
 
-Nostalgia is the name of the game with this entry. Sporting a retro synthwave remix by ::Shadren::{ user=745494 }, a simply classic beatmap spread of Easy through Insane by ::Shmiklak::{ user=5504231 } / [Shadren](https://osu.ppy.sh/users/745494) / ::Daycore::{ user=5596337 } / [wajinshu](https://osu.ppy.sh/users/6339790), and an absolute masterpiece of a storyboard by Shmiklak, this submission brings you back to your cherished osu! memories from years past.
+Nostalgia is the name of the game with this entry. Sporting a retro synthwave remix by ::Shadren::{ user=745494 }, a simply classic beatmap spread of Easy through Insane by ::Shmiklak::{ user=5504231 } / ::Shadren::{ user=745494 } / ::Daycore::{ user=5596337 } / ::wajinshu::{ user=6339790 }, and an absolute masterpiece of a storyboard by Shmiklak, this submission brings you back to your cherished osu! memories from years past.
 
 While it may not have scored especially high from either the mapper or musician panels alone, factoring in the storyboard is what pushed this entry above the crowd. For creating their overall solid submission, everyone on team *schoolboy fans* received the overall runner-up profile badge!
 
@@ -73,7 +73,7 @@ Taking the breath away from mappers and musicians across the board, team *extrem
 
 Yep, that's right. This entry received #1 in the musician-focused panel, the mapping panel, and the overall panel. With just a few more votes they could've even taken the community vote — insane, right?
 
-This remix by ::Shinwoir::{ user=8984574 } (a.k.a. Raphlesia) and ::BilliumMoto::{ user=3862471 } is practically perfect for a rhythm game setting, and who would've expected less from a combo involving the last [osu! remix contest](https://osu.ppy.sh/community/contests/1) winner? ::Mao::{ user=2204515 } / [DeviousPanda](https://osu.ppy.sh/users/4966334) / ::Realazy::{ user=918297 } took full advantage of this perfect track too, crafting a 6-difficulty spread that appeals to players on every level with stellar performances from everyone involved. While this entry's storyboard was a bit lackluster compared to the other entries, this one clearly focused on the other aspects and managed to make it work anyway.
+This remix by ::Shinwoir::{ user=8984574 } (a.k.a. Raphlesia) and ::BilliumMoto::{ user=3862471 } is practically perfect for a rhythm game setting, and who would've expected less from a combo involving the last [osu! remix contest](https://osu.ppy.sh/community/contests/1) winner? ::Mao::{ user=2204515 } / ::DeviousPanda::{ user=4966334 } / ::Realazy::{ user=918297 } took full advantage of this perfect track too, crafting a 6-difficulty spread that appeals to players on every level with stellar performances from everyone involved. While this entry's storyboard was a bit lackluster compared to the other entries, this one clearly focused on the other aspects and managed to make it work anyway.
 
 Given their landslide of a win on the judging side of things, it's more than fitting to reward everyone on team *extremely valid* with the overall winner profile badge!
 
@@ -87,7 +87,7 @@ On top of this, each member of the team has earned a forum title to honour their
 - ::DeviousPanda::{ user=4966334 }: Elite Mapper
 - ::Realazy::{ user=918297 }: Elite Mapper
 
-Given ::BilliumMoto::{ user=3862471 } and [Mao](https://osu.ppy.sh/users/2204515) already earned these user titles from different contests, they've been granted the *II* suffix. Double congrats to them!
+Given ::BilliumMoto::{ user=3862471 } and ::Mao::{ user=2204515 } already earned these user titles from different contests, they've been granted the *II* suffix. Double congrats to them!
 
 ## Conclusion
 

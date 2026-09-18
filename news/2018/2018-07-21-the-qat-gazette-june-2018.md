@@ -37,7 +37,7 @@ Still different from the BN score of pre-2014 days, this will take into account 
 
 After three agonizing weeks of waiting, we're pleased to welcome nine new Beatmap Nominators to our big happy family of nearly one hundred members. Please give a warm welcome to the following people, whose friendly faces will be in the discussion threads of your favorite Qualified and Ranked beatmaps:
 
-::\1Stan::{ user=1653229 }, [DE-CADE](https://osu.ppy.sh/users/3734394), ::DoNotMess::{ user=1596318 }, [Fii](https://osu.ppy.sh/users/3922569), ::Lenfried-::{ user=5314573 }, [Nifty](https://osu.ppy.sh/users/4956097), ::qoot8123::{ user=766371 }, [Unpredictable](https://osu.ppy.sh/users/7560872) and ::Yumeno Himiko::{ user=1806962 }
+::\1Stan::{ user=1653229 }, ::DE-CADE::{ user=3734394 }, ::DoNotMess::{ user=1596318 }, ::Fii::{ user=3922569 }, ::Lenfried-::{ user=5314573 }, ::Nifty::{ user=4956097 }, ::qoot8123::{ user=766371 }, ::Unpredictable::{ user=7560872 } and ::Yumeno Himiko::{ user=1806962 }
 
 Many congratulations on becoming Beatmap Nominators, everyone – we hope you enjoy your time with us!
 
@@ -45,7 +45,7 @@ Many congratulations on becoming Beatmap Nominators, everyone – we hope you en
 
 As always though, some of our hard working members have departed the team to pursue other goals outside of the focus of the Beatmap Nominators. Please give thanks to the following for their hard work and contribution to the wonderful mapping and modding community:
 
-::AyanokoRin::{ user=5376866 }, [dsco](https://osu.ppy.sh/users/4330511), ::celerih::{ user=4696296 }, [frukoyurdakul](https://osu.ppy.sh/users/7612550), ::Hailie::{ user=5226970 } and [Kagetsu](https://osu.ppy.sh/users/6203841)
+::AyanokoRin::{ user=5376866 }, ::dsco::{ user=4330511 }, ::celerih::{ user=4696296 }, ::frukoyurdakul::{ user=7612550 }, ::Hailie::{ user=5226970 } and ::Kagetsu::{ user=6203841 }
 
 Their unique perspectives and courage to explore the frontiers of mapping have beaten a path for others to follow and expand. Thank you for your contributions and good luck wherever you go next.
 
@@ -83,7 +83,7 @@ On the osu! side of the coin, another new team member has arisen: ::Hobbes2::{ u
 
 While not a retirement exactly, the Quality Assurance Team underwent a bit of spring cleaning this month, where we evaluated the direction and focus we want to have as a team, specifically one that is geared mostly towards disqualifications and beatmap checking.
 
-As a result, ::Doyak::{ user=2046893 } and [Kurai](https://osu.ppy.sh/users/77089) have been moved over to the Global Moderation Team, which better aligns with their previously moderation-heavy duties within the QAT.
+As a result, ::Doyak::{ user=2046893 } and ::Kurai::{ user=77089 } have been moved over to the Global Moderation Team, which better aligns with their previously moderation-heavy duties within the QAT.
 
 Following a more traditional retirement, ::Kurokami::{ user=260933 } has left the team after a faithful 3 years of service, rightfully earning him the 3 Year Quality Assurance Team badge to adorn his profile page.
 

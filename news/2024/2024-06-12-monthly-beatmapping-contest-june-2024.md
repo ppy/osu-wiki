@@ -39,7 +39,7 @@ This article is LONG, so we've split it up into a few sections:
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/V6XoFime8Z4" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Send some appreciation to ::arcpotato::{ user=12842392 }, [meiqth](https://osu.ppy.sh/users/12565402), ::Yasuho::{ user=8458835 }, and [Greenshell](https://osu.ppy.sh/users/8693851) for judging!
+Send some appreciation to ::arcpotato::{ user=12842392 }, ::meiqth::{ user=12565402 }, ::Yasuho::{ user=8458835 }, and ::Greenshell::{ user=8693851 } for judging!
 
 ### osu!catch results
 
@@ -64,7 +64,7 @@ Today, that streak of silence is broken.
 
 ::Unlucky\1w::{ user=4820793 } accomplished an incredible feat: **placing 1st in *three contests* in a row!** welcome osu!catch's newest *Elite Mapper*!
 
-And thanks to ::Morusya::{ user=13681464 }, [wwwww](https://osu.ppy.sh/users/8434466), ::fayew::{ user=12498861 }, and [Mniam](https://osu.ppy.sh/users/6050530) for judging these maps!
+And thanks to ::Morusya::{ user=13681464 }, ::wwwww::{ user=8434466 }, ::fayew::{ user=12498861 }, and ::Mniam::{ user=6050530 } for judging these maps!
 
 ## Game modes
 

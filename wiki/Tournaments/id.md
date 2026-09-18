@@ -431,9 +431,9 @@ Berikut merupakan berbagai turnamen/kompetisi tidak resmi yang diselenggarakan o
 
 | Nama | Mulai | Selesai | ![Mahkota Emas][GCrown] | ![Mahkota Perak][SCrown] | ![Mahkota Perunggu][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [16 player battle royale](The_Roundtable/16_player_battle_royale) | 2022-07-08 | 2022-07-08 | ::mrekk::{ user=7562902 } | [im_a_fancy_lad](https://osu.ppy.sh/users/4908650) | ::Utami::{ user=7512553 } & [RyuK](https://osu.ppy.sh/users/6304246) |
+| [16 player battle royale](The_Roundtable/16_player_battle_royale) | 2022-07-08 | 2022-07-08 | ::mrekk::{ user=7562902 } | ::im\1a\1fancy\1lad::{ user=4908650 } | ::Utami::{ user=7512553 } & ::RyuK::{ user=6304246 } |
 | [2v2 team tandem tournament](The_Roundtable/2v2_team_tandem_tournament) | 2022-07-09 | 2022-07-09 | No Stamina | Plasma Gunners | Eggward |
-| [1v1 double elimination](The_Roundtable/1v1_double_elimination) | 2022-07-09 | 2022-07-10 | ::Utami::{ user=7512553 } | [mrekk](https://osu.ppy.sh/users/7562902) | ::im\1a\1fancy\1lad::{ user=4908650 } |
+| [1v1 double elimination](The_Roundtable/1v1_double_elimination) | 2022-07-09 | 2022-07-10 | ::Utami::{ user=7512553 } | ::mrekk::{ user=7562902 } | ::im\1a\1fancy\1lad::{ user=4908650 } |
 
 #### UK Community Cup
 
@@ -460,7 +460,7 @@ Berikut merupakan berbagai turnamen/kompetisi tidak resmi yang diselenggarakan o
 | Ulat Bulu Cup 2019 | 2019-07-26 | 2019-08-31 | Jidank Hamil | Susu Vanilla Cimory | Budak Cygames |
 | [Ulat Bulu Cup 2020](UCUP/2020) | 2020-06-02 | 2020-07-12 | awan fanclub | Press 3 Fs to pay respects | terserah |
 | [Ulat Cup 2021](UCUP/2021) | 2021-09-13 | 2021-10-31 | Rushia | Surtr S3 | L9 Hamster |
-| [Ulat Cup 2022](UCUP/2022) | 2021-09-13 | 2021-10-31 | ::{ flag=TH }:: ::chests::{ user=14806365 } | ::{ flag=ID }:: ::BlankTap::{ user=10137131 } | [LouisZpro](https://osu.ppy.sh/users/6231292) |
+| [Ulat Cup 2022](UCUP/2022) | 2021-09-13 | 2021-10-31 | ::{ flag=TH }:: ::chests::{ user=14806365 } | ::{ flag=ID }:: ::BlankTap::{ user=10137131 } | ::LouisZpro::{ user=6231292 } |
 
 #### Vin-Tana Solo Showdown
 
@@ -656,7 +656,7 @@ Berikut merupakan berbagai turnamen/kompetisi tidak resmi yang diselenggarakan o
 | [Catch the Beat Indonesia Cup 2020](CIC/2020) | 2020-07-10 | 2020-09-06 | ::{ flag=ID }:: ::Netamaru::{ user=1830361 } | ::{ flag=ID }:: ::dika312::{ user=741613 } | ::{ flag=ID }:: ::Galaxi::{ user=2552435 } |
 | [Catch the Beat Indonesia Cup 2021](CIC/2021) | 2021-06-01 | 2021-08-01 | ::{ flag=ID }:: ::Dika312::{ user=741613 } | ::{ flag=ID }:: ::CamXDanna::{ user=3243148 } | ::{ flag=ID }:: ::Nekuro::{ user=3222638 } |
 | [Catch the Beat Indonesia Cup 2022](CIC/2022) | 2022-03-04 | 2022-04-10 | ::{ flag=ID }:: ::Dika312::{ user=741613 } | ::{ flag=ID }:: ::Netamaru::{ user=1830361 } | ::{ flag=ID }:: ::Chroneko::{ user=5472877 } |
-| [Catch the Beat Indonesia Cup 2023](CIC/2023) | 2023-07-15 | 2023-08-27 | ::{ flag=ID }:: ::EpanPan::{ user=13194580 } | ::{ flag=TH }:: [EzyS](https://osu.ppy.sh/users/EzyS) | ::{ flag=ID }:: ::Keita::{ user=3355617 } |
+| [Catch the Beat Indonesia Cup 2023](CIC/2023) | 2023-07-15 | 2023-08-27 | ::{ flag=ID }:: ::EpanPan::{ user=13194580 } | ::{ flag=TH }:: ::EzyS::{ user=16271283 } | ::{ flag=ID }:: ::Keita::{ user=3355617 } |
 
 #### Indonesia Convert Cup
 

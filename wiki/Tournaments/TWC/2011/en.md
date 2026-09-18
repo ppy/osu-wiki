@@ -51,23 +51,23 @@ The Taiko World Cup 2011 was run by various community members.
 
 |  | Team | Members |
 | :-: | :-: | :-- |
-| ::{ flag=BR }:: ::{ flag=CL }:: | **Brazil-Chile** | **::Hyguys::{ user=362851 }**, [Kurisuchianu](https://osu.ppy.sh/users/194345), ::Foster Don::{ user=144464 }, [JhowM](https://osu.ppy.sh/users/599290) |
-| ::{ flag=CN }:: | **China** | **::Yowane \_ Haku::{ user=255267 }**, [yukey](https://osu.ppy.sh/users/81972), ::sagelord::{ user=56200 }, [small-qiang](https://osu.ppy.sh/users/619179) |
-| ::{ flag=FI }:: | **Finland** | **::XZero94::{ user=391366 }**, [LunaticMara](https://osu.ppy.sh/users/194294), ::Orkel::{ user=39385 }, [Pallero](https://osu.ppy.sh/users/7381) |
-| ::{ flag=FR }:: | **France** | ::\_Gezo\_::{ user=481582 }, [omegaflo](https://osu.ppy.sh/users/83291), ::Dagonpater::{ user=205257 }, [Didou](https://osu.ppy.sh/users/594822) |
-| ::{ flag=DE }:: | **Germany A** | **::OnosakiHito::{ user=290128 }**, [DarkDunskin](https://osu.ppy.sh/users/98985), ::RockeDon::{ user=624957 }, [Trashy](https://osu.ppy.sh/users/55191) |
-| ::{ flag=DE }:: | **Germany B** | **::BrokenArrow1::{ user=384034 }**, [Zeitgeist](https://osu.ppy.sh/users/227765), ::Der\_Locher::{ user=587835 }, [bennius](https://osu.ppy.sh/users/3129206) |
-| ::{ flag=HK }:: | **Hong Kong** | **::aabc271::{ user=155707 }**, [XeBi320](https://osu.ppy.sh/users/342622), ::KanaRin::{ user=310747 }, [Kanpakyin](https://osu.ppy.sh/users/394326) |
-| ::{ flag=IT }:: ::{ flag=NL }:: | **Italy-Netherlands** | **::NeoRainier::{ user=326049 }**, [Pheon](https://osu.ppy.sh/users/292295), ::Lokamp::{ user=63671 }, [Henkie](https://osu.ppy.sh/users/16944) |
-| ::{ flag=JP }:: | **Japan** | **::inaba9510::{ user=477744 }**, [TTTL](https://osu.ppy.sh/users/164583), ::aruru1234::{ user=228812 }, [03123456789](https://osu.ppy.sh/users/295488) |
-| ::{ flag=KR }:: | **Korea A** | **::KRZY::{ user=114017 }**, [BloodyLove](https://osu.ppy.sh/users/139827), ::Remilia-Scarlet::{ user=602783 }, [\[Shalon\]](https://osu.ppy.sh/users/317802) |
-| ::{ flag=KR }:: | **Korea B** | **::samiljul::{ user=156215 }**, [Nyan](https://osu.ppy.sh/users/36102), ::kds7769::{ user=257977 }, [Kim Jin Seok](https://osu.ppy.sh/users/58034) |
-| ::{ flag=MY }:: | **Malaysia** | **::HeatKai::{ user=332555 }**, [mekadon](https://osu.ppy.sh/users/157835), ::ffyong::{ user=168154 }, [taiko_maniac1811](https://osu.ppy.sh/users/595764) |
-| ::{ flag=PL }:: | **Poland** | **::1miko1::{ user=95690 }**, [rEdo](https://osu.ppy.sh/users/49329), ::Acrith::{ user=389880 }, [Niko-](https://osu.ppy.sh/users/175141) |
-| ::{ flag=PH }:: | **Philippines** | **::blacksymbian::{ user=53956 }**, [Zekira](https://osu.ppy.sh/users/36749), ::caelumangelus::{ user=710623 }, [\[Zero\_One\]](https://osu.ppy.sh/users/347574) |
-| ::{ flag=TW }:: | **Taiwan** | **::Numbers 596108::{ user=194653 }**, [TW-KUMA01](https://osu.ppy.sh/users/244499), ::ISHIDAMITSUNARI::{ user=242910 }, [zx0502442](https://osu.ppy.sh/users/457766) |
-| ::{ flag=GB }:: | **United Kingdom** | **::Rokodo::{ user=23374 }**, [Sander-Don](https://osu.ppy.sh/users/284307), ::MMzz::{ user=128993 }, [Nazo](https://osu.ppy.sh/users/55106) |
-| ::{ flag=US }:: | **United States** | **::OzzyOzrock::{ user=465153 }**, [KYOUI](https://osu.ppy.sh/users/460978), ::Backfire::{ user=263110 }, [anongos](https://osu.ppy.sh/users/7135) |
+| ::{ flag=BR }:: ::{ flag=CL }:: | **Brazil-Chile** | **::Hyguys::{ user=362851 }**, ::Kurisuchianu::{ user=194345 }, ::Foster Don::{ user=144464 }, ::JhowM::{ user=599290 } |
+| ::{ flag=CN }:: | **China** | **::Yowane \_ Haku::{ user=255267 }**, ::yukey::{ user=81972 }, ::sagelord::{ user=56200 }, ::small-qiang::{ user=619179 } |
+| ::{ flag=FI }:: | **Finland** | **::XZero94::{ user=391366 }**, ::LunaticMara::{ user=194294 }, ::Orkel::{ user=39385 }, ::Pallero::{ user=7381 } |
+| ::{ flag=FR }:: | **France** | ::\_Gezo\_::{ user=481582 }, ::omegaflo::{ user=83291 }, ::Dagonpater::{ user=205257 }, ::Didou::{ user=594822 } |
+| ::{ flag=DE }:: | **Germany A** | **::OnosakiHito::{ user=290128 }**, ::DarkDunskin::{ user=98985 }, ::RockeDon::{ user=624957 }, ::Trashy::{ user=55191 } |
+| ::{ flag=DE }:: | **Germany B** | **::BrokenArrow1::{ user=384034 }**, ::Zeitgeist::{ user=227765 }, ::Der\_Locher::{ user=587835 }, ::bennius::{ user=3129206 } |
+| ::{ flag=HK }:: | **Hong Kong** | **::aabc271::{ user=155707 }**, ::XeBi320::{ user=342622 }, ::KanaRin::{ user=310747 }, ::Kanpakyin::{ user=394326 } |
+| ::{ flag=IT }:: ::{ flag=NL }:: | **Italy-Netherlands** | **::NeoRainier::{ user=326049 }**, ::Pheon::{ user=292295 }, ::Lokamp::{ user=63671 }, ::Henkie::{ user=16944 } |
+| ::{ flag=JP }:: | **Japan** | **::inaba9510::{ user=477744 }**, ::TTTL::{ user=164583 }, ::aruru1234::{ user=228812 }, ::03123456789::{ user=295488 } |
+| ::{ flag=KR }:: | **Korea A** | **::KRZY::{ user=114017 }**, ::BloodyLove::{ user=139827 }, ::Remilia-Scarlet::{ user=602783 }, ::\[Shalon\]::{ user=317802 } |
+| ::{ flag=KR }:: | **Korea B** | **::samiljul::{ user=156215 }**, ::Nyan::{ user=36102 }, ::kds7769::{ user=257977 }, ::Kim Jin Seok::{ user=58034 } |
+| ::{ flag=MY }:: | **Malaysia** | **::HeatKai::{ user=332555 }**, ::mekadon::{ user=157835 }, ::ffyong::{ user=168154 }, ::taiko\1maniac1811::{ user=595764 } |
+| ::{ flag=PL }:: | **Poland** | **::1miko1::{ user=95690 }**, ::rEdo::{ user=49329 }, ::Acrith::{ user=389880 }, ::Niko-::{ user=175141 } |
+| ::{ flag=PH }:: | **Philippines** | **::blacksymbian::{ user=53956 }**, ::Zekira::{ user=36749 }, ::caelumangelus::{ user=710623 }, ::\[Zero\_One\]::{ user=347574 } |
+| ::{ flag=TW }:: | **Taiwan** | **::Numbers 596108::{ user=194653 }**, ::TW-KUMA01::{ user=244499 }, ::ISHIDAMITSUNARI::{ user=242910 }, ::zx0502442::{ user=457766 } |
+| ::{ flag=GB }:: | **United Kingdom** | **::Rokodo::{ user=23374 }**, ::Sander-Don::{ user=284307 }, ::MMzz::{ user=128993 }, ::Nazo::{ user=55106 } |
+| ::{ flag=US }:: | **United States** | **::OzzyOzrock::{ user=465153 }**, ::KYOUI::{ user=460978 }, ::Backfire::{ user=263110 }, ::anongos::{ user=7135 } |
 
 ## Groups
 

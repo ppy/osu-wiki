@@ -72,6 +72,6 @@ The problem with this kind of flow is the inconsistent feeling it gives. Back-an
 
 There is no easy fix for this. It requires a rework of the pattern to try to lead more naturally into the slider, or change its direction.
 
-Article by [Shiro](https://osu.ppy.sh/users/Shiro) Credit goes to [Charles445](https://osu.ppy.sh/users/Charles445) for the diagram idea (from his post about flow).
+Article by ::Shiro::{ user=113005 } Credit goes to ::Charles445::{ user=85000 } for the diagram idea (from his post about flow).
 
 —Shiro

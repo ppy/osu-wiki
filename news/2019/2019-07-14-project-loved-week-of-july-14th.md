@@ -24,7 +24,7 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ## osu!standard
 
-osu!standard Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, [-Roxas](https://osu.ppy.sh/users/1986262), ::BeasttrollMC::{ user=3171691 }, [Bubbleman](https://osu.ppy.sh/users/5182050), ::fartownik::{ user=56917 } and [waywern2012](https://osu.ppy.sh/users/5870453)!
+osu!standard Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, ::-Roxas::{ user=1986262 }, ::BeasttrollMC::{ user=3171691 }, ::Bubbleman::{ user=5182050 }, ::fartownik::{ user=56917 } and ::waywern2012::{ user=5870453 }!
 
 ---
 
@@ -54,7 +54,7 @@ Zaiten's high 6 star map of *Frozen One* is filled with all sorts of unorthodox 
 
 [![](/wiki/shared/news/2019-07-14-project-loved-week-of-july-14th/osu/4-lost-in-time.jpg)](https://osu.ppy.sh/community/forums/topics/934343)
 
-[Extra Terra & Urbanstep - Lost In Time](https://osu.ppy.sh/beatmapsets/429241#osu) by ::NazuSan::{ user=5410004 }, [DeRandom Otaku](https://osu.ppy.sh/users/5156153) and ::6th::{ user=5334250 }\
+[Extra Terra & Urbanstep - Lost In Time](https://osu.ppy.sh/beatmapsets/429241#osu) by ::NazuSan::{ user=5410004 }, ::DeRandom Otaku::{ user=5156153 } and ::6th::{ user=5334250 }\
 150 BPM, 4:12 | 1.81★ – 5.43★\
 *description written by ::DigitalHypno::{ user=4384207 }*
 
@@ -102,7 +102,7 @@ Once in a while comes a map that shakes up the whole osu! community from within.
 
 [![](/wiki/shared/news/2019-07-14-project-loved-week-of-july-14th/osu/10-tori-no-uta.jpg)](https://osu.ppy.sh/community/forums/topics/934337)
 
-[Lia - Tori no Uta](https://osu.ppy.sh/beatmapsets/421467#osu) by ::OK\1oreGENKI::{ user=2444995 }, [Anmiy](https://osu.ppy.sh/users/1014222) and ::Arieruco::{ user=1811271 }\
+[Lia - Tori no Uta](https://osu.ppy.sh/beatmapsets/421467#osu) by ::OK\1oreGENKI::{ user=2444995 }, ::Anmiy::{ user=1014222 } and ::Arieruco::{ user=1811271 }\
 122 BPM, 5:36 | 5.34★\
 *description written by ::fartownik::{ user=56917 }*
 
@@ -110,7 +110,7 @@ Tori no Uta is a single difficulty collaboration from three prominent japanese m
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [iceOC](https://osu.ppy.sh/users/5482401), ::jyake::{ user=9099822 } and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
+osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::iceOC::{ user=5482401 }, ::jyake::{ user=9099822 } and ::nyanmi-1828::{ user=6866480 }!
 
 ---
 
@@ -153,7 +153,7 @@ The bouncy rhythms that the patterns put together using 1/8 dk have will elegant
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Tenshichan::{ user=1101600 }, [Sartan](https://osu.ppy.sh/users/4100941), ::Wesley::{ user=2407265 } and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
+osu!catch Loved candidates were chosen by ::Tenshichan::{ user=1101600 }, ::Sartan::{ user=4100941 }, ::Wesley::{ user=2407265 } and ::Yumeno Himiko::{ user=1806962 }!
 
 ---
 
@@ -175,7 +175,7 @@ Despite this set being relatively young compared to some of our other picks, it 
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::Shoegazer::{ user=2520707 }, [Lenfried-](https://osu.ppy.sh/users/5314573), ::Pope Gadget::{ user=2288341 } and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
+osu!mania Loved candidates were chosen by ::Shoegazer::{ user=2520707 }, ::Lenfried-::{ user=5314573 }, ::Pope Gadget::{ user=2288341 } and ::Toaph Daddy::{ user=7616811 }!
 
 ---
 
@@ -199,7 +199,7 @@ Looking or playing through the chart, it's hard not to see why: Gekido's tactful
 
 [![](/wiki/shared/news/2019-07-14-project-loved-week-of-july-14th/mania/3-sakurairo-time-capsule.jpg)](https://osu.ppy.sh/community/forums/topics/934325)
 
-[\*namirin - Sakurairo Time Capsule](https://osu.ppy.sh/beatmapsets/831039#mania) by ::MisterLuka::{ user=6117525 }, [eZmmR](https://osu.ppy.sh/users/8647138), ::upan::{ user=4289829 } and [kaythen](https://osu.ppy.sh/users/5782153)\
+[\*namirin - Sakurairo Time Capsule](https://osu.ppy.sh/beatmapsets/831039#mania) by ::MisterLuka::{ user=6117525 }, ::eZmmR::{ user=8647138 }, ::upan::{ user=4289829 } and ::kaythen::{ user=5782153 }\
 170 BPM, 4:20 | \[4K\] 6.35★, \[7K\] 4.25★, \[7K\] 8.22★
 
 After a very successful round with Ame to Asphalt, MisterLuka returns to Project Loved with another set to look out for! This round, we have *Sakurairo Time Capsule* which follows the usual 4K + 7K O2LN combination but with the aid of another 7K difficulty by kaythen.
@@ -212,7 +212,7 @@ With LNs now becoming commonplace in Project Loved, the main difficulties don't 
 
 From everyone on the Project Loved team, we hope you enjoyed this week's selection, and are looking forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
-In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Noffy::{ user=1541323 }, [huu](https://osu.ppy.sh/users/6044237) and ::Ephemeral::{ user=102335 } for their miscellaneous help in managing Project Loved.
+In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Noffy::{ user=1541323 }, ::huu::{ user=6044237 } and ::Ephemeral::{ user=102335 } for their miscellaneous help in managing Project Loved.
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! You can view the current submissions on the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0). For osu!mania, please use [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSeaGfoQNGMqw4qQcqRPItUZILh2fGwJR6ly6cZNY9OWPXkFhw/viewform) and [this Google sheet](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit) instead.
 

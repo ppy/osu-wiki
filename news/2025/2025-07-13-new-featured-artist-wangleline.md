@@ -17,7 +17,7 @@ That track (along with **22** others!) can be found on [**WangleLine**'s Feature
 
 ### [WangleLine - Goodbye to Your Vicious Cycles](https://assets.ppy.sh/artists/427/Songs/WangleLine_-_Goodbye_to_Your_Vicious_Cycles.osz)
 
-Try [the World Cup map](https://osu.ppy.sh/beatmapsets/2402735) mapped by ::Phob::{ user=6069462 } and [wwwww](https://osu.ppy.sh/users/8434466) for yourself!
+Try [the World Cup map](https://osu.ppy.sh/beatmapsets/2402735) mapped by ::Phob::{ user=6069462 } and ::wwwww::{ user=8434466 } for yourself!
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/07w1fKh2OSw" frameborder="0" allowfullscreen></iframe>

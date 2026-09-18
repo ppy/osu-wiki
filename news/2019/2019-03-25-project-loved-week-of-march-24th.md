@@ -22,7 +22,7 @@ In case you don't read the end of this post, be sure to submit suggestions for b
 
 ## osu!
 
-osu! Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, [-Roxas](https://osu.ppy.sh/users/1986262), ::BeasttrollMC::{ user=3171691 }, [Bubbleman](https://osu.ppy.sh/users/5182050) and ::waywern2012::{ user=5870453 }!
+osu! Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, ::-Roxas::{ user=1986262 }, ::BeasttrollMC::{ user=3171691 }, ::Bubbleman::{ user=5182050 } and ::waywern2012::{ user=5870453 }!
 
 ---
 
@@ -36,7 +36,7 @@ RLC is a name solidified in history, especially after the success of his map for
 
 [![](/wiki/shared/news/2019-03-25-project-loved-week-of-march-24th/osu/chiisana-koi-no-uta-synth-rock-cover.jpg)](https://osu.ppy.sh/community/forums/topics/885975)
 
-[Araki - Chiisana Koi no Uta (Synth Rock Cover)](https://osu.ppy.sh/beatmapsets/613207#osu) by ::Shishou::{ user=5249692 } and [RVMathew](https://osu.ppy.sh/users/3718151)\
+[Araki - Chiisana Koi no Uta (Synth Rock Cover)](https://osu.ppy.sh/beatmapsets/613207#osu) by ::Shishou::{ user=5249692 } and ::RVMathew::{ user=3718151 }\
 220 BPM, 3:42 | 1.41★ – 8.31★\
 *written by ::BeasttrollMC::{ user=3171691 }*
 
@@ -100,7 +100,7 @@ Midge, in my opinion, is one of the most criminally ignored mappers within osu!,
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [iceOC](https://osu.ppy.sh/users/5482401), ::jyake::{ user=9099822 } and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
+osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::iceOC::{ user=5482401 }, ::jyake::{ user=9099822 } and ::nyanmi-1828::{ user=6866480 }!
 
 ---
 
@@ -138,7 +138,7 @@ Congratulations to komasy for #1 in Taiko Japanese Beatmap Contest #10! This exc
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, [Ascendance](https://osu.ppy.sh/users/2931883), ::Tenshichan::{ user=1101600 } and [Wesley](https://osu.ppy.sh/users/2407265)!
+osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, ::Ascendance::{ user=2931883 }, ::Tenshichan::{ user=1101600 } and ::Wesley::{ user=2407265 }!
 
 ---
 
@@ -160,7 +160,7 @@ Badis is known for being a mapper with a somewhat unconventional mapping style, 
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::Shoegazer::{ user=2520707 }, [Lenfried-](https://osu.ppy.sh/users/5314573), ::Pope Gadget::{ user=2288341 } and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
+osu!mania Loved candidates were chosen by ::Shoegazer::{ user=2520707 }, ::Lenfried-::{ user=5314573 }, ::Pope Gadget::{ user=2288341 } and ::Toaph Daddy::{ user=7616811 }!
 
 ---
 
@@ -193,7 +193,7 @@ The main point is this: the chart overall is very detailed and dynamic, and the 
 
 [![](/wiki/shared/news/2019-03-25-project-loved-week-of-march-24th/mania/back-to-the-gate.jpg)](https://osu.ppy.sh/community/forums/topics/885954)
 
-[DJ Sharpnel - Back to the gate](https://osu.ppy.sh/beatmapsets/305124#mania) by ::pporse::{ user=4991434 } and [bbu2](https://osu.ppy.sh/users/4307930)\
+[DJ Sharpnel - Back to the gate](https://osu.ppy.sh/beatmapsets/305124#mania) by ::pporse::{ user=4991434 } and ::bbu2::{ user=4307930 }\
 191 BPM, 5:19 | 7K 6.12★
 
 Primarily known for its appearance in the Semifinals in the osu!mania 7K World Cup 2016 and as a major stepping stone to chordstreaming and stamina practice, Back to the gate is one of pporse's more well known and loved map overall.
@@ -211,7 +211,7 @@ We have a new face for Project Loved and that would be Fiea and their map, Endle
 
 From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
-In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Toy::{ user=2757689 }, [Noffy](https://osu.ppy.sh/users/1541323), ::ThatsNotAName::{ user=9682904 }, [huu](https://osu.ppy.sh/users/6044237) and ::Ephemeral::{ user=102335 } for their miscellaneous help in managing Project Loved.
+In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Toy::{ user=2757689 }, ::Noffy::{ user=1541323 }, ::ThatsNotAName::{ user=9682904 }, ::huu::{ user=6044237 } and ::Ephemeral::{ user=102335 } for their miscellaneous help in managing Project Loved.
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! You can view the current submissions on the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0). For osu!mania, please use [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSeaGfoQNGMqw4qQcqRPItUZILh2fGwJR6ly6cZNY9OWPXkFhw/viewform) and [this Google sheet](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit) instead.
 

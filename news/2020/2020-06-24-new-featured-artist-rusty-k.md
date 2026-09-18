@@ -9,7 +9,7 @@ We're proud to welcome **Rusty K** aboard as our newest Featured Artist!
 
 ![](https://assets.ppy.sh/artists/87/header.jpg)
 
-Spinning electronic music marvels since 2012, [**Rusty K**](https://osu.ppy.sh/beatmaps/artists/87) is a Russian producer most well known in osu! from ::Mir::{ user=8688812 } and [C00L](https://osu.ppy.sh/users/4930630)'s vanguard maps set to *All That We Lost*, *Dark Eyes* and *Last Of Us* back in 2017 focusing on the exploration of a then-emerging subgenre of 'technical' mapping.
+Spinning electronic music marvels since 2012, [**Rusty K**](https://osu.ppy.sh/beatmaps/artists/87) is a Russian producer most well known in osu! from ::Mir::{ user=8688812 } and ::C00L::{ user=4930630 }'s vanguard maps set to *All That We Lost*, *Dark Eyes* and *Last Of Us* back in 2017 focusing on the exploration of a then-emerging subgenre of 'technical' mapping.
 
 We're super excited to unveil a selection of **14** tracks, including the timeless classics listed above. We're hoping that this new collection inspires more mappers to pick up the torch and continue experimenting with style and sound.
 

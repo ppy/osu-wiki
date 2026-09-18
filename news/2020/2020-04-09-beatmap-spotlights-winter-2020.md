@@ -15,10 +15,10 @@ The beatmap charts for the Winter Spotlights can be found [here](https://osu.ppy
 
 First of all, congratulations to the winners of the Seasonal Spotlights: Autumn 2019. They will receive 3, 2, and 1 month of osu!supporter for 1st, 2nd, and 3rd place respectively for their efforts!
 
-- **osu!:** ::Arraxey::{ user=6752116 }, [Apraxia](https://osu.ppy.sh/users/4194445), and ::superCreper::{ user=9325507 }
-- **osu!taiko:** ::Gra::{ user=13852925 }, [Nishizumi](https://osu.ppy.sh/users/2496768), and ::A-40::{ user=14510301 }
-- **osu!catch:** ::rostld::{ user=4365562 }, [RAMPAGE88](https://osu.ppy.sh/users/448547), and ::Nelly::{ user=4741164 }
-- **osu!mania:** ::Cryolien::{ user=1626983 }, [DaMeMeThEiFxD](https://osu.ppy.sh/users/14324153), and ::tsusai::{ user=7637292 }
+- **osu!:** ::Arraxey::{ user=6752116 }, ::Apraxia::{ user=4194445 }, and ::superCreper::{ user=9325507 }
+- **osu!taiko:** ::Gra::{ user=13852925 }, ::Nishizumi::{ user=2496768 }, and ::A-40::{ user=14510301 }
+- **osu!catch:** ::rostld::{ user=4365562 }, ::RAMPAGE88::{ user=448547 }, and ::Nelly::{ user=4741164 }
+- **osu!mania:** ::Cryolien::{ user=1626983 }, ::DaMeMeThEiFxD::{ user=14324153 }, and ::tsusai::{ user=7637292 }
 
 ## Navigation
 
@@ -43,7 +43,7 @@ With such a well-crafted mapset, you should definitely try this out!
 
 [![](/wiki/shared/news/2020-04-09-beatmap-spotlights-winter-2020/osu/umineko.jpg)](https://osu.ppy.sh/beatmapsets/998836)
 
-Bringing back nostalgic memories, six "traditional" mappers - ::Leader::{ user=631530 }, [\-kevincela\-](https://osu.ppy.sh/users/266596), ::Mirash::{ user=2841009 }, [Okoratu](https://osu.ppy.sh/users/1623405), ::Rue::{ user=417551 } and [Nemis](https://osu.ppy.sh/users/1635091) - collaborated on an insanely amazing Umineko no Naku Koro ni project.
+Bringing back nostalgic memories, six "traditional" mappers - ::Leader::{ user=631530 }, ::\-kevincela\-::{ user=266596 }, ::Mirash::{ user=2841009 }, ::Okoratu::{ user=1623405 }, ::Rue::{ user=417551 } and ::Nemis::{ user=1635091 } - collaborated on an insanely amazing Umineko no Naku Koro ni project.
 
 It includes 8 remixed songs by zts - an old friend of us - and was brought up by La Cataline, another well-known name in our community. Leading by the beloved flow-based mapping style, nearly every pattern in this 30-minute long mapset maximizes the playability and readability by using intuitive flow techniques to create an unforgettable playing experience. Besides, even though 6 mappers included have different aesthetic choices, each of their styles combined with others surprisingly well while still stands out individually to give players consistent and frequent visual stimulations.
 
@@ -169,7 +169,7 @@ Slower parts of the song keep things interesting with varied rhythm and patterns
 
 [![](/wiki/shared/news/2020-04-09-beatmap-spotlights-winter-2020/catch/sweet.jpg)](https://osu.ppy.sh/beatmapsets/738169)
 
-::Sorcerer::{ user=1913190 } and [ZiRoX](https://osu.ppy.sh/users/200768) have something sweet to offer in this season's Spotlights!
+::Sorcerer::{ user=1913190 } and ::ZiRoX::{ user=200768 } have something sweet to offer in this season's Spotlights!
 
 Starting from the bottom we have Cup, Salad and Platter all made by Sorcerer, and they lead the player through the learning stages of the streams and jumps. Platter introduces Hyperjumps and even more advanced stream patterns.
 
@@ -201,7 +201,7 @@ It never gets boring, not even during the slower sections, in which the player m
 
 [![](/wiki/shared/news/2020-04-09-beatmap-spotlights-winter-2020/mania/every.jpg)](https://osu.ppy.sh/beatmapsets/905599)
 
-If you had to describe this map with one word, it'd be something along the lines of... Intricate. Detailed. Accurate. Clean. Recently we have seen a rise of mappers in osu!mania with this approach in mind, ::Monheim::{ user=6814203 } and [Vortex-](https://osu.ppy.sh/users/4999669) being well-known for their precision and accuracy in their maps.
+If you had to describe this map with one word, it'd be something along the lines of... Intricate. Detailed. Accurate. Clean. Recently we have seen a rise of mappers in osu!mania with this approach in mind, ::Monheim::{ user=6814203 } and ::Vortex-::{ user=4999669 } being well-known for their precision and accuracy in their maps.
 
 This map, in particular, accomplishes things that many mappers most likely would not be able to accomplish if they were to map this - it is musically accurate in that it expresses many instruments and melody lines at once, is delicate and clean to play, and provides a challenge for all sorts of players. These remain consistent through each difficulty of the mapset. This map thus deserves its spot in this season's spotlights, and be on the lookout - we most definitely will see more by these two extraordinarily talented mappers in the future.
 

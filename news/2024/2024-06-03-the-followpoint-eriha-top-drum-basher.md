@@ -77,15 +77,15 @@ Simply read on for a look into ::Eriha::{ user=16320311 }'s insight:
 
 *Who would you want to meet IRL the most if you could meet any osu! player and why?*
 
-> There are many players I would like to meet, but I would really like to meet ::Yuemiao::{ user=4493348 } and [hz404](https://osu.ppy.sh/users/14947043), who are irreplaceable for me!
+> There are many players I would like to meet, but I would really like to meet ::Yuemiao::{ user=4493348 } and ::hz404::{ user=14947043 }, who are irreplaceable for me!
 >
-> Also, I would like to meet ::Ney::{ user=5991961 } and [uone](https://osu.ppy.sh/users/5321719) who I respect for their playing style!
+> Also, I would like to meet ::Ney::{ user=5991961 } and ::uone::{ user=5321719 } who I respect for their playing style!
 
 *Do the communities of Taiko no Tatsujin and osu!taiko overlap in the pro player scene in Japan, and do arcade pro players play osu!taiko too?*
 
 > Although it cannot be said that good play in Taiko no Tatsujin is proportional to good play in osu!taiko, the top players in Taiko no Tatsujin are often the top players in osu!taiko!
 >
-> For example, players such as ::\1yu68::{ user=6170507 }, [1RoHa_](https://osu.ppy.sh/users/4632503), ::kotohira\106::{ user=22444525 }, and [supesan](https://osu.ppy.sh/users/14623658) are both top players in Taiko no Tatsujin and in osu!taiko!
+> For example, players such as ::\1yu68::{ user=6170507 }, ::1RoHa\1::{ user=4632503 }, ::kotohira\106::{ user=22444525 }, and ::supesan::{ user=14623658 } are both top players in Taiko no Tatsujin and in osu!taiko!
 
 *To finish things up, what does the future hold for you? Do you have any goals or anything else that you'd like to mention?*
 

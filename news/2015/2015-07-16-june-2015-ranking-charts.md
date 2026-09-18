@@ -8,7 +8,7 @@ series: beatmap_spotlights
 
 The Ranking Charts for June 2015 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH15006)!
 
-This month ::Kyubey::{ user=2195646 }, [Senritsu](https://osu.ppy.sh/users/1165368), ::Yami Shoujo::{ user=1978891 } and [Kuo Kyoka](https://osu.ppy.sh/users/2596306) picked the maps for the Monthly Ranking Charts.
+This month ::Kyubey::{ user=2195646 }, ::Senritsu::{ user=1165368 }, ::Yami Shoujo::{ user=1978891 } and ::Kuo Kyoka::{ user=2596306 } picked the maps for the Monthly Ranking Charts.
 
 ## Ranking Charts Creation
 

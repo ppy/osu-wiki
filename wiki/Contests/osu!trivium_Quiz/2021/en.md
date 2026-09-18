@@ -73,4 +73,4 @@ Below is a list of links to answers to each question. Clicking on any of them wi
 
 ## Ruleset
 
-- You cannot ask ::mangomizer::{ user=1893718 } or [peppy](https://osu.ppy.sh/users/2) for information, hints, or answers.
+- You cannot ask ::mangomizer::{ user=1893718 } or ::peppy::{ user=2 } for information, hints, or answers.

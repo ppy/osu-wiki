@@ -20,7 +20,7 @@ In case you aren't familiar, Project Loved hosts monthly votings to decide which
 
 ## osu!standard
 
-osu!standard Loved candidates were chosen by ::DigitalHypno::{ user=4384207 } and [fartownik](https://osu.ppy.sh/users/56917)!
+osu!standard Loved candidates were chosen by ::DigitalHypno::{ user=4384207 } and ::fartownik::{ user=56917 }!
 
 ---
 
@@ -42,7 +42,7 @@ This is a perfect example of a lightly technical map done right. With many diffe
 
 [![](/wiki/shared/news/2020-08-10-project-loved-august-2020/osu/3-your-voice-so-feat-such.jpg)](https://osu.ppy.sh/community/forums/topics/1122559)
 
-[PSYQUI - Your voice so... feat. Such](https://osu.ppy.sh/beatmapsets/745040#osu) by ::Hishiro Chizuru::{ user=8402897 } and [Ambrew](https://osu.ppy.sh/users/7803396)\
+[PSYQUI - Your voice so... feat. Such](https://osu.ppy.sh/beatmapsets/745040#osu) by ::Hishiro Chizuru::{ user=8402897 } and ::Ambrew::{ user=7803396 }\
 176 BPM, 3:59 | 5.72★\
 *description written by ::DigitalHypno::{ user=4384207 }*
 
@@ -58,7 +58,7 @@ A long-awaited classic finally makes an appearance! Mapped by Yusomi, this 5 min
 
 [![](/wiki/shared/news/2020-08-10-project-loved-august-2020/osu/5-toxic-vibration-extend-ver.jpg)](https://osu.ppy.sh/community/forums/topics/1122557)
 
-[SOUND HOLIC Vs. T.Kakuta feat. YURiCa - TOXIC VIBRATION (extend ver.)](https://osu.ppy.sh/beatmapsets/521184#osu) by ::Musty::{ user=251683 } and [SnowNiNo\_](https://osu.ppy.sh/users/2506267)\
+[SOUND HOLIC Vs. T.Kakuta feat. YURiCa - TOXIC VIBRATION (extend ver.)](https://osu.ppy.sh/beatmapsets/521184#osu) by ::Musty::{ user=251683 } and ::SnowNiNo\_::{ user=2506267 }\
 197 BPM, 4:11 | 6.43★, 7.03★\
 *description written by ::fartownik::{ user=56917 }*
 
@@ -66,7 +66,7 @@ Beware, delicious streams in near proximity, approach with utmost caution. *TOXI
 
 [![](/wiki/shared/news/2020-08-10-project-loved-august-2020/osu/6-zettai-ni-chocomint-o-taberu-aoi-chan.jpg)](https://osu.ppy.sh/community/forums/topics/1122556)
 
-[GYARI - Zettai ni Chocomint o Taberu Aoi-chan](https://osu.ppy.sh/beatmapsets/1038626#osu) by ::Rex1a::{ user=8078306 } and [Myon_331](https://osu.ppy.sh/users/7280745)\
+[GYARI - Zettai ni Chocomint o Taberu Aoi-chan](https://osu.ppy.sh/beatmapsets/1038626#osu) by ::Rex1a::{ user=8078306 } and ::Myon\1331::{ user=7280745 }\
 140 BPM, 5:17 | 5.35★\
 *description written by ::DigitalHypno::{ user=4384207 }*
 
@@ -74,7 +74,7 @@ There's a lot more to osu! than just grinding out the latest jump maps, and this
 
 [![](/wiki/shared/news/2020-08-10-project-loved-august-2020/osu/7-sink-to-the-deep-sea-world.jpg)](https://osu.ppy.sh/community/forums/topics/1122555)
 
-[Chroma - sink to the deep sea world](https://osu.ppy.sh/beatmapsets/779495#osu) by ::None1637::{ user=7184125 } and [quantumvortex](https://osu.ppy.sh/users/10660777)\
+[Chroma - sink to the deep sea world](https://osu.ppy.sh/beatmapsets/779495#osu) by ::None1637::{ user=7184125 } and ::quantumvortex::{ user=10660777 }\
 185 BPM, 3:59 | 7.34★, 7.67★, 8.86★, 8.86★, 8.86★\
 *description written by ::DigitalHypno::{ user=4384207 }*
 
@@ -90,7 +90,7 @@ Every once in a while, it's healthy to recount our favorite memories, and that's
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [nyanmi-1828](https://osu.ppy.sh/users/6866480) and ::Ulqui::{ user=1263669 }!
+osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::nyanmi-1828::{ user=6866480 } and ::Ulqui::{ user=1263669 }!
 
 ---
 
@@ -122,7 +122,7 @@ You've probably played a DukeDukeDura map in multiplayer before, and if not then
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, [Tenshichan](https://osu.ppy.sh/users/1101600), ::Wesley::{ user=2407265 } and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
+osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, ::Tenshichan::{ user=1101600 }, ::Wesley::{ user=2407265 } and ::Yumeno Himiko::{ user=1806962 }!
 
 ---
 
@@ -136,7 +136,7 @@ Kuzino, probably one of the most known mappers from way back in the osu!catch co
 
 [![](/wiki/shared/news/2020-08-10-project-loved-august-2020/catch/2-ninelie-redshift-x-vesuvia-remix.jpg)](https://osu.ppy.sh/community/forums/topics/1122546)
 
-[Aimer with chelly (EGOIST) - ninelie (REDSHiFT x Vesuvia Remix)](https://osu.ppy.sh/beatmapsets/657095#fruits) by ::-Luminate::{ user=4778689 } and [Benita](https://osu.ppy.sh/users/4023183)\
+[Aimer with chelly (EGOIST) - ninelie (REDSHiFT x Vesuvia Remix)](https://osu.ppy.sh/beatmapsets/657095#fruits) by ::-Luminate::{ user=4778689 } and ::Benita::{ user=4023183 }\
 178 BPM, 3:56 | 1.75★ – 5.27★\
 *description written by ::Sartan::{ user=4100941 }*
 
@@ -152,7 +152,7 @@ If you are a player that has been around for a really long time, then there is n
 
 [![](/wiki/shared/news/2020-08-10-project-loved-august-2020/catch/4-trickl4sh-220.jpg)](https://osu.ppy.sh/community/forums/topics/1122544)
 
-[Lite Show Magic - TRICKL4SH 220](https://osu.ppy.sh/beatmapsets/616487#fruits) by ::Minato Yukina::{ user=531253 }, [Kyuare](https://osu.ppy.sh/users/2705312) and ::Razor Sharp::{ user=3414261 }\
+[Lite Show Magic - TRICKL4SH 220](https://osu.ppy.sh/beatmapsets/616487#fruits) by ::Minato Yukina::{ user=531253 }, ::Kyuare::{ user=2705312 } and ::Razor Sharp::{ user=3414261 }\
 220 BPM, 1:51 | 1.15★, 4.65★, 5.80★, 6.78★\
 *description written by ::Yumeno Himiko::{ user=1806962 }*
 
@@ -160,7 +160,7 @@ It's time to welcome another good map from mapper Minato Yukina. *Little Show Ma
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::-mint-::{ user=8976576 }, [Abraxos](https://osu.ppy.sh/users/5025064), ::lenpai::{ user=5314573 }, [Pope Gadget](https://osu.ppy.sh/users/2288341) and ::Toaph Daddy::{ user=7616811 }!
+osu!mania Loved candidates were chosen by ::-mint-::{ user=8976576 }, ::Abraxos::{ user=5025064 }, ::lenpai::{ user=5314573 }, ::Pope Gadget::{ user=2288341 } and ::Toaph Daddy::{ user=7616811 }!
 
 ---
 
@@ -194,14 +194,14 @@ It's an anime Gekido- map, what more could you ask for? Accompanied with lively 
 
 [![](/wiki/shared/news/2020-08-10-project-loved-august-2020/mania/5-kan-saete-kuyashiiwa.jpg)](https://osu.ppy.sh/community/forums/topics/1122538)
 
-[ZUTOMAYO - Kan Saete Kuyashiiwa](https://osu.ppy.sh/beatmapsets/1143323#mania) by ::ruka::{ user=6117525 } and [quicalid4](https://osu.ppy.sh/users/6172698)\
+[ZUTOMAYO - Kan Saete Kuyashiiwa](https://osu.ppy.sh/beatmapsets/1143323#mania) by ::ruka::{ user=6117525 } and ::quicalid4::{ user=6172698 }\
 150 BPM, 3:53 | \[7K\] 8.37★
 
 Our first 7K pick this round is a collaboration involving a crowd favorite, ruka, and quicalid4 with some additional help from sankansuki. By now, you know what to expect: O2-style 150 BPM chordstreaming mixed in with a couple of flams and minijacks provides a really strong emphasis on mechanics and visuals. The sections and patterning transition very smoothly into each other while providing a heavy amount of variance for the chart. Check out this banger of a song and map to see for yourself!
 
 [![](/wiki/shared/news/2020-08-10-project-loved-august-2020/mania/6-t-t-l-time-to-love.jpg)](https://osu.ppy.sh/community/forums/topics/1122537)
 
-[T-ara & Supernova - T.T.L (Time To Love)](https://osu.ppy.sh/beatmapsets/474122#mania) by ::Reba::{ user=3087654 } and [Kim_GodSSI](https://osu.ppy.sh/users/2218047)\
+[T-ara & Supernova - T.T.L (Time To Love)](https://osu.ppy.sh/beatmapsets/474122#mania) by ::Reba::{ user=3087654 } and ::Kim\1GodSSI::{ user=2218047 }\
 210 BPM, 2:05 | \[7K\] 5.90★, \[7K\] 7.69★
 
 This next 7K pick has seen some play from last year's 7K osu!mania World Cup 2019 Semifinals. The lower diff, Lv.42, focuses on using 105 BPM full LN chordstreaming while also presenting a few jacks and dense chordjacks. The higher diff, Kim_GodSSI's Lv.72, takes these elements to a much higher level. This diff makes heavy use of chordstream inversions, shields, and hybrid chordjacking sections, which puts the player's finger independence to the test. This is something worth revisiting for both top-level and mid-level noodle slurpers!

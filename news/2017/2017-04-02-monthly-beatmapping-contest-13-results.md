@@ -28,6 +28,6 @@ Thank you to everyone who entered. We noted a comparatively small amount of entr
 
 The Monthly Beatmapping Contests have already resumed post-Aspire, as we also move MBC prizes towards a more centralized *Elite Mapper* ranking system, which we'll be revealing more on as time passes.
 
-Many thanks to our esteemed judges, namely ::Okorin::{ user=1623405 }, [handsome](https://osu.ppy.sh/users/2123087), ::Gabe::{ user=654108 }, [Wafu](https://osu.ppy.sh/users/888955) and ::Natsu::{ user=1953876 }. These outstanding individuals essentially modded a dozen complete mapsets in under two weeks without skipping a beat from their other duties and responsibilities - no small feat for any one of them!
+Many thanks to our esteemed judges, namely ::Okorin::{ user=1623405 }, ::handsome::{ user=2123087 }, ::Gabe::{ user=654108 }, ::Wafu::{ user=888955 } and ::Natsu::{ user=1953876 }. These outstanding individuals essentially modded a dozen complete mapsets in under two weeks without skipping a beat from their other duties and responsibilities - no small feat for any one of them!
 
 —Ephemeral

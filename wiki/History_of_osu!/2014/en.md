@@ -14,7 +14,7 @@ As [skinning](/wiki/Skinning) elements expanded, the element `playfield.jpg` was
 
 ## April
 
-The first ever "osu! Monthly Fanart Contest" was announced on 3 April 2014. The contest was an informal contest run by ::LuigiHann::{ user=1079 } that would run monthly and award two winners one year of [osu!supporter](https://osu.ppy.sh/home/support) (one picked by public and the other by osu! staff).[^fanart] The first contest was concluded in a [newspost](https://osu.ppy.sh/home/news/2014-05-21-first-official-osu-fanart-contest-results) on 21 May 2014 with players ::kunny::{ user=3931585 } and [DumplingYumYum](https://osu.ppy.sh/users/1715930) winning first and second place respectively.[^fanart-results]
+The first ever "osu! Monthly Fanart Contest" was announced on 3 April 2014. The contest was an informal contest run by ::LuigiHann::{ user=1079 } that would run monthly and award two winners one year of [osu!supporter](https://osu.ppy.sh/home/support) (one picked by public and the other by osu! staff).[^fanart] The first contest was concluded in a [newspost](https://osu.ppy.sh/home/news/2014-05-21-first-official-osu-fanart-contest-results) on 21 May 2014 with players ::kunny::{ user=3931585 } and ::DumplingYumYum::{ user=1715930 } winning first and second place respectively.[^fanart-results]
 
 ## June
 

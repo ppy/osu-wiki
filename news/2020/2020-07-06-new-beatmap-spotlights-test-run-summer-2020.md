@@ -73,10 +73,10 @@ This table only shows one of four badge versions. Each game mode has its own bad
 
 We did not forget the winners of the Winter Beatmap Spotlights 2020. Congratulations to every single one of them! They will receive 3, 2, and 1 month of osu!supporter for 1st, 2nd, and 3rd place respectively for their efforts!
 
-- **osu!:** ::Kingling::{ user=7010761 }, [Lkxemmeji](https://osu.ppy.sh/users/7947034), and ::Karmagyre::{ user=8221504 }
-- **osu!taiko:** ::syaron105::{ user=8741695 }, [AlvaroYL](https://osu.ppy.sh/users/6333166), and ::\[Zeth\]::{ user=9912966 }
-- **osu!catch:** ::dika312::{ user=741613 }, [-Ken](https://osu.ppy.sh/users/4430811), and ::RAMPAGE88::{ user=448547 }
-- **osu!mania:** ::itourith::{ user=10809147 }, [tsusai](https://osu.ppy.sh/users/7637292), and ::aiM\1Violet::{ user=13069495 }
+- **osu!:** ::Kingling::{ user=7010761 }, ::Lkxemmeji::{ user=7947034 }, and ::Karmagyre::{ user=8221504 }
+- **osu!taiko:** ::syaron105::{ user=8741695 }, ::AlvaroYL::{ user=6333166 }, and ::\[Zeth\]::{ user=9912966 }
+- **osu!catch:** ::dika312::{ user=741613 }, ::-Ken::{ user=4430811 }, and ::RAMPAGE88::{ user=448547 }
+- **osu!mania:** ::itourith::{ user=10809147 }, ::tsusai::{ user=7637292 }, and ::aiM\1Violet::{ user=13069495 }
 
 We hope you enjoy the first test run with this first new season of the year and that you are as excited about this as we are. See you this weekend in the upcoming lobby!
 

@@ -37,13 +37,13 @@ This contest's submissions were immediately sent to the eyes of our discerning [
 
 #### Commentary
 
-See the maps with commentary presented by ::Noffy::{ user=1541323 }, [-White](https://osu.ppy.sh/users/16276548), and ::Halfslashed::{ user=4598899 }. Find out which maps were each judge's favourites, receive valuable insight into judge comments, and other interesting bits of information!
+See the maps with commentary presented by ::Noffy::{ user=1541323 }, ::-White::{ user=16276548 }, and ::Halfslashed::{ user=4598899 }. Find out which maps were each judge's favourites, receive valuable insight into judge comments, and other interesting bits of information!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/inFJsE586t0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Special thanks to ::NatsumeRin::{ user=151679 }, [Noffy](https://osu.ppy.sh/users/1541323), ::Mafumafu::{ user=3076909 }, [Natsu](https://osu.ppy.sh/users/1953876) and ::Shanipika::{ user=6336729 } for judging!
+Special thanks to ::NatsumeRin::{ user=151679 }, ::Noffy::{ user=1541323 }, ::Mafumafu::{ user=3076909 }, ::Natsu::{ user=1953876 } and ::Shanipika::{ user=6336729 } for judging!
 
 ### osu!taiko results
 
@@ -67,7 +67,7 @@ Take a look at the top 3 maps with ::aceticke::{ user=8838763 }!
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/hCCxbfNjAJI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Special thanks to ::aceticke::{ user=8838763 }, [Hivie](https://osu.ppy.sh/users/14102976), ::Lumenite-::{ user=6256027 }, [Jonarwhal](https://osu.ppy.sh/users/3653035) and ::Alchyr::{ user=4993032 } for judging!
+Special thanks to ::aceticke::{ user=8838763 }, ::Hivie::{ user=14102976 }, ::Lumenite-::{ user=6256027 }, ::Jonarwhal::{ user=3653035 } and ::Alchyr::{ user=4993032 } for judging!
 
 ### osu!catch results
 
@@ -85,13 +85,13 @@ Special thanks to ::aceticke::{ user=8838763 }, [Hivie](https://osu.ppy.sh/users
 
 #### Commentary
 
-Gander a peek at the top 3 maps with ::Greaper::{ user=2369776 }, [GiGas](https://osu.ppy.sh/users/7300747), and ::wwwww::{ user=8434466 }!
+Gander a peek at the top 3 maps with ::Greaper::{ user=2369776 }, ::GiGas::{ user=7300747 }, and ::wwwww::{ user=8434466 }!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/UFA-8n-Kz6s" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Special thanks to ::Jemzuu::{ user=7890134 }, [Greaper](https://osu.ppy.sh/users/2369776), ::autofanboy::{ user=636114 } and [Chatie](https://osu.ppy.sh/users/6524765) for judging!
+Special thanks to ::Jemzuu::{ user=7890134 }, ::Greaper::{ user=2369776 }, ::autofanboy::{ user=636114 } and ::Chatie::{ user=6524765 } for judging!
 
 ### osu!mania results
 
@@ -109,13 +109,13 @@ Special thanks to ::Jemzuu::{ user=7890134 }, [Greaper](https://osu.ppy.sh/users
 
 #### Commentary
 
-Join ::BadDragon::{ user=6051688 } and [Decku](https://osu.ppy.sh/users/13360768) in discussing their favourite maps in the contest!
+Join ::BadDragon::{ user=6051688 } and ::Decku::{ user=13360768 } in discussing their favourite maps in the contest!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/qlrplue4LbE" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Special thanks to ::Decku::{ user=13360768 }, [Monoseul](https://osu.ppy.sh/users/16010604), ::Maxus::{ user=4335785 } and [BadDragon](https://osu.ppy.sh/users/6051688) for judging!
+Special thanks to ::Decku::{ user=13360768 }, ::Monoseul::{ user=16010604 }, ::Maxus::{ user=4335785 } and ::BadDragon::{ user=6051688 } for judging!
 
 ---
 

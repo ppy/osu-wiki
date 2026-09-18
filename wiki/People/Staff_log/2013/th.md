@@ -142,7 +142,7 @@
 - ย้าย ::lovhin456::{ user=55096 } จาก Beatmap Appreciation Team เป็น osu! Alumni (02-08-2556)
 - ย้าย ::Miya::{ user=909167 } จาก Beatmap Appreciation Team เป็น osu! Alumni (02-08-2556)
 - ย้าย ::orioncomet::{ user=104827 } จาก Beatmap Appreciation Team เป็น osu! Alumni (02-08-2556)
-- ย้าย [ykcarrot](https://osu.ppy.sh/users/ykcarrot) จาก Beatmap Appreciation Team เป็น osu! Alumni (02-08-2556)
+- ย้าย ::ykcarrot::{ user=70730 } จาก Beatmap Appreciation Team เป็น osu! Alumni (02-08-2556)
 - ย้าย ::Frostmourne::{ user=199669 } จาก osu! Alumni เป็น Beatmap Appreciation Team (02-08-2556)
 - ย้าย ::bossandy::{ user=360437 } จาก osu! Alumni เป็น Beatmap Appreciation Team (14-08-2556)
 - ย้าย ::p3n::{ user=123703 } จาก osu! Alumni เป็น Beatmap Appreciation Team (16-08-2556)

@@ -58,7 +58,7 @@ If you decide to give this map a go, make sure to untick the "ignore beatmap hit
 #### Players' Pick
 
 [Ado - Odo [Dance]](https://osu.ppy.sh/beatmapsets/1529362#osu/3128396), mapped by ::Heilia::{ user=9823042 }\
-*primarily suggested by ::ChillierPear::{ user=9501251 }, [DigitalHypno](https://osu.ppy.sh/users/4384207), and ::Nowaie::{ user=5428909 }*\
+*primarily suggested by ::ChillierPear::{ user=9501251 }, ::DigitalHypno::{ user=4384207 }, and ::Nowaie::{ user=5428909 }*\
 *described by ::ChillierPear::{ user=9501251 }*
 
 With Ado making her debut in osu! just under 2 years ago she and her music have certainly taken the community by storm. Alongside other songs such as *Bocca della Verita* and *USSEEWA*, *Odo* has quickly become a fan-favorite, having 4 mapsets across 2 different game modes. When combining this absolute jam with an all-star mapper such as Heilia, you should certainly *get ready for the show*.
@@ -153,16 +153,16 @@ This season, we will say farewell to some of our members as well as welcome some
 **Curator additions:**
 
 - **osu!**: ::DeviousPanda::{ user=4966334 }
-- **osu!taiko**: ::\[Zeth\]::{ user=9912966 }, [Nifty](https://osu.ppy.sh/users/4956097)
-- **osu!catch**: ::Nelly::{ user=4741164 }, [wwwww](https://osu.ppy.sh/users/8434466)
-- **osu!mania**: ::Antalf::{ user=8793773 }, [Protastic101](https://osu.ppy.sh/users/6712747)
+- **osu!taiko**: ::\[Zeth\]::{ user=9912966 }, ::Nifty::{ user=4956097 }
+- **osu!catch**: ::Nelly::{ user=4741164 }, ::wwwww::{ user=8434466 }
+- **osu!mania**: ::Antalf::{ user=8793773 }, ::Protastic101::{ user=6712747 }
 
 **Curator resignations:**
 
 - **osu!**: ::Ryuusei Aika::{ user=7777875 }
-- **osu!taiko**: ::Arrival::{ user=1694000 }, [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)
-- **osu!catch**: ::Snowless::{ user=4316266 }, [x_angelkawaii_x](https://osu.ppy.sh/users/566276)
-- **osu!mania**: ::\[ Decku \]::{ user=13360768 }, [BringoBrango](https://osu.ppy.sh/users/10274043),  ::Kaito-kun::{ user=4715184 }
+- **osu!taiko**: ::Arrival::{ user=1694000 }, ::Nardoxyribonucleic::{ user=876419 }
+- **osu!catch**: ::Snowless::{ user=4316266 }, ::x\1angelkawaii\1x::{ user=566276 }
+- **osu!mania**: ::\[ Decku \]::{ user=13360768 }, ::BringoBrango::{ user=10274043 },  ::Kaito-kun::{ user=4715184 }
 
 ::Hydria::{ user=808176 } will also be stepping away as the osu!mania curators' team leader after almost two years of service, while CrumpetFiddler will be the one to ensure things go smooth on the mania side from now on.
 

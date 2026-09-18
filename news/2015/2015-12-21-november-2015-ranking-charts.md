@@ -8,7 +8,7 @@ series: beatmap_spotlights
 
 Hello everyone! The Ranking Charts for November 2015 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1511)!
 
-This month ::Endaris::{ user=392866 }, [Raiden](https://osu.ppy.sh/users/2239480), ::JBHyperion::{ user=4879508 } and [pporse](https://osu.ppy.sh/users/4991434) picked the maps for the Monthly Ranking Charts. I would also like to mention that next month will be a special christmas themed chart for the December Ranking Charts. Until then, I wish all of you a merry christmas and a happy new year!
+This month ::Endaris::{ user=392866 }, ::Raiden::{ user=2239480 }, ::JBHyperion::{ user=4879508 } and ::pporse::{ user=4991434 } picked the maps for the Monthly Ranking Charts. I would also like to mention that next month will be a special christmas themed chart for the December Ranking Charts. Until then, I wish all of you a merry christmas and a happy new year!
 
 ## Ranking Charts Creation
 

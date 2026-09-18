@@ -37,7 +37,7 @@ Without any further delay, let's move onto this month's picks!
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, [UberFazz](https://osu.ppy.sh/users/8646059) and ::Wixonater::{ user=10083084 }!
+The osu! Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, ::UberFazz::{ user=8646059 } and ::Wixonater::{ user=10083084 }!
 
 ---
 
@@ -79,7 +79,7 @@ Starring in the [ALLSTARS 3 Showmatch](https://twitter.com/Skillosu/status/13787
 
 [![](/wiki/shared/news/2022-02-18-project-loved-february-2022/1249679.jpg)](https://osu.ppy.sh/community/forums/topics/1524549)
 
-[Various Artists - Hololive Songs Compilation](https://osu.ppy.sh/beatmapsets/1249679#osu) by ::Bokamin::{ user=9334812 }, [-Atri-](https://osu.ppy.sh/users/2433720), ::Akitoshi::{ user=4754771 }, [Segula](https://osu.ppy.sh/users/10414232), ::Spinity::{ user=6712725 }, [syoutoku1](https://osu.ppy.sh/users/1766068), ::too::{ user=12196931 } and Yasaija 714\
+[Various Artists - Hololive Songs Compilation](https://osu.ppy.sh/beatmapsets/1249679#osu) by ::Bokamin::{ user=9334812 }, ::-Atri-::{ user=2433720 }, ::Akitoshi::{ user=4754771 }, ::Segula::{ user=10414232 }, ::Spinity::{ user=6712725 }, ::syoutoku1::{ user=1766068 }, ::too::{ user=12196931 } and Yasaija 714\
 170 BPM, 27:28 | 6.52★\
 *description written by ::Wixonater::{ user=10083084 }*
 
@@ -103,7 +103,7 @@ I heard you were looking to practice your stamina... maybe just in general, or m
 
 [![](/wiki/shared/news/2022-02-18-project-loved-february-2022/283595.jpg)](https://osu.ppy.sh/community/forums/topics/1524546)
 
-[Miki Sayaka vs. Miki Sayaka (fw. Miki Sayaka) - squartatrice](https://osu.ppy.sh/beatmapsets/283595#osu) by ::Ujimatsu Chiya::{ user=3789302 }, [HabiHolic](https://osu.ppy.sh/users/1974436), ::Kibbleru::{ user=3193504 }, [lolia](https://osu.ppy.sh/users/1596078), ::pkk::{ user=3620525 }, [Rizia](https://osu.ppy.sh/users/1367570) and ::Starberr::{ user=1399551 }\
+[Miki Sayaka vs. Miki Sayaka (fw. Miki Sayaka) - squartatrice](https://osu.ppy.sh/beatmapsets/283595#osu) by ::Ujimatsu Chiya::{ user=3789302 }, ::HabiHolic::{ user=1974436 }, ::Kibbleru::{ user=3193504 }, ::lolia::{ user=1596078 }, ::pkk::{ user=3620525 }, ::Rizia::{ user=1367570 } and ::Starberr::{ user=1399551 }\
 180 BPM, 2:09 | 1.91★ – 6.58★\
 *description written by ::UberFazz::{ user=8646059 }*
 
@@ -111,7 +111,7 @@ This rather simple set contains maps of all difficulties and is part of the same
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [Boaz](https://osu.ppy.sh/users/13302996), ::Gamelan4::{ user=9856910 } and [Horiiizon](https://osu.ppy.sh/users/8071438)!
+The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::Boaz::{ user=13302996 }, ::Gamelan4::{ user=9856910 } and ::Horiiizon::{ user=8071438 }!
 
 ---
 
@@ -172,13 +172,13 @@ We don't often feature maps with multiple rates as mania does but oh boy we just
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, [Spectator](https://osu.ppy.sh/users/702598), ::Tenshichan::{ user=1101600 } and [Wesley](https://osu.ppy.sh/users/2407265)!
+The osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, ::Spectator::{ user=702598 }, ::Tenshichan::{ user=1101600 } and ::Wesley::{ user=2407265 }!
 
 ---
 
 [![](/wiki/shared/news/2022-02-18-project-loved-february-2022/1006480.jpg)](https://osu.ppy.sh/community/forums/topics/1524538)
 
-[Noah - World's end](https://osu.ppy.sh/beatmapsets/1006480#fruits) by ::Kyptoric::{ user=1361268 }, [Ascendance](https://osu.ppy.sh/users/2931883), ::AutoLs::{ user=9155988 } and [Tsumugi Aoba](https://osu.ppy.sh/users/6709840)\
+[Noah - World's end](https://osu.ppy.sh/beatmapsets/1006480#fruits) by ::Kyptoric::{ user=1361268 }, ::Ascendance::{ user=2931883 }, ::AutoLs::{ user=9155988 } and ::Tsumugi Aoba::{ user=6709840 }\
 270 BPM, 1:51 | 2.36★ – 7.79★\
 *description written by ::Wesley::{ user=2407265 }*
 
@@ -190,7 +190,7 @@ Each and every difficulty of this mapset is beautifully done, showing off all so
 
 [![](/wiki/shared/news/2022-02-18-project-loved-february-2022/283595.jpg)](https://osu.ppy.sh/community/forums/topics/1524537)
 
-[Miki Sayaka vs. Miki Sayaka (fw. Miki Sayaka) - squartatrice](https://osu.ppy.sh/beatmapsets/283595#fruits) by ::Minato Yukina::{ user=531253 } and [Xetopia](https://osu.ppy.sh/users/6689101)\
+[Miki Sayaka vs. Miki Sayaka (fw. Miki Sayaka) - squartatrice](https://osu.ppy.sh/beatmapsets/283595#fruits) by ::Minato Yukina::{ user=531253 } and ::Xetopia::{ user=6689101 }\
 180 BPM, 2:09 | 3.30★, 6.36★, 7.46★\
 *description written by ::Tenshichan::{ user=1101600 }*
 
@@ -222,7 +222,7 @@ As a top player, thx for carry (well-known as MrBinking and Fli as well) knows h
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, [-NoName-](https://osu.ppy.sh/users/10400730), ::kadoen::{ user=12780575 }, [Paturages](https://osu.ppy.sh/users/1375479), ::Penguinosity::{ user=10235296 }, [RandomeLoL](https://osu.ppy.sh/users/7080063) and ::stupud man::{ user=2141612 }!
+The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, ::-NoName-::{ user=10400730 }, ::kadoen::{ user=12780575 }, ::Paturages::{ user=1375479 }, ::Penguinosity::{ user=10235296 }, ::RandomeLoL::{ user=7080063 } and ::stupud man::{ user=2141612 }!
 
 ---
 
@@ -333,7 +333,7 @@ riktoi is certainly someone who I would say is more than capable of creating map
 
 [![](/wiki/shared/news/2022-02-18-project-loved-february-2022/502203.jpg)](https://osu.ppy.sh/community/forums/topics/1524525)
 
-[Moe Shop - <3](https://osu.ppy.sh/beatmapsets/502203#mania) by ::Todestrieb::{ user=4056690 } and [Elementaires](https://osu.ppy.sh/users/2284328)\
+[Moe Shop - <3](https://osu.ppy.sh/beatmapsets/502203#mania) by ::Todestrieb::{ user=4056690 } and ::Elementaires::{ user=2284328 }\
 135 BPM, 1:39 | 3.88★, 5.74★\
 *description written by ::Paturages::{ user=1375479 }*
 
@@ -360,7 +360,7 @@ If you're a 7K player looking to push your way through some incredibly tough cho
 
 [![](/wiki/shared/news/2022-02-18-project-loved-february-2022/973750.jpg)](https://osu.ppy.sh/community/forums/topics/1524522)
 
-[t+pazolite with siromaru - Chambarising](https://osu.ppy.sh/beatmapsets/973750#mania) by ::Hoto Cocoa::{ user=6974536 }, [Reba](https://osu.ppy.sh/users/3087654) and ::Wonki::{ user=7898495 }\
+[t+pazolite with siromaru - Chambarising](https://osu.ppy.sh/beatmapsets/973750#mania) by ::Hoto Cocoa::{ user=6974536 }, ::Reba::{ user=3087654 } and ::Wonki::{ user=7898495 }\
 160 BPM, 4:49 | 5.17★, 5.73★, 6.78★\
 *description written by ::stupud man::{ user=2141612 }*
 

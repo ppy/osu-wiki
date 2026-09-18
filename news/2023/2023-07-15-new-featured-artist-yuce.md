@@ -103,7 +103,7 @@ Bash drums to [this map](https://osu.ppy.sh/beatmapsets/1102382) hosted by ::Cap
 
 ### YUC'e - Night Club Junkie
 
-Try playing [this stellar map](https://osu.ppy.sh/beatmapsets/756066) featuring difficulties by ::Nathan::{ user=4785223 } and [fanzhen0019](https://osu.ppy.sh/users/418699)!
+Try playing [this stellar map](https://osu.ppy.sh/beatmapsets/756066) featuring difficulties by ::Nathan::{ user=4785223 } and ::fanzhen0019::{ user=418699 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/372/macaron%20moon/YUC'e%20-%20Night%20Club%20Junkie.mp3">

@@ -19,7 +19,7 @@ Never heard of the track? That's probably because it debuted on the [live mappoo
 
 ### [Imy feat. Natsume Itsuki - Lies playing Truth](https://assets.ppy.sh/artists/99/Songs/Imy_feat._Natsume_Itsuki_-_Lies_playing_Truth.osz)
 
-[Play the map from OWC](https://osu.ppy.sh/beatmapsets/2271658) created by ::Garden::{ user=2849992 } and [Ryuusei Aika](https://osu.ppy.sh/users/7777875)!
+[Play the map from OWC](https://osu.ppy.sh/beatmapsets/2271658) created by ::Garden::{ user=2849992 } and ::Ryuusei Aika::{ user=7777875 }!
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/v5ZaTeibemI" frameborder="0" allowfullscreen></iframe>

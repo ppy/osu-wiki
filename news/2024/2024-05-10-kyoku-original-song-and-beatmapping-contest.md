@@ -9,7 +9,7 @@ Mappers and musicians, gather up! Express your creativity to the maximum with ma
 
 ![](https://assets.ppy.sh/contests/211/banner.jpg)
 
-Brought to you by ::bokeru::{ user=11308433 }, [chidodou](https://osu.ppy.sh/users/13868581), ::Supportive::{ user=21482068 } and [Whithard](https://osu.ppy.sh/users/24552396), this contest revolves around the idea of expression, versatility, and best of all, **expression**! Keep reading to see how you can join in on the fun by participating!
+Brought to you by ::bokeru::{ user=11308433 }, ::chidodou::{ user=13868581 }, ::Supportive::{ user=21482068 } and ::Whithard::{ user=24552396 }, this contest revolves around the idea of expression, versatility, and best of all, **expression**! Keep reading to see how you can join in on the fun by participating!
 
 With the first iteration, being most inspired from [THE BMS OF FIGHTERS](https://www.bmsoffighters.net/) (surely something you've heard about before), Kyoku is a contest that will focus on not only beatmapping, but song production as well.
 

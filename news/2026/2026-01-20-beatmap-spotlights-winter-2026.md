@@ -90,7 +90,7 @@ Lince Cosmico's clean aesthetics and masterful playfield usage, combined with im
 
 [![](/wiki/shared/news/2026-01-20-beatmap-spotlights-winter-2026/2343891.jpg)](https://osu.ppy.sh/beatmapsets/2343891#taiko/5038601)
 
-**[Slax - Body to the Drum \[Taiko to the Beat\]](https://osu.ppy.sh/beatmapsets/2343891#taiko/5038601)**, created by ::Waribashi::{ user=2250574 } and [ler1211](https://osu.ppy.sh/users/19901680)\
+**[Slax - Body to the Drum \[Taiko to the Beat\]](https://osu.ppy.sh/beatmapsets/2343891#taiko/5038601)**, created by ::Waribashi::{ user=2250574 } and ::ler1211::{ user=19901680 }\
 *primarily suggested and described by ::nevqr::{ user=14269506 }*
 
 Over the past few years, [Slax](https://osu.ppy.sh/beatmaps/artists/465) has practically become a household name in the osu!taiko community, and when he was tasked with making an osu! original for the [osu!taiko World Cup 2025](/wiki/Tournaments/TWC/2025), he definitely delivered.

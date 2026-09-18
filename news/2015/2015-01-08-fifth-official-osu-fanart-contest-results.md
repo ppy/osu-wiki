@@ -106,7 +106,7 @@ by ::BurntToaster::{ user=2236066 } | [download full version here](/wiki/shared/
 
 ---
 
-Thank you to everyone who entered and congrats to all artists featured above, as well as those who didn't win but were selected to appear on the game's title screen in December (::Lempika::{ user=3662284 }, [ecarnage](https://osu.ppy.sh/users/2295549), ::Mira-san::{ user=1587999 }, [KTRAngel](https://osu.ppy.sh/users/5369337), ::Arthesian::{ user=3567049 }, [sh0ta](https://osu.ppy.sh/users/4212411), ::Cripple::{ user=4451485 }). These users will be granted 1-month supporter tags too!
+Thank you to everyone who entered and congrats to all artists featured above, as well as those who didn't win but were selected to appear on the game's title screen in December (::Lempika::{ user=3662284 }, ::ecarnage::{ user=2295549 }, ::Mira-san::{ user=1587999 }, ::KTRAngel::{ user=5369337 }, ::Arthesian::{ user=3567049 }, ::sh0ta::{ user=4212411 }, ::Cripple::{ user=4451485 }). These users will be granted 1-month supporter tags too!
 
 We'll share all of your entries on the osu! Facebook page soon. Stay tuned for more fanart contests in 2015!
 

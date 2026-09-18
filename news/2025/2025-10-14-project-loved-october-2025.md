@@ -22,7 +22,7 @@ As always, thank you for voting in the last round, where we celebrated our 8th a
 
 Before we jump in to those picks, some spooky news has graced our doorstep:
 
-- Both ::choke enough::{ user=1629553 } and [Froslass](https://osu.ppy.sh/users/19048) have made their departure from the osu! captains, please give them your best farewell and bid them well on their future ventures!
+- Both ::choke enough::{ user=1629553 } and ::Froslass::{ user=19048 } have made their departure from the osu! captains, please give them your best farewell and bid them well on their future ventures!
 - ::0x84f::{ user=7944724 } has stepped down from coordination duties, they're still here for moderation for the time being, but do send your thanks for their dutiful management work for nearly 2 years!
 
 ...but following some nasty tricks, a treat was sure to follow! There's more:
@@ -40,7 +40,7 @@ Here come those picks! Remember, you get access to [osu!(lazer)](/wiki/Client/Re
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::bailie::{ user=7537133 }, [BATBALL](https://osu.ppy.sh/users/15173952), ::chiv::{ user=6701656 }, [Froslass](https://osu.ppy.sh/users/19048), ::Lilian::{ user=8589120 }, and [Plasma](https://osu.ppy.sh/users/10077431)!
+The osu! Loved candidates were chosen by ::bailie::{ user=7537133 }, ::BATBALL::{ user=15173952 }, ::chiv::{ user=6701656 }, ::Froslass::{ user=19048 }, ::Lilian::{ user=8589120 }, and ::Plasma::{ user=10077431 }!
 
 **[Click here to download all of this round's osu! picks!](https://packs.ppy.sh/LR64%20-%20Project%20Loved:%20October%202025%20(osu!).zip)**
 
@@ -48,7 +48,7 @@ The osu! Loved candidates were chosen by ::bailie::{ user=7537133 }, [BATBALL](h
 
 [![](/wiki/shared/news/2025-10-14-project-loved-october-2025/2213249.jpg)](https://osu.ppy.sh/community/forums/topics/2140776)
 
-[PSY - Gentleman](https://osu.ppy.sh/beatmapsets/2213249#osu) by ::\[-Omni-\]::{ user=24730930 } and [daph](https://osu.ppy.sh/users/19815360)\
+[PSY - Gentleman](https://osu.ppy.sh/beatmapsets/2213249#osu) by ::\[-Omni-\]::{ user=24730930 } and ::daph::{ user=19815360 }\
 126 BPM, 3:12 | 9.05★\
 *description written by ::chiv::{ user=6701656 }*
 
@@ -62,7 +62,7 @@ No need to drag this out. You know what to do: vote Yes.
 
 [![](/wiki/shared/news/2025-10-14-project-loved-october-2025/1852314.jpg)](https://osu.ppy.sh/community/forums/topics/2140775)
 
-[Rosa Walton, Hallie Coggins - I Really Want to Stay at Your House](https://osu.ppy.sh/beatmapsets/1852314#osu) by ::aishiteiru-::{ user=10566388 } and [kelinimo](https://osu.ppy.sh/users/12012218)\
+[Rosa Walton, Hallie Coggins - I Really Want to Stay at Your House](https://osu.ppy.sh/beatmapsets/1852314#osu) by ::aishiteiru-::{ user=10566388 } and ::kelinimo::{ user=12012218 }\
 125 BPM, 4:02 | 2.20★, 3.16★, 4.11★\
 *description written by ::chiv::{ user=6701656 }*
 
@@ -76,7 +76,7 @@ Let's vote yes!
 
 [![](/wiki/shared/news/2025-10-14-project-loved-october-2025/68740.jpg)](https://osu.ppy.sh/community/forums/topics/2140774)
 
-[cosMo@BousouP feat. Hatsune Miku - Hatsune Miku no Shoushitsu (Hommarju Remix)](https://osu.ppy.sh/beatmapsets/68740#osu) by ::JappyBabes::{ user=697783 } and [Chocopikel](https://osu.ppy.sh/users/382840)\
+[cosMo@BousouP feat. Hatsune Miku - Hatsune Miku no Shoushitsu (Hommarju Remix)](https://osu.ppy.sh/beatmapsets/68740#osu) by ::JappyBabes::{ user=697783 } and ::Chocopikel::{ user=382840 }\
 240 BPM, 2:00 | 8.48★\
 *description written by ::Froslass::{ user=19048 }*
 
@@ -114,14 +114,14 @@ If you think you can escape the grasp of Cthulhu, make sure to vote YES! 🦑�
 
 [![](/wiki/shared/news/2025-10-14-project-loved-october-2025/501286.jpg)](https://osu.ppy.sh/community/forums/topics/2140771)
 
-[May'n - Belief](https://osu.ppy.sh/beatmapsets/501286#osu) by ::Depths::{ user=3935174 }, [\_DT3](https://osu.ppy.sh/users/7319843), ::Asaiga::{ user=2959560 }, [Doormat](https://osu.ppy.sh/users/3230571), ::Garden::{ user=2849992 }, [Hikaru Rose](https://osu.ppy.sh/users/4811275), ::Kibbleru::{ user=3193504 }, [Super Creek](https://osu.ppy.sh/users/1787171), and ::Winnie::{ user=3592149 }\
+[May'n - Belief](https://osu.ppy.sh/beatmapsets/501286#osu) by ::Depths::{ user=3935174 }, ::\_DT3::{ user=7319843 }, ::Asaiga::{ user=2959560 }, ::Doormat::{ user=3230571 }, ::Garden::{ user=2849992 }, ::Hikaru Rose::{ user=4811275 }, ::Kibbleru::{ user=3193504 }, ::Super Creek::{ user=1787171 }, and ::Winnie::{ user=3592149 }\
 208 BPM, 3:57 | 1.85★ – 7.25★\
 The \[Kanau's Normal\], \[Little's Insane\], and \[Kalibe's Insane\] difficulties are *not* being nominated for Loved.
 *description written by ::Lilian::{ user=8589120 }*
 
 For our *Ranked Rejects* slot, we bring you a set that may restore your belief in the Loved section...
 
-To be honest, no description I can write could possibly sell you on this mapset better than the set itself. Look at the ::Depths::{ user=3935174 } 7★ top diff... oh my god, it even has a ::Kibbleru::{ user=3193504 }/[Doormat](https://osu.ppy.sh/users/3230571) Collab Extreme... simply sublime. This set oozes with that simplistic yet all-too-alluring 2016 energy, on top of a classic anime opening that should be instantly recognisable to any player from back in the day. It's a shame this set has sat in the graveyard for over five years now, but I hope you all enjoy this blast from the past!
+To be honest, no description I can write could possibly sell you on this mapset better than the set itself. Look at the ::Depths::{ user=3935174 } 7★ top diff... oh my god, it even has a ::Kibbleru::{ user=3193504 }/::Doormat::{ user=3230571 } Collab Extreme... simply sublime. This set oozes with that simplistic yet all-too-alluring 2016 energy, on top of a classic anime opening that should be instantly recognisable to any player from back in the day. It's a shame this set has sat in the graveyard for over five years now, but I hope you all enjoy this blast from the past!
 
 [![](/wiki/shared/news/2025-10-14-project-loved-october-2025/1136709.jpg)](https://osu.ppy.sh/community/forums/topics/2140770)
 
@@ -164,7 +164,7 @@ You have 20 seconds to vote yes or you will be cursed with 1000 years of missing
 
 [![](/wiki/shared/news/2025-10-14-project-loved-october-2025/2091790.jpg)](https://osu.ppy.sh/community/forums/topics/2140767)
 
-[wowaka - Toosenbo feat. Hatsune Miku](https://osu.ppy.sh/beatmapsets/2091790#osu) by ::fooders::{ user=7545218 } and [funny](https://osu.ppy.sh/users/8473573)\
+[wowaka - Toosenbo feat. Hatsune Miku](https://osu.ppy.sh/beatmapsets/2091790#osu) by ::fooders::{ user=7545218 } and ::funny::{ user=8473573 }\
 222 BPM, 3:26 | 2.66★, 3.43★, 5.02★, 6.85★, 7.55★\
 *description written by ::chiv::{ user=6701656 }*
 
@@ -188,7 +188,7 @@ If you earnestly took the advice above, it should be all the convincing you need
 
 [![](/wiki/shared/news/2025-10-14-project-loved-october-2025/2226198.jpg)](https://osu.ppy.sh/community/forums/topics/2140765)
 
-[Machine Girl - Black Glass](https://osu.ppy.sh/beatmapsets/2226198#osu) by ::oatmilk::{ user=16516525 } and [scylla](https://osu.ppy.sh/users/9405745)\
+[Machine Girl - Black Glass](https://osu.ppy.sh/beatmapsets/2226198#osu) by ::oatmilk::{ user=16516525 } and ::scylla::{ user=9405745 }\
 174 BPM, 2:00 | 6.15★, 6.46★\
 *description written by ::BATBALL::{ user=15173952 }*
 
@@ -196,14 +196,14 @@ If you earnestly took the advice above, it should be all the convincing you need
 
 "[Machine Girl - Black Glass](https://osu.ppy.sh/beatmapsets/2226198#osu/4722524) provides an exhilarating experience set in a 7/4 time signature, and features a unique dense jungle of circle enemies and slider obstacles. How fast can you reach: MISSION COMPLETE?"
 
-mapper / ::OATMILK::{ user=16516525 } / mapper / [SCYLLA](https://osu.ppy.sh/users/9405745)
+mapper / ::OATMILK::{ user=16516525 } / mapper / ::SCYLLA::{ user=9405745 }
 
 WHO DESERVES A PLACE IN THIS LEADERBOARD?\
 PLEASE ENTER "YES" TO DISCOVER...
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::Eriha::{ user=16320311 }, [K a y o k o](https://osu.ppy.sh/users/17664300), and ::nevqr::{ user=14269506 }!
+The osu!taiko Loved candidates were chosen by ::Eriha::{ user=16320311 }, ::K a y o k o::{ user=17664300 }, and ::nevqr::{ user=14269506 }!
 
 **[Click here to download all of this round's osu!taiko picks!](https://packs.ppy.sh/LR63%20-%20Project%20Loved:%20October%202025%20(osu!taiko).zip)**
 
@@ -223,14 +223,14 @@ If you agree, be sure to give this map a "Yes" vote!
 
 [![](/wiki/shared/news/2025-10-14-project-loved-october-2025/1981370.jpg)](https://osu.ppy.sh/community/forums/topics/2140763)
 
-[Various Artists - raph tag maps compilation #1 yay](https://osu.ppy.sh/beatmapsets/1981370#taiko) by ::Raphalge::{ user=3918650 }, [overdahedge2015](https://osu.ppy.sh/users/9864847), and ::roufou::{ user=1109122 }\
+[Various Artists - raph tag maps compilation #1 yay](https://osu.ppy.sh/beatmapsets/1981370#taiko) by ::Raphalge::{ user=3918650 }, ::overdahedge2015::{ user=9864847 }, and ::roufou::{ user=1109122 }\
 150 – 260 BPM, 4:03 | 4.71★ – 7.98★\
 The \[filesize lol\] difficulty is *not* being nominated for Loved.\
 *description written by ::nevqr::{ user=14269506 }*
 
 Playing taiko in tandem has been a hot community topic for quite some time now. Maybe, one player should take care of dons while the other handles the kats? But what if there was a simpler way?
 
-::Raphalge::{ user=3918650 }, alongside with ::overdahedge2015::{ user=9864847 } and [roufou](https://osu.ppy.sh/users/1109122), have carefully crafted a map pack specifically designed for Tag play. [L9](https://osu.ppy.sh/beatmapsets/1846739#taiko/3793541), [FACE OF DEATH](https://osu.ppy.sh/beatmapsets/1869031#taiko/3845321), [Made of Fire](https://osu.ppy.sh/beatmapsets/1114599#taiko/2328309) or [ultimer](https://osu.ppy.sh/beatmapsets/1761945#taiko/4579406)? You got it! This pack includes loads of difficulties that are accessible to most of the player base. Are you an Oni enjoyer or are 7★ maps more like it? It doesn't matter! Perhaps, the hardest thing about playing Tag might be finding a willing friend!
+::Raphalge::{ user=3918650 }, alongside with ::overdahedge2015::{ user=9864847 } and ::roufou::{ user=1109122 }, have carefully crafted a map pack specifically designed for Tag play. [L9](https://osu.ppy.sh/beatmapsets/1846739#taiko/3793541), [FACE OF DEATH](https://osu.ppy.sh/beatmapsets/1869031#taiko/3845321), [Made of Fire](https://osu.ppy.sh/beatmapsets/1114599#taiko/2328309) or [ultimer](https://osu.ppy.sh/beatmapsets/1761945#taiko/4579406)? You got it! This pack includes loads of difficulties that are accessible to most of the player base. Are you an Oni enjoyer or are 7★ maps more like it? It doesn't matter! Perhaps, the hardest thing about playing Tag might be finding a willing friend!
 
 Although Tag is disabled on taiko by default, here is a short tutorial to show how you can play.
 
@@ -269,7 +269,7 @@ Can you get an S-rank on both maps? Vote "Yes" and play now!
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::Des9::{ user=5404711 }, [LaviSorrow](https://osu.ppy.sh/users/9966768), ::Realmaas::{ user=6567640 }, and [Tenshichan](https://osu.ppy.sh/users/1101600)!
+The osu!catch Loved candidates were chosen by ::Des9::{ user=5404711 }, ::LaviSorrow::{ user=9966768 }, ::Realmaas::{ user=6567640 }, and ::Tenshichan::{ user=1101600 }!
 
 **[Click here to download all of this round's osu!catch picks!](https://packs.ppy.sh/LR62%20-%20Project%20Loved:%20October%202025%20(osu!catch).zip)**
 
@@ -333,7 +333,7 @@ For only the mightiest may tame the [World Ender](https://osu.ppy.sh/beatmapsets
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::Carpihat::{ user=10085090 }, [elexire](https://osu.ppy.sh/users/9206093), ::LivelyPeninsula::{ user=11517895 }, [Maxus](https://osu.ppy.sh/users/4335785), ::Paturages::{ user=1375479 }, [SunApple](https://osu.ppy.sh/users/11817622), ::taba2::{ user=7850508 }, and [Yuiesta](https://osu.ppy.sh/users/13953619)!
+The osu!mania Loved candidates were chosen by ::Carpihat::{ user=10085090 }, ::elexire::{ user=9206093 }, ::LivelyPeninsula::{ user=11517895 }, ::Maxus::{ user=4335785 }, ::Paturages::{ user=1375479 }, ::SunApple::{ user=11817622 }, ::taba2::{ user=7850508 }, and ::Yuiesta::{ user=13953619 }!
 
 **[Click here to download all of this round's osu!mania picks!](https://packs.ppy.sh/LR61%20-%20Project%20Loved:%20October%202025%20(osu!mania).zip)**
 
@@ -430,7 +430,7 @@ Honestly, I can't wait to see how every player performs in this chart. If you ag
 
 [![](/wiki/shared/news/2025-10-14-project-loved-october-2025/1754813.jpg)](https://osu.ppy.sh/community/forums/topics/2140750)
 
-[Raphiiel - RoquiRa : Between Life and Death (Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/1754813#mania) by ::\_underjoy::{ user=2235750 }, [aci](https://osu.ppy.sh/users/9650304), ::Archaic84::{ user=8611177 }, [dressurf](https://osu.ppy.sh/users/758406), ::Kim\1GodSSI::{ user=2218047 }, and [Pengdoll](https://osu.ppy.sh/users/6392061)\
+[Raphiiel - RoquiRa : Between Life and Death (Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/1754813#mania) by ::\_underjoy::{ user=2235750 }, ::aci::{ user=9650304 }, ::Archaic84::{ user=8611177 }, ::dressurf::{ user=758406 }, ::Kim\1GodSSI::{ user=2218047 }, and ::Pengdoll::{ user=6392061 }\
 201.3 BPM, 8:59 | 7.77★, 10.76★\
 *description written by ::Carpihat::{ user=10085090 }*
 
@@ -440,11 +440,11 @@ If you're interested in this map, the song or ETT 2022, please vote for it!
 
 [![](/wiki/shared/news/2025-10-14-project-loved-october-2025/1937441.jpg)](https://osu.ppy.sh/community/forums/topics/2140749)
 
-[kessoku band - Karakara](https://osu.ppy.sh/beatmapsets/1937441#mania) by ::Muses::{ user=9705896 } and [ruka](https://osu.ppy.sh/users/6117525)\
+[kessoku band - Karakara](https://osu.ppy.sh/beatmapsets/1937441#mania) by ::Muses::{ user=9705896 } and ::ruka::{ user=6117525 }\
 190 BPM, 4:03 | 9.37★\
 *description written by ::Maxus::{ user=4335785 }*
 
-It's rare to see a collaboration between ::Muses::{ user=9705896 } and [Ruka](https://osu.ppy.sh/users/6117525) as both are highly skilled charters with years of experience creating high-level 7K maps. Their charts, notably influenced by O2Jam-style mapping, are known for their clean structure and refined execution, showcasing their ability to incorporate diverse variations while maintaining consistent flow, musicality, and comfortable patterns throughout.
+It's rare to see a collaboration between ::Muses::{ user=9705896 } and ::Ruka::{ user=6117525 } as both are highly skilled charters with years of experience creating high-level 7K maps. Their charts, notably influenced by O2Jam-style mapping, are known for their clean structure and refined execution, showcasing their ability to incorporate diverse variations while maintaining consistent flow, musicality, and comfortable patterns throughout.
 
 For this occasion, we've selected [Kessoku Band – Karakara](https://osu.ppy.sh/beatmapsets/1937441#mania/4004915) as our LN pick of the month, and it's a very high-level one at that (estimated around Azimuth level). The chart's signature features include numerous shield patterns within dense LN sections, tight releases, inverse LN, frequent bursts, and mini 1/8 LNs that demand precise timing. In essence, it tests every aspect of your skillset and your accuracy will drop quickly if you rely solely on your raw skillset alone.
 

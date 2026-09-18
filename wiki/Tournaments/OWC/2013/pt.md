@@ -48,10 +48,10 @@ A Copa do Mundo do osu! 2013 (em inglês, osu! World Cup 2013), também conhecid
 
 | Country | Members |
 | :-- | :-- |
-| ::{ flag=CN }:: China | **::Furudo\_Erika::{ user=169878 }**, [wobeinimacao](https://osu.ppy.sh/users/350723), ::N a n o::{ user=694114 }, [5231\_Kinoko](https://osu.ppy.sh/users/181057), ::GGBY::{ user=629717 }, [Dsan](https://osu.ppy.sh/users/1266166), ::InabaTewi::{ user=1078004 }, [GunS\_N\_Rose](https://osu.ppy.sh/users/1349849) |
-| ::{ flag=DE }:: Germany | **::ShadowSoul::{ user=494970 }**, [CookEasy](https://osu.ppy.sh/users/453226), ::Michi::{ user=932342 }, [Dustice](https://osu.ppy.sh/users/754565), ::BDDav::{ user=1164526 }, [cptnXn](https://osu.ppy.sh/users/495272), ::Imamoto::{ user=1201224 }, [dukambe](https://osu.ppy.sh/users/880002) |
-| ::{ flag=JP }:: Japan | **::Karuta::{ user=360552 }**, [rrtyui](https://osu.ppy.sh/users/352328), ::Potofu::{ user=657404 }, [serea](https://osu.ppy.sh/users/371961), ::mugio3::{ user=491522 }, [Homura-](https://osu.ppy.sh/users/482120), ::Gokuri::{ user=343865 }, [doctorindark](https://osu.ppy.sh/users/609227) |
-| ::{ flag=KR }:: Korea | **::Dungeon::{ user=461720 }**, [K i R i K a R u](https://osu.ppy.sh/users/139670), ::dragonhuman::{ user=713266 }, [ffury](https://osu.ppy.sh/users/2056071), ::CheEZ::{ user=272117 }, [- Hakurei Reimu-](https://osu.ppy.sh/users/948713), ::Tengu::{ user=380836 }, [Shizuru-](https://osu.ppy.sh/users/1341421) |
+| ::{ flag=CN }:: China | **::Furudo\_Erika::{ user=169878 }**, ::wobeinimacao::{ user=350723 }, ::N a n o::{ user=694114 }, ::5231\_Kinoko::{ user=181057 }, ::GGBY::{ user=629717 }, ::Dsan::{ user=1266166 }, ::InabaTewi::{ user=1078004 }, ::GunS\_N\_Rose::{ user=1349849 } |
+| ::{ flag=DE }:: Germany | **::ShadowSoul::{ user=494970 }**, ::CookEasy::{ user=453226 }, ::Michi::{ user=932342 }, ::Dustice::{ user=754565 }, ::BDDav::{ user=1164526 }, ::cptnXn::{ user=495272 }, ::Imamoto::{ user=1201224 }, ::dukambe::{ user=880002 } |
+| ::{ flag=JP }:: Japan | **::Karuta::{ user=360552 }**, ::rrtyui::{ user=352328 }, ::Potofu::{ user=657404 }, ::serea::{ user=371961 }, ::mugio3::{ user=491522 }, ::Homura-::{ user=482120 }, ::Gokuri::{ user=343865 }, ::doctorindark::{ user=609227 } |
+| ::{ flag=KR }:: Korea | **::Dungeon::{ user=461720 }**, ::K i R i K a R u::{ user=139670 }, ::dragonhuman::{ user=713266 }, ::ffury::{ user=2056071 }, ::CheEZ::{ user=272117 }, ::- Hakurei Reimu-::{ user=948713 }, ::Tengu::{ user=380836 }, ::Shizuru-::{ user=1341421 } |
 | ::{ flag=PL }:: Poland | **fartownik**, Niko, WubWoofWolf, AmaiHachimitsu, rEdo, worst fl player, Piotrekol, Beniek |
 | ::{ flag=TW }:: Taiwan | **Uan**, Rucker, SnowWhite, Small K, I will be back, Yuyuko sama, dabanlong, onlyforyou |
 | ::{ flag=TH }:: Thailand | **NonxE**, Frostmourne, 0OoMickeyoO0, Popo\[Mikoto\], Cint, Neolution |
@@ -61,7 +61,7 @@ A Copa do Mundo do osu! 2013 (em inglês, osu! World Cup 2013), também conhecid
 
 | Country | Members |
 | :-- | :-- |
-| ::{ flag=AR }:: Argentina | **::Metro::{ user=306737 }**, [Glazbom](https://osu.ppy.sh/users/608277), ::Salvage::{ user=242119 }, [Hernan](https://osu.ppy.sh/users/516680), ::Fabi::{ user=173114 }, [druidxd](https://osu.ppy.sh/users/841441), ::CBA-ES-CAB::{ user=1875237 }, [Mikumiku97](https://osu.ppy.sh/users/503749) |
+| ::{ flag=AR }:: Argentina | **::Metro::{ user=306737 }**, ::Glazbom::{ user=608277 }, ::Salvage::{ user=242119 }, ::Hernan::{ user=516680 }, ::Fabi::{ user=173114 }, ::druidxd::{ user=841441 }, ::CBA-ES-CAB::{ user=1875237 }, ::Mikumiku97::{ user=503749 } |
 | ::{ flag=BR }:: Brazil | **fabriciorby**, Blue Dragon, shoTt, nouk, Ghost Princess, powerstream89, AdRon Zh3Ro, antsu |
 | ::{ flag=HK }:: Hong Kong | **SilviZ**, Akiko-, HineX, K47, Fir3k0, galen1922, Yakumo Yukarin, auweichun |
 | ::{ flag=LV }:: Latvia | **LoGo**, nomen, Forseen, Vmx, Suika Ibuki, NewNyuu, nek2high, PyramidX |

@@ -42,7 +42,7 @@ In [December 2023](https://osu.ppy.sh/home/news/2023-12-15-monthly-beatmapping-c
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/hw_oERr-Lzg" frameborder="0" allowfullscreen></iframe>
 </div>
 
-And of course, we can't forget the judges who made this contest possible: ::arcpotato::{ user=12842392 }, [Yasuho](https://osu.ppy.sh/users/8458835), ::BlackBN::{ user=6291741 }, and [Boaz](https://osu.ppy.sh/users/13302996)!
+And of course, we can't forget the judges who made this contest possible: ::arcpotato::{ user=12842392 }, ::Yasuho::{ user=8458835 }, ::BlackBN::{ user=6291741 }, and ::Boaz::{ user=13302996 }!
 
 ### osu!catch results
 
@@ -55,7 +55,7 @@ And of course, we can't forget the judges who made this contest possible: ::arcp
 | Winner | ::Unlucky\1w::{ user=4820793 } | [AQUASINE - you wouldn't download a bird.](https://drive.google.com/file/d/1MStVkeb8Wu66HWDZRqPVyvdP9YdY9WB6/view?usp=drive_link) | - | +2 (9 total) |
 | Runner-up | ::Xinnoh::{ user=4236057 } | [EmoCosine - Love Kills U](https://osu.ppy.sh/beatmapsets/2405498) | - | +1 (3 total) |
 
-osu!catch's *Elite Mapper*s have proven themselves yet again. Congrats to ::Unlucky\1w::{ user=4820793 } and [Xinnoh](https://osu.ppy.sh/users/4236057)!
+osu!catch's *Elite Mapper*s have proven themselves yet again. Congrats to ::Unlucky\1w::{ user=4820793 } and ::Xinnoh::{ user=4236057 }!
 
 #### Top 10
 
@@ -63,7 +63,7 @@ osu!catch's *Elite Mapper*s have proven themselves yet again. Congrats to ::Unlu
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/rWONxokpSt4" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Send your appreciation to the judges of this month's contest: ::Sadu::{ user=16301262 }, [Nelly](https://osu.ppy.sh/users/4741164), ::skill issue lol::{ user=12498861 }, and [Liyac](https://osu.ppy.sh/users/4994598).
+Send your appreciation to the judges of this month's contest: ::Sadu::{ user=16301262 }, ::Nelly::{ user=4741164 }, ::skill issue lol::{ user=12498861 }, and ::Liyac::{ user=4994598 }.
 
 On top of that, we'd also like to thank ::Morusya::{ user=13681464 } for helping coordinate the Monthly Beatmapping Contest since the start of this year! As of this contest, ::GiGas::{ user=7300747 } has taken the reigns for osu!catch.
 

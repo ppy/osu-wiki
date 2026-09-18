@@ -17,9 +17,9 @@ With the final showmatch of the tournament concluded, today might be the perfect
 
 ![](/wiki/shared/news/2024-06-09-corsace-closed/podium.jpg)
 
-Congratulations to ::maliszewski::{ user=12408961 }, [worst hr player](https://osu.ppy.sh/users/14106450) and ::enri::{ user=8640970 } for clinching the top 3 spots.
+Congratulations to ::maliszewski::{ user=12408961 }, ::worst hr player::{ user=14106450 } and ::enri::{ user=8640970 } for clinching the top 3 spots.
 
-Due to unfortunate circumstances however, the Grand Finals match could not be played as scheduled. However, spectators excited for a legendary showdown between tournament titans ::worst hr player::{ user=14106450 } and [maliszewski](https://osu.ppy.sh/users/12408961) were not let down, because [a showmatch](https://www.youtube.com/watch?v=UwMCXxlIs3E) was able to happen and everyone was able to see what would've happened were they to fight for all the marbles:
+Due to unfortunate circumstances however, the Grand Finals match could not be played as scheduled. However, spectators excited for a legendary showdown between tournament titans ::worst hr player::{ user=14106450 } and ::maliszewski::{ user=12408961 } were not let down, because [a showmatch](https://www.youtube.com/watch?v=UwMCXxlIs3E) was able to happen and everyone was able to see what would've happened were they to fight for all the marbles:
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/UwMCXxlIs3E" frameborder="0" allowfullscreen></iframe>
@@ -71,11 +71,11 @@ And it doesn't stop there, because the lore runs deep. You can find 4 instalment
 > 
 > Respecting her decision, I teamed up with ::Nemururin::{ user=26391825 } to create a new mascot which you all eventually came to know as Chloe (Chloe was designed and teased as early as [2023's GF NM1](https://osu.ppy.sh/beatmapsets/1988571#osu/4131039) where she could be seen in the background! We knew no matter what we did, moving on from the secretary was going to be hard. We wanted to capture these feelings of moving on in the story. As such, we centered the one-shot around the theme of change.
 > 
-> The oneshot itself was a happy accident as I had randomly caught wind of ::Honbae::{ user=9474976 } and [Fulserish](https://osu.ppy.sh/users/14252162) interested in making a oneshot revolving around the secretary in February. After reaching out and an initial planning phase, the entire month of March was spent scriptwriting, storyboarding, drawing and revising. It was miracle we got it all done within a month and I'm so proud of the team.
+> The oneshot itself was a happy accident as I had randomly caught wind of ::Honbae::{ user=9474976 } and ::Fulserish::{ user=14252162 } interested in making a oneshot revolving around the secretary in February. After reaching out and an initial planning phase, the entire month of March was spent scriptwriting, storyboarding, drawing and revising. It was miracle we got it all done within a month and I'm so proud of the team.
 > 
 > I don't want to spoil too much but we already have projects planned revolving Chloe for next year so please look forward to it!
 
-Thank you to ::alden::{ user=3545323 }, [Fulserish](https://osu.ppy.sh/users/14252162), ::Honbae::{ user=9474976 }, [Liyah](https://osu.ppy.sh/users/14290191), ::Mio::{ user=28142111 }, [Nemururin](https://osu.ppy.sh/users/26391825) and ::Piggy::{ user=14257673 } for bringing these characters to life!
+Thank you to ::alden::{ user=3545323 }, ::Fulserish::{ user=14252162 }, ::Honbae::{ user=9474976 }, ::Liyah::{ user=14290191 }, ::Mio::{ user=28142111 }, ::Nemururin::{ user=26391825 } and ::Piggy::{ user=14257673 } for bringing these characters to life!
 
 ![](/wiki/shared/news/2024-06-09-corsace-closed/chloe-concept.jpg "Concept art for Chloe")
 

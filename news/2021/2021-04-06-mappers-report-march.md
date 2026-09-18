@@ -48,10 +48,10 @@ As with every other month, we are once again here to show you which brave souls 
 
 ### BN Additions
 
-- **osu!:** ::VINXIS::{ user=4323406 }, [AJT](https://osu.ppy.sh/users/3181083), ::Sylas::{ user=3906405 } & [Kudosu](https://osu.ppy.sh/users/11038155)
-- **osu!taiko:** ::Horiiizon::{ user=8071438 }, [gevbiivi5](https://osu.ppy.sh/users/7140680) & ::-Aku::{ user=12315824 }
-- **osu!catch:** ::NyalettOwO x3::{ user=7592136 } & [wonjae](https://osu.ppy.sh/users/5032045)
-- **osu!mania:** ::Paran::{ user=13340203 }, [Komirin](https://osu.ppy.sh/users/4725379) & ::AHHHHHHHHHHHHHH::{ user=8249608 }
+- **osu!:** ::VINXIS::{ user=4323406 }, ::AJT::{ user=3181083 }, ::Sylas::{ user=3906405 } & ::Kudosu::{ user=11038155 }
+- **osu!taiko:** ::Horiiizon::{ user=8071438 }, ::gevbiivi5::{ user=7140680 } & ::-Aku::{ user=12315824 }
+- **osu!catch:** ::NyalettOwO x3::{ user=7592136 } & ::wonjae::{ user=5032045 }
+- **osu!mania:** ::Paran::{ user=13340203 }, ::Komirin::{ user=4725379 } & ::AHHHHHHHHHHHHHH::{ user=8249608 }
 
 Do you like modding and helping other people with their beatmaps? Do you want to see your own name on this list? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator!
 
@@ -59,9 +59,9 @@ The applications are always open, so head over to the [Beatmap Nominator website
 
 ### BN Departures
 
-- **osu!:** ::Lafayla::{ user=5312547 }, [riffy](https://osu.ppy.sh/users/597957), ::Battle::{ user=4037545 } & [BaAR_Vendel](https://osu.ppy.sh/users/8679346)
+- **osu!:** ::Lafayla::{ user=5312547 }, ::riffy::{ user=597957 }, ::Battle::{ user=4037545 } & ::BaAR\1Vendel::{ user=8679346 }
 - **osu!taiko:** ::frukoyurdakul::{ user=7612550 }
-- **osu!catch:** ::GIGACHAD::{ user=11081858 }, [Phob](https://osu.ppy.sh/users/6069462) & ::Secre::{ user=2306637 }
+- **osu!catch:** ::GIGACHAD::{ user=11081858 }, ::Phob::{ user=6069462 } & ::Secre::{ user=2306637 }
 
 ### NAT Additions
 
@@ -79,21 +79,21 @@ Here is the list of everyone who received a badge this past session:
 
 | Badge | User |
 | :-- | :-- |
-| ![BN Badge (1 year)](https://assets.ppy.sh/profile-badges/BN1y.png "Longstanding contribution to the Beatmap Nominators - 1 year") | ::-Aqua::{ user=7150015 }, [Agatsu](https://osu.ppy.sh/users/5579871), ::AirinCat::{ user=11119539 }, [Amiichii](https://osu.ppy.sh/users/9228569), ::Bunnrei::{ user=829284 }, [Capu](https://osu.ppy.sh/users/2474015), ::Cynplytholowazy::{ user=3901754 }, [Dapuluous](https://osu.ppy.sh/users/8140944), ::Dubstek::{ user=9555243 }, [frukoyurdakul](https://osu.ppy.sh/users/7612550), ::Greenshell::{ user=8693851 }, [Hobbes2](https://osu.ppy.sh/users/8157492), ::Kamuy::{ user=7439226 }, [kanpakyin](https://osu.ppy.sh/users/394326), ::Keiga::{ user=6866022 }, [Peter](https://osu.ppy.sh/users/8623835), ::PokeSky::{ user=3617111 }, [radar](https://osu.ppy.sh/users/7131099), ::Riana::{ user=1997633 }, [Roasted Chicken](https://osu.ppy.sh/users/9461160), ::Secre::{ user=2306637 }, [SMOKELIND](https://osu.ppy.sh/users/9327302), ::Smokeman::{ user=2140676 }, [Stack](https://osu.ppy.sh/users/6122935), ::Teky::{ user=10520912 }, [Uberzolik](https://osu.ppy.sh/users/1314547), ::Voxa::{ user=9229539 }, [Yales](https://osu.ppy.sh/users/2377881) |
-| ![BN Badge (2 years)](https://assets.ppy.sh/profile-badges/BN2y.png "Longstanding contribution to the Beatmap Nominators - 2 years") | ::-Keitaro::{ user=3378391 }, [_Stan](https://osu.ppy.sh/users/1653229), ::Benita::{ user=4023183 }, [Beomsan](https://osu.ppy.sh/users/3626063), ::Cris-::{ user=6175280 }, [Crissa](https://osu.ppy.sh/users/5405836), ::eiri-::{ user=3388410 }, [fieryrage](https://osu.ppy.sh/users/3533958), ::hypercyte::{ user=9155377 }, [Icekalt](https://osu.ppy.sh/users/5410645), ::Jemzuu::{ user=7890134 }, [Lafayla](https://osu.ppy.sh/users/5312547), ::Milan-::{ user=1052994 }, [Mirash](https://osu.ppy.sh/users/2841009), ::pimp::{ user=328615 }, [riffy](https://osu.ppy.sh/users/597957), ::Rizen::{ user=3056732 }, [skylaa](https://osu.ppy.sh/users/9505704), ::Sparhten::{ user=7601720 }, [Spectator](https://osu.ppy.sh/users/702598), ::Yahuri::{ user=4682629 }, [Yugu](https://osu.ppy.sh/users/3161834), ::Zelq::{ user=8953955 } |
-| ![BN Badge (3 years)](https://assets.ppy.sh/profile-badges/BN3y.jpg "Longstanding contribution to the Beatmap Nominators - 3 years") | ::Andrea::{ user=33599 }, [Arzenvald](https://osu.ppy.sh/users/3027421), ::autofanboy::{ user=636114 }, [Hinsvar](https://osu.ppy.sh/users/1249323), ::Myxo::{ user=2202645 }, [Nao Tomori](https://osu.ppy.sh/users/5364763), ::Nardoxyribonucleic::{ user=876419 }, [Nevo](https://osu.ppy.sh/users/7451883), ::Raiden::{ user=2239480 }, [Realazy](https://osu.ppy.sh/users/918297), ::TheKingHenry::{ user=5128277 }, [timemon](https://osu.ppy.sh/users/2072005) |
-| ![BN Badge (4 years)](https://assets.ppy.sh/profile-badges/BN4y.jpg "Longstanding contribution to the Beatmap Nominators - 4 years") | ::Mafumafu::{ user=3076909 }, [Rivals_7](https://osu.ppy.sh/users/4610379), ::Stefan::{ user=626907 }, [Xinely](https://osu.ppy.sh/users/1521445) |
-| ![BN Badge (5 years)](https://assets.ppy.sh/profile-badges/BN5y.jpg "Longstanding contribution to the Beatmap Nominators - 5 years") | ::Kawawa::{ user=4647754 }, [neonat](https://osu.ppy.sh/users/1561995), ::Nozhomi::{ user=2716981 }, [tasuke912](https://osu.ppy.sh/users/2774767) |
-| ![NAT Badge (1 year)](https://assets.ppy.sh/profile-badges/QAT1y.png "Longstanding contribution to the Nomination Assessment Team - 1 year") | ::Greaper::{ user=2369776 }, [Leniane](https://osu.ppy.sh/users/7138602), ::Nepuri::{ user=6637817 }, [Seto Kousuke](https://osu.ppy.sh/users/2857314), ::Tyistiana::{ user=1421452 }, [yaspo](https://osu.ppy.sh/users/4945926) |
-| ![QAT/NAT Badge (2 years)](https://assets.ppy.sh/profile-badges/QAT2y.png "Longstanding contribution to the QAT/NAT - 2 years") | ::Kibbleru::{ user=3193504 }, [Noffy](https://osu.ppy.sh/users/1541323) |
-| ![QAT/NAT Badge (3 years)](https://assets.ppy.sh/profile-badges/QAT3y.jpg "Longstanding contribution to the QAT/NAT - 3 years") | ::-Mo-::{ user=2202163 }, [Lasse](https://osu.ppy.sh/users/896613), ::Naxess::{ user=8129817 } |
-| ![QAT/NAT Badge (4 years)](https://assets.ppy.sh/profile-badges/QAT4y.jpg "Longstanding contribution to the QAT/NAT - 4 years") | ::Feerum::{ user=4815717 }, [pishifat](https://osu.ppy.sh/users/3178418) |
+| ![BN Badge (1 year)](https://assets.ppy.sh/profile-badges/BN1y.png "Longstanding contribution to the Beatmap Nominators - 1 year") | ::-Aqua::{ user=7150015 }, ::Agatsu::{ user=5579871 }, ::AirinCat::{ user=11119539 }, ::Amiichii::{ user=9228569 }, ::Bunnrei::{ user=829284 }, ::Capu::{ user=2474015 }, ::Cynplytholowazy::{ user=3901754 }, ::Dapuluous::{ user=8140944 }, ::Dubstek::{ user=9555243 }, ::frukoyurdakul::{ user=7612550 }, ::Greenshell::{ user=8693851 }, ::Hobbes2::{ user=8157492 }, ::Kamuy::{ user=7439226 }, ::kanpakyin::{ user=394326 }, ::Keiga::{ user=6866022 }, ::Peter::{ user=8623835 }, ::PokeSky::{ user=3617111 }, ::radar::{ user=7131099 }, ::Riana::{ user=1997633 }, ::Roasted Chicken::{ user=9461160 }, ::Secre::{ user=2306637 }, ::SMOKELIND::{ user=9327302 }, ::Smokeman::{ user=2140676 }, ::Stack::{ user=6122935 }, ::Teky::{ user=10520912 }, ::Uberzolik::{ user=1314547 }, ::Voxa::{ user=9229539 }, ::Yales::{ user=2377881 } |
+| ![BN Badge (2 years)](https://assets.ppy.sh/profile-badges/BN2y.png "Longstanding contribution to the Beatmap Nominators - 2 years") | ::-Keitaro::{ user=3378391 }, ::\1Stan::{ user=1653229 }, ::Benita::{ user=4023183 }, ::Beomsan::{ user=3626063 }, ::Cris-::{ user=6175280 }, ::Crissa::{ user=5405836 }, ::eiri-::{ user=3388410 }, ::fieryrage::{ user=3533958 }, ::hypercyte::{ user=9155377 }, ::Icekalt::{ user=5410645 }, ::Jemzuu::{ user=7890134 }, ::Lafayla::{ user=5312547 }, ::Milan-::{ user=1052994 }, ::Mirash::{ user=2841009 }, ::pimp::{ user=328615 }, ::riffy::{ user=597957 }, ::Rizen::{ user=3056732 }, ::skylaa::{ user=9505704 }, ::Sparhten::{ user=7601720 }, ::Spectator::{ user=702598 }, ::Yahuri::{ user=4682629 }, ::Yugu::{ user=3161834 }, ::Zelq::{ user=8953955 } |
+| ![BN Badge (3 years)](https://assets.ppy.sh/profile-badges/BN3y.jpg "Longstanding contribution to the Beatmap Nominators - 3 years") | ::Andrea::{ user=33599 }, ::Arzenvald::{ user=3027421 }, ::autofanboy::{ user=636114 }, ::Hinsvar::{ user=1249323 }, ::Myxo::{ user=2202645 }, ::Nao Tomori::{ user=5364763 }, ::Nardoxyribonucleic::{ user=876419 }, ::Nevo::{ user=7451883 }, ::Raiden::{ user=2239480 }, ::Realazy::{ user=918297 }, ::TheKingHenry::{ user=5128277 }, ::timemon::{ user=2072005 } |
+| ![BN Badge (4 years)](https://assets.ppy.sh/profile-badges/BN4y.jpg "Longstanding contribution to the Beatmap Nominators - 4 years") | ::Mafumafu::{ user=3076909 }, ::Rivals\17::{ user=4610379 }, ::Stefan::{ user=626907 }, ::Xinely::{ user=1521445 } |
+| ![BN Badge (5 years)](https://assets.ppy.sh/profile-badges/BN5y.jpg "Longstanding contribution to the Beatmap Nominators - 5 years") | ::Kawawa::{ user=4647754 }, ::neonat::{ user=1561995 }, ::Nozhomi::{ user=2716981 }, ::tasuke912::{ user=2774767 } |
+| ![NAT Badge (1 year)](https://assets.ppy.sh/profile-badges/QAT1y.png "Longstanding contribution to the Nomination Assessment Team - 1 year") | ::Greaper::{ user=2369776 }, ::Leniane::{ user=7138602 }, ::Nepuri::{ user=6637817 }, ::Seto Kousuke::{ user=2857314 }, ::Tyistiana::{ user=1421452 }, ::yaspo::{ user=4945926 } |
+| ![QAT/NAT Badge (2 years)](https://assets.ppy.sh/profile-badges/QAT2y.png "Longstanding contribution to the QAT/NAT - 2 years") | ::Kibbleru::{ user=3193504 }, ::Noffy::{ user=1541323 } |
+| ![QAT/NAT Badge (3 years)](https://assets.ppy.sh/profile-badges/QAT3y.jpg "Longstanding contribution to the QAT/NAT - 3 years") | ::-Mo-::{ user=2202163 }, ::Lasse::{ user=896613 }, ::Naxess::{ user=8129817 } |
+| ![QAT/NAT Badge (4 years)](https://assets.ppy.sh/profile-badges/QAT4y.jpg "Longstanding contribution to the QAT/NAT - 4 years") | ::Feerum::{ user=4815717 }, ::pishifat::{ user=3178418 } |
 
 ## Mappers' Showcase
 
 This month in the Mappers' Showcase, we'll be featuring two hidden gems from the drum-basher's game mode of choice, osu!taiko!
 
-A big thank you goes out to the showcase selectors for this issue, namely ::Hivie::{ user=14102976 } and [radar](https://osu.ppy.sh/users/7131099)!
+A big thank you goes out to the showcase selectors for this issue, namely ::Hivie::{ user=14102976 } and ::radar::{ user=7131099 }!
 
 ### Maimaing
 

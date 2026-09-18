@@ -35,17 +35,17 @@ For those that meet the activity requirements, the Quality Assurance Team will t
 
 ### Removal of inactive Beatmap Nominators
 
-Lastly, **a number of existing Beatmap Nominators will be departing** to pursue other opportunities. Many thanks to ::-Kamikaze-::{ user=2124783 }, [Dellvangel](https://osu.ppy.sh/users/5186244), ::Koiyuki::{ user=2433507 }, [Kuo Kyoka](https://osu.ppy.sh/users/2596306), ::newyams99::{ user=3701008 }, [Nivrad00](https://osu.ppy.sh/users/1984634), ::snowball112::{ user=2350722 }, [Sonnyc](https://osu.ppy.sh/users/11771) and ::Xinely::{ user=1521445 } for your contributions to our community over the months and years!
+Lastly, **a number of existing Beatmap Nominators will be departing** to pursue other opportunities. Many thanks to ::-Kamikaze-::{ user=2124783 }, ::Dellvangel::{ user=5186244 }, ::Koiyuki::{ user=2433507 }, ::Kuo Kyoka::{ user=2596306 }, ::newyams99::{ user=3701008 }, ::Nivrad00::{ user=1984634 }, ::snowball112::{ user=2350722 }, ::Sonnyc::{ user=11771 } and ::Xinely::{ user=1521445 } for your contributions to our community over the months and years!
 
 ## Updates to the Quality Assurance Team
 
 With Beatmap Nominator tests no longer a factor, **there have been further reshuffles to role distribution within the QAT.** In addition to having more time available to lead and monitor their respective Beatmap Nominator subdivisions, additional roles undertaken by some members are listed below:
 
-- **Beatmap Nominator promotions:** ::Deif::{ user=318565 }, [Mao](https://osu.ppy.sh/users/2204515), ::Nardoxyribonucleic::{ user=876419 }
-- **QAT blog:** ::JBHyperion::{ user=4879508 }, [Feerum](https://osu.ppy.sh/users/4815717)
-- **Metadata:** ::IamKwaN::{ user=1856463 }, [Doyak](https://osu.ppy.sh/users/2046893)
-- **Ranking Criteria:** ::Okorin::{ user=1623405 }, [pishifat](https://osu.ppy.sh/users/3178418)
-- **Beatmap Spotlights:** ::OnosakiHito::{ user=290128 }, [Kurokami](https://osu.ppy.sh/users/260933)
+- **Beatmap Nominator promotions:** ::Deif::{ user=318565 }, ::Mao::{ user=2204515 }, ::Nardoxyribonucleic::{ user=876419 }
+- **QAT blog:** ::JBHyperion::{ user=4879508 }, ::Feerum::{ user=4815717 }
+- **Metadata:** ::IamKwaN::{ user=1856463 }, ::Doyak::{ user=2046893 }
+- **Ranking Criteria:** ::Okorin::{ user=1623405 }, ::pishifat::{ user=3178418 }
+- **Beatmap Spotlights:** ::OnosakiHito::{ user=290128 }, ::Kurokami::{ user=260933 }
 
 Additionally, please offer a warm farewell to ::alacat::{ user=869782 }, who will be departing from his role in metadata checking for newly qualified beatmaps. Many thanks for your hard work over the years, and we wish you the best of luck in your future endeavours!
 

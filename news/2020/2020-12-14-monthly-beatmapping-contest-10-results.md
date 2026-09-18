@@ -53,7 +53,7 @@ For the last few contests their picks have aligned with the contest winner, but 
 
 ---
 
-October's contest has come and gone, and with it concludes the MBC for this year! Thanks to ::Myxo::{ user=2202645 }, [hypercyte](https://osu.ppy.sh/users/9155377), ::Cubby::{ user=10914582 }, [Niva](https://osu.ppy.sh/users/197805), ::Cheri::{ user=5226970 }, [Agatsu](https://osu.ppy.sh/users/5579871), ::Regou::{ user=419954 }, [Nozhomi](https://osu.ppy.sh/users/2716981), ::Akito::{ user=5716327 }, and [Garden](https://osu.ppy.sh/users/2849992) for screening this month's entries, as well as ::Pachiru::{ user=2850983 }, [Mazzerin](https://osu.ppy.sh/users/2942381), ::Nuvolina::{ user=10974170 }, [Zelq](https://osu.ppy.sh/users/8953955), ::Pentori::{ user=7452237 }, [Gero](https://osu.ppy.sh/users/1467715), ::Uberzolik::{ user=1314547 }, and [Elayue](https://osu.ppy.sh/users/6400861) for judging this month's finalists!
+October's contest has come and gone, and with it concludes the MBC for this year! Thanks to ::Myxo::{ user=2202645 }, ::hypercyte::{ user=9155377 }, ::Cubby::{ user=10914582 }, ::Niva::{ user=197805 }, ::Cheri::{ user=5226970 }, ::Agatsu::{ user=5579871 }, ::Regou::{ user=419954 }, ::Nozhomi::{ user=2716981 }, ::Akito::{ user=5716327 }, and ::Garden::{ user=2849992 } for screening this month's entries, as well as ::Pachiru::{ user=2850983 }, ::Mazzerin::{ user=2942381 }, ::Nuvolina::{ user=10974170 }, ::Zelq::{ user=8953955 }, ::Pentori::{ user=7452237 }, ::Gero::{ user=1467715 }, ::Uberzolik::{ user=1314547 }, and ::Elayue::{ user=6400861 } for judging this month's finalists!
 
 ## Contributors
 

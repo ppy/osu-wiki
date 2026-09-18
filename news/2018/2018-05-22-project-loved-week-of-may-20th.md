@@ -11,7 +11,7 @@ series: project_loved
 
 Welcome to the second [Project Loved](https://osu.ppy.sh/community/forums/120) voting round of May 2018! This week's beatmap selection includes both recent hits and old favourites; there's sure to be something that will fit your tastes! The descriptions provided below will do the explaining, but first, there are a few things about Project Loved that we need to address.
 
-Firstly, the lineup of osu!catch captains is changing! Two of our long-time captains, ::Deif::{ user=318565 } and [JBHyperion](https://osu.ppy.sh/users/4879508), have decided to retire from the role. They both deserve a huge thanks for all the work they've done in nominating and reviewing osu!catch maps over the last seven months. To fill in the gap, regular beatmap description writer ::SartNYAN OwO xD::{ user=4100941 } will be taking the position. He's already been working close with the Project Loved team for quite some time, so we're glad to welcome him as a captain!
+Firstly, the lineup of osu!catch captains is changing! Two of our long-time captains, ::Deif::{ user=318565 } and ::JBHyperion::{ user=4879508 }, have decided to retire from the role. They both deserve a huge thanks for all the work they've done in nominating and reviewing osu!catch maps over the last seven months. To fill in the gap, regular beatmap description writer ::SartNYAN OwO xD::{ user=4100941 } will be taking the position. He's already been working close with the Project Loved team for quite some time, so we're glad to welcome him as a captain!
 
 Also this week, osu!catch is changing their nomination schedule slightly. From now on, osu!catch voting will only contain **four** beatmaps per week, one less than the previous five. The captains agreed that if they didn't slow down the pace, they might've run out of high-quality maps too quickly.
 
@@ -34,13 +34,13 @@ Alright, that's all for the meta talk. As always, you can vote for your favourit
 
 [![](/wiki/shared/news/2018-05-22-project-loved-week-of-may-20th/osu/kick-ass-kung-fu-carnival.jpg)](https://osu.ppy.sh/community/forums/topics/749046)
 
-[t+pazolite - Kick-ass Kung-fu Carnival](https://osu.ppy.sh/beatmapsets/70469) by ::Zapy::{ user=1961512 } and [Backfire](https://osu.ppy.sh/users/263110)
+[t+pazolite - Kick-ass Kung-fu Carnival](https://osu.ppy.sh/beatmapsets/70469) by ::Zapy::{ user=1961512 } and ::Backfire::{ user=263110 }
 
 The old Graveyard cemetery caretaker ::Zapy::{ user=1961512 } returns with another classic map from 2012. It was quite uncommon to see CS3 maps back in the day, though symmetry mapping was an extremely common theme apparent throughout the map. Despite what may be seen today as bland mapping, Kick-ass Kung-fu Carnival remains to be the absolute joy to play as it was 6 years ago.
 
 [![](/wiki/shared/news/2018-05-22-project-loved-week-of-may-20th/osu/wirtshaus-gaudi.jpg)](https://osu.ppy.sh/community/forums/topics/749047)
 
-[Equilibrium - Wirtshaus Gaudi](https://osu.ppy.sh/beatmapsets/364403) by ::Mazzerin::{ user=2942381 } and [Milan-](https://osu.ppy.sh/users/1052994)
+[Equilibrium - Wirtshaus Gaudi](https://osu.ppy.sh/beatmapsets/364403) by ::Mazzerin::{ user=2942381 } and ::Milan-::{ user=1052994 }
 
 Although ::Mazzerin::{ user=2942381 } may be known for his affinity for extremely intense, technical death metal songs to map, Wirtshaus Gaudi keeps the harsh vocals and combines them with a melodic jig that's difficult not to bounce along to. Matching the happy bouncy chorus of symphonic folk band Equilibrium, the kiai is full of jumps and spaced triples compared to the more streamy intro and verses. Whether you enjoy metal or not, this song is hard not to love due to how melodic it is.
 
@@ -60,7 +60,7 @@ Nearly everyone must be familiar with ::rustbell::{ user=227717 } in some way at
 
 [Hatsuki Yura - Diabolikha](https://osu.ppy.sh/beatmapsets/286168) by ::Lan wings::{ user=467860 }
 
-Similarly to ::Flower::{ user=1033017 }, [Lan wings](https://osu.ppy.sh/users/467860) has been the unseen influence on many modern mappers, and much like ::rustbell::{ user=227717 }, every note in his beatmaps serve to fit the music and not for the sake of making a difficult map. Sitting at an intense 7.9\*, every part of Diabolikha feels warranted in this 286BPM behemoth. Emphasis within patterns is placed in all the right places and by the end you'll have forgotten that the map is supposed to be difficult and instead be in awe of how beautiful the structure of this map is.
+Similarly to ::Flower::{ user=1033017 }, ::Lan wings::{ user=467860 } has been the unseen influence on many modern mappers, and much like ::rustbell::{ user=227717 }, every note in his beatmaps serve to fit the music and not for the sake of making a difficult map. Sitting at an intense 7.9\*, every part of Diabolikha feels warranted in this 286BPM behemoth. Emphasis within patterns is placed in all the right places and by the end you'll have forgotten that the map is supposed to be difficult and instead be in awe of how beautiful the structure of this map is.
 
 [![](/wiki/shared/news/2018-05-22-project-loved-week-of-may-20th/osu/disconnected.jpg)](https://osu.ppy.sh/community/forums/topics/749051)
 
@@ -70,9 +70,9 @@ What's a round of Loved voting without one mapset that's more popular for its so
 
 [![](/wiki/shared/news/2018-05-22-project-loved-week-of-may-20th/osu/omega-rhythm-bpm210-ver-.jpg)](https://osu.ppy.sh/community/forums/topics/749052)
 
-[UPLIFT SPICE - Omega Rhythm(BPM210.Ver)](https://osu.ppy.sh/beatmapsets/153455) by ::T1Y::{ user=2293227 }, [caren\_sk](https://osu.ppy.sh/users/542498) and ::HabiHolic::{ user=1974436 }
+[UPLIFT SPICE - Omega Rhythm(BPM210.Ver)](https://osu.ppy.sh/beatmapsets/153455) by ::T1Y::{ user=2293227 }, ::caren\_sk::{ user=542498 } and ::HabiHolic::{ user=1974436 }
 
-Much like Disconnected, these BPM edits of Omega Rhythm also made its rounds among the 2014 community as another "pass challenge". It's difficult to explain why this map was so popular, though the 155 favorites should speak for themselves. The mapset features guest difficulties by ::caren\_sk::{ user=542498 } and [HabiHolic](https://osu.ppy.sh/users/1974436), as well as a 240BPM edit of ::T1Y::{ user=2293227 }'s original difficulty. Once you play the map at this speed, it'll be difficult to hear it at the original speed.
+Much like Disconnected, these BPM edits of Omega Rhythm also made its rounds among the 2014 community as another "pass challenge". It's difficult to explain why this map was so popular, though the 155 favorites should speak for themselves. The mapset features guest difficulties by ::caren\_sk::{ user=542498 } and ::HabiHolic::{ user=1974436 }, as well as a 240BPM edit of ::T1Y::{ user=2293227 }'s original difficulty. Once you play the map at this speed, it'll be difficult to hear it at the original speed.
 
 [![](/wiki/shared/news/2018-05-22-project-loved-week-of-may-20th/osu/mayday-feat-laura-brehm-.jpg)](https://osu.ppy.sh/community/forums/topics/749053)
 
@@ -96,10 +96,10 @@ If it weren't for the anomaly [Mayday](https://osu.ppy.sh/beatmapsets/756794) th
 
 [![](/wiki/shared/news/2018-05-22-project-loved-week-of-may-20th/taiko/still-scared-of-ouija-boards.jpg)](https://osu.ppy.sh/community/forums/topics/749060)
 
-[Goreshit - Still scared of ouija boards](https://osu.ppy.sh/beatmapsets/663341) by ::Backfire::{ user=263110 } and [-Kazu-](https://osu.ppy.sh/users/920861)\
+[Goreshit - Still scared of ouija boards](https://osu.ppy.sh/beatmapsets/663341) by ::Backfire::{ user=263110 } and ::-Kazu-::{ user=920861 }\
 *written by ::Gezoda::{ user=481582 }*
 
-It may not be Halloween yet, but ::Backfire::{ user=263110 } and [-Kazu-](https://osu.ppy.sh/users/920861) are still bringing the ouija boards for you to be spooked! Although the song doesn't quite fit the theme, this very awesome beatmap to a great tune really brings out the best of both of these mappers. It's a good stamina and reading challenge, and it's not something you want to miss! Just, don't burn the map if you're too scared...
+It may not be Halloween yet, but ::Backfire::{ user=263110 } and ::-Kazu-::{ user=920861 } are still bringing the ouija boards for you to be spooked! Although the song doesn't quite fit the theme, this very awesome beatmap to a great tune really brings out the best of both of these mappers. It's a good stamina and reading challenge, and it's not something you want to miss! Just, don't burn the map if you're too scared...
 
 [![](/wiki/shared/news/2018-05-22-project-loved-week-of-may-20th/taiko/sink-to-the-deep-sea-world.jpg)](https://osu.ppy.sh/community/forums/topics/749061)
 
@@ -124,7 +124,7 @@ As far as legends go, ::glalucard::{ user=577406 } is certainly one of them. Hos
 
 [![](/wiki/shared/news/2018-05-22-project-loved-week-of-may-20th/taiko/chousai-kenbo-sengen.jpg)](https://osu.ppy.sh/community/forums/topics/749064)
 
-[Hommarju feat. R. Cena - Chousai Kenbo Sengen](https://osu.ppy.sh/beatmapsets/689734) by ::iceOC::{ user=5482401 } and [Gezoda](https://osu.ppy.sh/users/481582)\
+[Hommarju feat. R. Cena - Chousai Kenbo Sengen](https://osu.ppy.sh/beatmapsets/689734) by ::iceOC::{ user=5482401 } and ::Gezoda::{ user=481582 }\
 *written by ::Gezoda::{ user=481582 }*
 
 Technical map with a pinch of catgirls, Chousai Kenbo Sengen really is something you should give a try. Mapped by iceOC, an obscure Japanese mapper, this tech beatmap comes with loads of 1/6ths, handswitches as well as streams and comes with a whopping HP7 for 2,000 notes, meaning that clearing it will be a challenge. But if you're too scared of this, an easier Oni difficulty mapped by Gezoda is provided as well, but is still going to test your stamina.
@@ -221,7 +221,7 @@ If you think, the first half is hard enough, well.... The second half is almost 
 [UNDEAD CORPORATION - Seven Colors](https://osu.ppy.sh/beatmapsets/288138) by ::Nwolf::{ user=1910766 } et al.\
 *written by ::aitor98::{ user=3154852 }*
 
-Being a multimode set, [Seven Colors by UNDEAD CORPORATION](https://osu.ppy.sh/beatmapsets/288138) brings us a really good 7K difficulty set made by ::LordRaika::{ user=3265023 } and [Arzenvald](https://osu.ppy.sh/users/3027421). It mostly features a good mix between low-mid density chordstreams and Long Note sections, followed by sightreadable Scroll Velocities throughout the entire map at 200BPM for almost 3 minutes and a half, which means two things, stamina and consistency.
+Being a multimode set, [Seven Colors by UNDEAD CORPORATION](https://osu.ppy.sh/beatmapsets/288138) brings us a really good 7K difficulty set made by ::LordRaika::{ user=3265023 } and ::Arzenvald::{ user=3027421 }. It mostly features a good mix between low-mid density chordstreams and Long Note sections, followed by sightreadable Scroll Velocities throughout the entire map at 200BPM for almost 3 minutes and a half, which means two things, stamina and consistency.
 
 This map was also featured in the 7K osu!mania World Cup 2018 Quarterfinals mappool and it is good enough to give it a shot at least. Good luck!
 

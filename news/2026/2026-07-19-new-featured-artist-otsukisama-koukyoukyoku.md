@@ -19,7 +19,7 @@ Rather than words, the best way to appreciate music is to listen to it. Here on 
 
 ### Otsukisama Koukyoukyoku - Futoumeisha to Fuwa no Koe
 
-Experience [this marathon map](https://osu.ppy.sh/beatmapsets/1812996) created by ::iljaaz::{ user=8501291 } and [Plus4j](https://osu.ppy.sh/users/4086497)!
+Experience [this marathon map](https://osu.ppy.sh/beatmapsets/1812996) created by ::iljaaz::{ user=8501291 } and ::Plus4j::{ user=4086497 }!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>

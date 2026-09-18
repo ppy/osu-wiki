@@ -24,7 +24,7 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/QeAhD9mac_g?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-osu!standard Loved candidates were chosen by ::DigitalHypno::{ user=4384207 } and [Ventus](https://osu.ppy.sh/users/1986262)! This week, all osu!standard beatmap descriptions were written by ::DigitalHypno::{ user=4384207 }.
+osu!standard Loved candidates were chosen by ::DigitalHypno::{ user=4384207 } and ::Ventus::{ user=1986262 }! This week, all osu!standard beatmap descriptions were written by ::DigitalHypno::{ user=4384207 }.
 
 ---
 
@@ -67,7 +67,7 @@ Sharpen your high BPM aim, because you're going to need it to be in tip-top shap
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/2Gs3IeINhww?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [iceOC](https://osu.ppy.sh/users/5482401), ::jyake::{ user=9099822 }, [nyanmi-1828](https://osu.ppy.sh/users/6866480) and ::Ulqui::{ user=1263669 }!
+osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::iceOC::{ user=5482401 }, ::jyake::{ user=9099822 }, ::nyanmi-1828::{ user=6866480 } and ::Ulqui::{ user=1263669 }!
 
 ---
 
@@ -93,7 +93,7 @@ Coming to Loved this week is a huge collab hosted by Noko_BSF, with 22 mappers c
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/2Gs3IeINhww?start=170&rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-osu!catch Loved candidates were chosen by ::Tenshichan::{ user=1101600 }, [Sartan](https://osu.ppy.sh/users/4100941), ::Wesley::{ user=2407265 } and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
+osu!catch Loved candidates were chosen by ::Tenshichan::{ user=1101600 }, ::Sartan::{ user=4100941 }, ::Wesley::{ user=2407265 } and ::Yumeno Himiko::{ user=1806962 }!
 
 ---
 
@@ -103,7 +103,7 @@ osu!catch Loved candidates were chosen by ::Tenshichan::{ user=1101600 }, [Sarta
 110 BPM, 4:18 | 1.72★, 4.68★, 6.23★, 6.39★\
 *description written by ::Wesley::{ user=2407265 }*
 
-Minato Yukina is by no means a new face to the Loved section already boasting a whopping 12 maps in the category. This map is one of the many Nervous Breakdowns' he has created. As the name suggests it is quite heavy on the nerves due to the constant jumps combined with hyperchains. To top it all off, the Nervous Breakdown difficulty has some unique hitsounding from various other games. While Nervous Breakdown is probably the most known difficulty, it isn't the only difficulty in the set. ::Milquar::{ user=5878453 }, [Yumeno Himiko](https://osu.ppy.sh/users/1806962) and ::ExGon::{ user=214187 } have created some well-made difficulties too. All three difficulties offer a wide variation in overall difficulty and patterns, whether it be the Salad, Rain or Overdose. Even though it isn't a full spread, the set will be playable in one way or another for almost everyone!
+Minato Yukina is by no means a new face to the Loved section already boasting a whopping 12 maps in the category. This map is one of the many Nervous Breakdowns' he has created. As the name suggests it is quite heavy on the nerves due to the constant jumps combined with hyperchains. To top it all off, the Nervous Breakdown difficulty has some unique hitsounding from various other games. While Nervous Breakdown is probably the most known difficulty, it isn't the only difficulty in the set. ::Milquar::{ user=5878453 }, ::Yumeno Himiko::{ user=1806962 } and ::ExGon::{ user=214187 } have created some well-made difficulties too. All three difficulties offer a wide variation in overall difficulty and patterns, whether it be the Salad, Rain or Overdose. Even though it isn't a full spread, the set will be playable in one way or another for almost everyone!
 
 [![](/wiki/shared/news/2019-10-14-project-loved-week-of-october-13th/catch/2-the-pretender.jpg)](https://osu.ppy.sh/community/forums/topics/973343)
 
@@ -117,7 +117,7 @@ Whereas the other selected osu!catch map for this week's Loved round is from a m
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/2Gs3IeINhww?start=328&rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-osu!mania Loved candidates were chosen by ::Shoegazer::{ user=2520707 }, [lenpai](https://osu.ppy.sh/users/5314573), ::Pope Gadget::{ user=2288341 } and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
+osu!mania Loved candidates were chosen by ::Shoegazer::{ user=2520707 }, ::lenpai::{ user=5314573 }, ::Pope Gadget::{ user=2288341 } and ::Toaph Daddy::{ user=7616811 }!
 
 ---
 
@@ -150,7 +150,7 @@ Starting off with with K-pop and into something Choir-y, Flexo123 comes back to 
 
 From everyone on the Project Loved team, we hope you enjoyed this week's selection, and are looking forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
-In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Noffy::{ user=1541323 }, [PsychoStatic](https://osu.ppy.sh/users/7291594), ::huu::{ user=6044237 } and [Ephemeral](https://osu.ppy.sh/users/102335) for their miscellaneous help in managing Project Loved.
+In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Noffy::{ user=1541323 }, ::PsychoStatic::{ user=7291594 }, ::huu::{ user=6044237 } and ::Ephemeral::{ user=102335 } for their miscellaneous help in managing Project Loved.
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! You can view the current submissions on the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0). For osu!mania, please use [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSeaGfoQNGMqw4qQcqRPItUZILh2fGwJR6ly6cZNY9OWPXkFhw/viewform) and [this Google sheet](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit) instead.
 

@@ -145,7 +145,7 @@ El historial de algunos usuarios puede estar incompleto durante este año.
 - ::lovhin456::{ user=55096 } fue movido del Beatmap Appreciation Team a los osu! Alumni (2/8/2013)
 - ::Miya::{ user=909167 } fue movido del Beatmap Appreciation Team a los osu! Alumni (2/8/2013)
 - ::orioncomet::{ user=104827 } fue movido del Beatmap Appreciation Team a los osu! Alumni (2/8/2013)
-- [ykcarrot](https://osu.ppy.sh/users/ykcarrot) fue movido del Beatmap Appreciation Team a los osu! Alumni (2/8/2013)
+- ::ykcarrot::{ user=70730 } fue movido del Beatmap Appreciation Team a los osu! Alumni (2/8/2013)
 - ::Frostmourne::{ user=199669 } fue movido de los osu! Alumni al Beatmap Appreciation Team (2/8/2013)
 - ::bossandy::{ user=360437 } fue movido de los osu! Alumni al Beatmap Appreciation Team (14/8/2013)
 - ::p3n::{ user=123703 } fue movido de los osu! Alumni al Beatmap Appreciation Team (16/8/2013)

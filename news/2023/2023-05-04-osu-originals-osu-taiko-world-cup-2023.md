@@ -63,7 +63,7 @@ For pure chaos, give your best attempt to [this map](https://osu.ppy.sh/beatmaps
 
 The **Grand Finals tiebreaker** has always been the climax of any tournament's mappool, so bringing [**DJ Genki / Gram**](https://osu.ppy.sh/beatmaps/artists/295) on board was a must.
 
-Prepare your hands for over 5 minutes of [this 8.5-star map](https://osu.ppy.sh/beatmapsets/1981053) created by ::Nifty::{ user=4956097 }, [rubies87](https://osu.ppy.sh/users/4949934), and ::\1mtk::{ user=9468283 }. Try not to get any 100s on those last 4 notes too. :)
+Prepare your hands for over 5 minutes of [this 8.5-star map](https://osu.ppy.sh/beatmapsets/1981053) created by ::Nifty::{ user=4956097 }, ::rubies87::{ user=4949934 }, and ::\1mtk::{ user=9468283 }. Try not to get any 100s on those last 4 notes too. :)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/295/Songs/Gram%20-%20Sigrdrifa.mp3" type="audio/mpeg">

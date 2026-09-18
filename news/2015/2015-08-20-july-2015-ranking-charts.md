@@ -7,7 +7,7 @@ series: beatmap_spotlights
 ---
 
 With some delay, the Ranking Charts for July 2015 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1507)!
-This month ::monstrata::{ user=2706438 }, [Stefan](https://osu.ppy.sh/users/626907), ::ExRei::{ user=1929336 } and [Harbyter](https://osu.ppy.sh/users/1147679) picked the maps for the Monthly Ranking Charts.
+This month ::monstrata::{ user=2706438 }, ::Stefan::{ user=626907 }, ::ExRei::{ user=1929336 } and ::Harbyter::{ user=1147679 } picked the maps for the Monthly Ranking Charts.
 
 ## Ranking Charts Creation
 

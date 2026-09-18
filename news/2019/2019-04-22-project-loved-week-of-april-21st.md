@@ -24,7 +24,7 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ## osu!
 
-osu! Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, [-Roxas](https://osu.ppy.sh/users/1986262), ::BeasttrollMC::{ user=3171691 }, [Bubbleman](https://osu.ppy.sh/users/5182050) and ::waywern2012::{ user=5870453 }!
+osu! Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, ::-Roxas::{ user=1986262 }, ::BeasttrollMC::{ user=3171691 }, ::Bubbleman::{ user=5182050 } and ::waywern2012::{ user=5870453 }!
 
 ---
 
@@ -54,7 +54,7 @@ Here's a fun map for you "fast aim" enthusiasts—a 254 BPM song with a map over
 
 [![](/wiki/shared/news/2019-04-22-project-loved-week-of-april-21st/osu/4-slodycze.jpg)](https://osu.ppy.sh/community/forums/topics/898269)
 
-[Golec uOrkiestra - Slodycze](https://osu.ppy.sh/beatmapsets/707249#osu) by ::fartownik::{ user=56917 } and [Raikozen](https://osu.ppy.sh/users/3827077)\
+[Golec uOrkiestra - Slodycze](https://osu.ppy.sh/beatmapsets/707249#osu) by ::fartownik::{ user=56917 } and ::Raikozen::{ user=3827077 }\
 140 BPM, 3:56 | 6.94★\
 *written by ::DigitalHypno::{ user=4384207 }*
 
@@ -114,7 +114,7 @@ A trip through many different speeds and styles of mapping, AtHeoN's map of Luna
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [iceOC](https://osu.ppy.sh/users/5482401), ::jyake::{ user=9099822 } and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
+osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::iceOC::{ user=5482401 }, ::jyake::{ user=9099822 } and ::nyanmi-1828::{ user=6866480 }!
 
 ---
 
@@ -128,7 +128,7 @@ Jaye's mapping style is based a lot on giving a great experience to the players 
 
 [![](/wiki/shared/news/2019-04-22-project-loved-week-of-april-21st/taiko/2-pump-it.jpg)](https://osu.ppy.sh/community/forums/topics/898259)
 
-[Getty - Pump It](https://osu.ppy.sh/beatmapsets/721544#taiko) by ::yea::{ user=6874332 } and [Lno](https://osu.ppy.sh/users/1900787)\
+[Getty - Pump It](https://osu.ppy.sh/beatmapsets/721544#taiko) by ::yea::{ user=6874332 } and ::Lno::{ user=1900787 }\
 170 BPM, 1:54 | 5.19★, 8.42★, 8.66★\
 *written by ::jyake::{ user=9099822 }*
 
@@ -152,7 +152,7 @@ tasuke912's "TAIKO-HOLiC" map series is famous for being challenging and high-qu
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, [Tenshichan](https://osu.ppy.sh/users/1101600), ::Wesley::{ user=2407265 } and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
+osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, ::Tenshichan::{ user=1101600 }, ::Wesley::{ user=2407265 } and ::Yumeno Himiko::{ user=1806962 }!
 
 ---
 
@@ -170,7 +170,7 @@ All in all, this great map definitely deserves to be nominated and deserves more
 
 [![](/wiki/shared/news/2019-04-22-project-loved-week-of-april-21st/catch/2-saigo.jpg)](https://osu.ppy.sh/community/forums/topics/898254)
 
-[An - Saigo](https://osu.ppy.sh/beatmapsets/631747#fruits) by ::Rocma::{ user=566276 }, [Spectator](https://osu.ppy.sh/users/702598), ::\[224\]Hyperw7::{ user=4158549 } and [mjj741](https://osu.ppy.sh/users/1459769)\
+[An - Saigo](https://osu.ppy.sh/beatmapsets/631747#fruits) by ::Rocma::{ user=566276 }, ::Spectator::{ user=702598 }, ::\[224\]Hyperw7::{ user=4158549 } and ::mjj741::{ user=1459769 }\
 200 BPM, 3:43 | 1.75★ – 7.09★\
 *written by ::Yumeno Himiko::{ user=1806962 }*
 
@@ -178,7 +178,7 @@ If you simply seek a nice song paired with a challenging map, Saigo must be one 
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::Shoegazer::{ user=2520707 }, [Lenfried-](https://osu.ppy.sh/users/5314573), ::Pope Gadget::{ user=2288341 } and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
+osu!mania Loved candidates were chosen by ::Shoegazer::{ user=2520707 }, ::Lenfried-::{ user=5314573 }, ::Pope Gadget::{ user=2288341 } and ::Toaph Daddy::{ user=7616811 }!
 
 ---
 
@@ -195,7 +195,7 @@ The highest difficulty has been praised by the playing community the most, and i
 
 [![](/wiki/shared/news/2019-04-22-project-loved-week-of-april-21st/mania/2-pavor-nocturnus.jpg)](https://osu.ppy.sh/community/forums/topics/898251)
 
-[Igorrr - Pavor Nocturnus](https://osu.ppy.sh/beatmapsets/598277#mania) by ::Janko::{ user=2424823 }, [Another Lie](https://osu.ppy.sh/users/4349345) and ::AnatOWJIya::{ user=486264 }\
+[Igorrr - Pavor Nocturnus](https://osu.ppy.sh/beatmapsets/598277#mania) by ::Janko::{ user=2424823 }, ::Another Lie::{ user=4349345 } and ::AnatOWJIya::{ user=486264 }\
 174 BPM, 4:12 | 4K 1.42★, 4K 2.26★, 4K 3.41★, 4K 4.35★, 4K 4.79★
 
 We're a bit overdue for an Igorrr pick, aren't we? Janko gets his first ever nominated mapset with his rendition of Pavor Nocturnus—a mapset that nicely captures the whimsicality and aggression of one of Igorrr's more well-known tracks.
@@ -206,7 +206,7 @@ For lower-level players, there are four other difficulties for you to try out. W
 
 [![](/wiki/shared/news/2019-04-22-project-loved-week-of-april-21st/mania/3-sayonara-memories.jpg)](https://osu.ppy.sh/community/forums/topics/898250)
 
-[supercell - Sayonara Memories](https://osu.ppy.sh/beatmapsets/776025#mania) by ::eZmmR::{ user=8647138 }, [upan](https://osu.ppy.sh/users/5214397) and ::Yuichie::{ user=7684648 }\
+[supercell - Sayonara Memories](https://osu.ppy.sh/beatmapsets/776025#mania) by ::eZmmR::{ user=8647138 }, ::upan::{ user=5214397 } and ::Yuichie::{ user=7684648 }\
 80 BPM, 5:55 | 4K 5.76★
 
 Sayonara Memories, yet another LN chart that draws on the intrigues that come with O2Jam-inspired charting, features exciting gameplay, commonly smooth patterns, and all-out nature that makes for an ultimately satisfying experience. eZmmR joins forces with upan (better known as TimBergling) and Yuichie for this marathon of LNs, and like many other previously-seen LN charts of this nature, has an exaggerated and noticeable difficulty curve, relying mostly on the shifts in and out of inverse to mark changes in intensity for the first two choruses, and then changing up the formula for the last. There, the players are met with rolly patterns with the release lengths being the largest variable used to represent the intensity of the sounds, making for a finale sure to draw interest. Sayonara Memories proves to be a notable successor to other LN charts made by mappers like shuniki and Skochan, and has the popularity to help back it up as one of our nominations for the Loved section.
@@ -231,7 +231,7 @@ The set overall is particularly technical, as the keysounds do in fact match ver
 
 From everyone on the Project Loved team, we hope you enjoyed this week's selection, and are looking forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
-In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Toy::{ user=2757689 }, [Noffy](https://osu.ppy.sh/users/1541323), ::ThatsNotAName::{ user=9682904 }, [huu](https://osu.ppy.sh/users/6044237) and ::Ephemeral::{ user=102335 } for their miscellaneous help in managing Project Loved.
+In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Toy::{ user=2757689 }, ::Noffy::{ user=1541323 }, ::ThatsNotAName::{ user=9682904 }, ::huu::{ user=6044237 } and ::Ephemeral::{ user=102335 } for their miscellaneous help in managing Project Loved.
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! You can view the current submissions on the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0). For osu!mania, please use [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSeaGfoQNGMqw4qQcqRPItUZILh2fGwJR6ly6cZNY9OWPXkFhw/viewform) and [this Google sheet](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit) instead.
 

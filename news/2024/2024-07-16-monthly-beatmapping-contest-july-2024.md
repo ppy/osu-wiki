@@ -39,7 +39,7 @@ This article is split into sections. Skip around:
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/3KhgRmCr-D8" frameborder="0" allowfullscreen></iframe>
 </div>
 
-::Uberzolik::{ user=1314547 }, [Shii](https://osu.ppy.sh/users/9186316), ::Aeril::{ user=4334976 }, [Mattay](https://osu.ppy.sh/users/9748303), ::Nachmark::{ user=17584310 }, [Ascended](https://osu.ppy.sh/users/4564285), ::tokiko::{ user=2836455 }, [Bluenation](https://osu.ppy.sh/users/10903500), ::MaridiuS::{ user=4496961 }, and [mapping](https://osu.ppy.sh/users/30730829) were responsible for screening this month's entries, and ::Daycore::{ user=5596337 }, [Saki](https://osu.ppy.sh/users/3420746), ::Shmiklak::{ user=5504231 }, [Bloxi](https://osu.ppy.sh/users/9022451), ::KKipalt::{ user=6889573 }, [iRedi](https://osu.ppy.sh/users/8005579), and ::DeviousPanda::{ user=4966334 } were responsible for judging. Send your thanks to them!
+::Uberzolik::{ user=1314547 }, ::Shii::{ user=9186316 }, ::Aeril::{ user=4334976 }, ::Mattay::{ user=9748303 }, ::Nachmark::{ user=17584310 }, ::Ascended::{ user=4564285 }, ::tokiko::{ user=2836455 }, ::Bluenation::{ user=10903500 }, ::MaridiuS::{ user=4496961 }, and ::mapping::{ user=30730829 } were responsible for screening this month's entries, and ::Daycore::{ user=5596337 }, ::Saki::{ user=3420746 }, ::Shmiklak::{ user=5504231 }, ::Bloxi::{ user=9022451 }, ::KKipalt::{ user=6889573 }, ::iRedi::{ user=8005579 }, and ::DeviousPanda::{ user=4966334 } were responsible for judging. Send your thanks to them!
 
 ### osu!mania results
 
@@ -59,7 +59,7 @@ This article is split into sections. Skip around:
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/WQJAW00qViw" frameborder="0" allowfullscreen></iframe>
 </div>
 
-This month's maps were screened by ::gzdongsheng::{ user=8660315 }, [Maxus](https://osu.ppy.sh/users/4335785), ::Evening::{ user=2193881 }, [secXcscX](https://osu.ppy.sh/users/13543418), and ::chocomilku-::{ user=16687756 }, then the top maps were judged by ::Unpredictable::{ user=7560872 }, [-mint-](https://osu.ppy.sh/users/8976576), ::Paraxia::{ user=14001000 }, and [[GB]Rick](https://osu.ppy.sh/users/25263357)!
+This month's maps were screened by ::gzdongsheng::{ user=8660315 }, ::Maxus::{ user=4335785 }, ::Evening::{ user=2193881 }, ::secXcscX::{ user=13543418 }, and ::chocomilku-::{ user=16687756 }, then the top maps were judged by ::Unpredictable::{ user=7560872 }, ::-mint-::{ user=8976576 }, ::Paraxia::{ user=14001000 }, and ::\1GB\1Rick::{ user=25263357 }!
 
 ## Game modes
 

@@ -33,14 +33,14 @@ Not many people would expect a 175 BPM song to support such a high-intensity 8-s
 
 [![](/wiki/shared/news/2020-10-29-project-loved-october-2020/osu/2-sudden-death.jpg)](https://osu.ppy.sh/community/forums/topics/1171555)
 
-[3R2 - Sudden Death](https://osu.ppy.sh/beatmapsets/605109#osu) by ::Settia::{ user=2445897 }, [Leaf](https://osu.ppy.sh/users/1380419) and ::Tsumia::{ user=2244234 }\
+[3R2 - Sudden Death](https://osu.ppy.sh/beatmapsets/605109#osu) by ::Settia::{ user=2445897 }, ::Leaf::{ user=1380419 } and ::Tsumia::{ user=2244234 }\
 151 BPM, 1:30 | 6.85★, 6.87★, 6.87★, 7.50★, 7.58★
 
 Settia maps are known for having this really clean and pleasing style to them, and this mapset is no exception, featuring five distinct difficulties that all fall above six stars in difficulty. The song is 151 BPM and the maps feature unique alternating, jump stream, and finger control patterns that provide for a uniquely engaging gameplay experience. Each difficulty is a fun challenge of its own, so I recommend trying them all!
 
 [![](/wiki/shared/news/2020-10-29-project-loved-october-2020/osu/3-bedroom-community.jpg)](https://osu.ppy.sh/community/forums/topics/1171554)
 
-[glass beach - bedroom community](https://osu.ppy.sh/beatmapsets/1198613#osu) by ::quantumvortex::{ user=10660777 } and [Sytho](https://osu.ppy.sh/users/4175698)\
+[glass beach - bedroom community](https://osu.ppy.sh/beatmapsets/1198613#osu) by ::quantumvortex::{ user=10660777 } and ::Sytho::{ user=4175698 }\
 128 BPM, 5:56 | 9.99★
 
 Something about the number 9 seems to fit well... *bedroom community* is a super cleanly mapped jump marathon. Having been submitted only four months ago in June, it's gained popularity through scores by the best players. Despite being a relatively unknown mapper compared to many, quantumvortex has stunned the community with this map's quality. It's difficult to make a clean 10 star map—sorry, 9.99 stars if you want to be specific—but this map's 270 BPM jumps are so satisfying. Having been mapped by a fairly experienced touchscreen player, it makes sense that this map has no streams, just jumps as far as the eye can see. The mapset also has a "lower" 8.99 star difficulty, in case any of you want a tamer challenge. With all this talk about the map's high quality, all I can really say now is good luck.
@@ -54,7 +54,7 @@ Slaked is a mapper that has repeatedly pushed the limits of quality and uniquene
 
 [![](/wiki/shared/news/2020-10-29-project-loved-october-2020/osu/5-tower-light-fireworks-feat-rachie-cut-ver.jpg)](https://osu.ppy.sh/community/forums/topics/1171551)
 
-[iMeiden - Tower Light Fireworks (feat. Rachie) (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1222983#osu) by ::Veto::{ user=11619073 } and [Taeyang](https://osu.ppy.sh/users/2732340)\
+[iMeiden - Tower Light Fireworks (feat. Rachie) (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1222983#osu) by ::Veto::{ user=11619073 } and ::Taeyang::{ user=2732340 }\
 100 BPM, 2:17 | 48.85★
 
 There's something super refreshing about new 2B maps that make aesthetically pleasing patterns with the sliders, and this map executes that perfectly with the stunning display of art that's shown throughout the 2B slider patterns in this map. This is one of those maps that makes osu! act strangely with its quirky 2B behaviors, so be sure to follow the instructions in the beatmap description to get the best experience. Enjoy!
@@ -68,14 +68,14 @@ This pishifat map is the perfect balance between high quality mapping and comedi
 
 [![](/wiki/shared/news/2020-10-29-project-loved-october-2020/osu/7-bamboo-disco.jpg)](https://osu.ppy.sh/community/forums/topics/1171548)
 
-[Yunomi feat. TORIENA - Bamboo Disco](https://osu.ppy.sh/beatmapsets/809345#osu) by ::Alden::{ user=3545323 }, [Mentai](https://osu.ppy.sh/users/8554786) and ::Nagi Hisakawa::{ user=5477793 }\
+[Yunomi feat. TORIENA - Bamboo Disco](https://osu.ppy.sh/beatmapsets/809345#osu) by ::Alden::{ user=3545323 }, ::Mentai::{ user=8554786 } and ::Nagi Hisakawa::{ user=5477793 }\
 154 BPM, 3:02 | 2.12★, 3.66★, 4.69★, 5.68★
 
 This mapset of *Bamboo Disco* is a perfect example of the light and clean technical style done right. This mapset features a full spread of four difficulties that caps at mid-5 stars, and the top difficulty is definitely the highlight of the mapset, featuring super memorable patterns and rhythm changes between 1/3, 1/4, and 1/6 throughout the whole map. Overall, this mapset provides an extremely enjoyable gameplay experience through both the song and the mapping, and seeing as how there's a difficulty for all skill level players, this is a mapset that all of you should give a try.
 
 [![](/wiki/shared/news/2020-10-29-project-loved-october-2020/osu/8-go-go-carlito-who-s-that-boy.jpg)](https://osu.ppy.sh/community/forums/topics/1171547)
 
-[Carlito - Go Go Carlito (Who's That Boy?)](https://osu.ppy.sh/beatmapsets/1063490#osu) by ::saggi::{ user=8027395 }, [- Sana -](https://osu.ppy.sh/users/4720880) and ::-NeBu-::{ user=4099626 }\
+[Carlito - Go Go Carlito (Who's That Boy?)](https://osu.ppy.sh/beatmapsets/1063490#osu) by ::saggi::{ user=8027395 }, ::- Sana -::{ user=4720880 } and ::-NeBu-::{ user=4099626 }\
 120 BPM, 3:11 | 8.47★
 
 There seems to be this sort of formula: a catchy song plus flowy, spaced jumps equals a super enjoyable map. Either that or saggi is just a really good mapper. Actually, that might be more likely. Either way, this map is basically what I just described: three minutes of 240 BPM jumps that scale up to reach mid-8 stars. While this might sound like any other map, this map in particular manages to stand out from the pack through fulfilling that formula I mentioned above to such a high degree.
@@ -89,13 +89,13 @@ Nothing screams "classic" like *Toto - Africa*, and thankfully, this mapset by K
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [D3kuu](https://osu.ppy.sh/users/7807444), ::nyanmi-1828::{ user=6866480 } and [Raphalge](https://osu.ppy.sh/users/3918650)!
+osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::D3kuu::{ user=7807444 }, ::nyanmi-1828::{ user=6866480 } and ::Raphalge::{ user=3918650 }!
 
 ---
 
 [![](/wiki/shared/news/2020-10-29-project-loved-october-2020/taiko/1-strong-280.jpg)](https://osu.ppy.sh/community/forums/topics/1171543)
 
-[katagiri - STRONG 280](https://osu.ppy.sh/beatmapsets/1201900#taiko) by ::KTYN::{ user=2250574 } and [X a v y](https://osu.ppy.sh/users/3738344)\
+[katagiri - STRONG 280](https://osu.ppy.sh/beatmapsets/1201900#taiko) by ::KTYN::{ user=2250574 } and ::X a v y::{ user=3738344 }\
 280 BPM, 4:14 | 8.06★\
 *description written by ::-Kazu-::{ user=920861 }*
 
@@ -114,7 +114,7 @@ Funny you should ask, because it seems our friend X a v y has gone above and bey
 
 [![](/wiki/shared/news/2020-10-29-project-loved-october-2020/taiko/3-issyogaii.jpg)](https://osu.ppy.sh/community/forums/topics/1171541)
 
-[kawaii amen girl - issyogaii](https://osu.ppy.sh/beatmapsets/1173620#taiko) by ::hoku::{ user=9503098 }, [KTYN](https://osu.ppy.sh/users/2250574), ::HEKUSODASU::{ user=9044692 } and [Socus](https://osu.ppy.sh/users/10196449)\
+[kawaii amen girl - issyogaii](https://osu.ppy.sh/beatmapsets/1173620#taiko) by ::hoku::{ user=9503098 }, ::KTYN::{ user=2250574 }, ::HEKUSODASU::{ user=9044692 } and ::Socus::{ user=10196449 }\
 230 BPM, 2:49 | 6.67★, 6.88★, 6.97★, 7.06★\
 *description written by ::D3kuu::{ user=7807444 }*
 
@@ -136,7 +136,7 @@ Finally, finally, the time has come. It's time for an awakening! The beatmap is,
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, [Spectator](https://osu.ppy.sh/users/702598), ::Tenshichan::{ user=1101600 }, [Wesley](https://osu.ppy.sh/users/2407265) and ::Yumeno Himiko::{ user=1806962 }!
+osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, ::Spectator::{ user=702598 }, ::Tenshichan::{ user=1101600 }, ::Wesley::{ user=2407265 } and ::Yumeno Himiko::{ user=1806962 }!
 
 ---
 
@@ -162,7 +162,7 @@ Make sure to give this map a try!
 
 [![](/wiki/shared/news/2020-10-29-project-loved-october-2020/catch/3-rainbow-after-snow.jpg)](https://osu.ppy.sh/community/forums/topics/1171536)
 
-[Nekomata Master feat. Hayashi Momoko - Rainbow after snow](https://osu.ppy.sh/beatmapsets/273781#fruits) by ::Nakano Ichika::{ user=3498251 }, [SUBSTAC9](https://osu.ppy.sh/users/116389) and ::GAMI::{ user=3985265 }\
+[Nekomata Master feat. Hayashi Momoko - Rainbow after snow](https://osu.ppy.sh/beatmapsets/273781#fruits) by ::Nakano Ichika::{ user=3498251 }, ::SUBSTAC9::{ user=116389 } and ::GAMI::{ user=3985265 }\
 179 BPM, 2:02 | 1.51★ – 4.94★\
 *description written by ::Sartan::{ user=4100941 }*
 
@@ -178,7 +178,7 @@ Many players have enjoyed the map for a long time in multi and solo, and now it'
 
 [![](/wiki/shared/news/2020-10-29-project-loved-october-2020/catch/5-starlight-express.jpg)](https://osu.ppy.sh/community/forums/topics/1171534)
 
-[ginkiha - Starlight Express](https://osu.ppy.sh/beatmapsets/468895#fruits) by ::Equim::{ user=4590473 }, [Xinely](https://osu.ppy.sh/users/1521445) and ::JBHyperion::{ user=4879508 }\
+[ginkiha - Starlight Express](https://osu.ppy.sh/beatmapsets/468895#fruits) by ::Equim::{ user=4590473 }, ::Xinely::{ user=1521445 } and ::JBHyperion::{ user=4879508 }\
 200 BPM, 1:36 | 2.25★, 3.49★, 3.93★, 6.03★\
 *description written by ::Yumeno Himiko::{ user=1806962 }*
 
@@ -186,13 +186,13 @@ This time, my pick is a great map from underrated old mapper Equim. ginkiha is a
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::-mint-::{ user=8976576 }, [Abraxos](https://osu.ppy.sh/users/5025064), ::lenpai::{ user=5314573 }, [Pope Gadget](https://osu.ppy.sh/users/2288341) and ::Toaph Daddy::{ user=7616811 }!
+osu!mania Loved candidates were chosen by ::-mint-::{ user=8976576 }, ::Abraxos::{ user=5025064 }, ::lenpai::{ user=5314573 }, ::Pope Gadget::{ user=2288341 } and ::Toaph Daddy::{ user=7616811 }!
 
 ---
 
 [![](/wiki/shared/news/2020-10-29-project-loved-october-2020/mania/1-forgotten.jpg)](https://osu.ppy.sh/community/forums/topics/1171532)
 
-[The Ghost of 3.13 - Forgotten](https://osu.ppy.sh/beatmapsets/338665#mania) by ::Shoegazer::{ user=2520707 } and [Zyph](https://osu.ppy.sh/users/1600432)\
+[The Ghost of 3.13 - Forgotten](https://osu.ppy.sh/beatmapsets/338665#mania) by ::Shoegazer::{ user=2520707 } and ::Zyph::{ user=1600432 }\
 250 BPM, 2:42 | \[4K\], 4.50★ – 5.92★
 
 *În micul orășel, uitat de lume.* Contrary to its name, this chart has hardly been forgotten—the Collab difficulty by Shoegazer and Zyph, mapped in 2015, has garnered quite the popularity, being featured in both Shoegazer's 10th Dan v2 and the infamous Epsilon dan (sped up by 1.4), as well as the finals pool in MWC 2015. It is a very heavy technical map with harsh bursts, rolls, and longjacks, and its ecstatic patterning throughout the entire map keeps players on their toes for the duration of the map. It also has very light stutter SVs which might trip some players up if they aren't careful enough.
@@ -203,7 +203,7 @@ Both difficulties are very well representative of the erratic character of The G
 
 [![](/wiki/shared/news/2020-10-29-project-loved-october-2020/mania/2-slavik-goblins.jpg)](https://osu.ppy.sh/community/forums/topics/1171531)
 
-[goreshit - slavik goblins](https://osu.ppy.sh/beatmapsets/322331#mania) by ::stankill::{ user=2583455 } and [Quick Draw](https://osu.ppy.sh/users/3174286)\
+[goreshit - slavik goblins](https://osu.ppy.sh/beatmapsets/322331#mania) by ::stankill::{ user=2583455 } and ::Quick Draw::{ user=3174286 }\
 270 BPM, 2:43 | \[4K\] 3.84★, \[4K\] 6.27★
 
 *slavik goblins* is a chart that will give an immediate image to anyone who has been around osu!mania for the last half-decade: unbelievably fast bursts, blistering and dense jumpstream and handstreams, and little to no break to speak of aside from the transition just after the first half (if you could even call that a break).
@@ -235,7 +235,7 @@ For this month, 7K gets all the low SR goodness that failed to grab the limeligh
 
 [![](/wiki/shared/news/2020-10-29-project-loved-october-2020/mania/6-mawaru-sora-usagi.jpg)](https://osu.ppy.sh/community/forums/topics/1171527)
 
-[\*namirin - Mawaru Sora Usagi](https://osu.ppy.sh/beatmapsets/580328#mania) by ::SurfChu85::{ user=4469895 } and [Koibenii](https://osu.ppy.sh/users/2471512)\
+[\*namirin - Mawaru Sora Usagi](https://osu.ppy.sh/beatmapsets/580328#mania) by ::SurfChu85::{ user=4469895 } and ::Koibenii::{ user=2471512 }\
 120 BPM, 2:50 | \[7K\] 1.27★, \[7K\] 1.67★, \[7K\] 2.48★
 
 For those looking for a little more challenge from the previous set, we have *Mawaru Sora Usagi*! This mapset is LN-oriented and also has keysounds. What makes this particularly interesting is that despite its low SR and fairly unknown origins, the mapset managed to gain lots of attention from the community during its peak, and it still sees some play today. Does the set hold up to today's audience? You get to decide!

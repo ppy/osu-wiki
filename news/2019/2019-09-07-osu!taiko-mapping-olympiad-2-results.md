@@ -42,7 +42,7 @@ As a bonus for winning first place, each of the winners' badge descriptions will
 
 You can also visit the [listing of all accumulated Olympiad Points](https://docs.google.com/spreadsheets/d/1_gIDJwTOgIhGr2h4069-r1C-2GHuV--5wtwPywzYsz8/edit#gid=0) which is updated after each contest.
 
-We would like to thank ::Aloda::{ user=1190127 }, [incandescence](https://osu.ppy.sh/users/6256027), and ::Nepuri::{ user=6637817 } for their hard work to deliver their impressions of the entries. A series of unfortunate events caused judging to have to be delayed much longer than we would have liked, so we'd like to thank these three for stepping up to complete the judging. Our sincerest apologies from the Mapping Olympiad team for the delay.
+We would like to thank ::Aloda::{ user=1190127 }, ::incandescence::{ user=6256027 }, and ::Nepuri::{ user=6637817 } for their hard work to deliver their impressions of the entries. A series of unfortunate events caused judging to have to be delayed much longer than we would have liked, so we'd like to thank these three for stepping up to complete the judging. Our sincerest apologies from the Mapping Olympiad team for the delay.
 
 Thank you to all of the participants and congratulations again to ::Nofool::{ user=672430 }! Stay tuned for the next Mapping Olympiad contest!
 

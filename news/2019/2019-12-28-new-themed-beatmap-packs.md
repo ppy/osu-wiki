@@ -15,7 +15,7 @@ A small group has been created of experienced users interested in working on pac
 
 ### Alternator Style packs
 
-*created by ::Aireu::{ user=1650010 }, [Uberzolik](https://osu.ppy.sh/users/1314547)*\
+*created by ::Aireu::{ user=1650010 }, ::Uberzolik::{ user=1314547 }*\
 *written by ::Stefan::{ user=626907 }*\
 Download [Ranked](https://osu.ppy.sh/beatmaps/packs/1699) | [Loved](https://osu.ppy.sh/beatmaps/packs/1700)
 
@@ -23,7 +23,7 @@ Aireu and Uberzolik were passionate enough to work on the very first mapping-sty
 
 ### The Embodiment of Scarlet Devil pack
 
-*created by ::celerih::{ user=4696296 }, [Uberzolik](https://osu.ppy.sh/users/1314547), ::Venix::{ user=5999631 }, and [Xilver15](https://osu.ppy.sh/users/3099689)*\
+*created by ::celerih::{ user=4696296 }, ::Uberzolik::{ user=1314547 }, ::Venix::{ user=5999631 }, and ::Xilver15::{ user=3099689 }*\
 *written by ::celerih::{ user=4696296 }*\
 [Download](https://osu.ppy.sh/beatmaps/packs/1729)
 
@@ -31,7 +31,7 @@ Available to download now, this pack is the first of the Touhou game packs, wher
 
 ### Best of 2010–2011 pack
 
-*created by ::Dada::{ user=9119507 }, [\_p0ke\_](https://osu.ppy.sh/users/5434711), ::Halfslashed::{ user=4598899 }, [Uberzolik](https://osu.ppy.sh/users/1314547), and ::Cynplytholowazy::{ user=3901754 }*\
+*created by ::Dada::{ user=9119507 }, ::\_p0ke\_::{ user=5434711 }, ::Halfslashed::{ user=4598899 }, ::Uberzolik::{ user=1314547 }, and ::Cynplytholowazy::{ user=3901754 }*\
 *written by ::\_p0ke\_::{ user=5434711 }*\
 [Download](https://osu.ppy.sh/beatmaps/packs/1733)
 

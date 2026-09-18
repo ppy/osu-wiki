@@ -70,7 +70,7 @@ New Beatmap Nominators! Quick, request all your beatmaps! Jokes aside, the Beatm
 
 ### BN Additions
 
-- **osu!:** ::Agatsu::{ user=5579871 } & [Smoke](https://osu.ppy.sh/users/10726630)
+- **osu!:** ::Agatsu::{ user=5579871 } & ::Smoke::{ user=10726630 }
 - **osu!taiko:** ::Greenshell::{ user=8693851 }
 - **osu!catch:** ::Dako::{ user=11081858 }
 - **osu!mania:** ::Sun::{ user=4115819 }
@@ -79,7 +79,7 @@ Interested in becoming a Beatmap Nominator and deciding what maps reach ranked? 
 
 ### BN Resignations
 
-- **osu!:** ::celerih::{ user=4696296 }, [Chinochan](https://osu.ppy.sh/users/3626063) & ::Namki::{ user=5248582 }
+- **osu!:** ::celerih::{ user=4696296 }, ::Chinochan::{ user=3626063 } & ::Namki::{ user=5248582 }
 - **osu!catch:** ::Lacrima::{ user=4915649 }
 
 ### NAT Additions
@@ -89,7 +89,7 @@ Our office cat **::Mao::{ user=2204515 }** has returned! After stepping down fro
 ## Mappers' Showcase
 
 The Mappers' Showcase parades lesser-known mappers from every game mode.
-This month features osu!taiko thanks to our selectors ::radar::{ user=7131099 } and [Capu](https://osu.ppy.sh/users/2474015).
+This month features osu!taiko thanks to our selectors ::radar::{ user=7131099 } and ::Capu::{ user=2474015 }.
 
 ### Idealism
 
@@ -151,7 +151,7 @@ Each of the winners has been awarded with the Mapping With Rewards profile badge
 
 ![](/wiki/shared/news/2020-05-08-mappers-report-april/mwr_badge2x.png)
 
-Late congratulations to the winners and thank you to ::Okoratu::{ user=1623405 }, [Mir](https://osu.ppy.sh/users/8688812), ::Zetera::{ user=587737 }, [Nepuri](https://osu.ppy.sh/users/6637817), ::Yuzeyun::{ user=481582 }, [Maxus](https://osu.ppy.sh/users/4335785), and ::Protastic101::{ user=6712747 } for judging entries over a year ago. Full judging comments and more can be found in [this forum post](https://osu.ppy.sh/community/forums/posts/7139243).
+Late congratulations to the winners and thank you to ::Okoratu::{ user=1623405 }, ::Mir::{ user=8688812 }, ::Zetera::{ user=587737 }, ::Nepuri::{ user=6637817 }, ::Yuzeyun::{ user=481582 }, ::Maxus::{ user=4335785 }, and ::Protastic101::{ user=6712747 } for judging entries over a year ago. Full judging comments and more can be found in [this forum post](https://osu.ppy.sh/community/forums/posts/7139243).
 
 With that said, Mapping With Rewards has reached its end. Closure, *finally*!
 
@@ -165,7 +165,7 @@ While we try to keep watch over all running contests, we might miss some. If you
 
 ## Around the Community
 
-This section is all about interesting things which have been happening or will happen soon in the mapping and modding community! Should you have/know about something worth including, be sure to let ::Feerum::{ user=4815717 } or [Noffy](https://osu.ppy.sh/users/1541323) know about it! For this month, we have updates on the mapping podcast **The osu! Map Cast**, the **Electoz Advanced Modding Guide**, and how **super long marathons can now be ranked**!
+This section is all about interesting things which have been happening or will happen soon in the mapping and modding community! Should you have/know about something worth including, be sure to let ::Feerum::{ user=4815717 } or ::Noffy::{ user=1541323 } know about it! For this month, we have updates on the mapping podcast **The osu! Map Cast**, the **Electoz Advanced Modding Guide**, and how **super long marathons can now be ranked**!
 
 ### The osu! Map Cast
 

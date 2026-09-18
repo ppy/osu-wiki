@@ -42,7 +42,7 @@ We start these articles with results from the last contest, then we cover detail
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/bSSVw1oPZb0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Special thanks to ::nebuwua::{ user=14729352 }, [Daycore](https://osu.ppy.sh/users/5596337), ::Deppyforce::{ user=5286213 }, and [Anxient](https://osu.ppy.sh/users/4561368) for their judging efforts!
+Special thanks to ::nebuwua::{ user=14729352 }, ::Daycore::{ user=5596337 }, ::Deppyforce::{ user=5286213 }, and ::Anxient::{ user=4561368 } for their judging efforts!
 
 ### osu!mania results
 
@@ -64,7 +64,7 @@ Because this contest had so many submissions (**51** to be specific), we're rewa
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/75hyWfFW_7Y" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Somehow ::gzdongsheng::{ user=8660315 }, [Monoseul](https://osu.ppy.sh/users/16010604), ::Unpredictable::{ user=7560872 }, [Maxus](https://osu.ppy.sh/users/4335785), and ::Hydria::{ user=808176 } judged every single entry. We don't know how it was possible, but we appreciate it.
+Somehow ::gzdongsheng::{ user=8660315 }, ::Monoseul::{ user=16010604 }, ::Unpredictable::{ user=7560872 }, ::Maxus::{ user=4335785 }, and ::Hydria::{ user=808176 } judged every single entry. We don't know how it was possible, but we appreciate it.
 
 ## Game modes
 

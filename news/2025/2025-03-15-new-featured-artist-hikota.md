@@ -13,7 +13,7 @@ Latvian musician **hikota** is a master of mood-setting. Mixing inspiration from
 
 [**hikota**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/463) has a grand total of **27** tracks, each timed in advance for your next session in the editor.
 
-Need some inspiration? ::nik::{ user=10077264 } and [Kyouren](https://osu.ppy.sh/users/2013571) have you covered:
+Need some inspiration? ::nik::{ user=10077264 } and ::Kyouren::{ user=2013571 } have you covered:
 
 ### [hikota - Acceptance](https://assets.ppy.sh/artists/463/Purgatory/hikota%20-%20Acceptance.osz)
 

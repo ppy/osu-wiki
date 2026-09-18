@@ -31,7 +31,7 @@ In future evaluations, we would like to trial a less punishing system, whereby e
 
 ### New Beatmap Nominator Service Badges
 
-Christmas wouldn't be Christmas without gift-giving! In the spirit of the holidays, and in recognition of some of our hardest-working and longest-serving Beatmap Nominators, please join me in showing your utmost appreciation for ::Kawawa::{ user=4647754 }, [neonat](https://osu.ppy.sh/users/1561995), ::tasuke912::{ user=2774767 }, (3 years of service each), ::Critical\1Star::{ user=3793196 }, [Rivals_7](https://osu.ppy.sh/users/4610379), ::Sandalphon::{ user=2633753 } and [Okoratu](https://osu.ppy.sh/users/1623405) (2 years of service each).
+Christmas wouldn't be Christmas without gift-giving! In the spirit of the holidays, and in recognition of some of our hardest-working and longest-serving Beatmap Nominators, please join me in showing your utmost appreciation for ::Kawawa::{ user=4647754 }, ::neonat::{ user=1561995 }, ::tasuke912::{ user=2774767 }, (3 years of service each), ::Critical\1Star::{ user=3793196 }, ::Rivals\17::{ user=4610379 }, ::Sandalphon::{ user=2633753 } and ::Okoratu::{ user=1623405 } (2 years of service each).
 
 All mentioned members will receive a shiny new profile badge (or incremental flair upgrade if they earned one previously), which we encourage them to wear with pride in appreciation of their meritorious voluntary service.
 
@@ -41,7 +41,7 @@ With the potential for significant change coming to the QAT over the coming week
 
 ### Beatmap Nominator Retirements
 
-With the prospect of new Nominator applications to hopefully be announced soon, we must also take a moment to acknowledge the lasting contributions of those who have since moved on. Please show your appreciation for ::hikiko-::{ user=6512678 }, [Wishkey](https://osu.ppy.sh/users/1101704) and ::Yauxo::{ user=898306 } – may their future endeavours be as prosperous as their time in osu!.
+With the prospect of new Nominator applications to hopefully be announced soon, we must also take a moment to acknowledge the lasting contributions of those who have since moved on. Please show your appreciation for ::hikiko-::{ user=6512678 }, ::Wishkey::{ user=1101704 } and ::Yauxo::{ user=898306 } – may their future endeavours be as prosperous as their time in osu!.
 
 ## Within the Quality Assurance Team
 
@@ -65,7 +65,7 @@ You can read an [announcement from the osu!team](https://osu.ppy.sh/community/fo
 
 ### New Quality Assurance Team additions
 
-Whilst this announcement may come more than just a bit late, please offer your congratulations to our newest members: ::Gottagof4st::{ user=6122935 }, [Kuron-kun](https://osu.ppy.sh/users/2697284), ::Noffy::{ user=1541323 }, [Regraz](https://osu.ppy.sh/users/3076909), ::Yuii-::{ user=2935923 }, and the returning ::Hobbes2::{ user=8157492 }!
+Whilst this announcement may come more than just a bit late, please offer your congratulations to our newest members: ::Gottagof4st::{ user=6122935 }, ::Kuron-kun::{ user=2697284 }, ::Noffy::{ user=1541323 }, ::Regraz::{ user=3076909 }, ::Yuii-::{ user=2935923 }, and the returning ::Hobbes2::{ user=8157492 }!
 
 Whilst their and the QAT's future is uncertain, we greatly appreciate their timely involvement in Qualified map checking, veto mediation, Beatmap Nominator evaluations and moderation for the osu! game mode.
 

@@ -69,7 +69,7 @@ As this mapset kept being submitted to the Loved section, I had the pleasure of 
 
 [![](/wiki/shared/news/2018-08-26-project-loved-week-of-august-26th/osu/watashi-ga-motenai-no-wa-dou-kangaete-mo-omaera-ga-warui.jpg)](https://osu.ppy.sh/community/forums/topics/795461)
 
-[Suzuki Konomi n' Kiba of Akiba - Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui!](https://osu.ppy.sh/beatmapsets/105881) by ::happy623::{ user=324768 }, [On\_WanWan](https://osu.ppy.sh/users/434285) and ::TKS::{ user=940878 }\
+[Suzuki Konomi n' Kiba of Akiba - Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui!](https://osu.ppy.sh/beatmapsets/105881) by ::happy623::{ user=324768 }, ::On\_WanWan::{ user=434285 } and ::TKS::{ user=940878 }\
 *written by ::DigitalHypno::{ user=4384207 }*
 
 A classic to many, this 2013 mapset by happy623 features a full spread of standard difficulties with a guest difficulty from On\_WanWan and two taiko difficulties by TKS. Beginner osu! players can track their skill progression as they travel from the basic rhythms of the Easy difficulty to the fairly complex patterns found in the Extra difficulty. Even high-end players could have fun with this mapset with the addition of some difficulty increasing mods. Will you become one of the over 220 players to love this mapset?
@@ -111,14 +111,14 @@ Despite its seemingly meme background, RUSH B by FrostiDrinks is no joke. This s
 
 [![](/wiki/shared/news/2018-08-26-project-loved-week-of-august-26th/osu/nippon-manju.jpg)](https://osu.ppy.sh/community/forums/topics/795467)
 
-[LADYBABY - Nippon Manju](https://osu.ppy.sh/beatmapsets/332569) by ::YellowManul::{ user=614413 }, [riffy](https://osu.ppy.sh/users/597957), ::Lama Poluna::{ user=4581039 } and [skeuddy](https://osu.ppy.sh/users/1625585)\
+[LADYBABY - Nippon Manju](https://osu.ppy.sh/beatmapsets/332569) by ::YellowManul::{ user=614413 }, ::riffy::{ user=597957 }, ::Lama Poluna::{ user=4581039 } and ::skeuddy::{ user=1625585 }\
 *written by ::Toy::{ user=2757689 }*
 
 What do you get when you combine two cute Japanese singers and an Australian former wrestler and death metal vocalist? The answer is LADYBABY. YellowManul has taken the bizarre music group's most famous track and turned it on its head in Nippon Manju, a song that welcomes you to the only possible place that could confidently combine these polarizing sounds and create a catchy tune. Seriously, where else will you see a large grown man tie their long hair into ponytails and parade down the streets in a maid costume and angrily yell into a camera on a selfie stick? A solid 170+ favorites says right here in osu!
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Zak::{ user=1375955 }, [Ascendance](https://osu.ppy.sh/users/2931883), ::Sartan::{ user=4100941 } and [Tenshichan](https://osu.ppy.sh/users/1101600)! This week, all osu!catch beatmap descriptions were written by ::Sartan::{ user=4100941 }.
+osu!catch Loved candidates were chosen by ::Zak::{ user=1375955 }, ::Ascendance::{ user=2931883 }, ::Sartan::{ user=4100941 } and ::Tenshichan::{ user=1101600 }! This week, all osu!catch beatmap descriptions were written by ::Sartan::{ user=4100941 }.
 
 ---
 
@@ -136,7 +136,7 @@ As of fairly recently, rew0825 has gained a bit of popularity thanks to ranking 
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::Kamikaze::{ user=2124783 }, [\_underjoy](https://osu.ppy.sh/users/2235750), ::aitor98::{ user=3154852 }, [Pope Gadget](https://osu.ppy.sh/users/2288341) and ::TheToaphster::{ user=7616811 }!
+osu!mania Loved candidates were chosen by ::Kamikaze::{ user=2124783 }, ::\_underjoy::{ user=2235750 }, ::aitor98::{ user=3154852 }, ::Pope Gadget::{ user=2288341 } and ::TheToaphster::{ user=7616811 }!
 
 ---
 

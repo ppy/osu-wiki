@@ -40,7 +40,7 @@ Could ::Wilchq::{ user=2021758 } be the next person to HDHR FC [Team Nekokan - C
 
 ## SCOREWATCH SCORE SHOW
 
-The Top 2 Koreans of the osu! scene, ::Cookiezi::{ user=124493 } and [Angelsim](https://osu.ppy.sh/users/1777162), go head to head with HDHR on the 7* map [ITO KASHITARO - Yuudachi no Ribbon](https://osu.ppy.sh/beatmapsets/479811).
+The Top 2 Koreans of the osu! scene, ::Cookiezi::{ user=124493 } and ::Angelsim::{ user=1777162 }, go head to head with HDHR on the 7* map [ITO KASHITARO - Yuudachi no Ribbon](https://osu.ppy.sh/beatmapsets/479811).
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/sKmi6j0A_FA" frameborder="0" allowfullscreen></iframe></center>
 

@@ -35,7 +35,7 @@ You can peruse all of the **478 osu! originals** over in the [osu! originals wik
 
 ## osu! World Cups
 
-To start off, this topic has been talked about before, just from a different angle! The osu! team organises [World Cups](/wiki/Tournaments#official-world-cups), which since the osu! World Cup 2020 started incorporating original music into tiebreaker beatmaps. Have a listen to ::mangomizer::{ user=1893718 } and [pishifat](https://osu.ppy.sh/users/3178418)'s discussion about all of that and how this operation expanded in scope over the years.
+To start off, this topic has been talked about before, just from a different angle! The osu! team organises [World Cups](/wiki/Tournaments#official-world-cups), which since the osu! World Cup 2020 started incorporating original music into tiebreaker beatmaps. Have a listen to ::mangomizer::{ user=1893718 } and ::pishifat::{ user=3178418 }'s discussion about all of that and how this operation expanded in scope over the years.
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/0B6TyWML0zg" frameborder="0" allowfullscreen></iframe>
@@ -109,7 +109,7 @@ The Malaysian tournaments collectively have 19 original tracks in total at the m
 
 ## Inside the music pipeline
 
-While ::mangomizer::{ user=1893718 } and [pishifat](https://osu.ppy.sh/users/3178418) touched on the process of World Cup music production, how does it fare for other tournaments? **Kasumi** had this to say:
+While ::mangomizer::{ user=1893718 } and ::pishifat::{ user=3178418 } touched on the process of World Cup music production, how does it fare for other tournaments? **Kasumi** had this to say:
 
 > **Kasumi-sama:** The production process in GTS is very largely hands-off from us as admins. It all depends on the slot we shoot for, but for tiebreakers for example, we usually just give a general rundown of the structure we'd like, as well as a specific atmosphere we're shooting for. At that point, everything like genre, BPM and length, are basically decided by the artist's wish.
 > 
@@ -177,7 +177,7 @@ In short: communication is key, beware of differences in the game modes and... (
 
 Cool things can happen when people work together. That's also true for artists — there are plenty of songs in osu! composed by multiple people.
 
-As for how exactly it works, read below how our duo of artists today explained song collaborations with the example of [GTS Orchestra Team - Akatsuki - Tokoyami no Yoru ga Aketa Toki -](https://osu.ppy.sh/beatmapsets/1988498) (by ::rN::{ user=2014016 }, [SiLiS](https://soundcloud.com/silis), ::HowToPlayLN::{ user=10879600 } and [takehirotei](https://osu.ppy.sh/users/11793794)), and feel free to tap that showcase video above for reference.
+As for how exactly it works, read below how our duo of artists today explained song collaborations with the example of [GTS Orchestra Team - Akatsuki - Tokoyami no Yoru ga Aketa Toki -](https://osu.ppy.sh/beatmapsets/1988498) (by ::rN::{ user=2014016 }, [SiLiS](https://soundcloud.com/silis), ::HowToPlayLN::{ user=10879600 } and ::takehirotei::{ user=11793794 }), and feel free to tap that showcase video above for reference.
 
 ![](/wiki/shared/news/2024-03-20-bespoke-music-in-osu/HowToPlayLN.png)
 

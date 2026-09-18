@@ -50,13 +50,13 @@ When [**Aoi**](https://osu.ppy.sh/beatmaps/artists/183) created [Welkius](https:
 
 Each of the tournament's maps can be played here:
 
-### [Kagetora. vs. ikaruga_nex - Gott der Apokalypse](https://osu.ppy.sh/beatmapsets/2226230) mapped by ::Gordon::{ user=7856835 } and [ajmosca](https://osu.ppy.sh/users/19884809)
+### [Kagetora. vs. ikaruga_nex - Gott der Apokalypse](https://osu.ppy.sh/beatmapsets/2226230) mapped by ::Gordon::{ user=7856835 } and ::ajmosca::{ user=19884809 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/381/Corsace%20Open%202024/Kagetora.%20vs.%20ikaruga%27nex%20-%20Gott%20der%20Apokalypse.mp3" type="audio/mpeg">
 </audio>
 
-### [Kurokotei x kanemiko - astranelique](https://osu.ppy.sh/beatmapsets/2234516) mapped by ::9ami::{ user=1499997 } and [oTwinkle](https://osu.ppy.sh/users/15095654)
+### [Kurokotei x kanemiko - astranelique](https://osu.ppy.sh/beatmapsets/2234516) mapped by ::9ami::{ user=1499997 } and ::oTwinkle::{ user=15095654 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/381/Corsace%20Open%202024/Kurokotei%20x%20kanemiko%20-%20astranelique.mp3" type="audio/mpeg">
@@ -74,7 +74,7 @@ Each of the tournament's maps can be played here:
     <source src="https://assets.ppy.sh/artists/381/Corsace%20Open%202024/orangentle%20-%20Chromatolight.mp3" type="audio/mpeg">
 </audio>
 
-### [N_dog - Cyclic Universe Theory](https://osu.ppy.sh/beatmapsets/2238742) mapped by ::Mun::{ user=6699165 } and [Zetera](https://osu.ppy.sh/users/587737)
+### [N_dog - Cyclic Universe Theory](https://osu.ppy.sh/beatmapsets/2238742) mapped by ::Mun::{ user=6699165 } and ::Zetera::{ user=587737 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/381/Corsace%20Open%202024/N%27dog%20-%20Cyclic%20Universe%20Theory.mp3" type="audio/mpeg">
@@ -221,7 +221,7 @@ Sometimes you just need one more track to round out a listing. That's why we pic
 
 While most of you may recognise [**Release Hallucination**](https://osu.ppy.sh/beatmaps/artists/194) for their original track *VANITAS* for the *osu! World Cup 2023*, the band made another track for an osu! event one year later. *ASTERIA* from *Sidi's Winter Invitational* is officially part of osu!.
 
-### [Release Hallucination - ASTERIA](https://osu.ppy.sh/beatmapsets/2301277) mapped by ::Aeril::{ user=4334976 } and [FrenZ](https://osu.ppy.sh/users/9531903)
+### [Release Hallucination - ASTERIA](https://osu.ppy.sh/beatmapsets/2301277) mapped by ::Aeril::{ user=4334976 } and ::FrenZ::{ user=9531903 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/194/Songs/Release_Hallucination_-_ASTERIA.mp3" type="audio/mpeg">

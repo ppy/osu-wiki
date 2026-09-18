@@ -60,7 +60,7 @@ Lastly, we have some team updates incoming! This is what's hot off the press:
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::Aistre::{ user=4879380 }, [BATBALL](https://osu.ppy.sh/users/15173952), ::chiv::{ user=6701656 }, [Kingling](https://osu.ppy.sh/users/7010761), ::Lilian::{ user=8589120 }, [megumic](https://osu.ppy.sh/users/7537133), and ::Mismagius::{ user=19048 }!
+The osu! Loved candidates were chosen by ::Aistre::{ user=4879380 }, ::BATBALL::{ user=15173952 }, ::chiv::{ user=6701656 }, ::Kingling::{ user=7010761 }, ::Lilian::{ user=8589120 }, ::megumic::{ user=7537133 }, and ::Mismagius::{ user=19048 }!
 
 **[Click here to download all of this round's osu! picks!](https://packs.ppy.sh/LR12%20-%20Project%20Loved:%20September%202024%20(osu!).zip)**
 
@@ -86,7 +86,7 @@ Yeah, this month's first *Popular Playcounts* pick is [Act My Age](https://osu.p
 
 [![](/wiki/shared/news/2024-09-22-project-loved-seven-years-september-2024/1010845.jpg)](https://osu.ppy.sh/community/forums/topics/1980992)
 
-[Aline Barros - Eu Li Na Biblia (Sped Up & Cut Ver.)](https://osu.ppy.sh/beatmapsets/1010845#osu) by ::Dropinx::{ user=4687701 }, [Kuroame](https://osu.ppy.sh/users/6057004), ::Marianna::{ user=6701398 }, [Mekki](https://osu.ppy.sh/users/5139042), ::Shiyun::{ user=3947634 }, and [weenus sucker](https://osu.ppy.sh/users/6938249)\
+[Aline Barros - Eu Li Na Biblia (Sped Up & Cut Ver.)](https://osu.ppy.sh/beatmapsets/1010845#osu) by ::Dropinx::{ user=4687701 }, ::Kuroame::{ user=6057004 }, ::Marianna::{ user=6701398 }, ::Mekki::{ user=5139042 }, ::Shiyun::{ user=3947634 }, and ::weenus sucker::{ user=6938249 }\
 216 BPM, 1:22 | 2.16★ – 7.27★\
 *description written by ::Kingling::{ user=7010761 }*
 
@@ -136,13 +136,13 @@ This is just step 1 in the aim agenda... we'll be seeing you very shortly next m
 
 [![](/wiki/shared/news/2024-09-22-project-loved-seven-years-september-2024/511759.jpg)](https://osu.ppy.sh/community/forums/topics/1980988)
 
-[Camellia - Kono Hoshi de....](https://osu.ppy.sh/beatmapsets/511759#osu) by ::Krimek::{ user=2345078 }, [Arbane](https://osu.ppy.sh/users/4150829), ::Famous::{ user=814328 }, and [Yauxo](https://osu.ppy.sh/users/898306)\
+[Camellia - Kono Hoshi de....](https://osu.ppy.sh/beatmapsets/511759#osu) by ::Krimek::{ user=2345078 }, ::Arbane::{ user=4150829 }, ::Famous::{ user=814328 }, and ::Yauxo::{ user=898306 }\
 180 BPM, 3:42 | 3.77★ – 6.95★\
 *description written by ::Lilian::{ user=8589120 }*
 
 For this month's *Ranked Rejects*, we're bringing back an absolute classic with this mapset of [Camellia - Kono Hoshi de....](https://osu.ppy.sh/beatmapsets/511759#osu) hosted by ::Krimek::{ user=2345078 }.
 
-Set to one of Camellia's oldest and greatest tracks, this mapset was submitted eight years ago, and has amassed quite a number of plays and favorites since. It's got a full spread ranging from a 3.8★ Hyper to a near-7★ top difficulty, making it accessible to a wide range of skill levels. ::Famous::{ user=814328 }, [Yauxo](https://osu.ppy.sh/users/898306), and ::Arbane::{ user=4150829 } also feature one difficulty each, offering their own take on this song. Although *Kono Hoshi de....* unfortunately never found its way into the Ranked section over the years, this set is a great tribute to this wonderful tune and its source material. Enjoy!
+Set to one of Camellia's oldest and greatest tracks, this mapset was submitted eight years ago, and has amassed quite a number of plays and favorites since. It's got a full spread ranging from a 3.8★ Hyper to a near-7★ top difficulty, making it accessible to a wide range of skill levels. ::Famous::{ user=814328 }, ::Yauxo::{ user=898306 }, and ::Arbane::{ user=4150829 } also feature one difficulty each, offering their own take on this song. Although *Kono Hoshi de....* unfortunately never found its way into the Ranked section over the years, this set is a great tribute to this wonderful tune and its source material. Enjoy!
 
 If you want to see this map get a home in the Loved section, make sure to vote yes!!
 
@@ -156,7 +156,7 @@ This month for our *Gameplay Gimmicks* pick, we're FINALLY bringing [polyriddim]
 
 phonon's *polyriddim* took over the rhythm gaming community with its unreal rhythm complexity and aggressive sound, and has been charted in various rhythm games, with it even having Loved sets in [osu!mania](https://osu.ppy.sh/beatmapsets/1182702) and [osu!taiko](https://osu.ppy.sh/beatmapsets/1272221). Who knew ::Azer::{ user=2155578 }'s rendition of it would be just as brutal as the rest.
 
-Every BPM and subdivision is on the table for this map, and you'll need tons of *Intuition* to make it out with any bit of decent accuracy. I don't even know the target audience for this map anymore, so you're probably gonna have to bring out ::Ekoro::{ user=284905 } or [Kama](https://osu.ppy.sh/users/13380270) for this one...
+Every BPM and subdivision is on the table for this map, and you'll need tons of *Intuition* to make it out with any bit of decent accuracy. I don't even know the target audience for this map anymore, so you're probably gonna have to bring out ::Ekoro::{ user=284905 } or ::Kama::{ user=13380270 } for this one...
 
 Remember to vote YES for free +10% accuracy!! (it works Trust me)
 
@@ -175,7 +175,7 @@ If you were around in the ancient days of 2017 (it's been 7 years!), you might h
 
 [![](/wiki/shared/news/2024-09-22-project-loved-seven-years-september-2024/1490130.jpg)](https://osu.ppy.sh/community/forums/topics/1980985)
 
-[Minato Aqua - Vampire](https://osu.ppy.sh/beatmapsets/1490130#osu) by ::Cynplytholowazy::{ user=3901754 }, [-Eresh](https://osu.ppy.sh/users/7605060), ::Ducky-::{ user=9351565 }, and [frozz](https://osu.ppy.sh/users/7891266)\
+[Minato Aqua - Vampire](https://osu.ppy.sh/beatmapsets/1490130#osu) by ::Cynplytholowazy::{ user=3901754 }, ::-Eresh::{ user=7605060 }, ::Ducky-::{ user=9351565 }, and ::frozz::{ user=7891266 }\
 164 BPM, 2:57 | 1.64★, 2.31★, 3.58★, 4.40★, 4.89★\
 *description written by ::megumic::{ user=7537133 }*
 
@@ -225,7 +225,7 @@ I wish I had a scythe emoji...... and I wish you would vote YES on this map...
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::aceticke::{ user=8838763 }, [Boaz](https://osu.ppy.sh/users/13302996), ::Eriha::{ user=16320311 }, and [Gamelan4](https://osu.ppy.sh/users/9856910)!
+The osu!taiko Loved candidates were chosen by ::aceticke::{ user=8838763 }, ::Boaz::{ user=13302996 }, ::Eriha::{ user=16320311 }, and ::Gamelan4::{ user=9856910 }!
 
 **[Click here to download all of this round's osu!taiko picks!](https://packs.ppy.sh/LR11%20-%20Project%20Loved:%20September%202024%20(osu!taiko).zip)**
 
@@ -281,7 +281,7 @@ Make sure to enable the beatmap skin for a full love experience with this month'
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::Dahcreeper::{ user=6926006 } and [Tenshichan](https://osu.ppy.sh/users/1101600)!
+The osu!catch Loved candidates were chosen by ::Dahcreeper::{ user=6926006 } and ::Tenshichan::{ user=1101600 }!
 
 **[Click here to download all of this round's osu!catch picks!](https://packs.ppy.sh/LR10%20-%20Project%20Loved:%20September%202024%20(osu!catch).zip)**
 
@@ -315,7 +315,7 @@ Overall a nice and short map, don't you agree?
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::Carpihat::{ user=10085090 }, [elexire](https://osu.ppy.sh/users/9206093), ::Maxus::{ user=4335785 }, [Paturages](https://osu.ppy.sh/users/1375479), ::Silhoueska Elze::{ user=11517895 }, [SunApple](https://osu.ppy.sh/users/11817622), ::taba2::{ user=7850508 }, and [YuEast 2018](https://osu.ppy.sh/users/13953619)!
+The osu!mania Loved candidates were chosen by ::Carpihat::{ user=10085090 }, ::elexire::{ user=9206093 }, ::Maxus::{ user=4335785 }, ::Paturages::{ user=1375479 }, ::Silhoueska Elze::{ user=11517895 }, ::SunApple::{ user=11817622 }, ::taba2::{ user=7850508 }, and ::YuEast 2018::{ user=13953619 }!
 
 **[Click here to download all of this round's osu!mania picks!](https://packs.ppy.sh/LR9%20-%20Project%20Loved:%20September%202024%20(osu!mania).zip)**
 
@@ -387,11 +387,11 @@ These factors have led people who enjoy tournament charts, as well as people who
 
 [![](/wiki/shared/news/2024-09-22-project-loved-seven-years-september-2024/1265413.jpg)](https://osu.ppy.sh/community/forums/topics/1980971)
 
-[Mori Calliope - Excuse My Rudeness, But Could You Please RIP? (t+pazolite Remix)](https://osu.ppy.sh/beatmapsets/1265413#mania) by ::FelixSpade::{ user=2651304 } and [HowToPlayLN](https://osu.ppy.sh/users/10879600)\
+[Mori Calliope - Excuse My Rudeness, But Could You Please RIP? (t+pazolite Remix)](https://osu.ppy.sh/beatmapsets/1265413#mania) by ::FelixSpade::{ user=2651304 } and ::HowToPlayLN::{ user=10879600 }\
 260 – 312 BPM, 2:53 | 5.06★ – 6.97★\
 *description written by ::Silhoueska Elze::{ user=11517895 }*
 
-::HowToPlayLN::{ user=10879600 } and [FelixSpade](https://osu.ppy.sh/users/2651304) already have a few maps that are Loved, and with [Excuse My Rudeness, But Could You Please RIP? (t+pazolite Remix)](https://osu.ppy.sh/beatmapsets/1265413#mania/3180931), they bring another entry to the table.
+::HowToPlayLN::{ user=10879600 } and ::FelixSpade::{ user=2651304 } already have a few maps that are Loved, and with [Excuse My Rudeness, But Could You Please RIP? (t+pazolite Remix)](https://osu.ppy.sh/beatmapsets/1265413#mania/3180931), they bring another entry to the table.
 
 With how the patterns on the "Genocide" difficulty are structured, you might not really be able to tell what kind of rice chart it is, as this offers so many aspects of it. A lot of the chart really has a mix of chordjacks, streams, technicality — you can name it all. Considering that, there's definitely a challenge of being able to accurately hit each section, ensuring that you can be consistent, because if you tend to have a weakness on one pattern, then you'd definitely have a difficult time. I think that this is a great map to train for "mixed rice" files when it comes to tournaments, as it has a little bit of everything in it.
 
@@ -403,11 +403,11 @@ Excuse my rudeness, but could you just PLEASE VOTE THIS FOR LOVED ALREADY?!
 
 [![](/wiki/shared/news/2024-09-22-project-loved-seven-years-september-2024/2048074.jpg)](https://osu.ppy.sh/community/forums/topics/1980970)
 
-[sasakure.UK + UKRampage - FUTURE EVE feat. Hatsune Miku](https://osu.ppy.sh/beatmapsets/2048074#mania) by ::Hytex::{ user=8536263 } and [fvrex](https://osu.ppy.sh/users/11863699)\
+[sasakure.UK + UKRampage - FUTURE EVE feat. Hatsune Miku](https://osu.ppy.sh/beatmapsets/2048074#mania) by ::Hytex::{ user=8536263 } and ::fvrex::{ user=11863699 }\
 190 BPM, 2:24 | 5.18★\
 *description written by ::elexire::{ user=9206093 }*
 
-When this post goes up, [MWC 4K 2024](/wiki/Tournaments/MWC/2024_4K) will likely be ongoing. With that, we also come to the realization that last year's edition, [MWC 4K 2023](/wiki/Tournaments/MWC/2023_4K), happened a little over one year ago. With that information said, it's now time to put something up from 2023's edition, and a great place to start would be with [FUTURE EVE feat. Hatsune Miku](https://osu.ppy.sh/beatmapsets/2048074#mania/4276106) charted by ::Hytex::{ user=8536263 } and [fvrex](https://osu.ppy.sh/users/11863699)!
+When this post goes up, [MWC 4K 2024](/wiki/Tournaments/MWC/2024_4K) will likely be ongoing. With that, we also come to the realization that last year's edition, [MWC 4K 2023](/wiki/Tournaments/MWC/2023_4K), happened a little over one year ago. With that information said, it's now time to put something up from 2023's edition, and a great place to start would be with [FUTURE EVE feat. Hatsune Miku](https://osu.ppy.sh/beatmapsets/2048074#mania/4276106) charted by ::Hytex::{ user=8536263 } and ::fvrex::{ user=11863699 }!
 
 Chances are that if you pay any attention to the Ranked section, you'll recognize both of these names. If you've played their maps, you probably know what kind of chart this is going to be. Being a custom for the Round of 16 mappool, this took up the LN coordination slot, and as expected of the slot, you'll be... coordinating. I really hope that goes without saying. Well, even if it didn't, the attention to releases you'll need on this is no joke.
 
@@ -454,7 +454,7 @@ This map mostly features streams. It may not be very dense, but its BPM with the
 
 [![](/wiki/shared/news/2024-09-22-project-loved-seven-years-september-2024/1331811.jpg)](https://osu.ppy.sh/community/forums/topics/1980966)
 
-[Various Artists - frjmol jnok (part a)](https://osu.ppy.sh/beatmapsets/1331811#mania) by ::awemanrank100::{ user=11220019 }, [DesKurisu](https://osu.ppy.sh/users/1014938), and ::u\1e::{ user=2594421 }\
+[Various Artists - frjmol jnok (part a)](https://osu.ppy.sh/beatmapsets/1331811#mania) by ::awemanrank100::{ user=11220019 }, ::DesKurisu::{ user=1014938 }, and ::u\1e::{ user=2594421 }\
 111 – 240 BPM, 3:16 | 3.50★ – 6.65★\
 The \[metadata\] difficulty is *not* being nominated for Loved.\
 *description written by ::Maxus::{ user=4335785 }*

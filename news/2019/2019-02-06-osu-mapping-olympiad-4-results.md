@@ -40,7 +40,7 @@ A huge thank you to everyone who submitted an entry and congratulations to the t
 
 [A complete listing of all accumulated Olympiad Points can be located here](https://docs.google.com/spreadsheets/d/1_gIDJwTOgIhGr2h4069-r1C-2GHuV--5wtwPywzYsz8/edit?usp=sharing). Updates should be posted shortly after each contest.
 
-Additional thanks to our hard-working judges for this contest: ::Absolute Zero::{ user=4847256 }, [Nokashi](https://osu.ppy.sh/users/5431196) and ::-Plus-::{ user=829284 }. Unfortunately -Plus- was unable to complete his judge comments due to real-life issues which we hope he is able to resolve soon. Nevertheless, our judges have devoted a great deal of time and effort to ensure the success of this contest, so please show your appreciation!
+Additional thanks to our hard-working judges for this contest: ::Absolute Zero::{ user=4847256 }, ::Nokashi::{ user=5431196 } and ::-Plus-::{ user=829284 }. Unfortunately -Plus- was unable to complete his judge comments due to real-life issues which we hope he is able to resolve soon. Nevertheless, our judges have devoted a great deal of time and effort to ensure the success of this contest, so please show your appreciation!
 
 If you enjoyed the contest and song, assistance with the Ranking process for [Sinnoh's winning entry](https://osu.ppy.sh/beatmapsets/921419#fruits/1924123) would be greatly appreciated! Additionally, [all of the entries can be downloaded here](https://drive.google.com/open?id=1cTCPOygsn21-AHpEWPrUsfEg4f6Kfybk) if you wish to check them out for yourselves!
 

@@ -41,7 +41,7 @@ With that out of the way, let's get into the gifts that the Loved team has prepa
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::Aistre::{ user=4879380 }, [Danny Carey](https://osu.ppy.sh/users/7010761), ::Librarian::{ user=10083084 }, [megumic](https://osu.ppy.sh/users/7537133), and ::Mismagius::{ user=19048 }!
+The osu! Loved candidates were chosen by ::Aistre::{ user=4879380 }, ::Danny Carey::{ user=7010761 }, ::Librarian::{ user=10083084 }, ::megumic::{ user=7537133 }, and ::Mismagius::{ user=19048 }!
 
 <div align="center">
   <video width="95%" controls>
@@ -160,7 +160,7 @@ One of *Umineko no Naku Koro ni*'s most memorable pieces, coming from none other
 
 [![](/wiki/shared/news/2023-12-21-project-loved-december-2023/1231781.jpg)](https://osu.ppy.sh/community/forums/topics/1860173)
 
-[Camellia - Qyoh (Nine Stars)](https://osu.ppy.sh/beatmapsets/1231781#osu) by ::OliBomby::{ user=6573093 }, [-Atri-](https://osu.ppy.sh/users/2433720), ::aehrea::{ user=12496694 }, [Akaeboshi](https://osu.ppy.sh/users/10466730), ::Axhina::{ user=6115887 }, [Ayesha Altugle](https://osu.ppy.sh/users/1125647), ::Bazuso::{ user=11726139 }, [Coppertine](https://osu.ppy.sh/users/7279762), ::CrazyrabbitKGE::{ user=4481526 }, [Delta Vee](https://osu.ppy.sh/users/11905309), ::Diarrhea::{ user=13467918 }, [Feiri](https://osu.ppy.sh/users/3214844), ::HouseCats::{ user=11559075 }, [IOException](https://osu.ppy.sh/users/2688103), ::Jan0301::{ user=7516006 }, [Kappu](https://osu.ppy.sh/users/9582525), ::KoNoah\_::{ user=3459448 }, [Nemko](https://osu.ppy.sh/users/10586904), ::Perseus::{ user=6377897 }, [ScubDomino](https://osu.ppy.sh/users/8972308), ::Smug Nanachi::{ user=10063190 }, and [wiwit](https://osu.ppy.sh/users/10610309)\
+[Camellia - Qyoh (Nine Stars)](https://osu.ppy.sh/beatmapsets/1231781#osu) by ::OliBomby::{ user=6573093 }, ::-Atri-::{ user=2433720 }, ::aehrea::{ user=12496694 }, ::Akaeboshi::{ user=10466730 }, ::Axhina::{ user=6115887 }, ::Ayesha Altugle::{ user=1125647 }, ::Bazuso::{ user=11726139 }, ::Coppertine::{ user=7279762 }, ::CrazyrabbitKGE::{ user=4481526 }, ::Delta Vee::{ user=11905309 }, ::Diarrhea::{ user=13467918 }, ::Feiri::{ user=3214844 }, ::HouseCats::{ user=11559075 }, ::IOException::{ user=2688103 }, ::Jan0301::{ user=7516006 }, ::Kappu::{ user=9582525 }, ::KoNoah\_::{ user=3459448 }, ::Nemko::{ user=10586904 }, ::Perseus::{ user=6377897 }, ::ScubDomino::{ user=8972308 }, ::Smug Nanachi::{ user=10063190 }, and ::wiwit::{ user=10610309 }\
 242 BPM, 6:56 | 9.50★\
 *description written by ::Danny Carey::{ user=7010761 }*
 
@@ -172,19 +172,19 @@ If you want to end this year with a bang, make sure you vote yes on this absolut
 
 [![](/wiki/shared/news/2023-12-21-project-loved-december-2023/357579.jpg)](https://osu.ppy.sh/community/forums/topics/1860172)
 
-[Tatsh - Xepher](https://osu.ppy.sh/beatmapsets/357579#osu) by ::Exile-::{ user=2559349 }, [6th](https://osu.ppy.sh/users/5334250), ::ReFaller::{ user=4841608 }, and [Starset](https://osu.ppy.sh/users/6383137)\
+[Tatsh - Xepher](https://osu.ppy.sh/beatmapsets/357579#osu) by ::Exile-::{ user=2559349 }, ::6th::{ user=5334250 }, ::ReFaller::{ user=4841608 }, and ::Starset::{ user=6383137 }\
 170 BPM, 4:15 | 1.48★ – 5.62★\
 *description written by ::Aistre::{ user=4879380 }*
 
 *How far do you have to go to see the light?*
 
-Now, time for the final *Wildcard* pick: [Tatsh - Xepher](https://osu.ppy.sh/beatmapsets/357579#osu/786547) by ::Exile-::{ user=2559349 }, with guest difficulties by ::ReFaller::{ user=4841608 }, [6th](https://osu.ppy.sh/users/5334250) and ::Starset::{ user=6383137 }! Bearing the well-earned *Elite Storyboarder* title, Exile-'s mapset of *Xepher* from 2016 is one of the most nostalgic maps for me. From 1.48★ to 5.62★, focusing on the 1/4-heavy nature of the song with various bursts and streams, there's almost certainly a difficulty for you. And as you'd expect from an Exile- map, there's also a clean storyboard that pairs well with the map, so make sure to enable it while playing at least once!
+Now, time for the final *Wildcard* pick: [Tatsh - Xepher](https://osu.ppy.sh/beatmapsets/357579#osu/786547) by ::Exile-::{ user=2559349 }, with guest difficulties by ::ReFaller::{ user=4841608 }, ::6th::{ user=5334250 } and ::Starset::{ user=6383137 }! Bearing the well-earned *Elite Storyboarder* title, Exile-'s mapset of *Xepher* from 2016 is one of the most nostalgic maps for me. From 1.48★ to 5.62★, focusing on the 1/4-heavy nature of the song with various bursts and streams, there's almost certainly a difficulty for you. And as you'd expect from an Exile- map, there's also a clean storyboard that pairs well with the map, so make sure to enable it while playing at least once!
 
 I remember the creation of this mapset from its very early stages. If you want to see this in Loved just as much as I do, then cast your vote!
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [aceticke](https://osu.ppy.sh/users/8838763), ::Boaz::{ user=13302996 }, [Eriha](https://osu.ppy.sh/users/16320311), ::Horiiizon::{ user=8071438 }, [ler1211](https://osu.ppy.sh/users/19901680), and ::Sebola::{ user=15821708 }!
+The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::aceticke::{ user=8838763 }, ::Boaz::{ user=13302996 }, ::Eriha::{ user=16320311 }, ::Horiiizon::{ user=8071438 }, ::ler1211::{ user=19901680 }, and ::Sebola::{ user=15821708 }!
 
 <div align="center">
   <video width="95%" controls>
@@ -208,11 +208,11 @@ I wish you a happy new year! Have fun <3
 
 [![](/wiki/shared/news/2023-12-21-project-loved-december-2023/772671.jpg)](https://osu.ppy.sh/community/forums/topics/1860170)
 
-[(K)NoW_NAME - Harvest (droplamp Remix)](https://osu.ppy.sh/beatmapsets/772671#taiko) by ::Macaroz::{ user=6205471 } and [Waribashi](https://osu.ppy.sh/users/2250574)\
+[(K)NoW_NAME - Harvest (droplamp Remix)](https://osu.ppy.sh/beatmapsets/772671#taiko) by ::Macaroz::{ user=6205471 } and ::Waribashi::{ user=2250574 }\
 260 BPM, 3:35 | 6.57★, 7.05★\
 *description written by ::ler1211::{ user=19901680 }*
 
-[Harvest (droplamp Remix)](https://osu.ppy.sh/beatmapsets/772671) is a collaboration mapset between two well-known mappers in the Loved section, ::Shallty::{ user=6205471 } and [Yuni](https://osu.ppy.sh/users/2250574) (now known as Macaroz and Waribashi respectively). Featuring two difficulties made three years apart in 2018 and 2021, this mapset showcases the timeless mapping of these mappers who have created countless enjoyable beatmaps throughout the years.
+[Harvest (droplamp Remix)](https://osu.ppy.sh/beatmapsets/772671) is a collaboration mapset between two well-known mappers in the Loved section, ::Shallty::{ user=6205471 } and ::Yuni::{ user=2250574 } (now known as Macaroz and Waribashi respectively). Featuring two difficulties made three years apart in 2018 and 2021, this mapset showcases the timeless mapping of these mappers who have created countless enjoyable beatmaps throughout the years.
 
 Both difficulties consist of 1/3 and 1/4 patterns that provide an interesting challenge at 260 BPM while maintaining great flow, attesting to the experience and effort of the mappers. While uncommon in the Ranked section, this mixed snapping is widely enjoyed by those familiar with Graveyard maps, and this mapset has gained significant popularity as a classic of this style. Let's take a trip down memory lane and give these nostalgic maps a try!
 
@@ -232,11 +232,11 @@ In my opinion, this map is a must-play for every taiko player out there.
 
 [![](/wiki/shared/news/2023-12-21-project-loved-december-2023/1093282.jpg)](https://osu.ppy.sh/community/forums/topics/1860168)
 
-[BeatMARIO - Night of Knights (USAO Remix)](https://osu.ppy.sh/beatmapsets/1093282#taiko) by ::Nishizumi::{ user=2496768 } and [popopo](https://osu.ppy.sh/users/3090416)\
+[BeatMARIO - Night of Knights (USAO Remix)](https://osu.ppy.sh/beatmapsets/1093282#taiko) by ::Nishizumi::{ user=2496768 } and ::popopo::{ user=3090416 }\
 205 BPM, 3:21 | 1.73★ – 6.54★\
 *description written by ::Boaz::{ user=13302996 }*
 
-I'm sure everyone has heard *Night of Knights*, but have you heard of the extremely diverse USAO remix? I'm sure most tournament players have because of this set by ::Nishizumi::{ user=2496768 } and [popopo](https://osu.ppy.sh/users/3090416) (formerly known as Steven1)!
+I'm sure everyone has heard *Night of Knights*, but have you heard of the extremely diverse USAO remix? I'm sure most tournament players have because of this set by ::Nishizumi::{ user=2496768 } and ::popopo::{ user=3090416 } (formerly known as Steven1)!
 
 This *Night of Knights* remix by USAO brings a lot to the table, varying from tech to hardcore and hardstyle. This means the Inner Onis offer a very cool experience with fun tech sections and thrilling finisher parts. It is no surprise that this is one of the most popular abandoned taiko mapsets out there.
 
@@ -272,7 +272,7 @@ This map will surprise you with each circle, as it is full of gimmicks of slider
 200 BPM, 2:17 | 5.87★\
 *description written by ::-Kazu-::{ user=920861 }*
 
-*USAO - Cyaegha* is quite straightforward on being what you'd expect of an average Inner Oni difficulty but with an extraordinarily spicy twist: using a little trick discovered by ::katacheh::{ user=6651672 } and [Fantazy](https://osu.ppy.sh/users/6890639) that consists on reskinning certain notes to create various effects such as fade-ins, fade-outs and even note swaps!
+*USAO - Cyaegha* is quite straightforward on being what you'd expect of an average Inner Oni difficulty but with an extraordinarily spicy twist: using a little trick discovered by ::katacheh::{ user=6651672 } and ::Fantazy::{ user=6890639 } that consists on reskinning certain notes to create various effects such as fade-ins, fade-outs and even note swaps!
 
 With this, an otherwise simply solid map becomes quite fun and enjoyable to play — just try not to get bamboozled!
 
@@ -290,7 +290,7 @@ This is C-light's first time being nominated for Loved, so give it a play and se
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::Secre::{ user=2306637 }, [Tenshichan](https://osu.ppy.sh/users/1101600), and ::Wesley::{ user=2407265 }!
+The osu!catch Loved candidates were chosen by ::Secre::{ user=2306637 }, ::Tenshichan::{ user=1101600 }, and ::Wesley::{ user=2407265 }!
 
 <div align="center">
   <video width="95%" controls>
@@ -314,11 +314,11 @@ Try it out and see if you can overcome the snap jumps and perhaps even find the 
 
 [![](/wiki/shared/news/2023-12-21-project-loved-december-2023/1002377.jpg)](https://osu.ppy.sh/community/forums/topics/1860162)
 
-[goreshit - o'er the flood](https://osu.ppy.sh/beatmapsets/1002377#fruits) by ::Cowboy::{ user=1237535 } and [Seija](https://osu.ppy.sh/users/6443263)\
+[goreshit - o'er the flood](https://osu.ppy.sh/beatmapsets/1002377#fruits) by ::Cowboy::{ user=1237535 } and ::Seija::{ user=6443263 }\
 194 BPM, 5:14 | 5.48★\
 *description written by ::Tenshichan::{ user=1101600 }*
 
-This month we might be able to see a new face joining the Loved section, and that is ::Cowboy::{ user=1237535 }. While [Seija](https://osu.ppy.sh/users/6443263), who mapped the kiai sections in this map, already has Loved maps, Cowboy doesn't have one yet. [o'er the flood](https://osu.ppy.sh/beatmapsets/1002377#fruits), however, definitely deserves a spot.
+This month we might be able to see a new face joining the Loved section, and that is ::Cowboy::{ user=1237535 }. While ::Seija::{ user=6443263 }, who mapped the kiai sections in this map, already has Loved maps, Cowboy doesn't have one yet. [o'er the flood](https://osu.ppy.sh/beatmapsets/1002377#fruits), however, definitely deserves a spot.
 
 The map majorly consists of stream patterns and stream bursts usually connected with snappy jumps. Sometimes the patterns can be quite tricky, especially towards the end of the map, so it is easy to misread a pattern and mess up. Overall, the map is very clean and of moderate difficulty, which means that a big amount of players will be able to play this map without any issues. Just beware that the difficulty spikes in the last quarter of the map.
 
@@ -326,19 +326,19 @@ A good map for sure that deserves more attention. Hope you like it!
 
 [![](/wiki/shared/news/2023-12-21-project-loved-december-2023/1794200.jpg)](https://osu.ppy.sh/community/forums/topics/1860161)
 
-[P-MODEL - LAB=01](https://osu.ppy.sh/beatmapsets/1794200#fruits) by ::-Ken::{ user=4430811 } and [F D Flourite](https://osu.ppy.sh/users/2459589)\
+[P-MODEL - LAB=01](https://osu.ppy.sh/beatmapsets/1794200#fruits) by ::-Ken::{ user=4430811 } and ::F D Flourite::{ user=2459589 }\
 160.13 BPM, 2:34 | 5.70★\
 *description written by ::Secre::{ user=2306637 }*
 
 MYSTERY
 
-*LAB=01* (Otherwise known as *Labo*) is both a mind captivating song from P-MODEL and map from ::-Ken::{ user=4430811 } and [F D Flourite](https://osu.ppy.sh/users/2459589). Used in [CWC 2022](/wiki/Tournaments/CWC/2022) as a Grand Finals MM2, this map is insanely diverse in the skillsets that you can throw at it. Are you a NM player? You'll have fun. HD player? Enjoy an AR 8.3 reading challenge. HR player? Enjoy touch mechanics combined with CS 6.5. If that isn't enough, you can throw on DT to have a speedy mechanical map to be able to play.
+*LAB=01* (Otherwise known as *Labo*) is both a mind captivating song from P-MODEL and map from ::-Ken::{ user=4430811 } and ::F D Flourite::{ user=2459589 }. Used in [CWC 2022](/wiki/Tournaments/CWC/2022) as a Grand Finals MM2, this map is insanely diverse in the skillsets that you can throw at it. Are you a NM player? You'll have fun. HD player? Enjoy an AR 8.3 reading challenge. HR player? Enjoy touch mechanics combined with CS 6.5. If that isn't enough, you can throw on DT to have a speedy mechanical map to be able to play.
 
 This map hits home for every single type of player there is and without a doubt is a map that you will enjoy.
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::-NoName-::{ user=10400730 }, [elexire](https://osu.ppy.sh/users/9206093), ::kadoen::{ user=12780575 }, [Leeju](https://osu.ppy.sh/users/18219603), ::Mipha-::{ user=5767941 }, [Paturages](https://osu.ppy.sh/users/1375479), ::Remuring::{ user=6522146 }, [SunApple](https://osu.ppy.sh/users/11817622), and ::YuEast 2018::{ user=13953619 }!
+The osu!mania Loved candidates were chosen by ::-NoName-::{ user=10400730 }, ::elexire::{ user=9206093 }, ::kadoen::{ user=12780575 }, ::Leeju::{ user=18219603 }, ::Mipha-::{ user=5767941 }, ::Paturages::{ user=1375479 }, ::Remuring::{ user=6522146 }, ::SunApple::{ user=11817622 }, and ::YuEast 2018::{ user=13953619 }!
 
 <div align="center">
   <video width="95%" controls>
@@ -465,7 +465,7 @@ If you want to see more of this in Loved, be sure to give taba2 and the rest of 
 
 [![](/wiki/shared/news/2023-12-21-project-loved-december-2023/1570261.jpg)](https://osu.ppy.sh/community/forums/topics/1860152)
 
-[Rigel_Wired - deltaTime](https://osu.ppy.sh/beatmapsets/1570261#mania) by ::TakJun::{ user=4356322 }, [JuHaa](https://osu.ppy.sh/users/15526127), and ::xuiennie::{ user=13894647 }\
+[Rigel_Wired - deltaTime](https://osu.ppy.sh/beatmapsets/1570261#mania) by ::TakJun::{ user=4356322 }, ::JuHaa::{ user=15526127 }, and ::xuiennie::{ user=13894647 }\
 190 BPM, 2:16 | 4.39★, 4.60★, 6.35★\
 *description written by ::Leeju::{ user=18219603 }*
 
@@ -481,7 +481,7 @@ This is a mapset that features 2 well-known mappers and a newcomer, each showcas
 
 [![](/wiki/shared/news/2023-12-21-project-loved-december-2023/1221032.jpg)](https://osu.ppy.sh/community/forums/topics/1860151)
 
-[Uinyasu - Tsukiyo ni Mau Koi no Hana](https://osu.ppy.sh/beatmapsets/1221032#mania) by ::\_Reimu::{ user=6577242 } and [\_underjoy](https://osu.ppy.sh/users/2235750)\
+[Uinyasu - Tsukiyo ni Mau Koi no Hana](https://osu.ppy.sh/beatmapsets/1221032#mania) by ::\_Reimu::{ user=6577242 } and ::\_underjoy::{ user=2235750 }\
 186 BPM, 5:46 | 5.60★, 7.72★, 8.79★, 9.02★\
 *description written by ::Leeju::{ user=18219603 }*
 
@@ -499,7 +499,7 @@ Given how memorable this pick has been in MWC and how well it tests the player's
 
 [![](/wiki/shared/news/2023-12-21-project-loved-december-2023/1985705.jpg)](https://osu.ppy.sh/community/forums/topics/1860150)
 
-[Various Artists - Best of JOKE 1 & 2](https://osu.ppy.sh/beatmapsets/1985705#mania) by ::Sparxe::{ user=5750235 }, [Erkfir](https://osu.ppy.sh/users/7756939), ::HowToPlayLN::{ user=10879600 }, [Jaye](https://osu.ppy.sh/users/4841352), ::Paturages::{ user=1375479 }, and [r1chyy](https://osu.ppy.sh/users/11499467)\
+[Various Artists - Best of JOKE 1 & 2](https://osu.ppy.sh/beatmapsets/1985705#mania) by ::Sparxe::{ user=5750235 }, ::Erkfir::{ user=7756939 }, ::HowToPlayLN::{ user=10879600 }, ::Jaye::{ user=4841352 }, ::Paturages::{ user=1375479 }, and ::r1chyy::{ user=11499467 }\
 145 – 290 BPM, 6:06 | 2.94★ – 5.76★\
 The \[Meta\] difficulty is *not* being nominated for Loved.\
 *description written by ::Paturages::{ user=1375479 }*

@@ -202,7 +202,7 @@ Who or what was (or still is) your main inspiration to become better at this gam
 
 ::ExGon::{ user=214187 } was for sure my main inspiration for a long time (and still is).
 
-And my current one would be ::ArMa79::{ user=4982799 } and [Dahcreeper](https://osu.ppy.sh/users/6926006). They are definitely the ones who helped me become better and let me go further by competing with me and pushing my limits.
+And my current one would be ::ArMa79::{ user=4982799 } and ::Dahcreeper::{ user=6926006 }. They are definitely the ones who helped me become better and let me go further by competing with me and pushing my limits.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 

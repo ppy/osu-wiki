@@ -140,7 +140,7 @@ Taking the first FC on this map, nathan on osu does so with HD as a bonus, and s
 
 **::idke::{ user=4650315 }**: [Light it up [Brilliance]](https://osu.ppy.sh/beatmapsets/650738#osu/1378892) **S** (2,106/2,890x, 99.18%)\
 10 February 2019, Ranked, 354pp\
-*Added by ::Jace::{ user=4394718 }, written by [clayton](https://osu.ppy.sh/users/3666350)*
+*Added by ::Jace::{ user=4394718 }, written by ::clayton::{ user=3666350 }*
 
 idke shows us with this score that he can impress us with more than just HR streams; this map is packed with technical patterning that has so far prevented any FCs from showing on the board. Diversity reigns king!
 
@@ -148,7 +148,7 @@ idke shows us with this score that he can impress us with more than just HR stre
 
 **::FlyingTuna::{ user=9224078 }**: [Super Driver [Fiery's Extreme]](https://osu.ppy.sh/beatmapsets/805224#osu/1690355) +HD,DT **A** (554/640x, 97.55%)\
 11 February 2019, Ranked, 778pp\
-*Added by ::Jace::{ user=4394718 }, written by [clayton](https://osu.ppy.sh/users/3666350)*
+*Added by ::Jace::{ user=4394718 }, written by ::clayton::{ user=3666350 }*
 
 FlyingTuna's quest for rank #1 global ended here. In good fieryrage mapping style, this score takes advantage of the massive jumps that only increase in spacing as the map goes on, which make for a nice juicy pp farm extravaganza. This isn't to be glossed over, though, it's really quite a feat to be able to hit those final patterns at all!
 
@@ -180,7 +180,7 @@ I didn't expect to see an FC on this so soon! If you're unfamiliar with the map,
 
 **::idke::{ user=4650315 }**: [Ghost Rule [Mayday]](https://osu.ppy.sh/beatmapsets/413117#osu/960875) **SS**\
 15 February 2019, Loved\
-*Added by ::Jace::{ user=4394718 }, written by [clayton](https://osu.ppy.sh/users/3666350)*
+*Added by ::Jace::{ user=4394718 }, written by ::clayton::{ user=3666350 }*
 
 Somebody thought idke couldn't FC this, so the madman went and got the SS. If you thought idke was all about streams, think again: this map's ending is absolutely packed with the most cross-screen jumps possible, and idke hits them all without breaking a sweat.
 
@@ -188,7 +188,7 @@ Somebody thought idke couldn't FC this, so the madman went and got the SS. If yo
 
 **::FlyingTuna::{ user=9224078 }**: [AXION [AXION\_REBORN]](https://osu.ppy.sh/beatmapsets/115193#osu/324516) **S** (897/903x, 98.80%)\
 15 February 2019, Ranked, 387pp\
-*Added by ::Jace::{ user=4394718 }, written by [clayton](https://osu.ppy.sh/users/3666350)*
+*Added by ::Jace::{ user=4394718 }, written by ::clayton::{ user=3666350 }*
 
 FlyingTuna surprised us all with the second (almost-) FC on AXION_REBORN! While more popularly known for his high-star DT plays, here he proves his versatility and diversity in skill, setting an S-rank on one of the most difficult ranked maps in the game. Check out the video if you've never played this map!
 
@@ -282,13 +282,13 @@ wonder5193 has pulled off an absolute beast-like score by getting an FC on nearl
 
 **::Jakads::{ user=259972 }**: [Ascension to Heaven [Elysium]](https://osu.ppy.sh/beatmapsets/421541#mania/948777) +NC **S** (860,971, 96.11%)\
 10 February 2019, Ranked, 1,028pp\
-*Added by ::clayton::{ user=3666350 }, written by [FayeurS 5](https://osu.ppy.sh/users/6177263)*
+*Added by ::clayton::{ user=3666350 }, written by ::FayeurS 5::{ user=6177263 }*
 
 AscensionDTWhen? Now. After months of trying, jakads has FINALLY gotten an S rank with the DT mod on Ascension To Heaven, and on top of that, he beat jhlee's accuracy, which was nowhere near being beaten within two years, by 0.50%. Way too impressive for its own good.
 
 **::Jakads::{ user=259972 }**: [Doppelganger [jakads' Extra]](https://osu.ppy.sh/beatmapsets/407153#mania/1023967) +NC **S** (855,970, 96.22%)\
 10 February 2019, Ranked, 1,100pp\
-*Added by ::clayton::{ user=3666350 }, written by [FayeurS 5](https://osu.ppy.sh/users/6177263)*
+*Added by ::clayton::{ user=3666350 }, written by ::FayeurS 5::{ user=6177263 }*
 
 jakads has broken the pp record! On his own map too. This is starting to get old isn't it? But with that, he gets the first ever 1100pp play in mania, right on the dot!
 

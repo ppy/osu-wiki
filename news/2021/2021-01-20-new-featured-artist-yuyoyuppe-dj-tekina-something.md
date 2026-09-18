@@ -13,7 +13,7 @@ Considered by many as a founding father of vocaloid rock/metal, [**Yuyoyuppe**](
 
 We've managed to secure **18** tracks from their **Yuyoyuppe** and **DJ'TEKINA//SOMETHING** aliases (plus 3 more tracks from their older [MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19) listing). We can guarantee that you'll recognize at least a few of them, like *Palette* or *Leia*.
 
-One of these tracks is already iconic among osu!'s speediest players: [*Hidamari no Uta*](https://osu.ppy.sh/beatmapsets/831242) mapped by ::Seto Kousuke::{ user=2857314 }. We asked [yasen](https://osu.ppy.sh/users/6879408) (the highest ranking player on the map's leaderboards) to show us his streaming limits as part of a quick song preview below:
+One of these tracks is already iconic among osu!'s speediest players: [*Hidamari no Uta*](https://osu.ppy.sh/beatmapsets/831242) mapped by ::Seto Kousuke::{ user=2857314 }. We asked ::yasen::{ user=6879408 } (the highest ranking player on the map's leaderboards) to show us his streaming limits as part of a quick song preview below:
 
 <div align="center">
     <video width="95%" controls>

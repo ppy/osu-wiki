@@ -25,7 +25,7 @@ Remember Hollow Wings' famous [Halozy - Kikoku Doukoku Jigokuraku](https://osu.p
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/DWh_nJw_wPc" frameborder="0" allowfullscreen></iframe></br>
 
-Following the path of ::ExGon::{ user=214187 }, [Motion](https://osu.ppy.sh/users/3885626) has become the first osu!catch player to hit 16,000pp, doing so by setting a crazy 99.48% DT FC on [wa. vs celas - Vajuranda](https://osu.ppy.sh/beatmaps/942057) to earn an outstanding 1009pp on the dot. Check it out!
+Following the path of ::ExGon::{ user=214187 }, ::Motion::{ user=3885626 } has become the first osu!catch player to hit 16,000pp, doing so by setting a crazy 99.48% DT FC on [wa. vs celas - Vajuranda](https://osu.ppy.sh/beatmaps/942057) to earn an outstanding 1009pp on the dot. Check it out!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/iWp7og8_A2g" frameborder="0" allowfullscreen></iframe></br>
 
@@ -47,7 +47,7 @@ Once again, do support [osu!archive](https://www.reddit.com/r/osugame/comments/7
 
 ## SCORESHOW WITH ZSEIKIMATSU
 
-They are two former number ones! ::Rafis::{ user=2558286 } takes on [firebat92](https://osu.ppy.sh/users/1777162) on [xi - Ascension to Heaven](https://osu.ppy.sh/beatmaps/807074).
+They are two former number ones! ::Rafis::{ user=2558286 } takes on ::firebat92::{ user=1777162 } on [xi - Ascension to Heaven](https://osu.ppy.sh/beatmaps/807074).
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/tdlDhJhNUcs" frameborder="0" allowfullscreen></iframe></br>
 

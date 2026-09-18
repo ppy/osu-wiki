@@ -14,23 +14,23 @@ Congratulations to winner of the April Ranking Charts 2014:
 
 **osu! standard**
 
-- **1st** [Raiku](https://osu.ppy.sh/users/Raiku) \- 1 month supporter
-- **2nd** [_index](https://osu.ppy.sh/users/_index)
+- **1st** ::Raiku::{ user=1525538 } \- 1 month supporter
+- **2nd** ::\1index::{ user=652457 }
 
 **Taiko**
 
 - **1st** ::Konpaku Sariel::{ user=533502 } \- 1 month supporter
-- **2nd** [syunsyun](https://osu.ppy.sh/users/syunsyun)
+- **2nd** ::syunsyun::{ user=785137 }
 
 **Catch the Beat**
 
-- **1st** [-Kuroha Neko-](https://osu.ppy.sh/users/-Kuroha%20Neko-) \- 1 month supporter
-- **2nd** [Vernas](https://osu.ppy.sh/users/Vernas)
+- **1st** ::-Kuroha Neko-::{ user=1916847 } \- 1 month supporter
+- **2nd** ::Vernas::{ user=35446506 }
 
 **osu!mania**
 
-- **1st** [INGYK](https://osu.ppy.sh/users/INGYK) \- 1 month supporter
-- **2nd** [F1rstLove](https://osu.ppy.sh/users/F1rstLove)
+- **1st** ::INGYK::{ user=3835515 } \- 1 month supporter
+- **2nd** ::F1rstLove::{ user=4269882 }
 
 Good luck with the new charts!
 

@@ -57,7 +57,7 @@ We had the debut of 2 [originals](/wiki/osu!_originals) this week as well: the f
     </audio>
 </div>
 
-The second original to release on the same day would be [Minstrel](https://osu.ppy.sh/beatmaps/artists/349)'s [today is the day](https://osu.ppy.sh/beatmapsets/2281434#osu/4864081), a high-intensity 212 BPM J-rock song supported by a jumpy burst map brought to you by the collab of ::bad boy::{ user=3545323 } and [melon boy](https://osu.ppy.sh/users/3053382).
+The second original to release on the same day would be [Minstrel](https://osu.ppy.sh/beatmaps/artists/349)'s [today is the day](https://osu.ppy.sh/beatmapsets/2281434#osu/4864081), a high-intensity 212 BPM J-rock song supported by a jumpy burst map brought to you by the collab of ::bad boy::{ user=3545323 } and ::melon boy::{ user=3053382 }.
 
 ## Semifinals summary
 

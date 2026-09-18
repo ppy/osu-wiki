@@ -40,7 +40,7 @@ The osu!taiko community doesn't cut corners. All **23** submissions received in-
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/LTeAjoogLWw" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Special thanks to ::cdh::{ user=2403621 }, [HomieLove](https://osu.ppy.sh/users/8693851), ::Yasuho::{ user=8458835 }, and [arcpotato](https://osu.ppy.sh/users/12842392) for judging this contest!
+Special thanks to ::cdh::{ user=2403621 }, ::HomieLove::{ user=8693851 }, ::Yasuho::{ user=8458835 }, and ::arcpotato::{ user=12842392 } for judging this contest!
 
 ### osu!catch results
 
@@ -62,7 +62,7 @@ osu!catch followed the same format: each of the **12** submissions were reviewed
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/inp3UmDQlTs" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Special thanks to ::fayew::{ user=12498861 }, [GiGas](https://osu.ppy.sh/users/7300747), ::Dapulezatos::{ user=8140944 }, and [Chatie](https://osu.ppy.sh/users/6524765) for judging this contest!
+Special thanks to ::fayew::{ user=12498861 }, ::GiGas::{ user=7300747 }, ::Dapulezatos::{ user=8140944 }, and ::Chatie::{ user=6524765 } for judging this contest!
 
 ---
 

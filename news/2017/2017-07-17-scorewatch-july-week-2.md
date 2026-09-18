@@ -18,7 +18,7 @@ He isn't the only one to enter the 700pp club that day! ::Yaong::{ user=1883865 
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Sf29XhQc1cM" frameborder="0" allowfullscreen></iframe></br>
 
-::Rucker::{ user=147515 } definitely had ::MinG3012::{ user=1583218 } (and [Axarious](https://osu.ppy.sh/users/2614511) and ::Epiphany::{ user=3256299 }) in his mind as he went on to take a somewhat unbelievable 16.90% NF FC on [IOSYS - Cirno no Perfect Sansuu Kyoushitsu](https://osu.ppy.sh/beatmaps/893739) to earn himself 118pp. So, when's the all 50 run? We will be waiting.
+::Rucker::{ user=147515 } definitely had ::MinG3012::{ user=1583218 } (and ::Axarious::{ user=2614511 } and ::Epiphany::{ user=3256299 }) in his mind as he went on to take a somewhat unbelievable 16.90% NF FC on [IOSYS - Cirno no Perfect Sansuu Kyoushitsu](https://osu.ppy.sh/beatmaps/893739) to earn himself 118pp. So, when's the all 50 run? We will be waiting.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/7iPh4um_Qwo" frameborder="0" allowfullscreen></iframe></br>
 
@@ -38,7 +38,7 @@ A certain ::Monstrata::{ user=2706438 } map, [xi - Glorious Crown](https://osu.p
 
 ## SCORESHOW WITH ZSEIKIMATSU
 
-::Cookiezi::{ user=124493 } and [Gayzmcgee](https://osu.ppy.sh/users/1419095) battle it out on a stream test on the map [UNDEAD CORPORATION - Everything will freeze](https://osu.ppy.sh/beatmaps/552068?m=0).
+::Cookiezi::{ user=124493 } and ::Gayzmcgee::{ user=1419095 } battle it out on a stream test on the map [UNDEAD CORPORATION - Everything will freeze](https://osu.ppy.sh/beatmaps/552068?m=0).
 
 <iframe width="100%" height="315"  src="https://www.youtube.com/embed/WvHk6I11AGM" frameborder="0" allowfullscreen></iframe></br>
 

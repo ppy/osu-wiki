@@ -43,7 +43,7 @@ Don't forget about the [osu!(lazer)](https://osu.ppy.sh/home/download) Project L
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::Aistre::{ user=4879380 }, [BATBALL](https://osu.ppy.sh/users/15173952), ::chiv::{ user=6701656 }, [Librarian](https://osu.ppy.sh/users/10083084), ::megumic::{ user=7537133 }, and [Mismagius](https://osu.ppy.sh/users/19048)!
+The osu! Loved candidates were chosen by ::Aistre::{ user=4879380 }, ::BATBALL::{ user=15173952 }, ::chiv::{ user=6701656 }, ::Librarian::{ user=10083084 }, ::megumic::{ user=7537133 }, and ::Mismagius::{ user=19048 }!
 
 **[Click here to download all of this round's osu! picks!](https://packs.ppy.sh/LR24%20-%20Project%20Loved:%20December%202024%20(osu!).zip)**
 
@@ -57,13 +57,13 @@ The osu! Loved candidates were chosen by ::Aistre::{ user=4879380 }, [BATBALL](h
 
 [![](/wiki/shared/news/2024-12-13-project-loved-december-2024/961450.jpg)](https://osu.ppy.sh/community/forums/topics/2014502)
 
-[Yorushika - Dakara Boku wa Ongaku o Yameta](https://osu.ppy.sh/beatmapsets/961450#osu) by ::Awaken::{ user=1380253 }, [Crystar](https://osu.ppy.sh/users/4071785), ::Delis::{ user=1603923 }, [Flask](https://osu.ppy.sh/users/959763), ::kanor::{ user=3131236 }, [ponbot](https://osu.ppy.sh/users/8939857), and ::TtmnZk::{ user=2495509 }\
+[Yorushika - Dakara Boku wa Ongaku o Yameta](https://osu.ppy.sh/beatmapsets/961450#osu) by ::Awaken::{ user=1380253 }, ::Crystar::{ user=4071785 }, ::Delis::{ user=1603923 }, ::Flask::{ user=959763 }, ::kanor::{ user=3131236 }, ::ponbot::{ user=8939857 }, and ::TtmnZk::{ user=2495509 }\
 250 BPM, 4:02 | 3.52★ – 7.45★\
 *description written by ::chiv::{ user=6701656 }*
 
 gooooood morrrrrrning to all the beautiful Yorushika fans!! 😃😆😍😘😘 the rest of y'all... 🥱😐😒 gm I guess 😠
 
-Straight from your Spotify Wrapped, [Yorushika - Dakara Boku wa Ongaku o Yameta](https://osu.ppy.sh/beatmapsets/961450#osu/2012763) arrives to take its rightful place as this month's first Popular Playcounts pick. ::Awaken::{ user=1380253 }, [Delis](https://osu.ppy.sh/users/1603923), ::Flask::{ user=959763 }, and a bunch of other classic mappers bring their own takes on one of the most iconic J-pop anthems of the last decade. Jump into a field of aim and alt control, as each collab and difficulty has that extra flair making them stand out from the rest.
+Straight from your Spotify Wrapped, [Yorushika - Dakara Boku wa Ongaku o Yameta](https://osu.ppy.sh/beatmapsets/961450#osu/2012763) arrives to take its rightful place as this month's first Popular Playcounts pick. ::Awaken::{ user=1380253 }, ::Delis::{ user=1603923 }, ::Flask::{ user=959763 }, and a bunch of other classic mappers bring their own takes on one of the most iconic J-pop anthems of the last decade. Jump into a field of aim and alt control, as each collab and difficulty has that extra flair making them stand out from the rest.
 
 Not much else for me to say here, but for you? VOTE YES!
 
@@ -79,7 +79,7 @@ This month's second *Popular Playcounts* pick features one of the most well-know
 
 [![](/wiki/shared/news/2024-12-13-project-loved-december-2024/1768121.jpg)](https://osu.ppy.sh/community/forums/topics/2014500)
 
-[Bring Me The Horizon - Drown (Sewerslvt Remix)](https://osu.ppy.sh/beatmapsets/1768121#osu) by ::Cappu::{ user=6754712 }, [0ppInOsu](https://osu.ppy.sh/users/12551840), ::Blacky Design::{ user=11540165 }, [colicen](https://osu.ppy.sh/users/8657379), ::Djulus::{ user=4960893 }, [Frakturehawkens](https://osu.ppy.sh/users/7458583), ::Gillstar::{ user=7948210 }, [Halgoh](https://osu.ppy.sh/users/4109923), ::KogumaX::{ user=525262 }, [MaestroSplinter](https://osu.ppy.sh/users/6707918), ::nexx-::{ user=8360581 }, [Rumia-](https://osu.ppy.sh/users/1787171), ::Sharu::{ user=5597639 }, [Skystar](https://osu.ppy.sh/users/873961), ::taku::{ user=684433 }, [tukamoto7km](https://osu.ppy.sh/users/1441049), ::Ykybfz::{ user=9522967 }, and [Yuguiboy](https://osu.ppy.sh/users/5559243)\
+[Bring Me The Horizon - Drown (Sewerslvt Remix)](https://osu.ppy.sh/beatmapsets/1768121#osu) by ::Cappu::{ user=6754712 }, ::0ppInOsu::{ user=12551840 }, ::Blacky Design::{ user=11540165 }, ::colicen::{ user=8657379 }, ::Djulus::{ user=4960893 }, ::Frakturehawkens::{ user=7458583 }, ::Gillstar::{ user=7948210 }, ::Halgoh::{ user=4109923 }, ::KogumaX::{ user=525262 }, ::MaestroSplinter::{ user=6707918 }, ::nexx-::{ user=8360581 }, ::Rumia-::{ user=1787171 }, ::Sharu::{ user=5597639 }, ::Skystar::{ user=873961 }, ::taku::{ user=684433 }, ::tukamoto7km::{ user=1441049 }, ::Ykybfz::{ user=9522967 }, and ::Yuguiboy::{ user=5559243 }\
 175 BPM, 7:45 | 6.78★\
 *description written by ::chiv::{ user=6701656 }*
 
@@ -89,11 +89,11 @@ Don't let this drown.... Vote yes...
 
 [![](/wiki/shared/news/2024-12-13-project-loved-december-2024/1238488.jpg)](https://osu.ppy.sh/community/forums/topics/2014499)
 
-[Camellia - We Could Get More Machinegun Psystyle! (And More Genre Switches)](https://osu.ppy.sh/beatmapsets/1238488#osu) by ::DixAway::{ user=8172901 } and [rnuxk](https://osu.ppy.sh/users/10643960)\
+[Camellia - We Could Get More Machinegun Psystyle! (And More Genre Switches)](https://osu.ppy.sh/beatmapsets/1238488#osu) by ::DixAway::{ user=8172901 } and ::rnuxk::{ user=10643960 }\
 160 BPM, 5:07 | 9.07★\
 *description written by ::Aistre::{ user=4879380 }*
 
-It's time to lock in for this month's *Daredevil Difficulties*, it's ::DixAway::{ user=8172901 } and [rnuxk](https://osu.ppy.sh/users/10643960)'s collab of [Camellia - We Could Get More Machinegun Psystyle! (And More Genre Switches)](https://osu.ppy.sh/beatmapsets/1238488#osu/2575008)! If you're an avid follower of top players, then you might have seen Vaxei set [this crazy play](https://www.youtube.com/watch?v=L9p1RiZTa38) last year.
+It's time to lock in for this month's *Daredevil Difficulties*, it's ::DixAway::{ user=8172901 } and ::rnuxk::{ user=10643960 }'s collab of [Camellia - We Could Get More Machinegun Psystyle! (And More Genre Switches)](https://osu.ppy.sh/beatmapsets/1238488#osu/2575008)! If you're an avid follower of top players, then you might have seen Vaxei set [this crazy play](https://www.youtube.com/watch?v=L9p1RiZTa38) last year.
 
 Sitting at an intimidating 9.07★ and 5:07, this map features blazing fast jumps and tons of tricky alt patterns for you to suffer on. Luckily for you, there are a few periods of downtime for you to catch your breath!
 
@@ -101,11 +101,11 @@ Good luck on this one, and make sure to cast your vote if you want to see this m
 
 [![](/wiki/shared/news/2024-12-13-project-loved-december-2024/1210574.jpg)](https://osu.ppy.sh/community/forums/topics/2014498)
 
-[Sota Fujimori - Modular Technology](https://osu.ppy.sh/beatmapsets/1210574#osu) by ::Feiri::{ user=3214844 }, [bad boy](https://osu.ppy.sh/users/3545323), ::IOException::{ user=2688103 }, [Sebu](https://osu.ppy.sh/users/3990173), and ::Zer0-G::{ user=12577911 }\
+[Sota Fujimori - Modular Technology](https://osu.ppy.sh/beatmapsets/1210574#osu) by ::Feiri::{ user=3214844 }, ::bad boy::{ user=3545323 }, ::IOException::{ user=2688103 }, ::Sebu::{ user=3990173 }, and ::Zer0-G::{ user=12577911 }\
 170 BPM, 1:48 | 2.28★ – 8.41★\
 *description written by ::Aistre::{ user=4879380 }*
 
-December's *Ranked Rejects* will tickle your brain, we have [Sota Fujimori - Modular Technology](https://osu.ppy.sh/beatmapsets/1210574#osu/2869650) mapped by ::feiri::{ user=3214844 }, [bad boy](https://osu.ppy.sh/users/3545323), ::IOException::{ user=2688103 }, and [Sebu](https://osu.ppy.sh/users/3990173) with hitsounds by ::Zer0-G::{ user=12577911 }!
+December's *Ranked Rejects* will tickle your brain, we have [Sota Fujimori - Modular Technology](https://osu.ppy.sh/beatmapsets/1210574#osu/2869650) mapped by ::feiri::{ user=3214844 }, ::bad boy::{ user=3545323 }, ::IOException::{ user=2688103 }, and ::Sebu::{ user=3990173 } with hitsounds by ::Zer0-G::{ user=12577911 }!
 
 Ranging from 2.28★ to 8.41★, this set offers tricky finger control and erratic patterning to match the groovy yet unpredictable nature of the song. Whether you're practicing your skills on more unconventional maps or are looking for a challenge, Modular Technology has a difficulty for anyone to enjoy.
 
@@ -113,7 +113,7 @@ Unfortunately, this set was never quite finished and we think it deserves a plac
 
 [![](/wiki/shared/news/2024-12-13-project-loved-december-2024/1799413.jpg)](https://osu.ppy.sh/community/forums/topics/2014497)
 
-[II-L - LEVEL-DOWN](https://osu.ppy.sh/beatmapsets/1799413#osu) by ::ktgster::{ user=53378 } and [Apichu](https://osu.ppy.sh/users/14967853)\
+[II-L - LEVEL-DOWN](https://osu.ppy.sh/beatmapsets/1799413#osu) by ::ktgster::{ user=53378 } and ::Apichu::{ user=14967853 }\
 170 BPM, 1:54 | 5.28★, 5.28★\
 *description written by ::BATBALL::{ user=15173952 }*
 
@@ -162,13 +162,13 @@ Vote this map into Loved to find your dreams come true!
 
 [![](/wiki/shared/news/2024-12-13-project-loved-december-2024/1028094.jpg)](https://osu.ppy.sh/community/forums/topics/2014494)
 
-[LIQU@. - Rakka Factor](https://osu.ppy.sh/beatmapsets/1028094#osu) by ::PandaHero::{ user=1233255 } and [Mirash](https://osu.ppy.sh/users/2841009)\
+[LIQU@. - Rakka Factor](https://osu.ppy.sh/beatmapsets/1028094#osu) by ::PandaHero::{ user=1233255 } and ::Mirash::{ user=2841009 }\
 174 BPM, 3:38 | 7.34★, 7.74★\
 *description written by ::Librarian::{ user=10083084 }*
 
 There's something just so... special about this map... I really couldn't pinpoint what allows it to be as great as it is... maybe it's some sort of *Rakka Factor*... heh...
 
-Joking aside, this 7.74★ collab between ::PandaHero::{ user=1233255 } and [Mirash](https://osu.ppy.sh/users/2841009) is magnificent. The difficulty arises from high-spacing cut streams at 174 BPM, providing quite the challenge over its 3:38 runtime. Go out and try this one for yourself, because you won't regret it.
+Joking aside, this 7.74★ collab between ::PandaHero::{ user=1233255 } and ::Mirash::{ user=2841009 } is magnificent. The difficulty arises from high-spacing cut streams at 174 BPM, providing quite the challenge over its 3:38 runtime. Go out and try this one for yourself, because you won't regret it.
 
 [![](/wiki/shared/news/2024-12-13-project-loved-december-2024/1842684.jpg)](https://osu.ppy.sh/community/forums/topics/2014493)
 
@@ -198,7 +198,7 @@ And of course, remember to vote YES, keep calm and be a yandere.
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::Boaz::{ user=13302996 }, [Gamelan4](https://osu.ppy.sh/users/9856910), ::Horiiizon::{ user=8071438 }, [Roxy-](https://osu.ppy.sh/users/11931563), and ::Yutsu-::{ user=16320311 }!
+The osu!taiko Loved candidates were chosen by ::Boaz::{ user=13302996 }, ::Gamelan4::{ user=9856910 }, ::Horiiizon::{ user=8071438 }, ::Roxy-::{ user=11931563 }, and ::Yutsu-::{ user=16320311 }!
 
 **[Click here to download all of this round's osu!taiko picks!](https://packs.ppy.sh/LR23%20-%20Project%20Loved:%20December%202024%20(osu!taiko).zip)**
 
@@ -226,15 +226,15 @@ Step into the trap, embrace the honey, and see if you have what it takes to conq
 
 [![](/wiki/shared/news/2024-12-13-project-loved-december-2024/1850782.jpg)](https://osu.ppy.sh/community/forums/topics/2014490)
 
-[takehirotei as ''Infinite Limit'' - Rules of the Chaos Dilemma](https://osu.ppy.sh/beatmapsets/1850782#taiko) by ::MTNTWarz::{ user=14036825 }, [\[Zeth\]](https://osu.ppy.sh/users/9912966), ::Asagi Mutsuki::{ user=2403621 }, and [ler1211](https://osu.ppy.sh/users/19901680)\
+[takehirotei as ''Infinite Limit'' - Rules of the Chaos Dilemma](https://osu.ppy.sh/beatmapsets/1850782#taiko) by ::MTNTWarz::{ user=14036825 }, ::\[Zeth\]::{ user=9912966 }, ::Asagi Mutsuki::{ user=2403621 }, and ::ler1211::{ user=19901680 }\
 251 BPM, 5:50 | 7.99★\
 *description written by ::Roxy-::{ user=11931563 }*
 
-[Rules of the Chaos Dilemma](https://osu.ppy.sh/beatmapsets/1850782#taiko/3802036), composed by ::takehirotei::{ user=11793794 }, is a huge collaboration between famous Malaysian mappers ::MTNTwarz::{ user=14036825 }, [ler1211](https://osu.ppy.sh/users/19901680) and ::Asagi Mutsuki::{ user=2403621 }. This is a custom map for the Semifinals tiebreaker of [Expert Global Taiko Showdown 2022](/wiki/Tournaments/GTS/EGTS_2022), a large-scale osu!taiko tournament. Because it is a large-scale tournament, the map is structured in such a way that it is very challenging and makes you tense, so you can feel as if you are actually playing in the tournament. We hope you will experience that sensation by playing this map.
+[Rules of the Chaos Dilemma](https://osu.ppy.sh/beatmapsets/1850782#taiko/3802036), composed by ::takehirotei::{ user=11793794 }, is a huge collaboration between famous Malaysian mappers ::MTNTwarz::{ user=14036825 }, ::ler1211::{ user=19901680 } and ::Asagi Mutsuki::{ user=2403621 }. This is a custom map for the Semifinals tiebreaker of [Expert Global Taiko Showdown 2022](/wiki/Tournaments/GTS/EGTS_2022), a large-scale osu!taiko tournament. Because it is a large-scale tournament, the map is structured in such a way that it is very challenging and makes you tense, so you can feel as if you are actually playing in the tournament. We hope you will experience that sensation by playing this map.
 
 [![](/wiki/shared/news/2024-12-13-project-loved-december-2024/952710.jpg)](https://osu.ppy.sh/community/forums/topics/2014489)
 
-[GigaP - Rettou Joutou(BRING IT ON) ft.Kagamine Rin&Ren (Yozumina Remix)](https://osu.ppy.sh/beatmapsets/952710#taiko) by ::Waribashi::{ user=2250574 } and [maguro869](https://osu.ppy.sh/users/4733750)\
+[GigaP - Rettou Joutou(BRING IT ON) ft.Kagamine Rin&Ren (Yozumina Remix)](https://osu.ppy.sh/beatmapsets/952710#taiko) by ::Waribashi::{ user=2250574 } and ::maguro869::{ user=4733750 }\
 190 BPM, 4:17 | 7.28★\
 *description written by ::Gamelan4::{ user=9856910 }*
 
@@ -272,7 +272,7 @@ Merry Xmas and have a Happy New Year!! <3
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::Tenshichan::{ user=1101600 } and [wwwww](https://osu.ppy.sh/users/8434466)!
+The osu!catch Loved candidates were chosen by ::Tenshichan::{ user=1101600 } and ::wwwww::{ user=8434466 }!
 
 **[Click here to download all of this round's osu!catch picks!](https://packs.ppy.sh/LR22%20-%20Project%20Loved:%20December%202024%20(osu!catch).zip)**
 
@@ -294,11 +294,11 @@ The osu!catch Loved candidates were chosen by ::Tenshichan::{ user=1101600 } and
 
 [![](/wiki/shared/news/2024-12-13-project-loved-december-2024/1545929.jpg)](https://osu.ppy.sh/community/forums/topics/2014485)
 
-[My Chemical Romance - Welcome to the Black Parade](https://osu.ppy.sh/beatmapsets/1545929#fruits) by ::wonjae::{ user=5032045 } and [Liyac](https://osu.ppy.sh/users/4994598)\
+[My Chemical Romance - Welcome to the Black Parade](https://osu.ppy.sh/beatmapsets/1545929#fruits) by ::wonjae::{ user=5032045 } and ::Liyac::{ user=4994598 }\
 194 BPM, 5:04 | 5.71★\
 *description written by ::Tenshichan::{ user=1101600 }*
 
-An unusual map this time around, as it kind of resembles a convert adjusted in a way that makes it very playable in osu!catch. Because of that, there are a lot of unique patterns that you usually don't see in catch mapping. Some of them are definitely hard to hit, but nothing really feels unfair. ::wonjae::{ user=5032045 } and [Liyac](https://osu.ppy.sh/users/4994598) did a really good job with this map, and if you like to play both converts and specifics, then you will probably have fun with this one! Make sure to give it a try and share your thoughts!
+An unusual map this time around, as it kind of resembles a convert adjusted in a way that makes it very playable in osu!catch. Because of that, there are a lot of unique patterns that you usually don't see in catch mapping. Some of them are definitely hard to hit, but nothing really feels unfair. ::wonjae::{ user=5032045 } and ::Liyac::{ user=4994598 } did a really good job with this map, and if you like to play both converts and specifics, then you will probably have fun with this one! Make sure to give it a try and share your thoughts!
 
 [![](/wiki/shared/news/2024-12-13-project-loved-december-2024/1559849.jpg)](https://osu.ppy.sh/community/forums/topics/2014484)
 
@@ -310,7 +310,7 @@ An enjoyable mix of both speed and precision, [8284-TM](https://osu.ppy.sh/beatm
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::Carpihat::{ user=10085090 }, [elexire](https://osu.ppy.sh/users/9206093), ::Maxus::{ user=4335785 }, [Paturages](https://osu.ppy.sh/users/1375479), ::Silhoueska Elze::{ user=11517895 }, [SunApple](https://osu.ppy.sh/users/11817622), ::taba2::{ user=7850508 }, and [YuEast 2018](https://osu.ppy.sh/users/13953619)!
+The osu!mania Loved candidates were chosen by ::Carpihat::{ user=10085090 }, ::elexire::{ user=9206093 }, ::Maxus::{ user=4335785 }, ::Paturages::{ user=1375479 }, ::Silhoueska Elze::{ user=11517895 }, ::SunApple::{ user=11817622 }, ::taba2::{ user=7850508 }, and ::YuEast 2018::{ user=13953619 }!
 
 **[Click here to download all of this round's osu!mania picks!](https://packs.ppy.sh/LR21%20-%20Project%20Loved:%20December%202024%20(osu!mania).zip)**
 
@@ -382,13 +382,13 @@ Enough talking about tournaments. If you just want to play a well-made chart, vo
 
 [![](/wiki/shared/news/2024-12-13-project-loved-december-2024/740537.jpg)](https://osu.ppy.sh/community/forums/topics/2014479)
 
-[xi - Last Resort](https://osu.ppy.sh/beatmapsets/740537#mania) by ::Aruel::{ user=3984370 }, [arpia97](https://osu.ppy.sh/users/6363008), and ::Lude::{ user=6974536 }\
+[xi - Last Resort](https://osu.ppy.sh/beatmapsets/740537#mania) by ::Aruel::{ user=3984370 }, ::arpia97::{ user=6363008 }, and ::Lude::{ user=6974536 }\
 252 BPM, 1:59 | 1.46★ – 6.06★\
 *description written by ::Silhoueska Elze::{ user=11517895 }*
 
 [Last Resort](https://osu.ppy.sh/beatmapsets/740537#mania/1562400) is such a versatile chart. There are so many difficulties provided here, each one probably suited for whatever skill level you are in (hence the high play count), and that alone makes it for a potential pick for this iteration of Project Loved.
 
-Hosted by ::Aruel::{ user=3984370 }, commonly known as *Fresh Chicken*, featuring guest difficulties by ::Arpia97::{ user=6363008 } and [Lude](https://osu.ppy.sh/users/6974536), *Last Resort* is a great example of the older-styled charts you'd see back during the time it was uploaded, as the majority of hard Ranked charts consisted of similar ideas and patterns. In fact, you can see this quite well in Aruel's last nomination, [A Lasting Promise](https://osu.ppy.sh/beatmapsets/740015#mania/1565608).
+Hosted by ::Aruel::{ user=3984370 }, commonly known as *Fresh Chicken*, featuring guest difficulties by ::Arpia97::{ user=6363008 } and ::Lude::{ user=6974536 }, *Last Resort* is a great example of the older-styled charts you'd see back during the time it was uploaded, as the majority of hard Ranked charts consisted of similar ideas and patterns. In fact, you can see this quite well in Aruel's last nomination, [A Lasting Promise](https://osu.ppy.sh/beatmapsets/740015#mania/1565608).
 
 As said before, it resembles old-style charting very well, as it came from someone who was well known for such a thing, and if you don't know what to expect from one, you'll typically be greeted with handstreams, 1/8 trills, and heavy chords. This approach to charting doesn't have nearly as much of a prominence as it did back then, but that's not to say it's bad! Much of the value behind charts like these is held high due to those factors, and if it wasn't already obvious enough, this set is popular. Like, really really popular.
 
@@ -410,7 +410,7 @@ Do you want to see more charts like this in Project Loved? Then vote *YES* for t
 
 [![](/wiki/shared/news/2024-12-13-project-loved-december-2024/1221644.jpg)](https://osu.ppy.sh/community/forums/topics/2014477)
 
-[Yorushika - Tada Kimi ni Hare](https://osu.ppy.sh/beatmapsets/1221644#mania) by ::- A s u s a -::{ user=4607354 } and [Lung_P](https://osu.ppy.sh/users/8271308)\
+[Yorushika - Tada Kimi ni Hare](https://osu.ppy.sh/beatmapsets/1221644#mania) by ::- A s u s a -::{ user=4607354 } and ::Lung\1P::{ user=8271308 }\
 140 BPM, 3:17 | 4.33★, 6.23★\
 *description written by ::taba2::{ user=7850508 }*
 

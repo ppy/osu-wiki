@@ -11,7 +11,7 @@ At long last, we've reached the tournament's mid-way point! Join us for the Quar
 
 As teams get eliminated left and right, we're reaching a point of no return where only the best of the best countries will be left standing. Additionally, the Quarterfinals gave us a small glimpse into how the upcoming difficulty increases in the pools are going to shape each and every match as end game charts are introduced. Considering how strong of a first half we've been able to experience, who knows what the future holds as we begin to reach the final rounds!
 
-It should not come as a surprise anymore than ::Dynascape::{ user=8784587 }, [SunApple](https://osu.ppy.sh/users/11817622), ::Normiplier::{ user=10069850 }, and [akace100](https://osu.ppy.sh/users/9308128) have prepared yet another video recap for us to enjoy. Quite a good watch during your train commute, if we do say so ourselves.
+It should not come as a surprise anymore than ::Dynascape::{ user=8784587 }, ::SunApple::{ user=11817622 }, ::Normiplier::{ user=10069850 }, and ::akace100::{ user=9308128 } have prepared yet another video recap for us to enjoy. Quite a good watch during your train commute, if we do say so ourselves.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/QghgYwR8QiU" frameborder="0" allowfullscreen></iframe>

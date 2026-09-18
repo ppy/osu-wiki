@@ -51,7 +51,7 @@ tags:
 - [Osamu Kubota - Presto \[Jval's Another\]](https://osu.ppy.sh/beatmapsets/1452332#osu/3005290), идея ::Zelq::{ user=8953955 }
 - [Neru - Lost One no Goukoku \[eveless\]](https://osu.ppy.sh/beatmapsets/83547#osu/230641), идея ::Ryuusei Aika::{ user=7777875 }
 - [OSTER project - Violet Rose \[Insane\]](https://osu.ppy.sh/beatmapsets/1178488#osu/2457698), идея ::DigitalHypno::{ user=4384207 }
-- [onoken - ZADAMGA \[Luscent's Extra\]](https://osu.ppy.sh/beatmapsets/1492550#osu/3188917), идея ::DigitalHypno::{ user=4384207 } and [Lefafel](https://osu.ppy.sh/users/2295850)
+- [onoken - ZADAMGA \[Luscent's Extra\]](https://osu.ppy.sh/beatmapsets/1492550#osu/3188917), идея ::DigitalHypno::{ user=4384207 } and ::Lefafel::{ user=2295850 }
 - [UKRampage - Jack-the-Ripper \[Extravaganza\]](https://osu.ppy.sh/beatmapsets/1333932#osu/3274710), идея ::Ryuusei Aika::{ user=7777875 }
 - [Nekomata Master - Byakuya Gentou \[EX\]](https://osu.ppy.sh/beatmapsets/36849#osu/119375), идея ::Ryuusei Aika::{ user=7777875 }
 - [ELECTROCUTICA - Dependence Intension \[AQUARIUM+\]](https://osu.ppy.sh/beatmapsets/1402842#osu/2893781), идея ::Riot::{ user=4256461 }
@@ -84,7 +84,7 @@ tags:
 - [Zekk - Feelsleft0ut \[rei's missing 0ut\] (Bunnrei)](https://osu.ppy.sh/beatmapsets/1145368#fruits/2391319), идея ::SadEgg::{ user=10278243 }
 - [Phoebe Ryan - Mine (HANAEL Remix) \[Lost\] (Jemzuu)](https://osu.ppy.sh/beatmapsets/1222143#fruits/2542067), идея ::Rocma::{ user=566276 }
 
-### osu!mania (подборка от ::Hydria::{ user=808176 } при участии [CrumpetFiddler](https://osu.ppy.sh/users/3518705))
+### osu!mania (подборка от ::Hydria::{ user=808176 } при участии ::CrumpetFiddler::{ user=3518705 })
 
 #### Плейлист A (нетипичный ритм)
 

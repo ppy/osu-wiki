@@ -91,7 +91,7 @@ As a bonus for winning first place, each of the winners' badge descriptions will
 
 For future reference, [here is a listing of all accumulated Olympiad Points](https://docs.google.com/spreadsheets/d/1_gIDJwTOgIhGr2h4069-r1C-2GHuV--5wtwPywzYsz8/edit?usp=sharing) which will be updated after each contest.
 
-We'd like to thank all of the judges who spent several weeks going through and judging all of the entries: ::Cerulean Veyron::{ user=1886524 }, [Electoz](https://osu.ppy.sh/users/6485263), ::Kuron-kun::{ user=2697284 }, [Sinnoh](https://osu.ppy.sh/users/4236057), and ::Sonnyc::{ user=11771 }. None of this would have been possible without you all.
+We'd like to thank all of the judges who spent several weeks going through and judging all of the entries: ::Cerulean Veyron::{ user=1886524 }, ::Electoz::{ user=6485263 }, ::Kuron-kun::{ user=2697284 }, ::Sinnoh::{ user=4236057 }, and ::Sonnyc::{ user=11771 }. None of this would have been possible without you all.
 
 Lastly, below are all of the entries for each song for everyone to look through. In addition, pishifat, Bonzi, and Monstrata will be putting together mapsets for ranking which will include the top three entries for each of the songs they won respectively:
 

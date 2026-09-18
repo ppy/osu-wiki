@@ -11,7 +11,7 @@ The first elimination round comes to a close with a bang! The bells toll as half
 
 With such a strong start to the tournament, it was to be expected this momentum would carry into the next rounds. Little did we know teams in both losers' and winners' brackets would be thriving in such an early round, whether it be due to the the pressure brought by the looming fear of being eliminated, or the need to maintain the lead up until Grand Finals.
 
-Once again, big thanks to ::Dynascape::{ user=8784587 }, [SunApple](https://osu.ppy.sh/users/11817622), ::Normiplier::{ user=10069850 }, and [akace100](https://osu.ppy.sh/users/9308128) for bringing this week's video recap for everyone to enjoy! The perfect way to keep up to date with last week's matches while you eat brunch.
+Once again, big thanks to ::Dynascape::{ user=8784587 }, ::SunApple::{ user=11817622 }, ::Normiplier::{ user=10069850 }, and ::akace100::{ user=9308128 } for bringing this week's video recap for everyone to enjoy! The perfect way to keep up to date with last week's matches while you eat brunch.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/xYOImDN3wZM" frameborder="0" allowfullscreen></iframe>
@@ -51,7 +51,7 @@ A good ending point would be [xi - Aragami](https://osu.ppy.sh/beatmapsets/24250
     </audio>
 </div>
 
-Another round, another [osu! original](/wiki/Community/Bespoke_music)! This time around, [KASHIWA Daisuke](https://osu.ppy.sh/beatmaps/artists/343) is making their (osu!)debut with [SHARAKU](https://osu.ppy.sh/beatmapsets/2424991#mania/5278496) (RC6) — charted by ::0DZ0::{ user=28156707 } — in a very similar fashion to the previous round! There's a high likelihood you've heard this name before, as long as [Aqua Regia](https://osu.ppy.sh/beatmapsets/1378372#mania/2854566) by ::Shoegazer::{ user=2520707 } and [Elekton](https://osu.ppy.sh/users/4990211) is a chart you've played or seen before. This chart maintains a similar structure, with heavy bursts alongside frequent jacks, with very tight graces on top of all that. This beatmap, in combination with the incredible graphic design by ::Panthullu::{ user=12580298 }, is sure to grab the attention of many osu!mania players, perhaps even players from other game modes!
+Another round, another [osu! original](/wiki/Community/Bespoke_music)! This time around, [KASHIWA Daisuke](https://osu.ppy.sh/beatmaps/artists/343) is making their (osu!)debut with [SHARAKU](https://osu.ppy.sh/beatmapsets/2424991#mania/5278496) (RC6) — charted by ::0DZ0::{ user=28156707 } — in a very similar fashion to the previous round! There's a high likelihood you've heard this name before, as long as [Aqua Regia](https://osu.ppy.sh/beatmapsets/1378372#mania/2854566) by ::Shoegazer::{ user=2520707 } and ::Elekton::{ user=4990211 } is a chart you've played or seen before. This chart maintains a similar structure, with heavy bursts alongside frequent jacks, with very tight graces on top of all that. This beatmap, in combination with the incredible graphic design by ::Panthullu::{ user=12580298 }, is sure to grab the attention of many osu!mania players, perhaps even players from other game modes!
 
 ## Round of 16 summary
 

@@ -24,13 +24,13 @@ With that out of the way, here are our picks for the month of February.
 
 ## osu!standard
 
-osu!standard Loved candidates were chosen by ::DigitalHypno::{ user=4384207 } and [Bubbleman](https://osu.ppy.sh/users/5182050)!
+osu!standard Loved candidates were chosen by ::DigitalHypno::{ user=4384207 } and ::Bubbleman::{ user=5182050 }!
 
 ---
 
 [![](/wiki/shared/news/2021-02-28-project-loved-february-2021/osu/1-playing-with-ruby.jpg)](https://osu.ppy.sh/community/forums/topics/1260277)
 
-[NIWASHI - Playing with Ruby](https://osu.ppy.sh/beatmapsets/1178229#osu) by ::ObamaCube::{ user=7535045 } and [Morrighan](https://osu.ppy.sh/users/12042090)\
+[NIWASHI - Playing with Ruby](https://osu.ppy.sh/beatmapsets/1178229#osu) by ::ObamaCube::{ user=7535045 } and ::Morrighan::{ user=12042090 }\
 180 BPM, 4:13 | 6.66★, 7.37★\
 *description written by ::DigitalHypno::{ user=4384207 }*
 
@@ -55,7 +55,7 @@ It's a high honor for your map to be considered the "epitome" of a certain skill
 
 [![](/wiki/shared/news/2021-02-28-project-loved-february-2021/osu/4-kumo-no-kireme-feat-kourin.jpg)](https://osu.ppy.sh/community/forums/topics/1260274)
 
-[Kobaryo - Kumo No Kireme (feat. Kourin.)](https://osu.ppy.sh/beatmapsets/499093#osu) by ::Sing::{ user=3795679 }, [VINXIS](https://osu.ppy.sh/users/4323406) and ::Ambient::{ user=3172714 }\
+[Kobaryo - Kumo No Kireme (feat. Kourin.)](https://osu.ppy.sh/beatmapsets/499093#osu) by ::Sing::{ user=3795679 }, ::VINXIS::{ user=4323406 } and ::Ambient::{ user=3172714 }\
 256 BPM, 3:14 | 5.22★, 8.36★\
 *description written by ::Bubbleman::{ user=5182050 }*
 
@@ -63,7 +63,7 @@ Speedcore intensity on a mechanically draining map—if you've heard the song be
 
 [![](/wiki/shared/news/2021-02-28-project-loved-february-2021/osu/5-imagine-breaker.jpg)](https://osu.ppy.sh/community/forums/topics/1260273)
 
-[Helblinde - Imagine Breaker](https://osu.ppy.sh/beatmapsets/105142#osu) by ::Aqo::{ user=308902 } and [GoldenWolf](https://osu.ppy.sh/users/1612624)\
+[Helblinde - Imagine Breaker](https://osu.ppy.sh/beatmapsets/105142#osu) by ::Aqo::{ user=308902 } and ::GoldenWolf::{ user=1612624 }\
 227 BPM, 1:47 | 6.16★, 7.33★, 7.70★\
 *description written by ::Bubbleman::{ user=5182050 }*
 
@@ -95,7 +95,7 @@ If you've come across rustbell mapping before, you know how wacky and different 
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::POCARI SWEAT::{ user=5082685 }, [X a v y](https://osu.ppy.sh/users/3738344), ::-Kazu-::{ user=920861 } and [KuroKuroKuro](https://osu.ppy.sh/users/11931563)!
+osu!taiko Loved candidates were chosen by ::POCARI SWEAT::{ user=5082685 }, ::X a v y::{ user=3738344 }, ::-Kazu-::{ user=920861 } and ::KuroKuroKuro::{ user=11931563 }!
 
 ---
 
@@ -145,7 +145,7 @@ Ah, what a nostalgic one. Back in 2014 things were much simpler for osu!taiko: y
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, [Tenshichan](https://osu.ppy.sh/users/1101600), ::Wesley::{ user=2407265 } and [Spectator](https://osu.ppy.sh/users/702598)!
+osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, ::Tenshichan::{ user=1101600 }, ::Wesley::{ user=2407265 } and ::Spectator::{ user=702598 }!
 
 ---
 
@@ -197,13 +197,13 @@ So stop doing those other "marathons", like running, or anime-binging, as they a
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::-mint-::{ user=8976576 }, [Abraxos](https://osu.ppy.sh/users/5025064), ::lenpai::{ user=5314573 }, [Penguinosity](https://osu.ppy.sh/users/10235296) and ::Pope Gadget::{ user=2288341 }!
+osu!mania Loved candidates were chosen by ::-mint-::{ user=8976576 }, ::Abraxos::{ user=5025064 }, ::lenpai::{ user=5314573 }, ::Penguinosity::{ user=10235296 } and ::Pope Gadget::{ user=2288341 }!
 
 ---
 
 [![](/wiki/shared/news/2021-02-28-project-loved-february-2021/mania/1-flo.jpg)](https://osu.ppy.sh/community/forums/topics/1260256)
 
-[JOYRYDE - FLO](https://osu.ppy.sh/beatmapsets/638552#mania) by ::XeoStyle::{ user=3377280 } and [Hydria](https://osu.ppy.sh/users/808176)\
+[JOYRYDE - FLO](https://osu.ppy.sh/beatmapsets/638552#mania) by ::XeoStyle::{ user=3377280 } and ::Hydria::{ user=808176 }\
 125 BPM, 3:46 | \[4K\] 3.30★, \[4K\] 4.63★
 
 XeoStyle's set of *FLO* is something that many mania players old and new have enjoyed. The set has been around for nearly 4 years, and has maintained a consistent audience since its initial upload. The two difficulties here have something for both kinds of players. Xeo's \[Gallados\] diff, is a gauntlet of very technical speedy dumpstreams and jack bursts which will put players reading and accuracy to the test. Hydria's \[Hard\] difficulty on the other hand, is a much more tame experience in comparison; putting more of an emphasis on testing a player's pure accuracy and release timing abilities.

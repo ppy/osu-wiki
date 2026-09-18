@@ -28,7 +28,7 @@ In case you don't read the end of this post, be sure to submit suggestions for b
 
 ## osu!
 
-osu! Loved candidates were chosen by ::Toy::{ user=2757689 } and [DigitalHypno](https://osu.ppy.sh/users/4384207)! This week, all osu! beatmap descriptions were written by ::DigitalHypno::{ user=4384207 }.
+osu! Loved candidates were chosen by ::Toy::{ user=2757689 } and ::DigitalHypno::{ user=4384207 }! This week, all osu! beatmap descriptions were written by ::DigitalHypno::{ user=4384207 }.
 
 ---
 
@@ -40,13 +40,13 @@ This instrumental version of "The a la Menthe" by La Caution, a french hip hop d
 
 [![](/wiki/shared/news/2018-10-21-project-loved-week-of-october-21st/osu/sound-chimera.jpg)](https://osu.ppy.sh/community/forums/topics/819688)
 
-[Laur - Sound Chimera](https://osu.ppy.sh/beatmapsets/813569#osu) by ::Nattu::{ user=1886722 }, [Anishina Kodoku](https://osu.ppy.sh/users/5223028) and ::KoTo::{ user=1382805 }
+[Laur - Sound Chimera](https://osu.ppy.sh/beatmapsets/813569#osu) by ::Nattu::{ user=1886722 }, ::Anishina Kodoku::{ user=5223028 } and ::KoTo::{ user=1382805 }
 
 This is hands-down one of the coolest and craziest final boss maps for stream control. This three-difficulty mapset of Laur's "Sound Chimera" holds two low 6-star difficulties, one being a guest collab by Anishina Kodoku and KoTo. The top difficulty, on the other hand, sits at a menacing 8+ stars and is more or less a meaner version of the lower two difficulties: longer streams, crazier patterns, and overall a great challenge for past masters. The song itself, a dark psytrance track, barely stretches out to exactly five minutes. With all that said, if the fact that 240+ favorites can't convey the attractiveness of this mapset, surely the map itself can!
 
 [![](/wiki/shared/news/2018-10-21-project-loved-week-of-october-21st/osu/major-league-can-can.jpg)](https://osu.ppy.sh/community/forums/topics/819689)
 
-[MajorLeagueWobs - Major League Can Can](https://osu.ppy.sh/beatmapsets/227778#osu) by ::Cassu2::{ user=2587961 }, [- Physical -](https://osu.ppy.sh/users/3349000) and ::Sharkie::{ user=4349223 }
+[MajorLeagueWobs - Major League Can Can](https://osu.ppy.sh/beatmapsets/227778#osu) by ::Cassu2::{ user=2587961 }, ::- Physical -::{ user=3349000 } and ::Sharkie::{ user=4349223 }
 
 Ah, what would Project Loved be without a meme map here and there? This round we have Cassu2's mapset of "Major League Can Can", a remix of the Can-Can littered with 2014 meme sample sounds on top of 2014 meme sample sounds. Conversely to how the song plays out to the ears, the mapset itself is perfectly playable and enjoyable. It features a full difficulty spread of six maps ranging from high 1-star to high 5-stars, with guest difficulties from - Physical - and Sharkie. If you're looking for a blast to the dank memes of the past, have a go at this mapset and maybe join the mass of 200+ users who have favorited the map.
 
@@ -94,7 +94,7 @@ Yet another Imperial Circus Dead Decadence song has landed itself in the Loved v
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::Backfire::{ user=263110 }, [-[ ix Ishida xi ]-](https://osu.ppy.sh/users/242910), ::-Kazu-::{ user=920861 }, [iceOC](https://osu.ppy.sh/users/5482401) and ::nyanmi-1828::{ user=6866480 }!
+osu!taiko Loved candidates were chosen by ::Backfire::{ user=263110 }, ::-\1 ix Ishida xi \1-::{ user=242910 }, ::-Kazu-::{ user=920861 }, ::iceOC::{ user=5482401 } and ::nyanmi-1828::{ user=6866480 }!
 
 ---
 
@@ -107,14 +107,14 @@ Resonating with Camellia's unique sound, Taka030's extraordinary technique of ma
 
 [![](/wiki/shared/news/2018-10-21-project-loved-week-of-october-21st/taiko/galactic-astro-domination.jpg)](https://osu.ppy.sh/community/forums/topics/819701)
 
-[DragonForce - Galactic Astro Domination](https://osu.ppy.sh/beatmapsets/524140#taiko) by ::zigizigiefe::{ user=2463434 } and [Boss](https://osu.ppy.sh/users/4930639)\
+[DragonForce - Galactic Astro Domination](https://osu.ppy.sh/beatmapsets/524140#taiko) by ::zigizigiefe::{ user=2463434 } and ::Boss::{ user=4930639 }\
 *written by ::-Kazu-::{ user=920861 }*
 
 For our second pick comes this surprisingly short DragonForce map by zigizigiefe, which has the streams we all expect of a great DragonForce map, resulting in a fun map even if it's just to warm up. The streams in this map are varied and challenging, while being not as straining (due to its 200 BPM, slightly lower than what most stream maps are nowadays), making it a perfect map to start practicing these up. Good job, zigi!
 
 [![](/wiki/shared/news/2018-10-21-project-loved-week-of-october-21st/taiko/nightfall.jpg)](https://osu.ppy.sh/community/forums/topics/819702)
 
-[ENNNN - Nightfall](https://osu.ppy.sh/beatmapsets/313849#taiko) by ::Ryui::{ user=1938873 } and [R i n g o](https://osu.ppy.sh/users/2036767)\
+[ENNNN - Nightfall](https://osu.ppy.sh/beatmapsets/313849#taiko) by ::Ryui::{ user=1938873 } and ::R i n g o::{ user=2036767 }\
 *written by ::-Kazu-::{ user=920861 }*
 
 Returning from the cycle during the second week of february, Nightfall, a beatmap done by Ryui in collaboration with R i n g o, features a simple yet effective style that founds its place in some tournaments in the past. Have a look at the comment Backfire did for this map back in the day!
@@ -130,7 +130,7 @@ As our last pick comes directly from speed hell, Architecture mapped by 1RoHa\_ 
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Zak::{ user=1375955 }, [Ascendance](https://osu.ppy.sh/users/2931883), ::Sartan::{ user=4100941 } and [Tenshichan](https://osu.ppy.sh/users/1101600)! This week, all osu!catch beatmap descriptions were written by ::Sartan::{ user=4100941 }.
+osu!catch Loved candidates were chosen by ::Zak::{ user=1375955 }, ::Ascendance::{ user=2931883 }, ::Sartan::{ user=4100941 } and ::Tenshichan::{ user=1101600 }! This week, all osu!catch beatmap descriptions were written by ::Sartan::{ user=4100941 }.
 
 ---
 
@@ -152,7 +152,7 @@ Whereas the previous Skill Analyzer of his was mostly aimed towards the top end 
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::Kamikaze::{ user=2124783 }, [\_underjoy](https://osu.ppy.sh/users/2235750), ::aitor98::{ user=3154852 }, [Pope Gadget](https://osu.ppy.sh/users/2288341), ::stupud man::{ user=2141612 } and [TheToaphster](https://osu.ppy.sh/users/7616811)!
+osu!mania Loved candidates were chosen by ::Kamikaze::{ user=2124783 }, ::\_underjoy::{ user=2235750 }, ::aitor98::{ user=3154852 }, ::Pope Gadget::{ user=2288341 }, ::stupud man::{ user=2141612 } and ::TheToaphster::{ user=7616811 }!
 
 ---
 
@@ -172,7 +172,7 @@ Next up, we have another brutally difficult long note map coming from the one an
 
 [![](/wiki/shared/news/2018-10-21-project-loved-week-of-october-21st/mania/black-out-the-alternative.jpg)](https://osu.ppy.sh/community/forums/topics/819711)
 
-[KotoriP - Black Out The Alternative](https://osu.ppy.sh/beatmapsets/327178#mania) by ::Pope Gadget::{ user=2288341 } and [eyes](https://osu.ppy.sh/users/7741797)\
+[KotoriP - Black Out The Alternative](https://osu.ppy.sh/beatmapsets/327178#mania) by ::Pope Gadget::{ user=2288341 } and ::eyes::{ user=7741797 }\
 *written by ::\_underjoy::{ user=2235750 }*
 
 Next up is one of Pope Gadget's classics, Black Out The Alternative by KotoriP! Being around for over three years, this map has undergone many changes which ended up in leaving only a single difficulty.
@@ -195,7 +195,7 @@ It's been quite some time since Cuppp has had a chart nominated for Project Love
 
 [![](/wiki/shared/news/2018-10-21-project-loved-week-of-october-21st/mania/routine.jpg)](https://osu.ppy.sh/community/forums/topics/819714)
 
-[Silent Siren - Routine](https://osu.ppy.sh/beatmapsets/433950#mania) by ::Kim\_GodSSI::{ user=2218047 } and [Reba](https://osu.ppy.sh/users/3087654)\
+[Silent Siren - Routine](https://osu.ppy.sh/beatmapsets/433950#mania) by ::Kim\_GodSSI::{ user=2218047 } and ::Reba::{ user=3087654 }\
 *written by ::\_underjoy::{ user=2235750 }*
 
 Kim\_GodSSI's LN charting style can usually be recognized at the first glance. This is the case with Routine by Silent Siren, which also has a 4K Guest Difficulty made by Reba.
@@ -207,13 +207,13 @@ There are two 7K difficulties. Both of these require high amounts of finger inde
 [BABYMETAL - Road of Resistance](https://osu.ppy.sh/beatmapsets/355176#mania) by ::Akary::{ user=3912608 } et al.\
 *written by ::aitor98::{ user=3154852 }*
 
-The next chart on the list is goes by the name of Road of Resistance by Akary (and company). This collab features six different mappers, which are ::Julie::{ user=2420987 }, [DarkSider2442](https://osu.ppy.sh/users/1130069), [dosyeru](https://osu.ppy.sh/beatmapsets/518090), ::Kivicat::{ user=2790640 }, [[Shi-Ra]](https://osu.ppy.sh/users/2008489) and Akary themselves. Coming up at 205 BPM, it starts with a kind of calm long note section, that keeps building up until it reaches the 1-minute mark, where everything starts to go wild. Fast chordstreams, followed by staircases and some irregular patterning does make it hard to play and read. It might get slower after the end of the first section, which lasts for 30 seconds approximately, but do not be fooled by this. The more you advance throughout the map, the more complex the patterns will be. Mixing different snaps, a few minijacks every here and there and some nasty bursts will show up during these five minutes.
+The next chart on the list is goes by the name of Road of Resistance by Akary (and company). This collab features six different mappers, which are ::Julie::{ user=2420987 }, ::DarkSider2442::{ user=1130069 }, [dosyeru](https://osu.ppy.sh/beatmapsets/518090), ::Kivicat::{ user=2790640 }, ::\1Shi-Ra\1::{ user=2008489 } and Akary themselves. Coming up at 205 BPM, it starts with a kind of calm long note section, that keeps building up until it reaches the 1-minute mark, where everything starts to go wild. Fast chordstreams, followed by staircases and some irregular patterning does make it hard to play and read. It might get slower after the end of the first section, which lasts for 30 seconds approximately, but do not be fooled by this. The more you advance throughout the map, the more complex the patterns will be. Mixing different snaps, a few minijacks every here and there and some nasty bursts will show up during these five minutes.
 
 This chart does have a good balance between long and normal notes, which does not make it extremely hard for those players who do not feel too comfortable with long notes. Definitely something worth enough for loved.
 
 [![](/wiki/shared/news/2018-10-21-project-loved-week-of-october-21st/mania/halloween-party.jpg)](https://osu.ppy.sh/community/forums/topics/819716)
 
-[SHK - Halloween Party](https://osu.ppy.sh/beatmapsets/242159#mania) by ::DarkSider2442::{ user=1130069 }, [Kivicat](https://osu.ppy.sh/users/2790640) and ::arviejhay::{ user=145871 }\
+[SHK - Halloween Party](https://osu.ppy.sh/beatmapsets/242159#mania) by ::DarkSider2442::{ user=1130069 }, ::Kivicat::{ user=2790640 } and ::arviejhay::{ user=145871 }\
 *written by ::Kamikaze::{ user=2124783 }*
 
 It's Spooktober time as we all know, and what better way to get into the festive spirit than a funky chart of SHK's Halloween Party!

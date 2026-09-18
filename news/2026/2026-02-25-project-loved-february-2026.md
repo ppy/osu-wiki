@@ -37,7 +37,7 @@ Now, here are this month's picks:
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::BATBALL::{ user=15173952 }, [Bernkastel](https://osu.ppy.sh/users/5154946), ::Chaoslitz::{ user=3621552 }, [chiv](https://osu.ppy.sh/users/6701656), ::momoyo::{ user=12469536 }, [Petal](https://osu.ppy.sh/users/7354729), ::plambob::{ user=10077431 }, [Riot](https://osu.ppy.sh/users/4256461), ::Skill::{ user=7802027 }, and [Wispy](https://osu.ppy.sh/users/11106929)!
+The osu! Loved candidates were chosen by ::BATBALL::{ user=15173952 }, ::Bernkastel::{ user=5154946 }, ::Chaoslitz::{ user=3621552 }, ::chiv::{ user=6701656 }, ::momoyo::{ user=12469536 }, ::Petal::{ user=7354729 }, ::plambob::{ user=10077431 }, ::Riot::{ user=4256461 }, ::Skill::{ user=7802027 }, and ::Wispy::{ user=11106929 }!
 
 **[Click here to download all of this round's osu! picks!](https://packs.ppy.sh/LR80%20-%20Project%20Loved:%20February%202026%20(osu!).zip)**
 
@@ -65,11 +65,11 @@ Make sure to cast your YES votes on this month's loved poll for this map, and al
 
 [![](/wiki/shared/news/2026-02-25-project-loved-february-2026/1827351.jpg)](https://osu.ppy.sh/community/forums/topics/2182962)
 
-[LOONA - Hi High (Sewerslvt Remix)](https://osu.ppy.sh/beatmapsets/1827351#osu) by ::kevjn::{ user=5735327 }, [an3](https://osu.ppy.sh/users/11954090), and ::velamy::{ user=15538779 }\
+[LOONA - Hi High (Sewerslvt Remix)](https://osu.ppy.sh/beatmapsets/1827351#osu) by ::kevjn::{ user=5735327 }, ::an3::{ user=11954090 }, and ::velamy::{ user=15538779 }\
 194 BPM, 3:28 | 2.71★, 4.18★, 6.11★, 6.68★\
 *description written by ::Bernkastel::{ user=5154946 }*
 
-It's February already and we've got yet another month of bangers nominated for Loved, this time bringing you [LOONA - Hi High (Sewerslvt Remix)](https://osu.ppy.sh/beatmapsets/1827351#osu/3750192) mapped by ::kevjn::{ user=5735327 }, [an3](https://osu.ppy.sh/users/11954090) and ::velamy::{ user=15538779 }!
+It's February already and we've got yet another month of bangers nominated for Loved, this time bringing you [LOONA - Hi High (Sewerslvt Remix)](https://osu.ppy.sh/beatmapsets/1827351#osu/3750192) mapped by ::kevjn::{ user=5735327 }, ::an3::{ user=11954090 } and ::velamy::{ user=15538779 }!
 
 Taking this absolute icon of a K-pop song by LOONA, backed up with [Sewerslvt](https://osu.ppy.sh/beatmaps/artists/169)'s complex and gloomy sound, results in an ethereal-sounding track that makes you feel like you're soaring through outer space. The mapset represents that very well.
 
@@ -93,7 +93,7 @@ Words can't describe how underappreciated this map is, so make sure to give it a
 
 [![](/wiki/shared/news/2026-02-25-project-loved-february-2026/2283475.jpg)](https://osu.ppy.sh/community/forums/topics/2182964)
 
-[Dj Grimoire - Astral Quantization](https://osu.ppy.sh/beatmapsets/2283475#osu) by ::AkiraCompleX::{ user=14237716 }, [Alxeee](https://osu.ppy.sh/users/15176954), ::FoxyVexa::{ user=37947361 }, [Gabberbam](https://osu.ppy.sh/users/27762439), ::MyaFky::{ user=10040818 }, [Nattu](https://osu.ppy.sh/users/1886722), ::OKSY::{ user=19484011 }, [perevod](https://osu.ppy.sh/users/19821599), and ::Shinjuko::{ user=10558466 }\
+[Dj Grimoire - Astral Quantization](https://osu.ppy.sh/beatmapsets/2283475#osu) by ::AkiraCompleX::{ user=14237716 }, ::Alxeee::{ user=15176954 }, ::FoxyVexa::{ user=37947361 }, ::Gabberbam::{ user=27762439 }, ::MyaFky::{ user=10040818 }, ::Nattu::{ user=1886722 }, ::OKSY::{ user=19484011 }, ::perevod::{ user=19821599 }, and ::Shinjuko::{ user=10558466 }\
 185 BPM, 2:31 | 2.53★ – 8.18★\
 *description written by ::chiv::{ user=6701656 }*
 
@@ -170,11 +170,11 @@ Excited to see how the best players in the game perform on this map? Help get th
 
 [![](/wiki/shared/news/2026-02-25-project-loved-february-2026/2278186.jpg)](https://osu.ppy.sh/community/forums/topics/2182969)
 
-[IMANU & KUCKA - It's Our Destiny (Cuepric Remix)](https://osu.ppy.sh/beatmapsets/2278186#osu) by ::Ishtiaq::{ user=6405262 } and [Azrulk](https://osu.ppy.sh/users/12046612)\
+[IMANU & KUCKA - It's Our Destiny (Cuepric Remix)](https://osu.ppy.sh/beatmapsets/2278186#osu) by ::Ishtiaq::{ user=6405262 } and ::Azrulk::{ user=12046612 }\
 168.56 BPM, 3:02 | 6.31★\
 *description written by ::Riot::{ user=4256461 }*
 
-Coming directly from the [OWC 2024](/wiki/Tournaments/OWC/2024) Quarterfinals, ::Azrulk::{ user=12046612 } and [Ishtiaq](https://osu.ppy.sh/users/6405262)'s rendition of [IMANU & KUCKA - It's Our Destiny (Cuepric Remix)](https://osu.ppy.sh/beatmapsets/2278186#osu/4855557) is a map crafted to push your slider-following skills to their absolute limits.
+Coming directly from the [OWC 2024](/wiki/Tournaments/OWC/2024) Quarterfinals, ::Azrulk::{ user=12046612 } and ::Ishtiaq::{ user=6405262 }'s rendition of [IMANU & KUCKA - It's Our Destiny (Cuepric Remix)](https://osu.ppy.sh/beatmapsets/2278186#osu/4855557) is a map crafted to push your slider-following skills to their absolute limits.
 
 Accompanied by an insanely smooth and atmospheric DnB track, this NM4 delivers a stunning visual spectacle through complex slider shapes, flowing movement, and some rhythmic control. Every section is carefully designed to be a test of tech skill, even for the very best players.
 
@@ -210,7 +210,7 @@ If you want to give Indian music more leaderboard representation (there has basi
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::\_gt::{ user=8301957 }, [chmekoe](https://osu.ppy.sh/users/7807444), ::Horiiizon::{ user=8071438 }, [K a y o k o](https://osu.ppy.sh/users/17664300), and ::nevqr::{ user=14269506 }!
+The osu!taiko Loved candidates were chosen by ::\_gt::{ user=8301957 }, ::chmekoe::{ user=7807444 }, ::Horiiizon::{ user=8071438 }, ::K a y o k o::{ user=17664300 }, and ::nevqr::{ user=14269506 }!
 
 **[Click here to download all of this round's osu!taiko picks!](https://packs.ppy.sh/LR79%20-%20Project%20Loved:%20February%202026%20(osu!taiko).zip)**
 
@@ -224,12 +224,12 @@ The osu!taiko Loved candidates were chosen by ::\_gt::{ user=8301957 }, [chmekoe
 
 [![](/wiki/shared/news/2026-02-25-project-loved-february-2026/1778845.jpg)](https://osu.ppy.sh/community/forums/topics/2182955)
 
-[BOOGEY VOXX - D.I.Y. (Lux-PSMT Remix)](https://osu.ppy.sh/beatmapsets/1778845#taiko) by ::hoku::{ user=9503098 } and [ler1211](https://osu.ppy.sh/users/19901680)\
+[BOOGEY VOXX - D.I.Y. (Lux-PSMT Remix)](https://osu.ppy.sh/beatmapsets/1778845#taiko) by ::hoku::{ user=9503098 } and ::ler1211::{ user=19901680 }\
 170 BPM, 3:34 | 5.83★\
 The \[Break hoku down ^-^ (TTF edit)\] difficulty is *not* being nominated for Loved.\
 *description written by ::K a y o k o::{ user=17664300 }*
 
-[BOOGEY VOXX - D.I.Y (Lux-PSMT Remix)](https://osu.ppy.sh/beatmapsets/1778845#taiko/3643139) mapped by ::hoku::{ user=9503098 } and [ler1211](https://osu.ppy.sh/users/19901680) is not only one of the most iconic maps in the Japanese community, but its recognition has extended to the tournament scene, seeing appearances in Taiko Team Festival's mappool, capturing the hearts of many players.
+[BOOGEY VOXX - D.I.Y (Lux-PSMT Remix)](https://osu.ppy.sh/beatmapsets/1778845#taiko/3643139) mapped by ::hoku::{ user=9503098 } and ::ler1211::{ user=19901680 } is not only one of the most iconic maps in the Japanese community, but its recognition has extended to the tournament scene, seeing appearances in Taiko Team Festival's mappool, capturing the hearts of many players.
 
 The catchy ad-libs accompanying bass that hits super hard make this song unforgettable, not to mention the map itself being very anti-mod for both Hidden and Hard Rock. Players during the tournament praised this map for being a very well suited pick for tourney play as well. hoku and ler surely are crowd-pleasers!
 
@@ -282,7 +282,7 @@ Don't forget to vote ***"YES"*** if you want to spawn in the backrooms with Mega
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::5ean::{ user=7620002 }, [Des9](https://osu.ppy.sh/users/5404711), ::LaviSorrow::{ user=9966768 }, and [Realmaas](https://osu.ppy.sh/users/6567640)!
+The osu!catch Loved candidates were chosen by ::5ean::{ user=7620002 }, ::Des9::{ user=5404711 }, ::LaviSorrow::{ user=9966768 }, and ::Realmaas::{ user=6567640 }!
 
 **[Click here to download all of this round's osu!catch picks!](https://packs.ppy.sh/LR78%20-%20Project%20Loved:%20February%202026%20(osu!catch).zip)**
 
@@ -346,7 +346,7 @@ For the [Wicked Ceremony](https://osu.ppy.sh/beatmapsets/1794175#fruits/3677152)
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::Carpihat::{ user=10085090 }, [elexire](https://osu.ppy.sh/users/9206093), ::LivelyPeninsula::{ user=11517895 }, [Maxus](https://osu.ppy.sh/users/4335785), ::Paturages::{ user=1375479 }, [SunApple](https://osu.ppy.sh/users/11817622), ::taba2::{ user=7850508 }, and [Yuiesta](https://osu.ppy.sh/users/13953619)!
+The osu!mania Loved candidates were chosen by ::Carpihat::{ user=10085090 }, ::elexire::{ user=9206093 }, ::LivelyPeninsula::{ user=11517895 }, ::Maxus::{ user=4335785 }, ::Paturages::{ user=1375479 }, ::SunApple::{ user=11817622 }, ::taba2::{ user=7850508 }, and ::Yuiesta::{ user=13953619 }!
 
 **[Click here to download all of this round's osu!mania picks!](https://packs.ppy.sh/LR77%20-%20Project%20Loved:%20February%202026%20(osu!mania).zip)**
 
@@ -432,11 +432,11 @@ Fans of all types of vocal dumps are sure to enjoy this regardless of their pref
 
 [![](/wiki/shared/news/2026-02-25-project-loved-february-2026/2238606.jpg)](https://osu.ppy.sh/community/forums/topics/2182945)
 
-[KANKAN - Boost Anima](https://osu.ppy.sh/beatmapsets/2238606#mania) by ::fvrex::{ user=11863699 } and [Hytex](https://osu.ppy.sh/users/8536263)\
+[KANKAN - Boost Anima](https://osu.ppy.sh/beatmapsets/2238606#mania) by ::fvrex::{ user=11863699 } and ::Hytex::{ user=8536263 }\
 208 BPM, 2:37 | 4.84★\
 *description written by ::elexire::{ user=9206093 }*
 
-One year ago, [FUTURE EVE (Game Ver.)](https://osu.ppy.sh/beatmapsets/2048074#mania/4276106) by ::fvrex::{ user=11863699 } and [Hytex](https://osu.ppy.sh/users/8536263) went up for Loved. This year, it's happening again! Except... different song. And host. ANYWAYS! [KANKAN - Boost Anima](https://osu.ppy.sh/beatmapsets/2238606#mania/4756867) is getting the spotlight this month!
+One year ago, [FUTURE EVE (Game Ver.)](https://osu.ppy.sh/beatmapsets/2048074#mania/4276106) by ::fvrex::{ user=11863699 } and ::Hytex::{ user=8536263 } went up for Loved. This year, it's happening again! Except... different song. And host. ANYWAYS! [KANKAN - Boost Anima](https://osu.ppy.sh/beatmapsets/2238606#mania/4756867) is getting the spotlight this month!
 
 Featured in [MWC 4K 2024](/wiki/Tournaments/MWC/2024_4K), it took up the coordination slot for the Round of 16 mappool. Funnily enough, and hence the emphasis in my first paragraph, it took up the same slot as *FUTURE EVE*, even including the same mappers! Aside from the noticeable song difference, this was rather notable for what it contained, as it had more of a "timing hell" style that we're all too familiar with when it comes to LN coordination. This was especially notable, since that specific approach to coordination wasn't something you'd see very often within easier rounds, as it was typically something you'd only come across in Finals and Grand Finals.
 
@@ -444,7 +444,7 @@ If you've struggled on higher-star LN maps in the past but wish to improve, this
 
 [![](/wiki/shared/news/2026-02-25-project-loved-february-2026/1939331.jpg)](https://osu.ppy.sh/community/forums/topics/2182946)
 
-[Normal1zer vs. Broken Nerdz - Cybernetic Mastermind No.7](https://osu.ppy.sh/beatmapsets/1939331#mania) by ::\_Stan::{ user=1653229 }, [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ::\[Crz\]xz1z1z::{ user=10500832 }, [ExNeko](https://osu.ppy.sh/users/7590894), ::Mochineko::{ user=3793196 }, and [tyrcs](https://osu.ppy.sh/users/13026904)\
+[Normal1zer vs. Broken Nerdz - Cybernetic Mastermind No.7](https://osu.ppy.sh/beatmapsets/1939331#mania) by ::\_Stan::{ user=1653229 }, ::\[Crz\]Satori::{ user=7082178 }, ::\[Crz\]xz1z1z::{ user=10500832 }, ::ExNeko::{ user=7590894 }, ::Mochineko::{ user=3793196 }, and ::tyrcs::{ user=13026904 }\
 235 BPM, 5:06 | 12.33★\
 *description written by ::taba2::{ user=7850508 }*
 

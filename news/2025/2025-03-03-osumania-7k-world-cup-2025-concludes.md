@@ -57,9 +57,9 @@ But what about the new track that was teased a couple paragraphs ago? Fret not, 
 
 This week's big surprise was actually twofold! Not only did we get to witness an amazing **9 minutes** long track and tiebreaker beatmap to go along with it, but also we got the announcement that its artist, [Ludicin](https://osu.ppy.sh/beatmaps/artists/459), will be joining osu!'s [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists)!
 
-[Lost Requiem](https://osu.ppy.sh/beatmapsets/2325151#mania/4983858) can be briefly described as this tournament's magnum opus. Mapped by ::\1Kobii::{ user=6209713 }, [_underjoy](https://osu.ppy.sh/users/2235750), ::Critical\1Star::{ user=3793196 }, [Blocko](https://osu.ppy.sh/users/4075092), ::ruka::{ user=6117525 }, [ExNeko](https://osu.ppy.sh/users/7590894), ::U1d::{ user=10125072 }, and even [Ludicin](https://osu.ppy.sh/users/8659666) themselves, this relentless marathon is a direct result of all creative minds in the team being put into use! This was not only an affair between the artist and the mappers, but one where multiple teams collaborated to complete one of osu!'s most ambitious projects to date.
+[Lost Requiem](https://osu.ppy.sh/beatmapsets/2325151#mania/4983858) can be briefly described as this tournament's magnum opus. Mapped by ::\1Kobii::{ user=6209713 }, ::\1underjoy::{ user=2235750 }, ::Critical\1Star::{ user=3793196 }, ::Blocko::{ user=4075092 }, ::ruka::{ user=6117525 }, ::ExNeko::{ user=7590894 }, ::U1d::{ user=10125072 }, and even ::Ludicin::{ user=8659666 } themselves, this relentless marathon is a direct result of all creative minds in the team being put into use! This was not only an affair between the artist and the mappers, but one where multiple teams collaborated to complete one of osu!'s most ambitious projects to date.
 
-The graphics team worked overtime with this one. Not only was the map accompanied by a groundbreaking storyboard by the hands of ::RiceSS::{ user=8271436 } and [binarie](https://osu.ppy.sh/users/15632854), but also a showcase video worthy of admiration produced by ::CrewK::{ user=11488604 } and [TheFunk](https://osu.ppy.sh/users/13981991) with the trusty help of ::Sakura006::{ user=10365024 }. If that wasn't enough, [KM](https://twitter.com/KM2650223087343) and ::Zeth::{ user=9912966 } with their beautiful illustrations and graphics respectively put the cherry on top of an already impressive cake.
+The graphics team worked overtime with this one. Not only was the map accompanied by a groundbreaking storyboard by the hands of ::RiceSS::{ user=8271436 } and ::binarie::{ user=15632854 }, but also a showcase video worthy of admiration produced by ::CrewK::{ user=11488604 } and ::TheFunk::{ user=13981991 } with the trusty help of ::Sakura006::{ user=10365024 }. If that wasn't enough, [KM](https://twitter.com/KM2650223087343) and ::Zeth::{ user=9912966 } with their beautiful illustrations and graphics respectively put the cherry on top of an already impressive cake.
 
 Suffice to say, the team is very proud of the work. Seeing the community's breathtaking reaction put everyone at ease. We can confidently say their efforts did not go to waste, and this map alone is a testament to the team's dedication for the tournament!
 
@@ -75,7 +75,7 @@ All good things must come to an end. And this World Cup is no exception. That sa
 
 Suffice to say, there's a lot to go over despite the reduced number of matches. We also got a set of [interviews](#interviews) prepared to gain some insight from the creative team involved in this week's osu! original showcase plus an interview with South Korea as this year's winners. Don't miss out on these!
 
-And how could we forget the amazing video recap by the hands of ::SurfChu85::{ user=4469895 }, [yukina meng](https://osu.ppy.sh/users/9919550), and ::Nerfox::{ user=7976724 } who have been working overtime throughout the last couple of months to churn out these amazing, easily digestible recaps.
+And how could we forget the amazing video recap by the hands of ::SurfChu85::{ user=4469895 }, ::yukina meng::{ user=9919550 }, and ::Nerfox::{ user=7976724 } who have been working overtime throughout the last couple of months to churn out these amazing, easily digestible recaps.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/971jZsacy4M" frameborder="0" allowfullscreen></iframe>
@@ -363,7 +363,7 @@ This was definitely a fun experience! I would definitely like to be a part of mo
 
 ![](/wiki/shared/news/2025-03-03-osumania-7k-world-cup-2025-concludes/TheFunk-and-CrewK.png)
 
-To many people's surprise, this year's design team had two well-known osu!mania users on board! While some users may already know about ::TheFunk::{ user=13981991 } and [CrewK](https://osu.ppy.sh/users/11488604)'s side hustles having seen their work throughout the years, fewer people know about their involvement in the World Cup design team. With that said, we'd like to hear about their creative thought process for this tournament.
+To many people's surprise, this year's design team had two well-known osu!mania users on board! While some users may already know about ::TheFunk::{ user=13981991 } and ::CrewK::{ user=11488604 }'s side hustles having seen their work throughout the years, fewer people know about their involvement in the World Cup design team. With that said, we'd like to hear about their creative thought process for this tournament.
 
 ---
 
@@ -409,7 +409,7 @@ Some of the lore concepts included showing the players' or spectators' perspecti
 
 The song's opening was different from previous tiebreakers, taking a more cinematic approach. CrewK and I tried our best to make it look like a movie with the ruined buildings and scenic looks during our process with a lot of references from KM's artwork. With the collaboration of Sakura006, we were also able to implement character animations, making the scenes feel more immersive and realistic.
 
-After seeing the Grand Finals tiebreaker being showcased, I'm very happy with the end product that CrewK, Sakura006, and I created for the video. We also couldn't have achieved this without [KM](https://twitter.com/KM2650223087343)'s fantastic illustrations, ::Zeth::{ user=9912966 }'s graphic design, and ::RiceSS::{ user=8271436 } and [binarie](https://osu.ppy.sh/users/15632854)'s storyboard work which covered the remaining sections of the song!
+After seeing the Grand Finals tiebreaker being showcased, I'm very happy with the end product that CrewK, Sakura006, and I created for the video. We also couldn't have achieved this without [KM](https://twitter.com/KM2650223087343)'s fantastic illustrations, ::Zeth::{ user=9912966 }'s graphic design, and ::RiceSS::{ user=8271436 } and ::binarie::{ user=15632854 }'s storyboard work which covered the remaining sections of the song!
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11488604" style="background-image: url('/wiki/shared/avatars/CrewK.jpg')"></a>
 

@@ -21,7 +21,7 @@ As always, we would like to thank everyone for your participation in the Decembe
 Before we proceed, here's some updates straight from Project Loved HQ:
 
 - We'd like to give a warm welcome back to ::Kasumi-sama::{ user=6177263 }! They have decided to wear the osu!catch captain's hat again in order to bring you the (not so) freshest beatmaps to your favourite section!
-- Unfortunately, all good things must come to an end, as we have to bid farewell to ::UberFazz::{ user=8646059 } and [Roxy-](https://osu.ppy.sh/users/11931563) from the team, they have decided to move on. We'd like to thank them for their dedication as osu! and osu!taiko captains respectively o7.
+- Unfortunately, all good things must come to an end, as we have to bid farewell to ::UberFazz::{ user=8646059 } and ::Roxy-::{ user=11931563 } from the team, they have decided to move on. We'd like to thank them for their dedication as osu! and osu!taiko captains respectively o7.
 
 That should be all in terms of updates for this month. Don't forget if you're interested in participating in Project Loved discussions of a certain game mode, or have any questions, that you can reach out in one of the Project Loved Discord servers listed below:
 
@@ -42,7 +42,7 @@ That should be all in terms of updates for this month. Don't forget if you're in
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::DeviousPanda::{ user=4966334 }, [Mismagius](https://osu.ppy.sh/users/19048), ::rHO::{ user=1629553 }, [Skill](https://osu.ppy.sh/users/7802027) and ::Wixonater::{ user=10083084 }!
+The osu! Loved candidates were chosen by ::DeviousPanda::{ user=4966334 }, ::Mismagius::{ user=19048 }, ::rHO::{ user=1629553 }, ::Skill::{ user=7802027 } and ::Wixonater::{ user=10083084 }!
 
 ---
 
@@ -100,13 +100,13 @@ If you like stamina tests then be sure to give this a try, and cast your vote on
 
 [![](/wiki/shared/news/2023-01-30-project-loved-january-2023/671722.jpg)](https://osu.ppy.sh/community/forums/topics/1714790)
 
-[batta - chase (TV Size)](https://osu.ppy.sh/beatmapsets/671722#osu) by ::Shiguma::{ user=4404784 }, [Cheri](https://osu.ppy.sh/users/5226970), ::frogyfro::{ user=7010859 } and [yaspo](https://osu.ppy.sh/users/4945926)\
+[batta - chase (TV Size)](https://osu.ppy.sh/beatmapsets/671722#osu) by ::Shiguma::{ user=4404784 }, ::Cheri::{ user=5226970 }, ::frogyfro::{ user=7010859 } and ::yaspo::{ user=4945926 }\
 225 BPM, 1:08 | 2.42★ – 7.16★\
 *description written by ::Mismagius::{ user=19048 }*
 
 For the month of January, both of my picks will involve beatmaps that have been at the top of the Loved website for years, but were never chosen due to some resistance on whether we should or not pick "mapsets that could go for Ranked". As we want to make Loved closer to the community as we go along (and you'll see some news about that rather soon), these maps stood out to me as long-awaited by people to be given a chance in the Loved voting. With that being said...
 
-*chase (TV Size)*, mapped by ::Shiguma::{ user=4404784 } in September 2017, might make you think at first that this is just popular because of *JoJo's Bizarre Adventure*. However, as soon as you start playing the map, you're welcomed by a very distinctive style, full of fullscreen jumps that don't feel overdone, and a structure that feels reminiscent of ::Milan-::{ user=1052994 }'s high-star beatmaps of the time. Thoroughly enjoyable over its seven difficulties, it can be appreciated by players of all skill levels, especially considering there are lower difficulties mapped by quality mappers such as ::yaspo::{ user=4945926 }, [Cheri](https://osu.ppy.sh/users/5226970) and ::frogyfro::{ user=7010859 }. Give it a try and tell us with your vote whether you want this map to have a leaderboard!
+*chase (TV Size)*, mapped by ::Shiguma::{ user=4404784 } in September 2017, might make you think at first that this is just popular because of *JoJo's Bizarre Adventure*. However, as soon as you start playing the map, you're welcomed by a very distinctive style, full of fullscreen jumps that don't feel overdone, and a structure that feels reminiscent of ::Milan-::{ user=1052994 }'s high-star beatmaps of the time. Thoroughly enjoyable over its seven difficulties, it can be appreciated by players of all skill levels, especially considering there are lower difficulties mapped by quality mappers such as ::yaspo::{ user=4945926 }, ::Cheri::{ user=5226970 } and ::frogyfro::{ user=7010859 }. Give it a try and tell us with your vote whether you want this map to have a leaderboard!
 
 [![](/wiki/shared/news/2023-01-30-project-loved-january-2023/932530.jpg)](https://osu.ppy.sh/community/forums/topics/1714789)
 
@@ -120,7 +120,7 @@ For this second pick of mine, I chose a map that honestly blew my mind when I sa
 
 [![](/wiki/shared/news/2023-01-30-project-loved-january-2023/1029346.jpg)](https://osu.ppy.sh/community/forums/topics/1714788)
 
-[Sally - ennb](https://osu.ppy.sh/beatmapsets/1029346#osu) by ::Natteke desu::{ user=1848318 }, [Agatsu](https://osu.ppy.sh/users/5579871), ::Akito::{ user=5716327 }, [amity](https://osu.ppy.sh/users/10676118), ::coco::{ user=9579526 }, [Deca](https://osu.ppy.sh/users/9088487), ::Fixxis::{ user=4673089 }, [Gillstar](https://osu.ppy.sh/users/7948210), ::Haruto::{ user=3772301 }, [iljaaz](https://osu.ppy.sh/users/8501291), ::Kalibe::{ user=3376777 }, [Senseabel](https://osu.ppy.sh/users/6184386) and ::tomadoi::{ user=5712451 }\
+[Sally - ennb](https://osu.ppy.sh/beatmapsets/1029346#osu) by ::Natteke desu::{ user=1848318 }, ::Agatsu::{ user=5579871 }, ::Akito::{ user=5716327 }, ::amity::{ user=10676118 }, ::coco::{ user=9579526 }, ::Deca::{ user=9088487 }, ::Fixxis::{ user=4673089 }, ::Gillstar::{ user=7948210 }, ::Haruto::{ user=3772301 }, ::iljaaz::{ user=8501291 }, ::Kalibe::{ user=3376777 }, ::Senseabel::{ user=6184386 } and ::tomadoi::{ user=5712451 }\
 246 BPM, 4:36 | 6.84★, 6.98★\
 *description written by ::Wixonater::{ user=10083084 }*
 
@@ -152,17 +152,17 @@ I feel like this mapset is kind of a hidden gem for newer players, hence the big
 
 [![](/wiki/shared/news/2023-01-30-project-loved-january-2023/1331748.jpg)](https://osu.ppy.sh/community/forums/topics/1714785)
 
-[Marmalade butcher - Floccinaucinihilipilification](https://osu.ppy.sh/beatmapsets/1331748#osu) by ::melloe::{ user=2367616 } and [Marr](https://osu.ppy.sh/users/6751036)\
+[Marmalade butcher - Floccinaucinihilipilification](https://osu.ppy.sh/beatmapsets/1331748#osu) by ::melloe::{ user=2367616 } and ::Marr::{ user=6751036 }\
 200 BPM, 3:35 | 8.37★\
 *description written by ::rHO::{ user=1629553 }*
 
-If anyone can represent and show you what it feels like to be a rockstar using just circles, sliders, and the osu! playfield alone, I'd bet on ::melloe::{ user=2367616 } and [Marr](https://osu.ppy.sh/users/6751036), specifically their collaboration on [Floccinaucinihilipilification](https://osu.ppy.sh/beatmapsets/1331748#osu/2759110).
+If anyone can represent and show you what it feels like to be a rockstar using just circles, sliders, and the osu! playfield alone, I'd bet on ::melloe::{ user=2367616 } and ::Marr::{ user=6751036 }, specifically their collaboration on [Floccinaucinihilipilification](https://osu.ppy.sh/beatmapsets/1331748#osu/2759110).
 
 Yup, it's another "yummy guitar riffs" map nomination from me. If you liked [Smile of the End](https://osu.ppy.sh/beatmapsets/775541), the map I nominated last November, you will absolutely like this one too! Sitting humbly at 8 stars (yes, don't take the 8-star marker lightly, folks!) — filled with unforgiving stacked streams and even more, melloe and Marr absolutely went nuts in this map. It's aggressive, daring, and beautiful in the most chaotic and best way possible. I don't think enough words can tell what's really the deal with this map, so I suggest that you check it out on your own and rock out to it.
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::Boaz::{ user=13302996 }, [Eriha](https://osu.ppy.sh/users/16320311), ::POCARI SWEAT::{ user=5082685 } and [Roxy-](https://osu.ppy.sh/users/11931563)!
+The osu!taiko Loved candidates were chosen by ::Boaz::{ user=13302996 }, ::Eriha::{ user=16320311 }, ::POCARI SWEAT::{ user=5082685 } and ::Roxy-::{ user=11931563 }!
 
 ---
 
@@ -196,7 +196,7 @@ Being a breakcore song, the notes are very well matched and it is a fun map to p
 
 [![](/wiki/shared/news/2023-01-30-project-loved-january-2023/597000.jpg)](https://osu.ppy.sh/community/forums/topics/1714617)
 
-[gekidan hitotose - a e i u e o ao!!](https://osu.ppy.sh/beatmapsets/597000#taiko) by ::yyyyyyyyyyypetu::{ user=468029 }, [\_Rise](https://osu.ppy.sh/users/5217107), ::\_yu68::{ user=6170507 }, [BabySnakes](https://osu.ppy.sh/users/4669728), ::ercs::{ user=4521357 }, [Felt7z](https://osu.ppy.sh/users/8089834), ::GlinT fraulein::{ user=7364981 }, [komasy](https://osu.ppy.sh/users/1980256), ::KTYN::{ user=2250574 }, [maziari1105](https://osu.ppy.sh/users/4469725), ::mysterfish::{ user=8824190 }, [namaniku](https://osu.ppy.sh/users/2680544), ::nananass::{ user=7231722 }, [Nekoharu](https://osu.ppy.sh/users/6582864), ::uone::{ user=5321719 }, [World Fraction](https://osu.ppy.sh/users/4899760) and ::Yoroiari::{ user=6056862 }\
+[gekidan hitotose - a e i u e o ao!!](https://osu.ppy.sh/beatmapsets/597000#taiko) by ::yyyyyyyyyyypetu::{ user=468029 }, ::\_Rise::{ user=5217107 }, ::\_yu68::{ user=6170507 }, ::BabySnakes::{ user=4669728 }, ::ercs::{ user=4521357 }, ::Felt7z::{ user=8089834 }, ::GlinT fraulein::{ user=7364981 }, ::komasy::{ user=1980256 }, ::KTYN::{ user=2250574 }, ::maziari1105::{ user=4469725 }, ::mysterfish::{ user=8824190 }, ::namaniku::{ user=2680544 }, ::nananass::{ user=7231722 }, ::Nekoharu::{ user=6582864 }, ::uone::{ user=5321719 }, ::World Fraction::{ user=4899760 } and ::Yoroiari::{ user=6056862 }\
 145 – 290 BPM, 1:31 | 4.17★ – 8.76★\
 The \[Kalma note\], \[kose note\], \[Fahren note\] and \[maziari unkoko\] difficulties are *not* being nominated for Loved.\
 *description written by ::POCARI SWEAT::{ user=5082685 }*
@@ -205,7 +205,7 @@ Along with this cute and catchy anime song, 24 diffs are made by various mappers
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::Kasumi-sama::{ user=6177263 }, [Sartan](https://osu.ppy.sh/users/4100941), ::Tenshichan::{ user=1101600 } and [Wesley](https://osu.ppy.sh/users/2407265)!
+The osu!catch Loved candidates were chosen by ::Kasumi-sama::{ user=6177263 }, ::Sartan::{ user=4100941 }, ::Tenshichan::{ user=1101600 } and ::Wesley::{ user=2407265 }!
 
 ---
 
@@ -239,7 +239,7 @@ If you do want to let it slide boss, do take the map for a spin and vote yes, I 
 
 [![](/wiki/shared/news/2023-01-30-project-loved-january-2023/1063708.jpg)](https://osu.ppy.sh/community/forums/topics/1714614)
 
-[Getty vs. DJ DiA - Grayed Out -Antifront-](https://osu.ppy.sh/beatmapsets/1063708#fruits) by ::Nosuri::{ user=2150415 }, [- Kielzu -](https://osu.ppy.sh/users/6221114), ::-Joakh::{ user=7946084 }, [-Rustyy](https://osu.ppy.sh/users/16355636), ::Sakary::{ user=2984583 }, [Secre](https://osu.ppy.sh/users/2306637) and ::Syamu::{ user=9435346 }\
+[Getty vs. DJ DiA - Grayed Out -Antifront-](https://osu.ppy.sh/beatmapsets/1063708#fruits) by ::Nosuri::{ user=2150415 }, ::- Kielzu -::{ user=6221114 }, ::-Joakh::{ user=7946084 }, ::-Rustyy::{ user=16355636 }, ::Sakary::{ user=2984583 }, ::Secre::{ user=2306637 } and ::Syamu::{ user=9435346 }\
 190 BPM, 1:52 | 1.34★ – 6.56★\
 *description written by ::Wesley::{ user=2407265 }*
 
@@ -263,7 +263,7 @@ This is a high-end map catered towards high-skilled players with fine-tuned catc
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::-NoName-::{ user=10400730 }, [\[Crz\]hinako1804](https://osu.ppy.sh/users/13747903), ::kadoen::{ user=12780575 }, [Mipha-](https://osu.ppy.sh/users/5767941), ::Paturages::{ user=1375479 } and [RandomeLoL](https://osu.ppy.sh/users/7080063)!
+The osu!mania Loved candidates were chosen by ::-NoName-::{ user=10400730 }, ::\[Crz\]hinako1804::{ user=13747903 }, ::kadoen::{ user=12780575 }, ::Mipha-::{ user=5767941 }, ::Paturages::{ user=1375479 } and ::RandomeLoL::{ user=7080063 }!
 
 ---
 
@@ -309,7 +309,7 @@ At the beginning of 2023, don't you want more fierce music and jack maps in the 
 
 [![](/wiki/shared/news/2023-01-30-project-loved-january-2023/1595301.jpg)](https://osu.ppy.sh/community/forums/topics/1714609)
 
-[Various Artists - Jumpstream Complexes Vol. 2A](https://osu.ppy.sh/beatmapsets/1595301#mania) by ::\[Crz\]hinako1804::{ user=13747903 }, [-Deepdive-](https://osu.ppy.sh/users/13338645), ::\[Crz\]IsxI::{ user=18042127 }, [Blue_Potion](https://osu.ppy.sh/users/13094831), ::EDTA233::{ user=9942869 }, [FDShijing](https://osu.ppy.sh/users/22386239), ::Glorionoly::{ user=8957029 }, [Hylotl](https://osu.ppy.sh/users/18270260), ::PORTTAYER::{ user=8790200 } and [Rudown](https://osu.ppy.sh/users/7850540)\
+[Various Artists - Jumpstream Complexes Vol. 2A](https://osu.ppy.sh/beatmapsets/1595301#mania) by ::\[Crz\]hinako1804::{ user=13747903 }, ::-Deepdive-::{ user=13338645 }, ::\[Crz\]IsxI::{ user=18042127 }, ::Blue\1Potion::{ user=13094831 }, ::EDTA233::{ user=9942869 }, ::FDShijing::{ user=22386239 }, ::Glorionoly::{ user=8957029 }, ::Hylotl::{ user=18270260 }, ::PORTTAYER::{ user=8790200 } and ::Rudown::{ user=7850540 }\
 139 – 260 BPM, 10:43 | 4.52★ – 6.48★\
 The \[DeleteUponDownload\] difficulty is *not* being nominated for Loved.\
 *description written by ::RandomeLoL::{ user=7080063 }*
@@ -322,7 +322,7 @@ Other than that, we'd like to thank hinako for arranging these packs. The commun
 
 [![](/wiki/shared/news/2023-01-30-project-loved-january-2023/963806.jpg)](https://osu.ppy.sh/community/forums/topics/1714608)
 
-[Tracy feat. Hotaru - Indomitable Spirit \[Hommarju Remix\]](https://osu.ppy.sh/beatmapsets/963806#mania) by ::Auraah::{ user=10015908 } and [\_underjoy](https://osu.ppy.sh/users/2235750)\
+[Tracy feat. Hotaru - Indomitable Spirit \[Hommarju Remix\]](https://osu.ppy.sh/beatmapsets/963806#mania) by ::Auraah::{ user=10015908 } and ::\_underjoy::{ user=2235750 }\
 170 BPM, 3:24 | 5.29★\
 *description written by ::RandomeLoL::{ user=7080063 }*
 

@@ -43,7 +43,7 @@ Before diving into this month's picks, check out the results from last month:
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::Aistre::{ user=4879380 }, [BATBALL](https://osu.ppy.sh/users/15173952), ::chiv::{ user=6701656 }, [Kingling](https://osu.ppy.sh/users/7010761), ::megumic::{ user=7537133 }, [Mismagius](https://osu.ppy.sh/users/19048), and ::Skill::{ user=7802027 }!
+The osu! Loved candidates were chosen by ::Aistre::{ user=4879380 }, ::BATBALL::{ user=15173952 }, ::chiv::{ user=6701656 }, ::Kingling::{ user=7010761 }, ::megumic::{ user=7537133 }, ::Mismagius::{ user=19048 }, and ::Skill::{ user=7802027 }!
 
 **[Click here to download all of this round's osu! picks!](https://packs.ppy.sh/LR16%20-%20Project%20Loved:%20October%202024%20(osu!).zip)**
 
@@ -71,7 +71,7 @@ You should love yourself (and this map), NOW.
 
 [![](/wiki/shared/news/2024-10-22-project-loved-october-2024/1804676.jpg)](https://osu.ppy.sh/community/forums/topics/1993626)
 
-[KANKAN feat. Hiiragi Kirai - All Fool](https://osu.ppy.sh/beatmapsets/1804676#osu) by ::GranDSenpai::{ user=3997580 }, [-NeBu-](https://osu.ppy.sh/users/4099626), ::bad boy::{ user=3545323 }, [quantumvortex](https://osu.ppy.sh/users/10660777), ::tsundereSam::{ user=6357685 }, and [xAsuna](https://osu.ppy.sh/users/7875811)\
+[KANKAN feat. Hiiragi Kirai - All Fool](https://osu.ppy.sh/beatmapsets/1804676#osu) by ::GranDSenpai::{ user=3997580 }, ::-NeBu-::{ user=4099626 }, ::bad boy::{ user=3545323 }, ::quantumvortex::{ user=10660777 }, ::tsundereSam::{ user=6357685 }, and ::xAsuna::{ user=7875811 }\
 195 BPM, 3:15 | 7.68★ – 8.09★\
 *description written by ::chiv::{ user=6701656 }*
 
@@ -80,17 +80,17 @@ We need a map for *Popular Playcounts* this month? AIM? Say less — let's call 
 
 Well, avengers might be a debatable title, but it's finally time to give [All Fool](https://osu.ppy.sh/beatmapsets/1804676#osu/3729845) a shot for the Loved section. You're probably already familiar with this map, but multiple difficulties of practically cross-screen jumps at 195 BPM make this map feel nigh-impossible. Whether you've been an original fan of ::-NeBu-::{ user=4099626 }, a preacher of ::alden::{ user=3545323 }'s [stream maps](https://osu.ppy.sh/beatmapsets/1779388#osu/3644151), a tournament tracker for ::quantumvortex::{ user=10660777 }, or just in love with the rest of the unranked aim cult, there's going to be a mapper here that you'll recognise.
 
-What are you waiting for? You're telling me you don't want to see ::WhiteCat::{ user=4504101 }, [hyeok2044](https://osu.ppy.sh/users/8472976), ::xootynator::{ user=3717598 }, and [EIGER](https://osu.ppy.sh/users/1504556) battle it out on a demonic leaderboard? Yeah... not so funny is it now... just vote YES and let the magic happen.
+What are you waiting for? You're telling me you don't want to see ::WhiteCat::{ user=4504101 }, ::hyeok2044::{ user=8472976 }, ::xootynator::{ user=3717598 }, and ::EIGER::{ user=1504556 } battle it out on a demonic leaderboard? Yeah... not so funny is it now... just vote YES and let the magic happen.
 
 [![](/wiki/shared/news/2024-10-22-project-loved-october-2024/10856.jpg)](https://osu.ppy.sh/community/forums/topics/1993625)
 
-[Beautiful Day - Toccata & Fugue](https://osu.ppy.sh/beatmapsets/10856#osu) by ::DaRRi::{ user=60294 } and [Sallad4ever](https://osu.ppy.sh/users/185422)\
+[Beautiful Day - Toccata & Fugue](https://osu.ppy.sh/beatmapsets/10856#osu) by ::DaRRi::{ user=60294 } and ::Sallad4ever::{ user=185422 }\
 140 BPM, 2:29 | 1.86★, 2.64★, 4.85★, 5.06★, 5.21★\
 *description written by ::Aistre::{ user=4879380 }*
 
 This month's *Outstanding oldies* is a real blast to the past, it's [Beautiful Day - Toccata & Fugue](https://osu.ppy.sh/beatmapsets/10856#osu/47528) hosted by ::DaRRi::{ user=60294 }! You might have come across their signature difficulty name "DaRRi Mix" if you've ever dug into osu!'s history.
 
-Uploaded in November 2009, be sure to expect a grid-heavy style, classic bézier slider shapes and tricky cut streams to test your aim control. If you're finding it too tricky, then why not try the lower difficulties mapped by ::sallad4ever::{ user=185422 } and [ignorethis](https://osu.ppy.sh/users/27343)?
+Uploaded in November 2009, be sure to expect a grid-heavy style, classic bézier slider shapes and tricky cut streams to test your aim control. If you're finding it too tricky, then why not try the lower difficulties mapped by ::sallad4ever::{ user=185422 } and ::ignorethis::{ user=27343 }?
 
 There's a lot of charm in maps this old, and I think *Toccata & Fugue* deserves a home in the Loved section after over 10 years in the Graveyard. Be sure to cast your vote if you think so too!
 
@@ -122,7 +122,7 @@ Lots of interesting candidates out here... You could be the next, if you vote �
 
 [![](/wiki/shared/news/2024-10-22-project-loved-october-2024/930316.jpg)](https://osu.ppy.sh/community/forums/topics/1993622)
 
-[Daddy Yankee - Con Calma feat. Snow](https://osu.ppy.sh/beatmapsets/930316#osu) by ::Tatan::{ user=5646529 }, [-Sh1n1-](https://osu.ppy.sh/users/1957638), ::Cote::{ user=5741153 }, [Gero](https://osu.ppy.sh/users/1467715), ::Hazu-::{ user=4668230 }, [MaestroSplinter](https://osu.ppy.sh/users/6707918), ::pkhg::{ user=343624 }, and [TheShadowOfDark](https://osu.ppy.sh/users/5795337)\
+[Daddy Yankee - Con Calma feat. Snow](https://osu.ppy.sh/beatmapsets/930316#osu) by ::Tatan::{ user=5646529 }, ::-Sh1n1-::{ user=1957638 }, ::Cote::{ user=5741153 }, ::Gero::{ user=1467715 }, ::Hazu-::{ user=4668230 }, ::MaestroSplinter::{ user=6707918 }, ::pkhg::{ user=343624 }, and ::TheShadowOfDark::{ user=5795337 }\
 188 BPM, 3:09 | 1.79★ – 5.98★\
 *description written by ::Skill::{ user=7802027 }*
 
@@ -130,7 +130,7 @@ The *Ranked Reject for this month* is ::Tatan::{ user=5646529 }'s megaset of [Da
 
 osu! needs more reggaeton with leaderboards.
 
-The combo of ::-Sh1n1-::{ user=1957638 }, [Cote](https://osu.ppy.sh/users/5741153), ::Gero::{ user=1467715 }, [Hazu-](https://osu.ppy.sh/users/4668230), ::MaestroSplinter::{ user=6707918 }, [pkhg](https://osu.ppy.sh/users/343624), ::TheShadowOfDark::{ user=5795337 } and of course [Tatan](https://osu.ppy.sh/users/5646529) makes this is a full Latin American set. Fitting for the song, as it is played frequently all over Latin America. Unfortunately, this mapset is no longer going for Ranked, so it would definitely have a home here in Project Loved considering the 175,000+ play count and 250+ favourites.
+The combo of ::-Sh1n1-::{ user=1957638 }, ::Cote::{ user=5741153 }, ::Gero::{ user=1467715 }, ::Hazu-::{ user=4668230 }, ::MaestroSplinter::{ user=6707918 }, ::pkhg::{ user=343624 }, ::TheShadowOfDark::{ user=5795337 } and of course ::Tatan::{ user=5646529 } makes this is a full Latin American set. Fitting for the song, as it is played frequently all over Latin America. Unfortunately, this mapset is no longer going for Ranked, so it would definitely have a home here in Project Loved considering the 175,000+ play count and 250+ favourites.
 
 This set is for everyone to enjoy, ranging from **1.79★** to **5.98★**. If you like simple maps, this is definitely the set for you, and you get to enjoy this banger of a song while playing it.
 
@@ -150,13 +150,13 @@ Top 50 global? Don't care. Top 3 OWC? Doesn't matter to me. As long as I'm first
 
 [![](/wiki/shared/news/2024-10-22-project-loved-october-2024/874398.jpg)](https://osu.ppy.sh/community/forums/topics/1993620)
 
-[Sonic4ever - Live and Learn](https://osu.ppy.sh/beatmapsets/874398#osu) by ::Uberzolik::{ user=1314547 }, [Axaptice](https://osu.ppy.sh/users/4395077), ::silento::{ user=6573664 }, and [thinking](https://osu.ppy.sh/users/7642841)\
+[Sonic4ever - Live and Learn](https://osu.ppy.sh/beatmapsets/874398#osu) by ::Uberzolik::{ user=1314547 }, ::Axaptice::{ user=4395077 }, ::silento::{ user=6573664 }, and ::thinking::{ user=7642841 }\
 172 BPM, 4:30 | 11.84★\
 *description written by ::megumic::{ user=7537133 }*
 
 Ever wanted to feel like playing osu! was like playing a course in a Sonic game? Well, we've got the map for you here in Project Loved, in this month's *Meme Monstrosities*.
 
-[Live and Learn](https://osu.ppy.sh/beatmapsets/874398#osu), mapped by ::Uberzolik::{ user=1314547 }, [Axaptice](https://osu.ppy.sh/users/4395077), ::silento::{ user=6573664 } and [thinking](https://osu.ppy.sh/users/7642841), is a map that combines high-speed sliders with the vibe that you would get while playing *Sonic Adventure 2*, an iconic Sonic game. It is also the reason why you can no longer play warmups in tournaments! But we live and we learn, and that's a story for another time. Peaking at 11.8★ thanks to some... emotional patterns, the star rating probably isn't the only thing high in here. Who cares, SONIC4EVER!!1!
+[Live and Learn](https://osu.ppy.sh/beatmapsets/874398#osu), mapped by ::Uberzolik::{ user=1314547 }, ::Axaptice::{ user=4395077 }, ::silento::{ user=6573664 } and ::thinking::{ user=7642841 }, is a map that combines high-speed sliders with the vibe that you would get while playing *Sonic Adventure 2*, an iconic Sonic game. It is also the reason why you can no longer play warmups in tournaments! But we live and we learn, and that's a story for another time. Peaking at 11.8★ thanks to some... emotional patterns, the star rating probably isn't the only thing high in here. Who cares, SONIC4EVER!!1!
 
 Listen, we don't have much time. This pick is hanging on the edge of tomorrow. So if you want to see this Loved, vote YEA YEA YEA!
 
@@ -194,11 +194,11 @@ want to prove me wrong? feel free to do so... as long as you vote yes on this ma
 
 [![](/wiki/shared/news/2024-10-22-project-loved-october-2024/2010180.jpg)](https://osu.ppy.sh/community/forums/topics/1993616)
 
-[A-One feat. Shihori - Magic Girl !!](https://osu.ppy.sh/beatmapsets/2010180#osu) by ::BoshyMan741::{ user=4830687 } and [AlmightyDoor](https://osu.ppy.sh/users/11715109)\
+[A-One feat. Shihori - Magic Girl !!](https://osu.ppy.sh/beatmapsets/2010180#osu) by ::BoshyMan741::{ user=4830687 } and ::AlmightyDoor::{ user=11715109 }\
 156 BPM, 3:59 | 7.92★\
 *description written by ::BATBALL::{ user=15173952 }*
 
-For this month's second *Wildcard* pick, top players ::BoshyMan741::{ user=4830687 } and [AlmightyDoor](https://osu.ppy.sh/users/11715109) have descended from the heavens and graced us with their presence.. (and their beatmap too I guess..)
+For this month's second *Wildcard* pick, top players ::BoshyMan741::{ user=4830687 } and ::AlmightyDoor::{ user=11715109 } have descended from the heavens and graced us with their presence.. (and their beatmap too I guess..)
 
 Originally created for the [Taishi App. Team Hybrid Cup 2023](https://osu.ppy.sh/community/forums/topics/1760472?n=1) mapping contest, [Magic Girl !!](https://osu.ppy.sh/beatmapsets/2010180#osu) offers an experience like no other when it comes to intense skill cap reading difficulty, with brutal aim control and overlaps that end up leaving you with an expression on your face similar to Patchouli's.
 
@@ -213,17 +213,17 @@ Make sure to vote yes for this map in this month's Loved voting!
 
 [![](/wiki/shared/news/2024-10-22-project-loved-october-2024/877087.jpg)](https://osu.ppy.sh/community/forums/topics/1993615)
 
-[yaseta - Bluenation (Speed up Ver.)](https://osu.ppy.sh/beatmapsets/877087#osu) by ::ViperSWC::{ user=11724519 } and [BaAR_Vendel](https://osu.ppy.sh/users/8679346)\
+[yaseta - Bluenation (Speed up Ver.)](https://osu.ppy.sh/beatmapsets/877087#osu) by ::ViperSWC::{ user=11724519 } and ::BaAR\1Vendel::{ user=8679346 }\
 207 BPM, 4:38 | 7.18★, 7.40★, 7.42★, 7.52★, 7.72★\
 *description written by ::Mismagius::{ user=19048 }*
 
 For this month's third Wildcard slot, here's one of osu!'s signature iconic songs, but a little bit faster.
 
-[yaseta - Bluenation (Speed up Ver.)](https://osu.ppy.sh/beatmapsets/877087#osu), mapped by ::ViperSWC::{ user=11724519 } and [BaAR_Vendel](https://osu.ppy.sh/users/8679346), is a map you might recognize from a lot of top players' streams around 2020. Through several attempts at mapping the same song, we see how a mapper's style evolves across the years as they grasp the fundamentals and improve their execution, that's not to say the earlier attempts aren't already extremely fun to play, though! Get ready for some rather extreme jumps and streams as you dance around the screen with this certified osu! banger.
+[yaseta - Bluenation (Speed up Ver.)](https://osu.ppy.sh/beatmapsets/877087#osu), mapped by ::ViperSWC::{ user=11724519 } and ::BaAR\1Vendel::{ user=8679346 }, is a map you might recognize from a lot of top players' streams around 2020. Through several attempts at mapping the same song, we see how a mapper's style evolves across the years as they grasp the fundamentals and improve their execution, that's not to say the earlier attempts aren't already extremely fun to play, though! Get ready for some rather extreme jumps and streams as you dance around the screen with this certified osu! banger.
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::Boaz::{ user=13302996 }, [Horiiizon](https://osu.ppy.sh/users/8071438), and ::Roxy-::{ user=11931563 }!
+The osu!taiko Loved candidates were chosen by ::Boaz::{ user=13302996 }, ::Horiiizon::{ user=8071438 }, and ::Roxy-::{ user=11931563 }!
 
 **[Click here to download all of this round's osu!taiko picks!](https://packs.ppy.sh/LR15%20-%20Project%20Loved:%20October%202024%20(osu!taiko).zip)**
 
@@ -268,7 +268,7 @@ Take a trip back to 2020 and try it out!
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::coolkid::{ user=7620002 }, [Secre](https://osu.ppy.sh/users/2306637), ::Wesley::{ user=2407265 }, and [wwwww](https://osu.ppy.sh/users/8434466)!
+The osu!catch Loved candidates were chosen by ::coolkid::{ user=7620002 }, ::Secre::{ user=2306637 }, ::Wesley::{ user=2407265 }, and ::wwwww::{ user=8434466 }!
 
 **[Click here to download all of this round's osu!catch picks!](https://packs.ppy.sh/LR14%20-%20Project%20Loved:%20October%202024%20(osu!catch).zip)**
 
@@ -318,7 +318,7 @@ With one of the most memorable maps from [CWC 2023](/wiki/Tournaments/CWC/2023),
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::Carpihat::{ user=10085090 }, [elexire](https://osu.ppy.sh/users/9206093), ::Maxus::{ user=4335785 }, [Paturages](https://osu.ppy.sh/users/1375479), ::Silhoueska Elze::{ user=11517895 }, [SunApple](https://osu.ppy.sh/users/11817622), ::taba2::{ user=7850508 }, and [YuEast 2018](https://osu.ppy.sh/users/13953619)!
+The osu!mania Loved candidates were chosen by ::Carpihat::{ user=10085090 }, ::elexire::{ user=9206093 }, ::Maxus::{ user=4335785 }, ::Paturages::{ user=1375479 }, ::Silhoueska Elze::{ user=11517895 }, ::SunApple::{ user=11817622 }, ::taba2::{ user=7850508 }, and ::YuEast 2018::{ user=13953619 }!
 
 **[Click here to download all of this round's osu!mania picks!](https://packs.ppy.sh/LR13%20-%20Project%20Loved:%20October%202024%20(osu!mania).zip)**
 
@@ -346,7 +346,7 @@ As one of the first major talents that the world has ever seen perform on osu!ma
 
 [![](/wiki/shared/news/2024-10-22-project-loved-october-2024/1561185.jpg)](https://osu.ppy.sh/community/forums/topics/1993606)
 
-[Various Artists - Zia's 4K Stream Training Pack](https://osu.ppy.sh/beatmapsets/1561185#mania) by ::Zia::{ user=7979303 }, [11Bit](https://osu.ppy.sh/users/14804526), ::LaoXiao-::{ user=2393571 }, [Oceanus](https://osu.ppy.sh/users/9164100), and ::R1w1::{ user=11234907 }\
+[Various Artists - Zia's 4K Stream Training Pack](https://osu.ppy.sh/beatmapsets/1561185#mania) by ::Zia::{ user=7979303 }, ::11Bit::{ user=14804526 }, ::LaoXiao-::{ user=2393571 }, ::Oceanus::{ user=9164100 }, and ::R1w1::{ user=11234907 }\
 168 – 245 BPM, 4:13 | 4.44★ – 6.03★\
 The \[Delete This.\] difficulty is *not* being nominated for Loved.\
 *description written by ::SunApple::{ user=11817622 }*
@@ -415,7 +415,7 @@ Of course, this one is no exception, so it's recommended you give this highly re
 
 [![](/wiki/shared/news/2024-10-22-project-loved-october-2024/923032.jpg)](https://osu.ppy.sh/community/forums/topics/1993601)
 
-[penoreri - crossing blue](https://osu.ppy.sh/beatmapsets/923032#mania) by ::\_Kobii::{ user=6209713 }, [\_Asha](https://osu.ppy.sh/users/11103764), ::\[ A v a l o n \]::{ user=4632359 }, [Amiichii](https://osu.ppy.sh/users/9228569), ::Critical\1Star::{ user=3793196 }, [Jakads](https://osu.ppy.sh/users/259972), ::Jesuren::{ user=7516567 }, [Murumoo](https://osu.ppy.sh/users/8001433), and ::Scotty::{ user=11085809 }\
+[penoreri - crossing blue](https://osu.ppy.sh/beatmapsets/923032#mania) by ::\_Kobii::{ user=6209713 }, ::\_Asha::{ user=11103764 }, ::\[ A v a l o n \]::{ user=4632359 }, ::Amiichii::{ user=9228569 }, ::Critical\1Star::{ user=3793196 }, ::Jakads::{ user=259972 }, ::Jesuren::{ user=7516567 }, ::Murumoo::{ user=8001433 }, and ::Scotty::{ user=11085809 }\
 234 BPM, 1:59 | 1.50★ – 7.92★\
 *description written by ::taba2::{ user=7850508 }*
 
@@ -430,7 +430,7 @@ If you want to see more high-BPM hybrids like this in Loved, please vote and wel
 
 [![](/wiki/shared/news/2024-10-22-project-loved-october-2024/1397200.jpg)](https://osu.ppy.sh/community/forums/topics/1993600)
 
-[Various Artists - xNett's Kpop 7k LN pack](https://osu.ppy.sh/beatmapsets/1397200#mania) by ::xNett::{ user=4998501 } and [Flexo123](https://osu.ppy.sh/users/5367287)\
+[Various Artists - xNett's Kpop 7k LN pack](https://osu.ppy.sh/beatmapsets/1397200#mania) by ::xNett::{ user=4998501 } and ::Flexo123::{ user=5367287 }\
 102 – 169 BPM, 3:39 | 5.08★ – 7.44★\
 *description written by ::Maxus::{ user=4335785 }*
 

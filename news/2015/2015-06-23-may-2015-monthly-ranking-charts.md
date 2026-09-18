@@ -8,12 +8,12 @@ series: beatmap_spotlights
 
 With a slight delay due to some technical difficulties, the Ranking Charts for May 2015 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1505)!
 
-Along with that, we concluded the Spring Season of the [Ranking Charts long-term leaderboard](https://docs.google.com/spreadsheets/d/1rgaKVJj_MDo0PwGrGXbKRVzjE9fhOUb4XZXRsOjTaoQ/pubhtml)! This month ::DoKito::{ user=537084 }, [qoot8123](https://osu.ppy.sh/users/766371), ::Pew::{ user=597692 } and [Blocko](https://osu.ppy.sh/users/4075092) picked the maps for the Monthly Ranking Charts.
+Along with that, we concluded the Spring Season of the [Ranking Charts long-term leaderboard](https://docs.google.com/spreadsheets/d/1rgaKVJj_MDo0PwGrGXbKRVzjE9fhOUb4XZXRsOjTaoQ/pubhtml)! This month ::DoKito::{ user=537084 }, ::qoot8123::{ user=766371 }, ::Pew::{ user=597692 } and ::Blocko::{ user=4075092 } picked the maps for the Monthly Ranking Charts.
 
 ## Spring 2015 Season is over!
 
 Congratulations to the winners of the Ranking Charts Spring Season! ::jantan::{ user=887924 } will be rewarded with **3 months of supporter status** and the user title **Charts Champion** for 3 months. For the first time, ::Dusk::{ user=533210 } was able to defend their titles twice! This tremendous achievement grants them the unique user title **Charts Legend** and a boosted prize of **6 months of supporter status** instead! This is the biggest prize we have available in this competition! Congratulations!
-::Ikkun::{ user=1059945 } and [Cryolien](https://osu.ppy.sh/users/1626983) also achieved the noteworthy milestone of winning two seasons in a row. They will receive the user title **Charts Grandmaster** and a boosted prize of **6 months of supporter status**.
+::Ikkun::{ user=1059945 } and ::Cryolien::{ user=1626983 } also achieved the noteworthy milestone of winning two seasons in a row. They will receive the user title **Charts Grandmaster** and a boosted prize of **6 months of supporter status**.
 
 Here are the winners of our Spring 2015 Season:
 

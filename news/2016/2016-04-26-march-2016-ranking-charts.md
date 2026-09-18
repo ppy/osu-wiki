@@ -8,7 +8,7 @@ series: beatmap_spotlights
 
 With some delay, the Ranking Charts for March 2016 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1603)!
 
-This month ::TicClick::{ user=672931 }, [DakeDekaane](https://osu.ppy.sh/users/1425253), ::Spectator::{ user=702598 } and [Evening](https://osu.ppy.sh/users/2193881) picked the maps for the Monthly Ranking Charts.
+This month ::TicClick::{ user=672931 }, ::DakeDekaane::{ user=1425253 }, ::Spectator::{ user=702598 } and ::Evening::{ user=2193881 } picked the maps for the Monthly Ranking Charts.
 
 ## Ranking Charts Creation
 
@@ -68,7 +68,7 @@ Placing second for the anime genre, we have a classic (not from Sakamoto Maaya t
 
 game rock is not a known mapper, neither maps a lot, but knows how to make a good map, and that can be demonstrated with this one. Although half of this map has Futsuu-like patterns, the other half is loaded with tricky 3/4 patterns along with a few odd 1/4 patterns at 140BPM, I'm sure this will keep you entertained for a reasonable time. Hope for the best!
 
-- [Mitani Nana - Chikyuu Saigo no Kokuhaku o](https://osu.ppy.sh/beatmapsets/65491) by ::Lundlerol::{ user=855219 } and [MidSoul](https://osu.ppy.sh/users/1738436)
+- [Mitani Nana - Chikyuu Saigo no Kokuhaku o](https://osu.ppy.sh/beatmapsets/65491) by ::Lundlerol::{ user=855219 } and ::MidSoul::{ user=1738436 }
 
 Both Oni difficulties have some 190BPM stream action for you. Don't let the easy beginning of Lundlerol's Oni fool you, as kiai time is packed with a nice amount of 1/4 triples, quintuples and a few longer streams, although those are relatively easy. On the other side, MidSoul's offers you shorter, but slightly more complex streams and a wider pattern variety. Choose wisely.
 

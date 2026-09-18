@@ -17,7 +17,7 @@ Music doesn't need words to explain it. Use your ears:
 
 ### [Drazically - Reality:SHIFT](https://assets.ppy.sh/artists/496/Songs/Drazically%20-%20RealitySHIFT%20(feat.%20Hatsune%20Miku).osz)
 
-A special build of osu!(lazer) found its way into [COE 2025](/wiki/Community/cavoe's_osu!_event)'s arcade area. ::arbiter of soup::{ user=12232503 } and [Chupalika](https://osu.ppy.sh/users/1926383) showed it off with ::-Kazuha::{ user=29978316 }'s map of [Reality:SHIFT](https://osu.ppy.sh/beatmapsets/2335282)!
+A special build of osu!(lazer) found its way into [COE 2025](/wiki/Community/cavoe's_osu!_event)'s arcade area. ::arbiter of soup::{ user=12232503 } and ::Chupalika::{ user=1926383 } showed it off with ::-Kazuha::{ user=29978316 }'s map of [Reality:SHIFT](https://osu.ppy.sh/beatmapsets/2335282)!
 
 ...Maybe next year we'll see osu!catch in the arcade so [this map](https://osu.ppy.sh/beatmapsets/2362316) by ::-Rustyy::{ user=16355636 } can have its time in the limelight.
 

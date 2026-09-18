@@ -14,25 +14,25 @@ Congratulations to last month's winners!
 
 1. ::Delis::{ user=1603923 } \- 1 month of supporter
 2. ::Michi::{ user=932342 }
-3. [Raiku](https://osu.ppy.sh/users/Raiku)
+3. ::Raiku::{ user=1525538 }
 
 **Taiko**
 
 1. ::Midnaait::{ user=1506011 } \- 1 month of supporter
 2. ::Konpaku Sariel::{ user=533502 }
-3. [Nashmun](https://osu.ppy.sh/users/Nashmun)
+3. ::Nashmun::{ user=49031 }
 
 **Catch the Beat**
 
-1. [Dusk](https://osu.ppy.sh/users/Dusk) \- 1 month of supporter
-2. [YERTI](https://osu.ppy.sh/users/YERTI)
-3. [dae6254](https://osu.ppy.sh/users/dae6254)
+1. ::Dusk::{ user=533210 } \- 1 month of supporter
+2. ::YERTI::{ user=1490757 }
+3. ::dae6254::{ user=563262 }
 
 **osu!mania**
 
-1. [arcwinolivirus](https://osu.ppy.sh/users/arcwinolivirus) \- 1 month of supporter
-2. [curt1221](https://osu.ppy.sh/users/curt1221)
-3. [miruyanc](https://osu.ppy.sh/users/miruyanc)
+1. ::arcwinolivirus::{ user=2039089 } \- 1 month of supporter
+2. ::curt1221::{ user=1541072 }
+3. ::miruyanc::{ user=1538685 }
 
 Good luck on the charts this month! Please comment below to give us feedback on this months system.
 

@@ -145,7 +145,7 @@ Some users' history may be incomplete during this year.
 - Moved ::lovhin456::{ user=55096 } from Beatmap Appreciation Team to osu! Alumni (2013-08-02)
 - Moved ::Miya::{ user=909167 } from Beatmap Appreciation Team to osu! Alumni (2013-08-02)
 - Moved ::orioncomet::{ user=104827 } from Beatmap Appreciation Team to osu! Alumni (2013-08-02)
-- Moved [ykcarrot](https://osu.ppy.sh/users/ykcarrot) from Beatmap Appreciation Team to osu! Alumni (2013-08-02)
+- Moved ::ykcarrot::{ user=70730 } from Beatmap Appreciation Team to osu! Alumni (2013-08-02)
 - Moved ::Frostmourne::{ user=199669 } from osu! Alumni to Beatmap Appreciation Team (2013-08-02)
 - Moved ::bossandy::{ user=360437 } from osu! Alumni to Beatmap Appreciation Team (2013-08-14) <!-- https://osu.ppy.sh/community/forums/posts/2505082 -->
 - Moved ::p3n::{ user=123703 } from osu! Alumni to Beatmap Appreciation Team (2013-08-16) <!-- https://osu.ppy.sh/community/forums/posts/2511981 -->

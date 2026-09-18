@@ -20,9 +20,9 @@ As per usual, we would like to thank everyone for your participation in the Janu
 
 Before we move on to the picks, feel free to take a moment to review a few changes within the Loved team:
 
-- The osu! Loved captain applications are now concluded, and we'd like to give a warm welcome to ::chiv::{ user=6701656 } and [vyper](https://osu.ppy.sh/users/9948665)! They'll now be one of the main forces that conjure up awesome picks for you to enjoy on a monthly basis.
-- As the *Theory of Equivalent Exchange* dictates, we must bid a heartfelt farewell to double dash–enjoyers ::-NoName-::{ user=10400730 } and [-Kazu-](https://osu.ppy.sh/users/920861) as they've decided to move on from their positions. We'd like to thank them for playing instrumental roles in their respective fields and wish them the best going forward!
-- With -NoName- leaving, ::0x84f::{ user=7944724 } and [aceticke](https://osu.ppy.sh/users/8838763) will be taking on the mantle of the coordination role. Please wish them luck in their adventures of making sure everything is running smoothly and on time!
+- The osu! Loved captain applications are now concluded, and we'd like to give a warm welcome to ::chiv::{ user=6701656 } and ::vyper::{ user=9948665 }! They'll now be one of the main forces that conjure up awesome picks for you to enjoy on a monthly basis.
+- As the *Theory of Equivalent Exchange* dictates, we must bid a heartfelt farewell to double dash–enjoyers ::-NoName-::{ user=10400730 } and ::-Kazu-::{ user=920861 } as they've decided to move on from their positions. We'd like to thank them for playing instrumental roles in their respective fields and wish them the best going forward!
+- With -NoName- leaving, ::0x84f::{ user=7944724 } and ::aceticke::{ user=8838763 } will be taking on the mantle of the coordination role. Please wish them luck in their adventures of making sure everything is running smoothly and on time!
 
 Enough yapping for now, let's go through this month's picks brought to you by our lovely captains:
 
@@ -35,7 +35,7 @@ Enough yapping for now, let's go through this month's picks brought to you by ou
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::Aistre::{ user=4879380 }, [chiv](https://osu.ppy.sh/users/6701656), ::Danny Carey::{ user=7010761 }, [megumic](https://osu.ppy.sh/users/7537133), ::Mismagius::{ user=19048 }, [rHO](https://osu.ppy.sh/users/1629553), ::Skill::{ user=7802027 }, and [vyper](https://osu.ppy.sh/users/9948665)!
+The osu! Loved candidates were chosen by ::Aistre::{ user=4879380 }, ::chiv::{ user=6701656 }, ::Danny Carey::{ user=7010761 }, ::megumic::{ user=7537133 }, ::Mismagius::{ user=19048 }, ::rHO::{ user=1629553 }, ::Skill::{ user=7802027 }, and ::vyper::{ user=9948665 }!
 
 <div align="center">
   <video width="95%" controls>
@@ -58,11 +58,11 @@ The osu! Loved candidates were chosen by ::Aistre::{ user=4879380 }, [chiv](http
 
 [![](/wiki/shared/news/2024-02-14-project-loved-february-2024/60228.jpg)](https://osu.ppy.sh/community/forums/topics/1884377)
 
-[Sum 41 - No Reason](https://osu.ppy.sh/beatmapsets/60228#osu) by ::Strawberry::{ user=519978 } and [CSY the corrupt](https://osu.ppy.sh/users/304513)\
+[Sum 41 - No Reason](https://osu.ppy.sh/beatmapsets/60228#osu) by ::Strawberry::{ user=519978 } and ::CSY the corrupt::{ user=304513 }\
 196 BPM, 3:03 | 5.82★, 5.98★\
 *description written by ::vyper::{ user=9948665 }*
 
-For this month's *Outstanding Oldies* pick, we are going back to 2012 with ::Strawberry::{ user=519978 } and [CSY the corrupt](https://osu.ppy.sh/users/304513)'s [Sum 41 - No Reason](https://osu.ppy.sh/beatmapsets/60228#osu/199699).
+For this month's *Outstanding Oldies* pick, we are going back to 2012 with ::Strawberry::{ user=519978 } and ::CSY the corrupt::{ user=304513 }'s [Sum 41 - No Reason](https://osu.ppy.sh/beatmapsets/60228#osu/199699).
 
 When it comes to top-tier unranked old maps, this map is most likely the one that comes to mind. Although this set is certainly not perfect, what it lacks in polish it makes up for with bundles of character with each difficulty offering linear patterns, streams, and distance-snapped jumps. It is inevitable that this map remains an absolute joy to play, just as it was almost 12 years ago.
 
@@ -98,7 +98,7 @@ For this month's *Daredevil Difficulties* pick, we also bring you one of the mos
 
 [![](/wiki/shared/news/2024-02-14-project-loved-february-2024/1078911.jpg)](https://osu.ppy.sh/community/forums/topics/1884374)
 
-[ZAQ - Seven Doors](https://osu.ppy.sh/beatmapsets/1078911#osu) by ::SkyFlame::{ user=3552948 }, [Alexsander](https://osu.ppy.sh/users/9254241), ::knowledgeking::{ user=8022517 }, [Nelliel](https://osu.ppy.sh/users/7132267), and ::PaRaDogi::{ user=2054596 }\
+[ZAQ - Seven Doors](https://osu.ppy.sh/beatmapsets/1078911#osu) by ::SkyFlame::{ user=3552948 }, ::Alexsander::{ user=9254241 }, ::knowledgeking::{ user=8022517 }, ::Nelliel::{ user=7132267 }, and ::PaRaDogi::{ user=2054596 }\
 203 BPM, 3:56 | 2.64★, 4.32★, 5.50★, 6.68★, 7.10★\
 The \[Hard\] difficulty is *not* being nominated for Loved.\
 *description written by ::Mismagius::{ user=19048 }*
@@ -139,13 +139,13 @@ What more is there to be said? Just Wow.
 
 [![](/wiki/shared/news/2024-02-14-project-loved-february-2024/1164788.jpg)](https://osu.ppy.sh/community/forums/topics/1884371)
 
-[Pixies - Where Is My Mind](https://osu.ppy.sh/beatmapsets/1164788#osu) by ::Mamiya Takuji::{ user=7586512 }, [PandaHero](https://osu.ppy.sh/users/1233255), and ::piroshki::{ user=7645522 }\
+[Pixies - Where Is My Mind](https://osu.ppy.sh/beatmapsets/1164788#osu) by ::Mamiya Takuji::{ user=7586512 }, ::PandaHero::{ user=1233255 }, and ::piroshki::{ user=7645522 }\
 163 BPM, 3:35 | 4.48★\
 *description written by ::vyper::{ user=9948665 }*
 
 Looking forward to enjoying playing osu! while relaxing to some smooth alternative rock? This month's *Chill Champions* pick got you covered!
 
-[Pixies - Where Is My Mind](https://osu.ppy.sh/beatmapsets/1164788#osu/2429558), created by a collaboration of ::Mamiya Takuji::{ user=7586512 }, [piroshki](https://osu.ppy.sh/users/7645522), and ::PandaHero::{ user=1233255 }, sets out as an example for a soothing experience, with the map sitting at a casual 4.48★, which can be fully enjoyed by any player, and can even make for a fun Double Time map. Let your cursor float to the music, and sit back and relax, but watch out for the tricky rhythms though. Those will catch you off guard if you're not careful enough...
+[Pixies - Where Is My Mind](https://osu.ppy.sh/beatmapsets/1164788#osu/2429558), created by a collaboration of ::Mamiya Takuji::{ user=7586512 }, ::piroshki::{ user=7645522 }, and ::PandaHero::{ user=1233255 }, sets out as an example for a soothing experience, with the map sitting at a casual 4.48★, which can be fully enjoyed by any player, and can even make for a fun Double Time map. Let your cursor float to the music, and sit back and relax, but watch out for the tricky rhythms though. Those will catch you off guard if you're not careful enough...
 
 Go give it a play, and if you love it as much as I do, vote yes!
 
@@ -188,7 +188,7 @@ Straight from [OWC '21](/wiki/Tournaments/OWC/2021), you'll be finding yourself 
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::aceticke::{ user=8838763 }, [Boaz](https://osu.ppy.sh/users/13302996), ::Eriha::{ user=16320311 }, [Horiiizon](https://osu.ppy.sh/users/8071438), and ::ler1211::{ user=19901680 }!
+The osu!taiko Loved candidates were chosen by ::aceticke::{ user=8838763 }, ::Boaz::{ user=13302996 }, ::Eriha::{ user=16320311 }, ::Horiiizon::{ user=8071438 }, and ::ler1211::{ user=19901680 }!
 
 <div align="center">
   <video width="95%" controls>
@@ -200,11 +200,11 @@ The osu!taiko Loved candidates were chosen by ::aceticke::{ user=8838763 }, [Boa
 
 [![](/wiki/shared/news/2024-02-14-project-loved-february-2024/1155381.jpg)](https://osu.ppy.sh/community/forums/topics/1884367)
 
-[Tsubusare BOZZ - weeping in the rain feat. Hashimoto Ruga](https://osu.ppy.sh/beatmapsets/1155381#taiko) by ::HEKUSODASU::{ user=9044692 } and [Waribashi](https://osu.ppy.sh/users/2250574)\
+[Tsubusare BOZZ - weeping in the rain feat. Hashimoto Ruga](https://osu.ppy.sh/beatmapsets/1155381#taiko) by ::HEKUSODASU::{ user=9044692 } and ::Waribashi::{ user=2250574 }\
 174 BPM, 4:43 | 5.96★, 5.96★\
 *description written by ::ler1211::{ user=19901680 }*
 
-This month, we introduce [weeping in the rain](https://osu.ppy.sh/beatmapsets/1155381#taiko), a collab map between ::HEKUSODASU::{ user=9044692 } and [Waribashi](https://osu.ppy.sh/users/2250574). This map consists of many interesting rhythms including offbeats, 1/6 and 1/8 while being fairly accessible to players at 5.96★.
+This month, we introduce [weeping in the rain](https://osu.ppy.sh/beatmapsets/1155381#taiko), a collab map between ::HEKUSODASU::{ user=9044692 } and ::Waribashi::{ user=2250574 }. This map consists of many interesting rhythms including offbeats, 1/6 and 1/8 while being fairly accessible to players at 5.96★.
 
 Certainly, the popularity of this set with over 20 favorites from well-known players and mappers in the community comes from its ingenuity in combining interesting patterns and effective SV to create a beautiful map. With that being said, do give this map a try and vote today!
 
@@ -222,11 +222,11 @@ Make sure to check this map out and see why so many people already hopped on the
 
 [![](/wiki/shared/news/2024-02-14-project-loved-february-2024/1731937.jpg)](https://osu.ppy.sh/community/forums/topics/1884365)
 
-[Rahatt - Rasputin](https://osu.ppy.sh/beatmapsets/1731937#taiko) by ::Lumenite-::{ user=6256027 }, [Capu](https://osu.ppy.sh/users/2474015), and ::The Law::{ user=11357694 }\
+[Rahatt - Rasputin](https://osu.ppy.sh/beatmapsets/1731937#taiko) by ::Lumenite-::{ user=6256027 }, ::Capu::{ user=2474015 }, and ::The Law::{ user=11357694 }\
 200 BPM, 2:48 | 2.90★ – 6.89★\
 *description written by ::aceticke::{ user=8838763 }*
 
-Rahatt returns yet again to the Loved voting this month with ::Lumenite-::{ user=6256027 }'s [Rahatt - Rasputin](https://osu.ppy.sh/beatmapsets/1731937#taiko), a catchy breakcore remix of the famous Boney M song! With a full spread (*minus a Kantan, sorry beginners...*) there's a difficulty for everyone. And not only that, as esteemed German mappers ::Capu::{ user=2474015 } and [The Law](https://osu.ppy.sh/users/11357694) (*formerly liku*) brought life to this mapset with their Muzukashii and Hell Oni respectively.
+Rahatt returns yet again to the Loved voting this month with ::Lumenite-::{ user=6256027 }'s [Rahatt - Rasputin](https://osu.ppy.sh/beatmapsets/1731937#taiko), a catchy breakcore remix of the famous Boney M song! With a full spread (*minus a Kantan, sorry beginners...*) there's a difficulty for everyone. And not only that, as esteemed German mappers ::Capu::{ user=2474015 } and ::The Law::{ user=11357694 } (*formerly liku*) brought life to this mapset with their Muzukashii and Hell Oni respectively.
 
 The top difficulty is the 3rd in the *LumenCore* series which aims to put you to the test with its frequent bursts and difficult finger control patterns. But don't let that dissuade you, because it's incredibly fun and I recommend you give it a shot and vote it for Loved today!
 
@@ -258,7 +258,7 @@ Go on a cosmic journey with ::sbet1::{ user=115636714 }'s map of [False Noise - 
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::fuhie::{ user=7620002 }, [Tenshichan](https://osu.ppy.sh/users/1101600), and ::Wesley::{ user=2407265 }!
+The osu!catch Loved candidates were chosen by ::fuhie::{ user=7620002 }, ::Tenshichan::{ user=1101600 }, and ::Wesley::{ user=2407265 }!
 
 <div align="center">
   <video width="95%" controls>
@@ -306,7 +306,7 @@ I am only doing this nomination to summon ::ExGon::{ user=214187 } to come and s
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::elexire::{ user=9206093 }, [kadoen](https://osu.ppy.sh/users/12780575), ::Leeju::{ user=18219603 }, [Paturages](https://osu.ppy.sh/users/1375479), ::Silhoueska Elze::{ user=11517895 }, [SunApple](https://osu.ppy.sh/users/11817622), and ::YuEast 2018::{ user=13953619 }!
+The osu!mania Loved candidates were chosen by ::elexire::{ user=9206093 }, ::kadoen::{ user=12780575 }, ::Leeju::{ user=18219603 }, ::Paturages::{ user=1375479 }, ::Silhoueska Elze::{ user=11517895 }, ::SunApple::{ user=11817622 }, and ::YuEast 2018::{ user=13953619 }!
 
 <div align="center">
   <video width="95%" controls>
@@ -318,7 +318,7 @@ The osu!mania Loved candidates were chosen by ::elexire::{ user=9206093 }, [kado
 
 [![](/wiki/shared/news/2024-02-14-project-loved-february-2024/980182.jpg)](https://osu.ppy.sh/community/forums/topics/1884359)
 
-[THE SxPLAY & KIVA - Hyou Ryuu](https://osu.ppy.sh/beatmapsets/980182#mania) by ::zero2snow::{ user=7751516 } and [HowToPlayLN](https://osu.ppy.sh/users/10879600)\
+[THE SxPLAY & KIVA - Hyou Ryuu](https://osu.ppy.sh/beatmapsets/980182#mania) by ::zero2snow::{ user=7751516 } and ::HowToPlayLN::{ user=10879600 }\
 145 BPM, 2:38 | 2.54★\
 *description written by ::Paturages::{ user=1375479 }*
 
@@ -434,7 +434,7 @@ We hope to see this map pass the voting stage, and if you agree please go give i
 
 [![](/wiki/shared/news/2024-02-14-project-loved-february-2024/765642.jpg)](https://osu.ppy.sh/community/forums/topics/1884351)
 
-[Mizuki Nana - Exterminate](https://osu.ppy.sh/beatmapsets/765642#mania) by ::Exyph::{ user=10364342 }, [Hehoooh](https://osu.ppy.sh/users/2940660), and ::projectc1::{ user=2663343 }\
+[Mizuki Nana - Exterminate](https://osu.ppy.sh/beatmapsets/765642#mania) by ::Exyph::{ user=10364342 }, ::Hehoooh::{ user=2940660 }, and ::projectc1::{ user=2663343 }\
 174 BPM, 3:57 | 8.75★, 8.80★\
 *description written by ::kadoen::{ user=12780575 }*
 
@@ -470,7 +470,7 @@ Also on the topic of love and considering today's special date...
 
 Discover the charm of osu!catch if you haven't already (that's most of you) with this introductory pack medal. Don't worry, the maps don't bite, and you'll get to listen and contemplate slice-of-life existentialism to some cute music by [in love with a ghost](https://osu.ppy.sh/beatmaps/artists/257) while at it!
 
-All mapped with love (presumably) by ::Chatie::{ user=6524765 }, [JBHyperion](https://osu.ppy.sh/users/4879508), ::ZiRoX::{ user=200768 } and [bigh](https://osu.ppy.sh/users/16352736).
+All mapped with love (presumably) by ::Chatie::{ user=6524765 }, ::JBHyperion::{ user=4879508 }, ::ZiRoX::{ user=200768 } and ::bigh::{ user=16352736 }.
 
 See you next month! <3
 

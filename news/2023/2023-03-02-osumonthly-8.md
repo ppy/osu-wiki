@@ -96,7 +96,7 @@ More meetings to make decisions about game mechanics in osu!(lazer) are expected
 
 #### Automated audio spectograms with AxerBot
 
-As you probably know, many Discord bots are created by members of the community in order to make life easier for players or simply connect the osu! database with Discord. [AxerBot](https://osu.ppy.sh/community/forums/topics/1604925?n=1) is one of these bots, created by ::Hivie::{ user=14102976 } and [Sebola](https://osu.ppy.sh/users/15821708), and which received an important update last month that will please numerous mappers
+As you probably know, many Discord bots are created by members of the community in order to make life easier for players or simply connect the osu! database with Discord. [AxerBot](https://osu.ppy.sh/community/forums/topics/1604925?n=1) is one of these bots, created by ::Hivie::{ user=14102976 } and ::Sebola::{ user=15821708 }, and which received an important update last month that will please numerous mappers
 
 The bot now allows creating and displaying an audio file's spectrogram and fix any potential bloating issues, in addition to all its already existing features such as the ability to view many mapping and playing stats or having rich integration with the [BN website](https://bn.mappersguild.com/). These kinds of bots will only impress us with new features making life easier from day to day, and we hope to see new ones soon!
 

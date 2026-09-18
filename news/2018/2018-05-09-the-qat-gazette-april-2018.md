@@ -35,13 +35,13 @@ These badges will be incremental in nature, with slight variations to the design
 
 After much deliberation and discussion among members of the applications branch of the QAT, over an astounding 94 applicants in the recent osu! round, we finally have results, and are proud to welcome **19 new and returning Beatmap Nominators** to the team! Please give a warm welcome to the following:
 
-::Mirash::{ user=2841009 }, [Kyuukai](https://osu.ppy.sh/users/5337374), ::Net0::{ user=5099768 }, [Ultima Fox](https://osu.ppy.sh/users/3198109), ::Deramok::{ user=1428455 }, [hypercyte](https://osu.ppy.sh/users/9155377), ::Smokeman::{ user=2140676 }, [Trynna](https://osu.ppy.sh/users/2652951), ::Ryuusei Aika::{ user=7777875 }, [SnowNiNo_](https://osu.ppy.sh/users/2506267), ::kwk::{ user=365586 }, [Sonnyc](https://osu.ppy.sh/users/11771), ::Lafayla::{ user=5312547 }, [bossandy](https://osu.ppy.sh/users/360437), ::Andrea::{ user=33599 }, [Sieg](https://osu.ppy.sh/users/1404615), ::Mordred::{ user=7265097 }, [Kalibe](https://osu.ppy.sh/users/3376777), and ::Nao Tomori::{ user=5364763 }!
+::Mirash::{ user=2841009 }, ::Kyuukai::{ user=5337374 }, ::Net0::{ user=5099768 }, ::Ultima Fox::{ user=3198109 }, ::Deramok::{ user=1428455 }, ::hypercyte::{ user=9155377 }, ::Smokeman::{ user=2140676 }, ::Trynna::{ user=2652951 }, ::Ryuusei Aika::{ user=7777875 }, ::SnowNiNo\1::{ user=2506267 }, ::kwk::{ user=365586 }, ::Sonnyc::{ user=11771 }, ::Lafayla::{ user=5312547 }, ::bossandy::{ user=360437 }, ::Andrea::{ user=33599 }, ::Sieg::{ user=1404615 }, ::Mordred::{ user=7265097 }, ::Kalibe::{ user=3376777 }, and ::Nao Tomori::{ user=5364763 }!
 
 ### Beatmap Nominator Retirements
 
 As the month draws to a close though, we must also say goodbye to familiar faces within the Beatmap Nominators who have moved on from circle and fruit modding to pursue other paths. Please extend gratitude to the following members who have worked hard to bring new and refreshing content to the Ranked section:
 
-::Voli::{ user=2522275 }, [Sanyi](https://osu.ppy.sh/users/7496029), ::ezek::{ user=180241 }, [Hareimu](https://osu.ppy.sh/users/4138746), ::Kencho::{ user=3178411 } and [Chromoxx](https://osu.ppy.sh/users/1881639)
+::Voli::{ user=2522275 }, ::Sanyi::{ user=7496029 }, ::ezek::{ user=180241 }, ::Hareimu::{ user=4138746 }, ::Kencho::{ user=3178411 } and ::Chromoxx::{ user=1881639 }
 
 While we are sad to see you all go, your efforts will be remembered and we wish you luck in your future endeavors!
 

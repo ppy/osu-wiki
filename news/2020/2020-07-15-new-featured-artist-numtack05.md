@@ -35,7 +35,7 @@ Check out [this Mappers' Guild showcase set](https://osu.ppy.sh/beatmapsets/1001
 
 ### kimi no hitomi ni
 
-Check out [this collaborative marathon set](https://osu.ppy.sh/beatmapsets/632589) by ::Noffy::{ user=1541323 } and [Arphimigon](https://osu.ppy.sh/users/5392762), as well as [this solo marathon](https://osu.ppy.sh/beatmapsets/1103070) from ::L3NNy::{ user=11756041 }
+Check out [this collaborative marathon set](https://osu.ppy.sh/beatmapsets/632589) by ::Noffy::{ user=1541323 } and ::Arphimigon::{ user=5392762 }, as well as [this solo marathon](https://osu.ppy.sh/beatmapsets/1103070) from ::L3NNy::{ user=11756041 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/90/previews/2385.mp3" type="audio/mpeg">

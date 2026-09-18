@@ -47,7 +47,7 @@ This week had two [osu! original](/wiki/Community/Bespoke_music) debuts as well!
     </audio>
 </div>
 
-In the No Mod pool, the amazing [MetaHumanBoi](https://osu.ppy.sh/beatmaps/artists/430)'s [ILLUSTRIOUS DRIFTERS](https://osu.ppy.sh/beatmapsets/2465328#osu/5396699), an electronic, high-tempo banger mapped as a classic tech map by ::Altai::{ user=5745865 } and [Aistre](https://osu.ppy.sh/users/4879380), with an extremely cool storyboard by ::Kuroise::{ user=14547127 } accented by the cute design of the original character Aurora, a chat-favourite over the weekend.
+In the No Mod pool, the amazing [MetaHumanBoi](https://osu.ppy.sh/beatmaps/artists/430)'s [ILLUSTRIOUS DRIFTERS](https://osu.ppy.sh/beatmapsets/2465328#osu/5396699), an electronic, high-tempo banger mapped as a classic tech map by ::Altai::{ user=5745865 } and ::Aistre::{ user=4879380 }, with an extremely cool storyboard by ::Kuroise::{ user=14547127 } accented by the cute design of the original character Aurora, a chat-favourite over the weekend.
 
 [![](/wiki/shared/news/2025-11-29-osu-world-cup-2025-quarterfinals-recap/nastrond_banner.jpg)](https://osu.ppy.sh/beatmapsets/2465411#osu/5396873)
 
@@ -57,7 +57,7 @@ In the No Mod pool, the amazing [MetaHumanBoi](https://osu.ppy.sh/beatmaps/artis
     </audio>
 </div>
 
-And for the tiebreaker, a familiar face returned to osu!, as one of the earliest and most iconic Featured Artists, [Helblinde](https://osu.ppy.sh/beatmaps/artists/5), gave us a chilling yet epic song in [Nástrǫnd](https://osu.ppy.sh/beatmapsets/2465411#osu/5396873), mapped by ::funny::{ user=8473573 }, [Mir](https://osu.ppy.sh/users/8688812) and ::toybot::{ user=2848604 } in a mechanically heavy, yet still distinctly technical way. Do check out the storyboard by ::LowGraphics::{ user=5383942 } as well (maybe through the [commentary video below](#helblinde)), it's incredibly impressive!
+And for the tiebreaker, a familiar face returned to osu!, as one of the earliest and most iconic Featured Artists, [Helblinde](https://osu.ppy.sh/beatmaps/artists/5), gave us a chilling yet epic song in [Nástrǫnd](https://osu.ppy.sh/beatmapsets/2465411#osu/5396873), mapped by ::funny::{ user=8473573 }, ::Mir::{ user=8688812 } and ::toybot::{ user=2848604 } in a mechanically heavy, yet still distinctly technical way. Do check out the storyboard by ::LowGraphics::{ user=5383942 } as well (maybe through the [commentary video below](#helblinde)), it's incredibly impressive!
 
 ## Saturday summary
 
@@ -106,7 +106,7 @@ While the remainder of Saturday’s matches were won by the higher seeds in larg
 | Philippines ::{ flag=PH }:: | 3 | **6** | ::{ flag=RU }:: **Russian Federation** |
 | **Norway** ::{ flag=NO }:: | **6** | 3 | ::{ flag=BR }:: Brazil |
 
-Sunday's slate featured the remaining two Quarterfinals matches and the losers' bracket Round 3 potential matches, in which LB winners from Saturday faced off for the remaining spots in the top 12. In the Winners side of the bracket, Australia sent the defending champions South Korea to the losers' bracket by a score of 6–2 including highlights such as ::ASecretBox::{ user=7341183 } and [mrekk](https://osu.ppy.sh/users/7562902) dropping double FCs on [FM1](https://osu.ppy.sh/beatmapsets/2294086#osu/4898892) and FM4 with ::palr::{ user=15429006 } joining them for a ridiculous triple FC on [FM2](https://osu.ppy.sh/beatmapsets/2465435#osu/5396931).
+Sunday's slate featured the remaining two Quarterfinals matches and the losers' bracket Round 3 potential matches, in which LB winners from Saturday faced off for the remaining spots in the top 12. In the Winners side of the bracket, Australia sent the defending champions South Korea to the losers' bracket by a score of 6–2 including highlights such as ::ASecretBox::{ user=7341183 } and ::mrekk::{ user=7562902 } dropping double FCs on [FM1](https://osu.ppy.sh/beatmapsets/2294086#osu/4898892) and FM4 with ::palr::{ user=15429006 } joining them for a ridiculous triple FC on [FM2](https://osu.ppy.sh/beatmapsets/2465435#osu/5396931).
 
 Following this, #1 seed Poland put on a clinic against China with a 6–1 victory in which they won each of their points by 400,000 points or more — though China stole the show with an [unbelievable team score](https://www.twitch.tv/videos/2625999082?t=0h23m32s) on [HR3](https://osu.ppy.sh/beatmapsets/755651#osu/1590460) that's a must-to-watch for all OWC fans.
 

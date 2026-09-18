@@ -15,7 +15,7 @@ Participation reached an all-time high with **319 registrations** and **45 (vali
 
 Now, with the introduction out of the way, let's begin this year's recaps by spotlighting the very best moments and highlights of the Round of 32 and Qualifiers.
 
-We're also fortunate enough to have the support of ::yukina meng::{ user=9919550 }, [Normiplier](https://osu.ppy.sh/users/10069850), ::epic man 2::{ user=14566000 }, [SurfChu85](https://osu.ppy.sh/users/4469895), and ::SunApple::{ user=11817622 } who have been of great help to make this year's video recaps possible. Please look forward to their weekly recap in video form if you prefer a different medium!
+We're also fortunate enough to have the support of ::yukina meng::{ user=9919550 }, ::Normiplier::{ user=10069850 }, ::epic man 2::{ user=14566000 }, ::SurfChu85::{ user=4469895 }, and ::SunApple::{ user=11817622 } who have been of great help to make this year's video recaps possible. Please look forward to their weekly recap in video form if you prefer a different medium!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/28yeNC0sZfM" frameborder="0" allowfullscreen></iframe>

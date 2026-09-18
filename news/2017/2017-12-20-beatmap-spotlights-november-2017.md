@@ -22,14 +22,14 @@ First of all, congratulations to the winners of the October 2017 Spotlights. The
 
 ## Changes within the Spotlight Team
 
-We're welcoming ::Mao::{ user=2204515 } and [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) among the managers! They will help with the Themed Spotlights during the next year with their preparation and release.
+We're welcoming ::Mao::{ user=2204515 } and ::Nardoxyribonucleic::{ user=876419 } among the managers! They will help with the Themed Spotlights during the next year with their preparation and release.
 
 In conjunction with the above changes, it is my pleasure to welcome our new map selectors into the team.
 
-- **osu!:** ::Battle::{ user=4037545 }, [Halfslashed](https://osu.ppy.sh/users/4598899), ::Delis::{ user=1603923 }, [Regou](https://osu.ppy.sh/users/419954), ::Crystal::{ user=1646397 }, [Gamu](https://osu.ppy.sh/users/611174)
-- **osu!taiko:** ::hikikochan::{ user=6512678 }, [Neppu](https://osu.ppy.sh/users/605973)
+- **osu!:** ::Battle::{ user=4037545 }, ::Halfslashed::{ user=4598899 }, ::Delis::{ user=1603923 }, ::Regou::{ user=419954 }, ::Crystal::{ user=1646397 }, ::Gamu::{ user=611174 }
+- **osu!taiko:** ::hikikochan::{ user=6512678 }, ::Neppu::{ user=605973 }
 - **osu!catch:** ::Crystal::{ user=1646397 }
-- **osu!mania:** ::Garalulu::{ user=757783 }, [Pope Gadget](https://osu.ppy.sh/users/2288341), ::Asherz007::{ user=9014047 }, [TheToaphster](https://osu.ppy.sh/users/7616811)
+- **osu!mania:** ::Garalulu::{ user=757783 }, ::Pope Gadget::{ user=2288341 }, ::Asherz007::{ user=9014047 }, ::TheToaphster::{ user=7616811 }
 
 ## November 2017 Spotlights
 
@@ -49,7 +49,7 @@ A full set, for a full song, by a team of experienced mappers! Fantastic difficu
 
 [![](/wiki/shared/news/2017-12-18-beatmap-spotlights-november-2017/kantsubaki.jpg)](https://osu.ppy.sh/beatmapsets/621584)
 
-Being the winner of the 3rd Newspaper Cup - a prestigious mapping contest - ::Regou::{ user=419954 } and [fish39](https://osu.ppy.sh/users/3522390)'s map of ESQUARIA's Kantsubaki is clearly one of the standout ones this month! The marathon is a Touhou soundtrack remix with rather unordinary rhythm, making for a technically demanding map that could give even some of osu!'s better players a hard time. Good luck!
+Being the winner of the 3rd Newspaper Cup - a prestigious mapping contest - ::Regou::{ user=419954 } and ::fish39::{ user=3522390 }'s map of ESQUARIA's Kantsubaki is clearly one of the standout ones this month! The marathon is a Touhou soundtrack remix with rather unordinary rhythm, making for a technically demanding map that could give even some of osu!'s better players a hard time. Good luck!
 
 [![](/wiki/shared/news/2017-12-18-beatmap-spotlights-november-2017/tenimuhou.jpg)](https://osu.ppy.sh/beatmapsets/471440)
 
@@ -73,7 +73,7 @@ In conclusion, the entire map contains rather solid structure, well arranged hit
 
 Ever wanted to bang some drums to the sound of intense violins? Well then, Memme - Avalanche delivers just that with some of the most amazingly well structured taiko difficulties that we have seen this month, accompanied by an absolutely stunning storyboard by ::Starfy::{ user=2045914 }!
 
-The highlight of this set would definitely be the Inner Oni difficulty by ::aabc271::{ user=155707 }. With clever usage of finishers, 1/6 patterns, streams and rhythm switches throughout the map, it offers both a fun yet challenging experience for veteran players. We mustn't forget about the Muzukashii and Oni difficulties though - mapped by ::iloveyou4ever::{ user=4964596 } and [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) respectively, they too are also beautifully crafted for players of lower levels to enjoy.
+The highlight of this set would definitely be the Inner Oni difficulty by ::aabc271::{ user=155707 }. With clever usage of finishers, 1/6 patterns, streams and rhythm switches throughout the map, it offers both a fun yet challenging experience for veteran players. We mustn't forget about the Muzukashii and Oni difficulties though - mapped by ::iloveyou4ever::{ user=4964596 } and ::Nardoxyribonucleic::{ user=876419 } respectively, they too are also beautifully crafted for players of lower levels to enjoy.
 
 ### osu!catch
 
@@ -85,7 +85,7 @@ Despite its low BPM, the song contains complex rhythms - and this mapset uses th
 
 [![](/wiki/shared/news/2017-12-18-beatmap-spotlights-november-2017/a-bella.jpg)](https://osu.ppy.sh/beatmapsets/541101)
 
-::ZiRoX::{ user=200768 }'s mapset of M2U's "A Bella!" featuring guest difficulties from ::JBHyperion::{ user=4879508 } and [Deif](https://osu.ppy.sh/users/318565) is a real treat in this month's Spotlights. ZiRoX's clean mapping style is as pleasant as ever to play across all his difficulties, wonderfully balancing the unique sounds of the song with appropriate level of difficulty.
+::ZiRoX::{ user=200768 }'s mapset of M2U's "A Bella!" featuring guest difficulties from ::JBHyperion::{ user=4879508 } and ::Deif::{ user=318565 } is a real treat in this month's Spotlights. ZiRoX's clean mapping style is as pleasant as ever to play across all his difficulties, wonderfully balancing the unique sounds of the song with appropriate level of difficulty.
 
 Deif's Overdose however turns things up a bit. No doubt familiar to viewers of the osu!catch World Cup 2017 and notoriously tricky to play with Hidden, Deif takes every opportunity provided by the song - combining big hyperdashes with fast sliders to make maintaining a high accuracy a difficult task.
 
@@ -109,7 +109,7 @@ Overall a very challenging beatmap and a well deserved place in the November Spo
 
 For his 20th map, ::Fresh Chicken::{ user=3984370 } went from the wooshs to the scratches with a map of the "BMS of fighters 2015" song Dreadnought by Mastermind(xi+nora2r)!
 
-With the help of ::Lude::{ user=6974536 } and [Valentrix](https://osu.ppy.sh/users/2794620), Fresh Chicken maintains the momentum of solid, fun and efficient mapsets. Mixing a lot of different patterns with smooth speed changes for 2:13 min of drain time, Dreadnought is definitely an interesting map for both competitive and casual play!
+With the help of ::Lude::{ user=6974536 } and ::Valentrix::{ user=2794620 }, Fresh Chicken maintains the momentum of solid, fun and efficient mapsets. Mixing a lot of different patterns with smooth speed changes for 2:13 min of drain time, Dreadnought is definitely an interesting map for both competitive and casual play!
 
 ---
 

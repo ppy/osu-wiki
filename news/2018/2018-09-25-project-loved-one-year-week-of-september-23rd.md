@@ -14,17 +14,17 @@ series: project_loved
 Loved has had some huge success in bringing leaderboards and recognition to the beatmaps that stand out to the community, and it's all been possible thanks to the people who've helped out. So, before we get into the meat of this week's post, I want to thank everyone that's been a part of this project:
 
 - **::Toy::{ user=2757689 }**, for taking action to revive the Loved category and manage Project Loved all this time
-- ::Ephemeral::{ user=102335 }, [MillhioreF](https://osu.ppy.sh/users/941094), ::peppy::{ user=2 } and [WalterToro](https://osu.ppy.sh/users/5281416), for providing the resources that made it possible
-- ::\_underjoy::{ user=2235750 }, [-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910), ::-Kazu-::{ user=920861 }, [aitor98](https://osu.ppy.sh/users/3154852), ::Ascendance::{ user=2931883 }, [Backfire](https://osu.ppy.sh/users/263110), ::Deif::{ user=318565 }, [DigitalHypno](https://osu.ppy.sh/users/4384207), ::Gezoda::{ user=481582 }, [Halogen-](https://osu.ppy.sh/users/169992), ::iceOC::{ user=5482401 }, [JBHyperion](https://osu.ppy.sh/users/4879508), ::Kaifin::{ user=2596942 }, [Kamikaze](https://osu.ppy.sh/users/2124783), ::Nwolf::{ user=1910766 }, [nyanmi-1828](https://osu.ppy.sh/users/6866480), ::Pope Gadget::{ user=2288341 }, [Sartan](https://osu.ppy.sh/users/4100941), ::Shoegazer::{ user=2520707 }, [Spectator](https://osu.ppy.sh/users/702598), ::stupud man::{ user=2141612 }, [tasuke912](https://osu.ppy.sh/users/2774767), ::Tenshichan::{ user=1101600 }, [TheToaphster](https://osu.ppy.sh/users/7616811), ::Toy::{ user=2757689 } and [Zak](https://osu.ppy.sh/users/1375955), for picking maps every round and writing the descriptions on each listing
-- ::Gabe::{ user=654108 }, [Gero](https://osu.ppy.sh/users/1467715), ::Kurai::{ user=77089 }, [Mao](https://osu.ppy.sh/users/2204515) and ::Noffy::{ user=1541323 }, for checking the content and metadata of Loved candidates to make sure that they meet community guidelines
-- ::\_verto\_::{ user=2015300 } and [BeasttrollMC](https://osu.ppy.sh/users/3171691), for making awesome videos to promote Project Loved and Loved maps
+- ::Ephemeral::{ user=102335 }, ::MillhioreF::{ user=941094 }, ::peppy::{ user=2 } and ::WalterToro::{ user=5281416 }, for providing the resources that made it possible
+- ::\_underjoy::{ user=2235750 }, ::-\[ ix Ishida xi \]-::{ user=242910 }, ::-Kazu-::{ user=920861 }, ::aitor98::{ user=3154852 }, ::Ascendance::{ user=2931883 }, ::Backfire::{ user=263110 }, ::Deif::{ user=318565 }, ::DigitalHypno::{ user=4384207 }, ::Gezoda::{ user=481582 }, ::Halogen-::{ user=169992 }, ::iceOC::{ user=5482401 }, ::JBHyperion::{ user=4879508 }, ::Kaifin::{ user=2596942 }, ::Kamikaze::{ user=2124783 }, ::Nwolf::{ user=1910766 }, ::nyanmi-1828::{ user=6866480 }, ::Pope Gadget::{ user=2288341 }, ::Sartan::{ user=4100941 }, ::Shoegazer::{ user=2520707 }, ::Spectator::{ user=702598 }, ::stupud man::{ user=2141612 }, ::tasuke912::{ user=2774767 }, ::Tenshichan::{ user=1101600 }, ::TheToaphster::{ user=7616811 }, ::Toy::{ user=2757689 } and ::Zak::{ user=1375955 }, for picking maps every round and writing the descriptions on each listing
+- ::Gabe::{ user=654108 }, ::Gero::{ user=1467715 }, ::Kurai::{ user=77089 }, ::Mao::{ user=2204515 } and ::Noffy::{ user=1541323 }, for checking the content and metadata of Loved candidates to make sure that they meet community guidelines
+- ::\_verto\_::{ user=2015300 } and ::BeasttrollMC::{ user=3171691 }, for making awesome videos to promote Project Loved and Loved maps
 - Me (::clayton::{ user=3666350 }), for writing all of these posts :^)
-- ::Joehu::{ user=8549835 }, [MegaApple\_Pi](https://osu.ppy.sh/users/2148208), ::Repflez::{ user=201392 }, [Shiro](https://osu.ppy.sh/users/113005) and ::TPGPL::{ user=3944705 }, for regularly reveiwing the news posts on GitHub before they go live
+- ::Joehu::{ user=8549835 }, ::MegaApple\_Pi::{ user=2148208 }, ::Repflez::{ user=201392 }, ::Shiro::{ user=113005 } and ::TPGPL::{ user=3944705 }, for regularly reveiwing the news posts on GitHub before they go live
 - All of you, for casting your votes in the Project Loved forum!
 
 All of these people contribute or have contributed in the past to Project Loved, so make sure to thank them if you enjoy what we do!
 
-This round, we've got some new people helping out. Along with our new osu!taiko captains mentioned last round (::nyanmi-1828::{ user=6866480 } and [-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910)), we also have a new osu!mania captain: ::stupud man::{ user=2141612 } (nice)!
+This round, we've got some new people helping out. Along with our new osu!taiko captains mentioned last round (::nyanmi-1828::{ user=6866480 } and ::-\[ ix Ishida xi \]-::{ user=242910 }), we also have a new osu!mania captain: ::stupud man::{ user=2141612 } (nice)!
 
 The 90% threshold for osu!standard that we tried last round seemed to work out pretty well, so we'll be keeping it around.
 
@@ -43,7 +43,7 @@ And lastly before we get into the maps, ::\_verto\_::{ user=2015300 } made a nic
 
 ## osu!
 
-osu! Loved candidates were chosen by ::Toy::{ user=2757689 } and [DigitalHypno](https://osu.ppy.sh/users/4384207)! This week, all osu! beatmap descriptions were written by ::DigitalHypno::{ user=4384207 }.
+osu! Loved candidates were chosen by ::Toy::{ user=2757689 } and ::DigitalHypno::{ user=4384207 }! This week, all osu! beatmap descriptions were written by ::DigitalHypno::{ user=4384207 }.
 
 ---
 
@@ -67,7 +67,7 @@ So, you think you're good at spaced streams? Why not give Erza's mapset of Turki
 
 [![](/wiki/shared/news/2018-09-25-project-loved-one-year-week-of-september-23rd/osu/pizza-rolls.jpg)](https://osu.ppy.sh/community/forums/topics/807794)
 
-[sssShawnnnn - Pizza Rolls](https://osu.ppy.sh/beatmapsets/154972) by ::Nozhomi::{ user=2716981 }, [Okoratu](https://osu.ppy.sh/users/1623405), ::Satilast::{ user=1291618 } and [Nofool](https://osu.ppy.sh/users/672430)
+[sssShawnnnn - Pizza Rolls](https://osu.ppy.sh/beatmapsets/154972) by ::Nozhomi::{ user=2716981 }, ::Okoratu::{ user=1623405 }, ::Satilast::{ user=1291618 } and ::Nofool::{ user=672430 }
 
 More mashups! A throwback to 2014, this mapset by Nozhomi et al. was originally going for ranked but was eventually deemed unrankable. However, the map has accumulated over 190 favorites and has not been forgotten. This mashup song of various EDM tracks is brought to you by a full mapset spread and one taiko difficulty to top it off. Will you be the one to help carry on this map's legacy into the Loved category?
 
@@ -79,7 +79,7 @@ Many of you may know Logic Agent's ranked mapset of this song, but if you've eve
 
 [![](/wiki/shared/news/2018-09-25-project-loved-one-year-week-of-september-23rd/osu/sunset-tea-cup.jpg)](https://osu.ppy.sh/community/forums/topics/807796)
 
-[YUC'e - Sunset Tea Cup](https://osu.ppy.sh/beatmapsets/634949) by ::Rumia-::{ user=1787171 }, [[ -Scarlet- ]](https://osu.ppy.sh/users/2427693) and ::Matsubara Kanon::{ user=1475828 }
+[YUC'e - Sunset Tea Cup](https://osu.ppy.sh/beatmapsets/634949) by ::Rumia-::{ user=1787171 }, ::\1 -Scarlet- \1::{ user=2427693 } and ::Matsubara Kanon::{ user=1475828 }
 
 Everyone's favorite YUC'e has yet another cute and catchy tune making its way across the Project Loved voting stage! This full mapset of Sunset Tea Cup, hosted by Rumia- and featuring guest difficulties by walaowey (now known as Matsubara Kanon) and \[ -Scarlet- \], has gathered over 180 favorites since its submission just over a year ago. Despite its highest difficulty peaking at around only 5.3 stars, don't be fooled—the technical rhythm provided by the song yields some very unconventional, engaging and fun patterns. As the mapset makes its appearance on stage, will you throw flowers or tomatoes?
 
@@ -103,13 +103,13 @@ I'm sure many of you recognize this artist from popular ranked mapsets of Uta an
 
 [![](/wiki/shared/news/2018-09-25-project-loved-one-year-week-of-september-23rd/osu/insane-techniques-extended.jpg)](https://osu.ppy.sh/community/forums/topics/807800)
 
-[kors k - Insane Techniques (Extended)](https://osu.ppy.sh/beatmapsets/181957) by ::RLC::{ user=1047883 } and [fanzhen0019](https://osu.ppy.sh/users/418699)
+[kors k - Insane Techniques (Extended)](https://osu.ppy.sh/beatmapsets/181957) by ::RLC::{ user=1047883 } and ::fanzhen0019::{ user=418699 }
 
 Some of you may know the other ranked mapsets of this song, but I'd say you're missing out if you haven't given this version a try as well. In 2014, RLC and fanzhen0019 came together to collab the extended version of this up-beat banger of a track by kors k. The comparison of their mapping styles in this collab is quite interesting, and overall makes for a very engaging map. Over 110 players have favorited this map so far, and if you're one for five minutes of disconnected streams and variable slider velocities, you just might be the next one!
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::Backfire::{ user=263110 }, [-[ ix Ishida xi ]-](https://osu.ppy.sh/users/242910), ::-Kazu-::{ user=920861 }, [iceOC](https://osu.ppy.sh/users/5482401) and ::nyanmi-1828::{ user=6866480 }! This week, all osu!taiko beatmap descriptions were written by ::Backfire::{ user=263110 }.
+osu!taiko Loved candidates were chosen by ::Backfire::{ user=263110 }, ::-\1 ix Ishida xi \1-::{ user=242910 }, ::-Kazu-::{ user=920861 }, ::iceOC::{ user=5482401 } and ::nyanmi-1828::{ user=6866480 }! This week, all osu!taiko beatmap descriptions were written by ::Backfire::{ user=263110 }.
 
 ---
 
@@ -123,11 +123,11 @@ Coming from an era in osu!taiko where the ranking procedure was pretty tight and
 
 [tarolabo - Miko](https://osu.ppy.sh/beatmapsets/593618) by ::Nyan::{ user=36102 }
 
-We've Loved tarolabo maps from Nyan before, but none quite like this. When this released way back in 2014 (and got re-uploaded in 2017), it was a thrilling version of a song we in osu!taiko were already pretty familiar with. There are two other maps of Miko, one by ::glalucard::{ user=577406 } and one by [Firce777](https://osu.ppy.sh/users/274072), made even further back in 2011 and 2012, so this song was already really familiar to the game. However, this map is special. With incredibly non-dated usage of 1/6, very accurate timing and just an overall atmosphere of the "Final Boss", we think Nyan's Miko deserves a place in Loved's history.
+We've Loved tarolabo maps from Nyan before, but none quite like this. When this released way back in 2014 (and got re-uploaded in 2017), it was a thrilling version of a song we in osu!taiko were already pretty familiar with. There are two other maps of Miko, one by ::glalucard::{ user=577406 } and one by ::Firce777::{ user=274072 }, made even further back in 2011 and 2012, so this song was already really familiar to the game. However, this map is special. With incredibly non-dated usage of 1/6, very accurate timing and just an overall atmosphere of the "Final Boss", we think Nyan's Miko deserves a place in Loved's history.
 
 [![](/wiki/shared/news/2018-09-25-project-loved-one-year-week-of-september-23rd/taiko/uchiage-hanabi-doko-kara-mirunen-w.jpg)](https://osu.ppy.sh/community/forums/topics/807805)
 
-[hanacco - Uchiage Hanabi, Doko kara Mirunen w](https://osu.ppy.sh/beatmapsets/815747) by ::HEKUSODASU::{ user=9044692 }, [Shallty](https://osu.ppy.sh/users/6205471) and ::KitajimaYN::{ user=2250574 }
+[hanacco - Uchiage Hanabi, Doko kara Mirunen w](https://osu.ppy.sh/beatmapsets/815747) by ::HEKUSODASU::{ user=9044692 }, ::Shallty::{ user=6205471 } and ::KitajimaYN::{ user=2250574 }
 
 A new-comer to Loved, HEKUSODASU, has been really excited to hopefully get a Loved map eventually. Well, he's finally getting his wish with this brilliant mapset of a remix of the extremely popular J-pop song, Uchiage Hanabi. You may be familiar with this song, which has garnered maps by Monstrata, Ascendance and tasuke912. He has brought a supporting cast of KitajimaYN and Shallty (previously known as "soloist"), who are very strong and prominent mappers in the Japanese scene. Their maps are all extremely fun and densely-packed madness, so we encourage you to check them all out!
 
@@ -141,7 +141,7 @@ Our redemption pick for this week, Colors only barely missed out getting Loved i
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Zak::{ user=1375955 }, [Ascendance](https://osu.ppy.sh/users/2931883), ::Sartan::{ user=4100941 } and [Tenshichan](https://osu.ppy.sh/users/1101600)! This week, all osu!catch beatmap descriptions were written by ::Sartan::{ user=4100941 }.
+osu!catch Loved candidates were chosen by ::Zak::{ user=1375955 }, ::Ascendance::{ user=2931883 }, ::Sartan::{ user=4100941 } and ::Tenshichan::{ user=1101600 }! This week, all osu!catch beatmap descriptions were written by ::Sartan::{ user=4100941 }.
 
 ---
 
@@ -159,7 +159,7 @@ I greet thy low-AR Hidden mod experts, your time has come! ZHsteven's Kake nuker
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::Kamikaze::{ user=2124783 }, [\_underjoy](https://osu.ppy.sh/users/2235750), ::aitor98::{ user=3154852 }, [Pope Gadget](https://osu.ppy.sh/users/2288341), ::stupud man::{ user=2141612 } and [TheToaphster](https://osu.ppy.sh/users/7616811)!
+osu!mania Loved candidates were chosen by ::Kamikaze::{ user=2124783 }, ::\_underjoy::{ user=2235750 }, ::aitor98::{ user=3154852 }, ::Pope Gadget::{ user=2288341 }, ::stupud man::{ user=2141612 } and ::TheToaphster::{ user=7616811 }!
 
 ---
 
@@ -209,14 +209,14 @@ This map actually made it into Qualifiers last year, but unfortunately, it did n
 
 [![](/wiki/shared/news/2018-09-25-project-loved-one-year-week-of-september-23rd/mania/haelequinz-the-clown-of-24stairs.jpg)](https://osu.ppy.sh/community/forums/topics/807822)
 
-[orangentle / Yu\_Asahina - HAELEQUINZ -the clown of 24stairs-](https://osu.ppy.sh/beatmapsets/338199) by ::AncuL::{ user=2449200 }, [Takane6](https://osu.ppy.sh/users/4568037) and ::Takamori37::{ user=4946268 }\
+[orangentle / Yu\_Asahina - HAELEQUINZ -the clown of 24stairs-](https://osu.ppy.sh/beatmapsets/338199) by ::AncuL::{ user=2449200 }, ::Takane6::{ user=4568037 } and ::Takamori37::{ user=4946268 }\
 *written by ::\_underjoy::{ user=2235750 }*
 
 Although it shares metadata with Fullerene's and Jinjin's ranked rendition of the song, HAELEQUINZ mapped by AncuL, with guest diffs from Takane6 and Takamori37, bears almost no resemblance to the map mentioned. This is in fact a different version of the song than the one you're probably used to. While the main melody remains indifferent and is mapped in a calm way, the harder sections are littered with doublestairs and chordstreams accompanied with rather nasty minijacks and bursts. They become a real challenge to hit especially during the ending, which is a climax of the neverending technical streams. This map is a neat challenge and definitely deserves the spot in Loved!
 
 [![](/wiki/shared/news/2018-09-25-project-loved-one-year-week-of-september-23rd/mania/quaver.jpg)](https://osu.ppy.sh/community/forums/topics/807823)
 
-[Risk Junk - quaver](https://osu.ppy.sh/beatmapsets/361372) by ::Reba::{ user=3087654 } and [Kawawa](https://osu.ppy.sh/users/4647754)\
+[Risk Junk - quaver](https://osu.ppy.sh/beatmapsets/361372) by ::Reba::{ user=3087654 } and ::Kawawa::{ user=4647754 }\
 *written by ::aitor98::{ user=3154852 }*
 
 Here we have Reba again coming up with Quaver, along with two guest difficulties made by Kawawa. This map has been around the 7K community for quite a few years, and it is distinguished by its way of patterning, which makes it quite comfortable to play. Featuring a few simple two and three note chords here and there coming up at 182 BPM, followed by light staircases mixed with Long Notes. This is definitely one of the easiest sets of this 7K batch, and we have already seen Reba and Kawawa in the past few rounds as well, so we already know that we will not be disappointed.

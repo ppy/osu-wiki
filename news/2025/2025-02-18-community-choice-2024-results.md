@@ -31,7 +31,7 @@ If you're more of a visual learner, here's a showcase of all winning beatmaps in
 
 [![](/wiki/shared/news/2025-02-18-community-choice-2024-results/burning-star.jpg)](https://osu.ppy.sh/beatmapsets/2095154)
 
-Taking the [osu! World Cup 2023](/wiki/Tournaments/OWC/2023) by storm, ::ktgster::{ user=53378 } brought us an absolute banger of a map (featuring difficulties from ::Wispy::{ user=11106929 }, [Cytusine](https://osu.ppy.sh/users/11557554), ::IOException::{ user=2688103 }, [Serenhaide](https://osu.ppy.sh/users/10466315), ::Dada::{ user=9119507 }, [squirrelpascals](https://osu.ppy.sh/users/6151332), and ::Nytrocide\1::{ user=11327918 }) that currently houses what's commonly referred as the best tournament score of all-time: a 99.01% accuracy FC on OWC 2023's Grand Finals HR3 pick, which was set by none other than ::worst hr player::{ user=14106450 } against the almighty United States OWC team.
+Taking the [osu! World Cup 2023](/wiki/Tournaments/OWC/2023) by storm, ::ktgster::{ user=53378 } brought us an absolute banger of a map (featuring difficulties from ::Wispy::{ user=11106929 }, ::Cytusine::{ user=11557554 }, ::IOException::{ user=2688103 }, ::Serenhaide::{ user=10466315 }, ::Dada::{ user=9119507 }, ::squirrelpascals::{ user=6151332 }, and ::Nytrocide\1::{ user=11327918 }) that currently houses what's commonly referred as the best tournament score of all-time: a 99.01% accuracy FC on OWC 2023's Grand Finals HR3 pick, which was set by none other than ::worst hr player::{ user=14106450 } against the almighty United States OWC team.
 
 This score has left such a significant mark on the community that it resonated enough with players to be voted as the *Community Choice* for 2024.
 
@@ -60,7 +60,7 @@ In case you need a refresher, here's the glorious score that cemented this map's
 
 ::ProfessionalBox::{ user=3250792 } has returned one more time from his slumber, bringing us an absolute classic to the Ranked section, and something that was once destined to be ranked in 2017. 7 years later, ProBox has proven yet again that Grandpa still got it in him.
 
-This set brings us a wide range of difficulties from a selection of some very iconic mappers, namely ::hehe::{ user=2123087 }, [winber1](https://osu.ppy.sh/users/270328), ::toybot::{ user=2848604 }, [Sing](https://osu.ppy.sh/users/3795679), ::fanzhen0019::{ user=418699 }, [Plaudible](https://osu.ppy.sh/users/7149815), ::Hobbes2::{ user=8157492 }, [Nathan](https://osu.ppy.sh/users/4785223), ::Kibbleru::{ user=3193504 }, and [Doormat](https://osu.ppy.sh/users/3230571).
+This set brings us a wide range of difficulties from a selection of some very iconic mappers, namely ::hehe::{ user=2123087 }, ::winber1::{ user=270328 }, ::toybot::{ user=2848604 }, ::Sing::{ user=3795679 }, ::fanzhen0019::{ user=418699 }, ::Plaudible::{ user=7149815 }, ::Hobbes2::{ user=8157492 }, ::Nathan::{ user=4785223 }, ::Kibbleru::{ user=3193504 }, and ::Doormat::{ user=3230571 }.
 
 #### Finalists
 
@@ -83,7 +83,7 @@ This set brings us a wide range of difficulties from a selection of some very ic
 
 [![](/wiki/shared/news/2025-02-18-community-choice-2024-results/cruzeiro-do-neymar-oh-neymar.jpg)](https://osu.ppy.sh/beatmapsets/2134939)
 
-osu!taiko has returned yet again to its meme antics, and it can't be more apparent than the community crowning [**LUKAO MEC - CRUZEIRO DO NEYMAR, OH NEYMAR**](https://osu.ppy.sh/beatmapsets/2134939) as its *Community Choice*, brought to you by TEAM BRASIL: ::Kyoumo::{ user=8145223 }, [HiroK](https://osu.ppy.sh/users/4050738), ::Skid::{ user=3044264 }, [flr](https://osu.ppy.sh/users/4689256), ::Foxeru::{ user=7479684 }, and [Lorenzetto](https://osu.ppy.sh/users/9213381).
+osu!taiko has returned yet again to its meme antics, and it can't be more apparent than the community crowning [**LUKAO MEC - CRUZEIRO DO NEYMAR, OH NEYMAR**](https://osu.ppy.sh/beatmapsets/2134939) as its *Community Choice*, brought to you by TEAM BRASIL: ::Kyoumo::{ user=8145223 }, ::HiroK::{ user=4050738 }, ::Skid::{ user=3044264 }, ::flr::{ user=4689256 }, ::Foxeru::{ user=7479684 }, and ::Lorenzetto::{ user=9213381 }.
 
 ::{ flag=BR }:: ::{ flag=BR }:: ::{ flag=BR }:: ::{ flag=BR }:: ::{ flag=BR }:: ::{ flag=BR }:: ::{ flag=BR }:: ::{ flag=BR }:: ::{ flag=BR }:: ::{ flag=BR }:: ::{ flag=BR }:: ::{ flag=BR }::
 
@@ -104,7 +104,7 @@ osu!taiko has returned yet again to its meme antics, and it can't be more appare
 
 [![](/wiki/shared/news/2025-02-18-community-choice-2024-results/train-of-thought.jpg)](https://osu.ppy.sh/beatmapsets/2155531)
 
-Composed and mapped for the osu!taiko World Cup 2024, [**Cansol - Train of Thought**](https://osu.ppy.sh/beatmapsets/2155531) by seasoned mappers ::Nurend::{ user=9905079 } and [uone](https://osu.ppy.sh/users/5321719) brought a creative and challenging experience that resonated with tournament players and mappers alike, earning it the top spot for the *Mapper's Favourite* pick.
+Composed and mapped for the osu!taiko World Cup 2024, [**Cansol - Train of Thought**](https://osu.ppy.sh/beatmapsets/2155531) by seasoned mappers ::Nurend::{ user=9905079 } and ::uone::{ user=5321719 } brought a creative and challenging experience that resonated with tournament players and mappers alike, earning it the top spot for the *Mapper's Favourite* pick.
 
 #### Finalists
 
@@ -127,7 +127,7 @@ Composed and mapped for the osu!taiko World Cup 2024, [**Cansol - Train of Thoug
 
 [![](/wiki/shared/news/2025-02-18-community-choice-2024-results/mochio-.jpg)](https://osu.ppy.sh/beatmapsets/1939725)
 
-Like fruits? Who doesn't! ::Spectator::{ user=702598 }, [Lacrima](https://osu.ppy.sh/users/4915649), ::Kukkai::{ user=7811952 }, [Xinnoh](https://osu.ppy.sh/users/4236057), and ::Ririmu::{ user=20424806 } have provided us with plenty to enjoy in [**\[Kyoro\] - Mochio-**](https://osu.ppy.sh/beatmapsets/1939725), featuring a large selection of challenging yet fun difficulties that the osu!catch world has voted as the *Community Choice* and *Mapper's Favourite* for 2024.
+Like fruits? Who doesn't! ::Spectator::{ user=702598 }, ::Lacrima::{ user=4915649 }, ::Kukkai::{ user=7811952 }, ::Xinnoh::{ user=4236057 }, and ::Ririmu::{ user=20424806 } have provided us with plenty to enjoy in [**\[Kyoro\] - Mochio-**](https://osu.ppy.sh/beatmapsets/1939725), featuring a large selection of challenging yet fun difficulties that the osu!catch world has voted as the *Community Choice* and *Mapper's Favourite* for 2024.
 
 #### Community Choice finalists
 
@@ -201,7 +201,7 @@ Besides the traction gained from its tournament debut, users from all skill leve
 
 [![](/wiki/shared/news/2025-02-18-community-choice-2024-results/everlasting-eternity.jpg?1)](https://osu.ppy.sh/beatmapsets/2099753)
 
-Arguably a contender for ::Critical\1Star::{ user=3793196 }'s magnum opus, with the help of ::tyrcs::{ user=13026904 } and [Schopfer](https://osu.ppy.sh/users/11270477) [**Ludicin - Everlasting Eternity**](https://osu.ppy.sh/beatmapsets/2099753) quickly became one of the most admired 7K maps of the year despite being ranked during the lattermost quarter of 2024.
+Arguably a contender for ::Critical\1Star::{ user=3793196 }'s magnum opus, with the help of ::tyrcs::{ user=13026904 } and ::Schopfer::{ user=11270477 } [**Ludicin - Everlasting Eternity**](https://osu.ppy.sh/beatmapsets/2099753) quickly became one of the most admired 7K maps of the year despite being ranked during the lattermost quarter of 2024.
 
 For many, this is the epitome of 7K mapping when it comes to tiebreak-styled maps. It is an extremely challenging, full-flavour experience with plenty of variety to spare! With the help of ::RiceSS::{ user=8271436 }'s storyboard to bring the map to life, this was an unforgettable experience for the few able to withstand the gauntlet.
 

@@ -19,8 +19,8 @@ We are proud to announce the **"Project Loved: Best of 2025" medal pack** is out
 
 Additionally, last month's applications have been processed, and therefore we have a number of **new captains** that will be picking maps for the project. Please welcome:
 
-- For the osu!mania 7K team, ::BKwind::{ user=8900975 } and [ExNeko](https://osu.ppy.sh/users/7590894)!
-- For the osu!catch team, ::Natsuko::{ user=8266817 }, [mieldeprairie](https://osu.ppy.sh/users/19290397), ::MILK\116::{ user=9137627 } and [Jakkubon](https://osu.ppy.sh/users/3396013)!
+- For the osu!mania 7K team, ::BKwind::{ user=8900975 } and ::ExNeko::{ user=7590894 }!
+- For the osu!catch team, ::Natsuko::{ user=8266817 }, ::mieldeprairie::{ user=19290397 }, ::MILK\116::{ user=9137627 } and ::Jakkubon::{ user=3396013 }!
 
 And coinciding with the fruit-catcher additions, it's time to say goodbye to ::Tenshichan::{ user=1101600 }. He has been the **longest-tenured captain in the history of the project**, being active since the very creation of the Captain's Pick system [back in 2017](https://osu.ppy.sh/community/forums/posts/6358816). Things were very different back then, with maps battling one another for a chance at a leaderboard. Everything was run directly on the forums, and it was all generally much more experimental. ::Tenshichan::{ user=1101600 } has been with us since all the way back then, longer than there are badges to put under his name, and has been picking quite literally hundreds of maps in that time. Thank you for your service!
 
@@ -42,7 +42,7 @@ And finally here are the June 2026 picks. As always, remember that you can test 
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::BATBALL::{ user=15173952 }, [Bernkastel](https://osu.ppy.sh/users/5154946), ::Chaoslitz::{ user=3621552 }, [chiv](https://osu.ppy.sh/users/6701656), ::momoyo::{ user=12469536 }, [Petal](https://osu.ppy.sh/users/7354729), ::plambob::{ user=10077431 }, [Riot](https://osu.ppy.sh/users/4256461), ::Skill::{ user=7802027 }, and [Wispy](https://osu.ppy.sh/users/11106929)!
+The osu! Loved candidates were chosen by ::BATBALL::{ user=15173952 }, ::Bernkastel::{ user=5154946 }, ::Chaoslitz::{ user=3621552 }, ::chiv::{ user=6701656 }, ::momoyo::{ user=12469536 }, ::Petal::{ user=7354729 }, ::plambob::{ user=10077431 }, ::Riot::{ user=4256461 }, ::Skill::{ user=7802027 }, and ::Wispy::{ user=11106929 }!
 
 **[Click here to download all of this round's osu! picks!](https://packs.ppy.sh/LR96%20-%20Project%20Loved:%20June%202026%20(osu!).zip)**
 
@@ -87,9 +87,9 @@ An absolute non-stop barrage of various styles and a musical arrangement featuri
 
 BANGER TIME! 😎 Presenting this month's pick: [Renril – Rinne Tensei](https://osu.ppy.sh/beatmapsets/824423#osu/1727589) mapped by ::Depths::{ user=3935174 }.
 
-*Rinne Tensei* is a song you are probably familiar with, but what you may not be familiar with is ::Renril::{ user=4955122 }. [Renril](https://osu.ppy.sh/users/4955122) was the [osu! Idol winner](https://osu.ppy.sh/home/news/2017-12-03-osu-idol-2017-finals-community-voting-results) back in 2017, and this is the cover song that secured the winning spot!
+*Rinne Tensei* is a song you are probably familiar with, but what you may not be familiar with is ::Renril::{ user=4955122 }. ::Renril::{ user=4955122 } was the [osu! Idol winner](https://osu.ppy.sh/home/news/2017-12-03-osu-idol-2017-finals-community-voting-results) back in 2017, and this is the cover song that secured the winning spot!
 
-Driven by relentless energy and high intensity in ::Renril::{ user=4955122 }'s vocals, [Depths](https://osu.ppy.sh/users/3935174)' map matches *Rinne Tensei's* energy seamlessly, resulting in a map that can only be described as CHALLENGING AND FUN.
+Driven by relentless energy and high intensity in ::Renril::{ user=4955122 }'s vocals, ::Depths::{ user=3935174 }' map matches *Rinne Tensei's* energy seamlessly, resulting in a map that can only be described as CHALLENGING AND FUN.
 
 Make sure to vote **yes** and comment "good mapping"!
 
@@ -164,11 +164,11 @@ Let's give this mapset a warm welcome back into the Loved category. Vote Yes!
 
 [![](/wiki/shared/news/2026-06-17-project-loved-june-2026/2362425.jpg)](https://osu.ppy.sh/community/forums/topics/2216254)
 
-[XenjeS - Odyssi-S](https://osu.ppy.sh/beatmapsets/2362425#osu) by ::0ppInOsu::{ user=12551840 } and [nooj](https://osu.ppy.sh/users/8271086)\
+[XenjeS - Odyssi-S](https://osu.ppy.sh/beatmapsets/2362425#osu) by ::0ppInOsu::{ user=12551840 } and ::nooj::{ user=8271086 }\
 172 BPM, 4:01 | 6.98★\
 *description written by ::Riot::{ user=4256461 }*
 
-Like Odysseus steering his ship between Scylla and Charybdis, players must navigate the fine line between technical skill and flow control throughout [Odyssi-S](https://osu.ppy.sh/beatmapsets/2362425#osu/5092736). Within ::nooj::{ user=8271086 } and [0ppInOsu](https://osu.ppy.sh/users/12551840)'s intricate patterns, every section becomes another stretch of treacherous sea, demanding both confidence and restraint.
+Like Odysseus steering his ship between Scylla and Charybdis, players must navigate the fine line between technical skill and flow control throughout [Odyssi-S](https://osu.ppy.sh/beatmapsets/2362425#osu/5092736). Within ::nooj::{ user=8271086 } and ::0ppInOsu::{ user=12551840 }'s intricate patterns, every section becomes another stretch of treacherous sea, demanding both confidence and restraint.
 
 Originally charted as a custom NM4 for the [Ukrainian osu! Tournament 2025](https://osu.ppy.sh/community/forums/topics/2050742?n=1), this map first set sail as a proving ground for competitors, where only the most capable navigators could hope to conquer its waters, yet its voyage did not end with the tournament. Beyond the arena, it continued to find admirers drawn to its distinctive challenge and captivating presentation.
 
@@ -176,7 +176,7 @@ As with every great voyage, the reward lies not in avoiding the challenge, but i
 
 [![](/wiki/shared/news/2026-06-17-project-loved-june-2026/1863796.jpg)](https://osu.ppy.sh/community/forums/topics/2216255)
 
-[Fujisawa Yoshiaki - Tatakai](https://osu.ppy.sh/beatmapsets/1863796#osu) by ::topXD::{ user=11904298 }, [\_adeline](https://osu.ppy.sh/users/16345483), ::Amats::{ user=21662192 }, [Amon-](https://osu.ppy.sh/users/18161041), ::hakashii::{ user=11688893 }, [Hamano](https://osu.ppy.sh/users/9714032), ::mintIceCream\_::{ user=13221589 }, [Mystoxery](https://osu.ppy.sh/users/4903197), ::ruvari::{ user=23134926 }, and [Sylia](https://osu.ppy.sh/users/15660985)\
+[Fujisawa Yoshiaki - Tatakai](https://osu.ppy.sh/beatmapsets/1863796#osu) by ::topXD::{ user=11904298 }, ::\_adeline::{ user=16345483 }, ::Amats::{ user=21662192 }, ::Amon-::{ user=18161041 }, ::hakashii::{ user=11688893 }, ::Hamano::{ user=9714032 }, ::mintIceCream\_::{ user=13221589 }, ::Mystoxery::{ user=4903197 }, ::ruvari::{ user=23134926 }, and ::Sylia::{ user=15660985 }\
 137 BPM, 1:53 | 1.68★ – 7.75★\
 *description written by ::chiv::{ user=6701656 }*
 
@@ -216,7 +216,7 @@ One small step for players, one giant leap for the Loved Category! Explore new f
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::\_gt::{ user=8301957 }, [chmekoe](https://osu.ppy.sh/users/7807444), ::Eriha::{ user=16320311 }, [nevqr](https://osu.ppy.sh/users/14269506), and ::Roxy-::{ user=11931563 }!
+The osu!taiko Loved candidates were chosen by ::\_gt::{ user=8301957 }, ::chmekoe::{ user=7807444 }, ::Eriha::{ user=16320311 }, ::nevqr::{ user=14269506 }, and ::Roxy-::{ user=11931563 }!
 
 **[Click here to download all of this round's osu!taiko picks!](https://packs.ppy.sh/LR95%20-%20Project%20Loved:%20June%202026%20(osu!taiko).zip)**
 
@@ -242,7 +242,7 @@ Be sure to give this map a try for its \<3 cute style \<3 and variation from Gen
 
 [![](/wiki/shared/news/2026-06-17-project-loved-june-2026/2358227.jpg)](https://osu.ppy.sh/community/forums/topics/2216241)
 
-[Jane Remover - Psychoboost feat. danny brown](https://osu.ppy.sh/beatmapsets/2358227#taiko) by ::Backfire::{ user=263110 }, [SolaEclipse](https://osu.ppy.sh/users/6621158), and ::Wadsy::{ user=2598555 }\
+[Jane Remover - Psychoboost feat. danny brown](https://osu.ppy.sh/beatmapsets/2358227#taiko) by ::Backfire::{ user=263110 }, ::SolaEclipse::{ user=6621158 }, and ::Wadsy::{ user=2598555 }\
 149.97 BPM, 4:03 | 7.47★\
 *description written by ::chmekoe::{ user=7807444 }*
 
@@ -294,7 +294,7 @@ So if you're ready to put your skills to the test, remember to vote YES!
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::Des9::{ user=5404711 }, [LaviSorrow](https://osu.ppy.sh/users/9966768), and ::Realmaas::{ user=6567640 }!
+The osu!catch Loved candidates were chosen by ::Des9::{ user=5404711 }, ::LaviSorrow::{ user=9966768 }, and ::Realmaas::{ user=6567640 }!
 
 **[Click here to download all of this round's osu!catch picks!](https://packs.ppy.sh/LR94%20-%20Project%20Loved:%20June%202026%20(osu!catch).zip)**
 
@@ -366,7 +366,7 @@ The map is non-stop and plays with increasing and keeping long distances through
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::Carpihat::{ user=10085090 }, [foxgirls](https://osu.ppy.sh/users/9206093), ::LivelyPeninsula::{ user=11517895 }, [myucchii](https://osu.ppy.sh/users/10072733), ::Nepijin::{ user=11734610 }, [Oceanus](https://osu.ppy.sh/users/9164100), ::Paturages::{ user=1375479 }, [taba2](https://osu.ppy.sh/users/7850508), and ::Yuiesta::{ user=13953619 }!
+The osu!mania Loved candidates were chosen by ::Carpihat::{ user=10085090 }, ::foxgirls::{ user=9206093 }, ::LivelyPeninsula::{ user=11517895 }, ::myucchii::{ user=10072733 }, ::Nepijin::{ user=11734610 }, ::Oceanus::{ user=9164100 }, ::Paturages::{ user=1375479 }, ::taba2::{ user=7850508 }, and ::Yuiesta::{ user=13953619 }!
 
 **[Click here to download all of this round's osu!mania picks!](https://packs.ppy.sh/LR93%20-%20Project%20Loved:%20June%202026%20(osu!mania).zip)**
 
@@ -533,7 +533,7 @@ We believe this is a great map for entry-level players to build their fundamenta
 
 That's all from us this month! All the beatmaps that pass voting will reach the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) soon™ after the polls end, so stay tuned and don't forget your vote, every vote counts!
 
-And a special thank you to this month's replay contributors: ::chmekoe::{ user=7807444 }, [nevqr](https://osu.ppy.sh/users/14269506), ::Dahcreeper::{ user=6926006 }, [LaviSorrow](https://osu.ppy.sh/users/9966768), ::dressurf::{ user=758406 }, [Petal](https://osu.ppy.sh/users/7354729), ::BATBALL::{ user=15173952 }, [Utiba](https://osu.ppy.sh/users/11354436), ::Riot::{ user=4256461 } and [ChillerPear](https://osu.ppy.sh/users/9501251).
+And a special thank you to this month's replay contributors: ::chmekoe::{ user=7807444 }, ::nevqr::{ user=14269506 }, ::Dahcreeper::{ user=6926006 }, ::LaviSorrow::{ user=9966768 }, ::dressurf::{ user=758406 }, ::Petal::{ user=7354729 }, ::BATBALL::{ user=15173952 }, ::Utiba::{ user=11354436 }, ::Riot::{ user=4256461 } and ::ChillerPear::{ user=9501251 }.
 
 More info about Project Loved can be found on its [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/). Stop by the new official [forum thread](https://osu.ppy.sh/community/forums/topics/2214637?n=1) or any of the community servers listed at the bottom of the [wiki page](/wiki/Community/Project_Loved) if you have any questions, concerns, or are interested in helping out.
 

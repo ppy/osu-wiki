@@ -33,7 +33,7 @@ While we have no team-related news to share this time around, we'd still like to
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::BATBALL::{ user=15173952 }, [chiv](https://osu.ppy.sh/users/6701656), ::choke enough::{ user=1629553 }, [Lilian](https://osu.ppy.sh/users/8589120), ::momoyo::{ user=12469536 }, and [Plasma](https://osu.ppy.sh/users/10077431)!
+The osu! Loved candidates were chosen by ::BATBALL::{ user=15173952 }, ::chiv::{ user=6701656 }, ::choke enough::{ user=1629553 }, ::Lilian::{ user=8589120 }, ::momoyo::{ user=12469536 }, and ::Plasma::{ user=10077431 }!
 
 **[Click here to download all of this round's osu! picks!](https://packs.ppy.sh/LR56%20-%20Project%20Loved:%20August%202025%20(osu!).zip)**
 
@@ -75,7 +75,7 @@ If you've been craving some classic 2015 map goodness, this one is for you. Team
 
 [![](/wiki/shared/news/2025-08-16-project-loved-august-2025/1881706.jpg)](https://osu.ppy.sh/community/forums/topics/2118250)
 
-[Sad Keyboard Guy, sleepless & Myntian - Alter//Strife feat. vally.exe](https://osu.ppy.sh/beatmapsets/1881706#osu) by ::alvearia::{ user=6248691 }, [ANON TOKYO](https://osu.ppy.sh/users/8266808), ::Ducky-::{ user=9351565 }, [Vermasium](https://osu.ppy.sh/users/11106442), and ::Yugu::{ user=3161834 }\
+[Sad Keyboard Guy, sleepless & Myntian - Alter//Strife feat. vally.exe](https://osu.ppy.sh/beatmapsets/1881706#osu) by ::alvearia::{ user=6248691 }, ::ANON TOKYO::{ user=8266808 }, ::Ducky-::{ user=9351565 }, ::Vermasium::{ user=11106442 }, and ::Yugu::{ user=3161834 }\
 180 BPM, 6:42 | 7.53★\
 *description written by ::chiv::{ user=6701656 }*
 
@@ -103,13 +103,13 @@ Also small reminder, a version of this song with a [5\* difficulty](https://osu.
 
 [![](/wiki/shared/news/2025-08-16-project-loved-august-2025/1471155.jpg)](https://osu.ppy.sh/community/forums/topics/2118248)
 
-[Marmalade butcher - Floccinaucinihilipilification](https://osu.ppy.sh/beatmapsets/1471155#osu) by ::DeviousPanda::{ user=4966334 }, [LeCandy](https://osu.ppy.sh/users/6626249), and ::Nozuchi::{ user=5858447 }\
+[Marmalade butcher - Floccinaucinihilipilification](https://osu.ppy.sh/beatmapsets/1471155#osu) by ::DeviousPanda::{ user=4966334 }, ::LeCandy::{ user=6626249 }, and ::Nozuchi::{ user=5858447 }\
 200 BPM, 3:35 | 4.96★, 6.44★, 7.05★, 7.58★\
 *description written by ::Lilian::{ user=8589120 }*
 
 This month's *Ranked Rejects* nomination is [Marmalade butcher - Floccinaucinihilipilification](https://osu.ppy.sh/beatmapsets/1471155#osu/3020256). Try saying that five times fast.
 
-This song has Featured Artist [Marmalade butcher](https://osu.ppy.sh/beatmaps/artists/220) doing what they do best, having made a name for themselves with intricate and intense math rock bangers. Although it's not quite as hellish as the [previously Loved mapset by melloe](https://osu.ppy.sh/beatmapsets/1331748#osu/2759110), given the top difficulty was created as a Grand Finals pick for The Perennial 2021, it is certainly no cakewalk. Thankfully, mappers ::LeCandy::{ user=6626249 } and [Nozuchi](https://osu.ppy.sh/users/5858447) have created an Insane and Extra difficulty respectively, and the way I see it, the more people that can experience this song, the better.
+This song has Featured Artist [Marmalade butcher](https://osu.ppy.sh/beatmaps/artists/220) doing what they do best, having made a name for themselves with intricate and intense math rock bangers. Although it's not quite as hellish as the [previously Loved mapset by melloe](https://osu.ppy.sh/beatmapsets/1331748#osu/2759110), given the top difficulty was created as a Grand Finals pick for The Perennial 2021, it is certainly no cakewalk. Thankfully, mappers ::LeCandy::{ user=6626249 } and ::Nozuchi::{ user=5858447 } have created an Insane and Extra difficulty respectively, and the way I see it, the more people that can experience this song, the better.
 
 As always, make sure to cast your vote if you want to see this map in Loved this month!! But it seems I still have a few characters remaining... FloccinaucinihilipilificationFloccinaucinihilipilificationFloccinaucinihilipilificationFloccinaucinihilipilificationFloccinau-
 
@@ -127,7 +127,7 @@ So... I literally waited a year just for this map to be eligible for voting. Sur
 
 [![](/wiki/shared/news/2025-08-16-project-loved-august-2025/2235508.jpg)](https://osu.ppy.sh/community/forums/topics/2118246)
 
-[Juufuutei Raden - Maitake Dance](https://osu.ppy.sh/beatmapsets/2235508#osu) by ::GirlsKissing::{ user=16584802 }, [OnLoong](https://osu.ppy.sh/users/13524541), ::Take::{ user=19322780 }, and [vodit51321](https://osu.ppy.sh/users/19670323)\
+[Juufuutei Raden - Maitake Dance](https://osu.ppy.sh/beatmapsets/2235508#osu) by ::GirlsKissing::{ user=16584802 }, ::OnLoong::{ user=13524541 }, ::Take::{ user=19322780 }, and ::vodit51321::{ user=19670323 }\
 143 BPM, 0:43 | 2.04★, 3.52★, 4.34★, 5.72★, 7.16★\
 *description written by ::momoyo::{ user=12469536 }*
 
@@ -144,7 +144,7 @@ This song became a hit worldwide with the amount of edits and memes it caused, I
 
 Anyways, back into the set... ::GirlsKissing::{ user=16584802 } (cool name btw) took the spotlight back hosting it when this song was on the rise in the west social media and made quite an enjoyable spread with a few mappers you might or might not recognize.
 
-The guest difficulties are from ::OnLoong::{ user=13524541 }, [Take](https://osu.ppy.sh/users/19322780) and ::vodit51321::{ user=19670323 }!
+The guest difficulties are from ::OnLoong::{ user=13524541 }, ::Take::{ user=19322780 } and ::vodit51321::{ user=19670323 }!
 
 While this is a YouTube-Short-sized beatmap, I hope you enjoy this month's Meme Monstrosities pick.
 
@@ -163,7 +163,7 @@ Not all angels need to be forgotten... vote yes!!! 😇😇
 
 [![](/wiki/shared/news/2025-08-16-project-loved-august-2025/1679653.jpg)](https://osu.ppy.sh/community/forums/topics/2118244)
 
-[Various Artists - GIRLS' LEGEND U](https://osu.ppy.sh/beatmapsets/1679653#osu) by ::\[Karcher\]::{ user=11443437 } and [mx10000](https://osu.ppy.sh/users/3730848)\
+[Various Artists - GIRLS' LEGEND U](https://osu.ppy.sh/beatmapsets/1679653#osu) by ::\[Karcher\]::{ user=11443437 } and ::mx10000::{ user=3730848 }\
 205 BPM, 4:44 | 7.89★, 8.26★, 8.26★\
 *description written by ::momoyo::{ user=12469536 }*
 
@@ -199,7 +199,7 @@ Whether you want to see what players are capable of or if you want to prove your
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::Eriha::{ user=16320311 }, [Gamelan4](https://osu.ppy.sh/users/9856910), ::K a y o k o::{ user=17664300 }, [nevqr](https://osu.ppy.sh/users/14269506), and ::Roxy-::{ user=11931563 }!
+The osu!taiko Loved candidates were chosen by ::Eriha::{ user=16320311 }, ::Gamelan4::{ user=9856910 }, ::K a y o k o::{ user=17664300 }, ::nevqr::{ user=14269506 }, and ::Roxy-::{ user=11931563 }!
 
 **[Click here to download all of this round's osu!taiko picks!](https://packs.ppy.sh/LR55%20-%20Project%20Loved:%20August%202025%20(osu!taiko).zip)**
 
@@ -259,11 +259,11 @@ When you actually play it, you will find that it is a fast-paced map where time 
 
 [![](/wiki/shared/news/2025-08-16-project-loved-august-2025/1786298.jpg)](https://osu.ppy.sh/community/forums/topics/2118238)
 
-[Rahatt - Dirty Doll](https://osu.ppy.sh/beatmapsets/1786298#taiko) by ::nananass::{ user=7231722 } and [Red Riding Hood](https://osu.ppy.sh/users/8050850)\
+[Rahatt - Dirty Doll](https://osu.ppy.sh/beatmapsets/1786298#taiko) by ::nananass::{ user=7231722 } and ::Red Riding Hood::{ user=8050850 }\
 200 BPM, 2:01 | 7.16★, 7.63★, 8.62★\
 *description written by ::nevqr::{ user=14269506 }*
 
-Finishing off this month's picks, I've decided to nominate [Dirty Doll](https://osu.ppy.sh/beatmapsets/1786298#taiko/3718466) by ::nananass::{ user=7231722 } and [Red Riding Hood](https://osu.ppy.sh/users/8050850)!
+Finishing off this month's picks, I've decided to nominate [Dirty Doll](https://osu.ppy.sh/beatmapsets/1786298#taiko/3718466) by ::nananass::{ user=7231722 } and ::Red Riding Hood::{ user=8050850 }!
 
 The artist — [Rahatt](https://soundcloud.com/rahatt_bc) — is absolutely no stranger to the osu!taiko scene, so much so that he has recently made an appearance in the [osu!taiko World Cup 2025](/wiki/Tournaments/TWC/2025) with an osu! original — [Gunoi Chop](https://soundcloud.com/rahatt_bc/gunoi-chop). He's pretty much THE osu!taiko breakcore artist. This is further proven by the fact that 11 out of 12 Rahatt maps with a leaderboard are osu!taiko maps!
 
@@ -273,7 +273,7 @@ As always, make sure your voice is heard through our monthly polls and (obviousl
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::Des9::{ user=5404711 }, [LaviSorrow](https://osu.ppy.sh/users/9966768), ::Phob::{ user=6069462 }, [Realmaas](https://osu.ppy.sh/users/6567640), and ::Tenshichan::{ user=1101600 }!
+The osu!catch Loved candidates were chosen by ::Des9::{ user=5404711 }, ::LaviSorrow::{ user=9966768 }, ::Phob::{ user=6069462 }, ::Realmaas::{ user=6567640 }, and ::Tenshichan::{ user=1101600 }!
 
 **[Click here to download all of this round's osu!catch picks!](https://packs.ppy.sh/LR54%20-%20Project%20Loved:%20August%202025%20(osu!catch).zip)**
 
@@ -315,7 +315,7 @@ Luckily, Spec decided to re-upload it on their own in 2017, allowing new players
 
 [![](/wiki/shared/news/2025-08-16-project-loved-august-2025/1309669.jpg)](https://osu.ppy.sh/community/forums/topics/2118234)
 
-[$44,000 - S.O.O.S](https://osu.ppy.sh/beatmapsets/1309669#fruits) by ::Noctalium::{ user=6488167 } and [Ttobas](https://osu.ppy.sh/users/2084568)\
+[$44,000 - S.O.O.S](https://osu.ppy.sh/beatmapsets/1309669#fruits) by ::Noctalium::{ user=6488167 } and ::Ttobas::{ user=2084568 }\
 222 BPM, 2:33 | 7.81★, 8.16★\
 The \[meme\] difficulty is *not* being nominated for Loved.\
 *description written by ::Realmaas::{ user=6567640 }*
@@ -330,7 +330,7 @@ It might legitimately be a meme map, but we *love* it, right?
 
 [![](/wiki/shared/news/2025-08-16-project-loved-august-2025/627517.jpg)](https://osu.ppy.sh/community/forums/topics/2118233)
 
-[Getty vs. DJ DiA - Ops:Code-Rapture-](https://osu.ppy.sh/beatmapsets/627517#fruits) by ::Razor Sharp::{ user=3414261 }, [Aerene](https://osu.ppy.sh/users/4818935), ::Divine Cake::{ user=3636998 }, [JierYagtama](https://osu.ppy.sh/users/7483452), ::Mile::{ user=2760954 }, [Moeruattack](https://osu.ppy.sh/users/4480237), and ::Sc4v4ng3r::{ user=4838429 }\
+[Getty vs. DJ DiA - Ops:Code-Rapture-](https://osu.ppy.sh/beatmapsets/627517#fruits) by ::Razor Sharp::{ user=3414261 }, ::Aerene::{ user=4818935 }, ::Divine Cake::{ user=3636998 }, ::JierYagtama::{ user=7483452 }, ::Mile::{ user=2760954 }, ::Moeruattack::{ user=4480237 }, and ::Sc4v4ng3r::{ user=4838429 }\
 195 BPM, 1:50 | 1.49★ – 6.54★\
 The \[MBomb's Ops:Code-INFINITE-\] difficulty is *not* being nominated for Loved.\
 *description written by ::LaviSorrow::{ user=9966768 }*
@@ -339,7 +339,7 @@ The \[MBomb's Ops:Code-INFINITE-\] difficulty is *not* being nominated for Loved
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::elexire::{ user=9206093 }, [LivelyPeninsula](https://osu.ppy.sh/users/11517895), ::Maxus::{ user=4335785 }, [Paturages](https://osu.ppy.sh/users/1375479), ::SunApple::{ user=11817622 }, [taba2](https://osu.ppy.sh/users/7850508), and ::Yuiesta::{ user=13953619 }!
+The osu!mania Loved candidates were chosen by ::elexire::{ user=9206093 }, ::LivelyPeninsula::{ user=11517895 }, ::Maxus::{ user=4335785 }, ::Paturages::{ user=1375479 }, ::SunApple::{ user=11817622 }, ::taba2::{ user=7850508 }, and ::Yuiesta::{ user=13953619 }!
 
 **[Click here to download all of this round's osu!mania picks!](https://packs.ppy.sh/LR53%20-%20Project%20Loved:%20August%202025%20(osu!mania).zip)**
 
@@ -401,14 +401,14 @@ Surely, the community loves a great challenge, and don't worry, there are rates 
 
 [![](/wiki/shared/news/2025-08-16-project-loved-august-2025/1891661.jpg)](https://osu.ppy.sh/community/forums/topics/2118228)
 
-[kessoku band - Bocchi the Rock! 4K LN Songs pack](https://osu.ppy.sh/beatmapsets/1891661#mania) by ::Begin::{ user=10284984 }, [-SoraIro-](https://osu.ppy.sh/users/11493286), ::\[HD\]Draftz::{ user=8890291 }, [Castella](https://osu.ppy.sh/users/4810916), and ::eZmmR::{ user=8647138 }\
+[kessoku band - Bocchi the Rock! 4K LN Songs pack](https://osu.ppy.sh/beatmapsets/1891661#mania) by ::Begin::{ user=10284984 }, ::-SoraIro-::{ user=11493286 }, ::\[HD\]Draftz::{ user=8890291 }, ::Castella::{ user=4810916 }, and ::eZmmR::{ user=8647138 }\
 122 – 193 BPM, 4:26 | 4.55★ – 7.94★\
 The \[delete\] difficulty is *not* being nominated for Loved.\
 *description written by ::elexire::{ user=9206093 }*
 
 The highly anticipated [Bocchi the Rock! 4K LN Songs pack](https://osu.ppy.sh/beatmapsets/1891661#mania/4100606) is finally getting a nomination!
 
-As the pack name suggests, you can expect long-note heavy charts within every single song in this pack. Featuring charts from ::Begin::{ user=10284984 }, [-SoraIro-](https://osu.ppy.sh/users/11493286), ::\[HD\]Draftz::{ user=8890291 }, [Castella](https://osu.ppy.sh/users/4810916), and ::eZmmR::{ user=8647138 }, you can be sure to find at least one song in here that fits your preferences. Well, that's if you play LNs at least...
+As the pack name suggests, you can expect long-note heavy charts within every single song in this pack. Featuring charts from ::Begin::{ user=10284984 }, ::-SoraIro-::{ user=11493286 }, ::\[HD\]Draftz::{ user=8890291 }, ::Castella::{ user=4810916 }, and ::eZmmR::{ user=8647138 }, you can be sure to find at least one song in here that fits your preferences. Well, that's if you play LNs at least...
 
 Chances are you're already familiar with a few names of the mappers in this pack (if you aren't already familiar with the whole pack itself), so it's likely that you might be familiar with the approach to each song. The added OD 3 across every difficulty also makes this a rather lax accuracy challenge for those who aren't too familiar with tough release timings, so you're also able to get a casual-friendly experience if that's what you're seeking!
 

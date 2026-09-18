@@ -13,7 +13,7 @@ Showcased in ::Kert::{ user=119933 }'s 2012 set for [*can't hide your love*](htt
 
 With bleeps and bloops inspired by the video game BGM of yesteryear mixed with tinges of modern electronica, breakcore, punk and rap, his work is a unique blend of a bunch of stuff that just straight up *works*.
 
-The Mappers' Guild has been hard at work creating a few sets to highlight exactly how the magic comes together in more modern mapping styles, piloted by the minds of ::Mirash::{ user=2841009 } and [ShirohaMyMommy](https://osu.ppy.sh/users/1603923) (aka: Delis).
+The Mappers' Guild has been hard at work creating a few sets to highlight exactly how the magic comes together in more modern mapping styles, piloted by the minds of ::Mirash::{ user=2841009 } and ::ShirohaMyMommy::{ user=1603923 } (aka: Delis).
 
 Sound interesting? Check out a few samples for yourself below:
 

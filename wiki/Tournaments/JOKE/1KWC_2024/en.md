@@ -59,38 +59,38 @@ tags:
 
 |  | Country | Members |
 | :-: | :-: | :-- |
-| ::{ flag=CA }:: | **99% Canadian** | **::ERA Sunny::{ user=16468962 }**, [DimplesRMe](https://osu.ppy.sh/users/13348268), ::Verdon::{ user=14196373 } |
-| ::{ flag=AU }:: | **Australia-A** | **::Sparxe::{ user=5750235 }**, [\[Iron\]](https://osu.ppy.sh/users/13171482), ::Blobby3000::{ user=6916774 }, [r1chyy](https://osu.ppy.sh/users/11499467), ::Foolharded::{ user=27394972 } |
-| ::{ flag=AU }:: | **Australia-B** | **::Tsubasa2::{ user=6835183 }**, [Eresh](https://osu.ppy.sh/users/8259292), ::XimperiaL::{ user=11883100 }, [5ixty](https://osu.ppy.sh/users/18321104) |
-| ::{ flag=BR }:: | **Brazil** | **::Brasil::{ user=3949268 }**, [Pluko](https://osu.ppy.sh/users/15813305), ::SillyFangirl::{ user=2288363 }, [Warpzoned](https://osu.ppy.sh/users/18649724) |
-| ::{ flag=CA }:: | **Canada** | **::femboy nixii-::{ user=24834393 }**, [MCGjazz](https://osu.ppy.sh/users/25978378), ::Nokia\1420::{ user=29944977 }, [tulipily](https://osu.ppy.sh/users/25764990) |
-| ::{ flag=CN }:: | **China** | **::WLYMinato::{ user=12703319 }**, [Ookura Risona](https://osu.ppy.sh/users/2073644), ::laisbgvi::{ user=7241253 }, [FORMless000](https://osu.ppy.sh/users/8697654), ::Lubei\101::{ user=11692528 } |
-| ::{ flag=CZ }:: | **Czechoslovakia** | **::Kiruliatkoska::{ user=13013350 }**, [FlipRopiik](https://osu.ppy.sh/users/10806437), ::Ticy::{ user=15142530 }, [Domajnyk Pear](https://osu.ppy.sh/users/13941662), ::grillroasted::{ user=18271627 } |
-|  | **East Europe** | **::1qxz::{ user=24641997 }**, [SumaFora](https://osu.ppy.sh/users/34824044), ::GloWer::{ user=15442379 }, [lefruitit227](https://osu.ppy.sh/users/5774467), ::TomisNotGood::{ user=16360055 } |
-| ::{ flag=FR }:: | **France** | **::Adri::{ user=4579132 }**, [Paturages](https://osu.ppy.sh/users/1375479), ::PatouZ::{ user=7306522 }, [Le_Zozoien](https://osu.ppy.sh/users/25354335), ::Chernobog::{ user=3317042 } |
-| ::{ flag=DE }:: | **Germany-A** | **::ERA Punish::{ user=10615367 }**, [ERA Sirbeyy](https://osu.ppy.sh/users/12917829), ::ERA medium kek::{ user=11625617 }, [ERA Aracium](https://osu.ppy.sh/users/15882740), ::datnonameboi::{ user=14217761 } |
-| ::{ flag=DE }:: | **Germany-B** | **::Neqoo::{ user=5035932 }**, [Bayern](https://osu.ppy.sh/users/16474595), ::YasiCreeper::{ user=15586183 }, [Jesus Christus](https://osu.ppy.sh/users/14661718) |
-| ::{ flag=HK }:: | **Hong Kong** | **::DC2\1727::{ user=17483369 }**, [fua](https://osu.ppy.sh/users/21138904), ::HKGamerNoob::{ user=18470402 } |
-| ::{ flag=ID }:: | **Indonesia** | **::Reihynn::{ user=16630515 }**, [iSxga](https://osu.ppy.sh/users/15801261), ::IzKun-::{ user=9104881 }, [AzusaNakano2](https://osu.ppy.sh/users/9821346), ::Lightning Wyvern::{ user=1533122 } |
-| ::{ flag=IE }:: | **Ireland** | **::-uyetb-::{ user=22945300 }**, [\[LS\]Nightkore](https://osu.ppy.sh/users/26311862) |
-| ::{ flag=IT }:: | **Italian Plumbers** | **::D3kuu::{ user=7807444 }**, [ndrrr](https://osu.ppy.sh/users/4609767), ::Ikkun::{ user=1059945 }, [A-40](https://osu.ppy.sh/users/14510301), ::ERA Veryi::{ user=13878539 } |
-| ::{ flag=IT }:: | **Italy** | **::24Marzo::{ user=17952001 }**, [\[SPNG\] Sim0](https://osu.ppy.sh/users/3262821), ::\[SPNG\]Tom::{ user=6083660 }, [NeSsUnO-_-](https://osu.ppy.sh/users/14374361), ::Kiraz::{ user=3807675 } |
-| ::{ flag=JP }:: | **Japan** | **::Grape\1Tea::{ user=9540073 }**, [Maimaing](https://osu.ppy.sh/users/14520910), ::hz404::{ user=14947043 }, [dectopia](https://osu.ppy.sh/users/2845904), ::akumufangirl::{ user=6198876 } |
-| ::{ flag=MY }:: | **Malaysia-A** | **::ERA Leon::{ user=13382147 }**, [Fuuneral](https://osu.ppy.sh/users/31042682), ::Minisora::{ user=9627666 }, [K0rd31HP](https://osu.ppy.sh/users/15231510), ::CJPGaming::{ user=26377628 } |
-| ::{ flag=MY }:: | **Malaysia-B** | **::Onlinee::{ user=13630137 }**, [DXA FonG](https://osu.ppy.sh/users/15019527), ::Drysilas::{ user=16766719 } |
-| ::{ flag=MX }:: | **Mexico** | **::ElzeFanBoy::{ user=15513303 }**, [happergamer](https://osu.ppy.sh/users/15513319), ::Darkhechiser::{ user=23392961 }, [\[LS\]Mari](https://osu.ppy.sh/users/15270411), ::ERA GulMyMummy::{ user=15186865 } |
-| ::{ flag=NL }:: | **Netherlands** | **::Shoira::{ user=13377652 }**, [Freek](https://osu.ppy.sh/users/9630674), ::Boaz::{ user=13302996 }, [samuelhklumpers](https://osu.ppy.sh/users/10945523) |
-| ::{ flag=NO }:: | **Norway** | **::Crustbell::{ user=7859738 }**, [Mills](https://osu.ppy.sh/users/7234023), ::Ziquids::{ user=10972799 }, [xxxbruhmanxxx](https://osu.ppy.sh/users/23726452) |
-| ::{ flag=PE }:: | **Peru** | **::alemagno333::{ user=11411697 }**, [Dinki](https://osu.ppy.sh/users/23361435), ::Brunixxx::{ user=16517079 } |
-| ::{ flag=SG }:: | **Singapore Adam** | **::TheFunk::{ user=13981991 }**, [ERA Adam](https://osu.ppy.sh/users/12297375), ::skythedumbdumb::{ user=21749745 }, [chairless](https://osu.ppy.sh/users/26031453), ::pwod::{ user=20846896 } |
-| ::{ flag=SG }:: | **Singapore Blerargh** | **::\1gt::{ user=8301957 }**, [Blerargh](https://osu.ppy.sh/users/7609510), ::Prehistoria::{ user=8364237 }, [dantoh00](https://osu.ppy.sh/users/11414361), ::Rycy::{ user=7394522 } |
-| ::{ flag=KR }:: | **South Korea** | **::Selitation::{ user=25311011 }**, [South Korea](https://osu.ppy.sh/users/12242622), ::PocaFanboy::{ user=6912079 }, [PocaFangirl](https://osu.ppy.sh/users/18278945), ::Pocafanboyfan::{ user=10344857 } |
-| ::{ flag=GB }:: | **United Kingdom** | **::Teezel::{ user=7528639 }**, [--Dragon--](https://osu.ppy.sh/users/11924624), ::Eliminate::{ user=9169747 }, [MiniEgg_23](https://osu.ppy.sh/users/25914360), ::Zoobin4::{ user=10055204 } |
-| ::{ flag=US }:: | **United States-A** | **::Sydosys::{ user=17523947 }**, [ForestMastr](https://osu.ppy.sh/users/9199901), ::La Fluffy::{ user=7001787 }, [\[LS\]Gavin](https://osu.ppy.sh/users/10888689), ::Jakson::{ user=8788058 } |
-| ::{ flag=US }:: | **United States-B** | **::DeltaNami::{ user=10352045 }**, [cyger](https://osu.ppy.sh/users/20020441), ::Sparky::{ user=3187959 }, [Backfire](https://osu.ppy.sh/users/263110) |
-| ::{ flag=US }:: | **United States-C** | **::-Daku::{ user=6377828 }**, [AdrianLazer](https://osu.ppy.sh/users/10292643), ::ERA Basil::{ user=7097990 }, [OSUjanaiKATSURAda](https://osu.ppy.sh/users/2154499), ::-Kori::{ user=12490530 } |
-| ::{ flag=VN }:: | **Vietnam-A** | **::Lott::{ user=13821222 }**, [RandomNameIdk](https://osu.ppy.sh/users/24042710), ::\[LS\]Tokiyume::{ user=13219309 }, [nahieu2005](https://osu.ppy.sh/users/22069182), ::Cessna::{ user=16868806 } |
-| ::{ flag=VN }:: | **Vietnam-B** | **::Walker37712::{ user=30644569 }**, [ldminh4354](https://osu.ppy.sh/users/30855778), ::aiyern::{ user=13826244 } |
+| ::{ flag=CA }:: | **99% Canadian** | **::ERA Sunny::{ user=16468962 }**, ::DimplesRMe::{ user=13348268 }, ::Verdon::{ user=14196373 } |
+| ::{ flag=AU }:: | **Australia-A** | **::Sparxe::{ user=5750235 }**, ::\[Iron\]::{ user=13171482 }, ::Blobby3000::{ user=6916774 }, ::r1chyy::{ user=11499467 }, ::Foolharded::{ user=27394972 } |
+| ::{ flag=AU }:: | **Australia-B** | **::Tsubasa2::{ user=6835183 }**, ::Eresh::{ user=8259292 }, ::XimperiaL::{ user=11883100 }, ::5ixty::{ user=18321104 } |
+| ::{ flag=BR }:: | **Brazil** | **::Brasil::{ user=3949268 }**, ::Pluko::{ user=15813305 }, ::SillyFangirl::{ user=2288363 }, ::Warpzoned::{ user=18649724 } |
+| ::{ flag=CA }:: | **Canada** | **::femboy nixii-::{ user=24834393 }**, ::MCGjazz::{ user=25978378 }, ::Nokia\1420::{ user=29944977 }, ::tulipily::{ user=25764990 } |
+| ::{ flag=CN }:: | **China** | **::WLYMinato::{ user=12703319 }**, ::Ookura Risona::{ user=2073644 }, ::laisbgvi::{ user=7241253 }, ::FORMless000::{ user=8697654 }, ::Lubei\101::{ user=11692528 } |
+| ::{ flag=CZ }:: | **Czechoslovakia** | **::Kiruliatkoska::{ user=13013350 }**, ::FlipRopiik::{ user=10806437 }, ::Ticy::{ user=15142530 }, ::Domajnyk Pear::{ user=13941662 }, ::grillroasted::{ user=18271627 } |
+|  | **East Europe** | **::1qxz::{ user=24641997 }**, ::SumaFora::{ user=34824044 }, ::GloWer::{ user=15442379 }, ::lefruitit227::{ user=5774467 }, ::TomisNotGood::{ user=16360055 } |
+| ::{ flag=FR }:: | **France** | **::Adri::{ user=4579132 }**, ::Paturages::{ user=1375479 }, ::PatouZ::{ user=7306522 }, ::Le\1Zozoien::{ user=25354335 }, ::Chernobog::{ user=3317042 } |
+| ::{ flag=DE }:: | **Germany-A** | **::ERA Punish::{ user=10615367 }**, ::ERA Sirbeyy::{ user=12917829 }, ::ERA medium kek::{ user=11625617 }, ::ERA Aracium::{ user=15882740 }, ::datnonameboi::{ user=14217761 } |
+| ::{ flag=DE }:: | **Germany-B** | **::Neqoo::{ user=5035932 }**, ::Bayern::{ user=16474595 }, ::YasiCreeper::{ user=15586183 }, ::Jesus Christus::{ user=14661718 } |
+| ::{ flag=HK }:: | **Hong Kong** | **::DC2\1727::{ user=17483369 }**, ::fua::{ user=21138904 }, ::HKGamerNoob::{ user=18470402 } |
+| ::{ flag=ID }:: | **Indonesia** | **::Reihynn::{ user=16630515 }**, ::iSxga::{ user=15801261 }, ::IzKun-::{ user=9104881 }, ::AzusaNakano2::{ user=9821346 }, ::Lightning Wyvern::{ user=1533122 } |
+| ::{ flag=IE }:: | **Ireland** | **::-uyetb-::{ user=22945300 }**, ::\[LS\]Nightkore::{ user=26311862 } |
+| ::{ flag=IT }:: | **Italian Plumbers** | **::D3kuu::{ user=7807444 }**, ::ndrrr::{ user=4609767 }, ::Ikkun::{ user=1059945 }, ::A-40::{ user=14510301 }, ::ERA Veryi::{ user=13878539 } |
+| ::{ flag=IT }:: | **Italy** | **::24Marzo::{ user=17952001 }**, ::\[SPNG\] Sim0::{ user=3262821 }, ::\[SPNG\]Tom::{ user=6083660 }, ::NeSsUnO-\1-::{ user=14374361 }, ::Kiraz::{ user=3807675 } |
+| ::{ flag=JP }:: | **Japan** | **::Grape\1Tea::{ user=9540073 }**, ::Maimaing::{ user=14520910 }, ::hz404::{ user=14947043 }, ::dectopia::{ user=2845904 }, ::akumufangirl::{ user=6198876 } |
+| ::{ flag=MY }:: | **Malaysia-A** | **::ERA Leon::{ user=13382147 }**, ::Fuuneral::{ user=31042682 }, ::Minisora::{ user=9627666 }, ::K0rd31HP::{ user=15231510 }, ::CJPGaming::{ user=26377628 } |
+| ::{ flag=MY }:: | **Malaysia-B** | **::Onlinee::{ user=13630137 }**, ::DXA FonG::{ user=15019527 }, ::Drysilas::{ user=16766719 } |
+| ::{ flag=MX }:: | **Mexico** | **::ElzeFanBoy::{ user=15513303 }**, ::happergamer::{ user=15513319 }, ::Darkhechiser::{ user=23392961 }, ::\[LS\]Mari::{ user=15270411 }, ::ERA GulMyMummy::{ user=15186865 } |
+| ::{ flag=NL }:: | **Netherlands** | **::Shoira::{ user=13377652 }**, ::Freek::{ user=9630674 }, ::Boaz::{ user=13302996 }, ::samuelhklumpers::{ user=10945523 } |
+| ::{ flag=NO }:: | **Norway** | **::Crustbell::{ user=7859738 }**, ::Mills::{ user=7234023 }, ::Ziquids::{ user=10972799 }, ::xxxbruhmanxxx::{ user=23726452 } |
+| ::{ flag=PE }:: | **Peru** | **::alemagno333::{ user=11411697 }**, ::Dinki::{ user=23361435 }, ::Brunixxx::{ user=16517079 } |
+| ::{ flag=SG }:: | **Singapore Adam** | **::TheFunk::{ user=13981991 }**, ::ERA Adam::{ user=12297375 }, ::skythedumbdumb::{ user=21749745 }, ::chairless::{ user=26031453 }, ::pwod::{ user=20846896 } |
+| ::{ flag=SG }:: | **Singapore Blerargh** | **::\1gt::{ user=8301957 }**, ::Blerargh::{ user=7609510 }, ::Prehistoria::{ user=8364237 }, ::dantoh00::{ user=11414361 }, ::Rycy::{ user=7394522 } |
+| ::{ flag=KR }:: | **South Korea** | **::Selitation::{ user=25311011 }**, ::South Korea::{ user=12242622 }, ::PocaFanboy::{ user=6912079 }, ::PocaFangirl::{ user=18278945 }, ::Pocafanboyfan::{ user=10344857 } |
+| ::{ flag=GB }:: | **United Kingdom** | **::Teezel::{ user=7528639 }**, ::--Dragon--::{ user=11924624 }, ::Eliminate::{ user=9169747 }, ::MiniEgg\123::{ user=25914360 }, ::Zoobin4::{ user=10055204 } |
+| ::{ flag=US }:: | **United States-A** | **::Sydosys::{ user=17523947 }**, ::ForestMastr::{ user=9199901 }, ::La Fluffy::{ user=7001787 }, ::\[LS\]Gavin::{ user=10888689 }, ::Jakson::{ user=8788058 } |
+| ::{ flag=US }:: | **United States-B** | **::DeltaNami::{ user=10352045 }**, ::cyger::{ user=20020441 }, ::Sparky::{ user=3187959 }, ::Backfire::{ user=263110 } |
+| ::{ flag=US }:: | **United States-C** | **::-Daku::{ user=6377828 }**, ::AdrianLazer::{ user=10292643 }, ::ERA Basil::{ user=7097990 }, ::OSUjanaiKATSURAda::{ user=2154499 }, ::-Kori::{ user=12490530 } |
+| ::{ flag=VN }:: | **Vietnam-A** | **::Lott::{ user=13821222 }**, ::RandomNameIdk::{ user=24042710 }, ::\[LS\]Tokiyume::{ user=13219309 }, ::nahieu2005::{ user=22069182 }, ::Cessna::{ user=16868806 } |
+| ::{ flag=VN }:: | **Vietnam-B** | **::Walker37712::{ user=30644569 }**, ::ldminh4354::{ user=30855778 }, ::aiyern::{ user=13826244 } |
 
 ## Podium
 
@@ -98,9 +98,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=JP }:: **Japan** (**::Grape\1Tea::{ user=9540073 }**, [Maimaing](https://osu.ppy.sh/users/14520910), ::hz404::{ user=14947043 }, [dectopia](https://osu.ppy.sh/users/2845904), ::akumufangirl::{ user=6198876 }) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: **United Kingdom** (**::Teezel::{ user=7528639 }**, [--Dragon--](https://osu.ppy.sh/users/11924624), ::Eliminate::{ user=9169747 }, [MiniEgg_23](https://osu.ppy.sh/users/25914360), ::Zoobin4::{ user=10055204 }) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=AU }:: **Australia-A** (**::Sparxe::{ user=5750235 }**, [\[Iron\]](https://osu.ppy.sh/users/13171482), ::Blobby3000::{ user=6916774 }, [r1chyy](https://osu.ppy.sh/users/11499467), ::Foolharded::{ user=27394972 }) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=JP }:: **Japan** (**::Grape\1Tea::{ user=9540073 }**, ::Maimaing::{ user=14520910 }, ::hz404::{ user=14947043 }, ::dectopia::{ user=2845904 }, ::akumufangirl::{ user=6198876 }) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: **United Kingdom** (**::Teezel::{ user=7528639 }**, ::--Dragon--::{ user=11924624 }, ::Eliminate::{ user=9169747 }, ::MiniEgg\123::{ user=25914360 }, ::Zoobin4::{ user=10055204 }) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=AU }:: **Australia-A** (**::Sparxe::{ user=5750235 }**, ::\[Iron\]::{ user=13171482 }, ::Blobby3000::{ user=6916774 }, ::r1chyy::{ user=11499467 }, ::Foolharded::{ user=27394972 }) |
 
 ![](img/podium.jpg "1KWC 2024 podium")
 

@@ -67,7 +67,7 @@ FaiVillager flies into this universe with his hypertechnical, high 7-star map of
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [iceOC](https://osu.ppy.sh/users/5482401), ::jyake::{ user=9099822 }, [nyanmi-1828](https://osu.ppy.sh/users/6866480) and ::Ulqui::{ user=1263669 }!
+osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::iceOC::{ user=5482401 }, ::jyake::{ user=9099822 }, ::nyanmi-1828::{ user=6866480 } and ::Ulqui::{ user=1263669 }!
 
 ---
 
@@ -89,7 +89,7 @@ Tech maps with the right balance of pattern choice can be hard to find. Too repe
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Tenshichan::{ user=1101600 }, [Sartan](https://osu.ppy.sh/users/4100941), ::Wesley::{ user=2407265 } and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
+osu!catch Loved candidates were chosen by ::Tenshichan::{ user=1101600 }, ::Sartan::{ user=4100941 }, ::Wesley::{ user=2407265 } and ::Yumeno Himiko::{ user=1806962 }!
 
 ---
 
@@ -111,7 +111,7 @@ Known for his evil and high-spacing jumps, F D Flourite is a maverick mapper wit
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::Shoegazer::{ user=2520707 }, [lenpai](https://osu.ppy.sh/users/5314573), ::Pope Gadget::{ user=2288341 } and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
+osu!mania Loved candidates were chosen by ::Shoegazer::{ user=2520707 }, ::lenpai::{ user=5314573 }, ::Pope Gadget::{ user=2288341 } and ::Toaph Daddy::{ user=7616811 }!
 
 ---
 
@@ -128,7 +128,7 @@ There aren't too many tracks out there that would justifiably call for densely l
 
 [![](/wiki/shared/news/2019-10-29-project-loved-week-of-october-27th/mania/2-slow-dancing-in-the-dark.jpg)](https://osu.ppy.sh/community/forums/topics/978939)
 
-[Joji - SLOW DANCING IN THE DARK](https://osu.ppy.sh/beatmapsets/869760#mania) by ::Shoegazer::{ user=2520707 } and [Valedict](https://osu.ppy.sh/users/2537082)\
+[Joji - SLOW DANCING IN THE DARK](https://osu.ppy.sh/beatmapsets/869760#mania) by ::Shoegazer::{ user=2520707 } and ::Valedict::{ user=2537082 }\
 98 BPM, 3:26 | \[4K\] 4.16★, \[4K\] 4.52★, \[4K\] 4.87★, \[4K\] 5.22★, \[4K\] 5.57★
 
 Two well-known figures in the charting community—Shoegazer and Valedict—collaborate for their next contribution to the osu!mania Loved section. *SLOW DANCING IN THE DARK* is an experience that can't be found easily in this game or elsewhere in rhythm games. Dumps (and especially well-structured and fun dumps) are difficult to find, considering the many elements and possibilities that can go into patterning and rhythm choices. These two veterans, however, do a wonderful job of encapsulating both the mood and intensity of the song through this approach and effectively tie together the chart through repeated placements of doubles for specific sounds, mini-anchors to emphasize syllable movement in the vocals, satisfying mini-LNs and normal LNs, and pitch relevance throughout which are especially noticeable in the piano. Each of these elements come together to build up from a rather slow beginning and intro to the chorus into an extremely intense finish, encapsulating many elements and bumping the speed up to match the extreme nature of the song. Ultimately, the duo brings a fun and satisfying approach to a very smooth and dynamic song—something recognized by many players and something to be recognized by many more with its nomination for the Loved section.
@@ -146,7 +146,7 @@ The patterning is semi-rigid, which suits the mild breakcore-ish nature of the t
 
 From everyone on the Project Loved team, we hope you enjoyed this week's selection, and are looking forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
-In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Noffy::{ user=1541323 }, [PsychoStatic](https://osu.ppy.sh/users/7291594), ::huu::{ user=6044237 } and [Ephemeral](https://osu.ppy.sh/users/102335) for their miscellaneous help in managing Project Loved.
+In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Noffy::{ user=1541323 }, ::PsychoStatic::{ user=7291594 }, ::huu::{ user=6044237 } and ::Ephemeral::{ user=102335 } for their miscellaneous help in managing Project Loved.
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! You can view the current submissions on the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0). For osu!mania, please use [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSeaGfoQNGMqw4qQcqRPItUZILh2fGwJR6ly6cZNY9OWPXkFhw/viewform) and [this Google sheet](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit) instead.
 

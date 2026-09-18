@@ -46,7 +46,7 @@ Each pack consists of a curated selection of beatmaps that were added to Loved i
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::Aistre::{ user=4879380 }, [Kingling](https://osu.ppy.sh/users/7010761), ::Librarian::{ user=10083084 }, [megumic](https://osu.ppy.sh/users/7537133), ::rHO::{ user=1629553 }, and [Skill](https://osu.ppy.sh/users/7802027)!
+The osu! Loved candidates were chosen by ::Aistre::{ user=4879380 }, ::Kingling::{ user=7010761 }, ::Librarian::{ user=10083084 }, ::megumic::{ user=7537133 }, ::rHO::{ user=1629553 }, and ::Skill::{ user=7802027 }!
 
 <div align="center">
   <video width="95%" controls>
@@ -135,7 +135,7 @@ With brand-spanking new visuals and gimmicks, accompanied by a beautiful track t
 
 [![](/wiki/shared/news/2023-10-22-project-loved-october-2023/670479.jpg)](https://osu.ppy.sh/community/forums/topics/1836002)
 
-[singapore - gang poem](https://osu.ppy.sh/beatmapsets/670479#osu) by ::Histoire::{ user=3801463 }, [emilia](https://osu.ppy.sh/users/2003326), ::P4ndemonium::{ user=6639059 }, [Soba Noodles](https://osu.ppy.sh/users/3010281), and ::wailord2700::{ user=189091 }\
+[singapore - gang poem](https://osu.ppy.sh/beatmapsets/670479#osu) by ::Histoire::{ user=3801463 }, ::emilia::{ user=2003326 }, ::P4ndemonium::{ user=6639059 }, ::Soba Noodles::{ user=3010281 }, and ::wailord2700::{ user=189091 }\
 152.5 BPM, 2:17 | 4.80★ – 5.72★\
 *description written by ::megumic::{ user=7537133 }*
 
@@ -149,7 +149,7 @@ With its full mapset spread ranging only from 4.8★ to 5.4★, *gang poem* can 
 
 [![](/wiki/shared/news/2023-10-22-project-loved-october-2023/1101023.jpg)](https://osu.ppy.sh/community/forums/topics/1836001)
 
-[Shirakami Fubuki - Say! Fanfare!](https://osu.ppy.sh/beatmapsets/1101023#osu) by ::Amateurre::{ user=7326908 }, [Hikan](https://osu.ppy.sh/users/7968702), and ::Senko-san::{ user=2065771 }\
+[Shirakami Fubuki - Say! Fanfare!](https://osu.ppy.sh/beatmapsets/1101023#osu) by ::Amateurre::{ user=7326908 }, ::Hikan::{ user=7968702 }, and ::Senko-san::{ user=2065771 }\
 170 BPM, 4:09 | 2.32★, 3.77★, 5.06★\
 *description written by ::Librarian::{ user=10083084 }*
 
@@ -167,7 +167,7 @@ Do you know what to build on Shirakami Fubuki in Holocure? I have been strugglin
 
 [![](/wiki/shared/news/2023-10-22-project-loved-october-2023/1289795.jpg)](https://osu.ppy.sh/community/forums/topics/1836000)
 
-[Studio EIM - Second Warning](https://osu.ppy.sh/beatmapsets/1289795#osu) by ::BinahBestWoman::{ user=11279775 }, [kuyusu](https://osu.ppy.sh/users/11758667), and ::WWWWWWWWWWWWWW::{ user=5108681 }\
+[Studio EIM - Second Warning](https://osu.ppy.sh/beatmapsets/1289795#osu) by ::BinahBestWoman::{ user=11279775 }, ::kuyusu::{ user=11758667 }, and ::WWWWWWWWWWWWWW::{ user=5108681 }\
 182 BPM, 2:51 | 2.52★ – 7.20★\
 *description written by ::Librarian::{ user=10083084 }*
 
@@ -202,7 +202,7 @@ an introduction to this one; the names of the mappers speak for themselves. High
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::aceticke::{ user=8838763 }, [Boaz](https://osu.ppy.sh/users/13302996), ::Eriha::{ user=16320311 }, [Gamelan4](https://osu.ppy.sh/users/9856910), ::Horiiizon::{ user=8071438 }, [ler1211](https://osu.ppy.sh/users/19901680), and ::Sebola::{ user=15821708 }!
+The osu!taiko Loved candidates were chosen by ::aceticke::{ user=8838763 }, ::Boaz::{ user=13302996 }, ::Eriha::{ user=16320311 }, ::Gamelan4::{ user=9856910 }, ::Horiiizon::{ user=8071438 }, ::ler1211::{ user=19901680 }, and ::Sebola::{ user=15821708 }!
 
 <div align="center">
   <video width="95%" controls>
@@ -242,11 +242,11 @@ Now, it's up to you. Make sure to give it one, two, or even a hundred tries if y
 
 [![](/wiki/shared/news/2023-10-22-project-loved-october-2023/1778216.jpg)](https://osu.ppy.sh/community/forums/topics/1835994)
 
-[pencil vs. katagiri - you love this track (hello, otaku)](https://osu.ppy.sh/beatmapsets/1778216#taiko) by ::KawaiiBass::{ user=11992585 } and [Waribashi](https://osu.ppy.sh/users/2250574)\
+[pencil vs. katagiri - you love this track (hello, otaku)](https://osu.ppy.sh/beatmapsets/1778216#taiko) by ::KawaiiBass::{ user=11992585 } and ::Waribashi::{ user=2250574 }\
 280 BPM, 5:09 | 8.25★\
 *description written by ::Boaz::{ user=13302996 }*
 
-Prepare yourself to face the biggest challenge, pencil and katagiri's [you love this track (hello, otaku)](https://osu.ppy.sh/beatmapsets/1778216), a map that's been rising in popularity since back in early 2022. This collab by ::KawaiiBass::{ user=11992585 } and [Waribashi](https://osu.ppy.sh/users/2250574) (formerly known as KTYN) is an extreme test of your skills, especially in the stamina department.
+Prepare yourself to face the biggest challenge, pencil and katagiri's [you love this track (hello, otaku)](https://osu.ppy.sh/beatmapsets/1778216), a map that's been rising in popularity since back in early 2022. This collab by ::KawaiiBass::{ user=11992585 } and ::Waribashi::{ user=2250574 } (formerly known as KTYN) is an extreme test of your skills, especially in the stamina department.
 
 Don't be fooled by the innocent title: this map is not for the faint of heart. With an outstanding 5 full minutes of high BPM, it demands a very high level of skill.
 
@@ -274,7 +274,7 @@ Let's play now! Have fun! <3
 
 [![](/wiki/shared/news/2023-10-22-project-loved-october-2023/1609660.jpg)](https://osu.ppy.sh/community/forums/topics/1835991)
 
-[Various Artists - Stream Challenge Pack](https://osu.ppy.sh/beatmapsets/1609660#taiko) by ::KawaiiBass::{ user=11992585 }, [4sbet1](https://osu.ppy.sh/users/11563671), ::aHTaoN::{ user=4655546 }, and [My Angel Koishi](https://osu.ppy.sh/users/8273098)\
+[Various Artists - Stream Challenge Pack](https://osu.ppy.sh/beatmapsets/1609660#taiko) by ::KawaiiBass::{ user=11992585 }, ::4sbet1::{ user=11563671 }, ::aHTaoN::{ user=4655546 }, and ::My Angel Koishi::{ user=8273098 }\
 175 – 305.59 BPM, 5:48 | 5.87★ – 9.80★\
 The \[DELETE THIS\] difficulty is *not* being nominated for Loved.\
 *description written by ::Sebola::{ user=15821708 }*
@@ -285,7 +285,7 @@ Prepare your stamina and reading, as [Stream Challenge Pack](https://osu.ppy.sh/
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::Dahcreeper::{ user=6926006 }, [Kasumi-sama](https://osu.ppy.sh/users/6177263), ::Secre::{ user=2306637 }, and [Tenshichan](https://osu.ppy.sh/users/1101600)!
+The osu!catch Loved candidates were chosen by ::Dahcreeper::{ user=6926006 }, ::Kasumi-sama::{ user=6177263 }, ::Secre::{ user=2306637 }, and ::Tenshichan::{ user=1101600 }!
 
 <div align="center">
   <video width="95%" controls>
@@ -345,7 +345,7 @@ Make sure to have everything enabled when playing this map to ensure the full ex
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::-NoName-::{ user=10400730 }, [elexire](https://osu.ppy.sh/users/9206093), ::kadoen::{ user=12780575 }, [Mipha-](https://osu.ppy.sh/users/5767941), ::Paturages::{ user=1375479 }, [Remuring](https://osu.ppy.sh/users/6522146), ::SunApple::{ user=11817622 }, and [YuEast 2018](https://osu.ppy.sh/users/13953619)!
+The osu!mania Loved candidates were chosen by ::-NoName-::{ user=10400730 }, ::elexire::{ user=9206093 }, ::kadoen::{ user=12780575 }, ::Mipha-::{ user=5767941 }, ::Paturages::{ user=1375479 }, ::Remuring::{ user=6522146 }, ::SunApple::{ user=11817622 }, and ::YuEast 2018::{ user=13953619 }!
 
 <div align="center">
   <video width="95%" controls>
@@ -425,7 +425,7 @@ If technical accuracy that remains faithful to the song is something you value, 
 
 [![](/wiki/shared/news/2023-10-22-project-loved-october-2023/973116.jpg)](https://osu.ppy.sh/community/forums/topics/1835981)
 
-[DragonForce - Through the Fire and Flames](https://osu.ppy.sh/beatmapsets/973116#mania) by ::cosmospice::{ user=10780587 } and [tippies](https://osu.ppy.sh/users/17661062)\
+[DragonForce - Through the Fire and Flames](https://osu.ppy.sh/beatmapsets/973116#mania) by ::cosmospice::{ user=10780587 } and ::tippies::{ user=17661062 }\
 200 BPM, 7:21 | 3.34★, 4.37★, 4.85★\
 *description written by ::SunApple::{ user=11817622 }*
 
@@ -465,11 +465,11 @@ Of course, this pick has some rates on it too, so you can go for very high-accur
 
 [![](/wiki/shared/news/2023-10-22-project-loved-october-2023/1544574.jpg)](https://osu.ppy.sh/community/forums/topics/1835978)
 
-[Camellia - Electromagnetic Stealth Girl Born In Philadelphia](https://osu.ppy.sh/beatmapsets/1544574#mania) by ::paradoxus\_::{ user=11185275 } and [Kawawa](https://osu.ppy.sh/users/4647754)\
+[Camellia - Electromagnetic Stealth Girl Born In Philadelphia](https://osu.ppy.sh/beatmapsets/1544574#mania) by ::paradoxus\_::{ user=11185275 } and ::Kawawa::{ user=4647754 }\
 132 BPM, 4:42 | 6.39★, 6.99★\
 *description written by ::-NoName-::{ user=10400730 }*
 
-::paradoxus\_::{ user=11185275 } and [Kawawa](https://osu.ppy.sh/users/4647754) both return to the Loved voting at the same time with their collaboration chart of Camellia's [Electromagnetic Stealth Girl Born In Philadelphia](https://osu.ppy.sh/beatmapsets/1544574#mania)!
+::paradoxus\_::{ user=11185275 } and ::Kawawa::{ user=4647754 } both return to the Loved voting at the same time with their collaboration chart of Camellia's [Electromagnetic Stealth Girl Born In Philadelphia](https://osu.ppy.sh/beatmapsets/1544574#mania)!
 
 This set is anything but straightforward. The original collab difficulty has dense speed and jack patterns interspersed with LNs, making this a very rude chart overall. It is difficult to hold combo.
 

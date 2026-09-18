@@ -24,7 +24,7 @@ With that out of the way, let's move onto the maps!
 
 ## osu!
 
-osu! Loved candidates were chosen by ::Bubbleman::{ user=5182050 }, [DigitalHypno](https://osu.ppy.sh/users/4384207) and ::waywern2012::{ user=5870453 }! This round, all osu! beatmap descriptions were written by ::Bubbleman::{ user=5182050 }.
+osu! Loved candidates were chosen by ::Bubbleman::{ user=5182050 }, ::DigitalHypno::{ user=4384207 } and ::waywern2012::{ user=5870453 }! This round, all osu! beatmap descriptions were written by ::Bubbleman::{ user=5182050 }.
 
 ---
 
@@ -50,7 +50,7 @@ If you've never heard this remix before you owe it to yourself to give it at lea
 
 [![](/wiki/shared/news/2021-04-20-project-loved-april-2021/647615.jpg)](https://osu.ppy.sh/community/forums/topics/1302018)
 
-[EBIMAYO - GOODBOUNCE](https://osu.ppy.sh/beatmapsets/647615#osu) by ::NyarkoO::{ user=6622567 } and [Nyantiaz](https://osu.ppy.sh/users/6223841)\
+[EBIMAYO - GOODBOUNCE](https://osu.ppy.sh/beatmapsets/647615#osu) by ::NyarkoO::{ user=6622567 } and ::Nyantiaz::{ user=6223841 }\
 180 BPM, 2:09 | 2.13★, 5.82★, 6.47★
 
 The star rating says 5.82\*, but don't let that one fool you - this one is a real challenge. Many different rhythmic ideas are featured in this song, and the map definitely captures all of them in good fashion, not letting any high spacing overwhelm the complexity of the song, and if you know EBIMAYO then you'll know this song is top notch.
@@ -88,7 +88,7 @@ Now, in 2021, players have finally caught up to the skill this bit of ancient hi
 
 [![](/wiki/shared/news/2021-04-20-project-loved-april-2021/53813.jpg)](https://osu.ppy.sh/community/forums/topics/1302014)
 
-[DJ Fresh - Gold Dust (Sonic Entropy Remix)](https://osu.ppy.sh/beatmapsets/53813#osu) by ::galvenize::{ user=381444 } and [kriers](https://osu.ppy.sh/users/333241)\
+[DJ Fresh - Gold Dust (Sonic Entropy Remix)](https://osu.ppy.sh/beatmapsets/53813#osu) by ::galvenize::{ user=381444 } and ::kriers::{ user=333241 }\
 175 BPM, 4:25 | 3.94★, 5.76★
 
 We have to ask ourselves this: is osu! ready for Gold Dust 2?
@@ -101,7 +101,7 @@ Personally? I think we are finally ready.
 
 [![](/wiki/shared/news/2021-04-20-project-loved-april-2021/65476.jpg)](https://osu.ppy.sh/community/forums/topics/1302013)
 
-[Kairiki bear feat. GUMI - Kanzen Chouaku Lolita Complex](https://osu.ppy.sh/beatmapsets/65476#osu) by ::Star Stream::{ user=389236 }, [HelloSCV](https://osu.ppy.sh/users/798743), ::Kaburagi Kotetsu::{ user=1893883 }, [Mixagji](https://osu.ppy.sh/users/767003) and ::winber1::{ user=270328 }\
+[Kairiki bear feat. GUMI - Kanzen Chouaku Lolita Complex](https://osu.ppy.sh/beatmapsets/65476#osu) by ::Star Stream::{ user=389236 }, ::HelloSCV::{ user=798743 }, ::Kaburagi Kotetsu::{ user=1893883 }, ::Mixagji::{ user=767003 } and ::winber1::{ user=270328 }\
 275 BPM, 4:00 | 1.91★, 2.26★, 3.75★, 5.47★, 6.81★
 
 After a short push for ranked in early 2013, this set sadly fell by the wayside, which is a shame since if it was ranked I believe it would have been one of the "boss maps" of its time.
@@ -110,7 +110,7 @@ Featuring 275 BPM streams and fast aim patterns, it's a real step above the gene
 
 [![](/wiki/shared/news/2021-04-20-project-loved-april-2021/519505.jpg)](https://osu.ppy.sh/community/forums/topics/1302012)
 
-[xi - over the top](https://osu.ppy.sh/beatmapsets/519505#osu) by ::Weriko::{ user=7601870 }, [\[ Zzz \]](https://osu.ppy.sh/users/937761), ::Atsuro::{ user=2279351 }, [Chaos](https://osu.ppy.sh/users/2628870), ::HappyRocket88::{ user=4442006 }, [Kalindraz](https://osu.ppy.sh/users/2313166) and ::sdafsf::{ user=3523418 }\
+[xi - over the top](https://osu.ppy.sh/beatmapsets/519505#osu) by ::Weriko::{ user=7601870 }, ::\[ Zzz \]::{ user=937761 }, ::Atsuro::{ user=2279351 }, ::Chaos::{ user=2628870 }, ::HappyRocket88::{ user=4442006 }, ::Kalindraz::{ user=2313166 } and ::sdafsf::{ user=3523418 }\
 202 BPM, 4:17 | 2.00★ – 8.81★
 
 You've seen high star rating jump maps, yes. You may also have seen high star rating maps with a mix of both jumps and streams, but have you ever seen a map this hard full of purely stream aim?
@@ -121,7 +121,7 @@ All-in-all, it is a real fun time, so go give it a go and see if you can work yo
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [KuroKuroKuro](https://osu.ppy.sh/users/11931563) and ::POCARI SWEAT::{ user=5082685 }!
+osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::KuroKuroKuro::{ user=11931563 } and ::POCARI SWEAT::{ user=5082685 }!
 
 ---
 
@@ -159,7 +159,7 @@ Keeping you on your toes with a constant deluge of tech patterns that fit flawle
 
 [![](/wiki/shared/news/2021-04-20-project-loved-april-2021/454685.jpg)](https://osu.ppy.sh/community/forums/topics/1302007)
 
-[Triple Feeling - Clover Kakume-tion](https://osu.ppy.sh/beatmapsets/454685#taiko) by ::Osamix::{ user=2999359 }, [\_yu68](https://osu.ppy.sh/users/6170507), ::Y O U T A::{ user=4909860 } and [yassu-](https://osu.ppy.sh/users/7095592)\
+[Triple Feeling - Clover Kakume-tion](https://osu.ppy.sh/beatmapsets/454685#taiko) by ::Osamix::{ user=2999359 }, ::\_yu68::{ user=6170507 }, ::Y O U T A::{ user=4909860 } and ::yassu-::{ user=7095592 }\
 290 BPM, 4:22 | 1.64★ – 7.90★\
 *description written by ::-Kazu-::{ user=920861 }*
 
@@ -172,7 +172,7 @@ On the other side of things, yassu-'s diff *DJ MOKOJI* works as a heavy stamina 
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, [Spectator](https://osu.ppy.sh/users/702598), ::Tenshichan::{ user=1101600 } and [Wesley](https://osu.ppy.sh/users/2407265)!
+osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, ::Spectator::{ user=702598 }, ::Tenshichan::{ user=1101600 } and ::Wesley::{ user=2407265 }!
 
 ---
 
@@ -190,7 +190,7 @@ Between the slower parts in the kiai and the faster paced moments, the map is ve
 
 [![](/wiki/shared/news/2021-04-20-project-loved-april-2021/486424.jpg)](https://osu.ppy.sh/community/forums/topics/1302004)
 
-[Memme - Cherry Blossom](https://osu.ppy.sh/beatmapsets/486424#fruits) by ::Spectator::{ user=702598 }, [P i k u](https://osu.ppy.sh/users/2761685) and ::Tenshichan::{ user=1101600 }\
+[Memme - Cherry Blossom](https://osu.ppy.sh/beatmapsets/486424#fruits) by ::Spectator::{ user=702598 }, ::P i k u::{ user=2761685 } and ::Tenshichan::{ user=1101600 }\
 170 BPM, 2:14 | 2.46★, 3.40★, 4.43★, 5.40★\
 *description written by ::Sartan::{ user=4100941 }*
 
@@ -224,7 +224,7 @@ Jemzuu is well-known for his technical yet clean mapping style, and I'd say this
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::-mint-::{ user=8976576 }, [Kawawa](https://osu.ppy.sh/users/4647754), ::lenpai::{ user=5314573 }, [Penguinosity](https://osu.ppy.sh/users/10235296) and ::Pope Gadget::{ user=2288341 }!
+osu!mania Loved candidates were chosen by ::-mint-::{ user=8976576 }, ::Kawawa::{ user=4647754 }, ::lenpai::{ user=5314573 }, ::Penguinosity::{ user=10235296 } and ::Pope Gadget::{ user=2288341 }!
 
 ---
 
@@ -274,7 +274,7 @@ The superior beverage over water, *MilK* is an approachable chart to learn, espe
 
 [![](/wiki/shared/news/2021-04-20-project-loved-april-2021/1055371.jpg)](https://osu.ppy.sh/community/forums/topics/1301996)
 
-[mafumafu - I wanna be a girl](https://osu.ppy.sh/beatmapsets/1055371#mania) by ::LostCool::{ user=766374 } and [HowToPlayLN](https://osu.ppy.sh/users/10879600)\
+[mafumafu - I wanna be a girl](https://osu.ppy.sh/beatmapsets/1055371#mania) by ::LostCool::{ user=766374 } and ::HowToPlayLN::{ user=10879600 }\
 140 BPM, 3:55 | 4.08★, 4.64★, 5.77★, 7.41★\
 The \[Nyaa\] difficulty is *not* being nominated for Loved.\
 *description written by ::Kawawa::{ user=4647754 }*
@@ -285,7 +285,7 @@ Everything here is tied together by the song's comfortable 140 BPM, which lends 
 
 [![](/wiki/shared/news/2021-04-20-project-loved-april-2021/1222320.jpg)](https://osu.ppy.sh/community/forums/topics/1301995)
 
-[Dareharu - Karma](https://osu.ppy.sh/beatmapsets/1222320#mania) by ::Remuring::{ user=6522146 } and [ruka](https://osu.ppy.sh/users/6117525)\
+[Dareharu - Karma](https://osu.ppy.sh/beatmapsets/1222320#mania) by ::Remuring::{ user=6522146 } and ::ruka::{ user=6117525 }\
 132 BPM, 4:27 | 6.56★\
 *description written by ::Kawawa::{ user=4647754 }*
 

@@ -33,13 +33,13 @@ Without any further delay, let's move onto this month's picks!
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, [Doomsday](https://osu.ppy.sh/users/18983) and ::Wixonater::{ user=10083084 }!
+The osu! Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, ::Doomsday::{ user=18983 } and ::Wixonater::{ user=10083084 }!
 
 ---
 
 [![](/wiki/shared/news/2022-03-18-project-loved-march-2022/695542.jpg)](https://osu.ppy.sh/community/forums/topics/1543998)
 
-[Lil Peep - Save That Shit](https://osu.ppy.sh/beatmapsets/695542#osu) by ::nezbite::{ user=10791470 } and [BEA_SUBSCRIBE](https://osu.ppy.sh/users/14066243)\
+[Lil Peep - Save That Shit](https://osu.ppy.sh/beatmapsets/695542#osu) by ::nezbite::{ user=10791470 } and ::BEA\1SUBSCRIBE::{ user=14066243 }\
 105.96 BPM, 3:11 | 1.79★, 2.75★, 2.91★\
 *description written by ::Doomsday::{ user=18983 }*
 
@@ -82,7 +82,7 @@ A popular jump map in both solo play and tournaments, *oyasumi* is a pinnacle of
 
 [![](/wiki/shared/news/2022-03-18-project-loved-march-2022/1140056.jpg)](https://osu.ppy.sh/community/forums/topics/1543994)
 
-[Powfu - death bed (coffee for your head) (feat. beabadoobee)](https://osu.ppy.sh/beatmapsets/1140056#osu) by ::Qiyana::{ user=4272879 }, [jamesjan3](https://osu.ppy.sh/users/6260705) and ::Zhuosh::{ user=11056763 }\
+[Powfu - death bed (coffee for your head) (feat. beabadoobee)](https://osu.ppy.sh/beatmapsets/1140056#osu) by ::Qiyana::{ user=4272879 }, ::jamesjan3::{ user=6260705 } and ::Zhuosh::{ user=11056763 }\
 144 BPM, 2:40 | 1.59★, 2.44★, 2.76★, 3.49★\
 *description written by ::Wixonater::{ user=10083084 }*
 
@@ -90,7 +90,7 @@ After a stressful, tense week, sometimes it's nice to relax and lay down on your
 
 [![](/wiki/shared/news/2022-03-18-project-loved-march-2022/1256867.jpg)](https://osu.ppy.sh/community/forums/topics/1543993)
 
-[Calliope Mori - Excuse My Rudeness, But Could You Please RIP?](https://osu.ppy.sh/beatmapsets/1256867#osu) by ::ZevinLevin::{ user=4890690 } and [too](https://osu.ppy.sh/users/12196931)\
+[Calliope Mori - Excuse My Rudeness, But Could You Please RIP?](https://osu.ppy.sh/beatmapsets/1256867#osu) by ::ZevinLevin::{ user=4890690 } and ::too::{ user=12196931 }\
 124 BPM, 3:06 | 1.76★ – 5.51★\
 *description written by ::Wixonater::{ user=10083084 }*
 
@@ -98,13 +98,13 @@ A popular map for good reason, *Excuse My Rudeness, But Could You Please RIP?* i
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [Boaz](https://osu.ppy.sh/users/13302996), ::Horiiizon::{ user=8071438 }, [KuroKuroKuro](https://osu.ppy.sh/users/11931563) and ::POCARI SWEAT::{ user=5082685 }!
+The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::Boaz::{ user=13302996 }, ::Horiiizon::{ user=8071438 }, ::KuroKuroKuro::{ user=11931563 } and ::POCARI SWEAT::{ user=5082685 }!
 
 ---
 
 [![](/wiki/shared/news/2022-03-18-project-loved-march-2022/1627304.jpg)](https://osu.ppy.sh/community/forums/topics/1543991)
 
-[ReeK - Multigenre Smackdown](https://osu.ppy.sh/beatmapsets/1627304#taiko) by ::Arrival::{ user=1694000 }, [cdh](https://osu.ppy.sh/users/2403621), ::Cychloryn::{ user=6921736 }, [Hivie](https://osu.ppy.sh/users/14102976), ::katacheh::{ user=6651672 } and [Mew](https://osu.ppy.sh/users/2345156)\
+[ReeK - Multigenre Smackdown](https://osu.ppy.sh/beatmapsets/1627304#taiko) by ::Arrival::{ user=1694000 }, ::cdh::{ user=2403621 }, ::Cychloryn::{ user=6921736 }, ::Hivie::{ user=14102976 }, ::katacheh::{ user=6651672 } and ::Mew::{ user=2345156 }\
 160 BPM, 6:31 | 8.00★\
 *description written by ::-Kazu-::{ user=920861 }*
 
@@ -120,7 +120,7 @@ Good luck to all who will try this map, as it sure packs quite a punch on it.
 
 [![](/wiki/shared/news/2022-03-18-project-loved-march-2022/1600485.jpg)](https://osu.ppy.sh/community/forums/topics/1543990)
 
-[breakchild - SWiTCH DAT](https://osu.ppy.sh/beatmapsets/1600485#taiko) by ::Horiiizon::{ user=8071438 } and [HiroK](https://osu.ppy.sh/users/4050738)\
+[breakchild - SWiTCH DAT](https://osu.ppy.sh/beatmapsets/1600485#taiko) by ::Horiiizon::{ user=8071438 } and ::HiroK::{ user=4050738 }\
 190 BPM, 2:06 | 6.33★\
 *description written by ::-Kazu-::{ user=920861 }*
 
@@ -146,7 +146,7 @@ Just make sure to play with the beatmap skin on and delight yourself with this o
 
 [![](/wiki/shared/news/2022-03-18-project-loved-march-2022/1315188.jpg)](https://osu.ppy.sh/community/forums/topics/1543988)
 
-[TJ Davis - Super Sonic Racing](https://osu.ppy.sh/beatmapsets/1315188#taiko) by ::Foxeru::{ user=7479684 }, [Coryn](https://osu.ppy.sh/users/2828556) and ::HiroK::{ user=4050738 }\
+[TJ Davis - Super Sonic Racing](https://osu.ppy.sh/beatmapsets/1315188#taiko) by ::Foxeru::{ user=7479684 }, ::Coryn::{ user=2828556 } and ::HiroK::{ user=4050738 }\
 165 – 330 BPM, 3:08 | 4.84★, 6.76★, 7.01★, 7.79★\
 *description written by ::Boaz::{ user=13302996 }*
 
@@ -166,7 +166,7 @@ Are you ready for this all-stars race or would you rather stick with the regular
 
 [![](/wiki/shared/news/2022-03-18-project-loved-march-2022/1180007.jpg)](https://osu.ppy.sh/community/forums/topics/1543987)
 
-[YOASOBI - Yoru ni Kakeru](https://osu.ppy.sh/beatmapsets/1180007#taiko) by ::Salieri::{ user=11233651 }, [hoku](https://osu.ppy.sh/users/9503098) and ::Pare::{ user=3560258 }\
+[YOASOBI - Yoru ni Kakeru](https://osu.ppy.sh/beatmapsets/1180007#taiko) by ::Salieri::{ user=11233651 }, ::hoku::{ user=9503098 } and ::Pare::{ user=3560258 }\
 260 BPM, 4:19 | 6.39★, 6.65★, 6.72★\
 *description written by ::KuroKuroKuro::{ user=11931563 }*
 
@@ -212,7 +212,7 @@ As you might expect for a tech map in the Grand Finals of one of the hardest tou
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, [Spectator](https://osu.ppy.sh/users/702598), ::Tenshichan::{ user=1101600 } and [Wesley](https://osu.ppy.sh/users/2407265)!
+The osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, ::Spectator::{ user=702598 }, ::Tenshichan::{ user=1101600 } and ::Wesley::{ user=2407265 }!
 
 ---
 
@@ -232,7 +232,7 @@ Turn on the No Fail, give this map a spin and hope you can master all the anti-f
 
 [![](/wiki/shared/news/2022-03-18-project-loved-march-2022/884597.jpg)](https://osu.ppy.sh/community/forums/topics/1543981)
 
-[Various Artists - Dan \~ CTB \~ 3rd Pack](https://osu.ppy.sh/beatmapsets/884597#fruits) by ::Emiru::{ user=3306180 }, [Minato Yukina](https://osu.ppy.sh/users/531253) and ::Spectator::{ user=702598 }\
+[Various Artists - Dan \~ CTB \~ 3rd Pack](https://osu.ppy.sh/beatmapsets/884597#fruits) by ::Emiru::{ user=3306180 }, ::Minato Yukina::{ user=531253 } and ::Spectator::{ user=702598 }\
 120.6 – 300 BPM, 13:35 | 8.34★ – 10.43★\
 *description written by ::Sartan::{ user=4100941 }*
 
@@ -244,7 +244,7 @@ Most of the time I would recommend you to first check out the map and then vote,
 
 [![](/wiki/shared/news/2022-03-18-project-loved-march-2022/527069.jpg)](https://osu.ppy.sh/community/forums/topics/1543980)
 
-[An - Catanoph](https://osu.ppy.sh/beatmapsets/527069#fruits) by ::Lavender::{ user=3850859 } and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)\
+[An - Catanoph](https://osu.ppy.sh/beatmapsets/527069#fruits) by ::Lavender::{ user=3850859 } and ::Yumeno Himiko::{ user=1806962 }\
 191 BPM, 3:46 | 5.51★\
 *description written by ::Spectator::{ user=702598 }*
 
@@ -262,7 +262,7 @@ The map consists mostly of fast wiggles that test your speed and stamina, while 
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, [-NoName-](https://osu.ppy.sh/users/10400730), ::kadoen::{ user=12780575 }, [Paturages](https://osu.ppy.sh/users/1375479), ::Penguinosity::{ user=10235296 }, [RandomeLoL](https://osu.ppy.sh/users/7080063) and ::stupud man::{ user=2141612 }!
+The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, ::-NoName-::{ user=10400730 }, ::kadoen::{ user=12780575 }, ::Paturages::{ user=1375479 }, ::Penguinosity::{ user=10235296 }, ::RandomeLoL::{ user=7080063 } and ::stupud man::{ user=2141612 }!
 
 ---
 
@@ -346,7 +346,7 @@ VisD has mainly been known for their chart catalogue over in [Flash Flash Revolu
 
 [![](/wiki/shared/news/2022-03-18-project-loved-march-2022/1184745.jpg)](https://osu.ppy.sh/community/forums/topics/1543971)
 
-[Camellia feat. Kagekiha Gakusei - Lowermost revolt ("Jeremiad" Long ver.)](https://osu.ppy.sh/beatmapsets/1184745#mania) by ::FelixSpade::{ user=2651304 }, [ChocoCoki-](https://osu.ppy.sh/users/3565870), ::eZmmR::{ user=8647138 }, [nayuu](https://osu.ppy.sh/users/12561379), ::Onta\1Bekasi::{ user=8677684 }, [Virtue-](https://osu.ppy.sh/users/6144772) and ::XDerbyX::{ user=7326238 }\
+[Camellia feat. Kagekiha Gakusei - Lowermost revolt ("Jeremiad" Long ver.)](https://osu.ppy.sh/beatmapsets/1184745#mania) by ::FelixSpade::{ user=2651304 }, ::ChocoCoki-::{ user=3565870 }, ::eZmmR::{ user=8647138 }, ::nayuu::{ user=12561379 }, ::Onta\1Bekasi::{ user=8677684 }, ::Virtue-::{ user=6144772 } and ::XDerbyX::{ user=7326238 }\
 219.2 BPM, 5:31 | 4.88★ – 9.31★\
 *description written by ::RandomeLoL::{ user=7080063 }*
 

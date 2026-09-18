@@ -39,7 +39,7 @@ At last here's the picks, but don't forget, we host [osu!(lazer)](/wiki/Client/R
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::bailie::{ user=7537133 }, [BATBALL](https://osu.ppy.sh/users/15173952), ::chiv::{ user=6701656 }, [Librarian](https://osu.ppy.sh/users/10083084), ::Mismagius::{ user=19048 }, [momoyo](https://osu.ppy.sh/users/12469536), ::mule kick::{ user=4879380 }, and [Plasma](https://osu.ppy.sh/users/10077431)!
+The osu! Loved candidates were chosen by ::bailie::{ user=7537133 }, ::BATBALL::{ user=15173952 }, ::chiv::{ user=6701656 }, ::Librarian::{ user=10083084 }, ::Mismagius::{ user=19048 }, ::momoyo::{ user=12469536 }, ::mule kick::{ user=4879380 }, and ::Plasma::{ user=10077431 }!
 
 **[Click here to download all of this round's osu! picks!](https://packs.ppy.sh/LR40%20-%20Project%20Loved:%20April%202025%20(osu!).zip)**
 
@@ -69,7 +69,7 @@ Join the rest by showing your support — leave a comment on the map's page and 
 
 [![](/wiki/shared/news/2025-04-20-project-loved-april-2025/974713.jpg)](https://osu.ppy.sh/community/forums/topics/2069044)
 
-[Yanagida Ethnica - For You the Bellz Toll](https://osu.ppy.sh/beatmapsets/974713#osu) by ::None1637::{ user=7184125 }, [Calvaria](https://osu.ppy.sh/users/12381096), ::dahkjdas::{ user=5062396 }, [Omekyu](https://osu.ppy.sh/users/14348073), and ::Robinia::{ user=16081750 }\
+[Yanagida Ethnica - For You the Bellz Toll](https://osu.ppy.sh/beatmapsets/974713#osu) by ::None1637::{ user=7184125 }, ::Calvaria::{ user=12381096 }, ::dahkjdas::{ user=5062396 }, ::Omekyu::{ user=14348073 }, and ::Robinia::{ user=16081750 }\
 195 BPM, 2:09 | 3.58★ – 11.07★\
 The \[Ntc's Hitsound\] difficulty is *not* being nominated for Loved.\
 *description written by ::Plasma::{ user=10077431 }*
@@ -126,7 +126,7 @@ Be sure to check this map out and vote yes if you want to see this enter the Lov
 
 [![](/wiki/shared/news/2025-04-20-project-loved-april-2025/1340339.jpg)](https://osu.ppy.sh/community/forums/topics/2069040)
 
-[Feryquitous - Arcahv](https://osu.ppy.sh/beatmapsets/1340339#osu) by ::seros::{ user=10562853 }, [Aoinabi](https://osu.ppy.sh/users/10120527), ::Atlust::{ user=4086593 }, [Cubby](https://osu.ppy.sh/users/10914582), ::Otosaka-Yu::{ user=3170678 }, [pw384](https://osu.ppy.sh/users/1343783), ::tadict::{ user=14855492 }, and [too](https://osu.ppy.sh/users/12196931)\
+[Feryquitous - Arcahv](https://osu.ppy.sh/beatmapsets/1340339#osu) by ::seros::{ user=10562853 }, ::Aoinabi::{ user=10120527 }, ::Atlust::{ user=4086593 }, ::Cubby::{ user=10914582 }, ::Otosaka-Yu::{ user=3170678 }, ::pw384::{ user=1343783 }, ::tadict::{ user=14855492 }, and ::too::{ user=12196931 }\
 191 BPM, 2:42 | 5.24★ – 6.85★\
 *description written by ::chiv::{ user=6701656 }*
 
@@ -173,7 +173,7 @@ So be sure to do so..
 
 [![](/wiki/shared/news/2025-04-20-project-loved-april-2025/1988958.jpg)](https://osu.ppy.sh/community/forums/topics/2069038)
 
-[Yuno Miles - Indiana Jones](https://osu.ppy.sh/beatmapsets/1988958#osu) by ::sytho::{ user=4175698 }, [chidodou](https://osu.ppy.sh/users/13868581), and ::The Cosmic Chef::{ user=23354688 }\
+[Yuno Miles - Indiana Jones](https://osu.ppy.sh/beatmapsets/1988958#osu) by ::sytho::{ user=4175698 }, ::chidodou::{ user=13868581 }, and ::The Cosmic Chef::{ user=23354688 }\
 181 BPM, 0:53 | 2.33★, 3.66★, 4.72★, 6.74★\
 *description written by ::bailie::{ user=7537133 }*
 
@@ -211,7 +211,7 @@ This one's been gathering over 300 favourites and 75,000 plays in the graveyard 
 
 [![](/wiki/shared/news/2025-04-20-project-loved-april-2025/728652.jpg)](https://osu.ppy.sh/community/forums/topics/2069035)
 
-[Arcadi Volodos - Turkish March (Rondo Alla Turca) Piano Sonata No. 11 K. 331 Movement 3](https://osu.ppy.sh/beatmapsets/728652#osu) by ::Fenza::{ user=2740518 }, [-Kemsyt](https://osu.ppy.sh/users/3170401), and ::Orkay::{ user=9321674 }\
+[Arcadi Volodos - Turkish March (Rondo Alla Turca) Piano Sonata No. 11 K. 331 Movement 3](https://osu.ppy.sh/beatmapsets/728652#osu) by ::Fenza::{ user=2740518 }, ::-Kemsyt::{ user=3170401 }, and ::Orkay::{ user=9321674 }\
 118 BPM, 2:57 | 2.31★, 5.34★, 6.68★\
 The \[timing diff for gd'ers lol\] difficulty is *not* being nominated for Loved.\
 *description written by ::Mismagius::{ user=19048 }*
@@ -232,7 +232,7 @@ Through much bloodshed and failure, we have made it this far. Take it... **AND P
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::\_gt::{ user=8301957 }, [Boaz](https://osu.ppy.sh/users/13302996), ::Horiiizon::{ user=8071438 }, [K a y o k o](https://osu.ppy.sh/users/17664300), and ::nevqr::{ user=14269506 }!
+The osu!taiko Loved candidates were chosen by ::\_gt::{ user=8301957 }, ::Boaz::{ user=13302996 }, ::Horiiizon::{ user=8071438 }, ::K a y o k o::{ user=17664300 }, and ::nevqr::{ user=14269506 }!
 
 **[Click here to download all of this round's osu!taiko picks!](https://packs.ppy.sh/LR39%20-%20Project%20Loved:%20April%202025%20(osu!taiko).zip)**
 
@@ -246,13 +246,13 @@ The osu!taiko Loved candidates were chosen by ::\_gt::{ user=8301957 }, [Boaz](h
 
 [![](/wiki/shared/news/2025-04-20-project-loved-april-2025/1855299.jpg)](https://osu.ppy.sh/community/forums/topics/2069033)
 
-[ikaruga_nex vs. Kagetora. - Grabinschrift der Goetter](https://osu.ppy.sh/beatmapsets/1855299#taiko) by ::Roxy-::{ user=11931563 } and [4sbet1](https://osu.ppy.sh/users/11563671)\
+[ikaruga_nex vs. Kagetora. - Grabinschrift der Goetter](https://osu.ppy.sh/beatmapsets/1855299#taiko) by ::Roxy-::{ user=11931563 } and ::4sbet1::{ user=11563671 }\
 200 BPM, 5:08 | 8.87★\
 *description written by ::nevqr::{ user=14269506 }*
 
 We're kicking off this month's osu!taiko Loved picks with an absolute banger. With [EGTS 2025](https://gratiaproductions.com/egts/home) coming to a close, it's only fitting for this map to finally acquire its long-awaited Loved status. Surprisingly, it's the only [EGTS 2022](https://gtsosu.com/2022/egts/home) tiebreaker without a leaderboard, and now's the time to change that!
 
-At first glance, you might get fooled. 200 BPM and only a mere 8.87★ for the supposed taiko gods of EGTS? But one crucial detail is missing: it's mapped by ::Roxy-::{ user=11931563 } and [4sbet1](https://osu.ppy.sh/users/11563671). And this isn't just any ordinary 200 BPM map. During your playthrough, you'll venture through the absolute madness of odd 1/6 coupled with extremely **brutal** tech sections that can cause anyone to notelock in the blink of an eye. And the cherry on top? An insane 400 BPM speed section to close out the map.
+At first glance, you might get fooled. 200 BPM and only a mere 8.87★ for the supposed taiko gods of EGTS? But one crucial detail is missing: it's mapped by ::Roxy-::{ user=11931563 } and ::4sbet1::{ user=11563671 }. And this isn't just any ordinary 200 BPM map. During your playthrough, you'll venture through the absolute madness of odd 1/6 coupled with extremely **brutal** tech sections that can cause anyone to notelock in the blink of an eye. And the cherry on top? An insane 400 BPM speed section to close out the map.
 
 Proficient German speakers might've already picked up on the song name — *Epitaph of the Gods*. That's because the map is the culmination of everything that led up to the selection of the top three of EGTS 2022. It's almost been three years since this tiebreaker has actually been played in a match, but no one can forget the [masterful standoff](https://youtu.be/Vt6vVQTo-Ck?si=u9D42r15_8CbBU3L&t=3703) between goheegy and Minekuchi on this map, which decided who would have the opportunity to battle for a spot in the winners' bracket Grand Finals.
 
@@ -260,7 +260,7 @@ So, are you intrigued? Perhaps fascinated? Then I wholeheartedly suggest you go 
 
 [![](/wiki/shared/news/2025-04-20-project-loved-april-2025/1926888.jpg)](https://osu.ppy.sh/community/forums/topics/2069032)
 
-[Laur - Sound Chimera](https://osu.ppy.sh/beatmapsets/1926888#taiko) by ::Foxeru::{ user=7479684 } and [HiroK](https://osu.ppy.sh/users/4050738)\
+[Laur - Sound Chimera](https://osu.ppy.sh/beatmapsets/1926888#taiko) by ::Foxeru::{ user=7479684 } and ::HiroK::{ user=4050738 }\
 190 BPM, 4:59 | 8.71★\
 *description written by ::nevqr::{ user=14269506 }*
 
@@ -268,7 +268,7 @@ What's the first thing that comes to your mind when you hear someone say *Sound 
 
 Laur's *Sound Chimera* is without a shadow of a doubt one of the most famous songs on osu!. The combination of psytrance and hardcore creates insanely difficult maps regardless of the mode — and this map is no exception.
 
-This version of [Sound Chimera](https://osu.ppy.sh/beatmapsets/1926888#taiko) is a Brazillian collaboration by none other than ::Foxeru::{ user=7479684 } and [HiroK](https://osu.ppy.sh/users/4050738). If you love tech maps that feature a lot of improvisation, you're in for a treat. As if playing a constant 190 BPM stream wasn't enough, these mappers went all out on 1/6 and 1/8 improvisation while also utilizing patterns that you'd seldom see in any other maps! In fact, I'd argue the Loved section has not seen a similar map yet! That said, you're just going to have to take my word for it. :D
+This version of [Sound Chimera](https://osu.ppy.sh/beatmapsets/1926888#taiko) is a Brazillian collaboration by none other than ::Foxeru::{ user=7479684 } and ::HiroK::{ user=4050738 }. If you love tech maps that feature a lot of improvisation, you're in for a treat. As if playing a constant 190 BPM stream wasn't enough, these mappers went all out on 1/6 and 1/8 improvisation while also utilizing patterns that you'd seldom see in any other maps! In fact, I'd argue the Loved section has not seen a similar map yet! That said, you're just going to have to take my word for it. :D
 
 But one more question still stands: Do you want to make a bargain and be taken aboard Foxeru's and HiroK's rocket ship? Then make sure to give this map a try and cast your vote!
 
@@ -342,7 +342,7 @@ Regardless of if you feel like playing the map as it was made or rivaling the sc
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::coolkid::{ user=7620002 } and [Tenshichan](https://osu.ppy.sh/users/1101600)!
+The osu!catch Loved candidates were chosen by ::coolkid::{ user=7620002 } and ::Tenshichan::{ user=1101600 }!
 
 **[Click here to download all of this round's osu!catch picks!](https://packs.ppy.sh/LR38%20-%20Project%20Loved:%20April%202025%20(osu!catch).zip)**
 
@@ -394,7 +394,7 @@ The gameplay for this map is nice overall: you can hold dash for almost the enti
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::Carpihat::{ user=10085090 }, [elexire](https://osu.ppy.sh/users/9206093), ::Maxus::{ user=4335785 }, [Paturages](https://osu.ppy.sh/users/1375479), ::Silhoueska Elze::{ user=11517895 }, [SunApple](https://osu.ppy.sh/users/11817622), ::taba2::{ user=7850508 }, and [Yuiesta](https://osu.ppy.sh/users/13953619)!
+The osu!mania Loved candidates were chosen by ::Carpihat::{ user=10085090 }, ::elexire::{ user=9206093 }, ::Maxus::{ user=4335785 }, ::Paturages::{ user=1375479 }, ::Silhoueska Elze::{ user=11517895 }, ::SunApple::{ user=11817622 }, ::taba2::{ user=7850508 }, and ::Yuiesta::{ user=13953619 }!
 
 **[Click here to download all of this round's osu!mania picks!](https://packs.ppy.sh/LR37%20-%20Project%20Loved:%20April%202025%20(osu!mania).zip)**
 
@@ -490,7 +490,7 @@ Ask us about more tournament fire camp stories in the thread after you drop your
 
 [![](/wiki/shared/news/2025-04-20-project-loved-april-2025/1974683.jpg)](https://osu.ppy.sh/community/forums/topics/2069017)
 
-[YOASOBI - Idol](https://osu.ppy.sh/beatmapsets/1974683#mania) by ::eZmmR::{ user=8647138 }, [- Inaba Meguru](https://osu.ppy.sh/users/14767969), ::Emida::{ user=11937683 }, [Lung_P](https://osu.ppy.sh/users/8271308), ::Muses::{ user=9705896 }, [Onta_Bekasi](https://osu.ppy.sh/users/8677684), and ::upan::{ user=5214397 }\
+[YOASOBI - Idol](https://osu.ppy.sh/beatmapsets/1974683#mania) by ::eZmmR::{ user=8647138 }, ::- Inaba Meguru::{ user=14767969 }, ::Emida::{ user=11937683 }, ::Lung\1P::{ user=8271308 }, ::Muses::{ user=9705896 }, ::Onta\1Bekasi::{ user=8677684 }, and ::upan::{ user=5214397 }\
 166 BPM, 3:30 | 2.53★ – 9.75★\
 *description written by ::Maxus::{ user=4335785 }*
 
@@ -518,11 +518,11 @@ If you're up for such a challenge, make your voice heard by voting!
 
 [![](/wiki/shared/news/2025-04-20-project-loved-april-2025/1276211.jpg)](https://osu.ppy.sh/community/forums/topics/2069015)
 
-[brz1128 - Alexandrite](https://osu.ppy.sh/beatmapsets/1276211#mania) by ::Kim\1GodSSI::{ user=2218047 } and [Jinjin](https://osu.ppy.sh/users/3360737)\
+[brz1128 - Alexandrite](https://osu.ppy.sh/beatmapsets/1276211#mania) by ::Kim\1GodSSI::{ user=2218047 } and ::Jinjin::{ user=3360737 }\
 155 – 192 BPM, 2:08 | 9.26★, 10.05★\
 *description written by ::Carpihat::{ user=10085090 }*
 
-This month we're going to nominate this map by 2 ETs, ::Kim\1GodSSI::{ user=2218047 } and [Jinjin](https://osu.ppy.sh/users/3360737). The map's style is based around releases, requiring that you bring your abilities on LN releases and tricky patterns to the table. Your reading ability and finger coordination are tested as well. If the 155 BPM diff is a piece of cake for you, then you could try the top diff, which is sped up from 155 BPM to 192 BPM and was featured in the 4th stage of the [7K LN Zenith Dan](https://osu.ppy.sh/beatmapsets/1220647#mania/2764028). Anyway, good luck on challenging this!
+This month we're going to nominate this map by 2 ETs, ::Kim\1GodSSI::{ user=2218047 } and ::Jinjin::{ user=3360737 }. The map's style is based around releases, requiring that you bring your abilities on LN releases and tricky patterns to the table. Your reading ability and finger coordination are tested as well. If the 155 BPM diff is a piece of cake for you, then you could try the top diff, which is sped up from 155 BPM to 192 BPM and was featured in the 4th stage of the [7K LN Zenith Dan](https://osu.ppy.sh/beatmapsets/1220647#mania/2764028). Anyway, good luck on challenging this!
 
 ---
 

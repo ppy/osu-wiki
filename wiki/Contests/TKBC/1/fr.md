@@ -66,9 +66,9 @@ Le Taiko Korean Beatmap Contest #1 est organisé par les membres de la communaut
 
 | Position | Membre(s) |
 | :-- | :-- |
-| Gestionnaire | ::Hoshikuz::{ user=9892196 }, [Civil oath](https://osu.ppy.sh/users/3216107) |
+| Gestionnaire | ::Hoshikuz::{ user=9892196 }, ::Civil oath::{ user=3216107 } |
 | Designer | ::POCARI SWEAT::{ user=5082685 } |
-| Juge | ::Hoshikuz::{ user=9892196 }, [Elfin](https://osu.ppy.sh/users/1399551), ::sendol::{ user=4433058 } |
+| Juge | ::Hoshikuz::{ user=9892196 }, ::Elfin::{ user=1399551 }, ::sendol::{ user=4433058 } |
 
 ## Résultats
 

@@ -6,7 +6,7 @@ tumblr_url: http://osunews.tumblr.com/post/116637580923/march-2015-monthly-ranki
 series: beatmap_spotlights
 ---
 
-The Ranking Charts for March 2015 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1503)! Along with that, we updated the Spring Season of the [Ranking Charts long-term leaderboard](https://docs.google.com/spreadsheets/d/1rgaKVJj_MDo0PwGrGXbKRVzjE9fhOUb4XZXRsOjTaoQ/pubhtml)! This month ::Kyshiro::{ user=640611 }, [\_Gezo\_](https://osu.ppy.sh/users/481582), ::alienflybot::{ user=636114 } and [Fullerene-](https://osu.ppy.sh/users/2531335) picked the maps for the Monthly Ranking Charts.
+The Ranking Charts for March 2015 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1503)! Along with that, we updated the Spring Season of the [Ranking Charts long-term leaderboard](https://docs.google.com/spreadsheets/d/1rgaKVJj_MDo0PwGrGXbKRVzjE9fhOUb4XZXRsOjTaoQ/pubhtml)! This month ::Kyshiro::{ user=640611 }, ::\_Gezo\_::{ user=481582 }, ::alienflybot::{ user=636114 } and ::Fullerene-::{ user=2531335 } picked the maps for the Monthly Ranking Charts.
 
 ## Ranking Charts Creation
 
@@ -52,7 +52,7 @@ Looking at how long the map is, some people would turn down the map despite its 
 
 There's it. One of the best maps I have found for the month. I personally like the way each note was placed, as well as the hitsounds associated with it; and doesn't get boring at all despite most patterns being very simple when put alone.
 
-- [Dan Winter - Don't Stop Push It Now (Nightcore Mix)](https://osu.ppy.sh/beatmapsets/200374) by ::Gero::{ user=1467715 } & [Hanjamon](https://osu.ppy.sh/users/1703330)
+- [Dan Winter - Don't Stop Push It Now (Nightcore Mix)](https://osu.ppy.sh/beatmapsets/200374) by ::Gero::{ user=1467715 } & ::Hanjamon::{ user=1703330 }
 
 To me one of the most fun Nightcore maps I have ever played. The map is extremely dense but it doesn't cut out the chills I get while playing it over and over. It's overall a well-constructed map which is strongly oriented towards a simple structure but twisted so it flows well with the melody, the lyrics or even the background noises you may hear. Almost one full thousand notes of fun, to sum it up.
 
@@ -60,11 +60,11 @@ To me one of the most fun Nightcore maps I have ever played. The map is extremel
 
 A difficult map I like due to how challenging it is for the higher players, but doesn't cut out the fun for the less experienced ones. For instance, in WereOni, the longer streams are thought to some extent, flow well and are in concordance with the rest of the pattern. It is also a map that was featured in the Taiko World Cup!
 
-- [µ's - KiRa-KiRa Sensation!](https://osu.ppy.sh/beatmapsets/204428) by ::Nardoxyribonucleic::{ user=876419 } & [ts8zs](https://osu.ppy.sh/users/838176)
+- [µ's - KiRa-KiRa Sensation!](https://osu.ppy.sh/beatmapsets/204428) by ::Nardoxyribonucleic::{ user=876419 } & ::ts8zs::{ user=838176 }
 
 A lovely map with fairly simple patterns which still reflect properly the song. The intense feel of the song is well translated through the patterns without going for complete overmap and big notes give a nicer plus in calmer parts when there's a clash between the calmer part and the two-beats intensity increase.
 
-- [Hatsuki Yura - Yoiyami Hanabi](https://osu.ppy.sh/beatmapsets/236568) by ::mrdumpling64::{ user=2478693 } & [aabc271](https://osu.ppy.sh/users/155707)
+- [Hatsuki Yura - Yoiyami Hanabi](https://osu.ppy.sh/beatmapsets/236568) by ::mrdumpling64::{ user=2478693 } & ::aabc271::{ user=155707 }
 
 Calm difficulties for a calm song, that's what the motto of this map should be to me. Every note fits well to what they are mapped to, and the speed change at end makes the feel in intensity more perceptible to the player.
 

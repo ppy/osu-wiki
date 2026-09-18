@@ -11,7 +11,7 @@ We're excited to welcome **Receptor** aboard as our latest Featured Artist!
 
 Popular in osu! during the 2013 era and beyond, [**Receptor**](https://osu.ppy.sh/beatmaps/artists/91) is a Russian electronic music producer most well known for his unique spin on drum-and-bass.
 
-He's remixed tracks from *Black Sun Empire* and *Noisia* to considerable critical acclaim, with mappers like ::fergas::{ user=3144542 }, [FCL](https://osu.ppy.sh/users/4715762) and ::Natteke::{ user=157177 } mirroring that same excellence within the osu! community as well.
+He's remixed tracks from *Black Sun Empire* and *Noisia* to considerable critical acclaim, with mappers like ::fergas::{ user=3144542 }, ::FCL::{ user=4715762 } and ::Natteke::{ user=157177 } mirroring that same excellence within the osu! community as well.
 
 **44** stonking new tracks are now available from across **Receptor**'s entire discography, all complete with his signature sound that you just can't find anywhere else.
 

@@ -36,7 +36,7 @@ This article covers results from the last contest, plus criteria for this contes
 | Runner-up | ::uone::{ user=5321719 } | [BilliumMoto x Akiri - Cryochemistry](https://osu.ppy.sh/beatmapsets/2310911) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | - | +1 (9 total) |
 | Runner-up | ::tasuke912::{ user=2774767 } | [BilliumMoto x Akiri - Cryochemistry](https://osu.ppy.sh/beatmapsets/2310911) | - | - | +1 (3 total) |
 
-::-Kazuha::{ user=29978316 } and [Doug](https://osu.ppy.sh/users/13806900) produced a monster of a 10-minute marathon beatmap together, landing -Kazuha a spot in osu!'s *Elite Mappers*. Meanwhile, ::tasuke912::{ user=2774767 } and veteran *Elite Mapper* ::uone::{ user=5321719 } came in a close 2nd with their own 6-minute marathon.
+::-Kazuha::{ user=29978316 } and ::Doug::{ user=13806900 } produced a monster of a 10-minute marathon beatmap together, landing -Kazuha a spot in osu!'s *Elite Mappers*. Meanwhile, ::tasuke912::{ user=2774767 } and veteran *Elite Mapper* ::uone::{ user=5321719 } came in a close 2nd with their own 6-minute marathon.
 
 #### Top 10
 
@@ -44,7 +44,7 @@ This article covers results from the last contest, plus criteria for this contes
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/S41RaoHGP84" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Special thanks to ::arcpotato::{ user=12842392 }, [BlackBN](https://osu.ppy.sh/users/6291741), ::SimplySynthy::{ user=15272997 }, and [Yasuho](https://osu.ppy.sh/users/8458835) for judging this month's maps!
+Special thanks to ::arcpotato::{ user=12842392 }, ::BlackBN::{ user=6291741 }, ::SimplySynthy::{ user=15272997 }, and ::Yasuho::{ user=8458835 } for judging this month's maps!
 
 ### osu!catch results
 
@@ -65,7 +65,7 @@ Yet another [seatrus](https://osu.ppy.sh/beatmaps/artists/185) submission pushed
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/vczvDoQ0Xkw" frameborder="0" allowfullscreen></iframe>
 </div>
 
-And thanks to this month's judges: ::fayew::{ user=12498861 }, [Unlucky_w](https://osu.ppy.sh/users/4820793), ::Chatie::{ user=6524765 }, and [-Rustyy](https://osu.ppy.sh/users/16355636)!
+And thanks to this month's judges: ::fayew::{ user=12498861 }, ::Unlucky\1w::{ user=4820793 }, ::Chatie::{ user=6524765 }, and ::-Rustyy::{ user=16355636 }!
 
 ## Game modes
 

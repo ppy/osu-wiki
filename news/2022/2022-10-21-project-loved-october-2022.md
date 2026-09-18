@@ -20,7 +20,7 @@ As always, we would like to thank everyone for your participation in the Septemb
 
 Before we proceed with the picks, we'd like you to keep in touch with all the ins and outs of the Project Loved team:
 
-- We'd like to thank ::Kasumi-sama::{ user=6177263 } and [stupud man](https://osu.ppy.sh/users/2141612) for their tenures as osu!catch and osu!mania captains respectively, as they both decided to resign recently. We wish them the best in their future endeavors!
+- We'd like to thank ::Kasumi-sama::{ user=6177263 } and ::stupud man::{ user=2141612 } for their tenures as osu!catch and osu!mania captains respectively, as they both decided to resign recently. We wish them the best in their future endeavors!
 - In brighter news, we'd like to welcome ::aceticke::{ user=8838763 } to the team! He will be joining us as a metadata reviewer in order to help ensure that all Loved picks are all ready before granting them their well-earned leaderboards.
 - Lastly, applications for the osu!mania captain position are open! So, if you're interested in promoting some coveted beatmaps to the key mashing community, consider applying here:
 
@@ -45,7 +45,7 @@ If you're interested in participating in Project Loved discussions of a certain 
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::DeviousPanda::{ user=4966334 }, [Doomsday](https://osu.ppy.sh/users/18983), ::Mismagius::{ user=19048 }, [rHO](https://osu.ppy.sh/users/1629553) and ::Skill::{ user=7802027 }!
+The osu! Loved candidates were chosen by ::DeviousPanda::{ user=4966334 }, ::Doomsday::{ user=18983 }, ::Mismagius::{ user=19048 }, ::rHO::{ user=1629553 } and ::Skill::{ user=7802027 }!
 
 ---
 
@@ -152,7 +152,7 @@ You are the jury in this case. Discuss your verdict, and make your decision on t
 
 [![](/wiki/shared/news/2022-10-21-project-loved-october-2022/1575935.jpg)](https://osu.ppy.sh/community/forums/topics/1663519)
 
-[Watashi (CV: Yuuki Aoi) - Ganbare! Kumoko-san no Thema](https://osu.ppy.sh/beatmapsets/1575935#osu) by ::Ancelysia::{ user=7118575 } and [atlas-](https://osu.ppy.sh/users/9074780)\
+[Watashi (CV: Yuuki Aoi) - Ganbare! Kumoko-san no Thema](https://osu.ppy.sh/beatmapsets/1575935#osu) by ::Ancelysia::{ user=7118575 } and ::atlas-::{ user=9074780 }\
 190 BPM, 3:58 | 8.08★, 9.07★\
 *description written by ::rHO::{ user=1629553 }*
 
@@ -162,7 +162,7 @@ Think you're up to the challenge? See if you can match up and don't forget to *d
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [Boaz](https://osu.ppy.sh/users/13302996), ::Gamelan4::{ user=9856910 }, [Horiiizon](https://osu.ppy.sh/users/8071438) and ::Roxy-::{ user=11931563 }!
+The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::Boaz::{ user=13302996 }, ::Gamelan4::{ user=9856910 }, ::Horiiizon::{ user=8071438 } and ::Roxy-::{ user=11931563 }!
 
 ---
 
@@ -216,7 +216,7 @@ After a wave of complex and challenging maps in the past Loved selections, it is
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, [Tenshichan](https://osu.ppy.sh/users/1101600) and ::Wesley::{ user=2407265 }!
+The osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, ::Tenshichan::{ user=1101600 } and ::Wesley::{ user=2407265 }!
 
 ---
 
@@ -254,7 +254,7 @@ Overall a map of moderate difficulty that can be enjoyed by a lot of people so m
 
 [![](/wiki/shared/news/2022-10-21-project-loved-october-2022/184710.jpg)](https://osu.ppy.sh/community/forums/topics/1663510)
 
-[Sayaka Sasaki - Zzz](https://osu.ppy.sh/beatmapsets/184710#fruits) by ::Spectator::{ user=702598 }, [CLSW](https://osu.ppy.sh/users/531253) and ::ZHSteven::{ user=142413 }\
+[Sayaka Sasaki - Zzz](https://osu.ppy.sh/beatmapsets/184710#fruits) by ::Spectator::{ user=702598 }, ::CLSW::{ user=531253 } and ::ZHSteven::{ user=142413 }\
 154 BPM, 4:04 | 2.94★, 3.62★, 4.39★\
 *description written by ::Sartan::{ user=4100941 }*
 
@@ -264,7 +264,7 @@ So let me see, I will just put it up for loved like this... and now people can v
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, [-NoName-](https://osu.ppy.sh/users/10400730), ::kadoen::{ user=12780575 }, [Paturages](https://osu.ppy.sh/users/1375479), ::RandomeLoL::{ user=7080063 } and [stupud man](https://osu.ppy.sh/users/2141612)!
+The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, ::-NoName-::{ user=10400730 }, ::kadoen::{ user=12780575 }, ::Paturages::{ user=1375479 }, ::RandomeLoL::{ user=7080063 } and ::stupud man::{ user=2141612 }!
 
 ---
 

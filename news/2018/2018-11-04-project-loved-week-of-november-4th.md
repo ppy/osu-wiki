@@ -13,7 +13,7 @@ Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! Every 
 
 Continuing the slow, steady decline of the quantity of maps we put up for vote, this week the osu!mania captains have decided to only put up seven maps, instead of the usual eight.
 
-In the osu!standard scene, we're seeing a pretty dramatic change in our lineup of captains. After selecting maps for over a year, ::Toy::{ user=2757689 } has stepped down from this position, and opted to invite **four** new captains to the team: ::BeasttrollMC::{ user=3171691 }, [Bubbleman](https://osu.ppy.sh/users/5182050), ::SoraRoxas01::{ user=1986262 } and [waywern2012](https://osu.ppy.sh/users/5870453). Give Toy a huge thanks for all of his work as a captain so far, and a warm welcome to these new guys! Just to be clear, Toy isn't retiring from Project Loved entirely; in fact, he is still leading the project and doing most of the work behind-the-scenes.
+In the osu!standard scene, we're seeing a pretty dramatic change in our lineup of captains. After selecting maps for over a year, ::Toy::{ user=2757689 } has stepped down from this position, and opted to invite **four** new captains to the team: ::BeasttrollMC::{ user=3171691 }, ::Bubbleman::{ user=5182050 }, ::SoraRoxas01::{ user=1986262 } and ::waywern2012::{ user=5870453 }. Give Toy a huge thanks for all of his work as a captain so far, and a warm welcome to these new guys! Just to be clear, Toy isn't retiring from Project Loved entirely; in fact, he is still leading the project and doing most of the work behind-the-scenes.
 
 In case you don't read the end of this post, be sure to submit suggestions for beatmaps to be added to Loved using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! All of the nominated beatmaps are chosen from submissions on this form, which you can view in the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0).
 
@@ -26,7 +26,7 @@ In case you don't read the end of this post, be sure to submit suggestions for b
 
 ## osu!
 
-osu! Loved candidates were chosen by ::BeasttrollMC::{ user=3171691 }, [Bubbleman](https://osu.ppy.sh/users/5182050), ::DigitalHypno::{ user=4384207 }, [SoraRoxas01](https://osu.ppy.sh/users/1986262) and ::waywern2012::{ user=5870453 }!
+osu! Loved candidates were chosen by ::BeasttrollMC::{ user=3171691 }, ::Bubbleman::{ user=5182050 }, ::DigitalHypno::{ user=4384207 }, ::SoraRoxas01::{ user=1986262 } and ::waywern2012::{ user=5870453 }!
 
 ---
 
@@ -60,7 +60,7 @@ An iconic song meeting an iconic mapping style, Saten's map of S.S.H.'s Big Blue
 
 [![](/wiki/shared/news/2018-11-04-project-loved-week-of-november-4th/osu/stay-for-a-while.jpg)](https://osu.ppy.sh/community/forums/topics/825506)
 
-[Virtual Riot - Stay For A While](https://osu.ppy.sh/beatmapsets/690556#osu) by ::ProfessionalBox::{ user=3250792 } and [cRyo[iceeicee]](https://osu.ppy.sh/users/835998)\
+[Virtual Riot - Stay For A While](https://osu.ppy.sh/beatmapsets/690556#osu) by ::ProfessionalBox::{ user=3250792 } and ::cRyo\1iceeicee\1::{ user=835998 }\
 *written by ::DigitalHypno::{ user=4384207 }*
 
 Yet another ProfessionalBox map has made its way to the Loved voting stage! This time, it's a control-crazy map of Virtual Riot's "Stay For A While" designed to throw you off with its confusing slider shapes and insanely high slider tick rate of 4. Tied along with quite a catchy and energetic future bass song, this map does an amazing job creating a unique playing experience—I'm sure the 120+ favorites can agree with me on that! So, what say you? Think you've got the cursor control it takes to pass a map like this? If you said yes, I'm going to need you to stop reading this and give the map your best go. Trust me, it'll be worth it! Afterwards, come back to this page and drop a vote on the map's poll!
@@ -74,7 +74,7 @@ Known to some as the opening for the anime "OniAi", the song "SELF PRODUCER" has
 
 [![](/wiki/shared/news/2018-11-04-project-loved-week-of-november-4th/osu/the-government-knows.jpg)](https://osu.ppy.sh/community/forums/topics/825508)
 
-[KNOWER - The Government Knows](https://osu.ppy.sh/beatmapsets/721707#osu) by ::Woey::{ user=3792472 }, [MomoHD](https://osu.ppy.sh/users/2927048), ::Ambrew::{ user=7803396 } and [Hectique](https://osu.ppy.sh/users/5298911)\
+[KNOWER - The Government Knows](https://osu.ppy.sh/beatmapsets/721707#osu) by ::Woey::{ user=3792472 }, ::MomoHD::{ user=2927048 }, ::Ambrew::{ user=7803396 } and ::Hectique::{ user=5298911 }\
 *written by ::SoraRoxas01::{ user=1986262 }*
 
 This is a great map for people that really want to test their skill with technical maps. "The Government Knows" is a map full of challenging patterns along with both fast and slow sliders which will test how well you can control your aim.  This song is unique in its own way with the constant dance beat in the background and humorous lyrics. You may have recognised Woey previously from his map "Soulless 4" that was a candidate for Project Loved before, along with guest difficulties from Ambrew, MomoHD and Hectique. With the map hitting over 120 favorites, this is a map to definitely give a go if you're up for a challenge!
@@ -84,7 +84,7 @@ This is a great map for people that really want to test their skill with technic
 [lapix feat. Renko - Concept Of Reality](https://osu.ppy.sh/beatmapsets/559140#osu) by ::ProfessionalBox::{ user=3250792 } et al.\
 *written by ::SoraRoxas01::{ user=1986262 }*
 
-One look into this map and you'll know straight away that this is by the unique mapper ProfessionalBox. Not to mention that the song is an absolute banger! But for real though, I'm sure you didn't expect anything less from lapix! Along with ProfessionalBox, there are guest difficulties mapped by other well known mappers like ::NeilPerry::{ user=841391 }, [Sing](https://osu.ppy.sh/users/3795679), ::Low Combo FC::{ user=3338724 } and [Ameth Rianno](https://osu.ppy.sh/users/5219516). With the eccentric slider shapes and changes in slider velocity during the chorus to go with interesting fillers leading to the build up, this is a map that keeps you toes and is something to have a go at if you're into the more technical and nifty maps!
+One look into this map and you'll know straight away that this is by the unique mapper ProfessionalBox. Not to mention that the song is an absolute banger! But for real though, I'm sure you didn't expect anything less from lapix! Along with ProfessionalBox, there are guest difficulties mapped by other well known mappers like ::NeilPerry::{ user=841391 }, ::Sing::{ user=3795679 }, ::Low Combo FC::{ user=3338724 } and ::Ameth Rianno::{ user=5219516 }. With the eccentric slider shapes and changes in slider velocity during the chorus to go with interesting fillers leading to the build up, this is a map that keeps you toes and is something to have a go at if you're into the more technical and nifty maps!
 
 [![](/wiki/shared/news/2018-11-04-project-loved-week-of-november-4th/osu/dropz-line.jpg)](https://osu.ppy.sh/community/forums/topics/825510)
 
@@ -102,7 +102,7 @@ I never thought cross-playfield jumps could look so inviting yet so intimidating
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-\1 ix Ishida xi \1-::{ user=242910 }, [-Kazu-](https://osu.ppy.sh/users/920861), ::Backfire::{ user=263110 }, [iceOC](https://osu.ppy.sh/users/5482401) and ::nyanmi-1828::{ user=6866480 }! This week, all osu!taiko beatmap descriptions were written by ::-Kazu-::{ user=920861 }.
+osu!taiko Loved candidates were chosen by ::-\1 ix Ishida xi \1-::{ user=242910 }, ::-Kazu-::{ user=920861 }, ::Backfire::{ user=263110 }, ::iceOC::{ user=5482401 } and ::nyanmi-1828::{ user=6866480 }! This week, all osu!taiko beatmap descriptions were written by ::-Kazu-::{ user=920861 }.
 
 ---
 
@@ -126,33 +126,33 @@ Continuing with the theme of maps that inspired a new generation of mappers come
 
 [![](/wiki/shared/news/2018-11-04-project-loved-week-of-november-4th/taiko/candyyyland-feat-liz-pa-s-lam-system-remix.jpg)](https://osu.ppy.sh/community/forums/topics/825517)
 
-[tofubeats - CANDYYYLAND feat. LIZ (Pa's Lam System Remix)](https://osu.ppy.sh/beatmapsets/724269#taiko) by ::Myckoll::{ user=554976 } and [Ulqui](https://osu.ppy.sh/users/1263669)
+[tofubeats - CANDYYYLAND feat. LIZ (Pa's Lam System Remix)](https://osu.ppy.sh/beatmapsets/724269#taiko) by ::Myckoll::{ user=554976 } and ::Ulqui::{ user=1263669 }
 
 Finally, we have CANDYYYLAND by Myckoll and Ulqui, a map featured recently in the Taiko Suiji Cup as the challenge pick of Group Stage. This one is a delicious mixture of simple patterns that emphasizes the song further and SV changes that makes the experience a whole lot more rich, as future bass is one of these genres that rely heavily on the creativity of the mappers to stand out, and this map really achieved it. This really serves as a nice introduction to high level sightreading, as the readability of this map is quite into the comfortable side, so no doubts you should give this a shot!
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Ascendance::{ user=2931883 }, [Sartan](https://osu.ppy.sh/users/4100941), ::Tenshichan::{ user=1101600 } and [Zak](https://osu.ppy.sh/users/1375955)!
+osu!catch Loved candidates were chosen by ::Ascendance::{ user=2931883 }, ::Sartan::{ user=4100941 }, ::Tenshichan::{ user=1101600 } and ::Zak::{ user=1375955 }!
 
 ---
 
 [![](/wiki/shared/news/2018-11-04-project-loved-week-of-november-4th/catch/elder-dragon-legend.jpg)](https://osu.ppy.sh/community/forums/topics/825519)
 
-[t+pazolite with Kabocha - Elder Dragon Legend](https://osu.ppy.sh/beatmapsets/592406#fruits) by ::-Izayoi::{ user=5710721 } and [Pyrozen](https://osu.ppy.sh/users/3031177)\
+[t+pazolite with Kabocha - Elder Dragon Legend](https://osu.ppy.sh/beatmapsets/592406#fruits) by ::-Izayoi::{ user=5710721 } and ::Pyrozen::{ user=3031177 }\
 *written by ::Tenshichan::{ user=1101600 }*
 
 This is a clean map without any gimmicky patterns in it, but nevertheless still very fun to play. The map features a high BPM and fast-paced streams and sliders. Don't be fooled by the star rating—the map is way easier than the star rating makes it look like, so even aspiring players can have a good shot at it. Veterans can challenge themselves with HR if they feel like it, but other than that, it should be fairly easy. All in all, it is a pretty cool map that deserves some attention.
 
 [![](/wiki/shared/news/2018-11-04-project-loved-week-of-november-4th/catch/jujutsushi-gachi-ver.jpg)](https://osu.ppy.sh/community/forums/topics/825520)
 
-[Various Artists - JuJutsushi Gachi ver.](https://osu.ppy.sh/beatmapsets/409227#fruits) by ::Furely::{ user=853694 } and [wairo](https://osu.ppy.sh/users/6369405)\
+[Various Artists - JuJutsushi Gachi ver.](https://osu.ppy.sh/beatmapsets/409227#fruits) by ::Furely::{ user=853694 } and ::wairo::{ user=6369405 }\
 *written by ::Ascendance::{ user=2931883 }*
 
 Hoi hoi hoi hoi hoi hoi hoi hoi! Although fairly new, only being uploaded in 2016, renowned meme mapper Furely brings us yet another fantastic map. Similar to to his other famous map, AVALON, this map brings hyperwalks, fast snapping, and several spots where ridiculously precise catcher movements are required. Boasting favorites from several top players and only having a few known plays that have come close to an FC (apart from ::ExGon::{ user=214187 }'s FC), Oracle awaits those who are pressed to challenge it, but only a select few who have truly mastered the art of the catcher will come out triumphant.
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, [aitor98](https://osu.ppy.sh/users/3154852), ::Kamikaze::{ user=2124783 }, [Pope Gadget](https://osu.ppy.sh/users/2288341), ::stupud man::{ user=2141612 } and [TheToaphster](https://osu.ppy.sh/users/7616811)!
+osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, ::aitor98::{ user=3154852 }, ::Kamikaze::{ user=2124783 }, ::Pope Gadget::{ user=2288341 }, ::stupud man::{ user=2141612 } and ::TheToaphster::{ user=7616811 }!
 
 ---
 
@@ -193,7 +193,7 @@ We are beginning this week's 7K selection with a renowned classic. HHHxMMxST - O
 
 [![](/wiki/shared/news/2018-11-04-project-loved-week-of-november-4th/mania/zz.jpg)](https://osu.ppy.sh/community/forums/topics/825527)
 
-[D.J.Amuro - ZZ](https://osu.ppy.sh/beatmapsets/252179#mania) by ::Nanatsu::{ user=2786984 } and [LordRaika](https://osu.ppy.sh/users/3265023)\
+[D.J.Amuro - ZZ](https://osu.ppy.sh/beatmapsets/252179#mania) by ::Nanatsu::{ user=2786984 } and ::LordRaika::{ user=3265023 }\
 *written by ::Kamikaze::{ user=2124783 }*
 
 Up next we have a chart very familiar to the older players, Nanatsu's ZZ by D.J.Amuro. This chart first emerged when Nanatsu was known as \_S u w a k o\_, a top ranked Korean player and it's a pretty big, six-difficulty 7K spread based around chordstreams and general vanilla density all around. It's very clean in structure, being a good test of player's reading and streaming abilities as well as having multiple difficulties featuring two difficulties made by LordRaika for players looking to get into 7K to try! The overall accessibility of the chart combined with it's clear structure and a respectable amount of favourites are in our opinion well enough of a reason to get this chart Loved!
@@ -203,13 +203,13 @@ Up next we have a chart very familiar to the older players, Nanatsu's ZZ by D.J.
 [xi - Zephyros](https://osu.ppy.sh/beatmapsets/140189#mania) by ::Remillion Cross::{ user=1983784 } et al.\
 *written by ::aitor98::{ user=3154852 }*
 
-Zephyros from Remillion Cross has been wandering around the community since 2014, and thanks to the guest difficulties from ::Skalim::{ user=2225008 } and [Runamii](https://osu.ppy.sh/users/2498380), this map has reached its peak and cannot get any better. With two different key modes, this map gives us a great lookup of how a good old school chart looks. Going from 3 stars to 6.3, this map features almost every single pattern you could imagine. Minijacks, bursts, chordstreams, long notes, staircases, shields, and more. Obviously, this is a general overview of the whole set and every pattern might not be applied to the easier difficulties but if you really want to play the harder ones, especially the hardest 7K difficulty, everything mentioned above will be applied in such a technical way, that you will realize how underrated the chart is. This is definitely good enough for Loved.
+Zephyros from Remillion Cross has been wandering around the community since 2014, and thanks to the guest difficulties from ::Skalim::{ user=2225008 } and ::Runamii::{ user=2498380 }, this map has reached its peak and cannot get any better. With two different key modes, this map gives us a great lookup of how a good old school chart looks. Going from 3 stars to 6.3, this map features almost every single pattern you could imagine. Minijacks, bursts, chordstreams, long notes, staircases, shields, and more. Obviously, this is a general overview of the whole set and every pattern might not be applied to the easier difficulties but if you really want to play the harder ones, especially the hardest 7K difficulty, everything mentioned above will be applied in such a technical way, that you will realize how underrated the chart is. This is definitely good enough for Loved.
 
 ---
 
 From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
-In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Ephemeral::{ user=102335 }, [Noffy](https://osu.ppy.sh/users/1541323) and ::Toy::{ user=2757689 } for their miscellaneous help in managing Project Loved.
+In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Ephemeral::{ user=102335 }, ::Noffy::{ user=1541323 } and ::Toy::{ user=2757689 } for their miscellaneous help in managing Project Loved.
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! You can view the current submissions on the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0).
 

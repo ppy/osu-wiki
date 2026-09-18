@@ -57,12 +57,12 @@ Prizes for this tournament are sponsored by ::IA daisuki::{ user=11238501 }.
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| ::525426806::{ user=10194722 } | [H-Shjie](https://osu.ppy.sh/users/11109612) | ::Star0v0::{ user=3675841 } | [wuzhin](https://osu.ppy.sh/users/11722256) |
-| ::Anonie::{ user=13725543 } | [shizehao](https://osu.ppy.sh/users/4928674) | ::biIibiIi-\_-::{ user=13859478 } | [s\_w\_w](https://osu.ppy.sh/users/12192069) |
-| ::KirigayaSnow::{ user=10721528 } | [Yutto007](https://osu.ppy.sh/users/10269172) | ::RW233::{ user=10018541 } | [solende](https://osu.ppy.sh/users/11863106) |
-| ::\[xiao ba\]::{ user=12451181 } | [Chinese\_Psy](https://osu.ppy.sh/users/11049989) | ::qiuzhilin::{ user=11192692 } | [Earnestlyqq](https://osu.ppy.sh/users/10637430) |
-| ::a794151336::{ user=9912076 } | [A M D](https://osu.ppy.sh/users/5321112) | ::bouquetww::{ user=13007770 } | [KaffuCchino](https://osu.ppy.sh/users/13461151) |
-| ::yuki hirahira::{ user=11740840 } | [HerrySun](https://osu.ppy.sh/users/13235020) | ::Blue\_Potion::{ user=13094831 } | [magical Sao](https://osu.ppy.sh/users/13235020) |
+| ::525426806::{ user=10194722 } | ::H-Shjie::{ user=11109612 } | ::Star0v0::{ user=3675841 } | ::wuzhin::{ user=11722256 } |
+| ::Anonie::{ user=13725543 } | ::shizehao::{ user=4928674 } | ::biIibiIi-\_-::{ user=13859478 } | ::s\_w\_w::{ user=12192069 } |
+| ::KirigayaSnow::{ user=10721528 } | ::Yutto007::{ user=10269172 } | ::RW233::{ user=10018541 } | ::solende::{ user=11863106 } |
+| ::\[xiao ba\]::{ user=12451181 } | ::Chinese\_Psy::{ user=11049989 } | ::qiuzhilin::{ user=11192692 } | ::Earnestlyqq::{ user=10637430 } |
+| ::a794151336::{ user=9912076 } | ::A M D::{ user=5321112 } | ::bouquetww::{ user=13007770 } | ::KaffuCchino::{ user=13461151 } |
+| ::yuki hirahira::{ user=11740840 } | ::HerrySun::{ user=13235020 } | ::Blue\_Potion::{ user=13094831 } | ::magical Sao::{ user=13235020 } |
 | ::1ess\1\1::{ user=10823750 } |  |  |  |
 
 ## Groups

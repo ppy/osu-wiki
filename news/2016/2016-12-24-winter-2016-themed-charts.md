@@ -27,20 +27,20 @@ The charts have previously been created by letting volunteers alongside the Qual
 
 ### osu!taiko
 
-- [9nine - White Wishes (TV Size)](https://osu.ppy.sh/beatmapsets/69992) by ::NoHitter::{ user=124455 } and [mintong89](https://osu.ppy.sh/users/966210)
+- [9nine - White Wishes (TV Size)](https://osu.ppy.sh/beatmapsets/69992) by ::NoHitter::{ user=124455 } and ::mintong89::{ user=966210 }
 - [ave;new feat. Sakura Saori - snow of love](https://osu.ppy.sh/beatmapsets/388858) by ::chaica::{ user=4455389 }
 - [Jimmy Weckl - Icicles](https://osu.ppy.sh/beatmapsets/96115) by ::OzzyOzrock::{ user=465153 }
 - [Tommy heavenly6 - I LOVE XMAS](https://osu.ppy.sh/beatmapsets/70272) by ::DJPop::{ user=2363 }
 - [Basshunter - Jingle Bells](https://osu.ppy.sh/beatmapsets/240448) by ::Gezo::{ user=481582 }
 - [Choucho - Yuuhi ga Oka (Short Ver.)](https://osu.ppy.sh/beatmapsets/39251) by ::aabc271::{ user=155707 }
 - [Mahito Yokota - White Snow](https://osu.ppy.sh/beatmapsets/221167) by ::Nwolf::{ user=1910766 }
-- [u's - Snow halation](https://osu.ppy.sh/beatmapsets/66385) by ::kanpakyin::{ user=394326 } and [aabc271](https://osu.ppy.sh/users/155707)
+- [u's - Snow halation](https://osu.ppy.sh/beatmapsets/66385) by ::kanpakyin::{ user=394326 } and ::aabc271::{ user=155707 }
 
 ### osu!catch
 
 - [Kugimiya Rie & Kitamura Eri - Holy Night](https://osu.ppy.sh/beatmapsets/227585) by ::Kurokami::{ user=260933 }
-- [Mahito Yokota - White Snow](https://osu.ppy.sh/beatmapsets/221167) by ::Sey::{ user=553656 } and [mingmichael](https://osu.ppy.sh/users/1570876)
-- [u's - Snow halation](https://osu.ppy.sh/beatmapsets/209390) by ::CLSW::{ user=531253 } and [Eclipst](https://osu.ppy.sh/users/2083612)
+- [Mahito Yokota - White Snow](https://osu.ppy.sh/beatmapsets/221167) by ::Sey::{ user=553656 } and ::mingmichael::{ user=1570876 }
+- [u's - Snow halation](https://osu.ppy.sh/beatmapsets/209390) by ::CLSW::{ user=531253 } and ::Eclipst::{ user=2083612 }
 - [Comedian Harmonists - Stille Nacht, Heilige Nacht](https://osu.ppy.sh/beatmapsets/534385) by ::JBHyperion::{ user=4879508 }
 - [ICE - L](https://osu.ppy.sh/beatmapsets/196230) by ::Deif::{ user=318565 }
 - [Raujika - Lost Imagination](https://osu.ppy.sh/beatmapsets/411689) by ::- Magic Bomb -::{ user=3071175 }

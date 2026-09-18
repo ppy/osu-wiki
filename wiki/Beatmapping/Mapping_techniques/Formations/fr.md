@@ -112,7 +112,7 @@ La **formation en diamant** est identique à la [formation en carrée](#formatio
 
 ### Double Stacks
 
-Nominateur : ::-Xero-::{ user=179314 } et [F1r3tar](https://osu.ppy.sh/users/5590317)
+Nominateur : ::-Xero-::{ user=179314 } et ::F1r3tar::{ user=5590317 }
 
 Le **double stacks** utilise deux notes (ou une note et une extrémité du slider) qui sont empilées l'une sur l'autre.
 

@@ -59,7 +59,7 @@ Try out [one of these difficulties](https://osu.ppy.sh/beatmapsets/2340091) the 
 
 ### ptar124 - Navis Tranquilla Jungitur
 
-If you're not an osu!taiko expert, [this map](https://osu.ppy.sh/beatmapsets/2421684) by ::Cynplytholowazy::{ user=3901754 }, [arcpotato](https://osu.ppy.sh/users/12842392), ::hz404::{ user=14947043 }, and [K a y o k o](https://osu.ppy.sh/users/17664300) from [Newbie Taiko Journey 3](https://osu.ppy.sh/community/forums/topics/2095592) might be for you.
+If you're not an osu!taiko expert, [this map](https://osu.ppy.sh/beatmapsets/2421684) by ::Cynplytholowazy::{ user=3901754 }, ::arcpotato::{ user=12842392 }, ::hz404::{ user=14947043 }, and ::K a y o k o::{ user=17664300 } from [Newbie Taiko Journey 3](https://osu.ppy.sh/community/forums/topics/2095592) might be for you.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/409/Ennodia/ptar124%20-%20Navis%20Tranquilla%20Jungitur.mp3">
@@ -67,7 +67,7 @@ If you're not an osu!taiko expert, [this map](https://osu.ppy.sh/beatmapsets/242
 
 ### Spaceport Sound Team - Strive;
 
-Run through [this gimmick map](https://osu.ppy.sh/beatmapsets/2340046) by ::SolaEclipse::{ user=6621158 } and [Nozdormu](https://osu.ppy.sh/users/7169208) and created for [Expert Global Taiko Showdown 2025](https://osu.ppy.sh/home/news/2025-05-06-expert-global-taiko-showdown-2025-concludes)!
+Run through [this gimmick map](https://osu.ppy.sh/beatmapsets/2340046) by ::SolaEclipse::{ user=6621158 } and ::Nozdormu::{ user=7169208 } and created for [Expert Global Taiko Showdown 2025](https://osu.ppy.sh/home/news/2025-05-06-expert-global-taiko-showdown-2025-concludes)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/409/Ennodia/Spaceport%20Sound%20Team%20-%20Strive%27.mp3">

@@ -39,14 +39,14 @@ Let's get started!
 [Chopin - Revolutionary Etude](https://osu.ppy.sh/beatmapsets/539300) by ::Louis Cyphre::{ user=186243 }\
 *written by ::Toy::{ user=2757689 }*
 
-One of the most infamous 9\* maps out there, ::Louis Cyphre::{ user=186243 }'s extra difficulty originally found in the description of his [ranked set of Revolutionary Etude](https://osu.ppy.sh/beatmapsets/66350#osu/193647) quickly rose to fame as one of the most popular "impossible" maps on the market. High profile players ::Azer::{ user=2155578 } and [Cookiezi](https://osu.ppy.sh/users/124493) also helped boost its popularity through stream highlights of plays on the map. The erratic, geometrically patterned jumble of circles and sliders has since become one of the game's most acclaimed aim tests.
+One of the most infamous 9\* maps out there, ::Louis Cyphre::{ user=186243 }'s extra difficulty originally found in the description of his [ranked set of Revolutionary Etude](https://osu.ppy.sh/beatmapsets/66350#osu/193647) quickly rose to fame as one of the most popular "impossible" maps on the market. High profile players ::Azer::{ user=2155578 } and ::Cookiezi::{ user=124493 } also helped boost its popularity through stream highlights of plays on the map. The erratic, geometrically patterned jumble of circles and sliders has since become one of the game's most acclaimed aim tests.
 
 [![](/wiki/shared/news/2018-04-24-project-loved-week-of-april-22nd/osu/ultramarine.jpg)](https://osu.ppy.sh/community/forums/topics/735986)
 
 [Seiryu - Ultramarine](https://osu.ppy.sh/beatmapsets/107377) by ::RLC::{ user=1047883 }\
 *written by ::Kaifin::{ user=2596942 }*
 
-::RLC::{ user=1047883 }'s [Ultramarine](https://osu.ppy.sh/beatmapsets/107377) is a classic mapset and tournament staple that was first uploaded in 2013. Featuring a full spread of difficulties from an all star cast of mappers such as ::fanzhen0019::{ user=418699 } and [yf_bmp](https://osu.ppy.sh/users/1243669), every difficulty in this set is wonderful to both play and look at. There's not much to say about this map, other than commenting on just how well executed this whole mapset is!
+::RLC::{ user=1047883 }'s [Ultramarine](https://osu.ppy.sh/beatmapsets/107377) is a classic mapset and tournament staple that was first uploaded in 2013. Featuring a full spread of difficulties from an all star cast of mappers such as ::fanzhen0019::{ user=418699 } and ::yf\1bmp::{ user=1243669 }, every difficulty in this set is wonderful to both play and look at. There's not much to say about this map, other than commenting on just how well executed this whole mapset is!
 
 [![](/wiki/shared/news/2018-04-24-project-loved-week-of-april-22nd/osu/heiju.jpg)](https://osu.ppy.sh/community/forums/topics/735987)
 
@@ -102,7 +102,7 @@ Here's a map looking for redemption as it was put up for vote back in January of
 [xi - Glorious Crown](https://osu.ppy.sh/beatmapsets/640394) by ::Nakagawa-Kanon::{ user=87065 }\
 *written by ::Toy::{ user=2757689 }*
 
-After a long hiatus, the infamous [Freedom Dive](https://osu.ppy.sh/beatmapsets/39804#osu/129891) mapper ::Nakagawa-Kanon::{ user=87065 } returns for xi's sister song, Glorious Crown. This time, featuring a full set with 250+ favorites along with guest difficulties from ::RLC::{ user=1047883 }, [Enon](https://osu.ppy.sh/users/2043401), and ::Beomsan::{ user=3626063 }, this 4 minute 225 BPM stream behemoth will leave you reeling. Good luck.
+After a long hiatus, the infamous [Freedom Dive](https://osu.ppy.sh/beatmapsets/39804#osu/129891) mapper ::Nakagawa-Kanon::{ user=87065 } returns for xi's sister song, Glorious Crown. This time, featuring a full set with 250+ favorites along with guest difficulties from ::RLC::{ user=1047883 }, ::Enon::{ user=2043401 }, and ::Beomsan::{ user=3626063 }, this 4 minute 225 BPM stream behemoth will leave you reeling. Good luck.
 
 ## osu!taiko
 
@@ -150,7 +150,7 @@ Much like the other Loved set by ::\[\_Chichinya\_\]::{ user=2140739 }, [TSLove]
 [t+pazolite with siromaru - Chambarising](https://osu.ppy.sh/beatmapsets/517258) by ::Fantazy::{ user=6890639 }\
 *written by ::Gezoda::{ user=481582 }*
 
-[Chambarising](https://osu.ppy.sh/beatmapsets/517258) is a map both by ::Fantazy::{ user=6890639 } and [katacheh](https://osu.ppy.sh/users/6651672) that would definitely be in the more tame side of their work, but still manages to pull off tricks on you. Starting of fairly normally, the map then starts using SV gimmicks, 1/8, double spinners, and goes all the way up to ninja kats! The real difficulty resides in staying consistent at all time rather than the map testing your reading ability.
+[Chambarising](https://osu.ppy.sh/beatmapsets/517258) is a map both by ::Fantazy::{ user=6890639 } and ::katacheh::{ user=6651672 } that would definitely be in the more tame side of their work, but still manages to pull off tricks on you. Starting of fairly normally, the map then starts using SV gimmicks, 1/8, double spinners, and goes all the way up to ninja kats! The real difficulty resides in staying consistent at all time rather than the map testing your reading ability.
 
 [![](/wiki/shared/news/2018-04-24-project-loved-week-of-april-22nd/taiko/el-ritmo.jpg)](https://osu.ppy.sh/community/forums/topics/736006)
 

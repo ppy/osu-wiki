@@ -13,7 +13,7 @@ This tournament couldn't have started stronger! We got a mix of upsets, close vi
 
 On a different note, for those not yet aware, the [MWC 4K 2025 support banners](https://osu.ppy.sh/store/products/1513) have gone up for sale! If you wish to offer some love to your favourite teams, you can now do so while proudly showing it on your osu! profile.
 
-With the introductions out of the way, feel free to check out this week's video recap brought to you by the hands of ::Dynascape::{ user=8784587 }, [SunApple](https://osu.ppy.sh/users/11817622), ::Normiplier::{ user=10069850 }, and [akace100](https://osu.ppy.sh/users/9308128).
+With the introductions out of the way, feel free to check out this week's video recap brought to you by the hands of ::Dynascape::{ user=8784587 }, ::SunApple::{ user=11817622 }, ::Normiplier::{ user=10069850 }, and ::akace100::{ user=9308128 }.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/ld7rUnL9uf8" frameborder="0" allowfullscreen></iframe>

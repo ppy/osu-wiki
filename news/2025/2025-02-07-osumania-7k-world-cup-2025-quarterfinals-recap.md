@@ -13,7 +13,7 @@ We get one week of respite compared to how hectic the previous rounds were, but 
 
 Do expect things to heat up in the weeks to come! 12 very strong teams remain, ranging from seed #13 all the way up to #1. The fact that there weren't many upsets during the earlier rounds means that this is going to be a very stacked finale for the tournament. But enough about the future, let us recap last week's Quarterfinals!
 
-Both ::SurfChu85::{ user=4469895 } and [yukina meng](https://osu.ppy.sh/users/9919550) with their new assistant ::Nerfox::{ user=7976724 } have prepared yet another recap in video form for Quarterfinals! This might be the best way to enjoy the recap while completing your favourite gacha game's dailies.
+Both ::SurfChu85::{ user=4469895 } and ::yukina meng::{ user=9919550 } with their new assistant ::Nerfox::{ user=7976724 } have prepared yet another recap in video form for Quarterfinals! This might be the best way to enjoy the recap while completing your favourite gacha game's dailies.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/dWqetIGpGOk" frameborder="0" allowfullscreen></iframe>
@@ -57,7 +57,7 @@ As for this week's stand-outs, besides LN4 we got [PASOCOM MUSIC CLUB feat. puni
 
 The first osu! original to be debuted in this year's tournament was [Evolutionary Anima](https://osu.ppy.sh/beatmapsets/2314344#mania/4952725) (RC5) by [Akiri](https://osu.ppy.sh/beatmaps/artists/401). To the surprise of many, this was not the tiebreaker!
 
-Handcrafted by ::Maxus::{ user=4335785 } and [Critical_Star](https://osu.ppy.sh/users/3793196), the map (and song!) was purpose-made for the mixed rice category of this round's mappool. At 173 BPM, players were in for fast streams and jacks all over. That did not scare away the players however, as the map got picked a whole 10 times this weekend, making it a very popular pick all things considered! Whether it be for its very fun gameplay or catchy tunes, players were eager to give this map a shot in most of the matches that were played.
+Handcrafted by ::Maxus::{ user=4335785 } and ::Critical\1Star::{ user=3793196 }, the map (and song!) was purpose-made for the mixed rice category of this round's mappool. At 173 BPM, players were in for fast streams and jacks all over. That did not scare away the players however, as the map got picked a whole 10 times this weekend, making it a very popular pick all things considered! Whether it be for its very fun gameplay or catchy tunes, players were eager to give this map a shot in most of the matches that were played.
 
 ## Quarterfinals summary
 

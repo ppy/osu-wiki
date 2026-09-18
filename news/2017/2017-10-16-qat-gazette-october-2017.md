@@ -32,17 +32,17 @@ It is planned for members of the Beatmap Nominators to also receive further rewa
 
 The last important point of the Upheaval was the determination of a **Quality Assurance Team Leader**. The QAT Leader is supposed to promote discussion, organise further development, and provide a communication line between game developers and the QAT / Beatmap Nominators. This makes it much easier for the needs of Beatmap Nominators and the QAT to be heard, and also for the game developers to take action on potential problems. Communication has improved quite a lot as a result!
 
-Three of our QATs, ::Deif::{ user=318565 }, [JBHyperion](https://osu.ppy.sh/users/4879508) and ::Okorin::{ user=1623405 } proposed themselves for the position, and after a voting period open to all other QATs and Beatmap Nominators, ::Okorin::{ user=1623405 } and [JBHyperion](https://osu.ppy.sh/users/4879508) were elected to the position. They will continue to push forward the remaining proposals from the Upheaval and beyond!
+Three of our QATs, ::Deif::{ user=318565 }, ::JBHyperion::{ user=4879508 } and ::Okorin::{ user=1623405 } proposed themselves for the position, and after a voting period open to all other QATs and Beatmap Nominators, ::Okorin::{ user=1623405 } and ::JBHyperion::{ user=4879508 } were elected to the position. They will continue to push forward the remaining proposals from the Upheaval and beyond!
 
 ## Beatmap Nominator Applications
 
 **New Beatmap Nominators have arrived once again!** Whilst Beatmap Nominator applications for osu! are currently underway, applications for osu!taiko, osu!catch and osu!mania from September have come to an conclusion, and we would like to welcome following new members to the Beatmap Nominators:
 
-**For osu!taiko:** ::Gabe::{ user=654108 }, [Taikocracy](https://osu.ppy.sh/users/6256027), ::frukoyurdakul::{ user=7612550 }, [neonat](https://osu.ppy.sh/users/1561995), ::xfraczynho::{ user=2192669 } and [Chromoxx](https://osu.ppy.sh/users/1881639)
+**For osu!taiko:** ::Gabe::{ user=654108 }, ::Taikocracy::{ user=6256027 }, ::frukoyurdakul::{ user=7612550 }, ::neonat::{ user=1561995 }, ::xfraczynho::{ user=2192669 } and ::Chromoxx::{ user=1881639 }
 
-**For osu!catch:** ::Electoz::{ user=6485263 } and [alienflybot](https://osu.ppy.sh/users/636114)
+**For osu!catch:** ::Electoz::{ user=6485263 } and ::alienflybot::{ user=636114 }
 
-**For osu!mania:** ::Asherz007::{ user=9014047 }, [Litharrale](https://osu.ppy.sh/users/3189995) and ::Weber::{ user=6410432 }
+**For osu!mania:** ::Asherz007::{ user=9014047 }, ::Litharrale::{ user=3189995 } and ::Weber::{ user=6410432 }
 
 As mentioned previously, we replaced the Tier system with the probation phase, which lasts for two months at most. In this time the Nominator is able to bubble beatmaps, but not to qualify them. You could call it a "test run", where the probationary BNs are closely supervised by the QAT.
 
@@ -60,7 +60,7 @@ Unfortunately, after nearly three years of service, our resident metadata expert
 
 Additionally, one of our newest team members, ::Cryptic::{ user=3728904 } has also departed after a short tenure to focus on IRL duties. You will be missed guys, thanks for your contributions!
 
-It's not all sad news however, as we also have **two new additions too!** Please give a warm welcome to the Quality Assurance Team for ::Naxess::{ user=8129817 } and [Raiden](https://osu.ppy.sh/users/2239480)!
+It's not all sad news however, as we also have **two new additions too!** Please give a warm welcome to the Quality Assurance Team for ::Naxess::{ user=8129817 } and ::Raiden::{ user=2239480 }!
 
 Together with Mao, Naxess will assist with development of the Beatmap Nominator subdivisions, where his experience coding a Discord bot for logging Beatmap Nominator activity will be invaluable.
 

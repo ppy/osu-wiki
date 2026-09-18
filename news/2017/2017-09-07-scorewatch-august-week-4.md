@@ -43,7 +43,7 @@ Once again, do support [osu!archive](https://www.reddit.com/r/osugame/comments/6
 
 ## SCORESHOW WITH ZSEIKIMATSU
 
-::\1yu68::{ user=6170507 } and [uone](https://osu.ppy.sh/users/5321719) go head to head on the recently ranked map [Infected Mushroom - The Legend of the Black Shawarma](https://osu.ppy.sh/beatmaps/1383931?m=1) with HDDT!
+::\1yu68::{ user=6170507 } and ::uone::{ user=5321719 } go head to head on the recently ranked map [Infected Mushroom - The Legend of the Black Shawarma](https://osu.ppy.sh/beatmaps/1383931?m=1) with HDDT!
 
 <iframe width="100%" height="315"  src="https://www.youtube.com/embed/3rRT6q1FOug" frameborder="0" allowfullscreen></iframe></br>
 

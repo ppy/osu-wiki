@@ -33,7 +33,7 @@ A quick reminder that we're still hosting [osu!(lazer)](https://osu.ppy.sh/home/
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::BATBALL::{ user=15173952 }, [Bernkastel](https://osu.ppy.sh/users/5154946), ::Chaoslitz::{ user=3621552 }, [chiv](https://osu.ppy.sh/users/6701656), ::MALISZEWSKI::{ user=12408961 }, [momoyo](https://osu.ppy.sh/users/12469536), ::Petal::{ user=7354729 }, [plambob](https://osu.ppy.sh/users/10077431), ::seros::{ user=10562853 }, and [Wispy](https://osu.ppy.sh/users/11106929)!
+The osu! Loved candidates were chosen by ::BATBALL::{ user=15173952 }, ::Bernkastel::{ user=5154946 }, ::Chaoslitz::{ user=3621552 }, ::chiv::{ user=6701656 }, ::MALISZEWSKI::{ user=12408961 }, ::momoyo::{ user=12469536 }, ::Petal::{ user=7354729 }, ::plambob::{ user=10077431 }, ::seros::{ user=10562853 }, and ::Wispy::{ user=11106929 }!
 
 **[Click here to download all of this round's osu! picks!](https://packs.ppy.sh/LR76%20-%20Project%20Loved:%20January%202026%20(osu!).zip)**
 
@@ -61,7 +61,7 @@ Make sure to download, play, favorite, etc. this mapset and VOTE YES!!!
 
 [![](/wiki/shared/news/2026-01-23-project-loved-january-2026/2158411.jpg)](https://osu.ppy.sh/community/forums/topics/2173357)
 
-[EXODIA - 666](https://osu.ppy.sh/beatmapsets/2158411#osu) by ::Seni::{ user=4830261 }, [Azyeu](https://osu.ppy.sh/users/17722186), ::fujinn::{ user=11221442 }, [HikariBuru](https://osu.ppy.sh/users/7019221), and ::Hitomi\_Konoe::{ user=10579320 }\
+[EXODIA - 666](https://osu.ppy.sh/beatmapsets/2158411#osu) by ::Seni::{ user=4830261 }, ::Azyeu::{ user=17722186 }, ::fujinn::{ user=11221442 }, ::HikariBuru::{ user=7019221 }, and ::Hitomi\_Konoe::{ user=10579320 }\
 214 BPM, 1:30 | 2.80★ – 7.99★\
 *description written by ::momoyo::{ user=12469536 }*
 
@@ -73,13 +73,13 @@ I hope you enjoy this map because I believe seeing top players compete in the le
 
 [![](/wiki/shared/news/2026-01-23-project-loved-january-2026/37558.jpg)](https://osu.ppy.sh/community/forums/topics/2173358)
 
-[Various Artists - jubeat Boss Stages Compilation](https://osu.ppy.sh/beatmapsets/37558#osu) by ::kiddly::{ user=74937 }, [rustbell](https://osu.ppy.sh/users/227717), and ::tsuka::{ user=106767 }\
+[Various Artists - jubeat Boss Stages Compilation](https://osu.ppy.sh/beatmapsets/37558#osu) by ::kiddly::{ user=74937 }, ::rustbell::{ user=227717 }, and ::tsuka::{ user=106767 }\
 185 BPM, 7:48 | 6.73★\
 *description written by ::seros::{ user=10562853 }*
 
 What do you mean 2011 was 15 years ago!?? Well, I guess this year's first *Outstanding Oldies* may even be older than some of our players...
 
-A collab between the "hall of fame" Chinese mappers ::kiddly::{ user=74937 }, [rustbell](https://osu.ppy.sh/users/227717), and ::tsuka::{ user=106767 }, [jubeat Boss Stages Compilation](https://osu.ppy.sh/beatmapsets/37558#osu/120706) is a true hidden gem. If you've been playing rhythm games for a bit, you may recognise what's included in this package. This marathon consists of the songs *Evans* by DJ YOSHITAKA, *AIR RAID FROM THA UNDAGROUND* by GUHROOVY, *concon* by S-C-U, and *Heavenly moon* by Tatsh.
+A collab between the "hall of fame" Chinese mappers ::kiddly::{ user=74937 }, ::rustbell::{ user=227717 }, and ::tsuka::{ user=106767 }, [jubeat Boss Stages Compilation](https://osu.ppy.sh/beatmapsets/37558#osu/120706) is a true hidden gem. If you've been playing rhythm games for a bit, you may recognise what's included in this package. This marathon consists of the songs *Evans* by DJ YOSHITAKA, *AIR RAID FROM THA UNDAGROUND* by GUHROOVY, *concon* by S-C-U, and *Heavenly moon* by Tatsh.
 
 With all these nostalgic songs and geometric patterns, this map makes you feel like you've travelled back 14 years to when [Airman](https://osu.ppy.sh/beatmapsets/24313) was the newest hot thing (not that I would know since I only joined in 2017). Anyways, be prepared for 7 minutes of good 'ol well-structured CS 5 gaming by some of the best mappers China has brought us.
 
@@ -87,13 +87,13 @@ If you love old maps and rhythm games, let's take a trip down memory lane and vo
 
 [![](/wiki/shared/news/2026-01-23-project-loved-january-2026/696524.jpg)](https://osu.ppy.sh/community/forums/topics/2173359)
 
-[yanaginagi - Fall in the Dark](https://osu.ppy.sh/beatmapsets/696524#osu) by ::Delis::{ user=1603923 } and [Mirash](https://osu.ppy.sh/users/2841009)\
+[yanaginagi - Fall in the Dark](https://osu.ppy.sh/beatmapsets/696524#osu) by ::Delis::{ user=1603923 } and ::Mirash::{ user=2841009 }\
 128 BPM, 9:18 | 5.97★\
 *description written by ::Chaoslitz::{ user=3621552 }*
 
 This month's *Small Spectacles* pick, we are revisiting an iconic song, [Shibayan feat. yana - Fall in the Dark](https://osu.ppy.sh/beatmapsets/696524), to mark this fresh 2026 start.
 
-You may be familiar with this song from the [famous Ranked set](https://osu.ppy.sh/beatmapsets/1531566), but this map was created much earlier by the classic alt-mapping duo ::Delis::{ user=1603923 } and [Mirash](https://osu.ppy.sh/users/2841009), who always deliver bangers and never disappoint.
+You may be familiar with this song from the [famous Ranked set](https://osu.ppy.sh/beatmapsets/1531566), but this map was created much earlier by the classic alt-mapping duo ::Delis::{ user=1603923 } and ::Mirash::{ user=2841009 }, who always deliver bangers and never disappoint.
 
 With 10 minutes of masterclass elevated by yana's singing, this map is perfect for taking a break from gimmicky patterns and immersing yourself in a beautiful, yet challenging experience.
 
@@ -131,7 +131,7 @@ Don't forget to vote yes if you love Touhou... and also vote yes so we can show 
 
 [![](/wiki/shared/news/2026-01-23-project-loved-january-2026/941878.jpg)](https://osu.ppy.sh/community/forums/topics/2173362)
 
-[Kakka - Alfheim (Cut Ver.)](https://osu.ppy.sh/beatmapsets/941878#osu) by ::Tidek::{ user=743282 } and [Quag](https://osu.ppy.sh/users/6535093)\
+[Kakka - Alfheim (Cut Ver.)](https://osu.ppy.sh/beatmapsets/941878#osu) by ::Tidek::{ user=743282 } and ::Quag::{ user=6535093 }\
 128 BPM, 2:08 | 2.57★\
 *description written by ::BATBALL::{ user=15173952 }*
 
@@ -145,7 +145,7 @@ And of course, make sureAnd of course,YES. of course, make sure to vote to vote 
 
 [![](/wiki/shared/news/2026-01-23-project-loved-january-2026/2229712.jpg)](https://osu.ppy.sh/community/forums/topics/2173363)
 
-[Willy William - Pulcino Pio (Willy William Remix)](https://osu.ppy.sh/beatmapsets/2229712#osu) by ::Filippu::{ user=11578193 }, [-koreangod1111](https://osu.ppy.sh/users/18750002), ::auric\_::{ user=14888249 }, [f8t](https://osu.ppy.sh/users/12605572), ::ganjanov::{ user=11584075 }, [honeydip](https://osu.ppy.sh/users/14100781), ::JAWACHAN::{ user=16099958 }, [kacper](https://osu.ppy.sh/users/9997093), ::Koxiuuu::{ user=9079969 }, [plambob](https://osu.ppy.sh/users/10077431), ::rhine::{ user=14752372 }, [Six Sevenek](https://osu.ppy.sh/users/12985528), and ::TheShadowOfDark::{ user=5795337 }\
+[Willy William - Pulcino Pio (Willy William Remix)](https://osu.ppy.sh/beatmapsets/2229712#osu) by ::Filippu::{ user=11578193 }, ::-koreangod1111::{ user=18750002 }, ::auric\_::{ user=14888249 }, ::f8t::{ user=12605572 }, ::ganjanov::{ user=11584075 }, ::honeydip::{ user=14100781 }, ::JAWACHAN::{ user=16099958 }, ::kacper::{ user=9997093 }, ::Koxiuuu::{ user=9079969 }, ::plambob::{ user=10077431 }, ::rhine::{ user=14752372 }, ::Six Sevenek::{ user=12985528 }, and ::TheShadowOfDark::{ user=5795337 }\
 128 BPM, 3:33 | 8.89★\
 *description written by ::Bernkastel::{ user=5154946 }*
 
@@ -207,7 +207,7 @@ Want to embark on the journey of a lifetime? Vote yes!
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::\_gt::{ user=8301957 }, [chmekoe](https://osu.ppy.sh/users/7807444), ::Eriha::{ user=16320311 }, [K a y o k o](https://osu.ppy.sh/users/17664300), ::nevqr::{ user=14269506 }, and [Roxy-](https://osu.ppy.sh/users/11931563)!
+The osu!taiko Loved candidates were chosen by ::\_gt::{ user=8301957 }, ::chmekoe::{ user=7807444 }, ::Eriha::{ user=16320311 }, ::K a y o k o::{ user=17664300 }, ::nevqr::{ user=14269506 }, and ::Roxy-::{ user=11931563 }!
 
 **[Click here to download all of this round's osu!taiko picks!](https://packs.ppy.sh/LR75%20-%20Project%20Loved:%20January%202026%20(osu!taiko).zip)**
 
@@ -233,11 +233,11 @@ Even top players find this map extremely challenging to master. Vote "Yes" now a
 
 [![](/wiki/shared/news/2026-01-23-project-loved-january-2026/1125612.jpg)](https://osu.ppy.sh/community/forums/topics/2173350)
 
-[KEMOMIMI EDM SQUAD - XDUBSTEPX](https://osu.ppy.sh/beatmapsets/1125612#taiko) by ::maguro869::{ user=4733750 } and [Waribashi](https://osu.ppy.sh/users/2250574)\
+[KEMOMIMI EDM SQUAD - XDUBSTEPX](https://osu.ppy.sh/beatmapsets/1125612#taiko) by ::maguro869::{ user=4733750 } and ::Waribashi::{ user=2250574 }\
 240 BPM, 4:02 | 7.11★\
 *description written by ::chmekoe::{ user=7807444 }*
 
-[KEMOMIMI EDM SQUAD - XDUBSTEPX](https://osu.ppy.sh/beatmapsets/1125612#taiko/2351867) by ::maguro869::{ user=4733750 } and [Waribashi](https://osu.ppy.sh/users/2250574) is a well-known 240 BPM map with heavy focus on bursts which has been featured in many taiko tournaments during the years. It tested consistency as a NM1, pushed the limits of how challenging a HR2 could be and decided the winner of matches as a nerve-wracking tiebreaker. No matter the situation or the mod you decide to use, this map is always a blast to play!
+[KEMOMIMI EDM SQUAD - XDUBSTEPX](https://osu.ppy.sh/beatmapsets/1125612#taiko/2351867) by ::maguro869::{ user=4733750 } and ::Waribashi::{ user=2250574 } is a well-known 240 BPM map with heavy focus on bursts which has been featured in many taiko tournaments during the years. It tested consistency as a NM1, pushed the limits of how challenging a HR2 could be and decided the winner of matches as a nerve-wracking tiebreaker. No matter the situation or the mod you decide to use, this map is always a blast to play!
 
 Vote "Yes!" if you want to see this Loved, if you're unsure about your choice just give it a try, trust me... d\[-\_-\]b
 
@@ -293,7 +293,7 @@ Whether you're a 350 BPM enjoyer or a house music enthusiast, get ready for an a
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::LaviSorrow::{ user=9966768 }, [Realmaas](https://osu.ppy.sh/users/6567640), and ::Tenshichan::{ user=1101600 }!
+The osu!catch Loved candidates were chosen by ::LaviSorrow::{ user=9966768 }, ::Realmaas::{ user=6567640 }, and ::Tenshichan::{ user=1101600 }!
 
 **[Click here to download all of this round's osu!catch picks!](https://packs.ppy.sh/LR74%20-%20Project%20Loved:%20January%202026%20(osu!catch).zip)**
 
@@ -339,13 +339,13 @@ If you ever thought those other maps were too hard, then we have a good middle g
 
 To round up this month's osu!catch picks, it's time to welcome back a name the Loved section hasn't seen in a while. With his last Loved map, [GHOST](https://osu.ppy.sh/beatmapsets/738141#fruits/1557674), dating back from 2018, ::Setomi79::{ user=2205929 } is back, and with an even crazier entry this time around.
 
-[Icyxis](https://osu.ppy.sh/beatmapsets/2352332#fruits/5063059), as you will understand from watching even its first few seconds, is an endgame-level challenge. Having gained some notoriety thanks to some mind-blowing plays from ::Motion::{ user=3885626 } and [ArMa79](https://osu.ppy.sh/users/4982799/fruits), this map follows the recent trend of pushing the limits of speed in the gamemode further and further. At a BPM of 222, the continuous onslaught of antiflows, stairs, cross-screen jumps, and wiggles is enough to gatekeep even the very best players in the world from playing the map properly. On top of that, many of the patterns found throughout the map are rather unconventional, which is unusual for a speed-focused map. This adds a massive control requirement, *as if the speed wasn't enough*.
+[Icyxis](https://osu.ppy.sh/beatmapsets/2352332#fruits/5063059), as you will understand from watching even its first few seconds, is an endgame-level challenge. Having gained some notoriety thanks to some mind-blowing plays from ::Motion::{ user=3885626 } and ::ArMa79::{ user=4982799 }, this map follows the recent trend of pushing the limits of speed in the gamemode further and further. At a BPM of 222, the continuous onslaught of antiflows, stairs, cross-screen jumps, and wiggles is enough to gatekeep even the very best players in the world from playing the map properly. On top of that, many of the patterns found throughout the map are rather unconventional, which is unusual for a speed-focused map. This adds a massive control requirement, *as if the speed wasn't enough*.
 
 With how much better players have gotten at endgame maps, it is time to add one more to the Loved section. And this one could very well be one of the hardest it has ever seen. Vote yes for [Icyxis](https://osu.ppy.sh/beatmapsets/2352332#fruits/5063059)!
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::Carpihat::{ user=10085090 }, [elexire](https://osu.ppy.sh/users/9206093), ::Maxus::{ user=4335785 }, [Paturages](https://osu.ppy.sh/users/1375479), ::taba2::{ user=7850508 }, and [Yuiesta](https://osu.ppy.sh/users/13953619)!
+The osu!mania Loved candidates were chosen by ::Carpihat::{ user=10085090 }, ::elexire::{ user=9206093 }, ::Maxus::{ user=4335785 }, ::Paturages::{ user=1375479 }, ::taba2::{ user=7850508 }, and ::Yuiesta::{ user=13953619 }!
 
 **[Click here to download all of this round's osu!mania picks!](https://packs.ppy.sh/LR73%20-%20Project%20Loved:%20January%202026%20(osu!mania).zip)**
 
@@ -359,7 +359,7 @@ The osu!mania Loved candidates were chosen by ::Carpihat::{ user=10085090 }, [el
 
 [![](/wiki/shared/news/2026-01-23-project-loved-january-2026/941878.jpg)](https://osu.ppy.sh/community/forums/topics/2173334)
 
-[Kakka - Alfheim (Cut Ver.)](https://osu.ppy.sh/beatmapsets/941878#mania) by ::Tidek::{ user=743282 } and [Quag](https://osu.ppy.sh/users/6535093)\
+[Kakka - Alfheim (Cut Ver.)](https://osu.ppy.sh/beatmapsets/941878#mania) by ::Tidek::{ user=743282 } and ::Quag::{ user=6535093 }\
 128 BPM, 2:10 | 3.38★\
 *description written by ::Paturages::{ user=1375479 }*
 
@@ -373,7 +373,7 @@ I cannot speak for the osu! side of things, but ::Quag::{ user=6535093 }'s descr
 
 [![](/wiki/shared/news/2026-01-23-project-loved-january-2026/2075439.jpg)](https://osu.ppy.sh/community/forums/topics/2173335)
 
-[Frums - Pictured as Perfect](https://osu.ppy.sh/beatmapsets/2075439#mania) by ::Tunnelblick::{ user=7737096 } and [caracol](https://osu.ppy.sh/users/10764851)\
+[Frums - Pictured as Perfect](https://osu.ppy.sh/beatmapsets/2075439#mania) by ::Tunnelblick::{ user=7737096 } and ::caracol::{ user=10764851 }\
 190 BPM, 2:21 | 3.16★, 3.16★\
 The \[delete\] difficulty is *not* being nominated for Loved.\
 *description written by ::Paturages::{ user=1375479 }*
@@ -473,22 +473,22 @@ Show your support for these maps by voting!
 
 [![](/wiki/shared/news/2026-01-23-project-loved-january-2026/1743892.jpg)](https://osu.ppy.sh/community/forums/topics/2173342)
 
-[Various Artists - 6K CHUNITHM Collection](https://osu.ppy.sh/beatmapsets/1743892#mania) by ::HMillion::{ user=12891443 } and [\[Crz\]sunnyxxy](https://osu.ppy.sh/users/10333739)\
+[Various Artists - 6K CHUNITHM Collection](https://osu.ppy.sh/beatmapsets/1743892#mania) by ::HMillion::{ user=12891443 } and ::\[Crz\]sunnyxxy::{ user=10333739 }\
 118 – 260 BPM, 2:52 | 5.27★ – 8.09★\
 The \[0 - Delete This \[0\]\] difficulty is *not* being nominated for Loved.\
 *description written by ::Carpihat::{ user=10085090 }*
 
-It's been half a year since we nominated any anti-meta keymode sets. This time, we're bringing these nice 6K packs into the voting here! The difficulty of this set ranges from \[15\] to \[21\]. If you have gained certain skills in 6K, you could have a chance of playing it. The hardest difficulty would not require you to be a world top player. Accordingly, it is a mid-skilled range set. This pack is a collab map created by 2 decent and experienced 6K mappers, ::HMillion::{ user=12891443 } and [[Crz]sunnyxxy](https://osu.ppy.sh/users/10333739). These 2 mappers have mapped rice, hybrid, and LN. All of which are contained in this pack.
+It's been half a year since we nominated any anti-meta keymode sets. This time, we're bringing these nice 6K packs into the voting here! The difficulty of this set ranges from \[15\] to \[21\]. If you have gained certain skills in 6K, you could have a chance of playing it. The hardest difficulty would not require you to be a world top player. Accordingly, it is a mid-skilled range set. This pack is a collab map created by 2 decent and experienced 6K mappers, ::HMillion::{ user=12891443 } and ::\1Crz\1sunnyxxy::{ user=10333739 }. These 2 mappers have mapped rice, hybrid, and LN. All of which are contained in this pack.
 
 Vote for this map if you're a 6K fan! We're also glad that this would be another anti-meta keymode party!
 
 [![](/wiki/shared/news/2026-01-23-project-loved-january-2026/1531894.jpg)](https://osu.ppy.sh/community/forums/topics/2173343)
 
-[Rejection - Signal (ft. SUCH)](https://osu.ppy.sh/beatmapsets/1531894#mania) by ::Lung\_P::{ user=8271308 } and [Flexo123](https://osu.ppy.sh/users/5367287)\
+[Rejection - Signal (ft. SUCH)](https://osu.ppy.sh/beatmapsets/1531894#mania) by ::Lung\_P::{ user=8271308 } and ::Flexo123::{ user=5367287 }\
 175 BPM, 5:08 | 5.53★, 8.52★\
 *description written by ::Maxus::{ user=4335785 }*
 
-We have the rare collaboration between ::Lung\1P::{ user=8271308 } and [Flexo123](https://osu.ppy.sh/users/5367287), both are extremely talented mappers with plenty of experience charting various LN patterns as their main speciality!
+We have the rare collaboration between ::Lung\1P::{ user=8271308 } and ::Flexo123::{ user=5367287 }, both are extremely talented mappers with plenty of experience charting various LN patterns as their main speciality!
 
 For this opportunity, we want to present [Rejection - Signal (feat. SUCH)](https://osu.ppy.sh/beatmapsets/1531894#mania/3133039) which is a popular chart that gained a high standing amongst the community. Both the 4K and 7K difficulties feature mainly dense LN patterns with several mixtures of patterns that test your accuracy and physicality to hit them properly. If you don't hit them carefully and with precision, you will find yourself struggling to maintain high accuracy!
 
@@ -498,7 +498,7 @@ We are honored to present this chart to start 2026 with new energy and new life!
 
 That's all from us this month! From the [Project Loved team](https://loved.sh/contributors), happy new year! We have more surprises planned for you in 2026, so stay tuned. All the beatmaps that pass voting will reach the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) soon after the polls end, so stay tuned and don't forget your vote, every person counts!
 
-And a special thank you to this month's replay contributors: ::Chaoslitz::{ user=3621552 }, [Petal](https://osu.ppy.sh/users/7354729), ::BATBALL::{ user=15173952 }, [chiv](https://osu.ppy.sh/users/6701656), and ::Motion::{ user=3885626 }!
+And a special thank you to this month's replay contributors: ::Chaoslitz::{ user=3621552 }, ::Petal::{ user=7354729 }, ::BATBALL::{ user=15173952 }, ::chiv::{ user=6701656 }, and ::Motion::{ user=3885626 }!
 
 More info about Project Loved can be found on its [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/). Stop by the `#osu-loved` channel of the [osu! Discord server](https://discord.com/invite/ppy) if you have any questions, concerns, or are interested in helping out.
 

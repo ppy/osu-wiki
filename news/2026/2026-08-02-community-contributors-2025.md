@@ -107,7 +107,7 @@ Outside of the official client, Maarvin has also been responsible for a very amb
 
 ::!\1Muziyami\1(/wiki/shared/news/2026-08-02-community-contributors-2025/muziyami.jpg)::{ user=7003013 }
 
-osu! is proud to be the home of rhythm game enthusiasts from all over the world. However, ever since the fall of the Tower of Babylon, languages have always been a difficult barrier to overcome. Thankfully, with people like ::**The\1Last\1Cookie**::{ user=11587828 }, [**Tiburon**](https://osu.ppy.sh/users/18115022), ::**Agatem**::{ user=18202514 }, and [**Muziyami**](https://osu.ppy.sh/users/7003013) this has never been a problem for German, Spanish, and Chinese players alike! Their continued support keeping the wiki, website, and client up to date has made it possible for many users to enjoy the game in a wide variety of languages. Thank you! Gracias! Danke sehr! 非常感谢!
+osu! is proud to be the home of rhythm game enthusiasts from all over the world. However, ever since the fall of the Tower of Babylon, languages have always been a difficult barrier to overcome. Thankfully, with people like ::**The\1Last\1Cookie**::{ user=11587828 }, ::**Tiburon**::{ user=18115022 }, ::**Agatem**::{ user=18202514 }, and ::**Muziyami**::{ user=7003013 } this has never been a problem for German, Spanish, and Chinese players alike! Their continued support keeping the wiki, website, and client up to date has made it possible for many users to enjoy the game in a wide variety of languages. Thank you! Gracias! Danke sehr! 非常感谢!
 
 ## Storyboarding
 
@@ -133,7 +133,7 @@ See for yourself in the highlight reel below:
 
 ---
 
-Shoutout to ::TtmnZk::{ user=2495509 } and [Yasuho](https://osu.ppy.sh/users/8458835) for their work on this year's banner designs!
+Shoutout to ::TtmnZk::{ user=2495509 } and ::Yasuho::{ user=8458835 } for their work on this year's banner designs!
 
 The story of this community has been written by countless individuals who chose to dedicate their time, creativity, and care. We are profoundly grateful for every one of them, and we're excited to celebrate the generation who will write its next chapter.
 

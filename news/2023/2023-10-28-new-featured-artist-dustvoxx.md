@@ -59,7 +59,7 @@ Try out [this brand new osu! spread](https://osu.ppy.sh/beatmapsets/2064173) hos
 
 If remixes are more your style, check out one of these:
 
-- [Loved osu! map](https://osu.ppy.sh/beatmapsets/1035362) by ::Nattu::{ user=1886722 } and [Ciyus Miapah](https://osu.ppy.sh/users/2805457)
+- [Loved osu! map](https://osu.ppy.sh/beatmapsets/1035362) by ::Nattu::{ user=1886722 } and ::Ciyus Miapah::{ user=2805457 }
 - [Another Loved osu! map](https://osu.ppy.sh/beatmapsets/1526448) hosted by ::OKSY::{ user=19484011 }
 - [osu!catch map](https://osu.ppy.sh/beatmapsets/1345281) hosted by ::Nosuri::{ user=2150415 }
 

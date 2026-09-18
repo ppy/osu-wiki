@@ -23,7 +23,7 @@ If you're looking for a sample of **siromaru**'s work (and you've already played
 
 ### siromaru - Gensou Kaiki no Omochabako
 
-Experience [the map from the video](https://osu.ppy.sh/beatmapsets/1649491) mapped by ::UberFazz::{ user=8646059 } and [ScubDomino](https://osu.ppy.sh/users/8972308)!
+Experience [the map from the video](https://osu.ppy.sh/beatmapsets/1649491) mapped by ::UberFazz::{ user=8646059 } and ::ScubDomino::{ user=8972308 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/226/Songs/siromaru%20-%20Gensou%20Kaiki%20no%20Omochabako.mp3" type="audio/mpeg">

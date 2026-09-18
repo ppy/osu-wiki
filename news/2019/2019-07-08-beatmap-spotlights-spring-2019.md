@@ -15,10 +15,10 @@ The beatmap charts for the Spring Spotlights can be found [here](https://osu.ppy
 
 First of all, congratulations to the winners of the Seasonal Spotlights: Winter 2019. They will receive 3, 2, and 1 month of supporter for 1st, 2nd, and 3rd place respectively for their efforts!
 
-- **osu!:** ::Toy::{ user=2757689 }, [Apraxia](https://osu.ppy.sh/users/4194445) and ::xxluizxx47::{ user=4687701 }
-- **osu!taiko:** ::Jaye::{ user=4841352 }, [AlvaroYL](https://osu.ppy.sh/users/6333166) and ::tasuke912::{ user=2774767 }
-- **osu!catch:** ::rostld::{ user=4365562 }, [RAMPAGE88](https://osu.ppy.sh/users/448547) and ::-Nirfu-::{ user=7332050 }
-- **osu!mania:** ::\[Crz\]Satori::{ user=7082178 }, [Stink God](https://osu.ppy.sh/users/7381289) and ::Cryolien::{ user=1626983 }
+- **osu!:** ::Toy::{ user=2757689 }, ::Apraxia::{ user=4194445 } and ::xxluizxx47::{ user=4687701 }
+- **osu!taiko:** ::Jaye::{ user=4841352 }, ::AlvaroYL::{ user=6333166 } and ::tasuke912::{ user=2774767 }
+- **osu!catch:** ::rostld::{ user=4365562 }, ::RAMPAGE88::{ user=448547 } and ::-Nirfu-::{ user=7332050 }
+- **osu!mania:** ::\[Crz\]Satori::{ user=7082178 }, ::Stink God::{ user=7381289 } and ::Cryolien::{ user=1626983 }
 
 ## Navigation
 
@@ -65,7 +65,7 @@ Last time we showed you the orchestral arrangement of the song "Kyoumen no Nami"
 
 Not fazed by its characteristic polyrhythms, he captures the song's beauty perfectly with his movement choices and hitsounds which definitely elevate the map, making it something worth checking out. ::Darky1::{ user=3372928 }'s storyboard once again adds to the atmosphere for a great gameplay experience as one might be familiar with other Vell maps.
 
-Don't forget to check out the lower difficulties by ::Stjpa::{ user=2954693 } and [Smokeman](https://osu.ppy.sh/users/2140676) which both also manage to follow the song in a very enjoyable way.
+Don't forget to check out the lower difficulties by ::Stjpa::{ user=2954693 } and ::Smokeman::{ user=2140676 } which both also manage to follow the song in a very enjoyable way.
 
 _written by ::Icekalt::{ user=5410645 }_
 
@@ -124,7 +124,7 @@ _written by ::Kazu::{ user=920861 }_
 
 [![](/wiki/shared/news/2019-07-07-beatmap-spotlights-spring-2019/taiko/sugary.jpg)](https://osu.ppy.sh/beatmapsets/578489)
 
-If you are looking for stamina challenges for this season, Zekk's "Sugary Daydream", hosted by ::TKS::{ user=940878 } with the help of [Raiden](https://osu.ppy.sh/users/Raiden) and ::\[Chichinya\]::{ user=2140739 }, is likely a promising choice with the high BPM nature.
+If you are looking for stamina challenges for this season, Zekk's "Sugary Daydream", hosted by ::TKS::{ user=940878 } with the help of ::Raiden::{ user=2239480 } and ::\[Chichinya\]::{ user=2140739 }, is likely a promising choice with the high BPM nature.
 
 Being a very experienced mapper in the Taiko community since their appearance in 2013, TKS never ceases their mapping enthusiasm to amaze people with this thrilling creation. The top difficulty features 1/6 and 1/8 bursts that arrange incredibly well with the packed 1/4 patterning, while comfortable density transitions are shown correspondingly among sessions with a different pace. High consistency is also maintained throughout the set with a relatively reasonable spread spectrum, making it fun and satisfying to play.
 
@@ -244,7 +244,7 @@ _written by ::Snowless::{ user=4316266 }_
 
 [![](/wiki/shared/news/2019-07-07-beatmap-spotlights-spring-2019/mania/suiren.jpg)](https://osu.ppy.sh/beatmapsets/545484)
 
-Though it took nearly two and a half years for it to reach the ranked section, ::Tidek::{ user=743282 } and [\_underjoy](https://osu.ppy.sh/users/2235750)'s "Suiren" more than deserves its spot in spotlights.
+Though it took nearly two and a half years for it to reach the ranked section, ::Tidek::{ user=743282 } and ::\_underjoy::{ user=2235750 }'s "Suiren" more than deserves its spot in spotlights.
 
 Tidek's 4k Blossoming Lily is a sheer masterpiece in terms of musical relevancy and intensity. The full range of emotions in the song is represented by repetitive patterning, polyrhythms, trills, and jumpstreams that heavily rely on the flow and pitch of the piano itself in the music. This culminates into two vibrantly intense climaxes represented by challenging glut patterning.
 
@@ -254,7 +254,7 @@ _written by ::-MysticEyes::{ user=6253266 }_
 
 [![](/wiki/shared/news/2019-07-07-beatmap-spotlights-spring-2019/mania/manycolors.jpg)](https://osu.ppy.sh/beatmapsets/829383)
 
-::Vortex-::{ user=4999669 } joins the ranked section with a spectacular chart along with guest difficulties from ::Civilization::{ user=6814203 } and [qqqant](https://osu.ppy.sh/users/8976576)! Each difficulty, whether it's the easiest or hardest, captures the uniqueness of "Frums" respectively to their difficulties.
+::Vortex-::{ user=4999669 } joins the ranked section with a spectacular chart along with guest difficulties from ::Civilization::{ user=6814203 } and ::qqqant::{ user=8976576 }! Each difficulty, whether it's the easiest or hardest, captures the uniqueness of "Frums" respectively to their difficulties.
 
 The technicality of this set is not something usually seen in ranked and the mapset is challenging to many players while also having a very strong structure.
 

@@ -13,7 +13,7 @@ Crafting their own cinematic metal universe with back to back masterpieces, **Xa
 
 **16** of these mood-rich tracks are now available for your mapping experimentation, all from [**Xanthochroid**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/152`).
 
-Something you might immediately notice is that these tracks are (mostly) catered towards the highest echelon of difficulty. To even things out, ::eiri-::{ user=3388410 } and [Zelq](https://osu.ppy.sh/users/8953955) of the Mappers' Guild have been hard at work setting up a full difficulty spread for [*Xanthochroid - The Sound of Hunger Rises*](https://osu.ppy.sh/beatmapsets/1335143), allowing players of all skill levels to engage with this glorious 6 minute track.
+Something you might immediately notice is that these tracks are (mostly) catered towards the highest echelon of difficulty. To even things out, ::eiri-::{ user=3388410 } and ::Zelq::{ user=8953955 } of the Mappers' Guild have been hard at work setting up a full difficulty spread for [*Xanthochroid - The Sound of Hunger Rises*](https://osu.ppy.sh/beatmapsets/1335143), allowing players of all skill levels to engage with this glorious 6 minute track.
 
 Check that out, along with a video showcasing the range of intensity in **Xanthochroid**'s works, plus a whole bunch of other cool maps:
 
@@ -25,7 +25,7 @@ Check that out, along with a video showcasing the range of intensity in **Xantho
 
 ### In Putris Stagnum
 
-Play [the map in the video above](https://osu.ppy.sh/beatmapsets/968625#osu/2026764) created by ::Mun::{ user=6699165 } and [ItsWinter](https://osu.ppy.sh/users/6381153)!
+Play [the map in the video above](https://osu.ppy.sh/beatmapsets/968625#osu/2026764) created by ::Mun::{ user=6699165 } and ::ItsWinter::{ user=6381153 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/152/Blessed%20He%20With%20Boils/Xanthochroid%20-%20In%20Putris%20Stagnum.mp3" type="audio/mpeg">
@@ -41,7 +41,7 @@ Try out [this map](https://osu.ppy.sh/beatmapsets/1018888) created by top player
 
 ### Of Gods Bereft of Grace
 
-Check out [this map](https://osu.ppy.sh/beatmapsets/961206) also created by ::Mun::{ user=6699165 } and [ItsWinter](https://osu.ppy.sh/users/6381153)!
+Check out [this map](https://osu.ppy.sh/beatmapsets/961206) also created by ::Mun::{ user=6699165 } and ::ItsWinter::{ user=6381153 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/152/Of%20Erthe%20and%20Axen%20Act%20II/Xanthochroid%20-%20Of%20Gods%20Bereft%20of%20Grace.mp3" type="audio/mpeg">
@@ -73,7 +73,7 @@ Delve into [this map](https://osu.ppy.sh/beatmapsets/1277834) hosted by ::AsaBen
 
 ### The Sound of Hunger Rises
 
-And in case you missed it earlier, try [this full difficulty spread](https://osu.ppy.sh/beatmapsets/1335143) created by ::eiri-::{ user=3388410 } and [Zelq](https://osu.ppy.sh/users/8953955) of the Mappers' Guild!
+And in case you missed it earlier, try [this full difficulty spread](https://osu.ppy.sh/beatmapsets/1335143) created by ::eiri-::{ user=3388410 } and ::Zelq::{ user=8953955 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/152/Of%20Erthe%20and%20Axen%20Act%20I/Xanthochroid%20-%20The%20Sound%20of%20Hunger%20Rises.mp3" type="audio/mpeg">

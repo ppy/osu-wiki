@@ -33,7 +33,7 @@ Before we get into the picks for September, we would like to take a moment to th
 
 September 2023 marks our **6th year of operation**, with the first ever round of Project Loved, formerly Loved Captain's Pick, debuting all the way back in September of 2017! Time sure flies when you're having fun, huh? If you want a real trip down memory lane or if you're a big osu! history buff, head on over to check out the [first ever news post about Loved Captain's Pick](https://osu.ppy.sh/home/news/2017-09-25-introducing-the-loved-captains-pick)! If that's not enough for you, our very own ::MegaMix\1Craft::{ user=18152711 } has made a handy website to view [every single Project Loved news post that's ever been made](https://megamix.dev/lvd/newsposts_list/)! If you want to see how Project Loved has changed over the years, there's no better way than this!
 
-We would like to also extend a big thank you to the original pioneers of Project Loved, ::Toy::{ user=2757689 } and [Kaifin](https://osu.ppy.sh/users/2596942), as well as [anyone and everyone involved throughout the years](https://loved.sh/contributors), big or small, for planting the seed that would eventually bloom into the Project Loved we have today. None of this would have been possible without the assistance from the osu! team either, but an especially big thank you goes to the one and only ::swole seagull::{ user=102335 } for their continued assistance whenever we encounter speed bumps along the way.
+We would like to also extend a big thank you to the original pioneers of Project Loved, ::Toy::{ user=2757689 } and ::Kaifin::{ user=2596942 }, as well as [anyone and everyone involved throughout the years](https://loved.sh/contributors), big or small, for planting the seed that would eventually bloom into the Project Loved we have today. None of this would have been possible without the assistance from the osu! team either, but an especially big thank you goes to the one and only ::swole seagull::{ user=102335 } for their continued assistance whenever we encounter speed bumps along the way.
 
 In light of this anniversary, you might notice that this month's selection for maps is considerably larger than previous rounds, with a whopping **40 maps nominated**, so we hope you enjoy the grander selection in celebration of this momentous milestone!
 
@@ -56,7 +56,7 @@ That's all we have to share on the news front for Project Loved, let's finally g
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::Aistre::{ user=4879380 }, [Kingling](https://osu.ppy.sh/users/7010761), ::megumic::{ user=7537133 }, [Mismagius](https://osu.ppy.sh/users/19048), ::rHO::{ user=1629553 }, [Skill](https://osu.ppy.sh/users/7802027), and ::Wixonater::{ user=10083084 }!
+The osu! Loved candidates were chosen by ::Aistre::{ user=4879380 }, ::Kingling::{ user=7010761 }, ::megumic::{ user=7537133 }, ::Mismagius::{ user=19048 }, ::rHO::{ user=1629553 }, ::Skill::{ user=7802027 }, and ::Wixonater::{ user=10083084 }!
 
 <div align="center">
   <video width="95%" controls>
@@ -178,11 +178,11 @@ Only falling short of 84.55% in the last voting, this one deserves a second chan
 
 [![](/wiki/shared/news/2023-09-20-project-loved-six-years-september-2023/777099.jpg)](https://osu.ppy.sh/community/forums/topics/1823771)
 
-[LOONA/Chuu - Heart Attack](https://osu.ppy.sh/beatmapsets/777099#osu) by ::happy30::{ user=27767 }, [PandaHero](https://osu.ppy.sh/users/1233255), and ::ReFaller::{ user=4841608 }\
+[LOONA/Chuu - Heart Attack](https://osu.ppy.sh/beatmapsets/777099#osu) by ::happy30::{ user=27767 }, ::PandaHero::{ user=1233255 }, and ::ReFaller::{ user=4841608 }\
 99 BPM, 3:20 | 1.44★, 1.61★, 3.23★, 4.15★\
 *description written by ::Aistre::{ user=4879380 }*
 
-September's *Chill Champions* goes out to all the orbits! A little belated, but this pick is dedicated to Chuu's independence day with a mapset of [LOONA/Chuu - Heart Attack](https://osu.ppy.sh/beatmapsets/777099#osu/1632633) hosted by our very own Featured Artist and veteran mapper [happy30](https://osu.ppy.sh/beatmaps/artists/317) featuring guest difficulties by ::ReFaller::{ user=4841608 } and [PandaHero](https://osu.ppy.sh/users/1233255)!
+September's *Chill Champions* goes out to all the orbits! A little belated, but this pick is dedicated to Chuu's independence day with a mapset of [LOONA/Chuu - Heart Attack](https://osu.ppy.sh/beatmapsets/777099#osu/1632633) hosted by our very own Featured Artist and veteran mapper [happy30](https://osu.ppy.sh/beatmaps/artists/317) featuring guest difficulties by ::ReFaller::{ user=4841608 } and ::PandaHero::{ user=1233255 }!
 
 Staying true to the *Chill Champions* title, this map sits at 4.15★ and is mapped in a simple yet elegant style. If you're a more casual and laid-back player, then the lower difficulties are what you're looking for.
 
@@ -192,7 +192,7 @@ And one more thing... Stan LOONA
 
 [![](/wiki/shared/news/2023-09-20-project-loved-six-years-september-2023/1602707.jpg)](https://osu.ppy.sh/community/forums/topics/1823770)
 
-[Neophyte & Tha Playah - Snitcher! (Ncrypta Remix)](https://osu.ppy.sh/beatmapsets/1602707#osu) by ::nhlx::{ user=3827077 }, [Rorupan L9](https://osu.ppy.sh/users/9471638), ::Ryebyrinth::{ user=7777765 }, [subahibi](https://osu.ppy.sh/users/10627594), and ::Xarr::{ user=7262065 }\
+[Neophyte & Tha Playah - Snitcher! (Ncrypta Remix)](https://osu.ppy.sh/beatmapsets/1602707#osu) by ::nhlx::{ user=3827077 }, ::Rorupan L9::{ user=9471638 }, ::Ryebyrinth::{ user=7777765 }, ::subahibi::{ user=10627594 }, and ::Xarr::{ user=7262065 }\
 185 BPM, 3:17 | 4.85★, 6.81★, 7.41★, 7.51★, 7.65★\
 *description written by ::rHO::{ user=1629553 }*
 
@@ -207,17 +207,17 @@ Blasting hardstyle with its full glory, nhlx doesn't shy away (quite literally h
 The \[hs diff\] difficulty is *not* being nominated for Loved.\
 *description written by ::Kingling::{ user=7010761 }*
 
-Did someone say... Cattle Decapitation in the osu! Loved category!? First popularised over 4 years ago by speed legend ::Informous::{ user=4734244 } with his FC, [Circo Inhumanitas](https://osu.ppy.sh/beatmapsets/696666#osu) has since been a staple map in every high-tier stamina player's collection. With players like ::yary::{ user=13300203 } and [ninerik](https://osu.ppy.sh/users/10549880) bringing this map back into the limelight in recent times, both with FCs worth over 1000 pp no less, what better time to give this map a leaderboard and let people compete to be the ultimate stamina player?
+Did someone say... Cattle Decapitation in the osu! Loved category!? First popularised over 4 years ago by speed legend ::Informous::{ user=4734244 } with his FC, [Circo Inhumanitas](https://osu.ppy.sh/beatmapsets/696666#osu) has since been a staple map in every high-tier stamina player's collection. With players like ::yary::{ user=13300203 } and ::ninerik::{ user=10549880 } bringing this map back into the limelight in recent times, both with FCs worth over 1000 pp no less, what better time to give this map a leaderboard and let people compete to be the ultimate stamina player?
 
 Whether you want a new map to practice your stamina skills with or, like me as a stamina scrub, just want to sit back and watch the professionals battle it out, make sure you vote yes and watch the chaos unfold!
 
 [![](/wiki/shared/news/2023-09-20-project-loved-six-years-september-2023/1828594.jpg)](https://osu.ppy.sh/community/forums/topics/1823768)
 
-[Arash - Temptation feat. Rebecca (Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/1828594#osu) by ::Azrealy::{ user=12235272 } and [discoboi](https://osu.ppy.sh/users/14959496)\
+[Arash - Temptation feat. Rebecca (Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/1828594#osu) by ::Azrealy::{ user=12235272 } and ::discoboi::{ user=14959496 }\
 252 BPM, 2:54 | 8.66★, 9.10★\
 *description written by ::Skill::{ user=7802027 }*
 
-The final *Wildcard* for this month is ::Azrealy::{ user=12235272 }'s and [discoboi](https://osu.ppy.sh/users/14959496)'s take on [Arash - Temptation feat. Rebecca (Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/1828594#osu/3752975), another banger!
+The final *Wildcard* for this month is ::Azrealy::{ user=12235272 }'s and ::discoboi::{ user=14959496 }'s take on [Arash - Temptation feat. Rebecca (Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/1828594#osu/3752975), another banger!
 
 More jump maps in Project Loved? Yes. This map pushes your aim to the limit — **9.10★** is no joke after all. Filled with jumps and bursts at just under 3 minutes, this map is the territory for the best of the best aim players, but don't worry! If the circles are too big for you, there's a CS 3.3 difficulty to make your life just a tad bit easier. Gathering 32,000+ plays and 100+ favorites in just over a year definitely shows that it is *Loved* by many, just like me.
 
@@ -225,7 +225,7 @@ Will we see some White Cats, or maybe even some cooked bacon made by a malisCHEF
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [aceticke](https://osu.ppy.sh/users/8838763), ::Boaz::{ user=13302996 }, [Eriha](https://osu.ppy.sh/users/16320311), ::Gamelan4::{ user=9856910 }, [Horiiizon](https://osu.ppy.sh/users/8071438), and ::ler1211::{ user=19901680 }!
+The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::aceticke::{ user=8838763 }, ::Boaz::{ user=13302996 }, ::Eriha::{ user=16320311 }, ::Gamelan4::{ user=9856910 }, ::Horiiizon::{ user=8071438 }, and ::ler1211::{ user=19901680 }!
 
 <div align="center">
   <video width="95%" controls>
@@ -280,11 +280,11 @@ It may look a little puny with its current star rating of 6.16★, but let me te
 
 [![](/wiki/shared/news/2023-09-20-project-loved-six-years-september-2023/1828739.jpg)](https://osu.ppy.sh/community/forums/topics/1823763)
 
-[Slax - Giri The Giri](https://osu.ppy.sh/beatmapsets/1828739#taiko) by ::Horiiizon::{ user=8071438 } and [ler1211](https://osu.ppy.sh/users/19901680)\
+[Slax - Giri The Giri](https://osu.ppy.sh/beatmapsets/1828739#taiko) by ::Horiiizon::{ user=8071438 } and ::ler1211::{ user=19901680 }\
 215 BPM, 2:30 | 5.71★\
 *description written by ::Boaz::{ user=13302996 }*
 
-The [Global Taiko Showdown](/wiki/Tournaments/GTS) series brings yet another banger to the loved voting scene, giving ::Horiiizon::{ user=8071438 } and [ler1211](https://osu.ppy.sh/users/19901680) a chance to shine.
+The [Global Taiko Showdown](/wiki/Tournaments/GTS) series brings yet another banger to the loved voting scene, giving ::Horiiizon::{ user=8071438 } and ::ler1211::{ user=19901680 } a chance to shine.
 
 [Giri The Giri](https://osu.ppy.sh/beatmapsets/1828739) is a [custom song](/wiki/osu!_originals#expert-global-taiko-showdown-2022) by Slax made for [Expert Global Taiko Showdown 2022](/wiki/Tournaments/GTS/EGTS_2022), sampling a fairly well-known song amongst the osu! community!
 
@@ -294,7 +294,7 @@ Give *Giri The Giri* a try now if you haven't already and cast your vote.
 
 [![](/wiki/shared/news/2023-09-20-project-loved-six-years-september-2023/1681888.jpg)](https://osu.ppy.sh/community/forums/topics/1823762)
 
-[DJ Mass MAD Izm\* - Shakunetsu Beach Side Bunny](https://osu.ppy.sh/beatmapsets/1681888#taiko) by ::HomieLove::{ user=8693851 } and [Raphalge](https://osu.ppy.sh/users/3918650)\
+[DJ Mass MAD Izm\* - Shakunetsu Beach Side Bunny](https://osu.ppy.sh/beatmapsets/1681888#taiko) by ::HomieLove::{ user=8693851 } and ::Raphalge::{ user=3918650 }\
 153 BPM, 2:00 | 5.65★\
 *description written by ::aceticke::{ user=8838763 }*
 
@@ -318,13 +318,13 @@ Truly a map that survived the test of time. It would be a complete miss from our
 220 BPM, 2:17 | 6.78★, 7.20★\
 *description written by ::Horiiizon::{ user=8071438 }*
 
-[7_7 - ?_?](https://osu.ppy.sh/beatmapsets/1163967#taiko) consists of 2 difficulties from mapping titans ::7\17::{ user=7491106 } and [Waribashi](https://osu.ppy.sh/users/2250574) (formerly known as KTYN). 7_7's difficulty, *?_?*, consists of a mixture of odd- and even-numbered patterns that flow seamlessly into each other as well as some shorter streams and simple 1/6 patterning. These combine to make a less stressful but very enjoyable and satisfying difficulty!
+[7_7 - ?_?](https://osu.ppy.sh/beatmapsets/1163967#taiko) consists of 2 difficulties from mapping titans ::7\17::{ user=7491106 } and ::Waribashi::{ user=2250574 } (formerly known as KTYN). 7_7's difficulty, *?_?*, consists of a mixture of odd- and even-numbered patterns that flow seamlessly into each other as well as some shorter streams and simple 1/6 patterning. These combine to make a less stressful but very enjoyable and satisfying difficulty!
 
 Waribashi's difficulty, *huh?*, is a very fun technical map that consists of far more frequent and more difficult 1/6 patterns than the previous difficulty, as well as repeatedly using 3/16 doublets. Make sure you're also prepared for the two 100+ note streams at the very end of the map! Do you have what it takes?_?
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::fuhie::{ user=7620002 }, [Sartan](https://osu.ppy.sh/users/4100941), ::Tenshichan::{ user=1101600 }, and [Wesley](https://osu.ppy.sh/users/2407265)!
+The osu!catch Loved candidates were chosen by ::fuhie::{ user=7620002 }, ::Sartan::{ user=4100941 }, ::Tenshichan::{ user=1101600 }, and ::Wesley::{ user=2407265 }!
 
 <div align="center">
   <video width="95%" controls>
@@ -360,7 +360,7 @@ So, prove to me. Are you the Marie Curie of cooking? Do you have what it takes t
 
 [![](/wiki/shared/news/2023-09-20-project-loved-six-years-september-2023/1804436.jpg)](https://osu.ppy.sh/community/forums/topics/1823758)
 
-[TJ.hangneil - Apollo](https://osu.ppy.sh/beatmapsets/1804436#fruits) by ::Dahcreeper::{ user=6926006 }, [Enjuxx](https://osu.ppy.sh/users/10727985), ::GiGas::{ user=7300747 }, [Rocma](https://osu.ppy.sh/users/566276), and ::Secre::{ user=2306637 }\
+[TJ.hangneil - Apollo](https://osu.ppy.sh/beatmapsets/1804436#fruits) by ::Dahcreeper::{ user=6926006 }, ::Enjuxx::{ user=10727985 }, ::GiGas::{ user=7300747 }, ::Rocma::{ user=566276 }, and ::Secre::{ user=2306637 }\
 274 BPM, 2:34 | 7.82★ – 10.29★\
 *description written by ::fuhie::{ user=7620002 }*
 
@@ -376,7 +376,7 @@ Okay, well you've all failed your pre-class examination. You may leave.
 
 HOWEVER!!
 
-You can stay if you listen to me explain more in-depth about what this *Apollo* map by ::Dahcreeper::{ user=6926006 }, [Enjuxx](https://osu.ppy.sh/users/10727985), ::GiGas::{ user=7300747 }, [Rocma](https://osu.ppy.sh/users/566276), and ::Secre::{ user=2306637 } is about.
+You can stay if you listen to me explain more in-depth about what this *Apollo* map by ::Dahcreeper::{ user=6926006 }, ::Enjuxx::{ user=10727985 }, ::GiGas::{ user=7300747 }, ::Rocma::{ user=566276 }, and ::Secre::{ user=2306637 } is about.
 
 So, utilizing Dahcreeper's *Theory of Wiggle and AR Reading*, we see the relationship between Dahcreeper and crazy gimmick/jump patterns. So, you apply the Dahcreeper constant to your method of gameplay (NoFail, No Mod, Hard Rock), and you realize that only one option works. No Fail. Why is that? Because under Dahcreeper's constant, there is no margin of success for you as a prospective science student to achieve such a feat as these gentlemen did by landing 5 men on the moon. Pick your poison, which astronaut out of the 5 do you want to try and defeat?
 
@@ -451,7 +451,7 @@ First, check out the ranks of this map. Do you want to be a fighter pilot? Or wo
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::-NoName-::{ user=10400730 }, [elexire](https://osu.ppy.sh/users/9206093), ::kadoen::{ user=12780575 }, [Mipha-](https://osu.ppy.sh/users/5767941), ::Paturages::{ user=1375479 }, [Remuring](https://osu.ppy.sh/users/6522146), ::Silhoueska Elze::{ user=11517895 }, [SunApple](https://osu.ppy.sh/users/11817622), and ::YuEast 2018::{ user=13953619 }!
+The osu!mania Loved candidates were chosen by ::-NoName-::{ user=10400730 }, ::elexire::{ user=9206093 }, ::kadoen::{ user=12780575 }, ::Mipha-::{ user=5767941 }, ::Paturages::{ user=1375479 }, ::Remuring::{ user=6522146 }, ::Silhoueska Elze::{ user=11517895 }, ::SunApple::{ user=11817622 }, and ::YuEast 2018::{ user=13953619 }!
 
 <div align="center">
   <video width="95%" controls>
@@ -614,12 +614,12 @@ We hope this nomination will be well received, as many players in the community 
 
 [![](/wiki/shared/news/2023-09-20-project-loved-six-years-september-2023/1105209.jpg)](https://osu.ppy.sh/community/forums/topics/1823740)
 
-[Various Artists - Flow (Part 1)](https://osu.ppy.sh/beatmapsets/1105209#mania) by ::awemanrank100::{ user=11220019 }, [4649ceynou](https://osu.ppy.sh/users/4864590), and ::DesKurisu::{ user=1014938 }\
+[Various Artists - Flow (Part 1)](https://osu.ppy.sh/beatmapsets/1105209#mania) by ::awemanrank100::{ user=11220019 }, ::4649ceynou::{ user=4864590 }, and ::DesKurisu::{ user=1014938 }\
 96 – 180 BPM, 3:45 | 0.61★ – 3.59★\
 The \[metadata\] difficulty is *not* being nominated for Loved.\
 *description written by ::-NoName-::{ user=10400730 }*
 
-Our second anti-meta nomination as part of the six years of Project Loved celebration is a 10K set, also for beginners: [Flow (Part 1)](https://osu.ppy.sh/beatmapsets/1105209#mania), hosted by ::awemanrank100::{ user=11220019 } with contributions from ::4649ceynou::{ user=4864590 } and [DesKurisu](https://osu.ppy.sh/users/1014938)!
+Our second anti-meta nomination as part of the six years of Project Loved celebration is a 10K set, also for beginners: [Flow (Part 1)](https://osu.ppy.sh/beatmapsets/1105209#mania), hosted by ::awemanrank100::{ user=11220019 } with contributions from ::4649ceynou::{ user=4864590 } and ::DesKurisu::{ user=1014938 }!
 
 [Flow (Part 1)](https://osu.ppy.sh/beatmapsets/1105209#mania) is part of a series of 4 low/mid-difficulty 10K sets designed for mostly beginners ranging up to intermediate players. Similar to this month's 6K nomination, this 10K set has some of the easiest charts so far. If you want to get into 10K, this set is a good avenue to start.
 

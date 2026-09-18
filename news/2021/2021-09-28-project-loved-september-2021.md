@@ -24,11 +24,11 @@ September comes with good news for Project Loved! The [Project Loved website](ht
 
 Interested in translating the website to your native language? If so, head over to the [Localisation page of the Project Loved website](https://loved.sh/localization) and follow the steps there! If you wish to contribute to Project Loved, feel free to visit the `#osu-loved` channel in the [osu!dev Discord server](https://discord.com/invite/ppy). If website development is your thing, you can follow the ongoing development progress on [the GitHub repository](https://github.com/cl8n/project-loved-web).
 
-Before announcing the picks for this month, we would like to introduce you to the new faces of the Project Loved Team and wave goodbyes to those who have recently parted ways with us. Already present with us as a metadata reviewer for the picks, ::UberFazz::{ user=8646059 } and [Doomsday](https://osu.ppy.sh/users/18983) — long-time osu! players and contributors — have rolled up their sleeves to assist other osu! captains with Loved nominations.
+Before announcing the picks for this month, we would like to introduce you to the new faces of the Project Loved Team and wave goodbyes to those who have recently parted ways with us. Already present with us as a metadata reviewer for the picks, ::UberFazz::{ user=8646059 } and ::Doomsday::{ user=18983 } — long-time osu! players and contributors — have rolled up their sleeves to assist other osu! captains with Loved nominations.
 
-And speaking of captains, we are also delighted to present you with ::Gamelan4::{ user=9856910 }, our newest osu!taiko captain, tasked with picking your favourite dons and kats. Coming from the Global Moderation Team, ::Zeus-::{ user=5464437 } takes on the responsibility of beatmap content moderation alongside ::Noffy::{ user=1541323 } and [Pachiru](https://osu.ppy.sh/users/2850983). As for our last addition to the Project Loved Team, renowned Beatmap Nominator ::Hivie::{ user=14102976 } is here to make sure the metadata across all the nominations is accurate.
+And speaking of captains, we are also delighted to present you with ::Gamelan4::{ user=9856910 }, our newest osu!taiko captain, tasked with picking your favourite dons and kats. Coming from the Global Moderation Team, ::Zeus-::{ user=5464437 } takes on the responsibility of beatmap content moderation alongside ::Noffy::{ user=1541323 } and ::Pachiru::{ user=2850983 }. As for our last addition to the Project Loved Team, renowned Beatmap Nominator ::Hivie::{ user=14102976 } is here to make sure the metadata across all the nominations is accurate.
 
-Unfortunately, new arrivals tend to bring along several departures. We have recently parted ways with ::X a v y::{ user=3738344 } and [Alter-](https://osu.ppy.sh/users/4980256), osu!taiko and osu!mania captains respectively. Although they are no longer a part of the Project Loved Team, their contributions to the Loved scene are here to stay forever. We would like to thank them for their service and wish them luck in their future endeavours!
+Unfortunately, new arrivals tend to bring along several departures. We have recently parted ways with ::X a v y::{ user=3738344 } and ::Alter-::{ user=4980256 }, osu!taiko and osu!mania captains respectively. Although they are no longer a part of the Project Loved Team, their contributions to the Loved scene are here to stay forever. We would like to thank them for their service and wish them luck in their future endeavours!
 
 Alright, enough said. Let's get on with this month's nominations:
 
@@ -41,7 +41,7 @@ Alright, enough said. Let's get on with this month's nominations:
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::Doomsday::{ user=18983 }, [UberFazz](https://osu.ppy.sh/users/8646059) and ::Wixonater::{ user=10083084 }!
+The osu! Loved candidates were chosen by ::Doomsday::{ user=18983 }, ::UberFazz::{ user=8646059 } and ::Wixonater::{ user=10083084 }!
 
 ---
 
@@ -73,7 +73,7 @@ After over 3 and a half years, pkk is back to the Loved section with a song that
 
 [![](/wiki/shared/news/2021-09-26-project-loved-september-2021/1129251.jpg)](https://osu.ppy.sh/community/forums/topics/1429945)
 
-[Camellia feat. Nanahira - finorza](https://osu.ppy.sh/beatmapsets/1129251#osu) by ::My Angel RangE::{ user=6336713 } and [BadGames](https://osu.ppy.sh/users/10089248)\
+[Camellia feat. Nanahira - finorza](https://osu.ppy.sh/beatmapsets/1129251#osu) by ::My Angel RangE::{ user=6336713 } and ::BadGames::{ user=10089248 }\
 225 BPM, 4:41 | 5.11★, 6.38★, 7.50★\
 *description written by ::UberFazz::{ user=8646059 }*
 
@@ -81,7 +81,7 @@ A newcomer to the Loved section, My Angel RangE brings us a 3-difficulty set of 
 
 [![](/wiki/shared/news/2021-09-26-project-loved-september-2021/1123064.jpg)](https://osu.ppy.sh/community/forums/topics/1429944)
 
-[Amuro vs. Killer - Mei (Camellia's "Yomigae" Remix)](https://osu.ppy.sh/beatmapsets/1123064#osu) by ::RLC::{ user=1047883 }, [captin1](https://osu.ppy.sh/users/689997), ::Sing::{ user=3795679 } and [winber1](https://osu.ppy.sh/users/270328)\
+[Amuro vs. Killer - Mei (Camellia's "Yomigae" Remix)](https://osu.ppy.sh/beatmapsets/1123064#osu) by ::RLC::{ user=1047883 }, ::captin1::{ user=689997 }, ::Sing::{ user=3795679 } and ::winber1::{ user=270328 }\
 210 BPM, 4:50 | 7.11★\
 *description written by ::UberFazz::{ user=8646059 }*
 
@@ -89,7 +89,7 @@ A lesser-known yet exceedingly high-quality map by some very well-known mappers,
 
 [![](/wiki/shared/news/2021-09-26-project-loved-september-2021/389617.jpg)](https://osu.ppy.sh/community/forums/topics/1429943)
 
-[daisan - -+](https://osu.ppy.sh/beatmapsets/389617#osu) by ::Starfy::{ user=2045914 }, [-N a n a k o-](https://osu.ppy.sh/users/1407516), ::\[ Drop \]::{ user=2391299 }, [Chaoslitz](https://osu.ppy.sh/users/3621552), ::happy623::{ user=324768 }, [IamKwaN](https://osu.ppy.sh/users/1856463), ::Kencho::{ user=3178411 }, [Kyle Y](https://osu.ppy.sh/users/3565813), ::Nakano Itsuki::{ user=4600383 }, [Regou](https://osu.ppy.sh/users/419954) and ::Rizia::{ user=1367570 }\
+[daisan - -+](https://osu.ppy.sh/beatmapsets/389617#osu) by ::Starfy::{ user=2045914 }, ::-N a n a k o-::{ user=1407516 }, ::\[ Drop \]::{ user=2391299 }, ::Chaoslitz::{ user=3621552 }, ::happy623::{ user=324768 }, ::IamKwaN::{ user=1856463 }, ::Kencho::{ user=3178411 }, ::Kyle Y::{ user=3565813 }, ::Nakano Itsuki::{ user=4600383 }, ::Regou::{ user=419954 } and ::Rizia::{ user=1367570 }\
 185 BPM, 2:05 | 1.10★ – 6.52★\
 *description written by ::Doomsday::{ user=18983 }*
 
@@ -127,7 +127,7 @@ Sitting at 102 BPM, these awkward aim, variable spacing jump patterns have a tex
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [Gamelan4](https://osu.ppy.sh/users/9856910), ::Horiiizon::{ user=8071438 }, [KuroKuroKuro](https://osu.ppy.sh/users/11931563) and ::POCARI SWEAT::{ user=5082685 }!
+The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::Gamelan4::{ user=9856910 }, ::Horiiizon::{ user=8071438 }, ::KuroKuroKuro::{ user=11931563 } and ::POCARI SWEAT::{ user=5082685 }!
 
 ---
 
@@ -153,7 +153,7 @@ Remixed by the mapper himself, *Kaguya no Shiro de Odoritai (7_7 unko bootleg)* 
 
 [![](/wiki/shared/news/2021-09-26-project-loved-september-2021/857533.jpg)](https://osu.ppy.sh/community/forums/topics/1429934)
 
-[Adust Rain - Seven Style](https://osu.ppy.sh/beatmapsets/857533#taiko) by ::soloist::{ user=6205471 }, [7_7](https://osu.ppy.sh/users/7491106), ::HEKUSODASU::{ user=9044692 }, [hoku](https://osu.ppy.sh/users/9503098), ::iceOC::{ user=5482401 }, [rezi888](https://osu.ppy.sh/users/2337821) and ::uone::{ user=5321719 }\
+[Adust Rain - Seven Style](https://osu.ppy.sh/beatmapsets/857533#taiko) by ::soloist::{ user=6205471 }, ::7\17::{ user=7491106 }, ::HEKUSODASU::{ user=9044692 }, ::hoku::{ user=9503098 }, ::iceOC::{ user=5482401 }, ::rezi888::{ user=2337821 } and ::uone::{ user=5321719 }\
 280 BPM, 2:31 | 6.68★ – 7.88★\
 *description written by ::-Kazu-::{ user=920861 }*
 
@@ -165,7 +165,7 @@ Still, if you want to know what every one of these maps has to offer, rest assur
 
 [![](/wiki/shared/news/2021-09-26-project-loved-september-2021/1334132.jpg)](https://osu.ppy.sh/community/forums/topics/1429933)
 
-[Official HIGE DANdism - Bad for me (Dz'Xa's Amenpunk)](https://osu.ppy.sh/beatmapsets/1334132#taiko) by ::KTYN::{ user=2250574 } and [xpokn](https://osu.ppy.sh/users/5115345)\
+[Official HIGE DANdism - Bad for me (Dz'Xa's Amenpunk)](https://osu.ppy.sh/beatmapsets/1334132#taiko) by ::KTYN::{ user=2250574 } and ::xpokn::{ user=5115345 }\
 200 BPM, 3:08 | 5.73★\
 *description written by ::-Kazu-::{ user=920861 }*
 
@@ -175,7 +175,7 @@ As expected, KTYN is good at taking these songs and converting them into absolut
 
 [![](/wiki/shared/news/2021-09-26-project-loved-september-2021/389617.jpg)](https://osu.ppy.sh/community/forums/topics/1429932)
 
-[daisan - -+](https://osu.ppy.sh/beatmapsets/389617#taiko) by ::aabc271::{ user=155707 }, [ll-oscar](https://osu.ppy.sh/users/1488736), ::Nardoxyribonucleic::{ user=876419 }, [Prophecy](https://osu.ppy.sh/users/3793769) and ::Skylish::{ user=2845958 }\
+[daisan - -+](https://osu.ppy.sh/beatmapsets/389617#taiko) by ::aabc271::{ user=155707 }, ::ll-oscar::{ user=1488736 }, ::Nardoxyribonucleic::{ user=876419 }, ::Prophecy::{ user=3793769 } and ::Skylish::{ user=2845958 }\
 185 BPM, 2:05 | 1.44★ – 5.77★\
 *description written by ::POCARI SWEAT::{ user=5082685 }*
 
@@ -199,7 +199,7 @@ Given that the entire map is 103 BPM, it is safe to say that *Koukatsu* is anyth
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, [Spectator](https://osu.ppy.sh/users/702598), ::Tenshichan::{ user=1101600 } and [Wesley](https://osu.ppy.sh/users/2407265)!
+The osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, ::Spectator::{ user=702598 }, ::Tenshichan::{ user=1101600 } and ::Wesley::{ user=2407265 }!
 
 ---
 
@@ -257,7 +257,7 @@ This mapset was initially nominated for osu!, but it has osu!catch difficulties 
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, [-mint-](https://osu.ppy.sh/users/8976576), ::Kawawa::{ user=4647754 } and [Penguinosity](https://osu.ppy.sh/users/10235296)!
+The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, ::-mint-::{ user=8976576 }, ::Kawawa::{ user=4647754 } and ::Penguinosity::{ user=10235296 }!
 
 ---
 
@@ -273,7 +273,7 @@ Shoegazer's style is obviously very well pronounced in the chart — it contains
 
 [![](/wiki/shared/news/2021-09-26-project-loved-september-2021/724338.jpg)](https://osu.ppy.sh/community/forums/topics/1429919)
 
-[Various Artists - arpia97's Vibro Anthology](https://osu.ppy.sh/beatmapsets/724338#mania) by ::arpia97::{ user=6363008 }, [\[Crz\]Player](https://osu.ppy.sh/users/1089335), ::frolica::{ user=4324195 }, [Nihilese](https://osu.ppy.sh/users/808176), ::SMOC\1Hyeon::{ user=3962638 }, [Staravia](https://osu.ppy.sh/users/5445777) and ::Topovn::{ user=6583121 }\
+[Various Artists - arpia97's Vibro Anthology](https://osu.ppy.sh/beatmapsets/724338#mania) by ::arpia97::{ user=6363008 }, ::\[Crz\]Player::{ user=1089335 }, ::frolica::{ user=4324195 }, ::Nihilese::{ user=808176 }, ::SMOC\1Hyeon::{ user=3962638 }, ::Staravia::{ user=5445777 } and ::Topovn::{ user=6583121 }\
 122 – 268 BPM, 4:07 | 6.14★ – 16.75★\
 The \[Pocari Sweat (Marathon)\] and \[do you know da wae (Marathon)\] difficulties are *not* being nominated for Loved.\
 *description written by ::Penguinosity::{ user=10235296 }*
@@ -312,7 +312,7 @@ The term "dump charting" can mean many things to a lot of different people, but 
 
 [![](/wiki/shared/news/2021-09-26-project-loved-september-2021/435015.jpg)](https://osu.ppy.sh/community/forums/topics/1429916)
 
-[Goreshit - Satori De Pon!](https://osu.ppy.sh/beatmapsets/435015#mania) by ::Loebad434::{ user=4875530 } and [Meggumi](https://osu.ppy.sh/users/5360699)\
+[Goreshit - Satori De Pon!](https://osu.ppy.sh/beatmapsets/435015#mania) by ::Loebad434::{ user=4875530 } and ::Meggumi::{ user=5360699 }\
 235 BPM, 2:22 | 1.49★ – 5.94★\
 *description written by ::Penguinosity::{ user=10235296 }*
 
@@ -372,7 +372,7 @@ The patterns in *The Truth Never Spoken* are clean and comfortable — the main 
 
 [![](/wiki/shared/news/2021-09-26-project-loved-september-2021/459133.jpg)](https://osu.ppy.sh/community/forums/topics/1429911)
 
-[Haruna Luna - Kimiiro Signal](https://osu.ppy.sh/beatmapsets/459133#mania) by ::Pikobaka::{ user=2031800 } and [Myzki](https://osu.ppy.sh/users/3221985)\
+[Haruna Luna - Kimiiro Signal](https://osu.ppy.sh/beatmapsets/459133#mania) by ::Pikobaka::{ user=2031800 } and ::Myzki::{ user=3221985 }\
 164 BPM, 4:37 | 5.63★, 7.28★\
 *description written by ::Kawawa::{ user=4647754 }*
 
@@ -384,7 +384,7 @@ That's all I have to say, we hope everyone has fun with some noodles accompanyin
 
 [![](/wiki/shared/news/2021-09-26-project-loved-september-2021/752651.jpg)](https://osu.ppy.sh/community/forums/topics/1429910)
 
-[Camellia - Galaxy Burst](https://osu.ppy.sh/beatmapsets/752651#mania) by ::Wonki::{ user=7898495 }, [Jakads](https://osu.ppy.sh/users/259972) and ::Turrim::{ user=3846265 }\
+[Camellia - Galaxy Burst](https://osu.ppy.sh/beatmapsets/752651#mania) by ::Wonki::{ user=7898495 }, ::Jakads::{ user=259972 } and ::Turrim::{ user=3846265 }\
 201 BPM, 4:01 | 3.65★, 4.94★, 6.55★, 7.41★\
 *description written by ::Kawawa::{ user=4647754 }*
 
@@ -406,7 +406,7 @@ All of this comes neatly wrapped up, with every pattern being perfectly understa
 
 [![](/wiki/shared/news/2021-09-26-project-loved-september-2021/1262927.jpg)](https://osu.ppy.sh/community/forums/topics/1429908)
 
-[Camellia vs. Tsukasa Kaminose - Gunkyouzouteki Soseiriron](https://osu.ppy.sh/beatmapsets/1262927#mania) by ::\_Stan::{ user=1653229 }, [\[Emiria\]](https://osu.ppy.sh/users/2046044), ::biemote::{ user=799606 }, [Kyousuke-](https://osu.ppy.sh/users/2616570) and ::Penguinosity::{ user=10235296 }\
+[Camellia vs. Tsukasa Kaminose - Gunkyouzouteki Soseiriron](https://osu.ppy.sh/beatmapsets/1262927#mania) by ::\_Stan::{ user=1653229 }, ::\[Emiria\]::{ user=2046044 }, ::biemote::{ user=799606 }, ::Kyousuke-::{ user=2616570 } and ::Penguinosity::{ user=10235296 }\
 160 BPM, 4:40 | 5.48★, 5.55★, 5.57★, 5.88★, 6.20★\
 *description written by ::Penguinosity::{ user=10235296 }*
 
@@ -431,7 +431,7 @@ As this is the Endurance pack, its main focus is stamina, and playing these char
 
 [![](/wiki/shared/news/2021-09-26-project-loved-september-2021/1220647.jpg)](https://osu.ppy.sh/community/forums/topics/1429906)
 
-[osu!mania 7K Dan Course - LN Dan Phase III](https://osu.ppy.sh/beatmapsets/1220647#mania) by ::Jinjin::{ user=3360737 }, [\_Kobii](https://osu.ppy.sh/users/6209713), ::Kim\1GodSSI::{ user=2218047 }, [Pengdoll](https://osu.ppy.sh/users/6392061) and ::Toaph Daddy::{ user=7616811 }\
+[osu!mania 7K Dan Course - LN Dan Phase III](https://osu.ppy.sh/beatmapsets/1220647#mania) by ::Jinjin::{ user=3360737 }, ::\_Kobii::{ user=6209713 }, ::Kim\1GodSSI::{ user=2218047 }, ::Pengdoll::{ user=6392061 } and ::Toaph Daddy::{ user=7616811 }\
 167 – 198 BPM, 8:13 | 9.79★, 10.48★, 11.76★, 12.29★, 13.26★\
 *description written by ::\_underjoy::{ user=2235750 }*
 
@@ -441,7 +441,7 @@ If you want to know more, be sure to check the mapset's description. These cours
 
 [![](/wiki/shared/news/2021-09-26-project-loved-september-2021/389617.jpg)](https://osu.ppy.sh/community/forums/topics/1429904)
 
-[daisan - -+](https://osu.ppy.sh/beatmapsets/389617#mania) by ::hokin1995::{ user=31054 } and [pwhk](https://osu.ppy.sh/users/4887865)\
+[daisan - -+](https://osu.ppy.sh/beatmapsets/389617#mania) by ::hokin1995::{ user=31054 } and ::pwhk::{ user=4887865 }\
 185 BPM, 2:05 | 1.20★ – 6.44★\
 *description written by ::\_underjoy::{ user=2235750 }*
 

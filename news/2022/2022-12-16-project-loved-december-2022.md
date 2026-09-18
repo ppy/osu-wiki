@@ -20,7 +20,7 @@ As always, we would like to thank everyone for your participation in the Novembe
 
 Before we move on with this month's picks, let's talk about some changes within the Project Loved team:
 
-- We'd like to bid farewell to ::Noffy::{ user=1541323 }, [Nokashi](https://osu.ppy.sh/users/5431196), and ::Zeus-::{ user=5464437 }, as they've resigned from the team very recently. Thank you for making Loved awesome by making sure that all picks have been thoroughly checked and prepared for the Loved category in terms of integral metadata and moderation checks!
+- We'd like to bid farewell to ::Noffy::{ user=1541323 }, ::Nokashi::{ user=5431196 }, and ::Zeus-::{ user=5464437 }, as they've resigned from the team very recently. Thank you for making Loved awesome by making sure that all picks have been thoroughly checked and prepared for the Loved category in terms of integral metadata and moderation checks!
 - On the other hand, say hello to ::Maxus::{ user=4335785 }! He will be joining the metadata team to make sure that picks are in pristine condition before receiving their well-earned leaderboards.
 - A new drummer approaches! ::Eriha::{ user=16320311 } joins the osu!taiko Loved captains in order to help bring some of the community's most adored beatmaps to justice by granting them all a chance in the Loved polls.
 
@@ -43,7 +43,7 @@ That should be all in terms of updates for this month. Don't forget if you're in
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::DeviousPanda::{ user=4966334 }, [Mismagius](https://osu.ppy.sh/users/19048), ::rHO::{ user=1629553 }, [Skill](https://osu.ppy.sh/users/7802027) and ::Wixonater::{ user=10083084 }!
+The osu! Loved candidates were chosen by ::DeviousPanda::{ user=4966334 }, ::Mismagius::{ user=19048 }, ::rHO::{ user=1629553 }, ::Skill::{ user=7802027 } and ::Wixonater::{ user=10083084 }!
 
 ---
 
@@ -71,7 +71,7 @@ This tricky aim/spaced triple map offers everything you can think of that involv
 
 [![](/wiki/shared/news/2022-12-16-project-loved-december-2022/485248.jpg)](https://osu.ppy.sh/community/forums/topics/1691270)
 
-[Renard - Gabberse Town](https://osu.ppy.sh/beatmapsets/485248#osu) by ::Silverboxer::{ user=2166762 }, [Kronick](https://osu.ppy.sh/users/17682644), ::semaphore::{ user=6313643 }, [Victoire](https://osu.ppy.sh/users/1605867) and ::VINXIS::{ user=4323406 }\
+[Renard - Gabberse Town](https://osu.ppy.sh/beatmapsets/485248#osu) by ::Silverboxer::{ user=2166762 }, ::Kronick::{ user=17682644 }, ::semaphore::{ user=6313643 }, ::Victoire::{ user=1605867 } and ::VINXIS::{ user=4323406 }\
 175 BPM, 1:28 | 1.55★ – 7.38★\
 *description written by ::Mismagius::{ user=19048 }*
 
@@ -125,7 +125,7 @@ Do you think this map is a good fit to enter Loved? It's up to you. Vote now!
 
 [![](/wiki/shared/news/2022-12-16-project-loved-december-2022/1284666.jpg)](https://osu.ppy.sh/community/forums/topics/1691265)
 
-[lical - nyctalopia](https://osu.ppy.sh/beatmapsets/1284666#osu) by ::Raijodo::{ user=13400075 } and [Natteke desu](https://osu.ppy.sh/users/1848318)\
+[lical - nyctalopia](https://osu.ppy.sh/beatmapsets/1284666#osu) by ::Raijodo::{ user=13400075 } and ::Natteke desu::{ user=1848318 }\
 145 BPM, 3:52 | 6.54★, 7.35★\
 *description written by ::Wixonater::{ user=10083084 }*
 
@@ -137,13 +137,13 @@ Do you think this map is a good fit to enter Loved? It's up to you. Vote now!
 175 BPM, 1:57 | 10.74★\
 *description written by ::rHO::{ user=1629553 }*
 
-When in need of expressive challenging maps, always count on the legend [rustbell](https://osu.ppy.sh/u/rustbell)'s beatmaps.
+When in need of expressive challenging maps, always count on the legend ::rustbell::{ user=227717 }'s beatmaps.
 
 Sitting at 10.51 stars with 2 minutes of non-stop 175 BPM patterns, fragmentation is a map full of fragments of jump/snappy aim patterns that are not forgiving at all. It is surely one of the classic rustbell beatmaps with that specific iconic feeling of how aggressive the challenge on a beatmap can be. Sounds like you're worthy of the challenge? Try the map out, and make sure your hands don't break into fragments themselves!
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [Boaz](https://osu.ppy.sh/users/13302996), ::Gamelan4::{ user=9856910 }, [Horiiizon](https://osu.ppy.sh/users/8071438) and ::Roxy-::{ user=11931563 }!
+The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::Boaz::{ user=13302996 }, ::Gamelan4::{ user=9856910 }, ::Horiiizon::{ user=8071438 } and ::Roxy-::{ user=11931563 }!
 
 ---
 
@@ -204,7 +204,7 @@ We sincerely hope that you will take up the challenge and become the great playe
 180 – 280 BPM, 3:14 | 5.47★ – 7.43★\
 *description written by ::Gamelan4::{ user=9856910 }*
 
-We are sure there's a lot of people waiting for something spicy, fun and memorable in their osu! playlist, so we are happy to bring the infamous duo of ::Myckoll::{ user=554976 } and [Ulqui](https://osu.ppy.sh/users/1263669) once again in Loved with their *Taiko Reggaeton Pack*, a compilation of both classics and recent anthems of the genre, hence the Varios Artistas as the artist.
+We are sure there's a lot of people waiting for something spicy, fun and memorable in their osu! playlist, so we are happy to bring the infamous duo of ::Myckoll::{ user=554976 } and ::Ulqui::{ user=1263669 } once again in Loved with their *Taiko Reggaeton Pack*, a compilation of both classics and recent anthems of the genre, hence the Varios Artistas as the artist.
 
 There's nothing better to celebrate those December festivities with, so go ahead and add some dembow to your rhythm gaming experience. The Hispanic community has for sure been doing just that, making this map set a top pick in multiplayer lobbies and gain more than enough popularity to reach the ears of us Loved captains. It's time for some dembow drum mashing, so go ahead and try this map out!
 
@@ -214,11 +214,11 @@ There's nothing better to celebrate those December festivities with, so go ahead
 260 BPM, 2:05 | 6.76★, 6.93★, 7.08★, 7.29★\
 *description written by ::Horiiizon::{ user=8071438 }*
 
-*My HERO (Sped Up Ver.)* is a very famous collaborative set by ::hoku::{ user=9503098 } from early 2019 featuring guest difficulties from ::KTYN::{ user=2250574 }, [7_7](https://osu.ppy.sh/users/7491106) and Shallty, all of which became heavy hitters in mapping and cemented themselves as great mappers, especially in the years following this set. *My HERO* consists of varying difficulties and takes on the song, making each of them feel unique and refreshing. As the title of the song would imply, *My HERO* is 260 BPM with very little room for rest, especially in Shallty's difficulty which contains several 50+ note streams in the kiais, enjoy!
+*My HERO (Sped Up Ver.)* is a very famous collaborative set by ::hoku::{ user=9503098 } from early 2019 featuring guest difficulties from ::KTYN::{ user=2250574 }, ::7\17::{ user=7491106 } and Shallty, all of which became heavy hitters in mapping and cemented themselves as great mappers, especially in the years following this set. *My HERO* consists of varying difficulties and takes on the song, making each of them feel unique and refreshing. As the title of the song would imply, *My HERO* is 260 BPM with very little room for rest, especially in Shallty's difficulty which contains several 50+ note streams in the kiais, enjoy!
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::Dahcreeper::{ user=6926006 }, [fuhie](https://osu.ppy.sh/users/7620002), ::Secre::{ user=2306637 } and [Wesley](https://osu.ppy.sh/users/2407265)!
+The osu!catch Loved candidates were chosen by ::Dahcreeper::{ user=6926006 }, ::fuhie::{ user=7620002 }, ::Secre::{ user=2306637 } and ::Wesley::{ user=2407265 }!
 
 ---
 
@@ -260,7 +260,7 @@ With the approach rate of 9 and circle size of 5 it'll be a fun challenge to tac
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, [-NoName-](https://osu.ppy.sh/users/10400730), ::\[Crz\]hinako1804::{ user=13747903 }, [kadoen](https://osu.ppy.sh/users/12780575), ::Mipha-::{ user=5767941 }, [Paturages](https://osu.ppy.sh/users/1375479), ::RandomeLoL::{ user=7080063 } and [Remuring](https://osu.ppy.sh/users/6522146)!
+The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, ::-NoName-::{ user=10400730 }, ::\[Crz\]hinako1804::{ user=13747903 }, ::kadoen::{ user=12780575 }, ::Mipha-::{ user=5767941 }, ::Paturages::{ user=1375479 }, ::RandomeLoL::{ user=7080063 } and ::Remuring::{ user=6522146 }!
 
 ---
 
@@ -314,11 +314,11 @@ Don't forget to give your support on this chart, and cast your vote if you reall
 
 [![](/wiki/shared/news/2022-12-16-project-loved-december-2022/651216.jpg)](https://osu.ppy.sh/community/forums/topics/1691248)
 
-[Nekomata Master feat. Shimotsuki Haruka - Element of SPADA](https://osu.ppy.sh/beatmapsets/651216#mania) by ::Yururu::{ user=4932319 } and [ega_tutuko](https://osu.ppy.sh/users/4771971)\
+[Nekomata Master feat. Shimotsuki Haruka - Element of SPADA](https://osu.ppy.sh/beatmapsets/651216#mania) by ::Yururu::{ user=4932319 } and ::ega\1tutuko::{ user=4771971 }\
 170 BPM, 5:34 | 7.59★\
 *description written by ::Mipha-::{ user=5767941 }*
 
-What's the best representative of a densely packed, O2Jam-style 4K LN chart out there that has stood the test of time, and been even used in [some popular LN dan courses](https://osu.ppy.sh/beatmapsets/891157#mania/1862841) that have gained traction within the noodle enjoyer communities? Well, now you don't have to go and search far and wide, because we got something for you that you will recognize immediately, and that is a cool collaboration between ::Yururu::{ user=4932319 } and [ega_tutuko](https://osu.ppy.sh/users/4771971), which is *Element of SPADA*!
+What's the best representative of a densely packed, O2Jam-style 4K LN chart out there that has stood the test of time, and been even used in [some popular LN dan courses](https://osu.ppy.sh/beatmapsets/891157#mania/1862841) that have gained traction within the noodle enjoyer communities? Well, now you don't have to go and search far and wide, because we got something for you that you will recognize immediately, and that is a cool collaboration between ::Yururu::{ user=4932319 } and ::ega\1tutuko::{ user=4771971 }, which is *Element of SPADA*!
 
 This chart has received numerous praises with how progressive the patterns are, and it reflects on modern-day LN construction over the past few years, and it certainly aged very well as being one of the more casual LN charts to play (despite being heavy in its layering), and tackling this chart to the very end is no easy task. On top of being an already beautiful song to listen to, this chart is also a delight for competitive play to see how far your accuracy can go without absolutely getting blasted by speedier inverses and bursts.
 
@@ -350,7 +350,7 @@ I don't recommend that you pause for this, as stamina will factor exceptionally 
 
 [![](/wiki/shared/news/2022-12-16-project-loved-december-2022/1264121.jpg)](https://osu.ppy.sh/community/forums/topics/1691245)
 
-[YOASOBI - Ano Yume o Nazotte](https://osu.ppy.sh/beatmapsets/1264121#mania) by ::Remuring::{ user=6522146 } and [Pengdoll](https://osu.ppy.sh/users/6392061)\
+[YOASOBI - Ano Yume o Nazotte](https://osu.ppy.sh/beatmapsets/1264121#mania) by ::Remuring::{ user=6522146 } and ::Pengdoll::{ user=6392061 }\
 180 BPM, 3:59 | 7.69★\
 *description written by ::-NoName-::{ user=10400730 }*
 

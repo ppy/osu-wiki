@@ -29,7 +29,7 @@ Not sure how to start your next map? These might give you some inspiration:
 
 ### [sugosugiii - Zyphorath Quixalune](https://assets.ppy.sh/artists/442/Zyphorath%20Quixalune/sugosugiii%20-%20Zyphorath%20Quixalune.osz)
 
-Try out [the *3 Digit World Cup* Grand Finals tiebreaker](https://osu.ppy.sh/beatmapsets/2337098) mapped by ::9ami::{ user=1499997 } and [oTwinkle](https://osu.ppy.sh/users/15095654)!
+Try out [the *3 Digit World Cup* Grand Finals tiebreaker](https://osu.ppy.sh/beatmapsets/2337098) mapped by ::9ami::{ user=1499997 } and ::oTwinkle::{ user=15095654 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/442/Zyphorath%20Quixalune/sugosugiii%20-%20Zyphorath%20Quixalune.mp3">
@@ -37,7 +37,7 @@ Try out [the *3 Digit World Cup* Grand Finals tiebreaker](https://osu.ppy.sh/bea
 
 ### [sugosugiii - Achromatism Entangle](https://assets.ppy.sh/artists/442/Achromatism%20Entangle/sugosugiii%20-%20Achromatism%20Entangle.osz)
 
-Or try [the Semifinals tiebreaker from *VNMC2024*](https://osu.ppy.sh/beatmapsets/2226716) mapped by ::Micleak::{ user=16140674 }, [Lott](https://osu.ppy.sh/users/13821222), ::ERA Aracium::{ user=15882740 }, [V1do-](https://osu.ppy.sh/users/17527968), and ::Polarin::{ user=15104680 }!
+Or try [the Semifinals tiebreaker from *VNMC2024*](https://osu.ppy.sh/beatmapsets/2226716) mapped by ::Micleak::{ user=16140674 }, ::Lott::{ user=13821222 }, ::ERA Aracium::{ user=15882740 }, ::V1do-::{ user=17527968 }, and ::Polarin::{ user=15104680 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/442/Achromatism%20Entangle/sugosugiii%20-%20Achromatism%20Entangle.mp3">
@@ -53,7 +53,7 @@ Check out [this map from *5 Digit World Cup*](https://osu.ppy.sh/beatmapsets/235
 
 ### [SiLiS & sugosugiii (feat. InabaYap) - Keisuteknon](https://assets.ppy.sh/artists/442/Keisuteknon/SiLiS%20%26%20sugosugiii%20(feat.%20InabaYap)%20-%20Keisuteknon.osz)
 
-Another tournament map! Try [this map from *ASC2024*](https://osu.ppy.sh/beatmapsets/2222935) mapped by ::\[Crz\]FolAH1217::{ user=6232458 }, [TheFunk](https://osu.ppy.sh/users/13981991), and ::\[GB\]Rick::{ user=25263357 }!
+Another tournament map! Try [this map from *ASC2024*](https://osu.ppy.sh/beatmapsets/2222935) mapped by ::\[Crz\]FolAH1217::{ user=6232458 }, ::TheFunk::{ user=13981991 }, and ::\[GB\]Rick::{ user=25263357 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/442/Keisuteknon/SiLiS%20%26%20sugosugiii%20(feat.%20InabaYap)%20-%20Keisuteknon.mp3">

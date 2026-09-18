@@ -49,7 +49,7 @@ That should be it for now. Don't forget if you have any questions, or you're int
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::Aistre::{ user=4879380 }, [Kingling](https://osu.ppy.sh/users/7010761), ::megumic::{ user=7537133 }, [rHO](https://osu.ppy.sh/users/1629553), ::Skill::{ user=7802027 } and [Wixonater](https://osu.ppy.sh/users/10083084)!
+The osu! Loved candidates were chosen by ::Aistre::{ user=4879380 }, ::Kingling::{ user=7010761 }, ::megumic::{ user=7537133 }, ::rHO::{ user=1629553 }, ::Skill::{ user=7802027 } and ::Wixonater::{ user=10083084 }!
 
 <div align="center">
     <video width="95%" controls>
@@ -76,7 +76,7 @@ Do you think this map deserves to finally have a leaderboard? It's up to you!
 
 [![](/wiki/shared/news/2023-04-20-project-loved-april-2023/50777.jpg)](https://osu.ppy.sh/community/forums/topics/1753564)
 
-[REDALiCE ft. Ayumi Nomiya - Foughten Field (t+pazolite Remix)](https://osu.ppy.sh/beatmapsets/50777#osu) by ::Foreverends::{ user=968756 } and [Rizia](https://osu.ppy.sh/users/1367570)\
+[REDALiCE ft. Ayumi Nomiya - Foughten Field (t+pazolite Remix)](https://osu.ppy.sh/beatmapsets/50777#osu) by ::Foreverends::{ user=968756 } and ::Rizia::{ user=1367570 }\
 230 BPM, 3:36 | 1.51★, 2.12★, 3.08★, 5.36★, 6.26★\
 *description written by ::Kingling::{ user=7010761 }*
 
@@ -99,7 +99,7 @@ This shorter version of [Shoujo - Reminiscing](https://osu.ppy.sh/beatmapsets/66
 
 [![](/wiki/shared/news/2023-04-20-project-loved-april-2023/1457061.jpg)](https://osu.ppy.sh/community/forums/topics/1753562)
 
-[Ito Kanako - Sky of Twilight](https://osu.ppy.sh/beatmapsets/1457061#osu) by ::tsundereSam::{ user=6357685 } and [-Kirigiri](https://osu.ppy.sh/users/10816653)\
+[Ito Kanako - Sky of Twilight](https://osu.ppy.sh/beatmapsets/1457061#osu) by ::tsundereSam::{ user=6357685 } and ::-Kirigiri::{ user=10816653 }\
 216 BPM, 5:55 | 7.75★, 8.29★\
 *description written by ::Wixonater::{ user=10083084 }*
 
@@ -109,11 +109,11 @@ With two difficulties, both 6 minutes long, rated at 7.65\* and 8.13\*, there's 
 
 [![](/wiki/shared/news/2023-04-20-project-loved-april-2023/1227180.jpg)](https://osu.ppy.sh/community/forums/topics/1753561)
 
-[Deadlock - A New Era](https://osu.ppy.sh/beatmapsets/1227180#osu) by ::ItsWinter::{ user=6381153 }, [- Heatwave -](https://osu.ppy.sh/users/4166621) and ::Drummer::{ user=4102249 }\
+[Deadlock - A New Era](https://osu.ppy.sh/beatmapsets/1227180#osu) by ::ItsWinter::{ user=6381153 }, ::- Heatwave -::{ user=4166621 } and ::Drummer::{ user=4102249 }\
 185.5 BPM, 4:18 | 4.96★, 6.05★, 6.73★\
 *description written by ::Kingling::{ user=7010761 }*
 
-The *Ranked Reject* pick for this month is the beloved [Deadlock - A New Era](https://osu.ppy.sh/beatmapsets/1227180#osu) brought to you by ::ItsWinter::{ user=6381153 }, [Drummer](https://osu.ppy.sh/users/4102249), and ::- Heatwave -::{ user=4166621 }!
+The *Ranked Reject* pick for this month is the beloved [Deadlock - A New Era](https://osu.ppy.sh/beatmapsets/1227180#osu) brought to you by ::ItsWinter::{ user=6381153 }, ::Drummer::{ user=4102249 }, and ::- Heatwave -::{ user=4166621 }!
 
 Housing three beautifully crafted difficulties, this mapset shows each of these mappers bringing their own unique twist to this melodic death metal classic. Looking for a challenging 6.8\* spaced stream and aim map? ItsWinter has got you covered. Want to test your 185 BPM stamina? The Drummer difficulty is the one for you! (It also has over 35K plays and 120 favourites on its [own mapset](https://osu.ppy.sh/beatmapsets/792017#osu/1661389), impressive stuff!) Or if you're just looking to sit back and vibe to an incredible song then look no further than - Heatwave -'s difficulty.
 
@@ -131,11 +131,11 @@ Originally made for [Banger Bonanza 2022](https://osu.ppy.sh/community/forums/to
 
 [![](/wiki/shared/news/2023-04-20-project-loved-april-2023/1524066.jpg)](https://osu.ppy.sh/community/forums/topics/1753559)
 
-[IOSYS - SCARLET KEISATSU no GHETTO PATROL 24-ji](https://osu.ppy.sh/beatmapsets/1524066#osu) by ::moondoogy::{ user=12241690 }, [KumiDaiko](https://osu.ppy.sh/users/16823917) and ::Mattay::{ user=9748303 }\
+[IOSYS - SCARLET KEISATSU no GHETTO PATROL 24-ji](https://osu.ppy.sh/beatmapsets/1524066#osu) by ::moondoogy::{ user=12241690 }, ::KumiDaiko::{ user=16823917 } and ::Mattay::{ user=9748303 }\
 160 BPM, 1:52 | 1.87★ – 6.95★\
 *description written by ::megumic::{ user=7537133 }*
 
-Deep in the streets, something funky is brewing... It's time for ::moondoogy::{ user=12241690 }, [KumiDaiko](https://osu.ppy.sh/users/16823917), and ::Mattay::{ user=9748303 } to show everyone how it's done!
+Deep in the streets, something funky is brewing... It's time for ::moondoogy::{ user=12241690 }, ::KumiDaiko::{ user=16823917 }, and ::Mattay::{ user=9748303 } to show everyone how it's done!
 
 Hands up, [IOSYS - SCARLET KEISATSU no GHETTO PATROL 24-ji](https://osu.ppy.sh/beatmapsets/1524066) is here to meet this month's *Meme Monstrosities* quota! Face off in difficulties ranging from 1.67\* to 6.95\* — we've got your crew covered head to toe. Anyone can click to the beat of this footwork!
 
@@ -168,7 +168,7 @@ Now tell me. Are you funky? ᗜˬᗜ
 
 [![](/wiki/shared/news/2023-04-20-project-loved-april-2023/1684158.jpg)](https://osu.ppy.sh/community/forums/topics/1753558)
 
-[JVKE - this is what falling in love feels like](https://osu.ppy.sh/beatmapsets/1684158#osu) by ::bluirre::{ user=22241162 }, [Ajitani Hifumi](https://osu.ppy.sh/users/14146327) and ::Delta\_::{ user=14272323 }\
+[JVKE - this is what falling in love feels like](https://osu.ppy.sh/beatmapsets/1684158#osu) by ::bluirre::{ user=22241162 }, ::Ajitani Hifumi::{ user=14146327 } and ::Delta\_::{ user=14272323 }\
 108 BPM, 1:51 | 1.55★ – 4.37★\
 *description written by ::Kingling::{ user=7010761 }*
 
@@ -180,7 +180,7 @@ Go give it a play, and if you love it as much as I do, don't forget to vote yes!
 
 [![](/wiki/shared/news/2023-04-20-project-loved-april-2023/1089678.jpg)](https://osu.ppy.sh/community/forums/topics/1753557)
 
-[Juggernaut. - Apocaliptix](https://osu.ppy.sh/beatmapsets/1089678#osu) by ::Fisky::{ user=8352623 }, [\_Epreus](https://osu.ppy.sh/users/7342798), ::Hanakumo Rin::{ user=12895865 }, [Kloyd](https://osu.ppy.sh/users/1574070), ::Moko::{ user=6488658 }, [PaRaDogi](https://osu.ppy.sh/users/2054596), ::Seolv::{ user=8067876 } and [TheBlank](https://osu.ppy.sh/users/9597370)\
+[Juggernaut. - Apocaliptix](https://osu.ppy.sh/beatmapsets/1089678#osu) by ::Fisky::{ user=8352623 }, ::\_Epreus::{ user=7342798 }, ::Hanakumo Rin::{ user=12895865 }, ::Kloyd::{ user=1574070 }, ::Moko::{ user=6488658 }, ::PaRaDogi::{ user=2054596 }, ::Seolv::{ user=8067876 } and ::TheBlank::{ user=9597370 }\
 210 BPM, 2:05 | 2.65★ – 8.11★\
 *description written by ::Skill::{ user=7802027 }*
 
@@ -202,17 +202,17 @@ Believed to be many of your favorite mappers' favorite mapper, tatemae conceived
 
 [![](/wiki/shared/news/2023-04-20-project-loved-april-2023/1341303.jpg)](https://osu.ppy.sh/community/forums/topics/1753555)
 
-[Turbo - A Cruel Angel's Thesis / Eurobeat Remix](https://osu.ppy.sh/beatmapsets/1341303#osu) by ::melloe::{ user=2367616 }, [Asphyxia](https://osu.ppy.sh/users/1715720) and ::Axarious::{ user=2614511 }\
+[Turbo - A Cruel Angel's Thesis / Eurobeat Remix](https://osu.ppy.sh/beatmapsets/1341303#osu) by ::melloe::{ user=2367616 }, ::Asphyxia::{ user=1715720 } and ::Axarious::{ user=2614511 }\
 160 BPM, 4:05 | 7.34★\
 *description written by ::Wixonater::{ user=10083084 }*
 
-A Eurobeat Remix of *A Cruel Angel's Thesis* is enticing enough, but a collab between ::Axarious::{ user=2614511 }, [Asphyxia](https://osu.ppy.sh/users/1715720), and ::melloe::{ user=2367616 }?! Make sure not to miss this month's third *Wildcard*.
+A Eurobeat Remix of *A Cruel Angel's Thesis* is enticing enough, but a collab between ::Axarious::{ user=2614511 }, ::Asphyxia::{ user=1715720 }, and ::melloe::{ user=2367616 }?! Make sure not to miss this month's third *Wildcard*.
 
 You'll find within this map's 4-minute runtime some flowy-tech jam-packed in — the 7.34\* difficulty rating is not lying. Throughout the map it continuously finds a way to satiate the desire to vibe along with the music, delivering patterns that despite appearing uncomfortable, glide beautifully. If you find yourself even slightly curious, I heavily recommend you check this one out, and voting yes to see this in the Loved category!
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [Boaz](https://osu.ppy.sh/users/13302996), ::Eriha::{ user=16320311 }, [Gamelan4](https://osu.ppy.sh/users/9856910) and ::Horiiizon::{ user=8071438 }!
+The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::Boaz::{ user=13302996 }, ::Eriha::{ user=16320311 }, ::Gamelan4::{ user=9856910 } and ::Horiiizon::{ user=8071438 }!
 
 <div align="center">
     <video width="95%" controls>
@@ -236,7 +236,7 @@ Let's all become metronome man!
 
 [![](/wiki/shared/news/2023-04-20-project-loved-april-2023/721297.jpg)](https://osu.ppy.sh/community/forums/topics/1753553)
 
-[Sota Fujimori - polygon](https://osu.ppy.sh/beatmapsets/721297#taiko) by ::Fallmorph::{ user=5720389 }, [amogus 727](https://osu.ppy.sh/users/9738159), ::Dusk-::{ user=6092181 } and [Faputa](https://osu.ppy.sh/users/845733)\
+[Sota Fujimori - polygon](https://osu.ppy.sh/beatmapsets/721297#taiko) by ::Fallmorph::{ user=5720389 }, ::amogus 727::{ user=9738159 }, ::Dusk-::{ user=6092181 } and ::Faputa::{ user=845733 }\
 174 BPM, 1:54 | 1.12★ – 6.41★\
 *description written by ::Gamelan4::{ user=9856910 }*
 
@@ -248,7 +248,7 @@ If you haven't tried this mapset, it doesn't matter if you have just started thi
 
 [![](/wiki/shared/news/2023-04-20-project-loved-april-2023/1061089.jpg)](https://osu.ppy.sh/community/forums/topics/1753552)
 
-[7_7 - Hongik Univ. Station (french)](https://osu.ppy.sh/beatmapsets/1061089#taiko) by ::7\17::{ user=7491106 }, [Chiswell](https://osu.ppy.sh/users/659959), ::KTYN::{ user=2250574 } and [POCARI SWEAT](https://osu.ppy.sh/users/5082685)\
+[7_7 - Hongik Univ. Station (french)](https://osu.ppy.sh/beatmapsets/1061089#taiko) by ::7\17::{ user=7491106 }, ::Chiswell::{ user=659959 }, ::KTYN::{ user=2250574 } and ::POCARI SWEAT::{ user=5082685 }\
 210 – 245 BPM, 1:50 | 5.61★, 6.23★, 6.65★, 6.87★\
 *description written by ::-Kazu-::{ user=920861 }*
 
@@ -262,19 +262,19 @@ Overall, this beatmap set is a standout example of how great music and skillful 
 
 [![](/wiki/shared/news/2023-04-20-project-loved-april-2023/1855270.jpg)](https://osu.ppy.sh/community/forums/topics/1753551)
 
-[katagiri - Bootleg Heaven](https://osu.ppy.sh/beatmapsets/1855270#taiko) by ::KTYN::{ user=2250574 } and [ler1211](https://osu.ppy.sh/users/19901680)\
+[katagiri - Bootleg Heaven](https://osu.ppy.sh/beatmapsets/1855270#taiko) by ::KTYN::{ user=2250574 } and ::ler1211::{ user=19901680 }\
 320 BPM, 3:10 | 8.06★\
 *description written by ::-Kazu-::{ user=920861 }*
 
 *katagiri - Bootleg Heaven* features a jazzy, chaotic sounding mashcore song featured as part of the [EGTS 2022](/wiki/Tournaments/GTS/EGTS_2022) Finals mappool as a No Mod 6 pick that will for sure put your skills to the test!
 
-Created through a collaborative effort between two of the most experienced high-BPM charters, ::KTYN::{ user=2250574 } and [Rinze / ler1211](https://osu.ppy.sh/users/19901680), this chart is a masterpiece of fast-paced and challenging gameplay, which clocking in at 320 BPM, is definitely not for the faint of heart.
+Created through a collaborative effort between two of the most experienced high-BPM charters, ::KTYN::{ user=2250574 } and ::Rinze / ler1211::{ user=19901680 }, this chart is a masterpiece of fast-paced and challenging gameplay, which clocking in at 320 BPM, is definitely not for the faint of heart.
 
 Despite the intense speed, the chart is crafted with a high level of care and attention to detail. The notes are placed in a way that feels intuitive and organic, with patterns that flow seamlessly with the music. Every moment is filled with excitement and energy, with intricate rhythms and rapid-fire notes that demand your full attention. This level is a true showcase of the artistry and skill that goes into creating a high-quality beatmap.
 
 [![](/wiki/shared/news/2023-04-20-project-loved-april-2023/695583.jpg)](https://osu.ppy.sh/community/forums/topics/1753550)
 
-[t+pazolite - Garakuta Doll Play (sasakure.UK clutter remix)](https://osu.ppy.sh/beatmapsets/695583#taiko) by ::tasuke912::{ user=2774767 }, [Aisha](https://osu.ppy.sh/users/2192669) and ::MMzz::{ user=128993 }\
+[t+pazolite - Garakuta Doll Play (sasakure.UK clutter remix)](https://osu.ppy.sh/beatmapsets/695583#taiko) by ::tasuke912::{ user=2774767 }, ::Aisha::{ user=2192669 } and ::MMzz::{ user=128993 }\
 256 BPM, 2:36 | 1.70★, 2.28★, 3.17★, 4.42★, 7.87★\
 *description written by ::Boaz::{ user=13302996 }*
 
@@ -290,11 +290,11 @@ Are you ready to take on this TAIKO-HOLiC, or are you sticking to the less exhau
 222 BPM, 1:44 | 6.23★\
 *description written by ::Horiiizon::{ user=8071438 }*
 
-*willow tree* (composed by ::Red Riding Hood::{ user=8050850 } and mapped by [Metzo](https://osu.ppy.sh/users/10633982)) is a serious reading challenge. It features Metzo's unique and recognisable take on slider velocity changes and takes it to an extreme. With the map constantly varying from especially high to low SVs, this large range means the map requires total focus and reading proficiency. On top of this, Metzo saves the hardest but most satisfying part of the map until last, introducing a unique gimmick that mixes slower notes with progressively speeding up notes, causing some difficult overlaps. Do you have what it takes?
+*willow tree* (composed by ::Red Riding Hood::{ user=8050850 } and mapped by ::Metzo::{ user=10633982 }) is a serious reading challenge. It features Metzo's unique and recognisable take on slider velocity changes and takes it to an extreme. With the map constantly varying from especially high to low SVs, this large range means the map requires total focus and reading proficiency. On top of this, Metzo saves the hardest but most satisfying part of the map until last, introducing a unique gimmick that mixes slower notes with progressively speeding up notes, causing some difficult overlaps. Do you have what it takes?
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::Dahcreeper::{ user=6926006 }, [fuhie](https://osu.ppy.sh/users/7620002), ::Kasumi-sama::{ user=6177263 } and [Wesley](https://osu.ppy.sh/users/2407265)!
+The osu!catch Loved candidates were chosen by ::Dahcreeper::{ user=6926006 }, ::fuhie::{ user=7620002 }, ::Kasumi-sama::{ user=6177263 } and ::Wesley::{ user=2407265 }!
 
 <div align="center">
     <video width="95%" controls>
@@ -306,7 +306,7 @@ The osu!catch Loved candidates were chosen by ::Dahcreeper::{ user=6926006 }, [f
 
 [![](/wiki/shared/news/2023-04-20-project-loved-april-2023/415726.jpg)](https://osu.ppy.sh/community/forums/topics/1753548)
 
-[DFenceNL - POMPEN MET DIE SUBWOOFER](https://osu.ppy.sh/beatmapsets/415726#fruits) by ::Sartan::{ user=4100941 }, [CakeAndBanana](https://osu.ppy.sh/users/1981424), ::Dilophosauce::{ user=7106297 } and [Wesley](https://osu.ppy.sh/users/2407265)\
+[DFenceNL - POMPEN MET DIE SUBWOOFER](https://osu.ppy.sh/beatmapsets/415726#fruits) by ::Sartan::{ user=4100941 }, ::CakeAndBanana::{ user=1981424 }, ::Dilophosauce::{ user=7106297 } and ::Wesley::{ user=2407265 }\
 180 BPM, 1:03 | 1.35★, 2.26★, 3.99★, 4.63★\
 *description written by ::fuhie::{ user=7620002 }*
 
@@ -316,7 +316,7 @@ As soon as the map starts your ears start to pick up the signal...
 
 But don't get me wrong boss, it is not lying to you. The bold statement by a gentleman who had his sentence molded into history with the legendary map *POMPEN MET DIE SUBWOOFER* would never tell lies.
 
-Being one of the bigger joke maps in the osu!catch community, POMPEN MET DIE SUBWOOFER created by ::Sartan::{ user=4100941 }, [Wesley](https://osu.ppy.sh/users/2407265), ::CakeAndBanana::{ user=1981424 }, and [Dilophosaus](https://osu.ppy.sh/users/7106297) has found its way onto the list for this ranking season. Previously, being a joke and even being attempted to be put up for loved last year by two immensely brave Beatmap Nominators, the dream was to get this map memorialized with a leaderboard—considering the heavy amount of likes that the map has received over the last 6 years. Despite being in the graveyard since its launch, *POMPEN MET DIE SUBWOOFER* has always been an inside joke inside the communities older members for quite some time.
+Being one of the bigger joke maps in the osu!catch community, POMPEN MET DIE SUBWOOFER created by ::Sartan::{ user=4100941 }, ::Wesley::{ user=2407265 }, ::CakeAndBanana::{ user=1981424 }, and ::Dilophosaus::{ user=7106297 } has found its way onto the list for this ranking season. Previously, being a joke and even being attempted to be put up for loved last year by two immensely brave Beatmap Nominators, the dream was to get this map memorialized with a leaderboard—considering the heavy amount of likes that the map has received over the last 6 years. Despite being in the graveyard since its launch, *POMPEN MET DIE SUBWOOFER* has always been an inside joke inside the communities older members for quite some time.
 
 As for gameplay, it fits all ranges of player and uses a pretty simplistic mapping style with some odd tweaks on regular patterning as well as rhythm choice.
 
@@ -338,23 +338,23 @@ Make sure to give the map a go and see if you enjoy it!
 
 [![](/wiki/shared/news/2023-04-20-project-loved-april-2023/1530841.jpg)](https://osu.ppy.sh/community/forums/topics/1753546)
 
-[KOTOKO - agony](https://osu.ppy.sh/beatmapsets/1530841#fruits) by ::Madoka Ayukawa::{ user=1595221 } and [Dika312](https://osu.ppy.sh/users/741613)\
+[KOTOKO - agony](https://osu.ppy.sh/beatmapsets/1530841#fruits) by ::Madoka Ayukawa::{ user=1595221 } and ::Dika312::{ user=741613 }\
 132 BPM, 3:36 | 4.50★, 5.51★\
 *description written by ::Dahcreeper::{ user=6926006 }*
 
-*agony* mapped by ::Madoka Ayukawa::{ user=1595221 } and [Dika312](https://osu.ppy.sh/users/741613) is a very simple mapset with a very enjoyable style. Dika's difficulty, while being much harder than the average Rain, holds a fun variety of patterns including spaced triples, stairs, and some stacks that require some good platter placement.
+*agony* mapped by ::Madoka Ayukawa::{ user=1595221 } and ::Dika312::{ user=741613 } is a very simple mapset with a very enjoyable style. Dika's difficulty, while being much harder than the average Rain, holds a fun variety of patterns including spaced triples, stairs, and some stacks that require some good platter placement.
 
 Because this map has the low approach rate of 8.7, playing with Hidden can offer a fun experience for most players, and if you prefer Double Time, the aforementioned patterns can serve as a great challenge for just about anybody. Madoka's difficulty offers a much different experience as it has convert-like spacing, extended wiggles and a lot of tough transitional patterns. In general, this set can reach a wider audience as its pretty good practice for almost anyone at any level and is overall just a fun map to play with a great song.
 
 [![](/wiki/shared/news/2023-04-20-project-loved-april-2023/1265151.jpg)](https://osu.ppy.sh/community/forums/topics/1753545)
 
-[goreshit - broken promises/scattered dreams](https://osu.ppy.sh/beatmapsets/1265151#fruits) by ::Rocma::{ user=566276 }, [-Ken](https://osu.ppy.sh/users/4430811), ::amogus 727::{ user=9738159 }, [Spectator](https://osu.ppy.sh/users/702598) and ::wonjae::{ user=5032045 }\
+[goreshit - broken promises/scattered dreams](https://osu.ppy.sh/beatmapsets/1265151#fruits) by ::Rocma::{ user=566276 }, ::-Ken::{ user=4430811 }, ::amogus 727::{ user=9738159 }, ::Spectator::{ user=702598 } and ::wonjae::{ user=5032045 }\
 169 BPM, 3:18 | 6.27★, 6.47★\
 *description written by ::Kasumi-sama::{ user=6177263 }*
 
 Probably one of the least known mapsets by ::Rocma::{ user=566276 }, and yet, these two difficulties are some HIGH-quality mapping right there.
 
-Entries from 2020's osu!catch Mapping World Cup Round 2, having placed respectively 3rd place, for team Various Countries #1, with a collaboration between ::-Ken::{ user=4430811 }, [wonjae](https://osu.ppy.sh/users/5032045), and ::salchow::{ user=9738159 }, and having placed 1st place in this round, for team South Korea, with a collaboration between ::Spectator::{ user=702598 } and [Rocma](https://osu.ppy.sh/users/566276), both maps, despite having a very close star rating, have both gone for... VERY different approaches.
+Entries from 2020's osu!catch Mapping World Cup Round 2, having placed respectively 3rd place, for team Various Countries #1, with a collaboration between ::-Ken::{ user=4430811 }, ::wonjae::{ user=5032045 }, and ::salchow::{ user=9738159 }, and having placed 1st place in this round, for team South Korea, with a collaboration between ::Spectator::{ user=702598 } and ::Rocma::{ user=566276 }, both maps, despite having a very close star rating, have both gone for... VERY different approaches.
 
 Going through Team Various Countries #1's difficulty, they have mainly gone for a nice-and-sweet stream map. Nothing too hard, but nothing too easy either. If you're used to this star rating, there should be plenty of fun to be had on this! It may be simple, but it's very effective.
 
@@ -364,7 +364,7 @@ If you've enjoyed any of these two difficulties though, definitely do think of g
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, [-NoName-](https://osu.ppy.sh/users/10400730), ::\[Crz\]hinako1804::{ user=13747903 }, [kadoen](https://osu.ppy.sh/users/12780575), ::Mipha-::{ user=5767941 }, [Paturages](https://osu.ppy.sh/users/1375479) and ::Remuring::{ user=6522146 }!
+The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, ::-NoName-::{ user=10400730 }, ::\[Crz\]hinako1804::{ user=13747903 }, ::kadoen::{ user=12780575 }, ::Mipha-::{ user=5767941 }, ::Paturages::{ user=1375479 } and ::Remuring::{ user=6522146 }!
 
 <div align="center">
     <video width="95%" controls>
@@ -474,12 +474,12 @@ If you enjoy Evening charts like this, be sure to give him your vote!
 
 [![](/wiki/shared/news/2023-04-20-project-loved-april-2023/1256369.jpg)](https://osu.ppy.sh/community/forums/topics/1753536)
 
-[YOASOBI - Gunjou](https://osu.ppy.sh/beatmapsets/1256369#mania) by ::\[Crz\]Emperor-::{ user=14384681 } and [aaaabaaaa](https://osu.ppy.sh/users/15277626)\
+[YOASOBI - Gunjou](https://osu.ppy.sh/beatmapsets/1256369#mania) by ::\[Crz\]Emperor-::{ user=14384681 } and ::aaaabaaaa::{ user=15277626 }\
 135 BPM, 4:04 | 4.58★, 7.44★\
 The \[=w=\] difficulty is *not* being nominated for Loved.\
 *description written by ::-NoName-::{ user=10400730 }*
 
-We introduce ::\[Crz\]Emperor-::{ user=14384681 } and [aaaabaaaa](https://osu.ppy.sh/users/15277626/mania) to the Loved voting stage with their charts of YOASOBI's *Gunjou*!
+We introduce ::\[Crz\]Emperor-::{ user=14384681 } and ::aaaabaaaa::{ user=15277626 } to the Loved voting stage with their charts of YOASOBI's *Gunjou*!
 
 aaaabaaaa's 4K guest difficulty of this has release patterning designed to keep you on your toes. The overall patterning is indeed quite simple, but if you want to score very high on this, you cannot play this on autopilot.
 

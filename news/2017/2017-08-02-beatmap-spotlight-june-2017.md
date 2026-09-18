@@ -73,7 +73,7 @@ In his flagship Number Oni difficulty, Midnaait shows off the most diverse range
 
 [![](/wiki/shared/news/2017-08-02-beatmap-spotlights-june-2017/ultramarine.jpg)](https://osu.ppy.sh/beatmapsets/275991)
 
-With enjoyable mapping and unique rhythms, **::ZiRoX::{ user=200768 }** and fellow collaborators **::Ascendance::{ user=2931883 }** and **[Spectator](https://osu.ppy.sh/users/702598)** have created a map that challenges the player's reading skills yet is consistent. Spectator's Abyss provides a pleasant reading challenge with circle zize 5 as well as some custom hitsounds that add to the atmosphere of the map. Rain catches attention with it's lower approach rate of 8.7 and dash patterns that are usually uncommon in the current meta. While Cup, Salad and Platter are more standard offerings gameplay wise, they are still enjoyable to play.
+With enjoyable mapping and unique rhythms, **::ZiRoX::{ user=200768 }** and fellow collaborators **::Ascendance::{ user=2931883 }** and **::Spectator::{ user=702598 }** have created a map that challenges the player's reading skills yet is consistent. Spectator's Abyss provides a pleasant reading challenge with circle zize 5 as well as some custom hitsounds that add to the atmosphere of the map. Rain catches attention with it's lower approach rate of 8.7 and dash patterns that are usually uncommon in the current meta. While Cup, Salad and Platter are more standard offerings gameplay wise, they are still enjoyable to play.
 
 [![](/wiki/shared/news/2017-08-02-beatmap-spotlights-june-2017/mahou-shoujo-chino_osucatch.jpg)](https://osu.ppy.sh/beatmapsets/458983)
 

@@ -8,7 +8,7 @@ series: beatmap_spotlights
 
 The Ranking Charts for May 2016 have been just released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1605)!
 
-This month our dedicated QAT members, ::Bakari::{ user=597957 }, [MMzz](https://osu.ppy.sh/users/128993), ::Deif::{ user=318565 } and [Blocko](https://osu.ppy.sh/users/4075092) picked the maps for the Monthly Ranking Charts.
+This month our dedicated QAT members, ::Bakari::{ user=597957 }, ::MMzz::{ user=128993 }, ::Deif::{ user=318565 } and ::Blocko::{ user=4075092 } picked the maps for the Monthly Ranking Charts.
 
 ## Ranking Charts Creation
 

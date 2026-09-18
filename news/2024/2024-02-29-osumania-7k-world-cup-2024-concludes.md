@@ -207,7 +207,7 @@ Born and raised in osu!mania, **yz1155** has climbed through the ranks and is no
 
 *Do you have anything you want to let the readers know?*
 
-> ::dressurf::{ user=758406 }, [cheewee](https://osu.ppy.sh/users/4477497) and ::Kura::{ user=11420405 } are not earthlings. It's a huge secret, so don't let anyone know.
+> ::dressurf::{ user=758406 }, ::cheewee::{ user=4477497 } and ::Kura::{ user=11420405 } are not earthlings. It's a huge secret, so don't let anyone know.
 
 ::{#-noname-}::
 

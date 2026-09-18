@@ -90,10 +90,10 @@ Last but not least, Beatmap Nominators will also be judged by the map quality of
 
 Within the last few months we've had the chance to say hello to a lot of new members to the Beatmap Nominators, especially from the osu!taiko side of things! We're very glad to have all these people on board whether they are new to the group or are returning veterans. We look forward to their help with pushing content to the Ranked section. As this is the first newspost, we will list all nominator additions for 2020 so far.
 
-- **osu!:** ::celerih::{ user=4696296 }, [SMOKELIND](https://osu.ppy.sh/users/9327302) & ::Stack::{ user=6122935 }
-- **osu!taiko:** ::Capu::{ user=2474015 }, [Gamelan4](https://osu.ppy.sh/users/9856910), ::Hoshikuz::{ user=9892196 }, [incandescence](https://osu.ppy.sh/users/6256027), ::kanpakyin::{ user=394326 }, [Stefan](https://osu.ppy.sh/users/626907), ::Vulkin::{ user=4901066 } & [Yales](https://osu.ppy.sh/users/2377881)
-- **osu!catch:** ::Dapuluous::{ user=8140944 } & [Lacrima](https://osu.ppy.sh/users/4915649)
-- **osu!mania:** ::Amiichii::{ user=9228569 },  [Dubstek](https://osu.ppy.sh/users/9555243), ::UnluckyCroco::{ user=9461160 } & [Voxa](https://osu.ppy.sh/users/9229539)
+- **osu!:** ::celerih::{ user=4696296 }, ::SMOKELIND::{ user=9327302 } & ::Stack::{ user=6122935 }
+- **osu!taiko:** ::Capu::{ user=2474015 }, ::Gamelan4::{ user=9856910 }, ::Hoshikuz::{ user=9892196 }, ::incandescence::{ user=6256027 }, ::kanpakyin::{ user=394326 }, ::Stefan::{ user=626907 }, ::Vulkin::{ user=4901066 } & ::Yales::{ user=2377881 }
+- **osu!catch:** ::Dapuluous::{ user=8140944 } & ::Lacrima::{ user=4915649 }
+- **osu!mania:** ::Amiichii::{ user=9228569 },  ::Dubstek::{ user=9555243 }, ::UnluckyCroco::{ user=9461160 } & ::Voxa::{ user=9229539 }
 
 We'd like to use this section as a reminder that you can apply as a Beatmap Nominator at any time over at [BN/NAT website](https://bn.mappersguild.com/) as long as you reach the activity requirements. We hope to see some of your names on this list next month!
 
@@ -101,17 +101,17 @@ We'd like to use this section as a reminder that you can apply as a Beatmap Nomi
 
 Next, we have those who have taken their leave from the group. We'd like to thank them for their tremendous work and effort within the BNs and wish them the best with their newly obtained freedom!
 
-- **osu!:** ::Mun::{ user=6699165 } & [Trynna](https://osu.ppy.sh/users/2652951)
+- **osu!:** ::Mun::{ user=6699165 } & ::Trynna::{ user=2652951 }
 - **osu!taiko:** ::qoot8123::{ user=766371 }
-- **osu!catch:** ::Du5t::{ user=6053071 }, [Rocma](https://osu.ppy.sh/users/566276) & ::Sanyi::{ user=7496029 }
-- **osu!mania:** ::Critical\1Star::{ user=3793196 }, [Kyousukee](https://osu.ppy.sh/users/8842107), ::MEGAtive::{ user=3094101 } & [Tailsdk](https://osu.ppy.sh/users/6751666)
+- **osu!catch:** ::Du5t::{ user=6053071 }, ::Rocma::{ user=566276 } & ::Sanyi::{ user=7496029 }
+- **osu!mania:** ::Critical\1Star::{ user=3793196 }, ::Kyousukee::{ user=8842107 }, ::MEGAtive::{ user=3094101 } & ::Tailsdk::{ user=6751666 }
 
 ### BN Badges
 
 Before we move on to the NAT additions, we would like to honour our long standing members of the Beatmap Nominators! These BNs will receive, depending on the length of their tenure in the team, a shiny new badge for their profile page. We thank them all for their contribution so far and hope to see much more of them in the future! Here is the list of those:
 
-- **1 Year Badge:** ::-Keitaro::{ user=3378391 }, [-Luminate](https://osu.ppy.sh/users/4778689), ::\1Kobii::{ user=6209713 }, [Bibbity Bill](https://osu.ppy.sh/users/4446810), ::Cris-::{ user=6175280 }, [Crissa](https://osu.ppy.sh/users/5405836), ::eiri-::{ user=3388410 }, [Nikakis](https://osu.ppy.sh/users/4351739), ::Petal::{ user=7354729 }, [Scotty](https://osu.ppy.sh/users/11085809), ::Sparhten::{ user=7601720 }, [spoes](https://osu.ppy.sh/users/9505704), ::Tyistiana::{ user=1421452 }, [Venix](https://osu.ppy.sh/users/5999631), ::Yugu::{ user=3161834 } & [Zelq](https://osu.ppy.sh/users/8953955)
-- **2 Year Badge:** ::ailv::{ user=6933054 }, [Myxo](https://osu.ppy.sh/users/2202645), ::Realazy::{ user=918297 }, [TheKingHenry](https://osu.ppy.sh/users/5128277) & ::timemon::{ user=2072005 }
+- **1 Year Badge:** ::-Keitaro::{ user=3378391 }, ::-Luminate::{ user=4778689 }, ::\1Kobii::{ user=6209713 }, ::Bibbity Bill::{ user=4446810 }, ::Cris-::{ user=6175280 }, ::Crissa::{ user=5405836 }, ::eiri-::{ user=3388410 }, ::Nikakis::{ user=4351739 }, ::Petal::{ user=7354729 }, ::Scotty::{ user=11085809 }, ::Sparhten::{ user=7601720 }, ::spoes::{ user=9505704 }, ::Tyistiana::{ user=1421452 }, ::Venix::{ user=5999631 }, ::Yugu::{ user=3161834 } & ::Zelq::{ user=8953955 }
+- **2 Year Badge:** ::ailv::{ user=6933054 }, ::Myxo::{ user=2202645 }, ::Realazy::{ user=918297 }, ::TheKingHenry::{ user=5128277 } & ::timemon::{ user=2072005 }
 - **3 Year Badge:** ::Xinely::{ user=1521445 }
 
 ### NAT Additions

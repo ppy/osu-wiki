@@ -28,13 +28,13 @@ Now let's see those beatmaps!
 
 ## osu!
 
-osu! Loved candidates were chosen by ::Toy::{ user=2757689 } and [DigitalHypno](https://osu.ppy.sh/users/4384207)!
+osu! Loved candidates were chosen by ::Toy::{ user=2757689 } and ::DigitalHypno::{ user=4384207 }!
 
 ---
 
 [![](/wiki/shared/news/2018-07-29-project-loved-week-of-july-29th/osu/ikenai-borderline-speed-up-ver.jpg)](https://osu.ppy.sh/community/forums/topics/781734)
 
-[WALKURE - Ikenai Borderline (Speed Up Ver.)](https://osu.ppy.sh/beatmapsets/525461) by ::ChronoNig::{ user=3545323 }, [Megatron is bad](https://osu.ppy.sh/users/2570828) and ::Flezlin::{ user=3696423 }\
+[WALKURE - Ikenai Borderline (Speed Up Ver.)](https://osu.ppy.sh/beatmapsets/525461) by ::ChronoNig::{ user=3545323 }, ::Megatron is bad::{ user=2570828 } and ::Flezlin::{ user=3696423 }\
 *written by ::DigitalHypno::{ user=4384207 }*
 
 Formerly and more popularly known as "And Aoiyuuki - I Love Flezlin", this sped up version of Ikenai Borderline gives a fun challenge to even the best players on the block. With one 6\* version by ChronoNig and two contrasting 8\* versions made by Flezlin and Megatron is bad, you're sure to find a way to enjoy this mapset. Don't skimp out on playing both 8\* versions if you're looking for the biggest challenge; they're very far from similar. Even if the song title isn't the same as we all remember, don't forget the most important thing: this map, my friends, was made with love.
@@ -62,14 +62,14 @@ This map is possibly best known for its viability as a stamina training, finger 
 
 [![](/wiki/shared/news/2018-07-29-project-loved-week-of-july-29th/osu/firmament-castle-velier.jpg)](https://osu.ppy.sh/community/forums/topics/781738)
 
-[Uetsu Shi - Firmament Castle "Velier"](https://osu.ppy.sh/beatmapsets/96366) by ::Cherry Blossom::{ user=96366 } and [Sayaka-](https://osu.ppy.sh/users/398275)\
+[Uetsu Shi - Firmament Castle "Velier"](https://osu.ppy.sh/beatmapsets/96366) by ::Cherry Blossom::{ user=96366 } and ::Sayaka-::{ user=398275 }\
 *written by ::Toy::{ user=2757689 }*
 
 Similarly to toromi hearts 2, Cherry Blossom's Firmament Castle "Velier" (Formerly uetsu shi - Tenku No Shiro Vuerieru) is famous for its status as a stream stamina test. A beautifully mapped 7\* diff of an equally beautiful song, the map itself proves slightly more vicious, clocking in at 222 BPM and featuring various streams reaching up to over 60 notes in length. Originally mapped in 2013 along with a more difficult remap in 2015, Firmament Castle "Velier" is a stream map for the ages.
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::Backfire::{ user=263110 }, [Gezoda](https://osu.ppy.sh/users/481582) and ::iceOC::{ user=5482401 }! This week, all osu!taiko beatmap descriptions were written by ::Gezoda::{ user=481582 }.
+osu!taiko Loved candidates were chosen by ::Backfire::{ user=263110 }, ::Gezoda::{ user=481582 } and ::iceOC::{ user=5482401 }! This week, all osu!taiko beatmap descriptions were written by ::Gezoda::{ user=481582 }.
 
 ---
 
@@ -93,7 +93,7 @@ Heaven's Fall: it was scheduled for July 27 after the lunar eclipse, but as it t
 
 [![](/wiki/shared/news/2018-07-29-project-loved-week-of-july-29th/taiko/feelin-sky-camellia-s-200step-self-remix.jpg)](https://osu.ppy.sh/community/forums/topics/781746)
 
-[Camellia - Feelin Sky (Camellia's "200step" Self-remix)](https://osu.ppy.sh/beatmapsets/705016) by ::Backfire::{ user=263110 } and [Fallmorph](https://osu.ppy.sh/users/5720389)
+[Camellia - Feelin Sky (Camellia's "200step" Self-remix)](https://osu.ppy.sh/beatmapsets/705016) by ::Backfire::{ user=263110 } and ::Fallmorph::{ user=5720389 }
 
 We may not have our usual Camellia feat Nanahira collab in the pollings this week, but we have Feelin Sky, a great song that is... a Camellia remix of a Camellia song. This beatmap is a collaboration between Backfire and Fallmorph (who was formerly known as teaMblack19, for those who are not very familiar with the name) and uses SVs and barline gimmicks that we all know and love. The beatmap itself isn't anything to miss either; who wouldn't play a technical map?
 
@@ -105,13 +105,13 @@ Oh look, a Miku map that isn't all cutesy for once! With streams to kill you, it
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Zak::{ user=1375955 }, [Tenshichan](https://osu.ppy.sh/users/1101600), ::Sartan::{ user=4100941 } and [Ascendance](https://osu.ppy.sh/users/2931883)!
+osu!catch Loved candidates were chosen by ::Zak::{ user=1375955 }, ::Tenshichan::{ user=1101600 }, ::Sartan::{ user=4100941 } and ::Ascendance::{ user=2931883 }!
 
 ---
 
 [![](/wiki/shared/news/2018-07-29-project-loved-week-of-july-29th/catch/pacific-girls.jpg)](https://osu.ppy.sh/community/forums/topics/781750)
 
-[DJ Sharpnel - Pacific Girls](https://osu.ppy.sh/beatmapsets/539728) by ::ExGon::{ user=214187 } and [DakkyChan](https://osu.ppy.sh/users/2107017)\
+[DJ Sharpnel - Pacific Girls](https://osu.ppy.sh/beatmapsets/539728) by ::ExGon::{ user=214187 } and ::DakkyChan::{ user=2107017 }\
 *written by ::Sartan::{ user=4100941 }*
 
 The long requested Pacific Girls collab from ExGon and DakkyChan finally makes its way into the loved voting! What can only be described as a pretty crazy map, Pacific Girls is left-rights incarnate, with the first half mostly consisting of rapid left-rights only, and the second half keeping up with that theme but also adding in some ridiculous hyperwalks. I mean, I hope you didn't expect anything less straining from this map looking at its star rating, right? Thanks to the low HP drain, this map is possible to pass for most high-end players, but achieving a good combo or accuracy on this behemoth might require some praying to the osu! gods; it is definitely not a map for weak souls. Good luck!
@@ -125,7 +125,7 @@ One of the osu! community's favourite songs, C18H27NO3, gets a chance to receive
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::Kamikaze::{ user=2124783 }, [Pope Gadget](https://osu.ppy.sh/users/2288341), ::aitor98::{ user=3154852 }, [TheToaphster](https://osu.ppy.sh/users/7616811) and ::\_underjoy::{ user=2235750 }!
+osu!mania Loved candidates were chosen by ::Kamikaze::{ user=2124783 }, ::Pope Gadget::{ user=2288341 }, ::aitor98::{ user=3154852 }, ::TheToaphster::{ user=7616811 } and ::\_underjoy::{ user=2235750 }!
 
 ---
 

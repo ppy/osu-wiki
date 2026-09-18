@@ -28,7 +28,7 @@ In case you don't read the end of this post, be sure to submit suggestions for b
 
 ## osu!
 
-osu! Loved candidates were chosen by ::BeasttrollMC::{ user=3171691 }, [Bubbleman](https://osu.ppy.sh/users/5182050), ::DigitalHypno::{ user=4384207 }, [SoraRoxas01](https://osu.ppy.sh/users/1986262) and ::waywern2012::{ user=5870453 }!
+osu! Loved candidates were chosen by ::BeasttrollMC::{ user=3171691 }, ::Bubbleman::{ user=5182050 }, ::DigitalHypno::{ user=4384207 }, ::SoraRoxas01::{ user=1986262 } and ::waywern2012::{ user=5870453 }!
 
 ---
 
@@ -51,7 +51,7 @@ Perhaps a recognizable name at this point, CrazyrabbitKGE's mapping can best be 
 [Kino Hiko - The Noise of Rain](https://osu.ppy.sh/beatmapsets/636725#osu) by ::Prinsep::{ user=5004986 }\
 *written by ::SoraRoxas01::{ user=1986262 }*
 
-For those of you that were at TwitchCon or kept updated with it, you would know that this map was used as a tiebreaker between ::RyuK::{ user=6304246 } and [idke](https://osu.ppy.sh/users/4650315) at a tournament there. Constant flow in the patterns with regular jump spikes spaced throughout the map makes this quite enjoyable to play, which also compliments the chill song. The map peaks at 7.4 stars, as it really picks up at the end of the song with the 200+ BPM cross-screen jumps which may throw off anyone that isn't paying attention.
+For those of you that were at TwitchCon or kept updated with it, you would know that this map was used as a tiebreaker between ::RyuK::{ user=6304246 } and ::idke::{ user=4650315 } at a tournament there. Constant flow in the patterns with regular jump spikes spaced throughout the map makes this quite enjoyable to play, which also compliments the chill song. The map peaks at 7.4 stars, as it really picks up at the end of the song with the 200+ BPM cross-screen jumps which may throw off anyone that isn't paying attention.
 
 [![](/wiki/shared/news/2019-01-26-project-loved-week-of-january-27th/osu/kappa-kappa-forsen-edition.jpg)](https://osu.ppy.sh/community/forums/topics/861063)
 
@@ -108,13 +108,13 @@ As stupid as that may sound, it's true. During each kiai section, there exists o
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-\1 ix Ishida xi \1-::{ user=242910 }, [-Kazu-](https://osu.ppy.sh/users/920861), ::iceOC::{ user=5482401 }, [jyake](https://osu.ppy.sh/users/9099822) and ::nyanmi-1828::{ user=6866480 }!
+osu!taiko Loved candidates were chosen by ::-\1 ix Ishida xi \1-::{ user=242910 }, ::-Kazu-::{ user=920861 }, ::iceOC::{ user=5482401 }, ::jyake::{ user=9099822 } and ::nyanmi-1828::{ user=6866480 }!
 
 ---
 
 [![](/wiki/shared/news/2019-01-26-project-loved-week-of-january-27th/taiko/confused-start-hinnyuu-tou-no-tatakai.jpg)](https://osu.ppy.sh/community/forums/topics/861055)
 
-[LOLIPO - Confused Start -Hinnyuu Tou no Tatakai-](https://osu.ppy.sh/beatmapsets/349210#taiko) by ::Lundlerol::{ user=855219 } and [toara\_fict](https://osu.ppy.sh/users/1786588)\
+[LOLIPO - Confused Start -Hinnyuu Tou no Tatakai-](https://osu.ppy.sh/beatmapsets/349210#taiko) by ::Lundlerol::{ user=855219 } and ::toara\_fict::{ user=1786588 }\
 *written by ::-Kazu-::{ user=920861 }*
 
 Truly a relic for the osu!taiko mapping scene, this map is quite old and has seen a lot of controversy and plays in multiplayer. Confused Start is one of those maps that were quite difficult for their time and was well received among most the players back then, so we hope the new generations of players can also enjoy a bit from the amazing mapper Lundlerol.
@@ -144,7 +144,7 @@ My Angel Koishi(Sar7)が作るこの譜面は、日本のマッパーの中で�
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Ascendance::{ user=2931883 }, [Sartan](https://osu.ppy.sh/users/4100941), ::Tenshichan::{ user=1101600 } and [Zak](https://osu.ppy.sh/users/1375955)!
+osu!catch Loved candidates were chosen by ::Ascendance::{ user=2931883 }, ::Sartan::{ user=4100941 }, ::Tenshichan::{ user=1101600 } and ::Zak::{ user=1375955 }!
 
 ---
 
@@ -157,14 +157,14 @@ Red Sign is another one of ZHSteven's old classics, which was submitted way back
 
 [![](/wiki/shared/news/2019-01-26-project-loved-week-of-january-27th/catch/yomi-yori-kikoyu-koukoku-no-tou-to-honoo-no-shoujo.jpg)](https://osu.ppy.sh/community/forums/topics/861054)
 
-[Imperial Circus Dead Decadence - Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo.](https://osu.ppy.sh/beatmapsets/673244#fruits) by ::Hareimu::{ user=4138746 }, [Ascendance](https://osu.ppy.sh/users/2931883) and ::Fii::{ user=3922569 }\
+[Imperial Circus Dead Decadence - Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo.](https://osu.ppy.sh/beatmapsets/673244#fruits) by ::Hareimu::{ user=4138746 }, ::Ascendance::{ user=2931883 } and ::Fii::{ user=3922569 }\
 *written by ::Ascendance::{ user=2931883 }*
 
 ICDD Featured Artist when? No seriously, the artist has inspired so many great maps and this one is no exception. Hareimu's Yomi Yori is a fantastic stream map targeted at stamina- or consistency-oriented players. At 220 BPM, Hareimu, along with two names that should be fairly well known across osu!catch, managed to create an incredibly structured map that still boasts quite the challenge for even the top echelons of players.
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::Lenfried-::{ user=5314573 }, [Pope Gadget](https://osu.ppy.sh/users/2288341), ::stupud man::{ user=2141612 } and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
+osu!mania Loved candidates were chosen by ::Lenfried-::{ user=5314573 }, ::Pope Gadget::{ user=2288341 }, ::stupud man::{ user=2141612 } and ::Toaph Daddy::{ user=7616811 }!
 
 ---
 
@@ -206,7 +206,7 @@ For months (possibly a year) people have been requesting Flexo123 to make an app
 
 From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
-In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Ephemeral::{ user=102335 }, [Noffy](https://osu.ppy.sh/users/1541323) and ::Toy::{ user=2757689 } for their miscellaneous help in managing Project Loved.
+In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Ephemeral::{ user=102335 }, ::Noffy::{ user=1541323 } and ::Toy::{ user=2757689 } for their miscellaneous help in managing Project Loved.
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! You can view the current submissions on the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0).
 

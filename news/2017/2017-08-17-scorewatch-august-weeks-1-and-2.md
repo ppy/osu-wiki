@@ -51,7 +51,7 @@ Don't underestimate this play! ::ThePooN::{ user=718454 } has just set a crazy 9
 
 ## SCORESHOW WITH ZSEIKIMATSU
 
-::inteliser::{ user=1824775 } takes on [Pope Gadget](https://osu.ppy.sh/users/2288341) on the infamous osu!mania map [LeaF - NANO DEATH!!!!!](https://osu.ppy.sh/beatmapsets/478161).
+::inteliser::{ user=1824775 } takes on ::Pope Gadget::{ user=2288341 } on the infamous osu!mania map [LeaF - NANO DEATH!!!!!](https://osu.ppy.sh/beatmapsets/478161).
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/zQR8-BtcWGY" frameborder="0" allowfullscreen></iframe></br>
 

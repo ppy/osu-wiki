@@ -42,7 +42,7 @@ Yet again. **::pishifat::{ user=3178418 }** manages to impress the community wit
 
 [![](/wiki/shared/news/2017-09-22-beatmap-spotlights-july-august-2017/sayonara-heaven.jpg)](https://osu.ppy.sh/beatmapsets/516995)
 
-With such clean and consistent mapping, **::jieusieu::{ user=759439 }**, **[Beomsan](https://osu.ppy.sh/users/3626063)** and **::Enon::{ user=2043401 }** managed to create a wonderful mapset worthy of this month's Spotlight.
+With such clean and consistent mapping, **::jieusieu::{ user=759439 }**, **::Beomsan::{ user=3626063 }** and **::Enon::{ user=2043401 }** managed to create a wonderful mapset worthy of this month's Spotlight.
 
 Each difficulty captures the song wonderfully while also putting attention to the breaks in the music, and the map itself flows brilliantly, topped off with some excellent and beatifully fitting hit sounding.
 
@@ -225,7 +225,7 @@ Despite the rather repetitive nature of the song, Spectator uses just the right 
 
 [![](/wiki/shared/news/2017-09-22-beatmap-spotlights-july-august-2017/acceleration.jpg)](https://osu.ppy.sh/beatmapsets/392304)
 
-Accelerating its way to the Spotlights is this mapset by a huge collective of mappers! From ::JBHyperion::{ user=4879508 }, [NurseHyperion](https://osu.ppy.sh/users/4880672), ::- Magic Girl -::{ user=3095784 }, [WildOne94](https://osu.ppy.sh/users/3482692), ::Withered Lotus::{ user=3546931 }, and [Razor Sharp](https://osu.ppy.sh/users/3414261), this map brings a variety of mapping styles on the plate. It features a lot of hectic patterns (contemplated by the higher-than-usual Approach Rate) that compliments the song's fast-paced nature. Just be careful not to get left behind!
+Accelerating its way to the Spotlights is this mapset by a huge collective of mappers! From ::JBHyperion::{ user=4879508 }, ::NurseHyperion::{ user=4880672 }, ::- Magic Girl -::{ user=3095784 }, ::WildOne94::{ user=3482692 }, ::Withered Lotus::{ user=3546931 }, and ::Razor Sharp::{ user=3414261 }, this map brings a variety of mapping styles on the plate. It features a lot of hectic patterns (contemplated by the higher-than-usual Approach Rate) that compliments the song's fast-paced nature. Just be careful not to get left behind!
 
 ### osu!mania
 

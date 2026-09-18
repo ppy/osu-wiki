@@ -11,7 +11,7 @@ outdated_translation: true
 - [Canal Oficial do YouTube](https://www.youtube.com/user/osuacademy/videos)
 - [Fórum Oficial](https://osu.ppy.sh/community/forums/topics/225111)
 
-**osu!talk** é uma serie de áudio digital apresentada por [ztrot](https://osu.ppy.sh/users/ztrot), e [deadbeat](https://osu.ppy.sh/users/deadbeat) como co-apresentador. A série tem como foco entrevistar varias pessoas da comunidade do osu!. Porém algumas vezes arranjam uma discussão em grupo sobre coisas diferentes acontecendo pela comunidade como mudanças na staff, ou problemas a longo prazo discutidos frequentemente como overmapping. A serie de áudio digital é feita de forma com que qualquer um possa se juntar a sessão e fazer perguntas durante o bloco "[Perguntas e Respostas](https://en.wikipedia.org/wiki/Q%26A)" do episódio.
+**osu!talk** é uma serie de áudio digital apresentada por ::ztrot::{ user=6347 }, e [deadbeat](https://osu.ppy.sh/users/deadbeat) como co-apresentador. A série tem como foco entrevistar varias pessoas da comunidade do osu!. Porém algumas vezes arranjam uma discussão em grupo sobre coisas diferentes acontecendo pela comunidade como mudanças na staff, ou problemas a longo prazo discutidos frequentemente como overmapping. A serie de áudio digital é feita de forma com que qualquer um possa se juntar a sessão e fazer perguntas durante o bloco "[Perguntas e Respostas](https://en.wikipedia.org/wiki/Q%26A)" do episódio.
 
 ## Episódios
 
@@ -64,18 +64,18 @@ outdated_translation: true
 
 | EP\# | Tópicos | Entrevistas | Link |
 | :-- | :-- | :-- | :-- |
-| #1 | Reformas na Staff | ::Charles445::{ user=85000 }, [Ephemeral](https://osu.ppy.sh/users/102335), ::deadbeat::{ user=128370 }, and [OnosakiHito](https://osu.ppy.sh/users/290128) | [Link](https://www.youtube.com/watch?v=c10Jiq1xZus) |
-| #2 | Overmapping | ::Kyonko Hizara::{ user=444868 }, [Loctav](https://osu.ppy.sh/users/71366), ::MMzz::{ user=128993 }, and [OnosakiHito](https://osu.ppy.sh/users/290128) | [Link](https://www.youtube.com/watch?v=RepSYE3hN3A) |
-| #3 | Moderação | ::Charles445::{ user=85000 }, [deadbeat](https://osu.ppy.sh/users/128370), ::Flanster::{ user=447818 } and [Kitokofox](https://osu.ppy.sh/users/1815420) | [Link](https://www.youtube.com/watch?v=C1hvpnW5A7k) |
-| #4 | osu!academy e eventos futuros | ::Charles445::{ user=85000 }, [deadbeat](https://osu.ppy.sh/users/128370), ::Kyonko Hizara::{ user=444868 }, and [Kitokofox](https://osu.ppy.sh/users/1815420) | [Link](https://www.youtube.com/watch?v=-N44vLwJ9oM) |
-| #5 | osu! World Cup 2014 | ::Charles445::{ user=85000 }, [cptnXn](https://osu.ppy.sh/users/495272), ::Loctav::{ user=71366 }, [Mr Color](https://osu.ppy.sh/users/116078), ::p3n::{ user=123703 }, and [ToGlette](https://osu.ppy.sh/users/1076236) | [Link](https://www.youtube.com/watch?v=Tl0E8vqubjw) |
-| #6 | osu! World Cup Grande Final | ::cptnXn::{ user=495272 }, [deadbeat](https://osu.ppy.sh/users/128370), ::Doomsday::{ user=18983 }, [Loctav](https://osu.ppy.sh/users/71366), ::Mr Color::{ user=116078 }, and [Tom94](https://osu.ppy.sh/users/1857058) | [Link](https://www.youtube.com/watch?v=bl63NpUz_T8) |
-| #7 | Guest difficulties vs Single mapper set | ::deadbeat::{ user=128370 }, [Doomsday](https://osu.ppy.sh/users/18983), ::shARPII::{ user=776257 }, and [WubWoofWolf](https://osu.ppy.sh/users/39828) | [Link](https://www.youtube.com/watch?v=OMsHFRS662k) |
-| #8 | osu!next | ::deadbeat::{ user=128370 }, [flyte](https://osu.ppy.sh/users/3103765), and ::peppy::{ user=2 } | [Link](https://www.youtube.com/watch?v=jBUNIDa427Q) |
-| #9 | Lendas do clique de círculos viciante | ::Charles445::{ user=85000 }, [deadbeat](https://osu.ppy.sh/users/128370), ::Kyonko Hizara::{ user=444868 }, LoliFlan, and ::p3n::{ user=123703 } | [Link](https://www.youtube.com/watch?v=tIEuc4DK_nM) |
-| #10 | osu!next 2ª rodada | ::deadbeat::{ user=128370 }, [flyte](https://osu.ppy.sh/users/3103765), and ::peppy::{ user=2 } | [Link](https://www.youtube.com/watch?v=tICLLkOlpno) |
-| #11 | Catch the Beat Discussion | ::deadbeat::{ user=128370 }, [Kingkevin30](https://osu.ppy.sh/users/564334), ::- Magic Bomb -::{ user=3071175 }, [Candlestorm](https://osu.ppy.sh/users/6115166), ::Saki::{ user=3026611 }, and [Zak](https://osu.ppy.sh/users/1375955) | [Link](https://www.youtube.com/watch?v=1SvUNLkcoQg) |
-| #12 | osu!idol Discussion | ::deadbeat::{ user=128370 }, [Flanster](https://osu.ppy.sh/users/447818), ::shARPII::{ user=776257 }, and [Kyonko Hizara](https://osu.ppy.sh/users/444868) | [Link](https://www.youtube.com/watch?v=gwtlGM1GpWM) |
+| #1 | Reformas na Staff | ::Charles445::{ user=85000 }, ::Ephemeral::{ user=102335 }, ::deadbeat::{ user=128370 }, and ::OnosakiHito::{ user=290128 } | [Link](https://www.youtube.com/watch?v=c10Jiq1xZus) |
+| #2 | Overmapping | ::Kyonko Hizara::{ user=444868 }, ::Loctav::{ user=71366 }, ::MMzz::{ user=128993 }, and ::OnosakiHito::{ user=290128 } | [Link](https://www.youtube.com/watch?v=RepSYE3hN3A) |
+| #3 | Moderação | ::Charles445::{ user=85000 }, ::deadbeat::{ user=128370 }, ::Flanster::{ user=447818 } and ::Kitokofox::{ user=1815420 } | [Link](https://www.youtube.com/watch?v=C1hvpnW5A7k) |
+| #4 | osu!academy e eventos futuros | ::Charles445::{ user=85000 }, ::deadbeat::{ user=128370 }, ::Kyonko Hizara::{ user=444868 }, and ::Kitokofox::{ user=1815420 } | [Link](https://www.youtube.com/watch?v=-N44vLwJ9oM) |
+| #5 | osu! World Cup 2014 | ::Charles445::{ user=85000 }, ::cptnXn::{ user=495272 }, ::Loctav::{ user=71366 }, ::Mr Color::{ user=116078 }, ::p3n::{ user=123703 }, and ::ToGlette::{ user=1076236 } | [Link](https://www.youtube.com/watch?v=Tl0E8vqubjw) |
+| #6 | osu! World Cup Grande Final | ::cptnXn::{ user=495272 }, ::deadbeat::{ user=128370 }, ::Doomsday::{ user=18983 }, ::Loctav::{ user=71366 }, ::Mr Color::{ user=116078 }, and ::Tom94::{ user=1857058 } | [Link](https://www.youtube.com/watch?v=bl63NpUz_T8) |
+| #7 | Guest difficulties vs Single mapper set | ::deadbeat::{ user=128370 }, ::Doomsday::{ user=18983 }, ::shARPII::{ user=776257 }, and ::WubWoofWolf::{ user=39828 } | [Link](https://www.youtube.com/watch?v=OMsHFRS662k) |
+| #8 | osu!next | ::deadbeat::{ user=128370 }, ::flyte::{ user=3103765 }, and ::peppy::{ user=2 } | [Link](https://www.youtube.com/watch?v=jBUNIDa427Q) |
+| #9 | Lendas do clique de círculos viciante | ::Charles445::{ user=85000 }, ::deadbeat::{ user=128370 }, ::Kyonko Hizara::{ user=444868 }, LoliFlan, and ::p3n::{ user=123703 } | [Link](https://www.youtube.com/watch?v=tIEuc4DK_nM) |
+| #10 | osu!next 2ª rodada | ::deadbeat::{ user=128370 }, ::flyte::{ user=3103765 }, and ::peppy::{ user=2 } | [Link](https://www.youtube.com/watch?v=tICLLkOlpno) |
+| #11 | Catch the Beat Discussion | ::deadbeat::{ user=128370 }, ::Kingkevin30::{ user=564334 }, ::- Magic Bomb -::{ user=3071175 }, ::Candlestorm::{ user=6115166 }, ::Saki::{ user=3026611 }, and ::Zak::{ user=1375955 } | [Link](https://www.youtube.com/watch?v=1SvUNLkcoQg) |
+| #12 | osu!idol Discussion | ::deadbeat::{ user=128370 }, ::Flanster::{ user=447818 }, ::shARPII::{ user=776257 }, and ::Kyonko Hizara::{ user=444868 } | [Link](https://www.youtube.com/watch?v=gwtlGM1GpWM) |
 
 ## Repescagens do Campeonato Mundial
 
@@ -101,8 +101,8 @@ outdated_translation: true
 
 | EP\# | Events | Entrevistas | Link |
 | :-- | :-- | :-- | :-- |
-| #1 | Me pergunte qualquer coisa | ::deadbeat::{ user=128370 } and [ztrot](https://osu.ppy.sh/users/6347) | [Link](https://www.youtube.com/watch?v=A0xqa-vBPgY) |
-| #2 | Me pergunte qualquer coisa 2015 | ::Charles445::{ user=85000 }, [deadbeat](https://osu.ppy.sh/users/128370), ::Flanster::{ user=447818 }, [p3n](https://osu.ppy.sh/users/123703), and ::ztrot::{ user=6347 } | [Link](https://www.youtube.com/watch?v=a9An8cD18Co) |
-| #3 | Aniversario de 1 ano | ::Charles445::{ user=85000 }, [deadbeat](https://osu.ppy.sh/users/128370), and ::ztrot::{ user=6347 } | [Link](https://www.youtube.com/watch?v=AHU7RgGCB50) |
-| #4 | Welcome back | ::deadbeat::{ user=128370 }, [Kyonko Hizara](https://osu.ppy.sh/users/444868), ::Nyquill::{ user=682935 }, [Zak](https://osu.ppy.sh/users/1375955), ::ztrot::{ user=6347 } | [Link](https://www.youtube.com/watch?v=mxXNNH5bnU4) |
-| #5 | Upcoming events Q&A | ::Kyonko Hizara::{ user=444868 }and [ztrot](https://osu.ppy.sh/users/6347) | [Link](https://www.youtube.com/watch?v=-f9hGuNC4Jg) |
+| #1 | Me pergunte qualquer coisa | ::deadbeat::{ user=128370 } and ::ztrot::{ user=6347 } | [Link](https://www.youtube.com/watch?v=A0xqa-vBPgY) |
+| #2 | Me pergunte qualquer coisa 2015 | ::Charles445::{ user=85000 }, ::deadbeat::{ user=128370 }, ::Flanster::{ user=447818 }, ::p3n::{ user=123703 }, and ::ztrot::{ user=6347 } | [Link](https://www.youtube.com/watch?v=a9An8cD18Co) |
+| #3 | Aniversario de 1 ano | ::Charles445::{ user=85000 }, ::deadbeat::{ user=128370 }, and ::ztrot::{ user=6347 } | [Link](https://www.youtube.com/watch?v=AHU7RgGCB50) |
+| #4 | Welcome back | ::deadbeat::{ user=128370 }, ::Kyonko Hizara::{ user=444868 }, ::Nyquill::{ user=682935 }, ::Zak::{ user=1375955 }, ::ztrot::{ user=6347 } | [Link](https://www.youtube.com/watch?v=mxXNNH5bnU4) |
+| #5 | Upcoming events Q&A | ::Kyonko Hizara::{ user=444868 }and ::ztrot::{ user=6347 } | [Link](https://www.youtube.com/watch?v=-f9hGuNC4Jg) |

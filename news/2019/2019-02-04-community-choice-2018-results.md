@@ -61,7 +61,7 @@ The finalists were:
 
 [![](/wiki/shared/news/2019-02-04-community-choice-2018-results/asphyxia.jpg)](https://osu.ppy.sh/beatmapsets/758101)
 
-With **182** votes, the collaborative sets by ::Ascendance::{ user=2931883 }, [Spectator](https://osu.ppy.sh/users/702598) and ::Hareimu::{ user=4138746 } on **[Co shu Nie - asphyxia (TV edit)](https://osu.ppy.sh/beatmapsets/758101)** hosted by ::Monstrata::{ user=2706438 } strangled out the competition solidly with a nearly 50 point lead.
+With **182** votes, the collaborative sets by ::Ascendance::{ user=2931883 }, ::Spectator::{ user=702598 } and ::Hareimu::{ user=4138746 } on **[Co shu Nie - asphyxia (TV edit)](https://osu.ppy.sh/beatmapsets/758101)** hosted by ::Monstrata::{ user=2706438 } strangled out the competition solidly with a nearly 50 point lead.
 
 Similar to osu!taiko, the voting for osu!catch was a super close endeavour all up until the last three or four days of voting, when asphyxia surged forward with a lead that the other sets could just not recover from.
 

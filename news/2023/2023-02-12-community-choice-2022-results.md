@@ -23,7 +23,7 @@ With all that out of the way, let's get stuck straight into the results:
 
 [![](/wiki/shared/news/2023-02-12-community-choice-2022-results/non-breath-oblige.jpg)](https://osu.ppy.sh/beatmapsets/1889729)
 
-Seizing the lead in both the Community Choice with an absolutely dominating performance is [**15 Voices - Non-breath oblige**](https://osu.ppy.sh/beatmapsets/1889729) by ::**Delis**::{ user=1603923 }, featuring guest difficulties from ::Trynna::{ user=2652951 }, [Dumii](https://osu.ppy.sh/users/3068044), ::allein::{ user=6221637 }, [Mirash](https://osu.ppy.sh/users/2841009), ::toybot::{ user=2848604 } and [Silverboxer](https://osu.ppy.sh/users/2166762), plus the nomination prowess of ::Ryuusei Aika::{ user=7777875 } and [UberFazz](https://osu.ppy.sh/users/8646059).
+Seizing the lead in both the Community Choice with an absolutely dominating performance is [**15 Voices - Non-breath oblige**](https://osu.ppy.sh/beatmapsets/1889729) by ::**Delis**::{ user=1603923 }, featuring guest difficulties from ::Trynna::{ user=2652951 }, ::Dumii::{ user=3068044 }, ::allein::{ user=6221637 }, ::Mirash::{ user=2841009 }, ::toybot::{ user=2848604 } and ::Silverboxer::{ user=2166762 }, plus the nomination prowess of ::Ryuusei Aika::{ user=7777875 } and ::UberFazz::{ user=8646059 }.
 
 Let's just get it out in the air straight away: it wasn't even close. *Non-breath oblige* pulled out so many stops that practically every other map in the running was left wondering what a stop even was in the first place. The result was so decisive and one-sided that we had to check to make sure something wasn't broken with a whopping **1,278** votes — the closest competitor in second had only *778*. Damn.
 
@@ -46,11 +46,11 @@ Finalists:
 
 [![](/wiki/shared/news/2023-02-12-community-choice-2022-results/heathens.jpg)](https://osu.ppy.sh/beatmapsets/1851103)
 
-2022 was the year of heresy as far as the mapping community was concerned as they cast **42** votes for the monster collab in [**twenty one pilots - Heathens (Magnetude Bootleg)**](https://osu.ppy.sh/beatmapsets/1851103), showcasing the talents of ::**funny**::{ user=8473573 }, [Sharu](https://osu.ppy.sh/users/5597639), ::0ppInOsu::{ user=12551840 }, [Halgoh](https://osu.ppy.sh/users/4109923), ::enryotoki::{ user=10639122 }, [Rorupan L9](https://osu.ppy.sh/users/9471638), ::Xarr::{ user=7262065 } and [-Doodle](https://osu.ppy.sh/users/12337329) for the world to see. Can't forget the nominators involved in the process too, namely ::SMOKELIND::{ user=9327302 } and [Sajinn](https://osu.ppy.sh/users/13513687).
+2022 was the year of heresy as far as the mapping community was concerned as they cast **42** votes for the monster collab in [**twenty one pilots - Heathens (Magnetude Bootleg)**](https://osu.ppy.sh/beatmapsets/1851103), showcasing the talents of ::**funny**::{ user=8473573 }, ::Sharu::{ user=5597639 }, ::0ppInOsu::{ user=12551840 }, ::Halgoh::{ user=4109923 }, ::enryotoki::{ user=10639122 }, ::Rorupan L9::{ user=9471638 }, ::Xarr::{ user=7262065 } and ::-Doodle::{ user=12337329 } for the world to see. Can't forget the nominators involved in the process too, namely ::SMOKELIND::{ user=9327302 } and ::Sajinn::{ user=13513687 }.
 
 [![](/wiki/shared/news/2023-02-12-community-choice-2022-results/gyakkou.jpg)](https://osu.ppy.sh/beatmapsets/1523018)
 
-...but that's not all! [**Soushi Sakiyama - Gyakkou**](https://osu.ppy.sh/beatmapsets/1523018) hosted by ::**Gillstar**::{ user=7948210 } kept up every step of the way with **42** votes of its own, with some guest difficulty help from the mapping talents of ::Myxo::{ user=2202645 }, [amity](https://osu.ppy.sh/users/10676118), ::toybot::{ user=2848604 } (again) and [Fixxis](https://osu.ppy.sh/users/4673089), plus some beatmap nomination from ::Akito::{ user=5716327 } and [Fisky](https://osu.ppy.sh/users/8352623).
+...but that's not all! [**Soushi Sakiyama - Gyakkou**](https://osu.ppy.sh/beatmapsets/1523018) hosted by ::**Gillstar**::{ user=7948210 } kept up every step of the way with **42** votes of its own, with some guest difficulty help from the mapping talents of ::Myxo::{ user=2202645 }, ::amity::{ user=10676118 }, ::toybot::{ user=2848604 } (again) and ::Fixxis::{ user=4673089 }, plus some beatmap nomination from ::Akito::{ user=5716327 } and ::Fisky::{ user=8352623 }.
 
 Yep, that's right — a *two-way tie* for the spot of Mapper's Favourite. A certain non-obliging breath wasn't far behind either! Take that, mapping Twitter.
 
@@ -77,7 +77,7 @@ Finalists:
 
 Okay, deep breaths. Here we go.
 
-A joint collaboration between the composers of the GTS Sound Team (namely [SDMNE](https://soundcloud.com/sdmne), [Sparxe](https://soundcloud.com/sparxenic), [blobdash](https://soundcloud.com/blobdash), [Raphlesia](https://soundcloud.com/raphlesia), [ptar124](https://soundcloud.com/part-lerts), [kyou1110](https://soundcloud.com/kyou1110), [II-L](https://soundcloud.com/ii-l), [rN](https://soundcloud.com/rurinn), [takehirotei](https://soundcloud.com/takehirotei) and [katagiri](https://soundcloud.com/katagiri)) and the GTS Mapping Team (namely ::Cychloryn::{ user=6921736 }, [Nwolf](https://osu.ppy.sh/users/1910766), ::Mew::{ user=2345156 }, [gaston_2199](https://osu.ppy.sh/users/5938161), ::Raphalge::{ user=3918650 }, [Ak1o](https://osu.ppy.sh/users/1600041), ::Hivie::{ user=14102976 }, [Alchyr](https://osu.ppy.sh/users/4993032), ::rubies87::{ user=4949934 }, [Briesmas](https://osu.ppy.sh/users/2865172), ::UnagiDon::{ user=2062410 }, [Gamelan4](https://osu.ppy.sh/users/9856910), ::Heaxys::{ user=5671417 }, [Ideal](https://osu.ppy.sh/users/3869519), ::HiroK::{ user=4050738 }, [5\_5](https://osu.ppy.sh/users/6853438), ::BabySnakes::{ user=4669728 }, [MTNTWarz](https://osu.ppy.sh/users/14036825), ::Rinze::{ user=19901680 }, [cdh](https://osu.ppy.sh/users/2403621), ::Cynplytholowazy::{ user=3901754 } and [Horiiizon](https://osu.ppy.sh/users/8071438)), *\<\<\/nttld.:beings\>\> \~Truth in Uncertainty\~* is a visually stunning mapping masterpiece, helped along the way into Ranked by Beatmap Nominators ::Axer::{ user=7299864 } and [op45667](https://osu.ppy.sh/users/21973491).
+A joint collaboration between the composers of the GTS Sound Team (namely [SDMNE](https://soundcloud.com/sdmne), [Sparxe](https://soundcloud.com/sparxenic), [blobdash](https://soundcloud.com/blobdash), [Raphlesia](https://soundcloud.com/raphlesia), [ptar124](https://soundcloud.com/part-lerts), [kyou1110](https://soundcloud.com/kyou1110), [II-L](https://soundcloud.com/ii-l), [rN](https://soundcloud.com/rurinn), [takehirotei](https://soundcloud.com/takehirotei) and [katagiri](https://soundcloud.com/katagiri)) and the GTS Mapping Team (namely ::Cychloryn::{ user=6921736 }, ::Nwolf::{ user=1910766 }, ::Mew::{ user=2345156 }, ::gaston\12199::{ user=5938161 }, ::Raphalge::{ user=3918650 }, ::Ak1o::{ user=1600041 }, ::Hivie::{ user=14102976 }, ::Alchyr::{ user=4993032 }, ::rubies87::{ user=4949934 }, ::Briesmas::{ user=2865172 }, ::UnagiDon::{ user=2062410 }, ::Gamelan4::{ user=9856910 }, ::Heaxys::{ user=5671417 }, ::Ideal::{ user=3869519 }, ::HiroK::{ user=4050738 }, ::5\_5::{ user=6853438 }, ::BabySnakes::{ user=4669728 }, ::MTNTWarz::{ user=14036825 }, ::Rinze::{ user=19901680 }, ::cdh::{ user=2403621 }, ::Cynplytholowazy::{ user=3901754 } and ::Horiiizon::{ user=8071438 }), *\<\<\/nttld.:beings\>\> \~Truth in Uncertainty\~* is a visually stunning mapping masterpiece, helped along the way into Ranked by Beatmap Nominators ::Axer::{ user=7299864 } and ::op45667::{ user=21973491 }.
 
 With more people than an average game development team dedicated to one piece of art alone, the sheer level of creativity involved in this piece simply cannot be understated. Melding so many ideas and styles together is an absolutely herculean effort, one that the osu!taiko community clearly recognises in full.
 
@@ -117,7 +117,7 @@ The acclaim for [**GTS Sound Team - \<\<\/nttld.:beings\>\> \~Truth in Uncertain
 
 [![](/wiki/shared/news/2023-02-12-community-choice-2022-results/chad.jpg)](https://osu.ppy.sh/beatmapsets/1857120)
 
-**91** osu!catch players stood up and said yes, actually, they do play osu!catch, and they're wondering how you know. It probably has something to do with [**Bring Me The Horizon - Can You Feel My Heart (Cut Ver.)**](https://osu.ppy.sh/beatmapsets/1857120) by ::**GIGACHAD**::{ user=11081858 } featuring a guest difficulty by ::Zuid-Afrikaan::{ user=29282944 } and ushered into Ranked by nominators ::Myxo::{ user=2202645 } and [Natsuko](https://osu.ppy.sh/users/8266817).
+**91** osu!catch players stood up and said yes, actually, they do play osu!catch, and they're wondering how you know. It probably has something to do with [**Bring Me The Horizon - Can You Feel My Heart (Cut Ver.)**](https://osu.ppy.sh/beatmapsets/1857120) by ::**GIGACHAD**::{ user=11081858 } featuring a guest difficulty by ::Zuid-Afrikaan::{ user=29282944 } and ushered into Ranked by nominators ::Myxo::{ user=2202645 } and ::Natsuko::{ user=8266817 }.
 
 - [**Bring Me The Horizon - Can You Feel My Heart (Cut Ver.)**](https://osu.ppy.sh/beatmapsets/1857120) by ::**GIGACHAD**::{ user=11081858 } with **91** votes.
 - [**Kurokotei - Galaxy Collapse**](https://osu.ppy.sh/beatmapsets/521900) by ::**CLSW**::{ user=531253 } with **60** votes.
@@ -153,7 +153,7 @@ The osu!catch mapping community simply could not shake the **Kobaryo - Villain V
 
 [![](/wiki/shared/news/2023-02-12-community-choice-2022-results/reikou.jpg)](https://osu.ppy.sh/beatmapsets/1502322)
 
-Edging into first place with **156** votes is [**-45 - Reikou Hatsuden**](https://osu.ppy.sh/beatmapsets/1502322) by ::**Monheim**::{ user=6814203 }, featuring guest difficulties by ::hna::{ user=12335541 } and [LeiN\-](https://osu.ppy.sh/users/2162939)!
+Edging into first place with **156** votes is [**-45 - Reikou Hatsuden**](https://osu.ppy.sh/beatmapsets/1502322) by ::**Monheim**::{ user=6814203 }, featuring guest difficulties by ::hna::{ user=12335541 } and ::LeiN\-::{ user=2162939 }!
 
 Players clearly enjoyed the chordjack madness and judging from the fierce competition in the set's leaderboards, things aren't likely to change on that front any time soon.
 
@@ -172,7 +172,7 @@ Players clearly enjoyed the chordjack madness and judging from the fierce compet
 
 [![](/wiki/shared/news/2023-02-12-community-choice-2022-results/eternal-white.jpg)](https://osu.ppy.sh/beatmapsets/1683685)
 
-Taking the top spot with a decent lead is [**shimizushi - Eternal White**](https://osu.ppy.sh/beatmapsets/1683685) by ::**Seiran-**::{ user=14351534 }, featuring guest difficulties from ::Syadow-::{ user=3484485 }, [RiceSS](https://osu.ppy.sh/users/8271436) and ::\_Hikari::{ user=7109287 }, escorted into Ranked by the guiding nominator-hands of ::gzdongsheng::{ user=8660315 } and [Muse Dash](https://osu.ppy.sh/users/13695676).
+Taking the top spot with a decent lead is [**shimizushi - Eternal White**](https://osu.ppy.sh/beatmapsets/1683685) by ::**Seiran-**::{ user=14351534 }, featuring guest difficulties from ::Syadow-::{ user=3484485 }, ::RiceSS::{ user=8271436 } and ::\_Hikari::{ user=7109287 }, escorted into Ranked by the guiding nominator-hands of ::gzdongsheng::{ user=8660315 } and ::Muse Dash::{ user=13695676 }.
 
 It is rumoured (jokingly) that in the osu!mania community, a map's worth can be measured by how many contentious comments it has. In *Eternal White*'s case, this means it may be one of the most valuable maps to hit Ranked in the past three years.
 

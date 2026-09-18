@@ -42,7 +42,7 @@ Without further ado, let's get on with this month's picks:
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, [Doomsday](https://osu.ppy.sh/users/18983) and ::Wixonater::{ user=10083084 }!
+The osu! Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, ::Doomsday::{ user=18983 } and ::Wixonater::{ user=10083084 }!
 
 ---
 
@@ -72,7 +72,7 @@ This has become a go-to for many players looking for an extreme map to test thei
 
 [![](/wiki/shared/news/2022-08-21-project-loved-august-2022/1224663.jpg)](https://osu.ppy.sh/community/forums/topics/1633182)
 
-[Camellia - Bakamitai (Camellia Eurobeat Remix)](https://osu.ppy.sh/beatmapsets/1224663#osu) by ::sunui::{ user=3065571 } and [Muukeh](https://osu.ppy.sh/users/3577226)\
+[Camellia - Bakamitai (Camellia Eurobeat Remix)](https://osu.ppy.sh/beatmapsets/1224663#osu) by ::sunui::{ user=3065571 } and ::Muukeh::{ user=3577226 }\
 160 BPM, 2:28 | 6.93★, 7.34★\
 The \[Heatwave's AH HA HA HA HA\] difficulty is *not* being nominated for Loved.\
 *description written by ::Doomsday::{ user=18983 }*
@@ -85,7 +85,7 @@ How do you feel about this absolute banger possibly entering the Loved category?
 
 [![](/wiki/shared/news/2022-08-21-project-loved-august-2022/1125754.jpg)](https://osu.ppy.sh/community/forums/topics/1633181)
 
-[DJPoyoshi & Lapix - Arigatou Sayonara (PSYQUI Remix)](https://osu.ppy.sh/beatmapsets/1125754#osu) by ::Juntic::{ user=8649131 } and [Nagabi](https://osu.ppy.sh/users/10352099)\
+[DJPoyoshi & Lapix - Arigatou Sayonara (PSYQUI Remix)](https://osu.ppy.sh/beatmapsets/1125754#osu) by ::Juntic::{ user=8649131 } and ::Nagabi::{ user=10352099 }\
 170 BPM, 3:29 | 5.43★\
 *description written by ::Doomsday::{ user=18983 }*
 
@@ -119,7 +119,7 @@ If you've never heard of this map before, you may quickly find yourself among th
 
 [![](/wiki/shared/news/2022-08-21-project-loved-august-2022/1125563.jpg)](https://osu.ppy.sh/community/forums/topics/1633178)
 
-[Skrillex - First Of The Year ver.Shirakami Fubuki](https://osu.ppy.sh/beatmapsets/1125563#osu) by ::Bitcoin::{ user=654296 } and [Koalazy](https://osu.ppy.sh/users/286740)\
+[Skrillex - First Of The Year ver.Shirakami Fubuki](https://osu.ppy.sh/beatmapsets/1125563#osu) by ::Bitcoin::{ user=654296 } and ::Koalazy::{ user=286740 }\
 145 BPM, 3:19 | 6.23★, 6.40★\
 *description written by ::Wixonater::{ user=10083084 }*
 
@@ -131,7 +131,7 @@ There's a reason this mapset has grown to popularity, and I wish I could say it 
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [Boaz](https://osu.ppy.sh/users/13302996), ::Gamelan4::{ user=9856910 }, [Horiiizon](https://osu.ppy.sh/users/8071438) and ::POCARI SWEAT::{ user=5082685 }!
+The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::Boaz::{ user=13302996 }, ::Gamelan4::{ user=9856910 }, ::Horiiizon::{ user=8071438 } and ::POCARI SWEAT::{ user=5082685 }!
 
 ---
 
@@ -193,7 +193,7 @@ Myckoll is a name that many newer players are sure to recognize, mostly due to h
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::Kasumi-sama::{ user=6177263 }, [Sartan](https://osu.ppy.sh/users/4100941), ::Tenshichan::{ user=1101600 } and [Wesley](https://osu.ppy.sh/users/2407265)!
+The osu!catch Loved candidates were chosen by ::Kasumi-sama::{ user=6177263 }, ::Sartan::{ user=4100941 }, ::Tenshichan::{ user=1101600 } and ::Wesley::{ user=2407265 }!
 
 ---
 
@@ -240,7 +240,7 @@ Think that the map is a tad bit too easy without any mods? Slap some hard rock o
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, [-NoName-](https://osu.ppy.sh/users/10400730), ::kadoen::{ user=12780575 }, [Paturages](https://osu.ppy.sh/users/1375479), ::RandomeLoL::{ user=7080063 } and [stupud man](https://osu.ppy.sh/users/2141612)!
+The osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, ::-NoName-::{ user=10400730 }, ::kadoen::{ user=12780575 }, ::Paturages::{ user=1375479 }, ::RandomeLoL::{ user=7080063 } and ::stupud man::{ user=2141612 }!
 
 ---
 

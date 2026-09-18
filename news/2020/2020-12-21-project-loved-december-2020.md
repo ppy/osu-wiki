@@ -33,21 +33,21 @@ The worst part about competitions is that there can only be one winner, leading 
 
 [![](/wiki/shared/news/2020-12-21-project-loved-december-2020/osu/2-gekka-midare-botan.jpg)](https://osu.ppy.sh/community/forums/topics/1207209)
 
-[Eve - Gekka\*Midare Botan](https://osu.ppy.sh/beatmapsets/530685#osu) by ::Meg::{ user=1872496 } and [Roll_Pan](https://osu.ppy.sh/users/1839998)\
+[Eve - Gekka\*Midare Botan](https://osu.ppy.sh/beatmapsets/530685#osu) by ::Meg::{ user=1872496 } and ::Roll\1Pan::{ user=1839998 }\
 200 BPM, 4:35 | 6.99★
 
 On the other side of the style spectrum from the previous map, this collab map is a very conventional 7-star at 200 BPM. With an extremely clean style and enjoyable song to back it up, this map has attracted over 540 favourites, making it one of the most favourited maps in the graveyard. If you enjoy a simple yet challenging experience, this is a map you can't skip.
 
 [![](/wiki/shared/news/2020-12-21-project-loved-december-2020/osu/3-songs-compilation.jpg)](https://osu.ppy.sh/community/forums/topics/1207208)
 
-[Imperial Circus Dead Decadence - Songs Compilation](https://osu.ppy.sh/beatmapsets/1081431#osu) by ::Val::{ user=9010492 } and [SinHay](https://osu.ppy.sh/users/8855704)\
+[Imperial Circus Dead Decadence - Songs Compilation](https://osu.ppy.sh/beatmapsets/1081431#osu) by ::Val::{ user=9010492 } and ::SinHay::{ user=8855704 }\
 210 BPM, 10:50 | 8.36★
 
-When it comes to iconic artist names within the osu! community, *Imperial Circus Dead Decadence* is one of the first names many people would think of, and as with most iconic artists, there is a masterfully crafted songs compilation map to showcase all of the songs we know and love. This compilation reaches nearly 11 minutes in length and is over 8 stars in difficulty, featuring super clean mapping throughout the entire map in collaboration between ::Val::{ user=9010492 } and [SinHay](https://osu.ppy.sh/users/8855704). This is definitely one of the most polished stream compilations out there, complete with a storyboard and hitsounds, so if challenging streams are your calling, you should honestly already be downloading this map.
+When it comes to iconic artist names within the osu! community, *Imperial Circus Dead Decadence* is one of the first names many people would think of, and as with most iconic artists, there is a masterfully crafted songs compilation map to showcase all of the songs we know and love. This compilation reaches nearly 11 minutes in length and is over 8 stars in difficulty, featuring super clean mapping throughout the entire map in collaboration between ::Val::{ user=9010492 } and ::SinHay::{ user=8855704 }. This is definitely one of the most polished stream compilations out there, complete with a storyboard and hitsounds, so if challenging streams are your calling, you should honestly already be downloading this map.
 
 [![](/wiki/shared/news/2020-12-21-project-loved-december-2020/osu/4-revolvania.jpg)](https://osu.ppy.sh/community/forums/topics/1207207)
 
-[RetroSpecter - REVOLVANIA](https://osu.ppy.sh/beatmapsets/887302#osu) by ::Sanzu\1Alternate::{ user=13261558 }, [GAO HAO](https://osu.ppy.sh/users/8964050) and ::Isterix::{ user=7276846 }\
+[RetroSpecter - REVOLVANIA](https://osu.ppy.sh/beatmapsets/887302#osu) by ::Sanzu\1Alternate::{ user=13261558 }, ::GAO HAO::{ user=8964050 } and ::Isterix::{ user=7276846 }\
 190 BPM, 3:47 | 2.31★ – 7.20★
 
 There are plenty of mapsets of Undertale songs or remixes, but few are able to rise up and enter the spotlight like this one has, having gathered over 170 favourites in the graveyard alone. This mapset features 8 difficulties reaching between 2 and 7 stars in difficulty, and the maps themselves are fairly well-rounded in the patterns that they offer. No matter your skill level, this is a great mapset to go to if you're just looking to have a fun time (or a bad time?).
@@ -61,21 +61,21 @@ There's something special about maps that are made in a symmetric yet creative s
 
 [![](/wiki/shared/news/2020-12-21-project-loved-december-2020/osu/6-remeslo.jpg)](https://osu.ppy.sh/community/forums/topics/1207205)
 
-[Neuromonakh Feofan - Remeslo](https://osu.ppy.sh/beatmapsets/905674#osu) by ::Ksardas::{ user=6115007 }, [KeRLi\_](https://osu.ppy.sh/users/5902629), ::Delette::{ user=7835664 }, [piroshki](https://osu.ppy.sh/users/7645522), ::wenet::{ user=10261029 } and [Frakturehawkens](https://osu.ppy.sh/users/7458583)\
+[Neuromonakh Feofan - Remeslo](https://osu.ppy.sh/beatmapsets/905674#osu) by ::Ksardas::{ user=6115007 }, ::KeRLi\_::{ user=5902629 }, ::Delette::{ user=7835664 }, ::piroshki::{ user=7645522 }, ::wenet::{ user=10261029 } and ::Frakturehawkens::{ user=7458583 }\
 175 BPM, 3:02 | 2.25★ – 7.49★
 
 When it comes to the kinds of songs that you can find on osu!, the vast majority of maps seem to be from the same few genres. This is one of those mapsets that breaks that convention, being a Russian folk rave song with a full spread of 6 difficulties between 2 and 7 stars. The maps are quite memorable for the 1/3 jumps in the intro and the constant 5-note bursts in each kiai that make you really feel like you're moving with the music. This is an amazing map to broaden your osu! music tastes and diversify your song list, along with having another fun mapset to enjoy.
 
 [![](/wiki/shared/news/2020-12-21-project-loved-december-2020/osu/7-love-scenario.jpg)](https://osu.ppy.sh/community/forums/topics/1207204)
 
-[iKON - LOVE SCENARIO](https://osu.ppy.sh/beatmapsets/801063#osu) by ::Hari::{ user=7197903 }, [FunnyA](https://osu.ppy.sh/users/8239380) and ::TmacBoris::{ user=7815424 }\
+[iKON - LOVE SCENARIO](https://osu.ppy.sh/beatmapsets/801063#osu) by ::Hari::{ user=7197903 }, ::FunnyA::{ user=8239380 } and ::TmacBoris::{ user=7815424 }\
 118 BPM, 3:26 | 2.19★, 2.86★, 3.49★, 3.64★
 
 Despite being a rhythm game focused on the challenge and setting scores, osu! doesn't have to be all about the difficulty. It's healthy to have relaxing maps that you can chill out to, and this 4-difficulty mapset by Hari provides exactly that, as it only ranges between 2 and 3 stars yet provides a clean gameplay experience of a low BPM K-pop song. If you want a reminder of how relaxing it can be to just chill out and get lost with the music while playing this game, give this map a try.
 
 [![](/wiki/shared/news/2020-12-21-project-loved-december-2020/osu/8-snow-crystal-185.jpg)](https://osu.ppy.sh/community/forums/topics/1207203)
 
-[Babalos - Snow Crystal 185](https://osu.ppy.sh/beatmapsets/825267#osu) by ::K4L1::{ user=11334594 }, [Kalindraz](https://osu.ppy.sh/users/2313166) and ::- Heatwave -::{ user=4166621 }\
+[Babalos - Snow Crystal 185](https://osu.ppy.sh/beatmapsets/825267#osu) by ::K4L1::{ user=11334594 }, ::Kalindraz::{ user=2313166 } and ::- Heatwave -::{ user=4166621 }\
 185 BPM, 5:17 | 6.13★, 7.16★, 7.55★
 
 It almost feels like there's a special place for psytrance marathons when it comes to osu! maps, as these songs characteristically feature a difficult yet unique technical stream challenge throughout nearly their entire duration. This map is no different, as it sits at 185 BPM and has a star rating of over 7.5. The mapset has reached over 200 favourites, and it's no mystery why: it's one of the most enjoyable psytrance marathons out there.
@@ -96,13 +96,13 @@ The way I see it, there's a big difference between a map with 2B elements and a 
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [nyanmi-1828](https://osu.ppy.sh/users/6866480), ::POCARI SWEAT::{ user=5082685 } and [Raphalge](https://osu.ppy.sh/users/3918650)!
+osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::nyanmi-1828::{ user=6866480 }, ::POCARI SWEAT::{ user=5082685 } and ::Raphalge::{ user=3918650 }!
 
 ---
 
 [![](/wiki/shared/news/2020-12-21-project-loved-december-2020/taiko/1-el-porron-cut-ver.jpg)](https://osu.ppy.sh/community/forums/topics/1207199)
 
-[El Dipy - El Porron (Cut Ver.)](https://osu.ppy.sh/beatmapsets/850670#taiko) by ::ARGENTINE DREAM::{ user=1981781 }, [TrolloCat](https://osu.ppy.sh/users/9228032) and ::Arnon::{ user=5332868 }\
+[El Dipy - El Porron (Cut Ver.)](https://osu.ppy.sh/beatmapsets/850670#taiko) by ::ARGENTINE DREAM::{ user=1981781 }, ::TrolloCat::{ user=9228032 } and ::Arnon::{ user=5332868 }\
 93 BPM, 1:57 | 1.65★, 2.05★, 3.35★, 4.61★, 5.70★\
 *description written by ::POCARI SWEAT::{ user=5082685 }*
 
@@ -136,7 +136,7 @@ Congratulations to \_Rise for #1 on osu!taiko Japanese Beatmap Contest Light Edi
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, [Spectator](https://osu.ppy.sh/users/702598), ::Tenshichan::{ user=1101600 } and [Wesley](https://osu.ppy.sh/users/2407265)!
+osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, ::Spectator::{ user=702598 }, ::Tenshichan::{ user=1101600 } and ::Wesley::{ user=2407265 }!
 
 ---
 
@@ -150,7 +150,7 @@ Looking for a challenging map that'll give you a run for your money? Look no fur
 
 [![](/wiki/shared/news/2020-12-21-project-loved-december-2020/catch/2-exit-this-earth-s-atomosphere-camellia-s-planetary-200step-remix.jpg)](https://osu.ppy.sh/community/forums/topics/1207191)
 
-[Camellia - Exit This Earth's Atomosphere (Camellia's ''PLANETARY//200STEP'' Remix)](https://osu.ppy.sh/beatmapsets/840346#fruits) by ::Ascendance::{ user=2931883 }, [Emiru](https://osu.ppy.sh/users/3306180), ::Sinnoh::{ user=4236057 }, [autofanboy](https://osu.ppy.sh/users/636114), ::Deif::{ user=318565 }, [Minato Yukina](https://osu.ppy.sh/users/531253) and ::Kyuare::{ user=2705312 }\
+[Camellia - Exit This Earth's Atomosphere (Camellia's ''PLANETARY//200STEP'' Remix)](https://osu.ppy.sh/beatmapsets/840346#fruits) by ::Ascendance::{ user=2931883 }, ::Emiru::{ user=3306180 }, ::Sinnoh::{ user=4236057 }, ::autofanboy::{ user=636114 }, ::Deif::{ user=318565 }, ::Minato Yukina::{ user=531253 } and ::Kyuare::{ user=2705312 }\
 200 BPM, 6:42 | 7.66★\
 *description written by ::Sartan::{ user=4100941 }*
 
@@ -184,7 +184,7 @@ This week, we have one extra mapset going for Loved, featured in one of the osu!
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::-mint-::{ user=8976576 }, [Abraxos](https://osu.ppy.sh/users/5025064), ::lenpai::{ user=5314573 }, [Pope Gadget](https://osu.ppy.sh/users/2288341) and ::Toaph Daddy::{ user=7616811 }!
+osu!mania Loved candidates were chosen by ::-mint-::{ user=8976576 }, ::Abraxos::{ user=5025064 }, ::lenpai::{ user=5314573 }, ::Pope Gadget::{ user=2288341 } and ::Toaph Daddy::{ user=7616811 }!
 
 ---
 
@@ -199,7 +199,7 @@ We're starting off with an instant classic: Elekton's *Edison*. This chart has b
 
 [![](/wiki/shared/news/2020-12-21-project-loved-december-2020/mania/2-electric-angel.jpg)](https://osu.ppy.sh/community/forums/topics/1207185)
 
-[Gigabanana x Yasuo feat. Kagamine Rin, Kagamine Len - Electric Angel](https://osu.ppy.sh/beatmapsets/161707#mania) by ::\[13\] BECK::{ user=2656374 } and [puxtu](https://osu.ppy.sh/users/3070611)\
+[Gigabanana x Yasuo feat. Kagamine Rin, Kagamine Len - Electric Angel](https://osu.ppy.sh/beatmapsets/161707#mania) by ::\[13\] BECK::{ user=2656374 } and ::puxtu::{ user=3070611 }\
 150 BPM, 3:09 | \[4K\] 1.19★, \[4K\] 1.75★, \[4K\] 2.88★, \[4K\] 3.26★, \[4K\] 3.92★\
 The \[IMT Oni\] difficulty is *not* being nominated for Loved.
 
@@ -207,7 +207,7 @@ The \[IMT Oni\] difficulty is *not* being nominated for Loved.
 
 [![](/wiki/shared/news/2020-12-21-project-loved-december-2020/mania/3-move-that-body-extended-mix.jpg)](https://osu.ppy.sh/community/forums/topics/1207184)
 
-[Sota Fujimori - Move That Body -Extended Mix-](https://osu.ppy.sh/beatmapsets/765772#mania) by ::juankristal::{ user=443656 } and [\_underjoy](https://osu.ppy.sh/users/2235750)\
+[Sota Fujimori - Move That Body -Extended Mix-](https://osu.ppy.sh/beatmapsets/765772#mania) by ::juankristal::{ user=443656 } and ::\_underjoy::{ user=2235750 }\
 196 BPM, 4:01 | \[4K\] 5.20★
 
 juankristal has been a staple in the osu!mania LN scene for years now, and one of his most well-received and popular charts is a cooperative effort with fellow LN fiend \_underjoy, *Move That Body -Extended Mix-*. This marathon of an LN chart is an extremely dynamic release-based experience that will truly test your coordination, finger independence, and LN reading skills. It is split into a few sections, each marked by the letters JK (for juankristal) or UJ (for underjoy) to denote who mapped them, and to mark where distinct changes in the style of the map are going to start. Even with this back-and-forth of styles, the LNs themselves flow very well between each of the sections and represent the different sections of the music very well. This being the case, it's no wonder that it's gained so much renown within the LN community and that it has been used in many community and official tournaments. The range of people that this map has reached out to and been enjoyed by make it a shoe-in for the Loved section.

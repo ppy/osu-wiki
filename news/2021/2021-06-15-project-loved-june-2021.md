@@ -22,13 +22,13 @@ This month we do not have any new things to announce regarding changes to Projec
 
 ## osu!
 
-osu! Loved candidates were chosen by ::DigitalHypno::{ user=4384207 } and [Wixonater](https://osu.ppy.sh/users/10083084)!
+osu! Loved candidates were chosen by ::DigitalHypno::{ user=4384207 } and ::Wixonater::{ user=10083084 }!
 
 ---
 
 [![](/wiki/shared/news/2021-06-15-project-loved-june-2021/1016805.jpg)](https://osu.ppy.sh/community/forums/topics/1349323)
 
-[Various Artists - A Tribute to Kyoto Animation](https://osu.ppy.sh/beatmapsets/1016805#osu) by ::Monstrata::{ user=2706438 }, [Andrea](https://osu.ppy.sh/users/33599), ::Asphyxia::{ user=1715720 }, [bossandy](https://osu.ppy.sh/users/360437), ::Dangaard::{ user=19488 }, [Doormat](https://osu.ppy.sh/users/3230571), ::Frostmourne::{ user=199669 }, [Gaia](https://osu.ppy.sh/users/2683648), ::Gero::{ user=1467715 }, [happy30](https://osu.ppy.sh/users/27767), ::Haruto::{ user=3772301 }, [Hinsvar](https://osu.ppy.sh/users/1249323), ::Irreversible::{ user=1287964 }, [Jenny](https://osu.ppy.sh/users/579428), ::Kalibe::{ user=3376777 }, [Kibbleru](https://osu.ppy.sh/users/3193504), ::Kite::{ user=134572 }, [Little](https://osu.ppy.sh/users/2099102), ::Meg::{ user=1872496 }, [Mint](https://osu.ppy.sh/users/2407160), ::Mismagius::{ user=19048 }, [Mordred](https://osu.ppy.sh/users/7265097), ::Nathan::{ user=4785223 }, [Net0](https://osu.ppy.sh/users/5099768), ::Nevo::{ user=7451883 }, [ProfessionalBox](https://osu.ppy.sh/users/3250792), ::Realazy::{ user=918297 }, [Rizen](https://osu.ppy.sh/users/3056732), ::Sekai::{ user=700887 }, [Seto Kousuke](https://osu.ppy.sh/users/2857314), ::Skystar::{ user=873961 }, [Sotarks](https://osu.ppy.sh/users/4452992), ::tomadoi::{ user=5712451 }, [Toy](https://osu.ppy.sh/users/2757689), ::toybot::{ user=2848604 } and [Yahuri](https://osu.ppy.sh/users/4682629)\
+[Various Artists - A Tribute to Kyoto Animation](https://osu.ppy.sh/beatmapsets/1016805#osu) by ::Monstrata::{ user=2706438 }, ::Andrea::{ user=33599 }, ::Asphyxia::{ user=1715720 }, ::bossandy::{ user=360437 }, ::Dangaard::{ user=19488 }, ::Doormat::{ user=3230571 }, ::Frostmourne::{ user=199669 }, ::Gaia::{ user=2683648 }, ::Gero::{ user=1467715 }, ::happy30::{ user=27767 }, ::Haruto::{ user=3772301 }, ::Hinsvar::{ user=1249323 }, ::Irreversible::{ user=1287964 }, ::Jenny::{ user=579428 }, ::Kalibe::{ user=3376777 }, ::Kibbleru::{ user=3193504 }, ::Kite::{ user=134572 }, ::Little::{ user=2099102 }, ::Meg::{ user=1872496 }, ::Mint::{ user=2407160 }, ::Mismagius::{ user=19048 }, ::Mordred::{ user=7265097 }, ::Nathan::{ user=4785223 }, ::Net0::{ user=5099768 }, ::Nevo::{ user=7451883 }, ::ProfessionalBox::{ user=3250792 }, ::Realazy::{ user=918297 }, ::Rizen::{ user=3056732 }, ::Sekai::{ user=700887 }, ::Seto Kousuke::{ user=2857314 }, ::Skystar::{ user=873961 }, ::Sotarks::{ user=4452992 }, ::tomadoi::{ user=5712451 }, ::Toy::{ user=2757689 }, ::toybot::{ user=2848604 } and ::Yahuri::{ user=4682629 }\
 180 BPM, 31:30 | 5.80★\
 Only the \[Marathon\] difficulty is being nominated for Loved.\
 *description written by ::Bubbleman::{ user=5182050 }*
@@ -65,7 +65,7 @@ This 7-minute marathon hits every itch of engaging, high-star tech gameplay. 8.6
 
 [![](/wiki/shared/news/2021-06-15-project-loved-june-2021/929957.jpg)](https://osu.ppy.sh/community/forums/topics/1349319)
 
-[senzawa - i got blitzed and sang country road](https://osu.ppy.sh/beatmapsets/929957#osu) by ::mmi\_::{ user=5444914 } and [Doomsdaddy](https://osu.ppy.sh/users/5039710)\
+[senzawa - i got blitzed and sang country road](https://osu.ppy.sh/beatmapsets/929957#osu) by ::mmi\_::{ user=5444914 } and ::Doomsdaddy::{ user=5039710 }\
 80 BPM, 3:19 | 2.89★, 4.15★\
 *description written by ::DigitalHypno::{ user=4384207 }*
 
@@ -81,13 +81,13 @@ Paired with an absolute S-tier song, this comfy 6-star map by Nathan is the perf
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [KuroKuroKuro](https://osu.ppy.sh/users/11931563), ::POCARI SWEAT::{ user=5082685 } and [X a v y](https://osu.ppy.sh/users/3738344)!
+osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::KuroKuroKuro::{ user=11931563 }, ::POCARI SWEAT::{ user=5082685 } and ::X a v y::{ user=3738344 }!
 
 ---
 
 [![](/wiki/shared/news/2021-06-15-project-loved-june-2021/1228933.jpg)](https://osu.ppy.sh/community/forums/topics/1349316)
 
-[Various Artists - 1/6 Practice Pack 1](https://osu.ppy.sh/beatmapsets/1228933#taiko) by ::Konpaku Sariel::{ user=533502 } and [K-2](https://osu.ppy.sh/users/1807472)\
+[Various Artists - 1/6 Practice Pack 1](https://osu.ppy.sh/beatmapsets/1228933#taiko) by ::Konpaku Sariel::{ user=533502 } and ::K-2::{ user=1807472 }\
 115 – 190.02 BPM, 3:42 | 5.25★ – 9.03★\
 The \[asdf\] difficulty is *not* being nominated for Loved.\
 *description written by ::POCARI SWEAT::{ user=5082685 }*
@@ -108,7 +108,7 @@ In Dark Sky makes sure the map's polish keeps pace with the song, all while rema
 
 [![](/wiki/shared/news/2021-06-15-project-loved-june-2021/506410.jpg)](https://osu.ppy.sh/community/forums/topics/1349314)
 
-[Camellia feat. Nanahira - Looking For A New Adventure](https://osu.ppy.sh/beatmapsets/506410#taiko) by ::KinomiCandy::{ user=375143 } and [KTYN](https://osu.ppy.sh/users/2250574)\
+[Camellia feat. Nanahira - Looking For A New Adventure](https://osu.ppy.sh/beatmapsets/506410#taiko) by ::KinomiCandy::{ user=375143 } and ::KTYN::{ user=2250574 }\
 175 BPM, 4:12 | 5.94★\
 *description written by ::-Kazu-::{ user=920861 }*
 
@@ -142,7 +142,7 @@ Camellia feat. Nanahira has been a favorite combination of the osu! community fo
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, [Spectator](https://osu.ppy.sh/users/702598), ::Tenshichan::{ user=1101600 } and [Wesley](https://osu.ppy.sh/users/2407265)!
+osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, ::Spectator::{ user=702598 }, ::Tenshichan::{ user=1101600 } and ::Wesley::{ user=2407265 }!
 
 ---
 
@@ -160,7 +160,7 @@ And of course, it being an old map, it obviously has quite a few stairs here and
 
 [![](/wiki/shared/news/2021-06-15-project-loved-june-2021/1365009.jpg)](https://osu.ppy.sh/community/forums/topics/1349308)
 
-[LeaF - Aleph-0](https://osu.ppy.sh/beatmapsets/1365009#fruits) by ::Enjuxx::{ user=10727985 } and [K 3 V R A L](https://osu.ppy.sh/users/9852829)\
+[LeaF - Aleph-0](https://osu.ppy.sh/beatmapsets/1365009#fruits) by ::Enjuxx::{ user=10727985 } and ::K 3 V R A L::{ user=9852829 }\
 250 BPM, 2:12 | 10.07★\
 *description written by ::Spectator::{ user=702598 }*
 
@@ -194,7 +194,7 @@ So yeah, all I wanna do is coax you into downloading this map, have you try it o
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::-mint-::{ user=8976576 }, [Alter-](https://osu.ppy.sh/users/4980256), ::Kawawa::{ user=4647754 } and [Penguinosity](https://osu.ppy.sh/users/10235296)!
+osu!mania Loved candidates were chosen by ::-mint-::{ user=8976576 }, ::Alter-::{ user=4980256 }, ::Kawawa::{ user=4647754 } and ::Penguinosity::{ user=10235296 }!
 
 ---
 
@@ -251,7 +251,7 @@ Also, there are a number of funny gluts and graces to be found whether in or out
 
 [![](/wiki/shared/news/2021-06-15-project-loved-june-2021/545035.jpg)](https://osu.ppy.sh/community/forums/topics/1349300)
 
-[The Algorithm - floating point (Drumcorps Remix)](https://osu.ppy.sh/beatmapsets/545035#mania) by ::\_underjoy::{ user=2235750 } and [Shoegazer](https://osu.ppy.sh/users/2520707)\
+[The Algorithm - floating point (Drumcorps Remix)](https://osu.ppy.sh/beatmapsets/545035#mania) by ::\_underjoy::{ user=2235750 } and ::Shoegazer::{ user=2520707 }\
 140 BPM, 3:20 | 6.91★\
 *description written by ::Kawawa::{ user=4647754 }*
 

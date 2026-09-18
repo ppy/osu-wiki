@@ -166,7 +166,7 @@ Durante la era de la [clasificación por puntuación](/wiki/Ranking#clasificaci�
 
 ### Streams con sliders y jumps
 
-Nominadores: ::dkun::{ user=154400 } y [MMzz](https://osu.ppy.sh/users/128993)
+Nominadores: ::dkun::{ user=154400 } y ::MMzz::{ user=128993 }
 
 Los **streams con sliders y jumps** es una técnica más avanzada para osu!.
 En lugar de usar un stream ortodoxo, lo reemplazas por sliders.

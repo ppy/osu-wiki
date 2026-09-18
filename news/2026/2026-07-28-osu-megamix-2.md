@@ -13,7 +13,7 @@ It has been no less than 10 years ever since the first [osu! MEGAMIX](https://ww
 
 As an extra surprise, those users who travelled all the way to the Netherlands to take part in this year's [cavoe's osu! event](/wiki/Community/cavoe's_osu!_event) are currently receiving the news at the same time this post was published. We can only hope you enjoy the news as much as you'll enjoy the event!
 
-Without further ado, please enjoy the following video introduction, made by ::Andy Raikou::{ user=14731677 }, [xootynator](https://osu.ppy.sh/users/3717598), and ::Spazza17::{ user=3516241 }:
+Without further ado, please enjoy the following video introduction, made by ::Andy Raikou::{ user=14731677 }, ::xootynator::{ user=3717598 }, and ::Spazza17::{ user=3516241 }:
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/mCztSuGe3aY" frameborder="0" allowfullscreen></iframe>

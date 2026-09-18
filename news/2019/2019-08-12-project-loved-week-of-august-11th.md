@@ -26,7 +26,7 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ## osu!standard
 
-osu!standard Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, [-Roxas](https://osu.ppy.sh/users/1986262), ::BeasttrollMC::{ user=3171691 }, [Bubbleman](https://osu.ppy.sh/users/5182050), ::fartownik::{ user=56917 } and [waywern2012](https://osu.ppy.sh/users/5870453)!
+osu!standard Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, ::-Roxas::{ user=1986262 }, ::BeasttrollMC::{ user=3171691 }, ::Bubbleman::{ user=5182050 }, ::fartownik::{ user=56917 } and ::waywern2012::{ user=5870453 }!
 
 ---
 
@@ -48,7 +48,7 @@ The Loved section is no stranger to sped up versions of songs, and with a track 
 
 [![](/wiki/shared/news/2019-08-12-project-loved-week-of-august-11th/osu/3-logical-stimulus.jpg)](https://osu.ppy.sh/community/forums/topics/947108)
 
-[a_hisa - Logical Stimulus](https://osu.ppy.sh/beatmapsets/651507#osu) by ::Naidaaka::{ user=6988856 } and [DT-sama](https://osu.ppy.sh/users/3525018)\
+[a_hisa - Logical Stimulus](https://osu.ppy.sh/beatmapsets/651507#osu) by ::Naidaaka::{ user=6988856 } and ::DT-sama::{ user=3525018 }\
 185 BPM, 4:22 | 5.06★, 7.76★\
 *description written by ::DigitalHypno::{ user=4384207 }*
 
@@ -72,7 +72,7 @@ Making its way through Loved is Logicdash's first ever beatmap—*Bring It On* b
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [iceOC](https://osu.ppy.sh/users/5482401), ::jyake::{ user=9099822 } and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
+osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::iceOC::{ user=5482401 }, ::jyake::{ user=9099822 } and ::nyanmi-1828::{ user=6866480 }!
 
 ---
 
@@ -101,7 +101,7 @@ Pencil-Kun's *The Government Knows* map is by far the most impressive attempt in
 
 [![](/wiki/shared/news/2019-08-12-project-loved-week-of-august-11th/taiko/3-hachigatsu-no-yoru-mathafuckera-k-alziefuck.jpg)](https://osu.ppy.sh/community/forums/topics/947124)
 
-[Lzie - Hachigatsu no Yoru (MathaFuckera.k.alziefuck)](https://osu.ppy.sh/beatmapsets/863536#taiko) by ::ekumea1123::{ user=9119501 } and [vzk](https://osu.ppy.sh/users/8264451)\
+[Lzie - Hachigatsu no Yoru (MathaFuckera.k.alziefuck)](https://osu.ppy.sh/beatmapsets/863536#taiko) by ::ekumea1123::{ user=9119501 } and ::vzk::{ user=8264451 }\
 270 BPM, 3:08 | 7.10★\
 *description written by ::nyanmi-1828::{ user=6866480 }*
 
@@ -115,7 +115,7 @@ Playing this map heats your body up! (I mean, it is August).
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Tenshichan::{ user=1101600 }, [Sartan](https://osu.ppy.sh/users/4100941), ::Wesley::{ user=2407265 } and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
+osu!catch Loved candidates were chosen by ::Tenshichan::{ user=1101600 }, ::Sartan::{ user=4100941 }, ::Wesley::{ user=2407265 } and ::Yumeno Himiko::{ user=1806962 }!
 
 ---
 
@@ -137,7 +137,7 @@ So here we go with a little bit of an odd map to get a bit of variety in this we
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::Shoegazer::{ user=2520707 }, [Lenfried-](https://osu.ppy.sh/users/5314573), ::Pope Gadget::{ user=2288341 } and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
+osu!mania Loved candidates were chosen by ::Shoegazer::{ user=2520707 }, ::Lenfried-::{ user=5314573 }, ::Pope Gadget::{ user=2288341 } and ::Toaph Daddy::{ user=7616811 }!
 
 ---
 
@@ -178,7 +178,7 @@ An excellent song choice paired with a very notable chart gives this map a right
 
 From everyone on the Project Loved team, we hope you enjoyed this week's selection, and are looking forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
-In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Noffy::{ user=1541323 }, [huu](https://osu.ppy.sh/users/6044237) and ::Ephemeral::{ user=102335 } for their miscellaneous help in managing Project Loved.
+In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Noffy::{ user=1541323 }, ::huu::{ user=6044237 } and ::Ephemeral::{ user=102335 } for their miscellaneous help in managing Project Loved.
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! You can view the current submissions on the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0). For osu!mania, please use [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSeaGfoQNGMqw4qQcqRPItUZILh2fGwJR6ly6cZNY9OWPXkFhw/viewform) and [this Google sheet](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit) instead.
 

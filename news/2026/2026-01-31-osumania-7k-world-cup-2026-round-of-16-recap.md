@@ -13,7 +13,7 @@ The show goes on! The second round in the bracket stage of the osu!mania 7K Worl
 
 In other news, the [osu!mania 7K World Cup 2026 profile banners](https://osu.ppy.sh/store/products/1632) are now available for grabs! If you want to contribute to the prize pool and show your support to the banners, you know where to look.
 
-Many thanks to ::yukina meng::{ user=9919550 }, [Normiplier](https://osu.ppy.sh/users/10069850), ::epic man 2::{ user=14566000 }, [SurfChu85](https://osu.ppy.sh/users/4469895), and ::SunApple::{ user=11817622 } for making this week's video recap possible. Worry not, as there are more of these to come.
+Many thanks to ::yukina meng::{ user=9919550 }, ::Normiplier::{ user=10069850 }, ::epic man 2::{ user=14566000 }, ::SurfChu85::{ user=4469895 }, and ::SunApple::{ user=11817622 } for making this week's video recap possible. Worry not, as there are more of these to come.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/1qqMg6mF-8k" frameborder="0" allowfullscreen></iframe>

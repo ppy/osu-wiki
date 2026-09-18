@@ -22,7 +22,7 @@ In case you don't read the end of this post, be sure to submit suggestions for b
 
 ## osu!
 
-osu! Loved candidates were chosen by ::BeasttrollMC::{ user=3171691 }, [Bubbleman](https://osu.ppy.sh/users/5182050), ::DigitalHypno::{ user=4384207 }, [SoraRoxas01](https://osu.ppy.sh/users/1986262) and ::waywern2012::{ user=5870453 }!
+osu! Loved candidates were chosen by ::BeasttrollMC::{ user=3171691 }, ::Bubbleman::{ user=5182050 }, ::DigitalHypno::{ user=4384207 }, ::SoraRoxas01::{ user=1986262 } and ::waywern2012::{ user=5870453 }!
 
 ---
 
@@ -35,14 +35,14 @@ It's finally here! mithew's take on Jerma's "Rat's Birthday Mixtape" has seen ma
 
 [![](/wiki/shared/news/2018-11-18-project-loved-week-of-november-18th/osu/ao-infinity.jpg)](https://osu.ppy.sh/community/forums/topics/831245)
 
-[Seiryu - AO-Infinity](https://osu.ppy.sh/beatmapsets/821798#osu) by ::\_RyuK::{ user=6304246 } and [stq](https://osu.ppy.sh/users/8438674)\
+[Seiryu - AO-Infinity](https://osu.ppy.sh/beatmapsets/821798#osu) by ::\_RyuK::{ user=6304246 } and ::stq::{ user=8438674 }\
 *written by ::BeasttrollMC::{ user=3171691 }*
 
 It's honestly amazing to see top players dipping their toes into the mapping scene. \_Ryuk's take on Seiryu's "AO-Infinity" is a test of all things stream-wise, including spaced, slider and jump streams all packed into a single map. It's a great set to practice with and a great song to listen to—a perfect harmony!
 
 [![](/wiki/shared/news/2018-11-18-project-loved-week-of-november-18th/osu/ascension-to-heaven.jpg)](https://osu.ppy.sh/community/forums/topics/831246)
 
-[xi - Ascension to Heaven](https://osu.ppy.sh/beatmapsets/48925#osu) by ::Zapy::{ user=251395 } and [Jenny](https://osu.ppy.sh/users/579428)\
+[xi - Ascension to Heaven](https://osu.ppy.sh/beatmapsets/48925#osu) by ::Zapy::{ user=251395 } and ::Jenny::{ user=579428 }\
 *written by ::Bubbleman::{ user=5182050 }*
 
 An undeniable classic, the likes of which we might never see again, Zapy's Ascension to Heaven has stood the test of time and is still as incredible to play today as it was when it came out. The 200 BPM streams flow brilliantly, and the use of AR9 presents a reading challenge too, so don't take the star rating for granted. You game? Then come and have a go if you think you're hard enough.
@@ -66,14 +66,14 @@ An eye-catching map, Yusomi's mapset of nameless's "All I Need are Things I Like
 [LeaF - Alice in Misanthrope -Ensei Alice-](https://osu.ppy.sh/beatmapsets/526627#osu) by ::Anxient::{ user=4561368 } et al.\
 *written by ::DigitalHypno::{ user=4384207 }*
 
-A mapper recognizable from some of their other ranked mapsets, Anxient has yet another mapset up for show! This is a 6-difficulty set of a song by LeaF, a familiar artist within the osu! community. With guest difficulties from ::Victorica::{ user=4707331 }, [Rohit6](https://osu.ppy.sh/users/3206945) and ::SnowNiNo\_::{ user=2506267 }, the top difficulty was made by the set owner and sits in high 5-star range. The map itself is filled with unique stream shapes and doubles to satisfy those niche technical interests of yours. As you go to check out the map, don't forget to give the guest difficulties a try as well!
+A mapper recognizable from some of their other ranked mapsets, Anxient has yet another mapset up for show! This is a 6-difficulty set of a song by LeaF, a familiar artist within the osu! community. With guest difficulties from ::Victorica::{ user=4707331 }, ::Rohit6::{ user=3206945 } and ::SnowNiNo\_::{ user=2506267 }, the top difficulty was made by the set owner and sits in high 5-star range. The map itself is filled with unique stream shapes and doubles to satisfy those niche technical interests of yours. As you go to check out the map, don't forget to give the guest difficulties a try as well!
 
 [![](/wiki/shared/news/2018-11-18-project-loved-week-of-november-18th/osu/we-are-number-one.jpg)](https://osu.ppy.sh/community/forums/topics/831250)
 
 [Stefan Karl Stefansson & Mani Svavarsson - We are Number One](https://osu.ppy.sh/beatmapsets/526574#osu) by ::Doomsday is Bad::{ user=3481378 } et al.\
 *written by ::SoraRoxas01::{ user=1986262 }*
 
-Another fun and interesting mapset by Doomsday is Bad has appeared as a candidate for Loved! "We are Number One" is full of unique patterns in each difficulty, ranging from jumps to 2B sliders to even a cover of the song being made for one of the difficulties—this is definitely something to check out. The mapset also includes mappers like ::Doomsday::{ user=18983 }, [Syncro](https://osu.ppy.sh/users/6565563), ::NyarkoO::{ user=6622567 } and [Lefafel](https://osu.ppy.sh/users/2295850) and has over 140+ favorites. Can you get number one on this?
+Another fun and interesting mapset by Doomsday is Bad has appeared as a candidate for Loved! "We are Number One" is full of unique patterns in each difficulty, ranging from jumps to 2B sliders to even a cover of the song being made for one of the difficulties—this is definitely something to check out. The mapset also includes mappers like ::Doomsday::{ user=18983 }, ::Syncro::{ user=6565563 }, ::NyarkoO::{ user=6622567 } and ::Lefafel::{ user=2295850 } and has over 140+ favorites. Can you get number one on this?
 
 [![](/wiki/shared/news/2018-11-18-project-loved-week-of-november-18th/osu/wagashi-to-issho-ni-tachiagare.jpg)](https://osu.ppy.sh/community/forums/topics/831251)
 
@@ -98,7 +98,7 @@ It has been proven many times that top players can make amazing maps, and this i
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-\1 ix Ishida xi \1-::{ user=242910 }, [-Kazu-](https://osu.ppy.sh/users/920861), ::Backfire::{ user=263110 }, [iceOC](https://osu.ppy.sh/users/5482401) and ::nyanmi-1828::{ user=6866480 }!
+osu!taiko Loved candidates were chosen by ::-\1 ix Ishida xi \1-::{ user=242910 }, ::-Kazu-::{ user=920861 }, ::Backfire::{ user=263110 }, ::iceOC::{ user=5482401 } and ::nyanmi-1828::{ user=6866480 }!
 
 ---
 
@@ -111,14 +111,14 @@ Coming as part of his well-known Sorcery Light series, Ekoro's "Magus night feve
 
 [![](/wiki/shared/news/2018-11-18-project-loved-week-of-november-18th/taiko/mousou-express.jpg)](https://osu.ppy.sh/community/forums/topics/831257)
 
-[Furby@NineMusez - Mousou Express](https://osu.ppy.sh/beatmapsets/329416#taiko) by ::JUDYDANNY::{ user=1165475 }, [kanopu](https://osu.ppy.sh/users/203721) and ::Nardoxyribonucleic::{ user=876419 }\
+[Furby@NineMusez - Mousou Express](https://osu.ppy.sh/beatmapsets/329416#taiko) by ::JUDYDANNY::{ user=1165475 }, ::kanopu::{ user=203721 } and ::Nardoxyribonucleic::{ user=876419 }\
 *written by ::-Kazu-::{ user=920861 }*
 
 Even though it was initially going for ranked, "Mousou Express" by JUDYDANNY comes to satisfy the people who like relaxing with easier maps. Although it brings high quality diffs that make a proper difficulty spread, it comes with a very gratifying surprise: kanopu's Inner Oni is a love letter to the older members of the community, as his mapping style really brings you back to those years where consistency and structure were the keys to making a high-quality map. As modifying these maps to fit current standards would be a crime, it's now on voting for Loved!
 
 [![](/wiki/shared/news/2018-11-18-project-loved-week-of-november-18th/taiko/kill-me-break.jpg)](https://osu.ppy.sh/community/forums/topics/831258)
 
-[98SKJ - Kill Me Break](https://osu.ppy.sh/beatmapsets/633035#taiko) by ::Shallty::{ user=6205471 } and [KitajimaYN](https://osu.ppy.sh/users/2250574)\
+[98SKJ - Kill Me Break](https://osu.ppy.sh/beatmapsets/633035#taiko) by ::Shallty::{ user=6205471 } and ::KitajimaYN::{ user=2250574 }\
 *written by ::Backfire::{ user=263110 }*
 
 A fun breakcore map by Shallty and KitajimaYN, Kill Me Break accumulated a lot of its original favorite count through an older version of this set, which only contained one difficulty from Shallty. In these days, it has been replaced by two seperate versions, "KILLME" and "DEATH", which seem to hold the spirit of the original, while making it more accessible for more players. The energetic and fast pace will be really appealing to our top-level players who enjoy the kind of music you'd find from artists like katagiri and LeaF!
@@ -132,7 +132,7 @@ One could say this is simply a meme, and they'd be mostly correct. For those tha
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Ascendance::{ user=2931883 }, [Sartan](https://osu.ppy.sh/users/4100941), ::Tenshichan::{ user=1101600 } and [Zak](https://osu.ppy.sh/users/1375955)! This week, all osu!catch beatmap descriptions were written by ::Sartan::{ user=4100941 }.
+osu!catch Loved candidates were chosen by ::Ascendance::{ user=2931883 }, ::Sartan::{ user=4100941 }, ::Tenshichan::{ user=1101600 } and ::Zak::{ user=1375955 }! This week, all osu!catch beatmap descriptions were written by ::Sartan::{ user=4100941 }.
 
 ---
 
@@ -154,7 +154,7 @@ One thing is for sure though, playing this map properly is amazingly satisfying.
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, [aitor98](https://osu.ppy.sh/users/3154852), ::Kamikaze::{ user=2124783 }, [Pope Gadget](https://osu.ppy.sh/users/2288341), ::stupud man::{ user=2141612 } and [TheToaphster](https://osu.ppy.sh/users/7616811)!
+osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, ::aitor98::{ user=3154852 }, ::Kamikaze::{ user=2124783 }, ::Pope Gadget::{ user=2288341 }, ::stupud man::{ user=2141612 } and ::TheToaphster::{ user=7616811 }!
 
 ---
 
@@ -174,7 +174,7 @@ Continuing to deliver on his previously-established clean charts returns Leo137 
 
 [![](/wiki/shared/news/2018-11-18-project-loved-week-of-november-18th/mania/magicvlgirl-trvp-b3vtz.jpg)](https://osu.ppy.sh/community/forums/topics/831272)
 
-[DJ Noriken - #MAGiCVLGiRL\_TRVP\_B3VTZ](https://osu.ppy.sh/beatmapsets/742179#mania) by ::Zyph::{ user=1600432 } and [Guilhermeziat](https://osu.ppy.sh/users/3661387)\
+[DJ Noriken - #MAGiCVLGiRL\_TRVP\_B3VTZ](https://osu.ppy.sh/beatmapsets/742179#mania) by ::Zyph::{ user=1600432 } and ::Guilhermeziat::{ user=3661387 }\
 *written by ::\_underjoy::{ user=2235750 }*
 
 Our favourite magical girls, Zyph and Guilhermeziat, bring to you a spicy trap map! "#MAGiCVLGiRL\_TRVP\_B3VTZ" by DJ Noriken has two difficulties, which are two different sides of the same coin. ZVPH'Z\_ACC is a seemingly straightforward chart, with emphasis on chords mixed with jumpstreams. The trick however lies in numerous bursts and grace notes, which add a lot of flavour to this diff and are a challenge for acc-specialising players. On the other hand, GVIL'Z\_LNZ is filled with unconventional anchor-LN patterning and transitions which cater to long note enthusiasts. Both interpretations of the song provide immense fun for the player, and this is why we have nominated it for the Loved voting!
@@ -211,7 +211,7 @@ Here we have Reba again with one of his most notorious long note mapsets, "What 
 
 From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
-In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Ephemeral::{ user=102335 }, [Noffy](https://osu.ppy.sh/users/1541323) and ::Toy::{ user=2757689 } for their miscellaneous help in managing Project Loved.
+In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Ephemeral::{ user=102335 }, ::Noffy::{ user=1541323 } and ::Toy::{ user=2757689 } for their miscellaneous help in managing Project Loved.
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! You can view the current submissions on the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0).
 

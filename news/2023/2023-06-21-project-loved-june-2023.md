@@ -39,7 +39,7 @@ With that out of the way, let's get into June's picks (for real):
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::Aistre::{ user=4879380 }, [Kingling](https://osu.ppy.sh/users/7010761), ::megumic::{ user=7537133 }, [Mismagius](https://osu.ppy.sh/users/19048), ::Skill::{ user=7802027 } and [Wixonater](https://osu.ppy.sh/users/10083084)!
+The osu! Loved candidates were chosen by ::Aistre::{ user=4879380 }, ::Kingling::{ user=7010761 }, ::megumic::{ user=7537133 }, ::Mismagius::{ user=19048 }, ::Skill::{ user=7802027 } and ::Wixonater::{ user=10083084 }!
 
 <div align="center">
     <video width="95%" controls>
@@ -91,11 +91,11 @@ Be sure to give your vote if you want to see this in Loved, as this one is going
 
 [![](/wiki/shared/news/2023-06-21-project-loved-june-2023/1349505.jpg)](https://osu.ppy.sh/community/forums/topics/1781998)
 
-[DJ SHARPNEL - Marunouchi surviver](https://osu.ppy.sh/beatmapsets/1349505#osu) by ::Asphyxia::{ user=1715720 } and [Axarious](https://osu.ppy.sh/users/2614511)\
+[DJ SHARPNEL - Marunouchi surviver](https://osu.ppy.sh/beatmapsets/1349505#osu) by ::Asphyxia::{ user=1715720 } and ::Axarious::{ user=2614511 }\
 200.4 BPM, 4:41 | 8.46★\
 *description written by ::megumic::{ user=7537133 }*
 
-Brace yourselves for yet another ::Asphyxia::{ user=1715720 } and [Axarious](https://osu.ppy.sh/users/2614511) collaboration, a Daredevil Difficulty pick featuring [DJ SHARPNEL - Marunouchi surviver](https://osu.ppy.sh/beatmapsets/1349505#osu)!
+Brace yourselves for yet another ::Asphyxia::{ user=1715720 } and ::Axarious::{ user=2614511 } collaboration, a Daredevil Difficulty pick featuring [DJ SHARPNEL - Marunouchi surviver](https://osu.ppy.sh/beatmapsets/1349505#osu)!
 
 Immerse yourself in this near 5-minute banger from the legendary DJ SHARPNEL, accompanied by Asphyxia and Axarious, pushing you to your limits and testing your skills on streams, aim, finger control and stamina. With cut streams, cross-screen sliders, and varying flow aim, this map is ready to pack a punch and more.
 
@@ -127,7 +127,7 @@ Do you want Starrodkirby86?! Do you want Susumu Hirasawa?! Then VOTE!!! (if you'
 
 [![](/wiki/shared/news/2023-06-21-project-loved-june-2023/445835.jpg)](https://osu.ppy.sh/community/forums/topics/1781995)
 
-[RHS - SAS, SSS, ASA, AAS](https://osu.ppy.sh/beatmapsets/445835#osu) by ::-N a n a k o-::{ user=1407516 }, [\[ Drop \]](https://osu.ppy.sh/users/2391299) and ::MinG3012::{ user=1583218 }\
+[RHS - SAS, SSS, ASA, AAS](https://osu.ppy.sh/beatmapsets/445835#osu) by ::-N a n a k o-::{ user=1407516 }, ::\[ Drop \]::{ user=2391299 } and ::MinG3012::{ user=1583218 }\
 119 – 242 BPM, 4:55 | 3.84★ – 7.70★\
 *description written by ::megumic::{ user=7537133 }*
 
@@ -135,7 +135,7 @@ Pay attention to this month's Math Messages — I mean Meme Monstrosities... Tod
 
 ::-N a n a k o-::{ user=1407516 } has brought us [RHS - SAS, SSS, ASA, AAS](https://osu.ppy.sh/beatmapsets/445835#osu/975374) to teach the troubled youth basic geometric principles, and after seeing the apparent inverse relation of playtime to math grades among many osu! players, I think this is an important piece of media that we can all appreciate.
 
-But that's not all! -N a n a k o- has accounted for this generation's shorter attention span and increasing need of content, and has also included remixes, such as Ievan Polkka, Metal, and J-core versions. This wide range of genres is further accompanied by the wider range of difficulties, spanning from 3.80\* to 7.66\*, with additional contributions from ::\[ Drop \]::{ user=2391299 } and [MinG3012](https://osu.ppy.sh/users/1583218). Sharpen your reflexes, embrace the synergy of music and mathematics, and let their expertise guide you through the fascinating realm of Euclidean geometry!
+But that's not all! -N a n a k o- has accounted for this generation's shorter attention span and increasing need of content, and has also included remixes, such as Ievan Polkka, Metal, and J-core versions. This wide range of genres is further accompanied by the wider range of difficulties, spanning from 3.80\* to 7.66\*, with additional contributions from ::\[ Drop \]::{ user=2391299 } and ::MinG3012::{ user=1583218 }. Sharpen your reflexes, embrace the synergy of music and mathematics, and let their expertise guide you through the fascinating realm of Euclidean geometry!
 
 Brace yourself for a captivating journey that will not only test your skills but also ignite your passion for the wonders of geometry.
 
@@ -165,7 +165,7 @@ If you love this map just as much as I do, don't forget to vote yes in the Loved
 
 [![](/wiki/shared/news/2023-06-21-project-loved-june-2023/1390700.jpg)](https://osu.ppy.sh/community/forums/topics/1781992)
 
-[Iglooghost - Bug Thief](https://osu.ppy.sh/beatmapsets/1390700#osu) by ::Pyo::{ user=6641784 }, [-jordan-](https://osu.ppy.sh/users/7288862), ::\[-Evil-\]::{ user=10234313 }, [Akeruyri](https://osu.ppy.sh/users/7919025), ::Crissa::{ user=5405836 }, [Elinor](https://osu.ppy.sh/users/5419324), ::Gordon::{ user=7856835 } and [Megafan](https://osu.ppy.sh/users/6632605)\
+[Iglooghost - Bug Thief](https://osu.ppy.sh/beatmapsets/1390700#osu) by ::Pyo::{ user=6641784 }, ::-jordan-::{ user=7288862 }, ::\[-Evil-\]::{ user=10234313 }, ::Akeruyri::{ user=7919025 }, ::Crissa::{ user=5405836 }, ::Elinor::{ user=5419324 }, ::Gordon::{ user=7856835 } and ::Megafan::{ user=6632605 }\
 187 BPM, 3:15 | 2.46★ – 6.47★\
 *description written by ::Aistre::{ user=4879380 }*
 
@@ -177,7 +177,7 @@ I think this set is rather awesome, and if you think so too then you should give
 
 [![](/wiki/shared/news/2023-06-21-project-loved-june-2023/366512.jpg)](https://osu.ppy.sh/community/forums/topics/1781991)
 
-[t+pazolite - Garakuta Doll Play](https://osu.ppy.sh/beatmapsets/366512#osu) by ::Hakurei Yoru::{ user=3280555 }, [JJburstOwO](https://osu.ppy.sh/users/1776055), ::Konge::{ user=2053450 }, [liaoxingyao](https://osu.ppy.sh/users/3620963), ::Momizi::{ user=2737871 }, [sodarose](https://osu.ppy.sh/users/986714) and ::Vert::{ user=3420746 }\
+[t+pazolite - Garakuta Doll Play](https://osu.ppy.sh/beatmapsets/366512#osu) by ::Hakurei Yoru::{ user=3280555 }, ::JJburstOwO::{ user=1776055 }, ::Konge::{ user=2053450 }, ::liaoxingyao::{ user=3620963 }, ::Momizi::{ user=2737871 }, ::sodarose::{ user=986714 } and ::Vert::{ user=3420746 }\
 256 BPM, 2:02 | 1.49★ – 7.94★\
 *description written by ::Wixonater::{ user=10083084 }*
 
@@ -187,7 +187,7 @@ A short yet sweet experience with a runtime of 2 minutes at 256 BPM, t-paz reall
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [aceticke](https://osu.ppy.sh/users/8838763), ::Boaz::{ user=13302996 }, [Eriha](https://osu.ppy.sh/users/16320311), ::Gamelan4::{ user=9856910 }, [ler1211](https://osu.ppy.sh/users/19901680) and ::Sebola::{ user=15821708 }!
+The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::aceticke::{ user=8838763 }, ::Boaz::{ user=13302996 }, ::Eriha::{ user=16320311 }, ::Gamelan4::{ user=9856910 }, ::ler1211::{ user=19901680 } and ::Sebola::{ user=15821708 }!
 
 <div align="center">
     <video width="95%" controls>
@@ -199,7 +199,7 @@ The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [acetic
 
 [![](/wiki/shared/news/2023-06-21-project-loved-june-2023/1171259.jpg)](https://osu.ppy.sh/community/forums/topics/1781990)
 
-[Billie Eilish - WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://osu.ppy.sh/beatmapsets/1171259#taiko) by ::JarvisGaming::{ user=8601048 }, [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ::Gamelan4::{ user=9856910 }, [Konpaku Sariel](https://osu.ppy.sh/users/533502), ::Red Riding Hood::{ user=8050850 }, [Reed_405](https://osu.ppy.sh/users/9965069) and ::Vulkin::{ user=4901066 }\
+[Billie Eilish - WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://osu.ppy.sh/beatmapsets/1171259#taiko) by ::JarvisGaming::{ user=8601048 }, ::Cynplytholowazy::{ user=3901754 }, ::Gamelan4::{ user=9856910 }, ::Konpaku Sariel::{ user=533502 }, ::Red Riding Hood::{ user=8050850 }, ::Reed\1405::{ user=9965069 } and ::Vulkin::{ user=4901066 }\
 110 – 135 BPM, 42:41 | 1.12★ – 4.53★\
 The \[1. !!!!!!! (JarvisGaming)\] difficulty is *not* being nominated for Loved.\
 *description written by ::aceticke::{ user=8838763 }*
@@ -248,21 +248,21 @@ Don't let Chino's [Innocent Heart](https://osu.ppy.sh/beatmapsets/700486#taiko/1
 
 [![](/wiki/shared/news/2023-06-21-project-loved-june-2023/1189370.jpg)](https://osu.ppy.sh/community/forums/topics/1781986)
 
-[Stellabee - Kill The Breakcore](https://osu.ppy.sh/beatmapsets/1189370#taiko) by ::-Kazu-::{ user=920861 }, [7_7](https://osu.ppy.sh/users/7491106), ::Alchyr::{ user=4993032 }, [applerss](https://osu.ppy.sh/users/983349), ::D3kuu::{ user=7807444 }, [Gamelan4](https://osu.ppy.sh/users/9856910), ::Genjuro::{ user=3196091 }, [jyake](https://osu.ppy.sh/users/9099822), ::Kqrth::{ user=4115718 }, [KTYN](https://osu.ppy.sh/users/2250574) and ::Ulqui::{ user=1263669 }\
+[Stellabee - Kill The Breakcore](https://osu.ppy.sh/beatmapsets/1189370#taiko) by ::-Kazu-::{ user=920861 }, ::7\17::{ user=7491106 }, ::Alchyr::{ user=4993032 }, ::applerss::{ user=983349 }, ::D3kuu::{ user=7807444 }, ::Gamelan4::{ user=9856910 }, ::Genjuro::{ user=3196091 }, ::jyake::{ user=9099822 }, ::Kqrth::{ user=4115718 }, ::KTYN::{ user=2250574 } and ::Ulqui::{ user=1263669 }\
 230 BPM, 13:22 | 7.64★\
 *description written by ::Sebola::{ user=15821708 }*
 
 *\*amen break sample*\*
 
-Do you like breakcore? If your answer is yes, you SHOULD play this map now! Featuring (just *some* mappers) ::Gamelan4::{ user=9856910 }, [-Kazu-](https://osu.ppy.sh/users/920861), Kqrth, ::KTYN::{ user=2250574 }, [jyake](https://osu.ppy.sh/users/9099822), ::Alchyr::{ user=4993032 }, [Ulqui](https://osu.ppy.sh/users/1263669), ::applerss::{ user=983349 }, [D3kuu](https://osu.ppy.sh/users/7807444), ::Genjuro::{ user=3196091 }, and [7_7](https://osu.ppy.sh/users/7491106) this collab provides 13 minutes and 23 seconds of pure breakcore. Uncommon rhythms, rapid sections, 1/4 and 1/6 streams, and much more. This beatmap is the perfect representation of this song. Trust me, you will *\~love\~* this... *\*wink\**
+Do you like breakcore? If your answer is yes, you SHOULD play this map now! Featuring (just *some* mappers) ::Gamelan4::{ user=9856910 }, ::-Kazu-::{ user=920861 }, Kqrth, ::KTYN::{ user=2250574 }, ::jyake::{ user=9099822 }, ::Alchyr::{ user=4993032 }, ::Ulqui::{ user=1263669 }, ::applerss::{ user=983349 }, ::D3kuu::{ user=7807444 }, ::Genjuro::{ user=3196091 }, and ::7\17::{ user=7491106 } this collab provides 13 minutes and 23 seconds of pure breakcore. Uncommon rhythms, rapid sections, 1/4 and 1/6 streams, and much more. This beatmap is the perfect representation of this song. Trust me, you will *\~love\~* this... *\*wink\**
 
 [![](/wiki/shared/news/2023-06-21-project-loved-june-2023/1402925.jpg)](https://osu.ppy.sh/community/forums/topics/1781985)
 
-[KEMOMIMI EDM SQUAD - +Breakcore Strikes Back+](https://osu.ppy.sh/beatmapsets/1402925#taiko) by ::syaron105::{ user=8741695 }, [aHTaoN](https://osu.ppy.sh/users/4655546) and ::KawaiiBass::{ user=11992585 }\
+[KEMOMIMI EDM SQUAD - +Breakcore Strikes Back+](https://osu.ppy.sh/beatmapsets/1402925#taiko) by ::syaron105::{ user=8741695 }, ::aHTaoN::{ user=4655546 } and ::KawaiiBass::{ user=11992585 }\
 260 BPM, 5:16 | 8.35★\
 *description written by ::-Kazu-::{ user=920861 }*
 
-For sure ::syaron105::{ user=8741695 }, [KawaiiBass](https://osu.ppy.sh/users/11992585), and ::aHTaoN::{ user=4655546 } took to heart the concept of "mashcore". Teaming up with the high energy of katagiri and sari's sound, they have created a beatmap that stands as a testament to frenzy and intensity. Brace yourself for a relentless deluge of burst 1/6 and 1/8+ patterns, as this creation really pushes the boundaries of speed and precision.
+For sure ::syaron105::{ user=8741695 }, ::KawaiiBass::{ user=11992585 }, and ::aHTaoN::{ user=4655546 } took to heart the concept of "mashcore". Teaming up with the high energy of katagiri and sari's sound, they have created a beatmap that stands as a testament to frenzy and intensity. Brace yourself for a relentless deluge of burst 1/6 and 1/8+ patterns, as this creation really pushes the boundaries of speed and precision.
 
 This beatmap isn't really for the weak of heart. Once you read those three names, you'll know for sure that it was tailored specifically for the aliens in our community. Do you think you have what it takes to be part of the elite?
 
@@ -280,11 +280,11 @@ Can you conquer the relentless barrage of swing doublets, showcasing your techni
 
 [![](/wiki/shared/news/2023-06-21-project-loved-june-2023/1510792.jpg)](https://osu.ppy.sh/community/forums/topics/1781983)
 
-[621 gecs - femboifoxxx](https://osu.ppy.sh/beatmapsets/1510792#taiko) by ::Metzo::{ user=10633982 } and [Genjuro](https://osu.ppy.sh/users/3196091)\
+[621 gecs - femboifoxxx](https://osu.ppy.sh/beatmapsets/1510792#taiko) by ::Metzo::{ user=10633982 } and ::Genjuro::{ user=3196091 }\
 190 BPM, 2:46 | 6.26★\
 *description written by ::Gamelan4::{ user=9856910 }*
 
-We know this song and everything surrounding it looks suspicious, but hear us out. [621 gecs - femboifoxxx](https://osu.ppy.sh/beatmapsets/1510792#taiko) by ::Metzo::{ user=10633982 } and [Genjuro](https://osu.ppy.sh/users/3196091) is an amazing map.
+We know this song and everything surrounding it looks suspicious, but hear us out. [621 gecs - femboifoxxx](https://osu.ppy.sh/beatmapsets/1510792#taiko) by ::Metzo::{ user=10633982 } and ::Genjuro::{ user=3196091 } is an amazing map.
 
 It has everything every SV-savvy player would want in a map, specially considering how well it fits to the song. Slow SV challenge sections, variable waves, ninja spinners, you name it. The quality of this map is undeniable, and whether you are a furry or a closet one (we know), the hyperpop nature of this song will absolutely make you have a blast while trying to figure how to beat this beast of a map — it's up to your interpretation.
 
@@ -292,7 +292,7 @@ Just go ahead and give this map a try. It certainly does not bite... right?
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::Dahcreeper::{ user=6926006 }, [fuhie](https://osu.ppy.sh/users/7620002), ::Kasumi-sama::{ user=6177263 }, [Sartan](https://osu.ppy.sh/users/4100941) and ::Secre::{ user=2306637 }!
+The osu!catch Loved candidates were chosen by ::Dahcreeper::{ user=6926006 }, ::fuhie::{ user=7620002 }, ::Kasumi-sama::{ user=6177263 }, ::Sartan::{ user=4100941 } and ::Secre::{ user=2306637 }!
 
 <div align="center">
     <video width="95%" controls>
@@ -348,7 +348,7 @@ You might also recognize this map from [CWC 2016](/wiki/Tournaments/CWC/2016), w
 
 [![](/wiki/shared/news/2023-06-21-project-loved-june-2023/1861897.jpg)](https://osu.ppy.sh/community/forums/topics/1781978)
 
-[Colorful Sounds Port - ETERNAL DRAIN](https://osu.ppy.sh/beatmapsets/1861897#fruits) by ::Enjuxx::{ user=10727985 }, [BoberOfDarkness](https://osu.ppy.sh/users/3427748), ::Dahcreeper::{ user=6926006 }, [Stats-Kun](https://osu.ppy.sh/users/8611935), ::Trent::{ user=3438241 } and [Xinnoh](https://osu.ppy.sh/users/4236057)\
+[Colorful Sounds Port - ETERNAL DRAIN](https://osu.ppy.sh/beatmapsets/1861897#fruits) by ::Enjuxx::{ user=10727985 }, ::BoberOfDarkness::{ user=3427748 }, ::Dahcreeper::{ user=6926006 }, ::Stats-Kun::{ user=8611935 }, ::Trent::{ user=3438241 } and ::Xinnoh::{ user=4236057 }\
 149 BPM, 1:58 | 1.13★ – 13.98★\
 *description written by ::fuhie::{ user=7620002 }*
 
@@ -356,7 +356,7 @@ This second pick of mine for this special summer month is [Colorful Sounds Port 
 
 A 24-DIFFICULTY MAPSET .  .  .  .  .  .
 
-Enjuxx is already known to be feared when it comes to the difficulty that he can create to absolutely shred any player's hands with muscle cramps and mental pain. This new mapset created by ::Enjuxx::{ user=10727985 }, [BoberOfDarkness](https://osu.ppy.sh/users/3427748), ::Dahcreeper::{ user=6926006 }, [Stats-Kun](https://osu.ppy.sh/users/8611935), ::Trent::{ user=3438241 }, and [Xinnoh](https://osu.ppy.sh/users/4236057) has a wide plethora of difficulties ranging from 1.13\* to 13.98\*, as well as specific skill tests, mainly being one of speed, obviously.
+Enjuxx is already known to be feared when it comes to the difficulty that he can create to absolutely shred any player's hands with muscle cramps and mental pain. This new mapset created by ::Enjuxx::{ user=10727985 }, ::BoberOfDarkness::{ user=3427748 }, ::Dahcreeper::{ user=6926006 }, ::Stats-Kun::{ user=8611935 }, ::Trent::{ user=3438241 }, and ::Xinnoh::{ user=4236057 } has a wide plethora of difficulties ranging from 1.13\* to 13.98\*, as well as specific skill tests, mainly being one of speed, obviously.
 
 Enjuxx's previous map, [Sendan Life (katagiri Bootleg)](https://osu.ppy.sh/beatmapsets/1431102#fruits/3881697) created by the artist *Remo Prototype (CV: Hanamori Yumiri)* was already an incredible difficulty spike and we've seen some amazing scores coming from Netamaru and Motion, two skilled players known for their speed and raw skill in all the realm!
 
@@ -376,7 +376,7 @@ Here though, we get a pretty classic jump map, 4 minutes of pure 6\* fun, and a 
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::-NoName-::{ user=10400730 }, [\[Crz\]hinako1804](https://osu.ppy.sh/users/13747903), ::kadoen::{ user=12780575 }, [Mipha-](https://osu.ppy.sh/users/5767941), ::Paturages::{ user=1375479 } and [Remuring](https://osu.ppy.sh/users/6522146)!
+The osu!mania Loved candidates were chosen by ::-NoName-::{ user=10400730 }, ::\[Crz\]hinako1804::{ user=13747903 }, ::kadoen::{ user=12780575 }, ::Mipha-::{ user=5767941 }, ::Paturages::{ user=1375479 } and ::Remuring::{ user=6522146 }!
 
 <div align="center">
     <video width="95%" controls>
@@ -480,7 +480,7 @@ People have requested more very-high-popularity picks for nomination, so hopeful
 
 [![](/wiki/shared/news/2023-06-21-project-loved-june-2023/239964.jpg)](https://osu.ppy.sh/community/forums/topics/1781969)
 
-[Falcom Sound Team jdk - OVER DRIVE](https://osu.ppy.sh/beatmapsets/239964#mania) by ::pporse::{ user=4991434 } and [Kawawa](https://osu.ppy.sh/users/4647754)\
+[Falcom Sound Team jdk - OVER DRIVE](https://osu.ppy.sh/beatmapsets/239964#mania) by ::pporse::{ user=4991434 } and ::Kawawa::{ user=4647754 }\
 160 BPM, 2:36 | 1.84★, 3.14★, 4.25★, 5.68★\
 *description written by ::-NoName-::{ user=10400730 }*
 

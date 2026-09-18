@@ -10,7 +10,7 @@ The judging is finally complete - and a clear winner has been chosen. With the a
 
 ::-kevincela-::{ user=266596 } left the judges awestruck with his set this time around, towering over other contestants with an 18 point lead - the largest of its kind since the MBC's introduction. grumd was utterly blown away by -kevincela-'s map, giving it the second perfect score the contest has seen so far.
 
-Honourable mentions go to ::Nichiyouki::{ user=1011056 } and [-Chata-](https://osu.ppy.sh/users/-Chata-), who scored second and third respectively with scores of 152 and 150.
+Honourable mentions go to ::Nichiyouki::{ user=1011056 } and ::-Chata-::{ user=739813 }, who scored second and third respectively with scores of 152 and 150.
 
 Play the winning beatmap [here](https://osu.ppy.sh/beatmapsets/190390/#osu/453358), and view the judges' commentary [here](https://osu.ppy.sh/p/contestresults?c=11).
 

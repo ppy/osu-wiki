@@ -20,11 +20,11 @@ As always, thanks for voting on last round's picks! Results can be found here:
 
 Before we present this month's picks, we got some exciting changes within the Loved team that we want to report.
 
-As you may remember, we opened applications for osu! captains [last round](https://osu.ppy.sh/home/news/2025-11-16-project-loved-november-2025), so now let's give a round of applause to the new roster of osu! captains: ::MALISZEWSKI::{ user=12408961 }, [Wispy](https://osu.ppy.sh/users/11106929), ::seros::{ user=10562853 }, [Riot](https://osu.ppy.sh/users/4256461), ::Petal::{ user=7354729 }, [Bernkastel](https://osu.ppy.sh/users/5154946), and ::Chaoslitz::{ user=3621552 }! 🎉
+As you may remember, we opened applications for osu! captains [last round](https://osu.ppy.sh/home/news/2025-11-16-project-loved-november-2025), so now let's give a round of applause to the new roster of osu! captains: ::MALISZEWSKI::{ user=12408961 }, ::Wispy::{ user=11106929 }, ::seros::{ user=10562853 }, ::Riot::{ user=4256461 }, ::Petal::{ user=7354729 }, ::Bernkastel::{ user=5154946 }, and ::Chaoslitz::{ user=3621552 }! 🎉
 
 Also, ::Yasuho::{ user=8458835 } has moved out of the metadata den into the video studio — this means we're back on track with preview videos!
 
-Lastly, let's give a warm farewell to ::Lilian::{ user=8589120 } and [Gamelan4](https://osu.ppy.sh/users/9856910), as they're moving on from their captain duties.
+Lastly, let's give a warm farewell to ::Lilian::{ user=8589120 } and ::Gamelan4::{ user=9856910 }, as they're moving on from their captain duties.
 
 And without further ado, here are this month's nominations!
 
@@ -37,7 +37,7 @@ And without further ado, here are this month's nominations!
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::BATBALL::{ user=15173952 }, [Bernkastel](https://osu.ppy.sh/users/5154946), ::chiv::{ user=6701656 }, [momoyo](https://osu.ppy.sh/users/12469536), ::Riot::{ user=4256461 }, [Skill](https://osu.ppy.sh/users/7802027), and ::Wispy::{ user=11106929 }!
+The osu! Loved candidates were chosen by ::BATBALL::{ user=15173952 }, ::Bernkastel::{ user=5154946 }, ::chiv::{ user=6701656 }, ::momoyo::{ user=12469536 }, ::Riot::{ user=4256461 }, ::Skill::{ user=7802027 }, and ::Wispy::{ user=11106929 }!
 
 **[Click here to download all of this round's osu! picks!](https://packs.ppy.sh/LR72%20-%20Project%20Loved:%20December%202025%20(osu!).zip)**
 
@@ -119,7 +119,7 @@ This map is so awesome I'm going to tell you to vote YES Five times.
 
 [![](/wiki/shared/news/2025-12-22-project-loved-december-2025/1935569.jpg?20251222)](https://osu.ppy.sh/community/forums/topics/2164221)
 
-[Various Artists - Ms. VICTORIA](https://osu.ppy.sh/beatmapsets/1935569#osu) by ::lushifer::{ user=13356408 }, [Akebana Yukio](https://osu.ppy.sh/users/9601687), ::Dada::{ user=9119507 }, [i love manosaba](https://osu.ppy.sh/users/7108275), and ::Mejiro McQueen::{ user=11555612 }\
+[Various Artists - Ms. VICTORIA](https://osu.ppy.sh/beatmapsets/1935569#osu) by ::lushifer::{ user=13356408 }, ::Akebana Yukio::{ user=9601687 }, ::Dada::{ user=9119507 }, ::i love manosaba::{ user=7108275 }, and ::Mejiro McQueen::{ user=11555612 }\
 196 BPM, 4:38 | 5.08★, 5.78★, 6.67★, 7.38★, 7.85★\
 *description written by ::BATBALL::{ user=15173952 }*
 
@@ -157,14 +157,14 @@ Be sure to drop a yes vote for more brilliant 4 pp plays!
 
 [![](/wiki/shared/news/2025-12-22-project-loved-december-2025/2135377.jpg?20251222)](https://osu.ppy.sh/community/forums/topics/2164224)
 
-[Project-G - Chronokinesia (Xykrome) (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2135377#osu) by ::nooj::{ user=8271086 } and [Feiri](https://osu.ppy.sh/users/3214844)\
+[Project-G - Chronokinesia (Xykrome) (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2135377#osu) by ::nooj::{ user=8271086 } and ::Feiri::{ user=3214844 }\
 176 BPM, 3:39 | 7.54★\
 The \[nooj x feiri Zhonya's Paradox\] difficulty is *not* being nominated for Loved.\
 *description written by ::BATBALL::{ user=15173952 }*
 
 Wowwww. Seems like ::chiv::{ user=6701656 } bummed out this month and forgot to nominate [Mahloola Regional Cup](https://osu.ppy.sh/community/forums/topics/1853003?n=1) customs. I guess I gotta get on the case... 🔍
 
-To start off our final round of *Wildcard* picks for the year, we have ::nooj::{ user=8271086 } and [Feiri](https://osu.ppy.sh/users/3214844)'s technical map opus on [Project-G - Chronokinesia (Xykrome) (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2135377#osu). This might be one of the most relenting tech maps you will ever play. Starting after just the one-minute mark, you do not get a single break until the map reaches its end two and a half minutes later. In combination with the stunning visuals the two mappers present, this beatmap is a must-play to any high-level tech players looking to grind out a consistency score.
+To start off our final round of *Wildcard* picks for the year, we have ::nooj::{ user=8271086 } and ::Feiri::{ user=3214844 }'s technical map opus on [Project-G - Chronokinesia (Xykrome) (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2135377#osu). This might be one of the most relenting tech maps you will ever play. Starting after just the one-minute mark, you do not get a single break until the map reaches its end two and a half minutes later. In combination with the stunning visuals the two mappers present, this beatmap is a must-play to any high-level tech players looking to grind out a consistency score.
 
 Do you think you have what it takes? Vote YES on this map's voting poll to find out...
 
@@ -182,7 +182,7 @@ Are you up for the challenge? Or is the "hour of truth" too much for you to hand
 
 [![](/wiki/shared/news/2025-12-22-project-loved-december-2025/1880627.jpg?20251222)](https://osu.ppy.sh/community/forums/topics/2164226)
 
-[Juggernaut. - Rebellion](https://osu.ppy.sh/beatmapsets/1880627#osu) by ::Altai::{ user=5745865 } and [Wispy](https://osu.ppy.sh/users/11106929)\
+[Juggernaut. - Rebellion](https://osu.ppy.sh/beatmapsets/1880627#osu) by ::Altai::{ user=5745865 } and ::Wispy::{ user=11106929 }\
 170 BPM, 2:42 | 6.48★, 7.12★\
 *description written by ::chiv::{ user=6701656 }*
 
@@ -194,7 +194,7 @@ Good luck, and vote yes!
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::chmekoe::{ user=7807444 }, [Horiiizon](https://osu.ppy.sh/users/8071438), ::K a y o k o::{ user=17664300 }, [nevqr](https://osu.ppy.sh/users/14269506), and ::Roxy-::{ user=11931563 }!
+The osu!taiko Loved candidates were chosen by ::chmekoe::{ user=7807444 }, ::Horiiizon::{ user=8071438 }, ::K a y o k o::{ user=17664300 }, ::nevqr::{ user=14269506 }, and ::Roxy-::{ user=11931563 }!
 
 **[Click here to download all of this round's osu!taiko picks!](https://packs.ppy.sh/LR71%20-%20Project%20Loved:%20December%202025%20(osu!taiko).zip)**
 
@@ -208,7 +208,7 @@ The osu!taiko Loved candidates were chosen by ::chmekoe::{ user=7807444 }, [Hori
 
 [![](/wiki/shared/news/2025-12-22-project-loved-december-2025/1978895.jpg?20251222)](https://osu.ppy.sh/community/forums/topics/2164204)
 
-[YOASOBI - Idol (Imaginary Reality Remix)](https://osu.ppy.sh/beatmapsets/1978895#taiko) by ::miyagishima::{ user=8027517 }, [-Koppe-](https://osu.ppy.sh/users/31770077), ::6\_4::{ user=28867143 }, [Eriha](https://osu.ppy.sh/users/16320311), ::Haypzeh::{ user=9950381 }, [hoku](https://osu.ppy.sh/users/9503098), ::kitafuma::{ user=8987606 }, [kiyozi11](https://osu.ppy.sh/users/9551196), ::Lefty3::{ user=4719175 }, [ler1211](https://osu.ppy.sh/users/19901680), ::makaki::{ user=21893710 }, [na7yuta\_osu](https://osu.ppy.sh/users/22747806), ::nananass::{ user=7231722 }, [stu00608](https://osu.ppy.sh/users/1977606), and ::supesan::{ user=14623658 }\
+[YOASOBI - Idol (Imaginary Reality Remix)](https://osu.ppy.sh/beatmapsets/1978895#taiko) by ::miyagishima::{ user=8027517 }, ::-Koppe-::{ user=31770077 }, ::6\_4::{ user=28867143 }, ::Eriha::{ user=16320311 }, ::Haypzeh::{ user=9950381 }, ::hoku::{ user=9503098 }, ::kitafuma::{ user=8987606 }, ::kiyozi11::{ user=9551196 }, ::Lefty3::{ user=4719175 }, ::ler1211::{ user=19901680 }, ::makaki::{ user=21893710 }, ::na7yuta\_osu::{ user=22747806 }, ::nananass::{ user=7231722 }, ::stu00608::{ user=1977606 }, and ::supesan::{ user=14623658 }\
 253 BPM, 2:10 | 6.47★ – 9.90★\
 *description written by ::K a y o k o::{ user=17664300 }*
 
@@ -244,13 +244,13 @@ This map is truly special, but I don't want to spoil everything. You should play
 
 [![](/wiki/shared/news/2025-12-22-project-loved-december-2025/1712580.jpg?20251222)](https://osu.ppy.sh/community/forums/topics/2164207)
 
-[xi - PEACE BREAKER](https://osu.ppy.sh/beatmapsets/1712580#taiko) by ::aHTaoN::{ user=4655546 } and [syaron105](https://osu.ppy.sh/users/8741695)\
+[xi - PEACE BREAKER](https://osu.ppy.sh/beatmapsets/1712580#taiko) by ::aHTaoN::{ user=4655546 } and ::syaron105::{ user=8741695 }\
 160 BPM, 5:36 | 8.43★, 10.25★\
 *description written by ::chmekoe::{ user=7807444 }*
 
 An unspoken Project Loved rule states that each month, at least one 9★ Japanese-style dump map has to be selected. December, of course, is no exception!
 
-This [xi - PEACE BREAKER](https://osu.ppy.sh/beatmapsets/1712580#taiko) set includes two very challenging, but also very distinct difficulties by ::aHTaonN::{ user=4655546 } and [syaron105](https://osu.ppy.sh/users/8741695), with both focusing on constant snapping changes and crazy bursts. While aHTaoN's difficulty's main challenge comes from mechanically demanding bursts and complicated colour changes, syaron105's difficulty goes beyond. It adds crazy snapping changes that will humble even the best tech players around.
+This [xi - PEACE BREAKER](https://osu.ppy.sh/beatmapsets/1712580#taiko) set includes two very challenging, but also very distinct difficulties by ::aHTaonN::{ user=4655546 } and ::syaron105::{ user=8741695 }, with both focusing on constant snapping changes and crazy bursts. While aHTaoN's difficulty's main challenge comes from mechanically demanding bursts and complicated colour changes, syaron105's difficulty goes beyond. It adds crazy snapping changes that will humble even the best tech players around.
 
 Vote "YES" if you want this monolith of a challenge to become Loved!
 
@@ -266,11 +266,11 @@ Give *Monchou* a try and see how your accuracy holds up!
 
 [![](/wiki/shared/news/2025-12-22-project-loved-december-2025/2163122.jpg?20251222)](https://osu.ppy.sh/community/forums/topics/2164209)
 
-[Tektheist - Pomegranate](https://osu.ppy.sh/beatmapsets/2163122#taiko) by ::SolaEclipse::{ user=6621158 }, [Backfire](https://osu.ppy.sh/users/263110), and ::Raphalge::{ user=3918650 }\
+[Tektheist - Pomegranate](https://osu.ppy.sh/beatmapsets/2163122#taiko) by ::SolaEclipse::{ user=6621158 }, ::Backfire::{ user=263110 }, and ::Raphalge::{ user=3918650 }\
 200 BPM, 5:10 | 8.16★\
 *description written by ::Horiiizon::{ user=8071438 }*
 
-Travelling back to [TWC 2024](/wiki/Tournaments/TWC/2024), we have [Tektheist - Pomegranate](https://osu.ppy.sh/beatmapsets/2163122#taiko/4561855) by ::SolaEclipse::{ user=6621158 }, [Backfire](https://osu.ppy.sh/users/263110) and ::Raphalge!::{ user=3918650 } Pomegranate was mapped for the [Taiko World Cup 2024 Finals tiebreaker](/wiki/Tournaments/TWC/2024#semifinals) and features not only 3 mappers, but a custom song by [Tektheist](https://soundcloud.com/tektheism)! With each mapper bringing unique ideas and various challenges to the map, this map will test you with 300 BPM speed sections, constant streams, tech sections and SV, with most of this occurring throughout the map at different BPMs due to the song's regular BPM changes between 150–300 BPM!
+Travelling back to [TWC 2024](/wiki/Tournaments/TWC/2024), we have [Tektheist - Pomegranate](https://osu.ppy.sh/beatmapsets/2163122#taiko/4561855) by ::SolaEclipse::{ user=6621158 }, ::Backfire::{ user=263110 } and ::Raphalge!::{ user=3918650 } Pomegranate was mapped for the [Taiko World Cup 2024 Finals tiebreaker](/wiki/Tournaments/TWC/2024#semifinals) and features not only 3 mappers, but a custom song by [Tektheist](https://soundcloud.com/tektheism)! With each mapper bringing unique ideas and various challenges to the map, this map will test you with 300 BPM speed sections, constant streams, tech sections and SV, with most of this occurring throughout the map at different BPMs due to the song's regular BPM changes between 150–300 BPM!
 
 Pomegranate is great fun and a challenge truly deserving of a late-stage tiebreaker. Try it out to test how well rounded your skills are, and remember to vote "Yes"!
 
@@ -342,7 +342,7 @@ As always, feel free to give the map a shot and turn up at the polls to vote. Me
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::Des9::{ user=5404711 }, [LaviSorrow](https://osu.ppy.sh/users/9966768), ::MILKAHOLIC::{ user=7620002 }, and [Realmaas](https://osu.ppy.sh/users/6567640)!
+The osu!catch Loved candidates were chosen by ::Des9::{ user=5404711 }, ::LaviSorrow::{ user=9966768 }, ::MILKAHOLIC::{ user=7620002 }, and ::Realmaas::{ user=6567640 }!
 
 **[Click here to download all of this round's osu!catch picks!](https://packs.ppy.sh/LR70%20-%20Project%20Loved:%20December%202025%20(osu!catch).zip)**
 
@@ -424,7 +424,7 @@ Clean patterns and with a-bit-unusual CS 4.4, this map is a nonstop for almost 6
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::Carpihat::{ user=10085090 }, [elexire](https://osu.ppy.sh/users/9206093), ::LivelyPeninsula::{ user=11517895 }, [Maxus](https://osu.ppy.sh/users/4335785), ::Paturages::{ user=1375479 }, [taba2](https://osu.ppy.sh/users/7850508), and ::Yuiesta::{ user=13953619 }!
+The osu!mania Loved candidates were chosen by ::Carpihat::{ user=10085090 }, ::elexire::{ user=9206093 }, ::LivelyPeninsula::{ user=11517895 }, ::Maxus::{ user=4335785 }, ::Paturages::{ user=1375479 }, ::taba2::{ user=7850508 }, and ::Yuiesta::{ user=13953619 }!
 
 **[Click here to download all of this round's osu!mania picks!](https://packs.ppy.sh/LR69%20-%20Project%20Loved:%20December%202025%20(osu!mania).zip)**
 

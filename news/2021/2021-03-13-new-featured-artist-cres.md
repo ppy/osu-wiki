@@ -15,7 +15,7 @@ This masterpiece was produced for 2006's *BMS OF FIGHTERS* event, and while it's
 
 We snagged **14** tracks from this producer paragon, *End Time* included of course.
 
-If you're one of the three osu! players who hasn't heard **Cres.** yet, worry not! ::zonelouise::{ user=1492995 } and [Aistre](https://osu.ppy.sh/users/4879380) are here to show off this electro-trance sensation, so check out the video (or any other previews) below:
+If you're one of the three osu! players who hasn't heard **Cres.** yet, worry not! ::zonelouise::{ user=1492995 } and ::Aistre::{ user=4879380 } are here to show off this electro-trance sensation, so check out the video (or any other previews) below:
 
 <div align="center">
     <video width="95%" controls>

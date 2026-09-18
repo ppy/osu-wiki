@@ -13,7 +13,7 @@ While the Qualifiers have been full of surprises, nobody could expect the many s
 
 On a side note, the [MWC 7K 2025 support banners](https://osu.ppy.sh/store/products/1415) went up for sale last week. For those who would wish to support their favourite team(s), now is the time to make it known on your profiles! Thanks to the community's support, we can enjoy a tournament packed full of surprises and enjoyment for players and spectators alike.
 
-For those who prefer enjoying the recap in a video format, ::SurfChu85::{ user=4469895 } and [yukina meng](https://osu.ppy.sh/users/9919550) have made that possible by providing you with a bite-sized version of the recap.
+For those who prefer enjoying the recap in a video format, ::SurfChu85::{ user=4469895 } and ::yukina meng::{ user=9919550 } have made that possible by providing you with a bite-sized version of the recap.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Jog3fCYr-XE" frameborder="0" allowfullscreen></iframe>

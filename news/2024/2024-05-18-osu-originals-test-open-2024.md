@@ -23,7 +23,7 @@ Test out these tunes for yourself:
     </video>
 </div>
 
-### [kanemiko - Twilight of the Abyss](https://osu.ppy.sh/beatmapsets/2170063) mapped by ::captin1::{ user=689997 }, [Aeril](https://osu.ppy.sh/users/4334976), and ::toybot::{ user=2848604 }
+### [kanemiko - Twilight of the Abyss](https://osu.ppy.sh/beatmapsets/2170063) mapped by ::captin1::{ user=689997 }, ::Aeril::{ user=4334976 }, and ::toybot::{ user=2848604 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/420/TEST%20Originals/kanemiko%20-%20Twilight%20of%20the%20Abyss.mp3">
@@ -35,7 +35,7 @@ Test out these tunes for yourself:
     <source src="https://assets.ppy.sh/artists/420/TEST%20Originals/Aethral%20-%20Phoenix.mp3">
 </audio>
 
-### [Aethral - Cyber Surge](https://osu.ppy.sh/beatmapsets/2177377) mapped by ::Creepattack::{ user=12626424 } and [Cocoyu](https://osu.ppy.sh/users/20101640)
+### [Aethral - Cyber Surge](https://osu.ppy.sh/beatmapsets/2177377) mapped by ::Creepattack::{ user=12626424 } and ::Cocoyu::{ user=20101640 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/420/TEST%20Originals/Aethral%20-%20Cyber%20Surge.mp3">
@@ -47,7 +47,7 @@ Test out these tunes for yourself:
     <source src="https://assets.ppy.sh/artists/420/TEST%20Originals/Kou!%20-%20RE_generatefractal.mp3">
 </audio>
 
-### [Kou! - Fermion Amplification](https://osu.ppy.sh/beatmapsets/2180934) mapped by ::Tycani::{ user=6693266 } and [play rainworld](https://osu.ppy.sh/users/6496950)
+### [Kou! - Fermion Amplification](https://osu.ppy.sh/beatmapsets/2180934) mapped by ::Tycani::{ user=6693266 } and ::play rainworld::{ user=6496950 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/420/TEST%20Originals/Kou!%20-%20Fermion%20Amplification.mp3">

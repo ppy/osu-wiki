@@ -39,7 +39,7 @@ Or play [this osu!mania mapset](https://osu.ppy.sh/beatmapsets/354157) by ::Crit
 
 ### XIII Charlotte
 
-Try out [this osu!mania mapset](https://osu.ppy.sh/beatmapsets/1366994) by ::FAMoss::{ user=7707789 }! If you're more of a fruit person, [this osu!catch mapset](https://osu.ppy.sh/beatmapsets/1400205) by ::Du5t::{ user=6053071 } and [Nelly](https://osu.ppy.sh/users/4741164) may be a healthier choice.
+Try out [this osu!mania mapset](https://osu.ppy.sh/beatmapsets/1366994) by ::FAMoss::{ user=7707789 }! If you're more of a fruit person, [this osu!catch mapset](https://osu.ppy.sh/beatmapsets/1400205) by ::Du5t::{ user=6053071 } and ::Nelly::{ user=4741164 } may be a healthier choice.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/161/Songs/m108%20-%20XIII%20Charlotte.mp3" type="audio/mpeg">

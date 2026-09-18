@@ -62,7 +62,7 @@ Of course, we were not able to cover everything from the patch notes, so if you 
 
 ![](/wiki/shared/news/2022-11-01-osumonthly-4/egts22banner.jpg)
 
-If you haven't already heard, [EGTS](https://osu.ppy.sh/community/forums/topics/1612291?n=1) is an osu!taiko tournament hosted by ::\1yosh::{ user=7157133 }, [TaikoMom](https://osu.ppy.sh/users/9086438), ::Briesmas::{ user=2865172 }, and [Kasumi-sama](https://osu.ppy.sh/users/6177263). It is considered to be the host to some of the highest level of tournament play in osu!taiko, featuring fully custom songs throughout the mappool and a fully custom pool of charts. Speaking of custom songs, the [Grand Finals tiebreaker](https://osu.ppy.sh/beatmapsets/1859338#taiko/3822143) for the tournament is an amazing collaboration featuring help from all corners of the osu!taiko community with 10 artists, 22 mappers, and many others.
+If you haven't already heard, [EGTS](https://osu.ppy.sh/community/forums/topics/1612291?n=1) is an osu!taiko tournament hosted by ::\1yosh::{ user=7157133 }, ::TaikoMom::{ user=9086438 }, ::Briesmas::{ user=2865172 }, and ::Kasumi-sama::{ user=6177263 }. It is considered to be the host to some of the highest level of tournament play in osu!taiko, featuring fully custom songs throughout the mappool and a fully custom pool of charts. Speaking of custom songs, the [Grand Finals tiebreaker](https://osu.ppy.sh/beatmapsets/1859338#taiko/3822143) for the tournament is an amazing collaboration featuring help from all corners of the osu!taiko community with 10 artists, 22 mappers, and many others.
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/UjXu3o0SW5Q" frameborder="0" allowfullscreen></iframe>
 
@@ -84,9 +84,9 @@ If you missed the top player interviews, don't worry, the [replays](https://www.
 
 ![](/wiki/shared/news/2022-11-01-osumonthly-4/dreamjam-banner.jpg)
 
-[DreamJam](https://osu.ppy.sh/community/forums/topics/1649330?n=1) is an offline osu! meetup & tournament in Singapore, hosted by ::megumic::{ user=7537133 } and [_gt](https://osu.ppy.sh/users/8301957). The event welcomed more than 90 attendees in the Dreamcore Showroom, making it the largest osu! meetup to date in Singapore.
+[DreamJam](https://osu.ppy.sh/community/forums/topics/1649330?n=1) is an offline osu! meetup & tournament in Singapore, hosted by ::megumic::{ user=7537133 } and ::\1gt::{ user=8301957 }. The event welcomed more than 90 attendees in the Dreamcore Showroom, making it the largest osu! meetup to date in Singapore.
 
-The event featured a Tandem King of the Hill Tournament, with the fun and challenging concept of having one person control the keyboard while the other controls the mouse or tablet. The highlight of the event, however, was a Battle Royale featuring Singapore's osu! World Cup roster, including top Singaporean players such as ::GSBlank::{ user=2312106 }, [Eagle5324](https://osu.ppy.sh/users/11987104) and the eventual champion, ::Demonical::{ user=5447609 }.
+The event featured a Tandem King of the Hill Tournament, with the fun and challenging concept of having one person control the keyboard while the other controls the mouse or tablet. The highlight of the event, however, was a Battle Royale featuring Singapore's osu! World Cup roster, including top Singaporean players such as ::GSBlank::{ user=2312106 }, ::Eagle5324::{ user=11987104 } and the eventual champion, ::Demonical::{ user=5447609 }.
 
 <div align="center">
     <video width="100%" controls>

@@ -22,7 +22,7 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ## osu!
 
-osu! Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, [-Roxas](https://osu.ppy.sh/users/1986262), ::BeasttrollMC::{ user=3171691 }, [Bubbleman](https://osu.ppy.sh/users/5182050), ::fartownik::{ user=56917 } and [waywern2012](https://osu.ppy.sh/users/5870453)!
+osu! Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, ::-Roxas::{ user=1986262 }, ::BeasttrollMC::{ user=3171691 }, ::Bubbleman::{ user=5182050 }, ::fartownik::{ user=56917 } and ::waywern2012::{ user=5870453 }!
 
 ---
 
@@ -60,7 +60,7 @@ Midge is a mapper that "specializes" in mapping for the Graveyard section, curre
 
 [![](/wiki/shared/news/2019-05-21-project-loved-week-of-may-19th/osu/5-the-world-revolving.jpg)](https://osu.ppy.sh/community/forums/topics/910871)
 
-[Toby Fox - THE WORLD REVOLVING](https://osu.ppy.sh/beatmapsets/873084#osu) by ::Ancelysia::{ user=7118575 } and [Vulkin](https://osu.ppy.sh/users/4901066)\
+[Toby Fox - THE WORLD REVOLVING](https://osu.ppy.sh/beatmapsets/873084#osu) by ::Ancelysia::{ user=7118575 } and ::Vulkin::{ user=4901066 }\
 190 BPM, 1:42 | 6.67★\
 *description written by ::BeasttrollMC::{ user=3171691 }*
 
@@ -76,7 +76,7 @@ It's hard to resist this absolute BANGER of a song, but then again, it's also ha
 
 [![](/wiki/shared/news/2019-05-21-project-loved-week-of-may-19th/osu/7-when-my-devil-rises.jpg)](https://osu.ppy.sh/community/forums/topics/910869)
 
-[MAN WITH A MISSION - When My Devil Rises](https://osu.ppy.sh/beatmapsets/288752#osu) by ::NyaKame::{ user=2026980 } and [My Angel United](https://osu.ppy.sh/users/2518619)\
+[MAN WITH A MISSION - When My Devil Rises](https://osu.ppy.sh/beatmapsets/288752#osu) by ::NyaKame::{ user=2026980 } and ::My Angel United::{ user=2518619 }\
 214 BPM, 4:13 | 6.69★, 6.75★, 6.83★\
 *description written by ::DigitalHypno::{ user=4384207 }*
 
@@ -108,7 +108,7 @@ Now this is a collab with many well known mappers in it, and the set creator is 
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [iceOC](https://osu.ppy.sh/users/5482401), ::jyake::{ user=9099822 } and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
+osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::iceOC::{ user=5482401 }, ::jyake::{ user=9099822 } and ::nyanmi-1828::{ user=6866480 }!
 
 ---
 
@@ -148,7 +148,7 @@ It's TWC season! eae managed to map this very relaxing song with dense patterns 
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, [Tenshichan](https://osu.ppy.sh/users/1101600), ::Wesley::{ user=2407265 } and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
+osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, ::Tenshichan::{ user=1101600 }, ::Wesley::{ user=2407265 } and ::Yumeno Himiko::{ user=1806962 }!
 
 ---
 
@@ -170,7 +170,7 @@ Vincs is certainly not an unknown entity when it comes to the Loved section, as 
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::Shoegazer::{ user=2520707 }, [Lenfried-](https://osu.ppy.sh/users/5314573), ::Pope Gadget::{ user=2288341 } and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
+osu!mania Loved candidates were chosen by ::Shoegazer::{ user=2520707 }, ::Lenfried-::{ user=5314573 }, ::Pope Gadget::{ user=2288341 } and ::Toaph Daddy::{ user=7616811 }!
 
 ---
 
@@ -190,7 +190,7 @@ Joining in on the trend of insanely difficult and popular LN maps to be nominate
 
 [![](/wiki/shared/news/2019-05-21-project-loved-week-of-may-19th/mania/3-endymion.jpg)](https://osu.ppy.sh/community/forums/topics/910854)
 
-[fallen shepherd feat. RabbiTon Strings - ENDYMION](https://osu.ppy.sh/beatmapsets/684675#mania) by ::Halogen-::{ user=169992 } and [Kamikaze](https://osu.ppy.sh/users/2124783)\
+[fallen shepherd feat. RabbiTon Strings - ENDYMION](https://osu.ppy.sh/beatmapsets/684675#mania) by ::Halogen-::{ user=169992 } and ::Kamikaze::{ user=2124783 }\
 220 BPM, 1:59 | \[4K\] 1.35★, \[4K\] 3.56★, \[4K\] 4.09★, \[4K\] 5.44★
 
 DanceDanceRevolution A's ENDYMION is notorious for having the hardest official singles chart in all of DDR, and, in the realm of osu!mania, having a difficult chart that has accumulated both notoriety and admiration over the years.
@@ -221,7 +221,7 @@ After the break, the player faces LN densities in their full form. Going borderl
 
 From everyone on the Project Loved team, we hope you enjoyed this week's selection, and are looking forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
-In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Toy::{ user=2757689 }, [Noffy](https://osu.ppy.sh/users/1541323), ::ThatsNotAName::{ user=9682904 }, [huu](https://osu.ppy.sh/users/6044237) and ::Ephemeral::{ user=102335 } for their miscellaneous help in managing Project Loved.
+In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Toy::{ user=2757689 }, ::Noffy::{ user=1541323 }, ::ThatsNotAName::{ user=9682904 }, ::huu::{ user=6044237 } and ::Ephemeral::{ user=102335 } for their miscellaneous help in managing Project Loved.
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! You can view the current submissions on the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0). For osu!mania, please use [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSeaGfoQNGMqw4qQcqRPItUZILh2fGwJR6ly6cZNY9OWPXkFhw/viewform) and [this Google sheet](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit) instead.
 

@@ -15,7 +15,7 @@ This year, the mappooling team has opted to slightly modify the mappool format. 
 
 With the introduction out of the way, let us get into the nitty-gritty of this year's Qualifier pool! Stay tuned, as later on we'll get to chat with several members from the mappooling team.
 
-If you're new to the series, fret not! ::SurfChu85::{ user=4469895 } and [yukina meng](https://osu.ppy.sh/users/9919550) got you covered with the mappool's basics.
+If you're new to the series, fret not! ::SurfChu85::{ user=4469895 } and ::yukina meng::{ user=9919550 } got you covered with the mappool's basics.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/wZdL4pTQA6A" frameborder="0" allowfullscreen></iframe>
@@ -84,7 +84,7 @@ Other than that, we're very happy to see new countries like ::{ flag=PK }:: Paki
     }
 </style>
 
-Players and spectators alike only get to experience the results of the mappooling team's hard work. But more often than not, they're unaware of the process and the challenges that come with it. Keeping up with players' expectations is no easy feat after all. Therefore, we'd like to have a chat with three members of the pooling team, each responsible for one piece of the puzzle. As such, let us introduce ::\1Kobii::{ user=6209713 }, [ExNeko](https://osu.ppy.sh/users/7590894), and ::cheewee10::{ user=4477497 } to lecture us on the herculean task of pooling for MWC 7K!
+Players and spectators alike only get to experience the results of the mappooling team's hard work. But more often than not, they're unaware of the process and the challenges that come with it. Keeping up with players' expectations is no easy feat after all. Therefore, we'd like to have a chat with three members of the pooling team, each responsible for one piece of the puzzle. As such, let us introduce ::\1Kobii::{ user=6209713 }, ::ExNeko::{ user=7590894 }, and ::cheewee10::{ user=4477497 } to lecture us on the herculean task of pooling for MWC 7K!
 
 ![](/wiki/shared/news/2025-01-17-osumania-7k-world-cup-2025-qualifiers-recap/Kobii.png)
 

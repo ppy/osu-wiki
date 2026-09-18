@@ -62,7 +62,7 @@ When you do play this, make sure to turn the storyboard on to see the duck spin 
 
 **[Early Eyes - Marigolds [Sunbathing]](https://osu.ppy.sh/beatmapsets/1638064#osu/3343502)**, mapped by ::wafer::{ user=9416836 }\
 *primarily suggested by ::Omgforz::{ user=578943 }*\
-*described by ::enri::{ user=8640970 } and [Nowaie](https://osu.ppy.sh/users/5428909)*
+*described by ::enri::{ user=8640970 } and ::Nowaie::{ user=5428909 }*
 
 If you wanna sunbathe in the dreamy atmosphere of indie pop, we've got just the thing for you!
 
@@ -92,7 +92,7 @@ Known primarily for the variety present in the top difficulties, this map also i
 
 ![](/wiki/shared/news/2023-04-19-beatmap-spotlights-season-9-spring-2023-nostalgia/1828466.jpg)
 
-**[KAF x Hakushi Hasegawa - TSUBOMI ni KAMINARI [withered petals, blooming ink]](https://osu.ppy.sh/beatmapsets/1828466#taiko/3752713)**, mapped by ::\1Zeth\1::{ user=9912966 }, [cdh](https://osu.ppy.sh/users/2403621), and ::MTNTWarz::{ user=14036825 }\
+**[KAF x Hakushi Hasegawa - TSUBOMI ni KAMINARI [withered petals, blooming ink]](https://osu.ppy.sh/beatmapsets/1828466#taiko/3752713)**, mapped by ::\1Zeth\1::{ user=9912966 }, ::cdh::{ user=2403621 }, and ::MTNTWarz::{ user=14036825 }\
 *primarily suggested by ::Hivie::{ user=14102976 }*\
 *described by ::Nifty::{ user=4956097 }*
 
@@ -190,16 +190,16 @@ We will also say farewell to some, so let's thank them for their long-lasting ef
 
 **Curator additions:**
 
-- **osu!**: ::enri::{ user=8640970 }, [Kingling](https://osu.ppy.sh/users/7010761), ::KnightC0re::{ user=7894340 }, [piroshki](https://osu.ppy.sh/users/7645522), ::rHO::{ user=1629553 }
-- **osu!taiko**: ::Boaz::{ user=13302996 }, [Maimaing](https://osu.ppy.sh/users/14520910), ::meiqth::{ user=12565402 }
-- **osu!catch**: ::M0RU::{ user=13681464 }, [Phob](https://osu.ppy.sh/users/6069462)
-- **osu!mania**: ::AWMRone::{ user=10351684 }, [Ilham](https://osu.ppy.sh/users/3057154), ::Seulgi::{ user=4918394 }, [YuEast 2018](https://osu.ppy.sh/users/13953619)
+- **osu!**: ::enri::{ user=8640970 }, ::Kingling::{ user=7010761 }, ::KnightC0re::{ user=7894340 }, ::piroshki::{ user=7645522 }, ::rHO::{ user=1629553 }
+- **osu!taiko**: ::Boaz::{ user=13302996 }, ::Maimaing::{ user=14520910 }, ::meiqth::{ user=12565402 }
+- **osu!catch**: ::M0RU::{ user=13681464 }, ::Phob::{ user=6069462 }
+- **osu!mania**: ::AWMRone::{ user=10351684 }, ::Ilham::{ user=3057154 }, ::Seulgi::{ user=4918394 }, ::YuEast 2018::{ user=13953619 }
 
 **Curator resignations:**
 
 - **osu!**: ::Omgforz::{ user=578943 }
 - **osu!taiko**: ::\1Zeth\1::{ user=9912966 }
-- **osu!mania**: ::Kibitz::{ user=7418493 }, [lenpai](https://osu.ppy.sh/users/5314573)
+- **osu!mania**: ::Kibitz::{ user=7418493 }, ::lenpai::{ user=5314573 }
 
 For the full Spotlights Team members list, check out the [Beatmap Spotlight Curators wiki article](/wiki/People/The_Team/Beatmap_Spotlight_Curators).
 

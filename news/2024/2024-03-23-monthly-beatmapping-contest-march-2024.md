@@ -40,7 +40,7 @@ Navigate to whatever interests you:
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/_f_F7jG269o" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Special thanks to ::Yasuho::{ user=8458835 }, [arcpotato](https://osu.ppy.sh/users/12842392), ::meiqth::{ user=12565402 }, and [Raphalge](https://osu.ppy.sh/users/3918650) for judging this contest!
+Special thanks to ::Yasuho::{ user=8458835 }, ::arcpotato::{ user=12842392 }, ::meiqth::{ user=12565402 }, and ::Raphalge::{ user=3918650 } for judging this contest!
 
 ### osu!catch results
 
@@ -60,7 +60,7 @@ Special thanks to ::Yasuho::{ user=8458835 }, [arcpotato](https://osu.ppy.sh/use
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/YCL_kBJVKL8" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Another special thanks to ::wwwww::{ user=8434466 }, [Chatie](https://osu.ppy.sh/users/6524765), ::GiGas::{ user=7300747 }, and [Dapulezatos](https://osu.ppy.sh/users/8140944) for judging this contest!
+Another special thanks to ::wwwww::{ user=8434466 }, ::Chatie::{ user=6524765 }, ::GiGas::{ user=7300747 }, and ::Dapulezatos::{ user=8140944 } for judging this contest!
 
 ---
 

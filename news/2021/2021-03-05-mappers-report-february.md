@@ -47,7 +47,7 @@ Here's a list of the recent additions and departures from the Beatmap Nominators
 
 ### BN Additions
 
-- **osu!:** ::Smoke::{ user=10726630 }, [NeKroMan4ik](https://osu.ppy.sh/users/11387664), ::Battle::{ user=4037545 }, [Mir](https://osu.ppy.sh/users/8688812) & ::Lasse::{ user=896613 }
+- **osu!:** ::Smoke::{ user=10726630 }, ::NeKroMan4ik::{ user=11387664 }, ::Battle::{ user=4037545 }, ::Mir::{ user=8688812 } & ::Lasse::{ user=896613 }
 - **osu!taiko:** ::Yasuho::{ user=8458835 }
 - **osu!catch:** ::Xinely::{ user=1521445 }
 
@@ -72,7 +72,7 @@ Thank you for all the hard work!
 
 Welcome to the 3rd cycle of the Mappers' Showcase, where we aim to show you the secret gems that are criminally underrated mappers hiding away in the community at large. This week is all about osu!, so let's get cracking:
 
-A lot of thanks to this months' selectors ::Morrighan::{ user=12042090 } and [TheKingHenry](https://osu.ppy.sh/users/5128277).
+A lot of thanks to this months' selectors ::Morrighan::{ user=12042090 } and ::TheKingHenry::{ user=5128277 }.
 
 ### Val
 

@@ -238,7 +238,7 @@ Here's a few highlights of their work:
 
 ---
 
-A big thank you to ::Noffy::{ user=1541323 }, [pishifat](https://osu.ppy.sh/users/3178418), ::-Mo-::{ user=2202163 } and much of the NAT as a whole for their help in compiling, composing videos, selecting and writing most of the Elite section here.
+A big thank you to ::Noffy::{ user=1541323 }, ::pishifat::{ user=3178418 }, ::-Mo-::{ user=2202163 } and much of the NAT as a whole for their help in compiling, composing videos, selecting and writing most of the Elite section here.
 
 2020 was a tumultuous year for many, but with it has come some of the sharpest increases in osu!'s growth that we have ever seen in over a decade. Accordingly, this list is nowhere near exhaustive in giving gratitude to those who help make the community a better place, and we know there are dozens more people waiting in the wings for their moment in the spotlight.
 

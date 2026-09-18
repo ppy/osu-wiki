@@ -41,7 +41,7 @@ Enough yapping for now, let's go through this month's picks:
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::bailie::{ user=7537133 }, [BATBALL](https://osu.ppy.sh/users/15173952), ::chiv::{ user=6701656 }, [Mismagius](https://osu.ppy.sh/users/19048), ::momoyo::{ user=12469536 }, and [Plasma](https://osu.ppy.sh/users/10077431)!
+The osu! Loved candidates were chosen by ::bailie::{ user=7537133 }, ::BATBALL::{ user=15173952 }, ::chiv::{ user=6701656 }, ::Mismagius::{ user=19048 }, ::momoyo::{ user=12469536 }, and ::Plasma::{ user=10077431 }!
 
 **[Click here to download all of this round's osu! picks!](https://packs.ppy.sh/LR48%20-%20Project%20Loved:%20June%202025%20(osu!).zip)**
 
@@ -101,26 +101,26 @@ To me, this map is very fun and the song is a hood classic, thus it deserves to 
 
 [![](/wiki/shared/news/2025-06-15-project-loved-june-2025/137320.jpg)](https://osu.ppy.sh/community/forums/topics/2092760)
 
-[paraoka - secret garden](https://osu.ppy.sh/beatmapsets/137320#osu) by ::terametis::{ user=102152 }, [alacat](https://osu.ppy.sh/users/869782), ::Gamu::{ user=611174 }, [Guy](https://osu.ppy.sh/users/91738), ::Laurier::{ user=700010 }, [NewRulerNA](https://osu.ppy.sh/users/605540), ::Patchouli::{ user=137168 }, [Quilt](https://osu.ppy.sh/users/352740), ::Satellite::{ user=1661227 }, and [wring](https://osu.ppy.sh/users/275300)\
+[paraoka - secret garden](https://osu.ppy.sh/beatmapsets/137320#osu) by ::terametis::{ user=102152 }, ::alacat::{ user=869782 }, ::Gamu::{ user=611174 }, ::Guy::{ user=91738 }, ::Laurier::{ user=700010 }, ::NewRulerNA::{ user=605540 }, ::Patchouli::{ user=137168 }, ::Quilt::{ user=352740 }, ::Satellite::{ user=1661227 }, and ::wring::{ user=275300 }\
 171.1 BPM, 5:54 | 5.53★\
 *description written by ::momoyo::{ user=12469536 }*
 
 A long time ago, the community was very united by the use of the osu! forums...
 
-This set is a result of that, a huge collab between iconic Japanese mappers starring ::terametis::{ user=102152 }, [alacat](https://osu.ppy.sh/users/869782), ::Gamu::{ user=611174 }, [Guy](https://osu.ppy.sh/users/91738), ::Laurier::{ user=700010 }, [NewRulerNA](https://osu.ppy.sh/users/605540), ::Patchouli::{ user=137168 }, [Quilt](https://osu.ppy.sh/users/352740), ::Satellite::{ user=1661227 } and [wring](https://osu.ppy.sh/users/275300)!
+This set is a result of that, a huge collab between iconic Japanese mappers starring ::terametis::{ user=102152 }, ::alacat::{ user=869782 }, ::Gamu::{ user=611174 }, ::Guy::{ user=91738 }, ::Laurier::{ user=700010 }, ::NewRulerNA::{ user=605540 }, ::Patchouli::{ user=137168 }, ::Quilt::{ user=352740 }, ::Satellite::{ user=1661227 } and ::wring::{ user=275300 }!
 
 Nowadays, seeing mappers of the same country make a collab like this is very rare, but 10+ years ago it was more common.\
 Now, talking about this map, it is a very simple old anime-style map, mostly with sharp flows and simplistic rhythms, yet it's very enjoyable. It truly reminds me of that one map that got hvick225 #1 back in 2014.
 
 [![](/wiki/shared/news/2025-06-15-project-loved-june-2025/2196123.jpg)](https://osu.ppy.sh/community/forums/topics/2092759)
 
-[hasu - Pile Of Corpses](https://osu.ppy.sh/beatmapsets/2196123#osu) by ::bad boy::{ user=3545323 } and [melonboy](https://osu.ppy.sh/users/3053382)\
+[hasu - Pile Of Corpses](https://osu.ppy.sh/beatmapsets/2196123#osu) by ::bad boy::{ user=3545323 } and ::melonboy::{ user=3053382 }\
 220 BPM, 3:12 | 6.69★, 7.90★\
 *description written by ::chiv::{ user=6701656 }*
 
 It's a beautiful start to June! The sun is shining, the birds are chirping, and yet another DEMONIC AIM MAP rises from the ashes for this week's Daredevil Difficulties.
 
-Back from [last year's 4WC](/wiki/Tournaments/4WC/2024), legendary aim mappers ::bad boy::{ user=3545323 } and [melonboy](https://osu.ppy.sh/users/3053382) reunite to bring you [hasu - Pile of Corpses](https://osu.ppy.sh/beatmapsets/2196123#osu/4647035). This pick is a true NM1 gauntlet, featuring relentless 220 BPM aim patterns that only the most skilled can handle with ease. Hopefully you guys can add this to your weekly nomod aim routine: 30 sets of [JTB crazy night](https://osu.ppy.sh/beatmapsets/1359228#osu/2812690), 20 retries on [kigurumi](https://osu.ppy.sh/beatmapsets/1315615#osu/2726346), an hour of pile of corpses and you'll be setting 500s in no time.
+Back from [last year's 4WC](/wiki/Tournaments/4WC/2024), legendary aim mappers ::bad boy::{ user=3545323 } and ::melonboy::{ user=3053382 } reunite to bring you [hasu - Pile of Corpses](https://osu.ppy.sh/beatmapsets/2196123#osu/4647035). This pick is a true NM1 gauntlet, featuring relentless 220 BPM aim patterns that only the most skilled can handle with ease. Hopefully you guys can add this to your weekly nomod aim routine: 30 sets of [JTB crazy night](https://osu.ppy.sh/beatmapsets/1359228#osu/2812690), 20 retries on [kigurumi](https://osu.ppy.sh/beatmapsets/1315615#osu/2726346), an hour of pile of corpses and you'll be setting 500s in no time.
 
 Give it a shot and vote yes!
 
@@ -205,7 +205,7 @@ As this month's final Wildcard pick, I hope you'll give this one a try.
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::\_gt::{ user=8301957 }, [Boaz](https://osu.ppy.sh/users/13302996), ::Gamelan4::{ user=9856910 }, [Horiiizon](https://osu.ppy.sh/users/8071438), ::K a y o k o::{ user=17664300 }, and [nevqr](https://osu.ppy.sh/users/14269506)!
+The osu!taiko Loved candidates were chosen by ::\_gt::{ user=8301957 }, ::Boaz::{ user=13302996 }, ::Gamelan4::{ user=9856910 }, ::Horiiizon::{ user=8071438 }, ::K a y o k o::{ user=17664300 }, and ::nevqr::{ user=14269506 }!
 
 **[Click here to download all of this round's osu!taiko picks!](https://packs.ppy.sh/LR47%20-%20Project%20Loved:%20June%202025%20(osu!taiko).zip)**
 
@@ -219,7 +219,7 @@ The osu!taiko Loved candidates were chosen by ::\_gt::{ user=8301957 }, [Boaz](h
 
 [![](/wiki/shared/news/2025-06-15-project-loved-june-2025/1505303.jpg)](https://osu.ppy.sh/community/forums/topics/2092752)
 
-[El Alfa "El Jefe" x CJ x El Cherry Scom - La Mama de la Mama](https://osu.ppy.sh/beatmapsets/1505303#taiko) by ::T w i g::{ user=15776151 } and [giyokon](https://osu.ppy.sh/users/10852632)\
+[El Alfa "El Jefe" x CJ x El Cherry Scom - La Mama de la Mama](https://osu.ppy.sh/beatmapsets/1505303#taiko) by ::T w i g::{ user=15776151 } and ::giyokon::{ user=10852632 }\
 130 BPM, 3:31 | 7.74★\
 *description written by ::Gamelan4::{ user=9856910 }*
 
@@ -251,7 +251,7 @@ Are you ready to confront this tech monster? Make sure to vote on the ongoing po
 
 [![](/wiki/shared/news/2025-06-15-project-loved-june-2025/2176545.jpg)](https://osu.ppy.sh/community/forums/topics/2092749)
 
-[Iyowa feat. Adachi Rei - Heat abnormal](https://osu.ppy.sh/beatmapsets/2176545#taiko) by ::Z419::{ user=9912966 }, [\_gt](https://osu.ppy.sh/users/8301957), ::Daanny::{ user=7183087 }, [Ikakun4](https://osu.ppy.sh/users/11293254), ::Raphalge::{ user=3918650 }, [Shamirin_mzk](https://osu.ppy.sh/users/11325757), and ::vzlen::{ user=22676825 }\
+[Iyowa feat. Adachi Rei - Heat abnormal](https://osu.ppy.sh/beatmapsets/2176545#taiko) by ::Z419::{ user=9912966 }, ::\_gt::{ user=8301957 }, ::Daanny::{ user=7183087 }, ::Ikakun4::{ user=11293254 }, ::Raphalge::{ user=3918650 }, ::Shamirin\1mzk::{ user=11325757 }, and ::vzlen::{ user=22676825 }\
 183 BPM, 3:58 | 5.46★ – 11.81★\
 *description written by ::nevqr::{ user=14269506 }*
 
@@ -269,9 +269,9 @@ Is it getting hot in here, or is it just me?
 
 **Begin mission KELT-9b.**
 
-[Heat abnormal](https://osu.ppy.sh/beatmapsets/2176545#taiko/5142071) is a vocaloid megaset featuring a crew of 7 astronauts from across the globe. Seasoned spacemen like ::Z419::{ user=9912966 }, [\_gt](https://osu.ppy.sh/users/8301957), and ::Raphalge::{ user=3918650 } need no introduction, but even a few fresh cadets have found their way on the mission too!
+[Heat abnormal](https://osu.ppy.sh/beatmapsets/2176545#taiko/5142071) is a vocaloid megaset featuring a crew of 7 astronauts from across the globe. Seasoned spacemen like ::Z419::{ user=9912966 }, ::\_gt::{ user=8301957 }, and ::Raphalge::{ user=3918650 } need no introduction, but even a few fresh cadets have found their way on the mission too!
 
-Introducing ::Daanny::{ user=7183087 } — a renowned scientist known for isolating a heat anomaly of about 4050±180 Kelvin, an academic feat that even future generations will learn about. Next up is ::vzlen::{ user=22676825 }, a prominent scholar, who secured his seat by demonstrating absolute expertise in astronomy, publishing numerous theses surrounding exoplanets and space objects. And lastly, the Japanese duo, ::Ikakun4::{ user=11293254 } and [Shamirin_mzk](https://osu.ppy.sh/users/11325757). Through Shamirin's countless explanatory monologues, Ikakun managed to cut the travel time in half, securing the flight's ability to return to planet Earth.
+Introducing ::Daanny::{ user=7183087 } — a renowned scientist known for isolating a heat anomaly of about 4050±180 Kelvin, an academic feat that even future generations will learn about. Next up is ::vzlen::{ user=22676825 }, a prominent scholar, who secured his seat by demonstrating absolute expertise in astronomy, publishing numerous theses surrounding exoplanets and space objects. And lastly, the Japanese duo, ::Ikakun4::{ user=11293254 } and ::Shamirin\1mzk::{ user=11325757 }. Through Shamirin's countless explanatory monologues, Ikakun managed to cut the travel time in half, securing the flight's ability to return to planet Earth.
 
 The main goal of the mission is to reach the newly found exoplanet KELT-9b, although you're going to be the one who chooses the difficulty. 5.47★? 7.13★? 8.82★? 11.83★?! It's all up to you! Brace yourself for all sorts of challenges such as traversing through gimmicky galaxies, holding your consistency on various constellations, and dashing through dark matter at double the speed.
 
@@ -279,7 +279,7 @@ The future is in your hands. Vote.
 
 [![](/wiki/shared/news/2025-06-15-project-loved-june-2025/2277268.jpg)](https://osu.ppy.sh/community/forums/topics/2092748)
 
-[Hiiragi Magnetite - TETORIS](https://osu.ppy.sh/beatmapsets/2277268#taiko) by ::layxa::{ user=14800030 } and [Waribashi](https://osu.ppy.sh/users/2250574)\
+[Hiiragi Magnetite - TETORIS](https://osu.ppy.sh/beatmapsets/2277268#taiko) by ::layxa::{ user=14800030 } and ::Waribashi::{ user=2250574 }\
 170 BPM, 2:20 | 5.67★, 6.76★, 8.14★, 9.79★\
 *description written by ::nevqr::{ user=14269506 }*
 
@@ -364,7 +364,7 @@ Enjoy!
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::LaviSorrow::{ user=9966768 }, [Phob](https://osu.ppy.sh/users/6069462), and ::Realmaas::{ user=6567640 }!
+The osu!catch Loved candidates were chosen by ::LaviSorrow::{ user=9966768 }, ::Phob::{ user=6069462 }, and ::Realmaas::{ user=6567640 }!
 
 **[Click here to download all of this round's osu!catch picks!](https://packs.ppy.sh/LR46%20-%20Project%20Loved:%20June%202025%20(osu!catch).zip)**
 
@@ -390,7 +390,7 @@ Will you be able to tame this beast of a map?
 
 [![](/wiki/shared/news/2025-06-15-project-loved-june-2025/951270.jpg)](https://osu.ppy.sh/community/forums/topics/2092742)
 
-[Duck Duck Pony - Shinsetsu](https://osu.ppy.sh/beatmapsets/951270#fruits) by ::wonjae::{ user=5032045 }, [Absolute Zero](https://osu.ppy.sh/users/4847256), ::Cielbami::{ user=4138746 }, [JBHyperion](https://osu.ppy.sh/users/4879508), ::Jemzuu::{ user=7890134 }, and [Liyac](https://osu.ppy.sh/users/4994598)\
+[Duck Duck Pony - Shinsetsu](https://osu.ppy.sh/beatmapsets/951270#fruits) by ::wonjae::{ user=5032045 }, ::Absolute Zero::{ user=4847256 }, ::Cielbami::{ user=4138746 }, ::JBHyperion::{ user=4879508 }, ::Jemzuu::{ user=7890134 }, and ::Liyac::{ user=4994598 }\
 191 BPM, 3:18 | 1.80★ – 5.06★\
 *description written by ::LaviSorrow::{ user=9966768 }*
 
@@ -413,7 +413,7 @@ Definitely give it a try! If you dare, that is.
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::Carpihat::{ user=10085090 }, [elexire](https://osu.ppy.sh/users/9206093), ::Maxus::{ user=4335785 }, [Paturages](https://osu.ppy.sh/users/1375479), ::Silhoueska Elze::{ user=11517895 }, [SunApple](https://osu.ppy.sh/users/11817622), ::taba2::{ user=7850508 }, and [Yuiesta](https://osu.ppy.sh/users/13953619)!
+The osu!mania Loved candidates were chosen by ::Carpihat::{ user=10085090 }, ::elexire::{ user=9206093 }, ::Maxus::{ user=4335785 }, ::Paturages::{ user=1375479 }, ::Silhoueska Elze::{ user=11517895 }, ::SunApple::{ user=11817622 }, ::taba2::{ user=7850508 }, and ::Yuiesta::{ user=13953619 }!
 
 **[Click here to download all of this round's osu!mania picks!](https://packs.ppy.sh/LR45%20-%20Project%20Loved:%20June%202025%20(osu!mania).zip)**
 
@@ -487,11 +487,11 @@ Enough of my talking, go give this well-known charter their chance at a first Lo
 
 [![](/wiki/shared/news/2025-06-15-project-loved-june-2025/480116.jpg)](https://osu.ppy.sh/community/forums/topics/2092736)
 
-[F-777 - Space Battle](https://osu.ppy.sh/beatmapsets/480116#mania) by ::LastExceed::{ user=6232245 }, [Curiossity](https://osu.ppy.sh/users/6490035), and ::placticine::{ user=6454618 }\
+[F-777 - Space Battle](https://osu.ppy.sh/beatmapsets/480116#mania) by ::LastExceed::{ user=6232245 }, ::Curiossity::{ user=6490035 }, and ::placticine::{ user=6454618 }\
 200 BPM, 5:19 | 1.38★ – 6.51★\
 *description written by ::Silhoueska Elze::{ user=11517895 }*
 
-[Space Battle](https://osu.ppy.sh/beatmapsets/480116) is a song that I'm sure many might be familiar with, and I think ::LastExceed::{ user=6232245 }, [Curiossity](https://osu.ppy.sh/users/6490035), and ::placticine::{ user=6454618 } gave this song justice.
+[Space Battle](https://osu.ppy.sh/beatmapsets/480116) is a song that I'm sure many might be familiar with, and I think ::LastExceed::{ user=6232245 }, ::Curiossity::{ user=6490035 }, and ::placticine::{ user=6454618 } gave this song justice.
 
 There's many difficulties to try out here, where players can choose from easy to more challenging ones. Something to note about all of these difficulties is that there is a mix of rice and LN patterns. Some SVs thrown into there as well, especially on the higher difficulties. Did I forget to mention that these charts last 5 minutes? Consistency is definitely going to be key in every single part of the charts, wherein you have to weather the different patterns while trying to ensure that you can still accurately hit them.
 
@@ -537,7 +537,7 @@ Featuring very famous and outstanding music, this map has been featured as stage
 
 [![](/wiki/shared/news/2025-06-15-project-loved-june-2025/2176501.jpg)](https://osu.ppy.sh/community/forums/topics/2092732)
 
-[-45 - G e n g a o z o](https://osu.ppy.sh/beatmapsets/2176501#mania) by ::Mochineko::{ user=3793196 } and [suffruti](https://osu.ppy.sh/users/11270477)\
+[-45 - G e n g a o z o](https://osu.ppy.sh/beatmapsets/2176501#mania) by ::Mochineko::{ user=3793196 } and ::suffruti::{ user=11270477 }\
 153 BPM, 2:57 | 1.35★ – 10.64★\
 *description written by ::Maxus::{ user=4335785 }*
 

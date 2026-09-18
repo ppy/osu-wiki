@@ -27,9 +27,9 @@ Last weekend, 12 teams played in the Semifinals round, but in the end, only 6 re
 
 ![](/wiki/shared/news/2025-07-11-osucatch-world-cup-2025-semifinals-recap/cwc-2025-sf-mappool.png)
 
-The Semifinals mappool was one of the biggest step-ups in difficulty in the tournament so far. It makes sense given the remaining teams, giving us an introduction to late-tournament pools. It started right away with [R.I.P.](https://osu.ppy.sh/beatmapsets/2395421#fruits/5188524) (NM1), mapped by ::Zyzyx::{ user=2888013 } and [Yoshi_green](https://osu.ppy.sh/users/1035891), standing at a star rating of 7.95 and featuring intense and stamina-draining patterning for the full three and a half minutes. 
+The Semifinals mappool was one of the biggest step-ups in difficulty in the tournament so far. It makes sense given the remaining teams, giving us an introduction to late-tournament pools. It started right away with [R.I.P.](https://osu.ppy.sh/beatmapsets/2395421#fruits/5188524) (NM1), mapped by ::Zyzyx::{ user=2888013 } and ::Yoshi\1green::{ user=1035891 }, standing at a star rating of 7.95 and featuring intense and stamina-draining patterning for the full three and a half minutes. 
 
-Surprisingly, three mappers made their CWC debut this round: ::Cruwev::{ user=12195994 }, [Phob](https://osu.ppy.sh/users/6069462), and ::Zileni::{ user=23525574 }. Cruwev made a bold entrance with their [Big Daddy (Cut ver.)](https://osu.ppy.sh/beatmapsets/2395283#fruits/5188079) (NM3) map, serving as the gimmick pick of the round. Cruwev's unconventional mapping style mixed with a high circle size and a low approach rate made for one of the biggest standouts in the mappool, both in terms of difficulty and hype factor. 
+Surprisingly, three mappers made their CWC debut this round: ::Cruwev::{ user=12195994 }, ::Phob::{ user=6069462 }, and ::Zileni::{ user=23525574 }. Cruwev made a bold entrance with their [Big Daddy (Cut ver.)](https://osu.ppy.sh/beatmapsets/2395283#fruits/5188079) (NM3) map, serving as the gimmick pick of the round. Cruwev's unconventional mapping style mixed with a high circle size and a low approach rate made for one of the biggest standouts in the mappool, both in terms of difficulty and hype factor. 
 
 Phob, a first-time mappooler this edition, debuted not with just one, but two maps this round, those being [Yakujinsama no Couple Dance](https://osu.ppy.sh/beatmapsets/2395303#fruits/5188114) (HD2), and [Idolize](https://osu.ppy.sh/beatmapsets/2395304#fruits/5188115) (DT4). Both maps feature the classic Phob flair, filled with unique ideas and unconventional patterning. And finally, Zileni delivered us [Deglaciation](https://osu.ppy.sh/beatmapsets/2395287#fruits/5188086) (HR3), a more conventional yet explosive mechanical Hard Rock pick for this round. New custom mappers are a rare sight in the osu!catch scene, so having three fresh faces was a pleasant surprise to see for everyone involved.
 
@@ -47,9 +47,9 @@ Two weeks ago, the first [osu! original](/wiki/osu!_originals) of the tournament
     </audio>
 </div>
 
-We started off strong with [SUTEGORO](https://osu.ppy.sh/beatmapsets/2395265#fruits/5187955) by [Marmalade butcher](https://osu.ppy.sh/beatmaps/artists/220). Mapped by the Polish duo consisting of ::Mniam::{ user=6050530 } and [Malai](https://osu.ppy.sh/users/4863096), this explosive math rock track was done justice with a Hidden pick that caught many players off guard. Reflecting the calculated chaos of the instrumentals, the map combines repeated antiflows, inconsistent spacings, and 1/16 hyperwalks, resulting in a pick that even the strongest teams struggled to keep up with.
+We started off strong with [SUTEGORO](https://osu.ppy.sh/beatmapsets/2395265#fruits/5187955) by [Marmalade butcher](https://osu.ppy.sh/beatmaps/artists/220). Mapped by the Polish duo consisting of ::Mniam::{ user=6050530 } and ::Malai::{ user=4863096 }, this explosive math rock track was done justice with a Hidden pick that caught many players off guard. Reflecting the calculated chaos of the instrumentals, the map combines repeated antiflows, inconsistent spacings, and 1/16 hyperwalks, resulting in a pick that even the strongest teams struggled to keep up with.
 
-Also, be sure to check out the beautiful photography by ::Amphy::{ user=10762223 }, edited by [hourius](https://osu.ppy.sh/users/12580298) used for the background art!
+Also, be sure to check out the beautiful photography by ::Amphy::{ user=10762223 }, edited by ::hourius::{ user=12580298 } used for the background art!
 
 [![](/wiki/shared/news/2025-07-11-osucatch-world-cup-2025-semifinals-recap/SidebySide_Banner.png)](https://osu.ppy.sh/beatmapsets/2395293#fruits/5188100)
 
@@ -73,7 +73,7 @@ It's Touhou Eurobeat time. A fairly uncommon genre in osu!catch, it was a pleasa
 
 If you've been following the past few news posts, you'll know that [Ice](https://osu.ppy.sh/beatmaps/artists/484), titan of rhythm game music, [is now a Featured Artist](https://osu.ppy.sh/home/news/2025-06-29-new-featured-artist-ice). The bombshell was dropped during this round's mappool showcase, revealing the new osu! original [Nostalgia Sonatina Op.3](https://osu.ppy.sh/beatmapsets/2395334#fruits/5188192) in the process.
 
-Following the previous "Nostalgia Sonatinas" made for other rhythm games, the third entry of the series would be for this CWC, featured as a Mixed Mod map by ::Ascendance::{ user=2931883 } and [Jemzuu](https://osu.ppy.sh/users/7890134). It focused mostly on mechanics, with many wiggles and stream patterns for the classic Ice piano melodies. Welcome to the Featured Artist lineup!
+Following the previous "Nostalgia Sonatinas" made for other rhythm games, the third entry of the series would be for this CWC, featured as a Mixed Mod map by ::Ascendance::{ user=2931883 } and ::Jemzuu::{ user=7890134 }. It focused mostly on mechanics, with many wiggles and stream patterns for the classic Ice piano melodies. Welcome to the Featured Artist lineup!
 
 ## Semifinals summary
 

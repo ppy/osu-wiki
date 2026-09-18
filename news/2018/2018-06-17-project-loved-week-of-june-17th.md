@@ -40,11 +40,11 @@ Toaru Shoukoku no Ohimesama is the quintessential ::Settia::{ user=2445897 } map
 [ave;new feat. Shirasawa Rie - MAYBE ROSY KISS -HARD dRESS STYLE-](https://osu.ppy.sh/beatmapsets/169650) by ::\[CSGA\]Ar3sgice::{ user=989563 }\
 *written by ::Kaifin::{ user=2596942 }*
 
-MAYBE ROSY KISS is a classic alternator-style map by ::\[CSGA\]Ar3sgice::{ user=989563 }, who you may know as the mapper of [Satori De Pon!](https://osu.ppy.sh/beatmapsets/46502) and other classics. Originally uploaded in 2014, the map features several patterns that were very ahead of their time, and the map remains a favourite among older age mappers and players, such as ::RLC::{ user=1047883 } and [Regou](https://osu.ppy.sh/users/419954). Will anyone FC? It *might* be possible.
+MAYBE ROSY KISS is a classic alternator-style map by ::\[CSGA\]Ar3sgice::{ user=989563 }, who you may know as the mapper of [Satori De Pon!](https://osu.ppy.sh/beatmapsets/46502) and other classics. Originally uploaded in 2014, the map features several patterns that were very ahead of their time, and the map remains a favourite among older age mappers and players, such as ::RLC::{ user=1047883 } and ::Regou::{ user=419954 }. Will anyone FC? It *might* be possible.
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/osu/mikusabbath.jpg)](https://osu.ppy.sh/community/forums/topics/762193)
 
-[utsuP - MiKUSABBATH](https://osu.ppy.sh/beatmapsets/235068) by ::- Milhofo -::{ user=3996979 }, [Haruaki](https://osu.ppy.sh/users/3576537) and ::-Tochi::{ user=3664366 }\
+[utsuP - MiKUSABBATH](https://osu.ppy.sh/beatmapsets/235068) by ::- Milhofo -::{ user=3996979 }, ::Haruaki::{ user=3576537 } and ::-Tochi::{ user=3664366 }\
 *written by ::Kaifin::{ user=2596942 }*
 
 MiKUSABBATH is a fan favourite among players, with a massive 369 favourites at the time of writing due to its frenetic mapping and exciting song choice. First uploaded in 2014, the map has gone through several years of modding and has now been left without a scoreboard despite the praise it has received from the community. Will the mapper's hard work finally pay off through the advent of the Loved category?
@@ -86,7 +86,7 @@ Anarchy Road has been a staple of multiplayer lobbies since it was first uploade
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/osu/kyouki-chinden.jpg)](https://osu.ppy.sh/community/forums/topics/762199)
 
-[Yousei Teikoku - Kyouki Chinden](https://osu.ppy.sh/beatmapsets/129520) by ::Saten::{ user=444506 } and [OnosakiHito](https://osu.ppy.sh/users/290128)\
+[Yousei Teikoku - Kyouki Chinden](https://osu.ppy.sh/beatmapsets/129520) by ::Saten::{ user=444506 } and ::OnosakiHito::{ user=290128 }\
 *written by ::Toy::{ user=2757689 }*
 
 ::Saten::{ user=444506 }'s style has become so distinct, that I'm sure anyone even remotely familiar with his style could point out one of his maps with their eyes closed. Kyouki Chinden is no exception, and whether you enjoy singletapping 280BPM or alternating 140BPM, this map fits exactly what you'd expect from a Saten Mirai Nikki mapset.
@@ -104,15 +104,15 @@ From the same artist that brought you [furioso melodia](https://osu.ppy.sh/beatm
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/taiko/frozen-world.jpg)](https://osu.ppy.sh/community/forums/topics/762202)
 
-[MuryokuP - Frozen World](https://osu.ppy.sh/beatmapsets/194955) by ::c36098651::{ user=2048577 } and [Firce777](https://osu.ppy.sh/users/274072)
+[MuryokuP - Frozen World](https://osu.ppy.sh/beatmapsets/194955) by ::c36098651::{ user=2048577 } and ::Firce777::{ user=274072 }
 
 It's cold outside. Wonder why? Because this song is literally named Frozen World. It's a technical beatmap that will give you chills, and was featured in the osu!taiko World Cup 2015! Let's put things straight: it's a ::Firce777::{ user=274072 } map, whom a lot of osu!taiko players must have heard of at least once for winning a beatmapping contest, as well as making a ton of beatmaps that pro players have played, and has his own signature brutal difficulty name "Firce Force". This time around, he's made a fairly easy but still not free-to-FC beatmap that contains the usual tech things: 1/6 notes, some small 1/8 bursts and even one 1/12 burst near the end! And for you osu!mania players who seek some challenge, ::c36098651::{ user=2048577 } made a difficulty that is much harder than in their ranked beatmapset!
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/taiko/l-l-l-.jpg)](https://osu.ppy.sh/community/forums/topics/762203)
 
-[MYTH & ROID - L.L.L.](https://osu.ppy.sh/beatmapsets/505696) by ::Devli::{ user=8276884 } and [yassu-](https://osu.ppy.sh/users/7095592)
+[MYTH & ROID - L.L.L.](https://osu.ppy.sh/beatmapsets/505696) by ::Devli::{ user=8276884 } and ::yassu-::{ user=7095592 }
 
-Brought to you by the band who made STYX HELIX, L.L.L. is the debut single of MYTH & ROID. And boy this song is great; you can tell that ::Devli::{ user=8276884 } and [yassu-](https://osu.ppy.sh/users/7095592) knew it well. Be prepared for streams and tech patterns for all 3:30 of the song; it's going to be one hell of a ride! But if you're not like these pro players, don't worry too much about it! This beatmap set provides every level of difficulty, so you can enjoy the song even if you are a newcomer. And to be very honest, even if I don't know who is in the background, I really like her... demons are the best things... *(Note from post writer: Alright Gezo, I'm not sure we needed to know your preferences here)*
+Brought to you by the band who made STYX HELIX, L.L.L. is the debut single of MYTH & ROID. And boy this song is great; you can tell that ::Devli::{ user=8276884 } and ::yassu-::{ user=7095592 } knew it well. Be prepared for streams and tech patterns for all 3:30 of the song; it's going to be one hell of a ride! But if you're not like these pro players, don't worry too much about it! This beatmap set provides every level of difficulty, so you can enjoy the song even if you are a newcomer. And to be very honest, even if I don't know who is in the background, I really like her... demons are the best things... *(Note from post writer: Alright Gezo, I'm not sure we needed to know your preferences here)*
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/taiko/anomaly.jpg)](https://osu.ppy.sh/community/forums/topics/762205)
 
@@ -122,7 +122,7 @@ Hello fellow players, this is your captain. It appears ::Y O U T A::{ user=49098
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/taiko/ur-musiceater-lv99.jpg)](https://osu.ppy.sh/community/forums/topics/762207)
 
-[LeaF - UR+ MusicEater LV99](https://osu.ppy.sh/beatmapsets/455972) by ::yuzu\_\_rinrin::{ user=4616752 } and [Backfire](https://osu.ppy.sh/users/263110)
+[LeaF - UR+ MusicEater LV99](https://osu.ppy.sh/beatmapsets/455972) by ::yuzu\_\_rinrin::{ user=4616752 } and ::Backfire::{ user=263110 }
 
 Do we still have to present LeaF? The artist behind many of the popular BMS songs such as Aleph-0 or Calamity Fortune is no stranger to Loved. This time, we get one more song that lies on the border between breakcore and chiptune. The beatmap of this song, made by ::yuzu\_\_rinrin::{ user=4616752 }, was featured in [Taiko World Cup: Last Man Standing 3](https://osu.ppy.sh/community/forums/topics/449295) and is a crazy speed beatmap with lots of tech patterns, 1/3 notes, and small 1/6 bursts. The "LMS Ver." difficulty is the one that was used in the tournament, while "UNLIMITED Oni" is the original difficulty. Both are very similar experiences, so I can only recommend playing both of them!
 
@@ -134,7 +134,7 @@ This week, we are putting another map in redemption and this time, it is a silly
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/taiko/kakinchu-no-uta-more-charin-ver-.jpg)](https://osu.ppy.sh/community/forums/topics/762209)
 
-[Nanahira - Kakinchu no Uta -More Charin Ver.-](https://osu.ppy.sh/beatmapsets/403812) by ::aabc271::{ user=155707 } and [ll-oscar](https://osu.ppy.sh/users/1488736)
+[Nanahira - Kakinchu no Uta -More Charin Ver.-](https://osu.ppy.sh/beatmapsets/403812) by ::aabc271::{ user=155707 } and ::ll-oscar::{ user=1488736 }
 
 Coming straight from an era where storyboard gimmicks were starting to take off using crazy songs, Kakinchu no Uta is a much more tame song from the community's beloved singer, Nanahira. It introduces the gimmicks very neatly, slowly and is not too hard for people who begin in the storyboard gimmick world. Other introductions made in it are the usage of Hidden and HardRock mods within the beatmap. It's something I personally love both for the fact that it defies the trope of "crazy songs = gimmicks", and for the way it was made. Let's just say that ::aabc271::{ user=155707 } really outdid themselves!
 
@@ -148,17 +148,17 @@ Here we go again! Nekosogi Destruction is a speed map that will fool you from it
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/catch/gigadelic-camellia-s-the-tera-rmx-.jpg)](https://osu.ppy.sh/community/forums/topics/762314)
 
-[Camellia - gigadelic (Camellia's "The TERA" RMX)](https://osu.ppy.sh/beatmapsets/388122) by ::Alumetorz::{ user=531253 } and [Minato Yukina](https://osu.ppy.sh/users/531253)\
+[Camellia - gigadelic (Camellia's "The TERA" RMX)](https://osu.ppy.sh/beatmapsets/388122) by ::Alumetorz::{ user=531253 } and ::Minato Yukina::{ user=531253 }\
 *written by ::Ascendance::{ user=2931883 }*
 
 ::Minato Yukina::{ user=531253 } returns for this round of Project Loved with one of his patented "Nervous Breakdown" maps, gigadelic! Like most of the Nervous Breakdown series, gigadelic boasts challenging patterns at a fast pace and features classic CLSW patterns that long-time fans of the series will be sure to enjoy. Don't let the comfort of HP5 fool you, though; one miss could be your downfall as you succumb to a downpour of challenging jumps and devastating antiflow. Regardless of the daunting task ahead, you won't want to miss this map!
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/catch/fierce-fight-remix.jpg)](https://osu.ppy.sh/community/forums/topics/762215)
 
-[S.S.H. - Fierce Fight-Remix](https://osu.ppy.sh/beatmapsets/40480) by ::Snow Note::{ user=643394 }, [DakkyChan](https://osu.ppy.sh/users/2107017), ::ExGon::{ user=214187 } and [inaba-tan](https://osu.ppy.sh/users/477744)\
+[S.S.H. - Fierce Fight-Remix](https://osu.ppy.sh/beatmapsets/40480) by ::Snow Note::{ user=643394 }, ::DakkyChan::{ user=2107017 }, ::ExGon::{ user=214187 } and ::inaba-tan::{ user=477744 }\
 *written by ::SartNYAN OwO xD::{ user=4100941 }*
 
-Coming in with probably the most unorthodox map of this week's osu!catch loved vote are ::ExGon::{ user=214187 } and [DakkyChan](https://osu.ppy.sh/users/2107017) with their collab on Fierce Fight-Remix. With really no other pattern than cross screen jumps and 280BPM left-rights, this map clocks in as a huge challenge for even the very best of players, as you will need some crazy consistency to stay alive on this map. Fierce Fight-Remix definitely also feels like an old school map, for those of us who are into that. So go take it for a spin, perhaps you will discover this style to be very much to your liking!
+Coming in with probably the most unorthodox map of this week's osu!catch loved vote are ::ExGon::{ user=214187 } and ::DakkyChan::{ user=2107017 } with their collab on Fierce Fight-Remix. With really no other pattern than cross screen jumps and 280BPM left-rights, this map clocks in as a huge challenge for even the very best of players, as you will need some crazy consistency to stay alive on this map. Fierce Fight-Remix definitely also feels like an old school map, for those of us who are into that. So go take it for a spin, perhaps you will discover this style to be very much to your liking!
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/catch/holdin-on-skrillex-nero-remix-.jpg)](https://osu.ppy.sh/community/forums/topics/762216)
 
@@ -194,7 +194,7 @@ The chart was also used back in the osu!mania World Cup 2016, a time when long n
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/mania/katayoku-no-tori.jpg)](https://osu.ppy.sh/community/forums/topics/762221)
 
-[Hommarju feat. mamiko - Katayoku No Tori](https://osu.ppy.sh/beatmapsets/237512) by ::Awang411::{ user=1014938 } and [Gexigamma](https://osu.ppy.sh/users/3149376)\
+[Hommarju feat. mamiko - Katayoku No Tori](https://osu.ppy.sh/beatmapsets/237512) by ::Awang411::{ user=1014938 } and ::Gexigamma::{ user=3149376 }\
 *written by ::\_underjoy::{ user=2235750 }*
 
 One hell of a throwback to early osu!mania days, ::Awang411::{ user=1014938 }'s Katayoku No Tori is one of the more well-known mapsets outside of the ranked section. Anyone who plays this game for a longer amount of time has probably either seen or played it, and even now it still can be seen picked in many multiplayer lobbies.
@@ -212,7 +212,7 @@ Here we have ::Entozer::{ user=277044 } again with a beautiful but hard beatmaps
 
 [![](/wiki/shared/news/2018-06-17-project-loved-week-of-june-17th/mania/endymion.jpg)](https://osu.ppy.sh/community/forums/topics/762223)
 
-[Fallen Shepherd ft. RabbiTon Strings - ENDYMION](https://osu.ppy.sh/beatmapsets/707421) by ::Blocko::{ user=4075092 } and [\_underjoy](https://osu.ppy.sh/users/2235750)\
+[Fallen Shepherd ft. RabbiTon Strings - ENDYMION](https://osu.ppy.sh/beatmapsets/707421) by ::Blocko::{ user=4075092 } and ::\_underjoy::{ user=2235750 }\
 *written by ::\_underjoy::{ user=2235750 }*
 
 As an experienced player, mapper and a former QAT, ::Blocko::{ user=4075092 } is well known in the community and his works are the synonym of the word quality. His mapping style is both very fluent and very flexible, which can be seen in one of his recent mapsets, ENDYMION by Fallen Shepherd ft. RabbiTon Strings, whose Coronation difficulty was picked for the osu!mania 7K World Cup 2018 Finals Mappool.
@@ -224,7 +224,7 @@ This mapset utilises the lively and aggressive song very accurately, retaining a
 [senya - Tsuki ni Murakumo Hana ni Kaze](https://osu.ppy.sh/beatmapsets/254589) by ::17VA::{ user=1895984 } et al.\
 *written by ::aitor98::{ user=3154852 }*
 
-We've already talked about ::17VA::{ user=1895984 } and his charts in the past, and this time will not be different at all. Senya – Tsuki ni Murakumo Hana ni Kaze has been around osu!mania since 2015 and it's a nice long note mapset. This map features Genesis, ::Kawawa::{ user=4647754 } and [Rumia-](https://osu.ppy.sh/users/1787171) as guest mappers and it has patterns such as shields, jacks, irregular long note releases, light chordstreams, and more.
+We've already talked about ::17VA::{ user=1895984 } and his charts in the past, and this time will not be different at all. Senya – Tsuki ni Murakumo Hana ni Kaze has been around osu!mania since 2015 and it's a nice long note mapset. This map features Genesis, ::Kawawa::{ user=4647754 } and ::Rumia-::{ user=1787171 } as guest mappers and it has patterns such as shields, jacks, irregular long note releases, light chordstreams, and more.
 
 This map has also been used for the osu!mania 7K World Cup 2016 Finals mappool. The difficulty span goes from 2 stars to almost 8, making it a really approachable set for all players. It's definitely worth checking out!
 
@@ -233,7 +233,7 @@ This map has also been used for the osu!mania 7K World Cup 2016 Finals mappool. 
 [Yooh - LiFE Garden (short Ver.)](https://osu.ppy.sh/beatmapsets/436217) by ::pocket-Gao::{ user=3162182 } et al.\
 *written by ::Kamikaze::{ user=2124783 }*
 
-Our last pick comes from a pretty well-known charter, creator of maps like Violet Soul, ::pocket-Gao::{ user=3162182 }! He is mostly notable for his 8K charts, although this chart, LiFE Garden by Yooh, definitely stands out. This chart is running at 149BPM, and while it's not the highest of tempos, it's fairly difficult technically. Featuring full spreads of 4K and 8K, with guest difficulties by charters such as dosyeru, ::Critical\_Star::{ user=3793196 }, [Crystal](https://osu.ppy.sh/users/1646397) & ::ExNeko::{ user=7590894 } it provides challenge to both newcomers and more advanced players.
+Our last pick comes from a pretty well-known charter, creator of maps like Violet Soul, ::pocket-Gao::{ user=3162182 }! He is mostly notable for his 8K charts, although this chart, LiFE Garden by Yooh, definitely stands out. This chart is running at 149BPM, and while it's not the highest of tempos, it's fairly difficult technically. Featuring full spreads of 4K and 8K, with guest difficulties by charters such as dosyeru, ::Critical\_Star::{ user=3793196 }, ::Crystal::{ user=1646397 } & ::ExNeko::{ user=7590894 } it provides challenge to both newcomers and more advanced players.
 
 It is a classic, really well designed set for a more uncommon keymode and I believe that it's a good candidate for the Loved category!
 

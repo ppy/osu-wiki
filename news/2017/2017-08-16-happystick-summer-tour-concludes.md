@@ -57,7 +57,7 @@ Selecting DT map [Horie Yui - Vanilla Salt](https://osu.ppy.sh/beatmaps/320981) 
 
 <p align="center"><iframe src="https://player.twitch.tv/?video=v167003412&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe></p>
 
-From the [62500 - 80000 bracket](http://challonge.com/bqmca1h3) came one of the most exciting matches of the day, if not the entire tournament. On the surface it looked similar to the 12000 - 18000 matchup: the Winners Bracket was won in impressive style by ::snowdeep::{ user=8614428 }, while [Dreamtwolf](https://osu.ppy.sh/users/6138845) dropped to the Losers Bracket via tiebreaker in the first round then fought all the way through, winning another tiebreaker in the Losers Final to secure his ticket to the Grand Final.
+From the [62500 - 80000 bracket](http://challonge.com/bqmca1h3) came one of the most exciting matches of the day, if not the entire tournament. On the surface it looked similar to the 12000 - 18000 matchup: the Winners Bracket was won in impressive style by ::snowdeep::{ user=8614428 }, while ::Dreamtwolf::{ user=6138845 } dropped to the Losers Bracket via tiebreaker in the first round then fought all the way through, winning another tiebreaker in the Losers Final to secure his ticket to the Grand Final.
 
 And what a Grand Final it was.
 

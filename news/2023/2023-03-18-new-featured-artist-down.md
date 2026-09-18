@@ -9,7 +9,7 @@ series: featured_artists
 
 ![](https://assets.ppy.sh/artists/350/header.jpg)
 
-...as if [VINXIS](https://osu.ppy.sh/beatmaps/artists/22), [tieff](https://osu.ppy.sh/beatmaps/artists/34), ::happy30::{ user=27767 }, [Kurokotei](https://osu.ppy.sh/users/398275), and [Nakagawa-Kanon](https://osu.ppy.sh/beatmaps/artists/242) weren't enough proof already.
+...as if [VINXIS](https://osu.ppy.sh/beatmaps/artists/22), [tieff](https://osu.ppy.sh/beatmaps/artists/34), ::happy30::{ user=27767 }, ::Kurokotei::{ user=398275 }, and [Nakagawa-Kanon](https://osu.ppy.sh/beatmaps/artists/242) weren't enough proof already.
 
 **Down** is a beatmapper-turned-musician whose first steps into music production came from the [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) beatmapping contest, where he designed a *questionable* remix for the classic [Kuba Oms - My Love](https://osu.ppy.sh/beatmapsets/163112). Since then, he's branched out into every genre known to man, taking influence from different composers and designing primarily *Touhou* arrangements in all sorts of styles.
 
@@ -89,7 +89,7 @@ Can we perhaps interest you in the cult classic [Down - Down \[Down\]](https://o
 
 ---
 
-Start mapping any song above (and more) from [**Down**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/350)! If your name is something like ::UberFazz::{ user=8646059 }, [Halfslashed](https://osu.ppy.sh/users/4598899), ::Lince Cosmico::{ user=6070370 }, or [DeviousPanda](https://osu.ppy.sh/users/4966334), the Ranked section is waiting for your debut.
+Start mapping any song above (and more) from [**Down**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/350)! If your name is something like ::UberFazz::{ user=8646059 }, ::Halfslashed::{ user=4598899 }, ::Lince Cosmico::{ user=6070370 }, or ::DeviousPanda::{ user=4966334 }, the Ranked section is waiting for your debut.
 
 It's the weekend, which means there's two more Featured Artists to look forward to next week! Glue your eyes to the [@osugame Twitter](https://twitter.com/osugame) for more details and we'll see you again very very very soon.
 

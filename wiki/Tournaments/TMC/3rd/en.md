@@ -73,7 +73,7 @@ The Touhou Project Mania Cup 3rd was run by the THMC team and various community 
 | **5 Digit Warriors** | ::{ flag=US }:: **::xBasicReamcy::{ user=15990628 }**, ::{ flag=VN }:: ::DNABBTBT::{ user=28188220 } |
 | **Alisa Mikhailovna Kujou** | ::{ flag=SG }:: **::sukidayo-::{ user=16870002 }**, ::{ flag=SG }:: ::McButt::{ user=18018708 }, ::{ flag=SG }:: ::TheOPMeme::{ user=15763622 }, ::{ flag=HK }:: ::RyanWong1216::{ user=19030562 } |
 | **Amogus** | ::{ flag=SA }:: **::Raiden129::{ user=23034813 }**, ::{ flag=MY }:: ::YtAlbin0::{ user=21873512 }, ::{ flag=HK }:: ::WhiteKyleIsANub::{ user=18824384 } |
-| **Ariana Grande Fanboys** | ::{ flag=CA }:: **::Holo The Wise::{ user=17036270 }**, ::{ flag=CA }:: ::Robert6400::{ user=11467559 }, ::{ flag=CA }:: ::Twitch Chat::{ user=12723207 }, [betsuni](https://osu.ppy.sh/users/21020437) |
+| **Ariana Grande Fanboys** | ::{ flag=CA }:: **::Holo The Wise::{ user=17036270 }**, ::{ flag=CA }:: ::Robert6400::{ user=11467559 }, ::{ flag=CA }:: ::Twitch Chat::{ user=12723207 }, ::betsuni::{ user=21020437 } |
 | **AustralianSpiders** | ::{ flag=US }:: **::astal\1::{ user=32151196 }**, ::{ flag=GB }:: ::AspectOfTheDie::{ user=19191509 }, ::{ flag=CA }:: ::Bushidored98::{ user=15570263 } |
 | **Bloxy cola** | ::{ flag=ID }:: **::adihza::{ user=18309106 }**, ::{ flag=PH }:: ::4kenn::{ user=20496815 }, ::{ flag=ID }:: ::bad hd player::{ user=13385865 } |
 | **bob** | ::{ flag=NL }:: **::Shoira::{ user=13377652 }**, ::{ flag=NL }:: ::samuelhklumpers::{ user=10945523 }, ::{ flag=TH }:: ::\[Ping\]::{ user=6291395 }, ::{ flag=NL }:: ::Quinnie why::{ user=16999311 } |
@@ -150,7 +150,7 @@ The Touhou Project Mania Cup 3rd was run by the THMC team and various community 
 | **the malaysians** | ::{ flag=MY }:: **::Qosu\1::{ user=25660423 }**, ::{ flag=MY }:: ::\[MY\] Ril::{ user=13359872 }, , ::{ flag=MY }:: ::ClassicNickey::{ user=26468007 }, ::{ flag=MY }:: ::VASD Player::{ user=29929002 } |
 | **The Rhythm Thieves** | ::{ flag=HK }:: **::Pofnkul::{ user=23717210 }**, ::{ flag=US }:: ::KimMui::{ user=26090734 }, ::{ flag=SG }:: ::skythedumbdumb::{ user=21749745 }, ::{ flag=PH }:: ::Jarodpog::{ user=23604857 } |
 | **thonk** | ::{ flag=NZ }:: **::JimmyEpic::{ user=28831164 }**, ::{ flag=ID }:: ::Nqinn::{ user=11312272 }, ::{ flag=VN }:: ::Frostleaf::{ user=11863174 }, ::{ flag=US }:: ::RED POCKET::{ user=10274449 } |
-| **thug hunters** | ::{ flag=US }:: **::beta carotene::{ user=22839620 }**, [\[LS\] breadles](https://osu.ppy.sh/users/25981673), ::{ flag=US }:: ::\[LS\]Ko::{ user=18983998 }, ::{ flag=US }:: ::z2a::{ user=12542173 } |
+| **thug hunters** | ::{ flag=US }:: **::beta carotene::{ user=22839620 }**, ::\[LS\] breadles::{ user=25981673 }, ::{ flag=US }:: ::\[LS\]Ko::{ user=18983998 }, ::{ flag=US }:: ::z2a::{ user=12542173 } |
 | **toehoe virgins** | ::{ flag=BG }:: **::-Deno-::{ user=21798971 }**, ::{ flag=US }:: ::J5 is Life::{ user=4690822 }, ::{ flag=US }:: ::Howhow::{ user=10321714 }, ::{ flag=VN }:: ::-dex-::{ user=21188734 } |
 | **tree people** | ::{ flag=CA }:: **::Amnesiaioi::{ user=20502257 }**, ::{ flag=CA }:: ::ItsTheRiko::{ user=20600437 } |
 | **Typhoon** | ::{ flag=CA }:: **::squiddy::{ user=30465583 }**, ::{ flag=GB }:: ::AJgamer07::{ user=25950685 }, ::{ flag=PA }:: ::\[HD\]Softer64::{ user=8704966 }, ::{ flag=MY }:: ::ReJust::{ user=20670028 } |

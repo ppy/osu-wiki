@@ -8,7 +8,7 @@ tags:
 
 ![Pending Cup 2025 banner](img/banner.jpg)
 
-The **Pending Cup** is originally a Chinese mapping contest, which had its first iteration in 2013 held by ::NatsumeRin::{ user=151679 }. This year marks the 13th iteration, hosted by ::Chaoslitz::{ user=3621552 }, [iBell](https://osu.ppy.sh/users/4298072), ::seros::{ user=10562853 }, and [Mafumafu](https://osu.ppy.sh/users/3076909).
+The **Pending Cup** is originally a Chinese mapping contest, which had its first iteration in 2013 held by ::NatsumeRin::{ user=151679 }. This year marks the 13th iteration, hosted by ::Chaoslitz::{ user=3621552 }, ::iBell::{ user=4298072 }, ::seros::{ user=10562853 }, and ::Mafumafu::{ user=3076909 }.
 
 ## Schedule
 

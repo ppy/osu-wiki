@@ -21,7 +21,7 @@ Dari area *skinning*, elemen `playfield.jpg` yang sebelumnya dapat dimodifikasi 
 
 ## April
 
-"osu! Monthly Fanart Contest" diumumkan untuk pertama kalinya pada tanggal 3 April 2014. Kontes tersebut merupakan kontes informal yang diselenggarakan oleh ::LuigiHann::{ user=1079 } dan menghadiahkan [osu!supporter](https://osu.ppy.sh/home/support) kepada dua orang pemenang setiap bulannya (dengan satu orang pemenang dipilih oleh publik dan pemenang lainnya dipilih oleh staf osu!).[^fanart] Hasil dari edisi pertama kontes ini diumumkan pada [*newspost*](https://osu.ppy.sh/home/news/2014-05-21-first-official-osu-fanart-contest-results) tertanggal 21 Mei 2014, di mana ::kunny::{ user=3931585 } dan [DumplingYumYum](https://osu.ppy.sh/users/1715930) masing-masing dinyatakan sebagai juara pertama dan kedua.[^fanart-results]
+"osu! Monthly Fanart Contest" diumumkan untuk pertama kalinya pada tanggal 3 April 2014. Kontes tersebut merupakan kontes informal yang diselenggarakan oleh ::LuigiHann::{ user=1079 } dan menghadiahkan [osu!supporter](https://osu.ppy.sh/home/support) kepada dua orang pemenang setiap bulannya (dengan satu orang pemenang dipilih oleh publik dan pemenang lainnya dipilih oleh staf osu!).[^fanart] Hasil dari edisi pertama kontes ini diumumkan pada [*newspost*](https://osu.ppy.sh/home/news/2014-05-21-first-official-osu-fanart-contest-results) tertanggal 21 Mei 2014, di mana ::kunny::{ user=3931585 } dan ::DumplingYumYum::{ user=1715930 } masing-masing dinyatakan sebagai juara pertama dan kedua.[^fanart-results]
 
 ## Juni
 

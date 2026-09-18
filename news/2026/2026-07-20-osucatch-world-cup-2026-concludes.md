@@ -31,7 +31,7 @@ As is usual with World Cups, we have had the pleasure of working with various ar
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/ld0cD5XK_pc" frameborder="0" allowfullscreen></iframe>
 </div>
 
-For all the cool cats out there, [0 K](https://osu.ppy.sh/beatmaps/artists/424) makes their return to CWC! Following up [Brilliant Silver, Shining Blade](https://osu.ppy.sh/beatmapsets/2195061#fruits/4644324) from 2024 with [Downtown Swoop](https://osu.ppy.sh/beatmapsets/2566329#fruits/5708574), they are depicting their range as an artist with a rhythmically complex jazz track. Our former Beatmap Nominator made sure to spoil the mode in which he resides, ::Deif::{ user=318565 } and [ZiRoX](https://osu.ppy.sh/users/200768) being the best picks from the job. Having been great supports of *0 K* for many years at this point, they pushed this song to its *precise* limits by testing higher CS with lower AR.
+For all the cool cats out there, [0 K](https://osu.ppy.sh/beatmaps/artists/424) makes their return to CWC! Following up [Brilliant Silver, Shining Blade](https://osu.ppy.sh/beatmapsets/2195061#fruits/4644324) from 2024 with [Downtown Swoop](https://osu.ppy.sh/beatmapsets/2566329#fruits/5708574), they are depicting their range as an artist with a rhythmically complex jazz track. Our former Beatmap Nominator made sure to spoil the mode in which he resides, ::Deif::{ user=318565 } and ::ZiRoX::{ user=200768 } being the best picks from the job. Having been great supports of *0 K* for many years at this point, they pushed this song to its *precise* limits by testing higher CS with lower AR.
 
 ### Quarterfinals
 
@@ -47,7 +47,7 @@ One of our most seasoned featured artists in the osu! original space, [seatrus](
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/FUEavFSonOU" frameborder="0" allowfullscreen></iframe>
 </div>
 
-[YUC'e](https://osu.ppy.sh/beatmaps/artists/372) enters by having the courage to answer one of life's greatest questions. "Are eggplants fruits?" Their answer was a resounding "NO" as depicted in their swing future bass track [Nasu Is Not Fruits Desu!](https://osu.ppy.sh/beatmapsets/2569989#fruits/5719060). ::Kukkai::{ user=7811952 } and [-Luminate](https://osu.ppy.sh/users/4778689) took this one on, and their styles create a perfect flavourful blend of mapping while still capturing the fun this song provides.
+[YUC'e](https://osu.ppy.sh/beatmaps/artists/372) enters by having the courage to answer one of life's greatest questions. "Are eggplants fruits?" Their answer was a resounding "NO" as depicted in their swing future bass track [Nasu Is Not Fruits Desu!](https://osu.ppy.sh/beatmapsets/2569989#fruits/5719060). ::Kukkai::{ user=7811952 } and ::-Luminate::{ user=4778689 } took this one on, and their styles create a perfect flavourful blend of mapping while still capturing the fun this song provides.
 
 ### Semifinals
 
@@ -79,7 +79,7 @@ One of the most unique experiences any human could ever witness in a lifetime. W
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/nPX079Lzj8w" frameborder="0" allowfullscreen></iframe>
 </div>
 
-The time we all have is limited. [ZxNX](https://osu.ppy.sh/beatmaps/artists/288) leaves us all wanting to fight for that idea with their osu! original [DECAY](https://osu.ppy.sh/beatmapsets/2577190#fruits/5741307) as we get to witness the journey of a girl making her last stand. ::Rocma::{ user=566276 } and [Unlucky_w](https://osu.ppy.sh/users/4820793) push players to the brim with extremely tricky and dense stacks, denying an easy final fight while giving players the option to earn more time for themselves.
+The time we all have is limited. [ZxNX](https://osu.ppy.sh/beatmaps/artists/288) leaves us all wanting to fight for that idea with their osu! original [DECAY](https://osu.ppy.sh/beatmapsets/2577190#fruits/5741307) as we get to witness the journey of a girl making her last stand. ::Rocma::{ user=566276 } and ::Unlucky\1w::{ user=4820793 } push players to the brim with extremely tricky and dense stacks, denying an easy final fight while giving players the option to earn more time for themselves.
 
 ---
 
@@ -292,7 +292,7 @@ Moving on to the GFX role, as mentioned before, since this project was more focu
 
 Hii o/ I'm Promachos, storyboarder for Radium and [Vacant Rhapsody](https://www.youtube.com/watch?v=G9JdmWW5BsQ). I've been making storyboards for the World Cups for a couple of years now, but projects like these are easily my favourite to work on because of the creative freedom they provide. Besides (World Cup) storyboarding, I'm also known for making osu!mania SV maps and modcharts.
 
-As a storyboarder, you are essentially the last layer in the production process of a design project: the person (or people) responsible for bringing the assets together in the beatmap and making it come to life in sync with the music. This was no different for the storyboard of Radium, where I, along with ::Noffy::{ user=1541323 } and [Coppertine](https://osu.ppy.sh/users/7279762), would take the graphics and sprites provided by the GFX team and give it that extra oomph to make the showcase video match the hype of the original song. Personally I think it's really cool to see the amazing stuff made by the VFX and GFX teams and have it come into motion within the map as I'm working on the storyboard.
+As a storyboarder, you are essentially the last layer in the production process of a design project: the person (or people) responsible for bringing the assets together in the beatmap and making it come to life in sync with the music. This was no different for the storyboard of Radium, where I, along with ::Noffy::{ user=1541323 } and ::Coppertine::{ user=7279762 }, would take the graphics and sprites provided by the GFX team and give it that extra oomph to make the showcase video match the hype of the original song. Personally I think it's really cool to see the amazing stuff made by the VFX and GFX teams and have it come into motion within the map as I'm working on the storyboard.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18709857" style="background-image: url('/wiki/shared/avatars/Merong_.jpg')"></a>
 

@@ -82,14 +82,14 @@ Just as last month, the BNG never rests. We always have new additions and retire
 
 ### BN Additions
 
-- **osu!:** ::Affirmation::{ user=6186628 }, [BaAR_Vendel](https://osu.ppy.sh/users/8679346), ::MaridiuS::{ user=4496961 }, [Nao Tomori](https://osu.ppy.sh/users/5364763) & ::wafer::{ user=9416836 }
-- **osu!taiko:** ::Roger::{ user=1538223 } & [Raiden](https://osu.ppy.sh/users/2239480)
-- **osu!catch:** ::Daletto::{ user=7592136 } & [Sinnoh](https://osu.ppy.sh/users/4236057)
+- **osu!:** ::Affirmation::{ user=6186628 }, ::BaAR\1Vendel::{ user=8679346 }, ::MaridiuS::{ user=4496961 }, ::Nao Tomori::{ user=5364763 } & ::wafer::{ user=9416836 }
+- **osu!taiko:** ::Roger::{ user=1538223 } & ::Raiden::{ user=2239480 }
+- **osu!catch:** ::Daletto::{ user=7592136 } & ::Sinnoh::{ user=4236057 }
 - **osu!mania:** ::dudehacker::{ user=748722 }
 
 ### BN Resignations
 
-- **osu!:** ::-Aqua::{ user=7150015 }, [Bibbity Bill](https://osu.ppy.sh/users/4446810), ::Gero::{ user=1467715 }, [Teky](https://osu.ppy.sh/users/10520912) & ::Petal::{ user=7354729 }
+- **osu!:** ::-Aqua::{ user=7150015 }, ::Bibbity Bill::{ user=4446810 }, ::Gero::{ user=1467715 }, ::Teky::{ user=10520912 } & ::Petal::{ user=7354729 }
 - **osu!catch:** ::wonjae::{ user=5032045 }
 
 ### NAT Additions
@@ -126,7 +126,7 @@ So far in the contest, ::Jemzuu::{ user=7890134 } has found himself at the top o
 
 ### Monthly Beatmapping Contest: February 2020 Results
 
-We’d like to congratulate ::Aphestra::{ user=11949191 } on their win in the 2nd Monthly Beatmapping Contest, earning them a profile badge! Good job as well to ::UndeadCapulet::{ user=2523533 } and [Mao](https://osu.ppy.sh/users/2204515) who were the community vote runner-up and screening crew favourite respectively. Both of them find themselves halfway to a beautiful profile badge thanks to their placements. Full results for the contest can be found [here!](https://osu.ppy.sh/home/news/2020-03-21-monthly-beatmapping-contest-2-results)
+We’d like to congratulate ::Aphestra::{ user=11949191 } on their win in the 2nd Monthly Beatmapping Contest, earning them a profile badge! Good job as well to ::UndeadCapulet::{ user=2523533 } and ::Mao::{ user=2204515 } who were the community vote runner-up and screening crew favourite respectively. Both of them find themselves halfway to a beautiful profile badge thanks to their placements. Full results for the contest can be found [here!](https://osu.ppy.sh/home/news/2020-03-21-monthly-beatmapping-contest-2-results)
 
 ### Monthly Beatmapping Contest: April 2020
 
@@ -134,7 +134,7 @@ Another month, another monthly beatmapping contest! Head over to the [news post]
 
 ## Around the Community
 
-Another new section this month! All around the community. Whenever something interesting happens in the community which does not fit into any category above we will include that here. Should you have/know about something interesting that’s happening within the mapping community, do not hesitate to let ::Feerum::{ user=4815717 } or [Noffy](https://osu.ppy.sh/users/1541323) know about it!
+Another new section this month! All around the community. Whenever something interesting happens in the community which does not fit into any category above we will include that here. Should you have/know about something interesting that’s happening within the mapping community, do not hesitate to let ::Feerum::{ user=4815717 } or ::Noffy::{ user=1541323 } know about it!
 
 ### The osu! Map Cast
 

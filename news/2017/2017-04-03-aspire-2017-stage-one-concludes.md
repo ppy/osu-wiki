@@ -14,7 +14,7 @@ Over thirty brave contestants submitted their best take on [Helblinde](https://o
 
 Twelve emerged at the other side, their efforts judged to be worthy of greater attention.
 
-Those fated twelve were showcased to the world in osu!'s [first ever contest stream feature](https://www.twitch.tv/videos/128381261), alongside the expert commentary of our **Honorable Mentions** panel of judges, ::Okorin::{ user=1623405 }, [pishifat](https://osu.ppy.sh/users/3178418), ::Monstrata::{ user=2706438 } and [ztrot](https://osu.ppy.sh/users/6347).
+Those fated twelve were showcased to the world in osu!'s [first ever contest stream feature](https://www.twitch.tv/videos/128381261), alongside the expert commentary of our **Honorable Mentions** panel of judges, ::Okorin::{ user=1623405 }, ::pishifat::{ user=3178418 }, ::Monstrata::{ user=2706438 } and ::ztrot::{ user=6347 }.
 
 From your votes and their expertise, the twelve have now become three.
 

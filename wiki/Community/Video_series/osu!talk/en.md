@@ -2,7 +2,7 @@
 
 ![](img/osu!talk.jpg "osu!talk logo")
 
-**osu!talk** is a podcast series hosted by ::ztrot::{ user=6347 } with [deadbeat](https://osu.ppy.sh/users/128370) as the co-host. It focuses on interviewing various users of the osu! community. In addition to this, there may be some group discussions about different things happening around the community, such as changes to the [osu! team](/wiki/People/osu!_team), or often discussed long lasting issues, like overmapping.
+**osu!talk** is a podcast series hosted by ::ztrot::{ user=6347 } with ::deadbeat::{ user=128370 } as the co-host. It focuses on interviewing various users of the osu! community. In addition to this, there may be some group discussions about different things happening around the community, such as changes to the [osu! team](/wiki/People/osu!_team), or often discussed long lasting issues, like overmapping.
 
 The podcast series is set up so that anyone is free to join in on the live session and ask questions during the public [Q&A](https://en.wikipedia.org/wiki/Q&A) part of the episode. These aren't live streamed anywhere, as we'd rather encourage users to join in and take part themselves.
 
@@ -66,41 +66,41 @@ The podcast series is set up so that anyone is free to join in on the live sessi
 
 | EP No. | Topic | Guests | Link |
 | :-- | :-- | :-- | :-- |
-| 1 | Staff Rework | ::Charles445::{ user=85000 }, [Ephemeral](https://osu.ppy.sh/users/102335), and ::OnosakiHito::{ user=290128 } | [Link](https://www.youtube.com/watch?v=c10Jiq1xZus) |
-| 2 | Overmapping | ::Kyonko Hizara::{ user=444868 }, [Loctav](https://osu.ppy.sh/users/71366), ::MMzz::{ user=128993 }, and [OnosakiHito](https://osu.ppy.sh/users/290128) | [Link](https://www.youtube.com/watch?v=RepSYE3hN3A) |
-| 3 | Moderation | ::Charles445::{ user=85000 }, [Flanster](https://osu.ppy.sh/users/447818), and ::Kitokofox::{ user=1815420 } | [Link](https://www.youtube.com/watch?v=C1hvpnW5A7k) |
-| 4 | osu!academy and upcoming events | ::Charles445::{ user=85000 }, [Kyonko Hizara](https://osu.ppy.sh/users/444868), and ::Kitokofox::{ user=1815420 } | [Link](https://www.youtube.com/watch?v=-N44vLwJ9oM) |
-| 5 | osu! World Cup 2014 | ::Charles445::{ user=85000 }, [cptnXn](https://osu.ppy.sh/users/495272), ::Loctav::{ user=71366 }, [Mr Color](https://osu.ppy.sh/users/116078), ::p3n::{ user=123703 }, and [ToGlette](https://osu.ppy.sh/users/1076236) | [Link](https://www.youtube.com/watch?v=Tl0E8vqubjw) |
-| 6 | osu! World Cup Grand Finals | ::cptnXn::{ user=495272 }, [Doomsday](https://osu.ppy.sh/users/18983), ::Loctav::{ user=71366 }, [Mr Color](https://osu.ppy.sh/users/116078), and ::Tom94::{ user=1857058 } | [Link](https://www.youtube.com/watch?v=bl63NpUz_T8) |
-| 7 | Guest difficulties vs single mapper set | ::Doomsday::{ user=18983 }, [shARPII](https://osu.ppy.sh/users/776257), and ::WubWoofWolf::{ user=39828 } | [Link](https://www.youtube.com/watch?v=OMsHFRS662k) |
-| 8 | osu!next | ::flyte::{ user=3103765 }, and [peppy](https://osu.ppy.sh/users/2) | [Link](https://www.youtube.com/watch?v=jBUNIDa427Q) |
-| 9 | Legends of the addicting circle clicking | ::Charles445::{ user=85000 }, [Kyonko Hizara](https://osu.ppy.sh/users/444868), ::Flanster::{ user=447818 }, and [p3n](https://osu.ppy.sh/users/123703) | [Link](https://www.youtube.com/watch?v=tIEuc4DK_nM) |
-| 10 | osu!next round 2 | ::flyte::{ user=3103765 }, and [peppy](https://osu.ppy.sh/users/2) | [Link](https://www.youtube.com/watch?v=tICLLkOlpno) |
-| 11 | Catch the Beat Discussion | ::Kingkevin30::{ user=564334 }, [- Magic Bomb -](https://osu.ppy.sh/users/3071175), ::Candlestorm::{ user=6115166 }, [Saki](https://osu.ppy.sh/users/3026611), and ::Zak::{ user=1375955 } | [Link](https://www.youtube.com/watch?v=1SvUNLkcoQg) |
-| 12 | osu!idol Discussion | ::Flanster::{ user=447818 }, [shARPII](https://osu.ppy.sh/users/776257), and ::Kyonko Hizara::{ user=444868 } | [Link](https://www.youtube.com/watch?v=gwtlGM1GpWM) |
-| 13 | OWC 2015 | ::juankristal::{ user=443656 }, [Rohulk](https://osu.ppy.sh/users/3219026), ::Xilver15::{ user=3099689 }, and [Zak](https://osu.ppy.sh/users/1375955) | [Link](https://www.youtube.com/watch?v=vwIPweKIH-Y) |
-| 14 | Music | ::nekodex::{ user=102 } and [cYsmix](https://osu.ppy.sh/users/272870) | [Link](https://www.youtube.com/watch?v=qRnPEdVf4hU) |
-| 15 | Staff Hosted Events | ::Flanster::{ user=447818 } and [karterfreak](https://osu.ppy.sh/users/1031958) | [Link](https://www.youtube.com/watch?v=9EZBbmNYHaM) |
-| 16 | Aspire II | ::Ephemeral::{ user=102335 }, [Okoratu](https://osu.ppy.sh/users/1623405), ::Ciyus Miapah::{ user=2805457 }, and [Taeyang](https://osu.ppy.sh/users/2732340) | [Link](https://www.youtube.com/watch?v=h5_QV1hTdVk) |
-| 17 | OWC 2016 | ::juankristal::{ user=443656 }, [Doomsday](https://osu.ppy.sh/users/18983), and ::Omgforz::{ user=578943 } | [Link](https://www.youtube.com/watch?v=6TFaY-2L4QE) |
-| 18 | Nominator exams | ::Mao::{ user=2204515 }, [Feerum](https://osu.ppy.sh/users/4815717), and ::JBHyperion::{ user=4879508 } | [Link](https://www.youtube.com/watch?v=rV0gR3ctmBU) |
-| 19 | United States OWC team | ::HappyStick::{ user=256802 }, [Ritzeh](https://osu.ppy.sh/users/1028387), and ::idke::{ user=4650315 } | [Link](https://www.youtube.com/watch?v=9fsfdfBFsI8) |
-| 20 | Community Mentorship Program | ::Yuii-::{ user=2935923 }, [Raiden](https://osu.ppy.sh/users/2239480), ::JBHyperion::{ user=4879508 }, and [juankristal](https://osu.ppy.sh/users/443656) | [Link](https://www.youtube.com/watch?v=yseX90wmD5E) |
-| 21 | Aspire 2017 | ::Ephemeral::{ user=102335 }, [ProfessionalBox](https://osu.ppy.sh/users/3250792), ::pishifat::{ user=3178418 }, and [MinG3012](https://osu.ppy.sh/users/1583218) | [Link](https://www.youtube.com/watch?v=MyfupLRh1Io) |
-| 22 | Taiko World Cup 2017 | ::OnosakiHito::{ user=290128 }, [Raiden](https://osu.ppy.sh/users/2239480), ::magnomizer::{ user=1893718 }, and [Jaye](https://osu.ppy.sh/users/4841352) | [Link](https://www.youtube.com/watch?v=3RXemratCb8) |
-| 23 | Community Hosted Tournaments | ::Doomsday::{ user=18983 }, [HappyStick](https://osu.ppy.sh/users/256802), and ::juankristal::{ user=443656 } | [Link](https://www.youtube.com/watch?v=rqCvZq50MBc) |
-| 24 | Beatmap Nominator Restructure | ::pishifat::{ user=3178418 }, [Seijiro](https://osu.ppy.sh/users/2581696), ::Sonnyc::{ user=11771 }, [Xexxar](https://osu.ppy.sh/users/2773526), and ::Yuii-::{ user=2935923 } | [Link](https://www.youtube.com/watch?v=Va0cHczm8Mk) |
-| 25 | Community Created Rulesets | ::Shawdooow::{ user=7726082 }, [ColdVolcano](https://osu.ppy.sh/users/7492333), and ::andy840119::{ user=1030492 } | [Link](https://www.youtube.com/watch?v=0nuLwWejdII) |
-| 26 | osu!idol 2017 | ::Flanster::{ user=447818 }, [Kyonko Hizara](https://osu.ppy.sh/users/444868), ::CptHampton::{ user=3200587 }, and [HeatKai](https://osu.ppy.sh/users/332555) | [Link](https://www.youtube.com/watch?v=Xz2R18xeqhI) |
+| 1 | Staff Rework | ::Charles445::{ user=85000 }, ::Ephemeral::{ user=102335 }, and ::OnosakiHito::{ user=290128 } | [Link](https://www.youtube.com/watch?v=c10Jiq1xZus) |
+| 2 | Overmapping | ::Kyonko Hizara::{ user=444868 }, ::Loctav::{ user=71366 }, ::MMzz::{ user=128993 }, and ::OnosakiHito::{ user=290128 } | [Link](https://www.youtube.com/watch?v=RepSYE3hN3A) |
+| 3 | Moderation | ::Charles445::{ user=85000 }, ::Flanster::{ user=447818 }, and ::Kitokofox::{ user=1815420 } | [Link](https://www.youtube.com/watch?v=C1hvpnW5A7k) |
+| 4 | osu!academy and upcoming events | ::Charles445::{ user=85000 }, ::Kyonko Hizara::{ user=444868 }, and ::Kitokofox::{ user=1815420 } | [Link](https://www.youtube.com/watch?v=-N44vLwJ9oM) |
+| 5 | osu! World Cup 2014 | ::Charles445::{ user=85000 }, ::cptnXn::{ user=495272 }, ::Loctav::{ user=71366 }, ::Mr Color::{ user=116078 }, ::p3n::{ user=123703 }, and ::ToGlette::{ user=1076236 } | [Link](https://www.youtube.com/watch?v=Tl0E8vqubjw) |
+| 6 | osu! World Cup Grand Finals | ::cptnXn::{ user=495272 }, ::Doomsday::{ user=18983 }, ::Loctav::{ user=71366 }, ::Mr Color::{ user=116078 }, and ::Tom94::{ user=1857058 } | [Link](https://www.youtube.com/watch?v=bl63NpUz_T8) |
+| 7 | Guest difficulties vs single mapper set | ::Doomsday::{ user=18983 }, ::shARPII::{ user=776257 }, and ::WubWoofWolf::{ user=39828 } | [Link](https://www.youtube.com/watch?v=OMsHFRS662k) |
+| 8 | osu!next | ::flyte::{ user=3103765 }, and ::peppy::{ user=2 } | [Link](https://www.youtube.com/watch?v=jBUNIDa427Q) |
+| 9 | Legends of the addicting circle clicking | ::Charles445::{ user=85000 }, ::Kyonko Hizara::{ user=444868 }, ::Flanster::{ user=447818 }, and ::p3n::{ user=123703 } | [Link](https://www.youtube.com/watch?v=tIEuc4DK_nM) |
+| 10 | osu!next round 2 | ::flyte::{ user=3103765 }, and ::peppy::{ user=2 } | [Link](https://www.youtube.com/watch?v=tICLLkOlpno) |
+| 11 | Catch the Beat Discussion | ::Kingkevin30::{ user=564334 }, ::- Magic Bomb -::{ user=3071175 }, ::Candlestorm::{ user=6115166 }, ::Saki::{ user=3026611 }, and ::Zak::{ user=1375955 } | [Link](https://www.youtube.com/watch?v=1SvUNLkcoQg) |
+| 12 | osu!idol Discussion | ::Flanster::{ user=447818 }, ::shARPII::{ user=776257 }, and ::Kyonko Hizara::{ user=444868 } | [Link](https://www.youtube.com/watch?v=gwtlGM1GpWM) |
+| 13 | OWC 2015 | ::juankristal::{ user=443656 }, ::Rohulk::{ user=3219026 }, ::Xilver15::{ user=3099689 }, and ::Zak::{ user=1375955 } | [Link](https://www.youtube.com/watch?v=vwIPweKIH-Y) |
+| 14 | Music | ::nekodex::{ user=102 } and ::cYsmix::{ user=272870 } | [Link](https://www.youtube.com/watch?v=qRnPEdVf4hU) |
+| 15 | Staff Hosted Events | ::Flanster::{ user=447818 } and ::karterfreak::{ user=1031958 } | [Link](https://www.youtube.com/watch?v=9EZBbmNYHaM) |
+| 16 | Aspire II | ::Ephemeral::{ user=102335 }, ::Okoratu::{ user=1623405 }, ::Ciyus Miapah::{ user=2805457 }, and ::Taeyang::{ user=2732340 } | [Link](https://www.youtube.com/watch?v=h5_QV1hTdVk) |
+| 17 | OWC 2016 | ::juankristal::{ user=443656 }, ::Doomsday::{ user=18983 }, and ::Omgforz::{ user=578943 } | [Link](https://www.youtube.com/watch?v=6TFaY-2L4QE) |
+| 18 | Nominator exams | ::Mao::{ user=2204515 }, ::Feerum::{ user=4815717 }, and ::JBHyperion::{ user=4879508 } | [Link](https://www.youtube.com/watch?v=rV0gR3ctmBU) |
+| 19 | United States OWC team | ::HappyStick::{ user=256802 }, ::Ritzeh::{ user=1028387 }, and ::idke::{ user=4650315 } | [Link](https://www.youtube.com/watch?v=9fsfdfBFsI8) |
+| 20 | Community Mentorship Program | ::Yuii-::{ user=2935923 }, ::Raiden::{ user=2239480 }, ::JBHyperion::{ user=4879508 }, and ::juankristal::{ user=443656 } | [Link](https://www.youtube.com/watch?v=yseX90wmD5E) |
+| 21 | Aspire 2017 | ::Ephemeral::{ user=102335 }, ::ProfessionalBox::{ user=3250792 }, ::pishifat::{ user=3178418 }, and ::MinG3012::{ user=1583218 } | [Link](https://www.youtube.com/watch?v=MyfupLRh1Io) |
+| 22 | Taiko World Cup 2017 | ::OnosakiHito::{ user=290128 }, ::Raiden::{ user=2239480 }, ::magnomizer::{ user=1893718 }, and ::Jaye::{ user=4841352 } | [Link](https://www.youtube.com/watch?v=3RXemratCb8) |
+| 23 | Community Hosted Tournaments | ::Doomsday::{ user=18983 }, ::HappyStick::{ user=256802 }, and ::juankristal::{ user=443656 } | [Link](https://www.youtube.com/watch?v=rqCvZq50MBc) |
+| 24 | Beatmap Nominator Restructure | ::pishifat::{ user=3178418 }, ::Seijiro::{ user=2581696 }, ::Sonnyc::{ user=11771 }, ::Xexxar::{ user=2773526 }, and ::Yuii-::{ user=2935923 } | [Link](https://www.youtube.com/watch?v=Va0cHczm8Mk) |
+| 25 | Community Created Rulesets | ::Shawdooow::{ user=7726082 }, ::ColdVolcano::{ user=7492333 }, and ::andy840119::{ user=1030492 } | [Link](https://www.youtube.com/watch?v=0nuLwWejdII) |
+| 26 | osu!idol 2017 | ::Flanster::{ user=447818 }, ::Kyonko Hizara::{ user=444868 }, ::CptHampton::{ user=3200587 }, and ::HeatKai::{ user=332555 } | [Link](https://www.youtube.com/watch?v=Xz2R18xeqhI) |
 
 ## Specials
 
 | EP No. | Topic | Guests | Link |
 | :-- | :-- | :-- | :-- |
 | 1 | Ask Me Anything | *N/A* | [Link](https://www.youtube.com/watch?v=A0xqa-vBPgY) |
-| 2 | Ask Me Anything 2015 | ::Charles445::{ user=85000 }, [Flanster](https://osu.ppy.sh/users/447818), and ::p3n::{ user=123703 } | [Link](https://www.youtube.com/watch?v=a9An8cD18Co) |
+| 2 | Ask Me Anything 2015 | ::Charles445::{ user=85000 }, ::Flanster::{ user=447818 }, and ::p3n::{ user=123703 } | [Link](https://www.youtube.com/watch?v=a9An8cD18Co) |
 | 3 | 1 year anniversary | ::Charles445::{ user=85000 } | [Link](https://www.youtube.com/watch?v=AHU7RgGCB50) |
-| 4 | Welcome back | ::Kyonko Hizara::{ user=444868 }, [Nyquill](https://osu.ppy.sh/users/682935), and ::Zak::{ user=1375955 } | [Link](https://www.youtube.com/watch?v=mxXNNH5bnU4) |
+| 4 | Welcome back | ::Kyonko Hizara::{ user=444868 }, ::Nyquill::{ user=682935 }, and ::Zak::{ user=1375955 } | [Link](https://www.youtube.com/watch?v=mxXNNH5bnU4) |
 | 5 | Upcoming events Q&A | ::Kyonko Hizara::{ user=444868 } | [Link](https://www.youtube.com/watch?v=-f9hGuNC4Jg) |
 
 ## External links

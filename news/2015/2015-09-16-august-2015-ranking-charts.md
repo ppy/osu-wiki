@@ -7,7 +7,7 @@ series: beatmap_spotlights
 ---
 
 The Ranking Charts for August 2015 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1508)!
-This month ::Sieg::{ user=1404615 }, [Nardoxyribonucleic](https://osu.ppy.sh/users/876419), ::diao::{ user=500696 } and [juankristal](https://osu.ppy.sh/users/443656) picked the maps for the Monthly Ranking Charts.
+This month ::Sieg::{ user=1404615 }, ::Nardoxyribonucleic::{ user=876419 }, ::diao::{ user=500696 } and ::juankristal::{ user=443656 } picked the maps for the Monthly Ranking Charts.
 
 ## Ranking Charts Creation
 

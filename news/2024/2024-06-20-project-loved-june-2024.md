@@ -22,8 +22,8 @@ As always, we'd like to thank all of you who voted in the May round! Want to vie
 
 We also have some changes to our team! Take a look at them below:
 
-- The osu!mania Loved Captains are the focus this time, we'd like to thank ::kadoen::{ user=12780575 } and [Leeju](https://osu.ppy.sh/users/18219603) for their service, and wish them well going forward! Don't worry metadata enthusiasts, kadoen will still be staying as a Metadata Reviewer!
-- And it continues on! To help with the above departures, ::Maxus::{ user=4335785 }, [Carpihat](https://osu.ppy.sh/users/10085090) and ::taba2::{ user=7850508 } have all joined the osu!mania Loved Captains. Give them your best welcome!
+- The osu!mania Loved Captains are the focus this time, we'd like to thank ::kadoen::{ user=12780575 } and ::Leeju::{ user=18219603 } for their service, and wish them well going forward! Don't worry metadata enthusiasts, kadoen will still be staying as a Metadata Reviewer!
+- And it continues on! To help with the above departures, ::Maxus::{ user=4335785 }, ::Carpihat::{ user=10085090 } and ::taba2::{ user=7850508 } have all joined the osu!mania Loved Captains. Give them your best welcome!
 
 ### Navigation
 
@@ -34,7 +34,7 @@ We also have some changes to our team! Take a look at them below:
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::BATBALL::{ user=15173952 }, [chiv](https://osu.ppy.sh/users/6701656), ::Librarian::{ user=10083084 }, [Lilian](https://osu.ppy.sh/users/8589120), ::megumic::{ user=7537133 }, and [Mismagius](https://osu.ppy.sh/users/19048)!
+The osu! Loved candidates were chosen by ::BATBALL::{ user=15173952 }, ::chiv::{ user=6701656 }, ::Librarian::{ user=10083084 }, ::Lilian::{ user=8589120 }, ::megumic::{ user=7537133 }, and ::Mismagius::{ user=19048 }!
 
 <div align="center">
   <video width="95%" controls>
@@ -46,7 +46,7 @@ The osu! Loved candidates were chosen by ::BATBALL::{ user=15173952 }, [chiv](ht
 
 [![](/wiki/shared/news/2024-06-20-project-loved-june-2024/1225170.jpg)](https://osu.ppy.sh/community/forums/topics/1938040)
 
-[TheFatRat, Slaydit, Anjulie - Stronger](https://osu.ppy.sh/beatmapsets/1225170#osu) by ::OverXon::{ user=13088868 } and [ADR1Ft](https://osu.ppy.sh/users/15698567)\
+[TheFatRat, Slaydit, Anjulie - Stronger](https://osu.ppy.sh/beatmapsets/1225170#osu) by ::OverXon::{ user=13088868 } and ::ADR1Ft::{ user=15698567 }\
 160 BPM, 3:11 | 4.09★, 4.37★, 4.65★, 4.83★, 5.14★\
 *description written by ::Mismagius::{ user=19048 }*
 
@@ -80,7 +80,7 @@ If you think you have what it takes, vote yes to see this map get Loved!
 
 [![](/wiki/shared/news/2024-06-20-project-loved-june-2024/1100720.jpg)](https://osu.ppy.sh/community/forums/topics/1938036)
 
-[goreshit - die!!die!!cover!!!](https://osu.ppy.sh/beatmapsets/1100720#osu) by ::melloe::{ user=2367616 }, [Asphyxia](https://osu.ppy.sh/users/1715720), and ::Axarious::{ user=2614511 }\
+[goreshit - die!!die!!cover!!!](https://osu.ppy.sh/beatmapsets/1100720#osu) by ::melloe::{ user=2367616 }, ::Asphyxia::{ user=1715720 }, and ::Axarious::{ user=2614511 }\
 193 BPM, 5:38 | 7.47★\
 *description written by ::Lilian::{ user=8589120 }*
 
@@ -92,13 +92,13 @@ If you think you can tackle this beast of a map, make sure to vote yes to see th
 
 [![](/wiki/shared/news/2024-06-20-project-loved-june-2024/1656902.jpg)](https://osu.ppy.sh/community/forums/topics/1938035)
 
-[Camellia - Chirality](https://osu.ppy.sh/beatmapsets/1656902#osu) by ::funny::{ user=8473573 }, [arkisol](https://osu.ppy.sh/users/9331411), ::DeviousPanda::{ user=4966334 }, [Ducky-](https://osu.ppy.sh/users/9351565), ::enri::{ user=8640970 }, [fooders](https://osu.ppy.sh/users/7545218), ::Kyumo::{ user=14689984 }, [Lotragon](https://osu.ppy.sh/users/6063342), ::Mysty::{ user=10210657 }, [Nytrocide\_](https://osu.ppy.sh/users/11327918), ::PaRaDogi::{ user=2054596 }, [Sunazuka Akira](https://osu.ppy.sh/users/8846632), and ::Syodou::{ user=11333236 }\
+[Camellia - Chirality](https://osu.ppy.sh/beatmapsets/1656902#osu) by ::funny::{ user=8473573 }, ::arkisol::{ user=9331411 }, ::DeviousPanda::{ user=4966334 }, ::Ducky-::{ user=9351565 }, ::enri::{ user=8640970 }, ::fooders::{ user=7545218 }, ::Kyumo::{ user=14689984 }, ::Lotragon::{ user=6063342 }, ::Mysty::{ user=10210657 }, ::Nytrocide\_::{ user=11327918 }, ::PaRaDogi::{ user=2054596 }, ::Sunazuka Akira::{ user=8846632 }, and ::Syodou::{ user=11333236 }\
 201 BPM, 1:38 | 1.67★ – 8.63★\
 *description written by ::chiv::{ user=6701656 }*
 
 HELP!! I'm trapped in a simulation and I need to name 10 2024 tech mappers IMMEDIATELY!!!
 
-... is exactly what you'd say the moment you even glance at this map. A parallel to last month's [Call My Name](https://osu.ppy.sh/beatmapsets/824872#osu/3316181) composed by [Mameyudoufu](https://osu.ppy.sh/beatmaps/artists/209), [Chirality](https://osu.ppy.sh/beatmapsets/1656902#osu/3381891) illustrates modern slider tech development with mappers like ::funny::{ user=8473573 }, [arkisol](https://osu.ppy.sh/users/9331411), and ::Sunazuka Akira::{ user=8846632 } leading the charge. It's no surprise that this map takes the fundamentals of slider tech and brings it to the next level through even heavier slider movement, reading density, and rhythm control. Lock in for this week's *Ranked Rejects* pick as Camellia delivers yet again with another classic!
+... is exactly what you'd say the moment you even glance at this map. A parallel to last month's [Call My Name](https://osu.ppy.sh/beatmapsets/824872#osu/3316181) composed by [Mameyudoufu](https://osu.ppy.sh/beatmaps/artists/209), [Chirality](https://osu.ppy.sh/beatmapsets/1656902#osu/3381891) illustrates modern slider tech development with mappers like ::funny::{ user=8473573 }, ::arkisol::{ user=9331411 }, and ::Sunazuka Akira::{ user=8846632 } leading the charge. It's no surprise that this map takes the fundamentals of slider tech and brings it to the next level through even heavier slider movement, reading density, and rhythm control. Lock in for this week's *Ranked Rejects* pick as Camellia delivers yet again with another classic!
 
 Set feels like it's missing something... Maybe a ::Halgoh::{ user=4109923 } diff... Or a [Nines collab](https://osu.ppy.sh/beatmapsets/824872#osu/3316181)... Where's ::Altai::{ user=5745865 }...
 
@@ -130,7 +130,7 @@ Let's plz enjoy game together and give this beatmap the leaderboard it deserves!
 
 [![](/wiki/shared/news/2024-06-20-project-loved-june-2024/1192056.jpg)](https://osu.ppy.sh/community/forums/topics/1938032)
 
-[Inugami Korone - Koro Funk!](https://osu.ppy.sh/beatmapsets/1192056#osu) by ::Petal::{ user=7354729 }, [Deppyforce](https://osu.ppy.sh/users/5286213), ::PaRaDogi::{ user=2054596 }, and [Usaha](https://osu.ppy.sh/users/6443117)\
+[Inugami Korone - Koro Funk!](https://osu.ppy.sh/beatmapsets/1192056#osu) by ::Petal::{ user=7354729 }, ::Deppyforce::{ user=5286213 }, ::PaRaDogi::{ user=2054596 }, and ::Usaha::{ user=6443117 }\
 107.2 BPM, 1:34 | 1.56★, 2.14★, 3.11★, 3.99★, 4.68★\
 *description written by ::megumic::{ user=7537133 }*
 
@@ -148,7 +148,7 @@ YUBIIIIIIIIIIII YUUUUUUUUUUUUBBBIIIIIIIIIIIIIIIIIIIII!!!!!!!!!!!!!!!!!!!!!!!
 
 [![](/wiki/shared/news/2024-06-20-project-loved-june-2024/650108.jpg)](https://osu.ppy.sh/community/forums/topics/1938031)
 
-[Uchida Maaya - Karappo Capsule](https://osu.ppy.sh/beatmapsets/650108#osu) by ::Meg::{ user=1872496 } and [izacchi](https://osu.ppy.sh/users/941906)\
+[Uchida Maaya - Karappo Capsule](https://osu.ppy.sh/beatmapsets/650108#osu) by ::Meg::{ user=1872496 } and ::izacchi::{ user=941906 }\
 136 BPM, 4:34 | 5.61★\
 *description written by ::Librarian::{ user=10083084 }*
 
@@ -164,13 +164,13 @@ Back in 2017 when I was firstly attempting to learn alt, and really any sense of
 
 Yes, this month's DEMONIC ⭐9 STAR⭐ WHITEPOGGABLE AIM COLLECTION EXTRAVAGANZA is from none other than our beloved aim chef apoq.
 
-Yes, it's [Quick Charge](https://osu.ppy.sh/beatmapsets/1841800#osu/3783035). Yes, this was mapped for the greatest tournament held of all time, [Aim Battle Royale](https://twitter.com/osuallstars/status/1561790519797325831). Yes, you'll probably see many aim players ::come out of the woodworks::{ user=1597068 } just to upload their leaderboard score (please come back). Yes, this will probably be pinned for many across the globe. Yes, there are two diffs being Loved, one for ::friends and family::{ user=14869297 } and one for the ::players::{ user=11684952 } who have [sold](https://osu.ppy.sh/users/5783315) their ::soul::{ user=8472976 }. Yes, you'll play it, and maybe you can vote Yes while you're at it.
+Yes, it's [Quick Charge](https://osu.ppy.sh/beatmapsets/1841800#osu/3783035). Yes, this was mapped for the greatest tournament held of all time, [Aim Battle Royale](https://twitter.com/osuallstars/status/1561790519797325831). Yes, you'll probably see many aim players ::come out of the woodworks::{ user=1597068 } just to upload their leaderboard score (please come back). Yes, this will probably be pinned for many across the globe. Yes, there are two diffs being Loved, one for ::friends and family::{ user=14869297 } and one for the ::players::{ user=11684952 } who have ::sold::{ user=5783315 } their ::soul::{ user=8472976 }. Yes, you'll play it, and maybe you can vote Yes while you're at it.
 
 Moshi moshi? GranDSenpai-san? Yes, it's time for more demon aim to be Loved.
 
 [![](/wiki/shared/news/2024-06-20-project-loved-june-2024/718974.jpg)](https://osu.ppy.sh/community/forums/topics/1938029)
 
-[goreshit - jeh, right.](https://osu.ppy.sh/beatmapsets/718974#osu) by ::Corim::{ user=4242767 } and [DigitalHypno](https://osu.ppy.sh/users/4384207)\
+[goreshit - jeh, right.](https://osu.ppy.sh/beatmapsets/718974#osu) by ::Corim::{ user=4242767 } and ::DigitalHypno::{ user=4384207 }\
 194 BPM, 2:41 | 7.44★\
 *description written by ::megumic::{ user=7537133 }*
 
@@ -188,7 +188,7 @@ Sigh... I'm tired. Just go vote for the map and let's get this month's picks ove
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::aceticke::{ user=8838763 }, [Boaz](https://osu.ppy.sh/users/13302996), ::Eriha::{ user=16320311 }, [Gamelan4](https://osu.ppy.sh/users/9856910), and ::ler1211::{ user=19901680 }!
+The osu!taiko Loved candidates were chosen by ::aceticke::{ user=8838763 }, ::Boaz::{ user=13302996 }, ::Eriha::{ user=16320311 }, ::Gamelan4::{ user=9856910 }, and ::ler1211::{ user=19901680 }!
 
 <div align="center">
   <video width="95%" controls>
@@ -222,11 +222,11 @@ This map is a good introduction to double BPM maps with 1/6 and 1/8 bursts at 15
 
 [![](/wiki/shared/news/2024-06-20-project-loved-june-2024/1346344.jpg)](https://osu.ppy.sh/community/forums/topics/1938026)
 
-[Sasaki Eri - Fuyu Biyori (Polcka Remix)](https://osu.ppy.sh/beatmapsets/1346344#taiko) by ::Waribashi::{ user=2250574 } and [KawaiiBass](https://osu.ppy.sh/users/11992585)\
+[Sasaki Eri - Fuyu Biyori (Polcka Remix)](https://osu.ppy.sh/beatmapsets/1346344#taiko) by ::Waribashi::{ user=2250574 } and ::KawaiiBass::{ user=11992585 }\
 160 BPM, 3:31 | 7.31★\
 *description written by ::Gamelan4::{ user=9856910 }*
 
-Maps such as ::KawaiiBass::{ user=11992585 } and [KTYN](https://osu.ppy.sh/users/2250574)'s (now Waribashi) [Sasaki Eri - Fuyu Biyori (Polcka Remix)](https://osu.ppy.sh/beatmapsets/1346344#taiko/2788245) have been synonymous to osu!taiko's Loved category for several years. Double BPM mapping with clever improvisations were long given leaderboards and a large following before they made their appearance in the Ranked section. This doesn't mean these kinds of maps are going to disappear from Loved — several popular sets sit patiently for their opportunity to be featured in future Loved rounds. This set's overwhelming popularity is the community's way to say they love the intensity and freedom the map transmits, an expected reaction considering the two household names responsible for this amazing collab.
+Maps such as ::KawaiiBass::{ user=11992585 } and ::KTYN::{ user=2250574 }'s (now Waribashi) [Sasaki Eri - Fuyu Biyori (Polcka Remix)](https://osu.ppy.sh/beatmapsets/1346344#taiko/2788245) have been synonymous to osu!taiko's Loved category for several years. Double BPM mapping with clever improvisations were long given leaderboards and a large following before they made their appearance in the Ranked section. This doesn't mean these kinds of maps are going to disappear from Loved — several popular sets sit patiently for their opportunity to be featured in future Loved rounds. This set's overwhelming popularity is the community's way to say they love the intensity and freedom the map transmits, an expected reaction considering the two household names responsible for this amazing collab.
 
 The next step is up to the players, so as always, it's up to you: go ahead and have some fun bashing some drums!
 
@@ -257,7 +257,7 @@ Give some love to this mapset and let us know what you think by voting!
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::Dahcreeper::{ user=6926006 }, [fuhie](https://osu.ppy.sh/users/7620002), and ::Secre::{ user=2306637 }!
+The osu!catch Loved candidates were chosen by ::Dahcreeper::{ user=6926006 }, ::fuhie::{ user=7620002 }, and ::Secre::{ user=2306637 }!
 
 <div align="center">
   <video width="95%" controls>
@@ -289,7 +289,7 @@ Not much else to say. If you want some simple but great hyperwalks and have not 
 
 [![](/wiki/shared/news/2024-06-20-project-loved-june-2024/2004108.jpg)](https://osu.ppy.sh/community/forums/topics/1938021)
 
-[lapix - Flamenco House](https://osu.ppy.sh/beatmapsets/2004108#fruits) by ::-Ken::{ user=4430811 } and [Celektus](https://osu.ppy.sh/users/4294993)\
+[lapix - Flamenco House](https://osu.ppy.sh/beatmapsets/2004108#fruits) by ::-Ken::{ user=4430811 } and ::Celektus::{ user=4294993 }\
 130 BPM, 2:21 | 4.90★\
 *description written by ::Secre::{ user=2306637 }*
 
@@ -297,7 +297,7 @@ It wouldn't be a complete month without another one of ::-Ken::{ user=4430811 }'
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::Carpihat::{ user=10085090 }, [elexire](https://osu.ppy.sh/users/9206093), ::Leeju::{ user=18219603 }, [Maxus](https://osu.ppy.sh/users/4335785), ::Paturages::{ user=1375479 }, [SunApple](https://osu.ppy.sh/users/11817622), and ::YuEast 2018::{ user=13953619 }!
+The osu!mania Loved candidates were chosen by ::Carpihat::{ user=10085090 }, ::elexire::{ user=9206093 }, ::Leeju::{ user=18219603 }, ::Maxus::{ user=4335785 }, ::Paturages::{ user=1375479 }, ::SunApple::{ user=11817622 }, and ::YuEast 2018::{ user=13953619 }!
 
 <div align="center">
   <video width="95%" controls>
@@ -431,7 +431,7 @@ Want to see this awesome set in the Loved collection for you to play? Don't forg
 
 [![](/wiki/shared/news/2024-06-20-project-loved-june-2024/260805.jpg)](https://osu.ppy.sh/community/forums/topics/1938011)
 
-[Yooh - Shanghai Kouchakan \~ Chinese Tea Orchid Remix](https://osu.ppy.sh/beatmapsets/260805#mania) by ::17VA::{ user=1895984 } and [Shinzo-](https://osu.ppy.sh/users/4720038)\
+[Yooh - Shanghai Kouchakan \~ Chinese Tea Orchid Remix](https://osu.ppy.sh/beatmapsets/260805#mania) by ::17VA::{ user=1895984 } and ::Shinzo-::{ user=4720038 }\
 188 BPM, 1:52 | 2.52★, 3.50★, 5.12★, 6.41★, 7.23★\
 *description written by ::Maxus::{ user=4335785 }*
 

@@ -44,7 +44,7 @@ Save your precious fingers from scrolling too much by skipping to any section be
 
 ::uone::{ user=5321719 } has been a [contest point](/wiki/Contests/Contest_points) collector recently. After winning [Twin Trials](/wiki/Contests/Twin_Trials_Contest), [Vocaloid Mapping Contest 2](/wiki/Contests/VMC/2), and June's MBC, he's earned his well-deserved status in the halls of our *Elite Mappers*!
 
-Special thanks to ::arcpotato::{ user=12842392 }, [meiqth](https://osu.ppy.sh/users/12565402), ::Yasuho::{ user=8458835 }, and [SimplySynthy](https://osu.ppy.sh/users/15272997) for judging!
+Special thanks to ::arcpotato::{ user=12842392 }, ::meiqth::{ user=12565402 }, ::Yasuho::{ user=8458835 }, and ::SimplySynthy::{ user=15272997 } for judging!
 
 ### osu!catch results
 
@@ -65,7 +65,7 @@ Special thanks to ::arcpotato::{ user=12842392 }, [meiqth](https://osu.ppy.sh/us
 
 ::Xinnoh::{ user=4236057 } received the *Elite Mapper* title long ago through another mapping contest, but he's back again to continue proving his osu!catch competence. Congrats on yet another success!
 
-These results were determined by osu!catch's judging panel: ::Morusya::{ user=13681464 }, [Unlucky_w](https://osu.ppy.sh/users/4820793), ::Greaper::{ user=2369776 }, and [Chatie](https://osu.ppy.sh/users/6524765)!
+These results were determined by osu!catch's judging panel: ::Morusya::{ user=13681464 }, ::Unlucky\1w::{ user=4820793 }, ::Greaper::{ user=2369776 }, and ::Chatie::{ user=6524765 }!
 
 ## Game modes
 

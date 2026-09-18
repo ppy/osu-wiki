@@ -206,7 +206,7 @@ I was approached by ::mangomizer::{ user=1893718 }, asking me if I'm interested 
 
 That was actually pretty interesting. I chose osu!catch specifically because it's the mode I'm currently playing and I thought it'd be cool for me to provide art assets for it, kinda representing catch players in a way since there's not a lot of people in the community in the first place.
 
-That was my first time doing a collab project with other artists and designers. I don't know if I'm exactly good at communicating with other people so I was nervous, but it actually turned out to be fun. Shoutout to ::nepperoni::{ user=7082924 } and [saturn](https://osu.ppy.sh/users/22001295) for the awesome background art, and ::Sakura006::{ user=10365024 } for animating and carrying the whole project!
+That was my first time doing a collab project with other artists and designers. I don't know if I'm exactly good at communicating with other people so I was nervous, but it actually turned out to be fun. Shoutout to ::nepperoni::{ user=7082924 } and ::saturn::{ user=22001295 } for the awesome background art, and ::Sakura006::{ user=10365024 } for animating and carrying the whole project!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/2iYtNVtL9ds" frameborder="0" allowfullscreen></iframe>

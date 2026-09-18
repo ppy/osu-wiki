@@ -237,7 +237,7 @@ Unofficial tournaments/competitions hosted by the communities.
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Finnish Duo Cup | 2021-05-28 | 2021-07-18 | **\:godmode\:** (::{ flag=FI }:: ::Haadez::{ user=8925266 }, ::{ flag=PE }:: ::Arnold24x24::{ user=2291265 }) | **\:grin\:** (::{ flag=FI }:: [Freezd](https://osu.ppy.sh/users/6524603[), ::{ flag=CL }:: ::Intercambing::{ user=2546001 }) | **:^\)** (::{ flag=FI }:: ::HENKSELI::{ user=7005392 }, ::{ flag=US }:: ::Utami::{ user=7512553 }) |
+| Finnish Duo Cup | 2021-05-28 | 2021-07-18 | **\:godmode\:** (::{ flag=FI }:: ::Haadez::{ user=8925266 }, ::{ flag=PE }:: ::Arnold24x24::{ user=2291265 }) | **\:grin\:** (::{ flag=FI }:: ::Freezd::{ user=6524603 }, ::{ flag=CL }:: ::Intercambing::{ user=2546001 }) | **:^\)** (::{ flag=FI }:: ::HENKSELI::{ user=7005392 }, ::{ flag=US }:: ::Utami::{ user=7512553 }) |
 | Finnish Duo Cup 2022 | 2022-07-16 | 2022-08-21 | **Dafonz** (::{ flag=FI }:: ::Haadez::{ user=8925266 }, ::{ flag=PL }:: ::MALISZEWSKI::{ user=12408961 }) | **carrot fields** (::{ flag=FI }:: ::Amasetic::{ user=11375251 }, ::{ flag=AU }:: ::Dumii::{ user=3068044 }) | **nope** (::{ flag=FI }:: ::kadzackzz::{ user=7005392 }, ::{ flag=KR }:: ::\1Karcher\1::{ user=11443437 }) |
 | [Finnish Duo Cup 2025](FDC/2025) | 2025-01-11 | 2025-02-23 | **oddloop** (::{ flag=FI }:: ::Kalanluu::{ user=2035254 }, ::{ flag=PL }:: ::MALISZEWSKI::{ user=12408961 }) | **bunny party** (::{ flag=FI }:: ::Eevert::{ user=12080544 }, ::{ flag=KR }:: ::Amamya Kokoro::{ user=2511839 }) | **terence** (::{ flag=FI }:: ::house::{ user=15242810 }, ::{ flag=NO }:: ::NINERIK::{ user=10549880 }) |
 
@@ -506,9 +506,9 @@ Unofficial tournaments/competitions hosted by the communities.
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [16 player battle royale](The_Roundtable/16_player_battle_royale) | 2022-07-08 | 2022-07-08 | ::mrekk::{ user=7562902 } | [im_a_fancy_lad](https://osu.ppy.sh/users/4908650) | ::Utami::{ user=7512553 } & [RyuK](https://osu.ppy.sh/users/6304246) |
+| [16 player battle royale](The_Roundtable/16_player_battle_royale) | 2022-07-08 | 2022-07-08 | ::mrekk::{ user=7562902 } | ::im\1a\1fancy\1lad::{ user=4908650 } | ::Utami::{ user=7512553 } & ::RyuK::{ user=6304246 } |
 | [2v2 team tandem tournament](The_Roundtable/2v2_team_tandem_tournament) | 2022-07-09 | 2022-07-09 | No Stamina | Plasma Gunners | Eggward |
-| [1v1 double elimination](The_Roundtable/1v1_double_elimination) | 2022-07-09 | 2022-07-10 | ::Utami::{ user=7512553 } | [mrekk](https://osu.ppy.sh/users/7562902) | ::im\1a\1fancy\1lad::{ user=4908650 } |
+| [1v1 double elimination](The_Roundtable/1v1_double_elimination) | 2022-07-09 | 2022-07-10 | ::Utami::{ user=7512553 } | ::mrekk::{ user=7562902 } | ::im\1a\1fancy\1lad::{ user=4908650 } |
 
 #### [UK Community Cup](UKCC)
 
@@ -537,7 +537,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Ulat Bulu Cup 2019 | 2019-07-26 | 2019-08-31 | Jidank Hamil | Susu Vanilla Cimory | Budak Cygames |
 | [Ulat Bulu Cup 2020](UCUP/2020) | 2020-06-02 | 2020-07-12 | awan fanclub | Press 3 Fs to pay respects | terserah |
 | [Ulat Cup 2021](UCUP/2021) | 2021-09-13 | 2021-10-31 | Rushia | Surtr S3 | L9 Hamster |
-| [Ulat Cup 2022](UCUP/2022) | 2022-10-24 | 2022-12-11 | ::{ flag=TH }:: ::chests::{ user=14806365 } | ::{ flag=ID }:: ::BlankTap::{ user=10137131 } | [LouisZpro](https://osu.ppy.sh/users/6231292) |
+| [Ulat Cup 2022](UCUP/2022) | 2022-10-24 | 2022-12-11 | ::{ flag=TH }:: ::chests::{ user=14806365 } | ::{ flag=ID }:: ::BlankTap::{ user=10137131 } | ::LouisZpro::{ user=6231292 } |
 
 #### [Vin-Tana Solo Showdown](VTSS)
 
@@ -752,7 +752,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Catch the Beat Indonesia Cup 2020](CIC/2020) | 2020-07-10 | 2020-09-06 | ::{ flag=ID }:: ::Netamaru::{ user=1830361 } | ::{ flag=ID }:: ::dika312::{ user=741613 } | ::{ flag=ID }:: ::Galaxi::{ user=2552435 } |
 | [Catch the Beat Indonesia Cup 2021](CIC/2021) | 2021-06-01 | 2021-08-01 | ::{ flag=ID }:: ::Dika312::{ user=741613 } | ::{ flag=ID }:: ::CamXDanna::{ user=3243148 } | ::{ flag=ID }:: ::Nekuro::{ user=3222638 } |
 | [Catch the Beat Indonesia Cup 2022](CIC/2022) | 2022-03-04 | 2022-04-10 | ::{ flag=ID }:: ::Dika312::{ user=741613 } | ::{ flag=ID }:: ::Netamaru::{ user=1830361 } | ::{ flag=ID }:: ::Chroneko::{ user=5472877 } |
-| [Catch the Beat Indonesia Cup 2023](CIC/2023) | 2023-07-15 | 2023-08-27 | ::{ flag=ID }:: ::EpanPan::{ user=13194580 } | ::{ flag=TH }:: [EzyS](https://osu.ppy.sh/users/EzyS) | ::{ flag=ID }:: ::Keita::{ user=3355617 } |
+| [Catch the Beat Indonesia Cup 2023](CIC/2023) | 2023-07-15 | 2023-08-27 | ::{ flag=ID }:: ::EpanPan::{ user=13194580 } | ::{ flag=TH }:: ::EzyS::{ user=16271283 } | ::{ flag=ID }:: ::Keita::{ user=3355617 } |
 | [Catch the Beat Indonesia Cup Open 2024](CIC/Open_2024) | 2024-07-08 | 2024-09-01 | ::{ flag=ID }:: ::Nekuro::{ user=3222638 } | ::{ flag=TW }:: ::DoDoEbi::{ user=1177233 } | ::{ flag=RU }:: ::Kimitakari::{ user=4741164 } |
 | [Catch the Beat Indonesia Cup Open 2025](CIC/Open_2025) | 2025-07-28 | 2025-09-14 | ::{ flag=PH }:: ::Roido::{ user=6829103 } | ::{ flag=CN }:: ::- N a g i -::{ user=2956936 } | ::{ flag=RU }:: ::Nelly::{ user=4741164 } |
 

@@ -74,7 +74,7 @@ The French community came back in force once again last year with their osu! and
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/7Sr_KGgkvf8" frameborder="0" allowfullscreen></iframe>
 
-After several matches and an overwhelming victory in the final, ::VROUM CV VITE::{ user=7630971 } and [CharleLee](https://osu.ppy.sh/users/10434787) came out on top. In addition, during this event, ::Ekoro::{ user=284905 } even had the opportunity to show and share some of his wonderful gameplay.
+After several matches and an overwhelming victory in the final, ::VROUM CV VITE::{ user=7630971 } and ::CharleLee::{ user=10434787 } came out on top. In addition, during this event, ::Ekoro::{ user=284905 } even had the opportunity to show and share some of his wonderful gameplay.
 
 If you are interested in the event VOD, feel free to have a look on the [osu!frlive Twitch channel](https://www.twitch.tv/osufrlive).
 
@@ -84,7 +84,7 @@ If you are interested in the event VOD, feel free to have a look on the [osu!frl
 
 *Section written by ::\1gt::{ user=8301957 }*
 
-This month another Singaporean LAN took place, organised by ::megumic::{ user=7537133 } and [_gt](https://osu.ppy.sh/users/8301957). This time, the players fought on a mappool comprised of 29 custom maps, as well as 2 commissioned songs! 8 teams participated in the live tournament, with team *we go jim* consisting of ::Eagle5324::{ user=11987104 } and [Moroha29](https://osu.ppy.sh/users/9182389) taking home the final prize.
+This month another Singaporean LAN took place, organised by ::megumic::{ user=7537133 } and ::\1gt::{ user=8301957 }. This time, the players fought on a mappool comprised of 29 custom maps, as well as 2 commissioned songs! 8 teams participated in the live tournament, with team *we go jim* consisting of ::Eagle5324::{ user=11987104 } and ::Moroha29::{ user=9182389 } taking home the final prize.
 
 If you're interested, the whole event was broadcasted on the [osusg Twitch channel](https://twitch.tv/osusg), and you can find the VOD [here](https://www.twitch.tv/videos/1681272327), or if you just want a taste of the madness, check out this insane highlight below!
 
@@ -98,7 +98,7 @@ If you're interested, the whole event was broadcasted on the [osusg Twitch chann
 
 ![](/wiki/shared/news/2023-01-01-osumonthly-6/osu!mania-LNTournament-3.jpg)
 
-Earlier this month, the third installation of the [osu!mania LN Tournament](/wiki/Tournaments/o!mLN/3) was concluded! For those unaware, the tournament hosted by ::MashedPotato::{ user=10494860 }, [Polytetral](https://osu.ppy.sh/users/8612061), and ::\1yosh::{ user=7157133 } is currently the biggest, most well-known tournament centred around long notes. By the end of 2022 they concluded their biggest, most ambitious iteration, with quite the assortment of custom songs, charts, and well-tailored mappools for the enjoyment of players and viewers alike!
+Earlier this month, the third installation of the [osu!mania LN Tournament](/wiki/Tournaments/o!mLN/3) was concluded! For those unaware, the tournament hosted by ::MashedPotato::{ user=10494860 }, ::Polytetral::{ user=8612061 }, and ::\1yosh::{ user=7157133 } is currently the biggest, most well-known tournament centred around long notes. By the end of 2022 they concluded their biggest, most ambitious iteration, with quite the assortment of custom songs, charts, and well-tailored mappools for the enjoyment of players and viewers alike!
 
 | Placing | Player |
 | :-: | :-- |
@@ -106,7 +106,7 @@ Earlier this month, the third installation of the [osu!mania LN Tournament](/wik
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CZ }:: grillroasted |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=BR }:: DemiFiendSMT |
 
-For those who might've missed it, don't worry! The team broadcasted most, if not all matches on their [Twitch channel](https://www.twitch.tv/osumanialive). Even earlier matches were heavily contested by all players, including but is not limited to [the final, championship bout](https://www.twitch.tv/videos/1671582562) between ::Silhoueska Elze::{ user=11517895 } and [grillroasted](https://osu.ppy.sh/users/18271627), an 80-minute non-stop battle for the 1st place. Even a full-on ARG was made just to showcase ::HowToPlayLN::{ user=10879600 }'s [LNCryption](https://osu.ppy.sh/beatmapsets/1893946#mania/3902893) custom map and original song, as well as the rest of the team which played a huge part on all custom-made charts in the pools.
+For those who might've missed it, don't worry! The team broadcasted most, if not all matches on their [Twitch channel](https://www.twitch.tv/osumanialive). Even earlier matches were heavily contested by all players, including but is not limited to [the final, championship bout](https://www.twitch.tv/videos/1671582562) between ::Silhoueska Elze::{ user=11517895 } and ::grillroasted::{ user=18271627 }, an 80-minute non-stop battle for the 1st place. Even a full-on ARG was made just to showcase ::HowToPlayLN::{ user=10879600 }'s [LNCryption](https://osu.ppy.sh/beatmapsets/1893946#mania/3902893) custom map and original song, as well as the rest of the team which played a huge part on all custom-made charts in the pools.
 
 With that said, congratulations to everyone who participated in and helped with the project! If you're interested in joining future tournaments, please don't be afraid to join their [Discord server](https://discord.gg/SPQtt3s).
 
@@ -218,7 +218,7 @@ By the way, even if we don't mention all the beatmaps that have been ranked this
 
 #### Alakrity - Mighty Morphin Power Rangers mapped by Sytho - Community's favorite
 
-An iconic song that recalls the childhood of many of us, [Alakrity - Mighty Morphin Power Rangers](https://osu.ppy.sh/beatmapsets/1758657) of the *Power Rangers* series and adapted as a beatmap on osu! by ::Sytho::{ user=4175698 } has definitely been the community's favourite, either as nostalgia throwback or another set to farm for those juicy performance points. With amazing guest difficulties made by ::MakiDonalds::{ user=11610772 }, [Kirishima-](https://osu.ppy.sh/users/9234078) and ::rpoj::{ user=17421591 }, this map has a good balance between streams and jumps, making it a pleasant to play, and players appreciated that as shown by its high number of plays, reaching 400k at the end of the month.
+An iconic song that recalls the childhood of many of us, [Alakrity - Mighty Morphin Power Rangers](https://osu.ppy.sh/beatmapsets/1758657) of the *Power Rangers* series and adapted as a beatmap on osu! by ::Sytho::{ user=4175698 } has definitely been the community's favourite, either as nostalgia throwback or another set to farm for those juicy performance points. With amazing guest difficulties made by ::MakiDonalds::{ user=11610772 }, ::Kirishima-::{ user=9234078 } and ::rpoj::{ user=17421591 }, this map has a good balance between streams and jumps, making it a pleasant to play, and players appreciated that as shown by its high number of plays, reaching 400k at the end of the month.
 
 #### kessoku band - Seishun Complex mapped by \_kotachi\_ - Community's favorite
 
@@ -226,11 +226,11 @@ Another song that stood out this month is surely [kessoku band - Seishun Complex
 
 #### twenty one pilots - Heathens (Magnetude Bootleg) mapped by funny - osu!monthly Mapping Team's favourite
 
-It's a collab we've been waiting for a long time, and they sure didn't disappoint us! Some of the best tech mappers, including ::0ppInOsu::{ user=12551840 }, [-Doodle](https://osu.ppy.sh/users/12337329), ::enryotoki::{ user=10639122 }, [funny](https://osu.ppy.sh/users/8473573), ::Halgoh::{ user=4109923 }, [Rorupan L9](https://osu.ppy.sh/users/9471638), ::Sharu::{ user=5597639 } and [Xarr](https://osu.ppy.sh/users/7262065), gathered around [twenty one pilots - Heathens (Magnetude Bootleg)](https://osu.ppy.sh/beatmapsets/1851103) to show us once again what they are capable of. With a lively and rhythmic song, wonderfully represented by complex yet organised sliders, and a storyboard that just adds another dimension to the map, this collab definitely caught our eye!
+It's a collab we've been waiting for a long time, and they sure didn't disappoint us! Some of the best tech mappers, including ::0ppInOsu::{ user=12551840 }, ::-Doodle::{ user=12337329 }, ::enryotoki::{ user=10639122 }, ::funny::{ user=8473573 }, ::Halgoh::{ user=4109923 }, ::Rorupan L9::{ user=9471638 }, ::Sharu::{ user=5597639 } and ::Xarr::{ user=7262065 }, gathered around [twenty one pilots - Heathens (Magnetude Bootleg)](https://osu.ppy.sh/beatmapsets/1851103) to show us once again what they are capable of. With a lively and rhythmic song, wonderfully represented by complex yet organised sliders, and a storyboard that just adds another dimension to the map, this collab definitely caught our eye!
 
 #### Various Artists - Song Compilation V mapped by Sotarks - Bonus
 
-If you know a little bit about ::Sotarks::{ user=4452992 }, you should know that he sometimes makes songs compilations. He has recently launched his [Songs Compilation V](https://osu.ppy.sh/beatmapsets/1892585), but this time with a different theme, memes. With guest difficulties by ::Akitoshi::{ user=4754771 }, [Elinor](https://osu.ppy.sh/users/5419324), ::Nymphe::{ user=10507407 }, [Pepekcz](https://osu.ppy.sh/users/7784933) and ::Reform::{ user=3723568 }, Sotarks has linked fun, thanks to the songs, and seriousness, through its always excellent mapping, in a set completed by a beautiful storyboard made by ::PoNo::{ user=4610047 } that accompanies us throughout this journey to remind us of the memes through time.
+If you know a little bit about ::Sotarks::{ user=4452992 }, you should know that he sometimes makes songs compilations. He has recently launched his [Songs Compilation V](https://osu.ppy.sh/beatmapsets/1892585), but this time with a different theme, memes. With guest difficulties by ::Akitoshi::{ user=4754771 }, ::Elinor::{ user=5419324 }, ::Nymphe::{ user=10507407 }, ::Pepekcz::{ user=7784933 } and ::Reform::{ user=3723568 }, Sotarks has linked fun, thanks to the songs, and seriousness, through its always excellent mapping, in a set completed by a beautiful storyboard made by ::PoNo::{ user=4610047 } that accompanies us throughout this journey to remind us of the memes through time.
 
 ### Mapper Highlight
 
@@ -298,7 +298,7 @@ If you want to get into skinning but don't know where to start, check out the [s
 
 ## Did you know?
 
-Anyone's who remotely familiar with osu! is surely aware of ::Mismagius::{ user=19048 }' and [ztrot](https://osu.ppy.sh/users/6347)'s collab of [Can't Defeat Airman](https://osu.ppy.sh/beatmapsets/24313#osu/104229), one of osu!'s most played maps of all time. You might also know that there's [another *Can't Defeat Airman* map](https://osu.ppy.sh/beatmapsets/24084#osu/82033) by ::Sushi::{ user=43108 }, but did you know that they were originally supposed to be a part of the same beatmap?
+Anyone's who remotely familiar with osu! is surely aware of ::Mismagius::{ user=19048 }' and ::ztrot::{ user=6347 }'s collab of [Can't Defeat Airman](https://osu.ppy.sh/beatmapsets/24313#osu/104229), one of osu!'s most played maps of all time. You might also know that there's [another *Can't Defeat Airman* map](https://osu.ppy.sh/beatmapsets/24084#osu/82033) by ::Sushi::{ user=43108 }, but did you know that they were originally supposed to be a part of the same beatmap?
 
 That's right, originally the map by Mismagius and ztrot was supposed to be a guest difficulty on Sushi's beatmap. However, this didn't happen due to multiple reasons, some of them being that the map was considered too hard to be ranked at the time (so it would have to be [approved](/wiki/Beatmap/Category) instead), and Sushi feeling like the guest difficulty would overshadow his other difficulties.
 

@@ -142,7 +142,7 @@
 - ::lovhin456::{ user=55096 }をビートマップアプリーシエイションチームからosu! Alumniへ (2013-08-02)
 - ::Miya::{ user=909167 }をビートマップアプリーシエイションチームからosu! Alumniへ (2013-08-02)
 - ::orioncomet::{ user=104827 }をビートマップアプリーシエイションチームからosu! Alumniへ (2013-08-02)
-- Moved [ykcarrot](https://osu.ppy.sh/users/ykcarrot) from ビートマップアプリーシエイションチーム to osu! Alumni (2013-08-02)
+- Moved ::ykcarrot::{ user=70730 } from ビートマップアプリーシエイションチーム to osu! Alumni (2013-08-02)
 - ::Frostmourne::{ user=199669 }をosu! Alumniからビートマップアプリーシエイションチームへ (2013-08-02)
 - ::bossandy::{ user=360437 }をosu! Alumniからビートマップアプリーシエイションチームへ (2013-08-14) <!-- https://osu.ppy.sh/community/forums/posts/2505082 -->
 - ::p3n::{ user=123703 }をosu! Alumniからビートマップアプリーシエイションチームへ (2013-08-16) <!-- https://osu.ppy.sh/community/forums/posts/2511981 -->

@@ -82,7 +82,7 @@ These have already closed as of February 2nd. Good luck to all applicants!
 
 It's surprising how much the tournament scene has evolved throughout the years in osu!mania. Even more so given how many people take it for granted. But after many years of unyielding dedication, we finally got to where we are!
 
-Having been active users in the osu!mania tournament scene, players ::Polytetral::{ user=8612061 }, [HowToPlayLN](https://osu.ppy.sh/users/10879600), and ::DannyPX::{ user=11253722 } alongside other contributors have [briefly gone through its history in article form](https://github.com/4digitmwc/media-centre-articles/blob/main/opinions/week3.md).
+Having been active users in the osu!mania tournament scene, players ::Polytetral::{ user=8612061 }, ::HowToPlayLN::{ user=10879600 }, and ::DannyPX::{ user=11253722 } alongside other contributors have [briefly gone through its history in article form](https://github.com/4digitmwc/media-centre-articles/blob/main/opinions/week3.md).
 
 For anyone interested on contributing to or reading their periodic articles, you can find them all in the [official 4 Digit MWC website](https://4digitmwc.github.io/media-centre/) or by scouring through their [GitHub repository](https://github.com/4digitmwc/media-centre-articles). Also, a good way to stay updated with their ongoing tournaments is through their [Twitch channel](https://www.twitch.tv/4digitmwc)!
 
@@ -169,7 +169,7 @@ To put this into context, the [previous record](https://osu.ppy.sh/scores/fruits
 
 ### Notable osu!mania plays of the month
 
-Unfortunately the monthly team did not see any mania plays worth mentioning this month, but if you believe this is incorrect feel free to reach out to us either via the osu!dev Discord server or reach out directly to ::RandomeLoL::{ user=7080063 } and [kadoen](https://osu.ppy.sh/users/12780575) who are in charge of this section.
+Unfortunately the monthly team did not see any mania plays worth mentioning this month, but if you believe this is incorrect feel free to reach out to us either via the osu!dev Discord server or reach out directly to ::RandomeLoL::{ user=7080063 } and ::kadoen::{ user=12780575 } who are in charge of this section.
 
 ## Mapping recap
 
@@ -225,7 +225,7 @@ At the beginning of the year, this small project made by ::YamYA::{ user=4470854
 
 #### The Mappers Table
 
-[The Mappers Table Podcast](https://www.youtube.com/@themapperstablepodcast) is a group of mappers now consisting of ::hanabyte::{ user=8617799 }, [CallieCube](https://osu.ppy.sh/users/7535045) and ::PaRaDogi::{ user=2054596 } who have this month produced the first episode of a podcast about mapping. This month's guest, ::Camo::{ user=5194391 }, spoke with them about different topics around mapping such as their favourite maps, or more complex ones such as whether "fun" also means "good". In short, a new ambitious project by the community for mappers that we hope will be a success and last for a long time.
+[The Mappers Table Podcast](https://www.youtube.com/@themapperstablepodcast) is a group of mappers now consisting of ::hanabyte::{ user=8617799 }, ::CallieCube::{ user=7535045 } and ::PaRaDogi::{ user=2054596 } who have this month produced the first episode of a podcast about mapping. This month's guest, ::Camo::{ user=5194391 }, spoke with them about different topics around mapping such as their favourite maps, or more complex ones such as whether "fun" also means "good". In short, a new ambitious project by the community for mappers that we hope will be a success and last for a long time.
 
 #### MasterMapper 2023
 

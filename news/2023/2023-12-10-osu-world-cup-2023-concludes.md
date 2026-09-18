@@ -92,7 +92,7 @@ Each rendition of the osu! World Cup in the last few years has boasted exciting 
 
 [**View the VOD here!**](https://www.twitch.tv/videos/1980984349)
 
-Thought to be a break from the chaotic, high-stakes matches happening in the Semifinals, the showmatch on November 18 proved no escape, as the playtesters led by ::D I O::{ user=3958619 } and [Azer](https://osu.ppy.sh/users/2155578) stepped in for some of their most novel tournament performances of the year. Both sides won their first picks quickly but not quietly — ::nanoya::{ user=12366071 }'s 915k play on the classic HR stream map [xi - Blue Zenith](https://osu.ppy.sh/beatmapsets/292301#osu/657917) was absolutely massive, as some would say.
+Thought to be a break from the chaotic, high-stakes matches happening in the Semifinals, the showmatch on November 18 proved no escape, as the playtesters led by ::D I O::{ user=3958619 } and ::Azer::{ user=2155578 } stepped in for some of their most novel tournament performances of the year. Both sides won their first picks quickly but not quietly — ::nanoya::{ user=12366071 }'s 915k play on the classic HR stream map [xi - Blue Zenith](https://osu.ppy.sh/beatmapsets/292301#osu/657917) was absolutely massive, as some would say.
 
 After a few more back-and-forths, the teams alternated taking break points starting with an impressive 727k S-rank score from ::Nopekjk::{ user=4585186 } on alt-tech [FM2](https://osu.ppy.sh/beatmapsets/2088310#osu/4376248). ::Saryi::{ user=10051720 }'s MVP precision performance on [Toru Kawai - The Magician's Dream](https://osu.ppy.sh/beatmapsets/2088436#osu/4376547) secured the final blow as a 6–4 for SHIP IT.
 
@@ -104,7 +104,7 @@ Emerging from the bloodbath of the Finals stage a week later was a showmatch wit
 
 With nothing but bragging rights at stake, All Stars Blue picked into [xi - FREEDOM DiVE](https://osu.ppy.sh/beatmapsets/39804)... and let's just say ::Ekoro::{ user=284905 } took advantage of the fact that EZ and FL were allowed by the referee on Free Mod.
 
-And his team looked unstoppable, having gained 6 points in a row with team red having nil to say about it. Two thirds of the way through [Rohi - Gllensista](https://osu.ppy.sh/beatmapsets/2091797#osu/4384679) however, team blue was holding a 200k point lead and looked to secure the sweep — but in the blink of an eye, the whole lobby except ::scylla::{ user=9405745 } collapsed. All Stars Red managed to keep the match alive a little longer before ::Chicony::{ user=5199332 } and [Kingling](https://osu.ppy.sh/users/7010761) carried team blue across the finish line on [FELT - Puppet in the Dark](https://osu.ppy.sh/beatmapsets/326636#osu/725198), ending in a 7–3.
+And his team looked unstoppable, having gained 6 points in a row with team red having nil to say about it. Two thirds of the way through [Rohi - Gllensista](https://osu.ppy.sh/beatmapsets/2091797#osu/4384679) however, team blue was holding a 200k point lead and looked to secure the sweep — but in the blink of an eye, the whole lobby except ::scylla::{ user=9405745 } collapsed. All Stars Red managed to keep the match alive a little longer before ::Chicony::{ user=5199332 } and ::Kingling::{ user=7010761 } carried team blue across the finish line on [FELT - Puppet in the Dark](https://osu.ppy.sh/beatmapsets/326636#osu/725198), ending in a 7–3.
 
 ---
 
@@ -306,7 +306,7 @@ To get a slightly better understanding for how things went from the perspective 
 
 ::!\1\1(/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/Kama-banner.png)::{ user=13380270 }
 
-**Kama** (a.k.a. cheetoblast) was one of the new players of the winning team this year along with ::WindowLife::{ user=4108547 } and [wudci](https://osu.ppy.sh/users/2590257). While their portfolio of tournament podium positions are fewer in number compared to the World Cup veterans of the team, their performance was by no means insignificant.
+**Kama** (a.k.a. cheetoblast) was one of the new players of the winning team this year along with ::WindowLife::{ user=4108547 } and ::wudci::{ user=2590257 }. While their portfolio of tournament podium positions are fewer in number compared to the World Cup veterans of the team, their performance was by no means insignificant.
 
 ---
 

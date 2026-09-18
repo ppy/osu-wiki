@@ -58,7 +58,7 @@ While the aforementioned "user total" step is aimed to cover the majority of vis
 
 Based on the feedback from the [last survey we held on scoring and performance](https://assets.ppy.sh/pp-survey-results/viewer.htm?v=1337), we have established a Performance Points Committee to help facilitate faster review and uptake of incoming changes.
 
-This committee presently consists of ::**StanR**::{ user=7217455 }, [**emu1337**](https://osu.ppy.sh/users/2185987), ::**MBmasher**::{ user=4498616 } and [**Apo11o**](https://osu.ppy.sh/users/9558549). All of them are experienced and long-time contributors to the scene, and we are optimistic about where this new approach might take us.
+This committee presently consists of ::**StanR**::{ user=7217455 }, ::**emu1337**::{ user=2185987 }, ::**MBmasher**::{ user=4498616 } and ::**Apo11o**::{ user=9558549 }. All of them are experienced and long-time contributors to the scene, and we are optimistic about where this new approach might take us.
 
 ## osu! changes
 
@@ -145,7 +145,7 @@ Find yourself curious about the details? ::MBmasher::{ user=4498616 }'s write-up
 
 ### Speed hard cap removal
 
-The speed hard cap in osu! has been removed by ::**emu1337**::{ user=2185987 } and [**Apo11o**](https://osu.ppy.sh/users/9558549) in [this pull request](https://github.com/ppy/osu/pull/14617), allowing 300+ BPM streams to be weighed accurately.
+The speed hard cap in osu! has been removed by ::**emu1337**::{ user=2185987 } and ::**Apo11o**::{ user=9558549 } in [this pull request](https://github.com/ppy/osu/pull/14617), allowing 300+ BPM streams to be weighed accurately.
 
 The speed cap was previously set to 300 BPM to prevent abuse cases, which means that calculating difficulty on beatmaps with higher BPM requires special consideration. Two adjustments were made to account for that:
 
@@ -170,6 +170,6 @@ Alongside all those big changes above, there are some changes on the smaller sid
 
 ---
 
-Massive thanks to listed contributors for all the changes made above plus providing details and assistance with this newspost, and all the members of the community who gave their feedback. We'd also like to thank all of the wikifriends involved in helping iron out this article, especially ::spaceman\1atlas::{ user=3035836 }, [Walavouchey](https://osu.ppy.sh/users/5773079) and ::clayton::{ user=3666350 }.
+Massive thanks to listed contributors for all the changes made above plus providing details and assistance with this newspost, and all the members of the community who gave their feedback. We'd also like to thank all of the wikifriends involved in helping iron out this article, especially ::spaceman\1atlas::{ user=3035836 }, ::Walavouchey::{ user=5773079 } and ::clayton::{ user=3666350 }.
 
 —osu!team

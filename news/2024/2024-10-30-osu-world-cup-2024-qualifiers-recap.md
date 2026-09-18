@@ -13,7 +13,7 @@ With just over 1,200 registrations representing 77 countries, the osu! World Cup
 
 This OWC has come with another major update as the mappooling team opted to lift the double-banning restriction from previous years. This decision aligns more closely with modern tournament standards and was influenced by a shift away from traditional "slot pooling" towards a newly restructured, more varied mappool format.
 
-Let's dive deeper into the mappools and see what the team released for Qualifiers! Later, we'll chat with two of our head mappooling staff members, ::chiv::{ user=6701656 } and [Dada](https://osu.ppy.sh/users/9119507) to get the inside scoop on building a mappoool fit for top-tier competition.
+Let's dive deeper into the mappools and see what the team released for Qualifiers! Later, we'll chat with two of our head mappooling staff members, ::chiv::{ user=6701656 } and ::Dada::{ user=9119507 } to get the inside scoop on building a mappoool fit for top-tier competition.
 
 ## Mappool recap
 
@@ -98,7 +98,7 @@ Several teams made history by participating in the osu! World Cup Qualifiers for
 
 ![](/wiki/shared/news/2024-10-30-osu-world-cup-2024-qualifiers-recap/chiv-and-dada.png)
 
-Mappooling for the biggest tournament of the year is not an easy feat, especially for a stage as crucial as the Qualifiers. Below you will find an interview with ::chiv::{ user=6701656 } and [Dada](https://osu.ppy.sh/users/9119507), members of the osu! World Cup mappooling selector team. They are in charge of mappooling the entire tournament, but we will delve into the specifics of pooling for the Qualifiers.
+Mappooling for the biggest tournament of the year is not an easy feat, especially for a stage as crucial as the Qualifiers. Below you will find an interview with ::chiv::{ user=6701656 } and ::Dada::{ user=9119507 }, members of the osu! World Cup mappooling selector team. They are in charge of mappooling the entire tournament, but we will delve into the specifics of pooling for the Qualifiers.
 
 <div class="news-chat-quote__text-container">
 

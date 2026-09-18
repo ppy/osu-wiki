@@ -45,13 +45,13 @@ That should be all for now. Don't forget if you have any questions, or you're in
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::Mismagius::{ user=19048 }, [rHO](https://osu.ppy.sh/users/1629553), ::Skill::{ user=7802027 } and [Wixonater](https://osu.ppy.sh/users/10083084)!
+The osu! Loved candidates were chosen by ::Mismagius::{ user=19048 }, ::rHO::{ user=1629553 }, ::Skill::{ user=7802027 } and ::Wixonater::{ user=10083084 }!
 
 ---
 
 [![](/wiki/shared/news/2023-02-24-project-loved-february-2023/1192060.jpg)](https://osu.ppy.sh/community/forums/topics/1725981)
 
-[Camellia - #1f1e33](https://osu.ppy.sh/beatmapsets/1192060#osu) by ::Realazy::{ user=918297 }, [- Heatwave -](https://osu.ppy.sh/users/4166621), ::-\[Pino\]-::{ user=10120527 }, [Acylica](https://osu.ppy.sh/users/1943309), ::captin1::{ user=689997 }, [cotton__123](https://osu.ppy.sh/users/9823042), ::CrazyrabbitKGE::{ user=4481526 }, [Cubby](https://osu.ppy.sh/users/10914582), ::IOException::{ user=2688103 }, [Kloyd](https://osu.ppy.sh/users/1574070), ::lcfc::{ user=7322726 }, [Lobelia](https://osu.ppy.sh/users/4030114), ::Niva::{ user=197805 }, [Otosaka-Yu](https://osu.ppy.sh/users/3170678), ::Regou::{ user=419954 }, [ScubDomino](https://osu.ppy.sh/users/8972308), ::Seonah::{ user=11011335 }, [seros](https://osu.ppy.sh/users/10562853), ::Xen::{ user=4026817 } and [xLolicore-](https://osu.ppy.sh/users/4525153)\
+[Camellia - #1f1e33](https://osu.ppy.sh/beatmapsets/1192060#osu) by ::Realazy::{ user=918297 }, ::- Heatwave -::{ user=4166621 }, ::-\[Pino\]-::{ user=10120527 }, ::Acylica::{ user=1943309 }, ::captin1::{ user=689997 }, ::cotton\1\1123::{ user=9823042 }, ::CrazyrabbitKGE::{ user=4481526 }, ::Cubby::{ user=10914582 }, ::IOException::{ user=2688103 }, ::Kloyd::{ user=1574070 }, ::lcfc::{ user=7322726 }, ::Lobelia::{ user=4030114 }, ::Niva::{ user=197805 }, ::Otosaka-Yu::{ user=3170678 }, ::Regou::{ user=419954 }, ::ScubDomino::{ user=8972308 }, ::Seonah::{ user=11011335 }, ::seros::{ user=10562853 }, ::Xen::{ user=4026817 } and ::xLolicore-::{ user=4525153 }\
 181 BPM, 2:39 | 3.69★ – 7.48★\
 *description written by ::rHO::{ user=1629553 }*
 
@@ -61,13 +61,13 @@ Housing a lot of your favorite mappers and offering an abundance of challenging 
 
 [![](/wiki/shared/news/2023-02-24-project-loved-february-2023/16831.jpg)](https://osu.ppy.sh/community/forums/topics/1725980)
 
-[simo - Nanairo no Nico Nico Douga](https://osu.ppy.sh/beatmapsets/16831#osu) by ::Doomsday::{ user=18983 }, [adam2046](https://osu.ppy.sh/users/8358), ::aRiskOfRain::{ user=123790 }, [Beuchi](https://osu.ppy.sh/users/67192), ::Cristian::{ user=194345 }, [Derekku](https://osu.ppy.sh/users/91341), ::Diasios::{ user=25999 }, [DJPop](https://osu.ppy.sh/users/2363), ::Emdyion::{ user=190213 }, [Gabi](https://osu.ppy.sh/users/57057), ::ignorethis::{ user=27343 }, [Kecco](https://osu.ppy.sh/users/172707), ::Lesjuh::{ user=44308 }, [Lilac](https://osu.ppy.sh/users/58197), ::LuigiHann::{ user=1079 }, [Lybydose](https://osu.ppy.sh/users/64501), ::Mashley::{ user=41481 }, [Mismagius](https://osu.ppy.sh/users/19048), ::Nachy::{ user=95637 }, [Neo@lex](https://osu.ppy.sh/users/4970), ::pieguyn::{ user=107485 }, [Sallad4ever](https://osu.ppy.sh/users/185422), ::Shinxyn::{ user=13996 }, [Shohei Ohtani](https://osu.ppy.sh/users/135630), ::Takuma::{ user=43677 }, [tieff](https://osu.ppy.sh/users/89619), ::Wizard Of Orz::{ user=10466 }, [Xgor](https://osu.ppy.sh/users/98661) and ::Zatoichi::{ user=35199 }\
+[simo - Nanairo no Nico Nico Douga](https://osu.ppy.sh/beatmapsets/16831#osu) by ::Doomsday::{ user=18983 }, ::adam2046::{ user=8358 }, ::aRiskOfRain::{ user=123790 }, ::Beuchi::{ user=67192 }, ::Cristian::{ user=194345 }, ::Derekku::{ user=91341 }, ::Diasios::{ user=25999 }, ::DJPop::{ user=2363 }, ::Emdyion::{ user=190213 }, ::Gabi::{ user=57057 }, ::ignorethis::{ user=27343 }, ::Kecco::{ user=172707 }, ::Lesjuh::{ user=44308 }, ::Lilac::{ user=58197 }, ::LuigiHann::{ user=1079 }, ::Lybydose::{ user=64501 }, ::Mashley::{ user=41481 }, ::Mismagius::{ user=19048 }, ::Nachy::{ user=95637 }, ::Neo@lex::{ user=4970 }, ::pieguyn::{ user=107485 }, ::Sallad4ever::{ user=185422 }, ::Shinxyn::{ user=13996 }, ::Shohei Ohtani::{ user=135630 }, ::Takuma::{ user=43677 }, ::tieff::{ user=89619 }, ::Wizard Of Orz::{ user=10466 }, ::Xgor::{ user=98661 } and ::Zatoichi::{ user=35199 }\
 182.5 BPM, 11:20 | 4.56★, 5.56★\
 *description written by ::Wixonater::{ user=10083084 }*
 
 This month's pick for the Outstanding Oldies category really highlights the *oldies* part of the name.
 
-[Nanairo no Nico Nico Douga](https://osu.ppy.sh/beatmapsets/16831#osu/1551754), mapped by ::Doomsday::{ user=18983 }, [tieff](https://osu.ppy.sh/users/89619), ::adam2046::{ user=8358 }, [ignorethis](https://osu.ppy.sh/users/27343), ::Mashley::{ user=41481 }, [Zatoichi](https://osu.ppy.sh/users/35199), ::Takuma::{ user=43677 }, [Shinxyn](https://osu.ppy.sh/users/13996), ::Gabi::{ user=57057 }, [Lesjuh](https://osu.ppy.sh/users/44308), ::Wizard Of Orz::{ user=10466 }, [Neo@lex](https://osu.ppy.sh/users/4970), ::DJPop::{ user=2363 }, [LuigiHann](https://osu.ppy.sh/users/1079), ::DiamondCrash::{ user=123790 }, [pieguyn](https://osu.ppy.sh/users/107485), ::Sallad4ever::{ user=185422 }, [Nachy](https://osu.ppy.sh/users/95637), ::Cristian::{ user=194345 }, [Derekku](https://osu.ppy.sh/users/91341), ::Beuchi::{ user=67192 }, [Shohei Ohtani](https://osu.ppy.sh/users/135630), ::Emdyion::{ user=190213 }, [Diasios](https://osu.ppy.sh/users/25999), ::Lilac::{ user=58197 }, [Kecco](https://osu.ppy.sh/users/172707), ::Lybydose::{ user=64501 }, [Xgor](https://osu.ppy.sh/users/98661), and ::Mismagius::{ user=19048 }... well, did I leave anyone out?
+[Nanairo no Nico Nico Douga](https://osu.ppy.sh/beatmapsets/16831#osu/1551754), mapped by ::Doomsday::{ user=18983 }, ::tieff::{ user=89619 }, ::adam2046::{ user=8358 }, ::ignorethis::{ user=27343 }, ::Mashley::{ user=41481 }, ::Zatoichi::{ user=35199 }, ::Takuma::{ user=43677 }, ::Shinxyn::{ user=13996 }, ::Gabi::{ user=57057 }, ::Lesjuh::{ user=44308 }, ::Wizard Of Orz::{ user=10466 }, ::Neo@lex::{ user=4970 }, ::DJPop::{ user=2363 }, ::LuigiHann::{ user=1079 }, ::DiamondCrash::{ user=123790 }, ::pieguyn::{ user=107485 }, ::Sallad4ever::{ user=185422 }, ::Nachy::{ user=95637 }, ::Cristian::{ user=194345 }, ::Derekku::{ user=91341 }, ::Beuchi::{ user=67192 }, ::Shohei Ohtani::{ user=135630 }, ::Emdyion::{ user=190213 }, ::Diasios::{ user=25999 }, ::Lilac::{ user=58197 }, ::Kecco::{ user=172707 }, ::Lybydose::{ user=64501 }, ::Xgor::{ user=98661 }, and ::Mismagius::{ user=19048 }... well, did I leave anyone out?
 
 Anyway, this beatmap, as a spiritual sequel to classics such as [Ryuuseigun](https://osu.ppy.sh/beatmapsets/2459#osu/19753) and [Kumikyoku](https://osu.ppy.sh/beatmapsets/3636#osu/22240), is a trip through the memes and references of another world, more specifically the 2000's internet culture from Japan. And what better way to go to the past than gathering some of the most beloved classic mappers (plus that Mismagius guy)? Don't let the play count deceive you — this was one of the most well-known graveyarded maps of early osu! history, and most of its time in the spotlight was in an era before play count was a thing in non-ranked maps.
 
@@ -75,11 +75,11 @@ Voting yes on this is voting for the proper highlighting and archival of osu! hi
 
 [![](/wiki/shared/news/2023-02-24-project-loved-february-2023/955075.jpg)](https://osu.ppy.sh/community/forums/topics/1725979)
 
-[Widowmaker - Giselle](https://osu.ppy.sh/beatmapsets/955075#osu) by ::rrtyui::{ user=352328 } and [thzz](https://osu.ppy.sh/users/1614839)\
+[Widowmaker - Giselle](https://osu.ppy.sh/beatmapsets/955075#osu) by ::rrtyui::{ user=352328 } and ::thzz::{ user=1614839 }\
 152 BPM, 2:17 | 8.61★\
 *description written by ::Wixonater::{ user=10083084 }*
 
-This month's Small Spectacle is a collab between ::rrtyui::{ user=352328 } and [thzz](https://osu.ppy.sh/users/1614839), *Widowmaker - Giselle*.
+This month's Small Spectacle is a collab between ::rrtyui::{ user=352328 } and ::thzz::{ user=1614839 }, *Widowmaker - Giselle*.
 
 The song's absolutely absurd dance between classical and intense electronic is represented to the extreme within this map. With ludicrously fast sliders and alt mixed with 1/6 rhythms in a frequently changing BPM, it crafts a uniquely challenging and beautiful experience. With only 2,600 plays and 50 favourites after 4 years in the graveyard, this Small Spectacle truly deserves some time in the light. Make sure not to miss this one!
 
@@ -99,11 +99,11 @@ Do you think this map deserves to enter Loved? Vote now!
 
 [![](/wiki/shared/news/2023-02-24-project-loved-february-2023/448197.jpg)](https://osu.ppy.sh/community/forums/topics/1725977)
 
-[nao - Towa naru Kizuna to Omoi no Kiseki](https://osu.ppy.sh/beatmapsets/448197#osu) by ::VINXIS::{ user=4323406 }, [Left](https://osu.ppy.sh/users/5062061), ::Mint::{ user=2407160 }, [N a s y a](https://osu.ppy.sh/users/1473106), ::Natsu::{ user=1953876 }, [Okoratu](https://osu.ppy.sh/users/1623405), ::RLC::{ user=1047883 }, [Silky](https://osu.ppy.sh/users/5069490) and ::Taeyang::{ user=2732340 }\
+[nao - Towa naru Kizuna to Omoi no Kiseki](https://osu.ppy.sh/beatmapsets/448197#osu) by ::VINXIS::{ user=4323406 }, ::Left::{ user=5062061 }, ::Mint::{ user=2407160 }, ::N a s y a::{ user=1473106 }, ::Natsu::{ user=1953876 }, ::Okoratu::{ user=1623405 }, ::RLC::{ user=1047883 }, ::Silky::{ user=5069490 } and ::Taeyang::{ user=2732340 }\
 290 BPM, 3:46 | 2.60★ – 9.00★\
 *description written by ::Wixonater::{ user=10083084 }*
 
-The Ranked Reject for this month is ::VINXIS::{ user=4323406 }'s mapset of nao's *Towa naru Kizuna to Omoi no Kiseki* featuring a whopping 9\* top diff by ::Taeyang::{ user=2732340 }, and a full spread with many iconic names from the likes of ::RLC::{ user=1047883 }, [Okoratu](https://osu.ppy.sh/users/1623405), ::Mint::{ user=2407160 }, [Left](https://osu.ppy.sh/users/5062061), ::N a s y a::{ user=1473106 }, [Silky](https://osu.ppy.sh/users/5069490) and ::Natsu::{ user=1953876 }. If that doesn't scream peak 2015/16 mapping, I don't know what does.
+The Ranked Reject for this month is ::VINXIS::{ user=4323406 }'s mapset of nao's *Towa naru Kizuna to Omoi no Kiseki* featuring a whopping 9\* top diff by ::Taeyang::{ user=2732340 }, and a full spread with many iconic names from the likes of ::RLC::{ user=1047883 }, ::Okoratu::{ user=1623405 }, ::Mint::{ user=2407160 }, ::Left::{ user=5062061 }, ::N a s y a::{ user=1473106 }, ::Silky::{ user=5069490 } and ::Natsu::{ user=1953876 }. If that doesn't scream peak 2015/16 mapping, I don't know what does.
 
 VINXIS and Taeyang's return to the Loved section has been long awaited, and I bring you a spicy one after their long hiatus. Anyone who's a fan of alt-esque maps will absolutely love this mapset. It has a difficulty for all skill levels — just like a Ranked Reject that meets these requirements should! This map has been sitting in graveyard/pending for about 7 years now, and every now and again there's an update making everyone think this is finally going for ranked again, but as VINXIS himself said he no longer has motivation to push this for ranked. So for the first ever Ranked Reject, I think there is no better choice than this wonderful mapset.
 
@@ -111,7 +111,7 @@ Do you think we should finally give this mapset a leaderboard? Vote now!
 
 [![](/wiki/shared/news/2023-02-24-project-loved-february-2023/779226.jpg)](https://osu.ppy.sh/community/forums/topics/1725976)
 
-[Orangestar feat. Mary - DAYBREAK FRONTLINE](https://osu.ppy.sh/beatmapsets/779226#osu) by ::Monstrata::{ user=2706438 }, [Peter](https://osu.ppy.sh/users/8623835), ::tomadoi::{ user=5712451 } and [zhu](https://osu.ppy.sh/users/8034889)\
+[Orangestar feat. Mary - DAYBREAK FRONTLINE](https://osu.ppy.sh/beatmapsets/779226#osu) by ::Monstrata::{ user=2706438 }, ::Peter::{ user=8623835 }, ::tomadoi::{ user=5712451 } and ::zhu::{ user=8034889 }\
 136 BPM, 3:33 | 1.63★, 2.07★, 3.17★, 5.01★, 5.01★\
 *description written by ::Wixonater::{ user=10083084 }*
 
@@ -121,13 +121,13 @@ I'm sure most of you have already heard at some point of the fabled "Monstrata a
 
 [![](/wiki/shared/news/2023-02-24-project-loved-february-2023/1589180.jpg)](https://osu.ppy.sh/community/forums/topics/1725975)
 
-[bbno$ & Rich Brian - edamame](https://osu.ppy.sh/beatmapsets/1589180#osu) by ::Nijika Ijichi::{ user=10964252 }, [MoistSlurp](https://osu.ppy.sh/users/12785594) and ::wafer::{ user=9416836 }\
+[bbno$ & Rich Brian - edamame](https://osu.ppy.sh/beatmapsets/1589180#osu) by ::Nijika Ijichi::{ user=10964252 }, ::MoistSlurp::{ user=12785594 } and ::wafer::{ user=9416836 }\
 106 BPM, 2:11 | 2.14★, 5.68★, 6.93★, 7.07★\
 *description written by ::Wixonater::{ user=10083084 }*
 
-The first Wildcard for this month is a set involving ::PotatoDew::{ user=10964252 }, [wafer](https://osu.ppy.sh/users/9416836) and ::MoistSlurp::{ user=12785594 }, *bbno$ & Rich Brian - edamame*.
+The first Wildcard for this month is a set involving ::PotatoDew::{ user=10964252 }, ::wafer::{ user=9416836 } and ::MoistSlurp::{ user=12785594 }, *bbno$ & Rich Brian - edamame*.
 
-Generally a rare genre to find within osu!, this English hip hop set embodies the goofy nature of the song. The top difficulty accomplishes that especially, with fairly challenging awkward aim that's not afraid to fit the full playfield. If you wish to play something easier, the nerfed version — a collab between ::PotatoDew::{ user=10964252 } and [wafer](https://osu.ppy.sh/users/9416836) — as well as the  Easy diff by ::MoistSlurp::{ user=12785594 } are all great fun, with the collab specifically providing a unique experience, using many SV changes. The set is all great fun, so I hope you can find something to enjoy within!
+Generally a rare genre to find within osu!, this English hip hop set embodies the goofy nature of the song. The top difficulty accomplishes that especially, with fairly challenging awkward aim that's not afraid to fit the full playfield. If you wish to play something easier, the nerfed version — a collab between ::PotatoDew::{ user=10964252 } and ::wafer::{ user=9416836 } — as well as the  Easy diff by ::MoistSlurp::{ user=12785594 } are all great fun, with the collab specifically providing a unique experience, using many SV changes. The set is all great fun, so I hope you can find something to enjoy within!
 
 [![](/wiki/shared/news/2023-02-24-project-loved-february-2023/577770.jpg)](https://osu.ppy.sh/community/forums/topics/1725974)
 
@@ -143,7 +143,7 @@ I don't know what else to say other than the fact that this map is purely amazin
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [Boaz](https://osu.ppy.sh/users/13302996), ::Eriha::{ user=16320311 }, [Gamelan4](https://osu.ppy.sh/users/9856910), ::Horiiizon::{ user=8071438 } and [POCARI SWEAT](https://osu.ppy.sh/users/5082685)!
+The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::Boaz::{ user=13302996 }, ::Eriha::{ user=16320311 }, ::Gamelan4::{ user=9856910 }, ::Horiiizon::{ user=8071438 } and ::POCARI SWEAT::{ user=5082685 }!
 
 ---
 
@@ -153,13 +153,13 @@ The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [Boaz](
 205 BPM, 3:37 | 5.54★\
 *description written by ::-Kazu-::{ user=920861 }*
 
-*DITHER TUNE* is a collaboration between ::uone::{ user=5321719 } and [Shallty](https://osu.ppy.sh/users/6205471), which truly evokes the old days when Vocaloid songs were most popular, and many taiko mappers took their chance to bring in such catchy tunes.
+*DITHER TUNE* is a collaboration between ::uone::{ user=5321719 } and ::Shallty::{ user=6205471 }, which truly evokes the old days when Vocaloid songs were most popular, and many taiko mappers took their chance to bring in such catchy tunes.
 
 This also holds true for the beatmap itself, as it is mostly a simple Oni difficulty that doesn't include 1/6 trills or long streams, just simple and fair patterning that will surely be pleasant to play for those who are in the process of learning to play Oni difficulties. Have fun!
 
 [![](/wiki/shared/news/2023-02-24-project-loved-february-2023/1508391.jpg)](https://osu.ppy.sh/community/forums/topics/1725972)
 
-[Tsukino - Dohna Dohna no Uta (himiko Jersey Club Edit)](https://osu.ppy.sh/beatmapsets/1508391#taiko) by ::Shamirin\1mzk::{ user=11325757 }, [hoku](https://osu.ppy.sh/users/9503098), ::KMYK\_::{ user=9687503 }, [KTYN](https://osu.ppy.sh/users/2250574), ::layxa::{ user=14800030 } and [Seren58](https://osu.ppy.sh/users/15252950)\
+[Tsukino - Dohna Dohna no Uta (himiko Jersey Club Edit)](https://osu.ppy.sh/beatmapsets/1508391#taiko) by ::Shamirin\1mzk::{ user=11325757 }, ::hoku::{ user=9503098 }, ::KMYK\_::{ user=9687503 }, ::KTYN::{ user=2250574 }, ::layxa::{ user=14800030 } and ::Seren58::{ user=15252950 }\
 160 BPM, 2:29 | 4.73★ – 5.40★\
 *description written by ::POCARI SWEAT::{ user=5082685 }*
 
@@ -187,7 +187,7 @@ It is also a map for advanced players with a SR of 8.25. Why not try go for the 
 
 [![](/wiki/shared/news/2023-02-24-project-loved-february-2023/1286476.jpg)](https://osu.ppy.sh/community/forums/topics/1725969)
 
-[DJKurara - Donk Array](https://osu.ppy.sh/beatmapsets/1286476#taiko) by ::7\17::{ user=7491106 } and [My Angel Koishi](https://osu.ppy.sh/users/8273098)\
+[DJKurara - Donk Array](https://osu.ppy.sh/beatmapsets/1286476#taiko) by ::7\17::{ user=7491106 } and ::My Angel Koishi::{ user=8273098 }\
 240 – 288 BPM, 4:49 | 7.33★, 7.83★, 8.33★\
 *description written by ::-Kazu-::{ user=920861 }*
 
@@ -205,15 +205,15 @@ It is quite difficult to see really high-quality reggaeton maps and it couldn't 
 
 [![](/wiki/shared/news/2023-02-24-project-loved-february-2023/801653.jpg)](https://osu.ppy.sh/community/forums/topics/1725967)
 
-[Deftones - Knife Party (Final Sketch Remix)](https://osu.ppy.sh/beatmapsets/801653#taiko) by ::-Kazu-::{ user=920861 } and [Ulqui](https://osu.ppy.sh/users/1263669)\
+[Deftones - Knife Party (Final Sketch Remix)](https://osu.ppy.sh/beatmapsets/801653#taiko) by ::-Kazu-::{ user=920861 } and ::Ulqui::{ user=1263669 }\
 229.1 BPM, 4:41 | 5.72★, 6.94★\
 *description written by ::Horiiizon::{ user=8071438 }*
 
-Those of you who have been in the community for a few years or participated in tournaments likely already know [Knife Party (Final Sketch Remix)](https://osu.ppy.sh/beatmapsets/801653#taiko) and just how brutal the Dysthymia difficulty is. A collaboration between mapping powerhouses ::-Kazu-::{ user=920861 } and [Ulqui](https://osu.ppy.sh/users/1263669), the map features long 1/4 229 BPM patterns with dense and complex 1/6 sections interlaced as well as some very tricky doublet patterns. For those that find the "tech" aspects of Dysthymia overwhelming, Ulqui's Inner Oni is a perfect fit, as this difficulty features no 1/6 or 1/8 patterning while still being a very good challenge. Good luck!
+Those of you who have been in the community for a few years or participated in tournaments likely already know [Knife Party (Final Sketch Remix)](https://osu.ppy.sh/beatmapsets/801653#taiko) and just how brutal the Dysthymia difficulty is. A collaboration between mapping powerhouses ::-Kazu-::{ user=920861 } and ::Ulqui::{ user=1263669 }, the map features long 1/4 229 BPM patterns with dense and complex 1/6 sections interlaced as well as some very tricky doublet patterns. For those that find the "tech" aspects of Dysthymia overwhelming, Ulqui's Inner Oni is a perfect fit, as this difficulty features no 1/6 or 1/8 patterning while still being a very good challenge. Good luck!
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::Dahcreeper::{ user=6926006 }, [fuhie](https://osu.ppy.sh/users/7620002), ::Kasumi-sama::{ user=6177263 } and [Wesley](https://osu.ppy.sh/users/2407265)!
+The osu!catch Loved candidates were chosen by ::Dahcreeper::{ user=6926006 }, ::fuhie::{ user=7620002 }, ::Kasumi-sama::{ user=6177263 } and ::Wesley::{ user=2407265 }!
 
 ---
 
@@ -251,7 +251,7 @@ Make sure to cast your votes or you will make ::Time-::{ user=2917987 } sad. ;-(
 
 [![](/wiki/shared/news/2023-02-24-project-loved-february-2023/188879.jpg)](https://osu.ppy.sh/community/forums/topics/1725963)
 
-[M2U - Magnolia (feat. Guriri)](https://osu.ppy.sh/beatmapsets/188879#fruits) by ::Spectator::{ user=702598 }, [Deif](https://osu.ppy.sh/users/318565), ::Frobe::{ user=670365 }, [Xinely](https://osu.ppy.sh/users/1521445) and ::ZiRoX::{ user=200768 }\
+[M2U - Magnolia (feat. Guriri)](https://osu.ppy.sh/beatmapsets/188879#fruits) by ::Spectator::{ user=702598 }, ::Deif::{ user=318565 }, ::Frobe::{ user=670365 }, ::Xinely::{ user=1521445 } and ::ZiRoX::{ user=200768 }\
 160 BPM, 2:21 | 1.46★, 2.16★, 3.05★, 4.09★, 5.06★\
 *description written by ::Kasumi-sama::{ user=6177263 }*
 
@@ -263,7 +263,7 @@ So now, the only question is: do you love this map? If so, go vote for it right 
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::-NoName-::{ user=10400730 }, [\[Crz\]hinako1804](https://osu.ppy.sh/users/13747903), ::kadoen::{ user=12780575 }, [Mipha-](https://osu.ppy.sh/users/5767941), ::Paturages::{ user=1375479 } and [RandomeLoL](https://osu.ppy.sh/users/7080063)!
+The osu!mania Loved candidates were chosen by ::-NoName-::{ user=10400730 }, ::\[Crz\]hinako1804::{ user=13747903 }, ::kadoen::{ user=12780575 }, ::Mipha-::{ user=5767941 }, ::Paturages::{ user=1375479 } and ::RandomeLoL::{ user=7080063 }!
 
 ---
 
@@ -275,7 +275,7 @@ The osu!mania Loved candidates were chosen by ::-NoName-::{ user=10400730 }, [\[
 
 Many SV enthusiasts know DJ WITCH GIRL MIR4CLEN for bringing us [Mafain](https://osu.ppy.sh/beatmapsets/1569493) among many other "SVable" tunes and remixes. ::\[Fairy\]Phy::{ user=4777360 }'s chart of *who do you love* is another popular map that takes advantage of the bombastic and iconic drops that DJ WITCH GIRL MIR4CLEN has made themselves known and infamous for.
 
-\[Fairy\]Phy is better known as an SV-oriented player from Japan, carrying their osu!mania World Cup team many times alongside names such as ::CrewK::{ user=11488604 } and [inteliser](https://osu.ppy.sh/users/1824775). Many SV players have contributed back to the community through learning how to create their own SV maps — \[Fairy\]Phy is one such case, and *who do you love* is a good example of player insight providing an enjoyable experience.
+\[Fairy\]Phy is better known as an SV-oriented player from Japan, carrying their osu!mania World Cup team many times alongside names such as ::CrewK::{ user=11488604 } and ::inteliser::{ user=1824775 }. Many SV players have contributed back to the community through learning how to create their own SV maps — \[Fairy\]Phy is one such case, and *who do you love* is a good example of player insight providing an enjoyable experience.
 
 The execution of the drops are very flashy and demanding of memorization — this is probably good content you can learn for your local talent show if you need to. The teleports and rhythms will take you a little while to learn, but no worries, you can try and get a feel for them through grinding the NSV difficulty.
 

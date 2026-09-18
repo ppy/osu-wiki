@@ -33,7 +33,7 @@ Just like last time, you can also check out the high-effort video coverage by ::
 
 ![](/wiki/shared/news/2024-11-14-osu-world-cup-2024-round-of-16-recap/owc-2024-ro16-mappool.jpg)
 
-This week's mappool had a unique twist, with some of the picks being throwbacks to world cups of the past! [ChaiN De/structioN](https://osu.ppy.sh/beatmapsets/49071/#osu/154165) mapped by ::Shiirn::{ user=465126 } (DT2) and [bmin11](https://osu.ppy.sh/users/43468)'s [Silent Voyage to Eternity](https://osu.ppy.sh/beatmapsets/14309/#osu/115384) (FM2) sparked nostalgia for many of the older players, with *ChaiN De/structioN* getting pooled for the first time since 2012's [OWC #3](/wiki/Tournaments/OWC/3), challenging players with sheer speed and a focus on bursts.
+This week's mappool had a unique twist, with some of the picks being throwbacks to world cups of the past! [ChaiN De/structioN](https://osu.ppy.sh/beatmapsets/49071/#osu/154165) mapped by ::Shiirn::{ user=465126 } (DT2) and ::bmin11::{ user=43468 }'s [Silent Voyage to Eternity](https://osu.ppy.sh/beatmapsets/14309/#osu/115384) (FM2) sparked nostalgia for many of the older players, with *ChaiN De/structioN* getting pooled for the first time since 2012's [OWC #3](/wiki/Tournaments/OWC/3), challenging players with sheer speed and a focus on bursts.
 
 *Silent Voyage to Eternity*, meanwhile, was last seen in [OWC 2016](/wiki/Tournaments/OWC/2016)'s Finals stage as a Hidden pick. It served as both a testament to how much players have improved since then, and a reminder that some old, remarkable scores by Chinese legend ::rustbell::{ user=227717 } still very much [stand the test of time](/wiki/shared/news/2024-11-14-osu-world-cup-2024-round-of-16-recap/rustbell-old-score.jpg).
 
@@ -102,7 +102,7 @@ In between the usual love and care put into every song with original artwork and
 
 [AJITAMA Adventure OST](https://osu.ppy.sh/beatmapsets/2274953#osu/4847546) was created with a specific vision in mind. [Umeboshi Chazuke](https://osu.ppy.sh/beatmaps/artists/98) has great proficiency in expressing musical stories through their music, and I wanted to capture this idea in a way that suits an OWC tiebreaker.
 
-The storyboard represents a short RPG adventure featuring two of Umeboshi Chazuke's recurring characters, the puppy and the bear. Thanks to ::mangomizer::{ user=1893718 } (who has contributed many special touches in osu! originals), the decision to represent characters as OWC staff was quickly done a day before release, with contributions between myself, ::ChillierPear::{ user=9501251 }, mangomizer, [Librarian](https://osu.ppy.sh/users/10083084) & ::megumic::{ user=7537133 }.
+The storyboard represents a short RPG adventure featuring two of Umeboshi Chazuke's recurring characters, the puppy and the bear. Thanks to ::mangomizer::{ user=1893718 } (who has contributed many special touches in osu! originals), the decision to represent characters as OWC staff was quickly done a day before release, with contributions between myself, ::ChillierPear::{ user=9501251 }, mangomizer, ::Librarian::{ user=10083084 } & ::megumic::{ user=7537133 }.
 
 Referenced by name in the storyboard are Leo the Civilian (::LeoFLT::{ user=3668779 }), Evil King Dada (::Dada::{ user=9119507 }) & Princess Chiverly (::chiv::{ user=6701656 }), three of the hardest working people behind the scenes, ensuring every osu! World Cup runs smoothly. We expanded on this idea significantly by creating special dialogue between the characters making plenty of references to OWC, other staff members & random other prominent things in osu!.
 
@@ -213,7 +213,7 @@ You casted *a lot* of matches in these 10 years, but is there one match that wil
 
 I'm gonna give the cop-out answer and give you two matches. The game that comes to mind has to be the OWC 2017 winner's bracket final, between Poland and the United States. It was (and still is) the most unexpected, ludicrous comeback I've seen in the world cup. Sure, the rule of failed scores not counting did add to the drama, but it made every map in the second half of that game a real nail-biter as a spectator. Capping it off with [Tengaku](https://osu.ppy.sh/beatmapsets/336414#osu/816327) as the tiebreaker, arguably the most infamous boss map at the time, was the icing on the cake.
 
-For the sentiment though, it has to be the most recent COE 2024 tournament in the Netherlands, where I had the honour of casting the final with ::SadShiba::{ user=10747626 }. It's hard to describe how incredible it was to cast a top-level match between ::Maliszewski::{ user=12408961 } and [Criller](https://osu.ppy.sh/users/8116659), with a packed and energetic crowd in front of you reacting in real time. That was something I won't forget in a hurry.
+For the sentiment though, it has to be the most recent COE 2024 tournament in the Netherlands, where I had the honour of casting the final with ::SadShiba::{ user=10747626 }. It's hard to describe how incredible it was to cast a top-level match between ::Maliszewski::{ user=12408961 } and ::Criller::{ user=8116659 }, with a packed and energetic crowd in front of you reacting in real time. That was something I won't forget in a hurry.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7944724" style="background-image: url('/wiki/shared/avatars/0x84f.jpg')"></a>
 

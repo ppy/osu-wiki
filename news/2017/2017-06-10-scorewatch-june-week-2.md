@@ -40,7 +40,7 @@ Light it up with this week's Scorewatch, featuring some crazy plays on Blue Zeni
 
 ## SCOREWATCH SCORE SHOW
 
-::Estonians::{ user=7014697 } takes on [Zei-](https://osu.ppy.sh/users/1530308) on the 6.16* Loved osu!mania map [gmtn. vs. kozato (fw. LUZE) - squartatrice](https://osu.ppy.sh/beatmaps/846925)!
+::Estonians::{ user=7014697 } takes on ::Zei-::{ user=1530308 } on the 6.16* Loved osu!mania map [gmtn. vs. kozato (fw. LUZE) - squartatrice](https://osu.ppy.sh/beatmaps/846925)!
 
 <center><iframe width="100%" height="315" src="https://www.youtube.com/embed/j-0edVaahjA" frameborder="0" allowfullscreen></iframe></center>
 

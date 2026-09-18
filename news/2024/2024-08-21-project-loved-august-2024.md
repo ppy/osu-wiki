@@ -39,7 +39,7 @@ As always, if you're interested in participating in Project Loved discussions fo
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::Aistre::{ user=4879380 }, [chiv](https://osu.ppy.sh/users/6701656), ::Lilian::{ user=8589120 }, [megumic](https://osu.ppy.sh/users/7537133), ::Mismagius::{ user=19048 }, and [Skill](https://osu.ppy.sh/users/7802027)!
+The osu! Loved candidates were chosen by ::Aistre::{ user=4879380 }, ::chiv::{ user=6701656 }, ::Lilian::{ user=8589120 }, ::megumic::{ user=7537133 }, ::Mismagius::{ user=19048 }, and ::Skill::{ user=7802027 }!
 
 **[Download the August 2024 Project Loved osu! beatmap pack here! (89 MB)](https://osu.ppy.sh/beatmaps/packs/LR8)**
 
@@ -53,13 +53,13 @@ The osu! Loved candidates were chosen by ::Aistre::{ user=4879380 }, [chiv](http
 
 [![](/wiki/shared/news/2024-08-21-project-loved-august-2024/1228443.jpg)](https://osu.ppy.sh/community/forums/topics/1966744)
 
-[ARM (IOSYS) feat. Houshou Marine - Ahoy!! Warera Houshou Kaizoku Dan\*](https://osu.ppy.sh/beatmapsets/1228443#osu) by ::Antares-::{ user=2194763 }, [PaRaDogi](https://osu.ppy.sh/users/2054596), and ::Respirte::{ user=9870167 }\
+[ARM (IOSYS) feat. Houshou Marine - Ahoy!! Warera Houshou Kaizoku Dan\*](https://osu.ppy.sh/beatmapsets/1228443#osu) by ::Antares-::{ user=2194763 }, ::PaRaDogi::{ user=2054596 }, and ::Respirte::{ user=9870167 }\
 170 BPM, 1:42 | 1.56★ – 6.47★\
 *description written by ::Aistre::{ user=4879380 }*
 
 Ahoy!! We are the Loved pirates ☆
 
-Avast ye, landlubbers! It's time to release yer inner pirates and join captain ::Antares-::{ user=2194763 }, and quartermasters ::PaRaDogi::{ user=2054596 } and [Respirte](https://osu.ppy.sh/users/9870167) on the waves for this month's *Popular Playcount*, [Ahoy!! Warera Houshou Kaizoku Dan\*](https://osu.ppy.sh/beatmapsets/1228443#osu/2557387)!!
+Avast ye, landlubbers! It's time to release yer inner pirates and join captain ::Antares-::{ user=2194763 }, and quartermasters ::PaRaDogi::{ user=2054596 } and ::Respirte::{ user=9870167 } on the waves for this month's *Popular Playcount*, [Ahoy!! Warera Houshou Kaizoku Dan\*](https://osu.ppy.sh/beatmapsets/1228443#osu/2557387)!!
 
 This one has been racking up a hefty following in the Graveyard with over 530,000 plays and probably a map you've encountered in a multiplayer lobby somewhere, so we think this is a great fit for the category and for Loved. With a complete spread of difficulties, there's something for every skill level to enjoy.
 
@@ -115,13 +115,13 @@ Remember to vote yes, and see you guys on [Twitter](https://twitter.com/Foworum)
 
 [![](/wiki/shared/news/2024-08-21-project-loved-august-2024/1670825.jpg)](https://osu.ppy.sh/community/forums/topics/1966739)
 
-[bulow - Revolver (Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/1670825#osu) by ::Nattu::{ user=1886722 }, [-ImaHitoKato](https://osu.ppy.sh/users/32507787), ::arutama::{ user=20699395 }, [Azrealy](https://osu.ppy.sh/users/12235272), ::defreeyay::{ user=11913657 }, [ent](https://osu.ppy.sh/users/10261883), ::FackeL::{ user=15899606 }, [Froskya](https://osu.ppy.sh/users/4230454), ::im cute::{ user=10374819 }, [InsertUsernamev](https://osu.ppy.sh/users/22686604), ::Laquarius::{ user=18319978 }, [Lucius Aika](https://osu.ppy.sh/users/27338583), ::Mekadon::{ user=10827686 }, [NoFail](https://osu.ppy.sh/users/16798335), ::OKSY::{ user=19484011 }, [perevod](https://osu.ppy.sh/users/19821599), and ::tatemae::{ user=5223028 }\
+[bulow - Revolver (Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/1670825#osu) by ::Nattu::{ user=1886722 }, ::-ImaHitoKato::{ user=32507787 }, ::arutama::{ user=20699395 }, ::Azrealy::{ user=12235272 }, ::defreeyay::{ user=11913657 }, ::ent::{ user=10261883 }, ::FackeL::{ user=15899606 }, ::Froskya::{ user=4230454 }, ::im cute::{ user=10374819 }, ::InsertUsernamev::{ user=22686604 }, ::Laquarius::{ user=18319978 }, ::Lucius Aika::{ user=27338583 }, ::Mekadon::{ user=10827686 }, ::NoFail::{ user=16798335 }, ::OKSY::{ user=19484011 }, ::perevod::{ user=19821599 }, and ::tatemae::{ user=5223028 }\
 205 BPM, 2:13 | 1.99★ – 7.46★\
 *description written by ::chiv::{ user=6701656 }*
 
 RANKED REJECTS.... your favourite category's favourite category! It's time for another ultracollab.
 
-::Nattu::{ user=1886722 } is back for Loved with a huge megaset of bulow's [Revolver](https://osu.ppy.sh/beatmapsets/1670825#osu/3981167). Featuring a ton of difficulties from multiple mappers across the globe lies the cherry on top in the Collab diff, where your favourite mappers like ::Mazzerin::{ user=2942381 }, [fanzhen](https://osu.ppy.sh/users/418699), ::handsome::{ user=2123087 } and [tatemae](https://osu.ppy.sh/users/5223028) finally get together on a fire track. Most difficulties all have completely different mapping styles, so whether you want to play some crazy flow on Nattu's difficulty, simple aim and burst from ::Azrealy::{ user=12235272 }, or the multiple tech styles throughout the collab, there's definitely something for everyone here.
+::Nattu::{ user=1886722 } is back for Loved with a huge megaset of bulow's [Revolver](https://osu.ppy.sh/beatmapsets/1670825#osu/3981167). Featuring a ton of difficulties from multiple mappers across the globe lies the cherry on top in the Collab diff, where your favourite mappers like ::Mazzerin::{ user=2942381 }, ::fanzhen::{ user=418699 }, ::handsome::{ user=2123087 } and ::tatemae::{ user=5223028 } finally get together on a fire track. Most difficulties all have completely different mapping styles, so whether you want to play some crazy flow on Nattu's difficulty, simple aim and burst from ::Azrealy::{ user=12235272 }, or the multiple tech styles throughout the collab, there's definitely something for everyone here.
 
 🎵 Everybody watch her, don't try to stop her, anyone have the time?
 
@@ -185,13 +185,13 @@ Want to see this map with a leaderboard? Vote now!
 
 [![](/wiki/shared/news/2024-08-21-project-loved-august-2024/2053038.jpg)](https://osu.ppy.sh/community/forums/topics/1966733)
 
-[siinamota feat. Kagamine Rin - Shoujo A](https://osu.ppy.sh/beatmapsets/2053038#osu) by ::mrekk::{ user=7562902 }, [FlyingTuna](https://osu.ppy.sh/users/9224078), ::Plasma::{ user=10077431 }, [Raijodo](https://osu.ppy.sh/users/13400075), ::Share::{ user=14305018 }, and [Tedda](https://osu.ppy.sh/users/6906789)\
+[siinamota feat. Kagamine Rin - Shoujo A](https://osu.ppy.sh/beatmapsets/2053038#osu) by ::mrekk::{ user=7562902 }, ::FlyingTuna::{ user=9224078 }, ::Plasma::{ user=10077431 }, ::Raijodo::{ user=13400075 }, ::Share::{ user=14305018 }, and ::Tedda::{ user=6906789 }\
 260 BPM, 3:50 | 7.20★ – 9.56★\
 *description written by ::Skill::{ user=7802027 }*
 
 Last but not least, The Third Wildcard for this month is ::mrekk::{ user=7562902 }'s mapset of [siinamota feat. Kagamine Rin - Shoujo A](https://osu.ppy.sh/beatmapsets/2053038#osu).
 
-Featuring ::FlyingTuna::{ user=9224078 }, [Plasma](https://osu.ppy.sh/users/10077431), ::Raijodo::{ user=13400075 }, [Share](https://osu.ppy.sh/users/14305018), and ::Tedda::{ user=6906789 }, this is an absolute stacked set by well-known players/mappers. A very trendy song of the past year, mrekk's goal with this set is very clear. A popular map by the #1 player on osu!.
+Featuring ::FlyingTuna::{ user=9224078 }, ::Plasma::{ user=10077431 }, ::Raijodo::{ user=13400075 }, ::Share::{ user=14305018 }, and ::Tedda::{ user=6906789 }, this is an absolute stacked set by well-known players/mappers. A very trendy song of the past year, mrekk's goal with this set is very clear. A popular map by the #1 player on osu!.
 
 This set ranges from 9.56★ to 7.2★, showing that this is a set for the very best just like the mapper himself. All difficulties except the Raijodo x FlyingTuna collab are very straightforward aim maps to attract the very best of that skillset. The Raijodo x FlyingTuna difficulty might still be aim but nowhere near the rest. At a very quick glance, you can see that it's AR 8.5, littered with many geometrical/alternate-y patterns at 260 BPM. It's absolute hell if you don't specialize in low AR aim.
 
@@ -199,7 +199,7 @@ Amassing nearly 100,000 playcount and 380+ favorites, there's no doubt that this
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::Boaz::{ user=13302996 }, [Eriha](https://osu.ppy.sh/users/16320311), and ::Roxy-::{ user=11931563 }!
+The osu!taiko Loved candidates were chosen by ::Boaz::{ user=13302996 }, ::Eriha::{ user=16320311 }, and ::Roxy-::{ user=11931563 }!
 
 **[Download the August 2024 Project Loved osu!taiko beatmap pack here! (13 MB)](https://osu.ppy.sh/beatmaps/packs/LR7)**
 
@@ -251,7 +251,7 @@ Are you ready to take these finishers head on? Make sure to cast your vote in th
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::coolkid::{ user=7620002 } and [wwwww](https://osu.ppy.sh/users/8434466)!
+The osu!catch Loved candidates were chosen by ::coolkid::{ user=7620002 } and ::wwwww::{ user=8434466 }!
 
 **[Download the August 2024 Project Loved osu!catch beatmap pack here! (13 MB)](https://osu.ppy.sh/beatmaps/packs/LR6)**
 
@@ -291,7 +291,7 @@ Yep. You can't have a Project Loved without a zoomer hyperwalk map waltzing its 
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::Carpihat::{ user=10085090 }, [elexire](https://osu.ppy.sh/users/9206093), ::Maxus::{ user=4335785 }, [Paturages](https://osu.ppy.sh/users/1375479), ::Silhoueska Elze::{ user=11517895 }, [SunApple](https://osu.ppy.sh/users/11817622), ::taba2::{ user=7850508 }, and [YuEast 2018](https://osu.ppy.sh/users/13953619)!
+The osu!mania Loved candidates were chosen by ::Carpihat::{ user=10085090 }, ::elexire::{ user=9206093 }, ::Maxus::{ user=4335785 }, ::Paturages::{ user=1375479 }, ::Silhoueska Elze::{ user=11517895 }, ::SunApple::{ user=11817622 }, ::taba2::{ user=7850508 }, and ::YuEast 2018::{ user=13953619 }!
 
 **[Download the August 2024 Project Loved osu!mania beatmap pack here! (175 MB)](https://osu.ppy.sh/beatmaps/packs/LR5)**
 
@@ -305,11 +305,11 @@ The osu!mania Loved candidates were chosen by ::Carpihat::{ user=10085090 }, [el
 
 [![](/wiki/shared/news/2024-08-21-project-loved-august-2024/2041097.jpg)](https://osu.ppy.sh/community/forums/topics/1966726)
 
-[Slowpalace - give (Nightcore Ver.)](https://osu.ppy.sh/beatmapsets/2041097#mania) by ::Micleak::{ user=16140674 } and [Lott](https://osu.ppy.sh/users/13821222)\
+[Slowpalace - give (Nightcore Ver.)](https://osu.ppy.sh/beatmapsets/2041097#mania) by ::Micleak::{ user=16140674 } and ::Lott::{ user=13821222 }\
 175 BPM, 2:13 | 3.72★\
 *description written by ::Paturages::{ user=1375479 }*
 
-[give (Nightcore Ver.)](https://osu.ppy.sh/beatmapsets/2041097#mania/4258224) certainly has a lot of tricks up its sleeves, with many SV patterns made to throw you off. As a [Vietnamese National Mania Championship 2023](https://osu.ppy.sh/community/forums/topics/1779599) Grand Ginals custom SV entry, ::Micleak::{ user=16140674 } and [Lott](https://osu.ppy.sh/users/13821222) had a lot of room for creativity and experimentation, both of which were applied in mass quantity on this map.
+[give (Nightcore Ver.)](https://osu.ppy.sh/beatmapsets/2041097#mania/4258224) certainly has a lot of tricks up its sleeves, with many SV patterns made to throw you off. As a [Vietnamese National Mania Championship 2023](https://osu.ppy.sh/community/forums/topics/1779599) Grand Ginals custom SV entry, ::Micleak::{ user=16140674 } and ::Lott::{ user=13821222 } had a lot of room for creativity and experimentation, both of which were applied in mass quantity on this map.
 
 This is going to be the first Loved feature of the infamous "initial reverse scroll" gimmick. It has been an obscure but somewhat known fact that mappers could, through the use of what is essentially magic, start off a map with a reverse scroll. Unfortunately, this can only be reversed once, so only initial gimmicks are possible. I think this is definitely the most convincing and polished execution of this gimmick to date.
 
@@ -403,7 +403,7 @@ Don't forget to give your support on this chart, and cast your vote if you reall
 
 [![](/wiki/shared/news/2024-08-21-project-loved-august-2024/1710778.jpg)](https://osu.ppy.sh/community/forums/topics/1966719)
 
-[wotoha - Digital Life Hacker](https://osu.ppy.sh/beatmapsets/1710778#mania) by ::LostCool::{ user=766374 } and [KenZ](https://osu.ppy.sh/users/437945)\
+[wotoha - Digital Life Hacker](https://osu.ppy.sh/beatmapsets/1710778#mania) by ::LostCool::{ user=766374 } and ::KenZ::{ user=437945 }\
 160 BPM, 3:24 | 9.49★\
 *description written by ::Maxus::{ user=4335785 }*
 
@@ -423,7 +423,7 @@ We have been waiting for a while to make this map Loved, and we hope that you wi
 
 [![](/wiki/shared/news/2024-08-21-project-loved-august-2024/680885.jpg)](https://osu.ppy.sh/community/forums/topics/1966717)
 
-[Kendrick Lamar - HUMBLE. (SKRILLEX REMIX)](https://osu.ppy.sh/beatmapsets/680885#mania) by ::Marirose::{ user=1899763 } and [biemote](https://osu.ppy.sh/users/799606)\
+[Kendrick Lamar - HUMBLE. (SKRILLEX REMIX)](https://osu.ppy.sh/beatmapsets/680885#mania) by ::Marirose::{ user=1899763 } and ::biemote::{ user=799606 }\
 150 BPM, 2:34 | 1.55★, 2.16★, 3.95★\
 *description written by ::taba2::{ user=7850508 }*
 

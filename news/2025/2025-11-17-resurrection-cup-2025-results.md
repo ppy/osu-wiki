@@ -248,7 +248,7 @@ Even more people were involved in making Resurrection Cup happen this year compa
 
 ![](/wiki/shared/news/2025-11-17-resurrection-cup-2025-results/krimek-and-eili.jpg)
 
-As members of the Resurrection Cup sound team, ::Krimek::{ user=2345078 } and [eili](https://osu.ppy.sh/users/37455438) were an integral part of the production team, as they not only helped and administrated everything that involved our [originals](#resurrection-cup-2025-originals), but they also made sure that the staggering amount of them fit the pooling, mapping and were just chill to listen to in general.
+As members of the Resurrection Cup sound team, ::Krimek::{ user=2345078 } and ::eili::{ user=37455438 } were an integral part of the production team, as they not only helped and administrated everything that involved our [originals](#resurrection-cup-2025-originals), but they also made sure that the staggering amount of them fit the pooling, mapping and were just chill to listen to in general.
 
 ---
 
@@ -328,7 +328,7 @@ I don't think we've hit a "peak," but I also don't think bigger numbers should b
 
 ![](/wiki/shared/news/2025-11-17-resurrection-cup-2025-results/daycore-and-yumerios.jpg)
 
-As members of the mappool quality assurance team, ::Daycore::{ user=5596337 } and [Yumerios](https://osu.ppy.sh/users/11681430) did an extremely good job at seamlessly integrating nearly 80 custom maps all across the pools.
+As members of the mappool quality assurance team, ::Daycore::{ user=5596337 } and ::Yumerios::{ user=11681430 } did an extremely good job at seamlessly integrating nearly 80 custom maps all across the pools.
 
 ---
 

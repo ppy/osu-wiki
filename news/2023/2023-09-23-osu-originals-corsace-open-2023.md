@@ -37,7 +37,7 @@ If you're not in the mapping mood quite yet, experiencing these tunes through ev
     <source src="https://assets.ppy.sh/artists/381/Corsace Open 2023 Penance/Aethoro - Inertia Split.mp3">
 </audio>
 
-### [Axya - Again, Weeping Brilliantly](https://osu.ppy.sh/beatmapsets/2051621) mapped by ::Otosaka-Yu::{ user=3170678 } and [yf_bmp](https://osu.ppy.sh/users/1243669)
+### [Axya - Again, Weeping Brilliantly](https://osu.ppy.sh/beatmapsets/2051621) mapped by ::Otosaka-Yu::{ user=3170678 } and ::yf\1bmp::{ user=1243669 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/381/Corsace Open 2023 Penance/Axya - Again, Weeping Brilliantly.mp3">
@@ -55,19 +55,19 @@ If you're not in the mapping mood quite yet, experiencing these tunes through ev
     <source src="https://assets.ppy.sh/artists/381/Corsace Open 2023 Penance/Kabocha - Draw me a map, Let me feel the tap.mp3">
 </audio>
 
-### [MYUKKE. - Unknown Amnasia](https://osu.ppy.sh/beatmapsets/2047990) mapped by ::captin1::{ user=689997 } and [lcfc](https://osu.ppy.sh/users/7322726)
+### [MYUKKE. - Unknown Amnasia](https://osu.ppy.sh/beatmapsets/2047990) mapped by ::captin1::{ user=689997 } and ::lcfc::{ user=7322726 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/381/Corsace Open 2023 Penance/MYUKKE. - Unknown Amnasia.mp3">
 </audio>
 
-### [polysha - Where the Spirits Go On](https://osu.ppy.sh/beatmapsets/2051816) mapped by ::Down::{ user=4694602 }, [iljaaz](https://osu.ppy.sh/users/8501291) and ::Realazy::{ user=918297 }
+### [polysha - Where the Spirits Go On](https://osu.ppy.sh/beatmapsets/2051816) mapped by ::Down::{ user=4694602 }, ::iljaaz::{ user=8501291 } and ::Realazy::{ user=918297 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/381/Corsace Open 2023 Penance/polysha - Where the Spirits Go On.mp3">
 </audio>
 
-### [Sad Keyboard Guy & Gardens - Waking Shadows feat. eli](https://osu.ppy.sh/beatmapsets/2048051) mapped by ::pocket-::{ user=6808091 }, [mnyui](https://osu.ppy.sh/users/14261540), ::enryotoki::{ user=10639122 } and [zhuxiaoyan](https://osu.ppy.sh/users/5129592)
+### [Sad Keyboard Guy & Gardens - Waking Shadows feat. eli](https://osu.ppy.sh/beatmapsets/2048051) mapped by ::pocket-::{ user=6808091 }, ::mnyui::{ user=14261540 }, ::enryotoki::{ user=10639122 } and ::zhuxiaoyan::{ user=5129592 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/381/Corsace Open 2023 Penance/Sad Keyboard Guy _ Gardens - Waking Shadows feat. eili.mp3">

@@ -39,13 +39,13 @@ In conjunction with the above changes, it is my great pleasure to once again wel
 
 **For osu!taiko**: ::Aloda::{ user=1190127 }
 
-**For osu!catch**: ::Hareimu::{ user=4138746 }, [Nokashi](https://osu.ppy.sh/users/5431196) and ::Sorcerer::{ user=1913190 }
+**For osu!catch**: ::Hareimu::{ user=4138746 }, ::Nokashi::{ user=5431196 } and ::Sorcerer::{ user=1913190 }
 
-**For osu!mania**: ::Garalulu::{ user=757783 }, [Tofu1222](https://osu.ppy.sh/users/6089608) and the returning ::Kamikaze::{ user=2124783 }
+**For osu!mania**: ::Garalulu::{ user=757783 }, ::Tofu1222::{ user=6089608 } and the returning ::Kamikaze::{ user=2124783 }
 
 I'm sure they are eager to deliver us all more quality content, so please offer them all your congratulations and support through their probation period and beyond! I look forward to working with you all in the near future!
 
-Additionally, congratulations to ::celerih::{ user=4696296 } and [Sinnoh](https://osu.ppy.sh/users/4236057) in **adding proficiency in osu!catch to their existing osu! Beatmap Nominator memberships!** As a former osu! Beatmap Nominator who branched into osu!catch in late 2015 myself, it's always great to see people continuing to expand their knowledge and tackling new challenges!
+Additionally, congratulations to ::celerih::{ user=4696296 } and ::Sinnoh::{ user=4236057 } in **adding proficiency in osu!catch to their existing osu! Beatmap Nominator memberships!** As a former osu! Beatmap Nominator who branched into osu!catch in late 2015 myself, it's always great to see people continuing to expand their knowledge and tackling new challenges!
 
 ## Within the Quality Assurance Team
 
@@ -77,7 +77,7 @@ To coincide with the recent Beatmap Nominator promotions, I am pleased to welcom
 
 In sadder news however, this month marks the end of an era for the osu!taiko community and the QAT, as one of our longest-serving and highest-contributing stalwarts, ::OnosakiHito::{ user=290128 }, **has retired from the team after a more than four-year tenure.** His tireless work encompassing the BAT, GMT, QAT and Spotlights team among other roles, coupled with his his passion and no-nonsense approach, has helped shape the community in a massive way. His contributions to osu! have been truly enormous, and his loss will be felt by all of us who remain.
 
-::Nardoxyribonucleic::{ user=876419 } and [Raiden](https://osu.ppy.sh/users/2239480) will continue supervising the  osu!taiko Beatmap Nominators, whilst ::Mao::{ user=2204515 } will be stepping into OnosakiHito's former role as Beatmap Spotlights organizer alongside ::Kurokami::{ user=260933 }.
+::Nardoxyribonucleic::{ user=876419 } and ::Raiden::{ user=2239480 } will continue supervising the  osu!taiko Beatmap Nominators, whilst ::Mao::{ user=2204515 } will be stepping into OnosakiHito's former role as Beatmap Spotlights organizer alongside ::Kurokami::{ user=260933 }.
 
 ## Summary
 

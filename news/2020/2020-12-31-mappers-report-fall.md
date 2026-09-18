@@ -64,10 +64,10 @@ The cycle of life never ends. And the same goes for the cycle of Beatmap Nominat
 
 ### BN Additions
 
-- **osu!:** ::StarCastler::{ user=12402453 }, [Luscent](https://osu.ppy.sh/users/2688581), ::Beomsan::{ user=3626063 }, [Petal](https://osu.ppy.sh/users/7354729), ::Astronic::{ user=9320502 }, [Akito](https://osu.ppy.sh/users/5716327), ::Sylvarus::{ user=4505918 }, [riffy](https://osu.ppy.sh/users/597957), ::Krisom::{ user=99269 }, [Shmiklak](https://osu.ppy.sh/users/5504231), ::Nana Abe::{ user=6443117 }, [UberFazz](https://osu.ppy.sh/users/8646059), ::Zer0-::{ user=4260033 }, [realy0\_](https://osu.ppy.sh/users/8863359) & ::Morrighan::{ user=12042090 }
-- **osu!taiko:** ::Cynplytholowazy::{ user=3901754 }, [Jerry](https://osu.ppy.sh/users/605973), ::ikin5050::{ user=4007649 }, [Gamelan4](https://osu.ppy.sh/users/9856910), ::Eyenine::{ user=1259391 } & [Default Guy](https://osu.ppy.sh/users/7058457)
-- **osu!catch:** ::Nelly::{ user=4741164 }, [Spectator](https://osu.ppy.sh/users/702598), ::Phob::{ user=6069462 } & [Benita](https://osu.ppy.sh/users/4023183)
-- **osu!mania:** ::Lirai::{ user=3734394 }, [Fresh Chicken](https://osu.ppy.sh/users/3984370), ::Unpredictable::{ user=7560872 } & [Mipha-](https://osu.ppy.sh/users/5767941)
+- **osu!:** ::StarCastler::{ user=12402453 }, ::Luscent::{ user=2688581 }, ::Beomsan::{ user=3626063 }, ::Petal::{ user=7354729 }, ::Astronic::{ user=9320502 }, ::Akito::{ user=5716327 }, ::Sylvarus::{ user=4505918 }, ::riffy::{ user=597957 }, ::Krisom::{ user=99269 }, ::Shmiklak::{ user=5504231 }, ::Nana Abe::{ user=6443117 }, ::UberFazz::{ user=8646059 }, ::Zer0-::{ user=4260033 }, ::realy0\_::{ user=8863359 } & ::Morrighan::{ user=12042090 }
+- **osu!taiko:** ::Cynplytholowazy::{ user=3901754 }, ::Jerry::{ user=605973 }, ::ikin5050::{ user=4007649 }, ::Gamelan4::{ user=9856910 }, ::Eyenine::{ user=1259391 } & ::Default Guy::{ user=7058457 }
+- **osu!catch:** ::Nelly::{ user=4741164 }, ::Spectator::{ user=702598 }, ::Phob::{ user=6069462 } & ::Benita::{ user=4023183 }
+- **osu!mania:** ::Lirai::{ user=3734394 }, ::Fresh Chicken::{ user=3984370 }, ::Unpredictable::{ user=7560872 } & ::Mipha-::{ user=5767941 }
 
 Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator! The applications are always open.
 
@@ -75,10 +75,10 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com) and ap
 
 ### BN Departures
 
-- **osu!:** ::Venix::{ user=5999631 }, [Trynna](https://osu.ppy.sh/users/2652951), ::NeKroMan4ik::{ user=11387664 }, [Ryuusei Aika](https://osu.ppy.sh/users/7777875), ::Fall::{ user=4800816 }, [Nikakis](https://osu.ppy.sh/users/4351739), ::Yahuri::{ user=4682629 }, [Sylas](https://osu.ppy.sh/users/3906405), ::Stack::{ user=6122935 } & [Myxo](https://osu.ppy.sh/users/2202645)
-- **osu!taiko:** ::Roger::{ user=1538223 },  [tasuke912](https://osu.ppy.sh/users/2774767), ::\1Karcher\1 2::{ user=9892196 }, [Ulqui](https://osu.ppy.sh/users/1263669), ::incandescence::{ user=6256027 } & [Raiden](https://osu.ppy.sh/users/2239480)
-- **osu!catch:** ::wonjae::{ user=5032045 }, [Sinnoh](https://osu.ppy.sh/users/4236057), ::Bunnrei::{ user=829284 }, [Baron](https://osu.ppy.sh/users/10286499), ::Dapuluous::{ user=8140944 } & [Xinely](https://osu.ppy.sh/users/1521445)
-- **osu!mania:** ::Keiga::{ user=6866022 }, [Garalulu](https://osu.ppy.sh/users/757783),  ::Kamuy::{ user=7439226 },  [Muse Dash](https://osu.ppy.sh/users/13695676) & ::Kawawa::{ user=4647754 }
+- **osu!:** ::Venix::{ user=5999631 }, ::Trynna::{ user=2652951 }, ::NeKroMan4ik::{ user=11387664 }, ::Ryuusei Aika::{ user=7777875 }, ::Fall::{ user=4800816 }, ::Nikakis::{ user=4351739 }, ::Yahuri::{ user=4682629 }, ::Sylas::{ user=3906405 }, ::Stack::{ user=6122935 } & ::Myxo::{ user=2202645 }
+- **osu!taiko:** ::Roger::{ user=1538223 },  ::tasuke912::{ user=2774767 }, ::\1Karcher\1 2::{ user=9892196 }, ::Ulqui::{ user=1263669 }, ::incandescence::{ user=6256027 } & ::Raiden::{ user=2239480 }
+- **osu!catch:** ::wonjae::{ user=5032045 }, ::Sinnoh::{ user=4236057 }, ::Bunnrei::{ user=829284 }, ::Baron::{ user=10286499 }, ::Dapuluous::{ user=8140944 } & ::Xinely::{ user=1521445 }
+- **osu!mania:** ::Keiga::{ user=6866022 }, ::Garalulu::{ user=757783 },  ::Kamuy::{ user=7439226 },  ::Muse Dash::{ user=13695676 } & ::Kawawa::{ user=4647754 }
 
 ### NAT Additions
 
@@ -111,7 +111,7 @@ For this change Beatmap Nominators were divided into game mode specific user gro
 
 As with every issue of the Mappers' Report we want to show you more unknown mappers who deserve some spotlight for their maps! This time, to cover a whole season, we have osu!taiko, osu!catch and osu!mania for you! So let's dive right into it.
 
-Huge thanks to ::Capu::{ user=2474015 } & [radar](https://osu.ppy.sh/users/7131099) for covering osu!taiko, ::Jemzuu::{ user=7890134 } & [autofanboy](https://osu.ppy.sh/users/636114) for osu!catch and ::Davvy::{ user=10047413 } & [Unpredictable](https://osu.ppy.sh/users/7560872) for osu!mania!
+Huge thanks to ::Capu::{ user=2474015 } & ::radar::{ user=7131099 } for covering osu!taiko, ::Jemzuu::{ user=7890134 } & ::autofanboy::{ user=636114 } for osu!catch and ::Davvy::{ user=10047413 } & ::Unpredictable::{ user=7560872 } for osu!mania!
 
 ### Haexys (osu!taiko)
 
@@ -196,9 +196,9 @@ We hope to see a lot of cool remixes and beatmaps coming from this contest and w
 
 ### osu! Mapping Olympiad #7: Results (osu!mania)
 
-The results of the osu! Mapping Olympiad are finally here, throwing a big surprise at us. For the first time in the history of the Olympiad, two mappers share the 1st place with having the exact same score. Congratulations to ::Kawawa::{ user=4647754 } & [Toaph Daddy](https://osu.ppy.sh/users/7616811) being awarded for their outstanding performance with the tier 1 Mapping Olympiad Badge and the **Elite Mapper** user title!
+The results of the osu! Mapping Olympiad are finally here, throwing a big surprise at us. For the first time in the history of the Olympiad, two mappers share the 1st place with having the exact same score. Congratulations to ::Kawawa::{ user=4647754 } & ::Toaph Daddy::{ user=7616811 } being awarded for their outstanding performance with the tier 1 Mapping Olympiad Badge and the **Elite Mapper** user title!
 
-As if this wasn't enough, the 3rd place is also shared by two mappers, matching the exact same score. ::lenpai::{ user=5314573 } & [BringoBrango](https://osu.ppy.sh/users/10274043) managed as well to impress the judges with their entries. Both of their scores were pretty high and very close to first place, with only a difference of 2.5!
+As if this wasn't enough, the 3rd place is also shared by two mappers, matching the exact same score. ::lenpai::{ user=5314573 } & ::BringoBrango::{ user=10274043 } managed as well to impress the judges with their entries. Both of their scores were pretty high and very close to first place, with only a difference of 2.5!
 
 We can't wait to see what the next osu! Mapping Olympiad will bring to us!
 
@@ -224,7 +224,7 @@ Congratulations to everyone!
 
 ## Around the Community
 
-Hello! We're back with the latest segment of Around the Community! This time we have a bunch of awesome guides that have been put out recently! Should you have something worth including that isn't here already, be sure to let ::Feerum::{ user=4815717 } or [Noffy](https://osu.ppy.sh/users/1541323) know about it! We're happy to give it more attention in our news post!
+Hello! We're back with the latest segment of Around the Community! This time we have a bunch of awesome guides that have been put out recently! Should you have something worth including that isn't here already, be sure to let ::Feerum::{ user=4815717 } or ::Noffy::{ user=1541323 } know about it! We're happy to give it more attention in our news post!
 
 ### Community Guides
 

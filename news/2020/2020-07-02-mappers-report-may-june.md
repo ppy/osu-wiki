@@ -65,10 +65,10 @@ The Beatmap Nominators never rest, the Beatmap Nominators never sleep. Just kidd
 
 ### BN Additions
 
-- **osu!:** ::Teky::{ user=10520912 }, [DeviousPanda](https://osu.ppy.sh/users/4966334), ::Stixy::{ user=9000308 }, [Trynna](https://osu.ppy.sh/users/2652951), ::Fall::{ user=4800816 }, [Elayue](https://osu.ppy.sh/users/6400861), ::NexusQI::{ user=13822800 } & [Garden](https://osu.ppy.sh/users/2849992)
-- **osu!taiko:** ::realy0\_::{ user=8863359 }, [\_DUSK\_](https://osu.ppy.sh/users/6092181), ::davidminh0111::{ user=9623142 }, [Cychloryn](https://osu.ppy.sh/users/6921736) & ::Axer::{ user=7299864 }
-- **osu!catch:** ::Baron::{ user=10286499 }, [Secre](https://osu.ppy.sh/users/2306637) & ::Bastian::{ user=6345176 }
-- **osu!mania:** ::Kyousukee::{ user=8842107 }, [Shima Rin](https://osu.ppy.sh/users/6089608), ::Garalulu::{ user=757783 } & [Muse Dash](https://osu.ppy.sh/users/13695676)
+- **osu!:** ::Teky::{ user=10520912 }, ::DeviousPanda::{ user=4966334 }, ::Stixy::{ user=9000308 }, ::Trynna::{ user=2652951 }, ::Fall::{ user=4800816 }, ::Elayue::{ user=6400861 }, ::NexusQI::{ user=13822800 } & ::Garden::{ user=2849992 }
+- **osu!taiko:** ::realy0\_::{ user=8863359 }, ::\_DUSK\_::{ user=6092181 }, ::davidminh0111::{ user=9623142 }, ::Cychloryn::{ user=6921736 } & ::Axer::{ user=7299864 }
+- **osu!catch:** ::Baron::{ user=10286499 }, ::Secre::{ user=2306637 } & ::Bastian::{ user=6345176 }
+- **osu!mania:** ::Kyousukee::{ user=8842107 }, ::Shima Rin::{ user=6089608 }, ::Garalulu::{ user=757783 } & ::Muse Dash::{ user=13695676 }
 
 Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator! The applications are always open.
 
@@ -76,10 +76,10 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com/) and a
 
 ### BN Departures
 
-- **osu!:** ::Affirmation::{ user=6186628 }, [Namki](https://osu.ppy.sh/users/5248582) & ::wafer::{ user=9416836 }
-- **osu!taiko:** ::Cynplytholowazy::{ user=3901754 }, [Gamelan4](https://osu.ppy.sh/users/9856910) & ::Metzo::{ user=10633982 }
-- **osu!catch:** ::-Luminate::{ user=4778689 } & [Lacrima](https://osu.ppy.sh/users/4915649)
-- **osu!mania:** ::\_Kobii::{ user=6209713 }, [Drum-Hitnormal](https://osu.ppy.sh/users/748722) & ::Unpredictable::{ user=7560872 }
+- **osu!:** ::Affirmation::{ user=6186628 }, ::Namki::{ user=5248582 } & ::wafer::{ user=9416836 }
+- **osu!taiko:** ::Cynplytholowazy::{ user=3901754 }, ::Gamelan4::{ user=9856910 } & ::Metzo::{ user=10633982 }
+- **osu!catch:** ::-Luminate::{ user=4778689 } & ::Lacrima::{ user=4915649 }
+- **osu!mania:** ::\_Kobii::{ user=6209713 }, ::Drum-Hitnormal::{ user=748722 } & ::Unpredictable::{ user=7560872 }
 
 ### BN and QAT/NAT Badges
 
@@ -89,19 +89,19 @@ We are thankful for all their contributions and hope to see much more in the fut
 
 Here is the list of everyone who received a badge this past session:
 
-- **BN 1 Year Badge:** ::incandescence::{ user=6256027 }, [Kaitjuh](https://osu.ppy.sh/users/2225327), ::Unpredictable::{ user=7560872 }, [Nuvolina](https://osu.ppy.sh/users/10974170) & ::Dored::{ user=10284894 }
-- **BN 2 Year Badge:** ::JBHyperion::{ user=4879508 }, [Nevo](https://osu.ppy.sh/users/7451883), ::Mordred::{ user=7265097 }, [bossandy](https://osu.ppy.sh/users/360437) & ::Namki::{ user=5248582 }
-- **BN 3 Year Badge:** ::Benita::{ user=4023183 } & [Sonnyc](https://osu.ppy.sh/users/11771)
+- **BN 1 Year Badge:** ::incandescence::{ user=6256027 }, ::Kaitjuh::{ user=2225327 }, ::Unpredictable::{ user=7560872 }, ::Nuvolina::{ user=10974170 } & ::Dored::{ user=10284894 }
+- **BN 2 Year Badge:** ::JBHyperion::{ user=4879508 }, ::Nevo::{ user=7451883 }, ::Mordred::{ user=7265097 }, ::bossandy::{ user=360437 } & ::Namki::{ user=5248582 }
+- **BN 3 Year Badge:** ::Benita::{ user=4023183 } & ::Sonnyc::{ user=11771 }
 - **BN 4 Year Badge:**  ::Nozhomi::{ user=2716981 }
-- **QAT/NAT 1 Year Badge:** ::Ascendance::{ user=2931883 }, [Noffy](https://osu.ppy.sh/users/1541323) & ::Faputa::{ user=845733 }
-- **QAT/NAT 2 Year Badge:** ::Lasse::{ user=896613 }, [-Mo-](https://osu.ppy.sh/users/2202163) & ::Chaoslitz::{ user=3621552 }
+- **QAT/NAT 1 Year Badge:** ::Ascendance::{ user=2931883 }, ::Noffy::{ user=1541323 } & ::Faputa::{ user=845733 }
+- **QAT/NAT 2 Year Badge:** ::Lasse::{ user=896613 }, ::-Mo-::{ user=2202163 } & ::Chaoslitz::{ user=3621552 }
 - **QAT 3 Year Badge:** ::OnosakiHito::{ user=290128 }
 
 ## Mappers' Showcase
 
 The Mappers' Showcase presents lesser-known mappers from every game mode. Since we bundled two issues in one post, we will feature two game modes this month.
 
-Thanks to ::Jemzuu::{ user=7890134 } for the osu!catch selections and ::Scotty::{ user=11085809 } & [Unpredictable](https://osu.ppy.sh/users/7560872) for the osu!mania selections!
+Thanks to ::Jemzuu::{ user=7890134 } for the osu!catch selections and ::Scotty::{ user=11085809 } & ::Unpredictable::{ user=7560872 } for the osu!mania selections!
 
 ### Phob (osu!catch)
 
@@ -243,7 +243,7 @@ The world needs you!
 
 Phew, that was a bit of a read, right? We're happy that you made it all the way 'til the end! Once again, we're sorry for the long wait with this month's double-issue. We will work on our schedule to make sure future issues of the Mappers' Report get released on time.
 
-And please, don't forget, should you have anything interesting and mapping or modding related for us to mention, make sure to contact ::Feerum::{ user=4815717 } or [Noffy](https://osu.ppy.sh/users/1541323) with all the details.
+And please, don't forget, should you have anything interesting and mapping or modding related for us to mention, make sure to contact ::Feerum::{ user=4815717 } or ::Noffy::{ user=1541323 } with all the details.
 
 Until then, thank you for reading and stay safe and healthy!
 

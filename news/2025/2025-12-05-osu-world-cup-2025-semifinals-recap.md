@@ -51,7 +51,7 @@ This week also had the debut of not one, not two, but three [osu! originals](/wi
     </audio>
 </div>
 
-The first one, in the showcase order, is the great [steelplus](https://osu.ppy.sh/beatmaps/artists/514)' electronic symphony, [Skywired Beatscape](https://osu.ppy.sh/beatmapsets/2468647#osu/5405883), a floating, rhythmically fun production, which housed an interesting and popular alt and light tech pick by ::Azer::{ user=2155578 } and [Megafan](https://osu.ppy.sh/users/6632605). One cannot understate the openness and even nostalgic nature of the song, and we urge you to give it a listen!
+The first one, in the showcase order, is the great [steelplus](https://osu.ppy.sh/beatmaps/artists/514)' electronic symphony, [Skywired Beatscape](https://osu.ppy.sh/beatmapsets/2468647#osu/5405883), a floating, rhythmically fun production, which housed an interesting and popular alt and light tech pick by ::Azer::{ user=2155578 } and ::Megafan::{ user=6632605 }. One cannot understate the openness and even nostalgic nature of the song, and we urge you to give it a listen!
 
 [![](/wiki/shared/news/2025-12-05-osu-world-cup-2025-semifinals-recap/peach_pit_and_cyanide_banner.jpg)](https://osu.ppy.sh/beatmapsets/2468654#osu/5405912)
 
@@ -71,7 +71,7 @@ The second original was a project by one of our more unique and popular FAs, the
     </audio>
 </div>
 
-As for the third original: it's tiebreaker time! The wonderful people over at [ELFENSJóN](https://osu.ppy.sh/beatmaps/artists/69) were the ones in charge this time around, and they gave us the epically powerful J-rock song [Hexen Noir](https://osu.ppy.sh/beatmapsets/2468665#osu/5405933), with the intense vocals of Hanatan, a voice immediately recognisable by most in the osu! community. With a great, mechanically challenging map by ::seros::{ user=10562853 }, [moph](https://osu.ppy.sh/users/2233878) and ::Garden::{ user=2849992 }, which is already in Qualified, why not see if you're up for the challenge?
+As for the third original: it's tiebreaker time! The wonderful people over at [ELFENSJóN](https://osu.ppy.sh/beatmaps/artists/69) were the ones in charge this time around, and they gave us the epically powerful J-rock song [Hexen Noir](https://osu.ppy.sh/beatmapsets/2468665#osu/5405933), with the intense vocals of Hanatan, a voice immediately recognisable by most in the osu! community. With a great, mechanically challenging map by ::seros::{ user=10562853 }, ::moph::{ user=2233878 } and ::Garden::{ user=2849992 }, which is already in Qualified, why not see if you're up for the challenge?
 
 ## Semifinals summary
 
@@ -159,7 +159,7 @@ Last but certainly not least, the remaining team to make it to the Finals week f
 
 ![](/wiki/shared/news/2025-12-05-osu-world-cup-2025-semifinals-recap/-pineapple--saturn-and-sooky.png)
 
-A song's emotions can feel even stronger when its illustrations bring the story to life. For the Semifinals tiebreaker, [Hexen Noir](https://osu.ppy.sh/beatmapsets/2468665#osu/5405933), that responsibility fell to three illustrators: ::-pineapple-::{ user=11523326 }, [Saturn](https://osu.ppy.sh/users/22001295), and ::sooky::{ user=8397914 }, each crafting their complete scene inspired by the song's dark fantasy narrative.
+A song's emotions can feel even stronger when its illustrations bring the story to life. For the Semifinals tiebreaker, [Hexen Noir](https://osu.ppy.sh/beatmapsets/2468665#osu/5405933), that responsibility fell to three illustrators: ::-pineapple-::{ user=11523326 }, ::Saturn::{ user=22001295 }, and ::sooky::{ user=8397914 }, each crafting their complete scene inspired by the song's dark fantasy narrative.
 
 <div class="news-chat-quote__text-container">
 
@@ -201,7 +201,7 @@ Tiebreaker projects often involve multiple illustrators, but the work distributi
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/11523326">-pineapple-</a></p>
 
-Making separate illustrations gave us a lot of freedom in terms of direction, but despite this the storyboarders managed to bring everything together really well and into a full, coherent story. It really can't be understated how well ::LowGraphics::{ user=5383942 } and [Iyouka](https://osu.ppy.sh/users/7138499) brought it all together. For me, the best part about collaborating like this is that it lets me observe the workflow of all these ultra powerful god tier artists, so I can learn how they do things and incorporate into my own workflow in the future. It's really inspiring to get to work alongside such talented people.
+Making separate illustrations gave us a lot of freedom in terms of direction, but despite this the storyboarders managed to bring everything together really well and into a full, coherent story. It really can't be understated how well ::LowGraphics::{ user=5383942 } and ::Iyouka::{ user=7138499 } brought it all together. For me, the best part about collaborating like this is that it lets me observe the workflow of all these ultra powerful god tier artists, so I can learn how they do things and incorporate into my own workflow in the future. It's really inspiring to get to work alongside such talented people.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/22001295" style="background-image: url('/wiki/shared/avatars/CMDR_Saturn.jpg')"></a>
 
@@ -249,7 +249,7 @@ I also included books, orbs, candles, things you would associate with curses, lo
 
 My illustration was built around the lyrics where ELISIA couldn't look away from the past despite knowing what is done cannot be undone. I wanted to portray ELISIA still treading forward with a burning passion. This is the part I felt most personally connected with as it accurately describes my relationship with creating art. Fire, loneliness, and lingering past were key words I thought about when I was drafting up my piece, which naturally led to the vibrant red colors I used.
 
-Overall, I think my drawing was pretty straightforward haha. Usually my art style is pretty messy so I had to really lock in knowing that it would be zoomed in a lot in the [intro video](https://youtu.be/_aiV-u_bMf4) done by ::Sakura006::{ user=10365024 } and [dimavh](https://osu.ppy.sh/users/15056040). I hope players can appreciate the details of the hair because I spent a really long time on it :p
+Overall, I think my drawing was pretty straightforward haha. Usually my art style is pretty messy so I had to really lock in knowing that it would be zoomed in a lot in the [intro video](https://youtu.be/_aiV-u_bMf4) done by ::Sakura006::{ user=10365024 } and ::dimavh::{ user=15056040 }. I hope players can appreciate the details of the hair because I spent a really long time on it :p
 
 ![sooky's illustration](/wiki/shared/news/2025-12-05-osu-world-cup-2025-semifinals-recap/sooky_illustration.jpg)
 

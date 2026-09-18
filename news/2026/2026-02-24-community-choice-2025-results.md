@@ -33,7 +33,7 @@ Here's a highlight reel of all the winning beatmaps if you're more of a visual l
 
 Many would argue that 2025 has been the year of aim maps and high pp numbers, and [**Arash - Temptation (feat. Rebecca) (Nightcore Mix)**](https://osu.ppy.sh/beatmapsets/2235601) is definitely a testament to that.
 
-Featuring 15 difficulties from ::silver tail::{ user=13334570 }, [TheShadowOfDark](https://osu.ppy.sh/users/5795337), ::Take::{ user=19322780 }, [iiyo-](https://osu.ppy.sh/users/19687662), ::Mortem::{ user=2959862 }, [DaNILMaZ1](https://osu.ppy.sh/users/14899675), ::Omekyu::{ user=14348073 }, [chidodou](https://osu.ppy.sh/users/13868581), ::Mekadon::{ user=10827686 }, [forsn](https://osu.ppy.sh/users/9395167), ::Paka::{ user=6646204 }, [Parad0xa](https://osu.ppy.sh/users/12187937), ::Mita::{ user=22882379 }, [hehe](https://osu.ppy.sh/users/2123087), ::Sayuka::{ user=11322604 }, [Tylerderp](https://osu.ppy.sh/users/16004080), ::Azrealy::{ user=12235272 } and [kratom](https://osu.ppy.sh/users/14959496), you know aim players were definitely eating good.
+Featuring 15 difficulties from ::silver tail::{ user=13334570 }, ::TheShadowOfDark::{ user=5795337 }, ::Take::{ user=19322780 }, ::iiyo-::{ user=19687662 }, ::Mortem::{ user=2959862 }, ::DaNILMaZ1::{ user=14899675 }, ::Omekyu::{ user=14348073 }, ::chidodou::{ user=13868581 }, ::Mekadon::{ user=10827686 }, ::forsn::{ user=9395167 }, ::Paka::{ user=6646204 }, ::Parad0xa::{ user=12187937 }, ::Mita::{ user=22882379 }, ::hehe::{ user=2123087 }, ::Sayuka::{ user=11322604 }, ::Tylerderp::{ user=16004080 }, ::Azrealy::{ user=12235272 } and ::kratom::{ user=14959496 }, you know aim players were definitely eating good.
 
 #### Finalists
 
@@ -75,7 +75,7 @@ Featuring 15 difficulties from ::silver tail::{ user=13334570 }, [TheShadowOfDar
 
 [![](/wiki/shared/news/2026-02-24-community-choice-2025-results/taiko.jpg)](https://osu.ppy.sh/beatmapsets/2358247)
 
-It's no secret that osu!taiko tends to shine with its tournament bangers, and [**TWC Sound Team "Strike Back Squad" - BUZZ CUTZ**](https://osu.ppy.sh/beatmapsets/2358247) is no exception. The osu!taiko World Cup 2025 delivered a fully custom Grand Finals tiebreaker mapped by mapping legends ::Raphalge::{ user=3918650 }, [uone](https://osu.ppy.sh/users/5321719), ::nananass::{ user=7231722 }, [Nurend](https://osu.ppy.sh/users/9905079) and ::layxa::{ user=14800030 } paired with a storyboard by ::Coppertine::{ user=7279762 }, [Kuroise](https://osu.ppy.sh/users/14547127), ::RiceSS::{ user=8271436 } and [Noffy](https://osu.ppy.sh/users/1541323). The map took a semi-niche genre — dariacore — and pushed it to new heights with a 9-minute experience that had players and mappers alike on the edge of their seats.
+It's no secret that osu!taiko tends to shine with its tournament bangers, and [**TWC Sound Team "Strike Back Squad" - BUZZ CUTZ**](https://osu.ppy.sh/beatmapsets/2358247) is no exception. The osu!taiko World Cup 2025 delivered a fully custom Grand Finals tiebreaker mapped by mapping legends ::Raphalge::{ user=3918650 }, ::uone::{ user=5321719 }, ::nananass::{ user=7231722 }, ::Nurend::{ user=9905079 } and ::layxa::{ user=14800030 } paired with a storyboard by ::Coppertine::{ user=7279762 }, ::Kuroise::{ user=14547127 }, ::RiceSS::{ user=8271436 } and ::Noffy::{ user=1541323 }. The map took a semi-niche genre — dariacore — and pushed it to new heights with a 9-minute experience that had players and mappers alike on the edge of their seats.
 
 #### Community Choice finalists
 
@@ -191,7 +191,7 @@ Not satisfied with winning Community Choice back to back with [BilliumMoto - LIG
 
 If you've been in the community for a modest amount of time, ::Blocko::{ user=4075092 } should not come up as a new name for you. Better known as "ET Blocko", their [**TWC Sound Team "Strike Back Squad" - BUZZ CUTZ**](https://osu.ppy.sh/beatmapsets/2367508#mania/5154426) instantly drew the attention of the community despite being ranked in the nick of time — a mere 3 days away from the New Year 2026!
 
-This was further complemented by the guest contributions from ::Akasha-::{ user=2596306 } and [Mochineko](https://osu.ppy.sh/users/3793196), as well as ::Coppertine::{ user=7279762 } and [Kuroise](https://osu.ppy.sh/users/14547127) porting the original storyboard which was initially featured in the [osu!taiko World Cup 2025](/wiki/Tournaments/TWC/2025). No wonder it ended up winning in both categories.
+This was further complemented by the guest contributions from ::Akasha-::{ user=2596306 } and ::Mochineko::{ user=3793196 }, as well as ::Coppertine::{ user=7279762 } and ::Kuroise::{ user=14547127 } porting the original storyboard which was initially featured in the [osu!taiko World Cup 2025](/wiki/Tournaments/TWC/2025). No wonder it ended up winning in both categories.
 
 #### Community Choice finalists
 
@@ -250,7 +250,7 @@ This was further complemented by the guest contributions from ::Akasha-::{ user=
 
 [![](/wiki/shared/news/2026-02-24-community-choice-2025-results/mania-xk-mapper-2.jpg)](https://osu.ppy.sh/beatmapsets/2088446)
 
-osu! is known for its wide breadth of songs, maps and even key modes in osu!mania. As the saying goes, the more the merrier, which makes it fitting that mappers picking their favourite maps ended up in a tie! The second crown goes to [**Laur - Swift Swing**](https://osu.ppy.sh/beatmapsets/2088446#mania/4376573) by ::U1d::{ user=10125072 }, which offers a rather unique jazz experience for players with 6 fingers to spare. With the inclusion of a couple in-between difficulties by the hand of ::Telzzxs::{ user=10210497 } and [VividCycle](https://osu.ppy.sh/users/14351534), the spread ended up being accessible to a wide range of players.
+osu! is known for its wide breadth of songs, maps and even key modes in osu!mania. As the saying goes, the more the merrier, which makes it fitting that mappers picking their favourite maps ended up in a tie! The second crown goes to [**Laur - Swift Swing**](https://osu.ppy.sh/beatmapsets/2088446#mania/4376573) by ::U1d::{ user=10125072 }, which offers a rather unique jazz experience for players with 6 fingers to spare. With the inclusion of a couple in-between difficulties by the hand of ::Telzzxs::{ user=10210497 } and ::VividCycle::{ user=14351534 }, the spread ended up being accessible to a wide range of players.
 
 #### Finalists
 

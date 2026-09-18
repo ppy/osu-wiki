@@ -8,7 +8,7 @@ series: beatmap_spotlights
 
 Hello everyone and my apologies for the big delay! The Ranking Charts for December 2015 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1512)!
 
-This month ::Baraatje123::{ user=2533040 }, [OzzyOzrock](https://osu.ppy.sh/users/465153), ::alienflybot::{ user=636114 } and [Halogen-](https://osu.ppy.sh/users/169992) picked the maps for the Monthly Ranking Charts. Unfortunately, because of the low amount of ranked christmas / winter themed maps, we can't go for a themed chart, which is why we will continue with the normal procedure for now.
+This month ::Baraatje123::{ user=2533040 }, ::OzzyOzrock::{ user=465153 }, ::alienflybot::{ user=636114 } and ::Halogen-::{ user=169992 } picked the maps for the Monthly Ranking Charts. Unfortunately, because of the low amount of ranked christmas / winter themed maps, we can't go for a themed chart, which is why we will continue with the normal procedure for now.
 
 ## Ranking Charts Creation
 

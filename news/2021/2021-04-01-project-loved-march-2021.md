@@ -45,7 +45,7 @@ This one's for all those sessions where you just wish you had the perfect map to
 
 [![](/wiki/shared/news/2021-03-31-project-loved-march-2021/1227210.jpg)](https://osu.ppy.sh/community/forums/topics/1284227)
 
-[Mitsuharu Fukuyama - Baka Mitai](https://osu.ppy.sh/beatmapsets/1227210#osu) by ::iRedi::{ user=8005579 }, [\[-Chocola-\]](https://osu.ppy.sh/users/6781232), ::Dragbit 6::{ user=10815893 }, [Levesile](https://osu.ppy.sh/users/12054043) and ::Not DT Farmer::{ user=10369295 }\
+[Mitsuharu Fukuyama - Baka Mitai](https://osu.ppy.sh/beatmapsets/1227210#osu) by ::iRedi::{ user=8005579 }, ::\[-Chocola-\]::{ user=6781232 }, ::Dragbit 6::{ user=10815893 }, ::Levesile::{ user=12054043 } and ::Not DT Farmer::{ user=10369295 }\
 74 BPM, 1:51 | 3.43★ – 4.92★
 
 With all the intense energy the maps in this game can provide, sometimes all you need is a step back from the chaos and just let it all out. Or, if not that, maybe just appreciate the fact that even the most memed-on Japanese songs end up being such bangers. Regardless, I'm sure we can all agree that a song like *Baka Mitai* deserves nothing less than an incredible mapset to do such an incredible song justice, and that's exactly what iRedi provided with this mapset of Hard and Insane difficulties that players of any skill level can enjoy.
@@ -63,7 +63,7 @@ If you think you've seen all that technical maps have to offer in this game, I'd
 
 [![](/wiki/shared/news/2021-03-31-project-loved-march-2021/586935.jpg)](https://osu.ppy.sh/community/forums/topics/1284225)
 
-[Kodin & Billain - Exobiota](https://osu.ppy.sh/beatmapsets/586935#osu) by ::lcfc::{ user=7322726 }, [Ameth Rianno](https://osu.ppy.sh/users/5219516), ::fanzhen0019::{ user=418699 }, [Flezlin](https://osu.ppy.sh/users/3696423), ::Foxy Grandpa::{ user=5580983 }, [Kaifin](https://osu.ppy.sh/users/2596942), ::Lama Poluna::{ user=4581039 }, [My Angel Watame](https://osu.ppy.sh/users/4525153), ::Natteke desu::{ user=1848318 }, [NeilPerry](https://osu.ppy.sh/users/841391), ::revurii::{ user=4180036 }, [Rohit6](https://osu.ppy.sh/users/3206945), ::Sing::{ user=3795679 }, [toybot](https://osu.ppy.sh/users/2848604) and ::winber1::{ user=270328 }\
+[Kodin & Billain - Exobiota](https://osu.ppy.sh/beatmapsets/586935#osu) by ::lcfc::{ user=7322726 }, ::Ameth Rianno::{ user=5219516 }, ::fanzhen0019::{ user=418699 }, ::Flezlin::{ user=3696423 }, ::Foxy Grandpa::{ user=5580983 }, ::Kaifin::{ user=2596942 }, ::Lama Poluna::{ user=4581039 }, ::My Angel Watame::{ user=4525153 }, ::Natteke desu::{ user=1848318 }, ::NeilPerry::{ user=841391 }, ::revurii::{ user=4180036 }, ::Rohit6::{ user=3206945 }, ::Sing::{ user=3795679 }, ::toybot::{ user=2848604 } and ::winber1::{ user=270328 }\
 172 BPM, 6:20 | 6.48★
 
 Such ambitious collaborations on technical marathon maps seem hard to come by nowadays, but that doesn't mean we can't still look back in awe at just how incredible some of those kinds of maps are. A collaboration between 15 stunningly skilled mappers led to this 6-minute masterpiece being created in 2017. Since then, it has only stood the test of time, exceeding quality standards of even modern mapping.
@@ -81,7 +81,7 @@ Expect yourself to be coming back to this map for years to come.
 
 [![](/wiki/shared/news/2021-03-31-project-loved-march-2021/1080535.jpg)](https://osu.ppy.sh/community/forums/topics/1284223)
 
-[SOOOO - Happppy song](https://osu.ppy.sh/beatmapsets/1080535#osu) by ::foreskin gaming::{ user=11513377 }, [-Coffee Addict-](https://osu.ppy.sh/users/9985398), ::\[Blade\]::{ user=13806298 }, [AnimLoli](https://osu.ppy.sh/users/8949841), ::AnzeigeistRaus::{ user=12419976 }, [GAO HAO](https://osu.ppy.sh/users/8964050), ::Gibune::{ user=5778687 }, [Hawnta](https://osu.ppy.sh/users/3275350), ::Jelljel::{ user=11939459 }, [MyLonelyAlpaca](https://osu.ppy.sh/users/14063549), ::Ore::{ user=13530221 }, [Recvee](https://osu.ppy.sh/users/9498216), ::riyuwu::{ user=10721506 }, [Sanzu_Alternate](https://osu.ppy.sh/users/13261558), ::Sytho::{ user=4175698 }, [timq](https://osu.ppy.sh/users/9458469) and ::Wanpachi::{ user=12157130 }\
+[SOOOO - Happppy song](https://osu.ppy.sh/beatmapsets/1080535#osu) by ::foreskin gaming::{ user=11513377 }, ::-Coffee Addict-::{ user=9985398 }, ::\[Blade\]::{ user=13806298 }, ::AnimLoli::{ user=8949841 }, ::AnzeigeistRaus::{ user=12419976 }, ::GAO HAO::{ user=8964050 }, ::Gibune::{ user=5778687 }, ::Hawnta::{ user=3275350 }, ::Jelljel::{ user=11939459 }, ::MyLonelyAlpaca::{ user=14063549 }, ::Ore::{ user=13530221 }, ::Recvee::{ user=9498216 }, ::riyuwu::{ user=10721506 }, ::Sanzu\1Alternate::{ user=13261558 }, ::Sytho::{ user=4175698 }, ::timq::{ user=9458469 } and ::Wanpachi::{ user=12157130 }\
 226 BPM, 2:22 | 1.02★ – 9.06★
 
 Tired of your favourite Featured Artist songs only having impossible maps? This mapset is here to remedy that, featuring a balanced spread of 21 difficulties ranging between 1 and 9 stars. No matter your skill level, there's a difficulty in this mapset that'll perfectly challenge your skills at an insane 226 BPM, each one beautifully capturing the chaos that screams its way out of every second of the song.
@@ -104,20 +104,20 @@ One of the first 8 star graveyard maps to ever shine in popularity, this catchy,
 
 [![](/wiki/shared/news/2021-03-31-project-loved-march-2021/1043915.jpg)](https://osu.ppy.sh/community/forums/topics/1284220)
 
-[Riflly2 - Dancing Roach Autotune (Extended Cut)](https://osu.ppy.sh/beatmapsets/1043915#osu) by ::FriendoFox::{ user=3678808 }, [-Mack-](https://osu.ppy.sh/users/10460148), ::Fatfan Kolek::{ user=2308676 }, [Hausenberg](https://osu.ppy.sh/users/10324016), ::Jaxtar::{ user=3664295 }, [Juicy-](https://osu.ppy.sh/users/13097638), ::Megatrook89::{ user=5310746 }, [Moofu](https://osu.ppy.sh/users/12189647), ::Nomby::{ user=7624606 }, [otaku fedido22](https://osu.ppy.sh/users/14634323), ::Razzorisu::{ user=15839025 }, [SoldierChicken](https://osu.ppy.sh/users/7046789), ::Symra::{ user=6248691 } and [Woey](https://osu.ppy.sh/users/3792472)\
+[Riflly2 - Dancing Roach Autotune (Extended Cut)](https://osu.ppy.sh/beatmapsets/1043915#osu) by ::FriendoFox::{ user=3678808 }, ::-Mack-::{ user=10460148 }, ::Fatfan Kolek::{ user=2308676 }, ::Hausenberg::{ user=10324016 }, ::Jaxtar::{ user=3664295 }, ::Juicy-::{ user=13097638 }, ::Megatrook89::{ user=5310746 }, ::Moofu::{ user=12189647 }, ::Nomby::{ user=7624606 }, ::otaku fedido22::{ user=14634323 }, ::Razzorisu::{ user=15839025 }, ::SoldierChicken::{ user=7046789 }, ::Symra::{ user=6248691 } and ::Woey::{ user=3792472 }\
 255 – 264 BPM, 0:35 | 2.81★ – 5.89★
 
 There's a special charm behind those giant mapsets of short, silly MP3s that get a bunch of wacky guest difficulties, but most of them fall in the dust of obscurity in the graveyard, likely to be forgotten with time. Not this one, though—with 17 difficulties, nearly 400 favourites and almost 200,000 recorded plays, this mapset found the sweet spot between innocent fun and actual playability. Enjoy a solid 33 seconds of autotune charm that gets sillier the more you listen to it.
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [KuroKuroKuro](https://osu.ppy.sh/users/11931563), ::nyanmi-1828::{ user=6866480 } and [POCARI SWEAT](https://osu.ppy.sh/users/5082685)!
+osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::KuroKuroKuro::{ user=11931563 }, ::nyanmi-1828::{ user=6866480 } and ::POCARI SWEAT::{ user=5082685 }!
 
 ---
 
 [![](/wiki/shared/news/2021-03-31-project-loved-march-2021/624087.jpg)](https://osu.ppy.sh/community/forums/topics/1284218)
 
-[ClariS - Hitorigoto -TV MIX-](https://osu.ppy.sh/beatmapsets/624087#taiko) by ::asuasu\1yura::{ user=2875968 }, [Consified](https://osu.ppy.sh/users/6502903), ::KamizonoShinobu::{ user=1163051 }, [komasy](https://osu.ppy.sh/users/1980256), ::KTYN::{ user=2250574 }, [nananass](https://osu.ppy.sh/users/7231722), ::Peaceful::{ user=165027 }, [Pheon](https://osu.ppy.sh/users/292295) and ::yyyyyyyyyyypetu::{ user=468029 }\
+[ClariS - Hitorigoto -TV MIX-](https://osu.ppy.sh/beatmapsets/624087#taiko) by ::asuasu\1yura::{ user=2875968 }, ::Consified::{ user=6502903 }, ::KamizonoShinobu::{ user=1163051 }, ::komasy::{ user=1980256 }, ::KTYN::{ user=2250574 }, ::nananass::{ user=7231722 }, ::Peaceful::{ user=165027 }, ::Pheon::{ user=292295 } and ::yyyyyyyyyyypetu::{ user=468029 }\
 165 BPM, 1:28 | 4.13★ – 8.61★\
 *description written by ::POCARI SWEAT::{ user=5082685 }*
 
@@ -153,13 +153,13 @@ Players, the time has come to open the box! This map created by Grape_Tea has ma
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, [Spectator](https://osu.ppy.sh/users/702598), ::Tenshichan::{ user=1101600 } and [Wesley](https://osu.ppy.sh/users/2407265)!
+osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, ::Spectator::{ user=702598 }, ::Tenshichan::{ user=1101600 } and ::Wesley::{ user=2407265 }!
 
 ---
 
 [![](/wiki/shared/news/2021-03-31-project-loved-march-2021/820985.jpg)](https://osu.ppy.sh/community/forums/topics/1284213)
 
-[DeadballP loves Megurine Luka - Wash My Blood](https://osu.ppy.sh/beatmapsets/820985#fruits) by ::Astreachan::{ user=2953898 }, [\[ Azu- \]](https://osu.ppy.sh/users/8290364), ::FastYoshi::{ user=4820793 }, [Fl4ndre Scarlet](https://osu.ppy.sh/users/4146243), ::murutattack::{ user=4480237 } and [Summerleopard](https://osu.ppy.sh/users/8437630)\
+[DeadballP loves Megurine Luka - Wash My Blood](https://osu.ppy.sh/beatmapsets/820985#fruits) by ::Astreachan::{ user=2953898 }, ::\[ Azu- \]::{ user=8290364 }, ::FastYoshi::{ user=4820793 }, ::Fl4ndre Scarlet::{ user=4146243 }, ::murutattack::{ user=4480237 } and ::Summerleopard::{ user=8437630 }\
 175 BPM, 4:29 | 3.01★, 4.85★, 5.28★, 5.53★, 7.10★\
 *description written by ::Wesley::{ user=2407265 }*
 
@@ -171,7 +171,7 @@ Will you conquer the map by washing your blood away in all the spinners trying t
 
 [![](/wiki/shared/news/2021-03-31-project-loved-march-2021/940607.jpg)](https://osu.ppy.sh/community/forums/topics/1284212)
 
-[PSYQUI - Hype feat. Such](https://osu.ppy.sh/beatmapsets/940607#fruits) by ::\[\_-Kukkai-\_\]::{ user=7811952 } and [Fauzan 2000](https://osu.ppy.sh/users/9317817)\
+[PSYQUI - Hype feat. Such](https://osu.ppy.sh/beatmapsets/940607#fruits) by ::\[\_-Kukkai-\_\]::{ user=7811952 } and ::Fauzan 2000::{ user=9317817 }\
 172 BPM, 5:01 | 6.22★, 7.23★\
 *description written by ::Spectator::{ user=702598 }*
 
@@ -197,7 +197,7 @@ Many of you probably know this map because of its presence in the nomod bracket 
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::-mint-::{ user=8976576 }, [Kawawa](https://osu.ppy.sh/users/4647754), ::lenpai::{ user=5314573 } and [Penguinosity](https://osu.ppy.sh/users/10235296)!
+osu!mania Loved candidates were chosen by ::-mint-::{ user=8976576 }, ::Kawawa::{ user=4647754 }, ::lenpai::{ user=5314573 } and ::Penguinosity::{ user=10235296 }!
 
 ---
 
@@ -211,7 +211,7 @@ osu!mania Loved candidates were chosen by ::-mint-::{ user=8976576 }, [Kawawa](h
 
 [![](/wiki/shared/news/2021-03-31-project-loved-march-2021/663472.jpg)](https://osu.ppy.sh/community/forums/topics/1284206)
 
-[Kairiki Bear - Inaiinai isonshou (feat. GUMI, Kagamine Rin)](https://osu.ppy.sh/beatmapsets/663472#mania) by ::juankristal::{ user=443656 } and [Ciel](https://osu.ppy.sh/users/1455309)\
+[Kairiki Bear - Inaiinai isonshou (feat. GUMI, Kagamine Rin)](https://osu.ppy.sh/beatmapsets/663472#mania) by ::juankristal::{ user=443656 } and ::Ciel::{ user=1455309 }\
 294 BPM, 3:39 | \[4K\] 6.55★\
 *description written by ::-mint-::{ user=8976576 }*
 

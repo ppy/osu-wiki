@@ -49,7 +49,7 @@ A partir de ahora, unirse a las salas multijugador semanales requiere que los pa
 - [Osamu Kubota - Presto \[Jval's Another\]](https://osu.ppy.sh/beatmapsets/1452332#osu/3005290), sugerido por ::Zelq::{ user=8953955 }
 - [Neru - Lost One no Goukoku \[eveless\]](https://osu.ppy.sh/beatmapsets/83547#osu/230641), sugerido por ::Ryuusei Aika::{ user=7777875 }
 - [OSTER project - Violet Rose \[Insane\]](https://osu.ppy.sh/beatmapsets/1178488#osu/2457698), sugerido por ::DigitalHypno::{ user=4384207 }
-- [onoken - ZADAMGA \[Luscent's Extra\]](https://osu.ppy.sh/beatmapsets/1492550#osu/3188917), sugerido por ::DigitalHypno::{ user=4384207 } y [Lefafel](https://osu.ppy.sh/users/2295850)
+- [onoken - ZADAMGA \[Luscent's Extra\]](https://osu.ppy.sh/beatmapsets/1492550#osu/3188917), sugerido por ::DigitalHypno::{ user=4384207 } y ::Lefafel::{ user=2295850 }
 - [UKRampage - Jack-the-Ripper \[Extravaganza\]](https://osu.ppy.sh/beatmapsets/1333932#osu/3274710), sugerido por ::Ryuusei Aika::{ user=7777875 }
 - [Nekomata Master - Byakuya Gentou \[EX\]](https://osu.ppy.sh/beatmapsets/36849#osu/119375), sugerido por ::Ryuusei Aika::{ user=7777875 }
 - [ELECTROCUTICA - Dependence Intension \[AQUARIUM+\]](https://osu.ppy.sh/beatmapsets/1402842#osu/2893781), sugerido por ::Riot::{ user=4256461 }

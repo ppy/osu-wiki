@@ -42,7 +42,7 @@ This article covers results from the last contest, plus criteria for this contes
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/iQnp29rbNeg" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Give some appreciation to this contest's judges: ::arcpotato::{ user=12842392 }, [Yasuho](https://osu.ppy.sh/users/8458835), ::\1gt::{ user=8301957 }, and [ulko](https://osu.ppy.sh/users/1263669)!
+Give some appreciation to this contest's judges: ::arcpotato::{ user=12842392 }, ::Yasuho::{ user=8458835 }, ::\1gt::{ user=8301957 }, and ::ulko::{ user=1263669 }!
 
 ### osu!catch results
 
@@ -63,7 +63,7 @@ A certain someone is curious what happens when you reach double the [contest poi
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/-WX4GGsagA0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Special thanks to ::Chatie::{ user=6524765 }, [Sadu](https://osu.ppy.sh/users/16301262), ::SadEgg::{ user=10278243 }, and [Zileni](https://osu.ppy.sh/users/23525574) for judging these maps and making this contest possible!
+Special thanks to ::Chatie::{ user=6524765 }, ::Sadu::{ user=16301262 }, ::SadEgg::{ user=10278243 }, and ::Zileni::{ user=23525574 } for judging these maps and making this contest possible!
 
 ## Game modes
 

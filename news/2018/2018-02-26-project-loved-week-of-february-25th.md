@@ -89,7 +89,7 @@ You aren't ready...
 
 *written by ::Toy::{ user=2757689 }*
 
-If anyone remembers watching livestreams from old top player ::thelewa::{ user=475021 }, you may recognize this map as the song he used to end every stream. ::jesse1412::{ user=230116 }'s near perfect emulation of old-style ::Starrodkirby86::{ user=410 } and [mtmcl](https://osu.ppy.sh/users/5960) mapping is seen within throughout [Bandiria Travellers](https://osu.ppy.sh/beatmapsets/51391). Low AR, linear patterns, even the artist choice perfectly resembles an era of mapping very dear to those who enjoy old-style mapping. Leave the storyboard on, and shed a tear along with Susumu Hirasawa himself for this masterpiece of a map.
+If anyone remembers watching livestreams from old top player ::thelewa::{ user=475021 }, you may recognize this map as the song he used to end every stream. ::jesse1412::{ user=230116 }'s near perfect emulation of old-style ::Starrodkirby86::{ user=410 } and ::mtmcl::{ user=5960 } mapping is seen within throughout [Bandiria Travellers](https://osu.ppy.sh/beatmapsets/51391). Low AR, linear patterns, even the artist choice perfectly resembles an era of mapping very dear to those who enjoy old-style mapping. Leave the storyboard on, and shed a tear along with Susumu Hirasawa himself for this masterpiece of a map.
 
 [![](/wiki/shared/news/2018-02-26-project-loved-week-of-february-25th/osu/narcissus-at-oasis.jpg)](https://osu.ppy.sh/community/forums/topics/708904)
 
@@ -207,7 +207,7 @@ I'm sure that Memoria Reborn will be welcomed into the Loved section with open a
 
 *written by ::Kamikaze::{ user=2124783 }*
 
-A collaborative effort of ::Ez2dj\_7144::{ user=4164087 }, [nowsmart](https://osu.ppy.sh/users/1935034), ::\[ Mee \]::{ user=3935009 }, [\[ Karen \]](https://osu.ppy.sh/users/8425536), ::ExPew::{ user=665612 }, one of the hottest sets of the late 2014/early 2015 hits the voting charts!
+A collaborative effort of ::Ez2dj\_7144::{ user=4164087 }, ::nowsmart::{ user=1935034 }, ::\[ Mee \]::{ user=3935009 }, ::\[ Karen \]::{ user=8425536 }, ::ExPew::{ user=665612 }, one of the hottest sets of the late 2014/early 2015 hits the voting charts!
 
 This set features three keymode spreads with 4K, 5K and 7K spreads which all reach extreme levels of difficulty, especially on 7K with its Absolute difficulty.
 
@@ -225,7 +225,7 @@ In essence, while I feel that ::Chrubble::{ user=2594280 }'s Feelin' Sky can be 
 
 [![](/wiki/shared/news/2018-02-26-project-loved-week-of-february-25th/mania/possession.jpg)](https://osu.ppy.sh/community/forums/topics/708937)
 
-*written by ::Pope Gadget::{ user=2288341 } and [Kamikaze](https://osu.ppy.sh/users/2124783)*
+*written by ::Pope Gadget::{ user=2288341 } and ::Kamikaze::{ user=2124783 }*
 
 A simply fun gimmick chart suitable for anyone who's up for a challenge - with a 4K difficulty by ::MAAAAAAAAAAAAAS::{ user=2393914 } to accompany the DDR X2 fans, and a 7K difficulty by ::pporse::{ user=4991434 } for those who may have first seen it charted on IIDX.
 

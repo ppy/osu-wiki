@@ -35,13 +35,13 @@ Without any further ado, let's move onto this month's picks!
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::Bubbleman::{ user=5182050 }, [DigitalHypno](https://osu.ppy.sh/users/4384207), ::Doomsday::{ user=18983 }, [UberFazz](https://osu.ppy.sh/users/8646059) and ::Wixonater::{ user=10083084 }!
+The osu! Loved candidates were chosen by ::Bubbleman::{ user=5182050 }, ::DigitalHypno::{ user=4384207 }, ::Doomsday::{ user=18983 }, ::UberFazz::{ user=8646059 } and ::Wixonater::{ user=10083084 }!
 
 ---
 
 [![](/wiki/shared/news/2022-04-18-project-loved-april-2022/1024321.jpg)](https://osu.ppy.sh/community/forums/topics/1561147)
 
-[Marcioz - Mate Um Bonito Hoje Mesmo!](https://osu.ppy.sh/beatmapsets/1024321#osu) by ::Renamon::{ user=5980661 } and [Kalindraz](https://osu.ppy.sh/users/2313166)\
+[Marcioz - Mate Um Bonito Hoje Mesmo!](https://osu.ppy.sh/beatmapsets/1024321#osu) by ::Renamon::{ user=5980661 } and ::Kalindraz::{ user=2313166 }\
 207.45 BPM, 1:52 | 5.13★, 6.18★, 7.05★\
 *description written by ::UberFazz::{ user=8646059 }*
 
@@ -75,7 +75,7 @@ Whether you're looking for a map to challenge your reading or just feel like twi
 
 [![](/wiki/shared/news/2022-04-18-project-loved-april-2022/539007.jpg)](https://osu.ppy.sh/community/forums/topics/1561117)
 
-[$44,000 - PISSCORD](https://osu.ppy.sh/beatmapsets/539007#osu) by ::Silverboxer::{ user=2166762 }, [Mel](https://osu.ppy.sh/users/1696312), ::Moonlit::{ user=3142881 } and [ZyRiiu](https://osu.ppy.sh/users/2708649)\
+[$44,000 - PISSCORD](https://osu.ppy.sh/beatmapsets/539007#osu) by ::Silverboxer::{ user=2166762 }, ::Mel::{ user=1696312 }, ::Moonlit::{ user=3142881 } and ::ZyRiiu::{ user=2708649 }\
 250 BPM, 1:39 | 1.54★ – 7.11★\
 *description written by ::Doomsday::{ user=18983 }*
 
@@ -87,7 +87,7 @@ A great example of the aim-heavy mapping of the mid 2010's, with the following t
 
 [![](/wiki/shared/news/2022-04-18-project-loved-april-2022/396643.jpg)](https://osu.ppy.sh/community/forums/topics/1561116)
 
-[Kitsune^2 - Rainbow Tylenol](https://osu.ppy.sh/beatmapsets/396643#osu) by ::Gero::{ user=1467715 }, [Bonsai](https://osu.ppy.sh/users/987334), ::Hobbes2::{ user=8157492 }, [jas](https://osu.ppy.sh/users/8920907), ::Mismagius::{ user=19048 }, [MoodyRPG](https://osu.ppy.sh/users/464889), ::Natsu::{ user=1953876 }, [pishifat](https://osu.ppy.sh/users/3178418) and ::Rumia-::{ user=1787171 }\
+[Kitsune^2 - Rainbow Tylenol](https://osu.ppy.sh/beatmapsets/396643#osu) by ::Gero::{ user=1467715 }, ::Bonsai::{ user=987334 }, ::Hobbes2::{ user=8157492 }, ::jas::{ user=8920907 }, ::Mismagius::{ user=19048 }, ::MoodyRPG::{ user=464889 }, ::Natsu::{ user=1953876 }, ::pishifat::{ user=3178418 } and ::Rumia-::{ user=1787171 }\
 135 BPM, 1:48 | 1.48★ – 7.81★\
 *description written by ::Doomsday::{ user=18983 }*
 
@@ -101,7 +101,7 @@ This is a polished set that with the exception of a lack of hitsounding on Nogar
 
 [![](/wiki/shared/news/2022-04-18-project-loved-april-2022/1738985.jpg)](https://osu.ppy.sh/community/forums/topics/1561115)
 
-[Minibosses - Castlevania](https://osu.ppy.sh/beatmapsets/1738985#osu) by ::m980::{ user=3288 }, [Alace](https://osu.ppy.sh/users/25993), ::Beuchi::{ user=67192 }, [Derekku](https://osu.ppy.sh/users/91341) and ::Larto::{ user=12328 }\
+[Minibosses - Castlevania](https://osu.ppy.sh/beatmapsets/1738985#osu) by ::m980::{ user=3288 }, ::Alace::{ user=25993 }, ::Beuchi::{ user=67192 }, ::Derekku::{ user=91341 } and ::Larto::{ user=12328 }\
 172.9 BPM, 5:17 | 5.11★, 5.11★\
 *description written by ::Bubbleman::{ user=5182050 }*
 
@@ -125,13 +125,13 @@ Seen as *[the lost dedicated](https://osu.ppy.sh/beatmapsets/194923)* on steroid
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [Boaz](https://osu.ppy.sh/users/13302996), ::Gamelan4::{ user=9856910 }, [Horiiizon](https://osu.ppy.sh/users/8071438), ::KuroKuroKuro::{ user=11931563 } and [POCARI SWEAT](https://osu.ppy.sh/users/5082685)!
+The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::Boaz::{ user=13302996 }, ::Gamelan4::{ user=9856910 }, ::Horiiizon::{ user=8071438 }, ::KuroKuroKuro::{ user=11931563 } and ::POCARI SWEAT::{ user=5082685 }!
 
 ---
 
 [![](/wiki/shared/news/2022-04-18-project-loved-april-2022/692689.jpg)](https://osu.ppy.sh/community/forums/topics/1561112)
 
-[Renard - Because Maybe!](https://osu.ppy.sh/beatmapsets/692689#taiko) by ::Axer::{ user=7299864 }, [Coryn](https://osu.ppy.sh/users/2828556), ::Cychloryn::{ user=6921736 }, [Faputa](https://osu.ppy.sh/users/845733), ::Fraolinch::{ user=205257 }, [general chicken](https://osu.ppy.sh/users/8050850), ::Hivie::{ user=14102976 }, [Ideal](https://osu.ppy.sh/users/3869519), ::Jaltzu::{ user=2597417 }, [Jerry](https://osu.ppy.sh/users/605973), ::juanilp4evr::{ user=6413125 }, [Metzo](https://osu.ppy.sh/users/10633982), ::radar::{ user=7131099 }, [Skull Kid](https://osu.ppy.sh/users/3044264), ::Stefan::{ user=626907 }, [tama11](https://osu.ppy.sh/users/1109122), ::Vulkin::{ user=4901066 }, [X a v y](https://osu.ppy.sh/users/3738344), ::Zedther::{ user=8316352 } and [Zetera](https://osu.ppy.sh/users/587737)\
+[Renard - Because Maybe!](https://osu.ppy.sh/beatmapsets/692689#taiko) by ::Axer::{ user=7299864 }, ::Coryn::{ user=2828556 }, ::Cychloryn::{ user=6921736 }, ::Faputa::{ user=845733 }, ::Fraolinch::{ user=205257 }, ::general chicken::{ user=8050850 }, ::Hivie::{ user=14102976 }, ::Ideal::{ user=3869519 }, ::Jaltzu::{ user=2597417 }, ::Jerry::{ user=605973 }, ::juanilp4evr::{ user=6413125 }, ::Metzo::{ user=10633982 }, ::radar::{ user=7131099 }, ::Skull Kid::{ user=3044264 }, ::Stefan::{ user=626907 }, ::tama11::{ user=1109122 }, ::Vulkin::{ user=4901066 }, ::X a v y::{ user=3738344 }, ::Zedther::{ user=8316352 } and ::Zetera::{ user=587737 }\
 220 BPM, 60:08 | 5.24★ – 7.35★\
 *description written by ::Boaz::{ user=13302996 }*
 
@@ -141,7 +141,7 @@ If you thought it couldn't get any better: this map also features an amazing sto
 
 [![](/wiki/shared/news/2022-04-18-project-loved-april-2022/1018730.jpg)](https://osu.ppy.sh/community/forums/topics/1561111)
 
-[Kotori - Nanamori (youth Remix)](https://osu.ppy.sh/beatmapsets/1018730#taiko) by ::nyanmi-1828::{ user=6866480 } and [Felt7z](https://osu.ppy.sh/users/8089834)\
+[Kotori - Nanamori (youth Remix)](https://osu.ppy.sh/beatmapsets/1018730#taiko) by ::nyanmi-1828::{ user=6866480 } and ::Felt7z::{ user=8089834 }\
 215 BPM, 2:42 | 6.27★, 6.61★\
 *description written by ::Gamelan4::{ user=9856910 }*
 
@@ -220,7 +220,7 @@ All in all, it's a very good map for those who want to hone their taiko skills a
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::Kasumi-sama::{ user=6177263 }, [Sartan](https://osu.ppy.sh/users/4100941), ::Tenshichan::{ user=1101600 } and [Wesley](https://osu.ppy.sh/users/2407265)!
+The osu!catch Loved candidates were chosen by ::Kasumi-sama::{ user=6177263 }, ::Sartan::{ user=4100941 }, ::Tenshichan::{ user=1101600 } and ::Wesley::{ user=2407265 }!
 
 ---
 
@@ -250,7 +250,7 @@ And it is absolutely relentless.
 
 [![](/wiki/shared/news/2022-04-18-project-loved-april-2022/1478486.jpg)](https://osu.ppy.sh/community/forums/topics/1561100)
 
-[Frums - of Ambrosia](https://osu.ppy.sh/beatmapsets/1478486#fruits) by ::Jemzuu::{ user=7890134 }, [Ascendance](https://osu.ppy.sh/users/2931883), ::Deif::{ user=318565 } and [Spectator](https://osu.ppy.sh/users/702598)\
+[Frums - of Ambrosia](https://osu.ppy.sh/beatmapsets/1478486#fruits) by ::Jemzuu::{ user=7890134 }, ::Ascendance::{ user=2931883 }, ::Deif::{ user=318565 } and ::Spectator::{ user=702598 }\
 255 BPM, 6:05 | 8.10★\
 *description written by ::Tenshichan::{ user=1101600 }*
 
@@ -262,7 +262,7 @@ As for the map itself — I mean it IS a Grand Finals tiebreaker, so it is not g
 
 [![](/wiki/shared/news/2022-04-18-project-loved-april-2022/754402.jpg)](https://osu.ppy.sh/community/forums/topics/1561099)
 
-[MAZARE - Mazare Party](https://osu.ppy.sh/beatmapsets/754402#fruits) by ::Lumenite-::{ user=6256027 }, [Du5t](https://osu.ppy.sh/users/6053071), ::tasuke912::{ user=2774767 }, [Tenshichan](https://osu.ppy.sh/users/1101600) and ::WildOne94::{ user=3482692 }\
+[MAZARE - Mazare Party](https://osu.ppy.sh/beatmapsets/754402#fruits) by ::Lumenite-::{ user=6256027 }, ::Du5t::{ user=6053071 }, ::tasuke912::{ user=2774767 }, ::Tenshichan::{ user=1101600 } and ::WildOne94::{ user=3482692 }\
 200 BPM, 3:53 | 1.33★ – 6.21★\
 *description written by ::Sartan::{ user=4100941 }*
 
@@ -274,7 +274,7 @@ So feel yourself welcome to join the party! You can stay at home for this one, f
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::-NoName-::{ user=10400730 }, [kadoen](https://osu.ppy.sh/users/12780575), ::Paturages::{ user=1375479 }, [Penguinosity](https://osu.ppy.sh/users/10235296) and ::stupud man::{ user=2141612 }!
+The osu!mania Loved candidates were chosen by ::-NoName-::{ user=10400730 }, ::kadoen::{ user=12780575 }, ::Paturages::{ user=1375479 }, ::Penguinosity::{ user=10235296 } and ::stupud man::{ user=2141612 }!
 
 ---
 
@@ -294,7 +294,7 @@ This set has continually gained traction over the past two years, and it's final
 
 [![](/wiki/shared/news/2022-04-18-project-loved-april-2022/1188926.jpg)](https://osu.ppy.sh/community/forums/topics/1561096)
 
-[Camellia - Bring Our Ignition Back](https://osu.ppy.sh/beatmapsets/1188926#mania) by ::Evening::{ user=2193881 } and [eyes](https://osu.ppy.sh/users/7741797)\
+[Camellia - Bring Our Ignition Back](https://osu.ppy.sh/beatmapsets/1188926#mania) by ::Evening::{ user=2193881 } and ::eyes::{ user=7741797 }\
 150 BPM, 4:15 | 4.39★ – 7.53★\
 *description written by ::Penguinosity::{ user=10235296 }*
 
@@ -338,7 +338,7 @@ Don't be too disappointed by the lack of pp from the Loved section (no one needs
 
 [![](/wiki/shared/news/2022-04-18-project-loved-april-2022/267041.jpg)](https://osu.ppy.sh/community/forums/topics/1561093)
 
-[Kobaryo - 3rd Eye In Breast](https://osu.ppy.sh/beatmapsets/267041#mania) by ::akuma123::{ user=914472 }, [blazziken_old](https://osu.ppy.sh/users/2544313) and ::Skalim::{ user=2225008 }\
+[Kobaryo - 3rd Eye In Breast](https://osu.ppy.sh/beatmapsets/267041#mania) by ::akuma123::{ user=914472 }, ::blazziken\1old::{ user=2544313 } and ::Skalim::{ user=2225008 }\
 208 BPM, 2:41 | 1.89★ – 5.39★\
 *description written by ::Penguinosity::{ user=10235296 }*
 

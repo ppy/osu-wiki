@@ -66,38 +66,38 @@ The Advanced Global Taiko Showdown 2022 was run by various community members.
 
 |  | Team | Members |
 | --: | :-- | :-- |
-| ::{ flag=AR }:: ::{ flag=CR }:: | **Argentina/Costa Rica** | **::Auredios::{ user=14697193 }**, [Hotman](https://osu.ppy.sh/users/7902082), ::Ingrid10::{ user=9786011 }, [ZelLink](https://osu.ppy.sh/users/6752242) |
-| ::{ flag=BR }:: | **Brazil** | **::Spicy Onion::{ user=11799110 }**, [-Nozomi Tojo](https://osu.ppy.sh/users/8024582), ::Ideal::{ user=3869519 }, [roko100789](https://osu.ppy.sh/users/3224958) |
-| ::{ flag=CA }:: | **Canada** | **::6\_6::{ user=5207783 }**, [Dizzayy](https://osu.ppy.sh/users/12014683), ::Kyekai::{ user=10220162 }, [NeoAxel](https://osu.ppy.sh/users/6806934), ::Player-::{ user=3724819 } |
-| ::{ flag=CL }:: | **Chile** | **::Escocyan::{ user=9057823 }**, [-Capi-](https://osu.ppy.sh/users/4450549), ::DaiKiu::{ user=4232665 }, [ghostpsp](https://osu.ppy.sh/users/17288302), ::Shiny Froakie::{ user=6194830 } |
-| ::{ flag=CN }:: | **China A** | **::\[GB\]Edward\_Tsui::{ user=8609627 }**, [k1ryu](https://osu.ppy.sh/users/17411618), ::Michaelonl::{ user=12480076 }, [OtakusRin](https://osu.ppy.sh/users/3383404), ::shoucan91::{ user=9383908 } |
-| ::{ flag=CN }:: | **China B** | **::antigen::{ user=10507557 }**, [betairylia](https://osu.ppy.sh/users/1558839), ::Flandre sca::{ user=10324309 }, [Lubei\_01](https://osu.ppy.sh/users/11692528), ::Suisei\_Suki::{ user=16902173 } |
-| ::{ flag=CO }:: | **Colombia** | **::L1ght::{ user=9050875 }**, [Animaxgame25](https://osu.ppy.sh/users/16898745), ::Coffecito::{ user=18793276 }, [Hermite](https://osu.ppy.sh/users/7945286), ::sti::{ user=1271807 } |
-| ::{ flag=FI }:: ::{ flag=LV }:: ::{ flag=PT }:: ::{ flag=VN }:: | **Finland/Latvia/Portugal/Vietnam** | **::davidminh0111::{ user=9623142 }**, [Huntey](https://osu.ppy.sh/users/14451706), ::Mazzuli500::{ user=10648818 }, [Rosa](https://osu.ppy.sh/users/7385703) |
-| ::{ flag=FR }:: | **France A** | **::Briesmas::{ user=2865172 }**, [BigNounours](https://osu.ppy.sh/users/11632258), ::Chernobog::{ user=3317042 }, [Issuko](https://osu.ppy.sh/users/11447466), ::Skama::{ user=4367742 } |
-| ::{ flag=FR }:: | **France B** | **::Gintoki8::{ user=2239411 }**, [Acii\_](https://osu.ppy.sh/users/11253595), ::ALISTAR033009::{ user=9819975 }, [Lougui](https://osu.ppy.sh/users/13766261), ::omegaflo::{ user=83291 } |
-| ::{ flag=DE }:: | **Germany** | **::Sayira::{ user=7253958 }**, [\[TaikoTori\]](https://osu.ppy.sh/users/1074143), ::Emre1504::{ user=13392709 }, [Tolanorle](https://osu.ppy.sh/users/7329619), ::xMrtn-::{ user=866297 } |
-| ::{ flag=HK }:: | **Hong Kong** | **::Brown918::{ user=9805760 }**, [ilv\_Rem](https://osu.ppy.sh/users/7850538), ::Tedward765::{ user=8942131 } |
-| ::{ flag=ID }:: | **Indonesia** | **::Niko-nyan::{ user=906991 }**, [fajar13k](https://osu.ppy.sh/users/7100002), ::Katdon\_donKat::{ user=8089664 }, [Servatory](https://osu.ppy.sh/users/4013317), ::Veltlion::{ user=10999079 } |
-| ::{ flag=IT }:: | **Italy** | **::Arach::{ user=8512755 }**, [Garda](https://osu.ppy.sh/users/8127849), ::Kurotsuki37::{ user=11764134 }, [MINCHIA ANTONIO](https://osu.ppy.sh/users/10370310), ::OMORI ANTONIO::{ user=6306704 } |
-| ::{ flag=JP }:: | **Japan A** | **::nuku0315::{ user=8772103 }**, [BANkun](https://osu.ppy.sh/users/5707041), ::Deli::{ user=13563794 }, [ItsDiamond](https://osu.ppy.sh/users/12611862), ::Saikoro::{ user=741819 } |
-| ::{ flag=JP }:: | **Japan B** | **::teamoku::{ user=6290474 }**, [a9uachan](https://osu.ppy.sh/users/14005209), ::bottikun24::{ user=1904899 }, [DLsite](https://osu.ppy.sh/users/24629607) |
-| ::{ flag=MY }:: | **Malaysia** | **::CrabCow::{ user=9755504 }**, [Fury Dragon](https://osu.ppy.sh/users/6332530), ::HHVanilla Ice::{ user=12803930 }, [JyaKeii](https://osu.ppy.sh/users/12086753), ::vun::{ user=6932501 } |
-| ::{ flag=MX }:: | **Mexico** | **::Iojioji::{ user=1346121 }**, [-Devo](https://osu.ppy.sh/users/7090541), ::Awwy::{ user=4183406 }, [JunkyTrack](https://osu.ppy.sh/users/11720359), ::xtrem3x::{ user=136385 } |
-| ::{ flag=NL }:: | **Netherlands** | **::Glukeose::{ user=12276279 }**, [lukitsa124](https://osu.ppy.sh/users/8787678), ::raider132::{ user=21058672 }, [wen294](https://osu.ppy.sh/users/2265974) |
-| ::{ flag=NZ }:: ::{ flag=AU }:: | **New Zealand/Australia** | **::Blujae::{ user=10613885 }**, [idk123456](https://osu.ppy.sh/users/18718856), ::Zippywin::{ user=7269844 } |
-| ::{ flag=NO }:: | **Norway** | **::Mist31::{ user=18916920 }**, [Loff](https://osu.ppy.sh/users/8947341), ::Mills::{ user=7234023 }, [Planecakes](https://osu.ppy.sh/users/6936385), ::Vendelicious::{ user=8818089 } |
-| ::{ flag=PH }:: | **Philippines** | **::qish::{ user=17050115 }**, [DescriptiCringe](https://osu.ppy.sh/users/10882115), ::Fynbi::{ user=2164993 }, [JoshEco4](https://osu.ppy.sh/users/18591473), ::Rimazii::{ user=3831514 } |
-| ::{ flag=PL }:: | **Poland** | **::vethreal::{ user=12067316 }**, [Akamileusz](https://osu.ppy.sh/users/6807238), ::fafik99::{ user=1787011 } |
-| ::{ flag=RU }:: | **Russian Federation** | **::TwinT::{ user=9976154 }**, [CrayZeei](https://osu.ppy.sh/users/10625447) |
-| ::{ flag=SG }:: | **Singapore** | **::MattrexDark::{ user=7171110 }**, [arcpotato](https://osu.ppy.sh/users/12842392), ::dantoh000::{ user=11414361 }, [I luv loleez](https://osu.ppy.sh/users/18346655), ::Lunasaa::{ user=3769280 } |
-| ::{ flag=KR }:: | **South Korea** | **::RaiRator::{ user=5054081 }**, [kimyechan](https://osu.ppy.sh/users/10664451), ::Koea::{ user=10269683 }, [sendol](https://osu.ppy.sh/users/4433058) |
-| ::{ flag=ES }:: | **Spain** | **::Alsael::{ user=13938746 }**, [Celoluna](https://osu.ppy.sh/users/14571758), ::MantequillAlex::{ user=11499752 }, [OneBurstMan](https://osu.ppy.sh/users/5285438), ::Penvoltio::{ user=8849448 } |
-| ::{ flag=TW }:: | **Taiwan A** | **::qoot8123::{ user=766371 }**, [404 UrNotFound](https://osu.ppy.sh/users/2169329), ::\[-ICHINO-\]::{ user=13643601 }, [hamocha](https://osu.ppy.sh/users/13547861), ::ryan940618::{ user=8369908 } |
-| ::{ flag=TW }:: | **Taiwan B** | **::KaEDe1106::{ user=13122339 }**, [0Ixcy0](https://osu.ppy.sh/users/15086387), ::Hatsuse::{ user=697007 }, [rex0988476](https://osu.ppy.sh/users/11426995) |
-| ::{ flag=GB }:: | **United Kingdom** | **::Moonwake::{ user=6657019 }**, [Flan\_Fan](https://osu.ppy.sh/users/13780435) |
-| ::{ flag=US }:: | **United States A** | **::ETHN::{ user=9536977 }**, [-Schwarts](https://osu.ppy.sh/users/4673649), ::\_Flamescion\_::{ user=17841784 }, [Chupalika](https://osu.ppy.sh/users/1926383), ::driodx::{ user=9709548 } |
-| ::{ flag=US }:: | **United States B** | **::Skey::{ user=7718539 }**, [Inigo](https://osu.ppy.sh/users/5592441), ::KatK1::{ user=21203707 }, [MattyIce](https://osu.ppy.sh/users/21990398), ::somert::{ user=11833538 } |
+| ::{ flag=AR }:: ::{ flag=CR }:: | **Argentina/Costa Rica** | **::Auredios::{ user=14697193 }**, ::Hotman::{ user=7902082 }, ::Ingrid10::{ user=9786011 }, ::ZelLink::{ user=6752242 } |
+| ::{ flag=BR }:: | **Brazil** | **::Spicy Onion::{ user=11799110 }**, ::-Nozomi Tojo::{ user=8024582 }, ::Ideal::{ user=3869519 }, ::roko100789::{ user=3224958 } |
+| ::{ flag=CA }:: | **Canada** | **::6\_6::{ user=5207783 }**, ::Dizzayy::{ user=12014683 }, ::Kyekai::{ user=10220162 }, ::NeoAxel::{ user=6806934 }, ::Player-::{ user=3724819 } |
+| ::{ flag=CL }:: | **Chile** | **::Escocyan::{ user=9057823 }**, ::-Capi-::{ user=4450549 }, ::DaiKiu::{ user=4232665 }, ::ghostpsp::{ user=17288302 }, ::Shiny Froakie::{ user=6194830 } |
+| ::{ flag=CN }:: | **China A** | **::\[GB\]Edward\_Tsui::{ user=8609627 }**, ::k1ryu::{ user=17411618 }, ::Michaelonl::{ user=12480076 }, ::OtakusRin::{ user=3383404 }, ::shoucan91::{ user=9383908 } |
+| ::{ flag=CN }:: | **China B** | **::antigen::{ user=10507557 }**, ::betairylia::{ user=1558839 }, ::Flandre sca::{ user=10324309 }, ::Lubei\_01::{ user=11692528 }, ::Suisei\_Suki::{ user=16902173 } |
+| ::{ flag=CO }:: | **Colombia** | **::L1ght::{ user=9050875 }**, ::Animaxgame25::{ user=16898745 }, ::Coffecito::{ user=18793276 }, ::Hermite::{ user=7945286 }, ::sti::{ user=1271807 } |
+| ::{ flag=FI }:: ::{ flag=LV }:: ::{ flag=PT }:: ::{ flag=VN }:: | **Finland/Latvia/Portugal/Vietnam** | **::davidminh0111::{ user=9623142 }**, ::Huntey::{ user=14451706 }, ::Mazzuli500::{ user=10648818 }, ::Rosa::{ user=7385703 } |
+| ::{ flag=FR }:: | **France A** | **::Briesmas::{ user=2865172 }**, ::BigNounours::{ user=11632258 }, ::Chernobog::{ user=3317042 }, ::Issuko::{ user=11447466 }, ::Skama::{ user=4367742 } |
+| ::{ flag=FR }:: | **France B** | **::Gintoki8::{ user=2239411 }**, ::Acii\_::{ user=11253595 }, ::ALISTAR033009::{ user=9819975 }, ::Lougui::{ user=13766261 }, ::omegaflo::{ user=83291 } |
+| ::{ flag=DE }:: | **Germany** | **::Sayira::{ user=7253958 }**, ::\[TaikoTori\]::{ user=1074143 }, ::Emre1504::{ user=13392709 }, ::Tolanorle::{ user=7329619 }, ::xMrtn-::{ user=866297 } |
+| ::{ flag=HK }:: | **Hong Kong** | **::Brown918::{ user=9805760 }**, ::ilv\_Rem::{ user=7850538 }, ::Tedward765::{ user=8942131 } |
+| ::{ flag=ID }:: | **Indonesia** | **::Niko-nyan::{ user=906991 }**, ::fajar13k::{ user=7100002 }, ::Katdon\_donKat::{ user=8089664 }, ::Servatory::{ user=4013317 }, ::Veltlion::{ user=10999079 } |
+| ::{ flag=IT }:: | **Italy** | **::Arach::{ user=8512755 }**, ::Garda::{ user=8127849 }, ::Kurotsuki37::{ user=11764134 }, ::MINCHIA ANTONIO::{ user=10370310 }, ::OMORI ANTONIO::{ user=6306704 } |
+| ::{ flag=JP }:: | **Japan A** | **::nuku0315::{ user=8772103 }**, ::BANkun::{ user=5707041 }, ::Deli::{ user=13563794 }, ::ItsDiamond::{ user=12611862 }, ::Saikoro::{ user=741819 } |
+| ::{ flag=JP }:: | **Japan B** | **::teamoku::{ user=6290474 }**, ::a9uachan::{ user=14005209 }, ::bottikun24::{ user=1904899 }, ::DLsite::{ user=24629607 } |
+| ::{ flag=MY }:: | **Malaysia** | **::CrabCow::{ user=9755504 }**, ::Fury Dragon::{ user=6332530 }, ::HHVanilla Ice::{ user=12803930 }, ::JyaKeii::{ user=12086753 }, ::vun::{ user=6932501 } |
+| ::{ flag=MX }:: | **Mexico** | **::Iojioji::{ user=1346121 }**, ::-Devo::{ user=7090541 }, ::Awwy::{ user=4183406 }, ::JunkyTrack::{ user=11720359 }, ::xtrem3x::{ user=136385 } |
+| ::{ flag=NL }:: | **Netherlands** | **::Glukeose::{ user=12276279 }**, ::lukitsa124::{ user=8787678 }, ::raider132::{ user=21058672 }, ::wen294::{ user=2265974 } |
+| ::{ flag=NZ }:: ::{ flag=AU }:: | **New Zealand/Australia** | **::Blujae::{ user=10613885 }**, ::idk123456::{ user=18718856 }, ::Zippywin::{ user=7269844 } |
+| ::{ flag=NO }:: | **Norway** | **::Mist31::{ user=18916920 }**, ::Loff::{ user=8947341 }, ::Mills::{ user=7234023 }, ::Planecakes::{ user=6936385 }, ::Vendelicious::{ user=8818089 } |
+| ::{ flag=PH }:: | **Philippines** | **::qish::{ user=17050115 }**, ::DescriptiCringe::{ user=10882115 }, ::Fynbi::{ user=2164993 }, ::JoshEco4::{ user=18591473 }, ::Rimazii::{ user=3831514 } |
+| ::{ flag=PL }:: | **Poland** | **::vethreal::{ user=12067316 }**, ::Akamileusz::{ user=6807238 }, ::fafik99::{ user=1787011 } |
+| ::{ flag=RU }:: | **Russian Federation** | **::TwinT::{ user=9976154 }**, ::CrayZeei::{ user=10625447 } |
+| ::{ flag=SG }:: | **Singapore** | **::MattrexDark::{ user=7171110 }**, ::arcpotato::{ user=12842392 }, ::dantoh000::{ user=11414361 }, ::I luv loleez::{ user=18346655 }, ::Lunasaa::{ user=3769280 } |
+| ::{ flag=KR }:: | **South Korea** | **::RaiRator::{ user=5054081 }**, ::kimyechan::{ user=10664451 }, ::Koea::{ user=10269683 }, ::sendol::{ user=4433058 } |
+| ::{ flag=ES }:: | **Spain** | **::Alsael::{ user=13938746 }**, ::Celoluna::{ user=14571758 }, ::MantequillAlex::{ user=11499752 }, ::OneBurstMan::{ user=5285438 }, ::Penvoltio::{ user=8849448 } |
+| ::{ flag=TW }:: | **Taiwan A** | **::qoot8123::{ user=766371 }**, ::404 UrNotFound::{ user=2169329 }, ::\[-ICHINO-\]::{ user=13643601 }, ::hamocha::{ user=13547861 }, ::ryan940618::{ user=8369908 } |
+| ::{ flag=TW }:: | **Taiwan B** | **::KaEDe1106::{ user=13122339 }**, ::0Ixcy0::{ user=15086387 }, ::Hatsuse::{ user=697007 }, ::rex0988476::{ user=11426995 } |
+| ::{ flag=GB }:: | **United Kingdom** | **::Moonwake::{ user=6657019 }**, ::Flan\_Fan::{ user=13780435 } |
+| ::{ flag=US }:: | **United States A** | **::ETHN::{ user=9536977 }**, ::-Schwarts::{ user=4673649 }, ::\_Flamescion\_::{ user=17841784 }, ::Chupalika::{ user=1926383 }, ::driodx::{ user=9709548 } |
+| ::{ flag=US }:: | **United States B** | **::Skey::{ user=7718539 }**, ::Inigo::{ user=5592441 }, ::KatK1::{ user=21203707 }, ::MattyIce::{ user=21990398 }, ::somert::{ user=11833538 } |
 
 ## Groups
 

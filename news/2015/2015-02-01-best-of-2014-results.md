@@ -32,9 +32,9 @@ Best 10 Taiko maps of 2014:
 - 1st with **3093** votes - **[Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.)](https://osu.ppy.sh/beatmapsets/134151)** by ::aabc271::{ user=155707 }!
 - 2nd with 2007 votes - [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru](https://osu.ppy.sh/beatmapsets/58951) by ::Midnaait::{ user=1506011 }!
 - 3rd with 1910 votes - [Maffalda - pensamento tipico de esquerda caviar](https://osu.ppy.sh/beatmapsets/175036) by ::OnosakiHito::{ user=290128 }!
-- 4th with 1338 votes - [Knife Party - Bonfire](https://osu.ppy.sh/beatmapsets/73576) by ::Backfire::{ user=263110 } & [-Anhedonia-](https://osu.ppy.sh/users/920861)!
+- 4th with 1338 votes - [Knife Party - Bonfire](https://osu.ppy.sh/beatmapsets/73576) by ::Backfire::{ user=263110 } & ::-Anhedonia-::{ user=920861 }!
 - 5th with 1062 votes - [Himeringo - Yotsuya-san ni Yoroshiku](https://osu.ppy.sh/beatmapsets/100049) by ::OnosakiHito::{ user=290128 }!
-- 6th with 1027 votes - [fripSide - black bullet (TV Size)](https://osu.ppy.sh/beatmapsets/157168) by ::climbb65588::{ user=31610 } & [KanaRin](https://osu.ppy.sh/users/310747)!
+- 6th with 1027 votes - [fripSide - black bullet (TV Size)](https://osu.ppy.sh/beatmapsets/157168) by ::climbb65588::{ user=31610 } & ::KanaRin::{ user=310747 }!
 - 7th with 930 votes - [Meg & Dia - Monster (DotEXE Remix)](https://osu.ppy.sh/beatmapsets/157896) by ::NewibornCLivee::{ user=1530993 }!
 - 8th with 639 votes - [+Plus - Fiesta](https://osu.ppy.sh/beatmapsets/81557) by ::Hanjamon::{ user=1703330 }!
 - 9th with 637 votes - [xi - Happy End of the World](https://osu.ppy.sh/beatmapsets/129676) by ::Dolphin::{ user=1331438 }!
@@ -47,7 +47,7 @@ Best 10 Catch the Beat maps of 2014:
 - 1st with **2471** votes - **[Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.)](https://osu.ppy.sh/beatmapsets/134151)** by ::Zeroarg::{ user=1834516 }!
 - 2nd with 930 votes - [Meg & Dia - Monster (DotEXE Remix)](https://osu.ppy.sh/beatmapsets/157896) by ::ursa::{ user=321063 }!
 - 3rd with 633 votes - [Warak - REANIMATE](https://osu.ppy.sh/beatmapsets/209103) by ::Spectator::{ user=702598 }!
-- 4th with 302 votes - [u's - Snow halation (TV Size)](https://osu.ppy.sh/beatmapsets/183161) by ::Xinely::{ user=1521445 } & [mingmichael](https://osu.ppy.sh/users/1570876)!
+- 4th with 302 votes - [u's - Snow halation (TV Size)](https://osu.ppy.sh/beatmapsets/183161) by ::Xinely::{ user=1521445 } & ::mingmichael::{ user=1570876 }!
 - 5th with 270 votes - [An - Encryption](https://osu.ppy.sh/beatmapsets/96368) by ::Spectator::{ user=702598 }!
 - 6th with 255 votes - [kors k - Insane Techniques](https://osu.ppy.sh/beatmapsets/138188) by ::CLSW::{ user=531253 }!
 - 7th with 220 votes - [BoA - Kiseki](https://osu.ppy.sh/beatmapsets/150145) by ::CLSW::{ user=531253 }!
@@ -62,7 +62,7 @@ Best 10 osu!mania maps of 2014:
 - 1st with **2471** votes - **[Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.)](https://osu.ppy.sh/beatmapsets/134151)** by ::Rumia-::{ user=1787171 }!
 - 2nd with 930 votes - [Meg & Dia - Monster (DotEXE Remix)](https://osu.ppy.sh/beatmapsets/157896) by ::Zillah::{ user=2868930 }!
 - 3rd with 605 votes - [Yuyoyuppe - AiAe](https://osu.ppy.sh/beatmapsets/174381) by ::Fullerene-::{ user=2531335 }!
-- 4th with 584 votes - [AAA - Wake up! (Anime ver.)](https://osu.ppy.sh/beatmapsets/159068) by ::R801::{ user=2510887 } & [Maou - sama](https://osu.ppy.sh/users/2782968)!
+- 4th with 584 votes - [AAA - Wake up! (Anime ver.)](https://osu.ppy.sh/beatmapsets/159068) by ::R801::{ user=2510887 } & ::Maou - sama::{ user=2782968 }!
 - 5th with 575 votes - [BABYMETAL - MEGITSUNE](https://osu.ppy.sh/beatmapsets/167880) by ::arcwinolivirus::{ user=2039089 }!
 - 6th with 497 votes - [Camellia - Bangin' Burst](https://osu.ppy.sh/beatmapsets/140097) by ::Spy::{ user=1217122 }!
 - 7th with 475 votes - [Seiryu - Water Horizon](https://osu.ppy.sh/beatmapsets/134829) by ::Spy::{ user=1217122 }!

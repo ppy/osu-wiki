@@ -47,14 +47,14 @@ Super Nuko World—many of you have likely played Guy's guest difficulty of the 
 
 [![](/wiki/shared/news/2018-07-16-project-loved-week-of-july-15th/osu/double-pendulum.jpg)](https://osu.ppy.sh/community/forums/topics/775633)
 
-[BlackY - Double Pendulum](https://osu.ppy.sh/beatmapsets/695053) by ::rrtyui::{ user=352328 }, [Ameth Rianno](https://osu.ppy.sh/users/5219516) and ::Firis Mistlud::{ user=2433720 }\
+[BlackY - Double Pendulum](https://osu.ppy.sh/beatmapsets/695053) by ::rrtyui::{ user=352328 }, ::Ameth Rianno::{ user=5219516 } and ::Firis Mistlud::{ user=2433720 }\
 *written by ::Kaifin::{ user=2596942 }*
 
 Double Pendulum is a gorgeous collaboration between rrtyui, Ameth Rianno, and Firis Mistlud which features a great storyboard by ::-Tochi::{ user=3664366 }. All four of these names are no stranger to the Loved category for good reason, and this map is truly stands out as an extremely quality chart of an interesting, varied song with plenty of exciting patterns and expressive rhythms. Be sure to give it a play with the storyboard enabled at least once!
 
 [![](/wiki/shared/news/2018-07-16-project-loved-week-of-july-15th/osu/dominus.jpg)](https://osu.ppy.sh/community/forums/topics/775634)
 
-[Floxytek - Dominus](https://osu.ppy.sh/beatmapsets/50021) by ::Poggo::{ user=1367296 }, [Akemi\_Homura](https://osu.ppy.sh/users/707980) and ::Revy::{ user=930405 }\
+[Floxytek - Dominus](https://osu.ppy.sh/beatmapsets/50021) by ::Poggo::{ user=1367296 }, ::Akemi\_Homura::{ user=707980 } and ::Revy::{ user=930405 }\
 *written by ::Toy::{ user=2757689 }*
 
 This is an impressive older 2012 collab set from Akemi\_Homura, Revy and Poggo, formerly known as Katty Pie. The bumping 190 BPM bass will send shivers to your spine matching well with the skull and crossbones hitcircles, the skull background, and the flashing skeleton storyboard. Having gone through the qualified section once in 2015 but never returning, this map is simply a delight to play all around.
@@ -71,7 +71,7 @@ Another signature KinomiCandy map, the partner to his now-Loved "Future Candy" m
 
 [![](/wiki/shared/news/2018-07-16-project-loved-week-of-july-15th/taiko/sendan-life.jpg)](https://osu.ppy.sh/community/forums/topics/775642)
 
-[Remo Prototype[CV: Hanamori Yumiri] - Sendan Life](https://osu.ppy.sh/beatmapsets/395660) by ::Y O U T A::{ user=4909860 } and [SKSalt](https://osu.ppy.sh/users/3280542)
+[Remo Prototype[CV: Hanamori Yumiri] - Sendan Life](https://osu.ppy.sh/beatmapsets/395660) by ::Y O U T A::{ user=4909860 } and ::SKSalt::{ user=3280542 }
 
 A set long since requested for Loved, Sendan Life is one of Y O U T A's first sets that he attempted to rank, and while they were never able to get over that hurdle of actually ranking it, the set ends up here in Loved (we aren't complaining)! Lots of variety for all types of players, the full set has plenty to offer for everyone. A great, energetic song really goes a long way into carrying it into the spotlight. We're really excited to share it with everyone!
 
@@ -160,7 +160,7 @@ The mapset itself is mostly LN-oriented, with emphasis on short, stream-like lon
 
 [![](/wiki/shared/news/2018-07-16-project-loved-week-of-july-15th/mania/owari-no-sekai-kara.jpg)](https://osu.ppy.sh/community/forums/topics/775659)
 
-[Sharlo - Owari no Sekai kara](https://osu.ppy.sh/beatmapsets/457392) by ::dudehacker::{ user=748722 }, [LordRaika](https://osu.ppy.sh/users/3265023) and ::Protastic101::{ user=6712747 }\
+[Sharlo - Owari no Sekai kara](https://osu.ppy.sh/beatmapsets/457392) by ::dudehacker::{ user=748722 }, ::LordRaika::{ user=3265023 } and ::Protastic101::{ user=6712747 }\
 *written by ::Kamikaze::{ user=2124783 }*
 
 Do you like keysounded charts? Well this is something for you. dudehacker is a mapper known mostly for the effort he puts into making sure his hitsounds are up to par with the best, however this map is unique on its own. This is a cover of Maeda Jun & Yanagi Nagi's Owari no Sekai kara sung by 2014 osu!idol runner-up ::Sharlo::{ user=1622450 }, for which the the instrumental is made out of mostly piano keysounds. Complimented with a two-keymode set, with guest difficulties by LordRaika as well as Protastic101, this set is a very interesting experience for both newer and experienced players. I believe this set is going to be a great addition to the Loved category!

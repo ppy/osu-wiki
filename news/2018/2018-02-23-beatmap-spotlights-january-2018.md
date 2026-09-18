@@ -51,7 +51,7 @@ An absolute treat of a map to play, and to watch as well! The storyboard, also d
 
 [![](/wiki/shared/news/2018-02-23-beatmap-spotlights-january-2018/sengoku.jpg)](https://osu.ppy.sh/beatmapsets/564329)
 
-YUC'e - Sengoku HOP, brought to us by ::Nathan::{ user=4785223 }, [Gamu](https://osu.ppy.sh/users/611174) and ::appleeaterx::{ user=2407160 }, clearly shows how cuteness and glitch hop music is done, with their breathtakingly wonderful works! This map features rather gimmicky and technical patterns, including stacks and high-speed sliders. Try it out if you want to challenge your reading skills and all other abilities!
+YUC'e - Sengoku HOP, brought to us by ::Nathan::{ user=4785223 }, ::Gamu::{ user=611174 } and ::appleeaterx::{ user=2407160 }, clearly shows how cuteness and glitch hop music is done, with their breathtakingly wonderful works! This map features rather gimmicky and technical patterns, including stacks and high-speed sliders. Try it out if you want to challenge your reading skills and all other abilities!
 
 ### osu!taiko
 
@@ -101,7 +101,7 @@ Let's welcome ::Spectator::{ user=702598 } once again, to bring his masterpiece 
 
 Featured as a map in CWC 2017 Semifinals NoMod mappool, the Overdose, collaborated by Spectator and ::Minato Yukina::{ user=531253 }, impresses us with its creative flow for the magic on strong Hyperdashes toward standstill buzz sliders.
 
-Besides, ::alienflybot::{ user=636114 } and [Sinnoh](https://osu.ppy.sh/users/4236057) also provide us with nice answers of how to combine convenience and innovation together into a map neatly. Good job!
+Besides, ::alienflybot::{ user=636114 } and ::Sinnoh::{ user=4236057 } also provide us with nice answers of how to combine convenience and innovation together into a map neatly. Good job!
 
 [![](/wiki/shared/news/2018-02-23-beatmap-spotlights-january-2018/force-of-ra.jpg)](https://osu.ppy.sh/beatmapsets/573479)
 
@@ -111,7 +111,7 @@ Moreover, the Overdose stands out for its genius use of Hyperdashes in kiai time
 
 [![](/wiki/shared/news/2018-02-23-beatmap-spotlights-january-2018/marigold.jpg)](https://osu.ppy.sh/beatmapsets/605710)
 
-::Spectator::{ user=702598 }'s fine art for Deemo lovers! Collaborating with ::Ascendance::{ user=2931883 } and [Sinnoh](https://osu.ppy.sh/users/4236057), Spectator brings us Marigold by M2U feat. Guriri, an appealing song with a top quality map. Despite the relatively low BPM, the intensity of the song is well expressed with wiggling and bursts used right to the point. On top of the map itself, it contains a splendid storyboard adding to its excellence. Be sure to check out this masterpiece!
+::Spectator::{ user=702598 }'s fine art for Deemo lovers! Collaborating with ::Ascendance::{ user=2931883 } and ::Sinnoh::{ user=4236057 }, Spectator brings us Marigold by M2U feat. Guriri, an appealing song with a top quality map. Despite the relatively low BPM, the intensity of the song is well expressed with wiggling and bursts used right to the point. On top of the map itself, it contains a splendid storyboard adding to its excellence. Be sure to check out this masterpiece!
 
 [![](/wiki/shared/news/2018-02-23-beatmap-spotlights-january-2018/uta.jpg)](https://osu.ppy.sh/beatmapsets/457332)
 

@@ -13,7 +13,7 @@ In the largest showing in the Aspire series yet, over 140 entrants duked it out 
 
 From those entries, the crowd was whittled down to only 31 - the entries deemed by brief review to stand up against their peers for a shot at the Aspire throne.
 
-Our brave panellists, ::UndeadCapulet::{ user=2523533 }, [pishifat](https://osu.ppy.sh/users/3178418), ::Mao::{ user=2204515 } and [Yuii\-](https://osu.ppy.sh/users/2935923) strode forth to chart out the expanse of 31 wild maps, and in time, reduced them down to only 12.
+Our brave panellists, ::UndeadCapulet::{ user=2523533 }, ::pishifat::{ user=3178418 }, ::Mao::{ user=2204515 } and ::Yuii\-::{ user=2935923 } strode forth to chart out the expanse of 31 wild maps, and in time, reduced them down to only 12.
 
 And from those twelve, our winner made themselves known.
 

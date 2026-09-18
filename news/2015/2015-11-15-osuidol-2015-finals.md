@@ -6,7 +6,7 @@ tumblr_url: http://osunews.tumblr.com/post/133290103163/osuidol-2015-finals
 series: official_contests
 ---
 
-The osu!idol finals are upon us and it is up to you the community to choose our winner this year! We have the top 3 finalists with us: [yealina](https://osu.ppy.sh/users/yealina) (2014 idol winner) [Sagi](https://osu.ppy.sh/users/Sagi) and [Cpthampton](https://osu.ppy.sh/users/Cpthampton)!
+The osu!idol finals are upon us and it is up to you the community to choose our winner this year! We have the top 3 finalists with us: ::yealina::{ user=139551 } (2014 idol winner) ::Sagi::{ user=491799 } and [Cpthampton](https://osu.ppy.sh/users/Cpthampton)!
 
 ## Where can I vote?
 

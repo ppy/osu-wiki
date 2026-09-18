@@ -69,7 +69,7 @@ L'OMC5 est gérée par des membres de la communauté de mapping coréenne.
 
 | Position | Membre(s) |
 | :-- | :-- |
-| Responsable | **::Enon::{ user=2043401 }**, [Beomsan](https://osu.ppy.sh/users/3626063), ::GimBab::{ user=3141964 }, [My Angel RangE](https://osu.ppy.sh/users/6336713), ::Sonnyc::{ user=11771 } |
+| Responsable | **::Enon::{ user=2043401 }**, ::Beomsan::{ user=3626063 }, ::GimBab::{ user=3141964 }, ::My Angel RangE::{ user=6336713 }, ::Sonnyc::{ user=11771 } |
 | Juge | (sera annoncé lorsque les résultats seront connus) |
 | Designer | ::Enon::{ user=2043401 } |
 

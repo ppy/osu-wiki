@@ -24,7 +24,7 @@ For osu!mania, please use [this Google form](https://docs.google.com/forms/d/e/1
 
 ## osu!
 
-osu! Loved candidates were chosen by ::-Roxas::{ user=1986262 }, [BeasttrollMC](https://osu.ppy.sh/users/3171691), ::Bubbleman::{ user=5182050 }, [DigitalHypno](https://osu.ppy.sh/users/4384207) and ::waywern2012::{ user=5870453 }!
+osu! Loved candidates were chosen by ::-Roxas::{ user=1986262 }, ::BeasttrollMC::{ user=3171691 }, ::Bubbleman::{ user=5182050 }, ::DigitalHypno::{ user=4384207 } and ::waywern2012::{ user=5870453 }!
 
 ---
 
@@ -37,7 +37,7 @@ Those following Project Loved for a while now will easily recognize this song fr
 
 [![](/wiki/shared/news/2019-02-26-project-loved-week-of-february-24th/osu/youka-to-yumeutsutsu.jpg)](https://osu.ppy.sh/community/forums/topics/873735)
 
-[Shimotsuki Haruka - Youka to Yumeutsutsu](https://osu.ppy.sh/beatmapsets/549468#osu) by ::Yusomi::{ user=4174940 } and [elchxyrlia](https://osu.ppy.sh/users/1722835)\
+[Shimotsuki Haruka - Youka to Yumeutsutsu](https://osu.ppy.sh/beatmapsets/549468#osu) by ::Yusomi::{ user=4174940 } and ::elchxyrlia::{ user=1722835 }\
 *written by ::BeasttrollMC::{ user=3171691 }*
 
 Yusomi is no new face to Project Loved since she's had multiple maps featured in votings over the months. But what makes this mapset crazy is her collaboration with elchxyrlia, more commonly known as the creator for various "Arles" difficulties that have been massively popular amongst Project Loved. For this mapset, they've come together to each present their take on Shimotsuki Haruka's "Youka to Yumeutsutsu" to create a gameplay experience that is bound to push your limits. Good luck!
@@ -65,14 +65,14 @@ A pretty popular map with over 100 favorites, "DAYBREAK FRONTLINE" is a fast pac
 
 [![](/wiki/shared/news/2019-02-26-project-loved-week-of-february-24th/osu/lost-time-memory.jpg)](https://osu.ppy.sh/community/forums/topics/873731)
 
-[Jin ft. Matsuyama Kouta (BYEE the ROUND) - Lost Time Memory](https://osu.ppy.sh/beatmapsets/185491#osu) by ::captin1::{ user=689997 }, [KantoKun](https://osu.ppy.sh/users/1280801) and ::AnreFM::{ user=1895678 }\
+[Jin ft. Matsuyama Kouta (BYEE the ROUND) - Lost Time Memory](https://osu.ppy.sh/beatmapsets/185491#osu) by ::captin1::{ user=689997 }, ::KantoKun::{ user=1280801 } and ::AnreFM::{ user=1895678 }\
 *written by ::-Roxas::{ user=1986262 }*
 
 A map by captin1, "Lost Time Memory" is a blast from the past considering the map was from 2014, so its patterns maybe a little bit different from what the newer players are used to. You'll be glad to hear though that this mapset doesn't get crazy hard and it's suitable for anyone that plays the game, with the easiest difficulty being just 2 stars and ranging up to mid-5. Give it a shot!
 
 [![](/wiki/shared/news/2019-02-26-project-loved-week-of-february-24th/osu/nexta.jpg)](https://osu.ppy.sh/community/forums/topics/873730)
 
-[lapix - Nexta](https://osu.ppy.sh/beatmapsets/716079#osu) by ::DTM9 Nowa::{ user=5428909 }, [downpour](https://osu.ppy.sh/users/4543414) and ::Nite::{ user=7401033 }\
+[lapix - Nexta](https://osu.ppy.sh/beatmapsets/716079#osu) by ::DTM9 Nowa::{ user=5428909 }, ::downpour::{ user=4543414 } and ::Nite::{ user=7401033 }\
 *written by ::waywern2012::{ user=5870453 }*
 
 Next up we have a map from DTM9 Nowa. This 160 BPM map "Nexta" from Lapix is truly a challenging one. With many difficulties to choose from, they all have a different approach on the map. The theme of the map overall is simple: technical. With a wide variety of spaced jumpstreams, back-and-forth jumps and difficult patterns, especially on downpour's difficulty, it challenges every player that will play this map! Will you take it on? Come prove your technical abilities; it won't be easy!
@@ -100,7 +100,7 @@ Dance your cursor around the screen on Necroluttah's take on #Fairy\_dancing\_in
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-\1 ix Ishida xi \1-::{ user=242910 }, [-Kazu-](https://osu.ppy.sh/users/920861), ::iceOC::{ user=5482401 }, [jyake](https://osu.ppy.sh/users/9099822) and ::nyanmi-1828::{ user=6866480 }!
+osu!taiko Loved candidates were chosen by ::-\1 ix Ishida xi \1-::{ user=242910 }, ::-Kazu-::{ user=920861 }, ::iceOC::{ user=5482401 }, ::jyake::{ user=9099822 } and ::nyanmi-1828::{ user=6866480 }!
 
 ---
 
@@ -120,7 +120,7 @@ This set comes with a few difficulties mapped with many different musical interp
 
 [![](/wiki/shared/news/2019-02-26-project-loved-week-of-february-24th/taiko/panic-popn-picnic.jpg)](https://osu.ppy.sh/community/forums/topics/873724)
 
-[Umeboshi Chazuke - Panic Popn Picnic](https://osu.ppy.sh/beatmapsets/541163#taiko) by ::asuasu\_yura::{ user=2875968 } and [KitajimaYN](https://osu.ppy.sh/users/2250574)\
+[Umeboshi Chazuke - Panic Popn Picnic](https://osu.ppy.sh/beatmapsets/541163#taiko) by ::asuasu\_yura::{ user=2875968 } and ::KitajimaYN::{ user=2250574 }\
 *written by ::iceOC::{ user=5482401 }*
 
 In this happy pop song by Umeboshi Chazuke, there are two difficulties, both there to give players a challenge with 1/6 patterns. Even though they have high star ratings, they match the song splendidly and make it very fun to play.
@@ -134,13 +134,13 @@ I bet may players have played this in multiplayer. Known for its difficulty and 
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Ascendance::{ user=2931883 }, [Sartan](https://osu.ppy.sh/users/4100941), ::Tenshichan::{ user=1101600 } and [Wesley](https://osu.ppy.sh/users/2407265)! This week, all osu!catch beatmap descriptions were written by ::Tenshichan::{ user=1101600 }.
+osu!catch Loved candidates were chosen by ::Ascendance::{ user=2931883 }, ::Sartan::{ user=4100941 }, ::Tenshichan::{ user=1101600 } and ::Wesley::{ user=2407265 }! This week, all osu!catch beatmap descriptions were written by ::Tenshichan::{ user=1101600 }.
 
 ---
 
 [![](/wiki/shared/news/2019-02-26-project-loved-week-of-february-24th/catch/chain-of-pain.jpg)](https://osu.ppy.sh/community/forums/topics/873722)
 
-[NekomataMaster - Chain of Pain](https://osu.ppy.sh/beatmapsets/927145#fruits) by ::DakkyChan::{ user=2107017 } and [ExGon](https://osu.ppy.sh/users/214187)
+[NekomataMaster - Chain of Pain](https://osu.ppy.sh/beatmapsets/927145#fruits) by ::DakkyChan::{ user=2107017 } and ::ExGon::{ user=214187 }
 
 Chain of Pain is a map which has unfortunately not been uploaded for four years. Despite that, many people do know it as it was shared among players in the community. Now that it was finally uploaded, it is time to give this gem the attention it deserves. It is a collab between DakkyChan and ExGon, so if you are familiar with both of their mapping styles, then you know what to expect, although it is easier than the maps they usually create. The map has a great flow and utilizes interesting slider and stream patterns paired with some wiggles every now and then without making it feel overdone. It's a truly enjoyable experience which I think everyone should try!
 
@@ -152,7 +152,7 @@ Anhedonia is a very clean mapset by alienflybot with a top diff of his own, and 
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::Lenfried-::{ user=5314573 }, [Pope Gadget](https://osu.ppy.sh/users/2288341), ::Shoegazer::{ user=2520707 } and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
+osu!mania Loved candidates were chosen by ::Lenfried-::{ user=5314573 }, ::Pope Gadget::{ user=2288341 }, ::Shoegazer::{ user=2520707 } and ::Toaph Daddy::{ user=7616811 }!
 
 ---
 
@@ -184,7 +184,7 @@ If you're into dump charts or just charts that test many rice-based skills, this
 
 [![](/wiki/shared/news/2019-02-26-project-loved-week-of-february-24th/mania/uchouten-vivace.jpg)](https://osu.ppy.sh/community/forums/topics/873716)
 
-[yuikonnu - Uchouten Vivace](https://osu.ppy.sh/beatmapsets/318413#mania) by ::17VA::{ user=1895984 } and [Kawawa](https://osu.ppy.sh/users/4647754)
+[yuikonnu - Uchouten Vivace](https://osu.ppy.sh/beatmapsets/318413#mania) by ::17VA::{ user=1895984 } and ::Kawawa::{ user=4647754 }
 
 Primarily known for its appearance in the osu!mania World Cup 2016, Uchouten Vivace is a mapset that features a delicious pairing of rice and noodle elements. Generally symmetrical at its core, each diff in the mapset presents rigid rice usages and increases in LN difficulty without being overbearing on the player. Ranging from a Normal to an Extra diff, this spread is definitely something for everyone to enjoy!
 
@@ -200,7 +200,7 @@ Despite being almost five minutes long, the chart really shows a good sense of p
 
 From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
-In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Ephemeral::{ user=102335 }, [Noffy](https://osu.ppy.sh/users/1541323), ::Toy::{ user=2757689 } and [Zak](https://osu.ppy.sh/users/1375955) for their miscellaneous help in managing Project Loved.
+In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Ephemeral::{ user=102335 }, ::Noffy::{ user=1541323 }, ::Toy::{ user=2757689 } and ::Zak::{ user=1375955 } for their miscellaneous help in managing Project Loved.
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! You can view the current submissions on the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0).
 

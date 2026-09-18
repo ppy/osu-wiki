@@ -11,7 +11,7 @@ The year's coming to an end, but there's always time for [Project Loved](https:/
 
 Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! Every two weeks, we pick out a few beatmaps from each game mode that will get their shot at making it into the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). From the maps we selected, you can now vote whether or not you want them to be Loved! Click on each map's header image in this post to be taken to its voting thread.
 
-osu!mania's part of Project Loved returns this week! The immediate changes to see are the lower map count (7 now, instead of 8) and the ongoing process of electing new captains to work in the role of some that are stepping down. This week, ::Kamikaze::{ user=2124783 }, [\_underjoy](https://osu.ppy.sh/users/2235750) and ::aitor98::{ user=3154852 } are leaving, and as always, be sure to thank them for all the work they've done for Project Loved! All three of these guys have been with us for quite a while, and osu!mania's Project Loved section wouldn't be the same without them. To follow more closely with changes to osu!mania's Project Loved, you can join their [Discord server](https://discord.gg/ZMDfqBt) and read the posts made by captains!
+osu!mania's part of Project Loved returns this week! The immediate changes to see are the lower map count (7 now, instead of 8) and the ongoing process of electing new captains to work in the role of some that are stepping down. This week, ::Kamikaze::{ user=2124783 }, ::\_underjoy::{ user=2235750 } and ::aitor98::{ user=3154852 } are leaving, and as always, be sure to thank them for all the work they've done for Project Loved! All three of these guys have been with us for quite a while, and osu!mania's Project Loved section wouldn't be the same without them. To follow more closely with changes to osu!mania's Project Loved, you can join their [Discord server](https://discord.gg/ZMDfqBt) and read the posts made by captains!
 
 After this round, ::Backfire::{ user=263110 } will also be stepping down from their role as an osu!taiko captain. Leading the osu!taiko section for over a year now, and co-managing the entire project with ::Toy::{ user=2757689 } for a time, he's done a mountain of work for Project Loved and definitely deserves some appreciation as we see him off. It's no easy feat to do what Backfire has done for Loved over the past year!
 
@@ -26,7 +26,7 @@ In case you don't read the end of this post, be sure to submit suggestions for b
 
 ## osu!
 
-osu! Loved candidates were chosen by ::BeasttrollMC::{ user=3171691 }, [Bubbleman](https://osu.ppy.sh/users/5182050), ::DigitalHypno::{ user=4384207 }, [fartownik](https://osu.ppy.sh/users/56917), ::SoraRoxas01::{ user=1986262 } and [waywern2012](https://osu.ppy.sh/users/5870453)!
+osu! Loved candidates were chosen by ::BeasttrollMC::{ user=3171691 }, ::Bubbleman::{ user=5182050 }, ::DigitalHypno::{ user=4384207 }, ::fartownik::{ user=56917 }, ::SoraRoxas01::{ user=1986262 } and ::waywern2012::{ user=5870453 }!
 
 ---
 
@@ -53,7 +53,7 @@ A true classic, Asphyxia's Kyoumei No True Force has weathered the storm and con
 
 [![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/osu/mikusabbath.jpg)](https://osu.ppy.sh/community/forums/topics/849039)
 
-[Utsu-P - MiKUSABBATH](https://osu.ppy.sh/beatmapsets/264483#osu) by ::Kuron-kun::{ user=2697284 } and [Tarrasky](https://osu.ppy.sh/users/4098393)\
+[Utsu-P - MiKUSABBATH](https://osu.ppy.sh/beatmapsets/264483#osu) by ::Kuron-kun::{ user=2697284 } and ::Tarrasky::{ user=4098393 }\
 *written by ::Bubbleman::{ user=5182050 }*
 
 A tribute to older styles of maps, MiKUSABBATH's style is clean, yet it's easy to find patterns inspired by older creations. Squares are scattered throughout, and with few streams this is another aim test yet with a different feel and flow. A lower difficulty by Tarrasky is included with an even older style yet still producing the same nostalgic feeling, and when combined with this banger of a song, the set produces a feeling best appreciated by experiencing it yourself. What are you waiting for? Give it a go!
@@ -74,7 +74,7 @@ Although this map remains unfinished months after its submission, it's gained ma
 
 [![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/osu/getsurei-11-3-no-candle-magic.jpg)](https://osu.ppy.sh/community/forums/topics/849042)
 
-[Shibayan feat. 3L - Getsurei 11.3 no Candle Magic](https://osu.ppy.sh/beatmapsets/122390#osu) by ::11t::{ user=2112092 }, [10nya](https://osu.ppy.sh/users/678794) and ::OnosakiHito::{ user=290128 }\
+[Shibayan feat. 3L - Getsurei 11.3 no Candle Magic](https://osu.ppy.sh/beatmapsets/122390#osu) by ::11t::{ user=2112092 }, ::10nya::{ user=678794 } and ::OnosakiHito::{ user=290128 }\
 *written by ::fartownik::{ user=56917 }*
 
 If it was up to me, this set would've been ranked a long time ago. Sadly, there's no way of that happening ever as 11t is no longer with us, and thus I feel like it's in my duty as a community member and a Loved captain to use my power so maps like this don't go unnoticed and fall into the pit of forgetfulness forever.
@@ -101,14 +101,14 @@ Hey, Argentinian osu! community! Here's a gift for you. Hosted by MaestroSplinte
 
 [![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/osu/stargazer-feat-yuc-e-psyqui-remix.jpg)](https://osu.ppy.sh/community/forums/topics/849045)
 
-[DJ Noriken - Stargazer feat. YUC'e (PSYQUI Remix)](https://osu.ppy.sh/beatmapsets/718960#osu) by ::Hishiro Chizuru::{ user=8402897 }, [Ambrew](https://osu.ppy.sh/users/7803396) and ::Rhonen::{ user=8422432 }\
+[DJ Noriken - Stargazer feat. YUC'e (PSYQUI Remix)](https://osu.ppy.sh/beatmapsets/718960#osu) by ::Hishiro Chizuru::{ user=8402897 }, ::Ambrew::{ user=7803396 } and ::Rhonen::{ user=8422432 }\
 *written by ::DigitalHypno::{ user=4384207 }*
 
 Did anyone miss seeing 2B maps in the Loved voting? Here, I'll fix that. The mapper "Hishiro Chizuru", inspired by various other mappers, has made an energetic beatmap to go along with an equally energetic remix of the song "Stargazer". This 3-minute beatmap is mixed with modern technical sections, innovative 2B patterns, and various slider velocity changes. Topped off with a storyboard by Rhonen and hitsounding by Ambrew, the map has seen a heavy amount of support from you guys, the community. With the map having over 150 favorites, it's time for you to cast your vote and help bring this map into the Loved category!
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-\1 ix Ishida xi \1-::{ user=242910 }, [-Kazu-](https://osu.ppy.sh/users/920861), ::Backfire::{ user=263110 }, [iceOC](https://osu.ppy.sh/users/5482401) and ::nyanmi-1828::{ user=6866480 }!
+osu!taiko Loved candidates were chosen by ::-\1 ix Ishida xi \1-::{ user=242910 }, ::-Kazu-::{ user=920861 }, ::Backfire::{ user=263110 }, ::iceOC::{ user=5482401 } and ::nyanmi-1828::{ user=6866480 }!
 
 ---
 
@@ -144,14 +144,14 @@ We all know tasuke912 as one of the best mappers last year, and here he makes hi
 
 [![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/taiko/heisei-memehunters.jpg)](https://osu.ppy.sh/community/forums/topics/849029)
 
-[katagiri - Heisei Memehunters](https://osu.ppy.sh/beatmapsets/792971#taiko) by ::hoku::{ user=9503098 } and [KitajimaYN](https://osu.ppy.sh/users/2250574)\
+[katagiri - Heisei Memehunters](https://osu.ppy.sh/beatmapsets/792971#taiko) by ::hoku::{ user=9503098 } and ::KitajimaYN::{ user=2250574 }\
 *written by ::-Kazu-::{ user=920861 }*
 
 Between the vast mapping experience of KitajimaYN and the great understanding of the game mode hoku shows in their Heisei Memehunters, you can already start to expect a well designed and fun map. This map shows an excellent control over density and where exactly to go ham on it, as well as a impeccable flow-based mapping style, being KitajimaYN's trademark. The streams of this map truly meet all expectations and are so carefully placed that the map as a whole makes a lot of sense: I think it'd truly be a great addition to the Loved section!
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Ascendance::{ user=2931883 }, [Sartan](https://osu.ppy.sh/users/4100941), ::Tenshichan::{ user=1101600 } and [Zak](https://osu.ppy.sh/users/1375955)!
+osu!catch Loved candidates were chosen by ::Ascendance::{ user=2931883 }, ::Sartan::{ user=4100941 }, ::Tenshichan::{ user=1101600 } and ::Zak::{ user=1375955 }!
 
 ---
 
@@ -173,7 +173,7 @@ All-in-all the map offers lots of replayability. This is because of the solid ba
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::Lenfried-::{ user=5314573 }, [Pope Gadget](https://osu.ppy.sh/users/2288341), ::stupud man::{ user=2141612 } and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
+osu!mania Loved candidates were chosen by ::Lenfried-::{ user=5314573 }, ::Pope Gadget::{ user=2288341 }, ::stupud man::{ user=2141612 } and ::Toaph Daddy::{ user=7616811 }!
 
 ---
 
@@ -191,7 +191,7 @@ Originally on pace to be ranked, Peter on Crack is a marathon map designed by no
 
 [![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/mania/ubiquity.jpg)](https://osu.ppy.sh/community/forums/topics/849015)
 
-[Stellabee - Ubiquity](https://osu.ppy.sh/beatmapsets/758231#mania) by ::Shoegazer::{ user=2520707 } and [Vortex-](https://osu.ppy.sh/users/4999669)
+[Stellabee - Ubiquity](https://osu.ppy.sh/beatmapsets/758231#mania) by ::Shoegazer::{ user=2520707 } and ::Vortex-::{ user=4999669 }
 
 Loved veteran Shoegazer and protégé Vortex- combine efforts for the next set being nominated, Ubiquity. The set features two difficulties, one made by each of the two charters mentioned, with each showcasing their varying styles through the subtle differences in layering and patterning choices. Both difficulties also showcase the extremely refined charting prowess that both of these charters have, as many have seen through their previously loved charts, like Tenohira de Odoru from Vortex- or Toki from Shoegazer. If these past works were of any interest to you, Ubiquity will be sure to deliver on the fronts of both charters.
 
@@ -223,7 +223,7 @@ People have been asking for a **while** about when tangjinxi was going to get a 
 
 From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
-In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Ephemeral::{ user=102335 }, [Noffy](https://osu.ppy.sh/users/1541323) and ::Toy::{ user=2757689 } for their miscellaneous help in managing Project Loved.
+In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Ephemeral::{ user=102335 }, ::Noffy::{ user=1541323 } and ::Toy::{ user=2757689 } for their miscellaneous help in managing Project Loved.
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! You can view the current submissions on the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0).
 

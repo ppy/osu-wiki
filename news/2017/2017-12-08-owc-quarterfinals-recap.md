@@ -11,7 +11,7 @@ The eliminations have started and everything is to play for. While some teams st
 
 Another week has passed by and we are already half-way through OWC 2017! You know what they say – time flies by when you are enjoying the things you love. Over the course of this past weekend, the osu! community has most definitely been enjoying some really awesome matches that have happened. Let's take a look at a few just to savour the flavour once more!
 
-Netherlands and Japan started off the weekend by competing for the ticket to survival – both teams are in the Loser's bracket, and both teams need to win the match to stay within OWC 2017. The two teams, led by respectively ::n0ah::{ user=3086393 } and [Shirasaka Koume](https://osu.ppy.sh/users/3062998), were very closely matched in a number of maps with the score difference coming to less than 100,000 on multiple occasions.
+Netherlands and Japan started off the weekend by competing for the ticket to survival – both teams are in the Loser's bracket, and both teams need to win the match to stay within OWC 2017. The two teams, led by respectively ::n0ah::{ user=3086393 } and ::Shirasaka Koume::{ user=3062998 }, were very closely matched in a number of maps with the score difference coming to less than 100,000 on multiple occasions.
 
 Netherlands' tournament experience against Japan's new blood energy – the match was truly a clash of the elites, and one that kept viewers on the edge of their seats. The score eventually came down to 6-4 in favour of Team Netherlands, and Japan – having very bravely fought – will bid us good-bye until next year.
 
@@ -23,7 +23,7 @@ Four words – Taiwan is on fire! The week prior we were already surprised by Ta
 
 But Taiwan has the answer for that – a dreadnought who goes by the name of ::Flask::{ user=959763 }, the spearhead leader of Taiwan's next generation. Many players may have just begun to notice his name popping up, but Flask surprised everyone when he FC'd 6 of the 9 maps and absolutely carried his team in the match-up against the formidable Germany.
 
-The German players fought hard and managed to bring a couple of maps to very close margins, but with the combined forces of other Taiwanese players like ::Koalazy::{ user=286740 }, [Rucker](https://osu.ppy.sh/users/147515), and ::\1Shield::{ user=1860489 }, Team Taiwan took the match 6-3. They have every reason to be proud of this achievement.
+The German players fought hard and managed to bring a couple of maps to very close margins, but with the combined forces of other Taiwanese players like ::Koalazy::{ user=286740 }, ::Rucker::{ user=147515 }, and ::\1Shield::{ user=1860489 }, Team Taiwan took the match 6-3. They have every reason to be proud of this achievement.
 
 ![](/wiki/shared/news/2017-12-06-osu-world-cup-quarterfinals/de_tw.png)
 
@@ -31,7 +31,7 @@ The German players fought hard and managed to bring a couple of maps to very clo
 
 Canada and Austria are no strangers to each other – and noteworthy for Canada, so far in OWC this year they have been facing Teams they have faced before with the only exception being Team Romania. Captain ::Azer::{ user=2155578 } noting this as a weird arrangement of events, and perhaps could be leading to more? Nonetheless, they first must answer to Team Austria – a very strong and highly underrated team for their worth.
 
-Led by ::Akane-Yuki::{ user=3656589 }, Austria has some very scary players like Fedora Goose, ::BlueFlame::{ user=3506191 }, and [Spark-desu](https://osu.ppy.sh/users/4601608). Both teams have come across each other in 2015 where Team Austria outperformed Team Canada in the Semifinals Loser's Bracket. For them to meet again 2 years later, one cannot help but to anticipate how both teams have matured.
+Led by ::Akane-Yuki::{ user=3656589 }, Austria has some very scary players like Fedora Goose, ::BlueFlame::{ user=3506191 }, and ::Spark-desu::{ user=4601608 }. Both teams have come across each other in 2015 where Team Austria outperformed Team Canada in the Semifinals Loser's Bracket. For them to meet again 2 years later, one cannot help but to anticipate how both teams have matured.
 
 For the match-up, both teams showed some incredibly consistent plays that demanded applauses. Despite facing elimination should they lose the match, the Canadian players displayed their jovial side when they focused on enjoying the mappool and making the best out of their picks. ::MiruHong::{ user=2866814 }, a noteworthy Canadian candidate, commented prior to entering the Freemod pick [Heisei Cataclysm](https://osu.ppy.sh/beatmaps/206567&m=0) with both Hidden and Hard Rock mods on – "I would break at the beginning and FC the rest".
 

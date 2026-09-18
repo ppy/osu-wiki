@@ -23,7 +23,7 @@ There are a lot of completed quests, so here we've picked out the ones involving
 
 For this quest, the mappers had to create and rank at least 6 mapsets of songs by **Cranky**. Half of the mapsets had to include difficulties of a game mode different from the other half, and each mapset had to be hosted by a different user.
 
-The **Cranky Standard, Taiko and Catch Pack** quest was completed by **::Icekalt::{ user=5410645 }**, **[Kalibe](https://osu.ppy.sh/users/3376777)**, **::Nao Tomori::{ user=5364763 }**, **[Mao](https://osu.ppy.sh/users/2204515)**, **::Myxo::{ user=2202645 }**, **[ScubDomino](https://osu.ppy.sh/users/8972308)**, **::xLolicore-::{ user=4525153 }**, **[Nwolf](https://osu.ppy.sh/users/1910766)**, **::Ascendance::{ user=2931883 }**, **[JBHyperion](https://osu.ppy.sh/users/4879508)**, **::Du5t::{ user=6053071 }** and **[Jemzuu](https://osu.ppy.sh/users/7890134)**.
+The **Cranky Standard, Taiko and Catch Pack** quest was completed by **::Icekalt::{ user=5410645 }**, **::Kalibe::{ user=3376777 }**, **::Nao Tomori::{ user=5364763 }**, **::Mao::{ user=2204515 }**, **::Myxo::{ user=2202645 }**, **::ScubDomino::{ user=8972308 }**, **::xLolicore-::{ user=4525153 }**, **::Nwolf::{ user=1910766 }**, **::Ascendance::{ user=2931883 }**, **::JBHyperion::{ user=4879508 }**, **::Du5t::{ user=6053071 }** and **::Jemzuu::{ user=7890134 }**.
 
 - [Cranky - Conflict](https://osu.ppy.sh/beatmapsets/936126) by ::Icekalt::{ user=5410645 }
 - [Cranky - Amanojaku](https://osu.ppy.sh/beatmapsets/978694) hosted by ::Mao::{ user=2204515 }
@@ -36,7 +36,7 @@ The **Cranky Standard, Taiko and Catch Pack** quest was completed by **::Icekalt
 
 For this quest, the mappers had to create and rank at least 6 mapsets of songs by **The Flashbulb**, each hosted by a different user.
 
-**The Flashbulb Standard and Catch Beatmap Pack** quest was completed by **::Pachiru::{ user=2850983 }**, **[Gabe](https://osu.ppy.sh/users/654108)**, **::Zetera::{ user=587737 }**, **[polka](https://osu.ppy.sh/users/4191702)**, **::greenhue::{ user=4967662 }**, **[Irreversible](https://osu.ppy.sh/users/1287964)**, **::MBomb::{ user=3071175 }**, **[Mismagius](https://osu.ppy.sh/users/19048)**, **::Leader::{ user=631530 }**, **[fieryrage](https://osu.ppy.sh/users/3533958)** and **::Deif::{ user=318565 }**.
+**The Flashbulb Standard and Catch Beatmap Pack** quest was completed by **::Pachiru::{ user=2850983 }**, **::Gabe::{ user=654108 }**, **::Zetera::{ user=587737 }**, **::polka::{ user=4191702 }**, **::greenhue::{ user=4967662 }**, **::Irreversible::{ user=1287964 }**, **::MBomb::{ user=3071175 }**, **::Mismagius::{ user=19048 }**, **::Leader::{ user=631530 }**, **::fieryrage::{ user=3533958 }** and **::Deif::{ user=318565 }**.
 
 - [The Flashbulb - You Take the World's Weight Away](https://osu.ppy.sh/beatmapsets/964553) hosted by ::Mismagius::{ user=19048 }
 - [The Flashbulb - Lawn Wake IV (Black)](https://osu.ppy.sh/beatmapsets/965730) hosted by ::MBomb::{ user=3071175 }
@@ -45,7 +45,7 @@ For this quest, the mappers had to create and rank at least 6 mapsets of songs b
 - [The Flashbulb - Mellann](https://osu.ppy.sh/beatmapsets/977276) hosted by ::Gabe::{ user=654108 }
 - [The Flashbulb - DIDJ PVC](https://osu.ppy.sh/beatmapsets/966078) hosted by ::Irreversible::{ user=1287964 }
 
-**The Flashbulb Taiko Beatmap Pack** quest was completed by **::tasuke912::{ user=2774767 }**, **[komasy](https://osu.ppy.sh/users/1980256)**, **::Chromoxx::{ user=1881639 }**, **[Nardoxyribonucleic](https://osu.ppy.sh/users/876419)**, **::Nofool::{ user=672430 }**, **[Arrival](https://osu.ppy.sh/users/1694000)**, **::Volta::{ user=4154071 }**, **[Greenshell](https://osu.ppy.sh/users/8693851)**, **::Rhytoly::{ user=8121109 }** and **[mintong89](https://osu.ppy.sh/users/966210)**.
+**The Flashbulb Taiko Beatmap Pack** quest was completed by **::tasuke912::{ user=2774767 }**, **::komasy::{ user=1980256 }**, **::Chromoxx::{ user=1881639 }**, **::Nardoxyribonucleic::{ user=876419 }**, **::Nofool::{ user=672430 }**, **::Arrival::{ user=1694000 }**, **::Volta::{ user=4154071 }**, **::Greenshell::{ user=8693851 }**, **::Rhytoly::{ user=8121109 }** and **::mintong89::{ user=966210 }**.
 
 - [The Flashbulb - DIDJ PVC](https://osu.ppy.sh/beatmapsets/965178) hosted by ::tasuke912::{ user=2774767 }
 - [The Flashbulb - Creep](https://osu.ppy.sh/beatmapsets/966087) hosted by ::Greenshell::{ user=8693851 }
@@ -58,7 +58,7 @@ For this quest, the mappers had to create and rank at least 6 mapsets of songs b
 
 For this quest, the mappers had to create and rank at least 8 mapsets of Touhou remix songs by **Rin**, without a single user hosting more than two mapsets.
 
-The **Rin Standard Beatmap Pack** quest was completed by **::type 1 if cute::{ user=4116573 }**, **[UndeadCapulet](https://osu.ppy.sh/users/2523533)**, **::Uberzolik::{ user=1314547 }**, **[defiance](https://osu.ppy.sh/users/6816873)**, **::Mentai::{ user=8554786 }**, **[Shanipika](https://osu.ppy.sh/users/6336729)**, **::Halfslashed::{ user=4598899 }**, **[yaspo](https://osu.ppy.sh/users/4945926)** and **::Aeril::{ user=4334976 }**.
+The **Rin Standard Beatmap Pack** quest was completed by **::type 1 if cute::{ user=4116573 }**, **::UndeadCapulet::{ user=2523533 }**, **::Uberzolik::{ user=1314547 }**, **::defiance::{ user=6816873 }**, **::Mentai::{ user=8554786 }**, **::Shanipika::{ user=6336729 }**, **::Halfslashed::{ user=4598899 }**, **::yaspo::{ user=4945926 }** and **::Aeril::{ user=4334976 }**.
 
 - [Rin - Amanojaku set 03 ~ Romantic Escape Flight](https://osu.ppy.sh/beatmapsets/1022358) hosted by ::Halfslashed::{ user=4598899 }
 - [Rin - Amanojaku set 02 ~ Midnight Spell Card](https://osu.ppy.sh/beatmapsets/974872) by ::Aeril::{ user=4334976 }
@@ -73,7 +73,7 @@ The **Rin Standard Beatmap Pack** quest was completed by **::type 1 if cute::{ u
 
 For this quest, the mappers had to create and rank 3 mapsets of songs by **Imperial Circus Dead Decadence** from their albums *Yomi yori \[...\]* and *Fusyoku \[...\]* each hosted by a different user.
 
-The **Standard ICDD: Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo & Fusyoku Ressentiment, Fushiyoku no Sarugakuza** quest was completed by **::egg and cheese::{ user=3789276 }**, **[Stack](https://osu.ppy.sh/users/6122935)**, **::Foxy Grandpa::{ user=5580983 }**, **[Kite](https://osu.ppy.sh/users/134572)** and **::Riven::{ user=3638005 }**.
+The **Standard ICDD: Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo & Fusyoku Ressentiment, Fushiyoku no Sarugakuza** quest was completed by **::egg and cheese::{ user=3789276 }**, **::Stack::{ user=6122935 }**, **::Foxy Grandpa::{ user=5580983 }**, **::Kite::{ user=134572 }** and **::Riven::{ user=3638005 }**.
 
 - [Imperial Circus Dead Decadence - Yomi yori Kikoyu, Koukoku No Hi To Honoo No Syoujo.](https://osu.ppy.sh/beatmapsets/742961) by ::Riven::{ user=3638005 }
 - [Imperial Circus Dead Decadence - Danzai No Honoo To Koibito-Tachi No Rondo](https://osu.ppy.sh/beatmapsets/961431) hosted by ::Stack::{ user=6122935 }
@@ -81,7 +81,7 @@ The **Standard ICDD: Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo & Fusyo
 
 Another ICDD quest tasked mappers to create and rank 4 mapsets of songs from their album *Kuroushiku Saita \[...\]*, each hosted by a different user.
 
-The **Standard ICDD: Kuruoshiku Saita Seisan na Mukuro wa Kanade, Itooshiku Saita Shoujo wa Seisen no Kotoba wo Utau** quest was completed by **::VINXIS::{ user=4323406 }**, **[deetz](https://osu.ppy.sh/users/3513559)**, **::RLC::{ user=1047883 }**, **[Nyquill](https://osu.ppy.sh/users/682935)**, **::Cheesecake::{ user=3700647 }** and **[Sing](https://osu.ppy.sh/users/3795679)**.
+The **Standard ICDD: Kuruoshiku Saita Seisan na Mukuro wa Kanade, Itooshiku Saita Shoujo wa Seisen no Kotoba wo Utau** quest was completed by **::VINXIS::{ user=4323406 }**, **::deetz::{ user=3513559 }**, **::RLC::{ user=1047883 }**, **::Nyquill::{ user=682935 }**, **::Cheesecake::{ user=3700647 }** and **::Sing::{ user=3795679 }**.
 
 - [Imperial Circus Dead Decadence - Uta](https://osu.ppy.sh/beatmapsets/962562) hosted by ::deetz::{ user=3513559 }
 - [Imperial Circus Dead Decadence - Ankoku No Jyoukaku Ni Shinkou Saru Igyou No Kyouki](https://osu.ppy.sh/beatmapsets/967766) hosted by ::Cheesecake::{ user=3700647 }
@@ -92,7 +92,7 @@ The **Standard ICDD: Kuruoshiku Saita Seisan na Mukuro wa Kanade, Itooshiku Sait
 
 For this quest, the mappers had to create and rank at least 6 mapsets of songs by **Ben Briggs**, each hosted by a different user.
 
-The **Ben Briggs Standard Beatmap Pack** quest was completed by **::Myxo::{ user=2202645 }**, **[Gero](https://osu.ppy.sh/users/1467715)**, **::LMT::{ user=7262798 }**, **[Icekalt](https://osu.ppy.sh/users/5410645)**, **::Crissa::{ user=5405836 }**, **[Lasse](https://osu.ppy.sh/users/896613)**, **::Mao::{ user=2204515 }** and **[Nao Tomori](https://osu.ppy.sh/users/5364763)**.
+The **Ben Briggs Standard Beatmap Pack** quest was completed by **::Myxo::{ user=2202645 }**, **::Gero::{ user=1467715 }**, **::LMT::{ user=7262798 }**, **::Icekalt::{ user=5410645 }**, **::Crissa::{ user=5405836 }**, **::Lasse::{ user=896613 }**, **::Mao::{ user=2204515 }** and **::Nao Tomori::{ user=5364763 }**.
 
 - [Ben Briggs - Fearless Living](https://osu.ppy.sh/beatmapsets/934415) by ::Lasse::{ user=896613 }
 - [Ben Briggs - Yes (Maybe)](https://osu.ppy.sh/beatmapsets/933940) by ::Myxo::{ user=2202645 }
@@ -106,7 +106,7 @@ The **Ben Briggs Standard Beatmap Pack** quest was completed by **::Myxo::{ user
 
 For this quest, the mappers had to create and rank 5 mapsets of select vocaloid songs, each hosted by a different user.
 
-The **Vocaloid Standard Showcase** quest was completed by **::Noffy::{ user=1541323 }**, **[Kuron-kun](https://osu.ppy.sh/users/2697284)**, **::pishifat::{ user=3178418 }**, **[Niva](https://osu.ppy.sh/users/197805)**, **::Seto Kousuke::{ user=2857314 }**, **[hypercyte](https://osu.ppy.sh/users/9155377)** and **::bossandy::{ user=360437 }**.
+The **Vocaloid Standard Showcase** quest was completed by **::Noffy::{ user=1541323 }**, **::Kuron-kun::{ user=2697284 }**, **::pishifat::{ user=3178418 }**, **::Niva::{ user=197805 }**, **::Seto Kousuke::{ user=2857314 }**, **::hypercyte::{ user=9155377 }** and **::bossandy::{ user=360437 }**.
 
 - [KIRA & Heartbreaker - B.B.F (feat. Hatsune Miku & Kagamine Rin)](https://osu.ppy.sh/beatmapsets/955866) hosted by ::hypercyte::{ user=9155377 }
 - [DJ'TEKINA//SOMETHING - Hidamari no Uta](https://osu.ppy.sh/beatmapsets/966324) hosted by ::Seto Kousuke::{ user=2857314 }
@@ -118,7 +118,7 @@ The **Vocaloid Standard Showcase** quest was completed by **::Noffy::{ user=1541
 
 For this quest, the mappers had to create and rank 5 mapsets of neuro/bass songs from a pool of artists, each hosted by a different user.
 
-The **Neuro Genre Taiko Showcase** quest was completed by **::Nifty::{ user=4956097 }**, **[Cynplytholowazy](https://osu.ppy.sh/users/3901754)**, **::Faputa::{ user=845733 }**, **[\_DUSK\_](https://osu.ppy.sh/users/6092181)**, **::Yales::{ user=2377881 }**, **[Nepuri](https://osu.ppy.sh/users/6637817)**, **::Tyistiana::{ user=1421452 }** and **[aabc271](https://osu.ppy.sh/users/155707)**
+The **Neuro Genre Taiko Showcase** quest was completed by **::Nifty::{ user=4956097 }**, **::Cynplytholowazy::{ user=3901754 }**, **::Faputa::{ user=845733 }**, **::\_DUSK\_::{ user=6092181 }**, **::Yales::{ user=2377881 }**, **::Nepuri::{ user=6637817 }**, **::Tyistiana::{ user=1421452 }** and **::aabc271::{ user=155707 }**
 
 - [sakuraburst - cherry blossoms explode across the dying horizon](https://osu.ppy.sh/beatmapsets/878621) by ::Cynplytholowazy::{ user=3901754 }
 - [Dictate - Cauldron](https://osu.ppy.sh/beatmapsets/942334) by ::Nepuri::{ user=6637817 }
@@ -130,7 +130,7 @@ The **Neuro Genre Taiko Showcase** quest was completed by **::Nifty::{ user=4956
 
 For this quest, the mappers had to create and rank at least 4 mapsets of songs by **tieff**, each hosted by a different user.
 
-The **tieff Standard Mini-pack** quest was completed by **::Mirash::{ user=2841009 }**, **[schoolboy](https://osu.ppy.sh/users/8722791)**, **::Hinsvar::{ user=1249323 }**, **[Realazy](https://osu.ppy.sh/users/918297)**, **::PandaHero::{ user=1233255 }**, **[Trynna](https://osu.ppy.sh/users/2652951)**, **::eiri-::{ user=3388410 }** and **[ShirohaMyMommy](https://osu.ppy.sh/users/1603923)**.
+The **tieff Standard Mini-pack** quest was completed by **::Mirash::{ user=2841009 }**, **::schoolboy::{ user=8722791 }**, **::Hinsvar::{ user=1249323 }**, **::Realazy::{ user=918297 }**, **::PandaHero::{ user=1233255 }**, **::Trynna::{ user=2652951 }**, **::eiri-::{ user=3388410 }** and **::ShirohaMyMommy::{ user=1603923 }**.
 
 - [tieff - Sense of Nostalgia](https://osu.ppy.sh/beatmapsets/929284) hosted by ::Mirash::{ user=2841009 }
 - [tieff - Take Your Swimsuit](https://osu.ppy.sh/beatmapsets/940597) hosted by ::PandaHero::{ user=1233255 }

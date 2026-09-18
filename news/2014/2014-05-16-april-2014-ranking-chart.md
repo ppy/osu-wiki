@@ -14,27 +14,27 @@ Congratulations to winner of the March Ranking Charts 2014:
 
 **osu! standard**
 
-- **1st** [\_index](https://osu.ppy.sh/users/_index) \- 1 month supporter
-- **2nd** [Dsan](https://osu.ppy.sh/users/Dsan)
-- **3rd** [Raiku](https://osu.ppy.sh/users/Raiku)
+- **1st** ::\_index::{ user=652457 } \- 1 month supporter
+- **2nd** ::Dsan::{ user=1266166 }
+- **3rd** ::Raiku::{ user=1525538 }
 
 **Taiko**
 
 - **1st** ::Konpaku Sariel::{ user=533502 } \- 1 month supporter
-- **2nd** [horikawa159](https://osu.ppy.sh/users/horikawa159)
-- **3rd** [Midnaait](https://osu.ppy.sh/users/Midnaait)
+- **2nd** ::horikawa159::{ user=11573650 }
+- **3rd** ::Midnaait::{ user=1506011 }
 
 **Catch the Beat**
 
-- **1st** [HARP](https://osu.ppy.sh/users/HARP) \- 1 month supporter
-- **2nd** [shadowsoul5900](https://osu.ppy.sh/users/shadowsoul5900)
-- **3rd** [mikhe](https://osu.ppy.sh/users/mikhe)
+- **1st** ::HARP::{ user=23915953 } \- 1 month supporter
+- **2nd** ::shadowsoul5900::{ user=4280091 }
+- **3rd** ::mikhe::{ user=47842 }
 
 **osu!mania**
 
-- **1st** [lostcool](https://osu.ppy.sh/users/lostcool) \- 1 month supporter
-- **2nd** [HeathErika](https://osu.ppy.sh/users/HeathErika)
-- **3rd** [\_ARiE\_](https://osu.ppy.sh/users/_ARiE_)
+- **1st** ::lostcool::{ user=766374 } \- 1 month supporter
+- **2nd** ::HeathErika::{ user=4313040 }
+- **3rd** ::\_ARiE\_::{ user=1433165 }
 
 Good luck with the new charts!
 

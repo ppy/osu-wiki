@@ -65,7 +65,7 @@ As always, all of the above plus so much more is available right now from [**MYL
 
 Congratulations to ::fieryrage::{ user=3533958 } for correctly deciphering the hint we posted yesterday on the [@osugame Twitter](https://twitter.com/osugame), which aligns with our written expectations of each Beatmap Nominator to contain one whole galaxy within each of their brains.
 
-In all seriousness, the Featured Artist project has really taken off this year, and we're well on our way towards the mythical and completely arbitrary milestone of 100 artists by the end of 2020. Major props to ::pishifat::{ user=3178418 } and [Toy](https://osu.ppy.sh/users/2757689), who have been busting their proverbial nuts in a never-ending effort to keep the outreach and uptake wheels greased and moving at lightspeed.
+In all seriousness, the Featured Artist project has really taken off this year, and we're well on our way towards the mythical and completely arbitrary milestone of 100 artists by the end of 2020. Major props to ::pishifat::{ user=3178418 } and ::Toy::{ user=2757689 }, who have been busting their proverbial nuts in a never-ending effort to keep the outreach and uptake wheels greased and moving at lightspeed.
 
 We'll see you next week for another release, and make sure to check the Twitter mid-week for hints, if that's your kinda thing.
 

@@ -25,7 +25,7 @@ Many iconic plays forever engraved into osu! history were captured during this p
 
 Unknown to him in the moment, Reese's YouTube channel was starting to turn into a time capsule of a simpler era, what some commentators today consider to be the "golden age of osu!". At the time, the combination of the hype towards fierce competition for the #1 spot, a legendary player returning and the mapping meta shifting to "pp mapping" (allowing for *big* pp numbers) was spurring the community into a score-craving frenzy.
 
-High-achieving players such as ::Rafis::{ user=2558286 }, [Angelsim](https://osu.ppy.sh/users/1777162) and Cookiezi would all log on to a sea of viewers and spectators. Foundations were laid for practices like "replay recording", paving the way for YouTube channels such as [Circle People](https://www.youtube.com/@CirclePeople) to do just that later in 2016, beginning a period of fierce competition between channels fighting to be the first to snatch the latest big play.
+High-achieving players such as ::Rafis::{ user=2558286 }, ::Angelsim::{ user=1777162 } and Cookiezi would all log on to a sea of viewers and spectators. Foundations were laid for practices like "replay recording", paving the way for YouTube channels such as [Circle People](https://www.youtube.com/@CirclePeople) to do just that later in 2016, beginning a period of fierce competition between channels fighting to be the first to snatch the latest big play.
 
 What the community didn't know is that Reese's uploads were about to come to a screeching halt.
 

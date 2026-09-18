@@ -15,7 +15,7 @@ We're reaching a point where finding highlights is getting harder and harder. Wh
 
 Once you've checked that out, you'll find a short interview with the high-performing China's team captain, ::tyrcs::{ user=13026904 }, at the end of this post. A fitting person, given their amazing scores throughout the tournament! We've hardly ever seen a week go by without them topping the scoreboards.
 
-With the handy help of ::SurfChu85::{ user=4469895 }, [yukina meng](https://osu.ppy.sh/users/9919550), and ::Nerfox::{ user=7976724 } we've managed to get these recaps done in video form — this week was no exception!
+With the handy help of ::SurfChu85::{ user=4469895 }, ::yukina meng::{ user=9919550 }, and ::Nerfox::{ user=7976724 } we've managed to get these recaps done in video form — this week was no exception!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/-YSOZ_eWE4E" frameborder="0" allowfullscreen></iframe>
@@ -39,9 +39,9 @@ With the handy help of ::SurfChu85::{ user=4469895 }, [yukina meng](https://osu.
 
 If the Semifinals pool was only accessible to ETs, the Finals mappool has doubled down on the difficulty. Even some of the strongest players of the tournament and the game have struggled to keep up with it! On a tournament where every little mistake can cost you a point, a pool ridden with easy-to-miss patterns is bound to be a disaster for teams that can't keep up with the pace.
 
-This week, we were bestowed with another guest [osu! original](/wiki/Community/Bespoke_music) by the hands of ::Critical\1Star::{ user=3793196 } and [Blocko](https://osu.ppy.sh/users/4075092). Debuting in [Resurrection Cup](https://osu.ppy.sh/community/forums/topics/1567455) 2022, [Xyris - A Cybernetic-Superluminal-Apocalyptic Post-War Divination](https://osu.ppy.sh/beatmapsets/2321297#mania/4973159) (TB) was bound to become the main protagonist on one of this week's matches.
+This week, we were bestowed with another guest [osu! original](/wiki/Community/Bespoke_music) by the hands of ::Critical\1Star::{ user=3793196 } and ::Blocko::{ user=4075092 }. Debuting in [Resurrection Cup](https://osu.ppy.sh/community/forums/topics/1567455) 2022, [Xyris - A Cybernetic-Superluminal-Apocalyptic Post-War Divination](https://osu.ppy.sh/beatmapsets/2321297#mania/4973159) (TB) was bound to become the main protagonist on one of this week's matches.
 
-We had plenty of surprises beyond a returning bespoke track, however. For the first time in MWC 7K history, the EX pool was introduced this round. Maps in this pool represent the pinnacle of raw difficulty within their respective category. In this case [celtix - Cursed Bloom](https://osu.ppy.sh/beatmapsets/2321288#mania/4973138) (EX1) made by ::Critical\1Star::{ user=3793196 } and [_Kobii](https://osu.ppy.sh/users/6209713) represents the difficulty apex of the rice category and is designated as the mixed rice pick. It is notably harder than the rest of the mappool, with the exception of the tiebreaker. For this particular pick, the patterns were significantly more abrasive and considerably tougher than usual to manage. It was an ideal choice for teams aiming to establish dominance in this category early on.
+We had plenty of surprises beyond a returning bespoke track, however. For the first time in MWC 7K history, the EX pool was introduced this round. Maps in this pool represent the pinnacle of raw difficulty within their respective category. In this case [celtix - Cursed Bloom](https://osu.ppy.sh/beatmapsets/2321288#mania/4973138) (EX1) made by ::Critical\1Star::{ user=3793196 } and ::\1Kobii::{ user=6209713 } represents the difficulty apex of the rice category and is designated as the mixed rice pick. It is notably harder than the rest of the mappool, with the exception of the tiebreaker. For this particular pick, the patterns were significantly more abrasive and considerably tougher than usual to manage. It was an ideal choice for teams aiming to establish dominance in this category early on.
 
 But this was not the end of the pool's surprises. This week offered the biggest selection of osu! originals of the tournament, with 3 amazing custom tracks and maps to choose from!
 
@@ -65,7 +65,7 @@ The first original of the week was [NIGHTMARE INVITATION](https://osu.ppy.sh/bea
     </audio>
 </div>
 
-This week, we had LN consistency as the new category for the LN pool, and what better way to introduce our new category than with an osu! original by [Marmalade butcher](https://osu.ppy.sh/beatmaps/artists/220)? They composed [CuttingEdgeInsaneArtifact](https://osu.ppy.sh/beatmapsets/2321277#mania/4973089) (LN3), which was then mapped by ::Lung\1P::{ user=8271308 } and [Muses](https://osu.ppy.sh/users/9705896). As the name of the category implies, this pick is all about testing players' consistency in LN prowess. This map has a wide range of LN patterning, which also adds another layer of difficulty as players have to be proficient in all of them in order to perform well.
+This week, we had LN consistency as the new category for the LN pool, and what better way to introduce our new category than with an osu! original by [Marmalade butcher](https://osu.ppy.sh/beatmaps/artists/220)? They composed [CuttingEdgeInsaneArtifact](https://osu.ppy.sh/beatmapsets/2321277#mania/4973089) (LN3), which was then mapped by ::Lung\1P::{ user=8271308 } and ::Muses::{ user=9705896 }. As the name of the category implies, this pick is all about testing players' consistency in LN prowess. This map has a wide range of LN patterning, which also adds another layer of difficulty as players have to be proficient in all of them in order to perform well.
 
 [![](/wiki/shared/news/2025-02-21-osumania-7k-world-cup-2025-finals-recap/Welkius_banner.jpg)](https://osu.ppy.sh/beatmapsets/2321296#mania/4973158)
 
@@ -75,7 +75,7 @@ This week, we had LN consistency as the new category for the LN pool, and what b
     </audio>
 </div>
 
-The last original featured this week was [Welkius](https://osu.ppy.sh/beatmapsets/2321296#mania/4973158) (EX3), composed by [Aoi](https://osu.ppy.sh/beatmaps/artists/183) and mapped by ::\1Kobii::{ user=6209713 }, [ruka](https://osu.ppy.sh/users/6117525), and ::Blocko::{ user=4075092 }! This map can be considered the little brother of the tiebreaker. With patterns that rival its sibling's difficulty, this was meant to be the wildcard amongst wildcards in the pools. A pick that is not won by practice, but sheer physicality and consistency. Suffice to say, it's a fitting experience for a track as hype as Aoi's.
+The last original featured this week was [Welkius](https://osu.ppy.sh/beatmapsets/2321296#mania/4973158) (EX3), composed by [Aoi](https://osu.ppy.sh/beatmaps/artists/183) and mapped by ::\1Kobii::{ user=6209713 }, ::ruka::{ user=6117525 }, and ::Blocko::{ user=4075092 }! This map can be considered the little brother of the tiebreaker. With patterns that rival its sibling's difficulty, this was meant to be the wildcard amongst wildcards in the pools. A pick that is not won by practice, but sheer physicality and consistency. Suffice to say, it's a fitting experience for a track as hype as Aoi's.
 
 ## Semifinals summary
 

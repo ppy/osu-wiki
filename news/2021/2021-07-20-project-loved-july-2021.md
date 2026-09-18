@@ -26,13 +26,13 @@ That's all for the big changes this month, so let's get into the picks for July.
 
 ## osu!
 
-osu! Loved candidates were chosen by ::Bubbleman::{ user=5182050 } and [Wixonater](https://osu.ppy.sh/users/10083084)!
+osu! Loved candidates were chosen by ::Bubbleman::{ user=5182050 } and ::Wixonater::{ user=10083084 }!
 
 ---
 
 [![](/wiki/shared/news/2021-07-20-project-loved-july-2021/523558.jpg)](https://osu.ppy.sh/community/forums/topics/1376774)
 
-[Alfakyun. x Camellia - calling](https://osu.ppy.sh/beatmapsets/523558#osu) by ::ProfessionalBox::{ user=3250792 }, [\[ Joey \]](https://osu.ppy.sh/users/2693954), ::Aia::{ user=3492472 }, [Anmiy](https://osu.ppy.sh/users/1014222), ::Anxient::{ user=4561368 }, [Asahina Momoko](https://osu.ppy.sh/users/3650145), ::Doormat::{ user=3230571 }, [Flask](https://osu.ppy.sh/users/959763), ::Frey::{ user=695678 }, [Haruto](https://osu.ppy.sh/users/3772301), ::Irreversible::{ user=1287964 }, [Kalibe](https://osu.ppy.sh/users/3376777), ::Kibbleru::{ user=3193504 }, [melon boy](https://osu.ppy.sh/users/3053382), ::Meyrink::{ user=4028934 }, [Rizia](https://osu.ppy.sh/users/1367570), ::Sing::{ user=3795679 }, [toybot](https://osu.ppy.sh/users/2848604) and ::VINXIS::{ user=4323406 }\
+[Alfakyun. x Camellia - calling](https://osu.ppy.sh/beatmapsets/523558#osu) by ::ProfessionalBox::{ user=3250792 }, ::\[ Joey \]::{ user=2693954 }, ::Aia::{ user=3492472 }, ::Anmiy::{ user=1014222 }, ::Anxient::{ user=4561368 }, ::Asahina Momoko::{ user=3650145 }, ::Doormat::{ user=3230571 }, ::Flask::{ user=959763 }, ::Frey::{ user=695678 }, ::Haruto::{ user=3772301 }, ::Irreversible::{ user=1287964 }, ::Kalibe::{ user=3376777 }, ::Kibbleru::{ user=3193504 }, ::melon boy::{ user=3053382 }, ::Meyrink::{ user=4028934 }, ::Rizia::{ user=1367570 }, ::Sing::{ user=3795679 }, ::toybot::{ user=2848604 } and ::VINXIS::{ user=4323406 }\
 185 BPM, 3:50 | 1.36★ – 7.20★\
 *description written by ::DigitalHypno::{ user=4384207 }*
 
@@ -70,7 +70,7 @@ As the dog days continue, a day at the beach may be what you desire.
 
 [![](/wiki/shared/news/2021-07-20-project-loved-july-2021/72509.jpg)](https://osu.ppy.sh/community/forums/topics/1376770)
 
-[orangentle - HAELEQUIN](https://osu.ppy.sh/beatmapsets/72509#osu) by ::rrtyui::{ user=352328 } and [Reisen Udongein](https://osu.ppy.sh/users/232942)\
+[orangentle - HAELEQUIN](https://osu.ppy.sh/beatmapsets/72509#osu) by ::rrtyui::{ user=352328 } and ::Reisen Udongein::{ user=232942 }\
 141.37 BPM, 2:16 | 1.78★, 1.92★, 3.38★, 5.89★, 6.05★\
 *description written by ::Wixonater::{ user=10083084 }*
 
@@ -86,7 +86,7 @@ High velocity sliders, spaced triples and streams alongside alt patterns — you
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [Horiiizon](https://osu.ppy.sh/users/8071438), ::KuroKuroKuro::{ user=11931563 } and [X a v y](https://osu.ppy.sh/users/3738344)!
+osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::Horiiizon::{ user=8071438 }, ::KuroKuroKuro::{ user=11931563 } and ::X a v y::{ user=3738344 }!
 
 ---
 
@@ -108,7 +108,7 @@ osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [Horiiizon]
 
 [![](/wiki/shared/news/2021-07-20-project-loved-july-2021/858606.jpg)](https://osu.ppy.sh/community/forums/topics/1376764)
 
-[Maid-chan (CV: Horie Yui) - Maid-chan Yori. (Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/858606#taiko) by ::Yoroiari::{ user=6056862 }, [KTYN](https://osu.ppy.sh/users/2250574), ::senfla::{ user=7984343 } and [xpokn](https://osu.ppy.sh/users/5115345)\
+[Maid-chan (CV: Horie Yui) - Maid-chan Yori. (Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/858606#taiko) by ::Yoroiari::{ user=6056862 }, ::KTYN::{ user=2250574 }, ::senfla::{ user=7984343 } and ::xpokn::{ user=5115345 }\
 225.6 BPM, 1:38 | 5.74★, 6.07★, 6.13★, 7.38★\
 *description written by ::X a v y::{ user=3738344 }*
 
@@ -125,7 +125,7 @@ As if Yorushika's *Itte.* wasn't enough of an emotional roller coaster with its 
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, [Spectator](https://osu.ppy.sh/users/702598), ::Tenshichan::{ user=1101600 } and [Wesley](https://osu.ppy.sh/users/2407265)!
+osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, ::Spectator::{ user=702598 }, ::Tenshichan::{ user=1101600 } and ::Wesley::{ user=2407265 }!
 
 ---
 
@@ -149,7 +149,7 @@ The map has two difficulties, both of which shouldn't be *too* hard for most pla
 
 [![](/wiki/shared/news/2021-07-20-project-loved-july-2021/20296.jpg)](https://osu.ppy.sh/community/forums/topics/1376758)
 
-[ON-kei - Taihen na Mono no Shoushitsu -GOSSUN END-](https://osu.ppy.sh/beatmapsets/20296#fruits) by ::ZHSteven::{ user=142413 }, [Kawachino Yumi](https://osu.ppy.sh/users/38805), ::pieguyn::{ user=107485 } and [Shino](https://osu.ppy.sh/users/323677)\
+[ON-kei - Taihen na Mono no Shoushitsu -GOSSUN END-](https://osu.ppy.sh/beatmapsets/20296#fruits) by ::ZHSteven::{ user=142413 }, ::Kawachino Yumi::{ user=38805 }, ::pieguyn::{ user=107485 } and ::Shino::{ user=323677 }\
 240 – 300 BPM, 2:56 | 3.63★, 3.64★, 5.40★, 5.45★\
 *description written by ::Tenshichan::{ user=1101600 }*
 
@@ -161,7 +161,7 @@ For real, try some of these diffs, it is definitely worth the time, this is an o
 
 [![](/wiki/shared/news/2021-07-20-project-loved-july-2021/549164.jpg)](https://osu.ppy.sh/community/forums/topics/1376757)
 
-[Yousei Teikoku - Hades:The end](https://osu.ppy.sh/beatmapsets/549164#fruits) by ::Shurelia::{ user=3807986 } and [Razor Sharp](https://osu.ppy.sh/users/3414261)\
+[Yousei Teikoku - Hades:The end](https://osu.ppy.sh/beatmapsets/549164#fruits) by ::Shurelia::{ user=3807986 } and ::Razor Sharp::{ user=3414261 }\
 185 BPM, 5:53 | 6.39★, 6.75★\
 *description written by ::Sartan::{ user=4100941 }*
 
@@ -173,7 +173,7 @@ So yeah, check it out, and perhaps vote for this to be Loved, just in case you'd
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, [-mint-](https://osu.ppy.sh/users/8976576) and ::Penguinosity::{ user=10235296 }!
+osu!mania Loved candidates were chosen by ::\_underjoy::{ user=2235750 }, ::-mint-::{ user=8976576 } and ::Penguinosity::{ user=10235296 }!
 
 ---
 

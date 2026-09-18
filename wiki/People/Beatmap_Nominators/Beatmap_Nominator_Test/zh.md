@@ -10,7 +10,7 @@
 
 类似的摸图谜题在之前一直被用作娱乐，直到 2015 年，第一版 BN 考试被创建出来以供实际使用。该考试包含一个与最后一版 BN 考试类似的选择题部分，以及一个由 ::Charles445::{ user=85000 } 制作的动手摸图谜题。该摸图考试谱面包含 10 个难度，每个难度都有简短的谱面片段。每个片段都被分配了一个[难度等级](/wiki/Beatmap/Difficulty)，并期望申请者能根据该背景找出问题所在。
 
-第二版考试谱面（由 ::Irreversible::{ user=1287964 } 和 [Mao](https://osu.ppy.sh/users/2204515) 制作）、第三版考试谱面（由 Irreversible、Mao 和 ::Myxo::{ user=2202645 } 制作）、第四版考试谱面（由 Irreversible 和 Mao 制作）均设计为完整谱面，以模拟真实情况下的摸图。
+第二版考试谱面（由 ::Irreversible::{ user=1287964 } 和 ::Mao::{ user=2204515 } 制作）、第三版考试谱面（由 Irreversible、Mao 和 ::Myxo::{ user=2202645 } 制作）、第四版考试谱面（由 Irreversible 和 Mao 制作）均设计为完整谱面，以模拟真实情况下的摸图。
 
 直到 2017 年之前，这些考试仍用于帮助挑选新 BN，之后因作弊方面的担忧而取消。2017 年之后，新 BN 的选拔由[质量保障团队 (QAT)](/wiki/People/Quality_Assurance_Team)（现改名为审核评估团队 (NAT)）通过主观评判来进行。
 

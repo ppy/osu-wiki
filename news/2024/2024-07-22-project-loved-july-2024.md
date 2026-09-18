@@ -32,7 +32,7 @@ Before we head straight to this month's picks, here are some news from the team:
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::BATBALL::{ user=15173952 }, [chiv](https://osu.ppy.sh/users/6701656), ::Librarian::{ user=10083084 }, [Lilian](https://osu.ppy.sh/users/8589120), ::megumic::{ user=7537133 }, [Mismagius](https://osu.ppy.sh/users/19048), and ::Skill::{ user=7802027 }!
+The osu! Loved candidates were chosen by ::BATBALL::{ user=15173952 }, ::chiv::{ user=6701656 }, ::Librarian::{ user=10083084 }, ::Lilian::{ user=8589120 }, ::megumic::{ user=7537133 }, ::Mismagius::{ user=19048 }, and ::Skill::{ user=7802027 }!
 
 **[Download the July 2024 Project Loved osu! beatmap pack here! (101 MB)](https://osu.ppy.sh/beatmaps/packs/LR4)**
 
@@ -102,7 +102,7 @@ You have the choice to make this map have a leaderboard. Vote now!
 
 [![](/wiki/shared/news/2024-07-22-project-loved-july-2024/1074903.jpg)](https://osu.ppy.sh/community/forums/topics/1952680)
 
-[USAO - Knight Rider](https://osu.ppy.sh/beatmapsets/1074903#osu) by ::Yoshimaro::{ user=3823413 } and [Cubby](https://osu.ppy.sh/users/10914582)\
+[USAO - Knight Rider](https://osu.ppy.sh/beatmapsets/1074903#osu) by ::Yoshimaro::{ user=3823413 } and ::Cubby::{ user=10914582 }\
 200 BPM, 2:08 | 2.48★, 3.57★, 5.20★, 6.40★, 7.23★\
 *description written by ::Lilian::{ user=8589120 }*
 
@@ -174,7 +174,7 @@ Are you the fastest because you can play this map? Or can you play this map beca
 
 [![](/wiki/shared/news/2024-07-22-project-loved-july-2024/468937.jpg)](https://osu.ppy.sh/community/forums/topics/1952674)
 
-[LULICO vs. LOLIPO - We Hate Touhou](https://osu.ppy.sh/beatmapsets/468937#osu) by ::nhlx::{ user=3827077 } and [Akali](https://osu.ppy.sh/users/2127359)\
+[LULICO vs. LOLIPO - We Hate Touhou](https://osu.ppy.sh/beatmapsets/468937#osu) by ::nhlx::{ user=3827077 } and ::Akali::{ user=2127359 }\
 250 BPM, 2:29 | 7.09★, 8.03★, 8.61★\
 *description written by ::Skill::{ user=7802027 }*
 
@@ -190,7 +190,7 @@ Want this to get Loved? Vote now!
 
 [![](/wiki/shared/news/2024-07-22-project-loved-july-2024/1317461.jpg)](https://osu.ppy.sh/community/forums/topics/1952673)
 
-[otetsu - Meiteki Cybernetics](https://osu.ppy.sh/beatmapsets/1317461#osu) by ::Raijodo::{ user=13400075 } and [kuyusu](https://osu.ppy.sh/users/11758667)\
+[otetsu - Meiteki Cybernetics](https://osu.ppy.sh/beatmapsets/1317461#osu) by ::Raijodo::{ user=13400075 } and ::kuyusu::{ user=11758667 }\
 145 BPM, 3:15 | 6.86★\
 *description written by ::chiv::{ user=6701656 }*
 
@@ -200,11 +200,11 @@ What about this [kuyusu map](https://osu.ppy.sh/beatmapsets/1268824#osu/2636826)
 
 Alright, what about this crazy [raijodo map](https://osu.ppy.sh/beatmapsets/2033133#osu/4469976)? I saw that one in [The Perennial](https://docs.google.com/spreadsheets/d/12G7pVvQaTj4JTCZgUkWRCnNWaV2IL3mD4phDQwXvSuc/edit?gid=0#gid=0)...
 
-Wait... ::kuyusu::{ user=11758667 } and [Raijodo](https://osu.ppy.sh/users/13400075)... We could totally use [Meiteki Cybernetics](https://osu.ppy.sh/beatmapsets/1317461#osu/2729687), right? The map has crazy fun patterning, it's a great song, and it's super intuitive for players. These mappers legit never miss. It's perfect for this pool. Hi, you reading this right now, can you testplay this map? Vote "YES" if you'd like to see this in the pool and vote "NO" otherwise. One YES vote here means one less ::Dada::{ user=9119507 } map in the pool!
+Wait... ::kuyusu::{ user=11758667 } and ::Raijodo::{ user=13400075 }... We could totally use [Meiteki Cybernetics](https://osu.ppy.sh/beatmapsets/1317461#osu/2729687), right? The map has crazy fun patterning, it's a great song, and it's super intuitive for players. These mappers legit never miss. It's perfect for this pool. Hi, you reading this right now, can you testplay this map? Vote "YES" if you'd like to see this in the pool and vote "NO" otherwise. One YES vote here means one less ::Dada::{ user=9119507 } map in the pool!
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::aceticke::{ user=8838763 }, [Boaz](https://osu.ppy.sh/users/13302996), ::Gamelan4::{ user=9856910 }, [Horiiizon](https://osu.ppy.sh/users/8071438), and ::ler1211::{ user=19901680 }!
+The osu!taiko Loved candidates were chosen by ::aceticke::{ user=8838763 }, ::Boaz::{ user=13302996 }, ::Gamelan4::{ user=9856910 }, ::Horiiizon::{ user=8071438 }, and ::ler1211::{ user=19901680 }!
 
 **[Download the July 2024 Project Loved osu!taiko beatmap pack here! (48 MB)](https://osu.ppy.sh/beatmaps/packs/LR3)**
 
@@ -264,7 +264,7 @@ Are you fast enough? Give it a go and see!
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::Tenshichan::{ user=1101600 }, [Wesley](https://osu.ppy.sh/users/2407265), and ::wwwww::{ user=8434466 }!
+The osu!catch Loved candidates were chosen by ::Tenshichan::{ user=1101600 }, ::Wesley::{ user=2407265 }, and ::wwwww::{ user=8434466 }!
 
 **[Download the July 2024 Project Loved osu!catch beatmap pack here! (40 MB)](https://osu.ppy.sh/beatmaps/packs/LR2)**
 
@@ -282,7 +282,7 @@ Give it a whirl, let us know what you think, and enjoy some bangers while you're
 
 [![](/wiki/shared/news/2024-07-22-project-loved-july-2024/2085333.jpg)](https://osu.ppy.sh/community/forums/topics/1952666)
 
-[Polyphia - Playing God](https://osu.ppy.sh/beatmapsets/2085333#fruits) by ::Mochi -::{ user=20424806 }, [Nidoking](https://osu.ppy.sh/users/7034422), and ::SadEgg::{ user=10278243 }\
+[Polyphia - Playing God](https://osu.ppy.sh/beatmapsets/2085333#fruits) by ::Mochi -::{ user=20424806 }, ::Nidoking::{ user=7034422 }, and ::SadEgg::{ user=10278243 }\
 137 BPM, 2:41 | 3.85★, 4.25★, 5.55★\
 *description written by ::wwwww::{ user=8434466 }*
 
@@ -290,7 +290,7 @@ Originally a NM3 custom map for the [osu!catch Draft Tournament 2023](https://os
 
 [![](/wiki/shared/news/2024-07-22-project-loved-july-2024/609845.jpg)](https://osu.ppy.sh/community/forums/topics/1952665)
 
-[Yousei Teikoku - Astral Dogma](https://osu.ppy.sh/beatmapsets/609845#fruits) by ::Razor Sharp::{ user=3414261 }, [JBHyperion](https://osu.ppy.sh/users/4879508), ::Spectator::{ user=702598 }, and [StickyPicky](https://osu.ppy.sh/users/1999852)\
+[Yousei Teikoku - Astral Dogma](https://osu.ppy.sh/beatmapsets/609845#fruits) by ::Razor Sharp::{ user=3414261 }, ::JBHyperion::{ user=4879508 }, ::Spectator::{ user=702598 }, and ::StickyPicky::{ user=1999852 }\
 180 BPM, 4:20 | 3.71★, 4.39★, 5.11★, 5.81★\
 *description written by ::wwwww::{ user=8434466 }*
 
@@ -298,7 +298,7 @@ Dating back nearly a decade, this spread hosted by ::Razor Sharp::{ user=3414261
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::Carpihat::{ user=10085090 }, [elexire](https://osu.ppy.sh/users/9206093), ::Maxus::{ user=4335785 }, [Paturages](https://osu.ppy.sh/users/1375479), ::SunApple::{ user=11817622 }, [taba2](https://osu.ppy.sh/users/7850508), and ::YuEast 2018::{ user=13953619 }!
+The osu!mania Loved candidates were chosen by ::Carpihat::{ user=10085090 }, ::elexire::{ user=9206093 }, ::Maxus::{ user=4335785 }, ::Paturages::{ user=1375479 }, ::SunApple::{ user=11817622 }, ::taba2::{ user=7850508 }, and ::YuEast 2018::{ user=13953619 }!
 
 **[Download the July 2024 Project Loved osu!mania beatmap pack here! (214 MB)](https://osu.ppy.sh/beatmaps/packs/LR1)**
 
@@ -338,7 +338,7 @@ Overall, this is a chart that really encapsulates two of the most beginner-frien
 
 [![](/wiki/shared/news/2024-07-22-project-loved-july-2024/1398827.jpg)](https://osu.ppy.sh/community/forums/topics/1952662)
 
-[YOASOBI - Haruka](https://osu.ppy.sh/beatmapsets/1398827#mania) by ::LaoXiao-::{ user=2393571 } and [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458)\
+[YOASOBI - Haruka](https://osu.ppy.sh/beatmapsets/1398827#mania) by ::LaoXiao-::{ user=2393571 } and ::\[Crz\]FolAH1217::{ user=6232458 }\
 100 – 140 BPM, 3:59 | 3.99★ – 6.01★\
 *description written by ::SunApple::{ user=11817622 }*
 
@@ -408,7 +408,7 @@ Don't hesitate to show your support for this map and cast your vote to bring it 
 
 [![](/wiki/shared/news/2024-07-22-project-loved-july-2024/2204252.jpg)](https://osu.ppy.sh/community/forums/topics/1952657)
 
-[Various Artists - xfpsb 6K LN Kaleidoscope Collection](https://osu.ppy.sh/beatmapsets/2204252#mania) by ::Hylotl::{ user=18270260 }, [\[GS\]hina](https://osu.ppy.sh/users/20040607), ::1799019275::{ user=9468410 }, [AhoUsagi](https://osu.ppy.sh/users/9784248), ::Arkman::{ user=8814590 }, [Benson\_](https://osu.ppy.sh/users/18471116), ::cherrychou::{ user=7214023 }, [Mihyo_San](https://osu.ppy.sh/users/10608702), ::Muses::{ user=9705896 }, [truEleysia](https://osu.ppy.sh/users/13850593), and ::YuzakiTsukasa::{ user=17158897 }\
+[Various Artists - xfpsb 6K LN Kaleidoscope Collection](https://osu.ppy.sh/beatmapsets/2204252#mania) by ::Hylotl::{ user=18270260 }, ::\[GS\]hina::{ user=20040607 }, ::1799019275::{ user=9468410 }, ::AhoUsagi::{ user=9784248 }, ::Arkman::{ user=8814590 }, ::Benson\_::{ user=18471116 }, ::cherrychou::{ user=7214023 }, ::Mihyo\1San::{ user=10608702 }, ::Muses::{ user=9705896 }, ::truEleysia::{ user=13850593 }, and ::YuzakiTsukasa::{ user=17158897 }\
 95 – 218 BPM, 5:14 | 2.61★ – 8.49★\
 The \[Delete \[GLHF's 25\]\] difficulty is *not* being nominated for Loved.\
 *description written by ::Carpihat::{ user=10085090 }*

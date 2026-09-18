@@ -82,7 +82,7 @@ Capping it off, however, was the first [osu! original](/wiki/osu!_originals) in 
     }
 </style>
 
-[Imy's *Lies playing Truth*](https://osu.ppy.sh/beatmapsets/2271658), wonderfully sung by [Natsume Itsuki](https://osu.ppy.sh/beatmaps/artists/189), combined two of our amazing Featured Artists' abilities into one truly epic song, mapped by ::Garden::{ user=2849992 } and [Ryuusei Aika](https://osu.ppy.sh/users/7777875). It served as our tiebreaker for this week, being the deciding map in the Sweden vs. Indonesia match. If this doesn't make you want to check the map out, here is what ::Ryuusei Aika::{ user=7777875 } had to say about it:
+[Imy's *Lies playing Truth*](https://osu.ppy.sh/beatmapsets/2271658), wonderfully sung by [Natsume Itsuki](https://osu.ppy.sh/beatmaps/artists/189), combined two of our amazing Featured Artists' abilities into one truly epic song, mapped by ::Garden::{ user=2849992 } and ::Ryuusei Aika::{ user=7777875 }. It served as our tiebreaker for this week, being the deciding map in the Sweden vs. Indonesia match. If this doesn't make you want to check the map out, here is what ::Ryuusei Aika::{ user=7777875 } had to say about it:
 
 <div class="news-chat-quote__text-container">
 

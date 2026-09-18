@@ -17,7 +17,7 @@ Lately there has been a lot of discussion in the `#osu-loved` channel of [osu!de
 - ::DigitalHypno::{ user=4384207 } recently organized a usability testing program to help understand what we need to focus on to make Loved more understandable and usable as a category. So far results from that are great, as we've already confirmed some suspected issues and learned about new ones. This month I'm going to try to fix and add things on the osu! website that should help solve those issues.
 - Overall there is some sentiment that we want to make significant changes to the Loved process and presentation, which at largest scope could involve completely redesigning the category—definitely look out for these conversations in `#osu-loved` if you're interested, and please share your thoughts. These are just some ideas floating around right now and no actual plans, but as we make progress on the above two points we'll shift focus to getting more serious about this too.
 
-On top of these developments, we've got some new captains this round! Say hello to ::Wixonater::{ user=10083084 } for osu! and [Alter-](https://osu.ppy.sh/users/4980256) for osu!mania. Both are extremely skilled players that are excited to share awesome maps here!
+On top of these developments, we've got some new captains this round! Say hello to ::Wixonater::{ user=10083084 } for osu! and ::Alter-::{ user=4980256 } for osu!mania. Both are extremely skilled players that are excited to share awesome maps here!
 
 You also may have noticed that the [Project Loved group](https://osu.ppy.sh/groups/31) on the website is public and we've all got group badges now! This should make it easy to identify captains (look for the mode icon in the badge) and get in touch with people involved with Loved.
 
@@ -32,7 +32,7 @@ That's all for the monthly update, now let's get into those maps!
 
 ## osu!
 
-osu! Loved candidates were chosen by ::DigitalHypno::{ user=4384207 } and [Wixonater](https://osu.ppy.sh/users/10083084)! This round, all osu! beatmap descriptions were written by ::Wixonater::{ user=10083084 }.
+osu! Loved candidates were chosen by ::DigitalHypno::{ user=4384207 } and ::Wixonater::{ user=10083084 }! This round, all osu! beatmap descriptions were written by ::Wixonater::{ user=10083084 }.
 
 ---
 
@@ -47,7 +47,7 @@ A perfect balance between cut streams, spaced triples, and slider rhythms, this 
 
 [![](/wiki/shared/news/2021-05-14-project-loved-may-2021/811908.jpg)](https://osu.ppy.sh/community/forums/topics/1323455)
 
-[Hana - Sakura no Uta (Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/811908#osu) by ::tsundereSam::{ user=6357685 } and [quantumvortex](https://osu.ppy.sh/users/10660777)\
+[Hana - Sakura no Uta (Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/811908#osu) by ::tsundereSam::{ user=6357685 } and ::quantumvortex::{ user=10660777 }\
 207 BPM, 3:21 | 7.06★, 8.06★, 8.23★, 8.24★
 
 *Hana - Sakura no Uta* has resounded its bells throughout the community since 2015, with this mapset of the song being no exception. Sitting at 207 BPM as a 1.15x rate speed-up of the song, the difficulties range from low-7★ to 8★, with every single one offering a challenge for your aim. Multiple spikes line the map with squares, triangles, and overall geometric jumps, fitting together cleanly.
@@ -74,7 +74,7 @@ Another *Love Live!* song hitting the Loved section, this map has consistent jum
 
 [![](/wiki/shared/news/2021-05-14-project-loved-may-2021/819239.jpg)](https://osu.ppy.sh/community/forums/topics/1323451)
 
-[Tia - Deal with the devil](https://osu.ppy.sh/beatmapsets/819239#osu) by ::Bazz B::{ user=9063995 }, [makisokk](https://osu.ppy.sh/users/3141886), ::mindmaster107::{ user=8819496 }, [Shikibe Mayu](https://osu.ppy.sh/users/1125647), ::vergil chair::{ user=8331132 }, [yShadowXOP\_](https://osu.ppy.sh/users/7754679) and ::Yudragen::{ user=8406396 }\
+[Tia - Deal with the devil](https://osu.ppy.sh/beatmapsets/819239#osu) by ::Bazz B::{ user=9063995 }, ::makisokk::{ user=3141886 }, ::mindmaster107::{ user=8819496 }, ::Shikibe Mayu::{ user=1125647 }, ::vergil chair::{ user=8331132 }, ::yShadowXOP\_::{ user=7754679 } and ::Yudragen::{ user=8406396 }\
 145 BPM, 4:39 | 1.83★ – 6.87★
 
 1/6th swing jazz mapping or maybe even memories of a *certain* 2018 mapset are daunting enough, but all the maps in this set deliver.
@@ -103,7 +103,7 @@ Sitting at high 5 stars and a comfortable 175 BPM, this map provides a fun alter
 
 [![](/wiki/shared/news/2021-05-14-project-loved-may-2021/494923.jpg)](https://osu.ppy.sh/community/forums/topics/1323448)
 
-[Team Grimoire - RougokuSTRIP (Grimoire crossbreed rmx)](https://osu.ppy.sh/beatmapsets/494923#osu) by ::EijiKuinbii::{ user=6270995 } and [\_MiaoFUuU\_](https://osu.ppy.sh/users/4299356)\
+[Team Grimoire - RougokuSTRIP (Grimoire crossbreed rmx)](https://osu.ppy.sh/beatmapsets/494923#osu) by ::EijiKuinbii::{ user=6270995 } and ::\_MiaoFUuU\_::{ user=4299356 }\
 175 BPM, 5:12 | 6.64★
 
 An absolutely killer collab between \_MiaoFUuU\_ and EijiKuinbii, this 175 BPM mid-6-star is anything but what it appears on the surface.
@@ -112,7 +112,7 @@ With a slow start and ponderous entrance into the main focus of the map, the hig
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [KuroKuroKuro](https://osu.ppy.sh/users/11931563), ::POCARI SWEAT::{ user=5082685 } and [X a v y](https://osu.ppy.sh/users/3738344)!
+osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::KuroKuroKuro::{ user=11931563 }, ::POCARI SWEAT::{ user=5082685 } and ::X a v y::{ user=3738344 }!
 
 ---
 
@@ -170,7 +170,7 @@ That tempo might not seem like a lot to the most experienced taiko players, but 
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, [Spectator](https://osu.ppy.sh/users/702598), ::Tenshichan::{ user=1101600 } and [Wesley](https://osu.ppy.sh/users/2407265)!
+osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, ::Spectator::{ user=702598 }, ::Tenshichan::{ user=1101600 } and ::Wesley::{ user=2407265 }!
 
 ---
 
@@ -212,7 +212,7 @@ Wiggles and bursts feature heavily in this map in a serious test of stamina and 
 
 [![](/wiki/shared/news/2021-05-14-project-loved-may-2021/525686.jpg)](https://osu.ppy.sh/community/forums/topics/1323437)
 
-[kors k - Insane Techniques (Extended)](https://osu.ppy.sh/beatmapsets/525686#fruits) by ::Ascendance::{ user=2931883 } and [Minato Yukina](https://osu.ppy.sh/users/531253)\
+[kors k - Insane Techniques (Extended)](https://osu.ppy.sh/beatmapsets/525686#fruits) by ::Ascendance::{ user=2931883 } and ::Minato Yukina::{ user=531253 }\
 146 BPM, 5:41 | 6.40★\
 *description written by ::Tenshichan::{ user=1101600 }*
 
@@ -222,7 +222,7 @@ Abandoned shortly after its creation, this overlooked set reflects the mapping p
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::-mint-::{ user=8976576 }, [Alter-](https://osu.ppy.sh/users/4980256), ::Kawawa::{ user=4647754 } and [Penguinosity](https://osu.ppy.sh/users/10235296)!
+osu!mania Loved candidates were chosen by ::-mint-::{ user=8976576 }, ::Alter-::{ user=4980256 }, ::Kawawa::{ user=4647754 } and ::Penguinosity::{ user=10235296 }!
 
 ---
 
@@ -272,7 +272,7 @@ Because of its quality and popularity, *saihate* pretty clearly deserves a spot 
 
 [![](/wiki/shared/news/2021-05-14-project-loved-may-2021/875519.jpg)](https://osu.ppy.sh/community/forums/topics/1323431)
 
-[Eir Aoi - INNOCENCE](https://osu.ppy.sh/beatmapsets/875519#mania) by ::AWMRone::{ user=10351684 }, [Alipay](https://osu.ppy.sh/users/9339256), ::Imperial Wolf::{ user=9080296 }, [ruka](https://osu.ppy.sh/users/6117525), ::SK\1la::{ user=6601796 }, [Wilben_Chan](https://osu.ppy.sh/users/6659363) and ::wjh123::{ user=1147820 }\
+[Eir Aoi - INNOCENCE](https://osu.ppy.sh/beatmapsets/875519#mania) by ::AWMRone::{ user=10351684 }, ::Alipay::{ user=9339256 }, ::Imperial Wolf::{ user=9080296 }, ::ruka::{ user=6117525 }, ::SK\1la::{ user=6601796 }, ::Wilben\1Chan::{ user=6659363 } and ::wjh123::{ user=1147820 }\
 183 BPM, 4:28 | 2.65★ – 8.69★\
 *description written by ::Penguinosity::{ user=10235296 }*
 

@@ -18,7 +18,7 @@ It's the time of the month once again for some new maps to hit the Loved section
 
 ## osu!standard
 
-osu!standard Loved candidates were chosen by ::DigitalHypno::{ user=4384207 } and [waywern2012](https://osu.ppy.sh/users/5870453)! This round, all osu!standard beatmap descriptions were written by ::DigitalHypno::{ user=4384207 }.
+osu!standard Loved candidates were chosen by ::DigitalHypno::{ user=4384207 } and ::waywern2012::{ user=5870453 }! This round, all osu!standard beatmap descriptions were written by ::DigitalHypno::{ user=4384207 }.
 
 ---
 
@@ -58,7 +58,7 @@ With all the intensity that can come from osu! beatmaps, sometimes we just need 
 
 [![](/wiki/shared/news/2020-06-21-project-loved-june-2020/osu/5-code-crimson.jpg)](https://osu.ppy.sh/community/forums/topics/1092781)
 
-[Shiron - CODE -CRiMSON-](https://osu.ppy.sh/beatmapsets/504770#osu) by ::Mijn Aim Zuigt::{ user=4587487 } and [Damnjelly](https://osu.ppy.sh/users/1666355)\
+[Shiron - CODE -CRiMSON-](https://osu.ppy.sh/beatmapsets/504770#osu) by ::Mijn Aim Zuigt::{ user=4587487 } and ::Damnjelly::{ user=1666355 }\
 167 BPM, 1:59 | 6.72★, 7.12★, 7.99★
 
 Has anyone been craving some technical spaced streams? I know I sure was—until I found this mapset, at least. This 3-difficulty mapset ranges from 6.7 to 8 stars, and each difficulty is filled with super satisfying 167 BPM spaced streams and finger control patterns. It's the perfect mapset to both train and refine your skills, all while trying not to get lost in the intensity of the song.
@@ -79,7 +79,7 @@ It's hard to find quality maps that challenge you with symmetrical patterns the 
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::jyake::{ user=9099822 } and [-Kazu-](https://osu.ppy.sh/users/920861)!
+osu!taiko Loved candidates were chosen by ::jyake::{ user=9099822 } and ::-Kazu-::{ user=920861 }!
 
 ---
 
@@ -95,7 +95,7 @@ Mew captures this style of mapping perfectly, with the combination of drum-like 
 
 [![](/wiki/shared/news/2020-06-21-project-loved-june-2020/taiko/2-energy-night.jpg)](https://osu.ppy.sh/community/forums/topics/1092776)
 
-[KAH - energy night](https://osu.ppy.sh/beatmapsets/1163432#taiko) by ::\_MMMMMM\1MMMMMM\_::{ user=8959673 }, [juanilp4evr](https://osu.ppy.sh/users/6413125) and ::Axer::{ user=7299864 }\
+[KAH - energy night](https://osu.ppy.sh/beatmapsets/1163432#taiko) by ::\_MMMMMM\1MMMMMM\_::{ user=8959673 }, ::juanilp4evr::{ user=6413125 } and ::Axer::{ user=7299864 }\
 156 BPM, 2:16 | 5.59★, 5.98★, 6.06★\
 *description written by ::-Kazu-::{ user=920861 }*
 
@@ -119,7 +119,7 @@ Hopefully, with this addition to the Loved section, we will continue to see incr
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, [Tenshichan](https://osu.ppy.sh/users/1101600), ::Wesley::{ user=2407265 } and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
+osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, ::Tenshichan::{ user=1101600 }, ::Wesley::{ user=2407265 } and ::Yumeno Himiko::{ user=1806962 }!
 
 ---
 
@@ -153,7 +153,7 @@ And try it out you should! It is not the hardest of maps, and the map has two di
 
 [![](/wiki/shared/news/2020-06-21-project-loved-june-2020/catch/4-no-poi-nenpulse-bootleg-remix.jpg)](https://osu.ppy.sh/community/forums/topics/1092770)
 
-[Petit Rabbit's - No Poi! (nenpulse bootleg remix)](https://osu.ppy.sh/beatmapsets/464213#fruits) by ::Spectator::{ user=702598 } and [Minato Yukina](https://osu.ppy.sh/users/531253)\
+[Petit Rabbit's - No Poi! (nenpulse bootleg remix)](https://osu.ppy.sh/beatmapsets/464213#fruits) by ::Spectator::{ user=702598 } and ::Minato Yukina::{ user=531253 }\
 175 BPM, 4:31 | 5.18★\
 The \[Salad\] difficulty is *not* being nominated for Loved.\
 *description written by ::Yumeno Himiko::{ user=1806962 }*
@@ -162,7 +162,7 @@ Spectator and Minato Yukina have always been good pals in collaborating on aweso
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::-mint-::{ user=8976576 }, [Abraxos](https://osu.ppy.sh/users/5025064), ::lenpai::{ user=5314573 }, [Pope Gadget](https://osu.ppy.sh/users/2288341) and ::Toaph Daddy::{ user=7616811 }!
+osu!mania Loved candidates were chosen by ::-mint-::{ user=8976576 }, ::Abraxos::{ user=5025064 }, ::lenpai::{ user=5314573 }, ::Pope Gadget::{ user=2288341 } and ::Toaph Daddy::{ user=7616811 }!
 
 ---
 

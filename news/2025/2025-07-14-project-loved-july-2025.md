@@ -33,7 +33,7 @@ As we delve into this month's picks, remember that every month we have [osu!(laz
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::bailie::{ user=7537133 }, [BATBALL](https://osu.ppy.sh/users/15173952), ::chiv::{ user=6701656 }, [Lilian](https://osu.ppy.sh/users/8589120), ::Mismagius::{ user=19048 }, [Plasma](https://osu.ppy.sh/users/10077431), and ::Skill::{ user=7802027 }!
+The osu! Loved candidates were chosen by ::bailie::{ user=7537133 }, ::BATBALL::{ user=15173952 }, ::chiv::{ user=6701656 }, ::Lilian::{ user=8589120 }, ::Mismagius::{ user=19048 }, ::Plasma::{ user=10077431 }, and ::Skill::{ user=7802027 }!
 
 **[Click here to download all of this round's osu! picks!](https://packs.ppy.sh/LR52%20-%20Project%20Loved:%20July%202025%20(osu!).zip)**
 
@@ -87,7 +87,7 @@ Why don't you try this classic out for yourself? Be sure to vote Yes on the poll
 
 [![](/wiki/shared/news/2025-07-14-project-loved-july-2025/1318077.jpg)](https://osu.ppy.sh/community/forums/topics/2104926)
 
-[Camellia - M1LLI0N PP](https://osu.ppy.sh/beatmapsets/1318077#osu) by ::OliBomby::{ user=6573093 }, [aehrea](https://osu.ppy.sh/users/12496694), ::chowch::{ user=11678065 }, [CrazyrabbitKGE](https://osu.ppy.sh/users/4481526), ::Diarrhea::{ user=13467918 }, [donutman07](https://osu.ppy.sh/users/8144891), ::DragoBruder::{ user=10944421 }, [Feiri](https://osu.ppy.sh/users/3214844), ::Fisky::{ user=8352623 }, [HoshiKuzuTora](https://osu.ppy.sh/users/8975815), ::IOException::{ user=2688103 }, [Jan0301](https://osu.ppy.sh/users/7516006), ::Karoo13::{ user=1882522 }, [KoNoah\_](https://osu.ppy.sh/users/3459448), ::P4ndemonium::{ user=6639059 }, [Perseus](https://osu.ppy.sh/users/6377897), ::R3m::{ user=6990066 }, [Reywateil](https://osu.ppy.sh/users/9828042), ::Scub::{ user=8972308 }, [tilda](https://osu.ppy.sh/users/6233296), ::TrungSabito0159::{ user=14927934 }, and [wiwit](https://osu.ppy.sh/users/10610309)\
+[Camellia - M1LLI0N PP](https://osu.ppy.sh/beatmapsets/1318077#osu) by ::OliBomby::{ user=6573093 }, ::aehrea::{ user=12496694 }, ::chowch::{ user=11678065 }, ::CrazyrabbitKGE::{ user=4481526 }, ::Diarrhea::{ user=13467918 }, ::donutman07::{ user=8144891 }, ::DragoBruder::{ user=10944421 }, ::Feiri::{ user=3214844 }, ::Fisky::{ user=8352623 }, ::HoshiKuzuTora::{ user=8975815 }, ::IOException::{ user=2688103 }, ::Jan0301::{ user=7516006 }, ::Karoo13::{ user=1882522 }, ::KoNoah\_::{ user=3459448 }, ::P4ndemonium::{ user=6639059 }, ::Perseus::{ user=6377897 }, ::R3m::{ user=6990066 }, ::Reywateil::{ user=9828042 }, ::Scub::{ user=8972308 }, ::tilda::{ user=6233296 }, ::TrungSabito0159::{ user=14927934 }, and ::wiwit::{ user=10610309 }\
 234 BPM, 7:03 | 9.43★\
 *description written by ::Mismagius::{ user=19048 }*
 
@@ -115,13 +115,13 @@ If you want to see this masterpiece in the Loved category, let it be known by vo
 
 [![](/wiki/shared/news/2025-07-14-project-loved-july-2025/1660405.jpg)](https://osu.ppy.sh/community/forums/topics/2104924)
 
-[sky_delta vs. Tanchiky - Fuse](https://osu.ppy.sh/beatmapsets/1660405#osu) by ::Arushii::{ user=15664628 }, [Regussy](https://osu.ppy.sh/users/23487351), and ::Zenoc::{ user=16121913 }\
+[sky_delta vs. Tanchiky - Fuse](https://osu.ppy.sh/beatmapsets/1660405#osu) by ::Arushii::{ user=15664628 }, ::Regussy::{ user=23487351 }, and ::Zenoc::{ user=16121913 }\
 175 BPM, 3:32 | 5.17★, 5.24★, 6.13★, 6.39★, 6.56★\
 *description written by ::Lilian::{ user=8589120 }*
 
 This month's Ranked Reject is about as high octane as you can get. We bring you [sky_delta vs. Tanchiky - Fuse](https://osu.ppy.sh/beatmapsets/1660405#osu) mapped by ::Arushii::{ user=15664628 }.
 
-Arushii is back with another graveyarded mapset, with this one created all the way back in 2021. That's old enough to make it his very first tech-focused mapset, which is mind blowing when you take a look at his current repertoire. Of course, its age doesn't stop this map from being a blast to play, bringing back the feel of mappers like ::Akali::{ user=2127359 } with its flow-heavy technical style. Complete with guest difficulties by ::Regussy::{ user=23487351 } and [Zenoc](https://osu.ppy.sh/users/16121913), this mapset may be on the smaller side, but when you've played through the map four times and are coming back for your fifth, it sure won't feel that way.
+Arushii is back with another graveyarded mapset, with this one created all the way back in 2021. That's old enough to make it his very first tech-focused mapset, which is mind blowing when you take a look at his current repertoire. Of course, its age doesn't stop this map from being a blast to play, bringing back the feel of mappers like ::Akali::{ user=2127359 } with its flow-heavy technical style. Complete with guest difficulties by ::Regussy::{ user=23487351 } and ::Zenoc::{ user=16121913 }, this mapset may be on the smaller side, but when you've played through the map four times and are coming back for your fifth, it sure won't feel that way.
 
 Make sure to vote Yes to see this set in Loved this month!!
 
@@ -141,7 +141,7 @@ Make sure to hop towards that YES button this month if you'd like to see this ma
 
 [![](/wiki/shared/news/2025-07-14-project-loved-july-2025/1253563.jpg)](https://osu.ppy.sh/community/forums/topics/2104922)
 
-[oxi - Kasane territory \~ Zutto Teto no Turn](https://osu.ppy.sh/beatmapsets/1253563#osu) by ::Bloxi::{ user=9022451 }, [-rip acc-](https://osu.ppy.sh/users/17796654), ::D R A G O N::{ user=9976657 }, and [Runigh](https://osu.ppy.sh/users/15754716)\
+[oxi - Kasane territory \~ Zutto Teto no Turn](https://osu.ppy.sh/beatmapsets/1253563#osu) by ::Bloxi::{ user=9022451 }, ::-rip acc-::{ user=17796654 }, ::D R A G O N::{ user=9976657 }, and ::Runigh::{ user=15754716 }\
 171.96 BPM, 3:05 | 2.11★ – 6.39★\
 *description written by ::bailie::{ user=7537133 }*
 
@@ -157,7 +157,7 @@ To vote for Kasane Teto!
 
 [![](/wiki/shared/news/2025-07-14-project-loved-july-2025/1200218.jpg)](https://osu.ppy.sh/community/forums/topics/2104921)
 
-[The Living Tombstone - Goodbye Moonmen- Rick and Morty Remix](https://osu.ppy.sh/beatmapsets/1200218#osu) by ::xytoper::{ user=13653298 }, [Chompy](https://osu.ppy.sh/users/7427035), ::CORROSIVE::{ user=9112395 }, [cyb3rv1rus](https://osu.ppy.sh/users/9544388), ::FriendoFox::{ user=3678808 }, [Kojio](https://osu.ppy.sh/users/2054596), ::muya-::{ user=12883611 }, [Nagabi](https://osu.ppy.sh/users/10352099), ::Nagaraia::{ user=13673790 }, and [Uni-Desu](https://osu.ppy.sh/users/6594866)\
+[The Living Tombstone - Goodbye Moonmen- Rick and Morty Remix](https://osu.ppy.sh/beatmapsets/1200218#osu) by ::xytoper::{ user=13653298 }, ::Chompy::{ user=7427035 }, ::CORROSIVE::{ user=9112395 }, ::cyb3rv1rus::{ user=9544388 }, ::FriendoFox::{ user=3678808 }, ::Kojio::{ user=2054596 }, ::muya-::{ user=12883611 }, ::Nagabi::{ user=10352099 }, ::Nagaraia::{ user=13673790 }, and ::Uni-Desu::{ user=6594866 }\
 128 BPM, 3:08 | 1.45★ – 10.19★\
 *description written by ::chiv::{ user=6701656 }*
 
@@ -206,7 +206,7 @@ Typ4 did a great job with this map and it's a shame it hasn't received the love 
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::\_gt::{ user=8301957 }, [Eriha](https://osu.ppy.sh/users/16320311), ::Horiiizon::{ user=8071438 }, [K a y o k o](https://osu.ppy.sh/users/17664300), ::nevqr::{ user=14269506 }, and [Roxy-](https://osu.ppy.sh/users/11931563)!
+The osu!taiko Loved candidates were chosen by ::\_gt::{ user=8301957 }, ::Eriha::{ user=16320311 }, ::Horiiizon::{ user=8071438 }, ::K a y o k o::{ user=17664300 }, ::nevqr::{ user=14269506 }, and ::Roxy-::{ user=11931563 }!
 
 **[Click here to download all of this round's osu!taiko picks!](https://packs.ppy.sh/LR51%20-%20Project%20Loved:%20July%202025%20(osu!taiko).zip)**
 
@@ -280,7 +280,7 @@ Why don't you play this map and see what your limits are? Vote now! ヽ(\*・ω�
 
 [![](/wiki/shared/news/2025-07-14-project-loved-july-2025/1748152.jpg)](https://osu.ppy.sh/community/forums/topics/2104913)
 
-[tachyon - faster than light](https://osu.ppy.sh/beatmapsets/1748152#taiko) by ::ler1211::{ user=19901680 } and [My Angel Koishi](https://osu.ppy.sh/users/8273098)\
+[tachyon - faster than light](https://osu.ppy.sh/beatmapsets/1748152#taiko) by ::ler1211::{ user=19901680 } and ::My Angel Koishi::{ user=8273098 }\
 178 BPM, 2:50 | 5.60★, 5.65★\
 *description written by ::K a y o k o::{ user=17664300 }*
 
@@ -314,7 +314,7 @@ If you want to practice your speed, regardless of your level, give Curtain Call!
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::CTBWhiteCat::{ user=7620002 }, [Des9](https://osu.ppy.sh/users/5404711), ::LaviSorrow::{ user=9966768 }, and [Realmaas](https://osu.ppy.sh/users/6567640)!
+The osu!catch Loved candidates were chosen by ::CTBWhiteCat::{ user=7620002 }, ::Des9::{ user=5404711 }, ::LaviSorrow::{ user=9966768 }, and ::Realmaas::{ user=6567640 }!
 
 **[Click here to download all of this round's osu!catch picks!](https://packs.ppy.sh/LR50%20-%20Project%20Loved:%20July%202025%20(osu!catch).zip)**
 
@@ -359,13 +359,13 @@ After a long drought, it's finally time to give a chance to the most popular map
 
 [![](/wiki/shared/news/2025-07-14-project-loved-july-2025/310966.jpg)](https://osu.ppy.sh/community/forums/topics/2104908)
 
-[M2U - Gravity](https://osu.ppy.sh/beatmapsets/310966#fruits) by ::WildOne94::{ user=3482692 }, [Deif](https://osu.ppy.sh/users/318565), ::JBHyperion::{ user=4879508 }, [Kurokami](https://osu.ppy.sh/users/260933), and ::Razor Sharp::{ user=3414261 }\
+[M2U - Gravity](https://osu.ppy.sh/beatmapsets/310966#fruits) by ::WildOne94::{ user=3482692 }, ::Deif::{ user=318565 }, ::JBHyperion::{ user=4879508 }, ::Kurokami::{ user=260933 }, and ::Razor Sharp::{ user=3414261 }\
 128 BPM, 2:30 | 1.29★, 2.47★, 3.18★, 4.53★, 4.91★\
 *description written by ::Des9::{ user=5404711 }*
 
 I can bet there is not one old osu!catch player who doesn't know or has never played a ::WildOne94::{ user=3482692 } map. This time, we're bringing you this classic mapset that many veteran players should be familiar with, [M2U - Gravity](https://osu.ppy.sh/beatmapsets/310966#fruits).
 
-It was very popular years ago, and don't forget about the Rain guest collab diff by ::Deif::{ user=318565 } and [Kurokami](https://osu.ppy.sh/users/260933) being in CWC 2016.
+It was very popular years ago, and don't forget about the Rain guest collab diff by ::Deif::{ user=318565 } and ::Kurokami::{ user=260933 } being in CWC 2016.
 
 Will this be the first time WildOne has their own set in the Loved section? Let's see!
 
@@ -384,7 +384,7 @@ READY TO FIRE!**
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::Carpihat::{ user=10085090 }, [elexire](https://osu.ppy.sh/users/9206093), ::Maxus::{ user=4335785 }, [Paturages](https://osu.ppy.sh/users/1375479), ::SunApple::{ user=11817622 }, [taba2](https://osu.ppy.sh/users/7850508), and ::Yuiesta::{ user=13953619 }!
+The osu!mania Loved candidates were chosen by ::Carpihat::{ user=10085090 }, ::elexire::{ user=9206093 }, ::Maxus::{ user=4335785 }, ::Paturages::{ user=1375479 }, ::SunApple::{ user=11817622 }, ::taba2::{ user=7850508 }, and ::Yuiesta::{ user=13953619 }!
 
 **[Click here to download all of this round's osu!mania picks!](https://packs.ppy.sh/LR49%20-%20Project%20Loved:%20July%202025%20(osu!mania).zip)**
 
@@ -528,7 +528,7 @@ You are likely very familiar with the renowned Strong 280. You may find it quite
 
 [![](/wiki/shared/news/2025-07-14-project-loved-july-2025/2375142.jpg)](https://osu.ppy.sh/community/forums/topics/2104895)
 
-[Various Artists - xfpsb 6K Project Vocaloid Collection](https://osu.ppy.sh/beatmapsets/2375142#mania) by ::YuzakiTsukasa::{ user=17158897 }, [\[GS\]hina](https://osu.ppy.sh/users/20040607), ::AhoUsagi::{ user=9784248 }, [Benson\_](https://osu.ppy.sh/users/18471116), ::Hylotl::{ user=18270260 }, and [tyrcs](https://osu.ppy.sh/users/13026904)\
+[Various Artists - xfpsb 6K Project Vocaloid Collection](https://osu.ppy.sh/beatmapsets/2375142#mania) by ::YuzakiTsukasa::{ user=17158897 }, ::\[GS\]hina::{ user=20040607 }, ::AhoUsagi::{ user=9784248 }, ::Benson\_::{ user=18471116 }, ::Hylotl::{ user=18270260 }, and ::tyrcs::{ user=13026904 }\
 125 – 280 BPM, 4:50 | 4.01★ – 7.68★\
 The \[Delete \[GLHF's 25\]\] difficulty is *not* being nominated for Loved.\
 *description written by ::Carpihat::{ user=10085090 }*

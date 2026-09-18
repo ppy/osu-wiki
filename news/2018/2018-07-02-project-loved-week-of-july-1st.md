@@ -64,7 +64,7 @@ At this point, if you've been on the internet long enough, you'd be acquainted w
 
 [![](/wiki/shared/news/2018-07-02-project-loved-week-of-july-1st/osu/gucci-gucci-literature-club-s-not-hot-ft-monika.jpg)](https://osu.ppy.sh/community/forums/topics/768649)
 
-[Miraie - Gucci Gucci Literature Club's Not Hot (ft. Monika)](https://osu.ppy.sh/beatmapsets/723641) by ::stq::{ user=8438674 }, [Elcheer](https://osu.ppy.sh/users/4420014) and ::Minil::{ user=6662652 }
+[Miraie - Gucci Gucci Literature Club's Not Hot (ft. Monika)](https://osu.ppy.sh/beatmapsets/723641) by ::stq::{ user=8438674 }, ::Elcheer::{ user=4420014 } and ::Minil::{ user=6662652 }
 
 A fairly recent mapset that mixes all of yesterday's memes together. It's got Doki Doki Literature Club, Gucci Gang, Man's Not Hot, all mixed together by everyone's favorite youtuber, Miraie. Submitted in early 2018, the map has very quickly amassed lots of favorites, potentially for its viability as a multiplayer map choice with its 7\* jump diff. Not much to say about this, as its diff name seems to be self aware.
 
@@ -86,7 +86,7 @@ A classic set of difficulties, dating all the way back to 2012, this mapset is v
 
 [![](/wiki/shared/news/2018-07-02-project-loved-week-of-july-1st/taiko/anoko-no-jinta-tarolin-remix.jpg)](https://osu.ppy.sh/community/forums/topics/768655)
 
-[CHARAN-PO-RANTAN - Anoko no Jinta(TAROLIN Remix)](https://osu.ppy.sh/beatmapsets/747311) by ::rezi888::{ user=2337821 }, [KitajimaYN](https://osu.ppy.sh/users/2250574) and ::yyyyyyyyyyypetu::{ user=468029 }
+[CHARAN-PO-RANTAN - Anoko no Jinta(TAROLIN Remix)](https://osu.ppy.sh/beatmapsets/747311) by ::rezi888::{ user=2337821 }, ::KitajimaYN::{ user=2250574 } and ::yyyyyyyyyyypetu::{ user=468029 }
 
 The first time I played this mapset around a month ago, I think I actually shed tears at how much I loved it. Between the stunning first listen of this song that was absolutely made for something like osu!taiko, and the varied and engaging mapping from all three of the contributors, I knew that this map would have to make it into the Loved section somehow. Each difficulty contributes different things to the map, like for instance rezi's difficulty using lots of 1/6, and Kitajima's using lots of SV changes, showing once again that Japan's dominance in playing does not harm their utter creativity when it comes to their mapping. This is one to check out for sure!
 
@@ -178,7 +178,7 @@ Here's the newfound masterpiece of the amazingly creative Nivrad00's notefactory
 
 [![](/wiki/shared/news/2018-07-02-project-loved-week-of-july-1st/mania/valhalla.jpg)](https://osu.ppy.sh/community/forums/topics/768672)
 
-[xi - Valhalla](https://osu.ppy.sh/beatmapsets/257079) by ::Remillion Cross::{ user=1983784 }, [ExUsagi](https://osu.ppy.sh/users/3027421) and ::LordRaika::{ user=3265023 }\
+[xi - Valhalla](https://osu.ppy.sh/beatmapsets/257079) by ::Remillion Cross::{ user=1983784 }, ::ExUsagi::{ user=3027421 } and ::LordRaika::{ user=3265023 }\
 *written by ::aitor98::{ user=3154852 }*
 
 And for our last pick, we have a map that should be familiar to the older players, a map which stood out at the time, being qualified at one point but never reaching its desired place: we present to you, xi - Vallhala by Remillion Cross. With two guest difficultes made by LordRaika and Arzenvald, this map features one of the most unconventional pattern styles that you'll see in a while. He was one of the first mappers that introduced the meaning "underrated" in the Ranked section and it was definitely deserved. It has a good mix between Long Notes and bursts, nasty jacks, shields, extremely rough transitions and more.

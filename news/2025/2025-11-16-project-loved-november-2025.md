@@ -36,7 +36,7 @@ And finally, what you've all been waiting for, here come the picks! Remember, yo
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::BATBALL::{ user=15173952 }, [chiv](https://osu.ppy.sh/users/6701656), ::momoyo::{ user=12469536 }, and [Skill](https://osu.ppy.sh/users/7802027)!
+The osu! Loved candidates were chosen by ::BATBALL::{ user=15173952 }, ::chiv::{ user=6701656 }, ::momoyo::{ user=12469536 }, and ::Skill::{ user=7802027 }!
 
 **[Click here to download all of this round's osu! picks!](https://packs.ppy.sh/LR68%20-%20Project%20Loved:%20November%202025%20(osu!).zip)**
 
@@ -58,7 +58,7 @@ If you want this to enter a Loved state, go ahead and give it your vote!
 
 [![](/wiki/shared/news/2025-11-16-project-loved-november-2025/825710.jpg)](https://osu.ppy.sh/community/forums/topics/2153200)
 
-[Kobaryo - Kumo No Kireme \[feat. Kourin.\]](https://osu.ppy.sh/beatmapsets/825710#osu) by ::Lusumi::{ user=7575461 }, [Asagi](https://osu.ppy.sh/users/2439246), and ::Dashyy-::{ user=6513356 }\
+[Kobaryo - Kumo No Kireme \[feat. Kourin.\]](https://osu.ppy.sh/beatmapsets/825710#osu) by ::Lusumi::{ user=7575461 }, ::Asagi::{ user=2439246 }, and ::Dashyy-::{ user=6513356 }\
 256 BPM, 3:14 | 2.65★ – 7.99★\
 *description written by ::momoyo::{ user=12469536 }*
 
@@ -110,7 +110,7 @@ HEY MALISZEWSKI... NOBODY IS FORGETTING ABOUT THAT CORSACE CLOSED SCORE.... I HO
 
 [![](/wiki/shared/news/2025-11-16-project-loved-november-2025/2170404.jpg)](https://osu.ppy.sh/community/forums/topics/2153196)
 
-[SAWTOWNE feat. Hatsune Miku - M@GICAL\*CURE! LOVE <3 SHOT!](https://osu.ppy.sh/beatmapsets/2170404#osu) by ::DaNILMaZ1::{ user=14899675 }, [HikariBuru](https://osu.ppy.sh/users/7019221), ::Kubryseeght::{ user=10177773 }, [Take](https://osu.ppy.sh/users/19322780), ::Takusa\_::{ user=29169624 }, [Tarrasky](https://osu.ppy.sh/users/4098393), ::Ternafis::{ user=9921139 }, and [Wavewy](https://osu.ppy.sh/users/17352850)\
+[SAWTOWNE feat. Hatsune Miku - M@GICAL\*CURE! LOVE <3 SHOT!](https://osu.ppy.sh/beatmapsets/2170404#osu) by ::DaNILMaZ1::{ user=14899675 }, ::HikariBuru::{ user=7019221 }, ::Kubryseeght::{ user=10177773 }, ::Take::{ user=19322780 }, ::Takusa\_::{ user=29169624 }, ::Tarrasky::{ user=4098393 }, ::Ternafis::{ user=9921139 }, and ::Wavewy::{ user=17352850 }\
 192 BPM, 3:15 | 2.66★ – 7.23★\
 *description written by ::chiv::{ user=6701656 }*
 
@@ -172,7 +172,7 @@ Vote yes!!
 
 [![](/wiki/shared/news/2025-11-16-project-loved-november-2025/977125.jpg)](https://osu.ppy.sh/community/forums/topics/2153191)
 
-[Virtual Self - EON BREAK](https://osu.ppy.sh/beatmapsets/977125#osu) by ::Atlust::{ user=4086593 }, [how2miss](https://osu.ppy.sh/users/4477199), ::J1\_::{ user=5918561 }, [Ryuusei Aika](https://osu.ppy.sh/users/7777875), and ::yaspo::{ user=4945926 }\
+[Virtual Self - EON BREAK](https://osu.ppy.sh/beatmapsets/977125#osu) by ::Atlust::{ user=4086593 }, ::how2miss::{ user=4477199 }, ::J1\_::{ user=5918561 }, ::Ryuusei Aika::{ user=7777875 }, and ::yaspo::{ user=4945926 }\
 178 – 180 BPM, 3:31 | 5.59★ – 7.85★\
 *description written by ::momoyo::{ user=12469536 }*
 
@@ -186,7 +186,7 @@ Appreciated from a majority of mappers and players, I think this map is worth br
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::\_gt::{ user=8301957 }, [chmekoe](https://osu.ppy.sh/users/7807444), ::Eriha::{ user=16320311 }, [Gamelan4](https://osu.ppy.sh/users/9856910), ::K a y o k o::{ user=17664300 }, [nevqr](https://osu.ppy.sh/users/14269506), and ::Roxy-::{ user=11931563 }!
+The osu!taiko Loved candidates were chosen by ::\_gt::{ user=8301957 }, ::chmekoe::{ user=7807444 }, ::Eriha::{ user=16320311 }, ::Gamelan4::{ user=9856910 }, ::K a y o k o::{ user=17664300 }, ::nevqr::{ user=14269506 }, and ::Roxy-::{ user=11931563 }!
 
 **[Click here to download all of this round's osu!taiko picks!](https://packs.ppy.sh/LR67%20-%20Project%20Loved:%20November%202025%20(osu!taiko).zip)**
 
@@ -222,7 +222,7 @@ Why are you still here? Go play it, but, most importantly vote "Yes!" if you wan
 
 [![](/wiki/shared/news/2025-11-16-project-loved-november-2025/1102340.jpg)](https://osu.ppy.sh/community/forums/topics/2153188)
 
-[DJ Sharpnel - Over The Fullereneshift](https://osu.ppy.sh/beatmapsets/1102340#taiko) by ::Hana Hayashi::{ user=4601806 } and [Jaltzu](https://osu.ppy.sh/users/2597417)\
+[DJ Sharpnel - Over The Fullereneshift](https://osu.ppy.sh/beatmapsets/1102340#taiko) by ::Hana Hayashi::{ user=4601806 } and ::Jaltzu::{ user=2597417 }\
 203.9 BPM, 4:27 | 4.82★, 5.98★, 7.72★, 8.01★\
 *description written by ::Eriha::{ user=16320311 }*
 
@@ -278,15 +278,15 @@ Being able to witness greatness and pure skill is not something that can only be
 
 [![](/wiki/shared/news/2025-11-16-project-loved-november-2025/2065444.jpg)](https://osu.ppy.sh/community/forums/topics/2153184)
 
-[rN - Hundred Voices and the Heartbroken Girl](https://osu.ppy.sh/beatmapsets/2065444#taiko) by ::ZTH::{ user=5258461 } and [\_Rise](https://osu.ppy.sh/users/5217107)\
+[rN - Hundred Voices and the Heartbroken Girl](https://osu.ppy.sh/beatmapsets/2065444#taiko) by ::ZTH::{ user=5258461 } and ::\_Rise::{ user=5217107 }\
 217 BPM, 2:25 | 6.73★, 8.88★\
 *description written by ::\_gt::{ user=8301957 }*
 
-[rN - Hundred Voices and the Heartbroken Girl](https://osu.ppy.sh/beatmapsets/2065444#taiko) features two of osu!taiko's best known mappers — ::ZTH::{ user=5258461 } and [\_Rise](https://osu.ppy.sh/users/5217107). The chaotic nature of the song, combined with BPM changes and a speedy 356 BPM section in the middle, suits both mappers' styles well, culminating in an intense challenge for even the most experienced of players. So whether you're into the tech-focused 6.73★ difficulty, or the finger-breaking 8.88★ difficulty, do remember to vote yes!
+[rN - Hundred Voices and the Heartbroken Girl](https://osu.ppy.sh/beatmapsets/2065444#taiko) features two of osu!taiko's best known mappers — ::ZTH::{ user=5258461 } and ::\_Rise::{ user=5217107 }. The chaotic nature of the song, combined with BPM changes and a speedy 356 BPM section in the middle, suits both mappers' styles well, culminating in an intense challenge for even the most experienced of players. So whether you're into the tech-focused 6.73★ difficulty, or the finger-breaking 8.88★ difficulty, do remember to vote yes!
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::Realmaas::{ user=6567640 } and [Tenshichan](https://osu.ppy.sh/users/1101600)!
+The osu!catch Loved candidates were chosen by ::Realmaas::{ user=6567640 } and ::Tenshichan::{ user=1101600 }!
 
 **[Click here to download all of this round's osu!catch picks!](https://packs.ppy.sh/LR66%20-%20Project%20Loved:%20November%202025%20(osu!catch).zip)**
 
@@ -338,7 +338,7 @@ In the past couple of years, ::ExGon::{ user=214187 } started custom mapping for
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::Carpihat::{ user=10085090 }, [elexire](https://osu.ppy.sh/users/9206093), ::LivelyPeninsula::{ user=11517895 }, [Maxus](https://osu.ppy.sh/users/4335785), ::Paturages::{ user=1375479 }, [SunApple](https://osu.ppy.sh/users/11817622), ::taba2::{ user=7850508 }, and [Yuiesta](https://osu.ppy.sh/users/13953619)!
+The osu!mania Loved candidates were chosen by ::Carpihat::{ user=10085090 }, ::elexire::{ user=9206093 }, ::LivelyPeninsula::{ user=11517895 }, ::Maxus::{ user=4335785 }, ::Paturages::{ user=1375479 }, ::SunApple::{ user=11817622 }, ::taba2::{ user=7850508 }, and ::Yuiesta::{ user=13953619 }!
 
 **[Click here to download all of this round's osu!mania picks!](https://packs.ppy.sh/LR65%20-%20Project%20Loved:%20November%202025%20(osu!mania).zip)**
 
@@ -446,11 +446,11 @@ If you want to see more maps like this and cheer for his first appearance in the
 
 [![](/wiki/shared/news/2025-11-16-project-loved-november-2025/1479808.jpg)](https://osu.ppy.sh/community/forums/topics/2153173)
 
-[Calliope Mori - Roki](https://osu.ppy.sh/beatmapsets/1479808#mania) by ::Remuring::{ user=6522146 } and [arcwinolivirus](https://osu.ppy.sh/users/2039089)\
+[Calliope Mori - Roki](https://osu.ppy.sh/beatmapsets/1479808#mania) by ::Remuring::{ user=6522146 } and ::arcwinolivirus::{ user=2039089 }\
 150 BPM, 3:42 | 6.70★\
 *description written by ::Carpihat::{ user=10085090 }*
 
-Do you wanna Rockin' rockin' out, rap and rock and roll? This time we're going to nominate [Roki](https://osu.ppy.sh/beatmapsets/1479808) mapped by ::Remuring::{ user=6522146 } and [arcwinolivirus](https://osu.ppy.sh/users/2039089), both are elite members of 7K community! This map efficiently and almost flawlessly expresses the pitch and intensity variations of both instrumental and vocal parts throughout the entire song through distinct snaps and pattern flows. We're confident that you will enjoy this map whether you are a map connoisseur or a skill grinder.
+Do you wanna Rockin' rockin' out, rap and rock and roll? This time we're going to nominate [Roki](https://osu.ppy.sh/beatmapsets/1479808) mapped by ::Remuring::{ user=6522146 } and ::arcwinolivirus::{ user=2039089 }, both are elite members of 7K community! This map efficiently and almost flawlessly expresses the pitch and intensity variations of both instrumental and vocal parts throughout the entire song through distinct snaps and pattern flows. We're confident that you will enjoy this map whether you are a map connoisseur or a skill grinder.
 
 Please vote for us if you like this map or song! And let's rap and rock and roll!
 

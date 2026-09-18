@@ -8,7 +8,7 @@ series: beatmap_spotlights
 
 With some delay, the Ranking Charts for September 2015 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1509)!
 
-This month ::Secretpipe::{ user=2208964 }, [Nwolf](https://osu.ppy.sh/users/1910766), ::Krah::{ user=1436748 } and [-Kamikaze-](https://osu.ppy.sh/users/2124783) picked the maps for the Monthly Ranking Charts.
+This month ::Secretpipe::{ user=2208964 }, ::Nwolf::{ user=1910766 }, ::Krah::{ user=1436748 } and ::-Kamikaze-::{ user=2124783 } picked the maps for the Monthly Ranking Charts.
 
 ## Ranking Charts Creation
 

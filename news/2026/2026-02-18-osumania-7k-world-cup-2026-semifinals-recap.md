@@ -13,7 +13,7 @@ We're at the very last stretch of the tournament. Time went by so fast. After al
 
 Despite the pressure, every team has been performing at the highest level! And so they should, for all teams are increasingly facing harder opponents as both mappools and competitors get tougher. This round was no exception, bringing us many memorable moments along the way. We even got to witness a Latin American derby with Peru and Venezuela fighting for their spot in the losers' bracket!
 
-It would not be a proper recap without our weekly video highlights, however. Thanks again to ::yukina meng::{ user=9919550 }, [Normiplier](https://osu.ppy.sh/users/10069850), ::epic man 2::{ user=14566000 }, [SurfChu85](https://osu.ppy.sh/users/4469895), and ::SunApple::{ user=11817622 } for their incredible work throughout the tournament. And there's more to come!
+It would not be a proper recap without our weekly video highlights, however. Thanks again to ::yukina meng::{ user=9919550 }, ::Normiplier::{ user=10069850 }, ::epic man 2::{ user=14566000 }, ::SurfChu85::{ user=4469895 }, and ::SunApple::{ user=11817622 } for their incredible work throughout the tournament. And there's more to come!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/xMyaSJVk6Yc " frameborder="0" allowfullscreen></iframe>
@@ -63,7 +63,7 @@ While it may have remained unplayed during the weekend, [Petals \~Mebuku Kotoba\
     </audio>
 </div>
 
-[Seisen](https://osu.ppy.sh/beatmapsets/2501764#mania/5504387) is the most recent contribution to osu! by the well-known artist [ARForest](https://osu.ppy.sh/beatmaps/artists/95). Mapped by ::kaulpakka::{ user=7115625 } and [Remuring](https://osu.ppy.sh/users/6522146), this hybrid set offers a good mix of patterns, with a heavy emphasis on rice and long note coordination during its faster sections. The ending in particular blends both skill sets in a very organic way, slowly creeping up the difficulty as rice transitions into long notes as the last chorus creeps up.
+[Seisen](https://osu.ppy.sh/beatmapsets/2501764#mania/5504387) is the most recent contribution to osu! by the well-known artist [ARForest](https://osu.ppy.sh/beatmaps/artists/95). Mapped by ::kaulpakka::{ user=7115625 } and ::Remuring::{ user=6522146 }, this hybrid set offers a good mix of patterns, with a heavy emphasis on rice and long note coordination during its faster sections. The ending in particular blends both skill sets in a very organic way, slowly creeping up the difficulty as rice transitions into long notes as the last chorus creeps up.
 
 [![](/wiki/shared/news/2026-02-18-osumania-7k-world-cup-2026-semifinals-recap/Vacant_Rhapsody-banner.jpg)](https://osu.ppy.sh/beatmapsets/2501778#mania/5504474)
 
@@ -73,7 +73,7 @@ While it may have remained unplayed during the weekend, [Petals \~Mebuku Kotoba\
     </audio>
 </div>
 
-[Vacant Rhapsody](https://osu.ppy.sh/beatmapsets/2501778#mania/5504474) was the pool's tiebreaker for the weekend, as well as its last featured osu! original. It would be an understatement to say [penoreri](https://osu.ppy.sh/beatmaps/artists/526) overdelivered with their first featured track in the game! The map didn't disappoint either, as both ::ruka::{ user=6117525 } and [_Kobii](https://osu.ppy.sh/users/6209713) collaborated to bring the mappool's capstone to life. Not an easy beatmap, even for the Semifinals' standards. Teams should have been relieved to see they wouldn't have to play it during their matches, but we're more than sure they'll happily play it once the tournament is over!
+[Vacant Rhapsody](https://osu.ppy.sh/beatmapsets/2501778#mania/5504474) was the pool's tiebreaker for the weekend, as well as its last featured osu! original. It would be an understatement to say [penoreri](https://osu.ppy.sh/beatmaps/artists/526) overdelivered with their first featured track in the game! The map didn't disappoint either, as both ::ruka::{ user=6117525 } and ::\1Kobii::{ user=6209713 } collaborated to bring the mappool's capstone to life. Not an easy beatmap, even for the Semifinals' standards. Teams should have been relieved to see they wouldn't have to play it during their matches, but we're more than sure they'll happily play it once the tournament is over!
 
 ## Semifinals summary
 

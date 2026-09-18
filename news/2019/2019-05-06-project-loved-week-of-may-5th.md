@@ -26,7 +26,7 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ## osu!
 
-osu! Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, [-Roxas](https://osu.ppy.sh/users/1986262), ::BeasttrollMC::{ user=3171691 }, [Bubbleman](https://osu.ppy.sh/users/5182050), ::fartownik::{ user=56917 } and [waywern2012](https://osu.ppy.sh/users/5870453)!
+osu! Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, ::-Roxas::{ user=1986262 }, ::BeasttrollMC::{ user=3171691 }, ::Bubbleman::{ user=5182050 }, ::fartownik::{ user=56917 } and ::waywern2012::{ user=5870453 }!
 
 ---
 
@@ -73,7 +73,7 @@ There's nothing quite like the satisfyingly consistent rhythm that comes from ma
 
 [![](/wiki/shared/news/2019-05-06-project-loved-week-of-may-5th/osu/6-paradigm-shift.jpg)](https://osu.ppy.sh/community/forums/topics/904560)
 
-[Morimori Atsushi - Paradigm Shift](https://osu.ppy.sh/beatmapsets/483795#osu) by ::ninfia::{ user=4215672 }, [Damnjelly](https://osu.ppy.sh/users/1666355) and ::dracrosinos::{ user=2470818 }\
+[Morimori Atsushi - Paradigm Shift](https://osu.ppy.sh/beatmapsets/483795#osu) by ::ninfia::{ user=4215672 }, ::Damnjelly::{ user=1666355 } and ::dracrosinos::{ user=2470818 }\
 145 BPM, 1:52 | 6.68★, 6.84★, 6.92★, 7.23★, 7.71★\
 *description written by ::DigitalHypno::{ user=4384207 }*
 
@@ -105,7 +105,7 @@ You are going to need a lot of stamina for this one! This one is from Xearo, wit
 
 [![](/wiki/shared/news/2019-05-06-project-loved-week-of-may-5th/osu/10-aishite-aishite-aishite.jpg)](https://osu.ppy.sh/community/forums/topics/904554)
 
-[Kikuo - Aishite Aishite Aishite](https://osu.ppy.sh/beatmapsets/429956#osu) by ::nyu -::{ user=3363070 }, [Rieri](https://osu.ppy.sh/users/5379679) and ::\_IxApplePie\_::{ user=3550457 }\
+[Kikuo - Aishite Aishite Aishite](https://osu.ppy.sh/beatmapsets/429956#osu) by ::nyu -::{ user=3363070 }, ::Rieri::{ user=5379679 } and ::\_IxApplePie\_::{ user=3550457 }\
 230 BPM, 3:59 | 1.25★, 2.36★, 2.53★, 4.55★\
 *description written by ::waywern2012::{ user=5870453 }*
 
@@ -113,13 +113,13 @@ This is a song about a girl and how she is thriving to achieve love from people.
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [iceOC](https://osu.ppy.sh/users/5482401), ::jyake::{ user=9099822 } and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
+osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::iceOC::{ user=5482401 }, ::jyake::{ user=9099822 } and ::nyanmi-1828::{ user=6866480 }!
 
 ---
 
 [![](/wiki/shared/news/2019-05-06-project-loved-week-of-may-5th/taiko/1-to-luv-me-i-for-u-reprise.jpg)](https://osu.ppy.sh/community/forums/topics/904552)
 
-[t+pazolite - to Luv me, I \*\*\* for u. (reprise)](https://osu.ppy.sh/beatmapsets/42741#taiko) by ::Backfire::{ user=263110 } and [pekos](https://osu.ppy.sh/users/559691)\
+[t+pazolite - to Luv me, I \*\*\* for u. (reprise)](https://osu.ppy.sh/beatmapsets/42741#taiko) by ::Backfire::{ user=263110 } and ::pekos::{ user=559691 }\
 220 BPM, 4:00 | 6.42★\
 *description written by ::-Kazu-::{ user=920861 }*
 
@@ -152,7 +152,7 @@ This week, we have a high-BPM map that even the best may stumble at. This map, w
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, [Tenshichan](https://osu.ppy.sh/users/1101600), ::Wesley::{ user=2407265 } and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
+osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, ::Tenshichan::{ user=1101600 }, ::Wesley::{ user=2407265 } and ::Yumeno Himiko::{ user=1806962 }!
 
 ---
 
@@ -166,7 +166,7 @@ This is the song probably every osu! player knows, "Bad apple!!", only it is rem
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::Shoegazer::{ user=2520707 }, [Lenfried-](https://osu.ppy.sh/users/5314573), ::Pope Gadget::{ user=2288341 } and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
+osu!mania Loved candidates were chosen by ::Shoegazer::{ user=2520707 }, ::Lenfried-::{ user=5314573 }, ::Pope Gadget::{ user=2288341 } and ::Toaph Daddy::{ user=7616811 }!
 
 ---
 
@@ -199,7 +199,7 @@ In addition to being relentlessly difficult, Nhelv is also fairly unique. Most h
 
 [![](/wiki/shared/news/2019-05-06-project-loved-week-of-may-5th/mania/4-stella-part-1.jpg)](https://osu.ppy.sh/community/forums/topics/904540)
 
-[Yanagawa Kazuki, Asano Hayato, Daisuke Achiwa - Stella \~Part 1\~](https://osu.ppy.sh/beatmapsets/337485#mania) by ::Kruzon::{ user=3808520 } and [Kaito-kun](https://osu.ppy.sh/users/4715184)\
+[Yanagawa Kazuki, Asano Hayato, Daisuke Achiwa - Stella \~Part 1\~](https://osu.ppy.sh/beatmapsets/337485#mania) by ::Kruzon::{ user=3808520 } and ::Kaito-kun::{ user=4715184 }\
 95 BPM, 3:11 | 9K 1.12★, 9K 1.62★, 9K 2.07★, 9K 2.40★, 9K 3.02★
 
 We have another 9K pick for this round! This time, it's Kruzon's Stella \~Part 1\~! Primarily functioning as a lower-difficulty spread, Stella is a fairly fast-paced flute instrumental with a top difficulty that features large chords, generous LN usages, and occasional symmetry with varying snap usages. It's quite simple, but most definitely fun! Anyone who's tried out 9K should definitely give this set a shot.
@@ -215,7 +215,7 @@ Get ready for some noodles because we're coming in hot with a very difficult O2J
 
 From everyone on the Project Loved team, we hope you enjoyed this week's selection, and are looking forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
-In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Toy::{ user=2757689 }, [Noffy](https://osu.ppy.sh/users/1541323), ::ThatsNotAName::{ user=9682904 }, [huu](https://osu.ppy.sh/users/6044237) and ::Ephemeral::{ user=102335 } for their miscellaneous help in managing Project Loved.
+In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Toy::{ user=2757689 }, ::Noffy::{ user=1541323 }, ::ThatsNotAName::{ user=9682904 }, ::huu::{ user=6044237 } and ::Ephemeral::{ user=102335 } for their miscellaneous help in managing Project Loved.
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! You can view the current submissions on the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0). For osu!mania, please use [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSeaGfoQNGMqw4qQcqRPItUZILh2fGwJR6ly6cZNY9OWPXkFhw/viewform) and [this Google sheet](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit) instead.
 

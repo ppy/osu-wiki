@@ -24,7 +24,7 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ## osu!
 
-osu! Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, [-Roxas](https://osu.ppy.sh/users/1986262), ::BeasttrollMC::{ user=3171691 }, [Bubbleman](https://osu.ppy.sh/users/5182050), ::fartownik::{ user=56917 } and [waywern2012](https://osu.ppy.sh/users/5870453)!
+osu! Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, ::-Roxas::{ user=1986262 }, ::BeasttrollMC::{ user=3171691 }, ::Bubbleman::{ user=5182050 }, ::fartownik::{ user=56917 } and ::waywern2012::{ user=5870453 }!
 
 ---
 
@@ -71,7 +71,7 @@ The core rhythm of this map is simple, focusing on almost non-stop triples, quin
 
 [![](/wiki/shared/news/2019-06-12-project-loved-week-of-june-9th/osu/6-jiyuu-e-no-sanka.jpg)](https://osu.ppy.sh/community/forums/topics/920514)
 
-[KISIDA KYODAN & THE AKEBOSI ROCKETS - Jiyuu e no Sanka](https://osu.ppy.sh/beatmapsets/75432#osu) by ::Nyquill::{ user=682935 } and [RLC](https://osu.ppy.sh/users/1047883)\
+[KISIDA KYODAN & THE AKEBOSI ROCKETS - Jiyuu e no Sanka](https://osu.ppy.sh/beatmapsets/75432#osu) by ::Nyquill::{ user=682935 } and ::RLC::{ user=1047883 }\
 296 BPM, 5:46 | 5.60★\
 *description written by ::fartownik::{ user=56917 }*
 
@@ -79,7 +79,7 @@ A classic from 2013 comes back to life 6 years later in this Project Loved round
 
 [![](/wiki/shared/news/2019-06-12-project-loved-week-of-june-9th/osu/7-denden-passion.jpg)](https://osu.ppy.sh/community/forums/topics/920513)
 
-[Dempagumi.inc - Denden Passion](https://osu.ppy.sh/beatmapsets/419144#osu) by ::Yoari::{ user=4160699 }, [Justaway12](https://osu.ppy.sh/users/4445283) and ::ErunamoJAZZ::{ user=1869764 }\
+[Dempagumi.inc - Denden Passion](https://osu.ppy.sh/beatmapsets/419144#osu) by ::Yoari::{ user=4160699 }, ::Justaway12::{ user=4445283 } and ::ErunamoJAZZ::{ user=1869764 }\
 157 BPM, 3:51 | 6.05★, 6.51★, 6.53★, 7.13★\
 *description written by ::BeasttrollMC::{ user=3171691 }*
 
@@ -111,13 +111,13 @@ We're back with another blast from the past, and this time it's dating all the w
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [iceOC](https://osu.ppy.sh/users/5482401), ::jyake::{ user=9099822 } and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
+osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::iceOC::{ user=5482401 }, ::jyake::{ user=9099822 } and ::nyanmi-1828::{ user=6866480 }!
 
 ---
 
 [![](/wiki/shared/news/2019-06-12-project-loved-week-of-june-9th/taiko/1-let-s-madness.jpg)](https://osu.ppy.sh/community/forums/topics/920508)
 
-[xi underground - Let's madness?](https://osu.ppy.sh/beatmapsets/350565#taiko) by ::Sayaka-::{ user=398275 } and [Krah](https://osu.ppy.sh/users/1436748)\
+[xi underground - Let's madness?](https://osu.ppy.sh/beatmapsets/350565#taiko) by ::Sayaka-::{ user=398275 } and ::Krah::{ user=1436748 }\
 246 BPM, 4:00 | 8.10★\
 *description written by ::-Kazu-::{ user=920861 }*
 
@@ -151,13 +151,13 @@ This week, we have a map by an SV mapper that Japan is proud to present: iceOC! 
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, [Tenshichan](https://osu.ppy.sh/users/1101600), ::Wesley::{ user=2407265 } and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
+osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, ::Tenshichan::{ user=1101600 }, ::Wesley::{ user=2407265 } and ::Yumeno Himiko::{ user=1806962 }!
 
 ---
 
 [![](/wiki/shared/news/2019-06-12-project-loved-week-of-june-9th/catch/1-augoeides.jpg)](https://osu.ppy.sh/community/forums/topics/920502)
 
-[DystopiaGround - AugoEidEs](https://osu.ppy.sh/beatmapsets/191008#fruits) by ::Serena-::{ user=2193444 }, [Minato Yukina](https://osu.ppy.sh/users/531253), ::ExGon::{ user=214187 }, [Frobe](https://osu.ppy.sh/users/670365), ::Last Bubble::{ user=1302259 } and [Spectator](https://osu.ppy.sh/users/702598)\
+[DystopiaGround - AugoEidEs](https://osu.ppy.sh/beatmapsets/191008#fruits) by ::Serena-::{ user=2193444 }, ::Minato Yukina::{ user=531253 }, ::ExGon::{ user=214187 }, ::Frobe::{ user=670365 }, ::Last Bubble::{ user=1302259 } and ::Spectator::{ user=702598 }\
 207 BPM, 6:51 | 6.08★, 6.14★\
 *description written by ::Wesley::{ user=2407265 }*
 
@@ -173,7 +173,7 @@ Another round, another first timer for the osu!catch Loved vote! Here we have Al
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::Shoegazer::{ user=2520707 }, [Lenfried-](https://osu.ppy.sh/users/5314573), ::Pope Gadget::{ user=2288341 } and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
+osu!mania Loved candidates were chosen by ::Shoegazer::{ user=2520707 }, ::Lenfried-::{ user=5314573 }, ::Pope Gadget::{ user=2288341 } and ::Toaph Daddy::{ user=7616811 }!
 
 ---
 
@@ -220,7 +220,7 @@ It's time to throw in another 7K marathon, and this time we're aiming for a blas
 
 From everyone on the Project Loved team, we hope you enjoyed this week's selection, and are looking forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
-In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Toy::{ user=2757689 }, [Noffy](https://osu.ppy.sh/users/1541323), ::ThatsNotAName::{ user=9682904 }, [huu](https://osu.ppy.sh/users/6044237) and ::Ephemeral::{ user=102335 } for their miscellaneous help in managing Project Loved.
+In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Toy::{ user=2757689 }, ::Noffy::{ user=1541323 }, ::ThatsNotAName::{ user=9682904 }, ::huu::{ user=6044237 } and ::Ephemeral::{ user=102335 } for their miscellaneous help in managing Project Loved.
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! You can view the current submissions on the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0). For osu!mania, please use [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSeaGfoQNGMqw4qQcqRPItUZILh2fGwJR6ly6cZNY9OWPXkFhw/viewform) and [this Google sheet](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit) instead.
 

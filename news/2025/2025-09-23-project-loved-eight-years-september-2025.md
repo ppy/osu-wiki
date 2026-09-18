@@ -37,7 +37,7 @@ Let's move onto the picks now!
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::bailie::{ user=7537133 }, [chiv](https://osu.ppy.sh/users/6701656), ::choke enough::{ user=1629553 }, [Froslass](https://osu.ppy.sh/users/19048), ::Lilian::{ user=8589120 }, [momoyo](https://osu.ppy.sh/users/12469536), and ::Skill::{ user=7802027 }!
+The osu! Loved candidates were chosen by ::bailie::{ user=7537133 }, ::chiv::{ user=6701656 }, ::choke enough::{ user=1629553 }, ::Froslass::{ user=19048 }, ::Lilian::{ user=8589120 }, ::momoyo::{ user=12469536 }, and ::Skill::{ user=7802027 }!
 
 **[Click here to download all of this round's osu! picks!](https://packs.ppy.sh/LR60%20-%20Project%20Loved:%20Eight%20Years%20/%20September%202025%20(osu!).zip)**
 
@@ -101,11 +101,11 @@ TIME TO LOCK IN... MAKE SURE TO VOTE YES!
 
 [![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1948001.jpg)](https://osu.ppy.sh/community/forums/topics/2132980)
 
-[Iyowa - Predation And Non Predation](https://osu.ppy.sh/beatmapsets/1948001#osu) by ::Sagu::{ user=4556542 }, [Mithia](https://osu.ppy.sh/users/9748438), ::nantokanaru::{ user=15241257 }, [oatmilk](https://osu.ppy.sh/users/16516525), ::Phten02::{ user=16678364 }, and [Wien Margarete](https://osu.ppy.sh/users/9334812)\
+[Iyowa - Predation And Non Predation](https://osu.ppy.sh/beatmapsets/1948001#osu) by ::Sagu::{ user=4556542 }, ::Mithia::{ user=9748438 }, ::nantokanaru::{ user=15241257 }, ::oatmilk::{ user=16516525 }, ::Phten02::{ user=16678364 }, and ::Wien Margarete::{ user=9334812 }\
 230 BPM, 3:18 | 2.60★ – 7.14★\
 *description written by ::Froslass::{ user=19048 }*
 
-For this month's Ranked Rejects, here's *Predation And Non Predation*, mapped by ::Sagu::{ user=4556542 }, [Mithia](https://osu.ppy.sh/users/9748438), ::nantokanaru::{ user=15241257 }, [oatmilk](https://osu.ppy.sh/users/16516525), ::Phten02::{ user=16678364 }, and [Wien Margarete](https://osu.ppy.sh/users/9334812).
+For this month's Ranked Rejects, here's *Predation And Non Predation*, mapped by ::Sagu::{ user=4556542 }, ::Mithia::{ user=9748438 }, ::nantokanaru::{ user=15241257 }, ::oatmilk::{ user=16516525 }, ::Phten02::{ user=16678364 }, and ::Wien Margarete::{ user=9334812 }.
 
 I found this map through a recommendation by a friend when I wanted to play high-BPM burst-intensive No Mod 7★ maps, and boy, does this map deliver. With a plentitude of bursts, complex 1/4 rhythms, streams, jumps and everything in between, this map is a perfect pick for a NM5 slot in a tournament. It definitely shocked me when I saw it never got ranked, but hey, Loved is a chance for a leaderboard at the very least!
 
@@ -161,7 +161,7 @@ so give it your love, and vote yes.
 
 [![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/2023706.jpg)](https://osu.ppy.sh/community/forums/topics/2132975)
 
-[yuigot + Hakushi Hasegawa - Oto ga Suru](https://osu.ppy.sh/beatmapsets/2023706#osu) by ::ak74::{ user=1231762 } and [pocket-](https://osu.ppy.sh/users/6808091)\
+[yuigot + Hakushi Hasegawa - Oto ga Suru](https://osu.ppy.sh/beatmapsets/2023706#osu) by ::ak74::{ user=1231762 } and ::pocket-::{ user=6808091 }\
 160 BPM, 4:00 | 6.97★, 7.31★\
 *description written by ::chiv::{ user=6701656 }*
 
@@ -184,7 +184,7 @@ This week's final *Wildcard* pick is ::ak74's::{ user=1231762 } [Oto ga Suru](ht
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::\_gt::{ user=8301957 }, [Gamelan4](https://osu.ppy.sh/users/9856910), ::K a y o k o::{ user=17664300 }, and [nevqr](https://osu.ppy.sh/users/14269506)!
+The osu!taiko Loved candidates were chosen by ::\_gt::{ user=8301957 }, ::Gamelan4::{ user=9856910 }, ::K a y o k o::{ user=17664300 }, and ::nevqr::{ user=14269506 }!
 
 **[Click here to download all of this round's osu!taiko picks!](https://packs.ppy.sh/LR59%20-%20Project%20Loved:%20Eight%20Years%20/%20September%202025%20(osu!taiko).zip)**
 
@@ -244,7 +244,7 @@ A bonus tip for later: if you ever encounter a Konpaku map with the diffname *An
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::LaviSorrow::{ user=9966768 }, [MILKAHOLIC](https://osu.ppy.sh/users/7620002), ::Realmaas::{ user=6567640 }, and [Secre](https://osu.ppy.sh/users/2306637)!
+The osu!catch Loved candidates were chosen by ::LaviSorrow::{ user=9966768 }, ::MILKAHOLIC::{ user=7620002 }, ::Realmaas::{ user=6567640 }, and ::Secre::{ user=2306637 }!
 
 **[Click here to download all of this round's osu!catch picks!](https://packs.ppy.sh/LR58%20-%20Project%20Loved:%20Eight%20Years%20/%20September%202025%20(osu!catch).zip)**
 
@@ -296,7 +296,7 @@ Now, in 2025, enough time has passed. With this map being now more iconic than w
 
 [![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/806903.jpg)](https://osu.ppy.sh/community/forums/topics/2132967)
 
-[LeaF - Aleph-0](https://osu.ppy.sh/beatmapsets/806903#fruits) by ::Sakary::{ user=2984583 }, [-Luminate](https://osu.ppy.sh/users/4778689), ::CLSW::{ user=531253 }, [Nelly](https://osu.ppy.sh/users/4741164), ::Phob::{ user=6069462 }, [Razor Sharp](https://osu.ppy.sh/users/3414261), and ::Summerleopard::{ user=8437630 }\
+[LeaF - Aleph-0](https://osu.ppy.sh/beatmapsets/806903#fruits) by ::Sakary::{ user=2984583 }, ::-Luminate::{ user=4778689 }, ::CLSW::{ user=531253 }, ::Nelly::{ user=4741164 }, ::Phob::{ user=6069462 }, ::Razor Sharp::{ user=3414261 }, and ::Summerleopard::{ user=8437630 }\
 250 BPM, 2:12 | 1.45★ – 7.59★\
 *description written by ::LaviSorrow::{ user=9966768 }*
 
@@ -311,7 +311,7 @@ Fun fact: while Sakary has contributed guest difficulties to 6 Loved mapsets, no
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::Carpihat::{ user=10085090 }, [elexire](https://osu.ppy.sh/users/9206093), ::LivelyPeninsula::{ user=11517895 }, [Maxus](https://osu.ppy.sh/users/4335785), ::Paturages::{ user=1375479 }, [SunApple](https://osu.ppy.sh/users/11817622), ::taba2::{ user=7850508 }, and [Yuiesta](https://osu.ppy.sh/users/13953619)!
+The osu!mania Loved candidates were chosen by ::Carpihat::{ user=10085090 }, ::elexire::{ user=9206093 }, ::LivelyPeninsula::{ user=11517895 }, ::Maxus::{ user=4335785 }, ::Paturages::{ user=1375479 }, ::SunApple::{ user=11817622 }, ::taba2::{ user=7850508 }, and ::Yuiesta::{ user=13953619 }!
 
 **[Click here to download all of this round's osu!mania picks!](https://packs.ppy.sh/LR57%20-%20Project%20Loved:%20Eight%20Years%20/%20September%202025%20(osu!mania).zip)**
 
@@ -383,7 +383,7 @@ Overall, this serves as a great introduction to DZ's general approach to tech-y 
 
 [![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1788538.jpg)](https://osu.ppy.sh/community/forums/topics/2132962)
 
-[Chime - Rainbow Rave Parade](https://osu.ppy.sh/beatmapsets/1788538#mania) by ::Amerom::{ user=5691061 } and [Guilhermeziat](https://osu.ppy.sh/users/3661387)\
+[Chime - Rainbow Rave Parade](https://osu.ppy.sh/beatmapsets/1788538#mania) by ::Amerom::{ user=5691061 } and ::Guilhermeziat::{ user=3661387 }\
 150 BPM, 3:27 | 5.36★, 5.36★, 5.36★\
 *description written by ::elexire::{ user=9206093 }*
 
@@ -431,7 +431,7 @@ And don't forget to cast a precious vote for this mapper making their first appe
 
 [![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1680356.jpg)](https://osu.ppy.sh/community/forums/topics/2132959)
 
-[Chinoi - Kyu-kurarin](https://osu.ppy.sh/beatmapsets/1680356#mania) by ::ruka::{ user=6117525 } and [Lung_P](https://osu.ppy.sh/users/8271308)\
+[Chinoi - Kyu-kurarin](https://osu.ppy.sh/beatmapsets/1680356#mania) by ::ruka::{ user=6117525 } and ::Lung\1P::{ user=8271308 }\
 220 BPM, 3:34 | 6.25★, 8.15★\
 *description written by ::Carpihat::{ user=10085090 }*
 

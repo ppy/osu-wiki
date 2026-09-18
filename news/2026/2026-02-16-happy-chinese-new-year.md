@@ -33,9 +33,9 @@ To commemorate these efforts, we've put together a video featuring **China's Top
 
 ## A Year in Mapping
 
-A Year in Mapping (AYIM) was originally a cornerstone of the [Mapper's Choice Awards (MCA)](https://mca.corsace.io/), designed to curate annual ranking data and provide personalised feedback for every mapper who had a set ranked that year. After the project entered a hiatus in 2018, ::kanor::{ user=3131236 } took the initiative in 2020 to launch the first "Chinese Mapper Annual Review", reigniting the flame for this community tradition. Following the stewardship of ::Antigen::{ user=10507557 } and [Arsalan](https://osu.ppy.sh/users/7660383) in 2023, the torch was passed to us (::MarioKartya::{ user=16833061 }, [AstralXynsm](https://osu.ppy.sh/users/16022233) and ::Luval::{ user=22414293 }) in 2024 to carry on the legacy of AYIM within the Chinese mapping community.
+A Year in Mapping (AYIM) was originally a cornerstone of the [Mapper's Choice Awards (MCA)](https://mca.corsace.io/), designed to curate annual ranking data and provide personalised feedback for every mapper who had a set ranked that year. After the project entered a hiatus in 2018, ::kanor::{ user=3131236 } took the initiative in 2020 to launch the first "Chinese Mapper Annual Review", reigniting the flame for this community tradition. Following the stewardship of ::Antigen::{ user=10507557 } and ::Arsalan::{ user=7660383 } in 2023, the torch was passed to us (::MarioKartya::{ user=16833061 }, ::AstralXynsm::{ user=16022233 } and ::Luval::{ user=22414293 }) in 2024 to carry on the legacy of AYIM within the Chinese mapping community.
 
-2025 has been a vibrant year, with a total of **143 Chinese mappers** successfully getting their maps ranked. Most notably, we celebrated **22 debutant mappers** who achieved their very first ranked sets this year — a heartening increase compared to the previous year. Meanwhile, the return of veteran mappers such as ::cRyo\1iceeicee\1::{ user=835998 } and [Chloe](https://osu.ppy.sh/users/787542) brought fresh surprises to the community. We are truly honoured to capture every highlight and milestone within the Chinese mapping scene through this event.
+2025 has been a vibrant year, with a total of **143 Chinese mappers** successfully getting their maps ranked. Most notably, we celebrated **22 debutant mappers** who achieved their very first ranked sets this year — a heartening increase compared to the previous year. Meanwhile, the return of veteran mappers such as ::cRyo\1iceeicee\1::{ user=835998 } and ::Chloe::{ user=787542 } brought fresh surprises to the community. We are truly honoured to capture every highlight and milestone within the Chinese mapping scene through this event.
 
 This time, we cordially invite everyone to send New Year's wishes or a shout-out to your favourite Chinese mappers for their incredible work over the past year. Please share your thoughts via [this form](https://docs.google.com/forms/d/e/1FAIpQLScT-pDozmZtLtl6BfBpFtlNC4e_TM3HgbDy-3nc7DktB9b3Sg/viewform?usp=publish-editor)!
 
@@ -208,7 +208,7 @@ My mom used to make the best lamb dumplings in the world, doing the dough and fi
 
 ![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/yfpw.png)
 
-Both ::yf\1bmp::{ user=1243669 } and [pw384](https://osu.ppy.sh/users/1343783) are veteran figures who have significantly shaped the identity of "Chinese Mapping". While yf_bmp is a highly respected veteran known for his deep legacy, pw384 is recognised for his long-standing ability to evolve alongside the ever-changing trends of the scene.
+Both ::yf\1bmp::{ user=1243669 } and ::pw384::{ user=1343783 } are veteran figures who have significantly shaped the identity of "Chinese Mapping". While yf_bmp is a highly respected veteran known for his deep legacy, pw384 is recognised for his long-standing ability to evolve alongside the ever-changing trends of the scene.
 
 <div class="news-chat-quote__text-container">
 
@@ -234,7 +234,7 @@ In the osu! community, we often discuss "Chinese Mapping" as a distinct style. A
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/1243669">yf_bmp</a></p> 
   
-Regarding Chinese Mapping, I believe that it evolved from the strong structural focus led by ::tsuka::{ user=106767 }, [kiddly](https://osu.ppy.sh/users/74937), and ::fanzhen0019::{ user=418699 }, alongside other influential branches like ::NatsumeRin::{ user=151679 } and [LKs](https://osu.ppy.sh/users/150768). In the "modern" era, ::Skystar::{ user=873961 } played a pivotal role; he studied a lot of Chinese styles — I recall him mentioning how his [Rohi - Kakuzetsu Thanatos](https://osu.ppy.sh/beatmapsets/76396#osu/215906) was sent back for revisions multiple times by NatsumeRin, which heavily influenced his early work. fanzhen0019 also remains a cornerstone, as he has continuously reinvented himself from the early days to now, maintaining his status as a benchmark. If we’re talking about the modern era, since mapping has become highly saturated, it’s really hard to define Chinese mapping as a single person’s style. However, I do believe there are the following defining traits.
+Regarding Chinese Mapping, I believe that it evolved from the strong structural focus led by ::tsuka::{ user=106767 }, ::kiddly::{ user=74937 }, and ::fanzhen0019::{ user=418699 }, alongside other influential branches like ::NatsumeRin::{ user=151679 } and ::LKs::{ user=150768 }. In the "modern" era, ::Skystar::{ user=873961 } played a pivotal role; he studied a lot of Chinese styles — I recall him mentioning how his [Rohi - Kakuzetsu Thanatos](https://osu.ppy.sh/beatmapsets/76396#osu/215906) was sent back for revisions multiple times by NatsumeRin, which heavily influenced his early work. fanzhen0019 also remains a cornerstone, as he has continuously reinvented himself from the early days to now, maintaining his status as a benchmark. If we’re talking about the modern era, since mapping has become highly saturated, it’s really hard to define Chinese mapping as a single person’s style. However, I do believe there are the following defining traits.
   
 First of all is the structural logic — a logic present in both rhythm and visuals. Every slider and circle has a concrete reason for its placement and orientation; it's never arbitrary. The rhythm is chosen with intent, maintaining internal consistency from start to finish. It's inherently logical. Another hallmark is Playability. A commonality among these pioneers is their experience with other rhythm games, especially arcade ones. They draw from commercial rhythm game design — learning how to make a map "addictive", how to balance complexity with non-traditional rhythms, and how to create "peaks" that make players want to hit that retry button again and again.
   
@@ -340,7 +340,7 @@ This year we're hoping to organise more collaborations at larger scales to prese
 
 ![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/imochiv.png)
 
-::Imokora::{ user=2472609 } and [chiv](https://osu.ppy.sh/users/6701656) are key staff members who provide the backbone for the tournament scene. Imokora is a tireless pillar within the Chinese-speaking community, while chiv serves as a vital bridge, lending his international expertise to support and elevate local tournaments.
+::Imokora::{ user=2472609 } and ::chiv::{ user=6701656 } are key staff members who provide the backbone for the tournament scene. Imokora is a tireless pillar within the Chinese-speaking community, while chiv serves as a vital bridge, lending his international expertise to support and elevate local tournaments.
 
 <div class="news-chat-quote__text-container">
 
@@ -377,7 +377,7 @@ The contrast between international tournaments and Chinese region-locked ones sh
 
 There are also several figureheads in the Chinese community who've set a strong standard for respect and quality through their dedication and professionalism. The lolol squad and Crystal have built a long-standing tournament presence that continues to shape the scene. 
 
-At the same time, many mappers help support and elevate the community, including ::Chaoslitz::{ user=3621552 }, [Garden](https://osu.ppy.sh/users/2849992), and ::Ryuusei Aika::{ user=7777875 }. Organisers like ::FcEazy::{ user=7825227 } and [Sakura006](https://osu.ppy.sh/users/10365024) also set a gold standard for tournament organisation. With so many people pushing things forward, it's no surprise to see the bar being raised with every experience.
+At the same time, many mappers help support and elevate the community, including ::Chaoslitz::{ user=3621552 }, ::Garden::{ user=2849992 }, and ::Ryuusei Aika::{ user=7777875 }. Organisers like ::FcEazy::{ user=7825227 } and ::Sakura006::{ user=10365024 } also set a gold standard for tournament organisation. With so many people pushing things forward, it's no surprise to see the bar being raised with every experience.
   
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7825227" style="background-image: url('/wiki/shared/avatars/FcEazy.jpg')"></a>
 

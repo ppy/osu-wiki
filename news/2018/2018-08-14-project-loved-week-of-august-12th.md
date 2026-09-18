@@ -28,7 +28,7 @@ Let's jump into the maps!
 
 ## osu!
 
-osu! Loved candidates were chosen by ::Toy::{ user=2757689 } and [DigitalHypno](https://osu.ppy.sh/users/4384207)!
+osu! Loved candidates were chosen by ::Toy::{ user=2757689 } and ::DigitalHypno::{ user=4384207 }!
 
 ---
 
@@ -48,7 +48,7 @@ A bit of a break from the high-star madness, this popular mapset by Zer0-, sitti
 
 [![](/wiki/shared/news/2018-08-12-project-loved-week-of-august-12th/osu/i-m-getting-married-to-an-anime-girl.jpg)](https://osu.ppy.sh/community/forums/topics/788666)
 
-[Egor Nuts - I'm getting married to an anime girl](https://osu.ppy.sh/beatmapsets/745388) by ::XenjeS::{ user=10166905 }, [dima21](https://osu.ppy.sh/users/8185954), ::edgar456::{ user=11510199 } and [TmacBoris](https://osu.ppy.sh/users/7815424)\
+[Egor Nuts - I'm getting married to an anime girl](https://osu.ppy.sh/beatmapsets/745388) by ::XenjeS::{ user=10166905 }, ::dima21::{ user=8185954 }, ::edgar456::{ user=11510199 } and ::TmacBoris::{ user=7815424 }\
 *written by ::Toy::{ user=2757689 }*
 
 It's been a bit surprising watching this mapset soar up in favorite counts from when it was first submitted for Loved. Currently sitting at over 435 favorites, this Russian song is about a tragic love. A son is apologizing to his mother that he is marrying an anime girl. If that's not the kind of gut-wrenching drama you expect from Loved, there's not much here for you. Each difficulty is by a different mapper, including dima21, edgar456 and TmacBoris. Enjoy the spread of this quickly-rising jump mapset!
@@ -69,7 +69,7 @@ You may know this mapset possibly only because of that crazy clip of ::firebat92
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::Backfire::{ user=263110 }, [Gezoda](https://osu.ppy.sh/users/481582), ::iceOC::{ user=5482401 } and [-Kazu-](https://osu.ppy.sh/users/920861)! This week, all osu!taiko beatmap descriptions were written by ::Backfire::{ user=263110 }.
+osu!taiko Loved candidates were chosen by ::Backfire::{ user=263110 }, ::Gezoda::{ user=481582 }, ::iceOC::{ user=5482401 } and ::-Kazu-::{ user=920861 }! This week, all osu!taiko beatmap descriptions were written by ::Backfire::{ user=263110 }.
 
 ---
 
@@ -87,7 +87,7 @@ Perthed Again has grown into a fan favorite over the years as a song, and it's n
 
 [![](/wiki/shared/news/2018-08-12-project-loved-week-of-august-12th/taiko/cafe-de-kemomimi-loli.jpg)](https://osu.ppy.sh/community/forums/topics/788673)
 
-[katagiri - cafe de kemomimi loli](https://osu.ppy.sh/beatmapsets/792135) by ::Soukun1shiki::{ user=10196449 } and [KitajimaYN](https://osu.ppy.sh/users/2250574)
+[katagiri - cafe de kemomimi loli](https://osu.ppy.sh/beatmapsets/792135) by ::Soukun1shiki::{ user=10196449 } and ::KitajimaYN::{ user=2250574 }
 
 A personal favorite of mine, and a clear hidden gem of mapping that's came out this year, cafe de kemomimi loli stands tall as not only one of the most enjoyable maps, but also songs of the year. This breakcore track features musical cameos from artists like Morimori Atsushi and even osu!'s very own "dark cat" around the 2:15 mark! This fun but gritty track gets nailed in the mapping department, with two very intense but rhythmically different difficulties from newcomer Soukun1shiki and veteran KitajimaYN. The background is also a nice touch, as it's personally illustrated by Soukun!
 
@@ -107,7 +107,7 @@ A returning choice from Round 3 of Project Loved, this map was featured in the o
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by ::Zak::{ user=1375955 }, [Tenshichan](https://osu.ppy.sh/users/1101600), ::Sartan::{ user=4100941 } and [Ascendance](https://osu.ppy.sh/users/2931883)! This week, all osu!catch beatmap descriptions were written by ::Sartan::{ user=4100941 }.
+osu!catch Loved candidates were chosen by ::Zak::{ user=1375955 }, ::Tenshichan::{ user=1101600 }, ::Sartan::{ user=4100941 } and ::Ascendance::{ user=2931883 }! This week, all osu!catch beatmap descriptions were written by ::Sartan::{ user=4100941 }.
 
 ---
 
@@ -125,7 +125,7 @@ It has been a while since the osu!catch Loved vote has seen some metal, but toda
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by ::Kamikaze::{ user=2124783 }, [Pope Gadget](https://osu.ppy.sh/users/2288341), ::aitor98::{ user=3154852 }, [TheToaphster](https://osu.ppy.sh/users/7616811) and ::\_underjoy::{ user=2235750 }!
+osu!mania Loved candidates were chosen by ::Kamikaze::{ user=2124783 }, ::Pope Gadget::{ user=2288341 }, ::aitor98::{ user=3154852 }, ::TheToaphster::{ user=7616811 } and ::\_underjoy::{ user=2235750 }!
 
 ---
 
@@ -138,7 +138,7 @@ Holy heck, Icy made something spicy! This is a renowned Stepmania classic made m
 
 [![](/wiki/shared/news/2018-08-12-project-loved-week-of-august-12th/mania/euclid.jpg)](https://osu.ppy.sh/community/forums/topics/788688)
 
-[Function Phantom - Euclid](https://osu.ppy.sh/beatmapsets/658097) by ::juankristal::{ user=443656 } and [XeoStyle](https://osu.ppy.sh/users/3377280)\
+[Function Phantom - Euclid](https://osu.ppy.sh/beatmapsets/658097) by ::juankristal::{ user=443656 } and ::XeoStyle::{ user=3377280 }\
 *written by ::\_underjoy::{ user=2235750 }*
 
 What happens when a long note specialist joins forces with a metalhead? You get Euclid by Function Phantom (who is, by the way, one of osu! featured artists), a map both brutal and fascinating.
@@ -154,7 +154,7 @@ Continuing on, we introduce ecafree2 to the Loved section with his chart for Nin
 
 [![](/wiki/shared/news/2018-08-12-project-loved-week-of-august-12th/mania/second-run-core-mix.jpg)](https://osu.ppy.sh/community/forums/topics/788690)
 
-[Nauts - Second Run (Core Mix)](https://osu.ppy.sh/beatmapsets/504091) by ::Reba::{ user=3087654 } and [Wonki](https://osu.ppy.sh/users/7898495)\
+[Nauts - Second Run (Core Mix)](https://osu.ppy.sh/beatmapsets/504091) by ::Reba::{ user=3087654 } and ::Wonki::{ user=7898495 }\
 *written by ::\_underjoy::{ user=2235750 }*
 
 Reba is known for his simple and effective long note style, and Second Run by Nauts is probably one of the best examples of his mapping proficiency. This mapset was a part of osu!mania 7K World Cup finals map pool.
@@ -179,7 +179,7 @@ The next map in the list goes by the name of Black Lotus, and it's made by Rain-
 
 [![](/wiki/shared/news/2018-08-12-project-loved-week-of-august-12th/mania/madpakke.jpg)](https://osu.ppy.sh/community/forums/topics/788693)
 
-[CELLON. - Madpakke](https://osu.ppy.sh/beatmapsets/304248) by ::\1 C r a c k \1::{ user=3628274 }, [richardfeder](https://osu.ppy.sh/users/2446000) and ::Kuo Kyoka::{ user=2596306 }\
+[CELLON. - Madpakke](https://osu.ppy.sh/beatmapsets/304248) by ::\1 C r a c k \1::{ user=3628274 }, ::richardfeder::{ user=2446000 } and ::Kuo Kyoka::{ user=2596306 }\
 *written by ::Kamikaze::{ user=2124783 }*
 
 We're finishing the list with a bit of a classic. Madpakke is a mapset that's been going around since forever, a 4&7K mapset with 4K difficulties made by \[ C r a c k \] and 7K difficulties made by richardfeder and Kuo Kyoka. This set is interesting, as it takes the song's very unique and dynamic nature and showcases it through its patterning really well.

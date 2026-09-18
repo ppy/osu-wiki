@@ -52,7 +52,7 @@ We don't have any more news to share regarding Project Loved, so let's get into 
 
 ## osu!
 
-The osu! Loved candidates were chosen by ::Aistre::{ user=4879380 }, [Kingling](https://osu.ppy.sh/users/7010761), ::megumic::{ user=7537133 }, [Mismagius](https://osu.ppy.sh/users/19048), ::rHO::{ user=1629553 }, [Skill](https://osu.ppy.sh/users/7802027), and ::Wixonater::{ user=10083084 }!
+The osu! Loved candidates were chosen by ::Aistre::{ user=4879380 }, ::Kingling::{ user=7010761 }, ::megumic::{ user=7537133 }, ::Mismagius::{ user=19048 }, ::rHO::{ user=1629553 }, ::Skill::{ user=7802027 }, and ::Wixonater::{ user=10083084 }!
 
 <div align="center">
   <video width="95%" controls>
@@ -64,7 +64,7 @@ The osu! Loved candidates were chosen by ::Aistre::{ user=4879380 }, [Kingling](
 
 [![](/wiki/shared/news/2023-08-18-project-loved-august-2023/1185696.jpg)](https://osu.ppy.sh/community/forums/topics/1809712)
 
-[t+pazolite - Tempestissimo](https://osu.ppy.sh/beatmapsets/1185696#osu) by ::Shru::{ user=6304675 } and [CyberX](https://osu.ppy.sh/users/2156370)\
+[t+pazolite - Tempestissimo](https://osu.ppy.sh/beatmapsets/1185696#osu) by ::Shru::{ user=6304675 } and ::CyberX::{ user=2156370 }\
 231 BPM, 2:17 | 2.20★ – 8.29★\
 *description written by ::Kingling::{ user=7010761 }*
 
@@ -86,11 +86,11 @@ You might have seen this map back when ::Vaxei::{ user=4787150 } set his iconic 
 
 [![](/wiki/shared/news/2023-08-18-project-loved-august-2023/371016.jpg)](https://osu.ppy.sh/community/forums/topics/1809710)
 
-[Camellia - farewell to today](https://osu.ppy.sh/beatmapsets/371016#osu) by ::Alumetorz::{ user=1145984 } and [Avena](https://osu.ppy.sh/users/2198472)\
+[Camellia - farewell to today](https://osu.ppy.sh/beatmapsets/371016#osu) by ::Alumetorz::{ user=1145984 } and ::Avena::{ user=2198472 }\
 170 BPM, 5:15 | 6.29★\
 *description written by ::Aistre::{ user=4879380 }*
 
-Our *Small Spectacles* pick for August is a collaboration between two very familiar mappers, ::Alumetorz::{ user=1145984 } and [Avena](https://osu.ppy.sh/users/2198472) (previously known as Priti)! Being exceptionally known for their maps such as [Memme - Acid Burst](https://osu.ppy.sh/beatmapsets/302535#osu/678106) and [gmtn. (witch's slave) - furioso melodia](https://osu.ppy.sh/beatmapsets/280107#osu/633993), you can only expect an amazing fusion of a super clean and a super classic "2015-style" tech map. At 6.09★ and a little over 5 minutes, this map does not let down with the consistency. And better yet, you can jam out to this *Featured Artist* track by none other than [Camellia](https://osu.ppy.sh/beatmaps/artists/31)! d-_-b
+Our *Small Spectacles* pick for August is a collaboration between two very familiar mappers, ::Alumetorz::{ user=1145984 } and ::Avena::{ user=2198472 } (previously known as Priti)! Being exceptionally known for their maps such as [Memme - Acid Burst](https://osu.ppy.sh/beatmapsets/302535#osu/678106) and [gmtn. (witch's slave) - furioso melodia](https://osu.ppy.sh/beatmapsets/280107#osu/633993), you can only expect an amazing fusion of a super clean and a super classic "2015-style" tech map. At 6.09★ and a little over 5 minutes, this map does not let down with the consistency. And better yet, you can jam out to this *Featured Artist* track by none other than [Camellia](https://osu.ppy.sh/beatmaps/artists/31)! d-_-b
 
 If you want this map to have a leaderboard, like I so desperately do, make sure you visit the thread and leave your vote!
 
@@ -138,7 +138,7 @@ Gimmicks, a true rush.
 
 [![](/wiki/shared/news/2023-08-18-project-loved-august-2023/1742920.jpg)](https://osu.ppy.sh/community/forums/topics/1809706)
 
-[Hoshimachi Suisei - TALALALALALALALALALALALAAAAA LALAAAAAAAAAAAAA](https://osu.ppy.sh/beatmapsets/1742920#osu) by ::KecHik445::{ user=3621894 }, [\_HaxOr\_](https://osu.ppy.sh/users/10933605), ::bakery::{ user=9665030 }, [fujinn](https://osu.ppy.sh/users/11221442), ::HonigFNA::{ user=16138333 }, [iaport](https://osu.ppy.sh/users/2983193), ::KPMY::{ user=12464372 }, [Mahiru Shiina](https://osu.ppy.sh/users/13866023), ::NinjaWarotMC::{ user=10611631 }, and [OnLoong](https://osu.ppy.sh/users/13524541)\
+[Hoshimachi Suisei - TALALALALALALALALALALALAAAAA LALAAAAAAAAAAAAA](https://osu.ppy.sh/beatmapsets/1742920#osu) by ::KecHik445::{ user=3621894 }, ::\_HaxOr\_::{ user=10933605 }, ::bakery::{ user=9665030 }, ::fujinn::{ user=11221442 }, ::HonigFNA::{ user=16138333 }, ::iaport::{ user=2983193 }, ::KPMY::{ user=12464372 }, ::Mahiru Shiina::{ user=13866023 }, ::NinjaWarotMC::{ user=10611631 }, and ::OnLoong::{ user=13524541 }\
 208.25 BPM, 0:29 | 1.26★ – 7.35★\
 *description written by ::Wixonater::{ user=10083084 }*
 
@@ -156,11 +156,11 @@ Chuw cha➚rot chirit tweet tweet➘ tweet➚
 
 [![](/wiki/shared/news/2023-08-18-project-loved-august-2023/197212.jpg)](https://osu.ppy.sh/community/forums/topics/1809705)
 
-[MitiS - Breezes](https://osu.ppy.sh/beatmapsets/197212#osu) by ::galvenize::{ user=381444 } and [Qordee](https://osu.ppy.sh/users/2892601)\
+[MitiS - Breezes](https://osu.ppy.sh/beatmapsets/197212#osu) by ::galvenize::{ user=381444 } and ::Qordee::{ user=2892601 }\
 170 BPM, 4:09 | 4.73★, 5.01★\
 *description written by ::rHO::{ user=1629553 }*
 
-This month's Chill Champions pick will be... MitiS' [Breezes](https://osu.ppy.sh/beatmapsets/197212#osu) by ::galvenize::{ user=381444 } and [Qordee](https://osu.ppy.sh/users/2892601).
+This month's Chill Champions pick will be... MitiS' [Breezes](https://osu.ppy.sh/beatmapsets/197212#osu) by ::galvenize::{ user=381444 } and ::Qordee::{ user=2892601 }.
 
 As always, simplicity runs a long way. If you've been around for quite a while, I'm sure these DnB mapsets are not unfamiliar to you — the galvenize classics. These mappers show what it's like to map some chill drum and bass in true *galvenize fashion*, with difficulties sitting shy only at 4.73★ and 5.01★. Put your guards down, and let your cursor float, loosen up your tapping fingers, and settle down for something less chaotic for once — which is what this mapset is perfect for.
 
@@ -207,7 +207,7 @@ No further explanation needed. Go `!mp make` your lobby and run up `!mp map 2569
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, [aceticke](https://osu.ppy.sh/users/8838763), ::Boaz::{ user=13302996 }, [Eriha](https://osu.ppy.sh/users/16320311), ::Gamelan4::{ user=9856910 }, [Horiiizon](https://osu.ppy.sh/users/8071438), ::ler1211::{ user=19901680 }, and [Sebola](https://osu.ppy.sh/users/15821708)!
+The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::aceticke::{ user=8838763 }, ::Boaz::{ user=13302996 }, ::Eriha::{ user=16320311 }, ::Gamelan4::{ user=9856910 }, ::Horiiizon::{ user=8071438 }, ::ler1211::{ user=19901680 }, and ::Sebola::{ user=15821708 }!
 
 <div align="center">
   <video width="95%" controls>
@@ -253,7 +253,7 @@ I definitely recommend giving this map a try if you are into tech challenges. Pe
 
 [![](/wiki/shared/news/2023-08-18-project-loved-august-2023/1339179.jpg)](https://osu.ppy.sh/community/forums/topics/1809698)
 
-[TUYU - It's Raining After All](https://osu.ppy.sh/beatmapsets/1339179#taiko) by ::Jerry::{ user=605973 }, [\_Rise](https://osu.ppy.sh/users/5217107), ::A-40::{ user=14510301 }, [cdh](https://osu.ppy.sh/users/2403621), ::Hivie::{ user=14102976 }, [Jaltzu](https://osu.ppy.sh/users/2597417), ::taiko\1maniac1811::{ user=595764 }, [Waribashi](https://osu.ppy.sh/users/2250574), ::X a v y::{ user=3738344 }, and [yassu-](https://osu.ppy.sh/users/7095592)\
+[TUYU - It's Raining After All](https://osu.ppy.sh/beatmapsets/1339179#taiko) by ::Jerry::{ user=605973 }, ::\_Rise::{ user=5217107 }, ::A-40::{ user=14510301 }, ::cdh::{ user=2403621 }, ::Hivie::{ user=14102976 }, ::Jaltzu::{ user=2597417 }, ::taiko\1maniac1811::{ user=595764 }, ::Waribashi::{ user=2250574 }, ::X a v y::{ user=3738344 }, and ::yassu-::{ user=7095592 }\
 130 – 175 BPM, 34:55 | 3.04★ – 6.66★\
 *description written by ::ler1211::{ user=19901680 }*
 
@@ -279,11 +279,11 @@ The harder difficulty "Kill Me Faster!!" is a truly brutal speed map, with the B
 
 [![](/wiki/shared/news/2023-08-18-project-loved-august-2023/1744775.jpg)](https://osu.ppy.sh/community/forums/topics/1809695)
 
-[J-CORE SLi//CER - "Ongaku purode\~yusa" no heikin-tekina seishin jotai](https://osu.ppy.sh/beatmapsets/1744775#taiko) by ::Waribashi::{ user=2250574 } and [Backfire](https://osu.ppy.sh/users/263110)\
+[J-CORE SLi//CER - "Ongaku purode\~yusa" no heikin-tekina seishin jotai](https://osu.ppy.sh/beatmapsets/1744775#taiko) by ::Waribashi::{ user=2250574 } and ::Backfire::{ user=263110 }\
 250 BPM, 4:50 | 7.21★, 8.22★\
 *description written by ::-Kazu-::{ user=920861 }*
 
-Originally made as a commission for [TWC 2022](/wiki/Tournaments/TWC/2022), this insane collaboration effort by ::Backfire::{ user=263110 } and [Waribashi](https://osu.ppy.sh/users/2250574) (a.k.a. KTYN) brought to the table one of the most difficult "consistency" maps out there, and considering the multitude of finger-twisting patterns and the nerve-wracking density of notes, it's quite obvious this is up to Grand Finals levels.
+Originally made as a commission for [TWC 2022](/wiki/Tournaments/TWC/2022), this insane collaboration effort by ::Backfire::{ user=263110 } and ::Waribashi::{ user=2250574 } (a.k.a. KTYN) brought to the table one of the most difficult "consistency" maps out there, and considering the multitude of finger-twisting patterns and the nerve-wracking density of notes, it's quite obvious this is up to Grand Finals levels.
 
 But for those who are quite up there but still far from playing at a TWC Grand Finals, *Waribashi* also includes his own *HELL//ONI* difficulty featuring much more forgiving patterns and very few unfair patterns, while also retaining much of the hype and stamina requirement of the original.
 
@@ -313,7 +313,7 @@ For everyone who likes challenging streams, check out this one!
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by ::Dahcreeper::{ user=6926006 }, [fuhie](https://osu.ppy.sh/users/7620002), ::Kasumi-sama::{ user=6177263 }, [Secre](https://osu.ppy.sh/users/2306637), and ::Wesley::{ user=2407265 }!
+The osu!catch Loved candidates were chosen by ::Dahcreeper::{ user=6926006 }, ::fuhie::{ user=7620002 }, ::Kasumi-sama::{ user=6177263 }, ::Secre::{ user=2306637 }, and ::Wesley::{ user=2407265 }!
 
 <div align="center">
   <video width="95%" controls>
@@ -363,7 +363,7 @@ Slowing us down a little bit here from the above, we've got ::F D Flourite::{ us
 
 [![](/wiki/shared/news/2023-08-18-project-loved-august-2023/1153119.jpg)](https://osu.ppy.sh/community/forums/topics/1809689)
 
-[Camellia feat. Nanahira - PAPAYAPA BASS ("BASSE DE NANA" Long ver.)](https://osu.ppy.sh/beatmapsets/1153119#fruits) by ::Yumeno Himiko::{ user=1806962 }, [Jemzuu](https://osu.ppy.sh/users/7890134), and ::Xinnoh::{ user=4236057 }\
+[Camellia feat. Nanahira - PAPAYAPA BASS ("BASSE DE NANA" Long ver.)](https://osu.ppy.sh/beatmapsets/1153119#fruits) by ::Yumeno Himiko::{ user=1806962 }, ::Jemzuu::{ user=7890134 }, and ::Xinnoh::{ user=4236057 }\
 147 BPM, 4:57 | 3.24★, 4.64★, 5.62★, 7.12★\
 *description written by ::Kasumi-sama::{ user=6177263 }*
 
@@ -377,7 +377,7 @@ No big challenge here, just enjoy yourself.
 
 [![](/wiki/shared/news/2023-08-18-project-loved-august-2023/288571.jpg)](https://osu.ppy.sh/community/forums/topics/1809688)
 
-[Hoshizora Rin (CV.Iida Riho) & Nishikino Maki (CV.Pile) - Beat in Angel](https://osu.ppy.sh/beatmapsets/288571#fruits) by ::GAMI::{ user=3985265 }, [CLSW](https://osu.ppy.sh/users/531253), ::sxy62146214::{ user=8386591 }, and [Ymiir](https://osu.ppy.sh/users/3922569)\
+[Hoshizora Rin (CV.Iida Riho) & Nishikino Maki (CV.Pile) - Beat in Angel](https://osu.ppy.sh/beatmapsets/288571#fruits) by ::GAMI::{ user=3985265 }, ::CLSW::{ user=531253 }, ::sxy62146214::{ user=8386591 }, and ::Ymiir::{ user=3922569 }\
 150 BPM, 2:29 | 1.88★, 3.02★, 4.48★, 4.89★\
 *description written by ::Wesley::{ user=2407265 }*
 
@@ -407,7 +407,7 @@ Despite all this, I can definitely assure you that the enjoyment of this piece i
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by ::-NoName-::{ user=10400730 }, [kadoen](https://osu.ppy.sh/users/12780575), ::Mipha-::{ user=5767941 }, [Paturages](https://osu.ppy.sh/users/1375479), and ::Remuring::{ user=6522146 }!
+The osu!mania Loved candidates were chosen by ::-NoName-::{ user=10400730 }, ::kadoen::{ user=12780575 }, ::Mipha-::{ user=5767941 }, ::Paturages::{ user=1375479 }, and ::Remuring::{ user=6522146 }!
 
 <div align="center">
   <video width="95%" controls>
@@ -458,13 +458,13 @@ Coming from arguably his most popular *Etterna* pack, [Icy X](https://etternaonl
 
 [![](/wiki/shared/news/2023-08-18-project-loved-august-2023/298452.jpg)](https://osu.ppy.sh/community/forums/topics/1809683)
 
-[UNDEAD CORPORATION - Everything Will Freeze](https://osu.ppy.sh/beatmapsets/298452#mania) by ::Meggumi::{ user=5360699 }, [Aste-](https://osu.ppy.sh/users/4915137), ::bilqiscutee::{ user=3845961 }, [inbee](https://osu.ppy.sh/users/4319126), and ::Valentrixe::{ user=2794620 }\
+[UNDEAD CORPORATION - Everything Will Freeze](https://osu.ppy.sh/beatmapsets/298452#mania) by ::Meggumi::{ user=5360699 }, ::Aste-::{ user=4915137 }, ::bilqiscutee::{ user=3845961 }, ::inbee::{ user=4319126 }, and ::Valentrixe::{ user=2794620 }\
 240 BPM, 3:14 | 1.99★ – 6.08★\
 *description written by ::-NoName-::{ user=10400730 }*
 
 Here we go. You all know what this is.
 
-[Everything Will Freeze](https://osu.ppy.sh/beatmapsets/298452) is one of the most popular osu!mania graveyarded sets. This set is authored by ::Meggumi::{ user=5360699 }, [Aste-](https://osu.ppy.sh/users/4915137), ::bilqiscutee::{ user=3845961 }, [inbee](https://osu.ppy.sh/users/4319126), and ::Valentrixe::{ user=2794620 }.
+[Everything Will Freeze](https://osu.ppy.sh/beatmapsets/298452) is one of the most popular osu!mania graveyarded sets. This set is authored by ::Meggumi::{ user=5360699 }, ::Aste-::{ user=4915137 }, ::bilqiscutee::{ user=3845961 }, ::inbee::{ user=4319126 }, and ::Valentrixe::{ user=2794620 }.
 
 As an old popularity pick, this set is a blast to the past and is a 4K spread that you would typically see ranked in 2015–2016.
 
@@ -472,7 +472,7 @@ We know that many players (especially beginners) will enjoy this set despite the
 
 [![](/wiki/shared/news/2023-08-18-project-loved-august-2023/1380255.jpg)](https://osu.ppy.sh/community/forums/topics/1809682)
 
-[kei_iwata - Frontier Explorer](https://osu.ppy.sh/beatmapsets/1380255#mania) by ::MEIDAN::{ user=9600264 } and [8230](https://osu.ppy.sh/users/9950563)\
+[kei_iwata - Frontier Explorer](https://osu.ppy.sh/beatmapsets/1380255#mania) by ::MEIDAN::{ user=9600264 } and ::8230::{ user=9950563 }\
 100 – 140 BPM, 2:23 | 4.30★ – 6.97★\
 *description written by ::Silhoueska Elze::{ user=11517895 }*
 

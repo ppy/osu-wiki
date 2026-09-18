@@ -34,7 +34,7 @@
 | 圖池管理團隊 | ::{ flag=GB }:: ::Imperial Wolf::{ user=9080296 }、::{ flag=TW }:: ::Spy::{ user=1217122 }、::{ flag=CN }:: ::hans1999::{ user=6679329 } |
 | 直播裁判團隊 | ::{ flag=CN }:: ::aiyulu::{ user=189617 }、::{ flag=CN }:: ::Rasis::{ user=1209363 }、::{ flag=CN }:: ::Ookura Asahi::{ user=4786951 } |
 | 解說團隊 | ::{ flag=CN }:: ::hans1999::{ user=6679329 }、::{ flag=CN }:: ::Scslag::{ user=6705256 }、::{ flag=CN }:: ::Rasis::{ user=1209363 }、::{ flag=CN }:: ::644520858::{ user=5507069 }、::{ flag=CN }:: ::wuhuanmin::{ user=935322 } |
-| Wiki 制作、維護 | ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/kj415j45)、 ::{ flag=CN }:: ::Ookura Asahi::{ user=4786951 } |
+| Wiki 制作、維護 | ::{ flag=CN }:: ::kj415j45::{ user=9367540 }、 ::{ flag=CN }:: ::Ookura Asahi::{ user=4786951 } |
 
 ## 比賽直播間
 

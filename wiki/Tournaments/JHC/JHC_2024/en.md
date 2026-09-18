@@ -67,31 +67,31 @@ For solo teams, the prize of osu!supporter was doubled.
 
 |  | Team Name | Member(s) |
 | :-: | :-: | :-- |
-| 1 | 1 Man Army | ::LegendofLink::{ user=18423304 }, [Shinrisha](https://osu.ppy.sh/users/12173637) |
+| 1 | 1 Man Army | ::LegendofLink::{ user=18423304 }, ::Shinrisha::{ user=12173637 } |
 | 2 | 2007 Toyota Camry | ::\-slink\-::{ user=13155680 } |
-| 3 | adalah alat tempur mutakhir dari korea | ::nyawaa::{ user=10235085 }, [Lenny\_cL](https://osu.ppy.sh/users/12793583) |
+| 3 | adalah alat tempur mutakhir dari korea | ::nyawaa::{ user=10235085 }, ::Lenny\_cL::{ user=12793583 } |
 | 4 | AdrianLazer | ::AdrianLazer::{ user=10292643 } |
 | 5 | alone jacker | ::hel0l::{ user=28554005 } |
-| 6 | Amogus enjoyers | ::CrewposerAlusET::{ user=14700283 }, [thuypb2009](https://osu.ppy.sh/users/24291557) |
+| 6 | Amogus enjoyers | ::CrewposerAlusET::{ user=14700283 }, ::thuypb2009::{ user=24291557 } |
 | 7 | ANTI YAPPERS | ::Maijeraor::{ user=31003592 } |
 | 8 | Antijacker | ::\[Crz\]Xinyi2016::{ user=14213841 } |
 | 9 | aomdco | ::AomDCO::{ user=21072569 } |
-| 10 | AwakeGiant | ::Catcay12334::{ user=27308730 }, [jjjwiwi](https://osu.ppy.sh/users/30184594) |
+| 10 | AwakeGiant | ::Catcay12334::{ user=27308730 }, ::jjjwiwi::{ user=30184594 } |
 | 11 | Bert | ::Iobyagmi::{ user=17905269 } |
-| 12 | break is 143bpm | ::astal\_::{ user=32151196 }, [YoungBurger16](https://osu.ppy.sh/users/33833222) |
+| 12 | break is 143bpm | ::astal\_::{ user=32151196 }, ::YoungBurger16::{ user=33833222 } |
 | 13 | Buckbuck Monke | ::Halkas::{ user=29373725 } |
 | 14 | Chika Fujiwara Simp | ::trooperr::{ user=32028459 } |
-| 15 | choke gang | ::Tosai\_::{ user=3760209 }, [JayLye](https://osu.ppy.sh/users/14892447) |
+| 15 | choke gang | ::Tosai\_::{ user=3760209 }, ::JayLye::{ user=14892447 } |
 | 16 | choke99 | ::yoth99::{ user=15727775 } |
-| 17 | ETA | ::ime::{ user=11649450 }, [Truzko](https://osu.ppy.sh/users/9921804) |
-| 18 | fastest crashers | ::Rand0mwastaken::{ user=24449678 }, [RyanWong1216](https://osu.ppy.sh/users/19030562) |
-| 19 | FurryLover | ::kissnolook::{ user=11608591 }, [loki96k](https://osu.ppy.sh/users/22933961) |
-| 20 | GangWonDuo | ::Selitation::{ user=25311011 }, [ggeexx1](https://osu.ppy.sh/users/17494164) |
-| 21 | garfield exterminators if fortnite | ::Znow::{ user=15513303 }, [\[LS\]Mari](https://osu.ppy.sh/users/15270411) |
-| 22 | Handstream>Jack | ::Lotex09::{ user=14114899 }, [antip0is0n](https://osu.ppy.sh/users/8576168) |
-| 23 | hawk | ::Hawkfrost::{ user=15555328 }, [\[Paw\]Fish\_wood](https://osu.ppy.sh/users/31185655) |
+| 17 | ETA | ::ime::{ user=11649450 }, ::Truzko::{ user=9921804 } |
+| 18 | fastest crashers | ::Rand0mwastaken::{ user=24449678 }, ::RyanWong1216::{ user=19030562 } |
+| 19 | FurryLover | ::kissnolook::{ user=11608591 }, ::loki96k::{ user=22933961 } |
+| 20 | GangWonDuo | ::Selitation::{ user=25311011 }, ::ggeexx1::{ user=17494164 } |
+| 21 | garfield exterminators if fortnite | ::Znow::{ user=15513303 }, ::\[LS\]Mari::{ user=15270411 } |
+| 22 | Handstream>Jack | ::Lotex09::{ user=14114899 }, ::antip0is0n::{ user=8576168 } |
+| 23 | hawk | ::Hawkfrost::{ user=15555328 }, ::\[Paw\]Fish\_wood::{ user=31185655 } |
 | 24 | Hop on Lethal Company | ::paws at u::{ user=15608573 } |
-| 25 | hop on quaver | ::\-\-Dragon\-\-::{ user=11924624 }, [Reihynn](https://osu.ppy.sh/users/16630515) |
+| 25 | hop on quaver | ::\-\-Dragon\-\-::{ user=11924624 }, ::Reihynn::{ user=16630515 } |
 | 26 | hsod | ::hsod::{ user=15391485 } |
 | 27 | HTBL achang | ::dzq::{ user=23697335 } |
 | 28 | I don't have teammate \:sob\: | ::EliasGoku\_zk::{ user=24907290 } |
@@ -99,41 +99,41 @@ For solo teams, the prize of osu!supporter was doubled.
 | 30 | Idk help i suck | ::Gametytnt::{ user=26646928 } |
 | 31 | index.html | ::ERA Xuste::{ user=17989444 } |
 | 32 | Jack hater unite | ::Datnonameboi::{ user=14217761 } |
-| 33 | Jack Hunter | ::Raon2007::{ user=25850141 }, [Reflec](https://osu.ppy.sh/users/19255377) |
+| 33 | Jack Hunter | ::Raon2007::{ user=25850141 }, ::Reflec::{ user=19255377 } |
 | 34 | kiopm | ::\[LS\]Nemesis::{ user=20544648 } |
-| 35 | lsjx追逐梦想 | ::endterminal::{ user=20992774 }, [ohhhhhhhhhh](https://osu.ppy.sh/users/29591499) |
+| 35 | lsjx追逐梦想 | ::endterminal::{ user=20992774 }, ::ohhhhhhhhhh::{ user=29591499 } |
 | 36 | M | ::minhhuyosuer::{ user=19626270 } |
 | 37 | meow :3 | ::\[HD\]tapgame::{ user=20094344 } |
 | 38 | MyonMyon零轮游 | ::NaOHshenhuoFzzT::{ user=27074502 } |
-| 39 | OBLIKULIVO | ::MiniEgg\_23::{ user=25914360 }, [Abyss 0](https://osu.ppy.sh/users/24780565) |
+| 39 | OBLIKULIVO | ::MiniEgg\_23::{ user=25914360 }, ::Abyss 0::{ user=24780565 } |
 | 40 | onurun annesi | ::Heumrage::{ user=19664675 } |
 | 41 | OsuBadPlayEtterna | ::\_jpg::{ user=17300655 } |
-| 42 | ovo | ::Amisher::{ user=21400407 }, [ovo\_seshirira](https://osu.ppy.sh/users/32825526) |
-| 43 | Polygon | ::Achino::{ user=13349388 }, [yuukituk](https://osu.ppy.sh/users/11998955) |
-| 44 | Pookie Bears | ::\[KC\]CruB::{ user=22708257 }, [ComboCatt](https://osu.ppy.sh/users/29968719) |
-| 45 | SESBIAN LEX | ::Unitori\-::{ user=15772814 }, [Rxizuna](https://osu.ppy.sh/users/16055641) |
+| 42 | ovo | ::Amisher::{ user=21400407 }, ::ovo\_seshirira::{ user=32825526 } |
+| 43 | Polygon | ::Achino::{ user=13349388 }, ::yuukituk::{ user=11998955 } |
+| 44 | Pookie Bears | ::\[KC\]CruB::{ user=22708257 }, ::ComboCatt::{ user=29968719 } |
+| 45 | SESBIAN LEX | ::Unitori\-::{ user=15772814 }, ::Rxizuna::{ user=16055641 } |
 | 46 | Shangus | ::lianic::{ user=13975661 } |
 | 47 | soloist | ::Shirobi::{ user=18804586 } |
 | 48 | SV Player | ::\[Crz\]yomogi237::{ user=28571440 } |
 | 49 | Team White Dress | ::lonelyxvi::{ user=24133264 } |
 | 50 | Techno Music | ::neeko the rock::{ user=13471840 } |
-| 51 | THE TROLLERS | ::Takedown05::{ user=18060303 }, [\[GE\] Arthur](https://osu.ppy.sh/users/24122055) |
-| 52 | THE TRUTH OF NOCENT | ::ERA Veryi::{ user=13878539 }, [\[Crz\]Nickname](https://osu.ppy.sh/users/10817494) |
-| 53 | We can't late game | ::SHOKO \-::{ user=10279743 }, [MatchaLatte\-](https://osu.ppy.sh/users/15944956) |
-| 54 | We can't mid game | ::\- Rinmoz \-::{ user=16639144 }, [Freshky](https://osu.ppy.sh/users/11959687) |
-| 55 | wehehe | ::Eliminate::{ user=9169747 }, [myucchii](https://osu.ppy.sh/users/10072733) |
-| 56 | ♿🍔♿🀄♿ | ::\[GB\]Burger king::{ user=9841162 }, [MidRed](https://osu.ppy.sh/users/17641994) |
+| 51 | THE TROLLERS | ::Takedown05::{ user=18060303 }, ::\[GE\] Arthur::{ user=24122055 } |
+| 52 | THE TRUTH OF NOCENT | ::ERA Veryi::{ user=13878539 }, ::\[Crz\]Nickname::{ user=10817494 } |
+| 53 | We can't late game | ::SHOKO \-::{ user=10279743 }, ::MatchaLatte\-::{ user=15944956 } |
+| 54 | We can't mid game | ::\- Rinmoz \-::{ user=16639144 }, ::Freshky::{ user=11959687 } |
+| 55 | wehehe | ::Eliminate::{ user=9169747 }, ::myucchii::{ user=10072733 } |
+| 56 | ♿🍔♿🀄♿ | ::\[GB\]Burger king::{ user=9841162 }, ::MidRed::{ user=17641994 } |
 | 57 | まひろ隊 | ::tianzitanhua::{ user=32196635 } |
-| 58 | 不喜欢打叠 | ::GinaFujino::{ user=25864079 }, [XeOF4](https://osu.ppy.sh/users/22692196) |
+| 58 | 不喜欢打叠 | ::GinaFujino::{ user=25864079 }, ::XeOF4::{ user=22692196 } |
 | 59 | 原核生物队 | ::Infinityyyyyyyy::{ user=26233818 } |
-| 60 | 取队伍名称好难 | ::\[GB\]Lingyu::{ user=29743849 }, [Takoke](https://osu.ppy.sh/users/11628037) |
-| 61 | 大天空killers | ::\[Crz\]Yurucawaii::{ user=25682415 }, [\[Crz\]bubu](https://osu.ppy.sh/users/28251667) |
+| 60 | 取队伍名称好难 | ::\[GB\]Lingyu::{ user=29743849 }, ::Takoke::{ user=11628037 } |
+| 61 | 大天空killers | ::\[Crz\]Yurucawaii::{ user=25682415 }, ::\[Crz\]bubu::{ user=28251667 } |
 | 62 | 帝者战神白武男 | ::\_Glass\_::{ user=21239735 } |
 | 63 | 影流之主 | ::\[GB\]QAQlingjiu::{ user=27288518 } |
-| 64 | 快手极速版 | ::Na2He::{ user=20298842 }, [Az-Q](https://osu.ppy.sh/users/32613475) |
-| 65 | 憋笑 | ::chino3310::{ user=16626292 }, [\-Thirteen\-](https://osu.ppy.sh/users/34241263) |
-| 66 | 我先睡了队 | ::WELUVMYUKA::{ user=29949157 }, [chana](https://osu.ppy.sh/users/18375016) |
-| 67 | 打胶队 | ::qiaolilailai::{ user=13809991 }, [\-\-achang\-\-](https://osu.ppy.sh/users/31485150) |
+| 64 | 快手极速版 | ::Na2He::{ user=20298842 }, ::Az-Q::{ user=32613475 } |
+| 65 | 憋笑 | ::chino3310::{ user=16626292 }, ::\-Thirteen\-::{ user=34241263 } |
+| 66 | 我先睡了队 | ::WELUVMYUKA::{ user=29949157 }, ::chana::{ user=18375016 } |
+| 67 | 打胶队 | ::qiaolilailai::{ user=13809991 }, ::\-\-achang\-\-::{ user=31485150 } |
 | 68 | 海陆 | ::CaptainLan::{ user=18483399 } |
 | 69 | 痛恨叠键 | ::sarc6o9::{ user=23135250 } |
 | 70 | 白 | ::Lonann::{ user=14617751 } |

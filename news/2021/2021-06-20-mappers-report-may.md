@@ -55,8 +55,8 @@ Having worn the purple uniform for roughly one and a half years, Unpredictable h
 
 ### BN Additions
 
-- **osu!:** ::Logic Agent::{ user=6341262 }, [Yahuri](https://osu.ppy.sh/users/4682629), ::tomatas95::{ user=11403815 }, [Iceluin](https://osu.ppy.sh/users/3558897), ::Gabdu09::{ user=8852605 }, [Dada](https://osu.ppy.sh/users/9119507), ::Akayume::{ user=10617530 }, [Aakki](https://osu.ppy.sh/users/11077540), ::Nao Tomori::{ user=5364763 }, [Sajinn](https://osu.ppy.sh/users/13513687), ::Aistre::{ user=4879380 } & [Icekalt](https://osu.ppy.sh/users/5410645)
-- **osu!catch:** ::Secre::{ user=2306637 }, [Du5t](https://osu.ppy.sh/users/6053071) & ::zerokt::{ user=13776127 }
+- **osu!:** ::Logic Agent::{ user=6341262 }, ::Yahuri::{ user=4682629 }, ::tomatas95::{ user=11403815 }, ::Iceluin::{ user=3558897 }, ::Gabdu09::{ user=8852605 }, ::Dada::{ user=9119507 }, ::Akayume::{ user=10617530 }, ::Aakki::{ user=11077540 }, ::Nao Tomori::{ user=5364763 }, ::Sajinn::{ user=13513687 }, ::Aistre::{ user=4879380 } & ::Icekalt::{ user=5410645 }
+- **osu!catch:** ::Secre::{ user=2306637 }, ::Du5t::{ user=6053071 } & ::zerokt::{ user=13776127 }
 
 Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator!
 
@@ -68,13 +68,13 @@ Our personal office cat ::Mao::{ user=2204515 } has decided to step down from th
 
 ### BN Departures
 
-- **osu!:** ::Eula-::{ user=5405836 }, [skylaa](https://osu.ppy.sh/users/9505704), ::MaridiuS::{ user=4496961 }, [Astronic](https://osu.ppy.sh/users/9320502), ::Een Persoon::{ user=10959501 }, [Teky](https://osu.ppy.sh/users/10520912), ::Hobbes2::{ user=8157492 }, [Mordred](https://osu.ppy.sh/users/7265097) & ::C00L::{ user=4930630 }
-- **osu!taiko:** ::overranked::{ user=12315824 } & [Jerry](https://osu.ppy.sh/users/605973)
+- **osu!:** ::Eula-::{ user=5405836 }, ::skylaa::{ user=9505704 }, ::MaridiuS::{ user=4496961 }, ::Astronic::{ user=9320502 }, ::Een Persoon::{ user=10959501 }, ::Teky::{ user=10520912 }, ::Hobbes2::{ user=8157492 }, ::Mordred::{ user=7265097 } & ::C00L::{ user=4930630 }
+- **osu!taiko:** ::overranked::{ user=12315824 } & ::Jerry::{ user=605973 }
 - **osu!mania:** ::Amiichii::{ user=9228569 }
 
 ## Mappers' Showcase
 
-Into the next round of the Mappers' Showcase we go! This time, we're featuring two amazing hidden gems from the osu!catch game mode. Big thanks to this month's contributors ::Jemzuu::{ user=7890134 } and [autofanboy](https://osu.ppy.sh/users/636114).
+Into the next round of the Mappers' Showcase we go! This time, we're featuring two amazing hidden gems from the osu!catch game mode. Big thanks to this month's contributors ::Jemzuu::{ user=7890134 } and ::autofanboy::{ user=636114 }.
 
 ### Verti
 

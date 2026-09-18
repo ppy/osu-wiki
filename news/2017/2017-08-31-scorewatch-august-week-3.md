@@ -25,7 +25,7 @@ A score that was almost replicated 4 years back! ::Rafis::{ user=2558286 } steal
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/wjplwLNaIMQ" frameborder="0" allowfullscreen></iframe></br>
 
-::EtienneXC::{ user=5610085 } tears up [Evening's](https://osu.ppy.sh/users/2193881) [Imperial Circus Dead Decadence - FUBUKI](https://osu.ppy.sh/beatmaps/1080145) by setting an amazing 99.65% FC. Standing at 4:14 mins of drain time, this play tests a player's control and stamina limits. With an accuracy like this, it's not doubt Etienne is one of the craziest 4K players out there today!
+::EtienneXC::{ user=5610085 } tears up ::Evening's::{ user=2193881 } [Imperial Circus Dead Decadence - FUBUKI](https://osu.ppy.sh/beatmaps/1080145) by setting an amazing 99.65% FC. Standing at 4:14 mins of drain time, this play tests a player's control and stamina limits. With an accuracy like this, it's not doubt Etienne is one of the craziest 4K players out there today!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/uKDiGVBDlHY" frameborder="0" allowfullscreen></iframe></br>
 
@@ -47,7 +47,7 @@ Circle size 9.1? Not a problem for ::Adamqs::{ user=613592 }, securing a breatht
 
 ## SCORESHOW WITH ZSEIKIMATSU
 
-2 Polish greats, ::WubWoofWolf::{ user=39828 } and [Wilchq](https://osu.ppy.sh/users/2021758) duke on the map [positive MAD-crew - Mynarco Addiction](https://osu.ppy.sh/beatmaps/718679?m=0) with HDHR enabled!
+2 Polish greats, ::WubWoofWolf::{ user=39828 } and ::Wilchq::{ user=2021758 } duke on the map [positive MAD-crew - Mynarco Addiction](https://osu.ppy.sh/beatmaps/718679?m=0) with HDHR enabled!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/DdNzpz7czs0" frameborder="0" allowfullscreen></iframe></br>
 

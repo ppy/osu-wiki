@@ -139,7 +139,7 @@ Did you have any expectations going into the tournament? What went on in your mi
 
 How did you prepare for matches and 5WC itself?
 
-> For matches, we'd run multiplayer lobbies every week to practice the mappool as a team. On top of that our coaches ::FlatPaper::{ user=11255340 } and [LumenLogic](https://osu.ppy.sh/users/8171404) made comparison spreadsheets so that we could see how our opponents did in previous rounds compared to us. To prepare for 5wc itself, I personally tried to learn how to play with HDHR since if you had a player taking HDHR on your team, another player could go NM, and with the Freemod rules not requiring a player on HD, I thought I'd be more useful if I learned HDHR for the team.
+> For matches, we'd run multiplayer lobbies every week to practice the mappool as a team. On top of that our coaches ::FlatPaper::{ user=11255340 } and ::LumenLogic::{ user=8171404 } made comparison spreadsheets so that we could see how our opponents did in previous rounds compared to us. To prepare for 5wc itself, I personally tried to learn how to play with HDHR since if you had a player taking HDHR on your team, another player could go NM, and with the Freemod rules not requiring a player on HD, I thought I'd be more useful if I learned HDHR for the team.
 
 Are there any specific moments you remember the most vividly?
 

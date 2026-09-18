@@ -25,7 +25,7 @@ Oh, did you hear the news?
 
 ### Yooh - RPG
 
-Play through [the map that osu!'s world champions will battle on next weekend](https://osu.ppy.sh/beatmapsets/1633250) created by ::Zelq::{ user=8953955 }, [Halgoh](https://osu.ppy.sh/users/4109923), ::toybot::{ user=2848604 }, [DeviousPanda](https://osu.ppy.sh/users/4966334), ::Azer::{ user=2155578 }, and [PoNo](https://osu.ppy.sh/users/4610047)!
+Play through [the map that osu!'s world champions will battle on next weekend](https://osu.ppy.sh/beatmapsets/1633250) created by ::Zelq::{ user=8953955 }, ::Halgoh::{ user=4109923 }, ::toybot::{ user=2848604 }, ::DeviousPanda::{ user=4966334 }, ::Azer::{ user=2155578 }, and ::PoNo::{ user=4610047 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/218/Songs/Yooh%20-%20RPG.mp3" type="audio/mpeg">
