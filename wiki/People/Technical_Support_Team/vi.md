@@ -27,4 +27,4 @@ Nếu có ai cần hỗ trợ trong các diễn đàn trên, thành viên của 
 | ::{ flag=KR }:: ::Civil oath::{ user=3216107 } | Tiếng Hàn, Tiếng Nhật |
 | ::{ flag=DE }:: ::Lyawi::{ user=5851253 } | Tiếng Đức |
 | ::{ flag=PH }:: ::Nathanael::{ user=2295078 } | Tiếng Philippines |
-| ::{ flag=PL }:: ::spaceman\1atlas::{ user=3035836 } | Tiếng Ba Lan |
+| ::{ flag=PL }:: ::spaceman_atlas::{ user=3035836 } | Tiếng Ba Lan |

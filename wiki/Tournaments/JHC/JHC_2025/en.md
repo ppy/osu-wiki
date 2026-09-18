@@ -11,7 +11,7 @@ tags:
 
 ![JHC 2025 banner](img/JHC-2025-banner.jpg)
 
-The **Jack House Cup 2025** (***JHC 2025***) is a team–based osu!mania 4K tournament hosted by ::{ flag=CN }:: ::Blue\1Potion::{ user=13094831 }, ::{ flag=CN }:: ::CuteNatro::{ user=27233308 }, and ::{ flag=CN }:: ::yks1::{ user=26030234 }. It is the second instalment of the Jack House Cup.
+The **Jack House Cup 2025** (***JHC 2025***) is a team–based osu!mania 4K tournament hosted by ::{ flag=CN }:: ::Blue_Potion::{ user=13094831 }, ::{ flag=CN }:: ::CuteNatro::{ user=27233308 }, and ::{ flag=CN }:: ::yks1::{ user=26030234 }. It is the second instalment of the Jack House Cup.
 
 ## Tournament schedule
 
@@ -45,14 +45,14 @@ For solo teams, the prize of osu!supporter was doubled.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=CN }:: ::Blue\1Potion::{ user=13094831 }, ::{ flag=CN }:: ::CuteNatro::{ user=27233308 }, ::{ flag=CN }:: ::yks1::{ user=26030234 } |
-| Mappool selector | ::{ flag=CN }:: ::Blue\1Potion::{ user=13094831 }, ::{ flag=CN }:: ::ieFaH::{ user=24243177 }, ::{ flag=CN }:: ::To2::{ user=26683857 }, ::{ flag=CN }:: ::yks1::{ user=26030234 } |
-| Mapper | ::{ flag=CN }:: ::\1GB\1Azukisan::{ user=5378805 }, ::{ flag=VN }:: ::\1GB\1Kita-::{ user=27175001 }, ::{ flag=CN }:: ::\1GB\1Tyris::{ user=10497659 }, ::{ flag=JP }:: ::\1GS\1hina::{ user=20040607 }, ::{ flag=CN }:: ::\1Paw\1doudou0310::{ user=13478805 }, ::{ flag=CN }:: ::Blue\1Potion::{ user=13094831 }, ::{ flag=GB }:: ::Chandelure::{ user=12013943 }, ::{ flag=MO }:: ::crazyrenard::{ user=30325323 }, ::{ flag=CN }:: ::Dreamemory::{ user=38061925 }, ::{ flag=CN }:: ::HoshiMiya\_::{ user=20209900 }, ::HowToPlaySV::{ user=32494511 }, ::{ flag=CN }:: ::ieFaH::{ user=24243177 }, ::{ flag=CN }:: ::Koyori Chan::{ user=11238501 }, ::{ flag=CN }:: ::\_kokor0\_::{ user=35036109 }, ::{ flag=CN }:: ::Kusb123::{ user=35856480 }, ::{ flag=CN }:: ::MidRed::{ user=17641994 }, ::{ flag=CN }:: ::Muses::{ user=9705896 }, ::{ flag=FR }:: ::Paturages::{ user=1375479 }, ::{ flag=PE }:: ::Sakisagee::{ user=9938020 }, ::{ flag=CN }:: ::Suirent::{ user=10687430 }, ::{ flag=CN }:: ::To2::{ user=26683857 }, ::{ flag=CN }:: ::yaoliao2764::{ user=37360798 }, ::{ flag=CN }:: ::Ycloki::{ user=10861624 } |
-| Tester | ::{ flag=CN }:: ::\1Crz\1Sakuya::{ user=24756728 }, ::{ flag=CN }:: ::\1GB\1Tyris::{ user=10497659 }, ::{ flag=CN }:: ::Blue\1Potion::{ user=13094831 }, ::{ flag=CN }:: ::HowToPlaySV::{ user=32494511 }, ::{ flag=CN }:: ::Ice V::{ user=12302642 }, ::{ flag=CN }:: ::ieFaH::{ user=24243177 }, ::{ flag=CN }:: ::Idontknowwhathi::{ user=32379983 },::{ flag=SG }:: ::Koishi Komeijie::{ user=15763622 }, ::{ flag=CN }:: ::MidRed::{ user=17641994 }, ::{ flag=GB }:: ::Nathanial::{ user=9169747 }, ::{ flag=US }:: ::noober::{ user=22674434 }, ::{ flag=FR }:: ::Paturages::{ user=1375479 }, ::{ flag=CN }:: ::Shizuku-09::{ user=27288518 }, ::{ flag=CN }:: ::Suirent::{ user=10687430 }, ::{ flag=CN }:: ::To2::{ user=26683857 }, ::{ flag=CN }:: ::v69v::{ user=17203049 }, ::{ flag=CN }:: ::XeOF4::{ user=22692196 } |
-| Referee | ::{ flag=CN }:: ::\1GB\1ChickenGold::{ user=16586663 }, ::{ flag=CN }:: ::Blue\1Potion::{ user=13094831 }, ::{ flag=CN }:: ::CapooFanboy::{ user=27235859 }, ::{ flag=CN }:: ::cdwcgt::{ user=14721101 }, ::{ flag=US }:: ::EpsilonMaiagare::{ user=3855052 }, ::{ flag=CN }:: ::ieFaH::{ user=24243177 }, ::{ flag=SE }:: ::Logg45vs::{ user=8684540 }, ::{ flag=JP }:: ::Namakai::{ user=12017349 }, ::{ flag=CN }:: ::RTrigger::{ user=25308131 }, ::{ flag=CN }:: ::Rush\1FTK::{ user=3046856 }, ::{ flag=CN }:: ::TianRS::{ user=23929228 }, ::{ flag=CN }:: ::Trolloli::{ user=4335279 }, ::{ flag=NZ }:: ::XiaoLan9999::{ user=15748267 }, ::{ flag=CN }:: ::yks1::{ user=26030234 }, ::{ flag=US }:: ::Znow::{ user=15513303 } |
-| Streamer | ::{ flag=CN }:: ::\1GB\1Tyris::{ user=10497659 }, ::{ flag=CN }:: ::Blue\1Potion::{ user=13094831 }, ::{ flag=CN }:: ::CapooFanboy::{ user=27235859 }, ::{ flag=US }:: ::EpsilonMaiagare::{ user=3855052 }, ::{ flag=CN }:: ::MGU1::{ user=27192847 }, ::{ flag=CN }:: ::Rush\1FTK::{ user=3046856 } |
-| Commentator | ::{ flag=CN }:: ::\1GB\1ChickenGold::{ user=16586663 }, ::{ flag=CN }:: ::\1GB\1Tyris::{ user=10497659 }, ::{ flag=CN }:: ::\1Paw\1doudou0310::{ user=13478805 }, ::{ flag=CN }:: ::Blue\1Potion::{ user=13094831 }, ::{ flag=CN }:: ::MGU1::{ user=27192847 }, ::{ flag=CN }:: ::Rush\1FTK::{ user=3046856 } |
-| Statistician & wiki editor | ::{ flag=CN }:: ::Blue\1Potion::{ user=13094831 }, ::{ flag=CN }:: ::CuteNatro::{ user=27233308 } |
+| Host | ::{ flag=CN }:: ::Blue_Potion::{ user=13094831 }, ::{ flag=CN }:: ::CuteNatro::{ user=27233308 }, ::{ flag=CN }:: ::yks1::{ user=26030234 } |
+| Mappool selector | ::{ flag=CN }:: ::Blue_Potion::{ user=13094831 }, ::{ flag=CN }:: ::ieFaH::{ user=24243177 }, ::{ flag=CN }:: ::To2::{ user=26683857 }, ::{ flag=CN }:: ::yks1::{ user=26030234 } |
+| Mapper | ::{ flag=CN }:: ::[GB]Azukisan::{ user=5378805 }, ::{ flag=VN }:: ::[GB]Kita-::{ user=27175001 }, ::{ flag=CN }:: ::[GB]Tyris::{ user=10497659 }, ::{ flag=JP }:: ::[GS]hina::{ user=20040607 }, ::{ flag=CN }:: ::[Paw]doudou0310::{ user=13478805 }, ::{ flag=CN }:: ::Blue_Potion::{ user=13094831 }, ::{ flag=GB }:: ::Chandelure::{ user=12013943 }, ::{ flag=MO }:: ::crazyrenard::{ user=30325323 }, ::{ flag=CN }:: ::Dreamemory::{ user=38061925 }, ::{ flag=CN }:: ::HoshiMiya\_::{ user=20209900 }, ::HowToPlaySV::{ user=32494511 }, ::{ flag=CN }:: ::ieFaH::{ user=24243177 }, ::{ flag=CN }:: ::Koyori Chan::{ user=11238501 }, ::{ flag=CN }:: ::\_kokor0\_::{ user=35036109 }, ::{ flag=CN }:: ::Kusb123::{ user=35856480 }, ::{ flag=CN }:: ::MidRed::{ user=17641994 }, ::{ flag=CN }:: ::Muses::{ user=9705896 }, ::{ flag=FR }:: ::Paturages::{ user=1375479 }, ::{ flag=PE }:: ::Sakisagee::{ user=9938020 }, ::{ flag=CN }:: ::Suirent::{ user=10687430 }, ::{ flag=CN }:: ::To2::{ user=26683857 }, ::{ flag=CN }:: ::yaoliao2764::{ user=37360798 }, ::{ flag=CN }:: ::Ycloki::{ user=10861624 } |
+| Tester | ::{ flag=CN }:: ::[Crz]Sakuya::{ user=24756728 }, ::{ flag=CN }:: ::[GB]Tyris::{ user=10497659 }, ::{ flag=CN }:: ::Blue_Potion::{ user=13094831 }, ::{ flag=CN }:: ::HowToPlaySV::{ user=32494511 }, ::{ flag=CN }:: ::Ice V::{ user=12302642 }, ::{ flag=CN }:: ::ieFaH::{ user=24243177 }, ::{ flag=CN }:: ::Idontknowwhathi::{ user=32379983 },::{ flag=SG }:: ::Koishi Komeijie::{ user=15763622 }, ::{ flag=CN }:: ::MidRed::{ user=17641994 }, ::{ flag=GB }:: ::Nathanial::{ user=9169747 }, ::{ flag=US }:: ::noober::{ user=22674434 }, ::{ flag=FR }:: ::Paturages::{ user=1375479 }, ::{ flag=CN }:: ::Shizuku-09::{ user=27288518 }, ::{ flag=CN }:: ::Suirent::{ user=10687430 }, ::{ flag=CN }:: ::To2::{ user=26683857 }, ::{ flag=CN }:: ::v69v::{ user=17203049 }, ::{ flag=CN }:: ::XeOF4::{ user=22692196 } |
+| Referee | ::{ flag=CN }:: ::[GB]ChickenGold::{ user=16586663 }, ::{ flag=CN }:: ::Blue_Potion::{ user=13094831 }, ::{ flag=CN }:: ::CapooFanboy::{ user=27235859 }, ::{ flag=CN }:: ::cdwcgt::{ user=14721101 }, ::{ flag=US }:: ::EpsilonMaiagare::{ user=3855052 }, ::{ flag=CN }:: ::ieFaH::{ user=24243177 }, ::{ flag=SE }:: ::Logg45vs::{ user=8684540 }, ::{ flag=JP }:: ::Namakai::{ user=12017349 }, ::{ flag=CN }:: ::RTrigger::{ user=25308131 }, ::{ flag=CN }:: ::Rush_FTK::{ user=3046856 }, ::{ flag=CN }:: ::TianRS::{ user=23929228 }, ::{ flag=CN }:: ::Trolloli::{ user=4335279 }, ::{ flag=NZ }:: ::XiaoLan9999::{ user=15748267 }, ::{ flag=CN }:: ::yks1::{ user=26030234 }, ::{ flag=US }:: ::Znow::{ user=15513303 } |
+| Streamer | ::{ flag=CN }:: ::[GB]Tyris::{ user=10497659 }, ::{ flag=CN }:: ::Blue_Potion::{ user=13094831 }, ::{ flag=CN }:: ::CapooFanboy::{ user=27235859 }, ::{ flag=US }:: ::EpsilonMaiagare::{ user=3855052 }, ::{ flag=CN }:: ::MGU1::{ user=27192847 }, ::{ flag=CN }:: ::Rush_FTK::{ user=3046856 } |
+| Commentator | ::{ flag=CN }:: ::[GB]ChickenGold::{ user=16586663 }, ::{ flag=CN }:: ::[GB]Tyris::{ user=10497659 }, ::{ flag=CN }:: ::[Paw]doudou0310::{ user=13478805 }, ::{ flag=CN }:: ::Blue_Potion::{ user=13094831 }, ::{ flag=CN }:: ::MGU1::{ user=27192847 }, ::{ flag=CN }:: ::Rush_FTK::{ user=3046856 } |
+| Statistician & wiki editor | ::{ flag=CN }:: ::Blue_Potion::{ user=13094831 }, ::{ flag=CN }:: ::CuteNatro::{ user=27233308 } |
 | Designer | ::{ flag=CN }:: ::AZSDSC::{ user=17895656 }, ::{ flag=CN }:: ::ItzSocn::{ user=13971632 } |
 
 ## Links
@@ -88,17 +88,17 @@ For solo teams, the prize of osu!supporter was doubled.
 | 18 | 莉可莉丝 | ::{ flag=CN }:: ::atalin::{ user=34616472 }, ::{ flag=CN }:: ::weilai0121::{ user=32596132 } |
 | 19 | noize fanclub | ::{ flag=ES }:: ::ime::{ user=11649450 }, ::{ flag=GB }:: ::frawog::{ user=16018038 } |
 | 20 | 4k男娘叠叠绝赞团 | ::{ flag=CN }:: ::XeOF4::{ user=22692196 }, ::{ flag=CN }:: ::Catcay12334::{ user=27308730 } |
-| 21 | United Statedom | ::{ flag=US }:: ::manwelcchii::{ user=26690747 }, ::{ flag=GB }:: ::MiniEgg\123::{ user=25914360 } |
+| 21 | United Statedom | ::{ flag=US }:: ::manwelcchii::{ user=26690747 }, ::{ flag=GB }:: ::MiniEgg_23::{ user=25914360 } |
 | 22 | Jack Black | ::{ flag=PL }:: ::Murtaj::{ user=18962055 } |
 | 23 | Hasalee | ::{ flag=CZ }:: ::1qxz::{ user=24641997 } |
 | 24 | Soloist | ::{ flag=TH }:: ::konkawe::{ user=15665805 } |
 | 25 | Brr brr patapim | ::{ flag=VE }:: ::ProbYes::{ user=24421250 }, ::{ flag=BR }:: ::Guilherme9143::{ user=9196671 } |
 | 26 | king jacks | ::{ flag=ES }:: ::kzqdenix::{ user=30740782 }, ::{ flag=ES }:: ::Rodrigo64go::{ user=25297441 } |
 | 27 | Washed | ::{ flag=FI }:: ::Tomskuu::{ user=14943370 } |
-| 28 | Shrimp House Cup | ::{ flag=CA }:: ::\1LS\1Nemesis::{ user=20544648 } |
+| 28 | Shrimp House Cup | ::{ flag=CA }:: ::[LS]Nemesis::{ user=20544648 } |
 | 29 | ядима | ::{ flag=RU }:: ::DimonTheGood::{ user=19077203 } |
 | 30 | 25-ji, Jacks de. | ::{ flag=ES }:: ::abriI::{ user=21906254 }, ::{ flag=ID }:: ::rezored::{ user=18309106 } |
-| 31 | Speed mains | ::{ flag=IE }:: ::Xboxplayer69::{ user=36833020 }, ::{ flag=IE }:: ::C0mp1ex\1::{ user=31706494 } |
+| 31 | Speed mains | ::{ flag=IE }:: ::Xboxplayer69::{ user=36833020 }, ::{ flag=IE }:: ::C0mp1ex_::{ user=31706494 } |
 | 32 | Judge Byrne | ::{ flag=GB }:: ::LuvVivian::{ user=21530808 }, ::{ flag=CZ }:: ::ERA Yuh::{ user=16978354 } |
 | 33 | kutto | ::{ flag=VN }:: ::Hawkfrost::{ user=15555328 }, ::{ flag=CN }:: ::SaltFalt::{ user=31185655 } |
 | 34 | quebec jack | ::{ flag=MX }:: ::NoMore5555::{ user=23506403 }, ::{ flag=MX }:: ::bsej::{ user=25005439 } |
@@ -112,20 +112,20 @@ For solo teams, the prize of osu!supporter was doubled.
 | 42 | 老笔试 | ::{ flag=CN }:: ::F0rge::{ user=28569116 } |
 | 43 | SP | ::{ flag=VN }:: ::minhkhio::{ user=30143933 } |
 | 44 | ratio secret | ::{ flag=TH }:: ::Kakashiro::{ user=35768711 }, ::{ flag=TH }:: ::- meloncoin -::{ user=31003592 } |
-| 45 | NorikoFanboy | ::{ flag=GB }:: ::AGuyCalledJeff::{ user=18750025 }, ::{ flag=US }:: ::Noriko\1Violet::{ user=23398266 } |
-| 46 | Country Hand | ::{ flag=TW }:: ::Tsukimia\1::{ user=31548234 }, ::{ flag=TW }:: ::JoeyGYGY::{ user=25690184 } |
-| 47 | Zariweya | ::{ flag=ES }:: ::Litrowo::{ user=21423715 }, ::{ flag=ES }:: ::Lofro\1::{ user=17781391 } |
+| 45 | NorikoFanboy | ::{ flag=GB }:: ::AGuyCalledJeff::{ user=18750025 }, ::{ flag=US }:: ::Noriko_Violet::{ user=23398266 } |
+| 46 | Country Hand | ::{ flag=TW }:: ::Tsukimia_::{ user=31548234 }, ::{ flag=TW }:: ::JoeyGYGY::{ user=25690184 } |
+| 47 | Zariweya | ::{ flag=ES }:: ::Litrowo::{ user=21423715 }, ::{ flag=ES }:: ::Lofro_::{ user=17781391 } |
 | 48 | Skill issue | ::{ flag=AT }:: ::Ghfg517 Mania::{ user=33620596 } |
 | 49 | Beta jacker | ::{ flag=SE }:: ::ManaCube::{ user=24889093 } |
-| 50 | bagjetka to sure | ::{ flag=PL }:: ::\1Szy\1polymaridd::{ user=20372838 } |
+| 50 | bagjetka to sure | ::{ flag=PL }:: ::[Szy]polymaridd::{ user=20372838 } |
 | 51 | Chui Sai On | ::{ flag=MO }:: ::knight87::{ user=12648780 }, ::{ flag=MO }:: ::Tokirii::{ user=11563694 } |
 | 52 | asereje | ::{ flag=VE }:: ::Gameryt1234::{ user=25192757 } |
-| 53 | Bottom G | ::{ flag=GT }:: ::hoshiteru::{ user=15683009 }, ::{ flag=GT }:: ::\1Crz\1Miyako::{ user=32374576 } |
-| 54 | 03 Jack Monkeys | ::{ flag=JP }:: ::Na2303::{ user=31146692 }, ::{ flag=JP }:: ::Makise\1c::{ user=14962017 } |
+| 53 | Bottom G | ::{ flag=GT }:: ::hoshiteru::{ user=15683009 }, ::{ flag=GT }:: ::[Crz]Miyako::{ user=32374576 } |
+| 54 | 03 Jack Monkeys | ::{ flag=JP }:: ::Na2303::{ user=31146692 }, ::{ flag=JP }:: ::Makise_c::{ user=14962017 } |
 | 55 | kim jeong hyeok | ::{ flag=KR }:: ::ssrykat::{ user=15079888 }, ::{ flag=KR }:: ::gaesol::{ user=12452131 } |
 | 56 | apalah | ::{ flag=ID }:: ::NizT::{ user=23115247 } |
 | 57 | I can't acc | ::{ flag=US }:: ::Chordjack::{ user=23738691 }, ::{ flag=LV }:: ::Treeidk::{ user=18887843 } |
-| 58 | Slaughterhouse | ::{ flag=SA }:: ::Itsketork-::{ user=37941027 }, ::{ flag=SE }:: ::Mr\1SmellySocks::{ user=26864198 } |
+| 58 | Slaughterhouse | ::{ flag=SA }:: ::Itsketork-::{ user=37941027 }, ::{ flag=SE }:: ::Mr_SmellySocks::{ user=26864198 } |
 | 59 | Mizuki Sensitive | ::{ flag=TR }:: ::hsod::{ user=15391485 }, ::{ flag=GB }:: ::laser::{ user=15809312 } |
 | 60 | Jacking Time! | ::{ flag=US }:: ::Tevelkin::{ user=18508394 } |
 | 61 | 是青暮哇~ | ::{ flag=CN }:: ::gamechocolate::{ user=27799476 } |
@@ -133,7 +133,7 @@ For solo teams, the prize of osu!supporter was doubled.
 | 63 | Nonsense | ::{ flag=CL }:: ::maykolmejor::{ user=15267478 } |
 | 64 | Pequeño hermano | ::{ flag=CL }:: ::NikitodeuS::{ user=25323782 } |
 | 65 | loushao | ::{ flag=CN }:: ::ComboPower::{ user=19477584 } |
-| 66 | exotic jackers | ::{ flag=PH }:: ::Zero\1Two16::{ user=30327837 }, ::{ flag=SA }:: ::Agenius569::{ user=31209758 } |
+| 66 | exotic jackers | ::{ flag=PH }:: ::Zero_Two16::{ user=30327837 }, ::{ flag=SA }:: ::Agenius569::{ user=31209758 } |
 | 67 | gangers | ::{ flag=KR }:: ::Inclemetite::{ user=32785738 } |
 | 68 | Dubrava Roadmen | ::{ flag=HR }:: ::brainstorm::{ user=20846774 }, ::{ flag=DE }:: ::f1lth7::{ user=30791599 } |
 | 69 | 320 | ::{ flag=US }:: ::z2a::{ user=12542173 }, ::{ flag=CA }:: ::Resonance::{ user=16778970 } |
@@ -141,8 +141,8 @@ For solo teams, the prize of osu!supporter was doubled.
 | 71 | venti best girl | ::{ flag=IT }:: ::Juyukamii::{ user=32254514 }, ::{ flag=GB }:: ::Rageinater::{ user=23151496 } |
 | 72 | 黄油面包 | ::{ flag=CN }:: ::Suang::{ user=20222452 }, ::{ flag=CN }:: ::lovolyj::{ user=32082018 } |
 | 73 | 最爱躺着 | ::{ flag=CN }:: ::Herb::{ user=10042715 }, ::{ flag=CN }:: ::qiaolilailai::{ user=13809991 } |
-| 74 | Toh | ::{ flag=SG }:: ::dolfin-\1::{ user=24531833 }, ::{ flag=SG }:: ::glskywalker::{ user=23850091 } |
-| 75 | TheJackEra | ::{ flag=DE }:: ::\1GE\1 Arthur::{ user=24122055 } |
+| 74 | Toh | ::{ flag=SG }:: ::dolfin-_::{ user=24531833 }, ::{ flag=SG }:: ::glskywalker::{ user=23850091 } |
+| 75 | TheJackEra | ::{ flag=DE }:: ::[GE] Arthur::{ user=24122055 } |
 | 76 | Grug | ::{ flag=PK }:: ::Suheer::{ user=23312307 } |
 | 77 | ILoveHoshino❤️❤️ | ::{ flag=KR }:: ::iserifanboy::{ user=26594580 } |
 | 78 | sphealites | ::{ flag=SG }:: ::Minlox::{ user=34578231 } |
@@ -150,7 +150,7 @@ For solo teams, the prize of osu!supporter was doubled.
 | 80 | MatteLatcha | ::{ flag=TH }:: ::MatchaLatte-::{ user=15944956 } |
 | 81 | sklættong | ::{ flag=NO }:: ::Ziquids::{ user=10972799 } |
 | 82 | OnlyJacks | ::{ flag=US }:: ::-Kyoko-::{ user=34321607 }, ::{ flag=US }:: ::letmegetauserna::{ user=32916219 } |
-| 83 | Chino fans club | ::{ flag=CN }:: ::\1Crz\1Nickname::{ user=10817494 }, ::{ flag=CN }:: ::\1Crz\1bubu::{ user=28251667 } |
+| 83 | Chino fans club | ::{ flag=CN }:: ::[Crz]Nickname::{ user=10817494 }, ::{ flag=CN }:: ::[Crz]bubu::{ user=28251667 } |
 | 84 | Just a pinoy | ::{ flag=PH }:: ::TriangleBear::{ user=9178623 } |
 | 85 | Not a jack main | ::{ flag=LT }:: ::Stockaxolotl::{ user=35391395 } |
 | 86 | cxmpppp | ::{ flag=CN }:: ::inblood1097::{ user=31684668 } |

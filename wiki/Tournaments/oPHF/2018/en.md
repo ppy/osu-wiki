@@ -99,7 +99,7 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) was a semi-rest
 | 28 | ::{ flag=PH }:: ::Nyanntai::{ user=6449091 } |
 | 29 | ::{ flag=PH }:: ::IsseiKun::{ user=10597843 } |
 | 30 | ::{ flag=PH }:: ::Tornikel::{ user=10940000 } |
-| 31 | ::{ flag=PH }:: ::Aoi\1Shimoto::{ user=9809833 } |
+| 31 | ::{ flag=PH }:: ::Aoi_Shimoto::{ user=9809833 } |
 | 32 | ::{ flag=PH }:: ::Karma Jun::{ user=6796612 } |
 
 ### osu!taiko

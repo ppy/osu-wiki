@@ -78,7 +78,7 @@ At this point in time, it's likely safe to say that everyone who has played osu!
 
 *written by ::Kaifin::{ user=2596942 }*
 
-After a number of requests for more ::09kami::{ user=443031 } maps in Loved, we are finally delivering with [Platinum](https://osu.ppy.sh/beatmapsets/449225), a large set featuring guest difficulties from several notable mappers! The set features big names such as ::rrtyui::{ user=352328 } and ::yf\1bmp::{ user=1243669 } as well as a perfect top diff by 09kami himself. If you're looking for a perfectly crafted technical mapset with several different difficulties with different interpretations of the song, this one's for you!
+After a number of requests for more ::09kami::{ user=443031 } maps in Loved, we are finally delivering with [Platinum](https://osu.ppy.sh/beatmapsets/449225), a large set featuring guest difficulties from several notable mappers! The set features big names such as ::rrtyui::{ user=352328 } and ::yf_bmp::{ user=1243669 } as well as a perfect top diff by 09kami himself. If you're looking for a perfectly crafted technical mapset with several different difficulties with different interpretations of the song, this one's for you!
 
 [![](/wiki/shared/news/2018-03-28-project-loved-week-of-march-25th/osu/eiya.jpg)](https://osu.ppy.sh/community/forums/topics/721043)
 

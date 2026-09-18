@@ -34,7 +34,7 @@ The **Aus/NZ osu!standard Tournament 5 - Winter** (***ANZT 5W***) was a 1v1 doub
 | Commentator | ::{ flag=AU }:: ::Kor3ry3-Kun::{ user=6279567 }, ::{ flag=AU }:: ::Dumii::{ user=3068044 }, ::{ flag=AU }:: ::Jordan The Bear::{ user=7477458 }, ::{ flag=AU }:: ::Monk Gyatso::{ user=4012086 }, ::{ flag=AU }:: ::Takagaki::{ user=3698691 }, ::{ flag=AU }:: ::Kano::{ user=3036203 } |
 | Streamer | ::{ flag=AU }:: ::Astellis::{ user=8369780 }, ::{ flag=AU }:: ::Bauxe::{ user=1881685 }, ::{ flag=AU }:: ::pewdekz::{ user=5754859 } |
 | Referee | ::{ flag=AU }:: ::loler123903::{ user=8034438 }, ::{ flag=AU }:: ::Astellis::{ user=8369780 }, ::{ flag=AU }:: ::Soulskyeflare::{ user=8264319 }, ::{ flag=AU }:: ::awesometa::{ user=7114425 } |
-| Mappool selector | ::{ flag=AU }:: ::Elsa Valentine::{ user=4525153 }, ::{ flag=US }:: ::LowAccuracySS::{ user=7306763 }, ::{ flag=AU }:: ::Quite Cynical::{ user=3361154 }, ::{ flag=AT }:: ::Shiinoha Kotone::{ user=5712451 }, ::{ flag=US }:: ::noctisv\1v::{ user=6775083 }, ::{ flag=CA }:: ::Legless::{ user=3224243 } |
+| Mappool selector | ::{ flag=AU }:: ::Elsa Valentine::{ user=4525153 }, ::{ flag=US }:: ::LowAccuracySS::{ user=7306763 }, ::{ flag=AU }:: ::Quite Cynical::{ user=3361154 }, ::{ flag=AT }:: ::Shiinoha Kotone::{ user=5712451 }, ::{ flag=US }:: ::noctisv_v::{ user=6775083 }, ::{ flag=CA }:: ::Legless::{ user=3224243 } |
 | Designer | ::{ flag=US }:: ::Monko2k::{ user=4852013 } |
 
 ## Links

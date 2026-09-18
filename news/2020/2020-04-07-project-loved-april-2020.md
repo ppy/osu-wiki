@@ -159,7 +159,7 @@ snoverpk, as many high-level players know, has his fair share of extremely diffi
 
 [![](/wiki/shared/news/2020-04-07-project-loved-april-2020/mania/3-jumpstream-of-fighters-vol-2b.jpg)](https://osu.ppy.sh/community/forums/topics/1048102)
 
-[(Various Artists) - Jumpstream Of Fighters Vol. 2B](https://osu.ppy.sh/beatmapsets/547215#mania) by ::Leo137::{ user=1177817 }, ::Manwon::{ user=4129020 }, ::swiftwinter::{ user=3453387 }, ::AZVW\12::{ user=6328227 } and ::blazziken::{ user=2544313 }\
+[(Various Artists) - Jumpstream Of Fighters Vol. 2B](https://osu.ppy.sh/beatmapsets/547215#mania) by ::Leo137::{ user=1177817 }, ::Manwon::{ user=4129020 }, ::swiftwinter::{ user=3453387 }, ::AZVW_2::{ user=6328227 } and ::blazziken::{ user=2544313 }\
 200 BPM, 14:19 | \[4K\], 4.74★ – 6.02★\
 The \[(Marathon) - Delete Upon Download\] difficulty is *not* being nominated for Loved.
 

@@ -133,7 +133,7 @@ Les contributeurs qui ont enregistré leur compte à une époque plus ancienne d
 | ::{ flag=AU }:: ::Syrin::{ user=5701575 } | Créateur de [PerformancePlus](https://syrin.me/pp+/) et [osu!chan](https://osuchan.syrin.me) |
 | ::{ flag=SG }:: ::Raveille::{ user=1388767 } | Effort exceptionnel dans la production et la publication du projet Scorewatch |
 | ::{ flag=FR }:: ::ThePooN::{ user=718454 } | Effort exceptionnel dans la production et la publication du projet Scorewatch |
-| ::{ flag=US }:: ::MegaApple\1Pi::{ user=2148208 } | Efforts remarquables pour faire avancer le projet de wiki d'osu! avec d'innombrables révisions, remaniements et examens. |
+| ::{ flag=US }:: ::MegaApple_Pi::{ user=2148208 } | Efforts remarquables pour faire avancer le projet de wiki d'osu! avec d'innombrables révisions, remaniements et examens. |
 | ::{ flag=PL }:: ::TPGPL::{ user=3944705 } | Pierre angulaire du projet osu! wiki et contribution exceptionnelle au fil des ans |
 
 ### 2019
@@ -215,7 +215,7 @@ Les contributeurs qui ont enregistré leur compte à une époque plus ancienne d
 | ::{ flag=DE }:: ::hallowatcher::{ user=1874761 } | Contribution exceptionnelle aux événements et au développement de la communauté |
 | ::{ flag=GB }:: ::mangomizer::{ user=1893718 } | Contribution exceptionnelle aux World Cups et aux événements communautaires |
 | ::{ flag=DE }:: ::Lasse::{ user=896613 } | Contribution exceptionnelle à la scène du mapping et du modding |
-| ::{ flag=PL }:: ::spaceman\1atlas::{ user=3035836 } | Contribution exceptionnelle au développement d'osu! à travers de nombreux projets |
+| ::{ flag=PL }:: ::spaceman_atlas::{ user=3035836 } | Contribution exceptionnelle au développement d'osu! à travers de nombreux projets |
 | ::{ flag=DE }:: ::RockRoller::{ user=8388854 } | Contribution exceptionnelle à la scène du skinning et de la modération d'osu! |
 | ::{ flag=US }:: ::I Must Decrease::{ user=2773526 } | Contribution exceptionnelle à l'entretien et au développement du scoring |
 | ::{ flag=US }:: ::this1neguy::{ user=1797189 } | Contribution exceptionnelle à la World Cups et à la scène des tournois communautaires |

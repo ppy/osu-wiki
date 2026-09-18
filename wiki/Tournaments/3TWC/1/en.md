@@ -79,7 +79,7 @@ The 3 Digit Taiko World Cup was run by various community members.
 | ::{ flag=ID }:: | **Indonesia** | **::apaajaboleh10::{ user=5151647 }**, ::Volta::{ user=4154071 }, ::WhiteSnowAngel::{ user=3866964 }, ::XK2238::{ user=1139209 } |
 | ::{ flag=JP }:: | **Japan** | **::Noko\_BSF::{ user=3811831 }**, ::KuroKuroKuro::{ user=11931563 }, ::Maeda::{ user=12615278 }, ::owatanimal::{ user=5769293 }, ::Saikoro::{ user=741819 } |
 | ::{ flag=MY }:: | **Malaysia** | **::Jerry::{ user=605973 }**, ::\[Zeth\]::{ user=9912966 }, ::HHVanilla Ice::{ user=12803930 }, ::Xeltic Rival::{ user=7500364 } |
-| ::{ flag=MX }:: | **Mexico** | **::Iojioji::{ user=1346121 }**, ::\1Yuukii::{ user=4588852 }, ::Ammy::{ user=4183406 }, ::Mennock::{ user=854580 }, ::ZaveryK::{ user=10913397 } |
+| ::{ flag=MX }:: | **Mexico** | **::Iojioji::{ user=1346121 }**, ::_Yuukii::{ user=4588852 }, ::Ammy::{ user=4183406 }, ::Mennock::{ user=854580 }, ::ZaveryK::{ user=10913397 } |
 | ::{ flag=NL }:: | **Netherlands** | **::Hypello::{ user=1594036 }**, ::Cookie\_Tree::{ user=502722 }, ::kayaven::{ user=1799191 }, ::Krekker::{ user=8265940 }, ::Strijkljzer::{ user=4130926 } |
 | ::{ flag=AU }:: ::{ flag=NZ }:: | **Oceanic Alliance** | **::r1chyy::{ user=11499467 }**, ::Sparxe::{ user=5750235 }, ::Tsubasa2::{ user=6835183 } |
 | ::{ flag=PH }:: | **Philippines** | **::Pochacco::{ user=2927742 }**, ::Aiery::{ user=10363380 }, ::jmeh07::{ user=2852269 }, ::Rimazii::{ user=3831514 } |

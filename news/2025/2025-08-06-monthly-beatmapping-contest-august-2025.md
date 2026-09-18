@@ -43,7 +43,7 @@ If it's possible to earn *Elite Mapper II* from the MBC, **fowwo** is bound to f
 
 Special thanks for those who helped make this contest possible: 
 
-- Screeners: ::Andrea::{ user=33599 }, ::Uberzolik::{ user=1314547 }, ::an3::{ user=11954090 }, ::Bloxi::{ user=9022451 }, ::Elzix::{ user=4990127 }, ::Firiiu::{ user=7825971 }, ::Le Mirai::{ user=13646997 }, ::lit120::{ user=3109248 }, ::Chiga::{ user=10719127 }, ::Delta\1::{ user=14272323 }, ::Garden::{ user=2849992 }, and ::kowari::{ user=5404892 }
+- Screeners: ::Andrea::{ user=33599 }, ::Uberzolik::{ user=1314547 }, ::an3::{ user=11954090 }, ::Bloxi::{ user=9022451 }, ::Elzix::{ user=4990127 }, ::Firiiu::{ user=7825971 }, ::Le Mirai::{ user=13646997 }, ::lit120::{ user=3109248 }, ::Chiga::{ user=10719127 }, ::Delta_::{ user=14272323 }, ::Garden::{ user=2849992 }, and ::kowari::{ user=5404892 }
 - Judges: ::Omekyu::{ user=14348073 }, ::zadknus::{ user=12101917 }, ::Daycore::{ user=5596337 }, ::riot1133::{ user=11877992 }, ::Evil-::{ user=10234313 }, ::Sanch-KK::{ user=9131844 }, and ::Sonnyc::{ user=11771 }
 
 ## Game modes

@@ -50,11 +50,11 @@ The iDOL@NSTER was run by various osu! community members at UCI or visiting for 
 
 | Position | Member(s) |
 | :-- | :-- |
-| Mappool selector | ::{ flag=IE }:: ::\1KoKo\1::{ user=5322953 }, ::{ flag=US }:: ::\1Breeze::{ user=9726582 }, ::{ flag=US }:: ::jlin\102::{ user=13192092 }, ::{ flag=US }:: ::Kenny::{ user=1225459 }, ::{ flag=US }:: ::migin::{ user=11118735 }, ::{ flag=US }:: ::Riku on osu::{ user=3071659 } |
+| Mappool selector | ::{ flag=IE }:: ::[KoKo]::{ user=5322953 }, ::{ flag=US }:: ::_Breeze::{ user=9726582 }, ::{ flag=US }:: ::jlin_02::{ user=13192092 }, ::{ flag=US }:: ::Kenny::{ user=1225459 }, ::{ flag=US }:: ::migin::{ user=11118735 }, ::{ flag=US }:: ::Riku on osu::{ user=3071659 } |
 | Streamer | ::{ flag=US }:: ::iShipxx::{ user=7546335 }, ::{ flag=US }:: ::R34pling::{ user=7662172 } |
 | Commentator | ::{ flag=US }:: ::Kenny::{ user=1225459 }, ::{ flag=US }:: ::MyAngelNeptune::{ user=5290308 }, ::{ flag=US }:: ::Riku on osu::{ user=3071659 } |
 | Designer | ::{ flag=XX }:: Skydendrin ([Carrd profile](https://skydendrin.carrd.co)) |
-| Referee | ::{ flag=US }:: ::\1Breeze::{ user=9726582 }, ::{ flag=US }:: ::clayton::{ user=3666350 }, ::{ flag=US }:: ::ilalalayou::{ user=3144766 }, ::{ flag=US }:: ::iShipxx::{ user=7546335 }, ::{ flag=US }:: ::jlin\102::{ user=13192092 }, ::{ flag=US }:: ::Kenny::{ user=1225459 }, ::{ flag=US }:: ::phamitsu::{ user=13045418 }, ::{ flag=US }:: ::Riku on osu::{ user=3071659 } |
+| Referee | ::{ flag=US }:: ::_Breeze::{ user=9726582 }, ::{ flag=US }:: ::clayton::{ user=3666350 }, ::{ flag=US }:: ::ilalalayou::{ user=3144766 }, ::{ flag=US }:: ::iShipxx::{ user=7546335 }, ::{ flag=US }:: ::jlin_02::{ user=13192092 }, ::{ flag=US }:: ::Kenny::{ user=1225459 }, ::{ flag=US }:: ::phamitsu::{ user=13045418 }, ::{ flag=US }:: ::Riku on osu::{ user=3071659 } |
 
 ## Links
 
@@ -71,7 +71,7 @@ The iDOL@NSTER was run by various osu! community members at UCI or visiting for 
 
 ### osu!
 
-- ::{ flag=US }:: ::\1KOR\1 Sora::{ user=11985468 }
+- ::{ flag=US }:: ::[KOR] Sora::{ user=11985468 }
 - ::{ flag=US }:: ::Achao3::{ user=12325019 }
 - ::{ flag=US }:: ::Darin on osu::{ user=4839876 }
 - ::{ flag=US }:: ::death grips::{ user=4829231 }

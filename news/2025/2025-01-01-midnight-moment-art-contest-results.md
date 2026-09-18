@@ -87,7 +87,7 @@ The year may have come to an end, but some traditions never do. We present to yo
 
 [![](https://assets.ppy.sh/contests/226/banners/Christi_Anna.jpg)](https://assets.ppy.sh/contests/226/winners/Christi_Anna.png)
 
-::**Christi\1Anna**::{ user=11016739 } invited the *entire* osu! cast to celebrate the fancy festivities, alongside a special feline guest making a cameo too.
+::**Christi_Anna**::{ user=11016739 } invited the *entire* osu! cast to celebrate the fancy festivities, alongside a special feline guest making a cameo too.
 
 [![](https://assets.ppy.sh/contests/226/banners/AyoLie.jpg)](https://assets.ppy.sh/contests/226/winners/AyoLie.png)
 
@@ -99,7 +99,7 @@ pippi and Mocha are often depicted as perhaps slightly more than friends in thes
 
 [![](https://assets.ppy.sh/contests/226/banners/Ka1mon_.jpg)](https://assets.ppy.sh/contests/226/winners/Ka1mon_.PNG)
 
-::**Ka1mon\1**::{ user=34939444 }'s simple take on the quintessential annual midnight moment lit up pippi and Mocha's wistful visages with veritable wonder.
+::**Ka1mon_**::{ user=34939444 }'s simple take on the quintessential annual midnight moment lit up pippi and Mocha's wistful visages with veritable wonder.
 
 ---
 

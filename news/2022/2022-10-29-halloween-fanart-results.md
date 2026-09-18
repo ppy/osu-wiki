@@ -63,7 +63,7 @@ We like to think the voters are all the blushing ghosts flying around. Except fo
 
 [![](https://assets.ppy.sh/contests/154/banners/_reptani.jpg)](https://assets.ppy.sh/contests/154/winners/_reptani.png)
 
-**2075** could not look away (in horror) from ::**\1reptani**::{ user=13559093 }'s lavishly lacey pippi lounging luxuriously in a recently unearthed coffin.
+**2075** could not look away (in horror) from ::**_reptani**::{ user=13559093 }'s lavishly lacey pippi lounging luxuriously in a recently unearthed coffin.
 
 Lace! Frills! Beads! So many beads. If you count them all, you'll find a fearsome, forbidden fright. Don't mention it in the comments.
 

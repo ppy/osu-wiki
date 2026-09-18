@@ -14,7 +14,7 @@ The charts have previously been created by letting volunteers alongside the Qual
 
 ### osu!
 
-- **[Tonon - Shirayuki ~sirayuki~](https://osu.ppy.sh/beatmapsets/429316) by ::yf\1bmp::{ user=1243669 }**  (Nominator: ::-kevincela-::{ user=266596 })
+- **[Tonon - Shirayuki ~sirayuki~](https://osu.ppy.sh/beatmapsets/429316) by ::yf_bmp::{ user=1243669 }**  (Nominator: ::-kevincela-::{ user=266596 })
 
 Really interesting approach to underline the strong beats, using a low Slider Velocity to express the song's overall slow pace while using a very variable spacing to emphasize the very powerful beats, resulting in a very enjoyable beatmap which complements the song really well. The insane difficulty is also really solid, while the rest of the difficulties are also pretty nice while playing it safe.
 
@@ -46,7 +46,7 @@ With all 6 difficulties done solo, Kalindraz' first ranked mapset is really a cu
 
 While November didn't have very many ranked maps, it had some exceptionally good and interesting ones, and this set - voted as most-noteworthy/best of this month - is definitely one of them. The reason for that is the highest difficulty "No Regret" and while it's supposed to be a reference to the song, I can safely say that this is a map S a n d does not have to regret making! There are many reasons for that: Very solid lower difficulties (Kantan, Futsuu, Muzukashii, Oni) followed by one of the most creative Inner Onis we have had in the ranked section. It has Slider Velocity changes, that already very well can be called a gimmick as there's just so many of them and they enhance the gameplay experience A LOT - take a look at the masses of green lines in the editor, if you want! Additionally to that, it features very well-done pattern-based mapping, with the map being connected in its entirety: Adding color variation as patterns repeat, inversing the colors of them and more. This is a great, ranked S a n d map you must have played!
 
-- [Ayatsugu_Otowa - Chouetsu Shite Shimatta Kanojo to Sore o Umi Otoshita Riyuu](https://osu.ppy.sh/beatmapsets/455306) by ::-\1 Dumpling \1-::{ user=2478693 } (Nominator: ::Ntiger::{ user=1910766 })
+- [Ayatsugu_Otowa - Chouetsu Shite Shimatta Kanojo to Sore o Umi Otoshita Riyuu](https://osu.ppy.sh/beatmapsets/455306) by ::-[ Dumpling ]-::{ user=2478693 } (Nominator: ::Ntiger::{ user=1910766 })
 
 A nice set by Dumpling featuring many additional mappers, with Julie, chaica and Senritsu covering most lower difficulties (including the very rare "Beginner" difficulty) and TKS mapping the very nice Inner Oni. While all difficulties are good, I wanna focus on that one, as it will be the most played one! TKS' Inner Oni has a lot of nice things: Very well-mapped off-beat patterns (which means starting on blue ticks in the editor, so shifted by 1/4 in osu! terms) together with 1/6 bursts and the very rare (nowadays slightly more common) 1/8 triplets! These offer an extra challenge for this map, as not many players are used to them. The map ends with a great streamy kiai, the climax and hardest part of the whole map! You are not prepared.
 
@@ -94,7 +94,7 @@ For those of you who loved CLSW's Endless Tears mapset and wanted some sort of a
 
 ### osu!mania
 
-- **[DragonForce - The Warrior Inside](https://osu.ppy.sh/beatmapsets/330405) by ::\1underjoy::{ user=2235750 }** (Nominator: ::Jinjin::{ user=3360737 })
+- **[DragonForce - The Warrior Inside](https://osu.ppy.sh/beatmapsets/330405) by ::_underjoy::{ user=2235750 }** (Nominator: ::Jinjin::{ user=3360737 })
 
 This one hell of a map brings players into a long journey of stamina inducing glory, regardless of which key you play. The 4K difficulty features extended anchors, jumpstreams, handstreams, rolls, high speed burst sections, jacks, long note sections, and any other pattern structure you can think of. This really makes the map a sight to behold, and tests your skills to the limit. The 6K difficulty is similar to the 4K difficulty but with higher density. The hitsounds are also very well done, and accompanies the drum set sounds really well. If you think you have what it takes to beat this map, go ahead and show your inner warrior!
 

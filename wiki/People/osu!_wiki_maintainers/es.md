@@ -16,7 +16,7 @@ Si necesitas ayuda para hacer una contribución o quieres una revisión de tu so
 | ::{ flag=US }:: ::Joehu::{ user=8549835 } | [Joehuu](https://github.com/Joehuu) | Inactivo |  |
 | ::{ flag=AR }:: ::juankristal::{ user=443656 } | [juankristal](https://github.com/juankristal) | Inactivo | Español |
 | ::{ flag=DE }:: ::Loctav::{ user=71366 } | [Loctav](https://github.com/Loctav) | Inactivo | Alemán |
-| ::{ flag=US }:: ::MegaApple\1Pi::{ user=2148208 } | [MegaApplePi](https://github.com/MegaApplePi) | Inactivo |  |
+| ::{ flag=US }:: ::MegaApple_Pi::{ user=2148208 } | [MegaApplePi](https://github.com/MegaApplePi) | Inactivo |  |
 | ::{ flag=ID }:: ::Niva::{ user=197805 } | [Nivalyx](https://github.com/Nivalyx) | **Activo** | Indonesio |
 | ::{ flag=DE }:: ::Okoratu::{ user=1623405 } | [Okorin](https://github.com/Okorin) | Inactivo | Alemán |
 | ::{ flag=AU }:: ::peppy::{ user=2 } | [peppy](https://github.com/peppy) | **Activo** | Japonés |

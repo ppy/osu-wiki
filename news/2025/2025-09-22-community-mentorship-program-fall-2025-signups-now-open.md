@@ -45,7 +45,7 @@ You can find more information on these mentors in their [detailed overview](http
 | ::{ flag=NL }:: ::Muse Dash::{ user=13695676 } | UTC+2 |
 | ::{ flag=CN }:: ::Carpihat::{ user=10085090 } | UTC+2 |
 | ::{ flag=RU }:: ::Kurisu Makise::{ user=2790640 } | UTC+3 |
-| ::{ flag=VN }:: ::\1TCD\1 Dzar03::{ user=16712231 } | UTC+7 |
+| ::{ flag=VN }:: ::[TCD] Dzar03::{ user=16712231 } | UTC+7 |
 | ::{ flag=CN }:: ::RTrigger::{ user=25308131 } | UTC+8 |
 
 You can find more information on these mentors in their [detailed overview](https://docs.google.com/spreadsheets/d/1g2KhhmBqiqNAe2I2PJPicaSFtWPQ5sScRluC9oQzFGg/edit) and apply to them [here](https://docs.google.com/forms/d/e/1FAIpQLSeVdfghHjpjOiGJ1rw167rOsuAczWgub0sYYX_wYCP1_kwrTw/viewform).

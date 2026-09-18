@@ -33,7 +33,7 @@ The worst part about competitions is that there can only be one winner, leading 
 
 [![](/wiki/shared/news/2020-12-21-project-loved-december-2020/osu/2-gekka-midare-botan.jpg)](https://osu.ppy.sh/community/forums/topics/1207209)
 
-[Eve - Gekka\*Midare Botan](https://osu.ppy.sh/beatmapsets/530685#osu) by ::Meg::{ user=1872496 } and ::Roll\1Pan::{ user=1839998 }\
+[Eve - Gekka\*Midare Botan](https://osu.ppy.sh/beatmapsets/530685#osu) by ::Meg::{ user=1872496 } and ::Roll_Pan::{ user=1839998 }\
 200 BPM, 4:35 | 6.99★
 
 On the other side of the style spectrum from the previous map, this collab map is a very conventional 7-star at 200 BPM. With an extremely clean style and enjoyable song to back it up, this map has attracted over 540 favourites, making it one of the most favourited maps in the graveyard. If you enjoy a simple yet challenging experience, this is a map you can't skip.
@@ -47,7 +47,7 @@ When it comes to iconic artist names within the osu! community, *Imperial Circus
 
 [![](/wiki/shared/news/2020-12-21-project-loved-december-2020/osu/4-revolvania.jpg)](https://osu.ppy.sh/community/forums/topics/1207207)
 
-[RetroSpecter - REVOLVANIA](https://osu.ppy.sh/beatmapsets/887302#osu) by ::Sanzu\1Alternate::{ user=13261558 }, ::GAO HAO::{ user=8964050 } and ::Isterix::{ user=7276846 }\
+[RetroSpecter - REVOLVANIA](https://osu.ppy.sh/beatmapsets/887302#osu) by ::Sanzu_Alternate::{ user=13261558 }, ::GAO HAO::{ user=8964050 } and ::Isterix::{ user=7276846 }\
 190 BPM, 3:47 | 2.31★ – 7.20★
 
 There are plenty of mapsets of Undertale songs or remixes, but few are able to rise up and enter the spotlight like this one has, having gathered over 170 favourites in the graveyard alone. This mapset features 8 difficulties reaching between 2 and 7 stars in difficulty, and the maps themselves are fairly well-rounded in the patterns that they offer. No matter your skill level, this is a great mapset to go to if you're just looking to have a fun time (or a bad time?).

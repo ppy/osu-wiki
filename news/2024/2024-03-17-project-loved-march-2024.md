@@ -101,11 +101,11 @@ Want this map to finally enter Loved? Go give it your vote!
 
 [![](/wiki/shared/news/2024-03-17-project-loved-march-2024/129658.jpg)](https://osu.ppy.sh/community/forums/topics/1898147)
 
-[Lyapis Trubetskoy - Tantsuy!](https://osu.ppy.sh/beatmapsets/129658#osu) by ::Natteke::{ user=157177 }, ::Natteke desu::{ user=1848318 }, ::Nemis::{ user=1635091 }, and ::Vass\1Bass::{ user=188248 }\
+[Lyapis Trubetskoy - Tantsuy!](https://osu.ppy.sh/beatmapsets/129658#osu) by ::Natteke::{ user=157177 }, ::Natteke desu::{ user=1848318 }, ::Nemis::{ user=1635091 }, and ::Vass_Bass::{ user=188248 }\
 212 BPM, 1:47 | 1.85★, 2.58★, 3.03★, 4.46★, 5.32★\
 *description written by ::vyper::{ user=9948665 }*
 
-First uploaded in 2013 and unfortunately left to the throes of the graveyard after all of these years, [Lyapis Trubetskoy - Tantsuy!](https://osu.ppy.sh/beatmapsets/129658#osu/327496) created by the legendary ::Natteke::{ user=157177 }, and featuring guest difficulties by ::Vass\1Bass::{ user=188248 }, ::Nemis::{ user=1635091 }, and ::Jounzan::{ user=1848318 } (also known as EvilElvis or Natteke desu), finally gets its chance to shine!
+First uploaded in 2013 and unfortunately left to the throes of the graveyard after all of these years, [Lyapis Trubetskoy - Tantsuy!](https://osu.ppy.sh/beatmapsets/129658#osu/327496) created by the legendary ::Natteke::{ user=157177 }, and featuring guest difficulties by ::Vass_Bass::{ user=188248 }, ::Nemis::{ user=1635091 }, and ::Jounzan::{ user=1848318 } (also known as EvilElvis or Natteke desu), finally gets its chance to shine!
 
 This fan-favorite *Ranked Reject* is a short yet sweet experience with a runtime of 1 minute and 51 seconds, and has a difficulty for all skill levels, so there's definitely something to enjoy for everyone. The mapset itself features rhythms, patterns, and difficulty settings common for Natteke's offerings, all from an exciting song choice. There really isn't much else to ask for.
 
@@ -247,7 +247,7 @@ PIPOPIPOPAPIPOPE PIPOPIPOPAPIPO PIPOPIPOPAPIPOPEPO PIPOPIPOPAPIPOPE PIPOPIPOPAPI
 
 [![](/wiki/shared/news/2024-03-17-project-loved-march-2024/1137439.jpg)](https://osu.ppy.sh/community/forums/topics/1898137)
 
-[katagiri - Sendan Life (katagiri Bootleg)](https://osu.ppy.sh/beatmapsets/1137439#taiko) by ::Roxy-::{ user=11931563 }, ::aHTaoN::{ user=4655546 }, ::EJ\1\_::{ user=7453536 }, ::ikin5050::{ user=4007649 }, ::In Dark Sky::{ user=8190266 }, ::KawaiiBass::{ user=11992585 }, ::kitafuma::{ user=8987606 }, ::Maeda::{ user=12615278 }, and ::X a v y::{ user=3738344 }\
+[katagiri - Sendan Life (katagiri Bootleg)](https://osu.ppy.sh/beatmapsets/1137439#taiko) by ::Roxy-::{ user=11931563 }, ::aHTaoN::{ user=4655546 }, ::EJ_\_::{ user=7453536 }, ::ikin5050::{ user=4007649 }, ::In Dark Sky::{ user=8190266 }, ::KawaiiBass::{ user=11992585 }, ::kitafuma::{ user=8987606 }, ::Maeda::{ user=12615278 }, and ::X a v y::{ user=3738344 }\
 260 BPM, 3:23 | 6.29★ – 8.13★\
 *description written by ::Gamelan4::{ user=9856910 }*
 
@@ -349,7 +349,7 @@ Are you ready to party? Don't headbang too much while playing, because it doesn'
 108 – 150 BPM, 5:04 | 4.78★ – 6.79★\
 *description written by ::Silhoueska Elze::{ user=11517895 }*
 
-*Vocaloid Chordjack Pack* is a plethora of maps made by \::\1Crz\]Rachel::{ user=8369409 }, \::\1Crz\]hinako1804::{ user=13747903 }, ::7912::{ user=14875348 }, and ::Ice V::{ user=12302642 }. With the amount of chordjack players present nowadays, I'm sure you'd love to have a set of jack maps get into Project Loved!
+*Vocaloid Chordjack Pack* is a plethora of maps made by \::[Crz\]Rachel::{ user=8369409 }, \::[Crz\]hinako1804::{ user=13747903 }, ::7912::{ user=14875348 }, and ::Ice V::{ user=12302642 }. With the amount of chordjack players present nowadays, I'm sure you'd love to have a set of jack maps get into Project Loved!
 
 To start things off, what makes this pack so popular? Well, again, chordjack is one of the more popular patterns in the present era of the 4K scene, and it certainly helps a lot with your physicality overall, as it can benefit other skillsets too due to how much stamina and reading is involved.
 
@@ -429,14 +429,14 @@ It's 2024 and you're still playing JAKAZiD? Yes. You're going to vote yes in the
 
 [![](/wiki/shared/news/2024-03-17-project-loved-march-2024/1572720.jpg)](https://osu.ppy.sh/community/forums/topics/1898124)
 
-[M2U - M2U Pack](https://osu.ppy.sh/beatmapsets/1572720#mania) by ::Kim\1GodSSI::{ user=2218047 }, ::arpia97::{ user=6363008 }, ::Buschan::{ user=16505281 }, ::eZmmR::{ user=8647138 }, ::Micleak::{ user=16140674 }, ::Nabi-::{ user=9014584 }, ::ruka::{ user=6117525 }, and ::TakJun::{ user=4356322 }\
+[M2U - M2U Pack](https://osu.ppy.sh/beatmapsets/1572720#mania) by ::Kim_GodSSI::{ user=2218047 }, ::arpia97::{ user=6363008 }, ::Buschan::{ user=16505281 }, ::eZmmR::{ user=8647138 }, ::Micleak::{ user=16140674 }, ::Nabi-::{ user=9014584 }, ::ruka::{ user=6117525 }, and ::TakJun::{ user=4356322 }\
 90 – 190 BPM, 3:49 | 2.36★ – 9.06★\
 The \[M2U\] and \[Gypsytronic (Long Ver) // Roasted Chicken's 4K\] difficulties are *not* being nominated for Loved.\
 *description written by ::Leeju::{ user=18219603 }*
 
 It's time for this to go up for Loved!
 
-You know it, I know it, we all know about this legendary mapset with tons of collabs and a colorful mix of 4K and 7K charts all bundled up in this mappack hosted by ::Kim\1GodSSI::{ user=2218047 }!
+You know it, I know it, we all know about this legendary mapset with tons of collabs and a colorful mix of 4K and 7K charts all bundled up in this mappack hosted by ::Kim_GodSSI::{ user=2218047 }!
 
 From beginner to seasoned veteran, rice lover or noodle enjoyer, there is always something for everyone to enjoy.
 

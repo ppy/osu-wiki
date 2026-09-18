@@ -263,21 +263,21 @@ For those looking for a challenge, this map can be enjoyed with various mods inc
 
 [![](/wiki/shared/news/2023-05-21-project-loved-may-2023/1325409.jpg)](https://osu.ppy.sh/community/forums/topics/1767913)
 
-[7_7 - Kusa Saitama 2000](https://osu.ppy.sh/beatmapsets/1325409#taiko) by ::7\17::{ user=7491106 }, ::EJ\1\_::{ user=7453536 } and ::Kobayu::{ user=1834202 }\
+[7_7 - Kusa Saitama 2000](https://osu.ppy.sh/beatmapsets/1325409#taiko) by ::7_7::{ user=7491106 }, ::EJ_\_::{ user=7453536 } and ::Kobayu::{ user=1834202 }\
 300 BPM, 1:14 | 6.79★, 7.57★, 7.63★\
 *description written by ::Sebola::{ user=15821708 }*
 
 Kyou no gohan wa...\~
 
-Today we don't have rice, but we have speedcore kicks and snares! Featuring difficulties from ::7\17::{ user=7491106 }, Kobayu and ::EJ\1\_::{ user=7453536 }, this beatmap features fun patterns and SVs, with kiai flash gimmicks on [7_7's difficulty](https://osu.ppy.sh/beatmapsets/1325409#taiko/2745548). It's a map supposed to be played without mods, but if you're looking for a challenge, give it a try with some! Now then, are you ready for today's rice?
+Today we don't have rice, but we have speedcore kicks and snares! Featuring difficulties from ::7_7::{ user=7491106 }, Kobayu and ::EJ_\_::{ user=7453536 }, this beatmap features fun patterns and SVs, with kiai flash gimmicks on [7_7's difficulty](https://osu.ppy.sh/beatmapsets/1325409#taiko/2745548). It's a map supposed to be played without mods, but if you're looking for a challenge, give it a try with some! Now then, are you ready for today's rice?
 
 [![](/wiki/shared/news/2023-05-21-project-loved-may-2023/1608096.jpg)](https://osu.ppy.sh/community/forums/topics/1767912)
 
-[Yu-dachi x Instant - Cup of Tea (Coffee Break)](https://osu.ppy.sh/beatmapsets/1608096#taiko) by ::Shamirin\1mzk::{ user=11325757 }\
+[Yu-dachi x Instant - Cup of Tea (Coffee Break)](https://osu.ppy.sh/beatmapsets/1608096#taiko) by ::Shamirin_mzk::{ user=11325757 }\
 78 BPM, 2:33 | 4.99★\
 *description written by ::Eriha::{ user=16320311 }*
 
-This month I introduce a very distinctive map by mapper ::Shamirin\1mzk::{ user=11325757 }, who has recently become so popular that he has been picked in the Loved poll many times.
+This month I introduce a very distinctive map by mapper ::Shamirin_mzk::{ user=11325757 }, who has recently become so popular that he has been picked in the Loved poll many times.
 
 This map appeared in EX1 of the Qualifiers of the [Taiko Suiji Cup 2023](https://osu.ppy.sh/community/forums/topics/1682568). Those of you who hear this song for the first time will expect it to be a very easy map, but that is not the case at all! The speed of this map is very slow, but the very difficult rhythm will make it extremely difficult to get an S rank or improve accuracy!
 
@@ -439,11 +439,11 @@ Want to see this banger reach the Loved library? Come on, *bring it on*, cast yo
 
 [![](/wiki/shared/news/2023-05-21-project-loved-may-2023/729871.jpg)](https://osu.ppy.sh/community/forums/topics/1767901)
 
-[senya - Kimi to Dareka no Yasashisa ni](https://osu.ppy.sh/beatmapsets/729871#mania) by ::Wilben\1Chan::{ user=6659363 }\
+[senya - Kimi to Dareka no Yasashisa ni](https://osu.ppy.sh/beatmapsets/729871#mania) by ::Wilben_Chan::{ user=6659363 }\
 160 BPM, 3:26 | 5.23★\
 *description written by ::kadoen::{ user=12780575 }*
 
-::Wilben\1Chan::{ user=6659363 } returns to Loved voting with [senya - Kimi to Dareka no Yasashisa ni](https://osu.ppy.sh/beatmapsets/729871#mania). This map shares similarities with their previous Loved entry, [senya - Zouka de Arou to Shita Mono](https://osu.ppy.sh/beatmapsets/781166#mania/1640684), and those similarities go beyond just the artist!
+::Wilben_Chan::{ user=6659363 } returns to Loved voting with [senya - Kimi to Dareka no Yasashisa ni](https://osu.ppy.sh/beatmapsets/729871#mania). This map shares similarities with their previous Loved entry, [senya - Zouka de Arou to Shita Mono](https://osu.ppy.sh/beatmapsets/781166#mania/1640684), and those similarities go beyond just the artist!
 
 Indeed, this is a chordstream-based consistency pick, with small breaks and just a few LNs sprinkled in a couple of sections to accentuate the melody. The consistent patterning makes it a nice challenge at various skill levels, whether you're leveling up your chordstream skills or you're a master looking to test your accuracy. This may be the reason it was picked in the [MWC 7K 2019 Quarterfinals mappool](/wiki/Tournaments/MWC/2019_7K#quarterfinals), where it gained popularity and was played in all matches except the one in which it was banned!
 
@@ -465,11 +465,11 @@ With an impressive play count for its key count and skill set, we hope that you 
 
 [![](/wiki/shared/news/2023-05-21-project-loved-may-2023/448507.jpg)](https://osu.ppy.sh/community/forums/topics/1767899)
 
-[FELT - New World](https://osu.ppy.sh/beatmapsets/448507#mania) by ::Cuppp::{ user=2345293 } and ::aya\1old\11::{ user=4280188 }\
+[FELT - New World](https://osu.ppy.sh/beatmapsets/448507#mania) by ::Cuppp::{ user=2345293 } and ::aya_old_1::{ user=4280188 }\
 195 BPM, 3:59 | 9.11★\
 *description written by ::-NoName-::{ user=10400730 }*
 
-[FELT - New World](https://osu.ppy.sh/beatmapsets/448507#mania), a collaboration chart between ::Cuppp::{ user=2345293 } and ::aya\1old\11::{ user=4280188 } (also known as SoF), has been nominated for Project Loved's voting stage.
+[FELT - New World](https://osu.ppy.sh/beatmapsets/448507#mania), a collaboration chart between ::Cuppp::{ user=2345293 } and ::aya_old_1::{ user=4280188 } (also known as SoF), has been nominated for Project Loved's voting stage.
 
 This is quite an old chart. I hope you are good at O2Jam-style brackets, because there are plenty of that to go around in this chart. This is the kind of chart that you either can or cannot play well.
 

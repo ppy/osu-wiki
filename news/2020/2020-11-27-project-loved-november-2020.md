@@ -120,7 +120,7 @@ When I got on the bus I wasn't expecting such a smooth, graceful ride, but with 
 
 [![](/wiki/shared/news/2020-11-27-project-loved-november-2020/taiko/3-cho-super-fast-internet-san.jpg)](https://osu.ppy.sh/community/forums/topics/1190602)
 
-[Camellia feat. Nanahira feat. 7_7 - Cho-Super-Fast-Internet-san](https://osu.ppy.sh/beatmapsets/1237215#taiko) by ::7\17::{ user=7491106 }\
+[Camellia feat. Nanahira feat. 7_7 - Cho-Super-Fast-Internet-san](https://osu.ppy.sh/beatmapsets/1237215#taiko) by ::7_7::{ user=7491106 }\
 240 BPM, 1:42 | 7.65★\
 *description written by ::nyanmi-1828::{ user=6866480 }*
 

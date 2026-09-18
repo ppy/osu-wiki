@@ -40,7 +40,7 @@ The Intermediate Global Taiko Showdown 2018 was run by various osu!taiko communi
 | :-- | :-- |
 | Organizer | ::{ flag=CA }:: ::FlamingRok::{ user=2015353 }, ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 } |
 | Mappool selector | ::{ flag=PT }:: ::babysnakes::{ user=4669728 }, ::{ flag=CA }:: ::FlamingRok::{ user=2015353 }, ::{ flag=ID }:: ::Poii::{ user=7924938 } |
-| Referee | ::{ flag=JP }:: ::Briesmas::{ user=2865172 }, ::{ flag=AU }:: ::cactusthegreat::{ user=5592409 }, ::{ flag=US }:: ::ITotallyGetThat::{ user=8770622 }, ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, ::{ flag=RU }:: ::-\_-Nico-\_-::{ user=9689534 }, ::{ flag=JP }:: ::Noko\1BSF::{ user=3811831 }, ::{ flag=TR }:: ::oralekin::{ user=7631823 }, ::{ flag=FR }:: ::TLQ\_Yoshii::{ user=7157133 } |
+| Referee | ::{ flag=JP }:: ::Briesmas::{ user=2865172 }, ::{ flag=AU }:: ::cactusthegreat::{ user=5592409 }, ::{ flag=US }:: ::ITotallyGetThat::{ user=8770622 }, ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, ::{ flag=RU }:: ::-\_-Nico-\_-::{ user=9689534 }, ::{ flag=JP }:: ::Noko_BSF::{ user=3811831 }, ::{ flag=TR }:: ::oralekin::{ user=7631823 }, ::{ flag=FR }:: ::TLQ\_Yoshii::{ user=7157133 } |
 | Streamer | ::{ flag=MY }:: ::Bedwyr Aorta::{ user=10875855 }, ::{ flag=DE }:: ::Heamburger::{ user=4705120 }, ::{ flag=US }:: ::ITotallyGetThat::{ user=8770622 }, ::{ flag=US }:: ::Swovine::{ user=6666316 } |
 | Commentator | ::{ flag=MY }:: ::Bedwyr Aorta::{ user=10875855 }, ::{ flag=AR }:: ::BossPlays\_02::{ user=7341471 }, ::{ flag=US }:: ::CaptainEChan::{ user=9536977 }, ::{ flag=US }:: ::Edgar\_Figaro::{ user=6508754 }, ::{ flag=EC }:: ::Gamelan4::{ user=9856910 }, ::{ flag=DE }:: ::Heamburger::{ user=4705120 } |
 | Designer | ::{ flag=US }:: ::Swovine::{ user=6666316 } |

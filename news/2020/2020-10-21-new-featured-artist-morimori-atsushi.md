@@ -51,7 +51,7 @@ Check out [this set](https://osu.ppy.sh/beatmapsets/848309) hosted by ::Cheri::{
 
 ### uma vs. Morimori Atsushi - Re:End of a Dream
 
-Check out [this popular osu! set](https://osu.ppy.sh/beatmapsets/557039) hosted by ::Battle::{ user=4037545 }, and [this osu!mania set](https://osu.ppy.sh/beatmapsets/531425) hosted by ::Critical\1Star::{ user=3793196 }!
+Check out [this popular osu! set](https://osu.ppy.sh/beatmapsets/557039) hosted by ::Battle::{ user=4037545 }, and [this osu!mania set](https://osu.ppy.sh/beatmapsets/531425) hosted by ::Critical_Star::{ user=3793196 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/108/previews/2848.mp3" type="audio/mpeg">

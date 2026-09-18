@@ -31,4 +31,4 @@ Lista wszystkich członków pomocy technicznej znajduje się na [stronie grupy](
 | ::{ flag=KR }:: ::Civil oath::{ user=3216107 } | Koreański, japoński |
 | ::{ flag=DE }:: ::Lyawi::{ user=5851253 } | Niemiecki |
 | ::{ flag=PH }:: ::Nathanael::{ user=2295078 } | Filipiński |
-| ::{ flag=PL }:: ::spaceman\1atlas::{ user=3035836 } | Polski |
+| ::{ flag=PL }:: ::spaceman_atlas::{ user=3035836 } | Polski |

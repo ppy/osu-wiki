@@ -79,19 +79,19 @@ L'osu! Beatmapping World Championship est organisé par divers membres de la com
 | ::{ flag=AU }:: | **Australie** | **Yeah The Boys** | **::Iceluin::{ user=3558897 }**, ::Kazuma::{ user=10642837 }, ::LeQuack::{ user=7121588 }, ::My Angel Watame::{ user=4525153 }, ::sahuang::{ user=5318910 } |
 | ::{ flag=BR }:: | **Brésil** | **4Fun** | **::Net0::{ user=5099768 }**, ::Ataraxia::{ user=4077912 }, ::Bariton::{ user=2026274 } |
 | ::{ flag=BR }:: | **Brésil** | **Baile Denied** | **::K4L1::{ user=11334594 }**, ::Akaeboshi::{ user=10466730 }, ::Dada::{ user=9119507 }, ::Edward::{ user=5618109 }, ::xxluizxx47::{ user=4687701 } |
-| ::{ flag=BR }:: | **Brésil** | **edgard** | **::niii\1san::{ user=5403374 }**, ::Coreanmaluco::{ user=3149577 }, ::Foerster::{ user=9050766 }, ::Mystia::{ user=4277702 }, ::oTs-Joaka::{ user=11223044 }, ::Yuuzinho::{ user=6267851 } |
+| ::{ flag=BR }:: | **Brésil** | **edgard** | **::niii_san::{ user=5403374 }**, ::Coreanmaluco::{ user=3149577 }, ::Foerster::{ user=9050766 }, ::Mystia::{ user=4277702 }, ::oTs-Joaka::{ user=11223044 }, ::Yuuzinho::{ user=6267851 } |
 | ::{ flag=BR }:: | **Brésil** | **O TIME SUDESTE** | **::Maot::{ user=3914271 }**, ::Faito::{ user=9706291 }, ::Moete::{ user=4824692 }, ::NEURONIO::{ user=7198334 }, ::Roberto::{ user=3453558 }, ::Sakura Airi::{ user=8682057 } |
 | ::{ flag=BR }:: | **Brésil** | **Project Heiko** | **::Toofu::{ user=11004271 }**, ::AlexTroIIPsy::{ user=5176421 }, ::Batatin::{ user=9138779 }, ::Gaab::{ user=7710249 }, ::Marianna::{ user=6701398 }, ::Sharpay::{ user=11251594 } |
-| ::{ flag=BR }:: | **Brésil** | **unexpected** | **::maatdesu::{ user=15441176 }**, ::Labastie\1pedro::{ user=17227807 }, ::luizinho2581::{ user=12828037 } |
-| ::{ flag=CA }:: | **Canada** | **#YesChef** | **::Gordon::{ user=7856835 }**, ::BadGraph\1::{ user=7967508 }, ::dreamteamrox115::{ user=11962943 }, ::P1Twist::{ user=12679616 }, ::PotatoDew::{ user=10964252 }, ::Shanipika::{ user=6336729 } |
+| ::{ flag=BR }:: | **Brésil** | **unexpected** | **::maatdesu::{ user=15441176 }**, ::Labastie_pedro::{ user=17227807 }, ::luizinho2581::{ user=12828037 } |
+| ::{ flag=CA }:: | **Canada** | **#YesChef** | **::Gordon::{ user=7856835 }**, ::BadGraph_::{ user=7967508 }, ::dreamteamrox115::{ user=11962943 }, ::P1Twist::{ user=12679616 }, ::PotatoDew::{ user=10964252 }, ::Shanipika::{ user=6336729 } |
 | ::{ flag=CA }:: | **Canada** | **Canada** | **::Kyumo::{ user=14689984 }**, ::alden::{ user=3545323 }, ::Elayue::{ user=6400861 }, ::Feiri::{ user=3214844 }, ::Xen::{ user=4026817 }, ::Zer0-G::{ user=12577911 } |
-| ::{ flag=CA }:: | **Canada** | **Sent to Quebec** | **::J1\1::{ user=5918561 }**, ::Azer::{ user=2155578 }, ::KKipalt::{ user=6889573 }, ::Kyrian::{ user=13653298 }, ::Monstrata::{ user=2706438 } |
+| ::{ flag=CA }:: | **Canada** | **Sent to Quebec** | **::J1_::{ user=5918561 }**, ::Azer::{ user=2155578 }, ::KKipalt::{ user=6889573 }, ::Kyrian::{ user=13653298 }, ::Monstrata::{ user=2706438 } |
 | ::{ flag=CL }:: | **Chili** | **Amber Mains** | **::Cris-::{ user=6175280 }**, ::Hazu-::{ user=4668230 }, ::Tatan::{ user=5646529 } |
 | ::{ flag=CL }:: | **Chili** | **TEAM CHISTE** | **::kanocchi::{ user=2321050 }**, ::Arminator::{ user=7678119 }, ::Barack::{ user=9402889 }, ::bentrix::{ user=6030068 }, ::Eunha::{ user=7701428 } |
 | ::{ flag=CL }:: | **Chili** | **Tortuga** | **::Pyo::{ user=6641784 }**, ::\[-Evil-\]::{ user=10234313 }, ::Crissa::{ user=5405836 }, ::KChronoZ::{ user=7918770 }, ::Kyutei::{ user=13421842 }, ::Sunazuka Akira::{ user=8846632 } |
 | ::{ flag=CN }:: | **Chine** | **SryNotInterested** | **::Yugu::{ user=3161834 }**, ::Bellicose::{ user=4298072 }, ::Firika::{ user=9590557 }, ::Garden::{ user=2849992 }, ::Necho::{ user=4086593 }, ::pw384::{ user=1343783 } |
-| ::{ flag=CY }:: | **Chypre** | **osu! CY Pog** | **::def0ltt::{ user=12221151 }**, ::SassyRiolu::{ user=14014935 }, ::vladdy\1boi::{ user=14828149 } |
-| ::{ flag=CZ }:: | **République tchèque** | **Smrding** | **::Alvieee::{ user=3579669 }**, ::CutoNaito::{ user=8064649 }, ::NitroM\1::{ user=3121234 } |
+| ::{ flag=CY }:: | **Chypre** | **osu! CY Pog** | **::def0ltt::{ user=12221151 }**, ::SassyRiolu::{ user=14014935 }, ::vladdy_boi::{ user=14828149 } |
+| ::{ flag=CZ }:: | **République tchèque** | **Smrding** | **::Alvieee::{ user=3579669 }**, ::CutoNaito::{ user=8064649 }, ::NitroM_::{ user=3121234 } |
 | ::{ flag=DK }:: | **Danemark** | **The DK Crew** | **::melon boy::{ user=3053382 }**, ::Akayume::{ user=10617530 }, ::Sagon::{ user=11775933 }, ::Striderin::{ user=10193902 }, ::vitalia::{ user=9450032 }, ::waefwerf::{ user=3868653 } |
 | ::{ flag=EE }:: | **Estonie** | **Shikaku Kakumäe** | **::Keqing::{ user=8501291 }**, ::Lotragon::{ user=6063342 }, ::Namki::{ user=5248582 }, ::schoolboy::{ user=8722791 }, ::Xayler::{ user=3649657 } |
 | ::{ flag=FR }:: | **France** | **Truands2LaGalere** | **::Realazy::{ user=918297 }**, ::BOUYAAA::{ user=405449 }, ::Halgoh::{ user=4109923 }, ::Kudosu::{ user=11038155 }, ::Sharu::{ user=5597639 }, ::Yuguiboy::{ user=5559243 } |
@@ -101,12 +101,12 @@ L'osu! Beatmapping World Championship est organisé par divers membres de la com
 | ::{ flag=DE }:: | **Allemagne** | **E-Hooligan e.V.** | **::jamesjan3::{ user=6260705 }**, ::Icekalt::{ user=5410645 }, ::Mao::{ user=2204515 }, ::Mir::{ user=8688812 }, ::Okoratu::{ user=1623405 }, ::Zetera::{ user=587737 } |
 | ::{ flag=DE }:: | **Allemagne** | **Notelock Mapping** | **::Krimek::{ user=2345078 }**, ::Bakugo-::{ user=4990127 }, ::Famous::{ user=814328 }, ::laura-::{ user=6491613 }, ::Pho::{ user=3624692 }, ::Shiguri::{ user=2665207 } |
 | ::{ flag=HK }:: | **Hong Kong** | **-1** | **::Petal::{ user=7354729 }**, ::-Atri-::{ user=2433720 }, ::gary00737::{ user=6029467 }, ::GIDZ::{ user=2286528 }, ::KwAIMSuckASFuk::{ user=9629457 }, ::Seros::{ user=10562853 } |
-| ::{ flag=HU }:: | **Hongrie** | **indula727aludni** | **::Harupion::{ user=12939945 }**, ::HeyImJarvis::{ user=14227494 }, ::Himada::{ user=10959366 }, ::Nytrocide\1::{ user=11327918 } |
+| ::{ flag=HU }:: | **Hongrie** | **indula727aludni** | **::Harupion::{ user=12939945 }**, ::HeyImJarvis::{ user=14227494 }, ::Himada::{ user=10959366 }, ::Nytrocide_::{ user=11327918 } |
 | ::{ flag=ID }:: | **Indonésie** | **komplek akira** | **::Celine::{ user=3545579 }**, ::\[Keqing\]::{ user=8972308 }, ::Ameth Rianno::{ user=5219516 }, ::AncuL::{ user=2449200 }, ::araran::{ user=8937198 }, ::Haruto::{ user=3772301 } |
-| ::{ flag=IT }:: | **Italie** | **Shinquot** | **::Shoenen::{ user=6404824 }**, ::\1Zekken::{ user=9704802 }, ::-Syncro::{ user=4338923 }, ::Shiino::{ user=9839375 } |
-| ::{ flag=IT }:: | **Italie** | **VERA ITALIA** | **::Manu028::{ user=6192633 }**, ::Boc::{ user=8637017 }, ::Daren::{ user=4704608 }, ::DT-sama::{ user=3525018 }, ::Entity\1A::{ user=14142449 }, ::GYGY::{ user=7201269 } |
-| ::{ flag=JP }:: | **Japon** | **Genshin Impact** | **::dectopia::{ user=2845904 }**,  ::a\1Blue::{ user=5645667 }, ::aramaking::{ user=4796949 }, ::KogumaX::{ user=525262 }, ::ponbot::{ user=8939857 }, ::too::{ user=12196931 } |
-| ::{ flag=KZ }:: | **Kazakhstan** | **aspanga qaraymin** | **::tadahitotsu::{ user=11653544 }**, ::\1Hornet::{ user=6862265 }, ::Calideon::{ user=5175726 }, ::Danik\1LzZ::{ user=4756779 } |
+| ::{ flag=IT }:: | **Italie** | **Shinquot** | **::Shoenen::{ user=6404824 }**, ::_Zekken::{ user=9704802 }, ::-Syncro::{ user=4338923 }, ::Shiino::{ user=9839375 } |
+| ::{ flag=IT }:: | **Italie** | **VERA ITALIA** | **::Manu028::{ user=6192633 }**, ::Boc::{ user=8637017 }, ::Daren::{ user=4704608 }, ::DT-sama::{ user=3525018 }, ::Entity_A::{ user=14142449 }, ::GYGY::{ user=7201269 } |
+| ::{ flag=JP }:: | **Japon** | **Genshin Impact** | **::dectopia::{ user=2845904 }**,  ::a_Blue::{ user=5645667 }, ::aramaking::{ user=4796949 }, ::KogumaX::{ user=525262 }, ::ponbot::{ user=8939857 }, ::too::{ user=12196931 } |
+| ::{ flag=KZ }:: | **Kazakhstan** | **aspanga qaraymin** | **::tadahitotsu::{ user=11653544 }**, ::_Hornet::{ user=6862265 }, ::Calideon::{ user=5175726 }, ::Danik_LzZ::{ user=4756779 } |
 | ::{ flag=MY }:: | **Malaisie** | **good question** | **::t ony::{ user=9697624 }**, ::\[MY\]xArief::{ user=12694468 }, ::Kardshark::{ user=4724315 } |
 | ::{ flag=MY }:: | **Malaisie** | **horny** | **::Monofly::{ user=11134301 }**, ::LavenderEclipse::{ user=13510754 }, ::Stick2Glue::{ user=6928574 }, ::squidstain::{ user=11073207 } |
 | ::{ flag=MY }:: | **Malaisie** | **MYsia** | **::Agagak::{ user=3645490 }**, ::\[ -Scarlet- \]::{ user=2427693 }, ::KPMY::{ user=12464372 }, ::Rumia-::{ user=1787171 }, ::Sweets::{ user=10279996 }, ::walaowey::{ user=1475828 } |
@@ -116,7 +116,7 @@ L'osu! Beatmapping World Championship est organisé par divers membres de la com
 | ::{ flag=PH }:: | **Philippines** | **:mm:** | **::newton-::{ user=5875419 }**, ::0ugi::{ user=3812234 }, ::Flake::{ user=7627157 }, ::LeCandy::{ user=6626249 }, ::Tsukinyuni::{ user=11545816 } |
 | ::{ flag=PH }:: | **Philippines** | **ang** | **::Sisig::{ user=12783631 }**, ::Arccanist::{ user=13596534 }, ::PentagonGlxy::{ user=19753773 }, ::Shhh453::{ user=19936043 } |
 | ::{ flag=PH }:: | **Philippines** | **i am team** | **::-Aqua::{ user=7150015 }**, ::Ajisai-::{ user=8636583 }, ::AyameMyMommy::{ user=15822813 }, ::Nagaraia::{ user=13673790 } |
-| ::{ flag=PH }:: | **Philippines** | **WEEB PH DELUXE** | **::\1xyliac::{ user=7989480 }**, ::Asagi::{ user=2439246 }, ::Dudamesh::{ user=10379135 } |
+| ::{ flag=PH }:: | **Philippines** | **WEEB PH DELUXE** | **::_xyliac::{ user=7989480 }**, ::Asagi::{ user=2439246 }, ::Dudamesh::{ user=10379135 } |
 | ::{ flag=PL }:: | **Pologne** | **grappa ice_pl Xd** | **::browiec::{ user=9426712 }**, ::Kuki1537::{ user=6174349 }, ::LosPedros::{ user=8337056 }, ::Moko::{ user=6488658 }, ::olsonn::{ user=8617799 }, ::SaltyLucario::{ user=6571670 } |
 | ::{ flag=PL }:: | **Pologne** | **Polska gurom** | **::Bass::{ user=63829 }**, ::-Sylvari::{ user=3493804 }, ::Chalwa::{ user=4826159 }, ::Skubi::{ user=3687666 }, ::wiwit::{ user=10610309 } |
 | ::{ flag=PL }:: | **Pologne** | **TwojaStara** | **::Yudragen::{ user=8406396 }**, ::Kalibe::{ user=3376777 }, ::nhlx::{ user=3827077 }, ::Peter::{ user=8623835 }, ::Venix::{ user=5999631 }, ::Zelq::{ user=8953955 } |
@@ -131,7 +131,7 @@ L'osu! Beatmapping World Championship est organisé par divers membres de la com
 | ::{ flag=SG }:: | **Singapour** | **come sock** | **::apl-::{ user=2248413 }**, ::Demonical::{ user=5447609 }, ::emilia::{ user=2003326 } |
 | ::{ flag=SG }:: | **Singapour** | **科技制图员** | **::eIis::{ user=9778431 }**, ::Flowziee::{ user=9205650 }, ::Slyze-::{ user=9162649 } |
 | ::{ flag=KR }:: | **Corée du Sud** | **JJin** | **::Kawashiro::{ user=1533796 }**, ::iLyne::{ user=13924533 }, ::Skymin::{ user=3223044 }, ::Toumei Dragon::{ user=6673830 } |
-| ::{ flag=KR }:: | **Corée du Sud** | **wannagohome** | **::Enon::{ user=2043401 }**, ::239::{ user=3261991 }, ::Kaguya\1Sama::{ user=9326064 }, ::Luscent::{ user=2688581 }, ::mayle\15::{ user=10022756 }, ::Woe::{ user=9858638 } |
+| ::{ flag=KR }:: | **Corée du Sud** | **wannagohome** | **::Enon::{ user=2043401 }**, ::239::{ user=3261991 }, ::Kaguya_Sama::{ user=9326064 }, ::Luscent::{ user=2688581 }, ::mayle_5::{ user=10022756 }, ::Woe::{ user=9858638 } |
 | ::{ flag=KR }:: | **Corée du Sud** | **WatameBang** | **::Heilia::{ user=9823042 }**, ::Acylica::{ user=1943309 }, ::Beomsan::{ user=3626063 }, ::Dailycare::{ user=1634445 }, ::Down::{ user=4694602 }, ::jieusieu::{ user=759439 } |
 | ::{ flag=ES }:: | **Espagne** | **Team Españita** | **::MrMenda::{ user=7567228 }**, ::B E R N A R D O::{ user=5109259 }, ::CebollaVladimir::{ user=15308238 }, ::GokuLook::{ user=7684497 }, ::Hikomori::{ user=7375684 }, ::quebrantahuesos::{ user=7400022 } |
 | ::{ flag=SE }:: | **Suède** | **Sverige** | **::Zer0-::{ user=4260033 }**, ::bite you death::{ user=6398464 }, ::melwoine::{ user=12091109 }, ::Saika0k1::{ user=4316633 }, ::Yooh::{ user=9828042 } |
@@ -143,10 +143,10 @@ L'osu! Beatmapping World Championship est organisé par divers membres de la com
 | ::{ flag=US }:: | **États-Unis** | **chris** | **::Tekkito::{ user=7075211 }**, ::BoshyMan741::{ user=4830687 }, ::fieryrage::{ user=3533958 }, ::Innovation::{ user=6304412 }, ::SWAGGYSWAGSTER::{ user=7813296 } |
 | ::{ flag=US }:: | **États-Unis** | **comfy culture** | **::jasontime12345::{ user=12882468 }**, ::Kurashina Asuka::{ user=7476493 }, ::Lunicia::{ user=4369309 }, ::MugiMyMommy::{ user=6251591 } |
 | ::{ flag=US }:: | **États-Unis** | **frustationan** | **::melloe::{ user=2367616 }**, ::Axarious::{ user=2614511 }, ::semaphore::{ user=6313643 } |
-| ::{ flag=US }:: | **États-Unis** | **guice blunder** | **::FrenZ396::{ user=9531903 }**, ::IOException::{ user=2688103 }, ::JeZag::{ user=3087506 }, ::over\1loadcode::{ user=7081160 }, ::Ralkinson::{ user=10646707 }, ::wafer::{ user=9416836 } |
+| ::{ flag=US }:: | **États-Unis** | **guice blunder** | **::FrenZ396::{ user=9531903 }**, ::IOException::{ user=2688103 }, ::JeZag::{ user=3087506 }, ::over_loadcode::{ user=7081160 }, ::Ralkinson::{ user=10646707 }, ::wafer::{ user=9416836 } |
 | ::{ flag=US }:: | **États-Unis** | **milk mug** | **::toybot::{ user=2848604 }**, ::amity::{ user=10676118 }, ::captin1::{ user=689997 }, ::Gillstar::{ user=7948210 }, ::omphen::{ user=8816844 }, ::synderes::{ user=5129592 } |
-| ::{ flag=US }:: | **États-Unis** | **RUSSIA TEAM 1** | **::-Doodle::{ user=12337329 }**, ::Adam\1S::{ user=11678065 }, ::Carcinogenesis::{ user=11160462 }, ::Sweet Tea::{ user=11529050 } |
-| ::{ flag=US }:: | **États-Unis** | **sheesh** | **::Kron05::{ user=10505107 }**, ::-Mish-::{ user=13972931 }, ::BlessRNG\1::{ user=9265990 }, ::ConsumerOfBean::{ user=6293158 }, ::Suicune3::{ user=6895187 }, ::suraimu::{ user=11776859 } |
+| ::{ flag=US }:: | **États-Unis** | **RUSSIA TEAM 1** | **::-Doodle::{ user=12337329 }**, ::Adam_S::{ user=11678065 }, ::Carcinogenesis::{ user=11160462 }, ::Sweet Tea::{ user=11529050 } |
+| ::{ flag=US }:: | **États-Unis** | **sheesh** | **::Kron05::{ user=10505107 }**, ::-Mish-::{ user=13972931 }, ::BlessRNG_::{ user=9265990 }, ::ConsumerOfBean::{ user=6293158 }, ::Suicune3::{ user=6895187 }, ::suraimu::{ user=11776859 } |
 | ::{ flag=VN }:: | **Vietnam** | **iced brown** | **::LMT::{ user=7262798 }**, ::Asaiga::{ user=2959560 }, ::Hikan::{ user=7968702 }, ::Kirylln::{ user=7228554 }, ::Liyuchi::{ user=3275495 }, ::Smug Nanachi::{ user=10063190 } |
 | ::{ flag=VN }:: | **Vietnam** | **Unranked Viets** | **::- Mel -::{ user=9829680 }**, ::dPeace::{ user=14937109 }, ::TrungSabito0159::{ user=14927934 } |
 | ::{ flag=VN }:: | **Vietnam** | **vietnam newbies** | **::Lottery61::{ user=13821222 }**, ::miyatohanasaki::{ user=13916687 }, ::ThachAnhHoang::{ user=14175365 } |

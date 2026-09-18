@@ -114,7 +114,7 @@ Do you think that this beast of a breakcore map deserves a spot in Project Loved
 
 [![](/wiki/shared/news/2022-09-18-project-loved-september-2022/128153.jpg)](https://osu.ppy.sh/community/forums/topics/1647707)
 
-[MiniMusicMan - Crazy La Paint](https://osu.ppy.sh/beatmapsets/128153#osu) by ::Scrublord\1old::{ user=869307 }\
+[MiniMusicMan - Crazy La Paint](https://osu.ppy.sh/beatmapsets/128153#osu) by ::Scrublord_old::{ user=869307 }\
 140 BPM, 2:22 | 6.80★, 6.80★\
 *description written by ::DigitalHypno::{ user=4384207 }*
 
@@ -128,7 +128,7 @@ The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::Boaz:
 
 [![](/wiki/shared/news/2022-09-18-project-loved-september-2022/981267.jpg)](https://osu.ppy.sh/community/forums/topics/1647706)
 
-[IOSYS - Scarlet Keisatsu no Getto- Patrol 24ji](https://osu.ppy.sh/beatmapsets/981267#taiko) by ::7\17::{ user=7491106 }\
+[IOSYS - Scarlet Keisatsu no Getto- Patrol 24ji](https://osu.ppy.sh/beatmapsets/981267#taiko) by ::7_7::{ user=7491106 }\
 320 BPM, 1:37 | 7.65★\
 *description written by ::-Kazu-::{ user=920861 }*
 

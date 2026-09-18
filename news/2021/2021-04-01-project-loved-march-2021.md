@@ -81,7 +81,7 @@ Expect yourself to be coming back to this map for years to come.
 
 [![](/wiki/shared/news/2021-03-31-project-loved-march-2021/1080535.jpg)](https://osu.ppy.sh/community/forums/topics/1284223)
 
-[SOOOO - Happppy song](https://osu.ppy.sh/beatmapsets/1080535#osu) by ::foreskin gaming::{ user=11513377 }, ::-Coffee Addict-::{ user=9985398 }, ::\[Blade\]::{ user=13806298 }, ::AnimLoli::{ user=8949841 }, ::AnzeigeistRaus::{ user=12419976 }, ::GAO HAO::{ user=8964050 }, ::Gibune::{ user=5778687 }, ::Hawnta::{ user=3275350 }, ::Jelljel::{ user=11939459 }, ::MyLonelyAlpaca::{ user=14063549 }, ::Ore::{ user=13530221 }, ::Recvee::{ user=9498216 }, ::riyuwu::{ user=10721506 }, ::Sanzu\1Alternate::{ user=13261558 }, ::Sytho::{ user=4175698 }, ::timq::{ user=9458469 } and ::Wanpachi::{ user=12157130 }\
+[SOOOO - Happppy song](https://osu.ppy.sh/beatmapsets/1080535#osu) by ::foreskin gaming::{ user=11513377 }, ::-Coffee Addict-::{ user=9985398 }, ::\[Blade\]::{ user=13806298 }, ::AnimLoli::{ user=8949841 }, ::AnzeigeistRaus::{ user=12419976 }, ::GAO HAO::{ user=8964050 }, ::Gibune::{ user=5778687 }, ::Hawnta::{ user=3275350 }, ::Jelljel::{ user=11939459 }, ::MyLonelyAlpaca::{ user=14063549 }, ::Ore::{ user=13530221 }, ::Recvee::{ user=9498216 }, ::riyuwu::{ user=10721506 }, ::Sanzu_Alternate::{ user=13261558 }, ::Sytho::{ user=4175698 }, ::timq::{ user=9458469 } and ::Wanpachi::{ user=12157130 }\
 226 BPM, 2:22 | 1.02★ – 9.06★
 
 Tired of your favourite Featured Artist songs only having impossible maps? This mapset is here to remedy that, featuring a balanced spread of 21 difficulties ranging between 1 and 9 stars. No matter your skill level, there's a difficulty in this mapset that'll perfectly challenge your skills at an insane 226 BPM, each one beautifully capturing the chaos that screams its way out of every second of the song.
@@ -117,7 +117,7 @@ osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::KuroKuroK
 
 [![](/wiki/shared/news/2021-03-31-project-loved-march-2021/624087.jpg)](https://osu.ppy.sh/community/forums/topics/1284218)
 
-[ClariS - Hitorigoto -TV MIX-](https://osu.ppy.sh/beatmapsets/624087#taiko) by ::asuasu\1yura::{ user=2875968 }, ::Consified::{ user=6502903 }, ::KamizonoShinobu::{ user=1163051 }, ::komasy::{ user=1980256 }, ::KTYN::{ user=2250574 }, ::nananass::{ user=7231722 }, ::Peaceful::{ user=165027 }, ::Pheon::{ user=292295 } and ::yyyyyyyyyyypetu::{ user=468029 }\
+[ClariS - Hitorigoto -TV MIX-](https://osu.ppy.sh/beatmapsets/624087#taiko) by ::asuasu_yura::{ user=2875968 }, ::Consified::{ user=6502903 }, ::KamizonoShinobu::{ user=1163051 }, ::komasy::{ user=1980256 }, ::KTYN::{ user=2250574 }, ::nananass::{ user=7231722 }, ::Peaceful::{ user=165027 }, ::Pheon::{ user=292295 } and ::yyyyyyyyyyypetu::{ user=468029 }\
 165 BPM, 1:28 | 4.13★ – 8.61★\
 *description written by ::POCARI SWEAT::{ user=5082685 }*
 
@@ -127,7 +127,7 @@ This old best-seller beatmap has always been popular for many players. As it has
 
 [![](/wiki/shared/news/2021-03-31-project-loved-march-2021/797466.jpg)](https://osu.ppy.sh/community/forums/topics/1284217)
 
-[Napkin Terrorizer - hello can you hear me](https://osu.ppy.sh/beatmapsets/797466#taiko) by ::7\17::{ user=7491106 }\
+[Napkin Terrorizer - hello can you hear me](https://osu.ppy.sh/beatmapsets/797466#taiko) by ::7_7::{ user=7491106 }\
 200 BPM, 1:48 | 7.53★\
 *description written by ::KuroKuroKuro::{ user=11931563 }*
 
@@ -143,7 +143,7 @@ Kobaryo is a name that doesnt need any introductions, we all know what he's up t
 
 [![](/wiki/shared/news/2021-03-31-project-loved-march-2021/1291019.jpg)](https://osu.ppy.sh/community/forums/topics/1284215)
 
-[Sakuzyo - PANDORA PARADOXXX](https://osu.ppy.sh/beatmapsets/1291019#taiko) by ::Grape\1Tea::{ user=9540073 }\
+[Sakuzyo - PANDORA PARADOXXX](https://osu.ppy.sh/beatmapsets/1291019#taiko) by ::Grape_Tea::{ user=9540073 }\
 150 BPM, 2:24 | 7.28★\
 *description written by ::nyanmi-1828::{ user=6866480 }*
 

@@ -39,7 +39,7 @@ Here's a small taste of what that includes:
 
 ### t+pazolite - cheatreal
 
-Play [the map from the video above](https://osu.ppy.sh/beatmapsets/88180) hosted by ::caren\1sk::{ user=542498 } or [this 4K osu!mania rendition](https://osu.ppy.sh/beatmapsets/1749630) hosted by ::RiP46::{ user=5222596 }!
+Play [the map from the video above](https://osu.ppy.sh/beatmapsets/88180) hosted by ::caren_sk::{ user=542498 } or [this 4K osu!mania rendition](https://osu.ppy.sh/beatmapsets/1749630) hosted by ::RiP46::{ user=5222596 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/396/Answer from X Girlz/t+pazolite - cheatreal.mp3">
@@ -249,7 +249,7 @@ osu!taiko really loves **t+pazolite**. Here's [another osu!taiko map](https://os
 Take your pick:
 
 - [Ranked osu! map](https://osu.ppy.sh/beatmapsets/186677) hosted by ::Ciyah Miapah::{ user=2805457 }
-- [Loved osu! + osu!taiko + osu!catch map](https://osu.ppy.sh/beatmapsets/70469) hosted by ::until\1old::{ user=1961512 } (a.k.a. Zapy)
+- [Loved osu! + osu!taiko + osu!catch map](https://osu.ppy.sh/beatmapsets/70469) hosted by ::until_old::{ user=1961512 } (a.k.a. Zapy)
 - [Ranked 10-star 7K osu!mania map](https://osu.ppy.sh/beatmapsets/1988057) hosted by ::tyrcs::{ user=13026904 }
 
 <audio controls>
@@ -282,7 +282,7 @@ Your newest osu! ritual is playing [this osu!taiko map](https://osu.ppy.sh/beatm
 
 ### t+pazolite - Never Let me Go
 
-Try out [this osu!catch map](https://osu.ppy.sh/beatmapsets/1393508) hosted by ::Unlucky\1w::{ user=4820793 } or [this osu!taiko map](https://osu.ppy.sh/beatmapsets/880248) hosted by ::Annabel::{ user=3388410 }!
+Try out [this osu!catch map](https://osu.ppy.sh/beatmapsets/1393508) hosted by ::Unlucky_w::{ user=4820793 } or [this osu!taiko map](https://osu.ppy.sh/beatmapsets/880248) hosted by ::Annabel::{ user=3388410 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/396/Songs/t+pazolite - Never Let me Go.mp3">

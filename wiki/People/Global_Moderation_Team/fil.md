@@ -21,7 +21,7 @@ Ang Global Moderation Team ay responsable sa mga disiplina ng chat/forum at nag-
 
 | Pangalan | Ibang wika na naiintindihan | Lugar kung saan nakafocus |
 | :-- | :-- | :-- |
-| ::{ flag=MY }:: ::- \1bibitaru\1 -::{ user=4482419 } | Chinese, Malay | Chat moderation |
+| ::{ flag=MY }:: ::- [bibitaru] -::{ user=4482419 } | Chinese, Malay | Chat moderation |
 | ::{ flag=DE }:: ::- Felix::{ user=8503985 } | German | Chat moderation |
 | ::{ flag=US }:: ::abraker::{ user=4635891 } |  | Forum moderation |
 | ::{ flag=US }:: ::Chaos::{ user=2628870 } |  | Chat moderation, beatmap moderation |
@@ -83,7 +83,7 @@ Ang Global Moderation Team ay responsable sa mga disiplina ng chat/forum at nag-
 | `#balkan` | [Balkan](https://osu.ppy.sh/community/forums/topics/83962) | ::{ flag=AT }:: ::Stefan::{ user=626907 } |
 | `#bulgarian` |  |  |
 | `#cantonese` |  | ::{ flag=HK }:: ::kanpakyin::{ user=394326 } |
-| `#chinese` | [中文](https://osu.ppy.sh/community/forums/25) | ::{ flag=MY }:: ::- \1bibitaru\1 -::{ user=4482419 }, ::{ flag=TW }:: ::Loneight::{ user=663131 }, ::{ flag=HK }:: ::kanpakyin::{ user=394326 }, ::{ flag=TW }:: ::spboxer3::{ user=197974 } |
+| `#chinese` | [中文](https://osu.ppy.sh/community/forums/25) | ::{ flag=MY }:: ::- [bibitaru] -::{ user=4482419 }, ::{ flag=TW }:: ::Loneight::{ user=663131 }, ::{ flag=HK }:: ::kanpakyin::{ user=394326 }, ::{ flag=TW }:: ::spboxer3::{ user=197974 } |
 | `#czechoslovak` |  |  |
 | `#dutch` | [Nederlands](https://osu.ppy.sh/community/forums/69) | ::{ flag=NL }:: ::n0ah::{ user=3086393 } |
 | `#english` |  | *All moderators* |

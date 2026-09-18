@@ -91,7 +91,7 @@ O Intermediate Global Taiko Showdown 2019 foi realizado por vários membros da c
 | ::{ flag=IE }:: | **Irlanda** | **::Kawaii-lili::{ user=13816802 }**, ::-WizardyNinja-::{ user=2607778 } |
 | ::{ flag=JP }:: | **Japão** | **::RinNatsume1013::{ user=9022173 }**, ::tkpnender::{ user=12682785 }, ::AILK::{ user=1212491 }, ::mukuchan::{ user=9007431 }, ::JPN::{ user=9122742 } |
 | ::{ flag=MX }:: | **México** | **::\[ Croqueto \]::{ user=1705608 }**, ::L\_CORTES\_01::{ user=12548363 }, ::Darkside550::{ user=7320933 }, ::GusPaloalto::{ user=13348305 } |
-| ::{ flag=PE }:: | **Peru** | **::Spieler\1Sync::{ user=10659299 }**, ::adriancaba::{ user=11543837 } |
+| ::{ flag=PE }:: | **Peru** | **::Spieler_Sync::{ user=10659299 }**, ::adriancaba::{ user=11543837 } |
 | ::{ flag=PL }:: | **Polônia A** | **::BeatGoat::{ user=11308471 }**, ::C O L L A P S E::{ user=12042993 }, ::Lama-aka-EMi::{ user=9148286 }, ::Moonie Wolf::{ user=7070461 } |
 | ::{ flag=PL }:: | **Polônia B** | **::Deroo::{ user=8360475 }**, ::Konrad20050::{ user=8966140 }, ::Lastminute7::{ user=7121313 }, ::Bowashe::{ user=2163544 } |
 | ::{ flag=GB }:: | **Reino Unido** | **::hammygames::{ user=12232503 }**, ::Livvo::{ user=8884687 }, ::ChicagoTed7172::{ user=2948139 }, ::Olii::{ user=7683305 } |

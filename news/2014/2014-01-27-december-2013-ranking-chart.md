@@ -20,7 +20,7 @@ Congratulations to last month's winners:
 
 **Taiko**
 
-**1st** ::asuasu\1yura::{ user=2875968 }\
+**1st** ::asuasu_yura::{ user=2875968 }\
 **2nd** ::seiichiz::{ user=2459534 }\
 **3rd** ::Rappu::{ user=1207106 }
 

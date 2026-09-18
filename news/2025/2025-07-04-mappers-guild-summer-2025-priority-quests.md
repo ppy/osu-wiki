@@ -95,7 +95,7 @@ We'd also like to give an extra shoutout to mappers who've been going above and 
 | :-- | :-- |
 | ::{ flag=HK }:: ::Irone OSU::{ user=10678230 } | 12 |
 | ::{ flag=ID }:: ::Hinsvar::{ user=1249323 } | 10 |
-| ::{ flag=SG }:: ::\1gt::{ user=8301957 } | 9 |
+| ::{ flag=SG }:: ::_gt::{ user=8301957 } | 9 |
 | ::{ flag=US }:: ::Wispy::{ user=11106929 } | 8 |
 | ::{ flag=US }:: ::Aeril::{ user=4334976 } | 8 |
 | ::{ flag=HK }:: ::iRedi::{ user=8005579 } | 8 |
@@ -104,7 +104,7 @@ We'd also like to give an extra shoutout to mappers who've been going above and 
 | ::{ flag=HK }:: ::BlackBN::{ user=6291741 } | 6 |
 | ::{ flag=CN }:: ::iBell::{ user=4298072 } | 5 |
 | ::{ flag=ID }:: ::Pyra-san::{ user=31126430 } | 5 |
-| ::{ flag=CA }:: ::Unlucky\1w::{ user=4820793 } | 5 |
+| ::{ flag=CA }:: ::Unlucky_w::{ user=4820793 } | 5 |
 | ::{ flag=FI }:: ::Antti::{ user=13281473 } | 5 |
 
 When priority quests were initially created, we didn't expect this much repeat participation. That's also why we don't have any special prizes for these folks yet, but based on how things are going, we should consider changing that.

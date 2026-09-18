@@ -32,4 +32,4 @@ Die [Gruppenseite für das technische Support-Team](https://osu.ppy.sh/groups/22
 | ::{ flag=KR }:: ::Civil oath::{ user=3216107 } | Koreanisch, Japanisch |
 | ::{ flag=DE }:: ::Lyawi::{ user=5851253 } | Deutsch |
 | ::{ flag=PH }:: ::Nathanael::{ user=2295078 } | Philippinisch |
-| ::{ flag=PL }:: ::spaceman\1atlas::{ user=3035836 } | Polnisch |
+| ::{ flag=PL }:: ::spaceman_atlas::{ user=3035836 } | Polnisch |

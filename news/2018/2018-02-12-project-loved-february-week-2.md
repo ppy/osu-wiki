@@ -69,7 +69,7 @@ An often submitted community favorite, ::Alonevpk::{ user=2080978 }'s me & u has
 
 [![](/wiki/shared/news/2018-02-12-project-loved-february-week-2/osu/gigantic-otn.jpg)](https://osu.ppy.sh/community/forums/topics/702306)
 
-Possibly scraping the line of what is considered a "love song", ::caren\1sk::{ user=542498 }'s Gigantic O.T.N is a powerhouse of popular 2013 mapper GD's including ::Aqo::{ user=308902 }, ::Reol::{ user=1945351 }, ::HabiHolic::{ user=1974436 }, and more. Most difficulties come with both an AR9 and AR10 diff for those who prefer a bit more of a reading challenge, though every difficulty comes jam-packed with fun patterns giving the whole set a lot of playability.
+Possibly scraping the line of what is considered a "love song", ::caren_sk::{ user=542498 }'s Gigantic O.T.N is a powerhouse of popular 2013 mapper GD's including ::Aqo::{ user=308902 }, ::Reol::{ user=1945351 }, ::HabiHolic::{ user=1974436 }, and more. Most difficulties come with both an AR9 and AR10 diff for those who prefer a bit more of a reading challenge, though every difficulty comes jam-packed with fun patterns giving the whole set a lot of playability.
 
 ## osu!taiko
 

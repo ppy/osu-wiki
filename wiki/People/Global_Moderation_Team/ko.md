@@ -88,7 +88,7 @@ tags:
 | ::{ flag=HK }:: ::Petal::{ user=7354729 } | 광둥어, 중국어 | General moderation |
 | ::{ flag=KR }:: ::Petit::{ user=4637369 } | 한국어, 일본어 | 채팅 관리 |
 | ::{ flag=MY }:: ::QHideaki13::{ user=733998 } | 말레이어 | 채팅 관리 |
-| ::{ flag=PL }:: ::Redo\1::{ user=7122165 } | 폴란드어 | 스킨 커뮤니티 관리 |
+| ::{ flag=PL }:: ::Redo_::{ user=7122165 } | 폴란드어 | 스킨 커뮤니티 관리 |
 | ::{ flag=MX }:: ::Repflez::{ user=201392 } | 스페인어 | 채팅 관리 |
 | ::{ flag=FI }:: ::Riverism::{ user=4980738 } | 핀란드어, 약간의 스웨덴어, 약간의 일본어 | 매핑/모딩 커뮤니티 관리, 포럼 관리 |
 | ::{ flag=NL }:: ::Roan::{ user=8214639 } | 네덜란드어, 일본어 | 스킨 커뮤니티 관리 |
@@ -102,7 +102,7 @@ tags:
 | ::{ flag=KR }:: ::Spectator::{ user=702598 } | 한국어 | 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=AT }:: ::Stefan::{ user=626907 } | 독일어, 세르비아어 | 포럼 관리 |
 | ::{ flag=FI }:: ::terho::{ user=6090105 } | 핀란드어 | 채팅 관리 |
-| ::{ flag=NZ }:: ::THAT\1otaku::{ user=11798717 } |  | 포럼 관리, 채팅 관리 |
+| ::{ flag=NZ }:: ::THAT_otaku::{ user=11798717 } |  | 포럼 관리, 채팅 관리 |
 | ::{ flag=PE }:: ::Tiburon::{ user=18115022 } | 스페인어 | 채팅 관리 |
 | ::{ flag=CH }:: ::TicClick::{ user=672931 } | 러시아어 | 채팅 관리, 위키 관리 |
 | ::{ flag=PH }:: ::topecnz::{ user=2103927 } | 필리핀어 | 채팅 관리 |

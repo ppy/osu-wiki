@@ -19,7 +19,7 @@ Wondering what all the hype is about? Check out these previews - one listen is a
 
 ### Kegare Naki Bara Juuji
 
-Check out [this popular 2016 collab set](https://osu.ppy.sh/beatmapsets/448818) hosted by ::yf\1bmp::{ user=1243669 }, and this [unranked collab set](https://osu.ppy.sh/beatmapsets/1116349) hosted by ::Reform::{ user=3723568 }!
+Check out [this popular 2016 collab set](https://osu.ppy.sh/beatmapsets/448818) hosted by ::yf_bmp::{ user=1243669 }, and this [unranked collab set](https://osu.ppy.sh/beatmapsets/1116349) hosted by ::Reform::{ user=3723568 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/93/previews/2471.mp3" type="audio/mpeg">

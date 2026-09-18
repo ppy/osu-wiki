@@ -168,7 +168,7 @@ Finalists:
 
 - [**xi - ANiMA**](https://osu.ppy.sh/beatmapsets/1549179) by ::**Kawawa**::{ user=4647754 } with **20** votes.
 - [**eicateve - R.I.P.**](https://osu.ppy.sh/beatmapsets/1036613) by ::**Pengdoll**::{ user=6392061 } with **16** votes.
-- [**Camellia - SCREW // owo // SCREW**](https://osu.ppy.sh/beatmapsets/1217976) by ::**\1Stan**::{ user=1653229 } with **15** votes.
+- [**Camellia - SCREW // owo // SCREW**](https://osu.ppy.sh/beatmapsets/1217976) by ::**_Stan**::{ user=1653229 } with **15** votes.
 - [**Frums - Credits**](https://osu.ppy.sh/beatmapsets/1212405) by ::**Phukiir**::{ user=4556538 } with **15** votes.
 - [**t+pazolite - Tempestissimo**](https://osu.ppy.sh/beatmapsets/1179815) by ::**Kuo Kyoka**::{ user=2596306 } with **15** votes.
 - [**INZO - Overthinker**](https://osu.ppy.sh/beatmapsets/1517494) by ::**Salty Mermaid**::{ user=9037365 } with **14** votes.

@@ -43,7 +43,7 @@ The osu! Philippines Nationals 2023 - osu!taiko was run by various community mem
 | Referee | ::{ flag=PH }:: ::Aiery::{ user=10363380 }, ::{ flag=PH }:: ::Coequal::{ user=14167247 }, ::{ flag=SG }:: ::Spartric::{ user=7740442 }, ::{ flag=PE }:: ::ERA Xuste::{ user=17989444 }, ::{ flag=PH }:: ::Fluorinedesu::{ user=26539515 }, ::{ flag=PH }:: ::Shiori Shiomiya::{ user=11154860 }, ::{ flag=PH }:: ::aaronigoo::{ user=25457711 } |
 | Streamer | ::{ flag=PH }:: ::Aiery::{ user=10363380 }, ::{ flag=PH }:: ::Coequal::{ user=14167247 }, ::{ flag=SG }:: ::Spartric::{ user=7740442 } |
 | Commentator | ::{ flag=PH }:: ::Aiery::{ user=10363380 }, ::{ flag=PH }:: ::ezeenS::{ user=3679969 }, ::{ flag=PH }:: ::Toadette::{ user=11517895 }, ::{ flag=PH }:: ::Fynbi::{ user=2164993 }, ::{ flag=PH }:: ::qish::{ user=17050115 } |
-| Statistician | ::{ flag=NL }:: ::Albionthegreat::{ user=9853595 }, ::{ flag=PH }:: ::-\1Pochi\1-::{ user=18293050 }, ::{ flag=HK }:: ::ShadeCegLgMn::{ user=12609866 }, ::{ flag=PH }:: ::SurfChu85::{ user=4469895 } |
+| Statistician | ::{ flag=NL }:: ::Albionthegreat::{ user=9853595 }, ::{ flag=PH }:: ::-[Pochi]-::{ user=18293050 }, ::{ flag=HK }:: ::ShadeCegLgMn::{ user=12609866 }, ::{ flag=PH }:: ::SurfChu85::{ user=4469895 } |
 | Graphic designer | ::{ flag=PH }:: ::FLCammo::{ user=18789292 }, ::{ flag=PH }:: ::jari::{ user=13262551 }, ::{ flag=PH }:: ::yukina meng::{ user=9919550 } |
 | Wiki writer | ::{ flag=PH }:: ::topecnz::{ user=2103927 }, ::{ flag=PH }:: ::-Ichinose::{ user=12635292 } |
 
@@ -57,7 +57,7 @@ The osu! Philippines Nationals 2023 - osu!taiko was run by various community mem
 ## Participants
 
 - ::{ flag=PH }:: ::-Birds-::{ user=15273352 }
-- ::{ flag=PH }:: ::\1KN\1CuB-03::{ user=18560307 }
+- ::{ flag=PH }:: ::[KN]CuB-03::{ user=18560307 }
 - ::{ flag=PH }:: ::BPChingu::{ user=4236855 }
 - ::{ flag=PH }:: ::COLE9001::{ user=14099842 }
 - ::{ flag=PH }:: ::Euanofthedead::{ user=15676812 }
@@ -67,8 +67,8 @@ The osu! Philippines Nationals 2023 - osu!taiko was run by various community mem
 - ::{ flag=US }:: ::Kerorosan123::{ user=10989554 }
 - ::{ flag=PH }:: ::Kotaro::{ user=796530 }
 - ::{ flag=PH }:: ::Krishel17::{ user=9841880 }
-- ::{ flag=PH }:: ::Mochii\131::{ user=25140935 }
-- ::{ flag=PH }:: ::Phann\1::{ user=12905445 }
+- ::{ flag=PH }:: ::Mochii_31::{ user=25140935 }
+- ::{ flag=PH }:: ::Phann_::{ user=12905445 }
 - ::{ flag=PH }:: ::Raben::{ user=6257178 }
 - ::{ flag=PH }:: ::space-walker::{ user=9435841 }
 - ::{ flag=PH }:: ::Syntoxical::{ user=18105116 }
@@ -85,9 +85,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: ::Mochii\131::{ user=25140935 } |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: ::Mochii_31::{ user=25140935 } |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: ::Yron8::{ user=1537747 } |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: ::\1KN\1CuB-03::{ user=18560307 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: ::[KN]CuB-03::{ user=18560307 } |
 
 ## Mappool
 

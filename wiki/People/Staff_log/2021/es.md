@@ -45,7 +45,7 @@ En este registro se usan abreviaturas para los grupos de usuarios:
 
 - 7/1/2021: ::JierYagtama::{ user=7483452 } fue retirado de los **BN**
 - 15/1/2021: ::Greenshell::{ user=8693851 } fue retirado de los **BN**
-- 19/1/2021: ::Rivals\17::{ user=4610379 } fue retirado de los **BN**
+- 19/1/2021: ::Rivals_7::{ user=4610379 } fue retirado de los **BN**
 - 23/1/2021: ::-Joni-::{ user=9988837 } fue retirado de los **BN provisionales**
 - 24/1/2021: ::Smokeman::{ user=2140676 } fue retirado de los **BN**
 - 24/1/2021: ::Okoratu::{ user=1623405 } fue retirado de los **BN**
@@ -198,7 +198,7 @@ En este registro se usan abreviaturas para los grupos de usuarios:
 #### Eliminaciones
 
 - 2/4/2021: ::Battle::{ user=4037545 } fue retirado de los **BN provisionales**
-- 4/4/2021: ::BaAR\1Vendel::{ user=8679346 } fue retirado de los **BN**
+- 4/4/2021: ::BaAR_Vendel::{ user=8679346 } fue retirado de los **BN**
 - 10/4/2021: ::Milan-::{ user=1052994 } fue retirado de los **BN**
 - 12/4/2021: ::Xinely::{ user=1521445 } fue retirado de los **BN**
 - 15/4/2021: ::-Aqua::{ user=7150015 } fue retirado de los **BN**
@@ -295,7 +295,7 @@ En este registro se usan abreviaturas para los grupos de usuarios:
 - 14/6/2021: ::Mordred::{ user=7265097 } fue retirado de los **BN**
 - 15/6/2021: ::C00L::{ user=4930630 } fue retirado de los **BN**
 - 22/6/2021: ::Aruel::{ user=3984370 } fue retirado de los **BN**
-- 30/6/2021: ::realy0\1::{ user=8863359 } fue retirado de los **BN**
+- 30/6/2021: ::realy0_::{ user=8863359 } fue retirado de los **BN**
 
 ## Julio
 
@@ -449,7 +449,7 @@ En este registro se usan abreviaturas para los grupos de usuarios:
 
 ## Octubre
 
-- 6/10/2021: ::\1 Another \1::{ user=3416573 } fue movido de los **osu! Alumni** al **GMT**
+- 6/10/2021: ::[ Another ]::{ user=3416573 } fue movido de los **osu! Alumni** al **GMT**
 - 10/10/2021: ::- Felix::{ user=8503985 } fue movido del **GMT** a los **osu! Alumni**
 - 14/10/2021: ::radar::{ user=7131099 } fue añadido al **NAT**
 - 14/10/2021: ::Capu::{ user=2474015 } fue añadido al **NAT**
@@ -479,10 +479,10 @@ En este registro se usan abreviaturas para los grupos de usuarios:
 - 1/10/2021: ::Mordred::{ user=7265097 } fue movido de los **BN provisionales** a los **BN**
 - 9/10/2021: ::Chatie::{ user=6524765 } fue movido de los **BN provisionales** a los **BN**
 - 9/10/2021: ::autofanboy::{ user=636114 } fue movido de los **BN provisionales** a los **BN**
-- 9/10/2021: ::\1 Decku \1::{ user=13360768 } fue movido de los **BN provisionales** a los **BN**
+- 9/10/2021: ::[ Decku ]::{ user=13360768 } fue movido de los **BN provisionales** a los **BN**
 - 9/10/2021: ::Murumoo::{ user=8001433 } fue movido de los **BN provisionales** a los **BN**
 - 9/10/2021: ::RandomeLoL::{ user=7080063 } fue movido de los **BN provisionales** a los **BN**
-- 15/10/2021: ::\1Karcher\1 2::{ user=9892196 } fue movido de los **BN provisionales** a los **BN**
+- 15/10/2021: ::[Karcher] 2::{ user=9892196 } fue movido de los **BN provisionales** a los **BN**
 - 18/10/2021: ::Een Persoon::{ user=10959501 } fue movido de los **BN provisionales** a los **BN**
 - 19/10/2021: ::Cris-::{ user=6175280 } fue movido de los **BN** a los **BN provisionales**
 - 19/10/2021: ::D0UG::{ user=13806900 } fue movido de los **BN provisionales** a los **BN**
@@ -560,7 +560,7 @@ En este registro se usan abreviaturas para los grupos de usuarios:
 
 - 3/12/2021: ::Virtue-::{ user=6144772 } fue añadido a los **BN provisionales**
 - 3/12/2021: ::Muse Dash::{ user=13695676 } fue añadido a los **BN provisionales**
-- 6/12/2021: ::Geo\1ooo::{ user=12013943 } fue añadido a los **BN provisionales**
+- 6/12/2021: ::Geo_ooo::{ user=12013943 } fue añadido a los **BN provisionales**
 - 9/12/2021: ::Kuo Kyoka::{ user=2596306 } fue añadido a los **BN provisionales**
 - 19/12/2021: ::wafer::{ user=9416836 } fue añadido a los **BN provisionales**
 - 19/12/2021: ::tadahitotsu::{ user=11653544 } fue añadido a los **BN provisionales**

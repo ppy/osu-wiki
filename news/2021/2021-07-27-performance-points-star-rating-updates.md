@@ -9,7 +9,7 @@ A brand new set of changes to the performance points and star rating algorithms 
 
 ![](/wiki/shared/news/banners/star-rating.jpg)
 
-Thanks to the efforts of some very bright minds, a new batch of changes are live for both the osu! and osu!mania game modes. Read on below to check out all the changes stated in full (courtesy of a write-up from ::spaceman\1atlas::{ user=3035836 }), including a number of graphs and charts to help things along.
+Thanks to the efforts of some very bright minds, a new batch of changes are live for both the osu! and osu!mania game modes. Read on below to check out all the changes stated in full (courtesy of a write-up from ::spaceman_atlas::{ user=3035836 }), including a number of graphs and charts to help things along.
 
 Please note: the current batch of changes contain things that will take effect immediately, as well as ones which will have no visible change for the moment but will lay out the groundwork for improvements in the future.
 
@@ -176,6 +176,6 @@ In summary, ruleset creators now have considerably more fine-grained control ove
 
 ---
 
-A huge thank you goes out to everyone involved in creating, testing and discussing these changes, and another big thanks to ::spaceman\1atlas::{ user=3035836 } for condensing all of these changes down to an easily digestible format.
+A huge thank you goes out to everyone involved in creating, testing and discussing these changes, and another big thanks to ::spaceman_atlas::{ user=3035836 } for condensing all of these changes down to an easily digestible format.
 
 —osu!team

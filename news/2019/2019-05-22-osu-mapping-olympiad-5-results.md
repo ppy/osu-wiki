@@ -30,7 +30,7 @@ In **first place** are ::**Necho**::{ user=4086593 } and ::**Ryuusei Aika**::{ u
 
 Creating both entries alone, in **second place** is ::**yaspo**::{ user=4945926 } with a total score of **161.5**! With the highest score across all entries for Creativity and Hitsounding, yaspo created a pair of excellent maps that were the highest scoring from judges Electoz and Myxomatosis.
 
-And in **third place** are ::**J1\1**::{ user=5918561 } and ::**how2miss**::{ user=4477199 } with a total score of **157**! Alongside tying the winning entry for highest score in Technique, they were awarded the highest score from judge pishifat. All in all an excellent entry from this pair.
+And in **third place** are ::**J1_**::{ user=5918561 } and ::**how2miss**::{ user=4477199 } with a total score of **157**! Alongside tying the winning entry for highest score in Technique, they were awarded the highest score from judge pishifat. All in all an excellent entry from this pair.
 
 Thank you to everybody who submitted an entry and congratulations to all of the top three finishers! Here is what each person will receive as their reward (as a reminder, 6 Olympiad Points are needed for one badge level):
 

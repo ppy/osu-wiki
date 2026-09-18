@@ -53,7 +53,7 @@ Experience this classic through one of these beatmaps from the video above:
 
 ### Fragile... (2011 Mix)
 
-Or try [this ranked osu!mania beatmap](https://osu.ppy.sh/beatmapsets/1123359) hosted by ::Blue\1Potion::{ user=13094831 }!
+Or try [this ranked osu!mania beatmap](https://osu.ppy.sh/beatmapsets/1123359) hosted by ::Blue_Potion::{ user=13094831 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/214/A.D.2995/LV.4%20-%20Fragile...%20%282011%20Mix%29.mp3" type="audio/mpeg">

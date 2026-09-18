@@ -29,7 +29,7 @@ Open up this map in editor and you'll see some immaculate yet creative designs. 
 
 I will always have a special appreciation for mappers who can produce large mapsets for songs that are not tv-sized. Lets talk about the highest difficulty "Together We've Fallen". The sliders on this map are extremely well designed so that players can take advantage of slider-leniency to play otherwise complex and difficult patterns with relative ease. Additionally, while this map features a lot of 210 217.5 BPM single-taps they all play very intuitively and provide just enough of a challenge for the player without coming off as over-snapped. Don't forget to check out the other 10 difficulties in this set! There's bound to be a difficulty suitable for everyone.
 
-- [onoken - Izayoi -INST-](https://osu.ppy.sh/beatmapsets/247580) by ::cmn\1891127::{ user=408461 }
+- [onoken - Izayoi -INST-](https://osu.ppy.sh/beatmapsets/247580) by ::cmn_891127::{ user=408461 }
 
 Wonderfully mapped. Great structural concept in this map! I also enjoyed the mapper's approach to the piano solo's towards the later half of the map. This map really showcases the beauty of the piano and lends appreciation to the genre of instrumental music. The most noticeable feature of the map of course, is it's extensive and meticulous hitsounding dedicated to the piano. Open up the map and you'll be greeted by sectioned barcodes of green lines with a multitude of piano hitsounds all set with different volumes to perfectly accompany the actual song. Try listening to these sections of the map with only hitsounds enabled and you will still be able to hear the music based solely off the hitsounding!
 
@@ -117,7 +117,7 @@ A map with a very good consistency and enjoyable patterns. What I love most abou
 
 First of all, this is "a must have beatmap" for everyone. And even though it is not 1st on this ranking chart, doesn't mean it's below current 1st. This beatmap is awesome in in terms of learning how to chord in an easier way and stair control in "intuitive" way plus farming PP on "a very lovely song" that you will never get bored off. Sure, overall you can consider this map as easy, but it is really a very good 7K beatmap with nicely done patterns which aren't too stressful.
 
-- [C-Show - Invitation from Mr.C](https://osu.ppy.sh/beatmapsets/293235) by ::\_FrEsH\1ChICkEn\_::{ user=3984370 }
+- [C-Show - Invitation from Mr.C](https://osu.ppy.sh/beatmapsets/293235) by ::\_FrEsH_ChICkEn\_::{ user=3984370 }
 
 Probably the most exciting 4K of this month which really deserve a place here. Good spread; difficulty curve and patterns. It feels like it was meant to be fun by following the main rhythm only. It is also another beatmap for improving your chord control, alongside with short and long pattern. The jacks can be a quite serious challenge as well since this is 230 BPM song. This beatmap will absolutely entertain almost everyone. "J-J-Jack show!"
 

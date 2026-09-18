@@ -43,8 +43,8 @@ The osu! Philippines Nationals 2023 - osu!mania 4K/7K was run by various communi
 | Mappool selector (7K) | ::{ flag=PH }:: ::Makiba::{ user=7539957 }, ::{ flag=PH }:: ::MadBrickTree::{ user=4790958 }, ::{ flag=PH }:: ::SurfChu85::{ user=4469895 } |
 | Referee | ::{ flag=PH }:: ::walmart5193::{ user=16468962 }, ::{ flag=PH }:: ::-Ichinose::{ user=12635292 }, ::{ flag=PH }:: ::-Hanamaru-::{ user=11348518 }, ::{ flag=PH }:: ::Kyonkichi::{ user=7585544 }, ::{ flag=PH }:: ::Gerwin13::{ user=15776185 }, ::{ flag=PH }:: ::Normiplier::{ user=10069850 }, ::{ flag=PH }:: ::SurfChu85::{ user=4469895 }, ::{ flag=PH }:: ::gay short cat::{ user=4848294 }, ::{ flag=PH }:: ::Toadette::{ user=11517895 }, ::{ flag=PH }:: ::yukina meng::{ user=9919550 }, ::{ flag=PH }:: ::Sam1Ko::{ user=24435526 }, ::{ flag=PH }:: ::ERA Xuste::{ user=17989444 }, ::{ flag=PH }:: ::PorkisGreat::{ user=10756322 } |
 | Streamer | ::{ flag=PH }:: ::GADO::{ user=1519847 }, ::{ flag=PH }:: ::Toadette::{ user=11517895 }, ::{ flag=PH }:: ::yukina meng::{ user=9919550 }, ::{ flag=PH }:: ::konkawe::{ user=15665805 }, ::{ flag=PH }:: ::bonkmi::{ user=21148690 } |
-| Commentator | ::{ flag=PH }:: ::SurfChu85::{ user=4469895 }, ::{ flag=PH }:: ::gay short cat::{ user=4848294 }, ::{ flag=PH }:: ::Toadette::{ user=11517895 }, ::{ flag=PH }:: ::yukina meng::{ user=9919550 }, ::{ flag=PH }:: ::Itawachi::{ user=12929973 }, ::{ flag=PH }:: ::My Angel Venti::{ user=16391523 }, ::{ flag=PH }:: ::walmart5193::{ user=16468962 }, ::{ flag=PH }:: ::MyukaMyMommy::{ user=12297375 }, ::{ flag=PH }:: ::-VRX-::{ user=8597906 }, ::{ flag=PH }:: ::DaMeMeThEiFxD::{ user=14324153 }, ::{ flag=PH }:: ::Znow::{ user=15513303 }, ::{ flag=PH }:: ::\1LS\1Tenshi::{ user=18520056 }, ::{ flag=PH }:: ::Lott::{ user=13821222 }, ::{ flag=PH }:: ::Argefangirl::{ user=13132585 } |
-| Statistician | ::{ flag=PH }:: ::Albionthegreat::{ user=9853595 }, ::{ flag=PH }:: ::-\1Pochi\1-::{ user=18293050 }, ::{ flag=PH }:: ::ShadeCegLgMn::{ user=12609866 }, ::{ flag=PH }:: ::SurfChu85::{ user=4469895 } |
+| Commentator | ::{ flag=PH }:: ::SurfChu85::{ user=4469895 }, ::{ flag=PH }:: ::gay short cat::{ user=4848294 }, ::{ flag=PH }:: ::Toadette::{ user=11517895 }, ::{ flag=PH }:: ::yukina meng::{ user=9919550 }, ::{ flag=PH }:: ::Itawachi::{ user=12929973 }, ::{ flag=PH }:: ::My Angel Venti::{ user=16391523 }, ::{ flag=PH }:: ::walmart5193::{ user=16468962 }, ::{ flag=PH }:: ::MyukaMyMommy::{ user=12297375 }, ::{ flag=PH }:: ::-VRX-::{ user=8597906 }, ::{ flag=PH }:: ::DaMeMeThEiFxD::{ user=14324153 }, ::{ flag=PH }:: ::Znow::{ user=15513303 }, ::{ flag=PH }:: ::[LS]Tenshi::{ user=18520056 }, ::{ flag=PH }:: ::Lott::{ user=13821222 }, ::{ flag=PH }:: ::Argefangirl::{ user=13132585 } |
+| Statistician | ::{ flag=PH }:: ::Albionthegreat::{ user=9853595 }, ::{ flag=PH }:: ::-[Pochi]-::{ user=18293050 }, ::{ flag=PH }:: ::ShadeCegLgMn::{ user=12609866 }, ::{ flag=PH }:: ::SurfChu85::{ user=4469895 } |
 | Graphic designer | ::{ flag=PH }:: ::FLCammo::{ user=18789292 }, ::{ flag=PH }:: ::jari::{ user=13262551 }, ::{ flag=PH }:: ::yukina meng::{ user=9919550 } |
 | Wiki writer | ::{ flag=PH }:: ::topecnz::{ user=2103927 }, ::{ flag=PH }:: ::-Ichinose::{ user=12635292 } |
 
@@ -59,7 +59,7 @@ The osu! Philippines Nationals 2023 - osu!mania 4K/7K was run by various communi
 
 - ::{ flag=PH }:: ::xNickSpark::{ user=8857066 }
 - ::{ flag=PH }:: ::Xyrenoxx::{ user=14174524 }
-- ::{ flag=PH }:: ::\1LS\1Tenshi::{ user=18520056 }
+- ::{ flag=PH }:: ::[LS]Tenshi::{ user=18520056 }
 - ::{ flag=PH }:: ::- Kura -::{ user=11420405 }
 - ::{ flag=AE }:: ::dragiee::{ user=17959501 }
 - ::{ flag=PH }:: ::DaMeMeThEiFxD::{ user=14324153 }
@@ -71,7 +71,7 @@ The osu! Philippines Nationals 2023 - osu!mania 4K/7K was run by various communi
 - ::{ flag=PH }:: ::- Shikimori -::{ user=14429772 }
 - ::{ flag=PH }:: ::HydraBoy54::{ user=10905488 }
 - ::{ flag=PH }:: ::Onigiggles::{ user=24133430 }
-- ::{ flag=PH }:: ::\1KN\1CuB-03::{ user=18560307 }
+- ::{ flag=PH }:: ::[KN]CuB-03::{ user=18560307 }
 - ::{ flag=PH }:: ::Axfaerie::{ user=13857689 }
 - ::{ flag=PH }:: ::Dephy::{ user=10648440 }
 - ::{ flag=PH }:: ::Dyei::{ user=23643731 }
@@ -82,7 +82,7 @@ The osu! Philippines Nationals 2023 - osu!mania 4K/7K was run by various communi
 - ::{ flag=PH }:: ::TigerWasTaken::{ user=17103236 }
 - ::{ flag=PH }:: ::iid3rp::{ user=23274559 }
 - ::{ flag=PH }:: ::Sailoring::{ user=17741392 }
-- ::{ flag=PH }:: ::\1KN\1Puddles::{ user=12123265 }
+- ::{ flag=PH }:: ::[KN]Puddles::{ user=12123265 }
 - ::{ flag=PH }:: ::NoTion::{ user=25828081 }
 - ::{ flag=PH }:: ::NoobFiddle::{ user=14843745 }
 - ::{ flag=PH }:: ::nodus::{ user=26036316 }
@@ -96,14 +96,14 @@ The osu! Philippines Nationals 2023 - osu!mania 4K/7K was run by various communi
 
 ## Participants (osu!mania 7K)
 
-- ::{ flag=PH }:: ::\1LS\1Tenshi::{ user=18520056 }
+- ::{ flag=PH }:: ::[LS]Tenshi::{ user=18520056 }
 - ::{ flag=PH }:: ::- Kura -::{ user=11420405 }
 - ::{ flag=PH }:: ::Sanni::{ user=3036686 }
 - ::{ flag=PH }:: ::DaMeMeThEiFxD::{ user=14324153 }
 - ::{ flag=PH }:: ::Arona::{ user=8748664 }
 - ::{ flag=PH }:: ::DumbFunk::{ user=16446375 }
 - ::{ flag=QA }:: ::bustinman::{ user=19089928 }
-- ::{ flag=PH }:: ::\1LS\1Shark::{ user=18270641 }
+- ::{ flag=PH }:: ::[LS]Shark::{ user=18270641 }
 - ::{ flag=PH }:: ::bojii the rock::{ user=10083439 }
 - ::{ flag=PH }:: ::arcwinolivirus::{ user=2039089 }
 - ::{ flag=PH }:: ::-VRX-::{ user=8597906 }
@@ -124,7 +124,7 @@ This competition has come to an end and resulted in the following podium:
 | Placing | Player |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: ::bojii the rock::{ user=10083439 } |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: ::\1KN\1CuB-03::{ user=18560307 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: ::[KN]CuB-03::{ user=18560307 } |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: ::iid3rp::{ user=23274559 } |
 
 ### osu!mania 7K

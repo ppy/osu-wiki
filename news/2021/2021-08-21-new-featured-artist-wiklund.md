@@ -39,7 +39,7 @@ Play through [another classic beatmap](https://osu.ppy.sh/beatmapsets/8299) host
 
 ### Joy of Living
 
-Try out [this beatmap](https://osu.ppy.sh/beatmapsets/9197) by ::0\1o::{ user=56708 }! People had some interesting usernames 10 years ago.
+Try out [this beatmap](https://osu.ppy.sh/beatmapsets/9197) by ::0_o::{ user=56708 }! People had some interesting usernames 10 years ago.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/192/Wing%20Beats%2FWiklund%20-%20Joy%20of%20Living.mp3" type="audio/mpeg">

@@ -62,7 +62,7 @@ Listed below are the players who were participating in the tournament along with
 | Seed | Player | Avg. percentage |
 | :-: | :-- | :-- |
 | 1 | ::{ flag=ID }:: ::DigiM::{ user=2659328 } | 0.99 |
-| 2 | ::{ flag=ID }:: ::Victim\1Crasher::{ user=2084869 } | 0.94 |
+| 2 | ::{ flag=ID }:: ::Victim_Crasher::{ user=2084869 } | 0.94 |
 | 3 | ::{ flag=ID }:: ::Lindaine::{ user=4572717 } | 0.80 |
 | 4 | ::{ flag=ID }:: ::ReeyaDono::{ user=10969698 } | 0.79 |
 | 5 | ::{ flag=ID }:: ::-Keitaro::{ user=3378391 } | 0.73 |
@@ -79,7 +79,7 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: ::Victim\1Crasher::{ user=2084869 } |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: ::Victim_Crasher::{ user=2084869 } |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ID }:: ::ReeyaDono::{ user=10969698 } |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ID }:: ::NeoZap::{ user=10024869 } |
 

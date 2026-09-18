@@ -19,75 +19,75 @@ We are privileged to recognise more of these incredible people (in no particular
 
 ## Contributors
 
-::!\1\1(/wiki/shared/news/2022-06-30-community-contributors-2021/kasumi-sama.jpg)::{ user=6177263 }
+::![](/wiki/shared/news/2022-06-30-community-contributors-2021/kasumi-sama.jpg)::{ user=6177263 }
 
 Single-handedly leading the charge forward to elevate the osu!taiko community tournament scene, Kasumi-sama has created a towering legacy under the Global Taiko Showdown (GTS) series. Renowned for their excellent production quality, competitive spirit and considerable reach into entry-level tournaments as a whole, GTS has rapidly established itself as one of the most robust and engaged community projects seen in recent years.
 
 Paired with a keen artistic drive and the wherewithal to engage with many of our Featured Artists and mappers alike to produce new and original content for the community, it is safe to say that Kasumi-sama represents the latest generation of a new era of osu! creators wading knee-deep into osu!'s most prominent ethic: making things more awesome.
 
-::!\1\1(/wiki/shared/news/2022-06-30-community-contributors-2021/frenzibyte.jpg)::{ user=14210502 }
+::![](/wiki/shared/news/2022-06-30-community-contributors-2021/frenzibyte.jpg)::{ user=14210502 }
 
 A regular contributor to ongoing development efforts in osu!(lazer), frenzibyte has made himself well known in the scene within recent years. His body of work is vast and difficult to accurately explain in a mere few paragraphs, best described instead as making efforts like the iOS version of the game possible once again for thousands of people to enjoy.
 
-::!\1\1(/wiki/shared/news/2022-06-30-community-contributors-2021/susko3.jpg)::{ user=18945305 }
+::![](/wiki/shared/news/2022-06-30-community-contributors-2021/susko3.jpg)::{ user=18945305 }
 
 Tirelessly striving to fix bugs and bridge the differences between computing platforms, Susko3's efforts in lazer development have proven instrumental in pushing the project forward in recent times. Their expertise in both osu!(lazer)'s underlying development framework and other libraries (such as SDL) has proven integral to ongoing projects, and we are tremendously thankful for their dedication and support.
 
-::!\1\1(/wiki/shared/news/2022-06-30-community-contributors-2021/stanr.jpg)::{ user=7217455 }
+::![](/wiki/shared/news/2022-06-30-community-contributors-2021/stanr.jpg)::{ user=7217455 }
 
 A mainstay presence in the performance points development community, StanR has been at the forefront of making meaningful changes to osu!'s key performance algorithms for a considerable length of time at this point, contributing new changes of his own and vetting those made by others. His contributions represent hundreds of hours of work and have manifested in scoring becoming fairer and more fun for everyone.
 
-::!\1\1(/wiki/shared/news/2022-06-30-community-contributors-2021/apo11o.jpg)::{ user=9558549 }
+::![](/wiki/shared/news/2022-06-30-community-contributors-2021/apo11o.jpg)::{ user=9558549 }
 
 While some Beatmap Nominators mod only maps, Apo11o has gone a step beyond and taken it upon himself to mod the scoring algorithm as well in both major versions of osu!. The level of mathematical wizardry and game knowledge this requires cannot be understated, and to maintain an active presence in the pp development scene while meeting the monthly rigours of BN life on top of it all belies an utterly extraordinary dedication to making osu! more awesome.
 
-::!\1\1(/wiki/shared/news/2022-06-30-community-contributors-2021/mbmasher.jpg)::{ user=4498616 }
+::![](/wiki/shared/news/2022-06-30-community-contributors-2021/mbmasher.jpg)::{ user=4498616 }
 
 Taking it upon himself to bring light into the (quite literal) darkness, MBmasher turned his attention upon the scoring particulars of the Flashlight mod and found them terribly lacking. So, he boldly charted ground none before him had dared to tread, and wrote an almost entirely new algorithm from the bottom up. Before him, Flashlight was a funny novelty mod with a fairly static score multiplier, and after him, it is appropriately acknowledged in code as the nuanced and difficult playstyle that it truly is.
 
-::!\1\1(/wiki/shared/news/2022-06-30-community-contributors-2021/walavouchey.jpg)::{ user=5773079 }
+::![](/wiki/shared/news/2022-06-30-community-contributors-2021/walavouchey.jpg)::{ user=5773079 }
 
 Ever present in the osu! wiki scene, Walavouchey is a relatively recent face who all but skyrocketed into prestige with his fastidious attention to detail as an editor and writer both. The path of a wikifriend is a long and arduous one, fraught with sprawling pull requests and sometimes unimaginably arduous tasks involving rewriting, reformatting, and restructuring lengthy articles and important explanations, and it is in all of this that Walavouchey has simply excelled without question. If you've ever read a news post in the past year and a bit, Walavouchey has probably edited it at some point or another.
 
-::!\1\1(/wiki/shared/news/2022-06-30-community-contributors-2021/niva.jpg)::{ user=197805 }
+::![](/wiki/shared/news/2022-06-30-community-contributors-2021/niva.jpg)::{ user=197805 }
 
 With a storied history of contribution to osu! via the Mappers' Guild as a fourth-level (maximum) member and a Mappers' Choice Awards 2020 recipient, it wouldn't be unusual to think that only the mapping scene receives the bulk of Niva's attention between his Global Moderator responsibilities and everything else.
 
 It turns out that contentment with that alone was not on the cards, and so Niva delved deep into the arcane arts of maintaining the osu! wiki, rising today to claim his true place as a recognised wikifriend. His efforts on this front are chiefly centred around ⁠— you guessed it ⁠— mapping- and tournament-related articles, making hundreds of changes to promote various other community projects and keeping things informative for everyone.
 
-::!\1\1(/wiki/shared/news/2022-06-30-community-contributors-2021/technocoder.jpg)::{ user=10338558 }
+::![](/wiki/shared/news/2022-06-30-community-contributors-2021/technocoder.jpg)::{ user=10338558 }
 
 The pillar upon which the members of the osu! community who wish to play the current build of osu! (stable) on their Tim Cook–approved Apple computers, Technocoder has well and truly lived up to his name over the years, creating a litany of Wineskins and other assorted tools designed to help get macOS users situated neatly into the game.
 
 As if this were not enough on its own, he is never far from hand in any macOS-related threads, ever ready and willing to help those who need it. His efforts have easily influenced thousands at this point, and we are enormously grateful for them.
 
-::!\1\1(/wiki/shared/news/2022-06-30-community-contributors-2021/huu.jpg)::{ user=6044237 }
+::![](/wiki/shared/news/2022-06-30-community-contributors-2021/huu.jpg)::{ user=6044237 }
 
 Entrusted with the wardenship of Project Loved by its previous maintainers, huu was saddled with no small task, and has simply excelled admirably in his time heading the project. From organising mappers, writers, and captains alike, huu has delved right into the thick of things and helped ensure that the legacy of Project Loved was set to continue in the present day, and it is a sure thing to say that it would not be anywhere near as successful as it presently is without his dedication and attention.
 
 Though he has since left the project to move on to other interests elsewhere, we are deeply grateful for his contributions, and are proud to welcome him to the list.
 
-::!\1\1(/wiki/shared/news/2022-06-30-community-contributors-2021/olibomby.jpg)::{ user=6573093 }
+::![](/wiki/shared/news/2022-06-30-community-contributors-2021/olibomby.jpg)::{ user=6573093 }
 
 The mastermind behind the deceptively simple-sounding toolkit known only as Mapping Tools, OliBomby's developmental efforts have trivialised previously impossibly arduous tasks of creative complexity in the mapping scene, making things that were simply not possible before into reality. With nearly two dozen tools crammed into one package, the lifetime hour savings of his package must number well into the thousands at this point.
 
 It should come as no surprise that when the modding and mapping community was asked to submit nominations for our list, OliBomby received the highest number of any individual we have ever seen thus far... several times over.
 
-::!\1\1(/wiki/shared/news/2022-06-30-community-contributors-2021/frukoyurdakul.jpg)::{ user=7612550 }
+::![](/wiki/shared/news/2022-06-30-community-contributors-2021/frukoyurdakul.jpg)::{ user=7612550 }
 
 Continuing a long-standing trend of developers striving to make the world better one quality-of-life utility at a time, frukoyurdakul has earned the eternal love of the osu! taiko community with his timidly-named utility titled "Manage Beatmap", more commonly referred to as the "SV tool" or the "fruko tool" for good reason.
 
 It is said that this singular utility is responsible for the birth of an entirely new mapping style, an accolade highly supported by the absolute deluge of nominations he received from the mapping and modding community.
 
-::!\1\1(/wiki/shared/news/2022-06-30-community-contributors-2021/leoflt.jpg)::{ user=3668779 }
+::![](/wiki/shared/news/2022-06-30-community-contributors-2021/leoflt.jpg)::{ user=3668779 }
 
 A constant presence in the tournament scene for many years and recently brought aboard as part of the official osu! World Cup management crew, LeoFLT's tireless efforts largely speak for themselves. From solving a variety of problems with the power of programming, to wrangling statistics with spreadsheets, creating website designs and much more, his proven technical prowess is only the tip of an especially monumental iceberg that sits square in the heart of the tournament scene.
 
-::!\1\1(/wiki/shared/news/2022-06-30-community-contributors-2021/chillierpear.jpg)::{ user=9501251 }
+::![](/wiki/shared/news/2022-06-30-community-contributors-2021/chillierpear.jpg)::{ user=9501251 }
 
 A forefront designer, caster and organiser in the osu! community tournament scene long before he became a part of the official World Cup management crew in recent months, ChillierPear's contributions in the field span many different domains. His graphical work is widely believed to have encouraged a significant uptick in the overall quality expectations for many community tournaments, plus his dedication to casting and streaming have left him with a well-earned reputation amongst those who make osu!'s competitive scene tick.
 
-::!\1\1(/wiki/shared/news/2022-06-30-community-contributors-2021/cavoeboy.jpg)::{ user=7361815 }
+::![](/wiki/shared/news/2022-06-30-community-contributors-2021/cavoeboy.jpg)::{ user=7361815 }
 
 The host and organiser for the largest osu! convention/LAN/gathering in the world, cavoeboy’s contributions have been integral towards building a sense of worldwide community in osu!. Attended by creator, developer, mapper, and player alike, cavoe's osu! event (COE) represents a monumental amount of effort and work that often goes chronically underappreciated, with professional firms on massively larger budgets struggling to organise events to the quality and expectations that COE reaches on the regular.
 

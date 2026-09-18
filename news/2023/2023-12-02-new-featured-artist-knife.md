@@ -89,7 +89,7 @@ Playlist leaders earn prizes based on [this cumulative leaderboard](/wiki/People
 | #5 | ::{ flag=US }:: ::Arityle::{ user=18397349 } | 2 | 8 |
 | #6 | ::{ flag=FI }:: ::Antti::{ user=13281473 } | 1 | 1 |
 | #7 | ::{ flag=JP }:: ::Yukiama95::{ user=18535502 } | 1 | 1 |
-| #8 | ::{ flag=KR }:: ::lnote\1::{ user=14631339 } | 1 | 1 |
+| #8 | ::{ flag=KR }:: ::lnote_::{ user=14631339 } | 1 | 1 |
 | #9 | ::{ flag=CA }:: ::DimplesRMe::{ user=13348268 } | 1 | 2 |
 | #10 | ::{ flag=US }:: ::zachmanthethird::{ user=15048710 } | 1 | 1 |
 
@@ -113,7 +113,7 @@ Playlist leaders earn prizes based on [this cumulative leaderboard](/wiki/People
 | Rank | User | Points earned | [Total points](/wiki/People/Featured_Artists/Featured_Artist_playlists#cumulative-leaderboard) |
 | --: | :-- | :-- | :-- |
 | #1 | ::{ flag=US }:: ::0143::{ user=32695517 } | 10 | **15** |
-| #2 | ::{ flag=KR }:: ::lnote\1::{ user=14631339 } | 5 | 8 |
+| #2 | ::{ flag=KR }:: ::lnote_::{ user=14631339 } | 5 | 8 |
 | #3 | ::{ flag=ID }:: ::Wishtynite::{ user=14217379 } | 3 | **10** |
 | #4 | ::{ flag=US }:: ::TPColor::{ user=19102458 } | 2 | 4 |
 | #5 | ::{ flag=CL }:: ::-Ryu-::{ user=8440939 } | 2 | 2 |

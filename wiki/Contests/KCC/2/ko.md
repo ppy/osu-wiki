@@ -35,7 +35,7 @@ tags:
 | 주최자 | ::{ flag=KR }:: ::Garalulu::{ user=757783 } |
 | 매니저 | ::{ flag=KR }:: ::Oni Suika::{ user=4848023 } |
 | 디자이너 | ::{ flag=KR }:: ::Manwon::{ user=4129020 } |
-| 심사위원 | ::{ flag=CN }:: ::\1Stan::{ user=1653229 }, ::{ flag=SG }:: ::Evening::{ user=2193881 }, ::{ flag=KR }:: ::Garalulu::{ user=757783 }, ::{ flag=PH }:: ::lenpai::{ user=5314573 }, ::{ flag=KR }:: ::Remuring::{ user=6522146 } |
+| 심사위원 | ::{ flag=CN }:: ::_Stan::{ user=1653229 }, ::{ flag=SG }:: ::Evening::{ user=2193881 }, ::{ flag=KR }:: ::Garalulu::{ user=757783 }, ::{ flag=PH }:: ::lenpai::{ user=5314573 }, ::{ flag=KR }:: ::Remuring::{ user=6522146 } |
 
 ## 링크
 

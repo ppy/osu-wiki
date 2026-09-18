@@ -108,7 +108,7 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | ::{ flag=HK }:: ::Petal::{ user=7354729 } | Kantoński, chiński | General moderation |
 | ::{ flag=KR }:: ::Petit::{ user=4637369 } | Koreański, japoński | Moderowanie czatu |
 | ::{ flag=MY }:: ::QHideaki13::{ user=733998 } | Malajski | Moderowanie czatu |
-| ::{ flag=PL }:: ::Redo\1::{ user=7122165 } | Polski | Skinning community moderation |
+| ::{ flag=PL }:: ::Redo_::{ user=7122165 } | Polski | Skinning community moderation |
 | ::{ flag=MX }:: ::Repflez::{ user=201392 } | Hiszpański | Moderowanie czatu |
 | ::{ flag=FI }:: ::Riverism::{ user=4980738 } | Fiński, szwedzki (częściowo), japoński (częściowo) | Moderowanie społeczności twórców i moderów beatmap, moderowanie forum |
 | ::{ flag=NL }:: ::Roan::{ user=8214639 } | Niderlandzki, japoński | Skinning community moderation |
@@ -122,7 +122,7 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | ::{ flag=KR }:: ::Spectator::{ user=702598 } | Koreański | Moderowanie społeczności twórców i moderów beatmap |
 | ::{ flag=AT }:: ::Stefan::{ user=626907 } | Niemiecki, serbski | Moderowanie forum |
 | ::{ flag=FI }:: ::terho::{ user=6090105 } | Fiński | Moderowanie czatu |
-| ::{ flag=NZ }:: ::THAT\1otaku::{ user=11798717 } |  | Moderowanie forum, moderowanie czatu |
+| ::{ flag=NZ }:: ::THAT_otaku::{ user=11798717 } |  | Moderowanie forum, moderowanie czatu |
 | ::{ flag=PE }:: ::Tiburon::{ user=18115022 } | Hiszpański | Moderowanie czatu |
 | ::{ flag=CH }:: ::TicClick::{ user=672931 } | Rosyjski | Moderowanie czatu, zarządzanie wiki osu! |
 | ::{ flag=PH }:: ::topecnz::{ user=2103927 } | Filipiński | Moderowanie czatu |

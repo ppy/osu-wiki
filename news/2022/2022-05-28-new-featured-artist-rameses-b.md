@@ -100,7 +100,7 @@ Try this [longer map](https://osu.ppy.sh/beatmapsets/1390484) hosted by ::Dayno:
 Have fun with these:
 
 - [osu! map](https://osu.ppy.sh/beatmapsets/1174503) hosted by ::Fall::{ user=4800816 }
-- [osu!taiko map](https://osu.ppy.sh/beatmapsets/1033681) hosted by ::gaston\12199::{ user=5938161 }
+- [osu!taiko map](https://osu.ppy.sh/beatmapsets/1033681) hosted by ::gaston_2199::{ user=5938161 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/270/Dream%20Catcher/Rameses%20B%20-%20Dream%20Catcher%20(feat.%20Charlotte%20Haining).mp3" type="audio/mpeg">

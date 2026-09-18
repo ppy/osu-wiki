@@ -34,4 +34,4 @@ The [Technical Support Team group page](https://osu.ppy.sh/groups/22) lists all 
 | ::{ flag=KR }:: ::Civil oath::{ user=3216107 } | Korean, Japanese |
 | ::{ flag=DE }:: ::Lyawi::{ user=5851253 } | German |
 | ::{ flag=PH }:: ::Nathanael::{ user=2295078 } | Filipino |
-| ::{ flag=PL }:: ::spaceman\1atlas::{ user=3035836 } | Polish |
+| ::{ flag=PL }:: ::spaceman_atlas::{ user=3035836 } | Polish |

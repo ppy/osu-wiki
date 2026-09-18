@@ -26,7 +26,7 @@ Congratulations to winner of the January Ranking Charts 2014:
 
 **Catch the Beat**
 
-- **1st** ::\[\1Crystal\]::{ user=1646397 } \- 1 month supporter
+- **1st** ::\[_Crystal\]::{ user=1646397 } \- 1 month supporter
 - **2nd** ::Awabiz::{ user=654296 }
 - **3rd** ::\_Lorenzo\_::{ user=3354524 }
 
@@ -46,7 +46,7 @@ Moreover, congratulations to the winners of February Ranking Charts 2014:
 
 **Taiko**
 
-- **1st** ::asuasu\1yura::{ user=2875968 } \- 1 month supporter
+- **1st** ::asuasu_yura::{ user=2875968 } \- 1 month supporter
 - **2nd** ::horikawa159::{ user=11573650 }
 - **3rd** ::Midnaait::{ user=1506011 }
 

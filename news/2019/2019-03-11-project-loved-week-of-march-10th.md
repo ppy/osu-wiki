@@ -208,7 +208,7 @@ Both diffs start off with dense but comfy chordstreams followed up by a mild res
 
 [![](/wiki/shared/news/2019-03-11-project-loved-week-of-march-10th/mania/ame-to-asphalt.jpg)](https://osu.ppy.sh/community/forums/topics/880215)
 
-[40mP feat. yuikonnu - Ame to Asphalt](https://osu.ppy.sh/beatmapsets/808101#mania) by ::MisterLuka::{ user=6117525 }, ::eZmmR::{ user=8647138 }, ::shuniki::{ user=4942174 } and ::\1R\1::{ user=3577322 }\
+[40mP feat. yuikonnu - Ame to Asphalt](https://osu.ppy.sh/beatmapsets/808101#mania) by ::MisterLuka::{ user=6117525 }, ::eZmmR::{ user=8647138 }, ::shuniki::{ user=4942174 } and ::[R]::{ user=3577322 }\
 190 BPM, 4:09 | 4K 6.37★, 7K 8.78★
 
 We have another fresh face coming to Project Loved. For those who want more noodles, we have MisterLuka's Ame to Asphalt which is not just a 7K pick, but it also presents a 4K map with the collaboration with two notable mappers in the 4K LN scene: eZmmR and shuniki!

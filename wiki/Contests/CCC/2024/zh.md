@@ -34,11 +34,11 @@ tags:
 
 | 职位 | 成员 |
 | :-- | :-- |
-| 主办 | ::{ flag=CN }:: ::\1Stan::{ user=1653229 } |
-| 管理 | ::{ flag=CN }:: ::\1Stan::{ user=1653229 }, ::{ flag=CN }:: ::mafumafu::{ user=3076909 } |
+| 主办 | ::{ flag=CN }:: ::_Stan::{ user=1653229 } |
+| 管理 | ::{ flag=CN }:: ::_Stan::{ user=1653229 }, ::{ flag=CN }:: ::mafumafu::{ user=3076909 } |
 | 设计 | ::{ flag=CN }:: ::AlexDunk::{ user=9194799 } |
-| 评委 | ::{ flag=MY }:: ::\1Kobii::{ user=6209713 }, ::{ flag=SG }:: ::Evening::{ user=2193881 }, ::{ flag=CN }:: ::gzdongsheng::{ user=8660315 }, ::{ flag=ID }:: ::Maxus::{ user=4335785 }, ::{ flag=US }:: ::Unpredictable::{ user=7560872 } |
-| 统计 | ::{ flag=CN }:: ::\1Crz\1Alleyne::{ user=11279273 } |
+| 评委 | ::{ flag=MY }:: ::_Kobii::{ user=6209713 }, ::{ flag=SG }:: ::Evening::{ user=2193881 }, ::{ flag=CN }:: ::gzdongsheng::{ user=8660315 }, ::{ flag=ID }:: ::Maxus::{ user=4335785 }, ::{ flag=US }:: ::Unpredictable::{ user=7560872 } |
+| 统计 | ::{ flag=CN }:: ::[Crz]Alleyne::{ user=11279273 } |
 
 ## 链接
 

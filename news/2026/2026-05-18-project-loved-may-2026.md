@@ -62,7 +62,7 @@ The osu! Loved candidates were chosen by ::BATBALL::{ user=15173952 }, ::Bernkas
 
 uhmhmm... ermm. Uhhhhhh. Hi guys. Here's your first map nominated for Loved this month.
 
-If you were keeping up with anime in 2023, the song [Iden Tei Tei Meltdown by Enako feat. Pmarusama.](https://osu.ppy.sh/beatmapsets/1965110#osu), was everywhere in the collective consciousness. Mappers ::Amateurre::{ user=7326908 } and ::Sakurai Miyo::{ user=1125647 } bring their own interpretation of the song, with a near 8.00★ alt map challenge filled with satisfying geometric aim control patterns that give the map a consistent and charming theme. There is also a more accessible Hard difficulty by ::milr\1::{ user=4485933 } for you to try!
+If you were keeping up with anime in 2023, the song [Iden Tei Tei Meltdown by Enako feat. Pmarusama.](https://osu.ppy.sh/beatmapsets/1965110#osu), was everywhere in the collective consciousness. Mappers ::Amateurre::{ user=7326908 } and ::Sakurai Miyo::{ user=1125647 } bring their own interpretation of the song, with a near 8.00★ alt map challenge filled with satisfying geometric aim control patterns that give the map a consistent and charming theme. There is also a more accessible Hard difficulty by ::milr_::{ user=4485933 } for you to try!
 
 Make sure to vote "YES c:", if you would like this map in Loved this month, and #FREEAGDT2, iykyk.
 
@@ -434,7 +434,7 @@ Whether you hate handstream LN or not, glad a new density chart is going into lo
 100 BPM, 2:34 | 5.06★\
 *description written by ::Carpihat::{ user=10085090 }*
 
-We all know that there are many banger maps from the world cup. Not only the playability, but also their nice concepts and structures. This time, we are going to nominate a LN coordination map, which was featured on osu!mania 7K World Cup 2025 Qualifier stage 4. It was mapped by our great 7-key World Cup mappooler ::\1Kobii::{ user=6209713 }, who has made numerous contributions to the 7K World Cup! All you have to do is release your finger at the right moment. It sounds simple, but it's not easy to pull off — especially if you're a new 7K player or don't have a solid foundation in gameplay. This could turn into a nightmare for you! 😈😈😈
+We all know that there are many banger maps from the world cup. Not only the playability, but also their nice concepts and structures. This time, we are going to nominate a LN coordination map, which was featured on osu!mania 7K World Cup 2025 Qualifier stage 4. It was mapped by our great 7-key World Cup mappooler ::_Kobii::{ user=6209713 }, who has made numerous contributions to the 7K World Cup! All you have to do is release your finger at the right moment. It sounds simple, but it's not easy to pull off — especially if you're a new 7K player or don't have a solid foundation in gameplay. This could turn into a nightmare for you! 😈😈😈
 
 Are you up for the challenge? We're also looking forward to seeing players battle it out on this map once again — let's see what scores they can achieve on the leaderboard! If you would like to support this song or map, please vote for us! It would be much appreciated!
 

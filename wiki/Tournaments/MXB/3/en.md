@@ -63,7 +63,7 @@ Prizes for this tournament are sponsored by ::IA daisuki::{ user=11238501 }.
 | ::\[xiao ba\]::{ user=12451181 } | ::Chinese\_Psy::{ user=11049989 } | ::qiuzhilin::{ user=11192692 } | ::Earnestlyqq::{ user=10637430 } |
 | ::a794151336::{ user=9912076 } | ::A M D::{ user=5321112 } | ::bouquetww::{ user=13007770 } | ::KaffuCchino::{ user=13461151 } |
 | ::yuki hirahira::{ user=11740840 } | ::HerrySun::{ user=13235020 } | ::Blue\_Potion::{ user=13094831 } | ::magical Sao::{ user=13235020 } |
-| ::1ess\1\1::{ user=10823750 } |  |  |  |
+| ::1ess__::{ user=10823750 } |  |  |  |
 
 ## Groups
 

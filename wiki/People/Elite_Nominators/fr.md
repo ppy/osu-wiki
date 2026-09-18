@@ -44,7 +44,7 @@ Les Elite Nominators sont sélectionnés par la Nomination Assessment Team sur l
 | ::{ flag=PH }:: ::Jemzuu::{ user=7890134 } | osu!catch |
 | ::{ flag=US }:: ::wonjae::{ user=5032045 } | osu!catch |
 | ::{ flag=US }:: ::-MysticEyes::{ user=6253266 } | osu!mania |
-| ::{ flag=MY }:: ::\1Kobii::{ user=6209713 } | osu!mania |
+| ::{ flag=MY }:: ::_Kobii::{ user=6209713 } | osu!mania |
 
 ### 2020
 
@@ -57,14 +57,14 @@ Les Elite Nominators sont sélectionnés par la Nomination Assessment Team sur l
 | ::{ flag=DE }:: ::Mordred::{ user=7265097 } | osu! |
 | ::{ flag=DE }:: ::Lasse::{ user=896613 } | osu! |
 | ::{ flag=CA }:: ::Agatsu::{ user=5579871 } | osu! |
-| ::{ flag=JP }:: ::BaAR\1Vendel::{ user=8679346 } | osu! |
+| ::{ flag=JP }:: ::BaAR_Vendel::{ user=8679346 } | osu! |
 | ::{ flag=CL }:: ::Milan-::{ user=1052994 } | osu! |
 | ::{ flag=US }:: ::Annabel::{ user=3388410 } | osu!, osu!taiko |
 | ::{ flag=ES }:: ::Raiden::{ user=2239480 } | osu!taiko |
 | ::{ flag=PH }:: ::Jemzuu::{ user=7890134 } | osu!catch |
 | ::{ flag=ID }:: ::Xinely::{ user=1521445 } | osu!catch |
 | ::{ flag=US }:: ::Unpredictable::{ user=7560872 } | osu!mania |
-| ::{ flag=ID }:: ::Rivals\17::{ user=4610379 } | osu!mania |
+| ::{ flag=ID }:: ::Rivals_7::{ user=4610379 } | osu!mania |
 
 ### 2021
 
@@ -88,7 +88,7 @@ Les Elite Nominators sont sélectionnés par la Nomination Assessment Team sur l
 | ::{ flag=GR }:: ::Nokashi::{ user=5431196 } | osu!catch |
 | ::{ flag=ES }:: ::Quenlla::{ user=4725379 } | osu!mania |
 | ::{ flag=CA }:: ::guden::{ user=11626065 } | osu!mania |
-| ::{ flag=CN }:: ::\1Stan::{ user=1653229 } | osu!mania |
+| ::{ flag=CN }:: ::_Stan::{ user=1653229 } | osu!mania |
 | ::{ flag=KR }:: ::Murumoo::{ user=8001433 } | osu!mania |
 
 ### 2022
@@ -155,7 +155,7 @@ Les Elite Nominators sont sélectionnés par la Nomination Assessment Team sur l
 | ::{ flag=ZA }:: ::Mattay::{ user=9748303 } | osu! |
 | ::{ flag=KR }:: ::momoyo::{ user=12469536 } | osu! |
 | ::{ flag=RU }:: ::NeKroMan4ik::{ user=11387664 } | osu! |
-| ::{ flag=SG }:: ::\1gt::{ user=8301957 } | osu!taiko |
+| ::{ flag=SG }:: ::_gt::{ user=8301957 } | osu!taiko |
 | ::{ flag=HK }:: ::BlackBN::{ user=6291741 } | osu!taiko |
 | ::{ flag=HK }:: ::iRedi::{ user=8005579 } | osu!taiko |
 | ::{ flag=KR }:: ::Spectator::{ user=702598 } | osu!catch |

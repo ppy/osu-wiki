@@ -66,7 +66,7 @@ The osu! Battle Archive Malaysia was run by various community members.
 | **1v2** | ::{ flag=MY }:: **::Kumaxione::{ user=2582531 }**, ::{ flag=MY }:: ::wuhua::{ user=2932510 } |
 | **Cokoroi** | ::{ flag=MY }:: **::Beckon::{ user=5114388 }**, ::{ flag=MY }:: ::Low Sens Player::{ user=8892909 } |
 | **KEMOMIMI EDM SKWAD** | ::{ flag=MY }:: **::MeeSahKey::{ user=12353050 }**, ::{ flag=MY }:: ::Eiya::{ user=9888771 } |
-| **Like Father Like Son** | ::{ flag=MY }:: **::Lucy\1LuQ::{ user=14319338 }**, ::{ flag=MY }:: ::Hachune Miku::{ user=10584780 } |
+| **Like Father Like Son** | ::{ flag=MY }:: **::Lucy_LuQ::{ user=14319338 }**, ::{ flag=MY }:: ::Hachune Miku::{ user=10584780 } |
 | **:okniceperson:** | ::{ flag=MY }:: **::milo Penguin::{ user=10702232 }**, ::{ flag=MY }:: ::Maopo::{ user=15293336 } |
 | **pufferfishes** | ::{ flag=MY }:: **::Watson Amelia::{ user=12674638 }**, ::{ flag=MY }:: ::Mano Aloe::{ user=5429513 } |
 | **Rocket League Players** | ::{ flag=MY }:: **::GKen::{ user=12633052 }**, ::{ flag=MY }:: ::LavenderEclipse::{ user=13510754 } |
@@ -80,10 +80,10 @@ The osu! Battle Archive Malaysia was run by various community members.
 | **Ahmad** | ::{ flag=MY }:: **::domiyyyy::{ user=12126638 }**, ::{ flag=MY }:: ::maharun::{ user=7537273 } |
 | **cutest malaysia couple** | ::{ flag=MY }:: **::Chiyuu::{ user=8226107 }**, ::{ flag=MY }:: ::Zygody::{ user=3677251 } |
 | **Horny 14s** | ::{ flag=MY }:: **::Snowy5441::{ user=13865320 }**, ::{ flag=MY }:: ::AsianEnd::{ user=17010088 } |
-| **I was forced to play this** | ::{ flag=MY }:: **::\1Winter\1::{ user=7373182 }**, ::{ flag=MY }:: ::Fancyyy::{ user=12616268 } |
+| **I was forced to play this** | ::{ flag=MY }:: **::[Winter]::{ user=7373182 }**, ::{ flag=MY }:: ::Fancyyy::{ user=12616268 } |
 | **早上好中国现在我有冰激淋我很喜欢冰激淋 (Good Morning China I Have Ice Cream Now I Love Ice Cream)** | ::{ flag=MY }:: **::sealw4ll::{ user=12289818 }**, ::{ flag=MY }:: ::MinaMyoui::{ user=6996926 } |
 | **The Alieppie Supremacy** | ::{ flag=MY }:: **::Aleppie::{ user=766445 }**, ::{ flag=MY }:: ::Alippie::{ user=13173302 } |
-| **low combo SS** | ::{ flag=MY }:: **::vernonlim::{ user=10167542 }**, ::{ flag=MY }:: ::cloud\1chaser02::{ user=7673764 } |
+| **low combo SS** | ::{ flag=MY }:: **::vernonlim::{ user=10167542 }**, ::{ flag=MY }:: ::cloud_chaser02::{ user=7673764 } |
 | **Mio Supremacy** | ::{ flag=MY }:: **::Judicious::{ user=8087710 }**, ::{ flag=MY }:: ::Changed::{ user=8009988 } |
 | **safe spot** | ::{ flag=MY }:: **::Addam::{ user=11716599 }**, ::{ flag=MY }:: ::Kiddthehaz::{ user=10838547 } |
 | **chunchunmaru** | ::{ flag=MY }:: **::MyAngelFable::{ user=11234664 }**, ::{ flag=MY }:: ::\_Rel\_::{ user=11622287 } |
@@ -102,21 +102,21 @@ The osu! Battle Archive Malaysia was run by various community members.
 | **ur mom** | ::{ flag=MY }:: **::Houshou Marine::{ user=6402211 }**, ::{ flag=MY }:: ::Banner::{ user=14290988 } |
 | **"oh no"** | ::{ flag=MY }:: **::RushiaFanGirl::{ user=11918602 }**, ::{ flag=MY }:: ::Illuxz::{ user=11916798 } |
 | **雪花飘飘北风啸啸 (Snowflakes Fluttering North Wind Howling)** | ::{ flag=MY }:: **::JKLiew02::{ user=17434745 }**, ::{ flag=MY }:: ::Iyouka::{ user=7138499 } |
-| **Chicken Sandwich** | ::{ flag=MY }:: **::fernsfurn::{ user=14831389 }**, ::{ flag=MY }:: ::Fuurin\1Desu::{ user=18173411 } |
-| **LOLI ANNIHILATOR** | ::{ flag=MY }:: **::xanotic::{ user=18097295 }**, ::{ flag=MY }:: ::\1MY\1ISPROGILER::{ user=10911621 } |
+| **Chicken Sandwich** | ::{ flag=MY }:: **::fernsfurn::{ user=14831389 }**, ::{ flag=MY }:: ::Fuurin_Desu::{ user=18173411 } |
+| **LOLI ANNIHILATOR** | ::{ flag=MY }:: **::xanotic::{ user=18097295 }**, ::{ flag=MY }:: ::[MY]ISPROGILER::{ user=10911621 } |
 | **poggers9000** | ::{ flag=MY }:: **::Hinnoa::{ user=11001723 }**, ::{ flag=MY }:: ::Havvik::{ user=9868585 } |
 | **Sheep** | ::{ flag=MY }:: **::FaithInOsu::{ user=10178187 }**, ::{ flag=MY }:: ::Vexine::{ user=4042706 } |
 | **i just cooked cheese** | ::{ flag=MY }:: **::RyzenPP::{ user=16391241 }**, ::{ flag=MY }:: ::NAVolkan::{ user=14981515 } |
 | **Chicken Mutton** | ::{ flag=MY }:: **::Inequality::{ user=8455034 }**, ::{ flag=MY }:: ::Hiqal::{ user=13892584 } |
 | **Penguin Enjoyers** | ::{ flag=MY }:: **::wantoon::{ user=16042959 }**, ::{ flag=MY }:: ::CXC1::{ user=12004902 } |
-| **e** | ::{ flag=MY }:: **::Eximious::{ user=19872191 }**, ::{ flag=MY }:: ::\1GRiD::{ user=20743023 } |
+| **e** | ::{ flag=MY }:: **::Eximious::{ user=19872191 }**, ::{ flag=MY }:: ::_GRiD::{ user=20743023 } |
 | **pen el grande** | ::{ flag=MY }:: **::Zervail::{ user=13047340 }**, ::{ flag=MY }:: ::DARKWEBXD::{ user=13060849 } |
 | **amriourmommy** | ::{ flag=MY }:: **::\[Fubuki\]::{ user=14411486 }**, ::{ flag=MY }:: ::GideonTan::{ user=17426621 } |
 | **Monkeybsns** | ::{ flag=MY }:: **::ClawViper::{ user=2681361 }**, ::{ flag=MY }:: ::Jeffrey::{ user=4777134 } |
 | **aidanyunusfanclub** | ::{ flag=MY }:: **::pootisman1547::{ user=6611419 }**, ::{ flag=MY }:: ::PenguinMann::{ user=18897374 } |
-| **HD Sairyō** | ::{ flag=MY }:: **::Benzi\1LZK::{ user=12017783 }**, ::{ flag=MY }:: ::Wish\1::{ user=14300067 } |
-| **wodehek** | ::{ flag=MY }:: **::-Aozora::{ user=9720319 }**, ::{ flag=MY }:: ::jon\1yy::{ user=17402630 } |
-| **Moist Shades** | ::{ flag=MY }:: **::Aasheda\1::{ user=7614055 }**, ::{ flag=MY }:: ::ManzMalaya::{ user=3999924 } |
+| **HD Sairyō** | ::{ flag=MY }:: **::Benzi_LZK::{ user=12017783 }**, ::{ flag=MY }:: ::Wish_::{ user=14300067 } |
+| **wodehek** | ::{ flag=MY }:: **::-Aozora::{ user=9720319 }**, ::{ flag=MY }:: ::jon_yy::{ user=17402630 } |
+| **Moist Shades** | ::{ flag=MY }:: **::Aasheda_::{ user=7614055 }**, ::{ flag=MY }:: ::ManzMalaya::{ user=3999924 } |
 | **Amogus** | ::{ flag=MY }:: **::Kayoris::{ user=11882627 }**, ::{ flag=MY }:: ::Dxboy::{ user=14351567 } |
 
 ## Podium

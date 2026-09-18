@@ -118,7 +118,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=HK }:: ::Petal::{ user=7354729 } | กวางตุ้ง, จีน | General moderation |
 | ::{ flag=KR }:: ::Petit::{ user=4637369 } | เกาหลี, ญี่ปุ่น | ผู้ดูแลแชท |
 | ::{ flag=MY }:: ::QHideaki13::{ user=733998 } | มาเลย์ | ผู้ดูแลแชท |
-| ::{ flag=PL }:: ::Redo\1::{ user=7122165 } | โปแลนด์ | Skinning community moderation |
+| ::{ flag=PL }:: ::Redo_::{ user=7122165 } | โปแลนด์ | Skinning community moderation |
 | ::{ flag=MX }:: ::Repflez::{ user=201392 } | สเปน | ผู้ดูแลแชท |
 | ::{ flag=FI }:: ::Riverism::{ user=4980738 } | ฟินแลนด์, สวีเดน บ้าง, ญี่ปุ่น บ้าง | ผู้ดูแลชุมชนการแมป/การ mod, ผู้ดูแลฟอรั่ม |
 | ::{ flag=NL }:: ::Roan::{ user=8214639 } | ดัตช์, ญี่ปุ่น | Skinning community moderation |
@@ -132,7 +132,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=KR }:: ::Spectator::{ user=702598 } | เกาหลี | ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=AT }:: ::Stefan::{ user=626907 } | เยอรมัน, เซอร์เบีย | ผู้ดูแลฟอรั่ม |
 | ::{ flag=FI }:: ::terho::{ user=6090105 } | ฟินแลนด์ | ผู้ดูแลแชท |
-| ::{ flag=NZ }:: ::THAT\1otaku::{ user=11798717 } |  | ผู้ดูแลฟอรั่ม, ผู้ดูแลแชท |
+| ::{ flag=NZ }:: ::THAT_otaku::{ user=11798717 } |  | ผู้ดูแลฟอรั่ม, ผู้ดูแลแชท |
 | ::{ flag=PE }:: ::Tiburon::{ user=18115022 } | สเปน | ผู้ดูแลแชท |
 | ::{ flag=CH }:: ::TicClick::{ user=672931 } | รัสเซีย | ผู้ดูแลแชท, ผู้ดูแลวิกิ |
 | ::{ flag=PH }:: ::topecnz::{ user=2103927 } | ฟิลิปปินส์ | ผู้ดูแลแชท |

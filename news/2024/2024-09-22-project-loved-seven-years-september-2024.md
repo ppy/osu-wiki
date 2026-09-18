@@ -454,7 +454,7 @@ This map mostly features streams. It may not be very dense, but its BPM with the
 
 [![](/wiki/shared/news/2024-09-22-project-loved-seven-years-september-2024/1331811.jpg)](https://osu.ppy.sh/community/forums/topics/1980966)
 
-[Various Artists - frjmol jnok (part a)](https://osu.ppy.sh/beatmapsets/1331811#mania) by ::awemanrank100::{ user=11220019 }, ::DesKurisu::{ user=1014938 }, and ::u\1e::{ user=2594421 }\
+[Various Artists - frjmol jnok (part a)](https://osu.ppy.sh/beatmapsets/1331811#mania) by ::awemanrank100::{ user=11220019 }, ::DesKurisu::{ user=1014938 }, and ::u_e::{ user=2594421 }\
 111 – 240 BPM, 3:16 | 3.50★ – 6.65★\
 The \[metadata\] difficulty is *not* being nominated for Loved.\
 *description written by ::Maxus::{ user=4335785 }*

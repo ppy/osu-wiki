@@ -88,7 +88,7 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 | ::{ flag=US }:: | **미국 A** | **::Swovine::{ user=6666316 }**, ::Cychloryn::{ user=6921736 }, ::Stan GFriend::{ user=1773605 }, ::InsaneToe::{ user=6389252 }, ::kb131313::{ user=11229259 } |
 | ::{ flag=US }:: | **미국 B** | **::Binsu::{ user=6236911 }**, ::Slav Man::{ user=11612235 }, ::White Axl::{ user=12334307 }, ::Tsred::{ user=2737667 }, ::Carlohman1::{ user=12212290 } |
 | ::{ flag=NL }:: | **네덜란드** | **::lukitsa124::{ user=8787678 }**, ::Mr HeliX::{ user=2330619 }, ::Swerro::{ user=4507667 } |
-| ::{ flag=PE }:: | **페루** | **::Spieler\1Sync::{ user=10659299 }**, ::adriancaba::{ user=11543837 } |
+| ::{ flag=PE }:: | **페루** | **::Spieler_Sync::{ user=10659299 }**, ::adriancaba::{ user=11543837 } |
 | ::{ flag=FR }:: | **프랑스 A** | **::Ladylag::{ user=2812098 }**, ::Kaho-Hinata::{ user=8903888 }, ::Musclor::{ user=9637676 }, ::Mimir::{ user=7382734 }, ::Ladybug::{ user=4833654 } |
 | ::{ flag=FR }:: | **프랑스 B** | **::Lyseria-Miku::{ user=8972795 }**, ::kamaboko117::{ user=9508031 }, ::Heartswimm::{ user=10936319 }, ::Panda\_0ne::{ user=11216472 } |
 | ::{ flag=PH }:: | **필리핀 제도** | **::Yron8::{ user=1537747 }**, ::FinnB::{ user=2164993 }, ::Tropixal::{ user=8085222 }, ::jacarandang::{ user=4154069 }, ::FPxOsu::{ user=3845828 } |

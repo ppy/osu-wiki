@@ -73,7 +73,7 @@ Mocha relaxing by a creek lined with a colourful selection of flowers, complete 
 
 [![](https://assets.ppy.sh/contests/205/banners/roadcrow__.jpg)](https://assets.ppy.sh/contests/205/winners/roadcrow__.png)
 
-::**roadcrow\1\1**::{ user=11752694 } stole the breath of **1106** voters, catching them eternally dwelling in pippi's absolutely mesmerising gaze, entranced in what could only be interpreted as a splendid view of a cherry blossom landscape.
+::**roadcrow__**::{ user=11752694 } stole the breath of **1106** voters, catching them eternally dwelling in pippi's absolutely mesmerising gaze, entranced in what could only be interpreted as a splendid view of a cherry blossom landscape.
 
 [![](https://assets.ppy.sh/contests/205/banners/Dika312.jpg)](https://assets.ppy.sh/contests/205/winners/Dika312.png)
 

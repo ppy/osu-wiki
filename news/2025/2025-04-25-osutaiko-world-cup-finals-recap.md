@@ -80,7 +80,7 @@ With a huge 7–3 win over a terrifying opponent in Chile, a team that still des
 
 In a later stage like the Finals, there is no avoiding scores that seem absolutely inhumane to a spectator. For players who have never played osu!taiko themselves, and even for players who are longstanding members of the community, some of those scores are incomprehensible.
 
-- One of those scores last weekend was the unreal double S score from ::{ flag=JP }:: ::\1Kan2::{ user=7160196 } on the very experimental and difficult NM2 pick, [Terminal 11 - Echoes](https://osu.ppy.sh/beatmapsets/2354615#taiko/5069524). The Japanese player has outscored every other player in their match against South Korea with zero 100s and outstanding gameplay.
+- One of those scores last weekend was the unreal double S score from ::{ flag=JP }:: ::_Kan2::{ user=7160196 } on the very experimental and difficult NM2 pick, [Terminal 11 - Echoes](https://osu.ppy.sh/beatmapsets/2354615#taiko/5069524). The Japanese player has outscored every other player in their match against South Korea with zero 100s and outstanding gameplay.
 - It takes a lot of confidence and practice to pick any mod on an antimod pick, but to go all the way with **two** mods and scoring a full combo despite this... definitely deserves a mention. This is exactly what ::{ flag=KR }:: ::Peaceful::{ user=165027 } and ::{ flag=JP }:: ::Maimaing::{ user=14520910 } did. Both of these players have not missed a single note in [cosMo@Bousou-P feat. HARU - LowSpeed Fake Lyric](https://osu.ppy.sh/beatmapsets/2354609#taiko/5069510) (FM2), and thanks to the godlike accuracy of 99.60% on ::{ flag=KR }:: ::Peaceful::{ user=165027 }'s side, South Korea won the pick.
 
 ---

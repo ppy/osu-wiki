@@ -49,7 +49,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-01-19: Removed ::qoot8123::{ user=766371 } from **BN**
 - 2020-01-25: Removed ::Sanyi::{ user=7496029 } from **BN**
 - 2020-01-26: Removed ::Greaper::{ user=2369776 } from **BN**
-- 2020-01-29: Removed ::Critical\1Star::{ user=3793196 } from **BN**
+- 2020-01-29: Removed ::Critical_Star::{ user=3793196 } from **BN**
 
 ## February
 
@@ -112,7 +112,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-03-07: Added ::Nao Tomori::{ user=5364763 } to **Probationary BN**
 - 2020-03-09: Added ::MaridiuS::{ user=4496961 } to **Probationary BN**
 - 2020-03-09: Added ::Daletto::{ user=7592136 } to **Probationary BN**
-- 2020-03-17: Added ::BaAR\1Vendel::{ user=8679346 } to **Probationary BN**
+- 2020-03-17: Added ::BaAR_Vendel::{ user=8679346 } to **Probationary BN**
 - 2020-03-22: Added ::wafer::{ user=9416836 } to **Probationary BN**
 
 #### Moves
@@ -163,7 +163,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-04-12: Moved ::Nao Tomori::{ user=5364763 } from **Probationary BN** to **BN**
 - 2020-04-14: Moved ::Dapuluous::{ user=8140944 } from **Probationary BN** to **BN**
 - 2020-04-20: Moved ::MaridiuS::{ user=4496961 } from **Probationary BN** to **BN**
-- 2020-04-26: Moved ::BaAR\1Vendel::{ user=8679346 } from **Probationary BN** to **BN**
+- 2020-04-26: Moved ::BaAR_Vendel::{ user=8679346 } from **Probationary BN** to **BN**
 - 2020-04-29: Moved ::Dubstek::{ user=9555243 } from **Probationary BN** to **BN**
 - 2020-04-30: Moved ::wafer::{ user=9416836 } from **Probationary BN** to **BN**
 
@@ -511,7 +511,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-12-14: Added ::Benita::{ user=1259391 } to **Probationary BN**
 - 2020-12-20: Added ::Default Guy::{ user=7058457 } to **Probationary BN**
 - 2020-12-21: Added ::Zer0-::{ user=4260033 } to **Probationary BN**
-- 2020-12-21: Added ::realy0\1::{ user=8863359 } to **Probationary BN**
+- 2020-12-21: Added ::realy0_::{ user=8863359 } to **Probationary BN**
 - 2020-12-21: Added ::Morrighan::{ user=12042090 } to **Probationary BN**
 - 2020-12-26: Added ::Mipha-::{ user=5767941 } to **Probationary BN**
 

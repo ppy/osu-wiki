@@ -131,7 +131,7 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 | ::{ flag=AU }:: ::Syrin::{ user=5701575 } | Ersteller von [PerformancePlus](https://syrin.me/pp+/) und [osu!chan](https://osuchan.syrin.me) |
 | ::{ flag=SG }:: ::Raveille::{ user=1388767 } | Herausragende Leistungen bei der Erstellung und Veröffentlichung des Scorewatch-Projekts |
 | ::{ flag=FR }:: ::ThePooN::{ user=718454 } | Herausragende Leistungen bei der Erstellung und Veröffentlichung des Scorewatch-Projekts |
-| ::{ flag=US }:: ::MegaApple\1Pi::{ user=2148208 } | Hervorragender Einsatz bei der Förderung des osu!-Wiki-Projekts mit unzähligen Überarbeitungen, Nacharbeiten und Überprüfungen |
+| ::{ flag=US }:: ::MegaApple_Pi::{ user=2148208 } | Hervorragender Einsatz bei der Förderung des osu!-Wiki-Projekts mit unzähligen Überarbeitungen, Nacharbeiten und Überprüfungen |
 | ::{ flag=PL }:: ::TPGPL::{ user=3944705 } | Stützpfeiler des osu!-Wiki-Projekts und herausragender Beitrag über die Jahre hinweg |
 
 ### 2019
@@ -213,7 +213,7 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 | ::{ flag=DE }:: ::hallowatcher::{ user=1874761 } | Herausragende Beiträge zu Veranstaltungen der Community und zur Entwicklung |
 | ::{ flag=GB }:: ::mangomizer::{ user=1893718 } | Herausragende Beiträge zu den World Cups und Community-Veranstaltungen |
 | ::{ flag=DE }:: ::Lasse::{ user=896613 } | Herausragende Beiträge zur Mapping- und Modding-Szene |
-| ::{ flag=PL }:: ::spaceman\1atlas::{ user=3035836 } | Herausragende Beiträge zur Entwicklung von osu! durch viele Projekte |
+| ::{ flag=PL }:: ::spaceman_atlas::{ user=3035836 } | Herausragende Beiträge zur Entwicklung von osu! durch viele Projekte |
 | ::{ flag=DE }:: ::RockRoller::{ user=8388854 } | Herausragende Beiträge zur Skinning- und Moderationsszene von osu! |
 | ::{ flag=US }:: ::I Must Decrease::{ user=2773526 } | Herausragende Beiträge zur Wartung und Entwicklung des Scorings |
 | ::{ flag=US }:: ::this1neguy::{ user=1797189 } | Herausragende Beiträge zu den World Cups und Community-Turnieren |
@@ -322,7 +322,7 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 | ::{ flag=KR }:: ::Civil oath::{ user=3216107 } | Herausragende Beiträge zur Moderation verschiedener Plattformen |
 | ::{ flag=CN }:: ::Mafumafu::{ user=3076909 } | Langjährige Beiträge zur Mapping- und Moddingcommunity |
 | ::{ flag=AT }:: ::Maarvin::{ user=6411631 } | Herausragende Beiträge zu Entwicklungsangelegenheiten |
-| ::{ flag=DE }:: ::The\1Last\1Cookie::{ user=11587828 } | Langjährige Beiträge zu deutschen Übersetzungen des osu! wikis |
+| ::{ flag=DE }:: ::The_Last_Cookie::{ user=11587828 } | Langjährige Beiträge zu deutschen Übersetzungen des osu! wikis |
 | ::{ flag=PE }:: ::Tiburon::{ user=18115022 } | Langjährige Beiträge zu spanischen Übersetzungen des osu! wikis |
 | ::{ flag=ES }:: ::Agatem::{ user=18202514 } | Langjährige Beiträge zu spanischen Übersetzungen des osu! wikis |
 | ::{ flag=CN }:: ::Muziyami::{ user=7003013 } | Langjährige Beiträge zu chinesischen Übersetzungen des osu! wikis |

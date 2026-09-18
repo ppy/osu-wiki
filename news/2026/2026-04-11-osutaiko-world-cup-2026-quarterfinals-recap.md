@@ -37,7 +37,7 @@ Producer [Cansol](https://osu.ppy.sh/beatmaps/artists/407), who has released son
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/lPRDPSB5Nj0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-[uynet](https://osu.ppy.sh/beatmaps/artists/453), known for being a Featured Artist and for loving the piano and overwhelmingly cute stuff, returns with a brand-new song for the osu!taiko World Cup 2026. [Lunar Eclipse](https://osu.ppy.sh/beatmapsets/2530668#taiko/5593610) is the most recent addition to his Featured Artist listing and the HR2 slot in the Quarterfinals pool mapped by ::X a v y::{ user=3738344 } and ::5\15::{ user=6853438 }.
+[uynet](https://osu.ppy.sh/beatmaps/artists/453), known for being a Featured Artist and for loving the piano and overwhelmingly cute stuff, returns with a brand-new song for the osu!taiko World Cup 2026. [Lunar Eclipse](https://osu.ppy.sh/beatmapsets/2530668#taiko/5593610) is the most recent addition to his Featured Artist listing and the HR2 slot in the Quarterfinals pool mapped by ::X a v y::{ user=3738344 } and ::5_5::{ user=6853438 }.
 
 ## Quarterfinals results
 

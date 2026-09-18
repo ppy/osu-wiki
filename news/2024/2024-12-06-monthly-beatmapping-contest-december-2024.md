@@ -40,7 +40,7 @@ This article covers results from the last contest, plus criteria for this contes
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VcMLL6hLI2k" frameborder="0" allowfullscreen></iframe>
 </div>
 
-::Daycore::{ user=5596337 }, ::Beomsan::{ user=3626063 }, ::seros::{ user=10562853 }, ::Ghouru::{ user=6273855 }, ::Net0::{ user=5099768 }, and ::mintIceCream\1::{ user=13221589 } judged each and every map in this month's contest. After you send your appreciation to everyone who participated, thank these folks too.
+::Daycore::{ user=5596337 }, ::Beomsan::{ user=3626063 }, ::seros::{ user=10562853 }, ::Ghouru::{ user=6273855 }, ::Net0::{ user=5099768 }, and ::mintIceCream_::{ user=13221589 } judged each and every map in this month's contest. After you send your appreciation to everyone who participated, thank these folks too.
 
 ### osu!mania results
 
@@ -59,7 +59,7 @@ This article covers results from the last contest, plus criteria for this contes
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/_4bLXt-ZSZo" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Special thanks to ::taba2::{ user=7850508 }, ::\1GB\1SuddenDeath::{ user=6699923 }, ::Antalf::{ user=8793773 }, ::gzdongsheng::{ user=8660315 }, ::Hydria::{ user=808176 }, and ::Monoseul::{ user=16010604 } for judging this month's maps!
+Special thanks to ::taba2::{ user=7850508 }, ::[GB]SuddenDeath::{ user=6699923 }, ::Antalf::{ user=8793773 }, ::gzdongsheng::{ user=8660315 }, ::Hydria::{ user=808176 }, and ::Monoseul::{ user=16010604 } for judging this month's maps!
 
 ## Game modes
 

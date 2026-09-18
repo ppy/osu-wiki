@@ -67,13 +67,13 @@ no_native_review: true
 - ::abalee::{ user=13103 } 加入圖譜審核團隊 (2009-12-14) <!-- https://osu.ppy.sh/community/forums/posts/267606 -->
 - ::osuplayer111::{ user=33599 } 加入圖譜審核團隊 (2009-12-15) <!-- https://osu.ppy.sh/community/forums/topics/21251 -->
 - ::xxheroxx::{ user=25999 } 加入製圖協助團隊 (2009-12-27)
-- ::Azure\1Kyte::{ user=66296 } 加入製圖協助團隊 (2009-12-27)
+- ::Azure_Kyte::{ user=66296 } 加入製圖協助團隊 (2009-12-27)
 - ::blissfulyoshi::{ user=20865 } 加入製圖協助團隊 (2009-12-27)
 - ::Zekira::{ user=36749 } 加入製圖協助團隊 (2009-12-27)
 - ::Alace::{ user=25993 } 加入製圖協助團隊 (2009-12-27)
 - ::Derekku::{ user=91341 } 加入製圖協助團隊 (2009-12-27)
 - ::MetalMario201::{ user=30655 } 加入製圖協助團隊 (2009-12-27)
-- ::0\1o::{ user=56708 } 加入製圖協助團隊 (2009-12-27)
+- ::0_o::{ user=56708 } 加入製圖協助團隊 (2009-12-27)
 - ::AgnesChan::{ user=136982 } 加入製圖協助團隊 (2009-12-27)
 - ::Card N'FoRcE::{ user=3936 } 加入製圖協助團隊 (2009-12-27)
 - ::Lybydose::{ user=64501 } 加入製圖協助團隊 (2009-12-27)

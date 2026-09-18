@@ -141,11 +141,11 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
-| ::{ flag=TW }:: ::\1Rokii::{ user=12770065 } | จีน |
+| ::{ flag=TW }:: ::_Rokii::{ user=12770065 } | จีน |
 | ::{ flag=CN }:: ::\_Stan::{ user=1653229 } | จีน |
 | ::{ flag=KR }:: ::-Ming-::{ user=20127755 } | เกาหลี |
-| ::{ flag=CN }:: ::\1Crz\1Alleyne::{ user=11279273 } | จีน |
-| ::{ flag=TW }:: ::\1Sick\1Catcat::{ user=11544934 } | จีน |
+| ::{ flag=CN }:: ::[Crz]Alleyne::{ user=11279273 } | จีน |
+| ::{ flag=TW }:: ::[Sick]Catcat::{ user=11544934 } | จีน |
 | ::{ flag=ID }:: ::AchsanLovers::{ user=6368737 } | อินโดนีเซีย |
 | ::{ flag=ID }:: ::Al-Reina::{ user=7037423 } | อินโดนีเซีย |
 | ::{ flag=ID }:: ::Amiichii::{ user=9228569 } | อินโดนีเซีย |
@@ -153,7 +153,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ::{ flag=GB }:: ::Asherz007::{ user=9014047 } |  |
 | ::{ flag=CN }:: ::AWMRone::{ user=10351684 } | จีน |
 | ::{ flag=US }:: ::Crisper::{ user=16482505 } |  |
-| ::{ flag=MY }:: ::Critical\1Star::{ user=3793196 } | มาเลย์ |
+| ::{ flag=MY }:: ::Critical_Star::{ user=3793196 } | มาเลย์ |
 | ::{ flag=AU }:: ::Decku::{ user=13360768 } |  |
 | ::{ flag=KR }:: ::DenYi::{ user=14998645 } | เกาหลี |
 | ::{ flag=CA }:: ::Drum-Hitnormal::{ user=748722 } |  |
@@ -177,7 +177,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ::{ flag=US }:: ::Protastic101::{ user=6712747 } |  |
 | ::{ flag=ES }:: ::RandomeLoL::{ user=7080063 } | สเปน |
 | ::{ flag=ID }:: ::RiP46::{ user=5222596 } | อินโดนีเซีย |
-| ::{ flag=ID }:: ::Rivals\17::{ user=4610379 } | อินโดนีเซีย |
+| ::{ flag=ID }:: ::Rivals_7::{ user=4610379 } | อินโดนีเซีย |
 | ::{ flag=CA }:: ::Ryax::{ user=8949769 } |  |
 | ::{ flag=KR }:: ::secXcscX::{ user=13543418 } | เกาหลี |
 | ::{ flag=CA }:: ::Shad0wStar::{ user=16866460 } |  |
@@ -210,7 +210,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ::{ flag=DE }:: ::Mir::{ user=8688812 } | เยอรมัน |
 | ::{ flag=FR }:: ::Sajinn::{ user=13513687 } | ฝรั่งเศส |
 | ::{ flag=BR }:: ::Seto Kousuke::{ user=2857314 } | โปรตุเกส |
-| ::{ flag=BA }:: ::Stompy\1::{ user=16429579 } | บอสเนีย |
+| ::{ flag=BA }:: ::Stompy_::{ user=16429579 } | บอสเนีย |
 | ::{ flag=CA }:: ::superstore::{ user=16755693 } |  |
 | ::{ flag=PL }:: ::Venix::{ user=5999631 } | โปแลนด์ |
 | ::{ flag=US }:: ::xBlurinq::{ user=7540631 } |  |

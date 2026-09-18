@@ -31,7 +31,7 @@ Navigate to whatever interests you:
 | Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
 | 1st | ::ZTH::{ user=5258461 } | [Billain & Kursa - NEWGROOVEORDER](https://osu.ppy.sh/beatmapsets/2152531) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (2 total) |
-| 2nd | ::\1gt::{ user=8301957 } | [KOAN Sound & Asa - Fuego](https://osu.ppy.sh/beatmapsets/2152936) | - | +1 (5 total) |
+| 2nd | ::_gt::{ user=8301957 } | [KOAN Sound & Asa - Fuego](https://osu.ppy.sh/beatmapsets/2152936) | - | +1 (5 total) |
 | 3rd | ::Nifty::{ user=4956097 } | [False Noise - Sky Shards](https://osu.ppy.sh/beatmapsets/2152477) | - | - |
 
 #### Top 10
@@ -50,7 +50,7 @@ Special thanks to ::Yasuho::{ user=8458835 }, ::arcpotato::{ user=12842392 }, ::
 
 | Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| 1st | ::Unlucky\1w::{ user=4820793 } | [MEMODEMO - Love Language](https://osu.ppy.sh/beatmapsets/2152480) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | +2 (5 total) |
+| 1st | ::Unlucky_w::{ user=4820793 } | [MEMODEMO - Love Language](https://osu.ppy.sh/beatmapsets/2152480) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | +2 (5 total) |
 | 2nd | ::Dika312::{ user=741613 } | [Snails & Pegboard Nerds - Deep In The Night](https://osu.ppy.sh/beatmapsets/2152539) | - | +1 (1 total) |
 | 3rd | ::Malai::{ user=4863096 } | [DOT96 - MAKE IT FUNKY NOW](https://osu.ppy.sh/beatmapsets/2152487) | - | - |
 

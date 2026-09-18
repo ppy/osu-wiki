@@ -64,7 +64,7 @@ osu!taiko 世界杯 2014 由众多社区成员举办。
 | ::{ flag=DE }:: | **德国** | **::Luna::{ user=588007 }**, ::\[TaikoTori\]::{ user=1074143 }, ::BrokenArrow::{ user=384034 }, ::DarkDunskin::{ user=98985 }, ::Mew104::{ user=2345156 }, ::tiamus::{ user=515277 } |
 | ::{ flag=HK }:: | **香港** | **::thomas1195::{ user=1691488 }**, ::\[yuyuko\_Saigyouj\]::{ user=1378994 }, ::aabc271::{ user=155707 }, ::Andrew Chow::{ user=3043041 }, ::ice man007::{ user=1926937 }, ::Jikson\[m9\]::{ user=1485257 } |
 | ::{ flag=JP }:: | **日本** | **::TKSalt::{ user=940878 }**, ::azger::{ user=2335982 }, ::NeGaTiVeMinD::{ user=965038 }, ::Orukaa::{ user=987895 }, ::pagr42::{ user=1500725 }, ::sobatsuyu100::{ user=2076374 } |
-| ::{ flag=MY }:: | **马来西亚** | **::taiko\1maniac1811::{ user=595764 }**, ::buhzidao::{ user=1655126 }, ::cdhsausageboy::{ user=2403621 }, ::HeatKai::{ user=332555 }, ::huiko12::{ user=598553 }, ::Jerry::{ user=605973 } |
+| ::{ flag=MY }:: | **马来西亚** | **::taiko_maniac1811::{ user=595764 }**, ::buhzidao::{ user=1655126 }, ::cdhsausageboy::{ user=2403621 }, ::HeatKai::{ user=332555 }, ::huiko12::{ user=598553 }, ::Jerry::{ user=605973 } |
 | ::{ flag=PH }:: | **菲律宾** | **::Primrea::{ user=943743 }**, ::Kotaro::{ user=796530 }, ::Pizzicato::{ user=692610 }, ::senkai::{ user=1150178 } |
 | ::{ flag=PL }:: | **波兰** | **::Acrith::{ user=389880 }**, ::DarkStoorM::{ user=174347 }, ::IsonamiPL::{ user=1753234 }, ::Minkodon::{ user=1385227 }, ::LZMieczu::{ user=1797498 }, ::Sylwia132::{ user=2037319 } |
 | ::{ flag=RU }:: | **俄罗斯** | **::MarisaLover::{ user=1359539 }**, ::Livius777::{ user=1282662 }, ::magax::{ user=918645 } |

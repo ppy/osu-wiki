@@ -21,7 +21,7 @@ Scorewatch continues to thrive with more incredible plays from the community! We
 
 <iframe width="100%" height="315"  src="https://www.youtube.com/embed/TptBK7zWrdU" frameborder="0" allowfullscreen></iframe></br>
 
-::\1yu68::{ user=6170507 } has gotten the top pp play in osu!taiko in a cheeky fashion, by setting the first HDDT FC on hs own map, [D(ABE3) - MANIERA](https://osu.ppy.sh/beatmaps/871924?m=1), with a fascinating accuracy of 99.19% to grab 792pp on the 10.31* difficulty! _yu68 is definitely a virtuoso!
+::_yu68::{ user=6170507 } has gotten the top pp play in osu!taiko in a cheeky fashion, by setting the first HDDT FC on hs own map, [D(ABE3) - MANIERA](https://osu.ppy.sh/beatmaps/871924?m=1), with a fascinating accuracy of 99.19% to grab 792pp on the 10.31* difficulty! _yu68 is definitely a virtuoso!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/l1xh-748ExY" frameborder="0" allowfullscreen></iframe></br>
 

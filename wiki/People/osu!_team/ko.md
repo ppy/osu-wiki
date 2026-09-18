@@ -45,7 +45,7 @@ outdated_since: 39bfc3b2e62b776a1cc99976f72bd0ffcf6f773e
 | ::{ flag=MX }:: ::Repflez::{ user=201392 } | [모더레이터](/wiki/People/Global_Moderation_Team), [위키 관리자](/wiki/People/osu!_wiki_maintainers) |
 | ::{ flag=FR }:: ::Shiro::{ user=113005 } | 총괄 관리자 |
 | ::{ flag=AU }:: ::smoogipoo::{ user=1040328 } | osu! 개발자, osu!mania 애호가, 버그 관련 담당자 |
-| ::{ flag=PL }:: ::spaceman\1atlas::{ user=3035836 } | osu! 개발자 |
+| ::{ flag=PL }:: ::spaceman_atlas::{ user=3035836 } | osu! 개발자 |
 | ::{ flag=GB }:: ::Tanza::{ user=10379965 } | 디자이너 |
 | ::{ flag=FR }:: ::ThePooN::{ user=718454 } | osu! 인프라 개발자 |
 | ::{ flag=ES }:: ::Trosk-::{ user=3469385 } | 총괄 관리자, 토너먼트 보조 |

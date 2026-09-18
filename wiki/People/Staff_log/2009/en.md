@@ -66,13 +66,13 @@ Some users' history may be incomplete during this year.
 - Added ::abalee::{ user=13103 } to Beatmap Approval Team (2009-12-14) <!-- https://osu.ppy.sh/community/forums/posts/267606 -->
 - Added ::osuplayer111::{ user=33599 } to Beatmap Approval Team (2009-12-15) <!-- https://osu.ppy.sh/community/forums/topics/21251 -->
 - Added ::xxheroxx::{ user=25999 } to Mapping Assistance Team (2009-12-27)
-- Added ::Azure\1Kyte::{ user=66296 } to Mapping Assistance Team (2009-12-27)
+- Added ::Azure_Kyte::{ user=66296 } to Mapping Assistance Team (2009-12-27)
 - Added ::blissfulyoshi::{ user=20865 } to Mapping Assistance Team (2009-12-27)
 - Added ::Zekira::{ user=36749 } to Mapping Assistance Team (2009-12-27)
 - Added ::Alace::{ user=25993 } to Mapping Assistance Team (2009-12-27)
 - Added ::Derekku::{ user=91341 } to Mapping Assistance Team (2009-12-27)
 - Added ::MetalMario201::{ user=30655 } to Mapping Assistance Team (2009-12-27)
-- Added ::0\1o::{ user=56708 } to Mapping Assistance Team (2009-12-27)
+- Added ::0_o::{ user=56708 } to Mapping Assistance Team (2009-12-27)
 - Added ::AgnesChan::{ user=136982 } to Mapping Assistance Team (2009-12-27)
 - Added ::Card N'FoRcE::{ user=3936 } to Mapping Assistance Team (2009-12-27)
 - Added ::Lybydose::{ user=64501 } to Mapping Assistance Team (2009-12-27)

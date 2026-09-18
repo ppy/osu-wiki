@@ -31,4 +31,4 @@ Daftar anggota tim dukungan teknis selengkapnya juga dapat dilihat pada [halaman
 | ::{ flag=KR }:: ::Civil oath::{ user=3216107 } | Korea, Jepang |
 | ::{ flag=DE }:: ::Lyawi::{ user=5851253 } | Jerman |
 | ::{ flag=PH }:: ::Nathanael::{ user=2295078 } | Tagalog |
-| ::{ flag=PL }:: ::spaceman\1atlas::{ user=3035836 } | Polandia |
+| ::{ flag=PL }:: ::spaceman_atlas::{ user=3035836 } | Polandia |

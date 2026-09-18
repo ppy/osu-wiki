@@ -141,11 +141,11 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 
 | İsim | Ek diller |
 | :-- | :-- |
-| ::{ flag=TW }:: ::\1Rokii::{ user=12770065 } | Çince |
+| ::{ flag=TW }:: ::_Rokii::{ user=12770065 } | Çince |
 | ::{ flag=CN }:: ::\_Stan::{ user=1653229 } | Çince |
 | ::{ flag=KR }:: ::-Ming-::{ user=20127755 } | Korece |
-| ::{ flag=CN }:: ::\1Crz\1Alleyne::{ user=11279273 } | Çince |
-| ::{ flag=TW }:: ::\1Sick\1Catcat::{ user=11544934 } | Çince |
+| ::{ flag=CN }:: ::[Crz]Alleyne::{ user=11279273 } | Çince |
+| ::{ flag=TW }:: ::[Sick]Catcat::{ user=11544934 } | Çince |
 | ::{ flag=ID }:: ::AchsanLovers::{ user=6368737 } | Endonezce |
 | ::{ flag=ID }:: ::Al-Reina::{ user=7037423 } | Endonezce |
 | ::{ flag=ID }:: ::Amiichii::{ user=9228569 } | Endonezce |
@@ -153,7 +153,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ::{ flag=GB }:: ::Asherz007::{ user=9014047 } |  |
 | ::{ flag=CN }:: ::AWMRone::{ user=10351684 } | Çince |
 | ::{ flag=US }:: ::Crisper::{ user=16482505 } |  |
-| ::{ flag=MY }:: ::Critical\1Star::{ user=3793196 } | Malayca |
+| ::{ flag=MY }:: ::Critical_Star::{ user=3793196 } | Malayca |
 | ::{ flag=AU }:: ::Decku::{ user=13360768 } |  |
 | ::{ flag=KR }:: ::DenYi::{ user=14998645 } | Korece |
 | ::{ flag=CA }:: ::Drum-Hitnormal::{ user=748722 } |  |
@@ -177,7 +177,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ::{ flag=US }:: ::Protastic101::{ user=6712747 } |  |
 | ::{ flag=ES }:: ::RandomeLoL::{ user=7080063 } | İspanyolca |
 | ::{ flag=ID }:: ::RiP46::{ user=5222596 } | Endonezce |
-| ::{ flag=ID }:: ::Rivals\17::{ user=4610379 } | Endonezce |
+| ::{ flag=ID }:: ::Rivals_7::{ user=4610379 } | Endonezce |
 | ::{ flag=CA }:: ::Ryax::{ user=8949769 } |  |
 | ::{ flag=KR }:: ::secXcscX::{ user=13543418 } | Korece |
 | ::{ flag=CA }:: ::Shad0wStar::{ user=16866460 } |  |
@@ -210,7 +210,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ::{ flag=DE }:: ::Mir::{ user=8688812 } | Almanca |
 | ::{ flag=FR }:: ::Sajinn::{ user=13513687 } | Fransızca |
 | ::{ flag=BR }:: ::Seto Kousuke::{ user=2857314 } | Portekizce |
-| ::{ flag=BA }:: ::Stompy\1::{ user=16429579 } | Boşnakça |
+| ::{ flag=BA }:: ::Stompy_::{ user=16429579 } | Boşnakça |
 | ::{ flag=CA }:: ::superstore::{ user=16755693 } |  |
 | ::{ flag=PL }:: ::Venix::{ user=5999631 } | Lehçe |
 | ::{ flag=US }:: ::xBlurinq::{ user=7540631 } |  |

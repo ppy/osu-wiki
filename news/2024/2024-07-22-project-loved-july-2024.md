@@ -408,7 +408,7 @@ Don't hesitate to show your support for this map and cast your vote to bring it 
 
 [![](/wiki/shared/news/2024-07-22-project-loved-july-2024/2204252.jpg)](https://osu.ppy.sh/community/forums/topics/1952657)
 
-[Various Artists - xfpsb 6K LN Kaleidoscope Collection](https://osu.ppy.sh/beatmapsets/2204252#mania) by ::Hylotl::{ user=18270260 }, ::\[GS\]hina::{ user=20040607 }, ::1799019275::{ user=9468410 }, ::AhoUsagi::{ user=9784248 }, ::Arkman::{ user=8814590 }, ::Benson\_::{ user=18471116 }, ::cherrychou::{ user=7214023 }, ::Mihyo\1San::{ user=10608702 }, ::Muses::{ user=9705896 }, ::truEleysia::{ user=13850593 }, and ::YuzakiTsukasa::{ user=17158897 }\
+[Various Artists - xfpsb 6K LN Kaleidoscope Collection](https://osu.ppy.sh/beatmapsets/2204252#mania) by ::Hylotl::{ user=18270260 }, ::\[GS\]hina::{ user=20040607 }, ::1799019275::{ user=9468410 }, ::AhoUsagi::{ user=9784248 }, ::Arkman::{ user=8814590 }, ::Benson\_::{ user=18471116 }, ::cherrychou::{ user=7214023 }, ::Mihyo_San::{ user=10608702 }, ::Muses::{ user=9705896 }, ::truEleysia::{ user=13850593 }, and ::YuzakiTsukasa::{ user=17158897 }\
 95 – 218 BPM, 5:14 | 2.61★ – 8.49★\
 The \[Delete \[GLHF's 25\]\] difficulty is *not* being nominated for Loved.\
 *description written by ::Carpihat::{ user=10085090 }*

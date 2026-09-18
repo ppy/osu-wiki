@@ -48,7 +48,7 @@ Corgi Cup V was run by various community members.
 | Streamer | ::{ flag=GB }:: ::Doomsday::{ user=18983 }, ::{ flag=GB }:: ::Bae-::{ user=6576972 }, ::{ flag=FI }:: ::Lefafel::{ user=2295850 } |
 | Commentator | ::{ flag=GB }:: ::Doomsday::{ user=18983 }, ::{ flag=GB }:: ::Bae-::{ user=6576972 }, ::{ flag=DE }:: ::Irate::{ user=7166084 }, ::{ flag=FI }:: ::Lefafel::{ user=2295850 }, ::{ flag=SE }:: ::Kotayo::{ user=1730025 }, ::{ flag=FI }:: ::Mara::{ user=194294 } |
 | Designer | ::{ flag=GB }:: ::Doomsday is Bad::{ user=3481378 } |
-| Referee | ::{ flag=GB }:: ::Yazzehh::{ user=7068973 }, ::{ flag=US }:: ::this1neguy::{ user=1797189 }, ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, ::{ flag=NO }:: ::k3v5t3r::{ user=8143379 }, ::{ flag=GB }:: ::Nitronic Techno::{ user=5298504 }, ::{ flag=US }:: ::noctisv\1v::{ user=6775083 }, ::{ flag=BR }:: ::Dada::{ user=9119507 }, ::{ flag=GB }:: ::Bubbleman::{ user=5182050 }, ::{ flag=UY }:: ::moondust::{ user=4662596 }, ::{ flag=US }:: ::dblade::{ user=4272841 } |
+| Referee | ::{ flag=GB }:: ::Yazzehh::{ user=7068973 }, ::{ flag=US }:: ::this1neguy::{ user=1797189 }, ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, ::{ flag=NO }:: ::k3v5t3r::{ user=8143379 }, ::{ flag=GB }:: ::Nitronic Techno::{ user=5298504 }, ::{ flag=US }:: ::noctisv_v::{ user=6775083 }, ::{ flag=BR }:: ::Dada::{ user=9119507 }, ::{ flag=GB }:: ::Bubbleman::{ user=5182050 }, ::{ flag=UY }:: ::moondust::{ user=4662596 }, ::{ flag=US }:: ::dblade::{ user=4272841 } |
 
 ## Links
 

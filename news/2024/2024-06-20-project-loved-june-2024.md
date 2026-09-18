@@ -399,7 +399,7 @@ That said, it's still no joke to play 160 BPM minijacks, especially since the lo
 81.02 BPM, 3:33 | 4.44★\
 *description written by ::elexire::{ user=9206093 }*
 
-Many are familiar with \::\1Crz\]Crysarlene::{ user=5492871 } due to their difficult long note charts, but we've chosen to tone it down a bit this month with [Somewhere I Belong](https://osu.ppy.sh/beatmapsets/928232#mania/1938851).
+Many are familiar with \::[Crz\]Crysarlene::{ user=5492871 } due to their difficult long note charts, but we've chosen to tone it down a bit this month with [Somewhere I Belong](https://osu.ppy.sh/beatmapsets/928232#mania/1938851).
 
 Being a bit of a step-down from last month's long note pick while continuing on the same trend, *Somewhere I Belong* adds unique releases to a song you typically wouldn't see charted, all while keeping the representation at a good level. The gameplay itself has a bit of everything at once, some parts being more heavy on unusual releases with some jack-y motions, while other parts are more heavy on full inverse and coordination. All this combined got it featured in the Quarterfinals pool for [MWC 4K 2021](/wiki/Tournaments/MWC/2021_4K).
 

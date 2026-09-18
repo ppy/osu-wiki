@@ -19,14 +19,14 @@ Congratulations to last month's winners!
 **Taiko**
 
 1. ::EBAWER123::{ user=480304 } \- 1 month of supporter
-2. ::FEZ\1Icese::{ user=2732162 }
+2. ::FEZ_Icese::{ user=2732162 }
 3. ::AnFace::{ user=233485 }
 
 **Catch the Beat**
 
 1. ::Dusk::{ user=533210 } \- 1 month of supporter
 2. ::Sakurano Kurimu::{ user=1338103 }
-3. ::\[\1Crystal\]::{ user=1646397 }
+3. ::\[_Crystal\]::{ user=1646397 }
 
 **osu!mania**
 

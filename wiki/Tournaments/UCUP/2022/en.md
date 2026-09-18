@@ -46,7 +46,7 @@ UCUP 2022 was run by various osu! community members predominantly hailing from t
 | Organiser | ::{ flag=ID }:: ::HORAS::{ user=11421465 }, ::{ flag=ID }:: ::honeymint::{ user=4796773 }, ::{ flag=ID }:: ::phizh::{ user=4569302 } |
 | Mappool selector | ::{ flag=ID }:: ::Millie::{ user=3484548 }, ::{ flag_=ID }:: ::Ascaveth::{ user=3245206 }, ::{ flag=ID }:: ::Kuro Fuyusaki::{ user=2667496 }, ::{ flag=ID }:: ::fnayR::{ user=2800253 }, ::{ flag=ID }:: ::Tama-desu::{ user=3813174 } |
 | Mappool helper | ::{ flag=ID }:: ::i love uma::{ user=7108275 }, ::{ flag=ID }:: ::Ryzen-dono::{ user=10778215 }, ::{ flag=ID }:: ::lushifer::{ user=13356408 }, ::{ flag=ID }:: ::Raids::{ user=15640966 } |
-| Streamer | ::{ flag=ID }:: ::Millie::{ user=3484548 }, ::{ flag=ID }:: ::Victim\1Crasher::{ user=2084869 }, ::{ flag=ID }:: ::Arca 9::{ user=14042319 } |
+| Streamer | ::{ flag=ID }:: ::Millie::{ user=3484548 }, ::{ flag=ID }:: ::Victim_Crasher::{ user=2084869 }, ::{ flag=ID }:: ::Arca 9::{ user=14042319 } |
 | Commentator | ::{ flag=ID }:: ::BlankTap::{ user=10137131 }, ::{ flag=ID }:: ::Seox::{ user=3793938 }, ::{ flag=ID }:: ::Deorum::{ user=5933031 }, ::{ flag=ID }:: ::Caviar-::{ user=10474988 } |
 | Referee | ::{ flag=ID }:: ::NoVaLian::{ user=6459827 }, ::{ flag=PH }:: ::-Pekora-::{ user=17959882 }, ::{ flag=ID }:: ::YaeMyMommy::{ user=17278897 }, ::{ flag=HK }:: ::ShadeCegLgMn::{ user=12609866 }, ::{ flag=FR }:: ::jehukm::{ user=10981418 } |
 | Graphic designer | ::{ flag=ID }:: ::CubeixID200::{ user=10678919 } |

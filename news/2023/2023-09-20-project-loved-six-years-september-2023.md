@@ -31,7 +31,7 @@ As a reminder, we have dedicated hubs for Project Loved if you want to hang out 
 
 Before we get into the picks for September, we would like to take a moment to thank *you*! Yes, ***you***! For helping us keep Project Loved alive.
 
-September 2023 marks our **6th year of operation**, with the first ever round of Project Loved, formerly Loved Captain's Pick, debuting all the way back in September of 2017! Time sure flies when you're having fun, huh? If you want a real trip down memory lane or if you're a big osu! history buff, head on over to check out the [first ever news post about Loved Captain's Pick](https://osu.ppy.sh/home/news/2017-09-25-introducing-the-loved-captains-pick)! If that's not enough for you, our very own ::MegaMix\1Craft::{ user=18152711 } has made a handy website to view [every single Project Loved news post that's ever been made](https://megamix.dev/lvd/newsposts_list/)! If you want to see how Project Loved has changed over the years, there's no better way than this!
+September 2023 marks our **6th year of operation**, with the first ever round of Project Loved, formerly Loved Captain's Pick, debuting all the way back in September of 2017! Time sure flies when you're having fun, huh? If you want a real trip down memory lane or if you're a big osu! history buff, head on over to check out the [first ever news post about Loved Captain's Pick](https://osu.ppy.sh/home/news/2017-09-25-introducing-the-loved-captains-pick)! If that's not enough for you, our very own ::MegaMix_Craft::{ user=18152711 } has made a handy website to view [every single Project Loved news post that's ever been made](https://megamix.dev/lvd/newsposts_list/)! If you want to see how Project Loved has changed over the years, there's no better way than this!
 
 We would like to also extend a big thank you to the original pioneers of Project Loved, ::Toy::{ user=2757689 } and ::Kaifin::{ user=2596942 }, as well as [anyone and everyone involved throughout the years](https://loved.sh/contributors), big or small, for planting the seed that would eventually bloom into the Project Loved we have today. None of this would have been possible without the assistance from the osu! team either, but an especially big thank you goes to the one and only ::swole seagull::{ user=102335 } for their continued assistance whenever we encounter speed bumps along the way.
 
@@ -247,13 +247,13 @@ Did you enjoy playing this map? Well, don't sit there with an *Aimai Attitude* a
 
 [![](/wiki/shared/news/2023-09-20-project-loved-six-years-september-2023/532841.jpg)](https://osu.ppy.sh/community/forums/topics/1823766)
 
-[Various Artists - osu!memories](https://osu.ppy.sh/beatmapsets/532841#taiko) by ::asuasu\1yura::{ user=2875968 }\
+[Various Artists - osu!memories](https://osu.ppy.sh/beatmapsets/532841#taiko) by ::asuasu_yura::{ user=2875968 }\
 180 BPM, 7:43 | 7.05★\
 *description written by ::Eriha::{ user=16320311 }*
 
 This month, Project Loved celebrates its 6th anniversary! How much have you all worked on your play skills and farmed pp in 6 years?
 
-To celebrate, I present [Various Artists - osu!memories](https://osu.ppy.sh/beatmapsets/532841#taiko/1172847) by ::asuasu\1yura::{ user=2875968 }, posted **6 years ago**! This map is a medley of **31** songs made famous within the osu! community. I'm sure you all know some of the songs! His mapping style has changed very much over the past 6 years. This map has a very simple arrangement and is very timeless! Can you get a full combo on this medley map that is about 7 minutes long?
+To celebrate, I present [Various Artists - osu!memories](https://osu.ppy.sh/beatmapsets/532841#taiko/1172847) by ::asuasu_yura::{ user=2875968 }, posted **6 years ago**! This map is a medley of **31** songs made famous within the osu! community. I'm sure you all know some of the songs! His mapping style has changed very much over the past 6 years. This map has a very simple arrangement and is very timeless! Can you get a full combo on this medley map that is about 7 minutes long?
 
 I feel honored to be here for Project Loved's 6th anniversary! Please continue to let us know what maps you think should be Loved! Enjoy! <3
 
@@ -314,11 +314,11 @@ Truly a map that survived the test of time. It would be a complete miss from our
 
 [![](/wiki/shared/news/2023-09-20-project-loved-six-years-september-2023/1163967.jpg)](https://osu.ppy.sh/community/forums/topics/1823760)
 
-[7_7 - ?_?](https://osu.ppy.sh/beatmapsets/1163967#taiko) by ::7\17::{ user=7491106 }\
+[7_7 - ?_?](https://osu.ppy.sh/beatmapsets/1163967#taiko) by ::7_7::{ user=7491106 }\
 220 BPM, 2:17 | 6.78★, 7.20★\
 *description written by ::Horiiizon::{ user=8071438 }*
 
-[7_7 - ?_?](https://osu.ppy.sh/beatmapsets/1163967#taiko) consists of 2 difficulties from mapping titans ::7\17::{ user=7491106 } and ::Waribashi::{ user=2250574 } (formerly known as KTYN). 7_7's difficulty, *?_?*, consists of a mixture of odd- and even-numbered patterns that flow seamlessly into each other as well as some shorter streams and simple 1/6 patterning. These combine to make a less stressful but very enjoyable and satisfying difficulty!
+[7_7 - ?_?](https://osu.ppy.sh/beatmapsets/1163967#taiko) consists of 2 difficulties from mapping titans ::7_7::{ user=7491106 } and ::Waribashi::{ user=2250574 } (formerly known as KTYN). 7_7's difficulty, *?_?*, consists of a mixture of odd- and even-numbered patterns that flow seamlessly into each other as well as some shorter streams and simple 1/6 patterning. These combine to make a less stressful but very enjoyable and satisfying difficulty!
 
 Waribashi's difficulty, *huh?*, is a very fun technical map that consists of far more frequent and more difficult 1/6 patterns than the previous difficulty, as well as repeatedly using 3/16 doublets. Make sure you're also prepared for the two 100+ note streams at the very end of the map! Do you have what it takes?_?
 
@@ -565,11 +565,11 @@ With the addition of rates to this map there is a wide variety of difficulty to 
 
 [![](/wiki/shared/news/2023-09-20-project-loved-six-years-september-2023/1712056.jpg)](https://osu.ppy.sh/community/forums/topics/1823745)
 
-[ORESAMA - Gimmme!](https://osu.ppy.sh/beatmapsets/1712056#mania) by ::Lung\1P::{ user=8271308 }\
+[ORESAMA - Gimmme!](https://osu.ppy.sh/beatmapsets/1712056#mania) by ::Lung_P::{ user=8271308 }\
 133 – 186.2 BPM, 4:11 | 4.79★, 5.18★, 5.58★, 5.97★, 6.36★\
 *description written by ::-NoName-::{ user=10400730 }*
 
-While ::Lung\1P::{ user=8271308 } has a Loved guest difficulty from the past, he does not have a Loved set of his own. This will hopefully change with our introduction of his set of [Gimmme!](https://osu.ppy.sh/beatmapsets/1712056#mania)
+While ::Lung_P::{ user=8271308 } has a Loved guest difficulty from the past, he does not have a Loved set of his own. This will hopefully change with our introduction of his set of [Gimmme!](https://osu.ppy.sh/beatmapsets/1712056#mania)
 
 Easy-going chordstreams is not something Lung_P is typically known for, but we feel that this chart is worth a chance given its simplicity. It has a similar approach to ::kasumi99::{ user=13191908 }'s [Protoflicker](https://osu.ppy.sh/beatmapsets/1026167), although the chordstreams contain fewer brackets and is generally a little easier for people to get into.
 

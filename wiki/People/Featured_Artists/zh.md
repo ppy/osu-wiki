@@ -56,7 +56,7 @@ tags:
 | 用户 | 艺术家 |
 | :-- | :-- |
 | ::{ flag=US }:: ::\_Xyris\_::{ user=11246193 } | [Xyris](https://osu.ppy.sh/beatmaps/artists/433) |
-| ::{ flag=CN }:: ::\1GB\1Azukisan::{ user=5378805 } | [Supa7onyz](https://osu.ppy.sh/beatmaps/artists/435) |
+| ::{ flag=CN }:: ::[GB]Azukisan::{ user=5378805 } | [Supa7onyz](https://osu.ppy.sh/beatmaps/artists/435) |
 | ::{ flag=PH }:: ::1zm8::{ user=17679636 } | [1zm8](https://osu.ppy.sh/beatmaps/artists/474) |
 | ::{ flag=GB }:: ::633397::{ user=11392390 } | [633397](https://osu.ppy.sh/beatmaps/artists/419) |
 | ::{ flag=JP }:: ::69\_de\_74::{ user=28700783 } | [69 de 74](https://osu.ppy.sh/beatmaps/artists/268) |
@@ -87,7 +87,7 @@ tags:
 | ::{ flag=KR }:: ::Down::{ user=4694602 } | [Down](https://osu.ppy.sh/beatmaps/artists/350) |
 | ::{ flag=US }:: ::Elzy::{ user=7521394 } | [Dvwnpour](https://osu.ppy.sh/beatmaps/artists/503) |
 | ::{ flag=US }:: ::erikmcclure::{ user=19898921 } | [Erik McClure](https://osu.ppy.sh/beatmaps/artists/125) |
-| ::{ flag=CA }:: ::exyl\1sounds::{ user=16759928 } | [Exyl](https://osu.ppy.sh/beatmaps/artists/285) |
+| ::{ flag=CA }:: ::exyl_sounds::{ user=16759928 } | [Exyl](https://osu.ppy.sh/beatmaps/artists/285) |
 | ::{ flag=GR }:: ::Geoxor::{ user=8112146 } | [Geoxor](https://osu.ppy.sh/beatmaps/artists/133) |
 | ::{ flag=NL }:: ::happy30::{ user=27767 } | [happy30](https://osu.ppy.sh/beatmaps/artists/317) |
 | ::{ flag=SE }:: ::Helblinde::{ user=48053 } | [Helblinde](https://osu.ppy.sh/beatmaps/artists/5), [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15) (成员) |
@@ -120,7 +120,7 @@ tags:
 | ::{ flag=JP }:: ::MIDInco::{ user=3809507 } | [MIDInco](https://osu.ppy.sh/beatmaps/artists/515) |
 | ::{ flag=US }:: ::MintyDoggo::{ user=10416815 } | [Myntian](https://osu.ppy.sh/beatmaps/artists/495) |
 | ::{ flag=MY }:: ::Miraie::{ user=6483437 } | [miraie](https://osu.ppy.sh/beatmaps/artists/162) |
-| ::{ flag=MY }:: ::mochasan\1::{ user=23804364 } | [Ariz Kayaba](https://osu.ppy.sh/beatmaps/artists/533) |
+| ::{ flag=MY }:: ::mochasan_::{ user=23804364 } | [Ariz Kayaba](https://osu.ppy.sh/beatmaps/artists/533) |
 | ::{ flag=FI }:: ::Naikoumusic::{ user=29139453 } | [Naikou](https://osu.ppy.sh/beatmaps/artists/471) |
 | ::{ flag=KR }:: ::Nakagawa-Kanon::{ user=87065 } | [Rabbit House](https://osu.ppy.sh/beatmaps/artists/242) |
 | ::{ flag=JP }:: ::nakanojojo::{ user=10631848 } | [Nakanojojo](https://osu.ppy.sh/beatmaps/artists/25) |
@@ -160,7 +160,7 @@ tags:
 | ::{ flag=RU }:: ::tieff::{ user=89619 } | [tieff](https://osu.ppy.sh/beatmaps/artists/34) |
 | ::{ flag=AU }:: ::tomspicy::{ user=13210748 } | [tomspicy](https://osu.ppy.sh/beatmaps/artists/437) |
 | ::{ flag=HK }:: ::Trainer LOLXD::{ user=14817071 } | [Trina Lydia](https://osu.ppy.sh/beatmaps/artists/440) |
-| ::{ flag=UA }:: ::un\1feeling::{ user=7100478 } | [unfeeling](https://osu.ppy.sh/beatmaps/artists/509) |
+| ::{ flag=UA }:: ::un_feeling::{ user=7100478 } | [unfeeling](https://osu.ppy.sh/beatmaps/artists/509) |
 | ::{ flag=RU }:: ::uselet::{ user=5256300 } | [uselet](https://osu.ppy.sh/beatmaps/artists/402) |
 | ::{ flag=CA }:: ::VINXIS::{ user=4323406 } | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) |
 | ::{ flag=DE }:: ::WangleLine::{ user=7994819 } | [WangleLine](https://osu.ppy.sh/beatmaps/artists/427) |

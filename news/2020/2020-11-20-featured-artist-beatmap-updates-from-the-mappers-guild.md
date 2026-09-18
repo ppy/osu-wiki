@@ -247,10 +247,10 @@ The **Panda Eyes pack (osu!taiko, osu!)** quest was completed by **::Cychloryn::
 
 ![sakuraburst header](https://assets.ppy.sh/artists/8/header.jpg)
 
-This **sakuraburst pack (osu!taiko, osu!)** quest was completed by **::Cynplytholowazy::{ user=3901754 }**, **::Raytoly::{ user=8121109 }**, **::Faputa::{ user=845733 }**, **::iceOC::{ user=5482401 }**, **::salchow::{ user=9738159 }**, **::\1Zeth\1::{ user=9912966 }**, **::Nardoxyribonucleic::{ user=876419 }**, **::Cychloryn::{ user=6921736 }**, **::Aisha::{ user=2192669 }**, **::Volta::{ user=4154071 }**, **::Marm::{ user=5143353 }** and **::Kawashiro::{ user=1533796 }**.
+This **sakuraburst pack (osu!taiko, osu!)** quest was completed by **::Cynplytholowazy::{ user=3901754 }**, **::Raytoly::{ user=8121109 }**, **::Faputa::{ user=845733 }**, **::iceOC::{ user=5482401 }**, **::salchow::{ user=9738159 }**, **::[Zeth]::{ user=9912966 }**, **::Nardoxyribonucleic::{ user=876419 }**, **::Cychloryn::{ user=6921736 }**, **::Aisha::{ user=2192669 }**, **::Volta::{ user=4154071 }**, **::Marm::{ user=5143353 }** and **::Kawashiro::{ user=1533796 }**.
 
 - [sakuraburst - AETHERSONG](https://osu.ppy.sh/beatmapsets/1052481) by ::Faputa::{ user=845733 } (osu!taiko)
-- [sakuraburst - forest of the spirits](https://osu.ppy.sh/beatmapsets/1053433) hosted by ::\1Zeth\1::{ user=9912966 } (osu!taiko)
+- [sakuraburst - forest of the spirits](https://osu.ppy.sh/beatmapsets/1053433) hosted by ::[Zeth]::{ user=9912966 } (osu!taiko)
 - [sakuraburst - sha](https://osu.ppy.sh/beatmapsets/1057855#taiko/2211089) by ::salchow::{ user=9738159 } (osu!taiko)
 - [sakuraburst - GLACIERFALL](https://osu.ppy.sh/beatmapsets/1060449) hosted by ::Cychloryn::{ user=6921736 } (osu!taiko)
 - [sakuraburst - serotonin](https://osu.ppy.sh/beatmapsets/1063724) by ::Kawashiro::{ user=1533796 } (osu!)
@@ -271,11 +271,11 @@ The **Celldweller pack (osu!)** was completed by **::Daycore::{ user=5596337 }**
 
 ![ELFENSJoN header](https://assets.ppy.sh/artists/69/header.jpg)
 
-The **ELFENSJoN pack (osu!)** quest was completed by **::Hinsvar::{ user=1249323 }**, **::Mocaotic::{ user=9487458 }**, **::\1Epreus::{ user=7342798 }**, **::Affirmation::{ user=6186628 }**, **::Hey lululu::{ user=4086497 }**, **::Keqing::{ user=8501291 }**, **::Agatsu::{ user=5579871 }**, **::Kalibe::{ user=3376777 }**, **::Kazato Asa::{ user=1125647 }** and **::Kowari::{ user=5404892 }**.
+The **ELFENSJoN pack (osu!)** quest was completed by **::Hinsvar::{ user=1249323 }**, **::Mocaotic::{ user=9487458 }**, **::_Epreus::{ user=7342798 }**, **::Affirmation::{ user=6186628 }**, **::Hey lululu::{ user=4086497 }**, **::Keqing::{ user=8501291 }**, **::Agatsu::{ user=5579871 }**, **::Kalibe::{ user=3376777 }**, **::Kazato Asa::{ user=1125647 }** and **::Kowari::{ user=5404892 }**.
 
 - [ELFENSJoN - Hexenjagd](https://osu.ppy.sh/beatmapsets/1112621#osu/2324484) by ::Hinsvar::{ user=1249323 }
 - [ELFENSJoN - Akayake no Majo](https://osu.ppy.sh/beatmapsets/1112439#osu/2324161) hosted by ::Hey lululu::{ user=4086497 }
-- [ELFENSJoN - EINHERJAR](https://osu.ppy.sh/beatmapsets/1112424#osu/2324126) by ::\1Epreus::{ user=7342798 }
+- [ELFENSJoN - EINHERJAR](https://osu.ppy.sh/beatmapsets/1112424#osu/2324126) by ::_Epreus::{ user=7342798 }
 - [ELFENSJoN - Kourisou wa Shiro Honou wo Matoite](https://osu.ppy.sh/beatmapsets/1112035) by ::Affirmation::{ user=6186628 }
 - [ELFENSJoN - Shinen o Yomu mono](https://osu.ppy.sh/beatmapsets/1115791#osu/2330974) by ::Mocaotic::{ user=9487458 }
 - [ELFENSJoN - Hotarubi](https://osu.ppy.sh/beatmapsets/1131083#osu/2362629) hosted by ::Agatsu::{ user=5579871 }
@@ -294,13 +294,13 @@ The **Zekk pack (osu!taiko)** quest was completed by **::Capu::{ user=2474015 }*
 
 ![Kola Kid header](https://assets.ppy.sh/artists/67/header.jpg)
 
-The **Kola Kid pack (osu!taiko)** quest was completed by **::Gamelan4::{ user=9856910 }**, **::gaston\12199::{ user=5938161 }**, **::Axer::{ user=7299864 }**, **::Coryn::{ user=2828556 }**, **::Etsu::{ user=3442319 }** and **::Nepuri::{ user=6637817 }**.
+The **Kola Kid pack (osu!taiko)** quest was completed by **::Gamelan4::{ user=9856910 }**, **::gaston_2199::{ user=5938161 }**, **::Axer::{ user=7299864 }**, **::Coryn::{ user=2828556 }**, **::Etsu::{ user=3442319 }** and **::Nepuri::{ user=6637817 }**.
 
 - [Kola Kid - 2punk2suck](https://osu.ppy.sh/beatmapsets/1112677#taiko/2324608) by ::Coryn::{ user=2828556 }
 - [Kola Kid - sniffing stardust on the dancefloor](https://osu.ppy.sh/beatmapsets/1120419) by ::Nepuri::{ user=6637817 }
 - [Kola Kid - contra88](https://osu.ppy.sh/beatmapsets/1126630) hosted by ::Gamelan4::{ user=9856910 }
 - [Kola Kid - the earth is counting on you](https://osu.ppy.sh/beatmapsets/1127568#taiko/2355797) by ::Etsu::{ user=3442319 }
-- [Kola Kid - cash machine go!](https://osu.ppy.sh/beatmapsets/1123501) by ::gaston\12199::{ user=5938161 }
+- [Kola Kid - cash machine go!](https://osu.ppy.sh/beatmapsets/1123501) by ::gaston_2199::{ user=5938161 }
 
 ---
 
@@ -337,9 +337,9 @@ The **dark cat mini-pack (osu!catch)** quest was completed by **::JBHyperion::{ 
 
 ![Fractal Dreamers header](https://assets.ppy.sh/artists/15/header.jpg)
 
-The **Monolithia mini-pack (osu!mania, osu!taiko)** quest was completed by **::\1Kobii::{ user=6209713 }**, **::Faputa::{ user=845733 }**, **::Keiga::{ user=6866022 }**, **::Scotty::{ user=11085809 }**, **::Blocko::{ user=4075092 }**, **::Kamuy::{ user=7439226 }** and **::Cynplytholowazy::{ user=3901754 }**.
+The **Monolithia mini-pack (osu!mania, osu!taiko)** quest was completed by **::_Kobii::{ user=6209713 }**, **::Faputa::{ user=845733 }**, **::Keiga::{ user=6866022 }**, **::Scotty::{ user=11085809 }**, **::Blocko::{ user=4075092 }**, **::Kamuy::{ user=7439226 }** and **::Cynplytholowazy::{ user=3901754 }**.
 
-- [Fractal Dreamers - Gardens Under A Spring Sky](https://osu.ppy.sh/beatmapsets/1080892#mania/2261284) hosted by ::\1Kobii::{ user=6209713 } (hybrid)
+- [Fractal Dreamers - Gardens Under A Spring Sky](https://osu.ppy.sh/beatmapsets/1080892#mania/2261284) hosted by ::_Kobii::{ user=6209713 } (hybrid)
 - [Fractal Dreamers - Ad Astra](https://osu.ppy.sh/beatmapsets/1096683) hosted by ::Keiga::{ user=6866022 } (osu!mania)
 - [Fractal Dreamers - Module_410](https://osu.ppy.sh/beatmapsets/1107159#mania/2314040) hosted by ::Scotty::{ user=11085809 } (osu!mania)
 - [Fractal Dreamers - Method of Illusion](https://osu.ppy.sh/beatmapsets/1123119) by ::Cynplytholowazy::{ user=3901754 } (osu!taiko)
@@ -360,14 +360,14 @@ The **Silentroom mini-pack (osu!taiko)** quest was completed by **::Ulqui::{ use
 - [Silentroom - F1055](https://osu.ppy.sh/beatmapsets/1224716#taiko/2547165) hosted by ::HiroK::{ user=4050738 }
 - [Silentroom - Nhelv](https://osu.ppy.sh/beatmapsets/928849) hosted by ::Nifty::{ user=4956097 }
 - [Silentroom - GLITCH SWITCH](https://osu.ppy.sh/beatmapsets/1225733#taiko/2549098) hosted by ::komasy::{ user=1980256 }
-- [Silentroom - Shuu no Hazama [Rainshower]](https://osu.ppy.sh/beatmapsets/1226129#taiko/2549787) hosted by ::\1Zeth\1::{ user=9912966 }
+- [Silentroom - Shuu no Hazama [Rainshower]](https://osu.ppy.sh/beatmapsets/1226129#taiko/2549787) hosted by ::[Zeth]::{ user=9912966 }
 
 ![Venetian Snares header](https://assets.ppy.sh/artists/71/header.jpg)
 
-The **Venetian Snares mini-pack (osu!taiko)** quest was completed by **::Gamelan4::{ user=9856910 }**, **::Raiden::{ user=2239480 }**, **::Axer::{ user=7299864 }**, **::Nepuri::{ user=6637817 }**, **::gaston\12199::{ user=5938161 }** and **::-Kazu-::{ user=920861 }**.
+The **Venetian Snares mini-pack (osu!taiko)** quest was completed by **::Gamelan4::{ user=9856910 }**, **::Raiden::{ user=2239480 }**, **::Axer::{ user=7299864 }**, **::Nepuri::{ user=6637817 }**, **::gaston_2199::{ user=5938161 }** and **::-Kazu-::{ user=920861 }**.
 
 - [Venetian Snares - Frictional Nevada](https://osu.ppy.sh/beatmapsets/1131123#taiko/2362691) by ::Raiden::{ user=2239480 }
-- [Venetian Snares - Ketsarku Mozgalom](https://osu.ppy.sh/beatmapsets/1133442#taiko/2367173) by ::gaston\12199::{ user=5938161 }
+- [Venetian Snares - Ketsarku Mozgalom](https://osu.ppy.sh/beatmapsets/1133442#taiko/2367173) by ::gaston_2199::{ user=5938161 }
 - [Venetian Snares - My So-Called Life](https://osu.ppy.sh/beatmapsets/1140877#taiko/2383110) by ::-Kazu-::{ user=920861 }
 - [Venetian Snares - Szamar Madar](https://osu.ppy.sh/beatmapsets/1176036#taiko/2452905) by ::Nepuri::{ user=6637817 }
 
@@ -415,7 +415,7 @@ The **Rivers of Nihil mini-pack (osu!, osu!taiko)** quest was completed by **::D
 
 For the **LeaF mini-pack** quest, the mappers had to create and rank 3 mapsets of songs by LeaF, each hosted by a different user.
 
-This quest was completed by **::Hey lululu::{ user=4086497 }**, **::SnowNiNo\1::{ user=2506267 }**, **::Yugu::{ user=3161834 }**, **::Flask::{ user=959763 }**, **::Icekalt::{ user=5410645 }**, **::Chaoslitz::{ user=3621552 }** and **::Regou::{ user=419954 }** for **osu!**.
+This quest was completed by **::Hey lululu::{ user=4086497 }**, **::SnowNiNo_::{ user=2506267 }**, **::Yugu::{ user=3161834 }**, **::Flask::{ user=959763 }**, **::Icekalt::{ user=5410645 }**, **::Chaoslitz::{ user=3621552 }** and **::Regou::{ user=419954 }** for **osu!**.
 
 - [LeaF - Mopemope](https://osu.ppy.sh/beatmapsets/1097600#osu/2293450) hosted by ::Hey lululu::{ user=4086497 }
 - [LeaF - Poison AND/OR Affection](https://osu.ppy.sh/beatmapsets/1130436#osu/2361362) hosted by ::Flask::{ user=959763 }
@@ -530,7 +530,7 @@ The requirements for each single-mapset quest is essentially the same: **Create 
 - **Circle of Dust/Scandroid single (osu!taiko)**: [Scandroid - Neo-Tokyo](https://osu.ppy.sh/beatmapsets/1115672#taiko/2330734) by ::Lime717::{ user=7918664 }
 - **CircusP single (osu!taiko)**: [CircusP - iNSaNiTY](https://osu.ppy.sh/beatmapsets/1156236#taiko/2412985) by ::Capu::{ user=2474015 }
 - **Disasterpeace single (osu!catch)**: [Disasterpeace - Home](https://osu.ppy.sh/beatmapsets/1195922) by ::JBHyperion::{ user=4879508 }
-- **Disasterpeace single (osu!taiko)**: [Disasterpeace - Home](https://osu.ppy.sh/beatmapsets/1180597#taiko/2461754) by ::\1Zeth\1::{ user=9912966 }
+- **Disasterpeace single (osu!taiko)**: [Disasterpeace - Home](https://osu.ppy.sh/beatmapsets/1180597#taiko/2461754) by ::[Zeth]::{ user=9912966 }
 - **ELFENSJoN single (osu!taiko)**: [ELFENSJoN - EINHERJAR](https://osu.ppy.sh/beatmapsets/1128209#taiko/2357053) by ::Axer::{ user=7299864 }
 - **F-777 single (osu!catch)**: [F-777 - Wander of Thought](https://osu.ppy.sh/beatmapsets/1103273#fruits/2304868) by ::wonjae::{ user=5032045 }
 - **ginkiha single (osu!catch)**: [ginkiha - nightfall](https://osu.ppy.sh/beatmapsets/1151833#fruits/2404241) by ::-Joni-::{ user=9988837 }
@@ -550,7 +550,7 @@ The requirements for each single-mapset quest is essentially the same: **Create 
 - **O2i3 single (osu!taiko)**: [O2i3 - Heart Function](https://osu.ppy.sh/beatmapsets/1132966#taiko/2366367) by ::Capu::{ user=2474015 }
 - **Receptor solo (osu!)**: [Receptor feat. K.I.R.A. - Lullaby](https://osu.ppy.sh/beatmapsets/1221743#osu/2541356) by ::Shmiklak::{ user=5504231 }
 - **Rohi single (osu!)**: [Rohi - Artifact](https://osu.ppy.sh/beatmapsets/1177744#osu/2456288) by ::VINXIS::{ user=4323406 }
-- **Rohi single (osu!taiko)**: [Rohi - Kanata ni Mau wa Sakura no Shirabe](https://osu.ppy.sh/beatmapsets/1176079#taiko/2452988) by ::gaston\12199::{ user=5938161 }
+- **Rohi single (osu!taiko)**: [Rohi - Kanata ni Mau wa Sakura no Shirabe](https://osu.ppy.sh/beatmapsets/1176079#taiko/2452988) by ::gaston_2199::{ user=5938161 }
 - **Rusty K solo (osu!)**: [Rusty K - Limitless](https://osu.ppy.sh/beatmapsets/1201877) by ::Cheri::{ user=5226970 }
 - **Silentroom single (osu!)**: [Silentroom - Shuu no Hazama [Rainshower]](https://osu.ppy.sh/beatmapsets/1227846) by ::Cheri::{ user=5226970 }
 - **Silentroom single (osu!taiko)**: [Silentroom - Alt Futur](https://osu.ppy.sh/beatmapsets/1225419#taiko/2548538) by ::eiri-::{ user=3388410 }
@@ -559,7 +559,7 @@ The requirements for each single-mapset quest is essentially the same: **Create 
 - **Thank You Scientist single (osu!)**: [Thank You Scientist - Rube Goldberg Variations](https://osu.ppy.sh/beatmapsets/1217737#osu/2533642) by ::BOUYAAA::{ user=405449 }
 - **Thank You Scientist single (osu!taiko)**: [Thank You Scientist - The Somnambulist](https://osu.ppy.sh/beatmapsets/1180544#taiko/2461668) by ::Axer::{ user=7299864 }
 - **Umeboshi Chazuke single (osu!catch)**: [Umeboshi Chazuke - ICHIBANBOSHI*ROCKET](https://osu.ppy.sh/beatmapsets/1258751#fruits/2616561) hosted by ::Jemzuu::{ user=7890134 }
-- **Umeboshi Chazuke single (osu!taiko)**: [Umeboshi Chazuke - Run*2 Run To You!!](https://osu.ppy.sh/beatmapsets/1254735#taiko/2607700) by ::gaston\12199::{ user=5938161 }
+- **Umeboshi Chazuke single (osu!taiko)**: [Umeboshi Chazuke - Run*2 Run To You!!](https://osu.ppy.sh/beatmapsets/1254735#taiko/2607700) by ::gaston_2199::{ user=5938161 }
 - **Zekk single (osu!)**: [Zekk - D4NCE](https://osu.ppy.sh/beatmapsets/1140776#osu/2382798) by ::eiri-::{ user=3388410 }
 - **Zekk single (osu!catch)**: [Zekk - Fluctuation](https://osu.ppy.sh/beatmapsets/1148215#fruits/2397357) by ::Jemzuu::{ user=7890134 }
 - **Zekk single (osu!taiko)**: [Zekk - Voyage](https://osu.ppy.sh/beatmapsets/1160498#taiko/2421285) by ::eiri-::{ user=3388410 }
@@ -600,8 +600,8 @@ Each of these users have hosted 3+ ranked mapsets or created 10+ ranked difficul
 | ::Crissa::{ user=5405836 } | 4 | 5 |
 | ::Agatsu::{ user=5579871 } | 4 | 16 |
 | ::fieryrage::{ user=3533958 } | 4 | 16 |
-| ::\1Zeth\1::{ user=9912966 } | 4 | 9 |
-| ::gaston\12199::{ user=5938161 } | 4 | 15 |
+| ::[Zeth]::{ user=9912966 } | 4 | 9 |
+| ::gaston_2199::{ user=5938161 } | 4 | 15 |
 | ::Zelq::{ user=8953955 } | 4 | 12 |
 | ::Hivie::{ user=14102976 } | 4 | 29 |
 | ::Zer0-::{ user=4260033 } | 4 | 13 |

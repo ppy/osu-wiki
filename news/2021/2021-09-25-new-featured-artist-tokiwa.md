@@ -39,7 +39,7 @@ Explore this future bass classic through [an osu! map](https://osu.ppy.sh/beatma
 
 ### Memoirs feat. Aitsuki Nakuru
 
-Try [the osu!taiko + osu!mania map](https://osu.ppy.sh/beatmapsets/976366) hosted by ::\1Kobii::{ user=6209713 } that put **tokiwa** on the radar!
+Try [the osu!taiko + osu!mania map](https://osu.ppy.sh/beatmapsets/976366) hosted by ::_Kobii::{ user=6209713 } that put **tokiwa** on the radar!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/202/Songs/tokiwa%20-%20Memoirs%20feat.%20Aitsuki%20Nakuru.mp3" type="audio/mpeg">

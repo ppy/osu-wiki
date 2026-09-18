@@ -48,13 +48,13 @@ The osu!mania 4K Chinese National Cup 2023 was run by various community members.
 | :-- | :-- |
 | Host | ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user=10500832 } |
 | Mappoolers | ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user=10500832 }, ::{ flag=CN }:: ::\[Crz\]Alleyne::{ user=11279273 }, ::{ flag=CN }:: ::YuEast 2018::{ user=13953619 }, ::{ flag=TW }:: ::\[Crz\]FolAH1217::{ user=6232458 }, ::{ flag=CN }:: ::gzdongsheng::{ user=8660315 }, ::{ flag=CN }:: ::AelSan::{ user=14095291 }, ::{ flag=CN }:: ::\[Crz\]Flandre::{ user=6949941 } |
-| Custom mappers | ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user=10500832 }, ::{ flag=CN }:: ::\[Crz\]Alleyne::{ user=11279273 }, ::{ flag=CN }:: ::YuEast 2018::{ user=13953619 }, ::{ flag=CN }:: ::AlexDunk::{ user=9194799 }, ::{ flag=TW }:: ::\[Crz\]FolAH1217::{ user=6232458 }, ::{ flag=CN }:: ::Phukiir::{ user=4556538 }, ::{ flag=CN }:: ::gzdongsheng::{ user=8660315 }, ::{ flag=CN }:: ::AelSan::{ user=14095291 }, ::{ flag=CN }:: ::UselessPlayer::{ user=15030466 }, ::{ flag=ID }:: ::Ryu Sei::{ user=3427638 }, ::{ flag=CN }:: ::Seiran-::{ user=14351534 }, ::{ flag=CN }:: ::Muses::{ user=9705896 }, ::{ flag=ID }:: ::eZmmR::{ user=8647138 }, ::{ flag=KR }:: ::Nicknem\1::{ user=16615040 }, ::{ flag=JP }:: ::CrewK::{ user=11488604 }, ::{ flag=US }:: ::chxu::{ user=13712190 } |
-| Mappool tester | ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user=10500832 }, ::{ flag=CN }:: ::\[Crz\]Satori::{ user=7082178 }, ::{ flag=HK }:: ::osu\1degenstage5::{ user=11563203 }, ::{ flag=CN }:: ::\[Crz\]Flandre::{ user=6949941 } |
+| Custom mappers | ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user=10500832 }, ::{ flag=CN }:: ::\[Crz\]Alleyne::{ user=11279273 }, ::{ flag=CN }:: ::YuEast 2018::{ user=13953619 }, ::{ flag=CN }:: ::AlexDunk::{ user=9194799 }, ::{ flag=TW }:: ::\[Crz\]FolAH1217::{ user=6232458 }, ::{ flag=CN }:: ::Phukiir::{ user=4556538 }, ::{ flag=CN }:: ::gzdongsheng::{ user=8660315 }, ::{ flag=CN }:: ::AelSan::{ user=14095291 }, ::{ flag=CN }:: ::UselessPlayer::{ user=15030466 }, ::{ flag=ID }:: ::Ryu Sei::{ user=3427638 }, ::{ flag=CN }:: ::Seiran-::{ user=14351534 }, ::{ flag=CN }:: ::Muses::{ user=9705896 }, ::{ flag=ID }:: ::eZmmR::{ user=8647138 }, ::{ flag=KR }:: ::Nicknem_::{ user=16615040 }, ::{ flag=JP }:: ::CrewK::{ user=11488604 }, ::{ flag=US }:: ::chxu::{ user=13712190 } |
+| Mappool tester | ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user=10500832 }, ::{ flag=CN }:: ::\[Crz\]Satori::{ user=7082178 }, ::{ flag=HK }:: ::osu_degenstage5::{ user=11563203 }, ::{ flag=CN }:: ::\[Crz\]Flandre::{ user=6949941 } |
 | Referees | ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user=10500832 }, ::{ flag=CN }:: ::AelSan::{ user=14095291 }, ::{ flag=CN }:: ::\[Crz\]Alleyne::{ user=11279273 }, ::{ flag=CN }:: ::\[Crz\]Makii::{ user=5242158 }, ::{ flag=CN }:: ::WorthlessPlayer::{ user=13858681 }, ::{ flag=CN }:: ::shizehao::{ user=4928674 }, ::{ flag=CN }:: ::\[Crz\]Flandre::{ user=6949941 }, ::{ flag=CN }:: ::UselessPlayer::{ user=15030466 }, ::{ flag=CN }:: ::cdwcgt::{ user=14721101 }, ::{ flag=CN }:: ::YuEast 2018::{ user=13953619 }, ::{ flag=CN }:: ::Seira-Nanamori::{ user=3407743 }, ::{ flag=CN }:: ::-Hermit-::{ user=7175234 } |
-| Streamers | ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user=10500832 }, ::{ flag=CN }:: ::\[Crz\]Alleyne::{ user=11279273 }, ::{ flag=CN }:: ::WorthlessPlayer::{ user=13858681 }, ::{ flag=CN }:: ::\[GB\]Rush\1FTK::{ user=3046856 }, ::{ flag=CN }:: ::Ayase Eli::{ user=6764156 }, ::{ flag=CN }:: ::UselessPlayer::{ user=15030466 }, ::{ flag=CN }:: ::cdwcgt::{ user=14721101 }, ::{ flag=CN }:: ::Arietta-::{ user=12764539 }, ::{ flag=CN }:: ::-Hermit-::{ user=7175234 } |
-| Commentators | ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user=10500832 }, ::{ flag=CN }:: ::\[GB\]Rush\1FTK::{ user=3046856 }, ::{ flag=CN }:: ::shizehao::{ user=4928674 }, ::{ flag=CN }:: ::\[Crz\]Flandre::{ user=6949941 }, ::{ flag=CN }:: ::FcEazy::{ user=7825227 }, ::{ flag=CN }:: ::\[GB\]Reisen::{ user=8586018 }, ::{ flag=CN }:: ::\[GB\]yobrevelc::{ user=14128407 }, ::{ flag=CN }:: ::\[Crz\]Nickname::{ user=10817494 }, ::{ flag=CN }:: ::YuEast 2018::{ user=13953619 } |
-| Graphics | ::{ flag=CN }:: ::Dr\1Tissues::{ user=5106681 }, ::{ flag=CN }:: ::mitaiiiiiiii::{ user=19173683 } |
-| Spreadsheeters | ::{ flag=CN }:: ::Dr\1Tissues::{ user=5106681 }, ::{ flag=CN }:: ::mitaiiiiiiii::{ user=19173683 } |
+| Streamers | ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user=10500832 }, ::{ flag=CN }:: ::\[Crz\]Alleyne::{ user=11279273 }, ::{ flag=CN }:: ::WorthlessPlayer::{ user=13858681 }, ::{ flag=CN }:: ::\[GB\]Rush_FTK::{ user=3046856 }, ::{ flag=CN }:: ::Ayase Eli::{ user=6764156 }, ::{ flag=CN }:: ::UselessPlayer::{ user=15030466 }, ::{ flag=CN }:: ::cdwcgt::{ user=14721101 }, ::{ flag=CN }:: ::Arietta-::{ user=12764539 }, ::{ flag=CN }:: ::-Hermit-::{ user=7175234 } |
+| Commentators | ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user=10500832 }, ::{ flag=CN }:: ::\[GB\]Rush_FTK::{ user=3046856 }, ::{ flag=CN }:: ::shizehao::{ user=4928674 }, ::{ flag=CN }:: ::\[Crz\]Flandre::{ user=6949941 }, ::{ flag=CN }:: ::FcEazy::{ user=7825227 }, ::{ flag=CN }:: ::\[GB\]Reisen::{ user=8586018 }, ::{ flag=CN }:: ::\[GB\]yobrevelc::{ user=14128407 }, ::{ flag=CN }:: ::\[Crz\]Nickname::{ user=10817494 }, ::{ flag=CN }:: ::YuEast 2018::{ user=13953619 } |
+| Graphics | ::{ flag=CN }:: ::Dr_Tissues::{ user=5106681 }, ::{ flag=CN }:: ::mitaiiiiiiii::{ user=19173683 } |
+| Spreadsheeters | ::{ flag=CN }:: ::Dr_Tissues::{ user=5106681 }, ::{ flag=CN }:: ::mitaiiiiiiii::{ user=19173683 } |
 
 ## Links
 
@@ -91,7 +91,7 @@ The osu!mania 4K Chinese National Cup 2023 was run by various community members.
 | 21 | ::{ flag=CN }:: ::Yurucawaii::{ user=25682415 } |
 | 22 | ::{ flag=CN }:: ::chana::{ user=18375016 } |
 | 23 | ::{ flag=CN }:: ::SilentParleHorn::{ user=5190592 } |
-| 24 | ::{ flag=CN }:: ::Echo\1XF::{ user=25630297 } |
+| 24 | ::{ flag=CN }:: ::Echo_XF::{ user=25630297 } |
 | 25 | ::{ flag=CN }:: ::\[GB\]sherweifa::{ user=17457562 } |
 | 26 | ::{ flag=CN }:: ::ExNeko::{ user=7590894 } |
 | 27 | ::{ flag=CN }:: ::\[GB\]V1do::{ user=17527968 } |
@@ -100,7 +100,7 @@ The osu!mania 4K Chinese National Cup 2023 was run by various community members.
 | 30 | ::{ flag=CN }:: ::Lucky Clover::{ user=24989144 } |
 | 31 | ::{ flag=CN }:: ::\[Paw\]FIood::{ user=6336721 } |
 | 32 | ::{ flag=CN }:: ::vanposen::{ user=15289293 } |
-| 33 | ::{ flag=HK }:: ::DC2\1727::{ user=17483369 } |
+| 33 | ::{ flag=HK }:: ::DC2_727::{ user=17483369 } |
 | 34 | ::{ flag=CN }:: ::Shenzouz::{ user=29606773 } |
 | 35 | ::{ flag=CN }:: ::- Xiaoluoli -::{ user=9502281 } |
 | 36 | ::{ flag=TW }:: ::elicccc::{ user=22491203 } |
@@ -111,10 +111,10 @@ The osu!mania 4K Chinese National Cup 2023 was run by various community members.
 | 41 | ::{ flag=CN }:: ::majesticlegend::{ user=10219308 } |
 | 42 | ::{ flag=CN }:: ::MidRed::{ user=17641994 } |
 | 43 | ::{ flag=CN }:: ::xibuniuzai::{ user=10513110 } |
-| 44 | ::{ flag=CN }:: ::N3k0ha\15h12uku::{ user=8781662 } |
+| 44 | ::{ flag=CN }:: ::N3k0ha_5h12uku::{ user=8781662 } |
 | 45 | ::{ flag=CN }:: ::Mitto::{ user=9602755 } |
 | 46 | ::{ flag=CN }:: ::2580697339::{ user=6311072 } |
-| 47 | ::{ flag=CN }:: ::\[Lily\1White\]::{ user=12749779 } |
+| 47 | ::{ flag=CN }:: ::\[Lily_White\]::{ user=12749779 } |
 | 48 | ::{ flag=CN }:: ::\[GB\]QAQlingjiu::{ user=27288518 } |
 | 49 | ::{ flag=CN }:: ::LPL114514::{ user=32932012 } |
 | 50 | ::{ flag=CN }:: ::\[GB\]r3uz::{ user=27583184 } |
@@ -142,8 +142,8 @@ The osu!mania 4K Chinese National Cup 2023 was run by various community members.
 | 72 | ::{ flag=CN }:: ::\[GB\]Cz::{ user=9191281 } |
 | 73 | ::{ flag=CN }:: ::ainesegg::{ user=13747081 } |
 | 74 | ::{ flag=CN }:: ::Nene Sakura::{ user=6701104 } |
-| 75 | ::{ flag=CN }:: ::\[GB\]Aeracy\1nya::{ user=15351355 } |
-| 76 | ::{ flag=CN }:: ::qiufeng\1xz::{ user=20813415 } |
+| 75 | ::{ flag=CN }:: ::\[GB\]Aeracy_nya::{ user=15351355 } |
+| 76 | ::{ flag=CN }:: ::qiufeng_xz::{ user=20813415 } |
 | 77 | ::{ flag=CN }:: ::Arietta-::{ user=12764539 } |
 | 78 | ::{ flag=CN }:: ::-YeLing-::{ user=14726718 } |
 | 79 | ::{ flag=CN }:: ::luluxia::{ user=5863409 } |

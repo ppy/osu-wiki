@@ -37,9 +37,9 @@ The 112's Corona Tournament was run by various community members.
 | :-- | :-- |
 | Organizer | ::{ flag=TR }:: ::112servis::{ user=3953470 }, ::{ flag=TR }:: ::Sibyl::{ user=10440852 } |
 | Mappool selector | ::{ flag=TR }:: ::112servis::{ user=3953470 }, ::{ flag=TR }:: ::Entry::{ user=10213311 }, ::{ flag=NL }:: ::iepie122::{ user=12235433 }, ::{ flag=TR }:: ::mezelyus::{ user=5938859 }, ::{ flag=CA }:: ::Sansnaka::{ user=5543535 } |
-| Referee | ::{ flag=TR }:: ::112servis::{ user=3953470 }, ::{ flag=TR }:: ::Coderbora::{ user=11873333 }, ::{ flag=TR }:: ::Entry::{ user=10213311 }, ::{ flag=TR }:: ::Hazar::{ user=6364554 }, ::{ flag=TR }:: ::heyronii::{ user=5642779 }, ::{ flag=NL }:: ::goeo\1::{ user=6832107 }, ::{ flag=TR }:: ::LeBoum::{ user=8700026 }, ::{ flag=TR }:: ::ozge1907::{ user=6511453 }, ::{ flag=TR }:: ::Sibyl::{ user=10440852 }, ::{ flag=DE }:: ::takoz53::{ user=2214428 }, ::{ flag=TR }:: ::tingirmin::{ user=9027514 }, ::{ flag=TR }:: ::We0l::{ user=13196066 } |
+| Referee | ::{ flag=TR }:: ::112servis::{ user=3953470 }, ::{ flag=TR }:: ::Coderbora::{ user=11873333 }, ::{ flag=TR }:: ::Entry::{ user=10213311 }, ::{ flag=TR }:: ::Hazar::{ user=6364554 }, ::{ flag=TR }:: ::heyronii::{ user=5642779 }, ::{ flag=NL }:: ::goeo_::{ user=6832107 }, ::{ flag=TR }:: ::LeBoum::{ user=8700026 }, ::{ flag=TR }:: ::ozge1907::{ user=6511453 }, ::{ flag=TR }:: ::Sibyl::{ user=10440852 }, ::{ flag=DE }:: ::takoz53::{ user=2214428 }, ::{ flag=TR }:: ::tingirmin::{ user=9027514 }, ::{ flag=TR }:: ::We0l::{ user=13196066 } |
 | Streamer | ::{ flag=TR }:: ::112servis::{ user=3953470 }, ::{ flag=TR }:: ::HakoFixed::{ user=7188447 } |
-| Commentator | ::{ flag=TR }:: ::112servis::{ user=3953470 }, ::{ flag=TR }:: ::heyronii::{ user=5642779 }, ::{ flag=TR }:: ::mezelyus::{ user=5938859 }, ::{ flag=NL }:: ::goeo\1::{ user=6832107 } |
+| Commentator | ::{ flag=TR }:: ::112servis::{ user=3953470 }, ::{ flag=TR }:: ::heyronii::{ user=5642779 }, ::{ flag=TR }:: ::mezelyus::{ user=5938859 }, ::{ flag=NL }:: ::goeo_::{ user=6832107 } |
 | Designer | ::{ flag=TR }:: ::Sibyl::{ user=10440852 } |
 | Wiki editor | ::{ flag=TR }:: ::Zeus-::{ user=5464437 } |
 
@@ -71,7 +71,7 @@ The 112's Corona Tournament was run by various community members.
 | i may be stupid | ::{ flag=TR }:: ::Raikouhou::{ user=8007528 }, ::{ flag=TR }:: ::Tsuda-::{ user=6713666 } |
 | isim bulamadık | ::{ flag=TR }:: ::\[-Shadowa-\]::{ user=1313327 }, ::{ flag=TR }:: ::sentez::{ user=8816305 } |
 | K G O O | ::{ flag=TR }:: ::Ekrem Imamoglu::{ user=10801545 }, ::{ flag=TR }:: ::roseacti::{ user=10518505 } |
-| kartal.network | ::{ flag=NL }:: ::goeo\1::{ user=6832107 }, ::{ flag=TR }:: ::Cyberia950::{ user=9143539 } |
+| kartal.network | ::{ flag=NL }:: ::goeo_::{ user=6832107 }, ::{ flag=TR }:: ::Cyberia950::{ user=9143539 } |
 | kms | ::{ flag=TR }:: ::Yoani::{ user=10660282 }, ::{ flag=TR }:: ::mirayno::{ user=11593174 } |
 | Mağdurlar | ::{ flag=TR }:: ::star1322::{ user=8128670 }, ::{ flag=TR }:: ::We0l::{ user=13196066 } |
 | nE | ::{ flag=TR }:: ::Nymphe::{ user=10507407 }, ::{ flag=TR }:: ::emptypudding::{ user=11003085 } |

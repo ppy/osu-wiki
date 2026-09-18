@@ -53,7 +53,7 @@ The Netherlands vs. Taiwan match was one of the two closest matches we've seen t
 
 Due to a slight mishap, this match was played without the teams' protects. Despite that, neither one of the teams backed down and readjusted their strategies despite their comfort picks potentially being banned! The match ended up evolving into a constant back and forth, highlighted by ::{ flag=NL }:: ::Tyronix::{ user=11290311 }'s overall performance and nerves of steel, ::{ flag=NL }:: ::Freek::{ user=9630674 }'s amazing LN scores, and Taiwan's extraordinary consistency all throughout the match!
 
-But the final star of the show was the tiebreaker, [Massive New Krew - Majestic 12](https://osu.ppy.sh/beatmapsets/2119554#mania/4452392). While both teams were at their wits' ends, this didn't stop them from pushing themselves to the limit with quite a tight lead all things considered. Unfortunately for the Netherlands, Taiwan's consistency and control by the hands of ::{ flag=TW }:: ::hero\1jeff::{ user=3375226 } and ::{ flag=TW }:: ::\1EGEJ\1Egg\1Tart::{ user=9666710 } ended up giving them the edge.
+But the final star of the show was the tiebreaker, [Massive New Krew - Majestic 12](https://osu.ppy.sh/beatmapsets/2119554#mania/4452392). While both teams were at their wits' ends, this didn't stop them from pushing themselves to the limit with quite a tight lead all things considered. Unfortunately for the Netherlands, Taiwan's consistency and control by the hands of ::{ flag=TW }:: ::hero_jeff::{ user=3375226 } and ::{ flag=TW }:: ::[EGEJ]Egg_Tart::{ user=9666710 } ended up giving them the edge.
 
 Congratulations to both teams, as nobody could've predicted who would be taking the lead in such a close match!
 

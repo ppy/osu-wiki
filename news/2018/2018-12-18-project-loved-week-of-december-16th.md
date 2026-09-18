@@ -46,7 +46,7 @@ A familiar song in a familiar style, this mapset of yuikonnu's cover of Ghost Ru
 
 [![](/wiki/shared/news/2018-12-16-project-loved-week-of-december-16th/osu/bebe.jpg)](https://osu.ppy.sh/community/forums/topics/843145)
 
-[WJSN (Cosmic Girls) - BeBe](https://osu.ppy.sh/beatmapsets/539135#osu) by ::Sidetail::{ user=2036217 }, ::Nuolong::{ user=4732455 } and ::\1 M I N A K O \1::{ user=7106283 }\
+[WJSN (Cosmic Girls) - BeBe](https://osu.ppy.sh/beatmapsets/539135#osu) by ::Sidetail::{ user=2036217 }, ::Nuolong::{ user=4732455 } and ::[ M I N A K O ]::{ user=7106283 }\
 *written by ::BeasttrollMC::{ user=3171691 }*
 
 This will be a pleasant surprise to all K-pop fans out there, as we have a song from COSMIC GIRLS up for a spot in Project Loved! This map features four different difficulties ranging from 4 to 6 stars, so there is a little something for everyone. Its highest difficulty, although being in the low 6-star range, is a great way for players to challenge their raw aim skill, as the map has plenty of fullscreen jumps for players to test themselves. This is the type of map that always seems to draw you back because of how catchy it is. Don't believe me? Give it a go and vote for its place here in Project Loved!
@@ -102,7 +102,7 @@ Another spicy Yusomi mapset has appeared for Loved voting! Yusomi has mapped thi
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-\1 ix Ishida xi \1-::{ user=242910 }, ::-Kazu-::{ user=920861 }, ::Backfire::{ user=263110 }, ::iceOC::{ user=5482401 } and ::nyanmi-1828::{ user=6866480 }!
+osu!taiko Loved candidates were chosen by ::-[ ix Ishida xi ]-::{ user=242910 }, ::-Kazu-::{ user=920861 }, ::Backfire::{ user=263110 }, ::iceOC::{ user=5482401 } and ::nyanmi-1828::{ user=6866480 }!
 
 ---
 

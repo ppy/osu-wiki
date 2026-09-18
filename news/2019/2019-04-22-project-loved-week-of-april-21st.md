@@ -158,7 +158,7 @@ osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, ::Tenshich
 
 [![](/wiki/shared/news/2019-04-22-project-loved-week-of-april-21st/catch/1-s-m-l.jpg)](https://osu.ppy.sh/community/forums/topics/898255)
 
-[Afilia Saga - S.M.L\*](https://osu.ppy.sh/beatmapsets/746286#fruits) by ::\1\_-Kukkai-\_\1::{ user=7811952 }\
+[Afilia Saga - S.M.L\*](https://osu.ppy.sh/beatmapsets/746286#fruits) by ::[\_-Kukkai-\_]::{ user=7811952 }\
 200 BPM, 4:41 | 11.94★\
 *written by ::Tenshichan::{ user=1101600 }*
 

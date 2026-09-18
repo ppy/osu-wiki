@@ -77,7 +77,7 @@ Try not to die while playing these:
 
 - [Classic map](https://osu.ppy.sh/beatmapsets/9137) hosted by ::Deye::{ user=159431 }
 - [Modern rendition](https://osu.ppy.sh/beatmapsets/1188834) hosted by ::-Keitaro::{ user=3378391 }
-- [osu!taiko map](https://osu.ppy.sh/beatmapsets/2012610) hosted by ::realy0\1::{ user=8863359 }
+- [osu!taiko map](https://osu.ppy.sh/beatmapsets/2012610) hosted by ::realy0_::{ user=8863359 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/530/Death%20Moon/SHK%20-%20Death%20Moon.mp3">
@@ -93,7 +93,7 @@ Return to the living by playing [this ancient map](https://osu.ppy.sh/beatmapset
 
 ### SHK - Couple Breaking
 
-Don't break combo on [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/153199) hosted by ::Sky\1Demon::{ user=1542713 }!
+Don't break combo on [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/153199) hosted by ::Sky_Demon::{ user=1542713 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/530/Couple%20Breaking/SHK%20-%20Couple%20Breaking.mp3">

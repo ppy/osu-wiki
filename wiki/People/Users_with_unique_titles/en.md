@@ -90,7 +90,7 @@ Winners of previous osu!taiko World Cups with the **Former osu!taiko Champion** 
 | [TWC 2020](/wiki/Tournaments/TWC/2020) | Former osu!taiko Champion: 2020 | ::{ flag=JP }:: ::iceOC::{ user=5482401 }, ::{ flag=JP }:: ::kiyozi11::{ user=9551196 } |
 | [TWC 2021](/wiki/Tournaments/TWC/2021) | Former osu!taiko Champion: 2021 | *N/A* |
 | [TWC 2022](/wiki/Tournaments/TWC/2022) | Former osu!taiko Champion: 2022 | ::{ flag=JP }:: ::nameless\_ll::{ user=11199742 }, ::{ flag=JP }:: ::syaron105::{ user=8741695 }, ::{ flag=JP }:: ::uone::{ user=5321719 } |
-| [TWC 2023](/wiki/Tournaments/TWC/2023) | Former osu!taiko Champion: 2023 | ::{ flag=JP }:: ::ekumea1123::{ user=9119501 }, ::{ flag=JP }:: ::Seren58::{ user=15252950 }, ::{ flag=JP }:: ::kotohira\106::{ user=22444525 }, ::{ flag=JP }:: ::Nanas3::{ user=17015562 } |
+| [TWC 2023](/wiki/Tournaments/TWC/2023) | Former osu!taiko Champion: 2023 | ::{ flag=JP }:: ::ekumea1123::{ user=9119501 }, ::{ flag=JP }:: ::Seren58::{ user=15252950 }, ::{ flag=JP }:: ::kotohira_06::{ user=22444525 }, ::{ flag=JP }:: ::Nanas3::{ user=17015562 } |
 | [TWC 2024](/wiki/Tournaments/TWC/2024) | Former osu!taiko Champion: 2024 | ::{ flag=JP }:: ::kanten\_07::{ user=11680357 }, ::{ flag=JP }:: ::Shamirin\_mzk::{ user=11325757 } |
 
 Winners of previous osu!catch World Cups with the **Former osu!catch Champion** user title:
@@ -227,7 +227,7 @@ The Aspire mapping contests feature a special variation of the Elite Mapper titl
 - ::{ flag=CA }:: ::Monstrata::{ user=2706438 }
 - ::{ flag=NL }:: ::Mr HeliX::{ user=2330619 }
 - ::{ flag=FI }:: ::ProfessionalBox::{ user=3250792 }
-- ::{ flag=TW }:: ::SnowNiNo\1::{ user=2506267 }
+- ::{ flag=TW }:: ::SnowNiNo_::{ user=2506267 }
 - ::{ flag=KR }:: ::Spectator::{ user=702598 }
 - ::{ flag=FR }:: ::Supairo::{ user=2837231 }
 
@@ -323,7 +323,7 @@ These storyboarders were awarded the **Elite Storyboarder** title for demonstrat
 - ::{ flag=RU }:: ::Shmiklak::{ user=5504231 }
 - ::{ flag=RU }:: ::Tommy Phelps::{ user=10974581 }
 - ::{ flag=DZ }:: ::VenerableNyanta::{ user=12243368 }
-- ::{ flag=CN }:: ::yf\1bmp::{ user=1243669 }[^yf-note]
+- ::{ flag=CN }:: ::yf_bmp::{ user=1243669 }[^yf-note]
 - ::{ flag=CN }:: ::Yumeno Himiko::{ user=1806962 }
 
 ## Gameplay-related
@@ -340,7 +340,7 @@ These players were awarded their respective titles through either a crazy gamepl
 | ::{ flag=US }:: ::EEEEEEEEEEEEEEE::{ user=2927048 } | osu!completionist | Played all Ranked osu! maps as of 15 March 2023 |
 | ::{ flag=AU }:: ::Jaye::{ user=4841352 } | Drum Decimator | Scored FCs on all Ranked osu!taiko maps as of 3 November 2019 |
 | ::{ flag=PL }:: ::Przegrany::{ user=7635621 } | osu!completionist | Played all Ranked osu! maps as of 11 August 2021 |
-| ::{ flag=NL }:: ::Shirotora\1old::{ user=11820 } | Bested the Reaper's Game | Awarded by ::{ flag=CA }:: ::awp::{ user=2650 } in late 2008 for reaching rank #104 in 1 week, as a reference to [*The World Ends with You*](https://en.wikipedia.org/wiki/The_World_Ends_with_You) <!-- source: https://osu.ppy.sh/community/forums/posts/60664 (Shirotora_old's forum signature) --> |
+| ::{ flag=NL }:: ::Shirotora_old::{ user=11820 } | Bested the Reaper's Game | Awarded by ::{ flag=CA }:: ::awp::{ user=2650 } in late 2008 for reaching rank #104 in 1 week, as a reference to [*The World Ends with You*](https://en.wikipedia.org/wiki/The_World_Ends_with_You) <!-- source: https://osu.ppy.sh/community/forums/posts/60664 (Shirotora_old's forum signature) --> |
 | ::{ flag=US }:: ::xasuma::{ user=3172980 } | The First Completionist | Played all Ranked osu! maps as of 27 April 2019 |
 | ::{ flag=DE }:: ::Zetera::{ user=587737 } | Medal Hunter | Was the [first person to unlock the *The Girl in the Forest* medal](https://osu.ppy.sh/community/forums/topics/662279) |
 | ::{ flag=US }:: ::UberFazz::{ user=8646059 } | Medal Hunter | Was the [first person to unlock the *Internment* medal](https://twitter.com/osugame/status/1696007320663359800) |
@@ -388,7 +388,7 @@ These users were awarded their respective titles for miscellanous reasons.
 | ::{ flag=US }:: ::Derekku::{ user=91341 } | COOL DUDE<!-- given by phill, old forum meme (https://osu.ppy.sh/community/forums/posts/869213) --> |
 | ::{ flag=AU }:: ::Ephemeral::{ user=102335 } | Inland Empire<!-- Disco Elysium reference --> |
 | ::{ flag=DE }:: ::Loctav::{ user=71366 } | Popcorn Fairy<!-- movie threatre pictures in staff chats (internal reference: https://discord.com/channels/90072389919997952/276231513702400001/278117445968068608) --> |
-| ::{ flag=AU }:: ::phill\1old::{ user=53 } | ¿ |
+| ::{ flag=AU }:: ::phill_old::{ user=53 } | ¿ |
 | ::{ flag=US }:: ::Toy::{ user=2757689 } | Former osu! Champion: 2019 / Grilled Dodongo |
 | ::{ flag=HM }:: ::Zallius::{ user=55 } | Boats |
 
@@ -398,4 +398,4 @@ These users were awarded their respective titles for miscellanous reasons.
 [^elite-note]: ::{ flag=ID }:: ::Maxus::{ user=4335785 }, ::{ flag=US }:: ::Monoseul::{ user=16010604 }, and ::{ flag=RU }:: ::NeKroMan4ik::{ user=11387664 } were awarded with the **Elite Nominator II** title instead for having been named as Elite Nominators for two years in total. ::{ flag=CN }:: ::gzdongsheng::{ user=8660315 } was awarded with the **Elite Nominator III** title instead for having been named as Elite Nominator for three years in total.
 [^charles445-note]: ::{ flag=US }:: ::Charles445::{ user=85000 } was awarded with the **Elite Mapper II: Aspirant** title instead for having won both the [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) and the [Monthly Beatmapping Contest: Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results).
 [^billiummoto-note]: ::{ flag=US }:: ::BilliumMoto::{ user=3862471 } was awarded with the **osu!mixer II** title instead for having won both the [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) and the [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) contest.
-[^yf-note]: ::{ flag=CN }:: ::yf\1bmp::{ user=1243669 } was awarded with the **Elite Storyboarder II** title instead for having [already received the title](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020) due to outstanding contributions to the storyboarding scene, as well as having won the [triangles Beatmapping Contest](/wiki/Contests/triangles_Beatmapping_Contest).
+[^yf-note]: ::{ flag=CN }:: ::yf_bmp::{ user=1243669 } was awarded with the **Elite Storyboarder II** title instead for having [already received the title](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020) due to outstanding contributions to the storyboarding scene, as well as having won the [triangles Beatmapping Contest](/wiki/Contests/triangles_Beatmapping_Contest).

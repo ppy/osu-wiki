@@ -54,7 +54,7 @@ Moreover, congratulations to the winners of the Best of 2013 Charts:
 
 - **1st** ::HARP::{ user=23915953 }
 - **2nd** ::-Nekochan-::{ user=33870171 }
-- **3rd** ::\[\1Crystal\]::{ user=1646397 }
+- **3rd** ::\[_Crystal\]::{ user=1646397 }
 
 **osu!mania**
 

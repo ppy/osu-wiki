@@ -74,7 +74,7 @@ Shirasaka Koume is known for having a very clean and enjoyable mapping style, an
 
 [![](/wiki/shared/news/2020-05-16-project-loved-may-2020/osu/7-gas-gas-gas.jpg)](https://osu.ppy.sh/community/forums/topics/1070627)
 
-[MANUEL & Tsuko G. - GAS GAS GAS](https://osu.ppy.sh/beatmapsets/826430#osu) by ::heroin\1player67::{ user=3792472 }\
+[MANUEL & Tsuko G. - GAS GAS GAS](https://osu.ppy.sh/beatmapsets/826430#osu) by ::heroin_player67::{ user=3792472 }\
 154 BPM, 4:29 | 6.56★, 6.90★
 
 You can't go wrong with Eurobeat music when it comes to getting hyped up, and you can't go wrong with Woey maps when it comes to having a great time. What happens when you put the two together? That's right: *GAS GAS GAS*. Four and a half minutes of 154 BPM alternating patterns and an absolute banger of a song. Step on it!
@@ -94,7 +94,7 @@ osu!taiko Loved candidates were chosen by ::jyake::{ user=9099822 } and ::-Kazu-
 
 [![](/wiki/shared/news/2020-05-16-project-loved-may-2020/taiko/1-no-items-at-endpoint.jpg)](https://osu.ppy.sh/community/forums/topics/1070624)
 
-[Freezer - No Items, At Endpoint](https://osu.ppy.sh/beatmapsets/752556#taiko) by ::7\17::{ user=7491106 }\
+[Freezer - No Items, At Endpoint](https://osu.ppy.sh/beatmapsets/752556#taiko) by ::7_7::{ user=7491106 }\
 175 BPM, 3:20 | 8.64★\
 The \[Momo's Muzukashii\] difficulty is *not* being nominated for Loved.\
 *description written by ::jyake::{ user=9099822 }*

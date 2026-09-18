@@ -52,6 +52,6 @@ Mit dem Wunsch, das Projekt in einer moderneren Form zurückzubringen, leitete :
 | Projektverwaltung | ::{ flag=RS }:: ::0x84f::{ user=7944724 }, ::{ flag=US }:: ::Blushing::{ user=5927823 }, ::{ flag=FR }:: ::Pisapou::{ user=16640021 }, ::{ flag=SE }:: ::Walavouchey::{ user=5773079 } |
 | Autoren | ::{ flag=CA }:: ::ianpep::{ user=7699030 }, ::{ flag=ES }:: ::kadoen::{ user=12780575 }, ::{ flag=ES }:: ::Patatitta::{ user=16294034 }, ::{ flag=ES }:: ::RandomeLoL::{ user=7080063 } |
 | Tüftler für das Trivia | ::{ flag=GB }:: ::chromb::{ user=10238680 }, ::{ flag=HR }:: ::Kurboh::{ user=15243233 } |
-| Grafikdesigner | ::{ flag=ID }:: ::Dreamxiety::{ user=13103233 }, ::{ flag=US }:: ::jacksonisiah::{ user=10739248 }, ::{ flag=GB }:: ::Tanza3D::{ user=10379965 }, ::{ flag=MY }:: ::\1Zeth\1::{ user=9912966 } |
+| Grafikdesigner | ::{ flag=ID }:: ::Dreamxiety::{ user=13103233 }, ::{ flag=US }:: ::jacksonisiah::{ user=10739248 }, ::{ flag=GB }:: ::Tanza3D::{ user=10379965 }, ::{ flag=MY }:: ::[Zeth]::{ user=9912966 } |
 | Helfer | ::{ flag=ID }:: ::Wowcake::{ user=16121851 } |
 | Informationsquelle | ::{ flag=FI }:: ::Nowaie::{ user=5428909 }, ::{ flag=US }:: ::olc::{ user=7081160 }, ::{ flag=DE }:: ::RockRoller::{ user=8388854 } und das [Skinship-Team](https://skinship.xyz/), ::{ flag=US }:: ::wafer::{ user=9416836 } |

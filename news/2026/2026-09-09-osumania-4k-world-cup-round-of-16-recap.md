@@ -13,7 +13,7 @@ Round of 16 tends to be one of the most bittersweet moments of the entire tourna
 
 Despite the hurdles, however, no team has been willing to give up. No team has been eliminated without putting up a fight, and most winning teams have had to put some effort in just to stay afloat. As such, when we're getting these many good matches so early on, we can only be left wondering how the later rounds will pan out.
 
-And what better way to showcase this than by enjoying our weekly video summary, brought to you by ::Dynascape::{ user=8784587 }, ::SunApple::{ user=11817622 }, ::Normiplier::{ user=10069850 }, ::akace100::{ user=9308128 }, and ::Rush\1FTK::{ user=3046856 }. No reason not to enjoy it, even if you boast of a short attention span.
+And what better way to showcase this than by enjoying our weekly video summary, brought to you by ::Dynascape::{ user=8784587 }, ::SunApple::{ user=11817622 }, ::Normiplier::{ user=10069850 }, ::akace100::{ user=9308128 }, and ::Rush_FTK::{ user=3046856 }. No reason not to enjoy it, even if you boast of a short attention span.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/sQ_dMsXAVAE" frameborder="0" allowfullscreen></iframe>

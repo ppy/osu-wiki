@@ -162,7 +162,7 @@ Group G forced viewers and players alike to confront the unfortunate reality of 
 
 **Highlight match:** [Portugal vs. Peru](https://osu.ppy.sh/community/matches/119724770) ([VOD](https://www.twitch.tv/videos/2608182376?t=0h5m15s)) was the deciding matchup no one expected in week one. On top of being a close match at 5–3 with both teams showing solid scores, there were some shenanigans in the commentary booth that are best experienced firsthand.
 
-**Group MVP:** ::{ flag=PE }:: ::\1MG\1Arnold24x24::{ user=2291265 } was the single best player in the entire Group Stage. He is both the reason Peru qualified and the reason they have won any matches, playing every single map for Peru and averaging over 850k (not counting mod multipliers). This is a performance that goes beyond incredible as he continues to cement himself as one of the best tournament players of all time. Honourable mention goes to ::{ flag=KZ }:: ::Kamensh1k::{ user=16817965 }, who also played every map for Kazakhstan and averaged just under 850k. Both of these players were real titans in their group.
+**Group MVP:** ::{ flag=PE }:: ::[MG]Arnold24x24::{ user=2291265 } was the single best player in the entire Group Stage. He is both the reason Peru qualified and the reason they have won any matches, playing every single map for Peru and averaging over 850k (not counting mod multipliers). This is a performance that goes beyond incredible as he continues to cement himself as one of the best tournament players of all time. Honourable mention goes to ::{ flag=KZ }:: ::Kamensh1k::{ user=16817965 }, who also played every map for Kazakhstan and averaged just under 850k. Both of these players were real titans in their group.
 
 ### Group H
 

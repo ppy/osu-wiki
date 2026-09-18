@@ -94,11 +94,11 @@ Throughout the tournament, many people contributed to these mappools, working be
 
 Being an advisor for CWC taught me so many life lessons throughout my 3 year tenure. Due to the workload and management skills required, it made me aware of how I operate as a person as well as what I value. I think that alone made the job worth it to me, however there are parts of the job itself that kept me excited and motivated.
 
-Getting to work with ::mangomizer::{ user=1893718 } and ::Yoshi\1green::{ user=1035891 } on [osu!originals](/wiki/Community/Bespoke_music) made me ecstatic. Spending time finding applicable artists that could potentially make an original for our mode is extremely exciting and something I take a lot of pride in. For me personally, [Ice](https://osu.ppy.sh/beatmaps/artists/484) was the artist that helped get me into rhythm games back in 2013. Getting to request him to make an original this year has got to be one of my favorite moments… ever! It really made me feel like everything came full circle.
+Getting to work with ::mangomizer::{ user=1893718 } and ::Yoshi_green::{ user=1035891 } on [osu!originals](/wiki/Community/Bespoke_music) made me ecstatic. Spending time finding applicable artists that could potentially make an original for our mode is extremely exciting and something I take a lot of pride in. For me personally, [Ice](https://osu.ppy.sh/beatmaps/artists/484) was the artist that helped get me into rhythm games back in 2013. Getting to request him to make an original this year has got to be one of my favorite moments… ever! It really made me feel like everything came full circle.
 
 I’ve always viewed this role as one that allows people to have fun with a game I care so much about as they play in the biggest tournament catch has to offer. While being an advisor may be hard, my best piece of advice is to find aspects of the job you yourself enjoy and let that motivate you. It’s okay to be a little selfish sometimes if it allows you to do your best and I think thats something everyone needs to hear.
 
-Finally, id like to thank ::F D Flourite::{ user=2459589 } and ::Yoshi\1green::{ user=1035891 }. These two people believed in me as I did in them, and I wouldn’t have managed in this position without them. I truly loved getting to be an advisor for the last 3 years and hope the person that fills my spot loves it as much as I do.
+Finally, id like to thank ::F D Flourite::{ user=2459589 } and ::Yoshi_green::{ user=1035891 }. These two people believed in me as I did in them, and I wouldn’t have managed in this position without them. I truly loved getting to be an advisor for the last 3 years and hope the person that fills my spot loves it as much as I do.
 
 </div>
 

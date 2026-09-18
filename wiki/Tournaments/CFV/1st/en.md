@@ -50,7 +50,7 @@ The Cute Female Vocal 1st was run by various community members.
 | Streamer and commentator | ::{ flag=CN }:: ::Koyori Chan::{ user=11238501 }, ::{ flag=GB }:: ::Danielstigman::{ user=9407594 }, ::{ flag=CN }:: ::Yuiesta::{ user=13953619 }, ::{ flag=CN }:: ::\[GB\]yobrevelc::{ user=14128407 }, ::{ flag=CN }:: ::\[GB\]Reisen::{ user=8586018 }, ::{ flag=CN }:: ::MidRed::{ user=17641994 }, ::{ flag=CN }:: ::Blue\_Potion::{ user=13094831 }, ::{ flag=US }:: ::EpsilonMaiagare::{ user=3855052 }, ::{ flag=NL }:: ::Muse Dash::{ user=13695676 }, ::{ flag=CN }:: ::Hidden is fun::{ user=10449071 }, ::{ flag=CN }:: ::\[Crz\]Flandre::{ user=6949941 } |
 | Statistics and spreadsheet manager | ::{ flag=CN }:: ::Koyori Chan::{ user=11238501 }, ::{ flag=CN }:: ::Yuiesta::{ user=13953619 }, ::{ flag=CN }:: ::MidRed::{ user=17641994 } |
 | wyBin maintainer | ::{ flag=CN }:: ::Koyori Chan::{ user=11238501 }, ::{ flag=US }:: ::akace100::{ user=9308128 } |
-| Designer | ::{ flag=CN }:: ::lovely\1hyahya::{ user=10318380 } |
+| Designer | ::{ flag=CN }:: ::lovely_hyahya::{ user=10318380 } |
 | Wiki editor | ::{ flag=CN }:: ::Koyori Chan::{ user=11238501 } |
 
 ## Links

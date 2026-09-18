@@ -90,7 +90,7 @@ Gewinner der vorherigen osu!taiko World Cups mit dem Nutzertitel **Former osu!ta
 | [TWC 2020](/wiki/Tournaments/TWC/2020) | Former osu!taiko Champion: 2020 | ::{ flag=JP }:: ::iceOC::{ user=5482401 }, ::{ flag=JP }:: ::kiyozi11::{ user=9551196 } |
 | [TWC 2021](/wiki/Tournaments/TWC/2021) | Former osu!taiko Champion: 2021 | *nicht vorhanden* |
 | [TWC 2022](/wiki/Tournaments/TWC/2022) | Former osu!taiko Champion: 2022 | ::{ flag=JP }:: ::nameless\_ll::{ user=11199742 }, ::{ flag=JP }:: ::syaron105::{ user=8741695 }, ::{ flag=JP }:: ::uone::{ user=5321719 } |
-| [TWC 2023](/wiki/Tournaments/TWC/2023) | Former osu!taiko Champion: 2023 | ::{ flag=JP }:: ::ekumea1123::{ user=9119501 }, ::{ flag=JP }:: ::Seren58::{ user=15252950 }, ::{ flag=JP }:: ::kotohira\106::{ user=22444525 }, ::{ flag=JP }:: ::Nanas3::{ user=17015562 } |
+| [TWC 2023](/wiki/Tournaments/TWC/2023) | Former osu!taiko Champion: 2023 | ::{ flag=JP }:: ::ekumea1123::{ user=9119501 }, ::{ flag=JP }:: ::Seren58::{ user=15252950 }, ::{ flag=JP }:: ::kotohira_06::{ user=22444525 }, ::{ flag=JP }:: ::Nanas3::{ user=17015562 } |
 | [TWC 2024](/wiki/Tournaments/TWC/2024) | Former osu!taiko Champion: 2024 | ::{ flag=JP }:: ::kanten\_07::{ user=11680357 }, ::{ flag=JP }:: ::Shamirin\_mzk::{ user=11325757 } |
 
 Gewinner der vorherigen osu!catch World Cups mit dem Nutzertitel **Former osu!catch Champion**:
@@ -227,7 +227,7 @@ Die Aspire-Mapping-Wettbewerbe vergeben als Preis eine spezielle Variante des El
 - ::{ flag=CA }:: ::Monstrata::{ user=2706438 }
 - ::{ flag=NL }:: ::Mr HeliX::{ user=2330619 }
 - ::{ flag=FI }:: ::ProfessionalBox::{ user=3250792 }
-- ::{ flag=TW }:: ::SnowNiNo\1::{ user=2506267 }
+- ::{ flag=TW }:: ::SnowNiNo_::{ user=2506267 }
 - ::{ flag=KR }:: ::Spectator::{ user=702598 }
 - ::{ flag=FR }:: ::Supairo::{ user=2837231 }
 
@@ -323,7 +323,7 @@ Diese Storyboarder haben den Titel **Elite Storyboarder** dafür überreicht bek
 - ::{ flag=RU }:: ::Shmiklak::{ user=5504231 }
 - ::{ flag=RU }:: ::Tommy Phelps::{ user=10974581 }
 - ::{ flag=DZ }:: ::VenerableNyanta::{ user=12243368 }
-- ::{ flag=CN }:: ::yf\1bmp::{ user=1243669 }[^yf-note]
+- ::{ flag=CN }:: ::yf_bmp::{ user=1243669 }[^yf-note]
 - ::{ flag=CN }:: ::Yumeno Himiko::{ user=1806962 }
 
 ## Auf das Spiel bezogen
@@ -340,7 +340,7 @@ Diesen Spielern wurden ihre entsprechenden Titel entweder durch eine verrückte 
 | ::{ flag=US }:: ::EEEEEEEEEEEEEEE::{ user=2927048 } | osu!completionist | Spielte alle gerankten osu!-Beatmaps ab dem 15. März 2023 |
 | ::{ flag=AU }:: ::Jaye::{ user=4841352 } | Drum Decimator | Erreichte FCs auf allen gerankten osu!taiko-Beatmaps ab dem 3. November 2019 |
 | ::{ flag=PL }:: ::Przegrany::{ user=7635621 } | osu!completionist | Spielte alle gerankten osu!-Beatmaps ab dem 11. August 2021 |
-| ::{ flag=NL }:: ::Shirotora\1old::{ user=11820 } | Bested the Reaper's Game | Wurde durch ::{ flag=CA }:: ::awp::{ user=2650 } Ende 2008 überreicht für das Erreichen des Rangs #104 in einer Woche, als eine Referenz auf [*The World Ends with You*](https://de.wikipedia.org/wiki/The_World_Ends_with_You) <!-- source: https://osu.ppy.sh/community/forums/posts/60664 (Shirotora_old's forum signature) --> |
+| ::{ flag=NL }:: ::Shirotora_old::{ user=11820 } | Bested the Reaper's Game | Wurde durch ::{ flag=CA }:: ::awp::{ user=2650 } Ende 2008 überreicht für das Erreichen des Rangs #104 in einer Woche, als eine Referenz auf [*The World Ends with You*](https://de.wikipedia.org/wiki/The_World_Ends_with_You) <!-- source: https://osu.ppy.sh/community/forums/posts/60664 (Shirotora_old's forum signature) --> |
 | ::{ flag=US }:: ::xasuma::{ user=3172980 } | The First Completionist | Spielte alle gerankten osu!-Beatmaps ab dem 27. April 2019 |
 | ::{ flag=DE }:: ::Zetera::{ user=587737 } | Medal Hunter | War die [erste Person, die die Medaille *The Girl in the Forest* freischaltete](https://osu.ppy.sh/community/forums/topics/662279) |
 | ::{ flag=US }:: ::UberFazz::{ user=8646059 } | Medal Hunter | War die [erste Person, die die Medaille *Internment* freischaltete](https://twitter.com/osugame/status/1696007320663359800) |
@@ -384,7 +384,7 @@ Diese Nutzer bekamen ihre entsprechenden Titel aus verschiedenen Gründen.
 | ::{ flag=US }:: ::Derekku::{ user=91341 } | COOL DUDE |
 | ::{ flag=AU }:: ::Ephemeral::{ user=102335 } | Inland Empire |
 | ::{ flag=DE }:: ::Loctav::{ user=71366 } | Popcorn Fairy |
-| ::{ flag=AU }:: ::phill\1old::{ user=53 } | ¿ |
+| ::{ flag=AU }:: ::phill_old::{ user=53 } | ¿ |
 | ::{ flag=US }:: ::Toy::{ user=2757689 } | Former osu! Champion: 2019 / Grilled Dodongo |
 | ::{ flag=HM }:: ::Zallius::{ user=55 } | Boats |
 
@@ -394,4 +394,4 @@ Diese Nutzer bekamen ihre entsprechenden Titel aus verschiedenen Gründen.
 [^elite-note]: ::{ flag=ID }:: ::Maxus::{ user=4335785 }, ::{ flag=US }:: ::Monoseul::{ user=16010604 } und ::{ flag=RU }:: ::NeKroMan4ik::{ user=11387664 } wurden stattdessen mit dem Titel **Elite Nominator II** ausgezeichnet, da sie insgesamt zwei Jahre als Elite Nominators betitelt wurden. ::{ flag=CN }:: ::gzdongsheng::{ user=8660315 } wurde stattdessen mit dem Titel **Elite Nominator III** ausgezeichnet, da er insgesamt für drei Jahre als Elite Nominator betitelt wurde.
 [^charles445-note]: ::{ flag=US }:: ::Charles445::{ user=85000 } wurde stattdessen mit dem Titel **Elite Mapper II: Aspirant** ausgezeichnet, da er sowohl den [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) als auch den [Monthly Beatmapping Contest: Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results) gwonnen hatte.
 [^billiummoto-note]: ::{ flag=US }:: ::BilliumMoto::{ user=3862471 } wurde stattdessen mit dem Titel **osu!mixer II** ausgezeichnet, da er sowohl den [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) und den Wettbwerb [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) gewonnen hatte.
-[^yf-note]: ::{ flag=CN }:: ::yf\1bmp::{ user=1243669 } wurde stattdessen mit dem Titel **Elite Storyboarder II** ausgezeichnet, da er [den Titel bereits erworben hatte](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020) aufgrund von herausragenden Beiträgen zur Storyboarding-Szene und da er den Wettbewerb [triangles Beatmapping Contest](/wiki/Contests/triangles_Beatmapping_Contest) gewann.
+[^yf-note]: ::{ flag=CN }:: ::yf_bmp::{ user=1243669 } wurde stattdessen mit dem Titel **Elite Storyboarder II** ausgezeichnet, da er [den Titel bereits erworben hatte](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020) aufgrund von herausragenden Beiträgen zur Storyboarding-Szene und da er den Wettbewerb [triangles Beatmapping Contest](/wiki/Contests/triangles_Beatmapping_Contest) gewann.

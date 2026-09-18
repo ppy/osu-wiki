@@ -24,7 +24,7 @@ An astronomic **1,206 stargazers** were captured by Alisa's silver swirls and st
 
 [![](https://assets.ppy.sh/contests/285/banners/PEALEERD%5FTAK.jpg)](https://assets.ppy.sh/contests/285/winners/PEALEERD_TAK.jpg)
 
-**::PEALEERD\1TAK::{ user=6214002 }** reached deep into outer space with **1,076** silent observers beholding an eerie wreckage vista coloured with Alisa's signature blue visage, landing elegantly in a welcome silver finish!
+**::PEALEERD_TAK::{ user=6214002 }** reached deep into outer space with **1,076** silent observers beholding an eerie wreckage vista coloured with Alisa's signature blue visage, landing elegantly in a welcome silver finish!
 
 [![](https://assets.ppy.sh/contests/285/banners/Bayki.jpg)](https://assets.ppy.sh/contests/285/winners/Bayki.png)
 
@@ -52,7 +52,7 @@ An astronomic **1,206 stargazers** were captured by Alisa's silver swirls and st
 
 [![](https://assets.ppy.sh/contests/285/banners/MinMin%5F9s.jpg)](https://assets.ppy.sh/contests/285/winners/MinMin_9s.png)
 
-**::MinMin\19s::{ user=7140649 }** found a space-walking Mocha along with an acrobatic Aiko and a cutely menacing Don floating on the other side of their spaceship window. **631** onlookers couldn't help but watch the shenanigans unfold.
+**::MinMin_9s::{ user=7140649 }** found a space-walking Mocha along with an acrobatic Aiko and a cutely menacing Don floating on the other side of their spaceship window. **631** onlookers couldn't help but watch the shenanigans unfold.
 
 [![](https://assets.ppy.sh/contests/285/banners/X%2Dill.jpg)](https://assets.ppy.sh/contests/285/winners/X-ill.png)
 

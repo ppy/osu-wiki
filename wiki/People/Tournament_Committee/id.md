@@ -25,7 +25,7 @@ Apabila kamu tertarik untuk bergabung menjadi anggota panel ini, kamu dapat meng
 
 ## Anggota
 
-- ::{ flag=FR }:: ::\1yosh::{ user=7157133 }
+- ::{ flag=FR }:: ::_yosh::{ user=7157133 }
 - ::{ flag=NL }:: ::Albionthegreat::{ user=9853595 }
 - ::{ flag=US }:: ::ChillierPear::{ user=9501251 }
 - ::{ flag=US }:: ::D I O::{ user=3958619 }
@@ -40,7 +40,7 @@ Apabila kamu tertarik untuk bergabung menjadi anggota panel ini, kamu dapat meng
 
 ## Alumni
 
-- ::{ flag=FR }:: ::\1yosh::{ user=7157133 }
+- ::{ flag=FR }:: ::_yosh::{ user=7157133 }
 - ::{ flag=CA }:: ::Azer::{ user=2155578 }
 - ::{ flag=AR }:: ::juankristal::{ user=443656 }
 - ::{ flag=FR }:: ::Kasumi-sama::{ user=6177263 }

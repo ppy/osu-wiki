@@ -170,6 +170,6 @@ Alongside all those big changes above, there are some changes on the smaller sid
 
 ---
 
-Massive thanks to listed contributors for all the changes made above plus providing details and assistance with this newspost, and all the members of the community who gave their feedback. We'd also like to thank all of the wikifriends involved in helping iron out this article, especially ::spaceman\1atlas::{ user=3035836 }, ::Walavouchey::{ user=5773079 } and ::clayton::{ user=3666350 }.
+Massive thanks to listed contributors for all the changes made above plus providing details and assistance with this newspost, and all the members of the community who gave their feedback. We'd also like to thank all of the wikifriends involved in helping iron out this article, especially ::spaceman_atlas::{ user=3035836 }, ::Walavouchey::{ user=5773079 } and ::clayton::{ user=3666350 }.
 
 —osu!team

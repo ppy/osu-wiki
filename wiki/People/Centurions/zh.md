@@ -11,7 +11,7 @@
 
 | 名称 | 第一次上架谱面 | 第一百次上架谱面 | 百夫长谱面包 |
 | :-- | :-- | :-- | :-- |
-| ::{ flag=ID }:: ::\1-E S I A-\1::{ user=5159715 } | [2022-05-28](https://osu.ppy.sh/beatmapsets/1475077) | [2025-11-11](https://osu.ppy.sh/beatmapsets/2429761) | [#1](https://osu.ppy.sh/beatmaps/packs/TM35) |
+| ::{ flag=ID }:: ::[-E S I A-]::{ user=5159715 } | [2022-05-28](https://osu.ppy.sh/beatmapsets/1475077) | [2025-11-11](https://osu.ppy.sh/beatmapsets/2429761) | [#1](https://osu.ppy.sh/beatmaps/packs/TM35) |
 | ::{ flag=GB }:: ::AJT::{ user=3181083 } | [2020-07-13](https://osu.ppy.sh/beatmapsets/1173956) | [2025-04-28](https://osu.ppy.sh/beatmapsets/2294756) | [#1](https://osu.ppy.sh/beatmaps/packs/TM29) |
 | ::{ flag=PH }:: ::Amateurre::{ user=7326908 } | [2019-11-06](https://osu.ppy.sh/beatmapsets/1057765) | [2023-08-23](https://osu.ppy.sh/beatmapsets/2025917) | [#1](https://osu.ppy.sh/beatmaps/packs/TM15) |
 | ::{ flag=IT }:: ::Andrea::{ user=33599 } | [2009-02-27](https://osu.ppy.sh/beatmapsets/5396)[^andrea-first-ranked-date] | [2010-12-10](https://osu.ppy.sh/beatmapsets/23100) | [#1](https://osu.ppy.sh/beatmaps/packs/TM8), [#2](https://osu.ppy.sh/beatmaps/packs/TM9), [#3](https://osu.ppy.sh/beatmaps/packs/TM10), [#4](https://osu.ppy.sh/beatmaps/packs/TM33) |
@@ -24,7 +24,7 @@
 | ::{ flag=BY }:: ::Flins::{ user=11119539 } | [2018-10-19](https://osu.ppy.sh/beatmapsets/833454) | [2024-10-02](https://osu.ppy.sh/beatmapsets/2215696) |  |
 | ::{ flag=BR }:: ::Froslass::{ user=19048 } | [2009-10-24](https://osu.ppy.sh/beatmapsets/7726) | [2025-08-24](https://osu.ppy.sh/beatmapsets/2397697) | [#1](https://osu.ppy.sh/beatmaps/packs/TM32) |
 | ::{ flag=CN }:: ::Garden::{ user=2849992 } | [2015-10-13](https://osu.ppy.sh/beatmapsets/343258) | [2025-05-28](https://osu.ppy.sh/beatmapsets/2373810) | [#1](https://osu.ppy.sh/beatmaps/packs/TM31) |
-| ::{ flag=AR }:: ::gaston\12199::{ user=5938161 } | [2016-12-25](https://osu.ppy.sh/beatmapsets/519474) | [2024-07-17](https://osu.ppy.sh/beatmapsets/1667712) | [#1](https://osu.ppy.sh/beatmaps/packs/TM20) |
+| ::{ flag=AR }:: ::gaston_2199::{ user=5938161 } | [2016-12-25](https://osu.ppy.sh/beatmapsets/519474) | [2024-07-17](https://osu.ppy.sh/beatmapsets/1667712) | [#1](https://osu.ppy.sh/beatmaps/packs/TM20) |
 | ::{ flag=JP }:: ::gazimal::{ user=6055351 } | [2020-12-24](https://osu.ppy.sh/beatmapsets/1298109) | [2024-10-11](https://osu.ppy.sh/beatmapsets/2183696) | [#1](https://osu.ppy.sh/beatmaps/packs/TM25) |
 | ::{ flag=GR }:: ::Genjuro::{ user=3196091 } | [2019-04-10](https://osu.ppy.sh/beatmapsets/921130) | [2022-08-27](https://osu.ppy.sh/beatmapsets/1797642) | [#1](https://osu.ppy.sh/beatmaps/packs/TM1) |
 | ::{ flag=MX }:: ::Gero::{ user=1467715 } | [2013-02-19](https://osu.ppy.sh/beatmapsets/64525) | [2026-05-20](https://osu.ppy.sh/beatmapsets/2454708) | [#1](https://osu.ppy.sh/beatmaps/packs/TM41) |

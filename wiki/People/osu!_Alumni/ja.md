@@ -12,7 +12,7 @@ outdated_translation: true
 | 名前 | 過去の役職 |
 | :-- | :-- |
 | ::{ flag=ID }:: ::-SiN-::{ user=10560 } | チャットモデレーター |
-| ::{ flag=HU }:: ::\1 Another \1::{ user=3416573 } | GMT |
+| ::{ flag=HU }:: ::[ Another ]::{ user=3416573 } | GMT |
 | ::{ flag=HK }:: ::aabc271::{ user=155707 } | BAT |
 | ::{ flag=CN }:: ::abalee::{ user=13103 } | BAT |
 | ::{ flag=JP }:: ::achyoo::{ user=7823498 } | NAT |
@@ -29,7 +29,7 @@ outdated_translation: true
 | ::{ flag=IT }:: ::Armin::{ user=105902 } | BAT |
 | ::{ flag=FI }:: ::Asphyxia::{ user=1715720 } | BAT、GMT、QAT |
 | ::{ flag=CA }:: ::awp::{ user=2650 } | GMT |
-| ::{ flag=AU }:: ::Azure\1Kite::{ user=66296 } | MAT |
+| ::{ flag=AU }:: ::Azure_Kite::{ user=66296 } | MAT |
 | ::{ flag=CN }:: ::Ballance::{ user=165946 } | チャットモデレーター |
 | ::{ flag=ES }:: ::Beuchi::{ user=67192 } | GMT |
 | ::{ flag=AU }:: ::Blaizer::{ user=62018 } | osu!dev |
@@ -202,7 +202,7 @@ outdated_translation: true
 | ::{ flag=SG }:: ::Pasonia::{ user=43345 } | BAT |
 | ::{ flag=CA }:: ::Pawsu::{ user=2371454 } | GMT、サポートチーム |
 | ::{ flag=PT }:: ::Pereira006::{ user=537344 } | BAT、チャットモデレーター、GMT |
-| ::{ flag=AU }:: ::phill\1old::{ user=53 } | BAT |
+| ::{ flag=AU }:: ::phill_old::{ user=53 } | BAT |
 | ::{ flag=NL }:: ::Pittigbaasje::{ user=2167433 } | GMT |
 | ::{ flag=HK }:: ::Pokie::{ user=207340 } | BAT |
 | ::{ flag=GB }:: ::Pope Gadget::{ user=2288341 } | GMT |
@@ -284,7 +284,7 @@ outdated_translation: true
 | ::{ flag=AU }:: ::YGOkid8::{ user=69114 } | BAT |
 | ::{ flag=CA }:: ::YTYuyu::{ user=660484 } | BAT |
 | ::{ flag=PL }:: ::Zelq::{ user=8953955 } | NAT |
-| ::{ flag=CN }:: ::Zero\1\1wind::{ user=1822830 } | BAT、GMT |
+| ::{ flag=CN }:: ::Zero__wind::{ user=1822830 } | BAT、GMT |
 | ::{ flag=CA }:: ::Zerostarry::{ user=3480 } | BAT |
 | ::{ flag=DE }:: ::Zetera::{ user=587737 } | GMT |
 | ::{ flag=TR }:: ::Zeus::{ user=5464437 } | GMT |

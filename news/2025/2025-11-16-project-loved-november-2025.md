@@ -432,13 +432,13 @@ Do you crave some noodles? You know where to get them. Thread. Vote. Yeah. You k
 
 [![](/wiki/shared/news/2025-11-16-project-loved-november-2025/757665.jpg)](https://osu.ppy.sh/community/forums/topics/2153174)
 
-[Tanchiky - Tenkai Rising (RiraN Psystyle Remix)](https://osu.ppy.sh/beatmapsets/757665#mania) by ::Chyo\1N::{ user=7708164 }\
+[Tanchiky - Tenkai Rising (RiraN Psystyle Remix)](https://osu.ppy.sh/beatmapsets/757665#mania) by ::Chyo_N::{ user=7708164 }\
 150 BPM, 3:28 | 6.46★, 7.43★\
 *description written by ::taba2::{ user=7850508 }*
 
 We are *so* back! This time with a psystyle chordjack chart!
 
-Introducing this month's pick: [Tenkai Rising (RiraN Psystyle Remix)](https://osu.ppy.sh/beatmapsets/757665#mania/1593879), mapped by ::Chyo\1N::{ user=7708164 }.
+Introducing this month's pick: [Tenkai Rising (RiraN Psystyle Remix)](https://osu.ppy.sh/beatmapsets/757665#mania/1593879), mapped by ::Chyo_N::{ user=7708164 }.
 
 Chyo_N has been creating classic-style maps for a long time, and we believe this song is already quite famous among many mania users. We think the chordjack patterns suited for psystyle music will spark players' desire to challenge themselves.
 

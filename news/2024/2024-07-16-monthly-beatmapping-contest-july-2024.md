@@ -31,7 +31,7 @@ This article is split into sections. Skip around:
 | Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
 | Winner + [Screener](/wiki/Contests/Monthly_Beatmapping_Contest#screening)'s pick | ::fowwo::{ user=4547551 } | [KOAN Sound & Asa - Fuego](https://osu.ppy.sh/beatmapsets/2211634) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | +3 (5 total) |
-| Runner-up | ::mintIceCream\1::{ user=13221589 } | [Aethoro - Woodfairies](https://osu.ppy.sh/beatmapsets/2211499) | - | +1 (1 total) |
+| Runner-up | ::mintIceCream_::{ user=13221589 } | [Aethoro - Woodfairies](https://osu.ppy.sh/beatmapsets/2211499) | - | +1 (1 total) |
 
 #### Top 10
 
@@ -59,7 +59,7 @@ This article is split into sections. Skip around:
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/WQJAW00qViw" frameborder="0" allowfullscreen></iframe>
 </div>
 
-This month's maps were screened by ::gzdongsheng::{ user=8660315 }, ::Maxus::{ user=4335785 }, ::Evening::{ user=2193881 }, ::secXcscX::{ user=13543418 }, and ::chocomilku-::{ user=16687756 }, then the top maps were judged by ::Unpredictable::{ user=7560872 }, ::-mint-::{ user=8976576 }, ::Paraxia::{ user=14001000 }, and ::\1GB\1Rick::{ user=25263357 }!
+This month's maps were screened by ::gzdongsheng::{ user=8660315 }, ::Maxus::{ user=4335785 }, ::Evening::{ user=2193881 }, ::secXcscX::{ user=13543418 }, and ::chocomilku-::{ user=16687756 }, then the top maps were judged by ::Unpredictable::{ user=7560872 }, ::-mint-::{ user=8976576 }, ::Paraxia::{ user=14001000 }, and ::[GB]Rick::{ user=25263357 }!
 
 ## Game modes
 

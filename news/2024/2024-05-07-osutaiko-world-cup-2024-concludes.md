@@ -279,7 +279,7 @@ What is your favourite rhythm game song?
 
 ::{#r_j}::
 
-::!\1\1(/wiki/shared/news/2024-05-07-osutaiko-world-cup-2024-concludes/R\1J.png)::{ user=6490509 }
+::![](/wiki/shared/news/2024-05-07-osutaiko-world-cup-2024-concludes/R_J.png)::{ user=6490509 }
 
 > I'm RJ, I've been playing taiko for about 5 years now and this was my 4th Taiko World Cup.
 

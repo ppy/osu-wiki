@@ -16,11 +16,11 @@
 
 以下の全てのユーザーは、2015-01-03に追加されました。
 
-- ::\1 S a k u r a \1::{ user=3653042 }
+- ::[ S a k u r a ]::{ user=3653042 }
 - ::Andrea::{ user=33599 }
 - ::BeatofIke::{ user=1103522 }
 - ::CloudSplash16::{ user=2099102 }
-- ::\1CSGA\1Ar3sgice::{ user=989563 }
+- ::[CSGA]Ar3sgice::{ user=989563 }
 - ::DE-CADE::{ user=3734394 }
 - ::Inyuschan::{ user=1721995 }
 - ::Momochikun::{ user=2032824 }
@@ -50,14 +50,14 @@
 - ::IamKwaN::{ user=1856463 }をビートマップアプリーシエイションチームから品質保証チームへ (2015-02-19)
 - ::AnataNoBaka::{ user=1769646 }をチャットモデレーターから削除 (2015-02-22)
 - ::ethox::{ user=441380 }をosu! Alumniへ移動 (2015-02-22)
-- ::Evil\1Twilight::{ user=409347 }をチャットモデレーターから削除 (2015-02-22)
+- ::Evil_Twilight::{ user=409347 }をチャットモデレーターから削除 (2015-02-22)
 - ::Galkan::{ user=169570 }をosu! Alumniへ移動 (2015-02-22)
 - ::Guy::{ user=91738 }をチャットモデレーターから削除 (2015-02-22)
 - ::HeatKai::{ user=332555 }をosu! Alumniへ移動 (2015-02-22)
 - ::KitokoFox::{ user=1815420 }をosu! Alumniへ移動 (2015-02-22)
 - ::KRZY::{ user=114017 }をosu! Alumniへ移動 (2015-02-22)
 - ::Loneight::{ user=663131 }をチャットモデレーターから削除 (2015-02-22)
-- ::Zero\1\1wind::{ user=1822830 }をビートマップアプリーシエイションチームからosu! Alumniへ (2015-02-22)
+- ::Zero__wind::{ user=1822830 }をビートマップアプリーシエイションチームからosu! Alumniへ (2015-02-22)
 - ::Darksonic::{ user=570042 }をグローバルモデレーションチームからosu! Alumniへ (2015-02-22)
 - ::Derekku::{ user=91341 }をosu! Alumniへ移動 (2015-02-22)
 - ::Leader::{ user=631530 }をosu! Alumniへ移動 (2015-02-22)
@@ -116,7 +116,7 @@
 - ::Harbyter::{ user=1147679 }
 - ::Alarido::{ user=1948827 }
 - ::Yauxo::{ user=898306 }
-- ::\1AyanoTatemaya\1::{ user=2760619 }
+- ::[AyanoTatemaya]::{ user=2760619 }
 - ::shionelove::{ user=501551 }
 - ::Genocide::{ user=6477309 }
 - ::CelsiusLK::{ user=1409012 }
@@ -124,8 +124,8 @@
 - ::Gray Veyron::{ user=1886524 }
 - ::\_S u w a k o\_::{ user=2786984 }
 - ::sheela901::{ user=1138027 }
-- ::\1GraveChaos\1::{ user=3009472 }
-- ::\1Shana Lesus\1::{ user=2881789 }
+- ::[GraveChaos]::{ user=3009472 }
+- ::[Shana Lesus]::{ user=2881789 }
 - ::handsome::{ user=2123087 }
 - ::Zan -::{ user=1411817 }
 - ::Z3nx::{ user=2193881 }
@@ -196,9 +196,9 @@
 
 ## 7月
 
-- ::\1 Another \1::{ user=3416573 }をチャットモデレーターに追加 (2015-07-01)
+- ::[ Another ]::{ user=3416573 }をチャットモデレーターに追加 (2015-07-01)
 - ::Kurokami::{ user=260933 }を品質保証チームに追加 (2015-07-01)
-- ::\1Shi-Ra\1::{ user=2008489 }を品質保証チームへ移動 (2015-07-09)
+- ::[Shi-Ra]::{ user=2008489 }を品質保証チームへ移動 (2015-07-09)
 - ::Oinari-sama::{ user=405508 }をosu! Alumniへ移動 (2015-07-27)
 
 ### ビートマップノミネーター 追加
@@ -231,7 +231,7 @@
 ## 9月
 
 - ::Spy::{ user=1217122 }をosu! Alumniへ移動 (2015-09-05)
-- ::\1Shi-Ra\1::{ user=2008489 }を品質保証チームからosu! Alumniへ (2015-09-05)
+- ::[Shi-Ra]::{ user=2008489 }を品質保証チームからosu! Alumniへ (2015-09-05)
 - ::Lust::{ user=2316951 }を品質保証チームに追加 (2015-09-06)
 
 ## 10月

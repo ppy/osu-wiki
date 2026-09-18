@@ -67,7 +67,7 @@ The Catch French Dual Tournament 2 was run by various community members.
 | **:nanasmil:** | ::{ flag=FR }:: **::Oasix::{ user=6183012 }**, ::{ flag=AT }:: ::Mashiro Mama::{ user=10415976 } |
 | **:pleading_face:** | ::{ flag=FR }:: **::Natsuko::{ user=8266817 }**, ::{ flag=ID }:: ::Ruu::{ user=3212755 } |
 | **Black Ice** | ::{ flag=FR }:: **::Sounny::{ user=7326109 }**, ::{ flag=RU }:: ::Nerris::{ user=11202866 } |
-| **dégénéré** | ::{ flag=FR }:: **::\_\_\_\_\_\_\_\_\_\_\_\1::{ user=6973354 }**, ::{ flag=FR }:: ::Zelepha::{ user=6201167 } |
+| **dégénéré** | ::{ flag=FR }:: **::\_\_\_\_\_\_\_\_\_\_\__::{ user=6973354 }**, ::{ flag=FR }:: ::Zelepha::{ user=6201167 } |
 | **Florika** | ::{ flag=FR }:: **::floflim::{ user=5954015 }**, ::{ flag=SG }:: ::He Ang CTB::{ user=2451381 } |
 | **FR X US coalition** | ::{ flag=FR }:: **::Electr0o::{ user=9484428 }**, ::{ flag=US }:: ::Elux::{ user=12004983 } |
 | **French Penguins** | ::{ flag=FR }:: **::Yostel::{ user=3594510 }**, ::{ flag=IT }:: ::ArMa79::{ user=4982799 } |

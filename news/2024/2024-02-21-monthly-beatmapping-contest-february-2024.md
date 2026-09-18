@@ -62,7 +62,7 @@ Following the same line of thought as **osu!**'s contest, **osu!mania**'s submis
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/JlQpeQRN75A" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Special thanks to ::Paraxia::{ user=14001000 }, ::SilentWuffer::{ user=11355206 }, ::\1 deleted \1::{ user=16341063 }, ::Evening::{ user=2193881 }, ::Maxus::{ user=4335785 }, and ::Protastic101::{ user=6712747 } for screening this contest, plus ::epic man 2::{ user=14566000 }, ::Unpredictable::{ user=7560872 }, ::gzdongsheng::{ user=8660315 }, and ::-mint-::{ user=8976576 } for judging!
+Special thanks to ::Paraxia::{ user=14001000 }, ::SilentWuffer::{ user=11355206 }, ::[ deleted ]::{ user=16341063 }, ::Evening::{ user=2193881 }, ::Maxus::{ user=4335785 }, and ::Protastic101::{ user=6712747 } for screening this contest, plus ::epic man 2::{ user=14566000 }, ::Unpredictable::{ user=7560872 }, ::gzdongsheng::{ user=8660315 }, and ::-mint-::{ user=8976576 } for judging!
 
 ---
 

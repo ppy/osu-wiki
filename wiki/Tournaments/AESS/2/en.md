@@ -62,7 +62,7 @@ The Aetherian's Summer Singles 2 was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| 1–8 | ::{ flag=HK }:: ::mcy4::{ user=2165650 }, ::{ flag=KR }:: ::\1Karcher\1::{ user=11443437 }, ::{ flag=RO }:: ::SatonoDiamond::{ user=12366071 }, ::{ flag=US }:: ::Swiq\_::{ user=11269055 }, ::{ flag=PL }:: ::maliszewski::{ user=12408961 }, ::{ flag=US }:: ::WillCookie::{ user=6404488 }, ::{ flag=US }:: ::Jacob3::{ user=13628898 }, ::{ flag=US }:: ::Jakson::{ user=8788058 } |
+| 1–8 | ::{ flag=HK }:: ::mcy4::{ user=2165650 }, ::{ flag=KR }:: ::[Karcher]::{ user=11443437 }, ::{ flag=RO }:: ::SatonoDiamond::{ user=12366071 }, ::{ flag=US }:: ::Swiq\_::{ user=11269055 }, ::{ flag=PL }:: ::maliszewski::{ user=12408961 }, ::{ flag=US }:: ::WillCookie::{ user=6404488 }, ::{ flag=US }:: ::Jacob3::{ user=13628898 }, ::{ flag=US }:: ::Jakson::{ user=8788058 } |
 | 9–16 | ::{ flag=US }:: ::Venpris::{ user=8861593 }, ::{ flag=US }:: ::-Koda::{ user=12260184 }, ::{ flag=DE }:: ::rundyyy::{ user=10917620 }, ::{ flag=CA }:: ::noncycle::{ user=12701607 }, ::{ flag=JE }:: ::rudj::{ user=11592896 }, ::{ flag=US }:: ::EzChock::{ user=9276293 }, ::{ flag=US }:: ::BoshyMan741::{ user=4830687 }, ::{ flag=US }:: ::DarkScrap::{ user=13241562 } |
 | 17–24 | ::{ flag=CL }:: ::Danidesu::{ user=2748187 }, ::{ flag=IL }:: ::Galog::{ user=7799629 }, ::{ flag=PL }:: ::gnahus::{ user=12779141 }, ::{ flag=NZ }:: ::Saiyku::{ user=13767572 }, ::{ flag=DE }:: ::aahoff::{ user=11371245 }, ::{ flag=SG }:: ::200201envenho::{ user=8152145 }, ::{ flag=ID }:: ::-Reuto-::{ user=10717635 }, ::{ flag=SG }:: ::GSBlank::{ user=2312106 } |
 | 25–32 | ::{ flag=GB }:: ::Mahmood::{ user=7627844 }, ::{ flag=SE }:: ::TOnyrino::{ user=7338010 }, ::{ flag=DE }:: ::Tim Kackner::{ user=14385814 }, ::{ flag=RO }:: ::Kehest::{ user=6145000 }, ::{ flag=US }:: ::Olympia::{ user=5357992 }, ::{ flag=FI }:: ::Nev-::{ user=11836334 }, ::{ flag=US }:: ::Gabey::{ user=12904237 }, ::{ flag=US }:: ::Raoul::{ user=9924405 } |
@@ -76,7 +76,7 @@ This competition has come to an end and resulted in the following podium:
 | Placing | Player |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PL }:: ::maliszewski::{ user=12408961 } |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=KR }:: ::\1Karcher\1::{ user=11443437 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=KR }:: ::[Karcher]::{ user=11443437 } |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=HK }:: ::mcy4::{ user=2165650 } |
 | *4th place* | ::{ flag=US }:: ::Swiq\_::{ user=11269055 } |
 

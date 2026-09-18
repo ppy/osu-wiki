@@ -135,7 +135,7 @@ Here's a [full osu!taiko spread](https://osu.ppy.sh/beatmapsets/700150) hosted b
 
 ### YUC'e - Future Cake
 
-Experience [this Loved osu! map](https://osu.ppy.sh/beatmapsets/715542) hosted by ::J1\1::{ user=5918561 }!
+Experience [this Loved osu! map](https://osu.ppy.sh/beatmapsets/715542) hosted by ::J1_::{ user=5918561 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/372/Future%20Cake/YUC'e%20-%20Future%20Cake.mp3">

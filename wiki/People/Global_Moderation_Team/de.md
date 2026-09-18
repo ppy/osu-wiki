@@ -141,7 +141,7 @@ Die [Gruppenseite des GMTs](https://osu.ppy.sh/groups/4) listet alle Teammitglie
 | ::{ flag=HK }:: ::Petal::{ user=7354729 } | Kantonesisch, Chinesisch | Allgemeine Moderation |
 | ::{ flag=KR }:: ::Petit::{ user=4637369 } | Koreanisch, Japanisch | Chat-Moderation |
 | ::{ flag=MY }:: ::QHideaki13::{ user=733998 } | Malaiisch | Chat-Moderation |
-| ::{ flag=PL }:: ::Redo\1::{ user=7122165 } | Polnisch | Moderation der Skinning-Community |
+| ::{ flag=PL }:: ::Redo_::{ user=7122165 } | Polnisch | Moderation der Skinning-Community |
 | ::{ flag=MX }:: ::Repflez::{ user=201392 } | Spanisch | Chat-Moderation |
 | ::{ flag=FI }:: ::Riverism::{ user=4980738 } | Finnisch, etwas Schwedisch, etwas Japanisch | Moderation der Mapping-/Modding-Community, Forum-Moderation |
 | ::{ flag=NL }:: ::Roan::{ user=8214639 } | Niederländisch, Japanisch | Moderation der Skinning-Community |
@@ -155,7 +155,7 @@ Die [Gruppenseite des GMTs](https://osu.ppy.sh/groups/4) listet alle Teammitglie
 | ::{ flag=KR }:: ::Spectator::{ user=702598 } | Koreanisch | Moderation der Mapping-/Modding-Community |
 | ::{ flag=AT }:: ::Stefan::{ user=626907 } | Deutsch, Serbisch | Forum-Moderation |
 | ::{ flag=FI }:: ::terho::{ user=6090105 } | Finnisch | Chat-Moderation |
-| ::{ flag=NZ }:: ::THAT\1otaku::{ user=11798717 } |  | Forum-Moderation, Chat-Moderation |
+| ::{ flag=NZ }:: ::THAT_otaku::{ user=11798717 } |  | Forum-Moderation, Chat-Moderation |
 | ::{ flag=PE }:: ::Tiburon::{ user=18115022 } | Spanisch | Chat-Moderation |
 | ::{ flag=CH }:: ::TicClick::{ user=672931 } | Russisch | Chat-Moderation, Wiki-Administration |
 | ::{ flag=PH }:: ::topecnz::{ user=2103927 } | Philippinisch | Chat-Moderation |

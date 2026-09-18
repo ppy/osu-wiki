@@ -38,7 +38,7 @@ What could I say about this map except that it deserve its place in charts? I be
 
 xi's songs never disappoints? Don't worry, this map doesn't disappoint! Chaoslitz grades at 5th place of these charts because of an exceptional work made here. If we usually know xi maps for endless streams and a challenge never already made, the creator proves the opposite because we have here a very, verrrrrry fun map that use perfectly the rhythms without overmapping the song.
 
-- [Hellblinde - Above the Clouds](https://osu.ppy.sh/beatmapsets/344252) by ::\1 Rizen \1::{ user=3056732 }
+- [Hellblinde - Above the Clouds](https://osu.ppy.sh/beatmapsets/344252) by ::[ Rizen ]::{ user=3056732 }
 
 A little surprise? Yes! I was really surprised by \[ Rizen \]'s map, a new mapper that comes with one of his first maps! Mapping Helblinde? A little bit too much "aggressive" for the beginning? Well none of that, the style of the map is more like Liquid DnB and the atmosphere very calm. Having tested the map, I think he would make a pretty wonderful mapper.
 
@@ -66,7 +66,7 @@ The easiest map of the charts is a set by French mapper Nofool! The catchy tune 
 
 High BPM madness! Backfire and OzzyOzrock offer you the long version of Houkago Stride, my favorite song in this chart, with very solid and pattern-based maps! While the 3rd kiai might be overdoing it a little bit, the other parts of OzzyOzrock's map definitely make up for it. And if you aren't used to high BPM yet, Backfire's Oni gives you a map that allows enough breaks and easier patterns to enjoy the song without having to be able to tap 225 BPM 1/4 perfectly on the Inner Oni.
 
-- [Feint - Reprise](https://osu.ppy.sh/beatmapsets/324058) by ::\1Gezo\1::{ user=481582 }
+- [Feint - Reprise](https://osu.ppy.sh/beatmapsets/324058) by ::_Gezo_::{ user=481582 }
 
 Last but not least we've got another drum'n'bass song, Reprise, mapped by _Gezo_! While the song is by far not something really interesting due to its repetitive nature, his difficulty slowly evolves and rises in difficulty and complexity as minor changes in the song occur, having some quite difficult patterns towards the end. He managed to make this a nice experience which is hard to accomplish. And as a reprise you could play the first map(s) again.
 
@@ -114,7 +114,7 @@ The map I've waited for to be ranked since MWC 2014, where 4K Hyper+ was selecte
 
 Beautiful song. Beautiful video. Beautiful chart. I present to you the masterpiece that's named Altale. Just looking at this chart makes you want to play it. Patterning looks really smooth, and feels incredible to play. The way patterns flow is just... magnificent. Difficulty of this chart mainly resolves around fast 1/12 stairs with jumps every so often which are surprisingly easy to hit, even despite how fast they are. The mesmerising thing is that even when layering is that dense, it doesn't feel overdone. It doesn't feel forced. It compliments the song perfectly. And for that reason I selected this chart to be here.
 
-- [Mami Kawada - Wings of Courage -Sora o Koete-](https://osu.ppy.sh/beatmapsets/312601) by ::-\1 AmiShici \1-::{ user=5335322 }
+- [Mami Kawada - Wings of Courage -Sora o Koete-](https://osu.ppy.sh/beatmapsets/312601) by ::-[ AmiShici ]-::{ user=5335322 }
 
 This map was the biggest surprise for me in this month. I expected a rather dull easy map, but it turned out to be a very pleasant and challenging chart. This is a calm, 160 BPM 6K map, that's mostly constructed around usage of a single long note, a lot of shorter ones, and some chords inbetween. It doesn't feel dull, it doesn't feel overdone, nor it's too hard for what the song calls for. Even though it's not a high-end map, it still gives players a lot of challenge to S/FC/SS accordingly. Really solid mapset, that I would definitely show to anyone who yearns for some fresh 6K charts.
 
@@ -134,8 +134,8 @@ difficulty are very hard to hit accurately due to very unique and complex long n
 Congratulations to the winners of the August 2015 Ranking Charts. They receive a month of supporter status for their efforts!
 
 - **osu! standard:**::dsan::{ user=1266166 }
-- **Taiko:** ::asuasu\1yura::{ user=2875968 }
-- **Catch the Beat:** ::No492\1Shaymin::{ user=566276 }
+- **Taiko:** ::asuasu_yura::{ user=2875968 }
+- **Catch the Beat:** ::No492_Shaymin::{ user=566276 }
 - **osu!mania:** ::Runa::{ user=4643294 }
 
 Good luck with the new charts! We'd love to hear any and all feedback you have about the new format and selection process for the charts - feel free to leave a comment below!

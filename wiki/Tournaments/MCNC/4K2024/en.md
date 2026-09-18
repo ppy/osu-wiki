@@ -47,13 +47,13 @@ The osu!mania 4K Chinese National Cup 2024 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user=10500832 } |
-| Referees | ::{ flag=CN }:: ::\1Crz\1xz1z1z::{ user=10500832 }, ::{ flag=CN }:: ::AelSan::{ user=14095291 }, ::{ flag=CN }:: ::Kieran\1::{ user=11264367 }, ::{ flag=CN }:: ::YuEast 2018::{ user=13953619 }, ::{ flag=CN }:: ::\1Crz\1Flandre::{ user=6949941 }, ::{ flag=CN }:: ::Rush\1FTK::{ user=3046856 }, ::{ flag=CN }:: ::Xu seventeen::{ user=8781662 }, ::{ flag=CN }:: ::cdwcgt::{ user=14721101 }, ::{ flag=HK }:: ::wanderloop::{ user=13858681 }, ::{ flag=CN }:: ::Azureus::{ user=6938658 }, ::{ flag=CN }:: ::Mrhbyy::{ user=16491593 }, ::{ flag=CN }:: ::\1Crz\1Makii::{ user=5242158 }, ::{ flag=CN }:: ::MidRed::{ user=17641994 }, ::{ flag=CN }:: ::\1GB\1Mafufu::{ user=10884561 }, ::{ flag=CN }:: ::\1Crz\1Alleyne::{ user=11279273 }, ::{ flag=CN }:: ::Shiki-Natsume::{ user=6338477 }, ::{ flag=CN }:: ::FenggeTGOB::{ user=35928532 }, ::{ flag=CN }:: ::Mooos::{ user=13788556 } |
-| Mappoolers | ::{ flag=CN }:: ::\1Crz\1xz1z1z::{ user=10500832 }, ::{ flag=CN }:: ::\1Crz\1Satori::{ user=7082178 }, ::{ flag=CN }:: ::YuEast 2018::{ user=13953619 }, ::{ flag=CN }:: ::gzdongsheng::{ user=8660315 }, ::{ flag=CN }:: ::\1Crz\1Flandre::{ user=6949941 }, ::{ flag=CN }:: ::\1Crz\1Caicium::{ user=10702235 }, ::{ flag=CN }:: ::\1Crz\1sunnyxxy::{ user=10333739 } |
-| Mappool tester | ::{ flag=CN }:: ::\1Crz\1xz1z1z::{ user=10500832 }, ::{ flag=CN }:: ::\1Crz\1Satori::{ user=7082178 }, ::{ flag=CN }:: ::\1Crz\1Flandre::{ user=6949941 }, ::{ flag=CN }:: ::\1Crz\1Caicium::{ user=10702235 }, ::{ flag=CN }:: ::\1Crz\1sunnyxxy::{ user=10333739 }, ::{ flag=VN }:: ::Lott::{ user=13821222 }, ::{ flag=MX }:: ::\1Crz\1Noire::{ user=6031847 }, ::{ flag=CN }:: ::\1GB\1Mafufu::{ user=10884561 } |
-| Custom mappers | ::{ flag=CN }:: ::\1Crz\1xz1z1z::{ user=10500832 }, ::{ flag=CN }:: ::\1Crz\1Alleyne::{ user=11279273 }, ::{ flag=CN }:: ::YuEast 2018::{ user=13953619 }, ::{ flag=CN }:: ::AlexDunk::{ user=9194799 }, ::{ flag=CN }:: ::gzdongsheng::{ user=8660315 }, ::{ flag=CN }:: ::AelSan::{ user=14095291 }, ::{ flag=CN }:: ::UselessPlayer::{ user=15030466 }, ::{ flag=CN }:: ::Seiran-::{ user=14351534 }, ::{ flag=ID }:: ::eZmmR::{ user=8647138 }, ::{ flag=KR }:: ::Nicknem\1::{ user=16615040 }, ::{ flag=CN }:: ::\1Crz\1sunnyxxy::{ user=10333739 }, ::{ flag=VN }:: ::Lott::{ user=13821222 }, ::{ flag=US }:: ::0DZ0::{ user=28156707 }, ::{ flag=TH }:: ::MyZterioN-::{ user=8521723 }, ::{ flag=CN }:: ::\1GB\1Mafufu::{ user=10884561 }, ::{ flag=US }:: ::-mint-::{ user=8976576 }, ::{ flag=CN }:: ::Muses::{ user=9705896 }, ::{ flag=CN }:: ::\1Crz\1Makii::{ user=5242158 }, ::{ flag=GB }:: ::Monheim::{ user=6814203 }, ::{ flag=ID }:: ::\1Crz\1Crysarlene::{ user=5492871 }, ::{ flag=CN }:: ::Hidden is fun::{ user=10449071 }, ::{ flag=CN }:: ::\1GB\1sherweifa::{ user=17457562 }, ::{ flag=CN }:: ::FcEazy::{ user=7825227 }, ::{ flag=US }:: ::ERA Imperial::{ user=5066305 }, ::{ flag=CN }:: ::wIntEr7z::{ user=16509588 } |
-| Streamers | ::{ flag=CN }:: ::\1Crz\1xz1z1z::{ user=10500832 }, ::{ flag=CN }:: ::Kieran\1::{ user=11264367 }, ::{ flag=CN }:: ::YuEast 2018::{ user=13953619 }, ::{ flag=CN }:: ::Rush\1FTK::{ user=3046856 }, ::{ flag=CN }:: ::cdwcgt::{ user=14721101 }, ::{ flag=CN }:: ::Azureus::{ user=6938658 }, ::{ flag=CN }:: ::\1Crz\1Alleyne::{ user=11279273 }, ::{ flag=CN }:: ::Shiki-Natsume::{ user=6338477 } |
-| Commentators | ::{ flag=CN }:: ::\1Crz\1xz1z1z::{ user=10500832 }, ::{ flag=CN }:: ::YuEast 2018::{ user=13953619 }, ::{ flag=CN }:: ::\1Crz\1Flandre::{ user=6949941 }, ::{ flag=CN }:: ::Xu seventeen::{ user=8781662 }, ::{ flag=CN }:: ::FenggeTGOB::{ user=35928532 }, ::{ flag=CN }:: ::Rush\1FTK::{ user=3046856 }, ::{ flag=CN }:: ::\1GB\1sherweifa::{ user=17457562 } |
-| Graphics | ::{ flag=CN }:: ::Sakura006::{ user=10365024 }, ::{ flag=CN }:: ::Dr\1Tissues::{ user=5106681 }, ::{ flag=CN }:: ::hourius::{ user=12580298 }, ::{ flag=DK }:: ::melon boy::{ user=3053382 } |
+| Referees | ::{ flag=CN }:: ::[Crz]xz1z1z::{ user=10500832 }, ::{ flag=CN }:: ::AelSan::{ user=14095291 }, ::{ flag=CN }:: ::Kieran_::{ user=11264367 }, ::{ flag=CN }:: ::YuEast 2018::{ user=13953619 }, ::{ flag=CN }:: ::[Crz]Flandre::{ user=6949941 }, ::{ flag=CN }:: ::Rush_FTK::{ user=3046856 }, ::{ flag=CN }:: ::Xu seventeen::{ user=8781662 }, ::{ flag=CN }:: ::cdwcgt::{ user=14721101 }, ::{ flag=HK }:: ::wanderloop::{ user=13858681 }, ::{ flag=CN }:: ::Azureus::{ user=6938658 }, ::{ flag=CN }:: ::Mrhbyy::{ user=16491593 }, ::{ flag=CN }:: ::[Crz]Makii::{ user=5242158 }, ::{ flag=CN }:: ::MidRed::{ user=17641994 }, ::{ flag=CN }:: ::[GB]Mafufu::{ user=10884561 }, ::{ flag=CN }:: ::[Crz]Alleyne::{ user=11279273 }, ::{ flag=CN }:: ::Shiki-Natsume::{ user=6338477 }, ::{ flag=CN }:: ::FenggeTGOB::{ user=35928532 }, ::{ flag=CN }:: ::Mooos::{ user=13788556 } |
+| Mappoolers | ::{ flag=CN }:: ::[Crz]xz1z1z::{ user=10500832 }, ::{ flag=CN }:: ::[Crz]Satori::{ user=7082178 }, ::{ flag=CN }:: ::YuEast 2018::{ user=13953619 }, ::{ flag=CN }:: ::gzdongsheng::{ user=8660315 }, ::{ flag=CN }:: ::[Crz]Flandre::{ user=6949941 }, ::{ flag=CN }:: ::[Crz]Caicium::{ user=10702235 }, ::{ flag=CN }:: ::[Crz]sunnyxxy::{ user=10333739 } |
+| Mappool tester | ::{ flag=CN }:: ::[Crz]xz1z1z::{ user=10500832 }, ::{ flag=CN }:: ::[Crz]Satori::{ user=7082178 }, ::{ flag=CN }:: ::[Crz]Flandre::{ user=6949941 }, ::{ flag=CN }:: ::[Crz]Caicium::{ user=10702235 }, ::{ flag=CN }:: ::[Crz]sunnyxxy::{ user=10333739 }, ::{ flag=VN }:: ::Lott::{ user=13821222 }, ::{ flag=MX }:: ::[Crz]Noire::{ user=6031847 }, ::{ flag=CN }:: ::[GB]Mafufu::{ user=10884561 } |
+| Custom mappers | ::{ flag=CN }:: ::[Crz]xz1z1z::{ user=10500832 }, ::{ flag=CN }:: ::[Crz]Alleyne::{ user=11279273 }, ::{ flag=CN }:: ::YuEast 2018::{ user=13953619 }, ::{ flag=CN }:: ::AlexDunk::{ user=9194799 }, ::{ flag=CN }:: ::gzdongsheng::{ user=8660315 }, ::{ flag=CN }:: ::AelSan::{ user=14095291 }, ::{ flag=CN }:: ::UselessPlayer::{ user=15030466 }, ::{ flag=CN }:: ::Seiran-::{ user=14351534 }, ::{ flag=ID }:: ::eZmmR::{ user=8647138 }, ::{ flag=KR }:: ::Nicknem_::{ user=16615040 }, ::{ flag=CN }:: ::[Crz]sunnyxxy::{ user=10333739 }, ::{ flag=VN }:: ::Lott::{ user=13821222 }, ::{ flag=US }:: ::0DZ0::{ user=28156707 }, ::{ flag=TH }:: ::MyZterioN-::{ user=8521723 }, ::{ flag=CN }:: ::[GB]Mafufu::{ user=10884561 }, ::{ flag=US }:: ::-mint-::{ user=8976576 }, ::{ flag=CN }:: ::Muses::{ user=9705896 }, ::{ flag=CN }:: ::[Crz]Makii::{ user=5242158 }, ::{ flag=GB }:: ::Monheim::{ user=6814203 }, ::{ flag=ID }:: ::[Crz]Crysarlene::{ user=5492871 }, ::{ flag=CN }:: ::Hidden is fun::{ user=10449071 }, ::{ flag=CN }:: ::[GB]sherweifa::{ user=17457562 }, ::{ flag=CN }:: ::FcEazy::{ user=7825227 }, ::{ flag=US }:: ::ERA Imperial::{ user=5066305 }, ::{ flag=CN }:: ::wIntEr7z::{ user=16509588 } |
+| Streamers | ::{ flag=CN }:: ::[Crz]xz1z1z::{ user=10500832 }, ::{ flag=CN }:: ::Kieran_::{ user=11264367 }, ::{ flag=CN }:: ::YuEast 2018::{ user=13953619 }, ::{ flag=CN }:: ::Rush_FTK::{ user=3046856 }, ::{ flag=CN }:: ::cdwcgt::{ user=14721101 }, ::{ flag=CN }:: ::Azureus::{ user=6938658 }, ::{ flag=CN }:: ::[Crz]Alleyne::{ user=11279273 }, ::{ flag=CN }:: ::Shiki-Natsume::{ user=6338477 } |
+| Commentators | ::{ flag=CN }:: ::[Crz]xz1z1z::{ user=10500832 }, ::{ flag=CN }:: ::YuEast 2018::{ user=13953619 }, ::{ flag=CN }:: ::[Crz]Flandre::{ user=6949941 }, ::{ flag=CN }:: ::Xu seventeen::{ user=8781662 }, ::{ flag=CN }:: ::FenggeTGOB::{ user=35928532 }, ::{ flag=CN }:: ::Rush_FTK::{ user=3046856 }, ::{ flag=CN }:: ::[GB]sherweifa::{ user=17457562 } |
+| Graphics | ::{ flag=CN }:: ::Sakura006::{ user=10365024 }, ::{ flag=CN }:: ::Dr_Tissues::{ user=5106681 }, ::{ flag=CN }:: ::hourius::{ user=12580298 }, ::{ flag=DK }:: ::melon boy::{ user=3053382 } |
 
 ## Links
 
@@ -72,68 +72,68 @@ The osu!mania 4K Chinese National Cup 2024 was run by various community members.
 | #3 | ::{ flag=CN }:: ::nyasunfanboy::{ user=14066511 } |
 | #4 | ::{ flag=CN }:: ::LiangFenFan::{ user=15183087 } |
 | #5 | ::{ flag=CN }:: ::tyrcs::{ user=13026904 } |
-| #6 | ::{ flag=CN }:: ::\1GB\1GanyuAngel::{ user=27233308 } |
+| #6 | ::{ flag=CN }:: ::[GB]GanyuAngel::{ user=27233308 } |
 | #7 | ::{ flag=CN }:: ::Croatian songs::{ user=18521083 } |
-| #8 | ::{ flag=CN }:: ::\1Crz\1Nickname::{ user=10817494 } |
-| #9 | ::{ flag=CN }:: ::\1GB\1nyasun::{ user=16277321 } |
-| #10 | ::{ flag=CN }:: ::\1Crz\1Riko::{ user=7928981 } |
-| #11 | ::{ flag=CN }:: ::\1GB\1mmttyy233::{ user=28639641 } |
-| #12 | ::{ flag=CN }:: ::\1Crz\1Xinyi2016::{ user=14213841 } |
+| #8 | ::{ flag=CN }:: ::[Crz]Nickname::{ user=10817494 } |
+| #9 | ::{ flag=CN }:: ::[GB]nyasun::{ user=16277321 } |
+| #10 | ::{ flag=CN }:: ::[Crz]Riko::{ user=7928981 } |
+| #11 | ::{ flag=CN }:: ::[GB]mmttyy233::{ user=28639641 } |
+| #12 | ::{ flag=CN }:: ::[Crz]Xinyi2016::{ user=14213841 } |
 | #13 | ::{ flag=CN }:: ::Mantozi::{ user=10764424 } |
 | #14 | ::{ flag=CN }:: ::Akermo::{ user=14934242 } |
-| #15 | ::{ flag=CN }:: ::\1Crz\1Reimu::{ user=14318312 } |
+| #15 | ::{ flag=CN }:: ::[Crz]Reimu::{ user=14318312 } |
 | #16 | ::{ flag=CN }:: ::-fm777-::{ user=30122510 } |
 | #17 | ::{ flag=HK }:: ::neeko the rock::{ user=13471840 } |
 | #18 | ::{ flag=TW }:: ::Shice2566::{ user=16191180 } |
 | #19 | ::{ flag=CN }:: ::Samyuan1216::{ user=23892945 } |
 | #20 | ::{ flag=CN }:: ::SilentParleHorn::{ user=5190592 } |
-| #21 | ::{ flag=CN }:: ::\1GB\1V1do::{ user=17527968 } |
+| #21 | ::{ flag=CN }:: ::[GB]V1do::{ user=17527968 } |
 | #22 | ::{ flag=CN }:: ::rurudo1o1o::{ user=10443855 } |
 | #23 | ::{ flag=CN }:: ::af-::{ user=10512663 } |
 | #24 | ::{ flag=CN }:: ::Kirchhoff123::{ user=29546640 } |
-| #25 | ::{ flag=CN }:: ::\1GB\1Tyris::{ user=10497659 } |
+| #25 | ::{ flag=CN }:: ::[GB]Tyris::{ user=10497659 } |
 | #26 | ::{ flag=CN }:: ::Shenzouz::{ user=29606773 } |
-| #27 | ::{ flag=CN }:: ::lovely\1hyahya::{ user=10318380 } |
-| #28 | ::{ flag=CN }:: ::\1Crz\1IsxI::{ user=18042127 } |
+| #27 | ::{ flag=CN }:: ::lovely_hyahya::{ user=10318380 } |
+| #28 | ::{ flag=CN }:: ::[Crz]IsxI::{ user=18042127 } |
 | #29 | ::{ flag=TW }:: ::elicccc::{ user=22491203 } |
-| #30 | ::{ flag=CN }:: ::\1Paw\1FIood::{ user=6336721 } |
-| #31 | ::{ flag=CN }:: ::Echo\1XF::{ user=25630297 } |
+| #30 | ::{ flag=CN }:: ::[Paw]FIood::{ user=6336721 } |
+| #31 | ::{ flag=CN }:: ::Echo_XF::{ user=25630297 } |
 | #32 | ::{ flag=CN }:: ::9961::{ user=14609209 } |
-| #33 | ::{ flag=CN }:: ::\1GB\1TakinaQwQ::{ user=18160033 } |
-| #34 | ::{ flag=CN }:: ::\1GB\1ChickenGold::{ user=16586663 } |
+| #33 | ::{ flag=CN }:: ::[GB]TakinaQwQ::{ user=18160033 } |
+| #34 | ::{ flag=CN }:: ::[GB]ChickenGold::{ user=16586663 } |
 | #35 | ::{ flag=MO }:: ::Randumbs::{ user=27657112 } |
-| #36 | ::{ flag=CN }:: ::\1GB\1Burger King::{ user=9841162 } |
+| #36 | ::{ flag=CN }:: ::[GB]Burger King::{ user=9841162 } |
 | #37 | ::{ flag=CN }:: ::VanWilder::{ user=89545 } |
-| #38 | ::{ flag=CN }:: ::\1GB\1KCINE::{ user=24289042 } |
+| #38 | ::{ flag=CN }:: ::[GB]KCINE::{ user=24289042 } |
 | #39 | ::{ flag=CN }:: ::beta dust::{ user=12031289 } |
 | #40 | ::{ flag=MO }:: ::lamkit925::{ user=19081163 } |
-| #41 | ::{ flag=ES }:: ::\1AR\1lv3plane::{ user=15964029 } |
+| #41 | ::{ flag=ES }:: ::[AR]lv3plane::{ user=15964029 } |
 | #42 | ::{ flag=CN }:: ::neeeeeh::{ user=18586390 } |
 | #43 | ::{ flag=CN }:: ::ouxig::{ user=32522677 } |
-| #44 | ::{ flag=CN }:: ::\1GB\1yobrevelc::{ user=14128407 } |
+| #44 | ::{ flag=CN }:: ::[GB]yobrevelc::{ user=14128407 } |
 | #45 | ::{ flag=CN }:: ::HxcQ777::{ user=18282863 } |
-| #46 | ::{ flag=CN }:: ::\1GB\1r3uz::{ user=27583184 } |
+| #46 | ::{ flag=CN }:: ::[GB]r3uz::{ user=27583184 } |
 | #47 | ::{ flag=CN }:: ::fishbone2445::{ user=17640814 } |
-| #48 | ::{ flag=CN }:: ::\1Paw\1DCRSG::{ user=15141441 } |
+| #48 | ::{ flag=CN }:: ::[Paw]DCRSG::{ user=15141441 } |
 | #49 | ::{ flag=TW }:: ::kissnolook::{ user=11608591 } |
 | #50 | ::{ flag=CN }:: ::quailty::{ user=6423914 } |
-| #51 | ::{ flag=CN }:: ::\1Yiiiii::{ user=6066359 } |
-| #52 | ::{ flag=CN }:: ::\1GB\1Aeracy\1nya::{ user=15351355 } |
+| #51 | ::{ flag=CN }:: ::_Yiiiii::{ user=6066359 } |
+| #52 | ::{ flag=CN }:: ::[GB]Aeracy_nya::{ user=15351355 } |
 | #53 | ::{ flag=CN }:: ::Old Pigeon::{ user=26116770 } |
 | #54 | ::{ flag=CN }:: ::Cestiea::{ user=32263201 } |
 | #55 | ::{ flag=CN }:: ::oid45::{ user=27710732 } |
 | #56 | ::{ flag=CN }:: ::AWMRone::{ user=10351684 } |
-| #57 | ::{ flag=CN }:: ::\1GB\1nnk::{ user=22412151 } |
+| #57 | ::{ flag=CN }:: ::[GB]nnk::{ user=22412151 } |
 | #58 | ::{ flag=TW }:: ::SWADEEF::{ user=18268743 } |
 | #59 | ::{ flag=CN }:: ::shade0214::{ user=14665128 } |
 | #60 | ::{ flag=CN }:: ::yks1::{ user=26030234 } |
-| #61 | ::{ flag=CN }:: ::\1GB\1nyasunwaifu::{ user=26031439 } |
-| #62 | ::{ flag=CN }:: ::qiufeng\1xz::{ user=20813415 } |
+| #61 | ::{ flag=CN }:: ::[GB]nyasunwaifu::{ user=26031439 } |
+| #62 | ::{ flag=CN }:: ::qiufeng_xz::{ user=20813415 } |
 | #63 | ::{ flag=CN }:: ::Tair itsu::{ user=34056597 } |
 | #64 | ::{ flag=CN }:: ::2580697339::{ user=6311072 } |
 | #65 | ::{ flag=CN }:: ::Starfeather2007::{ user=25502203 } |
-| #66 | ::{ flag=CN }:: ::Blue\1Potion::{ user=13094831 } |
-| #67 | ::{ flag=MO }:: ::Osas\1::{ user=18947190 } |
+| #66 | ::{ flag=CN }:: ::Blue_Potion::{ user=13094831 } |
+| #67 | ::{ flag=MO }:: ::Osas_::{ user=18947190 } |
 | #68 | ::{ flag=CN }:: ::Renshey::{ user=14265994 } |
 | #69 | ::{ flag=CN }:: ::80zero::{ user=12301332 } |
 | #70 | ::{ flag=CN }:: ::Not Softing::{ user=13267445 } |
@@ -147,7 +147,7 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CN }:: ::\1GB\1nyasun::{ user=16277321 } |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CN }:: ::[GB]nyasun::{ user=16277321 } |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CN }:: ::tyrcs::{ user=13026904 } |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=TW }:: ::-Veloce-::{ user=23248427 } |
 

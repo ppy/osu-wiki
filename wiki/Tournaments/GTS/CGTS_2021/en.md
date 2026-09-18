@@ -1315,7 +1315,7 @@ Sunday, 28 February 2021:
 | #3 | ::{ flag=JP }:: ::syaron105::{ user=8741695 } | 2.2 |
 | #4 | ::{ flag=JP }:: ::Grape\_Tea::{ user=9540073 } | 2.4 |
 | #5 | ::{ flag=JP }:: ::Six b0xes::{ user=8303357 } | 4.2 |
-| #6 | ::{ flag=JP }:: ::Shamirin\1mzk::{ user=11325757 } | 6.4 |
+| #6 | ::{ flag=JP }:: ::Shamirin_mzk::{ user=11325757 } | 6.4 |
 | #7 | ::{ flag=JP }:: ::C-light::{ user=7955738 } | 7.4 |
 | #8 | ::{ flag=KR }:: ::Laby::{ user=9085164 } | 7.8 |
 | #9 | ::{ flag=HK }:: ::Faputa::{ user=845733 } | 8.2 |
@@ -1588,7 +1588,7 @@ Sunday, 21 February 2021:
 | #12 | ::{ flag=US }:: ::Skey::{ user=7718539 } | 12.2 |
 | #13 | ::{ flag=US }:: ::\_Leviathan\_::{ user=17841784 } | 12.4 |
 | #14 | ::{ flag=US }:: ::MjIsMaster::{ user=9922896 } | 13.8 |
-| #15 | ::{ flag=US }:: ::5\15::{ user=6853438 } | 15 |
+| #15 | ::{ flag=US }:: ::5_5::{ user=6853438 } | 15 |
 | #16 | ::{ flag=US }:: ::zachmanthethird::{ user=15048710 } | 15.6 |
 | #17 | ::{ flag=CA }:: ::keyrinn::{ user=10913015 } | 17.4 |
 | #18 | ::{ flag=US }:: ::Rukairi::{ user=6642597 } | 18.2 |

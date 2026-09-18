@@ -45,7 +45,7 @@ The osu!mania Asian's Champions 2019 was run by various community members.
 | Host | ::{ flag=ID }:: ::chouyaa::{ user=8404646 } |
 | Co-host | ::{ flag=PH }:: ::vincent4399::{ user=9764388 }, ::{ flag=VN }:: ::MashedPotato::{ user=10494860 } |
 | Mappool selector | ::{ flag=ID }:: ::Virtue-::{ user=6144772 }, ::{ flag=TH }:: ::RuleBlazing::{ user=7312402 }, ::{ flag=SG }:: ::Raveille::{ user=1388767 }, ::{ flag=SG }:: ::riunosk::{ user=5594381 } |
-| Streamer | ::{ flag=ID }:: ::Victim\1Crasher::{ user=2084869 }, ::{ flag=MY }:: ::\[MY\]Solut1on\_::{ user=14262785 }, ::{ flag=VN }:: ::DanX::{ user=10542408 }, ::{ flag=NL }:: ::NightNarumi::{ user=4381142 }, ::{ flag=LV }:: ::Adiopulse::{ user=4387852 } |
+| Streamer | ::{ flag=ID }:: ::Victim_Crasher::{ user=2084869 }, ::{ flag=MY }:: ::\[MY\]Solut1on\_::{ user=14262785 }, ::{ flag=VN }:: ::DanX::{ user=10542408 }, ::{ flag=NL }:: ::NightNarumi::{ user=4381142 }, ::{ flag=LV }:: ::Adiopulse::{ user=4387852 } |
 | Commentator | ::{ flag=VN }:: ::Weabonie::{ user=8151986 }, ::{ flag=TH }:: ::HowToPlayLN::{ user=10879600 }, ::{ flag=PH }:: ::LohaWarpe::{ user=8560810 } |
 | Referee | ::{ flag=TH }:: ::TNKSTC::{ user=6037121 }, ::{ flag=ID }:: ::Noch Einen::{ user=12668735 }, ::{ flag=ID }:: ::FadillSan::{ user=7006830 }, ::{ flag=ID }:: ::RiP46::{ user=5222596 }, ::{ flag=TW }:: ::Makura::{ user=10665623 }, ::{ flag=DE }:: ::GDLenny::{ user=8406711 } |
 | Statistician | ::{ flag=KR }:: ::VarvalianFanboy::{ user=13211236 } |

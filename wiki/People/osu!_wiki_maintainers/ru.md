@@ -18,7 +18,7 @@
 | ::{ flag=US }:: ::Joehu::{ user=8549835 } | [Joehuu](https://github.com/Joehuu) | Неактивен |  |
 | ::{ flag=AR }:: ::juankristal::{ user=443656 } | [juankristal](https://github.com/juankristal) | Неактивен | Испанский |
 | ::{ flag=DE }:: ::Loctav::{ user=71366 } | [Loctav](https://github.com/Loctav) | Неактивен | Немецкий |
-| ::{ flag=US }:: ::MegaApple\1Pi::{ user=2148208 } | [MegaApplePi](https://github.com/MegaApplePi) | Неактивен |  |
+| ::{ flag=US }:: ::MegaApple_Pi::{ user=2148208 } | [MegaApplePi](https://github.com/MegaApplePi) | Неактивен |  |
 | ::{ flag=ID }:: ::Niva::{ user=197805 } | [Nivalyx](https://github.com/Nivalyx) | **Активен** | Индонезийский |
 | ::{ flag=DE }:: ::Okoratu::{ user=1623405 } | [Okorin](https://github.com/Okorin) | Неактивен | Немецкий |
 | ::{ flag=AU }:: ::peppy::{ user=2 } | [peppy](https://github.com/peppy) | **Активен** | Японский |

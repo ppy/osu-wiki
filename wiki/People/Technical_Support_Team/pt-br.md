@@ -31,4 +31,4 @@ A [página de grupo da Equipe de Suporte](https://osu.ppy.sh/groups/22) lista to
 | ::{ flag=KR }:: ::Civil oath::{ user=3216107 } | Coreano, japonês |
 | ::{ flag=DE }:: ::Lyawi::{ user=5851253 } | Alemão |
 | ::{ flag=PH }:: ::Nathanael::{ user=2295078 } | Filipino |
-| ::{ flag=PL }:: ::spaceman\1atlas::{ user=3035836 } | Polonês |
+| ::{ flag=PL }:: ::spaceman_atlas::{ user=3035836 } | Polonês |

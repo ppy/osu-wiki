@@ -170,7 +170,7 @@ Are you ready for some techy bursts? Or would you rather have some raw 360 BPM p
 
 [![](/wiki/shared/news/2022-01-22-project-loved-january-2022/1327834.jpg)](https://osu.ppy.sh/community/forums/topics/1508648)
 
-[katagiri - 16bit.rar](https://osu.ppy.sh/beatmapsets/1327834#taiko) by ::rezi888::{ user=2337821 } and ::7\17::{ user=7491106 }\
+[katagiri - 16bit.rar](https://osu.ppy.sh/beatmapsets/1327834#taiko) by ::rezi888::{ user=2337821 } and ::7_7::{ user=7491106 }\
 320 BPM, 3:13 | 7.79★\
 *description written by ::KuroKuroKuro::{ user=11931563 }*
 

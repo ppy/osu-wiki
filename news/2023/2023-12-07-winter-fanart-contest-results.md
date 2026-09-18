@@ -31,7 +31,7 @@ Hot on first place's heels was ::**JlNN**::{ user=22499692 }'s depiction of a de
 
 [![](https://assets.ppy.sh/contests/189/banners/Scissors_Mori.jpg)](https://assets.ppy.sh/contests/189/winners/Scissors_Mori.png)
 
-**1723** voters decided to peel oranges with ::**Scissors\1Mori**::{ user=31302044 }'s absurdly cute take on a santa-pippi enjoying a citrusy snack before the warmth of a crackling fireplace. We've clearly opened our presents ahead of the big day, at this rate.
+**1723** voters decided to peel oranges with ::**Scissors_Mori**::{ user=31302044 }'s absurdly cute take on a santa-pippi enjoying a citrusy snack before the warmth of a crackling fireplace. We've clearly opened our presents ahead of the big day, at this rate.
 
 [![](https://assets.ppy.sh/contests/189/banners/tehfire.jpg)](https://assets.ppy.sh/contests/189/winners/tehfire.png)
 
@@ -63,7 +63,7 @@ Speaking of colour, **1312** voters beheld the festive marvel of ::**Triantafyll
 
 [![](https://assets.ppy.sh/contests/189/banners/kittens_.jpg)](https://assets.ppy.sh/contests/189/winners/kittens_.png)
 
-**1218** voters decided to watch ::**kittens\1**::{ user=12689044 }' take on a kimono-clad pippi enjoying some dango in the snow, and really, who could blame them? There's a joke to be made here about mochi and Mocha, but we don't have the heart to make it.
+**1218** voters decided to watch ::**kittens_**::{ user=12689044 }' take on a kimono-clad pippi enjoying some dango in the snow, and really, who could blame them? There's a joke to be made here about mochi and Mocha, but we don't have the heart to make it.
 
 [![](https://assets.ppy.sh/contests/189/banners/Bayki.jpg)](https://assets.ppy.sh/contests/189/winners/Bayki.png)
 

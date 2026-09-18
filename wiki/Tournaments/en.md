@@ -143,7 +143,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Aetherian's Summer Singles 1](AESS/1) | 2021-04-30 | 2021-7-13 | ::{ flag=CA }:: ::Flatpaper::{ user=11255340 } | ::{ flag=CA }:: ::FaintGun::{ user=10500541 } | ::{ flag=PH }:: ::NathanSS::{ user=8500628 } |
-| [Aetherian's Summer Singles 2](AESS/2) | 2022-05-06 | 2022-07-23 | ::{ flag=PL }:: ::maliszewski::{ user=12408961 } | ::{ flag=KR }:: ::\1Karcher\1::{ user=11443437 } | ::{ flag=HK }:: ::mcy4::{ user=2165650 } |
+| [Aetherian's Summer Singles 2](AESS/2) | 2022-05-06 | 2022-07-23 | ::{ flag=PL }:: ::maliszewski::{ user=12408961 } | ::{ flag=KR }:: ::[Karcher]::{ user=11443437 } | ::{ flag=HK }:: ::mcy4::{ user=2165650 } |
 | [Aetherian's Summer Singles 3](AESS/3) | 2023-05-01 | 2023-07-09 | ::{ flag=PL }:: ::maliszewski::{ user=12408961 } | ::{ flag=PH }:: ::enri::{ user=8640970 } | ::{ flag=KR }:: ::mx10001::{ user=11443437 } |
 
 #### [Ascaveth Invitational Tournament](AIT)
@@ -238,7 +238,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | Finnish Duo Cup | 2021-05-28 | 2021-07-18 | **\:godmode\:** (::{ flag=FI }:: ::Haadez::{ user=8925266 }, ::{ flag=PE }:: ::Arnold24x24::{ user=2291265 }) | **\:grin\:** (::{ flag=FI }:: ::Freezd::{ user=6524603 }, ::{ flag=CL }:: ::Intercambing::{ user=2546001 }) | **:^\)** (::{ flag=FI }:: ::HENKSELI::{ user=7005392 }, ::{ flag=US }:: ::Utami::{ user=7512553 }) |
-| Finnish Duo Cup 2022 | 2022-07-16 | 2022-08-21 | **Dafonz** (::{ flag=FI }:: ::Haadez::{ user=8925266 }, ::{ flag=PL }:: ::MALISZEWSKI::{ user=12408961 }) | **carrot fields** (::{ flag=FI }:: ::Amasetic::{ user=11375251 }, ::{ flag=AU }:: ::Dumii::{ user=3068044 }) | **nope** (::{ flag=FI }:: ::kadzackzz::{ user=7005392 }, ::{ flag=KR }:: ::\1Karcher\1::{ user=11443437 }) |
+| Finnish Duo Cup 2022 | 2022-07-16 | 2022-08-21 | **Dafonz** (::{ flag=FI }:: ::Haadez::{ user=8925266 }, ::{ flag=PL }:: ::MALISZEWSKI::{ user=12408961 }) | **carrot fields** (::{ flag=FI }:: ::Amasetic::{ user=11375251 }, ::{ flag=AU }:: ::Dumii::{ user=3068044 }) | **nope** (::{ flag=FI }:: ::kadzackzz::{ user=7005392 }, ::{ flag=KR }:: ::[Karcher]::{ user=11443437 }) |
 | [Finnish Duo Cup 2025](FDC/2025) | 2025-01-11 | 2025-02-23 | **oddloop** (::{ flag=FI }:: ::Kalanluu::{ user=2035254 }, ::{ flag=PL }:: ::MALISZEWSKI::{ user=12408961 }) | **bunny party** (::{ flag=FI }:: ::Eevert::{ user=12080544 }, ::{ flag=KR }:: ::Amamya Kokoro::{ user=2511839 }) | **terence** (::{ flag=FI }:: ::house::{ user=15242810 }, ::{ flag=NO }:: ::NINERIK::{ user=10549880 }) |
 
 #### [Game_Osu Tourney](GO)
@@ -506,9 +506,9 @@ Unofficial tournaments/competitions hosted by the communities.
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [16 player battle royale](The_Roundtable/16_player_battle_royale) | 2022-07-08 | 2022-07-08 | ::mrekk::{ user=7562902 } | ::im\1a\1fancy\1lad::{ user=4908650 } | ::Utami::{ user=7512553 } & ::RyuK::{ user=6304246 } |
+| [16 player battle royale](The_Roundtable/16_player_battle_royale) | 2022-07-08 | 2022-07-08 | ::mrekk::{ user=7562902 } | ::im_a_fancy_lad::{ user=4908650 } | ::Utami::{ user=7512553 } & ::RyuK::{ user=6304246 } |
 | [2v2 team tandem tournament](The_Roundtable/2v2_team_tandem_tournament) | 2022-07-09 | 2022-07-09 | No Stamina | Plasma Gunners | Eggward |
-| [1v1 double elimination](The_Roundtable/1v1_double_elimination) | 2022-07-09 | 2022-07-10 | ::Utami::{ user=7512553 } | ::mrekk::{ user=7562902 } | ::im\1a\1fancy\1lad::{ user=4908650 } |
+| [1v1 double elimination](The_Roundtable/1v1_double_elimination) | 2022-07-09 | 2022-07-10 | ::Utami::{ user=7512553 } | ::mrekk::{ user=7562902 } | ::im_a_fancy_lad::{ user=4908650 } |
 
 #### [UK Community Cup](UKCC)
 
@@ -679,7 +679,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Taiko World Cup: Last Man Standing 2 | 2015-05-09 | 2015-06-16 | ::{ flag=TW }:: Taiwan A | ::{ flag=FR }:: France | ::{ flag=JP }:: Japan A |
 | Taiko World Cup: Last Man Standing - Single Player Edition | 2016-10-10 | 2016-01-11 | ::{ flag=JP }:: ::abeno::{ user=6565148 } | ::{ flag=TW }:: ::S a n d::{ user=676578 } | ::{ flag=CA }:: ::Fudgyking::{ user=3802922 } |
 | Taiko World Cup: Last Man Standing 3 | 2016-06-11 | 2016-07-24 | ::{ flag=JP }:: Japan A | ::{ flag=TW }:: Taiwan A | ::{ flag=JP }:: Japan D |
-| Taiko: Last Man Standing - Single Player Edition 2 | 2017-01-07 | 2017-02-12 | ::{ flag=JP }:: ::\1yu68::{ user=6170507 } | ::{ flag=KR }:: ::applerss::{ user=983349 } | ::{ flag=CA }:: ::janitoreihil::{ user=3307897 } |
+| Taiko: Last Man Standing - Single Player Edition 2 | 2017-01-07 | 2017-02-12 | ::{ flag=JP }:: ::_yu68::{ user=6170507 } | ::{ flag=KR }:: ::applerss::{ user=983349 } | ::{ flag=CA }:: ::janitoreihil::{ user=3307897 } |
 | Taiko: Last Man Standing 4 | 2017-09-23 | 2017-10-28 | Tarako Spa | Can We Go Back | easy to giveup |
 | [Taiko LMS: Shift Cup](T_LMS/Shift_1) | 2018-06-09 | 2018-07-15 | V E R Y S T R O N G T E A M | あ | Ｆａｓｔ ＆ Ｃｈｉｌｌ 早く |
 | [Taiko LMS: Shift Cup 2](T_LMS/Shift_2) | 2020-04-25 | 2020-05-31 | Where is JDrago1-13? | abibibubibui | EuroGamers -Jaye |
@@ -876,15 +876,15 @@ Unofficial tournaments/competitions hosted by the communities.
 | [GB Cup 2025 Spring (Discord div.)](GBC/GBC_2025_Spring) | 2025-03-22 | 2025-06-14 | ::{ flag=CL }:: ::myucchii::{ user=10072733 } | ::{ flag=CN }:: ::DawnX::{ user=8534840 } | ::{ flag=US }:: ::PeachMarrow::{ user=15926730 } |
 | [GB Cup 2025 Autumn (QQ div.)](GBC/GBC_2025_Autumn) | 2025-11-04 | 2026-01-10 | Q20: 不整活 | Q4: 玩不玩 | Q23: 队员已红温之anpig1013, Q22: My Angel Noodle |
 | [GB Cup 2025 Autumn (Discord div.)](GBC/GBC_2025_Autumn) | 2025-11-04 | 2026-01-10 | D8: super magical chest | D6: Siemieniakowszczyzna | D20, D13 |
-| [GB Cup 2026 IRL](GBC/GBC_2026_IRL) | 2026-07-07 | 2026-07-26 | ::{ flag=CN }:: ::DawnX::{ user=8534840 } | ::{ flag=CN }:: ::shadiaojunshi::{ user=29165753 } | ::{ flag=CN }:: ::Vain\1::{ user=38363768 }, ::{ flag=CN }:: ::HowToPlaySV::{ user=32494511 } |
+| [GB Cup 2026 IRL](GBC/GBC_2026_IRL) | 2026-07-07 | 2026-07-26 | ::{ flag=CN }:: ::DawnX::{ user=8534840 } | ::{ flag=CN }:: ::shadiaojunshi::{ user=29165753 } | ::{ flag=CN }:: ::Vain_::{ user=38363768 }, ::{ flag=CN }:: ::HowToPlaySV::{ user=32494511 } |
 
 #### [Jaye's One Key Event](JOKE)
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Jaye's One Key Event](JOKE/1) | 2020-07-11 | 2020-08-23 | ::{ flag=KR }:: ::Jakads::{ user=259972 } | ::{ flag=SG }:: ::Blerargh::{ user=7609510 } | ::{ flag=BR }:: ::Brasil::{ user=3949268 } |
-| [Jaye's One Key Event 2: Spacebar Jam](JOKE/2) | 2021-11-06 | 2021-12-19 | ::{ flag=US }:: ::\1LS\1Ham::{ user=17523947 } | ::{ flag=JP }:: ::Maimaing::{ user=14520910 } | ::{ flag=BR }:: ::Brasil::{ user=3949268 } |
-| [Jaye's One Key Event 3: paradigm//SHIFT](JOKE/3) | 2023-10-28 | 2023-12-17 | ::{ flag=JP }:: ::Grape\1Tea::{ user=9540073 } | ::{ flag=JP }:: ::hz404::{ user=14947043 } | ::{ flag=US }:: ::\[LS\]Ham::{ user=17523947 } |
+| [Jaye's One Key Event 2: Spacebar Jam](JOKE/2) | 2021-11-06 | 2021-12-19 | ::{ flag=US }:: ::[LS]Ham::{ user=17523947 } | ::{ flag=JP }:: ::Maimaing::{ user=14520910 } | ::{ flag=BR }:: ::Brasil::{ user=3949268 } |
+| [Jaye's One Key Event 3: paradigm//SHIFT](JOKE/3) | 2023-10-28 | 2023-12-17 | ::{ flag=JP }:: ::Grape_Tea::{ user=9540073 } | ::{ flag=JP }:: ::hz404::{ user=14947043 } | ::{ flag=US }:: ::\[LS\]Ham::{ user=17523947 } |
 | [One Key World Cup 2024](JOKE/1KWC_2024) | 2024-05-04 | 2024-06-16 | ::{ flag=JP }:: Japan | ::{ flag=GB }:: United Kingdom | ::{ flag=AU }:: Australia-A |
 | [One Key World Cup 2025](JOKE/1KWC_2025) | 2025-04-26 | 2025-06-08 | ::{ flag=JP }:: Japan | ::{ flag=US }:: United States | ::{ flag=GB }:: United Kingdom |
 | [Jaye's One Key Event 4: The Great Escape](JOKE/4) | 2025-10-25 | 2025-12-07 | *TBD* | *TBD* | *TBD* |
@@ -906,9 +906,9 @@ Unofficial tournaments/competitions hosted by the communities.
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Mistrzostwa Polski w 4K 2019](MP/2019_4K) | 2019-05-13 | 2019-08-04 | ::{ flag=PL }:: ::Tidek::{ user=743282 } | ::{ flag=PL }:: ::SitekX::{ user=3840946 } | ::{ flag=PL }:: ::\1underjoy::{ user=2235750 } |
+| [Mistrzostwa Polski w 4K 2019](MP/2019_4K) | 2019-05-13 | 2019-08-04 | ::{ flag=PL }:: ::Tidek::{ user=743282 } | ::{ flag=PL }:: ::SitekX::{ user=3840946 } | ::{ flag=PL }:: ::_underjoy::{ user=2235750 } |
 | [Mistrzostwa Polski w 7K 2019](MP/2019_7K) | 2019-10-09 | 2019-12-22 | ::{ flag=PL }:: ::- gero -::{ user=5068537 } | ::{ flag=PL }:: ::Kamikaze::{ user=2124783 } | ::{ flag=PL }:: ::-Karen-chan-::{ user=1333495 } |
-| [Mistrzostwa Polski w 7K 2020](MP/2020_7K) | 2020-10-12 | 2020-12-20 | ::{ flag=PL }:: ::paprotkaaaaa::{ user=6034749 } | ::{ flag=PL }:: ::- gero -::{ user=5068537 } | ::{ flag=PL }:: ::\1underjoy::{ user=2235750 } |
+| [Mistrzostwa Polski w 7K 2020](MP/2020_7K) | 2020-10-12 | 2020-12-20 | ::{ flag=PL }:: ::paprotkaaaaa::{ user=6034749 } | ::{ flag=PL }:: ::- gero -::{ user=5068537 } | ::{ flag=PL }:: ::_underjoy::{ user=2235750 } |
 
 #### [osu!mania Chinese National Cup](MCNC)
 
@@ -983,7 +983,7 @@ Unofficial tournaments/competitions hosted by the communities.
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Sparxe's Two Key Event](STKE/1) | 2024-10-26 | 2024-12-15 | ::{ flag=GB }:: ::Zoobin4::{ user=10055204 } | ::{ flag=GB }:: ::Nathanial::{ user=9169747 } | ::{ flag=GB }:: ::MiniEgg\123::{ user=25914360 } |
+| [Sparxe's Two Key Event](STKE/1) | 2024-10-26 | 2024-12-15 | ::{ flag=GB }:: ::Zoobin4::{ user=10055204 } | ::{ flag=GB }:: ::Nathanial::{ user=9169747 } | ::{ flag=GB }:: ::MiniEgg_23::{ user=25914360 } |
 
 #### [Speed of Light](SOL)
 

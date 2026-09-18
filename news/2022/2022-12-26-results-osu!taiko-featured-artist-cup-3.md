@@ -35,7 +35,7 @@ Don't let the cute name fool you, because team **:3** didn't pull any punches in
 
 ### 2nd place
 
-Team **?XD**, consisted of ::arcpotato::{ user=12842392 } and ::\1gt::{ user=8301957 }, earns a very respectable 2nd place by perfectly capturing the chaotic, yet impeccable energy of [Kikuo's Ten Sho Sho Ten Sho](https://osu.ppy.sh/beatmapsets/1908844)!
+Team **?XD**, consisted of ::arcpotato::{ user=12842392 } and ::_gt::{ user=8301957 }, earns a very respectable 2nd place by perfectly capturing the chaotic, yet impeccable energy of [Kikuo's Ten Sho Sho Ten Sho](https://osu.ppy.sh/beatmapsets/1908844)!
 
 <div align="center">
     <iframe width="95%" height="400" src="https://www.youtube.com/embed/xw-mK7jtppA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

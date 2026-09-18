@@ -118,7 +118,7 @@ A few tracks are below, but the rest can be found on [**cygnus**'s Featured Arti
 
 If comments on [osu!'s changelog YouTube videos](https://www.youtube.com/@osugame) are to be believed, a lot of people like [**Good Kid**](https://osu.ppy.sh/beatmaps/artists/240)'s music. We have 4 more tunes as of today:
 
-### [Good Kid - Break](https://osu.ppy.sh/beatmapsets/2146620) mapped by ::\1ethan::{ user=16345483 }
+### [Good Kid - Break](https://osu.ppy.sh/beatmapsets/2146620) mapped by ::_ethan::{ user=16345483 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/240/Songs/Good_Kid_-_Break.mp3" type="audio/mpeg">

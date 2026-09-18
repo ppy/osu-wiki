@@ -110,7 +110,7 @@ As competições de mapping Aspire possuem uma variante especial do título de E
 - ::{ flag=CA }:: ::Monstrata::{ user=2706438 }
 - ::{ flag=NL }:: ::Mr HeliX::{ user=2330619 }
 - ::{ flag=FI }:: ::ProfessionalBox::{ user=3250792 }
-- ::{ flag=TW }:: ::SnowNiNo\1::{ user=2506267 }
+- ::{ flag=TW }:: ::SnowNiNo_::{ user=2506267 }
 - ::{ flag=KR }:: ::Spectator::{ user=702598 }
 - ::{ flag=FR }:: ::Supairo::{ user=2837231 }
 
@@ -142,7 +142,7 @@ As competições do osu!remix recompensam o título de **osu!mixer** como prêmi
 | ::{ flag=SE }:: ::Helblinde::{ user=48053 } | [Helblinde](https://osu.ppy.sh/beatmaps/artists/5) |
 | ::{ flag=JP }:: ::II-L::{ user=15223576 } | [II-L](https://osu.ppy.sh/beatmaps/artists/172) |
 | ::{ flag=JP }:: ::kanki2::{ user=9595391 } | [Lime / Kankitsu](https://osu.ppy.sh/beatmaps/artists/116) |
-| ::{ flag=DE }:: ::KIRA\1old\11::{ user=2138310 } | [KIRA](https://osu.ppy.sh/beatmaps/artists/27) |
+| ::{ flag=DE }:: ::KIRA_old_1::{ user=2138310 } | [KIRA](https://osu.ppy.sh/beatmaps/artists/27) |
 | ::{ flag=RO }:: ::kitazawakyouhei::{ user=15440027 } | [Kitazawa Kyouhei](https://osu.ppy.sh/beatmaps/artists/165) |
 | ::{ flag=FR }:: ::Kurokotei::{ user=398275 } | [Kurokotei](https://osu.ppy.sh/beatmaps/artists/58) |
 | ::{ flag=MY }:: ::Miraie::{ user=6483437 } | [miraie](https://osu.ppy.sh/beatmaps/artists/162) |
@@ -185,7 +185,7 @@ Storyboarders que demonstram um talento excepcional em storyboarding e impressio
 - ::{ flag=FR }:: ::Damnae::{ user=989377 }
 - ::{ flag=PL }:: ::Exile-::{ user=2559349 }
 - ::{ flag=RU }:: ::Shmiklak::{ user=5504231 }
-- ::{ flag=CN }:: ::yf\1bmp::{ user=1243669 }
+- ::{ flag=CN }:: ::yf_bmp::{ user=1243669 }
 
 ### Relacionado a gameplay
 
@@ -197,7 +197,7 @@ Esses jogadores conseguiram seus títulos com alguma conquista maluca ou complet
 | ::{ flag=US }:: ::EEEEEEEEEEEEEEE::{ user=2927048 } | osu!completionist | Jogou todos os mapas de osu! a partir de 15 de Março de 2023 |
 | ::{ flag=AU }:: ::Jaye::{ user=4841352 } | Drum Decimator | Fez scores FCs em todos os mapas de osu!taiko Ranqueados a partir de 3 de Novembro de 2019 |
 | ::{ flag=PL }:: ::Przegrany::{ user=7635621 } | osu!completionist | Jogou todos os mapas de osu! a partir de 11 de Agosto de 2021 |
-| ::{ flag=NL }:: ::Shirotora\1old::{ user=11820 } | Bested the Reaper's Game | *Não documentado* |
+| ::{ flag=NL }:: ::Shirotora_old::{ user=11820 } | Bested the Reaper's Game | *Não documentado* |
 | ::{ flag=US }:: ::xasuma::{ user=3172980 } | The First Completionist | Jogou todos os mapas de osu! a partir de 27 de Abril de 2019 |
 | ::{ flag=DE }:: ::Zetera::{ user=587737 } | Medal Hunter | Ganhou [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) |
 
@@ -235,7 +235,7 @@ Esses jogadores conseguiram seus títulos com alguma conquista maluca ou complet
 | ::{ flag=US }:: ::Derekku::{ user=91341 } | COOL DUDE |
 | ::{ flag=AU }:: ::Ephemeral::{ user=102335 } | Inland Empire |
 | ::{ flag=DE }:: ::Loctav::{ user=71366 } | Popcorn Fairy |
-| ::{ flag=AU }:: ::phill\1old::{ user=53 } | ¿ |
+| ::{ flag=AU }:: ::phill_old::{ user=53 } | ¿ |
 | ::{ flag=US }:: ::Toy::{ user=2757689 } | Former osu! Champion: 2019 / Grilled Dodongo |
 | ::{ flag=HM }:: ::Zallius::{ user=55 } | Boats |
 
@@ -300,7 +300,7 @@ Esses jogadores conseguiram seus títulos com alguma conquista maluca ou complet
 | ::{ flag=CA }:: ::jonathanlfj::{ user=270377 } | Elite Mapper |
 | ::{ flag=US }:: ::kablaze::{ user=3043603 } | osu! Champion |
 | ::{ flag=JP }:: ::kanki2::{ user=9595391 } | Featured Artist |
-| ::{ flag=DE }:: ::KIRA\1old\11::{ user=2138310 } | Featured Artist |
+| ::{ flag=DE }:: ::KIRA_old_1::{ user=2138310 } | Featured Artist |
 | ::{ flag=RO }:: ::kitazawakyouhei::{ user=15440027 } | Featured Artist |
 | ::{ flag=CA }:: ::ktgster::{ user=53378 } | Elite Mapper |
 | ::{ flag=FR }:: ::Kurokotei::{ user=398275 } | Featured Artist |
@@ -333,7 +333,7 @@ Esses jogadores conseguiram seus títulos com alguma conquista maluca ou complet
 | ::{ flag=US }:: ::nuudles::{ user=21312 } | iPhone Dev |
 | ::{ flag=DE }:: ::OnosakiHito::{ user=290128 } | osu!taiko Paragon |
 | ::{ flag=US }:: ::onumi::{ user=11204867 } | Featured Artist |
-| ::{ flag=AU }:: ::phill\1old::{ user=53 } | ¿ |
+| ::{ flag=AU }:: ::phill_old::{ user=53 } | ¿ |
 | ::{ flag=FI }:: ::PianoLuigi::{ user=9665915 } | Elite Mapper |
 | ::{ flag=FI }:: ::ProfessionalBox::{ user=3250792 } | Elite Mapper: Aspirant |
 | ::{ flag=KR }:: ::qwhj1027::{ user=7547506 } | osu!catch Champion |
@@ -347,14 +347,14 @@ Esses jogadores conseguiram seus títulos com alguma conquista maluca ou complet
 | ::{ flag=CN }:: ::Ryuusei Aika::{ user=7777875 } | Elite Mapper |
 | ::{ flag=US }:: ::Saturos::{ user=3781 } | osu! Hall of Famer |
 | ::{ flag=JP }:: ::Seren58::{ user=15252950 } | osu!taiko Champion |
-| ::{ flag=NL }:: ::Shirotora\1old::{ user=11820 } | Bested the Reaper's Game |
+| ::{ flag=NL }:: ::Shirotora_old::{ user=11820 } | Bested the Reaper's Game |
 | ::{ flag=FR }:: ::Shinwoir::{ user=8984574 } | osu!mixer |
 | ::{ flag=RU }:: ::Shmiklak::{ user=5504231 } | Elite Storyboarder |
 | ::{ flag=SG }:: ::Shoegazer::{ user=2520707 } | osu!mania Paragon |
 | ::{ flag=BR }:: ::SillyFangirl::{ user=2288363 } | osu!mania 4K Champion |
 | ::{ flag=SG }:: ::Sinnoh::{ user=4236057 } | Elite Mapper |
 | ::{ flag=US }:: ::skymuted::{ user=7734050 } | Featured Artist |
-| ::{ flag=TW }:: ::SnowNiNo\1::{ user=2506267 } | Elite Mapper: Aspirant |
+| ::{ flag=TW }:: ::SnowNiNo_::{ user=2506267 } | Elite Mapper: Aspirant |
 | ::{ flag=ES }:: ::sotuiofficial::{ user=14779258 } | Featured Artist |
 | ::{ flag=LY }:: ::Soul Evans::{ user=4490770 } | Elite Mapper |
 | ::{ flag=KR }:: ::Spectator::{ user=702598 } | Elite Mapper: Aspirant |
@@ -373,7 +373,7 @@ Esses jogadores conseguiram seus títulos com alguma conquista maluca ou complet
 | ::{ flag=RU }:: ::xbopost::{ user=6842421 } | Elite Mapper |
 | ::{ flag=SE }:: ::Xgor::{ user=98661 } | Elite Mapper |
 | ::{ flag=ID }:: ::xiemon::{ user=5203667 } | osu!artist |
-| ::{ flag=CN }:: ::yf\1bmp::{ user=1243669 } | Elite Storyboarder |
+| ::{ flag=CN }:: ::yf_bmp::{ user=1243669 } | Elite Storyboarder |
 | ::{ flag=HM }:: ::Zallius::{ user=55 } | Boats |
 | ::{ flag=DE }:: ::Zetera::{ user=587737 } | Medal Hunter |
 | ::{ flag=CL }:: ::ZiRoX::{ user=200768 } | Elite Mapper |

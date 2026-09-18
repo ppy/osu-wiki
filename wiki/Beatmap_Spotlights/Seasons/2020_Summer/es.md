@@ -105,13 +105,13 @@ Las siguientes tablas de clasificación también están disponibles como una [ho
 | #19 | ::TheOmyNomy::{ user=4241054 } | ![][osu-diamond2] |
 | #20 | ::Civil oath::{ user=3216107 } | ![][osu-diamond1] |
 | #21 | ::Regou::{ user=419954 } | ![][osu-diamond1] |
-| #22 | ::\1Criller::{ user=8116659 } | ![][osu-diamond1] |
+| #22 | ::_Criller::{ user=8116659 } | ![][osu-diamond1] |
 | #23 | ::HiroM::{ user=3359654 } | ![][osu-diamond1] |
 | #24 | ::my angel mode::{ user=7636779 } | ![][osu-diamond1] |
 | #25 | ::witchhunted::{ user=6192320 } | ![][osu-diamond1] |
 | #26 | ::DeadZoNeD::{ user=3859506 } | ![][osu-diamond1] |
 | #27 | ::Satellite::{ user=1661227 } | ![][osu-diamond1] |
-| #28 | ::\1YuriNee::{ user=1794082 } | ![][osu-diamond1] |
+| #28 | ::_YuriNee::{ user=1794082 } | ![][osu-diamond1] |
 | #29 | ::King Hong::{ user=7263047 } | ![][osu-diamond1] |
 | #30 | ::Shigeru22::{ user=2581664 } | ![][osu-diamond1] |
 | #31 | ::enjoyit1025::{ user=2206844 } | ![][osu-diamond1] |
@@ -145,7 +145,7 @@ Las siguientes tablas de clasificación también están disponibles como una [ho
 | #4 | ::Consified::{ user=6502903 } | ![][taiko-diamond2] |
 | #5 | ::oL0::{ user=1134683 } | ![][taiko-diamond2] |
 | #6 | ::J a c k y::{ user=8011704 } | ![][taiko-diamond2] |
-| #7 | ::yuzu\1rinrin::{ user=4616752 } | ![][taiko-diamond2] |
+| #7 | ::yuzu_rinrin::{ user=4616752 } | ![][taiko-diamond2] |
 | #8 | ::HiroK::{ user=4050738 } | ![][taiko-diamond1] |
 | #9 | ::Faputa::{ user=845733 } | ![][taiko-diamond1] |
 | #10 | ::growATMfarmz::{ user=12273160 } | ![][taiko-diamond1] |
@@ -153,7 +153,7 @@ Las siguientes tablas de clasificación también están disponibles como una [ho
 | #12 | ::Antti::{ user=13281473 } | ![][taiko-platinum2] |
 | #13 | ::Reu70::{ user=10547895 } | ![][taiko-platinum2] |
 | #14 | ::Arrival::{ user=1694000 } | ![][taiko-platinum2] |
-| #15 | ::Cookie\1Tree::{ user=502722 } | ![][taiko-platinum1] |
+| #15 | ::Cookie_Tree::{ user=502722 } | ![][taiko-platinum1] |
 | #16 | ::Cynplytholowazy::{ user=3901754 } | ![][taiko-platinum1] |
 | #17 | ::Brown918::{ user=9805760 } | ![][taiko-platinum1] |
 | #18 | ::SHK::{ user=2660111 } | ![][taiko-platinum1] |
@@ -170,7 +170,7 @@ Las siguientes tablas de clasificación también están disponibles como una [ho
 | #29 | ::Lime717::{ user=7918664 } | ![][taiko-gold2] |
 | #30 | ::Boaz::{ user=13302996 } | ![][taiko-gold2] |
 | #31 | ::Maeda::{ user=12615278 } | ![][taiko-gold1] |
-| #32 | ::Ku\1Ren::{ user=2535243 } | ![][taiko-gold1] |
+| #32 | ::Ku_Ren::{ user=2535243 } | ![][taiko-gold1] |
 | #33 | ::haga1115::{ user=6574823 } | ![][taiko-gold1] |
 | #34 | ::Axer::{ user=7299864 } | ![][taiko-gold1] |
 | #35 | ::Foxeru::{ user=7479684 } | ![][taiko-gold1] |
@@ -295,7 +295,7 @@ Las siguientes tablas de clasificación también están disponibles como una [ho
 | #44 | ::King Hong::{ user=7263047 } | ![][mania-gold1] |
 | #45 | ::Toushi::{ user=2367825 } | ![][mania-gold1] |
 | #46 | ::PokeSky::{ user=3617111 } | ![][mania-gold1] |
-| #47 | ::hero\1jeff::{ user=3375226 } | ![][mania-gold1] |
+| #47 | ::hero_jeff::{ user=3375226 } | ![][mania-gold1] |
 | #48 | ::CrumpetFiddler::{ user=3518705 } | ![][mania-gold1] |
 | #49 | ::chromb::{ user=10238680 } | ![][mania-gold1] |
 | #50 | ::dennischan::{ user=2875497 } | ![][mania-gold1] |

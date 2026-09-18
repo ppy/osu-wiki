@@ -81,7 +81,7 @@ Regardless of whether you have years of experience or are just starting out, you
 ![](/wiki/shared/news/2023-04-19-beatmap-spotlights-season-9-spring-2023-nostalgia/1215016.jpg)
 
 **[The Flashbulb - The Bridgeport Run [Oni]](https://osu.ppy.sh/beatmapsets/1215016#taiko/3302085)**, mapped by ::Faputa::{ user=845733 }\
-*primarily suggested by ::\1Zeth\1::{ user=9912966 }*\
+*primarily suggested by ::[Zeth]::{ user=9912966 }*\
 *described by ::Nifty::{ user=4956097 }*
 
 The players kept it simple, nominating Faputa’s interpretation of The Flashbulb’s *The Bridgeport Run* \[Oni\] as their map of the season.
@@ -92,7 +92,7 @@ Known primarily for the variety present in the top difficulties, this map also i
 
 ![](/wiki/shared/news/2023-04-19-beatmap-spotlights-season-9-spring-2023-nostalgia/1828466.jpg)
 
-**[KAF x Hakushi Hasegawa - TSUBOMI ni KAMINARI [withered petals, blooming ink]](https://osu.ppy.sh/beatmapsets/1828466#taiko/3752713)**, mapped by ::\1Zeth\1::{ user=9912966 }, ::cdh::{ user=2403621 }, and ::MTNTWarz::{ user=14036825 }\
+**[KAF x Hakushi Hasegawa - TSUBOMI ni KAMINARI [withered petals, blooming ink]](https://osu.ppy.sh/beatmapsets/1828466#taiko/3752713)**, mapped by ::[Zeth]::{ user=9912966 }, ::cdh::{ user=2403621 }, and ::MTNTWarz::{ user=14036825 }\
 *primarily suggested by ::Hivie::{ user=14102976 }*\
 *described by ::Nifty::{ user=4956097 }*
 
@@ -124,7 +124,7 @@ Personally, we'd recommend playing this map with Double Time, if you're looking 
 
 ![](/wiki/shared/news/2023-04-19-beatmap-spotlights-season-9-spring-2023-nostalgia/1774562.jpg)
 
-**[kanemiko - Electrolytes (Unlucky_w) [Deluge]](https://osu.ppy.sh/beatmapsets/1774562#fruits/3633671)**, mapped by ::Unlucky\1w::{ user=4820793 }\
+**[kanemiko - Electrolytes (Unlucky_w) [Deluge]](https://osu.ppy.sh/beatmapsets/1774562#fruits/3633671)**, mapped by ::Unlucky_w::{ user=4820793 }\
 *primarily suggested by ::WadBot::{ user=14571181 }*\
 *described by ::wwwww::{ user=8434466 }*
 
@@ -150,7 +150,7 @@ There is, however, one big flaw about Ryuuseigun, which is its criminally low pl
 
 ![](/wiki/shared/news/2023-04-19-beatmap-spotlights-season-9-spring-2023-nostalgia/1721944.jpg)
 
-**[ReeK - Multigenre Smackdown [[4K] TESTESTESTESTESTESTESTESTEST]](https://osu.ppy.sh/beatmapsets/1721944#mania/3519359)**, mapped by ::\1Crz\1hinako1804::{ user=13747903 }\
+**[ReeK - Multigenre Smackdown [[4K] TESTESTESTESTESTESTESTESTEST]](https://osu.ppy.sh/beatmapsets/1721944#mania/3519359)**, mapped by ::[Crz]hinako1804::{ user=13747903 }\
 *primarily suggested by ::Kibitz::{ user=7418493 }*\
 *described by ::Maxus::{ user=4335785 }*
 
@@ -198,7 +198,7 @@ We will also say farewell to some, so let's thank them for their long-lasting ef
 **Curator resignations:**
 
 - **osu!**: ::Omgforz::{ user=578943 }
-- **osu!taiko**: ::\1Zeth\1::{ user=9912966 }
+- **osu!taiko**: ::[Zeth]::{ user=9912966 }
 - **osu!mania**: ::Kibitz::{ user=7418493 }, ::lenpai::{ user=5314573 }
 
 For the full Spotlights Team members list, check out the [Beatmap Spotlight Curators wiki article](/wiki/People/The_Team/Beatmap_Spotlight_Curators).

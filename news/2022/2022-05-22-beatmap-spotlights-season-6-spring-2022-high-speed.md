@@ -117,7 +117,7 @@ Maybe that was spooky enough after all.
 
 #### Curators' Pick
 
-[Camellia - dreamless wanderer [flying in the void of deep-dream]](https://osu.ppy.sh/beatmapsets/1580929#mania/3228051), mapped by ::paradoxus\1::{ user=11185275 }\
+[Camellia - dreamless wanderer [flying in the void of deep-dream]](https://osu.ppy.sh/beatmapsets/1580929#mania/3228051), mapped by ::paradoxus_::{ user=11185275 }\
 *described and primarily suggested by ::lenpai::{ user=5314573 }*
 
 Rarely do we come across a map that provides bold concepts with nuanced gameplay elements to the table.
@@ -129,7 +129,7 @@ I definitely see this chart setting the groundwork for more expressive charting 
 #### Players' Pick
 
 [Camellia - #1f1e33 [Future]](https://osu.ppy.sh/beatmapsets/1184620#mania/2485263), mapped by ::Murumoo::{ user=8001433 }\
-*described and primarily suggested by ::\1 Decku \1::{ user=13360768 }*
+*described and primarily suggested by ::[ Decku ]::{ user=13360768 }*
 
 This spectacle of a map *#1f1e33* mapped by Murumoo really has a lot of extraordinary concepts and representations, but the Future diff is a must-play for people who enjoy comfortable gameplay, which is everyone!
 
@@ -161,7 +161,7 @@ This season, we will say farewell to some of our members as well as welcome some
 
 - **osu!**: ::Ryuusei Aika::{ user=7777875 }
 - **osu!taiko**: ::Arrival::{ user=1694000 }, ::Nardoxyribonucleic::{ user=876419 }
-- **osu!catch**: ::Snowless::{ user=4316266 }, ::x\1angelkawaii\1x::{ user=566276 }
+- **osu!catch**: ::Snowless::{ user=4316266 }, ::x_angelkawaii_x::{ user=566276 }
 - **osu!mania**: ::\[ Decku \]::{ user=13360768 }, ::BringoBrango::{ user=10274043 },  ::Kaito-kun::{ user=4715184 }
 
 ::Hydria::{ user=808176 } will also be stepping away as the osu!mania curators' team leader after almost two years of service, while CrumpetFiddler will be the one to ensure things go smooth on the mania side from now on.

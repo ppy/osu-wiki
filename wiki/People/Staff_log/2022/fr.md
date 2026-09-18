@@ -22,7 +22,7 @@ Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont le
 
 - 11/01/2022 : Ajout de ::Nifty::{ user=4956097 } : **BN**
 - 18/01/2022 : Ajout de ::Maxus::{ user=4335785 } : **BN probatoire**
-- 24/01/2022 : Ajout de ::\1RT\1Alleyne::{ user=11279273 } : **BN probatoire**
+- 24/01/2022 : Ajout de ::[RT]Alleyne::{ user=11279273 } : **BN probatoire**
 - 30/01/2022 : Ajout de ::Len::{ user=1686145 } : **BN probatoire**
 
 #### Transferts
@@ -79,7 +79,7 @@ Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont le
 
 - 01/02/2022 : Retrait de ::GIGACHAD::{ user=11081858 } : **BN**
 - 02/02/2022 : Retrait de ::Kawawa::{ user=4647754 } : **BN**
-- 03/02/2022 : Retrait de ::Geo\1ooo::{ user=12013943 } : **BN probatoire**
+- 03/02/2022 : Retrait de ::Geo_ooo::{ user=12013943 } : **BN probatoire**
 - 03/02/2022 : Retrait de ::Lacrima::{ user=4915649 } : **BN probatoire**
 - 03/02/2022 : Retrait de ::Daletto::{ user=7592136 } : **BN**
 - 12/02/2022 : Retrait de ::duski::{ user=6506484 } : **BN**
@@ -128,7 +128,7 @@ Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont le
 
 - 01/03/2022 : Transfert de ::Luscent::{ user=2688581 } : **BN probatoire** > **BN**
 - 08/03/2022 : Transfert de ::Maxus::{ user=4335785 } : **BN probatoire** > **BN**
-- 12/03/2022 : Transfert de ::\1RT\1Alleyne::{ user=11279273 } : **BN probatoire** > **BN**
+- 12/03/2022 : Transfert de ::[RT]Alleyne::{ user=11279273 } : **BN probatoire** > **BN**
 - 24/03/2022 : Transfert de ::tadahitotsu::{ user=11653544 } : **BN probatoire** > **BN**
 - 28/03/2022 : Transfert de ::Yogurtt::{ user=2649717 } : **BN** > **BN probatoire**
 - 28/03/2022 : Transfert de ::Sonnyc::{ user=11771 } : **BN** > **BN probatoire**
@@ -165,7 +165,7 @@ Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont le
 - 03/04/2022 : Ajout de ::Konpaku Sariel::{ user=533502 } : **BN probatoire**
 - 09/04/2022 : Ajout de ::FLeVI::{ user=12519616 } : **BN probatoire**
 - 10/04/2022 : Ajout de ::neonat::{ user=1561995 } : **BN probatoire**
-- 15/04/2022 : Ajout de ::Kim\1GodSSI::{ user=2218047 } : **BN probatoire**
+- 15/04/2022 : Ajout de ::Kim_GodSSI::{ user=2218047 } : **BN probatoire**
 - 18/04/2022 : Ajout de ::Toofu::{ user=11004271 } : **BN probatoire**
 - 21/04/2022 : Ajout de ::Amiichii::{ user=9228569 } : **BN probatoire**
 - 24/04/2022 : Ajout de ::Drum-Hitnormal::{ user=748722 } : **BN probatoire**
@@ -194,14 +194,14 @@ Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont le
 - 02/04/2022 : Retrait de ::Firika::{ user=9590557 } : **BN**
 - 02/04/2022 : Retrait de ::Stixy::{ user=9000308 } : **BN**
 - 02/04/2022 : Retrait de ::StarCastler::{ user=12402453 } : **BN**
-- 03/04/2022 : Retrait de ::x\1angelkawaii\1x::{ user=566276 } : **BN**
+- 03/04/2022 : Retrait de ::x_angelkawaii_x::{ user=566276 } : **BN**
 - 03/04/2022 : Retrait de ::Basensorex::{ user=11655886 } : **BN probatoire**
 - 09/04/2022 : Retrait de ::Lita-::{ user=15205070 } : **BN**
 - 10/04/2022 : Retrait de ::Mniam::{ user=6050530 } : **BN**
 - 13/04/2022 : Retrait de ::Maxus::{ user=4335785 } : **BN**
 - 13/04/2022 : Retrait de ::Souvenir::{ user=14057792 } : **BN**
 - 21/04/2022 : Retrait de ::Burak::{ user=13213075 } : **BN probatoire**
-- 21/04/2022 : Retrait de ::\1 Decku \1::{ user=13360768 } : **BN**
+- 21/04/2022 : Retrait de ::[ Decku ]::{ user=13360768 } : **BN**
 - 21/04/2022 : Retrait de ::Akito::{ user=5716327 } : **BN**
 - 24/04/2022 : Retrait de ::Logic Agent::{ user=6341262 } : **BN**
 
@@ -223,20 +223,20 @@ Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont le
 
 - 02/05/2022 : Ajout de ::Antti::{ user=13281473 } : **BN probatoire**
 - 02/05/2022 : Ajout de ::Kotoha::{ user=7823498 } : **BN**
-- 02/05/2022 : Ajout de ::\1 Decku \1::{ user=13360768 } : **BN**
-- 10/05/2022 : Ajout de ::Critical\1Star::{ user=3793196 } : **BN probatoire**
+- 02/05/2022 : Ajout de ::[ Decku ]::{ user=13360768 } : **BN**
+- 10/05/2022 : Ajout de ::Critical_Star::{ user=3793196 } : **BN probatoire**
 - 10/05/2022 : Ajout de ::Myxo::{ user=2202645 } : **BN probatoire**
-- 12/05/2022 : Ajout de ::\1Sick\1Catcat::{ user=16320311 } : **BN probatoire**
+- 12/05/2022 : Ajout de ::[Sick]Catcat::{ user=16320311 } : **BN probatoire**
 - 12/05/2022 : Ajout de ::Surono::{ user=11544934 } : **BN probatoire**
 - 12/05/2022 : Ajout de ::pupu5::{ user=3611370 } : **BN probatoire**
 - 12/05/2022 : Ajout de ::Pumi::{ user=7140680 } : **BN probatoire**
 - 12/05/2022 : Ajout de ::Eriha::{ user=17853754 } : **BN probatoire**
 - 15/05/2022 : Ajout de ::FAMoss::{ user=7707789 } : **BN probatoire**
-- 15/05/2022 : Ajout de ::\1Rokii::{ user=12770065 } : **BN probatoire**
+- 15/05/2022 : Ajout de ::_Rokii::{ user=12770065 } : **BN probatoire**
 - 18/05/2022 : Ajout de ::ZiRoX::{ user=200768 } : **BN probatoire**
 - 20/05/2022 : Ajout de ::Mocaotic::{ user=9487458 } : **BN probatoire**
 - 23/05/2022 : Ajout de ::AirinCat::{ user=11119539 } : **BN**
-- 25/05/2022 : Ajout de ::Rivals\17::{ user=4610379 } : **BN probatoire**
+- 25/05/2022 : Ajout de ::Rivals_7::{ user=4610379 } : **BN probatoire**
 - 27/05/2022 : Ajout de ::Syrion-::{ user=15380643 } : **BN probatoire**
 - 28/05/2022 : Ajout de ::KeyWee::{ user=10476879 } : **BN probatoire**
 
@@ -249,7 +249,7 @@ Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont le
 - 12/05/2022 : Transfert de ::Didah::{ user=8030129 } : **BN** > **BN probatoire**
 - 12/05/2022 : Transfert de ::Axer::{ user=7299864 } : **BN probatoire** > **BN**
 - 13/05/2022 : Transfert de ::FleVI::{ user=12519616 } : **BN probatoire** > **BN**
-- 19/05/2022 : Transfert de ::Kim\1GodSSI::{ user=2218047 } : **BN probatoire** > **BN**
+- 19/05/2022 : Transfert de ::Kim_GodSSI::{ user=2218047 } : **BN probatoire** > **BN**
 - 23/05/2022 : Transfert de ::tomatas95::{ user=11403815 } : **BN probatoire** > **BN**
 - 23/05/2022 : Transfert de ::-Syncro::{ user=4338923 } : **BN probatoire** > **BN**
 - 24/05/2022 : Transfert de ::Mokobe::{ user=10374819 } : **BN probatoire** > **BN**
@@ -291,18 +291,18 @@ Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont le
 - 01/06/2022 : Transfert de ::Toofu::{ user=11004271 } : **BN probatoire** > **BN**
 - 05/06/2022 : Transfert de ::neonat::{ user=1561995 } : **BN probatoire** > **BN**
 - 10/06/2022 : Transfert de ::Esutarosa::{ user=12024753 } : **BN probatoire** > **BN**
-- 12/06/2022 : Transfert de ::Critical\1Star::{ user=3793196 } : **BN probatoire** > **BN**
+- 12/06/2022 : Transfert de ::Critical_Star::{ user=3793196 } : **BN probatoire** > **BN**
 - 15/06/2022 : Transfert de ::Antti::{ user=13281473 } : **BN probatoire** > **BN**
 - 15/06/2022 : Transfert de ::Gabdu09::{ user=8852605 } : **BN probatoire** > **BN**
-- 18/06/2022 : Transfert de ::\1Rokii::{ user=12770065 } : **BN probatoire** > **BN**
+- 18/06/2022 : Transfert de ::_Rokii::{ user=12770065 } : **BN probatoire** > **BN**
 - 18/06/2022 : Transfert de ::FAMoss::{ user=7707789 } : **BN probatoire** > **BN**
-- 27/06/2022 : Transfert de ::\1Sick\1Catcat::{ user=11544934 } : **BN probatoire** > **BN**
+- 27/06/2022 : Transfert de ::[Sick]Catcat::{ user=11544934 } : **BN probatoire** > **BN**
 - 28/06/2022 : Transfert de ::Eriha::{ user=16320311 } : **BN probatoire** > **BN**
 - 28/06/2022 : Transfert de ::pupu5::{ user=7140680 } : **BN probatoire** > **BN**
 - 29/06/2022 : Transfert de ::Myxo::{ user=2202645 } : **BN probatoire** > **BN**
 - 29/06/2022 : Transfert de ::Didah::{ user=8030129 } : **BN probatoire** > **BN**
 - 30/06/2022 : Transfert de ::Syrion-::{ user=15380643 } : **BN probatoire** > **BN**
-- 30/06/2022 : Transfert de ::Rivals\17::{ user=4610379 } : **BN probatoire** > **BN**
+- 30/06/2022 : Transfert de ::Rivals_7::{ user=4610379 } : **BN probatoire** > **BN**
 
 #### Retraits
 
@@ -529,9 +529,9 @@ Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont le
 - 02/11/2022 : Ajout de ::ChillierPear::{ user=9501251 } : **Beatmap Spotlight Curators**
 - 02/11/2022 : Ajout de ::Axer::{ user=7299864 } : **Beatmap Spotlight Curators**
 - 02/11/2022 : Ajout de ::Antalf::{ user=8793773 } : **Beatmap Spotlight Curators**
-- 02/11/2022 : Ajout de ::\1Zeth\1::{ user=9912966 } : **Beatmap Spotlight Curators**
+- 02/11/2022 : Ajout de ::[Zeth]::{ user=9912966 } : **Beatmap Spotlight Curators**
 - 08/11/2022 : Ajout de ::Mipha-::{ user=5767941 } : **Project Loved Team**
-- 08/11/2022 : Ajout de ::\1Crz\1hinako1804::{ user=13747903 } : **Project Loved Team**
+- 08/11/2022 : Ajout de ::[Crz]hinako1804::{ user=13747903 } : **Project Loved Team**
 - 08/11/2022 : Ajout de ::Dusk-::{ user=6092181 } : **NAT**
 - 08/11/2022 : Ajout de ::Hivie::{ user=14102976 } : **NAT**
 - 13/11/2022 : Ajout de ::Remuring::{ user=6522146 } : **Project Loved Team**

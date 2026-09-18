@@ -63,7 +63,7 @@ The Taiko World Cup 2014 was run by various community members.
 | ::{ flag=DE }:: | **Germany** | **::Luna::{ user=588007 }**, ::\[TaikoTori\]::{ user=1074143 }, ::BrokenArrow::{ user=384034 }, ::DarkDunskin::{ user=98985 }, ::Mew104::{ user=2345156 }, ::tiamus::{ user=515277 } |
 | ::{ flag=HK }:: | **Hong Kong** | **::thomas1195::{ user=1691488 }**, ::\[yuyuko\_Saigyouj\]::{ user=1378994 }, ::aabc271::{ user=155707 }, ::Andrew Chow::{ user=3043041 }, ::ice man007::{ user=1926937 }, ::Jikson\[m9\]::{ user=1485257 } |
 | ::{ flag=JP }:: | **Japan** | **::TKSalt::{ user=940878 }**, ::azger::{ user=2335982 }, ::NeGaTiVeMinD::{ user=965038 }, ::Orukaa::{ user=987895 }, ::pagr42::{ user=1500725 }, ::sobatsuyu100::{ user=2076374 } |
-| ::{ flag=MY }:: | **Malaysia** | **::taiko\1maniac1811::{ user=595764 }**, ::buhzidao::{ user=1655126 }, ::cdhsausageboy::{ user=2403621 }, ::HeatKai::{ user=332555 }, ::huiko12::{ user=598553 }, ::Jerry::{ user=605973 } |
+| ::{ flag=MY }:: | **Malaysia** | **::taiko_maniac1811::{ user=595764 }**, ::buhzidao::{ user=1655126 }, ::cdhsausageboy::{ user=2403621 }, ::HeatKai::{ user=332555 }, ::huiko12::{ user=598553 }, ::Jerry::{ user=605973 } |
 | ::{ flag=PH }:: | **Philippines** | **::Primrea::{ user=943743 }**, ::Kotaro::{ user=796530 }, ::Pizzicato::{ user=692610 }, ::senkai::{ user=1150178 } |
 | ::{ flag=PL }:: | **Poland** | **::Acrith::{ user=389880 }**, ::DarkStoorM::{ user=174347 }, ::IsonamiPL::{ user=1753234 }, ::Minkodon::{ user=1385227 }, ::LZMieczu::{ user=1797498 }, ::Sylwia132::{ user=2037319 } |
 | ::{ flag=RU }:: | **Russian Federation** | **::MarisaLover::{ user=1359539 }**, ::Livius777::{ user=1282662 }, ::magax::{ user=918645 } |

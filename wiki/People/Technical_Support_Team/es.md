@@ -32,4 +32,4 @@ La [página del grupo Technical Support Team](https://osu.ppy.sh/groups/22) enum
 | ::{ flag=KR }:: ::Civil oath::{ user=3216107 } | Coreano, japonés |
 | ::{ flag=DE }:: ::Lyawi::{ user=5851253 } | Alemán |
 | ::{ flag=PH }:: ::Nathanael::{ user=2295078 } | Filipino |
-| ::{ flag=PL }:: ::spaceman\1atlas::{ user=3035836 } | Polaco |
+| ::{ flag=PL }:: ::spaceman_atlas::{ user=3035836 } | Polaco |

@@ -55,7 +55,7 @@ The charts have previously been created by letting volunteers alongside the Qual
 - [u's - Snow halation (TV Size)](https://osu.ppy.sh/beatmapsets/235098) by ::DJPop::{ user=2363 }
 - [Yooh - snow storm -euphoria-](https://osu.ppy.sh/beatmapsets/300599) by ::Raediaufar::{ user=5156086 }
 - [Ti7 - Love Maker](https://osu.ppy.sh/beatmapsets/382365) by ::DJPop::{ user=2363 }
-- [Kugimiya Rie & Kitamura Eri - Holy Night](https://osu.ppy.sh/beatmapsets/236553) by ::\1Emiria\1::{ user=2046044 }
+- [Kugimiya Rie & Kitamura Eri - Holy Night](https://osu.ppy.sh/beatmapsets/236553) by ::[Emiria]::{ user=2046044 }
 - [Qrispy Joybox - snow prism](https://osu.ppy.sh/beatmapsets/186096) by ::LNP-::{ user=4402842 }
 
 **The Winter 2016 themed charts  will end on the 31st January 2017.**

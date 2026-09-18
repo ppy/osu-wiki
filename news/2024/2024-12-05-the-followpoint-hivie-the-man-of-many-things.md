@@ -219,7 +219,7 @@ If you had to choose the best osu!taiko beatmap (in your opinion), which one wou
 It's pretty hard to label a single beatmap as the best, so I'll just shout out a couple of maps that I always praise whenever I get the chance:
 
 - [Camellia - Looking for Edge of Ground](https://osu.ppy.sh/beatmapsets/1678197#taiko/3428627) by ::Genjuro::{ user=3196091 }, one of my most favourite Camellia songs paired by a map that *perfectly* compliments every detail in the song. The SV usage is prominent yet elegant, the patterning is top-notch, and overall there's nothing that could've been done better with the map.
-- [Madobe Rika - Panda Hero](https://osu.ppy.sh/beatmapsets/1832848#taiko/3762478) by ::\1Rise::{ user=5217107 }, winner of the [Mapping to Pander: Taiko #1](https://osu.ppy.sh/community/forums/topics/1624880?n=1) contest. A very energetic map and song, some intense SVs with fun tech-y patterns — what more can you ask for! My most favourite part would be the stream on 02:58:685. It's idea is so simple yet so perfectly effective.
+- [Madobe Rika - Panda Hero](https://osu.ppy.sh/beatmapsets/1832848#taiko/3762478) by ::_Rise::{ user=5217107 }, winner of the [Mapping to Pander: Taiko #1](https://osu.ppy.sh/community/forums/topics/1624880?n=1) contest. A very energetic map and song, some intense SVs with fun tech-y patterns — what more can you ask for! My most favourite part would be the stream on 02:58:685. It's idea is so simple yet so perfectly effective.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 

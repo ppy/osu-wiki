@@ -26,7 +26,7 @@ It should be no surprise that **Hino Isuka**'s style lends flawlessly to the hig
 Play through any of these awesome maps:
 
 - [Loved osu! map](https://osu.ppy.sh/beatmapsets/450340) hosted by ::elchxyrlia::{ user=1722835 } from the video above
-- [Loved osu!taiko map](https://osu.ppy.sh/beatmapsets/576641) hosted by ::asuasu\1yura::{ user=2875968 }
+- [Loved osu!taiko map](https://osu.ppy.sh/beatmapsets/576641) hosted by ::asuasu_yura::{ user=2875968 }
 - [Ranked osu!catch map](https://osu.ppy.sh/beatmapsets/1404850) hosted by ::Jemzuu::{ user=7890134 }
 - [Loved osu!mania map](https://osu.ppy.sh/beatmapsets/517221) hosted by ::qodtjr::{ user=3021168 }
 
@@ -38,7 +38,7 @@ Play through any of these awesome maps:
 
 The osu!mania community *really* likes this song. Try out any of these maps:
 
-- [Ranked osu!mania map](https://osu.ppy.sh/beatmapsets/1032511) hosted by ::\1Kobii::{ user=6209713 }
+- [Ranked osu!mania map](https://osu.ppy.sh/beatmapsets/1032511) hosted by ::_Kobii::{ user=6209713 }
 - [Loved osu!mania map](https://osu.ppy.sh/beatmapsets/1099229) hosted by ::HowToPlayLN::{ user=10879600 }
 - [About-to-be-ranked osu!mania map](https://osu.ppy.sh/beatmapsets/1046607) hosted by ::DoNotMess::{ user=1596318 }
 

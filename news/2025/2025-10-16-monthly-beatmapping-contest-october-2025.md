@@ -42,7 +42,7 @@ This article covers results from the last contest, plus criteria for this contes
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/iQnp29rbNeg" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Give some appreciation to this contest's judges: ::arcpotato::{ user=12842392 }, ::Yasuho::{ user=8458835 }, ::\1gt::{ user=8301957 }, and ::ulko::{ user=1263669 }!
+Give some appreciation to this contest's judges: ::arcpotato::{ user=12842392 }, ::Yasuho::{ user=8458835 }, ::_gt::{ user=8301957 }, and ::ulko::{ user=1263669 }!
 
 ### osu!catch results
 
@@ -52,7 +52,7 @@ Give some appreciation to this contest's judges: ::arcpotato::{ user=12842392 },
 
 | Placement | Users | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| Winner | ::Unlucky\1w::{ user=4820793 } | [NIWASHI - Playing with Ruby](https://osu.ppy.sh/beatmapsets/2448165) | - | +2 (11 total) |
+| Winner | ::Unlucky_w::{ user=4820793 } | [NIWASHI - Playing with Ruby](https://osu.ppy.sh/beatmapsets/2448165) | - | +2 (11 total) |
 | Runner-up | ::Spectator::{ user=702598 } | [rae - UNABLE](https://osu.ppy.sh/beatmapsets/2448206) | - | +1 (1 total) |
 
 A certain someone is curious what happens when you reach double the [contest point](/wiki/Contests/Contest_points) threshold for achieving the *Elite Mapper* title. We might have the answer fairly soon...

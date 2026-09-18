@@ -48,7 +48,7 @@ You can find more information on these mentors in their [detailed overview](http
 | ::{ flag=CN }:: ::Carpihat::{ user=10085090 } | UTC+1 |
 | ::{ flag=RU }:: ::Kurisu Makise::{ user=2790640 } | UTC+3 |
 | ::{ flag=ID }:: ::Syrion-::{ user=15380643 } | UTC+7 |
-| ::{ flag=CN }:: ::\1GB\1R\-Trigger::{ user=25308131 } | UTC+8 |
+| ::{ flag=CN }:: ::[GB]R\-Trigger::{ user=25308131 } | UTC+8 |
 
 You can find more information on these mentors in their [detailed overview](https://docs.google.com/spreadsheets/d/1g2KhhmBqiqNAe2I2PJPicaSFtWPQ5sScRluC9oQzFGg/edit) and apply to them [through this form](https://docs.google.com/forms/d/e/1FAIpQLSeVdfghHjpjOiGJ1rw167rOsuAczWgub0sYYX_wYCP1_kwrTw/viewform).
 

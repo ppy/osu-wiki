@@ -52,7 +52,7 @@ Or maybe challenge yourself with [this osu!taiko map](https://osu.ppy.sh/beatmap
 Experience what a **katagiri** bootleg sounds like through any of these popular unranked maps:
 
 - [osu! map](https://osu.ppy.sh/beatmapsets/1232969) hosted by ::emilia::{ user=2003326 }
-- [osu!taiko map](https://osu.ppy.sh/beatmapsets/924902) hosted by ::7\17::{ user=7491106 }
+- [osu!taiko map](https://osu.ppy.sh/beatmapsets/924902) hosted by ::7_7::{ user=7491106 }
 - [osu!mania map](https://osu.ppy.sh/beatmapsets/952432) hosted by ::NikoSek::{ user=4088977 }
 
 <audio controls>

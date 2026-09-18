@@ -68,7 +68,7 @@ The osu! Philippines Nationals 2022 - osu!catch was run by various community mem
 - ::{ flag=PH }:: ::Kyonkichi::{ user=7585544 }
 - ::{ flag=PH }:: ::Puro and Colin::{ user=14391949 }
 - ::{ flag=PH }:: ::-HyperDream::{ user=12410693 }
-- ::{ flag=PH }:: ::slvn\1pedro::{ user=11614862 }
+- ::{ flag=PH }:: ::slvn_pedro::{ user=11614862 }
 - ::{ flag=PH }:: ::Kuroiden::{ user=16855004 }
 
 ## Podium

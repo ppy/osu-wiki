@@ -109,7 +109,7 @@
 - Перемещение ::Sync::{ user=806921 } из Beatmap Appreciation Team в osu! Alumni (2013-06-09) <!-- https://osu.ppy.sh/community/forums/posts/2355546 -->
 - Перемещение ::Pokie::{ user=207340 } из Beatmap Appreciation Team в osu! Alumni (2013-06-20) <!-- https://osu.ppy.sh/community/forums/posts/2380009 -->
 - Добавление ::dkun::{ user=154400 } в Beatmap Appreciation Team (2013-06-29) <!-- https://osu.ppy.sh/community/forums/topics/83704 -->
-- Добавление ::Azure\1Kyte::{ user=66296 } в Beatmap Appreciation Team (2013-06-29) <!-- https://osu.ppy.sh/community/forums/posts/2397130 assuming BAT because ex-MAT and receives "welcome back" -->
+- Добавление ::Azure_Kyte::{ user=66296 } в Beatmap Appreciation Team (2013-06-29) <!-- https://osu.ppy.sh/community/forums/posts/2397130 assuming BAT because ex-MAT and receives "welcome back" -->
 - Перемещение ::Breeze::{ user=77537 } из osu! Alumni в Global Moderation Team (2013-06-29) <!-- https://osu.ppy.sh/community/forums/posts/2397145 -->
 - Добавление ::Elly-chan::{ user=660622 } в Global Moderation Team (2013-06-29) <!-- https://osu.ppy.sh/community/forums/posts/2397398 -->
 
@@ -222,7 +222,7 @@
 - Исключение ::Kokatsu::{ user=1019859 } из Beatmap Appreciation Team (2013-11-10) <!-- https://osu.ppy.sh/community/forums/posts/2677189 -->
 - Добавление ::Winshley::{ user=864895 } в Chat Moderators (2013-11-16) <!-- https://osu.ppy.sh/community/forums/posts/2688074 -->
 - Добавление ::UnderminE::{ user=444223 } в Chat Moderators (2013-11-16)
-- Добавление ::Evil\1Twilight::{ user=409347 } в Chat Moderators (2013-11-16) <!-- https://osu.ppy.sh/community/forums/posts/2689319 -->
+- Добавление ::Evil_Twilight::{ user=409347 } в Chat Moderators (2013-11-16) <!-- https://osu.ppy.sh/community/forums/posts/2689319 -->
 - Перемещение ::Leader::{ user=631530 } из Chat Moderators в Global Moderation Team (2013-11-16)
 - Перемещение ::Osu Tatakae Ouendan::{ user=594210 } из Chat Moderators в Global Moderation Team (2013-11-16)
 - Перемещение ::Mr Color::{ user=116078 } из Chat Moderators в Global Moderation Team (2013-11-16)

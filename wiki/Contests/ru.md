@@ -80,7 +80,7 @@
 | :-: | :-- | :-- | :-- | :-- |
 | [#1](/wiki/Contests/o!tFAC/1) | ::{ flag=KR }:: ::woosungko::{ user=14184157 } | ::{ flag=TH }:: ::Ph0eNiiXZ::{ user=9463721 } | ::{ flag=IT }:: ::D3kuu::{ user=7807444 } | [#1](https://osu.ppy.sh/community/forums/topics/1520800) |
 | [#2](/wiki/Contests/o!tFAC/2) | ::{ flag=AR }:: ::KyeX::{ user=15118934 } | ::{ flag=KR }:: ::woosungko::{ user=14184157 } | ::{ flag=FI }:: ::duski::{ user=6506484 } | [#1](https://osu.ppy.sh/community/forums/topics/1588200) |
-| [#3](/wiki/Contests/o!tFAC/3) | **Code:Red** (::{ flag=TH }:: ::Ph0eNiiXZ::{ user=9463721 }, ::{ flag=TH }:: ::Kusuhara Yui::{ user=9582525 }) | **?XD** (::{ flag=SG }:: ::arcpotato::{ user=12842392 }, ::{ flag=SG }:: ::\1gt::{ user=8301957 }) | **:3** (::{ flag=KR }:: ::woosungko::{ user=14184157 }, ::{ flag=GB }:: ::Horiiizon::{ user=8071438 }) | [#1](https://osu.ppy.sh/home/news/2022-12-26-results-osu!taiko-featured-artist-cup-3) |
+| [#3](/wiki/Contests/o!tFAC/3) | **Code:Red** (::{ flag=TH }:: ::Ph0eNiiXZ::{ user=9463721 }, ::{ flag=TH }:: ::Kusuhara Yui::{ user=9582525 }) | **?XD** (::{ flag=SG }:: ::arcpotato::{ user=12842392 }, ::{ flag=SG }:: ::_gt::{ user=8301957 }) | **:3** (::{ flag=KR }:: ::woosungko::{ user=14184157 }, ::{ flag=GB }:: ::Horiiizon::{ user=8071438 }) | [#1](https://osu.ppy.sh/home/news/2022-12-26-results-osu!taiko-featured-artist-cup-3) |
 
 ### [osu! Mapping Olympiad](Mapping_Olympiad)
 
@@ -250,7 +250,7 @@
 | Номер конкурса | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Результаты |
 | :-: | :-- | :-- | :-- | :-- |
 | [#1](/wiki/Contests/Skinning_Contest/1) | [FREEDOM DiVE↓](https://osu.ppy.sh/community/forums/topics/1293207) от ::{ flag=US }:: ::BTMC::{ user=3171691 } | [Minimalist 2.0](https://osu.ppy.sh/community/forums/topics/1286223) от ::{ flag=EE }:: ::Krizto::{ user=13474556 } | [notMiku](https://osu.ppy.sh/community/forums/topics/1292954) от ::{ flag=RU }:: ::NikStrim::{ user=10577559 } | [#1](https://osu.ppy.sh/home/news/2021-05-27-skinning-contest-results) |
-| [#2](/wiki/Contests/Skinning_Contest/2) | [- 『Wintherest』 -](https://osu.ppy.sh/community/forums/topics/1498493) от ::{ flag=PL }:: ::Redo\1::{ user=7122165 } | [GanyuTeks:Futur Céleste](https://osu.ppy.sh/community/forums/topics/1489926) от ::{ flag=PH }:: ::BPChingu::{ user=4236855 } | [Azure Snowfall](https://osu.ppy.sh/community/forums/topics/1498492) от ::{ flag=BY }:: ::thetasigma::{ user=6234482 } | [#1](https://osu.ppy.sh/home/news/2022-02-25-skinning-contest-tides-of-winter-results) |
+| [#2](/wiki/Contests/Skinning_Contest/2) | [- 『Wintherest』 -](https://osu.ppy.sh/community/forums/topics/1498493) от ::{ flag=PL }:: ::Redo_::{ user=7122165 } | [GanyuTeks:Futur Céleste](https://osu.ppy.sh/community/forums/topics/1489926) от ::{ flag=PH }:: ::BPChingu::{ user=4236855 } | [Azure Snowfall](https://osu.ppy.sh/community/forums/topics/1498492) от ::{ flag=BY }:: ::thetasigma::{ user=6234482 } | [#1](https://osu.ppy.sh/home/news/2022-02-25-skinning-contest-tides-of-winter-results) |
 | [#3](/wiki/Contests/Skinning_Contest/3) | [霜滅 SOUMETSU](https://osu.ppy.sh/community/forums/topics/1628514) от ::{ flag=BY }:: ::thetasigma::{ user=6234482 } | [Ralsei Dark](https://osu.ppy.sh/community/forums/topics/1629393) от ::{ flag=FR }:: ::Corne2Plum3::{ user=15646039 } | [sour_grapes](https://osu.ppy.sh/community/forums/topics/1626950) от ::{ flag=VN }:: ::koomo::{ user=2168518 } | [#1](https://osu.ppy.sh/home/news/2022-10-20-skinning-contest-chromatic-alteration-results) |
 | [#4](/wiki/Contests/Skinning_Contest/4) | [FOOL MOON NIGHT](https://osu.ppy.sh/community/forums/topics/1775136) от ::{ flag=US }:: ::Spoo::{ user=11805037 } | [Everlasting Moment](https://osu.ppy.sh/community/forums/topics/1792308) от ::{ flag=US }:: ::Chromasia::{ user=7306251 } | [星塵 DIVIDE ÷ 8](https://osu.ppy.sh/community/forums/topics/1792739) от ::{ flag=BY }:: [thetasigma](https://osu.ppy.sh/community/forums/topics/1792739) | [#1](https://osu.ppy.sh/home/news/2023-08-10-skinning-contest-icons-of-an-era-results) |
 
@@ -284,7 +284,7 @@
 
 | Номер конкурса | Судья | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Результаты |
 | :-: | :-- | :-- | :-- | :-- | :-- |
-| [#1](https://osu.ppy.sh/community/forums/topics/1624880) | ::{ flag=NL }:: ::Boaz::{ user=13302996 } | ::{ flag=JP }:: ::\1Rise::{ user=5217107 } | ::{ flag=CL }:: ::Metsaller::{ user=4364791 } | ::{ flag=FI }:: ::Antti::{ user=13281473 } | [#1](https://docs.google.com/spreadsheets/d/1aR1GjF8diyjFhK_k_uOkU40zIKjaQbXhVbGDGmq5pdg/edit?usp=sharing) |
+| [#1](https://osu.ppy.sh/community/forums/topics/1624880) | ::{ flag=NL }:: ::Boaz::{ user=13302996 } | ::{ flag=JP }:: ::_Rise::{ user=5217107 } | ::{ flag=CL }:: ::Metsaller::{ user=4364791 } | ::{ flag=FI }:: ::Antti::{ user=13281473 } | [#1](https://docs.google.com/spreadsheets/d/1aR1GjF8diyjFhK_k_uOkU40zIKjaQbXhVbGDGmq5pdg/edit?usp=sharing) |
 | [#2](https://osu.ppy.sh/community/forums/topics/1639586) | ::{ flag=AR }:: ::Axer::{ user=7299864 } | ::{ flag=TH }:: ::Ph0eNiiXZ::{ user=9463721 } | ::{ flag=SG }:: ::\_gt::{ user=8301957 } | ::{ flag=US }:: ::Vixlowo::{ user=20295114 } | [#1](https://docs.google.com/spreadsheets/d/1ps3bOL2JlzwPEh0gVTLHnp7E48stwqHMH6-ljDSBJQs/edit?usp=sharing) |
 | [#3](https://osu.ppy.sh/community/forums/topics/1652502) | ::{ flag=US }:: ::radar::{ user=7131099 } | ::{ flag=DE }:: ::Zetera::{ user=587737 } | ::{ flag=FI }:: ::Antti::{ user=13281473 } | ::{ flag=NL }:: ::Boaz::{ user=13302996 }, ::{ flag=TH }:: ::Ph0eNiiXZ::{ user=9463721 } | [#1](https://docs.google.com/spreadsheets/d/1UXvS2ZdlRHOj8mltCX8LtluQwXrcXZ_B8D02LIdcJoc/edit?usp=sharing) |
 | [#4](https://osu.ppy.sh/community/forums/topics/1704114) | ::{ flag=HK }:: ::Cynplytholowazy::{ user=3901754 } | ::{ flag=AR }:: ::paz08::{ user=9964420 } | ::{ flag=HK }:: ::Irone OSU::{ user=10678230 } | ::{ flag=GB }:: ::Dusk-::{ user=6092181 } | [#1](https://docs.google.com/spreadsheets/d/1zywwZ1hTqM0ctSVbfixOX-5s4-ez8E2Hg82nmSznY80/edit?usp=sharing) |
@@ -315,7 +315,7 @@
 
 | Номер конкурса | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Результаты |
 | :-: | :-- | :-- | :-- | :-- |
-| [#1](/wiki/Contests/SVS/1) | ::{ flag=NL }:: ::Cookie\1Tree::{ user=502722 } | ::{ flag=MY }:: ::\[Zeth\]::{ user=9912966 } | ::{ flag=JP }:: ::Grape\1Tea::{ user=9540073 } | [#1](https://osu.ppy.sh/community/forums/topics/1361851) |
+| [#1](/wiki/Contests/SVS/1) | ::{ flag=NL }:: ::Cookie_Tree::{ user=502722 } | ::{ flag=MY }:: ::\[Zeth\]::{ user=9912966 } | ::{ flag=JP }:: ::Grape_Tea::{ user=9540073 } | [#1](https://osu.ppy.sh/community/forums/topics/1361851) |
 | [#2](/wiki/Contests/SVS/2) | ::{ flag=TW }:: ::katacheh::{ user=6651672 } | ::{ flag=SG }:: ::\_gt::{ user=8301957 } | ::{ flag=PH }:: ::Fynbi::{ user=2164993 } | [#1](https://osu.ppy.sh/community/forums/topics/1493798) |
 
 ### Pending Cup
@@ -503,7 +503,7 @@
 
 | Режим игры | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Результаты |
 | :-- | :-: | :-- | :-- | :-- |
-| ![osu!][osu!] | ::{ flag=CN }:: ::PEALEERD\1TAK::{ user=6214002 } | ::{ flag=CN }:: ::Mimosa M::{ user=24010320 } | ::{ flag=CN }:: ::YeLing::{ user=14726718 } | [#1](https://mappersguild.com/contests/results?contest=6834fbb0fc4f78a776326a8a) |
+| ![osu!][osu!] | ::{ flag=CN }:: ::PEALEERD_TAK::{ user=6214002 } | ::{ flag=CN }:: ::Mimosa M::{ user=24010320 } | ::{ flag=CN }:: ::YeLing::{ user=14726718 } | [#1](https://mappersguild.com/contests/results?contest=6834fbb0fc4f78a776326a8a) |
 
 ### Russian Community Beatmapping Contest
 

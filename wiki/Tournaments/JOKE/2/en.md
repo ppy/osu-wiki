@@ -64,13 +64,13 @@ tags:
 
 | Seed | Player |
 | :-- | :-- |
-| 1 | ::{ flag=DE }:: ::\1LS\1Punish::{ user=10615367 } |
+| 1 | ::{ flag=DE }:: ::[LS]Punish::{ user=10615367 } |
 | 2 | ::{ flag=BR }:: ::SillyFangirl::{ user=2288363 } |
 | 3 | ::{ flag=US }:: ::-Sparky-::{ user=3187959 } |
 | 4 | ::{ flag=VN }:: ::Lott::{ user=13821222 } |
 | 5 | ::{ flag=GB }:: ::Teezel::{ user=7528639 } |
 | 6 | ::{ flag=US }:: ::Delta386::{ user=10352045 } |
-| 7 | ::{ flag=US }:: ::\1LS\1Ham::{ user=17523947 } |
+| 7 | ::{ flag=US }:: ::[LS]Ham::{ user=17523947 } |
 | 8 | ::{ flag=CA }:: ::arpia97::{ user=6363008 } |
 | 9 | ::{ flag=DE }:: ::ERA medium kek::{ user=11625617 } |
 | 10 | ::{ flag=BR }:: ::Brasil::{ user=3949268 } |
@@ -103,7 +103,7 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: ::\1LS\1Ham::{ user=17523947 } |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: ::[LS]Ham::{ user=17523947 } |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=JP }:: ::Maimaing::{ user=14520910 } |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=BR }:: ::Brasil::{ user=3949268 } |
 

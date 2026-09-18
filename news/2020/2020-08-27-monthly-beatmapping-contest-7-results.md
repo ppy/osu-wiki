@@ -25,7 +25,7 @@ This month's **34** submissions were evaluated by a team of experienced mappers,
 | \#6 | [I Believe You](https://osu.ppy.sh/beatmapsets/1244179#osu/2586329) by ::Striderin::{ user=10193902 } | [see details](https://mappersguild.com/contests/results?submission=5f20afba014d4d10626e7be0) | 39 | 27 | 42 | 20 | **128** | **-1.92** |
 | \#7 | [Humanarchy](https://osu.ppy.sh/beatmapsets/1244153#osu/2586276) by ::K4L1::{ user=11334594 } | [see details](https://mappersguild.com/contests/results?submission=5f20aff6014d4d10626e7be9) | 37 | 35 | 35 | 24 | **131** | **-1.99** |
 | \#8 | [I Believe You](https://osu.ppy.sh/beatmapsets/1245508#osu/2588949) by ::Frostings::{ user=2652543 } | [see details](https://mappersguild.com/contests/results?submission=5f20b0f8014d4d10626e7bfe) | 35 | 24 | 38 | 18 | **115** | **-4.39** |
-| \#9 | [I Believe You](https://osu.ppy.sh/beatmapsets/1244126#osu/2586240) by ::Adam\1S::{ user=11678065 } | [see details](https://mappersguild.com/contests/results?submission=5f20b1a2014d4d10626e7c0a) | 32 | 25 | 36 | 15 | **108** | **-6.06** |
+| \#9 | [I Believe You](https://osu.ppy.sh/beatmapsets/1244126#osu/2586240) by ::Adam_S::{ user=11678065 } | [see details](https://mappersguild.com/contests/results?submission=5f20b1a2014d4d10626e7c0a) | 32 | 25 | 36 | 15 | **108** | **-6.06** |
 
 ### Winner
 

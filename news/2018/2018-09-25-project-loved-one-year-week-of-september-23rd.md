@@ -79,7 +79,7 @@ Many of you may know Logic Agent's ranked mapset of this song, but if you've eve
 
 [![](/wiki/shared/news/2018-09-25-project-loved-one-year-week-of-september-23rd/osu/sunset-tea-cup.jpg)](https://osu.ppy.sh/community/forums/topics/807796)
 
-[YUC'e - Sunset Tea Cup](https://osu.ppy.sh/beatmapsets/634949) by ::Rumia-::{ user=1787171 }, ::\1 -Scarlet- \1::{ user=2427693 } and ::Matsubara Kanon::{ user=1475828 }
+[YUC'e - Sunset Tea Cup](https://osu.ppy.sh/beatmapsets/634949) by ::Rumia-::{ user=1787171 }, ::[ -Scarlet- ]::{ user=2427693 } and ::Matsubara Kanon::{ user=1475828 }
 
 Everyone's favorite YUC'e has yet another cute and catchy tune making its way across the Project Loved voting stage! This full mapset of Sunset Tea Cup, hosted by Rumia- and featuring guest difficulties by walaowey (now known as Matsubara Kanon) and \[ -Scarlet- \], has gathered over 180 favorites since its submission just over a year ago. Despite its highest difficulty peaking at around only 5.3 stars, don't be fooled—the technical rhythm provided by the song yields some very unconventional, engaging and fun patterns. As the mapset makes its appearance on stage, will you throw flowers or tomatoes?
 
@@ -109,7 +109,7 @@ Some of you may know the other ranked mapsets of this song, but I'd say you're m
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::Backfire::{ user=263110 }, ::-\1 ix Ishida xi \1-::{ user=242910 }, ::-Kazu-::{ user=920861 }, ::iceOC::{ user=5482401 } and ::nyanmi-1828::{ user=6866480 }! This week, all osu!taiko beatmap descriptions were written by ::Backfire::{ user=263110 }.
+osu!taiko Loved candidates were chosen by ::Backfire::{ user=263110 }, ::-[ ix Ishida xi ]-::{ user=242910 }, ::-Kazu-::{ user=920861 }, ::iceOC::{ user=5482401 } and ::nyanmi-1828::{ user=6866480 }! This week, all osu!taiko beatmap descriptions were written by ::Backfire::{ user=263110 }.
 
 ---
 

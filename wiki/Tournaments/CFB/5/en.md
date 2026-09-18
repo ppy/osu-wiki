@@ -65,7 +65,7 @@ The Catch French Beginner 5 was run by various community members.
 | Top | ::{ flag=FR }:: ::Enias::{ user=8384680 }, ::{ flag=FR }:: ::Un bretzel::{ user=1542565 }, ::{ flag=FR }:: ::Shamookie::{ user=12441210 } |
 | High | ::{ flag=FR }:: ::Jibsz::{ user=12269489 }, ::{ flag=FR }:: ::redjiii::{ user=1378728 }, ::{ flag=FR }:: ::Beltheor::{ user=14966708 }, ::{ flag=FR }:: ::MitsukeZ::{ user=12943161 } |
 | Low | ::{ flag=FR }:: ::caillrot::{ user=13108984 }, ::{ flag=FR }:: ::Okawashi::{ user=6636540 }, ::{ flag=FR }:: ::JunKoAndHiro::{ user=14004732 }, ::{ flag=FR }:: ::AceEpmo::{ user=16725715 } |
-| Unseeded | ::{ flag=FR }:: ::iron-wish::{ user=12264606 }, ::{ flag=FR }:: ::Nos\1If::{ user=7365196 }, ::{ flag=FR }:: ::Utopsia::{ user=11080305 }, ::{ flag=FR }:: ::Kammthaar::{ user=8802523 } |
+| Unseeded | ::{ flag=FR }:: ::iron-wish::{ user=12264606 }, ::{ flag=FR }:: ::Nos_If::{ user=7365196 }, ::{ flag=FR }:: ::Utopsia::{ user=11080305 }, ::{ flag=FR }:: ::Kammthaar::{ user=8802523 } |
 | Eliminated | ::{ flag=FR }:: ::SverdWyrd::{ user=10996443 }, ::{ flag=FR }:: ::Hitsumo::{ user=3199415 } |
 
 ::: alert-notice

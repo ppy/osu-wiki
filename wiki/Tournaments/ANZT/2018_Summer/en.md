@@ -2,7 +2,7 @@
 
 ![ANZT 5S logo](img/logo.jpg)
 
-The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a 1v1 double elimination osu! tournament hosted by ::{ flag=NZ }:: ::Diony::{ user=4294475 }, ::{ flag=AU }:: ::Melt3dCheeze::{ user=634837 }, ::{ flag=AU }:: ::EmeraldStar82::{ user=3772135 }, ::{ flag=US }:: ::noctisv\1v::{ user=6775083 } and ::{ flag=AU }:: ::Quite Cynical::{ user=3361154 }. It was the fifth instalment of the Aus/NZ tourneys.
+The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a 1v1 double elimination osu! tournament hosted by ::{ flag=NZ }:: ::Diony::{ user=4294475 }, ::{ flag=AU }:: ::Melt3dCheeze::{ user=634837 }, ::{ flag=AU }:: ::EmeraldStar82::{ user=3772135 }, ::{ flag=US }:: ::noctisv_v::{ user=6775083 } and ::{ flag=AU }:: ::Quite Cynical::{ user=3361154 }. It was the fifth instalment of the Aus/NZ tourneys.
 
 ## Tournament schedule
 
@@ -30,12 +30,12 @@ The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a 1v1 doub
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=NZ }:: ::Diony::{ user=4294475 }, ::{ flag=AU }:: ::Melt3dCheeze::{ user=634837 }, ::{ flag=AU }:: ::EmeraldStar82::{ user=3772135 }, ::{ flag=US }:: ::noctisv\1v::{ user=6775083 }, ::{ flag=AU }:: ::Quite Cynical::{ user=3361154 } |
+| Manager | ::{ flag=NZ }:: ::Diony::{ user=4294475 }, ::{ flag=AU }:: ::Melt3dCheeze::{ user=634837 }, ::{ flag=AU }:: ::EmeraldStar82::{ user=3772135 }, ::{ flag=US }:: ::noctisv_v::{ user=6775083 }, ::{ flag=AU }:: ::Quite Cynical::{ user=3361154 } |
 | Scheduler | ::{ flag=AU }:: ::EmeraldStar82::{ user=3772135 } |
 | Commentator | ::{ flag=AU }:: ::Kano::{ user=3036203 }, ::{ flag=AU }:: ::BranOtaku::{ user=6861227 }, ::{ flag=AU }:: ::Noobsicle::{ user=3432672 }, ::{ flag=NZ }:: ::shortpotato::{ user=1266102 }, ::{ flag=AU }:: ::Rairiku::{ user=4945688 }, ::{ flag=AU }:: ::Blobby3000::{ user=6916774 } |
-| Streamer | ::{ flag=AU }:: ::BranOtaku::{ user=6861227 }, ::{ flag=US }:: ::noctisv\1v::{ user=6775083 }, ::{ flag=AU }:: ::EmeraldStar82::{ user=3772135 }, ::{ flag=AU }:: ::Melt3dCheeze::{ user=634837 }, ::{ flag=US }:: ::CornLord7117::{ user=6699829 }, ::{ flag=AU }:: ::Blobby3000::{ user=6916774 } |
-| Referee | ::{ flag=US }:: ::noctisv\1v::{ user=6775083 }, ::{ flag=NZ }:: ::Diony::{ user=4294475 }, ::{ flag=AU }:: ::RoseAntebellum::{ user=3944288 }, ::{ flag=AU }:: ::Illinon::{ user=8306102 }, ::{ flag=AU }:: ::Vex::{ user=1151852 }, ::{ flag=AU }:: ::Poi Yasu::{ user=6733334 }, ::{ flag=AU }:: ::Quite Cynical::{ user=3361154 }, ::{ flag=AU }:: ::EmeraldStar82::{ user=3772135 }, ::{ flag=AU }:: ::Melt3dCheeze::{ user=634837 }, ::{ flag=NZ }:: ::-Akito::{ user=5716327 }, ::{ flag=AU }:: ::BranOtaku::{ user=6861227 }, ::{ flag=US }:: ::trey-::{ user=8784747 } |
-| Mappool selector | ::{ flag=AU }:: ::Dumii::{ user=3068044 }, ::{ flag=US }:: ::Axarious::{ user=2614511 }, ::{ flag=US }:: ::noctisv\1v::{ user=6775083 }, ::{ flag=AU }:: ::Quite Cynical::{ user=3361154 } |
+| Streamer | ::{ flag=AU }:: ::BranOtaku::{ user=6861227 }, ::{ flag=US }:: ::noctisv_v::{ user=6775083 }, ::{ flag=AU }:: ::EmeraldStar82::{ user=3772135 }, ::{ flag=AU }:: ::Melt3dCheeze::{ user=634837 }, ::{ flag=US }:: ::CornLord7117::{ user=6699829 }, ::{ flag=AU }:: ::Blobby3000::{ user=6916774 } |
+| Referee | ::{ flag=US }:: ::noctisv_v::{ user=6775083 }, ::{ flag=NZ }:: ::Diony::{ user=4294475 }, ::{ flag=AU }:: ::RoseAntebellum::{ user=3944288 }, ::{ flag=AU }:: ::Illinon::{ user=8306102 }, ::{ flag=AU }:: ::Vex::{ user=1151852 }, ::{ flag=AU }:: ::Poi Yasu::{ user=6733334 }, ::{ flag=AU }:: ::Quite Cynical::{ user=3361154 }, ::{ flag=AU }:: ::EmeraldStar82::{ user=3772135 }, ::{ flag=AU }:: ::Melt3dCheeze::{ user=634837 }, ::{ flag=NZ }:: ::-Akito::{ user=5716327 }, ::{ flag=AU }:: ::BranOtaku::{ user=6861227 }, ::{ flag=US }:: ::trey-::{ user=8784747 } |
+| Mappool selector | ::{ flag=AU }:: ::Dumii::{ user=3068044 }, ::{ flag=US }:: ::Axarious::{ user=2614511 }, ::{ flag=US }:: ::noctisv_v::{ user=6775083 }, ::{ flag=AU }:: ::Quite Cynical::{ user=3361154 } |
 | Designer | ::{ flag=NZ }:: ::-Akito::{ user=5716327 } |
 
 ## Links

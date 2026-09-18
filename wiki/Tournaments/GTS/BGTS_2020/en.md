@@ -119,7 +119,7 @@ The Beginners Global Taiko Showdown 2020 was run by various community members.
 | ::{ flag=TW }:: | **Taiwan** | **::Mashyuf::{ user=14356517 }**, ::Antony000555::{ user=14855337 }, ::BinFhone::{ user=8693179 } |
 | ::{ flag=TR }:: | **Turkey** | **::Coldrod::{ user=9065991 }**, ::CookieJar::{ user=5489091 }, ::Dewil231::{ user=15312409 }, ::Weeb-Desu::{ user=9552328 } |
 | ::{ flag=UA }:: | **Ukraine** | **::Beepmap::{ user=13768634 }**, ::matryoshkat::{ user=17234967 } |
-| ::{ flag=GB }:: | **United Kingdom** | **::Meguminx\_::{ user=17797595 }**, ::Ethereal\1Winter::{ user=9780417 }, ::Mrshadow818::{ user=16968817 }, ::ronster1703::{ user=10611637 }, ::yoimen\_ointment::{ user=13969379 } |
+| ::{ flag=GB }:: | **United Kingdom** | **::Meguminx\_::{ user=17797595 }**, ::Ethereal_Winter::{ user=9780417 }, ::Mrshadow818::{ user=16968817 }, ::ronster1703::{ user=10611637 }, ::yoimen\_ointment::{ user=13969379 } |
 | ::{ flag=US }:: | **United States** | **::Kahli::{ user=8926244 }**, ::bvyans::{ user=7789926 }, ::CB92::{ user=4673649 }, ::kieemo::{ user=15204418 }, ::MrJamesGaming::{ user=13730858 } |
 | ::{ flag=UY }:: | **Uruguay** | **::SpoonWasHere::{ user=12145765 }**, ::Rebo::{ user=6942259 } |
 | ::{ flag=VE }:: | **Venezuela** | **::RaFaReAcH::{ user=10491903 }**, ::Angiie12::{ user=7577264 }, ::eblf2013::{ user=2419080 }, ::Rushino::{ user=4605933 } |
@@ -132,7 +132,7 @@ Both teams were formed by a vote held in the GTS Discord server. Participants wi
 | Team | Members |
 | :-- | :-- |
 | **co shu nie - asura** | ::{ flag=SG }:: **::tokaku::{ user=2672025 }**, ::{ flag=HK }:: ::Chaoslitz::{ user=3621552 }, ::{ flag=GB }:: ::Ethereal\_Winter::{ user=9780417 }, ::{ flag=RO }:: ::mikuhatsunegirl10::{ user=1188782 }, ::{ flag=SG }:: ::mhk05::{ user=2441810 }, ::{ flag=CA }:: ::NeoAxel::{ user=6806934 } |
-| **Los Hijueputas** | ::{ flag=GB }:: **::Meguminx\1::{ user=17797595 }**, ::{ flag=CO }:: ::Carlosflow::{ user=11940767 }, ::{ flag=HK }:: ::Irone OSU::{ user=10678230 }, ::{ flag=EE }:: ::Kizma::{ user=8325847 }, ::{ flag=RO }:: ::Skyblade1::{ user=4429612 }, ::{ flag=NZ }:: ::Subokuu::{ user=13465564 } |
+| **Los Hijueputas** | ::{ flag=GB }:: **::Meguminx_::{ user=17797595 }**, ::{ flag=CO }:: ::Carlosflow::{ user=11940767 }, ::{ flag=HK }:: ::Irone OSU::{ user=10678230 }, ::{ flag=EE }:: ::Kizma::{ user=8325847 }, ::{ flag=RO }:: ::Skyblade1::{ user=4429612 }, ::{ flag=NZ }:: ::Subokuu::{ user=13465564 } |
 
 ## Groups
 

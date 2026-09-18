@@ -124,7 +124,7 @@ Let's get into it!
 
 > In conclusion, I definitely still have motivation to play, and you (the reader) should be on the lookout for more and new cool scores! You could also check me out (shameless advertising I know) on [Twitch](https://twitch.tv/mrekk) if you want to see the #1 osu! player in the flesh.
 > 
-> And of course, thank you to ::MegaMix\1Craft::{ user=18152711 } for organising and setting this news post up.
+> And of course, thank you to ::MegaMix_Craft::{ user=18152711 } for organising and setting this news post up.
 
 ---
 

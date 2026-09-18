@@ -27,7 +27,7 @@ Last weekend, 12 teams played in the Semifinals round, but in the end, only 6 re
 
 ![](/wiki/shared/news/2025-07-11-osucatch-world-cup-2025-semifinals-recap/cwc-2025-sf-mappool.png)
 
-The Semifinals mappool was one of the biggest step-ups in difficulty in the tournament so far. It makes sense given the remaining teams, giving us an introduction to late-tournament pools. It started right away with [R.I.P.](https://osu.ppy.sh/beatmapsets/2395421#fruits/5188524) (NM1), mapped by ::Zyzyx::{ user=2888013 } and ::Yoshi\1green::{ user=1035891 }, standing at a star rating of 7.95 and featuring intense and stamina-draining patterning for the full three and a half minutes. 
+The Semifinals mappool was one of the biggest step-ups in difficulty in the tournament so far. It makes sense given the remaining teams, giving us an introduction to late-tournament pools. It started right away with [R.I.P.](https://osu.ppy.sh/beatmapsets/2395421#fruits/5188524) (NM1), mapped by ::Zyzyx::{ user=2888013 } and ::Yoshi_green::{ user=1035891 }, standing at a star rating of 7.95 and featuring intense and stamina-draining patterning for the full three and a half minutes. 
 
 Surprisingly, three mappers made their CWC debut this round: ::Cruwev::{ user=12195994 }, ::Phob::{ user=6069462 }, and ::Zileni::{ user=23525574 }. Cruwev made a bold entrance with their [Big Daddy (Cut ver.)](https://osu.ppy.sh/beatmapsets/2395283#fruits/5188079) (NM3) map, serving as the gimmick pick of the round. Cruwev's unconventional mapping style mixed with a high circle size and a low approach rate made for one of the biggest standouts in the mappool, both in terms of difficulty and hype factor. 
 

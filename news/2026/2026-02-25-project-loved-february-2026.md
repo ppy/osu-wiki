@@ -424,7 +424,7 @@ Personally speaking, this chart is certainly another great one from ::Jole::{ us
 136.99 – 164.39 BPM, 2:29 | 4.07★, 4.23★, 4.40★, 4.57★, 4.73★\
 *description written by ::elexire::{ user=9206093 }*
 
-::\1Crz\1hinako1804::{ user=13747903 } is making another return to Loved with their chart of [Tairin no Soul](https://osu.ppy.sh/beatmapsets/1678453#mania)!
+::[Crz]hinako1804::{ user=13747903 } is making another return to Loved with their chart of [Tairin no Soul](https://osu.ppy.sh/beatmapsets/1678453#mania)!
 
 Outside of their various packs, *Tairin no Soul* is probably their most notable charts that isn't in one, and taking a look at the chart itself makes that very clear as to why it's so notable. Being a vocal dump, it manages to stick out in many aspects for the technicality behind the snap usage, while at the same time managing to feel very, very flowy, leading to an overall smooth experience. While it does end up on the easier side, you always have access to uprates if you wish for a bigger challenge, or maybe you prefer accuracy more? Who knows!
 

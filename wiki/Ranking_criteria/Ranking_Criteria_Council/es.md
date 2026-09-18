@@ -132,7 +132,7 @@ Los miembros originales del UBKRC de osu!mania no pudieron completar un borrador
 - ::{ flag=CA }:: ::Sidetail::{ user=2036217 }
 - ::{ flag=US }:: ::Starrodkirby86::{ user=410 }
 - ::{ flag=CZ }:: ::Wafu::{ user=888955 }
-- ::{ flag=CN }:: ::yf\1bmp::{ user=1243669 }
+- ::{ flag=CN }:: ::yf_bmp::{ user=1243669 }
 
 ### Miembros de la temporización
 

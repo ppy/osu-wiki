@@ -60,10 +60,10 @@ Finalists:
 - [**Soushi Sakiyama - Gyakkou**](https://osu.ppy.sh/beatmapsets/1523018) by ::**Gillstar**::{ user=7948210 } with **42** votes.
 - [**15 Voices - Non-breath oblige**](https://osu.ppy.sh/beatmapsets/1889729) by ::**Delis**::{ user=1603923 } with **40** votes.
 - [**UKRampage - Yumenoshima feat. mami**](https://osu.ppy.sh/beatmapsets/1644513) by ::**Gillstar**::{ user=7948210 } with **36** votes.
-- [**Shimotsuki Haruka - Tsubasa o Kudasai**](https://osu.ppy.sh/beatmapsets/1754815) by ::**misho15\1701\14\10**::{ user=11299666 } with **34** votes.
+- [**Shimotsuki Haruka - Tsubasa o Kudasai**](https://osu.ppy.sh/beatmapsets/1754815) by ::**misho15_701_4_0**::{ user=11299666 } with **34** votes.
 - [**[Kyoro] - Mochio-**](https://osu.ppy.sh/beatmapsets/1473006) by ::**Snow Note**::{ user=643394 } with **31** votes.
 - [**TAG underground - POSSESSION**](https://osu.ppy.sh/beatmapsets/1691083) by ::**pewdekz**::{ user=5754859 } with **30** votes.
-- [**DUSTCELL - DERO by Heilia**](https://osu.ppy.sh/beatmapsets/1318423) by ::**cotton\1\1123**::{ user=9823042 } with **29** votes.
+- [**DUSTCELL - DERO by Heilia**](https://osu.ppy.sh/beatmapsets/1318423) by ::**cotton__123**::{ user=9823042 } with **29** votes.
 - [**Hoshimachi Suisei - Stellar Stellar**](https://osu.ppy.sh/beatmapsets/1680549) by ::**ImWater**::{ user=10616849 } with **29** votes.
 - [**Feryquitous vs. xi - Orca**](https://osu.ppy.sh/beatmapsets/1166748) by ::**lcfc**::{ user=7322726 } with **28** votes.
 
@@ -77,7 +77,7 @@ Finalists:
 
 Okay, deep breaths. Here we go.
 
-A joint collaboration between the composers of the GTS Sound Team (namely [SDMNE](https://soundcloud.com/sdmne), [Sparxe](https://soundcloud.com/sparxenic), [blobdash](https://soundcloud.com/blobdash), [Raphlesia](https://soundcloud.com/raphlesia), [ptar124](https://soundcloud.com/part-lerts), [kyou1110](https://soundcloud.com/kyou1110), [II-L](https://soundcloud.com/ii-l), [rN](https://soundcloud.com/rurinn), [takehirotei](https://soundcloud.com/takehirotei) and [katagiri](https://soundcloud.com/katagiri)) and the GTS Mapping Team (namely ::Cychloryn::{ user=6921736 }, ::Nwolf::{ user=1910766 }, ::Mew::{ user=2345156 }, ::gaston\12199::{ user=5938161 }, ::Raphalge::{ user=3918650 }, ::Ak1o::{ user=1600041 }, ::Hivie::{ user=14102976 }, ::Alchyr::{ user=4993032 }, ::rubies87::{ user=4949934 }, ::Briesmas::{ user=2865172 }, ::UnagiDon::{ user=2062410 }, ::Gamelan4::{ user=9856910 }, ::Heaxys::{ user=5671417 }, ::Ideal::{ user=3869519 }, ::HiroK::{ user=4050738 }, ::5\_5::{ user=6853438 }, ::BabySnakes::{ user=4669728 }, ::MTNTWarz::{ user=14036825 }, ::Rinze::{ user=19901680 }, ::cdh::{ user=2403621 }, ::Cynplytholowazy::{ user=3901754 } and ::Horiiizon::{ user=8071438 }), *\<\<\/nttld.:beings\>\> \~Truth in Uncertainty\~* is a visually stunning mapping masterpiece, helped along the way into Ranked by Beatmap Nominators ::Axer::{ user=7299864 } and ::op45667::{ user=21973491 }.
+A joint collaboration between the composers of the GTS Sound Team (namely [SDMNE](https://soundcloud.com/sdmne), [Sparxe](https://soundcloud.com/sparxenic), [blobdash](https://soundcloud.com/blobdash), [Raphlesia](https://soundcloud.com/raphlesia), [ptar124](https://soundcloud.com/part-lerts), [kyou1110](https://soundcloud.com/kyou1110), [II-L](https://soundcloud.com/ii-l), [rN](https://soundcloud.com/rurinn), [takehirotei](https://soundcloud.com/takehirotei) and [katagiri](https://soundcloud.com/katagiri)) and the GTS Mapping Team (namely ::Cychloryn::{ user=6921736 }, ::Nwolf::{ user=1910766 }, ::Mew::{ user=2345156 }, ::gaston_2199::{ user=5938161 }, ::Raphalge::{ user=3918650 }, ::Ak1o::{ user=1600041 }, ::Hivie::{ user=14102976 }, ::Alchyr::{ user=4993032 }, ::rubies87::{ user=4949934 }, ::Briesmas::{ user=2865172 }, ::UnagiDon::{ user=2062410 }, ::Gamelan4::{ user=9856910 }, ::Heaxys::{ user=5671417 }, ::Ideal::{ user=3869519 }, ::HiroK::{ user=4050738 }, ::5\_5::{ user=6853438 }, ::BabySnakes::{ user=4669728 }, ::MTNTWarz::{ user=14036825 }, ::Rinze::{ user=19901680 }, ::cdh::{ user=2403621 }, ::Cynplytholowazy::{ user=3901754 } and ::Horiiizon::{ user=8071438 }), *\<\<\/nttld.:beings\>\> \~Truth in Uncertainty\~* is a visually stunning mapping masterpiece, helped along the way into Ranked by Beatmap Nominators ::Axer::{ user=7299864 } and ::op45667::{ user=21973491 }.
 
 With more people than an average game development team dedicated to one piece of art alone, the sheer level of creativity involved in this piece simply cannot be understated. Melding so many ideas and styles together is an absolutely herculean effort, one that the osu!taiko community clearly recognises in full.
 
@@ -91,7 +91,7 @@ Finalists:
 - [**leroy - dyed my hair black**](https://osu.ppy.sh/beatmapsets/1507426) by ::**Genjuro**::{ user=3196091 } with **47** votes.
 - [**DJ Majokko Mirakurun - DJ Majokko Mirakurun [ Producer Mix ] [ Nightcore ]**](https://osu.ppy.sh/beatmapsets/1797642) by ::**Genjuro**::{ user=3196091 } with **42** votes.
 - [**Iyowa feat. KAFU - Kyu-kurarin (7_7 bootleg)**](https://osu.ppy.sh/beatmapsets/1837174) by ::**woosungko**::{ user=14184157 } with **40** votes.
-- [**xi - FREEDOM DiVE**](https://osu.ppy.sh/beatmapsets/1613246) by ::**gaston\12199**::{ user=5938161 } with **37** votes.
+- [**xi - FREEDOM DiVE**](https://osu.ppy.sh/beatmapsets/1613246) by ::**gaston_2199**::{ user=5938161 } with **37** votes.
 - [**sienna sleep - navi 98**](https://osu.ppy.sh/beatmapsets/1856862) by ::**Hivie**::{ user=14102976 } with **36** votes.
 
 ### Mapper's Favourite
@@ -105,7 +105,7 @@ The acclaim for [**GTS Sound Team - \<\<\/nttld.:beings\>\> \~Truth in Uncertain
 - [**Hudson Lee - Nothing To Fear**](https://osu.ppy.sh/beatmapsets/1549349) by ::**ZTH**::{ user=5258461 } with **16** votes.
 - [**leroy - dyed my hair black**](https://osu.ppy.sh/beatmapsets/1507426) by ::**Genjuro**::{ user=3196091 } with **16** votes.
 - [**DJ Majokko Mirakurun - DJ Majokko Mirakurun [ Producer Mix ] [ Nightcore ]**](https://osu.ppy.sh/beatmapsets/1797642) by ::**Genjuro**::{ user=3196091 } with **15** votes.
-- [**Hoshimachi Suisei - Stellar Stellar**](https://osu.ppy.sh/beatmapsets/1589361) by ::**\1Zeth\1**::{ user=9912966 } with **15** votes.
+- [**Hoshimachi Suisei - Stellar Stellar**](https://osu.ppy.sh/beatmapsets/1589361) by ::**[Zeth]**::{ user=9912966 } with **15** votes.
 - [**Camellia - Looking for Edge of Ground**](https://osu.ppy.sh/beatmapsets/1678197) by ::**Genjuro**::{ user=3196091 } with **14** votes.
 - [**Supire - Aquaphilia**](https://osu.ppy.sh/beatmapsets/1811200) by ::**Dekovner**::{ user=19859015 } with **14** votes.
 - [**seatrus - O**](https://osu.ppy.sh/beatmapsets/1693010) by ::**rubies87**::{ user=4949934 } with **14** votes.
@@ -145,7 +145,7 @@ The osu!catch mapping community simply could not shake the **Kobaryo - Villain V
 - [**Kurokotei - Galaxy Collapse**](https://osu.ppy.sh/beatmapsets/521900) by ::**CLSW**::{ user=531253 } with **9** votes.
 - [**Srav3R vs. Getty - DUAL BREAKER XX**](https://osu.ppy.sh/beatmapsets/1688341) by ::**Jemzuu**::{ user=7890134 } with **8** votes.
 - [**PSYQUI - Hype feat. Such**](https://osu.ppy.sh/beatmapsets/1714422) by ::**Crowley**::{ user=6341006 } with **8** votes.
-- [**kanemiko - Electrolytes**](https://osu.ppy.sh/beatmapsets/1774562) by ::**Unlucky\1w**::{ user=4820793 } with **7** votes.
+- [**kanemiko - Electrolytes**](https://osu.ppy.sh/beatmapsets/1774562) by ::**Unlucky_w**::{ user=4820793 } with **7** votes.
 
 ## osu!mania
 
@@ -158,15 +158,15 @@ Edging into first place with **156** votes is [**-45 - Reikou Hatsuden**](https:
 Players clearly enjoyed the chordjack madness and judging from the fierce competition in the set's leaderboards, things aren't likely to change on that front any time soon.
 
 - [**-45 - Reikou Hatsuden**](https://osu.ppy.sh/beatmapsets/1502322) by ::**Monheim**::{ user=6814203 } with **156** votes.
-- [**Gram vs. Camellia - Ragnarok**](https://osu.ppy.sh/beatmapsets/999032) by ::**\1Kobii**::{ user=6209713 } with **153** votes.
+- [**Gram vs. Camellia - Ragnarok**](https://osu.ppy.sh/beatmapsets/999032) by ::**_Kobii**::{ user=6209713 } with **153** votes.
 - [**laura les - Haunted (dive to the heart remix)**](https://osu.ppy.sh/beatmapsets/1683972) by ::**Monheim**::{ user=6814203 } with **151** votes.
 - [**aa...hisuichazuke... - steganography**](https://osu.ppy.sh/beatmapsets/1846639) by ::**-mint-**::{ user=8976576 } with **150** votes.
 - [**shimizushi - Eternal White**](https://osu.ppy.sh/beatmapsets/1683685) by ::**Seiran-**::{ user=14351534 } with **132** votes.
 - [**technoplanet - Awakening [Long Version]**](https://osu.ppy.sh/beatmapsets/1326970) by ::**Touru0711**::{ user=8625854 } with **132** votes.
-- [**Silentroom vs. Frums - Aegleseeker**](https://osu.ppy.sh/beatmapsets/1469980) by ::**\1Crz\1Alleyne**::{ user=11279273 } with **131** votes.
+- [**Silentroom vs. Frums - Aegleseeker**](https://osu.ppy.sh/beatmapsets/1469980) by ::**[Crz]Alleyne**::{ user=11279273 } with **131** votes.
 - [**Camellia - GHOST (2020 Halloween+++++++++ VIP)**](https://osu.ppy.sh/beatmapsets/1265570) by ::**PokeSky**::{ user=3617111 } with **111** votes.
-- [**Toby Fox - Rude Buster (Camellia Remix)**](https://osu.ppy.sh/beatmapsets/1720248) by ::**\1GB\1V1do**::{ user=17527968 } with **106** votes.
-- [**t+pazolite - Party in the HOLLOWood feat. Nanahira (HOLLOWeen Sitchaka Metchaka Remix)**](https://osu.ppy.sh/beatmapsets/1027900) by ::**\1Asha**::{ user=11103764 } with **106** votes.
+- [**Toby Fox - Rude Buster (Camellia Remix)**](https://osu.ppy.sh/beatmapsets/1720248) by ::**[GB]V1do**::{ user=17527968 } with **106** votes.
+- [**t+pazolite - Party in the HOLLOWood feat. Nanahira (HOLLOWeen Sitchaka Metchaka Remix)**](https://osu.ppy.sh/beatmapsets/1027900) by ::**_Asha**::{ user=11103764 } with **106** votes.
 
 ### Mapper's Favourite
 
@@ -182,10 +182,10 @@ It is rumoured (jokingly) that in the osu!mania community, a map's worth can be 
 - [**Camellia - Looking for Edge of Ground**](https://osu.ppy.sh/beatmapsets/1560424) by ::**tyrcs**::{ user=13026904 } with **16** votes.
 - [**Grimes - Kill V. Maim**](https://osu.ppy.sh/beatmapsets/1181796) by ::**BringoBrango**::{ user=10274043 } with **14** votes.
 - [**laura les - Haunted (dive to the heart remix)**](https://osu.ppy.sh/beatmapsets/1683972) by ::**Monheim**::{ user=6814203 } with **13** votes.
-- [**Camellia - Electromagnetic Stealth Girl Born In Philadelphia**](https://osu.ppy.sh/beatmapsets/1608630) by ::**lovely\1hyahya**::{ user=10318380 } with **13** votes.
+- [**Camellia - Electromagnetic Stealth Girl Born In Philadelphia**](https://osu.ppy.sh/beatmapsets/1608630) by ::**lovely_hyahya**::{ user=10318380 } with **13** votes.
 - [**\[REDACTED\]**](https://osu.ppy.sh/beatmapsets/1756972) by ::**Ryax**::{ user=8949769 } with **13** votes.
 - [**-45 - Reikou Hatsuden**](https://osu.ppy.sh/beatmapsets/1502322) by ::**Monheim**::{ user=6814203 } with **13** votes.
-- [**Gram vs. Camellia - Ragnarok**](https://osu.ppy.sh/beatmapsets/999032) by ::**\1Kobii**::{ user=6209713 } with **12** votes.
+- [**Gram vs. Camellia - Ragnarok**](https://osu.ppy.sh/beatmapsets/999032) by ::**_Kobii**::{ user=6209713 } with **12** votes.
 
 ---
 

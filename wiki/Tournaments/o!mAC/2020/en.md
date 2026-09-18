@@ -40,9 +40,9 @@ The osu!mania Asian's Champions 2020 was run by various community members.
 | :-- | :-- |
 | Host | ::{ flag=ID }:: ::Mirea::{ user=8404646 } |
 | Co-host | ::{ flag=PH }:: ::vincent4399::{ user=9764388 } |
-| Mappool selector | ::{ flag=ID }:: ::Cims::{ user=15159469 }, ::{ flag=ID }:: ::LuxSayaka::{ user=8382579 }, ::{ flag=TH }:: ::-\1DaNieL\1TH\1-::{ user=6456531 } |
-| Streamer | ::{ flag=ID }:: ::Victim\1Crasher::{ user=2084869 }, ::{ flag=MY }:: ::\1MY\1Solut1on\_::{ user=14262785 }, ::{ flag=VN }:: ::DanX::{ user=10542408 } |
-| Commentator | ::{ flag=US }:: ::\1GS\1Antunder::{ user=10416995 }, ::{ flag=US }:: ::\1GS\1Aussie::{ user=13395045 }, ::{ flag=US }:: ::\1GS\1Croniken::{ user=9989041 }, ::{ flag=CL }:: ::\1GS\1Myuka::{ user=10072733 }, ::{ flag=SG }:: ::Raveille::{ user=1388767 }, ::{ flag=MY }:: ::Cryolien::{ user=1626983 }, ::{ flag=AU }:: ::Beat43210::{ user=5664171 } |
+| Mappool selector | ::{ flag=ID }:: ::Cims::{ user=15159469 }, ::{ flag=ID }:: ::LuxSayaka::{ user=8382579 }, ::{ flag=TH }:: ::-[DaNieL_TH]-::{ user=6456531 } |
+| Streamer | ::{ flag=ID }:: ::Victim_Crasher::{ user=2084869 }, ::{ flag=MY }:: ::[MY]Solut1on\_::{ user=14262785 }, ::{ flag=VN }:: ::DanX::{ user=10542408 } |
+| Commentator | ::{ flag=US }:: ::[GS]Antunder::{ user=10416995 }, ::{ flag=US }:: ::[GS]Aussie::{ user=13395045 }, ::{ flag=US }:: ::[GS]Croniken::{ user=9989041 }, ::{ flag=CL }:: ::[GS]Myuka::{ user=10072733 }, ::{ flag=SG }:: ::Raveille::{ user=1388767 }, ::{ flag=MY }:: ::Cryolien::{ user=1626983 }, ::{ flag=AU }:: ::Beat43210::{ user=5664171 } |
 | Referee | ::{ flag=NL }:: ::Albionthegreat::{ user=9853595 }, ::{ flag=ID }:: ::by-ad::{ user=7439939 }, ::{ flag=ID }:: ::Yukari\_Sama::{ user=6316524 }, ::{ flag=PH }:: ::Gerwin13::{ user=15776185 }, ::{ flag=PH }:: ::MowseChow::{ user=11341964 }, ::{ flag=DE }:: ::GDLenny::{ user=8406711 } |
 | Statistician | ::{ flag=VN }:: ::MashedPotato::{ user=10494860 } |
 | Wiki editor | ::{ flag=CN }:: ::kj415j45::{ user=9367540 } |

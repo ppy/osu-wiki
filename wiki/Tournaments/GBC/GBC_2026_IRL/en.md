@@ -41,7 +41,7 @@ The GB Cup 2026 In Real Life was run by Team GB and various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=CN }:: ::\[GB\]yobrevelc::{ user=14128407 } |
-| Staff | ::{ flag=CN }:: ::\[GB\]yobrevelc::{ user=14128407 }, ::{ flag=CN }:: ::V1do-::{ user=17527968 }, ::{ flag=CN }:: ::\[GB\]Akamite::{ user=13418334 }, ::{ flag=CN }:: ::\[GB\]Lazy\1ChenXi::{ user=24156840 }, ::{ flag=CN }:: ::\[GB\]Cinelia::{ user=24289042 }, ::{ flag=CN }:: ::vanposen::{ user=15289293 }, ::{ flag=CN }:: ::\[GB\]ChickenGold::{ user=16586663 }, ::{ flag=CN }:: ::\[GB\]Color0::{ user=31417108 } |
+| Staff | ::{ flag=CN }:: ::\[GB\]yobrevelc::{ user=14128407 }, ::{ flag=CN }:: ::V1do-::{ user=17527968 }, ::{ flag=CN }:: ::\[GB\]Akamite::{ user=13418334 }, ::{ flag=CN }:: ::\[GB\]Lazy_ChenXi::{ user=24156840 }, ::{ flag=CN }:: ::\[GB\]Cinelia::{ user=24289042 }, ::{ flag=CN }:: ::vanposen::{ user=15289293 }, ::{ flag=CN }:: ::\[GB\]ChickenGold::{ user=16586663 }, ::{ flag=CN }:: ::\[GB\]Color0::{ user=31417108 } |
 | Offline helper | ::{ flag=CN }:: ::\[GB\]sharkful::{ user=35850313 }, ::{ flag=CN }:: ::Zyuuu::{ user=15389275 }, ::{ flag=CN }:: ::-duji-::{ user=33554103 }, ::{ flag=CN }:: ::Kirchhoff123::{ user=29546640 }, ::{ flag=CN }:: ::neeeeeh::{ user=18586390 }, ::{ flag=CN }:: ::\[GB\]Prz1y::{ user=14759634 } |
 | Mappool selector | ::{ flag=CN }:: ::\[GB\]yobrevelc::{ user=14128407 }, ::{ flag=CN }:: ::V1do-::{ user=17527968 } |
 | Streamer | ::{ flag=CN }:: ::V1do-::{ user=17527968 } |
@@ -69,21 +69,21 @@ The GB Cup 2026 In Real Life was run by Team GB and various community members.
 | ::{ flag=CN }:: ::\[Paw\]INKINKINK::{ user=15807315 } |
 | ::{ flag=CN }:: ::My Angel Cocoa::{ user=34497066 } |
 | ::{ flag=TW }:: ::WTFrrrrrrr::{ user=16178831 } |
-| ::{ flag=CN }:: ::c6H8o6\1::{ user=20984576 } |
-| ::{ flag=CN }:: ::26\1::{ user=25520572 } |
+| ::{ flag=CN }:: ::c6H8o6_::{ user=20984576 } |
+| ::{ flag=CN }:: ::26_::{ user=25520572 } |
 | ::{ flag=CN }:: ::SilentieLa::{ user=38084262 } |
 | ::{ flag=ES }:: ::\[AR\]lv3plane::{ user=15964029 } |
 | ::{ flag=CN }:: ::FANYiii09::{ user=38118641 } |
 | ::{ flag=CN }:: ::eilander::{ user=34990703 } |
 | ::{ flag=NZ }:: ::XiaoLan9999::{ user=15748267 } |
-| ::{ flag=CN }:: ::Plus\1QwQ::{ user=25174222 } |
+| ::{ flag=CN }:: ::Plus_QwQ::{ user=25174222 } |
 | ::{ flag=CN }:: ::Civilian::{ user=18160033 } |
 | ::{ flag=CN }:: ::My Angel Nanoka::{ user=10190740 } |
 | ::{ flag=CN }:: ::lingR::{ user=18018980 } |
-| ::{ flag=CN }:: ::ToiletWater\1\1\1\1::{ user=35851725 } |
+| ::{ flag=CN }:: ::ToiletWater____::{ user=35851725 } |
 | ::{ flag=CN }:: ::Luciole::{ user=29854899 } |
 | ::{ flag=CN }:: ::\[GB\]ruler::{ user=31497468 } |
-| ::{ flag=CN }:: ::ju\1jian233::{ user=31258348 } |
+| ::{ flag=CN }:: ::ju_jian233::{ user=31258348 } |
 | ::{ flag=CN }:: ::\[GB\]sharkful::{ user=35850313 } |
 | ::{ flag=CN }:: ::aiyiku::{ user=20094349 } |
 | ::{ flag=CN }:: ::-Akari-::{ user=29478727 } |
@@ -92,26 +92,26 @@ The GB Cup 2026 In Real Life was run by Team GB and various community members.
 | ::{ flag=HK }:: ::biubiutu::{ user=18801193 } |
 | ::{ flag=CN }:: ::Kagari Mimi::{ user=36372669 } |
 | ::{ flag=CN }:: ::\[GB\]fanqiu::{ user=16233412 } |
-| ::{ flag=CN }:: ::Star\1vortex::{ user=23272007 } |
+| ::{ flag=CN }:: ::Star_vortex::{ user=23272007 } |
 | ::{ flag=CN }:: ::linglingyi001::{ user=34087099 } |
 | ::{ flag=CN }:: ::fumofumofumo::{ user=37665528 } |
 | ::{ flag=CN }:: ::\[Crz\]anfish1013::{ user=31519818 } |
 | ::{ flag=CN }:: ::hoticing::{ user=33771159 } |
-| ::{ flag=CN }:: ::Aleph\1one::{ user=21693996 } |
+| ::{ flag=CN }:: ::Aleph_one::{ user=21693996 } |
 | ::{ flag=CN }:: ::036js::{ user=29089125 } |
 | ::{ flag=CN }:: ::Uesugi-Erii::{ user=30282134 } |
 | ::{ flag=CN }:: ::NoAnswerr::{ user=34596207 } |
-| ::{ flag=CN }:: ::Szak\1::{ user=24972681 } |
+| ::{ flag=CN }:: ::Szak_::{ user=24972681 } |
 | ::{ flag=CN }:: ::F6A8AF::{ user=32749965 } |
 | ::{ flag=CN }:: ::qxuanyu::{ user=30317145 } |
 | ::{ flag=CN }:: ::NotBadHuh::{ user=33005235 } |
 | ::{ flag=JP }:: ::ME1KO N3KO::{ user=17572282 } |
 | ::{ flag=CN }:: ::My Seele::{ user=32739668 } |
-| ::{ flag=CN }:: ::Adachi\1Rei::{ user=15522107 } |
+| ::{ flag=CN }:: ::Adachi_Rei::{ user=15522107 } |
 | ::{ flag=CN }:: ::Zyuuu::{ user=15389275 } |
 | ::{ flag=CN }:: ::HowToPlaySV::{ user=32494511 } |
 | ::{ flag=CN }:: ::Styrene::{ user=16998777 } |
-| ::{ flag=CN }:: ::Vain\1::{ user=38363768 } |
+| ::{ flag=CN }:: ::Vain_::{ user=38363768 } |
 | ::{ flag=CN }:: ::-4N0N-::{ user=35458163 } |
 | ::{ flag=CN }:: ::snowsabre::{ user=34035880 } |
 | ::{ flag=CN }:: ::DawnX::{ user=8534840 } |
@@ -156,7 +156,7 @@ The GB Cup 2026 In Real Life was run by Team GB and various community members.
 | ::{ flag=CN }:: ::Qutabirefanboy::{ user=35620882 } |
 | ::{ flag=CN }:: ::Qz501kn::{ user=8729618 } |
 | ::{ flag=CN }:: ::Ghost Neko::{ user=31157409 } |
-| ::{ flag=US }:: ::Chopsticks\1SC::{ user=36252662 } |
+| ::{ flag=US }:: ::Chopsticks_SC::{ user=36252662 } |
 | ::{ flag=CN }:: ::CHIRAN321::{ user=36874674 } |
 | ::{ flag=CN }:: ::neeeeeh::{ user=18586390 } |
 | ::{ flag=CN }:: ::6XvX7::{ user=33948486 } |
@@ -313,13 +313,13 @@ Saturday, 25 July 2026:
 | Ranking | Player | Sum rank |
 | --: | :-- | :-: |
 | 1 | ::{ flag=CN }:: ::shadiaojunshi::{ user=29165753 } | 16 |
-| 2 | ::{ flag=CN }:: ::Vain\1::{ user=38363768 } | 20 |
+| 2 | ::{ flag=CN }:: ::Vain_::{ user=38363768 } | 20 |
 | 3 | ::{ flag=CN }:: ::DawnX::{ user=8534840 } | 32 |
 | 4 | ::{ flag=CN }:: ::\[Crz\]anfish1013::{ user=31519818 } | 43 |
 | 5 | ::{ flag=CN }:: ::HowToPlaySV::{ user=32494511 } | 53 |
 | 6 | ::{ flag=CN }:: ::verysour::{ user=32358269 } | 73 |
 | 7 | ::{ flag=CN }:: ::lingR::{ user=18018980 } | 85 |
-| 8 | ::{ flag=CN }:: ::Szak\1::{ user=24972681 } | 86 |
+| 8 | ::{ flag=CN }:: ::Szak_::{ user=24972681 } | 86 |
 | 9 | ::{ flag=CN }:: ::My Angel Nanoka::{ user=10190740 } | 87 |
 | 10 | ::{ flag=CN }:: ::eilander::{ user=34990703 } | 101 |
 | 11 | ::{ flag=CN }:: ::\[GB\]fanqiu::{ user=16233412 } | 112 |
@@ -332,7 +332,7 @@ Saturday, 25 July 2026:
 | 18 | ::{ flag=CN }:: ::Shizuku-09::{ user=27288518 } | 144 |
 | 19 | ::{ flag=CN }:: ::-4N0N-::{ user=35458163 } | 149 |
 | 20 | ::{ flag=CN }:: ::WhatuLvfor::{ user=26278347 } | 153 |
-| 21 | ::{ flag=CN }:: ::26\1::{ user=25520572 } | 158 |
+| 21 | ::{ flag=CN }:: ::26_::{ user=25520572 } | 158 |
 | 22 | ::{ flag=CN }:: ::Shenzouz::{ user=29606773 } | 173 |
 | 23 | ::{ flag=CN }:: ::Zyuuu::{ user=15389275 } | 174 |
 | 24 | ::{ flag=CN }:: ::F4ntast1stOwO::{ user=32716417 } | 177 |
@@ -356,25 +356,25 @@ Saturday, 25 July 2026:
 | 42 | ::{ flag=CN }:: ::NanLx::{ user=35672322 } | 279 |
 | 43 | ::{ flag=CN }:: ::CanRuoFanXing::{ user=34523998 } | 287 |
 | 44 | ::{ flag=CN }:: ::FANYiii09::{ user=38118641 } | 296 |
-| 45 | ::{ flag=CN }:: ::c6H8o6\1::{ user=20984576 } | 304 |
+| 45 | ::{ flag=CN }:: ::c6H8o6_::{ user=20984576 } | 304 |
 | 46 | ::{ flag=CN }:: ::chana::{ user=18375016 } | 317 |
 | 47 | ::{ flag=ES }:: ::\[AR\]lv3plane::{ user=15964029 } | 323 |
 | 47 | ::{ flag=CN }:: ::\[Crz\]ZeenZore::{ user=30178970 } | 323 |
 | 49 | ::{ flag=CN }:: ::Sealone514::{ user=32324496 } | 326 |
-| 50 | ::{ flag=CN }:: ::Plus\1QwQ::{ user=25174222 } | 345 |
+| 50 | ::{ flag=CN }:: ::Plus_QwQ::{ user=25174222 } | 345 |
 | 51 | ::{ flag=CN }:: ::\[Paw\]INKINKINK::{ user=15807315 } | 352 |
 | 52 | ::{ flag=CN }:: ::\[GB\]sharkful::{ user=35850313 } | 360 |
-| 53 | ::{ flag=CN }:: ::Star\1vortex::{ user=23272007 } | 367 |
+| 53 | ::{ flag=CN }:: ::Star_vortex::{ user=23272007 } | 367 |
 | 54 | ::{ flag=CN }:: ::zhitu294::{ user=35925880 } | 381 |
 | 55 | ::{ flag=CN }:: ::MyAngelLaPluma::{ user=34427162 } | 383 |
 | 56 | ::{ flag=CN }:: ::yoe Lonann::{ user=14617751 } | 384 |
 | 57 | ::{ flag=CN }:: ::IgnoredStone::{ user=36869564 } | 394 |
-| 58 | ::{ flag=CN }:: ::Adachi\1Rei::{ user=15522107 } | 395 |
+| 58 | ::{ flag=CN }:: ::Adachi_Rei::{ user=15522107 } | 395 |
 | 59 | ::{ flag=CN }:: ::-duji-::{ user=33554103 } | 398 |
 | 60 | ::{ flag=CN }:: ::\[GB\]ruler::{ user=31497468 } | 415 |
 | 61 | ::{ flag=CN }:: ::SilentieLa::{ user=38084262 } | 420 |
 | 62 | ::{ flag=CN }:: ::NotBadHuh::{ user=33005235 } | 429 |
-| 63 | ::{ flag=CN }:: ::ToiletWater\1\1\1\1::{ user=35851725 } | 430 |
+| 63 | ::{ flag=CN }:: ::ToiletWater____::{ user=35851725 } | 430 |
 | 64 | ::{ flag=CN }:: ::skydome::{ user=37403457 } | 431 |
 | 65 | ::{ flag=CN }:: ::Joecos::{ user=14232615 } | 444 |
 | 65 | ::{ flag=FR }:: ::My Angel Rena::{ user=15246697 } | 444 |
@@ -386,12 +386,12 @@ Saturday, 25 July 2026:
 | 72 | ::{ flag=CN }:: ::qige666::{ user=31339429 } | 488 |
 | 73 | ::{ flag=CN }:: ::Ghost Neko::{ user=31157409 } | 505 |
 | 74 | ::{ flag=CN }:: ::Qz501kn::{ user=8729618 } | 517 |
-| 74 | ::{ flag=US }:: ::Chopsticks\1SC::{ user=36252662 } | 517 |
+| 74 | ::{ flag=US }:: ::Chopsticks_SC::{ user=36252662 } | 517 |
 | 76 | ::{ flag=CN }:: ::Luciole::{ user=29854899 } | 519 |
 | 77 | ::{ flag=HK }:: ::biubiutu::{ user=18801193 } | 533 |
 | 78 | ::{ flag=CN }:: ::hoticing::{ user=33771159 } | 534 |
 | 79 | ::{ flag=NZ }:: ::XiaoLan9999::{ user=15748267 } | 545 |
-| 80 | ::{ flag=CN }:: ::ju\1jian233::{ user=31258348 } | 551 |
+| 80 | ::{ flag=CN }:: ::ju_jian233::{ user=31258348 } | 551 |
 | 81 | ::{ flag=CN }:: ::yin14514::{ user=38267565 } | 561 |
 | 82 | ::{ flag=CN }:: ::CHIRAN321::{ user=36874674 } | 565 |
 | 83 | ::{ flag=CN }:: ::linglingyi001::{ user=34087099 } | 571 |

@@ -31,7 +31,7 @@ In future evaluations, we would like to trial a less punishing system, whereby e
 
 ### New Beatmap Nominator Service Badges
 
-Christmas wouldn't be Christmas without gift-giving! In the spirit of the holidays, and in recognition of some of our hardest-working and longest-serving Beatmap Nominators, please join me in showing your utmost appreciation for ::Kawawa::{ user=4647754 }, ::neonat::{ user=1561995 }, ::tasuke912::{ user=2774767 }, (3 years of service each), ::Critical\1Star::{ user=3793196 }, ::Rivals\17::{ user=4610379 }, ::Sandalphon::{ user=2633753 } and ::Okoratu::{ user=1623405 } (2 years of service each).
+Christmas wouldn't be Christmas without gift-giving! In the spirit of the holidays, and in recognition of some of our hardest-working and longest-serving Beatmap Nominators, please join me in showing your utmost appreciation for ::Kawawa::{ user=4647754 }, ::neonat::{ user=1561995 }, ::tasuke912::{ user=2774767 }, (3 years of service each), ::Critical_Star::{ user=3793196 }, ::Rivals_7::{ user=4610379 }, ::Sandalphon::{ user=2633753 } and ::Okoratu::{ user=1623405 } (2 years of service each).
 
 All mentioned members will receive a shiny new profile badge (or incremental flair upgrade if they earned one previously), which we encourage them to wear with pride in appreciation of their meritorious voluntary service.
 

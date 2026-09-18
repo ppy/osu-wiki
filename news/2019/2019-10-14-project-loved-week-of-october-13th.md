@@ -73,7 +73,7 @@ osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::iceOC::{ 
 
 [![](/wiki/shared/news/2019-10-14-project-loved-week-of-october-13th/taiko/1-underveil-is-real-and-we-are-underveil.jpg)](https://osu.ppy.sh/community/forums/topics/973347)
 
-[UNDERVEIL ALLSTARS - UNDERVEIL IS REAL!!! ...AND WE ARE UNDERVEIL!!!](https://osu.ppy.sh/beatmapsets/769661#taiko) by ::Noko\1BSF::{ user=3811831 } et al.\
+[UNDERVEIL ALLSTARS - UNDERVEIL IS REAL!!! ...AND WE ARE UNDERVEIL!!!](https://osu.ppy.sh/beatmapsets/769661#taiko) by ::Noko_BSF::{ user=3811831 } et al.\
 180 BPM, 5:45 | 5.59★\
 *description written by ::nyanmi-1828::{ user=6866480 }*
 
@@ -83,7 +83,7 @@ Coming to Loved this week is a huge collab hosted by Noko_BSF, with 22 mappers c
 
 [![](/wiki/shared/news/2019-10-14-project-loved-week-of-october-13th/taiko/2-mariquita-breakcore.jpg)](https://osu.ppy.sh/community/forums/topics/973346)
 
-[Rahatt - Mariquita Breakcore](https://osu.ppy.sh/beatmapsets/933247#taiko) by ::7\17::{ user=7491106 }\
+[Rahatt - Mariquita Breakcore](https://osu.ppy.sh/beatmapsets/933247#taiko) by ::7_7::{ user=7491106 }\
 220 BPM, 2:52 | 9.22★\
 *description written by ::-Kazu-::{ user=920861 }*
 

@@ -52,11 +52,11 @@ The Mapping to Pander: Taiko contest series is run by various community members.
 
 | Contest No. | Judge | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
-| [#1](https://osu.ppy.sh/community/forums/topics/1624880) | ::{ flag=NL }:: ::Boaz::{ user=13302996 } | ::{ flag=JP }:: ::\1Rise::{ user=5217107 } | ::{ flag=CL }:: ::Metsaller::{ user=4364791 } | ::{ flag=FI }:: ::Antti::{ user=13281473 } | [Results](https://docs.google.com/spreadsheets/d/1aR1GjF8diyjFhK_k_uOkU40zIKjaQbXhVbGDGmq5pdg/edit?usp=sharing) |
+| [#1](https://osu.ppy.sh/community/forums/topics/1624880) | ::{ flag=NL }:: ::Boaz::{ user=13302996 } | ::{ flag=JP }:: ::_Rise::{ user=5217107 } | ::{ flag=CL }:: ::Metsaller::{ user=4364791 } | ::{ flag=FI }:: ::Antti::{ user=13281473 } | [Results](https://docs.google.com/spreadsheets/d/1aR1GjF8diyjFhK_k_uOkU40zIKjaQbXhVbGDGmq5pdg/edit?usp=sharing) |
 | [#2](https://osu.ppy.sh/community/forums/topics/1639586) | ::{ flag=AR }:: ::Axer::{ user=7299864 } | ::{ flag=TH }:: ::Ph0eNiiXZ::{ user=9463721 } | ::{ flag=SG }:: ::\_gt::{ user=8301957 } | ::{ flag=US }:: ::Vixlowo::{ user=20295114 } | [Results](https://docs.google.com/spreadsheets/d/1ps3bOL2JlzwPEh0gVTLHnp7E48stwqHMH6-ljDSBJQs/edit?usp=sharing) |
 | [#3](https://osu.ppy.sh/community/forums/topics/1652502) | ::{ flag=US }:: ::radar::{ user=7131099 } | ::{ flag=DE }:: ::Zetera::{ user=587737 } | ::{ flag=FI }:: ::Antti::{ user=13281473 } | ::{ flag=NL }:: ::Boaz::{ user=13302996 }, ::{ flag=TH }:: ::Ph0eNiiXZ::{ user=9463721 } | [Results](https://docs.google.com/spreadsheets/d/1UXvS2ZdlRHOj8mltCX8LtluQwXrcXZ_B8D02LIdcJoc/edit?usp=sharing) |
 | [#4](https://osu.ppy.sh/community/forums/topics/1704114) | ::{ flag=HK }:: ::Cynplytholowazy::{ user=3901754 } | ::{ flag=AR }:: ::paz08::{ user=9964420 } | ::{ flag=HK }:: ::Irone OSU::{ user=10678230 } | ::{ flag=GB }:: ::Dusk-::{ user=6092181 } | [Results](https://docs.google.com/spreadsheets/d/1zywwZ1hTqM0ctSVbfixOX-5s4-ez8E2Hg82nmSznY80/edit?usp=sharing) |
-| [#5](https://osu.ppy.sh/community/forums/topics/1789253) | ::{ flag=GR }:: ::Genjuro::{ user=3196091 } | ::{ flag=JP }:: ::\1Rise::{ user=5217107 } | ::{ flag=SG }:: ::\_gt::{ user=8301957 } | ::{ flag=MY }:: ::ler1211::{ user=19901680 } | [Results](https://docs.google.com/spreadsheets/d/1i3W4D6Y5Zz13YzDdSWk9HoblzrDtfLP8ZAX4VsSyD74/edit?usp=sharing) |
+| [#5](https://osu.ppy.sh/community/forums/topics/1789253) | ::{ flag=GR }:: ::Genjuro::{ user=3196091 } | ::{ flag=JP }:: ::_Rise::{ user=5217107 } | ::{ flag=SG }:: ::\_gt::{ user=8301957 } | ::{ flag=MY }:: ::ler1211::{ user=19901680 } | [Results](https://docs.google.com/spreadsheets/d/1i3W4D6Y5Zz13YzDdSWk9HoblzrDtfLP8ZAX4VsSyD74/edit?usp=sharing) |
 | [#6](https://osu.ppy.sh/community/forums/topics/1867080) | ::{ flag=US }:: ::meiqth::{ user=12565402 } | ::{ flag=US }:: ::Jayceko::{ user=19951350 } | ::{ flag=JP }:: ::tasuke912::{ user=2774767 } | ::{ flag=MY }:: ::Asagi Mutsuki::{ user=2403621 } | [Results](https://docs.google.com/spreadsheets/d/1gAMdcfRFHUk4pmwVzWI0daM6KGl0r26nMyf-Sqt5PP4/edit?usp=sharing) |
 
 ## Rewards
@@ -82,7 +82,7 @@ Pander Points reward users with a **profile badge**, which can be upgraded at ce
 
 | User | Points |
 | :-- | :-: |
-| ::{ flag=JP }:: ::\1Rise::{ user=5217107 } | 6 |
+| ::{ flag=JP }:: ::_Rise::{ user=5217107 } | 6 |
 | ::{ flag=SG }:: ::\_gt::{ user=8301957 } | 4 |
 | ::{ flag=TH }:: ::Ph0eNiiXZ::{ user=9463721 } | 4 |
 | ::{ flag=AR }:: ::paz08::{ user=9964420 } | 3 |

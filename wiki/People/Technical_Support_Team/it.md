@@ -29,4 +29,4 @@ La [Pagina di Gruppo del Team di Supporto](https://osu.ppy.sh/groups/22) ne elen
 | ::{ flag=KR }:: ::Civil oath::{ user=3216107 } | Coreano, giapponese |
 | ::{ flag=DE }:: ::Lyawi::{ user=5851253 } | Tedesco |
 | ::{ flag=PH }:: ::Nathanael::{ user=2295078 } | Filippino |
-| ::{ flag=PL }:: ::spaceman\1atlas::{ user=3035836 } | Polacco |
+| ::{ flag=PL }:: ::spaceman_atlas::{ user=3035836 } | Polacco |

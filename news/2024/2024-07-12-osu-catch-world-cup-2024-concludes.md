@@ -298,7 +298,7 @@ As for myself, ::dahcreeper::{ user=6926006 }, and ::lexii::{ user=7226149 }, th
 
 ![](/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/wwwww-and-yoshi_green.png)
 
-::wwwww::{ user=8434466 } and ::Yoshi\1green::{ user=1035891 } assisted in various tasks as "advisors" for the osu!catch World Cup 2024.
+::wwwww::{ user=8434466 } and ::Yoshi_green::{ user=1035891 } assisted in various tasks as "advisors" for the osu!catch World Cup 2024.
 
 ---
 

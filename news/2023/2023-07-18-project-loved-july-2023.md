@@ -22,7 +22,7 @@ As a reminder, we have recently added all-new **Project Loved medals**! If you h
 
 ![](/wiki/shared/news/2023-06-21-project-loved-june-2023/medals.png)
 
-Additionally, the osu!mania captain team is now taking applications for a few new 4K captains, as we had to bid farewell to ::\1Crz\1hinako1804::{ user=13747903 }. We wish them the very best on their future endeavours.
+Additionally, the osu!mania captain team is now taking applications for a few new 4K captains, as we had to bid farewell to ::[Crz]hinako1804::{ user=13747903 }. We wish them the very best on their future endeavours.
 
 If you are interested in applying as a 4K osu!mania captain, you can apply by clicking the banner below!
 
@@ -61,7 +61,7 @@ The osu! Loved candidates were chosen by ::Kingling::{ user=7010761 }, ::megumic
 
 [![](/wiki/shared/news/2023-07-18-project-loved-july-2023/1263883.jpg)](https://osu.ppy.sh/community/forums/topics/1795128)
 
-[Kobaryo - Theme for Psychopath Justice](https://osu.ppy.sh/beatmapsets/1263883#osu) by ::ScubDomino::{ user=8972308 }, ::-Atri-::{ user=2433720 }, ::araran::{ user=8937198 }, ::cotton\1\1123::{ user=9823042 }, ::Kawashiro::{ user=1533796 }, ::Lulu-::{ user=4201715 }, ::milr\_::{ user=4485933 }, ::R3m::{ user=6990066 }, and ::s0m3guy::{ user=11141924 }\
+[Kobaryo - Theme for Psychopath Justice](https://osu.ppy.sh/beatmapsets/1263883#osu) by ::ScubDomino::{ user=8972308 }, ::-Atri-::{ user=2433720 }, ::araran::{ user=8937198 }, ::cotton__123::{ user=9823042 }, ::Kawashiro::{ user=1533796 }, ::Lulu-::{ user=4201715 }, ::milr\_::{ user=4485933 }, ::R3m::{ user=6990066 }, and ::s0m3guy::{ user=11141924 }\
 183 BPM, 2:11 | 2.02★ – 12.16★\
 *description written by ::Wixonater::{ user=10083084 }*
 
@@ -220,7 +220,7 @@ The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::aceti
 
 [![](/wiki/shared/news/2023-07-18-project-loved-july-2023/1784009.jpg)](https://osu.ppy.sh/community/forums/topics/1795116)
 
-[Bizarrap - PTAZETA || BZRP Music Sessions #45](https://osu.ppy.sh/beatmapsets/1784009#taiko) by ::-Ryuji-::{ user=18603653 }, ::\_Illustrious\_::{ user=8256770 }, ::5\15::{ user=6853438 }, ::Furiiii::{ user=22676825 }, ::Genjuro::{ user=3196091 }, ::giyokon::{ user=10852632 }, ::maxie::{ user=6447505 }, and ::T w i g::{ user=15776151 }\
+[Bizarrap - PTAZETA || BZRP Music Sessions #45](https://osu.ppy.sh/beatmapsets/1784009#taiko) by ::-Ryuji-::{ user=18603653 }, ::\_Illustrious\_::{ user=8256770 }, ::5_5::{ user=6853438 }, ::Furiiii::{ user=22676825 }, ::Genjuro::{ user=3196091 }, ::giyokon::{ user=10852632 }, ::maxie::{ user=6447505 }, and ::T w i g::{ user=15776151 }\
 160 BPM, 1:58 | 5.25★ – 8.01★\
 *description written by ::ler1211::{ user=19901680 }*
 
@@ -238,11 +238,11 @@ There are a few exceptions to this rule by nature of being a tournament pick for
 
 [![](/wiki/shared/news/2023-07-18-project-loved-july-2023/1362919.jpg)](https://osu.ppy.sh/community/forums/topics/1795114)
 
-[Gomitaro - Thank you ppv2 (extend?)](https://osu.ppy.sh/beatmapsets/1362919#taiko) by ::X a v y::{ user=3738344 }, ::5\15::{ user=6853438 }, ::A-40::{ user=14510301 }, ::Boaz::{ user=13302996 }, ::Canboi::{ user=933630 }, ::Dust kona::{ user=14438623 }, ::Flan\1Fan::{ user=13780435 }, ::h3oCharles::{ user=8712289 }, Homecoin, ::Miniature Lamp::{ user=9821194 }, ::Nozdormu::{ user=7169208 }, ::POCARI SWEAT::{ user=5082685 }, ::Raytoly::{ user=8121109 }, and ::Roxy-::{ user=11931563 }\
+[Gomitaro - Thank you ppv2 (extend?)](https://osu.ppy.sh/beatmapsets/1362919#taiko) by ::X a v y::{ user=3738344 }, ::5_5::{ user=6853438 }, ::A-40::{ user=14510301 }, ::Boaz::{ user=13302996 }, ::Canboi::{ user=933630 }, ::Dust kona::{ user=14438623 }, ::Flan_Fan::{ user=13780435 }, ::h3oCharles::{ user=8712289 }, Homecoin, ::Miniature Lamp::{ user=9821194 }, ::Nozdormu::{ user=7169208 }, ::POCARI SWEAT::{ user=5082685 }, ::Raytoly::{ user=8121109 }, and ::Roxy-::{ user=11931563 }\
 230 BPM, 6:52 | 7.50★, 7.99★, 8.27★\
 *description written by ::Sebola::{ user=15821708 }*
 
-If you want to remember old times, this map is the best option for it! With a cool storyboard made by ::h3oCharles::{ user=8712289 }, (with the help of ::PoNo::{ user=4610047 }, ::Peter::{ user=8623835 } and ::Jerry::{ user=605973 }) and featuring 15 mappers: ::5\15::{ user=6853438 }, ::A-40::{ user=14510301 }, ::Boaz::{ user=13302996 }, ::Flan\1Fan::{ user=13780435 }, ::Dust kona::{ user=14438623 }, ::Canboi::{ user=933630 }, Homecoin, ::Roxy-::{ user=11931563 }, ::Miniature Lamp::{ user=9821194 }, ::Nozdormu::{ user=7169208 }, ::POCARI SWEAT::{ user=5082685 }, ::Raytoly::{ user=8121109 }, ::WTHBRO::{ user=8957119 }, ::X a v y::{ user=3738344 } and h3oCharles.
+If you want to remember old times, this map is the best option for it! With a cool storyboard made by ::h3oCharles::{ user=8712289 }, (with the help of ::PoNo::{ user=4610047 }, ::Peter::{ user=8623835 } and ::Jerry::{ user=605973 }) and featuring 15 mappers: ::5_5::{ user=6853438 }, ::A-40::{ user=14510301 }, ::Boaz::{ user=13302996 }, ::Flan_Fan::{ user=13780435 }, ::Dust kona::{ user=14438623 }, ::Canboi::{ user=933630 }, Homecoin, ::Roxy-::{ user=11931563 }, ::Miniature Lamp::{ user=9821194 }, ::Nozdormu::{ user=7169208 }, ::POCARI SWEAT::{ user=5082685 }, ::Raytoly::{ user=8121109 }, ::WTHBRO::{ user=8957119 }, ::X a v y::{ user=3738344 } and h3oCharles.
 
 With complex SVs and patterns, this map has the most varied styles of mapping. All of that makes the perfect combination to remember times in which it was possible to do a ritual for the aether and leave the earth's atmosphere by playing taiko!
 
@@ -262,7 +262,7 @@ Are you ready for this absolute nightmare?
 
 [![](/wiki/shared/news/2023-07-18-project-loved-july-2023/1414258.jpg)](https://osu.ppy.sh/community/forums/topics/1795112)
 
-[Sakurei - ENERGY Suiken MATRIX](https://osu.ppy.sh/beatmapsets/1414258#taiko) by ::layxa::{ user=14800030 }, ::7\17::{ user=7491106 }, ::HatsuMin::{ user=3885635 }, and ::KTYN::{ user=2250574 }\
+[Sakurei - ENERGY Suiken MATRIX](https://osu.ppy.sh/beatmapsets/1414258#taiko) by ::layxa::{ user=14800030 }, ::7_7::{ user=7491106 }, ::HatsuMin::{ user=3885635 }, and ::KTYN::{ user=2250574 }\
 160 – 320 BPM, 1:14 | 6.71★, 6.73★, 6.90★, 7.09★\
 *description written by ::Eriha::{ user=16320311 }*
 
@@ -421,7 +421,7 @@ What else do you need to know? Ask us in the thread and don't forget to vote!
 
 [![](/wiki/shared/news/2023-07-18-project-loved-july-2023/796826.jpg)](https://osu.ppy.sh/community/forums/topics/1795102)
 
-[Various Artists - Jumpstream Of Fighters Vol. 1B](https://osu.ppy.sh/beatmapsets/796826#mania) by ::Leo137::{ user=1177817 }, ::akuma123::{ user=914472 }, and ::blazziken\1old::{ user=2544313 }\
+[Various Artists - Jumpstream Of Fighters Vol. 1B](https://osu.ppy.sh/beatmapsets/796826#mania) by ::Leo137::{ user=1177817 }, ::akuma123::{ user=914472 }, and ::blazziken_old::{ user=2544313 }\
 120.23 – 200.21 BPM, 13:09 | 4.66★ – 5.71★\
 The \[(Marathon) - Delete Upon Download\] difficulty is *not* being nominated for Loved.\
 *description written by ::Mipha-::{ user=5767941 }*
@@ -492,11 +492,11 @@ If you want to see more charts of this type and difficulty, make sure to give so
 
 [![](/wiki/shared/news/2023-07-18-project-loved-july-2023/1510465.jpg)](https://osu.ppy.sh/community/forums/topics/1795097)
 
-[Mrs. GREEN APPLE - Ao To Natsu](https://osu.ppy.sh/beatmapsets/1510465#mania) by ::emO\1Oticon::{ user=12064488 }\
+[Mrs. GREEN APPLE - Ao To Natsu](https://osu.ppy.sh/beatmapsets/1510465#mania) by ::emO_Oticon::{ user=12064488 }\
 185 BPM, 4:28 | 6.37★, 8.83★\
 *description written by ::-NoName-::{ user=10400730 }*
 
-::emO\1Oticon::{ user=12064488 } returns to the Loved nominations with a multi-key set of *Ao To Natsu*!
+::emO_Oticon::{ user=12064488 } returns to the Loved nominations with a multi-key set of *Ao To Natsu*!
 
 The 4K chart, *Our Blue Has Begun*, is mostly a simple LN density pick. The LN complexity for the 4K difficulty is not too high, so this is pretty approachable for people who want to learn how to play LNs.
 

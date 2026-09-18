@@ -33,7 +33,7 @@ We saw the osu! original production team back with the first appearance in the o
     </audio>
 </div>
 
-A brand-new artist has made their first appearance in osu! world cups with the release of [Buy Now!](https://osu.ppy.sh/beatmapsets/2527043#taiko/5582858) by [OLDUCT](https://osu.ppy.sh/beatmaps/artists/535). Mapped by ::miyagishima::{ user=8027517 } and serving as the NM2 slot of the pool, this map combines 1/4, 1/6 and 1/9 snaps for a challenging rhythm experience. The beautifully crafted storyboard by ::Kafka::{ user=9148291 } and ::Initial\1D::{ user=8382535 } adds the cherry on top.
+A brand-new artist has made their first appearance in osu! world cups with the release of [Buy Now!](https://osu.ppy.sh/beatmapsets/2527043#taiko/5582858) by [OLDUCT](https://osu.ppy.sh/beatmaps/artists/535). Mapped by ::miyagishima::{ user=8027517 } and serving as the NM2 slot of the pool, this map combines 1/4, 1/6 and 1/9 snaps for a challenging rhythm experience. The beautifully crafted storyboard by ::Kafka::{ user=9148291 } and ::Initial_D::{ user=8382535 } adds the cherry on top.
 
 Please check out the showcase video below in case you missed its livestream reveal!
 

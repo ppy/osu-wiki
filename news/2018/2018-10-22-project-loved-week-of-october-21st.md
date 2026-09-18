@@ -94,7 +94,7 @@ Yet another Imperial Circus Dead Decadence song has landed itself in the Loved v
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::Backfire::{ user=263110 }, ::-\1 ix Ishida xi \1-::{ user=242910 }, ::-Kazu-::{ user=920861 }, ::iceOC::{ user=5482401 } and ::nyanmi-1828::{ user=6866480 }!
+osu!taiko Loved candidates were chosen by ::Backfire::{ user=263110 }, ::-[ ix Ishida xi ]-::{ user=242910 }, ::-Kazu-::{ user=920861 }, ::iceOC::{ user=5482401 } and ::nyanmi-1828::{ user=6866480 }!
 
 ---
 
@@ -207,7 +207,7 @@ There are two 7K difficulties. Both of these require high amounts of finger inde
 [BABYMETAL - Road of Resistance](https://osu.ppy.sh/beatmapsets/355176#mania) by ::Akary::{ user=3912608 } et al.\
 *written by ::aitor98::{ user=3154852 }*
 
-The next chart on the list is goes by the name of Road of Resistance by Akary (and company). This collab features six different mappers, which are ::Julie::{ user=2420987 }, ::DarkSider2442::{ user=1130069 }, [dosyeru](https://osu.ppy.sh/beatmapsets/518090), ::Kivicat::{ user=2790640 }, ::\1Shi-Ra\1::{ user=2008489 } and Akary themselves. Coming up at 205 BPM, it starts with a kind of calm long note section, that keeps building up until it reaches the 1-minute mark, where everything starts to go wild. Fast chordstreams, followed by staircases and some irregular patterning does make it hard to play and read. It might get slower after the end of the first section, which lasts for 30 seconds approximately, but do not be fooled by this. The more you advance throughout the map, the more complex the patterns will be. Mixing different snaps, a few minijacks every here and there and some nasty bursts will show up during these five minutes.
+The next chart on the list is goes by the name of Road of Resistance by Akary (and company). This collab features six different mappers, which are ::Julie::{ user=2420987 }, ::DarkSider2442::{ user=1130069 }, [dosyeru](https://osu.ppy.sh/beatmapsets/518090), ::Kivicat::{ user=2790640 }, ::[Shi-Ra]::{ user=2008489 } and Akary themselves. Coming up at 205 BPM, it starts with a kind of calm long note section, that keeps building up until it reaches the 1-minute mark, where everything starts to go wild. Fast chordstreams, followed by staircases and some irregular patterning does make it hard to play and read. It might get slower after the end of the first section, which lasts for 30 seconds approximately, but do not be fooled by this. The more you advance throughout the map, the more complex the patterns will be. Mixing different snaps, a few minijacks every here and there and some nasty bursts will show up during these five minutes.
 
 This chart does have a good balance between long and normal notes, which does not make it extremely hard for those players who do not feel too comfortable with long notes. Definitely something worth enough for loved.
 

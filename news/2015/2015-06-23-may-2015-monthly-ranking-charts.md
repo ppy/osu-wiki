@@ -130,7 +130,7 @@ A song like this is accompanied very well with Shinzo-'s mapping style. Along wi
 
 Another great mapset from the same person that mapped one of the hardest 4K mapsets, this time with a song that's intense with feeling. The shifting musical phrases and the mildly shifting BPM can make a mapset potentially unique to its own, and Ichigaki mapped it excellently. This mapping style doesn't appear in a lot of maps, but it's structure flows really well for this song. The long note patterns, 1/4 jacks, 1/8 rolls and semi-heavy streams really capture the fierce feeling of the song. This is a mapset that is easily one of the most notable in the charts of May 2015 as it really stands out from other mapsets.
 
-- [Halozy - Koi no Serenade](https://osu.ppy.sh/beatmapsets/308944) by ::\117VA\1::{ user=1895984 }
+- [Halozy - Koi no Serenade](https://osu.ppy.sh/beatmapsets/308944) by ::[17VA]::{ user=1895984 }
 
 A catchy song wonderfully mapped by 17VA. His style emphasizes on heavy long note usage, but the way the patterns are arranged look aesthetically pleasing. They are also quite fun to play for many players as it has streams and manageable 1/4 jacks added in the mix of long notes. Along with being a good long note practice map, this map is unique with its use of long notes while covering the relaxing feeling of the song.
 
@@ -138,7 +138,7 @@ A catchy song wonderfully mapped by 17VA. His style emphasizes on heavy long not
 
 Kyousuke- brings out 8 difficulties in a mapset featuring the ever-popular 4K keymode and the not-so-often-seen 5K keymode. The mapset has a nice spread, covering new players and advanced players, and as you work your way up to higher difficulties, more and more intricate patterns are introduced in the song. The storyboard also adds a nice touch to the mapset, reflecting the song's pace very well. Let's not forget that there are a total 6 people who worked on this mapset, each with their own interpretation of the song. Great job to everyone involved in the mapset!
 
-- [Hana - Kuukirikigaku Shoujo to Shounen no Uta](https://osu.ppy.sh/beatmapsets/251951) by ::\1AyanoTatemaya\1::{ user=2760619 }
+- [Hana - Kuukirikigaku Shoujo to Shounen no Uta](https://osu.ppy.sh/beatmapsets/251951) by ::[AyanoTatemaya]::{ user=2760619 }
 
 \[AyanoTatemaya\] brings us another mapset that contains both 4K and 7K keymodes, adding up to 6 difficulties in total. The difficulty spread is great, covering for a wide variety of players. The patterns are done well and are very enjoyable, and the mix of long notes and regular notes provide a little bit of challenge as you work up through the difficulties. Even then, the mapset's structure and the song go along with each other very well, and this is a mapset that many people would enjoy.
 

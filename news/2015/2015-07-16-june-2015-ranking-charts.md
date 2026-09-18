@@ -133,7 +133,7 @@ An extended version of the popular B.B.K.K.B.K.K. song from BMS - And Marirose b
 
 Congratulations to the winners of the May 2015 Ranking Charts. They receive a month of supporter status for their efforts!
 
-- **osu! standard:** ::\1Toy\1::{ user=2757689 }
+- **osu! standard:** ::[Toy]::{ user=2757689 }
 - **Taiko:** ::Nishizumi::{ user=2496768 }
 - **Catch the Beat:** ::Dusk::{ user=533210 }
 - **osu!mania:** ::\_S h i r o\_::{ user=766374 }

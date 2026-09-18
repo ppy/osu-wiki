@@ -18,7 +18,7 @@ First of all, congratulations to the winners of the May 2017 Spotlights. They re
 
 - **osu!:** ::Toy::{ user=2757689 }
 - **osu!taiko:** ::Quizmaegi::{ user=2228401 }
-- **osu!catch:** ::\1Asriel::{ user=566276 }
+- **osu!catch:** ::_Asriel::{ user=566276 }
 - **osu!mania:** ::Xcstasy::{ user=1306875 }
 
 ## osu!
@@ -61,7 +61,7 @@ This seven minute long map features all kinds of things, from typical 1/4-snappe
 
 [![](/wiki/shared/news/2017-08-02-beatmap-spotlights-june-2017/blinded-in-chains.jpg)](https://osu.ppy.sh/beatmapsets/536955)
 
-He might be a rookie, but **::gaston\12199::{ user=5938161 }** mapset is no less impressive despite his relative inexperience at mapping, boasting a solid structure with common patterning to boot. Combining different patterns within the same structure, he manages to create a map that highlights the melody of the song without being boring, highlighting a big emphasis on streams coupled with hitsounds tied closely to the music itself. In conclusion, the map is well structured and could be a good model to learn how to map an osu!taiko map on this kind of song.
+He might be a rookie, but **::gaston_2199::{ user=5938161 }** mapset is no less impressive despite his relative inexperience at mapping, boasting a solid structure with common patterning to boot. Combining different patterns within the same structure, he manages to create a map that highlights the melody of the song without being boring, highlighting a big emphasis on streams coupled with hitsounds tied closely to the music itself. In conclusion, the map is well structured and could be a good model to learn how to map an osu!taiko map on this kind of song.
 
 [![](/wiki/shared/news/2017-08-02-beatmap-spotlights-june-2017/we-are-number-one.jpg)](https://osu.ppy.sh/beatmapsets/547301)
 
@@ -91,7 +91,7 @@ Mapping lower BPM certainly brings its own challenges in osu!catch but **::JBHyp
 
 [![](/wiki/shared/news/2017-08-02-beatmap-spotlights-june-2017/illusion-of-inflict.jpg)](https://osu.ppy.sh/beatmapsets/529574)
 
-This time, **::Reba::{ user=3087654 }** is bringing us an almost perfectly structured beatmap in every aspect as well as seven guest difficulties. Although the BPM is not really high, you can find challenging patterns such as jacks, long notes, chordstreams and more, specially in **::Critical\1Star::{ user=3793196 }**'s.
+This time, **::Reba::{ user=3087654 }** is bringing us an almost perfectly structured beatmap in every aspect as well as seven guest difficulties. Although the BPM is not really high, you can find challenging patterns such as jacks, long notes, chordstreams and more, specially in **::Critical_Star::{ user=3793196 }**'s.
 
 Talking about the hardest map in the set, it has everything mentioned before but way more dense than all the other diffculties as well as a few noticeable Slider Velocity changes at the last section of the map. It has every kind of difficulties, going from 1 star to almost 6 and a half so it's recommended to play to anyone.
 

@@ -56,7 +56,7 @@ The osu!taiko World Cup 2020 was run by various community members.
 
 |  | Country | Members |
 | :-: | :-: | :-- |
-| ::{ flag=AR }:: | **Argentina** | **::gaston\12199::{ user=5938161 }**, ::Axer::{ user=7299864 }, ::BossPlays::{ user=7341471 }, ::EniAyuwoki::{ user=10956624 } |
+| ::{ flag=AR }:: | **Argentina** | **::gaston_2199::{ user=5938161 }**, ::Axer::{ user=7299864 }, ::BossPlays::{ user=7341471 }, ::EniAyuwoki::{ user=10956624 } |
 | ::{ flag=AU }:: | **Australia** | **::soliderror::{ user=10630542 }**, ::acid::{ user=2913584 }, ::Beat43210::{ user=5664171 }, ::richy2001::{ user=11499467 }, ::Tsubasa2::{ user=6835183 } |
 | ::{ flag=AT }:: | **Austria** | **::animexamera::{ user=7511357 }**, ::Der Katze::{ user=7645997 }, ::morth1::{ user=7246874 } |
 | ::{ flag=BE }:: | **Belgium** | **::XOlifreX::{ user=4328137 }**, ::steen::{ user=9441958 }, ::flippy555::{ user=3635636 }, ::Zomer::{ user=8280090 } |

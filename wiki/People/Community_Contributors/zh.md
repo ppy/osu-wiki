@@ -124,7 +124,7 @@ outdated_since: 9b78bd52e4862b87d9cc5fbe815982492a13eff3
 | ::{ flag=AU }:: ::Syrin::{ user=5701575 } | [PerformancePlus](https://syrin.me/pp+/) 和 [osu!chan](https://osuchan.syrin.me) 的创造者 |
 | ::{ flag=SG }:: ::Raveille::{ user=1388767 } | 对 Scorewatch 计划的杰出贡献 |
 | ::{ flag=FR }:: ::ThePooN::{ user=718454 } | 对 Scorewatch 计划的杰出贡献 |
-| ::{ flag=US }:: ::MegaApple\1Pi::{ user=2148208 } | 通过大量的修订、重写和复核推动了 osu! wiki 发展 |
+| ::{ flag=US }:: ::MegaApple_Pi::{ user=2148208 } | 通过大量的修订、重写和复核推动了 osu! wiki 发展 |
 | ::{ flag=PL }:: ::TPGPL::{ user=3944705 } | 作为 osu! wiki 项目的领头羊，多年来对其做出了巨大贡献 |
 
 ### 2019
@@ -200,7 +200,7 @@ outdated_since: 9b78bd52e4862b87d9cc5fbe815982492a13eff3
 | ::{ flag=DE }:: ::hallowatcher::{ user=1874761 } | 对社区活动和开发的杰出贡献 |
 | ::{ flag=GB }:: ::mangomizer::{ user=1893718 } | 对世界杯和社区活动的杰出贡献 |
 | ::{ flag=DE }:: ::Lasse::{ user=896613 } | 对作图和摸图领域的杰出贡献 |
-| ::{ flag=PL }:: ::spaceman\1atlas::{ user=3035836 } | 对通过许多项目为 osu! 开发的杰出贡献 |
+| ::{ flag=PL }:: ::spaceman_atlas::{ user=3035836 } | 对通过许多项目为 osu! 开发的杰出贡献 |
 | ::{ flag=DE }:: ::RockRoller::{ user=8388854 } | 对 osu! 皮肤制作和摸图的杰出贡献 |
 | ::{ flag=US }:: ::I Must Decrease::{ user=2773526 } | 对计分维护和开发的杰出贡献 |
 | ::{ flag=US }:: ::this1neguy::{ user=1797189 } | 对世界杯和社区锦标赛领域的杰出贡献 |

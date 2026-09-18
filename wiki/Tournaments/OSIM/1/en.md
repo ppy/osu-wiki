@@ -428,7 +428,7 @@ Sunday, 19 April 2020:
 | #11 | A | ::{ flag=SG }:: ::Rtzer0::{ user=5407620 } | 7.294 |
 | #12 | A | ::{ flag=ID }:: ::F4UZ4N::{ user=11070577 } | 7.083 |
 | #13 | A | ::{ flag=MY }:: ::Sei Shaneagon::{ user=3677251 } | 6.624 |
-| #14 | A | ::{ flag=MY }:: ::not\1aweeb::{ user=9375317 } | 6.196 |
+| #14 | A | ::{ flag=MY }:: ::not_aweeb::{ user=9375317 } | 6.196 |
 | #15 | A | ::{ flag=ID }:: ::121Brian121::{ user=6192975 } | 6.105 |
 | #16 | A | ::{ flag=MY }:: ::Monofly::{ user=11134301 } | 5.99 |
 | #17 | A | ::{ flag=MY }:: ::FaithInOsu::{ user=10178187 } | 5.868 |

@@ -41,7 +41,7 @@ Try out [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2072833) hosted b
 
 ### ColBreakz - 2011
 
-Or check out [this soon-to-be classic](https://osu.ppy.sh/beatmapsets/2074103#osu/4341425) hosted by ::Nytrocide\1::{ user=11327918 }!
+Or check out [this soon-to-be classic](https://osu.ppy.sh/beatmapsets/2074103#osu/4341425) hosted by ::Nytrocide_::{ user=11327918 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/384/2011/ColBreakz%20-%202011.mp3">

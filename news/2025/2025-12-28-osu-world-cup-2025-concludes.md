@@ -67,7 +67,7 @@ The great [Cansol](https://osu.ppy.sh/beatmaps/artists/407) started the proceedi
     </audio>
 </div>
 
-Following that up, the illustrious [BlackY](https://osu.ppy.sh/beatmaps/artists/150) provided us with a fittingly intense, chilling track in [PANAGIA](https://osu.ppy.sh/beatmapsets/2475347#osu/5426182). The Chinese duo of ::yf\1bmp::{ user=1243669 } and ::Callionet::{ user=3072921 } were put in charge of mapping it, making one of the toughest Hidden challenges in OWC history. This map also has a storyboard you'll surely want to check out, plus a set linked in the description with a full spread for whatever difficulty range you might prefer playing, so do give it a try!
+Following that up, the illustrious [BlackY](https://osu.ppy.sh/beatmaps/artists/150) provided us with a fittingly intense, chilling track in [PANAGIA](https://osu.ppy.sh/beatmapsets/2475347#osu/5426182). The Chinese duo of ::yf_bmp::{ user=1243669 } and ::Callionet::{ user=3072921 } were put in charge of mapping it, making one of the toughest Hidden challenges in OWC history. This map also has a storyboard you'll surely want to check out, plus a set linked in the description with a full spread for whatever difficulty range you might prefer playing, so do give it a try!
 
 [![](/wiki/shared/news/2025-12-28-osu-world-cup-2025-concludes/anima_immortalis_est_banner.jpg)](https://osu.ppy.sh/beatmapsets/2475379#osu/5426254)
 
@@ -542,12 +542,12 @@ Honestly, there isn't much to break down when it comes to execution, since the t
 | :-- | :-- |
 | Music | [Imperial Circus Dead Decadence](https://osu.ppy.sh/beatmaps/artists/35) |
 | Mapping | ::{ flag=US }:: ::Camo::{ user=5194391 }, ::{ flag=US }:: ::ItsWinter::{ user=6381153 }, ::{ flag=CY }:: ::ravensong::{ user=10772580 }, ::{ flag=RU }:: ::piroshki::{ user=7645522 }, ::{ flag=VN }:: ::LMT::{ user=7262798 } |
-| Illustration | ::{ flag=US }:: ::saturn\1illus::{ user=22001295 }, ::{ flag=ID }:: ::KAITO thighs::{ user=13103233 }, ::{ flag=FR }:: ::Kyuare::{ user=2705312 }, ::{ flag=CA }:: ::Xiaoraini::{ user=3607337 }, ::{ flag=HK }:: ::Arushii::{ user=15664628 }, ::{ flag=SG }:: ::Type::{ user=7520534 } |
+| Illustration | ::{ flag=US }:: ::saturn_illus::{ user=22001295 }, ::{ flag=ID }:: ::KAITO thighs::{ user=13103233 }, ::{ flag=FR }:: ::Kyuare::{ user=2705312 }, ::{ flag=CA }:: ::Xiaoraini::{ user=3607337 }, ::{ flag=HK }:: ::Arushii::{ user=15664628 }, ::{ flag=SG }:: ::Type::{ user=7520534 } |
 | Graphic design | ::{ flag=US }:: ::mohca::{ user=14499702 }, ::{ flag=MY }:: ::Z419::{ user=9912966 } |
 | Storyboard | ::{ flag=IT }:: ::Kuroise::{ user=14547127 }, ::{ flag=VN }:: ::Ningguang::{ user=8500334 }, ::{ flag=CA }:: ::Enkrypton::{ user=5178122 }, ::{ flag=AU }:: ::LowGraphics::{ user=5383942 }, ::{ flag=US }:: ::Noffy::{ user=1541323 } |
 | Hitsounds | ::{ flag=JP }:: ::arthRo::{ user=21663721 } |
 | Video | ::{ flag=MY }:: ::Iyouka::{ user=7138499 }, ::{ flag=CN }:: ::Sakura006::{ user=10365024 } |
-| Design quality assurance | ::{ flag=CA }:: ::RedcXca::{ user=14056601 }, ::{ flag=US }:: ::saturn\1illus::{ user=22001295 }, ::{ flag=AU }:: ::-pineapple-::{ user=11523326 }, ::{ flag=US }:: ::Boolmaster Flex::{ user=5394681 }, ::{ flag=MY }:: ::Z419::{ user=9912966 }, ::{ flag=IT }:: ::Kuroise::{ user=14547127 }, ::{ flag=AU }:: ::LowGraphics::{ user=5383942 }, ::{ flag=MY }:: ::Iyouka::{ user=7138499 }, ::{ flag=SG }:: ::sugosugiii::{ user=15118952 } |
+| Design quality assurance | ::{ flag=CA }:: ::RedcXca::{ user=14056601 }, ::{ flag=US }:: ::saturn_illus::{ user=22001295 }, ::{ flag=AU }:: ::-pineapple-::{ user=11523326 }, ::{ flag=US }:: ::Boolmaster Flex::{ user=5394681 }, ::{ flag=MY }:: ::Z419::{ user=9912966 }, ::{ flag=IT }:: ::Kuroise::{ user=14547127 }, ::{ flag=AU }:: ::LowGraphics::{ user=5383942 }, ::{ flag=MY }:: ::Iyouka::{ user=7138499 }, ::{ flag=SG }:: ::sugosugiii::{ user=15118952 } |
 | Design coordination | ::{ flag=CN }:: ::Sakura006::{ user=10365024 } |
 | Lyric translation | ::{ flag=US }:: ::-mint-::{ user=8976576 } |
 | Replaying | ::{ flag=TR }:: ::Raikouhou::{ user=8007528 } |

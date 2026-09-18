@@ -35,7 +35,7 @@ Tous les utilisateurs listés ci-dessous ont été ajoutés le 29/01/2018 :
 - ::Lanturn::{ user=1446665 }
 - ::Nevo::{ user=7451883 }
 - ::Bubblun::{ user=6191653 }
-- ::mancuso\1JM\1::{ user=521568 }
+- ::mancuso_JM_::{ user=521568 }
 - ::Wishkey::{ user=1101704 }
 - ::TheKingHenry::{ user=5128277 }
 - ::ailv::{ user=6933054 }
@@ -48,7 +48,7 @@ Tous les utilisateurs listés ci-dessous ont été ajoutés le 29/01/2018 :
 - Ajout de ::Asherz007::{ user=9014047 } : Quality Assurance Team (04/02/2018)
 - Transfert de ::Darksonic::{ user=570042 } : osu! Alumni > Global Moderation Team (13/02/2018)
 - Transfert de ::Uni::{ user=617106 } : Global Moderation Team > osu! Alumni (20/02/2018)
-- Transfert de ::\1 Another \1::{ user=3416573 } : Global Moderation Team > osu! Alumni (20/02/2018)
+- Transfert de ::[ Another ]::{ user=3416573 } : Global Moderation Team > osu! Alumni (20/02/2018)
 - Retrait de ::Irreversible::{ user=1287964 } : Quality Assurance Team (27/02/2018)
 
 ### Retrait : Beatmap Nominators
@@ -147,7 +147,7 @@ Tous les utilisateurs listés ci-dessous ont été ajoutés le 23/04/2018 :
 - ::Chromoxx::{ user=1881639 } - démission (01/05/2018)
 - ::Chewin::{ user=617323 } - manque d'activité (14/05/2018)
 - ::MBomb::{ user=3071175 } - démission (20/05/2018)
-- ::SnowNiNo\1::{ user=2506267 } - manque d'approbation (24/05/2018)
+- ::SnowNiNo_::{ user=2506267 } - manque d'approbation (24/05/2018)
 - ::Smokeman::{ user=2140676 } - manque d'approbation (24/05/2018)
 - ::Kyuukai::{ user=5337374 } - manque d'approbation (24/05/2018)
 - ::juankristal::{ user=443656 } - manque d'activité (30/05/2018)
@@ -187,7 +187,7 @@ Tous les utilisateurs listés ci-dessous ont été ajoutés le 12/06/2018 :
 - ::Lenfried-::{ user=5314573 }
 - ::Unpredictable::{ user=7560872 }
 - ::DE-CADE::{ user=3734394 }
-- ::\1Stan::{ user=1653229 }
+- ::_Stan::{ user=1653229 }
 - ::DoNotMess::{ user=1596318 }
 
 ## Juillet
@@ -207,7 +207,7 @@ Tous les utilisateurs listés ci-dessous ont été ajoutés le 12/06/2018 :
 - ::Bubblun::{ user=6191653 } - manque de compétence (21/07/2018)
 - ::Battle::{ user=4037545 } - manque d'activité (21/07/2018)
 - ::Halfslashed::{ user=4598899 } - manque de compétence (21/07/2018)
-- ::mancuso\1JM\1::{ user=521568 } - manque d'activité (21/07/2018)
+- ::mancuso_JM_::{ user=521568 } - manque d'activité (21/07/2018)
 - ::pinataman::{ user=1235485 } - manque d'activité (21/07/2018)
 - ::squirrelpascals::{ user=6151332 } - manque de compétence (21/07/2018)
 - ::AJamez::{ user=7890134 } - manque de compétence (21/07/2018)
@@ -242,7 +242,7 @@ Tous les utilisateurs listés ci-dessous ont été ajoutés le 27/07/2018 :
 
 ### Retrait : Beatmap Nominators
 
-- ::error\1exe777::{ user=7975796 } - manque d'approbation (17/08/2018)
+- ::error_exe777::{ user=7975796 } - manque d'approbation (17/08/2018)
 - ::Cerulean Veyron::{ user=1886524 } - démission (20/08/2018)
 - ::F D Flourite::{ user=2459589 } - manque d'approbation (22/08/2018)
 - ::Ryuusei Aika::{ user=7777875 } - manque d'approbation (22/08/2018)

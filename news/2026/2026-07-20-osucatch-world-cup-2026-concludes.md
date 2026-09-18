@@ -79,7 +79,7 @@ One of the most unique experiences any human could ever witness in a lifetime. W
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/nPX079Lzj8w" frameborder="0" allowfullscreen></iframe>
 </div>
 
-The time we all have is limited. [ZxNX](https://osu.ppy.sh/beatmaps/artists/288) leaves us all wanting to fight for that idea with their osu! original [DECAY](https://osu.ppy.sh/beatmapsets/2577190#fruits/5741307) as we get to witness the journey of a girl making her last stand. ::Rocma::{ user=566276 } and ::Unlucky\1w::{ user=4820793 } push players to the brim with extremely tricky and dense stacks, denying an easy final fight while giving players the option to earn more time for themselves.
+The time we all have is limited. [ZxNX](https://osu.ppy.sh/beatmaps/artists/288) leaves us all wanting to fight for that idea with their osu! original [DECAY](https://osu.ppy.sh/beatmapsets/2577190#fruits/5741307) as we get to witness the journey of a girl making her last stand. ::Rocma::{ user=566276 } and ::Unlucky_w::{ user=4820793 } push players to the brim with extremely tricky and dense stacks, denying an easy final fight while giving players the option to earn more time for themselves.
 
 ---
 

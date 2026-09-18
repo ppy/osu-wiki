@@ -162,7 +162,7 @@ Consisting of several different density snappings and unusual 1/6 patterning, de
 
 [![](/wiki/shared/news/2022-02-18-project-loved-february-2022/1173017.jpg)](https://osu.ppy.sh/community/forums/topics/1524540)
 
-[Loffciamcore - Hejterdisskor Jebana Dziewico](https://osu.ppy.sh/beatmapsets/1173017#taiko) by ::7\17::{ user=7491106 }\
+[Loffciamcore - Hejterdisskor Jebana Dziewico](https://osu.ppy.sh/beatmapsets/1173017#taiko) by ::7_7::{ user=7491106 }\
 240 – 300 BPM, 2:14 | 6.86★, 7.23★, 7.58★, 7.92★\
 *description written by ::-Kazu-::{ user=920861 }*
 
@@ -396,7 +396,7 @@ This set will test your LN chordstreaming abilities. It does become more tricky 
 
 [![](/wiki/shared/news/2022-02-18-project-loved-february-2022/1157124.jpg)](https://osu.ppy.sh/community/forums/topics/1524519)
 
-[Yorushika - Hana ni Bourei](https://osu.ppy.sh/beatmapsets/1157124#mania) by ::emO\1Oticon::{ user=12064488 }\
+[Yorushika - Hana ni Bourei](https://osu.ppy.sh/beatmapsets/1157124#mania) by ::emO_Oticon::{ user=12064488 }\
 180 BPM, 3:58 | 5.89★, 8.37★\
 *description written by ::-NoName-::{ user=10400730 }*
 

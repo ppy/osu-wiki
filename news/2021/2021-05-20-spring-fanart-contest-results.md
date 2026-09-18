@@ -67,7 +67,7 @@ Jokes aside, Dreamxiety absolutely killed it with this one, showcasing their rap
 
 [![](https://assets.ppy.sh/contests/125/banners/lutfi_anims.jpg)](https://assets.ppy.sh/contests/125/winners/lutfi_anims.png)
 
-::**lutfi\1anims**::{ user=11041959 } turned heads and took the names of **3883** voters with their standout debut entry showcasing an utterly adorable Mocha and pippi all decked out in traditional Japanese attire among a flurry of sakura petals flowing in the wind.
+::**lutfi_anims**::{ user=11041959 } turned heads and took the names of **3883** voters with their standout debut entry showcasing an utterly adorable Mocha and pippi all decked out in traditional Japanese attire among a flurry of sakura petals flowing in the wind.
 
 It is so very, very difficult to stop looking at this piece. Absolutely outstanding work and we dearly hope to see more from them in the future!
 
@@ -97,7 +97,7 @@ With the one-two punch of gorgeous background and cute mascot all wrapped up in 
 
 [![](https://assets.ppy.sh/contests/125/banners/Jinairu[Sensei].jpg)](https://assets.ppy.sh/contests/125/winners/Jinairu[Sensei].png)
 
-**2651** voters approved of ::**Jinairu\1Sensei\1**::{ user=10932731 }'s take on all of the official osu! mascots (and Chirou!) lounging around on the springtime grass for a feature shot.
+**2651** voters approved of ::**Jinairu[Sensei]**::{ user=10932731 }'s take on all of the official osu! mascots (and Chirou!) lounging around on the springtime grass for a feature shot.
 
 You can sure bet that nobody is going to let Mari live down the fact that she fell asleep during this, especially Mani most of all.
 

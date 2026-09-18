@@ -66,7 +66,7 @@ Friday, 29 May 2026:
 
 | Stage | High seed |  |  | Low seed | Match link | VOD link |
 | :-- | --: | :-: | :-: | :-- | :-- | :-- |
-| LR3 | ::TTv\1UFO::{ user=14676719 } ::{ flag=US }:: | 1 | **3** | ::{ flag=PH }:: **::enri::{ user=8640970 }** | [#1](https://osu.ppy.sh/multiplayer/rooms/3077766/events) | [#1](https://www.twitch.tv/videos/2783447532) |
+| LR3 | ::TTv_UFO::{ user=14676719 } ::{ flag=US }:: | 1 | **3** | ::{ flag=PH }:: **::enri::{ user=8640970 }** | [#1](https://osu.ppy.sh/multiplayer/rooms/3077766/events) | [#1](https://www.twitch.tv/videos/2783447532) |
 
 Saturday, 30 May 2026:
 
@@ -86,13 +86,13 @@ Saturday, 23 May 2026:
 
 | Stage | High seed |  |  | Low seed | Match link | VOD link |
 | :-- | --: | :-: | :-: | :-- | :-- | :-- |
-| QF | **::TTv\1UFO::{ user=14676719 }** ::{ flag=US }:: | **3** | 1 | ::{ flag=CL }:: ::alfiu::{ user=17724014 } | [#1](https://osu.ppy.sh/multiplayer/rooms/2999247/events) | [#1](https://www.twitch.tv/videos/2778664207) |
+| QF | **::TTv_UFO::{ user=14676719 }** ::{ flag=US }:: | **3** | 1 | ::{ flag=CL }:: ::alfiu::{ user=17724014 } | [#1](https://osu.ppy.sh/multiplayer/rooms/2999247/events) | [#1](https://www.twitch.tv/videos/2778664207) |
 | QF | **::MALISZEWSKI::{ user=12408961 }** ::{ flag=PL }:: | **3** | 0 | ::{ flag=DE }:: ::runnysunny::{ user=15339747 } | [#1](https://osu.ppy.sh/multiplayer/rooms/3003491/events) | [#1](https://www.twitch.tv/videos/2778987912) |
 | QF | **::mrekk::{ user=7562902 }** ::{ flag=AU }:: | **3** | FF | ::{ flag=PL }:: ::Ivaxa::{ user=15406985 } |  |  |
 | QF | **::enri::{ user=8640970 }** ::{ flag=PH }:: | **3** | 0 | ::{ flag=AU }:: ::aknzx::{ user=9938943 } | [#1](https://osu.ppy.sh/multiplayer/rooms/3004835/events) | [#1](https://www.twitch.tv/videos/2778985836) |
 | LR1 | **::runnysunny::{ user=15339747 }** ::{ flag=DE }:: | **3** | 1 | ::{ flag=AU }:: ::aknzx::{ user=9938943 } | [#1](https://osu.ppy.sh/multiplayer/rooms/3005784/events) | [#1](https://www.twitch.tv/videos/2778985836) |
 | SF | **::MALISZEWSKI::{ user=12408961 }** ::{ flag=PL }:: | **3** | 1 | ::{ flag=PH }:: ::enri::{ user=8640970 } | [#1](https://osu.ppy.sh/multiplayer/rooms/3005632/events) | [#1](https://www.twitch.tv/videos/2778991448) |
-| SF | **::mrekk::{ user=7562902 }** ::{ flag=AU }:: | **3** | 1 | ::{ flag=US }:: ::TTv\1UFO::{ user=14676719 } | [#1](https://osu.ppy.sh/multiplayer/rooms/3007416/events) | [#1](https://www.twitch.tv/videos/2779296666) |
+| SF | **::mrekk::{ user=7562902 }** ::{ flag=AU }:: | **3** | 1 | ::{ flag=US }:: ::TTv_UFO::{ user=14676719 } | [#1](https://osu.ppy.sh/multiplayer/rooms/3007416/events) | [#1](https://www.twitch.tv/videos/2779296666) |
 | LR1 | ::Ivaxa::{ user=15406985 } ::{ flag=PL }:: | FF | **3** | ::{ flag=CL }:: **::alfiu::{ user=17724014 }** |  |  |
 
 Sunday, 24 May 2026:
@@ -101,7 +101,7 @@ Sunday, 24 May 2026:
 | :-- | --: | :-: | :-: | :-- | :-- | :-- |
 | LR2 | **::enri::{ user=8640970 }** ::{ flag=PH }:: | **3** | 0 | ::{ flag=CL }:: ::alfiu::{ user=17724014 } | [#1](https://osu.ppy.sh/multiplayer/rooms/3021347/events) | [#1](https://www.twitch.tv/videos/2779853639) |
 | F | **::mrekk::{ user=7562902 }** ::{ flag=AU }:: | **3** | 0 | ::{ flag=PL }:: ::MALISZEWSKI::{ user=12408961 } | [#1](https://osu.ppy.sh/multiplayer/rooms/3021739/events) | [#1](https://www.twitch.tv/videos/2779855249) |
-| LR2 | **::TTv\1UFO::{ user=14676719 }** ::{ flag=US }:: | **3** | 0 | ::{ flag=DE }:: ::runnysunny::{ user=15339747 } | [#1](https://osu.ppy.sh/multiplayer/rooms/3024923/events) | [#1](https://www.twitch.tv/videos/2779975703) |
+| LR2 | **::TTv_UFO::{ user=14676719 }** ::{ flag=US }:: | **3** | 0 | ::{ flag=DE }:: ::runnysunny::{ user=15339747 } | [#1](https://osu.ppy.sh/multiplayer/rooms/3024923/events) | [#1](https://www.twitch.tv/videos/2779975703) |
 
 ### Week 1
 
@@ -116,7 +116,7 @@ Saturday, 16 May 2026:
 
 | Stage | High seed |  |  | Low seed | Match link | VOD link |
 | :-- | --: | :-: | :-: | :-- | :-- | :-- |
-| RO32 | **::TTv\1UFO::{ user=14676719 }** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: ::gilgamesh815::{ user=14040810 } | [#1](https://osu.ppy.sh/multiplayer/rooms/2899945/events) | [#1](https://www.twitch.tv/videos/2773160790) |
+| RO32 | **::TTv_UFO::{ user=14676719 }** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: ::gilgamesh815::{ user=14040810 } | [#1](https://osu.ppy.sh/multiplayer/rooms/2899945/events) | [#1](https://www.twitch.tv/videos/2773160790) |
 | RO32 | **::ASecretBox::{ user=7341183 }** ::{ flag=AU }:: | **3** | 0 | ::{ flag=US }:: ::BlueChinchompa::{ user=14494717 } | [#1](https://osu.ppy.sh/multiplayer/rooms/2900161/events) | [#1](https://www.twitch.tv/videos/2773184727) |
 | RO32 | **::runnysunny::{ user=15339747 }** ::{ flag=DE }:: | **3** | 0 | ::{ flag=AU }:: ::Drox::{ user=4309566 } | [#1](https://osu.ppy.sh/multiplayer/rooms/2902479/events) | [#1](https://www.twitch.tv/videos/2773491612) |
 | RO32 | **::aknzx::{ user=9938943 }** ::{ flag=AU }:: | **3** | 1 | ::{ flag=ES }:: ::A L E P H::{ user=6735738 } | [#1](https://osu.ppy.sh/multiplayer/rooms/2902999/events) | [#1](https://www.twitch.tv/videos/2773491610) |
@@ -142,7 +142,7 @@ Sunday, 17 May 2026:
 | RO16 | **::MALISZEWSKI::{ user=12408961 }** ::{ flag=PL }:: | **3** | 0 | ::{ flag=US }:: ::xymbii::{ user=10809844 } | [#1](https://osu.ppy.sh/multiplayer/rooms/2921002/events) | [#1](https://www.twitch.tv/videos/2774658226) |
 | RO16 | **::alfiu::{ user=17724014 }** ::{ flag=CL }:: | **3** | FF | ::{ flag=RO }:: ::sorinica17::{ user=15095811 } |  |  |
 | RO16 | ::tekkito::{ user=7075211 } ::{ flag=US }:: | 1 | **3** | ::{ flag=DE }:: **::runnysunny::{ user=15339747 }** | [#1](https://osu.ppy.sh/multiplayer/rooms/2924114/events) | [#1](https://www.twitch.tv/videos/2774662970) |
-| RO16 | **::TTv\1UFO::{ user=14676719 }** ::{ flag=US }:: | **3** | 0 | ::{ flag=CA }:: ::Zylice::{ user=5033077 } | [#1](https://osu.ppy.sh/multiplayer/rooms/2924723/events) | [#1](https://www.twitch.tv/videos/2774662966) |
+| RO16 | **::TTv_UFO::{ user=14676719 }** ::{ flag=US }:: | **3** | 0 | ::{ flag=CA }:: ::Zylice::{ user=5033077 } | [#1](https://osu.ppy.sh/multiplayer/rooms/2924723/events) | [#1](https://www.twitch.tv/videos/2774662966) |
 
 ### Qualifiers
 
@@ -154,7 +154,7 @@ Watch the Qualifier seed reveal VOD [here](https://www.twitch.tv/videos/27690601
 | #1 | ::{ flag=AU }:: ::mrekk::{ user=7562902 } | 10.806 | 994,441 |
 | #2 | ::{ flag=PL }:: ::MALISZEWSKI::{ user=12408961 } | 10.228 | 945,644 |
 | #3 | ::{ flag=AU }:: ::ASecretBox::{ user=7341183 } | 10.084 | 917,430 |
-| #4 | ::{ flag=US }:: ::TTv\1UFO::{ user=14676719 } | 9.521 | 876,206 |
+| #4 | ::{ flag=US }:: ::TTv_UFO::{ user=14676719 } | 9.521 | 876,206 |
 | #5 | ::{ flag=CL }:: ::alfiu::{ user=17724014 } | 9.374 | 861,746 |
 | #6 | ::{ flag=AU }:: ::aknzx::{ user=9938943 } | 9.355 | 860,107 |
 | #7 | ::{ flag=US }:: ::tekkito::{ user=7075211 } | 9.285 | 842,438 |
@@ -207,12 +207,12 @@ Watch the Qualifier seed reveal VOD [here](https://www.twitch.tv/videos/27690601
 | #54 | ::{ flag=PL }:: ::NieTheDie::{ user=9783155 } | 6.162 | 544,488 |
 | #55 | ::{ flag=GB }:: ::Doomsday::{ user=18983 } | 6.154 | 547,882 |
 | #56 | ::{ flag=TH }:: ::dazbee fc::{ user=18683734 } | 6.128 | 549,567 |
-| #57 | ::{ flag=CA }:: ::chicken\167::{ user=20761711 } | 6.080 | 542,828 |
+| #57 | ::{ flag=CA }:: ::chicken_67::{ user=20761711 } | 6.080 | 542,828 |
 | #58 | ::{ flag=NZ }:: ::JeadIng::{ user=11971304 } | 6.060 | 543,491 |
 | #59 | ::{ flag=DE }:: ::kitty irl::{ user=11417629 } | 6.042 | 531,147 |
 | #60 | ::{ flag=CA }:: ::Offhandmango00::{ user=15360778 } | 6.036 | 543,482 |
 | #61 | ::{ flag=PT }:: ::TamamoLover::{ user=7772622 } | 5.846 | 520,768 |
-| #62 | ::{ flag=KR }:: ::\1RyuTell\1::{ user=9397144 } | 5.689 | 502,350 |
+| #62 | ::{ flag=KR }:: ::[RyuTell]::{ user=9397144 } | 5.689 | 502,350 |
 | #63 | ::{ flag=SK }:: ::RafeuX::{ user=11553201 } | 5.653 | 505,777 |
 | #64 | ::{ flag=US }:: ::4key femboy::{ user=9188550 } | 5.580 | 504,690 |
 | #65 | ::{ flag=CN }:: ::Moria Ruruka::{ user=2642824 } | 5.552 | 495,244 |
@@ -235,7 +235,7 @@ Watch the Qualifier seed reveal VOD [here](https://www.twitch.tv/videos/27690601
 | #82 | ::{ flag=US }:: ::copeful::{ user=10046331 } | 3.040 | 262,281 |
 | #83 | ::{ flag=FR }:: ::KeinanLP::{ user=13661976 } | 3.009 | 259,962 |
 | #84 | ::{ flag=SE }:: ::Igelkottsdraken::{ user=33414929 } | 2.909 | 257,310 |
-| #85 | ::{ flag=RU }:: ::RobotSkin\1::{ user=13820038 } | 2.721 | 238,551 |
+| #85 | ::{ flag=RU }:: ::RobotSkin_::{ user=13820038 } | 2.721 | 238,551 |
 | #86 | ::{ flag=GB }:: ::Yunoxa::{ user=8958906 } | 2.629 | 225,232 |
 | #87 | ::{ flag=DE }:: ::Parato::{ user=9057237 } | 2.608 | 223,609 |
 | #88 | ::{ flag=TW }:: ::L4iw::{ user=1041536 } | 2.538 | 215,646 |
@@ -256,12 +256,12 @@ Watch the Qualifier seed reveal VOD [here](https://www.twitch.tv/videos/27690601
 | #103 | ::{ flag=JP }:: ::mochiri::{ user=35336275 } | 1.581 | 137,598 |
 | #104 | ::{ flag=TW }:: ::luke920118::{ user=33689349 } | 1.504 | 128,382 |
 | #105 | ::{ flag=TW }:: ::guavaken::{ user=19266993 } | 1.397 | 120,606 |
-| #106 | ::{ flag=US }:: ::XEMA\1Rampage::{ user=15785747 } | 1.251 | 107,868 |
+| #106 | ::{ flag=US }:: ::XEMA_Rampage::{ user=15785747 } | 1.251 | 107,868 |
 | #107 | ::{ flag=US }:: ::siucrae::{ user=28732858 } | 1.150 | 97,569 |
 | #108 | ::{ flag=US }:: ::TaterToes::{ user=33512749 } | 1.126 | 94,804 |
 | #109 | ::{ flag=FR }:: ::RisingLegend987::{ user=35524447 } | 0.967 | 82,636 |
-| #110 | ::{ flag=US }:: ::Lou\1\1old\11::{ user=17409287 } | 0.953 | 81,223 |
-| #111 | ::{ flag=RU }:: ::Nabi\1san2000::{ user=13181712 } | 0.890 | 74,803 |
+| #110 | ::{ flag=US }:: ::Lou__old_1::{ user=17409287 } | 0.953 | 81,223 |
+| #111 | ::{ flag=RU }:: ::Nabi_san2000::{ user=13181712 } | 0.890 | 74,803 |
 | #112 | ::{ flag=RU }:: ::Mikume::{ user=17502098 } | 0.847 | 72,341 |
 | #113 | ::{ flag=BD }:: ::JeffBallMap::{ user=22238755 } | 0.846 | 71,947 |
 | #114 | ::{ flag=CN }:: ::calc48::{ user=32582598 } | 0.689 | 57,760 |

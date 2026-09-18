@@ -17,7 +17,7 @@ First of all, congratulations to the winners of the October 2017 Spotlights. The
 
 - **osu!:** ::Toy::{ user=2757689 }
 - **osu!taiko:** ::zkane2::{ user=6359835 }
-- **osu!catch:** ::\1-naniwa-\1::{ user=4958376 }
+- **osu!catch:** ::[-naniwa-]::{ user=4958376 }
 - **osu!mania:** ::Cryolien::{ user=1626983 }
 
 ## Changes within the Spotlight Team

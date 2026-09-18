@@ -51,17 +51,17 @@ Este es un compendio de los primeros usuarios que desbloquearon cada medalla en 
 | ![](/wiki/shared/medals/all-packs-mappersguild-03.png) | Mappers' Guild Pack III | ::{ flag=UY }:: ::Miremey::{ user=10126457 } | 30 de noviembre de 2019 (13:28:35) |
 | ![](/wiki/shared/medals/all-packs-mappersguild-04.png) | Mappers' Guild Pack IV | ::{ flag=DE }:: ::Maxe191::{ user=2184751 } | 30 de noviembre de 2019 (12:17:56) |
 | ![](/wiki/shared/medals/all-packs-afterparty.png) | Afterparty | ::{ flag=RU }:: ::Stalkach::{ user=14273761 } | 12 de marzo de 2020 (15:24:33) |
-| ![](/wiki/shared/medals/all-packs-benbriggs.png) | Ben Briggs | ::{ flag=DE }:: ::Bin\1AFK::{ user=5840659 } | 12 de marzo de 2020 (16:18:35) |
+| ![](/wiki/shared/medals/all-packs-benbriggs.png) | Ben Briggs | ::{ flag=DE }:: ::Bin_AFK::{ user=5840659 } | 12 de marzo de 2020 (16:18:35) |
 | ![](/wiki/shared/medals/all-packs-carpooltunnel.png) | Carpool Tunnel | ::{ flag=HK }:: ::Novoids::{ user=5163523 } | 12 de marzo de 2020 (23:17:27) |
 | ![](/wiki/shared/medals/all-packs-creo.png) | Creo | ::{ flag=HK }:: ::Novoids::{ user=5163523 } | 12 de marzo de 2020 (20:13:54) |
 | ![](/wiki/shared/medals/all-packs-cysmix.png) | cYsmix | ::{ flag=FR }:: ::rimjobber1::{ user=10671830 } | 12 de marzo de 2020 (16:46:33) |
-| ![](/wiki/shared/medals/all-packs-fractaldreamers.png) | Fractal Dreamers | ::{ flag=DE }:: ::Bin\1AFK::{ user=5840659 } | 12 de marzo de 2020 (17:34:53) |
+| ![](/wiki/shared/medals/all-packs-fractaldreamers.png) | Fractal Dreamers | ::{ flag=DE }:: ::Bin_AFK::{ user=5840659 } | 12 de marzo de 2020 (17:34:53) |
 | ![](/wiki/shared/medals/all-packs-lukhash.png) | LukHash | ::{ flag=DE }:: ::Akita::{ user=8923804 }, ::{ flag=DE }:: ::Kerilia::{ user=7990615 } | 12 de marzo de 2020 (15:38:34) |
 | ![](/wiki/shared/medals/all-packs-namirin.png) | *namirin | ::{ flag=HK }:: ::Novoids::{ user=5163523 } | 12 de marzo de 2020 (20:39:08) |
 | ![](/wiki/shared/medals/all-packs-onumi.png) | onumi | ::{ flag=HK }:: ::Novoids::{ user=5163523 } | 12 de marzo de 2020 (20:25:24) |
 | ![](/wiki/shared/medals/all-packs-theflashbulb.png) | The Flashbulb | ::{ flag=MX }:: ::chiliawa52::{ user=7057787 } | 30 de marzo de 2020 (07:03:07) |
 | ![](/wiki/shared/medals/all-packs-undeadcorporation.png) | Undead Corporation | ::{ flag=SE }:: ::KawaiiCookie05::{ user=10674625 } | 12 de marzo de 2020 (17:28:18) |
-| ![](/wiki/shared/medals/all-packs-wispx.png) | Wisp X | ::{ flag=DE }:: ::Bin\1AFK::{ user=5840659 } | 12 de marzo de 2020 (18:07:37) |
+| ![](/wiki/shared/medals/all-packs-wispx.png) | Wisp X | ::{ flag=DE }:: ::Bin_AFK::{ user=5840659 } | 12 de marzo de 2020 (18:07:37) |
 | ![](/wiki/shared/medals/all-packs-camellia-1.png) | Camellia I | ::{ flag=BR }:: ::Dropinx::{ user=4687701 } | 10 de noviembre de 2020 (04:01:18) |
 | ![](/wiki/shared/medals/all-packs-celldweller.png) | Celldweller | ::{ flag=US }:: ::Weebs Suck::{ user=12948001 } | 10 de noviembre de 2020 (03:30:05) |
 | ![](/wiki/shared/medals/all-packs-cranky2.png) | Cranky II | ::{ flag=US }:: ::Weebs Suck::{ user=12948001 } | 10 de noviembre de 2020 (04:04:03) |
@@ -94,7 +94,7 @@ Este es un compendio de los primeros usuarios que desbloquearon cada medalla en 
 | ![](/wiki/shared/medals/loved-seasonal-2022-summer.png) | Project Loved: Summer 2022 | ::{ flag=BE }:: ::Dabo::{ user=9507660 } | 19 de junio de 2023 (17:39:01) |
 | ![](/wiki/shared/medals/loved-seasonal-2022-autumn.png) | Project Loved: Autumn 2022 | ::{ flag=DE }:: ::Victoria Seras::{ user=19647032 } | 19 de junio de 2023 (17:34:32) |
 | ![](/wiki/shared/medals/loved-seasonal-2022-winter.png) | Project Loved: Winter 2022 | ::{ flag=NO }:: ::Frodo::{ user=14398471 } | 19 de junio de 2023 (17:21:08) |
-| ![](/wiki/shared/medals/loved-seasonal-2023-spring.png) | Project Loved: Spring 2023 | ::{ flag=BE }:: ::\1 Ajia \1::{ user=17578266 } | 19 de junio de 2023 (17:15:16) |
+| ![](/wiki/shared/medals/loved-seasonal-2023-spring.png) | Project Loved: Spring 2023 | ::{ flag=BE }:: ::[ Ajia ]::{ user=17578266 } | 19 de junio de 2023 (17:15:16) |
 | ![](/wiki/shared/medals/loved-seasonal-2023-summer.png) | Project Loved: Summer 2023 | ::{ flag=PL }:: ::Psiki::{ user=12985528 } | 22 de octubre de 2023 (10:42:19) |
 | ![](/wiki/shared/medals/catch-packs-ghostlove.png) | in love with a ghost | ::{ flag=FR }:: ::Glassive::{ user=12453848 } | 14 de febrero de 2024 (13:27:13) |
 | ![](/wiki/shared/medals/loved-seasonal-2024.png) | Project Loved: Best of 2024 | ::{ flag=DE }:: ::respektive::{ user=1023489 } | 17 de enero de 2025 (14:56:56) |
@@ -107,7 +107,7 @@ Este es un compendio de los primeros usuarios que desbloquearon cada medalla en 
 | ![](/wiki/shared/medals/spotlight-2017-03.png) | March 2017 Spotlight | ::{ flag=JP }:: ::athl0n::{ user=6174987 } | 21 de septiembre de 2017 (12:13:08) |
 | ![](/wiki/shared/medals/spotlight-2017-04.png) | April 2017 Spotlight | ::{ flag=DE }:: ::Nwolf::{ user=1910766 } | 21 de septiembre de 2017 (11:55:40) |
 | ![](/wiki/shared/medals/spotlight-2017-05.png) | May 2017 Spotlight | ::{ flag=DE }:: ::dardt::{ user=3316995 } | 21 de septiembre de 2017 (12:32:04) |
-| ![](/wiki/shared/medals/spotlight-2017-06.png) | June 2017 Spotlight | ::{ flag=TW }:: ::hero\1jeff::{ user=3375226 } | 21 de septiembre de 2017 (11:51:19) |
+| ![](/wiki/shared/medals/spotlight-2017-06.png) | June 2017 Spotlight | ::{ flag=TW }:: ::hero_jeff::{ user=3375226 } | 21 de septiembre de 2017 (11:51:19) |
 | ![](/wiki/shared/medals/spotlight-2017-07.png) | July 2017 Spotlight | ::{ flag=JP }:: ::Yukm-::{ user=2054608 } | 21 de septiembre de 2017 (13:24:17) |
 | ![](/wiki/shared/medals/spotlight-2017-08.png) | August 2017 Spotlight | ::{ flag=FR }:: ::monstratorfull::{ user=1872276 } | 21 de septiembre de 2017 (13:39:45) |
 | ![](/wiki/shared/medals/spotlight-2017-09.png) | September 2017 Spotlight | ::{ flag=DE }:: ::Nankarack::{ user=3508284 } | 7 de noviembre de 2017 (14:10:17) |
@@ -116,7 +116,7 @@ Este es un compendio de los primeros usuarios que desbloquearon cada medalla en 
 | ![](/wiki/shared/medals/spotlight-2017-12.png) | December 2017 Spotlight | ::{ flag=US }:: ::derFisch::{ user=446827 } | 23 de enero de 2018 (06:59:28) |
 | ![](/wiki/shared/medals/spotlight-2018-01.png) | January 2018 Spotlight | ::{ flag=US }:: ::StampleJ::{ user=10313746 } | 23 de febrero de 2018 (11:02:00) |
 | ![](/wiki/shared/medals/spotlight-2018-02.png) | February 2018 Spotlight | ::{ flag=IT }:: ::Lucyii::{ user=1474421 } | 22 de marzo de 2018 (13:15:54) |
-| ![](/wiki/shared/medals/spotlight-2018-03.png) | March 2018 Spotlight | ::{ flag=TW }:: ::Psc\1IceRain::{ user=3359485 } | 11 de mayo de 2018 (08:30:33) |
+| ![](/wiki/shared/medals/spotlight-2018-03.png) | March 2018 Spotlight | ::{ flag=TW }:: ::Psc_IceRain::{ user=3359485 } | 11 de mayo de 2018 (08:30:33) |
 | ![](/wiki/shared/medals/spotlight-2018-04.png) | April 2018 Spotlight | ::{ flag=RU }:: ::HandOfRevenge::{ user=6845568 } | 6 de junio de 2018 (09:51:45) |
 | ![](/wiki/shared/medals/spotlight-2018-summer.png) | Summer 2018 Beatmap Spotlights | ::{ flag=CL }:: ::Bastian::{ user=6345176 } | 2 de noviembre de 2018 (05:25:49) |
 | ![](/wiki/shared/medals/spotlight-2018-autumn.png) | Fall 2018 Beatmap Spotlights | ::{ flag=KZ }:: ::OknoLombarda::{ user=12029414 } | 11 de enero de 2019 (10:13:44) |
@@ -134,7 +134,7 @@ Este es un compendio de los primeros usuarios que desbloquearon cada medalla en 
 | ![](/wiki/shared/medals/all-secret-ftb.png) | Feel The Burn | ::{ flag=IT }:: ::MrBoh::{ user=7717296 } | 17 de agosto de 2016 (11:26:13) |
 | ![](/wiki/shared/medals/all-secret-onesecond.png) | Just One Second | ::{ flag=FR }:: ::Noulayfe::{ user=4316542 } | 17 de agosto de 2016 (13:15:15) |
 | ![](/wiki/shared/medals/all-secret-challenge.png) | Up For The Challenge | ::{ flag=DE }:: ::xenou::{ user=2539403 } | 17 de agosto de 2016 (13:17:05) |
-| ![](/wiki/shared/medals/osu-secret-superhardhddt.png) | Unstoppable | ::{ flag=CN }:: ::\1Sudar\1::{ user=6903773 } | 17 de agosto de 2016 (10:15:14) |
+| ![](/wiki/shared/medals/osu-secret-superhardhddt.png) | Unstoppable | ::{ flag=CN }:: ::[Sudar]::{ user=6903773 } | 17 de agosto de 2016 (10:15:14) |
 | ![](/wiki/shared/medals/osu-secret-supersuperhardhddt.png) | Is This Real Life? | ::{ flag=DE }:: ::xenou::{ user=2539403 } | 17 de agosto de 2016 (13:17:05) |
 | ![](/wiki/shared/medals/all-secret-realitat.png) | Realität | ::{ flag=US }:: ::Shikatsu::{ user=3392418 } | 29 de octubre de 2016 (05:48:39) |
 | ![](/wiki/shared/medals/all-secret-ourbenefactors.png) | Our Mechanical Benefactors | ::{ flag=US }:: ::ieatyoupwn::{ user=2192625 } | 29 de octubre de 2016 (07:47:50) |
@@ -199,7 +199,7 @@ Este es un compendio de los primeros usuarios que desbloquearon cada medalla en 
 | ![](/wiki/shared/medals/all-secret-bunny.png) | Don't let the bunny distract you! | ::{ flag=AR }:: ::Pokefanrichie::{ user=16629 } | 11 de agosto de 2008 (12:47:24) |
 | ![](/wiki/shared/medals/all-secret-rank-s.png) | S-Ranker | ::{ flag=MY }:: ::Kenieth::{ user=60101 } | 19 de enero de 2009 (16:14:31) |
 | ![](/wiki/shared/medals/all-secret-improved.png) | Most Improved | ::{ flag=AR }:: ::Sonicguy169::{ user=63034 } | 19 de enero de 2009 (16:00:46) |
-| ![](/wiki/shared/medals/all-secret-dancer.png) | Non-stop Dancer | ::{ flag=US }:: ::\1Youmu\1::{ user=21943 } | 19 de enero de 2009 (15:26:48) |
+| ![](/wiki/shared/medals/all-secret-dancer.png) | Non-stop Dancer | ::{ flag=US }:: ::[Youmu]::{ user=21943 } | 19 de enero de 2009 (15:26:48) |
 | ![](/wiki/shared/medals/all-secret-consolation_prize.png) | Consolation Prize | ::{ flag=DK }:: ::Zepol::{ user=712808 } | 16 de abril de 2012 (17:49:53) |
 | ![](/wiki/shared/medals/all-secret-challenge_accepted.png) | Challenge Accepted | ::{ flag=PL }:: ::Izodzilla::{ user=1538581 } | 16 de abril de 2012 (17:30:12) |
 | ![](/wiki/shared/medals/all-secret-stumbler.png) | Stumbler | ::{ flag=CA }:: ::WreckMeUp::{ user=1688038 } | 21 de agosto de 2012 (08:52:37) |
@@ -208,10 +208,10 @@ Este es un compendio de los primeros usuarios que desbloquearon cada medalla en 
 | ![](/wiki/shared/medals/all-secret-obsessed.png) | Obsessed | ::{ flag=HK }:: ::Hetry::{ user=793536 } | 28 de agosto de 2012 (07:28:33) |
 | ![](/wiki/shared/medals/all-secret-nonstop.png) | Nonstop | ::{ flag=JP }:: ::tomo63887::{ user=1503391 } | 28 de agosto de 2012 (12:52:26) |
 | ![](/wiki/shared/medals/all-secret-jack.png) | Jack of All Trades | ::{ flag=KR }:: ::Bye::{ user=344783 } | 28 de agosto de 2012 (07:34:48) |
-| ![](/wiki/shared/medals/mania-secret-meganekko.png) | Twin Perspectives | ::{ flag=ID }:: ::Hyoga\1old\11::{ user=7950559 }, ::{ flag=TW }:: ::R4BT117::{ user=7834551 }, ::{ flag=TH }:: ::Shaimm::{ user=6171337 }, ::{ flag=PH }:: ::uniqgirl\1old::{ user=2283635 } | 20 de abril de 2016 (05:36:30) |
+| ![](/wiki/shared/medals/mania-secret-meganekko.png) | Twin Perspectives | ::{ flag=ID }:: ::Hyoga_old_1::{ user=7950559 }, ::{ flag=TW }:: ::R4BT117::{ user=7834551 }, ::{ flag=TH }:: ::Shaimm::{ user=6171337 }, ::{ flag=PH }:: ::uniqgirl_old::{ user=2283635 } | 20 de abril de 2016 (05:36:30) |
 | ![](/wiki/shared/medals/all-secret-tidi.png) | Time Dilation | ::{ flag=NO }:: ::MillhioreF::{ user=941094 } | 17 de agosto de 2016 (13:49:48) |
 | ![](/wiki/shared/medals/osu-secret-afterimage.png) | Afterimage | ::{ flag=VN }:: ::owarika::{ user=7368910 } | 17 de agosto de 2016 (09:58:24) |
-| ![](/wiki/shared/medals/all-secret-tothecore.png) | To The Core | ::{ flag=PL }:: ::\1PL\1dawid::{ user=8811659 } | 17 de agosto de 2016 (10:17:35) |
+| ![](/wiki/shared/medals/all-secret-tothecore.png) | To The Core | ::{ flag=PL }:: ::[PL]dawid::{ user=8811659 } | 17 de agosto de 2016 (10:17:35) |
 | ![](/wiki/shared/medals/all-secret-prepared.png) | Prepared | ::{ flag=RU }:: ::sacha007600::{ user=8800352 } | 17 de agosto de 2016 (09:58:54) |
 | ![](/wiki/shared/medals/osu-secret-eclipse.png) | Eclipse | ::{ flag=FR }:: ::Terminatrice::{ user=8472090 } | 17 de agosto de 2016 (10:04:10) |
 | ![](/wiki/shared/medals/all-secret-reckless.png) | Reckless Abandon | ::{ flag=VN }:: ::chesslove::{ user=4686432 } | 20 de agosto de 2016 (06:47:31) |
@@ -301,7 +301,7 @@ Este es un compendio de los primeros usuarios que desbloquearon cada medalla en 
 | ![](/wiki/shared/medals/taiko-hits-3000000.png) | 3,000,000 Drum Hits | ::{ flag=PL }:: ::Kari::{ user=375174 } | 9 de abril de 2012 (06:43:55) |
 | ![](/wiki/shared/medals/mania-hits-40000.png) | 40,000 Keys | ::{ flag=CN }:: ::pameira::{ user=1272596 } | 28 de mayo de 2013 (05:01:06) |
 | ![](/wiki/shared/medals/mania-hits-400000.png) | 400,000 Keys | ::{ flag=JP }:: ::mittchel19::{ user=2602952 } | 28 de mayo de 2013 (05:01:12) |
-| ![](/wiki/shared/medals/mania-hits-4000000.png) | 4,000,000 Keys | ::{ flag=JP }:: ::Bye\1Steal\1My\1BP::{ user=2552987 } | 4 de julio de 2013 (01:55:00) |
+| ![](/wiki/shared/medals/mania-hits-4000000.png) | 4,000,000 Keys | ::{ flag=JP }:: ::Bye_Steal_My_BP::{ user=2552987 } | 4 de julio de 2013 (01:55:00) |
 | ![](/wiki/shared/medals/all-skill-highranker-1.png) | I Can See The Top | ::{ flag=US }:: ::L Sigh Kangaroo::{ user=6174914 } | 20 de abril de 2016 (05:36:27) |
 | ![](/wiki/shared/medals/all-skill-highranker-2.png) | The Gradual Rise | ::{ flag=PE }:: ::Vaticanus::{ user=4454465 } | 20 de abril de 2016 (05:36:31) |
 | ![](/wiki/shared/medals/all-skill-highranker-3.png) | Scaling Up | ::{ flag=PE }:: ::Vaticanus::{ user=4454465 } | 20 de abril de 2016 (05:36:31) |
@@ -318,7 +318,7 @@ Este es un compendio de los primeros usuarios que desbloquearon cada medalla en 
 | ![](/wiki/shared/medals/osu-skill-fc-2.png) | Business As Usual | ::{ flag=DE }:: ::Vantos::{ user=4545563 } | 6 de mayo de 2016 (11:43:29) |
 | ![](/wiki/shared/medals/osu-skill-fc-3.png) | Building Steam | ::{ flag=HK }:: ::lauhoyin3a::{ user=1712278 } | 6 de mayo de 2016 (11:43:29) |
 | ![](/wiki/shared/medals/osu-skill-fc-4.png) | Moving Forward | ::{ flag=QA }:: ::maychi::{ user=6302711 } | 6 de mayo de 2016 (11:43:48) |
-| ![](/wiki/shared/medals/osu-skill-fc-5.png) | Paradigm Shift | ::{ flag=KR }:: ::JUN\1SU::{ user=5108425 } | 6 de mayo de 2016 (11:43:26) |
+| ![](/wiki/shared/medals/osu-skill-fc-5.png) | Paradigm Shift | ::{ flag=KR }:: ::JUN_SU::{ user=5108425 } | 6 de mayo de 2016 (11:43:26) |
 | ![](/wiki/shared/medals/osu-skill-fc-6.png) | Anguish Quelled | ::{ flag=NL }:: ::Hikaru Rose::{ user=4811275 } | 6 de mayo de 2016 (11:54:59) |
 | ![](/wiki/shared/medals/osu-skill-fc-7.png) | Never Give Up | ::{ flag=US }:: ::Toy::{ user=2757689 } | 6 de mayo de 2016 (21:41:54) |
 | ![](/wiki/shared/medals/osu-skill-fc-8.png) | Aberration | ::{ flag=KR }:: ::firebat92::{ user=1777162 } | 17 de julio de 2016 (12:41:58) |
@@ -335,7 +335,7 @@ Este es un compendio de los primeros usuarios que desbloquearon cada medalla en 
 | ![](/wiki/shared/medals/fruits-skill-pass-3.png) | Zesty Disposition | ::{ flag=PL }:: ::Kosmit::{ user=1749173 } | 12 de mayo de 2016 (07:21:59) |
 | ![](/wiki/shared/medals/fruits-skill-pass-4.png) | Hyperdash ON! | ::{ flag=ID }:: ::Funtastic::{ user=3555626 } | 12 de mayo de 2016 (07:28:45) |
 | ![](/wiki/shared/medals/fruits-skill-pass-5.png) | It's Raining Fruit | ::{ flag=CN }:: ::SnowMikuTz::{ user=3362668 } | 12 de mayo de 2016 (07:22:24) |
-| ![](/wiki/shared/medals/fruits-skill-pass-6.png) | Fruit Ninja | ::{ flag=JP }:: ::PM\1\1\1\1::{ user=1049467 } | 12 de mayo de 2016 (08:09:00) |
+| ![](/wiki/shared/medals/fruits-skill-pass-6.png) | Fruit Ninja | ::{ flag=JP }:: ::PM____::{ user=1049467 } | 12 de mayo de 2016 (08:09:00) |
 | ![](/wiki/shared/medals/fruits-skill-pass-7.png) | Dreamcatcher | ::{ flag=US }:: ::Skybussa::{ user=2193687 } | 12 de mayo de 2016 (09:40:10) |
 | ![](/wiki/shared/medals/fruits-skill-pass-8.png) | Lord of the Catch | ::{ flag=GB }:: ::Sorceress::{ user=1913190 } | 12 de mayo de 2016 (21:48:32) |
 | ![](/wiki/shared/medals/mania-skill-pass-1.png) | First Steps | ::{ flag=JP }:: ::ijeje::{ user=4217651 } | 11 de mayo de 2016 (07:29:04) |
@@ -345,25 +345,25 @@ Este es un compendio de los primeros usuarios que desbloquearon cada medalla en 
 | ![](/wiki/shared/medals/mania-skill-pass-5.png) | Ever Onwards | ::{ flag=ID }:: ::eurekaria::{ user=4268950 } | 11 de mayo de 2016 (07:29:42) |
 | ![](/wiki/shared/medals/mania-skill-pass-6.png) | Another Surpassed | ::{ flag=ID }:: ::eurekaria::{ user=4268950 } | 11 de mayo de 2016 (07:42:42) |
 | ![](/wiki/shared/medals/mania-skill-pass-7.png) | Extra Credit | ::{ flag=TH }:: ::-nowsmart-::{ user=1935034 } | 11 de mayo de 2016 (09:03:13) |
-| ![](/wiki/shared/medals/mania-skill-pass-8.png) | Maniac | ::{ flag=KR }:: ::Kim\1GodSSI::{ user=2218047 } | 11 de mayo de 2016 (08:30:12) |
+| ![](/wiki/shared/medals/mania-skill-pass-8.png) | Maniac | ::{ flag=KR }:: ::Kim_GodSSI::{ user=2218047 } | 11 de mayo de 2016 (08:30:12) |
 | ![](/wiki/shared/medals/taiko-skill-fc-1.png) | Keeping Time | ::{ flag=US }:: ::agrif::{ user=8332995 } | 17 de junio de 2016 (05:38:30) |
-| ![](/wiki/shared/medals/taiko-skill-fc-2.png) | To Your Own Beat | ::{ flag=CL }:: ::RoyalGuard\1old::{ user=6176015 } | 17 de junio de 2016 (05:34:47) |
+| ![](/wiki/shared/medals/taiko-skill-fc-2.png) | To Your Own Beat | ::{ flag=CL }:: ::RoyalGuard_old::{ user=6176015 } | 17 de junio de 2016 (05:34:47) |
 | ![](/wiki/shared/medals/taiko-skill-fc-3.png) | Big Drums | ::{ flag=CL }:: ::-F1-::{ user=5810867 } | 17 de junio de 2016 (05:34:17) |
 | ![](/wiki/shared/medals/taiko-skill-fc-4.png) | Adversity Overcome | ::{ flag=PH }:: ::josephian12::{ user=5915091 } | 17 de junio de 2016 (05:34:16) |
 | ![](/wiki/shared/medals/taiko-skill-fc-5.png) | Demonslayer | ::{ flag=NO }:: ::MillhioreF::{ user=941094 } | 17 de junio de 2016 (05:45:31) |
 | ![](/wiki/shared/medals/taiko-skill-fc-6.png) | Rhythm's Call | ::{ flag=JP }:: ::sakakuxx::{ user=6296932 } | 17 de junio de 2016 (05:54:10) |
-| ![](/wiki/shared/medals/taiko-skill-fc-7.png) | Time Everlasting | ::{ flag=JP }:: ::yuzu\1\1rinrin::{ user=4616752 } | 17 de junio de 2016 (10:00:39) |
-| ![](/wiki/shared/medals/taiko-skill-fc-8.png) | The Drummer's Throne | ::{ flag=JP }:: ::yuk1\1Sr::{ user=6532566 } | 17 de junio de 2016 (06:56:43) |
+| ![](/wiki/shared/medals/taiko-skill-fc-7.png) | Time Everlasting | ::{ flag=JP }:: ::yuzu__rinrin::{ user=4616752 } | 17 de junio de 2016 (10:00:39) |
+| ![](/wiki/shared/medals/taiko-skill-fc-8.png) | The Drummer's Throne | ::{ flag=JP }:: ::yuk1_Sr::{ user=6532566 } | 17 de junio de 2016 (06:56:43) |
 | ![](/wiki/shared/medals/fruits-skill-fc-1.png) | Sweet And Sour | ::{ flag=MY }:: ::Rinon Eternal::{ user=8094137 } | 24 de mayo de 2016 (10:17:50) |
 | ![](/wiki/shared/medals/fruits-skill-fc-2.png) | Reaching The Core | ::{ flag=VN }:: ::UguriOkami::{ user=4977302 } | 24 de mayo de 2016 (10:19:14) |
 | ![](/wiki/shared/medals/fruits-skill-fc-3.png) | Clean Platter | ::{ flag=PL }:: ::Kosmit::{ user=1749173 } | 24 de mayo de 2016 (10:22:16) |
 | ![](/wiki/shared/medals/fruits-skill-fc-4.png) | Between The Rain | ::{ flag=ID }:: ::yogafm::{ user=3247173 } | 24 de mayo de 2016 (10:23:11) |
-| ![](/wiki/shared/medals/fruits-skill-fc-5.png) | Addicted | ::{ flag=BE }:: ::\1 Seraf \1::{ user=6376151 } | 24 de mayo de 2016 (10:51:29) |
+| ![](/wiki/shared/medals/fruits-skill-fc-5.png) | Addicted | ::{ flag=BE }:: ::[ Seraf ]::{ user=6376151 } | 24 de mayo de 2016 (10:51:29) |
 | ![](/wiki/shared/medals/fruits-skill-fc-6.png) | Quickening | ::{ flag=DE }:: ::Sousaki::{ user=1599349 } | 24 de mayo de 2016 (11:41:05) |
 | ![](/wiki/shared/medals/fruits-skill-fc-7.png) | Supersonic | ::{ flag=PL }:: ::Uygrzybrzywszy::{ user=4446007 } | 24 de mayo de 2016 (13:45:20) |
 | ![](/wiki/shared/medals/fruits-skill-fc-8.png) | Dashing Scarlet | ::{ flag=KR }:: ::YesMyDarknesss::{ user=4158549 } | 6 de julio de 2016 (12:21:33) |
 | ![](/wiki/shared/medals/mania-skill-fc-1.png) | Keystruck | ::{ flag=AR }:: ::lxLucasxl::{ user=3632846 } | 17 de junio de 2016 (04:37:48) |
-| ![](/wiki/shared/medals/mania-skill-fc-2.png) | Keying In | ::{ flag=AR }:: ::gaston\12199::{ user=5938161 } | 17 de junio de 2016 (04:38:34) |
+| ![](/wiki/shared/medals/mania-skill-fc-2.png) | Keying In | ::{ flag=AR }:: ::gaston_2199::{ user=5938161 } | 17 de junio de 2016 (04:38:34) |
 | ![](/wiki/shared/medals/mania-skill-fc-3.png) | Hyperflow | ::{ flag=KR }:: ::LoVectoR::{ user=4607068 } | 17 de junio de 2016 (04:38:23) |
 | ![](/wiki/shared/medals/mania-skill-fc-4.png) | Breakthrough | ::{ flag=TH }:: ::-nowsmart-::{ user=1935034 } | 17 de junio de 2016 (04:45:02) |
 | ![](/wiki/shared/medals/mania-skill-fc-5.png) | Everything Extra | ::{ flag=CL }:: ::Urusai::{ user=469808 } | 17 de junio de 2016 (05:28:46) |
@@ -374,7 +374,7 @@ Este es un compendio de los primeros usuarios que desbloquearon cada medalla en 
 | ![](/wiki/shared/medals/osu-skill-fc-9.png) | Chosen | ::{ flag=FR }:: ::chokbar de bz::{ user=2831793 } | 19 de junio de 2020 (18:14:12) |
 | ![](/wiki/shared/medals/osu-skill-pass-10.png) | Phantasm | ::{ flag=NL }:: ::CrimsonTheFox::{ user=6360447 } | 19 de junio de 2020 (11:38:37) |
 | ![](/wiki/shared/medals/osu-skill-fc-10.png) | Unfathomable | ::{ flag=US }:: ::goink::{ user=1920049 } | 27 de octubre de 2020 (05:03:55) |
-| ![](/wiki/shared/medals/taiko-hits-30000000.png) | 30,000,000 Drum Hits | ::{ flag=JP }:: ::RAI\14::{ user=9773619 } | 4 de noviembre de 2022 (07:59:38) |
+| ![](/wiki/shared/medals/taiko-hits-30000000.png) | 30,000,000 Drum Hits | ::{ flag=JP }:: ::RAI_4::{ user=9773619 } | 4 de noviembre de 2022 (07:59:38) |
 | ![](/wiki/shared/medals/fruits-hits-20000000.png) | Catch 20,000,000 fruits | ::{ flag=AU }:: ::Talicrons::{ user=6264535 } | 4 de noviembre de 2022 (07:26:12) |
 | ![](/wiki/shared/medals/mania-hits-40000000.png) | 40,000,000 Keys | ::{ flag=AU }:: ::ruka::{ user=6117525 } | 4 de noviembre de 2022 (07:24:44) |
 | ![](/wiki/shared/medals/all-skill-dc-1.png) | Daily Sprout | ::{ flag=JP }:: ::Chie946::{ user=36897991 } | 25 de diciembre de 2024 (03:28:07) |
@@ -409,7 +409,7 @@ A continuación, se muestra una lista de usuarios con tres primeras medallas des
 | ::{ flag=HK }:: ::Novoids::{ user=5163523 } | 8 |
 | ::{ flag=US }:: ::LuigiHann::{ user=1079 } | 6 |
 | ::{ flag=PT }:: ::Alucard96::{ user=3849450 } | 3 |
-| ::{ flag=DE }:: ::Bin\1AFK::{ user=5840659 } | 3 |
+| ::{ flag=DE }:: ::Bin_AFK::{ user=5840659 } | 3 |
 | ::{ flag=NZ }:: ::Echo::{ user=431 } | 3 |
 | ::{ flag=NO }:: ::MillhioreF::{ user=941094 } | 3 |
 | ::{ flag=BR }:: ::Murin::{ user=13771539 } | 3 |

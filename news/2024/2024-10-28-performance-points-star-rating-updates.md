@@ -195,7 +195,7 @@ This prevents FC plays with the No Fail mod from being punished and reduces the 
 
 ### Minor changes
 
-- A [fix](https://github.com/ppy/osu/pull/28337) proposed by ::spaceman\1atlas::{ user=3035836 } to remove rounding of the slider velocity multiplier on juice streams which resulted in some shifting of difficulty & performance values.
+- A [fix](https://github.com/ppy/osu/pull/28337) proposed by ::spaceman_atlas::{ user=3035836 } to remove rounding of the slider velocity multiplier on juice streams which resulted in some shifting of difficulty & performance values.
 
 ## osu!mania
 

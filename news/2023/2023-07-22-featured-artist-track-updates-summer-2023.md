@@ -250,7 +250,7 @@ If you thought this was a lot of songs for an individual artist's catalogue upda
 
 [![](https://assets.ppy.sh/artists/138/header.jpg)](https://osu.ppy.sh/beatmaps/artists/138)
 
-Following the release of their latest album *BloodLine*, the composer behind "[the hardest map in osu!](https://osu.ppy.sh/beatmapsets/41686)" is back with **3** more VOCALOID masterpieces! Two come from that new album, and one more is from their backlog: [Snow Marriage](https://osu.ppy.sh/beatmapsets/1823014) ranked last year by ::P\1O::{ user=831979 }!
+Following the release of their latest album *BloodLine*, the composer behind "[the hardest map in osu!](https://osu.ppy.sh/beatmapsets/41686)" is back with **3** more VOCALOID masterpieces! Two come from that new album, and one more is from their backlog: [Snow Marriage](https://osu.ppy.sh/beatmapsets/1823014) ranked last year by ::P_O::{ user=831979 }!
 
 ### seleP - Luna: GABBA SIDE
 

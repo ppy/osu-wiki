@@ -81,7 +81,7 @@ It's an all-star cast this time around, with ::**Tofumang**::{ user=4817223 } en
 
 [![](https://assets.ppy.sh/contests/179/banners/Infinity21_EXE-banner.jpg)](https://assets.ppy.sh/contests/179/winners/Infinity21_EXE.png)
 
-**1809** voters shared a peaceful moment with ::**Infinity21\1EXE**::{ user=23873884 }'s take on Alisa enjoying a picturesque rest by the seaside. Less is often more!
+**1809** voters shared a peaceful moment with ::**Infinity21_EXE**::{ user=23873884 }'s take on Alisa enjoying a picturesque rest by the seaside. Less is often more!
 
 ### peppy's picks
 

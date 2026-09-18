@@ -82,7 +82,7 @@ It's no secret that osu!taiko tends to shine with its tournament bangers, and [*
 - [**TWC Sound Team "Strike Back Squad" - BUZZ CUTZ**](https://osu.ppy.sh/beatmapsets/2358247) by ::**Raphalge**::{ user=3918650 } with **62** votes.
 - [**tn-shi - Synthesis.**](https://osu.ppy.sh/beatmapsets/2099918) by ::**Ares**::{ user=15929172 } with **50** votes.
 - [**MYUKKE. - Red Screen of Life**](https://osu.ppy.sh/beatmapsets/2329036) by ::**ler1211**::{ user=19901680 } with **47** votes.
-- [**MAX - Checklist (feat. Chromeo)**](https://osu.ppy.sh/beatmapsets/2155487) by ::**\1gt**::{ user=8301957 } with **45** votes.
+- [**MAX - Checklist (feat. Chromeo)**](https://osu.ppy.sh/beatmapsets/2155487) by ::**_gt**::{ user=8301957 } with **45** votes.
 - [**Slax - Body to the Drum**](https://osu.ppy.sh/beatmapsets/2343891) by ::**ler1211**::{ user=19901680 } with **42** votes.
 - [**matern - Nhelv x homero si baila x homero vs. peter grifin x mira marge soy brasileno**](https://osu.ppy.sh/beatmapsets/2271589) by ::**paz08**::{ user=9964420 } with **41** votes.
 - [**GTS Sound Team - <<wr/d.:colliders>> \~Chaos in Conclusion\~**](https://osu.ppy.sh/beatmapsets/2343549) by ::**Kasumi-sama**::{ user=6177263 } with **40** votes.
@@ -99,7 +99,7 @@ It's no secret that osu!taiko tends to shine with its tournament bangers, and [*
 - [**Risuko, Mona from STAR*ANIS - Otona Mode [YUC'e Remix]**](https://osu.ppy.sh/beatmapsets/2334877) by ::**ler1211**::{ user=19901680 } with **17** votes.
 - [**MYUKKE. - Red Screen of Life**](https://osu.ppy.sh/beatmapsets/2329036) by ::**ler1211**::{ user=19901680 } with **17** votes.
 - [**matern - Nhelv x homero si baila x homero vs. peter grifin x mira marge soy brasileno**](https://osu.ppy.sh/beatmapsets/2271589) by ::**paz08**::{ user=9964420 } with **16** votes.
-- [**MAX - Checklist (feat. Chromeo)**](https://osu.ppy.sh/beatmapsets/2155487) by ::**\1gt**::{ user=8301957 } with **16** votes.
+- [**MAX - Checklist (feat. Chromeo)**](https://osu.ppy.sh/beatmapsets/2155487) by ::**_gt**::{ user=8301957 } with **16** votes.
 - [**GTS Sound Team - <<wr/d.:colliders>> \~Chaos in Conclusion\~**](https://osu.ppy.sh/beatmapsets/2343549) by ::**Kasumi-sama**::{ user=6177263 } with **15** votes.
 - [**Supire - Helios**](https://osu.ppy.sh/beatmapsets/2368014) by ::**Alchyr**::{ user=4993032 } with **14** votes.
 
@@ -117,7 +117,7 @@ Similar to its sister beatmaps from other modes, ::**skill issue lol**::{ user=1
 
 - [**Iyowa feat. Adachi Rei - Heat abnormal**](https://osu.ppy.sh/beatmapsets/2341650) by ::**skill issue lol**::{ user=12498861 } with **66** votes.
 - [**tn-shi - Annihilation in F# Minor**](https://osu.ppy.sh/beatmapsets/2165226) by ::**Jemzuu**::{ user=7890134 } with **55** votes.
-- [**DECO*27 - Rabbit Hole feat. Hatsune Miku**](https://osu.ppy.sh/beatmapsets/2138425) by ::**\1 Azu- \1**::{ user=8290364 } with **54** votes.
+- [**DECO*27 - Rabbit Hole feat. Hatsune Miku**](https://osu.ppy.sh/beatmapsets/2138425) by ::**[ Azu- ]**::{ user=8290364 } with **54** votes.
 - [**Arash - Temptation (feat. Rebecca) (Nightcore Mix)**](https://osu.ppy.sh/beatmapsets/2385660) by ::**Natsuko**::{ user=8266817 } with **48** votes.
 - [**Hiiragi Magnetite - Tetoris**](https://osu.ppy.sh/beatmapsets/2309038) by ::**Ririmu**::{ user=20424806 } with **45** votes.
 - [**-45 - System Zero**](https://osu.ppy.sh/beatmapsets/1984907) by ::**skill issue lol**::{ user=12498861 } with **44** votes.
@@ -196,28 +196,28 @@ This was further complemented by the guest contributions from ::Akasha-::{ user=
 #### Community Choice finalists
 
 - [**TWC Sound Team "Strike Back Squad" - BUZZ CUTZ**](https://osu.ppy.sh/beatmapsets/2367508) by ::**Blocko**::{ user=4075092 } with **103** votes.
-- [**Xyris - FOXGLOVE**](https://osu.ppy.sh/beatmapsets/2318030) by ::**Critical\1Star**::{ user=3793196 } with **75** votes.
+- [**Xyris - FOXGLOVE**](https://osu.ppy.sh/beatmapsets/2318030) by ::**Critical_Star**::{ user=3793196 } with **75** votes.
 - [**EBIMAYO - NIGHTMARE INVITATION**](https://osu.ppy.sh/beatmapsets/2321254) by ::**Blocko**::{ user=4075092 } with **70** votes.
 - [**sasakure.UK x TJ.hangneil - World Ender**](https://osu.ppy.sh/beatmapsets/2363522) by ::**Mochineko**::{ user=3793196 } with **59** votes.
-- [**Waterflame - Electroman Adventures**](https://osu.ppy.sh/beatmapsets/2217638) by ::**Anwul\1**::{ user=17673611 } with **56** votes.
+- [**Waterflame - Electroman Adventures**](https://osu.ppy.sh/beatmapsets/2217638) by ::**Anwul_**::{ user=17673611 } with **56** votes.
 - [**Normal1zer vs. Broken Nerdz - DESTRUCTION 3,2,1**](https://osu.ppy.sh/beatmapsets/2464092) by ::**Mochineko**::{ user=3793196 } with **56** votes.
 - [**HyuN feat. Syepias - CROSS SOUL**](https://osu.ppy.sh/beatmapsets/2167288) by ::**Slowpoke104**::{ user=23633474 } with **54** votes.
-- [**Ludicin - Lost Requiem**](https://osu.ppy.sh/beatmapsets/2325151) by ::**\1Kobii**::{ user=6209713 } with **52** votes.
+- [**Ludicin - Lost Requiem**](https://osu.ppy.sh/beatmapsets/2325151) by ::**_Kobii**::{ user=6209713 } with **52** votes.
 - [**Aoi - !nterroban(?,**](https://osu.ppy.sh/beatmapsets/2385221) by ::**-NoName-**::{ user=10400730 } with **40** votes.
 - [**xi - Akasha**](https://osu.ppy.sh/beatmapsets/1688086) by ::**Akasha-**::{ user=2596306 } with **36** votes.
 
 #### Mapper's Favourite finalists
 
 - [**TWC Sound Team "Strike Back Squad" - BUZZ CUTZ**](https://osu.ppy.sh/beatmapsets/2367508) by ::**Blocko**::{ user=4075092 } with **22** votes.
-- [**Xyris - FOXGLOVE**](https://osu.ppy.sh/beatmapsets/2318030) by ::**Critical\1Star**::{ user=3793196 } with **20** votes.
-- [**Ludicin - Lost Requiem**](https://osu.ppy.sh/beatmapsets/2325151) by ::**\1Kobii**::{ user=6209713 } with **17** votes.
+- [**Xyris - FOXGLOVE**](https://osu.ppy.sh/beatmapsets/2318030) by ::**Critical_Star**::{ user=3793196 } with **20** votes.
+- [**Ludicin - Lost Requiem**](https://osu.ppy.sh/beatmapsets/2325151) by ::**_Kobii**::{ user=6209713 } with **17** votes.
 - [**sasakure.UK x TJ.hangneil - World Ender**](https://osu.ppy.sh/beatmapsets/2363522) by ::**Mochineko**::{ user=3793196 } with **13** votes.
 - [**EBIMAYO - NIGHTMARE INVITATION**](https://osu.ppy.sh/beatmapsets/2321254) by ::**Blocko**::{ user=4075092 } with **12** votes.
 - [**Normal1zer vs. Broken Nerdz - DESTRUCTION 3,2,1**](https://osu.ppy.sh/beatmapsets/2464092) by ::**Mochineko**::{ user=3793196 } with **11** votes.
 - [**xi - Akasha**](https://osu.ppy.sh/beatmapsets/1688086) by ::**Akasha-**::{ user=2596306 } with **11** votes.
-- [**Xyris - A Cybernetic-Superluminal-Apocalyptic Post-War Divination**](https://osu.ppy.sh/beatmapsets/2321297) by ::**Critical\1Star**::{ user=3793196 } with **10** votes.
+- [**Xyris - A Cybernetic-Superluminal-Apocalyptic Post-War Divination**](https://osu.ppy.sh/beatmapsets/2321297) by ::**Critical_Star**::{ user=3793196 } with **10** votes.
 - [**Toromaru - Uncharted Sky**](https://osu.ppy.sh/beatmapsets/2219350) by ::**Tailsdk**::{ user=6751666 } with **10** votes.
-- [**Aoi - Welkius**](https://osu.ppy.sh/beatmapsets/2321296) by ::**\1Kobii**::{ user=6209713 } with **10** votes.
+- [**Aoi - Welkius**](https://osu.ppy.sh/beatmapsets/2321296) by ::**_Kobii**::{ user=6209713 } with **10** votes.
 
 ## osu!mania xK
 
@@ -239,7 +239,7 @@ This was further complemented by the guest contributions from ::Akasha-::{ user=
 - [**Lime - BEYOND**](https://osu.ppy.sh/beatmapsets/2306690) by ::**DivineJudas**::{ user=17610080 } with **29** votes.
 - [**Lime - Campanella**](https://osu.ppy.sh/beatmapsets/2248490) by ::**Rurvker**::{ user=24526335 } with **26** votes.
 - [**Junk - Life is PIANO**](https://osu.ppy.sh/beatmapsets/2290237) by ::**6XvX7**::{ user=33948486 } with **25** votes.
-- [**Blacklolita - Antithese**](https://osu.ppy.sh/beatmapsets/2192430) by ::**Anwul\1**::{ user=17673611 } with **25** votes.
+- [**Blacklolita - Antithese**](https://osu.ppy.sh/beatmapsets/2192430) by ::**Anwul_**::{ user=17673611 } with **25** votes.
 - [**Neko Hacker - People People feat. Nanahira**](https://osu.ppy.sh/beatmapsets/2399786) by ::**Pyra-san**::{ user=31126430 } with **24** votes.
 
 ### Mapper's Favourite
@@ -260,10 +260,10 @@ osu! is known for its wide breadth of songs, maps and even key modes in osu!mani
 - [**Lime - BEYOND**](https://osu.ppy.sh/beatmapsets/2306690) by ::**DivineJudas**::{ user=17610080 } with **10** votes.
 - [**Lime - Campanella**](https://osu.ppy.sh/beatmapsets/2248490) by ::**Rurvker**::{ user=24526335 } with **10** votes.
 - [**sound piercer feat. Ritsu - Ai to Bonnou to Rinne to Joushiki no Gokusai Sekai**](https://osu.ppy.sh/beatmapsets/2098695) by ::**Rurvker**::{ user=24526335 } with **9** votes.
-- [**Rango Tenge Tenge - Chicken funny**](https://osu.ppy.sh/beatmapsets/2327340) by ::**Anwul\1**::{ user=17673611 } with **9** votes.
+- [**Rango Tenge Tenge - Chicken funny**](https://osu.ppy.sh/beatmapsets/2327340) by ::**Anwul_**::{ user=17673611 } with **9** votes.
 - [**Imperial Circus Dead Decadence - Tensei**](https://osu.ppy.sh/beatmapsets/2407477) by ::**BKwind**::{ user=8900975 } with **9** votes.
-- [**xi - Angel's Ladder**](https://osu.ppy.sh/beatmapsets/2319582) by ::**Nicknem\1**::{ user=16615040 } with **8** votes.
-- [**Ludicin - Echoes of Memoria**](https://osu.ppy.sh/beatmapsets/2402301) by ::**\1HR\1RalseiMania**::{ user=27620293 } with **8** votes.
+- [**xi - Angel's Ladder**](https://osu.ppy.sh/beatmapsets/2319582) by ::**Nicknem_**::{ user=16615040 } with **8** votes.
+- [**Ludicin - Echoes of Memoria**](https://osu.ppy.sh/beatmapsets/2402301) by ::**[HR]RalseiMania**::{ user=27620293 } with **8** votes.
 
 ---
 

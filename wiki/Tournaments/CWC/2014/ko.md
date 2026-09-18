@@ -68,11 +68,11 @@ outdated_translation: true
 | ::{ flag=PH }:: | 필리핀 | --- disbanded --- |
 | ::{ flag=GB }:: | 영국 | **::destructor966::{ user=2667584 }**, ::Nanomight::{ user=160439 }, ::bubbz::{ user=86414 }, ::Phlo10::{ user=2643155 }, ::DarkKanaki::{ user=2614160 } |
 | ::{ flag=TH }:: | 타이 | **::boomngong::{ user=1090858 }**, ::Nansugumi::{ user=795915 }, ::0814587134::{ user=1054016 } |
-| ::{ flag=US }:: | 미국 | **::Zak::{ user=1375955 }**, ::-itsy\1v2-::{ user=2815946 }, ::-Kurisu-::{ user=500696 }, ::Minky::{ user=1978891 }, ::TenguKing9::{ user=1637716 }, ::-Ryuuji-::{ user=2107523 } |
+| ::{ flag=US }:: | 미국 | **::Zak::{ user=1375955 }**, ::-itsy_v2-::{ user=2815946 }, ::-Kurisu-::{ user=500696 }, ::Minky::{ user=1978891 }, ::TenguKing9::{ user=1637716 }, ::-Ryuuji-::{ user=2107523 } |
 
 | Flag | Country | Group B Members |
 | :-- | :-- | :-- |
-| ::{ flag=HK }:: | 홍콩 | **::alienflybot::{ user=636114 }**, ::XXXZ::{ user=1226238 }, ::\1\1NaGI\1::{ user=788406 }, ::HineX::{ user=13854 }, ::longkitang::{ user=1744806 } |
+| ::{ flag=HK }:: | 홍콩 | **::alienflybot::{ user=636114 }**, ::XXXZ::{ user=1226238 }, ::[_NaGI]::{ user=788406 }, ::HineX::{ user=13854 }, ::longkitang::{ user=1744806 } |
 | ::{ flag=PL }:: | 폴란드 | **::WujekGrzyb::{ user=258289 }**, ::wampir::{ user=261497 }, ::Kosmit::{ user=1749173 }, ::Scorpionek::{ user=149730 } |
 | ::{ flag=CL }:: | 칠레 | --- disbanded --- |
 | ::{ flag=EE }:: | 에스토니아 | **::fanatik::{ user=913992 }**, ::warstape::{ user=1133783 }, ::KostjaSun::{ user=2450912 } |
@@ -81,7 +81,7 @@ outdated_translation: true
 | :-- | :-- | :-- |
 | ::{ flag=TW }:: | 타이완 | --- disqualified --- |
 | ::{ flag=NL }:: | 네덜란드 | **::Givralii::{ user=2466879 }**, ::Nebux::{ user=2342051 }, ::Greaper::{ user=2369776 }, ::CakeAndBanana::{ user=1981424 }, ::wesley221::{ user=2407265 } |
-| ::{ flag=SG }:: | 싱가포르 | **::Accel::{ user=1169796 }**, ::Kagayane::{ user=1777691 }, ::He Ang Erika::{ user=2451381 }, ::Otaku\1MQ::{ user=2650135 }, ::Ridicule::{ user=3473425 } |
+| ::{ flag=SG }:: | 싱가포르 | **::Accel::{ user=1169796 }**, ::Kagayane::{ user=1777691 }, ::He Ang Erika::{ user=2451381 }, ::Otaku_MQ::{ user=2650135 }, ::Ridicule::{ user=3473425 } |
 | ::{ flag=NO }:: | 노르웨이 | **::Kiwikun::{ user=1794766 }**, ::Azeidith::{ user=2819676 }, ::lanki33::{ user=2535200 }, ::Zerzxes::{ user=2094253 }, ::Hakkun::{ user=2179438 } |
 
 | Flag | Country | Group D Members |
@@ -96,7 +96,7 @@ outdated_translation: true
 | ::{ flag=MX }:: | 멕시코 | **::Lostty::{ user=2118519 }**, ::ChibiOzed::{ user=1690328 }, ::blacklotus::{ user=2115337 } |
 | ::{ flag=DK }:: | 덴마크 | **::-Crab-::{ user=2563435 }**, ::TheCo0k1e::{ user=3386472 }, ::jacoblemming12::{ user=3593786 }, ::FlowHomie::{ user=2831095 } |
 | ::{ flag=NZ }:: | 뉴질랜드 | **::IQ166::{ user=1452911 }**, ::Nibble147::{ user=3866541 }, ::JakeCC::{ user=88973 } |
-| ::{ flag=SE }:: | 스웨덴 | **::Yukiteru Amano::{ user=1894511 }**, ::Walterx8::{ user=1993041 }, ::Negri\1sk::{ user=2231396 }, ::-Airi-::{ user=2546340 }, ::Suzuki::{ user=2960209 } |
+| ::{ flag=SE }:: | 스웨덴 | **::Yukiteru Amano::{ user=1894511 }**, ::Walterx8::{ user=1993041 }, ::Negri_sk::{ user=2231396 }, ::-Airi-::{ user=2546340 }, ::Suzuki::{ user=2960209 } |
 
 | Flag | Country | Group F Members |
 | :-- | :-- | :-- |
@@ -110,7 +110,7 @@ outdated_translation: true
 | ::{ flag=KR }:: | 한국 | **::Spectator::{ user=702598 }**, ::dae6254::{ user=563262 }, ::Frobe::{ user=670365 }, ::Kuzino::{ user=158552 }, ::Last Bubble::{ user=1302259 } |
 | ::{ flag=DE }:: | 독일 | **::DeathXHunter::{ user=405326 }**, ::NoteKuroi::{ user=186642 }, ::Nyan-Zapo::{ user=480676 } |
 | ::{ flag=CA }:: | 캐나다 | **::Kitokofox::{ user=1815420 }**, ::Sumaki::{ user=207916 }, ::Kitsunemimi::{ user=100037 } |
-| ::{ flag=BO }:: | 볼리비아 | **::donjuan\1217::{ user=2169426 }**, ::brian\1rqc::{ user=3710738 }, ::gakupoXD::{ user=871103 }, ::Zen Youkai::{ user=3364257 } |
+| ::{ flag=BO }:: | 볼리비아 | **::donjuan_217::{ user=2169426 }**, ::brian_rqc::{ user=3710738 }, ::gakupoXD::{ user=871103 }, ::Zen Youkai::{ user=3364257 } |
 
 | Flag | Country | Group H Members |
 | :-- | :-- | :-- |

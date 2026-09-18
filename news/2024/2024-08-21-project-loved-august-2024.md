@@ -213,7 +213,7 @@ The osu!taiko Loved candidates were chosen by ::Boaz::{ user=13302996 }, ::Eriha
 
 [![](/wiki/shared/news/2024-08-21-project-loved-august-2024/1280928.jpg)](https://osu.ppy.sh/community/forums/topics/1966732)
 
-[TUYU - Anoyo-iki no Bus ni Notte Saraba. (a? edit)](https://osu.ppy.sh/beatmapsets/1280928#taiko) by ::7\17::{ user=7491106 }\
+[TUYU - Anoyo-iki no Bus ni Notte Saraba. (a? edit)](https://osu.ppy.sh/beatmapsets/1280928#taiko) by ::7_7::{ user=7491106 }\
 280 BPM, 2:43 | 6.88★\
 *description written by ::Eriha::{ user=16320311 }*
 

@@ -17,7 +17,7 @@ Scorewatch wraps up the month of August with some crazy DragonForce scores, an o
 
 <iframe width="100%" height="315"  src="https://www.youtube.com/embed/CAZjjQDmkuk" frameborder="0" allowfullscreen></iframe></br>
 
-::bro\1gamer72::{ user=1419095 }, more well known as Gayzmcgee, set his top play on [HoneyWorks - Miraizu feat.Aida Miou(CV:Toyosaki Aki)](https://osu.ppy.sh/beatmaps/696225?m=0) with a breathtaking and unfortunate 99.17% HDDT 882x 1 miss score to earn 635pp. Without the miss, this could have knocked hvick225 from his throne! Someday, we might see that happen.
+::bro_gamer72::{ user=1419095 }, more well known as Gayzmcgee, set his top play on [HoneyWorks - Miraizu feat.Aida Miou(CV:Toyosaki Aki)](https://osu.ppy.sh/beatmaps/696225?m=0) with a breathtaking and unfortunate 99.17% HDDT 882x 1 miss score to earn 635pp. Without the miss, this could have knocked hvick225 from his throne! Someday, we might see that happen.
 
 <iframe width="100%" height="315"  src="https://www.youtube.com/embed/IQY2E3Ae5Bw" frameborder="0" allowfullscreen></iframe></br>
 
@@ -43,7 +43,7 @@ Once again, do support [osu!archive](https://www.reddit.com/r/osugame/comments/6
 
 ## SCORESHOW WITH ZSEIKIMATSU
 
-::\1yu68::{ user=6170507 } and ::uone::{ user=5321719 } go head to head on the recently ranked map [Infected Mushroom - The Legend of the Black Shawarma](https://osu.ppy.sh/beatmaps/1383931?m=1) with HDDT!
+::_yu68::{ user=6170507 } and ::uone::{ user=5321719 } go head to head on the recently ranked map [Infected Mushroom - The Legend of the Black Shawarma](https://osu.ppy.sh/beatmaps/1383931?m=1) with HDDT!
 
 <iframe width="100%" height="315"  src="https://www.youtube.com/embed/3rRT6q1FOug" frameborder="0" allowfullscreen></iframe></br>
 

@@ -91,7 +91,7 @@ L'Intermediate Global Taiko Showdown 2019 était organisé par différents membr
 | ::{ flag=JP }:: | **Japon** | **::RinNatsume1013::{ user=9022173 }**, ::tkpnender::{ user=12682785 }, ::AILK::{ user=1212491 }, ::mukuchan::{ user=9007431 }, ::JPN::{ user=9122742 } |
 | ::{ flag=MX }:: | **Mexique** | **::\[ Croqueto \]::{ user=1705608 }**, ::L\_CORTES\_01::{ user=12548363 }, ::Darkside550::{ user=7320933 }, ::GusPaloalto::{ user=13348305 } |
 | ::{ flag=NL }:: | **Pays-Bas** | **::lukitsa124::{ user=8787678 }**, ::Mr HeliX::{ user=2330619 }, ::Swerro::{ user=4507667 } |
-| ::{ flag=PE }:: | **Pérou** | **::Spieler\1Sync::{ user=10659299 }**, ::adriancaba::{ user=11543837 } |
+| ::{ flag=PE }:: | **Pérou** | **::Spieler_Sync::{ user=10659299 }**, ::adriancaba::{ user=11543837 } |
 | ::{ flag=PH }:: | **Philippines** | **::Yron8::{ user=1537747 }**, ::FinnB::{ user=2164993 }, ::Tropixal::{ user=8085222 }, ::jacarandang::{ user=4154069 }, ::FPxOsu::{ user=3845828 } |
 | ::{ flag=PL }:: | **Pologne A** | **::BeatGoat::{ user=11308471 }**, ::C O L L A P S E::{ user=12042993 }, ::Lama-aka-EMi::{ user=9148286 }, ::Moonie Wolf::{ user=7070461 } |
 | ::{ flag=PL }:: | **Pologne B** | **::Deroo::{ user=8360475 }**, ::Konrad20050::{ user=8966140 }, ::Lastminute7::{ user=7121313 }, ::Bowashe::{ user=2163544 } |

@@ -23,7 +23,7 @@ See how **MUZZ**'s sound translates to mapping through the video below, then try
 
 ### MUZZ - Endgame
 
-Try [this classic marathon](https://osu.ppy.sh/beatmapsets/397905) hosted by ::Secretpipe::{ user=2208964 } or [this osu!taiko rendition](https://osu.ppy.sh/beatmapsets/519474) hosted by ::gaston\12199::{ user=5938161 }!
+Try [this classic marathon](https://osu.ppy.sh/beatmapsets/397905) hosted by ::Secretpipe::{ user=2208964 } or [this osu!taiko rendition](https://osu.ppy.sh/beatmapsets/519474) hosted by ::gaston_2199::{ user=5938161 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/261/Songs/MUZZ%20-%20Endgame.mp3" type="audio/mpeg">

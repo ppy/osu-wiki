@@ -28,7 +28,7 @@ El último objeto siempre debería ser un slider.
 
 *También conocidos como: **Formación con estilo de flor***
 
-Nominador: ::0\1o::{ user=56708 }
+Nominador: ::0_o::{ user=56708 }
 
 Los **combos en forma de flor** consisten de 5 o más círculos que se colocan alrededor de un punto central.
 El punto central puede ser un círculo o un slider.
@@ -161,7 +161,7 @@ No importa el orden de los 3 círculos ni el tamaño del triángulo.
 
 *También conocidos como: **Formación en zigzag***
 
-Nominador: ::0\1o::{ user=56708 }
+Nominador: ::0_o::{ user=56708 }
 
 Los **sliders en zigzag** están formados por sliders de 1/2 ordenados en un patrón de zigzag hacia dentro.
 

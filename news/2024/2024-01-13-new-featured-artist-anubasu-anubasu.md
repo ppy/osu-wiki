@@ -31,7 +31,7 @@ Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/603755) 
 
 ### anubasu-anubasu - Nemesis (pi/3's Remix)
 
-Experience [this Loved remix of a Nizikawa track](https://osu.ppy.sh/beatmapsets/159581), hosted by ::Sp3ct3r\12k11::{ user=760838 }!
+Experience [this Loved remix of a Nizikawa track](https://osu.ppy.sh/beatmapsets/159581), hosted by ::Sp3ct3r_2k11::{ user=760838 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/397/Songs/anubasu-anubasu%20-%20Nemesis%20(pi3s%20Remix).mp3">

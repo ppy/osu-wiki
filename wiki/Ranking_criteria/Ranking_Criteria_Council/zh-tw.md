@@ -135,7 +135,7 @@ The United Beat-Knights of Ranking Criteria (*UBKRC*) 是一個全新的組織�
 - ::Sidetail::{ user=2036217 }
 - ::Starrodkirby86::{ user=410 }
 - ::Wafu::{ user=888955 }
-- ::yf\1bmp::{ user=1243669 }
+- ::yf_bmp::{ user=1243669 }
 
 ### Timing 成員
 

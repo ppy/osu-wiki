@@ -7,7 +7,7 @@ El historial de algunos usuarios puede estar incompleto durante este año.
 
 ## Enero
 
-- ::\1Shi-Ra\1::{ user=2008489 } fue añadido al Beatmap Appreciation Team (1/1/2014)
+- ::[Shi-Ra]::{ user=2008489 } fue añadido al Beatmap Appreciation Team (1/1/2014)
 - ::TKS::{ user=940878 } fue añadido al Beatmap Appreciation Team (4/1/2014)
 - ::Teara::{ user=123491 } volvió a ser añadido al Beatmap Appreciation Team (5/1/2014)
 - ::shARPII::{ user=776257 } fue añadido a los moderadores del chat (16/1/2014)
@@ -111,13 +111,13 @@ El historial de algunos usuarios puede estar incompleto durante este año.
 ## Junio
 
 - ::Nymph::{ user=601990 } volvió a ser añadido al Beatmap Appreciation Team (3/6/2014)
-- ::\1Shi-Ra\1::{ user=2008489 } fue movido del Beatmap Appreciation Team a los osu! Alumni (7/6/2014)
+- ::[Shi-Ra]::{ user=2008489 } fue movido del Beatmap Appreciation Team a los osu! Alumni (7/6/2014)
 - ::Flanster::{ user=447818 } fue movido de los osu! Alumni a los moderadores del chat (11/6/2014)
 - ::Kytoxid::{ user=98460 } fue movido a los osu! Alumni (12/6/2014)
 - ::ZHSteven::{ user=142413 } fue movido a los osu! Alumni (12/6/2014)
 - ::Frostmourne::{ user=199669 } fue movido a los osu! Alumni (15/6/2014)
 - ::Krah::{ user=1436748 } fue añadido al Beatmap Appreciation Team (16/6/2014)
-- ::\1Shi-Ra\1::{ user=2008489 } fue movido de los osu! Alumni al Beatmap Appreciation Team (17/6/2014)
+- ::[Shi-Ra]::{ user=2008489 } fue movido de los osu! Alumni al Beatmap Appreciation Team (17/6/2014)
 - ::YGOkid8::{ user=69114 } fue movido a los osu! Alumni (18/6/2014)
 - ::ExPew::{ user=665612 } fue añadido al Beatmap Appreciation Team (23/6/2014)
 - ::Oinari-Sama::{ user=405508 } fue añadido al Support Team y a los moderadores del chat (29/6/2014)
@@ -165,7 +165,7 @@ El historial de algunos usuarios puede estar incompleto durante este año.
 - ::MMzz::{ user=128993 } fue movido del Beatmap Appreciation Team al Quality Assurance Team (21/8/2014)
 - ::OnosakiHito::{ user=290128 } fue movido del Beatmap Appreciation Team al Quality Assurance Team (21/8/2014)
 - ::Shiro::{ user=113005 } fue movido del Beatmap Appreciation Team al Quality Assurance Team (21/8/2014)
-- ::\1Shi-Ra\1::{ user=2008489 } fue movido del Beatmap Appreciation Team al Quality Assurance Team (21/8/2014)
+- ::[Shi-Ra]::{ user=2008489 } fue movido del Beatmap Appreciation Team al Quality Assurance Team (21/8/2014)
 - ::NoHitter::{ user=124455 } fue movido al Beatmap Appreciation Team (22/8/2014)
 - ::narakucrimson::{ user=287468 } fue movido al Beatmap Appreciation Team (22/8/2014)
 - ::happy30::{ user=27767 } fue movido al Beatmap Appreciation Team (22/8/2014)
@@ -321,7 +321,7 @@ Todos los usuarios listados a continuación fueron añadidos el 2 de diciembre d
 - ::Kloyd::{ user=1574070 }
 - ::Kyubey::{ user=2195646 }
 - ::Leorda::{ user=119134 }
-- ::lkx\1shore::{ user=247937 }
+- ::lkx_shore::{ user=247937 }
 - ::Sieg::{ user=1404615 }
 - ::wcx19911123::{ user=376831 }
 - ::xxdeathx::{ user=3034880 }

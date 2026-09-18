@@ -63,11 +63,11 @@ The Yuyuko's Hidden Cup Season 3 was run by various community members.
 | :-: | :-: | :-- |
 | **A** | **null** | ::**Arca Lunar**::{ user=13888511 }, ::mura sama::{ user=9527178 }, ::Pcioafk::{ user=13228763 }, ::yukko233::{ user=28804123 }, ::wjs255::{ user=29856978 }, ::qimengxunkong::{ user=16849347 }, ::Endless fare::{ user=8580156 } |
 | **B** | **我倒杯水** | ::**n0000000000o**::{ user=12215328 }, ::yukishize::{ user=11736169 }, ::cd20200816::{ user=18118155 }, ::EYii::{ user=26977726 }, ::FiresunX::{ user=25578225 }, ::Aokreti::{ user=27321919 }, ::akuya::{ user=25089015 } |
-| **C** | **6A级景点** | ::**FlyingYellow**::{ user=25776202 }, ::goyhan::{ user=30314890 }, ::Avogadoll::{ user=32609690 }, ::-aLIEz-::{ user=31372295 }, ::YamadaJ::{ user=13413713 }, ::ArleneRain\_::{ user=19673275 }, ::\1Alex\1::{ user=28776271 } |
+| **C** | **6A级景点** | ::**FlyingYellow**::{ user=25776202 }, ::goyhan::{ user=30314890 }, ::Avogadoll::{ user=32609690 }, ::-aLIEz-::{ user=31372295 }, ::YamadaJ::{ user=13413713 }, ::ArleneRain\_::{ user=19673275 }, ::[Alex]::{ user=28776271 } |
 | **D** | **鲭西何时无缘进路** | ::**innnnovation**::{ user=18443135 }, ::Natsukaze::{ user=29046592 }, ::Refu3::{ user=24013879 }, ::eric1388::{ user=20384257 }, ::TomCh::{ user=13863127 }, ::ElectroTD::{ user=6955595 }, ::Kallen0401::{ user=32620473 } |
-| **E** | **天使纷扰** | ::**7R1N1TY**::{ user=12803951 }, ::SouJuku::{ user=20403654 }, ::Asp1er::{ user=17392497 }, ::zhuiyi\1crane::{ user=24365691 }, ::MizukiQwQ::{ user=15154497 }, ::Fungus OVO::{ user=4928835 }, ::Lfruin::{ user=18165022 } |
+| **E** | **天使纷扰** | ::**7R1N1TY**::{ user=12803951 }, ::SouJuku::{ user=20403654 }, ::Asp1er::{ user=17392497 }, ::zhuiyi_crane::{ user=24365691 }, ::MizukiQwQ::{ user=15154497 }, ::Fungus OVO::{ user=4928835 }, ::Lfruin::{ user=18165022 } |
 | **F** | **遇到HD睡大觉** | ::**fate80016**::{ user=8471476 }, ::rtconsuming::{ user=8500047 }, ::MAPSILL::{ user=31956309 }, ::FeD4kTo::{ user=31483691 }, ::SansX::{ user=29735986 }, ::iz6::{ user=26093361 }, ::Dawintch::{ user=9948405 } |
-| **G** | **笔不飞 不会打** | ::**Kieost**::{ user=17823832 }, ::sion22::{ user=30137844 }, ::Zxian::{ user=20672564 }, ::xxbg::{ user=31833376 }, ::chana::{ user=18375016 }, ::Lemen::{ user=28120802 }, ::K\1vAE::{ user=8756045 } |
+| **G** | **笔不飞 不会打** | ::**Kieost**::{ user=17823832 }, ::sion22::{ user=30137844 }, ::Zxian::{ user=20672564 }, ::xxbg::{ user=31833376 }, ::chana::{ user=18375016 }, ::Lemen::{ user=28120802 }, ::K_vAE::{ user=8756045 } |
 | **H** | **孤儿收容所** | ::**Niumaokun**::{ user=16227180 }, ::Alymetic::{ user=19287762 }, ::LingYuanOvO::{ user=23805648 }, ::1224192602::{ user=13089663 }, ::lizhanyiawa::{ user=13928307 }, ::CyberBunnyGirl::{ user=11531025 }, ::magic\_\_sunny::{ user=13323610 } |
 
 ## Coaches
@@ -79,7 +79,7 @@ The Yuyuko's Hidden Cup Season 3 was run by various community members.
 | **6A级景点** | ::**ShandenOnter**::{ user=13999223 } |
 | **鲭西何时无缘进路** | ::**VialVistas**::{ user=9697708 } |
 | **天使纷扰** | ::**Kotor1**::{ user=2351439 } |
-| **遇到HD睡大觉** | ::**Stick\1Fish**::{ user=13358640 } |
+| **遇到HD睡大觉** | ::**Stick_Fish**::{ user=13358640 } |
 | **笔不飞 不会打** | ::**Sakura Luna**::{ user=1608105 } |
 | **孤儿收容所** | ::**-spring night-**::{ user=17064371 } |
 

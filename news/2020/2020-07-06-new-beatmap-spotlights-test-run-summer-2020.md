@@ -76,7 +76,7 @@ We did not forget the winners of the Winter Beatmap Spotlights 2020. Congratulat
 - **osu!:** ::Kingling::{ user=7010761 }, ::Lkxemmeji::{ user=7947034 }, and ::Karmagyre::{ user=8221504 }
 - **osu!taiko:** ::syaron105::{ user=8741695 }, ::AlvaroYL::{ user=6333166 }, and ::\[Zeth\]::{ user=9912966 }
 - **osu!catch:** ::dika312::{ user=741613 }, ::-Ken::{ user=4430811 }, and ::RAMPAGE88::{ user=448547 }
-- **osu!mania:** ::itourith::{ user=10809147 }, ::tsusai::{ user=7637292 }, and ::aiM\1Violet::{ user=13069495 }
+- **osu!mania:** ::itourith::{ user=10809147 }, ::tsusai::{ user=7637292 }, and ::aiM_Violet::{ user=13069495 }
 
 We hope you enjoy the first test run with this first new season of the year and that you are as excited about this as we are. See you this weekend in the upcoming lobby!
 

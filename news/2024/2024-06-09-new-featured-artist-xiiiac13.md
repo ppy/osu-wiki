@@ -23,7 +23,7 @@ Hungry for maps? Look no further than about 2 centimeters below:
 
 ### xiiiac13 - who let him cook
 
-Consume [this map from the video above](https://osu.ppy.sh/beatmapsets/2169368) hosted by ::Nytrocide\1::{ user=11327918 }!
+Consume [this map from the video above](https://osu.ppy.sh/beatmapsets/2169368) hosted by ::Nytrocide_::{ user=11327918 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/423/xiiiac13%20Collection%20Volume%20%231/xiiiac13%20-%20who%20let%20him%20cook.mp3">

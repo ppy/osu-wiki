@@ -19,11 +19,11 @@
 
 Перечисленные ниже пользователи были добавлены в один день, 2015-01-03.
 
-- ::\1 S a k u r a \1::{ user=3653042 }
+- ::[ S a k u r a ]::{ user=3653042 }
 - ::Andrea::{ user=33599 }
 - ::BeatofIke::{ user=1103522 }
 - ::CloudSplash16::{ user=2099102 }
-- ::\1CSGA\1Ar3sgice::{ user=989563 }
+- ::[CSGA]Ar3sgice::{ user=989563 }
 - ::DE-CADE::{ user=3734394 }
 - ::Inyuschan::{ user=1721995 }
 - ::Momochikun::{ user=2032824 }
@@ -53,14 +53,14 @@
 - Перемещение ::IamKwaN::{ user=1856463 } из Beatmap Appreciation Team в Quality Assurance Team (2015-02-19)
 - Исключение ::AnataNoBaka::{ user=1769646 } из Chat Moderators (2015-02-22)
 - Перемещение ::ethox::{ user=441380 } в osu! Alumni (2015-02-22)
-- Исключение ::Evil\1Twilight::{ user=409347 } из Chat Moderators (2015-02-22)
+- Исключение ::Evil_Twilight::{ user=409347 } из Chat Moderators (2015-02-22)
 - Перемещение ::Galkan::{ user=169570 } в osu! Alumni (2015-02-22)
 - Исключение ::Guy::{ user=91738 } из Chat Moderators (2015-02-22)
 - Перемещение ::HeatKai::{ user=332555 } в osu! Alumni (2015-02-22)
 - Перемещение ::KitokoFox::{ user=1815420 } в osu! Alumni (2015-02-22)
 - Перемещение ::KRZY::{ user=114017 } в osu! Alumni (2015-02-22)
 - Исключение ::Loneight::{ user=663131 } из Chat Moderators (2015-02-22)
-- Перемещение ::Zero\1\1wind::{ user=1822830 } из Beatmap Appreciation Team в osu! Alumni (2015-02-22)
+- Перемещение ::Zero__wind::{ user=1822830 } из Beatmap Appreciation Team в osu! Alumni (2015-02-22)
 - Перемещение ::Darksonic::{ user=570042 } из Global Moderation Team в osu! Alumni (2015-02-22)
 - Перемещение ::Derekku::{ user=91341 } в osu! Alumni (2015-02-22)
 - Перемещение ::Leader::{ user=631530 } в osu! Alumni (2015-02-22)
@@ -119,7 +119,7 @@
 - ::Harbyter::{ user=1147679 }
 - ::Alarido::{ user=1948827 }
 - ::Yauxo::{ user=898306 }
-- ::\1AyanoTatemaya\1::{ user=2760619 }
+- ::[AyanoTatemaya]::{ user=2760619 }
 - ::shionelove::{ user=501551 }
 - ::Genocide::{ user=6477309 }
 - ::CelsiusLK::{ user=1409012 }
@@ -127,8 +127,8 @@
 - ::Gray Veyron::{ user=1886524 }
 - ::\_S u w a k o\_::{ user=2786984 }
 - ::sheela901::{ user=1138027 }
-- ::\1GraveChaos\1::{ user=3009472 }
-- ::\1Shana Lesus\1::{ user=2881789 }
+- ::[GraveChaos]::{ user=3009472 }
+- ::[Shana Lesus]::{ user=2881789 }
 - ::handsome::{ user=2123087 }
 - ::Zan -::{ user=1411817 }
 - ::Z3nx::{ user=2193881 }
@@ -199,9 +199,9 @@
 
 ## Июль
 
-- Добавление ::\1 Another \1::{ user=3416573 } в Chat Moderators (2015-07-01)
+- Добавление ::[ Another ]::{ user=3416573 } в Chat Moderators (2015-07-01)
 - Добавление ::Kurokami::{ user=260933 } в Quality Assurance Team (2015-07-01)
-- Перемещение ::\1Shi-Ra\1::{ user=2008489 } в Quality Assurance Team (2015-07-09)
+- Перемещение ::[Shi-Ra]::{ user=2008489 } в Quality Assurance Team (2015-07-09)
 - Перемещение ::Oinari-sama::{ user=405508 } в osu! Alumni (2015-07-27)
 
 ### Добавления в Beatmap Nominator
@@ -234,7 +234,7 @@
 ## Сентябрь
 
 - Перемещение ::Spy::{ user=1217122 } в osu! Alumni (2015-09-05)
-- Перемещение ::\1Shi-Ra\1::{ user=2008489 } из Quality Assurance Team в osu! Alumni (2015-09-05)
+- Перемещение ::[Shi-Ra]::{ user=2008489 } из Quality Assurance Team в osu! Alumni (2015-09-05)
 - Добавление ::Lust::{ user=2316951 } в Quality Assurance Team (2015-09-06)
 
 ## Октябрь

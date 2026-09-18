@@ -35,7 +35,7 @@ Use your own thumbs on [this osu!taiko map](https://osu.ppy.sh/beatmapsets/23001
 
 ### [lexycat - Abyssal Storm](https://assets.ppy.sh/artists/468/Abyssal%20Storm/lexycat%20-%20Abyssal%20Storm.osz)
 
-Or stretch the rest of your fingers on [this osu!mania map](https://osu.ppy.sh/beatmapsets/2285560) hosted by ::Usagi\1::{ user=16046205 }!
+Or stretch the rest of your fingers on [this osu!mania map](https://osu.ppy.sh/beatmapsets/2285560) hosted by ::Usagi_::{ user=16046205 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/468/Abyssal%20Storm/lexycat%20-%20Abyssal%20Storm.mp3">

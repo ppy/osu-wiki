@@ -118,7 +118,7 @@ After a well-deserved timeout rest, the final battle would take place on [Sydosy
 
 Interested in some awesome scores? No worries, we got you covered!
 
-- We know that Japan always had players that were above and beyond. But ::{ flag=JP }:: ::Grape\1Tea::{ user=9540073 } has taken us to a very skillful ride this weekend, as he hit a double S on both of the Hidden picks this week's pool had to offer. On [cluli - they besties](https://osu.ppy.sh/beatmapsets/2350993#taiko/5059153) as well as [The Ghost Of 3.13 - Forgotten](https://osu.ppy.sh/beatmapsets/2351057#taiko/5059325), the Japanese captain has scored over one million points.
+- We know that Japan always had players that were above and beyond. But ::{ flag=JP }:: ::Grape_Tea::{ user=9540073 } has taken us to a very skillful ride this weekend, as he hit a double S on both of the Hidden picks this week's pool had to offer. On [cluli - they besties](https://osu.ppy.sh/beatmapsets/2350993#taiko/5059153) as well as [The Ghost Of 3.13 - Forgotten](https://osu.ppy.sh/beatmapsets/2351057#taiko/5059325), the Japanese captain has scored over one million points.
 
 ---
 

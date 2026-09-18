@@ -8,7 +8,7 @@ tags:
 
 ![NDC banner](img/banner.jpg)
 
-The **National Dutch Championship 2025** (***NDC 2025***) was a 1v1, double elimination osu!standard tournament hosted by ::{ flag=NL }:: ::Lilily::{ user=6502403 }, ::{ flag=NL }:: ::Mr HeliX::{ user=2330619 }, ::{ flag=NL }:: ::Happy\124::{ user=12876323 }, ::{ flag=NL }:: ::Fubu::{ user=12719649 } and ::{ flag=NL }:: ::Sroj::{ user=4783389 }. It was the fourth instalment of the National Dutch Championship.
+The **National Dutch Championship 2025** (***NDC 2025***) was a 1v1, double elimination osu!standard tournament hosted by ::{ flag=NL }:: ::Lilily::{ user=6502403 }, ::{ flag=NL }:: ::Mr HeliX::{ user=2330619 }, ::{ flag=NL }:: ::Happy_24::{ user=12876323 }, ::{ flag=NL }:: ::Fubu::{ user=12719649 } and ::{ flag=NL }:: ::Sroj::{ user=4783389 }. It was the fourth instalment of the National Dutch Championship.
 
 ## Tournament schedule
 
@@ -39,7 +39,7 @@ The tournament and prize pool was sponsored by both the organisation and communi
 
 - ::{ flag=NL }:: ::Lilily::{ user=6502403 }: €500
 - ::{ flag=NL }:: ::Mr HeliX::{ user=2330619 }: €200
-- ::{ flag=NL }:: ::Happy\124::{ user=12876323 }: €150
+- ::{ flag=NL }:: ::Happy_24::{ user=12876323 }: €150
 - ::{ flag=NL }:: ::Katie Djeestar::{ user=641155 }: €150
 - ::{ flag=NL }:: ::wie ben jij::{ user=16322001 }: €100
 - ::{ flag=NL }:: ::Astraea::{ user=17526061 }: €90
@@ -52,16 +52,16 @@ The National Dutch Championship 2025 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organisation | ::{ flag=NL }:: ::Lilily::{ user=6502403 }, ::{ flag=NL }:: ::Mr HeliX::{ user=2330619 }, ::{ flag=NL }:: ::Happy\124::{ user=12876323 }, ::{ flag=NL }:: ::Fubu::{ user=12719649 }, ::{ flag=NL }:: ::Sroj::{ user=4783389 } |
+| Organisation | ::{ flag=NL }:: ::Lilily::{ user=6502403 }, ::{ flag=NL }:: ::Mr HeliX::{ user=2330619 }, ::{ flag=NL }:: ::Happy_24::{ user=12876323 }, ::{ flag=NL }:: ::Fubu::{ user=12719649 }, ::{ flag=NL }:: ::Sroj::{ user=4783389 } |
 | Mappool selector | ::{ flag=NL }:: ::Sroj::{ user=4783389 }, ::{ flag=SG }:: ::bailie::{ user=7537133 }, ::{ flag=BE }:: ::Senndwich::{ user=12089512 }, ::{ flag=BE }:: ::megafasator::{ user=8456924 } |
 | Mapper | ::{ flag=PL }:: ::-NeBu-::{ user=4099626 }, ::{ flag=DE }:: ::Mir::{ user=8688812 }, ::{ flag=NL }:: ::Fubu::{ user=12719649 }, ::{ flag=NL }:: ::OldEclipse::{ user=5174602 }, ::{ flag=NL }:: ::Lilily::{ user=6502403 }, ::{ flag=NL }:: ::Damnjelly::{ user=1666355 }, ::{ flag=NL }:: ::n0ah::{ user=3086393 }, ::{ flag=US }:: ::Wispy::{ user=11106929 }, ::{ flag=NL }:: ::taku::{ user=684433 }, ::{ flag=NO }:: ::BarkingMadDog::{ user=3475189 }, ::{ flag=NL }:: ::Mijn Aim Zuigt::{ user=4587487 }, ::{ flag=DE }:: ::Kojio::{ user=2054596 } |
 | Playtester | ::{ flag=NL }:: ::SecretlyShiro::{ user=7498203 }, ::{ flag=BE }:: ::hexi::{ user=10760701 }, ::{ flag=BE }:: ::Hanori::{ user=7078544 }, ::{ flag=NL }:: ::Quinten::{ user=5101306 }, ::{ flag=FI }:: ::mxu::{ user=18687807 }, ::{ flag=NL }:: ::Lilily::{ user=6502403 }, ::{ flag=HK }:: ::misha awa::{ user=14503423 }, ::{ flag=PT }:: ::Kuronora::{ user=2742030 }, ::{ flag=NL }:: ::faze-dank::{ user=13050074 }, ::{ flag=KR }:: ::Amamya Kokoro::{ user=2511839 }, ::{ flag=NL }:: ::Wittepoes::{ user=12984931 }, ::{ flag=NL }:: ::UC2::{ user=6989615 }, ::{ flag=NL }:: ::nik::{ user=10077264 }, ::{ flag=NL }:: ::Alphan::{ user=13298387 }, ::{ flag=NL }:: ::sofuraabu::{ user=7639453 }, ::{ flag=CN }:: ::Crystal::{ user=1646397 }, ::{ flag=NO }:: ::HUNDUR::{ user=3145033 }, ::{ flag=NL }:: ::niqht::{ user=14390731 }, ::{ flag=DE }:: ::yary::{ user=13300203 }, ::{ flag=NO }:: ::Melvr::{ user=9211924 }, ::{ flag=NL }:: ::Kushper::{ user=4832514 }, ::{ flag=ES }:: ::A L E P H::{ user=6735738 }, ::{ flag=GB }:: ::Bubbleman::{ user=5182050 }, ::{ flag=RO }:: ::badeu::{ user=1473890 } |
 | Referee | ::{ flag=NL }:: ::Lilily::{ user=6502403 }, ::{ flag=DE }:: ::TheHunter1::{ user=6496016 }, ::{ flag=NL }:: ::Astraea::{ user=17526061 }, ::{ flag=NL }:: ::wie ben jij::{ user=16322001 }, ::{ flag=NL }:: ::Marslam::{ user=16814497 }, ::{ flag=NL }:: ::DeathByDarwin::{ user=9087777 }, ::{ flag=NL }:: ::Kapsalon::{ user=6941124 }, ::{ flag=NL }:: ::Timper::{ user=11955929 } |
-| Streamer | ::{ flag=NL }:: ::wessel\1osu2::{ user=4382220 }, ::{ flag=NL }:: ::Lilily::{ user=6502403 }, ::{ flag=NL }:: ::Fubu::{ user=12719649 }, ::{ flag=NL }:: ::Astraea::{ user=17526061 }, ::{ flag=NL }:: ::Alphan::{ user=13298387 }, ::{ flag=NL }:: ::UnveiledGolem::{ user=14090438 }, ::{ flag=NL }:: ::Mr HeliX::{ user=2330619 } |
-| Commentator | ::{ flag=NL }:: ::Swerro::{ user=4507667 }, ::{ flag=NL }:: ::UnveiledGolem::{ user=14090438 }, ::{ flag=NL }:: ::Lilily::{ user=6502403 }, ::{ flag=NL }:: ::Fubu::{ user=12719649 }, ::{ flag=NL }:: ::Mr HeliX::{ user=2330619 }, ::{ flag=NL }:: ::Timper::{ user=11955929 }, ::{ flag=NL }:: ::Pisslow::{ user=26527329 }, ::{ flag=NL }:: ::Alphan::{ user=13298387 }, ::{ flag=NL }:: ::Goose King::{ user=9387696 }, ::{ flag=NL }:: ::Sroj::{ user=4783389 }, ::{ flag=NL }:: ::Happy\124::{ user=12876323 }, ::{ flag=NL }:: ::sofuraabu::{ user=7639453 }, ::{ flag=NL }:: ::Damnjelly::{ user=1666355 }, ::{ flag=NL }:: ::wessel\1osu2::{ user=4382220 }, ::{ flag=NL }:: ::n0ah::{ user=3086393 }, ::{ flag=NL }:: ::nik::{ user=10077264 }, ::{ flag=NL }:: ::Castagne::{ user=12270596 }, ::{ flag=NL }:: ::flowerfields::{ user=11604978 } |
-| Designer | ::{ flag=NL }:: ::Happy\124::{ user=12876323 }, ::{ flag=US }:: ::Boolmaster Flex::{ user=5394681 } |
+| Streamer | ::{ flag=NL }:: ::wessel_osu2::{ user=4382220 }, ::{ flag=NL }:: ::Lilily::{ user=6502403 }, ::{ flag=NL }:: ::Fubu::{ user=12719649 }, ::{ flag=NL }:: ::Astraea::{ user=17526061 }, ::{ flag=NL }:: ::Alphan::{ user=13298387 }, ::{ flag=NL }:: ::UnveiledGolem::{ user=14090438 }, ::{ flag=NL }:: ::Mr HeliX::{ user=2330619 } |
+| Commentator | ::{ flag=NL }:: ::Swerro::{ user=4507667 }, ::{ flag=NL }:: ::UnveiledGolem::{ user=14090438 }, ::{ flag=NL }:: ::Lilily::{ user=6502403 }, ::{ flag=NL }:: ::Fubu::{ user=12719649 }, ::{ flag=NL }:: ::Mr HeliX::{ user=2330619 }, ::{ flag=NL }:: ::Timper::{ user=11955929 }, ::{ flag=NL }:: ::Pisslow::{ user=26527329 }, ::{ flag=NL }:: ::Alphan::{ user=13298387 }, ::{ flag=NL }:: ::Goose King::{ user=9387696 }, ::{ flag=NL }:: ::Sroj::{ user=4783389 }, ::{ flag=NL }:: ::Happy_24::{ user=12876323 }, ::{ flag=NL }:: ::sofuraabu::{ user=7639453 }, ::{ flag=NL }:: ::Damnjelly::{ user=1666355 }, ::{ flag=NL }:: ::wessel_osu2::{ user=4382220 }, ::{ flag=NL }:: ::n0ah::{ user=3086393 }, ::{ flag=NL }:: ::nik::{ user=10077264 }, ::{ flag=NL }:: ::Castagne::{ user=12270596 }, ::{ flag=NL }:: ::flowerfields::{ user=11604978 } |
+| Designer | ::{ flag=NL }:: ::Happy_24::{ user=12876323 }, ::{ flag=US }:: ::Boolmaster Flex::{ user=5394681 } |
 | Editor | ::{ flag=NL }:: ::FogsFles::{ user=3197633 }, ::{ flag=NL }:: ::Fubu::{ user=12719649 }, ::{ flag=NL }:: ::Timper::{ user=11955929 }, ::{ flag=NL }:: ::Pisslow::{ user=26527329 } |
-| Programmer | ::{ flag=NL }:: ::Mr HeliX::{ user=2330619 }, ::{ flag=NL }:: ::Happy\124::{ user=12876323 }, ::{ flag=NL }:: ::basw::{ user=13794142 }, ::{ flag=NL }:: ::dyl::{ user=9507985 } |
+| Programmer | ::{ flag=NL }:: ::Mr HeliX::{ user=2330619 }, ::{ flag=NL }:: ::Happy_24::{ user=12876323 }, ::{ flag=NL }:: ::basw::{ user=13794142 }, ::{ flag=NL }:: ::dyl::{ user=9507985 } |
 
 ## Links
 
@@ -87,7 +87,7 @@ The National Dutch Championship 2025 was run by various community members.
 | 10 | ::{ flag=NL }:: ::808::{ user=15802126 } | #531 | #7 |
 | 11 | ::{ flag=NL }:: ::Skyrovania::{ user=4696315 } | #1383 | #16 |
 | 12 | ::{ flag=NL }:: ::Goose King::{ user=9387696 } | #9126 | #107 |
-| 13 | ::{ flag=NL }:: ::wessel\1osu2::{ user=4382220 } | #3188 | #34 |
+| 13 | ::{ flag=NL }:: ::wessel_osu2::{ user=4382220 } | #3188 | #34 |
 | 14 | ::{ flag=NL }:: ::WeederBoss0::{ user=21574224 } | #686 | #10 |
 | 15 | ::{ flag=NL }:: ::Alphan::{ user=13298387 } | #6264 | #65 |
 | 16 | ::{ flag=NL }:: ::sofuraabu::{ user=7639453 } | #8285 | #93 |
@@ -104,7 +104,7 @@ The National Dutch Championship 2025 was run by various community members.
 | 27 | ::{ flag=NL }:: ::nik::{ user=10077264 } | #13033 | #151 |
 | 28 | ::{ flag=NL }:: ::UnveiledGolem::{ user=14090438 } | #11847 | #138 |
 | 29 | ::{ flag=NL }:: ::-Wyren-::{ user=12535083 } | #17714 | #193 |
-| 30 | ::{ flag=NL }:: ::GeKa\1Z::{ user=13233381 } | #9638 | #112 |
+| 30 | ::{ flag=NL }:: ::GeKa_Z::{ user=13233381 } | #9638 | #112 |
 | 31 | ::{ flag=NL }:: ::HiuraMyBeloved::{ user=19412255 } | #9439 | #110 |
 | 32 | ::{ flag=NL }:: ::de boom 3 meter::{ user=3577226 } | #2348 | #25 |
 | 33 | ::{ flag=NL }:: ::NeonCircles::{ user=13702202 } | #13352 | #154 |
@@ -112,7 +112,7 @@ The National Dutch Championship 2025 was run by various community members.
 | 35 | ::{ flag=NL }:: ::Stogdy::{ user=15120705 } | #3672 | #38 |
 | 36 | ::{ flag=NL }:: ::DuoSushi::{ user=9258670 } | #28309 | #294 |
 | 37 | ::{ flag=NL }:: ::gpvk::{ user=22600547 } | #26270 | #278 |
-| 38 | ::{ flag=NL }:: ::wessel\1osu1::{ user=6577301 } | #12354 | #144 |
+| 38 | ::{ flag=NL }:: ::wessel_osu1::{ user=6577301 } | #12354 | #144 |
 | 39 | ::{ flag=NL }:: ::Sleppie::{ user=16072104 } | #5015 | #50 |
 | 40 | ::{ flag=NL }:: ::Joeri::{ user=12839455 } | #92794 | #1018 |
 | 41 | ::{ flag=NL }:: ::Naccer::{ user=2250236 } | #67347 | #737 |

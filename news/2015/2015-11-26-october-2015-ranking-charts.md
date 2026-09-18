@@ -34,7 +34,7 @@ There seems to be a pattern here with my choices, sort of low BPM, complex rhyth
 
 I know what you guys are thinking, "Ugh, this song again?!", and yet, here it is! This version of the song stands out for me the most due to how well it reflects not only the rhythm, but the whole feeling of the song, from the sharp slider design to the flow of the patterns and the shapes of the streams, this all reflects the song in an amazing way while still keeping a visually appealing and clean map, which is quite a challenge for dubstep songs of this nature. Overall, the map doesn't show anything new or "special", but it's composed in a way that is so fun and neat that I had to mention it in this list.
 
-- [Bring Me The Horizon - Can You Feel My Heart](https://osu.ppy.sh/beatmapsets/221860) by ::Vass\1Bass::{ user=188248 }
+- [Bring Me The Horizon - Can You Feel My Heart](https://osu.ppy.sh/beatmapsets/221860) by ::Vass_Bass::{ user=188248 }
 
 Yet again, a map that isn't so difficult, but it has a special place in my heart. The overall composition style is pretty unique to Vass, making every map she releases yet another success, and this is no different! It has great hitsounding, lovely rhythms, amazing flow and of course, a really good song. The thing that makes this so special is the use of whistles. It is usually seen in maps made by people such as Vass, Reiji-RJ and EvilElvis, but here it's put in a unique way that emphasizes what Vass wanted to emphasize while still going well with the song, giving it a whole new layer.
 
@@ -58,11 +58,11 @@ I chose this as the second best set because, it gives a good example of how a ne
 
 This friendly set is the easiest and shortest one in this chart. Every difficulty is mapped in a good way, following the calm song in an appropriate way. It is really short, so you can play it as many times as you want. One player has even become crazy by retrying to fullcombo it...! Of course, you can also enjoy this set by using mods. Have fun!
 
-- [Black Raison d'etre - INSIDE IDENTITY](https://osu.ppy.sh/beatmapsets/66901) by ::taiko\1maniac1811::{ user=595764 } & ::lolcubes::{ user=578401 }
+- [Black Raison d'etre - INSIDE IDENTITY](https://osu.ppy.sh/beatmapsets/66901) by ::taiko_maniac1811::{ user=595764 } & ::lolcubes::{ user=578401 }
 
 This song is long compared to the others. It's over 4 minutes, but you'll never get tired of playing it. There are two difficulties with a basic flow, but it gives you a feeling of how the gameplay in Taiko works. It represents the sentence "less is more" in a good way.
 
-- [Doma Umaru [CV.Tanaka Aimi] - Kakushinteki*Metamaruphose!](https://osu.ppy.sh/beatmapsets/332623) by ::\1Gezo\1::{ user=481582 } & ::Nardoxyribonucleic::{ user=876419 }
+- [Doma Umaru [CV.Tanaka Aimi] - Kakushinteki*Metamaruphose!](https://osu.ppy.sh/beatmapsets/332623) by ::_Gezo_::{ user=481582 } & ::Nardoxyribonucleic::{ user=876419 }
 
 This song is a famous japanese anime song and its mapset contains all modes. You are able to enjoy the melody even if you don't know the song yet, so I think, overall the maps are very well made. It is a good chance to start playing Taiko, so let's enjoy it!
 
@@ -142,7 +142,7 @@ Congratulations to the winners of the September 2015 Ranking Charts. They receiv
 
 - **osu! standard:** ::dsan::{ user=1266166 }
 - **Taiko:** ::tasuke912::{ user=2774767 }
-- **Catch the Beat:** ::No492\1Shaymin::{ user=566276 }
+- **Catch the Beat:** ::No492_Shaymin::{ user=566276 }
 - **osu!mania:** ::Squishykorean::{ user=4372604 }
 
 Good luck with the new charts! We'd love to hear any and all feedback you have about the new format and selection process for the charts - feel free to leave a comment below!

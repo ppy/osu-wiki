@@ -241,13 +241,13 @@ So, are you ready to take on ::Raph's::{ user=3918650 } Tag gauntlet? Cast your 
 
 [![](/wiki/shared/news/2025-10-14-project-loved-october-2025/1690950.jpg)](https://osu.ppy.sh/community/forums/topics/2140762)
 
-[takehirotei - The Witch Hunt](https://osu.ppy.sh/beatmapsets/1690950#taiko) by ::9\19::{ user=7700831 }\
+[takehirotei - The Witch Hunt](https://osu.ppy.sh/beatmapsets/1690950#taiko) by ::9_9::{ user=7700831 }\
 304 BPM, 2:11 | 1.90★, 3.13★, 4.20★, 6.78★, 7.45★\
 *description written by ::K a y o k o::{ user=17664300 }*
 
-::9\19::{ user=7700831 }, a name seemingly forgotten from the community, has been brought up in this month's Loved nomination. [The Witch Hunt](https://osu.ppy.sh/beatmapsets/1690950#taiko), by none other than one of the G.O.A.T. Featured Artists ::takehirotei::{ user=11793794 }, was a mapset intended to go for Ranked, but due to the mapper's inactivity, Ranked status was not achieved.
+::9_9::{ user=7700831 }, a name seemingly forgotten from the community, has been brought up in this month's Loved nomination. [The Witch Hunt](https://osu.ppy.sh/beatmapsets/1690950#taiko), by none other than one of the G.O.A.T. Featured Artists ::takehirotei::{ user=11793794 }, was a mapset intended to go for Ranked, but due to the mapper's inactivity, Ranked status was not achieved.
 
-However, the popularity this map received from the masses is too significant to be ignored. ::9\19::{ user=7700831 } was able to provide 304 BPM difficulties that are engaging for all skill levels, while also keeping the top difficulty filled with challenges. Not only did the finisher sections feel super fun to play, but the speed sections' patterns are also a blast to play, which will surely encourage players of different levels to try this map out.
+However, the popularity this map received from the masses is too significant to be ignored. ::9_9::{ user=7700831 } was able to provide 304 BPM difficulties that are engaging for all skill levels, while also keeping the top difficulty filled with challenges. Not only did the finisher sections feel super fun to play, but the speed sections' patterns are also a blast to play, which will surely encourage players of different levels to try this map out.
 
 If you want to see more spreads in Loved, be sure to cast your "Yes!" vote here with a simple click of your mouse! (or finger!)
 
@@ -418,7 +418,7 @@ It's not often Loved sees hybrids, especially of this difficulty, so it's heavil
 155 – 217 BPM, 2:18 | 4.24★, 4.61★, 4.89★, 5.20★, 5.51★\
 *description written by ::LivelyPeninsula::{ user=11517895 }*
 
-\::\1Crz\]FolAH1217::{ user=6232458 } makes a lot of Long Note (LN) charts that are widely used in tournaments today, with a lot of them even showing up in the osu!mania World Cup. [Raindrop](https://osu.ppy.sh/beatmapsets/1701983#mania/3477685) is another one of their charts that showcases their charting ability for LNs, and was featured in the Round of 16 mappool for the [osu!mania 4K Chinese National Cup 2022 edition](/wiki/Tournaments/MCNC/4K2022#round-of-16).
+\::[Crz\]FolAH1217::{ user=6232458 } makes a lot of Long Note (LN) charts that are widely used in tournaments today, with a lot of them even showing up in the osu!mania World Cup. [Raindrop](https://osu.ppy.sh/beatmapsets/1701983#mania/3477685) is another one of their charts that showcases their charting ability for LNs, and was featured in the Round of 16 mappool for the [osu!mania 4K Chinese National Cup 2022 edition](/wiki/Tournaments/MCNC/4K2022#round-of-16).
 
 At the very beginning, you are already given hints of both density and release elements being present, making this a mixed LN pick. This makes for a really difficult challenge all around, as density typically is one of the more straightforward patterns; however, the moment you place release elements into it, another layer of focus is required in order for you to play this chart accurately. Not to mention, the presence of minijacks all throughout also means that there's a consistency aspect, because these patterns can easily make your hands unstable, and require a lot of practice to hit them while still maintaining your accuracy and control.
 
@@ -430,7 +430,7 @@ Honestly, I can't wait to see how every player performs in this chart. If you ag
 
 [![](/wiki/shared/news/2025-10-14-project-loved-october-2025/1754813.jpg)](https://osu.ppy.sh/community/forums/topics/2140750)
 
-[Raphiiel - RoquiRa : Between Life and Death (Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/1754813#mania) by ::\_underjoy::{ user=2235750 }, ::aci::{ user=9650304 }, ::Archaic84::{ user=8611177 }, ::dressurf::{ user=758406 }, ::Kim\1GodSSI::{ user=2218047 }, and ::Pengdoll::{ user=6392061 }\
+[Raphiiel - RoquiRa : Between Life and Death (Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/1754813#mania) by ::\_underjoy::{ user=2235750 }, ::aci::{ user=9650304 }, ::Archaic84::{ user=8611177 }, ::dressurf::{ user=758406 }, ::Kim_GodSSI::{ user=2218047 }, and ::Pengdoll::{ user=6392061 }\
 201.3 BPM, 8:59 | 7.77★, 10.76★\
 *description written by ::Carpihat::{ user=10085090 }*
 

@@ -49,9 +49,9 @@ This quest was completed by ::komasy::{ user=1980256 }, ::Greenshell::{ user=869
 
 For the **High Tempo pack (osu!)** quest, mappers had to create and rank at least 8 mapsets of songs whose tempos are mainly 200BPM or faster, without a single user hosting more than two mapsets.
 
-This quest was completed by ::Cris-::{ user=6175280 }, ::walaowey::{ user=1475828 }, ::Minorsonek::{ user=5377178 }, ::Hazu-::{ user=4668230 }, ::Cosmolade::{ user=2172778 }, ::RVMathew::{ user=3718151 }, ::-Sh1n1-::{ user=1957638 }, ::Gero::{ user=1467715 }, ::Tatan::{ user=5646529 }, ::Crissa::{ user=5405836 }, ::pkhg::{ user=343624 }, and ::\1 L u k a s \1::{ user=8067876 }.
+This quest was completed by ::Cris-::{ user=6175280 }, ::walaowey::{ user=1475828 }, ::Minorsonek::{ user=5377178 }, ::Hazu-::{ user=4668230 }, ::Cosmolade::{ user=2172778 }, ::RVMathew::{ user=3718151 }, ::-Sh1n1-::{ user=1957638 }, ::Gero::{ user=1467715 }, ::Tatan::{ user=5646529 }, ::Crissa::{ user=5405836 }, ::pkhg::{ user=343624 }, and ::[ L u k a s ]::{ user=8067876 }.
 
-- [HyuN - White Aura](https://osu.ppy.sh/beatmapsets/996898) hosted by ::\1 L u k a s \1::{ user=8067876 }
+- [HyuN - White Aura](https://osu.ppy.sh/beatmapsets/996898) hosted by ::[ L u k a s ]::{ user=8067876 }
 - [OISHII - ONIGIRI FREEWAY](https://osu.ppy.sh/beatmapsets/996628) hosted by ::Hazu-::{ user=4668230 }
 - [sakuraburst - dragonlands](https://osu.ppy.sh/beatmapsets/1009637) hosted by ::Minorsonek::{ user=5377178 }
 - [SOOOO - iiillluuuvvvUUU](https://osu.ppy.sh/beatmapsets/959688) hosted by ::Cosmolade::{ user=2172778 }
@@ -161,16 +161,16 @@ Non-guild maps will be marked with an asterisk `*`.
 - [Creo - Nautilus](https://osu.ppy.sh/beatmapsets/1015289) hosted by ::VINXIS::{ user=4323406 }
 - [Creo - Rivals](https://osu.ppy.sh/beatmapsets/1012878) hosted by ::mithew::{ user=2571893 }
 - [Creo - Shape of the Sun](https://osu.ppy.sh/beatmapsets/1051126) hosted by ::NeilPerry::{ user=841391 }
-- [Fractal Dreamers - Gardens Under A Spring Sky](https://osu.ppy.sh/beatmapsets/985385) hosted by ::\1Mahua\1::{ user=568761 }
+- [Fractal Dreamers - Gardens Under A Spring Sky](https://osu.ppy.sh/beatmapsets/985385) hosted by ::[Mahua]::{ user=568761 }
 - [Fractal Dreamers - Module_410](https://osu.ppy.sh/beatmapsets/982205) hosted by ::Present::{ user=5645691 }
 - [Fractal Dreamers - Monolithia](https://osu.ppy.sh/beatmapsets/982375) hosted by ::Yugu::{ user=3161834 }
-- [HyuN - White Aura](https://osu.ppy.sh/beatmapsets/996898) hosted by ::\1 L u k a s \1::{ user=8067876 }
+- [HyuN - White Aura](https://osu.ppy.sh/beatmapsets/996898) hosted by ::[ L u k a s ]::{ user=8067876 }
 - [IAHN - Feel It](https://osu.ppy.sh/beatmapsets/1017701) hosted by ::Cellina::{ user=2490770 }
 - [IAHN - Summer Vacation (Original Mix)](https://osu.ppy.sh/beatmapsets/1017566) hosted by ::Riana::{ user=1997633 }
 - [Loki - Quiet Village](https://osu.ppy.sh/beatmapsets/963871) hosted by ::Shmiklak::{ user=5504231 }
 - [OISHII - ONIGIRI FREEWAY](https://osu.ppy.sh/beatmapsets/996628) hosted by ::Hazu-::{ user=4668230 }
 - [onumi - ARROGANCE](https://osu.ppy.sh/beatmapsets/940377) hosted by ::Mirash::{ user=2841009 }
-- [Ricky Montgomery - Cabo](https://osu.ppy.sh/beatmapsets/1035982) hosted by ::\1Mad\1::{ user=4505479 } \*
+- [Ricky Montgomery - Cabo](https://osu.ppy.sh/beatmapsets/1035982) hosted by ::[Mad]::{ user=4505479 } \*
 - [Rin - Ayakashi set 12 Another ~ Border of Life](https://osu.ppy.sh/beatmapsets/1001360) by ::pishifat::{ user=3178418 }
 - [Rin - Chireiden set 05 ~ Walking the Streets of a Former Hell](https://osu.ppy.sh/beatmapsets/985478) hosted by ::Niva::{ user=197805 }
 - [Rin - Koumakan set 02 ~ Apparitions Stalk the Night](https://osu.ppy.sh/beatmapsets/991960) by ::eiri-::{ user=3388410 }

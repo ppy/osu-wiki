@@ -248,13 +248,13 @@ If you haven't tried this mapset, it doesn't matter if you have just started thi
 
 [![](/wiki/shared/news/2023-04-20-project-loved-april-2023/1061089.jpg)](https://osu.ppy.sh/community/forums/topics/1753552)
 
-[7_7 - Hongik Univ. Station (french)](https://osu.ppy.sh/beatmapsets/1061089#taiko) by ::7\17::{ user=7491106 }, ::Chiswell::{ user=659959 }, ::KTYN::{ user=2250574 } and ::POCARI SWEAT::{ user=5082685 }\
+[7_7 - Hongik Univ. Station (french)](https://osu.ppy.sh/beatmapsets/1061089#taiko) by ::7_7::{ user=7491106 }, ::Chiswell::{ user=659959 }, ::KTYN::{ user=2250574 } and ::POCARI SWEAT::{ user=5082685 }\
 210 – 245 BPM, 1:50 | 5.61★, 6.23★, 6.65★, 6.87★\
 *description written by ::-Kazu-::{ user=920861 }*
 
-*Hongik Univ. Station (french)* both composed and mapped by ::7\17::{ user=7491106 } features a hilarious song that is just as enjoyable to listen to as it is to play along with.
+*Hongik Univ. Station (french)* both composed and mapped by ::7_7::{ user=7491106 } features a hilarious song that is just as enjoyable to listen to as it is to play along with.
 
-::7\17::{ user=7491106 } did an amazing job at making his mapping fit the song perfectly, and is expertly crafted to match the playful and upbeat nature of the song. Even when played at its 245 BPM version, the chart remains fun and engaging with patterns that feel natural and intuitive.
+::7_7::{ user=7491106 } did an amazing job at making his mapping fit the song perfectly, and is expertly crafted to match the playful and upbeat nature of the song. Even when played at its 245 BPM version, the chart remains fun and engaging with patterns that feel natural and intuitive.
 
 In addition to the main beatmap, the guest beatmaps are also fantastic: each one captures the essence of the song in its own unique way, with patterns that are creative and challenging while still feeling true to the original composition. One guest chart even quotes the song *Aether Ritual*, and even though it may sound cheesy, it truly adds an extra layer of cleverness and fun to the experience.
 

@@ -76,7 +76,7 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com) and ap
 ### BN Departures
 
 - **osu!:** ::Venix::{ user=5999631 }, ::Trynna::{ user=2652951 }, ::NeKroMan4ik::{ user=11387664 }, ::Ryuusei Aika::{ user=7777875 }, ::Fall::{ user=4800816 }, ::Nikakis::{ user=4351739 }, ::Yahuri::{ user=4682629 }, ::Sylas::{ user=3906405 }, ::Stack::{ user=6122935 } & ::Myxo::{ user=2202645 }
-- **osu!taiko:** ::Roger::{ user=1538223 },  ::tasuke912::{ user=2774767 }, ::\1Karcher\1 2::{ user=9892196 }, ::Ulqui::{ user=1263669 }, ::incandescence::{ user=6256027 } & ::Raiden::{ user=2239480 }
+- **osu!taiko:** ::Roger::{ user=1538223 },  ::tasuke912::{ user=2774767 }, ::[Karcher] 2::{ user=9892196 }, ::Ulqui::{ user=1263669 }, ::incandescence::{ user=6256027 } & ::Raiden::{ user=2239480 }
 - **osu!catch:** ::wonjae::{ user=5032045 }, ::Sinnoh::{ user=4236057 }, ::Bunnrei::{ user=829284 }, ::Baron::{ user=10286499 }, ::Dapuluous::{ user=8140944 } & ::Xinely::{ user=1521445 }
 - **osu!mania:** ::Keiga::{ user=6866022 }, ::Garalulu::{ user=757783 },  ::Kamuy::{ user=7439226 },  ::Muse Dash::{ user=13695676 } & ::Kawawa::{ user=4647754 }
 

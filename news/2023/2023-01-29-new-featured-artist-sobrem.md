@@ -31,7 +31,7 @@ Check out [this map from the osu!mania 7K World Cup 2023](https://osu.ppy.sh/bea
 
 ### Sobrem x Silentroom - Random
 
-Try [this 7K osu!mania map](https://osu.ppy.sh/beatmapsets/1740952) hosted by ::\1Stan::{ user=1653229 } or [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1627748) hosted by ::rubies87::{ user=4949934 }!
+Try [this 7K osu!mania map](https://osu.ppy.sh/beatmapsets/1740952) hosted by ::_Stan::{ user=1653229 } or [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1627748) hosted by ::rubies87::{ user=4949934 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/338/Random/Sobrem%20x%20Silentroom%20-%20Random.mp3" type="audio/mpeg">

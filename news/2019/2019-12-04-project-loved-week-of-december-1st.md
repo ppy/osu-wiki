@@ -78,7 +78,7 @@ osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 } and ::Ulqui:
 
 [![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/taiko/1-nxc-fanatics.jpg)](https://osu.ppy.sh/community/forums/topics/993246)
 
-[katagiri - NXC Fanatics](https://osu.ppy.sh/beatmapsets/743959#taiko) by ::applerss::{ user=983349 } and ::7\17::{ user=7491106 }\
+[katagiri - NXC Fanatics](https://osu.ppy.sh/beatmapsets/743959#taiko) by ::applerss::{ user=983349 } and ::7_7::{ user=7491106 }\
 240 BPM, 3:59 | 7.80★\
 *description written by ::-Kazu-::{ user=920861 }*
 
@@ -86,7 +86,7 @@ If you're one of those that have been in osu since the beginning of time, back w
 
 [![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/taiko/2-education.jpg)](https://osu.ppy.sh/community/forums/topics/993245)
 
-[PSYQUI - Education](https://osu.ppy.sh/beatmapsets/982114#taiko) by ::\1\_Chichinya\_\1::{ user=2140739 }\
+[PSYQUI - Education](https://osu.ppy.sh/beatmapsets/982114#taiko) by ::[\_Chichinya\_]::{ user=2140739 }\
 180 BPM, 3:44 | 8.07★\
 *description written by ::Ulqui::{ user=1263669 }*
 

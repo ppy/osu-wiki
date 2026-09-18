@@ -71,7 +71,7 @@ Coming right out of mid 2015 is Smoothie's mapset of Last Stardust, a beatmap wh
 
 [![](/wiki/shared/news/2018-04-09-project-loved-week-of-april-8th/osu/kakushigoto.jpg)](https://osu.ppy.sh/community/forums/topics/727585)
 
-[yuikonnu - Kakushigoto](https://osu.ppy.sh/beatmapsets/104727) by ::murasaki\1sk::{ user=1022958 } and ::caren\_sk::{ user=542498 }\
+[yuikonnu - Kakushigoto](https://osu.ppy.sh/beatmapsets/104727) by ::murasaki_sk::{ user=1022958 } and ::caren\_sk::{ user=542498 }\
 *written by ::Toy::{ user=2757689 }*
 
 To go along with the other few iconic beatmaps predating 2015, murasaki\_sk tagged with caren\_sk (better known as CRN) to create an immensely popular rendition of a similarly popular song, Kakushigoto. Standing at 220+ favorites, this map, while slowly forgotten through the passage of time, still remains as an artifact of mapping before ppv2.

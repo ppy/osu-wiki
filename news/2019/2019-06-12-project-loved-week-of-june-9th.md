@@ -103,7 +103,7 @@ With Kaifin's new album "Duality" having dropped on the 7th of June ([be sure to
 
 [![](/wiki/shared/news/2019-06-12-project-loved-week-of-june-9th/osu/10-idola-no-circus.jpg)](https://osu.ppy.sh/community/forums/topics/920510)
 
-[Himeringo - Idola no Circus](https://osu.ppy.sh/beatmapsets/173011#osu) by ::cRyo\1iceeicee\1::{ user=835998 }\
+[Himeringo - Idola no Circus](https://osu.ppy.sh/beatmapsets/173011#osu) by ::cRyo[iceeicee]::{ user=835998 }\
 181 BPM, 3:29 | 5.70★\
 *description written by ::-Roxas::{ user=1986262 }*
 
@@ -211,7 +211,7 @@ A chart bearing the hallmark of O2Jam converts, Tsubomi has it all for anyone lo
 
 [![](/wiki/shared/news/2019-06-12-project-loved-week-of-june-9th/mania/5-niwaka-sannen-ota-hachinen-internets-wa-forever-choubun-sumaso-long-ver.jpg)](https://osu.ppy.sh/community/forums/topics/920494)
 
-[Camellia feat. Nanahira - Niwaka Sannen Ota Hachinen, Internets wa forever (Choubun Sumaso Long ver.)](https://osu.ppy.sh/beatmapsets/748377#mania) by ::Kim\1GodSSI::{ user=2218047 }\
+[Camellia feat. Nanahira - Niwaka Sannen Ota Hachinen, Internets wa forever (Choubun Sumaso Long ver.)](https://osu.ppy.sh/beatmapsets/748377#mania) by ::Kim_GodSSI::{ user=2218047 }\
 216 BPM, 5:04 | \[7K\] 7.13★
 
 It's time to throw in another 7K marathon, and this time we're aiming for a blast with a Camellia chart! Primarily a dense and rolly chart, the map mainly puts an emphasis on huge 126 BPM 1/2 chords and 1/4 chordtrills with rolly chordstreams. They're are a staple in this chart which highlights the chaotic nature of the song. While the chart can be a little dense to deal with, a generous break section is followed by a very aggressive delay-like dubstep section to bring back the pacing of the song. The chart is finally topped off with the same general flow but with much more dense chord usages! This is generally a fun pick for anyone wanting to play a marathon.

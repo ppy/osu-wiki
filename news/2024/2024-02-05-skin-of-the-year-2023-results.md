@@ -21,7 +21,7 @@ With the votes tallied up, let's take a look at the top 10.
 
 [![](/wiki/shared/news/2024-02-05-skin-of-the-year-2023-results/Ghost-Rule.jpg)](https://osu.ppy.sh/community/forums/topics/1792933)
 
-Another Icons of an Era skinning contest entry grazes the top 10! [Ghost Rule](https://osu.ppy.sh/community/forums/topics/1792933) by ::Redo\1::{ user=7122165 } is a skin based on a couple of different beatmap sets of the song with the same name, all with similar art of Hatsune Miku. Featuring art by ::xootynator::{ user=3717598 }, Redo\_ crafted yet another masterpiece, with which they managed to score **761** votes.
+Another Icons of an Era skinning contest entry grazes the top 10! [Ghost Rule](https://osu.ppy.sh/community/forums/topics/1792933) by ::Redo_::{ user=7122165 } is a skin based on a couple of different beatmap sets of the song with the same name, all with similar art of Hatsune Miku. Featuring art by ::xootynator::{ user=3717598 }, Redo\_ crafted yet another masterpiece, with which they managed to score **761** votes.
 
 [![](/wiki/shared/news/2024-02-05-skin-of-the-year-2023-results/Divide-by-8.jpg)](https://osu.ppy.sh/community/forums/topics/1792739)
 

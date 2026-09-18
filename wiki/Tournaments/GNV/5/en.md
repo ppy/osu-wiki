@@ -45,11 +45,11 @@ Gulano Cup #5 was run by various community members from Indonesia.
 | Host | ::{ flag=ID }:: ::danar::{ user=11184912 }, ::{ flag=ID }:: ::Revv-::{ user=12424909 } |
 | Organiser | ::{ flag=ID }:: ::Ainer::{ user=13371424 }, ::{ flag=ID }:: ::Antipole::{ user=17258072 }, ::{ flag=ID }:: ::AsanagiYori::{ user=17223636 }, ::{ flag=ID }:: ::danar::{ user=11184912 }, ::{ flag=ID }:: ::Elin-::{ user=5198950 }, ::{ flag=ID }:: ::FelixSpade::{ user=2651304 }, ::{ flag=ID }:: ::Raakcon::{ user=15178052 }, ::{ flag=ID }:: ::Reihynn::{ user=16630515 }, ::{ flag=ID }:: ::Revv-::{ user=12424909 } |
 | Mappool selector | ::{ flag=ID }:: ::-Yubi-::{ user=17851478 }, ::{ flag=ID }:: ::Ainer::{ user=13371424 }, ::{ flag=ID }:: ::FelixSpade::{ user=2651304 }, ::{ flag=ID }:: ::Revv-::{ user=12424909 } |
-| Mapper | ::{ flag=ID }:: ::-Yubi-::{ user=17851478 }, ::{ flag=ID }:: ::\1-SVzzZ-\1::{ user=26574578 }, ::{ flag=ID }:: ::Ainer::{ user=13371424 }, ::{ flag=ID }:: ::Antipole::{ user=17258072 }, ::{ flag=ID }:: ::danar::{ user=11184912 }, ::{ flag=ID }:: ::eZmmR::{ user=8647138 }, ::{ flag=ID }:: ::FelixSpade::{ user=2651304 }, ::{ flag=ID }:: ::Ilham::{ user=3057154 }, ::{ flag=ID }:: ::Onta\1Bekasi::{ user=8677684 }, ::{ flag=ID }:: ::Reihynn::{ user=16630515 }, ::{ flag=ID }:: ::Revv-::{ user=12424909 }, ::{ flag=ID }:: ::Reyi::{ user=13385865 }, ::{ flag=ID }:: ::Sarahkuai::{ user=5246861 }, ::{ flag=ID }:: ::Syrion-::{ user=15380643 }, ::{ flag=ID }:: ::Who\1is\1Marpang::{ user=24787752 } |
-| Playtester | ::{ flag=ID }:: ::-Yubi-::{ user=17851478 }, ::{ flag=ID }:: ::\1ID\1Xenotia-::{ user=13865224 }, ::{ flag=ID }:: ::Fyl::{ user=10069307 }, ::{ flag=ID }:: ::Gxbran::{ user=8243526 }, ::{ flag=ID }:: ::Kada-::{ user=16176978 }, ::{ flag=ID }:: ::Onta\1Bekasi::{ user=8677684 }, ::{ flag=ID }:: ::Rakanovan::{ user=10478980 }, ::{ flag=ID }:: ::Revv-::{ user=12424909 }, ::{ flag=ID }:: ::Yangga::{ user=12143152 } |
+| Mapper | ::{ flag=ID }:: ::-Yubi-::{ user=17851478 }, ::{ flag=ID }:: ::[-SVzzZ-]::{ user=26574578 }, ::{ flag=ID }:: ::Ainer::{ user=13371424 }, ::{ flag=ID }:: ::Antipole::{ user=17258072 }, ::{ flag=ID }:: ::danar::{ user=11184912 }, ::{ flag=ID }:: ::eZmmR::{ user=8647138 }, ::{ flag=ID }:: ::FelixSpade::{ user=2651304 }, ::{ flag=ID }:: ::Ilham::{ user=3057154 }, ::{ flag=ID }:: ::Onta_Bekasi::{ user=8677684 }, ::{ flag=ID }:: ::Reihynn::{ user=16630515 }, ::{ flag=ID }:: ::Revv-::{ user=12424909 }, ::{ flag=ID }:: ::Reyi::{ user=13385865 }, ::{ flag=ID }:: ::Sarahkuai::{ user=5246861 }, ::{ flag=ID }:: ::Syrion-::{ user=15380643 }, ::{ flag=ID }:: ::Who_is_Marpang::{ user=24787752 } |
+| Playtester | ::{ flag=ID }:: ::-Yubi-::{ user=17851478 }, ::{ flag=ID }:: ::[ID]Xenotia-::{ user=13865224 }, ::{ flag=ID }:: ::Fyl::{ user=10069307 }, ::{ flag=ID }:: ::Gxbran::{ user=8243526 }, ::{ flag=ID }:: ::Kada-::{ user=16176978 }, ::{ flag=ID }:: ::Onta_Bekasi::{ user=8677684 }, ::{ flag=ID }:: ::Rakanovan::{ user=10478980 }, ::{ flag=ID }:: ::Revv-::{ user=12424909 }, ::{ flag=ID }:: ::Yangga::{ user=12143152 } |
 | Streamer | ::{ flag=ID }:: ::-Yubi-::{ user=17851478 }, ::{ flag=ID }:: ::danar::{ user=11184912 }, ::{ flag=ID }:: ::FelixSpade::{ user=2651304 }, ::{ flag=ID }:: ::Fyl::{ user=10069307 }, ::{ flag=ID }:: ::Hookseye::{ user=19030920 }, ::{ flag=ID }:: ::Reyi::{ user=13385865 }, ::{ flag=ID }:: ::Virtue-::{ user=6144772 } |
-| Referee | ::{ flag=ID }:: ::\1 Friz \1::{ user=9382787 }, ::{ flag=ID }:: ::\1 Raiid \1::{ user=20037405 }, ::{ flag=ID }:: ::Aikiyo Fuuka::{ user=5179764 }, ::{ flag=ID }:: ::Angki::{ user=9038483 }, ::{ flag=ID }:: ::Elin-::{ user=5198950 }, ::{ flag=ID }:: ::exvius::{ user=15822192 }, ::{ flag=ID }:: ::FerryAnanda::{ user=20788796 }, ::{ flag=ID }:: ::Fyl::{ user=10069307 }, ::{ flag=ID }:: ::Gxbran::{ user=8243526 }, ::{ flag=ID }:: ::Ilham::{ user=3057154 }, ::{ flag=ID }:: ::Kurami\1San::{ user=8867495 }, ::{ flag=ID }:: ::My Angel Satori::{ user=15522414 }, ::{ flag=ID }:: ::Reihynn::{ user=16630515 }, ::{ flag=ID }:: ::Revv-::{ user=12424909 }, ::{ flag=ID }:: ::Syadow-::{ user=3484485 }, ::{ flag=ID }:: ::Yangga::{ user=12143152 } |
-| Commentator | ::{ flag=ID }:: ::-Yubi-::{ user=17851478 }, ::{ flag=ID }:: ::\1ID\1Xenotia-::{ user=13865224 }, ::{ flag=ID }:: ::2ndlegend::{ user=7621604 }, ::{ flag=ID }:: ::Aikiyo Fuuka::{ user=5179764 }, ::{ flag=ID }:: ::Antipole::{ user=17258072 }, ::{ flag=ID }:: ::danar::{ user=11184912 }, ::{ flag=ID }:: ::Elin-::{ user=5198950 }, ::{ flag=ID }:: ::FelixSpade::{ user=2651304 }, ::{ flag=ID }:: ::Fyl::{ user=10069307 }, ::{ flag=ID }:: ::Gxbran::{ user=8243526 }, ::{ flag=ID }:: ::Kada-::{ user=16176978 }, ::{ flag=ID }:: ::Kurami\1San::{ user=8867495 }, ::{ flag=ID }:: ::Rakanovan::{ user=10478980 }, ::{ flag=ID }:: ::Revv-::{ user=12424909 }, ::{ flag=ID }:: ::Reyi::{ user=13385865 }, ::{ flag=ID }:: ::Yangga::{ user=12143152 } |
+| Referee | ::{ flag=ID }:: ::[ Friz ]::{ user=9382787 }, ::{ flag=ID }:: ::[ Raiid ]::{ user=20037405 }, ::{ flag=ID }:: ::Aikiyo Fuuka::{ user=5179764 }, ::{ flag=ID }:: ::Angki::{ user=9038483 }, ::{ flag=ID }:: ::Elin-::{ user=5198950 }, ::{ flag=ID }:: ::exvius::{ user=15822192 }, ::{ flag=ID }:: ::FerryAnanda::{ user=20788796 }, ::{ flag=ID }:: ::Fyl::{ user=10069307 }, ::{ flag=ID }:: ::Gxbran::{ user=8243526 }, ::{ flag=ID }:: ::Ilham::{ user=3057154 }, ::{ flag=ID }:: ::Kurami_San::{ user=8867495 }, ::{ flag=ID }:: ::My Angel Satori::{ user=15522414 }, ::{ flag=ID }:: ::Reihynn::{ user=16630515 }, ::{ flag=ID }:: ::Revv-::{ user=12424909 }, ::{ flag=ID }:: ::Syadow-::{ user=3484485 }, ::{ flag=ID }:: ::Yangga::{ user=12143152 } |
+| Commentator | ::{ flag=ID }:: ::-Yubi-::{ user=17851478 }, ::{ flag=ID }:: ::[ID]Xenotia-::{ user=13865224 }, ::{ flag=ID }:: ::2ndlegend::{ user=7621604 }, ::{ flag=ID }:: ::Aikiyo Fuuka::{ user=5179764 }, ::{ flag=ID }:: ::Antipole::{ user=17258072 }, ::{ flag=ID }:: ::danar::{ user=11184912 }, ::{ flag=ID }:: ::Elin-::{ user=5198950 }, ::{ flag=ID }:: ::FelixSpade::{ user=2651304 }, ::{ flag=ID }:: ::Fyl::{ user=10069307 }, ::{ flag=ID }:: ::Gxbran::{ user=8243526 }, ::{ flag=ID }:: ::Kada-::{ user=16176978 }, ::{ flag=ID }:: ::Kurami_San::{ user=8867495 }, ::{ flag=ID }:: ::Rakanovan::{ user=10478980 }, ::{ flag=ID }:: ::Revv-::{ user=12424909 }, ::{ flag=ID }:: ::Reyi::{ user=13385865 }, ::{ flag=ID }:: ::Yangga::{ user=12143152 } |
 | Designer | ::{ flag=ID }:: ::Aikiyo Fuuka::{ user=5179764 }, ::{ flag=ID }:: ::AuristelaVlyn::{ user=26772932 }, ::{ flag=ID }:: chaji[^commission] ([Instagram](https://www.instagram.com/chaji_8736/)), ::{ flag=ID }:: EnZore[^commission] ([Facebook](https://www.facebook.com/enjor.s/)), ::{ flag=ID }:: ::eZmmR::{ user=8647138 }, ::{ flag=ID }:: ::Kada-::{ user=16176978 }, ::{ flag=ID }:: ::nayuu::{ user=12561379 }, ::{ flag=ID }:: ::Nqinn::{ user=11312272 }, ::{ flag=ID }:: ::Raakcon::{ user=15178052 }, ::{ flag=ID }:: ::Reihynn::{ user=16630515 }, ::{ flag=ID }:: ::Revv-::{ user=12424909 }, ::{ flag=ID }:: ::Reyi::{ user=13385865 }, ::{ flag=ID }:: ::vexule-::{ user=18215071 } |
 | Programmer | ::{ flag=ID }:: ::Antipole::{ user=17258072 }, ::{ flag=ID }:: ::danar::{ user=11184912 }, ::{ flag=ID }:: ::FelixSpade::{ user=2651304 } |
 | Composer | ::{ flag=ID }:: Altair Aquila[^commission] ([YouTube](https://www.youtube.com/@AltairAquila)), ::{ flag=ID }:: Mariela Riona[^commission] ([YouTube](https://www.youtube.com/@MarielaRionaCh)), ::{ flag=ID }:: morethanahalf[^commission] ([SoundCloud](https://soundcloud.com/morethanahalf)), ::{ flag=ID }:: ::Reyi::{ user=13385865 }, ::{ flag=ID }:: sarochi ([Spotify](https://open.spotify.com/artist/4zCVrst2LBGjrrlBKQhNoc)), ::{ flag=ID }:: typeMARS[^commission] ([SoundCloud](https://soundcloud.com/typemars)) |
@@ -72,32 +72,32 @@ Gulano Cup #5 was run by various community members from Indonesia.
 | Rank | Player |
 | --: | :-- |
 | #33 | ::{ flag=ID }:: ::RaffCo::{ user=7589503 } |
-| #109 | ::{ flag=ID }:: ::\1yea::{ user=20834055 } |
+| #109 | ::{ flag=ID }:: ::_yea::{ user=20834055 } |
 | #158 | ::{ flag=ID }:: ::AzusaNakano2::{ user=9821346 } |
-| #197 | ::{ flag=ID }:: ::\1 -Asriel- \1::{ user=11829623 } |
+| #197 | ::{ flag=ID }:: ::[ -Asriel- ]::{ user=11829623 } |
 | #234 | ::{ flag=ID }:: ::Endorfinn-::{ user=14588134 } |
 | #542 | ::{ flag=ID }:: ::lisachandra::{ user=26634482 } |
-| #749 | ::{ flag=ID }:: ::\1LS\1 akarii::{ user=20040064 } |
+| #749 | ::{ flag=ID }:: ::[LS] akarii::{ user=20040064 } |
 | #981 | ::{ flag=ID }:: ::yeedinobro::{ user=33683529 } |
 | #1105 | ::{ flag=ID }:: ::ARDHANA::{ user=29169697 } |
 | #1124 | ::{ flag=ID }:: ::\_Reggie\_::{ user=22933961 } |
 | #1143 | ::{ flag=ID }:: ::DAENGXicisae-::{ user=8029883 } |
 | #1304 | ::{ flag=ID }:: ::MightyTech::{ user=34454156 } |
 | #1746 | ::{ flag=ID }:: ::askL330::{ user=30640092 } |
-| #2093 | ::{ flag=ID }:: ::\1LS\1Robi::{ user=21900872 } |
+| #2093 | ::{ flag=ID }:: ::[LS]Robi::{ user=21900872 } |
 | #2154 | ::{ flag=ID }:: ::Violet-::{ user=13274715 } |
 | #2173 | ::{ flag=ID }:: ::Az-u::{ user=15801261 } |
 | #2218 | ::{ flag=ID }:: ::danar mw::{ user=13859109 } |
 | #2235 | ::{ flag=ID }:: ::Prinow6::{ user=18658630 } |
 | #2384 | ::{ flag=ID }:: ::beethiven::{ user=18560270 } |
-| #3143 | ::{ flag=ID }:: ::\1Shiroko\1::{ user=21129437 } |
+| #3143 | ::{ flag=ID }:: ::[Shiroko]::{ user=21129437 } |
 | #3193 | ::{ flag=ID }:: ::uThot::{ user=13716503 } |
-| #3372 | ::{ flag=ID }:: ::\1ID\1Catalyst-::{ user=8810018 } |
-| #3428 | ::{ flag=ID }:: ::D\1ana::{ user=16240550 } |
-| #3457 | ::{ flag=ID }:: ::Tsurumaki\1::{ user=18790026 } |
+| #3372 | ::{ flag=ID }:: ::[ID]Catalyst-::{ user=8810018 } |
+| #3428 | ::{ flag=ID }:: ::D_ana::{ user=16240550 } |
+| #3457 | ::{ flag=ID }:: ::Tsurumaki_::{ user=18790026 } |
 | #3477 | ::{ flag=ID }:: ::IzKun-::{ user=9104881 } |
 | #3543 | ::{ flag=ID }:: ::Proxae::{ user=8410575 } |
-| #3547 | ::{ flag=ID }:: ::spectator\1boi::{ user=17400577 } |
+| #3547 | ::{ flag=ID }:: ::spectator_boi::{ user=17400577 } |
 | #3619 | ::{ flag=ID }:: ::KinoJourney::{ user=15798093 } |
 | #3660 | ::{ flag=ID }:: ::SnakesYxle::{ user=22842079 } |
 | #3731 | ::{ flag=ID }:: ::KyoukaRy::{ user=13403380 } |
@@ -118,24 +118,24 @@ Gulano Cup #5 was run by various community members from Indonesia.
 | #5851 | ::{ flag=ID }:: ::tentrempm::{ user=8346342 } |
 | #6177 | ::{ flag=ID }:: ::Catzu::{ user=11330898 } |
 | #6680 | ::{ flag=ID }:: ::Darrel27::{ user=25806849 } |
-| #7103 | ::{ flag=ID }:: ::\1-Vanart-\1::{ user=34756991 } |
+| #7103 | ::{ flag=ID }:: ::[-Vanart-]::{ user=34756991 } |
 | #7882 | ::{ flag=ID }:: ::3 7::{ user=14077201 } |
 | #8074 | ::{ flag=ID }:: ::Marcille-::{ user=12423717 } |
 | #9017 | ::{ flag=ID }:: ::skadidragen::{ user=32350370 } |
 | #9815 | ::{ flag=ID }:: ::Aimaina::{ user=13217193 } |
 | #9994 | ::{ flag=ID }:: ::Lyz-::{ user=9670957 } |
 | #10383 | ::{ flag=ID }:: ::Remuu::{ user=18777094 } |
-| #10396 | ::{ flag=ID }:: ::\1-Elaina-\1::{ user=12532297 } |
+| #10396 | ::{ flag=ID }:: ::[-Elaina-]::{ user=12532297 } |
 | #10632 | ::{ flag=ID }:: ::-Aji::{ user=10058745 } |
 | #10699 | ::{ flag=ID }:: ::Napeace::{ user=30833471 } |
 | #11245 | ::{ flag=ID }:: ::KafuuChlno::{ user=31102647 } |
 | #11869 | ::{ flag=ID }:: ::shidqidragon::{ user=27379902 } |
-| #12106 | ::{ flag=ID }:: ::\1 Zenith \1::{ user=8405046 } |
-| #12477 | ::{ flag=ID }:: ::ZhasK\1667::{ user=19541103 } |
+| #12106 | ::{ flag=ID }:: ::[ Zenith ]::{ user=8405046 } |
+| #12477 | ::{ flag=ID }:: ::ZhasK_667::{ user=19541103 } |
 | #13444 | ::{ flag=ID }:: ::lyoneljose::{ user=23212300 } |
 | #13469 | ::{ flag=ID }:: ::ocaibo::{ user=30615609 } |
 | #13678 | ::{ flag=ID }:: ::Raeaw::{ user=27835772 } |
-| #14287 | ::{ flag=ID }:: ::\1 Heez \1::{ user=17957861 } |
+| #14287 | ::{ flag=ID }:: ::[ Heez ]::{ user=17957861 } |
 | #14449 | ::{ flag=ID }:: ::bloxymon::{ user=21325882 } |
 | #14674 | ::{ flag=ID }:: ::LuxSenaa::{ user=6807769 } |
 | #15492 | ::{ flag=ID }:: ::OOOOAAAAEEEEEE::{ user=11190601 } |
@@ -169,9 +169,9 @@ This competition has come to an end and resulted in the following podium:
 | Placing | Player |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "Juara pertama") | ::{ flag=ID }:: ::lisachandra::{ user=26634482 } |
-| ![Silver crown](/wiki/shared/crown-silver.png "Juara kedua") | ::{ flag=ID }:: ::\1LS\1Robi::{ user=21900872 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "Juara kedua") | ::{ flag=ID }:: ::[LS]Robi::{ user=21900872 } |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "Juara ketiga") | ::{ flag=ID }:: ::MightyTech::{ user=34454156 } |
-| Non-podium finalists | ::{ flag=ID }:: ::\1LS\1 akarii::{ user=20040064 }, ::{ flag=ID }:: ::DAENGXicisae-::{ user=8029883 }, ::{ flag=ID }:: ::SnakesYxle::{ user=22842079 } |
+| Non-podium finalists | ::{ flag=ID }:: ::[LS] akarii::{ user=20040064 }, ::{ flag=ID }:: ::DAENGXicisae-::{ user=8029883 }, ::{ flag=ID }:: ::SnakesYxle::{ user=22842079 } |
 
 ## Mappools
 
@@ -369,7 +369,7 @@ This competition has come to an end and resulted in the following podium:
 
 - GM1 | **[Download the mappack here! (732 MB)](https://drive.google.com/file/d/1qIb5uJF9fpckyFF4HwBcOccBSvnfJJ1c/view?usp=sharing)**
   1. [rei sirose - Lost Umbrella (Cut Ver.) (Monheim) [STEPDWI's Deluge]](https://osu.ppy.sh/beatmapsets/1751372#mania/3583021) submitted by ::ocaibo::{ user=30615609 }
-  2. [callasoiled - ARTIFICALIMAGE (Cut Ver.) (Paturages) [WHAT IS NOT REAL CANNOT HURT YOU]](https://osu.ppy.sh/beatmapsets/2137954#mania/4499441) submitted by ::\1 Zenith \1::{ user=8405046 }
+  2. [callasoiled - ARTIFICALIMAGE (Cut Ver.) (Paturages) [WHAT IS NOT REAL CANNOT HURT YOU]](https://osu.ppy.sh/beatmapsets/2137954#mania/4499441) submitted by ::[ Zenith ]::{ user=8405046 }
   3. [GTA feat. Sam Bruno - Red Lips (Mendus Remix) (Hydria) [Hard (SV)]](https://osu.ppy.sh/beatmapsets/728227#mania/1537498) submitted by ::Raeaw::{ user=27835772 }
   4. [Gram & Camellia - Ragnarok -cut- (signupredir111) [Universe Collapse (Zero)]](https://osu.ppy.sh/beatmapsets/1037475#mania/2825299) submitted by ::MightyTech::{ user=34454156 }
   5. [ShinRa-Bansho - signal flare (Starpage) [lonely noodles [1,3x Rate]]](https://osu.ppy.sh/beatmapsets/1707174#mania/3489580) submitted by ::skadidragen::{ user=32350370 }
@@ -382,27 +382,27 @@ This competition has come to an end and resulted in the following podium:
   12. [Mikito-P - Shoujorei (Aimaina) [Ghost]](https://osu.ppy.sh/beatmapsets/1840381#mania/3779996) submitted by ::Aimaina::{ user=13217193 }
   13. [COOL&CREATE - Lunatic Eyes ~ Invisible Full Moon (Cut Ver.) (TheFunk) [Blood Moon 1.35x (270bpm)]](https://osu.ppy.sh/beatmapsets/1888601#mania/3889548) submitted by ::NizT::{ user=23115247 }
   14. [Random dude on tiktok - Alight Motion Edit ([ReyZ]) [Jedag Jedug [1.3x Rate]]](https://osu.ppy.sh/beatmapsets/1808153#mania/3708296) submitted by ::KinoJourney::{ user=15798093 }
-  15. [Camellia - KillerBeast (IceDynamix) [hunter (sv)]](https://osu.ppy.sh/beatmapsets/1032781#mania/2160748) submitted by ::Tsurumaki\1::{ user=18790026 }
+  15. [Camellia - KillerBeast (IceDynamix) [hunter (sv)]](https://osu.ppy.sh/beatmapsets/1032781#mania/2160748) submitted by ::Tsurumaki_::{ user=18790026 }
   16. [Chroma - I (Promachos) [UNEXPECTED LOVE]](https://osu.ppy.sh/beatmapsets/2230738#mania/4734213) submitted by ::Az-u::{ user=15801261 }
-  17. [DJ Mars - Lemon Tree (Lemon Dance) (Lemmie) [Challenge]](https://osu.ppy.sh/beatmapsets/1296605#mania/2690149) submitted by ::\1LS\1 akarii::{ user=20040064 }
+  17. [DJ Mars - Lemon Tree (Lemon Dance) (Lemmie) [Challenge]](https://osu.ppy.sh/beatmapsets/1296605#mania/2690149) submitted by ::[LS] akarii::{ user=20040064 }
   18. [Camellia - WYSI (When You See It) (Murumoo) [OverCharge]](https://osu.ppy.sh/beatmapsets/1516403#mania/3104321) submitted by ::MrFlinxy::{ user=4681744 }
   19. [Sujak + Jakads (feat. arpia97) - Vibro on Jakads's belly fat (Slick6969) [electric tickle]](https://osu.ppy.sh/beatmapsets/1540011#mania/3148213) submitted by ::askL330::{ user=30640092 }
   20. [Camellia - overcomplexification ("Quaternion" Long ver.) (0DZ0) [convolution (cut) [0.95x Rate]]](https://osu.ppy.sh/beatmapsets/2058875#mania/4303205) submitted by ::SnakesYxle::{ user=22842079 }
-  21. [Jack Stauber - Dinner Is Not Over (NotiiJohn0) [Bon Appetit]](https://osu.ppy.sh/beatmapsets/1991686#mania/4138217) submitted by ::\1yea::{ user=20834055 }
+  21. [Jack Stauber - Dinner Is Not Over (NotiiJohn0) [Bon Appetit]](https://osu.ppy.sh/beatmapsets/1991686#mania/4138217) submitted by ::_yea::{ user=20834055 }
   22. [katagiri - Angel's Salad (lovely_hyahya) [Duck 00: Tenshi Duck]](https://osu.ppy.sh/beatmapsets/2218467#mania/4702352) submitted by ::My Angel Chen::{ user=24285111 }
   23. [Haraguchi Sasuke - Hito mania (ICECAKE) [SV mania]](https://osu.ppy.sh/beatmapsets/2099820#mania/4404921) submitted by ::shidqidragon::{ user=27379902 }
   24. [Ariabl'eyeS - Raison d'etre (Pyra-san) [The Essence of Existence]](https://osu.ppy.sh/beatmapsets/2259433#mania/4808336) submitted by ::Neptunia-chan::{ user=11608122 }
-  25. [Various Artists - Dan ~ REFORM ~ Finalmaps ([GB]Thaumiel) [Laur - Exitium ~ Eta Tech ~]](https://osu.ppy.sh/beatmapsets/1188968#mania/4490038) submitted by ::\1LS\1Robi::{ user=21900872 }
+  25. [Various Artists - Dan ~ REFORM ~ Finalmaps ([GB]Thaumiel) [Laur - Exitium ~ Eta Tech ~]](https://osu.ppy.sh/beatmapsets/1188968#mania/4490038) submitted by ::[LS]Robi::{ user=21900872 }
   26. [Akaza Akari(CV:Mikami Shiori) - Watashi, Shuyaku no Akaza Akari desu (MuridJhlee0133) [4K VIBROAKARIN]](https://osu.ppy.sh/beatmapsets/633410#mania/1344355) submitted by ::AzusaNakano2::{ user=9821346 }
   27. [Yu-dachi - Shukufuku no Shikisai wa Omoi Musubu Kimitachi made (ML-ysg) [MAXIMUM]](https://osu.ppy.sh/beatmapsets/2045075#mania/4268617) submitted by ::lyoneljose::{ user=23212300 }
   28. [Utatane Yasumi (CV: Itou Miku) & Yuugure Yuuhi (CV: Toyota Moe) - STAND BY YOU (TV Size) (Drum-Hitnormal) [CS' BE WITH YOU]](https://osu.ppy.sh/beatmapsets/2172974#mania/4655981) submitted by ::Napeace::{ user=30833471 }
-  29. [KOAN Sound - Traverse ([Crz]hinako1804) [oan]](https://osu.ppy.sh/beatmapsets/1878315#mania/3866380) submitted by ::D\1ana::{ user=16240550 }
+  29. [KOAN Sound - Traverse ([Crz]hinako1804) [oan]](https://osu.ppy.sh/beatmapsets/1878315#mania/3866380) submitted by ::D_ana::{ user=16240550 }
   30. [EmoCosine - This Club is Not 4 U (short ver.) (RuleBlazing) [Stage 1: Gatekeep]](https://osu.ppy.sh/beatmapsets/1817977#mania/3729870) submitted by ::EterEnvy::{ user=13762505 }
-  31. [Hana - Sakura no Uta (Yururu) [Ruruchan!!]](https://osu.ppy.sh/beatmapsets/632912#mania/1343374) submitted by ::\1 -Asriel- \1::{ user=11829623 }
+  31. [Hana - Sakura no Uta (Yururu) [Ruruchan!!]](https://osu.ppy.sh/beatmapsets/632912#mania/1343374) submitted by ::[ -Asriel- ]::{ user=11829623 }
   32. [Giga-P - BRING IT ON (Axy) [BRING THE LNS ON]](https://osu.ppy.sh/beatmapsets/1320732#mania/2736010) submitted by ::-Aji::{ user=10058745 }
   33. [CHiCO with HoneyWorks - Minikui ikimono (RushiPettan) [Otherworld Lily]](https://osu.ppy.sh/beatmapsets/1855174#mania/3812318) submitted by ::IzKun-::{ user=9104881 }
-  34. [Giga-P - BRING IT ON (Axy) [BRING THE LNS ON]](https://osu.ppy.sh/beatmapsets/1320732#mania/2736010) submitted by ::ZhasK\1667::{ user=19541103 }
-  35. [LeaF - ATHAZA (BossMadWolf) [ASVZA]](https://osu.ppy.sh/beatmapsets/1279294#mania/2657548) submitted by ::\1-Elaina-\1::{ user=12532297 }
+  34. [Giga-P - BRING IT ON (Axy) [BRING THE LNS ON]](https://osu.ppy.sh/beatmapsets/1320732#mania/2736010) submitted by ::ZhasK_667::{ user=19541103 }
+  35. [LeaF - ATHAZA (BossMadWolf) [ASVZA]](https://osu.ppy.sh/beatmapsets/1279294#mania/2657548) submitted by ::[-Elaina-]::{ user=12532297 }
   36. [Various Artists - Anto's High BPM Dense Chordjack Pack 16 (Anto_) [(Anto_) Sugar Loli 0.85x]](https://osu.ppy.sh/beatmapsets/2231457#mania/4736168) submitted by ::\_Reggie\_::{ user=22933961 }
   37. [Lil Boom - Already Dead (tentrempm) [Deadman]](https://osu.ppy.sh/beatmapsets/1086967#mania/2272979) submitted by ::tentrempm::{ user=8346342 }
   38. [sakuraburst - serotonin (Catzu) [sleep, my child]](https://osu.ppy.sh/beatmapsets/2218448#mania/4702316) submitted by ::Catzu::{ user=11330898 }
@@ -411,7 +411,7 @@ This competition has come to an end and resulted in the following podium:
   41. [Mr Rock - wii theme but its the worst thing you will ever hear (DarckoSeth) [error.exe]](https://osu.ppy.sh/beatmapsets/908007#mania/1894828) submitted by ::Molten Cheese::{ user=16824892 }
   42. [sabi - true DJ MAG top ranker's song Zenpen (katagiri Remix) (Ciel) [fn(top=true,sv=false)]](https://osu.ppy.sh/beatmapsets/1569250#mania/3204544) submitted by ::dogethedoge25::{ user=15597315 }
   43. [DJ SHARPNEL - Kaze no Naka no Subaru ~Hyougenshatachi~ (Jole) [subarushii]](https://osu.ppy.sh/beatmapsets/1628745#mania/3325116) submitted by ::TheLegend3RD::{ user=14732769 }
-  44. [Sharks & Chime - Water Elemental (Guilhermeziat) [Stage 3: Stormbound]](https://osu.ppy.sh/beatmapsets/1917756#mania/3957466) submitted by ::spectator\1boi::{ user=17400577 }
+  44. [Sharks & Chime - Water Elemental (Guilhermeziat) [Stage 3: Stormbound]](https://osu.ppy.sh/beatmapsets/1917756#mania/3957466) submitted by ::spectator_boi::{ user=17400577 }
   45. [Risshuu feat. Choko - Take (LNP-) [Beyond]](https://osu.ppy.sh/beatmapsets/1377628#mania/2847100) submitted by ::KafuuChlno::{ user=31102647 }
   46. [korea - oronaminC (Staravia) [korean vibro]](https://osu.ppy.sh/beatmapsets/543648#mania/1152244) submitted by ::RaffCo::{ user=7589503 }
   47. [Angelic Burster - Star Bubble (Magikarp1234) [AngeliChan!!]](https://osu.ppy.sh/beatmapsets/1271321#mania/2641914) submitted by ::Kyoukary::{ user=13403380 }
@@ -420,12 +420,12 @@ This competition has come to an end and resulted in the following podium:
   50. [The Quick Brown Fox - ~ GAMAMA DAN ~ Break (Handhurt Remix) (Cortexiphan) [BREAKBREAKBREAKBREAK]](https://osu.ppy.sh/beatmapsets/2101452#mania/4409616) submitted by ::ImOyZo::{ user=14875989 }
   51. [crafter2011 - keep out! (MeWhenYourMom) [Myst's OUT!!!]](https://osu.ppy.sh/beatmapsets/2068972#mania/4328936) submitted by ::FinHazel::{ user=13660273 }
   52. [Harumaki Gohan feat. isui - Suisei ni Nareta nara (Castella) [Starfall]](https://osu.ppy.sh/beatmapsets/2124253#mania/4464482) submitted by ::MzLord::{ user=14659672 }
-  53. [MoonDeity - NEON BLADE (IsonafShikolake) [level 10 [1.1x Rate]]](https://osu.ppy.sh/beatmapsets/1789311#mania/3666507) submitted by ::\1 Heez \1::{ user=17957861 }
+  53. [MoonDeity - NEON BLADE (IsonafShikolake) [level 10 [1.1x Rate]]](https://osu.ppy.sh/beatmapsets/1789311#mania/3666507) submitted by ::[ Heez ]::{ user=17957861 }
   54. [Marmalade butcher - Floccinaucinihilipilification (Cokiiplay) [Grundstucksverkehrsgenehmigungszustandigkeitsubertragungsverordnung]](https://osu.ppy.sh/beatmapsets/1020778#mania/2135894) submitted by ::Proxae::{ user=8410575 }
-  55. [Don't Hug Me I'm Scared - The Creativity Song (AscensionDTWhen) [C'mon, guys. Let's get creative!]](https://osu.ppy.sh/beatmapsets/848746#mania/1774897) submitted by ::\1Shiroko\1::{ user=21129437 }
+  55. [Don't Hug Me I'm Scared - The Creativity Song (AscensionDTWhen) [C'mon, guys. Let's get creative!]](https://osu.ppy.sh/beatmapsets/848746#mania/1774897) submitted by ::[Shiroko]::{ user=21129437 }
   56. [AiRI - DREAMxSCRAMBLE! (Lyz-) [Splash!]](https://osu.ppy.sh/beatmapsets/1038568#mania/2171003) submitted by ::Lyz-::{ user=9670957 }
   57. [Kocchi no Kento - Hai Yorokonde (Magens Remix) feat. Hatsune Miku (9SuRodn) [Aut0's Another]](https://osu.ppy.sh/beatmapsets/2249870#mania/4824862) submitted by ::DAENGXicisae-::{ user=8029883 }
-  58. [Various Artists - Zia's 4K ChordJack Training Pack (Zia) [DJ TOTTO - Crystalia]](https://osu.ppy.sh/beatmapsets/1625765#mania/3319255) submitted by ::\1-Vanart-\1::{ user=34756991 }
+  58. [Various Artists - Zia's 4K ChordJack Training Pack (Zia) [DJ TOTTO - Crystalia]](https://osu.ppy.sh/beatmapsets/1625765#mania/3319255) submitted by ::[-Vanart-]::{ user=34756991 }
   59. [Various Artists - arpia97's Vibro Anthology (arpia97) [Electric Butterfly (ATTang)]](https://osu.ppy.sh/beatmapsets/724338#mania/3261950) submitted by ::Darrel27::{ user=25806849 }
   60. [Siti Badriah - Mama Minta Pulsa (Speed Up Ver.) (Draftnell) [Greget]](https://osu.ppy.sh/beatmapsets/532917#mania/1129049) submitted by ::Marcille-::{ user=12423717 }
   61. [Suicidal Angels - Torment Payback (edited ver.) ([GB]Thaumiel) [Massacre (2020)]](https://osu.ppy.sh/beatmapsets/2134166#mania/4491143) submitted by ::Violet-::{ user=13274715 }
@@ -434,7 +434,7 @@ This competition has come to an end and resulted in the following podium:
   64. [Ari Lasso - Penjaga Hati (DJ Asia Remix) (mxiucism) [kubayangkan]](https://osu.ppy.sh/beatmapsets/1771279#mania/3626095) submitted by ::syamisu-::{ user=23484954 }
 - GM2 | **[Download the mappack here! (643 MB)](https://drive.google.com/file/d/1vDZ87CPcKZhpxwz88pxCT6OChmbPDH5q/view?usp=sharing)**
   1. [-45 - Reikou Hatsuden (Monheim) [Rapture]](https://osu.ppy.sh/beatmapsets/1502322#mania/3082924) submitted by ::ocaibo::{ user=30615609 }
-  2. [dIJe aLoK - Linganguliguli (ocydo) [brainrot]](https://osu.ppy.sh/beatmapsets/2286351#mania/4877346) submitted by ::\1 Zenith \1::{ user=8405046 }
+  2. [dIJe aLoK - Linganguliguli (ocydo) [brainrot]](https://osu.ppy.sh/beatmapsets/2286351#mania/4877346) submitted by ::[ Zenith ]::{ user=8405046 }
   3. [Raimukun - Myths Orbis (Ppass) [Trapezium Cluster]](https://osu.ppy.sh/beatmapsets/1916843#mania/3955346) submitted by ::Raeaw::{ user=27835772 }
   4. [Taylor Swift - The Very First Night (Taylor's Version) (Pokedogga) [I wish I could fly... 1.4x]](https://osu.ppy.sh/beatmapsets/1967549#mania/4080505) submitted by ::MightyTech::{ user=34454156 }
   5. [Geoxor - Aurora (Reihynn) [Dreamy]](https://osu.ppy.sh/beatmapsets/1912928#mania/3966441) submitted by ::skadidragen::{ user=32350370 }
@@ -447,27 +447,27 @@ This competition has come to an end and resulted in the following podium:
   12. [Yuuka - Girls' Carnival (Aimaina) [<3]](https://osu.ppy.sh/beatmapsets/1796570#mania/3682701) submitted by ::Aimaina::{ user=13217193 }
   13. [siinamota - Shoujo A (Foco_) [Quick and hateful cold [1.35x Rate]]](https://osu.ppy.sh/beatmapsets/1677199#mania/4399288) submitted by ::NizT::{ user=23115247 }
   14. [Yorushika - Yuunagi, Bou, Hana Madoi (Hylotl) [Fireworks, Summer Night (LN)]](https://osu.ppy.sh/beatmapsets/1815269#mania/3723959) submitted by ::KinoJourney::{ user=15798093 }
-  15. [xKore - Stress (Halogen-) [Syncope]](https://osu.ppy.sh/beatmapsets/861705#mania/1802667) submitted by ::Tsurumaki\1::{ user=18790026 }
+  15. [xKore - Stress (Halogen-) [Syncope]](https://osu.ppy.sh/beatmapsets/861705#mania/1802667) submitted by ::Tsurumaki_::{ user=18790026 }
   16. [Nemune Muni - Time Sleep! (Tartarate Remix) (Silicosis 2) [Tragic Time-freezing Love Extra]](https://osu.ppy.sh/beatmapsets/2284994#mania/4873689) submitted by ::Az-u::{ user=15801261 }
-  17. [Icona Pop - I Love It ([KN]Yunxmi) [x1.15]](https://osu.ppy.sh/beatmapsets/1702864#mania/3479387) submitted by ::\1LS\1 akarii::{ user=20040064 }
+  17. [Icona Pop - I Love It ([KN]Yunxmi) [x1.15]](https://osu.ppy.sh/beatmapsets/1702864#mania/3479387) submitted by ::[LS] akarii::{ user=20040064 }
   18. [tofubeats - CANDYLAND feat. LIZ (Pa's Lam System Remix) (gemboyong) [CandyLand]](https://osu.ppy.sh/beatmapsets/581015#mania/1229992) submitted by ::MrFlinxy::{ user=4681744 }
   19. [Various Artists - Vibro Pack (Alvin69-) [Vibro Star]](https://osu.ppy.sh/beatmapsets/716178#mania/1513156) submitted by ::askL330::{ user=30640092 }
   20. [KANKAN - Boost Anima (fvrex) [Overdrive]](https://osu.ppy.sh/beatmapsets/2238606#mania/4756867) submitted by ::SnakesYxle::{ user=22842079 }
-  21. [aran - L.F.O (stupud man) [Phase Shift]](https://osu.ppy.sh/beatmapsets/1375934#mania/3173029) submitted by ::\1yea::{ user=20834055 }
+  21. [aran - L.F.O (stupud man) [Phase Shift]](https://osu.ppy.sh/beatmapsets/1375934#mania/3173029) submitted by ::_yea::{ user=20834055 }
   22. [Amamiya Kokoro - Kyu-kurarin (Antipole) [>w<]](https://osu.ppy.sh/beatmapsets/1935685#mania/4008773) submitted by ::My Angel Chen::{ user=24285111 }
   23. [inoqx - decode (Jhown) [p_q]](https://osu.ppy.sh/beatmapsets/2113952#mania/4438671) submitted by ::shidqidragon::{ user=27379902 }
   24. [umu. - humanly (Raveille) [timing hell?]](https://osu.ppy.sh/beatmapsets/1184226#mania/2468707) submitted by ::Neptunia-chan::{ user=11608122 }
-  25. [Various Artists - Dan ~ REFORM ~ Finalmaps ([GB]Thaumiel) [S.S.H. - Intersect Thunderbolt-Remix ~ Eta Speed ~]](https://osu.ppy.sh/beatmapsets/1188968#mania/4490042) submitted by ::\1LS\1Robi::{ user=21900872 }
+  25. [Various Artists - Dan ~ REFORM ~ Finalmaps ([GB]Thaumiel) [S.S.H. - Intersect Thunderbolt-Remix ~ Eta Speed ~]](https://osu.ppy.sh/beatmapsets/1188968#mania/4490042) submitted by ::[LS]Robi::{ user=21900872 }
   26. [You (ft.nayuta) - Dimond Smile (Skorer) [Vibro Expert]](https://osu.ppy.sh/beatmapsets/562354#mania/1188981) submitted by ::AzusaNakano2::{ user=9821346 }
   27. [The Quick Brown Fox - Big Money (Mage) [Shana's Dollar [SC]]](https://osu.ppy.sh/beatmapsets/440508#mania/1009933) submitted by ::lyoneljose::{ user=23212300 }
   28. [Nakanoke no Itsutsugo - Hatsukoi (TV Size) (Savageeeee) [I Love You]](https://osu.ppy.sh/beatmapsets/1996262#mania/4148863) submitted by ::Napeace::{ user=30833471 }
-  29. [Trerey-U + NIWASHI - Hisui (ler1211) [Jade]](https://osu.ppy.sh/beatmapsets/2173214#mania/4592599) submitted by ::D\1ana::{ user=16240550 }
+  29. [Trerey-U + NIWASHI - Hisui (ler1211) [Jade]](https://osu.ppy.sh/beatmapsets/2173214#mania/4592599) submitted by ::D_ana::{ user=16240550 }
   30. [Teminite & MDK - Space Invaders (Cut Ver.) (FelixSpade) [LN Expert // Infringer (OD6.5)]](https://osu.ppy.sh/beatmapsets/2132580#mania/4486045) submitted by ::EterEnvy::{ user=13762505 }
-  31. [TUYU - Itsuka Otona ni Nareru to Ii ne. (Emida) [MieAyam!!]](https://osu.ppy.sh/beatmapsets/1783344#mania/3652200) submitted by ::\1 -Asriel- \1::{ user=11829623 }
+  31. [TUYU - Itsuka Otona ni Nareru to Ii ne. (Emida) [MieAyam!!]](https://osu.ppy.sh/beatmapsets/1783344#mania/3652200) submitted by ::[ -Asriel- ]::{ user=11829623 }
   32. [Sayuri - Mikazuki (Napur) [EXCLUSIVER]](https://osu.ppy.sh/beatmapsets/542295#mania/1194600) submitted by ::-Aji::{ user=10058745 }
   33. [Nana Mizuki - STARTING NOW! (Niima) [Jumping!]](https://osu.ppy.sh/beatmapsets/515209#mania/1094161) submitted by ::IzKun-::{ user=9104881 }
-  34. [Kashii Moimi feat. KAFU - Cat Loving (kageminori bootleg) (Robeats) [I'm more of a dog person tbh]](https://osu.ppy.sh/beatmapsets/2200258#mania/4656541) submitted by ::ZhasK\1667::{ user=19541103 }
-  35. [Yukopi - Kyoufuu All Back (P e n g k i) [Weird]](https://osu.ppy.sh/beatmapsets/1983375#mania/4119132) submitted by ::\1-Elaina-\1::{ user=12532297 }
+  34. [Kashii Moimi feat. KAFU - Cat Loving (kageminori bootleg) (Robeats) [I'm more of a dog person tbh]](https://osu.ppy.sh/beatmapsets/2200258#mania/4656541) submitted by ::ZhasK_667::{ user=19541103 }
+  35. [Yukopi - Kyoufuu All Back (P e n g k i) [Weird]](https://osu.ppy.sh/beatmapsets/1983375#mania/4119132) submitted by ::[-Elaina-]::{ user=12532297 }
   36. [TUYU - If there was an endpoint. (a? edit) (Anto_) [ade_maine's Challenge 1.1x (154bpm)]](https://osu.ppy.sh/beatmapsets/2174965#mania/4592107) submitted by ::\_Reggie\_::{ user=22933961 }
   37. [cute girls doing cute things - Main Heroine (tentrempm) [Telolet Full Ver.]](https://osu.ppy.sh/beatmapsets/1580768#mania/3231666) submitted by ::tentrempm::{ user=8346342 }
   38. [INHUMAN - AUGMENTED (Catzu) [WAKE UP FROM YOUR DREAM // EXTRA]](https://osu.ppy.sh/beatmapsets/2172853#mania/4586908) submitted by ::Catzu::{ user=11330898 }
@@ -476,7 +476,7 @@ This competition has come to an end and resulted in the following podium:
   41. [Sabicas - Carcelera - Reflejo Andaluz (Atsumin) [de_inferno]](https://osu.ppy.sh/beatmapsets/2301291#mania/4918035) submitted by ::Molten Cheese::{ user=16824892 }
   42. [KimuraYP - Kouon Katsuzetsu-chuu Oniki Hayakuchi Test (Hydria) [For The Jumptrill / Blastix Baka]](https://osu.ppy.sh/beatmapsets/1960147#mania/4061965) submitted by ::dogethedoge25::{ user=15597315 }
   43. [DJ Sharpnel feat.Chiroru Ohyama - Can You Say KanColle? (Xingyue) [Lv.XXIII]](https://osu.ppy.sh/beatmapsets/1599881#mania/3267509) submitted by ::TheLegend3RD::{ user=14732769 }
-  44. [Silentroom - Shuu no Hazama (Shoegazer) [Rainshower]](https://osu.ppy.sh/beatmapsets/1307803#mania/2843594) submitted by ::spectator\1boi::{ user=17400577 }
+  44. [Silentroom - Shuu no Hazama (Shoegazer) [Rainshower]](https://osu.ppy.sh/beatmapsets/1307803#mania/2843594) submitted by ::spectator_boi::{ user=17400577 }
   45. [Slax - Too Much Loli (NikoSek) [x1.2]](https://osu.ppy.sh/beatmapsets/1165592#mania/2444465) submitted by ::KafuuChlno::{ user=31102647 }
   46. [gems - Gems Pack 12 - LN Master 4th (gemboyong) [31 - Koxx, A Fool Moon Night]](https://osu.ppy.sh/beatmapsets/518271#mania/1111631) submitted by ::RaffCo::{ user=7589503 }
   47. [Aiobahn feat. KOTOKO - INTERNET YAMERO (shenglinnn) [SA! I! KOU! (YES SV)]](https://osu.ppy.sh/beatmapsets/1958394#mania/4057358) submitted by ::Kyoukary::{ user=13403380 }
@@ -485,12 +485,12 @@ This competition has come to an end and resulted in the following podium:
   50. [Dion Timmer - Shiawase (VIP) (syaro-) [1.2x]](https://osu.ppy.sh/beatmapsets/2063884#mania/4316770) submitted by ::ImOyZo::{ user=14875989 }
   51. [ZxNX - huggy wuggy (senkhyu) [sv]](https://osu.ppy.sh/beatmapsets/1785865#mania/3658240) submitted by ::FinHazel::{ user=13660273 }
   52. [Laur - Laur chan taiso dai ichi (Kim_GodSSI) [Hardcore Gymnastics]](https://osu.ppy.sh/beatmapsets/1761023#mania/3604249) submitted by ::MzLord::{ user=14659672 }
-  53. [Hana - Sakura no Uta (TimBergling) [Berguling uwu]](https://osu.ppy.sh/beatmapsets/575638#mania/1218839) submitted by ::\1 Heez \1::{ user=17957861 }
+  53. [Hana - Sakura no Uta (TimBergling) [Berguling uwu]](https://osu.ppy.sh/beatmapsets/575638#mania/1218839) submitted by ::[ Heez ]::{ user=17957861 }
   54. [Mili - Between Two Worlds (Proxae) [Dunkelheit]](https://osu.ppy.sh/beatmapsets/2013745#mania/4216703) submitted by ::Proxae::{ user=8410575 }
-  55. [Mrs. GREEN APPLE - StaRt  (Speed up Ver.) (-Xooti-) [Celebration!]](https://osu.ppy.sh/beatmapsets/1713083#mania/3500381) submitted by ::\1Shiroko\1::{ user=21129437 }
+  55. [Mrs. GREEN APPLE - StaRt  (Speed up Ver.) (-Xooti-) [Celebration!]](https://osu.ppy.sh/beatmapsets/1713083#mania/3500381) submitted by ::[Shiroko]::{ user=21129437 }
   56. [a crowd of rebellion - Ill (Lyz-) [Goodbye]](https://osu.ppy.sh/beatmapsets/2285764#mania/4875879) submitted by ::Lyz-::{ user=9670957 }
   57. [Creaky Jackals - PLVCK (Flexo123) [Extra]](https://osu.ppy.sh/beatmapsets/409921#mania/889671) submitted by ::DAENGXicisae-::{ user=8029883 }
-  58. [Foreground Eclipse - Storytellers (Napur) [EXCLUSIVER]](https://osu.ppy.sh/beatmapsets/565184#mania/1194598) submitted by ::\1-Vanart-\1::{ user=34756991 }
+  58. [Foreground Eclipse - Storytellers (Napur) [EXCLUSIVER]](https://osu.ppy.sh/beatmapsets/565184#mania/1194598) submitted by ::[-Vanart-]::{ user=34756991 }
   59. [KARUT 01 - Colorful Mess (Revv-) [bang darevv]](https://osu.ppy.sh/beatmapsets/1495042#mania/3064144) submitted by ::Darrel27::{ user=25806849 }
   60. [Porter Robinson & Madeon - Shelter (Zyph) [4K DUMP]](https://osu.ppy.sh/beatmapsets/524791#mania/1113809) submitted by ::Marcille-::{ user=12423717 }
   61. [Various Artists - Dan ~ REFORM ~ Finalmaps ([GB]Thaumiel) [DJ Myosuke - Collapse of Ego ~ Eta Stamina ~]](https://osu.ppy.sh/beatmapsets/1188968#mania/4490036) submitted by ::Violet-::{ user=13274715 }
@@ -499,7 +499,7 @@ This competition has come to an end and resulted in the following podium:
   64. [nokia 6015i - hatsune miku arabic ringtone (Sephira Su) [JUNGKOOK: ding dong call me on my phone]](https://osu.ppy.sh/beatmapsets/1259170#mania/2617474) submitted by ::syamisu-::{ user=23484954 }
 - GM3 | **[Download the mappack here! (856 MB)](https://drive.google.com/file/d/113950ZcV9ZXFariECVb-w8GjqtKyrUgn/view?usp=sharing)**
   1. [Tobu & Syndec - Dusk (Radio Edit) (Maxim-Miau) [Nostalgia]](https://osu.ppy.sh/beatmapsets/1798162#mania/3686104) submitted by ::ocaibo::{ user=30615609 }
-  2. [gingus - dont say "i can sample that" for 24 hours challenge (Promachos) [dont say "i can sv map that" for 24 hours challenge]](https://osu.ppy.sh/beatmapsets/2025428#mania/4219688) submitted by ::\1 Zenith \1::{ user=8405046 }
+  2. [gingus - dont say "i can sample that" for 24 hours challenge (Promachos) [dont say "i can sv map that" for 24 hours challenge]](https://osu.ppy.sh/beatmapsets/2025428#mania/4219688) submitted by ::[ Zenith ]::{ user=8405046 }
   3. [brains - Housoushitsu (AnatharaX) [FM / Insane]](https://osu.ppy.sh/beatmapsets/2011243#mania/4185086) submitted by ::Raeaw::{ user=27835772 }
   4. [Olivia Rodrigo - Bad Idea right (Lilrag7) [x1.25]](https://osu.ppy.sh/beatmapsets/2191420#mania/4635382) submitted by ::MightyTech::{ user=34454156 }
   5. [Tacitly - Wake Me Up (Zia) [Wake Up x1.1]](https://osu.ppy.sh/beatmapsets/1567616#mania/3200806) submitted by ::skadidragen::{ user=32350370 }
@@ -512,27 +512,27 @@ This competition has come to an end and resulted in the following podium:
   12. [Syalis Hime (CV: Minase Inori) - Kaimin! Anmin! Syalist Seikatsu (TV Size) (Aimaina) [Bobo]](https://osu.ppy.sh/beatmapsets/1791606#mania/3671504) submitted by ::Aimaina::{ user=13217193 }
   13. [toby fox - Quiet Water (Maxim-Miau) [Easy]](https://osu.ppy.sh/beatmapsets/1596272#mania/3485740) submitted by ::NizT::{ user=23115247 }
   14. [Hana - Sakura no Uta (Sped Up Ver.) ([HD]Softer64) [The eternal phase, the ending of the poem of Sakura...]](https://osu.ppy.sh/beatmapsets/2122755#mania/4460603) submitted by ::KinoJourney::{ user=15798093 }
-  15. [Sara - Ren Ren Ai Ai Cir Cir Cula Cula Tion Tion (Garalulu) [Koi Koi]](https://osu.ppy.sh/beatmapsets/683691#mania/1446011) submitted by ::Tsurumaki\1::{ user=18790026 }
+  15. [Sara - Ren Ren Ai Ai Cir Cir Cula Cula Tion Tion (Garalulu) [Koi Koi]](https://osu.ppy.sh/beatmapsets/683691#mania/1446011) submitted by ::Tsurumaki_::{ user=18790026 }
   16. [7_7 feat. kasane vavzed - Yakou (TheFunk) [Deliverance]](https://osu.ppy.sh/beatmapsets/2222887#mania/4713590) submitted by ::Az-u::{ user=15801261 }
-  17. [Tsukino - Darling Dance ([Crz]Rachel) [Delusion]](https://osu.ppy.sh/beatmapsets/1451854#mania/2985342) submitted by ::\1LS\1 akarii::{ user=20040064 }
+  17. [Tsukino - Darling Dance ([Crz]Rachel) [Delusion]](https://osu.ppy.sh/beatmapsets/1451854#mania/2985342) submitted by ::[LS] akarii::{ user=20040064 }
   18. [Shiraishi - Odin (Fullerene-) [VIKINGFJORD]](https://osu.ppy.sh/beatmapsets/352759#mania/777356) submitted by ::MrFlinxy::{ user=4681744 }
   19. [Various Artists - 4k Vibro pack (Staravia) [Machine Gun]](https://osu.ppy.sh/beatmapsets/516441#mania/1108163) submitted by ::askL330::{ user=30640092 }
   20. [Uinyasu, Occhoko Bunny - Aa Kenran no Yume ga Gotoku (Epsilon Remix) ([GB]V1do) [Blossom]](https://osu.ppy.sh/beatmapsets/2218443#mania/4702309) submitted by ::SnakesYxle::{ user=22842079 }
-  21. [DJ SHARPNEL - KLASSIKER EINHEIT (Cut Ver.) (YuEast 2018) [Yasashii / 1.00]](https://osu.ppy.sh/beatmapsets/2242540#mania/4766574) submitted by ::\1yea::{ user=20834055 }
+  21. [DJ SHARPNEL - KLASSIKER EINHEIT (Cut Ver.) (YuEast 2018) [Yasashii / 1.00]](https://osu.ppy.sh/beatmapsets/2242540#mania/4766574) submitted by ::_yea::{ user=20834055 }
   22. [Helblinde - Grief & Malice (FelixSpade) [LN Prodigy (cut) 1.05x (210bpm)]](https://osu.ppy.sh/beatmapsets/1853497#mania/3808592) submitted by ::My Angel Chen::{ user=24285111 }
   23. [Sia - Unstoppable (Envy Frenchcore Remix) (HikariNayo) [1.05x]](https://osu.ppy.sh/beatmapsets/2150367#mania/4530385) submitted by ::shidqidragon::{ user=27379902 }
   24. [Hino Isuka - #be_fortunate (HowToPlayLN) [#be_columnlocked]](https://osu.ppy.sh/beatmapsets/1099229#mania/2296388) submitted by ::Neptunia-chan::{ user=11608122 }
-  25. [AAAA - Hoshi no Otoshimono (NKEYBOARD) [Hoshiboard]](https://osu.ppy.sh/beatmapsets/1529391#mania/3128460) submitted by ::\1LS\1Robi::{ user=21900872 }
+  25. [AAAA - Hoshi no Otoshimono (NKEYBOARD) [Hoshiboard]](https://osu.ppy.sh/beatmapsets/1529391#mania/3128460) submitted by ::[LS]Robi::{ user=21900872 }
   26. [Blend A - Bon Appetit S (Emperor of Time) [4K Star BurSt!!!!!!!!]](https://osu.ppy.sh/beatmapsets/690527#mania/1461414) submitted by ::AzusaNakano2::{ user=9821346 }
   27. [Kaneko Chiharu - Kai Dan (Tofu1222) [Daitatsujin]](https://osu.ppy.sh/beatmapsets/623951#mania/1315053) submitted by ::lyoneljose::{ user=23212300 }
   28. [VIichan - I want to be your lover (Niks) [Koibito]](https://osu.ppy.sh/beatmapsets/2121893#mania/4732089) submitted by ::Napeace::{ user=30833471 }
-  29. [sasakure.UK feat. Shirakami Fubuki - KINGWORLD (PORTTAYER) [FubuKING]](https://osu.ppy.sh/beatmapsets/1778490#mania/3643666) submitted by ::D\1ana::{ user=16240550 }
+  29. [sasakure.UK feat. Shirakami Fubuki - KINGWORLD (PORTTAYER) [FubuKING]](https://osu.ppy.sh/beatmapsets/1778490#mania/3643666) submitted by ::D_ana::{ user=16240550 }
   30. [syudou - day by days (Aix-) [advanced]](https://osu.ppy.sh/beatmapsets/1806479#mania/3732432) submitted by ::EterEnvy::{ user=13762505 }
-  31. [Ayo - Hanjuuryoku no Machi (ruka) [Levitation]](https://osu.ppy.sh/beatmapsets/850757#mania/1778630) submitted by ::\1 -Asriel- \1::{ user=11829623 }
+  31. [Ayo - Hanjuuryoku no Machi (ruka) [Levitation]](https://osu.ppy.sh/beatmapsets/850757#mania/1778630) submitted by ::[ -Asriel- ]::{ user=11829623 }
   32. [SiLiS - Hebe (RuleBlazing) [Fountain of Youth]](https://osu.ppy.sh/beatmapsets/2234586#mania/4746375) submitted by ::-Aji::{ user=10058745 }
   33. [Sayuri - Hana no Tou (RushiPettan) [Lily [1,2x Rate]]](https://osu.ppy.sh/beatmapsets/1821572#mania/3801740) submitted by ::IzKun-::{ user=9104881 }
-  34. [trinadtsat' karat - davay rasskazhem (ily Frenchcore Remix) (Sped Up Ver.) (keksikosu) [d-_-b]](https://osu.ppy.sh/beatmapsets/2087660#mania/4374753) submitted by ::ZhasK\1667::{ user=19541103 }
-  35. [Tamura Yukari feat. Motsu - You & Me (eZmmR) [eZmmR's 4K For You]](https://osu.ppy.sh/beatmapsets/1253163#mania/2604386) submitted by ::\1-Elaina-\1::{ user=12532297 }
+  34. [trinadtsat' karat - davay rasskazhem (ily Frenchcore Remix) (Sped Up Ver.) (keksikosu) [d-_-b]](https://osu.ppy.sh/beatmapsets/2087660#mania/4374753) submitted by ::ZhasK_667::{ user=19541103 }
+  35. [Tamura Yukari feat. Motsu - You & Me (eZmmR) [eZmmR's 4K For You]](https://osu.ppy.sh/beatmapsets/1253163#mania/2604386) submitted by ::[-Elaina-]::{ user=12532297 }
   36. [Masaki - Astronomy (HikariNayo) [Kangcm's Challenge 1.15x]](https://osu.ppy.sh/beatmapsets/2009918#mania/4182009) submitted by ::\_Reggie\_::{ user=22933961 }
   37. [Aitsuki Nakuru & A than_Lily - Presenter* (tentrempm) [Syr's coLlectioN]](https://osu.ppy.sh/beatmapsets/1593755#mania/3300001) submitted by ::tentrempm::{ user=8346342 }
   38. [Limpid - HAZARD (Catzu) [/chance(1x?);]](https://osu.ppy.sh/beatmapsets/1891829#mania/3897911) submitted by ::Catzu::{ user=11330898 }
@@ -541,7 +541,7 @@ This competition has come to an end and resulted in the following podium:
   41. [LBDJS - Tari Ubur Ubur (Hendro Engkeng Remix) (Cut Ver) (S1lent-) [Paket Phoenix]](https://osu.ppy.sh/beatmapsets/1491765#mania/3063643) submitted by ::Molten Cheese::{ user=16824892 }
   42. [Camellia - Shun no Shifudo o Ikashita Kare Fumi Paeria (Evening) [Giant PaSVic Octopus]](https://osu.ppy.sh/beatmapsets/453985#mania/977744) submitted by ::dogethedoge25::{ user=15597315 }
   43. [DJ Sharpnel - Fuwatanity (11Bit) [K-ON!]](https://osu.ppy.sh/beatmapsets/1395107#mania/2879679) submitted by ::TheLegend3RD::{ user=14732769 }
-  44. [Virus Syndicate & Virtual Riot & Dion Timmer - Gang Shit (Gekido-) [Tech Shit]](https://osu.ppy.sh/beatmapsets/966210#mania/2022451) submitted by ::spectator\1boi::{ user=17400577 }
+  44. [Virus Syndicate & Virtual Riot & Dion Timmer - Gang Shit (Gekido-) [Tech Shit]](https://osu.ppy.sh/beatmapsets/966210#mania/2022451) submitted by ::spectator_boi::{ user=17400577 }
   45. [goreshit - satori de pon! (Loebad434) [4K MX]](https://osu.ppy.sh/beatmapsets/435015#mania/1026633) submitted by ::KafuuChlno::{ user=31102647 }
   46. [t+pazolite - Garakuta Doll Play (\_S h i r o\_) [4K Challenge]](https://osu.ppy.sh/beatmapsets/451327#mania/968241) submitted by ::RaffCo::{ user=7589503 }
   47. [Porter Robinson & Madeon - Shelter (towakane) [Allein Quad 1.2]](https://osu.ppy.sh/beatmapsets/1490961#mania/3056264) submitted by ::Kyoukary::{ user=13403380 }
@@ -550,12 +550,12 @@ This competition has come to an end and resulted in the following podium:
   50. HoneyWorks feat.Kotoha - Ai ni Deai Koi wa Tsuzuku (SMOCMouse) \[SMOCMouse \[Chordjack\] 1.6x (320bpm) OD8\] submitted by ::ImOyZo::{ user=14875989 }
   51. [Chroma feat. mikanzil - Koi no Kuuchuu Bunkai (AlexDunk) [bittersweet love.]](https://osu.ppy.sh/beatmapsets/2014990#mania/4193642) submitted by ::FinHazel::{ user=13660273 }
   52. [Yoshida Yasei feat. Kasane Teto - Override (Bacon Haniwa) [pasta]](https://osu.ppy.sh/beatmapsets/2105074#mania/4417022) submitted by ::MzLord::{ user=14659672 }
-  53. [Pastel*Palettes - Zettai Sengen ~Recital~ (cryochan) [Trick or Escape!]](https://osu.ppy.sh/beatmapsets/1052116#mania/2198742) submitted by ::\1 Heez \1::{ user=17957861 }
+  53. [Pastel*Palettes - Zettai Sengen ~Recital~ (cryochan) [Trick or Escape!]](https://osu.ppy.sh/beatmapsets/1052116#mania/2198742) submitted by ::[ Heez ]::{ user=17957861 }
   54. [Pastry - Goblin Girl (Lolicide) [Another]](https://osu.ppy.sh/beatmapsets/863534#mania/1806257) submitted by ::Proxae::{ user=8410575 }
-  55. [DECO*27 x PinocchioP - (Not) A Devil feat. Hatsune Miku (Castella) [TIMING HELL]](https://osu.ppy.sh/beatmapsets/2060823#mania/4307929) submitted by ::\1Shiroko\1::{ user=21129437 }
+  55. [DECO*27 x PinocchioP - (Not) A Devil feat. Hatsune Miku (Castella) [TIMING HELL]](https://osu.ppy.sh/beatmapsets/2060823#mania/4307929) submitted by ::[Shiroko]::{ user=21129437 }
   56. [KIIXSHI&phonk.me - GHOST (Remix) (Lyz-) [RAGE]](https://osu.ppy.sh/beatmapsets/2265145#mania/4822375) submitted by ::Lyz-::{ user=9670957 }
   57. [Cillia - FIRST (XII-) [Hymn's Of Cillia]](https://osu.ppy.sh/beatmapsets/2215079#mania/4710751) submitted by ::DAENGXicisae-::{ user=8029883 }
-  58. [lapix - Artificial Human (Sarahkuai) [Singularity]](https://osu.ppy.sh/beatmapsets/2074540#mania/4342417) submitted by ::\1-Vanart-\1::{ user=34756991 }
+  58. [lapix - Artificial Human (Sarahkuai) [Singularity]](https://osu.ppy.sh/beatmapsets/2074540#mania/4342417) submitted by ::[-Vanart-]::{ user=34756991 }
   59. [Remo Prototype (CV: Hanamori Yumiri) - Sendan Life (katagiri Bootleg) (LaoXiao-) [Chord Life [170]]](https://osu.ppy.sh/beatmapsets/1170842#mania/3328353) submitted by ::Darrel27::{ user=25806849 }
   60. [Kyary Pamyu Pamyu - HARAJUKU IYAHOI (short ver.) (Draftnell) [Hoi !!!!]](https://osu.ppy.sh/beatmapsets/568962#mania/1206254) submitted by ::Marcille-::{ user=12423717 }
   61. [Hylen - Minerva ([Crz]Crysarlene) [Ravenheart]](https://osu.ppy.sh/beatmapsets/2044392#mania/4266970) submitted by ::Violet-::{ user=13274715 }
@@ -564,7 +564,7 @@ This competition has come to an end and resulted in the following podium:
   64. [syamisu - Neoteric Metropolis (syamisu-) [Revolutionary]](https://osu.ppy.sh/beatmapsets/2304467#mania/4926291) submitted by ::syamisu-::{ user=23484954 }
 - GM4 | **[Download the mappack here! (658 MB)](https://drive.google.com/file/d/1kJuzGIQ9w5aKa9aswgolfOLEEGR1YAsO/view?usp=sharing)**
   1. [DVRST - Close Eyes (Plutes) [Danger]](https://osu.ppy.sh/beatmapsets/1603090#mania/3273735) submitted by ::ocaibo::{ user=30615609 }
-  2. [Kolaa & Mestie - Digibuprofen (Paturages) [Lauren]](https://osu.ppy.sh/beatmapsets/2062256#mania/4311995) submitted by ::\1 Zenith \1::{ user=8405046 }
+  2. [Kolaa & Mestie - Digibuprofen (Paturages) [Lauren]](https://osu.ppy.sh/beatmapsets/2062256#mania/4311995) submitted by ::[ Zenith ]::{ user=8405046 }
   3. [SHIKI - Rose Quartz (Bulanzel) [Dumpstream x1.15]](https://osu.ppy.sh/beatmapsets/2170297#mania/4580277) submitted by ::Raeaw::{ user=27835772 }
   4. [a_hisa - Anhedonia (Jhown) [x1.05]](https://osu.ppy.sh/beatmapsets/1567138#mania/4304650) submitted by ::MightyTech::{ user=34454156 }
   5. [Sakuzyo - Distorted Fate ([Crz]Crysarlene) [Elysian]](https://osu.ppy.sh/beatmapsets/2040444#mania/4256508) submitted by ::skadidragen::{ user=32350370 }
@@ -577,27 +577,27 @@ This competition has come to an end and resulted in the following podium:
   12. [BlackY feat. Risa Yuzuki - SHION -sublimation mix- (Aimaina) [Memory]](https://osu.ppy.sh/beatmapsets/1744266#mania/3566539) submitted by ::Aimaina::{ user=13217193 }
   13. [R3 Music Box - FREEDOM DiVE (-XxbluezaperxX-) [CLASSiCAL DiMENSiON]](https://osu.ppy.sh/beatmapsets/1786568#mania/3659745) submitted by ::NizT::{ user=23115247 }
   14. [SICK HACK - Watashi Dake Yuurei (eZmmR) [Prostitute]](https://osu.ppy.sh/beatmapsets/1982486#mania/4117168) submitted by ::KinoJourney::{ user=15798093 }
-  15. [SickStrophe - Pop Up Tha Bass (Cokiiplay) [Jump]](https://osu.ppy.sh/beatmapsets/615707#mania/1298710) submitted by ::Tsurumaki\1::{ user=18790026 }
+  15. [SickStrophe - Pop Up Tha Bass (Cokiiplay) [Jump]](https://osu.ppy.sh/beatmapsets/615707#mania/1298710) submitted by ::Tsurumaki_::{ user=18790026 }
   16. [Reizoko Cj - Happy Arnold=) (hi19hi19) [Nice To Meet You=)]](https://osu.ppy.sh/beatmapsets/2040243#mania/4256058) submitted by ::Az-u::{ user=15801261 }
-  17. [Various Artists - LTD Pack (LTD) [Camellia - BRACE FOR FRICKING IMPACT]](https://osu.ppy.sh/beatmapsets/1206088#mania/3032790) submitted by ::\1LS\1 akarii::{ user=20040064 }
+  17. [Various Artists - LTD Pack (LTD) [Camellia - BRACE FOR FRICKING IMPACT]](https://osu.ppy.sh/beatmapsets/1206088#mania/3032790) submitted by ::[LS] akarii::{ user=20040064 }
   18. [S-C-U feat. Qrispy Joybox - anemone (Julie) [4K Beginner]](https://osu.ppy.sh/beatmapsets/283841#mania/645315) submitted by ::MrFlinxy::{ user=4681744 }
   19. [skibidi toilet - skibidi toilet vibro (blehhhe) [185 bpm SKIBIDI]](https://osu.ppy.sh/beatmapsets/2173212#mania/4587767) submitted by ::askL330::{ user=30640092 }
   20. [Lime - Campanella ([Crz]Crysarlene) [Soothingness]](https://osu.ppy.sh/beatmapsets/2250145#mania/4785256) submitted by ::SnakesYxle::{ user=22842079 }
-  21. [Mitsukiyo & Lee Jin Ah - Target For Love (Ludicin's Hardcore Bootleg) (Baconway) [Trayblank's Always with Me]](https://osu.ppy.sh/beatmapsets/2220208#mania/4706293) submitted by ::\1yea::{ user=20834055 }
+  21. [Mitsukiyo & Lee Jin Ah - Target For Love (Ludicin's Hardcore Bootleg) (Baconway) [Trayblank's Always with Me]](https://osu.ppy.sh/beatmapsets/2220208#mania/4706293) submitted by ::_yea::{ user=20834055 }
   22. [DJ Raisei & RYOQUCHA - HiTECH Shotgun - Haitekku shokunin no asa wa hayai (Cut Ver.) (My Angel Chen) [Reaching Out Into Other World]](https://osu.ppy.sh/beatmapsets/2224225#mania/4717146) submitted by ::My Angel Chen::{ user=24285111 }
   23. [ZERATch - tp na ame (Jhown) [x1.1]](https://osu.ppy.sh/beatmapsets/2130163#mania/4479370) submitted by ::shidqidragon::{ user=27379902 }
   24. [knot - cold planet (Kamikaze) [Everybody Dance!]](https://osu.ppy.sh/beatmapsets/793200#mania/1665871) submitted by ::Neptunia-chan::{ user=11608122 }
-  25. [*namirin - Kanzen Shouri*Esper Girl (Tailsdk) [Ash's Normal]](https://osu.ppy.sh/beatmapsets/1004416#mania/2102419) submitted by ::\1LS\1Robi::{ user=21900872 }
+  25. [*namirin - Kanzen Shouri*Esper Girl (Tailsdk) [Ash's Normal]](https://osu.ppy.sh/beatmapsets/1004416#mania/2102419) submitted by ::[LS]Robi::{ user=21900872 }
   26. [Sadohara Kaori - Day to Story (TV Size) (masdafugh) [legendary keyboard]](https://osu.ppy.sh/beatmapsets/631139#mania/1332442) submitted by ::AzusaNakano2::{ user=9821346 }
   27. [t+pazolite - Party in the HOLLOWood feat. Nanahira (HOLLOWeen Sitchaka Metchaka Remix) (_Asha) [Party]](https://osu.ppy.sh/beatmapsets/1027900#mania/2149349) submitted by ::lyoneljose::{ user=23212300 }
   28. [Asaka - The Sunshower (TV Size) (Yui Funami) [Apol's Hard]](https://osu.ppy.sh/beatmapsets/1837038#mania/3783891) submitted by ::Napeace::{ user=30833471 }
-  29. [paraoka - L9 (Jesuren) [4K Daydream]](https://osu.ppy.sh/beatmapsets/1565681#mania/3197091) submitted by ::D\1ana::{ user=16240550 }
+  29. [paraoka - L9 (Jesuren) [4K Daydream]](https://osu.ppy.sh/beatmapsets/1565681#mania/3197091) submitted by ::D_ana::{ user=16240550 }
   30. [JOYRYDE - ON FIRE (RandomeLoL) [EMBER [INSANE]]](https://osu.ppy.sh/beatmapsets/1843271#mania/3808274) submitted by ::EterEnvy::{ user=13762505 }
-  31. [Hana - MAJICK (TimBergling) [Berguling Style]](https://osu.ppy.sh/beatmapsets/674133#mania/1426506) submitted by ::\1 -Asriel- \1::{ user=11829623 }
+  31. [Hana - MAJICK (TimBergling) [Berguling Style]](https://osu.ppy.sh/beatmapsets/674133#mania/1426506) submitted by ::[ -Asriel- ]::{ user=11829623 }
   32. [Foreground Eclipse - Storytellers (Napur) [EXCLUSIVER]](https://osu.ppy.sh/beatmapsets/565184#mania/1194598) submitted by ::-Aji::{ user=10058745 }
   33. [Shirakami Fubuki - Say! Fanfare! (Castella) [Yummy~ ^^ [1.2x Rate]]](https://osu.ppy.sh/beatmapsets/1610722#mania/3288692) submitted by ::IzKun-::{ user=9104881 }
-  34. [ZERATch - tp na ame (keksikosu) [krip kripochek]](https://osu.ppy.sh/beatmapsets/2004998#mania/4169817) submitted by ::ZhasK\1667::{ user=19541103 }
-  35. [JUNKOSI - Faruzan Theme (JUNKOSI Remix) ([-Elaina-]) [Cat Faruzan]](https://osu.ppy.sh/beatmapsets/2248726#mania/4781641) submitted by ::\1-Elaina-\1::{ user=12532297 }
+  34. [ZERATch - tp na ame (keksikosu) [krip kripochek]](https://osu.ppy.sh/beatmapsets/2004998#mania/4169817) submitted by ::ZhasK_667::{ user=19541103 }
+  35. [JUNKOSI - Faruzan Theme (JUNKOSI Remix) ([-Elaina-]) [Cat Faruzan]](https://osu.ppy.sh/beatmapsets/2248726#mania/4781641) submitted by ::[-Elaina-]::{ user=12532297 }
   36. [KORDHELL - Dat Phonk (Smokydoh) [GET DOWN [1.15]]](https://osu.ppy.sh/beatmapsets/1964340#mania/4072973) submitted by ::\_Reggie\_::{ user=22933961 }
   37. [CS4W - Guilty Hostage (tentrempm) [Nightmare (edit)]](https://osu.ppy.sh/beatmapsets/1922730#mania/4762359) submitted by ::tentrempm::{ user=8346342 }
   38. [glaive - astrid (Catzu) [celestial // expert]](https://osu.ppy.sh/beatmapsets/2282933#mania/4868160) submitted by ::Catzu::{ user=11330898 }
@@ -606,7 +606,7 @@ This competition has come to an end and resulted in the following podium:
   41. [The Verkkars - Flashbang dance (feat. n0thing) (Subtlr) [Prepare your Stance!]](https://osu.ppy.sh/beatmapsets/1828408#mania/3752581) submitted by ::Molten Cheese::{ user=16824892 }
   42. [TK from Ling tosite sigure - unravel (Shoegazer) [escapist 1.05x (142bpm)]](https://osu.ppy.sh/beatmapsets/463971#mania/3090617) submitted by ::dogethedoge25::{ user=15597315 }
   43. [S3RL - MTC (-mcfly- REMIX - 2015) (arcwinolivirus) [4K 'Delusional Lust' Arc]](https://osu.ppy.sh/beatmapsets/1001020#mania/2095243) submitted by ::TheLegend3RD::{ user=14732769 }
-  44. [Various Artists - Technical Complexes Vol. 1 ([Crz]hinako1804) [#1f1e33 [cherrychou]]](https://osu.ppy.sh/beatmapsets/1240175#mania/2578347) submitted by ::spectator\1boi::{ user=17400577 }
+  44. [Various Artists - Technical Complexes Vol. 1 ([Crz]hinako1804) [#1f1e33 [cherrychou]]](https://osu.ppy.sh/beatmapsets/1240175#mania/2578347) submitted by ::spectator_boi::{ user=17400577 }
   45. [Yumiella Dolkness (CV: Fairuz Ai), Eleanora Hillrose (CV: Hidaka Rina) - Suki ga Levechi (TV Size) (Drum-Hitnormal) [CS' Lv 99]](https://osu.ppy.sh/beatmapsets/2123381#mania/4489268) submitted by ::KafuuChlno::{ user=31102647 }
   46. [ROSE BRAND - Tepung Beras Rose Brand (fengky232) [Engky232]](https://osu.ppy.sh/beatmapsets/1149536#mania/2399870) submitted by ::RaffCo::{ user=7589503 }
   47. [Cream puff - Mermaid girl (STARLiGHT Mix) (Xingyue -) [Mermaid  x0.95]](https://osu.ppy.sh/beatmapsets/969998#mania/2029276) submitted by ::Kyoukary::{ user=13403380 }
@@ -615,12 +615,12 @@ This competition has come to an end and resulted in the following podium:
   50. [Various Artists - Wombo Combo (CamiloGamerxD) [Challenge 1.2x]](https://osu.ppy.sh/beatmapsets/1526138#mania/3122316) submitted by ::ImOyZo::{ user=14875989 }
   51. [Hirose Kohmi - promise (Player0) [Get Down]](https://osu.ppy.sh/beatmapsets/1484343#mania/3044144) submitted by ::FinHazel::{ user=13660273 }
   52. [Yooh - Seraphim (Long Ver.) (Begin) [LN Angel]](https://osu.ppy.sh/beatmapsets/2063023#mania/4314630) submitted by ::MzLord::{ user=14659672 }
-  53. [Various Artists - Rhythm Heaven Selection (Applequestria) [Coin Toss]](https://osu.ppy.sh/beatmapsets/724021#mania/1528754) submitted by ::\1 Heez \1::{ user=17957861 }
+  53. [Various Artists - Rhythm Heaven Selection (Applequestria) [Coin Toss]](https://osu.ppy.sh/beatmapsets/724021#mania/1528754) submitted by ::[ Heez ]::{ user=17957861 }
   54. [sakuzyo - Fracture Ray (longnguyen2004) [Future+ \SV/]](https://osu.ppy.sh/beatmapsets/901825#mania/1882932) submitted by ::Proxae::{ user=8410575 }
-  55. [Yorushika - Yuunagi, Bou, Hana Madoi (Zembonics) [Nightbloom]](https://osu.ppy.sh/beatmapsets/1996257#mania/4148847) submitted by ::\1Shiroko\1::{ user=21129437 }
+  55. [Yorushika - Yuunagi, Bou, Hana Madoi (Zembonics) [Nightbloom]](https://osu.ppy.sh/beatmapsets/1996257#mania/4148847) submitted by ::[Shiroko]::{ user=21129437 }
   56. [Excision & Pegboard Nerds - Bring The Madness (Noisestorm Nightcore Remix) (Lyz-) [Madness]](https://osu.ppy.sh/beatmapsets/1064322#mania/2228402) submitted by ::Lyz-::{ user=9670957 }
   57. [Giga-P - BRING IT ON (Axy) [BRING THE LNS ON]](https://osu.ppy.sh/beatmapsets/1320732#mania/2736010) submitted by ::DAENGXicisae-::{ user=8029883 }
-  58. [yanaginagi - Megumi no Ame (TV Size) (Savageeeee) [Normal]](https://osu.ppy.sh/beatmapsets/1767320#mania/3617630) submitted by ::\1-Vanart-\1::{ user=34756991 }
+  58. [yanaginagi - Megumi no Ame (TV Size) (Savageeeee) [Normal]](https://osu.ppy.sh/beatmapsets/1767320#mania/3617630) submitted by ::[-Vanart-]::{ user=34756991 }
   59. [phonon - polyriddim (HowToPlayLN) [brrrrrrrrrrrrrr]](https://osu.ppy.sh/beatmapsets/1182702#mania/2465806) submitted by ::Darrel27::{ user=25806849 }
   60. [Rehan - Rehan Wangsaf ([Kaori]Miyazono) [BOGOR]](https://osu.ppy.sh/beatmapsets/1658730#mania/3385821) submitted by ::Marcille-::{ user=12423717 }
   61. [Xyris - Eviternity (Begin) [LN Eviternity]](https://osu.ppy.sh/beatmapsets/2198511#mania/4652576) submitted by ::Violet-::{ user=13274715 }
@@ -920,17 +920,17 @@ Monday, 13 January 2025:
 
 | Seed | Player | Avg. rank (weighted) |
 | --: | :-- | --: |
-| #1 | ::{ flag=ID }:: ::Tsurumaki\1::{ user=18790026 } | 5.5 |
+| #1 | ::{ flag=ID }:: ::Tsurumaki_::{ user=18790026 } | 5.5 |
 | #2 | ::{ flag=ID }:: ::Prinow6::{ user=18658630 } | 6 |
 | #3 | ::{ flag=ID }:: ::Az-u::{ user=15801261 } | 8.9 |
-| #4 | ::{ flag=ID }:: ::\1yea::{ user=20834055 } | 10.1 |
+| #4 | ::{ flag=ID }:: ::_yea::{ user=20834055 } | 10.1 |
 | #5 | ::{ flag=ID }:: ::SnakesYxle::{ user=22842079 } | 10.2 |
-| #6 | ::{ flag=ID }:: ::\1LS\1Robi::{ user=21900872 } | 11.4 |
+| #6 | ::{ flag=ID }:: ::[LS]Robi::{ user=21900872 } | 11.4 |
 | #7 | ::{ flag=ID }:: ::DAENGXicisae-::{ user=8029883 } | 11.7 |
 | #8 | ::{ flag=ID }:: ::lisachandra::{ user=26634482 } | 12.4 |
 | #9 | ::{ flag=ID }:: ::MightyTech::{ user=34454156 } | 13.8 |
-| #10 | ::{ flag=ID }:: ::spectator\1boi::{ user=17400577 } | 16 |
-| #11 | ::{ flag=ID }:: ::\1LS\1 akarii::{ user=20040064 } | 16.4 |
+| #10 | ::{ flag=ID }:: ::spectator_boi::{ user=17400577 } | 16 |
+| #11 | ::{ flag=ID }:: ::[LS] akarii::{ user=20040064 } | 16.4 |
 | #12 | ::{ flag=ID }:: ::NizT::{ user=23115247 } | 17.2 |
 | #13 | ::{ flag=ID }:: ::RaffCo::{ user=7589503 } | 19.3 |
 | #14 | ::{ flag=ID }:: ::danar mw::{ user=13859109 } | 19.9 |
@@ -944,8 +944,8 @@ Monday, 13 January 2025:
 | #22 | ::{ flag=ID }:: ::tentrempm::{ user=8346342 } | 24.6 |
 | #23 | ::{ flag=ID }:: ::yeedinobro::{ user=33683529 } | 25.1 |
 | #24 | ::{ flag=ID }:: ::My Angel Chen::{ user=24285111 } | 25.3 |
-| #25 | ::{ flag=ID }:: ::\1 -Asriel- \1::{ user=11829623 } | 26.4 |
-| #26 | ::{ flag=ID }:: ::D\1ana::{ user=16240550 } | 27.2 |
+| #25 | ::{ flag=ID }:: ::[ -Asriel- ]::{ user=11829623 } | 26.4 |
+| #26 | ::{ flag=ID }:: ::D_ana::{ user=16240550 } | 27.2 |
 | #27 | ::{ flag=ID }:: ::uThot::{ user=13716503 } | 28 |
 | #28 | ::{ flag=ID }:: ::Catzu::{ user=11330898 } | 29 |
 | #29 | ::{ flag=ID }:: ::Napeace::{ user=30833471 } | 29.7 |
@@ -955,10 +955,10 @@ Monday, 13 January 2025:
 | #33 | ::{ flag=ID }:: ::MzLord::{ user=14659672 } | 35.6 |
 | #34 | ::{ flag=ID }:: ::ChocoCoki-::{ user=3565870 } | 36.1 |
 | #35 | ::{ flag=ID }:: ::Darrel27::{ user=25806849 } | 36.6 |
-| #36 | ::{ flag=ID }:: ::\1Shiroko\1::{ user=21129437 } | 36.9 |
+| #36 | ::{ flag=ID }:: ::[Shiroko]::{ user=21129437 } | 36.9 |
 | #37 | ::{ flag=ID }:: ::Neptunia-chan::{ user=11608122 } | 37.7 |
 | #38 | ::{ flag=ID }:: ::Proxae::{ user=8410575 } | 39.8 |
-| #39 | ::{ flag=ID }:: ::\1 Zenith \1::{ user=8405046 } | 39.9 |
+| #39 | ::{ flag=ID }:: ::[ Zenith ]::{ user=8405046 } | 39.9 |
 | #40 | ::{ flag=ID }:: ::skadidragen::{ user=32350370 } | 40.6 |
 | #41 | ::{ flag=ID }:: ::Animerge::{ user=6667024 } | 40.9 |
 | #42 | ::{ flag=ID }:: ::-Aji::{ user=10058745 } | 41.5 |
@@ -972,13 +972,13 @@ Monday, 13 January 2025:
 | #50 | ::{ flag=ID }:: ::Dogethedoge25::{ user=15597315 } | 46.6 |
 | #51 | ::{ flag=ID }:: ::syamisu-::{ user=23484954 } | 47.1 |
 | #52 | ::{ flag=ID }:: ::Aimaina::{ user=13217193 } | 47.5 |
-| #53 | ::{ flag=ID }:: ::\1 Heez \1::{ user=17957861 } | 50.2 |
+| #53 | ::{ flag=ID }:: ::[ Heez ]::{ user=17957861 } | 50.2 |
 | #54 | ::{ flag=ID }:: ::Raeaw::{ user=27835772 } | 50.7 |
-| #55 | ::{ flag=ID }:: ::ZhasK\1667::{ user=19541103 } | 51.9 |
+| #55 | ::{ flag=ID }:: ::ZhasK_667::{ user=19541103 } | 51.9 |
 | #56 | ::{ flag=ID }:: ::Marcille-::{ user=12423717 } | 51.9 |
 | #57 | ::{ flag=ID }:: ::KafuuChlno::{ user=31102647 } | 52.9 |
-| #58 | ::{ flag=ID }:: ::\1-Elaina-\1::{ user=12532297 } | 53 |
-| #59 | ::{ flag=ID }:: ::\1-Vanart-\1::{ user=34756991 } | 53.3 |
+| #58 | ::{ flag=ID }:: ::[-Elaina-]::{ user=12532297 } | 53 |
+| #59 | ::{ flag=ID }:: ::[-Vanart-]::{ user=34756991 } | 53.3 |
 | #60 | ::{ flag=ID }:: ::shidqidragon::{ user=27379902 } | 53.8 |
 | #61 | ::{ flag=ID }:: ::lyoneljose::{ user=23212300 } | 56.1 |
 | #62 | ::{ flag=ID }:: ::Lyz-::{ user=9670957 } | 56.8 |

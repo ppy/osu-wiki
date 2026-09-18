@@ -106,7 +106,7 @@
 - ::Sync::{ user=806921 }をビートマップアプリーシエイションチームからosu! Alumniへ (2013-06-09) <!-- https://osu.ppy.sh/community/forums/posts/2355546 -->
 - ::Pokie::{ user=207340 }をビートマップアプリーシエイションチームからosu! Alumniへ (2013-06-20) <!-- https://osu.ppy.sh/community/forums/posts/2380009 -->
 - ::dkun::{ user=154400 }をビートマップアプリーシエイションチームに追加 (2013-06-29) <!-- https://osu.ppy.sh/community/forums/topics/83704 -->
-- ::Azure\1Kyte::{ user=66296 }をビートマップアプリーシエイションチームに追加 (2013-06-29) <!-- https://osu.ppy.sh/community/forums/posts/2397130 assuming BAT because ex-MAT及びreceives "welcome back" -->
+- ::Azure_Kyte::{ user=66296 }をビートマップアプリーシエイションチームに追加 (2013-06-29) <!-- https://osu.ppy.sh/community/forums/posts/2397130 assuming BAT because ex-MAT及びreceives "welcome back" -->
 - ::Breeze::{ user=77537 }をosu! Alumniからグローバルモデレーションチームへ (2013-06-29) <!-- https://osu.ppy.sh/community/forums/posts/2397145 -->
 - ::Elly-chan::{ user=660622 }をグローバルモデレーションチームに追加 (2013-06-29) <!-- https://osu.ppy.sh/community/forums/posts/2397398 -->
 
@@ -219,7 +219,7 @@
 - ::Kokatsu::{ user=1019859 }をビートマップアプリーシエイションチームから削除 (2013-11-10) <!-- https://osu.ppy.sh/community/forums/posts/2677189 -->
 - ::Winshley::{ user=864895 }をチャットモデレーターに追加 (2013-11-16) <!-- https://osu.ppy.sh/community/forums/posts/2688074 -->
 - ::UnderminE::{ user=444223 }をチャットモデレーターに追加 (2013-11-16)
-- ::Evil\1Twilight::{ user=409347 }をチャットモデレーターに追加 (2013-11-16) <!-- https://osu.ppy.sh/community/forums/posts/2689319 -->
+- ::Evil_Twilight::{ user=409347 }をチャットモデレーターに追加 (2013-11-16) <!-- https://osu.ppy.sh/community/forums/posts/2689319 -->
 - ::Leader::{ user=631530 }をチャットモデレーターからグローバルモデレーションチームへ (2013-11-16)
 - ::Osu Tatakae Ouendan::{ user=594210 }をチャットモデレーターからグローバルモデレーションチームへ (2013-11-16)
 - ::Mr Color::{ user=116078 }をチャットモデレーターからグローバルモデレーションチームへ (2013-11-16)

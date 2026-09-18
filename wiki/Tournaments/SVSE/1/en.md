@@ -41,9 +41,9 @@ The SV: Summer Exhibition offered a $100 cash prize pool!
 | Host | ::{ flag=PH }:: ::arccat::{ user=4848294 }, ::{ flag=US }:: ::Orca-::{ user=7958845 } |
 | Mappool selector | ::{ flag=GB }:: ::H1Pur::{ user=15756120 }, ::{ flag=US }:: ::Hugged::{ user=12589220 }, ::{ flag=FR }:: ::Paturages::{ user=1375479 }, ::{ flag=TH }:: ::RuleBlazing::{ user=7312402 } |
 | Mapper | ::{ flag=PH }:: ::arccat::{ user=4848294 }, ::{ flag=GB }:: ::H1Pur::{ user=15756120 }, ::{ flag=US }:: ::Hugged::{ user=12589220 }, ::{ flag=US }:: ::NovaSagittarii::{ user=11664177 }, ::{ flag=US }:: ::Orca-::{ user=7958845 }, ::{ flag=FR }:: ::Paturages::{ user=1375479 } |
-| Referee | ::{ flag=NL }:: ::Albionthegreat::{ user=9853595 }, ::{ flag=PH }:: ::arccat::{ user=4848294 }, ::{ flag=PL }:: ::Brokulek\1OwO::{ user=11548612 }, ::{ flag=PL }:: ::DaDarkDragon::{ user=8902097 }, ::{ flag=PH }:: ::Kyonkichi::{ user=7585544 }, ::{ flag=US }:: ::mashu::{ user=12028216 }, ::{ flag=US }:: ::Orca-::{ user=7958845 }, ::{ flag=CH }:: ::Sinsa92::{ user=13378002 }, ::{ flag=GB }:: ::StartAndSelect::{ user=8720555 } |
-| Streamer | ::{ flag=PH }:: ::arccat::{ user=4848294 }, ::{ flag=PL }:: ::Brokulek\1OwO::{ user=11548612 }, ::{ flag=PH }:: ::Kyonkichi::{ user=7585544 }, ::{ flag=SE }:: ::Logg45vs::{ user=8684540 }, ::{ flag=US }:: ::Orca-::{ user=7958845 }, ::{ flag=FR }:: ::Paturages::{ user=1375479 }, ::{ flag=US }:: ::RhymesWithMash::{ user=18834550 }, ::{ flag=CH }:: ::Sinsa92::{ user=13378002 } |
-| Commentator | ::{ flag=SG }:: ::AdamAckerville::{ user=12297375 }, ::{ flag=NL }:: ::Albionthegreat::{ user=9853595 }, ::{ flag=US }:: ::\[GS\]Antunder::{ user=10416995 }, ::{ flag=PH }:: ::arccat::{ user=4848294 }, ::{ flag=PL }:: ::Brokulek\1OwO::{ user=11548612 }, ::{ flag=US }:: ::chxu::{ user=13712190 }, ::{ flag=GB }:: ::Eliminate294::{ user=9169747 }, ::{ flag=GB }:: ::H1Pur::{ user=15756120 }, ::{ flag=GB }:: ::britishjude::{ user=15294505 }, ::{ flag=US }:: ::Orca-::{ user=7958845 }, ::{ flag=FR }:: ::Paturages::{ user=1375479 }, ::{ flag=SG }:: ::Polytetral::{ user=8612061 }, ::{ flag=CH }:: ::Sinsa92::{ user=13378002 }, ::{ flag=GB }:: ::TingMomentum::{ user=12489832 } |
+| Referee | ::{ flag=NL }:: ::Albionthegreat::{ user=9853595 }, ::{ flag=PH }:: ::arccat::{ user=4848294 }, ::{ flag=PL }:: ::Brokulek_OwO::{ user=11548612 }, ::{ flag=PL }:: ::DaDarkDragon::{ user=8902097 }, ::{ flag=PH }:: ::Kyonkichi::{ user=7585544 }, ::{ flag=US }:: ::mashu::{ user=12028216 }, ::{ flag=US }:: ::Orca-::{ user=7958845 }, ::{ flag=CH }:: ::Sinsa92::{ user=13378002 }, ::{ flag=GB }:: ::StartAndSelect::{ user=8720555 } |
+| Streamer | ::{ flag=PH }:: ::arccat::{ user=4848294 }, ::{ flag=PL }:: ::Brokulek_OwO::{ user=11548612 }, ::{ flag=PH }:: ::Kyonkichi::{ user=7585544 }, ::{ flag=SE }:: ::Logg45vs::{ user=8684540 }, ::{ flag=US }:: ::Orca-::{ user=7958845 }, ::{ flag=FR }:: ::Paturages::{ user=1375479 }, ::{ flag=US }:: ::RhymesWithMash::{ user=18834550 }, ::{ flag=CH }:: ::Sinsa92::{ user=13378002 } |
+| Commentator | ::{ flag=SG }:: ::AdamAckerville::{ user=12297375 }, ::{ flag=NL }:: ::Albionthegreat::{ user=9853595 }, ::{ flag=US }:: ::\[GS\]Antunder::{ user=10416995 }, ::{ flag=PH }:: ::arccat::{ user=4848294 }, ::{ flag=PL }:: ::Brokulek_OwO::{ user=11548612 }, ::{ flag=US }:: ::chxu::{ user=13712190 }, ::{ flag=GB }:: ::Eliminate294::{ user=9169747 }, ::{ flag=GB }:: ::H1Pur::{ user=15756120 }, ::{ flag=GB }:: ::britishjude::{ user=15294505 }, ::{ flag=US }:: ::Orca-::{ user=7958845 }, ::{ flag=FR }:: ::Paturages::{ user=1375479 }, ::{ flag=SG }:: ::Polytetral::{ user=8612061 }, ::{ flag=CH }:: ::Sinsa92::{ user=13378002 }, ::{ flag=GB }:: ::TingMomentum::{ user=12489832 } |
 | Designer | ::{ flag=US }:: ::\[GS\]Antunder::{ user=10416995 } |
 | Statistician | ::{ flag=SE }:: ::Mestro::{ user=4798263 } |
 
@@ -83,7 +83,7 @@ The SV: Summer Exhibition offered a $100 cash prize pool!
 | 19 | ::{ flag=ES }:: ::Enthalpy::{ user=9552883 } |
 | 20 | ::{ flag=MY }:: ::\[-Leon-\]::{ user=13382147 } |
 | 21 | ::{ flag=JP }:: ::riyoumaji::{ user=14727263 } |
-| 22 | ::{ flag=PL }:: ::Brunwald\11410::{ user=1639587 } |
+| 22 | ::{ flag=PL }:: ::Brunwald_1410::{ user=1639587 } |
 | 23 | ::{ flag=US }:: ::Ciel::{ user=1455309 } |
 | 24 | ::{ flag=HK }:: ::Irone OSU::{ user=10678230 } |
 | 25 | ::{ flag=PH }:: ::Silhoueska Elze::{ user=11517895 } |
@@ -108,15 +108,15 @@ The SV: Summer Exhibition offered a $100 cash prize pool!
 | 44 | ::{ flag=SE }:: ::NeonDrakon::{ user=6315000 } |
 | 45 | ::{ flag=GB }:: ::username1947::{ user=16162078 } |
 | 46 | ::{ flag=US }:: ::Retina::{ user=11392859 } |
-| 47 | ::{ flag=ES }:: ::game\1maker26::{ user=4876699 } |
+| 47 | ::{ flag=ES }:: ::game_maker26::{ user=4876699 } |
 | 48 | ::{ flag=NO }:: ::prebert123::{ user=7859738 } |
 | 49 | ::{ flag=US }:: ::FlynnMac::{ user=13857986 } |
 | 50 | ::{ flag=US }:: ::dinga dog::{ user=12206447 } |
 | 51 | ::{ flag=SG }:: ::AdamAckerville::{ user=12297375 } |
 | 52 | ::{ flag=TH }:: ::UltimaticCatz::{ user=6068543 } |
 | 53 | ::{ flag=NL }:: ::2fast4you98::{ user=5183940 } |
-| 54 | ::{ flag=PE }:: ::bxd\1juice::{ user=17152485 } |
-| 55 | ::{ flag=US }:: ::\1Riley::{ user=8826046 } |
+| 54 | ::{ flag=PE }:: ::bxd_juice::{ user=17152485 } |
+| 55 | ::{ flag=US }:: ::_Riley::{ user=8826046 } |
 | 56 | ::{ flag=US }:: ::trido2::{ user=19925013 } |
 | 57 | ::{ flag=CA }:: ::KolTheGreat::{ user=16289215 } |
 | 58 | ::{ flag=AU }:: ::Shervster::{ user=18525588 } |

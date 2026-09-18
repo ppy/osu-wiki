@@ -29,7 +29,7 @@ osu! original enjoyers ate good this week, with two brand-new songs being releas
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/tcrkNSxnKLI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-First new original (and also the No Mod 1 in the pool) is [dennoko-P - Super-Focused Limit Break](https://osu.ppy.sh/beatmapsets/2537890#taiko/5616129) mapped by ::\1Rise::{ user=5217107 }. A fast pace of 260 BPM, lots of rhythm changes and an energetic Vocaloid voice make this piece another great addition to the TWC 2026 osu! original lineup. And due to the intense nature of the song, players really need to be... *super-focused*.
+First new original (and also the No Mod 1 in the pool) is [dennoko-P - Super-Focused Limit Break](https://osu.ppy.sh/beatmapsets/2537890#taiko/5616129) mapped by ::_Rise::{ user=5217107 }. A fast pace of 260 BPM, lots of rhythm changes and an energetic Vocaloid voice make this piece another great addition to the TWC 2026 osu! original lineup. And due to the intense nature of the song, players really need to be... *super-focused*.
 
 ---
 
@@ -175,7 +175,7 @@ When working on each mini story, how did you decide what kind of visuals or inte
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/14547127">Kuroise</a></p>
 
-I've worked on the fishing, combat and building minigames and they were all tricky to execute: First, we needed a lot of illustrations. I'm glad I got to work with a group of illustrators as they were always available to provide assets for us. For example, ::\1celes\1::{ user=9108428 } made all the fishes, ::HiROdoge::{ user=15251809 } made the Tatsuma fighting assets, ::Tuzzi0v0::{ user=29834309 } made the sewing assets and ::-pineapple-::{ user=11523326 } did the space background.
+I've worked on the fishing, combat and building minigames and they were all tricky to execute: First, we needed a lot of illustrations. I'm glad I got to work with a group of illustrators as they were always available to provide assets for us. For example, ::[celes]::{ user=9108428 } made all the fishes, ::HiROdoge::{ user=15251809 } made the Tatsuma fighting assets, ::Tuzzi0v0::{ user=29834309 } made the sewing assets and ::-pineapple-::{ user=11523326 } did the space background.
 
 Second, each section had to be distinct from one another so everything had to be planned beforehand accordingly. I've made all sections with uniqueness in mind, but that doesn't mean all the ideas were fully original. In fact, all sections were inspired by past games I've watched or played: Fishing was inspired by Stardew Valley, Combat was inspired by Muse Dash and UNBEATABLE and Building was inspired by Minecraft and Terraria.
 

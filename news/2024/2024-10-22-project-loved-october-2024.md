@@ -213,13 +213,13 @@ Make sure to vote yes for this map in this month's Loved voting!
 
 [![](/wiki/shared/news/2024-10-22-project-loved-october-2024/877087.jpg)](https://osu.ppy.sh/community/forums/topics/1993615)
 
-[yaseta - Bluenation (Speed up Ver.)](https://osu.ppy.sh/beatmapsets/877087#osu) by ::ViperSWC::{ user=11724519 } and ::BaAR\1Vendel::{ user=8679346 }\
+[yaseta - Bluenation (Speed up Ver.)](https://osu.ppy.sh/beatmapsets/877087#osu) by ::ViperSWC::{ user=11724519 } and ::BaAR_Vendel::{ user=8679346 }\
 207 BPM, 4:38 | 7.18★, 7.40★, 7.42★, 7.52★, 7.72★\
 *description written by ::Mismagius::{ user=19048 }*
 
 For this month's third Wildcard slot, here's one of osu!'s signature iconic songs, but a little bit faster.
 
-[yaseta - Bluenation (Speed up Ver.)](https://osu.ppy.sh/beatmapsets/877087#osu), mapped by ::ViperSWC::{ user=11724519 } and ::BaAR\1Vendel::{ user=8679346 }, is a map you might recognize from a lot of top players' streams around 2020. Through several attempts at mapping the same song, we see how a mapper's style evolves across the years as they grasp the fundamentals and improve their execution, that's not to say the earlier attempts aren't already extremely fun to play, though! Get ready for some rather extreme jumps and streams as you dance around the screen with this certified osu! banger.
+[yaseta - Bluenation (Speed up Ver.)](https://osu.ppy.sh/beatmapsets/877087#osu), mapped by ::ViperSWC::{ user=11724519 } and ::BaAR_Vendel::{ user=8679346 }, is a map you might recognize from a lot of top players' streams around 2020. Through several attempts at mapping the same song, we see how a mapper's style evolves across the years as they grasp the fundamentals and improve their execution, that's not to say the earlier attempts aren't already extremely fun to play, though! Get ready for some rather extreme jumps and streams as you dance around the screen with this certified osu! banger.
 
 ## osu!taiko
 
@@ -282,7 +282,7 @@ The osu!catch Loved candidates were chosen by ::coolkid::{ user=7620002 }, ::Sec
 
 [![](/wiki/shared/news/2024-10-22-project-loved-october-2024/625194.jpg)](https://osu.ppy.sh/community/forums/topics/1993611)
 
-[Helblinde - Zelda's Boner](https://osu.ppy.sh/beatmapsets/625194#fruits) by ::Negri\1sk::{ user=2231396 }\
+[Helblinde - Zelda's Boner](https://osu.ppy.sh/beatmapsets/625194#fruits) by ::Negri_sk::{ user=2231396 }\
 200 BPM, 4:14 | 8.08★\
 *description written by ::Wesley::{ user=2407265 }*
 
@@ -415,7 +415,7 @@ Of course, this one is no exception, so it's recommended you give this highly re
 
 [![](/wiki/shared/news/2024-10-22-project-loved-october-2024/923032.jpg)](https://osu.ppy.sh/community/forums/topics/1993601)
 
-[penoreri - crossing blue](https://osu.ppy.sh/beatmapsets/923032#mania) by ::\_Kobii::{ user=6209713 }, ::\_Asha::{ user=11103764 }, ::\[ A v a l o n \]::{ user=4632359 }, ::Amiichii::{ user=9228569 }, ::Critical\1Star::{ user=3793196 }, ::Jakads::{ user=259972 }, ::Jesuren::{ user=7516567 }, ::Murumoo::{ user=8001433 }, and ::Scotty::{ user=11085809 }\
+[penoreri - crossing blue](https://osu.ppy.sh/beatmapsets/923032#mania) by ::\_Kobii::{ user=6209713 }, ::\_Asha::{ user=11103764 }, ::\[ A v a l o n \]::{ user=4632359 }, ::Amiichii::{ user=9228569 }, ::Critical_Star::{ user=3793196 }, ::Jakads::{ user=259972 }, ::Jesuren::{ user=7516567 }, ::Murumoo::{ user=8001433 }, and ::Scotty::{ user=11085809 }\
 234 BPM, 1:59 | 1.50★ – 7.92★\
 *description written by ::taba2::{ user=7850508 }*
 

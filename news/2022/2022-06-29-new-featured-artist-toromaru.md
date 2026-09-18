@@ -52,9 +52,9 @@ In other news, the first batch of osu!(lazer) [**Featured Artist playlists**](ht
 | Mode | Rank #1 | Rank #2 | Rank #3 | Profile badge |
 | :-- | :-- | :-- | :-- | :-- |
 | osu! | ::{ flag=US }:: ::Trail Mix::{ user=3328742 } | ::{ flag=SE }:: ::Felrion::{ user=3673083 } | ::{ flag=HU }:: ::Lexion::{ user=5271371 } | ![Featured Artist profile badge](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!.png) |
-| osu!taiko | ::{ flag=NL }:: ::Cookie\1Tree::{ user=502722 } | ::{ flag=SE }:: ::Raphalge::{ user=3918650 } | ::{ flag=US }:: ::cheese salad::{ user=6349821 } | ![Featured Artist profile badge](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!taiko.png) |
+| osu!taiko | ::{ flag=NL }:: ::Cookie_Tree::{ user=502722 } | ::{ flag=SE }:: ::Raphalge::{ user=3918650 } | ::{ flag=US }:: ::cheese salad::{ user=6349821 } | ![Featured Artist profile badge](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!taiko.png) |
 | osu!catch | ::{ flag=RU }:: ::KitsunIvy::{ user=7055384 } | ::{ flag=RU }:: ::Nelly::{ user=4741164 } | ::{ flag=RU }:: ::cosilgam::{ user=15960747 } | ![Featured Artist profile badge](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!catch.png) |
-| osu!mania | ::{ flag=CA }:: ::UmmmMrMoo::{ user=15314355 } | ::{ flag=US }:: ::\1GS\1Teo::{ user=7081478 } | ::{ flag=ID }:: ::AncuL::{ user=2449200 } | ![Featured Artist profile badge](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!mania.png) |
+| osu!mania | ::{ flag=CA }:: ::UmmmMrMoo::{ user=15314355 } | ::{ flag=US }:: ::[GS]Teo::{ user=7081478 } | ::{ flag=ID }:: ::AncuL::{ user=2449200 } | ![Featured Artist profile badge](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!mania.png) |
 
 We've also noted how many of you absolutely *hated* the Hidden mod in these playlists, so we'll take a different approach to next month's playlists (which involves freemod!). Those will drop at the turn of the month, so stay tuned!
 

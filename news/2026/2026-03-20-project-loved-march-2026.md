@@ -272,7 +272,7 @@ As always, don't forget to vote "yes" to see it reach Loved!
 
 [AAAA vs Frums - beepbit futures](https://osu.ppy.sh/beatmapsets/754188#taiko) doesn't try to do anything out of the ordinary. No crazy scroll speed changes, gimmicky sections, or over-the-top difficulty spikes. So why would I want to propose this map for Loved?
 
-When ::7\17::{ user=7491106 } and ::nananass::{ user=7231722 } map together, you don't need any of that because this map is pure love for the game.
+When ::7_7::{ user=7491106 } and ::nananass::{ user=7231722 } map together, you don't need any of that because this map is pure love for the game.
 
 Intense streams with tricky but comfortable color changes make this map consistently fun from start to finish. Will your stamina keep up? Give it a try, and remember to vote yes to see it reach Loved!
 

@@ -82,7 +82,7 @@ Abbreviations for user groups are used throughout this log:
 - 2023-02-16: Added ::DOUG::{ user=13806900 } to **BN**
 - 2023-02-16: Added ::Enneya::{ user=10959501 } to **Probationary BN**
 - 2023-02-16: Added ::MochiA::{ user=9312734 } to **Probationary BN**
-- 2023-02-20: Added ::Stompy\1::{ user=16429579 } to **Probationary BN**
+- 2023-02-20: Added ::Stompy_::{ user=16429579 } to **Probationary BN**
 - 2023-02-24: Added ::Protastic101::{ user=6712747 } to **Probationary BN**
 - 2023-02-24: Added ::Monoseul::{ user=16010604 } to **Probationary BN**
 - 2023-02-25: Added ::hac::{ user=17853754 } to **BN**
@@ -130,7 +130,7 @@ Abbreviations for user groups are used throughout this log:
 ## March
 
 - 2023-03-04: Moved ::Secre::{ user=2306637 } from **NAT** to **osu! Alumni**
-- 2023-03-12: Removed ::\1Zeth\1::{ user=9912966 } from **Beatmap Spotlight Curators**
+- 2023-03-12: Removed ::[Zeth]::{ user=9912966 } from **Beatmap Spotlight Curators**
 - 2023-03-12: Added ::megumic::{ user=7537133 } to **Project Loved Team**
 - 2023-03-12: Added ::Kingling::{ user=7010761 } to **Project Loved Team**
 - 2023-03-12: Added ::Aistre::{ user=4879380 } to **Project Loved Team**
@@ -138,7 +138,7 @@ Abbreviations for user groups are used throughout this log:
 - 2023-03-18: Added ::Ideal::{ user=3869519 } to **NAT**
 - 2023-03-20: Removed ::Irisu::{ user=8595858 } from **Project Loved Team**
 - 2023-03-27: Added ::Roan::{ user=8214639 } to **GMT**
-- 2023-03-27: Added ::Redo\1::{ user=7122165 } to **GMT**
+- 2023-03-27: Added ::Redo_::{ user=7122165 } to **GMT**
 - 2023-03-28: Added ::Boaz::{ user=13302996 } to **Beatmap Spotlight Curators**
 - 2023-03-28: Added ::piroshki::{ user=7645522 } to **Beatmap Spotlight Curators**
 - 2023-03-28: Added ::enri::{ user=8640970 } to **Beatmap Spotlight Curators**
@@ -221,7 +221,7 @@ Abbreviations for user groups are used throughout this log:
 - 2023-04-14: Added ::terho::{ user=6090105 } to **GMT**
 - 2023-04-14: Added ::Corne2Plume3::{ user=15646039 } to **GMT**
 - 2023-04-14: Moved ::Pope Gadget::{ user=2288341 } from **GMT** to **osu! Alumni**
-- 2023-04-14: Added ::THAT\1otaku::{ user=11798717 } to **GMT**
+- 2023-04-14: Added ::THAT_otaku::{ user=11798717 } to **GMT**
 - 2023-04-15: Added ::D I O::{ user=3958619 } to **GMT**
 - 2023-04-16: Moved ::UberFazz::{ user=8646059 } from **NAT** to **osu! Alumni**
 - 2023-04-17: Removed ::POCARI SWEAT::{ user=5082685 } from **Project Loved Team**
@@ -255,7 +255,7 @@ Abbreviations for user groups are used throughout this log:
 
 #### Moves
 
-- 2023-04-13: Moved ::Stompy\1::{ user=16429579 } from **Probationary BN** to **BN**
+- 2023-04-13: Moved ::Stompy_::{ user=16429579 } from **Probationary BN** to **BN**
 - 2023-04-14: Moved ::Natsuko::{ user=8266817 } from **Probationary BN** to **BN**
 - 2023-04-14: Moved ::fuhie::{ user=7620002 } from **BN** to **Probationary BN**
 - 2023-04-15: Moved ::Hydria::{ user=808176 } from **Probationary BN** to **BN**
@@ -333,7 +333,7 @@ Abbreviations for user groups are used throughout this log:
 - 2023-05-07: Removed ::AHHHHHHHHHHHHHH::{ user=8249608 } from **BN**
 - 2023-05-08: Removed ::Zer0-::{ user=4260033 } from **BN**
 - 2023-05-12: Removed ::Zekk::{ user=9704802 } from **BN**
-- 2023-05-15: Removed ::Kim\1GodSSI::{ user=2218047 } from **BN**
+- 2023-05-15: Removed ::Kim_GodSSI::{ user=2218047 } from **BN**
 - 2023-05-15: Removed ::Mafumafu::{ user=3076909 } from **BN**
 - 2023-05-21: Removed ::Feerum::{ user=4815717 } from **BN**
 - 2023-05-22: Removed ::Kudosu::{ user=11038155 } from **BN**
@@ -349,7 +349,7 @@ Abbreviations for user groups are used throughout this log:
 - 2023-06-28: Added ::gzdongsheng::{ user=8660315 } to **NAT**
 - 2023-06-28: Added ::Tailsdk::{ user=6751666 } to **NAT**
 - 2023-06-28: Added ::MadBricktree::{ user=4790958 } to **NAT**
-- 2023-06-28: Moved ::\1Stan::{ user=1653229 } from **NAT** to **osu! Alumni**
+- 2023-06-28: Moved ::_Stan::{ user=1653229 } from **NAT** to **osu! Alumni**
 
 ### Beatmap Nominators
 
@@ -359,7 +359,7 @@ Abbreviations for user groups are used throughout this log:
 - 2023-06-13: Added ::Zekk::{ user=9704802 } to **BN**
 - 2023-06-15: Added ::davidminh0111::{ user=9623142 } to **Probationary BN**
 - 2023-06-21: Added ::Antalf::{ user=8793773 } to **BN**
-- 2023-06-28: Added ::\1Stan::{ user=1653229 } to **BN**
+- 2023-06-28: Added ::_Stan::{ user=1653229 } to **BN**
 
 #### Moves
 

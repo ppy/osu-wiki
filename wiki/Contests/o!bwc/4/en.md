@@ -84,13 +84,13 @@ tags:
 | ::{ flag=BR }:: | **Brazil** | **::Kauan::{ user=6816366 }**, ::bielsuu::{ user=11422420 }, ::Shykes::{ user=13364737 }, ::kagiura::{ user=11461810 }, ::RafaelXDP::{ user=11984937 }, ::oddless::{ user=29968941 } |
 | ::{ flag=BR }:: | **Brazil** | **::Roberto::{ user=3453558 }**, ::maot::{ user=3914271 }, ::munchow::{ user=8977763 }, ::vetoed::{ user=10909373 } |
 | ::{ flag=CA }:: | **Canada** | **::1nwyr::{ user=36884780 }**, ::JoshywaBoo::{ user=19656568 }, ::AruOtta::{ user=1587976 }, ::bran cereal::{ user=12362447 }, ::Creepattack::{ user=12626424 } |
-| ::{ flag=CA }:: | **Canada** | **::arkisol::{ user=9331411 }**, ::LynVA::{ user=9350560 }, ::J1\1::{ user=5918561 }, ::Vacuous::{ user=8710622 } |
-| ::{ flag=CA }:: | **Canada** | **::honne::{ user=3988240 }**, ::Sparhten::{ user=7601720 }, ::Orchid\1Rei::{ user=14890490 }, ::bao::{ user=8926853 }, ::uby::{ user=5215955 } |
+| ::{ flag=CA }:: | **Canada** | **::arkisol::{ user=9331411 }**, ::LynVA::{ user=9350560 }, ::J1_::{ user=5918561 }, ::Vacuous::{ user=8710622 } |
+| ::{ flag=CA }:: | **Canada** | **::honne::{ user=3988240 }**, ::Sparhten::{ user=7601720 }, ::Orchid_Rei::{ user=14890490 }, ::bao::{ user=8926853 }, ::uby::{ user=5215955 } |
 | ::{ flag=CA }:: | **Canada** | **::v0x::{ user=18128385 }**, ::Feiri::{ user=3214844 }, ::alstroemeria-::{ user=20137080 }, ::Nijika Ichiji::{ user= } |
 | ::{ flag=CL }:: | **Chile** | **::SUISEI69::{ user=22406733 }**, ::Cris-::{ user=6175280 }, ::Ldnz::{ user=18505692 }, ::Evil-::{ user=10234313 }, ::TheShadowOfDark::{ user=5795337 }, ::melleganol::{ user=16452371 } |
 | ::{ flag=CL }:: | **Chile** | **::Sunazuka Akira::{ user=8846632 }**, ::Syodou::{ user=11333236 }, ::KChronoZ::{ user=7918770 }, ::Vyassel::{ user=14450486 } |
-| ::{ flag=CN }:: | **China** | **::astralcynsm::{ user=16022233 }**, ::SuperBox::{ user=4783121 }, ::X Light::{ user=1814662 }, ::MarioKartya::{ user=16833061 }, ::SouJuku::{ user=20403654 }, ::PEALEERD\1TAK::{ user=6214002 } |
-| ::{ flag=CN }:: | **China** | **::Liyuu\10109::{ user=21573458 }**, ::\1W\1hiteRBQ 033::{ user=8678443 }, ::-YeLing-::{ user=14726718 }, ::Mimosa M::{ user=24010320 }, ::jj986544591::{ user=2917990 }, ::Robinia::{ user=16081750 } |
+| ::{ flag=CN }:: | **China** | **::astralcynsm::{ user=16022233 }**, ::SuperBox::{ user=4783121 }, ::X Light::{ user=1814662 }, ::MarioKartya::{ user=16833061 }, ::SouJuku::{ user=20403654 }, ::PEALEERD_TAK::{ user=6214002 } |
+| ::{ flag=CN }:: | **China** | **::Liyuu_0109::{ user=21573458 }**, ::[W]hiteRBQ 033::{ user=8678443 }, ::-YeLing-::{ user=14726718 }, ::Mimosa M::{ user=24010320 }, ::jj986544591::{ user=2917990 }, ::Robinia::{ user=16081750 } |
 | ::{ flag=CO }:: | **Colombia** | **::ErunamoJAZZ::{ user=1869764 }**, ::Yoari::{ user=4160699 }, ::HappyRocket88::{ user=4442006 }, ::LaurKappita::{ user=23040683 } |
 | ::{ flag=CY }:: | **Cyprus** | **::Magitska::{ user=19368737 }**, ::ravensong::{ user=10772580 }, ::Def0ltt::{ user=12221151 }, ::NotCatGirlSimp::{ user=14828149 } |
 | ::{ flag=DK }:: | **Denmark** | **::melonboy::{ user=3053382 }**, ::Akayume::{ user=10617530 }, ::huh hmm blehh::{ user=9450032 }, ::bongo::{ user=5312202 }, ::Pennek::{ user=3723742 } |
@@ -100,16 +100,16 @@ tags:
 | ::{ flag=FR }:: | **France** | **::Zekao::{ user=7630462 }**, ::NEVlR::{ user=8339126 }, ::Kin::{ user=480689 }, ::Kyuukai::{ user=5337374 }, ::Linada::{ user=5239047 }, ::Hirosheap::{ user=22172595 } |
 | ::{ flag=DE }:: | **Germany** | **::Icekalt::{ user=5410645 }**, ::Okoayu::{ user=1623405 }, ::Pho::{ user=3624692 }, ::Vell::{ user=3414541 }, ::Phynta::{ user=9070739 }, ::an3::{ user=11954090 } |
 | ::{ flag=DE }:: | **Germany** | **::Lulu-::{ user=4201715 }**, ::0ppInOsu::{ user=12551840 }, ::Kojio::{ user=2054596 }, ::Slifer::{ user=15084122 }, ::inslider::{ user=11462830 }, ::Bazuso::{ user=11726139 } |
-| ::{ flag=HU }:: | **Hungary** | **::Nidasimno::{ user=6799223 }**, ::Magor::{ user=13214099 }, ::raven\1waffles::{ user=18690280 }, ::mqno::{ user=10021506 }, ::ffelix\1::{ user=12452243 }, ::beans mcCheese::{ user=13201170 } |
+| ::{ flag=HU }:: | **Hungary** | **::Nidasimno::{ user=6799223 }**, ::Magor::{ user=13214099 }, ::raven_waffles::{ user=18690280 }, ::mqno::{ user=10021506 }, ::ffelix_::{ user=12452243 }, ::beans mcCheese::{ user=13201170 } |
 | ::{ flag=ID }:: | **Indonesia** | **::Azrulk::{ user=12046612 }**, ::NBA YOUNGBOY::{ user=3545579 }, ::fedora::{ user=11016828 }, ::Arial::{ user=29518158 }, ::araran::{ user=8937198 }, ::soncak::{ user=3866821 } |
 | ::{ flag=IT }:: | **Italy** | **::-kevincela-::{ user=266596 }**, ::gygy::{ user=7201269 }, ::bgm16::{ user=11476143 }, ::Nemis::{ user=1635091 }, ::zekk::{ user=9704802 }, ::Sonnenblume::{ user=14596595 } |
 | ::{ flag=IT }:: | **Italy** | **::Shiraya Sayuki::{ user=19077461 }**, ::Shiino::{ user=9839375 }, ::Kuroise::{ user=14547127 }, ::Klevsify::{ user=30556250 } |
 | ::{ flag=JP }:: | **Japan** | **::o074::{ user=32559982 }**, ::KogumaX::{ user=525262 }, ::Lavila::{ user=9392548 }, ::wring::{ user=275300 }, ::dectopia::{ user=2845904 }, ::rrtyui::{ user=352328 } |
 | ::{ flag=JP }:: | **Japan** | **::Sagu::{ user=4556542 }**, ::rollpan::{ user=3062998 }, ::YaMaDarknesss::{ user=5645667 }, ::hifu::{ user=11843685 }, ::arthRo::{ user=21663721 }, ::eringiRa::{ user=16383529 } |
-| ::{ flag=KZ }:: | **Kazakhstan** | **::Lightin::{ user=7595619 }**, ::colicen::{ user=8657379 }, ::-Hitomi::{ user=15583987 }, ::tadahitotsu::{ user=11653544 }, ::semfi::{ user=7746157 }, ::Danik\1LzZ::{ user=4756779 } |
+| ::{ flag=KZ }:: | **Kazakhstan** | **::Lightin::{ user=7595619 }**, ::colicen::{ user=8657379 }, ::-Hitomi::{ user=15583987 }, ::tadahitotsu::{ user=11653544 }, ::semfi::{ user=7746157 }, ::Danik_LzZ::{ user=4756779 } |
 | ::{ flag=MY }:: | **Malaysia** | **::KPMY::{ user=12464372 }**, ::Banner::{ user=14290988 }, ::Mahiru Shiina::{ user=13866023 }, ::Rumia-::{ user=1787171 }, ::MrBigOctupus::{ user=15502308 }, ::Agagak::{ user=3645490 } |
 | ::{ flag=MX }:: | **Mexico** | **::-Karu::{ user= }**, ::Shiny Braixen::{ user=6346081 }, ::Kaly::{ user=19505653 }, ::zfg::{ user=8585375 }, ::Melair::{ user=11131719 }, ::LazcanoVZQ::{ user=16501590 } |
-| ::{ flag=NZ }:: | **New Zealand** | **::THAT\1otaku::{ user=11798717 }**, ::Moph::{ user=2233878 }, ::kwk::{ user=365586 }, ::subokuu::{ user=13465564 }, ::OneShotFox::{ user=8840398 } |
+| ::{ flag=NZ }:: | **New Zealand** | **::THAT_otaku::{ user=11798717 }**, ::Moph::{ user=2233878 }, ::kwk::{ user=365586 }, ::subokuu::{ user=13465564 }, ::OneShotFox::{ user=8840398 } |
 | ::{ flag=NZ }:: | **New Zealand** | **::TotallyWaffles::{ user=14595209 }**, ::Ben Breeze::{ user=25481349 }, ::Ozzy265::{ user=23179637 }, ::pearls::{ user=27298515 }, ::piiid::{ user=37091194 } |
 | ::{ flag=PE }:: | **Peru** | **::astronickad::{ user=17474599 }**, ::dakiwii::{ user=10447058 }, ::ganyu lover::{ user=9042918 }, ::Logadex::{ user=7393316 }, ::- Koshiin -::{ user=19135423 } |
 | ::{ flag=PH }:: | **Philippines** | **::acnozei::{ user=10141268 }**, ::flake::{ user=7627157 }, ::Onegai::{ user=11849100 }, ::iFinixe::{ user=10501608 }, ::HaruTachi-::{ user=6244066 }, ::LeCandy::{ user=6626249 } |
@@ -124,13 +124,13 @@ tags:
 | ::{ flag=RU }:: | **Russian Federation** | **::Sanch-KK::{ user=9131844 }**, ::NeKroMan4ik::{ user=11387664 }, ::neko ds::{ user=4688735 }, ::Djulus::{ user=4960893 }, ::tokiko::{ user=2836455 }, ::netnesanya::{ user=6017901 } |
 | ::{ flag=SG }:: | **Singapore** | **::Slyze-::{ user=9162649 }**, ::Flowziee::{ user=9205650 }, ::P4ndemonium::{ user=6639059 }, ::Rtyzen::{ user=2439822 }, ::Ixcors::{ user=11194087 }, ::hehe::{ user=2123087 } |
 | ::{ flag=KR }:: | **South Korea** | **::Enon::{ user=2043401 }**, ::Atipir::{ user=8991722 }, ::ddm::{ user=7910282 }, ::teaminhtg::{ user=19146698 } |
-| ::{ flag=KR }:: | **South Korea** | **::Beomsan::{ user=3626063 }**, ::Acylica::{ user=1943309 }, ::milr\1::{ user=4485933 }, ::Taeyang::{ user=2732340 } |
+| ::{ flag=KR }:: | **South Korea** | **::Beomsan::{ user=3626063 }**, ::Acylica::{ user=1943309 }, ::milr_::{ user=4485933 }, ::Taeyang::{ user=2732340 } |
 | ::{ flag=KR }:: | **South Korea** | **::Heilia::{ user=9823042 }**, ::jieusieu::{ user=759439 }, ::239hachiman::{ user=3261991 }, ::Dailycare::{ user=1634445 }, ::Skymin::{ user=3223044 } |
 | ::{ flag=ES }:: | **Spain** | **::Sakorii::{ user=14590106 }**, ::Hide in room::{ user=14272234 }, ::Jurumas::{ user=14915346 }, ::Radiownd::{ user=6792694 } |
 | ::{ flag=ES }:: | **Spain** | **::Tsukioka Kogane::{ user=7567228 }**, ::CebollaVladimir::{ user=15308238 }, ::bucky::{ user=6750761 }, ::Nachmark::{ user=17584310 } |
 | ::{ flag=SE }:: | **Sweden** | **::melwoine::{ user=12091109 }**, ::Meteo L-Drago::{ user=5087744 }, ::Zer0-::{ user=4260033 }, ::Saika0k1::{ user=4316633 }, ::nautzz::{ user=2012039 }, ::melwem::{ user=10349559 } |
 | ::{ flag=SE }:: | **Sweden** | **::HFIG::{ user=11389321 }**, ::scylla::{ user=9405745 }, ::play melty::{ user=10079138 }, ::ieir::{ user=14218988 } |
-| ::{ flag=CH }:: | **Switzerland** | **::Irreversible::{ user=1287964 }**, ::Kayamori Ruka::{ user=14227494 }, ::Schoki::{ user=13260523 }, ::artcore::{ user=9713839 }, ::Evangelion\1MAN::{ user=16818096 } |
+| ::{ flag=CH }:: | **Switzerland** | **::Irreversible::{ user=1287964 }**, ::Kayamori Ruka::{ user=14227494 }, ::Schoki::{ user=13260523 }, ::artcore::{ user=9713839 }, ::Evangelion_MAN::{ user=16818096 } |
 | ::{ flag=TW }:: | **Taiwan** | **::Plus4j::{ user=4086497 }**, ::Matsuyuki Ame::{ user=12763959 }, ::Flask::{ user=959763 }, ::Imokora::{ user=2472609 }, ::9ami::{ user=1499997 }, ::Alty::{ user=16407988 } |
 | ::{ flag=TH }:: | **Thailand** | **::Typ4::{ user=6902361 }**, ::bonrai::{ user=13746903 }, ::chests::{ user=14806365 }, ::ohm002::{ user=4468239 }, ::Ryebyrinth::{ user=7777765 }, ::quantumvortex::{ user=10660777 } |
 | ::{ flag=UA }:: | **Ukraine** | **::aishiteiru-::{ user=10566388 }**, ::announcerf::{ user=13245261 }, ::FackeL::{ user=15899606 }, ::Rorupan L9::{ user=9471638 }, ::Mamiya Takuji::{ user=7586512 }, ::TheOneForce::{ user=10747096 } |
@@ -142,7 +142,7 @@ tags:
 | ::{ flag=US }:: | **United States** | **::melloe::{ user=2367616 }**, ::Axarious::{ user=2614511 }, ::semaphore::{ user=6313643 }, ::mithew::{ user=2571893 }, ::toybot::{ user=2848604 }, ::pumice::{ user=3744100 } |
 | ::{ flag=US }:: | **United States** | **::Ralkinson::{ user=10646707 }**, ::wafer::{ user=9416836 }, ::kataryn::{ user=19044162 }, ::losing my edge::{ user= }, ::Heroine::{ user=12727076 } |
 | ::{ flag=US }:: | **United States** | **::Melter::{ user=5129592 }**, ::promised::{ user=10676118 }, ::lia-979979019 7::{ user=9902253 }, ::Surgis::{ user=16847674 }, ::Hanakumo Rin::{ user=12895865 }, ::pip::{ user=8446047 } |
-| ::{ flag=US }:: | **United States** | **::EnderCraft::{ user=19950570 }**, ::\1ethan::{ user=16345483 }, ::Xiangli Yao::{ user=4543414 }, ::mintIceCream\1::{ user=13221589 }, ::Rentai::{ user=11033243 }, ::bakery::{ user=9665030 } |
+| ::{ flag=US }:: | **United States** | **::EnderCraft::{ user=19950570 }**, ::_ethan::{ user=16345483 }, ::Xiangli Yao::{ user=4543414 }, ::mintIceCream_::{ user=13221589 }, ::Rentai::{ user=11033243 }, ::bakery::{ user=9665030 } |
 | ::{ flag=US }:: | **United States** | **::Mejiro McQueen::{ user=11555612 }**, ::Firiiu::{ user=7825971 }, ::zblader6::{ user=21367988 }, ::-Tynamo::{ user=3638962 } |
 | ::{ flag=UY }:: | **Uruguay** | **::Lucho::{ user=16845442 }**, ::Rebo::{ user=6942259 }, ::FDX::{ user=8987016 }, ::Raby::{ user=5218320 } |
 | ::{ flag=VE }:: | **Venezuela** | **::Mithia::{ user=9748438 }**, ::CSLM::{ user=2675027 }, ::-Lian-::{ user=9048124 }, ::Kirei-::{ user=10129335 }, ::4rou::{ user=10318021 } |

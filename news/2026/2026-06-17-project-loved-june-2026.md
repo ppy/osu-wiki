@@ -20,7 +20,7 @@ We are proud to announce the **"Project Loved: Best of 2025" medal pack** is out
 Additionally, last month's applications have been processed, and therefore we have a number of **new captains** that will be picking maps for the project. Please welcome:
 
 - For the osu!mania 7K team, ::BKwind::{ user=8900975 } and ::ExNeko::{ user=7590894 }!
-- For the osu!catch team, ::Natsuko::{ user=8266817 }, ::mieldeprairie::{ user=19290397 }, ::MILK\116::{ user=9137627 } and ::Jakkubon::{ user=3396013 }!
+- For the osu!catch team, ::Natsuko::{ user=8266817 }, ::mieldeprairie::{ user=19290397 }, ::MILK_16::{ user=9137627 } and ::Jakkubon::{ user=3396013 }!
 
 And coinciding with the fruit-catcher additions, it's time to say goodbye to ::Tenshichan::{ user=1101600 }. He has been the **longest-tenured captain in the history of the project**, being active since the very creation of the Captain's Pick system [back in 2017](https://osu.ppy.sh/community/forums/posts/6358816). Things were very different back then, with maps battling one another for a chance at a leaderboard. Everything was run directly on the forums, and it was all generally much more experimental. ::Tenshichan::{ user=1101600 } has been with us since all the way back then, longer than there are badges to put under his name, and has been picking quite literally hundreds of maps in that time. Thank you for your service!
 

@@ -47,7 +47,7 @@ The osu! Philippines Quickfire Showdown 2023 was run by various community member
 | Host | ::{ flag=PH }:: ::topecnz::{ user=2103927 }, ::{ flag=PH }:: ::ToshiroKen::{ user=9550257 }, ::{ flag=PH }:: ::SurfChu85::{ user=4469895 }, ::{ flag=PH }:: ::EnIite::{ user=13470730 } |
 | Mappool selector | ::{ flag=PH }:: ::xidorn::{ user=7904667 }, ::{ flag=PH }:: ::Cohue::{ user=12538598 } |
 | Custom mapper | ::{ flag=PH }:: ::Anastaxia::{ user=5375302 }, ::{ flag=PH }:: ::flake::{ user=7627157 }, ::{ flag=PH }:: ::Kyuuchie::{ user=11057641 }, ::{ flag=PH }:: ::iFinixe::{ user=10501608 }, ::{ flag=PH }:: ::Onegai::{ user=11849100 }, ::{ flag=PH }:: ::newton-::{ user=5875419 }, ::{ flag=PH }:: ::Amateurre::{ user=7326908 } |
-| Playtester | ::{ flag=PH }:: ::ToshiroKen::{ user=9550257 }, ::{ flag=PH }:: ::GADO::{ user=1519847 }, ::{ flag=US }:: ::SilenceSuzuka::{ user=7249644 }, ::{ flag=SA }:: ::-Peachii::{ user=9683186 }, ::{ flag=PH }:: ::xX\1MusicMan\1Xx::{ user=5718989 }, ::{ flag=PH }:: ::Hinatsuru Ai::{ user=10442993 }, ::{ flag=PH }:: ::zonelouise::{ user=1492995 } |
+| Playtester | ::{ flag=PH }:: ::ToshiroKen::{ user=9550257 }, ::{ flag=PH }:: ::GADO::{ user=1519847 }, ::{ flag=US }:: ::SilenceSuzuka::{ user=7249644 }, ::{ flag=SA }:: ::-Peachii::{ user=9683186 }, ::{ flag=PH }:: ::xX_MusicMan_Xx::{ user=5718989 }, ::{ flag=PH }:: ::Hinatsuru Ai::{ user=10442993 }, ::{ flag=PH }:: ::zonelouise::{ user=1492995 } |
 | Spreadsheet manager | ::{ flag=PH }:: ::SurfChu85::{ user=4469895 }, ::{ flag=NL }:: ::Albionthegreat::{ user=9853595 }, ::{ flag=HK }:: ::ShadeCegLgMn::{ user=12609866 } |
 | Graphic designer | ::{ flag=PH }:: ::FLCammo::{ user=18789292 }, ::{ flag=PH }:: ::mjk::{ user=19607673 }, ::{ flag=PH }:: ::muffleberry::{ user=8978259 }, ::{ flag=PH }:: ::KouMyMommy::{ user=23541645 }, ::{ flag=PH }:: ::Miyazumi::{ user=7991329 }, ::{ flag=PH }:: ::Inflique::{ user=13865585 }, ::{ flag=PH }:: ::Nitrous::{ user=7293512 } |
 | Stream operator | ::{ flag=PH }:: ::Sharuru::{ user=3436126 }, ::{ flag=PH }:: ::-Ichinose::{ user=12635292 }, ::{ flag=PH }:: ::Nitrous::{ user=7293512 } |
@@ -67,7 +67,7 @@ The osu! Philippines Quickfire Showdown 2023 was run by various community member
 - Day 1
   - Confirmed
     - ::{ flag=PH }:: ::Impowster::{ user=13484596 }
-    - ::{ flag=PH }:: ::rwnd\1::{ user=14916935 }
+    - ::{ flag=PH }:: ::rwnd_::{ user=14916935 }
     - ::{ flag=PH }:: ::CircIes::{ user=9930573 }
     - ::{ flag=PH }:: ::xjfn::{ user=9326546 }
     - ::{ flag=PH }:: ::Desmond823::{ user=14582737 }
@@ -83,7 +83,7 @@ The osu! Philippines Quickfire Showdown 2023 was run by various community member
     - ::{ flag=PH }:: ::LordGabriel::{ user=9227895 }
     - ::{ flag=PH }:: ::Miggie::{ user=12028437 }
     - ::{ flag=PH }:: ::-Myhra::{ user=2558163 }
-    - ::{ flag=PH }:: ::Lunasen\1::{ user=15216246 }
+    - ::{ flag=PH }:: ::Lunasen_::{ user=15216246 }
     - ::{ flag=PH }:: ::Segawa Emi::{ user=11865009 }
     - ::{ flag=PH }:: ::bluezenithgames::{ user=12681578 }
     - ::{ flag=PH }:: ::OsuSeulgiDragon::{ user=6073492 }
@@ -118,7 +118,7 @@ This competition has come to an end and resulted in the following podium:
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: ::NathanRam1918::{ user=4734703 } |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: ::Miggie::{ user=12028437 } |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: ::Lunasen\1::{ user=15216246 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: ::Lunasen_::{ user=15216246 } |
 
 ## Mappools
 

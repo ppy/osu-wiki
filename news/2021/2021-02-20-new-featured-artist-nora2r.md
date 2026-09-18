@@ -47,7 +47,7 @@ Check out any of these **5** mapsets:
 
 ### nora2r - Memory Of Sunrise
 
-Try out this [osu!taiko mapset](https://osu.ppy.sh/beatmapsets/579893) by ::\1yu68::{ user=6170507 } or this [osu!catch mapset](https://osu.ppy.sh/beatmapsets/1158978) by ::JBHyperion::{ user=4879508 }!
+Try out this [osu!taiko mapset](https://osu.ppy.sh/beatmapsets/579893) by ::_yu68::{ user=6170507 } or this [osu!catch mapset](https://osu.ppy.sh/beatmapsets/1158978) by ::JBHyperion::{ user=4879508 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/141/Songs/nora2r%20-%20Memory%20Of%20Sunrise.mp3" type="audio/mpeg">

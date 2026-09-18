@@ -39,7 +39,7 @@ Do you like Bocchi the Rock? Do you like the colour pink? Then [Hitori Gotou](ht
 
 ![](/wiki/shared/news/2023-03-05-skin-of-the-year-2022-results/Wintherest.jpg)
 
-For people with a habit of searching for high quality original skins on the forums, seeing ::Redo\1::{ user=7122165 }'s name pop definitely rings a bell! Their [- 『Wintherest』 -](https://osu.ppy.sh/community/forums/topics/1498493) entry achieved 1st place during the ["Tides of Winter" skinning contest](/wiki/Contests/Skinning_Contest/2) a year ago, and still holds up with an impressive 4th place this time around with **932** votes! If you're an avid winter enjoyer, you're sure to enjoy this entry.
+For people with a habit of searching for high quality original skins on the forums, seeing ::Redo_::{ user=7122165 }'s name pop definitely rings a bell! Their [- 『Wintherest』 -](https://osu.ppy.sh/community/forums/topics/1498493) entry achieved 1st place during the ["Tides of Winter" skinning contest](/wiki/Contests/Skinning_Contest/2) a year ago, and still holds up with an impressive 4th place this time around with **932** votes! If you're an avid winter enjoyer, you're sure to enjoy this entry.
 
 ![](/wiki/shared/news/2023-03-05-skin-of-the-year-2022-results/Shiroko-Swimsuit.jpg)
 

@@ -17,7 +17,7 @@ There's still plenty more of **Rohi**'s sound left to discover though, so make s
 
 ### Kakuzetsu Thanatos
 
-Check out [this classic set](https://osu.ppy.sh/beatmapsets/76396) hosted by ::NatsumeRin::{ user=151679 }, and [an osu!mania set](https://osu.ppy.sh/beatmapsets/357060) hosted by ::\1underjoy::{ user=2235750 }!
+Check out [this classic set](https://osu.ppy.sh/beatmapsets/76396) hosted by ::NatsumeRin::{ user=151679 }, and [an osu!mania set](https://osu.ppy.sh/beatmapsets/357060) hosted by ::_underjoy::{ user=2235750 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/82/previews/2165.mp3" type="audio/mpeg">

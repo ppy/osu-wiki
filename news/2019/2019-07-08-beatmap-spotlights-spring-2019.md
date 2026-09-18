@@ -83,7 +83,7 @@ _written by ::Smokeman::{ user=2140676 }_
 
 [![](/wiki/shared/news/2019-07-07-beatmap-spotlights-spring-2019/osu/line.jpg)](https://osu.ppy.sh/beatmapsets/899381)
 
-A sharp contrast from recent trends of electronic and anime music, ::Yuuya\1ke::{ user=6441720 } delivers a strikingly simplistic, yet effective mapset of Ricky Montgomery's "Line Without A Hook".
+A sharp contrast from recent trends of electronic and anime music, ::Yuuya_ke::{ user=6441720 } delivers a strikingly simplistic, yet effective mapset of Ricky Montgomery's "Line Without A Hook".
 
 The highly emotive indie track is accented beautifully through a level of flow and rhythm mastery unprecedented from most mappers' first ranked mapsets. Regardless, Line Without A Hook doesn't disappoint in highlighting how even rudimentary patterning can culminate into a moving, well-polished product that'll leave you begging for more.
 

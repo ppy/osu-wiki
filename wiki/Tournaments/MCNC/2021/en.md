@@ -83,10 +83,10 @@ The osu!mania 4K Chinese National Cup 2021 was run by various community members.
 | #17 | ::{ flag=CN }:: ::\[Crz\]sunnyxxy::{ user=10333739 } |
 | #18 | ::{ flag=CN }:: ::karzexcc::{ user=5144698 } |
 | #19 | ::{ flag=CN }:: ::Molli::{ user=8893772 } |
-| #20 | ::{ flag=CN }:: ::MsD\1Mafufu::{ user=10884561 } |
+| #20 | ::{ flag=CN }:: ::MsD_Mafufu::{ user=10884561 } |
 | #21 | ::{ flag=CN }:: ::\[1552828\]::{ user=8208288 } |
 | #22 | ::{ flag=CN }:: ::U1d::{ user=10125072 } |
-| #23 | ::{ flag=CN }:: ::\[JbL\]Hx\1032::{ user=11603156 } |
+| #23 | ::{ flag=CN }:: ::\[JbL\]Hx_032::{ user=11603156 } |
 | #24 | ::{ flag=HK }:: ::Yana Feiya::{ user=7802517 } |
 | #25 | ::{ flag=CN }:: ::Littlesheep37::{ user=14742881 } |
 | #26 | ::{ flag=CN }:: ::Sern888::{ user=2089244 } |

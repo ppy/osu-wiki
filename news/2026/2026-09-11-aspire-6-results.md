@@ -75,7 +75,7 @@ This map replicates some of the most popular mods from the osu!(lazer) client in
 | :-- | :-- | --: |
 | ::-Arko::{ user=8802914 } & ::blixys::{ user=13015896 } | **[Camellia - FM Synthesis Experiment](https://osu.ppy.sh/beatmapsets/2608578#osu/5839931)** | 748 |
 | ::Karoo13::{ user=1882522 } & ::Emotive::{ user=12381359 } | [WangleLine - Doinkus](https://osu.ppy.sh/beatmapsets/2608566#osu/5839918) | 323 |
-| ::add222::{ user=14261013 } & ::\1necroplasma::{ user=10805852 } | [Frums (unknown "lambda") - 19ZZ](https://osu.ppy.sh/beatmapsets/2608542#osu/5839885) | 307 |
+| ::add222::{ user=14261013 } & ::_necroplasma::{ user=10805852 } | [Frums (unknown "lambda") - 19ZZ](https://osu.ppy.sh/beatmapsets/2608542#osu/5839885) | 307 |
 | ::fowwo::{ user=4547551 } | [THE ENTIRE EARTH - conic](https://osu.ppy.sh/beatmapsets/2608562#osu/5839914) | 303 |
 | ::TheShadowOfDark::{ user=5795337 } & ::TheMagicAnimals::{ user=17274052 } | [Camellia - (The) Red * Room](https://osu.ppy.sh/beatmapsets/2608555#osu/5839905) | 114 |
 | ::PukPow::{ user=16407679 } & ::Zuika::{ user=10222009 } | [BilliumMoto - HDHR](https://osu.ppy.sh/beatmapsets/2608581#osu/5839941) | 90 |
@@ -88,14 +88,14 @@ This map replicates some of the most popular mods from the osu!(lazer) client in
 | ::Levesile::{ user=12054043 } | [Aquestion - We just wanted to live on the earth](https://osu.ppy.sh/beatmapsets/2608616#osu/5839997) | 50 |
 | ::Jacques::{ user=6599241 } & ::SaYa-::{ user=14628734 } | [onumi - spider tank](https://osu.ppy.sh/beatmapsets/2608593#osu/5839958) | 35 |
 | ::Aspheria::{ user=14781224 } | [Kikuo - Chiri Chiri Juso](https://osu.ppy.sh/beatmapsets/2608561#osu/5839912) | 30 |
-| ::\1MilkTea::{ user=25019291 } | [LeaF - Calamity Fortune](https://osu.ppy.sh/beatmapsets/2608559#osu/5839910) | 29 |
+| ::_MilkTea::{ user=25019291 } | [LeaF - Calamity Fortune](https://osu.ppy.sh/beatmapsets/2608559#osu/5839910) | 29 |
 | ::kuyusu::{ user=11758667 } & ::Apichu::{ user=14967853 } | [Kurubukko - Hometown in Ruins](https://osu.ppy.sh/beatmapsets/2608582#osu/5839942) | 19 |
 | ::StarLite4::{ user=39702838 } | [Laur - Cosmic Blaster](https://osu.ppy.sh/beatmapsets/2608564#osu/5839916) | 16 |
 | ::ItzShadowCraft::{ user=27830521 } | [Dimrain47 - Duality](https://osu.ppy.sh/beatmapsets/2608572#osu/5839925) | 16 |
 | ::Kieost::{ user=17823832 } | [rN - opia](https://osu.ppy.sh/beatmapsets/2608588#osu/5839952) | 14 |
 | ::turt-::{ user=7630990 } & ::trainjumper::{ user=2272587 } | [gladde paling - vleermuis](https://osu.ppy.sh/beatmapsets/2608597#osu/5839964) | 12 |
 | ::AdrianLazer::{ user=10292643 } | [Akiri - Symphony Of The Beginning](https://osu.ppy.sh/beatmapsets/2608595#osu/5839960) | 12 |
-| ::\1-Crazy Boy-\1::{ user=33849459 } | [KNOWER - More Than Just Another Try](https://osu.ppy.sh/beatmapsets/2608587#osu/5839949) | 10 |
+| ::[-Crazy Boy-]::{ user=33849459 } | [KNOWER - More Than Just Another Try](https://osu.ppy.sh/beatmapsets/2608587#osu/5839949) | 10 |
 
 #### Innovative Gameplay
 
@@ -107,7 +107,7 @@ This map replicates some of the most popular mods from the osu!(lazer) client in
 | ::fowwo::{ user=4547551 } | [THE ENTIRE EARTH - conic](https://osu.ppy.sh/beatmapsets/2608562#osu/5839914) | 213 |
 | ::kuyusu::{ user=11758667 } & ::Apichu::{ user=14967853 } | [Kurubukko - Hometown in Ruins](https://osu.ppy.sh/beatmapsets/2608582#osu/5839942) | 203 |
 | ::TheShadowOfDark::{ user=5795337 } & ::TheMagicAnimals::{ user=17274052 } | [Camellia - (The) Red * Room](https://osu.ppy.sh/beatmapsets/2608555#osu/5839905) | 124 |
-| ::add222::{ user=14261013 } & ::\1necroplasma::{ user=10805852 } | [Frums (unknown "lambda") - 19ZZ](https://osu.ppy.sh/beatmapsets/2608542#osu/5839885) | 124 |
+| ::add222::{ user=14261013 } & ::_necroplasma::{ user=10805852 } | [Frums (unknown "lambda") - 19ZZ](https://osu.ppy.sh/beatmapsets/2608542#osu/5839885) | 124 |
 | ::Akbo::{ user=7627061 } | [Frums - Credits](https://osu.ppy.sh/beatmapsets/2608565#osu/5839917) | 98 |
 | ::ItzShadowCraft::{ user=27830521 } | [Dimrain47 - Duality](https://osu.ppy.sh/beatmapsets/2608572#osu/5839925) | 72 |
 | ::LunaUwU::{ user=39084830 } | [Mili - world.execute(me);](https://osu.ppy.sh/beatmapsets/2608618#osu/5840004) | 68 |
@@ -119,8 +119,8 @@ This map replicates some of the most popular mods from the osu!(lazer) client in
 | ::UTAU::{ user=13859320 } | [LeaF - Aleph-0](https://osu.ppy.sh/beatmapsets/2608557#osu/5839908) | 25 |
 | ::amongusrtx30080::{ user=27476898 } | [Frums - Mdrqnxtagon](https://osu.ppy.sh/beatmapsets/2608585#osu/5839947) | 24 |
 | ::Levesile::{ user=12054043 } | [Aquestion - We just wanted to live on the earth](https://osu.ppy.sh/beatmapsets/2608616#osu/5839997) | 13 |
-| ::\1MilkTea::{ user=25019291 } | [LeaF - Calamity Fortune](https://osu.ppy.sh/beatmapsets/2608559#osu/5839910) | 12 |
-| ::\1-Crazy Boy-\1::{ user=33849459 } | [KNOWER - More Than Just Another Try](https://osu.ppy.sh/beatmapsets/2608587#osu/5839949) | 9 |
+| ::_MilkTea::{ user=25019291 } | [LeaF - Calamity Fortune](https://osu.ppy.sh/beatmapsets/2608559#osu/5839910) | 12 |
+| ::[-Crazy Boy-]::{ user=33849459 } | [KNOWER - More Than Just Another Try](https://osu.ppy.sh/beatmapsets/2608587#osu/5839949) | 9 |
 | ::AdrianLazer::{ user=10292643 } | [Akiri - Symphony Of The Beginning](https://osu.ppy.sh/beatmapsets/2608595#osu/5839960) | 8 |
 | ::Kieost::{ user=17823832 } | [rN - opia](https://osu.ppy.sh/beatmapsets/2608588#osu/5839952) | 8 |
 | ::turt-::{ user=7630990 } & ::trainjumper::{ user=2272587 } | [gladde paling - vleermuis](https://osu.ppy.sh/beatmapsets/2608597#osu/5839964) | 5 |
@@ -236,10 +236,10 @@ Challengers of this map should pay careful attention to the position of the note
 | ::Hydria::{ user=808176 } & ::Antalf::{ user=8793773 } | [TWC Sound Team "Strike Back Squad" - BUZZ CUTZ](https://osu.ppy.sh/beatmapsets/2607773#mania/5837297) | 98 |
 | ::Poochylord::{ user=26861379 } | [Camellia - Labyrinth in Kowloon: Walled World](https://osu.ppy.sh/beatmapsets/2607781#mania/5837308) | 39 |
 | ::Alicia::{ user=17258072 } | [Camellia - BAD ACCESS (FROM A MOE MAID)](https://osu.ppy.sh/beatmapsets/2607766#mania/5837286) | 35 |
-| ::APRL03::{ user=11394892 } & ::el\1matero::{ user=23417934 } | [Camellia - KillerToy](https://osu.ppy.sh/beatmapsets/2607778#mania/5837304) | 27 |
+| ::APRL03::{ user=11394892 } & ::el_matero::{ user=23417934 } | [Camellia - KillerToy](https://osu.ppy.sh/beatmapsets/2607778#mania/5837304) | 27 |
 | ::RyanAshazy1::{ user=27581177 } | [Symholic feat. Rina Komatsu - Veil of Ash](https://osu.ppy.sh/beatmapsets/2608389#mania/5839486) | 17 |
 | ::Pastel Kitten::{ user=37602544 } | [Camellia - illegal trap](https://osu.ppy.sh/beatmapsets/2607775#mania/5837299) | 17 |
-| ::Kat\1explodes::{ user=26376228 } & ::hello\1lol420::{ user=27609690 } | [Akiri - ATOMIC RAILGUN](https://osu.ppy.sh/beatmapsets/2607765#mania/5837285) | 13 |
+| ::Kat_explodes::{ user=26376228 } & ::hello_lol420::{ user=27609690 } | [Akiri - ATOMIC RAILGUN](https://osu.ppy.sh/beatmapsets/2607765#mania/5837285) | 13 |
 
 ## The future of Aspire
 

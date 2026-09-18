@@ -28,7 +28,7 @@ Le dernier objet doit toujours être un slider.
 
 *Aussi connu sous le nom de : **Flower Formation***
 
-Nominateur : ::0\1o::{ user=56708 }
+Nominateur : ::0_o::{ user=56708 }
 
 Les **flower combos** consistent en 5 cercles ou plus qui sont tous placés autour d'un point central.
 Le point central peut être un cercle ou un slider.
@@ -161,7 +161,7 @@ L'ordre des 3 cercles et la taille du triangle n'ont pas d'importance.
 
 *Aussi connu sous le nom de : **Zig-Zag Formation***
 
-Nominateur : ::0\1o::{ user=56708 }
+Nominateur : ::0_o::{ user=56708 }
 
 Le **slider en zig-zag** sont constitués de 1/2 slider disposés en zig-zag vers l'intérieur.
 

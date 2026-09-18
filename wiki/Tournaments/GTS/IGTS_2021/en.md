@@ -73,7 +73,7 @@ The Intermediate Global Taiko Showdown 2021 was run by various community members
 | ::{ flag=BR }:: | **Brazil** | **::KillerfishyOsu::{ user=7347925 }**, ::flr::{ user=4689256 }, ::gabrielmuniz::{ user=4598907 }, ::Pandilina::{ user=14772070 } |
 | ::{ flag=CA }:: | **Canada** | **::Senko-san::{ user=2065771 }**, ::bexs::{ user=3938388 }, ::Calipsis::{ user=7143062 }, ::Kikoboy::{ user=10980668 }, ::Sinaeb::{ user=1576095 } |
 | ::{ flag=CL }:: | **Chile** | **::JaleaSenpai::{ user=9355383 }**, ::Miguel Mella::{ user=16818802 }, ::Reaperwh::{ user=10456585 }, ::Reviere37::{ user=11055961 } |
-| ::{ flag=CN }:: | **China** | **::Jahmsy::{ user=17448064 }**, ::\[Lily\_White\]::{ user=12749779 }, ::Lubei\101::{ user=11692528 }, ::NGname::{ user=13679148 }, ::WLYMinato::{ user=12703319 } |
+| ::{ flag=CN }:: | **China** | **::Jahmsy::{ user=17448064 }**, ::\[Lily\_White\]::{ user=12749779 }, ::Lubei_01::{ user=11692528 }, ::NGname::{ user=13679148 }, ::WLYMinato::{ user=12703319 } |
 | ::{ flag=CO }:: | **Colombia** | **::Carlosflow::{ user=11940767 }**, ::AsashiUwU::{ user=16972634 }, ::Elperaman::{ user=8352567 }, ::JhonDarkness::{ user=9116107 }, ::VeggieBun::{ user=16874279 } |
 | ::{ flag=CZ }:: | **Czech Republic** | **::emily\_::{ user=8438530 }**, ::Sir Sasekim::{ user=4789105 }, ::Spinasson::{ user=21448085 } |
 | ::{ flag=FI }:: | **Finland** | **::Mesda::{ user=5049430 }**, ::Mazzuli500::{ user=10648818 } |
@@ -133,7 +133,7 @@ This competition has come to an end and resulted in the following podium:
 | Placing | Team |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: **United States** (**::Yujki::{ user=14987094 }**, ::Max\_Prm::{ user=14714592 }, ::-Schwarts::{ user=4673649 }, ::SlipperyPickle::{ user=11969691 }, ::SolaEclipse::{ user=6621158 }) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CN }:: **China** (**::Jahmsy::{ user=17448064 }**, ::\[Lily\_White\]::{ user=12749779 }, ::Lubei\101::{ user=11692528 }, ::NGname::{ user=13679148 }, ::WLYMinato::{ user=12703319 }) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CN }:: **China** (**::Jahmsy::{ user=17448064 }**, ::\[Lily\_White\]::{ user=12749779 }, ::Lubei_01::{ user=11692528 }, ::NGname::{ user=13679148 }, ::WLYMinato::{ user=12703319 }) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=SG }:: **Singapore** (**::\_gt::{ user=8301957 }**, ::errorgorn::{ user=12921469 }, ::I luv loleez::{ user=18346655 }, ::MattrexDark::{ user=7171110 }, ::TakoJoe::{ user=13883186 }) |
 
 ## Mappools

@@ -46,7 +46,7 @@ A [página de grupo da Equipe de Moderação Global](https://osu.ppy.sh/groups/4
 
 | Nome | Línguas adicionais | Área de foco |
 | :-- | :-- | :-- |
-| ::{ flag=MY }:: ::- \1bibitaru\1 -::{ user=4482419 } | Chinês, Malaio | Moderação de chat |
+| ::{ flag=MY }:: ::- [bibitaru] -::{ user=4482419 } | Chinês, Malaio | Moderação de chat |
 | ::{ flag=DE }:: ::- Felix::{ user=8503985 } | Alemão | Moderação de chat |
 | ::{ flag=US }:: ::abraker::{ user=4635891 } |  | Moderação de fórum |
 | ::{ flag=US }:: ::Chaos::{ user=2628870 } |  | Moderação de chat, moderação de beatmap |
@@ -108,7 +108,7 @@ A [página de grupo da Equipe de Moderação Global](https://osu.ppy.sh/groups/4
 | `#balkan` | [Balkan](https://osu.ppy.sh/community/forums/topics/83962) | ::{ flag=AT }:: ::Stefan::{ user=626907 } |
 | `#bulgarian` |  |  |
 | `#cantonese` |  | ::{ flag=HK }:: ::kanpakyin::{ user=394326 } |
-| `#chinese` | [中文](https://osu.ppy.sh/community/forums/25) | ::{ flag=MY }:: ::- \1bibitaru\1 -::{ user=4482419 }, ::{ flag=TW }:: ::Loneight::{ user=663131 }, ::{ flag=HK }:: ::kanpakyin::{ user=394326 }, ::{ flag=TW }:: ::spboxer3::{ user=197974 } |
+| `#chinese` | [中文](https://osu.ppy.sh/community/forums/25) | ::{ flag=MY }:: ::- [bibitaru] -::{ user=4482419 }, ::{ flag=TW }:: ::Loneight::{ user=663131 }, ::{ flag=HK }:: ::kanpakyin::{ user=394326 }, ::{ flag=TW }:: ::spboxer3::{ user=197974 } |
 | `#czechoslovak` |  |  |
 | `#dutch` | [Nederlands](https://osu.ppy.sh/community/forums/69) | ::{ flag=NL }:: ::n0ah::{ user=3086393 } |
 | `#english` |  | *Todos os moderadores* |

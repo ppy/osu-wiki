@@ -11,7 +11,7 @@ tags:
 
 ![JHC 2024 banner](img/JHC-2024-banner.jpg)
 
-The **JHC 2024** (***Jack House Cup 2024***) was a team–based osu!mania 4K tournament hosted by ::{ flag=CN }:: ::Blue\1Potion::{ user=13094831 } and ::{ flag=CN }:: ::\[GB\]GanyuAngel::{ user=27233308 }. It was the first instalment of the Jack House Cup.
+The **JHC 2024** (***Jack House Cup 2024***) was a team–based osu!mania 4K tournament hosted by ::{ flag=CN }:: ::Blue_Potion::{ user=13094831 } and ::{ flag=CN }:: ::\[GB\]GanyuAngel::{ user=27233308 }. It was the first instalment of the Jack House Cup.
 
 ## Tournament schedule
 
@@ -45,13 +45,13 @@ For solo teams, the prize of osu!supporter was doubled.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=CN }:: ::Blue\1Potion::{ user=13094831 }, ::{ flag=CN }:: ::\[GB\]GanyuAngel::{ user=27233308 } |
-| Mappool selector | ::{ flag=CN }:: ::Blue\1Potion::{ user=13094831 }, ::{ flag=CN }:: ::ieFaH::{ user=24243177 }, ::{ flag=CN }:: ::yks1::{ user=26030234 } |
+| Host | ::{ flag=CN }:: ::Blue_Potion::{ user=13094831 }, ::{ flag=CN }:: ::\[GB\]GanyuAngel::{ user=27233308 } |
+| Mappool selector | ::{ flag=CN }:: ::Blue_Potion::{ user=13094831 }, ::{ flag=CN }:: ::ieFaH::{ user=24243177 }, ::{ flag=CN }:: ::yks1::{ user=26030234 } |
 | Mappool helper | ::{ flag=CN }:: ::\[Crz\]Leaves\_::{ user=9644708 }, ::{ flag=CN }:: ::\[GB\]GanyuAngel::{ user=27233308 }, ::{ flag=CN }:: ::\[GB\]nyasun::{ user=16277321 }, ::{ flag=CN }:: ::\[GB\]sherweifa::{ user=17457562 }, ::{ flag=CN }:: ::\[GB\]Tyris::{ user=10497659 }, ::{ flag=CN }:: ::\[GB\]V1do::{ user=17527968 }, ::{ flag=CN }:: ::\[Paw\]doudou0310::{ user=13478805 }, ::{ flag=CN }:: ::\[Paw\]Komane\_63::{ user=7143444 }, ::{ flag=CN }:: ::CaptainLan::{ user=18483399 }, ::{ flag=CN }:: ::CH3OHM::{ user=14066511 }, ::{ flag=CN }:: ::crazyrenard::{ user=30325323 }, ::{ flag=CN }:: ::Dreamemory::{ user=35406589 }, ::{ flag=CN }:: ::Glorionoly::{ user=8957029 }, ::{ flag=CN }:: ::Idkwto::{ user=32379983 }, ::{ flag=CN }:: ::Suirent::{ user=10687430 }, ::{ flag=CN }:: ::To2::{ user=26683857 }, ::{ flag=CN }:: ::Ycloki::{ user=10861624 }, ::{ flag=CN }:: ::YuEast 2018::{ user=13953619 }, ::{ flag=CN }:: ::yzmengx::{ user=17721427 } |
 | Referee | ::{ flag=CN }:: ::\[GB\]ChickenGold::{ user=16586663 }, ::{ flag=CN }:: ::\[GB\]GanyuAngel::{ user=27233308 }, ::{ flag=CN }:: ::\[GB\]Mafufu::{ user=10884561 }, ::{ flag=CN }:: ::\[GB\]R\-Trigger::{ user=25308131 }, ::{ flag=CN }:: ::\[GB\]Rush\_FTK::{ user=3046856 }, ::{ flag=CN }:: ::\[GB\]sherweifa::{ user=17457562 }, ::{ flag=US }:: ::akace100::{ user=9308128 }, ::{ flag=CN }:: ::Blue\_Potion::{ user=13094831 }, ::{ flag=CN }:: ::cdwcgt::{ user=14721101 }, ::{ flag=PE }:: ::ERA Xuste::{ user=17989444 }, ::{ flag=CN }:: ::TianRS::{ user=23929228 }, ::{ flag=CN }:: ::yks1::{ user=26030234 }, ::{ flag=CN }:: ::YuEast 2018::{ user=13953619 } |
-| Commentator | ::{ flag=CN }:: ::\[Crz\]Leaves\_::{ user=9644708 }, ::{ flag=CN }:: ::\[GB\]ChickenGold::{ user=16586663 }, ::{ flag=CN }:: ::\[GB\]Rush\1FTK::{ user=3046856 }, ::{ flag=CN }:: ::\[GB\]Tyris::{ user=10497659 }, ::{ flag=CN }:: ::Blue\1Potion::{ user=13094831 }, ::{ flag=CN }:: ::cdwcgt::{ user=14721101 }, ::{ flag=CN }:: ::MGU1::{ user=27192847 }, ::{ flag=CN }:: ::Ycloki::{ user=10861624 } |
-| Streamer | ::{ flag=CN }:: ::\[GB\]ChickenGold::{ user=16586663 }, ::{ flag=CN }:: ::\[GB\]Rush\1FTK::{ user=3046856 }, ::{ flag=CN }:: ::\[GB\]Tyris::{ user=10497659 }, ::{ flag=CN }:: ::Blue\1Potion::{ user=13094831 }, ::{ flag=CN }:: ::cdwcgt::{ user=14721101 } |
-| Statistician & wiki editor | ::{ flag=CN }:: ::\[GB\]GanyuAngel::{ user=27233308 }, ::{ flag=CN }:: ::\[GB\]Rush\1FTK::{ user=3046856 }, ::{ flag=CN }:: ::Blue\1Potion::{ user=13094831 }, ::{ flag=CN }:: ::cdwcgt::{ user=14721101 }, ::{ flag=CN }:: ::YuEast 2018::{ user=13953619 } |
+| Commentator | ::{ flag=CN }:: ::\[Crz\]Leaves\_::{ user=9644708 }, ::{ flag=CN }:: ::\[GB\]ChickenGold::{ user=16586663 }, ::{ flag=CN }:: ::\[GB\]Rush_FTK::{ user=3046856 }, ::{ flag=CN }:: ::\[GB\]Tyris::{ user=10497659 }, ::{ flag=CN }:: ::Blue_Potion::{ user=13094831 }, ::{ flag=CN }:: ::cdwcgt::{ user=14721101 }, ::{ flag=CN }:: ::MGU1::{ user=27192847 }, ::{ flag=CN }:: ::Ycloki::{ user=10861624 } |
+| Streamer | ::{ flag=CN }:: ::\[GB\]ChickenGold::{ user=16586663 }, ::{ flag=CN }:: ::\[GB\]Rush_FTK::{ user=3046856 }, ::{ flag=CN }:: ::\[GB\]Tyris::{ user=10497659 }, ::{ flag=CN }:: ::Blue_Potion::{ user=13094831 }, ::{ flag=CN }:: ::cdwcgt::{ user=14721101 } |
+| Statistician & wiki editor | ::{ flag=CN }:: ::\[GB\]GanyuAngel::{ user=27233308 }, ::{ flag=CN }:: ::\[GB\]Rush_FTK::{ user=3046856 }, ::{ flag=CN }:: ::Blue_Potion::{ user=13094831 }, ::{ flag=CN }:: ::cdwcgt::{ user=14721101 }, ::{ flag=CN }:: ::YuEast 2018::{ user=13953619 } |
 | Designer | ::{ flag=CN }:: ::AZSDSC::{ user=17895656 } |
 
 ## Links

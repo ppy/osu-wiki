@@ -40,7 +40,7 @@ The TAG2 Tournament 2019 was run by various community members.
 | Host | ::{ flag=FI }:: ::Mara::{ user=194294 }, ::{ flag=GB }:: ::Malteser::{ user=5218178 } |
 | Co-host | ::{ flag=FI }:: ::Lefafel::{ user=2295850 }, ::{ flag=GB }:: ::Yazzehh::{ user=7068973 } |
 | Mappool selector | ::{ flag=CA }:: ::Legless::{ user=3224243 }, ::{ flag=GB }:: ::Doughy::{ user=5275937 }, ::{ flag=FI }:: ::Mara::{ user=194294 }, ::{ flag=GB }:: ::Malteser::{ user=5218178 }, ::{ flag=US }:: ::Junjou::{ user=7077648 } |
-| Referee | ::{ flag=GB }:: ::Yazzehh::{ user=7068973 }, ::{ flag=GB }:: ::Malteser::{ user=5218178 }, ::{ flag=FI }:: ::Lefafel::{ user=2295850 }, ::{ flag=TR }:: ::112servis::{ user=3953470 }, ::{ flag=BR }:: ::Flow-::{ user=4222824 }, ::{ flag=PL }:: ::HAEN24::{ user=4390077 }, ::{ flag=VN }:: ::steve\104\_::{ user=10852911 }, ::{ flag=FI }:: ::Laurakko::{ user=7253731 }, ::{ flag=MY }:: ::Stupid Idiot::{ user=8355574 }, ::{ flag=US }:: ::YoshiLover456::{ user=6843383 }, ::{ flag=GR }:: ::nikolomara::{ user=10077264 }, ::{ flag=CH }:: ::Icerite::{ user=7226287 } |
+| Referee | ::{ flag=GB }:: ::Yazzehh::{ user=7068973 }, ::{ flag=GB }:: ::Malteser::{ user=5218178 }, ::{ flag=FI }:: ::Lefafel::{ user=2295850 }, ::{ flag=TR }:: ::112servis::{ user=3953470 }, ::{ flag=BR }:: ::Flow-::{ user=4222824 }, ::{ flag=PL }:: ::HAEN24::{ user=4390077 }, ::{ flag=VN }:: ::steve_04\_::{ user=10852911 }, ::{ flag=FI }:: ::Laurakko::{ user=7253731 }, ::{ flag=MY }:: ::Stupid Idiot::{ user=8355574 }, ::{ flag=US }:: ::YoshiLover456::{ user=6843383 }, ::{ flag=GR }:: ::nikolomara::{ user=10077264 }, ::{ flag=CH }:: ::Icerite::{ user=7226287 } |
 | Statistician | ::{ flag=TR }:: ::oralekin::{ user=7631823 }, ::{ flag=NO }:: ::YokesPai::{ user=6399568 } |
 | Designer | ::{ flag=GB }:: ::Doomsday is Bad::{ user=3481378 }, ::{ flag=FI }:: ::Mara::{ user=194294 } |
 
@@ -64,29 +64,29 @@ The TAG2 Tournament 2019 was run by various community members.
 | **Pats** | ::{ flag=PL }:: ::Hedzio::{ user=8028264 }, ::{ flag=PL }:: ::Reazen::{ user=3053670 }, ::{ flag=PL }:: ::Pawlyk here::{ user=2095976 } |
 | **Fat sack of cat crap** | ::{ flag=NZ }:: ::HashBrownDoyler::{ user=5975025 }, ::{ flag=US }:: ::asneakyfatcat::{ user=5458499 } |
 | **big gem slappers** | ::{ flag=LT }:: ::shineroo::{ user=4360718 }, ::{ flag=NL }:: ::Lazer::{ user=1799925 } |
-| **A League of Our Own** | ::{ flag=NZ }:: ::Blujae::{ user=10613885 }, ::{ flag=US }:: ::\1windex::{ user=7107711 } |
-| **Order of the Black Knights** | ::{ flag=RU }:: ::AD\1GOD::{ user=7121899 }, ::{ flag=RU }:: ::Zelepupka::{ user=10324595 }, ::{ flag=RU }:: ::Liswiera::{ user=9356954 } |
+| **A League of Our Own** | ::{ flag=NZ }:: ::Blujae::{ user=10613885 }, ::{ flag=US }:: ::_windex::{ user=7107711 } |
+| **Order of the Black Knights** | ::{ flag=RU }:: ::AD_GOD::{ user=7121899 }, ::{ flag=RU }:: ::Zelepupka::{ user=10324595 }, ::{ flag=RU }:: ::Liswiera::{ user=9356954 } |
 | **Flyg slem** | ::{ flag=SE }:: ::Reedkatt::{ user=8335950 }, ::{ flag=SE }:: ::FlySlime::{ user=3876402 } |
 | **NumZyo009** | ::{ flag=US }:: ::Num5119::{ user=5198060 }, ::{ flag=US }:: ::BearZyo::{ user=6116759 }, ::{ flag=US }:: ::Ninjaadrian009::{ user=7017724 } |
 | **@Zenzi#8087 CS?** | ::{ flag=DE }:: ::Bakugo-::{ user=4990127 }, ::{ flag=DE }:: ::Zenzi::{ user=7307130 }, ::{ flag=DE }:: ::Sylvarus::{ user=4505918 } |
-| **You’re cute uwu** | ::{ flag=DE }:: ::\1Lucky\1::{ user=1303685 }, ::{ flag=DE }:: ::DokiPon::{ user=3283468 }, ::{ flag=IS }:: ::davidercool::{ user=4043420 } |
+| **You’re cute uwu** | ::{ flag=DE }:: ::[Lucky]::{ user=1303685 }, ::{ flag=DE }:: ::DokiPon::{ user=3283468 }, ::{ flag=IS }:: ::davidercool::{ user=4043420 } |
 | **taiko** | ::{ flag=US }:: ::closed::{ user=5116922 }, ::{ flag=US }:: ::dragonworm::{ user=11464752 } |
-| **:sunflower:** | ::{ flag=FR }:: ::TLQ\1Yoshii::{ user=7157133 }, ::{ flag=GB }:: ::DeltaZero::{ user=6472042 }, ::{ flag=AU }:: ::loveleft::{ user=9240047 } |
+| **:sunflower:** | ::{ flag=FR }:: ::TLQ_Yoshii::{ user=7157133 }, ::{ flag=GB }:: ::DeltaZero::{ user=6472042 }, ::{ flag=AU }:: ::loveleft::{ user=9240047 } |
 | **JMIH TEAM** | ::{ flag=RU }:: ::slivkigames1::{ user=11240921 }, ::{ flag=RU }:: ::HOMEPON::{ user=11978105 }, ::{ flag=KZ }:: ::d4rkymode::{ user=12743301 } |
 | **deranker fan club** | ::{ flag=CA }:: ::trevrasher::{ user=3893420 }, ::{ flag=PL }:: ::Bartek22830::{ user=6404027 }, ::{ flag=GB }:: ::majoreh::{ user=7959222 } |
 | **Thank You** | ::{ flag=US }:: ::Apraxia::{ user=4194445 }, ::{ flag=IL }:: ::Xilver15::{ user=3099689 }, ::{ flag=US }:: ::Conyoh::{ user=4844496 } |
 | **idk** | ::{ flag=PL }:: ::pajwoj::{ user=4899393 }, ::{ flag=GB }:: ::Nega::{ user=3181083 }, ::{ flag=LT }:: ::PainSinger::{ user=697843 } |
 | **sleepy squad** | ::{ flag=CA }:: ::PayneTrain::{ user=10275038 }, ::{ flag=CA }:: ::Saltystick::{ user=2165408 } |
-| **HibikiLover** | ::{ flag=HK }:: ::\1- Hibiki-\1::{ user=5413624 }, ::{ flag=HK }:: ::\1-Hibiki -\1::{ user=9313951 } |
+| **HibikiLover** | ::{ flag=HK }:: ::[- Hibiki-]::{ user=5413624 }, ::{ flag=HK }:: ::[-Hibiki -]::{ user=9313951 } |
 | **Lowkey Steez** | ::{ flag=AU }:: ::Jordan The Bear::{ user=7477458 }, ::{ flag=AU }:: ::uyghti::{ user=3641404 }, ::{ flag=AU }:: ::Monk Gyatso::{ user=4012086 } |
-| **Let’s Obtain This Grain** | ::{ flag=US }:: ::Evan1::{ user=11951699 }, ::{ flag=US }:: ::Adan::{ user=8130565 }, ::{ flag=US }:: ::tux\1frog::{ user=11951702 } |
+| **Let’s Obtain This Grain** | ::{ flag=US }:: ::Evan1::{ user=11951699 }, ::{ flag=US }:: ::Adan::{ user=8130565 }, ::{ flag=US }:: ::tux_frog::{ user=11951702 } |
 | **De drie Jo's** | ::{ flag=NL }:: ::Mr HeliX::{ user=2330619 }, ::{ flag=NL }:: ::wooz::{ user=6888206 }, ::{ flag=NL }:: ::Damnjelly::{ user=1666355 } |
 | **Double Siusiaczki** | ::{ flag=PL }:: ::Szago::{ user=2827078 }, ::{ flag=PL }:: ::-yeXa-::{ user=10344658 } |
 | **Splendid Hentai Booty** | ::{ flag=FI }:: ::Urnukka::{ user=4765619 }, ::{ flag=DE }:: ::LwL::{ user=3556856 }, ::{ flag=SE }:: ::Ham Solo::{ user=3338630 } |
 | **Souljaboii** | ::{ flag=GB }:: ::coulrulner1::{ user=13318606 }, ::{ flag=GB }:: ::Quantifiable::{ user=7102193 } |
 | **흠** | ::{ flag=KR }:: ::Mya::{ user=2868952 }, ::{ flag=KR }:: ::Gambler::{ user=11415230 }, ::{ flag=KR }:: ::Ansol::{ user=7302146 } |
 | **Birkano** | ::{ flag=AR }:: ::Maariianoo::{ user=6371395 }, ::{ flag=AR }:: ::-Birke-::{ user=3265658 } |
-| **Miss Generators** | ::{ flag=NL }:: ::Turbotondel::{ user=9930215 }, ::{ flag=NL }:: ::PatyYe-::{ user=3929829 }, ::{ flag=BG }:: ::\1Ted\1::{ user=9717848 } |
+| **Miss Generators** | ::{ flag=NL }:: ::Turbotondel::{ user=9930215 }, ::{ flag=NL }:: ::PatyYe-::{ user=3929829 }, ::{ flag=BG }:: ::[Ted]::{ user=9717848 } |
 | **invandrarna** | ::{ flag=SE }:: ::zhichu::{ user=4766629 }, ::{ flag=DE }:: ::silverin0::{ user=9099735 }, ::{ flag=SE }:: ::Lord Grim::{ user=6788374 } |
 | **Coventry Convent** | ::{ flag=GB }:: ::Elit3::{ user=10086758 }, ::{ flag=GB }:: ::Rumon::{ user=4000985 } |
 | **2 Autis** | ::{ flag=ID }:: ::Zexen::{ user=9102451 }, ::{ flag=ID }:: ::NoVaLian::{ user=6459827 }, ::{ flag=ID }:: ::Seox::{ user=3793938 } |
@@ -100,7 +100,7 @@ The TAG2 Tournament 2019 was run by various community members.
 | **short breads** | ::{ flag=US }:: ::Tekkito::{ user=7075211 }, ::{ flag=US }:: ::theking1212::{ user=3205313 }, ::{ flag=US }:: ::ikyy::{ user=10292384 } |
 | **FutaLovers** | ::{ flag=CO }:: ::ElMick33::{ user=5458323 }, ::{ flag=CO }:: ::NecropedoSS::{ user=6273616 }, ::{ flag=CO }:: ::cahsun::{ user=6043627 } |
 | **egg** | ::{ flag=US }:: ::Rysenen::{ user=8530170 }, ::{ flag=CA }:: ::FluffyEcho::{ user=8543980 }, ::{ flag=US }:: ::biscuithime::{ user=6567833 } |
-| **Furfags OwO** | ::{ flag=ES }:: ::RivenXLukario::{ user=9582556 }, ::{ flag=DE }:: ::Umbre::{ user=2766034 }, ::{ flag=BR }:: ::\1 Max \1::{ user=8162936 } |
+| **Furfags OwO** | ::{ flag=ES }:: ::RivenXLukario::{ user=9582556 }, ::{ flag=DE }:: ::Umbre::{ user=2766034 }, ::{ flag=BR }:: ::[ Max ]::{ user=8162936 } |
 | **le Pepega** | ::{ flag=RU }:: ::HullPerse::{ user=9469381 }, ::{ flag=NO }:: ::Jonbaron::{ user=4360885 }, ::{ flag=SE }:: ::momo015::{ user=5825443 } |
 
 ## Podium

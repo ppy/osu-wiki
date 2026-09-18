@@ -425,7 +425,7 @@ Do you think you have what it takes to face the best players in the world? Is th
 180 – 207 BPM, 1:52 | 5.41★, 5.60★, 5.79★, 5.93★\
 *description written by ::Silhoueska Elze::{ user=11517895 }*
 
-Technicality, and long notes? Well, best to ask \::\1Crz\]FolAH1217::{ user=6232458 } for those kinds of maps, as he is notorious for making difficult tournament maps for the LN and Hybrid category. [Retrospective Arabesque](https://osu.ppy.sh/beatmapsets/1741640#mania/3560499) is certainly no exception, as this on 1.15x was featured in the [4K Mania World Cup 2022 Finals pool](/wiki/Tournaments/MWC/2022_4K#finals).
+Technicality, and long notes? Well, best to ask \::[Crz\]FolAH1217::{ user=6232458 } for those kinds of maps, as he is notorious for making difficult tournament maps for the LN and Hybrid category. [Retrospective Arabesque](https://osu.ppy.sh/beatmapsets/1741640#mania/3560499) is certainly no exception, as this on 1.15x was featured in the [4K Mania World Cup 2022 Finals pool](/wiki/Tournaments/MWC/2022_4K#finals).
 
 That is to say however, even at base rate, that this proves to be a daunting challenge especially for players who are unprepared to see this beatmap. What makes this really challenging is the presence of minijacks along with very technical Long Note patterns, plus the numerous rolls and graces that this map also has to offer.
 

@@ -27,7 +27,7 @@ The osu!mania 7K World Cup has reached a very decided conclusion! In the communi
 
 ## Scorewatch: February Week 2 (With Scorewatch Patrol)
 
-::\1Toy\1s our boy::{ user=4650315 } managed to reverse choke [DragonForce - Defenders](https://osu.ppy.sh/beatmaps/718156?m=0) with a HR 98.41% 2427 max combo play, setting a 593pp score. This basically meant he lost about 72pp, which is absolutely heart breaking, but a very impressive score nonetheless. Only 3 players have managed a better HR accuracy than him, and 2 have a higher pp score. Check it out, it's nuts.
+::[Toy]s our boy::{ user=4650315 } managed to reverse choke [DragonForce - Defenders](https://osu.ppy.sh/beatmaps/718156?m=0) with a HR 98.41% 2427 max combo play, setting a 593pp score. This basically meant he lost about 72pp, which is absolutely heart breaking, but a very impressive score nonetheless. Only 3 players have managed a better HR accuracy than him, and 2 have a higher pp score. Check it out, it's nuts.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GgXWCfMpEgc" frameborder="0" allowfullscreen></iframe>
 

@@ -126,7 +126,7 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 | ::{ flag=AU }:: ::Syrin::{ user=5701575 } | Creatore di [PerformancePlus](https://syrin.me/pp+/) e [osu!chan](https://osuchan.syrin.me) |
 | ::{ flag=SG }:: ::Raveille::{ user=1388767 } | Sforzi eccezionali nella produzione e pubblicazione del progetto Scorewatch |
 | ::{ flag=FR }:: ::ThePooN::{ user=718454 } | Sforzi eccezionali nella produzione e pubblicazione del progetto Scorewatch |
-| ::{ flag=US }:: ::MegaApple\1Pi::{ user=2148208 } | Sforzi eccezionali nel mandare avanti il progetto osu! wiki con molte revisioni, rielaborazioni e revisioni |
+| ::{ flag=US }:: ::MegaApple_Pi::{ user=2148208 } | Sforzi eccezionali nel mandare avanti il progetto osu! wiki con molte revisioni, rielaborazioni e revisioni |
 | ::{ flag=PL }:: ::TPGPL::{ user=3944705 } | Caposaldo del progetto osu! wiki ed eccezionali contributi nel corso gli anni |
 
 ### 2019
@@ -202,7 +202,7 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 | ::{ flag=DE }:: ::hallowatcher::{ user=1874761 } | Eccezionali contributi agli eventi della community e sviluppo |
 | ::{ flag=GB }:: ::mangomizer::{ user=1893718 } | Eccezionali contributi ai World Cup ed eventi della community |
 | ::{ flag=DE }:: ::Lasse::{ user=896613 } | Eccezionali contributi alla scena mapping e modding |
-| ::{ flag=PL }:: ::spaceman\1atlas::{ user=3035836 } | Eccezionali contributi allo sviluppo di osu! attraverso molti progetti |
+| ::{ flag=PL }:: ::spaceman_atlas::{ user=3035836 } | Eccezionali contributi allo sviluppo di osu! attraverso molti progetti |
 | ::{ flag=DE }:: ::RockRoller::{ user=8388854 } | Eccezionali contributi alla scena skinning e alla moderazione di osu! |
 | ::{ flag=US }:: ::I Must Decrease::{ user=2773526 } | Eccezionali contributi al mantenimento e lo sviluppo dei punteggi |
 | ::{ flag=US }:: ::this1neguy::{ user=1797189 } | Eccezionali contributi alla World Cup e alla scena torneistica della community |

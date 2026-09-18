@@ -118,7 +118,7 @@ Kontributor komunitas berbeda dengan [osu! Alumni](/wiki/People/osu!_Alumni), ya
 | ::{ flag=AU }:: ::Syrin::{ user=5701575 } | Pengembang PerformancePlus dan osu!chan |
 | ::{ flag=SG }:: ::Raveille::{ user=1388767 } | Kontribusi luar biasa terhadap produksi dan publikasi proyek Scorewatch |
 | ::{ flag=FR }:: ::ThePooN::{ user=718454 } | Kontribusi luar biasa terhadap produksi dan publikasi proyek Scorewatch |
-| ::{ flag=US }:: ::MegaApple\1Pi::{ user=2148208 } | Kontribusi luar biasa terhadap kemajuan proyek osu! wiki melalui revisi, pengerjaan ulang, dan ulasan berbagai artikel yang tak terhitung jumlahnya |
+| ::{ flag=US }:: ::MegaApple_Pi::{ user=2148208 } | Kontribusi luar biasa terhadap kemajuan proyek osu! wiki melalui revisi, pengerjaan ulang, dan ulasan berbagai artikel yang tak terhitung jumlahnya |
 | ::{ flag=PL }:: ::TPGPL::{ user=3944705 } | Fondasi utama proyek osu! wiki dan berbagai kontribusi lainnya yang luar biasa dari tahun ke tahun |
 
 ## 2019
@@ -194,7 +194,7 @@ Kontributor komunitas berbeda dengan [osu! Alumni](/wiki/People/osu!_Alumni), ya
 | ::{ flag=DE }:: ::Hallowatcher::{ user=1874761 } | Kontribusi luar biasa terhadap berbagai acara dan pengembangan komunitas |
 | ::{ flag=GB }:: ::mangomizer::{ user=1893718 } | Kontribusi luar biasa terhadap penyelenggaraan World Cup dan berbagai acara komunitas |
 | ::{ flag=DE }:: ::Lasse::{ user=896613 } | Kontribusi luar biasa terhadap kancah mapping dan modding |
-| ::{ flag=PL }:: ::spaceman\1atlas::{ user=3035836 } | Kontribusi luar biasa terhadap pengembangan osu! melalui berbagai proyek |
+| ::{ flag=PL }:: ::spaceman_atlas::{ user=3035836 } | Kontribusi luar biasa terhadap pengembangan osu! melalui berbagai proyek |
 | ::{ flag=DE }:: ::RockRoller::{ user=8388854 } | Kontribusi luar biasa terhadap kancah skinning dan moderasi osu! |
 | ::{ flag=US }:: ::I Must Decrease::{ user=2773526 } | Kontribusi luar biasa terhadap pemeliharaan dan pengembangan sistem skor |
 | ::{ flag=US }:: ::this1neguy::{ user=1797189 } | Kontribusi luar biasa terhadap penyelenggaraan World Cup dan turnamen komunitas |

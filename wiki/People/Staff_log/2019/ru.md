@@ -32,7 +32,7 @@
 - ::Hanasaka Yui::{ user=6443117 }
 - ::Sparhten::{ user=7601720 }
 - ::Hinsvar::{ user=1249323 }
-- ::\1Epreus::{ user=7342798 }
+- ::_Epreus::{ user=7342798 }
 - ::Yugu::{ user=3161834 }
 - ::Testo::{ user=5200881 }
 - ::Zelq::{ user=8953955 }
@@ -107,7 +107,7 @@
 ### Добавления в Beatmap Nominator
 
 - ::Unpredictable::{ user=7560872 } (2019-05-11)
-- ::\1 A v a l o n \1::{ user=4632359 } (2019-05-11)
+- ::[ A v a l o n ]::{ user=4632359 } (2019-05-11)
 - ::bite you death::{ user=6398464 } (2019-05-11)
 - ::Nao Tomori::{ user=5364763 } (2019-05-11)
 - ::Absolute Zero::{ user=4847256 } (2019-05-13)
@@ -150,7 +150,7 @@
 - ::celerih::{ user=4696296 } - уход на покой (2019-06-23)
 - ::MBomb::{ user=3071175 } - уход на покой (2019-06-23)
 - ::Greenshell::{ user=8693851 } - уход на покой (2019-06-26)
-- ::\1Epreus::{ user=7342798 } - уход на покой (2019-06-29)
+- ::_Epreus::{ user=7342798 } - уход на покой (2019-06-29)
 
 ## Июль
 
@@ -197,7 +197,7 @@
 
 ## Сентябрь
 
-- Перемещение ::Zero\1\1wind::{ user=1822830 } из Global Moderation Team в osu! Alumni (2019-09-04)
+- Перемещение ::Zero__wind::{ user=1822830 } из Global Moderation Team в osu! Alumni (2019-09-04)
 - Перемещение ::Yason::{ user=2574392 } из Global Moderation Team в osu! Alumni (2019-09-04)
 - Перемещение ::Seto Kousuke::{ user=2857314 } из Beatmap Nominators в Nomination Assessment Team (2019-09-06)
 - Перемещение ::ZiRoX::{ user=200768 } из Nomination Assessment Team в osu! Alumni (2019-09-10)
@@ -228,7 +228,7 @@
 
 ## Октябрь
 
-- Добавление ::- \1bibitaru\1 -::{ user=4482419 } в Global Moderation Team (2019-10-05)
+- Добавление ::- [bibitaru] -::{ user=4482419 } в Global Moderation Team (2019-10-05)
 - Добавление ::Loneight::{ user=663131 } в Global Moderation Team (2019-10-05)
 - Перемещение ::Leniane::{ user=7138602 } из Beatmap Nominators в Nomination Assessment Team (2019-10-15)
 - Перемещение ::Maxus::{ user=4335785 } из Nomination Assessment Team в osu! Alumni (2019-10-23)
@@ -275,7 +275,7 @@
 - Добавление ::AirinCat::{ user=11119539 } в Probationary Beatmap Nominators (2019-11-08)
 - Исключение ::Nao Tomori::{ user=5364763 } из Probationary Beatmap Nominators - уход на покой (2019-11-08)
 - Перемещение ::Lafayla::{ user=5312547 } из Probationary Beatmap Nominators в Beatmap Nominators (2019-11-12)
-- Исключение ::\1 A v a l o n \1::{ user=4632359 } из Beatmap Nominators - уход на покой (2019-11-13)
+- Исключение ::[ A v a l o n ]::{ user=4632359 } из Beatmap Nominators - уход на покой (2019-11-13)
 - Добавление ::-Luminate::{ user=4778689 } в Probationary Beatmap Nominators (2019-11-16)
 - Исключение ::komasy::{ user=1980256 } из Beatmap Nominators - уход на покой (2019-11-17)
 - Добавление ::Genjuro::{ user=3196091 } в Probationary Beatmap Nominators (2019-11-17)

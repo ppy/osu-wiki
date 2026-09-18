@@ -210,7 +210,7 @@ Diese Projekte sind alle noch funktionsfähig, werden jedoch nicht mehr aktiv ge
 
 | Logo | Name | Projektleiter | Beschreibung |
 | :-: | :-- | :-- | :-- |
-| ![](img/logo_opsu.png) | [opsu!](https://osu.ppy.sh/community/forums/topics/221726) | ::{ flag=US }:: ::euphyy\1old::{ user=2936932 } | Quelloffener osu!-Client, der in [Java](https://www.java.com/) programmiert wurde |
+| ![](img/logo_opsu.png) | [opsu!](https://osu.ppy.sh/community/forums/topics/221726) | ::{ flag=US }:: ::euphyy_old::{ user=2936932 } | Quelloffener osu!-Client, der in [Java](https://www.java.com/) programmiert wurde |
 
 ### Gameplay
 
@@ -218,7 +218,7 @@ Diese Projekte sind alle noch funktionsfähig, werden jedoch nicht mehr aktiv ge
 
 | Logo | Name | Projektleiter | Beschreibung |
 | :-: | :-- | :-- | :-- |
-| ![](img/logo_my_hand_it_burns.png) | [my hand, IT BURNS!!](https://keyaa.github.io/osu-stream-practice/) | ::{ flag=PH }:: ::keyaa\1old\12::{ user=30720651 } | Benchmark-Tool zur Ermittlung der eigenen Tippgeschwindigkeit |
+| ![](img/logo_my_hand_it_burns.png) | [my hand, IT BURNS!!](https://keyaa.github.io/osu-stream-practice/) | ::{ flag=PH }:: ::keyaa_old_2::{ user=30720651 } | Benchmark-Tool zur Ermittlung der eigenen Tippgeschwindigkeit |
 |  | [osu!Tapspeed-Meter](https://osu.ppy.sh/community/forums/topics/247716) | ::{ flag=AT }:: ::DaRealSlimOni::{ user=2925249 } | Benchmark-Tool zur Ermittlung der eigenen Tippgeschwindigkeit |
 |  | [SpinnyProgram](https://osu.ppy.sh/community/forums/topics/140878) | ::{ flag=GB }:: ::jimj316::{ user=1863872 } | Benchmark-Tool zur Ermittlung der eigenen Spingeschwindigkeit |
 

@@ -16,7 +16,7 @@
 | ::{ flag=US }:: ::Joehu::{ user=8549835 } | [Joehuu](https://github.com/Joehuu) | 不活跃 |  |
 | ::{ flag=AR }:: ::juankristal::{ user=443656 } | [juankristal](https://github.com/juankristal) | 不活跃 | 西班牙语 |
 | ::{ flag=DE }:: ::Loctav::{ user=71366 } | [Loctav](https://github.com/Loctav) | 不活跃 | 德语 |
-| ::{ flag=US }:: ::MegaApple\1Pi::{ user=2148208 } | [MegaApplePi](https://github.com/MegaApplePi) | 不活跃 |  |
+| ::{ flag=US }:: ::MegaApple_Pi::{ user=2148208 } | [MegaApplePi](https://github.com/MegaApplePi) | 不活跃 |  |
 | ::{ flag=ID }:: ::Niva::{ user=197805 } | [Nivalyx](https://github.com/Nivalyx) | **活跃** | 印度尼西亚语 |
 | ::{ flag=DE }:: ::Okoratu::{ user=1623405 } | [Okorin](https://github.com/Okorin) | 不活跃 | 德语 |
 | ::{ flag=AU }:: ::peppy::{ user=2 } | [peppy](https://github.com/peppy) | **活跃** | 日语 |

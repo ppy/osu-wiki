@@ -41,9 +41,9 @@ Before we dive into the results, here's a quick refresher on what awards we're o
 [![](/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/osu-map-ga-3.png)](https://osu.ppy.sh/beatmapsets/1884175)
 
 ![](/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/osu-user-ga-header.png)
-::!\1\1(/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/osu-user-ga-1.png)::{ user=2688581 }
-::!\1\1(/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/osu-user-ga-2.png)::{ user=3178418 }
-::!\1\1(/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/osu-user-ga-3.png)::{ user=9416836 }
+::![](/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/osu-user-ga-1.png)::{ user=2688581 }
+::![](/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/osu-user-ga-2.png)::{ user=3178418 }
+::![](/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/osu-user-ga-3.png)::{ user=9416836 }
 
 ## osu!taiko
 
@@ -53,9 +53,9 @@ Before we dive into the results, here's a quick refresher on what awards we're o
 [![](/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/taiko-map-ga-3.png)](https://osu.ppy.sh/beatmapsets/1869818)
 
 ![](/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/taiko-user-ga-header.png)
-::!\1\1(/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/taiko-user-ga-1.png)::{ user=14102976 }
-::!\1\1(/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/taiko-user-ga-2.png)::{ user=12842392 }
-::!\1\1(/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/taiko-user-ga-3.png)::{ user=12565402 }
+::![](/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/taiko-user-ga-1.png)::{ user=14102976 }
+::![](/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/taiko-user-ga-2.png)::{ user=12842392 }
+::![](/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/taiko-user-ga-3.png)::{ user=12565402 }
 
 ## osu!catch
 
@@ -65,9 +65,9 @@ Before we dive into the results, here's a quick refresher on what awards we're o
 [![](/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/catch-map-ga-3.png)](https://osu.ppy.sh/beatmapsets/1960673)
 
 ![](/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/catch-user-ga-header.png)
-::!\1\1(/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/catch-user-ga-1.png)::{ user=7890134 }
-::!\1\1(/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/catch-user-ga-2.png)::{ user=2306637 }
-::!\1\1(/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/catch-user-ga-3.png)::{ user=318565 }
+::![](/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/catch-user-ga-1.png)::{ user=7890134 }
+::![](/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/catch-user-ga-2.png)::{ user=2306637 }
+::![](/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/catch-user-ga-3.png)::{ user=318565 }
 
 ## osu!mania
 
@@ -77,9 +77,9 @@ Before we dive into the results, here's a quick refresher on what awards we're o
 [![](/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/mania-map-ga-3.png)](https://osu.ppy.sh/beatmapsets/1698284)
 
 ![](/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/mania-user-ga-header.png)
-::!\1\1(/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/mania-user-ga-1.png)::{ user=4335785 }
-::!\1\1(/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/mania-user-ga-2.png)::{ user=14351534 }
-::!\1\1(/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/mania-user-ga-3.png)::{ user=8660315 }
+::![](/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/mania-user-ga-1.png)::{ user=4335785 }
+::![](/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/mania-user-ga-2.png)::{ user=14351534 }
+::![](/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/mania-user-ga-3.png)::{ user=8660315 }
 
 ## Storyboarding
 
@@ -89,9 +89,9 @@ Before we dive into the results, here's a quick refresher on what awards we're o
 [![](/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/sb-map-ga-3.png)](https://osu.ppy.sh/beatmapsets/2085347)
 
 ![](/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/sb-user-ga-header.png)
-::!\1\1(/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/sb-user-ga-1.png)::{ user=5383942 }
-::!\1\1(/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/sb-user-ga-2.png)::{ user=3664366 }
-::!\1\1(/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/sb-user-ga-3.png)::{ user=12243368 }
+::![](/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/sb-user-ga-1.png)::{ user=5383942 }
+::![](/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/sb-user-ga-2.png)::{ user=3664366 }
+::![](/wiki/shared/news/2024-02-26-mappers-choice-awards-2023-results/sb-user-ga-3.png)::{ user=12243368 }
 
 ---
 

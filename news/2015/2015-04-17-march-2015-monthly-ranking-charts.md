@@ -80,7 +80,7 @@ A nice CtB map in this month for sure. The patterns in overall are not repetitiv
 
 The song is quite impressive as it is a kind of Dubstep music, the jumps and patterns in the hardest difficulty pretty well suits the music. I am pretty sure that you will be tapping your feet as you are following the music. How I describe this map is, challenging and fun.
 
-- [AiRI - Prismic](https://osu.ppy.sh/beatmapsets/247745) by ::Kowaii\1ne::{ user=2213794 }
+- [AiRI - Prismic](https://osu.ppy.sh/beatmapsets/247745) by ::Kowaii_ne::{ user=2213794 }
 
 A map that takes care of beginner players with an even difficulty spread. Beginner players can advance their ways past different difficulties. Also the hitsounding in this map works well with some drumming patterns. I do recommend beginner players trying this map.
 

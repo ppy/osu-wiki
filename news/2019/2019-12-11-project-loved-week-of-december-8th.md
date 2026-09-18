@@ -147,7 +147,7 @@ A brand new face to the osu!mania Loved scene is Ticle with his map for *UMP9*! 
 
 [![](/wiki/shared/news/2019-12-11-project-loved-week-of-december-8th/mania/3-la-md.jpg)](https://osu.ppy.sh/community/forums/topics/996117)
 
-[Billx - LA MD](https://osu.ppy.sh/beatmapsets/903549#mania) by ::Wilben\1Chan::{ user=6659363 }\
+[Billx - LA MD](https://osu.ppy.sh/beatmapsets/903549#mania) by ::Wilben_Chan::{ user=6659363 }\
 190 BPM, 6:09 | \[7K\] 7.27★, \[7K\] 7.59★, \[7K\] 7.91★
 
 For this round, we're getting a fairly familiar stamina pick from the Finals round of the osu!mania 7K World Cup 2019. If you enjoyed [Wind God Girl](https://osu.ppy.sh/beatmapsets/347113#mania) and [DJ Sharpnel 7K](https://osu.ppy.sh/beatmapsets/538667#mania), then you're in for a treat!

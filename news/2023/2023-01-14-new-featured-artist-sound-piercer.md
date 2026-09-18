@@ -30,7 +30,7 @@ Play through any (or all!) of these maps:
 - [Full osu! spread](https://osu.ppy.sh/beatmapsets/1378089) hosted by ::Log Off Now::{ user=4378277 }
 - [Slightly slimmer osu! spread](https://osu.ppy.sh/beatmapsets/1229091) hosted by ::dahkjdas::{ user=5062396 }
 - [osu! marathon](https://osu.ppy.sh/beatmapsets/1538654) hosted by ::Kumocha::{ user=10527102 }
-- [osu! and 6K osu!mania marathon hybrid mapset](https://osu.ppy.sh/beatmapsets/1300204) hosted by ::\1Kobii::{ user=6209713 }
+- [osu! and 6K osu!mania marathon hybrid mapset](https://osu.ppy.sh/beatmapsets/1300204) hosted by ::_Kobii::{ user=6209713 }
 - [7K osu!mania marathon](https://osu.ppy.sh/beatmapsets/1259799) hosted by ::Kawawa::{ user=4647754 }
 - [4K osu!mania marathon](https://osu.ppy.sh/beatmapsets/1694166) hosted by ::ATing::{ user=4763040 }
 - [5K osu!mania marathon](https://osu.ppy.sh/beatmapsets/1789857) hosted by ::Akasha-::{ user=2596306 }

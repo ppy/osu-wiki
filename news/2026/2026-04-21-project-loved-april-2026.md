@@ -475,7 +475,7 @@ Please show your support through your votes, both for more maps like this in the
 170 BPM, 2:21 | 1.99★, 3.51★, 4.33★, 5.18★, 5.71★\
 *description written by ::Carpihat::{ user=10085090 }*
 
-Do you miss nostalgic mapsets with multiple difficulties? Do you prefer classic artists? If you do, this time we're bringing back an old spread mapped by experienced mappers ::Remuring::{ user=6522146 }, ::Mochineko (Critical\1Star)::{ user=3793196 }, ::Syadow-::{ user=3484485 }, and ::Wonki::{ user=7898495 }, [Parodia Sonatina Var.II](https://osu.ppy.sh/beatmapsets/592262#mania/1264387)! The song has been well known for its wonderful melody and arrangement. Since it is a full spread, you can try it no matter if you're new or a pro!
+Do you miss nostalgic mapsets with multiple difficulties? Do you prefer classic artists? If you do, this time we're bringing back an old spread mapped by experienced mappers ::Remuring::{ user=6522146 }, ::Mochineko (Critical_Star)::{ user=3793196 }, ::Syadow-::{ user=3484485 }, and ::Wonki::{ user=7898495 }, [Parodia Sonatina Var.II](https://osu.ppy.sh/beatmapsets/592262#mania/1264387)! The song has been well known for its wonderful melody and arrangement. Since it is a full spread, you can try it no matter if you're new or a pro!
 
 Man! What can I say? Just try it! If you are interested in this set or you're a fan of this song, please vote "Yes" so it can enter Loved!
 

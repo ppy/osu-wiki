@@ -48,29 +48,29 @@ outdated_translation: true
 
 | Flag | Country | Group A Members |
 | :-- | :-- | :-- |
-| ::{ flag=CA }:: | Canada | **::Sumaki::{ user=207916 }**, ::jeubach::{ user=3406015 }, ::Affinity::{ user=3922569 }, ::Yoshi\1green::{ user=1035891 }, ::Mysterious::{ user=2615240 }, ::- ShadowZ -::{ user=2884415 } |
-| ::{ flag=MY }:: | Malaysia | **::Shadow Fear::{ user=635485 }**, ::QHideaki13::{ user=733998 }, ::Kagari::{ user=3366264 }, ::Future\1miku95::{ user=2351567 }, ::Xanus::{ user=4011799 }, ::murutattack::{ user=4480237 } |
-| ::{ flag=PH }:: | Philippines | **::osu\1gangster::{ user=829284 }**, ::-Hakuto-::{ user=3066582 }, ::Hi\1Hello::{ user=2984583 } |
-| ::{ flag=FR }:: | France | **::Ttobas::{ user=2084568 }**, ::Badis::{ user=559308 }, ::Alostis::{ user=2986875 }, ::CelegaS::{ user=1552429 }, ::\1Loli::{ user=2326688 }, ::Kyuare::{ user=2705312 } |
+| ::{ flag=CA }:: | Canada | **::Sumaki::{ user=207916 }**, ::jeubach::{ user=3406015 }, ::Affinity::{ user=3922569 }, ::Yoshi_green::{ user=1035891 }, ::Mysterious::{ user=2615240 }, ::- ShadowZ -::{ user=2884415 } |
+| ::{ flag=MY }:: | Malaysia | **::Shadow Fear::{ user=635485 }**, ::QHideaki13::{ user=733998 }, ::Kagari::{ user=3366264 }, ::Future_miku95::{ user=2351567 }, ::Xanus::{ user=4011799 }, ::murutattack::{ user=4480237 } |
+| ::{ flag=PH }:: | Philippines | **::osu_gangster::{ user=829284 }**, ::-Hakuto-::{ user=3066582 }, ::Hi_Hello::{ user=2984583 } |
+| ::{ flag=FR }:: | France | **::Ttobas::{ user=2084568 }**, ::Badis::{ user=559308 }, ::Alostis::{ user=2986875 }, ::CelegaS::{ user=1552429 }, ::_Loli::{ user=2326688 }, ::Kyuare::{ user=2705312 } |
 
 | Flag | Country | Group B Members |
 | :-- | :-- | :-- |
 | ::{ flag=BR }:: | Brazil | **::vini9204::{ user=199136 }**, ::LuckySonicGHz::{ user=3949268 }, ::Michael Jordan::{ user=4099041 }, ::Luciano Yoshiharu::{ user=2054788 } |
-| ::{ flag=BE }:: | Belgium | **::\1 Zorua \1::{ user=3112563 }**, ::Ichidy::{ user=1019596 }, ::eldersmot::{ user=4044159 } |
-| ::{ flag=AR }:: | Argentina | **::Manuxz::{ user=1740102 }**, ::Zai::{ user=2572228 }, ::Tadashi::{ user=4027910 }, ::koliron::{ user=4632730 }, ::em1R-::{ user=1915210 }, ::\1Force\1::{ user=1617217 } |
+| ::{ flag=BE }:: | Belgium | **::[ Zorua ]::{ user=3112563 }**, ::Ichidy::{ user=1019596 }, ::eldersmot::{ user=4044159 } |
+| ::{ flag=AR }:: | Argentina | **::Manuxz::{ user=1740102 }**, ::Zai::{ user=2572228 }, ::Tadashi::{ user=4027910 }, ::koliron::{ user=4632730 }, ::em1R-::{ user=1915210 }, ::[Force]::{ user=1617217 } |
 | ::{ flag=US }:: | United States | **::Zak::{ user=1375955 }**, ::Minky::{ user=1978891 }, ::Storm-::{ user=2427813 }, ::Cemetery::{ user=3438241 }, ::-Del-::{ user=2996241 }, ::-Kurisu-::{ user=500696 } |
 
 | Flag | Country | Group C Members |
 | :-- | :-- | :-- |
-| ::{ flag=AT }:: | Austria | **::\1 K a z u \1::{ user=1902480 }**, ::Aiju AT::{ user=4934314 }, ::Kuzumi-kun::{ user=3575682 } |
+| ::{ flag=AT }:: | Austria | **::[ K a z u ]::{ user=1902480 }**, ::Aiju AT::{ user=4934314 }, ::Kuzumi-kun::{ user=3575682 } |
 | ::{ flag=ES }:: | Spain | **::SK Eternal::{ user=588046 }**, ::sarkras::{ user=709625 }, ::Pistoler::{ user=3115050 }, ::TheStickman::{ user=4820133 }, ::Ratulfox::{ user=4414709 }, ::kikones34::{ user=911816 } |
 | ::{ flag=NL }:: | Netherlands | **::Nebux::{ user=2342051 }**, ::slimmecodo1::{ user=1800103 }, ::Givralii::{ user=2466879 }, ::wesley221::{ user=2407265 }, ::CakeAndBanana::{ user=1981424 }, ::- Yuri -::{ user=3212806 } |
-| ::{ flag=KR }:: | South Korea | **::Spectator::{ user=702598 }**, ::Frobe::{ user=670365 }, ::224dj::{ user=3313041 }, ::No492\1Shaymin::{ user=566276 }, ::ExGon::{ user=214187 }, ::mjj741::{ user=1459769 } |
+| ::{ flag=KR }:: | South Korea | **::Spectator::{ user=702598 }**, ::Frobe::{ user=670365 }, ::224dj::{ user=3313041 }, ::No492_Shaymin::{ user=566276 }, ::ExGon::{ user=214187 }, ::mjj741::{ user=1459769 } |
 
 | Flag | Country | Group D Members |
 | :-- | :-- | :-- |
 | ::{ flag=DK }:: | Denmark | **::-Crab-::{ user=2563435 }**, ::Only1Magma::{ user=3922957 }, ::DragonsDungeon::{ user=4134819 }, ::dinidini4000::{ user=1582264 } |
-| ::{ flag=RU }:: | Russian Federation | **::MeGl::{ user=1126814 }**, ::VagaNNN::{ user=1260040 }, ::Zlocktar::{ user=2882387 }, ::spider\1yoba::{ user=1912659 }, ::MayFlit::{ user=1651627 } |
+| ::{ flag=RU }:: | Russian Federation | **::MeGl::{ user=1126814 }**, ::VagaNNN::{ user=1260040 }, ::Zlocktar::{ user=2882387 }, ::spider_yoba::{ user=1912659 }, ::MayFlit::{ user=1651627 } |
 | ::{ flag=SG }:: | Singapore | **::He Ang Erika::{ user=2451381 }**, ::Mung::{ user=1018228 }, ::geraldwch::{ user=2923441 }, ::chibipingers::{ user=1756003 }, ::Accel::{ user=1169796 }, ::Kagayane::{ user=1777691 } |
 | ::{ flag=PL }:: | Poland | **::WujekGrzyb::{ user=258289 }**, ::Sawa88::{ user=993495 }, ::wampir::{ user=261497 }, ::Krzysiek::{ user=294277 }, ::Kosmit::{ user=1749173 }, ::Hirikoshi::{ user=2114149 } |
 

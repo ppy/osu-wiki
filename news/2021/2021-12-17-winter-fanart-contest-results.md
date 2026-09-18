@@ -23,7 +23,7 @@ Simple, clean, and a frontrunner in the voting from the very start of the contes
 
 [![](https://assets.ppy.sh/contests/136/banners/lutfi_anims.jpg)](https://assets.ppy.sh/contests/136/winners/lutfi_anims.png)
 
-**4685** approved of ::**lutfi\1anims**::{ user=11041959 }'s depiction of pippi and Mocha catching a moment in the snow beneath a bare winter tree. Facial expression takes front and center in this one, showing you what the community's really looking for when they vote!
+**4685** approved of ::**lutfi_anims**::{ user=11041959 }'s depiction of pippi and Mocha catching a moment in the snow beneath a bare winter tree. Facial expression takes front and center in this one, showing you what the community's really looking for when they vote!
 
 [![](https://assets.ppy.sh/contests/136/banners/eulorie.jpg)](https://assets.ppy.sh/contests/136/winners/eulorie.png)
 
@@ -79,7 +79,7 @@ Creating a shot for the ages, **3106** cheered on ::**McFriedFries**::{ user=126
 
 [![](https://assets.ppy.sh/contests/136/banners/TJ_25.jpg)](https://assets.ppy.sh/contests/136/winners/TJ_25.png)
 
-::**TJ\125**::{ user=18470896 }'s Alisa and pippi distributed **2979** gifts and got as many votes in return from excited viewers eager to see a few of their favourite references, such as the venerable 1-2 and the Funny Number.
+::**TJ_25**::{ user=18470896 }'s Alisa and pippi distributed **2979** gifts and got as many votes in return from excited viewers eager to see a few of their favourite references, such as the venerable 1-2 and the Funny Number.
 
 Something else is going on in this one, you say? No idea what you're talking about.
 

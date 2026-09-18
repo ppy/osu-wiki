@@ -100,7 +100,7 @@ A song we doesn't see often ranked in osu!mania and Janko managed to map it in a
 
 Who said there couldn't be a challenging Normal / Hard difficulty mapset? ArcherLove is well known for long note oriented beatmaps and this is no exception. From this seemingly calm song, ArcherLove has managed to add some patterns that are extremely tricky to nail down perfectly. Furthermore, LordRaika's guest difficulty presents a completely different style of LN patterning in a way that contrasts ArcherLove's mapping and these three difficulties combine to make for some interesting experience not seen often in ranked maps.
 
-- [Nekomata Master - Sennen no Kotowari](https://osu.ppy.sh/beatmapsets/571189) by ::Critical\1Star::{ user=3793196 } (Nominator: ::Jinjin::{ user=3360737 })
+- [Nekomata Master - Sennen no Kotowari](https://osu.ppy.sh/beatmapsets/571189) by ::Critical_Star::{ user=3793196 } (Nominator: ::Jinjin::{ user=3360737 })
 
 If we have some unique and challenging maps in one spectrum, we have enjoyable, relatively easy maps in the other! Sennen no Kotowari offers difficulties ranging from Easy to Expert which caters to all 7K players alike. The patterns are relatively simple and fits the song nicely, with a pleasant balance between regular notes and long notes. To some of the higher skilled mania players out there, the GRAVITY difficulty gives tests players on entirely different skill sets with DoubleTime, so have a go at it!
 
@@ -111,7 +111,7 @@ If we have some unique and challenging maps in one spectrum, we have enjoyable, 
 Congratulations to the winners of the January/February 2017 Spotlights. They receive two month of supporter status for their efforts!
 
 - **osu!:** ::Toy::{ user=2757689 }
-- **osu!taiko:** ::Edgar\1Figaro::{ user=6508754 }
+- **osu!taiko:** ::Edgar_Figaro::{ user=6508754 }
 - **osu!catch:** ::RAMPAGE88::{ user=448547 }
 - **osu!mania:** ::hizasama::{ user=6860160 }
 

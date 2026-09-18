@@ -115,7 +115,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ::{ flag=HK }:: ::Petal::{ user=7354729 } | Kantonca, Çince | General moderation |
 | ::{ flag=KR }:: ::Petit::{ user=4637369 } | Korece, Japonca | Sohbet moderasyonu |
 | ::{ flag=MY }:: ::QHideaki13::{ user=733998 } | Malayca | Sohbet moderasyonu |
-| ::{ flag=PL }:: ::Redo\1::{ user=7122165 } | Lehçe | Skinning community moderation |
+| ::{ flag=PL }:: ::Redo_::{ user=7122165 } | Lehçe | Skinning community moderation |
 | ::{ flag=MX }:: ::Repflez::{ user=201392 } | İspanyolca | Sohbet moderasyonu |
 | ::{ flag=FI }:: ::Riverism::{ user=4980738 } | Fince, biraz İsveççe, biraz Japonca | Mapping/modding topluluk moderasyonu, forum moderasyonu |
 | ::{ flag=NL }:: ::Roan::{ user=8214639 } | Felemenkçe, Japonca | Skinning community moderation |
@@ -129,7 +129,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ::{ flag=KR }:: ::Spectator::{ user=702598 } | Korece | Mapping/modding topluluk moderasyonu |
 | ::{ flag=AT }:: ::Stefan::{ user=626907 } | Almanca, Sırpça | Forum moderasyonu |
 | ::{ flag=FI }:: ::terho::{ user=6090105 } | Fince | Sohbet moderasyonu |
-| ::{ flag=NZ }:: ::THAT\1otaku::{ user=11798717 } |  | Forum moderasyonu, sohbet moderasyonu |
+| ::{ flag=NZ }:: ::THAT_otaku::{ user=11798717 } |  | Forum moderasyonu, sohbet moderasyonu |
 | ::{ flag=PE }:: ::Tiburon::{ user=18115022 } | İspanyolca | Sohbet moderasyonu |
 | ::{ flag=CH }:: ::TicClick::{ user=672931 } | Rusça | Sohbet moderasyonu, wiki yönetimi |
 | ::{ flag=PH }:: ::topecnz::{ user=2103927 } | Filipince | Sohbet moderasyonu |

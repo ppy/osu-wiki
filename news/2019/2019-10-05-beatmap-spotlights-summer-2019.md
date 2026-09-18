@@ -18,7 +18,7 @@ First of all, congratulations to the winners of the Spring 2019 Seasonal Spotlig
 - **osu!:** ::Toy::{ user=2757689 }, ::Woey::{ user=3792472 } and ::xxluizxx47::{ user=4687701 }
 - **osu!taiko:** ::Jaye::{ user=4841352 }, ::AlvaroYL::{ user=6333166 } and ::Whulf::{ user=11601107 }
 - **osu!catch:** ::RAMPAGE88::{ user=448547 }, ::Predominador::{ user=4568537 } and ::Chatie::{ user=6524765 }
-- **osu!mania:** ::\1Crz\1Satori::{ user=7082178 }, ::Stink God::{ user=7381289 } and ::Cryolien::{ user=1626983 }
+- **osu!mania:** ::[Crz]Satori::{ user=7082178 }, ::Stink God::{ user=7381289 } and ::Cryolien::{ user=1626983 }
 
 ### Navigation
 
@@ -67,7 +67,7 @@ Be sure to check out the Insane collaboration between ::Hey lululu::{ user=40864
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/osu/loser.jpg)](https://osu.ppy.sh/beatmapsets/852544)
 
-Out from last year's Pending Cup comes Yonezu Kenshi's "LOSER". This mapset includes six of the entries (plus a hard difficulty by ::yf\1bmp::{ user=1243669 }), which all have unique styles that led to high rankings in the mapping contest. Highlights include ::Yugu::{ user=3161834 }'s grid-based mapping, ::AIR::{ user=2070688 }'s unique sliders and flow, and ::how2miss::{ user=4477199 }'s clean patterns and hitsounding.
+Out from last year's Pending Cup comes Yonezu Kenshi's "LOSER". This mapset includes six of the entries (plus a hard difficulty by ::yf_bmp::{ user=1243669 }), which all have unique styles that led to high rankings in the mapping contest. Highlights include ::Yugu::{ user=3161834 }'s grid-based mapping, ::AIR::{ user=2070688 }'s unique sliders and flow, and ::how2miss::{ user=4477199 }'s clean patterns and hitsounding.
 
 The top difficulty of the mapset by ::Skystar::{ user=873961 } also deserves praise. This map balances movement and visuals, which most recent maps fail to combine. The changing flow complements the changing tension of the music well, while the aesthetic remains exceptionally pleasant. It is no wonder why this took the winning spot of the contest.
 
@@ -224,7 +224,7 @@ But ::xtrem3x::{ user=136385 } and ::eiri-::{ user=3388410 }/::Realazy::{ user=9
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/taiko/pictured.jpg)](https://osu.ppy.sh/beatmapsets/966235)
 
-One of the most hyped maps that came this season due to ::\1yu68::{ user=6170507 }'s return to the mapping community, Pictured as Perfect, really makes up to the hype around it:
+One of the most hyped maps that came this season due to ::_yu68::{ user=6170507 }'s return to the mapping community, Pictured as Perfect, really makes up to the hype around it:
 
 Probably the most hard low Star Rating map ever created, the diff "Portrayer" is full of really tricky tech sections in a low SV environment that proves really difficult to read even to the most experienced of players, with a wide range of both monocolor sections and high bpm sections this is very likely the most difficult map of this season's spotlight even though it may not even be the highest rated based on SR. Good luck!
 
@@ -312,7 +312,7 @@ In addition, ::Murumoo::{ user=8001433 }'s difficulties are straightforward and 
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/mania/delta.jpg)](https://osu.ppy.sh/beatmapsets/928491)
 
-::Dergo::{ user=7439226 }, ::-mint-::{ user=8976576 }, and ::\1Kobii::{ user=6209713 }'s d:for the DELTA (Camellia's "PLANETARY//DUBSTEP" Remix) is perhaps one of the most audacious ranked maps this year, and quickly became well known among higher-level players in the osu!mania community due to it's uniqueness in comparison to other maps around its difficulty level.
+::Dergo::{ user=7439226 }, ::-mint-::{ user=8976576 }, and ::_Kobii::{ user=6209713 }'s d:for the DELTA (Camellia's "PLANETARY//DUBSTEP" Remix) is perhaps one of the most audacious ranked maps this year, and quickly became well known among higher-level players in the osu!mania community due to it's uniqueness in comparison to other maps around its difficulty level.
 
 Dergo's sections start (and end) the song with an exciting technical interpretation of the song, combining light yet tough long note patterns focusing on jacks, long trills, and difficult releases along with intense longer bursts. His attention to detail in the quieter portions of the song is also quite impressive, as he made sure to differentiate different instruments though LN usage, column placements, and repetition.
 
@@ -342,7 +342,7 @@ With the mapset also containing guest difficulties by ::KeppSado::{ user=1108580
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/mania/fatalism.jpg)](https://osu.ppy.sh/beatmapsets/989858)
 
-In the spirit of the song's dramatic and melancholic nature, ::\1Kobii::{ user=6209713 }'s Fatalism is a gorgeous showcase of his intuitive long note mapping style. It mixes vocal and instrumental emphasis in a comfortable yet difficult way that makes the map extremely fun to play overall.
+In the spirit of the song's dramatic and melancholic nature, ::_Kobii::{ user=6209713 }'s Fatalism is a gorgeous showcase of his intuitive long note mapping style. It mixes vocal and instrumental emphasis in a comfortable yet difficult way that makes the map extremely fun to play overall.
 
 The map really shines in the intense instrumental sections as well as the quieter portions of the song, for surprisingly different reasons. His instrumental emphasis mostly revolved around chords with different releases to emphasize instrument type and pitch, inverse sections to bring out the louder, more distinctive instrument parts, and some emphasis via long note length for separating out less intense pitches from more intense ones.
 

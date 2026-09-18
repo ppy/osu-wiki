@@ -74,7 +74,7 @@ The Ausu!Taiko Tournament 2021 was run by various community members.
 | **D** | ::{ flag=ID }:: ::Volta::{ user=4154071 } | ::{ flag=PH }:: ::ezeenS::{ user=3679969 } | ::{ flag=PH }:: ::DescriptiCringe::{ user=10882115 } | ::{ flag=NZ }:: ::Bwhaa::{ user=7960435 } | - |
 | **E** | ::{ flag=TH }:: ::Ponamis::{ user=7897892 } | ::{ flag=SG }:: ::Element118::{ user=2283992 } | ::{ flag=AU }:: ::AmateurMonkeyYT::{ user=8379046 } | ::{ flag=MY }:: ::vun::{ user=6932501 } | ::{ flag=SG }:: ::dantoh000::{ user=11414361 } |
 | **F** | ::{ flag=ID }:: ::Naverlyn::{ user=14324722 } | ::{ flag=SG }:: ::tzechi::{ user=4662795 } | ::{ flag=TH }:: ::ConieSan::{ user=2035344 } | ::{ flag=PH }:: ::qish::{ user=17050115 } | ::{ flag=MY }:: ::TaikOseania::{ user=14036825 } |
-| **G** | ::{ flag=ID }:: ::misaki\1tk::{ user=3866964 } | ::{ flag=SG }:: ::Prehistoria::{ user=8364237 } | ::{ flag=AU }:: ::Beat43210::{ user=5664171 } | ::{ flag=NZ }:: ::arley\_::{ user=9039824 } | ::{ flag=SG }:: ::\_gt::{ user=8301957 } |
+| **G** | ::{ flag=ID }:: ::misaki_tk::{ user=3866964 } | ::{ flag=SG }:: ::Prehistoria::{ user=8364237 } | ::{ flag=AU }:: ::Beat43210::{ user=5664171 } | ::{ flag=NZ }:: ::arley\_::{ user=9039824 } | ::{ flag=SG }:: ::\_gt::{ user=8301957 } |
 | **H** | ::{ flag=PH }:: ::jmeh07::{ user=2852269 } | ::{ flag=SG }:: ::Bobfree::{ user=10096125 } | ::{ flag=MY }:: ::Bedwyr Aorta::{ user=10875855 } | ::{ flag=MY }:: ::nikolpai\_15::{ user=11584592 } | - |
 
 ## Podium

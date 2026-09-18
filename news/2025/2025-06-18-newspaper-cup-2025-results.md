@@ -15,7 +15,7 @@ This year, participants were able to choose from any track they liked from the [
 
 Today, let's have a deeper look at the winning entries, and check out what the judges would like to comment about them!
 
-### 1st place: [Camellia - Dance with Silence](https://osu.ppy.sh/beatmapsets/2374180) (mapped by ::PEALEERD\1TAK::{ user=6214002 })
+### 1st place: [Camellia - Dance with Silence](https://osu.ppy.sh/beatmapsets/2374180) (mapped by ::PEALEERD_TAK::{ user=6214002 })
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>

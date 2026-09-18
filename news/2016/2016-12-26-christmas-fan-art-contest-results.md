@@ -25,7 +25,7 @@ In **second place**, ::pyun::{ user=981534 } stole the show with their delightfu
 We also featured the work of a number of very talented artists for the main-menu theme:
 
 <a href="https://assets.ppy.sh/user-contest-entries/1025/fb2cfe7001e4877dbc4d2c59c745c07a3ccf3c4967386bef83af6811a85173ee.png"><img src="https://puu.sh/t1le0/20f62637ac.jpg"></a>
-::Badou\1Rammsteiner::{ user=1725945 }'s chibi snowman cuteness featuring the Taikonator.
+::Badou_Rammsteiner::{ user=1725945 }'s chibi snowman cuteness featuring the Taikonator.
 
 <a href="https://assets.ppy.sh/user-contest-entries/977/58c3a33acb17a7a252b735185df42e7047201558af920264782c90d496994f91.jpg"><img src="https://puu.sh/t1ldv/6c83dfe541.jpg"></a>
 ::Evaine::{ user=7295733 }'s Santa-pippi set to a chilly festive landscape.

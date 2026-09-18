@@ -47,8 +47,8 @@ The National Dutch Championship 2023 was run by various community members.
 | Mapper | ::{ flag=NL }:: ::Castagne::{ user=12270596 }, ::{ flag=NL }:: ::lazysloth900::{ user=4502522 }, ::{ flag=NL }:: ::CMeFly::{ user=12195391 }, ::{ flag=NL }:: ::taku::{ user=684433 } |
 | Playtester | ::{ flag=CA }:: ::mahloola::{ user=8759374 }, ::{ flag=NL }:: ::bze::{ user=4095562 }, ::{ flag=LT }:: ::shineroo::{ user=4360718 }, ::{ flag=NL }:: ::CosmicWolf::{ user=8352298 }, ::{ flag=NL }:: ::UC2::{ user=6989615 }, ::{ flag=NL }:: ::taku::{ user=684433 }, ::{ flag=NL }:: ::KayoNar::{ user=6960689 }, ::{ flag=DE }:: ::\[BH\]Lithium::{ user=1199528 } |
 | Referee | ::{ flag=NL }:: ::Timper::{ user=11955929 }, ::{ flag=NL }:: ::Anassm03::{ user=19743946 }, ::{ flag=NL }:: ::Devrimon::{ user=9425864 }, ::{ flag=NL }:: ::DeathByDarwin::{ user=9087777 }, ::{ flag=NL }:: ::KayoNar::{ user=6960689 }, ::{ flag=DE }:: ::TheHunter1::{ user=6496016 }, ::{ flag=NL }:: ::Kut::{ user=3859899 } |
-| Streamer | ::{ flag=NL }:: ::TheMad\1N::{ user=10523988 }, ::{ flag=NL }:: ::Swerro::{ user=4507667 }, ::{ flag=NL }:: ::Castagne::{ user=12270596 }, ::{ flag=NL }:: ::- Ethereal -::{ user=9357932 }, ::{ flag=NL }:: ::DeathByDarwin::{ user=9087777 }, ::{ flag=NL }:: ::Kut::{ user=3859899 } |
-| Commentator | ::{ flag=NL }:: ::TheMad\1N::{ user=10523988 }, ::{ flag=NL }:: ::UnveiledGolem::{ user=14090438 }, ::{ flag=NL }:: ::Swerro::{ user=4507667 }, ::{ flag=NL }:: ::Timper::{ user=11955929 }, ::{ flag=NL }:: ::Goose King::{ user=9387696 }, ::{ flag=NL }:: ::Castagne::{ user=12270596 }, ::{ flag=NL }:: ::Anassm03::{ user=19743946 }, ::{ flag=NL }:: ::Kushper::{ user=4832514 }, ::{ flag=NL }:: ::SynchroStar::{ user=419705 }, ::{ flag=NL }:: ::Kut::{ user=3859899 } |
+| Streamer | ::{ flag=NL }:: ::TheMad_N::{ user=10523988 }, ::{ flag=NL }:: ::Swerro::{ user=4507667 }, ::{ flag=NL }:: ::Castagne::{ user=12270596 }, ::{ flag=NL }:: ::- Ethereal -::{ user=9357932 }, ::{ flag=NL }:: ::DeathByDarwin::{ user=9087777 }, ::{ flag=NL }:: ::Kut::{ user=3859899 } |
+| Commentator | ::{ flag=NL }:: ::TheMad_N::{ user=10523988 }, ::{ flag=NL }:: ::UnveiledGolem::{ user=14090438 }, ::{ flag=NL }:: ::Swerro::{ user=4507667 }, ::{ flag=NL }:: ::Timper::{ user=11955929 }, ::{ flag=NL }:: ::Goose King::{ user=9387696 }, ::{ flag=NL }:: ::Castagne::{ user=12270596 }, ::{ flag=NL }:: ::Anassm03::{ user=19743946 }, ::{ flag=NL }:: ::Kushper::{ user=4832514 }, ::{ flag=NL }:: ::SynchroStar::{ user=419705 }, ::{ flag=NL }:: ::Kut::{ user=3859899 } |
 | Designer | ::{ flag=NL }:: ::utaaa::{ user=9315038 } |
 
 ## Links
@@ -70,13 +70,13 @@ The National Dutch Championship 2023 was run by various community members.
 | 7 | ::{ flag=NL }:: ::Lilily::{ user=6502403 } | #427 | #7 |
 | 8 | ::{ flag=NL }:: ::LUCIANO::{ user=11604978 } | #61 | #1 |
 | 9 | ::{ flag=NL }:: ::niqht::{ user=14390731 } | #886 | #11 |
-| 10 | ::{ flag=NL }:: ::wessel\1osu2::{ user=4382220 } | #1988 | #31 |
+| 10 | ::{ flag=NL }:: ::wessel_osu2::{ user=4382220 } | #1988 | #31 |
 | 11 | ::{ flag=NL }:: ::heikneuter::{ user=6765641 } | #184 | #3 |
 | 12 | ::{ flag=NL }:: ::xceller::{ user=12265149 } | #436 | #8 |
-| 13 | ::{ flag=NL }:: ::Taylan\1::{ user=16395194 } | #658 | #10 |
+| 13 | ::{ flag=NL }:: ::Taylan_::{ user=16395194 } | #658 | #10 |
 | 14 | ::{ flag=NL }:: ::UnveiledGolem::{ user=14090438 } | #11069 | #138 |
 | 15 | ::{ flag=NL }:: ::wooz::{ user=6888206 } | #1869 | #30 |
-| 16 | ::{ flag=NL }:: ::wessel\1osu1::{ user=6577301 } | #6594 | #77 |
+| 16 | ::{ flag=NL }:: ::wessel_osu1::{ user=6577301 } | #6594 | #77 |
 | 17 | ::{ flag=NL }:: ::sofuraabu::{ user=7639453 } | #7566 | #93 |
 | 18 | ::{ flag=NL }:: ::AngelNamirin::{ user=6145220 } | #1254 | #20 |
 | 19 | ::{ flag=NL }:: ::Sroj::{ user=4783389 } | #5963 | #69 |
@@ -104,7 +104,7 @@ The National Dutch Championship 2023 was run by various community members.
 | 41 | ::{ flag=NL }:: ::- Ethereal -::{ user=9357932 } | #35765 | #425 |
 | 42 | ::{ flag=NL }:: ::Speed Kitty::{ user=15725070 } | #47276 | #556 |
 | 43 | ::{ flag=NL }:: ::Syph::{ user=4858573 } | #2640 | #37 |
-| 44 | ::{ flag=NL }:: ::TheMad\1N::{ user=10523988 } | #36753 | #442 |
+| 44 | ::{ flag=NL }:: ::TheMad_N::{ user=10523988 } | #36753 | #442 |
 | 45 | ::{ flag=NL }:: ::Natan::{ user=15457513 } | #24209 | #287 |
 | 46 | ::{ flag=NL }:: ::Maarten::{ user=24414822 } | #90778 | #1097 |
 | 47 | ::{ flag=NL }:: ::-Shuba-::{ user=27275694 } | #131313 | #1508 |

@@ -77,7 +77,7 @@ This simple yet charming map has gained a notable amount of attention over the p
 
 [![](/wiki/shared/news/2021-11-21-project-loved-november-2021/126492.jpg)](https://osu.ppy.sh/community/forums/topics/1467978)
 
-[Nanaki - Koi no Shirahata](https://osu.ppy.sh/beatmapsets/126492#osu) by ::caren\1sk::{ user=542498 } and ::HabiHolic::{ user=1974436 }\
+[Nanaki - Koi no Shirahata](https://osu.ppy.sh/beatmapsets/126492#osu) by ::caren_sk::{ user=542498 } and ::HabiHolic::{ user=1974436 }\
 208 BPM, 2:25 | 5.30★, 5.30★, 5.62★, 5.62★\
 *description written by ::Doomsday::{ user=18983 }*
 

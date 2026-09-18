@@ -22,7 +22,7 @@ Apabila kamu butuh bantuan dengan berkontribusi atau ingin pull request kamu dit
 | ::{ flag=US }:: ::Joehu::{ user=8549835 } | [Joehuu](https://github.com/Joehuu) | Tidak aktif |  |
 | ::{ flag=AR }:: ::juankristal::{ user=443656 } | [juankristal](https://github.com/juankristal) | Tidak aktif | Spanyol |
 | ::{ flag=DE }:: ::Loctav::{ user=71366 } | [Loctav](https://github.com/Loctav) | Tidak aktif | Jerman |
-| ::{ flag=US }:: ::MegaApple\1Pi::{ user=2148208 } | [MegaApplePi](https://github.com/MegaApplePi) | Tidak aktif |  |
+| ::{ flag=US }:: ::MegaApple_Pi::{ user=2148208 } | [MegaApplePi](https://github.com/MegaApplePi) | Tidak aktif |  |
 | ::{ flag=ID }:: ::Niva::{ user=197805 } | [Nivalyx](https://github.com/Nivalyx) | **Aktif** | Indonesia |
 | ::{ flag=DE }:: ::Okoratu::{ user=1623405 } | [Okorin](https://github.com/Okorin) | Tidak aktif | Jerman |
 | ::{ flag=AU }:: ::peppy::{ user=2 } | [peppy](https://github.com/peppy) | **Aktif** | Jepang |

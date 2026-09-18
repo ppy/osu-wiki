@@ -31,7 +31,7 @@ Check out [this osu! mapset](https://osu.ppy.sh/beatmapsets/1403962) by ::Leader
 
 ### \* Crow Solace \*
 
-Or play [this osu!mania mapset](https://osu.ppy.sh/beatmapsets/354157) by ::Critical\1Star::{ user=3793196 } that introduced **m108**'s music to osu!.
+Or play [this osu!mania mapset](https://osu.ppy.sh/beatmapsets/354157) by ::Critical_Star::{ user=3793196 } that introduced **m108**'s music to osu!.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/161/Songs/m108%20-%20%20Crow%20Solace%20.mp3" type="audio/mpeg">

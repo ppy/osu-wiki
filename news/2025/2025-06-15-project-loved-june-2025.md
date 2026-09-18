@@ -251,7 +251,7 @@ Are you ready to confront this tech monster? Make sure to vote on the ongoing po
 
 [![](/wiki/shared/news/2025-06-15-project-loved-june-2025/2176545.jpg)](https://osu.ppy.sh/community/forums/topics/2092749)
 
-[Iyowa feat. Adachi Rei - Heat abnormal](https://osu.ppy.sh/beatmapsets/2176545#taiko) by ::Z419::{ user=9912966 }, ::\_gt::{ user=8301957 }, ::Daanny::{ user=7183087 }, ::Ikakun4::{ user=11293254 }, ::Raphalge::{ user=3918650 }, ::Shamirin\1mzk::{ user=11325757 }, and ::vzlen::{ user=22676825 }\
+[Iyowa feat. Adachi Rei - Heat abnormal](https://osu.ppy.sh/beatmapsets/2176545#taiko) by ::Z419::{ user=9912966 }, ::\_gt::{ user=8301957 }, ::Daanny::{ user=7183087 }, ::Ikakun4::{ user=11293254 }, ::Raphalge::{ user=3918650 }, ::Shamirin_mzk::{ user=11325757 }, and ::vzlen::{ user=22676825 }\
 183 BPM, 3:58 | 5.46★ – 11.81★\
 *description written by ::nevqr::{ user=14269506 }*
 
@@ -271,7 +271,7 @@ Is it getting hot in here, or is it just me?
 
 [Heat abnormal](https://osu.ppy.sh/beatmapsets/2176545#taiko/5142071) is a vocaloid megaset featuring a crew of 7 astronauts from across the globe. Seasoned spacemen like ::Z419::{ user=9912966 }, ::\_gt::{ user=8301957 }, and ::Raphalge::{ user=3918650 } need no introduction, but even a few fresh cadets have found their way on the mission too!
 
-Introducing ::Daanny::{ user=7183087 } — a renowned scientist known for isolating a heat anomaly of about 4050±180 Kelvin, an academic feat that even future generations will learn about. Next up is ::vzlen::{ user=22676825 }, a prominent scholar, who secured his seat by demonstrating absolute expertise in astronomy, publishing numerous theses surrounding exoplanets and space objects. And lastly, the Japanese duo, ::Ikakun4::{ user=11293254 } and ::Shamirin\1mzk::{ user=11325757 }. Through Shamirin's countless explanatory monologues, Ikakun managed to cut the travel time in half, securing the flight's ability to return to planet Earth.
+Introducing ::Daanny::{ user=7183087 } — a renowned scientist known for isolating a heat anomaly of about 4050±180 Kelvin, an academic feat that even future generations will learn about. Next up is ::vzlen::{ user=22676825 }, a prominent scholar, who secured his seat by demonstrating absolute expertise in astronomy, publishing numerous theses surrounding exoplanets and space objects. And lastly, the Japanese duo, ::Ikakun4::{ user=11293254 } and ::Shamirin_mzk::{ user=11325757 }. Through Shamirin's countless explanatory monologues, Ikakun managed to cut the travel time in half, securing the flight's ability to return to planet Earth.
 
 The main goal of the mission is to reach the newly found exoplanet KELT-9b, although you're going to be the one who chooses the difficulty. 5.47★? 7.13★? 8.82★? 11.83★?! It's all up to you! Brace yourself for all sorts of challenges such as traversing through gimmicky galaxies, holding your consistency on various constellations, and dashing through dark matter at double the speed.
 
@@ -451,7 +451,7 @@ Did you hydrate while reading this description? I did not do so while writing th
 
 It's crazy to see a chart of this caliber get a chance at being put into Project Loved, but with the caliber of players nowadays, I can definitely see why [Credens Justitiam](https://osu.ppy.sh/beatmapsets/982719#mania/2056576) deserves to be here.
 
-\::\1Crz\]Zetsfy::{ user=9299072 }'s charts generally test you a lot in physicality, and this chart in particular really tests a lot of that on the stream side. While it starts off with light jumpstreams, it immediately throws you into very dense stream patterns containing a LOT of anchors on many of the columns, forcing you to read this chart very carefully while going very fast. Another thing that makes this chart so difficult is its relentlessness: as long as the vocals are still out there, you are going to have to traverse your way through the streams and anchors that are present in the entirety of the chart.
+\::[Crz\]Zetsfy::{ user=9299072 }'s charts generally test you a lot in physicality, and this chart in particular really tests a lot of that on the stream side. While it starts off with light jumpstreams, it immediately throws you into very dense stream patterns containing a LOT of anchors on many of the columns, forcing you to read this chart very carefully while going very fast. Another thing that makes this chart so difficult is its relentlessness: as long as the vocals are still out there, you are going to have to traverse your way through the streams and anchors that are present in the entirety of the chart.
 
 Thankfully, there is a break section after the first set of streams, but by this point, I'm sure you've already exhausted so much of your energy playing the first half. By the time the break ends, you'll have to brace yourself for another set of streams, which I'd argue that at this point, it would be much harder to keep up due to how much stamina you may have already lost.
 

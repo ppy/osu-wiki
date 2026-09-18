@@ -236,7 +236,7 @@ Did you know that former rank 1 player ::\_yu68::{ user=6170507 } even SS'd this
 
 [![](/wiki/shared/news/2023-11-22-project-loved-november-2023/1233048.jpg)](https://osu.ppy.sh/community/forums/topics/1848303)
 
-[Yonekura Chihiro - Koiseyo Otome! (Ozu's bootleg remix)](https://osu.ppy.sh/beatmapsets/1233048#taiko) by ::hoku::{ user=9503098 }, ::7\17::{ user=7491106 }, ::rezi888::{ user=2337821 }, ::Shamirin\1mzk::{ user=11325757 }, and ::X a v y::{ user=3738344 }\
+[Yonekura Chihiro - Koiseyo Otome! (Ozu's bootleg remix)](https://osu.ppy.sh/beatmapsets/1233048#taiko) by ::hoku::{ user=9503098 }, ::7_7::{ user=7491106 }, ::rezi888::{ user=2337821 }, ::Shamirin_mzk::{ user=11325757 }, and ::X a v y::{ user=3738344 }\
 264 BPM, 1:09 | 6.54★, 6.54★, 6.66★, 6.74★, 6.78★\
 *description written by ::ler1211::{ user=19901680 }*
 

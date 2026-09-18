@@ -13,7 +13,7 @@ Standing in a seemingly grim online world dominated by an artifical cold atmosph
 
 And without further ado, let's get started!
 
-::!\1RandomeLoL\1(/wiki/shared/news/2026-08-02-community-contributors-2025/randomelol.jpg)::{ user=7080063 }
+::![RandomeLoL](/wiki/shared/news/2026-08-02-community-contributors-2025/randomelol.jpg)::{ user=7080063 }
 
 Once in a blue moon, osu! gets blessed with a super-contributor who dedicates their sweat, blood, and tears over supporting many of the pillars that holds our community intact.
 
@@ -21,7 +21,7 @@ Over his years of doing everything he can get his hands on, ::**RandomeLoL**::{ 
 
 Beyond the scope of osu!mania, RandomeLoL has been a steady presence in wiki maintenance, news posts of all genres, and helping to keep NAT discussions on track with a greater goal of clarity and outreach. He's become a household name throughout osu! thanks to his ever-considerate approach and a clear focus on making the spaces he is in better today than yesterday.
 
-::!\1Dada\1(/wiki/shared/news/2026-08-02-community-contributors-2025/dada.jpg)::{ user=9119507 }
+::![Dada](/wiki/shared/news/2026-08-02-community-contributors-2025/dada.jpg)::{ user=9119507 }
 
 In osu!, mapping and tournaments often exist as two distinct worlds, each with their own skills, standards, and communities. Few individuals, however, have left a lasting impact on both. ::**Dada**::{ user=9119507 } stands firmly among them.
 
@@ -29,7 +29,7 @@ As an NAT member, Dada has played a central role in shaping the modern mapping s
 
 Beyond mapping, Dada's influence on the tournament scene has been equally significant, if not more. Over more than a decade, Dada has remained one of the most experienced and recognisable figures in tournaments, contributing as a player, host, commentator, and of course, mappooler. He authored one of the earliest and most comprehensive mappooling guides the game has ever seen, helping formalise practices that have defined competitive standards across the community for years. Meanwhile, Dada is the longest-standing OWC mappooler currently on the team, his longevity unmatched even in the scene of official tournaments. His work has been the backbone for some of the largest tournaments in osu!'s history, and will continue to be for years to come.
 
-::!\1Stage\1(/wiki/shared/news/2026-08-02-community-contributors-2025/stage.jpg)::{ user=8191845 }
+::![Stage](/wiki/shared/news/2026-08-02-community-contributors-2025/stage.jpg)::{ user=8191845 }
 
 It's no secret that the technical side of tournaments is one of the pillars keeping the entire scene standing, and few people have contributed to that side of the game quite like ::**Stage**::{ user=8191845 }.
 
@@ -39,7 +39,7 @@ Furthermore, Stage has been the driving force behind the osu! Tournament Rating 
 
 Put simply, we've got Stage to thank for making the lives of tournament organisers easier!
 
-::!\1ilw8\1(/wiki/shared/news/2026-08-02-community-contributors-2025/ilw8.jpg)::{ user=14167692 }
+::![ilw8](/wiki/shared/news/2026-08-02-community-contributors-2025/ilw8.jpg)::{ user=14167692 }
 
 If you keep up with tournaments, you've likely seen a stream or two from events such as [cavoe's osu! event](/wiki/Tournaments/COE), [The Roundtable](/wiki/Tournaments/The_Roundtable), or even official tournaments like the [Lazer Grand Arena](/wiki/Tournaments/LGA/2024). What you may not have considered is the development and production efforts necessary to make these broadcasts a reality, and that in many cases it's rested heavily on the shoulders of a single person, ::**ilw8**::{ user=14167692 }!
 
@@ -47,19 +47,19 @@ ilw8's contributions to production and development of tools such as custom strea
 
 There are far too many tournaments and contributions to list here. From his work on client-side tooling that keeps tournament play running smoothly for both players and staff, to setting up and customising livestreaming setups for tournaments of all kinds. As such, we believe this accolade is long overdue for one of the leading technical backbones of the ever-growing tournament scene.
 
-::!\1Shige-Tori\[a\]\1(/wiki/shared/news/2026-08-02-community-contributors-2025/shigetoria.jpg)::{ user=4459449 }
+::![Shige-Tori\[a\]](/wiki/shared/news/2026-08-02-community-contributors-2025/shigetoria.jpg)::{ user=4459449 }
 
 ::**Shige-Tori\[a\]**::{ user=4459449 } (not to be confused with the other ::Shige::{ user=124493 }), took the mantle of maintaining the beatmap packs project around 3 years ago, and has exhibited zero signs of slowing down since.
 
 As the fourth person to carry the torch of curating and publishing beatmap bundles for the community to enjoy, Shige has helped preserve one of osu!'s longest-standing traditions. While the work often happens quietly in the background, countless players have benefitted from the continued care and consistency they've brought to the project over the years.
 
-::!\1Wiek\1(/wiki/shared/news/2026-08-02-community-contributors-2025/wiek.jpg)::{ user=2584698 }
+::![Wiek](/wiki/shared/news/2026-08-02-community-contributors-2025/wiek.jpg)::{ user=2584698 }
 
 We believe it's safe to say that if you've viewed any video of an osu! replay, there's a good chance it was produced by [Danser](https://github.com/Wieku/danser-go) in one way or another, and we've got ::**Wiek**::{ user=2584698 } to thank for that!
 
 Initially starting in 2018 as a tool for creating "cursor dance" beatmap replays, Danser has significantly evolved over the years to become the go-to tool for automatically creating videos of osu! replays. With its ability to easily integrate into other projects and its widespread use, it's no surprise Danser became one of the community's most beloved tools.
 
-::!\1tybug\1(/wiki/shared/news/2026-08-02-community-contributors-2025/tybug.jpg)::{ user=12092800 }
+::![tybug](/wiki/shared/news/2026-08-02-community-contributors-2025/tybug.jpg)::{ user=12092800 }
 
 ::**tybug**::{ user=12092800 }'s contributions to the game are nothing short of outstanding. Many technically inclined osu! players are aware of tools such as [circleguard](https://github.com/circleguard/circleguard) or the commonly used Python wrapper for the osu! API [ossapi](https://github.com/Liam-DeVoe/ossapi). Thanks to these tools, community members have since been able to analyse replays and develop more community tools in a much more approachable manner!
 
@@ -67,19 +67,19 @@ Speaking of replay analysis, tybug's contributions have improved the game's comp
 
 Much of this kind of work will always go unnoticed, but if you've ever wondered how the game is able to remain fair and competitive for everyone, it's at least in part thanks to tybug's ever-present contributions!
 
-::!\1chromb\1(/wiki/shared/news/2026-08-02-community-contributors-2025/chromb.jpg)::{ user=10238680 }
+::![chromb](/wiki/shared/news/2026-08-02-community-contributors-2025/chromb.jpg)::{ user=10238680 }
 
 ::**chromb**::{ user=10238680 }'s presence in the community has become ubiquitous at this point. The omnipresent, omnipotent chrombium can be seen all throughout the osu! ecosystem. From offering top-of-the-line tech support in the [help subforum](https://osu.ppy.sh/community/forums/5), to their multiple appearances all throughout British LAN events, all whilst being one of the most active [Global Moderators](/wiki/People/Global_Moderation_Team) and chatters in the platform. You may even be one of the lucky few who have snatched a chromb sticker™ out of them!
 
 This is all in addition to their involvement in [osu! Medal Hunting](https://discord.com/invite/8qpNTs6) affairs, currently being one of the most active moderators in the platform, and even taking a foray into community event organisation with [Taskmaster](https://osu.ppy.sh/home/news/2025-11-22-osu-uk-epic46-recap#taskmaster). Suffice to say, your friendly neighbourhood chromb will always be there no matter where you are in the platform — no exceptions! We love chromb, and you should too.
 
-::!\1Lyawi\1(/wiki/shared/news/2026-08-02-community-contributors-2025/lyawi.jpg)::{ user=5851253 }
+::![Lyawi](/wiki/shared/news/2026-08-02-community-contributors-2025/lyawi.jpg)::{ user=5851253 }
 
 If you've ever encountered a predicament that made you resort to the [Help subforum](https://osu.ppy.sh/community/forums/5) sometime over the past 8 years, chances are you've crossed paths with ::**Lyawi**::{ user=5851253 }.
 
 While having joined the [Global Moderation Team](/wiki/People/Global_Moderation_Team) 3 years ago, she's been around in the technical support scene for much, much longer. Having assisted thousands of users and answering questions to those in need, all while holding a very admirable presence as a Global Moderator that speaks volumes about her dedication to the community!
 
-::!\1Civil oath\1(/wiki/shared/news/2026-08-02-community-contributors-2025/civiloath.jpg)::{ user=3216107 }
+::![Civil oath](/wiki/shared/news/2026-08-02-community-contributors-2025/civiloath.jpg)::{ user=3216107 }
 
 ::**Civil oath**::{ user=3216107 } has quietly established himself as one of the most dependable presences across multiple corners of the osu! Community. Having spent the past 5 years as one of the [Global Moderation Team](/wiki/People/Global_Moderation_Team)'s most active members, he's been a constant figure in general moderation efforts, Korean community support, and even the official osu! Twitch channel, helping keep things running smoothly no matter where help was needed.
 
@@ -87,11 +87,11 @@ His contributions also extend into Project Loved moderation and, more recently, 
 
 Despite the longstanding slowpoke reputation following him around, Civil oath's consistency and willingness to help have made him anything but slow when it comes to supporting the community.
 
-::!\1Mafumafu\1(/wiki/shared/news/2026-08-02-community-contributors-2025/mafumafu.jpg)::{ user=3076909 }
+::![Mafumafu](/wiki/shared/news/2026-08-02-community-contributors-2025/mafumafu.jpg)::{ user=3076909 }
 
 ::**Mafumafu**::{ user=3076909 }'s involvement in the mapping and modding community far transcends their role as a [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) member. With this many big-name contests hosted under their belt (both past and present) their impact on the osu! contest scene is nothing short of impressive. Such contests include but aren't limited to the [osu! Beatmapping World Championship](/wiki/Contests/o!bwc) series of contests and [Pending Cup 2025](/wiki/Contests/PDC/2025). This doesn't include their contributions in other forms such as helping to manage the [Chinese Charting Contest 2025](/wiki/Contests/CCC/2025) or judging for a plethora of other events! Suffice to say, if you've participated in an osu! beatmapping contest throughout 2025 (or even earlier), you have most likely been impacted by Mafumafu's contributions whether indirectly or directly.
 
-::!\1Maarvin\1(/wiki/shared/news/2026-08-02-community-contributors-2025/maarvin.jpg)::{ user=6411631 }
+::![Maarvin](/wiki/shared/news/2026-08-02-community-contributors-2025/maarvin.jpg)::{ user=6411631 }
 
 ::**Maarvin**::{ user=6411631 } has been a regular face in the osu! development scene for the past couple of years, mainly focused on editor features and other quality-of-life improvements. More recently, he has played a key role in developing the matchmaking infrastructure that began with [Quick Play](/wiki/Gameplay/Quick_play) and has since evolved into the [Ranked Play](https://www.youtube.com/watch?v=FdAS8LHID9g) mode, where his contributions have been especially impactful.
 
@@ -99,15 +99,15 @@ Outside of the official client, Maarvin has also been responsible for a very amb
 
 ## osu! wiki translations
 
-::!\1The\1Last\1Cookie\1(/wiki/shared/news/2026-08-02-community-contributors-2025/lastcookie.jpg)::{ user=11587828 }
+::![The_Last_Cookie](/wiki/shared/news/2026-08-02-community-contributors-2025/lastcookie.jpg)::{ user=11587828 }
 
-::!\1Tiburon\1(/wiki/shared/news/2026-08-02-community-contributors-2025/tiburon.jpg)::{ user=18115022 }
+::![Tiburon](/wiki/shared/news/2026-08-02-community-contributors-2025/tiburon.jpg)::{ user=18115022 }
 
-::!\1Agatem\1(/wiki/shared/news/2026-08-02-community-contributors-2025/agatem.jpg)::{ user=18202514 }
+::![Agatem](/wiki/shared/news/2026-08-02-community-contributors-2025/agatem.jpg)::{ user=18202514 }
 
-::!\1Muziyami\1(/wiki/shared/news/2026-08-02-community-contributors-2025/muziyami.jpg)::{ user=7003013 }
+::![Muziyami](/wiki/shared/news/2026-08-02-community-contributors-2025/muziyami.jpg)::{ user=7003013 }
 
-osu! is proud to be the home of rhythm game enthusiasts from all over the world. However, ever since the fall of the Tower of Babylon, languages have always been a difficult barrier to overcome. Thankfully, with people like ::**The\1Last\1Cookie**::{ user=11587828 }, ::**Tiburon**::{ user=18115022 }, ::**Agatem**::{ user=18202514 }, and ::**Muziyami**::{ user=7003013 } this has never been a problem for German, Spanish, and Chinese players alike! Their continued support keeping the wiki, website, and client up to date has made it possible for many users to enjoy the game in a wide variety of languages. Thank you! Gracias! Danke sehr! 非常感谢!
+osu! is proud to be the home of rhythm game enthusiasts from all over the world. However, ever since the fall of the Tower of Babylon, languages have always been a difficult barrier to overcome. Thankfully, with people like ::**The_Last_Cookie**::{ user=11587828 }, ::**Tiburon**::{ user=18115022 }, ::**Agatem**::{ user=18202514 }, and ::**Muziyami**::{ user=7003013 } this has never been a problem for German, Spanish, and Chinese players alike! Their continued support keeping the wiki, website, and client up to date has made it possible for many users to enjoy the game in a wide variety of languages. Thank you! Gracias! Danke sehr! 非常感谢!
 
 ## Storyboarding
 
@@ -117,7 +117,7 @@ That said, doing this is tricky in a niche scene with a high bar of entry, and t
 
 A new Elite Storyboarder hasn't been in consideration for the past five years, but recently, one name has repeatedly appeared on the radar.
 
-::!\1LowGraphics\1(/wiki/shared/news/2026-08-02-community-contributors-2025/lowgraphics.jpg)::{ user=5383942 }
+::![LowGraphics](/wiki/shared/news/2026-08-02-community-contributors-2025/lowgraphics.jpg)::{ user=5383942 }
 
 Having perfected an art of smooth motion design, excellent composition and some of the cleanest typography in the scene, ::**LowGraphics**::{ user=5383942 } creates storyboards that stand on their own as music videos.
 

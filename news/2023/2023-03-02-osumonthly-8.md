@@ -128,7 +128,7 @@ No fancy video embed for this one unfortunately, but here's a link to the [video
 
 osu!taiko is well known for its high skill ceiling, with many top players clearing harder and harder songs as the years go by. This month, we are showing off 2 extremely difficult clears, both impressive in their own ways.
 
-This first play, set by ::4\14::{ user=1152851 }, is a true example of showing just how far the skill (and stamina!) ceiling can be pushed in this game. The song is a 45-minute compilation of Konpaku Seriels famous "Angel" set of difficulties on their maps, known for pushing difficulty far beyond many Ranked maps at the moment. [This map](https://osu.ppy.sh/beatmapsets/772050#taiko/1623018) features some of the hardest gameplay currently found in osu!taiko.
+This first play, set by ::4_4::{ user=1152851 }, is a true example of showing just how far the skill (and stamina!) ceiling can be pushed in this game. The song is a 45-minute compilation of Konpaku Seriels famous "Angel" set of difficulties on their maps, known for pushing difficulty far beyond many Ranked maps at the moment. [This map](https://osu.ppy.sh/beatmapsets/772050#taiko/1623018) features some of the hardest gameplay currently found in osu!taiko.
 
 Some highlights for this map include brutal speed and stream sections reaching up to 400 BPM, which are still considered near impossible for players of any rank, and other difficult SV and tech sections that can put anybodies patience to the test. The play is just as impressive as it sounds, passing with much HP to spare and also with 91.80%. Enough talking though, please check out this very (long play) below!
 

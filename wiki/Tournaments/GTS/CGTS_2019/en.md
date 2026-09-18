@@ -135,7 +135,7 @@ The Continental Global Taiko Showdown 2019 was run by various community members.
 | :-- | :-- |
 | Top | ::{ flag=SG }:: ::Blerargh::{ user=7609510 }, ::{ flag=MY }:: ::\[Zeth\]::{ user=9912966 }, ::{ flag=PH }:: ::Pochacco::{ user=2927742 }, ::{ flag=ID }:: ::apaajaboleh10::{ user=5151647 } |
 | High | ::{ flag=NZ }:: ::Sparxe::{ user=5750235 }, ::{ flag=MY }:: ::growATMfarmz::{ user=12273160 }, ::{ flag=SG }:: ::Element118::{ user=2283992 }, ::{ flag=AU }:: ::Tsubasa2::{ user=6835183 } |
-| Low | ::{ flag=MY }:: ::imnoobatosuosu::{ user=12086753 }, ::{ flag=AU }:: ::richy2001::{ user=11499467 }, ::{ flag=AU }:: ::Beat43210::{ user=5664171 }, ::{ flag=MY }:: ::end\1ting::{ user=8570555 } |
+| Low | ::{ flag=MY }:: ::imnoobatosuosu::{ user=12086753 }, ::{ flag=AU }:: ::richy2001::{ user=11499467 }, ::{ flag=AU }:: ::Beat43210::{ user=5664171 }, ::{ flag=MY }:: ::end_ting::{ user=8570555 } |
 | Unseeded | ::{ flag=PH }:: ::Un\_Breaker::{ user=5670617 }, ::{ flag=MY }:: ::Bedwyr Aorta::{ user=10875855 }, ::{ flag=AU }:: ::AmateurMonkeyYT::{ user=8379046 }, ::{ flag=MY }:: ::newme96::{ user=2782769 } |
 
 #### South America

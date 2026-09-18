@@ -96,7 +96,7 @@ Not only is the map a marathon of no easy measure, but Kalanluu also decided to 
 
 As is the classic meme of osu!taiko top performance, this 4-mod insane play baffles anyone that stumbles upon such a feat.
 
-::Grape\1Tea::{ user=9540073 } does not disappoint with a mind-blowing, complete memorisation 4-mod play on [Sparxe - Comma, ~ Imi to Kouzou no Bunri [Horiiizon's Encore]](https://osu.ppy.sh/beatmapsets/1785711#taiko/3658314), which is not only impressive in and of itself, but also sets the new performance points record for osu!taiko.
+::Grape_Tea::{ user=9540073 } does not disappoint with a mind-blowing, complete memorisation 4-mod play on [Sparxe - Comma, ~ Imi to Kouzou no Bunri [Horiiizon's Encore]](https://osu.ppy.sh/beatmapsets/1785711#taiko/3658314), which is not only impressive in and of itself, but also sets the new performance points record for osu!taiko.
 
 If you've never seen someone magically FC a map with +HDHRDTFL and colours seemingly bouncing out of their judgement circles, this play is definitely for you:
 

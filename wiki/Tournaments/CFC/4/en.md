@@ -38,8 +38,8 @@ The Catch French Cup 4 was run by various community members.
 | Manager | ::{ flag=CA }:: ::Sinaeb::{ user=1576095 }, ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 } |
 | Mappool selector | ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 } |
 | Referee | ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, ::{ flag=FR }:: ::Ryumi::{ user=6596270 }, ::{ flag=FR }:: ::TLQ\_Yoshii::{ user=7157133 }, ::{ flag=CA }:: ::Sinaeb::{ user=1576095 }, ::{ flag=FR }:: ::Mimir::{ user=7382734 }, ::{ flag=JP }:: ::Briesmas::{ user=2865172 } |
-| Streamer | ::{ flag=CA }:: ::Sinaeb::{ user=1576095 }, ::{ flag=FR }:: ::FulgurentKille::{ user=4096322 }, ::{ flag=FR }:: ::Mirthille::{ user=7548517 }, ::{ flag=FR }:: ::TLQ\1Yoshii::{ user=7157133 } |
-| Commentator | ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, ::{ flag=FR }:: ::redjiii::{ user=1378728 }, ::{ flag=FR }:: ::FulgurentKille::{ user=4096322 }, ::{ flag=FR }:: ::Yruama::{ user=8221467 }, ::{ flag=FR }:: ::Tbotas::{ user=2084568 }, ::{ flag=FR }:: ::TLQ\1Yoshii::{ user=7157133 }, ::{ flag=FR }:: ::\_Manyura::{ user=8335913 } |
+| Streamer | ::{ flag=CA }:: ::Sinaeb::{ user=1576095 }, ::{ flag=FR }:: ::FulgurentKille::{ user=4096322 }, ::{ flag=FR }:: ::Mirthille::{ user=7548517 }, ::{ flag=FR }:: ::TLQ_Yoshii::{ user=7157133 } |
+| Commentator | ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, ::{ flag=FR }:: ::redjiii::{ user=1378728 }, ::{ flag=FR }:: ::FulgurentKille::{ user=4096322 }, ::{ flag=FR }:: ::Yruama::{ user=8221467 }, ::{ flag=FR }:: ::Tbotas::{ user=2084568 }, ::{ flag=FR }:: ::TLQ_Yoshii::{ user=7157133 }, ::{ flag=FR }:: ::\_Manyura::{ user=8335913 } |
 | Designer | ::{ flag=FR }:: ::Lotchidych::{ user=8375240 } |
 | Statistician | ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 } |
 | Wiki editor | ::{ flag=ID }:: ::Naruk::{ user=7100002 } |

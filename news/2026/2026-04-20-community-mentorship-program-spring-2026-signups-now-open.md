@@ -50,7 +50,7 @@ You can find more information on these mentors in their [detailed overview](http
 | ::{ flag=CN }:: ::RTrigger::{ user=25308131 } | UTC+8 |
 | ::{ flag=CA }:: ::Syrion-::{ user=15380643 } | UTC+8 |
 | ::{ flag=HK }:: ::NineSey::{ user=25454675 } | UTC+8 |
-| ::{ flag=CN }:: ::\1GB\1Cinelia::{ user=24289042 } | UTC+8 |
+| ::{ flag=CN }:: ::[GB]Cinelia::{ user=24289042 } | UTC+8 |
 | ::{ flag=CN }:: ::V1do-::{ user=17527968 } | UTC+8 |
 | ::{ flag=CN }:: ::Breakrio::{ user=1653229 } | UTC+8 |
 

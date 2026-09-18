@@ -48,7 +48,7 @@ outdated_translation: true
 | :-- | :-- |
 | ::{ flag=AU }:: Australia | **::Slaybelle::{ user=3084044 }**, ::dajayeway::{ user=4841352 }, ::Fideliant::{ user=2200052 }, ::Pew::{ user=597692 } |
 | ::{ flag=SG }:: Singapore | **::taikoplayer123::{ user=3580055 }**, ::SilverSufuru::{ user=3769280 }, ::xKwan::{ user=403397 } |
-| ::{ flag=FI }:: Finland | **::DarkSylarn::{ user=4266840 }**, ::zheep::{ user=1889827 }, ::Pelaaja\1X::{ user=3543051 } |
+| ::{ flag=FI }:: Finland | **::DarkSylarn::{ user=4266840 }**, ::zheep::{ user=1889827 }, ::Pelaaja_X::{ user=3543051 } |
 | ::{ flag=PH }:: Philippines | **::senkai::{ user=1150178 }**, ::Alkaeid::{ user=567322 }, ::Rumovik::{ user=3831514 }, ::Primrea::{ user=943743 } |
 | ::{ flag=KR }:: South Korea | **::bbj0920::{ user=87546 }**, ::Runa::{ user=4643294 }, ::SweetBloodyLove::{ user=139827 }, ::Lunaris Filia::{ user=1807472 }, ::L y s::{ user=211825 } |
 | ::{ flag=TW }:: Taiwan | **::-\[ ix Ishida xi \]-::{ user=242910 }**, ::jordan\_sur::{ user=2960947 }, ::zx\_baka\_0502442::{ user=457766 }, ::howar5041::{ user=584411 }, ::monkeydluffy3u4::{ user=2277798 }, ::mliencheng::{ user=586659 } |
@@ -75,7 +75,7 @@ outdated_translation: true
 | :-- | :-- |
 | ::{ flag=HU }:: Hungary | **::\_verto\_::{ user=2015300 }**, ::-Arp-::{ user=3027305 }, ::lussy\_6::{ user=226128 } |
 | ::{ flag=ID }:: Indonesia | **::Lightning Wyvern::{ user=1533122 }**, ::\_Destroyer\_::{ user=3185598 }, ::aika357::{ user=2488637 }, ::kpokol12::{ user=3577322 }, ::Niko-nyan::{ user=906991 }, ::Senritsu::{ user=1165368 } |
-| ::{ flag=CL }:: Chile | **::-Anhedonia-::{ user=920861 }**, ::-\1Kuroha\1-::{ user=4193212 }, ::MikuWRS::{ user=1619547 }, ::Pohm::{ user=2083934 } |
+| ::{ flag=CL }:: Chile | **::-Anhedonia-::{ user=920861 }**, ::-[Kuroha]-::{ user=4193212 }, ::MikuWRS::{ user=1619547 }, ::Pohm::{ user=2083934 } |
 | ::{ flag=ES }:: Spain | **::Hanjamon::{ user=1703330 }**, ::CARRI::{ user=854536 }, ::AlexGc96::{ user=1130179 }, ::MYRKUL::{ user=255933 }, ::taigoplayers::{ user=3687287 } |
 | ::{ flag=HK }:: Hong Kong | **::KanaRin::{ user=310747 }**, ::john26148853::{ user=2930055 }, ::ice man007::{ user=1926937 }, ::ll-oscar::{ user=1488736 }, ::aabc271::{ user=155707 }, ::ztrike::{ user=2568493 } |
 | ::{ flag=US }:: United States | **::Two Fruit Cakes::{ user=437259 }**, ::FLANKs::{ user=2398168 }, ::OzzyOzrock::{ user=465153 }, ::Shyguy::{ user=178038 }, ::Kuro::{ user=1735031 }, ::goatlife::{ user=4408784 } |

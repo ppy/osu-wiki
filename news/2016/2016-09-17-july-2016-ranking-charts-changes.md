@@ -100,7 +100,7 @@ I choose this because it provides a full difficulty spread which satisfies playe
 
 The mapper did a great job of charting a song like this one. The way the song's snapping is used provides pattern combinations that you'd not often see in the ranked section, and they play well in accordance to the music. When the song does go to its notable sections, the map goes along with it, keeping up with its fierceness as well as giving prominence to the strongest parts. Very good job on mapping this song overall!
 
-- [Team Grimoire - Grimoire of Crimson](https://osu.ppy.sh/beatmapsets/317861) by ::\1Shana Lesus\1::{ user=2881789 } (Nominator: ::Feerum::{ user=4815717 })
+- [Team Grimoire - Grimoire of Crimson](https://osu.ppy.sh/beatmapsets/317861) by ::[Shana Lesus]::{ user=2881789 } (Nominator: ::Feerum::{ user=4815717 })
 
 Interesting usage of patterns here. The mapper made good use of dense patterns when the song calls for it. 1/8 bursts scattered throughout the map puts further emphasis on the sound distortions (or wubs), further capturing the song's unpredictable nature and keeping you on your toes just in case those come into play. In short, it's a really good chart mapped to an interesting song!
 

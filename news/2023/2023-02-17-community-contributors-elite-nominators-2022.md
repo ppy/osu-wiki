@@ -15,37 +15,37 @@ Today, we will be acknowledging a handful more of these esteemed individuals who
 
 ## osu!
 
-::!\1\1(/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/Ryuusei-Aika.jpg)::{ user=7777875 }
+::![](/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/Ryuusei-Aika.jpg)::{ user=7777875 }
 
 After returning to the Beatmap Nominators at the start of 2022, ::Ryuusei Aika::{ user=7777875 } wasted no time in making his mark on the Ranked section. Whether it is adding to the variety in Ranked by pushing a whole host of mapping styles and unique mappers, or putting in the effort to check larger and longer beatmap sets, or even just the sheer number of nominations made (with over 160 nominations in 2022), Ryuusei Aika has done it all with very little issue.
 
 His efforts throughout the year have not gone unnoticed, with his overall performance across multiple facets resulting in him sporting the best score across the board in 2022. Beyond the mapping accolades he has achieved over the years (such as the [Mappers' Choice Awards 2021: Grand User](https://osu.ppy.sh/home/news/2022-12-08-mappers-choice-awards#osu!-users-grand-award) award), Ryuusei Aika today adds the vaunted Elite Nominator title to his collection, with his contributions as a Beatmap Nominator leaving a profound impact on the mapping scene.
 
-::!\1\1(/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/FuJu.jpg)::{ user=10773882 }
+::![](/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/FuJu.jpg)::{ user=10773882 }
 
 One of the most active contributors to beatmap discussions this year, ::FuJu::{ user=10773882 } has proven himself to be a top nominator! Even after joining the Nomination Assessment Team, he has consistently kept high activity whilst also maintaining high standards. His modding is always solid and concise, yet thorough and very helpful to mappers of all skill levels. We've seen his huge impact on the ranked scene, and his presence within the Beatmap Nominators has been noticed by many this year!
 
 Throughout the year, he has been a solid all-rounder, standing out especially for his ample involvement in nomination resets. All this, plus his consistency as a Beatmap Nominator is something we think is well worthy of the Elite Nominator title!
 
-::!\1\1(/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/SMOKELIND.jpg)::{ user=9327302 }
+::![](/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/SMOKELIND.jpg)::{ user=9327302 }
 
 ::SMOKELIND::{ user=9327302 } made a massive splash in the past year with the huge amount of variety in their nominations across older and newer mappers alike. Willing to delve into such a large variety is often daunting to other Beatmap Nominators, but is business as usual for SMOKELIND, leaving a diverse catalogue of Ranked maps in his wake.
 
 There is no doubt in our mind that SMOKELIND has deserved their spot as an Elite Nominator for 2022, backed up in no small part by these outstanding contributions to the game in the mapping and modding community!
 
-::!\1\1(/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/Mirash.jpg)::{ user=2841009 }
+::![](/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/Mirash.jpg)::{ user=2841009 }
 
 A long time Beatmap Nominator, ::Mirash::{ user=2841009 } has stood out this year due to his great contributions to the Ranked section through the nomination of various full-version and marathon songs and large spreads with diverse difficulties, all while maintaining a very low reset record. This is a tough task for any Beatmap Nominator to tackle, as it involves more work that is largely considered optional and ignored by many others in the group.
 
 Through commitment to his craft and a clear vision for the future of mapping, Mirash has helped populate the Ranked section with diversity and quality, all while being spotless compared to his peers, absolutely warranting his spot in the Elite Nominator line-up for this year.
 
-::!\1\1(/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/moonpoint.jpg)::{ user=9558549 }
+::![](/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/moonpoint.jpg)::{ user=9558549 }
 
 Continuing his excellent performance from 2021, ::moonpoint::{ user=9558549 } (formerly known as Apo11o) has proven himself time and time again as a prudent nominator. He's constantly pushed the Ranked section in innovative ways, promoting many map styles and song genres that would likely be ignored otherwise. This was especially notable in 2022, with moonpoint scoring above most other Beatmap Nominators in terms of variety and total beatmap set length, even going out of his way to spot issues in qualified maps and reset their nominations on many occasions.
 
 moonpoint's spotless tenure as a Beatmap Nominator cannot (and will not) go unnoticed, leaving his spot among the Elite an inevitability.
 
-::!\1\1(/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/fieryrage.jpg)::{ user=3533958 }
+::![](/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/fieryrage.jpg)::{ user=3533958 }
 
 A long-time member of the Beatmap Nominators, ::fieryrage::{ user=3533958 } really popped off this year, well and truly leaving his mark throughout the Ranked section.
 
@@ -53,7 +53,7 @@ His overall performance was excellent, showcasing a high degree of activity whil
 
 ## osu!taiko
 
-::!\1\1(/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/Hivie.jpg)::{ user=14102976 }
+::![](/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/Hivie.jpg)::{ user=14102976 }
 
 *Note: we are obligated to inform readers that ::radar::{ user=7131099 } is responsible for writing this segment.*
 
@@ -63,7 +63,7 @@ He has also run some of the most successful mapping contests the mode has ever s
 
 Not to mention that this was all done while consistently maintaining his leadership in Project Loved, Beatmap Spotlights, and the Community Mentorship Program. We hope to keep him kidnapped at the NAT headquarters for as long as possible, as who knows what could go wrong if we set him loose upon the world without restraint.
 
-::!\1\1(/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/meiqth.jpg)::{ user=12565402 }
+::![](/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/meiqth.jpg)::{ user=12565402 }
 
 Joining the Beatmap Nominators in June 2021, ::meiqth::{ user=12565402 } has been consistently performing at a top level with zero signs of slowing down, and to the surprise of no one, they took 2022 by storm with a consistently excellent performance in nominating a very diverse catalogue of over 200 beatmaps, almost entirely without issues.
 
@@ -73,13 +73,13 @@ This well-deserved award is a testament to the huge impact that meiqth has made 
 
 ## osu!catch
 
-::!\1\1(/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/zerokt.jpg)::{ user=13776127 }
+::![](/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/zerokt.jpg)::{ user=13776127 }
 
 You must be living under a rock if you haven't seen any osu!catch nominations being done by ::zerokt::{ user=13776127 } in 2022. Throughout the year, he managed to break the record of pushing the highest number of beatmaps in osu!catch with a whopping total of 120 unique nominations.
 
 Even without looking at any numbers, zerokt showed us over and over again why he deserves the recognition that comes with the Elite Nominator title. He also managed to do quite a lot of quality checking on qualified maps and kept a reasonably clean record in terms of resets.
 
-::!\1\1(/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/Secre.jpg)::{ user=2306637 }
+::![](/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/Secre.jpg)::{ user=2306637 }
 
 Continuing his track record from last year, ::Secre::{ user=2306637 } significantly influenced the nomination scene in 2022. Next to his efforts as a Nomination Assessment Team member, Secre kept his remarkable ambition for checking the Qualified section, ensuring the quality of many osu!catch beatmaps.
 
@@ -87,7 +87,7 @@ Besides his deeds of striving for a high-quality Qualified section, Secre also h
 
 ## osu!mania
 
-::!\1\1(/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/Maxus.jpg)::{ user=4335785 }
+::![](/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/Maxus.jpg)::{ user=4335785 }
 
 What isn't there to say about ::Maxus::{ user=4335785 }? If you were around for most of 2022, then you've probably heard his name at some point, as he was easily one of the most active and contributing members on the team at the time, and remains so to this day. He's been around in the community for many years now, so seeing him achieve this amount of growth within only a year is absolutely remarkable.
 
@@ -95,19 +95,19 @@ This involvement ultimately resulted in him attending to a whopping total of 125
 
 Maxus took massive strides to make osu!mania a lot more active during his time as a nominator in 2022, and we hope to see the same great strides from him in 2023 as well!
 
-::!\1\1(/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/gzdongsheng.jpg)::{ user=8660315 }
+::![](/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/gzdongsheng.jpg)::{ user=8660315 }
 
 Another osu!mania powerhouse coming into the scene in early 2022, ::gzdongsheng::{ user=8660315 } has been a prime example of quality for others by nominating various maps of high calibre, with huge spreads and lengthy drain times, across projects from different mappers across the community. Reaching over 103 nominations, he has proven himself to be an unstoppable force, opening the gates for much more diverse content to enter Ranked.
 
 He is one of the few nominators brave enough to push novel and high-level 4K maps prone to controversy that would otherwise have a difficult time getting into the Ranked section. Despite the skill ceiling, his ability to work on them skilfully showcases his experience and expertise as a nominator. With his amount of dedication and effort, in addition to promoting a variety of keymodes, gzdongsheng has proven himself to be one of the top nominators that are more than deserving to be awarded the coveted title of Elite Nominator!
 
-::!\1\1(/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/Akasha-.jpg)::{ user=2596306 }
+::![](/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/Akasha-.jpg)::{ user=2596306 }
 
 Breakthrough, obligation, willpower, meticulousness and affinity might be the 5 best keywords to describe ::Akasha-::{ user=2596306 }'s doings during 2022. As a Beatmap Nominator with a long-standing experience accumulated over 3 years, his performance this year is particularly notable. One particularly notable breakthrough nomination of his was for the iconic [Kry.exe feat. Ice - Last Wish](https://osu.ppy.sh/beatmapsets/1866317), which went on to achieve the highest star rating of any osu!mania Ranked map to date.
 
 Looking back, he has nominated over 100 maps across all keymodes and various styles, covering an extraordinarily wide range of creations. It also includes many large and challenging full-spread sets, with some even reaching over 10 difficulties at 4 minutes each. Never once shirking a friendly and thoughtful attitude, his accomplishments speak for themselves, and make him perfectly suited for the title of Elite Nominator.
 
-::!\1\1(/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/secXcscX.jpg)::{ user=13543418 }
+::![](/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/secXcscX.jpg)::{ user=13543418 }
 
 Despite only contributing for a few short months during 2022, ::secXcscX::{ user=13543418 }'s main strength shines in full through the fact that he manages to consistently deliver high-value nominations, which nets him to be one of the highest-performing nominators in the entire osu!mania community. One can see his work involving huge spreads and lengthy maps, and it's worth mentioning their diversity in helping a wide pool of unique mappers while we're at it.
 

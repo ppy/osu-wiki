@@ -21,13 +21,13 @@ Enough preamble for now, let's go through each of the new community contributors
 
 ## Contributors
 
-::!\1\1(/wiki/shared/news/2023-11-19-community-contributors-2022-2023/ephemeral.jpg)::{ user=102335 }
+::![](/wiki/shared/news/2023-11-19-community-contributors-2022-2023/ephemeral.jpg)::{ user=102335 }
 
 The cogs that keep osu! running require attention and care to keep running smoothly. Handling and advising in matters of moderation, team management, event organisation, medal ideation, mapping and modding scene administration, news dissemination, social media communication, Featured Artist coordination and too many more to count, **Ephemeral**'s role in both internal and community affairs is extensive and anything but ephemeral. You have seen something of his influence, without exception.
 
 His ways around arcane and abstruse words recurrently remind us to wonder about the true depth of his repertoire, but it's merely a small visible part of the immense communicative, linguistic and interpretative prowess that make him apt for the position he's found himself in.
 
-::!\1\1(/wiki/shared/news/2023-11-19-community-contributors-2022-2023/venix.jpg)::{ user=5999631 }
+::![](/wiki/shared/news/2023-11-19-community-contributors-2022-2023/venix.jpg)::{ user=5999631 }
 
 Canonically considered by the GMT and NAT as the reason for anything that has gone both right and wrong, **Venix** has been nothing short of excellent in all the roles and projects he's been responsible for.
 
@@ -35,23 +35,23 @@ He's been the main force behind the [Beatmap Spotlights](/wiki/Beatmap_Spotlight
 
 Nowadays, **Venix** sits as the official Global Moderation Team leader where he oversees all aspects of the team to ensure all gears are turning properly, all while sparing time to occasionally implement some handy [osu! website](https://github.com/ppy/osu-web) features.
 
-::!\1\1(/wiki/shared/news/2023-11-19-community-contributors-2022-2023/ticclick.jpg)::{ user=672931 }
+::![](/wiki/shared/news/2023-11-19-community-contributors-2022-2023/ticclick.jpg)::{ user=672931 }
 
 **TicClick**'s tireless tenures in moderation and osu! wiki maintenance positions surpass seven and three years respectively. Nearly single-handedly writing the wiki's Russian translation nowadays, going through the task list making sure the demand of new articles isn't left unchecked, helping countless other people contribute, all while rigging up automations, he has undoubtedly been responsible for at least half of the wiki operation during the new decade. Combining that with even less outwardly visible, yet long-standing work as part of the Global Moderation Team, his dedicated efforts have like clockwork kept these internals of osu! moving.
 
-::!\1\1(/wiki/shared/news/2023-11-19-community-contributors-2022-2023/radar.jpg)::{ user=7131099 }
+::![](/wiki/shared/news/2023-11-19-community-contributors-2022-2023/radar.jpg)::{ user=7131099 }
 
 Ever since joining the Beatmap Nominators back in late 2019, **radar** has passionately dedicated his time towards every responsibility he had in his hands and proved to be a very integral member of the community. From being one of the most active BNs at the start of his tenure, to being part of the organisation of many community projects such as the Project Loved, Mappers' Choice Awards, Beatmap Spotlights, and the Community Mentorship program, **radar**'s journey is of someone all but blossoming into manifold domains.
 
 Nowadays, **radar** stands as one of the mythical few who have chosen to dip their toes into the woes of NAT leadership, dedicating tons of time and effort to ensure that everything related to the mapping and modding ecosystem is running smoothly.
 
-::!\1\1(/wiki/shared/news/2023-11-19-community-contributors-2022-2023/cychloryn.jpg)::{ user=6921736 }
+::![](/wiki/shared/news/2023-11-19-community-contributors-2022-2023/cychloryn.jpg)::{ user=6921736 }
 
 Once upon a time, somewhere in the far lands of the arcane modding realms, one (at the time) Beatmap Nominator going by the name **Cychloryn** had a dream, which was to have a reliable and flexible modding queue. And so, [osumod.com](https://osumod.com) came to life! It worked just as **Cychloryn** expected, but what he didn't expect was the amount of escalating traction the website would get across the past 3 years, with over **1,500** unique queues existing, over **4,800** mappers and modders interacting with said queues, and over **57,000** unique requests created!
 
 osumod proved to be an integral tool in the mapping and modding community, to the point of becoming a central hub for modding queues for all game modes, and we have **Cychloryn** to thank for that!
 
-::!\1\1(/wiki/shared/news/2023-11-19-community-contributors-2022-2023/btmc.jpg)::{ user=3171691 }
+::![](/wiki/shared/news/2023-11-19-community-contributors-2022-2023/btmc.jpg)::{ user=3171691 }
 
 When asked to think of one ~*Genshin*~ osu! content creator, **Edward "BTMC" Ling** comes to mind for many. World-class player attaining osu! World Cup championship and charismatic entertainer sparking both joy and unforgettable memories, **BTMC** turns heads from the whole community and beyond, having become one of the most prominent figures to represent osu!.
 
@@ -59,7 +59,7 @@ But Ed dreamed of something greater than fame and accolades.
 
 Offline tournament series [The Roundtable](/wiki/Tournaments/The_Roundtable) of his initiation has redefined everyone's imaginations of what osu! tournaments could be. His incessant outreach about the game in other communities have brought [collaboration events never before conceivable](https://osu.ppy.sh/home/news/2023-04-22-waifu-jam-map-battle-contest). This inextinguishable flame of passion for the community has taken osu! to new heights in concrete ways, and cannot pretentiously be called exemplary; it radiates awe and inspiration.
 
-::!\1\1(/wiki/shared/news/2023-11-19-community-contributors-2022-2023/dio.jpg)::{ user=3958619 }
+::![](/wiki/shared/news/2023-11-19-community-contributors-2022-2023/dio.jpg)::{ user=3958619 }
 
 **D I O**'s voice permeates osu!'s competitive scene.
 
@@ -71,7 +71,7 @@ Disseminating this experience, he has provided [educational videos on using the 
 
 Let's not mince words. Behind that number of tournaments lies an immeasurable amount of people making the tournament scene awesome. His wealth of contributions, advice and resources have in literal and material terms helped osu! competition flourish.
 
-::!\1\1(/wiki/shared/news/2023-11-19-community-contributors-2022-2023/azer.jpg)::{ user=2155578 }
+::![](/wiki/shared/news/2023-11-19-community-contributors-2022-2023/azer.jpg)::{ user=2155578 }
 
 Standing before you is a legend.
 
@@ -81,15 +81,15 @@ Then, from winning numerous tournaments and taking the Canadian team far into Wo
 
 **Azer** is not just an influential figure, but also keeps the scene alive and prosperous. Providing live match commentary on top, he still provides players, spectators and staff alike insights grounded on almost a decade of experience. Wherever he goes in the future, the mountainous journey behind him commands nothing but respect.
 
-::!\1\1(/wiki/shared/news/2023-11-19-community-contributors-2022-2023/jerry.jpg)::{ user=605973 }
+::![](/wiki/shared/news/2023-11-19-community-contributors-2022-2023/jerry.jpg)::{ user=605973 }
 
 Single-handedly forming and fostering the modern osu!taiko Malaysian community, **Jerry** has been tirelessly grinding ever since he joined the Beatmap Nominators in late 2020 to make our communities as enjoyable and welcoming as ever, through hosting the [osu!taiko Malaysian Tournament](/wiki/Tournaments/OTMT) series — one of the most prestigious and high-effort osu!taiko tournaments of recent times, and being a notoriously valuable staff member in the [Global Taiko Showdown](/wiki/Tournaments/GTS) tournament series by making stellar art, video reveals, and even storyboards for the tournaments' custom song and map reveals. Let's not forget about the tons of other GFX contributions to countless community contests and events, of which you may recognise by browsing his [portfolio](https://nzmjerry.crd.co/), all while balancing his duties as a Global Moderator!
 
-::!\1\1(/wiki/shared/news/2023-11-19-community-contributors-2022-2023/roan.jpg)::{ user=8214639 }
+::![](/wiki/shared/news/2023-11-19-community-contributors-2022-2023/roan.jpg)::{ user=8214639 }
 
 The skinning world houses some of our most passionate and talented community members, and **Roan** is certainly one of them! Contrary to popular belief, he doesn't actually create skins — however, he has contributed immensely to the skinning ecosystem through the magic of coding and community management, playing an important role in the development of certain projects like [skinship](https://skinship.xyz/) and the [osu! skin compendium](https://compendium.skinship.xyz/), alongside other tools integral to skinning, namely [Image Scaler](https://osu.ppy.sh/community/forums/topics/762684), [Skin Checker](https://osu.ppy.sh/community/forums/topics/617168), and [Fringe Remover](https://osu.ppy.sh/community/forums/topics/1244643), all while balancing his role as a Global Moderator.
 
-::!\1\1(/wiki/shared/news/2023-11-19-community-contributors-2022-2023/darksonic.jpg)::{ user=570042 }
+::![](/wiki/shared/news/2023-11-19-community-contributors-2022-2023/darksonic.jpg)::{ user=570042 }
 
 *Feared were his words, commanding Spaniards the world over.*\
 *Revered were his exploits, his devotion for the Emerald Knights.*\
@@ -97,15 +97,15 @@ The skinning world houses some of our most passionate and talented community mem
 *So loomed his absence, a legacy of a magnitude painfully understood.*\
 *These were not last goodbyes, were they?*
 
-::!\1\1(/wiki/shared/news/2023-11-19-community-contributors-2022-2023/tanza3d.jpg)::{ user=10379965 }
+::![](/wiki/shared/news/2023-11-19-community-contributors-2022-2023/tanza3d.jpg)::{ user=10379965 }
 
 Constantly cranking out stunning graphics, **Tanza3D** has been instrumental for innumerable community projects. With a hand in the visage of various tournament logos, banners and stream overlays, plus single-handedly shaping the visual identities of [Project Loved](/wiki/Community/Project_Loved), [Osekai](https://osekai.net/) and the like, his distinct style permeates all corners of community creations. Anyone at all familiar with some of **Tanza3D**'s [portfolio](https://tanza.me/portfolio) may be able to recognise his work on sight among news post banners and badges of recent times.
 
-::!\1\1(/wiki/shared/news/2023-11-19-community-contributors-2022-2023/vrnl.jpg)::{ user=4799788 }
+::![](/wiki/shared/news/2023-11-19-community-contributors-2022-2023/vrnl.jpg)::{ user=4799788 }
 
 Score farmers: you know em', you love em'. These are players who dedicate sweat and tears into playing absurd amounts of Ranked maps. However, **vrnl** is a bit different, as he proved to also be a quality assurance beast by involving his mapping expertise in his ongoing adventure to beatmap [completion](/wiki/People/Completionists). He made sure that no map slips to the Ranked section with permanent timing errors through playing almost every freshly-ranked osu! and osu!taiko map, and swiftly reporting every problem he gets ahold of to the Nomination Assessment Team. Additionally, during the short-lived [Qualified Inspectors trial](https://osu.ppy.sh/community/forums/topics/1806549), **vrnl** has somehow managed to check an astonishing 90 Qualified osu!taiko beatmaps and catch 17 problems within them, all in the span of a single month!
 
-::!\1\1(/wiki/shared/news/2023-11-19-community-contributors-2022-2023/meyer.jpg)::{ user=5452367 }
+::![](/wiki/shared/news/2023-11-19-community-contributors-2022-2023/meyer.jpg)::{ user=5452367 }
 
 Current host of [cavoe's osu! event](/wiki/Community/cavoe's_osu!_event) (COE), **Meyer** has over the past half-decade risen to continue the event namesake's legacy of bringing the community together. Event organisation on the quality and scale of COE is a leviathan, multi-faceted undertaking, involving no shortage of tasks and responsibilities: logistics, community outreach, networking, stage production, designs, development, HR management, accounting... the list goes on. And **Meyer** involves himself with everything.
 
@@ -115,7 +115,7 @@ He exudes passion. Those of us who've met him can attest to that.
 
 What are Paragons? They are era-defining people of a particular game mode, molding and dictating the game in substantial and far-reaching ways. This time, we welcome one new osu!taiko Paragon:
 
-::!\1\1(/wiki/shared/news/2023-11-19-community-contributors-2022-2023/hivie.jpg)::{ user=14102976 }
+::![](/wiki/shared/news/2023-11-19-community-contributors-2022-2023/hivie.jpg)::{ user=14102976 }
 
 The breadth of **Hivie**'s work and impact across every conceivable facet of osu!taiko mapping, modding, tournaments, contests and tooling over the years is hard to overstate.
 
@@ -125,15 +125,15 @@ And we really mean visible. His ::highly decorated profile page::{ user=14102976
 
 ## Mappers' Guild
 
-::!\1\1(/wiki/shared/news/2023-11-19-community-contributors-2022-2023/famoss.jpg)::{ user=7707789 }
+::![](/wiki/shared/news/2023-11-19-community-contributors-2022-2023/famoss.jpg)::{ user=7707789 }
 
-::!\1\1(/wiki/shared/news/2023-11-19-community-contributors-2022-2023/hinsvar.jpg)::{ user=1249323 }
+::![](/wiki/shared/news/2023-11-19-community-contributors-2022-2023/hinsvar.jpg)::{ user=1249323 }
 
-::!\1\1(/wiki/shared/news/2023-11-19-community-contributors-2022-2023/jemzuu.jpg)::{ user=7890134 }
+::![](/wiki/shared/news/2023-11-19-community-contributors-2022-2023/jemzuu.jpg)::{ user=7890134 }
 
-::!\1\1(/wiki/shared/news/2023-11-19-community-contributors-2022-2023/smokelind.jpg)::{ user=9327302 }
+::![](/wiki/shared/news/2023-11-19-community-contributors-2022-2023/smokelind.jpg)::{ user=9327302 }
 
-::!\1\1(/wiki/shared/news/2023-11-19-community-contributors-2022-2023/strategas.jpg)::{ user=2971837 }
+::![](/wiki/shared/news/2023-11-19-community-contributors-2022-2023/strategas.jpg)::{ user=2971837 }
 
 If the unfathomable amount of [Featured Artist](/wiki/People/Featured_Artists) releases following an uninterrupted weekly release schedule for the past 3 years have somehow elided your notice, something must be wrong with you. If not, you might have wondered how we manage to pair almost every Featured Artist release with a dedicated set of [showcase maps](/wiki/People/Featured_Artists/Featured_Artist_showcase_beatmaps), and for that we'd like to thank our passionate and dedicated members of the Mappers' Guild!
 

@@ -49,11 +49,11 @@ Terrifyingly thrilling is the best way to describe TRICKL4SH 220, ::Regou::{ use
 
 [![](/wiki/shared/news/2018-01-23-beatmap-spotlights-december-2017/kimi-to-gelaende.jpg)](https://osu.ppy.sh/beatmapsets/543243)
 
-This month, veteran mapper ::Zero\1\1wind::{ user=1822830 } brings his third SHISAMO set to the ranked section - Kimi to Gelaende . This map features several clever uses of stacking based patterns and a highly refined handle on cursor movement. The lower difficulties follow suit with a similarly impressive design, leading to a highly enjoyable and rewarding experience for players of all skill levels.
+This month, veteran mapper ::Zero__wind::{ user=1822830 } brings his third SHISAMO set to the ranked section - Kimi to Gelaende . This map features several clever uses of stacking based patterns and a highly refined handle on cursor movement. The lower difficulties follow suit with a similarly impressive design, leading to a highly enjoyable and rewarding experience for players of all skill levels.
 
 [![](/wiki/shared/news/2018-01-23-beatmap-spotlights-december-2017/byakuya-gensoutan.jpg)](https://osu.ppy.sh/beatmapsets/667097)
 
-Winning the 5th Pending Cup, an annual mapping contest that attracts experienced mappers globally, ::Chaoslitz::{ user=3621552 } brings us a marvellous collection of top-quality entries! Additionally, as the mapper of the top difficulty, ::yf\1bmp::{ user=1243669 } vividly expresses the song with well-organized patterns and incredible hitsounding. Still, don't forget to check out all the difficulties if you are a fan of diversity, as both technical and aim-heavy styles are included in this mapset!
+Winning the 5th Pending Cup, an annual mapping contest that attracts experienced mappers globally, ::Chaoslitz::{ user=3621552 } brings us a marvellous collection of top-quality entries! Additionally, as the mapper of the top difficulty, ::yf_bmp::{ user=1243669 } vividly expresses the song with well-organized patterns and incredible hitsounding. Still, don't forget to check out all the difficulties if you are a fan of diversity, as both technical and aim-heavy styles are included in this mapset!
 
 ### osu!taiko
 
@@ -105,7 +105,7 @@ The advantage of such an exceptionally long chart is that it allows for greater 
 
 [![](/wiki/shared/news/2018-01-23-beatmap-spotlights-december-2017/scars-of-fauna.jpg)](https://osu.ppy.sh/beatmapsets/644654)
 
-For his 14th ranked map, ::Critical\1Star::{ user=3793196 } presents us with a song which is beautiful to listen and awesome to play - Scars of FAUNA by Nekomata Master. The way the map is made is rather unique, having a good pattern style spread such as chordstream, long notes, even some technical parts with jacks. We can also observe bursts in every intersection throughout the map, which fits extremely well with the rhythm of the music.
+For his 14th ranked map, ::Critical_Star::{ user=3793196 } presents us with a song which is beautiful to listen and awesome to play - Scars of FAUNA by Nekomata Master. The way the map is made is rather unique, having a good pattern style spread such as chordstream, long notes, even some technical parts with jacks. We can also observe bursts in every intersection throughout the map, which fits extremely well with the rhythm of the music.
 
 With that being said, even though this map didn't top the Spotlights this month, this map totally deserves more popularity for its unique pattern style, which is rarely seen in the ranked section.
 

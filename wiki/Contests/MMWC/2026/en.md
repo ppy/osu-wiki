@@ -60,9 +60,9 @@ The osu!mania Mapping World Cup 2026 is run by various community members.
 | ::{ flag=AU }:: | **Australia** | **::oct4::{ user=10303887 }**, ::anatharax::{ user=14390680 }, ::eplup::{ user=12208273 }, ::uoop::{ user=10901058 } | - |
 | ::{ flag=BR }:: | **Brazil** | **::Davix150::{ user=26512810 }**, ::Kleiton::{ user=26645946 }, ::Villanovinho::{ user=29512763 } | - |
 | ::{ flag=CA }:: | **Canada** | **::Livium::{ user=9828552 }**, ::Some1SomeWhere::{ user=28548745 }, ::Zembonics::{ user=16119061 } | - |
-| ::{ flag=CN }:: | **China A** | **::VividCycle::{ user=14351534 }**, ::chy030\1ft\1pH5\16::{ user=9492856 }, ::G1NYA::{ user=31767575 }, ::PlatinumSplash::{ user=23427252 } | - |
-| ::{ flag=CN }:: | **China B** | **::purakon::{ user=22412151 }**, ::nai\1::{ user=37783133 }, ::nyamushi::{ user=17537004 }, ::oid45::{ user=27710732 } | - |
-| ::{ flag=CN }:: | **China C** | **::Twlight\1Shelter::{ user=36658406 }**, ::7912::{ user=14875348 }, ::Bulanzel::{ user=26259108 }, ::Columbina Neko::{ user=32331584 } | - |
+| ::{ flag=CN }:: | **China A** | **::VividCycle::{ user=14351534 }**, ::chy030_ft_pH5_6::{ user=9492856 }, ::G1NYA::{ user=31767575 }, ::PlatinumSplash::{ user=23427252 } | - |
+| ::{ flag=CN }:: | **China B** | **::purakon::{ user=22412151 }**, ::nai_::{ user=37783133 }, ::nyamushi::{ user=17537004 }, ::oid45::{ user=27710732 } | - |
+| ::{ flag=CN }:: | **China C** | **::Twlight_Shelter::{ user=36658406 }**, ::7912::{ user=14875348 }, ::Bulanzel::{ user=26259108 }, ::Columbina Neko::{ user=32331584 } | - |
 | ::{ flag=CN }:: | **China D** | **::Leaper::{ user=36115565 }**, ::BenZn::{ user=32406156 }, ::litape::{ user=19240795 }, ::zzzbc::{ user=34699496 } | - |
 | ::{ flag=CO }:: | **Colombia** | **::xNett::{ user=4998501 }**, ::AlexGB::{ user=24500138 }, ::eveille::{ user=35548476 }, ::MarvelousCosmos::{ user=14189527 } | - |
 | ::{ flag=CZ }:: | **Czechia** | **::dying hamster::{ user=8623171 }**, ::Addaamm007::{ user=19126992 }, ::kojodat::{ user=28849296 }, ::zCombo::{ user=36426983 } | - |
@@ -73,7 +73,7 @@ The osu!mania Mapping World Cup 2026 is run by various community members.
 | ::{ flag=ID }:: | **Indonesia C** | **::BAMUPRI72::{ user=32848415 }**, ::Envily::{ user=32455325 }, ::Gamesnake7::{ user=28253504 }, ::lucknut::{ user=19724595 } | - |
 | ::{ flag=ID }:: | **Indonesia D** | **::Oscyy::{ user=4818604 }**, ::ChocoCoki-::{ user=3565870 }, ::upan::{ user=5214397 } | - |
 | ::{ flag=IT }:: | **Italy** | **::rikan::{ user=25263357 }**, ::Relae::{ user=14455536 }, ::ricetoasty::{ user=15339833 } | - |
-| ::{ flag=JP }:: | **Japan** | **::f\1ronte::{ user=33532882 }**, ::ICECAKE::{ user=16100800 }, ::omegaY\_::{ user=14727263 }, ::yoshyap::{ user=16608860 } | - |
+| ::{ flag=JP }:: | **Japan** | **::f_ronte::{ user=33532882 }**, ::ICECAKE::{ user=16100800 }, ::omegaY\_::{ user=14727263 }, ::yoshyap::{ user=16608860 } | - |
 | ::{ flag=MY }:: | **Malaysia** | **::\_Kobii::{ user=6209713 }**, ::\[-Leon-\]::{ user=13382147 }, ::Mochineko::{ user=3793196 } | - |
 | ::{ flag=MX }:: | **Mexico** | **::Naiibe::{ user=21340543 }**, ::kilotek::{ user=23833099 }, ::Sakuragi Kaware::{ user=19638984 }, ::tochi::{ user=13875577 } | - |
 | ::{ flag=NL }:: | **Netherlands** | **::Linlime::{ user=14438535 }**, ::DannyPX::{ user=11253722 }, ::Muse Dash::{ user=13695676 }, ::Saemitsu::{ user=14262789 } | - |
@@ -83,9 +83,9 @@ The osu!mania Mapping World Cup 2026 is run by various community members.
 | ::{ flag=PL }:: | **Poland A** | **::caracol::{ user=10764851 }**, ::fabsoneq::{ user=13708921 }, ::Paraxia::{ user=14001000 } | - |
 | ::{ flag=PL }:: | **Poland B** | **::malza::{ user=19141228 }**, ::Archaic84::{ user=8611177 }, ::bagjettka::{ user=18338179 }, ::Eclipse-::{ user=8493070 } | - |
 | ::{ flag=RU }:: | **Russian Federation** | **::Son\_66::{ user=27315846 }**, ::astat11::{ user=12338913 }, ::Lazurent::{ user=17272017 }, ::riftoyu::{ user=26702763 } | - |
-| ::{ flag=KR }:: | **South Korea A** | **::Nicknem\1::{ user=16615040 }**, ::Ppass::{ user=4782226 }, ::Stereotype::{ user=25311011 } | - |
+| ::{ flag=KR }:: | **South Korea A** | **::Nicknem_::{ user=16615040 }**, ::Ppass::{ user=4782226 }, ::Stereotype::{ user=25311011 } | - |
 | ::{ flag=KR }:: | **South Korea C** | **::komugii::{ user=16723762 }**, ::11Bit::{ user=14804526 }, ::LeiN-::{ user=2162939 } | - |
-| ::{ flag=KR }:: | **South Korea D** | **::Stellium::{ user=10910337 }**, ::artsim::{ user=12127515 }, ::eospjm1::{ user=16290625 }, ::paradoxus\1::{ user=11185275 } | - |
+| ::{ flag=KR }:: | **South Korea D** | **::Stellium::{ user=10910337 }**, ::artsim::{ user=12127515 }, ::eospjm1::{ user=16290625 }, ::paradoxus_::{ user=11185275 } | - |
 | ::{ flag=KR }:: | **South Korea E** | **::hemoo::{ user=4420703 }**, ::GDBlack::{ user=16976072 }, ::Raon2007::{ user=25850141 } | - |
 | ::{ flag=KR }:: | **South Korea F** | **::ikasaros::{ user=37896900 }**, ::LucaMe::{ user=38266759 }, ::nooboonooboono::{ user=36630049 } | - |
 | ::{ flag=TH }:: | **Thailand** | **::nanonbandusty::{ user=15543726 }**, ::haerinforever::{ user=12852613 }, ::MatchaLatte-::{ user=15944956 }, ::t9Wa2::{ user=17768395 } | - |

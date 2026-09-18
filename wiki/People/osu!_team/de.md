@@ -34,7 +34,7 @@ Die unten aufgeführten Personen bilden den Kern des **osu!-Teams** und sind hau
 | ::{ flag=CN }:: ::Sakura006::{ user=10365024 } | Designkoordinator für [World Cups](/wiki/Tournaments#offizielle-world-cups) |
 | ::{ flag=FR }:: ::Shiro::{ user=113005 } | Allgemeiner Hausmeister |
 | ::{ flag=AU }:: ::smoogipoo::{ user=1040328 } | osu!-Entwickler, osu!mania-Liebhaber, Fehlerbeseitiger |
-| ::{ flag=PL }:: ::spaceman\1atlas::{ user=3035836 } | osu!-Entwickler, technische Unterstützung |
+| ::{ flag=PL }:: ::spaceman_atlas::{ user=3035836 } | osu!-Entwickler, technische Unterstützung |
 | ::{ flag=GB }:: ::Tanza::{ user=10379965 } | Designer |
 | ::{ flag=FR }:: ::ThePooN::{ user=718454 } | osu!-Entwickler für die Infrastruktur |
 | ::{ flag=ES }:: ::Trosk-::{ user=3469385 } | Allgemeiner Hausmeister, Turnierassistent, THE OPERATOR |

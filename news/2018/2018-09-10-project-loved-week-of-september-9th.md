@@ -147,7 +147,7 @@ Taking a break from the standard super-hard loved map submissions, we present to
 
 [![](/wiki/shared/news/2018-09-09-project-loved-week-of-september-9th/catch/space-time-amane-hard-core-remix.jpg)](https://osu.ppy.sh/community/forums/topics/801938)
 
-[Amane - Space time[Amane Hard core Remix]](https://osu.ppy.sh/beatmapsets/327638) by ::\1224\1Hyperw7::{ user=4158549 }\
+[Amane - Space time[Amane Hard core Remix]](https://osu.ppy.sh/beatmapsets/327638) by ::[224]Hyperw7::{ user=4158549 }\
 *written by ::Tenshichan::{ user=1101600 }*
 
 Space time is not what you expect of an average very-hard map. The whole thing is filled with patterns designed to make your playing experience a nightmare. But exactly that, the difficulty and uniqueness of the patterns used, is what makes this map fun to play. You can challenge yourself to catch as many of the patterns as you can or to hold the accuracy as high as possible—getting a B rank is already a challenge, even for very experienced players. It may be unforgiving, but it's an incredible challenge. Fly like a spaceship!

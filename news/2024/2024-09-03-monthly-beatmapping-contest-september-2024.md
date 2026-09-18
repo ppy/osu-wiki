@@ -65,7 +65,7 @@ Special thanks to ::arcpotato::{ user=12842392 }, ::meiqth::{ user=12565402 }, :
 
 ::Xinnoh::{ user=4236057 } received the *Elite Mapper* title long ago through another mapping contest, but he's back again to continue proving his osu!catch competence. Congrats on yet another success!
 
-These results were determined by osu!catch's judging panel: ::Morusya::{ user=13681464 }, ::Unlucky\1w::{ user=4820793 }, ::Greaper::{ user=2369776 }, and ::Chatie::{ user=6524765 }!
+These results were determined by osu!catch's judging panel: ::Morusya::{ user=13681464 }, ::Unlucky_w::{ user=4820793 }, ::Greaper::{ user=2369776 }, and ::Chatie::{ user=6524765 }!
 
 ## Game modes
 

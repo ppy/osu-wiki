@@ -36,7 +36,7 @@ La **Korean Charting Contest 2022** (***KCC2022***) est un concours de mapping o
 | Organisateur | ::{ flag=KR }:: ::Garalulu::{ user=757783 } |
 | Gestionnaire | ::{ flag=KR }:: ::Oni Suika::{ user=4848023 } |
 | Designer | ::{ flag=KR }:: ::Manwon::{ user=4129020 } |
-| Juge | ::{ flag=CN }:: ::\1Stan::{ user=1653229 }, ::{ flag=SG }:: ::Evening::{ user=2193881 }, ::{ flag=KR }:: ::Garalulu::{ user=757783 }, ::{ flag=PH }:: ::lenpai::{ user=5314573 }, ::{ flag=KR }:: ::Remuring::{ user=6522146 } |
+| Juge | ::{ flag=CN }:: ::_Stan::{ user=1653229 }, ::{ flag=SG }:: ::Evening::{ user=2193881 }, ::{ flag=KR }:: ::Garalulu::{ user=757783 }, ::{ flag=PH }:: ::lenpai::{ user=5314573 }, ::{ flag=KR }:: ::Remuring::{ user=6522146 } |
 
 ## Liens
 

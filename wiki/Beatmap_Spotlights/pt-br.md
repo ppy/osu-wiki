@@ -49,13 +49,13 @@ Cada lançamento do Beatmap Spotlights é montado por um time dedicado de curado
 - ::{ flag=US }:: ::Nifty::{ user=4956097 }
 - ::{ flag=US }:: ::radar::{ user=7131099 }
 - ::{ flag=JP }:: ::uone::{ user=5321719 }
-- ::{ flag=MY }:: ::\1Zeth\1::{ user=9912966 }
+- ::{ flag=MY }:: ::[Zeth]::{ user=9912966 }
 
 ### Curadores osu!catch
 
 - ::{ flag=CA }:: **::SadEgg::{ user=10278243 }**
 - ::{ flag=US }:: ::radar::{ user=7131099 }
-- ::{ flag=KR }:: ::x\1angelkawaii\1x::{ user=566276 }
+- ::{ flag=KR }:: ::x_angelkawaii_x::{ user=566276 }
 - ::{ flag=US }:: ::Snowless::{ user=4316266 }
 - ::{ flag=US }:: ::wonjae::{ user=5032045 }
 
@@ -65,7 +65,7 @@ Cada lançamento do Beatmap Spotlights é montado por um time dedicado de curado
 - ::{ flag=KR }:: ::Aruel::{ user=3984370 }
 - ::{ flag=CA }:: ::BringoBrango::{ user=10274043 }
 - ::{ flag=AU }:: ::CrumpetFiddler::{ user=3518705 }
-- ::{ flag=AU }:: ::\1 Decku \1::{ user=13360768 }
+- ::{ flag=AU }:: ::[ Decku ]::{ user=13360768 }
 - ::{ flag=TH }:: ::HowToPlayLN::{ user=10879600 }
 - ::{ flag=DO }:: ::Kaito-kun::{ user=4715184 }
 - ::{ flag=MY }:: ::Kibitz::{ user=7418493 }

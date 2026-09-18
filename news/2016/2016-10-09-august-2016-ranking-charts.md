@@ -110,7 +110,7 @@ With the map utilizing such an unorthodox and adventurous mapping style, it is r
 
 An ideal mapset for people who are looking to pick up 9K as a new challenge on their road in osu!mania. A calm and nice ambient accompanied by this really nicely thought out chart for both newcomers and people who are starting to get adept at this keymode. Easy difficulty features pretty basic pitch relevant patterns and Normal introduces rather tricky LN patterns that are a decent challenge to hit, even at that low of a BPM. A short and well done chart.
 
-- [AKITO - Sakura Kagetsu](https://osu.ppy.sh/beatmapsets/472124) by ::ZZHBOY::{ user=1565739 } (Nominator: ::\1 A v a l o n \1::{ user=4632359 })
+- [AKITO - Sakura Kagetsu](https://osu.ppy.sh/beatmapsets/472124) by ::ZZHBOY::{ user=1565739 } (Nominator: ::[ A v a l o n ]::{ user=4632359 })
 
 I especially love the patterns how they flow. Even though people judge it as an easy beatmap, it still felt very good when I've played it because of the well made keysounds which sound beautiful to me.
 

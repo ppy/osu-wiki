@@ -31,7 +31,7 @@ If you're more of a visual learner, here's a showcase of all winning beatmaps in
 
 [![](/wiki/shared/news/2025-02-18-community-choice-2024-results/burning-star.jpg)](https://osu.ppy.sh/beatmapsets/2095154)
 
-Taking the [osu! World Cup 2023](/wiki/Tournaments/OWC/2023) by storm, ::ktgster::{ user=53378 } brought us an absolute banger of a map (featuring difficulties from ::Wispy::{ user=11106929 }, ::Cytusine::{ user=11557554 }, ::IOException::{ user=2688103 }, ::Serenhaide::{ user=10466315 }, ::Dada::{ user=9119507 }, ::squirrelpascals::{ user=6151332 }, and ::Nytrocide\1::{ user=11327918 }) that currently houses what's commonly referred as the best tournament score of all-time: a 99.01% accuracy FC on OWC 2023's Grand Finals HR3 pick, which was set by none other than ::worst hr player::{ user=14106450 } against the almighty United States OWC team.
+Taking the [osu! World Cup 2023](/wiki/Tournaments/OWC/2023) by storm, ::ktgster::{ user=53378 } brought us an absolute banger of a map (featuring difficulties from ::Wispy::{ user=11106929 }, ::Cytusine::{ user=11557554 }, ::IOException::{ user=2688103 }, ::Serenhaide::{ user=10466315 }, ::Dada::{ user=9119507 }, ::squirrelpascals::{ user=6151332 }, and ::Nytrocide_::{ user=11327918 }) that currently houses what's commonly referred as the best tournament score of all-time: a 99.01% accuracy FC on OWC 2023's Grand Finals HR3 pick, which was set by none other than ::worst hr player::{ user=14106450 } against the almighty United States OWC team.
 
 This score has left such a significant mark on the community that it resonated enough with players to be voted as the *Community Choice* for 2024.
 
@@ -138,7 +138,7 @@ Like fruits? Who doesn't! ::Spectator::{ user=702598 }, ::Lacrima::{ user=491564
 - [**Down - Kizan**](https://osu.ppy.sh/beatmapsets/2095318) by ::**Mochi -**::{ user=20424806 } with **54** votes.
 - [**Ludicin - Echoes of Memoria**](https://osu.ppy.sh/beatmapsets/2271235) by ::**Mochi -**::{ user=20424806 } with **52** votes.
 - [**IOSYS - Scarlet Keisatsu no Ghetto Patrol 24-ji**](https://osu.ppy.sh/beatmapsets/2151953) by ::**Rocma**::{ user=566276 } with **50** votes.
-- [**II-L - VANGUARD-3**](https://osu.ppy.sh/beatmapsets/2124277) by ::**Unlucky\1w**::{ user=4820793 } with **49** votes.
+- [**II-L - VANGUARD-3**](https://osu.ppy.sh/beatmapsets/2124277) by ::**Unlucky_w**::{ user=4820793 } with **49** votes.
 - [**Wire - Brazil**](https://osu.ppy.sh/beatmapsets/2112089) by ::**Vaqu**::{ user=14714724 } with **42** votes.
 - [**II-L feat. amelie xoxo - THE EARTH**](https://osu.ppy.sh/beatmapsets/2005876) by ::**Rocma**::{ user=566276 } with **41** votes.
 
@@ -149,7 +149,7 @@ Like fruits? Who doesn't! ::Spectator::{ user=702598 }, ::Lacrima::{ user=491564
 - [**SOOOO - illloved (osu! Edit)**](https://osu.ppy.sh/beatmapsets/2195067) by ::**Mochi -**::{ user=20424806 } with **11** votes.
 - [**Kou! - Frost Walker**](https://osu.ppy.sh/beatmapsets/2202823) by ::**Spectator**::{ user=702598 } with **9** votes.
 - [**Halv vs. kuro - Evreka**](https://osu.ppy.sh/beatmapsets/2104337) by ::**Spectator**::{ user=702598 } with **8** votes.
-- [**II-L - VANGUARD-3**](https://osu.ppy.sh/beatmapsets/2124277) by ::**Unlucky\1w**::{ user=4820793 } with **8** votes.
+- [**II-L - VANGUARD-3**](https://osu.ppy.sh/beatmapsets/2124277) by ::**Unlucky_w**::{ user=4820793 } with **8** votes.
 - [**Amuro vs. Killer - Mei**](https://osu.ppy.sh/beatmapsets/2144786) by ::**Spectator**::{ user=702598 } with **8** votes.
 - [**tn-shi - INVERSION**](https://osu.ppy.sh/beatmapsets/2152300) by ::**autofanboy**::{ user=636114 } with **8** votes.
 - [**IOSYS - Scarlet Keisatsu no Ghetto Patrol 24-ji**](https://osu.ppy.sh/beatmapsets/2151953) by ::**Rocma**::{ user=566276 } with **8** votes.
@@ -201,29 +201,29 @@ Besides the traction gained from its tournament debut, users from all skill leve
 
 [![](/wiki/shared/news/2025-02-18-community-choice-2024-results/everlasting-eternity.jpg?1)](https://osu.ppy.sh/beatmapsets/2099753)
 
-Arguably a contender for ::Critical\1Star::{ user=3793196 }'s magnum opus, with the help of ::tyrcs::{ user=13026904 } and ::Schopfer::{ user=11270477 } [**Ludicin - Everlasting Eternity**](https://osu.ppy.sh/beatmapsets/2099753) quickly became one of the most admired 7K maps of the year despite being ranked during the lattermost quarter of 2024.
+Arguably a contender for ::Critical_Star::{ user=3793196 }'s magnum opus, with the help of ::tyrcs::{ user=13026904 } and ::Schopfer::{ user=11270477 } [**Ludicin - Everlasting Eternity**](https://osu.ppy.sh/beatmapsets/2099753) quickly became one of the most admired 7K maps of the year despite being ranked during the lattermost quarter of 2024.
 
 For many, this is the epitome of 7K mapping when it comes to tiebreak-styled maps. It is an extremely challenging, full-flavour experience with plenty of variety to spare! With the help of ::RiceSS::{ user=8271436 }'s storyboard to bring the map to life, this was an unforgettable experience for the few able to withstand the gauntlet.
 
 #### Community Choice finalists
 
-- [**Ludicin - Everlasting Eternity**](https://osu.ppy.sh/beatmapsets/2099753) by ::**Critical\1Star**::{ user=3793196 } with **219** votes.
+- [**Ludicin - Everlasting Eternity**](https://osu.ppy.sh/beatmapsets/2099753) by ::**Critical_Star**::{ user=3793196 } with **219** votes.
 - [**seatrus - DiSANiMATE**](https://osu.ppy.sh/beatmapsets/2163279) by ::**Blocko**::{ user=4075092 } with **138** votes.
-- [**DJ Raisei - Fractured Heaven**](https://osu.ppy.sh/beatmapsets/2241070) by ::**Critical\1Star**::{ user=3793196 } with **134** votes.
-- [**EZFG - Glucagon**](https://osu.ppy.sh/beatmapsets/2030433) by ::**Critical\1Star**::{ user=3793196 } with **95** votes.
+- [**DJ Raisei - Fractured Heaven**](https://osu.ppy.sh/beatmapsets/2241070) by ::**Critical_Star**::{ user=3793196 } with **134** votes.
+- [**EZFG - Glucagon**](https://osu.ppy.sh/beatmapsets/2030433) by ::**Critical_Star**::{ user=3793196 } with **95** votes.
 - [**Lime - Campanella**](https://osu.ppy.sh/beatmapsets/2146184) by ::**Tailsdk**::{ user=6751666 } with **92** votes.
 - [**LV.4 - Burning Star**](https://osu.ppy.sh/beatmapsets/2102464) by ::**Carpihat**::{ user=10085090 } with **87** votes.
-- [**Lee Jin Ah - Target for Love (Ludicin's Hardcore Bootleg)**](https://osu.ppy.sh/beatmapsets/2126930) by ::**Critical\1Star**::{ user=3793196 } with **72** votes.
+- [**Lee Jin Ah - Target for Love (Ludicin's Hardcore Bootleg)**](https://osu.ppy.sh/beatmapsets/2126930) by ::**Critical_Star**::{ user=3793196 } with **72** votes.
 - [**Kashii Moimi feat. KAFU - Cat Loving (kageminori bootleg)**](https://osu.ppy.sh/beatmapsets/1956659) by ::**Herarudo**::{ user=12086252 } with **65** votes.
 - [**technoplanet - Vomit**](https://osu.ppy.sh/beatmapsets/2203489) by ::**\_Stan**::{ user=1653229 } with **65** votes.
 - [**C-Show - GIMME DA BLOOD**](https://osu.ppy.sh/beatmapsets/1935723) by ::**Tropicar**::{ user=8408784 } with **55** votes.
 
 #### Mapper's Favourite finalists
 
-- [**Ludicin - Everlasting Eternity**](https://osu.ppy.sh/beatmapsets/2099753) by ::**Critical\1Star**::{ user=3793196 } with **42** votes.
+- [**Ludicin - Everlasting Eternity**](https://osu.ppy.sh/beatmapsets/2099753) by ::**Critical_Star**::{ user=3793196 } with **42** votes.
 - [**seatrus - DiSANiMATE**](https://osu.ppy.sh/beatmapsets/2163279) by ::**Blocko**::{ user=4075092 } with **30** votes.
-- [**DJ Raisei - Fractured Heaven**](https://osu.ppy.sh/beatmapsets/2241070) by ::**Critical\1Star**::{ user=3793196 } with **21** votes.
-- [**EZFG - Glucagon**](https://osu.ppy.sh/beatmapsets/2030433) by ::**Critical\1Star**::{ user=3793196 } with **19** votes.
+- [**DJ Raisei - Fractured Heaven**](https://osu.ppy.sh/beatmapsets/2241070) by ::**Critical_Star**::{ user=3793196 } with **21** votes.
+- [**EZFG - Glucagon**](https://osu.ppy.sh/beatmapsets/2030433) by ::**Critical_Star**::{ user=3793196 } with **19** votes.
 - [**DeformedEutopia (Nirotiy + AiSS) - Chong Xiao - The Multitude of Empyrean -**](https://osu.ppy.sh/beatmapsets/2133204) by ::**tyrcs**::{ user=13026904 } with **19** votes.
 - [**technoplanet - Vomit**](https://osu.ppy.sh/beatmapsets/2203489) by ::**\_Stan**::{ user=1653229 } with **17** votes.
 - [**Laur - Laur-chan Taisou Daiichi**](https://osu.ppy.sh/beatmapsets/2134496) by ::**Carpihat**::{ user=10085090 } with **16** votes.
@@ -251,14 +251,14 @@ Not satisfied with being one of 2022's Community Choice runner-ups, ::Ryax::{ us
 - [**Camellia - We Could Get More Machinegun Psystyle! (And More Genre Switches)**](https://osu.ppy.sh/beatmapsets/2211806) by ::**Rio1-**::{ user=5604329 } with **31** votes.
 - [**Ludicin - Clinozoisite**](https://osu.ppy.sh/beatmapsets/2120625) by ::**BKwind**::{ user=8900975 } with **30** votes.
 - [**Zutlo - Cirno Car**](https://osu.ppy.sh/beatmapsets/2086616) by ::**cirnoulja boy**::{ user=20316975 } with **27** votes.
-- [**marasy feat. Hatsune Miku - SnowMix**](https://osu.ppy.sh/beatmapsets/2106542) by ::**\1-Yuuki-\1**::{ user=18782031 } with **27** votes.
+- [**marasy feat. Hatsune Miku - SnowMix**](https://osu.ppy.sh/beatmapsets/2106542) by ::**[-Yuuki-]**::{ user=18782031 } with **27** votes.
 - [**Slax - Kazusa**](https://osu.ppy.sh/beatmapsets/2075809) by ::**U1d**::{ user=10125072 } with **26** votes.
 
 #### Mapper's Favourite finalists
 
 - [**Camellia - Electromagnetic Stealth Girl Born In Philadelphia**](https://osu.ppy.sh/beatmapsets/2016163) by ::**Ryax**::{ user=8949769 } with **14** votes.
 - [**Normal1zer vs. Broken Nerdz - Cybernetic Mastermind No.7**](https://osu.ppy.sh/beatmapsets/2184238) by ::**BKwind**::{ user=8900975 } with **13** votes.
-- [**Sound Souler - Diminitive**](https://osu.ppy.sh/beatmapsets/2053466) by ::**\1LS\1Gavin**::{ user=10888689 } with **13** votes.
+- [**Sound Souler - Diminitive**](https://osu.ppy.sh/beatmapsets/2053466) by ::**[LS]Gavin**::{ user=10888689 } with **13** votes.
 - [**Camellia - We Could Get More Machinegun Psystyle! (And More Genre Switches)**](https://osu.ppy.sh/beatmapsets/2211806) by ::**Rio1-**::{ user=5604329 } with **12** votes.
 - [**DragonForce - Ashes of the Dawn**](https://osu.ppy.sh/beatmapsets/2090760) by ::**Hugged**::{ user=12589220 } with **12** votes.
 - [**Camellia - TremENDouS**](https://osu.ppy.sh/beatmapsets/1835885) by ::**AWMRone**::{ user=10351684 } with **12** votes.

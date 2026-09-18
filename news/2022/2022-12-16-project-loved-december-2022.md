@@ -214,7 +214,7 @@ There's nothing better to celebrate those December festivities with, so go ahead
 260 BPM, 2:05 | 6.76★, 6.93★, 7.08★, 7.29★\
 *description written by ::Horiiizon::{ user=8071438 }*
 
-*My HERO (Sped Up Ver.)* is a very famous collaborative set by ::hoku::{ user=9503098 } from early 2019 featuring guest difficulties from ::KTYN::{ user=2250574 }, ::7\17::{ user=7491106 } and Shallty, all of which became heavy hitters in mapping and cemented themselves as great mappers, especially in the years following this set. *My HERO* consists of varying difficulties and takes on the song, making each of them feel unique and refreshing. As the title of the song would imply, *My HERO* is 260 BPM with very little room for rest, especially in Shallty's difficulty which contains several 50+ note streams in the kiais, enjoy!
+*My HERO (Sped Up Ver.)* is a very famous collaborative set by ::hoku::{ user=9503098 } from early 2019 featuring guest difficulties from ::KTYN::{ user=2250574 }, ::7_7::{ user=7491106 } and Shallty, all of which became heavy hitters in mapping and cemented themselves as great mappers, especially in the years following this set. *My HERO* consists of varying difficulties and takes on the song, making each of them feel unique and refreshing. As the title of the song would imply, *My HERO* is 260 BPM with very little room for rest, especially in Shallty's difficulty which contains several 50+ note streams in the kiais, enjoy!
 
 ## osu!catch
 
@@ -314,11 +314,11 @@ Don't forget to give your support on this chart, and cast your vote if you reall
 
 [![](/wiki/shared/news/2022-12-16-project-loved-december-2022/651216.jpg)](https://osu.ppy.sh/community/forums/topics/1691248)
 
-[Nekomata Master feat. Shimotsuki Haruka - Element of SPADA](https://osu.ppy.sh/beatmapsets/651216#mania) by ::Yururu::{ user=4932319 } and ::ega\1tutuko::{ user=4771971 }\
+[Nekomata Master feat. Shimotsuki Haruka - Element of SPADA](https://osu.ppy.sh/beatmapsets/651216#mania) by ::Yururu::{ user=4932319 } and ::ega_tutuko::{ user=4771971 }\
 170 BPM, 5:34 | 7.59★\
 *description written by ::Mipha-::{ user=5767941 }*
 
-What's the best representative of a densely packed, O2Jam-style 4K LN chart out there that has stood the test of time, and been even used in [some popular LN dan courses](https://osu.ppy.sh/beatmapsets/891157#mania/1862841) that have gained traction within the noodle enjoyer communities? Well, now you don't have to go and search far and wide, because we got something for you that you will recognize immediately, and that is a cool collaboration between ::Yururu::{ user=4932319 } and ::ega\1tutuko::{ user=4771971 }, which is *Element of SPADA*!
+What's the best representative of a densely packed, O2Jam-style 4K LN chart out there that has stood the test of time, and been even used in [some popular LN dan courses](https://osu.ppy.sh/beatmapsets/891157#mania/1862841) that have gained traction within the noodle enjoyer communities? Well, now you don't have to go and search far and wide, because we got something for you that you will recognize immediately, and that is a cool collaboration between ::Yururu::{ user=4932319 } and ::ega_tutuko::{ user=4771971 }, which is *Element of SPADA*!
 
 This chart has received numerous praises with how progressive the patterns are, and it reflects on modern-day LN construction over the past few years, and it certainly aged very well as being one of the more casual LN charts to play (despite being heavy in its layering), and tackling this chart to the very end is no easy task. On top of being an already beautiful song to listen to, this chart is also a delight for competitive play to see how far your accuracy can go without absolutely getting blasted by speedier inverses and bursts.
 

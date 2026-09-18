@@ -64,7 +64,7 @@ tags:
 | 4 | ::{ flag=US }:: ::ERA Basil::{ user=7097990 } |
 | 5 | ::{ flag=GB }:: ::Zoobin4::{ user=10055204 } |
 | 6 | ::{ flag=GB }:: ::--Dragon--::{ user=11924624 } |
-| 7 | ::{ flag=GB }:: ::MiniEgg\123::{ user=25914360 } |
+| 7 | ::{ flag=GB }:: ::MiniEgg_23::{ user=25914360 } |
 | 8 | ::{ flag=US }:: ::AstalFanBoy::{ user=15513303 } |
 | 9 | ::{ flag=DE }:: ::datnonameboi::{ user=14217761 } |
 | 10 | ::{ flag=PL }:: ::bagjettka::{ user=18338179 } |
@@ -99,7 +99,7 @@ This competition has come to an end and resulted in the following podium:
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: ::Zoobin4::{ user=10055204 } |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: ::Nathanial::{ user=9169747 } |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: ::MiniEgg\123::{ user=25914360 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: ::MiniEgg_23::{ user=25914360 } |
 
 ![](img/podium.jpg "STKE podium") 
 

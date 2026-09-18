@@ -84,7 +84,7 @@ Be sure to vote yes if you wish to see how far boundaries can be broken by givin
 
 [![](/wiki/shared/news/2025-04-20-project-loved-april-2025/92234.jpg)](https://osu.ppy.sh/community/forums/topics/2069043)
 
-[sasakure.UK - bAd Companyz](https://osu.ppy.sh/beatmapsets/92234#osu) by ::caren\1sk::{ user=542498 }\
+[sasakure.UK - bAd Companyz](https://osu.ppy.sh/beatmapsets/92234#osu) by ::caren_sk::{ user=542498 }\
 170 BPM, 4:35 | 5.58★, 5.75★, 5.75★\
 *description written by ::BATBALL::{ user=15173952 }*
 
@@ -92,7 +92,7 @@ On this month of *Outstanding Oldies*, we have a map being nominated by someone 
 
 You may remember this map if you are an extreme veteran, playing back in the ages of "totally accurate" star rating and ppv1... Or maybe, you may remember this map continuously showing up as FM2 in your tournament mappools.
 
-Regardless, [bAd Companyz](https://osu.ppy.sh/beatmapsets/92234#osu) is one of ::caren\1sk::{ user=542498 }'s (also known as CRN) most classic underground gems! This set provides three difficulties, with each one altering the map's difficulty settings more and more, and providing a challenge for many.
+Regardless, [bAd Companyz](https://osu.ppy.sh/beatmapsets/92234#osu) is one of ::caren_sk::{ user=542498 }'s (also known as CRN) most classic underground gems! This set provides three difficulties, with each one altering the map's difficulty settings more and more, and providing a challenge for many.
 
 Make sure to vote YES on this map's Loved poll for the month, you won't want to miss it.
 
@@ -306,13 +306,13 @@ Eager to give this map its deserved Loved status? Don't hesitate! Head over and 
 
 [![](/wiki/shared/news/2025-04-20-project-loved-april-2025/1380482.jpg)](https://osu.ppy.sh/community/forums/topics/2069029)
 
-[Pascal Michael Stiefel - Rhythm Jump Studio Rift](https://osu.ppy.sh/beatmapsets/1380482#taiko) by ::Cookie\1Tree::{ user=502722 }\
+[Pascal Michael Stiefel - Rhythm Jump Studio Rift](https://osu.ppy.sh/beatmapsets/1380482#taiko) by ::Cookie_Tree::{ user=502722 }\
 160 BPM, 3:00 | 4.37★\
 *description written by ::K a y o k o::{ user=17664300 }*
 
-If there was one gimmick map that would define my early osu!taiko days, [Michael Stiefel - Rhythm Jump Studio Rift](https://osu.ppy.sh/beatmapsets/1380482#taiko/5063731) by ::Cookie\1Tree::{ user=502722 } is definitely the one that comes to mind. If you've been hanging around in taiko community discussions, or have played in the *osu! Taiko Collegiate League 2022*, you've definitely seen this map before.
+If there was one gimmick map that would define my early osu!taiko days, [Michael Stiefel - Rhythm Jump Studio Rift](https://osu.ppy.sh/beatmapsets/1380482#taiko/5063731) by ::Cookie_Tree::{ user=502722 } is definitely the one that comes to mind. If you've been hanging around in taiko community discussions, or have played in the *osu! Taiko Collegiate League 2022*, you've definitely seen this map before.
 
-This goofy little track from known platform game **A Hat in Time** captures the essence of time ticking down, and the metronome gives players hints of nervousness throughout the map. However, once you've gotten the hang of the gimmick, this map is insanely fun to play! ::Cookie\1Tree::{ user=502722 }, with their SV maneuvering prowess shown in their previous Loved maps, uses flying Don finishers and very slow Kat finishers as metronomes to guide (or distract) you throughout the song. As these finisher patterns never change you may think it's not that big of a roadblock, but the different patterns that accompany them will keep changing so try not to get lost in the sauce!
+This goofy little track from known platform game **A Hat in Time** captures the essence of time ticking down, and the metronome gives players hints of nervousness throughout the map. However, once you've gotten the hang of the gimmick, this map is insanely fun to play! ::Cookie_Tree::{ user=502722 }, with their SV maneuvering prowess shown in their previous Loved maps, uses flying Don finishers and very slow Kat finishers as metronomes to guide (or distract) you throughout the song. As these finisher patterns never change you may think it's not that big of a roadblock, but the different patterns that accompany them will keep changing so try not to get lost in the sauce!
 
 Already conquered the previous map in this month's Loved article? Or simply want to challenge yourself against others to some metronome-ing fun? Please consider voting "Yes" to give this map the Loved status it is worthy of and share it with your gimmick-loving friends!
 
@@ -408,13 +408,13 @@ The osu!mania Loved candidates were chosen by ::Carpihat::{ user=10085090 }, ::e
 
 [![](/wiki/shared/news/2025-04-20-project-loved-april-2025/2027029.jpg)](https://osu.ppy.sh/community/forums/topics/2069023)
 
-[Silentroom - Shuu no Hazama](https://osu.ppy.sh/beatmapsets/2027029#mania) by ::lovely\1hyahya::{ user=10318380 }\
+[Silentroom - Shuu no Hazama](https://osu.ppy.sh/beatmapsets/2027029#mania) by ::lovely_hyahya::{ user=10318380 }\
 174 BPM, 3:41 | 3.24★, 3.30★, 3.30★\
 *description written by ::Paturages::{ user=1375479 }*
 
 There's a first for everything.
 
-::lovely\1hyahya::{ user=10318380 }'s [Shuu no Hazama](https://osu.ppy.sh/beatmapsets/2027029#mania/4223691) includes a quite uncommon feature: invisible long notes! They are however well telegraphed and you should see them coming, along with their very prominent musical representation. Speaking of musical representation, I don't think there's any need to introduce [Shuu no Hazama](https://osu.ppy.sh/beatmapsets/2027029#mania/4223691) anymore — a song of many implementations across all modes, even being featured in last month's Loved voting with [another 7K set](https://osu.ppy.sh/beatmapsets/1130083)!
+::lovely_hyahya::{ user=10318380 }'s [Shuu no Hazama](https://osu.ppy.sh/beatmapsets/2027029#mania/4223691) includes a quite uncommon feature: invisible long notes! They are however well telegraphed and you should see them coming, along with their very prominent musical representation. Speaking of musical representation, I don't think there's any need to introduce [Shuu no Hazama](https://osu.ppy.sh/beatmapsets/2027029#mania/4223691) anymore — a song of many implementations across all modes, even being featured in last month's Loved voting with [another 7K set](https://osu.ppy.sh/beatmapsets/1130083)!
 
 Outside of those invisible LNs, [Shuu no Hazama](https://osu.ppy.sh/beatmapsets/2027029#mania/4223691) defines itself as focused a fair bit on reading and SV. The syncopation inherent to the song makes rhythm complexity higher than the average, and some of the polyrhythmic structures will definitely challenge the unprepared. It certainly requires a bit of practice to get this map down correctly.
 
@@ -490,7 +490,7 @@ Ask us about more tournament fire camp stories in the thread after you drop your
 
 [![](/wiki/shared/news/2025-04-20-project-loved-april-2025/1974683.jpg)](https://osu.ppy.sh/community/forums/topics/2069017)
 
-[YOASOBI - Idol](https://osu.ppy.sh/beatmapsets/1974683#mania) by ::eZmmR::{ user=8647138 }, ::- Inaba Meguru::{ user=14767969 }, ::Emida::{ user=11937683 }, ::Lung\1P::{ user=8271308 }, ::Muses::{ user=9705896 }, ::Onta\1Bekasi::{ user=8677684 }, and ::upan::{ user=5214397 }\
+[YOASOBI - Idol](https://osu.ppy.sh/beatmapsets/1974683#mania) by ::eZmmR::{ user=8647138 }, ::- Inaba Meguru::{ user=14767969 }, ::Emida::{ user=11937683 }, ::Lung_P::{ user=8271308 }, ::Muses::{ user=9705896 }, ::Onta_Bekasi::{ user=8677684 }, and ::upan::{ user=5214397 }\
 166 BPM, 3:30 | 2.53★ – 9.75★\
 *description written by ::Maxus::{ user=4335785 }*
 
@@ -518,11 +518,11 @@ If you're up for such a challenge, make your voice heard by voting!
 
 [![](/wiki/shared/news/2025-04-20-project-loved-april-2025/1276211.jpg)](https://osu.ppy.sh/community/forums/topics/2069015)
 
-[brz1128 - Alexandrite](https://osu.ppy.sh/beatmapsets/1276211#mania) by ::Kim\1GodSSI::{ user=2218047 } and ::Jinjin::{ user=3360737 }\
+[brz1128 - Alexandrite](https://osu.ppy.sh/beatmapsets/1276211#mania) by ::Kim_GodSSI::{ user=2218047 } and ::Jinjin::{ user=3360737 }\
 155 – 192 BPM, 2:08 | 9.26★, 10.05★\
 *description written by ::Carpihat::{ user=10085090 }*
 
-This month we're going to nominate this map by 2 ETs, ::Kim\1GodSSI::{ user=2218047 } and ::Jinjin::{ user=3360737 }. The map's style is based around releases, requiring that you bring your abilities on LN releases and tricky patterns to the table. Your reading ability and finger coordination are tested as well. If the 155 BPM diff is a piece of cake for you, then you could try the top diff, which is sped up from 155 BPM to 192 BPM and was featured in the 4th stage of the [7K LN Zenith Dan](https://osu.ppy.sh/beatmapsets/1220647#mania/2764028). Anyway, good luck on challenging this!
+This month we're going to nominate this map by 2 ETs, ::Kim_GodSSI::{ user=2218047 } and ::Jinjin::{ user=3360737 }. The map's style is based around releases, requiring that you bring your abilities on LN releases and tricky patterns to the table. Your reading ability and finger coordination are tested as well. If the 155 BPM diff is a piece of cake for you, then you could try the top diff, which is sped up from 155 BPM to 192 BPM and was featured in the 4th stage of the [7K LN Zenith Dan](https://osu.ppy.sh/beatmapsets/1220647#mania/2764028). Anyway, good luck on challenging this!
 
 ---
 

@@ -478,7 +478,7 @@ Show your support for these maps by voting!
 The \[0 - Delete This \[0\]\] difficulty is *not* being nominated for Loved.\
 *description written by ::Carpihat::{ user=10085090 }*
 
-It's been half a year since we nominated any anti-meta keymode sets. This time, we're bringing these nice 6K packs into the voting here! The difficulty of this set ranges from \[15\] to \[21\]. If you have gained certain skills in 6K, you could have a chance of playing it. The hardest difficulty would not require you to be a world top player. Accordingly, it is a mid-skilled range set. This pack is a collab map created by 2 decent and experienced 6K mappers, ::HMillion::{ user=12891443 } and ::\1Crz\1sunnyxxy::{ user=10333739 }. These 2 mappers have mapped rice, hybrid, and LN. All of which are contained in this pack.
+It's been half a year since we nominated any anti-meta keymode sets. This time, we're bringing these nice 6K packs into the voting here! The difficulty of this set ranges from \[15\] to \[21\]. If you have gained certain skills in 6K, you could have a chance of playing it. The hardest difficulty would not require you to be a world top player. Accordingly, it is a mid-skilled range set. This pack is a collab map created by 2 decent and experienced 6K mappers, ::HMillion::{ user=12891443 } and ::[Crz]sunnyxxy::{ user=10333739 }. These 2 mappers have mapped rice, hybrid, and LN. All of which are contained in this pack.
 
 Vote for this map if you're a 6K fan! We're also glad that this would be another anti-meta keymode party!
 
@@ -488,7 +488,7 @@ Vote for this map if you're a 6K fan! We're also glad that this would be another
 175 BPM, 5:08 | 5.53★, 8.52★\
 *description written by ::Maxus::{ user=4335785 }*
 
-We have the rare collaboration between ::Lung\1P::{ user=8271308 } and ::Flexo123::{ user=5367287 }, both are extremely talented mappers with plenty of experience charting various LN patterns as their main speciality!
+We have the rare collaboration between ::Lung_P::{ user=8271308 } and ::Flexo123::{ user=5367287 }, both are extremely talented mappers with plenty of experience charting various LN patterns as their main speciality!
 
 For this opportunity, we want to present [Rejection - Signal (feat. SUCH)](https://osu.ppy.sh/beatmapsets/1531894#mania/3133039) which is a popular chart that gained a high standing amongst the community. Both the 4K and 7K difficulties feature mainly dense LN patterns with several mixtures of patterns that test your accuracy and physicality to hit them properly. If you don't hit them carefully and with precision, you will find yourself struggling to maintain high accuracy!
 

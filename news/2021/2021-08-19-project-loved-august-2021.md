@@ -124,7 +124,7 @@ At 240 BPM, *kedamono_friends* is quite an upbeat and enjoyable piece of work, f
 
 [![](/wiki/shared/news/2021-08-19-project-loved-august-2021/1530135.jpg)](https://osu.ppy.sh/community/forums/topics/1400714)
 
-[Mono. - Meteor Xpress](https://osu.ppy.sh/beatmapsets/1530135#taiko) by ::Shamirin\1mzk::{ user=11325757 }\
+[Mono. - Meteor Xpress](https://osu.ppy.sh/beatmapsets/1530135#taiko) by ::Shamirin_mzk::{ user=11325757 }\
 190 BPM, 2:31 | 6.64★\
 *description written by ::X a v y::{ user=3738344 }*
 
@@ -169,7 +169,7 @@ The original AR of the map is 9.3 but the set also comes with an AR 9.6 difficul
 
 [![](/wiki/shared/news/2021-08-19-project-loved-august-2021/186074.jpg)](https://osu.ppy.sh/community/forums/topics/1400706)
 
-[yuikonnu - Souzou Forest](https://osu.ppy.sh/beatmapsets/186074#fruits) by ::Serena-::{ user=2193444 } and ::Kowaii\1ne::{ user=2213794 }\
+[yuikonnu - Souzou Forest](https://osu.ppy.sh/beatmapsets/186074#fruits) by ::Serena-::{ user=2193444 } and ::Kowaii_ne::{ user=2213794 }\
 180 BPM, 3:38 | 1.98★, 3.16★, 4.61★\
 *description written by ::Sartan::{ user=4100941 }*
 
@@ -231,7 +231,7 @@ Give MyZterioN- your support by casting your vote!
 
 [![](/wiki/shared/news/2021-08-19-project-loved-august-2021/1085851.jpg)](https://osu.ppy.sh/community/forums/topics/1400700)
 
-[Various Artists - 6K Endurance Patterns Practice Vol.1](https://osu.ppy.sh/beatmapsets/1085851#mania) by ::Imperial Wolf::{ user=9080296 }, ::\_IceRain::{ user=7859973 }, ::\[Crz\]sunnyxxy::{ user=10333739 }, ::Alipay::{ user=9339256 }, ::Anson\198::{ user=6198587 }, ::Arkman::{ user=8814590 } and ::tyrcs::{ user=13026904 }\
+[Various Artists - 6K Endurance Patterns Practice Vol.1](https://osu.ppy.sh/beatmapsets/1085851#mania) by ::Imperial Wolf::{ user=9080296 }, ::\_IceRain::{ user=7859973 }, ::\[Crz\]sunnyxxy::{ user=10333739 }, ::Alipay::{ user=9339256 }, ::Anson_98::{ user=6198587 }, ::Arkman::{ user=8814590 } and ::tyrcs::{ user=13026904 }\
 172 BPM, 5:48 | 5.18★ – 6.44★\
 The \[(marathon)\[DELETE UPON DOWNLOAD!\]\] difficulty is *not* being nominated for Loved.\
 *description written by ::Penguinosity::{ user=10235296 }*
@@ -258,7 +258,7 @@ This set has waited way too long in the darkness and we're glad to finally bring
 
 [![](/wiki/shared/news/2021-08-19-project-loved-august-2021/351345.jpg)](https://osu.ppy.sh/community/forums/topics/1400698)
 
-[Randy Mortimer - Penguin (Pinnacle Remix) (Cut Ver.)](https://osu.ppy.sh/beatmapsets/351345#mania) by ::Cuppp::{ user=2345293 } and ::Onta\1Metalslug::{ user=3518460 }\
+[Randy Mortimer - Penguin (Pinnacle Remix) (Cut Ver.)](https://osu.ppy.sh/beatmapsets/351345#mania) by ::Cuppp::{ user=2345293 } and ::Onta_Metalslug::{ user=3518460 }\
 170 BPM, 1:36 | 6.54★, 11.09★\
 *description written by ::Penguinosity::{ user=10235296 }*
 

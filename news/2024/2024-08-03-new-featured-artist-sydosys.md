@@ -67,7 +67,7 @@ Try out [**Sydosys**'s first osu! original](https://osu.ppy.sh/beatmapsets/19905
 
 ### Sydosys - Wandered
 
-Run through [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2192657) hosted by ::WOYOU\1YUYUZHENG::{ user=34186004 } or [this rendition](https://osu.ppy.sh/beatmapsets/2085296) from [OWC 2023](/wiki/Tournaments/OWC/2023) hosted by [bad boy](https://osu.ppy.sh/beatmapsets/2085296)!
+Run through [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2192657) hosted by ::WOYOU_YUYUZHENG::{ user=34186004 } or [this rendition](https://osu.ppy.sh/beatmapsets/2085296) from [OWC 2023](/wiki/Tournaments/OWC/2023) hosted by [bad boy](https://osu.ppy.sh/beatmapsets/2085296)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/392/Songs/Sydosys%20-%20Wandered.mp3">

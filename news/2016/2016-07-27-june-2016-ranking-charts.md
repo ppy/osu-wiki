@@ -8,7 +8,7 @@ series: beatmap_spotlights
 
 We apologize for the delay as stuff went a bit up and down, but by now, the Ranking Charts for June 2016 have been finally released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1606)!
 
-This month our dedicated top chart and general players, ::Cookiezi::{ user=124493 }, ::tasuke912::{ user=2774767 }, ::\1Asriel::{ user=566276 } and ::Runa::{ user=4643294 } picked the maps for the Monthly Ranking Charts.
+This month our dedicated top chart and general players, ::Cookiezi::{ user=124493 }, ::tasuke912::{ user=2774767 }, ::_Asriel::{ user=566276 } and ::Runa::{ user=4643294 } picked the maps for the Monthly Ranking Charts.
 
 ## Ranking Charts Creation
 
@@ -72,7 +72,7 @@ Amazing Touhou song remixed by t+pazolite. I think that the most charming point 
 
 ### osu!catch
 
-For osu!catch, **::\1Asriel::{ user=566276 }** was the chosen one to declare the winners of the June 2016 beatmaps.
+For osu!catch, **::_Asriel::{ user=566276 }** was the chosen one to declare the winners of the June 2016 beatmaps.
 
 - **[ginkiha - EOS (kamome sano rmx)](https://osu.ppy.sh/beatmapsets/404360) by ::Broccoly::{ user=1629059 }**
 
@@ -110,11 +110,11 @@ A 7k mapset with a sweet electronic song. This mapset has four 7k difficulties w
 
 The hardest 5k map has been replaced in June 2016! As a 255BPM hardcore LeaF style song, there is quite a lot of 1/8 sounds and some tricky rhythms, and this map expressed those really well. Above all, I was impressed by the well fitting slider velocitys with tricky rhythms and the fun and creative minijacks. The hardest streams with many 1/8 notes are waiting for you at the kiai time. Make sure to prepare yourself!
 
-- [Kaneko Chiharu - Lachryma<queen>](https://osu.ppy.sh/beatmapsets/415886) by ::Fresh\1Chicken::{ user=3984370 }
+- [Kaneko Chiharu - Lachryma<queen>](https://osu.ppy.sh/beatmapsets/415886) by ::Fresh_Chicken::{ user=3984370 }
 
 Speedcore 4k mapset from SDVX. It is consists mainly of 236BPM jumpstreams and trills, while the GRAVITY difficulty has more creative and complex patterns like streams with long notes, jump hand streams and delay patterns, which I personally really like. Finally, when you thought the song was over, a super long trill is waiting to surprise you. Keep that in mind when playing!
 
-- [Camellia as "Bang Riot" - Blastix Riotz](https://osu.ppy.sh/beatmapsets/349208) by ::Fresh\1Chicken::{ user=3984370 }
+- [Camellia as "Bang Riot" - Blastix Riotz](https://osu.ppy.sh/beatmapsets/349208) by ::Fresh_Chicken::{ user=3984370 }
 
 I heard Fresh Chicken was planning to rank a 7 star 4k map from 2015, and that finally came true in June 2016! It is a 256BPM speedcore song from SDVX, which requires you to have very high speed and stamina to play it. The map is based on long trills and streams. Especially in the GRAVITY difficulty, really hard minijacks and 1/12 notes that benefits a 7-star 4k beatmap waits for you. Feel the true 256BPM experience on your fingertips through this beatmap!
 

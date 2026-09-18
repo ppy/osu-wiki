@@ -51,7 +51,7 @@ The Blaze Killing Taiko Frontier was run by various community members.
 | Commentator | ::{ flag=GB }:: ::-XxbluezaperxX-::{ user=12264218 }, ::{ flag=SG }:: ::\_gt::{ user=8301957 }, ::{ flag=JP }:: ::Eriha::{ user=16320311 }, ::{ flag=JP }:: ::Grape\_Tea::{ user=9540073 }, ::{ flag=JP }:: ::Hataya::{ user=30109442 }, ::{ flag=GB }:: ::hornedlove::{ user=14072678 }, ::{ flag=JP }:: ::ItsDiamond::{ user=12611862 }, ::{ flag=GB }:: ::My Angel Seia::{ user=17797595 }, ::{ flag=CN }:: ::N a N a::{ user=11341131 }, ::{ flag=JP }:: ::Noko\_BSF::{ user=3811831 }, ::{ flag=GB }:: ::overdahedge2015::{ user=9864847 }, ::{ flag=KR }:: ::Peaceful::{ user=165027 }, ::{ flag=JP }:: ::shinjinhome::{ user=30147970 }, ::{ flag=GB }:: ::spanner dude::{ user=12489832 }, ::{ flag=AR }:: ::SUPERNOOB20::{ user=16422988 }, ::{ flag=NL }:: ::TaikoMom::{ user=9086438 }, ::{ flag=HK }:: ::YonGin::{ user=7109317 } |
 | Designer | ::{ flag=JP }:: ::Hataya::{ user=30109442 }, ::{ flag=FR }:: ::Kheops::{ user=18607342 }, ::{ flag=CN }:: ::N a N a::{ user=11341131 }, ::{ flag=JP }:: ::shinjinhome::{ user=30147970 } |
 | Video producer | ::{ flag=JP }:: ::shinjinhome::{ user=30147970 }, ::{ flag=AR }:: ::SUPERNOOB20::{ user=16422988 } |
-| Statistician | ::{ flag=JP }:: ::Noko\1BSF::{ user=3811831 } |
+| Statistician | ::{ flag=JP }:: ::Noko_BSF::{ user=3811831 } |
 | Developer | ::{ flag=CN }:: ::N a N a::{ user=11341131 }, ::{ flag=JP }:: ::shaaaaaQ::{ user=16234052 } |
 | Translator | ::{ flag=FR }:: ::Briesmas::{ user=2865172 }, ::{ flag=JP }:: ::ItsDiamond::{ user=12611862 } |
 | Wiki editor | ::{ flag=ID }:: ::fajar13k::{ user=7100002 } |
@@ -90,7 +90,7 @@ The Blaze Killing Taiko Frontier was run by various community members.
 | **Matryoshkas** | ::{ flag=RU }:: **::Midorimomoika::{ user=6580862 }**, ::{ flag=RU }:: ::BelgiumGL::{ user=30705971 }, ::{ flag=RU }:: ::TREEToTREET::{ user=8879204 } |
 | **Multimode** | ::{ flag=GB }:: **::Caelan::{ user=4471879 }**, ::{ flag=SE }:: ::Anders8KJS::{ user=36024737 }, ::{ flag=AT }:: ::animexamera::{ user=7511357 } |
 | **NMonly** | ::{ flag=JP }:: **::yajyusen::{ user=16881532 }**, ::{ flag=JP }:: ::G1nD4m4::{ user=32491496 }, ::{ flag=JP }:: ::Bruh\_moment2357::{ user=26010872 } |
-| **No price go grad** | ::{ flag=KR }:: **::patrick05::{ user=17812031 }**, ::{ flag=KR }:: ::Ting\1Min::{ user=19398027 }, ::{ flag=GB }:: ::Jonah::{ user=5509009 } |
+| **No price go grad** | ::{ flag=KR }:: **::patrick05::{ user=17812031 }**, ::{ flag=KR }:: ::Ting_Min::{ user=19398027 }, ::{ flag=GB }:: ::Jonah::{ user=5509009 } |
 | **Not Derankers** | ::{ flag=JP }:: **::limecc::{ user=35751315 }**, ::{ flag=KR }:: ::ttota::{ user=20042402 }, ::{ flag=JP }:: ::Rookdaooooo::{ user=31198498 } |
 | **Pompompurin** | ::{ flag=VN }:: **::buttermiilk::{ user=16039831 }**, ::{ flag=KR }:: ::Puruth::{ user=36990246 } |
 | **reisen** | ::{ flag=MX }:: **::reisen91937::{ user=25396679 }**, ::{ flag=US }:: ::OvO::{ user=12085251 } |

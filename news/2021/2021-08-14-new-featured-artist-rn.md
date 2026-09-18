@@ -15,7 +15,7 @@ Taking notes from primarily from fellow experimental creator [Frums](https://osu
 
 We've pulled **7** songs from their archives, all of which are freely available to map from [**rN**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/190)!
 
-**rN** may be new to the osu! scene, but conveniently ::Mirash::{ user=2841009 } has a full difficulty spread of [*My Dearest Nightmare*](https://osu.ppy.sh/beatmapsets/1542543) ready to be swallowed by players of all skill levels. Preview ::Frankie\1::{ user=5774823 }'s attempt at the highest difficulty through this video and experience the rest of the previews for yourself:
+**rN** may be new to the osu! scene, but conveniently ::Mirash::{ user=2841009 } has a full difficulty spread of [*My Dearest Nightmare*](https://osu.ppy.sh/beatmapsets/1542543) ready to be swallowed by players of all skill levels. Preview ::Frankie_::{ user=5774823 }'s attempt at the highest difficulty through this video and experience the rest of the previews for yourself:
 
 <div align="center">
     <video width="95%" controls>

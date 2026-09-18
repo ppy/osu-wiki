@@ -135,8 +135,8 @@ NAN NAN NANJA! Our anti meta mapper Kamikaze again brings us with a very rare 7K
 Congratulations to the winners of the January 2016 Ranking Charts. They receive a month of supporter status for their efforts!
 
 - **osu! standard:** ::Recia::{ user=1787027 }
-- **Taiko:** ::\1yu68::{ user=6170507 }
-- **Catch the Beat:** ::\1Asriel::{ user=566276 }
+- **Taiko:** ::_yu68::{ user=6170507 }
+- **Catch the Beat:** ::_Asriel::{ user=566276 }
 - **osu!mania:** ::Cryolien::{ user=1626983 }
 
 Good luck with the new charts! We'd love to hear any and all feedback you have about the new format and selection process for the charts - feel free to leave a comment below!

@@ -23,7 +23,7 @@ If you're debating whether or not to map one of these tracks, gain some inspirat
 
 ### Krimek feat. dokxid - Gravity Hole
 
-Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1983505) hosted by ::Nytrocide\1::{ user=11327918 }!
+Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1983505) hosted by ::Nytrocide_::{ user=11327918 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/371/GALAXY%20OF%20MIND_MINE%2FKrimek%20feat.%20dokxid%20-%20Gravity%20Hole.mp3">
@@ -75,7 +75,7 @@ Because of this, we've decided to reward users based on their **highest placemen
 | #6 | #5 | ::{ flag=MY }:: ::Zeph2003::{ user=10343292 } | 2 | 3 |
 | #7 | #8 | ::{ flag=ES }:: ::Alvaroping1::{ user=15289150 } | 1 | 1 |
 | #8 | N/A | ::{ flag=US }:: ::Stoppedpuma::{ user=12654568 } | 1 | 1 |
-| #9 | N/A | ::{ flag=US }:: ::this\1cord1985::{ user=19123572 } | 1 | 1 |
+| #9 | N/A | ::{ flag=US }:: ::this_cord1985::{ user=19123572 } | 1 | 1 |
 | #10 | #7 | ::{ flag=US }:: ::Topical Kek::{ user=14480574 } | 1 | 1 |
 | N/A | #9 | ::{ flag=RU }:: ::Daycore::{ user=5596337 } | 1 | 1 |
 | N/A | #10 | ::{ flag=US }:: ::Majernja::{ user=11379588 } | 1 | 1 |

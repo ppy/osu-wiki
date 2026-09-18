@@ -38,4 +38,4 @@ tags:
 | ::{ flag=KR }:: ::Civil oath::{ user=3216107 } | 韩语，日语 |
 | ::{ flag=DE }:: ::Lyawi::{ user=5851253 } | 德语 |
 | ::{ flag=PH }:: ::Nathanael::{ user=2295078 } | 菲律宾语 |
-| ::{ flag=PL }:: ::spaceman\1atlas::{ user=3035836 } | 波兰语 |
+| ::{ flag=PL }:: ::spaceman_atlas::{ user=3035836 } | 波兰语 |

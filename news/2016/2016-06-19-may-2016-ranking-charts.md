@@ -30,7 +30,7 @@ A great proof of the fact that we do not give "Elite Mapper" titles away for not
 
 Looking for something different to try? Up for some hit accuracy training? This set is exactly what you need. The map itself is really well done and the way pishifat handles timing changes is impressive: every difficulty remains well playable while also following the song as close as it is possible.
 
-- [Sharlo - Shinkai Shoujo](https://osu.ppy.sh/beatmapsets/221768) by ::yf\1bmp::{ user=1243669 }
+- [Sharlo - Shinkai Shoujo](https://osu.ppy.sh/beatmapsets/221768) by ::yf_bmp::{ user=1243669 }
 
 It is impossible not to like the wonderful voice Sharlo has! Along with the lovely and catchy melody, the song makes a perfect match for this community. The map is also well-done, as the difficulty spread is well thought, and every difficulty is designed in a way, it gets the best this wonderful music can provide.
 
@@ -58,7 +58,7 @@ Keeping up with the Dragonforce trend, be prepared for constant dense patterns/s
 
 As an official song from Taiko no Tatsujin, the song is very "interesting" to say the least. Besides how weird it is, the song is pretty catchy and has a really interesting rhythm that Ono takes full advantage of. There are a lot of interesting patterns you rarely see in taiko maps these days like kdd k ddk or kkd k dkk. You'll also encounter heavy finisher sections and a 1/3 rhythm section.
 
-- [Zhan Xun Wei - Tanhou ~Blooming~](https://osu.ppy.sh/beatmapsets/380233) by ::-\1 Dumpling \1-::{ user=2478693 }
+- [Zhan Xun Wei - Tanhou ~Blooming~](https://osu.ppy.sh/beatmapsets/380233) by ::-[ Dumpling ]-::{ user=2478693 }
 
 This map might not be the most challenging out of the maps ranked in May, but it is definitely charming because of the music choice. This style of music always blends well with Taiko drums and Dumpling does it just right. The rhythm they use is a combination of following the song, but adding their own rhythm in as well to make it more unique.
 
@@ -111,7 +111,7 @@ This is one of the most innovative and creative beatmaps that I've ever played. 
 
 Another pandemonic song gets a place in this month's Ranking Charts, and for a number of reasons. Even though this song is unpredictable and constantly shifting in nature, MEGAtive and Aste-, a guest mapper in this beatmap, charted this song in a way that creates unity to the patterns and the music. The diffculty spread in this 6K mapset is really well made here, featuring long note patterns that grow more and more complex the farther you go from this mapset. Most notably, the tricky long note patterns in the Camellia difficulty were delicately and nicely used to highlight the dubstep parts which can be really fun for the fingers. A mapset like this definitely deserves a spot in the Monthly Ranking Charts as this has neat and unique features that separates this from the rest of the beatmaps.
 
-- [P*Light - YELLOW SPLASH!!](https://osu.ppy.sh/beatmapsets/412632) by ::Critical\1Star::{ user=3793196 }
+- [P*Light - YELLOW SPLASH!!](https://osu.ppy.sh/beatmapsets/412632) by ::Critical_Star::{ user=3793196 }
 
 Here's another fun 4K mapset entering the ranked section. This mapset has five 4K difficulties catering to a wide range of players. The patterns created by Critical_Star and guest mapper Feerum are tastefully done and it's easy for people to recognize the intruments the patterns are following. Also, the difficulty spread laid out on this mapset is very balanced from its easiest difficulty to the hardest. It starts off using single notes with a steady rhythm that mixes it up for players that have gotten a grip to the game, and slowly introduces more intricate patterns as you progress through the mapset. Overall, it's a solid beatmap that I'd recommend people to play!
 
@@ -135,7 +135,7 @@ Congratulations to the winners of the March 2016 Ranking Charts. They receive a 
 
 - **osu! standard:** ::tfg50::{ user=3312720 }
 - **Taiko:** ::Mew104::{ user=2345156 }
-- **Catch the Beat:** ::\1Asriel::{ user=566276 }
+- **Catch the Beat:** ::_Asriel::{ user=566276 }
 - **osu!mania:** ::Runa::{ user=4643294 }
 
 Good luck with the new charts! We'd love to hear any and all feedback you have about the new format and selection process for the charts - feel free to leave a comment below!

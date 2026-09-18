@@ -47,7 +47,7 @@ Whether it be by coincidental ideas or by the example set by the World Cups, the
 
 A whopping **23%** of all current tournament originals in osu! originate from the [Global Taiko Showdown](https://gtsosu.com/) series. We have in large part ::**Kasumi-sama**::{ user=6177263 } to thank for that.
 
-::!\1\1(/wiki/shared/news/2024-03-20-bespoke-music-in-osu/Kasumi-sama.png)::{ user=6177263 }
+::![](/wiki/shared/news/2024-03-20-bespoke-music-in-osu/Kasumi-sama.png)::{ user=6177263 }
 
 > Hello! I am mainly known on osu! as ::Kasumi-sama::{ user=6177263 }, with my general username being Kasumi. I have been an all-modes osu! player from 2015 to 2023, and I am mainly known as a tournament organizer since 2018, mainly for the Global Taiko Showdown tournament series, as well as having helped as an administrator for [osu!frlive](https://www.twitch.tv/osufrlive)'s French tournaments from 2019 to 2022. I've also helped out in the Project Loved as an osu!catch captain in the past, as well as having been a member of the [Tournament Committee](/wiki/People/Tournament_Committee).
 
@@ -77,7 +77,7 @@ The Malaysian tournament scene has seen original music in all game modes, most p
 
 How did their story start? They were asked similar questions as Kasumi, so let's have two of the organisers take it away:
 
-::!\1\1(/wiki/shared/news/2024-03-20-bespoke-music-in-osu/Its\1not\1Marvin.png)::{ user=13600612 }
+::![](/wiki/shared/news/2024-03-20-bespoke-music-in-osu/Its_not_Marvin.png)::{ user=13600612 }
 
 > Hi, my name is Marvin, known as Its not Marvin in osu. I am mainly known to be the host of osu! Malaysia Tournament from 2020 to 2023.
 > 
@@ -87,7 +87,7 @@ How did their story start? They were asked similar questions as Kasumi, so let's
 > 
 > I feel like the taiko side definitely has larger budgets, and may have more sophisticated processes when it comes to the custom songs planning and producing process, as they had a custom song for every round of the [osu!taiko Malaysian Tournament 2022](/wiki/Tournaments/OTMT/2022), unlike std where we have 1-3 custom songs for the entire tournament.
 
-::!\1\1(/wiki/shared/news/2024-03-20-bespoke-music-in-osu/Jerry.png)::{ user=605973 }
+::![](/wiki/shared/news/2024-03-20-bespoke-music-in-osu/Jerry.png)::{ user=605973 }
 
 > Hello! My name is Jerry (or NZMJerry), and I'm mostly known for my design works in a number of osu! tournaments and original tracks such as the [Global Taiko Showdown](https://gtsosu.com/) (GTS) series, [osu! World Cup 2023](https://osu.ppy.sh/beatmapsets/2095177#taiko/4393066) and [Jaye's One Key Event (JOKE)](https://osu.ppy.sh/community/forums/topics/1829307?n=1). Besides my designing works, I'm also the host of the osu!taiko Malaysian Tournament (OTMT) series as well as several other events ranging from contests to [LANs](https://osu.ppy.sh/home/news/2023-08-22-osu-malaysia-animangaki) for the overall osu! Malaysian community.
 > 
@@ -117,7 +117,7 @@ While ::mangomizer::{ user=1893718 } and ::pishifat::{ user=3178418 } touched on
 
 The other tournament hosts interviewed here said basically the same thing, which means there's only one thing to do.
 
-::!\1\1(/wiki/shared/news/2024-03-20-bespoke-music-in-osu/takehirotei.png)::{ user=11793794 }
+::![](/wiki/shared/news/2024-03-20-bespoke-music-in-osu/takehirotei.png)::{ user=11793794 }
 
 > Hey there, I'm ::takehirotei::{ user=11793794 }, just your normal rhythm gamer that composes music as a side job. If you're from osu!, you might have heard of me from some tiebreaker songs from some tourneys such as osu! (and taiko) Malaysia Tournaments, [EGTS](/wiki/Tournaments/GTS#expert-global-taiko-showdown), or [4DMWC 2023](/wiki/Tournaments/4DM/2023) and many more, or if you're outside osu!, you might even heard me as the anime song remix guy for remixing some popular titles such as *Idol* (under the Imaginary Reality alias) or *Guitar*, *Loneliness* and *Blue Planet*.
 
@@ -147,7 +147,7 @@ Whether to give more creative freedom to the artist or to prompt them with more 
 
 It may be a question affected by highly individual factors from the composition, organisation and mappooling sides, as well as different perspectives and expectations for the songs themselves. We'll leave that to future organisers to think about.
 
-::!\1\1(/wiki/shared/news/2024-03-20-bespoke-music-in-osu/HowToPlayLN.png)::{ user=10879600 }
+::![](/wiki/shared/news/2024-03-20-bespoke-music-in-osu/HowToPlayLN.png)::{ user=10879600 }
 
 > Hi! My name is HowToPlayLN, in-game you can call me LN or index. You may know me as an ex-osu!mania mapper (especially [polyriddim](https://osu.ppy.sh/beatmapsets/1182702)), ex-mwc player 2019-2022, did some statistics and data science and made storyboards for some tournaments and now a composer. Meanwhile in real life I am doing coding and data science stuff.
 
@@ -185,7 +185,7 @@ As for how exactly it works, read below how our duo of artists today explained s
 > 
 > Mostly my part of the collaboration would be stored in MIDI before adjusting dynamics. For the gluing parts together, mixing and mastering, mostly other artists who are more specialized will do the work. So big appreciation for them for handling all of these actually.
 
-::!\1\1(/wiki/shared/news/2024-03-20-bespoke-music-in-osu/takehirotei.png)::{ user=11793794 }
+::![](/wiki/shared/news/2024-03-20-bespoke-music-in-osu/takehirotei.png)::{ user=11793794 }
 
 > For collaborations, let's say we have n composers, we usually split the song into n parts, where each composers focus on that particular part (unless there are composers who want's to collaborate with another composers for their part).
 > 
@@ -205,7 +205,7 @@ Passion often comes with trials, and the most ambitious projects have by no mean
 
 We'll leave you with what these creators dearly remember.
 
-::!\1\1(/wiki/shared/news/2024-03-20-bespoke-music-in-osu/Kasumi-sama.png)::{ user=6177263 }
+::![](/wiki/shared/news/2024-03-20-bespoke-music-in-osu/Kasumi-sama.png)::{ user=6177263 }
 
 > \[...] I think the story behind [COEGTS](/wiki/Tournaments/GTS/COEGTS_2023)' Main Mappool Showcase and it getting finalized, like, at all, is one of my absolute favorite experiences as the main organizer of GTS.
 > 
@@ -217,7 +217,7 @@ We'll leave you with what these creators dearly remember.
 > 
 > We had gotten our last song for it to be mapped and make its video finalized on.. July 20th.
 > 
-> Fast forwarding again, we arrive at July 27th, where both of us admins, being myself and ::TaikoMom::{ user=9086438 }, along with every single designer for GTS, our main voice actress for our female characters being ::Ethereal\1Winter::{ user=9780417 }, and some of our composers who were working on the lore part of things, being ::blobdash::{ user=8337877 } (for BGM), and NormalM (as a voice actor), literally stayed in VC for the next 4 days right up to the showcase day, where we kept rotating between everyone passing out at some point, but generally working on finalizing the design and videos for songs, writing the entire lore, recording all voicelines for lore between July 29th to July 30th, where I was forced to stay up until 9am to record voicelines LOL. It was honestly just a very fun experience overall.
+> Fast forwarding again, we arrive at July 27th, where both of us admins, being myself and ::TaikoMom::{ user=9086438 }, along with every single designer for GTS, our main voice actress for our female characters being ::Ethereal_Winter::{ user=9780417 }, and some of our composers who were working on the lore part of things, being ::blobdash::{ user=8337877 } (for BGM), and NormalM (as a voice actor), literally stayed in VC for the next 4 days right up to the showcase day, where we kept rotating between everyone passing out at some point, but generally working on finalizing the design and videos for songs, writing the entire lore, recording all voicelines for lore between July 29th to July 30th, where I was forced to stay up until 9am to record voicelines LOL. It was honestly just a very fun experience overall.
 > 
 > Except when we thought we finished the showcase entirely at 4am, when I personally had to go away to take my train for COE too, then we ended up realizing the overall mappool showcase video trolled us, with lore having had to be re-rendered twice, some gameplay being at 30FPS for no understandable reason, and TaikoMom then having to re-render all of that while I was gone, and needing to ensure we would actually have the correct video by uploading it on: MEGA / Google Drive / a USB key / Her Switch's SD card.
 > 
@@ -225,11 +225,11 @@ We'll leave you with what these creators dearly remember.
 > 
 > Still loved it! Glad we've done what we did honestly.
 
-::!\1\1(/wiki/shared/news/2024-03-20-bespoke-music-in-osu/Its\1not\1Marvin.png)::{ user=13600612 }
+::![](/wiki/shared/news/2024-03-20-bespoke-music-in-osu/Its_not_Marvin.png)::{ user=13600612 }
 
 > Every time we present the custom song, the reaction from the players, viewers is always a special moment for me. For std atleast, the planning of the next custom song starts almost immediately after the current iteration of the tournament ends. So to see that everyone is surprised and hyped for the final song and final presentation feels so satisfying, knowing that the time and effort my team and I put in was so worth it.
 
-::!\1\1(/wiki/shared/news/2024-03-20-bespoke-music-in-osu/Jerry.png)::{ user=605973 }
+::![](/wiki/shared/news/2024-03-20-bespoke-music-in-osu/Jerry.png)::{ user=605973 }
 
 > [Kicking off the OTMT series back in 2021](https://osu.ppy.sh/community/forums/topics/1389964?n=1) felt like I was thrown into the deep end of a pool, with almost none of my past tournament staffing experiences being applicable. Covering every role with the extremely small group of staff that we had was tough, but in hindsight I think that experience was necessary for us to gain insight into what worked and what didn't, which then helped alot in addressing any issues for the [2022 edition](/wiki/Tournaments/OTMT/2022).
 > 
@@ -237,13 +237,13 @@ We'll leave you with what these creators dearly remember.
 > 
 > The most significant challenge that we faced during OTMT2022 was, of course, the realistic aspect of hosting these kind of projects — the cost. However, thanks to the insane generosity and support from the community, we managed to fully fund the costs of the tournament solely through community donations. This is something that I'll forever be grateful and proud of, and is also what keeps me motivated to continuously find new ways to up the scale for this series :)
 
-::!\1\1(/wiki/shared/news/2024-03-20-bespoke-music-in-osu/takehirotei.png)::{ user=11793794 }
+::![](/wiki/shared/news/2024-03-20-bespoke-music-in-osu/takehirotei.png)::{ user=11793794 }
 
 > \[...] I will be sharing one of the memories that has left a lot of impact in my heart. The first one is during the process of making [Essence](https://osu.ppy.sh/beatmapsets/1943786) with HowToPlayLN. This is my first time collaborating with someone (as in 2 ppl collab) on making a Grand Finals tiebreaker. At first, we are just trying to put in the tiebreaker copypasta into a tiebreaker song, but as time goes by, our ideas become crazier and crazier. At one point we even decide to make a section where the time signature changes every bar.
 >
 > After the tiebreaker was made, things got even more crazy as the media team is cooking the lore. At first we only have the tiebreaker, then soon enough, we all decide to make a song for each cutscene that shows before the mappool showcase begins, and also a [rearrangement of *Essence* for the credits theme](https://www.youtube.com/watch?v=YcTvEi8ZPyA). This is perhaps the most precious memories that I have ever been through at that point as a composer.
 
-::!\1\1(/wiki/shared/news/2024-03-20-bespoke-music-in-osu/HowToPlayLN.png)::{ user=10879600 }
+::![](/wiki/shared/news/2024-03-20-bespoke-music-in-osu/HowToPlayLN.png)::{ user=10879600 }
 
 > There are so many moments in music journey which reminded me that my life has meanings. Some other people would tell me directly that my compositions are emotionally touching to them, like *Akatsuki*, or *Essence*, or some actually perceived them as "insane". Especially if those are meant to be portraying my emotions at the time I was composing them, I would feel grateful a lot. It feels like somebody understood me and my intent of doing my best in my own hobby.
 > 

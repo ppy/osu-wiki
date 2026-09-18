@@ -5,7 +5,7 @@ date: 2018-10-09 18:00:00 +0000
 series: official_contests
 ---
 
-It has been another exciting year for the osu!idol competition! We have three finalists for you to hear - ::Zeva\1FL\1::{ user=2805170 }, ::Will Stetson::{ user=4909088 } and ::MjIsMaster::{ user=9922896 } -  give 'em a listen and vote for your favourite now!
+It has been another exciting year for the osu!idol competition! We have three finalists for you to hear - ::Zeva[FL]::{ user=2805170 }, ::Will Stetson::{ user=4909088 } and ::MjIsMaster::{ user=9922896 } -  give 'em a listen and vote for your favourite now!
 
 [![](/wiki/shared/news/2018-10-10-osu-idol-2018-finals-community-voting/banner.jpg)](https://osu.ppy.sh/community/contests/71)
 

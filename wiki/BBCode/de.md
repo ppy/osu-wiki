@@ -429,7 +429,7 @@ Diese Programme vereinfachen die Textformatierung mit BBCode:
 | :-: | :-: | :-- |
 | [OSUWME](https://osu.ppy.sh/community/forums/topics/2029947) | ::{ flag=ID }:: ::rezzvy::{ user=8804560 } | BBCode-Editor mit einer Echtzeitvorschau für osu!-Profile |
 | [osu! BBCode Editor](https://github.com/NoelleTGS/osu-bbcode-editor) | ::{ flag=CA }:: ::HonokaKousakaTV::{ user=18595366 } | BBCode-Editor mit einer Echtzeitvorschau für osu!-Profile (archiviert) |
-| [osu-gradient](https://osu-gradient.jgroup.top/) | ::{ flag=RU }:: ::\1\1\1\1\1\1\1\1\1\1\1\1\1\1\1::{ user=12036908 } | Erstelle Farbverläufe für osu!-Profile |
+| [osu-gradient](https://osu-gradient.jgroup.top/) | ::{ flag=RU }:: ::[_____________]::{ user=12036908 } | Erstelle Farbverläufe für osu!-Profile |
 | [osu-web enhanced](https://osu.ppy.sh/community/forums/topics/1361818) | ::{ flag=DE }:: ::RockRoller::{ user=8388854 } | Browsererweiterung, die weitere BBCode-Buttons und andere Funktionen zur osu!-Webseite hinzufügt |
 | [textcolorizer](https://www.stuffbydavid.com/textcolorizer) | david | Textfärbung im BBCode- und HTML-Format |
 

@@ -63,7 +63,7 @@ If you weren't overwhelmed with maps already, this should do it:
 - [osu!taiko map](https://osu.ppy.sh/beatmapsets/781957) hosted by ::duski::{ user=6506484 }
 - [Full osu! difficulty spread](https://osu.ppy.sh/beatmapsets/1033156) hosted by *Smug Nanachi*
 - [osu!catch map](https://osu.ppy.sh/beatmapsets/1454177) hosted by ::wonjae::{ user=5032045 }
-- [osu! map](https://osu.ppy.sh/beatmapsets/769181) hosted by ::SnowNiNo\1::{ user=2506267 }
+- [osu! map](https://osu.ppy.sh/beatmapsets/769181) hosted by ::SnowNiNo_::{ user=2506267 }
 - [4K and 7K osu!mania maps](https://osu.ppy.sh/beatmapsets/715728) hosted by ::Turrim::{ user=3846265 }
 
 <audio controls>
@@ -80,7 +80,7 @@ Check out [this osu!taiko map](https://osu.ppy.sh/beatmapsets/660995) hosted by 
 
 ### Gram - Nibelungen
 
-Try [this 7K osu!mania spread](https://osu.ppy.sh/beatmapsets/1553319) hosted by ::Critical\1Star::{ user=3793196 } or [this loved osu! map](https://osu.ppy.sh/beatmapsets/954880) hosted by ::FaiVillager::{ user=2032822 }!
+Try [this 7K osu!mania spread](https://osu.ppy.sh/beatmapsets/1553319) hosted by ::Critical_Star::{ user=3793196 } or [this loved osu! map](https://osu.ppy.sh/beatmapsets/954880) hosted by ::FaiVillager::{ user=2032822 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/295/The%20Requiem%2FGram%20-%20Nibelungen.mp3" type="audio/mpeg">

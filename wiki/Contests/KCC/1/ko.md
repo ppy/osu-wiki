@@ -36,7 +36,7 @@ tags:
 | 주최자 | ::{ flag=KR }:: ::Garalulu::{ user=757783 } |
 | 매니저 | ::{ flag=KR }:: ::Oni Suika::{ user=4848023 } |
 | 디자이너 | ::{ flag=KR }:: ::POCARI SWEAT::{ user=5082685 } |
-| 심사위원 | ::{ flag=PL }:: ::\1underjoy::{ user=2235750 }, ::{ flag=KR }:: ::Garalulu::{ user=757783 }, ::{ flag=GT }:: ::Hoto Cocoa::{ user=6974536 }, ::{ flag=KR }:: ::Kawawa::{ user=4647754 }, ::{ flag=KR }:: ::Pengdoll::{ user=6392061 } |
+| 심사위원 | ::{ flag=PL }:: ::_underjoy::{ user=2235750 }, ::{ flag=KR }:: ::Garalulu::{ user=757783 }, ::{ flag=GT }:: ::Hoto Cocoa::{ user=6974536 }, ::{ flag=KR }:: ::Kawawa::{ user=4647754 }, ::{ flag=KR }:: ::Pengdoll::{ user=6392061 } |
 
 ## 링크
 

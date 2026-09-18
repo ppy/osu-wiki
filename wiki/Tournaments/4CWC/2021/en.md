@@ -42,7 +42,7 @@ The 4 Digit Catch World Cup 2021 was run by various community members.
 | :-- | :-- |
 | Host | ::{ flag=UA }:: ::M0RU::{ user=13681464 }, ::{ flag=RU }:: ::KitsunIvy::{ user=7055384 } |
 | Mappool selector | ::{ flag=CA }:: ::Henrick::{ user=8840982 }, ::{ flag=RU }:: ::KitsunIvy::{ user=7055384 }, ::{ flag=SG }:: ::lovemathboy::{ user=4220829 }, ::{ flag=UA }:: ::M0RU::{ user=13681464 }, ::{ flag=ID }:: ::Urabe Mikoto::{ user=1272422 }, ::{ flag=CA }:: ::wwwww::{ user=8434466 } |
-| Mappool tester | ::{ flag=RU }:: ::\1Insomnia::{ user=8928855 }, ::{ flag=FR }:: ::Orhah::{ user=8335913 }, ::{ flag=KR }:: ::\1Amazing\1::{ user=1391036 }, ::{ flag=US }:: ::hac::{ user=17853754 }, ::{ flag=PL }:: ::BoberOfDarkness::{ user=3427748 }, ::{ flag=BE }:: ::Cakenoob::{ user=6045522 }, ::{ flag=FR }:: ::h-e-c-a123::{ user=3163012 }, ::{ flag=RU }:: ::Nelly::{ user=4741164 } |
+| Mappool tester | ::{ flag=RU }:: ::_Insomnia::{ user=8928855 }, ::{ flag=FR }:: ::Orhah::{ user=8335913 }, ::{ flag=KR }:: ::[Amazing]::{ user=1391036 }, ::{ flag=US }:: ::hac::{ user=17853754 }, ::{ flag=PL }:: ::BoberOfDarkness::{ user=3427748 }, ::{ flag=BE }:: ::Cakenoob::{ user=6045522 }, ::{ flag=FR }:: ::h-e-c-a123::{ user=3163012 }, ::{ flag=RU }:: ::Nelly::{ user=4741164 } |
 | Custom mapper | ::{ flag=NO }:: ::Benita::{ user=4023183 }, ::{ flag=RU }:: ::Nelly::{ user=4741164 }, ::{ flag=KR }:: ::Spectator::{ user=702598 } |
 | Streamer | ::{ flag=US }:: ::dogshit player::{ user=10491951 }, ::{ flag=CA }:: ::FrozenTea::{ user=12125431 }, ::{ flag=UA }:: ::M0RU::{ user=13681464 }, ::{ flag=LU }:: ::Melodies::{ user=7787785 }, ::{ flag=FR }:: ::Shamookie::{ user=12441210 } |
 | Commentator | ::{ flag=BE }:: ::\[ Quinten \]::{ user=6283136 }, ::{ flag=AU }:: ::Beat43210::{ user=5664171 }, ::{ flag=AU }:: ::CoolEVT::{ user=3252653 }, ::{ flag=US }:: ::Dohland::{ user=5220511 }, ::{ flag=CA }:: ::FrozenTea::{ user=12125431 }, ::{ flag=IL }:: ::gal1::{ user=9424481 }, ::{ flag=AU }:: ::KannaKamuiii::{ user=11435502 }, ::{ flag=LU }:: ::Melodies::{ user=7787785 }, ::{ flag=RU }:: ::Nelly::{ user=4741164 } |
@@ -65,7 +65,7 @@ The 4 Digit Catch World Cup 2021 was run by various community members.
 | :-: | :-: | :-- |
 | ::{ flag=DZ }:: | **Algeria** | **::Demon-kira::{ user=20232838 }**, ::Abdera7mane::{ user=20083587 }, ::Rifze::{ user=10428222 } |
 | ::{ flag=AU }:: | **Australia** | **::-NOBLE-::{ user=8363648 }**, ::Yubeki::{ user=7331416 }, ::KannaKamuiii::{ user=11435502 }, ::Tanome::{ user=15017397 }, ::Thinkpitz::{ user=14430872 }, ::Maitoo::{ user=16899553 } |
-| ::{ flag=BE }:: | **Belgium** | **::-\1Smoked\1-::{ user=8731044 }**, ::Dabo::{ user=9507660 }, ::Nura::{ user=9898151 }, ::\[ Ajia \]::{ user=17578266 }, ::Spok::{ user=9738202 } |
+| ::{ flag=BE }:: | **Belgium** | **::-[Smoked]-::{ user=8731044 }**, ::Dabo::{ user=9507660 }, ::Nura::{ user=9898151 }, ::\[ Ajia \]::{ user=17578266 }, ::Spok::{ user=9738202 } |
 | ::{ flag=BR }:: | **Brazil** | **::Silent Chord::{ user=11382428 }**, ::Sakinuto::{ user=10669592 }, ::Flauta::{ user=2708093 }, ::CosmicDreamerXD::{ user=17154677 }, ::Nekobad::{ user=18090305 }, ::xxluizxx47::{ user=4687701 } |
 | ::{ flag=CA }:: | **Canada** | **::SandwichMaster::{ user=7345342 }**, ::Malikil::{ user=3208718 }, ::Zyoulou::{ user=8668722 }, ::Kevaca::{ user=12528295 }, ::ItsMellloww::{ user=17277815 }, ::Astralyse::{ user=19616193 } |
 | ::{ flag=CL }:: | **Chile** | **::Jeongyeon-::{ user=13956591 }**, ::SoyUnCirculo::{ user=9870318 }, ::jaimeywea::{ user=8299277 }, ::MankekeOpeh::{ user=8112589 }, ::-Suru-::{ user=16932505 } |
@@ -80,16 +80,16 @@ The 4 Digit Catch World Cup 2021 was run by various community members.
 | ::{ flag=MY }:: | **Malaysia** | **::Green Ghost::{ user=10826368 }**, ::Daniel3131::{ user=11710477 }, ::\[Pichu\]::{ user=14281462 }, ::DTNLRiki::{ user=12382410 }, ::\[skyler\]::{ user=19712974 }, ::ERA Leon::{ user=13382147 } |
 | ::{ flag=MX }:: | **Mexico** | **::ExGunt::{ user=20136125 }**, ::- Domaniacxx -::{ user=17952050 }, ::Galia-::{ user=10881728 }, ::roquegabr::{ user=8791862 }, ::-Applejack-::{ user=1352395 }, ::Leo11wasd::{ user=20085430 } |
 | ::{ flag=MA }:: | **Morocco** | **::Evaous::{ user=6700893 }**, ::BassDead::{ user=8989185 }, ::OSUjanaiKATSURAda::{ user=2154499 } |
-| ::{ flag=NL }:: | **Netherlands** | **::Fyunix::{ user=2503365 }**, ::jackylam5::{ user=1540807 }, ::\1 Christan \1::{ user=8170778 }, ::DeNummer1::{ user=13851447 } |
+| ::{ flag=NL }:: | **Netherlands** | **::Fyunix::{ user=2503365 }**, ::jackylam5::{ user=1540807 }, ::[ Christan ]::{ user=8170778 }, ::DeNummer1::{ user=13851447 } |
 | ::{ flag=PH }:: | **Philippines** | **::Lawrence Angelo::{ user=10373568 }**, ::Laqure::{ user=1642435 }, ::MaMaiPonc::{ user=4169363 }, ::Loreal::{ user=9362231 }, ::Kuroiden::{ user=16855004 } |
-| ::{ flag=PL }:: | **Poland** | **::-ExGon-::{ user=7552274 }**, ::Na\1lax::{ user=16071686 }, ::Ichijou::{ user=11933276 }, ::hrohoroko::{ user=14121250 }, ::Kasperatu::{ user=9380604 }, ::404usernotfound::{ user=5274209 } |
+| ::{ flag=PL }:: | **Poland** | **::-ExGon-::{ user=7552274 }**, ::Na_lax::{ user=16071686 }, ::Ichijou::{ user=11933276 }, ::hrohoroko::{ user=14121250 }, ::Kasperatu::{ user=9380604 }, ::404usernotfound::{ user=5274209 } |
 | ::{ flag=PT }:: | **Portugal** | **::Zcey::{ user=23114439 }**, ::GoncS::{ user=19423459 }, ::domanizz::{ user=23754472 } |
 | ::{ flag=RO }:: | **Romania** | **::Australia::{ user=16196079 }**, ::DCega::{ user=16223132 }, ::Ahrinity::{ user=11587229 }, ::salam4life::{ user=11161490 } |
 | ::{ flag=RU }:: | **Russian Federation** | **::ThankYou::{ user=4571241 }**, ::dark rainbow::{ user=10557830 }, ::yuinn::{ user=11239593 }, ::aabii::{ user=17808018 }, ::vinnikoish::{ user=14509580 }, ::Mazuki::{ user=15208771 } |
 | ::{ flag=SG }:: | **Singapore** | **::Kings::{ user=1016926 }**, ::Rubae::{ user=21105275 }, ::yihao on osu::{ user=8387373 }, ::Judiciousity::{ user=11199083 }, ::Ekseff::{ user=13966422 }, ::Geekoruto::{ user=16634503 } |
 | ::{ flag=KR }:: | **South Korea** | **::Peaceful::{ user=165027 }**, ::Hoshikuz::{ user=9892196 }, ::log out side::{ user=11535744 }, ::gaten::{ user=653016 }, ::Civil oath::{ user=3216107 } |
-| ::{ flag=SE }:: | **Sweden** | **::EclipZ::{ user=4586549 }**, ::Osten::{ user=4417929 }, ::Eps::{ user=6511370 }, ::\1 M e a k u \1::{ user=2747072 } |
-| ::{ flag=TW }:: | **Taiwan** | **::murorachi::{ user=8682905 }**, ::Nazrin on osu::{ user=2512267 }, ::\_Satsuki\1::{ user=9003480 }, ::mamonowo::{ user=1298335 }, ::Joylintp::{ user=13579078 }, ::Zetorber::{ user=9309746 } |
+| ::{ flag=SE }:: | **Sweden** | **::EclipZ::{ user=4586549 }**, ::Osten::{ user=4417929 }, ::Eps::{ user=6511370 }, ::[ M e a k u ]::{ user=2747072 } |
+| ::{ flag=TW }:: | **Taiwan** | **::murorachi::{ user=8682905 }**, ::Nazrin on osu::{ user=2512267 }, ::\_Satsuki_::{ user=9003480 }, ::mamonowo::{ user=1298335 }, ::Joylintp::{ user=13579078 }, ::Zetorber::{ user=9309746 } |
 | ::{ flag=TH }:: | **Thailand** | **::EzyS::{ user=16271283 }**, ::N3Marry::{ user=13222425 }, ::OOYCHAI::{ user=15289954 }, ::shokoha::{ user=14134289 }, ::harlemshake555::{ user=7355319 }, ::-TANAKITO-::{ user=6037121 } |
 | ::{ flag=UA }:: | **Ukraine** | **::Remolution::{ user=11426511 }**, ::Shadowbolts1::{ user=13962882 }, ::NamakemonsteR::{ user=17314832 }, ::Marfuri::{ user=9114190 }, ::Vanzz::{ user=15792058 } |
 | ::{ flag=GB }:: | **United Kingdom** | **::arwab::{ user=16496103 }**, ::Icy::{ user=8205964 }, ::GD Lapis::{ user=9845758 }, ::Grimzy on 60hz::{ user=17951681 }, ::Komm::{ user=7671790 }, ::Greninja::{ user=8579186 } |
@@ -104,7 +104,7 @@ This competition has come to an end and resulted in the following podium:
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: **Indonesia** (**::Reid Hezzel::{ user=5604201 }**, ::Reissfelt::{ user=1096240 }, ::Zvenx::{ user=14613788 }, ::Nyeko Kawaii::{ user=15931741 }, ::Ruu::{ user=3212755 }, ::BitDust::{ user=9573836 }) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=DE }:: **Germany** (**::Ikira::{ user=6104236 }**, ::Daihmuddah::{ user=1619007 }, ::white-raven::{ user=2363941 }, ::KukajuLp::{ user=9370371 }, ::Heam::{ user=4705120 }, ::ewi000::{ user=10827730 }) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=SE }:: **Sweden** (**::EclipZ::{ user=4586549 }**, ::Osten::{ user=4417929 }, ::Eps::{ user=6511370 }, ::\1 M e a k u \1::{ user=2747072 }) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=SE }:: **Sweden** (**::EclipZ::{ user=4586549 }**, ::Osten::{ user=4417929 }, ::Eps::{ user=6511370 }, ::[ M e a k u ]::{ user=2747072 }) |
 
 ## Mappools
 

@@ -188,7 +188,7 @@ outdated_translation: true
 | Taiko World Cup: Last Man Standing 2 | 2015-05-09 | 2015-06-16 | ::{ flag=TW }:: Taiwan A | ::{ flag=FR }:: France | ::{ flag=JP }:: Japan A |
 | Taiko World Cup: Last Man Standing - Single Player Edition | 2016-10-10 | 2016-01-11 | ::{ flag=JP }:: ::abeno::{ user=6565148 } | ::{ flag=TW }:: ::S a n d::{ user=676578 } | ::{ flag=CA }:: ::Fudgyking::{ user=3802922 } |
 | Taiko World Cup: Last Man Standing 3 | 2016-06-11 | 2016-07-24 | ::{ flag=JP }:: Japan A | ::{ flag=TW }:: Taiwan A | ::{ flag=JP }:: Japan D |
-| Taiko: Last Man Standing - Single Player Edition 2 | 2017-01-07 | 2017-02-12 | ::{ flag=JP }:: ::\1yu68::{ user=6170507 } | ::{ flag=KR }:: ::applerss::{ user=983349 } | ::{ flag=CA }:: ::janitoreihil::{ user=3307897 } |
+| Taiko: Last Man Standing - Single Player Edition 2 | 2017-01-07 | 2017-02-12 | ::{ flag=JP }:: ::_yu68::{ user=6170507 } | ::{ flag=KR }:: ::applerss::{ user=983349 } | ::{ flag=CA }:: ::janitoreihil::{ user=3307897 } |
 | Taiko: Last Man Standing 4 | 2017-09-23 | 2017-10-28 | Tarako Spa | Can We Go Back | easy to giveup |
 | [Taiko Last Man Standing: Shift Cup](/wiki/Tournaments/T_LMS/Shift_1) | 2018-06-09 | 2018-07-15 | V E R Y S T R O N G T E A M | あ | Ｆａｓｔ ＆ Ｃｈｉｌｌ 早く |
 

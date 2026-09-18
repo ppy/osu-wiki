@@ -60,7 +60,7 @@ An iconic song meeting an iconic mapping style, Saten's map of S.S.H.'s Big Blue
 
 [![](/wiki/shared/news/2018-11-04-project-loved-week-of-november-4th/osu/stay-for-a-while.jpg)](https://osu.ppy.sh/community/forums/topics/825506)
 
-[Virtual Riot - Stay For A While](https://osu.ppy.sh/beatmapsets/690556#osu) by ::ProfessionalBox::{ user=3250792 } and ::cRyo\1iceeicee\1::{ user=835998 }\
+[Virtual Riot - Stay For A While](https://osu.ppy.sh/beatmapsets/690556#osu) by ::ProfessionalBox::{ user=3250792 } and ::cRyo[iceeicee]::{ user=835998 }\
 *written by ::DigitalHypno::{ user=4384207 }*
 
 Yet another ProfessionalBox map has made its way to the Loved voting stage! This time, it's a control-crazy map of Virtual Riot's "Stay For A While" designed to throw you off with its confusing slider shapes and insanely high slider tick rate of 4. Tied along with quite a catchy and energetic future bass song, this map does an amazing job creating a unique playing experience—I'm sure the 120+ favorites can agree with me on that! So, what say you? Think you've got the cursor control it takes to pass a map like this? If you said yes, I'm going to need you to stop reading this and give the map your best go. Trust me, it'll be worth it! Afterwards, come back to this page and drop a vote on the map's poll!
@@ -102,7 +102,7 @@ I never thought cross-playfield jumps could look so inviting yet so intimidating
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-\1 ix Ishida xi \1-::{ user=242910 }, ::-Kazu-::{ user=920861 }, ::Backfire::{ user=263110 }, ::iceOC::{ user=5482401 } and ::nyanmi-1828::{ user=6866480 }! This week, all osu!taiko beatmap descriptions were written by ::-Kazu-::{ user=920861 }.
+osu!taiko Loved candidates were chosen by ::-[ ix Ishida xi ]-::{ user=242910 }, ::-Kazu-::{ user=920861 }, ::Backfire::{ user=263110 }, ::iceOC::{ user=5482401 } and ::nyanmi-1828::{ user=6866480 }! This week, all osu!taiko beatmap descriptions were written by ::-Kazu-::{ user=920861 }.
 
 ---
 

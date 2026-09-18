@@ -47,7 +47,7 @@ Alternatively, you can sprint through [this map](https://osu.ppy.sh/beatmapsets/
 
 ### 633397 - i can't run anymore
 
-And if your legs hurt, continue suffering with [this difficult map](https://osu.ppy.sh/beatmapsets/2134503) hosted by ::\1gt::{ user=8301957 }.
+And if your legs hurt, continue suffering with [this difficult map](https://osu.ppy.sh/beatmapsets/2134503) hosted by ::_gt::{ user=8301957 }.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/419/for%20you/633397%20-%20i%20can_t%20run%20anymore.mp3">

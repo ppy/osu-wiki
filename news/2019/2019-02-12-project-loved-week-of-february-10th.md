@@ -100,7 +100,7 @@ After clips from various players including ::Umbre::{ user=2766034 }, ::firebat9
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-\1 ix Ishida xi \1-::{ user=242910 }, ::-Kazu-::{ user=920861 }, ::iceOC::{ user=5482401 }, ::jyake::{ user=9099822 } and ::nyanmi-1828::{ user=6866480 }!
+osu!taiko Loved candidates were chosen by ::-[ ix Ishida xi ]-::{ user=242910 }, ::-Kazu-::{ user=920861 }, ::iceOC::{ user=5482401 }, ::jyake::{ user=9099822 } and ::nyanmi-1828::{ user=6866480 }!
 
 ---
 
@@ -140,7 +140,7 @@ osu!catch Loved candidates were chosen by ::Ascendance::{ user=2931883 }, ::Sart
 
 [![](/wiki/shared/news/2019-02-12-project-loved-week-of-february-10th/catch/weekly-shonen-bye-bye.jpg)](https://osu.ppy.sh/community/forums/topics/868453)
 
-[PinocchioP - Weekly Shonen BYE-BYE](https://osu.ppy.sh/beatmapsets/279313#fruits) by ::\1224\1Reol::{ user=3313041 }\
+[PinocchioP - Weekly Shonen BYE-BYE](https://osu.ppy.sh/beatmapsets/279313#fruits) by ::[224]Reol::{ user=3313041 }\
 *written by ::Wesley::{ user=2407265 }*
 
 This week we're bringing back one of \[224\]Reol's earlier maps, "Shuukan Shounen Bye Bye". While being submitted back in 2015, and not quite considered an "old" map yet, it sure does contain some patterns that are considered awkward compared to the newer maps. It's filled with constant wiggles, both with hyperdashes and without! Now, of course wiggles are fun and all, but it also contains some tap dashes here and there to increase the overall difficulty just to top it all off. Because the song is so action packed, you don't really get any time to lose concentration, otherwise you will miss right away because of everything going on. Enjoy!

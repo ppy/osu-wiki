@@ -35,7 +35,7 @@ All users listed below were added on 2018-01-29.
 - ::Lanturn::{ user=1446665 }
 - ::Nevo::{ user=7451883 }
 - ::Bubblun::{ user=6191653 }
-- ::mancuso\1JM\1::{ user=521568 }
+- ::mancuso_JM_::{ user=521568 }
 - ::Wishkey::{ user=1101704 }
 - ::TheKingHenry::{ user=5128277 }
 - ::ailv::{ user=6933054 }
@@ -48,7 +48,7 @@ All users listed below were added on 2018-01-29.
 - Added ::Asherz007::{ user=9014047 } to Quality Assurance Team (2018-02-04)
 - Moved ::Darksonic::{ user=570042 } from osu! Alumni to Global Moderation Team (2018-02-13)
 - Moved ::Uni::{ user=617106 } from Global Moderation Team to osu! Alumni (2018-02-20)
-- Moved ::\1 Another \1::{ user=3416573 } from Global Moderation Team to osu! Alumni (2018-02-20)
+- Moved ::[ Another ]::{ user=3416573 } from Global Moderation Team to osu! Alumni (2018-02-20)
 - Removed ::Irreversible::{ user=1287964 } from Quality Assurance Team (2018-02-27)
 
 ### Beatmap Nominator removals
@@ -147,7 +147,7 @@ All users listed below were added on 2018-04-23.
 - ::Chromoxx::{ user=1881639 } - resignation (2018-05-01)
 - ::Chewin::{ user=617323 } - inactivity (2018-05-14)
 - ::MBomb::{ user=3071175 } - resignation (2018-05-20)
-- ::SnowNiNo\1::{ user=2506267 } - failing probation (2018-05-24)
+- ::SnowNiNo_::{ user=2506267 } - failing probation (2018-05-24)
 - ::Smokeman::{ user=2140676 } - failing probation (2018-05-24)
 - ::Kyuukai::{ user=5337374 } - failing probation (2018-05-24)
 - ::juankristal::{ user=443656 } - inactivity (2018-05-30)
@@ -187,7 +187,7 @@ All users listed below were added on 2018-06-12.
 - ::Lenfried-::{ user=5314573 }
 - ::Unpredictable::{ user=7560872 }
 - ::DE-CADE::{ user=3734394 }
-- ::\1Stan::{ user=1653229 }
+- ::_Stan::{ user=1653229 }
 - ::DoNotMess::{ user=1596318 }
 
 ## July
@@ -207,7 +207,7 @@ All users listed below were added on 2018-06-12.
 - ::Bubblun::{ user=6191653 } - insufficient proficiency (2018-07-21)
 - ::Battle::{ user=4037545 } - inactivity (2018-07-21)
 - ::Halfslashed::{ user=4598899 } - insufficient proficiency (2018-07-21)
-- ::mancuso\1JM\1::{ user=521568 } - inactivity (2018-07-21)
+- ::mancuso_JM_::{ user=521568 } - inactivity (2018-07-21)
 - ::pinataman::{ user=1235485 } - inactivity (2018-07-21)
 - ::squirrelpascals::{ user=6151332 } - insufficient proficiency (2018-07-21)
 - ::AJamez::{ user=7890134 } - insufficient proficiency (2018-07-21)
@@ -242,7 +242,7 @@ All users listed below were added on 2018-07-27.
 
 ### Beatmap Nominator removals
 
-- ::error\1exe777::{ user=7975796 } - failing probation (2018-08-17)
+- ::error_exe777::{ user=7975796 } - failing probation (2018-08-17)
 - ::Cerulean Veyron::{ user=1886524 } - resignation (2018-08-20)
 - ::F D Flourite::{ user=2459589 } - failing probation (2018-08-22)
 - ::Ryuusei Aika::{ user=7777875 } - failing probation (2018-08-22)

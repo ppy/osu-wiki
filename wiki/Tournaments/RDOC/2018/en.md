@@ -62,7 +62,7 @@ The Royal Danish osu!Cup 2018 was run by various community members.
 | :-- | :-- |
 | Top | ::{ flag=DK }:: ::Telomere::{ user=6295380 }, ::{ flag=DK }:: ::Spork Lover::{ user=3417469 }, ::{ flag=DK }:: ::raser1234::{ user=2527887 }, ::{ flag=DK }:: ::Cerkie::{ user=2533400 }, ::{ flag=DK }:: ::My Aim Zogs::{ user=3722715 }, ::{ flag=DK }:: ::Vandabe::{ user=7050754 }, ::{ flag=DK }:: ::space potato::{ user=6545407 }, ::{ flag=DK }:: ::Zakura::{ user=3053599 } |
 | High | ::{ flag=DK }:: ::waefwerf::{ user=3868653 }, ::{ flag=DK }:: ::Tona::{ user=2678812 }, ::{ flag=DK }:: ::Katachi::{ user=5778925 }, ::{ flag=DK }:: ::Lemmen::{ user=6090254 }, ::{ flag=DK }:: ::ZestorTK::{ user=6592417 }, ::{ flag=DK }:: ::Contaminate::{ user=4694589 }, ::{ flag=DK }:: ::RipG::{ user=2750839 }, ::{ flag=DK }:: ::StevenDANK::{ user=1729766 } |
-| Low | ::{ flag=DK }:: ::Lucasion::{ user=7382672 }, ::{ flag=DK }:: ::Boje::{ user=5120773 }, ::{ flag=DK }:: ::Power Supply::{ user=7091513 }, ::{ flag=DK }:: ::\1Alex::{ user=7882154 }, ::{ flag=DK }:: ::Pallerik::{ user=9303652 }, ::{ flag=DK }:: ::P3RS3X::{ user=9469362 }, ::{ flag=DK }:: ::eLLezH::{ user=2143311 }, ::{ flag=DK }:: ::\[THEDUCK\]::{ user=6080866 } |
+| Low | ::{ flag=DK }:: ::Lucasion::{ user=7382672 }, ::{ flag=DK }:: ::Boje::{ user=5120773 }, ::{ flag=DK }:: ::Power Supply::{ user=7091513 }, ::{ flag=DK }:: ::_Alex::{ user=7882154 }, ::{ flag=DK }:: ::Pallerik::{ user=9303652 }, ::{ flag=DK }:: ::P3RS3X::{ user=9469362 }, ::{ flag=DK }:: ::eLLezH::{ user=2143311 }, ::{ flag=DK }:: ::\[THEDUCK\]::{ user=6080866 } |
 | Bottom | ::{ flag=DK }:: ::Ghost Krillin::{ user=6913805 }, ::{ flag=DK }:: ::FeelDaTonneh::{ user=4348782 }, ::{ flag=DK }:: ::Kinety::{ user=5941273 }, ::{ flag=DK }:: ::Waven7::{ user=11157036 }, ::{ flag=DK }:: ::seb2110::{ user=5323224 }, ::{ flag=DK }:: ::Syncopate::{ user=7232730 }, ::{ flag=DK }:: ::LeDoodeNiss::{ user=7345263 }, ::{ flag=DK }:: ::sanoJ::{ user=5385297 } |
 
 ## Groups
@@ -70,7 +70,7 @@ The Royal Danish osu!Cup 2018 was run by various community members.
 | Group | Top seed | High seed | Low seed | Bottom seed |
 | :-: | :-- | :-- | :-- | :-- |
 | **A** | ::{ flag=DK }:: ::space potato::{ user=6545407 } | ::{ flag=DK }:: ::ZestorTK::{ user=6592417 } | ::{ flag=DK }:: ::Boje::{ user=5120773 } | ::{ flag=DK }:: ::seb2110::{ user=5323224 } |
-| **B** | ::{ flag=DK }:: ::Telomere::{ user=6295380 } | ::{ flag=DK }:: ::waefwerf::{ user=3868653 } | ::{ flag=DK }:: ::\1Alex::{ user=7882154 } | ::{ flag=DK }:: ::Syncopate::{ user=7232730 } |
+| **B** | ::{ flag=DK }:: ::Telomere::{ user=6295380 } | ::{ flag=DK }:: ::waefwerf::{ user=3868653 } | ::{ flag=DK }:: ::_Alex::{ user=7882154 } | ::{ flag=DK }:: ::Syncopate::{ user=7232730 } |
 | **C** | ::{ flag=DK }:: ::My Aim Zogs::{ user=3722715 } | ::{ flag=DK }:: ::StevenDANK::{ user=1729766 } | ::{ flag=DK }:: ::Pallerik::{ user=9303652 } | ::{ flag=DK }:: ::sanoJ::{ user=5385297 } |
 | **D** | ::{ flag=DK }:: ::Cerkie::{ user=2533400 } | ::{ flag=DK }:: ::Contaminate::{ user=4694589 } | ::{ flag=DK }:: ::Lucasion::{ user=7382672 } | ::{ flag=DK }:: ::FeelDaTonneh::{ user=4348782 } |
 | **E** | ::{ flag=DK }:: ::Vandabe::{ user=7050754 } | ::{ flag=DK }:: ::Lemmen::{ user=6090254 } | ::{ flag=DK }:: ::eLLezH::{ user=2143311 } | ::{ flag=DK }:: ::Kinety::{ user=5941273 } |

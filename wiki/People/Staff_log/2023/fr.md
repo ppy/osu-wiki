@@ -82,7 +82,7 @@ Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont le
 - 16/02/2023 : Ajout de ::DOUG::{ user=13806900 } : **BN**
 - 16/02/2023 : Ajout de ::Enneya::{ user=10959501 } : **BN probatoire**
 - 16/02/2023 : Ajout de ::MochiA::{ user=9312734 } : **BN probatoire**
-- 20/02/2023 : Ajout de ::Stompy\1::{ user=16429579 } : **BN probatoire**
+- 20/02/2023 : Ajout de ::Stompy_::{ user=16429579 } : **BN probatoire**
 - 24/02/2023 : Ajout de ::Protastic101::{ user=6712747 } : **BN probatoire**
 - 24/02/2023 : Ajout de ::Monoseul::{ user=16010604 } : **BN probatoire**
 - 25/02/2023 : Ajout de ::hac::{ user=17853754 } : **BN**
@@ -130,7 +130,7 @@ Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont le
 ## Mars
 
 - 04/03/2023 : Transfert de ::Secre::{ user=2306637 } : **NAT** > **osu! Alumni**
-- 12/03/2023 : Retrait de ::\1Zeth\1::{ user=9912966 } : **Beatmap Spotlight Curators**
+- 12/03/2023 : Retrait de ::[Zeth]::{ user=9912966 } : **Beatmap Spotlight Curators**
 - 12/03/2023 : Ajout de ::megumic::{ user=7537133 } : **Project Loved Team**
 - 12/03/2023 : Ajout de ::Kingling::{ user=7010761 } : **Project Loved Team**
 - 12/03/2023 : Ajout de ::Aistre::{ user=4879380 } : **Project Loved Team**
@@ -138,7 +138,7 @@ Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont le
 - 18/03/2023 : Ajout de ::Ideal::{ user=3869519 } : **NAT**
 - 20/03/2023 : Retrait de ::Irisu::{ user=8595858 } : **Project Loved Team**
 - 27/03/2023 : Ajout de ::Roan::{ user=8214639 } : **GMT**
-- 27/03/2023 : Ajout de ::Redo\1::{ user=7122165 } : **GMT**
+- 27/03/2023 : Ajout de ::Redo_::{ user=7122165 } : **GMT**
 - 28/03/2023 : Ajout de ::Boaz::{ user=13302996 } : **Beatmap Spotlight Curators**
 - 28/03/2023 : Ajout de ::piroshki::{ user=7645522 } : **Beatmap Spotlight Curators**
 - 28/03/2023 : Ajout de ::enri::{ user=8640970 } : **Beatmap Spotlight Curators**
@@ -221,7 +221,7 @@ Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont le
 - 14/04/2023 : Ajout de ::terho::{ user=6090105 } : **GMT**
 - 14/04/2023 : Ajout de ::Corne2Plume3::{ user=15646039 } : **GMT**
 - 14/04/2023 : Transfert de ::Pope Gadget::{ user=2288341 } : **GMT** > **osu! Alumni**
-- 14/04/2023 : Ajout de ::THAT\1otaku::{ user=11798717 } : **GMT**
+- 14/04/2023 : Ajout de ::THAT_otaku::{ user=11798717 } : **GMT**
 - 15/04/2023 : Ajout de ::D I O::{ user=3958619 } : **GMT**
 - 16/04/2023 : Transfert de ::UberFazz::{ user=8646059 } : **NAT** > **osu! Alumni**
 - 17/04/2023 : Retrait de ::POCARI SWEAT::{ user=5082685 } : **Project Loved Team**
@@ -255,7 +255,7 @@ Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont le
 
 #### Transferts
 
-- 13/04/2023 : Transfert de ::Stompy\1::{ user=16429579 } : **BN probatoire** > **BN**
+- 13/04/2023 : Transfert de ::Stompy_::{ user=16429579 } : **BN probatoire** > **BN**
 - 14/04/2023 : Transfert de ::Natsuko::{ user=8266817 } : **BN probatoire** > **BN**
 - 14/04/2023 : Transfert de ::fuhie::{ user=7620002 } : **BN** > **BN probatoire**
 - 15/04/2023 : Transfert de ::Hydria::{ user=808176 } : **BN probatoire** > **BN**
@@ -333,7 +333,7 @@ Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont le
 - 07/05/2023 : Retrait de ::AHHHHHHHHHHHHHH::{ user=8249608 } : **BN**
 - 08/05/2023 : Retrait de ::Zer0-::{ user=4260033 } : **BN**
 - 12/05/2023 : Retrait de ::Zekk::{ user=9704802 } : **BN**
-- 15/05/2023 : Retrait de ::Kim\1GodSSI::{ user=2218047 } : **BN**
+- 15/05/2023 : Retrait de ::Kim_GodSSI::{ user=2218047 } : **BN**
 - 15/05/2023 : Retrait de ::Mafumafu::{ user=3076909 } : **BN**
 - 21/05/2023 : Retrait de ::Feerum::{ user=4815717 } : **BN**
 - 22/05/2023 : Retrait de ::Kudosu::{ user=11038155 } : **BN**
@@ -349,7 +349,7 @@ Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont le
 - 28/06/2023 : Ajout de ::gzdongsheng::{ user=8660315 } : **NAT**
 - 28/06/2023 : Ajout de ::Tailsdk::{ user=6751666 } : **NAT**
 - 28/06/2023 : Ajout de ::MadBricktree::{ user=4790958 } : **NAT**
-- 28/06/2023 : Transfert de ::\1Stan::{ user=1653229 } : **NAT** > **osu! Alumni**
+- 28/06/2023 : Transfert de ::_Stan::{ user=1653229 } : **NAT** > **osu! Alumni**
 
 ### Beatmap Nominators
 
@@ -359,7 +359,7 @@ Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont le
 - 13/06/2023 : Ajout de ::Zekk::{ user=9704802 } : **BN**
 - 15/06/2023 : Ajout de ::davidminh0111::{ user=9623142 } : **BN probatoire**
 - 21/06/2023 : Ajout de ::Antalf::{ user=8793773 } : **BN**
-- 28/06/2023 : Ajout de ::\1Stan::{ user=1653229 } : **BN**
+- 28/06/2023 : Ajout de ::_Stan::{ user=1653229 } : **BN**
 
 #### Transferts
 

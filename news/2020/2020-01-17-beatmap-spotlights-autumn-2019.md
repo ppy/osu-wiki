@@ -16,7 +16,7 @@ The beatmap charts for the Autumn Spotlights can be found [here](https://osu.ppy
 First of all, congratulations to the winners of the Seasonal Spotlights: Summer 2019. They will receive 3, 2, and 1 month of supporter for 1st, 2nd, and 3rd place respectively for their efforts!
 
 - **osu!:** ::Toy::{ user=2757689 }, ::Maxe191::{ user=2184751 } and ::Xilver15::{ user=3099689 }
-- **osu!taiko:** ::JDrago14::{ user=7690078 }, ::Gra::{ user=13852925 } and ::Wilben\1Chan::{ user=6659363 }
+- **osu!taiko:** ::JDrago14::{ user=7690078 }, ::Gra::{ user=13852925 } and ::Wilben_Chan::{ user=6659363 }
 - **osu!catch:** ::RAMPAGE88::{ user=448547 }, ::dika312::{ user=741613 } and ::rostld::{ user=4365562 }
 - **osu!mania:** ::Rashod::{ user=12705051 }, ::tsusai::{ user=7637292 } and ::Cryolien::{ user=1626983 }
 

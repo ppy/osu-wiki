@@ -45,7 +45,7 @@ Below you'll find a list of mentors for each game mode, alongside their timezone
 
 | Mentor | Timezone |
 | :-- | :-- |
-| ::{ flag=MY }:: ::Critical\1Star::{ user=3793196 } | UTC+8 |
+| ::{ flag=MY }:: ::Critical_Star::{ user=3793196 } | UTC+8 |
 | ::{ flag=ID }:: ::Maxus::{ user=4335785 } | UTC+7 |
 | ::{ flag=DZ }:: ::Scotty::{ user=11085809 } & ::{ flag=IT }:: ::\[GB\]Rick::{ user=25263357 } (joint class) | UTC+1 |
 | ::{ flag=CN }:: ::Seiran-::{ user=14351534 } | UTC+8 |

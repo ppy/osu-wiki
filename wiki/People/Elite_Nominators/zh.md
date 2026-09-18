@@ -41,7 +41,7 @@
 | ::{ flag=PH }:: ::Jemzuu::{ user=7890134 } | ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") | ![优秀提名者](https://assets.ppy.sh/profile-badges/elite-nominator.png "优秀提名者") |
 | ::{ flag=US }:: ::wonjae::{ user=5032045 } | ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") | ![优秀提名者](https://assets.ppy.sh/profile-badges/elite-nominator.png "优秀提名者") |
 | ::{ flag=US }:: ::-MysticEyes::{ user=6253266 } | ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") | ![优秀提名者](https://assets.ppy.sh/profile-badges/elite-nominator.png "优秀提名者") |
-| ::{ flag=MY }:: ::\1Kobii::{ user=6209713 } | ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") | ![优秀提名者](https://assets.ppy.sh/profile-badges/elite-nominator.png "优秀提名者") |
+| ::{ flag=MY }:: ::_Kobii::{ user=6209713 } | ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") | ![优秀提名者](https://assets.ppy.sh/profile-badges/elite-nominator.png "优秀提名者") |
 
 ## 2020
 
@@ -54,14 +54,14 @@
 | ::{ flag=DE }:: ::Mordred::{ user=7265097 } | ![osu!](/wiki/shared/mode/osu.png "osu!") | ![优秀提名者 II](https://assets.ppy.sh/profile-badges/elite-nominator-2.png "优秀提名者 II") |
 | ::{ flag=DE }:: ::Lasse::{ user=896613 } | ![osu!](/wiki/shared/mode/osu.png "osu!") | ![优秀提名者 II](https://assets.ppy.sh/profile-badges/elite-nominator-2.png "优秀提名者 II") |
 | ::{ flag=CA }:: ::Agatsu::{ user=5579871 } | ![osu!](/wiki/shared/mode/osu.png "osu!") | ![优秀提名者](https://assets.ppy.sh/profile-badges/elite-nominator.png "优秀提名者") |
-| ::{ flag=JP }:: ::BaAR\1Vendel::{ user=8679346 } | ![osu!](/wiki/shared/mode/osu.png "osu!") | ![优秀提名者](https://assets.ppy.sh/profile-badges/elite-nominator.png "优秀提名者") |
+| ::{ flag=JP }:: ::BaAR_Vendel::{ user=8679346 } | ![osu!](/wiki/shared/mode/osu.png "osu!") | ![优秀提名者](https://assets.ppy.sh/profile-badges/elite-nominator.png "优秀提名者") |
 | ::{ flag=CL }:: ::Milan-::{ user=1052994 } | ![osu!](/wiki/shared/mode/osu.png "osu!") | ![优秀提名者](https://assets.ppy.sh/profile-badges/elite-nominator.png "优秀提名者") |
 | ::{ flag=US }:: ::Annabel::{ user=3388410 } | ![osu!](/wiki/shared/mode/osu.png "osu!") ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") | ![优秀提名者 II](https://assets.ppy.sh/profile-badges/elite-nominator-2.png "优秀提名者 II") |
 | ::{ flag=ES }:: ::Raiden::{ user=2239480 } | ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") | ![优秀提名者](https://assets.ppy.sh/profile-badges/elite-nominator.png "优秀提名者") |
 | ::{ flag=PH }:: ::Jemzuu::{ user=7890134 } | ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") | ![优秀提名者 II](https://assets.ppy.sh/profile-badges/elite-nominator-2.png "优秀提名者 II") |
 | ::{ flag=ID }:: ::Xinely::{ user=1521445 } | ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") | ![优秀提名者](https://assets.ppy.sh/profile-badges/elite-nominator.png "优秀提名者") |
 | ::{ flag=US }:: ::Unpredictable::{ user=7560872 } | ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") | ![优秀提名者](https://assets.ppy.sh/profile-badges/elite-nominator.png "优秀提名者") |
-| ::{ flag=ID }:: ::Rivals\17::{ user=4610379 } | ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") | ![优秀提名者](https://assets.ppy.sh/profile-badges/elite-nominator.png "优秀提名者") |
+| ::{ flag=ID }:: ::Rivals_7::{ user=4610379 } | ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") | ![优秀提名者](https://assets.ppy.sh/profile-badges/elite-nominator.png "优秀提名者") |
 
 ## 2021
 
@@ -85,7 +85,7 @@
 | ::{ flag=GR }:: ::Nokashi::{ user=5431196 } | ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") | ![优秀提名者](https://assets.ppy.sh/profile-badges/elite-nominator.png "优秀提名者") |
 | ::{ flag=ES }:: ::Quenlla::{ user=4725379 } | ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") | ![优秀提名者](https://assets.ppy.sh/profile-badges/elite-nominator.png "优秀提名者") |
 | ::{ flag=CA }:: ::guden::{ user=11626065 } | ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") | ![优秀提名者](https://assets.ppy.sh/profile-badges/elite-nominator.png "优秀提名者") |
-| ::{ flag=CN }:: ::\1Stan::{ user=1653229 } | ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") | ![优秀提名者](https://assets.ppy.sh/profile-badges/elite-nominator.png "优秀提名者") |
+| ::{ flag=CN }:: ::_Stan::{ user=1653229 } | ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") | ![优秀提名者](https://assets.ppy.sh/profile-badges/elite-nominator.png "优秀提名者") |
 | ::{ flag=KR }:: ::Murumoo::{ user=8001433 } | ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") | ![优秀提名者](https://assets.ppy.sh/profile-badges/elite-nominator.png "优秀提名者") |
 
 ## 2022
@@ -152,7 +152,7 @@
 | ::{ flag=ZA }:: ::Mattay::{ user=9748303 } | ![osu!](/wiki/shared/mode/osu.png "osu!") | ![优秀提名者](https://assets.ppy.sh/profile-badges/elite-nominator.png "优秀提名者") |
 | ::{ flag=KR }:: ::momoyo::{ user=12469536 } | ![osu!](/wiki/shared/mode/osu.png "osu!") | ![优秀提名者](https://assets.ppy.sh/profile-badges/elite-nominator.png "优秀提名者") |
 | ::{ flag=RU }:: ::NeKroMan4ik::{ user=11387664 } | ![osu!](/wiki/shared/mode/osu.png "osu!") | ![优秀提名者 II](https://assets.ppy.sh/profile-badges/elite-nominator-2.png "优秀提名者 II") |
-| ::{ flag=SG }:: ::\1gt::{ user=8301957 } | ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") | ![优秀提名者](https://assets.ppy.sh/profile-badges/elite-nominator.png "优秀提名者") |
+| ::{ flag=SG }:: ::_gt::{ user=8301957 } | ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") | ![优秀提名者](https://assets.ppy.sh/profile-badges/elite-nominator.png "优秀提名者") |
 | ::{ flag=HK }:: ::BlackBN::{ user=6291741 } | ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") | ![优秀提名者](https://assets.ppy.sh/profile-badges/elite-nominator.png "优秀提名者") |
 | ::{ flag=HK }:: ::iRedi::{ user=8005579 } | ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") | ![优秀提名者](https://assets.ppy.sh/profile-badges/elite-nominator.png "优秀提名者") |
 | ::{ flag=KR }:: ::Spectator::{ user=702598 } | ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") | ![优秀提名者](https://assets.ppy.sh/profile-badges/elite-nominator.png "优秀提名者") |

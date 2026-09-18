@@ -41,7 +41,7 @@ Le Skinning Contest #3 est organisé par différents membres de la communauté.
 | ::{ flag=RO }:: ::Matt2e2::{ user=12144912 } | Planification du concours |
 | ::{ flag=NL }:: ::Roan::{ user=8214639 } | Planification du concours, développement d'outils internes |
 | ::{ flag=DE }:: ::RockRoller::{ user=8388854 } | Planification du concours, examen des soumissions |
-| ::{ flag=PL }:: ::Redo\1::{ user=7122165 } | Planification du concours, conception graphique |
+| ::{ flag=PL }:: ::Redo_::{ user=7122165 } | Planification du concours, conception graphique |
 | ::{ flag=GB }:: ::tetsui::{ user=10974678 } | Planification du concours |
 | ::{ flag=NL }:: ::vvivi::{ user=10432755 } | Planification du concours |
 | ::{ flag=PL }:: ::watterino::{ user=3512261 } | Éditeur vidéo |
@@ -80,9 +80,9 @@ Le Skinning Contest #3 est organisé par différents membres de la communauté.
 | ::{ flag=GR }:: ::K-Riolf::{ user=30645221 } | [GΩLDEN OCΞΛN](https://osu.ppy.sh/community/forums/topics/1631636) |
 | ::{ flag=PH }:: ::Creameries::{ user=15851364 } | [Lazuline Lutescent](https://osu.ppy.sh/community/forums/topics/1632482) |
 | ::{ flag=VN }:: ::Tkieen::{ user=12561202 } | [Sakuropia](https://osu.ppy.sh/community/forums/topics/1632497) |
-| ::{ flag=VN }:: ::Ben\15917::{ user=6026593 } | [sH/FT](https://osu.ppy.sh/community/forums/topics/1633136) |
+| ::{ flag=VN }:: ::Ben_5917::{ user=6026593 } | [sH/FT](https://osu.ppy.sh/community/forums/topics/1633136) |
 | ::{ flag=DE }:: ::SiriusOnly::{ user=22287370 } | [SHINOBI](https://osu.ppy.sh/community/forums/topics/1633153) |
-| ::{ flag=CA }:: ::WD\1ALT::{ user=21559352 } | [Iced Tea](https://osu.ppy.sh/community/forums/topics/1633310) |
+| ::{ flag=CA }:: ::WD_ALT::{ user=21559352 } | [Iced Tea](https://osu.ppy.sh/community/forums/topics/1633310) |
 | ::{ flag=US }:: ::Syvatzia::{ user=19082107 } | [Desert Tempest](https://osu.ppy.sh/community/forums/topics/1633645) |
 | ::{ flag=US }:: ::Chromasia::{ user=7306251 } | [Auburn and Azure](https://osu.ppy.sh/community/forums/topics/1633624) |
 

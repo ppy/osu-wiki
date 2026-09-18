@@ -86,8 +86,8 @@ Kloyd does an amazing job of capturing such an intense track perfectly with many
 
 ![](/wiki/shared/news/2022-12-06-beatmap-spotlights-season-8-winter-2023-precision/3621429.jpg)
 
-**[MUZZ - Nemesis [clockbite & Tachi's Sanctuary]](https://osu.ppy.sh/beatmapsets/1751193#taiko/3621429)**, mapped by ::clockbite::{ user=16736934 } and ::Tachibana\1::{ user=13069714 }\
-*primarily suggested and described by ::\1Zeth\1::{ user=9912966 }*
+**[MUZZ - Nemesis [clockbite & Tachi's Sanctuary]](https://osu.ppy.sh/beatmapsets/1751193#taiko/3621429)**, mapped by ::clockbite::{ user=16736934 } and ::Tachibana_::{ user=13069714 }\
+*primarily suggested and described by ::[Zeth]::{ user=9912966 }*
 
 For the players' pick, clockbite and Tachibana_'s rendition of *Nemesis* by MUZZ takes the crown and it's not hard to see why.
 
@@ -98,7 +98,7 @@ Built around a song with fairly repetitive rhythm and melody, both mappers have 
 ![](/wiki/shared/news/2022-12-06-beatmap-spotlights-season-8-winter-2023-precision/3527450.jpg)
 
 **[Culprate & Au5 - Impulse [Creativity]](https://osu.ppy.sh/beatmapsets/1726063#taiko/3527450)**, mapped by ::Megafan::{ user=6632605 }\
-*primarily suggested and described by ::\1Zeth\1::{ user=9912966 }*
+*primarily suggested and described by ::[Zeth]::{ user=9912966 }*
 
 Coming hot out of the [osu!taiko Featured Artist Cup](/wiki/Contests/o!tFAC/1), Megafan's rendition of *Impulse* by Culprate & Au5 is certainly an interesting entry to the contest. While the contest itself prioritises making an interesting map while obeying the ranking criteria, Megafan decides to push the boundary of rankability to the extreme, and what's born from this experimentation is a map that embodies the difficulty name itself.
 

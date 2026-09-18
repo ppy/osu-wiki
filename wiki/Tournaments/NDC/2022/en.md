@@ -48,7 +48,7 @@ The National Dutch Championship 2022 was run by various community members.
 | Mapper | ::{ flag=NL }:: ::Vivyanne::{ user=3789276 }, ::{ flag=GB }:: ::KnightC0re::{ user=7894340 }, ::{ flag=PT }:: ::MakiDonalds::{ user=11610772 }, ::{ flag=FR }:: ::Pachiru::{ user=2850983 }, ::{ flag=TR }:: ::garvanturr::{ user=9143539 }, ::{ flag=NL }:: ::Castagne::{ user=12270596 }, ::{ flag=CA }:: ::Feiri::{ user=3214844 }, ::{ flag=NL }:: ::lazysloth900::{ user=4502522 } |
 | Playtester | ::{ flag=DE }:: ::aimbotcone::{ user=12952320 }, ::{ flag=US }:: ::Belladonna::{ user=11758404 }, ::{ flag=FI }:: ::vingolobuna::{ user=7005392 }, ::{ flag=GB }:: ::Plasma::{ user=10077431 }, ::{ flag=UA }:: ::SHADOW FREAK::{ user=7587763 }, ::{ flag=NL }:: ::CosmicWolf::{ user=8352298 }, ::{ flag=US }:: ::-Arko::{ user=8802914 } |
 | Referee | ::{ flag=NL }:: ::Mr HeliX::{ user=2330619 }, ::{ flag=NL }:: ::Kapsalon::{ user=6941124 }, ::{ flag=NL }:: ::Swerro::{ user=4507667 }, ::{ flag=BR }:: ::-felicia::{ user=10157694 }, ::{ flag=NL }:: ::Sroj::{ user=4783389 }, ::{ flag=NL }:: ::DeathByDarwin::{ user=9087777 } |
-| Streamer | ::{ flag=NL }:: ::Mr HeliX::{ user=2330619 }, ::{ flag=NL }:: ::DeathByDarwin::{ user=9087777 }, ::{ flag=NL }:: ::TheMad\1N::{ user=10523988 }, ::{ flag=NL }:: ::JustChe::{ user=18229204 }, ::{ flag=NL }:: ::oliebol::{ user=2756335 } |
+| Streamer | ::{ flag=NL }:: ::Mr HeliX::{ user=2330619 }, ::{ flag=NL }:: ::DeathByDarwin::{ user=9087777 }, ::{ flag=NL }:: ::TheMad_N::{ user=10523988 }, ::{ flag=NL }:: ::JustChe::{ user=18229204 }, ::{ flag=NL }:: ::oliebol::{ user=2756335 } |
 | Commentator | ::{ flag=NL }:: ::Swerro::{ user=4507667 }, ::{ flag=NL }:: ::Kushper::{ user=4832514 }, ::{ flag=NL }:: ::Knakworst::{ user=4257559 }, ::{ flag=NL }:: ::xceller::{ user=12265149 }, ::{ flag=NL }:: ::Pamuwu::{ user=13032176 }, ::{ flag=NL }:: ::kinda sus dude::{ user=9610588 }, ::{ flag=NL }:: ::Dutchi::{ user=15629640 }, ::{ flag=NL }:: ::Mr HeliX::{ user=2330619 } |
 | Designer | ::{ flag=NL }:: ::utaaa::{ user=9315038 } |
 
@@ -73,13 +73,13 @@ The National Dutch Championship 2022 was run by various community members.
 | 9 | ::{ flag=NL }:: ::Ohio::{ user=14919428 } | #1104 | #14 |
 | 10 | ::{ flag=NL }:: ::Casalicious::{ user=12459807 } | #4665 | #58 |
 | 11 | ::{ flag=NL }:: ::wooz::{ user=6888206 } | #1335 | #18 |
-| 12 | ::{ flag=NL }:: ::wessel\1osu2::{ user=4382220 } | #2002 | #29 |
+| 12 | ::{ flag=NL }:: ::wessel_osu2::{ user=4382220 } | #2002 | #29 |
 | 13 | ::{ flag=NL }:: ::LUCIANO::{ user=11604978 } | #168 | #3 |
 | 14 | ::{ flag=NL }:: ::niqht::{ user=14390731 } | #2296 | #33 |
 | 15 | ::{ flag=NL }:: ::oetluller::{ user=15218429 } | #13056 | #154 |
 | 16 | ::{ flag=NL }:: ::Synchrostar::{ user=419705 } | #5869 | #76 |
 | 17 | ::{ flag=NL }:: ::sofuraabu::{ user=7639453 } | #6297 | #81 |
-| 18 | ::{ flag=NL }:: ::wessel\1osu1::{ user=6577301 } | #4905 | #62 |
+| 18 | ::{ flag=NL }:: ::wessel_osu1::{ user=6577301 } | #4905 | #62 |
 | 19 | ::{ flag=NL }:: ::Dagoth Ur::{ user=11638527 } | #1029 | #13 |
 | 20 | ::{ flag=NL }:: ::TheCoolJfp::{ user=7041796 } | #7321 | #93 |
 | 21 | ::{ flag=NL }:: ::Knakworst::{ user=4257559 } | #4845 | #60 |
@@ -100,8 +100,8 @@ The National Dutch Championship 2022 was run by various community members.
 | 36 | ::{ flag=NL }:: ::AintGotNoAim::{ user=18998391 } | #137452 | #1656 |
 | 37 | ::{ flag=NL }:: ::przemo52::{ user=11170330 } | #64337 | #835 |
 | 38 | ::{ flag=NL }:: ::Dutchi::{ user=15629640 } | #70267 | #910 |
-| 39 | ::{ flag=NL }:: ::TheMad\1N::{ user=10523988 } | #81868 | #1046 |
-| 40 | ::{ flag=NL }:: ::Cookie\1Tree::{ user=502722 } | #124124 | #1520 |
+| 39 | ::{ flag=NL }:: ::TheMad_N::{ user=10523988 } | #81868 | #1046 |
+| 40 | ::{ flag=NL }:: ::Cookie_Tree::{ user=502722 } | #124124 | #1520 |
 | 41 | ::{ flag=NL }:: ::Maarten::{ user=24414822 } | #205802 | #2425 |
 
 ## Podium

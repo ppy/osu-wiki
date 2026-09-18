@@ -49,7 +49,7 @@ En este registro se usan abreviaturas para los grupos de usuarios:
 - 19/1/2020: ::qoot8123::{ user=766371 } fue retirado de los **BN**
 - 25/1/2020: ::Sanyi::{ user=7496029 } fue retirado de los **BN**
 - 26/1/2020: ::Greaper::{ user=2369776 } fue retirado de los **BN**
-- 29/1/2020: ::Critical\1Star::{ user=3793196 } fue retirado de los **BN**
+- 29/1/2020: ::Critical_Star::{ user=3793196 } fue retirado de los **BN**
 
 ## Febrero
 
@@ -112,7 +112,7 @@ En este registro se usan abreviaturas para los grupos de usuarios:
 - 7/3/2020: ::Nao Tomori::{ user=5364763 } fue añadido a los **BN provisionales**
 - 9/3/2020: ::MaridiuS::{ user=4496961 } fue añadido a los **BN provisionales**
 - 9/3/2020: ::Daletto::{ user=7592136 } fue añadido a los **BN provisionales**
-- 17/3/2020: ::BaAR\1Vendel::{ user=8679346 } fue añadido a los **BN provisionales**
+- 17/3/2020: ::BaAR_Vendel::{ user=8679346 } fue añadido a los **BN provisionales**
 - 22/3/2020: ::wafer::{ user=9416836 } fue añadido a los **BN provisionales**
 
 #### Movimientos
@@ -163,7 +163,7 @@ En este registro se usan abreviaturas para los grupos de usuarios:
 - 12/4/2020: ::Nao Tomori::{ user=5364763 } fue movido de los **BN provisionales** a los **BN**
 - 14/4/2020: ::Dapuluous::{ user=8140944 } fue movido de los **BN provisionales** a los **BN**
 - 20/4/2020: ::MaridiuS::{ user=4496961 } fue movido de los **BN provisionales** a los **BN**
-- 26/4/2020: ::BaAR\1Vendel::{ user=8679346 } fue movido de los **BN provisionales** a los **BN**
+- 26/4/2020: ::BaAR_Vendel::{ user=8679346 } fue movido de los **BN provisionales** a los **BN**
 - 29/4/2020: ::Dubstek::{ user=9555243 } fue movido de los **BN provisionales** a los **BN**
 - 30/4/2020: ::wafer::{ user=9416836 } fue movido de los **BN provisionales** a los **BN**
 
@@ -511,7 +511,7 @@ En este registro se usan abreviaturas para los grupos de usuarios:
 - 14/12/2020: ::Benita::{ user=1259391 } fue añadido a los **BN provisionales**
 - 20/12/2020: ::Default Guy::{ user=7058457 } fue añadido a los **BN provisionales**
 - 21/12/2020: ::Zer0-::{ user=4260033 } fue añadido a los **BN provisionales**
-- 21/12/2020: ::realy0\1::{ user=8863359 } fue añadido a los **BN provisionales**
+- 21/12/2020: ::realy0_::{ user=8863359 } fue añadido a los **BN provisionales**
 - 21/12/2020: ::Morrighan::{ user=12042090 } fue añadido a los **BN provisionales**
 - 26/12/2020: ::Mipha-::{ user=5767941 } fue añadido a los **BN provisionales**
 

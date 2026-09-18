@@ -35,7 +35,7 @@ Todos los usuarios listados a continuación fueron añadidos el 29 de enero de 2
 - ::Lanturn::{ user=1446665 }
 - ::Nevo::{ user=7451883 }
 - ::Bubblun::{ user=6191653 }
-- ::mancuso\1JM\1::{ user=521568 }
+- ::mancuso_JM_::{ user=521568 }
 - ::Wishkey::{ user=1101704 }
 - ::TheKingHenry::{ user=5128277 }
 - ::ailv::{ user=6933054 }
@@ -48,7 +48,7 @@ Todos los usuarios listados a continuación fueron añadidos el 29 de enero de 2
 - ::Asherz007::{ user=9014047 } fue añadido al Quality Assurance Team (4/2/2018)
 - ::Darksonic::{ user=570042 } fue movido de los osu! Alumni al Global Moderation Team (13/2/2018)
 - ::Uni::{ user=617106 } fue movido del Global Moderation Team a los osu! Alumni (20/2/2018)
-- ::\1 Another \1::{ user=3416573 } fue movido del Global Moderation Team a los osu! Alumni (20/2/2018)
+- ::[ Another ]::{ user=3416573 } fue movido del Global Moderation Team a los osu! Alumni (20/2/2018)
 - ::Irreversible::{ user=1287964 } fue retirado del Quality Assurance Team (27/2/2018)
 
 ### Eliminaciones de los Beatmap Nominators
@@ -147,7 +147,7 @@ Todos los usuarios listados a continuación fueron añadidos el 23 de abril de 2
 - ::Chromoxx::{ user=1881639 } - renuncia (1/5/2018)
 - ::Chewin::{ user=617323 } - inactividad (14/5/2018)
 - ::MBomb::{ user=3071175 } - renuncia (20/5/2018)
-- ::SnowNiNo\1::{ user=2506267 } - suspender el periodo de prueba (24/5/2018)
+- ::SnowNiNo_::{ user=2506267 } - suspender el periodo de prueba (24/5/2018)
 - ::Smokeman::{ user=2140676 } - suspender el periodo de prueba (24/5/2018)
 - ::Kyuukai::{ user=5337374 } - suspender el periodo de prueba (24/5/2018)
 - ::juankristal::{ user=443656 } - inactividad (30/5/2018)
@@ -187,7 +187,7 @@ Todos los usuarios listados a continuación fueron añadidos el 12 de junio de 2
 - ::Lenfried-::{ user=5314573 }
 - ::Unpredictable::{ user=7560872 }
 - ::DE-CADE::{ user=3734394 }
-- ::\1Stan::{ user=1653229 }
+- ::_Stan::{ user=1653229 }
 - ::DoNotMess::{ user=1596318 }
 
 ## Julio
@@ -207,7 +207,7 @@ Todos los usuarios listados a continuación fueron añadidos el 12 de junio de 2
 - ::Bubblun::{ user=6191653 } - capacidad insuficiente (21/7/2018)
 - ::Battle::{ user=4037545 } - inactividad (21/7/2018)
 - ::Halfslashed::{ user=4598899 } - capacidad insuficiente (21/7/2018)
-- ::mancuso\1JM\1::{ user=521568 } - inactividad (21/7/2018)
+- ::mancuso_JM_::{ user=521568 } - inactividad (21/7/2018)
 - ::pinataman::{ user=1235485 } - inactividad (21/7/2018)
 - ::squirrelpascals::{ user=6151332 } - capacidad insuficiente (21/7/2018)
 - ::AJamez::{ user=7890134 } - capacidad insuficiente (21/7/2018)
@@ -242,7 +242,7 @@ Todos los usuarios listados a continuación fueron añadidos el 27 de julio de 2
 
 ### Eliminaciones de los Beatmap Nominators
 
-- ::error\1exe777::{ user=7975796 } - suspender el periodo de prueba (17/8/2018)
+- ::error_exe777::{ user=7975796 } - suspender el periodo de prueba (17/8/2018)
 - ::Cerulean Veyron::{ user=1886524 } - renuncia (20/8/2018)
 - ::F D Flourite::{ user=2459589 } - suspender el periodo de prueba (22/8/2018)
 - ::Ryuusei Aika::{ user=7777875 } - suspender el periodo de prueba (22/8/2018)

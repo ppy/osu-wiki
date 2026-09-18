@@ -67,7 +67,7 @@ The 4 Digit osu!mania World Cup 2 was run by various community members.
 | :-: | :-: | :-- |
 | ::{ flag=AR }:: | **Argentina** | **::juankristal::{ user=443656 }**, ::AbsurdDive::{ user=4540361 }, ::aluuu::{ user=4585260 }, ::Ezze::{ user=2887427 }, ::jLuyalb::{ user=7093698 } |
 | ::{ flag=AU }:: | **Australia** | **::HD\_AdreNaline::{ user=10540368 }**, ::anim shnacc::{ user=11373924 }, ::Cat-man::{ user=10800918 }, ::droptable::{ user=13111686 }, ::Melt3dCheeze::{ user=634837 }, ::PotassiumF::{ user=4247722 } |
-| ::{ flag=BE }:: | **Belgium** | **::Mortelspawn\1::{ user=5331420 }**, ::LoligodBE::{ user=9916104 }, ::nocilOLyus::{ user=12604747 }, ::spamblock::{ user=11968058 } |
+| ::{ flag=BE }:: | **Belgium** | **::Mortelspawn_::{ user=5331420 }**, ::LoligodBE::{ user=9916104 }, ::nocilOLyus::{ user=12604747 }, ::spamblock::{ user=11968058 } |
 | ::{ flag=BR }:: | **Brazil** | **::Gabi Kamui::{ user=10658391 }**, ::Halo-::{ user=7572142 }, ::Masteriosl::{ user=4101472 }, ::Sprrumnk::{ user=10622472 }, ::Yuragi::{ user=8501380 }, ::Zergh::{ user=3181281 } |
 | ::{ flag=CA }:: | **Canada** | **::AndyTechGuy::{ user=10946180 }**, ::\[Skippy\]::{ user=9333957 }, ::Aesis::{ user=7253252 }, ::jac0b150::{ user=9160118 }, ::ToaphFanGirl::{ user=8160564 }, ::XzVx::{ user=12286606 } |
 | ::{ flag=CL }:: | **Chile** | **::ItzBenja616::{ user=8538906 }**, ::Charliegamer::{ user=6661676 }, ::George18945::{ user=10659178 }, ::NikoSek::{ user=4088977 } |

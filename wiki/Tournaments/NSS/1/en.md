@@ -34,17 +34,17 @@ The **Nordic Summer Showdown** (***NSS***) was a 1v1 double-elimination tourname
 | Role | Staff |
 | :-- | :-- |
 | Host | ::{ flag=DK }:: ::niat0004::{ user=10797776 }, ::{ flag=SE }:: ::noexcept::{ user=10635629 } |
-| Admin | ::{ flag=DK }:: ::niat0004::{ user=10797776 }, ::{ flag=UA }:: ::intermezzo\1::{ user=9618786 }, ::{ flag=SE }:: ::noexcept::{ user=10635629 }, ::{ flag=GR }:: ::pan\1har::{ user=26660680 }, ::{ flag=RU }:: ::uhm\1::{ user=20636251 } |
+| Admin | ::{ flag=DK }:: ::niat0004::{ user=10797776 }, ::{ flag=UA }:: ::intermezzo_::{ user=9618786 }, ::{ flag=SE }:: ::noexcept::{ user=10635629 }, ::{ flag=GR }:: ::pan_har::{ user=26660680 }, ::{ flag=RU }:: ::uhm_::{ user=20636251 } |
 | Moderator | ::{ flag=FI }:: ::Laurakko::{ user=7253731 } |
 | GFX | ::{ flag=IN }:: ::Raybean::{ user=16676388 } |
 | Sheeter | ::{ flag=US }:: ::artemmmmmm::{ user=30604059 }, ::{ flag=PL }:: ::P a t r i c k::{ user=6814521 }, ::{ flag=GB }:: ::spooks::{ user=13703478 } |
-| Mappooler | ::{ flag=SE }:: ::noexcept::{ user=10635629 }, ::{ flag=PL }:: ::P a t r i c k::{ user=6814521 }, ::{ flag=RU }:: ::uhm\1::{ user=20636251 } |
-| Mapper | ::{ flag=UA }:: ::intermezzo\1::{ user=9618786 }, ::{ flag=SE }:: ::noexcept::{ user=10635629 }, ::{ flag=US }:: ::bokeru::{ user=11308433 } |
-| Replayer | ::{ flag=SE }:: ::Gauntor::{ user=21462719 }, ::{ flag=KZ }:: ::dxprxsslve::{ user=15961784 }, ::{ flag=DE }:: ::GermanysButcher::{ user=17328937 }, ::{ flag=RU }:: ::joyin1211::{ user=14312709 }, ::{ flag=UA }:: ::KEKW\1::{ user=11731667 }, ::{ flag=SE }:: ::noexcept::{ user=10635629 }, ::{ flag=PL }:: ::P a t r i c k::{ user=6814521 }, ::{ flag=RU }:: ::TOPXVLAD::{ user=12704509 }, ::{ flag=RU }:: ::uhm\1::{ user=20636251 }, ::{ flag=US }:: ::WheelsWaz::{ user=21404004 } |
-| Map suggester | ::{ flag=SE }:: ::Gauntor::{ user=21462719 }, ::{ flag=RU }:: ::joyin1211::{ user=14312709 }, ::{ flag=DK }:: ::niat0004::{ user=10797776 }, ::{ flag=SE }:: ::noexcept::{ user=10635629 }, ::{ flag=PL }:: ::P a t r i c k::{ user=6814521 }, ::{ flag=ID }:: ::Rav\1::{ user=18348230 }, ::{ flag=RU }:: ::uhm\1::{ user=20636251 }, ::{ flag=US }:: ::WheelsWaz::{ user=21404004 }, ::{ flag=KZ }:: ::dxprxsslve::{ user=15961784 }, ::{ flag=US }:: ::Kamoonrahha::{ user=31494016 } |
-| Referee | ::{ flag=RU }:: ::joyin1211::{ user=14312709 }, ::{ flag=FI }:: ::Laurakko::{ user=7253731 }, ::{ flag=BY }:: ::Amamiya Mitoro::{ user=11037294 }, ::{ flag=DK }:: ::niat0004::{ user=10797776 }, ::{ flag=SE }:: ::noexcept::{ user=10635629 }, ::{ flag=FI }:: ::sph3re::{ user=21073465 }, ::{ flag=GB }:: ::spooks::{ user=13703478 }, ::{ flag=RU }:: ::uhm\1::{ user=20636251 } |
+| Mappooler | ::{ flag=SE }:: ::noexcept::{ user=10635629 }, ::{ flag=PL }:: ::P a t r i c k::{ user=6814521 }, ::{ flag=RU }:: ::uhm_::{ user=20636251 } |
+| Mapper | ::{ flag=UA }:: ::intermezzo_::{ user=9618786 }, ::{ flag=SE }:: ::noexcept::{ user=10635629 }, ::{ flag=US }:: ::bokeru::{ user=11308433 } |
+| Replayer | ::{ flag=SE }:: ::Gauntor::{ user=21462719 }, ::{ flag=KZ }:: ::dxprxsslve::{ user=15961784 }, ::{ flag=DE }:: ::GermanysButcher::{ user=17328937 }, ::{ flag=RU }:: ::joyin1211::{ user=14312709 }, ::{ flag=UA }:: ::KEKW_::{ user=11731667 }, ::{ flag=SE }:: ::noexcept::{ user=10635629 }, ::{ flag=PL }:: ::P a t r i c k::{ user=6814521 }, ::{ flag=RU }:: ::TOPXVLAD::{ user=12704509 }, ::{ flag=RU }:: ::uhm_::{ user=20636251 }, ::{ flag=US }:: ::WheelsWaz::{ user=21404004 } |
+| Map suggester | ::{ flag=SE }:: ::Gauntor::{ user=21462719 }, ::{ flag=RU }:: ::joyin1211::{ user=14312709 }, ::{ flag=DK }:: ::niat0004::{ user=10797776 }, ::{ flag=SE }:: ::noexcept::{ user=10635629 }, ::{ flag=PL }:: ::P a t r i c k::{ user=6814521 }, ::{ flag=ID }:: ::Rav_::{ user=18348230 }, ::{ flag=RU }:: ::uhm_::{ user=20636251 }, ::{ flag=US }:: ::WheelsWaz::{ user=21404004 }, ::{ flag=KZ }:: ::dxprxsslve::{ user=15961784 }, ::{ flag=US }:: ::Kamoonrahha::{ user=31494016 } |
+| Referee | ::{ flag=RU }:: ::joyin1211::{ user=14312709 }, ::{ flag=FI }:: ::Laurakko::{ user=7253731 }, ::{ flag=BY }:: ::Amamiya Mitoro::{ user=11037294 }, ::{ flag=DK }:: ::niat0004::{ user=10797776 }, ::{ flag=SE }:: ::noexcept::{ user=10635629 }, ::{ flag=FI }:: ::sph3re::{ user=21073465 }, ::{ flag=GB }:: ::spooks::{ user=13703478 }, ::{ flag=RU }:: ::uhm_::{ user=20636251 } |
 | Streamer | ::{ flag=SE }:: ::noexcept::{ user=10635629 }, ::{ flag=DK }:: ::Yunozaku61::{ user=17795665 } |
-| Commentator | ::{ flag=RU }:: ::joyin1211::{ user=14312709 }, ::{ flag=SE }:: ::noexcept::{ user=10635629 }, ::{ flag=RU }:: ::uhm\1::{ user=20636251 } |
+| Commentator | ::{ flag=RU }:: ::joyin1211::{ user=14312709 }, ::{ flag=SE }:: ::noexcept::{ user=10635629 }, ::{ flag=RU }:: ::uhm_::{ user=20636251 } |
 
 ## Links
 
@@ -62,7 +62,7 @@ Listed below are all participants who played Qualifiers. Note that only the best
 | Seed no. | Player | Average rank | Average score |
 | :-: | :-- | :-- | :-- |
 | 1 | ::{ flag=FI }:: ::Giguel69::{ user=22206304 } | 3.64 | 772,385 |
-| 2 | ::{ flag=SE }:: ::Myztical\1::{ user=9019735 } | 4.36 | 704,275 |
+| 2 | ::{ flag=SE }:: ::Myztical_::{ user=9019735 } | 4.36 | 704,275 |
 | 3 | ::{ flag=NO }:: ::B5Y::{ user=14406926 } | 5.64 | 614,249 |
 | 4 | ::{ flag=NO }:: ::Haibane::{ user=11929613 } | 5.73 | 611,224 |
 | 5 | ::{ flag=DK }:: ::BreakingSliders::{ user=21581772 } | 5.82 | 625,690 |

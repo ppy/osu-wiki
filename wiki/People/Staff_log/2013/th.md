@@ -106,7 +106,7 @@
 - ย้าย ::Sync::{ user=806921 } จาก Beatmap Appreciation Team เป็น osu! Alumni (09-06-2556)
 - ย้าย ::Pokie::{ user=207340 } จาก Beatmap Appreciation Team เป็น osu! Alumni (20-06-2556)
 - เพิ่ม ::dkun::{ user=154400 } เป็น Beatmap Appreciation Team (29-06-2556)
-- เพิ่ม ::Azure\1Kyte::{ user=66296 } เป็น Beatmap Appreciation Team (29-06-2556)
+- เพิ่ม ::Azure_Kyte::{ user=66296 } เป็น Beatmap Appreciation Team (29-06-2556)
 - ย้าย ::Breeze::{ user=77537 } จาก osu! Alumni เป็น Global Moderation Team (29-06-2556)
 - เพิ่ม ::Elly-chan::{ user=660622 } เป็น Global Moderation Team (29-06-2556)
 
@@ -219,7 +219,7 @@
 - ลบ ::Kokatsu::{ user=1019859 } จาก Beatmap Appreciation Team (10-11-2556)
 - เพิ่ม ::Winshley::{ user=864895 } เป็น ผู้ดูแลแชท (16-11-2556)
 - เพิ่ม ::UnderminE::{ user=444223 } เป็น ผู้ดูแลแชท (16-11-2556)
-- เพิ่ม ::Evil\1Twilight::{ user=409347 } เป็น ผู้ดูแลแชท (16-11-2556)
+- เพิ่ม ::Evil_Twilight::{ user=409347 } เป็น ผู้ดูแลแชท (16-11-2556)
 - ย้าย ::Leader::{ user=631530 } จาก ผู้ดูแลแชท เป็น Global Moderation Team (16-11-2556)
 - ย้าย ::Osu Tatakae Ouendan::{ user=594210 } จาก ผู้ดูแลแชท เป็น Global Moderation Team (16-11-2556)
 - ย้าย ::Mr Color::{ user=116078 } จาก ผู้ดูแลแชท เป็น Global Moderation Team (16-11-2556)

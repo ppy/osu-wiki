@@ -38,7 +38,7 @@ Nama-nama di bawah ini adalah anggota inti **tim osu!** yang secara utama bertan
 | ::{ flag=CN }:: ::Sakura006::{ user=10365024 } | Koordinator desain World Cup |
 | ::{ flag=FR }:: ::Shiro::{ user=113005 } | Pengasuh umum |
 | ::{ flag=AU }:: ::smoogipoo::{ user=1040328 } | Pengembang osu!, pecinta osu!mania, penumpas bug |
-| ::{ flag=PL }:: ::spaceman\1atlas::{ user=3035836 } | Pengembang osu!, dukungan teknis |
+| ::{ flag=PL }:: ::spaceman_atlas::{ user=3035836 } | Pengembang osu!, dukungan teknis |
 | ::{ flag=GB }:: ::Tanza::{ user=10379965 } | Desainer grafis |
 | ::{ flag=FR }:: ::ThePooN::{ user=718454 } | Pengembang infrastruktur osu! |
 | ::{ flag=ES }:: ::Trosk-::{ user=3469385 } | Pengasuh umum, dukungan turnamen, SANG OPERATOR |

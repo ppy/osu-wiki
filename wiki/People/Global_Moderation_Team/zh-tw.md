@@ -117,7 +117,7 @@ GMT 負責聊天頻道和論壇的安危，和處理社群間的交流。可以�
 | ::{ flag=HK }:: ::Petal::{ user=7354729 } | 粵語、中文 | General moderation |
 | ::{ flag=KR }:: ::Petit::{ user=4637369 } | 韓文、日文 | 聊天室管理員 |
 | ::{ flag=MY }:: ::QHideaki13::{ user=733998 } | 馬來文 | 聊天室管理員 |
-| ::{ flag=PL }:: ::Redo\1::{ user=7122165 } | 波蘭文 | Skin 社群管理員 |
+| ::{ flag=PL }:: ::Redo_::{ user=7122165 } | 波蘭文 | Skin 社群管理員 |
 | ::{ flag=MX }:: ::Repflez::{ user=201392 } | 西班牙文 | 聊天室管理員 |
 | ::{ flag=FI }:: ::Riverism::{ user=4980738 } | 芬蘭文、部分瑞典文、部分日文 | 製圖/Mod 圖社群管理員、論壇管理員 |
 | ::{ flag=NL }:: ::Roan::{ user=8214639 } | 荷蘭文、日文 | Skin 社群管理員 |
@@ -131,7 +131,7 @@ GMT 負責聊天頻道和論壇的安危，和處理社群間的交流。可以�
 | ::{ flag=KR }:: ::Spectator::{ user=702598 } | 韓文 | 製圖/Mod 圖社群管理員 |
 | ::{ flag=AT }:: ::Stefan::{ user=626907 } | 德文、塞爾維亞文 | 論壇管理員 |
 | ::{ flag=FI }:: ::terho::{ user=6090105 } | 芬蘭文 | 聊天室管理員 |
-| ::{ flag=NZ }:: ::THAT\1otaku::{ user=11798717 } |  | 論壇管理員、聊天室管理員 |
+| ::{ flag=NZ }:: ::THAT_otaku::{ user=11798717 } |  | 論壇管理員、聊天室管理員 |
 | ::{ flag=PE }:: ::Tiburon::{ user=18115022 } | 西班牙文 | 聊天室管理員 |
 | ::{ flag=CH }:: ::TicClick::{ user=672931 } | 俄文 | 聊天室管理員、Wiki 管理員 |
 | ::{ flag=PH }:: ::topecnz::{ user=2103927 } | 菲律賓文 | 聊天室管理員 |

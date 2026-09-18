@@ -141,11 +141,11 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 
 | Nome | Línguas adicionais |
 | :-- | :-- |
-| ::{ flag=TW }:: ::\1Rokii::{ user=12770065 } | Chinês |
+| ::{ flag=TW }:: ::_Rokii::{ user=12770065 } | Chinês |
 | ::{ flag=CN }:: ::\_Stan::{ user=1653229 } | Chinês |
 | ::{ flag=KR }:: ::-Ming-::{ user=20127755 } | Coreano |
-| ::{ flag=CN }:: ::\1Crz\1Alleyne::{ user=11279273 } | Chinês |
-| ::{ flag=TW }:: ::\1Sick\1Catcat::{ user=11544934 } | Chinês |
+| ::{ flag=CN }:: ::[Crz]Alleyne::{ user=11279273 } | Chinês |
+| ::{ flag=TW }:: ::[Sick]Catcat::{ user=11544934 } | Chinês |
 | ::{ flag=ID }:: ::AchsanLovers::{ user=6368737 } | Indonésio |
 | ::{ flag=ID }:: ::Al-Reina::{ user=7037423 } | Indonésio |
 | ::{ flag=ID }:: ::Amiichii::{ user=9228569 } | Indonésio |
@@ -153,7 +153,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ::{ flag=GB }:: ::Asherz007::{ user=9014047 } |  |
 | ::{ flag=CN }:: ::AWMRone::{ user=10351684 } | Chinês |
 | ::{ flag=US }:: ::Crisper::{ user=16482505 } |  |
-| ::{ flag=MY }:: ::Critical\1Star::{ user=3793196 } | Malaio |
+| ::{ flag=MY }:: ::Critical_Star::{ user=3793196 } | Malaio |
 | ::{ flag=AU }:: ::Decku::{ user=13360768 } |  |
 | ::{ flag=KR }:: ::DenYi::{ user=14998645 } | Coreano |
 | ::{ flag=CA }:: ::Drum-Hitnormal::{ user=748722 } |  |
@@ -177,7 +177,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ::{ flag=US }:: ::Protastic101::{ user=6712747 } |  |
 | ::{ flag=ES }:: ::RandomeLoL::{ user=7080063 } | Espanhol |
 | ::{ flag=ID }:: ::RiP46::{ user=5222596 } | Indonésio |
-| ::{ flag=ID }:: ::Rivals\17::{ user=4610379 } | Indonésio |
+| ::{ flag=ID }:: ::Rivals_7::{ user=4610379 } | Indonésio |
 | ::{ flag=CA }:: ::Ryax::{ user=8949769 } |  |
 | ::{ flag=KR }:: ::secXcscX::{ user=13543418 } | Coreano |
 | ::{ flag=CA }:: ::Shad0wStar::{ user=16866460 } |  |
@@ -210,7 +210,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ::{ flag=DE }:: ::Mir::{ user=8688812 } | Alemão |
 | ::{ flag=FR }:: ::Sajinn::{ user=13513687 } | Francês |
 | ::{ flag=BR }:: ::Seto Kousuke::{ user=2857314 } | Português |
-| ::{ flag=BA }:: ::Stompy\1::{ user=16429579 } | Bósnio |
+| ::{ flag=BA }:: ::Stompy_::{ user=16429579 } | Bósnio |
 | ::{ flag=CA }:: ::superstore::{ user=16755693 } |  |
 | ::{ flag=PL }:: ::Venix::{ user=5999631 } | Polonês |
 | ::{ flag=US }:: ::xBlurinq::{ user=7540631 } |  |

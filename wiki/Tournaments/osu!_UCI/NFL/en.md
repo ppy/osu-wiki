@@ -37,10 +37,10 @@ The NFL was run by various osu! community members at UCI or visiting for the eve
 
 | Position | Member(s) |
 | :-- | :-- |
-| Mappool selector | ::{ flag=US }:: ::\1Blue\1::{ user=13192092 }, ::{ flag=US }:: ::\1Nick\1::{ user=9726582 }, ::{ flag=US }:: ::migin::{ user=11118735 }, ::{ flag=US }:: ::Riku on osu::{ user=3071659 }, ::{ flag=US }:: ::slushy::{ user=3692940 }, ::{ flag=US }:: ::stupud man::{ user=2141612 } |
+| Mappool selector | ::{ flag=US }:: ::[Blue]::{ user=13192092 }, ::{ flag=US }:: ::[Nick]::{ user=9726582 }, ::{ flag=US }:: ::migin::{ user=11118735 }, ::{ flag=US }:: ::Riku on osu::{ user=3071659 }, ::{ flag=US }:: ::slushy::{ user=3692940 }, ::{ flag=US }:: ::stupud man::{ user=2141612 } |
 | Streamer | ::{ flag=US }:: ::R34pling::{ user=7662172 } |
 | Commentator | ::{ flag=XX }:: Matthew<!-- TODO what is his osu profile -->, ::{ flag=US }:: ::pishifat::{ user=3178418 }, ::{ flag=US }:: ::Riku on osu::{ user=3071659 }, ::{ flag=US }:: ::ruruchewy::{ user=7112839 }, ::{ flag=US }:: ::Sukida::{ user=4097867 }, ::{ flag=US }:: ::Yattaze::{ user=13870255 } |
-| Referee | ::{ flag=US }:: ::\1Blue\1::{ user=13192092 }, ::{ flag=US }:: ::\1Nick\1::{ user=9726582 }, ::{ flag=US }:: ::ilalalayou::{ user=3144766 }, ::{ flag=US }:: ::migin::{ user=11118735 }, ::{ flag=US }:: ::phamitsu::{ user=13045418 }, ::{ flag=US }:: ::PingusKhan::{ user=9648050 }, ::{ flag=US }:: ::Riku on osu::{ user=3071659 } |
+| Referee | ::{ flag=US }:: ::[Blue]::{ user=13192092 }, ::{ flag=US }:: ::[Nick]::{ user=9726582 }, ::{ flag=US }:: ::ilalalayou::{ user=3144766 }, ::{ flag=US }:: ::migin::{ user=11118735 }, ::{ flag=US }:: ::phamitsu::{ user=13045418 }, ::{ flag=US }:: ::PingusKhan::{ user=9648050 }, ::{ flag=US }:: ::Riku on osu::{ user=3071659 } |
 | Designer | ::{ flag=US }:: ::pishifat::{ user=3178418 }, ::{ flag=XX }:: Skydendrin ([Carrd profile](https://skydendrin.carrd.co)) |
 
 ## Links

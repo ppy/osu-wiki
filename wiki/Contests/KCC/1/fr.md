@@ -36,7 +36,7 @@ Le **Korean Charting Contest 2021** (***KCC2021***) est un concours de mapping o
 | Organisateur | ::{ flag=KR }:: ::Garalulu::{ user=757783 } |
 | Responsable | ::{ flag=KR }:: ::Oni Suika::{ user=4848023 } |
 | Designer | ::{ flag=KR }:: ::POCARI SWEAT::{ user=5082685 } |
-| Juges | ::{ flag=PL }:: ::\1underjoy::{ user=2235750 }, ::{ flag=KR }:: ::Garalulu::{ user=757783 }, ::{ flag=GT }:: ::Hoto Cocoa::{ user=6974536 }, ::{ flag=KR }:: ::Kawawa::{ user=4647754 }, ::{ flag=KR }:: ::Pengdoll::{ user=6392061 } |
+| Juges | ::{ flag=PL }:: ::_underjoy::{ user=2235750 }, ::{ flag=KR }:: ::Garalulu::{ user=757783 }, ::{ flag=GT }:: ::Hoto Cocoa::{ user=6974536 }, ::{ flag=KR }:: ::Kawawa::{ user=4647754 }, ::{ flag=KR }:: ::Pengdoll::{ user=6392061 } |
 
 ## Liens
 

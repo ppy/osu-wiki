@@ -49,7 +49,7 @@
 - 2020-01-19: Исключение ::qoot8123::{ user=766371 } из **BN**
 - 2020-01-25: Исключение ::Sanyi::{ user=7496029 } из **BN**
 - 2020-01-26: Исключение ::Greaper::{ user=2369776 } из **BN**
-- 2020-01-29: Исключение ::Critical\1Star::{ user=3793196 } из **BN**
+- 2020-01-29: Исключение ::Critical_Star::{ user=3793196 } из **BN**
 
 ## Февраль
 
@@ -112,7 +112,7 @@
 - 2020-03-07: Добавление ::Nao Tomori::{ user=5364763 } в **Probationary BN**
 - 2020-03-09: Добавление ::MaridiuS::{ user=4496961 } в **Probationary BN**
 - 2020-03-09: Добавление ::Daletto::{ user=7592136 } в **Probationary BN**
-- 2020-03-17: Добавление ::BaAR\1Vendel::{ user=8679346 } в **Probationary BN**
+- 2020-03-17: Добавление ::BaAR_Vendel::{ user=8679346 } в **Probationary BN**
 - 2020-03-22: Добавление ::wafer::{ user=9416836 } в **Probationary BN**
 
 #### Перемещения
@@ -163,7 +163,7 @@
 - 2020-04-12: Перемещение ::Nao Tomori::{ user=5364763 } из **Probationary BN** в **BN**
 - 2020-04-14: Перемещение ::Dapuluous::{ user=8140944 } из **Probationary BN** в **BN**
 - 2020-04-20: Перемещение ::MaridiuS::{ user=4496961 } из **Probationary BN** в **BN**
-- 2020-04-26: Перемещение ::BaAR\1Vendel::{ user=8679346 } из **Probationary BN** в **BN**
+- 2020-04-26: Перемещение ::BaAR_Vendel::{ user=8679346 } из **Probationary BN** в **BN**
 - 2020-04-29: Перемещение ::Dubstek::{ user=9555243 } из **Probationary BN** в **BN**
 - 2020-04-30: Перемещение ::wafer::{ user=9416836 } из **Probationary BN** в **BN**
 

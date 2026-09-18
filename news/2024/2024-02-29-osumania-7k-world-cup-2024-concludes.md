@@ -153,7 +153,7 @@ Who would be better placed to educate us on the thoughts and attention put into 
 
 ::{#butanic}::
 
-::!\1\1(/wiki/shared/news/2024-02-29-osu-mania-7k-world-cup-2024-concludes/butanic.png)::{ user=1433586 }
+::![](/wiki/shared/news/2024-02-29-osu-mania-7k-world-cup-2024-concludes/butanic.png)::{ user=1433586 }
 
 Even though it's their first time participating, **butanic** is a Japanese legend and veteran when it comes to anything VSRG-related. With such accolades to their name, they've shredded through every RC pick this year, and provided an anchor for the team when they needed it the most.
 
@@ -185,7 +185,7 @@ Even though it's their first time participating, **butanic** is a Japanese legen
 
 ::{#yz1155}::
 
-::!\1\1(/wiki/shared/news/2024-02-29-osu-mania-7k-world-cup-2024-concludes/yz1155.png)::{ user=2071008 }
+::![](/wiki/shared/news/2024-02-29-osu-mania-7k-world-cup-2024-concludes/yz1155.png)::{ user=2071008 }
 
 Born and raised in osu!mania, **yz1155** has climbed through the ranks and is now standing shoulder to shoulder next to some of the greatest osu!mania players ever on the osu!mania 7K World Cup stage. They have outdone themselves this year by being a core player for the South Korean team, with emphasis on their amazing performance on technical charts.
 
@@ -211,7 +211,7 @@ Born and raised in osu!mania, **yz1155** has climbed through the ranks and is no
 
 ::{#-noname-}::
 
-::!\1\1(/wiki/shared/news/2024-02-29-osu-mania-7k-world-cup-2024-concludes/noname.png)::{ user=10400730 }
+::![](/wiki/shared/news/2024-02-29-osu-mania-7k-world-cup-2024-concludes/noname.png)::{ user=10400730 }
 
 **-NoName-** has gone absolutely bonkers this year, not only answering the call of being a mappool selector, but also going above and beyond by contributing to **12** of the picks throughout this year's tournament. Some say they placed 50,000 notes over the course of this year's tournament alone, but we'll leave actually counting them to someone else.
 
@@ -227,7 +227,7 @@ Born and raised in osu!mania, **yz1155** has climbed through the ranks and is no
 > 
 > I thought ::zeno::{ user=6576888 }'s [Hi Genjitsu Tohi](https://osu.ppy.sh/beatmapsets/1885701#mania/4490678) (Finals LN2) was neat as well. It is a lot closer to traditional *O2Jam* patterns than people have previously seen in the tournament. The people asked for shields after 2023, and that is what they got.
 > 
-> ::\1Yiiiii::{ user=6066359 }'s Round of 24 tiebreaker, [Majestic 12](https://osu.ppy.sh/beatmapsets/2119554#mania/4452392), was cool as well. I think it was very well-balanced, and the chart is just fun to play. It also introduced me to this banger of a song, so thanks for that! It was interesting seeing people's reactions to various players missing on the seemingly easy breaks in the match, though. A lot of people who don't play 7K osu!mania thought people were missing on easy parts for no reason. If only they knew…
+> ::_Yiiiii::{ user=6066359 }'s Round of 24 tiebreaker, [Majestic 12](https://osu.ppy.sh/beatmapsets/2119554#mania/4452392), was cool as well. I think it was very well-balanced, and the chart is just fun to play. It also introduced me to this banger of a song, so thanks for that! It was interesting seeing people's reactions to various players missing on the seemingly easy breaks in the match, though. A lot of people who don't play 7K osu!mania thought people were missing on easy parts for no reason. If only they knew…
 
 *Any messages you want to impart to the team? Or to anyone who wants to become part of any tournament's map selection team?*
 
@@ -237,7 +237,7 @@ Born and raised in osu!mania, **yz1155** has climbed through the ranks and is no
 
 ::{#akiri}::
 
-::!\1\1(/wiki/shared/news/2024-02-29-osu-mania-7k-world-cup-2024-concludes/akiri.png)::{ user=19587411 }
+::![](/wiki/shared/news/2024-02-29-osu-mania-7k-world-cup-2024-concludes/akiri.png)::{ user=19587411 }
 
 **Akiri** is first and foremost one of our own, a community member and osu!mania player. They had their World Cup debut with this year's Semifinals tiebreaker, but their music journey goes [so far beyond that](https://osu.ppy.sh/beatmaps/artists/401).
 

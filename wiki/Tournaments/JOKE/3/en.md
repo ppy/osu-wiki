@@ -66,7 +66,7 @@ tags:
 | Seed | Player |
 | :-- | :-- |
 | 1 | ::{ flag=US }:: ::\[LS\]Ham::{ user=17523947 } |
-| 2 | ::{ flag=JP }:: ::Grape\1Tea::{ user=9540073 } |
+| 2 | ::{ flag=JP }:: ::Grape_Tea::{ user=9540073 } |
 | 3 | ::{ flag=JP }:: ::hz404::{ user=14947043 } |
 | 4 | ::{ flag=BR }:: ::SillyFangirl::{ user=2288363 } |
 | 5 | ::{ flag=DE }:: ::ERA Punish::{ user=10615367 } |
@@ -90,7 +90,7 @@ tags:
 | 23 | ::{ flag=DE }:: ::ERA Sirbeyy::{ user=12917829 } |
 | 24 | ::{ flag=ID }:: ::Xicyte::{ user=10212581 } |
 | 25 | ::{ flag=US }:: ::ForestMastr::{ user=9199901 } |
-| 26 | ::{ flag=GB }:: ::MiniEgg\123::{ user=25914360 } |
+| 26 | ::{ flag=GB }:: ::MiniEgg_23::{ user=25914360 } |
 | 27 | ::{ flag=BR }:: ::Pluko::{ user=15813305 } |
 | 28 | ::{ flag=CA }:: ::Nathan7978::{ user=8599166 } |
 | 29 | ::{ flag=GB }:: ::--Dragon--::{ user=11924624 } |
@@ -104,7 +104,7 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=JP }:: ::Grape\1Tea::{ user=9540073 } |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=JP }:: ::Grape_Tea::{ user=9540073 } |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=JP }:: ::hz404::{ user=14947043 } |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: ::\[LS\]Ham::{ user=17523947 } |
 

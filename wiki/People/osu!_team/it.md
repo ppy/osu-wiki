@@ -34,7 +34,7 @@ Le persone elencate qui sotto fanno parte del team cardine di osu! e sono i prin
 | ::{ flag=CN }:: ::Sakura006::{ user=10365024 } | Coordinatore del design della World Cup |
 | ::{ flag=FR }:: ::Shiro::{ user=113005 } | Governante Generale |
 | ::{ flag=AU }:: ::smoogipoo::{ user=1040328 } | Sviluppatore di osu!, amante di osu!mania, insetticida per bug |
-| ::{ flag=PL }:: ::spaceman\1atlas::{ user=3035836 } | Sviluppatore di osu!, supporto tecnico |
+| ::{ flag=PL }:: ::spaceman_atlas::{ user=3035836 } | Sviluppatore di osu!, supporto tecnico |
 | ::{ flag=GB }:: ::Tanza::{ user=10379965 } | Designer |
 | ::{ flag=FR }:: ::ThePooN::{ user=718454 } | Sviluppatore dell'infrastruttura di osu! |
 | ::{ flag=ES }:: ::Trosk-::{ user=3469385 } | Governante Generale, supporto dei tornei, THE OPERATOR |

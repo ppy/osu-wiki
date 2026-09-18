@@ -66,8 +66,8 @@ Listed below are the players who qualified for the Round of 32, along with their
 | :-- | :-- |
 | 1-8 | ::{ flag=TH }:: ::EzyS::{ user=16271283 }, ::{ flag=ID }:: ::Keita::{ user=3355617 }, ::{ flag=ID }:: ::EpanPan::{ user=13194580 }, ::{ flag=ID }:: ::CamXDanna::{ user=3243148 }, ::{ flag=ID }:: ::Keisuu::{ user=3856673 }, ::{ flag=AU }:: ::KWYJIBO::{ user=7178386 }, ::{ flag=MY }:: ::Asteristia::{ user=9434933 }, ::{ flag=SG }:: ::Ekseff::{ user=13966422 } |
 | 9-16 | ::{ flag=ID }:: ::Chiya--::{ user=7934854 }, ::{ flag=ID }:: ::Mochi -::{ user=20424806 }, ::{ flag=AU }:: ::TheTixTop::{ user=19236870 }, ::{ flag=ID }:: ::Intention::{ user=3416858 }, ::{ flag=PH }:: ::-HyperDream::{ user=12410693 }, ::{ flag=ID }:: ::Mixuri::{ user=9153772 }, ::{ flag=MY }:: ::DTNLRiki::{ user=12382410 }, ::{ flag=ID }:: ::Shurelia::{ user=3807986 } |
-| 17-24 | ::{ flag=MY }:: ::Zakrusta::{ user=5034270 }, ::{ flag=TH }:: ::-TANAKITO-::{ user=6037121 }, ::{ flag=AU }:: ::Andogs::{ user=4599191 }, ::{ flag=ID }:: ::Onta\1Bekasi::{ user=8677684 }, ::{ flag=MY }:: ::Kagari::{ user=3366264 }, ::{ flag=NZ }:: ::Wettham77::{ user=14476098 }, ::{ flag=AU }:: ::CoolEVT::{ user=3252653 }, ::{ flag=MY }:: ::davidbeh\197::{ user=4101818 } |
-| 25-32 | ::{ flag=ID }:: ::Nekomiru::{ user=17514687 }, ::{ flag=ID }:: ::Ilhamuharam::{ user=7657968 }, ::{ flag=ID }:: ::Strict\1Lane::{ user=24810703 }, ::{ flag=TH }:: ::Yosaf::{ user=12128203 }, ::{ flag=NZ }:: ::Cipse::{ user=7928880 }, ::{ flag=PH }:: ::Loreal::{ user=9362231 }[^player-replacement], ::{ flag=SG }:: ::NoBadgetGuy::{ user=28498328 }[^player-replacement], ::{ flag=ID }:: ::nurjavier::{ user=8535534 }[^player-replacement] |
+| 17-24 | ::{ flag=MY }:: ::Zakrusta::{ user=5034270 }, ::{ flag=TH }:: ::-TANAKITO-::{ user=6037121 }, ::{ flag=AU }:: ::Andogs::{ user=4599191 }, ::{ flag=ID }:: ::Onta_Bekasi::{ user=8677684 }, ::{ flag=MY }:: ::Kagari::{ user=3366264 }, ::{ flag=NZ }:: ::Wettham77::{ user=14476098 }, ::{ flag=AU }:: ::CoolEVT::{ user=3252653 }, ::{ flag=MY }:: ::davidbeh_97::{ user=4101818 } |
+| 25-32 | ::{ flag=ID }:: ::Nekomiru::{ user=17514687 }, ::{ flag=ID }:: ::Ilhamuharam::{ user=7657968 }, ::{ flag=ID }:: ::Strict_Lane::{ user=24810703 }, ::{ flag=TH }:: ::Yosaf::{ user=12128203 }, ::{ flag=NZ }:: ::Cipse::{ user=7928880 }, ::{ flag=PH }:: ::Loreal::{ user=9362231 }[^player-replacement], ::{ flag=SG }:: ::NoBadgetGuy::{ user=28498328 }[^player-replacement], ::{ flag=ID }:: ::nurjavier::{ user=8535534 }[^player-replacement] |
 
 See the [participants list](https://wybin.xyz/tournaments/cico2023/players) for a list of all initial participants.
 
@@ -338,12 +338,12 @@ Saturday, 05 August 2023:
 | Upper | ::CamXDanna::{ user=3243148 } ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **::Keisuu::{ user=3856673 }** | [#1](https://osu.ppy.sh/community/matches/109844095) |
 | Upper | **::Keita::{ user=3355617 }** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: ::Mochi -::{ user=20424806 } | [#1](https://osu.ppy.sh/community/matches/109844983) |
 | Lower | **::TheTixTop::{ user=19236870 }** ::{ flag=AU }:: | **6** | 0 | ::{ flag=MY }:: ::Zakrusta::{ user=5034270 } | [#1](https://osu.ppy.sh/community/matches/109847535) |
-| Lower | **::Mixuri::{ user=9153772 }** ::{ flag=ID }:: | **6** | 2 | ::{ flag=MY }:: ::davidbeh\197::{ user=4101818 } | [#1](https://osu.ppy.sh/community/matches/109846466) |
+| Lower | **::Mixuri::{ user=9153772 }** ::{ flag=ID }:: | **6** | 2 | ::{ flag=MY }:: ::davidbeh_97::{ user=4101818 } | [#1](https://osu.ppy.sh/community/matches/109846466) |
 | Lower | **::Asteristia::{ user=9434933 }** ::{ flag=MY }:: | **6** | 2 | ::{ flag=NZ }:: ::Cipse::{ user=7928880 } | [#1](https://osu.ppy.sh/community/matches/109850286) |
 | Lower | **::Kagari::{ user=3366264 }** ::{ flag=MY }:: | **6** | 5 | ::{ flag=TH }:: ::-TANAKITO-::{ user=6037121 } | [#1](https://osu.ppy.sh/community/matches/109849824) |
 | Lower | ::-HyperDream::{ user=12410693 } ::{ flag=PH }:: | 3 | **6** | ::{ flag=AU }:: **::CoolEVT::{ user=3252653 }** | [#1](https://osu.ppy.sh/community/matches/109848604) |
 | Lower | **::Ekseff::{ user=13966422 }** ::{ flag=SG }:: | **6** | 1 | ::{ flag=AU }:: ::Andogs::{ user=4599191 } | [#1](https://osu.ppy.sh/community/matches/109849289) |
-| Lower | **::Shurelia::{ user=3807986 }** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: ::Strict\1Lane::{ user=24810703 } | [#1](https://osu.ppy.sh/community/matches/109850151) |
+| Lower | **::Shurelia::{ user=3807986 }** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: ::Strict_Lane::{ user=24810703 } | [#1](https://osu.ppy.sh/community/matches/109850151) |
 
 Sunday, 06 August 2023:
 
@@ -374,9 +374,9 @@ Sunday, 30 July 2023:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **::KWYJIBO::{ user=7178386 }** ::{ flag=AU }:: | **5** | 4 | ::{ flag=AU }:: ::TheTixTop::{ user=19236870 } | [#1](https://osu.ppy.sh/community/matches/109752508) |
 | Upper | ::Ekseff::{ user=13966422 } ::{ flag=SG }:: | 1 | **5** | ::{ flag=ID }:: **::Chiya--::{ user=7934854 }** | [#1](https://osu.ppy.sh/community/matches/109753140) |
-| Lower | **::Cipse::{ user=7928880 }** ::{ flag=NZ }:: | **1** | 0 | ::{ flag=ID }:: ::Onta\1Bekasi::{ user=8677684 } | **WBD** |
-| Lower | ::Nekomiru::{ user=17514687 } ::{ flag=ID }:: | 4 | **5** | ::{ flag=MY }:: **::davidbeh\197::{ user=4101818 }** | [#1](https://osu.ppy.sh/community/matches/109751444) |
-| Lower | **::Strict\1Lane::{ user=24810703 }** ::{ flag=ID }:: | **5** | 4 | ::{ flag=NZ }:: ::Wettham77::{ user=14476098 } | [#1](https://osu.ppy.sh/community/matches/109752551) |
+| Lower | **::Cipse::{ user=7928880 }** ::{ flag=NZ }:: | **1** | 0 | ::{ flag=ID }:: ::Onta_Bekasi::{ user=8677684 } | **WBD** |
+| Lower | ::Nekomiru::{ user=17514687 } ::{ flag=ID }:: | 4 | **5** | ::{ flag=MY }:: **::davidbeh_97::{ user=4101818 }** | [#1](https://osu.ppy.sh/community/matches/109751444) |
+| Lower | **::Strict_Lane::{ user=24810703 }** ::{ flag=ID }:: | **5** | 4 | ::{ flag=NZ }:: ::Wettham77::{ user=14476098 } | [#1](https://osu.ppy.sh/community/matches/109752551) |
 | Lower | ::Ilhamuharam::{ user=7657968 } ::{ flag=ID }:: | 0 | **1** | ::{ flag=AU }:: **::CoolEVT::{ user=3252653 }** | **WBD** |
 | Lower | ::NoBadgetGuy::{ user=28498328 } ::{ flag=SG }:: | 4 | **5** | ::{ flag=TH }:: **::-TANAKITO-::{ user=6037121 }** | [#1](https://osu.ppy.sh/community/matches/109753902) |
 | Lower | ::Loreal::{ user=9362231 } ::{ flag=PH }:: | 4 | **5** | ::{ flag=AU }:: **::Andogs::{ user=4599191 }** | [#1](https://osu.ppy.sh/community/matches/109753875) |
@@ -389,9 +389,9 @@ Saturday, 22 July 2023:
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **::EzyS::{ user=16271283 }** ::{ flag=TH }:: | **5** | 0 | ::{ flag=ID }:: ::nurjavier::{ user=8535534 } | [#1](https://osu.ppy.sh/community/matches/109618143) |
-| Upper | **::Chiya--::{ user=7934854 }** ::{ flag=ID }:: | **5** | 1 | ::{ flag=MY }:: ::davidbeh\197::{ user=4101818 } | [#1](https://osu.ppy.sh/community/matches/109618620) |
+| Upper | **::Chiya--::{ user=7934854 }** ::{ flag=ID }:: | **5** | 1 | ::{ flag=MY }:: ::davidbeh_97::{ user=4101818 } | [#1](https://osu.ppy.sh/community/matches/109618620) |
 | Upper | **::CamXDanna::{ user=3243148 }** ::{ flag=ID }:: | **5** | 1 | ::{ flag=NZ }:: ::Cipse::{ user=7928880 } | [#1](https://osu.ppy.sh/community/matches/109620184) |
-| Upper | **::-HyperDream::{ user=12410693 }** ::{ flag=PH }:: | **5** | 3 | ::{ flag=ID }:: ::Onta\1Bekasi::{ user=8677684 } | [#1](https://osu.ppy.sh/community/matches/109620645) |
+| Upper | **::-HyperDream::{ user=12410693 }** ::{ flag=PH }:: | **5** | 3 | ::{ flag=ID }:: ::Onta_Bekasi::{ user=8677684 } | [#1](https://osu.ppy.sh/community/matches/109620645) |
 | Upper | **::Keisuu::{ user=3856673 }** ::{ flag=ID }:: | **5** | 0 | ::{ flag=TH }:: ::Yosaf::{ user=12128203 } | [#1](https://osu.ppy.sh/community/matches/109621449) |
 | Upper | ::Intention::{ user=3416858 } ::{ flag=ID }:: | 3 | **5** | ::{ flag=MY }:: **::Kagari::{ user=3366264 }** | [#1](https://osu.ppy.sh/community/matches/109622297) |
 | Upper | **::DTNLRiki::{ user=12382410 }** ::{ flag=MY }:: | **5** | 3 | ::{ flag=TH }:: ::-TANAKITO-::{ user=6037121 } | [#1](https://osu.ppy.sh/community/matches/109620954) |
@@ -408,7 +408,7 @@ Sunday, 23 July 2023:
 | Upper | **::Mochi -::{ user=20424806 }** ::{ flag=ID }:: | **5** | 1 | ::{ flag=AU }:: ::CoolEVT::{ user=3252653 } | [#1](https://osu.ppy.sh/community/matches/109635582) |
 | Upper | **::EpanPan::{ user=13194580 }** ::{ flag=ID }:: | **5** | 4 | ::{ flag=PH }:: ::Loreal::{ user=9362231 } | [#1](https://osu.ppy.sh/community/matches/109634666) |
 | Upper | **::Mixuri::{ user=9153772 }** ::{ flag=ID }:: | **5** | 1 | ::{ flag=AU }:: ::Andogs::{ user=4599191 } | [#1](https://osu.ppy.sh/community/matches/109637878) |
-| Upper | **::KWYJIBO::{ user=7178386 }** ::{ flag=AU }:: | **5** | 0 | ::{ flag=ID }:: ::Strict\1Lane::{ user=24810703 } | [#1](https://osu.ppy.sh/community/matches/109638701) |
+| Upper | **::KWYJIBO::{ user=7178386 }** ::{ flag=AU }:: | **5** | 0 | ::{ flag=ID }:: ::Strict_Lane::{ user=24810703 } | [#1](https://osu.ppy.sh/community/matches/109638701) |
 
 ## Ruleset
 

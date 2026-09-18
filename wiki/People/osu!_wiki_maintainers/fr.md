@@ -21,7 +21,7 @@ Si vous avez besoin d'aide pour faire une contribution ou si vous voulez une rev
 | ::{ flag=US }:: ::Joehu::{ user=8549835 } | [Joehuu](https://github.com/Joehuu) | Inactif |  |
 | ::{ flag=AR }:: ::juankristal::{ user=443656 } | [juankristal](https://github.com/juankristal) | Inactif | Espagnol |
 | ::{ flag=DE }:: ::Loctav::{ user=71366 } | [Loctav](https://github.com/Loctav) | Inactif | Allemand |
-| ::{ flag=US }:: ::MegaApple\1Pi::{ user=2148208 } | [MegaApplePi](https://github.com/MegaApplePi) | Inactif |  |
+| ::{ flag=US }:: ::MegaApple_Pi::{ user=2148208 } | [MegaApplePi](https://github.com/MegaApplePi) | Inactif |  |
 | ::{ flag=DE }:: ::Okoratu::{ user=1623405 } | [Okorin](https://github.com/Okorin) | Inactif | Allemand |
 | ::{ flag=AU }:: ::peppy::{ user=2 } | [peppy](https://github.com/peppy) | **Actif** | Japonais |
 | ::{ flag=US }:: ::pishifat::{ user=3178418 } | [pishifat](https://github.com/pishifat) | Inactif |  |

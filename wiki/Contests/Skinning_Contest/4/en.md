@@ -69,16 +69,16 @@ The Skinning Contest #4 is run by various community members.
 | ::{ flag=ID }:: ::ArchieA7::{ user=7087699 } | [Chirou](https://osu.ppy.sh/community/forums/topics/1792370) |
 | ::{ flag=US }:: ::Chromasia::{ user=7306251 } | [Everlasting Moment](https://osu.ppy.sh/community/forums/topics/1792308) |
 | ::{ flag=VN }:: ::koomo::{ user=2168518 } | [Granat (GRIS II)](https://osu.ppy.sh/community/forums/topics/1792512) |
-| ::{ flag=VN }:: ::Ben\15917::{ user=6026593 } | [Kuro](https://osu.ppy.sh/community/forums/topics/1792854) |
+| ::{ flag=VN }:: ::Ben_5917::{ user=6026593 } | [Kuro](https://osu.ppy.sh/community/forums/topics/1792854) |
 | ::{ flag=MX }:: ::XetThe::{ user=16274977 } | [Artifact](https://osu.ppy.sh/community/forums/topics/1792809) |
-| ::{ flag=US }:: ::\1LS\1Glaxes::{ user=14444595 } | [Rockefeller](https://osu.ppy.sh/community/forums/topics/1792911) |
+| ::{ flag=US }:: ::[LS]Glaxes::{ user=14444595 } | [Rockefeller](https://osu.ppy.sh/community/forums/topics/1792911) |
 | ::{ flag=BY }:: ::thetasigma::{ user=6234482 } | [QUAVER: DIVIDE BY 8](https://osu.ppy.sh/community/forums/topics/1792739) |
 | ::{ flag=GB }:: ::chromb::{ user=10238680 } | [Taikonator](https://osu.ppy.sh/community/forums/topics/1792655) |
 | ::{ flag=RU }:: ::TogiraW::{ user=20149300 } | [Verflucht](https://osu.ppy.sh/community/forums/topics/1792572) |
 | ::{ flag=TR }:: ::BatuhanYtho::{ user=12091015 } | [Night of Knights](https://osu.ppy.sh/community/forums/topics/1792553) |
 | ::{ flag=US }:: ::Syvatzia::{ user=19082107 } | [We Kicked a Kid (United)](https://osu.ppy.sh/community/forums/topics/1792954) |
 | ::{ flag=PE }:: ::- Koshiin -::{ user=19135423 } | [Bring it on!!](https://osu.ppy.sh/community/forums/topics/1792821) |
-| ::{ flag=PL }:: ::Redo\1::{ user=7122165 } | [Ghost Rule](https://osu.ppy.sh/community/forums/topics/1792933) |
+| ::{ flag=PL }:: ::Redo_::{ user=7122165 } | [Ghost Rule](https://osu.ppy.sh/community/forums/topics/1792933) |
 
 ## Podium
 

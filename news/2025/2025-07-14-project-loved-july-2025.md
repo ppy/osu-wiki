@@ -47,7 +47,7 @@ The osu! Loved candidates were chosen by ::bailie::{ user=7537133 }, ::BATBALL::
 
 [![](/wiki/shared/news/2025-07-14-project-loved-july-2025/241792.jpg)](https://osu.ppy.sh/community/forums/topics/2104929)
 
-[t+pazolite with siromaru - Chambarising](https://osu.ppy.sh/beatmapsets/241792#osu) by ::Bloodmoon\1old\11::{ user=2429548 }\
+[t+pazolite with siromaru - Chambarising](https://osu.ppy.sh/beatmapsets/241792#osu) by ::Bloodmoon_old_1::{ user=2429548 }\
 160 BPM, 4:49 | 7.62★\
 *description written by ::Lilian::{ user=8589120 }*
 

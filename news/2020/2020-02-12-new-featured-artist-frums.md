@@ -25,7 +25,7 @@ Treat your ears to what **Frums** has in stock:
 
 ### Pictured as Perfect
 
-*[Check out this osu!taiko set](https://osu.ppy.sh/beatmapsets/966235#taiko/2045088) by ::\1yu68::{ user=6170507 }!*
+*[Check out this osu!taiko set](https://osu.ppy.sh/beatmapsets/966235#taiko/2045088) by ::_yu68::{ user=6170507 }!*
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/68/previews/1889.mp3" type="audio/mpeg">

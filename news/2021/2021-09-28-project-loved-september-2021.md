@@ -145,7 +145,7 @@ The usage and combination of 1/6 and 1/8 snaps with the overall patterning decis
 
 [![](/wiki/shared/news/2021-09-26-project-loved-september-2021/1036031.jpg)](https://osu.ppy.sh/community/forums/topics/1429935)
 
-[u's - Kaguya no Shiro de Odoritai (7_7 unko bootleg)](https://osu.ppy.sh/beatmapsets/1036031#taiko) by ::7\17::{ user=7491106 }\
+[u's - Kaguya no Shiro de Odoritai (7_7 unko bootleg)](https://osu.ppy.sh/beatmapsets/1036031#taiko) by ::7_7::{ user=7491106 }\
 320 BPM, 1:29 | 7.08★\
 *description written by ::KuroKuroKuro::{ user=11931563 }*
 
@@ -153,7 +153,7 @@ Remixed by the mapper himself, *Kaguya no Shiro de Odoritai (7_7 unko bootleg)* 
 
 [![](/wiki/shared/news/2021-09-26-project-loved-september-2021/857533.jpg)](https://osu.ppy.sh/community/forums/topics/1429934)
 
-[Adust Rain - Seven Style](https://osu.ppy.sh/beatmapsets/857533#taiko) by ::soloist::{ user=6205471 }, ::7\17::{ user=7491106 }, ::HEKUSODASU::{ user=9044692 }, ::hoku::{ user=9503098 }, ::iceOC::{ user=5482401 }, ::rezi888::{ user=2337821 } and ::uone::{ user=5321719 }\
+[Adust Rain - Seven Style](https://osu.ppy.sh/beatmapsets/857533#taiko) by ::soloist::{ user=6205471 }, ::7_7::{ user=7491106 }, ::HEKUSODASU::{ user=9044692 }, ::hoku::{ user=9503098 }, ::iceOC::{ user=5482401 }, ::rezi888::{ user=2337821 } and ::uone::{ user=5321719 }\
 280 BPM, 2:31 | 6.68★ – 7.88★\
 *description written by ::-Kazu-::{ user=920861 }*
 
@@ -273,7 +273,7 @@ Shoegazer's style is obviously very well pronounced in the chart — it contains
 
 [![](/wiki/shared/news/2021-09-26-project-loved-september-2021/724338.jpg)](https://osu.ppy.sh/community/forums/topics/1429919)
 
-[Various Artists - arpia97's Vibro Anthology](https://osu.ppy.sh/beatmapsets/724338#mania) by ::arpia97::{ user=6363008 }, ::\[Crz\]Player::{ user=1089335 }, ::frolica::{ user=4324195 }, ::Nihilese::{ user=808176 }, ::SMOC\1Hyeon::{ user=3962638 }, ::Staravia::{ user=5445777 } and ::Topovn::{ user=6583121 }\
+[Various Artists - arpia97's Vibro Anthology](https://osu.ppy.sh/beatmapsets/724338#mania) by ::arpia97::{ user=6363008 }, ::\[Crz\]Player::{ user=1089335 }, ::frolica::{ user=4324195 }, ::Nihilese::{ user=808176 }, ::SMOC_Hyeon::{ user=3962638 }, ::Staravia::{ user=5445777 } and ::Topovn::{ user=6583121 }\
 122 – 268 BPM, 4:07 | 6.14★ – 16.75★\
 The \[Pocari Sweat (Marathon)\] and \[do you know da wae (Marathon)\] difficulties are *not* being nominated for Loved.\
 *description written by ::Penguinosity::{ user=10235296 }*
@@ -431,7 +431,7 @@ As this is the Endurance pack, its main focus is stamina, and playing these char
 
 [![](/wiki/shared/news/2021-09-26-project-loved-september-2021/1220647.jpg)](https://osu.ppy.sh/community/forums/topics/1429906)
 
-[osu!mania 7K Dan Course - LN Dan Phase III](https://osu.ppy.sh/beatmapsets/1220647#mania) by ::Jinjin::{ user=3360737 }, ::\_Kobii::{ user=6209713 }, ::Kim\1GodSSI::{ user=2218047 }, ::Pengdoll::{ user=6392061 } and ::Toaph Daddy::{ user=7616811 }\
+[osu!mania 7K Dan Course - LN Dan Phase III](https://osu.ppy.sh/beatmapsets/1220647#mania) by ::Jinjin::{ user=3360737 }, ::\_Kobii::{ user=6209713 }, ::Kim_GodSSI::{ user=2218047 }, ::Pengdoll::{ user=6392061 } and ::Toaph Daddy::{ user=7616811 }\
 167 – 198 BPM, 8:13 | 9.79★, 10.48★, 11.76★, 12.29★, 13.26★\
 *description written by ::\_underjoy::{ user=2235750 }*
 

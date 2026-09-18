@@ -80,7 +80,7 @@ The Skinning Contest #4 is run by various community members.
 | ::{ flag=AU }:: ::Aveil::{ user=11635646 } | [RAVENHUE](https://osu.ppy.sh/community/forums/topics/1925905) |
 | ::{ flag=US }:: ::Chromasia::{ user=7306251 } | [ROSULA](https://osu.ppy.sh/community/forums/topics/1925929) |
 | ::{ flag=US }:: ::lilrawk::{ user=13799581 } | [VISIONS](https://osu.ppy.sh/community/forums/topics/1925961) |
-| ::{ flag=VN }:: ::Ben\15917::{ user=6026593 } | [cTRL](https://osu.ppy.sh/community/forums/topics/1926175) |
+| ::{ flag=VN }:: ::Ben_5917::{ user=6026593 } | [cTRL](https://osu.ppy.sh/community/forums/topics/1926175) |
 | ::{ flag=DE }:: ::janmagtoast::{ user=16849319 } | [osu!checkmate](https://osu.ppy.sh/community/forums/topics/1926184) |
 | ::{ flag=US }:: ::Icysandwich::{ user=10961544 } | [Apple Camp](https://osu.ppy.sh/community/forums/topics/1926191) |
 | ::{ flag=US }:: ::Syvatzia::{ user=19082107 } | [Reflections Unchained](https://osu.ppy.sh/community/forums/topics/1926206) |

@@ -51,7 +51,7 @@ The osu! Loved candidates were chosen by ::Mismagius::{ user=19048 }, ::rHO::{ u
 
 [![](/wiki/shared/news/2023-02-24-project-loved-february-2023/1192060.jpg)](https://osu.ppy.sh/community/forums/topics/1725981)
 
-[Camellia - #1f1e33](https://osu.ppy.sh/beatmapsets/1192060#osu) by ::Realazy::{ user=918297 }, ::- Heatwave -::{ user=4166621 }, ::-\[Pino\]-::{ user=10120527 }, ::Acylica::{ user=1943309 }, ::captin1::{ user=689997 }, ::cotton\1\1123::{ user=9823042 }, ::CrazyrabbitKGE::{ user=4481526 }, ::Cubby::{ user=10914582 }, ::IOException::{ user=2688103 }, ::Kloyd::{ user=1574070 }, ::lcfc::{ user=7322726 }, ::Lobelia::{ user=4030114 }, ::Niva::{ user=197805 }, ::Otosaka-Yu::{ user=3170678 }, ::Regou::{ user=419954 }, ::ScubDomino::{ user=8972308 }, ::Seonah::{ user=11011335 }, ::seros::{ user=10562853 }, ::Xen::{ user=4026817 } and ::xLolicore-::{ user=4525153 }\
+[Camellia - #1f1e33](https://osu.ppy.sh/beatmapsets/1192060#osu) by ::Realazy::{ user=918297 }, ::- Heatwave -::{ user=4166621 }, ::-\[Pino\]-::{ user=10120527 }, ::Acylica::{ user=1943309 }, ::captin1::{ user=689997 }, ::cotton__123::{ user=9823042 }, ::CrazyrabbitKGE::{ user=4481526 }, ::Cubby::{ user=10914582 }, ::IOException::{ user=2688103 }, ::Kloyd::{ user=1574070 }, ::lcfc::{ user=7322726 }, ::Lobelia::{ user=4030114 }, ::Niva::{ user=197805 }, ::Otosaka-Yu::{ user=3170678 }, ::Regou::{ user=419954 }, ::ScubDomino::{ user=8972308 }, ::Seonah::{ user=11011335 }, ::seros::{ user=10562853 }, ::Xen::{ user=4026817 } and ::xLolicore-::{ user=4525153 }\
 181 BPM, 2:39 | 3.69★ – 7.48★\
 *description written by ::rHO::{ user=1629553 }*
 
@@ -159,11 +159,11 @@ This also holds true for the beatmap itself, as it is mostly a simple Oni diffic
 
 [![](/wiki/shared/news/2023-02-24-project-loved-february-2023/1508391.jpg)](https://osu.ppy.sh/community/forums/topics/1725972)
 
-[Tsukino - Dohna Dohna no Uta (himiko Jersey Club Edit)](https://osu.ppy.sh/beatmapsets/1508391#taiko) by ::Shamirin\1mzk::{ user=11325757 }, ::hoku::{ user=9503098 }, ::KMYK\_::{ user=9687503 }, ::KTYN::{ user=2250574 }, ::layxa::{ user=14800030 } and ::Seren58::{ user=15252950 }\
+[Tsukino - Dohna Dohna no Uta (himiko Jersey Club Edit)](https://osu.ppy.sh/beatmapsets/1508391#taiko) by ::Shamirin_mzk::{ user=11325757 }, ::hoku::{ user=9503098 }, ::KMYK\_::{ user=9687503 }, ::KTYN::{ user=2250574 }, ::layxa::{ user=14800030 } and ::Seren58::{ user=15252950 }\
 160 BPM, 2:29 | 4.73★ – 5.40★\
 *description written by ::POCARI SWEAT::{ user=5082685 }*
 
-"Let's get into some mischief... together!" ::Shamirin\1mzk::{ user=11325757 } and five other skilled mappers have a playful surprise for you. This mapset includes 6 diffs with similar star rating, yet each with unique chart characteristics that provide a delightful experience. Select the one that best suits your taste. This expertly crafted set guarantees to quench your thirst for enjoyment.
+"Let's get into some mischief... together!" ::Shamirin_mzk::{ user=11325757 } and five other skilled mappers have a playful surprise for you. This mapset includes 6 diffs with similar star rating, yet each with unique chart characteristics that provide a delightful experience. Select the one that best suits your taste. This expertly crafted set guarantees to quench your thirst for enjoyment.
 
 [![](/wiki/shared/news/2023-02-24-project-loved-february-2023/1709923.jpg)](https://osu.ppy.sh/community/forums/topics/1725971)
 
@@ -187,7 +187,7 @@ It is also a map for advanced players with a SR of 8.25. Why not try go for the 
 
 [![](/wiki/shared/news/2023-02-24-project-loved-february-2023/1286476.jpg)](https://osu.ppy.sh/community/forums/topics/1725969)
 
-[DJKurara - Donk Array](https://osu.ppy.sh/beatmapsets/1286476#taiko) by ::7\17::{ user=7491106 } and ::My Angel Koishi::{ user=8273098 }\
+[DJKurara - Donk Array](https://osu.ppy.sh/beatmapsets/1286476#taiko) by ::7_7::{ user=7491106 } and ::My Angel Koishi::{ user=8273098 }\
 240 – 288 BPM, 4:49 | 7.33★, 7.83★, 8.33★\
 *description written by ::-Kazu-::{ user=920861 }*
 
@@ -359,11 +359,11 @@ If you want to see more taba2 charts going for Loved in the future, make sure to
 
 [![](/wiki/shared/news/2023-02-24-project-loved-february-2023/1287168.jpg)](https://osu.ppy.sh/community/forums/topics/1725955)
 
-[Various Artists - LN Practice Pack 1](https://osu.ppy.sh/beatmapsets/1287168#mania) by ::Kim\1GodSSI::{ user=2218047 }\
+[Various Artists - LN Practice Pack 1](https://osu.ppy.sh/beatmapsets/1287168#mania) by ::Kim_GodSSI::{ user=2218047 }\
 100 – 240.01 BPM, 4:30 | 6.62★ – 10.45★\
 *description written by ::-NoName-::{ user=10400730 }*
 
-::Kim\1GodSSI::{ user=2218047 } has not seen a Loved nomination since December 2021. We welcome him back to the voting stage with one of his LN Practice sets.
+::Kim_GodSSI::{ user=2218047 } has not seen a Loved nomination since December 2021. We welcome him back to the voting stage with one of his LN Practice sets.
 
 *LN Practice Pack 1* is one of a few sets of charts Kim_GodSSI created in order to help people practice inverse long notes. There are not many 7K charts in the Loved category (or with leaderboards in general) solely dedicated to this skill. It is said that inverse LN (also known as full LN) is the building block of all LN skillsets in general. If you learn how to play inverse well, you will be able to master all other LN skillsets as well.
 

@@ -117,7 +117,7 @@ Não para ser confundido com os [osu! Alumni](/wiki/People/osu!_Alumni), que sã
 | ::{ flag=AU }:: ::Syrin::{ user=5701575 } | Criador de PerformancePlus e osu!chan |
 | ::{ flag=SG }:: ::Raveille::{ user=1388767 } | Esforço fenomenal na produção e publicação do projeto Scorewatch |
 | ::{ flag=FR }:: ::ThePooN::{ user=718454 } | Esforço fenomenal na produção e publicação do projeto Scorewatch |
-| ::{ flag=US }:: ::MegaApple\1Pi::{ user=2148208 } | Esforço fenomenal em avançar o projeto osu! wiki project com várias revisions, reworks e reviews |
+| ::{ flag=US }:: ::MegaApple_Pi::{ user=2148208 } | Esforço fenomenal em avançar o projeto osu! wiki project com várias revisions, reworks e reviews |
 | ::{ flag=PL }:: ::TPGPL::{ user=3944705 } | Pilar do projeto osu! wiki e contribuição fenomenal durante os anos |
 
 ## 2019

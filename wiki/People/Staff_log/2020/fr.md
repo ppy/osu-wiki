@@ -49,7 +49,7 @@ Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont le
 - 19/01/2020 : Retrait de ::qoot8123::{ user=766371 } : **BN**
 - 25/01/2020 : Retrait de ::Sanyi::{ user=7496029 } : **BN**
 - 26/01/2020 : Retrait de ::Greaper::{ user=2369776 } : **BN**
-- 29/01/2020 : Retrait de ::Critical\1Star::{ user=3793196 } : **BN**
+- 29/01/2020 : Retrait de ::Critical_Star::{ user=3793196 } : **BN**
 
 ## Février
 
@@ -112,7 +112,7 @@ Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont le
 - 07/03/2020 : Ajout de ::Nao Tomori::{ user=5364763 } : **BN probatoire**
 - 09/03/2020 : Ajout de ::MaridiuS::{ user=4496961 } : **BN probatoire**
 - 09/03/2020 : Ajout de ::Daletto::{ user=7592136 } : **BN probatoire**
-- 17/03/2020 : Ajout de ::BaAR\1Vendel::{ user=8679346 } : **BN probatoire**
+- 17/03/2020 : Ajout de ::BaAR_Vendel::{ user=8679346 } : **BN probatoire**
 - 22/03/2020 : Ajout de ::wafer::{ user=9416836 } : **BN probatoire**
 
 #### Transferts
@@ -163,7 +163,7 @@ Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont le
 - 12/04/2020 : Transfert de ::Nao Tomori::{ user=5364763 } : **BN probatoire** > **BN**
 - 14/04/2020 : Transfert de ::Dapuluous::{ user=8140944 } : **BN probatoire** > **BN**
 - 20/04/2020 : Transfert de ::MaridiuS::{ user=4496961 } : **BN probatoire** > **BN**
-- 26/04/2020 : Transfert de ::BaAR\1Vendel::{ user=8679346 } : **BN probatoire** > **BN**
+- 26/04/2020 : Transfert de ::BaAR_Vendel::{ user=8679346 } : **BN probatoire** > **BN**
 - 29/04/2020 : Transfert de ::Dubstek::{ user=9555243 } : **BN probatoire** > **BN**
 - 30/04/2020 : Transfert de ::wafer::{ user=9416836 } : **BN probatoire** > **BN**
 
@@ -511,7 +511,7 @@ Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont le
 - 14/12/2020 : Ajout de ::Benita::{ user=1259391 } : **BN probatoire**
 - 20/12/2020 : Ajout de ::Default Guy::{ user=7058457 } : **BN probatoire**
 - 21/12/2020 : Ajout de ::Zer0-::{ user=4260033 } : **BN probatoire**
-- 21/12/2020 : Ajout de ::realy0\1::{ user=8863359 } : **BN probatoire**
+- 21/12/2020 : Ajout de ::realy0_::{ user=8863359 } : **BN probatoire**
 - 21/12/2020 : Ajout de ::Morrighan::{ user=12042090 } : **BN probatoire**
 - 26/12/2020 : Ajout de ::Mipha-::{ user=5767941 } : **BN probatoire**
 

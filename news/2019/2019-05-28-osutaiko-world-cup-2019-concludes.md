@@ -29,7 +29,7 @@ Team Japan will receive the grand prize: $150 per team member, profile badges, a
 
 **Team Taiwan will continue to defend their silver title for the fifth year running!**
 
-Despite losing their powerhouse ::stu00608::{ user=1977606 } from last year, Taiwan's tenacity remains unchallenged in the face of any opposition. Veteran Team Captain ::-\1 ix Ishida xi \1-::{ user=242910 } (in her 9 year tenure) led her team with flair and elegance, clutching second place by a hair—a splendid performance indeed.
+Despite losing their powerhouse ::stu00608::{ user=1977606 } from last year, Taiwan's tenacity remains unchallenged in the face of any opposition. Veteran Team Captain ::-[ ix Ishida xi ]-::{ user=242910 } (in her 9 year tenure) led her team with flair and elegance, clutching second place by a hair—a splendid performance indeed.
 
 Team Taiwan will receive a prize of $80 per team member and profile badges to commemorate their success.
 

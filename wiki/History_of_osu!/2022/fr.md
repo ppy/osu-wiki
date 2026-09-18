@@ -24,7 +24,7 @@ Le troisième osu! community meeting de l'année s'est tenue le 6 février pour 
 
 osu!(lazer) a reçu le mod Aim Assist en tant que nouvelle fonctionnalité qui attire les objets vers le curseur, nécessitant essentiellement moins de mouvements du curseur de la part du joueur.[^aim-assist] Le mod a été renommé en Alternate un mois après la mise en œuvre initiale.[^alternate][^aim-assist-rename] Le mode de jeu osu!mania dans osu!(lazer) a reçu un nouveau mod Hold Off dans lequel les hold notes sont converties en deux notes normales[^hold-off].
 
-Suite à la première édition en mai de l'année dernière, un nouveau concours de skinning a été organisé, cette fois-ci sur le thème [Tides of Winter](https://osu.ppy.sh/home/news/2021-12-02-skinning-contest-tides-of-winter-announcement). À l'issue du concours, ::thetasigma::{ user=6234482 }, ::BPChingu::{ user=4236855 } et ::Redo\1::{ user=7122165 } ont obtenu respectivement la troisième, la deuxième et la première place.[^tides-of-winter]
+Suite à la première édition en mai de l'année dernière, un nouveau concours de skinning a été organisé, cette fois-ci sur le thème [Tides of Winter](https://osu.ppy.sh/home/news/2021-12-02-skinning-contest-tides-of-winter-announcement). À l'issue du concours, ::thetasigma::{ user=6234482 }, ::BPChingu::{ user=4236855 } et ::Redo_::{ user=7122165 } ont obtenu respectivement la troisième, la deuxième et la première place.[^tides-of-winter]
 
 ## Mars
 
@@ -102,7 +102,7 @@ Plusieurs médailles Hush-Hush, ainsi que 3 nouvelles médailles beatmap pack on
 
 Ce mois-ci, [Mono.](https://osu.ppy.sh/beatmaps/artists/307), [Tokyo.MeltiMelt](https://osu.ppy.sh/beatmaps/artists/308), [Ata](https://osu.ppy.sh/beatmaps/artists/309), [Hybrid Minds](https://osu.ppy.sh/beatmaps/artists/310), [GLORYHAMMER](https://osu.ppy.sh/beatmaps/artists/311), [Au5](https://osu.ppy.sh/beatmaps/artists/312), [Fractal](https://osu.ppy.sh/beatmaps/artists/313), [Kikuo](https://osu.ppy.sh/beatmaps/artists/314), [Hinkik](https://osu.ppy.sh/beatmaps/artists/315), et [Zenpaku](https://osu.ppy.sh/beatmaps/artists/316) ont été annoncés comme étant les nouveaux Featured Artists.
 
-Le concours de beatmapping et de storyboard [triangles](https://osu.ppy.sh/home/news/2022-05-31-triangles) s'est terminé ce mois-ci. L'équipe Crazy Thursday composée de ::yf\1bmp::{ user=1243669 }, ::TtmnZk::{ user=2495509 }, ::Yugu::{ user=3161834 }, ::Chaoslitz::{ user=3621552 } et ::Yumeno Himiko::{ user=1806962 } a remporté la première place. Leur beatmap sera incluse dans chaque installation de osu!(lazer) en tant que grand prix du concours [^résultats-triangles].
+Le concours de beatmapping et de storyboard [triangles](https://osu.ppy.sh/home/news/2022-05-31-triangles) s'est terminé ce mois-ci. L'équipe Crazy Thursday composée de ::yf_bmp::{ user=1243669 }, ::TtmnZk::{ user=2495509 }, ::Yugu::{ user=3161834 }, ::Chaoslitz::{ user=3621552 } et ::Yumeno Himiko::{ user=1806962 } a remporté la première place. Leur beatmap sera incluse dans chaque installation de osu!(lazer) en tant que grand prix du concours [^résultats-triangles].
 
 Parmi les autres changements, osu!mania utilise désormais la précision au lieu du score pour calculer les points de performance, en raison des modifications apportées aux systèmes de notation par étoiles et de points de performance[^osu-mania-sr-pp].
 

@@ -66,15 +66,15 @@ Yaz's Summer Cup 2017 was run by various community members.
 | Group | Members |
 | :-: | :-- |
 | Group A | ::{ flag=KR }:: **::Cookiezi::{ user=124493 }**, ::{ flag=NL }:: **::Ahmnesia::{ user=2715937 }**, ::{ flag=LT }:: ::PainSinger::{ user=697843 }, ::{ flag=DE }:: ::respektive::{ user=1023489 } |
-| Group B | ::{ flag=RO }:: **::Rohulk::{ user=3219026 }**, ::{ flag=DE }:: **::imagaK::{ user=2022445 }**, ::{ flag=JP }:: ::\1YuriNee::{ user=1794082 }, ::{ flag=PL }:: ::QbaDoo::{ user=2395405 } |
+| Group B | ::{ flag=RO }:: **::Rohulk::{ user=3219026 }**, ::{ flag=DE }:: **::imagaK::{ user=2022445 }**, ::{ flag=JP }:: ::_YuriNee::{ user=1794082 }, ::{ flag=PL }:: ::QbaDoo::{ user=2395405 } |
 | Group C | ::{ flag=US }:: **::Vaxei::{ user=4787150 }**, ::{ flag=PL }:: **::MrBooM::{ user=1837989 }**, ::{ flag=US }:: ::Exarch::{ user=5370153 }, ::{ flag=SE }:: ::Ketchup::{ user=4820468 } |
 | Group D | ::{ flag=NO }:: **::gilmat::{ user=5779181 }**, ::{ flag=NL }:: **::Syph::{ user=4858573 }**, ::{ flag=PL }:: ::Malolat::{ user=4317480 }, ::{ flag=US }:: ::idke::{ user=4650315 } |
 | Group E | ::{ flag=ES }:: **::Rekens::{ user=1073575 }**, ::{ flag=CA }:: **::Azer::{ user=2155578 }**, ::{ flag=SK }:: ::Hranolka::{ user=6149947 }, ::{ flag=SG }:: ::GSBlank::{ user=2312106 } |
 | Group F | ::{ flag=GB }:: **::Doomsday::{ user=18983 }**, ::{ flag=GB }:: **::Bubbleman::{ user=5182050 }**, ::{ flag=US }:: ::Jensen::{ user=4719055 }, ::{ flag=HU }:: ::emu1337::{ user=2185987 } |
 | Group G | ::{ flag=US }:: **::fieryrage::{ user=3533958 }**, ::{ flag=JP }:: **::Shirasaka Koume::{ user=3062998 }**, ::{ flag=US }:: ::Spellstorm::{ user=4249778 }, ::{ flag=CA }:: ::Kaifin::{ user=2596942 } |
-| Group H | ::{ flag=US }:: **::Apraxia::{ user=4194445 }**, ::{ flag=US }:: **::Num::{ user=5198060 }**, ::{ flag=US }:: ::Wombraider\1\19::{ user=7342622 }, ::{ flag=AT }:: ::-Akuro::{ user=5841333 } |
+| Group H | ::{ flag=US }:: **::Apraxia::{ user=4194445 }**, ::{ flag=US }:: **::Num::{ user=5198060 }**, ::{ flag=US }:: ::Wombraider__9::{ user=7342622 }, ::{ flag=AT }:: ::-Akuro::{ user=5841333 } |
 | Group I | ::{ flag=FR }:: **::ThePooN::{ user=718454 }**, ::{ flag=US }:: **::DigitalHypno::{ user=4384207 }**, ::{ flag=SG }:: ::\_Xancos\_::{ user=6787759 }, ::{ flag=TH }:: ::- Phantasma -::{ user=1427407 } |
-| Group J | ::{ flag=PL }:: **::My Angel MrBooM::{ user=4163860 }**, ::{ flag=DE }:: **::\1 Nano \1::{ user=5132353 }**, ::{ flag=LV }:: ::waywern2012::{ user=5870453 }, ::{ flag=PL }:: ::Klocuch12::{ user=2316667 } |
+| Group J | ::{ flag=PL }:: **::My Angel MrBooM::{ user=4163860 }**, ::{ flag=DE }:: **::[ Nano ]::{ user=5132353 }**, ::{ flag=LV }:: ::waywern2012::{ user=5870453 }, ::{ flag=PL }:: ::Klocuch12::{ user=2316667 } |
 | Group K | ::{ flag=US }:: **::Toy::{ user=2757689 }**, ::{ flag=ES }:: **::kazamabc::{ user=6937470 }**, ::{ flag=DE }:: ::Epiphany::{ user=3256299 }, ::{ flag=UA }:: ::Cloz1k::{ user=4548264 } |
 | Group L | ::{ flag=US }:: **::he rack::{ user=2644828 }**, ::{ flag=TW }:: **::Rucker::{ user=147515 }**, ::{ flag=JP }:: ::katatakatata::{ user=3540294 }, ::{ flag=DE }:: ::Knalli::{ user=8147403 } |
 | Group M | ::{ flag=LV }:: **::Emula::{ user=2891792 }**, ::{ flag=GR }:: **::xDarxen::{ user=4625954 }**, ::{ flag=US }:: ::zelda101::{ user=4502238 }, ::{ flag=SG }:: ::Emilia::{ user=2003326 } |

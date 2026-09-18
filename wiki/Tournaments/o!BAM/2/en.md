@@ -68,7 +68,7 @@ The osu! Battle Archive Malaysia 2022 was run by various community members.
 | 1 | **sturrige curry** | ::{ flag=MY }:: **::DuoX::{ user=9560694 }**, ::{ flag=ID }:: ::i love uma::{ user=7108275 } | 16.43 |
 | 2 | **Anti-Cunny Action** | ::{ flag=MY }:: **::not\_aweeb::{ user=9375317 }**, ::{ flag=ID }:: ::Rexeez::{ user=1987591 } | 15.26 |
 | 3 | **Diggas in paris** | ::{ flag=MY }:: **::Zeph2003::{ user=10343292 }**, ::{ flag=SG }:: ::Dawnwing::{ user=5144534 } | 14.26 |
-| 4 | **kinda hot tho** | ::{ flag=MY }:: **::Ryouuta::{ user=15020799 }**, ::{ flag=VN }:: ::\1sin\1::{ user=11021073 } | 13.59 |
+| 4 | **kinda hot tho** | ::{ flag=MY }:: **::Ryouuta::{ user=15020799 }**, ::{ flag=VN }:: ::[sin]::{ user=11021073 } | 13.59 |
 | 5 | **ENERGY GAP** | ::{ flag=MY }:: **::milo Penguin::{ user=10702232 }**, ::{ flag=SG }:: ::megumic::{ user=7537133 } | 13.04 |
 | 6 | **Miyu Archive** | ::{ flag=MY }:: **::Houshou Marine::{ user=6402211 }**, ::{ flag=ID }:: ::-Reuto-::{ user=10717635 } | 12.44 |
 | 7 | **RUDOLF ENJOYERS** | ::{ flag=MY }:: **::Rampax::{ user=3995630 }**, ::{ flag=SG }:: ::Inquisitives::{ user=10722794 } | 11.76 |
@@ -82,7 +82,7 @@ The osu! Battle Archive Malaysia 2022 was run by various community members.
 | 15 | **Vanity** | ::{ flag=MY }:: **::Inugami Korone::{ user=4474918 }**, ::{ flag=MY }:: ::Mumei Nanashi::{ user=5414124 } | 1.87 |
 | 16 | **chungus capoo** | ::{ flag=MY }:: **::GKen::{ user=12633052 }**, ::{ flag=VN }:: ::realshin::{ user=8006029 } | 0.52 |
 | 17 | **openureyesyouwillsee** | ::{ flag=MY }:: **::Judicious::{ user=8087710 }**, ::{ flag=SG }:: ::\_gt::{ user=8301957 } | -1.19 |
-| 18 | **NAJIB FANCLUB** | ::{ flag=MY }:: **::Hu\1Ai::{ user=10910261 }**, ::{ flag=SG }:: ::JokThree::{ user=7713152 } | -1.49 |
+| 18 | **NAJIB FANCLUB** | ::{ flag=MY }:: **::Hu_Ai::{ user=10910261 }**, ::{ flag=SG }:: ::JokThree::{ user=7713152 } | -1.49 |
 | 19 | **Offensize Name** | ::{ flag=MY }:: **::rhatson::{ user=14826877 }**, ::{ flag=TH }:: ::heathenz\_::{ user=14180969 } | -1.51 |
 | 20 | **koko soko asoko** | ::{ flag=MY }:: **::RyzenPP::{ user=16391241 }**, ::{ flag=MY }:: ::Tengkosu::{ user=17724583 } | -1.68 |
 | 21 | **LENG ZAI** | ::{ flag=MY }:: **::GodKnows::{ user=11058193 }**, ::{ flag=SG }:: ::Eagle5324::{ user=11987104 } | -1.77 |

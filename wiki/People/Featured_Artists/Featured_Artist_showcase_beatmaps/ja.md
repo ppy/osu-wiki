@@ -502,7 +502,7 @@ outdated_since: 7db101ba555502134cfcb73ccd205cb57716aa7c
 - **[Raimukun](https://osu.ppy.sh/home/news/2022-03-12-new-featured-artist-raimukun)** (2022-03-12)
   - (![][osu!catch]) [Raimukun - Firmament star](https://osu.ppy.sh/beatmapsets/1633703#fruits/3360065) ::{ flag=PH }:: ::Jemzuu::{ user=7890134 }によってホスト
 - **[Plum](https://osu.ppy.sh/home/news/2022-03-19-new-featured-artist-plum)** (2022-03-19)
-  - (![][osu!]) [Plum - Maelstrom](https://osu.ppy.sh/beatmapsets/1679690#osu/3493711) ::{ flag=KR }:: ::\1Epreus::{ user=7342798 }によってホスト
+  - (![][osu!]) [Plum - Maelstrom](https://osu.ppy.sh/beatmapsets/1679690#osu/3493711) ::{ flag=KR }:: ::_Epreus::{ user=7342798 }によってホスト
 - **[my sound life](https://osu.ppy.sh/home/news/2022-03-30-new-featured-artist-my-sound-life)** (2022-03-30)
   - (![][osu!]) [my sound life - omega](https://osu.ppy.sh/beatmapsets/1728309#osu/3538894) ::{ flag=US }:: ::Heroine::{ user=12727076 }によってホスト
 
@@ -558,7 +558,7 @@ outdated_since: 7db101ba555502134cfcb73ccd205cb57716aa7c
   - (![][osu!]) [aran & lapix - KALACAKLA](https://osu.ppy.sh/beatmapsets/1773829#osu/3631936) ::{ flag=AU }:: ::elicz1::{ user=8039342 }によってホスト
 - **[NOISZ](https://osu.ppy.sh/home/news/2022-07-23-new-featured-artist-noisz)** (2022-07-23)
   - (![][osu!]) [Camellia feat. Morinaga Mayumi - re:||BIRTH](https://osu.ppy.sh/beatmapsets/1779714#osu/3644812) ::{ flag=US }:: ::UberFazz::{ user=8646059 }によってホスト
-  - (![][osu!]) [Soleily feat. SUNRaiSE - Rise Above](https://osu.ppy.sh/beatmapsets/1767895#osu/3618854) ::{ flag=HU }:: ::Nytrocide\1::{ user=11327918 }によってホスト
+  - (![][osu!]) [Soleily feat. SUNRaiSE - Rise Above](https://osu.ppy.sh/beatmapsets/1767895#osu/3618854) ::{ flag=HU }:: ::Nytrocide_::{ user=11327918 }によってホスト
 - **[ZxNX](https://osu.ppy.sh/home/news/2022-07-30-new-featured-artist-zxnx)** (2022-07-30)
   - (![][osu!]) [ZxNX - Schadenfreude](https://osu.ppy.sh/beatmapsets/1816239#osu/3728042) ::{ flag=FR }:: ::Realazy::{ user=918297 }によってホスト
   - (![][osu!catch]) [ZxNX - Schadenfreude](https://osu.ppy.sh/beatmapsets/1698949#fruits/3522804) ::{ flag=PH }:: ::Jemzuu::{ user=7890134 }によってホスト
@@ -605,7 +605,7 @@ outdated_since: 7db101ba555502134cfcb73ccd205cb57716aa7c
 ### 10月
 
 - **[Mono.](https://osu.ppy.sh/home/news/2022-10-01-new-featured-artist-mono)** (2022-10-01)
-  - (![][osu!]) [Mono. - ST4RDUST*XABER](https://osu.ppy.sh/beatmapsets/1810657#osu/3713836) ::{ flag=KR }:: ::\1Epreus::{ user=7342798 }によってホスト
+  - (![][osu!]) [Mono. - ST4RDUST*XABER](https://osu.ppy.sh/beatmapsets/1810657#osu/3713836) ::{ flag=KR }:: ::_Epreus::{ user=7342798 }によってホスト
 - **[Tokyo.MeltiMelt](https://osu.ppy.sh/home/news/2022-10-05-new-featured-artist-tokyo-meltimelt)** (2022-10-05)
   - (![][osu!]) [Tokyo.MeltiMelt - I ain't need my heart feat. Hatsuki Yura](https://osu.ppy.sh/beatmapsets/1800571#osu/3691442) ::{ flag=RU }:: ::SMOKELIND::{ user=9327302 }によってホスト
   - (![][osu!]) [Tokyo.MeltiMelt - Virgin Mary feat. Sennzai](https://osu.ppy.sh/beatmapsets/1830770#osu/3757790) ::{ flag=PH }:: ::-Aqua::{ user=7150015 }によってホスト
@@ -615,7 +615,7 @@ outdated_since: 7db101ba555502134cfcb73ccd205cb57716aa7c
 - **[GLORYHAMMER](https://osu.ppy.sh/home/news/2022-10-15-new-featured-artist-gloryhammer)** (2022-10-15)
   - (![][osu!]) [GLORYHAMMER - The Epic Rage of Furious Thunder](https://osu.ppy.sh/beatmapsets/1848202#osu/3796617) ::{ flag=TR }:: ::Nymphe::{ user=10507407 }によってホスト
 - **[Hinkik](https://osu.ppy.sh/home/news/2022-10-26-new-featured-artist-hinkik)** (2022-10-26)
-  - (![][osu!]) [Hinkik - Explorers](https://osu.ppy.sh/beatmapsets/1861042#osu/3826149) ::{ flag=HU }:: ::Nytrocide\1::{ user=11327918 }によってホスト
+  - (![][osu!]) [Hinkik - Explorers](https://osu.ppy.sh/beatmapsets/1861042#osu/3826149) ::{ flag=HU }:: ::Nytrocide_::{ user=11327918 }によってホスト
 
 ### 11月
 
@@ -666,7 +666,7 @@ outdated_since: 7db101ba555502134cfcb73ccd205cb57716aa7c
   - (![][osu!mania]) [Cinamoro - Another](https://osu.ppy.sh/beatmapsets/1910036) ::{ flag=ID }:: ::FAMoss::{ user=7707789 }によってホスト
   - (![][osu!]) [Cinamoro - Paleturquoise](https://osu.ppy.sh/beatmapsets/1874826) ::{ flag=DE }:: ::PaRaDogi::{ user=2054596 }によってホスト
 - **[yaseta](https://osu.ppy.sh/home/news/2023-02-18-new-featured-artist-yaseta)** (2023-02-18)
-  - (![][osu!]) [yaseta - Dreamy Goat](https://osu.ppy.sh/beatmapsets/1917139) ::{ flag=HU }:: ::Nytrocide\1::{ user=11327918 }によってホスト
+  - (![][osu!]) [yaseta - Dreamy Goat](https://osu.ppy.sh/beatmapsets/1917139) ::{ flag=HU }:: ::Nytrocide_::{ user=11327918 }によってホスト
 - **[KASHIWA Daisuke](https://osu.ppy.sh/home/news/2023-02-22-new-featured-artist-kashiwa-daisuke)** (2023-02-22)
   - (![][osu!]) [KASHIWA Daisuke - Sacred Play Secret Place](https://osu.ppy.sh/beatmapsets/1908078) ::{ flag=RU }:: ::Daycore::{ user=5596337 }によってホスト
 - **[Kabocha](https://osu.ppy.sh/home/news/2023-03-01-new-featured-artist-kabocha)** (2023-03-01)
@@ -705,7 +705,7 @@ outdated_since: 7db101ba555502134cfcb73ccd205cb57716aa7c
 - **[Junk](https://osu.ppy.sh/home/news/2023-06-17-new-featured-artist-junk)** (2023-06-17)
   - (![][osu!]) [Junk - Yellow Smile (bms edit)](https://osu.ppy.sh/beatmapsets/2010589) ::{ flag=RU }:: ::Daycore::{ user=5596337 }によってホスト
   - (![][osu!catch]) [Junk - Yellow Smile (bms edit)](https://osu.ppy.sh/beatmapsets/2006758) ::{ flag=US }:: ::Secre::{ user=2306637 }によってホスト
-  - (![][osu!taiko]) [Junk - Yellow Smile (bms edit)](https://osu.ppy.sh/beatmapsets/2010165) ::{ flag=AR }:: ::gaston\12199::{ user=5938161 }によってホスト
+  - (![][osu!taiko]) [Junk - Yellow Smile (bms edit)](https://osu.ppy.sh/beatmapsets/2010165) ::{ flag=AR }:: ::gaston_2199::{ user=5938161 }によってホスト
   - (![][osu!catch]) [Junk - Qualia](https://osu.ppy.sh/beatmapsets/2010010) ::{ flag=NL }:: ::Chatie::{ user=6524765 }によってホスト
 - **[passchooo](https://osu.ppy.sh/home/news/2023-06-24-new-featured-artist-passchooo)** (2023-06-24)
   - (![][osu!]) [passchooo - chooo2023_1](https://osu.ppy.sh/beatmapsets/1981957) ::{ flag=RU }:: ::SMOKELIND::{ user=9327302 }によってホスト
@@ -717,7 +717,7 @@ outdated_since: 7db101ba555502134cfcb73ccd205cb57716aa7c
 ### 7月
 
 - **[Krimek](https://osu.ppy.sh/home/news/2023-07-08-new-featured-artist-krimek)** (2023-07-08)
-  - (![][osu!]) [Krimek feat. dokxid - Gravity Hole](https://osu.ppy.sh/beatmapsets/1983505) ::{ flag=HU }:: ::Nytrocide\1::{ user=11327918 }によってホスト
+  - (![][osu!]) [Krimek feat. dokxid - Gravity Hole](https://osu.ppy.sh/beatmapsets/1983505) ::{ flag=HU }:: ::Nytrocide_::{ user=11327918 }によってホスト
 - **[YUC'e](https://osu.ppy.sh/home/news/2023-07-15-new-featured-artist-yuce)** (2023-07-15)
   - (![][osu!taiko]) [YUC'e - Future Candy](https://osu.ppy.sh/beatmapsets/2006776) ::{ flag=AR }:: ::ZelLink::{ user=6752242 }によってホスト
   - (![][osu!]) [YUC'e - SPACE INVADER](https://osu.ppy.sh/beatmapsets/2005892) ::{ flag=RU }:: ::SMOKELIND::{ user=9327302 }によってホスト
@@ -738,7 +738,7 @@ outdated_since: 7db101ba555502134cfcb73ccd205cb57716aa7c
   - (![][osu!]) [beignet - Sign](https://osu.ppy.sh/beatmapsets/2030991) ::{ flag=ID }:: ::Hinsvar::{ user=1249323 }によってホスト
   - (![][osu!]) [beignet - Mint Comet (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2031418) ::{ flag=ES }:: ::Nachmark::{ user=17584310 }によってホスト
   - (![][osu!mania]) [beignet - Maple Trick](https://osu.ppy.sh/beatmapsets/2032450) ::{ flag=ID }:: ::Ilham::{ user=3057154 }によってホスト
-  - (![][osu!]) [beignet - S'more](https://osu.ppy.sh/beatmapsets/2050540) ::{ flag=BA }:: ::Stompy\1::{ user=16429579 }によってホスト
+  - (![][osu!]) [beignet - S'more](https://osu.ppy.sh/beatmapsets/2050540) ::{ flag=BA }:: ::Stompy_::{ user=16429579 }によってホスト
 
 ### 9月
 
@@ -753,7 +753,7 @@ outdated_since: 7db101ba555502134cfcb73ccd205cb57716aa7c
 - **[Kou!](https://osu.ppy.sh/home/news/2023-10-07-new-featured-artist-kou)** (2023-10-07)
   - (![][osu!catch]) [Kou! - sub/zerO](https://osu.ppy.sh/beatmapsets/2069616) ::{ flag=HK }:: ::autofanboy::{ user=636114 }によってホスト
 - **[ColBreakz](https://osu.ppy.sh/home/news/2023-10-15-new-featured-artist-colbreakz)** (2023-10-15)
-  - (![][osu!]) [ColBreakz - 2011](https://osu.ppy.sh/beatmapsets/2074103) ::{ flag=HU }:: ::Nytrocide\1::{ user=11327918 }によってホスト
+  - (![][osu!]) [ColBreakz - 2011](https://osu.ppy.sh/beatmapsets/2074103) ::{ flag=HU }:: ::Nytrocide_::{ user=11327918 }によってホスト
   - (![][osu!mania]) [Protolizard & ColBreakz - Nevermind](https://osu.ppy.sh/beatmapsets/2072833) ::{ flag=ID }:: ::Ainer::{ user=13371424 }によってホスト
   - (![][osu!]) [ColBreakz & Vizzen - Remember](https://osu.ppy.sh/beatmapsets/2052201) ::{ flag=ID }:: ::Hinsvar::{ user=1249323 }によってホスト
 - **[Dustvoxx](https://osu.ppy.sh/home/news/2023-10-28-new-featured-artist-dustvoxx)** (2023-10-28)

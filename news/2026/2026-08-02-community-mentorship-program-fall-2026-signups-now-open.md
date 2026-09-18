@@ -67,7 +67,7 @@ You can find more information on these mentors — and apply to them — on the 
 | ::{ flag=NL }:: ::Linlime::{ user=14438535 } | UTC+2 |
 | ::{ flag=CN }:: ::V1do-::{ user=17527968 } | UTC+8 |
 | ::{ flag=HK }:: ::NineSey::{ user=25454675 } | UTC+8 |
-| ::{ flag=CN }:: ::\1Stan::{ user=1653229 } | UTC+8 |
+| ::{ flag=CN }:: ::_Stan::{ user=1653229 } | UTC+8 |
 | ::{ flag=CN }:: ::Carpihat::{ user=10085090 } | UTC+2 |
 | ::{ flag=NL }:: ::Muse Dash::{ user=13695676 } | UTC+2 |
 

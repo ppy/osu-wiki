@@ -497,7 +497,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[Raimukun](https://osu.ppy.sh/home/news/2022-03-12-new-featured-artist-raimukun)** (2022-03-12)
   - (![][osu!catch]) [Raimukun - Firmament star](https://osu.ppy.sh/beatmapsets/1633703#fruits/3360065) hosted by ::{ flag=PH }:: ::Jemzuu::{ user=7890134 }
 - **[Plum](https://osu.ppy.sh/home/news/2022-03-19-new-featured-artist-plum)** (2022-03-19)
-  - (![][osu!]) [Plum - Maelstrom](https://osu.ppy.sh/beatmapsets/1679690#osu/3493711) hosted by ::{ flag=KR }:: ::\1Epreus::{ user=7342798 }
+  - (![][osu!]) [Plum - Maelstrom](https://osu.ppy.sh/beatmapsets/1679690#osu/3493711) hosted by ::{ flag=KR }:: ::_Epreus::{ user=7342798 }
 - **[my sound life](https://osu.ppy.sh/home/news/2022-03-30-new-featured-artist-my-sound-life)** (2022-03-30)
   - (![][osu!]) [my sound life - omega](https://osu.ppy.sh/beatmapsets/1728309#osu/3538894) hosted by ::{ flag=US }:: ::Heroine::{ user=12727076 }
 
@@ -600,7 +600,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 ### October
 
 - **[Mono.](https://osu.ppy.sh/home/news/2022-10-01-new-featured-artist-mono)** (2022-10-01)
-  - (![][osu!]) [Mono. - ST4RDUST*XABER](https://osu.ppy.sh/beatmapsets/1810657#osu/3713836) hosted by ::{ flag=KR }:: ::\1Epreus::{ user=7342798 }
+  - (![][osu!]) [Mono. - ST4RDUST*XABER](https://osu.ppy.sh/beatmapsets/1810657#osu/3713836) hosted by ::{ flag=KR }:: ::_Epreus::{ user=7342798 }
 - **[Tokyo.MeltiMelt](https://osu.ppy.sh/home/news/2022-10-05-new-featured-artist-tokyo-meltimelt)** (2022-10-05)
   - (![][osu!]) [Tokyo.MeltiMelt - I ain't need my heart feat. Hatsuki Yura](https://osu.ppy.sh/beatmapsets/1800571#osu/3691442) hosted by ::{ flag=RU }:: ::SMOKELIND::{ user=9327302 }
   - (![][osu!]) [Tokyo.MeltiMelt - Virgin Mary feat. Sennzai](https://osu.ppy.sh/beatmapsets/1830770#osu/3757790) hosted by ::{ flag=PH }:: ::-Aqua::{ user=7150015 }
@@ -610,7 +610,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[GLORYHAMMER](https://osu.ppy.sh/home/news/2022-10-15-new-featured-artist-gloryhammer)** (2022-10-15)
   - (![][osu!]) [GLORYHAMMER - The Epic Rage of Furious Thunder](https://osu.ppy.sh/beatmapsets/1848202#osu/3796617) hosted by ::{ flag=TR }:: ::Nymphe::{ user=10507407 }
 - **[Hinkik](https://osu.ppy.sh/home/news/2022-10-26-new-featured-artist-hinkik)** (2022-10-26)
-  - (![][osu!]) [Hinkik - Explorers](https://osu.ppy.sh/beatmapsets/1861042#osu/3826149) hosted by ::{ flag=HU }:: ::Nytrocide\1::{ user=11327918 }
+  - (![][osu!]) [Hinkik - Explorers](https://osu.ppy.sh/beatmapsets/1861042#osu/3826149) hosted by ::{ flag=HU }:: ::Nytrocide_::{ user=11327918 }
 
 ### November
 
@@ -661,7 +661,7 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!mania]) [Cinamoro - Another](https://osu.ppy.sh/beatmapsets/1910036) hosted by ::{ flag=ID }:: ::FAMoss::{ user=7707789 }
   - (![][osu!]) [Cinamoro - Paleturquoise](https://osu.ppy.sh/beatmapsets/1874826) hosted by ::{ flag=DE }:: ::PaRaDogi::{ user=2054596 }
 - **[yaseta](https://osu.ppy.sh/home/news/2023-02-18-new-featured-artist-yaseta)** (2023-02-18)
-  - (![][osu!]) [yaseta - Dreamy Goat](https://osu.ppy.sh/beatmapsets/1917139) hosted by ::{ flag=HU }:: ::Nytrocide\1::{ user=11327918 }
+  - (![][osu!]) [yaseta - Dreamy Goat](https://osu.ppy.sh/beatmapsets/1917139) hosted by ::{ flag=HU }:: ::Nytrocide_::{ user=11327918 }
 - **[KASHIWA Daisuke](https://osu.ppy.sh/home/news/2023-02-22-new-featured-artist-kashiwa-daisuke)** (2023-02-22)
   - (![][osu!]) [KASHIWA Daisuke - Sacred Play Secret Place](https://osu.ppy.sh/beatmapsets/1908078) hosted by ::{ flag=RU }:: ::Daycore::{ user=5596337 }
 - **[Kabocha](https://osu.ppy.sh/home/news/2023-03-01-new-featured-artist-kabocha)** (2023-03-01)
@@ -700,7 +700,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[Junk](https://osu.ppy.sh/home/news/2023-06-17-new-featured-artist-junk)** (2023-06-17)
   - (![][osu!]) [Junk - Yellow Smile (bms edit)](https://osu.ppy.sh/beatmapsets/2010589) hosted by ::{ flag=RU }:: ::Daycore::{ user=5596337 }
   - (![][osu!catch]) [Junk - Yellow Smile (bms edit)](https://osu.ppy.sh/beatmapsets/2006758) hosted by ::{ flag=US }:: ::Secre::{ user=2306637 }
-  - (![][osu!taiko]) [Junk - Yellow Smile (bms edit)](https://osu.ppy.sh/beatmapsets/2010165) hosted by ::{ flag=AR }:: ::gaston\12199::{ user=5938161 }
+  - (![][osu!taiko]) [Junk - Yellow Smile (bms edit)](https://osu.ppy.sh/beatmapsets/2010165) hosted by ::{ flag=AR }:: ::gaston_2199::{ user=5938161 }
   - (![][osu!catch]) [Junk - Qualia](https://osu.ppy.sh/beatmapsets/2010010) hosted by ::{ flag=NL }:: ::Chatie::{ user=6524765 }
 - **[passchooo](https://osu.ppy.sh/home/news/2023-06-24-new-featured-artist-passchooo)** (2023-06-24)
   - (![][osu!]) [passchooo - chooo2023_1](https://osu.ppy.sh/beatmapsets/1981957) hosted by ::{ flag=RU }:: ::SMOKELIND::{ user=9327302 }
@@ -712,7 +712,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 ### July
 
 - **[Krimek](https://osu.ppy.sh/home/news/2023-07-08-new-featured-artist-krimek)** (2023-07-08)
-  - (![][osu!]) [Krimek feat. dokxid - Gravity Hole](https://osu.ppy.sh/beatmapsets/1983505) hosted by ::{ flag=HU }:: ::Nytrocide\1::{ user=11327918 }
+  - (![][osu!]) [Krimek feat. dokxid - Gravity Hole](https://osu.ppy.sh/beatmapsets/1983505) hosted by ::{ flag=HU }:: ::Nytrocide_::{ user=11327918 }
 - **[YUC'e](https://osu.ppy.sh/home/news/2023-07-15-new-featured-artist-yuce)** (2023-07-15)
   - (![][osu!taiko]) [YUC'e - Future Candy](https://osu.ppy.sh/beatmapsets/2006776) hosted by ::{ flag=AR }:: ::ZelLink::{ user=6752242 }
   - (![][osu!]) [YUC'e - SPACE INVADER](https://osu.ppy.sh/beatmapsets/2005892) hosted by ::{ flag=RU }:: ::SMOKELIND::{ user=9327302 }
@@ -733,7 +733,7 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!]) [beignet - Sign](https://osu.ppy.sh/beatmapsets/2030991) hosted by ::{ flag=ID }:: ::Hinsvar::{ user=1249323 }
   - (![][osu!]) [beignet - Mint Comet (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2031418) hosted by ::{ flag=ES }:: ::Nachmark::{ user=17584310 }
   - (![][osu!mania]) [beignet - Maple Trick](https://osu.ppy.sh/beatmapsets/2032450) hosted by ::{ flag=ID }:: ::Ilham::{ user=3057154 }
-  - (![][osu!]) [beignet - S'more](https://osu.ppy.sh/beatmapsets/2050540) hosted by ::{ flag=BA }:: ::Stompy\1::{ user=16429579 }
+  - (![][osu!]) [beignet - S'more](https://osu.ppy.sh/beatmapsets/2050540) hosted by ::{ flag=BA }:: ::Stompy_::{ user=16429579 }
 
 ### September
 
@@ -748,7 +748,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[Kou!](https://osu.ppy.sh/home/news/2023-10-07-new-featured-artist-kou)** (2023-10-07)
   - (![][osu!catch]) [Kou! - sub/zerO](https://osu.ppy.sh/beatmapsets/2069616) hosted by ::{ flag=HK }:: ::autofanboy::{ user=636114 }
 - **[ColBreakz](https://osu.ppy.sh/home/news/2023-10-15-new-featured-artist-colbreakz)** (2023-10-15)
-  - (![][osu!]) [ColBreakz - 2011](https://osu.ppy.sh/beatmapsets/2074103) hosted by ::{ flag=HU }:: ::Nytrocide\1::{ user=11327918 }
+  - (![][osu!]) [ColBreakz - 2011](https://osu.ppy.sh/beatmapsets/2074103) hosted by ::{ flag=HU }:: ::Nytrocide_::{ user=11327918 }
   - (![][osu!mania]) [Protolizard & ColBreakz - Nevermind](https://osu.ppy.sh/beatmapsets/2072833) hosted by ::{ flag=ID }:: ::Ainer::{ user=13371424 }
   - (![][osu!]) [ColBreakz & Vizzen - Remember](https://osu.ppy.sh/beatmapsets/2052201) hosted by ::{ flag=ID }:: ::Hinsvar::{ user=1249323 }
 - **[Dustvoxx](https://osu.ppy.sh/home/news/2023-10-28-new-featured-artist-dustvoxx)** (2023-10-28)
@@ -795,7 +795,7 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!]) [633397 - this evil was warranted](https://osu.ppy.sh/beatmapsets/2131700) hosted by ::{ flag=ID }:: ::Hinsvar::{ user=1249323 }
   - (![][osu!taiko]) [633397 - nothing can hurt you now. it's okay, don't worry](https://osu.ppy.sh/beatmapsets/2138377) hosted by ::{ flag=NL }:: ::ikin5050::{ user=4007649 }
   - (![][osu!taiko]) [633397 - run home](https://osu.ppy.sh/beatmapsets/2138818) hosted by ::{ flag=US }:: ::Alchyr::{ user=4993032 }
-  - (![][osu!taiko]) [633397 - i can't run anymore](https://osu.ppy.sh/beatmapsets/2134503) hosted by ::{ flag=SG }:: ::\1gt::{ user=8301957 }
+  - (![][osu!taiko]) [633397 - i can't run anymore](https://osu.ppy.sh/beatmapsets/2134503) hosted by ::{ flag=SG }:: ::_gt::{ user=8301957 }
 - **[Strelitzia](https://osu.ppy.sh/home/news/2024-05-26-new-featured-artist-strelitzia)** (2024-05-26)
   - (![][osu!]) [Strelitzia - This Bed Ain't Big Enough Fer The Two of Us](https://osu.ppy.sh/beatmapsets/2182598) hosted by ::{ flag=US }:: ::squirrelpascals::{ user=6151332 }
 
@@ -861,7 +861,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[WEARY](https://osu.ppy.sh/home/news/2025-02-22-new-featured-artist-weary)** (2025-02-22)
   - (![][osu!mania]) [WEARY & IlluminatedGalaxy - Journey](https://osu.ppy.sh/beatmapsets/2216028) hosted by ::{ flag=HK }:: ::Irone OSU::{ user=10678230 }
   - (![][osu!]) [WEARY x Revrey - Effulgence](https://osu.ppy.sh/beatmapsets/2234038) hosted by ::{ flag=CL }:: ::Cris-::{ user=6175280 }
-  - (![][osu!]) [Mega Collaboration - Starry Night (Extended Mix)](https://osu.ppy.sh/beatmapsets/2195040) hosted by ::{ flag=FI }:: ::P\1O::{ user=831979 }
+  - (![][osu!]) [Mega Collaboration - Starry Night (Extended Mix)](https://osu.ppy.sh/beatmapsets/2195040) hosted by ::{ flag=FI }:: ::P_O::{ user=831979 }
 
 ### March
 
@@ -878,7 +878,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[lexycat](https://osu.ppy.sh/home/news/2025-04-05-new-featured-artist-lexycat)** (2025-04-05)
   - (![][osu!taiko]) [lexycat - incision](https://osu.ppy.sh/beatmapsets/2208878) hosted by ::{ flag=IE }:: ::HEAVENLY MOON::{ user=13681283 }
   - (![][osu!taiko]) [lexycat - glitter *](https://osu.ppy.sh/beatmapsets/2300144) hosted by ::{ flag=HK }:: ::Irone OSU::{ user=10678230 }
-  - (![][osu!mania]) [lexycat - Abyssal Storm](https://osu.ppy.sh/beatmapsets/2285560) hosted by ::{ flag=TW }:: ::Usagi\1::{ user=16046205 }
+  - (![][osu!mania]) [lexycat - Abyssal Storm](https://osu.ppy.sh/beatmapsets/2285560) hosted by ::{ flag=TW }:: ::Usagi_::{ user=16046205 }
 - **[1zm8](https://osu.ppy.sh/home/news/2025-04-28-new-featured-artist-1zm8)** (2025-04-28)
   - (![][osu!]) [1zm8 - Beyond The Horizon](https://osu.ppy.sh/beatmapsets/2260556) hosted by ::{ flag=US }:: ::Wispy::{ user=11106929 }
   - (![][osu!taiko]) [1zm8 - IDEAL [SHIFT]](https://osu.ppy.sh/beatmapsets/2301094) hosted by ::{ flag=NL }:: ::ikin5050::{ user=4007649 }

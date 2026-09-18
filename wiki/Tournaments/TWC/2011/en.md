@@ -62,7 +62,7 @@ The Taiko World Cup 2011 was run by various community members.
 | ::{ flag=JP }:: | **Japan** | **::inaba9510::{ user=477744 }**, ::TTTL::{ user=164583 }, ::aruru1234::{ user=228812 }, ::03123456789::{ user=295488 } |
 | ::{ flag=KR }:: | **Korea A** | **::KRZY::{ user=114017 }**, ::BloodyLove::{ user=139827 }, ::Remilia-Scarlet::{ user=602783 }, ::\[Shalon\]::{ user=317802 } |
 | ::{ flag=KR }:: | **Korea B** | **::samiljul::{ user=156215 }**, ::Nyan::{ user=36102 }, ::kds7769::{ user=257977 }, ::Kim Jin Seok::{ user=58034 } |
-| ::{ flag=MY }:: | **Malaysia** | **::HeatKai::{ user=332555 }**, ::mekadon::{ user=157835 }, ::ffyong::{ user=168154 }, ::taiko\1maniac1811::{ user=595764 } |
+| ::{ flag=MY }:: | **Malaysia** | **::HeatKai::{ user=332555 }**, ::mekadon::{ user=157835 }, ::ffyong::{ user=168154 }, ::taiko_maniac1811::{ user=595764 } |
 | ::{ flag=PL }:: | **Poland** | **::1miko1::{ user=95690 }**, ::rEdo::{ user=49329 }, ::Acrith::{ user=389880 }, ::Niko-::{ user=175141 } |
 | ::{ flag=PH }:: | **Philippines** | **::blacksymbian::{ user=53956 }**, ::Zekira::{ user=36749 }, ::caelumangelus::{ user=710623 }, ::\[Zero\_One\]::{ user=347574 } |
 | ::{ flag=TW }:: | **Taiwan** | **::Numbers 596108::{ user=194653 }**, ::TW-KUMA01::{ user=244499 }, ::ISHIDAMITSUNARI::{ user=242910 }, ::zx0502442::{ user=457766 } |

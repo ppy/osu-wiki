@@ -45,10 +45,10 @@ COT 2022 организован различными членами сообще
 | Должность | Член(ы) |
 | :-- | :-- |
 | Организаторы | ::{ flag=UA }:: ::bernkastel feet::{ user=13681464 }, ::{ flag=RU }:: ::ThankYou::{ user=4571241 } |
-| Маппулеры | ::{ flag=UA }:: ::bernkastel feet::{ user=13681464 }, ::{ flag=RU }:: ::Xetopia::{ user=6689101 }, ::{ flag=RU }:: ::Rebbel::{ user=4595355 }, ::{ flag=RU }:: ::ThankYou::{ user=4571241 }, ::{ flag=RU }:: ::\1Insomnia::{ user=8928855 }, ::{ flag=CL }:: ::Pekorrat::{ user=1250096 } |
+| Маппулеры | ::{ flag=UA }:: ::bernkastel feet::{ user=13681464 }, ::{ flag=RU }:: ::Xetopia::{ user=6689101 }, ::{ flag=RU }:: ::Rebbel::{ user=4595355 }, ::{ flag=RU }:: ::ThankYou::{ user=4571241 }, ::{ flag=RU }:: ::_Insomnia::{ user=8928855 }, ::{ flag=CL }:: ::Pekorrat::{ user=1250096 } |
 | Стримеры | ::{ flag=RU }:: ::ThankYou::{ user=4571241 }, ::{ flag=UA }:: ::bernkastel feet::{ user=13681464 }, ::{ flag=RU }:: ::2zz::{ user=8201267 } |
-| Комментаторы | ::{ flag=RU }:: ::Nelly::{ user=4741164 }, ::{ flag=RU }:: ::\1Insomnia::{ user=8928855 }, ::{ flag=UA }:: ::bernkastel feet::{ user=13681464 }, ::{ flag=RU }:: ::ThankYou::{ user=4571241 } |
-| Рефери | ::{ flag=RU }:: ::\1Insomnia::{ user=8928855 }, ::{ flag=UA }:: ::bernkastel feet::{ user=13681464 }, ::{ flag=RU }:: ::2zz::{ user=8201267 }, ::{ flag=RU }:: ::MRX::{ user=10954753 }, ::{ flag=RU }:: ::ThankYou::{ user=4571241 } |
+| Комментаторы | ::{ flag=RU }:: ::Nelly::{ user=4741164 }, ::{ flag=RU }:: ::_Insomnia::{ user=8928855 }, ::{ flag=UA }:: ::bernkastel feet::{ user=13681464 }, ::{ flag=RU }:: ::ThankYou::{ user=4571241 } |
+| Рефери | ::{ flag=RU }:: ::_Insomnia::{ user=8928855 }, ::{ flag=UA }:: ::bernkastel feet::{ user=13681464 }, ::{ flag=RU }:: ::2zz::{ user=8201267 }, ::{ flag=RU }:: ::MRX::{ user=10954753 }, ::{ flag=RU }:: ::ThankYou::{ user=4571241 } |
 | Дизайнеры | ::{ flag=RU }:: ::ThankYou::{ user=4571241 }, ::{ flag=RU }:: ::2zz::{ user=8201267 } |
 | Редактор гугл-дока | ::{ flag=UA }:: ::bernkastel feet::{ user=13681464 } |
 | Редактор вики | ::{ flag=RU }:: ::Nelly::{ user=4741164 } |
@@ -66,7 +66,7 @@ COT 2022 организован различными членами сообще
 | Сид | Участники |
 | :-: | :-- |
 | 1-8 | ::{ flag=RU }:: ::KitsunIvy::{ user=7055384 }, ::{ flag=RU }:: ::Nelly::{ user=4741164 }, ::{ flag=UA }:: ::FruktoLove::{ user=8417087 }, ::{ flag=RU }:: ::Memoriola::{ user=6856387 }, ::{ flag=RU }:: ::vafara::{ user=18917363 }, ::{ flag=RU }:: ::cosilgam::{ user=15960747 }, ::{ flag=RU }:: ::dark rainbow::{ user=10557830 }, ::{ flag=RU }:: ::BocDyx::{ user=7926192 } |
-| 9-24 | ::{ flag=RU }:: ::Kenny331::{ user=11534285 }, ::{ flag=UA }:: ::\1-Nyaruko-\1::{ user=13712671 }, ::{ flag=LV }:: ::Soruki::{ user=11762423 }, ::{ flag=RU }:: ::yuinn::{ user=11239593 }, ::{ flag=UA }:: ::Shadowbolts1::{ user=13962882 }, ::{ flag=UA }:: ::Violet Feets::{ user=15558360 }, ::{ flag=RU }:: ::Mazuki::{ user=15208771 }, ::{ flag=RU }:: ::mirofantasm::{ user=6650048 }, ::{ flag=RU }:: ::catch the ExGon::{ user=12081746 }, ::{ flag=RU }:: ::liquid\1boba::{ user=11694783 }, ::{ flag=RU }:: ::vinnikoish::{ user=14509580 }, ::{ flag=UA }:: ::NamakemonsteR::{ user=17314832 }, ::{ flag=LV }:: ::oFKors01::{ user=26522965 }, ::{ flag=RU }:: ::yoraze::{ user=18240388 }, ::{ flag=RU }:: ::PedobeerKoroche::{ user=19389015 }, ::{ flag=RU }:: ::HAWAIIPIZZA::{ user=17668833 } |
+| 9-24 | ::{ flag=RU }:: ::Kenny331::{ user=11534285 }, ::{ flag=UA }:: ::[-Nyaruko-]::{ user=13712671 }, ::{ flag=LV }:: ::Soruki::{ user=11762423 }, ::{ flag=RU }:: ::yuinn::{ user=11239593 }, ::{ flag=UA }:: ::Shadowbolts1::{ user=13962882 }, ::{ flag=UA }:: ::Violet Feets::{ user=15558360 }, ::{ flag=RU }:: ::Mazuki::{ user=15208771 }, ::{ flag=RU }:: ::mirofantasm::{ user=6650048 }, ::{ flag=RU }:: ::catch the ExGon::{ user=12081746 }, ::{ flag=RU }:: ::liquid_boba::{ user=11694783 }, ::{ flag=RU }:: ::vinnikoish::{ user=14509580 }, ::{ flag=UA }:: ::NamakemonsteR::{ user=17314832 }, ::{ flag=LV }:: ::oFKors01::{ user=26522965 }, ::{ flag=RU }:: ::yoraze::{ user=18240388 }, ::{ flag=RU }:: ::PedobeerKoroche::{ user=19389015 }, ::{ flag=RU }:: ::HAWAIIPIZZA::{ user=17668833 } |
 
 Полный список участников есть в гугл-доке в разделе [Игроки](https://docs.google.com/spreadsheets/d/1iie_zXj1GbS_Sx4MyWdGOYD9raofZ46uomMbVW6wm48/edit#gid=749874175).
 
@@ -309,7 +309,7 @@ COT 2022 организован различными членами сообще
 | Верхняя | **::Memoriola::{ user=6856387 }** ::{ flag=RU }:: | **5** | 2 | ::{ flag=RU }:: ::vafara::{ user=18917363 } | [#1](https://osu.ppy.sh/community/matches/97954212) |
 | Нижняя | **::Violet Feets::{ user=15558360 }** ::{ flag=UA }:: | **5** | 0 | ::{ flag=RU }:: ::HAWAIIPIZZA::{ user=17668833 } | *выигран по умолчанию* |
 | Нижняя | **::BocDyx::{ user=7926192 }** ::{ flag=RU }:: | **5** | 0 | ::{ flag=RU }:: ::vinnikoish::{ user=14509580 } | *выигран по умолчанию* |
-| Нижняя | **::yuinn::{ user=11239593 }** ::{ flag=RU }:: | **5** | 0 | ::{ flag=RU }:: ::liquid\1boba::{ user=11694783 } | [#1](https://osu.ppy.sh/community/matches/97947507) |
+| Нижняя | **::yuinn::{ user=11239593 }** ::{ flag=RU }:: | **5** | 0 | ::{ flag=RU }:: ::liquid_boba::{ user=11694783 } | [#1](https://osu.ppy.sh/community/matches/97947507) |
 | Нижняя | **::Soruki::{ user=11762423 }** ::{ flag=LV }:: | **5** | 3 | ::{ flag=RU }:: ::mirofantasm::{ user=6650048 } | [#1](https://osu.ppy.sh/community/matches/97949231) |
 | Нижняя | **::dark rainbow::{ user=10557830 }** ::{ flag=RU }:: | **5** | 0 | ::{ flag=UA }:: ::NamakemonsteR::{ user=17314832 } | [#1](https://osu.ppy.sh/community/matches/97952023) |
 | Нижняя | **::catch the ExGon::{ user=12081746 }** ::{ flag=RU }:: | **5** | 0 | ::{ flag=RU }:: ::yoraze::{ user=18240388 } | [#1](https://osu.ppy.sh/community/matches/97953952) |
@@ -345,7 +345,7 @@ COT 2022 организован различными членами сообще
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Верхняя | **::FruktoLove::{ user=8417087 }** ::{ flag=UA }:: | **5** | 0 | ::{ flag=UA }:: ::Violet Feets::{ user=15558360 } | [#1](https://osu.ppy.sh/community/matches/97736110) |
 | Верхняя | **::KitsunIvy::{ user=7055384 }** ::{ flag=RU }:: | **5** | 0 | ::{ flag=RU }:: ::catch the ExGon::{ user=12081746 } | [#1](https://osu.ppy.sh/community/matches/97738074) |
-| Верхняя | ::dark rainbow::{ user=10557830 } ::{ flag=RU }:: | 0 | **5** | ::{ flag=UA }:: **::\1-Nyaruko-\1::{ user=13712671 }** | [#1](https://osu.ppy.sh/community/matches/97740096) |
+| Верхняя | ::dark rainbow::{ user=10557830 } ::{ flag=RU }:: | 0 | **5** | ::{ flag=UA }:: **::[-Nyaruko-]::{ user=13712671 }** | [#1](https://osu.ppy.sh/community/matches/97740096) |
 | Верхняя | **::Nelly::{ user=4741164 }** ::{ flag=RU }:: | **5** | 0 | ::{ flag=RU }:: ::Mazuki::{ user=15208771 } | [#1](https://osu.ppy.sh/community/matches/97741940) |
 
 ### Отборочный этап
@@ -357,7 +357,7 @@ COT 2022 организован различными членами сообще
 | Верхняя | **::Violet Feets::{ user=15558360 }** ::{ flag=UA }:: | **5** | 2 | ::{ flag=RU }:: ::vinnikoish::{ user=14509580 } | [#1](https://osu.ppy.sh/community/matches/97417909) |
 | Верхняя | **::Kenny331::{ user=11534285 }** ::{ flag=RU }:: | **5** | 0 | ::{ flag=RU }:: ::HAWAIIPIZZA::{ user=17668833 } | *выигран по умолчанию* |
 | Верхняя | ::mirofantasm::{ user=6650048 } ::{ flag=RU }:: | 1 | **5** | ::{ flag=RU }:: **::catch the ExGon::{ user=12081746 }** | [#1](https://osu.ppy.sh/community/matches/97425915) |
-| Верхняя | **::\1-Nyaruko-\1::{ user=13712671 }** ::{ flag=UA }:: | **5** | 1 | ::{ flag=RU }:: ::PedobeerKoroche::{ user=19389015 } | [#1](https://osu.ppy.sh/community/matches/97428394) |
+| Верхняя | **::[-Nyaruko-]::{ user=13712671 }** ::{ flag=UA }:: | **5** | 1 | ::{ flag=RU }:: ::PedobeerKoroche::{ user=19389015 } | [#1](https://osu.ppy.sh/community/matches/97428394) |
 
 Воскресенье, 6 Февраля 2022:
 
@@ -366,7 +366,7 @@ COT 2022 организован различными членами сообще
 | Верхняя | **::Shadowbolts1::{ user=13962882 }** ::{ flag=UA }:: | **5** | 3 | ::{ flag=UA }:: ::NamakemonsteR::{ user=17314832 } | [#1](https://osu.ppy.sh/community/matches/97464444) |
 | Верхняя | **::yuinn::{ user=11239593 }** ::{ flag=RU }:: | **5** | 0 | ::{ flag=LV }:: ::oFKors01::{ user=26522965 } | [#1](https://osu.ppy.sh/community/matches/97468931) |
 | Верхняя | **::Soruki::{ user=11762423 }** ::{ flag=LV }:: | **5** | 0 | ::{ flag=RU }:: ::yoraze::{ user=18240388 } | [#1](https://osu.ppy.sh/community/matches/97470519) |
-| Верхняя | **::Mazuki::{ user=15208771 }** ::{ flag=RU }:: | **5** | 2 | ::{ flag=RU }:: ::liquid\1boba::{ user=11694783 } | [#1](https://osu.ppy.sh/community/matches/97472770) |
+| Верхняя | **::Mazuki::{ user=15208771 }** ::{ flag=RU }:: | **5** | 2 | ::{ flag=RU }:: ::liquid_boba::{ user=11694783 } | [#1](https://osu.ppy.sh/community/matches/97472770) |
 
 ### Предварительный этап
 

@@ -43,7 +43,7 @@ CIC 2020 was run by various osu! community members predominantly hailing from In
 | Host | ::{ flag=ID }:: ::xHirayuki::{ user=3245206 }, ::{ flag=ID }:: ::CamXDanna::{ user=3243148 }, ::{ flag=ID }:: ::Eum::{ user=16552751 }, ::{ flag=ID }:: ::Kazuyo::{ user=5604201 } |
 | Mappool selector | ::{ flag=ID }:: ::mirza\_rachman18::{ user=2985335 }, ::{ flag=ID }:: ::-Hex-::{ user=8630988 }, ::{ flag=ID }:: ::Dapuluous::{ user=8140944 } |
 | Streamer | ::{ flag=TW }:: ::XzCraftP::{ user=1593180 }, ::{ flag=ID }:: ::wiam103::{ user=4109839 }, ::{ flag=ID }:: ::Victim\_Crasher::{ user=2084869 } |
-| Commentator | ::{ flag=ID }:: ::xHirayuki::{ user=3245206 }, ::{ flag=ID }:: ::CamXDanna::{ user=3243148 }, ::{ flag=ID }:: ::-Hex-::{ user=8630988 }, ::{ flag=ID }:: ::Victim\1Crasher::{ user=2084869 }, ::{ flag=ID }:: ::Niva::{ user=197805 }, ::{ flag=ID }:: ::Shiviaren::{ user=3429259 }, ::{ flag=ID }:: ::Swirfly::{ user=5164134 }, ::{ flag=ID }:: ::Feeqzo::{ user=16779488 },  ::{ flag=ID }:: ::Shurelia::{ user=3807986 }, ::{ flag=ID }:: ::Yuri-::{ user=4983719 }, ::{ flag=ID }:: ::Juragan\1Piscok1::{ user=15507280 } |
+| Commentator | ::{ flag=ID }:: ::xHirayuki::{ user=3245206 }, ::{ flag=ID }:: ::CamXDanna::{ user=3243148 }, ::{ flag=ID }:: ::-Hex-::{ user=8630988 }, ::{ flag=ID }:: ::Victim_Crasher::{ user=2084869 }, ::{ flag=ID }:: ::Niva::{ user=197805 }, ::{ flag=ID }:: ::Shiviaren::{ user=3429259 }, ::{ flag=ID }:: ::Swirfly::{ user=5164134 }, ::{ flag=ID }:: ::Feeqzo::{ user=16779488 },  ::{ flag=ID }:: ::Shurelia::{ user=3807986 }, ::{ flag=ID }:: ::Yuri-::{ user=4983719 }, ::{ flag=ID }:: ::Juragan_Piscok1::{ user=15507280 } |
 | Referee | ::{ flag=ID }:: ::xHirayuki::{ user=3245206 }, ::{ flag=ID }:: ::-Hex-::{ user=8630988 }, ::{ flag=ID }:: ::Dapuluous::{ user=8140944 }, ::{ flag=ID }:: ::mina-::{ user=4670692 }, ::{ flag=ID }:: ::Avoya::{ user=3136817 }, ::{ flag=ID }:: ::Niva::{ user=197805 }, ::{ flag=ID }:: ::Yuina Hotaru::{ user=1104256 },  ::{ flag=ID }:: ::- Ruu -::{ user=3811821 }, ::{ flag=ID }:: ::Koimeji::{ user=4137039 }, ::{ flag=ID }:: ::Execration-::{ user=9260926 }, ::{ flag=ID }:: ::Valskiel::{ user=1254639 } |
 | Graphic designer | ::{ flag=ID }:: ::mina-::{ user=4670692 }, ::{ flag=ID }:: ::Avoya::{ user=3136817 } |
 | Spreadsheet manager | ::{ flag=ID }:: ::Kazuyo::{ user=5604201 } |
@@ -276,14 +276,14 @@ Friday, 14 August 2020:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **::Netamaru::{ user=1830361 }** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: ::-Man::{ user=2128050 } | [#1](https://osu.ppy.sh/community/matches/65411706) |
 | Upper | ::Sololiquy::{ user=4350087 } ::{ flag=ID }:: | 2 | **5** | ::{ flag=ID }:: **::dika312::{ user=741613 }** | [#1](https://osu.ppy.sh/community/matches/65413814) |
-| Upper | ::ZYX\1GAME::{ user=3770612 } ::{ flag=ID }:: | 0 | **5** | ::{ flag=ID }:: **::Galaxi::{ user=2552435 }** | [#1](https://osu.ppy.sh/community/matches/65415556) |
+| Upper | ::ZYX_GAME::{ user=3770612 } ::{ flag=ID }:: | 0 | **5** | ::{ flag=ID }:: **::Galaxi::{ user=2552435 }** | [#1](https://osu.ppy.sh/community/matches/65415556) |
 
 Saturday, 15 August 2020:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | **::Sololiquy::{ user=4350087 }** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: ::Minalinsky-::{ user=2823883 } | [#1](https://osu.ppy.sh/community/matches/65457433) |
-| Lower | ::ZYX\1GAME::{ user=3770612 } ::{ flag=ID }:: | 0 | **5** | ::{ flag=ID }:: **::Keiji Subarashi::{ user=3856673 }** | [#1](https://osu.ppy.sh/community/matches/65460189) |
+| Lower | ::ZYX_GAME::{ user=3770612 } ::{ flag=ID }:: | 0 | **5** | ::{ flag=ID }:: **::Keiji Subarashi::{ user=3856673 }** | [#1](https://osu.ppy.sh/community/matches/65460189) |
 | Lower | ::ilhamuharam::{ user=7657968 } ::{ flag=ID }:: | 0 | **5** | ::{ flag=ID }:: **::El SolarBeam::{ user=1074710 }** | [#1](https://osu.ppy.sh/community/matches/65462377) |
 
 Sunday, 16 August 2020:
@@ -311,7 +311,7 @@ Saturday, 8 August 2020:
 | Upper | ::El SolarBeam::{ user=1074710 } ::{ flag=ID }:: | 0 | **5** | ::{ flag=ID }:: **::LeWind::{ user=9718235 }** | [#1](https://osu.ppy.sh/community/matches/65146689) |
 | Upper | ::Keiji Subarashi::{ user=3856673 } ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **::Galaxi::{ user=2552435 }** | [#1](https://osu.ppy.sh/community/matches/65148074) |
 | Upper | ::Intention::{ user=3416858 } ::{ flag=ID }:: | 3 | **5** | ::{ flag=ID }:: **::Ilhamuharam::{ user=7657968 }** | [#1](https://osu.ppy.sh/community/matches/65151098) |
-| Upper | **::ZYX\1GAME::{ user=3770612 }** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: ::Shurelia::{ user=3807986 } | [#1](https://osu.ppy.sh/community/matches/65157169) |
+| Upper | **::ZYX_GAME::{ user=3770612 }** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: ::Shurelia::{ user=3807986 } | [#1](https://osu.ppy.sh/community/matches/65157169) |
 
 Sunday, 9 August 2020:
 

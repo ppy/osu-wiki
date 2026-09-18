@@ -77,7 +77,7 @@ Chirou contemplates what hands are for the **1881**th time in ::**Saaki Haruno**
 
 [![](https://assets.ppy.sh/contests/82/banners/llNaokill.jpg)](https://assets.ppy.sh/contests/82/winners/llNaokill.png)
 
-**1741** voters adored ::**ln\1094**::{ user=7755095 }'s take on a whole new meaning of starry, sporting a most cute winter-dressed pippi enjoying the scenery of a nearly astral field of white petals and stars.
+**1741** voters adored ::**ln_094**::{ user=7755095 }'s take on a whole new meaning of starry, sporting a most cute winter-dressed pippi enjoying the scenery of a nearly astral field of white petals and stars.
 
 This one really opens up the longer you look at it. Spectacular skies, outfit and setting to boot. Beautiful stuff!
 
@@ -93,7 +93,7 @@ So pleasantly textured and with detail literally everywhere, from pippi's hair t
 
 [![](https://assets.ppy.sh/contests/82/banners/honeymoon_3.jpg)](https://assets.ppy.sh/contests/82/winners/honeymoon_3.png)
 
-**1481** little voter-orbs lit up in the strand of festive lights twined about ::**honeymoon\13**::{ user=12677032 }'s rendition of Mocha and pippi enjoying the wintery cityscape in floral Japanese traditional attire.
+**1481** little voter-orbs lit up in the strand of festive lights twined about ::**honeymoon_3**::{ user=12677032 }'s rendition of Mocha and pippi enjoying the wintery cityscape in floral Japanese traditional attire.
 
 Almost makes you wonder what flowers would go with each mascot.
 

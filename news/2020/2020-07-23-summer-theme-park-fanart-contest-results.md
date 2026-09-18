@@ -87,7 +87,7 @@ It has been far, far too long since we've had a chibi-stylled entry. Moar!
 
 [![](https://assets.ppy.sh/contests/107/banners/Boom_Beatz123.jpg)](https://assets.ppy.sh/contests/107/winners/Boom_Beatz123.png)
 
-::**Boom\1Beatz123**::{ user=6358726 } took fantasy palettes to the next level and won the attention of **2791** voters with their smiling pippi set to a backdrop of festival lights and a candy-coloured ferris wheel.
+::**Boom_Beatz123**::{ user=6358726 } took fantasy palettes to the next level and won the attention of **2791** voters with their smiling pippi set to a backdrop of festival lights and a candy-coloured ferris wheel.
 
 [![](https://assets.ppy.sh/contests/107/banners/VoidSynatic.jpg)](https://assets.ppy.sh/contests/107/winners/VoidSynatic.png)
 

@@ -39,7 +39,7 @@ The 112's Summer Tournament 2019 was run by various community members.
 | :-- | :-- |
 | Organizer | ::{ flag=TR }:: ::112servis::{ user=3953470 }, ::{ flag=TR }:: ::heyronii::{ user=5642779 }, ::{ flag=TR }:: ::Sibyl::{ user=10440852 } |
 | Mappool selector | ::{ flag=TR }:: ::112servis::{ user=3953470 }, ::{ flag=TR }:: ::heyronii::{ user=5642779 }, ::{ flag=TH }:: ::Seaweed::{ user=5151214 }, ::{ flag=TR }:: ::sentez::{ user=8816305 } |
-| Referee | ::{ flag=TR }:: ::112servis::{ user=3953470 }, ::{ flag=TR }:: ::Entry::{ user=10213311 }, ::{ flag=TR }:: ::heyronii::{ user=5642779 }, ::{ flag=NL }:: ::goeo\1::{ user=6832107 }, ::{ flag=TR }:: ::LeBoum::{ user=8700026 }, ::{ flag=TR }:: ::oralekin::{ user=7631823 }, ::{ flag=TR }:: ::ozge1907::{ user=6511453 }, ::{ flag=PL }:: ::P a t r i c k::{ user=6814521 } |
+| Referee | ::{ flag=TR }:: ::112servis::{ user=3953470 }, ::{ flag=TR }:: ::Entry::{ user=10213311 }, ::{ flag=TR }:: ::heyronii::{ user=5642779 }, ::{ flag=NL }:: ::goeo_::{ user=6832107 }, ::{ flag=TR }:: ::LeBoum::{ user=8700026 }, ::{ flag=TR }:: ::oralekin::{ user=7631823 }, ::{ flag=TR }:: ::ozge1907::{ user=6511453 }, ::{ flag=PL }:: ::P a t r i c k::{ user=6814521 } |
 | Streamer | ::{ flag=TR }:: ::heyronii::{ user=5642779 }, ::{ flag=NL }:: ::goeo\_::{ user=6832107 }, ::{ flag=TR }:: ::pyth0nix::{ user=10922849 } |
 | Commentator | ::{ flag=TR }:: ::112servis::{ user=3953470 }, ::{ flag=TR }:: ::bigbirb-::{ user=11285985 }, ::{ flag=TR }:: ::Ekin::{ user=2947405 }, ::{ flag=TR }:: ::heyronii::{ user=5642779 }, ::{ flag=TR }:: ::Lxran::{ user=3651081 }, ::{ flag=TR }:: ::mezelyus::{ user=5938859 }, ::{ flag=NL }:: ::goeo\_::{ user=6832107 } |
 | Designer | ::{ flag=TR }:: ::Sibyl::{ user=10440852 } |
@@ -92,7 +92,7 @@ The 112's Summer Tournament 2019 was run by various community members.
 | #3 | ::{ flag=TR }:: ::Fequin::{ user=11665593 } | 3.6 |
 | #4 | ::{ flag=TR }:: ::Tsuda-::{ user=6713666 } | 4.8 |
 | #5 | ::{ flag=TR }:: ::tingirmin::{ user=9027514 } | 5.4 |
-| #6 | ::{ flag=TR }:: ::Purple\1Glasses::{ user=9045874 } | 6 |
+| #6 | ::{ flag=TR }:: ::Purple_Glasses::{ user=9045874 } | 6 |
 | #7 | ::{ flag=TR }:: ::withmystyle::{ user=7953720 } | 8.2 |
 | #8 | ::{ flag=TR }:: ::empirasu::{ user=12500084 } | 9 |
 | #9 | ::{ flag=TR }:: ::emptypudding::{ user=11003085 } | 9.4 |

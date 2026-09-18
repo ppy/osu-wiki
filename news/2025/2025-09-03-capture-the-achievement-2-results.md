@@ -47,7 +47,7 @@ Congratulations to the top 3 teams! You'll find the full point breakdown of poin
 | ::- joshh::{ user=17957276 } | 1317 | 17 | 39 |
 | ::Skrub::{ user=10306849 } | 1075 | 12 | 44 |
 | ::brandwagen::{ user=13925852 } | 915 | 12 | 47 |
-| ::Lunar\1::{ user=13688990 } | 582 | 7 | 78 |
+| ::Lunar_::{ user=13688990 } | 582 | 7 | 78 |
 
 ### 3rd place: team "osu!friends"
 

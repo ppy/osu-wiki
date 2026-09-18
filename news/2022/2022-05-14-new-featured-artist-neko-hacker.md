@@ -31,7 +31,7 @@ Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1430569)
 
 ### Erased feat. YuNi
 
-Try out [this 4K and 7K osu!mania mapset](https://osu.ppy.sh/beatmapsets/1505746) hosted by ::Critical\1Star::{ user=3793196 }!
+Try out [this 4K and 7K osu!mania mapset](https://osu.ppy.sh/beatmapsets/1505746) hosted by ::Critical_Star::{ user=3793196 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/266/Neko%20Hacker%2FNeko%20Hacker%20-%20Erased%20feat.%20YuNi.mp3" type="audio/mpeg">

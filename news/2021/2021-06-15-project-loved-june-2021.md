@@ -134,7 +134,7 @@ We often feature tons of tech maps that are on the higher end when it comes to B
 
 [![](/wiki/shared/news/2021-06-15-project-loved-june-2021/1325343.jpg)](https://osu.ppy.sh/community/forums/topics/1349311)
 
-[Camellia feat. Nanahira - Mathematics MA+MA = Magic! (Long Ver!)](https://osu.ppy.sh/beatmapsets/1325343#taiko) by ::Shamirin\1mzk::{ user=11325757 }\
+[Camellia feat. Nanahira - Mathematics MA+MA = Magic! (Long Ver!)](https://osu.ppy.sh/beatmapsets/1325343#taiko) by ::Shamirin_mzk::{ user=11325757 }\
 192 BPM, 3:50 | 6.52★\
 *description written by ::X a v y::{ user=3738344 }*
 

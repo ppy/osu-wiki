@@ -27,7 +27,7 @@ The playtester's pick and top 5 beatmaps were showcased during the [results anno
 | :-- | :-- |
 | Host | ::{ flag=ID }:: ::Ilham::{ user=3057154 }, ::{ flag=AU }:: ::fvrex::{ user=11863699 } |
 | Designer | ::{ flag=ID }:: ::kim hyunjin::{ user=9456733 } |
-| Playtester | ::{ flag=ID }:: ::\1yea::{ user=20834055 } |
+| Playtester | ::{ flag=ID }:: ::_yea::{ user=20834055 } |
 | Judge | ::{ flag=PH }:: ::Hytex::{ user=8536263 }, ::{ flag=ID }:: ::Maxus::{ user=4335785 }, ::{ flag=US }:: ::Monoseul::{ user=16010604 }, ::{ flag=KR }:: ::secXcscX::{ user=13543418 } |
 
 ## Prizes

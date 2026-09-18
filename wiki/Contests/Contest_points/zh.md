@@ -74,7 +74,7 @@ outdated_since: f28564ba6724e5d56cf38e617cc8febd4f232aea
 | ::{ flag=CN }:: ::Ryuusei Aika::{ user=7777875 } | 2 | [PDC 2024](/wiki/Contests/PDC/2024) |
 | ::{ flag=ID }:: ::William K::{ user=2261651 } | 2 | [PDC 2024](/wiki/Contests/PDC/2024) |
 | ::{ flag=KR }:: ::Beomsan::{ user=3626063 } | 2 | [o!bwc 2025](/wiki/Contests/o!bwc/4) |
-| ::{ flag=KR }:: ::milr\1::{ user=4485933 } | 2 | [o!bwc 2025](/wiki/Contests/o!bwc/4) |
+| ::{ flag=KR }:: ::milr_::{ user=4485933 } | 2 | [o!bwc 2025](/wiki/Contests/o!bwc/4) |
 | ::{ flag=KR }:: ::Taeyang::{ user=2732340 } | 2 | [o!bwc 2025](/wiki/Contests/o!bwc/4) |
 | ::{ flag=PT }:: ::amongusrtx30080::{ user=27476898 } | 1 | [SMC2](https://osu.ppy.sh/community/forums/topics/2091339) |
 | ::{ flag=CN }:: ::Moecho::{ user=5075660 } | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
@@ -86,7 +86,7 @@ outdated_since: f28564ba6724e5d56cf38e617cc8febd4f232aea
 | ::{ flag=DE }:: ::Lasse::{ user=896613 } | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=PH }:: ::LeCandy::{ user=6626249 } | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=US }:: ::Nuolong::{ user=4732455 } | 1 | [VMC2](/wiki/Contests/VMC/2) |
-| ::{ flag=US }:: ::mintIceCream\1::{ user=13221589 } | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=US }:: ::mintIceCream_::{ user=13221589 } | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=CL }:: ::\[-Evil-\]::{ user=10234313 } | 1 | [Kyoku 2024](/wiki/Contests/Kyoku/2024) |
 | ::{ flag=CL }:: ::Mysty::{ user=10210657 } | 1 | [Kyoku 2024](/wiki/Contests/Kyoku/2024) |
 | ::{ flag=DE }:: ::Le Mirai::{ user=13646997 } | 1 | [Kyoku 2024](/wiki/Contests/Kyoku/2024) |
@@ -111,7 +111,7 @@ outdated_since: f28564ba6724e5d56cf38e617cc8febd4f232aea
 | 谱师 | 点数 | 竞赛 |
 | :-- | :-- | :-- |
 | ::{ flag=JP }:: ::**uone**::{ user=5321719 } | **9** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (4), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2), [TMWC](/wiki/Contests/TMWC) (2), [VMC2](/wiki/Contests/VMC/2) (1) |
-| ::{ flag=SG }:: ::**\1gt**::{ user=8301957 } | **9** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (5), [o!tFAC](/wiki/Contests/o!tFAC) (2), [MGTS 2025](/wiki/Contests/MGTS/2025) (2) |
+| ::{ flag=SG }:: ::**_gt**::{ user=8301957 } | **9** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (5), [o!tFAC](/wiki/Contests/o!tFAC) (2), [MGTS 2025](/wiki/Contests/MGTS/2025) (2) |
 | ::{ flag=JP }:: ::**-Kazuha**::{ user=29978316 } | **7** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (5), [TMWC](/wiki/Contests/TMWC) (2) |
 | ::{ flag=TH }:: ::**Ph0eNiiXZ**::{ user=9463721 } | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (3), [o!tFAC](/wiki/Contests/o!tFAC) (3) |
 | ::{ flag=TH }:: ::Kusuhara Yui::{ user=9582525 } | 5 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (2), [o!tFAC](/wiki/Contests/o!tFAC) (3) |
@@ -129,7 +129,7 @@ outdated_since: f28564ba6724e5d56cf38e617cc8febd4f232aea
 | ::{ flag=SG }:: ::arcpotato::{ user=12842392 } | 2 | [o!tFAC](/wiki/Contests/o!tFAC) |
 | ::{ flag=GB }:: ::Horiiizon::{ user=8071438 } | 2 | [o!tFAC](/wiki/Contests/o!tFAC) (1), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (1) |
 | ::{ flag=KR }:: ::ZTH::{ user=5258461 } | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
-| ::{ flag=JP }:: ::\1Rise::{ user=5217107 } | 2 | [TMWC](/wiki/Contests/TMWC) |
+| ::{ flag=JP }:: ::_Rise::{ user=5217107 } | 2 | [TMWC](/wiki/Contests/TMWC) |
 | ::{ flag=JP }:: ::uranosu1030::{ user=9029238 } | 2 | [TMWC](/wiki/Contests/TMWC) |
 | ::{ flag=PL }:: ::Paraxia::{ user=14001000 } | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=BR }:: ::Doug::{ user=13806900 } | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
@@ -150,7 +150,7 @@ outdated_since: f28564ba6724e5d56cf38e617cc8febd4f232aea
 
 | 谱师 | 点数 | 竞赛 |
 | :-- | :-- | :-- |
-| ::{ flag=CA }:: ::**Unlucky\1w**::{ user=4820793 } | **11** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=CA }:: ::**Unlucky_w**::{ user=4820793 } | **11** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=PH }:: ::**Jemzuu**::{ user=7890134 } | **7** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (5), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2) |
 | ::{ flag=HK }:: ::autofanboy::{ user=636114 } | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (2), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (1) |
 | ::{ flag=SG }:: ::Xinnoh::{ user=4236057 } | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |

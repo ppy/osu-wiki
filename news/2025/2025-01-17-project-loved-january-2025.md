@@ -81,7 +81,7 @@ With a 150,000+ play count and 200+ favourites, this set undoubtedly deserves a 
 
 [![](/wiki/shared/news/2025-01-17-project-loved-january-2025/247170.jpg)](https://osu.ppy.sh/community/forums/topics/2028685)
 
-[Fleshgod Apocalypse - Warpledge](https://osu.ppy.sh/beatmapsets/247170#osu) by ::koki\1old\11::{ user=846235 }\
+[Fleshgod Apocalypse - Warpledge](https://osu.ppy.sh/beatmapsets/247170#osu) by ::koki_old_1::{ user=846235 }\
 247.51 BPM, 4:21 | 7.31★\
 *description written by ::Aistre::{ user=4879380 }*
 
@@ -94,7 +94,7 @@ With a 150,000+ play count and 200+ favourites, this set undoubtedly deserves a 
 
 ["Yes, Doomsday," they say in unison.](https://www.youtube.com/watch?v=o-Vqslk6UhE)
 
-The first *Outstanding Oldies* pick of the month is [Fleshgod Apocalypse - Warpledge](https://osu.ppy.sh/beatmapsets/247170#osu/569113) by ::koki\1old\11::{ user=846235 } (also known as lovu). As demonstrated in Doomsday's 2015 stamina masterclass, this map is a fantastic way to challenge your high-BPM stamina. If you think you're up to the challenge of four minutes of nonstop streams, be sure to give this one a try and cast your vote!
+The first *Outstanding Oldies* pick of the month is [Fleshgod Apocalypse - Warpledge](https://osu.ppy.sh/beatmapsets/247170#osu/569113) by ::koki_old_1::{ user=846235 } (also known as lovu). As demonstrated in Doomsday's 2015 stamina masterclass, this map is a fantastic way to challenge your high-BPM stamina. If you think you're up to the challenge of four minutes of nonstop streams, be sure to give this one a try and cast your vote!
 
 [![](/wiki/shared/news/2025-01-17-project-loved-january-2025/2028305.jpg)](https://osu.ppy.sh/community/forums/topics/2028684)
 
@@ -550,7 +550,7 @@ Enough of my talking. Go vote.
 
 [![](/wiki/shared/news/2025-01-17-project-loved-january-2025/901870.jpg)](https://osu.ppy.sh/community/forums/topics/2028661)
 
-[Endorfin. - Four Leaves](https://osu.ppy.sh/beatmapsets/901870#mania) by ::ruka::{ user=6117525 }, ::\_Kobii::{ user=6209713 }, ::eZmmR::{ user=8647138 }, ::Flexo123::{ user=5367287 }, ::Onta\1Bekasi::{ user=8677684 }, and ::P e n g k i::{ user=9880713 }\
+[Endorfin. - Four Leaves](https://osu.ppy.sh/beatmapsets/901870#mania) by ::ruka::{ user=6117525 }, ::\_Kobii::{ user=6209713 }, ::eZmmR::{ user=8647138 }, ::Flexo123::{ user=5367287 }, ::Onta_Bekasi::{ user=8677684 }, and ::P e n g k i::{ user=9880713 }\
 181 BPM, 3:40 | 6.33★, 6.59★, 7.02★, 8.34★\
 *description written by ::taba2::{ user=7850508 }*
 
@@ -570,11 +570,11 @@ We also hope you enjoy the charts in 4K, 5K and 6K! Please don't forget to vote 
 
 [![](/wiki/shared/news/2025-01-17-project-loved-january-2025/1923500.jpg)](https://osu.ppy.sh/community/forums/topics/2028659)
 
-[Sayuri - Hana no Tou](https://osu.ppy.sh/beatmapsets/1923500#mania) by ::Lung\1P::{ user=8271308 } and ::emO\1Oticon::{ user=12064488 }\
+[Sayuri - Hana no Tou](https://osu.ppy.sh/beatmapsets/1923500#mania) by ::Lung_P::{ user=8271308 } and ::emO_Oticon::{ user=12064488 }\
 170 BPM, 4:28 | 9.32★\
 *description written by ::Maxus::{ user=4335785 }*
 
-To start the brand-new year of 2025, we decided to pick [Hana no Tou](https://osu.ppy.sh/beatmapsets/1923500#mania/3970789), which is a collaboration effort by ::Lung\1P::{ user=8271308 } and ::emO\1Oticon::{ user=12064488 } for one of the long note picks!
+To start the brand-new year of 2025, we decided to pick [Hana no Tou](https://osu.ppy.sh/beatmapsets/1923500#mania/3970789), which is a collaboration effort by ::Lung_P::{ user=8271308 } and ::emO_Oticon::{ user=12064488 } for one of the long note picks!
 
 This map is what you'd expect from the different variants of long notes that test a lot of different skillsets.
 

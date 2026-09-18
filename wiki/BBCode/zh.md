@@ -397,7 +397,7 @@ YouTube 视频 ID 是位于视频网址中 `v=` 之后跟着的那 11 位字符�
 | :-: | :-: | :-- |
 | [OSUWME](https://osu.ppy.sh/community/forums/topics/2029947) | ::{ flag=ID }:: ::rezzvy::{ user=8804560 } | 支持实时预览的 osu! 个人资料 BBCode 编辑器 |
 | [osu! BBCode Editor](https://github.com/NoelleTGS/osu-bbcode-editor) | ::{ flag=CA }:: ::HonokaKousakaTV::{ user=18595366 } | 支持实时预览的 osu! 个人资料 BBCode 编辑器（已归档） |
-| [osu-gradient](https://osu-gradient.jgroup.top/) | ::{ flag=RU }:: ::\1\1\1\1\1\1\1\1\1\1\1\1\1\1\1::{ user=12036908 } | 为 osu! 个人资料创建渐变色文字 |
+| [osu-gradient](https://osu-gradient.jgroup.top/) | ::{ flag=RU }:: ::[_____________]::{ user=12036908 } | 为 osu! 个人资料创建渐变色文字 |
 | [osu-web enhanced](https://osu.ppy.sh/community/forums/topics/1361818) | ::{ flag=DE }:: ::RockRoller::{ user=8388854 } | 为 osu! 网站增加更多 BBCode 按钮等功能的浏览器扩展 |
 | [textcolorizer](https://www.stuffbydavid.com/textcolorizer) | david | BBCode 和 HTML 文字染色工具 |
 

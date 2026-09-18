@@ -40,7 +40,7 @@ The Skinning Contest #3 is run by various community members.
 | ::{ flag=RO }:: ::Matt2e2::{ user=12144912 } | Contest planning |
 | ::{ flag=NL }:: ::Roan::{ user=8214639 } | Contest planning, internal tool development |
 | ::{ flag=DE }:: ::RockRoller::{ user=8388854 } | Contest planning, submission screening |
-| ::{ flag=PL }:: ::Redo\1::{ user=7122165 } | Contest planning, graphic design |
+| ::{ flag=PL }:: ::Redo_::{ user=7122165 } | Contest planning, graphic design |
 | ::{ flag=GB }:: ::tetsui::{ user=10974678 } | Contest planning |
 | ::{ flag=NL }:: ::vvivi::{ user=10432755 } | Contest planning |
 | ::{ flag=PL }:: ::watterino::{ user=3512261 } | Video editor |
@@ -79,9 +79,9 @@ The Skinning Contest #3 is run by various community members.
 | ::{ flag=GR }:: ::K-Riolf::{ user=30645221 } | [GΩLDEN OCΞΛN](https://osu.ppy.sh/community/forums/topics/1631636) |
 | ::{ flag=PH }:: ::Creameries::{ user=15851364 } | [Lazuline Lutescent](https://osu.ppy.sh/community/forums/topics/1632482) |
 | ::{ flag=VN }:: ::Tkieen::{ user=12561202 } | [Sakuropia](https://osu.ppy.sh/community/forums/topics/1632497) |
-| ::{ flag=VN }:: ::Ben\15917::{ user=6026593 } | [sH/FT](https://osu.ppy.sh/community/forums/topics/1633136) |
+| ::{ flag=VN }:: ::Ben_5917::{ user=6026593 } | [sH/FT](https://osu.ppy.sh/community/forums/topics/1633136) |
 | ::{ flag=DE }:: ::SiriusOnly::{ user=22287370 } | [SHINOBI](https://osu.ppy.sh/community/forums/topics/1633153) |
-| ::{ flag=CA }:: ::WD\1ALT::{ user=21559352 } | [Iced Tea](https://osu.ppy.sh/community/forums/topics/1633310) |
+| ::{ flag=CA }:: ::WD_ALT::{ user=21559352 } | [Iced Tea](https://osu.ppy.sh/community/forums/topics/1633310) |
 | ::{ flag=US }:: ::Syvatzia::{ user=19082107 } | [Desert Tempest](https://osu.ppy.sh/community/forums/topics/1633645) |
 | ::{ flag=US }:: ::Chromasia::{ user=7306251 } | [Auburn and Azure](https://osu.ppy.sh/community/forums/topics/1633624) |
 

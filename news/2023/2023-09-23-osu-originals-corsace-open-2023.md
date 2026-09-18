@@ -37,7 +37,7 @@ If you're not in the mapping mood quite yet, experiencing these tunes through ev
     <source src="https://assets.ppy.sh/artists/381/Corsace Open 2023 Penance/Aethoro - Inertia Split.mp3">
 </audio>
 
-### [Axya - Again, Weeping Brilliantly](https://osu.ppy.sh/beatmapsets/2051621) mapped by ::Otosaka-Yu::{ user=3170678 } and ::yf\1bmp::{ user=1243669 }
+### [Axya - Again, Weeping Brilliantly](https://osu.ppy.sh/beatmapsets/2051621) mapped by ::Otosaka-Yu::{ user=3170678 } and ::yf_bmp::{ user=1243669 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/381/Corsace Open 2023 Penance/Axya - Again, Weeping Brilliantly.mp3">

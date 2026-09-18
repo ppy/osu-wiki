@@ -43,11 +43,11 @@ The **6K Autumn Showdown Tournament** (***6K AST***) was a 1v1, double-eliminati
 | :-- | :-- |
 | Host | ::{ flag=NL }:: ::Albionthegreat::{ user=9853595 }, ::{ flag=US }:: ::tastydumpl1ng::{ user=18496063 }, ::{ flag=SG }:: ::TheFunk::{ user=13981991 } |
 | Mappool selector | ::{ flag=CN }:: ::\[Crz\]sunnyxxy::{ user=10333739 }, ::{ flag=CN }:: ::Arkman::{ user=8814590 }, ::{ flag=MX }:: ::My Angel Nilou::{ user=9658070 }, ::{ flag=CN }:: ::Phukiir::{ user=4556538 }, ::{ flag=US }:: ::tastydumpl1ng::{ user=18496063 }, ::{ flag=CN }:: ::U1d::{ user=10125072 } |
-| Mapper | ::{ flag=CN }:: ::\1IceRain::{ user=7859973 }, ::{ flag=CN }:: ::\1Stan::{ user=1653229 }, ::{ flag=CN }:: ::553343477::{ user=4363223 }, ::{ flag=CN }:: ::AhoUsagi::{ user=9784248 }, ::{ flag=HK }:: ::Alptraum::{ user=26496648 }, ::{ flag=CN }:: ::Benson\1::{ user=18471116 }, ::{ flag=CN }:: ::BKwind::{ user=8900975 }, ::{ flag=NL }:: ::DannyPX::{ user=11253722 }, ::{ flag=AU }:: ::Decku::{ user=13360768 }, ::{ flag=CN }:: ::HMillion::{ user=12891443 }, ::{ flag=CN }:: ::Hylotl::{ user=18270260 }, ::{ flag=CN }:: ::Imperial Wolf::{ user=9080296 }, ::{ flag=MX }:: ::My Angel Nilou::{ user=9658070 }, ::{ flag=SG }:: ::TheFunk::{ user=13981991 }, ::{ flag=CN }:: ::tyrcs::{ user=13026904 }, ::{ flag=CN }:: ::U1d::{ user=10125072 }, ::{ flag=CN }:: ::YuzakiTsukasa::{ user=17158897 } |
+| Mapper | ::{ flag=CN }:: ::_IceRain::{ user=7859973 }, ::{ flag=CN }:: ::_Stan::{ user=1653229 }, ::{ flag=CN }:: ::553343477::{ user=4363223 }, ::{ flag=CN }:: ::AhoUsagi::{ user=9784248 }, ::{ flag=HK }:: ::Alptraum::{ user=26496648 }, ::{ flag=CN }:: ::Benson_::{ user=18471116 }, ::{ flag=CN }:: ::BKwind::{ user=8900975 }, ::{ flag=NL }:: ::DannyPX::{ user=11253722 }, ::{ flag=AU }:: ::Decku::{ user=13360768 }, ::{ flag=CN }:: ::HMillion::{ user=12891443 }, ::{ flag=CN }:: ::Hylotl::{ user=18270260 }, ::{ flag=CN }:: ::Imperial Wolf::{ user=9080296 }, ::{ flag=MX }:: ::My Angel Nilou::{ user=9658070 }, ::{ flag=SG }:: ::TheFunk::{ user=13981991 }, ::{ flag=CN }:: ::tyrcs::{ user=13026904 }, ::{ flag=CN }:: ::U1d::{ user=10125072 }, ::{ flag=CN }:: ::YuzakiTsukasa::{ user=17158897 } |
 | Playtester | ::{ flag=CN }:: ::\[Crz\]Satori::{ user=7082178 }, ::{ flag=SG }:: ::Japeynius::{ user=13993659 }, ::{ flag=US }:: ::RevVoJH::{ user=7286896 }, ::{ flag=US }:: ::tastydumpl1ng::{ user=18496063 }, ::{ flag=KR }:: ::winterlover::{ user=16308598 }, ::{ flag=US }:: ::YuJJun::{ user=12320264 } |
-| Streamer | ::{ flag=CN }:: ::\[GB\]Rush\1FTK::{ user=3046856 }, ::{ flag=NL }:: ::Albionthegreat::{ user=9853595 }, ::{ flag=US }:: ::EpsilonMaiagare::{ user=3855052 }, ::{ flag=TH }:: ::konkawe::{ user=15665805 }, ::{ flag=CN }:: ::SiFour::{ user=11590784 }, ::{ flag=US }:: ::SunApple::{ user=11817622 } |
+| Streamer | ::{ flag=CN }:: ::\[GB\]Rush_FTK::{ user=3046856 }, ::{ flag=NL }:: ::Albionthegreat::{ user=9853595 }, ::{ flag=US }:: ::EpsilonMaiagare::{ user=3855052 }, ::{ flag=TH }:: ::konkawe::{ user=15665805 }, ::{ flag=CN }:: ::SiFour::{ user=11590784 }, ::{ flag=US }:: ::SunApple::{ user=11817622 } |
 | Commentator | ::{ flag=PH }:: ::\[LS\]Tenshi::{ user=18520056 }, ::{ flag=NL }:: ::Albionthegreat::{ user=9853595 }, ::{ flag=FR }:: ::Baguette2Pain::{ user=11818585 }, ::{ flag=US }:: ::Dynascape::{ user=8784587 }, ::{ flag=SG }:: ::ERA Adam::{ user=12297375 }, ::{ flag=US }:: ::RhymesWithMash::{ user=18834550 }, ::{ flag=PH }:: ::Silhoueska Elze::{ user=11517895 }, ::{ flag=US }:: ::Sparky::{ user=3187959 }, ::{ flag=US }:: ::SunApple::{ user=11817622 } |
-| Referee | ::{ flag=CN }:: ::\[GB\]Rush\1FTK::{ user=3046856 }, ::{ flag=US }:: ::akace100::{ user=9308128 }, ::{ flag=NL }:: ::Albionthegreat::{ user=9853595 }, ::{ flag=MY }:: ::Auxesiaa::{ user=16417718 }, ::{ flag=NL }:: ::DannyPX::{ user=11253722 }, ::{ flag=US }:: ::EpsilonMaiagare::{ user=3855052 }, ::{ flag=PE }:: ::ERA Xuste::{ user=17989444 }, ::{ flag=VN }:: ::MashedPotato::{ user=10494860 }, ::{ flag=NX }:: ::N4iveDx::{ user=21340543 }, ::{ flag=VN }:: ::Poity::{ user=17148657 }, ::{ flag=SG }:: ::Polytetral::{ user=8612061 }, ::{ flag=ID }:: ::Reihynn::{ user=16630515 }, ::{ flag=VN }:: ::rock-on::{ user=9676089 }, ::{ flag=CN }:: ::shizehao::{ user=4928674 }, ::{ flag=US }:: ::SunApple::{ user=11817622 }, ::{ flag=US }:: ::tastydumpl1ng::{ user=18496063 }, ::{ flag=SG }:: ::TheFunk::{ user=13981991 }, ::{ flag=DE }:: ::TheHunter1::{ user=6496016 }, ::{ flag=CA }:: ::ERA Sunny::{ user=16468962 } |
+| Referee | ::{ flag=CN }:: ::\[GB\]Rush_FTK::{ user=3046856 }, ::{ flag=US }:: ::akace100::{ user=9308128 }, ::{ flag=NL }:: ::Albionthegreat::{ user=9853595 }, ::{ flag=MY }:: ::Auxesiaa::{ user=16417718 }, ::{ flag=NL }:: ::DannyPX::{ user=11253722 }, ::{ flag=US }:: ::EpsilonMaiagare::{ user=3855052 }, ::{ flag=PE }:: ::ERA Xuste::{ user=17989444 }, ::{ flag=VN }:: ::MashedPotato::{ user=10494860 }, ::{ flag=NX }:: ::N4iveDx::{ user=21340543 }, ::{ flag=VN }:: ::Poity::{ user=17148657 }, ::{ flag=SG }:: ::Polytetral::{ user=8612061 }, ::{ flag=ID }:: ::Reihynn::{ user=16630515 }, ::{ flag=VN }:: ::rock-on::{ user=9676089 }, ::{ flag=CN }:: ::shizehao::{ user=4928674 }, ::{ flag=US }:: ::SunApple::{ user=11817622 }, ::{ flag=US }:: ::tastydumpl1ng::{ user=18496063 }, ::{ flag=SG }:: ::TheFunk::{ user=13981991 }, ::{ flag=DE }:: ::TheHunter1::{ user=6496016 }, ::{ flag=CA }:: ::ERA Sunny::{ user=16468962 } |
 | Designer | ::{ flag=MX }:: ::-Candy-::{ user=3964918 }, ::{ flag=MX }:: ::demiantorp::{ user=8291099 }, ::{ flag=HK }:: ::ShadeCegLgMn::{ user=12609866 } |
 | Statistician | ::{ flag=NL }:: ::2Fast::{ user=5183940 }, ::{ flag=NL }:: ::Albionthegreat::{ user=9853595 }, ::{ flag=HK }:: ::ShadeCegLgMn::{ user=12609866 }, ::{ flag=SG }:: ::TheFunk::{ user=13981991 } |
 
@@ -80,7 +80,7 @@ The **6K Autumn Showdown Tournament** (***6K AST***) was a 1v1, double-eliminati
 | 12 | ::{ flag=US }:: ::Bunsen::{ user=24675802 } |
 | 13 | ::{ flag=PL }:: ::bagjettka::{ user=18338179 } |
 | 14 | ::{ flag=US }:: ::Alter-::{ user=4980256 } |
-| 15 | ::{ flag=CN }:: ::Krn\1::{ user=12452291 } |
+| 15 | ::{ flag=CN }:: ::Krn_::{ user=12452291 } |
 | 16 | ::{ flag=FR }:: ::MillaMaxwelle::{ user=6264519 } |
 | 17 | ::{ flag=CN }:: ::HxcQ777::{ user=18282863 } |
 | 18 | ::{ flag=CL }:: ::Skalim::{ user=2225008 } |
@@ -97,9 +97,9 @@ The **6K Autumn Showdown Tournament** (***6K AST***) was a 1v1, double-eliminati
 | 29 | ::{ flag=FR }:: ::jeremkyurem::{ user=13431947 } |
 | 30 | ::{ flag=SG }:: ::sukidayo-::{ user=16870002 } |
 | 31 | ::{ flag=US }:: ::Tsunakko::{ user=18172498 } |
-| 32 | ::{ flag=US }:: ::\1TCJ\1ScanL::{ user=11762834 } |
-| 33 | ::{ flag=CN }:: ::\1Paw\1FIood::{ user=6336721 } |
-| 34 | ::{ flag=PH }:: ::\1LS\1Tenshi::{ user=18520056 } |
+| 32 | ::{ flag=US }:: ::[TCJ]ScanL::{ user=11762834 } |
+| 33 | ::{ flag=CN }:: ::[Paw]FIood::{ user=6336721 } |
+| 34 | ::{ flag=PH }:: ::[LS]Tenshi::{ user=18520056 } |
 | 35 | ::{ flag=TH }:: ::BossMadWolf::{ user=2772110 } |
 | 36 | ::{ flag=CN }:: ::7581yx::{ user=23070586 } |
 | 37 | ::{ flag=KR }:: ::Raon2007::{ user=25850141 } |
@@ -110,7 +110,7 @@ The **6K Autumn Showdown Tournament** (***6K AST***) was a 1v1, double-eliminati
 | 42 | ::{ flag=CN }:: ::Kuiiiiteeee::{ user=7304075 } |
 | 43 | ::{ flag=TH }:: ::--Pavin--::{ user=12046267 } |
 | 44 | ::{ flag=FR }:: ::Baguette2Pain::{ user=11818585 } |
-| 45 | ::{ flag=MX }:: ::\1TK\1Martin\122::{ user=9653729 } |
+| 45 | ::{ flag=MX }:: ::[TK]Martin_22::{ user=9653729 } |
 | 46 | ::{ flag=PE }:: ::-Mandy::{ user=4775146 } |
 | 47 | ::{ flag=CN }:: ::ATTrance::{ user=11047650 } |
 | 48 | ::{ flag=US }:: ::ERA Jungle::{ user=9709652 } |
@@ -118,7 +118,7 @@ The **6K Autumn Showdown Tournament** (***6K AST***) was a 1v1, double-eliminati
 | 50 | ::{ flag=CN }:: ::RiceSS::{ user=8271436 } |
 | 51 | ::{ flag=US }:: ::Plasticpea::{ user=27446213 } |
 | 52 | ::{ flag=GB }:: ::Zoobin4::{ user=10055204 } |
-| 53 | ::{ flag=IL }:: ::\1-Yuuki-\1::{ user=18782031 } |
+| 53 | ::{ flag=IL }:: ::[-Yuuki-]::{ user=18782031 } |
 | 54 | ::{ flag=US }:: ::TPColor::{ user=19102458 } |
 | 55 | ::{ flag=FR }:: ::poketoine::{ user=27254270 } |
 | 56 | ::{ flag=GB }:: ::-XxbluezaperxX-::{ user=12264218 } |
@@ -126,7 +126,7 @@ The **6K Autumn Showdown Tournament** (***6K AST***) was a 1v1, double-eliminati
 | 58 | ::{ flag=CN }:: ::Old Pigeon::{ user=26116770 } |
 | 59 | ::{ flag=SE }:: ::NeonDrakon::{ user=6315000 } |
 | 60 | ::{ flag=BE }:: ::Reilyy::{ user=6539319 } |
-| 61 | ::{ flag=GB }:: ::MiniEgg\123::{ user=25914360 } |
+| 61 | ::{ flag=GB }:: ::MiniEgg_23::{ user=25914360 } |
 | 62 | ::{ flag=US }:: ::Mechafinch::{ user=17184772 } |
 | 63 | ::{ flag=SG }:: ::Kings::{ user=1016926 } |
 | 64 | ::{ flag=PL }:: ::-Beajek-::{ user=12696546 } |

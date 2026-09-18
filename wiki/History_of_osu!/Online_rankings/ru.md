@@ -34,7 +34,7 @@ tags:
 
 ## ![][osu!taiko] osu!taiko
 
-По состоянию на 23 июля 2026 года игрок №1 в [топе osu!taiko по производительности](https://osu.ppy.sh/rankings/taiko/performance) — ::{ flag=JP }:: ::Sinon\133::{ user=31148838 }.
+По состоянию на 23 июля 2026 года игрок №1 в [топе osu!taiko по производительности](https://osu.ppy.sh/rankings/taiko/performance) — ::{ flag=JP }:: ::Sinon_33::{ user=31148838 }.
 
 ## ![][osu!catch] osu!catch
 

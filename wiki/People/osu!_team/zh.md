@@ -38,7 +38,7 @@ tags:
 | ::{ flag=CN }:: ::Sakura006::{ user=10365024 } | [世界杯](/wiki/Tournaments#官方世界杯)设计协调员 |
 | ::{ flag=FR }:: ::Shiro::{ user=113005 } | 秩序维护员 |
 | ::{ flag=AU }:: ::smoogipoo::{ user=1040328 } | osu! 开发者，osu!mania 社区喜爱评估者，bug 杀手（测试工程师） |
-| ::{ flag=PL }:: ::spaceman\1atlas::{ user=3035836 } | osu! 开发者，技术支持 |
+| ::{ flag=PL }:: ::spaceman_atlas::{ user=3035836 } | osu! 开发者，技术支持 |
 | ::{ flag=GB }:: ::Tanza::{ user=10379965 } | 设计者 |
 | ::{ flag=FR }:: ::ThePooN::{ user=718454 } | osu! 底层开发者 |
 | ::{ flag=ES }:: ::Trosk-::{ user=3469385 } | 秩序维护员，锦标赛援助，“接线员” (THE OPERATOR) |

@@ -89,7 +89,7 @@ We'd also like to note that Mari's look in the bottom right is how she feels whe
 
 [![](https://assets.ppy.sh/contests/153/banners/TJ_25.jpg)](https://assets.ppy.sh/contests/153/winners/TJ_25.png)
 
-**4010** voters emphasised with ::**TJ\125**::{ user=18470896 }'s pippi lounging around at the main menu. Have you ever truly played osu! if you haven't sat at the main menu feeling the cookie pulse in time with your heart after you've either just set your top score, or *nearly* set it?
+**4010** voters emphasised with ::**TJ_25**::{ user=18470896 }'s pippi lounging around at the main menu. Have you ever truly played osu! if you haven't sat at the main menu feeling the cookie pulse in time with your heart after you've either just set your top score, or *nearly* set it?
 
 [![](https://assets.ppy.sh/contests/153/banners/Feryquitous.jpg)](https://assets.ppy.sh/contests/153/winners/Feryquitous.png)
 
@@ -105,7 +105,7 @@ We'd also like to note that Mari's look in the bottom right is how she feels whe
 
 [![](https://assets.ppy.sh/contests/153/banners/Henter_K.jpg)](https://assets.ppy.sh/contests/153/winners/Henter_K.png)
 
-**3116** cultured individuals witnessed ::**Henter\1K**::{ user=25219714 }'s reimagining of the beatmap background for Yoru Naku Usagi wa Yume o Miru. This one is a bit of an unsung hero in my view, a beautifully rendered take on a classic beatmap background with plenty of added charm.
+**3116** cultured individuals witnessed ::**Henter_K**::{ user=25219714 }'s reimagining of the beatmap background for Yoru Naku Usagi wa Yume o Miru. This one is a bit of an unsung hero in my view, a beautifully rendered take on a classic beatmap background with plenty of added charm.
 
 [![](https://assets.ppy.sh/contests/153/banners/NandoFernandez.jpg)](https://assets.ppy.sh/contests/153/winners/NandoFernandez.png)
 

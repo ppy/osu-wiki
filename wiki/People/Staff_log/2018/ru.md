@@ -48,7 +48,7 @@
 - Добавление ::Asherz007::{ user=9014047 } в Quality Assurance Team (2018-02-04)
 - Перемещение ::Darksonic::{ user=570042 } из osu! Alumni в Global Moderation Team (2018-02-13)
 - Перемещение ::Uni::{ user=617106 } из Global Moderation Team в osu! Alumni (2018-02-20)
-- Перемещение ::\1 Another \1::{ user=3416573 } из Global Moderation Team в osu! Alumni (2018-02-20)
+- Перемещение ::[ Another ]::{ user=3416573 } из Global Moderation Team в osu! Alumni (2018-02-20)
 - Исключение ::Irreversible::{ user=1287964 } из Quality Assurance Team (2018-02-27)
 
 ### Исключения из Beatmap Nominator
@@ -147,7 +147,7 @@
 - ::Chromoxx::{ user=1881639 } - уход на покой (2018-05-01)
 - ::Chewin::{ user=617323 } - отсутствие активности (2018-05-14)
 - ::MBomb::{ user=3071175 } - уход на покой (2018-05-20)
-- ::SnowNiNo\1::{ user=2506267 } - неудачный пробный период (2018-05-24)
+- ::SnowNiNo_::{ user=2506267 } - неудачный пробный период (2018-05-24)
 - ::Smokeman::{ user=2140676 } - неудачный пробный период (2018-05-24)
 - ::Kyuukai::{ user=5337374 } - неудачный пробный период (2018-05-24)
 - ::juankristal::{ user=443656 } - отсутствие активности (2018-05-30)
@@ -187,7 +187,7 @@
 - ::Lenfried-::{ user=5314573 }
 - ::Unpredictable::{ user=7560872 }
 - ::DE-CADE::{ user=3734394 }
-- ::\1Stan::{ user=1653229 }
+- ::_Stan::{ user=1653229 }
 - ::DoNotMess::{ user=1596318 }
 
 ## Июль
@@ -242,7 +242,7 @@
 
 ### Исключения из Beatmap Nominator
 
-- ::error\1exe777::{ user=7975796 } - неудачный пробный период (2018-08-17)
+- ::error_exe777::{ user=7975796 } - неудачный пробный период (2018-08-17)
 - ::Cerulean Veyron::{ user=1886524 } - уход на покой (2018-08-20)
 - ::F D Flourite::{ user=2459589 } - неудачный пробный период (2018-08-22)
 - ::Ryuusei Aika::{ user=7777875 } - неудачный пробный период (2018-08-22)

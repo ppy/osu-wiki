@@ -131,7 +131,7 @@ The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::Boaz:
 
 [![](/wiki/shared/news/2021-12-16-project-loved-december-2021/701907.jpg)](https://osu.ppy.sh/community/forums/topics/1484671)
 
-[Kano - Sukisuki Zecchoushou](https://osu.ppy.sh/beatmapsets/701907#taiko) by ::asuasu\1yura::{ user=2875968 }\
+[Kano - Sukisuki Zecchoushou](https://osu.ppy.sh/beatmapsets/701907#taiko) by ::asuasu_yura::{ user=2875968 }\
 234 BPM, 3:33 | 6.17★\
 *description written by ::Gamelan4::{ user=9856910 }*
 
@@ -157,7 +157,7 @@ Gimmick picks are usually very well received by the community as these are often
 
 [![](/wiki/shared/news/2021-12-16-project-loved-december-2021/1580447.jpg)](https://osu.ppy.sh/community/forums/topics/1484668)
 
-[Chroma - lost found melody](https://osu.ppy.sh/beatmapsets/1580447#taiko) by ::Grape\1Tea::{ user=9540073 }\
+[Chroma - lost found melody](https://osu.ppy.sh/beatmapsets/1580447#taiko) by ::Grape_Tea::{ user=9540073 }\
 151 BPM, 4:17 | 6.11★\
 *description written by ::POCARI SWEAT::{ user=5082685 }*
 
@@ -477,7 +477,7 @@ The LN full ver. is comprised of full inverse patterning that requires a hefty a
 
 [![](/wiki/shared/news/2021-12-16-project-loved-december-2021/400998.jpg)](https://osu.ppy.sh/community/forums/topics/1484625)
 
-[P\*Light - crazy_tek (DJ Noriken Remix)](https://osu.ppy.sh/beatmapsets/400998#mania) by ::Kim\1GodSSI::{ user=2218047 }\
+[P\*Light - crazy_tek (DJ Noriken Remix)](https://osu.ppy.sh/beatmapsets/400998#mania) by ::Kim_GodSSI::{ user=2218047 }\
 144.5 – 170 BPM, 2:53 | 8.32★ – 11.24★\
 *description written by ::\_underjoy::{ user=2235750 }*
 

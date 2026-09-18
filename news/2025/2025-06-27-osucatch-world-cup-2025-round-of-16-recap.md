@@ -81,7 +81,7 @@ While the spectators and players only get to see the finished results for every 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-white" href="https://osu.ppy.sh/users/8434466">wwwww</a></p>
 
-[XenjeS](https://osu.ppy.sh/beatmaps/artists/482) didn't know what to name the track, and let in me and ::Yoshi\1green::{ user=1035891 } on coming up with name ideas. We sent him back a list, in which he decided on yoshi's idea of "Planetary Exclusion Zone or P.E.Z."
+[XenjeS](https://osu.ppy.sh/beatmaps/artists/482) didn't know what to name the track, and let in me and ::Yoshi_green::{ user=1035891 } on coming up with name ideas. We sent him back a list, in which he decided on yoshi's idea of "Planetary Exclusion Zone or P.E.Z."
 
 When Xenjes was asked about design ideas, he gave the following answer:
 

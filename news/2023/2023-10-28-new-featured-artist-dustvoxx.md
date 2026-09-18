@@ -77,7 +77,7 @@ Unlock all 4 of your dormant brain cells while playing [this 4K osu!mania map](h
 
 ### Dustvoxx - Deep Dream
 
-Once you're done with the map above, lock those 4 brain cells back up by playing [this osu! map](https://osu.ppy.sh/beatmapsets/1572241) by ::garvanturr::{ user=9143539 } or [this 7K osu!mania map](https://osu.ppy.sh/beatmapsets/1673656) by ::\1Stan::{ user=1653229 }!
+Once you're done with the map above, lock those 4 brain cells back up by playing [this osu! map](https://osu.ppy.sh/beatmapsets/1572241) by ::garvanturr::{ user=9143539 } or [this 7K osu!mania map](https://osu.ppy.sh/beatmapsets/1673656) by ::_Stan::{ user=1653229 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/386/SUPERNATURAL/Dustvoxx - Deep Dream.mp3">

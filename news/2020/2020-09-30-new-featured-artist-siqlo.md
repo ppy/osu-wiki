@@ -51,7 +51,7 @@ Check out [this osu!catch showcase set](https://osu.ppy.sh/beatmapsets/1224186) 
 
 ### YInMn Blue
 
-Check out [this osu!taiko showcase set](https://osu.ppy.sh/beatmapsets/1233593) by ::gaston\12199::{ user=5938161 } of the Mappers' Guild!
+Check out [this osu!taiko showcase set](https://osu.ppy.sh/beatmapsets/1233593) by ::gaston_2199::{ user=5938161 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/102/previews/2718.mp3" type="audio/mpeg">

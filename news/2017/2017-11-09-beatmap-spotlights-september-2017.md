@@ -66,7 +66,7 @@ Rushing past at 333 BPM (though mapped to 166.5), the map is an exciting rush of
 
 [![](/wiki/shared/news/2017-11-09-beatmap-spotlights-september-2017/maniera.jpg)](https://osu.ppy.sh/beatmapsets/400761)
 
-Oh my, what do we have here? Another map from ::\1yu68::{ user=6170507 }? After months of intense discussion, MANIERA is finally ranked! With additional support from 3 guest mappers, MANIERA spans an impressive 7 difficulties, catering to players of all levels.
+Oh my, what do we have here? Another map from ::_yu68::{ user=6170507 }? After months of intense discussion, MANIERA is finally ranked! With additional support from 3 guest mappers, MANIERA spans an impressive 7 difficulties, catering to players of all levels.
 
 The song is known for its quirky rhythms, and all difficulties reflect this by utilizing complex snaps. The highest difficulty "Virtuoso" is noteworthy in its extensive use of consecutive 1/8th doublets. This is the first time a map of this kind has been ranked, and hopefully this will push mapping into new and uncharted territories!
 

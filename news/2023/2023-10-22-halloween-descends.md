@@ -43,7 +43,7 @@ We expect this one will end up on a lot of people's desktops!
 
 [![](https://assets.ppy.sh/contests/186/banners/Scissors_Mori.jpg)](https://assets.ppy.sh/contests/186/winners/Scissors_Mori.png)
 
-**1750** ghostly spirits asked which witch is which, and the answer was ::**Scissors\1Mori**::{ user=31302044 }'s take on our beloved pink-fringed pippi! Witches really are vogue this year, but with costumes *this* cute, it's sort of inevitable, isn't it?
+**1750** ghostly spirits asked which witch is which, and the answer was ::**Scissors_Mori**::{ user=31302044 }'s take on our beloved pink-fringed pippi! Witches really are vogue this year, but with costumes *this* cute, it's sort of inevitable, isn't it?
 
 [![](https://assets.ppy.sh/contests/186/banners/1_zero.jpg)](https://assets.ppy.sh/contests/186/winners/1_zero.png)
 
@@ -59,7 +59,7 @@ Behold! **1547** voter bats circled the spooky manor depicted by ::**1 zero**::{
 
 [![](https://assets.ppy.sh/contests/186/banners/MinMin_9s.jpg)](https://assets.ppy.sh/contests/186/winners/MinMin_9s.png)
 
-**1375** voters were wowed by ::**MinMin\19s**::{ user=7140649 }'s beautifully simplistic take on a cutesy witch pippi accompanied by her bed sheet ghost retinue of Mocha and Aiko. The pigtails sticking out of the sheet is simply genius. Why didn't we think of that?!
+**1375** voters were wowed by ::**MinMin_9s**::{ user=7140649 }'s beautifully simplistic take on a cutesy witch pippi accompanied by her bed sheet ghost retinue of Mocha and Aiko. The pigtails sticking out of the sheet is simply genius. Why didn't we think of that?!
 
 [![](https://assets.ppy.sh/contests/186/banners/RedcXca.jpg)](https://assets.ppy.sh/contests/186/winners/RedcXca.png)
 
@@ -81,7 +81,7 @@ UHHHHHH BRANES. ::**AyoLie**::{ user=29186645 } DREW ZOMBIE PIPPI. ZOMBIE MOCHA 
 
 [![](https://assets.ppy.sh/contests/186/banners/Haru34_old.jpg)](https://assets.ppy.sh/contests/186/winners/Haru34_old.png)
 
-**1079** voter ghosts are waiting patiently in line to be hugged by ::**Haru34\1old**::{ user=8806199 }'s pippi-mummy amidst a spooky violet-tinged moonscape. Why are these spirits so unbearably cute? It is a mystery.
+**1079** voter ghosts are waiting patiently in line to be hugged by ::**Haru34_old**::{ user=8806199 }'s pippi-mummy amidst a spooky violet-tinged moonscape. Why are these spirits so unbearably cute? It is a mystery.
 
 ## peppy's Picks
 
@@ -95,7 +95,7 @@ Normal Chirou. Orange Chirou. Evil Chirou. ::**nhyogu**::{ user=7430439 } Chirou
 
 [![](https://assets.ppy.sh/contests/186/banners/Christi_Anna.jpg)](https://assets.ppy.sh/contests/186/winners/Christi_Anna.png)
 
-::**Christi\1Anna**::{ user=11016739 } gathered forth an assembly of mascots most stylish, including pippi, Chirou, Yuzu, the warring twins (Mani and Mari) plus Mocha and a don to enjoy some candlelit Halloween festivities. Look at the cat!
+::**Christi_Anna**::{ user=11016739 } gathered forth an assembly of mascots most stylish, including pippi, Chirou, Yuzu, the warring twins (Mani and Mari) plus Mocha and a don to enjoy some candlelit Halloween festivities. Look at the cat!
 
 [![](https://assets.ppy.sh/contests/186/banners/Amythenia.jpg)](https://assets.ppy.sh/contests/186/winners/Amythenia.png)
 

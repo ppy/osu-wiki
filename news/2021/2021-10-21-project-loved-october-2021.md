@@ -119,7 +119,7 @@ The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::Gamel
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/622173.jpg)](https://osu.ppy.sh/community/forums/topics/1445541)
 
-[Hiiragi Yuka - Onegai Darling](https://osu.ppy.sh/beatmapsets/622173#taiko) by ::asuasu\1yura::{ user=2875968 }\
+[Hiiragi Yuka - Onegai Darling](https://osu.ppy.sh/beatmapsets/622173#taiko) by ::asuasu_yura::{ user=2875968 }\
 180 BPM, 3:10 | 5.27★\
 *description written by ::POCARI SWEAT::{ user=5082685 }*
 
@@ -135,7 +135,7 @@ The much-anticipated and very popular speed map will be put to a vote! I'm sure 
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/1332614.jpg)](https://osu.ppy.sh/community/forums/topics/1445539)
 
-[Hizumi Rei feat. Meika Mikoto - Eva (Under Construction Remix)](https://osu.ppy.sh/beatmapsets/1332614#taiko) by ::EJ\1\_::{ user=7453536 }\
+[Hizumi Rei feat. Meika Mikoto - Eva (Under Construction Remix)](https://osu.ppy.sh/beatmapsets/1332614#taiko) by ::EJ_\_::{ user=7453536 }\
 300 BPM, 3:29 | 7.91★\
 *description written by ::Gamelan4::{ user=9856910 }*
 
@@ -235,7 +235,7 @@ Do not get haunted by this long-winded description: go cast your vote now and al
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/547197.jpg)](https://osu.ppy.sh/community/forums/topics/1445525)
 
-[Various Artists - Jumpstream Of Fighters Vol. 2A](https://osu.ppy.sh/beatmapsets/547197#mania) by ::Leo137::{ user=1177817 }, ::akuma123::{ user=914472 }, ::Alamanar::{ user=7621152 }, ::blazziken\1old::{ user=2544313 } and ::porkypink::{ user=8599368 }\
+[Various Artists - Jumpstream Of Fighters Vol. 2A](https://osu.ppy.sh/beatmapsets/547197#mania) by ::Leo137::{ user=1177817 }, ::akuma123::{ user=914472 }, ::Alamanar::{ user=7621152 }, ::blazziken_old::{ user=2544313 } and ::porkypink::{ user=8599368 }\
 170 – 224 BPM, 3:59 | 4.21★ – 5.22★\
 The \[(Marathon) - Delete Upon Download\] difficulty is *not* being nominated for Loved.\
 *description written by ::Paturages::{ user=1375479 }*
@@ -289,7 +289,7 @@ Penguinosity did a great and clean job with this chart. Although highly chaotic,
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/1133738.jpg)](https://osu.ppy.sh/community/forums/topics/1445520)
 
-[Camellia feat. Nanahira - finorza](https://osu.ppy.sh/beatmapsets/1133738#mania) by ::AlexDunk::{ user=9194799 } and ::lovely\1hyahya::{ user=10318380 }\
+[Camellia feat. Nanahira - finorza](https://osu.ppy.sh/beatmapsets/1133738#mania) by ::AlexDunk::{ user=9194799 } and ::lovely_hyahya::{ user=10318380 }\
 225 BPM, 4:41 | 5.18★, 5.57★\
 *description written by ::RandomeLoL::{ user=7080063 }*
 

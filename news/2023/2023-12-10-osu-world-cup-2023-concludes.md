@@ -31,7 +31,7 @@ View a video recap or read the text summary for the Grand Finals below. Alternat
 
 The podium countries of the osu! World Cup 2023 had been determined. The medalists would come from Australia, South Korea and the United States, while the bronze medal goes to the Australian team after a 1–7 defeat against quite dominant Americans. Consequently, an identical bracket situation as last year occurred: South Korea needed only one match victory against the USA while the North American roster had to win the Grand Finals as well as the bracket reset to become champions.
 
-The strengths of both teams were clearly defined. The USA emphasised a strategy of mechanics and speed, whereas South Korea had stellar players for tech and aim control. The American team got the 2–0 head start with an early break point, but the Korean squad quickly recovered and started to win their HD picks and kept the scoreline close, resulting in a 3–4 deficit. A festival of four consecutive break points followed, including two impressive 1,000,000+ HR scores by ::{ flag=US }:: ::Rektygon::{ user=7813296 } and ::{ flag=KR }:: ::\1Karcher\1::{ user=11443437 }. This neck-and-neck fight came to an end on [Denkishiki Karen Ongaku Shuudan - E.E.L.S.](https://osu.ppy.sh/beatmapsets/2095134#osu/4392973) as ::{ flag=US }:: ::tekkito::{ user=7075211 }'s HD near full combo made the crucial difference. With this 7–5 victory for the US, the bracket has been reset.
+The strengths of both teams were clearly defined. The USA emphasised a strategy of mechanics and speed, whereas South Korea had stellar players for tech and aim control. The American team got the 2–0 head start with an early break point, but the Korean squad quickly recovered and started to win their HD picks and kept the scoreline close, resulting in a 3–4 deficit. A festival of four consecutive break points followed, including two impressive 1,000,000+ HR scores by ::{ flag=US }:: ::Rektygon::{ user=7813296 } and ::{ flag=KR }:: ::[Karcher]::{ user=11443437 }. This neck-and-neck fight came to an end on [Denkishiki Karen Ongaku Shuudan - E.E.L.S.](https://osu.ppy.sh/beatmapsets/2095134#osu/4392973) as ::{ flag=US }:: ::tekkito::{ user=7075211 }'s HD near full combo made the crucial difference. With this 7–5 victory for the US, the bracket has been reset.
 
 The deciding match has been full of surprises as well. It took only two maps until another streak of four break points happened. In the midst of all the chaos, ::{ flag=KR }:: ::worst hr player::{ user=14106450 } set a historical score. Ironically on the HR3 map, [LV.4 - Burning Star](https://osu.ppy.sh/beatmapsets/2095154#osu/4393036), he managed to land the full combo with 99% accuracy and displayed the arguably best tournament play of all time. With this huge momentum boost, South Korea followed up with an important break point for the 5–3 lead. Nevertheless, the American team didn't give up and immediately answered with their own two points. Eventually, the match had to be decided by the tiebreaker [Release Hallucination - VANITAS](https://osu.ppy.sh/beatmapsets/2095177#osu/4393066). It was the all-star ::{ flag=US }:: ::Vaxei::{ user=4787150 } who was able to reach a four-digit combo and thus provided the small, but critical gap in this incredible match.
 
@@ -304,7 +304,7 @@ To get a slightly better understanding for how things went from the perspective 
 
 ::{#kama}::
 
-::!\1\1(/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/Kama-banner.png)::{ user=13380270 }
+::![](/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/Kama-banner.png)::{ user=13380270 }
 
 **Kama** (a.k.a. cheetoblast) was one of the new players of the winning team this year along with ::WindowLife::{ user=4108547 } and ::wudci::{ user=2590257 }. While their portfolio of tournament podium positions are fewer in number compared to the World Cup veterans of the team, their performance was by no means insignificant.
 
@@ -326,7 +326,7 @@ To get a slightly better understanding for how things went from the perspective 
 
 ::{#doomsday}::
 
-::!\1\1(/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/Doomsday-banner.png)::{ user=18983 }
+::![](/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/Doomsday-banner.png)::{ user=18983 }
 
 **Doomsday** has been ever present since the dawn of the game's lifetime, providing commentary in numerous world cups (including 8 matches in this one), hosting the Corgi Cup tournament series as well as [creating music](https://osu.ppy.sh/beatmapsets?q=artist%3D%22Doomsday%22&s=any) as of recent, just to name a few things about this frankly awesome dude.
 

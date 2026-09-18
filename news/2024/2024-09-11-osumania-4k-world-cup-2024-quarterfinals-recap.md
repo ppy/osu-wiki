@@ -25,7 +25,7 @@ We are slowly reaching the end stages of MWC 4K, which means the mappools are ge
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2240120291&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-This time around we're not seeing any new slots put into the mix, but that's not to say the pool hasn't stepped up in difficulty by a surprising amount! Most notably, [sasakure.UK x TJ.hangneil - raputa](https://osu.ppy.sh/beatmapsets/2242647#mania/4766767) by ::\1GB\1V1do::{ user=17527968 } (HB1) bumps up to 242 BPM, which begins to show major weaknesses for many players and their physicality, alongside [The Flashbulb - A Raw Understanding](https://osu.ppy.sh/beatmapsets/1632098#mania/4766799) by ::Pizza69::{ user=25285704 } (RC4) really signifying the challenge behind purely technical patterning, which is no joke when uprated to 1.15x!
+This time around we're not seeing any new slots put into the mix, but that's not to say the pool hasn't stepped up in difficulty by a surprising amount! Most notably, [sasakure.UK x TJ.hangneil - raputa](https://osu.ppy.sh/beatmapsets/2242647#mania/4766767) by ::[GB]V1do::{ user=17527968 } (HB1) bumps up to 242 BPM, which begins to show major weaknesses for many players and their physicality, alongside [The Flashbulb - A Raw Understanding](https://osu.ppy.sh/beatmapsets/1632098#mania/4766799) by ::Pizza69::{ user=25285704 } (RC4) really signifying the challenge behind purely technical patterning, which is no joke when uprated to 1.15x!
 
 To round up the mappool, we've also got one new [osu! original](/wiki/osu!_originals)!
 
@@ -108,7 +108,7 @@ Commiserations to the British team for their run this year, unfortunately ended 
 
 There's no denying that all teams thus far have given their all, especially as we draw ever so closer to the lattermost rounds of the tournament. But this round's standout amongst all teams must've been Japan!
 
-- ::{ flag=JP }:: ::\1Crz\1yomogi237::{ user=28571440 } took everyone by surprise with their crazy ratio in [cygnus - Tree of Misery](https://osu.ppy.sh/beatmapsets/2242640#mania/4766759) by ::Miaurichesu::{ user=10055648 } (RC3), achieving a score of 999,792 with only **10 regular 300s** in their [match against Spain](https://www.twitch.tv/videos/2244890379).
+- ::{ flag=JP }:: ::[Crz]yomogi237::{ user=28571440 } took everyone by surprise with their crazy ratio in [cygnus - Tree of Misery](https://osu.ppy.sh/beatmapsets/2242640#mania/4766759) by ::Miaurichesu::{ user=10055648 } (RC3), achieving a score of 999,792 with only **10 regular 300s** in their [match against Spain](https://www.twitch.tv/videos/2244890379).
 - ::{ flag=JP }:: ::CrewK::{ user=11488604 } covered Japan's SV needs with their astonishing 997,856 score on [Tanger - BREAKME](https://osu.ppy.sh/beatmapsets/2242663#mania/4766804) by ::Promachos::{ user=14069486 } (SV1) in their [match versus Brazil](https://www.twitch.tv/videos/2245937607).
 
 Will they be able to hold up next week? Will the other teams keep their edge? Whatever the case may be, Japan has proved that they are a force to be reckoned with.

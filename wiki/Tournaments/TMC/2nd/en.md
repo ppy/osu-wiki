@@ -45,7 +45,7 @@ The Touhou Project Mania Cup 2nd was run by the TMC team and various community m
 | Co-host | ::{ flag=GB }:: ::-Deepdive-::{ user=13338645 }, ::{ flag=CN }:: ::cdwcgt::{ user=14721101 } |
 | Mappool selector | ::{ flag=GB }:: ::-Deepdive-::{ user=13338645 }, ::{ flag=CN }:: ::\[Crz\]hinako1804::{ user=13747903 }, ::{ flag=MX }:: ::\[OSC\]Amagai::{ user=9658070 }, ::{ flag=ID }:: ::eZmmR::{ user=8647138 }, ::{ flag=GB }:: ::H1Pur::{ user=15756120 }, ::{ flag=CN }:: ::\[GB\]Sanae::{ user=11238501 }, ::{ flag=CN }:: ::YuEast 2018::{ user=13953619 } |
 | Mappool tester | ::{ flag=CN }:: ::\[GB\]Mafufu::{ user=10884561 }, ::{ flag=GB }:: ::Eliminate::{ user=9169747 }, ::{ flag=GB }:: ::H1Pur::{ user=15756120 }, ::{ flag=SG }:: ::Kings::{ user=1016926 } |
-| Custom mapper | ::{ flag=GB }:: ::-Deepdive-::{ user=13338645 }, ::{ flag=CN }:: ::\[Crz\]hinako1804::{ user=13747903 }, ::{ flag=CN }:: ::\[GB\]Mafufu::{ user=10884561 }, ::{ flag=MX }:: ::\[OSC\]Amagai::{ user=9658070 }, ::{ flag=CN }:: ::Blue\1Potion::{ user=13094831 }, ::{ flag=CN }:: ::cherrychou::{ user=7214023 }, ::{ flag=ID }:: ::eZmmR::{ user=8647138 }, ::{ flag=GB }:: ::H1Pur::{ user=15756120 }, ::{ flag=CN }:: ::\[GB\]Sanae::{ user=11238501 }, ::{ flag=CN }:: ::Miscedence::{ user=15382838 }, ::{ flag=CN }:: ::YuEast 2018::{ user=13953619 }, ::{ flag=HK }:: ::zero2snow::{ user=7751516 } |
+| Custom mapper | ::{ flag=GB }:: ::-Deepdive-::{ user=13338645 }, ::{ flag=CN }:: ::\[Crz\]hinako1804::{ user=13747903 }, ::{ flag=CN }:: ::\[GB\]Mafufu::{ user=10884561 }, ::{ flag=MX }:: ::\[OSC\]Amagai::{ user=9658070 }, ::{ flag=CN }:: ::Blue_Potion::{ user=13094831 }, ::{ flag=CN }:: ::cherrychou::{ user=7214023 }, ::{ flag=ID }:: ::eZmmR::{ user=8647138 }, ::{ flag=GB }:: ::H1Pur::{ user=15756120 }, ::{ flag=CN }:: ::\[GB\]Sanae::{ user=11238501 }, ::{ flag=CN }:: ::Miscedence::{ user=15382838 }, ::{ flag=CN }:: ::YuEast 2018::{ user=13953619 }, ::{ flag=HK }:: ::zero2snow::{ user=7751516 } |
 | Showcaser | ::{ flag=GB }:: ::-Deepdive-::{ user=13338645 }, ::{ flag=TW }:: ::\[Crz\]Ha0201::{ user=12243730 }, ::{ flag=CN }:: ::\[GB\]AelSan::{ user=14095291 }, ::{ flag=CN }:: ::\[GB\]Mafufu::{ user=10884561 }, ::{ flag=CN }:: ::\[GB\]Thaumiel::{ user=15017771 }, ::{ flag=GB }:: ::Eliminate::{ user=9169747 }, ::{ flag=GB }:: ::H1Pur::{ user=15756120 }, ::{ flag=HK }:: ::zero2snow::{ user=7751516 } |
 | Referee | ::{ flag=GB }:: ::-Deepdive-::{ user=13338645 }, ::{ flag=CN }:: ::\[GB\]Mafufu::{ user=10884561 }, ::{ flag=CN }:: ::cdwcgt::{ user=14721101 }, ::{ flag=GB }:: ::H1Pur::{ user=15756120 }, ::{ flag=CN }:: ::\[GB\]Sanae::{ user=11238501 }, ::{ flag=BR }:: ::Konohana Lucia::{ user=8642224 }, ::{ flag=ID }:: ::SanjayaIH::{ user=12202728 }, ::{ flag=DE }:: ::TheHunter1::{ user=6496016 }, ::{ flag=ID }:: ::Yukari\_Sama::{ user=6316524 } |
 | Streamer | ::{ flag=GB }:: ::-Deepdive-::{ user=13338645 }, ::{ flag=PH }:: ::\[KN\]Tenshi::{ user=18520056 }, ::{ flag=CN }:: ::aiyulu::{ user=189617 }, ::{ flag=PL }:: ::Bexi::{ user=11548612 }, ::{ flag=CN }:: ::cdwcgt::{ user=14721101 }, ::{ flag=US }:: ::Doelon::{ user=17422924 }, ::{ flag=US }:: ::SunApple::{ user=11817622 } |
@@ -71,7 +71,7 @@ The Touhou Project Mania Cup 2nd was run by the TMC team and various community m
 | :-: | :-- |
 | **:1217angry:** | ::{ flag=TW }:: **::Pdog4ni::{ user=14581544 }**, ::{ flag=MY }:: ::Auxesiaa::{ user=16417718 }, ::{ flag=TW }:: ::\[Rweiru\]::{ user=11234907 }, ::{ flag=TW }:: ::blacktea12::{ user=13389861 } |
 | **Komeiji Sisters** | ::{ flag=NL }:: **::LuluChanTV::{ user=10192760 }**, ::{ flag=NO }:: ::-TeaBee-::{ user=12304069 } |
-| **Chrome Beretta** | ::{ flag=TW }:: **::Nobu150::{ user=12296460 }**, ::{ flag=PH }:: ::Samu\12211::{ user=20689466 }, ::{ flag=PH }:: ::Voidkun::{ user=19808091 } |
+| **Chrome Beretta** | ::{ flag=TW }:: **::Nobu150::{ user=12296460 }**, ::{ flag=PH }:: ::Samu_2211::{ user=20689466 }, ::{ flag=PH }:: ::Voidkun::{ user=19808091 } |
 | **ICHIGAY!!!** | ::{ flag=MY }:: **::\[Break\]LCJQ::{ user=11283859 }**, ::{ flag=TW }:: ::\[-ICHINO-\]::{ user=13643601 }, ::{ flag=MY }:: ::StyGix::{ user=7745408 }, ::{ flag=TH }:: ::palmEuEi::{ user=13656264 } |
 | **ATKR** | ::{ flag=ID }:: **::Lumierce::{ user=16706212 }**, ::{ flag=ID }:: ::NikanzuGZ::{ user=16198858 }, ::{ flag=ID }:: ::VeganFanBoy::{ user=16768803 } |
 | **Œil** | ::{ flag=FR }:: **::Auraah::{ user=10015908 }**, ::{ flag=FR }:: ::Elementaires::{ user=2284328 }, ::{ flag=FR }:: ::Koiidex::{ user=5193488 }, ::{ flag=FR }:: ::ZayyKen::{ user=8624433 } |
@@ -84,25 +84,25 @@ The Touhou Project Mania Cup 2nd was run by the TMC team and various community m
 | **badplayers49** | ::{ flag=SG }:: **::Roxybuff::{ user=11917711 }**, ::{ flag=SG }:: ::ecfecfehycbey::{ user=15323784 }, ::{ flag=SG }:: ::Eliminate 2::{ user=12297375 } |
 | **ExtraRipeApples** | ::{ flag=DE }:: **::ERA Punish::{ user=10615367 }**, ::{ flag=DE }:: ::ERA medium kek::{ user=11625617 }, ::{ flag=US }:: ::ERA Zenith::{ user=7128063 }, ::{ flag=US }:: ::ERA Klarion::{ user=13857986 } |
 | **monkey bussines** | ::{ flag=NL }:: **::Shoira::{ user=13377652 }**, ::{ flag=NL }:: ::Freek::{ user=9630674 }, ::{ flag=NL }:: ::samuelhklumpers::{ user=10945523 }, ::{ flag=NL }:: ::Ready Perfectly::{ user=10944966 } |
-| **FNF Club Germany** | ::{ flag=DE }:: **::d3lt3x::{ user=14283669 }**, ::{ flag=DE }:: ::Sazkey::{ user=10039087 }, ::{ flag=DE }:: ::Der\1Entsafter69::{ user=13210231 }, ::{ flag=DE }:: ::-SparklingCat-::{ user=15440118 } |
+| **FNF Club Germany** | ::{ flag=DE }:: **::d3lt3x::{ user=14283669 }**, ::{ flag=DE }:: ::Sazkey::{ user=10039087 }, ::{ flag=DE }:: ::Der_Entsafter69::{ user=13210231 }, ::{ flag=DE }:: ::-SparklingCat-::{ user=15440118 } |
 | **I MUST SESE** | ::{ flag=CN }:: **::Rizazyh::{ user=13673300 }**, ::{ flag=CN }:: ::Black Aurora::{ user=17861631 }, ::{ flag=CN }:: ::hitohad::{ user=13651980 }, ::{ flag=CN }:: ::\[GB\]Foxy1459::{ user=14938400 } |
 | **Polygon** | ::{ flag=JP }:: **::yuukituk::{ user=11998955 }**, ::{ flag=TH }:: ::Achino::{ user=13349388 } |
 | **Fumo** | ::{ flag=MY }:: **::-Einar-::{ user=8782656 }**, ::{ flag=PH }:: ::Akatsumi Chan::{ user=11306351 }, ::{ flag=MY }:: ::Ju1nY11::{ user=14743871 }, ::{ flag=CN }:: ::WLYMinato::{ user=12703319 } |
 | **Appendicitis** | ::{ flag=BR }:: **::DemiFiendSMT::{ user=20051971 }**, ::{ flag=BR }:: ::LeMarcinho::{ user=13347579 }, ::{ flag=VN }:: ::Tuyet::{ user=14821320 }, ::{ flag=BR }:: ::Sprrumnk Lokii::{ user=10622472 } |
-| **Ricemakers** | ::{ flag=ID }:: **::I\1cantplay::{ user=18309106 }**, ::{ flag=ID }:: ::\[Albert\]::{ user=12689667 }, ::{ flag=ID }:: ::IceVee::{ user=8108213 }, ::{ flag=ID }:: ::Dogethedoge25::{ user=15597315 } |
+| **Ricemakers** | ::{ flag=ID }:: **::I_cantplay::{ user=18309106 }**, ::{ flag=ID }:: ::\[Albert\]::{ user=12689667 }, ::{ flag=ID }:: ::IceVee::{ user=8108213 }, ::{ flag=ID }:: ::Dogethedoge25::{ user=15597315 } |
 | **omsim** | ::{ flag=PH }:: **::\[Crz\]joseee-::{ user=10083439 }**, ::{ flag=PH }:: ::Arccat::{ user=4848294 }, ::{ flag=PH }:: ::J1002::{ user=11958940 }, ::{ flag=PH }:: ::Vulpsi::{ user=12584420 } |
 | **Black Stick Rot** | ::{ flag=GB }:: **::TingMomentum::{ user=12489832 }**, ::{ flag=DE }:: ::nanhira::{ user=15806513 }, ::{ flag=PH }:: ::Silicosis::{ user=15548876 } |
 | **oh10** | ::{ flag=PH }:: **::\[KN\]CuB-03::{ user=18560307 }**, ::{ flag=PH }:: ::Dyei::{ user=23643731 }, ::{ flag=PH }:: ::Hagorromoo::{ user=11923046 }, ::{ flag=PH }:: ::EpicBaconBoi::{ user=16391523 } |
 | **house deepwoken** | ::{ flag=US }:: **::BaniiYanii::{ user=11888159 }**, ::{ flag=US }:: ::\[GS\]Antunder::{ user=10416995 }, ::{ flag=US }:: ::SplegoNinjago::{ user=13488298 }, ::{ flag=CA }:: ::\[ro\]Nosteal::{ user=8160564 } |
 | **yes** | ::{ flag=CZ }:: **::grillroasted::{ user=18271627 }**, ::{ flag=BR }:: ::Gabi Kamui::{ user=10658391 } |
 | **Shion Lovers** | ::{ flag=JP }:: **::kazuin::{ user=10739680 }**, ::{ flag=US }:: ::walnutt::{ user=8617859 }, ::{ flag=US }:: ::\[GS\]Pusheen::{ user=10192251 }, ::{ flag=US }:: ::dinga dog::{ user=12206447 } |
-| **Estudia Sonso** | ::{ flag=PE }:: **::bxd\1juice::{ user=17152485 }**, ::{ flag=PE }:: ::-Lalito898::{ user=15098503 }, ::{ flag=PE }:: ::no6hope::{ user=12193700 } |
+| **Estudia Sonso** | ::{ flag=PE }:: **::bxd_juice::{ user=17152485 }**, ::{ flag=PE }:: ::-Lalito898::{ user=15098503 }, ::{ flag=PE }:: ::no6hope::{ user=12193700 } |
 | **Hourai Elixir** | ::{ flag=CA }:: **::Stability::{ user=6701738 }**, ::{ flag=CA }:: ::GDMem::{ user=10804091 }, ::{ flag=CA }:: ::loafusofbread::{ user=9278959 }, ::{ flag=CA }:: ::arpia97::{ user=6363008 } |
 | **TouWhou?** | ::{ flag=CA }:: **::AmariaLove::{ user=17036270 }**, ::{ flag=CA }:: ::RaGe Radical::{ user=13887380 }, ::{ flag=CA }:: ::Nezukiki::{ user=21963245 }, ::{ flag=CA }:: ::walmart5193::{ user=16468962 } |
 | **holiv reprdution** | ::{ flag=BH }:: **::Unitori-::{ user=15772814 }**, ::{ flag=QA }:: ::cyta\_::{ user=15444660 }, ::{ flag=ID }:: ::Revv-::{ user=12424909 }, ::{ flag=SA }:: ::HeSo71::{ user=12556314 } |
 | **los uras** | ::{ flag=AR }:: **::aluuu::{ user=4585260 }**, ::{ flag=AR }:: ::lxLucasxl::{ user=3632846 }, ::{ flag=AR }:: ::C90::{ user=13858488 } |
 | **Manip as Gaeilge** | ::{ flag=IE }:: **::evanxo::{ user=10681173 }**, ::{ flag=IE }:: ::Just FC::{ user=14646283 } |
-| **sllab amogus** | ::{ flag=HK }:: **::MegMewtwoZ::{ user=13235067 }**, ::{ flag=TH }:: ::banan::{ user=16011592 }, ::{ flag=VN }:: ::CPT\1Sivelia::{ user=12562107 }, ::{ flag=SG }:: ::IJosephI\[GS\]::{ user=13353749 } |
+| **sllab amogus** | ::{ flag=HK }:: **::MegMewtwoZ::{ user=13235067 }**, ::{ flag=TH }:: ::banan::{ user=16011592 }, ::{ flag=VN }:: ::CPT_Sivelia::{ user=12562107 }, ::{ flag=SG }:: ::IJosephI\[GS\]::{ user=13353749 } |
 | **rice quadruplets** | ::{ flag=US }:: **::\[Crz\]Mitter::{ user=14551764 }**, ::{ flag=SG }:: ::Xvenn::{ user=13390529 }, ::{ flag=SG }:: ::upr-::{ user=14099962 }, ::{ flag=US }:: ::Darkmew2::{ user=13921965 } |
 | **Watermelon** | ::{ flag=ID }:: **::Fr05tyGD::{ user=14230684 }**, ::{ flag=VN }:: ::Micleak::{ user=16140674 }, ::{ flag=PH }:: ::DaMeMeThEiFxD::{ user=14324153 } |
 | **Cirno Fumo** | ::{ flag=MY }:: **::Solify::{ user=12054898 }**, ::{ flag=MY }:: ::LouisZpro::{ user=6231292 }, ::{ flag=US }:: ::KamaCrimson::{ user=6362259 } |
@@ -117,15 +117,15 @@ The Touhou Project Mania Cup 2nd was run by the TMC team and various community m
 | **YEP** | ::{ flag=MY }:: **::Kibitz::{ user=7418493 }**,  ::{ flag=US }:: ::Dhark::{ user=18662422 } |
 | **ODV** | ::{ flag=FR }:: **::Langoustins::{ user=17194567 }**, ::{ flag=FR }:: ::Celian43::{ user=20046970 } |
 | **skill issue** | ::{ flag=AR }:: **::astoneworm::{ user=23410931 }**, ::{ flag=US }:: ::silicosis et::{ user=12253636 } |
-| **OibdciHvete** | ::{ flag=PH }:: **::JayAreEee::{ user=10852557 }**, ::{ flag=PH }:: ::FiddleMinger::{ user=10300115 }, ::{ flag=PH }:: ::Flare\1Drake::{ user=11628350 } |
+| **OibdciHvete** | ::{ flag=PH }:: **::JayAreEee::{ user=10852557 }**, ::{ flag=PH }:: ::FiddleMinger::{ user=10300115 }, ::{ flag=PH }:: ::Flare_Drake::{ user=11628350 } |
 | **sham macro** | ::{ flag=NZ }:: **::kit-::{ user=10981171 }**, ::{ flag=AU }:: ::Merami Crab::{ user=11523326 }, ::{ flag=AU }:: ::Kites::{ user=4922584 } |
 | **BEAN TEAM** | ::{ flag=US }:: **::-Sparky-::{ user=3187959 }**, ::{ flag=US }:: ::LeftyRighty::{ user=2934698 } |
 | **Volvo Gaming** | ::{ flag=US }:: **::ERA Jungle::{ user=9709652 }**, ::{ flag=US }:: ::swagmember::{ user=23005425 }, ::{ flag=CA }:: ::ZeMaB::{ user=15633324 } |
 | **Mage's Orphans** | ::{ flag=DE }:: **::Yenaek::{ user=10967343 }**, ::{ flag=GB }:: ::SinCrone::{ user=9426809 } |
 | **Assmen** | ::{ flag=BE }:: **::flyerbram002::{ user=12725421 }**, ::{ flag=BE }:: ::shaafs::{ user=8811695 }, ::{ flag=BE }:: ::Reilyy::{ user=6539319 } |
-| **Team Pixula** | ::{ flag=CL }:: **::Rhyzt\1cL::{ user=10235085 }**, ::{ flag=CL }:: ::Xan-::{ user=5919873 }, ::{ flag=CL }:: ::\[GS\]Myuka::{ user=10072733 }, ::{ flag=CL }:: ::\[LS\]Choc\1cL::{ user=9729501 } |
+| **Team Pixula** | ::{ flag=CL }:: **::Rhyzt_cL::{ user=10235085 }**, ::{ flag=CL }:: ::Xan-::{ user=5919873 }, ::{ flag=CL }:: ::\[GS\]Myuka::{ user=10072733 }, ::{ flag=CL }:: ::\[LS\]Choc_cL::{ user=9729501 } |
 | **maimai 4ever** | ::{ flag=ID }:: **::dendygaming::{ user=8678715 }**, ::{ flag=ID }:: ::aryadevil::{ user=5514809 } |
-| **mkwii>mk8** | ::{ flag=DE }:: **::Niko\1Plays::{ user=9409456 }**, ::{ flag=DE }:: ::Cobraxx::{ user=9620182 } |
+| **mkwii>mk8** | ::{ flag=DE }:: **::Niko_Plays::{ user=9409456 }**, ::{ flag=DE }:: ::Cobraxx::{ user=9620182 } |
 | **We Luv Alpaca** | ::{ flag=PE }:: **::Sebas1234213::{ user=23218007 }**, ::{ flag=PE }:: ::Lya-::{ user=23248625 }, ::{ flag=PE }:: ::\[Boywhat\]::{ user=17551398 }, ::{ flag=PE }:: ::Bultrax::{ user=20854233 } |
 | **Trash** | ::{ flag=IE }:: **::MilkWatcher::{ user=13794811 }**, ::{ flag=US }:: ::Trontin::{ user=17785322 } |
 

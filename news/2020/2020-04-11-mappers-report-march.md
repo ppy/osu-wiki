@@ -82,7 +82,7 @@ Just as last month, the BNG never rests. We always have new additions and retire
 
 ### BN Additions
 
-- **osu!:** ::Affirmation::{ user=6186628 }, ::BaAR\1Vendel::{ user=8679346 }, ::MaridiuS::{ user=4496961 }, ::Nao Tomori::{ user=5364763 } & ::wafer::{ user=9416836 }
+- **osu!:** ::Affirmation::{ user=6186628 }, ::BaAR_Vendel::{ user=8679346 }, ::MaridiuS::{ user=4496961 }, ::Nao Tomori::{ user=5364763 } & ::wafer::{ user=9416836 }
 - **osu!taiko:** ::Roger::{ user=1538223 } & ::Raiden::{ user=2239480 }
 - **osu!catch:** ::Daletto::{ user=7592136 } & ::Sinnoh::{ user=4236057 }
 - **osu!mania:** ::dudehacker::{ user=748722 }

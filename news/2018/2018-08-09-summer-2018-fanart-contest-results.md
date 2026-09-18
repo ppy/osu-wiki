@@ -67,7 +67,7 @@ Bonus points from us for extremely creative use of the template design!
 
 [![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/R3_AL.jpg)](https://assets.ppy.sh/contests/66/winners/R3_AL.png)
 
-**4537** people were ready for SUMMER TIME!!! with ::R3\1AL::{ user=11983357 }'s take on a schoolgirl Pippi in of course, summer uniform. Sometimes less is more!
+**4537** people were ready for SUMMER TIME!!! with ::R3_AL::{ user=11983357 }'s take on a schoolgirl Pippi in of course, summer uniform. Sometimes less is more!
 
 [![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/snowyani2000.jpg)](https://assets.ppy.sh/contests/66/winners/snowyani2000.png)
 

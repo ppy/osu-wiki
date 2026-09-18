@@ -23,7 +23,7 @@ src="https://www.youtube.com/embed/5AH-Vkcenc0" frameborder="0" allowfullscreen>
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/MyTOUzA-sS8" frameborder="0" allowfullscreen></iframe></br>
 
-::Dusk::{ user=533210 } is serious about cementing his number one place in the global rankings as he continues his osu!catch score runs with an absurd HR SS on [LeaF - Evanescent](https://osu.ppy.sh/beatmaps/1009780) to gain a whopping 743pp and the second spot on the map, second only to ::\1224\1Hyperw7::{ user=4158549 }, who was 1 100 short of SSing it himself. Sit back, relax and have a look at Rowlet catcher sprinting across the screen with joy.
+::Dusk::{ user=533210 } is serious about cementing his number one place in the global rankings as he continues his osu!catch score runs with an absurd HR SS on [LeaF - Evanescent](https://osu.ppy.sh/beatmaps/1009780) to gain a whopping 743pp and the second spot on the map, second only to ::[224]Hyperw7::{ user=4158549 }, who was 1 100 short of SSing it himself. Sit back, relax and have a look at Rowlet catcher sprinting across the screen with joy.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/zqidKHSJ2-Q" frameborder="0" allowfullscreen></iframe></br>
 
@@ -39,7 +39,7 @@ We haven't shown ::jakads::{ user=259972 } in the Scorewatch for a while now, so
 
 ## SCORESHOW WITH ZSEIKIMATSU
 
-::\1yu68::{ user=6170507 } and ::uone::{ user=5321719 } take speed, reading and memorization to the next level, going head to head on [u's - LOVELESS WORLD](https://osu.ppy.sh/beatmaps/959168) on HDDT!
+::_yu68::{ user=6170507 } and ::uone::{ user=5321719 } take speed, reading and memorization to the next level, going head to head on [u's - LOVELESS WORLD](https://osu.ppy.sh/beatmaps/959168) on HDDT!
 
 <iframe width="100%" height="315"
 src="https://www.youtube.com/embed/7irBHT6vUsg" frameborder="0" allowfullscreen></iframe></br>

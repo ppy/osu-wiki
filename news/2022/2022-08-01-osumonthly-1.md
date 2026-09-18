@@ -75,7 +75,7 @@ At the beginning of July, [osu!catch World Cup 2022](/wiki/Tournaments/CWC/2022)
 
 ![](/wiki/shared/news/2022-08-01-osumonthly-1/podium.png)
 
-For the fourth time in a row and a total of eight wins, South Korea is the osu!catch champion. The roster consisted of ::JISAN::{ user=3657951 }, ::Rells::{ user=7937519 }, ::YesMyDarknesss::{ user=4158549 }, ::x\1angelkawaii\1x::{ user=566276 }, ::DreStar::{ user=1808057 }, and ::Byeol::{ user=2754651 }. United States (::Secre::{ user=2306637 }, ::Lexii::{ user=7226149 }, ::Dahcreeper::{ user=6926006 }, ::Zak::{ user=1375955 }, ::Colin::{ user=5502521 }, ::Elux::{ user=12004983 }) and China (::Dusk::{ user=533210 }, ::Callionet::{ user=3072921 }, ::Coevir::{ user=3171965 }, ::Crystal::{ user=1646397 }, ::KagamineRin02::{ user=518503 }, ::Kitakami::{ user=6347308 }) took second and third place respectively.
+For the fourth time in a row and a total of eight wins, South Korea is the osu!catch champion. The roster consisted of ::JISAN::{ user=3657951 }, ::Rells::{ user=7937519 }, ::YesMyDarknesss::{ user=4158549 }, ::x_angelkawaii_x::{ user=566276 }, ::DreStar::{ user=1808057 }, and ::Byeol::{ user=2754651 }. United States (::Secre::{ user=2306637 }, ::Lexii::{ user=7226149 }, ::Dahcreeper::{ user=6926006 }, ::Zak::{ user=1375955 }, ::Colin::{ user=5502521 }, ::Elux::{ user=12004983 }) and China (::Dusk::{ user=533210 }, ::Callionet::{ user=3072921 }, ::Coevir::{ user=3171965 }, ::Crystal::{ user=1646397 }, ::KagamineRin02::{ user=518503 }, ::Kitakami::{ user=6347308 }) took second and third place respectively.
 
 It is no secret that players from South Korea are so good that they could swap with each other and win the entire tournament no matter what they were faced up against. With ::qwhj1027::{ user=7547506 } and ::Abstract-::{ user=3097304 } not being in the South Korean team like the previous year, some analysts had doubts on whether they could claim victory this year again. Thankfully or not, that wasn't the case here at all. With only 11 maps lost throughout entire tournament, South Korea showed that even without the strongest players this game could produce, there were still plenty of players waiting in the wings to take their shot at impressing the community and the crowd with their skills.
 
@@ -127,7 +127,7 @@ This taiko play is set at an average of 411 BPM. Yes, you read that right, **411
 
 The mania k-pop community is going to be absolutely ecstatic at this next showcase.
 
-With ::Onta\1Bekasi::{ user=8677684 } not just clearing but FCing the deceptively difficult yet soothing myriad of LNs and intricate patterns that [My Man](https://osu.ppy.sh/beatmapsets/514681#mania/1093212) so elegantly puts on display, the decision as to what to pick for July's monthly score was all but made for us.
+With ::Onta_Bekasi::{ user=8677684 } not just clearing but FCing the deceptively difficult yet soothing myriad of LNs and intricate patterns that [My Man](https://osu.ppy.sh/beatmapsets/514681#mania/1093212) so elegantly puts on display, the decision as to what to pick for July's monthly score was all but made for us.
 
 Enduring only a tiny 0.02% accuracy drop across a 3-minute long slog of over 5000 notes, Onta_Bekasi's showing is top tier stuff, and we think you'll understand why after seeing it for yourself below.
 
@@ -135,7 +135,7 @@ Enduring only a tiny 0.02% accuracy drop across a 3-minute long slog of over 500
 
 #### Millions of long notes
 
-Witness this shocking performance by ::\1GS\1Myuka::{ user=10072733 } on [Camellia's *MI11I0N PP*](https://osu.ppy.sh/beatmapsets/1388481#mania/2867552)!
+Witness this shocking performance by ::[GS]Myuka::{ user=10072733 } on [Camellia's *MI11I0N PP*](https://osu.ppy.sh/beatmapsets/1388481#mania/2867552)!
 
 If you thought the deluge of long notes in *My Man* was something, just wait until you see this 7 minute map of non-stop madness, featuring not only single-note rainbows and glissandos, but an interconnected web of the two. It is an impeccable display of skill, accuracy, speed, and just what osu!monthly is looking for in a showcase!
 

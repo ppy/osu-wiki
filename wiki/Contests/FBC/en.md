@@ -131,7 +131,7 @@ The song picked for this tournament edition was [Thaehan - Sunrise](https://www.
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=FR }:: ::Realazy::{ user=918297 } |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CA }:: ::celerih::{ user=4696296 } |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=CA }:: ::J1\1::{ user=5918561 }, ::{ flag=FR }:: ::PoNo::{ user=4610047 } |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=CA }:: ::J1_::{ user=5918561 }, ::{ flag=FR }:: ::PoNo::{ user=4610047 } |
 
 ### Organisation
 

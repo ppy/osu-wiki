@@ -82,7 +82,7 @@ The osu! Philippines Quickfire Showdown was ran by various community members.
   - ::{ flag=PH }:: ::Buizie::{ user=4795670 }
   - ::{ flag=PH }:: ::rexralph1::{ user=18499824 }
   - ::{ flag=PH }:: ::Awper::{ user=7378754 }
-  - ::{ flag=PH }:: ::Autard\1Diab::{ user=14964684 }
+  - ::{ flag=PH }:: ::Autard_Diab::{ user=14964684 }
   - ::{ flag=PH }:: ::vincent4399::{ user=9764388 }
   - ::{ flag=PH }:: ::2 and eight::{ user=8923608 }
   - ::{ flag=PH }:: ::Random328::{ user=13822589 }
@@ -95,7 +95,7 @@ The osu! Philippines Quickfire Showdown was ran by various community members.
   - ::{ flag=PH }:: ::NathanSS::{ user=8500628 }
 - Day 2
   - ::{ flag=PH }:: ::bluezenithgames::{ user=12681578 }
-  - ::{ flag=PH }:: ::Lunasen\1::{ user=15216246 }
+  - ::{ flag=PH }:: ::Lunasen_::{ user=15216246 }
   - ::{ flag=PH }:: ::Gale Wise::{ user=23314214 }
   - ::{ flag=PH }:: ::Dunn::{ user=7241691 }
   - ::{ flag=PH }:: ::RnJn::{ user=11580827 }

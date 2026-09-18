@@ -53,7 +53,7 @@ Considering [**A? / Aquestion**](https://osu.ppy.sh/beatmaps/artists/173) is ::a
 
 [**7_7**](https://osu.ppy.sh/beatmaps/artists/356) was [revealed as a Featured Artist](https://osu.ppy.sh/home/news/2023-04-23-new-featured-artist-7-7) alongside the [Grand Finals mappool](/wiki/Tournaments/TWC/2023#grand-finals) showcase just a couple weeks ago, pulling yet another osu!taiko resident into our Featured Artist catalogue!
 
-For pure chaos, give your best attempt to [this map](https://osu.ppy.sh/beatmapsets/1980743) created by multi-talented mapper/composer ::7\17::{ user=7491106 }!
+For pure chaos, give your best attempt to [this map](https://osu.ppy.sh/beatmapsets/1980743) created by multi-talented mapper/composer ::7_7::{ user=7491106 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/356/Songs/7_7%20feat.%20kasane%20vavzed%20-%207D.mp3" type="audio/mpeg">
@@ -63,7 +63,7 @@ For pure chaos, give your best attempt to [this map](https://osu.ppy.sh/beatmaps
 
 The **Grand Finals tiebreaker** has always been the climax of any tournament's mappool, so bringing [**DJ Genki / Gram**](https://osu.ppy.sh/beatmaps/artists/295) on board was a must.
 
-Prepare your hands for over 5 minutes of [this 8.5-star map](https://osu.ppy.sh/beatmapsets/1981053) created by ::Nifty::{ user=4956097 }, ::rubies87::{ user=4949934 }, and ::\1mtk::{ user=9468283 }. Try not to get any 100s on those last 4 notes too. :)
+Prepare your hands for over 5 minutes of [this 8.5-star map](https://osu.ppy.sh/beatmapsets/1981053) created by ::Nifty::{ user=4956097 }, ::rubies87::{ user=4949934 }, and ::_mtk::{ user=9468283 }. Try not to get any 100s on those last 4 notes too. :)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/295/Songs/Gram%20-%20Sigrdrifa.mp3" type="audio/mpeg">

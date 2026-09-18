@@ -66,7 +66,7 @@ Beware, delicious streams in near proximity, approach with utmost caution. *TOXI
 
 [![](/wiki/shared/news/2020-08-10-project-loved-august-2020/osu/6-zettai-ni-chocomint-o-taberu-aoi-chan.jpg)](https://osu.ppy.sh/community/forums/topics/1122556)
 
-[GYARI - Zettai ni Chocomint o Taberu Aoi-chan](https://osu.ppy.sh/beatmapsets/1038626#osu) by ::Rex1a::{ user=8078306 } and ::Myon\1331::{ user=7280745 }\
+[GYARI - Zettai ni Chocomint o Taberu Aoi-chan](https://osu.ppy.sh/beatmapsets/1038626#osu) by ::Rex1a::{ user=8078306 } and ::Myon_331::{ user=7280745 }\
 140 BPM, 5:17 | 5.35★\
 *description written by ::DigitalHypno::{ user=4384207 }*
 
@@ -201,7 +201,7 @@ Our first 7K pick this round is a collaboration involving a crowd favorite, ruka
 
 [![](/wiki/shared/news/2020-08-10-project-loved-august-2020/mania/6-t-t-l-time-to-love.jpg)](https://osu.ppy.sh/community/forums/topics/1122537)
 
-[T-ara & Supernova - T.T.L (Time To Love)](https://osu.ppy.sh/beatmapsets/474122#mania) by ::Reba::{ user=3087654 } and ::Kim\1GodSSI::{ user=2218047 }\
+[T-ara & Supernova - T.T.L (Time To Love)](https://osu.ppy.sh/beatmapsets/474122#mania) by ::Reba::{ user=3087654 } and ::Kim_GodSSI::{ user=2218047 }\
 210 BPM, 2:05 | \[7K\] 5.90★, \[7K\] 7.69★
 
 This next 7K pick has seen some play from last year's 7K osu!mania World Cup 2019 Semifinals. The lower diff, Lv.42, focuses on using 105 BPM full LN chordstreaming while also presenting a few jacks and dense chordjacks. The higher diff, Kim_GodSSI's Lv.72, takes these elements to a much higher level. This diff makes heavy use of chordstream inversions, shields, and hybrid chordjacking sections, which puts the player's finger independence to the test. This is something worth revisiting for both top-level and mid-level noodle slurpers!

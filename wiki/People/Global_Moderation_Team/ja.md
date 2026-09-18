@@ -117,7 +117,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=HK }:: ::Petal::{ user=7354729 } | 広東語、中国語 | General moderation |
 | ::{ flag=KR }:: ::Petit::{ user=4637369 } | 韓国語、日本語 | チャットモデレーション |
 | ::{ flag=MY }:: ::QHideaki13::{ user=733998 } | マレー語 | チャットモデレーション |
-| ::{ flag=PL }:: ::Redo\1::{ user=7122165 } | ポーランド語 | Skinning community moderation |
+| ::{ flag=PL }:: ::Redo_::{ user=7122165 } | ポーランド語 | Skinning community moderation |
 | ::{ flag=MX }:: ::Repflez::{ user=201392 } | スペイン語 | チャットモデレーション |
 | ::{ flag=FI }:: ::Riverism::{ user=4980738 } | フィンランド語、部分的なスウェーデン語、部分的な日本語 | Mapping/modding コミュニティ モデレーション、フォーラムモデレーション |
 | ::{ flag=NL }:: ::Roan::{ user=8214639 } | オランダ語、日本語 | Skinning community moderation |
@@ -131,7 +131,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=KR }:: ::Spectator::{ user=702598 } | 韓国語 | Mapping/modding コミュニティ モデレーション |
 | ::{ flag=AT }:: ::Stefan::{ user=626907 } | ドイツ語、セルビア語 | フォーラムモデレーション |
 | ::{ flag=FI }:: ::terho::{ user=6090105 } | フィンランド語 | チャットモデレーション |
-| ::{ flag=NZ }:: ::THAT\1otaku::{ user=11798717 } |  | フォーラムモデレーション、チャットモデレーション |
+| ::{ flag=NZ }:: ::THAT_otaku::{ user=11798717 } |  | フォーラムモデレーション、チャットモデレーション |
 | ::{ flag=PE }:: ::Tiburon::{ user=18115022 } | スペイン語 | チャットモデレーション |
 | ::{ flag=CH }:: ::TicClick::{ user=672931 } | ロシア語 | チャットモデレーション、wiki管理者 |
 | ::{ flag=PH }:: ::topecnz::{ user=2103927 } | フィリピノ語 | チャットモデレーション |

@@ -117,7 +117,7 @@ This competition ended with the following podiums:
 | Placing | User |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: ::lyvet::{ user=18121419 } |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: ::Plana\1::{ user=24776314 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: ::Plana_::{ user=24776314 } |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: ::Silicosis 2::{ user=18560307 } |
 
 ### osu!mania 7K

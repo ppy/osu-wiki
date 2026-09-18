@@ -35,7 +35,7 @@ As pessoas listadas abaixo são o núcleo do **osu!team** e são principalmente 
 | ::{ flag=CN }:: ::Sakura006::{ user=10365024 } | Coordenador de design da [World Cup](/wiki/Tournaments#official-world-cups) |
 | ::{ flag=FR }:: ::Shiro::{ user=113005 } | Faxineiro geral |
 | ::{ flag=AU }:: ::smoogipoo::{ user=1040328 } | Desenvolvedor do osu!, amador do osu!mania e caçador de bugs |
-| ::{ flag=PL }:: ::spaceman\1atlas::{ user=3035836 } | Desenvolvedor do osu!, suporte técnico |
+| ::{ flag=PL }:: ::spaceman_atlas::{ user=3035836 } | Desenvolvedor do osu!, suporte técnico |
 | ::{ flag=UK }:: ::Tanza::{ user=10379965 } | Designer |
 | ::{ flag=FR }:: ::ThePooN::{ user=718454 } | Desenvolvedor da infraestrutura do osu! |
 | ::{ flag=ES }:: ::Trosk-::{ user=3469385 } | Faxineiro geral, suporte de torneio e O OPERADOR |

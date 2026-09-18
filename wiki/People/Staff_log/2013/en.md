@@ -109,7 +109,7 @@ Some users' history may be incomplete during this year.
 - Moved ::Sync::{ user=806921 } from Beatmap Appreciation Team to osu! Alumni (2013-06-09) <!-- https://osu.ppy.sh/community/forums/posts/2355546 -->
 - Moved ::Pokie::{ user=207340 } from Beatmap Appreciation Team to osu! Alumni (2013-06-20) <!-- https://osu.ppy.sh/community/forums/posts/2380009 -->
 - Added ::dkun::{ user=154400 } to Beatmap Appreciation Team (2013-06-29) <!-- https://osu.ppy.sh/community/forums/topics/83704 -->
-- Added ::Azure\1Kyte::{ user=66296 } to Beatmap Appreciation Team (2013-06-29) <!-- https://osu.ppy.sh/community/forums/posts/2397130 assuming BAT because ex-MAT and receives "welcome back" -->
+- Added ::Azure_Kyte::{ user=66296 } to Beatmap Appreciation Team (2013-06-29) <!-- https://osu.ppy.sh/community/forums/posts/2397130 assuming BAT because ex-MAT and receives "welcome back" -->
 - Moved ::Breeze::{ user=77537 } from osu! Alumni to Global Moderation Team (2013-06-29) <!-- https://osu.ppy.sh/community/forums/posts/2397145 -->
 - Added ::Elly-chan::{ user=660622 } to Global Moderation Team (2013-06-29) <!-- https://osu.ppy.sh/community/forums/posts/2397398 -->
 
@@ -222,7 +222,7 @@ Some users' history may be incomplete during this year.
 - Removed ::Kokatsu::{ user=1019859 } from Beatmap Appreciation Team (2013-11-10) <!-- https://osu.ppy.sh/community/forums/posts/2677189 -->
 - Added ::Winshley::{ user=864895 } to Chat Moderators (2013-11-16) <!-- https://osu.ppy.sh/community/forums/posts/2688074 -->
 - Added ::UnderminE::{ user=444223 } to Chat Moderators (2013-11-16)
-- Added ::Evil\1Twilight::{ user=409347 } to Chat Moderators (2013-11-16) <!-- https://osu.ppy.sh/community/forums/posts/2689319 -->
+- Added ::Evil_Twilight::{ user=409347 } to Chat Moderators (2013-11-16) <!-- https://osu.ppy.sh/community/forums/posts/2689319 -->
 - Moved ::Leader::{ user=631530 } from Chat Moderators to Global Moderation Team (2013-11-16)
 - Moved ::Osu Tatakae Ouendan::{ user=594210 } from Chat Moderators to Global Moderation Team (2013-11-16)
 - Moved ::Mr Color::{ user=116078 } from Chat Moderators to Global Moderation Team (2013-11-16)

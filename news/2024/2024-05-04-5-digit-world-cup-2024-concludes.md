@@ -123,7 +123,7 @@ Spectators see the matches and memories they create, but some memories reside in
 
 ::{#birchman}::
 
-::!\1\1(/wiki/shared/news/2024-05-04-5-digit-world-cup-2024-concludes/Birchman.png)::{ user=10676573 }
+::![](/wiki/shared/news/2024-05-04-5-digit-world-cup-2024-concludes/Birchman.png)::{ user=10676573 }
 
 > Hi I'm Birchman, I've been playing the game off and on since August 2017, and I've been playing tournaments semi-actively since August 2022. I was on Canada's 5wc roster last year and had the chance to play for Canada again this year as well.
 
@@ -155,7 +155,7 @@ What was the first thing you did after the tournament?
 
 ::{#naikou}::
 
-::!\1\1(/wiki/shared/news/2024-05-04-5-digit-world-cup-2024-concludes/Naikou.png)::{ user=29139453 }
+::![](/wiki/shared/news/2024-05-04-5-digit-world-cup-2024-concludes/Naikou.png)::{ user=29139453 }
 
 > I'm a multigenre DTM producer that you probably don't know! I've been doing music for almost three years now and currently my style focuses on blending color bass elements with everything I do :3
 
@@ -177,7 +177,7 @@ What was the process like to create *Beyond Reality*? Was there a main idea behi
 
 ::{#ajmosca}::
 
-::!\1\1(/wiki/shared/news/2024-05-04-5-digit-world-cup-2024-concludes/ajmosca.png)::{ user=19884809 }
+::![](/wiki/shared/news/2024-05-04-5-digit-world-cup-2024-concludes/ajmosca.png)::{ user=19884809 }
 
 > Hi! I'm AJ, I'm a 4th year college student that started playing osu! in late 2020. In the last 2.5 years I've also become heavily involved in the tournament community, being a player and staffer for both rank-restricted and open rank competitions, as well as co-hosting a rank-restricted tournament, [Clashing Tides](https://osu.ppy.sh/community/forums/topics/1759097?n=1), last summer.
 > 
@@ -211,7 +211,7 @@ Having collaborated with a few artists at this point for original songs in your 
 
 ::{#lupa}::
 
-::!\1\1(/wiki/shared/news/2024-05-04-5-digit-world-cup-2024-concludes/Lupa.png)::{ user=4722369 }
+::![](/wiki/shared/news/2024-05-04-5-digit-world-cup-2024-concludes/Lupa.png)::{ user=4722369 }
 
 > Hi there! My name's Lupa and I've been playing osu actively since 2014. I've followed tournaments like OWC since then but have been especially involved in 4/5 digit tournaments since 2021, playing in about 35 tournaments myself and hosting 3 with a 4th on the way.
 

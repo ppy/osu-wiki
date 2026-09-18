@@ -25,7 +25,7 @@ That said, we're always striving towards future growth and even more impressive 
 
 A significant part in the above-mentioned success might be attributed to a few new Nominators joining our ranks - and when I say "a few", I mean twenty-one of them. Yes, really. Without further ado, please welcome the newst additions to the Beatmap Nominators for osu!:
 
-::- Frontier -::{ user=4314710 }, ::ailv::{ user=6933054 }, ::AyanokoRin::{ user=5376866 }, ::Bubblun::{ user=6191653 }, ::dsco::{ user=4330511 }, ::ezek::{ user=180241 }, ::Hailie::{ user=5226970 }, ::iYiyo::{ user=3919785 }, ::Kuron-Kun::{ user=2697284 }, ::Lanturn::{ user=1446665 }, ::mancuso\1JM\1::{ user=521568 }, ::Namki::{ user=5248582 }, ::Nevo::{ user=7451883 }, ::Noffy::{ user=1541323 }, ::pinataman::{ user=1235485 }, ::Realazy::{ user=918297 }, ::Sotarks::{ user=4452992 }, ::TheKingHenry::{ user=5128277 }, ::timemon::{ user=2072005 }, ::UndeadCapulet::{ user=2523533 } and ::Wishkey::{ user=1101704 }!
+::- Frontier -::{ user=4314710 }, ::ailv::{ user=6933054 }, ::AyanokoRin::{ user=5376866 }, ::Bubblun::{ user=6191653 }, ::dsco::{ user=4330511 }, ::ezek::{ user=180241 }, ::Hailie::{ user=5226970 }, ::iYiyo::{ user=3919785 }, ::Kuron-Kun::{ user=2697284 }, ::Lanturn::{ user=1446665 }, ::mancuso_JM_::{ user=521568 }, ::Namki::{ user=5248582 }, ::Nevo::{ user=7451883 }, ::Noffy::{ user=1541323 }, ::pinataman::{ user=1235485 }, ::Realazy::{ user=918297 }, ::Sotarks::{ user=4452992 }, ::TheKingHenry::{ user=5128277 }, ::timemon::{ user=2072005 }, ::UndeadCapulet::{ user=2523533 } and ::Wishkey::{ user=1101704 }!
 
 Some are returning veterans, some are stepping up for the first time, but all are working towards the same goal of bringing high quality beatmaps to the Ranked section. Many congratulations to you all on the start of another exciting journey in mapping and modding!
 
@@ -33,7 +33,7 @@ Additionally, ::Electoz::{ user=6485263 } and ::Gabe::{ user=654108 } have joine
 
 ### Beatmap Nominator retirements
 
-Sadly time waits for no circle, drum, fruit or piano inspector, and whilst many are just beginning their journey, others are taking a well-deserved break. Please offer your appreciation to ::Bonsai::{ user=987334 }, ::Monstrata::{ user=2706438 }, ::MrSergio::{ user=2581696 }, ::Rizia::{ user=1367570 }, ::sheela::{ user=1138027 } and ::Zero\1\1wind::{ user=1822830 } for the osu! game mode, as well as ::OzzyOzrock::{ user=465153 } for osu!taiko, ::Halfsmashed::{ user=4847256 } for osu!catch and ::Litharrale::{ user=3189995 } for osu!mania. Their hard work and lasting contributions have ensured players can enjoy a more varied and higher quality osu! experience for years to come.
+Sadly time waits for no circle, drum, fruit or piano inspector, and whilst many are just beginning their journey, others are taking a well-deserved break. Please offer your appreciation to ::Bonsai::{ user=987334 }, ::Monstrata::{ user=2706438 }, ::MrSergio::{ user=2581696 }, ::Rizia::{ user=1367570 }, ::sheela::{ user=1138027 } and ::Zero__wind::{ user=1822830 } for the osu! game mode, as well as ::OzzyOzrock::{ user=465153 } for osu!taiko, ::Halfsmashed::{ user=4847256 } for osu!catch and ::Litharrale::{ user=3189995 } for osu!mania. Their hard work and lasting contributions have ensured players can enjoy a more varied and higher quality osu! experience for years to come.
 
 ### Changes to Beatmap Nominator applications
 

@@ -19,7 +19,7 @@ Taste some of what **endofsystem** has to offer below.
 
 ### endofsystem - _0XB4D60DE
 
-An experiment by both musician and mapper, [this variable-velocity 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2283879) by ::maris\1a::{ user=28581372 } embodies the progressive nature of everything **endofsystem** stands for. Witness the map for yourself (in both readable and not-so-readable forms):
+An experiment by both musician and mapper, [this variable-velocity 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2283879) by ::maris_a::{ user=28581372 } embodies the progressive nature of everything **endofsystem** stands for. Witness the map for yourself (in both readable and not-so-readable forms):
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -29,7 +29,7 @@ An experiment by both musician and mapper, [this variable-velocity 4K osu!mania 
 
 ### endofsystem - 5 Beats
 
-The Ranked section needs some experimentation too. ::Anwul\1::{ user=17673611 } designed [this osu!mania map](https://osu.ppy.sh/beatmapsets/2463154) around a motif of *5*. We'll leave you to interpret the details.
+The Ranked section needs some experimentation too. ::Anwul_::{ user=17673611 } designed [this osu!mania map](https://osu.ppy.sh/beatmapsets/2463154) around a motif of *5*. We'll leave you to interpret the details.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/552/Songs/endofsystem%20-%205%20Beats.mp3">

@@ -33,7 +33,7 @@ Finalists:
 - [**YOASOBI - Yoru ni Kakeru**](https://osu.ppy.sh/beatmapsets/1218852) by ::**CoLouRed GlaZeE**::{ user=3189514 } with **811** votes.
 - [**SPYAIR - Imagination (TV Size)**](https://osu.ppy.sh/beatmapsets/1171789) by ::**browiec**::{ user=9426712 } with **606** votes.
 - [**GYZE - HONESTY**](https://osu.ppy.sh/beatmapsets/1108263) by ::**emu1337**::{ user=2185987 } with **606** votes.
-- [**TUYU - Anoyo-iki no Bus ni Notte Saraba.**](https://osu.ppy.sh/beatmapsets/1070357) by ::**SnowNiNo\1**::{ user=2506267 } with **582** votes.
+- [**TUYU - Anoyo-iki no Bus ni Notte Saraba.**](https://osu.ppy.sh/beatmapsets/1070357) by ::**SnowNiNo_**::{ user=2506267 } with **582** votes.
 - [**Eve - Kaikai Kitan (TV Size)**](https://osu.ppy.sh/beatmapsets/1270438) by ::**Kudosu**::{ user=11038155 } with **574** votes.
 - [**Camellia - OOPARTS**](https://osu.ppy.sh/beatmapsets/1312143) by ::**Realazy**::{ user=918297 } with **525** votes.
 - [**REDALiCE - Pekorap Tropical House Remix**](https://osu.ppy.sh/beatmapsets/1224414) by ::**Yuuma**::{ user=6644401 } with **511** votes.
@@ -59,7 +59,7 @@ Finalists:
 - [**Feryquitous - (S).0ngs\/\/---::compilation.\[TQR-f3\]**](https://osu.ppy.sh/beatmapsets/1124097) by ::**Acylica**::{ user=1943309 } with **52** votes.
 - [**TAROLIN feat. Katakiri Rekka - Cardinal Rave**](https://osu.ppy.sh/beatmapsets/1116399) by ::**Yusomi**::{ user=4174940 } with **43** votes.
 - [**FELT - Lost My Way**](https://osu.ppy.sh/beatmapsets/1002554) by ::**RLC**::{ user=1047883 } with **31** votes.
-- [**P*Light - SAY BAY**](https://osu.ppy.sh/beatmapsets/750316) by ::**yf\1bmp**::{ user=1243669 } with **30** votes.
+- [**P*Light - SAY BAY**](https://osu.ppy.sh/beatmapsets/750316) by ::**yf_bmp**::{ user=1243669 } with **30** votes.
 - [**System Of A Down - Toxicity**](https://osu.ppy.sh/beatmapsets/1041151) by ::**Icekalt**::{ user=5410645 } with **29** votes.
 - [**glaive - astrid**](https://osu.ppy.sh/beatmapsets/1275747) by ::**jamesjan3**::{ user=6260705 } with **29** votes.
 - [**zts - worldenddominator**](https://osu.ppy.sh/beatmapsets/897884) by ::**deetz**::{ user=3513559 } with **27** votes.

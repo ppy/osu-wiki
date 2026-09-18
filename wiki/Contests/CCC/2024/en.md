@@ -34,11 +34,11 @@ The **Chinese Charting Contest 2024** (***CCC2024***) was an osu!mania mapping c
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ::{ flag=CN }:: ::\1Stan::{ user=1653229 } |
-| Manager | ::{ flag=CN }:: ::\1Stan::{ user=1653229 }, ::{ flag=CN }:: ::mafumafu::{ user=3076909 } |
+| Organiser | ::{ flag=CN }:: ::_Stan::{ user=1653229 } |
+| Manager | ::{ flag=CN }:: ::_Stan::{ user=1653229 }, ::{ flag=CN }:: ::mafumafu::{ user=3076909 } |
 | Designer | ::{ flag=CN }:: ::AlexDunk::{ user=9194799 } |
-| Judge | ::{ flag=MY }:: ::\1Kobii::{ user=6209713 }, ::{ flag=SG }:: ::Evening::{ user=2193881 }, ::{ flag=CN }:: ::gzdongsheng::{ user=8660315 }, ::{ flag=ID }:: ::Maxus::{ user=4335785 }, ::{ flag=US }:: ::Unpredictable::{ user=7560872 } |
-| Statistician | ::{ flag=CN }:: ::\1Crz\1Alleyne::{ user=11279273 } |
+| Judge | ::{ flag=MY }:: ::_Kobii::{ user=6209713 }, ::{ flag=SG }:: ::Evening::{ user=2193881 }, ::{ flag=CN }:: ::gzdongsheng::{ user=8660315 }, ::{ flag=ID }:: ::Maxus::{ user=4335785 }, ::{ flag=US }:: ::Unpredictable::{ user=7560872 } |
+| Statistician | ::{ flag=CN }:: ::[Crz]Alleyne::{ user=11279273 } |
 
 ## Links
 

@@ -70,14 +70,14 @@ Les joueurs peuvent obtenir des badges de profil spécifiques à chaque mode, co
 | ::{ flag=US }:: ::Gabey::{ user=12904237 } | 2 |
 | ::{ flag=RO }:: ::nanoya::{ user=12366071 } | 2 |
 | ::{ flag=US }:: ::Majernja::{ user=11379588 } | 2 |
-| ::{ flag=US }:: ::Swiq\1::{ user=11269055 } | 1 |
+| ::{ flag=US }:: ::Swiq_::{ user=11269055 } | 1 |
 | ::{ flag=BG }:: ::- Frane-::{ user=7211425 } | 1 |
 | ::{ flag=US }:: ::razorfruit::{ user=4470775 } | 1 |
 | ::{ flag=MX }:: ::Reimu-::{ user=1770700 } | 1 |
 | ::{ flag=CN }:: ::Garden::{ user=2849992 } | 1 |
 | ::{ flag=US }:: ::Junjou::{ user=7077648 } | 1 |
 | ::{ flag=ES }:: ::Alvaroping1::{ user=15289150 } | 1 |
-| ::{ flag=US }:: ::this\1cord1985::{ user=19123572 } | 1 |
+| ::{ flag=US }:: ::this_cord1985::{ user=19123572 } | 1 |
 | ::{ flag=US }:: ::Topical Kek::{ user=14480574 } | 1 |
 | ::{ flag=RU }:: ::Daycore::{ user=5596337 } | 1 |
 | ::{ flag=SI }:: ::Sirek::{ user=14666725 } | 1 |
@@ -92,15 +92,15 @@ Les joueurs peuvent obtenir des badges de profil spécifiques à chaque mode, co
 | Utilisateur | Points |
 | :-- | :-- |
 | ::{ flag=US }:: **::AuroraPhasmata::{ user=13664116 }** | **18** |
-| ::{ flag=NL }:: **::Cookie\1Tree::{ user=502722 }** | **10** |
+| ::{ flag=NL }:: **::Cookie_Tree::{ user=502722 }** | **10** |
 | ::{ flag=JP }:: **::uone::{ user=5321719 }** | **10** |
-| ::{ flag=JP }:: **::Grape\1Tea::{ user=9540073 }** | **10** |
+| ::{ flag=JP }:: **::Grape_Tea::{ user=9540073 }** | **10** |
 | ::{ flag=JP }:: **::Eriha::{ user=16320311 }** | **10** |
 | ::{ flag=JP }:: **::HaLTi::{ user=16650552 }** | **10** |
 | ::{ flag=US }:: ::Arityle::{ user=18397349 } | 8 |
 | ::{ flag=MY }:: ::6gicha::{ user=12273160 } | 5 |
 | ::{ flag=SE }:: ::Raphalge::{ user=3918650 }[^précédent-prix] | 5 |
-| ::{ flag=FR }:: ::Acii\1::{ user=11253595 } | 4 |
+| ::{ flag=FR }:: ::Acii_::{ user=11253595 } | 4 |
 | ::{ flag=PH }:: ::Niro-::{ user=6443899 } | 4 |
 | ::{ flag=US }:: ::cheese salad::{ user=6349821 }[^précédent-prix] | 3 |
 | ::{ flag=US }:: ::ewio::{ user=16261750 } | 2 |
@@ -112,10 +112,10 @@ Les joueurs peuvent obtenir des badges de profil spécifiques à chaque mode, co
 | ::{ flag=GB }:: ::chromb::{ user=10238680 } | 2 |
 | ::{ flag=FR }:: ::Ranshi::{ user=6680785 } | 2 |
 | ::{ flag=CA }:: ::DimplesRMe::{ user=13348268 } | 2 |
-| ::{ flag=TH }:: ::\1 Naris \1::{ user=7033479 } | 1 |
-| ::{ flag=AR }:: ::gaston\12199::{ user=5938161 } | 1 |
+| ::{ flag=TH }:: ::[ Naris ]::{ user=7033479 } | 1 |
+| ::{ flag=AR }:: ::gaston_2199::{ user=5938161 } | 1 |
 | ::{ flag=DE }:: ::Dioramos::{ user=14415208 } | 1 |
-| ::{ flag=VN }:: ::\1 Primakien \1::{ user=23941998 } | 1 |
+| ::{ flag=VN }:: ::[ Primakien ]::{ user=23941998 } | 1 |
 | ::{ flag=AU }:: ::wakkachung::{ user=11408442 } | 1 |
 | ::{ flag=GB }:: ::Conor::{ user=2607498 } | 1 |
 | ::{ flag=GB }:: ::Horiiizon::{ user=8071438 } | 1 |
@@ -125,11 +125,11 @@ Les joueurs peuvent obtenir des badges de profil spécifiques à chaque mode, co
 | ::{ flag=KR }:: ::NaNaHiDa::{ user=30114023 } | 1 |
 | ::{ flag=TW }:: ::rex0988476::{ user=11426995 } | 1 |
 | ::{ flag=IN }:: ::CheesedToMeet::{ user=12309983 } | 1 |
-| ::{ flag=VN }:: ::hi\1there\1osu::{ user=22698999 } | 1 |
+| ::{ flag=VN }:: ::hi_there_osu::{ user=22698999 } | 1 |
 | ::{ flag=SE }:: ::Sturvos::{ user=7050679 } | 1 |
 | ::{ flag=FI }:: ::Antti::{ user=13281473 } | 1 |
 | ::{ flag=JP }:: ::Yukiama95::{ user=18535502 } | 1 |
-| ::{ flag=KR }:: ::lnote\1::{ user=14631339 } | 1 |
+| ::{ flag=KR }:: ::lnote_::{ user=14631339 } | 1 |
 | ::{ flag=US }:: ::zachmanthethird::{ user=15048710 } | 1 |
 
 ### osu!catch
@@ -174,9 +174,9 @@ Les joueurs peuvent obtenir des badges de profil spécifiques à chaque mode, co
 | ::{ flag=TH }:: **::AOMDco::{ user=21072569 }** | **10** |
 | ::{ flag=US }:: **::mashu::{ user=12028216 }** | **10** |
 | ::{ flag=TH }:: **::Monpluk::{ user=23299675 }** | **10** |
-| ::{ flag=KR }:: ::lnote\1::{ user=14631339 } | 8 |
+| ::{ flag=KR }:: ::lnote_::{ user=14631339 } | 8 |
 | ::{ flag=DE }:: ::ERA Sirbeyy::{ user=12917829 } | 7 |
-| ::{ flag=US }:: ::\1GS\1Teo::{ user=7081478 }[^précédent-prix] | 5 |
+| ::{ flag=US }:: ::[GS]Teo::{ user=7081478 }[^précédent-prix] | 5 |
 | ::{ flag=ID }:: ::AncuL::{ user=2449200 }[^précédent-prix] | 5 |
 | ::{ flag=CN }:: ::Carpihat::{ user=10085090 } | 5 |
 | ::{ flag=US }:: ::TPColor::{ user=19102458 } | 4 |
@@ -196,12 +196,12 @@ Les joueurs peuvent obtenir des badges de profil spécifiques à chaque mode, co
 | ::{ flag=US }:: ::netzoid::{ user=25673755 } | 2 |
 | ::{ flag=ID }:: ::Aphelion-::{ user=8370351 } | 2 |
 | ::{ flag=CN }:: ::Postal0177::{ user=32263201 } | 2 |
-| ::{ flag=US }:: ::Tofivu\1::{ user=9152166 } | 1 |
+| ::{ flag=US }:: ::Tofivu_::{ user=9152166 } | 1 |
 | ::{ flag=ID }:: ::Arzenvald::{ user=3027421 } | 1 |
 | ::{ flag=KR }:: ::AAAAFanboy::{ user=21870287 } | 1 |
 | ::{ flag=US }:: ::Kiwineo::{ user=15991262 } | 1 |
 | ::{ flag=MY }:: ::Naheeno::{ user=11197096 } | 1 |
-| ::{ flag=CN }:: ::\1Crz\1Alleyne::{ user=11279273 } | 1 |
+| ::{ flag=CN }:: ::[Crz]Alleyne::{ user=11279273 } | 1 |
 | ::{ flag=BR }:: ::MaxJunior::{ user=7163621 } | 1 |
 | ::{ flag=US }:: ::Znow::{ user=15513303 } | 1 |
 | ::{ flag=CN }:: ::RiceSS::{ user=8271436 } | 1 |

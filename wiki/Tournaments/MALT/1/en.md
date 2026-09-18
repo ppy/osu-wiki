@@ -77,7 +77,7 @@ The osu!mania Apprentice-level 7K Tournament offered a $240 cash prize pool!
 | 10 | ::{ flag=BH }:: ::Unitori-::{ user=15772814 } |
 | 11 | ::{ flag=NO }:: ::Ziquids::{ user=10972799 } |
 | 12 | ::{ flag=FR }:: ::PouletFurtif::{ user=1271018 } |
-| 13 | ::{ flag=MY }:: ::Qosu\1::{ user=25660423 } |
+| 13 | ::{ flag=MY }:: ::Qosu_::{ user=25660423 } |
 | 14 | ::{ flag=US }:: ::yellowbadbeast::{ user=22613611 } |
 | 15 | ::{ flag=SG }:: ::Japeynius::{ user=13993659 } |
 | 16 | ::{ flag=UA }:: ::Lazurent::{ user=17272017 } |
@@ -104,15 +104,15 @@ The osu!mania Apprentice-level 7K Tournament offered a $240 cash prize pool!
 | 37 | ::{ flag=SE }:: ::Logg45vs::{ user=8684540 } |
 | 38 | ::{ flag=US }:: ::Mables::{ user=12306030 } |
 | 39 | ::{ flag=ID }:: ::Maxus::{ user=4335785 } |
-| 40 | ::{ flag=IT }:: ::Lorak\180::{ user=20028293 } |
-| 41 | ::{ flag=PH }:: ::c\1latte::{ user=22668430 } |
-| 42 | ::{ flag=IQ }:: ::The\1SMasher\1sni::{ user=29613861 } |
+| 40 | ::{ flag=IT }:: ::Lorak_80::{ user=20028293 } |
+| 41 | ::{ flag=PH }:: ::c_latte::{ user=22668430 } |
+| 42 | ::{ flag=IQ }:: ::The_SMasher_sni::{ user=29613861 } |
 | 43 | ::{ flag=PL }:: ::Seemoon::{ user=2383766 } |
 | 44 | ::{ flag=ID }:: ::-Yubi-::{ user=17851478 } |
 | 45 | ::{ flag=FR }:: ::poketoine::{ user=27254270 } |
 | 46 | ::{ flag=ID }:: ::Mipha-::{ user=5767941 } |
 | 47 | ::{ flag=GT }:: ::Votchis::{ user=14862011 } |
-| 48 | ::{ flag=VE }:: ::Shiro\1122::{ user=28455993 } |
+| 48 | ::{ flag=VE }:: ::Shiro_122::{ user=28455993 } |
 
 ## Podium
 

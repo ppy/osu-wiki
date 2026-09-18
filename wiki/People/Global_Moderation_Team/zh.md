@@ -139,7 +139,7 @@ tags:
 | ::{ flag=HK }:: ::Petal::{ user=7354729 } | 粤语，汉语 | 全局管理员 |
 | ::{ flag=KR }:: ::Petit::{ user=4637369 } | 韩语，日语 | 聊天管理员 |
 | ::{ flag=MY }:: ::QHideaki13::{ user=733998 } | 马来语 | 聊天管理员 |
-| ::{ flag=PL }:: ::Redo\1::{ user=7122165 } | 波兰语 | 自定义皮肤社区管理员 |
+| ::{ flag=PL }:: ::Redo_::{ user=7122165 } | 波兰语 | 自定义皮肤社区管理员 |
 | ::{ flag=MX }:: ::Repflez::{ user=201392 } | 西班牙语 | 聊天管理员 |
 | ::{ flag=FI }:: ::Riverism::{ user=4980738 } | 芬兰语，一部分瑞典语，一部分日语 | 作图摸图社群管理员，论坛管理员 |
 | ::{ flag=NL }:: ::Roan::{ user=8214639 } | 荷兰语，日语 | 自定义皮肤社区管理员 |
@@ -153,7 +153,7 @@ tags:
 | ::{ flag=KR }:: ::Spectator::{ user=702598 } | 韩语 | 作图摸图社群管理员 |
 | ::{ flag=AT }:: ::Stefan::{ user=626907 } | 德语，塞尔维亚语 | 论坛管理员 |
 | ::{ flag=FI }:: ::terho::{ user=6090105 } | 芬兰语 | 聊天管理员 |
-| ::{ flag=NZ }:: ::THAT\1otaku::{ user=11798717 } |  | 论坛管理员，聊天管理员 |
+| ::{ flag=NZ }:: ::THAT_otaku::{ user=11798717 } |  | 论坛管理员，聊天管理员 |
 | ::{ flag=PE }:: ::Tiburon::{ user=18115022 } | 西班牙语 | 聊天管理员 |
 | ::{ flag=CH }:: ::TicClick::{ user=672931 } | 俄语 | 聊天管理员，wiki 管理员 |
 | ::{ flag=PH }:: ::topecnz::{ user=2103927 } | 菲律宾语 | 聊天管理员 |

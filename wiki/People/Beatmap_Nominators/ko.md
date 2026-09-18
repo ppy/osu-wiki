@@ -141,11 +141,11 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 
 | 닉네임 | 추가 언어 |
 | :-- | :-- |
-| ::{ flag=TW }:: ::\1Rokii::{ user=12770065 } | 중국어 |
+| ::{ flag=TW }:: ::_Rokii::{ user=12770065 } | 중국어 |
 | ::{ flag=CN }:: ::\_Stan::{ user=1653229 } | 중국어 |
 | ::{ flag=KR }:: ::-Ming-::{ user=20127755 } | 한국어 |
-| ::{ flag=CN }:: ::\1Crz\1Alleyne::{ user=11279273 } | 중국어 |
-| ::{ flag=TW }:: ::\1Sick\1Catcat::{ user=11544934 } | 중국어 |
+| ::{ flag=CN }:: ::[Crz]Alleyne::{ user=11279273 } | 중국어 |
+| ::{ flag=TW }:: ::[Sick]Catcat::{ user=11544934 } | 중국어 |
 | ::{ flag=ID }:: ::AchsanLovers::{ user=6368737 } | 인도네시아어 |
 | ::{ flag=ID }:: ::Al-Reina::{ user=7037423 } | 인도네시아어 |
 | ::{ flag=ID }:: ::Amiichii::{ user=9228569 } | 인도네시아어 |
@@ -153,7 +153,7 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | ::{ flag=GB }:: ::Asherz007::{ user=9014047 } |  |
 | ::{ flag=CN }:: ::AWMRone::{ user=10351684 } | 중국어 |
 | ::{ flag=US }:: ::Crisper::{ user=16482505 } |  |
-| ::{ flag=MY }:: ::Critical\1Star::{ user=3793196 } | 말레이어 |
+| ::{ flag=MY }:: ::Critical_Star::{ user=3793196 } | 말레이어 |
 | ::{ flag=AU }:: ::Decku::{ user=13360768 } |  |
 | ::{ flag=KR }:: ::DenYi::{ user=14998645 } | 한국어 |
 | ::{ flag=CA }:: ::Drum-Hitnormal::{ user=748722 } |  |
@@ -177,7 +177,7 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | ::{ flag=US }:: ::Protastic101::{ user=6712747 } |  |
 | ::{ flag=ES }:: ::RandomeLoL::{ user=7080063 } | 스페인어 |
 | ::{ flag=ID }:: ::RiP46::{ user=5222596 } | 인도네시아어 |
-| ::{ flag=ID }:: ::Rivals\17::{ user=4610379 } | 인도네시아어 |
+| ::{ flag=ID }:: ::Rivals_7::{ user=4610379 } | 인도네시아어 |
 | ::{ flag=CA }:: ::Ryax::{ user=8949769 } |  |
 | ::{ flag=KR }:: ::secXcscX::{ user=13543418 } | 한국어 |
 | ::{ flag=CA }:: ::Shad0wStar::{ user=16866460 } |  |
@@ -210,7 +210,7 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | ::{ flag=DE }:: ::Mir::{ user=8688812 } | 독일어 |
 | ::{ flag=FR }:: ::Sajinn::{ user=13513687 } | 프랑스어 |
 | ::{ flag=BR }:: ::Seto Kousuke::{ user=2857314 } | 포르투갈어 |
-| ::{ flag=BA }:: ::Stompy\1::{ user=16429579 } | 보스니아어 |
+| ::{ flag=BA }:: ::Stompy_::{ user=16429579 } | 보스니아어 |
 | ::{ flag=CA }:: ::superstore::{ user=16755693 } |  |
 | ::{ flag=PL }:: ::Venix::{ user=5999631 } | 폴란드어 |
 | ::{ flag=US }:: ::xBlurinq::{ user=7540631 } |  |

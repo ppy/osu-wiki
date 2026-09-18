@@ -14,7 +14,7 @@ Additionaly, we want to name our current volunteers who helped since last month'
 - **osu!taiko:** ::Arrival::{ user=1694000 },
 ::Hanjamon::{ user=1703330 }, ::Nwolf::{ user=1910766 }, ::qoot8123::{ user=766371 }, ::S a n d::{ user=676578 }
 - **osu!catch:** ::Chara::{ user=829284 }, ::Zoe::{ user=894101 }, ::Zak::{ user=1375955 }
-- **osu!mania:** ::-Kamikaze-::{ user=2124783 }, ::\1 A v a l o n \1::{ user=4632359 }, ::Evening::{ user=2193881 }, ::Jinjin::{ user=3360737 }
+- **osu!mania:** ::-Kamikaze-::{ user=2124783 }, ::[ A v a l o n ]::{ user=4632359 }, ::Evening::{ user=2193881 }, ::Jinjin::{ user=3360737 }
 
 Volunteers are suggested and invited by the QAT. Due to the varying amount of QATs familiar with each gamemode to cover, the amount of volunteers for each gamemode is varying as well. We are still looking for people to help us with the Ranking Charts so more will follow.
 
@@ -111,7 +111,7 @@ For me the absolute highlight of this month. osu!mania really rarely get maratho
 
 pporse is back with his 7K marathon maps! pporse's maps are generally known for its buttery smooth patterning and flow structure, while not sacrificing the sheer difficulty. This map includes some nice use of SVs throughout the map, and has appropriate layering and long note usage that closely follow the song. While the second half of the song is pretty repetitive, the varied patterns that pporse uses for each repetition makes the map more memorable. Overall, very nicely structured.
 
-- [Chino(CV.Minase Inori) - Shinsaku no Shiawase wa Kochira!](https://osu.ppy.sh/beatmapsets/461904) by ::\1Emiria\1::{ user=2046044 } (Nominator: ::-Kamikaze-::{ user=2124783 })
+- [Chino(CV.Minase Inori) - Shinsaku no Shiawase wa Kochira!](https://osu.ppy.sh/beatmapsets/461904) by ::[Emiria]::{ user=2046044 } (Nominator: ::-Kamikaze-::{ user=2124783 })
 
 Yet another great 7+1K mapset by Emiria, also known as victorica_db. When I first heard the song, I thought "That's going to probably be pretty boring", but the IIDX inspired patterning and very creative scratch placement makes it a total blast to play.
 Even despite song's relatively calm atmosphere and slow pace, it doesn't get boring at all. A great accuracy chart for higher end players and a hard technical one for those who aren't that proficient at 8K.

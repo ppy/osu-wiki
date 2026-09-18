@@ -188,11 +188,11 @@ As expected, you'll be tested in typical Firce and tasuke fashion: hard, uncommo
 
 [![](/wiki/shared/news/2024-05-22-project-loved-may-2024/1014856.jpg)](https://osu.ppy.sh/community/forums/topics/1925241)
 
-[7_7 - Kongetsugou ha!?!?!?](https://osu.ppy.sh/beatmapsets/1014856#taiko) by ::7\17::{ user=7491106 }, ::Lumenite-::{ user=6256027 }, and ::Waribashi::{ user=2250574 }\
+[7_7 - Kongetsugou ha!?!?!?](https://osu.ppy.sh/beatmapsets/1014856#taiko) by ::7_7::{ user=7491106 }, ::Lumenite-::{ user=6256027 }, and ::Waribashi::{ user=2250574 }\
 255 BPM, 2:30 | 6.62★, 6.66★, 6.95★\
 *description written by ::aceticke::{ user=8838763 }*
 
-::7\17::{ user=7491106 } returns to the Loved voting again this month with another of their own tracks, [Kongetsugou ha!?!?!?](https://osu.ppy.sh/beatmapsets/1014856#taiko). This mashcore track combines a variety of songs seamlessly, and you might recognise samples such as *KASAI HARCORES - Trinity Run*, *PSYQUI - Education*, and even *Toby Fox - Spider Dance* from the popular indie hit *UNDERTALE*!
+::7_7::{ user=7491106 } returns to the Loved voting again this month with another of their own tracks, [Kongetsugou ha!?!?!?](https://osu.ppy.sh/beatmapsets/1014856#taiko). This mashcore track combines a variety of songs seamlessly, and you might recognise samples such as *KASAI HARCORES - Trinity Run*, *PSYQUI - Education*, and even *Toby Fox - Spider Dance* from the popular indie hit *UNDERTALE*!
 
 With three difficulties in the upper 6★ range, one from *7_7* themselves as well as ::Waribashi::{ user=2250574 }'s *YN Month* and the [TWC2022](/wiki/Tournaments/TWC/2022) QF HD2 pick *The TWC Daily!?!?!?* from ::Lumenite-::{ user=6256027 }, this set isn't for the faint-of-hearts!
 
@@ -371,11 +371,11 @@ As a well known map that players have already enjoyed for a long time, we believ
 
 [![](/wiki/shared/news/2024-05-22-project-loved-may-2024/1579289.jpg)](https://osu.ppy.sh/community/forums/topics/1925226)
 
-[Yorushika - Ano Natsu ni Sake](https://osu.ppy.sh/beatmapsets/1579289#mania) by ::emO\1Oticon::{ user=12064488 }\
+[Yorushika - Ano Natsu ni Sake](https://osu.ppy.sh/beatmapsets/1579289#mania) by ::emO_Oticon::{ user=12064488 }\
 160 BPM, 4:14 | 8.65★\
 *description written by ::Leeju::{ user=18219603 }*
 
-Our fan favorite LN mapper ::emO\1Oticon::{ user=12064488 } returns yet again to the Loved section with yet another masterpiece of a map!
+Our fan favorite LN mapper ::emO_Oticon::{ user=12064488 } returns yet again to the Loved section with yet another masterpiece of a map!
 
 With well balanced, aesthetically pleasing and comfortable to play patterns, emO_Oticon displays their mastery of creating fun and challenging long note maps perfectly here.
 

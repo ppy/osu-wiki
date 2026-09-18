@@ -25,7 +25,7 @@ Play through [the map that was uploaded today](https://osu.ppy.sh/beatmapsets/24
 
 ### [MEMODEMO - Love Language](https://assets.ppy.sh/artists/508/Songs/MEMODEMO%20-%20Love%20Language.osz)
 
-If circles aren't your thing, you can also experience [this osu!catch marathon](https://osu.ppy.sh/beatmapsets/2152480) hosted by ::Unlucky\1w::{ user=4820793 }!
+If circles aren't your thing, you can also experience [this osu!catch marathon](https://osu.ppy.sh/beatmapsets/2152480) hosted by ::Unlucky_w::{ user=4820793 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/508/Songs/MEMODEMO%20-%20Love%20Language.mp3">

@@ -42,10 +42,10 @@ COT 2022 was run by various osu! community members mostly hailing from the Commo
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=UA }:: ::bernkastel feet::{ user=13681464 }, ::{ flag=RU }:: ::ThankYou::{ user=4571241 } |
-| Mappool selector | ::{ flag=UA }:: ::bernkastel feet::{ user=13681464 }, ::{ flag=RU }:: ::Xetopia::{ user=6689101 }, ::{ flag=RU }:: ::Rebbel::{ user=4595355 }, ::{ flag=RU }:: ::ThankYou::{ user=4571241 }, ::{ flag=RU }:: ::\1Insomnia::{ user=8928855 }, ::{ flag=CL }:: ::Pekorrat::{ user=1250096 } |
+| Mappool selector | ::{ flag=UA }:: ::bernkastel feet::{ user=13681464 }, ::{ flag=RU }:: ::Xetopia::{ user=6689101 }, ::{ flag=RU }:: ::Rebbel::{ user=4595355 }, ::{ flag=RU }:: ::ThankYou::{ user=4571241 }, ::{ flag=RU }:: ::_Insomnia::{ user=8928855 }, ::{ flag=CL }:: ::Pekorrat::{ user=1250096 } |
 | Streamer | ::{ flag=RU }:: ::ThankYou::{ user=4571241 }, ::{ flag=UA }:: ::bernkastel feet::{ user=13681464 }, ::{ flag=RU }:: ::2zz::{ user=8201267 } |
-| Commentator | ::{ flag=RU }:: ::Nelly::{ user=4741164 }, ::{ flag=RU }:: ::\1Insomnia::{ user=8928855 }, ::{ flag=UA }:: ::bernkastel feet::{ user=13681464 }, ::{ flag=RU }:: ::ThankYou::{ user=4571241 } |
-| Referee | ::{ flag=RU }:: ::\1Insomnia::{ user=8928855 }, ::{ flag=UA }:: ::bernkastel feet::{ user=13681464 }, ::{ flag=RU }:: ::2zz::{ user=8201267 }, ::{ flag=RU }:: ::MRX::{ user=10954753 }, ::{ flag=RU }:: ::ThankYou::{ user=4571241 } |
+| Commentator | ::{ flag=RU }:: ::Nelly::{ user=4741164 }, ::{ flag=RU }:: ::_Insomnia::{ user=8928855 }, ::{ flag=UA }:: ::bernkastel feet::{ user=13681464 }, ::{ flag=RU }:: ::ThankYou::{ user=4571241 } |
+| Referee | ::{ flag=RU }:: ::_Insomnia::{ user=8928855 }, ::{ flag=UA }:: ::bernkastel feet::{ user=13681464 }, ::{ flag=RU }:: ::2zz::{ user=8201267 }, ::{ flag=RU }:: ::MRX::{ user=10954753 }, ::{ flag=RU }:: ::ThankYou::{ user=4571241 } |
 | Designer | ::{ flag=RU }:: ::ThankYou::{ user=4571241 }, ::{ flag=RU }:: ::2zz::{ user=8201267 } |
 | Spreadsheet manager | ::{ flag=UA }:: ::bernkastel feet::{ user=13681464 } |
 | Wiki editor | ::{ flag=RU }:: ::Nelly::{ user=4741164 } |
@@ -63,7 +63,7 @@ COT 2022 was run by various osu! community members mostly hailing from the Commo
 | Seed | Members |
 | :-: | :-- |
 | 1-8 | ::{ flag=RU }:: ::KitsunIvy::{ user=7055384 }, ::{ flag=RU }:: ::Nelly::{ user=4741164 }, ::{ flag=UA }:: ::FruktoLove::{ user=8417087 }, ::{ flag=RU }:: ::Memoriola::{ user=6856387 }, ::{ flag=RU }:: ::vafara::{ user=18917363 }, ::{ flag=RU }:: ::cosilgam::{ user=15960747 }, ::{ flag=RU }:: ::dark rainbow::{ user=10557830 }, ::{ flag=RU }:: ::BocDyx::{ user=7926192 } |
-| 9-24 | ::{ flag=RU }:: ::Kenny331::{ user=11534285 }, ::{ flag=UA }:: ::\1-Nyaruko-\1::{ user=13712671 }, ::{ flag=LV }:: ::Soruki::{ user=11762423 }, ::{ flag=RU }:: ::yuinn::{ user=11239593 }, ::{ flag=UA }:: ::Shadowbolts1::{ user=13962882 }, ::{ flag=UA }:: ::Violet Feets::{ user=15558360 }, ::{ flag=RU }:: ::Mazuki::{ user=15208771 }, ::{ flag=RU }:: ::mirofantasm::{ user=6650048 }, ::{ flag=RU }:: ::catch the ExGon::{ user=12081746 }, ::{ flag=RU }:: ::liquid\1boba::{ user=11694783 }, ::{ flag=RU }:: ::vinnikoish::{ user=14509580 }, ::{ flag=UA }:: ::NamakemonsteR::{ user=17314832 }, ::{ flag=LV }:: ::oFKors01::{ user=26522965 }, ::{ flag=RU }:: ::yoraze::{ user=18240388 }, ::{ flag=RU }:: ::PedobeerKoroche::{ user=19389015 }, ::{ flag=RU }:: ::HAWAIIPIZZA::{ user=17668833 } |
+| 9-24 | ::{ flag=RU }:: ::Kenny331::{ user=11534285 }, ::{ flag=UA }:: ::[-Nyaruko-]::{ user=13712671 }, ::{ flag=LV }:: ::Soruki::{ user=11762423 }, ::{ flag=RU }:: ::yuinn::{ user=11239593 }, ::{ flag=UA }:: ::Shadowbolts1::{ user=13962882 }, ::{ flag=UA }:: ::Violet Feets::{ user=15558360 }, ::{ flag=RU }:: ::Mazuki::{ user=15208771 }, ::{ flag=RU }:: ::mirofantasm::{ user=6650048 }, ::{ flag=RU }:: ::catch the ExGon::{ user=12081746 }, ::{ flag=RU }:: ::liquid_boba::{ user=11694783 }, ::{ flag=RU }:: ::vinnikoish::{ user=14509580 }, ::{ flag=UA }:: ::NamakemonsteR::{ user=17314832 }, ::{ flag=LV }:: ::oFKors01::{ user=26522965 }, ::{ flag=RU }:: ::yoraze::{ user=18240388 }, ::{ flag=RU }:: ::PedobeerKoroche::{ user=19389015 }, ::{ flag=RU }:: ::HAWAIIPIZZA::{ user=17668833 } |
 
 See the [participants sheet](https://docs.google.com/spreadsheets/d/1iie_zXj1GbS_Sx4MyWdGOYD9raofZ46uomMbVW6wm48/edit#gid=749874175) for a list of all initial participants.
 
@@ -306,7 +306,7 @@ Saturday, 19 February 2022:
 | Upper | **::Memoriola::{ user=6856387 }** ::{ flag=RU }:: | **5** | 2 | ::{ flag=RU }:: ::vafara::{ user=18917363 } | [#1](https://osu.ppy.sh/community/matches/97954212) |
 | Lower | **::Violet Feets::{ user=15558360 }** ::{ flag=UA }:: | **5** | 0 | ::{ flag=RU }:: ::HAWAIIPIZZA::{ user=17668833 } | *win by default* |
 | Lower | **::BocDyx::{ user=7926192 }** ::{ flag=RU }:: | **5** | 0 | ::{ flag=RU }:: ::vinnikoish::{ user=14509580 } | *win by default* |
-| Lower | **::yuinn::{ user=11239593 }** ::{ flag=RU }:: | **5** | 0 | ::{ flag=RU }:: ::liquid\1boba::{ user=11694783 } | [#1](https://osu.ppy.sh/community/matches/97947507) |
+| Lower | **::yuinn::{ user=11239593 }** ::{ flag=RU }:: | **5** | 0 | ::{ flag=RU }:: ::liquid_boba::{ user=11694783 } | [#1](https://osu.ppy.sh/community/matches/97947507) |
 | Lower | **::Soruki::{ user=11762423 }** ::{ flag=LV }:: | **5** | 3 | ::{ flag=RU }:: ::mirofantasm::{ user=6650048 } | [#1](https://osu.ppy.sh/community/matches/97949231) |
 | Lower | **::dark rainbow::{ user=10557830 }** ::{ flag=RU }:: | **5** | 0 | ::{ flag=UA }:: ::NamakemonsteR::{ user=17314832 } | [#1](https://osu.ppy.sh/community/matches/97952023) |
 | Lower | **::catch the ExGon::{ user=12081746 }** ::{ flag=RU }:: | **5** | 0 | ::{ flag=RU }:: ::yoraze::{ user=18240388 } | [#1](https://osu.ppy.sh/community/matches/97953952) |
@@ -342,7 +342,7 @@ Sunday, 13 February 2022:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **::FruktoLove::{ user=8417087 }** ::{ flag=UA }:: | **5** | 0 | ::{ flag=UA }:: ::Violet Feets::{ user=15558360 } | [#1](https://osu.ppy.sh/community/matches/97736110) |
 | Upper | **::KitsunIvy::{ user=7055384 }** ::{ flag=RU }:: | **5** | 0 | ::{ flag=RU }:: ::catch the ExGon::{ user=12081746 } | [#1](https://osu.ppy.sh/community/matches/97738074) |
-| Upper | ::dark rainbow::{ user=10557830 } ::{ flag=RU }:: | 0 | **5** | ::{ flag=UA }:: **::\1-Nyaruko-\1::{ user=13712671 }** | [#1](https://osu.ppy.sh/community/matches/97740096) |
+| Upper | ::dark rainbow::{ user=10557830 } ::{ flag=RU }:: | 0 | **5** | ::{ flag=UA }:: **::[-Nyaruko-]::{ user=13712671 }** | [#1](https://osu.ppy.sh/community/matches/97740096) |
 | Upper | **::Nelly::{ user=4741164 }** ::{ flag=RU }:: | **5** | 0 | ::{ flag=RU }:: ::Mazuki::{ user=15208771 } | [#1](https://osu.ppy.sh/community/matches/97741940) |
 
 ### Round of 24
@@ -354,7 +354,7 @@ Saturday, 5 February 2022:
 | Upper | **::Violet Feets::{ user=15558360 }** ::{ flag=UA }:: | **5** | 2 | ::{ flag=RU }:: ::vinnikoish::{ user=14509580 } | [#1](https://osu.ppy.sh/community/matches/97417909) |
 | Upper | **::Kenny331::{ user=11534285 }** ::{ flag=RU }:: | **5** | 0 | ::{ flag=RU }:: ::HAWAIIPIZZA::{ user=17668833 } | *win by default* |
 | Upper | ::mirofantasm::{ user=6650048 } ::{ flag=RU }:: | 1 | **5** | ::{ flag=RU }:: **::catch the ExGon::{ user=12081746 }** | [#1](https://osu.ppy.sh/community/matches/97425915) |
-| Upper | **::\1-Nyaruko-\1::{ user=13712671 }** ::{ flag=UA }:: | **5** | 1 | ::{ flag=RU }:: ::PedobeerKoroche::{ user=19389015 } | [#1](https://osu.ppy.sh/community/matches/97428394) |
+| Upper | **::[-Nyaruko-]::{ user=13712671 }** ::{ flag=UA }:: | **5** | 1 | ::{ flag=RU }:: ::PedobeerKoroche::{ user=19389015 } | [#1](https://osu.ppy.sh/community/matches/97428394) |
 
 Sunday, 6 February 2022:
 
@@ -363,7 +363,7 @@ Sunday, 6 February 2022:
 | Upper | **::Shadowbolts1::{ user=13962882 }** ::{ flag=UA }:: | **5** | 3 | ::{ flag=UA }:: ::NamakemonsteR::{ user=17314832 } | [#1](https://osu.ppy.sh/community/matches/97464444) |
 | Upper | **::yuinn::{ user=11239593 }** ::{ flag=RU }:: | **5** | 0 | ::{ flag=LV }:: ::oFKors01::{ user=26522965 } | [#1](https://osu.ppy.sh/community/matches/97468931) |
 | Upper | **::Soruki::{ user=11762423 }** ::{ flag=LV }:: | **5** | 0 | ::{ flag=RU }:: ::yoraze::{ user=18240388 } | [#1](https://osu.ppy.sh/community/matches/97470519) |
-| Upper | **::Mazuki::{ user=15208771 }** ::{ flag=RU }:: | **5** | 2 | ::{ flag=RU }:: ::liquid\1boba::{ user=11694783 } | [#1](https://osu.ppy.sh/community/matches/97472770) |
+| Upper | **::Mazuki::{ user=15208771 }** ::{ flag=RU }:: | **5** | 2 | ::{ flag=RU }:: ::liquid_boba::{ user=11694783 } | [#1](https://osu.ppy.sh/community/matches/97472770) |
 
 ### Qualifiers
 

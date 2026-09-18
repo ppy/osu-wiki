@@ -502,7 +502,7 @@ Cet article répertorie toutes les beatmaps showcase qui ont été créées par 
 - **[Raimukun](https://osu.ppy.sh/home/news/2022-03-12-new-featured-artist-raimukun)** (12/03/2022)
   - (![][osu!catch]) [Raimukun - Firmament star](https://osu.ppy.sh/beatmapsets/1633703#fruits/3360065) organisé par ::{ flag=PH }:: ::Jemzuu::{ user=7890134 }
 - **[Plum](https://osu.ppy.sh/home/news/2022-03-19-new-featured-artist-plum)** (19/03/2022)
-  - (![][osu!]) [Plum - Maelstrom](https://osu.ppy.sh/beatmapsets/1679690#osu/3493711) organisé par ::{ flag=KR }:: ::\1Epreus::{ user=7342798 }
+  - (![][osu!]) [Plum - Maelstrom](https://osu.ppy.sh/beatmapsets/1679690#osu/3493711) organisé par ::{ flag=KR }:: ::_Epreus::{ user=7342798 }
 - **[my sound life](https://osu.ppy.sh/home/news/2022-03-30-new-featured-artist-my-sound-life)** (30/03/2022)
   - (![][osu!]) [my sound life - omega](https://osu.ppy.sh/beatmapsets/1728309#osu/3538894) organisé par ::{ flag=US }:: ::Heroine::{ user=12727076 }
 
@@ -605,7 +605,7 @@ Cet article répertorie toutes les beatmaps showcase qui ont été créées par 
 ### Octobre
 
 - **[Mono.](https://osu.ppy.sh/home/news/2022-10-01-new-featured-artist-mono)** (01/10/2022)
-  - (![][osu!]) [Mono. - ST4RDUST*XABER](https://osu.ppy.sh/beatmapsets/1810657#osu/3713836) organisé par ::{ flag=KR }:: ::\1Epreus::{ user=7342798 }
+  - (![][osu!]) [Mono. - ST4RDUST*XABER](https://osu.ppy.sh/beatmapsets/1810657#osu/3713836) organisé par ::{ flag=KR }:: ::_Epreus::{ user=7342798 }
 - **[Tokyo.MeltiMelt](https://osu.ppy.sh/home/news/2022-10-05-new-featured-artist-tokyo-meltimelt)** (05/10/2022)
   - (![][osu!]) [Tokyo.MeltiMelt - I ain't need my heart feat. Hatsuki Yura](https://osu.ppy.sh/beatmapsets/1800571#osu/3691442) organisé par ::{ flag=RU }:: ::SMOKELIND::{ user=9327302 }
   - (![][osu!]) [Tokyo.MeltiMelt - Virgin Mary feat. Sennzai](https://osu.ppy.sh/beatmapsets/1830770#osu/3757790) organisé par ::{ flag=PH }:: ::-Aqua::{ user=7150015 }
@@ -615,7 +615,7 @@ Cet article répertorie toutes les beatmaps showcase qui ont été créées par 
 - **[GLORYHAMMER](https://osu.ppy.sh/home/news/2022-10-15-new-featured-artist-gloryhammer)** (15/10/2022)
   - (![][osu!]) [GLORYHAMMER - The Epic Rage of Furious Thunder](https://osu.ppy.sh/beatmapsets/1848202#osu/3796617) organisé par ::{ flag=TR }:: ::Nymphe::{ user=10507407 }
 - **[Hinkik](https://osu.ppy.sh/home/news/2022-10-26-new-featured-artist-hinkik)** (26/10/2022)
-  - (![][osu!]) [Hinkik - Explorers](https://osu.ppy.sh/beatmapsets/1861042#osu/3826149) organisé par ::{ flag=HU }:: ::Nytrocide\1::{ user=11327918 }
+  - (![][osu!]) [Hinkik - Explorers](https://osu.ppy.sh/beatmapsets/1861042#osu/3826149) organisé par ::{ flag=HU }:: ::Nytrocide_::{ user=11327918 }
 
 ### Novembre
 
@@ -666,7 +666,7 @@ Cet article répertorie toutes les beatmaps showcase qui ont été créées par 
   - (![][osu!mania]) [Cinamoro - Another](https://osu.ppy.sh/beatmapsets/1910036) organisé par ::{ flag=ID }:: ::FAMoss::{ user=7707789 }
   - (![][osu!]) [Cinamoro - Paleturquoise](https://osu.ppy.sh/beatmapsets/1874826) organisé par ::{ flag=DE }:: ::PaRaDogi::{ user=2054596 }
 - **[yaseta](https://osu.ppy.sh/home/news/2023-02-18-new-featured-artist-yaseta)** (18/02/2023)
-  - (![][osu!]) [yaseta - Dreamy Goat](https://osu.ppy.sh/beatmapsets/1917139) organisé par ::{ flag=HU }:: ::Nytrocide\1::{ user=11327918 }
+  - (![][osu!]) [yaseta - Dreamy Goat](https://osu.ppy.sh/beatmapsets/1917139) organisé par ::{ flag=HU }:: ::Nytrocide_::{ user=11327918 }
 - **[KASHIWA Daisuke](https://osu.ppy.sh/home/news/2023-02-22-new-featured-artist-kashiwa-daisuke)** (22/02/2023)
   - (![][osu!]) [KASHIWA Daisuke - Sacred Play Secret Place](https://osu.ppy.sh/beatmapsets/1908078) organisé par ::{ flag=RU }:: ::Daycore::{ user=5596337 }
 - **[Kabocha](https://osu.ppy.sh/home/news/2023-03-01-new-featured-artist-kabocha)** (01/03/2023)
@@ -705,7 +705,7 @@ Cet article répertorie toutes les beatmaps showcase qui ont été créées par 
 - **[Junk](https://osu.ppy.sh/home/news/2023-06-17-new-featured-artist-junk)** (17/06/2023)
   - (![][osu!]) [Junk - Yellow Smile (bms edit)](https://osu.ppy.sh/beatmapsets/2010589) organisé par ::{ flag=RU }:: ::Daycore::{ user=5596337 }
   - (![][osu!catch]) [Junk - Yellow Smile (bms edit)](https://osu.ppy.sh/beatmapsets/2006758) organisé par ::{ flag=US }:: ::Secre::{ user=2306637 }
-  - (![][osu!taiko]) [Junk - Yellow Smile (bms edit)](https://osu.ppy.sh/beatmapsets/2010165) organisé par ::{ flag=AR }:: ::gaston\12199::{ user=5938161 }
+  - (![][osu!taiko]) [Junk - Yellow Smile (bms edit)](https://osu.ppy.sh/beatmapsets/2010165) organisé par ::{ flag=AR }:: ::gaston_2199::{ user=5938161 }
   - (![][osu!catch]) [Junk - Qualia](https://osu.ppy.sh/beatmapsets/2010010) organisé par ::{ flag=NL }:: ::Chatie::{ user=6524765 }
 - **[passchooo](https://osu.ppy.sh/home/news/2023-06-24-new-featured-artist-passchooo)** (24/06/2023)
   - (![][osu!]) [passchooo - chooo2023_1](https://osu.ppy.sh/beatmapsets/1981957) organisé par ::{ flag=RU }:: ::SMOKELIND::{ user=9327302 }
@@ -717,7 +717,7 @@ Cet article répertorie toutes les beatmaps showcase qui ont été créées par 
 ### Juillet
 
 - **[Krimek](https://osu.ppy.sh/home/news/2023-07-08-new-featured-artist-krimek)** (08/07/2023)
-  - (![][osu!]) [Krimek feat. dokxid - Gravity Hole](https://osu.ppy.sh/beatmapsets/1983505) organisé par ::{ flag=HU }:: ::Nytrocide\1::{ user=11327918 }
+  - (![][osu!]) [Krimek feat. dokxid - Gravity Hole](https://osu.ppy.sh/beatmapsets/1983505) organisé par ::{ flag=HU }:: ::Nytrocide_::{ user=11327918 }
 - **[YUC'e](https://osu.ppy.sh/home/news/2023-07-15-new-featured-artist-yuce)** (15/07/2023)
   - (![][osu!taiko]) [YUC'e - Future Candy](https://osu.ppy.sh/beatmapsets/2006776) organisé par ::{ flag=AR }:: ::ZelLink::{ user=6752242 }
   - (![][osu!]) [YUC'e - SPACE INVADER](https://osu.ppy.sh/beatmapsets/2005892) organisé par ::{ flag=RU }:: ::SMOKELIND::{ user=9327302 }
@@ -738,7 +738,7 @@ Cet article répertorie toutes les beatmaps showcase qui ont été créées par 
   - (![][osu!]) [beignet - Sign](https://osu.ppy.sh/beatmapsets/2030991) organisé par ::{ flag=ID }:: ::Hinsvar::{ user=1249323 }
   - (![][osu!]) [beignet - Mint Comet (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2031418) organisé par ::{ flag=ES }:: ::Nachmark::{ user=17584310 }
   - (![][osu!mania]) [beignet - Maple Trick](https://osu.ppy.sh/beatmapsets/2032450) organisé par ::{ flag=ID }:: ::Ilham::{ user=3057154 }
-  - (![][osu!]) [beignet - S'more](https://osu.ppy.sh/beatmapsets/2050540) organisé par ::{ flag=BA }:: ::Stompy\1::{ user=16429579 }
+  - (![][osu!]) [beignet - S'more](https://osu.ppy.sh/beatmapsets/2050540) organisé par ::{ flag=BA }:: ::Stompy_::{ user=16429579 }
 
 ### Septembre
 
@@ -753,7 +753,7 @@ Cet article répertorie toutes les beatmaps showcase qui ont été créées par 
 - **[Kou!](https://osu.ppy.sh/home/news/2023-10-07-new-featured-artist-kou)** (07/10/2023)
   - (![][osu!catch]) [Kou! - sub/zerO](https://osu.ppy.sh/beatmapsets/2069616) organisé par ::{ flag=HK }:: ::autofanboy::{ user=636114 }
 - **[ColBreakz](https://osu.ppy.sh/home/news/2023-10-15-new-featured-artist-colbreakz)** (15/10/2023)
-  - (![][osu!]) [ColBreakz - 2011](https://osu.ppy.sh/beatmapsets/2074103) organisé par ::{ flag=HU }:: ::Nytrocide\1::{ user=11327918 }
+  - (![][osu!]) [ColBreakz - 2011](https://osu.ppy.sh/beatmapsets/2074103) organisé par ::{ flag=HU }:: ::Nytrocide_::{ user=11327918 }
   - (![][osu!mania]) [Protolizard & ColBreakz - Nevermind](https://osu.ppy.sh/beatmapsets/2072833) organisé par ::{ flag=ID }:: ::Ainer::{ user=13371424 }
   - (![][osu!]) [ColBreakz & Vizzen - Remember](https://osu.ppy.sh/beatmapsets/2052201) organisé par ::{ flag=ID }:: ::Hinsvar::{ user=1249323 }
 - **[Dustvoxx](https://osu.ppy.sh/home/news/2023-10-28-new-featured-artist-dustvoxx)** (28/10/2023)

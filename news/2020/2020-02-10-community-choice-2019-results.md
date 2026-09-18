@@ -92,7 +92,7 @@ Finalists:
 - **[BilliumMoto - 1xMISS](https://osu.ppy.sh/beatmapsets/989512)** by **::FAMoss::{ user=7707789 }** with **178** votes.
 - **[PSYQUI - Education](https://osu.ppy.sh/beatmapsets/983953)** by **::Dergo::{ user=7439226 }** with **157** votes.
 - **[Camellia - potential curve](https://osu.ppy.sh/beatmapsets/913062)** by **::FAMoss::{ user=7707789 }** with **148** votes.
-- **[a crowd of rebellion - The Crow](https://osu.ppy.sh/beatmapsets/884441)** by **::\1 A v a l o n \1::{ user=4632359 }** with **145** votes.
+- **[a crowd of rebellion - The Crow](https://osu.ppy.sh/beatmapsets/884441)** by **::[ A v a l o n ]::{ user=4632359 }** with **145** votes.
 - **[yuikonnu - Houkago Stride](https://osu.ppy.sh/beatmapsets/703670)** by **::tailsdk::{ user=6751666 }** with **142** votes.
 
 **[View the full voting results here.](https://osu.ppy.sh/community/contests/88)**

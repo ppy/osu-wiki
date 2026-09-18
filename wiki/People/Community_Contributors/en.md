@@ -133,7 +133,7 @@ Contributors who registered their accounts during an older era of the game have 
 | ::{ flag=AU }:: ::Syrin::{ user=5701575 } | Creator of [PerformancePlus](https://syrin.me/pp+/) and [osu!chan](https://osuchan.syrin.me) |
 | ::{ flag=SG }:: ::Raveille::{ user=1388767 } | Outstanding effort in the production and publishing of the Scorewatch project |
 | ::{ flag=FR }:: ::ThePooN::{ user=718454 } | Outstanding effort in the production and publishing of the Scorewatch project |
-| ::{ flag=US }:: ::MegaApple\1Pi::{ user=2148208 } | Outstanding efforts in furthering the osu! wiki project with countless revisions, reworks and reviews |
+| ::{ flag=US }:: ::MegaApple_Pi::{ user=2148208 } | Outstanding efforts in furthering the osu! wiki project with countless revisions, reworks and reviews |
 | ::{ flag=PL }:: ::TPGPL::{ user=3944705 } | Cornerstone of the osu! wiki project and outstanding contribution throughout the years |
 
 ### 2019
@@ -215,7 +215,7 @@ Contributors who registered their accounts during an older era of the game have 
 | ::{ flag=DE }:: ::hallowatcher::{ user=1874761 } | Outstanding contribution to the community events and development |
 | ::{ flag=GB }:: ::mangomizer::{ user=1893718 } | Outstanding contribution to the World Cups and community events |
 | ::{ flag=DE }:: ::Lasse::{ user=896613 } | Outstanding contribution to the mapping and modding scene |
-| ::{ flag=PL }:: ::spaceman\1atlas::{ user=3035836 } | Outstanding contribution to osu! development through many projects |
+| ::{ flag=PL }:: ::spaceman_atlas::{ user=3035836 } | Outstanding contribution to osu! development through many projects |
 | ::{ flag=DE }:: ::RockRoller::{ user=8388854 } | Outstanding contribution to the osu! skinning and moderation scene |
 | ::{ flag=US }:: ::I Must Decrease::{ user=2773526 } | Outstanding contribution to scoring maintenance and development |
 | ::{ flag=US }:: ::this1neguy::{ user=1797189 } | Outstanding contribution to the World Cups and community tournament scene |
@@ -324,7 +324,7 @@ Contributors who registered their accounts during an older era of the game have 
 | ::{ flag=KR }:: ::Civil oath::{ user=3216107 } | Outstanding contribution to moderation across various platforms |
 | ::{ flag=CN }:: ::Mafumafu::{ user=3076909 } | Longstanding contribution to the mapping and modding community |
 | ::{ flag=AT }:: ::Maarvin::{ user=6411631 } | Outstanding contribution to development affairs |
-| ::{ flag=DE }:: ::The\1Last\1Cookie::{ user=11587828 } | Longstanding contribution to osu! wiki German translations |
+| ::{ flag=DE }:: ::The_Last_Cookie::{ user=11587828 } | Longstanding contribution to osu! wiki German translations |
 | ::{ flag=PE }:: ::Tiburon::{ user=18115022 } | Longstanding contribution to osu! wiki Spanish translations |
 | ::{ flag=ES }:: ::Agatem::{ user=18202514 } | Longstanding contribution to osu! wiki Spanish translations |
 | ::{ flag=CN }:: ::Muziyami::{ user=7003013 } | Longstanding contribution to osu! wiki Chinese translations |

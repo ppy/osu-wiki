@@ -59,7 +59,7 @@ The Yuyuko's Hidden Cup Season 2 was run by various community members.
 | **A** | **老年娱乐** | ::**Spell**::{ user=13003552 }, ::\_Yukinoshita::{ user=15343685 }, ::HUYI520::{ user=15337997 }, ::mike233333::{ user=15436106 }, ::lizhanyiawa::{ user=13928307 } |
 | **B** | **无所谓 帕老师会出手** | ::**QianLi1611**::{ user=30367809 }, ::The Origin::{ user=10225377 }, ::USAIKO::{ user=30018494 }, ::AliceMana::{ user=11531025 }, ::LimeSeptum::{ user=13256419 } |
 | **C** | **已经结束啦** | ::**Ayaaaachi**::{ user=16022736 }, ::innnnovation::{ user=18443135 }, ::dawnstar::{ user=17426219 }, ::eric1388::{ user=20384257 }, ::Lzq12345::{ user=15012640 } |
-| **D** | **懒人三项** | ::**RoyMaster**::{ user=28365836 }, ::Sakura Luna::{ user=1608105 }, ::cirnosaikyo::{ user=19971407 }, ::small\1pineapple::{ user=20989945 }, ::\_Eilphy::{ user=15175276 } |
+| **D** | **懒人三项** | ::**RoyMaster**::{ user=28365836 }, ::Sakura Luna::{ user=1608105 }, ::cirnosaikyo::{ user=19971407 }, ::small_pineapple::{ user=20989945 }, ::\_Eilphy::{ user=15175276 } |
 | **E** | **主播教我HD刷170** | ::**Neutron torpedo**::{ user=24657559 }, ::SugersakiE::{ user=15091523 }, ::Kevin0036::{ user=24004891 }, ::qimengxunkong::{ user=16849347 }, ::dongguadongde::{ user=28494479 } |
 | **F** | **东雪莲后援会** | ::**Kieost**::{ user=17823832 }, ::-XiAoyu::{ user=19061410 }, ::Yin0508::{ user=15730382 }, ::Zxian::{ user=20672564 }, ::YuKiRoKi::{ user=16668536 } |
 

@@ -9,7 +9,7 @@ Two weeks in one! Things are getting settled after many of osu!'s biggest names 
 
 ![](/wiki/shared/news/2017-08-17-scorewatch-august-weeks-1-and-2/banner.jpg)
 
-::\1RyuK::{ user=6304246 } has broken into the 700pp club! The number 1 Canadian set his mark on the famous map [kradness&Reol - Remote Control](https://osu.ppy.sh/beatmaps/774965?m=0) and taking an outstanding 97.76% HDDT 1 miss score to earn an amazing 704pp score! Well, I don't think I need to write much more for this score. Have a look!
+::_RyuK::{ user=6304246 } has broken into the 700pp club! The number 1 Canadian set his mark on the famous map [kradness&Reol - Remote Control](https://osu.ppy.sh/beatmaps/774965?m=0) and taking an outstanding 97.76% HDDT 1 miss score to earn an amazing 704pp score! Well, I don't think I need to write much more for this score. Have a look!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/b666KhdtrMU" frameborder="0" allowfullscreen></iframe></br>
 

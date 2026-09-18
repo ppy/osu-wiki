@@ -67,13 +67,13 @@ Coming straight from the Mapper's Guild with a Featured Artist song, ::Mao::{ us
 
 Lightly edited from the original version made five years ago, ::Hollow Wings::{ user=416662 } brings us a pleasant set that has aged very well with Ishida Yoko's "Negai". Built on a low-bpm swing beat, this map mixes slow and simple sections with faster, energetic choruses that will have your cursor dancing across the screen to their lovely melody.
 
-Together with ::Pata-Mon::{ user=6149313 } and ::Suzuki\11112::{ user=3170678 } they bave created a very enjoyable set to play, and something sure to stoke your summer spirit.
+Together with ::Pata-Mon::{ user=6149313 } and ::Suzuki_1112::{ user=3170678 } they bave created a very enjoyable set to play, and something sure to stoke your summer spirit.
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/osu/messiah.jpg)](https://osu.ppy.sh/beatmapsets/793438)
 
 ::eiri-::{ user=3388410 }'s strikingly original set of Liz Triangle's "Messiah" has 3 unique difficulties that all express the song quite beautifully. ::Jounzan::{ user=1848318 }'s top diff has great intensity and spacing contrast, along with a unique use of flow. ::Mirash::{ user=2841009 } and ::Delis::{ user=1603923 }' collab gives us a nicely improvised approach to emphasis, providing a fun gameplay experience.
 
-Last but not least, Vass' Desire by ::Vass\1Bass::{ user=188248 } displays a very natural movement around the playfield, which is more easily playable, yet displays a high attention to detail. With a nice range of mapping styles, it's easy to say something in this set for everybody!
+Last but not least, Vass' Desire by ::Vass_Bass::{ user=188248 } displays a very natural movement around the playfield, which is more easily playable, yet displays a high attention to detail. With a nice range of mapping styles, it's easy to say something in this set for everybody!
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/osu/unknown-x-known.jpg)](https://osu.ppy.sh/beatmapsets/800070)
 
@@ -256,7 +256,7 @@ Moreover, ::jakads::{ user=259972 }, ::booty::{ user=4605217 } and once again As
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/mania/ongaku.jpg)](https://osu.ppy.sh/beatmapsets/540432)
 
-Our masters of 7K, ::Kawawa::{ user=4647754 } & ::Critical\1Star::{ user=3793196 } once again return with a beautiful and challenging mapset, Yu_Asahina's "Ongaku -resolve-".
+Our masters of 7K, ::Kawawa::{ user=4647754 } & ::Critical_Star::{ user=3793196 } once again return with a beautiful and challenging mapset, Yu_Asahina's "Ongaku -resolve-".
 
 As the difficulty progresses, Kawawa and Critical_Star express and interpret the mixture of piano rolls and flow of the rhythm using complex long notes with fast delay patterns. 7K players will once again fall in love with this challenging track and will make them seek for much more from them!
 
@@ -302,13 +302,13 @@ All in all, this mapset would be among good choices of practicing stamina and ch
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/mania/redemption.jpg)](https://osu.ppy.sh/beatmapsets/788366)
 
-Another one of ::error\1exe777::{ user=7975796 }'s Slider Velocity masterpieces, "Tetsuo's Redemption" by KOAN Sound & Asa is an enjoyable, chill-inducing marathon map with unpredictable, erratic speed changes that require the player to have a complete understanding of the music.
+Another one of ::error_exe777::{ user=7975796 }'s Slider Velocity masterpieces, "Tetsuo's Redemption" by KOAN Sound & Asa is an enjoyable, chill-inducing marathon map with unpredictable, erratic speed changes that require the player to have a complete understanding of the music.
 
 Its use of varying concepts, particularly the repetition of specific patterns, is something that many mappers should keep in mind when making maps with Slider Velocity changes.
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/mania/volcanic.jpg)](https://osu.ppy.sh/beatmapsets/765056)
 
-::\1underjoy::{ user=2235750 } strikes again with his new extreme 7k chart and keeps the ranked section alive for top-tier players again. This marathon contains many different skillset, all at extremely high levels, including stamina, heavy chordstreaming and jack speed. As seen by the scoreboard, even top-tier players have to put high effort to play this map well.
+::_underjoy::{ user=2235750 } strikes again with his new extreme 7k chart and keeps the ranked section alive for top-tier players again. This marathon contains many different skillset, all at extremely high levels, including stamina, heavy chordstreaming and jack speed. As seen by the scoreboard, even top-tier players have to put high effort to play this map well.
 
 The map includes not only challenge element, but also consistency and good pattern choices that represent the music at the proper level. This map can fairly be named as one of the hardest ranked marathons.
 

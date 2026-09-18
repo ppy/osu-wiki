@@ -132,7 +132,7 @@ Khi một Kiểm duyệt viên quyết định rời khỏi đội ngũ, họ c�
 | ::{ flag=HK }:: ::Petal::{ user=7354729 } | Tiếng Quảng Đông, Tiếng Trung | Kiểm duyệt chung |
 | ::{ flag=KR }:: ::Petit::{ user=4637369 } | Tiếng Hàn, Tiếng Nhật | Kiểm duyệt chat |
 | ::{ flag=MY }:: ::QHideaki13::{ user=733998 } | Tiếng Mã Lai | Kiểm duyệt chat |
-| ::{ flag=PL }:: ::Redo\1::{ user=7122165 } | Tiếng Ba Lan | Kiểm duyệt mảng skinning |
+| ::{ flag=PL }:: ::Redo_::{ user=7122165 } | Tiếng Ba Lan | Kiểm duyệt mảng skinning |
 | ::{ flag=MX }:: ::Repflez::{ user=201392 } | Tiếng Tây Ban Nha | Kiểm duyệt chat |
 | ::{ flag=FI }:: ::Riverism::{ user=4980738 } | Tiếng Phần Lan, một chút Tiếng Thụy Điển, một chút Tiếng Nhật | Kiểm duyệt mảng mapping/modding, kiểm duyệt diễn đàn |
 | ::{ flag=NL }:: ::Roan::{ user=8214639 } | Tiếng Hà Lan, Tiếng Nhật | Kiểm duyệt mảng skinning |
@@ -146,7 +146,7 @@ Khi một Kiểm duyệt viên quyết định rời khỏi đội ngũ, họ c�
 | ::{ flag=KR }:: ::Spectator::{ user=702598 } | Tiếng Hàn | Kiểm duyệt mảng mapping/modding |
 | ::{ flag=AT }:: ::Stefan::{ user=626907 } | Tiếng Đức, Tiếng Serbia | Kiểm duyệt diễn đàn |
 | ::{ flag=FI }:: ::terho::{ user=6090105 } | Tiếng Phần Lan | Kiểm duyệt chat |
-| ::{ flag=NZ }:: ::THAT\1otaku::{ user=11798717 } |  | Kiểm duyệt diễn đàn, kiểm duyệt chat |
+| ::{ flag=NZ }:: ::THAT_otaku::{ user=11798717 } |  | Kiểm duyệt diễn đàn, kiểm duyệt chat |
 | ::{ flag=PE }:: ::Tiburon::{ user=18115022 } | Tiếng Tây Ban Nha | Kiểm duyệt chat |
 | ::{ flag=CH }:: ::TicClick::{ user=672931 } | Tiếng Nga | Kiểm duyệt chat, quản lý wiki |
 | ::{ flag=PH }:: ::topecnz::{ user=2103927 } | Tiếng Philippines | Kiểm duyệt chat |

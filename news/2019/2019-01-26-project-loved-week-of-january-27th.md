@@ -108,7 +108,7 @@ As stupid as that may sound, it's true. During each kiai section, there exists o
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-\1 ix Ishida xi \1-::{ user=242910 }, ::-Kazu-::{ user=920861 }, ::iceOC::{ user=5482401 }, ::jyake::{ user=9099822 } and ::nyanmi-1828::{ user=6866480 }!
+osu!taiko Loved candidates were chosen by ::-[ ix Ishida xi ]-::{ user=242910 }, ::-Kazu-::{ user=920861 }, ::iceOC::{ user=5482401 }, ::jyake::{ user=9099822 } and ::nyanmi-1828::{ user=6866480 }!
 
 ---
 

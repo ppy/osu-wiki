@@ -86,7 +86,7 @@ The **osu!mania** version of this quest was completed by **::Feerum::{ user=4815
 
 For the **False Noise duo (osu!taiko)** quest, the mappers had to create and rank at least 2 mapsets of songs by False Noise, each hosted by a different user.
 
-This quest was completed by **::Faputa::{ user=845733 }**, **::Cynplytholowazy::{ user=3901754 }** and **::\1Zeth\1::{ user=9912966 }**!
+This quest was completed by **::Faputa::{ user=845733 }**, **::Cynplytholowazy::{ user=3901754 }** and **::[Zeth]::{ user=9912966 }**!
 
 - [False Noise - Serpentine](https://osu.ppy.sh/beatmapsets/1055536) by ::Faputa::{ user=845733 }
 - [False Noise - Distant Structures](https://osu.ppy.sh/beatmapsets/1057177) hosted by ::Cynplytholowazy::{ user=3901754 }
@@ -106,7 +106,7 @@ This quest was completed by **::Nifty::{ user=4956097 }**, **::Genjuro::{ user=3
 
 For the **HyuN duo** quests, the mappers had to create and rank 2 or more mapsets of songs by HyuN, each hosted by a different user.
 
-The **osu!taiko** version of this quest was completed by **::Faputa::{ user=845733 }**, **::Capu::{ user=2474015 }**, **::\1\_Chichinya\_\1::{ user=2140739 }** and **::Vulkin::{ user=4901066 }**!
+The **osu!taiko** version of this quest was completed by **::Faputa::{ user=845733 }**, **::Capu::{ user=2474015 }**, **::[\_Chichinya\_]::{ user=2140739 }** and **::Vulkin::{ user=4901066 }**!
 
 - [HyuN feat. YURI - Disorder](https://osu.ppy.sh/beatmapsets/1062977) by ::Faputa::{ user=845733 }
 - [HyuN - The Apocalypse](https://osu.ppy.sh/beatmapsets/1075603) hosted by ::Capu::{ user=2474015 }
@@ -399,12 +399,12 @@ This list includes all of the very many beatmaps of featured artist tracks ranke
 - [Aether Realm - The Sun, The Moon, The Star](https://osu.ppy.sh/beatmapsets/1042815) hosted by ::frukoyurdakul::{ user=7612550 }
 - [Akira Complex - World Collapse](https://osu.ppy.sh/beatmapsets/1062488) hosted by ::rubies87::{ user=4949934 } \*
 - [Camellia - dreamless wanderer](https://osu.ppy.sh/beatmapsets/1093959) hosted by ::radar::{ user=7131099 } \*
-- [Camellia - Kimi ga Shinu no o Nagamete Iru yo](https://osu.ppy.sh/beatmapsets/1033067) by ::\1\_Chichinya\_\1::{ user=2140739 }
+- [Camellia - Kimi ga Shinu no o Nagamete Iru yo](https://osu.ppy.sh/beatmapsets/1033067) by ::[\_Chichinya\_]::{ user=2140739 }
 - [Camellia - Racemization](https://osu.ppy.sh/beatmapsets/1071559) by ::Kbludoh::{ user=2543764 } \*
 - [Camellia - Why do you hate me?](https://osu.ppy.sh/beatmapsets/1064873) by ::Alchyr::{ user=4993032 }
 - [Camellia feat. Nanahira - senpai, notice me!](https://osu.ppy.sh/beatmapsets/1062384) hosted by ::Capu::{ user=2474015 } \*
 - [Camellia feat. Nanahira - Versus!](https://osu.ppy.sh/beatmapsets/903542) hosted by ::JarvisGaming::{ user=8601048 }
-- [Cranky - T&J](https://osu.ppy.sh/beatmapsets/949737) by ::\1Zeth\1::{ user=9912966 }
+- [Cranky - T&J](https://osu.ppy.sh/beatmapsets/949737) by ::[Zeth]::{ user=9912966 }
 - [F-777 - Across The Waters](https://osu.ppy.sh/beatmapsets/1086985) by ::Cynplytholowazy::{ user=3901754 }
 - [False Noise - Distant Structures](https://osu.ppy.sh/beatmapsets/1057177) hosted by ::Cynplytholowazy::{ user=3901754 }
 - [False Noise - Serpentine](https://osu.ppy.sh/beatmapsets/1055536) by ::Faputa::{ user=845733 }

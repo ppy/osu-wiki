@@ -35,7 +35,7 @@ The last object should always be a slider.
 
 *Also known as: **Flower Formation***
 
-Nominator: ::0\1o::{ user=56708 }
+Nominator: ::0_o::{ user=56708 }
 
 **Flower combos** consist of 5 or more hit circles that are all placed around a central point.
 The central point can be a hit circle or a slider.
@@ -168,7 +168,7 @@ The order of the 3 hit circles nor the size of the triangle does not matter.
 
 *Also known as: **Zig-Zag Formation***
 
-Nominator: ::0\1o::{ user=56708 }
+Nominator: ::0_o::{ user=56708 }
 
 **Zig-Zag sliders** are made up of 1/2 sliders that are arranged in an inwards zig-zag pattern.
 

@@ -86,7 +86,7 @@ Just like **Culprate**, we expanded [**EmoCosine**](https://osu.ppy.sh/beatmaps/
     <source src="https://assets.ppy.sh/artists/240/Songs/Good_Kid_-_Wall.mp3" type="audio/mpeg">
 </audio>
 
-### [Good Kid - Rift](https://osu.ppy.sh/beatmapsets/2467271) mapped by ::\1ethan::{ user=16345483 }
+### [Good Kid - Rift](https://osu.ppy.sh/beatmapsets/2467271) mapped by ::_ethan::{ user=16345483 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/240/Songs/Good_Kid_-_Rift.mp3" type="audio/mpeg">
@@ -178,7 +178,7 @@ It's purely coincidental that every artist so far has had only 2 song additions.
 
 Pinch yourself. You weren't expecting [**Ne Obliviscaris**](https://osu.ppy.sh/beatmaps/artists/86) to return to osu! with new music, but here we are. **5** tracks from their newest album *Exul* are part of osu!'s Featured Artist library! Play through three of them below, and visit [the band's listing](https://osu.ppy.sh/beatmaps/artists/86) to start mapping the rest.
 
-### [Ne Obliviscaris - Equus](https://osu.ppy.sh/beatmapsets/2023758) mapped by ::Sayuka::{ user=11322604 } and ::Dabbe\11::{ user=12172073 }
+### [Ne Obliviscaris - Equus](https://osu.ppy.sh/beatmapsets/2023758) mapped by ::Sayuka::{ user=11322604 } and ::Dabbe_1::{ user=12172073 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/86/Exul/Ne Obliviscaris - Equus.mp3" type="audio/mpeg">

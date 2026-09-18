@@ -30,7 +30,7 @@ En date du 11 juillet 2026, sur [l'osu! performance rankings](https://osu.ppy.sh
 
 ## ![][osu!taiko] osu!taiko
 
-En date du 23 juillet 2026, sur [l'osu!taiko performance rankings](https://osu.ppy.sh/rankings/taiko/performance) le joueur #1 est ::{ flag=JP }:: ::Sinon\133::{ user=31148838 }.
+En date du 23 juillet 2026, sur [l'osu!taiko performance rankings](https://osu.ppy.sh/rankings/taiko/performance) le joueur #1 est ::{ flag=JP }:: ::Sinon_33::{ user=31148838 }.
 
 ## ![][osu!catch] osu!catch
 

@@ -53,9 +53,9 @@ Cette compétition s'est achevée sur le podium suivant :
 
 | Placement | Utilisateur |
 | :-: | :-- |
-| ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | ::{ flag=NL }:: ::Cookie\1Tree::{ user=502722 } |
+| ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | ::{ flag=NL }:: ::Cookie_Tree::{ user=502722 } |
 | ![Couronne en argent](/wiki/shared/crown-silver.png "2ème place") | ::{ flag=MY }:: ::\[Zeth\]::{ user=9912966 } |
-| ![Couronne en bronze](/wiki/shared/crown-bronze.png "3ème place") | ::{ flag=JP }:: ::Grape\1Tea::{ user=9540073 } |
+| ![Couronne en bronze](/wiki/shared/crown-bronze.png "3ème place") | ::{ flag=JP }:: ::Grape_Tea::{ user=9540073 } |
 
 ## Règlement
 

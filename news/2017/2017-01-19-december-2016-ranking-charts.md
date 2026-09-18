@@ -47,7 +47,7 @@ pishifat contributing another really well-mapped Apocalyptica map to the ranked 
 Although there aren't any extra-rated map,the structure of this set is rather solid and almost flawless, especially Oni. JUDYDANNY uses kat not only follow the snare of the song, but also vocal and instrument. And he manages to make balance with every instrument every well. It lead to rather solid structure and flow which is very impressive to me.
 Moreover, other difficulties also mapped in similar idea like oni. No matter the usage of break or highest snapped patterns, he mapped them on correct place. All in all, this set is quite nicely mapped and worth to be one of maps in December chart!
 
-- [Muzzy - Endgame](https://osu.ppy.sh/beatmapsets/519474) by ::gaston\12199::{ user=5938161 } (Nominator: ::Ntiger::{ user=1910766 })
+- [Muzzy - Endgame](https://osu.ppy.sh/beatmapsets/519474) by ::gaston_2199::{ user=5938161 } (Nominator: ::Ntiger::{ user=1910766 })
 
 The only "marathon"-length map for this month's chart is brought to you by gaston_2199! You don't know who he is? Well, he is quite new to the taiko mapping scene, with his oldest maps only dating back to 2016! Which makes it just more impressive, how well-done this map is. Its patterns play incredibly well, while being fitting to the song. Very well-done variations make this map feel less repetitive - on a drum'n'bass song! Careful use of slider velocity and volume changes help give each part the necessary feeling and importance in the context of the whole song.
 
@@ -85,7 +85,7 @@ While I am not a big fan of the difference between Platter and Rain this set has
 
 Whilst this is a fairly interesting osu!standard mapset this converts to a tamer yet still solid osu!catch experience. The fast pace of the song can make for some exciting moments with some fast movement and even some rather quick snaps yet the difficulties remain overall fair and consistent. With some varied approach rates and circle sizes across the top difficulties this mapset is enjoyable for all.
 
-- [REOL - YoiYoi Kokon](https://osu.ppy.sh/beatmapsets/509064) by ::SnowNiNo\1::{ user=2506267 } (Nominator: ::Kurokami::{ user=260933 })
+- [REOL - YoiYoi Kokon](https://osu.ppy.sh/beatmapsets/509064) by ::SnowNiNo_::{ user=2506267 } (Nominator: ::Kurokami::{ user=260933 })
 
 This is actually a really nice and challenging set if I take into account that it is just converted to osu!catch. The Hard difficulty has some tricky movement which might be good to learn how to play on higher approach rate. Insane has its own unique stream jumps which are actually really hard to play and Extra contains more jumpy patterns to make itself challenging.
 
@@ -103,7 +103,7 @@ A map of a song with a linear algebra reference can't ever go wrong, am I right?
 
 I remember picking this for one of the community tournaments that has been running this last months and when I saw that Parachor was going for rank with it I knew that it would be at least close to be the map of the month. And god I was right. Everything about this map just screams unique and meta-changing which is why I ended up nominating this for December. The SV usage in here gives the map a lot of grinding potential and replayability, combine that with a really interesting and complex snapping and around 33% of total notes being just LNs. Definetly one of the unique pieces that we dont really see that often in the ranked section. Congratulations Parachor, I am looking forward for more stuff from you.
 
-- [Camellia - Lunatic Rough Party!! (Long Ver.)](https://osu.ppy.sh/beatmapsets/286262) by ::Ichigaki::{ user=2403444 } (Nominator: ::\1underjoy::{ user=2235750 })
+- [Camellia - Lunatic Rough Party!! (Long Ver.)](https://osu.ppy.sh/beatmapsets/286262) by ::Ichigaki::{ user=2403444 } (Nominator: ::_underjoy::{ user=2235750 })
 
 This mapset has been around for quite a long time and I'm glad to finally see it ranked. Ichigaki did a great job in polishing the hardest difficulty, as it was a little imbalanced at first. It contains pretty much everything you would expect from a 4K map, great and diverse, yet demanding patterning and well-made SVs which compliment the chaotic nature of the song. Definitely one of the more memorable and fun mapsets.
 

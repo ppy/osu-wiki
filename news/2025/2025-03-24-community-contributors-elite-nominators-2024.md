@@ -26,13 +26,13 @@ Want to know who? Read on to find out!
 
 ### osu!
 
-::!\1\1(/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/aeril.jpg)::{ user=4334976 }
+::![](/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/aeril.jpg)::{ user=4334976 }
 
 Two hundred and forty-eight. **248**. That's the number of nominations ::Aeril::{ user=4334976 } made in the past year. On average, every three days, Aeril would nominate a map on two of them. Not only is that an insane level of activity on its own, but the difference between his activity and the next highest is exactly 60 nominations. Out of all BNs last year, roughly 80% of them did not reach that number — Aeril's activity accounts for roughly five average BNs and a half! One could continue to point out other statistics that make him look like a true anomaly, but we'll settle for now.
 
 Through sheer volume and dedication, Aeril has undoubtedly earned his Elite Nominator status. Congratulations!
 
-::!\1\1(/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/airincat.jpg)::{ user=11119539 }
+::![](/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/airincat.jpg)::{ user=11119539 }
 
 During 2024, ::AirinCat::{ user=11119539 } demonstrated exceptional skill and dedication consistently throughout the year. She continued to maintain her high activity over the past four years (including this year), while also upholding top-notch standards and handling NAT work for a good chunk of that time as well.
 
@@ -40,17 +40,17 @@ AirinCat's performance was nothing short of outstanding; out of 120 unique nomin
 
 Consistently performing at such a level while managing the NAT workload during the first half of 2024 and frequently making beatmaps with full spreads for an entire year is a feat that truly deserves Elite Nominator recognition!
 
-::!\1\1(/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/ascended.jpg)::{ user=4564285 }
+::![](/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/ascended.jpg)::{ user=4564285 }
 
 ::Ascended::{ user=4564285 } truly *ascended* through the BN ranks this past year, with an impressive 188 nominations done across many varieties of maps and mappers, all while getting confused with Ascendance (no relation) daily by people who either don't know any better, or otherwise decidedly know better but decide to tease him anyway. Through it all, he accounted for the second most nominations in the mode, as well as having no severe resets throughout the year, maintaining a fairly clean record — which is extremely impressive considering the level of activity he maintained.
 
 Being a great example of how much a BN can contribute while still taking great care to avoid mistakes, Ascendan— Ascended is truly worthy of the Elite Nominator title. Congratulations!
 
-::!\1\1(/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/gorou.jpg)::{ user=12157130 }
+::![](/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/gorou.jpg)::{ user=12157130 }
 
 In 2024, ::Gorou::{ user=12157130 } made strong contributions to the community by maintaining a clean nomination record while also demonstrating consistently high activity. They also played a role in assisting with the [revival project](https://osu.ppy.sh/community/forums/topics/1902877) and nominated many of the featured maps. Their efforts to promote variety have also been extremely positive, as a significant percentage of their nominations throughout the year came from unique mappers, enriching the Ranked section with diversity in mapping styles. Gorou's consistent hard work and dedication to the community throughout 2024 is evident, thus earning them the Elite Nominator title!
 
-::!\1\1(/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/lasse.jpg)::{ user=896613 }
+::![](/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/lasse.jpg)::{ user=896613 }
 
 A renowned figure in the mapping and modding community who has been around for nearly a decade, as well as an ex-NAT/[QAT](/wiki/People/Quality_Assurance_Team) member, the winner in the Best Modder category in the [MCA 2021](https://mca.corsace.io/2021), a recipient of the Elite Nominator titles in 2019 and 2020, and more! ::Lasse::{ user=896613 } continues to amaze us even after all those years.
 
@@ -58,13 +58,13 @@ Despite his early departure last year, Lasse has set the bar high yet again by n
 
 Lasse's all-round performance that we simply couldn't ignore has earned him the title of Elite Nominator again, making him one of the first people to achieve the **Elite Nominator III** title! This reward is a token of appreciation for the countless hours he has put into contributing greatly to the mapping and modding scene throughout the years, and we hope this achievement will inspire others to strive for the same level of excellence and dedication.
 
-::!\1\1(/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/mattay.jpg)::{ user=9748303 }
+::![](/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/mattay.jpg)::{ user=9748303 }
 
 Joining the Beatmap Nominators as a new addition in late April, ::Mattay::{ user=9748303 } immediately got to work proving that while he may be new to the team, his vast knowledge and keen eye for quality across a wide spectrum of mapping styles and song genres rival that of many far more experienced BNs.
 
 His skill and dedication are reflected in his performance, as across 79 nominations during the year, not a single one of them received a notable reset. Such a perfect record with almost double the nominations of the average BN is already very impressive on its own, but when you also consider that Mattay achieved this as a newcomer in only 2/3 of the year while promoting a great variety of maps, it further highlights his extraordinary ability as a BN and cements his place as an Elite Nominator through and through.
 
-::!\1\1(/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/momoyo.jpg)::{ user=12469536 }
+::![](/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/momoyo.jpg)::{ user=12469536 }
 
 Joining the Beatmap Nominators in January, ::momoyo::{ user=12469536 } has quickly shown a high degree of dedication towards improving the [Ranked](/wiki/Beatmap/Category#ranked) scene.
 
@@ -72,7 +72,7 @@ Last year, with over 100 nominations, only 4 of which had notable resets, momoyo
 
 Such contributions cannot be ignored, thus earning him the Elite Nominator title and badge!
 
-::!\1\1(/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/nekroman4ik.jpg)::{ user=11387664 }
+::![](/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/nekroman4ik.jpg)::{ user=11387664 }
 
 An immense positive outlier, statistics-wise, ::NeKroMan4ik::{ user=11387664 } has earned his Elite Nominator badge by having **no** notable resets out of a whopping 132 unique nominations during the year, with a great degree of variety, as over 85% of these were given to mappers whom he had not nominated before. That means he was in the top echelons of both nomination quality (notable resets per nomination) as well as quantity (total nominations), something that is truly rare in today's system.
 
@@ -80,13 +80,13 @@ Through his commitment to nomination quality, caution, and thoroughness, all whi
 
 ### osu!taiko
 
-::!\1\1(/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/gt.jpg)::{ user=8301957 }
+::![](/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/gt.jpg)::{ user=8301957 }
 
-Spawning into the Beatmap Nominators through the experimental Trial BN program in late 2023, ::\1gt::{ user=8301957 } has shown us nothing short of excellent performance ever since then. While he is well known as a gimmick and SV mapper, he is also equally proficient on the modding side of things, and his performance over the past year serves as proof of that. With over 160 nominations under his name in 2024, he has consistently maintained a high standard, with only one notable reset. He did this while also promoting a wide variety of map types in his nominations, from simple J-pop songs to complex 9* maps, all without compromising the quality of his mods.
+Spawning into the Beatmap Nominators through the experimental Trial BN program in late 2023, ::_gt::{ user=8301957 } has shown us nothing short of excellent performance ever since then. While he is well known as a gimmick and SV mapper, he is also equally proficient on the modding side of things, and his performance over the past year serves as proof of that. With over 160 nominations under his name in 2024, he has consistently maintained a high standard, with only one notable reset. He did this while also promoting a wide variety of map types in his nominations, from simple J-pop songs to complex 9* maps, all without compromising the quality of his mods.
 
 Besides his work as a BN, he continually provides custom maps to tournaments as well as hosting one of his own as well as joining Project Loved as a Loved Captain, all while balancing his high nomination activity. We think his work ethic is truly commendable, and his commitment to the game mode has really shined through — it is only fitting to present him with the title of Elite Nominator for his efforts!
 
-::!\1\1(/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/blackbn.jpg)::{ user=6291741 }
+::![](/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/blackbn.jpg)::{ user=6291741 }
 
 Ever since joining back in July 2021, ::BlackBN::{ user=6291741 } has had one of the most exceptional runs in BN history. By showing their dedication, paired with a deep love for the game mode and its community, he nominated an impressive amount of 174 in 2024 maps just in osu!taiko alone — even while still being a core member of the osu!catch Beatmap Nominators! On top of having a remarkably low reset count and stellar modding activity, this performance isn't something neither you or we want to miss out on!
 
@@ -94,7 +94,7 @@ Besides his commitment to nominating beatmaps, BlackBN has inspired many users t
 
 It's fair to say that, despite not receiving formal recognition up until now, BlackBN has long been part of the osu!taiko elite. It's only fitting to finally acknowledge his contributions by granting him the honor he *truly* deserves — along with the shiny badge and title.
 
-::!\1\1(/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/iredi.jpg)::{ user=8005579 }
+::![](/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/iredi.jpg)::{ user=8005579 }
 
 Originally hailing from the osu! mapping scene, ::iRedi::{ user=8005579 } took the osu!taiko Beatmap Nominators by a storm from the moment he joined back in December 2023. Ever since, he's been a super consistent force to be reckoned with, and his performance over the past year is a testament to that.
 
@@ -104,7 +104,7 @@ With only a total of 17 resets (and only 3 of them being notable), iRedi's perfo
 
 ### osu!catch
 
-::!\1\1(/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/spectator.jpg)::{ user=702598 }
+::![](/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/spectator.jpg)::{ user=702598 }
 
 An example of the osu!catch community for numerous years, ::Spectator::{ user=702598 } has been one of the driving forces in osu!catch, especially in 2024 as a Beatmap Nominator. In 2024, Spectator nominated a stunning 145 beatmaps, beating the records we've seen in previous years by others.
 
@@ -112,7 +112,7 @@ Beyond the sheer volume, Spectator's keen eye for quality and dedication to upho
 
 ### osu!mania
 
-::!\1\1(/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/carpihat.jpg)::{ user=10085090 }
+::![](/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/carpihat.jpg)::{ user=10085090 }
 
 This is the story of a nominator whose primary objective ever since joining the group back in late 2023 has been to become an Elite Nominator for the mode. ::Carpihat::{ user=10085090 }'s performance all throughout 2024 has been stellar, both in terms of quantity and the quality of their contributions!
 
@@ -120,7 +120,7 @@ Being well-versed in both 4K and 7K, this has allowed Carpihat to nominate **211
 
 It is easy to underestimate the amount of work they've poured into the game, and no badge or title will be sufficient to express our utmost thanks for their dedication.
 
-::!\1\1(/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/gzdongsheng.jpg)::{ user=8660315 }
+::![](/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/gzdongsheng.jpg)::{ user=8660315 }
 
 ::gzdongsheng::{ user=8660315 } has proven himself not just once or twice, but three times — a remarkable achievement that highlights his worthiness for this year's Elite title once again.
 
@@ -128,7 +128,7 @@ With an outstanding number of 73 unique nominations, accompanied by numerous com
 
 gzdongsheng has done an outstanding job this year, continuing their excellent work from the previous two years. Their remarkable achievements stand as a shining example for others to admire and aspire towards, making them deserving of this year's Elite title.
 
-::!\1\1(/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/maxus.jpg)::{ user=4335785 }
+::![](/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/maxus.jpg)::{ user=4335785 }
 
 On top of being active in many projects across the mania community, ::Maxus::{ user=4335785 } has proven himself to be one of the top nominators for yet another year.
 
@@ -136,7 +136,7 @@ With an astonishing 138 nominations in a year, "variety" is one of the keywords 
 
 We have seen a lot of great work from Maxus in 2024, and it's more than enough for him to win the Elite Nominator title once again!
 
-::!\1\1(/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/monoseul.jpg)::{ user=16010604 }
+::![](/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/monoseul.jpg)::{ user=16010604 }
 
 ::Monoseul::{ user=16010604 } has consistently excelled as a Beatmap Nominator for 2 years in a row, earning him his well-deserved Elite Nominator II title!
 
@@ -144,7 +144,7 @@ This year, he made an impressive 105 nominations while delivering the top-qualit
 
 He also hasn't failed to promote variety with his nominations, spanning many different mappers, genres, key modes, and mapping styles. With two consecutive years of outstanding contributions, Monoseul has firmly established himself as an Elite Beatmap Nominator!
 
-::!\1\1(/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/seiran.jpg)::{ user=14351534 }
+::![](/wiki/shared/news/2025-03-24-community-contributors-elite-nominators-2024/seiran.jpg)::{ user=14351534 }
 
 One of last year's exemplary figures in the mapping and modding community was none other than ::Seiran-::{ user=14351534 }, well known for his mapping expertise. The example they've set through his outstanding contribution and nomination efforts within the community was hard for us to ignore!
 

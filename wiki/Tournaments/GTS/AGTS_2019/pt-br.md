@@ -73,7 +73,7 @@ O Advanced Global Taiko Showdown 2019 foi realizado por vários membros da comun
 | ::{ flag=CA }:: | **Canadá** | **::beary605::{ user=2198070 }**, ::iceandele::{ user=1740540 }, ::Player-::{ user=3724819 }, ::rubies87::{ user=4949934 }, ::DuckyDoom::{ user=3153062 } |
 | ::{ flag=CL }:: | **Chile** | **::Catulus::{ user=6276709 }**, ::Adimoc::{ user=6757492 }, ::-NaNdo-::{ user=1934382 } |
 | ::{ flag=CN }:: | **China** | **::\[sACRIFICe\]::{ user=6294200 }**, ::super mario fan::{ user=8263525 }, ::Flandre sca::{ user=10324309 }, ::-OvO-::{ user=12208924 }, ::Nisoquo::{ user=12345370 } |
-| ::{ flag=KR }:: | **Coreia do Sul** | **::POCARI-SWEAT::{ user=5082685 }**, ::bbj0920::{ user=87546 }, ::yuhuna\1kor::{ user=13046017 }, ::\[Akita-Neru\]::{ user=613944 }, ::TRAtOrTs::{ user=12481695 } |
+| ::{ flag=KR }:: | **Coreia do Sul** | **::POCARI-SWEAT::{ user=5082685 }**, ::bbj0920::{ user=87546 }, ::yuhuna_kor::{ user=13046017 }, ::\[Akita-Neru\]::{ user=613944 }, ::TRAtOrTs::{ user=12481695 } |
 | ::{ flag=EC }:: | **Equador** | **::Gamelan4::{ user=9856910 }**, ::Arkano036::{ user=5899577 }, ::Etsu::{ user=3442319 } |
 | ::{ flag=ES }:: | **Espanha** | **::naliem::{ user=3252709 }**, ::RuinedChicken::{ user=7983713 }, ::Machango::{ user=7180552 }, ::Nara\_NB::{ user=3593992 } |
 | ::{ flag=US }:: | **Estados Unidos A** | **::Backfire::{ user=263110 }**, ::ChurroChef::{ user=9258564 }, ::CaptainEChan::{ user=9536977 }, ::dragonworm::{ user=11464752 } |
@@ -81,9 +81,9 @@ O Advanced Global Taiko Showdown 2019 foi realizado por vários membros da comun
 | ::{ flag=PH }:: | **Filipinas** | **::yuki\_momoiro722::{ user=7186791 }**, ::Niro-::{ user=6443899 }, ::A i r::{ user=10363380 }, ::Yron8::{ user=1537747 } |
 | ::{ flag=FR }:: | **França** | **::maximaxiU::{ user=4069690 }**, ::Chernobog::{ user=3317042 }, ::Gintoki8::{ user=2239411 }, ::ALISTAR033009::{ user=9819975 }, ::ZeddaStake::{ user=8801844 } |
 | ::{ flag=HK }:: | **Hong Kong** | **::Brown918::{ user=9805760 }**, ::Cynplytholowazy::{ user=3901754 }, ::\[\_isolated\_\]::{ user=6187838 } |
-| ::{ flag=ID }:: | **Indonésia A** | **::Mikurio::{ user=10734140 }**, ::misaki\1tk::{ user=3866964 }, ::steven1::{ user=3090416 }, ::Volta::{ user=4154071 } |
+| ::{ flag=ID }:: | **Indonésia A** | **::Mikurio::{ user=10734140 }**, ::misaki_tk::{ user=3866964 }, ::steven1::{ user=3090416 }, ::Volta::{ user=4154071 } |
 | ::{ flag=ID }:: | **Indonésia B** | **::Viewland::{ user=6250135 }**, ::Shirai-::{ user=4221845 }, ::Alwaysyukaz::{ user=4999506 }, ::ImChro::{ user=7280717 }, ::Ahmad Haris::{ user=6048245 } |
-| ::{ flag=JP }:: | **Japão** | **::Briesmas::{ user=2865172 }**, ::autumndayo::{ user=12268857 }, ::TEL09016579767::{ user=3925121 }, ::shinnme\1ao::{ user=6252972 }, ::Ku\1Ren::{ user=2535243 } |
+| ::{ flag=JP }:: | **Japão** | **::Briesmas::{ user=2865172 }**, ::autumndayo::{ user=12268857 }, ::TEL09016579767::{ user=3925121 }, ::shinnme_ao::{ user=6252972 }, ::Ku_Ren::{ user=2535243 } |
 | ::{ flag=MY }:: | **Malásia** | **::Bedwyr Aorta::{ user=10875855 }**, ::Megumin-Sama::{ user=6201335 }, ::Minisora::{ user=9627666 }, ::imnoobatosuosu::{ user=12086753 } |
 | ::{ flag=MX }:: | **México** | **::Iojioji::{ user=1346121 }**, ::ZaveryK::{ user=10913397 }, ::L\_CORTES\_01::{ user=12548363 } |
 | ::{ flag=NL }:: | **Países Baixos** | **::Krekker::{ user=8265940 }**, ::Hypello::{ user=1594036 }, ::jesse-98::{ user=502722 }, ::StrijkIjzer::{ user=4130926 } |

@@ -86,7 +86,7 @@ The Finnish Duo Cup 2025 was run by various community members.
 | Schizo rizzzlers | ::{ flag=FI }:: **::NoTablet::{ user=10967148 }**, ::{ flag=FI }:: ::beea66::{ user=10708428 } |
 | No title | ::{ flag=FI }:: **::sph3re::{ user=21073465 }**, ::{ flag=PL }:: ::mouseANDtablet::{ user=22922042 } |
 | Mandelbrot set | ::{ flag=FI }:: **::Jokupoika24::{ user=17782643 }**, ::{ flag=FI }:: ::System Sun::{ user=3163106 } |
-| Lil bros | ::{ flag=FI }:: **::ImTK::{ user=11506206 }**, ::{ flag=FI }:: ::OG\1PannuLappu::{ user=7295343 } |
+| Lil bros | ::{ flag=FI }:: **::ImTK::{ user=11506206 }**, ::{ flag=FI }:: ::OG_PannuLappu::{ user=7295343 } |
 
 ## Podium
 

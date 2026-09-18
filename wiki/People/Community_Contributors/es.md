@@ -131,7 +131,7 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 | ::{ flag=AU }:: ::Syrin::{ user=5701575 } | Creador de [PerformancePlus](https://syrin.me/pp+/) y [osu!chan](https://osuchan.syrin.me) |
 | ::{ flag=SG }:: ::Raveille::{ user=1388767 } | Esfuerzo excepcional en la producción y publicación del proyecto Scorewatch |
 | ::{ flag=FR }:: ::ThePooN::{ user=718454 } | Esfuerzo excepcional en la producción y publicación del proyecto Scorewatch |
-| ::{ flag=US }:: ::MegaApple\1Pi::{ user=2148208 } | Esfuerzos excepcionales para impulsar el proyecto osu! wiki con innumerables revisiones, reelaboraciones y reseñas |
+| ::{ flag=US }:: ::MegaApple_Pi::{ user=2148208 } | Esfuerzos excepcionales para impulsar el proyecto osu! wiki con innumerables revisiones, reelaboraciones y reseñas |
 | ::{ flag=PL }:: ::TPGPL::{ user=3944705 } | Piedra angular del proyecto osu! wiki y destacada contribución a lo largo de los años |
 
 ### 2019
@@ -213,7 +213,7 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 | ::{ flag=DE }:: ::hallowatcher::{ user=1874761 } | Excelente contribución a los eventos de la comunidad y al desarrollo |
 | ::{ flag=GB }:: ::mangomizer::{ user=1893718 } | Excelente contribución a las World Cups y eventos de la comunidad |
 | ::{ flag=DE }:: ::Lasse::{ user=896613 } | Excelente contribución a la escena de mapping y modding |
-| ::{ flag=PL }:: ::spaceman\1atlas::{ user=3035836 } | Excelente contribución al desarrollo de osu! a través de muchos proyectos |
+| ::{ flag=PL }:: ::spaceman_atlas::{ user=3035836 } | Excelente contribución al desarrollo de osu! a través de muchos proyectos |
 | ::{ flag=DE }:: ::RockRoller::{ user=8388854 } | Excelente contribución al skinning de osu! y a la escena de moderación |
 | ::{ flag=US }:: ::I Must Decrease::{ user=2773526 } | Excelente contribución a la puntuación de mantenimiento y desarrollo |
 | ::{ flag=US }:: ::this1neguy::{ user=1797189 } | Excelente contribución a la escena de las World Cups y los torneos de la comunidad |
@@ -322,7 +322,7 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 | ::{ flag=KR }:: ::Civil oath::{ user=3216107 } | Excelente contribución en la moderación en diversas plataformas |
 | ::{ flag=CN }:: ::Mafumafu::{ user=3076909 } | Contribución de larga trayectoria a la comunidad de mapping y modding |
 | ::{ flag=AT }:: ::Maarvin::{ user=6411631 } | Excelente contribución en asuntos relacionados con el desarrollo |
-| ::{ flag=DE }:: ::The\1Last\1Cookie::{ user=11587828 } | Contribución de larga trayectoria en las traducciones al alemán de la osu! wiki |
+| ::{ flag=DE }:: ::The_Last_Cookie::{ user=11587828 } | Contribución de larga trayectoria en las traducciones al alemán de la osu! wiki |
 | ::{ flag=PE }:: ::Tiburon::{ user=18115022 } | Contribución de larga trayectoria en las traducciones al español de la osu! wiki |
 | ::{ flag=ES }:: ::Agatem::{ user=18202514 } | Contribución de larga trayectoria en las traducciones al español de la osu! wiki |
 | ::{ flag=CN }:: ::Muziyami::{ user=7003013 } | Contribución de larga trayectoria en las traducciones al chino de la osu! wiki |

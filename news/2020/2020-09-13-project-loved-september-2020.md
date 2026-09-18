@@ -26,7 +26,7 @@ osu!standard Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, :
 
 [![](/wiki/shared/news/2020-09-13-project-loved-september-2020/osu/1-izayoi-girls-rage.jpg)](https://osu.ppy.sh/community/forums/topics/1143869)
 
-[bibuko - Izayoi Girls Rage](https://osu.ppy.sh/beatmapsets/70926#osu) by ::caren\1sk::{ user=542498 }\
+[bibuko - Izayoi Girls Rage](https://osu.ppy.sh/beatmapsets/70926#osu) by ::caren_sk::{ user=542498 }\
 256 BPM, 3:41 | 8.56★, 8.56★\
 *description written by ::Bubbleman::{ user=5182050 }*
 
@@ -125,7 +125,7 @@ Despite its tangible difficulty, the patterns are mostly simplistic but it does 
 
 [![](/wiki/shared/news/2020-09-13-project-loved-september-2020/taiko/3-revenge-reek-s-dude-what-s-a-genre-remix.jpg)](https://osu.ppy.sh/community/forums/topics/1143858)
 
-[TryHardNinja feat. CaptainSparklez - Revenge (ReeK’s "Dude, What’s A Genre?" Remix)](https://osu.ppy.sh/beatmapsets/1162156#taiko) by ::yuzu\1\1rinrin::{ user=4616752 }\
+[TryHardNinja feat. CaptainSparklez - Revenge (ReeK’s "Dude, What’s A Genre?" Remix)](https://osu.ppy.sh/beatmapsets/1162156#taiko) by ::yuzu__rinrin::{ user=4616752 }\
 165 BPM, 4:34 | 7.61★\
 *description written by ::POCARI SWEAT::{ user=5082685 }*
 

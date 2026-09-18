@@ -80,7 +80,7 @@ tags:
 | 16 | ::{ flag=FR }:: ::Adri::{ user=4579132 } |
 | 17 | ::{ flag=CA }:: ::LelPop::{ user=10242770 } |
 | 18 | ::{ flag=CA }:: ::Lime717::{ user=7918664 } |
-| 19 | ::{ flag=US }:: ::\1Riley::{ user=8826046 } |
+| 19 | ::{ flag=US }:: ::_Riley::{ user=8826046 } |
 | 20 | ::{ flag=NL }:: ::jackylam5::{ user=1540807 } |
 | 21 | ::{ flag=US }:: ::\[GS\]Teo::{ user=7081478 } |
 | 22 | ::{ flag=ID }:: ::ketiduran::{ user=2180885 } |
@@ -99,7 +99,7 @@ tags:
 | 35 | ::{ flag=US }:: ::\[GS\]Croniken::{ user=9989041 } |
 | 36 | ::{ flag=NL }:: ::Harvey::{ user=3897387 } |
 | 37 | ::{ flag=BR }:: ::Skull Kid::{ user=3044264 } |
-| 38 | ::{ flag=FR }:: ::Panda\10ne::{ user=11216472 } |
+| 38 | ::{ flag=FR }:: ::Panda_0ne::{ user=11216472 } |
 | 39 | ::{ flag=BR }:: ::Konohana Lucia::{ user=8642224 } |
 | 40 | ::{ flag=US }:: ::Ethaaaan::{ user=9536977 } |
 | 41 | ::{ flag=GB }:: ::Teezel::{ user=7528639 } |

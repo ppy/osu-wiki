@@ -172,7 +172,7 @@ tags:
 | Име | Допълнителен език |
 | :-- | :-- |
 | ::{ flag=GB }:: ::Asherz007::{ user=9014047 } |  |
-| ::{ flag=AU }:: ::\1 Decku \1::{ user=13360768 } |  |
+| ::{ flag=AU }:: ::[ Decku ]::{ user=13360768 } |  |
 | ::{ flag=VN }:: ::AHHHHHHHHHHHHHH::{ user=8249608 } |  |
 | ::{ flag=TW }:: ::deta5859::{ user=15275662 } | Китайски |
 | ::{ flag=KR }:: ::Dubstek::{ user=9555243 } | корейски |
@@ -221,7 +221,7 @@ tags:
 
 | Име | Допълнителен език |
 | :-- | :-- |
-| ::{ flag=CN }:: ::\1RT\1Alleyne::{ user=11279273 } | Китайски |
+| ::{ flag=CN }:: ::[RT]Alleyne::{ user=11279273 } | Китайски |
 | ::{ flag=KR }:: ::Paran::{ user=13340203 } | корейски |
 | ::{ flag=KR }:: ::secXcscX::{ user=13543418 } | корейски |
 

@@ -142,7 +142,7 @@ We've seen him before taking the spot of a popular LN charter, and here eZmmR is
 
 [![](/wiki/shared/news/2019-09-16-project-loved-week-of-september-15th/mania/3-tiefsee.jpg)](https://osu.ppy.sh/community/forums/topics/961640)
 
-[SOUND HOLIC Vs. dj TAKA feat. YURiCa - TIEFSEE](https://osu.ppy.sh/beatmapsets/861816#mania) by ::Kim\1GodSSI::{ user=2218047 }\
+[SOUND HOLIC Vs. dj TAKA feat. YURiCa - TIEFSEE](https://osu.ppy.sh/beatmapsets/861816#mania) by ::Kim_GodSSI::{ user=2218047 }\
 165 BPM, 5:49 | \[7K\] 8.29★
 
 It's time for another Kim_GodSSI pick! This round we're having *TIEFSEE*! You might have seen this from the last 7K Mania World Cup and it is arguably one of the more well-received maps in the pool for all the right reasons.

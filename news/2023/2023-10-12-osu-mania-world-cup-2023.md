@@ -83,7 +83,7 @@ With a final score of 6–4, Korea narrowly avoided a tiebreaker scenario agains
 
 #### ::{ flag=TH }:: Thailand vs. ::{ flag=CN }:: China
 
-Thailand and China faced off in the losers' bracket Semifinals. As a team that delivers the spiciest performances when you least expect them to, Thailand recovered from a 3–5 deficit, bringing China to the inevitable "thai-breaker". And despite a super impressive 1-miss run from ::\1GB\1nyasun::{ user=16277321 }, Thailand takes a fabled win of 6–5, showing that their late-game abilities and grit were not to be underestimated.
+Thailand and China faced off in the losers' bracket Semifinals. As a team that delivers the spiciest performances when you least expect them to, Thailand recovered from a 3–5 deficit, bringing China to the inevitable "thai-breaker". And despite a super impressive 1-miss run from ::[GB]nyasun::{ user=16277321 }, Thailand takes a fabled win of 6–5, showing that their late-game abilities and grit were not to be underestimated.
 
 #### ::{ flag=CL }:: Chile vs. ::{ flag=VN }:: Vietnam
 
@@ -149,7 +149,7 @@ Here are some brief snippets of player interviews conducted by ::-mint-::{ user=
 
 *Tell us about your vision of the future for Team Chile. Do you have plans to continue to coach or develop players from your team to eventually reach the podium?*
 
-> **myucchii:** I've always had plans to continue assisting in fostering the competitive 4K environment within the Chilean community. I'm very glad to already have been able to assist players along their journeys and witness their potential manifest in real time; for instance, ::MyAngelKokomi::{ user=8880797 } and ::\1LS\1bambi fnf::{ user=20360332 }, who had never even played in 4K MWC before, proved themselves to be two of the most capable tournament players Team Chile has seen. With them and even more players on the horizon, top 3 feels ever so slightly closer. It's still my ultimate goal to achieve in this game, and I won't ever stop trying to encourage my fellow Chilean players to share in that dream.
+> **myucchii:** I've always had plans to continue assisting in fostering the competitive 4K environment within the Chilean community. I'm very glad to already have been able to assist players along their journeys and witness their potential manifest in real time; for instance, ::MyAngelKokomi::{ user=8880797 } and ::[LS]bambi fnf::{ user=20360332 }, who had never even played in 4K MWC before, proved themselves to be two of the most capable tournament players Team Chile has seen. With them and even more players on the horizon, top 3 feels ever so slightly closer. It's still my ultimate goal to achieve in this game, and I won't ever stop trying to encourage my fellow Chilean players to share in that dream.
 
 *Any closing thoughts?*
 

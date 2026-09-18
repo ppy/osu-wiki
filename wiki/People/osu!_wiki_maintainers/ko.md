@@ -22,7 +22,7 @@ no_native_review: true
 | ::{ flag=US }:: ::Joehu::{ user=8549835 } | [Joehuu](https://github.com/Joehuu) | 활동 중이 아님 |  |
 | ::{ flag=AR }:: ::juankristal::{ user=443656 } | [juankristal](https://github.com/juankristal) | 활동 중이 아님 | 스페인어 |
 | ::{ flag=DE }:: ::Loctav::{ user=71366 } | [Loctav](https://github.com/Loctav) | 활동 중이 아님 | 독일어 |
-| ::{ flag=US }:: ::MegaApple\1Pi::{ user=2148208 } | [MegaApplePi](https://github.com/MegaApplePi) | 활동 중이 아님 |  |
+| ::{ flag=US }:: ::MegaApple_Pi::{ user=2148208 } | [MegaApplePi](https://github.com/MegaApplePi) | 활동 중이 아님 |  |
 | ::{ flag=ID }:: ::Niva::{ user=197805 } | [Nivalyx](https://github.com/Nivalyx) | **활동 중** | 인도네시아어 |
 | ::{ flag=DE }:: ::Okoratu::{ user=1623405 } | [Okorin](https://github.com/Okorin) | 활동 중이 아님 | 독일어 |
 | ::{ flag=AU }:: ::peppy::{ user=2 } | [peppy](https://github.com/peppy) | **활동 중** | 일본어 |

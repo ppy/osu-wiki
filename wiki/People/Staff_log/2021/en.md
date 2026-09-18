@@ -45,7 +45,7 @@ Abbreviations for user groups are used throughout this log:
 
 - 2021-01-07: Removed ::JierYagtama::{ user=7483452 } from **BN**
 - 2021-01-15: Removed ::Greenshell::{ user=8693851 } from **BN**
-- 2021-01-19: Removed ::Rivals\17::{ user=4610379 } from **BN**
+- 2021-01-19: Removed ::Rivals_7::{ user=4610379 } from **BN**
 - 2021-01-23: Removed ::-Joni-::{ user=9988837 } from **Probationary BN**
 - 2021-01-24: Removed ::Smokeman::{ user=2140676 } from **BN**
 - 2021-01-24: Removed ::Okoratu::{ user=1623405 } from **BN**
@@ -198,7 +198,7 @@ Abbreviations for user groups are used throughout this log:
 #### Removals
 
 - 2021-04-02: Removed ::Battle::{ user=4037545 } from **Probationary BN**
-- 2021-04-04: Removed ::BaAR\1Vendel::{ user=8679346 } from **BN**
+- 2021-04-04: Removed ::BaAR_Vendel::{ user=8679346 } from **BN**
 - 2021-04-10: Removed ::Milan-::{ user=1052994 } from **BN**
 - 2021-04-12: Removed ::Xinely::{ user=1521445 } from **BN**
 - 2021-04-15: Removed ::-Aqua::{ user=7150015 } from **BN**
@@ -295,7 +295,7 @@ Abbreviations for user groups are used throughout this log:
 - 2021-06-14: Removed ::Mordred::{ user=7265097 } from **BN**
 - 2021-06-15: Removed ::C00L::{ user=4930630 } from **BN**
 - 2021-06-22: Removed ::Aruel::{ user=3984370 } from **BN**
-- 2021-06-30: Removed ::realy0\1::{ user=8863359 } from **BN**
+- 2021-06-30: Removed ::realy0_::{ user=8863359 } from **BN**
 
 ## July
 
@@ -449,7 +449,7 @@ Abbreviations for user groups are used throughout this log:
 
 ## October
 
-- 2021-10-06: Moved ::\1 Another \1::{ user=3416573 } from **osu! Alumni** to **GMT**
+- 2021-10-06: Moved ::[ Another ]::{ user=3416573 } from **osu! Alumni** to **GMT**
 - 2021-10-10: Moved ::- Felix::{ user=8503985 } from **GMT** to **osu! Alumni**
 - 2021-10-14: Added ::radar::{ user=7131099 } to **NAT**
 - 2021-10-14: Added ::Capu::{ user=2474015 } to **NAT**
@@ -479,10 +479,10 @@ Abbreviations for user groups are used throughout this log:
 - 2021-10-01: Moved ::Mordred::{ user=7265097 } from **Probationary BN** to **BN**
 - 2021-10-09: Moved ::Chatie::{ user=6524765 } from **Probationary BN** to **BN**
 - 2021-10-09: Moved ::autofanboy::{ user=636114 } from **Probationary BN** to **BN**
-- 2021-10-09: Moved ::\1 Decku \1::{ user=13360768 } from **Probationary BN** to **BN**
+- 2021-10-09: Moved ::[ Decku ]::{ user=13360768 } from **Probationary BN** to **BN**
 - 2021-10-09: Moved ::Murumoo::{ user=8001433 } from **Probationary BN** to **BN**
 - 2021-10-09: Moved ::RandomeLoL::{ user=7080063 } from **Probationary BN** to **BN**
-- 2021-10-15: Moved ::\1Karcher\1 2::{ user=9892196 } from **Probationary BN** to **BN**
+- 2021-10-15: Moved ::[Karcher] 2::{ user=9892196 } from **Probationary BN** to **BN**
 - 2021-10-18: Moved ::Een Persoon::{ user=10959501 } from **Probationary BN** to **BN**
 - 2021-10-19: Moved ::Cris-::{ user=6175280 } from **BN** to **Probationary BN**
 - 2021-10-19: Moved ::D0UG::{ user=13806900 } from **Probationary BN** to **BN**
@@ -560,7 +560,7 @@ Abbreviations for user groups are used throughout this log:
 
 - 2021-12-03: Added ::Virtue-::{ user=6144772 } to **Probationary BN**
 - 2021-12-03: Added ::Muse Dash::{ user=13695676 } to **Probationary BN**
-- 2021-12-06: Added ::Geo\1ooo::{ user=12013943 } to **Probationary BN**
+- 2021-12-06: Added ::Geo_ooo::{ user=12013943 } to **Probationary BN**
 - 2021-12-09: Added ::Kuo Kyoka::{ user=2596306 } to **Probationary BN**
 - 2021-12-19: Added ::wafer::{ user=9416836 } to **Probationary BN**
 - 2021-12-19: Added ::tadahitotsu::{ user=11653544 } to **Probationary BN**

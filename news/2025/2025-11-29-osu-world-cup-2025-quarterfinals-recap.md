@@ -82,7 +82,7 @@ And for the tiebreaker, a familiar face returned to osu!, as one of the earliest
 
 The story of Saturday was the #26 seed Taiwan and the ascension of ::{ flag=TW }:: ::GAO HAO::{ user=8964050 }. An unheralded player to many coming into this World Cup, he would make himself into a household name over the course of Taiwan's shocking upset of #12 seed Romania in the losers' bracket round 2.
 
-The match began inauspiciously with the teams trading picks for the first four maps before Romania stole a break point on Taiwan's 3rd pick of [HR1](https://osu.ppy.sh/beatmapsets/2465285#osu/5396555), led by ::{ flag=RO }:: ::origin\1::{ user=15095811 } and his 608,503 score. Romania consolidated the break point by dominating [FM2](https://osu.ppy.sh/beatmapsets/2465435#osu/5396931) next for a 4–2 lead, after which the teams traded points with Romania taking match point advantage at 5–3.
+The match began inauspiciously with the teams trading picks for the first four maps before Romania stole a break point on Taiwan's 3rd pick of [HR1](https://osu.ppy.sh/beatmapsets/2465285#osu/5396555), led by ::{ flag=RO }:: ::origin_::{ user=15095811 } and his 608,503 score. Romania consolidated the break point by dominating [FM2](https://osu.ppy.sh/beatmapsets/2465435#osu/5396931) next for a 4–2 lead, after which the teams traded points with Romania taking match point advantage at 5–3.
 
 At this point, it was do or die time for Taiwan, whose tournament lives were on the line heading into their final pick of DT1. On the iconic [Remote Control](https://osu.ppy.sh/beatmapsets/351630#osu/774965), they put together a strong overall team performance led by ::{ flag=TW }:: ::Flyer::{ user=9767342 } putting up a 906,008 score to win the map and force Romania into their own final selection.
 
@@ -223,7 +223,7 @@ At some point you will find your little niche where you can start adding individ
 
 ::{#lowgraphics}::
 
-::!\1LowGraphics\1(/wiki/shared/news/2025-11-29-osu-world-cup-2025-quarterfinals-recap/LowGraphics.png?1)::{ user=5383942 }
+::![LowGraphics](/wiki/shared/news/2025-11-29-osu-world-cup-2025-quarterfinals-recap/LowGraphics.png?1)::{ user=5383942 }
 
 When it comes to lyric-driven storyboards, few names stand out in the community quite like ::LowGraphics::{ user=5383942 }. Recognised for his visual storytelling through text design, LowGraphics left us a lasting impression with his work on [Lies Playing Truth](https://youtu.be/v5ZaTeibemI) in OWC 2024 and [Veil of Ash](https://youtu.be/1a8kmvlpSj4) in CWC 2025. We now see him making a return to take on the Quarterfinals Tiebreaker [Helblinde - Nástrǫnd](https://youtu.be/k0fRmaEWty8), a challenging dark mythological design rooted in Norse lore.
 

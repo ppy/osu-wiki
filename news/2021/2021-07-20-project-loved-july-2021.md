@@ -13,7 +13,7 @@ For those unfamiliar, Project Loved hosts community voting polls each month to d
 
 This month, Project Loved will be getting 2 new Captains!
 
-Coming from the osu!taiko Nomination Team, we'd like to welcome ::Horiiizon::{ user=8071438 } to Project Loved! With their experience both in modding maps and as a player, we trust they're going to continue to bring quality maps to the Loved section! Our second captain this month is actually returning after their break from the team. This captain is ::\1underjoy::{ user=2235750 }, who will be rejoining the osu!mania captain roster!
+Coming from the osu!taiko Nomination Team, we'd like to welcome ::Horiiizon::{ user=8071438 } to Project Loved! With their experience both in modding maps and as a player, we trust they're going to continue to bring quality maps to the Loved section! Our second captain this month is actually returning after their break from the team. This captain is ::_underjoy::{ user=2235750 }, who will be rejoining the osu!mania captain roster!
 
 That's all for the big changes this month, so let's get into the picks for July.
 
@@ -243,7 +243,7 @@ It's not very often that you see keyspreads done in a way that makes all of the 
 
 [![](/wiki/shared/news/2021-07-20-project-loved-july-2021/781166.jpg)](https://osu.ppy.sh/community/forums/topics/1376748)
 
-[senya - Zouka de Arou to Shita Mono](https://osu.ppy.sh/beatmapsets/781166#mania) by ::Wilben\1Chan::{ user=6659363 }\
+[senya - Zouka de Arou to Shita Mono](https://osu.ppy.sh/beatmapsets/781166#mania) by ::Wilben_Chan::{ user=6659363 }\
 155 BPM, 3:27 | 6.37★, 6.88★, 7.38★, 7.90★, 8.39★\
 *description written by ::\_underjoy::{ user=2235750 }*
 

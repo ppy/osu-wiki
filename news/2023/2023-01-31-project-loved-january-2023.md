@@ -309,7 +309,7 @@ At the beginning of 2023, don't you want more fierce music and jack maps in the 
 
 [![](/wiki/shared/news/2023-01-30-project-loved-january-2023/1595301.jpg)](https://osu.ppy.sh/community/forums/topics/1714609)
 
-[Various Artists - Jumpstream Complexes Vol. 2A](https://osu.ppy.sh/beatmapsets/1595301#mania) by ::\[Crz\]hinako1804::{ user=13747903 }, ::-Deepdive-::{ user=13338645 }, ::\[Crz\]IsxI::{ user=18042127 }, ::Blue\1Potion::{ user=13094831 }, ::EDTA233::{ user=9942869 }, ::FDShijing::{ user=22386239 }, ::Glorionoly::{ user=8957029 }, ::Hylotl::{ user=18270260 }, ::PORTTAYER::{ user=8790200 } and ::Rudown::{ user=7850540 }\
+[Various Artists - Jumpstream Complexes Vol. 2A](https://osu.ppy.sh/beatmapsets/1595301#mania) by ::\[Crz\]hinako1804::{ user=13747903 }, ::-Deepdive-::{ user=13338645 }, ::\[Crz\]IsxI::{ user=18042127 }, ::Blue_Potion::{ user=13094831 }, ::EDTA233::{ user=9942869 }, ::FDShijing::{ user=22386239 }, ::Glorionoly::{ user=8957029 }, ::Hylotl::{ user=18270260 }, ::PORTTAYER::{ user=8790200 } and ::Rudown::{ user=7850540 }\
 139 – 260 BPM, 10:43 | 4.52★ – 6.48★\
 The \[DeleteUponDownload\] difficulty is *not* being nominated for Loved.\
 *description written by ::RandomeLoL::{ user=7080063 }*

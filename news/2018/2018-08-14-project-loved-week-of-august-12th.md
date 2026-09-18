@@ -179,7 +179,7 @@ The next map in the list goes by the name of Black Lotus, and it's made by Rain-
 
 [![](/wiki/shared/news/2018-08-12-project-loved-week-of-august-12th/mania/madpakke.jpg)](https://osu.ppy.sh/community/forums/topics/788693)
 
-[CELLON. - Madpakke](https://osu.ppy.sh/beatmapsets/304248) by ::\1 C r a c k \1::{ user=3628274 }, ::richardfeder::{ user=2446000 } and ::Kuo Kyoka::{ user=2596306 }\
+[CELLON. - Madpakke](https://osu.ppy.sh/beatmapsets/304248) by ::[ C r a c k ]::{ user=3628274 }, ::richardfeder::{ user=2446000 } and ::Kuo Kyoka::{ user=2596306 }\
 *written by ::Kamikaze::{ user=2124783 }*
 
 We're finishing the list with a bit of a classic. Madpakke is a mapset that's been going around since forever, a 4&7K mapset with 4K difficulties made by \[ C r a c k \] and 7K difficulties made by richardfeder and Kuo Kyoka. This set is interesting, as it takes the song's very unique and dynamic nature and showcases it through its patterning really well.

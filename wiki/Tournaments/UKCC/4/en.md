@@ -128,7 +128,7 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **One Thrust Men** (::{ flag=GB }:: ::\1Bloo\1::{ user=6778877 }, ::{ flag=GB }:: ::Bubbleman::{ user=5182050 }) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **One Thrust Men** (::{ flag=GB }:: ::[Bloo]::{ user=6778877 }, ::{ flag=GB }:: ::Bubbleman::{ user=5182050 }) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Sorry Bubble** (::{ flag=GB }:: ::SoraRoxas01::{ user=1986262 }, ::{ flag=GB }:: ::OskaRRRitoS::{ user=7051163 }) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Nomod since 2014** (::{ flag=GB }:: ::Jameslike::{ user=2415743 }, ::{ flag=GB }:: ::sullyjhf::{ user=1994780 }) |
 

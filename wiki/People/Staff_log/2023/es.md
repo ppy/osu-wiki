@@ -82,7 +82,7 @@ En este registro se usan abreviaturas para los grupos de usuarios:
 - 16/2/2023: ::DOUG::{ user=13806900 } fue añadido a los **BN**
 - 16/2/2023: ::Enneya::{ user=10959501 } fue añadido a los **BN provisionales**
 - 16/2/2023: ::MochiA::{ user=9312734 } fue añadido a los **BN provisionales**
-- 20/2/2023: ::Stompy\1::{ user=16429579 } fue añadido a los **BN provisionales**
+- 20/2/2023: ::Stompy_::{ user=16429579 } fue añadido a los **BN provisionales**
 - 24/2/2023: ::Protastic101::{ user=6712747 } fue añadido a los **BN provisionales**
 - 24/2/2023: ::Monoseul::{ user=16010604 } fue añadido a los **BN provisionales**
 - 25/2/2023: ::hac::{ user=17853754 } fue añadido a los **BN**
@@ -130,7 +130,7 @@ En este registro se usan abreviaturas para los grupos de usuarios:
 ## Marzo
 
 - 4/3/2023: ::Secre::{ user=2306637 } fue movido del **NAT** a los **osu! Alumni**
-- 12/3/2023: ::\1Zeth\1::{ user=9912966 } fue retirado de los **Beatmap Spotlight Curators**
+- 12/3/2023: ::[Zeth]::{ user=9912966 } fue retirado de los **Beatmap Spotlight Curators**
 - 12/3/2023: ::megumic::{ user=7537133 } fue añadido al **Project Loved Team**
 - 12/3/2023: ::Kingling::{ user=7010761 } fue añadido al **Project Loved Team**
 - 12/3/2023: ::Aistre::{ user=4879380 } fue añadido al **Project Loved Team**
@@ -138,7 +138,7 @@ En este registro se usan abreviaturas para los grupos de usuarios:
 - 18/3/2023: ::Ideal::{ user=3869519 } fue añadido al **NAT**
 - 20/3/2023: ::Irisu::{ user=8595858 } fue retirado del **Project Loved Team**
 - 27/3/2023: ::Roan::{ user=8214639 } fue añadido al **GMT**
-- 27/3/2023: ::Redo\1::{ user=7122165 } fue añadido al **GMT**
+- 27/3/2023: ::Redo_::{ user=7122165 } fue añadido al **GMT**
 - 28/3/2023: ::Boaz::{ user=13302996 } fue añadido a los **Beatmap Spotlight Curators**
 - 28/3/2023: ::piroshki::{ user=7645522 } fue añadido a los **Beatmap Spotlight Curators**
 - 28/3/2023: ::enri::{ user=8640970 } fue añadido a los **Beatmap Spotlight Curators**
@@ -221,7 +221,7 @@ En este registro se usan abreviaturas para los grupos de usuarios:
 - 14/4/2023: ::terho::{ user=6090105 } fue añadido al **GMT**
 - 14/4/2023: ::Corne2Plume3::{ user=15646039 } fue añadido al **GMT**
 - 14/4/2023: ::Pope Gadget::{ user=2288341 } fue movido del **GMT** a los **osu! Alumni**
-- 14/4/2023: ::THAT\1otaku::{ user=11798717 } fue añadido al **GMT**
+- 14/4/2023: ::THAT_otaku::{ user=11798717 } fue añadido al **GMT**
 - 15/4/2023: ::D I O::{ user=3958619 } fue añadido al **GMT**
 - 16/4/2023: ::UberFazz::{ user=8646059 } fue movido del **NAT** a los **osu! Alumni**
 - 17/4/2023: ::POCARI SWEAT::{ user=5082685 } fue retirado del **Project Loved Team**
@@ -255,7 +255,7 @@ En este registro se usan abreviaturas para los grupos de usuarios:
 
 #### Movimientos
 
-- 13/4/2023: ::Stompy\1::{ user=16429579 } fue movido de los **BN provisionales** a los **BN**
+- 13/4/2023: ::Stompy_::{ user=16429579 } fue movido de los **BN provisionales** a los **BN**
 - 14/4/2023: ::Natsuko::{ user=8266817 } fue movido de los **BN provisionales** a los **BN**
 - 14/4/2023: ::fuhie::{ user=7620002 } fue movido de los **BN** a los **BN provisionales**
 - 15/4/2023: ::Hydria::{ user=808176 } fue movido de los **BN provisionales** a los **BN**
@@ -333,7 +333,7 @@ En este registro se usan abreviaturas para los grupos de usuarios:
 - 7/5/2023: ::AHHHHHHHHHHHHHH::{ user=8249608 } fue retirado de los **BN**
 - 8/5/2023: ::Zer0-::{ user=4260033 } fue retirado de los **BN**
 - 12/5/2023: ::Zekk::{ user=9704802 } fue retirado de los **BN**
-- 15/5/2023: ::Kim\1GodSSI::{ user=2218047 } fue retirado de los **BN**
+- 15/5/2023: ::Kim_GodSSI::{ user=2218047 } fue retirado de los **BN**
 - 15/5/2023: ::Mafumafu::{ user=3076909 } fue retirado de los **BN**
 - 21/5/2023: ::Feerum::{ user=4815717 } fue retirado de los **BN**
 - 22/5/2023: ::Kudosu::{ user=11038155 } fue retirado de los **BN**
@@ -349,7 +349,7 @@ En este registro se usan abreviaturas para los grupos de usuarios:
 - 28/6/2023: ::gzdongsheng::{ user=8660315 } fue añadido al **NAT**
 - 28/6/2023: ::Tailsdk::{ user=6751666 } fue añadido al **NAT**
 - 28/6/2023: ::MadBricktree::{ user=4790958 } fue añadido al **NAT**
-- 28/6/2023: ::\1Stan::{ user=1653229 } fue movido del **NAT** a los **osu! Alumni**
+- 28/6/2023: ::_Stan::{ user=1653229 } fue movido del **NAT** a los **osu! Alumni**
 
 ### Beatmap Nominators
 
@@ -359,7 +359,7 @@ En este registro se usan abreviaturas para los grupos de usuarios:
 - 13/6/2023: ::Zekk::{ user=9704802 } fue añadido a los **BN**
 - 15/6/2023: ::davidminh0111::{ user=9623142 } fue añadido a los **BN provisionales**
 - 21/6/2023: ::Antalf::{ user=8793773 } fue añadido a los **BN**
-- 28/6/2023: ::\1Stan::{ user=1653229 } fue añadido a los **BN**
+- 28/6/2023: ::_Stan::{ user=1653229 } fue añadido a los **BN**
 
 #### Movimientos
 

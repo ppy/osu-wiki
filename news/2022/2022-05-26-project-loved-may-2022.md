@@ -144,7 +144,7 @@ So, if you're up for the task, you should really give this a try!
 
 [![](/wiki/shared/news/2022-05-26-project-loved-may-2022/971144.jpg)](https://osu.ppy.sh/community/forums/topics/1582842)
 
-[Nana Mizuki - Nageki no Hana (Slax Remix) (Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/971144#taiko) by ::Salieri::{ user=11233651 }, ::amuzaK::{ user=3784062 } and ::Lix\10101::{ user=11320798 }\
+[Nana Mizuki - Nageki no Hana (Slax Remix) (Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/971144#taiko) by ::Salieri::{ user=11233651 }, ::amuzaK::{ user=3784062 } and ::Lix_0101::{ user=11320798 }\
 270 BPM, 2:32 | 6.53★, 6.69★, 7.00★\
 *description written by ::KuroKuroKuro::{ user=11931563 }*
 
@@ -192,7 +192,7 @@ This map takes any osu!catch player to one hellish ride, with the first two kiai
 
 [![](/wiki/shared/news/2022-05-26-project-loved-may-2022/1107782.jpg)](https://osu.ppy.sh/community/forums/topics/1582836)
 
-[Chihiro Nakamura - Kasaneteku](https://osu.ppy.sh/beatmapsets/1107782#fruits) by ::Unlucky\1w::{ user=4820793 }\
+[Chihiro Nakamura - Kasaneteku](https://osu.ppy.sh/beatmapsets/1107782#fruits) by ::Unlucky_w::{ user=4820793 }\
 147 BPM, 3:43 | 6.71★\
 *description written by ::Tenshichan::{ user=1101600 }*
 
@@ -298,7 +298,7 @@ Look, I know that you can only vote once, but: *One for the blood, two for the l
 
 [![](/wiki/shared/news/2022-05-26-project-loved-may-2022/1555979.jpg)](https://osu.ppy.sh/community/forums/topics/1582826)
 
-[nowisee - Ko Inu](https://osu.ppy.sh/beatmapsets/1555979#mania) by ::ruka::{ user=6117525 }, ::emO\1Oticon::{ user=12064488 }, ::Lung\1P::{ user=8271308 } and ::sankansuki::{ user=2877926 }\
+[nowisee - Ko Inu](https://osu.ppy.sh/beatmapsets/1555979#mania) by ::ruka::{ user=6117525 }, ::emO_Oticon::{ user=12064488 }, ::Lung_P::{ user=8271308 } and ::sankansuki::{ user=2877926 }\
 176 BPM, 4:22 | 6.86★, 7.27★, 9.31★\
 *description written by ::\_underjoy::{ user=2235750 }*
 

@@ -16,7 +16,7 @@ The beatmap charts for the October Spotlights can be found [here](https://osu.pp
 Congratulations to the winners of the September 2017 Spotlights. They will receive one month of supporter status for their efforts!
 
 - **osu!:** ::Toy::{ user=2757689 }
-- **osu!taiko:** ::asuasu\1yura::{ user=2875968 }
+- **osu!taiko:** ::asuasu_yura::{ user=2875968 }
 - **osu!catch:** ::Motion::{ user=3885626 }
 - **osu!mania:** ::Lindyes::{ user=7462804 }
 
@@ -34,7 +34,7 @@ A style reminiscent of the old 2014 days, it still manages to hold up to this da
 
 [![](/wiki/shared/news/2017-11-29-beatmap-spotlights-october-2017/koi-kou-enishi.jpg)](https://osu.ppy.sh/beatmapsets/622780)
 
-::Crystal::{ user=1646397 } brings us yet another top tier mapset this month for KOTOKO's Koi Kou Enishi. A wide selection of Insane and Expert difficulties are available here, but don't let the star ratings confuse you - while the highest difficulty by ::yf\1bmp::{ user=1243669 } may be below five stars, it features quite a few spaced streams and patterns that you wouldn't find on the average map!
+::Crystal::{ user=1646397 } brings us yet another top tier mapset this month for KOTOKO's Koi Kou Enishi. A wide selection of Insane and Expert difficulties are available here, but don't let the star ratings confuse you - while the highest difficulty by ::yf_bmp::{ user=1243669 } may be below five stars, it features quite a few spaced streams and patterns that you wouldn't find on the average map!
 
 [![](/wiki/shared/news/2017-11-29-beatmap-spotlights-october-2017/punk-rock-girl.jpg)](https://osu.ppy.sh/beatmapsets/577394)
 
@@ -104,7 +104,7 @@ This mapset puts a challenge to players who aren't used to long note patterns, a
 
 [![](/wiki/shared/news/2017-11-29-beatmap-spotlights-october-2017/mahou-ga-umareta-hi.jpg)](https://osu.ppy.sh/beatmapsets/579781)
 
-With his first map ranked, ::Kim\1GodSSI::{ user=2218047 } brings us their unique mapping style to the ranked section. Using Long Notes as a base for the patterns, Kim mixes them with normal notes making doubles and triples throughout the map.
+With his first map ranked, ::Kim_GodSSI::{ user=2218047 } brings us their unique mapping style to the ranked section. Using Long Notes as a base for the patterns, Kim mixes them with normal notes making doubles and triples throughout the map.
 
 We can also appreciate some Slider Velocities in every intersection the map has, which are not excessively noticeable, making it a pretty balanced chart. Although it has a really challenging final part caused by an increase in density of both Single and Long Notes, the fact that it is a relatively slow BPM song helps considerably in your reading and finger coordination.
 

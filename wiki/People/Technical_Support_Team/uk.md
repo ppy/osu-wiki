@@ -34,4 +34,4 @@ outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
 | ::{ flag=KR }:: ::Civil oath::{ user=3216107 } | Корейська, японська |
 | ::{ flag=DE }:: ::Lyawi::{ user=5851253 } | Німецька |
 | ::{ flag=PH }:: ::Nathanael::{ user=2295078 } | Філіппінська |
-| ::{ flag=PL }:: ::spaceman\1atlas::{ user=3035836 } | Польська |
+| ::{ flag=PL }:: ::spaceman_atlas::{ user=3035836 } | Польська |

@@ -78,7 +78,7 @@ The osu!taiko World Cup 2018 was run by various community members.
 | ::{ flag=UA }:: | **Ukraine** | **::gavnono::{ user=1625581 }**, ::Don Omar::{ user=689414 }, ::Protoescapist::{ user=7226687 } |
 | ::{ flag=GB }:: | **United Kingdom** | **::goheegy::{ user=8057655 }**, ::abrian::{ user=1159051 }, ::Grimbow::{ user=1387762 }, ::Horiiizon::{ user=8071438 }, ::Mekelemembe::{ user=3289191 } |
 | ::{ flag=US }:: | **United States** | **::n1doking::{ user=5991961 }**, ::Dargin::{ user=7086439 }, ::JDrago14::{ user=7690078 }, ::Loopy542::{ user=5468461 }, ::Tem::{ user=5393042 } |
-| ::{ flag=VE }:: | **Venezuela** | **::\1\_Chichinya\_\1::{ user=2140739 }**, ::\[\_LordEnder\_\]::{ user=4609767 }, ::Colorojo12::{ user=5136821 } |
+| ::{ flag=VE }:: | **Venezuela** | **::[\_Chichinya\_]::{ user=2140739 }**, ::\[\_LordEnder\_\]::{ user=4609767 }, ::Colorojo12::{ user=5136821 } |
 
 ![](img/bracket.png "TWC 2018 bracket")
 

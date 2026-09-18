@@ -22,7 +22,7 @@ Could ::Wilchq::{ user=2021758 } be the next person to HDHR FC [Team Nekokan - C
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/7IG-OxY-2uU" frameborder="0" allowfullscreen></iframe></center>
 
-::Dusk::{ user=533210 } took his time, but he finally sniped ::\1224\1Hyperw7::{ user=4158549 } with an insane 2x miss 99.21% NC play on [wa. vs celas - Vajuranda](https://osu.ppy.sh/beatmaps/942057?m=2) to earn himself 847pp. This is some next level catching of fruits. Circles, I mean.
+::Dusk::{ user=533210 } took his time, but he finally sniped ::[224]Hyperw7::{ user=4158549 } with an insane 2x miss 99.21% NC play on [wa. vs celas - Vajuranda](https://osu.ppy.sh/beatmaps/942057?m=2) to earn himself 847pp. This is some next level catching of fruits. Circles, I mean.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/lcIsfe38y0c" frameborder="0" allowfullscreen></iframe></center>
 

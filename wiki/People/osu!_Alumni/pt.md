@@ -10,7 +10,7 @@ outdated_translation: true
 | :-- | :-- |
 | ::{ flag=IT }:: ::-kevincela-::{ user=266596 } | GMT |
 | ::{ flag=ID }:: ::-SiN-::{ user=10560 } | Chat Moderator |
-| ::{ flag=RU }:: ::\1Shi-Ra\1::{ user=2008489 } | QAT |
+| ::{ flag=RU }:: ::[Shi-Ra]::{ user=2008489 } | QAT |
 | ::{ flag=HU }:: ::\[ Another \]::{ user=3416573 } | GMT |
 | ::{ flag=HK }:: ::aabc271::{ user=155707 } | BAT |
 | ::{ flag=CN }:: ::abalee::{ user=13103 } | BAT |
@@ -24,7 +24,7 @@ outdated_translation: true
 | ::{ flag=FI }:: ::Asphyxia::{ user=1715720 } | QAT |
 | ::{ flag=CN }:: ::Atrue::{ user=1758523 } | GMT |
 | ::{ flag=CA }:: ::awp::{ user=2650 } | GMT |
-| ::{ flag=AU }:: ::Azure\1Kite::{ user=66296 } | MAT |
+| ::{ flag=AU }:: ::Azure_Kite::{ user=66296 } | MAT |
 | ::{ flag=CN }:: ::Ballance::{ user=165946 } | Chat Moderator |
 | ::{ flag=ES }:: ::Beuchi::{ user=67192 } | GMT |
 | ::{ flag=US }:: ::Blazevoir::{ user=120265 } | GMT |
@@ -158,7 +158,7 @@ outdated_translation: true
 | ::{ flag=FI }:: ::Orkel::{ user=39385 } | Chat Moderator |
 | ::{ flag=PH }:: ::Osu Tatakae Ouendan::{ user=594210 } | GMT |
 | ::{ flag=SG }:: ::Pasonia::{ user=43345 } | BAT |
-| ::{ flag=AU }:: ::phill\1old::{ user=53 } | BAT |
+| ::{ flag=AU }:: ::phill_old::{ user=53 } | BAT |
 | ::{ flag=NL }:: ::Pittigbaasje::{ user=2167433 } | GMT |
 | ::{ flag=HK }:: ::Pokie::{ user=207340 } | BAT |
 | ::{ flag=CN }:: ::popner::{ user=759860 } | BAT |

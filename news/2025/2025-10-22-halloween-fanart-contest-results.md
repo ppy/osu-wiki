@@ -61,7 +61,7 @@ We're back to tricks and treats with pippi and Mocha, this time with lots more t
 
 [![](https://assets.ppy.sh/contests/260/banners/Christi_Anna.jpg)](https://assets.ppy.sh/contests/260/winners/Christi_Anna.png)
 
-::**Christi\1Anna**::{ user=11016739 }'s pippi wrote her ticket to the main menu in blood with **649** ~~victims~~ contributors to her success and oh dear why are there skeletons on the floor and oh crap who is that behind her OH NO WHY IS SHE LOOKING AT ME LIKE THAT.
+::**Christi_Anna**::{ user=11016739 }'s pippi wrote her ticket to the main menu in blood with **649** ~~victims~~ contributors to her success and oh dear why are there skeletons on the floor and oh crap who is that behind her OH NO WHY IS SHE LOOKING AT ME LIKE THAT.
 
 [![](https://assets.ppy.sh/contests/260/banners/wiwit.jpg)](https://assets.ppy.sh/contests/260/winners/wiwit.png)
 

@@ -71,7 +71,7 @@ This competition has come to an end and resulted in the following podium:
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=RO }:: ::eternum::{ user=4581069 } |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=RO }:: ::L9 ELOVATOR::{ user=9578404 } |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=RO }:: ::\1AfterWind::{ user=2086138 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=RO }:: ::_AfterWind::{ user=2086138 } |
 
 ![o!RST 2021 podium](img/podium.png)
 

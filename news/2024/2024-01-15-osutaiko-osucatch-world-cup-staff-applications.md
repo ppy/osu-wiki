@@ -23,7 +23,7 @@ The osu!taiko World Cup mappooling team headed by ::Nurend::{ user=9905079 } and
 
 ## osu!catch World Cup 2024
 
-The osu!catch World Cup mappooling team headed by ::wwwww::{ user=8434466 } and ::Yoshi\1green::{ user=1035891 } is looking for **mappers**, **map modders**, and **playtesters**. To sign up, follow [this link](https://forms.gle/p3BVaqXx77S2DoET6). Player registrations for CWC 2024 are slated to open April 18.
+The osu!catch World Cup mappooling team headed by ::wwwww::{ user=8434466 } and ::Yoshi_green::{ user=1035891 } is looking for **mappers**, **map modders**, and **playtesters**. To sign up, follow [this link](https://forms.gle/p3BVaqXx77S2DoET6). Player registrations for CWC 2024 are slated to open April 18.
 
 ---
 

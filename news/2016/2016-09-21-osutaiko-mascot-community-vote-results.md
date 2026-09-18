@@ -30,7 +30,7 @@ Honorable mentions also go out to the second and third place entries as follows:
 
 <img src="https://assets.ppy.sh/contests/2/entries/3.jpg" width="50%" height="50%"/>
 
-**Alisa**, designed by ::\1 Glitch \1::{ user=3781400 }. Sporting **7164** votes, Alisa came closer than anyone else to snatching the spotlight from Aiko with her more mature charms.
+**Alisa**, designed by ::[ Glitch ]::{ user=3781400 }. Sporting **7164** votes, Alisa came closer than anyone else to snatching the spotlight from Aiko with her more mature charms.
 
 A cheerful and social 17 year old girl, Alisa has been playing Taiko ever since her early childhood. Fond of playing songs for others, she is very musically oriented, and when she's not sleeping or eating, she's playing Taiko, or playing retro video games for kicks!
 

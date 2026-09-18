@@ -41,7 +41,7 @@ Is 1-key osu!mania possible? [This map](https://osu.ppy.sh/beatmapsets/2249563) 
 
 ### Trina Lydia - The Blank Canvas
 
-Or flex your 4 favourite fingers on [this osu!mania 4K map](https://osu.ppy.sh/beatmapsets/2243563) hosted by ::Usagi\1::{ user=16046205 }!
+Or flex your 4 favourite fingers on [this osu!mania 4K map](https://osu.ppy.sh/beatmapsets/2243563) hosted by ::Usagi_::{ user=16046205 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/440/The%20Blank%20Canvas/Trina%20Lydia%20-%20The%20Blank%20Canvas.mp3">

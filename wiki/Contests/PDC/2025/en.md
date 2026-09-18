@@ -91,10 +91,10 @@ This year includes a selection of three songs like the previous year, with songs
 | 8 | ::{ flag=MY }:: ::plork::{ user=10994474 } | 5.49 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17226/9138cb00a0bb698cd710179900a9546848831f2cfc59724b84ec9138f35d5adf.osz) |
 | 9 | ::{ flag=CN }:: ::AstralXynsm::{ user=16022233 } | 5.46 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17696/fbd47d510f3ac2d6fc7ccf9fa6ecea19f6f78d971825343ba9323569c27c8aec.osz) |
 | 10 | ::{ flag=KR }:: ::Poruby::{ user=10890088 } | 4.71 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17713/8a520a9b31f10ccb781572384410cf231f1046d35c4ff9f90dd0052cb40720da.osz) |
-| 11 | ::{ flag=CN }:: ::\1W\1hiteRBQ 033::{ user=8678443 } | 3.76 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17707/c3a5a09d5a20315153958882d9bc24300529b739d1c0b3590b4066747c4040f5.osz) |
+| 11 | ::{ flag=CN }:: ::[W]hiteRBQ 033::{ user=8678443 } | 3.76 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17707/c3a5a09d5a20315153958882d9bc24300529b739d1c0b3590b4066747c4040f5.osz) |
 | 12 | ::{ flag=CN }:: ::X Light::{ user=1814662 } | 3.48 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17740/a1cff3edf89f386938c77dfd31b291ffe6b773e3ed48c2a6c4524e3a73abe922.osz) |
 | 13 | ::{ flag=CN }:: ::Momoyaya::{ user=13859320 } | 3.22 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17122/321501e05f483312bc35388c1d75060fc30f199ebfed8a22a5c9313001d53e7b.osz) |
-| 14 | ::{ flag=CH }:: ::Evangelion\1guy::{ user=16818096 } | 1.47 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17695/4692cdfd19e76d0cbc9c87335c103df1f71539d83352185759e6b4bab55d4fbd.osz) |
+| 14 | ::{ flag=CH }:: ::Evangelion_guy::{ user=16818096 } | 1.47 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17695/4692cdfd19e76d0cbc9c87335c103df1f71539d83352185759e6b4bab55d4fbd.osz) |
 | 15 | ::{ flag=AU }:: ::Levesile::{ user=12054043 } | 1.07 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17303/50d7d86f2be36c371a0eda9bcdc804d13f33e57a727dfc549ca34c237b419f06.osz) |
 | 16 | ::{ flag=PH }:: ::Buster::{ user=8208277 } | -2.26 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17617/63afc8c60f1ea8731755f0bc44e43b0ab8c4c20e13fff7940590468f522bc45d.osz) |
 | 17 | ::{ flag=US }:: ::AdrianLazer::{ user=10292643 } | -2.46 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17382/3023f0ae8bd61c497b770d1fe7acc7c68ec0755e7abb7ef629beb53051b3237f.osz) |
@@ -102,7 +102,7 @@ This year includes a selection of three songs like the previous year, with songs
 | 19 | ::{ flag=CN }:: ::Another Flower::{ user=6854920 } | -2.8 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17734/b9b982a4bdb6cc1c357a582aa59073552316084f406b7485d9393ef396c522d6.osz) |
 | 20 | ::{ flag=CN }:: ::Lastent::{ user=13353410 } | -4.07 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17428/3b6edc89f8c8ebd7edc9001f54a53a096b3b63c0c0b863da28944a419020f2a7.osz) |
 | 21 | ::{ flag=CN }:: ::FreeTax::{ user=37408137 } | -7.79 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17703/b9bbea8d730f177bffe5f3512ba03c1e7c35bc4c7506d83fff2557bbde93de94.osz) |
-| 22 | ::{ flag=TW }:: ::\1Paw\1OchiKouri::{ user=8693179 } | -11.37 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17711/d964c14296f6a0e970ea7435a01bfae09b7568a71485d1dcfd815b5296c714b2.osz) |
+| 22 | ::{ flag=TW }:: ::[Paw]OchiKouri::{ user=8693179 } | -11.37 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17711/d964c14296f6a0e970ea7435a01bfae09b7568a71485d1dcfd815b5296c714b2.osz) |
 
 ### Colorful Sounds Port feat. Sennzai - Jewelry Beans
 
@@ -121,10 +121,10 @@ This year includes a selection of three songs like the previous year, with songs
 | 11 | ::{ flag=MY }:: ::chiterihead::{ user=37910724 } | -1.7 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17262/7bcd5eab1f0c8007fbacc68f9748940748c2ab04be5c0cc8e611aeba6e668a03.osz) |
 | 12 | ::{ flag=CN }:: ::Edmound::{ user=10932297 } | -2.3 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17414/e290414447628dbb8d98ab6df9291708442f0b0930ba0e62127f00a7ea5410f8.osz) |
 | 13 | ::{ flag=CN }:: ::BrokenShine::{ user=10235769 } | -2.32 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17407/fc01afc570c7a33c0de92c75e842ddd94079a206f7192f81c3c30f6433998b9c.osz) |
-| 14 | ::{ flag=CN }:: ::\1 L I M \1::{ user=10229523 } | -2.9 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17690/c1e7e6fea700e23bd777c983c3df4e8d6edf6a266b6f38880d1ed6d63ed55c4e.osz) |
-| 15 | ::{ flag=CN }:: ::Doubi\1wert::{ user=30512018 } | -4.38 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17670/df8eeae99ee008eccb6abd0a284c5884facd0291151f695e012cb09a265f80bc.osz) |
+| 14 | ::{ flag=CN }:: ::[ L I M ]::{ user=10229523 } | -2.9 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17690/c1e7e6fea700e23bd777c983c3df4e8d6edf6a266b6f38880d1ed6d63ed55c4e.osz) |
+| 15 | ::{ flag=CN }:: ::Doubi_wert::{ user=30512018 } | -4.38 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17670/df8eeae99ee008eccb6abd0a284c5884facd0291151f695e012cb09a265f80bc.osz) |
 | 16 | ::{ flag=GB }:: ::Pastel Kitten::{ user=37602544 } | -10.27 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17376/4f53cc86c0349c59a979286e1f73856bc27d0eeec57108133f13382cbd4a0b8d.osz) |
-| 17 | ::{ flag=JP }:: ::sea\1sawagase::{ user=32001486 } | -10.64 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17057/04fe88cadc9fb9f7d55617ab2d3c2ab7766aa9f2975b6fbaa75f2f6c0cd42a77.osu) |
+| 17 | ::{ flag=JP }:: ::sea_sawagase::{ user=32001486 } | -10.64 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17057/04fe88cadc9fb9f7d55617ab2d3c2ab7766aa9f2975b6fbaa75f2f6c0cd42a77.osu) |
 
 ### Trina Lydia - TETRATONE ALTiSSiMO
 
@@ -138,20 +138,20 @@ This year includes a selection of three songs like the previous year, with songs
 | 6 | ::{ flag=CN }:: ::Uruha Migaki::{ user=21573458 } | 5.85 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17610/210e270ce49c249f538185341aaddc57bf4944208bb69206a854cb2498ef40e7.osz) |
 | 7 | ::{ flag=JP }:: ::Phten02::{ user=16678364 } | 4.6 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17718/0a042aad7f169e927c8292e39f52202b979c937cdfdb87b2ecb399172e0f98f1.osz) |
 | 8 | ::{ flag=RU }:: ::zadknus::{ user=12101917 } | 3.96 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17735/8dd6b263dc3bd6cc91f469a26143694264a192654ab70b967c59d11b4f083087.osz) |
-| 9 | ::{ flag=CN }:: ::Komeiji\1Satori\1::{ user=15114200 } | 3.54 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17320/029df4a041f556e7fec7b02875d9d18d8017641356fc3a2734bfeb9dcc6d650e.osz) |
+| 9 | ::{ flag=CN }:: ::Komeiji_Satori_::{ user=15114200 } | 3.54 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17320/029df4a041f556e7fec7b02875d9d18d8017641356fc3a2734bfeb9dcc6d650e.osz) |
 | 10 | ::{ flag=CN }:: ::Lobelia::{ user=4030114 } | 3.51 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17244/526ee0ef062900709f93f31e2d7263a18f3cd03eaa1ef3af6b1913c6d4f7e604.osz) |
 | 11 | ::{ flag=ES }:: ::bucky::{ user=6750761 } | 3.43 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17605/b32dc8142ceee5e86f5ec50366dcbbcca53989d59939ff2582168aebfd3edcd4.osz) |
 | 12 | ::{ flag=AU }:: ::Eazy::{ user=31536964 } | 2.57 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17668/f837c9dad9d148bcf621e7044cd3bf9b64569fa7e34c57d744e4e374a2845f46.osz) |
 | 13 | ::{ flag=RU }:: ::columbina137::{ user=31970865 } | 1.6 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17738/9c1275415c71ec49565fd6378c1cf565ca4bfb01366d9006b31a5e1393789aa1.osz) |
-| 14 | ::{ flag=NZ }:: ::Pass\1ing::{ user=11798717 } | 1.33 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17704/e4f8d9c62b58d478230cb451d26db955350ca9f7dc9b737f814f848c891f1958.osz) |
+| 14 | ::{ flag=NZ }:: ::Pass_ing::{ user=11798717 } | 1.33 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17704/e4f8d9c62b58d478230cb451d26db955350ca9f7dc9b737f814f848c891f1958.osz) |
 | 15 | ::{ flag=TW }:: ::A04::{ user=15409186 } | 0.52 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17667/d3d954fe532428e9ce802607c3b43bef4d9cd74b3e9ab893c644096cf8bfc742.osz) |
 | 16 | ::{ flag=SE }:: ::TypoFanGirl::{ user=9489702 } | 0.31 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17604/bc205fc7dac9567e7e2a491561e274d420adc4e221e27073f43bc7d952932d86.osz) |
 | 17 | ::{ flag=CN }:: ::Graphical::{ user=21397778 } | -0.12 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17728/6b1b2fc38293e0220dea379025462449edfcdf081fce6696643611c887794e0e.osz) |
 | 18 | ::{ flag=RU }:: ::Ziny::{ user=20098206 } | -0.18 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17706/06c41a0c5642a9b2dc5cf0c638ed7ff4860e5abb04ad883d334143901d42d2c3.osz) |
-| 19 | ::{ flag=CN }:: ::\1Lily\1White\1::{ user=12749779 } | -0.76 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17681/1413e66f04042a83ac81a1108bff7e6d7b90ebb7f1fc3268adc87d8b14bd2a81.osz) |
+| 19 | ::{ flag=CN }:: ::[Lily_White]::{ user=12749779 } | -0.76 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17681/1413e66f04042a83ac81a1108bff7e6d7b90ebb7f1fc3268adc87d8b14bd2a81.osz) |
 | 20 | ::{ flag=CN }:: ::Baymax 3Ha::{ user=12965455 } | -1.64 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17709/34703c7da254eb777a60447987765261fd8501e8c59eb22f846070246f167397.osz) |
 | 21 | ::{ flag=MO }:: ::-PSC-::{ user=24350045 } | -1.74 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17717/a29ffddaede0b59dda1a3cabf1ca1bffe67699af2e30eeda58c282a8f9b8e5d7.osz) |
-| 22 | ::{ flag=CN }:: ::Noob\1Oni::{ user=33455007 } | -4.17 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17110/078b5a3698853557c95e077e020a6ca3066fd5fb3cf5a44a016e5c7b6c82c1ee.osz) |
+| 22 | ::{ flag=CN }:: ::Noob_Oni::{ user=33455007 } | -4.17 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17110/078b5a3698853557c95e077e020a6ca3066fd5fb3cf5a44a016e5c7b6c82c1ee.osz) |
 | 23 | ::{ flag=CN }:: ::Ripforever::{ user=38293038 } | -4.56 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17669/63d910f3cb901f9402e60c1dc7bbef278adab88359240697be328bb415eece9b.osz) |
 | 24 | ::{ flag=TW }:: ::xiaohuankun::{ user=26009434 } | -4.66 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17608/2b0f51b3c5c9135dcb9cc8334b12d17b92f8aca6fe07f605358d479e6355b2a9.osz) |
 | 25 | ::{ flag=US }:: ::sh4rkerin0::{ user=30837699 } | -6.4 | [![Download](/wiki/shared/link/Asset.png)](https://assets.ppy.sh/user-contest-entries/17209/0a4023b72dbea325f66ccc577a53b6113dc4cc1fe1487d6922e74870a69e37f9.osz) |

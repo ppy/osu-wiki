@@ -124,7 +124,7 @@ Berikut merupakan berbagai turnamen/kompetisi tidak resmi yang diselenggarakan o
 | Nama | Mulai | Selesai | ![Mahkota Emas][GCrown] | ![Mahkota Perak][SCrown] | ![Mahkota Perunggu][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Aetherian's Summer Singles 1](AESS/1) | 2021-04-30 | 2021-7-13 | ::{ flag=CA }:: ::Flatpaper::{ user=11255340 } | ::{ flag=CA }:: ::FaintGun::{ user=10500541 } | ::{ flag=PH }:: ::NathanSS::{ user=8500628 } |
-| [Aetherian's Summer Singles 2](AESS/2) | 2022-05-06 | 2022-07-23 | ::{ flag=PL }:: ::maliszewski::{ user=12408961 } | ::{ flag=KR }:: ::\1Karcher\1::{ user=11443437 } | ::{ flag=HK }:: ::mcy4::{ user=2165650 } |
+| [Aetherian's Summer Singles 2](AESS/2) | 2022-05-06 | 2022-07-23 | ::{ flag=PL }:: ::maliszewski::{ user=12408961 } | ::{ flag=KR }:: ::[Karcher]::{ user=11443437 } | ::{ flag=HK }:: ::mcy4::{ user=2165650 } |
 | [Aetherian's Summer Singles 3](AESS/3) | 2023-05-01 | 2023-07-09 | ::{ flag=PL }:: ::maliszewski::{ user=12408961 } | ::{ flag=PH }:: ::enri::{ user=8640970 } | ::{ flag=KR }:: ::mx10001::{ user=11443437 } |
 
 #### Ascaveth Invitational Tournament
@@ -431,9 +431,9 @@ Berikut merupakan berbagai turnamen/kompetisi tidak resmi yang diselenggarakan o
 
 | Nama | Mulai | Selesai | ![Mahkota Emas][GCrown] | ![Mahkota Perak][SCrown] | ![Mahkota Perunggu][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [16 player battle royale](The_Roundtable/16_player_battle_royale) | 2022-07-08 | 2022-07-08 | ::mrekk::{ user=7562902 } | ::im\1a\1fancy\1lad::{ user=4908650 } | ::Utami::{ user=7512553 } & ::RyuK::{ user=6304246 } |
+| [16 player battle royale](The_Roundtable/16_player_battle_royale) | 2022-07-08 | 2022-07-08 | ::mrekk::{ user=7562902 } | ::im_a_fancy_lad::{ user=4908650 } | ::Utami::{ user=7512553 } & ::RyuK::{ user=6304246 } |
 | [2v2 team tandem tournament](The_Roundtable/2v2_team_tandem_tournament) | 2022-07-09 | 2022-07-09 | No Stamina | Plasma Gunners | Eggward |
-| [1v1 double elimination](The_Roundtable/1v1_double_elimination) | 2022-07-09 | 2022-07-10 | ::Utami::{ user=7512553 } | ::mrekk::{ user=7562902 } | ::im\1a\1fancy\1lad::{ user=4908650 } |
+| [1v1 double elimination](The_Roundtable/1v1_double_elimination) | 2022-07-09 | 2022-07-10 | ::Utami::{ user=7512553 } | ::mrekk::{ user=7562902 } | ::im_a_fancy_lad::{ user=4908650 } |
 
 #### UK Community Cup
 
@@ -583,7 +583,7 @@ Berikut merupakan berbagai turnamen/kompetisi tidak resmi yang diselenggarakan o
 | Taiko World Cup: Last Man Standing 2 | 2015-05-09 | 2015-06-16 | ::{ flag=TW }:: Taiwan A | ::{ flag=FR }:: Prancis | ::{ flag=JP }:: Jepang A |
 | Taiko World Cup: Last Man Standing - Single Player Edition | 2016-10-10 | 2016-01-11 | ::{ flag=JP }:: ::abeno::{ user=6565148 } | ::{ flag=TW }:: ::S a n d::{ user=676578 } | ::{ flag=CA }:: ::Fudgyking::{ user=3802922 } |
 | Taiko World Cup: Last Man Standing 3 | 2016-06-11 | 2016-07-24 | ::{ flag=JP }:: Jepang A | ::{ flag=TW }:: Taiwan A | ::{ flag=JP }:: Jepang D |
-| Taiko: Last Man Standing - Single Player Edition 2 | 2017-01-07 | 2017-02-12 | ::{ flag=JP }:: ::\1yu68::{ user=6170507 } | ::{ flag=KR }:: ::applerss::{ user=983349 } | ::{ flag=CA }:: ::janitoreihil::{ user=3307897 } |
+| Taiko: Last Man Standing - Single Player Edition 2 | 2017-01-07 | 2017-02-12 | ::{ flag=JP }:: ::_yu68::{ user=6170507 } | ::{ flag=KR }:: ::applerss::{ user=983349 } | ::{ flag=CA }:: ::janitoreihil::{ user=3307897 } |
 | Taiko: Last Man Standing 4 | 2017-09-23 | 2017-10-28 | Tarako Spa | Can We Go Back | easy to giveup |
 | [Taiko LMS: Shift Cup](T_LMS/Shift_1) | 2018-06-09 | 2018-07-15 | V E R Y S T R O N G T E A M | あ | Ｆａｓｔ ＆ Ｃｈｉｌｌ 早く |
 | [Taiko LMS: Shift Cup 2](T_LMS/Shift_2) | 2020-04-25 | 2020-05-31 | Where is JDrago1-13? | abibibubibui | EuroGamers -Jaye |
@@ -763,9 +763,9 @@ Berikut merupakan berbagai turnamen/kompetisi tidak resmi yang diselenggarakan o
 
 | Nama | Mulai | Selesai | ![Mahkota Emas][GCrown] | ![Mahkota Perak][SCrown] | ![Mahkota Perunggu][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Mistrzostwa Polski w 4K 2019](MP/2019_4K) | 2019-05-13 | 2019-08-04 | ::{ flag=PL }:: ::Tidek::{ user=743282 } | ::{ flag=PL }:: ::SitekX::{ user=3840946 } | ::{ flag=PL }:: ::\1underjoy::{ user=2235750 } |
+| [Mistrzostwa Polski w 4K 2019](MP/2019_4K) | 2019-05-13 | 2019-08-04 | ::{ flag=PL }:: ::Tidek::{ user=743282 } | ::{ flag=PL }:: ::SitekX::{ user=3840946 } | ::{ flag=PL }:: ::_underjoy::{ user=2235750 } |
 | [Mistrzostwa Polski w 7K 2019](MP/2019_7K) | 2019-10-09 | 2019-12-22 | ::{ flag=PL }:: ::- gero -::{ user=5068537 } | ::{ flag=PL }:: ::Kamikaze::{ user=2124783 } | ::{ flag=PL }:: ::-Karen-chan-::{ user=1333495 } |
-| [Mistrzostwa Polski w 7K 2020](MP/2020_7K) | 2020-10-12 | 2020-12-20 | ::{ flag=PL }:: ::paprotkaaaaa::{ user=6034749 } | ::{ flag=PL }:: ::- gero -::{ user=5068537 } | ::{ flag=PL }:: ::\1underjoy::{ user=2235750 } |
+| [Mistrzostwa Polski w 7K 2020](MP/2020_7K) | 2020-10-12 | 2020-12-20 | ::{ flag=PL }:: ::paprotkaaaaa::{ user=6034749 } | ::{ flag=PL }:: ::- gero -::{ user=5068537 } | ::{ flag=PL }:: ::_underjoy::{ user=2235750 } |
 
 #### osu!mania Chinese National Cup
 

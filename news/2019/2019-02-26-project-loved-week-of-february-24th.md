@@ -100,13 +100,13 @@ Dance your cursor around the screen on Necroluttah's take on #Fairy\_dancing\_in
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-\1 ix Ishida xi \1-::{ user=242910 }, ::-Kazu-::{ user=920861 }, ::iceOC::{ user=5482401 }, ::jyake::{ user=9099822 } and ::nyanmi-1828::{ user=6866480 }!
+osu!taiko Loved candidates were chosen by ::-[ ix Ishida xi ]-::{ user=242910 }, ::-Kazu-::{ user=920861 }, ::iceOC::{ user=5482401 }, ::jyake::{ user=9099822 } and ::nyanmi-1828::{ user=6866480 }!
 
 ---
 
 [![](/wiki/shared/news/2019-02-26-project-loved-week-of-february-24th/taiko/endymion.jpg)](https://osu.ppy.sh/community/forums/topics/873726)
 
-[fallen Shepherd ft. RabbiTon Strings - ENDYMION](https://osu.ppy.sh/beatmapsets/714729#taiko) by ::\1\_Chichinya\_\1::{ user=2140739 } et al.\
+[fallen Shepherd ft. RabbiTon Strings - ENDYMION](https://osu.ppy.sh/beatmapsets/714729#taiko) by ::[\_Chichinya\_]::{ user=2140739 } et al.\
 *written by ::-Kazu-::{ user=920861 }*
 
 Chichinya comes back again with another mapset featuring multiple difficulties across various game modes, this time for ENDYMION, one of the most signature DDR songs lately. With a classical feeling to it, constantly changing rhythms and holding high intensity sections, this has been one of the most gimmick-heavy sets out there, even despite not being really all about extreme SV usage or snap-tech, so if you're one of those Inner Oni-level players that are looking for new shinies into your collection, make sure to give this a try!

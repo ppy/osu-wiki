@@ -33,7 +33,7 @@ Below you'll find a list of mentors for the available game modes, alongside thei
 | Mentor | Timezone |
 | :-- | :-- |
 | ::{ flag=AT }:: ::Yasuho::{ user=8458835 } / ::{ flag=US }:: ::Nostril::{ user=11479122 } | UTC+2 / UTC-7 |
-| ::{ flag=RU }:: ::Ryxliee::{ user=15823344 } / ::{ flag=ID }:: ::\1-E S I A-\1::{ user=5159715 } | UTC+2 / UTC+7 |
+| ::{ flag=RU }:: ::Ryxliee::{ user=15823344 } / ::{ flag=ID }:: ::[-E S I A-]::{ user=5159715 } | UTC+2 / UTC+7 |
 
 ### ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") osu!catch mentors
 
@@ -46,7 +46,7 @@ Below you'll find a list of mentors for the available game modes, alongside thei
 | Mentor | Timezone |
 | :-- | :-- |
 | ::{ flag=VN }:: ::Akasha-::{ user=2596306 } / ::{ flag=RU }:: ::Kurisu Makise::{ user=2790640 } | UTC+7 / UTC+3 |
-| ::{ flag=VN }:: ::\1TCD\1 Dzar03::{ user=16712231 } / ::{ flag=VN }:: ::\1TCD\1 Ena-suki::{ user=29645291 } | UTC+7 |
+| ::{ flag=VN }:: ::[TCD] Dzar03::{ user=16712231 } / ::{ flag=VN }:: ::[TCD] Ena-suki::{ user=29645291 } | UTC+7 |
 | ::{ flag=DO }:: ::Antalf::{ user=8793773 } | UTC-4 |
 | ::{ flag=AU }:: ::fvrex::{ user=11863699 } | UTC+10 |
 | ::{ flag=CN }:: ::Seiran-::{ user=14351534 } | UTC+8 |

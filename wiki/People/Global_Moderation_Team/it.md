@@ -133,7 +133,7 @@ La [pagina del gruppo del Team di Moderazione Globale](https://osu.ppy.sh/groups
 | ::{ flag=HK }:: ::Petal::{ user=7354729 } | Cantonese, cinese | Moderazione generale |
 | ::{ flag=KR }:: ::Petit::{ user=4637369 } | Coreano, giapponese | Moderazione della chat |
 | ::{ flag=MY }:: ::QHideaki13::{ user=733998 } | Malese | Moderazione della chat |
-| ::{ flag=PL }:: ::Redo\1::{ user=7122165 } | Polacco | Moderazione della community delle skin |
+| ::{ flag=PL }:: ::Redo_::{ user=7122165 } | Polacco | Moderazione della community delle skin |
 | ::{ flag=MX }:: ::Repflez::{ user=201392 } | Spagnolo | Moderazione della chat |
 | ::{ flag=FI }:: ::Riverism::{ user=4980738 } | Finlandese, un po' di svedese, un po' di giapponese | Moderazione della community del mapping/modding, moderazione del forum |
 | ::{ flag=NL }:: ::Roan::{ user=8214639 } | Olandese, giapponese | Moderazione della community delle skin |
@@ -147,7 +147,7 @@ La [pagina del gruppo del Team di Moderazione Globale](https://osu.ppy.sh/groups
 | ::{ flag=KR }:: ::Spectator::{ user=702598 } | Coreano | Moderazione della community del mapping/modding |
 | ::{ flag=AT }:: ::Stefan::{ user=626907 } | Tedesco, serbo | Moderazione del forum |
 | ::{ flag=FI }:: ::terho::{ user=6090105 } | Finlandese | Moderazione della chat |
-| ::{ flag=NZ }:: ::THAT\1otaku::{ user=11798717 } |  | Moderazione del forum, moderazione della chat |
+| ::{ flag=NZ }:: ::THAT_otaku::{ user=11798717 } |  | Moderazione del forum, moderazione della chat |
 | ::{ flag=PE }:: ::Tiburon::{ user=18115022 } | Spagnolo | Moderazione della chat |
 | ::{ flag=CH }:: ::TicClick::{ user=672931 } | Russo | Moderazione della chat, amministrazione della wiki |
 | ::{ flag=PH }:: ::topecnz::{ user=2103927 } | Filippino | Moderazione della chat |

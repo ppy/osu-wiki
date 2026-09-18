@@ -109,7 +109,7 @@ L'histoire de quelques utilisateurs peut être incomplète pendant cette année.
 - Transfert de ::Sync::{ user=806921 } : Beatmap Appreciation Team > osu! Alumni (09/06/2013)
 - Transfert de ::Pokie::{ user=207340 } : Beatmap Appreciation Team > osu! Alumni (20/06/2013)
 - Ajout de ::dkun::{ user=154400 } : Beatmap Appreciation Team (29/06/2013)
-- Ajout de ::Azure\1Kyte::{ user=66296 } : Beatmap Appreciation Team (29/06/2013)
+- Ajout de ::Azure_Kyte::{ user=66296 } : Beatmap Appreciation Team (29/06/2013)
 - Transfert de ::Breeze::{ user=77537 } : osu! Alumni > Global Moderation Team (29/06/2013)
 - Ajout de ::Elly-chan::{ user=660622 } : Global Moderation Team (29/06/2013)
 
@@ -222,7 +222,7 @@ L'histoire de quelques utilisateurs peut être incomplète pendant cette année.
 - Retrait de ::Kokatsu::{ user=1019859 } : Beatmap Appreciation Team (10/11/2013)
 - Ajout de ::Winshley::{ user=864895 } : Chat Moderators (16/11/2013)
 - Ajout de ::UnderminE::{ user=444223 } : Chat Moderators (16/11/2013)
-- Ajout de ::Evil\1Twilight::{ user=409347 } : Chat Moderators (16/11/2013)
+- Ajout de ::Evil_Twilight::{ user=409347 } : Chat Moderators (16/11/2013)
 - Transfert de ::Leader::{ user=631530 } : Chat Moderators > Global Moderation Team (16/11/2013)
 - Transfert de ::Osu Tatakae Ouendan::{ user=594210 } : Chat Moderators > Global Moderation Team (16/11/2013)
 - Transfert de ::Mr Color::{ user=116078 } : Chat Moderators > Global Moderation Team (16/11/2013)

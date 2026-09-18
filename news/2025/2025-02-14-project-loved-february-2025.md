@@ -210,13 +210,13 @@ The osu!taiko Loved candidates were chosen by ::\_gt::{ user=8301957 }, ::Boaz::
 
 [![](/wiki/shared/news/2025-02-14-project-loved-february-2025/1321343.jpg)](https://osu.ppy.sh/community/forums/topics/2041000)
 
-[Nanamai - TADAIMAA!!!!](https://osu.ppy.sh/beatmapsets/1321343#taiko) by ::Waribashi::{ user=2250574 } and ::Shamirin\1mzk::{ user=11325757 }\
+[Nanamai - TADAIMAA!!!!](https://osu.ppy.sh/beatmapsets/1321343#taiko) by ::Waribashi::{ user=2250574 } and ::Shamirin_mzk::{ user=11325757 }\
 260 BPM, 2:33 | 6.30★, 6.31★\
 *description written by ::K a y o k o::{ user=17664300 }*
 
 ::Waribashi::{ user=2250574 } (a.k.a. KTYN) is back at it again in Loved voting. However, the map we have for this month is slightly different from what you typically see from their other Loved maps. This time we're bringing you a meme monstrosity by the name of [TADAIMAA!!!!](https://osu.ppy.sh/beatmapsets/1321343#taiko/2737122). This is an otomad mix of the song "Baqeela" by owl\*tree along with the sounds of gacha series diva Karyl from *Princess Connect! Re:Dive*, stressing her happiness of returning home.
 
-This incredibly fun map is not your typical double-BPM speed map, it's a map with tons of distinct personalities meshed into one map. With Waribashi's comfy 1/3 + 1/4 patterning and smart usages of repeating patterns, along with ::Shamirin\1mzk::{ user=11325757 }'s SVs, the ninja finishers, barcode gimmicks, and kiai flashes bring tons of twists to compliment the different sound layers of the remix.
+This incredibly fun map is not your typical double-BPM speed map, it's a map with tons of distinct personalities meshed into one map. With Waribashi's comfy 1/3 + 1/4 patterning and smart usages of repeating patterns, along with ::Shamirin_mzk::{ user=11325757 }'s SVs, the ninja finishers, barcode gimmicks, and kiai flashes bring tons of twists to compliment the different sound layers of the remix.
 
 If the SVs are overwhelming you, feel free to check out the "No SV" difficulty to get familiar with the patterns before coming back to challenge the "Welcome back" difficulty, I'm sure Karyl will always be here to greet you.
 
@@ -374,7 +374,7 @@ It's never too late to start getting your hands into the SV skillset. Go ahead, 
 145 – 217.5 BPM, 3:26 | 3.79★ – 5.39★\
 *description written by ::elexire::{ user=9206093 }*
 
-It's no doubt that \::\1GS\]hina::{ user=20040607 } has had a long overdue Loved nomination, but that finally changes with their chart of [Nee Nee Nee](https://osu.ppy.sh/beatmapsets/1543302#mania/3154612)!
+It's no doubt that \::[GS\]hina::{ user=20040607 } has had a long overdue Loved nomination, but that finally changes with their chart of [Nee Nee Nee](https://osu.ppy.sh/beatmapsets/1543302#mania/3154612)!
 
 If you recognize their name, it's very likely you're familiar with their wide variety of charts, more specifically jumpstream, with one of their most notable charts being [#WE_STILL_LOVE_PERFUME](https://osu.ppy.sh/beatmapsets/2192542#mania/4638068). *Nee Nee Nee* is in the same boat when it comes to jumpstream, however, this one is noticeably much easier, possibly being one of the leading reasons why it's their most popular unranked chart. With the BPM only being 145, it can end up being a really fun chart for the many players who are looking to improve on their consistency, or improve in general! Of course, there are uprates for those seeking a greater challenge. Beware, however, as the note density itself is rather large, so this scales in difficulty quickly!
 
@@ -448,7 +448,7 @@ A picture is worth a thousand words. Vote for Evening now and show your support!
 
 [![](/wiki/shared/news/2025-02-14-project-loved-february-2025/1187083.jpg)](https://osu.ppy.sh/community/forums/topics/2040984)
 
-[Jay Chou - Nocturne](https://osu.ppy.sh/beatmapsets/1187083#mania) by ::Wilben\1Chan::{ user=6659363 } and ::Hylotl::{ user=18270260 }\
+[Jay Chou - Nocturne](https://osu.ppy.sh/beatmapsets/1187083#mania) by ::Wilben_Chan::{ user=6659363 } and ::Hylotl::{ user=18270260 }\
 174 BPM, 2:13 | 3.29★, 4.23★\
 *description written by ::Carpihat::{ user=10085090 }*
 

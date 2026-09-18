@@ -200,7 +200,7 @@ osu! menganugerahkan gelar **Elite Mapper: Aspirant** kepada para pemenang konte
 - ::{ flag=CA }:: ::Monstrata::{ user=2706438 }
 - ::{ flag=NL }:: ::Mr HeliX::{ user=2330619 }
 - ::{ flag=FI }:: ::ProfessionalBox::{ user=3250792 }
-- ::{ flag=TW }:: ::SnowNiNo\1::{ user=2506267 }
+- ::{ flag=TW }:: ::SnowNiNo_::{ user=2506267 }
 - ::{ flag=KR }:: ::Spectator::{ user=702598 }
 - ::{ flag=FR }:: ::Supairo::{ user=2837231 }
 
@@ -242,7 +242,7 @@ osu! menganugerahkan gelar **Featured Artist** kepada para [Featured Artist](/wi
 | ::{ flag=SE }:: ::Helblinde::{ user=48053 } | [Helblinde](https://osu.ppy.sh/beatmaps/artists/5), [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15) (anggota dari) |
 | ::{ flag=JP }:: ::II-L::{ user=15223576 } | [II-L](https://osu.ppy.sh/beatmaps/artists/172) |
 | ::{ flag=JP }:: ::kanki2::{ user=9595391 } | [Lime / Kankitsu](https://osu.ppy.sh/beatmaps/artists/116) |
-| ::{ flag=DE }:: ::KIRA\1old\11::{ user=2138310 } | [KIRA](https://osu.ppy.sh/beatmaps/artists/27) |
+| ::{ flag=DE }:: ::KIRA_old_1::{ user=2138310 } | [KIRA](https://osu.ppy.sh/beatmaps/artists/27) |
 | ::{ flag=RO }:: ::kitazawakyouhei::{ user=15440027 } | [Kitazawa Kyouhei](https://osu.ppy.sh/beatmaps/artists/165) |
 | ::{ flag=FR }:: ::Kurokotei::{ user=398275 } | [Kurokotei](https://osu.ppy.sh/beatmaps/artists/58) |
 | ::{ flag=KR }:: ::LandRoot::{ user=12715622 } | [LandRoot](https://osu.ppy.sh/beatmaps/artists/327) |
@@ -295,7 +295,7 @@ osu! menganugerahkan gelar **Elite Storyboarder** kepada para pembuat storyboard
 - ::{ flag=RU }:: ::Shmiklak::{ user=5504231 }
 - ::{ flag=RU }:: ::Tommy Phelps::{ user=10974581 }
 - ::{ flag=DZ }:: ::VenerableNyanta::{ user=12243368 }
-- ::{ flag=CN }:: ::yf\1bmp::{ user=1243669 }[^yf-note]
+- ::{ flag=CN }:: ::yf_bmp::{ user=1243669 }[^yf-note]
 - ::{ flag=CN }:: ::Yumeno Himiko::{ user=1806962 }
 
 ## Terkait dengan permainan
@@ -308,7 +308,7 @@ Para pengguna berikut memperoleh gelarnya masing-masing atas keberhasilan mereka
 | ::{ flag=US }:: ::EEEEEEEEEEEEEEE::{ user=2927048 } | osu!completionist | Memainkan semua beatmap osu! yang berstatus Ranked hingga tanggal 15 Maret 2023 |
 | ::{ flag=AU }:: ::Jaye::{ user=4841352 } | Drum Decimator | Menorehkan FC pada semua beatmap osu!taiko yang berstatus Ranked hingga tanggal 3 November 2019 |
 | ::{ flag=PL }:: ::Przegrany::{ user=7635621 } | osu!completionist | Memainkan semua beatmap osu! yang berstatus Ranked hingga tanggal 11 Agustus 2021 |
-| ::{ flag=NL }:: ::Shirotora\1old::{ user=11820 } | Bested the Reaper's Game | Gelar ini diberikan oleh ::{ flag=CA }:: ::awp::{ user=2650 } sebagai tanda pencapaian peringkat #104 dalam kurun waktu sepekan, yang merupakan referensi dari [*The World Ends with You*](https://id.wikipedia.org/wiki/The_World_Ends_with_You) |
+| ::{ flag=NL }:: ::Shirotora_old::{ user=11820 } | Bested the Reaper's Game | Gelar ini diberikan oleh ::{ flag=CA }:: ::awp::{ user=2650 } sebagai tanda pencapaian peringkat #104 dalam kurun waktu sepekan, yang merupakan referensi dari [*The World Ends with You*](https://id.wikipedia.org/wiki/The_World_Ends_with_You) |
 | ::{ flag=US }:: ::xasuma::{ user=3172980 } | The First Completionist | Memainkan semua beatmap osu! yang berstatus Ranked hingga tanggal 27 April 2019 |
 | ::{ flag=DE }:: ::Zetera::{ user=587737 } | Medal Hunter | Memenangkan perlombaan [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) |
 
@@ -348,7 +348,7 @@ Para pengguna berikut memperoleh gelarnya masing-masing atas berbagai alasan yan
 | ::{ flag=US }:: ::Derekku::{ user=91341 } | COOL DUDE |
 | ::{ flag=AU }:: ::Ephemeral::{ user=102335 } | Inland Empire |
 | ::{ flag=DE }:: ::Loctav::{ user=71366 } | Popcorn Fairy |
-| ::{ flag=AU }:: ::phill\1old::{ user=53 } | ¿ |
+| ::{ flag=AU }:: ::phill_old::{ user=53 } | ¿ |
 | ::{ flag=US }:: ::Toy::{ user=2757689 } | Former osu! Champion: 2019 / Grilled Dodongo |
 | ::{ flag=HM }:: ::Zallius::{ user=55 } | Boats |
 
@@ -357,4 +357,4 @@ Para pengguna berikut memperoleh gelarnya masing-masing atas berbagai alasan yan
 [^mao-note]: ::{ flag=DE }:: ::Mao::{ user=2204515 } saat ini menyandang gelar **Elite Mapper II** atas keberhasilannya dalam meraih gelar Elite Mapper pada dua kontes mapping yang berbeda, yakni [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) dan [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest).
 [^charles445-note]: ::{ flag=US }:: ::Charles445::{ user=85000 } saat ini menyandang gelar **Elite Mapper II: Aspirant** atas keberhasilannya dalam menjuarai [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) dan [Monthly Beatmapping Contest: Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results) secara bersamaan.
 [^billiummoto-note]: ::{ flag=US }:: ::BilliumMoto::{ user=3862471 } saat ini menyandang gelar **osu!mixer II** atas keberhasilannya dalam menjuarai dua kontes osu!remix yang berbeda, yakni [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) dan [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest).
-[^yf-note]: ::{ flag=CN }:: ::yf\1bmp::{ user=1243669 } saat ini menyandang gelar **Elite Storyboarder II** atas keberhasilannya karena ia telah [menyandang gelar sebelumnya](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020) atas kontribusi yang luar biasa pada bidang storyboarding dan menjuarai [triangles Beatmapping Contest](/wiki/Contests/triangles_Beatmapping_Contest).
+[^yf-note]: ::{ flag=CN }:: ::yf_bmp::{ user=1243669 } saat ini menyandang gelar **Elite Storyboarder II** atas keberhasilannya karena ia telah [menyandang gelar sebelumnya](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020) atas kontribusi yang luar biasa pada bidang storyboarding dan menjuarai [triangles Beatmapping Contest](/wiki/Contests/triangles_Beatmapping_Contest).

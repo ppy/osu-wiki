@@ -114,7 +114,7 @@ osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::iceOC::{ 
 
 [![](/wiki/shared/news/2019-05-21-project-loved-week-of-may-19th/taiko/1-feline-the-white.jpg)](https://osu.ppy.sh/community/forums/topics/910864)
 
-[Cranky - Feline, the White...](https://osu.ppy.sh/beatmapsets/784533#taiko) by ::-\1 ix Ishida xi \1-::{ user=242910 }\
+[Cranky - Feline, the White...](https://osu.ppy.sh/beatmapsets/784533#taiko) by ::-[ ix Ishida xi ]-::{ user=242910 }\
 170 BPM, 3:15 | 7.13★, 7.13★\
 *description written by ::-Kazu-::{ user=920861 }*
 

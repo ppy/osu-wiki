@@ -27,7 +27,7 @@ A cosplay show was organised during the event, allowing anyone to show themselve
 
 ![Cosplay 2nd place](/wiki/shared/news/2025-10-08-moscow-osu-event-2025-recap/cosplay-2.jpg)
 
-**3rd place** - a joint collab between ::{ flag=RU }:: **::Graja\11::{ user=38171011 }** & ::{ flag=RU }:: **::Wise-holo::{ user=34233389 }**, cosplaying *Touhou Project*'s Nazrin, the leader of a great number of mice, and a big mouse itself!
+**3rd place** - a joint collab between ::{ flag=RU }:: **::Graja_1::{ user=38171011 }** & ::{ flag=RU }:: **::Wise-holo::{ user=34233389 }**, cosplaying *Touhou Project*'s Nazrin, the leader of a great number of mice, and a big mouse itself!
 
 ![Cosplay 3rd place](/wiki/shared/news/2025-10-08-moscow-osu-event-2025-recap/cosplay-3.jpg)
 
@@ -123,12 +123,12 @@ The osu!mania 4K tournament featured ::{ flag=RU }:: ::-Oni-Chan-::{ user=100360
 
 ### osu!mania 7K
 
-The osu!mania 7K tournament featured ::{ flag=RU }:: ::karayss::{ user=7156634 }, ::{ flag=RU }:: ::PhobosX::{ user=2570019 }, ::{ flag=RU }:: ::timebuka::{ user=6857841 }, and ::{ flag=RU }:: ::X\1Devil::{ user=6694908 }, with two of them coming straight from the [osu!mania 7K World Cup 2025](/wiki/Tournaments/MWC/2025_7K)!!
+The osu!mania 7K tournament featured ::{ flag=RU }:: ::karayss::{ user=7156634 }, ::{ flag=RU }:: ::PhobosX::{ user=2570019 }, ::{ flag=RU }:: ::timebuka::{ user=6857841 }, and ::{ flag=RU }:: ::X_Devil::{ user=6694908 }, with two of them coming straight from the [osu!mania 7K World Cup 2025](/wiki/Tournaments/MWC/2025_7K)!!
 
 | Player A |  |  | Player B | VOD link |
 | --: | :-: | :-: | :-- | :-: |
 | ::PhobosX::{ user=2570019 } ::{ flag=RU }:: | 0 | **4** | ::{ flag=RU }:: **::karayss::{ user=7156634 }** | [![](/wiki/shared/link/Link.png)](https://youtube.com/watch?v=xatn-BXpMho&t=19017) |
-| ::X\1Devil::{ user=6694908 } ::{ flag=RU }:: | 3 | **4** | ::{ flag=RU }:: **::timebuka::{ user=6857841 }** | [![](/wiki/shared/link/Link.png)](https://youtube.com/watch?v=xatn-BXpMho&t=22857) |
+| ::X_Devil::{ user=6694908 } ::{ flag=RU }:: | 3 | **4** | ::{ flag=RU }:: **::timebuka::{ user=6857841 }** | [![](/wiki/shared/link/Link.png)](https://youtube.com/watch?v=xatn-BXpMho&t=22857) |
 | ::karayss::{ user=7156634 } ::{ flag=RU }:: | 4 | **5** | ::{ flag=RU }:: **::timebuka::{ user=6857841 }** | [![](/wiki/shared/link/Link.png)](https://youtube.com/watch?v=fIpS-LFpB7w&t=13209) |
 
 *Fun fact: the osu!mania 7K tournament had more tiebreaker matches than all other game modes combined, including osu!.*

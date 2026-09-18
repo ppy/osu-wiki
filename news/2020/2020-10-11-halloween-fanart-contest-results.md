@@ -65,7 +65,7 @@ Fanart contest regular ::**Dreamxiety**::{ user=13103233 } returns again for Hal
 
 [![](https://assets.ppy.sh/contests/112/banners/D0tz_.jpg)](https://assets.ppy.sh/contests/112/winners/D0tz_.png)
 
-**2289** voters meekly yielded their stars to ::**D0tz\1**::{ user=6841570 }'s take on a smug, lounging vampire pippi. Don't look at the portrait on the shelf, rumor has it that those who do are never able to pass on from the osu! life...
+**2289** voters meekly yielded their stars to ::**D0tz_**::{ user=6841570 }'s take on a smug, lounging vampire pippi. Don't look at the portrait on the shelf, rumor has it that those who do are never able to pass on from the osu! life...
 
 [![](https://assets.ppy.sh/contests/112/banners/Sjao.jpg)](https://assets.ppy.sh/contests/112/winners/Sjao.png)
 

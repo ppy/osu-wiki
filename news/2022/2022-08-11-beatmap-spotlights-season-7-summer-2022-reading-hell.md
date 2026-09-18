@@ -63,7 +63,7 @@ Don't fret over the other difficulties tho, each one provides a unique experienc
 ![](/wiki/shared/news/2022-08-11-beatmap-spotlights-season-7-summer-2022-reading-hell/1587293.jpg)
 
 **[THE ORAL CIGARETTES - 5150 [Muzukashii]](https://osu.ppy.sh/beatmapsets/1587293#taiko/3268021)**, mapped by ::KyeX::{ user=15118934 }\
-*primarily suggested and described by ::\1Zeth\1::{ user=14102976 }*
+*primarily suggested and described by ::[Zeth]::{ user=14102976 }*
 
 A song that most circle clickers may be familiar with but has only recently been ranked in the drum smashing department, KyeX has took the matter to his own hand and ranked THE ORAL CIGARETTES' 5150 in osu!taiko, completed with *the* background art that most people associate with the artist. (Let's be honest though, all the background arts for this artist's maps look amazing.)
 
@@ -82,7 +82,7 @@ The difficulty of the map is nothing to joke about mind you! Boasting a staggeri
 
 ![](/wiki/shared/news/2022-08-11-beatmap-spotlights-season-7-summer-2022-reading-hell/1517608.jpg)
 
-**[Camellia - FM Synthesis Experiment [Glitch]](https://osu.ppy.sh/beatmapsets/1517608#fruits/3106757)**, mapped by ::Unlucky\1w::{ user=4820793 }\
+**[Camellia - FM Synthesis Experiment [Glitch]](https://osu.ppy.sh/beatmapsets/1517608#fruits/3106757)**, mapped by ::Unlucky_w::{ user=4820793 }\
 *primarily suggested by ::SadEgg::{ user=10278243 }*\
 *described by ::wwwww::{ user=8434466 }*
 

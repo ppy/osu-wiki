@@ -16,7 +16,7 @@ The beatmap charts for the Winter Spotlights can be found [here](https://osu.ppy
 First of all, congratulations to the winners of the Seasonal Spotlights: Autumn 2018. They will receive 3, 2, and 1 months of supporter for 1st, 2nd, and 3rd place respectively for their efforts!
 
 - **osu!:** ::Toy::{ user=2757689 }, ::StreaminDemon::{ user=6245906 } and ::Lilily::{ user=6502403 }
-- **osu!taiko:** ::Jaye::{ user=4841352 }, ::ZTH::{ user=5258461 } and ::Edgar\1Figaro::{ user=6508754 }
+- **osu!taiko:** ::Jaye::{ user=4841352 }, ::ZTH::{ user=5258461 } and ::Edgar_Figaro::{ user=6508754 }
 - **osu!catch:** ::Crystal::{ user=1646397 }, ::Guillotine::{ user=4365562 } and ::RAMPAGE88::{ user=448547 }
 - **osu!mania:** ::\[Crz\]Satori::{ user=7082178 }, ::Stink God::{ user=7381289 } and ::Cryolien::{ user=1626983 }
 
@@ -53,7 +53,7 @@ Don't stay up late while playing this mapset, or you might experience some sleep
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/osu/colors.jpg)](https://osu.ppy.sh/beatmapsets/317439)
 
-::wa\1::{ user=1572001 } makes a return to the ranked section with their amazing set of "Colors sasakure.UK Futurelogic Remix" by dj TAKA. This map will really test your skills with spaced streams, stream jumps, and 1/4 jumps! It's also a massive feat to see 1 mapper mapping all the difficulties in a 4 minute song. Overall, this is a very high effort set that you'll be feeling blue when you play it!
+::wa_::{ user=1572001 } makes a return to the ranked section with their amazing set of "Colors sasakure.UK Futurelogic Remix" by dj TAKA. This map will really test your skills with spaced streams, stream jumps, and 1/4 jumps! It's also a massive feat to see 1 mapper mapping all the difficulties in a 4 minute song. Overall, this is a very high effort set that you'll be feeling blue when you play it!
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/osu/saisaki.jpg)](https://osu.ppy.sh/beatmapsets/858075)
 
@@ -292,7 +292,7 @@ The balance in this map between serenity and chaos perfectly represents the musi
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/mania/relentless.jpg)](https://osu.ppy.sh/beatmapsets/881771)
 
-Are you ready for the ruffneck bass? As a skillful osu!mania mapper and Beatmap Nominator who brought the ranked section with a few delicate 4K spreads in the past, ::\1Stan::{ user=1653229 } this time returns with an unexpected 7K marathon of this exciting piece of electronic music, DJ Noriken - #The_Relentless(Modified), that testifies to his deep understanding of 7K mapping as well.
+Are you ready for the ruffneck bass? As a skillful osu!mania mapper and Beatmap Nominator who brought the ranked section with a few delicate 4K spreads in the past, ::_Stan::{ user=1653229 } this time returns with an unexpected 7K marathon of this exciting piece of electronic music, DJ Noriken - #The_Relentless(Modified), that testifies to his deep understanding of 7K mapping as well.
 
 This marathon is mostly composed of normal notes, but in a way that fully convey every single line of music, making it actually more interesting and beginner-friendly. However, it is challenging at the same time, since \_Stan creates it in a way that gradually poses more difficulty onto the map. At the last kiai, the full mixture of short LNs with streams greatly enhances the overall difficulty of the map to mark the pinnacle of his understanding over the progression of the music, while it also necessarily avoids SR inflation.
 

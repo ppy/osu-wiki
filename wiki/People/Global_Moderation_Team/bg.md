@@ -64,7 +64,7 @@ tags:
 | Име | Допълнителен език | Област на фокус |
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: ::- Felix::{ user=8503985 } | Немски | Модериране на чат |
-| ::{ flag=HU }:: ::\1 Another \1::{ user=3416573 } | Унгарски | Модериране на чат |
+| ::{ flag=HU }:: ::[ Another ]::{ user=3416573 } | Унгарски | Модериране на чат |
 | ::{ flag=CH }:: ::\[ryuu\]::{ user=5698467 } | Руски | Модериране на чат |
 | ::{ flag=US }:: ::abraker::{ user=4635891 } |  | Модериране на форум |
 | ::{ flag=CA }:: ::Azer::{ user=2155578 } |  | Управление на турнири |
@@ -153,7 +153,7 @@ tags:
 | `#german` | [Deutsch](https://osu.ppy.sh/community/forums/37) | ::{ flag=DE }:: ::- Felix::{ user=8503985 }, ::{ flag=DE }:: ::Okoratu::{ user=1623405 }, ::{ flag=DE }:: ::OnosakiHito::{ user=290128 } |
 | `#greek` |  |  |
 | `#hebrew` |  |  |
-| `#hungarian` | [Magyar](https://osu.ppy.sh/community/forums/95) | ::{ flag=HU }:: ::\1 Another \1::{ user=3416573 } |
+| `#hungarian` | [Magyar](https://osu.ppy.sh/community/forums/95) | ::{ flag=HU }:: ::[ Another ]::{ user=3416573 } |
 | `#indonesian` | [Indonesian](https://osu.ppy.sh/community/forums/73) | ::{ flag=ID }:: ::Niva::{ user=197805 }, ::{ flag=ID }:: ::Shurelia::{ user=3807986 }, ::{ flag=ID }:: ::Sies::{ user=6491991 } |
 | `#italian` | [Italiano](https://osu.ppy.sh/community/forums/36) | ::{ flag=IT }:: ::Seijiro::{ user=2581696 } |
 | `#japanese` | [日本語](https://osu.ppy.sh/community/forums/32) | ::{ flag=KR }:: ::Civil oath::{ user=3216107 }, ::{ flag=BR }:: ::Edward::{ user=5618109 }, ::{ flag=HK }:: ::kanpakyin::{ user=394326 }, ::{ flag=JP }:: ::KSHR::{ user=409957 }, ::{ flag=KR }:: ::Petit::{ user=4637369 }, ::{ flag=JP }:: ::S o h::{ user=2234772 }, ::{ flag=KR }:: ::ToGlette::{ user=1076236 } |

@@ -65,7 +65,7 @@ You have three options:
 
 Take your pick:
 
-- [osu!catch map](https://osu.ppy.sh/beatmapsets/1774562) (the first Ranked **kanemiko** map!) hosted by ::Unlucky\1w::{ user=4820793 }
+- [osu!catch map](https://osu.ppy.sh/beatmapsets/1774562) (the first Ranked **kanemiko** map!) hosted by ::Unlucky_w::{ user=4820793 }
 - [4K osu!mania map](https://osu.ppy.sh/beatmapsets/2429906) by ::FanIsAnIdiot::{ user=18293924 }
 - [Significantly harder 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2250586) by ::VividCycle::{ user=14351534 }
 
@@ -104,8 +104,8 @@ Try out [the original tiebreaker set](https://osu.ppy.sh/beatmapsets/2253784) ma
 Play through any of these maps:
 
 - [osu!taiko map](https://osu.ppy.sh/beatmapsets/2354646) by ::Alchyr::{ user=4993032 }
-- [osu!catch map](https://osu.ppy.sh/beatmapsets/2321573) by ::Bunnrei::{ user=829284 } and ::Yoshi\1green::{ user=1035891 }
-- [4K osu!mania map](https://osu.ppy.sh/beatmapsets/2319270) by ::chy030\1ft\1pH5\16::{ user=9492856 }
+- [osu!catch map](https://osu.ppy.sh/beatmapsets/2321573) by ::Bunnrei::{ user=829284 } and ::Yoshi_green::{ user=1035891 }
+- [4K osu!mania map](https://osu.ppy.sh/beatmapsets/2319270) by ::chy030_ft_pH5_6::{ user=9492856 }
 - [7K osu!mania map](https://osu.ppy.sh/beatmapsets/2318032) (the original tiebreaker!) by ::\_Stan::{ user=1653229 }, ::Mochineko::{ user=3793196 }, ::Maxus::{ user=4335785 }, ::kaulpakka::{ user=7115625 }, ::ExNeko::{ user=7590894 }, and ::taba2::{ user=7850508 }
 
 <div align="center">

@@ -22,7 +22,7 @@ En este registro se usan abreviaturas para los grupos de usuarios:
 
 - 11/1/2022: ::Nifty::{ user=4956097 } fue añadido a los **BN**
 - 18/1/2022: ::Maxus::{ user=4335785 } fue añadido a los **BN provisionales**
-- 24/1/2022: ::\1RT\1Alleyne::{ user=11279273 } fue añadido a los **BN provisionales**
+- 24/1/2022: ::[RT]Alleyne::{ user=11279273 } fue añadido a los **BN provisionales**
 - 30/1/2022: ::Len::{ user=1686145 } fue añadido a los **BN provisionales**
 
 #### Movimientos
@@ -79,7 +79,7 @@ En este registro se usan abreviaturas para los grupos de usuarios:
 
 - 1/2/2022: ::GIGACHAD::{ user=11081858 } fue retirado de los **BN**
 - 2/2/2022: ::Kawawa::{ user=4647754 } fue retirado de los **BN**
-- 3/2/2022: ::Geo\1ooo::{ user=12013943 } fue retirado de los **BN provisionales**
+- 3/2/2022: ::Geo_ooo::{ user=12013943 } fue retirado de los **BN provisionales**
 - 3/2/2022: ::Lacrima::{ user=4915649 } fue retirado de los **BN provisionales**
 - 3/2/2022: ::Daletto::{ user=7592136 } fue retirado de los **BN**
 - 12/2/2022: ::duski::{ user=6506484 } fue retirado de los **BN**
@@ -128,7 +128,7 @@ En este registro se usan abreviaturas para los grupos de usuarios:
 
 - 1/3/2022: ::Luscent::{ user=2688581 } fue movido de los **BN provisionales** a los **BN**
 - 8/3/2022: ::Maxus::{ user=4335785 } fue movido de los **BN provisionales** a los **BN**
-- 12/3/2022: ::\1RT\1Alleyne::{ user=11279273 } fue movido de los **BN provisionales** a los **BN**
+- 12/3/2022: ::[RT]Alleyne::{ user=11279273 } fue movido de los **BN provisionales** a los **BN**
 - 24/3/2022: ::tadahitotsu::{ user=11653544 } fue movido de los **BN provisionales** a los **BN**
 - 28/3/2022: ::Yogurtt::{ user=2649717 } fue movido de los **BN** a los **BN provisionales**
 - 28/3/2022: ::Sonnyc::{ user=11771 } fue movido de los **BN** a los **BN provisionales**
@@ -165,7 +165,7 @@ En este registro se usan abreviaturas para los grupos de usuarios:
 - 3/4/2022: ::Konpaku Sariel::{ user=533502 } fue añadido a los **BN provisionales**
 - 9/4/2022: ::FLeVI::{ user=12519616 } fue añadido a los **BN provisionales**
 - 10/4/2022: ::neonat::{ user=1561995 } fue añadido a los **BN provisionales**
-- 15/4/2022: ::Kim\1GodSSI::{ user=2218047 } fue añadido a los **BN provisionales**
+- 15/4/2022: ::Kim_GodSSI::{ user=2218047 } fue añadido a los **BN provisionales**
 - 18/4/2022: ::Toofu::{ user=11004271 } fue añadido a los **BN provisionales**
 - 21/4/2022: ::Amiichii::{ user=9228569 } fue añadido a los **BN provisionales**
 - 24/4/2022: ::Drum-Hitnormal::{ user=748722 } fue añadido a los **BN provisionales**
@@ -194,14 +194,14 @@ En este registro se usan abreviaturas para los grupos de usuarios:
 - 2/4/2022: ::Firika::{ user=9590557 } fue retirado de los **BN**
 - 2/4/2022: ::Stixy::{ user=9000308 } fue retirado de los **BN**
 - 2/4/2022: ::StarCastler::{ user=12402453 } fue retirado de los **BN**
-- 3/4/2022: ::x\1angelkawaii\1x::{ user=566276 } fue retirado de los **BN**
+- 3/4/2022: ::x_angelkawaii_x::{ user=566276 } fue retirado de los **BN**
 - 3/4/2022: ::Basensorex::{ user=11655886 } fue retirado de los **BN provisionales**
 - 9/4/2022: ::Lita-::{ user=15205070 } fue retirado de los **BN**
 - 10/4/2022: ::Mniam::{ user=6050530 } fue retirado de los **BN**
 - 13/4/2022: ::Maxus::{ user=4335785 } fue retirado de los **BN**
 - 13/4/2022: ::Souvenir::{ user=14057792 } fue retirado de los **BN**
 - 21/4/2022: ::Burak::{ user=13213075 } fue retirado de los **BN provisionales**
-- 21/4/2022: ::\1 Decku \1::{ user=13360768 } fue retirado de los **BN**
+- 21/4/2022: ::[ Decku ]::{ user=13360768 } fue retirado de los **BN**
 - 21/4/2022: ::Akito::{ user=5716327 } fue retirado de los **BN**
 - 24/4/2022: ::Logic Agent::{ user=6341262 } fue retirado de los **BN**
 
@@ -223,20 +223,20 @@ En este registro se usan abreviaturas para los grupos de usuarios:
 
 - 2/5/2022: ::Antti::{ user=13281473 } fue añadido a los **BN provisionales**
 - 2/5/2022: ::Kotoha::{ user=7823498 } fue añadido a los **BN**
-- 2/5/2022: ::\1 Decku \1::{ user=13360768 } fue añadido a los **BN**
-- 10/5/2022: ::Critical\1Star::{ user=3793196 } fue añadido a los **BN provisionales**
+- 2/5/2022: ::[ Decku ]::{ user=13360768 } fue añadido a los **BN**
+- 10/5/2022: ::Critical_Star::{ user=3793196 } fue añadido a los **BN provisionales**
 - 10/5/2022: ::Myxo::{ user=2202645 } fue añadido a los **BN provisionales**
-- 12/5/2022: ::\1Sick\1Catcat::{ user=16320311 } fue añadido a los **BN provisionales**
+- 12/5/2022: ::[Sick]Catcat::{ user=16320311 } fue añadido a los **BN provisionales**
 - 12/5/2022: ::Surono::{ user=11544934 } fue añadido a los **BN provisionales**
 - 12/5/2022: ::pupu5::{ user=3611370 } fue añadido a los **BN provisionales**
 - 12/5/2022: ::Pumi::{ user=7140680 } fue añadido a los **BN provisionales**
 - 12/5/2022: ::Eriha::{ user=17853754 } fue añadido a los **BN provisionales**
 - 15/5/2022: ::FAMoss::{ user=7707789 } fue añadido a los **BN provisionales**
-- 15/5/2022: ::\1Rokii::{ user=12770065 } fue añadido a los **BN provisionales**
+- 15/5/2022: ::_Rokii::{ user=12770065 } fue añadido a los **BN provisionales**
 - 18/5/2022: ::ZiRoX::{ user=200768 } fue añadido a los **BN provisionales**
 - 20/5/2022: ::Mocaotic::{ user=9487458 } fue añadido a los **BN provisionales**
 - 23/5/2022: ::AirinCat::{ user=11119539 } fue añadido a los **BN**
-- 25/5/2022: ::Rivals\17::{ user=4610379 } fue añadido a los **BN provisionales**
+- 25/5/2022: ::Rivals_7::{ user=4610379 } fue añadido a los **BN provisionales**
 - 27/5/2022: ::Syrion-::{ user=15380643 } fue añadido a los **BN provisionales**
 - 28/5/2022: ::KeyWee::{ user=10476879 } fue añadido a los **BN provisionales**
 
@@ -249,7 +249,7 @@ En este registro se usan abreviaturas para los grupos de usuarios:
 - 12/5/2022: ::Didah::{ user=8030129 } fue movido de los **BN** a los **BN provisionales**
 - 12/5/2022: ::Axer::{ user=7299864 } fue movido de los **BN provisionales** a los **BN**
 - 13/5/2022: ::FleVI::{ user=12519616 } fue movido de los **BN provisionales** a los **BN**
-- 19/5/2022: ::Kim\1GodSSI::{ user=2218047 } fue movido de los **BN provisionales** a los **BN**
+- 19/5/2022: ::Kim_GodSSI::{ user=2218047 } fue movido de los **BN provisionales** a los **BN**
 - 23/5/2022: ::tomatas95::{ user=11403815 } fue movido de los **BN provisionales** a los **BN**
 - 23/5/2022: ::-Syncro::{ user=4338923 } fue movido de los **BN provisionales** a los **BN**
 - 24/5/2022: ::Mokobe::{ user=10374819 } fue movido de los **BN provisionales** a los **BN**
@@ -291,18 +291,18 @@ En este registro se usan abreviaturas para los grupos de usuarios:
 - 1/6/2022: ::Toofu::{ user=11004271 } fue movido de los **BN provisionales** a los **BN**
 - 5/6/2022: ::neonat::{ user=1561995 } fue movido de los **BN provisionales** a los **BN**
 - 10/6/2022: ::Esutarosa::{ user=12024753 } fue movido de los **BN provisionales** a los **BN**
-- 12/6/2022: ::Critical\1Star::{ user=3793196 } fue movido de los **BN provisionales** a los **BN**
+- 12/6/2022: ::Critical_Star::{ user=3793196 } fue movido de los **BN provisionales** a los **BN**
 - 15/6/2022: ::Antti::{ user=13281473 } fue movido de los **BN provisionales** a los **BN**
 - 15/6/2022: ::Gabdu09::{ user=8852605 } fue movido de los **BN provisionales** a los **BN**
-- 18/6/2022: ::\1Rokii::{ user=12770065 } fue movido de los **BN provisionales** a los **BN**
+- 18/6/2022: ::_Rokii::{ user=12770065 } fue movido de los **BN provisionales** a los **BN**
 - 18/6/2022: ::FAMoss::{ user=7707789 } fue movido de los **BN provisionales** a los **BN**
-- 27/6/2022: ::\1Sick\1Catcat::{ user=11544934 } fue movido de los **BN provisionales** a los **BN**
+- 27/6/2022: ::[Sick]Catcat::{ user=11544934 } fue movido de los **BN provisionales** a los **BN**
 - 28/6/2022: ::Eriha::{ user=16320311 } fue movido de los **BN provisionales** a los **BN**
 - 28/6/2022: ::pupu5::{ user=7140680 } fue movido de los **BN provisionales** a los **BN**
 - 29/6/2022: ::Myxo::{ user=2202645 } fue movido de los **BN provisionales** a los **BN**
 - 29/6/2022: ::Didah::{ user=8030129 } fue movido de los **BN provisionales** a los **BN**
 - 30/6/2022: ::Syrion-::{ user=15380643 } fue movido de los **BN provisionales** a los **BN**
-- 30/6/2022: ::Rivals\17::{ user=4610379 } fue movido de los **BN provisionales** a los **BN**
+- 30/6/2022: ::Rivals_7::{ user=4610379 } fue movido de los **BN provisionales** a los **BN**
 
 #### Eliminaciones
 
@@ -529,9 +529,9 @@ En este registro se usan abreviaturas para los grupos de usuarios:
 - 2/11/2022: ::ChillierPear::{ user=9501251 } fue añadido a los **Beatmap Spotlight Curators**
 - 2/11/2022: ::Axer::{ user=7299864 } fue añadido a los **Beatmap Spotlight Curators**
 - 2/11/2022: ::Antalf::{ user=8793773 } fue añadido a los **Beatmap Spotlight Curators**
-- 2/11/2022: ::\1Zeth\1::{ user=9912966 } fue añadido a los **Beatmap Spotlight Curators**
+- 2/11/2022: ::[Zeth]::{ user=9912966 } fue añadido a los **Beatmap Spotlight Curators**
 - 8/11/2022: ::Mipha-::{ user=5767941 } fue añadido al **Project Loved Team**
-- 8/11/2022: ::\1Crz\1hinako1804::{ user=13747903 } fue añadido al **Project Loved Team**
+- 8/11/2022: ::[Crz]hinako1804::{ user=13747903 } fue añadido al **Project Loved Team**
 - 8/11/2022: ::Dusk-::{ user=6092181 } fue añadido al **NAT**
 - 8/11/2022: ::Hivie::{ user=14102976 } fue añadido al **NAT**
 - 13/11/2022: ::Remuring::{ user=6522146 } fue añadido al **Project Loved Team**

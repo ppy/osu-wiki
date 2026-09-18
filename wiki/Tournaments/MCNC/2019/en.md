@@ -66,7 +66,7 @@ The osu!mania 4K Chinese National Cup 2019 was run by various community members.
 | #7 | ::{ flag=TW }:: ::Sakaki::{ user=2656856 } |
 | #8 | ::{ flag=CN }:: ::\[RT\]Alleyne::{ user=11279273 } |
 | #9 | ::{ flag=CN }:: ::\[Crz\]Satori::{ user=7082178 } |
-| #10 | ::{ flag=CN }:: ::\[Crz\]HDRoop\17::{ user=6336721 } |
+| #10 | ::{ flag=CN }:: ::\[Crz\]HDRoop_7::{ user=6336721 } |
 | #11 | ::{ flag=CN }:: ::Lo\_liFish2000::{ user=8828244 } |
 | #12 | ::{ flag=CN }:: ::snowkyou::{ user=12513448 } |
 | #13 | ::{ flag=CN }:: ::Namida KL::{ user=6889190 } |

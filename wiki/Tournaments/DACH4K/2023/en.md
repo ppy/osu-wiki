@@ -44,12 +44,12 @@ The DACH 4k Championship 2023 was run by various community members.
 | Co-Host | ::{ flag=DE }:: ::ERA Sirbeyy::{ user=12917829 } |
 | Mappooler / mapper | ::{ flag=DE }:: ::ERA Sirbeyy::{ user=12917829 } , ::{ flag=DE }:: ::EimitMaggi999::{ user=10922297 } ,  ::{ flag=DE }:: ::Maxim-Miau::{ user=12660835 } , ::{ flag=US }:: ::ERA Imperial::{ user=5066305 } , ::{ flag=US }:: ::\[GS\]Rose::{ user=9481266 },  ::{ flag=NL }:: ::DannyPX::{ user=11253722 } , ::{ flag=DE }:: ::AL-E::{ user=18096415 } |
 | Playtester / replay maker | ::{ flag=PE }:: ::ERA Xuste::{ user=17989444 } , ::{ flag=SG }:: ::AdamAckerville::{ user=12297375 } , ::{ flag=MX }:: ::\[Crz\]Crystalize::{ user=3072763 } , ::{ flag=DE }:: ::cakeboss05::{ user=12586864 } , ::{ flag=MY }:: ::ERA Nanachi::{ user=25604245 } , ::{ flag=ES }:: ::ERA Minikrimi::{ user=15186865 } , ::{ flag=US }:: ::SunApple::{ user=11817622 } |
-| Referee | ::{ flag=PE }:: ::ERA Xuste::{ user=17989444 } , ::{ flag=CN }:: ::\[GB\]Rush\1FTK::{ user=3046856 } , ::{ flag=US }:: ::\[GS\]Rose::{ user=9481266 } , ::{ flag=AE }:: ::dragiee::{ user=17959501 } , ::{ flag=DE }:: ::cakeboss05::{ user=12586864 } , ::{ flag=DE }:: ::EimitMaggi999::{ user=10922297 } |
+| Referee | ::{ flag=PE }:: ::ERA Xuste::{ user=17989444 } , ::{ flag=CN }:: ::\[GB\]Rush_FTK::{ user=3046856 } , ::{ flag=US }:: ::\[GS\]Rose::{ user=9481266 } , ::{ flag=AE }:: ::dragiee::{ user=17959501 } , ::{ flag=DE }:: ::cakeboss05::{ user=12586864 } , ::{ flag=DE }:: ::EimitMaggi999::{ user=10922297 } |
 | Streamer | ::{ flag=DE }:: ::Vincus::{ user=16124906 } , ::{ flag=DE }:: ::cakeboss05::{ user=12586864 } , ::{ flag=US }:: ::SunApple::{ user=11817622 } |
 | Commentator | ::{ flag=DE }::  ::araciumhd::{ user=15882740 } , ::{ flag=DE }:: ::datnonameboi::{ user=14217761 } , ::{ flag=DE }:: ::Vincus::{ user=16124906 } , ::{ flag=DE }:: ::AL-E::{ user=18096415 } , ::{ flag=AE }:: ::dragiee::{ user=17959501 } , ::{ flag=DE }:: ::cakeboss05::{ user=12586864 } ,  ::{ flag=DE }:: ::EimitMaggi999::{ user=10922297 } ,  ::{ flag=DE }:: ::Maxim-Miau::{ user=12660835 } ,  ::{ flag=DE }:: ::Blacku1::{ user=14160917 } |
 | Graphic designer | ::{ flag=DE }:: ::araciumhd::{ user=15882740 } , ::{ flag=DK }:: ::ERA Urrk::{ user=11539225 } |
 | Sheeter | ::{ flag=US }:: ::EpsilonMaiagare::{ user=3855052 } |
-| Wiki editor | ::{ flag=CN }:: ::\[GB\]Rush\1FTK::{ user=3046856 } |
+| Wiki editor | ::{ flag=CN }:: ::\[GB\]Rush_FTK::{ user=3046856 } |
 | Musician | ::{ flag=DE }::  ::XaverXD::{ user=12448575 } |
 
 ## Links
@@ -69,7 +69,7 @@ The DACH 4k Championship 2023 was run by various community members.
 | 2 | ::{ flag=DE }:: ::TsukiyaWhiskers::{ user=12598261 } |
 | 3 | ::{ flag=DE }:: ::Blacku1::{ user=14160917 } |
 | 4 | ::{ flag=DE }:: ::Akurazi::{ user=30232155 } |
-| 5 | ::{ flag=DE }:: ::Niko\1Plays::{ user=9409456 } |
+| 5 | ::{ flag=DE }:: ::Niko_Plays::{ user=9409456 } |
 | 6 | ::{ flag=DE }:: ::Takedown05::{ user=18060303 } |
 | 7 | ::{ flag=DE }:: ::araciumhd::{ user=15882740 } |
 | 8 | ::{ flag=DE }:: ::Vincus::{ user=16124906 } |

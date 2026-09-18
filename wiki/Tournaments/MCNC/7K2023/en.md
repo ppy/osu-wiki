@@ -44,10 +44,10 @@ The osu!mania 7K Chinese National Cup 2023 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user=10500832 } |
-| Mappool selector | ::{ flag=CN }:: ::\_Stan::{ user=1653229 }, ::{ flag=CN }:: ::tyrcs::{ user=13026904 }, ::{ flag=CN }:: ::\[Crz\]Satori::{ user=7082178 }, ::{ flag=CN }:: ::ExNeko::{ user=7590894 }, ::{ flag=MY }:: ::Critical\1Star::{ user=3793196 } |
+| Mappool selector | ::{ flag=CN }:: ::\_Stan::{ user=1653229 }, ::{ flag=CN }:: ::tyrcs::{ user=13026904 }, ::{ flag=CN }:: ::\[Crz\]Satori::{ user=7082178 }, ::{ flag=CN }:: ::ExNeko::{ user=7590894 }, ::{ flag=MY }:: ::Critical_Star::{ user=3793196 } |
 | Mappool tester | ::{ flag=US }:: ::-NoName-::{ user=10400730 }, ::{ flag=MY }:: ::\_Kobii::{ user=6209713 } |
 | Streamer | ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user=10500832 }, ::{ flag=CN }:: ::\[Crz\]Alleyne::{ user=11279273 }, ::{ flag=CN }:: ::FcEazy::{ user=7825227 }, ::{ flag=CN }:: ::UselessPlayer::{ user=15030466 }, ::{ flag=CN }:: ::VialVistas::{ user=9697708 }, ::{ flag=CN }:: ::cdwcgt::{ user=14721101 }, ::{ flag=CN }:: ::osu happy::{ user=9580470 }, ::{ flag=CN }:: ::- Rainbow -::{ user=8742486 }, ::{ flag=CN }:: ::Muziyami::{ user=7003013 }, ::{ flag=CN }:: ::Sonoaoi::{ user=9755808 }, ::{ flag=CN }:: ::NaimuTongzi::{ user=8883892 }, ::{ flag=CN }:: ::silly me::{ user=6433183 }, ::{ flag=CN }:: ::110::{ user=4524921 }, ::{ flag=CN }:: ::WorthlessPlayer::{ user=13858681 } |
-| Designer | ::{ flag=CN }:: ::Dr\1Tissues::{ user=5106681 } |
+| Designer | ::{ flag=CN }:: ::Dr_Tissues::{ user=5106681 } |
 | Referee | ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user=10500832 }, ::{ flag=CN }:: ::\[Crz\]Makii::{ user=5242158 }, ::{ flag=CN }:: ::\[Crz\]Alleyne::{ user=11279273 }, ::{ flag=CN }:: ::UselessPlayer::{ user=15030466 }, ::{ flag=CN }:: ::VialVistas::{ user=9697708 }, ::{ flag=CN }:: ::cdwcgt::{ user=14721101 }, ::{ flag=CN }:: ::osu happy::{ user=9580470 }, ::{ flag=CN }:: ::Muziyami::{ user=7003013 }, ::{ flag=CN }:: ::Sonoaoi::{ user=9755808 }, ::{ flag=CN }:: ::silly me::{ user=6433183 }, ::{ flag=CN }:: ::110::{ user=4524921 }, ::{ flag=CN }:: ::WorthlessPlayer::{ user=13858681 } |
 
 ## Links
@@ -89,7 +89,7 @@ The osu!mania 7K Chinese National Cup 2023 was run by various community members.
 | #23 | ::{ flag=CN }:: ::YuLiangSSS::{ user=15889644 } |
 | #24 | ::{ flag=CN }:: ::a ri su::{ user=5069628 } |
 | #25 | ::{ flag=CN }:: ::Rain -::{ user=8018261 } |
-| #26 | ::{ flag=CN }:: ::lovely\1hyahya::{ user=10318380 } |
+| #26 | ::{ flag=CN }:: ::lovely_hyahya::{ user=10318380 } |
 | #27 | ::{ flag=CN }:: ::quailty::{ user=6423914 } |
 | #28 | ::{ flag=CN }:: ::\[ Classic \]::{ user=5858053 } |
 | #29 | ::{ flag=CN }:: ::Mitto::{ user=9602755 } |
@@ -102,7 +102,7 @@ The osu!mania 7K Chinese National Cup 2023 was run by various community members.
 | #36 | ::{ flag=CN }:: ::\[Crz\]Nickname::{ user=10817494 } |
 | #37 | ::{ flag=CN }:: ::mitaiiiiiiii::{ user=19173683 } |
 | #38 | ::{ flag=CN }:: ::chana::{ user=18375016 } |
-| #39 | ::{ flag=CN }:: ::\[GB\]Rush\1FTK::{ user=3046856 } |
+| #39 | ::{ flag=CN }:: ::\[GB\]Rush_FTK::{ user=3046856 } |
 
 ## Podium
 

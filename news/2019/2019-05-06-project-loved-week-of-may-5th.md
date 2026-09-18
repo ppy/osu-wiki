@@ -158,7 +158,7 @@ osu!catch Loved candidates were chosen by ::Sartan::{ user=4100941 }, ::Tenshich
 
 [![](/wiki/shared/news/2019-05-06-project-loved-week-of-may-5th/catch/1-bad-apple-feat-nomico-nardis-remix.jpg)](https://osu.ppy.sh/community/forums/topics/904547)
 
-[Masayoshi Minoshima - Bad Apple!! feat. nomico (Nardis Remix)](https://osu.ppy.sh/beatmapsets/839100#fruits) by ::\1-naniwa-\1::{ user=4958376 }\
+[Masayoshi Minoshima - Bad Apple!! feat. nomico (Nardis Remix)](https://osu.ppy.sh/beatmapsets/839100#fruits) by ::[-naniwa-]::{ user=4958376 }\
 150 BPM, 4:56 | 5.92★, 5.92★\
 *description written by ::Wesley::{ user=2407265 }*
 

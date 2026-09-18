@@ -59,7 +59,7 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 - ::{ flag=US }:: ::death grips::{ user=4829231 }
 - ::{ flag=US }:: ::GiraffeMidget::{ user=2413317 }
 - ::{ flag=US }:: ::Ikeda Chizuru::{ user=9288843 }
-- ::{ flag=US }:: ::J\18579::{ user=5590317 }
+- ::{ flag=US }:: ::J_8579::{ user=5590317 }
 - ::{ flag=US }:: ::Kenny::{ user=1225459 }
 - ::{ flag=US }:: ::MaidenofSorrow::{ user=13740709 }
 - ::{ flag=US }:: ::Mathyu::{ user=6303313 }

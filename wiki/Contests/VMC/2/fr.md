@@ -120,7 +120,7 @@ Les notes détaillées, les commentaires des juges et le classement final sont [
 | Classement | Utilisateur | Musique (lien vers la map) | Badge |
 | :-: | :-- | :-- | :-- |
 | 1er | ::Dika312::{ user=741613 } | [Shirley!!](https://osu.ppy.sh/beatmapsets/2163162#fruits/4561933) | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
-| 2ème | ::Unlucky\1w::{ user=4820793 } | [Shirley!!](https://drive.google.com/file/d/1QFKSVUhBl48_uURI95ZfgQj8_5qtETDt/view?usp=sharing) | - |
+| 2ème | ::Unlucky_w::{ user=4820793 } | [Shirley!!](https://drive.google.com/file/d/1QFKSVUhBl48_uURI95ZfgQj8_5qtETDt/view?usp=sharing) | - |
 | 3ème | ::Cipse::{ user=7928880 } | [The Cuckoo Bird's Beautiful Youth](https://drive.google.com/file/d/10zF8TYbqrbKRM1X_7K-ZaySIBAFulK2i/view?usp=sharing) | - |
 
 ### osu!mania
@@ -130,7 +130,7 @@ Les notes détaillées, les commentaires des juges et le classement final sont [
 | Classement | Utilisateur | Musique (lien vers la map) | Badge |
 | :-: | :-- | :-- | :-- |
 | 1er | ::Micleak::{ user=16140674 } | [Devolution](https://drive.google.com/file/d/19OKPV4Ahy3J96o66XZxczUw1XrC4x4uX/view?usp=drive_link) | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
-| 2ème | ::Vincy\102::{ user=13574613 } | [Devolution](https://drive.google.com/file/d/1b1XBvoA8goqC1g6Xdj-B_7jDEdnTmJDP/view?usp=drive_link) | - |
+| 2ème | ::Vincy_02::{ user=13574613 } | [Devolution](https://drive.google.com/file/d/1b1XBvoA8goqC1g6Xdj-B_7jDEdnTmJDP/view?usp=drive_link) | - |
 | 3ème | ::TheMoonLoop::{ user=15628036 } | [Devolution](https://drive.google.com/file/d/1b1XBvoA8goqC1g6Xdj-B_7jDEdnTmJDP/view?usp=drive_link) | - |
 
 ## Notes

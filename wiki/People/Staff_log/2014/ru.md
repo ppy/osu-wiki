@@ -7,7 +7,7 @@
 
 ## Январь
 
-- Добавление ::\1Shi-Ra\1::{ user=2008489 } в Beatmap Appreciation Team (2014-01-01)
+- Добавление ::[Shi-Ra]::{ user=2008489 } в Beatmap Appreciation Team (2014-01-01)
 - Добавление ::TKS::{ user=940878 } в Beatmap Appreciation Team (2014-01-04)
 - Повторное добавление ::Teara::{ user=123491 } в Beatmap Appreciation Team (2014-01-05)
 - Добавление ::shARPII::{ user=776257 } в Chat Moderators (2014-01-16)
@@ -111,13 +111,13 @@
 ## Июнь
 
 - Повторное добавление ::Nymph::{ user=601990 } в Beatmap Appreciation Team (2014-06-03)
-- Перемещение ::\1Shi-Ra\1::{ user=2008489 } из Beatmap Appreciation Team в osu! Alumni (2014-06-07)
+- Перемещение ::[Shi-Ra]::{ user=2008489 } из Beatmap Appreciation Team в osu! Alumni (2014-06-07)
 - Перемещение ::Flanster::{ user=447818 } из osu! Alumni в Chat Moderators (2014-06-11)
 - Перемещение ::Kytoxid::{ user=98460 } в osu! Alumni (2014-06-12)
 - Перемещение ::ZHSteven::{ user=142413 } в osu! Alumni (2014-06-12)
 - Перемещение ::Frostmourne::{ user=199669 } в osu! Alumni (2014-06-15)
 - Добавление ::Krah::{ user=1436748 } в Beatmap Appreciation Team (2014-06-16)
-- Перемещение ::\1Shi-Ra\1::{ user=2008489 } из osu! Alumni в Beatmap Appreciation Team (2014-06-17)
+- Перемещение ::[Shi-Ra]::{ user=2008489 } из osu! Alumni в Beatmap Appreciation Team (2014-06-17)
 - Перемещение ::YGOkid8::{ user=69114 } в osu! Alumni (2014-06-18)
 - Добавление ::ExPew::{ user=665612 } в Beatmap Appreciation Team (2014-06-23)
 - Добавление ::Oinari-Sama::{ user=405508 } в Support Team и Chat Moderators (2014-06-29)
@@ -165,7 +165,7 @@
 - Перемещение ::MMzz::{ user=128993 } из Beatmap Appreciation Team в Quality Assurance Team (2014-08-21)
 - Перемещение ::OnosakiHito::{ user=290128 } из Beatmap Appreciation Team в Quality Assurance Team (2014-08-21)
 - Перемещение ::Shiro::{ user=113005 } из Beatmap Appreciation Team в Quality Assurance Team (2014-08-21)
-- Перемещение ::\1Shi-Ra\1::{ user=2008489 } из Beatmap Appreciation Team в Quality Assurance Team (2014-08-21)
+- Перемещение ::[Shi-Ra]::{ user=2008489 } из Beatmap Appreciation Team в Quality Assurance Team (2014-08-21)
 - Перемещение ::NoHitter::{ user=124455 } в Beatmap Appreciation Team (2014-08-22)
 - Перемещение ::narakucrimson::{ user=287468 } в Beatmap Appreciation Team (2014-08-22)
 - Перемещение ::happy30::{ user=27767 } в Beatmap Appreciation Team (2014-08-22)
@@ -321,7 +321,7 @@
 - ::Kloyd::{ user=1574070 }
 - ::Kyubey::{ user=2195646 }
 - ::Leorda::{ user=119134 }
-- ::lkx\1shore::{ user=247937 }
+- ::lkx_shore::{ user=247937 }
 - ::Sieg::{ user=1404615 }
 - ::wcx19911123::{ user=376831 }
 - ::xxdeathx::{ user=3034880 }

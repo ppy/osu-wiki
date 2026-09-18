@@ -21,7 +21,7 @@ Anyways, music awaits:
 
 ### [Akiri - Evolutionary Anima](https://assets.ppy.sh/artists/401/Songs/Akiri_-_Evolutionary_Anima.osz)
 
-One of those new tracks comes straight out of [2025's osu!mania 7K World Cup](/wiki/Tournaments/MWC/2025_7K): [*Evolutionary Anima*](https://osu.ppy.sh/beatmapsets/2314344) mapped by ::Maxus::{ user=4335785 } and ::Critical\1Star::{ user=3793196 }.
+One of those new tracks comes straight out of [2025's osu!mania 7K World Cup](/wiki/Tournaments/MWC/2025_7K): [*Evolutionary Anima*](https://osu.ppy.sh/beatmapsets/2314344) mapped by ::Maxus::{ user=4335785 } and ::Critical_Star::{ user=3793196 }.
 
 If you tune into [this weekend's matches](https://www.twitch.tv/osulive), you might see this map played by one of the surviving teams!
 

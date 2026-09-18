@@ -25,7 +25,7 @@ If you're one of the four osu! players who somehow *hasn't* heard this timeless 
 
 Try out one of these masterpieces:
 
-- [osu! beatmap](https://osu.ppy.sh/beatmapsets/513731) hosted by ::yf\1bmp::{ user=1243669 }
+- [osu! beatmap](https://osu.ppy.sh/beatmapsets/513731) hosted by ::yf_bmp::{ user=1243669 }
 - [Another osu! beatmap](https://osu.ppy.sh/beatmapsets/214138) hosted by [Hollow Wings](https://osu.ppy.sh/beatmapsets/214138)
 - [Yet another osu! beatmap](https://osu.ppy.sh/beatmapsets/511339) hosted by ::z1085684963::{ user=1816779 }
 - [osu!mania beatmap](https://osu.ppy.sh/beatmapsets/220432) hosted by ::richardfeder::{ user=2446000 }

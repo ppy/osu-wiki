@@ -31,7 +31,7 @@ Check out any of these maps:
 - Another [osu! map](https://osu.ppy.sh/beatmapsets/2010589) hosted by ::Daycore::{ user=5596337 }
 - [osu!mania map](https://osu.ppy.sh/beatmapsets/302726) hosted by ::Starry-::{ user=2166199 }
 - [Brand-new osu!catch map](https://osu.ppy.sh/beatmapsets/2006758) hosted by ::Secre::{ user=2306637 }
-- [Brand-new osu!taiko map](https://osu.ppy.sh/beatmapsets/2010165) hosted by ::gaston\12199::{ user=5938161 }
+- [Brand-new osu!taiko map](https://osu.ppy.sh/beatmapsets/2010165) hosted by ::gaston_2199::{ user=5938161 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/365/Songs/Junk%20-%20Yellow%20Smile.mp3">

@@ -54,9 +54,9 @@ osu!catch recibió un reinicio completo de la clasificación global el 7 de dici
 | Jugador | Desde | Hasta | Fuentes |
 | --: | :-- | :-- | :-- |
 | ::{ flag=CN }:: ::Dusk::{ user=533210 } | *4/5/2016* | 15/1/2017 | [\[1\]](https://web.archive.org/web/20160504020501/https://osu.ppy.sh/p/pp/?m=2) |
-| ::{ flag=KR }:: ::YesMyDarknesss (*\1224\1Hyperw7*)::{ user=4158549 } | 15/1/2017 | 16/2/2017 | [\[1\]](https://web.archive.org/web/20170115031128/https://osu.ppy.sh/p/pp/?m=2) |
+| ::{ flag=KR }:: ::YesMyDarknesss (*[224]Hyperw7*)::{ user=4158549 } | 15/1/2017 | 16/2/2017 | [\[1\]](https://web.archive.org/web/20170115031128/https://osu.ppy.sh/p/pp/?m=2) |
 | ::{ flag=CN }:: ::Dusk::{ user=533210 } | 16/2/2017 | 19/4/2017 | [\[1\]](https://web.archive.org/web/20170115031128/https://osu.ppy.sh/p/pp/?m=2) |
-| ::{ flag=KR }:: ::YesMyDarknesss (*\1224\1Hyperw7*)::{ user=4158549 } | 19/4/2017 | 17/6/2017 | [\[1\]](https://web.archive.org/web/20170115031128/https://osu.ppy.sh/p/pp/?m=2) |
+| ::{ flag=KR }:: ::YesMyDarknesss (*[224]Hyperw7*)::{ user=4158549 } | 19/4/2017 | 17/6/2017 | [\[1\]](https://web.archive.org/web/20170115031128/https://osu.ppy.sh/p/pp/?m=2) |
 | ::{ flag=CN }:: ::Dusk::{ user=533210 } | 17/6/2017 | 20/8/2017 | [\[1\]](https://web.archive.org/web/20170617144834/https://osu.ppy.sh/rankings/fruits/performance) |
 | ::{ flag=KR }:: ::Motion::{ user=3885626 } | 20/8/2017 | *14/4/2018* | [\[1\]](https://web.archive.org/web/20170820172043/https://osu.ppy.sh/p/pp/?m=2) |
 
@@ -73,7 +73,7 @@ osu!catch recibió un reinicio completo de la clasificación global el 7 de dici
 | --: | :-- | :-- | :-- |
 | ::{ flag=RU }:: ::skvix::{ user=4447639 } | *14/4/2018* | 6/4/2019 | [\[1\]](https://web.archive.org/web/20180414205044/https://osu.ppy.sh/rankings/fruits/performance) |
 | ::{ flag=KR }:: ::Motion::{ user=3885626 } | 6/4/2019 | 9/8/2019 | [\[1\]](https://web.archive.org/web/20190406161641/https://osu.ppy.sh/rankings/fruits/performance) |
-| ::{ flag=KR }:: ::YesMyDarknesss (*\1224\1Hyperw7*)::{ user=4158549 } | 9/8/2019 | 18/8/2019 | [\[1\]](https://www.reddit.com/r/osugame/comments/co0ruo/after_2_years_224hyperw7_has_reclaimed_rank_1_on/) [\[2\]](https://web.archive.org/web/20190810115254/https://osu.ppy.sh/rankings/fruits/performance) |
+| ::{ flag=KR }:: ::YesMyDarknesss (*[224]Hyperw7*)::{ user=4158549 } | 9/8/2019 | 18/8/2019 | [\[1\]](https://www.reddit.com/r/osugame/comments/co0ruo/after_2_years_224hyperw7_has_reclaimed_rank_1_on/) [\[2\]](https://web.archive.org/web/20190810115254/https://osu.ppy.sh/rankings/fruits/performance) |
 | ::{ flag=KR }:: ::Motion::{ user=3885626 } | 18/8/2019 | *4/2/2020* | [\[1\]](https://web.archive.org/web/20190818051437/https://osu.ppy.sh/rankings/fruits/performance) |
 
 ## 2020
@@ -90,9 +90,9 @@ osu!catch recibió un reinicio completo de la clasificación global el 7 de dici
 | --: | :-- | :-- | :-- |
 | ::{ flag=KR }:: ::Motion::{ user=3885626 } | *14/5/2020* | 12/1/2021 | [\[1\]](https://web.archive.org/web/20200514200624/https://osu.ppy.sh/rankings/fruits/performance) |
 | ::{ flag=HK }:: ::AutoLs::{ user=9155988 } | 12/1/2021 | 14/4/2021 | [\[1\]](https://web.archive.org/web/20210112170723/https://osu.ppy.sh/rankings/fruits/performance) |
-| ::{ flag=KR }:: ::YesMyDarknesss (*\1224\1Hyperw7*)::{ user=4158549 } | 14/4/2021 | 22/4/2021 | [\[1\]](https://web.archive.org/web/20210414210651/https://osu.ppy.sh/rankings/fruits/performance) |
+| ::{ flag=KR }:: ::YesMyDarknesss (*[224]Hyperw7*)::{ user=4158549 } | 14/4/2021 | 22/4/2021 | [\[1\]](https://web.archive.org/web/20210414210651/https://osu.ppy.sh/rankings/fruits/performance) |
 | ::{ flag=HK }:: ::AutoLs::{ user=9155988 } | 22/4/2021 | 27/4/2021 | [\[1\]](https://web.archive.org/web/20210422102910/https://osu.ppy.sh/rankings/fruits/performance) |
-| ::{ flag=KR }:: ::YesMyDarknesss (*\1224\1Hyperw7*)::{ user=4158549 } | 27/4/2021 | 29/4/2021 | [\[1\]](https://web.archive.org/web/20210427172037/https://osu.ppy.sh/rankings/fruits/performance) |
+| ::{ flag=KR }:: ::YesMyDarknesss (*[224]Hyperw7*)::{ user=4158549 } | 27/4/2021 | 29/4/2021 | [\[1\]](https://web.archive.org/web/20210427172037/https://osu.ppy.sh/rankings/fruits/performance) |
 | ::{ flag=HK }:: ::AutoLs::{ user=9155988 } | 29/4/2021 | 5/5/2021 | [\[1\]](https://web.archive.org/web/20210429090335/https://osu.ppy.sh/rankings/fruits/performance) |
 | ::{ flag=KR }:: ::YesMyDarknesss (*CTB Rushia1*)::{ user=4158549 } | 5/5/2021 | *21/7/2024* | [\[1\]](https://web.archive.org/web/20230308031543/https://osu.ppy.sh/wiki/en/History_of_osu!/Online_rankings) [\[2\]](https://web.archive.org/web/20210608065616/https://osu.ppy.sh/users/4158549) [\[3\]](https://web.archive.org/web/20210505073934/https://osu.ppy.sh/rankings/fruits/performance) |
 

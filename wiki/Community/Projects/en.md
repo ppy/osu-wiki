@@ -28,7 +28,7 @@ These projects are all currently in operation and under active maintenance.
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_mcosu.png) | [McOsu](https://store.steampowered.com/app/607260/McOsu/) | ::{ flag=AT }:: ::McKay::{ user=3321909 } | Practice client for osu! beatmaps with VR support |
-| ![](img/logo_osu_droid.png) | [osu!droid](https://github.com/osudroid/osu-droid) | ::{ flag=DE }:: ::neico::{ user=119665 } and ::{ flag=RU }:: ::Pesets\1old::{ user=780451 } | Unofficial osu! client for Android |
+| ![](img/logo_osu_droid.png) | [osu!droid](https://github.com/osudroid/osu-droid) | ::{ flag=DE }:: ::neico::{ user=119665 } and ::{ flag=RU }:: ::Pesets_old::{ user=780451 } | Unofficial osu! client for Android |
 | ![](img/logo_otu.png) | [otu!](https://gdladder.com/level/111345732) | ::{ flag=US }:: ::CreatorCreepy::{ user=10436454 } | Recreation of osu! in [Geometry Dash](https://en.wikipedia.org/wiki/Geometry_Dash) |
 
 #### Scratch
@@ -206,7 +206,7 @@ These projects are all currently still in operation, although no longer under ac
 
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
-| ![](img/logo_opsu.png) | [opsu!](https://osu.ppy.sh/community/forums/topics/221726) | ::{ flag=US }:: ::euphyy\1old::{ user=2936932 } | Open-source osu! client written in [Java](https://www.java.com/) |
+| ![](img/logo_opsu.png) | [opsu!](https://osu.ppy.sh/community/forums/topics/221726) | ::{ flag=US }:: ::euphyy_old::{ user=2936932 } | Open-source osu! client written in [Java](https://www.java.com/) |
 
 ### Gameplay
 
@@ -214,7 +214,7 @@ These projects are all currently still in operation, although no longer under ac
 
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
-| ![](img/logo_my_hand_it_burns.png) | [my hand, IT BURNS!!](https://keyaa.github.io/osu-stream-practice/) | ::{ flag=PH }:: ::keyaa\1old\12::{ user=30720651 } | Benchmark tool for determining tapping speed |
+| ![](img/logo_my_hand_it_burns.png) | [my hand, IT BURNS!!](https://keyaa.github.io/osu-stream-practice/) | ::{ flag=PH }:: ::keyaa_old_2::{ user=30720651 } | Benchmark tool for determining tapping speed |
 |  | [osu!Tapspeed-Meter](https://osu.ppy.sh/community/forums/topics/247716) | ::{ flag=AT }:: ::DaRealSlimOni::{ user=2925249 } | Benchmark tool for determining tapping speed |
 |  | [SpinnyProgram](https://osu.ppy.sh/community/forums/topics/140878) | ::{ flag=GB }:: ::jimj316::{ user=1863872 } | Benchmark tool for determining spinning speed |
 

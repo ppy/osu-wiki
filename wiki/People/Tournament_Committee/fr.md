@@ -181,7 +181,7 @@ Les membres du comité des tournois bénéficient des avantages suivants:
 ## Alumni
 
 - ::{ flag=US }:: ::-White::{ user=16276548 }
-- ::{ flag=FR }:: ::\1yosh::{ user=7157133 }
+- ::{ flag=FR }:: ::_yosh::{ user=7157133 }
 - ::{ flag=CA }:: ::Azer::{ user=2155578 }
 - ::{ flag=PH }:: ::enri::{ user=8640970 }
 - ::{ flag=AR }:: ::juankristal::{ user=443656 }

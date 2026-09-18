@@ -26,9 +26,9 @@ Last month we opened the Gazette with some fun little statistics about the curre
 ### New Beatmap Nominator Promotions
 With the ever increasing number of pending maps submitted daily for modding and nomination by helpful members of the community and our hardworking Beatmap Nominators, we've added new members for osu!taiko, osu!catch, and osu!mania. Please welcome our newest additions to the Beatmap Nominators:
 
-::Nepuri::{ user=6637817 }, ::-Kazu-::{ user=920861 }, ::Faputa::{ user=845733 }, ::hikikochan::{ user=6512678 }, ::Ascendance::{ user=2931883 }, ::Sanyi::{ user=7496029 }, ::JeirYagtama::{ user=7483452 }, ::Arzenvald::{ user=3027421 }, ::AJamez::{ user=7890134 }, and ::error\1exe777::{ user=7975796 }!
+::Nepuri::{ user=6637817 }, ::-Kazu-::{ user=920861 }, ::Faputa::{ user=845733 }, ::hikikochan::{ user=6512678 }, ::Ascendance::{ user=2931883 }, ::Sanyi::{ user=7496029 }, ::JeirYagtama::{ user=7483452 }, ::Arzenvald::{ user=3027421 }, ::AJamez::{ user=7890134 }, and ::error_exe777::{ user=7975796 }!
 
-Additionally, ::mancuso\1JM\1::{ user=521568 } and ::Kisses::{ user=4276114 } are now qualified to check osu!taiko maps alongside their original qualification in osu!
+Additionally, ::mancuso_JM_::{ user=521568 } and ::Kisses::{ user=4276114 } are now qualified to check osu!taiko maps alongside their original qualification in osu!
 
 Less than a month in and they've all worked hard to bring new content to the Ranked section. Congratulations to everyone and may your time in the Beatmap Nominators be an enjoyable and exciting experience!
 

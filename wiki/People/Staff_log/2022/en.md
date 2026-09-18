@@ -22,7 +22,7 @@ Abbreviations for user groups are used throughout this log:
 
 - 2022-01-11: Added ::Nifty::{ user=4956097 } to **BN**
 - 2022-01-18: Added ::Maxus::{ user=4335785 } to **Probationary BN**
-- 2022-01-24: Added ::\1RT\1Alleyne::{ user=11279273 } to **Probationary BN**
+- 2022-01-24: Added ::[RT]Alleyne::{ user=11279273 } to **Probationary BN**
 - 2022-01-30: Added ::Len::{ user=1686145 } to **Probationary BN**
 
 #### Moves
@@ -79,7 +79,7 @@ Abbreviations for user groups are used throughout this log:
 
 - 2022-02-01: Removed ::GIGACHAD::{ user=11081858 } from **BN**
 - 2022-02-02: Removed ::Kawawa::{ user=4647754 } from **BN**
-- 2022-02-03: Removed ::Geo\1ooo::{ user=12013943 } from **Probationary BN**
+- 2022-02-03: Removed ::Geo_ooo::{ user=12013943 } from **Probationary BN**
 - 2022-02-03: Removed ::Lacrima::{ user=4915649 } from **Probationary BN**
 - 2022-02-03: Removed ::Daletto::{ user=7592136 } from **BN**
 - 2022-02-12: Removed ::duski::{ user=6506484 } from **BN**
@@ -128,7 +128,7 @@ Abbreviations for user groups are used throughout this log:
 
 - 2022-03-01: Moved ::Luscent::{ user=2688581 } from **Probationary BN** to **BN**
 - 2022-03-08: Moved ::Maxus::{ user=4335785 } from **Probationary BN** to **BN**
-- 2022-03-12: Moved ::\1RT\1Alleyne::{ user=11279273 } from **Probationary BN** to **BN**
+- 2022-03-12: Moved ::[RT]Alleyne::{ user=11279273 } from **Probationary BN** to **BN**
 - 2022-03-24: Moved ::tadahitotsu::{ user=11653544 } from **Probationary BN** to **BN**
 - 2022-03-28: Moved ::Yogurtt::{ user=2649717 } from **BN** to **Probationary BN**
 - 2022-03-28: Moved ::Sonnyc::{ user=11771 } from **BN** to **Probationary BN**
@@ -165,7 +165,7 @@ Abbreviations for user groups are used throughout this log:
 - 2022-04-03: Added ::Konpaku Sariel::{ user=533502 } to **Probationary BN**
 - 2022-04-09: Added ::FLeVI::{ user=12519616 } to **Probationary BN**
 - 2022-04-10: Added ::neonat::{ user=1561995 } to **Probationary BN**
-- 2022-04-15: Added ::Kim\1GodSSI::{ user=2218047 } to **Probationary BN**
+- 2022-04-15: Added ::Kim_GodSSI::{ user=2218047 } to **Probationary BN**
 - 2022-04-18: Added ::Toofu::{ user=11004271 } to **Probationary BN**
 - 2022-04-21: Added ::Amiichii::{ user=9228569 } to **Probationary BN**
 - 2022-04-24: Added ::Drum-Hitnormal::{ user=748722 } to **Probationary BN**
@@ -194,14 +194,14 @@ Abbreviations for user groups are used throughout this log:
 - 2022-04-02: Removed ::Firika::{ user=9590557 } from **BN**
 - 2022-04-02: Removed ::Stixy::{ user=9000308 } from **BN**
 - 2022-04-02: Removed ::StarCastler::{ user=12402453 } from **BN**
-- 2022-04-03: Removed ::x\1angelkawaii\1x::{ user=566276 } from **BN**
+- 2022-04-03: Removed ::x_angelkawaii_x::{ user=566276 } from **BN**
 - 2022-04-03: Removed ::Basensorex::{ user=11655886 } from **Probationary BN**
 - 2022-04-09: Removed ::Lita-::{ user=15205070 } from **BN**
 - 2022-04-10: Removed ::Mniam::{ user=6050530 } from **BN**
 - 2022-04-13: Removed ::Maxus::{ user=4335785 } from **BN**
 - 2022-04-13: Removed ::Souvenir::{ user=14057792 } from **BN**
 - 2022-04-21: Removed ::Burak::{ user=13213075 } from **Probationary BN**
-- 2022-04-21: Removed ::\1 Decku \1::{ user=13360768 } from **BN**
+- 2022-04-21: Removed ::[ Decku ]::{ user=13360768 } from **BN**
 - 2022-04-21: Removed ::Akito::{ user=5716327 } from **BN**
 - 2022-04-24: Removed ::Logic Agent::{ user=6341262 } from **BN**
 
@@ -223,20 +223,20 @@ Abbreviations for user groups are used throughout this log:
 
 - 2022-05-02: Added ::Antti::{ user=13281473 } to **Probationary BN**
 - 2022-05-02: Added ::Kotoha::{ user=7823498 } to **BN**
-- 2022-05-02: Added ::\1 Decku \1::{ user=13360768 } to **BN**
-- 2022-05-10: Added ::Critical\1Star::{ user=3793196 } to **Probationary BN**
+- 2022-05-02: Added ::[ Decku ]::{ user=13360768 } to **BN**
+- 2022-05-10: Added ::Critical_Star::{ user=3793196 } to **Probationary BN**
 - 2022-05-10: Added ::Myxo::{ user=2202645 } to **Probationary BN**
-- 2022-05-12: Added ::\1Sick\1Catcat::{ user=16320311 } to **Probationary BN**
+- 2022-05-12: Added ::[Sick]Catcat::{ user=16320311 } to **Probationary BN**
 - 2022-05-12: Added ::Surono::{ user=11544934 } to **Probationary BN**
 - 2022-05-12: Added ::pupu5::{ user=3611370 } to **Probationary BN**
 - 2022-05-12: Added ::Pumi::{ user=7140680 } to **Probationary BN**
 - 2022-05-12: Added ::Eriha::{ user=17853754 } to **Probationary BN**
 - 2022-05-15: Added ::FAMoss::{ user=7707789 } to **Probationary BN**
-- 2022-05-15: Added ::\1Rokii::{ user=12770065 } to **Probationary BN**
+- 2022-05-15: Added ::_Rokii::{ user=12770065 } to **Probationary BN**
 - 2022-05-18: Added ::ZiRoX::{ user=200768 } to **Probationary BN**
 - 2022-05-20: Added ::Mocaotic::{ user=9487458 } to **Probationary BN**
 - 2022-05-23: Added ::AirinCat::{ user=11119539 } to **BN**
-- 2022-05-25: Added ::Rivals\17::{ user=4610379 } to **Probationary BN**
+- 2022-05-25: Added ::Rivals_7::{ user=4610379 } to **Probationary BN**
 - 2022-05-27: Added ::Syrion-::{ user=15380643 } to **Probationary BN**
 - 2022-05-28: Added ::KeyWee::{ user=10476879 } to **Probationary BN**
 
@@ -249,7 +249,7 @@ Abbreviations for user groups are used throughout this log:
 - 2022-05-12: Moved ::Didah::{ user=8030129 } from **BN** to **Probationary BN**
 - 2022-05-12: Moved ::Axer::{ user=7299864 } from **Probationary BN** to **BN**
 - 2022-05-13: Moved ::FleVI::{ user=12519616 } from **Probationary BN** to **BN**
-- 2022-05-19: Moved ::Kim\1GodSSI::{ user=2218047 } from **Probationary BN** to **BN**
+- 2022-05-19: Moved ::Kim_GodSSI::{ user=2218047 } from **Probationary BN** to **BN**
 - 2022-05-23: Moved ::tomatas95::{ user=11403815 } from **Probationary BN** to **BN**
 - 2022-05-23: Moved ::-Syncro::{ user=4338923 } from **Probationary BN** to **BN**
 - 2022-05-24: Moved ::Mokobe::{ user=10374819 } from **Probationary BN** to **BN**
@@ -291,18 +291,18 @@ Abbreviations for user groups are used throughout this log:
 - 2022-06-01: Moved ::Toofu::{ user=11004271 } from **Probationary BN** to **BN**
 - 2022-06-05: Moved ::neonat::{ user=1561995 } from **Probationary BN** to **BN**
 - 2022-06-10: Moved ::Esutarosa::{ user=12024753 } from **Probationary BN** to **BN**
-- 2022-06-12: Moved ::Critical\1Star::{ user=3793196 } from **Probationary BN** to **BN**
+- 2022-06-12: Moved ::Critical_Star::{ user=3793196 } from **Probationary BN** to **BN**
 - 2022-06-15: Moved ::Antti::{ user=13281473 } from **Probationary BN** to **BN**
 - 2022-06-15: Moved ::Gabdu09::{ user=8852605 } from **Probationary BN** to **BN**
-- 2022-06-18: Moved ::\1Rokii::{ user=12770065 } from **Probationary BN** to **BN**
+- 2022-06-18: Moved ::_Rokii::{ user=12770065 } from **Probationary BN** to **BN**
 - 2022-06-18: Moved ::FAMoss::{ user=7707789 } from **Probationary BN** to **BN**
-- 2022-06-27: Moved ::\1Sick\1Catcat::{ user=11544934 } from **Probationary BN** to **BN**
+- 2022-06-27: Moved ::[Sick]Catcat::{ user=11544934 } from **Probationary BN** to **BN**
 - 2022-06-28: Moved ::Eriha::{ user=16320311 } from **Probationary BN** to **BN**
 - 2022-06-28: Moved ::pupu5::{ user=7140680 } from **Probationary BN** to **BN**
 - 2022-06-29: Moved ::Myxo::{ user=2202645 } from **Probationary BN** to **BN**
 - 2022-06-29: Moved ::Didah::{ user=8030129 } from **Probationary BN** to **BN**
 - 2022-06-30: Moved ::Syrion-::{ user=15380643 } from **Probationary BN** to **BN**
-- 2022-06-30: Moved ::Rivals\17::{ user=4610379 } from **Probationary BN** to **BN**
+- 2022-06-30: Moved ::Rivals_7::{ user=4610379 } from **Probationary BN** to **BN**
 
 #### Removals
 
@@ -529,9 +529,9 @@ Abbreviations for user groups are used throughout this log:
 - 2022-11-02: Added ::ChillierPear::{ user=9501251 } to **Beatmap Spotlight Curators**
 - 2022-11-02: Added ::Axer::{ user=7299864 } to **Beatmap Spotlight Curators**
 - 2022-11-02: Added ::Antalf::{ user=8793773 } to **Beatmap Spotlight Curators**
-- 2022-11-02: Added ::\1Zeth\1::{ user=9912966 } to **Beatmap Spotlight Curators**
+- 2022-11-02: Added ::[Zeth]::{ user=9912966 } to **Beatmap Spotlight Curators**
 - 2022-11-08: Added ::Mipha-::{ user=5767941 } to **Project Loved Team**
-- 2022-11-08: Added ::\1Crz\1hinako1804::{ user=13747903 } to **Project Loved Team**
+- 2022-11-08: Added ::[Crz]hinako1804::{ user=13747903 } to **Project Loved Team**
 - 2022-11-08: Added ::Dusk-::{ user=6092181 } to **NAT**
 - 2022-11-08: Added ::Hivie::{ user=14102976 } to **NAT**
 - 2022-11-13: Added ::Remuring::{ user=6522146 } to **Project Loved Team**

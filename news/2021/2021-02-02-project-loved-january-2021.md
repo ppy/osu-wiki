@@ -97,7 +97,7 @@ osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::nyanmi-18
 
 [![](/wiki/shared/news/2021-02-02-project-loved-january-2021/taiko/1-ignite.jpg)](https://osu.ppy.sh/community/forums/topics/1239867)
 
-[Jeff Williams feat. Casey Lee Williams and Lamar Hall - Ignite](https://osu.ppy.sh/beatmapsets/1149489#taiko) by ::Skull Kid::{ user=3044264 } and ::7\17::{ user=7491106 }\
+[Jeff Williams feat. Casey Lee Williams and Lamar Hall - Ignite](https://osu.ppy.sh/beatmapsets/1149489#taiko) by ::Skull Kid::{ user=3044264 } and ::7_7::{ user=7491106 }\
 146 BPM, 4:01 | 8.18★\
 *description written by ::-Kazu-::{ user=920861 }*
 
@@ -121,7 +121,7 @@ A lot of the identity katagiri has as an artist is the usage of sampling over a 
 
 [![](/wiki/shared/news/2021-02-02-project-loved-january-2021/taiko/4-unmeiron.jpg)](https://osu.ppy.sh/community/forums/topics/1239864)
 
-[LUZE \* Emew. - Unmeiron](https://osu.ppy.sh/beatmapsets/1053540#taiko) by ::yassu-::{ user=7095592 }, ::7\17::{ user=7491106 }, ::Osamix::{ user=2999359 }, ::applerss::{ user=983349 }, ::Taka030::{ user=7563054 } and ::mysterfish::{ user=8824190 }\
+[LUZE \* Emew. - Unmeiron](https://osu.ppy.sh/beatmapsets/1053540#taiko) by ::yassu-::{ user=7095592 }, ::7_7::{ user=7491106 }, ::Osamix::{ user=2999359 }, ::applerss::{ user=983349 }, ::Taka030::{ user=7563054 } and ::mysterfish::{ user=8824190 }\
 85 – 170 BPM, 2:43 | 3.57★ – 8.85★\
 *description written by ::POCARI SWEAT::{ user=5082685 }*
 

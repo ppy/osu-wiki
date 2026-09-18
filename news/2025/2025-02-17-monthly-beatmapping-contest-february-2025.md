@@ -50,7 +50,7 @@ The playlists will be open for **2 weeks**. Get started already.
 
 ::fowwo::{ user=4547551 }'s perseverance has paid off. **5 years** and **18 map submissions** later, fowwo has joined the hall of fame as one of osu!'s well-deserving *Elite Mappers*!
 
-And of course, send some appreciation to ::Daycore::{ user=5596337 }, ::\1-Evil-\1::{ user=10234313 }, ::iBell::{ user=4298072 }, ::fllecc::{ user=14060327 }, ::Kataryn::{ user=19044162 }, and ::Rumia-::{ user=1787171 } for judging this month's maps!
+And of course, send some appreciation to ::Daycore::{ user=5596337 }, ::[-Evil-]::{ user=10234313 }, ::iBell::{ user=4298072 }, ::fllecc::{ user=14060327 }, ::Kataryn::{ user=19044162 }, and ::Rumia-::{ user=1787171 } for judging this month's maps!
 
 ### osu!mania results
 

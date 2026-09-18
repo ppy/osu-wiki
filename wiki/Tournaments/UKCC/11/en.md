@@ -68,7 +68,7 @@ See the [signups sheet](https://docs.google.com/spreadsheets/d/1eQsZnSalFvgeB5ti
 | #12 | **bare close to the camera innit** | ::{ flag=GB }:: ::Harpy::{ user=6761714 }, ::{ flag=GB }:: ::bassline junkie::{ user=17678190 } |
 | #13 | **Washed Warriors** | ::{ flag=GB }:: ::Rinnu::{ user=12179012 }, ::{ flag=GB }:: ::-Monki-::{ user=14121149 } |
 | #14 | **Mindmeister107** | ::{ flag=HK }:: ::mindmaster107::{ user=8819496 }, ::{ flag=GG }:: ::WoodMeister::{ user=10758866 } |
-| #15 | **Deflated squidward 2** | ::{ flag=GB }:: ::-Deeline::{ user=10121815 }, ::{ flag=GB }:: ::\1Nathan\1::{ user=4741293 } |
+| #15 | **Deflated squidward 2** | ::{ flag=GB }:: ::-Deeline::{ user=10121815 }, ::{ flag=GB }:: ::[Nathan]::{ user=4741293 } |
 | #16 | **stun seed** | ::{ flag=GB }:: ::Fwuffy::{ user=7374212 }, ::{ flag=GB }:: ::ZhiYo::{ user=9512841 } |
 | #17 | **The** | ::{ flag=GB }:: ::lystia::{ user=11042418 }, ::{ flag=GB }:: ::Kingling::{ user=7010761 } |
 | #18 | **the southern service to ore** | ::{ flag=GB }:: ::flubb::{ user=8211340 }, ::{ flag=GB }:: ::Xifan::{ user=9271492 } |

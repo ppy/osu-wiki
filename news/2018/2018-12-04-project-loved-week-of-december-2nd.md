@@ -96,7 +96,7 @@ With a fast-paced song comes an intense map from elchxyrlia. Coming in at 8.22 s
 
 [![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/osu/yava.jpg)](https://osu.ppy.sh/community/forums/topics/837088)
 
-[BABYMETAL - YAVA!](https://osu.ppy.sh/beatmapsets/476612#osu) by ::\1 Kohioma \1::{ user=4211859 }\
+[BABYMETAL - YAVA!](https://osu.ppy.sh/beatmapsets/476612#osu) by ::[ Kohioma ]::{ user=4211859 }\
 *written by ::waywern2012::{ user=5870453 }*
 
 This is an amazing mapset done by \[ Kohioma \] with an awesome BABYMETAL song, YAVA! This map has seen a large growth in favourites, with nearly 180 now, making this the creator's most popular mapset. With the song's slow parts and a combination of jumps in intense parts, this map plays very nicely in every difficulty, keeping players of any skill level thrilled!
@@ -140,7 +140,7 @@ Many of you may recognize this iconic scene from The Simpsons; it's an everlasti
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::-\1 ix Ishida xi \1-::{ user=242910 }, ::-Kazu-::{ user=920861 }, ::Backfire::{ user=263110 }, ::iceOC::{ user=5482401 } and ::nyanmi-1828::{ user=6866480 }! This week, all osu!taiko beatmap descriptions were written by ::Backfire::{ user=263110 }.
+osu!taiko Loved candidates were chosen by ::-[ ix Ishida xi ]-::{ user=242910 }, ::-Kazu-::{ user=920861 }, ::Backfire::{ user=263110 }, ::iceOC::{ user=5482401 } and ::nyanmi-1828::{ user=6866480 }! This week, all osu!taiko beatmap descriptions were written by ::Backfire::{ user=263110 }.
 
 ---
 

@@ -33,4 +33,4 @@ outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
 | ::{ flag=KR }:: ::Civil oath::{ user=3216107 } | 韓文、日文 |
 | ::{ flag=DE }:: ::Lyawi::{ user=5851253 } | 德文 |
 | ::{ flag=PH }:: ::Nathanael::{ user=2295078 } | 菲律賓文 |
-| ::{ flag=PL }:: ::spaceman\1atlas::{ user=3035836 } | 波蘭文 |
+| ::{ flag=PL }:: ::spaceman_atlas::{ user=3035836 } | 波蘭文 |

@@ -27,7 +27,7 @@ Mit Stand vom 11. Juli 2026 ist ::{ flag=AU }:: ::mrekk::{ user=7562902 } auf Pl
 
 ## ![][osu!taiko] osu!taiko
 
-Mit Stand vom 23. Juli 2026 ist ::{ flag=JP }:: ::Sinon\133::{ user=31148838 } auf Platz 1 der [osu!taiko Performance-Rangliste](https://osu.ppy.sh/rankings/taiko/performance).
+Mit Stand vom 23. Juli 2026 ist ::{ flag=JP }:: ::Sinon_33::{ user=31148838 } auf Platz 1 der [osu!taiko Performance-Rangliste](https://osu.ppy.sh/rankings/taiko/performance).
 
 ## ![][osu!catch] osu!catch
 

@@ -99,7 +99,7 @@ No parachutes attached.
 
 [![](/wiki/shared/news/2020-04-09-beatmap-spotlights-winter-2020/osu/haryo.jpg)](https://osu.ppy.sh/beatmapsets/576232)
 
-Being a slightly too early bird, ::milr\1::{ user=4485933 } has created a wonderful mapset for Azu’s Haryu, the song of the dragon of spring (not winter).
+Being a slightly too early bird, ::milr_::{ user=4485933 } has created a wonderful mapset for Azu’s Haryu, the song of the dragon of spring (not winter).
 
 The highest difficulty, mapped by Down, features the conventional and effective patterning. Prioritizing aesthetics, they made sure that every pattern is equidistant to one another, making the map extremely clean and well-presented. milr_'s range of difficulties are not beyond note - they remain pleasing to the eye and truly shine in exemplifying well-thought out movement design. This couples extremely well with an abundance of round slider shapes. This visual and movement concept is implemented across lower difficulties, allowing a bigger part of the playerbase to experience this niche idea.
 

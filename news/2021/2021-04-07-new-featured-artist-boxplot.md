@@ -47,7 +47,7 @@ Bang drums to [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1103353]) crea
 
 ### Boxplot - Escape With The Clouds (V.I.P)
 
-Check out [this new rendition of a classic](https://osu.ppy.sh/beatmapsets/1340790) hosted by ::Spy\1RO::{ user=10772404 }!
+Check out [this new rendition of a classic](https://osu.ppy.sh/beatmapsets/1340790) hosted by ::Spy_RO::{ user=10772404 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/154/Escape%20With%20the%20Clouds%20(V.I.P)/Boxplot%20-%20Escape%20With%20the%20Clouds%20(V.I.P).mp3" type="audio/mpeg">

@@ -47,9 +47,9 @@ Corgi Cup VI was run by various community members.
 | Host | ::{ flag=GB }:: ::Doomsday::{ user=18983 }, ::{ flag=GB }:: ::Yazzehh::{ user=7068973 } |
 | Mappool selector | ::{ flag=GB }:: ::Doomsday::{ user=18983 }, ::{ flag=GB }:: ::Bubbleman::{ user=5182050 }, ::{ flag=AU }:: ::Kano::{ user=3036203 } |
 | Streamer | ::{ flag=GB }:: ::Doomsday::{ user=18983 }, ::{ flag=GB }:: ::Kingling::{ user=7010761 } |
-| Commentator | ::{ flag=GB }:: ::Doomsday::{ user=18983 }, ::{ flag=FI }:: ::Mara::{ user=194294 }, ::{ flag=GB }:: ::Insp1r3::{ user=7131254 }, ::{ flag=GB }:: ::Bae-::{ user=6576972 }, ::{ flag=SE }:: ::Kotayo::{ user=1730025 }, ::{ flag=GB }:: ::sut\1son::{ user=9622163 } |
+| Commentator | ::{ flag=GB }:: ::Doomsday::{ user=18983 }, ::{ flag=FI }:: ::Mara::{ user=194294 }, ::{ flag=GB }:: ::Insp1r3::{ user=7131254 }, ::{ flag=GB }:: ::Bae-::{ user=6576972 }, ::{ flag=SE }:: ::Kotayo::{ user=1730025 }, ::{ flag=GB }:: ::sut_son::{ user=9622163 } |
 | Designer | ::{ flag=GB }:: ::Doomsday::{ user=18983 }, ::{ flag=GB }:: ::Doomsday is Bad::{ user=3481378 } |
-| Referee | ::{ flag=GB }:: ::Yazzehh::{ user=7068973 }, ::{ flag=US }:: ::this1neguy::{ user=1797189 }, ::{ flag=CH }:: ::Icerite::{ user=7226287 }, ::{ flag=US }:: ::dblade::{ user=4272841 }, ::{ flag=FR }:: ::Mimir::{ user=7382734 }, ::{ flag=MA }:: ::clorox\11g::{ user=9702728 }, ::{ flag=NL }:: ::nik::{ user=10077264 } |
+| Referee | ::{ flag=GB }:: ::Yazzehh::{ user=7068973 }, ::{ flag=US }:: ::this1neguy::{ user=1797189 }, ::{ flag=CH }:: ::Icerite::{ user=7226287 }, ::{ flag=US }:: ::dblade::{ user=4272841 }, ::{ flag=FR }:: ::Mimir::{ user=7382734 }, ::{ flag=MA }:: ::clorox_1g::{ user=9702728 }, ::{ flag=NL }:: ::nik::{ user=10077264 } |
 | Statistician | ::{ flag=NO }:: ::YokesPai::{ user=6399568 } |
 
 ## Links

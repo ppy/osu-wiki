@@ -95,7 +95,7 @@ Mew captures this style of mapping perfectly, with the combination of drum-like 
 
 [![](/wiki/shared/news/2020-06-21-project-loved-june-2020/taiko/2-energy-night.jpg)](https://osu.ppy.sh/community/forums/topics/1092776)
 
-[KAH - energy night](https://osu.ppy.sh/beatmapsets/1163432#taiko) by ::\_MMMMMM\1MMMMMM\_::{ user=8959673 }, ::juanilp4evr::{ user=6413125 } and ::Axer::{ user=7299864 }\
+[KAH - energy night](https://osu.ppy.sh/beatmapsets/1163432#taiko) by ::\_MMMMMM_MMMMMM\_::{ user=8959673 }, ::juanilp4evr::{ user=6413125 } and ::Axer::{ user=7299864 }\
 156 BPM, 2:16 | 5.59★, 5.98★, 6.06★\
 *description written by ::-Kazu-::{ user=920861 }*
 

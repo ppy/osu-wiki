@@ -40,8 +40,8 @@ The Ascaveth Invitational Tournament 2023 was run by various osu! community memb
 | Mappool helper | ::{ flag=ID }:: ::Ascaveth::{ user=3245206 }, ::{ flag=ID }:: ::Niva::{ user=197805 }, ::{ flag=ID }:: ::Raids::{ user=15640966 } |
 | Custom mapper | ::{ flag=ID }:: ::Sunohara Shun::{ user=3484548 }, ::{ flag=ID }:: ::Crezz::{ user=7108275 }, ::{ flag=ID }:: ::Raids::{ user=15640966 }, ::{ flag=ID }:: ::jiwoas::{ user=10778215 } |
 | Playtester | ::{ flag=MY }:: ::Laphii::{ user=9364594 } |
-| Streamer | ::{ flag=ID }:: ::Ascaveth::{ user=3245206 }, ::{ flag=ID }:: ::Victim\1Crasher::{ user=2084869 }, ::{ flag=MY }:: ::Laphii::{ user=9364594 } |
-| Commentator | ::{ flag=ID }:: ::Ascaveth::{ user=3245206 }, ::{ flag=ID }:: ::Sunohara Shun::{ user=3484548 }, ::{ flag=ID }:: ::Niva::{ user=197805 }, ::{ flag=ID }:: ::Victim\1Crasher::{ user=2084869 }, ::{ flag=ID }:: ::BlankTap::{ user=10137131 }, ::{ flag=ID }:: ::Seox::{ user=3793938 } |
+| Streamer | ::{ flag=ID }:: ::Ascaveth::{ user=3245206 }, ::{ flag=ID }:: ::Victim_Crasher::{ user=2084869 }, ::{ flag=MY }:: ::Laphii::{ user=9364594 } |
+| Commentator | ::{ flag=ID }:: ::Ascaveth::{ user=3245206 }, ::{ flag=ID }:: ::Sunohara Shun::{ user=3484548 }, ::{ flag=ID }:: ::Niva::{ user=197805 }, ::{ flag=ID }:: ::Victim_Crasher::{ user=2084869 }, ::{ flag=ID }:: ::BlankTap::{ user=10137131 }, ::{ flag=ID }:: ::Seox::{ user=3793938 } |
 | Referee | ::{ flag=ID }:: ::Intel21::{ user=1272422 }, ::{ flag=ID }:: ::YaeMyMommy::{ user=17278897 }, ::{ flag=ID }:: ::lucidators::{ user=10154981 }, ::{ flag=ID }:: ::-\[ Shinraa \]-::{ user=26942053 }, ::{ flag=ID }:: ::WoodenPickaxe::{ user=14463105 }, ::{ flag=ID }:: ::Artaa27::{ user=12085864 } |
 | Graphic designer | ::{ flag=ID }:: ::Zavier::{ user=11379592 }, ::{ flag=ID }:: ::Nexa-::{ user=6155896 } |
 | Spreadsheet manager | ::{ flag=ID }:: ::Sunohara Shun::{ user=3484548 } |

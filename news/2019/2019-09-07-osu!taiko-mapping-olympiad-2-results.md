@@ -17,7 +17,7 @@ For the inaugural [osu!taiko Mapping Olympiad contest](https://osu.ppy.sh/commun
 | #2 | ::**Nifty**::{ user=4956097 } | Pessimistic Raccoon | 24 | 23 | 23 | 23.5 | 24 | **117.5** |
 | #3 | ::**Volta**::{ user=4154071 } | Elastic Vole | 22.8 | 22.5 | 27 | 10.5 | 23.5 | **106.3** |
 | #4 | ::**Nishizumi**::{ user=2496768 } | Monumental Chipmunk | 20.5 | 22.2 | 18.2 | 18.8 | 18 | **97.7** |
-| #5 | ::**\1R\1**::{ user=3577322 } | Wrong Bat | 21.2 | 23 | 22.5 | 8 | 19 | **93.7** |
+| #5 | ::**[R]**::{ user=3577322 } | Wrong Bat | 21.2 | 23 | 22.5 | 8 | 19 | **93.7** |
 | #6 | ::**sing216**::{ user=6096445 } | Average Elephant | 20 | 22.9 | 18 | 14.2 | 18 | **93.1** |
 | #7 | ::**-Kazu-**::{ user=920861 } | Intelligent Lion | 21.5 | 18.5 | 21.5 | 15 | 15.5 | **92** |
 | #8 | ::**Zetera**::{ user=587737 } | Robust Whale | 19 | 21 | 18.5 | 18 | 15 | **91.5** |

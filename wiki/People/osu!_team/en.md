@@ -34,7 +34,7 @@ The people listed below are the core of the **osu! team** and are chiefly respon
 | ::{ flag=CN }:: ::Sakura006::{ user=10365024 } | [World Cup](/wiki/Tournaments#official-world-cups) design coordinator |
 | ::{ flag=FR }:: ::Shiro::{ user=113005 } | General housekeeper |
 | ::{ flag=AU }:: ::smoogipoo::{ user=1040328 } | osu! developer, osu!mania lover, bug buster |
-| ::{ flag=PL }:: ::spaceman\1atlas::{ user=3035836 } | osu! developer, technical support |
+| ::{ flag=PL }:: ::spaceman_atlas::{ user=3035836 } | osu! developer, technical support |
 | ::{ flag=GB }:: ::Tanza::{ user=10379965 } | Designer |
 | ::{ flag=FR }:: ::ThePooN::{ user=718454 } | osu! infrastructure developer |
 | ::{ flag=ES }:: ::Trosk-::{ user=3469385 } | General housekeeper, tournament support, THE OPERATOR |

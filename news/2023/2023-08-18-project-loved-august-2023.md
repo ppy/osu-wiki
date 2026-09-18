@@ -35,11 +35,11 @@ Last month, we announced that the Project Loved osu!mania 4K team was accepting 
 - ::SunApple::{ user=11817622 }
 - ::elexire::{ user=9206093 }
 
-On top of the aforementioned additions, we would also like to welcome ::MegaMix\1Craft::{ user=18152711 } to the Project Loved Team as well, as they are joining the team as a description reviewer to help ensure the quality of Project Loved news posts & captain descriptions!
+On top of the aforementioned additions, we would also like to welcome ::MegaMix_Craft::{ user=18152711 } to the Project Loved Team as well, as they are joining the team as a description reviewer to help ensure the quality of Project Loved news posts & captain descriptions!
 
 Welcome aboard, and we hope to see some great results from our newest additions to the Project Loved Team!
 
-With all good things, however, they must always come to an end. ::\1underjoy::{ user=2235750 }, one of the most dedicated and longest-standing osu!mania captains in Project Loved's history, having left and rejoined the team before, has announced that they are resigning from their position as osu!mania captain to make way for the 4 new additions. On behalf of the Project Loved Team, thank you for your contributions to the project & team, and we wish you the very best on your future endeavors.
+With all good things, however, they must always come to an end. ::_underjoy::{ user=2235750 }, one of the most dedicated and longest-standing osu!mania captains in Project Loved's history, having left and rejoined the team before, has announced that they are resigning from their position as osu!mania captain to make way for the 4 new additions. On behalf of the Project Loved Team, thank you for your contributions to the project & team, and we wish you the very best on your future endeavors.
 
 We don't have any more news to share regarding Project Loved, so let's get into the picks for August 2023:
 
@@ -253,7 +253,7 @@ I definitely recommend giving this map a try if you are into tech challenges. Pe
 
 [![](/wiki/shared/news/2023-08-18-project-loved-august-2023/1339179.jpg)](https://osu.ppy.sh/community/forums/topics/1809698)
 
-[TUYU - It's Raining After All](https://osu.ppy.sh/beatmapsets/1339179#taiko) by ::Jerry::{ user=605973 }, ::\_Rise::{ user=5217107 }, ::A-40::{ user=14510301 }, ::cdh::{ user=2403621 }, ::Hivie::{ user=14102976 }, ::Jaltzu::{ user=2597417 }, ::taiko\1maniac1811::{ user=595764 }, ::Waribashi::{ user=2250574 }, ::X a v y::{ user=3738344 }, and ::yassu-::{ user=7095592 }\
+[TUYU - It's Raining After All](https://osu.ppy.sh/beatmapsets/1339179#taiko) by ::Jerry::{ user=605973 }, ::\_Rise::{ user=5217107 }, ::A-40::{ user=14510301 }, ::cdh::{ user=2403621 }, ::Hivie::{ user=14102976 }, ::Jaltzu::{ user=2597417 }, ::taiko_maniac1811::{ user=595764 }, ::Waribashi::{ user=2250574 }, ::X a v y::{ user=3738344 }, and ::yassu-::{ user=7095592 }\
 130 – 175 BPM, 34:55 | 3.04★ – 6.66★\
 *description written by ::ler1211::{ user=19901680 }*
 

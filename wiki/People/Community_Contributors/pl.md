@@ -118,7 +118,7 @@ W porównaniu do [Alumni osu!](/wiki/People/osu!_Alumni), czyli byłych członk�
 | ::{ flag=AU }:: ::Syrin::{ user=5701575 } | Stworzenie aplikacji PerformancePlus i osu!chan. |
 | ::{ flag=SG }:: ::Raveille::{ user=1388767 } | Znaczący wkład w produkcję i publikację projektu Scorewatch. |
 | ::{ flag=FR }:: ::ThePooN::{ user=718454 } | Znaczący wkład w produkcję i publikację projektu Scorewatch. |
-| ::{ flag=US }:: ::MegaApple\1Pi::{ user=2148208 } | Znaczący wkład w poszerzanie wiki osu! niezliczonymi zmianami, przeróbkami i recenzjami. |
+| ::{ flag=US }:: ::MegaApple_Pi::{ user=2148208 } | Znaczący wkład w poszerzanie wiki osu! niezliczonymi zmianami, przeróbkami i recenzjami. |
 | ::{ flag=PL }:: ::TPGPL::{ user=3944705 } | Fundament wiki osu!, znaczący wkład przez lata. |
 
 ## 2019

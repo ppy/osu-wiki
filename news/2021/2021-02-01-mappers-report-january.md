@@ -57,7 +57,7 @@ Another year, another wave of Beatmap Nominators! As with every issue, here's wh
 - **osu!:** ::Okoratu::{ user=1623405 }
 - **osu!taiko:** ::Greenshell::{ user=8693851 }
 - **osu!catch:** ::JierYagtama::{ user=7483452 } & ::-Joni-::{ user=9988837 }
-- **osu!mania:** ::Rivals\17::{ user=4610379 } & ::Voxa::{ user=9229539 }
+- **osu!mania:** ::Rivals_7::{ user=4610379 } & ::Voxa::{ user=9229539 }
 
 Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator! The applications are always open.
 

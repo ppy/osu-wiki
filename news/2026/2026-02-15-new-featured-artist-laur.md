@@ -69,7 +69,7 @@ Give your best attempt on [this 4K marathon](https://osu.ppy.sh/beatmapsets/2204
 
 Play one (or all) of these:
 
-- [osu! marathon](https://osu.ppy.sh/beatmapsets/840447) by ::J1\1::{ user=5918561 }
+- [osu! marathon](https://osu.ppy.sh/beatmapsets/840447) by ::J1_::{ user=5918561 }
 - [Another osu! marathon](https://osu.ppy.sh/beatmapsets/872448) by ::Hishiro Chizuru::{ user=8402897 }
 - [Yet another osu! marathon](https://osu.ppy.sh/beatmapsets/1804855) by ::Shinjuko::{ user=10558466 }
 - [An osu!catch marathon](https://osu.ppy.sh/beatmapsets/1213868) by ::Secre::{ user=2306637 }

@@ -45,8 +45,8 @@ UCUP 2021 was run by various osu! community members predominantly hailing from I
 | Host | ::{ flag=ID }:: ::Fre::{ user=3484548 } |
 | Supervisor | ::{ flag=ID }:: ::Raids::{ user=15640966 }, ::{ flag=ID }:: ::Tama-desu::{ user=3813174 }, ::{ flag=ID }:: ::honeymint::{ user=4796773 }, ::{ flag=ID }:: ::phizh::{ user=4569302 } |
 | Mappool selector | ::{ flag=ID }:: ::Fre::{ user=3484548 }, ::{ flag=ID }:: ::Raids::{ user=15640966 } |
-| Streamer | ::{ flag=ID }:: ::Fre::{ user=3484548 }, ::{ flag=ID }:: ::Victim\1Crasher::{ user=2084869 }, ::{ flag=ID }:: ::Alice Pi::{ user=8787324 }, ::{ flag=CA }:: ::PuffedKirby::{ user=19165524 } |
-| Commentator | ::{ flag=ID }:: ::Fre::{ user=3484548 }, ::{ flag=ID }:: ::Victim\1Crasher::{ user=2084869 }, ::{ flag=ID }:: ::Ascaveth::{ user=3245206 }, ::{ flag=ID }:: ::Seox::{ user=3793938 }, ::{ flag=ID }:: ::Remuru::{ user=3654220 } |
+| Streamer | ::{ flag=ID }:: ::Fre::{ user=3484548 }, ::{ flag=ID }:: ::Victim_Crasher::{ user=2084869 }, ::{ flag=ID }:: ::Alice Pi::{ user=8787324 }, ::{ flag=CA }:: ::PuffedKirby::{ user=19165524 } |
+| Commentator | ::{ flag=ID }:: ::Fre::{ user=3484548 }, ::{ flag=ID }:: ::Victim_Crasher::{ user=2084869 }, ::{ flag=ID }:: ::Ascaveth::{ user=3245206 }, ::{ flag=ID }:: ::Seox::{ user=3793938 }, ::{ flag=ID }:: ::Remuru::{ user=3654220 } |
 | Referee | ::{ flag=ID }:: ::Fre::{ user=3484548 }, ::{ flag=ID }:: ::Raids::{ user=15640966 }, ::{ flag=ID }:: ::YaeMyMommy::{ user=17278897 }, ::{ flag=ID }:: ::Xicyte::{ user=10212581 }, ::{ flag=ID }:: ::Deorum::{ user=5933031 }, ::{ flag=ID }:: ::NoVaLian::{ user=6459827 }, ::{ flag=ID }:: ::CubeixID200::{ user=10678919 }, ::{ flag=ID }:: ::Bunan-::{ user=2763354 }, ::{ flag=ID }:: ::Fyl::{ user=10069307 }, ::{ flag=ID }:: ::Yovifikri::{ user=3416659 }, ::{ flag=CA }:: ::I-Flame::{ user=11257542 }, ::{ flag=CA }:: ::wolfflow11::{ user=14491879 }, ::{ flag=HK }:: ::ShadeCegLgMn::{ user=12609866 }, ::{ flag=SG }:: ::Fuwub::{ user=14238097 } |
 | Graphic designer | ::{ flag=ID }:: ::sho::{ user=6625422 } |
 | Spreadsheet manager | ::{ flag=ID }:: ::Fre::{ user=3484548 }, ::{ flag=ID }:: ::phizh::{ user=4569302 } |

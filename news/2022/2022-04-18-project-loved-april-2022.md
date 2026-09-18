@@ -208,7 +208,7 @@ For those who want to play this very unique song but find the higher-density sna
 
 [![](/wiki/shared/news/2022-04-18-project-loved-april-2022/1351301.jpg)](https://osu.ppy.sh/community/forums/topics/1561104)
 
-[Kozakai Yurie, Oomori Nichika, Hasegawa Rena - Hyper Bass feat. Yunomi (7_7 bootleg)](https://osu.ppy.sh/beatmapsets/1351301#taiko) by ::EJ\1\_::{ user=7453536 }\
+[Kozakai Yurie, Oomori Nichika, Hasegawa Rena - Hyper Bass feat. Yunomi (7_7 bootleg)](https://osu.ppy.sh/beatmapsets/1351301#taiko) by ::EJ_\_::{ user=7453536 }\
 190 BPM, 2:32 | 6.45★, 6.45★\
 *description written by ::KuroKuroKuro::{ user=11931563 }*
 
@@ -338,7 +338,7 @@ Don't be too disappointed by the lack of pp from the Loved section (no one needs
 
 [![](/wiki/shared/news/2022-04-18-project-loved-april-2022/267041.jpg)](https://osu.ppy.sh/community/forums/topics/1561093)
 
-[Kobaryo - 3rd Eye In Breast](https://osu.ppy.sh/beatmapsets/267041#mania) by ::akuma123::{ user=914472 }, ::blazziken\1old::{ user=2544313 } and ::Skalim::{ user=2225008 }\
+[Kobaryo - 3rd Eye In Breast](https://osu.ppy.sh/beatmapsets/267041#mania) by ::akuma123::{ user=914472 }, ::blazziken_old::{ user=2544313 } and ::Skalim::{ user=2225008 }\
 208 BPM, 2:41 | 1.89★ – 5.39★\
 *description written by ::Penguinosity::{ user=10235296 }*
 

@@ -99,15 +99,15 @@ Created by the joint prowess of 2 mapping titans ::HiroK::{ user=4050738 } and :
 Finalists:
 
 - [**BilliumMoto & Dictate - 1KARUGA**](https://osu.ppy.sh/beatmapsets/1976834) by ::**HiroK**::{ user=4050738 } with **16** votes.
-- [**linear ring - lovely, lovely minute**](https://osu.ppy.sh/beatmapsets/1908858) by ::**\1Rise**::{ user=5217107 } with **14** votes.
+- [**linear ring - lovely, lovely minute**](https://osu.ppy.sh/beatmapsets/1908858) by ::**_Rise**::{ user=5217107 } with **14** votes.
 - [**4nzu - ENIGMA ZAG**](https://osu.ppy.sh/beatmapsets/1925165) by ::**Genjuro**::{ user=3196091 } with **14** votes.
-- [**96-glass - Who's In Da House**](https://osu.ppy.sh/beatmapsets/1930556) by ::**\1Rise**::{ user=5217107 } with **13** votes.
+- [**96-glass - Who's In Da House**](https://osu.ppy.sh/beatmapsets/1930556) by ::**_Rise**::{ user=5217107 } with **13** votes.
 - [**25-ji, Nightcord de. - Non-breath oblige**](https://osu.ppy.sh/beatmapsets/1898417) by ::**cdh**::{ user=2403621 } with **13** votes.
 - [**sepiarecorders - \*\*\*\*\*\***](https://osu.ppy.sh/beatmapsets/2069665) by ::**cdh**::{ user=2403621 } with **11** votes.
 - [**Boaz Sound Team "ptar124" - How do you pronounce Boaz?**](https://osu.ppy.sh/beatmapsets/1832938) by ::**ptar124**::{ user=4325444 } with **11** votes.
 - [**seatrus - ILLEGAL LEGACY**](https://osu.ppy.sh/beatmapsets/1934878) by ::**\[Zeth\]**::{ user=9912966 } with **11** votes.
 - [**Camellia - Kamah (Scythe)**](https://osu.ppy.sh/beatmapsets/1908845) by ::**Ph0eNiiXZ**::{ user=9463721 } with **11** votes.
-- [**Frums - Yoku**](https://osu.ppy.sh/beatmapsets/2033762) by ::**\1Rise**::{ user=5217107 } with **11** votes.
+- [**Frums - Yoku**](https://osu.ppy.sh/beatmapsets/2033762) by ::**_Rise**::{ user=5217107 } with **11** votes.
 
 ## osu!catch
 
@@ -141,12 +141,12 @@ Who knew that 1 single stream can steal so many hearts? [**Jea - snows \~Soshite
 Finalists:
 
 - [**Jea - snows \~Soshite Kiseki\~**](https://osu.ppy.sh/beatmapsets/1960673) by ::**Rocma**::{ user=566276 } with **9** votes.
-- [**Frums - Pictured as Perfect and Plus**](https://osu.ppy.sh/beatmapsets/1897431) by ::**Unlucky\1w**::{ user=4820793 } with **7** votes.
+- [**Frums - Pictured as Perfect and Plus**](https://osu.ppy.sh/beatmapsets/1897431) by ::**Unlucky_w**::{ user=4820793 } with **7** votes.
 - [**xi - Mjolnir**](https://osu.ppy.sh/beatmapsets/1550933) by ::**Jemzuu**::{ user=7890134 } with **7** votes.
 - [**kanemiko - comet casting capsule ("catching celestial clusters" Long Version)**](https://osu.ppy.sh/beatmapsets/2055747) by ::**Kimitakari**::{ user=4741164 } with **7** votes.
 - [**DJ Raisei - Delta23**](https://osu.ppy.sh/beatmapsets/1923443) by ::**Jemzuu**::{ user=7890134 } with **7** votes.
 - [**Lime - BEYOND**](https://osu.ppy.sh/beatmapsets/1938940) by ::**GiGas**::{ user=7300747 } with **7** votes.
-- [**Camellia - CICADA3302**](https://osu.ppy.sh/beatmapsets/2097061) by ::**Unlucky\1w**::{ user=4820793 } with **7** votes.
+- [**Camellia - CICADA3302**](https://osu.ppy.sh/beatmapsets/2097061) by ::**Unlucky_w**::{ user=4820793 } with **7** votes.
 - [**Camellia feat. Camellia - Ashed Wings**](https://osu.ppy.sh/beatmapsets/1907655) by ::**Rocma**::{ user=566276 } with **6** votes.
 - [**CustomiZ - COOLEST (TV Size)**](https://osu.ppy.sh/beatmapsets/2054394) by ::**Ascendance**::{ user=2931883 } with **6** votes.
 - [**Camellia - Fly Wit Me**](https://osu.ppy.sh/beatmapsets/1613644) by ::**-Ken**::{ user=4430811 } with **6** votes.
@@ -168,7 +168,7 @@ Finalists:
 - [**Aiobahn feat. KOTOKO - INTERNET YAMERO**](https://osu.ppy.sh/beatmapsets/1962727) by ::**FLeVI**::{ user=12519616 } with **196** votes.
 - [**Frums - HALL**](https://osu.ppy.sh/beatmapsets/2055332) by ::**guden**::{ user=11626065 } with **186** votes.
 - [**Cres - End Time**](https://osu.ppy.sh/beatmapsets/1766740) by ::**Seiran-**::{ user=14351534 } with **157** votes.
-- [**D-D-Dice vs. siromaru - Catch the Glory**](https://osu.ppy.sh/beatmapsets/1797184) by ::**\1GB\1V1do**::{ user=17527968 } with **149** votes.
+- [**D-D-Dice vs. siromaru - Catch the Glory**](https://osu.ppy.sh/beatmapsets/1797184) by ::**[GB]V1do**::{ user=17527968 } with **149** votes.
 - [**xi - FREEDOM DiVE**](https://osu.ppy.sh/beatmapsets/1908399) by ::**Touru0711**::{ user=8625854 } with **138** votes.
 - [**Camellia feat. Nanahira - finorza**](https://osu.ppy.sh/beatmapsets/1930425) by ::**DenYi**::{ user=14998645 } with **127** votes.
 - [**youman feat. GUMI - Weenywalker**](https://osu.ppy.sh/beatmapsets/1933536) by ::**-mint-**::{ user=8976576 } with **126** votes.
@@ -191,7 +191,7 @@ Finalists:
 - [**Silentroom vs. Frums - Aegleseeker ("Afterworld" Full Version)**](https://osu.ppy.sh/beatmapsets/1868798) by ::**Blocko**::{ user=4075092 } with **16** votes.
 - [**DeltaH, Gardens, glasse, Musature, Myntian, Sad Keyboard Guy - Rite of Ascendancy**](https://osu.ppy.sh/beatmapsets/1908304) by ::**FLeVI**::{ user=12519616 } with **16** votes.
 - [**Aquellex - Cortex Charger**](https://osu.ppy.sh/beatmapsets/2062236) by ::**Halogen-**::{ user=169992 } with **16** votes.
-- [**HyuN feat. Sennzai - Duplicity Shade**](https://osu.ppy.sh/beatmapsets/1698284) by ::**\1underjoy**::{ user=2235750 } with **15** votes.
+- [**HyuN feat. Sennzai - Duplicity Shade**](https://osu.ppy.sh/beatmapsets/1698284) by ::**_underjoy**::{ user=2235750 } with **15** votes.
 
 ---
 

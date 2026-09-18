@@ -135,8 +135,8 @@ What I feel that stands out the most in this map is how Rizqy manages to pull of
 Congratulations to the winners of the February 2016 Ranking Charts. They receive a month of supporter status for their efforts!
 
 - **osu! standard:** ::Okinotori::{ user=4346274 }
-- **Taiko:** ::\1yu68::{ user=6170507 }
-- **Catch the Beat:** ::\1Asriel::{ user=566276 }
+- **Taiko:** ::_yu68::{ user=6170507 }
+- **Catch the Beat:** ::_Asriel::{ user=566276 }
 - **osu!mania:** ::Cryolien::{ user=1626983 }
 
 Good luck with the new charts! We'd love to hear any and all feedback you have about the new format and selection process for the charts - feel free to leave a comment below!

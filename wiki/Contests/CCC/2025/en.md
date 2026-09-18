@@ -34,11 +34,11 @@ The **Chinese Charting Contest 2025** (***CCC2025***) is an osu!mania mapping co
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ::{ flag=CN }:: ::\1Stan::{ user=1653229 } |
-| Manager | ::{ flag=CN }:: ::\1Stan::{ user=1653229 }, ::{ flag=CN }:: ::mafumafu::{ user=3076909 } |
-| Designer | ::{ flag=CN }:: ::\1Stan::{ user=1653229 }, ::{ flag=CN }:: ::AlexDunk::{ user=9194799 } |
+| Organiser | ::{ flag=CN }:: ::_Stan::{ user=1653229 } |
+| Manager | ::{ flag=CN }:: ::_Stan::{ user=1653229 }, ::{ flag=CN }:: ::mafumafu::{ user=3076909 } |
+| Designer | ::{ flag=CN }:: ::_Stan::{ user=1653229 }, ::{ flag=CN }:: ::AlexDunk::{ user=9194799 } |
 | Judge | ::{ flag=MY }:: ::AWMRone::{ user=10351684 }, ::{ flag=PH }:: ::lenpai::{ user=5374513 }, ::{ flag=ES }:: ::RandomeLoL::{ user=7080063 }, ::{ flag=CN }:: ::Seiran-::{ user=14351534 }, ::{ flag=KR }:: ::taba2::{ user=7850508 } |
-| Statistician | ::{ flag=CN }:: ::\1Crz\1Alleyne::{ user=11279273 } |
+| Statistician | ::{ flag=CN }:: ::[Crz]Alleyne::{ user=11279273 } |
 
 ## Links
 
@@ -65,7 +65,7 @@ The **Chinese Charting Contest 2025** (***CCC2025***) is an osu!mania mapping co
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") Winner | ::{ flag=CN }:: ::G1NYA::{ user=31767575 } |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") 2nd place | ::{ flag=CN }:: ::wIntEr7z::{ user=16509588 } |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") 3rd place | ::{ flag=CN }:: ::just a GRJ::{ user=29957843 } |
-| Participation Award (4th-5th) | ::{ flag=CN }:: ::tyrcs::{ user=13026904 }, ::{ flag=CN }:: ::Wings\1AnChen::{ user=12694894 } |
+| Participation Award (4th-5th) | ::{ flag=CN }:: ::tyrcs::{ user=13026904 }, ::{ flag=CN }:: ::Wings_AnChen::{ user=12694894 } |
 
 ## Ruleseta
 

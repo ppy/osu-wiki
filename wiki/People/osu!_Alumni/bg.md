@@ -28,7 +28,7 @@ no_native_review: true
 | ::{ flag=FI }:: ::Asphyxia::{ user=1715720 } | BAT, GMT, QAT |
 | ::{ flag=CN }:: ::Atrue::{ user=1758523 } | GMT |
 | ::{ flag=CA }:: ::awp::{ user=2650 } | GMT |
-| ::{ flag=AU }:: ::Azure\1Kite::{ user=66296 } | MAT |
+| ::{ flag=AU }:: ::Azure_Kite::{ user=66296 } | MAT |
 | ::{ flag=CN }:: ::Ballance::{ user=165946 } | Чат модератор |
 | ::{ flag=ES }:: ::Beuchi::{ user=67192 } | GMT |
 | ::{ flag=AU }:: ::Blaizer::{ user=62018 } | osu!dev |
@@ -178,7 +178,7 @@ no_native_review: true
 | ::{ flag=FI }:: ::Orkel::{ user=39385 } | Чат модератор |
 | ::{ flag=SG }:: ::Pasonia::{ user=43345 } | BAT |
 | ::{ flag=CA }:: ::Pawsu::{ user=2371454 } | GMT, Екип поддръжка |
-| ::{ flag=AU }:: ::phill\1old::{ user=53 } | BAT |
+| ::{ flag=AU }:: ::phill_old::{ user=53 } | BAT |
 | ::{ flag=NL }:: ::Pittigbaasje::{ user=2167433 } | GMT |
 | ::{ flag=HK }:: ::Pokie::{ user=207340 } | BAT |
 | ::{ flag=CN }:: ::popner::{ user=759860 } | BAT |
@@ -243,7 +243,7 @@ no_native_review: true
 | ::{ flag=US }:: ::yeahyeahyeahhh::{ user=58042 } | MAT |
 | ::{ flag=AU }:: ::YGOkid8::{ user=69114 } | BAT |
 | ::{ flag=CA }:: ::YTYuyu::{ user=660484 } | BAT |
-| ::{ flag=CN }:: ::Zero\1\1wind::{ user=1822830 } | BAT, GMT |
+| ::{ flag=CN }:: ::Zero__wind::{ user=1822830 } | BAT, GMT |
 | ::{ flag=CA }:: ::Zerostarry::{ user=3480 } | BAT |
 | ::{ flag=DE }:: ::Zetera::{ user=587737 } | GMT |
 | ::{ flag=SG }:: ::ZHSteven::{ user=142413 } | BAT |

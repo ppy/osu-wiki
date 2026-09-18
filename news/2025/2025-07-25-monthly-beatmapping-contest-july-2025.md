@@ -31,10 +31,10 @@ This article covers results from the last contest, plus criteria for this contes
 
 | Placement | Users | Beatmap | Badge prize | Title prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Winner | ::\1gt::{ user=8301957 } | [Chroma - Destroy, Destroy, Destroy The Happy End](https://osu.ppy.sh/beatmapsets/2405450) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | *Elite Mapper* | +2 (7 total) |
+| Winner | ::_gt::{ user=8301957 } | [Chroma - Destroy, Destroy, Destroy The Happy End](https://osu.ppy.sh/beatmapsets/2405450) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | *Elite Mapper* | +2 (7 total) |
 | Runner-up | ::\_HeLLFly\_::{ user=14225226 } | [Ludicin - Echoes of Memoria](https://drive.google.com/file/d/1bQmCIqwXCQtFXM6E2firACSjqDVB_BYS/view?usp=drive_link) | - | - | +1 (1 total) |
 
-In [December 2023](https://osu.ppy.sh/home/news/2023-12-15-monthly-beatmapping-contest-december-2023), ::\1gt::{ user=8301957 } debuted as a Monthly Beatmapping Contest winner. [A few months later](https://osu.ppy.sh/home/news/2024-03-23-monthly-beatmapping-contest-march-2024), they were another Monthly Beatmapping Contest's runner-up. Nearly 2 years of hard work has finally paid off: welcome ::\1gt::{ user=8301957 } to the halls of osu!'s *Elite Mapper*s!
+In [December 2023](https://osu.ppy.sh/home/news/2023-12-15-monthly-beatmapping-contest-december-2023), ::_gt::{ user=8301957 } debuted as a Monthly Beatmapping Contest winner. [A few months later](https://osu.ppy.sh/home/news/2024-03-23-monthly-beatmapping-contest-march-2024), they were another Monthly Beatmapping Contest's runner-up. Nearly 2 years of hard work has finally paid off: welcome ::_gt::{ user=8301957 } to the halls of osu!'s *Elite Mapper*s!
 
 #### Top 10
 
@@ -52,10 +52,10 @@ And of course, we can't forget the judges who made this contest possible: ::arcp
 
 | Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| Winner | ::Unlucky\1w::{ user=4820793 } | [AQUASINE - you wouldn't download a bird.](https://drive.google.com/file/d/1MStVkeb8Wu66HWDZRqPVyvdP9YdY9WB6/view?usp=drive_link) | - | +2 (9 total) |
+| Winner | ::Unlucky_w::{ user=4820793 } | [AQUASINE - you wouldn't download a bird.](https://drive.google.com/file/d/1MStVkeb8Wu66HWDZRqPVyvdP9YdY9WB6/view?usp=drive_link) | - | +2 (9 total) |
 | Runner-up | ::Xinnoh::{ user=4236057 } | [EmoCosine - Love Kills U](https://osu.ppy.sh/beatmapsets/2405498) | - | +1 (3 total) |
 
-osu!catch's *Elite Mapper*s have proven themselves yet again. Congrats to ::Unlucky\1w::{ user=4820793 } and ::Xinnoh::{ user=4236057 }!
+osu!catch's *Elite Mapper*s have proven themselves yet again. Congrats to ::Unlucky_w::{ user=4820793 } and ::Xinnoh::{ user=4236057 }!
 
 #### Top 10
 

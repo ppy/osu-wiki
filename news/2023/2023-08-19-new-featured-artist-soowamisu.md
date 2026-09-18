@@ -80,7 +80,7 @@ Playlist leaders earn prizes based on [this cumulative leaderboard](/wiki/People
 
 | Rank | User | Points earned | Total points |
 | --: | :-- | :-- | :-- |
-| #1 | ::{ flag=JP }:: ::Grape\1Tea::{ user=9540073 } | **10** | **10** |
+| #1 | ::{ flag=JP }:: ::Grape_Tea::{ user=9540073 } | **10** | **10** |
 | #2 | ::{ flag=US }:: ::AuroraPhasmata::{ user=13664116 } | 5 | 5 |
 | #3 | ::{ flag=US }:: ::Arityle::{ user=18397349 } | 3 | 3 |
 | #4 | ::{ flag=JP }:: ::makimen::{ user=10869389 } | 2 | 2 |
@@ -96,7 +96,7 @@ Playlist leaders earn prizes based on [this cumulative leaderboard](/wiki/People
 | Rank | User | Points earned | Total points |
 | --: | :-- | :-- | :-- |
 | #1 | ::{ flag=KR }:: ::Spectator::{ user=702598 } | **10** | **10** |
-| #2 | ::{ flag=VN }:: ::\1 Primakien \1::{ user=23941998 } | 5 | 9 |
+| #2 | ::{ flag=VN }:: ::[ Primakien ]::{ user=23941998 } | 5 | 9 |
 | #3 | ::{ flag=RU }:: ::Kimitakari::{ user=4741164 } | 3 | 9 |
 | #4 | ::{ flag=BR }:: ::Predominador::{ user=4568537 } | 2 | 5 |
 | #5 | ::{ flag=PL }:: ::-Filow-::{ user=3157472 } | 2 | 2 |

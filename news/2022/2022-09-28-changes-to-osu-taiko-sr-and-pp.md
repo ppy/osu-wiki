@@ -164,7 +164,7 @@ Future changes will involve rhythm (which hasn't been touched in these changes s
 
 For people eager to dive into the technicalities of these upcoming changes, work-in-progress details are available [here](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit). If you would like to give feedback or help contribute, please join the [osu!dev Discord server](https://discord.gg/ppy) and direct your comments towards the `#difficulty-taiko` channel. Additionally, the dedicated [Performance Points Discord server](https://discord.gg/aqPCnXu) may be of interest if you wish to further discuss, contribute, or simply observe star rating and performance points development with a plate-sized magnifying glass.
 
-The osu!taiko pp committee would like to give a huge thank you towards osu!taiko community for the heavy amounts of surveying, testing and feedback during the process. Another big thank you goes to ::spaceman\1atlas::{ user=3035836 } and ::smoogipoo::{ user=1040328 } for helping to support and review the changes to the code.
+The osu!taiko pp committee would like to give a huge thank you towards osu!taiko community for the heavy amounts of surveying, testing and feedback during the process. Another big thank you goes to ::spaceman_atlas::{ user=3035836 } and ::smoogipoo::{ user=1040328 } for helping to support and review the changes to the code.
 
 While it's been a long wait, we hope that these changes will help you enjoy climbing the ranks, with pp that better reflects the difficulties of the beatmaps you know and love!
 

@@ -76,9 +76,9 @@ outdated_translation: true
 | ::{ flag=DE }:: | **德國A.** | **::Capu::{ user=2474015 }**, ::\[TaikoTori\]::{ user=1074143 }, ::QEpicAce::{ user=9489153 }, ::Siegmund99::{ user=5168596 }, ::xBourbon\_Kid::{ user=645775 } |
 | ::{ flag=DE }:: | **德國B.** | **::Aninoss::{ user=7364706 }**, ::Sayira::{ user=7253958 }, ::JanteSmith::{ user=371772 }, ::Naugustogi::{ user=6803970 } |
 | ::{ flag=HK }:: | **香港** | **::Brown918::{ user=9805760 }**, ::Cynplytholowazy::{ user=3901754 }, ::\[\_isolated\_\]::{ user=6187838 } |
-| ::{ flag=ID }:: | **印度尼西亞A.** | **::Mikurio::{ user=10734140 }**, ::misaki\1tk::{ user=3866964 }, ::steven1::{ user=3090416 }, ::Volta::{ user=4154071 } |
+| ::{ flag=ID }:: | **印度尼西亞A.** | **::Mikurio::{ user=10734140 }**, ::misaki_tk::{ user=3866964 }, ::steven1::{ user=3090416 }, ::Volta::{ user=4154071 } |
 | ::{ flag=ID }:: | **印度尼西亞B.** | **::Viewland::{ user=6250135 }**, ::Shirai-::{ user=4221845 }, ::Alwaysyukaz::{ user=4999506 }, ::ImChro::{ user=7280717 }, ::Ahmad Haris::{ user=6048245 } |
-| ::{ flag=JP }:: | **日本** | **::Briesmas::{ user=2865172 }**, ::autumndayo::{ user=12268857 }, ::TEL09016579767::{ user=3925121 }, ::shinnme\1ao::{ user=6252972 }, ::Ku\1Ren::{ user=2535243 } |
+| ::{ flag=JP }:: | **日本** | **::Briesmas::{ user=2865172 }**, ::autumndayo::{ user=12268857 }, ::TEL09016579767::{ user=3925121 }, ::shinnme_ao::{ user=6252972 }, ::Ku_Ren::{ user=2535243 } |
 | ::{ flag=MY }:: | **馬來西亞** | **::Bedwyr Aorta::{ user=10875855 }**, ::Megumin-Sama::{ user=6201335 }, ::Minisora::{ user=9627666 }, ::imnoobatosuosu::{ user=12086753 } |
 | ::{ flag=MX }:: | **墨西哥** | **::Iojioji::{ user=1346121 }**, ::ZaveryK::{ user=10913397 }, ::L\_CORTES\_01::{ user=12548363 } |
 | ::{ flag=NL }:: | **荷蘭** | **::Krekker::{ user=8265940 }**, ::Hypello::{ user=1594036 }, ::jesse-98::{ user=502722 }, ::StrijkIjzer::{ user=4130926 } |
@@ -87,7 +87,7 @@ outdated_translation: true
 | ::{ flag=RU }:: | **俄羅斯聯邦A.** | **::Nozdormu::{ user=7169208 }**, ::Akonine::{ user=7774222 }, ::pavlukivan::{ user=8321579 }, ::CrowWhite::{ user=8638977 }, ::TwinT::{ user=9976154 } |
 | ::{ flag=RU }:: | **俄羅斯聯邦B.** | **::-Rmdy::{ user=1933816 }**, ::JW-Dash::{ user=5285786 }, ::oserry::{ user=11973082 }, ::Starger::{ user=3398715 }, ::Crysally::{ user=7792131 } |
 | ::{ flag=DK }:: ::{ flag=NO }:: ::{ flag=SE }:: | **斯堪的納維亞** | **::Hana Hayashi::{ user=4601806 }**, ::1794766::{ user=1794766 }, ::Mills::{ user=7234023 }, ::KatLeNeko::{ user=10183710 }, ::mammasutter::{ user=11830625 } |
-| ::{ flag=KR }:: | **韓國** | **::POCARI-SWEAT::{ user=5082685 }**, ::bbj0920::{ user=87546 }, ::yuhuna\1kor::{ user=13046017 }, ::\[Akita-Neru\]::{ user=613944 }, ::TRAtOrTs::{ user=12481695 } |
+| ::{ flag=KR }:: | **韓國** | **::POCARI-SWEAT::{ user=5082685 }**, ::bbj0920::{ user=87546 }, ::yuhuna_kor::{ user=13046017 }, ::\[Akita-Neru\]::{ user=613944 }, ::TRAtOrTs::{ user=12481695 } |
 | ::{ flag=ES }:: | **西班牙** | **::naliem::{ user=3252709 }**, ::RuinedChicken::{ user=7983713 }, ::Machango::{ user=7180552 }, ::Nara\_NB::{ user=3593992 } |
 | ::{ flag=TW }:: | **台灣** | **::- DeveRUX -::{ user=2900875 }**, ::Hatsuse::{ user=697007 }, ::nw9v4g46::{ user=2169329 }, ::david649713::{ user=1390823 } |
 | ::{ flag=GB }:: ::{ flag=PT }:: | **英國/葡萄牙** | **::Metzo::{ user=10633982 }**, ::w1ll::{ user=11406987 }, ::Ali161102::{ user=7582420 }, ::Yumi\_Hideaki::{ user=10081162 } |

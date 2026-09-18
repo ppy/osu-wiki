@@ -41,11 +41,11 @@ The osu! Philippines Nationals 2022 - osu!mania 4K/7K was run by various communi
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=PH }:: ::SurfChu85::{ user=4469895 }, ::{ flag=PH }:: ::arccat::{ user=4848294 }, ::{ flag=PH }:: ::Silhoueska Elze::{ user=11517895 } |
-| Mappool selector (4K) | ::{ flag=PH }:: ::arccat::{ user=4848294 }, ::{ flag=US }:: ::\1GS\1Rose::{ user=9481266 }, ::{ flag=FR }:: ::Paturages::{ user=1375479 }, ::{ flag=PH }:: ::Silhoueska Elze::{ user=11517895 } |
+| Mappool selector (4K) | ::{ flag=PH }:: ::arccat::{ user=4848294 }, ::{ flag=US }:: ::[GS]Rose::{ user=9481266 }, ::{ flag=FR }:: ::Paturages::{ user=1375479 }, ::{ flag=PH }:: ::Silhoueska Elze::{ user=11517895 } |
 | Mappool selector (7K) | ::{ flag=PH }:: ::GTXCZE::{ user=9209185 }, ::{ flag=PH }:: ::lenpai::{ user=5314573 }, ::{ flag=PH }:: ::paulkappa::{ user=7115625 }, ::{ flag=PH }:: ::SurfChu85::{ user=4469895 } |
 | Referee | ::{ flag=PH }:: ::Aiery::{ user=10363380 }, ::{ flag=PH }:: ::Gerwin13::{ user=15776185 }, ::{ flag=PH }:: ::-Ichinose::{ user=12635292 }, ::{ flag=PH }:: ::Kyonkichi::{ user=7585544 }, ::{ flag=PH }:: ::Nosuri::{ user=2150415 }, ::{ flag=PH }:: ::SilentVoice::{ user=9570552 }, ::{ flag=PH }:: ::Silhoueska Elze::{ user=11517895 }, ::{ flag=PH }:: ::SurfChu85::{ user=4469895 }, ::{ flag=PH }:: ::topecnz::{ user=2103927 } |
 | Streamer | ::{ flag=PH }:: ::Aiery::{ user=10363380 }, ::{ flag=PH }:: ::paulkappa::{ user=7115625 } |
-| Commentator | ::{ flag=US }:: ::Dynascape::{ user=8784587 }, ::{ flag=MY }:: ::ERA Leon::{ user=13382147 }, ::{ flag=PH }:: ::\1KN\1Frossno::{ user=17480973 }, ::{ flag=PH }:: ::\1KN\1hana::{ user=14371401 }, ::{ flag=PH }:: ::Itawachi::{ user=12929973 }, ::{ flag=PH }:: ::\1KN\1Lazereed::{ user=12894120 }, ::{ flag=PH }:: ::\1KN\1Lordieee::{ user=10010130 }, ::{ flag=PH }:: ::MCJze::{ user=14559339 }, ::{ flag=PH }:: ::\1KN\1Melancholy::{ user=11306351 }, ::{ flag=US }:: ::PorkIsGreat::{ user=10756322 }, ::{ flag=PH }:: ::Silhoueska Elze::{ user=11517895 }, ::{ flag=PH }:: ::Steeeven::{ user=15503384 }, ::{ flag=PH }:: ::SurfChu85::{ user=4469895 } |
+| Commentator | ::{ flag=US }:: ::Dynascape::{ user=8784587 }, ::{ flag=MY }:: ::ERA Leon::{ user=13382147 }, ::{ flag=PH }:: ::[KN]Frossno::{ user=17480973 }, ::{ flag=PH }:: ::[KN]hana::{ user=14371401 }, ::{ flag=PH }:: ::Itawachi::{ user=12929973 }, ::{ flag=PH }:: ::[KN]Lazereed::{ user=12894120 }, ::{ flag=PH }:: ::[KN]Lordieee::{ user=10010130 }, ::{ flag=PH }:: ::MCJze::{ user=14559339 }, ::{ flag=PH }:: ::[KN]Melancholy::{ user=11306351 }, ::{ flag=US }:: ::PorkIsGreat::{ user=10756322 }, ::{ flag=PH }:: ::Silhoueska Elze::{ user=11517895 }, ::{ flag=PH }:: ::Steeeven::{ user=15503384 }, ::{ flag=PH }:: ::SurfChu85::{ user=4469895 } |
 | Statistician | ::{ flag=NL }:: ::Albionthegreat::{ user=9853595 }, ::{ flag=PH }:: ::SurfChu85::{ user=4469895 } |
 | Graphic designer | ::{ flag=PH }:: ::FLCammo::{ user=18789292 }, ::{ flag=PH }:: ::Jianshyy::{ user=9178563 }, ::{ flag=PH }:: ::yukina meng::{ user=9919550 } |
 | Wiki writer | ::{ flag=PH }:: ::topecnz::{ user=2103927 }, ::{ flag=PH }:: ::-Ichinose::{ user=12635292 } |
@@ -62,7 +62,7 @@ The osu! Philippines Nationals 2022 - osu!mania 4K/7K was run by various communi
 
 - ::{ flag=PH }:: ::4Kenn::{ user=20496815 }
 - ::{ flag=PH }:: ::Vulpsi::{ user=12584420 }
-- ::{ flag=PH }:: ::\1KN\1MysteryL::{ user=14113974 }
+- ::{ flag=PH }:: ::[KN]MysteryL::{ user=14113974 }
 - ::{ flag=PH }:: ::Silicosis::{ user=15548876 }
 - ::{ flag=BH }:: ::Unitori-::{ user=15772814 }
 - ::{ flag=PH }:: ::Apol-::{ user=18466725 }
@@ -73,24 +73,24 @@ The osu! Philippines Nationals 2022 - osu!mania 4K/7K was run by various communi
 - ::{ flag=PH }:: ::DaMeMeThEiFxD::{ user=14324153 }
 - ::{ flag=PH }:: ::Axfaerie::{ user=13857689 }
 - ::{ flag=PH }:: ::- Hago -::{ user=11923046 }
-- ::{ flag=PH }:: ::\1KN\1Puddles::{ user=12123265 }
-- ::{ flag=PH }:: ::\1KN\1Astolfo::{ user=16391523 }
-- ::{ flag=PH }:: ::\1KN\1Yukocchi::{ user=20363789 }
+- ::{ flag=PH }:: ::[KN]Puddles::{ user=12123265 }
+- ::{ flag=PH }:: ::[KN]Astolfo::{ user=16391523 }
+- ::{ flag=PH }:: ::[KN]Yukocchi::{ user=20363789 }
 - ::{ flag=PH }:: ::Steeeven::{ user=15503384 }
 - ::{ flag=PH }:: ::Dyei::{ user=23643731 }
 - ::{ flag=PH }:: ::TENSHIGamer69::{ user=18520056 }
-- ::{ flag=PH }:: ::\1KN\1CuB-03::{ user=18560307 }
+- ::{ flag=PH }:: ::[KN]CuB-03::{ user=18560307 }
 - ::{ flag=PH }:: ::SoraFuru::{ user=17811012 }
-- ::{ flag=AE }:: ::drag\1::{ user=17959501 }
-- ::{ flag=PH }:: ::\1KN\1Cirno::{ user=19412969 }
+- ::{ flag=AE }:: ::drag_::{ user=17959501 }
+- ::{ flag=PH }:: ::[KN]Cirno::{ user=19412969 }
 - ::{ flag=PH }:: ::arcwinolivirus::{ user=2039089 }
 - ::{ flag=PH }:: ::ERA Hatsuki::{ user=11306351 }
 - ::{ flag=PH }:: ::Eon Musk::{ user=12239110 }
 - ::{ flag=PH }:: ::flowers::{ user=7449949 }
-- ::{ flag=PH }:: ::gl\1eo::{ user=16668558 }
+- ::{ flag=PH }:: ::gl_eo::{ user=16668558 }
 - ::{ flag=PH }:: ::Argefangirl::{ user=13132585 }
 - ::{ flag=PH }:: ::Xsanztify::{ user=13193798 }
-- ::{ flag=PH }:: ::\1KN\1Lordieee::{ user=10010130 }
+- ::{ flag=PH }:: ::[KN]Lordieee::{ user=10010130 }
 - ::{ flag=PH }:: ::Sachianii::{ user=17741392 }
 - ::{ flag=PH }:: ::-Kotaru-::{ user=12865817 }
 - ::{ flag=PH }:: ::ERA Frossno::{ user=17480973 }
@@ -103,9 +103,9 @@ The osu! Philippines Nationals 2022 - osu!mania 4K/7K was run by various communi
 - ::{ flag=PH }:: ::carldistry::{ user=10707466 }
 - ::{ flag=PH }:: ::TrueOSU::{ user=18132216 }
 - ::{ flag=PH }:: ::KemoSmucko::{ user=15748558 }
-- ::{ flag=PH }:: ::bl\1xx::{ user=18641905 }
+- ::{ flag=PH }:: ::bl_xx::{ user=18641905 }
 - ::{ flag=PH }:: ::TheTechKidYT::{ user=14927231 }
-- ::{ flag=PH }:: ::\1UwU\1Tokiya::{ user=15306347 }
+- ::{ flag=PH }:: ::[UwU]Tokiya::{ user=15306347 }
 - ::{ flag=PH }:: ::Normiplier::{ user=10069850 }
 - ::{ flag=PH }:: ::Ramskie::{ user=4642516 }
 - ::{ flag=PH }:: ::wilkinss::{ user=15164757 }
@@ -113,7 +113,7 @@ The osu! Philippines Nationals 2022 - osu!mania 4K/7K was run by various communi
 - ::{ flag=PH }:: ::NoobFiddle::{ user=14843745 }
 - ::{ flag=PH }:: ::MigusBigChungus::{ user=28833703 }
 - ::{ flag=PH }:: ::xKeix::{ user=23030229 }
-- ::{ flag=PH }:: ::Creator\1ML::{ user=19989406 }
+- ::{ flag=PH }:: ::Creator_ML::{ user=19989406 }
 - ::{ flag=PH }:: ::Sierra-34-Nov::{ user=22615510 }
 - ::{ flag=PH }:: ::KnfeConcorde::{ user=18390445 }
 - ::{ flag=PH }:: ::SZ20::{ user=28352929 }
@@ -128,21 +128,21 @@ The osu! Philippines Nationals 2022 - osu!mania 4K/7K was run by various communi
 - ::{ flag=PH }:: ::arcwinolivirus::{ user=2039089 }
 - ::{ flag=PH }:: ::-Homura-::{ user=2427023 }
 - ::{ flag=PH }:: ::nickulott::{ user=12101157 }
-- ::{ flag=PH }:: ::Sai\1Mnz::{ user=11257774 }
+- ::{ flag=PH }:: ::Sai_Mnz::{ user=11257774 }
 - ::{ flag=PH }:: ::shadowsong0916::{ user=13450837 }
 - ::{ flag=PH }:: ::Keishii::{ user=8381177 }
 - ::{ flag=PH }:: ::Argefangirl::{ user=13132585 }
 - ::{ flag=PH }:: ::Janceee::{ user=10334005 }
 - ::{ flag=PH }:: ::windrush123::{ user=9087181 }
-- ::{ flag=PH }:: ::\1LS\1Tenshi::{ user=18520056 }
+- ::{ flag=PH }:: ::[LS]Tenshi::{ user=18520056 }
 - ::{ flag=PH }:: ::nathan on mania::{ user=6152404 }
 - ::{ flag=PH }:: ::Bardagul::{ user=9152494 }
 - ::{ flag=PH }:: ::buenoo::{ user=11799958 }
 - ::{ flag=PH }:: ::DaMeMeThEiFxD::{ user=14324153 }
-- ::{ flag=PH }:: ::\1KN\1Lordieee::{ user=10010130 }
+- ::{ flag=PH }:: ::[KN]Lordieee::{ user=10010130 }
 - ::{ flag=PH }:: ::Edison::{ user=1325159 }
 - ::{ flag=PH }:: ::LohaWarpe::{ user=8560810 }
-- ::{ flag=PH }:: ::\1KN\1CuB-03::{ user=18560307 }
+- ::{ flag=PH }:: ::[KN]CuB-03::{ user=18560307 }
 - ::{ flag=PH }:: ::A1pha::{ user=1974081 }
 - ::{ flag=PH }:: ::DonPausto::{ user=24629361 }
 
@@ -156,7 +156,7 @@ This competition has come to an end and resulted in the following podium:
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: ::4Kenn::{ user=20496815 } |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: ::Vulpsi::{ user=12584420 } |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: ::\1KN\1MysteryL::{ user=14113974 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: ::[KN]MysteryL::{ user=14113974 } |
 
 ### osu!mania 7K
 

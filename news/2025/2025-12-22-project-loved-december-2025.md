@@ -236,7 +236,7 @@ You can play this beatmap RIGHT NOW for FREE, with the special edition including
 240 BPM, 3:57 | 9.39★\
 *description written by ::chmekoe::{ user=7807444 }*
 
-[Katagiri - Taboo Assembly](https://osu.ppy.sh/beatmapsets/1632872#taiko) is a 240 BPM map filled to the brim with 1/6, sv and streams, made by non other than ::7\17::{ user=7491106 }, a very familiar face when it comes to breakcore and bursts in the loved section.
+[Katagiri - Taboo Assembly](https://osu.ppy.sh/beatmapsets/1632872#taiko) is a 240 BPM map filled to the brim with 1/6, sv and streams, made by non other than ::7_7::{ user=7491106 }, a very familiar face when it comes to breakcore and bursts in the loved section.
 
 This dopamine rush of a marathon map was custom mapped for [Expert Global Taiko Showdown 2021](/wiki/Tournaments/GTS/EGTS_2021) and is one of the most memorable picks of the Grand Finals pool.
 

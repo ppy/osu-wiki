@@ -210,11 +210,11 @@ Having a leaderboard for this map would be very interesting, as putting mods on 
 
 [![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1057703.jpg)](https://osu.ppy.sh/community/forums/topics/2132973)
 
-[7_7 - Bitch Gun](https://osu.ppy.sh/beatmapsets/1057703#taiko) by ::7\17::{ user=7491106 }\
+[7_7 - Bitch Gun](https://osu.ppy.sh/beatmapsets/1057703#taiko) by ::7_7::{ user=7491106 }\
 290 BPM, 1:46 | 7.33★, 8.28★\
 *description written by ::Gamelan4::{ user=9856910 }*
 
-If you have been around the taiko community for some time, there's no chance you haven't seen or even heard of ::7\17::{ user=7491106 }. At some point in history, this mapping powerhouse decided that making their own music for their own maps was easier than finding new tracks to map. [Bitch Gun](https://osu.ppy.sh/beatmapsets/1057703#taiko) is one of the results of said conclusion, and this resulting mapset has all the elements necessary to be easily identifiable as a 7_7 map. It even has a "nerfed" difficulty, to give you the illusion of free choice (you are playing a challenging map either way).
+If you have been around the taiko community for some time, there's no chance you haven't seen or even heard of ::7_7::{ user=7491106 }. At some point in history, this mapping powerhouse decided that making their own music for their own maps was easier than finding new tracks to map. [Bitch Gun](https://osu.ppy.sh/beatmapsets/1057703#taiko) is one of the results of said conclusion, and this resulting mapset has all the elements necessary to be easily identifiable as a 7_7 map. It even has a "nerfed" difficulty, to give you the illusion of free choice (you are playing a challenging map either way).
 
 Amassing over 5K plays throughout the years, this mapset is a perfect candidate to receiving a leaderboard, but as always, the decision falls in your hands. Make sure to give it a chance, and as always, have fun!
 
@@ -431,11 +431,11 @@ And don't forget to cast a precious vote for this mapper making their first appe
 
 [![](/wiki/shared/news/2025-09-23-project-loved-eight-years-september-2025/1680356.jpg)](https://osu.ppy.sh/community/forums/topics/2132959)
 
-[Chinoi - Kyu-kurarin](https://osu.ppy.sh/beatmapsets/1680356#mania) by ::ruka::{ user=6117525 } and ::Lung\1P::{ user=8271308 }\
+[Chinoi - Kyu-kurarin](https://osu.ppy.sh/beatmapsets/1680356#mania) by ::ruka::{ user=6117525 } and ::Lung_P::{ user=8271308 }\
 220 BPM, 3:34 | 6.25★, 8.15★\
 *description written by ::Carpihat::{ user=10085090 }*
 
-Here comes another excellently structured map by ::ruka::{ user=6117525 } with a 4K guest difficulty mapped by ::Lung\1P::{ user=8271308 }! Not only are the mappers outstanding, but the song itself is already well known!
+Here comes another excellently structured map by ::ruka::{ user=6117525 } with a 4K guest difficulty mapped by ::Lung_P::{ user=8271308 }! Not only are the mappers outstanding, but the song itself is already well known!
 
 In this map, ::ruka::{ user=6117525 } carefully emphasised and distinguished the intensities and pitches of the vocals, creating a variety of LN and dump patterns that perfectly capture the essence of the music. Even if you find this map too challenging to play, you can still see the flow of patterns aligning seamlessly with the song.
 

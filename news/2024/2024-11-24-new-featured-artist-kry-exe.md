@@ -33,11 +33,11 @@ Give your best attempt on [the map above](https://osu.ppy.sh/beatmapsets/2284698
 
 This tune from Beat Saber World Cup 2022 has a lot of maps:
 
-- Try [this massive 7K osu!mania difficulty spread](https://osu.ppy.sh/beatmapsets/1866317) hosted by ::Critical\1Star::{ user=3793196 }
+- Try [this massive 7K osu!mania difficulty spread](https://osu.ppy.sh/beatmapsets/1866317) hosted by ::Critical_Star::{ user=3793196 }
 - Enjoy [this osu!catch marathon](https://osu.ppy.sh/beatmapsets/2039804) hosted by ::-Rustyy::{ user=16355636 }
 - Bang your keyboard to [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2146011) hosted by ::Kyoko Sakura::{ user=13279859 }
 - Here's [a 4K rendition](https://osu.ppy.sh/beatmapsets/1924015) hosted by ::\[GB\]ReMILia::{ user=18334226 }
-- ...and here's [*another* 4K rendition](https://osu.ppy.sh/beatmapsets/1964175) by ::Mich\1::{ user=11784492 }. People really like 4K.
+- ...and here's [*another* 4K rendition](https://osu.ppy.sh/beatmapsets/1964175) by ::Mich_::{ user=11784492 }. People really like 4K.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/448/Songs/Kry.exe%20feat.%20Ice%20-%20Last%20Wish.mp3">

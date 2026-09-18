@@ -135,7 +135,7 @@ A 4K beatmap with a very well designed structure and a great gameplay. The sprea
 
 Especially the ADVANCED Lv. 12 difficulty impressed me here. I enjoyed playing this difficulty a lot. But also the EXHAUST and its way to use hold notes was interesting and unique to play.
 
-- [NAOKI feat.YASMINE - INTO YOUR HEART (Ruffage Remix)](https://osu.ppy.sh/beatmapsets/220733) by ::Sky\1Demon::{ user=1542713 }
+- [NAOKI feat.YASMINE - INTO YOUR HEART (Ruffage Remix)](https://osu.ppy.sh/beatmapsets/220733) by ::Sky_Demon::{ user=1542713 }
 
 A very clean beatmap with a very well designed spread, even though it only has three difficulties to offer. Unfortunately, the map is quite short, but I enjoyed it a lot anyways!
 

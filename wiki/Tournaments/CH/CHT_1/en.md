@@ -40,7 +40,7 @@ The Coffee Hispanic Tournament was run by various community members.
 | Manager | ::{ flag=AR }:: ::Vaf::{ user=12589048 } |
 | Administrator | ::{ flag=ES }:: ::AzuuuNyan::{ user=9349479 }, ::{ flag=AR }:: ::iNeuu\_Z::{ user=9112463 }, ::{ flag=US }:: ::Pundice::{ user=7940696 }, ::{ flag=US }:: ::tigereyes144::{ user=6499811 } |
 | Mappool selector | ::{ flag=PT }:: ::My Angel Maki::{ user=11610772 }, ::{ flag=US }:: ::stackerjoe::{ user=7279141 } |
-| Referee | ::{ flag=CA }:: ::dqwed::{ user=9977100 }, ::{ flag=ES }:: ::Karma::{ user=7196989 }, ::{ flag=AR }:: ::Katsura Aimi::{ user=7102463 }, ::{ flag=SV }:: ::Loarca::{ user=4650246 }, ::{ flag=AR }:: ::-Nanahira-::{ user=6169195 }, ::{ flag=BG }:: ::Ted::{ user=9717848 }, ::{ flag=CO }:: ::TheAleboy::{ user=8921554 }, ::{ flag=FR }:: ::TLQ\1Yoshii::{ user=7157133 }, ::{ flag=CO }:: ::Vanilla Aiz::{ user=12261024 }, ::{ flag=AR }:: ::Yorumi-::{ user=7755726 } |
+| Referee | ::{ flag=CA }:: ::dqwed::{ user=9977100 }, ::{ flag=ES }:: ::Karma::{ user=7196989 }, ::{ flag=AR }:: ::Katsura Aimi::{ user=7102463 }, ::{ flag=SV }:: ::Loarca::{ user=4650246 }, ::{ flag=AR }:: ::-Nanahira-::{ user=6169195 }, ::{ flag=BG }:: ::Ted::{ user=9717848 }, ::{ flag=CO }:: ::TheAleboy::{ user=8921554 }, ::{ flag=FR }:: ::TLQ_Yoshii::{ user=7157133 }, ::{ flag=CO }:: ::Vanilla Aiz::{ user=12261024 }, ::{ flag=AR }:: ::Yorumi-::{ user=7755726 } |
 | Streamer | ::{ flag=AR }:: ::Vaf::{ user=12589048 } |
 | Commentator | ::{ flag=AR }:: ::Amuro::{ user=7119659 }, ::{ flag=AR }:: ::BossPlays::{ user=7341471 }, ::{ flag=AR }:: ::juliancala::{ user=3272902 }, ::{ flag=ES }:: ::Silver Falco::{ user=6573997 }, ::{ flag=AR }:: ::Vaf::{ user=12589048 } |
 | Designer | ::{ flag=CO }:: ::Clippy::{ user=6385568 }, ::{ flag=AR }:: ::Viief::{ user=14020439 } |
@@ -339,7 +339,7 @@ Monday, 27 January 2020:
 | #14 | ::{ flag=CO }:: ::Rushy::{ user=5281857 } | 116 |
 | #15 | ::{ flag=AR }:: ::Cata::{ user=5958063 } | 135 |
 | #16 | ::{ flag=DO }:: ::TheRealWillLITE::{ user=6677788 } | 144 |
-| #17 | ::{ flag=MX }:: ::lokillo\1999::{ user=5317898 } | 153 |
+| #17 | ::{ flag=MX }:: ::lokillo_999::{ user=5317898 } | 153 |
 | #18 | ::{ flag=ES }:: ::sorangan::{ user=6961543 } | 162 |
 | #19 | ::{ flag=BO }:: ::Frio\_::{ user=6771098 } | 171 |
 | #20 | ::{ flag=AR }:: ::-Kao-::{ user=7807935 } | 180 |

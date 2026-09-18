@@ -37,7 +37,7 @@ The SS Tournament 2018 had a prize pool of USD 200.
 | Head of staff | ::{ flag=US }:: ::Californian::{ user=4994598 }, ::{ flag=CA }:: ::HaruHong::{ user=2971423 }, ::{ flag=US }:: ::dblade::{ user=4272841 }, ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 } |
 | Head of mappools | ::{ flag=BR }:: ::Dada::{ user=9119507 }, ::{ flag=US }:: ::\_p0ke\_::{ user=5434711 } |
 | Mappool selector | ::{ flag=US }:: ::Nightlys::{ user=7094489 }, ::{ flag=CA }:: ::Anopob::{ user=728332 }, ::{ flag=US }:: ::ailv::{ user=6933054 } |
-| Referee | ::{ flag=US }:: ::KuraresaCupcake::{ user=6953271 }, ::{ flag=US }:: ::noctisv\1v::{ user=6775083 }, ::{ flag=US }:: ::clayton::{ user=3666350 }, ::{ flag=HK }:: ::-GN Junior::{ user=3901754 }, ::{ flag=PH }:: ::Deadpulse::{ user=8575527 }, ::{ flag=CA }:: ::ImNotBrandon::{ user=6917313 } |
+| Referee | ::{ flag=US }:: ::KuraresaCupcake::{ user=6953271 }, ::{ flag=US }:: ::noctisv_v::{ user=6775083 }, ::{ flag=US }:: ::clayton::{ user=3666350 }, ::{ flag=HK }:: ::-GN Junior::{ user=3901754 }, ::{ flag=PH }:: ::Deadpulse::{ user=8575527 }, ::{ flag=CA }:: ::ImNotBrandon::{ user=6917313 } |
 | Streamer | ::{ flag=CA }:: ::xenonius::{ user=7426260 }, ::{ flag=NL }:: ::cavoeboy::{ user=7361815 } |
 | Commentator | ::{ flag=FR }:: ::SiYes::{ user=8868144 }, ::{ flag=CA }:: ::xenonius::{ user=7426260 }, ::{ flag=AU }:: ::AmateurMonkeyYT::{ user=8379046 } |
 | Statistician | ::{ flag=US }:: ::YoshiLover456::{ user=6843383 } |
@@ -55,7 +55,7 @@ The SS Tournament 2018 had a prize pool of USD 200.
 | Content is Hot | ::{ flag=US }:: ::Apraxia::{ user=4194445 }, ::{ flag=US }:: ::Monko2k::{ user=4852013 }, ::{ flag=US }:: ::Toy::{ user=2757689 }, ::{ flag=JP }:: ::Cookiezi::{ user=124493 } |
 | Anime was a mistake | ::{ flag=PL }:: ::Ayke::{ user=6384590 }, ::{ flag=PL }:: ::Alien::{ user=4743869 }, ::{ flag=DE }:: ::- Tanakimaru -::{ user=7233153 }, ::{ flag=PL }:: ::Nexo C17H17Cl2n::{ user=6951719 } |
 | Happy New YEAR | ::{ flag=FR }:: ::Clamati::{ user=9049282 }, ::{ flag=FR }:: ::Vakeros::{ user=5224889 }, ::{ flag=FR }:: ::Kaishen::{ user=7742208 } |
-| Cool Grills | ::{ flag=CL }:: ::\1-Neon-\1::{ user=6064382 }, ::{ flag=CL }:: ::Yumbtah::{ user=2784663 }, ::{ flag=US }:: ::Megatron is bad::{ user=2570828 }, ::{ flag=NL }:: ::Lazer::{ user=1799925 } |
+| Cool Grills | ::{ flag=CL }:: ::[-Neon-]::{ user=6064382 }, ::{ flag=CL }:: ::Yumbtah::{ user=2784663 }, ::{ flag=US }:: ::Megatron is bad::{ user=2570828 }, ::{ flag=NL }:: ::Lazer::{ user=1799925 } |
 | 333333333333333333333333 | ::{ flag=US }::::Squilly::{ user=4681578 }, ::{ flag=US }:: ::Aireu::{ user=4681578 }, ::{ flag=US }::::he rack::{ user=2644828 }, ::{ flag=US }:: ::fieryerage::{ user=3533958 } |
 | Lexion Fanboys | ::{ flag=HU }::::Lexion::{ user=5271371 }, ::{ flag=HU }:: ::RatinA0::{ user=3436625 }, ::{ flag=HU }:: ::csaba21123::{ user=7764237 }, ::{ flag=HU }:: ::Jugment::{ user=3727686 } |
 | ReedBestPlayerAndNoobTeam | ::{ flag=SE }:: ::Reedkatt::{ user=8335950 }, ::{ flag=US }:: ::Its Wicked::{ user=7250583 }, ::{ flag=US }:: ::Mercyremix::{ user=9145865 } |
@@ -63,11 +63,11 @@ The SS Tournament 2018 had a prize pool of USD 200.
 | Holy Saints | ::{ flag=RU }:: ::beyondpb::{ user=9903584 } ::{ flag=RU }:: ::OnePixel1::{ user=7124962 }, ::{ flag=RU }:: ::Stevci::{ user=8601136 }, ::{ flag=RU }:: ::Peastro::{ user=8283149 } |
 | Kotyatki | ::{ flag=RU }:: ::kTN::{ user=7050137 }, ::{ flag=RU }:: ::SadnessWillSear::{ user=6591496 }, ::{ flag=UA }:: ::LimyY::{ user=7855006 }, ::{ flag=RU }:: ::Avernus::{ user=4405325 } |
 | CaptainKiznaryTech | ::{ flag=EE }:: ::Kizmah::{ user=8325847 }, ::{ flag=US }:: ::CaptainEChan::{ user=9536977 }, ::{ flag=GB }:: ::Binarytech::{ user=9801778 } |
-| EROLOLI | ::{ flag=CA }:: ::\1 Haruka-chan \1::{ user=2445727 }, ::{ flag=CA }:: ::erOL0liSENSei::{ user=2077668 }, ::{ flag=US }:: ::Poofin::{ user=2237979 } |
+| EROLOLI | ::{ flag=CA }:: ::[ Haruka-chan ]::{ user=2445727 }, ::{ flag=CA }:: ::erOL0liSENSei::{ user=2077668 }, ::{ flag=US }:: ::Poofin::{ user=2237979 } |
 | mode is a loli | ::{ flag=US }:: ::- M o D e -::{ user=4580287 }, ::{ flag=US }:: ::-Tynamo::{ user=3638962 }, ::{ flag=US }:: ::trey-::{ user=8784747 }, ::{ flag=US }:: ::conradmittn::{ user=8208289 } |
 | Yaong Futomomo | ::{ flag=KR }:: ::Yaong::{ user=1883865 }, ::{ flag=JP }:: ::Shirasaka Koume::{ user=3062998 }, ::{ flag=JP }:: ::Angel Arrow::{ user=1970239 }, ::{ flag=JP }:: ::benki::{ user=1021944 } |
 | Triple A | ::{ flag=PL }:: ::WubWoofWolf::{ user=39828 }, ::{ flag=PL }:: ::Rafis::{ user=2558286 }, ::{ flag=GB }:: ::Bubbleman::{ user=5182050 } |
-| arth is babysitting | ::{ flag=US }:: ::arth::{ user=3600549 }, ::{ flag=US }:: ::chezbananas::{ user=7941423 }, ::{ flag=US }:: ::explosionboom::{ user=4681410 }, ::{ flag=US }:: ::\1Xenon\1::{ user=3638099 } |
+| arth is babysitting | ::{ flag=US }:: ::arth::{ user=3600549 }, ::{ flag=US }:: ::chezbananas::{ user=7941423 }, ::{ flag=US }:: ::explosionboom::{ user=4681410 }, ::{ flag=US }:: ::[Xenon]::{ user=3638099 } |
 | odeio nxgxxs | ::{ flag=BR }:: ::favela::{ user=5295743 }, ::{ flag=BR }:: ::Texats::{ user=1638293 }, ::{ flag=IL }:: ::MrPotato::{ user=2787415 }, ::{ flag=NL }:: ::GiraffekNuL::{ user=3506793 } |
 | Dream XD | ::{ flag=CL }:: ::-Natezi::{ user=5990099 }, ::{ flag=CL }:: ::Lasseh::{ user=4881251 }, ::{ flag=CL }:: ::Crissa::{ user=5405836 } |
 | HalfPing | ::{ flag=AU }:: ::GranDSenpai::{ user=3997580 }, ::{ flag=AU }:: ::Ezipie::{ user=5978907 }, ::{ flag=AU }:: ::TheOmyNomy::{ user=4241054 }, ::{ flag=AU }:: ::Rairiku::{ user=4945688 } |
@@ -76,7 +76,7 @@ The SS Tournament 2018 had a prize pool of USD 200.
 | Vladimir Putin | ::{ flag=RU }:: ::koteyka20::{ user=7665175 }, ::{ flag=RU }:: ::YaVOR::{ user=3235892 }, ::{ flag=RU }:: ::Byrilo::{ user=5347067 }, ::{ flag=RU }:: ::Chayokkofeyok::{ user=9199948 } |
 | Da Wae | ::{ flag=US }:: ::mindovermanners::{ user=10028891 }, ::{ flag=US }:: ::Setnom::{ user=6261488 }, ::{ flag=US }:: ::Nefariouz::{ user=7673312 } |
 | MinecraftDabMod | ::{ flag=US }:: ::Gifted::{ user=7971757 }, ::{ flag=US }:: ::ryyushi::{ user=6014327 }, ::{ flag=US }:: ::WillCookie::{ user=6404488 }, ::{ flag=PH }:: ::HaruTachi-::{ user=6244066 } |
-| Marbs | ::{ flag=NO }:: ::Reddd::{ user=8379270 }, ::{ flag=US }:: ::Naaise::{ user=10531760 }, ::{ flag=CA }:: ::\1Lethal\1::{ user=9165981 }, ::{ flag=SE }:: ::MangeHD::{ user=8553070 } |
+| Marbs | ::{ flag=NO }:: ::Reddd::{ user=8379270 }, ::{ flag=US }:: ::Naaise::{ user=10531760 }, ::{ flag=CA }:: ::[Lethal]::{ user=9165981 }, ::{ flag=SE }:: ::MangeHD::{ user=8553070 } |
 | caipirinha hamburger | ::{ flag=BR }:: ::Tell::{ user=2125109 }, ::{ flag=BR }:: ::Mystia::{ user=4277702 }, ::{ flag=US }:: ::Woey::{ user=3792472 }, ::{ flag=BR }:: ::Sickoh::{ user=5411474 } |
 | Noobs1337_ | ::{ flag=RU }:: ::Darko234::{ user=11062478 }, ::{ flag=KZ }:: ::Sagas08::{ user=9588965 }, ::{ flag=RU }:: ::MrNobody1337s::{ user=10056827 } |
 | nada | ::{ flag=MX }:: ::Trooper-::{ user=7301672 }, ::{ flag=GB }:: ::-Kisaki::{ user=7305067 }, ::{ flag=US }:: ::Butlergunner::{ user=6031237 }, ::{ flag=US }:: ::Frost::{ user=4182788 } |
@@ -91,22 +91,22 @@ The SS Tournament 2018 had a prize pool of USD 200.
 | Die Augen | ::{ flag=DE }:: ::Refrum::{ user=7064509 }, ::{ flag=DE }:: ::Auge::{ user=7115794 }, ::{ flag=DE }:: ::Xenorin::{ user=6759462 }, ::{ flag=DE }:: ::tagorin::{ user=7243516 } |
 | Pszne Rzybki | ::{ flag=PL }:: ::MajsterDeeJay::{ user=6329597 }, ::{ flag=PL }:: ::-Mario-::{ user=4950514 }, ::{ flag=PL }:: ::Hatiso::{ user=9011751 }, ::{ flag=PL }:: ::LowAccDeadMan::{ user=8417559 } |
 | Jorge | ::{ flag=BR }:: ::- Emerald::{ user=6488891 }, ::{ flag=BR }:: ::Crimson Dragon::{ user=5085555 }, ::{ flag=BR }:: ::Astris::{ user=6173856 } |
-| Adrenaline Rush | ::{ flag=CA }:: ::Xoul::{ user=7856835 }, ::{ flag=US }:: ::\1 Scarlet Red \1::{ user=3257340 }, ::{ flag=US }:: ::Arsene::{ user=4427983 }, ::{ flag=US }:: ::Tobirama Senju::{ user=3188127 } |
-| gommehd.net | ::{ flag=DE }:: ::\1Swegloerd\1::{ user=7382962 }, ::{ flag=DE }:: ::Amanion::{ user=7382973 }, ::{ flag=DE }:: ::prhtnsm::{ user=6702666 }, ::{ flag=DE }:: ::Sandwich::{ user=7528409 } |
+| Adrenaline Rush | ::{ flag=CA }:: ::Xoul::{ user=7856835 }, ::{ flag=US }:: ::[ Scarlet Red ]::{ user=3257340 }, ::{ flag=US }:: ::Arsene::{ user=4427983 }, ::{ flag=US }:: ::Tobirama Senju::{ user=3188127 } |
+| gommehd.net | ::{ flag=DE }:: ::[Swegloerd]::{ user=7382962 }, ::{ flag=DE }:: ::Amanion::{ user=7382973 }, ::{ flag=DE }:: ::prhtnsm::{ user=6702666 }, ::{ flag=DE }:: ::Sandwich::{ user=7528409 } |
 | jenny tools | ::{ flag=RO }:: ::Chamosiala::{ user=1469892 }, ::{ flag=LT }:: ::Auji::{ user=4114438 }, ::{ flag=ES }:: ::yotampoco::{ user=7073613 }, ::{ flag=IT }:: ::Koba::{ user=4448118 } |
 | interatlantic baguettes | ::{ flag=CA }:: ::DivineRose::{ user=8151359 }, ::{ flag=FR }:: ::Hichinoro::{ user=5410051 }, ::{ flag=GB }:: ::Cornfield::{ user=4087422 } |
 | Tsutaerarenakatta | ::{ flag=PL }:: ::Reifa::{ user=5725033 }, ::{ flag=PL }:: ::-Sylvari::{ user=3493804 }, ::{ flag=PL }:: ::Cypriane::{ user=7703578 }, ::{ flag=PL }:: ::ChainedTomb::{ user=4966523 } |
 | Squeaky clean | ::{ flag=MX }:: ::Janssen::{ user=2279351 }, ::{ flag=US }:: ::mniminwoo::{ user=3929529 }, ::{ flag=MX }:: ::-Hebel-::{ user=6169483 }, ::{ flag=US }:: ::Mlaw22::{ user=3126596 } |
 | 669955 | ::{ flag=CA }:: ::alkalde::{ user=7314046 }, ::{ flag=CA }:: ::-Kurisu::{ user=4192842 }, ::{ flag=US }:: ::WagnerWarrior::{ user=4149140 } |
 | \[UWE\] | ::{ flag=DE }:: ::hallowatcher::{ user=1874761 }, ::{ flag=DE }:: ::Vyshus::{ user=7812798 }, ::{ flag=DE }:: ::Veth::{ user=1715441 }, ::{ flag=DE }:: ::Risiing::{ user=2282047 } |
-| Imperium | ::{ flag=RU }:: ::ABERON::{ user=7133185 }, ::{ flag=RU }:: ::zin::{ user=7447249 }, ::{ flag=RU }:: ::\1Forse::{ user=7236909 }, ::{ flag=RU }:: ::Sawagi::{ user=8768283 } |
-| Bildungsabwendungspramie | ::{ flag=PL }:: ::\1demo::{ user=3556891 }, ::{ flag=PL }:: ::Malolat::{ user=4317480 }, ::{ flag=PL }:: ::Wakson::{ user=3048222 }, ::{ flag=PL }:: ::c00kiezechy::{ user=2225267 } |
-| BonelessCarry | ::{ flag=CA }:: ::Joryan\1Inkling::{ user=8240995 }, ::{ flag=US }:: ::mcgen::{ user=5353025 }, ::{ flag=US }:: ::Veniry::{ user=8990259 }, ::{ flag=LV }:: ::rih23::{ user=9883508 } |
+| Imperium | ::{ flag=RU }:: ::ABERON::{ user=7133185 }, ::{ flag=RU }:: ::zin::{ user=7447249 }, ::{ flag=RU }:: ::_Forse::{ user=7236909 }, ::{ flag=RU }:: ::Sawagi::{ user=8768283 } |
+| Bildungsabwendungspramie | ::{ flag=PL }:: ::_demo::{ user=3556891 }, ::{ flag=PL }:: ::Malolat::{ user=4317480 }, ::{ flag=PL }:: ::Wakson::{ user=3048222 }, ::{ flag=PL }:: ::c00kiezechy::{ user=2225267 } |
+| BonelessCarry | ::{ flag=CA }:: ::Joryan_Inkling::{ user=8240995 }, ::{ flag=US }:: ::mcgen::{ user=5353025 }, ::{ flag=US }:: ::Veniry::{ user=8990259 }, ::{ flag=LV }:: ::rih23::{ user=9883508 } |
 | Manu Ginobili | ::{ flag=US }:: ::Conyoh::{ user=4844496 }, ::{ flag=US }:: ::SlimeDrippy::{ user=6119147 }, ::{ flag=AR }:: ::Pein::{ user=2212941 }, ::{ flag=AR }:: ::Enhu::{ user=2840499 } |
 | Meme team | ::{ flag=FR }:: ::SiYes::{ user=8868144 }, ::{ flag=FR }:: ::Spartan Plume::{ user=2553166 }, ::{ flag=PL }:: ::MechJar::{ user=7527282 } |
 | HIDOWR | ::{ flag=RU }:: ::-Miruku-::{ user=4712799 }, ::{ flag=RU }:: ::iok144::{ user=2171652 }, ::{ flag=RU }:: ::Enns::{ user=6375834 } |
 | Childhood Issues | ::{ flag=DE }:: ::-Hwangbo::{ user=7467183 }, ::{ flag=DE }:: ::Anroyz::{ user=1818573 }, ::{ flag=DE }:: ::Shiku::{ user=3970174 }, ::{ flag=DE }:: ::Shiguri::{ user=2665207 } |
-| Sas(so) | ::{ flag=IT }:: ::SIMONETRAPANI::{ user=7329177 }, ::{ flag=ES }:: ::-Hideki-::{ user=8688804 }, ::{ flag=IT }:: ::\1Akio::{ user=8676866 }, ::{ flag=IT }:: ::-Katsuo-::{ user=3460798 } |
+| Sas(so) | ::{ flag=IT }:: ::SIMONETRAPANI::{ user=7329177 }, ::{ flag=ES }:: ::-Hideki-::{ user=8688804 }, ::{ flag=IT }:: ::_Akio::{ user=8676866 }, ::{ flag=IT }:: ::-Katsuo-::{ user=3460798 } |
 
 ![](img/Brackets.jpg "SST 2018 bracket")
 

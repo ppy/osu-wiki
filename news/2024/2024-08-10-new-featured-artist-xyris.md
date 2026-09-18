@@ -23,7 +23,7 @@ While osu! players may know **Xyris** for their expanding catalogue of [osu! ori
 
 ### Xyris - Eviternity
 
-Break your fingers with [the map from the video above](https://osu.ppy.sh/beatmapsets/1961513) hosted by ::Critical\1Star::{ user=3793196 }!
+Break your fingers with [the map from the video above](https://osu.ppy.sh/beatmapsets/1961513) hosted by ::Critical_Star::{ user=3793196 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/433/Eviternity/Xyris%20-%20Eviternity.mp3">

@@ -91,7 +91,7 @@ Playlist leaders earn prizes based on [this cumulative leaderboard](/wiki/People
 | #5 | ::{ flag=CA }:: ::Player-::{ user=3724819 } | 2 | 2 |
 | #6 | ::{ flag=CA }:: ::DimplesRMe::{ user=13348268 } | 1 | 1 |
 | #7 | ::{ flag=GB }:: ::chromb::{ user=10238680 } | 1 | 2 |
-| #8 | ::{ flag=VN }:: ::hi\1there\1osu::{ user=22698999 } | 1 | 1 |
+| #8 | ::{ flag=VN }:: ::hi_there_osu::{ user=22698999 } | 1 | 1 |
 | #9 | ::{ flag=PH }:: ::Niro-::{ user=6443899 } | 1 | 4 |
 | #10 | ::{ flag=SE }:: ::Sturvos::{ user=7050679 } | 1 | 1 |
 
@@ -101,7 +101,7 @@ Playlist leaders earn prizes based on [this cumulative leaderboard](/wiki/People
 | --: | :-- | :-- | :-- |
 | #1 | ::{ flag=CA }:: **::UmmmMrMoo::{ user=15314355 }** | **10** | **22** |
 | #2 | ::{ flag=US }:: ::0143::{ user=32695517 } | 5 | 5 |
-| #3 | ::{ flag=KR }:: ::lnote\1::{ user=14631339 } | 3 | 3 |
+| #3 | ::{ flag=KR }:: ::lnote_::{ user=14631339 } | 3 | 3 |
 | #4 | ::{ flag=ID }:: ::AncuL::{ user=2449200 } | 2 | 5 |
 | #5 | ::{ flag=ID }:: ::Wishtynite::{ user=14217379 } | 2 | 7 |
 | #6 | ::{ flag=DE }:: ::ERA Sirbeyy::{ user=12917829 } | 1 | 7 |

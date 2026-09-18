@@ -19,11 +19,11 @@ El historial de algunos usuarios puede estar incompleto durante este año.
 
 Todos los usuarios listados a continuación fueron añadidos el 3 de enero de 2015.
 
-- ::\1 S a k u r a \1::{ user=3653042 }
+- ::[ S a k u r a ]::{ user=3653042 }
 - ::Andrea::{ user=33599 }
 - ::BeatofIke::{ user=1103522 }
 - ::CloudSplash16::{ user=2099102 }
-- ::\1CSGA\1Ar3sgice::{ user=989563 }
+- ::[CSGA]Ar3sgice::{ user=989563 }
 - ::DE-CADE::{ user=3734394 }
 - ::Inyuschan::{ user=1721995 }
 - ::Momochikun::{ user=2032824 }
@@ -53,14 +53,14 @@ Todos los usuarios listados a continuación fueron añadidos el 3 de enero de 20
 - ::IamKwaN::{ user=1856463 } fue movido del Beatmap Appreciation Team al Quality Assurance Team (19/2/2015)
 - ::AnataNoBaka::{ user=1769646 } fue retirado de los moderadores del chat (22/2/2015)
 - ::ethox::{ user=441380 } fue movido a los osu! Alumni (22/2/2015)
-- ::Evil\1Twilight::{ user=409347 } fue retirado de los moderadores del chat (22/2/2015)
+- ::Evil_Twilight::{ user=409347 } fue retirado de los moderadores del chat (22/2/2015)
 - ::Galkan::{ user=169570 } fue movido a los osu! Alumni (22/2/2015)
 - ::Guy::{ user=91738 } fue retirado de los moderadores del chat (22/2/2015)
 - ::HeatKai::{ user=332555 } fue movido a los osu! Alumni (22/2/2015)
 - ::KitokoFox::{ user=1815420 } fue movido a los osu! Alumni (22/2/2015)
 - ::KRZY::{ user=114017 } fue movido a los osu! Alumni (22/2/2015)
 - ::Loneight::{ user=663131 } fue retirado de los moderadores del chat (22/2/2015)
-- ::Zero\1\1wind::{ user=1822830 } fue movido del Beatmap Appreciation Team a los osu! Alumni (22/2/2015)
+- ::Zero__wind::{ user=1822830 } fue movido del Beatmap Appreciation Team a los osu! Alumni (22/2/2015)
 - ::Darksonic::{ user=570042 } fue movido del Global Moderation Team a los osu! Alumni (22/2/2015)
 - ::Derekku::{ user=91341 } fue movido a los osu! Alumni (22/2/2015)
 - ::Leader::{ user=631530 } fue movido a los osu! Alumni (22/2/2015)
@@ -119,7 +119,7 @@ Todos los usuarios listados a continuación fueron añadidos el 3 de marzo de 20
 - ::Harbyter::{ user=1147679 }
 - ::Alarido::{ user=1948827 }
 - ::Yauxo::{ user=898306 }
-- ::\1AyanoTatemaya\1::{ user=2760619 }
+- ::[AyanoTatemaya]::{ user=2760619 }
 - ::shionelove::{ user=501551 }
 - ::Genocide::{ user=6477309 }
 - ::CelsiusLK::{ user=1409012 }
@@ -127,8 +127,8 @@ Todos los usuarios listados a continuación fueron añadidos el 3 de marzo de 20
 - ::Gray Veyron::{ user=1886524 }
 - ::\_S u w a k o\_::{ user=2786984 }
 - ::sheela901::{ user=1138027 }
-- ::\1GraveChaos\1::{ user=3009472 }
-- ::\1Shana Lesus\1::{ user=2881789 }
+- ::[GraveChaos]::{ user=3009472 }
+- ::[Shana Lesus]::{ user=2881789 }
 - ::handsome::{ user=2123087 }
 - ::Zan -::{ user=1411817 }
 - ::Z3nx::{ user=2193881 }
@@ -199,9 +199,9 @@ Todos los usuarios listados a continuación fueron añadidos el 15 de junio de 2
 
 ## Julio
 
-- ::\1 Another \1::{ user=3416573 } fue añadido a los moderadores del chat (1/7/2015)
+- ::[ Another ]::{ user=3416573 } fue añadido a los moderadores del chat (1/7/2015)
 - ::Kurokami::{ user=260933 } fue añadido al Quality Assurance Team (1/7/2015)
-- ::\1Shi-Ra\1::{ user=2008489 } fue movido al Quality Assurance Team (9/7/2015)
+- ::[Shi-Ra]::{ user=2008489 } fue movido al Quality Assurance Team (9/7/2015)
 - ::Oinari-sama::{ user=405508 } fue movido a los osu! Alumni (27/7/2015)
 
 ### Adiciones a los Beatmap Nominators
@@ -234,7 +234,7 @@ Todos los usuarios listados a continuación fueron añadidos el 19 de julio de 2
 ## Septiembre
 
 - ::Spy::{ user=1217122 } fue movido a los osu! Alumni (5/9/2015)
-- ::\1Shi-Ra\1::{ user=2008489 } fue movido del Quality Assurance Team a los osu! Alumni (5/9/2015)
+- ::[Shi-Ra]::{ user=2008489 } fue movido del Quality Assurance Team a los osu! Alumni (5/9/2015)
 - ::Lust::{ user=2316951 } fue añadido al Quality Assurance Team (6/9/2015)
 
 ## Octubre

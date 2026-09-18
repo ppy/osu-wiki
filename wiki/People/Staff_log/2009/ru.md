@@ -66,13 +66,13 @@
 - Добавление ::abalee::{ user=13103 } в Beatmap Approval Team (2009-12-14) <!-- https://osu.ppy.sh/community/forums/posts/267606 -->
 - Добавление ::osuplayer111::{ user=33599 } в Beatmap Approval Team (2009-12-15) <!-- https://osu.ppy.sh/community/forums/topics/21251 -->
 - Добавление ::xxheroxx::{ user=25999 } в Mapping Assistance Team (2009-12-27)
-- Добавление ::Azure\1Kyte::{ user=66296 } в Mapping Assistance Team (2009-12-27)
+- Добавление ::Azure_Kyte::{ user=66296 } в Mapping Assistance Team (2009-12-27)
 - Добавление ::blissfulyoshi::{ user=20865 } в Mapping Assistance Team (2009-12-27)
 - Добавление ::Zekira::{ user=36749 } в Mapping Assistance Team (2009-12-27)
 - Добавление ::Alace::{ user=25993 } в Mapping Assistance Team (2009-12-27)
 - Добавление ::Derekku::{ user=91341 } в Mapping Assistance Team (2009-12-27)
 - Добавление ::MetalMario201::{ user=30655 } в Mapping Assistance Team (2009-12-27)
-- Добавление ::0\1o::{ user=56708 } в Mapping Assistance Team (2009-12-27)
+- Добавление ::0_o::{ user=56708 } в Mapping Assistance Team (2009-12-27)
 - Добавление ::AgnesChan::{ user=136982 } в Mapping Assistance Team (2009-12-27)
 - Добавление ::Card N'FoRcE::{ user=3936 } в Mapping Assistance Team (2009-12-27)
 - Добавление ::Lybydose::{ user=64501 } в Mapping Assistance Team (2009-12-27)

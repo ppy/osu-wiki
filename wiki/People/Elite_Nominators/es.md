@@ -38,7 +38,7 @@ A partir del [7 de febrero de 2020](https://osu.ppy.sh/home/news/2020-02-07-comm
 | ::{ flag=PH }:: ::Jemzuu::{ user=7890134 } | ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") | ![Elite Nominator](https://assets.ppy.sh/profile-badges/elite-nominator.png "Elite Nominator") |
 | ::{ flag=US }:: ::wonjae::{ user=5032045 } | ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") | ![Elite Nominator](https://assets.ppy.sh/profile-badges/elite-nominator.png "Elite Nominator") |
 | ::{ flag=US }:: ::-MysticEyes::{ user=6253266 } | ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") | ![Elite Nominator](https://assets.ppy.sh/profile-badges/elite-nominator.png "Elite Nominator") |
-| ::{ flag=MY }:: ::\1Kobii::{ user=6209713 } | ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") | ![Elite Nominator](https://assets.ppy.sh/profile-badges/elite-nominator.png "Elite Nominator") |
+| ::{ flag=MY }:: ::_Kobii::{ user=6209713 } | ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") | ![Elite Nominator](https://assets.ppy.sh/profile-badges/elite-nominator.png "Elite Nominator") |
 
 ### 2020
 
@@ -51,14 +51,14 @@ A partir del [7 de febrero de 2020](https://osu.ppy.sh/home/news/2020-02-07-comm
 | ::{ flag=DE }:: ::Mordred::{ user=7265097 } | ![osu!](/wiki/shared/mode/osu.png "osu!") | ![Elite Nominator II](https://assets.ppy.sh/profile-badges/elite-nominator-2.png "Elite Nominator II") |
 | ::{ flag=DE }:: ::Lasse::{ user=896613 } | ![osu!](/wiki/shared/mode/osu.png "osu!") | ![Elite Nominator II](https://assets.ppy.sh/profile-badges/elite-nominator-2.png "Elite Nominator II") |
 | ::{ flag=CA }:: ::Agatsu::{ user=5579871 } | ![osu!](/wiki/shared/mode/osu.png "osu!") | ![Elite Nominator](https://assets.ppy.sh/profile-badges/elite-nominator.png "Elite Nominator") |
-| ::{ flag=JP }:: ::BaAR\1Vendel::{ user=8679346 } | ![osu!](/wiki/shared/mode/osu.png "osu!") | ![Elite Nominator](https://assets.ppy.sh/profile-badges/elite-nominator.png "Elite Nominator") |
+| ::{ flag=JP }:: ::BaAR_Vendel::{ user=8679346 } | ![osu!](/wiki/shared/mode/osu.png "osu!") | ![Elite Nominator](https://assets.ppy.sh/profile-badges/elite-nominator.png "Elite Nominator") |
 | ::{ flag=CL }:: ::Milan-::{ user=1052994 } | ![osu!](/wiki/shared/mode/osu.png "osu!") | ![Elite Nominator](https://assets.ppy.sh/profile-badges/elite-nominator.png "Elite Nominator") |
 | ::{ flag=US }:: ::Annabel::{ user=3388410 } | ![osu!](/wiki/shared/mode/osu.png "osu!") ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") | ![Elite Nominator II](https://assets.ppy.sh/profile-badges/elite-nominator-2.png "Elite Nominator II") |
 | ::{ flag=ES }:: ::Raiden::{ user=2239480 } | ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") | ![Elite Nominator](https://assets.ppy.sh/profile-badges/elite-nominator.png "Elite Nominator") |
 | ::{ flag=PH }:: ::Jemzuu::{ user=7890134 } | ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") | ![Elite Nominator II](https://assets.ppy.sh/profile-badges/elite-nominator-2.png "Elite Nominator II") |
 | ::{ flag=ID }:: ::Xinely::{ user=1521445 } | ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") | ![Elite Nominator](https://assets.ppy.sh/profile-badges/elite-nominator.png "Elite Nominator") |
 | ::{ flag=US }:: ::Unpredictable::{ user=7560872 } | ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") | ![Elite Nominator](https://assets.ppy.sh/profile-badges/elite-nominator.png "Elite Nominator") |
-| ::{ flag=ID }:: ::Rivals\17::{ user=4610379 } | ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") | ![Elite Nominator](https://assets.ppy.sh/profile-badges/elite-nominator.png "Elite Nominator") |
+| ::{ flag=ID }:: ::Rivals_7::{ user=4610379 } | ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") | ![Elite Nominator](https://assets.ppy.sh/profile-badges/elite-nominator.png "Elite Nominator") |
 
 ### 2021
 
@@ -82,7 +82,7 @@ A partir del [7 de febrero de 2020](https://osu.ppy.sh/home/news/2020-02-07-comm
 | ::{ flag=GR }:: ::Nokashi::{ user=5431196 } | ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") | ![Elite Nominator](https://assets.ppy.sh/profile-badges/elite-nominator.png "Elite Nominator") |
 | ::{ flag=ES }:: ::Quenlla::{ user=4725379 } | ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") | ![Elite Nominator](https://assets.ppy.sh/profile-badges/elite-nominator.png "Elite Nominator") |
 | ::{ flag=CA }:: ::guden::{ user=11626065 } | ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") | ![Elite Nominator](https://assets.ppy.sh/profile-badges/elite-nominator.png "Elite Nominator") |
-| ::{ flag=CN }:: ::\1Stan::{ user=1653229 } | ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") | ![Elite Nominator](https://assets.ppy.sh/profile-badges/elite-nominator.png "Elite Nominator") |
+| ::{ flag=CN }:: ::_Stan::{ user=1653229 } | ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") | ![Elite Nominator](https://assets.ppy.sh/profile-badges/elite-nominator.png "Elite Nominator") |
 | ::{ flag=KR }:: ::Murumoo::{ user=8001433 } | ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") | ![Elite Nominator](https://assets.ppy.sh/profile-badges/elite-nominator.png "Elite Nominator") |
 
 ### 2022
@@ -149,7 +149,7 @@ A partir del [7 de febrero de 2020](https://osu.ppy.sh/home/news/2020-02-07-comm
 | ::{ flag=ZA }:: ::Mattay::{ user=9748303 } | ![osu!](/wiki/shared/mode/osu.png "osu!") | ![Elite Nominator](https://assets.ppy.sh/profile-badges/elite-nominator.png "Elite Nominator") |
 | ::{ flag=KR }:: ::momoyo::{ user=12469536 } | ![osu!](/wiki/shared/mode/osu.png "osu!") | ![Elite Nominator](https://assets.ppy.sh/profile-badges/elite-nominator.png "Elite Nominator") |
 | ::{ flag=RU }:: ::NeKroMan4ik::{ user=11387664 } | ![osu!](/wiki/shared/mode/osu.png "osu!") | ![Elite Nominator II](https://assets.ppy.sh/profile-badges/elite-nominator-2.png "Elite Nominator II") |
-| ::{ flag=SG }:: ::\1gt::{ user=8301957 } | ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") | ![Elite Nominator](https://assets.ppy.sh/profile-badges/elite-nominator.png "Elite Nominator") |
+| ::{ flag=SG }:: ::_gt::{ user=8301957 } | ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") | ![Elite Nominator](https://assets.ppy.sh/profile-badges/elite-nominator.png "Elite Nominator") |
 | ::{ flag=HK }:: ::BlackBN::{ user=6291741 } | ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") | ![Elite Nominator](https://assets.ppy.sh/profile-badges/elite-nominator.png "Elite Nominator") |
 | ::{ flag=HK }:: ::iRedi::{ user=8005579 } | ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") | ![Elite Nominator](https://assets.ppy.sh/profile-badges/elite-nominator.png "Elite Nominator") |
 | ::{ flag=KR }:: ::Spectator::{ user=702598 } | ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") | ![Elite Nominator](https://assets.ppy.sh/profile-badges/elite-nominator.png "Elite Nominator") |

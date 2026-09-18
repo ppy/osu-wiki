@@ -32,4 +32,4 @@ Eğer bir kimse bahsi geçen alt forumlarda yardıma ihtiyaç duyarsa, ilk olara
 | ::{ flag=KR }:: ::Civil oath::{ user=3216107 } | Korece, Japonca |
 | ::{ flag=DE }:: ::Lyawi::{ user=5851253 } | Almanca |
 | ::{ flag=PH }:: ::Nathanael::{ user=2295078 } | Filipince |
-| ::{ flag=PL }:: ::spaceman\1atlas::{ user=3035836 } | Lehçe |
+| ::{ flag=PL }:: ::spaceman_atlas::{ user=3035836 } | Lehçe |

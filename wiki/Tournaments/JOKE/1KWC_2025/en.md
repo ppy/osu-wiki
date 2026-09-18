@@ -61,15 +61,15 @@ tags:
 | :-: | :-: | :-- |
 | ::{ flag=CA }:: | **66% Canadian** | **::Verdon::{ user=14196373 }**, ::DimplesRMe::{ user=13348268 }, ::TGJ Chocomist::{ user=19342423 } |
 | ::{ flag=AU }:: | **Australia** | **::Tsubasa2::{ user=6835183 }**, ::Eresh::{ user=8259292 }, ::rango::{ user=7728466 } |
-| ::{ flag=DE }:: | **Autobahn Avengers** | **::datnonameboi::{ user=14217761 }**, ::jojo\1flower::{ user=28236847 } |
-| ::{ flag=CN }:: | **China** | **::WLYMinato::{ user=12703319 }**, ::FORMless000::{ user=8697654 }, ::Lubei\101::{ user=11692528 }, ::eiqmy::{ user=35404573 } |
+| ::{ flag=DE }:: | **Autobahn Avengers** | **::datnonameboi::{ user=14217761 }**, ::jojo_flower::{ user=28236847 } |
+| ::{ flag=CN }:: | **China** | **::WLYMinato::{ user=12703319 }**, ::FORMless000::{ user=8697654 }, ::Lubei_01::{ user=11692528 }, ::eiqmy::{ user=35404573 } |
 | ::{ flag=HR }:: | **Croatia** | **::brainstorm::{ user=20846774 }**, ::VISIONASCEPT::{ user=29225346 } |
 | ::{ flag=US }:: | **Furnited States** | **::BR00KLYN::{ user=9199901 }**, ::cyger::{ user=20020441 }, ::Sparky::{ user=3187959 } |
 | ::{ flag=DE }:: | **Germany** | **::Hopes::{ user=4907504 }**, ::TerliManor::{ user=3372322 } |
-| ::{ flag=ID }:: | **Idkdonesia** | **::Az-u::{ user=15801261 }**, ::ocaibo::{ user=30615609 }, ::\1GB\1Xenotia-::{ user=13865224 }, ::KinoJourney::{ user=15798093 } |
-| ::{ flag=JP }:: | **Japan** | **::Grape\1Tea::{ user=9540073 }**, ::hz404::{ user=14947043 }, ::\1Crz\1yomogi237::{ user=28571440 }, ::SORA\1T4kAhqSh1::{ user=30549266 } |
-| ::{ flag=MX }:: | **Mexico** | **::Znow::{ user=15513303 }**, ::happergamer::{ user=15513319 }, ::\1LS\1Mari::{ user=15270411 }, ::AsaelmasterHola::{ user=19311562 } |
-| ::{ flag=ID }:: | **Mixedonesia** | **::--Glitchy--::{ user=30644569 }**, ::Reihynn::{ user=16630515 }, ::Noko\1BSF::{ user=3811831 }, ::Aikiyo Fuuka::{ user=5179764 } |
+| ::{ flag=ID }:: | **Idkdonesia** | **::Az-u::{ user=15801261 }**, ::ocaibo::{ user=30615609 }, ::[GB]Xenotia-::{ user=13865224 }, ::KinoJourney::{ user=15798093 } |
+| ::{ flag=JP }:: | **Japan** | **::Grape_Tea::{ user=9540073 }**, ::hz404::{ user=14947043 }, ::[Crz]yomogi237::{ user=28571440 }, ::SORA_T4kAhqSh1::{ user=30549266 } |
+| ::{ flag=MX }:: | **Mexico** | **::Znow::{ user=15513303 }**, ::happergamer::{ user=15513319 }, ::[LS]Mari::{ user=15270411 }, ::AsaelmasterHola::{ user=19311562 } |
+| ::{ flag=ID }:: | **Mixedonesia** | **::--Glitchy--::{ user=30644569 }**, ::Reihynn::{ user=16630515 }, ::Noko_BSF::{ user=3811831 }, ::Aikiyo Fuuka::{ user=5179764 } |
 | ::{ flag=NZ }:: | **New Zealand** | **::cyndrean::{ user=12872893 }**, ::Emilbus::{ user=11141578 }, ::Dabble::{ user=10102221 } |
 | ::{ flag=NO }:: | **Norway** | **::Crustbell::{ user=7859738 }**, ::Ziquids::{ user=10972799 } |
 | ::{ flag=PE }:: | **Peru es clave** | **::alemagno333::{ user=11411697 }**, ::Dinki::{ user=23361435 }, ::Brunixxx::{ user=16517079 } |
@@ -78,7 +78,7 @@ tags:
 | ::{ flag=RS }:: | **Random States B** | **::AdrianLazer::{ user=10292643 }**, ::ethfan922::{ user=10402769 }, ::Paino::{ user=15599629 }, ::Pop06::{ user=22620088 } |
 | ::{ flag=SE }:: | **Sweden** | **::diamondBlaze::{ user=10553827 }**, ::NeonDrakon::{ user=6315000 }, ::TheKubaX::{ user=5186648 }, ::Anders8KJS::{ user=36024737 } |
 | ::{ flag=TW }:: | **Taiwan** | **::wee::{ user=24533726 }**, ::masssss::{ user=30795600 }, ::yth666h::{ user=20509581 }, ::leegun::{ user=33413887 } |
-| ::{ flag=GB }:: | **United Kingdom** | **::MiniEgg\123::{ user=25914360 }**, ::Sparxe::{ user=5750235 }, ::Teezel::{ user=7528639 }, ::Zoobin4::{ user=10055204 } |
+| ::{ flag=GB }:: | **United Kingdom** | **::MiniEgg_23::{ user=25914360 }**, ::Sparxe::{ user=5750235 }, ::Teezel::{ user=7528639 }, ::Zoobin4::{ user=10055204 } |
 | ::{ flag=US }:: | **United States** | **::Sleeby Maddy::{ user=7001787 }**, ::Sydosys::{ user=17523947 }, ::ERA Basil::{ user=7097990 }, ::ERA Dev::{ user=16407268 } |
 | ::{ flag=GB }:: | **United Tingdom** | **::TingMomentum::{ user=12489832 }**, ::Pulsing::{ user=19141386 }, ::-XxbluezaperxX-::{ user=12264218 } |
 
@@ -88,9 +88,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Japan** (**::Grape\1Tea::{ user=9540073 }**, ::hz404::{ user=14947043 }, ::\1Crz\1yomogi237::{ user=28571440 }, ::SORA\1T4kAhqSh1::{ user=30549266 }) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Japan** (**::Grape_Tea::{ user=9540073 }**, ::hz404::{ user=14947043 }, ::[Crz]yomogi237::{ user=28571440 }, ::SORA_T4kAhqSh1::{ user=30549266 }) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **United States** (**::Sleeby Maddy::{ user=7001787 }**, ::Sydosys::{ user=17523947 }, ::ERA Basil::{ user=7097990 }, ::ERA Dev::{ user=16407268 }) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **United Kingdom** (**::MiniEgg\123::{ user=25914360 }**, ::Sparxe::{ user=5750235 }, ::Teezel::{ user=7528639 }, ::Zoobin4::{ user=10055204 }) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **United Kingdom** (**::MiniEgg_23::{ user=25914360 }**, ::Sparxe::{ user=5750235 }, ::Teezel::{ user=7528639 }, ::Zoobin4::{ user=10055204 }) |
 
 ![](img/podium.jpg "1KWC 2025 podium")
 

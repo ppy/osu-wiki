@@ -87,7 +87,7 @@ That said, ::Sylas::{ user=3906405 } and ::Mimari::{ user=14339830 } have been g
 
 ![Twin Trials osu! community vote badge](https://assets.ppy.sh/profile-badges/twintrials2023-COM-STANDARD.png)
 
-And while they're not earning major prizes, we'd like to also shout out ::yf\1bmp::{ user=1243669 } and ::Moecho::{ user=5075660 } for making an unparalleled submission for the song [Anti Hero](https://osu.ppy.sh/beatmapsets/1972202), which  was relatively untouched in osu! submissions. If you're looking for something completely fresh (both musically and from a mapping perspective), this is the map for you.
+And while they're not earning major prizes, we'd like to also shout out ::yf_bmp::{ user=1243669 } and ::Moecho::{ user=5075660 } for making an unparalleled submission for the song [Anti Hero](https://osu.ppy.sh/beatmapsets/1972202), which  was relatively untouched in osu! submissions. If you're looking for something completely fresh (both musically and from a mapping perspective), this is the map for you.
 
 ### osu!taiko
 
@@ -209,7 +209,7 @@ Props to these peak performers:
 | **Normal playlists** | ::{ flag=US }:: ::fieryrage::{ user=3533958 } | ::{ flag=JP }:: ::Yukiama95::{ user=18535502 } | ::{ flag=LV }:: ::AnApple7::{ user=12567935 } | ::{ flag=US }:: ::mashu::{ user=12028216 } |
 | **Hard playlists** | ::{ flag=US }:: ::fieryrage::{ user=3533958 } | ::{ flag=JP }:: ::Yukiama95::{ user=18535502 } | ::{ flag=TR }:: ::Yasinnnnnn::{ user=17482520 } | ::{ flag=US }:: ::mashu::{ user=12028216 } |
 | **Insane playlists** | ::{ flag=US }:: ::fieryrage::{ user=3533958 } | ::{ flag=JP }:: ::Yukiama95::{ user=18535502 } | ::{ flag=LV }:: ::AnApple7::{ user=12567935 } | ::{ flag=US }:: ::mashu::{ user=12028216 } |
-| **Expert playlists** | ::{ flag=US }:: ::fieryrage::{ user=3533958 } | ::{ flag=JP }:: ::Grape\1Tea::{ user=9540073 } | ::{ flag=RU }:: ::Kimitakari::{ user=4741164 } | ::{ flag=US }:: ::mashu::{ user=12028216 } |
+| **Expert playlists** | ::{ flag=US }:: ::fieryrage::{ user=3533958 } | ::{ flag=JP }:: ::Grape_Tea::{ user=9540073 } | ::{ flag=RU }:: ::Kimitakari::{ user=4741164 } | ::{ flag=US }:: ::mashu::{ user=12028216 } |
 
 And extra congrats to ::fieryrage::{ user=3533958 } and ::mashu::{ user=12028216 } for grinding out 1st place in every playlist for their respective modes.
 

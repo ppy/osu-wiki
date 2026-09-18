@@ -424,7 +424,7 @@ Only the top 55 players advance to the next round.
 | #42 | ::{ flag=HK }:: ::Irone OSU::{ user=10678230 } | 3,961,413 |
 | #43 | ::{ flag=PY }:: ::MomonSama::{ user=7762488 } | 3,960,762 |
 | #44 | ::{ flag=GB }:: ::Zoobin4::{ user=10055204 } | 3,956,611 |
-| #45 | ::{ flag=PL }:: ::s\1kolorowa::{ user=11430587 } | 3,954,786 |
+| #45 | ::{ flag=PL }:: ::s_kolorowa::{ user=11430587 } | 3,954,786 |
 | #46 | ::{ flag=PL }:: ::Mr\_adamello::{ user=7420894 } | 3,954,368 |
 | #47 | ::{ flag=MY }:: ::Unicow::{ user=9444174 } | 3,951,033 |
 | #48 | ::{ flag=BR }:: ::Halo-::{ user=7572142 } | 3,950,372 |

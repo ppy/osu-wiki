@@ -67,7 +67,7 @@ Everyone in this team has earned the **Overall runner-up** profile badge!
 
 ### Overall winner
 
-Telling a story about how osu! reaches all corners of the world, [this submission](https://osu.ppy.sh/beatmapsets/1841885) by ::yf\1bmp::{ user=1243669 }, ::TtmnZk::{ user=2495509 }, ::Yugu::{ user=3161834 }, ::Chaoslitz::{ user=3621552 } and ::Yumeno Himiko::{ user=1806962 } is not only the **overall winner**, but also the **highest scoring entry from the mapper judge panel** and the **community vote winner** by over 100 votes!
+Telling a story about how osu! reaches all corners of the world, [this submission](https://osu.ppy.sh/beatmapsets/1841885) by ::yf_bmp::{ user=1243669 }, ::TtmnZk::{ user=2495509 }, ::Yugu::{ user=3161834 }, ::Chaoslitz::{ user=3621552 } and ::Yumeno Himiko::{ user=1806962 } is not only the **overall winner**, but also the **highest scoring entry from the mapper judge panel** and the **community vote winner** by over 100 votes!
 
 ![Overall winner](/wiki/shared/news/2022-10-04-results-triangles/overall.jpg)
 

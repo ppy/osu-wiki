@@ -62,7 +62,7 @@ One of the most competitive and dramatic iterations of the osu! World Cup has co
 
 The top 3 of OWC 2021 have returned for this year's podium, but the placings have shuffled around a bit. The US team extended their title streak to five in a row, beating South Korea in a tense bracket reset. Germany keeps gathering OWC badges with a third-place finish.
 
-Everything was set for a South Korean Cinderella story. After the fifth-place seeding, the Asian roster was widely regarded as one of the top teams, but was predicted to fall short on making the Grand Finals stage. The main reason: two key members, namely ::FlyingTuna::{ user=9224078 } and ::Karuna::{ user=8775024 }, have left the team and five new members were introduced. However, a new unstoppable duo with ::worst hr player::{ user=14106450 } and ::\1Karcher\1::{ user=11443437 } appeared, both having an incredible year of solo and team community tournaments. The mental stability helped to win back-to-back tiebreaker fights against the North American teams Canada and, surprisingly, the USA.
+Everything was set for a South Korean Cinderella story. After the fifth-place seeding, the Asian roster was widely regarded as one of the top teams, but was predicted to fall short on making the Grand Finals stage. The main reason: two key members, namely ::FlyingTuna::{ user=9224078 } and ::Karuna::{ user=8775024 }, have left the team and five new members were introduced. However, a new unstoppable duo with ::worst hr player::{ user=14106450 } and ::[Karcher]::{ user=11443437 } appeared, both having an incredible year of solo and team community tournaments. The mental stability helped to win back-to-back tiebreaker fights against the North American teams Canada and, surprisingly, the USA.
 
 South Korea's opponent in the winners' bracket finals was Germany with captain ::criller::{ user=8116659 } and star player ::WhiteCat::{ user=4504101 }. They have constantly "passed the eye test" with rock-solid wins relying on aim and speed, but they showed unexpected flaws on the consistency and Double Time picks against the South Korean roster. The Asian side used these weaknesses to their advantage and secured their top 2 spot with a 7-3 victory. Now, the Germans would meet the US team once again — in the Grand Finals losers' bracket.
 
@@ -178,7 +178,7 @@ Furthermore, descriptions have been added to all user groups, informing players 
 
 Last month's question took a bit longer to answer than usual, but the answer was still found!
 
-Congratulations to ::metis\1::{ user=8171561 } for being the first person to answer last month's question and score themselves 1 month of osu!supporter!
+Congratulations to ::metis_::{ user=8171561 } for being the first person to answer last month's question and score themselves 1 month of osu!supporter!
 For anyone who missed last month's edition, the question was:
 
 *"What symbol of Halloween went extinct in early 2015, and what did they drop after their reincarnation?"*

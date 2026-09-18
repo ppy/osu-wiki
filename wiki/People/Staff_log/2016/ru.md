@@ -25,7 +25,7 @@
 ## Март
 
 - Перемещение ::Gamu::{ user=611174 } из Quality Assurance Team в osu! Alumni (2016-03-03)
-- Перемещение ::Zero\1\1wind::{ user=1822830 } из osu! Alumni в Global Moderation Team (2016-03-17)
+- Перемещение ::Zero__wind::{ user=1822830 } из osu! Alumni в Global Moderation Team (2016-03-17)
 - Добавление ::Seijiro::{ user=2581696 } в Global Moderation Team (2016-03-17)
 
 ### Добавления в Beatmap Nominator
@@ -69,10 +69,10 @@
 - ::Doyak::{ user=2046893 }
 - ::Volta::{ user=4154071 }
 - ::Nwolf::{ user=1910766 }
-- ::\1Sc4v4ng3r\1::{ user=4838429 }
+- ::[Sc4v4ng3r]::{ user=4838429 }
 - ::Ascendance::{ user=2931883 }
 - ::Fresh Chicken::{ user=3984370 }
-- ::\1 A v a l o n \1::{ user=4632359 }
+- ::[ A v a l o n ]::{ user=4632359 }
 - ::Nivrad00::{ user=1984634 }
 - ::Rizqy::{ user=1411817 }
 
@@ -105,7 +105,7 @@
 - ::Xexxar::{ user=2773526 }
 - ::ezek::{ user=180241 }
 - ::sahuang::{ user=5318910 }
-- ::Zero\1\1wind::{ user=1822830 }
+- ::Zero__wind::{ user=1822830 }
 - ::Pentori::{ user=7452237 }
 - ::Sieg::{ user=1404615 }
 

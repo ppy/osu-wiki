@@ -93,7 +93,7 @@ The osu!mania 4K Chinese National Cup 2022 was run by various community members.
 | #28 | ::{ flag=CN }:: ::Zyuuu::{ user=15389275 } |
 | #29 | ::{ flag=CN }:: ::chana::{ user=18375016 } |
 | #30 | ::{ flag=CN }:: ::\[Crz\]IsxI::{ user=18042127 } |
-| #31 | ::{ flag=CN }:: ::Wings\1AnChen::{ user=12694894 } |
+| #31 | ::{ flag=CN }:: ::Wings_AnChen::{ user=12694894 } |
 | #32 | ::{ flag=CN }:: ::\[GB\]yobrevelc::{ user=14128407 } |
 | #33 | ::{ flag=CN }:: ::\[GB\]sherweifa::{ user=17457562 } |
 | #34 | ::{ flag=CN }:: ::gzdongsheng::{ user=8660315 } |
@@ -106,9 +106,9 @@ The osu!mania 4K Chinese National Cup 2022 was run by various community members.
 | #41 | ::{ flag=CN }:: ::U1d::{ user=10125072 } |
 | #42 | ::{ flag=CN }:: ::Rudown::{ user=7850540 } |
 | #43 | ::{ flag=HK }:: ::Alptraum::{ user=26496648 } |
-| #44 | ::{ flag=CN }:: ::\[JbL\]Hx\1032::{ user=11603156 } |
+| #44 | ::{ flag=CN }:: ::\[JbL\]Hx_032::{ user=11603156 } |
 | #45 | ::{ flag=CN }:: ::shade0214::{ user=14665128 } |
-| #46 | ::{ flag=CN }:: ::N3k0ha\15h12uku::{ user=8781662 } |
+| #46 | ::{ flag=CN }:: ::N3k0ha_5h12uku::{ user=8781662 } |
 | #47 | ::{ flag=CN }:: ::Etanity Larva::{ user=10449022 } |
 | #48 | ::{ flag=CN }:: ::katiexie::{ user=5908765 } |
 | #49 | ::{ flag=HK }:: ::MCPXiaoBai::{ user=11259611 } |
@@ -117,7 +117,7 @@ The osu!mania 4K Chinese National Cup 2022 was run by various community members.
 | #52 | ::{ flag=CN }:: ::Gregcraft::{ user=18809246 } |
 | #53 | ::{ flag=CN }:: ::\[GB\]Cz::{ user=9191281 } |
 | #54 | ::{ flag=CN }:: ::ICspoon::{ user=10398689 } |
-| #55 | ::{ flag=CN }:: ::MIKUlove\1::{ user=20387245 } |
+| #55 | ::{ flag=CN }:: ::MIKUlove_::{ user=20387245 } |
 | #56 | ::{ flag=CN }:: ::dreamed123::{ user=20602698 } |
 | #57 | ::{ flag=CN }:: ::\[GB\]dotdot::{ user=15923740 } |
 | #58 | ::{ flag=HK }:: ::iRedi::{ user=8005579 } |

@@ -55,20 +55,20 @@ Le calendrier de la phase de storyboarding sera dévoilé prochainement.
 | dönerbuden bande | ::{ flag=DE }:: ::Slifer::{ user=15084122 }, ::{ flag=DE }:: ::PaRaDogi::{ user=2054596 } | [#1](https://osu.ppy.sh/beatmapsets/1971983) |
 | Double Trouble | ::{ flag=DZ }:: ::IssaFR::{ user=23234320 }, ::{ flag=DE }:: ::SiriusOnly::{ user=22287370 } | [#1](https://osu.ppy.sh/beatmapsets/1972412) |
 | Eye of Aeon | ::{ flag=UA }:: ::allein::{ user=6221637 }, ::{ flag=RU }:: ::Mirash::{ user=2841009 } | [#1](https://osu.ppy.sh/beatmapsets/1972126) |
-| FUMO 20 GRAMMI IN 10 SEC CAR | ::{ flag=IT }:: ::Shiraya Sayuki::{ user=19077461 }, ::{ flag=KR }:: ::Kaguya\1Sama::{ user=9326064 } | [#1](https://osu.ppy.sh/beatmapsets/1972425) |
+| FUMO 20 GRAMMI IN 10 SEC CAR | ::{ flag=IT }:: ::Shiraya Sayuki::{ user=19077461 }, ::{ flag=KR }:: ::Kaguya_Sama::{ user=9326064 } | [#1](https://osu.ppy.sh/beatmapsets/1972425) |
 | Harvard Dropouts™ | ::{ flag=BE }:: ::Sylas::{ user=3906405 }, ::{ flag=US }:: ::Mimari::{ user=14339830 } | [#1](https://osu.ppy.sh/beatmapsets/1972749) |
 | Imperishable Night | ::{ flag=KR }:: ::Down::{ user=4694602 }, ::{ flag=KR }:: ::Dailycare::{ user=1634445 } | [#1](https://osu.ppy.sh/beatmapsets/1972104) |
 | Nightcord at Various Times | ::{ flag=US }:: ::Local Hero::{ user=16134122 }, ::{ flag=IT }:: ::Kuroise::{ user=14547127 } | [#1](https://osu.ppy.sh/beatmapsets/1972105) |
 | nilou mains | ::{ flag=GB }:: ::-jordan-::{ user=7288862 }, ::{ flag=ID }:: ::Shinjuko::{ user=10558466 } | [#1](https://osu.ppy.sh/beatmapsets/1972507) |
 | PepeBusinessCorp | ::{ flag=EE }:: ::iljaaz::{ user=8501291 }, ::{ flag=GB }:: ::DeviousPanda::{ user=4966334 } | [#1](https://osu.ppy.sh/beatmapsets/1971987) |
 | Salute, bebra | ::{ flag=RU }:: ::zadknus::{ user=12101917 }, ::{ flag=RU }:: ::Hyokar::{ user=16546696 } | [#1](https://osu.ppy.sh/beatmapsets/1973571) |
-| Twin-Tails | ::{ flag=CN }:: ::yf\1bmp::{ user=1243669 }, ::{ flag=CN }:: ::Moecho::{ user=5075660 } | [#1](https://osu.ppy.sh/beatmapsets/1972202) |
+| Twin-Tails | ::{ flag=CN }:: ::yf_bmp::{ user=1243669 }, ::{ flag=CN }:: ::Moecho::{ user=5075660 } | [#1](https://osu.ppy.sh/beatmapsets/1972202) |
 
 ### osu!taiko
 
 | Nom de l'équipe | Membres | Soumission |
 | :-- | :-- | :-- |
-| -w-)b | ::{ flag=FR }:: ::\1yosh::{ user=7157133 }, ::{ flag=MY }:: ::ler1211::{ user=19901680 } | [#1](https://osu.ppy.sh/beatmapsets/1972219) |
+| -w-)b | ::{ flag=FR }:: ::_yosh::{ user=7157133 }, ::{ flag=MY }:: ::ler1211::{ user=19901680 } | [#1](https://osu.ppy.sh/beatmapsets/1972219) |
 | Frozen Bananas | ::{ flag=JP }:: ::uone::{ user=5321719 }, ::{ flag=JP }:: ::iceOC::{ user=5482401 } | [#1](https://osu.ppy.sh/beatmapsets/1972268) |
 | meow | ::{ flag=US }:: ::fieryrage::{ user=3533958 }, ::{ flag=GB }:: ::Horiiizon::{ user=8071438 } | [#1](https://osu.ppy.sh/beatmapsets/1975181) |
 | Playing Counter Strike: Global Offensive | ::{ flag=HK }:: ::Faputa::{ user=845733 }, ::{ flag=HK }:: ::Cynplytholowazy::{ user=3901754 } | [#1](https://osu.ppy.sh/beatmapsets/1972018) |
@@ -82,7 +82,7 @@ Le calendrier de la phase de storyboarding sera dévoilé prochainement.
 | :moyai: | ::{ flag=PH }:: ::Jemzuu::{ user=7890134 }, ::{ flag=PH }:: ::-Rustyy::{ user=16355636 } | [#1](https://osu.ppy.sh/beatmapsets/1972145) |
 | Alien Tails | ::{ flag=ES }:: ::Deif::{ user=318565 }, ::{ flag=HK }:: ::autofanboy::{ user=636114 } | [#1](https://osu.ppy.sh/beatmapsets/1972368) |
 | Catch the AFK | ::{ flag=CN }:: ::sxy62146214::{ user=8386591 }, ::{ flag=MY }:: ::Summerleopard::{ user=8437630 } | [#1](https://osu.ppy.sh/beatmapsets/1972031) |
-| Team name | ::{ flag=CA }:: ::Unlucky\1w::{ user=4820793 }, ::{ flag=CA }:: ::Ymiir::{ user=3922569 } | [#1](https://osu.ppy.sh/beatmapsets/1972394) |
+| Team name | ::{ flag=CA }:: ::Unlucky_w::{ user=4820793 }, ::{ flag=CA }:: ::Ymiir::{ user=3922569 } | [#1](https://osu.ppy.sh/beatmapsets/1972394) |
 
 ### osu!mania
 
@@ -117,10 +117,10 @@ Tout comme les prix, les juges de ce concours sont séparés par mode :
 
 | Mode de jeu | Juges |
 | :-- | :-- |
-| osu! | ::{ flag=CA }:: ::Gordon::{ user=7856835 }, ::{ flag=DE }:: ::FuJu::{ user=10773882 }, ::{ flag=GB }:: ::Shii::{ user=9186316 }, ::{ flag=HU }:: ::Nytrocide\1::{ user=11327918 }, ::{ flag=PH }:: ::newton-::{ user=5875419 }, ::{ flag=IT }:: ::Zekk::{ user=9704802 }, ::{ flag=US }:: ::fowwo::{ user=4547551 }, ::{ flag=SG }:: ::achyoo::{ user=7823498 }, ::{ flag=SG }:: ::chaser01::{ user=18730172 }, ::{ flag=CA }:: ::Agatsu::{ user=5579871 }, ::{ flag=DE }:: ::Mao::{ user=2204515 } |
+| osu! | ::{ flag=CA }:: ::Gordon::{ user=7856835 }, ::{ flag=DE }:: ::FuJu::{ user=10773882 }, ::{ flag=GB }:: ::Shii::{ user=9186316 }, ::{ flag=HU }:: ::Nytrocide_::{ user=11327918 }, ::{ flag=PH }:: ::newton-::{ user=5875419 }, ::{ flag=IT }:: ::Zekk::{ user=9704802 }, ::{ flag=US }:: ::fowwo::{ user=4547551 }, ::{ flag=SG }:: ::achyoo::{ user=7823498 }, ::{ flag=SG }:: ::chaser01::{ user=18730172 }, ::{ flag=CA }:: ::Agatsu::{ user=5579871 }, ::{ flag=DE }:: ::Mao::{ user=2204515 } |
 | osu!taiko | ::{ flag=DE }:: ::Greenshell::{ user=8693851 }, ::{ flag=US }:: ::meiqth::{ user=12565402 }, ::{ flag=NL }:: ::Boaz::{ user=13302996 }, ::{ flag=SE }:: ::Raphalge::{ user=3918650 } |
 | osu!catch | ::{ flag=CA }:: ::wwwww::{ user=8434466 }, ::{ flag=KR }:: ::Rocma::{ user=566276 }, ::{ flag=NL }:: ::Greaper::{ user=2369776 }, ::{ flag=NL }:: ::Chatie::{ user=6524765 } |
-| osu!mania | ::{ flag=US }:: ::Unpredictable::{ user=7560872 }, ::{ flag=CN }:: ::\1Stan::{ user=1653229 }, ::{ flag=CN }:: ::MadBricktree::{ user=4790958 }, ::{ flag=CN }:: ::gzdongsheng::{ user=8660315 }, ::{ flag=US }:: ::Protastic101::{ user=6712747 } |
+| osu!mania | ::{ flag=US }:: ::Unpredictable::{ user=7560872 }, ::{ flag=CN }:: ::_Stan::{ user=1653229 }, ::{ flag=CN }:: ::MadBricktree::{ user=4790958 }, ::{ flag=CN }:: ::gzdongsheng::{ user=8660315 }, ::{ flag=US }:: ::Protastic101::{ user=6712747 } |
 
 ### Vote communautaire
 
@@ -236,4 +236,4 @@ Les catégories suivantes ont été évaluées pour toutes les difficultés d'un
 | **Playlists Normal** | ::{ flag=US }:: ::fieryrage::{ user=3533958 } | ::{ flag=JP }:: ::Yukiama95::{ user=18535502 } | ::{ flag=LV }:: ::AnApple7::{ user=12567935 } | ::{ flag=US }:: ::mashu::{ user=12028216 } |
 | **Playlists Hard** | ::{ flag=US }:: ::fieryrage::{ user=3533958 } | ::{ flag=JP }:: ::Yukiama95::{ user=18535502 } | ::{ flag=TR }:: ::Yasinnnnnn::{ user=17482520 } | ::{ flag=US }:: ::mashu::{ user=12028216 } |
 | **Playlists Insane** | ::{ flag=US }:: ::fieryrage::{ user=3533958 } | ::{ flag=JP }:: ::Yukiama95::{ user=18535502 } | ::{ flag=LV }:: ::AnApple7::{ user=12567935 } | ::{ flag=US }:: ::mashu::{ user=12028216 } |
-| **Playlists Expert** | ::{ flag=US }:: ::fieryrage::{ user=3533958 } | ::{ flag=JP }:: ::Grape\1Tea::{ user=9540073 } | ::{ flag=RU }:: ::Kimitakari::{ user=4741164 } | ::{ flag=US }:: ::mashu::{ user=12028216 } |
+| **Playlists Expert** | ::{ flag=US }:: ::fieryrage::{ user=3533958 } | ::{ flag=JP }:: ::Grape_Tea::{ user=9540073 } | ::{ flag=RU }:: ::Kimitakari::{ user=4741164 } | ::{ flag=US }:: ::mashu::{ user=12028216 } |

@@ -49,7 +49,7 @@ Send some appreciation to ::arcpotato::{ user=12842392 }, ::meiqth::{ user=12565
 
 | Placement | User | Beatmap | Badge prize | Title prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Winner | ::Unlucky\1w::{ user=4820793 } | [Kommisar - Clover](https://osu.ppy.sh/beatmapsets/2195848) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-3.png) | *Elite Mapper* | +2 (7 total) |
+| Winner | ::Unlucky_w::{ user=4820793 } | [Kommisar - Clover](https://osu.ppy.sh/beatmapsets/2195848) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-3.png) | *Elite Mapper* | +2 (7 total) |
 | Runner-up | ::Ilhamuharam::{ user=7657968 } | [Boom Kitty - Warzone](https://osu.ppy.sh/beatmapsets/2195813) | - | - | +1 (1 total) |
 
 #### Top 8
@@ -62,7 +62,7 @@ Send some appreciation to ::arcpotato::{ user=12842392 }, ::meiqth::{ user=12565
 
 Today, that streak of silence is broken.
 
-::Unlucky\1w::{ user=4820793 } accomplished an incredible feat: **placing 1st in *three contests* in a row!** welcome osu!catch's newest *Elite Mapper*!
+::Unlucky_w::{ user=4820793 } accomplished an incredible feat: **placing 1st in *three contests* in a row!** welcome osu!catch's newest *Elite Mapper*!
 
 And thanks to ::Morusya::{ user=13681464 }, ::wwwww::{ user=8434466 }, ::fayew::{ user=12498861 }, and ::Mniam::{ user=6050530 } for judging these maps!
 

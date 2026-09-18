@@ -53,10 +53,10 @@ The National Dutch Championship 2024 was run by various community members.
 | Mappool selector | ::{ flag=CA }:: ::chiv::{ user=6701656 }, ::{ flag=NL }:: ::niqht::{ user=14390731 }, ::{ flag=TR }:: ::Ryukishi::{ user=9045874 }, ::{ flag=NL }:: ::nijlpaard::{ user=30921375 }, ::{ flag=NL }:: ::Lilily::{ user=6502403 }, ::{ flag=NL }:: ::Sroj::{ user=4783389 }, ::{ flag=NL }:: ::- Ethereal -::{ user=9357932 } |
 | Mapper | ::{ flag=NL }:: ::Castagne::{ user=12270596 }, ::{ flag=NL }:: ::taku::{ user=684433 }, ::{ flag=NL }:: ::CMeFly::{ user=12195391 }, ::{ flag=DE }:: ::PaRaDogi::{ user=2054596 }, ::{ flag=NL }:: ::happy30::{ user=27767 }, ::{ flag=DE }:: ::Mir::{ user=8688812 }, ::{ flag=US }:: ::Boppin::{ user=3275468 }, ::{ flag=NL }:: ::Mijn Aim Zuigt::{ user=4587487 }, ::{ flag=NO }:: ::BarkingMadDog::{ user=3475189 }, ::{ flag=ID }:: ::Celine::{ user=3545579 } |
 | Playtester | ::{ flag=NL }:: ::Lilily::{ user=6502403 }, ::{ flag=NL }:: ::Quinten::{ user=5101306 }, ::{ flag=BE }:: ::Hanori::{ user=7078544 }, ::{ flag=NL }:: ::Seleen::{ user=9362168 }, ::{ flag=NL }:: ::CMeFly::{ user=12195391 }, ::{ flag=GB }:: ::HAUNTE::{ user=7333471 }, ::{ flag=NO }:: ::Melvr::{ user=9211924 }, ::{ flag=PH }:: ::NathanRam1918::{ user=4734703 }, ::{ flag=DE }:: ::ZeitFrost::{ user=11234706 }, ::{ flag=NL }:: ::AngelNamirin::{ user=6145220 }, ::{ flag=NL }:: ::draconia::{ user=20241831 }, ::{ flag=NL }:: ::UnveiledGolem::{ user=14090438 }, ::{ flag=BE }:: ::5joshi::{ user=4279650 }, ::{ flag=BR }:: ::Dropinx::{ user=4687701 }, ::{ flag=BE }:: ::hexi::{ user=10760701 }, ::{ flag=PL }:: ::Bartek22830::{ user=6404027 }, ::{ flag=CA }:: ::Saryi::{ user=10051720 }, ::{ flag=NL }:: ::TurtleSenpaii::{ user=12241010 }, ::{ flag=FI }:: ::mxu::{ user=18687807 } |
-| Referee | ::{ flag=NL }:: ::Lilily::{ user=6502403 }, ::{ flag=NL }:: ::Kapsalon::{ user=6941124 }, ::{ flag=NL }:: ::KayoNar::{ user=6960689 }, ::{ flag=NL }:: ::Bart::{ user=15961009 }, ::{ flag=NL }:: ::Marslam::{ user=16814497 }, ::{ flag=NL }:: ::Happy\124::{ user=12876323 }, ::{ flag=NL }:: ::JustChe::{ user=18229204 }, ::{ flag=NL }:: ::Fubu::{ user=12719649 }, ::{ flag=NL }:: ::Mr HeliX::{ user=2330619 }, ::{ flag=NL }:: ::- Ethereal -::{ user=9357932 }, ::{ flag=NL }:: ::DeathByDarwin::{ user=9087777 } |
-| Streamer | ::{ flag=NL }:: ::Lilily::{ user=6502403 }, ::{ flag=NL }:: ::Amarillo::{ user=6632587 }, ::{ flag=NL }:: ::UnveiledGolem::{ user=14090438 }, ::{ flag=NL }:: ::Fubu::{ user=12719649 }, ::{ flag=NL }:: ::Happy\124::{ user=12876323 }, ::{ flag=NL }:: ::Mr HeliX::{ user=2330619 } |
-| Commentator | ::{ flag=NL }:: ::Lilily::{ user=6502403 }, ::{ flag=NL }:: ::Sroj::{ user=4783389 }, ::{ flag=NL }:: ::UnveiledGolem::{ user=14090438 }, ::{ flag=NL }:: ::Bart::{ user=15961009 }, ::{ flag=NL }:: ::Telegy::{ user=16322001 }, ::{ flag=NL }:: ::Fubu::{ user=12719649 }, ::{ flag=NL }:: ::Swerro::{ user=4507667 }, ::{ flag=NL }:: ::Mr HeliX::{ user=2330619 }, ::{ flag=NL }:: ::cozyin::{ user=12200180 }, ::{ flag=NL }:: ::Wittepoes::{ user=12984931 }, ::{ flag=NL }:: ::n0ah::{ user=3086393 }, ::{ flag=NL }:: ::wessel\1osu2::{ user=4382220 }, ::{ flag=NL }:: ::sofuraabu::{ user=7639453 } |
-| Designer | ::{ flag=NL }:: ::Happy\124::{ user=12876323 } |
+| Referee | ::{ flag=NL }:: ::Lilily::{ user=6502403 }, ::{ flag=NL }:: ::Kapsalon::{ user=6941124 }, ::{ flag=NL }:: ::KayoNar::{ user=6960689 }, ::{ flag=NL }:: ::Bart::{ user=15961009 }, ::{ flag=NL }:: ::Marslam::{ user=16814497 }, ::{ flag=NL }:: ::Happy_24::{ user=12876323 }, ::{ flag=NL }:: ::JustChe::{ user=18229204 }, ::{ flag=NL }:: ::Fubu::{ user=12719649 }, ::{ flag=NL }:: ::Mr HeliX::{ user=2330619 }, ::{ flag=NL }:: ::- Ethereal -::{ user=9357932 }, ::{ flag=NL }:: ::DeathByDarwin::{ user=9087777 } |
+| Streamer | ::{ flag=NL }:: ::Lilily::{ user=6502403 }, ::{ flag=NL }:: ::Amarillo::{ user=6632587 }, ::{ flag=NL }:: ::UnveiledGolem::{ user=14090438 }, ::{ flag=NL }:: ::Fubu::{ user=12719649 }, ::{ flag=NL }:: ::Happy_24::{ user=12876323 }, ::{ flag=NL }:: ::Mr HeliX::{ user=2330619 } |
+| Commentator | ::{ flag=NL }:: ::Lilily::{ user=6502403 }, ::{ flag=NL }:: ::Sroj::{ user=4783389 }, ::{ flag=NL }:: ::UnveiledGolem::{ user=14090438 }, ::{ flag=NL }:: ::Bart::{ user=15961009 }, ::{ flag=NL }:: ::Telegy::{ user=16322001 }, ::{ flag=NL }:: ::Fubu::{ user=12719649 }, ::{ flag=NL }:: ::Swerro::{ user=4507667 }, ::{ flag=NL }:: ::Mr HeliX::{ user=2330619 }, ::{ flag=NL }:: ::cozyin::{ user=12200180 }, ::{ flag=NL }:: ::Wittepoes::{ user=12984931 }, ::{ flag=NL }:: ::n0ah::{ user=3086393 }, ::{ flag=NL }:: ::wessel_osu2::{ user=4382220 }, ::{ flag=NL }:: ::sofuraabu::{ user=7639453 } |
+| Designer | ::{ flag=NL }:: ::Happy_24::{ user=12876323 } |
 
 ## Links
 
@@ -73,7 +73,7 @@ The National Dutch Championship 2024 was run by various community members.
 | 1 | ::{ flag=NL }:: ::Aheo::{ user=14919428 } | #748 | #10 |
 | 2 | ::{ flag=NL }:: ::draconia::{ user=20241831 } | #15964 | #194 |
 | 3 | ::{ flag=NL }:: ::LUCIANO::{ user=11604978 } | #53 | #1 |
-| 4 | ::{ flag=NL }:: ::wessel\1osu2::{ user=4382220 } | #2143 | #28 |
+| 4 | ::{ flag=NL }:: ::wessel_osu2::{ user=4382220 } | #2143 | #28 |
 | 5 | ::{ flag=NL }:: ::Dolter::{ user=6920104 } | #964 | #14 |
 | 6 | ::{ flag=NL }:: ::Nederland::{ user=15802126 } | #392 | #7 |
 | 7 | ::{ flag=NL }:: ::heyronii::{ user=5642779 } | #783 | #11 |
@@ -101,7 +101,7 @@ The National Dutch Championship 2024 was run by various community members.
 | 29 | ::{ flag=NL }:: ::Trehaloses::{ user=5570153 } | #11469 | #136 |
 | 30 | ::{ flag=NL }:: ::TheCoolJfp::{ user=7041796 } | #11354 | #134 |
 | 31 | ::{ flag=NL }:: ::oetluller::{ user=15218429 } | #14553 | #172 |
-| 32 | ::{ flag=NL }:: ::GeKa\1Z::{ user=13233381 } | #12862 | #153 |
+| 32 | ::{ flag=NL }:: ::GeKa_Z::{ user=13233381 } | #12862 | #153 |
 | 33 | ::{ flag=NL }:: ::wessel osu1::{ user=6577301 } | #9667 | #114 |
 | 34 | ::{ flag=NL }:: ::NeonCircles::{ user=13702202 } | #19920 | #231 |
 | 35 | ::{ flag=NL }:: ::nik::{ user=10077264 } | #10753 | #127 |
@@ -114,7 +114,7 @@ The National Dutch Championship 2024 was run by various community members.
 | 42 | ::{ flag=NL }:: ::matthijs661::{ user=17384912 } | #62953 | #730 |
 | 43 | ::{ flag=NL }:: ::tortvred::{ user=21505584 } | #7681 | #88 |
 | 44 | ::{ flag=NL }:: ::Fubu::{ user=12719649 } | #25307 | #290 |
-| 45 | ::{ flag=NL }:: ::prins\1off\1hell::{ user=30975022 } | #87987 | #1047 |
+| 45 | ::{ flag=NL }:: ::prins_off_hell::{ user=30975022 } | #87987 | #1047 |
 | 46 | ::{ flag=NL }:: ::-SanaBanana-::{ user=5371593 } | #65375 | #774 |
 | 47 | ::{ flag=NL }:: ::speedbeats24::{ user=15191079 } | #53486 | #625 |
 | 48 | ::{ flag=NL }:: ::Piglin::{ user=26139689 } | #36038 | #424 |

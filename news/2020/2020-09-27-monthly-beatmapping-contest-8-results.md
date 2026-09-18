@@ -55,7 +55,7 @@ In addition to his successes today, Acylica's submissions were also the screenin
 
 And that concludes August's contest! If you participated, you should have received a message including the screening crew's input on your entry.
 
-Thanks to ::Uberzolik::{ user=1314547 }, ::Nozhomi::{ user=2716981 }, ::Agatsu::{ user=5579871 }, ::Cheri::{ user=5226970 }, ::hypercyte::{ user=9155377 }, ::Myxo::{ user=2202645 }, ::Regou::{ user=419954 }, ::J1\1::{ user=5918561 }, ::Pachiru::{ user=2850983 }, and ::Akito::{ user=5716327 } for screening this month's entries, as well as ::Seolv::{ user=8067876 }, ::Gero::{ user=1467715 }, ::Nuvolina::{ user=10974170 }, ::-Aqua::{ user=7150015 }, ::Mazzerin::{ user=2942381 }, and ::Elayue::{ user=6400861 } for judging this month's finalists!
+Thanks to ::Uberzolik::{ user=1314547 }, ::Nozhomi::{ user=2716981 }, ::Agatsu::{ user=5579871 }, ::Cheri::{ user=5226970 }, ::hypercyte::{ user=9155377 }, ::Myxo::{ user=2202645 }, ::Regou::{ user=419954 }, ::J1_::{ user=5918561 }, ::Pachiru::{ user=2850983 }, and ::Akito::{ user=5716327 } for screening this month's entries, as well as ::Seolv::{ user=8067876 }, ::Gero::{ user=1467715 }, ::Nuvolina::{ user=10974170 }, ::-Aqua::{ user=7150015 }, ::Mazzerin::{ user=2942381 }, and ::Elayue::{ user=6400861 } for judging this month's finalists!
 
 If you've got the itch for even *more* mapping, watch out for a new contest at the start of October!
 

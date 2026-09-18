@@ -65,7 +65,7 @@ Here's the top 5 osu!taiko submissions:
 | \#1 | [*Empuxa*](https://osu.ppy.sh/beatmapsets/1439782) by ::Ph0eNiiXZ::{ user=9463721 } | [see details](https://mappersguild.com/contests/results?submission=6062691e6a56d154dccc564b) | 66 | 60 | 62 | 36 | **224** |
 | \#2 | [*Melusia*](https://osu.ppy.sh/beatmapsets/1439869) by ::Nifty::{ user=4956097 } | [see details](https://mappersguild.com/contests/results?submission=606269236a56d154dccc5674) | 65 | 53 | 65 | 33 | **216** |
 | \#3 | [*Empuxa*](https://osu.ppy.sh/beatmapsets/1440121) by ::3san::{ user=8050850 } | [see details](https://mappersguild.com/contests/results?submission=6062691e6a56d154dccc5646) | 61 | 60 | 57 | 34 | **212** |
-| \#4 | [*Melusia*](https://osu.ppy.sh/beatmapsets/1440236) by ::realy0\1::{ user=8863359 } | [see details](https://mappersguild.com/contests/results?submission=6062691f6a56d154dccc5658) | 59 | 60 | 56 | 32 | **207** |
+| \#4 | [*Melusia*](https://osu.ppy.sh/beatmapsets/1440236) by ::realy0_::{ user=8863359 } | [see details](https://mappersguild.com/contests/results?submission=6062691f6a56d154dccc5658) | 59 | 60 | 56 | 32 | **207** |
 | \#5 | [*Empuxa*](https://osu.ppy.sh/beatmapsets/1440030) by ::tasuke912::{ user=2774767 } | [see details](https://mappersguild.com/contests/results?submission=606269226a56d154dccc566f) | 57 | 51 | 55 | 33 | **196** |
 
 ### Winner
@@ -86,7 +86,7 @@ Congratulations again to all the winners! Be sure to check the [MBC leaderboards
 
 For osu!, thanks to ::Noffy::{ user=1541323 }, ::Uberzolik::{ user=1314547 }, ::Nozhomi::{ user=2716981 }, ::Cheri::{ user=5226970 }, ::Agatsu::{ user=5579871 }, ::Daycore::{ user=5596337 }, ::Akito::{ user=5716327 },  ::Aistre::{ user=4879380 }, ::Fisky::{ user=8352623 }, ::Jacob::{ user=2786413 }, and  ::Chugger::{ user=4491713 } for screening this month's entries, as well as ::Nuvolina::{ user=10974170 }, ::xbopost::{ user=6842421 }, ::Seolv::{ user=8067876 }, ::UberFazz::{ user=8646059 }, ::AJT::{ user=3181083 }, and ::Mazzerin::{ user=2942381 } for judging this month's finalists.
 
-And thanks to ::Ulqui::{ user=1263669 }, ::Capu::{ user=2474015 }, ::\1Zeth\1::{ user=9912966 }, ::Axer::{ user=7299864 }, ::Cynplytholowazy::{ user=3901754 }, ::Stefan::{ user=626907 }, ::davidminh0111::{ user=9623142 }, and ::cdhsausageboy::{ user=2403621 } for making the first osu!taiko MBC a reality!
+And thanks to ::Ulqui::{ user=1263669 }, ::Capu::{ user=2474015 }, ::[Zeth]::{ user=9912966 }, ::Axer::{ user=7299864 }, ::Cynplytholowazy::{ user=3901754 }, ::Stefan::{ user=626907 }, ::davidminh0111::{ user=9623142 }, and ::cdhsausageboy::{ user=2403621 } for making the first osu!taiko MBC a reality!
 
 This isn't the end of the road for the Monthly Beatmapping Contest. [April's MBC](https://osu.ppy.sh/home/news/2021-04-08-monthly-beatmapping-contest-april-2021) will continue accepting entries for the next 3 days, so put on your speedmapping shoes and get running.
 

@@ -27,7 +27,7 @@ The playtester's pick and top 5 beatmaps were showcased during the [results anno
 | :-- | :-- |
 | Host | ::{ flag=CA }:: ::Aurele::{ user=654108 }, ::{ flag=AU }:: ::fvrex::{ user=11863699 }, ::{ flag=ID }:: ::Ilham::{ user=3057154 } |
 | Designer | ::{ flag=ID }:: ::kim hyunjin::{ user=9456733 } |
-| Playtester | ::{ flag=ID }:: ::\1yea::{ user=20834055 }, ::{ flag=PL }:: ::Korzei::{ user=11921815 } |
+| Playtester | ::{ flag=ID }:: ::_yea::{ user=20834055 }, ::{ flag=PL }:: ::Korzei::{ user=11921815 } |
 | Judge (osu!mania) | ::{ flag=PH }:: ::Hytex::{ user=8536263 }, ::{ flag=ID }:: ::Maxus::{ user=4335785 }, ::{ flag=KR }:: ::secXcscX::{ user=13543418 }, ::{ flag=ID }:: ::Syrion-::{ user=15380643 }, ::{ flag=ID }:: ::Ucitysm::{ user=14768693 } |
 | Judge (osu!) | ::{ flag=PE }:: ::dakiwii::{ user=10447058 }, ::{ flag=CH }:: ::Irreversible::{ user=1287964 }, ::{ flag=TH }:: ::Kensuke::{ user=4314710 }, ::{ flag=FR }:: ::Nozhomi::{ user=2716981 }, ::{ flag=US }:: ::Passionate::{ user=10194509 } |
 

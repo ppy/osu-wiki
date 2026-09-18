@@ -132,7 +132,7 @@ La musique sélectionnée pour cette édition du tournoi est [Thaehan - Sunrise]
 | :-: | :-- |
 | ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ::{ flag=FR }:: ::Realazy::{ user=918297 } |
 | ![Couronne en argent](/wiki/shared/crown-silver.png "Seconde place") | ::{ flag=CA }:: ::celerih::{ user=4696296 } |
-| ![Couronne en bronze](/wiki/shared/crown-bronze.png "Troisième place") | ::{ flag=CA }:: ::J1\1::{ user=5918561 }, ::{ flag=FR }:: ::PoNo::{ user=4610047 } |
+| ![Couronne en bronze](/wiki/shared/crown-bronze.png "Troisième place") | ::{ flag=CA }:: ::J1_::{ user=5918561 }, ::{ flag=FR }:: ::PoNo::{ user=4610047 } |
 
 ### Organisation
 

@@ -30,7 +30,7 @@ The osu!taiko community doesn't cut corners. All **23** submissions received in-
 
 | Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| 1st | ::\1gt::{ user=8301957 } | [Camellia - Qyoh (Nine Stars)](https://osu.ppy.sh/beatmapsets/2101810) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (4 total) |
+| 1st | ::_gt::{ user=8301957 } | [Camellia - Qyoh (Nine Stars)](https://osu.ppy.sh/beatmapsets/2101810) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (4 total) |
 | 2nd | ::Alchyr::{ user=4993032 } | [Supire - Sabbath](https://osu.ppy.sh/beatmapsets/2101659) | - | +1 (1 total) |
 | 3rd | ::Nifty::{ user=4956097 } | [Spire - Somnambulism](https://osu.ppy.sh/beatmapsets/2101662) | - | - |
 
@@ -52,7 +52,7 @@ osu!catch followed the same format: each of the **12** submissions were reviewed
 
 | Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| 1st | ::Unlucky\1w::{ user=4820793 } | [Camellia - CICADA3302](https://osu.ppy.sh/beatmapsets/2097061) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (3 total) |
+| 1st | ::Unlucky_w::{ user=4820793 } | [Camellia - CICADA3302](https://osu.ppy.sh/beatmapsets/2097061) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (3 total) |
 | 2nd | ::wwwww::{ user=8434466 } | [Culprate - Relucent feat. ZES](https://osu.ppy.sh/beatmapsets/2096801) | - | +1 (1 total) |
 | 3rd | ::Rubae::{ user=21105275 } | [Billain - Tesselator](https://osu.ppy.sh/beatmapsets/2101717) | - | - |
 

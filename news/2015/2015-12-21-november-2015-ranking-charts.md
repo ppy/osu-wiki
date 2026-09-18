@@ -167,7 +167,7 @@ This map is made up with trill parts, many short 32nd beat streams showing up, a
 Having every part of the song with it's own clear concept gave me a nice impression.
 Especially the high quality long note part will help 4 key users improve their skills.
 
-- [PLight feat. mow2 - Homeneko*Sensation](https://osu.ppy.sh/beatmapsets/315350) by ::victorica\1db::{ user=2046044 }
+- [PLight feat. mow2 - Homeneko*Sensation](https://osu.ppy.sh/beatmapsets/315350) by ::victorica_db::{ user=2046044 }
 
 When mapping a song that repeats a part, it is challenging to perform new patterns continuously so that it doesn't get boring when playing.
 This song has that case. However, this map gives an alteration to the patterns helping the player not get bored while playing.
@@ -183,8 +183,8 @@ Also, there are few maps that you can practice the Variable Scratch, the scratch
 Congratulations to the winners of the October 2015 Ranking Charts. They receive a month of supporter status for their efforts!
 
 - **osu! standard:** ::dsan::{ user=1266166 }
-- **Taiko:** ::asuasu\1yura::{ user=2875968 }
-- **Catch the Beat:** ::No492\1Shaymin::{ user=566276 }
+- **Taiko:** ::asuasu_yura::{ user=2875968 }
+- **Catch the Beat:** ::No492_Shaymin::{ user=566276 }
 - **osu!mania:** ::Sue::{ user=6542193 }
 
 Good luck with the new charts! We'd love to hear any and all feedback you have about the new format and selection process for the charts - feel free to leave a comment below!

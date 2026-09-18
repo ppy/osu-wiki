@@ -51,7 +51,7 @@ The first one to be showcased was [Heliosphere](https://osu.ppy.sh/beatmapsets/2
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/1a8kmvlpSj4" frameborder="0" allowfullscreen></iframe>
 </div>
 
-The biggest project of the week came in the form of the tiebreaker, with [Symholic](https://osu.ppy.sh/beatmaps/artists/130) delivering us a five-and-a-half minutes long symphonic rock track in [Veil of Ash](https://osu.ppy.sh/beatmapsets/2391791#fruits/5177767), featuring Rina Komatsu. The map by ::Yoshi\1green::{ user=1035891 } features fairly conventional patterning, but quickly turns into a very mechanically demanding marathon due to the intensity of the track. This was a large collaborative effort, so be sure to check out the end result by clicking on the video above!
+The biggest project of the week came in the form of the tiebreaker, with [Symholic](https://osu.ppy.sh/beatmaps/artists/130) delivering us a five-and-a-half minutes long symphonic rock track in [Veil of Ash](https://osu.ppy.sh/beatmapsets/2391791#fruits/5177767), featuring Rina Komatsu. The map by ::Yoshi_green::{ user=1035891 } features fairly conventional patterning, but quickly turns into a very mechanically demanding marathon due to the intensity of the track. This was a large collaborative effort, so be sure to check out the end result by clicking on the video above!
 
 ## Quarterfinals summary
 

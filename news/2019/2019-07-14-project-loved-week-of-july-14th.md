@@ -102,7 +102,7 @@ Once in a while comes a map that shakes up the whole osu! community from within.
 
 [![](/wiki/shared/news/2019-07-14-project-loved-week-of-july-14th/osu/10-tori-no-uta.jpg)](https://osu.ppy.sh/community/forums/topics/934337)
 
-[Lia - Tori no Uta](https://osu.ppy.sh/beatmapsets/421467#osu) by ::OK\1oreGENKI::{ user=2444995 }, ::Anmiy::{ user=1014222 } and ::Arieruco::{ user=1811271 }\
+[Lia - Tori no Uta](https://osu.ppy.sh/beatmapsets/421467#osu) by ::OK_oreGENKI::{ user=2444995 }, ::Anmiy::{ user=1014222 } and ::Arieruco::{ user=1811271 }\
 122 BPM, 5:36 | 5.34★\
 *description written by ::fartownik::{ user=56917 }*
 

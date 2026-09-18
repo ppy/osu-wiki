@@ -104,13 +104,13 @@ Next, we have those who have taken their leave from the group. We'd like to than
 - **osu!:** ::Mun::{ user=6699165 } & ::Trynna::{ user=2652951 }
 - **osu!taiko:** ::qoot8123::{ user=766371 }
 - **osu!catch:** ::Du5t::{ user=6053071 }, ::Rocma::{ user=566276 } & ::Sanyi::{ user=7496029 }
-- **osu!mania:** ::Critical\1Star::{ user=3793196 }, ::Kyousukee::{ user=8842107 }, ::MEGAtive::{ user=3094101 } & ::Tailsdk::{ user=6751666 }
+- **osu!mania:** ::Critical_Star::{ user=3793196 }, ::Kyousukee::{ user=8842107 }, ::MEGAtive::{ user=3094101 } & ::Tailsdk::{ user=6751666 }
 
 ### BN Badges
 
 Before we move on to the NAT additions, we would like to honour our long standing members of the Beatmap Nominators! These BNs will receive, depending on the length of their tenure in the team, a shiny new badge for their profile page. We thank them all for their contribution so far and hope to see much more of them in the future! Here is the list of those:
 
-- **1 Year Badge:** ::-Keitaro::{ user=3378391 }, ::-Luminate::{ user=4778689 }, ::\1Kobii::{ user=6209713 }, ::Bibbity Bill::{ user=4446810 }, ::Cris-::{ user=6175280 }, ::Crissa::{ user=5405836 }, ::eiri-::{ user=3388410 }, ::Nikakis::{ user=4351739 }, ::Petal::{ user=7354729 }, ::Scotty::{ user=11085809 }, ::Sparhten::{ user=7601720 }, ::spoes::{ user=9505704 }, ::Tyistiana::{ user=1421452 }, ::Venix::{ user=5999631 }, ::Yugu::{ user=3161834 } & ::Zelq::{ user=8953955 }
+- **1 Year Badge:** ::-Keitaro::{ user=3378391 }, ::-Luminate::{ user=4778689 }, ::_Kobii::{ user=6209713 }, ::Bibbity Bill::{ user=4446810 }, ::Cris-::{ user=6175280 }, ::Crissa::{ user=5405836 }, ::eiri-::{ user=3388410 }, ::Nikakis::{ user=4351739 }, ::Petal::{ user=7354729 }, ::Scotty::{ user=11085809 }, ::Sparhten::{ user=7601720 }, ::spoes::{ user=9505704 }, ::Tyistiana::{ user=1421452 }, ::Venix::{ user=5999631 }, ::Yugu::{ user=3161834 } & ::Zelq::{ user=8953955 }
 - **2 Year Badge:** ::ailv::{ user=6933054 }, ::Myxo::{ user=2202645 }, ::Realazy::{ user=918297 }, ::TheKingHenry::{ user=5128277 } & ::timemon::{ user=2072005 }
 - **3 Year Badge:** ::Xinely::{ user=1521445 }
 

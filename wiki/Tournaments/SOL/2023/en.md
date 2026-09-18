@@ -81,8 +81,8 @@ tags:
 | 13 | **Team Welfare** | ::{ flag=BR }:: ::LeMarcinho::{ user=13347579 }, ::{ flag=US }:: ::\[GS\]linc::{ user=12093536 } |
 | 14 | **No SV** | ::{ flag=DE }:: ::ERA medium kek::{ user=11625617 }, ::{ flag=KR }:: ::yz1155::{ user=2071008 } |
 | 15 | **LNCryption** | ::{ flag=TH }:: ::Achino::{ user=13349388 }, ::{ flag=TH }:: ::--Pavin--::{ user=12046267 } |
-| 16 | **GOD LN+FNF MASHERsob** | ::{ flag=IT }:: ::- Pixie -::{ user=13878539 }, ::{ flag=VN }:: ::CPT\1Sivelia::{ user=12562107 } |
-| 17 | **yapecausa** | ::{ flag=PE }:: ::-Lalito898::{ user=15098503 }, ::{ flag=PE }:: ::dendro\1::{ user=17152485 } |
+| 16 | **GOD LN+FNF MASHERsob** | ::{ flag=IT }:: ::- Pixie -::{ user=13878539 }, ::{ flag=VN }:: ::CPT_Sivelia::{ user=12562107 } |
+| 17 | **yapecausa** | ::{ flag=PE }:: ::-Lalito898::{ user=15098503 }, ::{ flag=PE }:: ::dendro_::{ user=17152485 } |
 | 18 | **CaiXK** | ::{ flag=CN }:: ::\[Crz\]Caicium::{ user=10702235 }, ::{ flag=CN }:: ::Kuiiiiteeee::{ user=7304075 } |
 | 19 | **Nightcord at SOL3** | ::{ flag=PH }:: ::4Kenn::{ user=20496815 }, ::{ flag=ID }:: ::adihza::{ user=18309106 } |
 | 20 | **tidur** | ::{ flag=MY }:: ::ERA Leon::{ user=13382147 }, ::{ flag=MY }:: ::\[LS\]Icetify::{ user=14931745 } |
@@ -91,8 +91,8 @@ tags:
 | 23 | **W RIZZ** | ::{ flag=US }:: ::ok bye::{ user=15063813 }, ::{ flag=CA }:: ::GDMem::{ user=10804091 } |
 | 24 | **TaiwanPieceAintReal** | ::{ flag=US }:: ::FullCombro::{ user=12045149 }, ::{ flag=US }:: ::\[LS\]Dev::{ user=16407268 } |
 | 25 | **TSD 4 Line PC B2B** | ::{ flag=CA }:: ::walmart5193::{ user=16468962 }, ::{ flag=PH }:: ::Silicosis::{ user=15548876 } |
-| 26 | **sylveon eats noodles** | ::{ flag=BH }:: ::Unitori-::{ user=15772814 }, ::{ flag=AE }:: ::drag\1::{ user=17959501 } |
-| 27 | **we eat omega cake** | ::{ flag=JP }:: ::omegaY\1::{ user=14727263 }, ::{ flag=JP }:: ::ICECAKE::{ user=16100800 } |
+| 26 | **sylveon eats noodles** | ::{ flag=BH }:: ::Unitori-::{ user=15772814 }, ::{ flag=AE }:: ::drag_::{ user=17959501 } |
+| 27 | **we eat omega cake** | ::{ flag=JP }:: ::omegaY_::{ user=14727263 }, ::{ flag=JP }:: ::ICECAKE::{ user=16100800 } |
 | 28 | **Solestio** | ::{ flag=VN }:: ::magnifestio::{ user=22725724 }, ::{ flag=MY }:: ::\[MY\]Sol::{ user=12054898 } |
 | 29 | **rizzards of oz** | ::{ flag=NZ }:: ::Robeats::{ user=19446399 }, ::{ flag=AU }:: ::hello123amogus::{ user=11824060 } |
 | 30 | **Transatlantique** | ::{ flag=FR }:: ::Auraah::{ user=10015908 }, ::{ flag=US }:: ::DarkMew2::{ user=13921965 } |
@@ -101,7 +101,7 @@ tags:
 | 33 | **hewkaotonteesam** | ::{ flag=TH }:: ::AomDCO::{ user=21072569 }, ::{ flag=TH }:: ::SHOKO -::{ user=10279743 } |
 | 34 | **Brainfog** | ::{ flag=CA }:: ::Dale940::{ user=13847951 }, ::{ flag=NO }:: ::carpal tunnel::{ user=23726452 } |
 | 35 | **LNLC** | ::{ flag=DE }:: ::ERA Leo::{ user=15440118 }, ::{ flag=DE }:: ::Cyaewin::{ user=10027302 } |
-| 36 | **Broke Like A Banana** | ::{ flag=US }:: ::SunApple::{ user=11817622 }, ::{ flag=US }:: ::\1Seth::{ user=8111953 } |
+| 36 | **Broke Like A Banana** | ::{ flag=US }:: ::SunApple::{ user=11817622 }, ::{ flag=US }:: ::_Seth::{ user=8111953 } |
 | 37 | **Zundamon dayoi** | ::{ flag=JP }:: ::G2t::{ user=15216030 }, ::{ flag=JP }:: ::yoppy-yugen::{ user=11799103 } |
 | 38 | **BOLITALIANO** | ::{ flag=AR }:: ::jLuyalb::{ user=7093698 }, ::{ flag=AR }:: ::Rocstarxd::{ user=18566390 } |
 | 39 | **Papua Merdeka** | ::{ flag=ID }:: ::Dellia::{ user=12143152 }, ::{ flag=ID }:: ::Proxae::{ user=8410575 } |
@@ -110,15 +110,15 @@ tags:
 | 42 | **Women, am I right?** | ::{ flag=ES }:: ::ERA Guldakh::{ user=8553078 }, ::{ flag=US }:: ::ERA Basil::{ user=7097990 } |
 | 43 | **the nuts squad** | ::{ flag=DO }:: ::\[GS\]Antonio::{ user=21599285 }, ::{ flag=PE }:: ::henryalexbr::{ user=23528661 } |
 | 44 | **ban LN** | ::{ flag=CL }:: ::nyawaa::{ user=10235085 }, ::{ flag=US }:: ::CheemsBall::{ user=21810979 } |
-| 45 | **SV idiots** | ::{ flag=JP }:: ::gyoza\1goki::{ user=18144664 }, ::{ flag=JP }:: ::yomogi237::{ user=28571440 } |
-| 46 | **Toyota Land Cruisers** | ::{ flag=QA }:: ::cyta\1::{ user=15444660 }, ::{ flag=QA }:: ::bustinman::{ user=19089928 } |
+| 45 | **SV idiots** | ::{ flag=JP }:: ::gyoza_goki::{ user=18144664 }, ::{ flag=JP }:: ::yomogi237::{ user=28571440 } |
+| 46 | **Toyota Land Cruisers** | ::{ flag=QA }:: ::cyta_::{ user=15444660 }, ::{ flag=QA }:: ::bustinman::{ user=19089928 } |
 | 47 | **dd e** | ::{ flag=HK }:: ::Ricizus::{ user=10395139 }, ::{ flag=SG }:: ::IJosephI\[GS\]::{ user=13353749 } |
 | 48 | **Eeriesolent** | ::{ flag=US }:: ::\[LS\]Eeriee::{ user=19133938 }, ::{ flag=US }:: ::\[LS\]Resolent::{ user=19113292 } |
 | 49 | **robEATs burger $15** | ::{ flag=US }:: ::\[LS\]Mari::{ user=15270411 }, ::{ flag=US }:: ::Znow::{ user=15513303 } |
 | 50 | **CAUSA** | ::{ flag=PE }:: ::RafaelPC::{ user=23297156 }, ::{ flag=PE }:: ::Pokedogga::{ user=21682880 } |
 | 51 | **Toilettes** | ::{ flag=FR }:: ::narahashi::{ user=18867523 }, ::{ flag=FR }:: ::Babibelbleu::{ user=16892459 } |
 | 52 | **Zonrox ColorSafe** | ::{ flag=PH }:: ::\[KN\]CuB-03::{ user=18560307 }, ::{ flag=PH }:: ::DiamondGenius75::{ user=19107638 } |
-| 53 | **E-girl haters** | ::{ flag=FR }:: ::Kaya\1::{ user=11643399 }, ::{ flag=FR }:: ::SpaceVader::{ user=21503296 } |
+| 53 | **E-girl haters** | ::{ flag=FR }:: ::Kaya_::{ user=11643399 }, ::{ flag=FR }:: ::SpaceVader::{ user=21503296 } |
 | 54 | **XSANZTIBUCKS** | ::{ flag=PH }:: ::iid3rp::{ user=23274559 }, ::{ flag=PH }:: ::ManiaDegengod::{ user=13193798 } |
 | 55 | **T1dur** | ::{ flag=MY }:: ::\[GS\]Einar::{ user=8782656 }, ::{ flag=MY }:: ::JayLye::{ user=14892447 } |
 | 56 | **Glagglers** | ::{ flag=US }:: ::beta carotene::{ user=22839620 }, ::{ flag=US }:: [loser\[](https://osu.ppy.sh/users/19807002) |
@@ -127,7 +127,7 @@ tags:
 | 59 | **Pucc gaming** | ::{ flag=CA }:: ::ERA Mystiik::{ user=17242265 }, ::{ flag=US }:: ::ERA Zenith::{ user=7128063 } |
 | 60 | **LEKA TRE** | ::{ flag=FI }:: ::Tre::{ user=10024264 }, ::{ flag=FI }:: ::Leka::{ user=11408653 } |
 | 61 | **The Pulverizers** | ::{ flag=US }:: ::Venomsypher::{ user=24421954 }, ::{ flag=US }:: ::CroffeeeY::{ user=17419075 } |
-| 62 | **0201god** | ::{ flag=TW }:: ::\[Jrc\]EubC::{ user=18188796 }, ::{ flag=TW }:: ::amano\1hina::{ user=19882148 } |
+| 62 | **0201god** | ::{ flag=TW }:: ::\[Jrc\]EubC::{ user=18188796 }, ::{ flag=TW }:: ::amano_hina::{ user=19882148 } |
 | 63 | **Choke Gang** | ::{ flag=MY }:: ::\[RGK\]Cheoky29::{ user=14901072 }, ::{ flag=MY }:: ::StyGix::{ user=7745408 } |
 | 64 | **1217HOW** | ::{ flag=TW }:: ::Pdog4ni::{ user=14581544 }, ::{ flag=TW }:: ::\[Jrc\]tommy125::{ user=15189878 } |
 

@@ -48,7 +48,7 @@ We're also fortunate enough to have the support of ::yukina meng::{ user=9919550
 | #21 | ::{ flag=TW }:: Taiwan | 186 | 1,887,040 | #43 | ::{ flag=CH }:: Switzerland | 389 | 1,208,465 |
 | #22 | ::{ flag=VN }:: Vietnam | 189 | 1,889,915 | #44 | ::{ flag=TR }:: Türkiye | 394 | 1,009,788 |
 
-The Qualifiers were anything but uneventful. With such a high amount of participating teams, making the cut has proven to be a very, very difficult task. Not only that, but the fully custom-mapped Qualifier mappool was not making it any easier, especially with the introduction of [Cranky - Hanaarashi](https://osu.ppy.sh/beatmapsets/2488191#mania/5464205) (HB2) by ::{ flag=CN }:: ::\1Yiiiii::{ user=6066359 } as this year's mini tiebreaker pick.
+The Qualifiers were anything but uneventful. With such a high amount of participating teams, making the cut has proven to be a very, very difficult task. Not only that, but the fully custom-mapped Qualifier mappool was not making it any easier, especially with the introduction of [Cranky - Hanaarashi](https://osu.ppy.sh/beatmapsets/2488191#mania/5464205) (HB2) by ::{ flag=CN }:: ::_Yiiiii::{ user=6066359 } as this year's mini tiebreaker pick.
 
 While stage 9 didn't hold any punches, South Korea in particular wasn't intimidated by the bump in difficulty, dominating the lobbies with plenty of score to spare when compared to the runner-ups. Big shout-outs go to the Philippines for placing first on the 7th Qualifier stage [Umeboshi Chazuke - Typhoon](https://osu.ppy.sh/beatmapsets/2488185#mania/5464197) (RC4) by ::{ flag=KR }:: ::TakJun::{ user=4356322 }, even under such stacked competition!
 

@@ -60,7 +60,7 @@ The Skinning Contest #2 is run by various community members.
 
 | Skinner | Entry |
 | :-- | :-- |
-| ::{ flag=PL }:: ::Redo\1::{ user=7122165 } | [- 『Wintherest』 -](https://osu.ppy.sh/community/forums/topics/1498493) |
+| ::{ flag=PL }:: ::Redo_::{ user=7122165 } | [- 『Wintherest』 -](https://osu.ppy.sh/community/forums/topics/1498493) |
 | ::{ flag=VN }:: ::TKieen::{ user=12561202 } | [105°C Chocolate](https://osu.ppy.sh/community/forums/topics/1496067) |
 | ::{ flag=BY }:: ::thetasigma::{ user=6234482 } | [Azure Snowfall](https://osu.ppy.sh/community/forums/topics/1498492) |
 | ::{ flag=VN }:: ::koomo::{ user=2168518 } | [CACTUS'](https://osu.ppy.sh/community/forums/topics/1481190) |

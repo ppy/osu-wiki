@@ -31,7 +31,7 @@ Check out [the osu!taiko map from the video above](https://osu.ppy.sh/beatmapset
 
 ### Takamachi Walk - Redeemer
 
-Explore [the first Ranked **Takamachi Walk** beatmap](https://osu.ppy.sh/beatmapsets/1188522) hosted by ::Jerry::{ user=605973 } or [this 4K and 7K osu!mania map](https://osu.ppy.sh/beatmapsets/1942556) hosted by ::chen\1sawthis01::{ user=24285111 }!
+Explore [the first Ranked **Takamachi Walk** beatmap](https://osu.ppy.sh/beatmapsets/1188522) hosted by ::Jerry::{ user=605973 } or [this 4K and 7K osu!mania map](https://osu.ppy.sh/beatmapsets/1942556) hosted by ::chen_sawthis01::{ user=24285111 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/404/Permanence/Takamachi%20Walk%20-%20Redeemer.mp3">

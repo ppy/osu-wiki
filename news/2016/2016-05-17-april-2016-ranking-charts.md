@@ -10,7 +10,7 @@ Time went by pretty fast! One year ago, we started with giving individual commun
 
 With that being said, we are heading to the current Ranking Charts for April 2016 which have been released yesterday and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1604)!
 
-This month ::Andrea::{ user=33599 }, ::S a n d::{ user=676578 }, ::Kingkevin30::{ user=564334 } and ::\1underjoy::{ user=2235750 } picked the maps for the Monthly Ranking Charts.
+This month ::Andrea::{ user=33599 }, ::S a n d::{ user=676578 }, ::Kingkevin30::{ user=564334 } and ::_underjoy::{ user=2235750 } picked the maps for the Monthly Ranking Charts.
 
 ## Ranking Charts Creation
 
@@ -127,13 +127,13 @@ As one of the slower maps on my selection this map won't be a powerhouse or a bi
 
 ### osu!mania
 
-For osu!mania, **::\1underjoy::{ user=2235750 }** was able to select their personal most noteworthy beatmap from last month.
+For osu!mania, **::_underjoy::{ user=2235750 }** was able to select their personal most noteworthy beatmap from last month.
 
 - **[aaaa - Bokutachi no Tabi to Epilogue.[Long ver.]](https://osu.ppy.sh/beatmapsets/381334) by ::Daikyi::{ user=811832 }**
 
 If I were to name a brilliant 4K beatmap off the top of my head, Bokutachi no Tabi to Epilogue would be among my first thoughts. Daikyi spent many hours polishing every aspect of the map, which resulted in a true masterpiece. The song itself is beautiful yet really complex, with many BPM changes, irregular rhythms, calmer and faster parts. However, Daikyi utilised all of the opportunities given to him. I especially like the fact that he didn't hesitate to use unorthodox, tricky patterning, rarely found in most of the ranked beatmaps. While the slower parts are filled with delicate chords, long notes and grace notes, the more lively ones feature well-placed minijacks and fast streams with polyrhythms and bursts, which feel like the hands have been made for them. The climax of the file are two 240 bpm 1/4 streams with doubles and triples, which play exceptionally well despite being rather difficult. This breathtaking journey lasts six minutes, and to be honest, I'm pretty upset it isn't longer. I wish there were more beatmaps made with this degree of mastery and consistency.
 
-- [ginkiha - Anemoi](https://osu.ppy.sh/beatmapsets/381397) by ::\1 A v a l o n \1::{ user=4632359 }
+- [ginkiha - Anemoi](https://osu.ppy.sh/beatmapsets/381397) by ::[ A v a l o n ]::{ user=4632359 }
 
 This is an example of a simple, well done beatmap. The mapset consists of six 4K difficulties, catering to audience at all skill levels. It is worth to note that Rizqy's and Ichigaki's guest difficulties have different background than \[ A v a l o n \]'s. Both of those mesmerising pictures complement the soothing and calm nature of the song. Speaking about the map itself, it is mainly chord based, although there is a good amount of long notes which test finger independence and releasing accuracy. \[ A v a l o n \] made a very solid, balanced map, which is a pleasure to play through.
 
@@ -161,7 +161,7 @@ Congratulations to the winners of the March 2016 Ranking Charts. They receive a 
 
 - **osu! standard:** ::Wilchq::{ user=2021758 }
 - **Taiko:** ::tasuke912::{ user=2774767 }
-- **Catch the Beat:** ::\1Asriel::{ user=566276 }
+- **Catch the Beat:** ::_Asriel::{ user=566276 }
 - **osu!mania:** ::Runa::{ user=4643294 }
 
 Good luck with the new charts! We'd love to hear any and all feedback you have about the new format and selection process for the charts - feel free to leave a comment below!

@@ -75,7 +75,7 @@ Cherry blossoms are well-known for their beauty, but in the osu! community, thes
 
 - [osu! map](https://osu.ppy.sh/beatmapsets/442581) hosted by ::Avena::{ user=2198472 } (with an obligatory difficulty by ::Cherry Blossom::{ user=1156742 }!)
 - [Loved osu!catch map](https://osu.ppy.sh/beatmapsets/486424) hosted by ::Spectator::{ user=702598 }
-- [4K osu!mania map](https://osu.ppy.sh/beatmapsets/1986398) hosted by ::Please\1::{ user=30739612 }
+- [4K osu!mania map](https://osu.ppy.sh/beatmapsets/1986398) hosted by ::Please_::{ user=30739612 }
 - [Another 4K osu!mania map](https://osu.ppy.sh/beatmapsets/525533) hosted by ::Ginshu::{ user=4402842 }
 
 <audio controls>

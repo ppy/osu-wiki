@@ -28,7 +28,7 @@ For osu!catch:
 
 And for osu!mania:
 
-- ::\1Crz\1hinako1804::{ user=13747903 }
+- ::[Crz]hinako1804::{ user=13747903 }
 - ::Mipha-::{ user=5767941 }
 - ::Remuring::{ user=6522146 }
 
@@ -123,7 +123,7 @@ If you wish to challenge this map yourself, then give it a vote to hopefully see
 
 [![](/wiki/shared/news/2022-11-14-project-loved-november-2022/33888.jpg)](https://osu.ppy.sh/community/forums/topics/1675551)
 
-[Senpi- - The First Part of Touhou EX Boss Rush!!](https://osu.ppy.sh/beatmapsets/33888#osu) by ::Strawberry::{ user=519978 }, ::\_Kiva::{ user=229595 }, ::Galaxy\1old\11::{ user=1130085 }, ::ljzljc::{ user=103114 }, ::Megurine Luka::{ user=575846 } and ::Shinki::{ user=364051 }\
+[Senpi- - The First Part of Touhou EX Boss Rush!!](https://osu.ppy.sh/beatmapsets/33888#osu) by ::Strawberry::{ user=519978 }, ::\_Kiva::{ user=229595 }, ::Galaxy_old_1::{ user=1130085 }, ::ljzljc::{ user=103114 }, ::Megurine Luka::{ user=575846 } and ::Shinki::{ user=364051 }\
 185 BPM, 11:33 | 6.15★\
 *description written by ::Doomsday::{ user=18983 }*
 
@@ -283,7 +283,7 @@ Chordjack mains, be not afraid, for another wave goes by where we haven't forgot
 
 But what makes this chart so special? To begin with, it's basically your entry point to play harder chordjack maps. It capitalizes on mild density and anchor usage. And while it might feel daunting at first, once you learn the finger independence needed, it will be a piece of cake!
 
-Why this chart in particular? Why has this one become as popular as it is? Well, we have some theories. But what has probably had the most impact has been \::\1Crz\]Rachel::{ user=8369409 }'s [Cyclone of Jacks](https://osu.ppy.sh/beatmapsets/1195609#mania/2490687) series of chordjack dans. As a side comment, feel free to try those out to test your skills.
+Why this chart in particular? Why has this one become as popular as it is? Well, we have some theories. But what has probably had the most impact has been \::[Crz\]Rachel::{ user=8369409 }'s [Cyclone of Jacks](https://osu.ppy.sh/beatmapsets/1195609#mania/2490687) series of chordjack dans. As a side comment, feel free to try those out to test your skills.
 
 It's been hard for us to choose a pick of theirs. They have a **LOT** of interesting and well-known stuff. We'd encourage people unfamiliar with the charter to try their other stuff and to let us know what you wish to see featured in the future!
 

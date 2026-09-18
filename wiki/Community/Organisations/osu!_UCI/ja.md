@@ -29,9 +29,9 @@ outdated_since: e3fc538d70f9506f4fd2e4064e66202152ce4b2c
 
 - ::{ flag=US }:: Frederick "::freddiiieeee::{ user=7112839 }" Vo (*代表*)
 - ::{ flag=US }:: Adrien "::R34pling::{ user=7662172 }" Huynh Huu
-- ::{ flag=US }:: Jason "::jlin\102::{ user=13192092 }" Lin
+- ::{ flag=US }:: Jason "::jlin_02::{ user=13192092 }" Lin
 - ::{ flag=US }:: Khiem "::PingusKhan::{ user=9648050 }" Dinh
-- ::{ flag=US }:: Nicholas "::\1Nick\1::{ user=9726582 }" Budding
+- ::{ flag=US }:: Nicholas "::[Nick]::{ user=9726582 }" Budding
 
 ### 卒業生
 

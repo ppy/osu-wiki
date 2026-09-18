@@ -51,7 +51,7 @@ The ~~3rd~~ ~~4th~~ 5th time's the charm. After **5** podium placements in diffe
 
 Additionally, following our collaboration with [7K GLOBAL's bi-monthly event](https://osu.ppy.sh/community/forums/topics/2065328?n=1), we'd like to congratulate the mappers who'll make it into the event's pool — including those who didn't make it into the contest itself! While we cannot announce the pool in advance, stay tuned in the forum post to discover the event's winners.
 
-And of course, we can't forget the folks who helped judge this month's contest: ::ExNeko::{ user=7590894 }, ::Maxus::{ user=4335785 }, ::Tailsdk::{ user=6751666 }, ::Blocko::{ user=4075092 }, and ::\1Kobii::{ user=6209713 }!
+And of course, we can't forget the folks who helped judge this month's contest: ::ExNeko::{ user=7590894 }, ::Maxus::{ user=4335785 }, ::Tailsdk::{ user=6751666 }, ::Blocko::{ user=4075092 }, and ::_Kobii::{ user=6209713 }!
 
 ## Contest listing
 

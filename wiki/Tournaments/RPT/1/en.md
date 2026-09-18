@@ -433,7 +433,7 @@ Sunday, 19 April 2020:
 | #60 | ::{ flag=ID }:: ::Grandidierite::{ user=11976077 } | 55.3 |
 | #61 | ::{ flag=ID }:: ::DiamondPicko17::{ user=10459494 } | 56 |
 | #62 | ::{ flag=ID }:: ::Flycoco::{ user=12111121 } | 57.1 |
-| #63 | ::{ flag=ID }:: ::\1Fibel::{ user=10976513 } | 57.6 |
+| #63 | ::{ flag=ID }:: ::_Fibel::{ user=10976513 } | 57.6 |
 | #64 | ::{ flag=ID }:: ::audreych::{ user=9181855 } | 57.7 |
 | #65 | ::{ flag=ID }:: ::Lau Doank::{ user=5249835 } | 59.5 |
 | #66 | ::{ flag=ID }:: ::Cornatha::{ user=8706044 } | 59.8 |

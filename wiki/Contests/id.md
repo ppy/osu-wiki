@@ -207,8 +207,8 @@ Pending Cup adalah sebuah kontes mapping di mana peserta utamanya biasanya beras
 | Lagu No. | Lagu | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- |
 | 1 | 挨批熊 - 权御天下 | ::Regraz::{ user=3076909 } | ::Syameimaru-Aya::{ user=3153354 } | ::jonathanlfj::{ user=270377 } |
-| 2 | 削除 - Imprinting | ::yf\1bmp::{ user=1243669 } | ::Syameimaru-Aya::{ user=3153354 } | ::Inazuma::{ user=1033017 } |
-| 3 | P*Light - YELLOW SPLASH!! | ::fanzhen0019::{ user=418699 } | ::yf\1bmp::{ user=1243669 } | ::Minakami Yuki::{ user=2433507 } |
+| 2 | 削除 - Imprinting | ::yf_bmp::{ user=1243669 } | ::Syameimaru-Aya::{ user=3153354 } | ::Inazuma::{ user=1033017 } |
+| 3 | P*Light - YELLOW SPLASH!! | ::fanzhen0019::{ user=418699 } | ::yf_bmp::{ user=1243669 } | ::Minakami Yuki::{ user=2433507 } |
 
 - [Utas kontes](https://osu.ppy.sh/community/forums/topics/345263)
 - [Postingan hasil](https://osu.ppy.sh/community/forums/topics/373843)
@@ -218,7 +218,7 @@ Pending Cup adalah sebuah kontes mapping di mana peserta utamanya biasanya beras
 | Lagu No. | Lagu | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- |
 | 1 | ClariS - SECRET | ::FreeSongs::{ user=2116792 } | ::handsome::{ user=2123087 } | ::Snowy Wings::{ user=2234810 } |
-| 2 | 干瓢碁 - 運命のダークサイド -Rolling Gothic mix | ::FreeSongs::{ user=2116792 } | ::rui::{ user=74313 } | ::yf\1bmp::{ user=1243669 } |
+| 2 | 干瓢碁 - 運命のダークサイド -Rolling Gothic mix | ::FreeSongs::{ user=2116792 } | ::rui::{ user=74313 } | ::yf_bmp::{ user=1243669 } |
 | 3 | Dollscythe - Flashes (Extended) | ::Skystar::{ user=873961 } | ::Level9::{ user=7232130 } | ::Frostings::{ user=2652543 } |
 
 - [Utas kontes](https://osu.ppy.sh/community/forums/topics/482629)
@@ -230,7 +230,7 @@ Pending Cup adalah sebuah kontes mapping di mana peserta utamanya biasanya beras
 | :-- | :-- | :-- | :-- | :-- |
 | 1 | 霜月はるか - 白夜幻想谭 | ::Chaoslitz::{ user=3621552 } | ::Level9::{ user=7232130 } | ::Kibbleru::{ user=3193504 } |
 | 2 | 猫叉劇団 - AsiaN distractive | ::Chaoslitz::{ user=3621552 } | ::Garden::{ user=2849992 } | ::Ellyu::{ user=4438154 } |
-| 3 | かめりあ - Chirality | ::Suzuki\11112::{ user=3170678 } | ::Miura::{ user=4990362 } | ::\[ Drop \]::{ user=2391299 } |
+| 3 | かめりあ - Chirality | ::Suzuki_1112::{ user=3170678 } | ::Miura::{ user=4990362 } | ::\[ Drop \]::{ user=2391299 } |
 
 - [Utas kontes](https://osu.ppy.sh/community/forums/topics/620182)
 - [Postingan hasil](https://osu.ppy.sh/community/forums/topics/640906)
@@ -240,8 +240,8 @@ Pending Cup adalah sebuah kontes mapping di mana peserta utamanya biasanya beras
 | Lagu No. | Lagu | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- |
 | 1 | 米津玄师 - LOSER | ::Skystar::{ user=873961 } | ::how2miss::{ user=4477199 } | ::AIR::{ user=2070688 } |
-| 2 | DJ TOTTO - 少女アリスと箱庭幻想コンチェルト | ::J1\1::{ user=5918561 } | ::yf\1bmp::{ user=1243669 } | ::Level9::{ user=7232130 } |
-| 3 | Sota Fujimori - ACCELERATE | ::Chaoslitz::{ user=3621552 } | ::Koiyuki::{ user=2433507 } | ::yf\1bmp::{ user=1243669 } |
+| 2 | DJ TOTTO - 少女アリスと箱庭幻想コンチェルト | ::J1_::{ user=5918561 } | ::yf_bmp::{ user=1243669 } | ::Level9::{ user=7232130 } |
+| 3 | Sota Fujimori - ACCELERATE | ::Chaoslitz::{ user=3621552 } | ::Koiyuki::{ user=2433507 } | ::yf_bmp::{ user=1243669 } |
 
 - [Utas kontes](https://osu.ppy.sh/community/forums/topics/775847)
 - [Postingan hasil](https://osu.ppy.sh/community/forums/topics/806794)
@@ -274,7 +274,7 @@ Newspaper Cup adalah sebuah kontes mapping tahunan yang bertujuan untuk menarik 
 
 | Lagu No. | Lagu | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] |
 | :-- | :-- | :-- | :-- |
-| 1 | 影翔鼓舞 - Oriental Blossom | ::yf\1bmp::{ user=1243669 }, ::EmingK::{ user=2021118 } | ::Gaia::{ user=2683648 }, ::Doj::{ user=4121612 } |
+| 1 | 影翔鼓舞 - Oriental Blossom | ::yf_bmp::{ user=1243669 }, ::EmingK::{ user=2021118 } | ::Gaia::{ user=2683648 }, ::Doj::{ user=4121612 } |
 | 2 | ESQUARIA - 寒椿 ～ Kantsubaki | ::Regou::{ user=419954 }, ::fish39::{ user=3522390 } | ::Bluekrait::{ user=4205741 }, ::Rose Pacifica::{ user=1393255 } |
 
 - [Utas kontes](https://osu.ppy.sh/community/forums/topics/546038)

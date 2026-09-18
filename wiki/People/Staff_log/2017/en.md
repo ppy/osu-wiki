@@ -100,7 +100,7 @@ All users listed below were added on 2017-09-10.
 
 ## October
 
-- Moved ::mancuso\1JM\1::{ user=521568 } from osu! Alumni to Global Moderation Team (2017-10-03)
+- Moved ::mancuso_JM_::{ user=521568 } from osu! Alumni to Global Moderation Team (2017-10-03)
 - Removed ::Cryptic::{ user=3728904 } from Quality Assurance Team (2017-10-03)
 - Added ::Naxess::{ user=8129817 } to Quality Assurance Team (2017-10-05)
 - Added ::Raiden::{ user=2239480 } to Quality Assurance Team (2017-10-05)

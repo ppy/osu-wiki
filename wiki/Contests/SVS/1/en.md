@@ -52,9 +52,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=NL }:: ::Cookie\1Tree::{ user=502722 } |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=NL }:: ::Cookie_Tree::{ user=502722 } |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=MY }:: ::\[Zeth\]::{ user=9912966 } |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=JP }:: ::Grape\1Tea::{ user=9540073 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=JP }:: ::Grape_Tea::{ user=9540073 } |
 
 ## Ruleset
 

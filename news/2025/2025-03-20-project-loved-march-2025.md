@@ -112,11 +112,11 @@ Make sure to vote YES in this month's Loved polls for special access to this Cac
 
 [![](/wiki/shared/news/2025-03-20-project-loved-march-2025/733702.jpg)](https://osu.ppy.sh/community/forums/topics/2056038)
 
-[8284 vs. wa. - Adularescence](https://osu.ppy.sh/beatmapsets/733702#osu) by ::soulfear::{ user=226171 }, ::Flower::{ user=1033017 }, ::gowww::{ user=119404 }, ::squishyguppy::{ user=4116573 }, ::UndeadCapulet::{ user=2523533 }, and ::yf\1bmp::{ user=1243669 }\
+[8284 vs. wa. - Adularescence](https://osu.ppy.sh/beatmapsets/733702#osu) by ::soulfear::{ user=226171 }, ::Flower::{ user=1033017 }, ::gowww::{ user=119404 }, ::squishyguppy::{ user=4116573 }, ::UndeadCapulet::{ user=2523533 }, and ::yf_bmp::{ user=1243669 }\
 190 BPM, 1:45 | 2.16★ – 7.87★\
 *description written by ::momoyo::{ user=12469536 }*
 
-A known mapset among mappers, [8284 vs. wa. - Adularescence](https://osu.ppy.sh/beatmapsets/733702#osu) is a popular BMS track featuring iconic guest difficulty mappers such as ::UndeadCapulet::{ user=2523533 }, ::gowww::{ user=119404 }, ::squishyguppy::{ user=4116573 }, ::Flower::{ user=1033017 } and ::yf\1bmp::{ user=1243669 }!
+A known mapset among mappers, [8284 vs. wa. - Adularescence](https://osu.ppy.sh/beatmapsets/733702#osu) is a popular BMS track featuring iconic guest difficulty mappers such as ::UndeadCapulet::{ user=2523533 }, ::gowww::{ user=119404 }, ::squishyguppy::{ user=4116573 }, ::Flower::{ user=1033017 } and ::yf_bmp::{ user=1243669 }!
 
 ::soulfear::{ user=226171 }'s set does not disappoint and is an absolute treat for every player, from the new ones all the way to the top competitors. The set has difficulties ranging from 2★ to 7.8★, which all provide an excellent experience. This map is truly worth playing, so be sure to give it a few tries. We guarantee you will have a great experience doing so!
 

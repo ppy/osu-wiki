@@ -65,7 +65,7 @@ Yet another [seatrus](https://osu.ppy.sh/beatmaps/artists/185) submission pushed
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/vczvDoQ0Xkw" frameborder="0" allowfullscreen></iframe>
 </div>
 
-And thanks to this month's judges: ::fayew::{ user=12498861 }, ::Unlucky\1w::{ user=4820793 }, ::Chatie::{ user=6524765 }, and ::-Rustyy::{ user=16355636 }!
+And thanks to this month's judges: ::fayew::{ user=12498861 }, ::Unlucky_w::{ user=4820793 }, ::Chatie::{ user=6524765 }, and ::-Rustyy::{ user=16355636 }!
 
 ## Game modes
 

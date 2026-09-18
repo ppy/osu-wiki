@@ -116,7 +116,7 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 | ::{ flag=HK }:: ::Petal::{ user=7354729 } | Kanton, Mandarin | Moderasi umum |
 | ::{ flag=KR }:: ::Petit::{ user=4637369 } | Korea, Jepang | Moderasi obrolan |
 | ::{ flag=MY }:: ::QHideaki13::{ user=733998 } | Malaysia | Moderasi obrolan |
-| ::{ flag=PL }:: ::Redo\1::{ user=7122165 } | Polandia | Moderasi komunitas skinning |
+| ::{ flag=PL }:: ::Redo_::{ user=7122165 } | Polandia | Moderasi komunitas skinning |
 | ::{ flag=MX }:: ::Repflez::{ user=201392 } | Spanyol | Moderasi obrolan |
 | ::{ flag=FI }:: ::Riverism::{ user=4980738 } | Finlandia, sedikit Swedia, sedikit Jepang | Moderasi komunitas mapping/modding, moderasi forum |
 | ::{ flag=NL }:: ::Roan::{ user=8214639 } | Belanda, Jepang | Moderasi komunitas skinning |
@@ -130,7 +130,7 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 | ::{ flag=KR }:: ::Spectator::{ user=702598 } | Korea | Moderasi komunitas mapping/modding |
 | ::{ flag=AT }:: ::Stefan::{ user=626907 } | Jerman, Serbia | Moderasi forum |
 | ::{ flag=FI }:: ::terho::{ user=6090105 } | Finlandia | Moderasi obrolan |
-| ::{ flag=NZ }:: ::THAT\1otaku::{ user=11798717 } |  | Moderasi forum, moderasi obrolan |
+| ::{ flag=NZ }:: ::THAT_otaku::{ user=11798717 } |  | Moderasi forum, moderasi obrolan |
 | ::{ flag=PE }:: ::Tiburon::{ user=18115022 } | Spanyol | Moderasi obrolan |
 | ::{ flag=CH }:: ::TicClick::{ user=672931 } | Rusia | Moderasi obrolan, pengelolaan wiki |
 | ::{ flag=PH }:: ::topecnz::{ user=2103927 } | Tagalog | Moderasi obrolan |

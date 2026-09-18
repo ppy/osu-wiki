@@ -135,7 +135,7 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | ::{ flag=BR }:: ::Shiyun::{ user=3947634 } | Portugais |
 | ::{ flag=US }:: ::Smoke::{ user=10726630 } |  |
 | ::{ flag=CA }:: ::Sparhten::{ user=7601720 } |  |
-| ::{ flag=BA }:: ::Stompy\1::{ user=16429579 } | Serbe |
+| ::{ flag=BA }:: ::Stompy_::{ user=16429579 } | Serbe |
 | ::{ flag=NL }:: ::Syph::{ user=4858573 } | Néerlandais |
 | ::{ flag=US }:: ::tilda::{ user=6233296 } |  |
 | ::{ flag=TH }:: ::timemon::{ user=2072005 } | Thaï |
@@ -154,7 +154,7 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | ::{ flag=RU }:: ::\_HeLLFly\_::{ user=14225226 } | Russe |
 | ::{ flag=BR }:: ::-Flashlight-::{ user=9731062 } | Portugais |
 | ::{ flag=JP }:: ::-Kazuha::{ user=29978316 } | Japonais |
-| ::{ flag=ID }:: ::\1-E S I A-\1::{ user=5159715 } | Indonésien |
+| ::{ flag=ID }:: ::[-E S I A-]::{ user=5159715 } | Indonésien |
 | ::{ flag=MY }:: ::Asagi Mutsuki::{ user=2403621 } | Chinois, malais |
 | ::{ flag=HK }:: ::BlackBN::{ user=6291741 } | Cantonais, chinois |
 | ::{ flag=NL }:: ::Boaz::{ user=13302996 } | Néerlandais |
@@ -293,7 +293,7 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | ::{ flag=ID }:: ::Pyra-san::{ user=31126430 } |  |
 | ::{ flag=US }:: ::snomi::{ user=14410101 } |  |
 | ::{ flag=CN }:: ::U1d::{ user=10125072 } | Chinois |
-| ::{ flag=TW }:: ::Usagi\1::{ user=16046205 } | Chinois |
+| ::{ flag=TW }:: ::Usagi_::{ user=16046205 } | Chinois |
 
 ## Histoire
 

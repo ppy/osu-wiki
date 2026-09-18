@@ -272,7 +272,7 @@ Because of its quality and popularity, *saihate* pretty clearly deserves a spot 
 
 [![](/wiki/shared/news/2021-05-14-project-loved-may-2021/875519.jpg)](https://osu.ppy.sh/community/forums/topics/1323431)
 
-[Eir Aoi - INNOCENCE](https://osu.ppy.sh/beatmapsets/875519#mania) by ::AWMRone::{ user=10351684 }, ::Alipay::{ user=9339256 }, ::Imperial Wolf::{ user=9080296 }, ::ruka::{ user=6117525 }, ::SK\1la::{ user=6601796 }, ::Wilben\1Chan::{ user=6659363 } and ::wjh123::{ user=1147820 }\
+[Eir Aoi - INNOCENCE](https://osu.ppy.sh/beatmapsets/875519#mania) by ::AWMRone::{ user=10351684 }, ::Alipay::{ user=9339256 }, ::Imperial Wolf::{ user=9080296 }, ::ruka::{ user=6117525 }, ::SK_la::{ user=6601796 }, ::Wilben_Chan::{ user=6659363 } and ::wjh123::{ user=1147820 }\
 183 BPM, 4:28 | 2.65★ – 8.69★\
 *description written by ::Penguinosity::{ user=10235296 }*
 
@@ -296,7 +296,7 @@ Over the 2 years, this map has been seen as a genuine pick for players to add to
 
 [![](/wiki/shared/news/2021-05-14-project-loved-may-2021/857251.jpg)](https://osu.ppy.sh/community/forums/topics/1323429)
 
-[Camellia - Panic Toy World: Isoide! Omocha no Athletics](https://osu.ppy.sh/beatmapsets/857251#mania) by ::Kim\1GodSSI::{ user=2218047 }\
+[Camellia - Panic Toy World: Isoide! Omocha no Athletics](https://osu.ppy.sh/beatmapsets/857251#mania) by ::Kim_GodSSI::{ user=2218047 }\
 160 BPM, 4:30 | 6.41★\
 *description written by ::Alter-::{ user=4980256 }*
 

@@ -46,7 +46,7 @@ One of the most infamous 9\* maps out there, ::Louis Cyphre::{ user=186243 }'s e
 [Seiryu - Ultramarine](https://osu.ppy.sh/beatmapsets/107377) by ::RLC::{ user=1047883 }\
 *written by ::Kaifin::{ user=2596942 }*
 
-::RLC::{ user=1047883 }'s [Ultramarine](https://osu.ppy.sh/beatmapsets/107377) is a classic mapset and tournament staple that was first uploaded in 2013. Featuring a full spread of difficulties from an all star cast of mappers such as ::fanzhen0019::{ user=418699 } and ::yf\1bmp::{ user=1243669 }, every difficulty in this set is wonderful to both play and look at. There's not much to say about this map, other than commenting on just how well executed this whole mapset is!
+::RLC::{ user=1047883 }'s [Ultramarine](https://osu.ppy.sh/beatmapsets/107377) is a classic mapset and tournament staple that was first uploaded in 2013. Featuring a full spread of difficulties from an all star cast of mappers such as ::fanzhen0019::{ user=418699 } and ::yf_bmp::{ user=1243669 }, every difficulty in this set is wonderful to both play and look at. There's not much to say about this map, other than commenting on just how well executed this whole mapset is!
 
 [![](/wiki/shared/news/2018-04-24-project-loved-week-of-april-22nd/osu/heiju.jpg)](https://osu.ppy.sh/community/forums/topics/735987)
 
@@ -85,14 +85,14 @@ There's very little to say about ::fartownik::{ user=56917 }'s [History Maker](h
 
 [![](/wiki/shared/news/2018-04-24-project-loved-week-of-april-22nd/osu/megalovania.jpg)](https://osu.ppy.sh/community/forums/topics/735992)
 
-[toby fox + RichaadEB - MEGALOVANIA \~Dual Mix\~](https://osu.ppy.sh/beatmapsets/375201) by ::The\1CJ::{ user=5342579 }\
+[toby fox + RichaadEB - MEGALOVANIA \~Dual Mix\~](https://osu.ppy.sh/beatmapsets/375201) by ::The_CJ::{ user=5342579 }\
 *written by ::Kaifin::{ user=2596942 }*
 
-[MEGALOVANIA](https://osu.ppy.sh/beatmapsets/375201) is an incredibly iconic song, and with 580 favourites this mapset by ::The\1CJ::{ user=5342579 } has clearly struck a chord with a lot of people as well. Despite the mapset featuring a 9(!!!!!) star difficulty, there still is a relatively reasonable diff spread so Undertale fans can enjoy the map regardless of their osu skill level. The real star of the show in my opinion is the storyboard, which uses elaborate and complex effects to accompany the song very well.
+[MEGALOVANIA](https://osu.ppy.sh/beatmapsets/375201) is an incredibly iconic song, and with 580 favourites this mapset by ::The_CJ::{ user=5342579 } has clearly struck a chord with a lot of people as well. Despite the mapset featuring a 9(!!!!!) star difficulty, there still is a relatively reasonable diff spread so Undertale fans can enjoy the map regardless of their osu skill level. The real star of the show in my opinion is the storyboard, which uses elaborate and complex effects to accompany the song very well.
 
 [![](/wiki/shared/news/2018-04-24-project-loved-week-of-april-22nd/osu/maradjatok.jpg)](https://osu.ppy.sh/community/forums/topics/735993)
 
-[Kelemen Kabatban - Maradjatok Gyerekek feat. Ecku](https://osu.ppy.sh/beatmapsets/327265) by ::\1 Another \1::{ user=3416573 }\
+[Kelemen Kabatban - Maradjatok Gyerekek feat. Ecku](https://osu.ppy.sh/beatmapsets/327265) by ::[ Another ]::{ user=3416573 }\
 *written by ::Toy::{ user=2757689 }*
 
 Here's a map looking for redemption as it was put up for vote back in January of 2017 for Loved Community Vote #4. Sitting at over 400 favorites now, ::\[ Another \]::{ user=3416573 }'s [Maradjatok Gyerekek](https://osu.ppy.sh/beatmapsets/327265) is deserving of another shot. The aptly named \[Triangle\] difficulty features large patterned jumps, as well as a whole host of triangular patterns. If you love rotating jump patterns, this map is just for you.

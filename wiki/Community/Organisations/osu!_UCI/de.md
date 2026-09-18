@@ -35,7 +35,7 @@ Siehe den [osu! UCI Turnier-Index](/wiki/Tournaments/osu!_UCI) für Wiki-Artikel
 - ::{ flag=US }:: Frederick "::freddiiieeee::{ user=7112839 }" Vo
 - ::{ flag=US }:: Hyoseong "::angel devil::{ user=17363777 }" Hwang
 - ::{ flag=US }:: Jin Woo "::chae jinu::{ user=22938539 }" Choi
-- ::{ flag=US }:: Joon "::joon\1::{ user=12422480 }" Park
+- ::{ flag=US }:: Joon "::joon_::{ user=12422480 }" Park
 - ::{ flag=US }:: Landon "::landocommando17::{ user=16061582 }" Stein
 
 ### Ehemalige
@@ -47,7 +47,7 @@ Siehe den [osu! UCI Turnier-Index](/wiki/Tournaments/osu!_UCI) für Wiki-Artikel
 - ::{ flag=US }:: Alex "::Riku on osu::{ user=3071659 }" Liu
 - ::{ flag=US }:: Benia "::DicingDice::{ user=9646200 }" Ean
 - ::{ flag=US }:: Daniel "::Arisa Kihari::{ user=19915678 }" Nguyen
-- ::{ flag=US }:: Jason "::jlin\102::{ user=13192092 }" Lin
+- ::{ flag=US }:: Jason "::jlin_02::{ user=13192092 }" Lin
 - ::{ flag=US }:: Jimmy "::Jim::{ user=2893182 }" Zhang
 - ::{ flag=JP }:: Jiufu "::Jiufu::{ user=6342891 }" Cai
 - ::{ flag=US }:: Jonathan "::ilalalayou::{ user=3144766 }" Cheng
@@ -59,7 +59,7 @@ Siehe den [osu! UCI Turnier-Index](/wiki/Tournaments/osu!_UCI) für Wiki-Artikel
 - ::{ flag=US }:: Khiem "::PingusKhan::{ user=9648050 }" Dinh
 - ::{ flag=US }:: Loc "::Sukida::{ user=4097867 }" Trinh
 - ::{ flag=US }:: Megan "::migin::{ user=11118735 }" Ikemoto
-- ::{ flag=US }:: Nicholas "::\1Nick\1::{ user=9726582 }" Budding
+- ::{ flag=US }:: Nicholas "::[Nick]::{ user=9726582 }" Budding
 - ::{ flag=US }:: Paxton "::Ikillsheep::{ user=5105173 }" Wong
 - ::{ flag=US }:: Royce "::niseboi::{ user=2747929 }" Sato
 - ::{ flag=US }:: Samuel "::chmpchmp::{ user=7838099 }" Lei

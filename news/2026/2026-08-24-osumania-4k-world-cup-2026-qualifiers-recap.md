@@ -13,7 +13,7 @@ MWC 4K 2026 is here, marking the thirteenth instalment of the tournament! This y
 
 This year's Qualifiers have not been the kindest to everyone, leading to many surprising outcomes not even the players themselves could have predicted. And as it seems to be tradition at this point, we'll be joined by debuting countries during this year's bracket stages!
 
-Joining us in this year's series of video recaps are ::Dynascape::{ user=8784587 }, ::SunApple::{ user=11817622 }, ::Normiplier::{ user=10069850 }, and ::akace100::{ user=9308128 }, who have been with us for the past couple years. Additionally, they will be joined by ::Rush\1FTK::{ user=3046856 } throughout the year as well as this week's guest commentators: ::epic man 2::{ user=14566000 } and ::Sparky::{ user=3187959 }!
+Joining us in this year's series of video recaps are ::Dynascape::{ user=8784587 }, ::SunApple::{ user=11817622 }, ::Normiplier::{ user=10069850 }, and ::akace100::{ user=9308128 }, who have been with us for the past couple years. Additionally, they will be joined by ::Rush_FTK::{ user=3046856 } throughout the year as well as this week's guest commentators: ::epic man 2::{ user=14566000 } and ::Sparky::{ user=3187959 }!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/eoKjbBW_ToM" frameborder="0" allowfullscreen></iframe>

@@ -26,7 +26,7 @@ Congratulations to last month's winners! And a big thanks to ::OnosakiHito::{ us
 
 1. ::YERTI::{ user=1490757 } \- 1 month of supporter
 2. ::dae6254::{ user=563262 }
-3. ::Midnight\1Ahri::{ user=35217496 }
+3. ::Midnight_Ahri::{ user=35217496 }
 
 **osu!mania**
 

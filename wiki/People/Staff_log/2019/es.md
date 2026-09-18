@@ -3,7 +3,7 @@
 ## Enero
 
 - ::clayton::{ user=3666350 } fue añadido al Project Loved Team (26/1/2019)
-- ::mancuso\1JM\1::{ user=521568 } fue movido del Global Moderation Team a los osu! Alumni (31/1/2019)
+- ::mancuso_JM_::{ user=521568 } fue movido del Global Moderation Team a los osu! Alumni (31/1/2019)
 
 ### Eliminaciones de los Beatmap Nominators
 
@@ -32,7 +32,7 @@ Todos los usuarios listados a continuación fueron añadidos el 16 de febrero de
 - ::Hanasaka Yui::{ user=6443117 }
 - ::Sparhten::{ user=7601720 }
 - ::Hinsvar::{ user=1249323 }
-- ::\1Epreus::{ user=7342798 }
+- ::_Epreus::{ user=7342798 }
 - ::Yugu::{ user=3161834 }
 - ::Testo::{ user=5200881 }
 - ::Zelq::{ user=8953955 }
@@ -107,7 +107,7 @@ Todos los usuarios listados a continuación fueron añadidos el 16 de febrero de
 ### Adiciones a los Beatmap Nominators
 
 - ::Unpredictable::{ user=7560872 } (11/5/2019)
-- ::\1 A v a l o n \1::{ user=4632359 } (11/5/2019)
+- ::[ A v a l o n ]::{ user=4632359 } (11/5/2019)
 - ::bite you death::{ user=6398464 } (11/5/2019)
 - ::Nao Tomori::{ user=5364763 } (11/5/2019)
 - ::Absolute Zero::{ user=4847256 } (13/5/2019)
@@ -150,7 +150,7 @@ Todos los usuarios listados a continuación fueron añadidos el 16 de febrero de
 - ::celerih::{ user=4696296 } - renuncia (23/6/2019)
 - ::MBomb::{ user=3071175 } - renuncia (23/6/2019)
 - ::Greenshell::{ user=8693851 } - renuncia (26/6/2019)
-- ::\1Epreus::{ user=7342798 } - renuncia (29/6/2019)
+- ::_Epreus::{ user=7342798 } - renuncia (29/6/2019)
 
 ## Julio
 
@@ -197,7 +197,7 @@ Todos los usuarios listados a continuación fueron añadidos el 16 de febrero de
 
 ## Septiembre
 
-- ::Zero\1\1wind::{ user=1822830 } fue movido del Global Moderation Team a los osu! Alumni (4/9/2019)
+- ::Zero__wind::{ user=1822830 } fue movido del Global Moderation Team a los osu! Alumni (4/9/2019)
 - ::Yason::{ user=2574392 } fue movido del Global Moderation Team a los osu! Alumni (4/9/2019)
 - ::Seto Kousuke::{ user=2857314 } fue movido de los Beatmap Nominators al Nomination Assessment Team (6/9/2019)
 - ::ZiRoX::{ user=200768 } fue movido del Nomination Assessment Team a los osu! Alumni (10/9/2019)
@@ -228,7 +228,7 @@ Todos los usuarios listados a continuación fueron añadidos el 16 de febrero de
 
 ## Octubre
 
-- ::- \1bibitaru\1 -::{ user=4482419 } fue añadido al Global Moderation Team (5/10/2019)
+- ::- [bibitaru] -::{ user=4482419 } fue añadido al Global Moderation Team (5/10/2019)
 - ::Loneight::{ user=663131 } fue añadido al Global Moderation Team (5/10/2019)
 - ::Leniane::{ user=7138602 } fue movido de los Beatmap Nominators al Nomination Assessment Team (15/10/2019)
 - ::Maxus::{ user=4335785 } fue movido del Nomination Assessment Team a los osu! Alumni (23/10/2019)
@@ -275,7 +275,7 @@ Todos los usuarios listados a continuación fueron añadidos el 16 de febrero de
 - ::AirinCat::{ user=11119539 } fue añadido a los Beatmap Nominators provisionales (8/11/2019)
 - ::Nao Tomori::{ user=5364763 } fue retirado de los Beatmap Nominators provisionales - renuncia (8/11/2019)
 - ::Lafayla::{ user=5312547 } fue movido de los Beatmap Nominators provisionales a los Beatmap Nominators (12/11/2019)
-- ::\1 A v a l o n \1::{ user=4632359 } fue retirado de los Beatmap Nominators - renuncia (13/11/2019)
+- ::[ A v a l o n ]::{ user=4632359 } fue retirado de los Beatmap Nominators - renuncia (13/11/2019)
 - ::-Luminate::{ user=4778689 } fue añadido a los Beatmap Nominators provisionales (16/11/2019)
 - ::komasy::{ user=1980256 } fue retirado de los Beatmap Nominators - renuncia (17/11/2019)
 - ::Genjuro::{ user=3196091 } fue añadido a los Beatmap Nominators provisionales (17/11/2019)

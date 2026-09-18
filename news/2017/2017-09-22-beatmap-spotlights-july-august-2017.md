@@ -66,7 +66,7 @@ The winner of the osu!taiko Spotlights this month is no one else but **::komasy:
 
 [![](/wiki/shared/news/2017-09-22-beatmap-spotlights-july-august-2017/necrophagiatoast.jpg)](https://osu.ppy.sh/beatmapsets/567504)
 
-While the titular practice of feasting on corpses is enough to send shivers down one's spine, a toast towards the act crosses boundaries further still. In this month's Spotlight, **::\1yu68::{ user=6170507 }**'s Necrophagiatoast breaks new ground in more ways than one. Not only is this the first time we see Kobaryo featured in the ranked section, the mapset also possesses a difficulty with the highest star rating among ranked maps in osu!taiko, superseding Galaxy Collapse as the previous titleholder for the first time in 20 months.
+While the titular practice of feasting on corpses is enough to send shivers down one's spine, a toast towards the act crosses boundaries further still. In this month's Spotlight, **::_yu68::{ user=6170507 }**'s Necrophagiatoast breaks new ground in more ways than one. Not only is this the first time we see Kobaryo featured in the ranked section, the mapset also possesses a difficulty with the highest star rating among ranked maps in osu!taiko, superseding Galaxy Collapse as the previous titleholder for the first time in 20 months.
 
 Comprising of 6 difficulties ranging from Futsuu to Destructive Nightmare, this mapset is an outstanding example of how high bpm maps should be handled. In spite of the song's chaotic nature, _yu68 expertly interweaves a congruent flow into his own map, making it extremely fun and satisfying to play. This map certainly isn't one for the faint-hearted though, and will definitely give all players a real challenge!
 
@@ -90,7 +90,7 @@ Difficult rhythms, dense patterns, streams and various combined note snaps: My S
 
 [![](/wiki/shared/news/2017-09-22-beatmap-spotlights-july-august-2017/sayonara-memories.jpg)](https://osu.ppy.sh/beatmapsets/606364)
 
-**::Akemi\1Homura::{ user=707980 }** has put out a great entry into Ranked this month with Sayonara Memories! The simple 1/2 + 1/4 patterns are neatly mapped with appropriate consistency and the song parts were divided very well by patterning within the map itself, making it very interesting to play. It is also good practice for Double Time, since the map has many rest sections dividing the more difficult ones. There's bound to be something for everyone in this one!
+**::Akemi_Homura::{ user=707980 }** has put out a great entry into Ranked this month with Sayonara Memories! The simple 1/2 + 1/4 patterns are neatly mapped with appropriate consistency and the song parts were divided very well by patterning within the map itself, making it very interesting to play. It is also good practice for Double Time, since the map has many rest sections dividing the more difficult ones. There's bound to be something for everyone in this one!
 
 ### osu!catch
 
@@ -112,7 +112,7 @@ Despite the lower difficulty level, the map offers a wide variety of patterns an
 
 [![](/wiki/shared/news/2017-09-22-beatmap-spotlights-july-august-2017/I.jpg)](https://osu.ppy.sh/beatmapsets/426638)
 
-Here we have **::Tidek::{ user=743282 }** this time with a beatmap worthy enough for the Spotlight. Knowing that **::\1underjoy::{ user=2235750 }** has made 2 guest difficulties, we can expect a big and wide-reaching work from these two experienced Polish mappers.
+Here we have **::Tidek::{ user=743282 }** this time with a beatmap worthy enough for the Spotlight. Knowing that **::_underjoy::{ user=2235750 }** has made 2 guest difficulties, we can expect a big and wide-reaching work from these two experienced Polish mappers.
 
 The best thing about this map is that you can actually appreciate how the patterns and scroll speed changes gets harder at the same time in each difficulty, if you play them from easiest to hardest. This beatmap is highly recommended if you are fan of scroll speed changes and challenging patterns. Enjoy!
 

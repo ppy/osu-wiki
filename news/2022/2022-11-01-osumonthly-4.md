@@ -62,7 +62,7 @@ Of course, we were not able to cover everything from the patch notes, so if you 
 
 ![](/wiki/shared/news/2022-11-01-osumonthly-4/egts22banner.jpg)
 
-If you haven't already heard, [EGTS](https://osu.ppy.sh/community/forums/topics/1612291?n=1) is an osu!taiko tournament hosted by ::\1yosh::{ user=7157133 }, ::TaikoMom::{ user=9086438 }, ::Briesmas::{ user=2865172 }, and ::Kasumi-sama::{ user=6177263 }. It is considered to be the host to some of the highest level of tournament play in osu!taiko, featuring fully custom songs throughout the mappool and a fully custom pool of charts. Speaking of custom songs, the [Grand Finals tiebreaker](https://osu.ppy.sh/beatmapsets/1859338#taiko/3822143) for the tournament is an amazing collaboration featuring help from all corners of the osu!taiko community with 10 artists, 22 mappers, and many others.
+If you haven't already heard, [EGTS](https://osu.ppy.sh/community/forums/topics/1612291?n=1) is an osu!taiko tournament hosted by ::_yosh::{ user=7157133 }, ::TaikoMom::{ user=9086438 }, ::Briesmas::{ user=2865172 }, and ::Kasumi-sama::{ user=6177263 }. It is considered to be the host to some of the highest level of tournament play in osu!taiko, featuring fully custom songs throughout the mappool and a fully custom pool of charts. Speaking of custom songs, the [Grand Finals tiebreaker](https://osu.ppy.sh/beatmapsets/1859338#taiko/3822143) for the tournament is an amazing collaboration featuring help from all corners of the osu!taiko community with 10 artists, 22 mappers, and many others.
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/UjXu3o0SW5Q" frameborder="0" allowfullscreen></iframe>
 
@@ -71,7 +71,7 @@ Congratulations to the podium winners of this tournament as well! If you want to
 | Placing | Player |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::Seren58::{ user=15252950 } |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::Grape\1Tea::{ user=9540073 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::Grape_Tea::{ user=9540073 } |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::Minekuchi::{ user=9584873 } |
 
 ![](/wiki/shared/news/2022-11-01-osumonthly-4/improvement-month-banner.jpg)
@@ -84,7 +84,7 @@ If you missed the top player interviews, don't worry, the [replays](https://www.
 
 ![](/wiki/shared/news/2022-11-01-osumonthly-4/dreamjam-banner.jpg)
 
-[DreamJam](https://osu.ppy.sh/community/forums/topics/1649330?n=1) is an offline osu! meetup & tournament in Singapore, hosted by ::megumic::{ user=7537133 } and ::\1gt::{ user=8301957 }. The event welcomed more than 90 attendees in the Dreamcore Showroom, making it the largest osu! meetup to date in Singapore.
+[DreamJam](https://osu.ppy.sh/community/forums/topics/1649330?n=1) is an offline osu! meetup & tournament in Singapore, hosted by ::megumic::{ user=7537133 } and ::_gt::{ user=8301957 }. The event welcomed more than 90 attendees in the Dreamcore Showroom, making it the largest osu! meetup to date in Singapore.
 
 The event featured a Tandem King of the Hill Tournament, with the fun and challenging concept of having one person control the keyboard while the other controls the mouse or tablet. The highlight of the event, however, was a Battle Royale featuring Singapore's osu! World Cup roster, including top Singaporean players such as ::GSBlank::{ user=2312106 }, ::Eagle5324::{ user=11987104 } and the eventual champion, ::Demonical::{ user=5447609 }.
 
@@ -136,7 +136,7 @@ After being ranked for over 3 years, the living legend ::applerss::{ user=983349
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/k84skFvaFqo" frameborder="0" allowfullscreen></iframe>
 
-Some other notable plays this month include ::shinchikuhome::{ user=3174184 }'s [Chronostasis](https://osu.ppy.sh/beatmapsets/842930#taiko/1763738) [DT FC](https://osu.ppy.sh/scores/taiko/174906458), earning them 982 pp along with both #1 on the map, and #1 global! Congratulations aswell to EGTS runner-up, ::Grape\1Tea::{ user=9540073 } who also set an insane [NFHDHR SS](https://osu.ppy.sh/scores/taiko/175189773) on [The Limit Does Not Exist](https://osu.ppy.sh/beatmapsets/420395#taiko/1028158), worth 922 pp!
+Some other notable plays this month include ::shinchikuhome::{ user=3174184 }'s [Chronostasis](https://osu.ppy.sh/beatmapsets/842930#taiko/1763738) [DT FC](https://osu.ppy.sh/scores/taiko/174906458), earning them 982 pp along with both #1 on the map, and #1 global! Congratulations aswell to EGTS runner-up, ::Grape_Tea::{ user=9540073 } who also set an insane [NFHDHR SS](https://osu.ppy.sh/scores/taiko/175189773) on [The Limit Does Not Exist](https://osu.ppy.sh/beatmapsets/420395#taiko/1028158), worth 922 pp!
 
 ### Notable osu!catch plays of the month
 

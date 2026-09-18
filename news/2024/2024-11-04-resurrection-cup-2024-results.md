@@ -355,7 +355,7 @@ I draw inspiration from these three and try to incorporate their strengths into 
 
 ![](/wiki/shared/news/2024-11-04-resurrection-cup-2024-results/hoaq-and-[boy]dalat.jpg)
 
-::Hoaq::{ user=7696512 } and ::\1Boy\1DaLat::{ user=8266808 } went above and beyond with their immersive and captivating stream overlay. The recognisable and distinctive design elevated the viewing experience and helped to distinguish ResCup from the more conventional overlays.
+::Hoaq::{ user=7696512 } and ::[Boy]DaLat::{ user=8266808 } went above and beyond with their immersive and captivating stream overlay. The recognisable and distinctive design elevated the viewing experience and helped to distinguish ResCup from the more conventional overlays.
 
 ---
 

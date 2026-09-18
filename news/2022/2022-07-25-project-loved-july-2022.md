@@ -139,7 +139,7 @@ The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::Boaz:
 
 [![](/wiki/shared/news/2022-07-25-project-loved-july-2022/1580469.jpg)](https://osu.ppy.sh/community/forums/topics/1618071)
 
-[fox capture plan - Asian Dancer](https://osu.ppy.sh/beatmapsets/1580469#taiko) by ::Cookie\1Tree::{ user=502722 }\
+[fox capture plan - Asian Dancer](https://osu.ppy.sh/beatmapsets/1580469#taiko) by ::Cookie_Tree::{ user=502722 }\
 135 BPM, 4:05 | 4.75★\
 The \[SV Dancer (no gimmick)\] difficulty is *not* being nominated for Loved.\
 *description written by ::Boaz::{ user=13302996 }*
@@ -182,7 +182,7 @@ We wish you'll find enjoyment and inspiration from this respectable creation of 
 
 [![](/wiki/shared/news/2022-07-25-project-loved-july-2022/833150.jpg)](https://osu.ppy.sh/community/forums/topics/1618068)
 
-[7_7 - Waga Na ha Gorori](https://osu.ppy.sh/beatmapsets/833150#taiko) by ::7\17::{ user=7491106 }, ::hoku::{ user=9503098 }, ::KKN::{ user=5384639 } and ::KTYN::{ user=2250574 }\
+[7_7 - Waga Na ha Gorori](https://osu.ppy.sh/beatmapsets/833150#taiko) by ::7_7::{ user=7491106 }, ::hoku::{ user=9503098 }, ::KKN::{ user=5384639 } and ::KTYN::{ user=2250574 }\
 286 BPM, 1:10 | 6.43★, 7.14★, 7.46★, 7.47★, 7.73★\
 *description written by ::KuroKuroKuro::{ user=11931563 }*
 
@@ -367,7 +367,7 @@ This map is quite a challenge, so it makes us excited about the potential top sc
 
 [![](/wiki/shared/news/2022-07-25-project-loved-july-2022/867748.jpg)](https://osu.ppy.sh/community/forums/topics/1618053)
 
-[M2U & NICODE - Loadstar](https://osu.ppy.sh/beatmapsets/867748#mania) by ::Wilben\1Chan::{ user=6659363 }\
+[M2U & NICODE - Loadstar](https://osu.ppy.sh/beatmapsets/867748#mania) by ::Wilben_Chan::{ user=6659363 }\
 90 BPM, 2:26 | 3.89★\
 *description written by ::-NoName-::{ user=10400730 }*
 

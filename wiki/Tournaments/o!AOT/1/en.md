@@ -63,7 +63,7 @@ The osu! Asia Oceania Tournament was run by various community members.
 | **an unlikely alliance** | ::{ flag=KW }:: **::Rimuru::{ user=4601372 }**, ::{ flag=AU }:: ::Gamecube08::{ user=9498319 }, ::{ flag=KR }:: ::VarvalianFanboy::{ user=13211236 } |
 | **any ideas** | ::{ flag=US }:: **::Dain::{ user=3426414 }**, ::{ flag=IL }:: ::Xilver15::{ user=3099689 }, ::{ flag=MN }:: ::seegii::{ user=4659319 }, ::{ flag=KR }:: ::Penoreri-::{ user=2425779 } |
 | **babote** | ::{ flag=JP }:: **::Delis::{ user=1603923 }**, ::{ flag=KR }:: ::Yaong::{ user=1883865 }, ::{ flag=JP }:: ::benki::{ user=1021944 }, ::{ flag=ID }:: ::smh::{ user=1629553 } |
-| **Best Friends** | ::{ flag=KZ }:: **::TakkimotoHifumi::{ user=6222880 }**, ::{ flag=GE }:: ::\1Deadline\1::{ user=5783393 }, ::{ flag=JP }:: ::katatakatata::{ user=3540294 }, ::{ flag=KZ }:: ::\_Hornet::{ user=6862265 } |
+| **Best Friends** | ::{ flag=KZ }:: **::TakkimotoHifumi::{ user=6222880 }**, ::{ flag=GE }:: ::[Deadline]::{ user=5783393 }, ::{ flag=JP }:: ::katatakatata::{ user=3540294 }, ::{ flag=KZ }:: ::\_Hornet::{ user=6862265 } |
 | **Bin Boys** | ::{ flag=AU }:: **::Lammy-::{ user=5751823 }**, ::{ flag=AU }:: ::ASecretBox::{ user=7341183 }, ::{ flag=AU }:: ::Jordan The Beer::{ user=11652827 }, ::{ flag=AU }:: ::ASecretBox 2::{ user=4166621 } |
 | **bus girls** | ::{ flag=NZ }:: **::Big Z::{ user=8641416 }**, ::{ flag=NZ }:: ::Feyyy::{ user=2523703 }, ::{ flag=NZ }:: ::kurume::{ user=7863657 }, ::{ flag=NZ }:: ::smead::{ user=4293459 } |
 | **Chicken Biriyani** | ::{ flag=IN }:: **::Potla::{ user=1788022 }**, ::{ flag=IN }:: ::Ryuukai::{ user=6636960 }, ::{ flag=IN }:: ::Meet::{ user=2003720 } |

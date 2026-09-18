@@ -502,7 +502,7 @@ Artikel ini mencantumkan semua beatmap showcase yang telah dibuat oleh anggota d
 - **[Raimukun](https://osu.ppy.sh/home/news/2022-03-12-new-featured-artist-raimukun)** (2022-03-12)
   - (![][osu!catch]) [Raimukun - Firmament star](https://osu.ppy.sh/beatmapsets/1633703#fruits/3360065) diurus oleh ::{ flag=PH }:: ::Jemzuu::{ user=7890134 }
 - **[Plum](https://osu.ppy.sh/home/news/2022-03-19-new-featured-artist-plum)** (2022-03-19)
-  - (![][osu!]) [Plum - Maelstrom](https://osu.ppy.sh/beatmapsets/1679690#osu/3493711) diurus oleh ::{ flag=KR }:: ::\1Epreus::{ user=7342798 }
+  - (![][osu!]) [Plum - Maelstrom](https://osu.ppy.sh/beatmapsets/1679690#osu/3493711) diurus oleh ::{ flag=KR }:: ::_Epreus::{ user=7342798 }
 - **[my sound life](https://osu.ppy.sh/home/news/2022-03-30-new-featured-artist-my-sound-life)** (2022-03-30)
   - (![][osu!]) [my sound life - omega](https://osu.ppy.sh/beatmapsets/1728309#osu/3538894) diurus oleh ::{ flag=US }:: ::Heroine::{ user=12727076 }
 
@@ -558,7 +558,7 @@ Artikel ini mencantumkan semua beatmap showcase yang telah dibuat oleh anggota d
   - (![][osu!]) [aran & lapix - KALACAKLA](https://osu.ppy.sh/beatmapsets/1773829#osu/3631936) diurus oleh ::{ flag=AU }:: ::elicz1::{ user=8039342 }
 - **[NOISZ](https://osu.ppy.sh/home/news/2022-07-23-new-featured-artist-noisz)** (2022-07-23)
   - (![][osu!]) [Camellia feat. Morinaga Mayumi - re:||BIRTH](https://osu.ppy.sh/beatmapsets/1779714#osu/3644812) diurus oleh ::{ flag=US }:: ::UberFazz::{ user=8646059 }
-  - (![][osu!]) [Soleily feat. SUNRaiSE - Rise Above](https://osu.ppy.sh/beatmapsets/1767895#osu/3618854) diurus oleh ::{ flag=HU }:: ::Nytrocide\1::{ user=11327918 }
+  - (![][osu!]) [Soleily feat. SUNRaiSE - Rise Above](https://osu.ppy.sh/beatmapsets/1767895#osu/3618854) diurus oleh ::{ flag=HU }:: ::Nytrocide_::{ user=11327918 }
 - **[ZxNX](https://osu.ppy.sh/home/news/2022-07-30-new-featured-artist-zxnx)** (2022-07-30)
   - (![][osu!]) [ZxNX - Schadenfreude](https://osu.ppy.sh/beatmapsets/1816239#osu/3728042) diurus oleh ::{ flag=FR }:: ::Realazy::{ user=918297 }
   - (![][osu!catch]) [ZxNX - Schadenfreude](https://osu.ppy.sh/beatmapsets/1698949#fruits/3522804) diurus oleh ::{ flag=PH }:: ::Jemzuu::{ user=7890134 }
@@ -605,7 +605,7 @@ Artikel ini mencantumkan semua beatmap showcase yang telah dibuat oleh anggota d
 ### Oktober
 
 - **[Mono.](https://osu.ppy.sh/home/news/2022-10-01-new-featured-artist-mono)** (2022-10-01)
-  - (![][osu!]) [Mono. - ST4RDUST*XABER](https://osu.ppy.sh/beatmapsets/1810657#osu/3713836) diurus oleh ::{ flag=KR }:: ::\1Epreus::{ user=7342798 }
+  - (![][osu!]) [Mono. - ST4RDUST*XABER](https://osu.ppy.sh/beatmapsets/1810657#osu/3713836) diurus oleh ::{ flag=KR }:: ::_Epreus::{ user=7342798 }
 - **[Tokyo.MeltiMelt](https://osu.ppy.sh/home/news/2022-10-05-new-featured-artist-tokyo-meltimelt)** (2022-10-05)
   - (![][osu!]) [Tokyo.MeltiMelt - I ain't need my heart feat. Hatsuki Yura](https://osu.ppy.sh/beatmapsets/1800571#osu/3691442) diurus oleh ::{ flag=RU }:: ::SMOKELIND::{ user=9327302 }
   - (![][osu!]) [Tokyo.MeltiMelt - Virgin Mary feat. Sennzai](https://osu.ppy.sh/beatmapsets/1830770#osu/3757790) diurus oleh ::{ flag=PH }:: ::-Aqua::{ user=7150015 }
@@ -615,7 +615,7 @@ Artikel ini mencantumkan semua beatmap showcase yang telah dibuat oleh anggota d
 - **[GLORYHAMMER](https://osu.ppy.sh/home/news/2022-10-15-new-featured-artist-gloryhammer)** (2022-10-15)
   - (![][osu!]) [GLORYHAMMER - The Epic Rage of Furious Thunder](https://osu.ppy.sh/beatmapsets/1848202#osu/3796617) diurus oleh ::{ flag=TR }:: ::Nymphe::{ user=10507407 }
 - **[Hinkik](https://osu.ppy.sh/home/news/2022-10-26-new-featured-artist-hinkik)** (2022-10-26)
-  - (![][osu!]) [Hinkik - Explorers](https://osu.ppy.sh/beatmapsets/1861042#osu/3826149) diurus oleh ::{ flag=HU }:: ::Nytrocide\1::{ user=11327918 }
+  - (![][osu!]) [Hinkik - Explorers](https://osu.ppy.sh/beatmapsets/1861042#osu/3826149) diurus oleh ::{ flag=HU }:: ::Nytrocide_::{ user=11327918 }
 
 ### November
 
@@ -666,7 +666,7 @@ Artikel ini mencantumkan semua beatmap showcase yang telah dibuat oleh anggota d
   - (![][osu!mania]) [Cinamoro - Another](https://osu.ppy.sh/beatmapsets/1910036) diurus oleh ::{ flag=ID }:: ::FAMoss::{ user=7707789 }
   - (![][osu!]) [Cinamoro - Paleturquoise](https://osu.ppy.sh/beatmapsets/1874826) diurus oleh ::{ flag=DE }:: ::PaRaDogi::{ user=2054596 }
 - **[yaseta](https://osu.ppy.sh/home/news/2023-02-18-new-featured-artist-yaseta)** (2023-02-18)
-  - (![][osu!]) [yaseta - Dreamy Goat](https://osu.ppy.sh/beatmapsets/1917139) diurus oleh ::{ flag=HU }:: ::Nytrocide\1::{ user=11327918 }
+  - (![][osu!]) [yaseta - Dreamy Goat](https://osu.ppy.sh/beatmapsets/1917139) diurus oleh ::{ flag=HU }:: ::Nytrocide_::{ user=11327918 }
 - **[KASHIWA Daisuke](https://osu.ppy.sh/home/news/2023-02-22-new-featured-artist-kashiwa-daisuke)** (2023-02-22)
   - (![][osu!]) [KASHIWA Daisuke - Sacred Play Secret Place](https://osu.ppy.sh/beatmapsets/1908078) diurus oleh ::{ flag=RU }:: ::Daycore::{ user=5596337 }
 - **[Kabocha](https://osu.ppy.sh/home/news/2023-03-01-new-featured-artist-kabocha)** (2023-03-01)
@@ -705,7 +705,7 @@ Artikel ini mencantumkan semua beatmap showcase yang telah dibuat oleh anggota d
 - **[Junk](https://osu.ppy.sh/home/news/2023-06-17-new-featured-artist-junk)** (2023-06-17)
   - (![][osu!]) [Junk - Yellow Smile (bms edit)](https://osu.ppy.sh/beatmapsets/2010589) diurus oleh ::{ flag=RU }:: ::Daycore::{ user=5596337 }
   - (![][osu!catch]) [Junk - Yellow Smile (bms edit)](https://osu.ppy.sh/beatmapsets/2006758) diurus oleh ::{ flag=US }:: ::Secre::{ user=2306637 }
-  - (![][osu!taiko]) [Junk - Yellow Smile (bms edit)](https://osu.ppy.sh/beatmapsets/2010165) diurus oleh ::{ flag=AR }:: ::gaston\12199::{ user=5938161 }
+  - (![][osu!taiko]) [Junk - Yellow Smile (bms edit)](https://osu.ppy.sh/beatmapsets/2010165) diurus oleh ::{ flag=AR }:: ::gaston_2199::{ user=5938161 }
   - (![][osu!catch]) [Junk - Qualia](https://osu.ppy.sh/beatmapsets/2010010) diurus oleh ::{ flag=NL }:: ::Chatie::{ user=6524765 }
 - **[passchooo](https://osu.ppy.sh/home/news/2023-06-24-new-featured-artist-passchooo)** (2023-06-24)
   - (![][osu!]) [passchooo - chooo2023_1](https://osu.ppy.sh/beatmapsets/1981957) diurus oleh ::{ flag=RU }:: ::SMOKELIND::{ user=9327302 }
@@ -717,7 +717,7 @@ Artikel ini mencantumkan semua beatmap showcase yang telah dibuat oleh anggota d
 ### Juli
 
 - **[Krimek](https://osu.ppy.sh/home/news/2023-07-08-new-featured-artist-krimek)** (2023-07-08)
-  - (![][osu!]) [Krimek feat. dokxid - Gravity Hole](https://osu.ppy.sh/beatmapsets/1983505) diurus oleh ::{ flag=HU }:: ::Nytrocide\1::{ user=11327918 }
+  - (![][osu!]) [Krimek feat. dokxid - Gravity Hole](https://osu.ppy.sh/beatmapsets/1983505) diurus oleh ::{ flag=HU }:: ::Nytrocide_::{ user=11327918 }
 - **[YUC'e](https://osu.ppy.sh/home/news/2023-07-15-new-featured-artist-yuce)** (2023-07-15)
   - (![][osu!taiko]) [YUC'e - Future Candy](https://osu.ppy.sh/beatmapsets/2006776) diurus oleh ::{ flag=AR }:: ::ZelLink::{ user=6752242 }
   - (![][osu!]) [YUC'e - SPACE INVADER](https://osu.ppy.sh/beatmapsets/2005892) diurus oleh ::{ flag=RU }:: ::SMOKELIND::{ user=9327302 }
@@ -738,7 +738,7 @@ Artikel ini mencantumkan semua beatmap showcase yang telah dibuat oleh anggota d
   - (![][osu!]) [beignet - Sign](https://osu.ppy.sh/beatmapsets/2030991) diurus oleh ::{ flag=ID }:: ::Hinsvar::{ user=1249323 }
   - (![][osu!]) [beignet - Mint Comet (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2031418) diurus oleh ::{ flag=ES }:: ::Nachmark::{ user=17584310 }
   - (![][osu!mania]) [beignet - Maple Trick](https://osu.ppy.sh/beatmapsets/2032450) diurus oleh ::{ flag=ID }:: ::Ilham::{ user=3057154 }
-  - (![][osu!]) [beignet - S'more](https://osu.ppy.sh/beatmapsets/2050540) diurus oleh ::{ flag=BA }:: ::Stompy\1::{ user=16429579 }
+  - (![][osu!]) [beignet - S'more](https://osu.ppy.sh/beatmapsets/2050540) diurus oleh ::{ flag=BA }:: ::Stompy_::{ user=16429579 }
 
 ### September
 
@@ -753,7 +753,7 @@ Artikel ini mencantumkan semua beatmap showcase yang telah dibuat oleh anggota d
 - **[Kou!](https://osu.ppy.sh/home/news/2023-10-07-new-featured-artist-kou)** (2023-10-07)
   - (![][osu!catch]) [Kou! - sub/zerO](https://osu.ppy.sh/beatmapsets/2069616) diurus oleh ::{ flag=HK }:: ::autofanboy::{ user=636114 }
 - **[ColBreakz](https://osu.ppy.sh/home/news/2023-10-15-new-featured-artist-colbreakz)** (2023-10-15)
-  - (![][osu!]) [ColBreakz - 2011](https://osu.ppy.sh/beatmapsets/2074103) diurus oleh ::{ flag=HU }:: ::Nytrocide\1::{ user=11327918 }
+  - (![][osu!]) [ColBreakz - 2011](https://osu.ppy.sh/beatmapsets/2074103) diurus oleh ::{ flag=HU }:: ::Nytrocide_::{ user=11327918 }
   - (![][osu!mania]) [Protolizard & ColBreakz - Nevermind](https://osu.ppy.sh/beatmapsets/2072833) diurus oleh ::{ flag=ID }:: ::Ainer::{ user=13371424 }
   - (![][osu!]) [ColBreakz & Vizzen - Remember](https://osu.ppy.sh/beatmapsets/2052201) diurus oleh ::{ flag=ID }:: ::Hinsvar::{ user=1249323 }
 - **[Dustvoxx](https://osu.ppy.sh/home/news/2023-10-28-new-featured-artist-dustvoxx)** (2023-10-28)

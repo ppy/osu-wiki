@@ -26,7 +26,7 @@ Les soumissions à ce concours comprennent les éléments suivants :
 | extremely valid | ::{ flag=US }:: ::BilliumMoto::{ user=3862471 }, ::{ flag=FR }:: ::Shinwoir::{ user=8984574 } | ::{ flag=DE }:: ::Mao::{ user=2204515 }, ::{ flag=GB }:: ::DeviousPanda::{ user=4966334 }, ::{ flag=FR }:: ::Realazy::{ user=918297 } | ::{ flag=DE }:: ::Mao::{ user=2204515 } | [Lien](https://osu.ppy.sh/beatmapsets/1388906#osu/2868388) |
 | humilde | ::{ flag=AR }:: ::pm04034::{ user=12704335 } | ::{ flag=AR }:: ::Megafan::{ user=6632605 }, ::{ flag=TH }:: ::ohm002::{ user=4468239 } | ::{ flag=TH }:: ::ohm002::{ user=4468239 } | [Lien](https://osu.ppy.sh/beatmapsets/1382737#osu/2856702) |
 | Incoherent Sound | ::{ flag=MY }:: ::takehirotei::{ user=11793794 } | ::{ flag=MY }:: ::Kardshark::{ user=4724315 }, ::{ flag=MY }:: ::\[MY\]xArief::{ user=12694468 }, ::{ flag=MY }:: ::\[-Chocola-\]::{ user=6781232 } | ::{ flag=MY }:: ::GhostFY::{ user=7798305 } | [Lien](https://osu.ppy.sh/beatmapsets/1390004#osu/2870603) |
-| le fishe au chocolat | ::{ flag=DK }:: ::-Tochi::{ user=3664366 } | ::{ flag=KR }:: ::Acylica::{ user=1943309 }, ::{ flag=CA }:: ::J1\1::{ user=5918561 }, ::{ flag=AR }:: ::Lince Cosmico::{ user=6070370 }, ::{ flag=DK }:: ::-Tochi::{ user=3664366 } | ::{ flag=DK }:: ::-Tochi::{ user=3664366 } | [Lien](https://osu.ppy.sh/beatmapsets/1389401#osu/2869375) |
+| le fishe au chocolat | ::{ flag=DK }:: ::-Tochi::{ user=3664366 } | ::{ flag=KR }:: ::Acylica::{ user=1943309 }, ::{ flag=CA }:: ::J1_::{ user=5918561 }, ::{ flag=AR }:: ::Lince Cosmico::{ user=6070370 }, ::{ flag=DK }:: ::-Tochi::{ user=3664366 } | ::{ flag=DK }:: ::-Tochi::{ user=3664366 } | [Lien](https://osu.ppy.sh/beatmapsets/1389401#osu/2869375) |
 | Lovers | ::{ flag=UA }:: ::XenjeS::{ user=10166905 } | ::{ flag=UA }:: ::XenjeS::{ user=10166905 }, ::{ flag=RU }:: ::adioni::{ user=8894794 }, ::{ flag=BG }:: ::Delette::{ user=7835664 } | ::{ flag=UA }:: ::PantyDev::{ user=5420543 } | [Lien](https://osu.ppy.sh/beatmapsets/1388590#osu/2867851) |
 | Moyai | ::{ flag=TR }:: ::SAMString::{ user=7273976 } | ::{ flag=GB }:: ::Aistre::{ user=4879380 }, ::{ flag=GG }:: ::Patrick Cake::{ user=11266329 }, ::{ flag=RS }:: ::Seolv::{ user=8067876 } | ::{ flag=CA }:: ::TheDuckMask::{ user=7405768 } | [Lien](https://osu.ppy.sh/beatmapsets/1389249#osu/2868999) |
 | Pentangle of Ambivalence | ::{ flag=BR }:: ::Maemi no Yume::{ user=4377273 } | ::{ flag=BR }:: ::Kalindraz::{ user=2313166 }, ::{ flag=BR }:: ::Sakura Airi::{ user=8682057 } | ::{ flag=BR }:: ::K4L1::{ user=11334594 } | [Lien](https://osu.ppy.sh/beatmapsets/1389127#osu/2868791) |
@@ -73,7 +73,7 @@ Le concours sera jugé par un panel de mappeurs (comprenant des storyboarders) e
     - **Gagnant :** 6 mois d'osu!supporter + badge de profil *Musicians' Pick*
     - Panélistes :
       - ::{ flag=CA }:: Kuba Oms
-      - ::{ flag=JP }:: ::A\1\1::{ user=12011880 }
+      - ::{ flag=JP }:: ::A__::{ user=12011880 }
       - ::{ flag=DE }:: ::Celektus::{ user=4294993 }
       - ::{ flag=US }:: ::Dictate::{ user=5983379 }
       - ::{ flag=US }:: ::Will Stetson::{ user=4909088 }

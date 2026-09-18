@@ -199,7 +199,7 @@ The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user=920861 }, ::aceti
 
 [![](/wiki/shared/news/2023-06-21-project-loved-june-2023/1171259.jpg)](https://osu.ppy.sh/community/forums/topics/1781990)
 
-[Billie Eilish - WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://osu.ppy.sh/beatmapsets/1171259#taiko) by ::JarvisGaming::{ user=8601048 }, ::Cynplytholowazy::{ user=3901754 }, ::Gamelan4::{ user=9856910 }, ::Konpaku Sariel::{ user=533502 }, ::Red Riding Hood::{ user=8050850 }, ::Reed\1405::{ user=9965069 } and ::Vulkin::{ user=4901066 }\
+[Billie Eilish - WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://osu.ppy.sh/beatmapsets/1171259#taiko) by ::JarvisGaming::{ user=8601048 }, ::Cynplytholowazy::{ user=3901754 }, ::Gamelan4::{ user=9856910 }, ::Konpaku Sariel::{ user=533502 }, ::Red Riding Hood::{ user=8050850 }, ::Reed_405::{ user=9965069 } and ::Vulkin::{ user=4901066 }\
 110 – 135 BPM, 42:41 | 1.12★ – 4.53★\
 The \[1. !!!!!!! (JarvisGaming)\] difficulty is *not* being nominated for Loved.\
 *description written by ::aceticke::{ user=8838763 }*
@@ -228,7 +228,7 @@ Do you have what it takes to take on his wrath?
 190 – 666 BPM, 3:40 | 6.52★ – 9.31★\
 *description written by ::Eriha::{ user=16320311 }*
 
-First of all, I would like to congratulate ::7\17::{ user=7491106 } for becoming a Featured Artist. Congratulations to 7_7! This month I present the [7_7 - 7_7 Appreciation Mapset](https://osu.ppy.sh/beatmapsets/1401944#taiko), a ::X a v y::{ user=3738344 } mapset with 7_7's unique songs mapped on it.
+First of all, I would like to congratulate ::7_7::{ user=7491106 } for becoming a Featured Artist. Congratulations to 7_7! This month I present the [7_7 - 7_7 Appreciation Mapset](https://osu.ppy.sh/beatmapsets/1401944#taiko), a ::X a v y::{ user=3738344 } mapset with 7_7's unique songs mapped on it.
 
 What a surprise! In order to have it loved this time, 7_7 has created an exclusive song for this event and a version of Meriba that has not been released at [TWC 2023](/wiki/Tournaments/TWC/2023)! (The diffs in this mapset are the diffs used in TWC 2023 before nerfing, and the SR is a whopping 9.31...??????????)
 
@@ -248,13 +248,13 @@ Don't let Chino's [Innocent Heart](https://osu.ppy.sh/beatmapsets/700486#taiko/1
 
 [![](/wiki/shared/news/2023-06-21-project-loved-june-2023/1189370.jpg)](https://osu.ppy.sh/community/forums/topics/1781986)
 
-[Stellabee - Kill The Breakcore](https://osu.ppy.sh/beatmapsets/1189370#taiko) by ::-Kazu-::{ user=920861 }, ::7\17::{ user=7491106 }, ::Alchyr::{ user=4993032 }, ::applerss::{ user=983349 }, ::D3kuu::{ user=7807444 }, ::Gamelan4::{ user=9856910 }, ::Genjuro::{ user=3196091 }, ::jyake::{ user=9099822 }, ::Kqrth::{ user=4115718 }, ::KTYN::{ user=2250574 } and ::Ulqui::{ user=1263669 }\
+[Stellabee - Kill The Breakcore](https://osu.ppy.sh/beatmapsets/1189370#taiko) by ::-Kazu-::{ user=920861 }, ::7_7::{ user=7491106 }, ::Alchyr::{ user=4993032 }, ::applerss::{ user=983349 }, ::D3kuu::{ user=7807444 }, ::Gamelan4::{ user=9856910 }, ::Genjuro::{ user=3196091 }, ::jyake::{ user=9099822 }, ::Kqrth::{ user=4115718 }, ::KTYN::{ user=2250574 } and ::Ulqui::{ user=1263669 }\
 230 BPM, 13:22 | 7.64★\
 *description written by ::Sebola::{ user=15821708 }*
 
 *\*amen break sample*\*
 
-Do you like breakcore? If your answer is yes, you SHOULD play this map now! Featuring (just *some* mappers) ::Gamelan4::{ user=9856910 }, ::-Kazu-::{ user=920861 }, Kqrth, ::KTYN::{ user=2250574 }, ::jyake::{ user=9099822 }, ::Alchyr::{ user=4993032 }, ::Ulqui::{ user=1263669 }, ::applerss::{ user=983349 }, ::D3kuu::{ user=7807444 }, ::Genjuro::{ user=3196091 }, and ::7\17::{ user=7491106 } this collab provides 13 minutes and 23 seconds of pure breakcore. Uncommon rhythms, rapid sections, 1/4 and 1/6 streams, and much more. This beatmap is the perfect representation of this song. Trust me, you will *\~love\~* this... *\*wink\**
+Do you like breakcore? If your answer is yes, you SHOULD play this map now! Featuring (just *some* mappers) ::Gamelan4::{ user=9856910 }, ::-Kazu-::{ user=920861 }, Kqrth, ::KTYN::{ user=2250574 }, ::jyake::{ user=9099822 }, ::Alchyr::{ user=4993032 }, ::Ulqui::{ user=1263669 }, ::applerss::{ user=983349 }, ::D3kuu::{ user=7807444 }, ::Genjuro::{ user=3196091 }, and ::7_7::{ user=7491106 } this collab provides 13 minutes and 23 seconds of pure breakcore. Uncommon rhythms, rapid sections, 1/4 and 1/6 streams, and much more. This beatmap is the perfect representation of this song. Trust me, you will *\~love\~* this... *\*wink\**
 
 [![](/wiki/shared/news/2023-06-21-project-loved-june-2023/1402925.jpg)](https://osu.ppy.sh/community/forums/topics/1781985)
 
@@ -400,11 +400,11 @@ Do you feel like traveling back to 2017 yet? Feel free to cast your vote in the 
 
 [![](/wiki/shared/news/2023-06-21-project-loved-june-2023/1979161.jpg)](https://osu.ppy.sh/community/forums/topics/1781975)
 
-[-45 remixed by INNOCENT NOIZE - G e n g a o z o -Noize of Nocent-](https://osu.ppy.sh/beatmapsets/1979161#mania) by ::ade\1maine::{ user=14814632 }\
+[-45 remixed by INNOCENT NOIZE - G e n g a o z o -Noize of Nocent-](https://osu.ppy.sh/beatmapsets/1979161#mania) by ::ade_maine::{ user=14814632 }\
 124 – 162.75 BPM, 9:54 | 6.77★ – 8.61★\
 *description written by ::Mipha-::{ user=5767941 }*
 
-Listen man, I don't think we as Loved team captains are looking prepared enough to introduce this pick to everyone, and especially just by looking at this mapset's link alone should tell you how dark those difficulty icons are. But on the opposite side of the spectrum, people are crazy enough to do this chart even at normal rate... that scares us quite a bit. Today, we present to you yet another chordjack pick that is, as expected, one of the hardest chordjack marathons that has ever been made, and it is [G e n g a o z o -Noize of Nocent-](https://osu.ppy.sh/beatmapsets/1979161#mania/4130350) by ::ade\1maine::{ user=14814632 }.
+Listen man, I don't think we as Loved team captains are looking prepared enough to introduce this pick to everyone, and especially just by looking at this mapset's link alone should tell you how dark those difficulty icons are. But on the opposite side of the spectrum, people are crazy enough to do this chart even at normal rate... that scares us quite a bit. Today, we present to you yet another chordjack pick that is, as expected, one of the hardest chordjack marathons that has ever been made, and it is [G e n g a o z o -Noize of Nocent-](https://osu.ppy.sh/beatmapsets/1979161#mania/4130350) by ::ade_maine::{ user=14814632 }.
 
 Look, I'm not going to beat around the bush telling you why this is very popular (even though the upload date is fairly newer), but that's because it is — it was uploaded by ::someone else::{ user=13799949 } and then... the original mapper came by and gladly uploaded this mapset by themselves. I'm sure some of you are pretty skeptical about it, but you can look it up on this chart's [link](https://osu.ppy.sh/beatmapsets/1753144#mania/3747680) before this was uploaded by the original mapper.
 

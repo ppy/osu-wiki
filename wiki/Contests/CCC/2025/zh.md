@@ -34,11 +34,11 @@ tags:
 
 | 职位 | 成员 |
 | :-- | :-- |
-| 主办 | ::{ flag=CN }:: ::\1Stan::{ user=1653229 } |
-| 管理 | ::{ flag=CN }:: ::\1Stan::{ user=1653229 }, ::{ flag=CN }:: ::mafumafu::{ user=3076909 } |
-| 设计 | ::{ flag=CN }:: ::\1Stan::{ user=1653229 }, ::{ flag=CN }:: ::AlexDunk::{ user=9194799 } |
+| 主办 | ::{ flag=CN }:: ::_Stan::{ user=1653229 } |
+| 管理 | ::{ flag=CN }:: ::_Stan::{ user=1653229 }, ::{ flag=CN }:: ::mafumafu::{ user=3076909 } |
+| 设计 | ::{ flag=CN }:: ::_Stan::{ user=1653229 }, ::{ flag=CN }:: ::AlexDunk::{ user=9194799 } |
 | 评委 | ::{ flag=MY }:: ::AWMRone::{ user=10351684 }, ::{ flag=PH }:: ::lenpai::{ user=5374513 }, ::{ flag=ES }:: ::RandomeLoL::{ user=7080063 }, ::{ flag=CN }:: ::Seiran-::{ user=14351534 }, ::{ flag=KR }:: ::taba2::{ user=7850508 } |
-| 统计 | ::{ flag=CN }:: ::\1Crz\1Alleyne::{ user=11279273 } |
+| 统计 | ::{ flag=CN }:: ::[Crz]Alleyne::{ user=11279273 } |
 
 ## 其他链接
 
@@ -65,7 +65,7 @@ tags:
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") 冠军 | ::{ flag=CN }:: ::G1NYA::{ user=31767575 } |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") 亚军 | ::{ flag=CN }:: ::wIntEr7z::{ user=16509588 } |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") 季军 | ::{ flag=CN }:: ::just a GRJ::{ user=29957843 } |
-| 参与奖（第4-第5） | ::{ flag=CN }:: ::tyrcs::{ user=13026904 }, ::{ flag=CN }:: ::Wings\1AnChen::{ user=12694894 } |
+| 参与奖（第4-第5） | ::{ flag=CN }:: ::tyrcs::{ user=13026904 }, ::{ flag=CN }:: ::Wings_AnChen::{ user=12694894 } |
 
 ## 规章制度
 

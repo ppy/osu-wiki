@@ -142,7 +142,7 @@ Tous les membres de la GMT parlent l'anglais en plus des langues énumérées ci
 | ::{ flag=HK }:: ::Petal::{ user=7354729 } | Cantonais, chinois | Modération générale |
 | ::{ flag=KR }:: ::Petit::{ user=4637369 } | Coréen, japonais | Modération du tchat |
 | ::{ flag=MY }:: ::QHideaki13::{ user=733998 } | Malais | Modération du tchat |
-| ::{ flag=PL }:: ::Redo\1::{ user=7122165 } | Polonais | Modération de la communauté skinning |
+| ::{ flag=PL }:: ::Redo_::{ user=7122165 } | Polonais | Modération de la communauté skinning |
 | ::{ flag=MX }:: ::Repflez::{ user=201392 } | Espagnol | Modération du tchat |
 | ::{ flag=FI }:: ::Riverism::{ user=4980738 } | Finnois, un peu de suédois, un peu de japonais | Modération de la communauté modding/mapping, modération du forum |
 | ::{ flag=NL }:: ::Roan::{ user=8214639 } | Néerlandais, japonais | Modération de la communauté skinning |
@@ -156,7 +156,7 @@ Tous les membres de la GMT parlent l'anglais en plus des langues énumérées ci
 | ::{ flag=KR }:: ::Spectator::{ user=702598 } | Coréen | Modération de la communauté modding/mapping |
 | ::{ flag=AT }:: ::Stefan::{ user=626907 } | Allemand, serbe | Modération du forum |
 | ::{ flag=FI }:: ::terho::{ user=6090105 } | Finnois | Modération du tchat |
-| ::{ flag=NZ }:: ::THAT\1otaku::{ user=11798717 } |  | Modération du forum, modération du tchat |
+| ::{ flag=NZ }:: ::THAT_otaku::{ user=11798717 } |  | Modération du forum, modération du tchat |
 | ::{ flag=PE }:: ::Tiburon::{ user=18115022 } | Espagnol | Modération du tchat |
 | ::{ flag=CH }:: ::TicClick::{ user=672931 } | Russe | Modération du tchat, administration du wiki |
 | ::{ flag=PH }:: ::topecnz::{ user=2103927 } | Filipino | Modération du tchat |

@@ -11,7 +11,7 @@ Die Centurions sind Nutzer, die den prestigeträchtigen Meilenstein von (mindest
 
 | Name | 1. gerankte Beatmap | 100. gerankte Beatmap | Centurion-Pakete |
 | :-- | :-- | :-- | :-- |
-| ::{ flag=ID }:: ::\1-E S I A-\1::{ user=5159715 } | [28.05.2022](https://osu.ppy.sh/beatmapsets/1475077) | [11.11.2025](https://osu.ppy.sh/beatmapsets/2429761) | [#1](https://osu.ppy.sh/beatmaps/packs/TM35) |
+| ::{ flag=ID }:: ::[-E S I A-]::{ user=5159715 } | [28.05.2022](https://osu.ppy.sh/beatmapsets/1475077) | [11.11.2025](https://osu.ppy.sh/beatmapsets/2429761) | [#1](https://osu.ppy.sh/beatmaps/packs/TM35) |
 | ::{ flag=GB }:: ::AJT::{ user=3181083 } | [13.07.2020](https://osu.ppy.sh/beatmapsets/1173956) | [28.04.2025](https://osu.ppy.sh/beatmapsets/2294756) | [#1](https://osu.ppy.sh/beatmaps/packs/TM29) |
 | ::{ flag=PH }:: ::Amateurre::{ user=7326908 } | [06.11.2019](https://osu.ppy.sh/beatmapsets/1057765) | [23.08.2023](https://osu.ppy.sh/beatmapsets/2025917) | [#1](https://osu.ppy.sh/beatmaps/packs/TM15) |
 | ::{ flag=IT }:: ::Andrea::{ user=33599 } | [27.02.2009](https://osu.ppy.sh/beatmapsets/5396)[^andrea-first-ranked-date] | [10.12.2010](https://osu.ppy.sh/beatmapsets/23100) | [#1](https://osu.ppy.sh/beatmaps/packs/TM8), [#2](https://osu.ppy.sh/beatmaps/packs/TM9), [#3](https://osu.ppy.sh/beatmaps/packs/TM10), [#4](https://osu.ppy.sh/beatmaps/packs/TM33) |
@@ -24,7 +24,7 @@ Die Centurions sind Nutzer, die den prestigeträchtigen Meilenstein von (mindest
 | ::{ flag=BY }:: ::Flins::{ user=11119539 } | [19.10.2018](https://osu.ppy.sh/beatmapsets/833454) | [02.10.2024](https://osu.ppy.sh/beatmapsets/2215696) |  |
 | ::{ flag=BR }:: ::Froslass::{ user=19048 } | [24.10.2009](https://osu.ppy.sh/beatmapsets/7726) | [24.08.2025](https://osu.ppy.sh/beatmapsets/2397697) | [#1](https://osu.ppy.sh/beatmaps/packs/TM32) |
 | ::{ flag=CN }:: ::Garden::{ user=2849992 } | [13.10.2015](https://osu.ppy.sh/beatmapsets/343258) | [28.05.2025](https://osu.ppy.sh/beatmapsets/2373810) | [#1](https://osu.ppy.sh/beatmaps/packs/TM31) |
-| ::{ flag=AR }:: ::gaston\12199::{ user=5938161 } | [25.12.2016](https://osu.ppy.sh/beatmapsets/519474) | [17.07.2024](https://osu.ppy.sh/beatmapsets/1667712) | [#1](https://osu.ppy.sh/beatmaps/packs/TM20) |
+| ::{ flag=AR }:: ::gaston_2199::{ user=5938161 } | [25.12.2016](https://osu.ppy.sh/beatmapsets/519474) | [17.07.2024](https://osu.ppy.sh/beatmapsets/1667712) | [#1](https://osu.ppy.sh/beatmaps/packs/TM20) |
 | ::{ flag=JP }:: ::gazimal::{ user=6055351 } | [24.12.2020](https://osu.ppy.sh/beatmapsets/1298109) | [11.10.2024](https://osu.ppy.sh/beatmapsets/2183696) | [#1](https://osu.ppy.sh/beatmaps/packs/TM25) |
 | ::{ flag=GR }:: ::Genjuro::{ user=3196091 } | [10.04.2019](https://osu.ppy.sh/beatmapsets/921130) | [27.08.2022](https://osu.ppy.sh/beatmapsets/1797642) | [#1](https://osu.ppy.sh/beatmaps/packs/TM1) |
 | ::{ flag=MX }:: ::Gero::{ user=1467715 } | [19.02.2013](https://osu.ppy.sh/beatmapsets/64525) | [20.05.2026](https://osu.ppy.sh/beatmapsets/2454708) | [#1](https://osu.ppy.sh/beatmaps/packs/TM41) |

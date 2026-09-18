@@ -128,7 +128,7 @@ A ton of people are involved in the **Mappers' Guild**, but some stand out above
 | ::{ flag=UA }:: ::allein::{ user=6221637 } | osu! | 4 | 14 |
 | ::{ flag=US }:: ::meiqth::{ user=12565402 } | osu!taiko | 3 | 14 |
 | ::{ flag=NL }:: ::Boaz::{ user=13302996 } | osu!taiko | 5 | 14 |
-| ::{ flag=HU }:: ::Nytrocide\1::{ user=11327918 } | osu! | 4 | 14 |
+| ::{ flag=HU }:: ::Nytrocide_::{ user=11327918 } | osu! | 4 | 14 |
 | ::{ flag=RU }:: ::PandaHero::{ user=1233255 } | osu! | 4 | 13 |
 | ::{ flag=RU }:: ::Daycore::{ user=5596337 } | osu! | 3 | 13 |
 | ::{ flag=NL }:: ::GIGACHAD::{ user=11081858 } | osu!taiko, osu!catch | 3 | 13 |
@@ -143,7 +143,7 @@ A ton of people are involved in the **Mappers' Guild**, but some stand out above
 | ::{ flag=SG }:: ::arcpotato::{ user=12842392 } | osu!taiko | 1 | 12 |
 | ::{ flag=LT }:: ::Strategas::{ user=2971837 } | osu! | 4 | 11 |
 | ::{ flag=PH }:: ::-Rustyy::{ user=16355636 } | osu!catch | 1 | 11 |
-| ::{ flag=CN }:: ::cai\1ji\1ccc::{ user=20750584 } | osu!mania | 2 | 11 |
+| ::{ flag=CN }:: ::cai_ji_ccc::{ user=20750584 } | osu!mania | 2 | 11 |
 | ::{ flag=US }:: ::Annabel::{ user=3388410 } | osu!taiko | 2 | 10 |
 | ::{ flag=GB }:: ::DeviousPanda::{ user=4966334 } | osu! | 2 | 10 |
 | ::{ flag=AU }:: ::Iceluin::{ user=3558897 } | osu! | 1 | 10 |
@@ -151,7 +151,7 @@ A ton of people are involved in the **Mappers' Guild**, but some stand out above
 | ::{ flag=PH }:: ::Eyenine::{ user=1259391 } | osu!taiko | 2 | 10 |
 | ::{ flag=TH }:: ::Ph0eNiiXZ::{ user=9463721 } | osu!taiko | 4 | 10 |
 | ::{ flag=US }:: ::-NoName-::{ user=10400730 } | osu!mania | 2 | 10 |
-| ::{ flag=CA }:: ::Unlucky\1w::{ user=4820793 } | osu!, osu!catch | 3 | 10 |
+| ::{ flag=CA }:: ::Unlucky_w::{ user=4820793 } | osu!, osu!catch | 3 | 10 |
 | ::{ flag=RU }:: ::SMOKELIND::{ user=9327302 } | osu! | 8 | 8 |
 
 While these folks may be in the spotlight, there's a lot of other people in the [**Mappers' Guild**](/wiki/Community/Mappers_Guild) who contribute too. If you're one of them, thanks for the help!

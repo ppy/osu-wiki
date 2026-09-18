@@ -37,7 +37,7 @@ Still different from the BN score of pre-2014 days, this will take into account 
 
 After three agonizing weeks of waiting, we're pleased to welcome nine new Beatmap Nominators to our big happy family of nearly one hundred members. Please give a warm welcome to the following people, whose friendly faces will be in the discussion threads of your favorite Qualified and Ranked beatmaps:
 
-::\1Stan::{ user=1653229 }, ::DE-CADE::{ user=3734394 }, ::DoNotMess::{ user=1596318 }, ::Fii::{ user=3922569 }, ::Lenfried-::{ user=5314573 }, ::Nifty::{ user=4956097 }, ::qoot8123::{ user=766371 }, ::Unpredictable::{ user=7560872 } and ::Yumeno Himiko::{ user=1806962 }
+::_Stan::{ user=1653229 }, ::DE-CADE::{ user=3734394 }, ::DoNotMess::{ user=1596318 }, ::Fii::{ user=3922569 }, ::Lenfried-::{ user=5314573 }, ::Nifty::{ user=4956097 }, ::qoot8123::{ user=766371 }, ::Unpredictable::{ user=7560872 } and ::Yumeno Himiko::{ user=1806962 }
 
 Many congratulations on becoming Beatmap Nominators, everyone – we hope you enjoy your time with us!
 

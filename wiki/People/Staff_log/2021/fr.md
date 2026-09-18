@@ -45,7 +45,7 @@ Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont le
 
 - 07/01/2021 : Retrait de ::JierYagtama::{ user=7483452 } : **BN**
 - 15/01/2021 : Retrait de ::Greenshell::{ user=8693851 } : **BN**
-- 19/01/2021 : Retrait de ::Rivals\17::{ user=4610379 } : **BN**
+- 19/01/2021 : Retrait de ::Rivals_7::{ user=4610379 } : **BN**
 - 23/01/2021 : Retrait de ::-Joni-::{ user=9988837 } : **BN probatoire**
 - 24/01/2021 : Retrait de ::Smokeman::{ user=2140676 } : **BN**
 - 24/01/2021 : Retrait de ::Okoratu::{ user=1623405 } : **BN**
@@ -198,7 +198,7 @@ Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont le
 #### Retraits
 
 - 02/04/2021 : Retrait de ::Battle::{ user=4037545 } : **BN probatoire**
-- 04/04/2021 : Retrait de ::BaAR\1Vendel::{ user=8679346 } : **BN**
+- 04/04/2021 : Retrait de ::BaAR_Vendel::{ user=8679346 } : **BN**
 - 10/04/2021 : Retrait de ::Milan-::{ user=1052994 } : **BN**
 - 12/04/2021 : Retrait de ::Xinely::{ user=1521445 } : **BN**
 - 15/04/2021 : Retrait de ::-Aqua::{ user=7150015 } : **BN**
@@ -295,7 +295,7 @@ Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont le
 - 14/06/2021 : Retrait de ::Mordred::{ user=7265097 } : **BN**
 - 15/06/2021 : Retrait de ::C00L::{ user=4930630 } : **BN**
 - 22/06/2021 : Retrait de ::Aruel::{ user=3984370 } : **BN**
-- 30/06/2021 : Retrait de ::realy0\1::{ user=8863359 } : **BN**
+- 30/06/2021 : Retrait de ::realy0_::{ user=8863359 } : **BN**
 
 ## Juillet
 
@@ -449,7 +449,7 @@ Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont le
 
 ## Octobre
 
-- 06/10/2021 : Transfert de ::\1 Another \1::{ user=3416573 } : **osu! Alumni** > **GMT**
+- 06/10/2021 : Transfert de ::[ Another ]::{ user=3416573 } : **osu! Alumni** > **GMT**
 - 10/10/2021 : Transfert de ::- Felix::{ user=8503985 } : **GMT** > **osu! Alumni**
 - 14/10/2021 : Ajout de ::radar::{ user=7131099 } : **NAT**
 - 14/10/2021 : Ajout de ::Capu::{ user=2474015 } : **NAT**
@@ -479,10 +479,10 @@ Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont le
 - 01/10/2021 : Transfert de ::Mordred::{ user=7265097 } : **BN probatoire** > **BN**
 - 09/10/2021 : Transfert de ::Chatie::{ user=6524765 } : **BN probatoire** > **BN**
 - 09/10/2021 : Transfert de ::autofanboy::{ user=636114 } : **BN probatoire** > **BN**
-- 09/10/2021 : Transfert de ::\1 Decku \1::{ user=13360768 } : **BN probatoire** > **BN**
+- 09/10/2021 : Transfert de ::[ Decku ]::{ user=13360768 } : **BN probatoire** > **BN**
 - 09/10/2021 : Transfert de ::Murumoo::{ user=8001433 } : **BN probatoire** > **BN**
 - 09/10/2021 : Transfert de ::RandomeLoL::{ user=7080063 } : **BN probatoire** > **BN**
-- 15/10/2021 : Transfert de ::\1Karcher\1 2::{ user=9892196 } : **BN probatoire** > **BN**
+- 15/10/2021 : Transfert de ::[Karcher] 2::{ user=9892196 } : **BN probatoire** > **BN**
 - 18/10/2021 : Transfert de ::Een Persoon::{ user=10959501 } : **BN probatoire** > **BN**
 - 19/10/2021 : Transfert de ::Cris-::{ user=6175280 } : **BN** > **BN probatoire**
 - 19/10/2021 : Transfert de ::D0UG::{ user=13806900 } : **BN probatoire** > **BN**
@@ -560,7 +560,7 @@ Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont le
 
 - 03/12/2021 : Ajout de ::Virtue-::{ user=6144772 } : **BN probatoire**
 - 03/12/2021 : Ajout de ::Muse Dash::{ user=13695676 } : **BN probatoire**
-- 06/12/2021 : Ajout de ::Geo\1ooo::{ user=12013943 } : **BN probatoire**
+- 06/12/2021 : Ajout de ::Geo_ooo::{ user=12013943 } : **BN probatoire**
 - 09/12/2021 : Ajout de ::Kuo Kyoka::{ user=2596306 } : **BN probatoire**
 - 19/12/2021 : Ajout de ::wafer::{ user=9416836 } : **BN probatoire**
 - 19/12/2021 : Ajout de ::tadahitotsu::{ user=11653544 } : **BN probatoire**

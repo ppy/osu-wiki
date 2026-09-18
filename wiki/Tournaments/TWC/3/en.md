@@ -78,7 +78,7 @@ The Taiko World Cup #3 was run by various community members.
 | ::{ flag=JP }:: | **Japan A** | **::FlowerMasterK::{ user=1143137 }**, ::kiru132::{ user=663075 }, ::Rappu::{ user=1207106 }, ::shifon\[0312\]::{ user=295488 } |
 | ::{ flag=JP }:: | **Japan B** | **::Shuki-::{ user=621526 }**, ::NeGaTiVeMinD::{ user=965038 }, ::Orukaa::{ user=987895 }, ::TKSalt::{ user=940878 } |
 | ::{ flag=MO }:: | **Macau** | **::L y n n i e::{ user=189880 }**, ::benisakura::{ user=384986 }, ::i0200352::{ user=1238085 }, ::justnobody::{ user=2875410 } |
-| ::{ flag=MY }:: | **Malaysia** | **::taiko\1maniac1811::{ user=595764 }**, ::HeatKai::{ user=332555 }, ::huiko12::{ user=598553 }, ::Jerry::{ user=605973 } |
+| ::{ flag=MY }:: | **Malaysia** | **::taiko_maniac1811::{ user=595764 }**, ::HeatKai::{ user=332555 }, ::huiko12::{ user=598553 }, ::Jerry::{ user=605973 } |
 | ::{ flag=PH }:: | **Philippines** | **::Ca Calne::{ user=1498271 }**, ::\_intervention::{ user=1150178 }, ::Kotaro::{ user=796530 }, ::Kyoren::{ user=1266303 } |
 | ::{ flag=PL }:: | **Poland** | **::Acrith::{ user=389880 }**, ::DarkStoorM::{ user=174347 }, ::nekoyan::{ user=685739 }, ::Niko::{ user=175141 } |
 | ::{ flag=RU }:: | **Russian Federation** | **::Big and Busty::{ user=1728245 }**, ::Ch1ka::{ user=352967 }, ::Shandro::{ user=175411 }, ::Wolfjkeee::{ user=1282662 } |

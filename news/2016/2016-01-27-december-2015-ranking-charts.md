@@ -134,7 +134,7 @@ Congratulations to the winners of the November 2015 Ranking Charts. They receive
 
 - **osu! standard:** ::BlueFlame::{ user=3506191 }
 - **Taiko:** ::tasuke912::{ user=2774767 }
-- **Catch the Beat:** ::No492\1Shaymin::{ user=566276 }
+- **Catch the Beat:** ::No492_Shaymin::{ user=566276 }
 - **osu!mania:** ::Estonians::{ user=7014697 }
 
 Good luck with the new charts! We'd love to hear any and all feedback you have about the new format and selection process for the charts - feel free to leave a comment below!

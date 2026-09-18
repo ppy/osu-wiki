@@ -112,11 +112,11 @@ I really hope to see more mapsets like this in the future.
 
 croiX, one of my favorite songs from Sound Voltex and it finally has a 4K mapset. Takane6 made a really nice 4K spread of this song. While the Basic difficulty teaches you the most basic patterns on how to play osu!mania, the Gravity is even a X-Icon difficulty, which is really rarely seen in 4K! I also would like to say about the Gravity chart that the patterns are all really well chosen and the flow is very nice. It has a lot of 1/8 patterns where you need to be really fast to hit them. Additionally, it has a lot of chordmash combined with sudden change to an chordtrill in. Overall, really challenging patterns and if you haven't played this map yet, I highly recommend you to do it. You are really missing out something!
 
-- [t+pazolite - Electric "Sister" Bitch](https://osu.ppy.sh/beatmapsets/310607) by ::Verniy\1Chan::{ user=4428053 }
+- [t+pazolite - Electric "Sister" Bitch](https://osu.ppy.sh/beatmapsets/310607) by ::Verniy_Chan::{ user=4428053 }
 
 t+pazolite is an artist that I think every osu player should know. This song is a collaboration between the BMS songs "Electric Butterfly" and "Little 'Sister' Bitch" and Verniy_Chan made a really well mapped beatmap of this song. This mapset has again everything from an Basic up to an Infinite chart so it's made for every player. The charts of the Advanced difficulty are getting stream heavy and additional to this it has some really well placed long notes in the middle part, ending again in long streams. Furthermore, it has some pretty challenging patterns but it is still a real lot of fun to play! Also a huge shoutout to arviejhay who made the storyboard of this map. I think this should be explicitly mentioned because it's really good! Play it at least once with Storyboard (in case you're sensitive to heavy flashing lights please use the background-dimmer!).
 
-- [sakuzyo - Imprinting](https://osu.ppy.sh/beatmapsets/378705) by ::victorica\1db::{ user=2046044 }
+- [sakuzyo - Imprinting](https://osu.ppy.sh/beatmapsets/378705) by ::victorica_db::{ user=2046044 }
 
 What would be the charts without more anti-meta mapsets? victorica_db chose a nice violin song from sakuzyo for a 4 and 7+1K (8K) mapset. While the 4K charts is a good mix of streams and really complex LN usage - I am pretty sure it will break a lot of combos here - the 8K chart comes with a lot of heavy jack patterns that still fit really good to the song. Also, the lowest 8K chart is a well made map to learn how to play 7+1K! It teaches you some basic 7K patterns additional to the extra scratch. Shouldn't you be able to play 8K, try it out on this Map!
 
@@ -124,7 +124,7 @@ What would be the charts without more anti-meta mapsets? victorica_db chose a ni
 
 "DJPop is back?!" I am sure that was the first thing what came into your mind when you saw this chart (at least I was thinking that.) Like every Christmas, DJPop brings us a nice Christmas song this year and like we all know DJPop, it is of course fully keysounded! And not enough. It has a full spread from 4K to 8K and additional to 8K it has even ranked 7+1K with a special scratch usage! All difficulties have really well mapped patterns that flow really nice and still can be challenging. Overall a mapset that really deserves it to be placed in the monthly charts!
 
-- [nao - Soutaisei VISION](https://osu.ppy.sh/beatmapsets/361016) by ::Critical\1Star::{ user=3793196 }
+- [nao - Soutaisei VISION](https://osu.ppy.sh/beatmapsets/361016) by ::Critical_Star::{ user=3793196 }
 
 I had the feeling I had to choose at least one opening map for the charts! And here we are. With nao as the artist I also chose one of my favorite artists and not enough, also from my favorite game! The map is a 4K mapset with difficulties from Novice to an Insane difficulty. The patterns are well chosen here. While the Novice and Medium have more basic patterns like chords, short bursts and well placed long notes, the Advance and Extreme have a lot of chord mash and chordtrills rounded with well placed long notes to the guitar! Overall it's an really well mapped chart and Critical_Star did a really good job here.
 
@@ -135,8 +135,8 @@ I had the feeling I had to choose at least one opening map for the charts! And h
 Congratulations to the winners of the December 2015 Ranking Charts. They receive a month of supporter status for their efforts!
 
 - **osu! standard:** ::Wilchq::{ user=2021758 }
-- **Taiko:** ::asuasu\1yura::{ user=2875968 }
-- **Catch the Beat:** ::No492\1Shaymin::{ user=566276 }
+- **Taiko:** ::asuasu_yura::{ user=2875968 }
+- **Catch the Beat:** ::No492_Shaymin::{ user=566276 }
 - **osu!mania:** ::Cryolien::{ user=1626983 }
 
 Good luck with the new charts! We'd love to hear any and all feedback you have about the new format and selection process for the charts - feel free to leave a comment below!

@@ -197,7 +197,7 @@ osu! has been investing in [osu! originals](/wiki/osu!_originals) for the past f
 
 ### seatrus - Diossido di Carbonio
 
-Check out [this map from CWC 2023](https://osu.ppy.sh/beatmapsets/1996376) hosted by ::Yoshi\1green::{ user=1035891 }!
+Check out [this map from CWC 2023](https://osu.ppy.sh/beatmapsets/1996376) hosted by ::Yoshi_green::{ user=1035891 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/185/Songs/seatrus_-_Diossido_di_Carbonio.mp3" type="audio/mpeg">

@@ -15,7 +15,7 @@ Congratulations to winner of the April Ranking Charts 2014:
 **osu! standard**
 
 - **1st** ::Raiku::{ user=1525538 } \- 1 month supporter
-- **2nd** ::\1index::{ user=652457 }
+- **2nd** ::_index::{ user=652457 }
 
 **Taiko**
 

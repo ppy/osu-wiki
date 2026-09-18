@@ -25,7 +25,7 @@ To sign up, follow [this link](https://forms.gle/Jobnf1Wuk1M1KwwV8).
 
 ## osu!catch World Cup 2026
 
-The osu!catch World Cup mappooling team led by ::Rocma::{ user=566276 } and ::Yoshi\1green::{ user=1035891 } is looking for **mappers**, **modders**, and **playtesters**.
+The osu!catch World Cup mappooling team led by ::Rocma::{ user=566276 } and ::Yoshi_green::{ user=1035891 } is looking for **mappers**, **modders**, and **playtesters**.
 
 To sign up, follow [this link](https://forms.gle/daznpxkQWFbKYcJa6).
 
@@ -38,7 +38,7 @@ This year, the mappooling team is introducing an in-house mentorship program tha
 Our current mentor roster, which may expand in the future, includes the following:
 
 - **Mapping mentors:** ::-mint-::{ user=8976576 }, ::Abraxos::{ user=5025064 }, ::Biosphere::{ user=6357823 }, ::elexire::{ user=9206093 }, ::Miaurichesu::{ user=10055648 }, ::V1do-::{ user=17527968 }, ::Valedict::{ user=2537082 }
-- **Playtesting mentors:** ::-Yubi-::{ user=17851478 }, ::\1Crz\1raber::{ user=6753592 }, ::rikan::{ user=25263357 }, ::Transcendence::{ user=903155 }
+- **Playtesting mentors:** ::-Yubi-::{ user=17851478 }, ::[Crz]raber::{ user=6753592 }, ::rikan::{ user=25263357 }, ::Transcendence::{ user=903155 }
 
 More information can be found on the application forms themselves. For any questions regarding the application process or MWC 4K in general, please contact a mappool selector (::guden::{ user=11626065 }, ::-mint-::{ user=8976576 }, ::elexire::{ user=9206093 }, ::MyZterioN-::{ user=8521723 }, ::Paturages::{ user=1375479 }, or ::rikan::{ user=25263357 }).
 

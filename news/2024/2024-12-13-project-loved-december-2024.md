@@ -358,7 +358,7 @@ You may notice that at some point in this chart, some hands will also start to s
 150 – 180 BPM, 2:39 | 5.76★, 6.28★, 6.68★\
 *description written by ::elexire::{ user=9206093 }*
 
-Former Loved captain \::\1Crz\]hinako1804::{ user=13747903 } makes a return! However, instead of a pack such as [Technical Complexes](https://osu.ppy.sh/beatmapsets/1240175#mania/2578347), their chart of [Bring Our Ignition Back](https://osu.ppy.sh/beatmapsets/1684011#mania/3440885) gets this month's spotlight!
+Former Loved captain \::[Crz\]hinako1804::{ user=13747903 } makes a return! However, instead of a pack such as [Technical Complexes](https://osu.ppy.sh/beatmapsets/1240175#mania/2578347), their chart of [Bring Our Ignition Back](https://osu.ppy.sh/beatmapsets/1684011#mania/3440885) gets this month's spotlight!
 
 Perhaps one of the first things you think of when seeing this is [Evening's version](https://osu.ppy.sh/beatmapsets/1188926#mania/2477446), but you can rest assured knowing that they both differ from one another in their own unique way, as this one has much more focus on the chordjack element within the music.
 
@@ -410,7 +410,7 @@ Do you want to see more charts like this in Project Loved? Then vote *YES* for t
 
 [![](/wiki/shared/news/2024-12-13-project-loved-december-2024/1221644.jpg)](https://osu.ppy.sh/community/forums/topics/2014477)
 
-[Yorushika - Tada Kimi ni Hare](https://osu.ppy.sh/beatmapsets/1221644#mania) by ::- A s u s a -::{ user=4607354 } and ::Lung\1P::{ user=8271308 }\
+[Yorushika - Tada Kimi ni Hare](https://osu.ppy.sh/beatmapsets/1221644#mania) by ::- A s u s a -::{ user=4607354 } and ::Lung_P::{ user=8271308 }\
 140 BPM, 3:17 | 4.33★, 6.23★\
 *description written by ::taba2::{ user=7850508 }*
 
@@ -434,11 +434,11 @@ We are sure that a majority of mania community members know him and have big res
 
 [![](/wiki/shared/news/2024-12-13-project-loved-december-2024/748726.jpg)](https://osu.ppy.sh/community/forums/topics/2014475)
 
-[Various Artists - la's Anime 10K Pack](https://osu.ppy.sh/beatmapsets/748726#mania) by ::SK\1la::{ user=6601796 }\
+[Various Artists - la's Anime 10K Pack](https://osu.ppy.sh/beatmapsets/748726#mania) by ::SK_la::{ user=6601796 }\
 89 – 153 BPM, 1:38 | 2.15★ – 5.43★\
 *description written by ::Maxus::{ user=4335785 }*
 
-To celebrate Christmas month, we have decided to do another extra slot for Loved project. Since there is a lot of traction and interest towards the 10K pack from the previous month, we've let the 10K community choose another map to be presented for this month's pick. After some discussion, we decided to pick [la's 10K PACK - Anime](https://osu.ppy.sh/beatmapsets/748726#mania/1683798) mapped by ::SK\1la::{ user=6601796 }!
+To celebrate Christmas month, we have decided to do another extra slot for Loved project. Since there is a lot of traction and interest towards the 10K pack from the previous month, we've let the 10K community choose another map to be presented for this month's pick. After some discussion, we decided to pick [la's 10K PACK - Anime](https://osu.ppy.sh/beatmapsets/748726#mania/1683798) mapped by ::SK_la::{ user=6601796 }!
 
 The pack features 11 difficulties ranging from easy to expert levels, which are tailored for newcomers and casual players who want to enjoy playing anime songs while also learning the ropes of playing 10K.
 

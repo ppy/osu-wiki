@@ -69,13 +69,13 @@ This mapset of *Bookmaker* contains not only a 7★ difficulty for you to proper
 
 [![](/wiki/shared/news/2024-01-22-project-loved-january-2024/336272.jpg)](https://osu.ppy.sh/community/forums/topics/1874114)
 
-[DJ SHARPNEL - Mmmmmmm](https://osu.ppy.sh/beatmapsets/336272#osu) by ::Natteke desu::{ user=1848318 }, ::caren\1sk::{ user=542498 }, and ::Reiji-RJ::{ user=305389 }\
+[DJ SHARPNEL - Mmmmmmm](https://osu.ppy.sh/beatmapsets/336272#osu) by ::Natteke desu::{ user=1848318 }, ::caren_sk::{ user=542498 }, and ::Reiji-RJ::{ user=305389 }\
 192.9 BPM, 4:22 | 6.61★\
 *description written by ::Mismagius::{ user=19048 }*
 
 What do you get when three of the most legendary mappers of their time meet up to tackle a classic song by a renowned composer? I mean, it's probably going to be good, I don't know. Maybe great. Maybe even better? Actually, yes.
 
-Here's [DJ Sharpnel - Mmmmmmm](https://osu.ppy.sh/beatmapsets/336272#osu), mapped by a team of none other than ::Natteke desu::{ user=1848318 } (otherwise known as EvilElvis or Jounzan), one of the most acclaimed mappers of all time; ::Reiji-RJ::{ user=305389 }, one of the pioneers of the "Russian mapping style" back in 2011–2014; and ::caren\1sk::{ user=542498 }, one of the paragons of the Loved section. You've certainly heard of at least one of them, and oh boy, that's not even mentioning the song. This is a classic by all definitions.
+Here's [DJ Sharpnel - Mmmmmmm](https://osu.ppy.sh/beatmapsets/336272#osu), mapped by a team of none other than ::Natteke desu::{ user=1848318 } (otherwise known as EvilElvis or Jounzan), one of the most acclaimed mappers of all time; ::Reiji-RJ::{ user=305389 }, one of the pioneers of the "Russian mapping style" back in 2011–2014; and ::caren_sk::{ user=542498 }, one of the paragons of the Loved section. You've certainly heard of at least one of them, and oh boy, that's not even mentioning the song. This is a classic by all definitions.
 
 Get ready to see Elvis and Reiji's recognizable and fun style clash perfectly with caren_sk's jumpy madness. Four and a half minutes of jumps, bursts, and patterns that highlight how brilliant these three are when mapping together. If that's what you want to see in the Loved section, make sure to cast your vote!
 
@@ -229,13 +229,13 @@ Give it a shot and let us know what you think. Does this deserve to be in the Lo
 
 [![](/wiki/shared/news/2024-01-22-project-loved-january-2024/1980743.jpg)](https://osu.ppy.sh/community/forums/topics/1874103)
 
-[7_7 feat. kasane vavzed - 7D](https://osu.ppy.sh/beatmapsets/1980743#taiko) by ::7\17::{ user=7491106 }\
+[7_7 feat. kasane vavzed - 7D](https://osu.ppy.sh/beatmapsets/1980743#taiko) by ::7_7::{ user=7491106 }\
 727 BPM, 3:11 | 7.88★\
 *description written by ::Eriha::{ user=16320311 }*
 
 Happy New Year!
 
-Do you all remember the [osu!taiko World Cup 2023](/wiki/Tournaments/TWC/2023) held last year? Here is [7_7 feat. kasane vavzed - 7D](https://osu.ppy.sh/beatmapsets/1980743#taiko/4113017) by ::7\17::{ user=7491106 }, which was probably the most exciting of the mappools!
+Do you all remember the [osu!taiko World Cup 2023](/wiki/Tournaments/TWC/2023) held last year? Here is [7_7 feat. kasane vavzed - 7D](https://osu.ppy.sh/beatmapsets/1980743#taiko/4113017) by ::7_7::{ user=7491106 }, which was probably the most exciting of the mappools!
 
 This song is mapped at a whopping 1/2 of 727 BPM (1/4 of 363.5 BPM) (???), making it a very challenging map!
 
@@ -303,11 +303,11 @@ The osu!catch Loved candidates were chosen by ::Dahcreeper::{ user=6926006 }, ::
 
 [![](/wiki/shared/news/2024-01-22-project-loved-january-2024/1972394.jpg)](https://osu.ppy.sh/community/forums/topics/1874097)
 
-[James Landino - Anti Hero](https://osu.ppy.sh/beatmapsets/1972394#fruits) by ::Unlucky\1w::{ user=4820793 } and ::Ymiir::{ user=3922569 }\
+[James Landino - Anti Hero](https://osu.ppy.sh/beatmapsets/1972394#fruits) by ::Unlucky_w::{ user=4820793 } and ::Ymiir::{ user=3922569 }\
 130 BPM, 2:29 | 1.53★, 2.35★, 3.12★, 3.77★, 5.20★\
 *description written by ::wwwww::{ user=8434466 }*
 
-The third-place entry to come out of the [Twin Trials Contest](/wiki/Contests/Twin_Trials_Contest). This set managed to remain popular due to the variety that both mappers brought to the set. ::Ymiir::{ user=3922569 } with their beautifully intricate aesthetics and ::Unlucky\1w::{ user=4820793 } providing well-polished technical elements. Each difficulty brings its own unique take on the song in terms of playability and aesthetics allowing any catch player to find enjoyment in this set. So go ahead, become the villain and give this a play!
+The third-place entry to come out of the [Twin Trials Contest](/wiki/Contests/Twin_Trials_Contest). This set managed to remain popular due to the variety that both mappers brought to the set. ::Ymiir::{ user=3922569 } with their beautifully intricate aesthetics and ::Unlucky_w::{ user=4820793 } providing well-polished technical elements. Each difficulty brings its own unique take on the song in terms of playability and aesthetics allowing any catch player to find enjoyment in this set. So go ahead, become the villain and give this a play!
 
 [![](/wiki/shared/news/2024-01-22-project-loved-january-2024/1938191.jpg)](https://osu.ppy.sh/community/forums/topics/1874096)
 
@@ -379,12 +379,12 @@ Whether you're a fan of these kinds of stamina maps or if you just appreciate ho
 
 [![](/wiki/shared/news/2024-01-22-project-loved-january-2024/1240175.jpg)](https://osu.ppy.sh/community/forums/topics/1874091)
 
-[Various Artists - Technical Complexes Vol. 1](https://osu.ppy.sh/beatmapsets/1240175#mania) by ::\[Crz\]hinako1804::{ user=13747903 }, ::-Deepdive-::{ user=13338645 }, ::\[GS\]hina::{ user=20040607 }, ::cherrychou::{ user=7214023 }, ::FDShijing::{ user=22386239 }, ::gzdongsheng::{ user=8660315 }, ::Lo\1liFish2000::{ user=8828244 }, Resurak, ::Sakura006::{ user=10365024 }, ::SaltedFISSH::{ user=11475875 }, and ::tyrcs::{ user=13026904 }\
+[Various Artists - Technical Complexes Vol. 1](https://osu.ppy.sh/beatmapsets/1240175#mania) by ::\[Crz\]hinako1804::{ user=13747903 }, ::-Deepdive-::{ user=13338645 }, ::\[GS\]hina::{ user=20040607 }, ::cherrychou::{ user=7214023 }, ::FDShijing::{ user=22386239 }, ::gzdongsheng::{ user=8660315 }, ::Lo_liFish2000::{ user=8828244 }, Resurak, ::Sakura006::{ user=10365024 }, ::SaltedFISSH::{ user=11475875 }, and ::tyrcs::{ user=13026904 }\
 124.98 – 230 BPM, 4:00 | 4.79★ – 6.04★\
 The \[qingshenshen yumengmeng\] difficulty is *not* being nominated for Loved.\
 *description written by ::Silhoueska Elze::{ user=11517895 }*
 
-This pack, which was compiled by \::\1Crz\]hinako1804::{ user=13747903 }, has already brought in lots of various maps in the jumpstream category with their [\
+This pack, which was compiled by \::[Crz\]hinako1804::{ user=13747903 }, has already brought in lots of various maps in the jumpstream category with their [\
 Jumpstream Complexes Vol. 2A](https://osu.ppy.sh/beatmapsets/1595301). But now, another one of their packs titled [Technical Complexes Vol.1](https://osu.ppy.sh/beatmapsets/1240175) is being added to the candidates of this Project Loved wave!
 
 Technicality is such an important aspect in VSRGs in general. osu!mania is certainly no exception, with its importance in being able to hone your skills as a physical player, and especially your ability to play in tournaments. What is to be expected in these maps? Well, there are certainly a lot of grace notes, rolls, and minijacks, in the middle of having numerous jumps and hands.

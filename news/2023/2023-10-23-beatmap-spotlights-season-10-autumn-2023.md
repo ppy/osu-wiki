@@ -77,7 +77,7 @@ Handling the speed of the guitar solos and Miku spitting some bars may still not
 ![](/wiki/shared/news/2023-10-23-beatmap-spotlights-season-10-autumn-2023/1613520.jpg)
 
 **[Camellia feat. Nanahira - POLKAMANIA (Faputa) [BLACK'S MUZUKASHII]](https://osu.ppy.sh/beatmapsets/1613520#taiko/3304046)**, mapped by ::BlackBN::{ user=6291741 }\
-*primarily suggested by ::\1Zeth\1::{ user=9912966 }*\
+*primarily suggested by ::[Zeth]::{ user=9912966 }*\
 *described by ::meiqth::{ user=12565402 }*
 
 This season, our players decided to nominate BlackBN's simple mapping of *Camellia feat. Nanahira - POLKAMANIA* as their favourite.

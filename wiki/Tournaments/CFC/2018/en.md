@@ -37,7 +37,7 @@ The Catch French Cup 2018 was run by various community members.
 | :-- | :-- |
 | Manager | ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 } |
 | Mappool selector | ::{ flag=FR }:: ::Rougoku::{ user=6900166 }, ::{ flag=FR }:: ::Holloh::{ user=7612994 } |
-| Referee | ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, ::{ flag=FR }:: ::Ryumi::{ user=6596270 }, ::{ flag=FR }:: ::Rsuiono::{ user=9266902 }, ::{ flag=FR }:: ::TLQ\1Yoshii::{ user=7157133 }, ::{ flag=FR }:: ::300BPM JUMPER::{ user=1893667 }, ::{ flag=FR }:: ::Purettsu Eru::{ user=1542565 } |
+| Referee | ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, ::{ flag=FR }:: ::Ryumi::{ user=6596270 }, ::{ flag=FR }:: ::Rsuiono::{ user=9266902 }, ::{ flag=FR }:: ::TLQ_Yoshii::{ user=7157133 }, ::{ flag=FR }:: ::300BPM JUMPER::{ user=1893667 }, ::{ flag=FR }:: ::Purettsu Eru::{ user=1542565 } |
 | Streamer | ::{ flag=FR }:: ::Purettsu Eru::{ user=1542565 }, ::{ flag=FR }:: ::FulgurentKille::{ user=4096322 }, ::{ flag=FR }:: ::300BPM JUMPER::{ user=1893667 }, ::{ flag=FR }:: ::Kaeldori::{ user=962519 }, ::{ flag=FR }:: ::Star Sapphire::{ user=2953898 } |
 | Commentator | ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, ::{ flag=FR }:: ::FulgurentKille::{ user=4096322 }, ::{ flag=FR }:: ::Corn-::{ user=4089232 }, ::{ flag=FR }:: ::Orazeit::{ user=8335913 }, ::{ flag=FR }:: ::Star Sapphire::{ user=2953898 }, ::{ flag=FR }:: ::4L-Chan 3 Porte::{ user=7253987 } |
 | Designer | ::{ flag=FR }:: ::Lotchidych::{ user=8375240 } |

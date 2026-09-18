@@ -72,10 +72,10 @@ The osu!taiko World Cup 2021 was run by various community members.
 | ::{ flag=DE }:: | **Germany** | **::frz::{ user=6956922 }**, ::xMrtn-::{ user=866297 }, ::Xayphon::{ user=961417 }, ::Mew::{ user=2345156 }, ::Minekuchi::{ user=9584873 } |
 | ::{ flag=ID }:: | **Indonesia** | **::apaajaboleh10::{ user=5151647 }**, ::WhiteSnowAngel::{ user=3866964 }, ::Volta::{ user=4154071 }, ::Katdon\_donKat::{ user=8089664 }, ::Kaemz::{ user=8494233 } |
 | ::{ flag=IT }:: | **Italy** | **::Ikkun::{ user=1059945 }**, ::coed::{ user=3716665 }, ::LordEnder::{ user=4609767 }, ::D3kuu::{ user=7807444 }, ::A-40::{ user=14510301 } |
-| ::{ flag=JP }:: | **Japan** | **::uone::{ user=5321719 }**, ::syaron105::{ user=8741695 }, ::ekumea1123::{ user=9119501 }, ::Grape\1Tea::{ user=9540073 }, ::Seren58::{ user=15252950 } |
+| ::{ flag=JP }:: | **Japan** | **::uone::{ user=5321719 }**, ::syaron105::{ user=8741695 }, ::ekumea1123::{ user=9119501 }, ::Grape_Tea::{ user=9540073 }, ::Seren58::{ user=15252950 } |
 | ::{ flag=MY }:: | **Malaysia** | **::Jerry::{ user=605973 }**, ::Xeltic Rival::{ user=7500364 }, ::\[Zeth\]::{ user=9912966 }, ::6gicha::{ user=12273160 }, ::HHVanilla Ice::{ user=12803930 } |
 | ::{ flag=MX }:: | **Mexico** | **::Ammy::{ user=4183406 }**, ::xtrem3x::{ user=136385 }, ::ZaveryK::{ user=10913397 }, ::Kenrit-San::{ user=13054150 }, ::-chocoflan-::{ user=15776151 } |
-| ::{ flag=NL }:: | **Netherlands** | **::Cookie\1Tree::{ user=502722 }**, ::StrijkIjzer::{ user=4130926 }, ::wen294::{ user=2265974 }, ::lukitsa124::{ user=8787678 }, ::Boaz::{ user=13302996 } |
+| ::{ flag=NL }:: | **Netherlands** | **::Cookie_Tree::{ user=502722 }**, ::StrijkIjzer::{ user=4130926 }, ::wen294::{ user=2265974 }, ::lukitsa124::{ user=8787678 }, ::Boaz::{ user=13302996 } |
 | ::{ flag=NZ }:: | **New Zealand** | **::Sparxe::{ user=5750235 }**, ::Bwhaa::{ user=7960435 }, ::arley\_::{ user=9039824 }, ::Blujae::{ user=10613885 } |
 | ::{ flag=PH }:: | **Philippines** | **::Pochacco::{ user=2927742 }**, ::Fynbi::{ user=2164993 }, ::jmeh07::{ user=2852269 }, ::Rimazii::{ user=3831514 }, ::Aiery::{ user=10363380 } |
 | ::{ flag=PL }:: | **Poland** | **::bernard351::{ user=9511518 }**, ::Tetsurio::{ user=2044810 }, ::boyan::{ user=2302140 }, ::Eeveelution::{ user=8438068 }, ::vethreal::{ user=12067316 } |

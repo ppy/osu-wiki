@@ -13,7 +13,7 @@ We have reached the end in this year's osu!idol contest. Thanks everyone for tak
 
 **Congratulations to this year's osu!idol - ::Will Stetson::{ user=4909088 }!** Their performance of **Omoi - Snow Drive** has earned them the first place!
 
-**Next we have ::Zeva\1FL\1::{ user=2805170 }**'s performance of **Chris Kirkpatrick - My Shiny Teeth And Me** in second!
+**Next we have ::Zeva[FL]::{ user=2805170 }**'s performance of **Chris Kirkpatrick - My Shiny Teeth And Me** in second!
 
 **Third place goes to ::MjIsMaster::{ user=9922896 }** with their performance of **The Romantics - Talking In Your Sleep**! Applause, everyone!
 

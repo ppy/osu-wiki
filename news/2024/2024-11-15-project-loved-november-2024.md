@@ -221,7 +221,7 @@ This map made by ::Lefty3::{ user=4719175 }, is a map that is enjoyable to the e
 
 [![](/wiki/shared/news/2024-11-15-project-loved-november-2024/1201367.jpg)](https://osu.ppy.sh/community/forums/topics/2003525)
 
-[GilLarM - Ha(Ne)rdcore OTAKU Connectionz Vol.2](https://osu.ppy.sh/beatmapsets/1201367#taiko) by ::hoku::{ user=9503098 }, ::\_Rise::{ user=5217107 }, ::7\17::{ user=7491106 }, ::HEKUSODASU::{ user=9044692 }, ::maguro869::{ user=4733750 }, ::nananass::{ user=7231722 }, ::rezi888::{ user=2337821 }, ::Waribashi::{ user=2250574 }, ::Y O U T A::{ user=4909860 }, and ::yyyyyyyyyyypetu::{ user=468029 }\
+[GilLarM - Ha(Ne)rdcore OTAKU Connectionz Vol.2](https://osu.ppy.sh/beatmapsets/1201367#taiko) by ::hoku::{ user=9503098 }, ::\_Rise::{ user=5217107 }, ::7_7::{ user=7491106 }, ::HEKUSODASU::{ user=9044692 }, ::maguro869::{ user=4733750 }, ::nananass::{ user=7231722 }, ::rezi888::{ user=2337821 }, ::Waribashi::{ user=2250574 }, ::Y O U T A::{ user=4909860 }, and ::yyyyyyyyyyypetu::{ user=468029 }\
 200 BPM, 13:38 | 6.05★\
 *description written by ::Boaz::{ user=13302996 }*
 
@@ -229,7 +229,7 @@ Triplet spam? Broken stream patterns? Double BPM? What do you mean? It's 2020, l
 
 Straight from the osu!taiko golden age, we have this gem featured in the Loved picks this month!
 
-[Ha(Ne)rdcore OTAKU Connectionz Vol.2](https://osu.ppy.sh/beatmapsets/1201367#taiko/2502180) is a marathon, made by many japanese mappers that are known for pumping out quality map after quality map. To name all of them respectively: ::hoku::{ user=9503098 }, ::\_Rise::{ user=5217107 }, ::7\17::{ user=7491106 }, ::HEKUSODASU::{ user=9044692 }, ::maguro869::{ user=4733750 }, ::nananass::{ user=7231722 }, ::rezi888::{ user=2337821 }, ::Waribashi::{ user=2250574 }, ::Y O U T A::{ user=4909860 } and ::yyyyyyyyyyypetu::{ user=468029 }.
+[Ha(Ne)rdcore OTAKU Connectionz Vol.2](https://osu.ppy.sh/beatmapsets/1201367#taiko/2502180) is a marathon, made by many japanese mappers that are known for pumping out quality map after quality map. To name all of them respectively: ::hoku::{ user=9503098 }, ::\_Rise::{ user=5217107 }, ::7_7::{ user=7491106 }, ::HEKUSODASU::{ user=9044692 }, ::maguro869::{ user=4733750 }, ::nananass::{ user=7231722 }, ::rezi888::{ user=2337821 }, ::Waribashi::{ user=2250574 }, ::Y O U T A::{ user=4909860 } and ::yyyyyyyyyyypetu::{ user=468029 }.
 
 If this list hasn't convinced you yet, this map offers over 13 minutes of fun hard-/J-core playing experience, carefully crafted by 10 legendary mappers which you definitely should've heard from if you've checked the taiko Loved scene at least once!
 
@@ -447,7 +447,7 @@ We hope you support and enjoy this pick and make sure you vote for it!
 
 [![](/wiki/shared/news/2024-11-15-project-loved-november-2024/1806038.jpg)](https://osu.ppy.sh/community/forums/topics/2003509)
 
-[void (Mournfinale) feat. Hoshikuma Minami - Testify](https://osu.ppy.sh/beatmapsets/1806038#mania) by ::Seiran-::{ user=14351534 }, ::\_Stan::{ user=1653229 }, ::FLeVI::{ user=12519616 }, ::Irone OSU::{ user=10678230 }, ::Leeju::{ user=18219603 }, ::lovely\1hyahya::{ user=10318380 }, and ::ML-ysg::{ user=11704080 }\
+[void (Mournfinale) feat. Hoshikuma Minami - Testify](https://osu.ppy.sh/beatmapsets/1806038#mania) by ::Seiran-::{ user=14351534 }, ::\_Stan::{ user=1653229 }, ::FLeVI::{ user=12519616 }, ::Irone OSU::{ user=10678230 }, ::Leeju::{ user=18219603 }, ::lovely_hyahya::{ user=10318380 }, and ::ML-ysg::{ user=11704080 }\
 178 BPM, 2:51 | 1.57★ – 8.19★\
 The \[Ysg's HS\] difficulty is *not* being nominated for Loved.\
 *description written by ::Carpihat::{ user=10085090 }*

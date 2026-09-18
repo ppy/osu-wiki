@@ -35,7 +35,7 @@ These badges will be incremental in nature, with slight variations to the design
 
 After much deliberation and discussion among members of the applications branch of the QAT, over an astounding 94 applicants in the recent osu! round, we finally have results, and are proud to welcome **19 new and returning Beatmap Nominators** to the team! Please give a warm welcome to the following:
 
-::Mirash::{ user=2841009 }, ::Kyuukai::{ user=5337374 }, ::Net0::{ user=5099768 }, ::Ultima Fox::{ user=3198109 }, ::Deramok::{ user=1428455 }, ::hypercyte::{ user=9155377 }, ::Smokeman::{ user=2140676 }, ::Trynna::{ user=2652951 }, ::Ryuusei Aika::{ user=7777875 }, ::SnowNiNo\1::{ user=2506267 }, ::kwk::{ user=365586 }, ::Sonnyc::{ user=11771 }, ::Lafayla::{ user=5312547 }, ::bossandy::{ user=360437 }, ::Andrea::{ user=33599 }, ::Sieg::{ user=1404615 }, ::Mordred::{ user=7265097 }, ::Kalibe::{ user=3376777 }, and ::Nao Tomori::{ user=5364763 }!
+::Mirash::{ user=2841009 }, ::Kyuukai::{ user=5337374 }, ::Net0::{ user=5099768 }, ::Ultima Fox::{ user=3198109 }, ::Deramok::{ user=1428455 }, ::hypercyte::{ user=9155377 }, ::Smokeman::{ user=2140676 }, ::Trynna::{ user=2652951 }, ::Ryuusei Aika::{ user=7777875 }, ::SnowNiNo_::{ user=2506267 }, ::kwk::{ user=365586 }, ::Sonnyc::{ user=11771 }, ::Lafayla::{ user=5312547 }, ::bossandy::{ user=360437 }, ::Andrea::{ user=33599 }, ::Sieg::{ user=1404615 }, ::Mordred::{ user=7265097 }, ::Kalibe::{ user=3376777 }, and ::Nao Tomori::{ user=5364763 }!
 
 ### Beatmap Nominator Retirements
 

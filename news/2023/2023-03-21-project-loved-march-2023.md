@@ -102,13 +102,13 @@ If you're looking for insanity, search no further — vote for this one.
 
 [![](/wiki/shared/news/2023-03-21-project-loved-march-2023/768281.jpg)](https://osu.ppy.sh/community/forums/topics/1738575)
 
-[A.SAKA - Nanatsu Momijiakari](https://osu.ppy.sh/beatmapsets/768281#osu) by ::xLolicore-::{ user=4525153 }, ::\[ Drop \]::{ user=2391299 }, ::coco::{ user=9579526 }, ::jonathanlfj::{ user=270377 }, ::Kalibe::{ user=3376777 }, ::Kawashiro::{ user=1533796 }, ::lcfc::{ user=7322726 }, ::Left::{ user=5062061 }, ::MinG3012::{ user=1583218 }, ::Otosaka-Yu::{ user=3170678 }, ::Regou::{ user=419954 }, ::ScubDomino::{ user=8972308 }, ::Skystar::{ user=873961 }, ::Underdogs::{ user=4675839 }, ::Vert::{ user=3420746 } and ::yf\1bmp::{ user=1243669 }\
+[A.SAKA - Nanatsu Momijiakari](https://osu.ppy.sh/beatmapsets/768281#osu) by ::xLolicore-::{ user=4525153 }, ::\[ Drop \]::{ user=2391299 }, ::coco::{ user=9579526 }, ::jonathanlfj::{ user=270377 }, ::Kalibe::{ user=3376777 }, ::Kawashiro::{ user=1533796 }, ::lcfc::{ user=7322726 }, ::Left::{ user=5062061 }, ::MinG3012::{ user=1583218 }, ::Otosaka-Yu::{ user=3170678 }, ::Regou::{ user=419954 }, ::ScubDomino::{ user=8972308 }, ::Skystar::{ user=873961 }, ::Underdogs::{ user=4675839 }, ::Vert::{ user=3420746 } and ::yf_bmp::{ user=1243669 }\
 180 BPM, 2:24 | 2.04★ – 6.70★\
 *description written by ::Wixonater::{ user=10083084 }*
 
 Lost in a purgatory from years ago, this *Ranked Reject* is the epitome of the section.
 
-[A.SAKA - Nanatsu Koyoto](https://osu.ppy.sh/beatmapsets/768281#osu/1618329) hosts many of the most respected names in mapping, so with **17 difficulties**, a unique experience is consistently provided. This set sits at a middling length of nearly 2.5 minutes, with a star rating spread of 2.04\* to 6.7\*. One of my personal favourites from this set is ::yf\1bmp::{ user=1243669 }'s diff, providing a unique take through awkward sliders and quint wiggles.
+[A.SAKA - Nanatsu Koyoto](https://osu.ppy.sh/beatmapsets/768281#osu/1618329) hosts many of the most respected names in mapping, so with **17 difficulties**, a unique experience is consistently provided. This set sits at a middling length of nearly 2.5 minutes, with a star rating spread of 2.04\* to 6.7\*. One of my personal favourites from this set is ::yf_bmp::{ user=1243669 }'s diff, providing a unique take through awkward sliders and quint wiggles.
 
 However, it's not an outlier — it's the norm, with every map on this set providing something new. Vote to help this *Ranked Reject* finally get the glory it deserves!
 
@@ -367,13 +367,13 @@ We hope that our returning couple of mappers has a good impression on the commun
 
 [![](/wiki/shared/news/2023-03-21-project-loved-march-2023/1463567.jpg)](https://osu.ppy.sh/community/forums/topics/1738555)
 
-[Silentroom vs. Frums - Aegleseeker](https://osu.ppy.sh/beatmapsets/1463567#mania) by ::AlexDunk::{ user=9194799 } and ::lovely\1hyahya::{ user=10318380 }\
+[Silentroom vs. Frums - Aegleseeker](https://osu.ppy.sh/beatmapsets/1463567#mania) by ::AlexDunk::{ user=9194799 } and ::lovely_hyahya::{ user=10318380 }\
 234 BPM, 2:25 | 4.63★, 4.64★, 6.42★, 7.24★\
 *description written by ::RandomeLoL::{ user=7080063 }*
 
 It has been a while since we last saw ::AlexDunk::{ user=9194799 } featured in Project Loved, but the wait wasn't for naught. Another set of theirs has slowly been gaining traction during that period of time, even getting some final touches here and there to get it on its best shape possible! That's why this month around, we'll be featuring their amazing *Aegleseeker* set.
 
-But what can players expect? For starters, you can get to experience an amazing storyboard crafted by none other than ::lovely\1hyahya::{ user=10318380 }. Alternatively, if storyboards aren't your thing, the background was AlexDunk's own doing, so you'll still have something fancy to stare at!
+But what can players expect? For starters, you can get to experience an amazing storyboard crafted by none other than ::lovely_hyahya::{ user=10318380 }. Alternatively, if storyboards aren't your thing, the background was AlexDunk's own doing, so you'll still have something fancy to stare at!
 
 The set also offers [a standalone SV difficulty](https://osu.ppy.sh/beatmapsets/1463567#mania/3042821), for those who'd like to get the vibe of the song through wacky speed-ups and slow-downs. The other three difficulties are all distinct with ever-so-slight increases in difficulty. Give them a try! Each one of them holds itself just as well as a standalone chart.
 
@@ -433,7 +433,7 @@ If you are interested in seeing *Alice in Reitouko* in the Loved category, or yo
 
 [![](/wiki/shared/news/2023-03-21-project-loved-march-2023/1928983.jpg)](https://osu.ppy.sh/community/forums/topics/1738550)
 
-[Various Artists - \_IceRain's 6K Advanced Collection](https://osu.ppy.sh/beatmapsets/1928983#mania) by ::\_IceRain::{ user=7859973 }, ::\[Crz\]Derrick::{ user=4603931 }, ::\[Crz\]sunnyxxy::{ user=10333739 }, ::553343477::{ user=4363223 }, ::Anson\198::{ user=6198587 }, ::Arkman::{ user=8814590 }, ::tyrcs::{ user=13026904 } and ::Wilben\1Chan::{ user=6659363 }\
+[Various Artists - \_IceRain's 6K Advanced Collection](https://osu.ppy.sh/beatmapsets/1928983#mania) by ::\_IceRain::{ user=7859973 }, ::\[Crz\]Derrick::{ user=4603931 }, ::\[Crz\]sunnyxxy::{ user=10333739 }, ::553343477::{ user=4363223 }, ::Anson_98::{ user=6198587 }, ::Arkman::{ user=8814590 }, ::tyrcs::{ user=13026904 } and ::Wilben_Chan::{ user=6659363 }\
 90 – 263.08 BPM, 4:40 | 3.18★ – 7.79★\
 The \[(Marathon) - Delete upon download\] difficulty is *not* being nominated for Loved.\
 *description written by ::-NoName-::{ user=10400730 }*

@@ -83,11 +83,11 @@ During the period where [Ranked Score](/wiki/Gameplay/Score/Ranked_score) was us
 | ::{ flag=UY }:: ::H1ko::{ user=58710 } | 2009-09-14 | 2009-10-12 | [\[1\]](https://osu.ppy.sh/community/forums/topics/17410) |
 | ::{ flag=KR }:: ::La Valse (*hutka*)::{ user=70863 } | 2009-10-12 | 2009-10-19 | [\[1\]](https://osu.ppy.sh/community/forums/topics/23708?start=316843) |
 | ::{ flag=UY }:: ::H1ko::{ user=58710 } | 2009-10-19 | 2009-10-29 | [\[1\]](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE/edit?usp=sharing) |
-| ::{ flag=CN }:: ::Ana\1Coppola::{ user=88717 } | 2009-10-29 | 2009-10-30 | [\[1\]](https://osu.ppy.sh/community/forums/topics/19303) |
+| ::{ flag=CN }:: ::Ana_Coppola::{ user=88717 } | 2009-10-29 | 2009-10-30 | [\[1\]](https://osu.ppy.sh/community/forums/topics/19303) |
 | ::{ flag=UY }:: ::H1ko::{ user=58710 } | 2009-10-30 | 2009-11-07 | [\[1\]](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE/edit?usp=sharing) |
-| ::{ flag=CN }:: ::Ana\1Coppola::{ user=88717 } | 2009-11-07 | 2009-12-07 | [\[1\]](https://imgur.com/Ozzl6En) |
+| ::{ flag=CN }:: ::Ana_Coppola::{ user=88717 } | 2009-11-07 | 2009-12-07 | [\[1\]](https://imgur.com/Ozzl6En) |
 | ::{ flag=UY }:: ::H1ko::{ user=58710 } | 2009-12-07 | 2009-12-25 | [\[1\]](https://imgur.com/7B9nt8e) |
-| ::{ flag=CN }:: ::Ana\1Coppola::{ user=88717 } | 2009-12-25 | 2009-12-29 | [\[1\]](https://osu.ppy.sh/community/forums/topics/21622?start=276369) |
+| ::{ flag=CN }:: ::Ana_Coppola::{ user=88717 } | 2009-12-25 | 2009-12-29 | [\[1\]](https://osu.ppy.sh/community/forums/topics/21622?start=276369) |
 | ::{ flag=UY }:: ::H1ko::{ user=58710 } | 2009-12-29 | *2010-01-05* | [\[1\]](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE/edit?usp=sharing) |
 
 ## 2010
@@ -95,13 +95,13 @@ During the period where [Ranked Score](/wiki/Gameplay/Score/Ranked_score) was us
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
 | ::{ flag=UY }:: ::H1ko::{ user=58710 } | *2009-12-29* | 2010-01-05 | [\[1\]](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE/edit?usp=sharing) |
-| ::{ flag=CN }:: ::Ana\1Coppola::{ user=88717 } | 2010-01-05 | 2010-01-11 | [\[1\]](https://imgur.com/XDtjwMz) |
+| ::{ flag=CN }:: ::Ana_Coppola::{ user=88717 } | 2010-01-05 | 2010-01-11 | [\[1\]](https://imgur.com/XDtjwMz) |
 | ::{ flag=UY }:: ::H1ko::{ user=58710 } | 2010-01-11 | 2010-02-01 | [\[1\]](https://web.archive.org/web/20100207194753/http://osu.ppy.sh/p/playerranking) |
-| ::{ flag=CN }:: ::Ana\1Coppola::{ user=88717 } | 2010-02-01 | 2010-02-02 | [\[1\]](https://osu.ppy.sh/community/forums/topics/23715) |
+| ::{ flag=CN }:: ::Ana_Coppola::{ user=88717 } | 2010-02-01 | 2010-02-02 | [\[1\]](https://osu.ppy.sh/community/forums/topics/23715) |
 | ::{ flag=UY }:: ::H1ko::{ user=58710 } | 2010-02-02 | 2010-03-17 | [\[1\]](https://web.archive.org/web/20100207194753/http://osu.ppy.sh/p/playerranking) |
 | ::{ flag=GB }:: ::Doomsday (*Doomsday93*)::{ user=18983 } | 2010-03-17 | 2010-03-18 | [\[1\]](https://osu.ppy.sh/community/forums/topics/26603) |
 | ::{ flag=UY }:: ::H1ko::{ user=58710 } | 2010-03-18 | 2010-06-24 | [\[1\]](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE/edit?usp=sharing) |
-| ::{ flag=CN }:: ::Ana\1Coppola::{ user=88717 } | 2010-06-24 | 2010-06-26 | [\[1\]](https://osu.ppy.sh/community/forums/topics/30241?start=449266) |
+| ::{ flag=CN }:: ::Ana_Coppola::{ user=88717 } | 2010-06-24 | 2010-06-26 | [\[1\]](https://osu.ppy.sh/community/forums/topics/30241?start=449266) |
 | ::{ flag=UY }:: ::H1ko::{ user=58710 } | 2010-06-26 | 2010-07-10 | [\[1\]](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE/edit?usp=sharing) |
 | ::{ flag=KR }:: ::Sure (*ykcarrot*)::{ user=70730 } | 2010-07-10 | 2010-08-05 | [\[1\]](https://imgur.com/a/cF4mZqm) |
 | ::{ flag=JP }:: ::zaru-d (*Harder*)::{ user=79678 } | 2010-08-05 | 2010-10-03 | [\[1\]](https://osu.ppy.sh/community/forums/topics/35178) [\[2\]](https://osu.ppy.sh/community/forums/topics/35345) |
@@ -142,7 +142,7 @@ During the period where [Ranked Score](/wiki/Gameplay/Score/Ranked_score) was us
 | ::{ flag=US }:: ::geckogates::{ user=252524 } | 2012-04-25 | 2012-05-02 | [\[1\]](https://web.archive.org/web/20120429092504/http://osu.ppy.sh/p/playerranking) |
 | ::{ flag=PL }:: ::WubWoofWolf (*White Wolf*)::{ user=39828 } | 2012-05-02 | 2012-05-10 | [\[1\]](https://web.archive.org/web/20120503014947/http://osu.ppy.sh/p/playerranking/?m=0) |
 | ::{ flag=US }:: ::geckogates::{ user=252524 } | 2012-05-10 | 2012-05-16 | [\[1\]](https://web.archive.org/web/20120513043426/http://osu.ppy.sh/p/playerranking) |
-| ::{ flag=CN }:: ::5231\1Kinoko::{ user=181057 } | 2012-05-16 | 2012-05-17 | [\[1\]](https://hiphotos.baidu.com/5231jing/pic/item/51216639b13533fa0fd0a793a8d3fd1f40345b2d.jpg) |
+| ::{ flag=CN }:: ::5231_Kinoko::{ user=181057 } | 2012-05-16 | 2012-05-17 | [\[1\]](https://hiphotos.baidu.com/5231jing/pic/item/51216639b13533fa0fd0a793a8d3fd1f40345b2d.jpg) |
 | ::{ flag=US }:: ::geckogates::{ user=252524 } | 2012-05-17 | 2012-06-05 | [\[1\]](https://web.archive.org/web/20120517131511/http://osu.ppy.sh/p/playerranking) |
 | ::{ flag=PL }:: ::WubWoofWolf (*White Wolf*)::{ user=39828 } | 2012-06-05 | 2012-11-28 | [\[1\]](https://web.archive.org/web/20120503012726/http://osu.ppy.sh/u/39828) |
 | ::{ flag=KR }:: ::chocomint (*Cookiezi*)::{ user=124493 } | 2012-11-28 | 2012-11-28 | [\[1\]](https://web.archive.org/web/20210421133539/https://cafe.naver.com/ofclove?iframe_url_utf8=%2FArticleRead.nhn%253Fclubid%3D19485218%2526page%3D12%2526menuid%3D2%2526inCafeSearch%3Dtrue%2526searchBy%3D1%2526query%3D1%25EC%259C%2584%2526includeAll%3D%2526exclude%3D%2526include%3D%2526exact%3D%2526searchdate%3Dall%2526media%3D0%2526sortBy%3Ddate%2526articleid%3D76562%2526referrerAllArticles%3Dfalse%2526commentFocus%3Dtrue) |
@@ -324,7 +324,7 @@ The following is a list of the total number of times a player has reached the ra
 | ::{ flag=US }:: ::idke::{ user=4650315 } | 10 |
 | ::{ flag=GB }:: ::Doomsday::{ user=18983 } | 8 |
 | ::{ flag=CL }:: ::Mathi::{ user=5339515 } | 7 |
-| ::{ flag=CN }:: ::Ana\1Coppola::{ user=88717 } | 6 |
+| ::{ flag=CN }:: ::Ana_Coppola::{ user=88717 } | 6 |
 | ::{ flag=US }:: ::Cyclone::{ user=18589 } | 6 |
 | ::{ flag=KR }:: ::firebat92::{ user=1777162 } | 6 |
 | ::{ flag=AU }:: ::eyup::{ user=88 } | 5 |
@@ -340,7 +340,7 @@ The following is a list of the total number of times a player has reached the ra
 | ::{ flag=DE }:: ::ShadowSoul::{ user=494970 } | 2 |
 | ::{ flag=TW }:: ::Uan::{ user=147623 } | 2 |
 | ::{ flag=US }:: ::Vaxei::{ user=4787150 } | 2 |
-| ::{ flag=CN }:: ::5231\1Kinoko::{ user=181057 } | 1 |
+| ::{ flag=CN }:: ::5231_Kinoko::{ user=181057 } | 1 |
 | ::{ flag=GB }:: ::9MlCE::{ user=9269034 } | 1 |
 | ::{ flag=RU }:: ::cryshina::{ user=14715160 } | 1 |
 | ::{ flag=NZ }:: ::Echo::{ user=431 } | 1 |
@@ -385,7 +385,7 @@ The following is a list of the total number of days that a player has held the r
 | ::{ flag=JP }:: ::zaru-d::{ user=79678 } | 59 |
 | ::{ flag=KR }:: ::sayonara-bye::{ user=713266 } | 58 |
 | ::{ flag=PL }:: ::Kubu::{ user=29130 } | 51 |
-| ::{ flag=CN }:: ::Ana\1Coppola::{ user=88717 } | 44 |
+| ::{ flag=CN }:: ::Ana_Coppola::{ user=88717 } | 44 |
 | ::{ flag=US }:: ::Ivalset::{ user=827 } | 39 |
 | ::{ flag=TW }:: ::Uan::{ user=147623 } | 37 |
 | ::{ flag=KR }:: ::firebat92::{ user=1777162 } | 35 |
@@ -403,7 +403,7 @@ The following is a list of the total number of days that a player has held the r
 | ::{ flag=KR }:: ::La Valse::{ user=70863 } | 7 |
 | ::{ flag=NZ }:: ::Echo::{ user=431 } | 6 |
 | ::{ flag=TW }:: ::f0012979::{ user=12143 } | 4 |
-| ::{ flag=CN }:: ::5231\1Kinoko::{ user=181057 } | 1 |
+| ::{ flag=CN }:: ::5231_Kinoko::{ user=181057 } | 1 |
 | ::{ flag=FI }:: ::thelewa::{ user=475021 } | 1 |
 
 ## Longest individual reigns

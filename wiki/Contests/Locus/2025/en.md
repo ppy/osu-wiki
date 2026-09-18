@@ -283,7 +283,7 @@ This contest has come to an end and resulted in the following podium:
 | **Mapper** | ::{ flag=EE }:: ::iljaaz::{ user=8501291 } |
 | **Musician** | ::{ flag=US }:: ::nm-y::{ user=31725557 } |
 | **Storyboarder** | ::{ flag=AU }:: ::LowGraphics::{ user=5383942 } |
-| **Illustrator** | ::{ flag=MY }:: ::mochasan\1::{ user=23804364 } |
+| **Illustrator** | ::{ flag=MY }:: ::mochasan_::{ user=23804364 } |
 
 [![Artwork of kanemiko - distance of -RADIAL-](img/banners/distance_of_-RADIAL-.jpg)](https://osu.ppy.sh/beatmapsets/2412247)
 
@@ -446,7 +446,7 @@ This contest has come to an end and resulted in the following podium:
 | :-- | :-- |
 | **Team name** | s-sigma... |
 | **Mapper / storyboarder** | ::{ flag=US }:: ::Tycani::{ user=6693266 } |
-| **Musician** | ::{ flag=US }:: ::\_Xyris\1::{ user=11246193 } |
+| **Musician** | ::{ flag=US }:: ::\_Xyris_::{ user=11246193 } |
 | **Illustrator** | ::{ flag=PH }:: ::Danimato::{ user=23541645 } |
 
 [![Artwork of Fox Rush - Paint The Ocean Blue (feat. Cassylish)](img/banners/Paint_The_Ocean_Blue_(feat._Cassylish).jpg)](https://osu.ppy.sh/beatmapsets/2412259)
@@ -503,7 +503,7 @@ This contest has come to an end and resulted in the following podium:
 | **Storyboarder** | ::{ flag=CN }:: ::RiceSS::{ user=8271436 } |
 | **Musician** | ::{ flag=US }:: ::MetaHumanBoi::{ user=14782369 } |
 | **Mapper** | ::{ flag=CA }:: ::Gordon::{ user=7856835 } |
-| **Mapper** | ::{ flag=US }:: ::mintIceCream\1::{ user=13221589 } |
+| **Mapper** | ::{ flag=US }:: ::mintIceCream_::{ user=13221589 } |
 
 [![Artwork of Krimek - Dahlia (feat. eili)](img/banners/Dahlia_(feat._eili).jpg)](https://osu.ppy.sh/beatmapsets/2412294)
 
@@ -970,7 +970,7 @@ This contest has come to an end and resulted in the following podium:
 | **Mapper** | ::{ flag=CN }:: ::Asaba Harumasa::{ user=8984146 } |
 | **Illustrator / mapper** | ::{ flag=CN }:: ::Yorita Yoshino::{ user=4279523 } |
 | **Mapper** | ::{ flag=NZ }:: ::nika mika::{ user=3878832 } |
-| **Mapper** | ::{ flag=CN }:: ::yf\1bmp::{ user=1243669 } |
+| **Mapper** | ::{ flag=CN }:: ::yf_bmp::{ user=1243669 } |
 
 [![Artwork of Attoclef ft. ∅ - EynohR](img/banners/EynohR.jpg)](https://osu.ppy.sh/beatmapsets/2412250)
 
@@ -1105,7 +1105,7 @@ This contest has come to an end and resulted in the following podium:
 | :-- | :-- |
 | **Team name** | The Abyss |
 | **Mapper** | ::{ flag=CL }:: ::Cris-::{ user=6175280 } |
-| **Musician** | ::{ flag=GR }:: ::KakashiSensei\1::{ user=18254930 } |
+| **Musician** | ::{ flag=GR }:: ::KakashiSensei_::{ user=18254930 } |
 | **Musician / mapper** | ::{ flag=US }:: ::intiaz::{ user=6223841 } |
 | **Mapper** | ::{ flag=CL }:: ::Hazu-::{ user=4668230 } |
 | **Illustrator / storyboarder** | ::{ flag=CL }:: ::Cosmolade::{ user=2172778 } |
@@ -1160,7 +1160,7 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | Angevin Eulogy |
-| **Musician / mapper / designer** | ::{ flag=CH }:: ::Evangelion\1MAN::{ user=16818096 } |
+| **Musician / mapper / designer** | ::{ flag=CH }:: ::Evangelion_MAN::{ user=16818096 } |
 
 [![Artwork of Maemi no Yume - Free Your Heart](img/banners/Free_Your_Heart.jpg)](https://osu.ppy.sh/beatmapsets/2412235)
 
@@ -1187,7 +1187,7 @@ This contest has come to an end and resulted in the following podium:
 | **Mapper** | ::{ flag=PH }:: ::Onegai::{ user=11849100 } |
 | **Mapper** | ::{ flag=PH }:: ::LeCandy::{ user=6626249 } |
 | **Hitsounder** | ::{ flag=PH }:: ::iFinixe::{ user=10501608 } |
-| **Vocalist / illustrator** | ::{ flag=PH }:: ::peko\1::{ user=18268524 } |
+| **Vocalist / illustrator** | ::{ flag=PH }:: ::peko_::{ user=18268524 } |
 | **Musician** | ::{ flag=BR }:: ::Maemi no Yume::{ user=4377273 } |
 
 [![Artwork of airlemoneX - Be with you](img/banners/Be_with_you.jpg)](https://osu.ppy.sh/beatmapsets/2412323)

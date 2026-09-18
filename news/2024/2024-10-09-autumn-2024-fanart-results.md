@@ -135,11 +135,11 @@ An elegant, pensive pippi stares right into a maroon maple allée in an artwork 
 
 [![](https://assets.ppy.sh/contests/221/banners/[jak].png)](https://assets.ppy.sh/contests/221/winners/[jak].PNG)
 
-::**\1jak\1**::{ user=11912649 } brings us an endearing scene of pippi passing by Yuzu and Mocha on the way to school.
+::**[jak]**::{ user=11912649 } brings us an endearing scene of pippi passing by Yuzu and Mocha on the way to school.
 
 [![](https://assets.ppy.sh/contests/221/banners/Christi_Anna.png)](https://assets.ppy.sh/contests/221/winners/Christi_Anna.png)
 
-::**Christi\1Anna**::{ user=11016739 } showed us an enviable scene of pippi, Don and cat Chirou having an incredibly comfortable day, be it studying, taking a nap, or sending hearts across to Mani and Mari in the neighbourhood.
+::**Christi_Anna**::{ user=11016739 } showed us an enviable scene of pippi, Don and cat Chirou having an incredibly comfortable day, be it studying, taking a nap, or sending hearts across to Mani and Mari in the neighbourhood.
 
 [![](https://assets.ppy.sh/contests/221/banners/moonla33.png)](https://assets.ppy.sh/contests/221/winners/moonla33.JPG)
 

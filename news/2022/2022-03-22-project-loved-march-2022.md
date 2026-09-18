@@ -39,7 +39,7 @@ The osu! Loved candidates were chosen by ::DigitalHypno::{ user=4384207 }, ::Doo
 
 [![](/wiki/shared/news/2022-03-18-project-loved-march-2022/695542.jpg)](https://osu.ppy.sh/community/forums/topics/1543998)
 
-[Lil Peep - Save That Shit](https://osu.ppy.sh/beatmapsets/695542#osu) by ::nezbite::{ user=10791470 } and ::BEA\1SUBSCRIBE::{ user=14066243 }\
+[Lil Peep - Save That Shit](https://osu.ppy.sh/beatmapsets/695542#osu) by ::nezbite::{ user=10791470 } and ::BEA_SUBSCRIBE::{ user=14066243 }\
 105.96 BPM, 3:11 | 1.79★, 2.75★, 2.91★\
 *description written by ::Doomsday::{ user=18983 }*
 
@@ -346,7 +346,7 @@ VisD has mainly been known for their chart catalogue over in [Flash Flash Revolu
 
 [![](/wiki/shared/news/2022-03-18-project-loved-march-2022/1184745.jpg)](https://osu.ppy.sh/community/forums/topics/1543971)
 
-[Camellia feat. Kagekiha Gakusei - Lowermost revolt ("Jeremiad" Long ver.)](https://osu.ppy.sh/beatmapsets/1184745#mania) by ::FelixSpade::{ user=2651304 }, ::ChocoCoki-::{ user=3565870 }, ::eZmmR::{ user=8647138 }, ::nayuu::{ user=12561379 }, ::Onta\1Bekasi::{ user=8677684 }, ::Virtue-::{ user=6144772 } and ::XDerbyX::{ user=7326238 }\
+[Camellia feat. Kagekiha Gakusei - Lowermost revolt ("Jeremiad" Long ver.)](https://osu.ppy.sh/beatmapsets/1184745#mania) by ::FelixSpade::{ user=2651304 }, ::ChocoCoki-::{ user=3565870 }, ::eZmmR::{ user=8647138 }, ::nayuu::{ user=12561379 }, ::Onta_Bekasi::{ user=8677684 }, ::Virtue-::{ user=6144772 } and ::XDerbyX::{ user=7326238 }\
 219.2 BPM, 5:31 | 4.88★ – 9.31★\
 *description written by ::RandomeLoL::{ user=7080063 }*
 
@@ -391,7 +391,7 @@ Whether you enjoy fun mashups or not, you're bound to enjoy the fun patterning t
 
 [![](/wiki/shared/news/2022-03-18-project-loved-march-2022/711991.jpg)](https://osu.ppy.sh/community/forums/topics/1543968)
 
-[Various Artists - la's 10K -SUPERMUG-](https://osu.ppy.sh/beatmapsets/711991#mania) by ::SK\1la::{ user=6601796 }\
+[Various Artists - la's 10K -SUPERMUG-](https://osu.ppy.sh/beatmapsets/711991#mania) by ::SK_la::{ user=6601796 }\
 105 – 200 BPM, 5:51 | 2.19★ – 6.52★\
 *description written by ::kadoen::{ user=12780575 }*
 

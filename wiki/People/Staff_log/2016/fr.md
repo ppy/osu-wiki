@@ -25,7 +25,7 @@
 ## Mars
 
 - Transfert de ::Gamu::{ user=611174 } : Quality Assurance Team > osu! Alumni (03/03/2016)
-- Transfert de ::Zero\1\1wind::{ user=1822830 } : osu! Alumni > Global Moderation Team (17/03/2016)
+- Transfert de ::Zero__wind::{ user=1822830 } : osu! Alumni > Global Moderation Team (17/03/2016)
 - Ajout de ::Seijiro::{ user=2581696 } : Global Moderation Team (17/03/2016)
 
 ### Nouveaux Beatmap Nominators
@@ -69,10 +69,10 @@ Tous les utilisateurs listés ci-dessous ont été ajoutés le 01/06/2016 :
 - ::Doyak::{ user=2046893 }
 - ::Volta::{ user=4154071 }
 - ::Nwolf::{ user=1910766 }
-- ::\1Sc4v4ng3r\1::{ user=4838429 }
+- ::[Sc4v4ng3r]::{ user=4838429 }
 - ::Ascendance::{ user=2931883 }
 - ::Fresh Chicken::{ user=3984370 }
-- ::\1 A v a l o n \1::{ user=4632359 }
+- ::[ A v a l o n ]::{ user=4632359 }
 - ::Nivrad00::{ user=1984634 }
 - ::Rizqy::{ user=1411817 }
 
@@ -105,7 +105,7 @@ Tous les utilisateurs listés ci-dessous ont été ajoutés le 22/08/2016 :
 - ::Xexxar::{ user=2773526 }
 - ::ezek::{ user=180241 }
 - ::sahuang::{ user=5318910 }
-- ::Zero\1\1wind::{ user=1822830 }
+- ::Zero__wind::{ user=1822830 }
 - ::Pentori::{ user=7452237 }
 - ::Sieg::{ user=1404615 }
 

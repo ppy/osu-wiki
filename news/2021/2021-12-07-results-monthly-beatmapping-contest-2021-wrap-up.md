@@ -27,7 +27,7 @@ The [**Monthly Beatmapping Contest** (***MBC***)](/wiki/Contests/Monthly_Beatmap
 | ::Jaltzu::{ user=2597417 } | osu!taiko | Overall winner | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | - | 2 (⯅2) |
 | ::Ph0eNiiXZ::{ user=9463721 } | osu!taiko | Runner-up | - | - | 3 (⯅1) |
 | ::Jemzuu::{ user=7890134 } | osu!catch | Overall winner | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | - | 2 (⯅2) |
-| ::Unlucky\1w::{ user=4820793 } | osu!catch | Runner-up | - | - | 1 (⯅1) |
+| ::Unlucky_w::{ user=4820793 } | osu!catch | Runner-up | - | - | 1 (⯅1) |
 | ::Kawawa::{ user=4647754 } | osu!mania | Overall winner | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | - | 2 (⯅2) |
 | ::lemonguy::{ user=4693052 } | osu!mania | Runner-up | - | - | 1 (⯅1) |
 
@@ -100,7 +100,7 @@ This contest focused on **1/1 rhythm gaps**! For those of you who aren't mappers
 | Rank | Beatmap | Judging | Musical representation (50) | Creativity (50) | Gameplay (50) | Theme (50) | Total (standardized/raw) |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | \#1 | [*REDOUT*](https://osu.ppy.sh/beatmapsets/1634189) by ::Jemzuu::{ user=7890134 } | [see details](https://mappersguild.com/contests/results?submission=60e21c421f02780e58fa28f5) | 41 | 40 | 40 | 42 | **4.89** (**163**) |
-| \#2 | [*REDOUT*](https://drive.google.com/file/d/1g-ynzOkDh61AakZxNw_WgzAF0eeArF1Y/view?usp=sharing) by ::Unlucky\1w::{ user=4820793 } | [see details](https://mappersguild.com/contests/results?submission=60e21c421f02780e58fa28f7) | 39 | 40 | 40 | 40 | **4.4** (**159**) |
+| \#2 | [*REDOUT*](https://drive.google.com/file/d/1g-ynzOkDh61AakZxNw_WgzAF0eeArF1Y/view?usp=sharing) by ::Unlucky_w::{ user=4820793 } | [see details](https://mappersguild.com/contests/results?submission=60e21c421f02780e58fa28f7) | 39 | 40 | 40 | 40 | **4.4** (**159**) |
 | \#3 | [*REDOUT*](https://osu.ppy.sh/beatmapsets/1634184) by ::Secre::{ user=2306637 } | [see details](https://mappersguild.com/contests/results?submission=60e21c421f02780e58fa28fe) | 35 | 33 | 38 | 41 | **2.61** (**147**) |
 | \#4 | [*Voice*](https://osu.ppy.sh/beatmapsets/1634222) by ::rew0825::{ user=2488026 } | [see details](https://mappersguild.com/contests/results?submission=60e21c421f02780e58fa28fc) | 38 | 31 | 35 | 40 | **2.19** (**144**) |
 | \#5 | [*REDOUT*](https://osu.ppy.sh/beatmapsets/1634262) by ::Dika312::{ user=741613 } | [see details](https://mappersguild.com/contests/results?submission=60e21c421f02780e58fa2900) | 36 | 37 | 33 | 33 | **1.87** (**139**) |
@@ -115,7 +115,7 @@ An innovative mapper well known in the catch community, Jemzuu wasted no opportu
 
 ### Runner-up
 
-And our osu!catch runner-up is ::Unlucky\1w::{ user=4820793 } with their entry of [*REDOUT*](https://drive.google.com/file/d/1g-ynzOkDh61AakZxNw_WgzAF0eeArF1Y/view?usp=sharing)!
+And our osu!catch runner-up is ::Unlucky_w::{ user=4820793 } with their entry of [*REDOUT*](https://drive.google.com/file/d/1g-ynzOkDh61AakZxNw_WgzAF0eeArF1Y/view?usp=sharing)!
 
 This may come as a surprise to a few mappers. Unlucky_w is a fairly new name to the osu!catch community, but they have been actively putting the work to get involved to advance their mapping, and as showcased by their spectacular performance, it is certainly paying off! Utilizing a rather unorthodox interpretation of our month's theme, they managed to capture the attention of our judges and achieve a considerably high score.
 
@@ -160,7 +160,7 @@ If you see your name below, it means you're an awesome person who will be receiv
 - For **osu!**'s contests, we'd like to spread thanks to ::Agatsu::{ user=5579871 }, ::Aistre::{ user=4879380 }, ::AJT::{ user=3181083 }, ::Akito::{ user=5716327 }, ::alevi::{ user=17332378 }, ::Altai::{ user=5745865 }, ::CallieCube::{ user=7535045 }, ::Cheri::{ user=5226970 }, ::Chugger::{ user=4491713 }, ::Daycore::{ user=5596337 }, ::DeviousPanda::{ user=4966334 }, ::Fisky::{ user=8352623 }, ::Hectic::{ user=6885942 }, ::Jacob::{ user=2786413 }, ::jschlatt::{ user=6787940 }, ::Mao::{ user=2204515 }, ::Mazzerin::{ user=2942381 }, ::melwoine::{ user=12091109 }, ::Mimari::{ user=14339830 }, ::Mir::{ user=8688812 }, ::Niva::{ user=197805 }, ::Noffy::{ user=1541323 }, ::Nowaie::{ user=5428909 }, ::Nozhomi::{ user=2716981 }, ::Nuvolina::{ user=10974170 }, ::Pachiru::{ user=2850983 }, ::Seolv::{ user=8067876 }, ::Strategas::{ user=2971837 }, ::Sylas::{ user=3906405 }, ::UberFazz::{ user=8646059 }, ::Uberzolik::{ user=1314547 }, and ::xbopost::{ user=6842421 }.
 - For **osu!taiko**'s contests, these people deserve some love: ::Axer::{ user=7299864 }, ::Capu::{ user=2474015 }, ::cdh::{ user=2403621 }, ::Cynplytholowazy::{ user=3901754 }, ::davidminh0111::{ user=9623142 }, ::Finana Ryugu::{ user=9912966 }, ::Gamelan4::{ user=9856910 }, ::gevbiivi5::{ user=7140680 }, ::Heaxys::{ user=5671417 }, ::Hivie::{ user=14102976 }, ::Ph0eNiiXZ::{ user=9463721 }, ::radar::{ user=7131099 }, ::Raytoly::{ user=8121109 }, ::rubies87::{ user=4949934 }, ::Stefan::{ user=626907 }, ::Ulqui::{ user=1263669 }, and ::Yasuho::{ user=8458835 }
 - For **osu!catch**'s contests, ::Benita::{ user=4023183 }, ::Greaper::{ user=2369776 }, ::Liyac::{ user=4994598 }, ::Nokashi::{ user=5431196 }, ::Phob::{ user=6069462 }, ::Souvenir::{ user=14057792 }, and ::wonjae::{ user=5032045 } have earned two thumbs up.
-- For **osu!mania**'s contest, these folks are highly appreciated: ::Davvy::{ user=10047413 }, ::Mipha-::{ user=5767941 }, ::Pope Gadget::{ user=2288341 }, ::Unpredictable::{ user=7560872 }, ::\1underjoy::{ user=2235750 }.
+- For **osu!mania**'s contest, these folks are highly appreciated: ::Davvy::{ user=10047413 }, ::Mipha-::{ user=5767941 }, ::Pope Gadget::{ user=2288341 }, ::Unpredictable::{ user=7560872 }, ::_underjoy::{ user=2235750 }.
 
 And with that, we'll be departing from official mapping contests until 2022!
 

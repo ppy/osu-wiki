@@ -32,9 +32,9 @@ Voir l'[index des tournois osu! UCI](/wiki/Tournaments/osu!_UCI) pour des articl
 
 - ::{ flag=US }:: Frederick "::freddiiieeee::{ user=7112839 }" Vo (*Président*)
 - ::{ flag=US }:: Adrien "::R34pling::{ user=7662172 }" Huynh Huu
-- ::{ flag=US }:: Jason "::jlin\102::{ user=13192092 }" Lin
+- ::{ flag=US }:: Jason "::jlin_02::{ user=13192092 }" Lin
 - ::{ flag=US }:: Khiem "::PingusKhan::{ user=9648050 }" Dinh
-- ::{ flag=US }:: Nicholas "::\1Nick\1::{ user=9726582 }" Budding
+- ::{ flag=US }:: Nicholas "::[Nick]::{ user=9726582 }" Budding
 
 ### Alumni
 

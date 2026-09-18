@@ -19,7 +19,7 @@ And from those twelve, our winner made themselves known.
 
 ### Compulsive Dog by SnowNiNo\_
 
-With a devastating lead wrought from a dominating performance in the public impression polls with over **1251** votes, ::**SnowNiNo\1**::{ user=2506267 } ascends to be crowned as the latest Elite Mapper: Aspirant with a 66.25/80 total score!
+With a devastating lead wrought from a dominating performance in the public impression polls with over **1251** votes, ::**SnowNiNo_**::{ user=2506267 } ascends to be crowned as the latest Elite Mapper: Aspirant with a 66.25/80 total score!
 
 In addition to this, their entry was also noted by the panellists to be the prime *Spectacle* pick from the lot, essentially winning both the major categories of the contest. Congratulations!
 

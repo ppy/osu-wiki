@@ -82,9 +82,9 @@ If you are interested in the event VOD, feel free to have a look on the [osu!frl
 
 ![](/wiki/Tournaments/GSTLIVE/22/img/banner.png)
 
-*Section written by ::\1gt::{ user=8301957 }*
+*Section written by ::_gt::{ user=8301957 }*
 
-This month another Singaporean LAN took place, organised by ::megumic::{ user=7537133 } and ::\1gt::{ user=8301957 }. This time, the players fought on a mappool comprised of 29 custom maps, as well as 2 commissioned songs! 8 teams participated in the live tournament, with team *we go jim* consisting of ::Eagle5324::{ user=11987104 } and ::Moroha29::{ user=9182389 } taking home the final prize.
+This month another Singaporean LAN took place, organised by ::megumic::{ user=7537133 } and ::_gt::{ user=8301957 }. This time, the players fought on a mappool comprised of 29 custom maps, as well as 2 commissioned songs! 8 teams participated in the live tournament, with team *we go jim* consisting of ::Eagle5324::{ user=11987104 } and ::Moroha29::{ user=9182389 } taking home the final prize.
 
 If you're interested, the whole event was broadcasted on the [osusg Twitch channel](https://twitch.tv/osusg), and you can find the VOD [here](https://www.twitch.tv/videos/1681272327), or if you just want a taste of the madness, check out this insane highlight below!
 
@@ -98,7 +98,7 @@ If you're interested, the whole event was broadcasted on the [osusg Twitch chann
 
 ![](/wiki/shared/news/2023-01-01-osumonthly-6/osu!mania-LNTournament-3.jpg)
 
-Earlier this month, the third installation of the [osu!mania LN Tournament](/wiki/Tournaments/o!mLN/3) was concluded! For those unaware, the tournament hosted by ::MashedPotato::{ user=10494860 }, ::Polytetral::{ user=8612061 }, and ::\1yosh::{ user=7157133 } is currently the biggest, most well-known tournament centred around long notes. By the end of 2022 they concluded their biggest, most ambitious iteration, with quite the assortment of custom songs, charts, and well-tailored mappools for the enjoyment of players and viewers alike!
+Earlier this month, the third installation of the [osu!mania LN Tournament](/wiki/Tournaments/o!mLN/3) was concluded! For those unaware, the tournament hosted by ::MashedPotato::{ user=10494860 }, ::Polytetral::{ user=8612061 }, and ::_yosh::{ user=7157133 } is currently the biggest, most well-known tournament centred around long notes. By the end of 2022 they concluded their biggest, most ambitious iteration, with quite the assortment of custom songs, charts, and well-tailored mappools for the enjoyment of players and viewers alike!
 
 | Placing | Player |
 | :-: | :-- |
@@ -150,7 +150,7 @@ Just like the osu! section, for this rendition, we decided to capture the 5 most
 
 Usually we only showcase osu!taiko-specific maps, but ::Ney::{ user=5991961 }'s [immaculate play](https://osu.ppy.sh/scores/taiko/176006178) on [The Forgotten [grumd]](https://osu.ppy.sh/beatmapsets/55560#taiko/169841), caught our attention and was one which was not easily forgotten. The score showcases some extreme 500 BPM monostreams that were perfected by Ney's unique playstyle. With the map itself being 3 minutes long with only a brief moment to rest, this definitely lives up to being a play of the year.
 
-Ney wasn't the only one to have had a specific impact on the osu!taiko community. ::Grape\1Tea::{ user=9540073 } does it again with their [HDHR SS](https://osu.ppy.sh/scores/taiko/175189773) on [The Limit Does Not Exist [Limit Break]](https://osu.ppy.sh/beatmapsets/420395#taiko/1028158). Featuring blistering and unrelenting 280bpm streams, Grape_Tea seems to do the unsurmountable and brings the play up to the next level with HD and HR, a mod combo that is notorious for being unable to play with, let alone SS with.
+Ney wasn't the only one to have had a specific impact on the osu!taiko community. ::Grape_Tea::{ user=9540073 } does it again with their [HDHR SS](https://osu.ppy.sh/scores/taiko/175189773) on [The Limit Does Not Exist [Limit Break]](https://osu.ppy.sh/beatmapsets/420395#taiko/1028158). Featuring blistering and unrelenting 280bpm streams, Grape_Tea seems to do the unsurmountable and brings the play up to the next level with HD and HR, a mod combo that is notorious for being unable to play with, let alone SS with.
 
 A newcomer to osu!monthly: ::Nurend::{ user=9905079 }'s [NC play](https://osu.ppy.sh/scores/taiko/175579351) on [Central Nucleus [Hell Oni]](https://osu.ppy.sh/beatmapsets/1825183#taiko/3745697), coming in at a whopping 9.7 stars, this map is nothing but a beast when paired with NC, featuring difficult 1/6 and 1/8 patterns that challenge even the pros. This score is made even more impressive with it being the first DT play on the map and with only 8 misses, it is no wonder why this is being showcased.
 

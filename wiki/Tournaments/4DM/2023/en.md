@@ -83,40 +83,40 @@ The 4 Digit osu!mania World Cup 2023 is run by various community members.
 | ::{ flag=BR }:: | **Brazil** | **::Zergh::{ user=3181281 }**, ::nayeonie bunny::{ user=15187174 }, ::Maykee kee::{ user=23091978 }, ::Jeyfor::{ user=12377583 }, ::Buvuw::{ user=22921542 }, ::Soore::{ user=15753462 } |
 | ::{ flag=CA }:: | **Canada** | **::svp-::{ user=13887380 }**, ::twitch chat::{ user=12723207 }, ::\[LS\]Byte::{ user=15174223 }, ::Axelerrixx::{ user=18236316 }, ::Robert6400::{ user=11467559 }, ::Holo the Wise::{ user=17036270 } |
 | ::{ flag=CL }:: | **Chile** | **::itourith::{ user=10809147 }**, ::\[TMEO\]Okita::{ user=13594429 }, ::NewMaxsue::{ user=16910603 }, ::xaxreid::{ user=4227431 } |
-| ::{ flag=CN }:: | **China** | **::\[GB\]Mafufu::{ user=10884561 }**, ::\[GB\]Luoxuan0327::{ user=8586018 }, ::\[GB\]mmttyy233::{ user=28639641 }, ::lovely\1hyahya::{ user=10318380 }, ::Molli::{ user=8893772 }, ::Zyuuu::{ user=15389275 } |
+| ::{ flag=CN }:: | **China** | **::\[GB\]Mafufu::{ user=10884561 }**, ::\[GB\]Luoxuan0327::{ user=8586018 }, ::\[GB\]mmttyy233::{ user=28639641 }, ::lovely_hyahya::{ user=10318380 }, ::Molli::{ user=8893772 }, ::Zyuuu::{ user=15389275 } |
 | ::{ flag=CO }:: | **Colombia** | **::ag0::{ user=17989209 }**, ::MarvelousCosmos::{ user=14189527 }, ::teclado de whip::{ user=11251832 }, ::Saikuto::{ user=22095766 }, ::iTzMeEsteban::{ user=10442657 }, ::wretched egg 16::{ user=14935856 } |
 | ::{ flag=DK }:: | **Denmark** | **::Jole::{ user=2883132 }**, ::\[HD\]Urrk::{ user=11539225 }, ::Cath::{ user=10202140 }, ::Fritte::{ user=5001658 }, ::Stoom::{ user=13572493 }, ::VirtualND::{ user=5352616 } |
-| ::{ flag=EC }:: | **Ecuador** | **::-Kokito::{ user=17530958 }**, ::BOLITA\1PEGADA::{ user=24075447 }, ::jefflainsat::{ user=22827237 }, ::Joshua9793::{ user=18740701 }, ::roingus::{ user=10012563 }, ::SunshineCris::{ user=19392744 } |
+| ::{ flag=EC }:: | **Ecuador** | **::-Kokito::{ user=17530958 }**, ::BOLITA_PEGADA::{ user=24075447 }, ::jefflainsat::{ user=22827237 }, ::Joshua9793::{ user=18740701 }, ::roingus::{ user=10012563 }, ::SunshineCris::{ user=19392744 } |
 | ::{ flag=FI }:: | **Finland** | **::Albania Illya::{ user=10393606 }**, ::Leka::{ user=11408653 }, ::\[WP\]Danitskin::{ user=4337529 }, ::Mazzuli500::{ user=10648818 }, ::Tre::{ user=10024264 } |
-| ::{ flag=FR }:: | **France** | **::Babibelbleu::{ user=16892459 }**, ::ssiizz\1::{ user=16487992 }, ::Limbecile::{ user=12341059 }, ::billiack::{ user=14013641 }, ::jeremkyurem::{ user=13431947 }, ::Wavelation::{ user=5415502 } |
-| ::{ flag=DE }:: | **Germany** | **::ERA medium kek::{ user=11625617 }**, ::ERA Punish::{ user=10615367 }, ::ERA Sirbeyy::{ user=12917829 }, ::ERA Leo::{ user=15440118 }, ::Tiger::{ user=10242297 }, ::Spacee\1::{ user=17692627 } |
-| ::{ flag=HK }:: | **Hong Kong** | **::DC2\1727::{ user=17483369 }**, ::Misolato::{ user=6187838 }, ::roy2206::{ user=15035633 }, ::pofnkul::{ user=23717210 }, ::\[Mom\] xbob::{ user=18481445 }, ::HolySteven::{ user=10502375 } |
+| ::{ flag=FR }:: | **France** | **::Babibelbleu::{ user=16892459 }**, ::ssiizz_::{ user=16487992 }, ::Limbecile::{ user=12341059 }, ::billiack::{ user=14013641 }, ::jeremkyurem::{ user=13431947 }, ::Wavelation::{ user=5415502 } |
+| ::{ flag=DE }:: | **Germany** | **::ERA medium kek::{ user=11625617 }**, ::ERA Punish::{ user=10615367 }, ::ERA Sirbeyy::{ user=12917829 }, ::ERA Leo::{ user=15440118 }, ::Tiger::{ user=10242297 }, ::Spacee_::{ user=17692627 } |
+| ::{ flag=HK }:: | **Hong Kong** | **::DC2_727::{ user=17483369 }**, ::Misolato::{ user=6187838 }, ::roy2206::{ user=15035633 }, ::pofnkul::{ user=23717210 }, ::\[Mom\] xbob::{ user=18481445 }, ::HolySteven::{ user=10502375 } |
 | ::{ flag=ID }:: | **Indonesia** | **::Oofyxl::{ user=20599160 }**, ::AZKiFanboy::{ user=5179764 }, ::zxibs::{ user=26634482 }, ::iSxga::{ user=15801261 }, ::\[ -Asriel- \]::{ user=11829623 }, ::SuzuneHanamona::{ user=24559683 } |
 | ::{ flag=IE }:: | **Ireland** | **::MilkWatcher::{ user=13794811 }**, ::-Nightkore::{ user=26311862 }, ::-Scott::{ user=6246211 }, ::iParacosm::{ user=19466314 }, ::Lumarium::{ user=20110813 }, ::Walibi::{ user=15096052 } |
-| ::{ flag=IT }:: | **Italy** | **::Kiraz::{ user=3807675 }**, ::antony88fayah::{ user=20656485 }, ::Sib3riaN\1T3cK::{ user=17768545 }, ::- Rick -::{ user=25263357 }, ::michxxx::{ user=16965810 }, ::EliteDreamer::{ user=18274507 } |
+| ::{ flag=IT }:: | **Italy** | **::Kiraz::{ user=3807675 }**, ::antony88fayah::{ user=20656485 }, ::Sib3riaN_T3cK::{ user=17768545 }, ::- Rick -::{ user=25263357 }, ::michxxx::{ user=16965810 }, ::EliteDreamer::{ user=18274507 } |
 | ::{ flag=JP }:: | **Japan** | **::Mi0117::{ user=15501680 }**, ::AxReo::{ user=10924058 }, ::yakik::{ user=16801743 }, ::shirokuma1022::{ user=31755778 }, ::Ageha8239::{ user=8895079 }, ::syo73::{ user=14495182 } |
 | ::{ flag=KZ }:: | **Kazakhstan** | **::IlasTv::{ user=23598112 }**, ::pashalka::{ user=25371717 }, ::sfsisko::{ user=24229334 } |
-| ::{ flag=MY }:: | **Malaysia** | **::-Einar-::{ user=8782656 }**, ::JayLye::{ user=14892447 }, ::Cryolien::{ user=1626983 }, ::Tosai\1::{ user=3760209 }, ::StyGix::{ user=7745408 }, ::Ju1nY11::{ user=14743871 } |
-| ::{ flag=MX }:: | **Mexico** | **::\[TK\]Martin\122::{ user=9653729 }**, ::Shadow\1GM::{ user=19554046 }, ::Dex uwu::{ user=12084755 }, ::\[-Elliot-\]::{ user=29716889 }, ::Andromeda btw::{ user=14629669 }, ::\[LS\]rudify::{ user=16425015 } |
+| ::{ flag=MY }:: | **Malaysia** | **::-Einar-::{ user=8782656 }**, ::JayLye::{ user=14892447 }, ::Cryolien::{ user=1626983 }, ::Tosai_::{ user=3760209 }, ::StyGix::{ user=7745408 }, ::Ju1nY11::{ user=14743871 } |
+| ::{ flag=MX }:: | **Mexico** | **::\[TK\]Martin_22::{ user=9653729 }**, ::Shadow_GM::{ user=19554046 }, ::Dex uwu::{ user=12084755 }, ::\[-Elliot-\]::{ user=29716889 }, ::Andromeda btw::{ user=14629669 }, ::\[LS\]rudify::{ user=16425015 } |
 | ::{ flag=NL }:: | **Netherlands** | **::2fast::{ user=5183940 }**, ::samuelhklumpers::{ user=10945523 }, ::Tyronixfanboy::{ user=16999311 }, ::Ready Perfectly::{ user=10944966 }, ::Freek::{ user=9630674 }, ::Saemitsu::{ user=14262789 } |
 | ::{ flag=NZ }:: | **New Zealand** | **::Prismal Gaming::{ user=25689815 }**, ::jrny::{ user=11328112 }, ::Zed0x::{ user=12136108 }, ::troydogape679::{ user=24534806 }, ::IslandMan::{ user=28045758 } |
-| ::{ flag=NI }:: | **Nicaragua** | **::BlenkchL::{ user=15714839 }**, ::\_ZaFkieL\_::{ user=11372299 }, ::ArtTrits55::{ user=22508663 }, ::KevinRJF::{ user=14309000 }, ::LLB\1BBX::{ user=26133850 }, ::RiRinST::{ user=17113003 } |
-| ::{ flag=PE }:: | **Peru** | **::Kamikho::{ user=12664851 }**, ::Sp3ctro::{ user=18344249 }, ::AkemiWaton::{ user=22660023 }, ::Itz\1cuy::{ user=17797442 }, ::samu3lg::{ user=22630679 }, ::\[ Defuu- \]::{ user=25129861 } |
+| ::{ flag=NI }:: | **Nicaragua** | **::BlenkchL::{ user=15714839 }**, ::\_ZaFkieL\_::{ user=11372299 }, ::ArtTrits55::{ user=22508663 }, ::KevinRJF::{ user=14309000 }, ::LLB_BBX::{ user=26133850 }, ::RiRinST::{ user=17113003 } |
+| ::{ flag=PE }:: | **Peru** | **::Kamikho::{ user=12664851 }**, ::Sp3ctro::{ user=18344249 }, ::AkemiWaton::{ user=22660023 }, ::Itz_cuy::{ user=17797442 }, ::samu3lg::{ user=22630679 }, ::\[ Defuu- \]::{ user=25129861 } |
 | ::{ flag=PH }:: | **Philippines** | **::ERA Frossno::{ user=17480973 }**, ::Dyei::{ user=23643731 }, ::iid3rp::{ user=23274559 }, ::ManiaDegengod::{ user=13193798 }, ::\[LS\]Tenshi::{ user=18520056 }, ::DiamondGenius75::{ user=19107638 } |
-| ::{ flag=PL }:: | **Poland** | **::Mr\1adamello::{ user=7420894 }**, ::SitekX::{ user=3840946 }, ::PoweR\1LendzeR::{ user=2894654 }, ::Paraxia::{ user=14001000 }, ::bagjettka::{ user=18338179 }, ::MemePaladin399::{ user=16116021 } |
-| ::{ flag=PR }:: | **Puerto Rico** | **::ovr::{ user=23922839 }**, ::FoxyGaming398YT\1old::{ user=14322727 }, ::undr::{ user=17640899 }, ::Dari\1::{ user=15905527 } |
-| ::{ flag=RO }:: | **Romania** | **::Mich\1::{ user=11784492 }**, ::Kiirbo::{ user=14985143 }, ::Bluestone413::{ user=17705451 } |
-| ::{ flag=RU }:: | **Russian Federation** | **::SmeadollsBoy::{ user=9504954 }**, ::Asefis::{ user=10840899 }, ::Soldier\1Hibi::{ user=18867357 }, ::Starpage::{ user=9510882 }, ::ZugamiRA::{ user=11026954 } |
+| ::{ flag=PL }:: | **Poland** | **::Mr_adamello::{ user=7420894 }**, ::SitekX::{ user=3840946 }, ::PoweR_LendzeR::{ user=2894654 }, ::Paraxia::{ user=14001000 }, ::bagjettka::{ user=18338179 }, ::MemePaladin399::{ user=16116021 } |
+| ::{ flag=PR }:: | **Puerto Rico** | **::ovr::{ user=23922839 }**, ::FoxyGaming398YT_old::{ user=14322727 }, ::undr::{ user=17640899 }, ::Dari_::{ user=15905527 } |
+| ::{ flag=RO }:: | **Romania** | **::Mich_::{ user=11784492 }**, ::Kiirbo::{ user=14985143 }, ::Bluestone413::{ user=17705451 } |
+| ::{ flag=RU }:: | **Russian Federation** | **::SmeadollsBoy::{ user=9504954 }**, ::Asefis::{ user=10840899 }, ::Soldier_Hibi::{ user=18867357 }, ::Starpage::{ user=9510882 }, ::ZugamiRA::{ user=11026954 } |
 | ::{ flag=SG }:: | **Singapore** | **::riunosk::{ user=5594381 }**, ::McButt::{ user=18018708 }, ::awdse22::{ user=8743513 }, ::icxfire::{ user=21207265 }, ::TheOPmeme::{ user=15763622 }, ::Neon-Hooray::{ user=24058560 } |
 | ::{ flag=KR }:: | **South Korea** | **::AnMaO::{ user=11143150 }**, ::Piper::{ user=10592853 }, ::-3000::{ user=27671243 }, ::Hakos-Baelz::{ user=8990884 } |
 | ::{ flag=ES }:: | **Spain** | **::Froggie09::{ user=14332005 }**, ::Enthalpy::{ user=9552883 }, ::Minikrimi::{ user=15186865 }, ::White Hare::{ user=19687112 }, ::Kracohc::{ user=11554942 }, ::sagerao::{ user=6605301 } |
 | ::{ flag=SE }:: | **Sweden** | **::diamondBIaze::{ user=10553827 }**, ::Johnney101::{ user=11928361 }, ::NeonDrakon::{ user=6315000 }, ::oliverq::{ user=14888056 } |
-| ::{ flag=TW }:: | **Taiwan** | **::yaya901609::{ user=15317574 }**, ::\[ Kloc \]::{ user=11609084 }, ::\[Paw\]Shiro::{ user=15096556 }, ::amano\1hina::{ user=19882148 }, ::Pdog4ni::{ user=14581544 }, ::tommy125::{ user=15189878 } |
+| ::{ flag=TW }:: | **Taiwan** | **::yaya901609::{ user=15317574 }**, ::\[ Kloc \]::{ user=11609084 }, ::\[Paw\]Shiro::{ user=15096556 }, ::amano_hina::{ user=19882148 }, ::Pdog4ni::{ user=14581544 }, ::tommy125::{ user=15189878 } |
 | ::{ flag=TH }:: | **Thailand** | **::nanonbandusty::{ user=15543726 }**, ::basicmaime::{ user=6537441 }, ::HowToBeIntel::{ user=6535376 }, ::G1ilbert::{ user=7408055 }, ::Freshky::{ user=11959687 }, ::- Rinmoz -::{ user=16639144 } |
 | ::{ flag=TR }:: | **Turkey** | **::KabizEjderha::{ user=16348899 }**, ::Ayhan2005::{ user=6419257 }, ::nismo::{ user=16137157 }, ::dumbidot::{ user=19664675 } |
-| ::{ flag=AE }:: | **United Arab Emirates** | **::iAteYourToys::{ user=23253720 }**, ::Ph0xie::{ user=25117537 }, ::Phagosaur::{ user=11365333 }, ::Spong\1boii::{ user=26113356 } |
+| ::{ flag=AE }:: | **United Arab Emirates** | **::iAteYourToys::{ user=23253720 }**, ::Ph0xie::{ user=25117537 }, ::Phagosaur::{ user=11365333 }, ::Spong_boii::{ user=26113356 } |
 | ::{ flag=GB }:: | **United Kingdom** | **::H1Pur::{ user=15756120 }**, ::epic man 2::{ user=14566000 }, ::kinuh::{ user=20849531 }, ::\[CE\]asukai::{ user=15465935 }, ::Usie::{ user=16162078 }, ::--Dragon--::{ user=11924624 } |
-| ::{ flag=US }:: | **United States** | **::\1Seth::{ user=8111953 }**, ::Scep::{ user=11196445 }, ::Retina::{ user=11392859 }, ::Znow::{ user=15513303 }, ::charlie72::{ user=14177626 }, ::- Sky -::{ user=15255368 } |
+| ::{ flag=US }:: | **United States** | **::_Seth::{ user=8111953 }**, ::Scep::{ user=11196445 }, ::Retina::{ user=11392859 }, ::Znow::{ user=15513303 }, ::charlie72::{ user=14177626 }, ::- Sky -::{ user=15255368 } |
 | ::{ flag=VN }:: | **Vietnam** | **::\[KN\]Vixile::{ user=26233321 }**, ::SturpdaFuro::{ user=22644374 }, ::ZMCKENBI::{ user=24254663 }, ::-dex-::{ user=21188734 }, ::khoakiller123::{ user=13219309 }, ::TvS SorAKuN::{ user=11115041 } |
 
 ## Podium
@@ -125,7 +125,7 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CN }:: **China** (**::\[GB\]Mafufu::{ user=10884561 }**, ::\[GB\]Luoxuan0327::{ user=8586018 }, ::\[GB\]mmttyy233::{ user=28639641 }, ::lovely\1hyahya::{ user=10318380 }, ::Molli::{ user=8893772 }, ::Zyuuu::{ user=15389275 }) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CN }:: **China** (**::\[GB\]Mafufu::{ user=10884561 }**, ::\[GB\]Luoxuan0327::{ user=8586018 }, ::\[GB\]mmttyy233::{ user=28639641 }, ::lovely_hyahya::{ user=10318380 }, ::Molli::{ user=8893772 }, ::Zyuuu::{ user=15389275 }) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=SG }:: **Singapore** (**::riunosk::{ user=5594381 }**, ::McButt::{ user=18018708 }, ::awdse22::{ user=8743513 }, ::icxfire::{ user=21207265 }, ::TheOPmeme::{ user=15763622 }, ::Neon-Hooray::{ user=24058560 }) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=CA }:: **Canada** (**::svp-::{ user=13887380 }**, ::twitch chat::{ user=12723207 }, ::\[LS\]Byte::{ user=15174223 }, ::Axelerrixx::{ user=18236316 }, ::Robert6400::{ user=11467559 }, ::Holo the Wise::{ user=17036270 }) |
 

@@ -253,13 +253,13 @@ This map not only has the recognition of several of your favourite mappers' favo
 
 [![](/wiki/shared/news/2025-05-15-project-loved-may-2025/1996134.jpg)](https://osu.ppy.sh/community/forums/topics/2079419)
 
-[yowanecity - Genius(Yunosuke Remix)](https://osu.ppy.sh/beatmapsets/1996134#taiko) by ::Shamirin\1mzk::{ user=11325757 }\
+[yowanecity - Genius(Yunosuke Remix)](https://osu.ppy.sh/beatmapsets/1996134#taiko) by ::Shamirin_mzk::{ user=11325757 }\
 160 BPM, 2:58 | 6.79★\
 *description written by ::Boaz::{ user=13302996 }*
 
 All tech fans assemble!!!! Because this month's Project Loved nominations have everything you ever wanted.
 
-[Genius(Yonosuke Remix)](https://osu.ppy.sh/beatmapsets/1996134#taiko/4148533) by ::Shamirin\1mzk::{ user=11325757 }, a mapper who you may know from their extremely creative gimmick maps, is a map which you can safely call a tech player's dream come true. This relatively low bpm track has a ton of variety, making room for Shamirin to channel their inner creativity. From 1/8 and 1/6 bursts to swing doublets and finisher sections.
+[Genius(Yonosuke Remix)](https://osu.ppy.sh/beatmapsets/1996134#taiko/4148533) by ::Shamirin_mzk::{ user=11325757 }, a mapper who you may know from their extremely creative gimmick maps, is a map which you can safely call a tech player's dream come true. This relatively low bpm track has a ton of variety, making room for Shamirin to channel their inner creativity. From 1/8 and 1/6 bursts to swing doublets and finisher sections.
 
 This map was also featured in the [osu!taiko World Cup 2024](/wiki/Tournaments/TWC/2024) as the Quarterfinals challenge No Mod pick!
 
@@ -323,11 +323,11 @@ So, what do you think? Does this map deserve a spot in the Loved category? Then 
 
 [![](/wiki/shared/news/2025-05-15-project-loved-may-2025/1450193.jpg)](https://osu.ppy.sh/community/forums/topics/2079414)
 
-[Oishi Masayoshi - Kamiari Algorithm (feat. Lilia.) (katagiri bootleg)](https://osu.ppy.sh/beatmapsets/1450193#taiko) by ::7\17::{ user=7491106 } and ::Waribashi::{ user=2250574 }\
+[Oishi Masayoshi - Kamiari Algorithm (feat. Lilia.) (katagiri bootleg)](https://osu.ppy.sh/beatmapsets/1450193#taiko) by ::7_7::{ user=7491106 } and ::Waribashi::{ user=2250574 }\
 200 BPM, 2:28 | 5.76★\
 *description written by ::Roxy-::{ user=11931563 }*
 
-[Oishi Masayoshi - Kamiari Algorithm (feat. Lilia.) (katagiri bootleg)](https://osu.ppy.sh/beatmapsets/1450193#taiko/2981550), made by ::Waribashi::{ user=2250574 } and ::7\17::{ user=7491106 }, is a simple map that can be enjoyed by beginners and experts alike. The overall map structure is calm at 5.76★ and 200 BPM, and although there are some 1/6 patterns, it is a map that can be played comfortably all the way through. It is a map that showcases both mappers' characteristic ability to get into the groove of the song through their mapping styles.
+[Oishi Masayoshi - Kamiari Algorithm (feat. Lilia.) (katagiri bootleg)](https://osu.ppy.sh/beatmapsets/1450193#taiko/2981550), made by ::Waribashi::{ user=2250574 } and ::7_7::{ user=7491106 }, is a simple map that can be enjoyed by beginners and experts alike. The overall map structure is calm at 5.76★ and 200 BPM, and although there are some 1/6 patterns, it is a map that can be played comfortably all the way through. It is a map that showcases both mappers' characteristic ability to get into the groove of the song through their mapping styles.
 
 We hope you will try it and see for yourself!
 
@@ -387,7 +387,7 @@ The osu!catch Loved candidates were chosen by ::Dahcreeper::{ user=6926006 } and
 
 [![](/wiki/shared/news/2025-05-15-project-loved-may-2025/2170847.jpg)](https://osu.ppy.sh/community/forums/topics/2079410)
 
-[osu!catch Dan Course - osu!catch Dan Phase I & II](https://osu.ppy.sh/beatmapsets/2170847#fruits) by ::Rocma::{ user=566276 }, ::-Ken::{ user=4430811 }, ::autofanboy::{ user=636114 }, ::Bunnrei::{ user=829284 }, ::CLSW::{ user=531253 }, ::Emiru::{ user=3306180 }, ::JBHyperion::{ user=4879508 }, ::Jemzuu::{ user=7890134 }, ::Kukkai::{ user=7811952 }, ::Nelly::{ user=4741164 }, ::Razor Sharp::{ user=3414261 }, ::Ririmu::{ user=20424806 }, ::Spectator\_::{ user=24024204 }, ::Unlucky\1w::{ user=4820793 }, ::Yoshi\1green::{ user=1035891 }, ::Yumeno Himiko::{ user=1806962 }, and ::Zyzyx::{ user=2888013 }\
+[osu!catch Dan Course - osu!catch Dan Phase I & II](https://osu.ppy.sh/beatmapsets/2170847#fruits) by ::Rocma::{ user=566276 }, ::-Ken::{ user=4430811 }, ::autofanboy::{ user=636114 }, ::Bunnrei::{ user=829284 }, ::CLSW::{ user=531253 }, ::Emiru::{ user=3306180 }, ::JBHyperion::{ user=4879508 }, ::Jemzuu::{ user=7890134 }, ::Kukkai::{ user=7811952 }, ::Nelly::{ user=4741164 }, ::Razor Sharp::{ user=3414261 }, ::Ririmu::{ user=20424806 }, ::Spectator\_::{ user=24024204 }, ::Unlucky_w::{ user=4820793 }, ::Yoshi_green::{ user=1035891 }, ::Yumeno Himiko::{ user=1806962 }, and ::Zyzyx::{ user=2888013 }\
 105 – 290 BPM, 9:35 | 3.73★ – 11.81★\
 The \[delete after download\] difficulty is *not* being nominated for Loved.\
 *description written by ::Dahcreeper::{ user=6926006 }*
@@ -536,7 +536,7 @@ Make sure to cast your vote and show your support for it!
 
 [![](/wiki/shared/news/2025-05-15-project-loved-may-2025/1646395.jpg)](https://osu.ppy.sh/community/forums/topics/2079400)
 
-[Various Artist - xNett's Kpop 7k LN pack 2](https://osu.ppy.sh/beatmapsets/1646395#mania) by ::xNett::{ user=4998501 }, ::Damned::{ user=13288401 }, ::Flexo123::{ user=5367287 }, ::jDoce12::{ user=2208895 }, ::JDS20::{ user=6864656 }, ::Remuring::{ user=6522146 }, and ::takanashi\1201::{ user=8793725 }\
+[Various Artist - xNett's Kpop 7k LN pack 2](https://osu.ppy.sh/beatmapsets/1646395#mania) by ::xNett::{ user=4998501 }, ::Damned::{ user=13288401 }, ::Flexo123::{ user=5367287 }, ::jDoce12::{ user=2208895 }, ::JDS20::{ user=6864656 }, ::Remuring::{ user=6522146 }, and ::takanashi_201::{ user=8793725 }\
 97 – 206 BPM, 3:59 | 3.99★ – 8.07★\
 The \[Marathon - Delete me pls\] difficulty is *not* being nominated for Loved.\
 *description written by ::Maxus::{ user=4335785 }*

@@ -43,16 +43,16 @@ The Touhou Project Mania Cup 3rd was run by the THMC team and various community 
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=CN }:: ::\[GB\]Sanae::{ user=11238501 } |
-| Co-host | ::{ flag=GB }:: ::-Deepdive-::{ user=13338645 }, ::{ flag=CN }:: ::cdwcgt::{ user=14721101 }, ::{ flag=CN }:: ::\[GB\]Rush\1FTK::{ user=3046856 } |
+| Co-host | ::{ flag=GB }:: ::-Deepdive-::{ user=13338645 }, ::{ flag=CN }:: ::cdwcgt::{ user=14721101 }, ::{ flag=CN }:: ::\[GB\]Rush_FTK::{ user=3046856 } |
 | Mappool selectors | ::{ flag=CN }:: ::YuEast 2018::{ user=13953619 }, ::{ flag=CN }:: ::\[GB\]Sanae::{ user=11238501 }, ::{ flag=CN }:: ::\[GB\]Reisen::{ user=8586018 }, ::{ flag=CN }:: ::cherrychou::{ user=7214023 }, ::{ flag=GB }:: ::epic man 2::{ user=14566000 }, ::{ flag=GB }:: ::-Deepdive-::{ user=13338645 } |
-| Mappool playtester | ::{ flag=CN }:: ::YuEast 2018::{ user=13953619 }, ::{ flag=GB }:: ::-Deepdive-::{ user=13338645 }, ::{ flag=CN }:: ::\[GB\]Reisen::{ user=8586018 }, ::{ flag=CN }:: ::Echo\1XF::{ user=25630297 }, ::{ flag=CN }:: ::\[GB\]r3uz::{ user=27583184 } |
-| Custom mapper | ::{ flag=CN }:: ::YuEast 2018::{ user=13953619 }, ::{ flag=CN }:: ::\[GB\]Sanae::{ user=11238501 }, ::{ flag=CN }:: ::\[GB\]Reisen::{ user=8586018 }, ::{ flag=CN }:: ::cherrychou::{ user=7214023 }, ::{ flag=GB }:: ::epic man 2::{ user=14566000 }, ::{ flag=GB }:: ::-Deepdive-::{ user=13338645 }, ::{ flag=CN }:: ::\[GB\]V1do::{ user=17527968 }, ::{ flag=CN }:: ::PORTTAYER::{ user=8790200 }, ::{ flag=CN }:: ::AelSan::{ user=14095291 }, ::{ flag=CN }:: ::Blue\1Potion::{ user=13094831 } |
-| Referee | ::{ flag=CN }:: ::\[GB\]Sanae::{ user=11238501 }, ::{ flag=CN }:: ::YuEast 2018::{ user=13953619 }, ::{ flag=CN }:: ::cdwcgt::{ user=14721101 }, ::{ flag=CN }:: ::\[GB\]Rush\1FTK::{ user=3046856 }, ::{ flag=CN }:: ::shizehao::{ user=4928674 }, ::{ flag=BR }:: ::Konohana Lucia::{ user=8642224 }, ::{ flag=PH }:: ::Normiplier::{ user=10069850 }, ::{ flag=TH }:: ::Infinitstart::{ user=4026124 }, ::{ flag=US }:: ::akace100::{ user=9308128 }, ::{ flag=DE }:: ::TheHunter1::{ user=6496016 }, ::{ flag=GB }:: ::-Deepdive-::{ user=13338645 }, ::{ flag=CN }:: ::\[GB\]ChickenGold::{ user=16586663 }, ::{ flag=CN }:: ::\[GB\]r3uz::{ user=27583184 } |
-| Commentator | ::{ flag=CN }:: ::\[GB\]yobrevelc::{ user=14128407 }, ::{ flag=GB }:: ::-Deepdive-::{ user=13338645 }, ::{ flag=CN }:: ::\[GB\]Sanae::{ user=11238501 }, ::{ flag=CN }:: ::\[GB\]Reisen::{ user=8586018 }, ::{ flag=CN }:: ::\[GB\]Rush\1FTK::{ user=3046856 } |
-| Streamer | ::{ flag=CN }:: ::cdwcgt::{ user=14721101 }, ::{ flag=CN }:: ::\[GB\]Rush\1FTK::{ user=3046856 }, ::{ flag=CN }:: ::\[GB\]ChickenGold::{ user=16586663 }, ::{ flag=CN }:: ::Selis::{ user=5112995 }, ::{ flag=GB }:: ::-Deepdive-::{ user=13338645 }, ::{ flag=US }:: ::EpsilonMaiagare::{ user=3855052 } |
-| Graphic designer | ::{ flag=CN }:: ::\[GB\]King Fish::{ user=8468203 }, ::{ flag=CN }:: ::lovely\1hyahya::{ user=10318380 }, ::{ flag=CN }:: ::\[GB\]PlayandyoU::{ user=14759634 }, ::{ flag=CN }:: ::RiceSS::{ user=8271436 } |
+| Mappool playtester | ::{ flag=CN }:: ::YuEast 2018::{ user=13953619 }, ::{ flag=GB }:: ::-Deepdive-::{ user=13338645 }, ::{ flag=CN }:: ::\[GB\]Reisen::{ user=8586018 }, ::{ flag=CN }:: ::Echo_XF::{ user=25630297 }, ::{ flag=CN }:: ::\[GB\]r3uz::{ user=27583184 } |
+| Custom mapper | ::{ flag=CN }:: ::YuEast 2018::{ user=13953619 }, ::{ flag=CN }:: ::\[GB\]Sanae::{ user=11238501 }, ::{ flag=CN }:: ::\[GB\]Reisen::{ user=8586018 }, ::{ flag=CN }:: ::cherrychou::{ user=7214023 }, ::{ flag=GB }:: ::epic man 2::{ user=14566000 }, ::{ flag=GB }:: ::-Deepdive-::{ user=13338645 }, ::{ flag=CN }:: ::\[GB\]V1do::{ user=17527968 }, ::{ flag=CN }:: ::PORTTAYER::{ user=8790200 }, ::{ flag=CN }:: ::AelSan::{ user=14095291 }, ::{ flag=CN }:: ::Blue_Potion::{ user=13094831 } |
+| Referee | ::{ flag=CN }:: ::\[GB\]Sanae::{ user=11238501 }, ::{ flag=CN }:: ::YuEast 2018::{ user=13953619 }, ::{ flag=CN }:: ::cdwcgt::{ user=14721101 }, ::{ flag=CN }:: ::\[GB\]Rush_FTK::{ user=3046856 }, ::{ flag=CN }:: ::shizehao::{ user=4928674 }, ::{ flag=BR }:: ::Konohana Lucia::{ user=8642224 }, ::{ flag=PH }:: ::Normiplier::{ user=10069850 }, ::{ flag=TH }:: ::Infinitstart::{ user=4026124 }, ::{ flag=US }:: ::akace100::{ user=9308128 }, ::{ flag=DE }:: ::TheHunter1::{ user=6496016 }, ::{ flag=GB }:: ::-Deepdive-::{ user=13338645 }, ::{ flag=CN }:: ::\[GB\]ChickenGold::{ user=16586663 }, ::{ flag=CN }:: ::\[GB\]r3uz::{ user=27583184 } |
+| Commentator | ::{ flag=CN }:: ::\[GB\]yobrevelc::{ user=14128407 }, ::{ flag=GB }:: ::-Deepdive-::{ user=13338645 }, ::{ flag=CN }:: ::\[GB\]Sanae::{ user=11238501 }, ::{ flag=CN }:: ::\[GB\]Reisen::{ user=8586018 }, ::{ flag=CN }:: ::\[GB\]Rush_FTK::{ user=3046856 } |
+| Streamer | ::{ flag=CN }:: ::cdwcgt::{ user=14721101 }, ::{ flag=CN }:: ::\[GB\]Rush_FTK::{ user=3046856 }, ::{ flag=CN }:: ::\[GB\]ChickenGold::{ user=16586663 }, ::{ flag=CN }:: ::Selis::{ user=5112995 }, ::{ flag=GB }:: ::-Deepdive-::{ user=13338645 }, ::{ flag=US }:: ::EpsilonMaiagare::{ user=3855052 } |
+| Graphic designer | ::{ flag=CN }:: ::\[GB\]King Fish::{ user=8468203 }, ::{ flag=CN }:: ::lovely_hyahya::{ user=10318380 }, ::{ flag=CN }:: ::\[GB\]PlayandyoU::{ user=14759634 }, ::{ flag=CN }:: ::RiceSS::{ user=8271436 } |
 | Musician | ::{ flag=CN }:: ::\[GB\]Azukisan::{ user=5378805 } |
-| Statistician & wiki editor | ::{ flag=CN }:: ::cdwcgt::{ user=14721101 }, ::{ flag=CN }:: ::\[GB\]Rush\1FTK::{ user=3046856 }, ::{ flag=FR }:: ::PatouZ::{ user=7306522 }, ::{ flag=CN }:: ::YuEast 2018::{ user=13953619 } |
+| Statistician & wiki editor | ::{ flag=CN }:: ::cdwcgt::{ user=14721101 }, ::{ flag=CN }:: ::\[GB\]Rush_FTK::{ user=3046856 }, ::{ flag=FR }:: ::PatouZ::{ user=7306522 }, ::{ flag=CN }:: ::YuEast 2018::{ user=13953619 } |
 
 ## Links
 
@@ -74,54 +74,54 @@ The Touhou Project Mania Cup 3rd was run by the THMC team and various community 
 | **Alisa Mikhailovna Kujou** | ::{ flag=SG }:: **::sukidayo-::{ user=16870002 }**, ::{ flag=SG }:: ::McButt::{ user=18018708 }, ::{ flag=SG }:: ::TheOPMeme::{ user=15763622 }, ::{ flag=HK }:: ::RyanWong1216::{ user=19030562 } |
 | **Amogus** | ::{ flag=SA }:: **::Raiden129::{ user=23034813 }**, ::{ flag=MY }:: ::YtAlbin0::{ user=21873512 }, ::{ flag=HK }:: ::WhiteKyleIsANub::{ user=18824384 } |
 | **Ariana Grande Fanboys** | ::{ flag=CA }:: **::Holo The Wise::{ user=17036270 }**, ::{ flag=CA }:: ::Robert6400::{ user=11467559 }, ::{ flag=CA }:: ::Twitch Chat::{ user=12723207 }, ::betsuni::{ user=21020437 } |
-| **AustralianSpiders** | ::{ flag=US }:: **::astal\1::{ user=32151196 }**, ::{ flag=GB }:: ::AspectOfTheDie::{ user=19191509 }, ::{ flag=CA }:: ::Bushidored98::{ user=15570263 } |
+| **AustralianSpiders** | ::{ flag=US }:: **::astal_::{ user=32151196 }**, ::{ flag=GB }:: ::AspectOfTheDie::{ user=19191509 }, ::{ flag=CA }:: ::Bushidored98::{ user=15570263 } |
 | **Bloxy cola** | ::{ flag=ID }:: **::adihza::{ user=18309106 }**, ::{ flag=PH }:: ::4kenn::{ user=20496815 }, ::{ flag=ID }:: ::bad hd player::{ user=13385865 } |
 | **bob** | ::{ flag=NL }:: **::Shoira::{ user=13377652 }**, ::{ flag=NL }:: ::samuelhklumpers::{ user=10945523 }, ::{ flag=TH }:: ::\[Ping\]::{ user=6291395 }, ::{ flag=NL }:: ::Quinnie why::{ user=16999311 } |
-| **BOCA JUNIORS** | ::{ flag=BR }:: **::Netroo::{ user=13769101 }**, ::{ flag=US }:: ::Surcanp::{ user=19862784 }, ::{ flag=VN }:: ::BC1\1CI9::{ user=25923595 }, ::{ flag=AR }:: ::- Kuru::{ user=24649329 } |
-| **bounter gaming** | ::{ flag=AU }:: **::shorts::{ user=8021372 }**, ::{ flag=PH }:: ::Axfaerie::{ user=13857689 }, ::{ flag=AU }:: ::-Ainsel-::{ user=27855382 }, ::{ flag=PH }:: ::choydoru\1meep28::{ user=23327830 } |
+| **BOCA JUNIORS** | ::{ flag=BR }:: **::Netroo::{ user=13769101 }**, ::{ flag=US }:: ::Surcanp::{ user=19862784 }, ::{ flag=VN }:: ::BC1_CI9::{ user=25923595 }, ::{ flag=AR }:: ::- Kuru::{ user=24649329 } |
+| **bounter gaming** | ::{ flag=AU }:: **::shorts::{ user=8021372 }**, ::{ flag=PH }:: ::Axfaerie::{ user=13857689 }, ::{ flag=AU }:: ::-Ainsel-::{ user=27855382 }, ::{ flag=PH }:: ::choydoru_meep28::{ user=23327830 } |
 | **BurguerDeFresa** | ::{ flag=ES }:: **::yordi::{ user=17968946 }**, ::{ flag=ES }:: ::ShiropeDeFresa::{ user=16020685 }, ::{ flag=CL }:: ::\[LS\]bambi fnf::{ user=20360332 }, ::{ flag=HN }:: ::\[HD\]Weathersito::{ user=24167604 } |
 | **Catcat** | ::{ flag=CN }:: **::\[Crz\]Xinyi2016::{ user=14213841 }**, ::{ flag=CN }:: ::\[ Classic \]::{ user=5858053 }, ::{ flag=CN }:: ::\[GB\]QAQlingjiu::{ user=27288518 }, ::{ flag=CN }:: ::\[GB\]namelest::{ user=17812436 } |
 | **cirno car** | ::{ flag=NZ }:: **::Robeats::{ user=19446399 }**, ::{ flag=PH }:: ::iid3rp::{ user=23274559 }, ::{ flag=AU }:: ::Orcanos::{ user=13762441 }, ::{ flag=AU }:: ::AnatharaX::{ user=14390680 } |
 | **cirno overrated** | ::{ flag=TH }:: **::Natsurio::{ user=17721836 }**, ::{ flag=TH }:: ::Mkurisutina-::{ user=15514768 } |
 | **CovidPoeRoblox** | ::{ flag=TH }:: **::- Rinmoz -::{ user=16639144 }**, ::{ flag=TH }:: ::SHOKO -::{ user=10279743 }, ::{ flag=TH }:: ::Freshky::{ user=11959687 }, ::{ flag=TH }:: ::basicmaime::{ user=6537441 } |
 | **Dizzy Troopers** | ::{ flag=US }:: **::trooperboi::{ user=32028459 }**, ::{ flag=CA }:: ::dizzywood3::{ user=15648394 } |
-| **Dual Mania'cs** | ::{ flag=UA }:: **::jrjin228::{ user=19927608 }**, ::{ flag=PH }:: ::Drew\1TheMaster::{ user=13455818 } |
-| **El Fortnite Legends \[EFL\]** | ::{ flag=MA }:: **::ZeD\1::{ user=14973137 }**, ::{ flag=MA }:: ::Enissay::{ user=26637662 }, ::{ flag=ES }:: ::P\1F\1C\1PRO::{ user=23731093 } |
+| **Dual Mania'cs** | ::{ flag=UA }:: **::jrjin228::{ user=19927608 }**, ::{ flag=PH }:: ::Drew_TheMaster::{ user=13455818 } |
+| **El Fortnite Legends \[EFL\]** | ::{ flag=MA }:: **::ZeD_::{ user=14973137 }**, ::{ flag=MA }:: ::Enissay::{ user=26637662 }, ::{ flag=ES }:: ::P_F_C_PRO::{ user=23731093 } |
 | **eswatini (real) + 1** | ::{ flag=US }:: **::cyger::{ user=20020441 }**, ::{ flag=CA }:: ::7Reinn-::{ user=25766718 }, ::{ flag=US }:: ::Cirbyy::{ user=15582703 }, ::{ flag=CA }:: ::\[OSG\] rosetta::{ user=27166588 } |
 | **Extreme Reimu Admirers** | ::{ flag=US }:: **::junglesnipes::{ user=9709652 }**, ::{ flag=CA }:: ::ZeMaB::{ user=15633324 }, ::{ flag=US }:: ::ERA Imperial::{ user=5066305 }, ::{ flag=US }:: ::ERA Zenith::{ user=7128063 } |
 | **Fortniteloliclub** | ::{ flag=MX }:: **::TheMoonLoop::{ user=15628036 }**, ::{ flag=CL }:: ::KrNatomi::{ user=15922672 }, ::{ flag=BO }:: ::xhalez::{ user=21478615 } |
-| **Fumados** | **::altros::{ user=10794280 }**, ::{ flag=MX }:: ::Shadow\1GM::{ user=19554046 }, ::{ flag=PA }:: ::Bolelo::{ user=23819962 }, ::{ flag=MX }:: ::Darkhechiser::{ user=23392961 } |
-| **Fumi gaming** | ::{ flag=CZ }:: **::huypham\1gm::{ user=16978354 }**, ::{ flag=VN }:: ::Qi-ryu::{ user=21211350 }, ::{ flag=VN }:: ::HuyK4sp3r::{ user=18071968 } |
-| **Goofy Team** | ::{ flag=FR }:: **::Kaya\1::{ user=11643399 }**, ::{ flag=FR }:: ::Hazalax::{ user=8916324 }, ::{ flag=FR }:: ::makiba dt::{ user=12214401 } |
-| **Great Value Xanthan Gum** | ::{ flag=US }:: **::Crogzy Wogzy::{ user=25727211 }**, ::{ flag=GB }:: ::Chimchar::{ user=18646531 }, ::{ flag=US }:: ::\1jpg::{ user=17300655 }, ::{ flag=ID }:: ::\[ReyZ\]::{ user=16768803 } |
-| **gyoza+VN bois in Gensokyo** | ::{ flag=VN }:: **::Lott::{ user=13821222 }**, ::{ flag=VN }:: ::magnifestio::{ user=22725724 }, ::{ flag=JP }:: ::gyoza\1goki::{ user=18144664 }, ::{ flag=VN }:: ::\[LS\]Vixile::{ user=26233321 } |
+| **Fumados** | **::altros::{ user=10794280 }**, ::{ flag=MX }:: ::Shadow_GM::{ user=19554046 }, ::{ flag=PA }:: ::Bolelo::{ user=23819962 }, ::{ flag=MX }:: ::Darkhechiser::{ user=23392961 } |
+| **Fumi gaming** | ::{ flag=CZ }:: **::huypham_gm::{ user=16978354 }**, ::{ flag=VN }:: ::Qi-ryu::{ user=21211350 }, ::{ flag=VN }:: ::HuyK4sp3r::{ user=18071968 } |
+| **Goofy Team** | ::{ flag=FR }:: **::Kaya_::{ user=11643399 }**, ::{ flag=FR }:: ::Hazalax::{ user=8916324 }, ::{ flag=FR }:: ::makiba dt::{ user=12214401 } |
+| **Great Value Xanthan Gum** | ::{ flag=US }:: **::Crogzy Wogzy::{ user=25727211 }**, ::{ flag=GB }:: ::Chimchar::{ user=18646531 }, ::{ flag=US }:: ::_jpg::{ user=17300655 }, ::{ flag=ID }:: ::\[ReyZ\]::{ user=16768803 } |
+| **gyoza+VN bois in Gensokyo** | ::{ flag=VN }:: **::Lott::{ user=13821222 }**, ::{ flag=VN }:: ::magnifestio::{ user=22725724 }, ::{ flag=JP }:: ::gyoza_goki::{ user=18144664 }, ::{ flag=VN }:: ::\[LS\]Vixile::{ user=26233321 } |
 | **Haguki Brothers** | ::{ flag=JP }:: **::jhleetgirl::{ user=10745260 }**, ::{ flag=JP }:: ::CrewK::{ user=11488604 } |
 | **hasale sum balls** | ::{ flag=ID }:: **::Oofyxl::{ user=20599160 }**, ::{ flag=ID }:: ::\[LS\]Robi::{ user=21900872 }, ::{ flag=ID }:: ::Fr05tyGD::{ user=14230684 }, ::{ flag=TH }:: ::konkawe::{ user=15665805 } |
 | **hey babe hop on overwatch** | ::{ flag=BR }:: **::-wahl-::{ user=29727936 }**, ::{ flag=BR }:: ::braianxit::{ user=29915327 } |
 | **Hot Guys from Gensokyo** | ::{ flag=SE }:: **::NeonDrakon::{ user=6315000 }**, ::{ flag=DE }:: ::ERA medium kek::{ user=11625617 }, ::{ flag=KR }:: ::yz1155::{ user=2071008 }, ::{ flag=TH }:: ::AomDCO::{ user=21072569 } |
-| **KingOfKongKong** | ::{ flag=FR }:: **::ssiizz\1::{ user=16487992 }**, ::{ flag=FR }:: ::Arsene30::{ user=33011176 } |
+| **KingOfKongKong** | ::{ flag=FR }:: **::ssiizz_::{ user=16487992 }**, ::{ flag=FR }:: ::Arsene30::{ user=33011176 } |
 | **kyaChiπ** | ::{ flag=PE }:: **::-Lalito898::{ user=15098503 }**, ::{ flag=PE }:: ::FabrizzioGd::{ user=18693260 }, ::{ flag=US }:: ::Ex0n::{ user=21684169 }, ::{ flag=PE }:: ::7eo-::{ user=15769288 } |
 | **La Añarmy** | ::{ flag=PE }:: **::AkemiWaton::{ user=22660023 }**, ::{ flag=PE }:: ::\[ Defuu- \]::{ user=25129861 } |
 | **Last But Not Least** | ::{ flag=FR }:: **::PouletFurtif::{ user=1271018 }**, ::{ flag=FR }:: ::\[Trz\] Zulsramno::{ user=12563193 } |
-| **let Miyoi cook noodle** | ::{ flag=BH }:: **::Unitori-::{ user=15772814 }**, ::{ flag=GB }:: ::--Dragon--::{ user=11924624 }, ::{ flag=QA }:: ::cyta\1::{ user=15444660 }, ::{ flag=HK }:: ::DC2\1727::{ user=17483369 } |
-| **Literally touhouing rn** | ::{ flag=IT }:: **::Eitherdiamond19::{ user=20705155 }**, ::{ flag=NO }:: ::Chrisse::{ user=18382591 }, ::{ flag=FR }:: ::Le\1Zozoien::{ user=25354335 }, ::{ flag=IT }:: ::Carlo1998::{ user=15590332 } |
+| **let Miyoi cook noodle** | ::{ flag=BH }:: **::Unitori-::{ user=15772814 }**, ::{ flag=GB }:: ::--Dragon--::{ user=11924624 }, ::{ flag=QA }:: ::cyta_::{ user=15444660 }, ::{ flag=HK }:: ::DC2_727::{ user=17483369 } |
+| **Literally touhouing rn** | ::{ flag=IT }:: **::Eitherdiamond19::{ user=20705155 }**, ::{ flag=NO }:: ::Chrisse::{ user=18382591 }, ::{ flag=FR }:: ::Le_Zozoien::{ user=25354335 }, ::{ flag=IT }:: ::Carlo1998::{ user=15590332 } |
 | **ln offenders** | ::{ flag=KR }:: **::vanstav::{ user=17336213 }**, ::{ flag=KR }:: ::hato::{ user=19838492 } |
-| **Los Bacalaos** | ::{ flag=PR }:: **::Dari\1::{ user=15905527 }**, ::{ flag=PR }:: ::\[LS\]Jadix::{ user=19735496 }, ::{ flag=PR }:: ::augie-::{ user=17753250 }, ::{ flag=PR }:: ::FoxyGaming398YT\1old::{ user=14322727 } |
+| **Los Bacalaos** | ::{ flag=PR }:: **::Dari_::{ user=15905527 }**, ::{ flag=PR }:: ::\[LS\]Jadix::{ user=19735496 }, ::{ flag=PR }:: ::augie-::{ user=17753250 }, ::{ flag=PR }:: ::FoxyGaming398YT_old::{ user=14322727 } |
 | **Los pe bastidas E-Sports** | ::{ flag=PE }:: **::ERA Xuste::{ user=17989444 }**, ::{ flag=PE }:: ::henryalexbr::{ user=23528661 }, ::{ flag=PE }:: ::\[Crz\]RafaelPC::{ user=23297156 }, ::{ flag=PE }:: ::Pokedogga::{ user=21682880 } |
 | **los tilines** | ::{ flag=AR }:: **::C90::{ user=13858488 }**, ::{ flag=MX }:: ::\[BBC\] -Zanix-::{ user=21819427 }, ::{ flag=CL }:: ::brunaso::{ user=22386768 }, ::{ flag=AR }:: ::Greedom::{ user=10696707 } |
 | **Lostcool my beloved** | ::{ flag=TH }:: **::palmEuEi::{ user=13656264 }**, ::{ flag=TH }:: ::bokuwahokku::{ user=9565593 }, ::{ flag=TH }:: ::yoth99::{ user=15727775 } |
 | **MAGARODON XXX** | ::{ flag=TH }:: **::pboo2424::{ user=17303433 }**, ::{ flag=TH }:: ::Monpluk::{ user=23299675 } |
 | **Mangle Dan** | ::{ flag=KR }:: **::SuddenDeath::{ user=6699923 }**, ::{ flag=KR }:: ::Lami-::{ user=16505281 }, ::{ flag=KR }:: ::H5N::{ user=26140861 }, ::{ flag=KR }:: ::VanillaLatte::{ user=10329095 } |
-| **Mania Kung Fu Generation** | ::{ flag=IT }:: **::Veryi::{ user=13878539 }**, ::{ flag=VN }:: ::CPT\1Sivelia::{ user=12562107 }, ::{ flag=PH }:: ::Silicosis::{ user=15548876 }, ::{ flag=DE }:: ::Jkzu123::{ user=15806513 } |
+| **Mania Kung Fu Generation** | ::{ flag=IT }:: **::Veryi::{ user=13878539 }**, ::{ flag=VN }:: ::CPT_Sivelia::{ user=12562107 }, ::{ flag=PH }:: ::Silicosis::{ user=15548876 }, ::{ flag=DE }:: ::Jkzu123::{ user=15806513 } |
 | **Marisa Meme (Touhou)** | ::{ flag=IT }:: **::Kiraz::{ user=3807675 }**, ::{ flag=IT }:: ::Bestfast::{ user=11616192 }, ::{ flag=IT }:: ::\[SPNG\] Sim0::{ user=3262821 } |
-| **messi chiquito** | ::{ flag=AR }:: **::clonedroid::{ user=21114236 }**, ::{ flag=ES }:: ::ErAlvagitusXD::{ user=25769893 }, ::{ flag=CL }:: ::emi\1dake::{ user=24181636 } |
+| **messi chiquito** | ::{ flag=AR }:: **::clonedroid::{ user=21114236 }**, ::{ flag=ES }:: ::ErAlvagitusXD::{ user=25769893 }, ::{ flag=CL }:: ::emi_dake::{ user=24181636 } |
 | **Metal Pipe SFX** | ::{ flag=RO }:: **::Kiirbo::{ user=14985143 }**, ::{ flag=RO }:: ::RteEz::{ user=15265534 }, ::{ flag=ID }:: ::Chronal::{ user=20811736 } |
 | **Mew's Bodyguards** | ::{ flag=FR }:: **::DarkMew2::{ user=13921965 }**, ::{ flag=PH }:: ::bojii::{ user=10083439 }, ::{ flag=US }:: ::\[LS\]Mitter::{ user=14551764 }, ::{ flag=SG }:: ::-Aishiteru-::{ user=13390529 } |
 | **Milo Truck Drivers** | ::{ flag=MY }:: **::Onlinee::{ user=13630137 }**, ::{ flag=MY }:: ::\[MY\]Sol::{ user=12054898 }, ::{ flag=MY }:: ::JayLye::{ user=14892447 }, ::{ flag=MY }:: ::IvanOfficial::{ user=12818249 } |
 | **Niflheim** | ::{ flag=ID }:: **::KinoJourney::{ user=15798093 }**, ::{ flag=ID }:: ::\[ -Asriel- \]::{ user=11829623 } |
-| **Noodle Team** | ::{ flag=RO }:: **::Lowuki::{ user=18341280 }**, ::{ flag=RO }:: ::Lifilled::{ user=11711666 }, ::{ flag=RO }:: ::Mich\1::{ user=11784492 }, ::{ flag=RO }:: ::Bluestone413::{ user=17705451 } |
+| **Noodle Team** | ::{ flag=RO }:: **::Lowuki::{ user=18341280 }**, ::{ flag=RO }:: ::Lifilled::{ user=11711666 }, ::{ flag=RO }:: ::Mich_::{ user=11784492 }, ::{ flag=RO }:: ::Bluestone413::{ user=17705451 } |
 | **nyanya** | ::{ flag=CN }:: **::\[GB\]mmttyy233::{ user=28639641 }**, ::{ flag=CN }:: ::\[GB\]nyasun::{ user=16277321 }, ::{ flag=CN }:: ::\[GB\]ParasolTree::{ user=27552902 }, ::{ flag=CN }:: ::xc165543337::{ user=15246697 } |
-| **oblikulivo** | ::{ flag=GB }:: **::MiniEgg\123::{ user=25914360 }**, ::{ flag=GB }:: ::Abyss 0::{ user=24780565 } |
+| **oblikulivo** | ::{ flag=GB }:: **::MiniEgg_23::{ user=25914360 }**, ::{ flag=GB }:: ::Abyss 0::{ user=24780565 } |
 | **Partly Zesty** | ::{ flag=US }:: **::\[LS\]Picklez::{ user=19589233 }**, ::{ flag=US }:: ::\[LS\]Dev::{ user=16407268 }, ::{ flag=US }:: ::\[LS\]Mari::{ user=15270411 }, ::{ flag=CA }:: ::ERA Mystiik::{ user=17242265 } |
 | **Pear Pair** | ::{ flag=FI }:: **::Eezkuliz::{ user=15190519 }**, ::{ flag=NG }:: ::KidFast::{ user=17815168 } |
 | **Pendejos No Duran Nada** | ::{ flag=CO }:: **::billabong89::{ user=13896159 }**, ::{ flag=CO }:: ::2kyFangirl::{ user=10442657 }, ::{ flag=CO }:: ::Dacraf::{ user=22610631 }, ::{ flag=CO }:: ::Saikuto::{ user=22095766 } |
@@ -135,19 +135,19 @@ The Touhou Project Mania Cup 3rd was run by the THMC team and various community 
 | **retail store** | ::{ flag=US }:: **::PixlYoshi::{ user=17333685 }**, ::{ flag=US }:: ::ketzu::{ user=13557639 }, ::{ flag=US }:: ::thatcow::{ user=10629473 }, ::{ flag=VN }:: ::Yuzuki::{ user=8447861 } |
 | **Roblox Fumo Tycoon** | ::{ flag=IE }:: **::iParacosm::{ user=19466314 }**, ::{ flag=US }:: ::Tonels::{ user=15179858 }, ::{ flag=IE }:: ::-Nightkore::{ user=26311862 }, ::{ flag=US }:: ::himynameiscyril::{ user=30645132 } |
 | **rock lobsters** | ::{ flag=ES }:: **::cartografiar::{ user=16118849 }**, ::{ flag=ES }:: ::ime::{ user=11649450 }, ::{ flag=ES }:: ::Enthalpy::{ user=9552883 }, ::{ flag=ES }:: ::White Hare::{ user=19687112 } |
-| **RuJackMains** | ::{ flag=RU }:: **::Nepko::{ user=11898245 }**, ::{ flag=RU }:: ::-Oni-Chan-::{ user=10036005 }, ::{ flag=RU }:: ::Soldier\1Hibi::{ user=18867357 }, ::{ flag=RU }:: ::MRKarl::{ user=26995459 } |
+| **RuJackMains** | ::{ flag=RU }:: **::Nepko::{ user=11898245 }**, ::{ flag=RU }:: ::-Oni-Chan-::{ user=10036005 }, ::{ flag=RU }:: ::Soldier_Hibi::{ user=18867357 }, ::{ flag=RU }:: ::MRKarl::{ user=26995459 } |
 | **shafish** | ::{ flag=TW }:: **::shashashasha::{ user=18888616 }**, ::{ flag=TW }:: ::jackyjacky607::{ user=16191405 }, ::{ flag=TW }:: ::linjingyan528::{ user=14627441 } |
 | **shawarma beurre** | ::{ flag=AE }:: **::dragiee::{ user=17959501 }**, ::{ flag=FR }:: ::narahashi::{ user=18867523 }, ::{ flag=FR }:: ::Babibelbleu::{ user=16892459 }, ::{ flag=AE }:: ::Phagosaur::{ user=11365333 } |
 | **Speed Chicken** | ::{ flag=BR }:: **::MilesNoobkk::{ user=22656756 }**, ::{ flag=BR }:: ::Buvuw::{ user=22921542 }, ::{ flag=BR }:: ::Miku Meru::{ user=18943504 }, ::{ flag=DE }:: ::araciumhd::{ user=15882740 } |
-| **STRONG 280000000** | ::{ flag=JP }:: **::ICECAKE::{ user=16100800 }**, ::{ flag=JP }:: ::9990\1y::{ user=25588443 }, ::{ flag=JP }:: ::yomogi237::{ user=28571440 }, ::{ flag=JP }:: ::Bacon Haniwa::{ user=16562681 } |
-| **Sugos Sweep** | ::{ flag=CA }:: **::dolen::{ user=13145344 }**, ::{ flag=ID }:: ::iSxga::{ user=15801261 }, ::{ flag=US }:: ::Sugos\1::{ user=18667256 }, ::{ flag=US }:: ::YoungBurger14::{ user=16787675 } |
+| **STRONG 280000000** | ::{ flag=JP }:: **::ICECAKE::{ user=16100800 }**, ::{ flag=JP }:: ::9990_y::{ user=25588443 }, ::{ flag=JP }:: ::yomogi237::{ user=28571440 }, ::{ flag=JP }:: ::Bacon Haniwa::{ user=16562681 } |
+| **Sugos Sweep** | ::{ flag=CA }:: **::dolen::{ user=13145344 }**, ::{ flag=ID }:: ::iSxga::{ user=15801261 }, ::{ flag=US }:: ::Sugos_::{ user=18667256 }, ::{ flag=US }:: ::YoungBurger14::{ user=16787675 } |
 | **Taiwan peace** | ::{ flag=US }:: **::Yeeterboi135::{ user=25283583 }**, ::{ flag=US }:: ::Cheemsball::{ user=21810979 } |
 | **Taylor Swift Fanboys** | ::{ flag=CA }:: **::walmart5193::{ user=16468962 }**, ::{ flag=CA }:: ::arpia97::{ user=6363008 }, ::{ flag=CA }:: ::mae0149::{ user=9188975 }, ::{ flag=CA }:: ::UmmmMrMoo::{ user=15314355 } |
 | **Team Inflation** | ::{ flag=AR }:: **::stupid femboy::{ user=28439927 }**, ::{ flag=AR }:: ::-Mitsubishi::{ user=27257701 }, ::{ flag=VE }:: ::mAxkale::{ user=24360169 }, ::{ flag=PE }:: ::diaz amancay::{ user=30853145 } |
 | **The Benchwarmers** | ::{ flag=US }:: **::PorkIsGreat::{ user=10756322 }**, ::{ flag=SE }:: ::Johnney101::{ user=11928361 }, ::{ flag=US }:: ::Breaker1233::{ user=23491397 }, ::{ flag=US }:: ::TPColor::{ user=19102458 } |
 | **the farters** | ::{ flag=NZ }:: **::memewhat123::{ user=21846136 }**, ::{ flag=US }:: ::FloopChoop::{ user=25156022 }, ::{ flag=NZ }:: ::do you fart::{ user=15690480 } |
-| **The Funkineers** | ::{ flag=US }:: **::NotJustR3D::{ user=25916084 }**, ::{ flag=TH }:: ::1NCredibleBacon::{ user=21921071 }, ::{ flag=PH }:: ::c\1latte::{ user=22668430 }, ::{ flag=US }:: ::Voolish::{ user=27446450 } |
-| **the malaysians** | ::{ flag=MY }:: **::Qosu\1::{ user=25660423 }**, ::{ flag=MY }:: ::\[MY\] Ril::{ user=13359872 }, , ::{ flag=MY }:: ::ClassicNickey::{ user=26468007 }, ::{ flag=MY }:: ::VASD Player::{ user=29929002 } |
+| **The Funkineers** | ::{ flag=US }:: **::NotJustR3D::{ user=25916084 }**, ::{ flag=TH }:: ::1NCredibleBacon::{ user=21921071 }, ::{ flag=PH }:: ::c_latte::{ user=22668430 }, ::{ flag=US }:: ::Voolish::{ user=27446450 } |
+| **the malaysians** | ::{ flag=MY }:: **::Qosu_::{ user=25660423 }**, ::{ flag=MY }:: ::\[MY\] Ril::{ user=13359872 }, , ::{ flag=MY }:: ::ClassicNickey::{ user=26468007 }, ::{ flag=MY }:: ::VASD Player::{ user=29929002 } |
 | **The Rhythm Thieves** | ::{ flag=HK }:: **::Pofnkul::{ user=23717210 }**, ::{ flag=US }:: ::KimMui::{ user=26090734 }, ::{ flag=SG }:: ::skythedumbdumb::{ user=21749745 }, ::{ flag=PH }:: ::Jarodpog::{ user=23604857 } |
 | **thonk** | ::{ flag=NZ }:: **::JimmyEpic::{ user=28831164 }**, ::{ flag=ID }:: ::Nqinn::{ user=11312272 }, ::{ flag=VN }:: ::Frostleaf::{ user=11863174 }, ::{ flag=US }:: ::RED POCKET::{ user=10274449 } |
 | **thug hunters** | ::{ flag=US }:: **::beta carotene::{ user=22839620 }**, ::\[LS\] breadles::{ user=25981673 }, ::{ flag=US }:: ::\[LS\]Ko::{ user=18983998 }, ::{ flag=US }:: ::z2a::{ user=12542173 } |
@@ -160,7 +160,7 @@ The Touhou Project Mania Cup 3rd was run by the THMC team and various community 
 | **who cooked this team** | ::{ flag=RU }:: **::Kloofhi::{ user=29627572 }**, ::{ flag=US }:: ::- Sky -::{ user=15255368 }, ::{ flag=RU }:: ::Waring0::{ user=24972284 }, ::{ flag=MY }:: ::\[Mom\] Edmund::{ user=21015090 } |
 | **whoever tf they are** | ::{ flag=FI }:: **::Albania Illya::{ user=10393606 }**, ::{ flag=FI }:: ::Fisu::{ user=35431390 }, ::{ flag=DE }:: ::ERA Leo::{ user=15440118 }, ::{ flag=DE }:: ::Cyaewin::{ user=10027302 } |
 | **Winx Club** | ::{ flag=BR }:: **::LeMarcinho::{ user=13347579 }**, ::{ flag=BR }:: ::DemiFiendSMT::{ user=20051971 }, ::{ flag=US }:: ::\[GS\]linc::{ user=12093536 }, ::{ flag=PH }:: ::Silhoueska Elze::{ user=11517895 } |
-| **yotsubaStare@YummyBuffet** | ::{ flag=US }:: **::SunApple::{ user=11817622 }**, ::{ flag=US }:: ::\1Seth::{ user=8111953 }, ::{ flag=US }:: ::-mint-::{ user=8976576 }, ::{ flag=US }:: ::\[GS\]Astra::{ user=15835499 } |
+| **yotsubaStare@YummyBuffet** | ::{ flag=US }:: **::SunApple::{ user=11817622 }**, ::{ flag=US }:: ::_Seth::{ user=8111953 }, ::{ flag=US }:: ::-mint-::{ user=8976576 }, ::{ flag=US }:: ::\[GS\]Astra::{ user=15835499 } |
 | **Zonrox GentleClean** | ::{ flag=PH }:: **::Silicosis 2::{ user=18560307 }**, ::{ flag=PH }:: ::ManiaDegengod::{ user=13193798 }, ::{ flag=PH }:: ::DiamondGenius75::{ user=19107638 }, ::{ flag=PH }:: ::jianawesome22::{ user=23609936 } |
 
 ## Podium

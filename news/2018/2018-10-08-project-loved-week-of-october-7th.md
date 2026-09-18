@@ -92,7 +92,7 @@ Many of you may recognize this iconic scene from The Simpsons; it's an everlasti
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by ::Backfire::{ user=263110 }, ::-\1 ix Ishida xi \1-::{ user=242910 }, ::-Kazu-::{ user=920861 }, ::iceOC::{ user=5482401 } and ::nyanmi-1828::{ user=6866480 }!
+osu!taiko Loved candidates were chosen by ::Backfire::{ user=263110 }, ::-[ ix Ishida xi ]-::{ user=242910 }, ::-Kazu-::{ user=920861 }, ::iceOC::{ user=5482401 } and ::nyanmi-1828::{ user=6866480 }!
 
 ---
 

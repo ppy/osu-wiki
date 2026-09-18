@@ -48,7 +48,7 @@ Les personnes listées ci-dessous constituent le cœur de **l'osu! team** et son
 | ::{ flag=CN }:: ::Sakura006::{ user=10365024 } | Coordinateur de la conception de la World Cup |
 | ::{ flag=FR }:: ::Shiro::{ user=113005 } | Intendant général |
 | ::{ flag=AU }:: ::smoogipoo::{ user=1040328 } | Développeur d'osu!, amoureux d'osu!mania, chasseur de bugs |
-| ::{ flag=PL }:: ::spaceman\1atlas::{ user=3035836 } | Développeur d'osu! |
+| ::{ flag=PL }:: ::spaceman_atlas::{ user=3035836 } | Développeur d'osu! |
 | ::{ flag=GB }:: ::Tanza::{ user=10379965 } | Designer |
 | ::{ flag=FR }:: ::ThePooN::{ user=718454 } | développeur d'infrastructure d'osu! |
 | ::{ flag=ES }:: ::Trosk-::{ user=3469385 } | Intendant général, support aux tournois |

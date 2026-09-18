@@ -55,7 +55,7 @@ And here's [a brand-new osu!mania map](https://osu.ppy.sh/beatmapsets/2032450) h
 
 ### beignet - S'more
 
-Enjoy one last [osu! map](https://osu.ppy.sh/beatmapsets/2050540) hosted by ::Stompy\1::{ user=16429579 }!
+Enjoy one last [osu! map](https://osu.ppy.sh/beatmapsets/2050540) hosted by ::Stompy_::{ user=16429579 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/377/renew%20memory/beignet%20-%20S_more.mp3">

@@ -33,7 +33,7 @@ Wondering if anyone got first dibs more than once? Here's a top 14 leaderboard j
 | ::{ flag=HK }:: ::Novoids::{ user=5163523 } | 8 |
 | ::{ flag=US }:: ::LuigiHann::{ user=1079 } | 6 |
 | ::{ flag=PT }:: ::Alucard96::{ user=3849450 } | 3 |
-| ::{ flag=DE }:: ::Bin\1AFK::{ user=5840659 } | 3 |
+| ::{ flag=DE }:: ::Bin_AFK::{ user=5840659 } | 3 |
 | ::{ flag=NZ }:: ::Echo::{ user=431 } | 3 |
 | ::{ flag=NO }:: ::MillhioreF::{ user=941094 } | 3 |
 | ::{ flag=BR }:: ::Murin::{ user=13771539 } | 3 |

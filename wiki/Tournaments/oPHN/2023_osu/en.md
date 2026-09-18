@@ -42,7 +42,7 @@ The osu! Philippines Nationals 2023 - osu! was run by various community members.
 | Host | ::{ flag=PH }:: ::ToshiroKen::{ user=9550257 }, ::{ flag=PH }:: ::EnIite::{ user=13470730 }, ::{ flag=PH }:: ::topecnz::{ user=2103927 } |
 | Mappool selector | ::{ flag=PH }:: ::xidorn::{ user=7904667 }, ::{ flag=PH }:: ::konawiki::{ user=4003979 }, ::{ flag=PH }:: ::Dylann::{ user=14687489 }, ::{ flag=PH }:: ::iFinixe::{ user=10501608 }, ::{ flag=PH }:: ::samosita::{ user=6090289 }, ::{ flag=PH }:: ::Onegai::{ user=11849100 }, ::{ flag=FR }:: ::jehukm::{ user=10981418 }, ::{ flag=PH }:: ::Cohue::{ user=12538598 } |
 | Custom mapper | ::{ flag=PH }:: ::Anastaxia::{ user=5375302 }, ::{ flag=PH }:: ::Rayne Sylvania::{ user=4573205 }, ::{ flag=PH }:: ::CodeLBG::{ user=22518117 } |
-| Statistician | ::{ flag=PH }:: ::SurfChu85::{ user=4469895 }, ::{ flag=PH }:: ::-\1Pochi\1-::{ user=18293050 }, ::{ flag=NL }:: ::Albionthegreat::{ user=9853595 } |
+| Statistician | ::{ flag=PH }:: ::SurfChu85::{ user=4469895 }, ::{ flag=PH }:: ::-[Pochi]-::{ user=18293050 }, ::{ flag=NL }:: ::Albionthegreat::{ user=9853595 } |
 | Designer | ::{ flag=PH }:: ::FLCammo::{ user=18789292 }, ::{ flag=PH }:: ::yukina meng::{ user=18789292 } |
 | Streamer | ::{ flag=VN }:: ::ShadeCegLgMn::{ user=12609866 }, ::{ flag=PH }:: ::GADO::{ user=1519847 } |
 | Commentator | ::{ flag=PH }:: ::vdc::{ user=5315077 }, ::{ flag=PH }:: ::caetrn::{ user=18425276 }, ::{ flag=PH }:: ::snappyguy::{ user=9396986 }, ::{ flag=US }:: ::ERA PorkIsGreat::{ user=10756322 }, ::{ flag=PH }:: ::-Graigory-::{ user=14024170 }, ::{ flag=PH }:: ::Hinatsuru Ai::{ user=10442993 }, ::{ flag=PH }:: ::Miyazumi::{ user=7991329 }, ::{ flag=PH }:: ::Casual Hexagons::{ user=14104256 }, ::{ flag=PH }:: ::Dylann::{ user=14687489 }, ::{ flag=PH }:: ::-elirapendora-::{ user=13471724 }, ::{ flag=PH }:: ::Silhoueska Elze::{ user=11517895 } |
@@ -65,7 +65,7 @@ The osu! Philippines Nationals 2023 - osu! was run by various community members.
 - ::{ flag=PH }:: ::LordGabriel::{ user=9227895 }
 - ::{ flag=PH }:: ::2 and eight::{ user=8923608 }
 - ::{ flag=PH }:: ::CircIes::{ user=9930573 }
-- ::{ flag=PH }:: ::distant\1waves::{ user=16702873 }
+- ::{ flag=PH }:: ::distant_waves::{ user=16702873 }
 - ::{ flag=PH }:: ::OsuSeulgiDragon::{ user=6073492 }
 - ::{ flag=PH }:: ::Binninja::{ user=12110337 }
 - ::{ flag=PH }:: ::Oliaulin::{ user=15038240 }
@@ -73,13 +73,13 @@ The osu! Philippines Nationals 2023 - osu! was run by various community members.
 - ::{ flag=PH }:: ::-Graigory-::{ user=14024170 }
 - ::{ flag=PH }:: ::fixedbyglue::{ user=8296269 }
 - ::{ flag=PH }:: ::Segawa Emi::{ user=11865009 }
-- ::{ flag=PH }:: ::ChaeY\1Milk::{ user=10383440 }
+- ::{ flag=PH }:: ::ChaeY_Milk::{ user=10383440 }
 - ::{ flag=PH }:: ::DataUser::{ user=12315498 }
 - ::{ flag=PH }:: ::Balma::{ user=12023323 }
 - ::{ flag=PH }:: ::scuri::{ user=19709801 }
 - ::{ flag=PH }:: ::tairizu19::{ user=12325702 }
 - ::{ flag=PH }:: ::XernX::{ user=9391291 }
-- ::{ flag=PH }:: ::Lunasen\1::{ user=15216246 }
+- ::{ flag=PH }:: ::Lunasen_::{ user=15216246 }
 - ::{ flag=PH }:: ::BananaMNM8210::{ user=14664996 }
 - ::{ flag=PH }:: ::bluezenithgames::{ user=12681578 }
 - ::{ flag=PH }:: ::Splenden::{ user=18482228 }
@@ -93,9 +93,9 @@ The osu! Philippines Nationals 2023 - osu! was run by various community members.
 - ::{ flag=PH }:: ::Pupinia Stewart::{ user=15322508 }
 - ::{ flag=PH }:: ::MarvelWizardKH::{ user=5356586 }
 - ::{ flag=PH }:: ::T-Spin-Double::{ user=8249051 }
-- ::{ flag=PH }:: ::\1Ana::{ user=10623652 }
+- ::{ flag=PH }:: ::_Ana::{ user=10623652 }
 - ::{ flag=PH }:: ::JayAreEee::{ user=10852557 }
-- ::{ flag=PH }:: ::rwnd\1::{ user=14916935 }
+- ::{ flag=PH }:: ::rwnd_::{ user=14916935 }
 - ::{ flag=PH }:: ::Desmond823::{ user=14582737 }
 - ::{ flag=PH }:: ::Yukixo::{ user=17847877 }
 - ::{ flag=PH }:: ::GADO::{ user=1519847 }

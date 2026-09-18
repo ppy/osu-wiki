@@ -31,7 +31,7 @@ Check out [this multi-mode mapset](https://osu.ppy.sh/beatmapsets/2247612) hoste
 
 ### [ZVLIAN - Worlds](https://assets.ppy.sh/artists/455/Worlds/ZVLIAN%20-%20Worlds.osz)
 
-Or try [this quick map](https://osu.ppy.sh/beatmapsets/2240082) hosted by ::Nytrocide\1::{ user=11327918 }!
+Or try [this quick map](https://osu.ppy.sh/beatmapsets/2240082) hosted by ::Nytrocide_::{ user=11327918 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/455/Worlds/ZVLIAN%20-%20Worlds.mp3">

@@ -118,7 +118,7 @@ osu! ekibinin emektar eski üyelerinden oluşan [osu! Alumni](/wiki/People/osu!_
 | ::{ flag=AU }:: ::Syrin::{ user=5701575 } | PerformancePlus ve osu!chan'ın yaratıcısı |
 | ::{ flag=SG }:: ::Raveille::{ user=1388767 } | Scorewatch projesinin yapımında ve yayımlanmasında olağanüstü gayret |
 | ::{ flag=FR }:: ::ThePooN::{ user=718454 } | Scorewatch projesinin yapımında ve yayımlanmasında olağanüstü gayret |
-| ::{ flag=US }:: ::MegaApple\1Pi::{ user=2148208 } | Sayısız gözden geçirme ve yeniden düzenleme ile osu! wiki projesinin sürdürülmesinde olağanüstü gayret |
+| ::{ flag=US }:: ::MegaApple_Pi::{ user=2148208 } | Sayısız gözden geçirme ve yeniden düzenleme ile osu! wiki projesinin sürdürülmesinde olağanüstü gayret |
 | ::{ flag=PL }:: ::TPGPL::{ user=3944705 } | osu! wiki projesinin mihenktaşı ve yıllardan beri süregelen olağanüstü katkı |
 
 ## 2019
@@ -194,7 +194,7 @@ osu! ekibinin emektar eski üyelerinden oluşan [osu! Alumni](/wiki/People/osu!_
 | ::{ flag=DE }:: ::hallowatcher::{ user=1874761 } | Topluluk etkinliklerine ve gelişimine olağanüstü katkı |
 | ::{ flag=GB }:: ::mangomizer::{ user=1893718 } | Dünya Kupalarına ve topluluk etkinliklerine olağanüstü katkı |
 | ::{ flag=DE }:: ::Lasse::{ user=896613 } | Mapleme ve modlama sahnesine olağanüstü katkı |
-| ::{ flag=PL }:: ::spaceman\1atlas::{ user=3035836 } | Birçok proje üzerinden osu!'nun gelişimine olağanüstü katkı |
+| ::{ flag=PL }:: ::spaceman_atlas::{ user=3035836 } | Birçok proje üzerinden osu!'nun gelişimine olağanüstü katkı |
 | ::{ flag=DE }:: ::RockRoller::{ user=8388854 } | osu! tema oluşturma ve moderasyon sahnesine olağanüstü katkı |
 | ::{ flag=US }:: ::I Must Decrease::{ user=2773526 } | Puanlama bakımı ve gelişimine olağanüstü katkı |
 | ::{ flag=US }:: ::this1neguy::{ user=1797189 } | Dünya Kupalarına ve topluluk turnuvaları sahnesine olağanüstü katkı |

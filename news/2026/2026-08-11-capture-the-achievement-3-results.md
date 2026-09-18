@@ -89,7 +89,7 @@ Building on the feedback from last year, the staff team did an excellent job wit
 | Description | Oh no! Someone has managed to break through CTA's security and now has access to all of the achievements. Help Sheppsu get to his computer and secure the website before the entire event is ruined! [Sudoku link](https://sudokupad.app/kaaseybimd) and [help doc](https://docs.google.com/document/d/1Mt5tFioZzcGWoVHnHJBrDXkBFeEUJ5nXuDv6WDTtpUw/edit?tab=t.0). |
 | Tags | Math, Password, Puzzle, Secret |
 | Mode | Any |
-| Creator | ::{ flag=GB }:: ::Lunar\1::{ user=13688990 } |
+| Creator | ::{ flag=GB }:: ::Lunar_::{ user=13688990 } |
 | Completions | 46 |
 | Solution | [Click here](https://cta.sheppsu.me/achievements/443) |
 | First completion | ::{ flag=US }:: ::Cocoamallows::{ user=9436126 } after 49 minutes and 50 seconds |
@@ -149,7 +149,7 @@ This was quite a learning curve for myself, as I knew nothing about storyboardin
 | Mode | Standard |
 | Creator | ::{ flag=CA }:: ::yandax::{ user=17465623 } |
 | Completions | 39 |
-| Best completion | ::{ flag=JP }:: ::RAiMEi\1BOTTliUM::{ user=18212788 } with 601 sliderends hit after 3 days and 6 hours. Watch the replay [here](https://www.twitch.tv/videos/2819161566?t=1h3m4s). |
+| Best completion | ::{ flag=JP }:: ::RAiMEi_BOTTliUM::{ user=18212788 } with 601 sliderends hit after 3 days and 6 hours. Watch the replay [here](https://www.twitch.tv/videos/2819161566?t=1h3m4s). |
 
 Read [yandax's writeup](https://yanda-dy.github.io/cta3-external/solutions_e654eec7da8c767f/solutions.html#sss-o-s) for extra insight.
 

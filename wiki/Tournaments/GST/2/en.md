@@ -66,7 +66,7 @@ The Great Singapore Tournament 2 was run by various community members.
 | :-- | :-- |
 | **#sobafanclub** | ::{ flag=SG }:: **::Zac-::{ user=7513426 }**, ::{ flag=SG }:: ::Rachel::{ user=6494160 } |
 | **\[ Jg \]** | ::{ flag=SG }:: **::\[ Jg \]::{ user=1671376 }**, ::{ flag=SG }:: ::will never fc::{ user=6722556 } |
-| **50% fARmErS** | ::{ flag=SG }:: **::\1-Lockon-\1::{ user=6726331 }**, ::{ flag=SG }:: ::Kalo::{ user=3650695 } |
+| **50% fARmErS** | ::{ flag=SG }:: **::[-Lockon-]::{ user=6726331 }**, ::{ flag=SG }:: ::Kalo::{ user=3650695 } |
 | **a)ii)no scenario** | ::{ flag=SG }:: **::SeeL::{ user=5104320 }**, ::{ flag=SG }:: ::Alice::{ user=3850861 } |
 | **Abused 24/7** | ::{ flag=SG }:: **::\[-shirayuki-\]::{ user=7679930 }**, ::{ flag=SG }:: ::Fuwu::{ user=12059576 } |
 | **advanced math** | ::{ flag=SG }:: **::moosepi::{ user=1868745 }**, ::{ flag=SG }:: ::Rtzero::{ user=9262462 } |
