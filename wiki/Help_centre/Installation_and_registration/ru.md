@@ -19,7 +19,7 @@ tags:
 
 ::: alert-note
 **Основная статья:** [Центр помощи](/wiki/Help_centre)
-:::[Центр помощи](/wiki/Help_centre)
+:::
 
 Этот раздел посвящён установке osu! и регистрации аккаунта.
 
@@ -27,7 +27,7 @@ tags:
 
 ::: alert-note
 **Основная статья:** [Установка](/wiki/Client/Installation)
-:::[Установка](/wiki/Client/Installation)
+:::
 
 ### Как установить osu!? {id=download}
 
@@ -39,7 +39,7 @@ tags:
 
 ::: alert-note
 **Основная статья:** [Регистрация](/wiki/Registration)
-:::[Регистрация](/wiki/Registration)
+:::
 
 ### Как мне зарегистрироваться в osu?! {id=how-to-register}
 

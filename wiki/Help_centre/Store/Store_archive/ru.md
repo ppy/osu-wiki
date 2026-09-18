@@ -23,7 +23,8 @@ tags:
 
 ::: alert-note
 **Основная статья:** [Магазин osu!store](/wiki/Help_centre/Store)
-:::[Магазин osu!store](/wiki/Help_centre/Store)
+:::
+
 ::: alert-notice
 **Примечание:** эти продукты больше нельзя приобрести в osu!store. Для полного списка продуктов, бывших в наличии в osu!store, см. [Архив товаров osu!store](/wiki/Past_osu!store_items).
 :::
