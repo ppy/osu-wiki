@@ -707,6 +707,8 @@ Whenever linking to a single difficulty, use this format as the link text:
 {artist} - {title} ({creator}) [{difficulty_name}]
 ```
 
+[When there are multiple creators](/wiki/Beatmap/Beatmap_collaborations), the creator part may be a list of usernames instead.
+
 The link must actually link to that difficulty. Beatmap difficulty URLs must be formatted as follows:
 
 ```
@@ -722,6 +724,8 @@ Whenever linking to a beatmap, use this format as the link text:
 ```
 {artist} - {title} ({creator})
 ```
+
+[When there are multiple creators](/wiki/Beatmap/Beatmap_collaborations), the creator part may be a list of usernames instead.
 
 All beatmap URLs must be formatted as follows:
 
