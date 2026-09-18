@@ -13,7 +13,7 @@ Any music you've been listening to recently is about to be overshadowed by the i
 
 As of today, his sound is officially ready for osu! too.
 
-We've gathered **16** tracks from the boss of bass, including the song most appropriate for his reputation: *B.B.K.K.B.K.K.* If you're somehow unfamiliar with this classic, watch [bze](https://osu.ppy.sh/users/4095562) play a map of it in the video below (and check out the other showcased maps!):
+We've gathered **16** tracks from the boss of bass, including the song most appropriate for his reputation: *B.B.K.K.B.K.K.* If you're somehow unfamiliar with this classic, watch ::bze::{ user=4095562 } play a map of it in the video below (and check out the other showcased maps!):
 
 <div align="center">
     <video width="95%" controls>
@@ -25,7 +25,7 @@ We've gathered **16** tracks from the boss of bass, including the song most appr
 
 ### nora2r - B.B.K.K.B.K.K.
 
-Play through [the mapset above](https://osu.ppy.sh/beatmapsets/1372554) by [Nozhomi](https://osu.ppy.sh/users/2716981) or this [older mapset](https://osu.ppy.sh/beatmapsets/153920) by rezoons.
+Play through [the mapset above](https://osu.ppy.sh/beatmapsets/1372554) by ::Nozhomi::{ user=2716981 } or this [older mapset](https://osu.ppy.sh/beatmapsets/153920) by rezoons.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/141/Songs/nora2r%20-%20B.B.K.K.B.K.K..mp3" type="audio/mpeg">
@@ -35,11 +35,11 @@ Play through [the mapset above](https://osu.ppy.sh/beatmapsets/1372554) by [Nozh
 
 Check out any of these **5** mapsets:
 
-- [osu! + osu!taiko hybrid set](https://osu.ppy.sh/beatmapsets/361306) by [Cherry Blossom](https://osu.ppy.sh/users/1156742) and our very own Featured Artist [Kurokotei](https://osu.ppy.sh/users/398275)
-- [osu!taiko marathon](https://osu.ppy.sh/beatmapsets/606308) by [Charlotte](https://osu.ppy.sh/users/3686901)
-- [4K osu!mania full difficulty spread](https://osu.ppy.sh/beatmapsets/555681) by [Fresh Chicken](https://osu.ppy.sh/users/3984370)
-- [7K osu!mania marathon mapset](https://osu.ppy.sh/beatmapsets/400351) by [Kyousuke-](https://osu.ppy.sh/users/2616570)
-- [7K osu!mania full difficulty spread](https://osu.ppy.sh/beatmapsets/361643) by [Pyakura](https://osu.ppy.sh/users/2284536)
+- [osu! + osu!taiko hybrid set](https://osu.ppy.sh/beatmapsets/361306) by ::Cherry Blossom::{ user=1156742 } and our very own Featured Artist ::Kurokotei::{ user=398275 }
+- [osu!taiko marathon](https://osu.ppy.sh/beatmapsets/606308) by ::Charlotte::{ user=3686901 }
+- [4K osu!mania full difficulty spread](https://osu.ppy.sh/beatmapsets/555681) by ::Fresh Chicken::{ user=3984370 }
+- [7K osu!mania marathon mapset](https://osu.ppy.sh/beatmapsets/400351) by ::Kyousuke-::{ user=2616570 }
+- [7K osu!mania full difficulty spread](https://osu.ppy.sh/beatmapsets/361643) by ::Pyakura::{ user=2284536 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/141/Songs/Mastermind%20(xi+nora2r)%20-%20Dreadnought.mp3" type="audio/mpeg">
@@ -47,7 +47,7 @@ Check out any of these **5** mapsets:
 
 ### nora2r - Memory Of Sunrise
 
-Try out this [osu!taiko mapset](https://osu.ppy.sh/beatmapsets/579893) by [_yu68](https://osu.ppy.sh/users/6170507) or this [osu!catch mapset](https://osu.ppy.sh/beatmapsets/1158978) by [JBHyperion](https://osu.ppy.sh/users/4879508)!
+Try out this [osu!taiko mapset](https://osu.ppy.sh/beatmapsets/579893) by ::_yu68::{ user=6170507 } or this [osu!catch mapset](https://osu.ppy.sh/beatmapsets/1158978) by ::JBHyperion::{ user=4879508 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/141/Songs/nora2r%20-%20Memory%20Of%20Sunrise.mp3" type="audio/mpeg">
@@ -55,7 +55,7 @@ Try out this [osu!taiko mapset](https://osu.ppy.sh/beatmapsets/579893) by [_yu68
 
 ### nora2r - New World
 
-Give either this [4K osu!mania mapset](https://osu.ppy.sh/beatmapsets/324294) by [Draftnell](https://osu.ppy.sh/users/3406652) or this [7K osu!mania mapset](https://osu.ppy.sh/beatmapsets/910843) by [Kamikaze](https://osu.ppy.sh/users/2124783) a play!
+Give either this [4K osu!mania mapset](https://osu.ppy.sh/beatmapsets/324294) by ::Draftnell::{ user=3406652 } or this [7K osu!mania mapset](https://osu.ppy.sh/beatmapsets/910843) by ::Kamikaze::{ user=2124783 } a play!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/141/Songs/nora2r%20-%20New%20World.mp3" type="audio/mpeg">

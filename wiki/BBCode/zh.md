@@ -395,15 +395,15 @@ YouTube 视频 ID 是位于视频网址中 `v=` 之后跟着的那 11 位字符�
 
 | 名称 | 项目带头人 | 描述 |
 | :-: | :-: | :-- |
-| [OSUWME](https://osu.ppy.sh/community/forums/topics/2029947) | ::{ flag=ID }:: [rezzvy](https://osu.ppy.sh/users/8804560) | 支持实时预览的 osu! 个人资料 BBCode 编辑器 |
-| [osu! BBCode Editor](https://github.com/NoelleTGS/osu-bbcode-editor) | ::{ flag=CA }:: [HonokaKousakaTV](https://osu.ppy.sh/users/18595366) | 支持实时预览的 osu! 个人资料 BBCode 编辑器（已归档） |
-| [osu-gradient](https://osu-gradient.jgroup.top/) | ::{ flag=RU }:: [[_____________]](https://osu.ppy.sh/users/12036908) | 为 osu! 个人资料创建渐变色文字 |
-| [osu-web enhanced](https://osu.ppy.sh/community/forums/topics/1361818) | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | 为 osu! 网站增加更多 BBCode 按钮等功能的浏览器扩展 |
+| [OSUWME](https://osu.ppy.sh/community/forums/topics/2029947) | ::{ flag=ID }:: ::rezzvy::{ user=8804560 } | 支持实时预览的 osu! 个人资料 BBCode 编辑器 |
+| [osu! BBCode Editor](https://github.com/NoelleTGS/osu-bbcode-editor) | ::{ flag=CA }:: ::HonokaKousakaTV::{ user=18595366 } | 支持实时预览的 osu! 个人资料 BBCode 编辑器（已归档） |
+| [osu-gradient](https://osu-gradient.jgroup.top/) | ::{ flag=RU }:: ::[_____________]::{ user=12036908 } | 为 osu! 个人资料创建渐变色文字 |
+| [osu-web enhanced](https://osu.ppy.sh/community/forums/topics/1361818) | ::{ flag=DE }:: ::RockRoller::{ user=8388854 } | 为 osu! 网站增加更多 BBCode 按钮等功能的浏览器扩展 |
 | [textcolorizer](https://www.stuffbydavid.com/textcolorizer) | david | BBCode 和 HTML 文字染色工具 |
 
 ## 冷知识
 
-- 这篇 wiki 文章起初改编自 [Stefan](https://osu.ppy.sh/users/626907) 撰写的 ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) 论坛讨论串。
+- 这篇 wiki 文章起初改编自 ::Stefan::{ user=626907 } 撰写的 ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) 论坛讨论串。
 - 曾有一个 Bug，允许用户在[颜色](#颜色)标签的等号后输入 "transparent" 使文字透明。
   - 目前，这么做只会让文本变成默认颜色（白色）。
 - 在 `imagemap` 标签出现之前，可以通过组合使用 `url` 和 `img` 标签来在图片中添加超链接，但每张图片只能添加一个链接。若要实现多个链接，需将原图切成若干小块（每个链接对应一小块图片），然后横向拼接。

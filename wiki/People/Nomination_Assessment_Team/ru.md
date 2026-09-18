@@ -102,16 +102,16 @@ NAT самостоятельно отслеживает появление но�
 
 В настоящее время внутренним доступом пользуются:
 
-- ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083)
-- ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882)
-- ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
-- ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926)
+- ::{ flag=GB }:: ::AJT::{ user=3181083 }
+- ::{ flag=DE }:: ::FuJu::{ user=10773882 }
+- ::{ flag=CN }:: ::Ryuusei Aika::{ user=7777875 }
+- ::{ flag=BE }:: ::yaspo::{ user=4945926 }
 
 ## Лидерство NAT
 
 В марте 2023 г. NAT решили заново ввести роль лидера команды, [по аналогии](/wiki/People/Quality_Assurance_Team/QAT_Leaders) с [QAT](/wiki/People/Quality_Assurance_Team). Лидеры NAT занимаются сразу двумя категориями задач — аттестацией и организацией деятельности, — чтобы следить за всей командой и быть в курсе происходящего.
 
-В настоящее время лидером NAT является ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976).
+В настоящее время лидером NAT является ::{ flag=TN }:: ::Hivie::{ user=14102976 }.
 
 ### Обязанности
 
@@ -139,49 +139,49 @@ NAT самостоятельно отслеживает появление но�
 
 | Имя | Языки |
 | :-- | :-- |
-| ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | Итальянский |
-| ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548) |  |
-| ::{ flag=FI }:: [Asphyxia](https://osu.ppy.sh/users/1715720) | Финский |
-| ::{ flag=SE }:: [byd](https://osu.ppy.sh/users/6398464) | Шведский |
-| ::{ flag=TH }:: [Electoz](https://osu.ppy.sh/users/6485263) | Тайский |
-| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Голландский |
-| ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | Финский |
-| ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
-| ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Китайский |
-| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | Французский, испанский |
-| ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516) | Китайский |
-| ::{ flag=RO }:: [bsm](https://osu.ppy.sh/users/12366071) | Румынский |
-| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
-| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | Немецкий |
+| ::{ flag=IT }:: ::-kevincela-::{ user=266596 } | Итальянский |
+| ::{ flag=US }:: ::-White::{ user=16276548 } |  |
+| ::{ flag=FI }:: ::Asphyxia::{ user=1715720 } | Финский |
+| ::{ flag=SE }:: ::byd::{ user=6398464 } | Шведский |
+| ::{ flag=TH }:: ::Electoz::{ user=6485263 } | Тайский |
+| ::{ flag=BE }:: ::enneya::{ user=10959501 } | Голландский |
+| ::{ flag=FI }:: ::fllecc::{ user=14060327 } | Финский |
+| ::{ flag=CA }:: ::Lafayla::{ user=5312547 } |  |
+| ::{ flag=CN }:: ::Mafumafu::{ user=3076909 } | Китайский |
+| ::{ flag=KR }:: ::momoyo::{ user=12469536 } | Французский, испанский |
+| ::{ flag=TW }:: ::Muchin::{ user=9834516 } | Китайский |
+| ::{ flag=RO }:: ::bsm::{ user=12366071 } | Румынский |
+| ::{ flag=US }:: ::Noffy::{ user=1541323 } |  |
+| ::{ flag=DE }:: ::Okoayu::{ user=1623405 } | Немецкий |
 
 #### osu!taiko
 
 | Имя | Языки |
 | :-- | :-- |
-| ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | Китайский |
-| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Кантонский, китайский |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Арабский, французский |
-| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Португальский |
-| ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | Немецкий, частично французский |
+| ::{ flag=SG }:: ::arcpotato::{ user=12842392 } | Китайский |
+| ::{ flag=HK }:: ::BlackBN::{ user=6291741 } | Кантонский, китайский |
+| ::{ flag=TN }:: ::Hivie::{ user=14102976 } | Арабский, французский |
+| ::{ flag=BR }:: ::Ideal::{ user=3869519 } | Португальский |
+| ::{ flag=AT }:: ::Yasuho::{ user=8458835 } | Немецкий, частично французский |
 
 #### osu!catch
 
 | Имя | Языки |
 | :-- | :-- |
-| ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136) | Немецкий |
-| ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | Корейский |
-| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | Корейский |
+| ::{ flag=AT }:: ::Daletto::{ user=7592136 } | Немецкий |
+| ::{ flag=KR }:: ::Rocma::{ user=566276 } | Корейский |
+| ::{ flag=KR }:: ::Spectator::{ user=702598 } | Корейский |
 
 #### osu!mania
 
 | Имя | Языки |
 | :-- | :-- |
-| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Вьетнамский |
-| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | Испанский |
-| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Китайский |
-| ::{ flag=IT }:: [Harbyter](https://osu.ppy.sh/users/1147679) | Итальянский |
-| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Индонезийский |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Каталонский, испанский |
+| ::{ flag=VN }:: ::Akasha-::{ user=2596306 } | Вьетнамский |
+| ::{ flag=DO }:: ::Antalf::{ user=8793773 } | Испанский |
+| ::{ flag=CN }:: ::gzdongsheng::{ user=8660315 } | Китайский |
+| ::{ flag=IT }:: ::Harbyter::{ user=1147679 } | Итальянский |
+| ::{ flag=ID }:: ::Maxus::{ user=4335785 } | Индонезийский |
+| ::{ flag=ES }:: ::RandomeLoL::{ user=7080063 } | Каталонский, испанский |
 
 ### Организационные вопросы
 
@@ -189,18 +189,18 @@ NAT самостоятельно отслеживает появление но�
 
 | Пользователь | Роль |
 | :-- | :-- |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Ведение внутренних дел и документации |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Управление программой менторства номинаторов |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Разработка [Nomination Planner](https://bnplanner.greaper.net/beatmaps) и [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Разработка [сайта по работе с номинаторами](https://bn.mappersguild.com) |
+| ::{ flag=GB }:: ::-Mo-::{ user=2202163 } | Ведение внутренних дел и документации |
+| ::{ flag=BR }:: ::Dada::{ user=9119507 } | Управление программой менторства номинаторов |
+| ::{ flag=NL }:: ::Greaper::{ user=2369776 } | Разработка [Nomination Planner](https://bnplanner.greaper.net/beatmaps) и [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) |
+| ::{ flag=US }:: ::pishifat::{ user=3178418 } | Разработка [сайта по работе с номинаторами](https://bn.mappersguild.com) |
 
 Участники NAT, перечисленные ниже, преимущественно заняты аттестацией номинаторов, но также участвуют в организационных делах:
 
 | Пользователь | Роль |
 | :-- | :-- |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Лидерство NAT, разработка [сайта по работе с номинаторами](https://bn.mappersguild.com) и [поддержка osu!taiko в Mapset Verifier](https://github.com/Hiviexd/MVTaikoChecks) |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Рассмотрение жалоб на содержимое карт и [поддержка osu!mania в Mapset Verifier](https://github.com/MChecaH/ManiaCheck) |
+| ::{ flag=TN }:: ::Hivie::{ user=14102976 } | Лидерство NAT, разработка [сайта по работе с номинаторами](https://bn.mappersguild.com) и [поддержка osu!taiko в Mapset Verifier](https://github.com/Hiviexd/MVTaikoChecks) |
+| ::{ flag=ES }:: ::RandomeLoL::{ user=7080063 } | Рассмотрение жалоб на содержимое карт и [поддержка osu!mania в Mapset Verifier](https://github.com/MChecaH/ManiaCheck) |
 
 ---
 
-Кроме того, у NAT есть [одноимённый бот-аккаунт](https://osu.ppy.sh/users/6616586), к которому команда прибегает, когда не хочет приписывать авторство сообщений конкретным участникам. Этот аккаунт используется для отправки результатов аттестации, проведения пробных аттестаций, рассмотрений вето, обработки жалоб и результатов проверки содержимого карт, а также для прочих целей.
+Кроме того, у NAT есть ::одноимённый бот-аккаунт::{ user=6616586 }, к которому команда прибегает, когда не хочет приписывать авторство сообщений конкретным участникам. Этот аккаунт используется для отправки результатов аттестации, проведения пробных аттестаций, рассмотрений вето, обработки жалоб и результатов проверки содержимого карт, а также для прочих целей.

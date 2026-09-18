@@ -12,7 +12,7 @@ L'**osu!coin** était une blague, une monnaie en jeu se moquant des autres syst�
 
 ## Release
 
-La [release officiel](https://osu.ppy.sh/home/news/2015-03-31-osucoins) explique que osu!coin a été introduit pour financer le jet privé de ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2), car le système de monétisation actuel ne lui permettrait pas de l'acheter de son vivant. La déclaration continue, expliquant que chaque nouveau joueur commencerait avec 10 pièces osu!coins, et en recevrait 10 de plus chaque jour qui passe. Les utilisateurs existants recevraient deux osu!coins supplémentaires en guise de bonus. Les joueurs peuvent ensuite gagner d'autres osu!coins en obtenant des [combos](/wiki/Gameplay/Combo_(score_multiplier)). Un seul osu!coin sera obtenu pour chaque 100x combo.
+La [release officiel](https://osu.ppy.sh/home/news/2015-03-31-osucoins) explique que osu!coin a été introduit pour financer le jet privé de ::{ flag=AU }:: ::peppy::{ user=2 }, car le système de monétisation actuel ne lui permettrait pas de l'acheter de son vivant. La déclaration continue, expliquant que chaque nouveau joueur commencerait avec 10 pièces osu!coins, et en recevrait 10 de plus chaque jour qui passe. Les utilisateurs existants recevraient deux osu!coins supplémentaires en guise de bonus. Les joueurs peuvent ensuite gagner d'autres osu!coins en obtenant des [combos](/wiki/Gameplay/Combo_(score_multiplier)). Un seul osu!coin sera obtenu pour chaque 100x combo.
 
 ![](img/earning-osu!coin.jpg "Un exemple de joueur recevant des pièces osu!coin pour chaque combo 100x.")
 

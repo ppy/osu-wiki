@@ -13,267 +13,267 @@ outdated_since: 3fe983b3a55970aed91a0bcdca028253d918ae5d
 
 ## 1月
 
-- 2021-01-31: [ztrot](https://osu.ppy.sh/users/6347)を**osu! Alumni**から**GMT**へ
+- 2021-01-31: ::ztrot::{ user=6347 }を**osu! Alumni**から**GMT**へ
 
 ### ビートマップノミネーター
 
 #### 追加
 
-- 2021-01-05: [Ulqui](https://osu.ppy.sh/users/1263669)を**試用期間中のBN**に追加
-- 2021-01-05: [Hivie](https://osu.ppy.sh/users/14102976)を**試用期間中のBN**に追加
-- 2021-01-13: [Dako](https://osu.ppy.sh/users/11081858)を**試用期間中のBN**に追加
-- 2021-01-24: [guden](https://osu.ppy.sh/users/11626065)を**試用期間中のBN**に追加
-- 2021-01-25: [rosario wknd](https://osu.ppy.sh/users/6341518)を**試用期間中のBN**に追加
-- 2021-01-25: [Myxo](https://osu.ppy.sh/users/2202645)を**試用期間中のBN**に追加
-- 2021-01-27: [Xahlt](https://osu.ppy.sh/users/13466351)を**試用期間中のBN**に追加
-- 2021-01-31: [deta5859](https://osu.ppy.sh/users/15275662)を**試用期間中のBN**に追加
+- 2021-01-05: ::Ulqui::{ user=1263669 }を**試用期間中のBN**に追加
+- 2021-01-05: ::Hivie::{ user=14102976 }を**試用期間中のBN**に追加
+- 2021-01-13: ::Dako::{ user=11081858 }を**試用期間中のBN**に追加
+- 2021-01-24: ::guden::{ user=11626065 }を**試用期間中のBN**に追加
+- 2021-01-25: ::rosario wknd::{ user=6341518 }を**試用期間中のBN**に追加
+- 2021-01-25: ::Myxo::{ user=2202645 }を**試用期間中のBN**に追加
+- 2021-01-27: ::Xahlt::{ user=13466351 }を**試用期間中のBN**に追加
+- 2021-01-31: ::deta5859::{ user=15275662 }を**試用期間中のBN**に追加
 
 #### 移動
 
-- 2021-01-10: [autofanboy](https://osu.ppy.sh/users/636114)を**BN**から**試用期間中のBN**へ
-- 2021-01-15: [Cynplytholowazy](https://osu.ppy.sh/users/3901754)を**試用期間中のBN**から**BN**へ
-- 2021-01-17: [Arzenvald](https://osu.ppy.sh/users/3027421)を**試用期間中のBN**から**BN**へ
-- 2021-01-19: [Gamelan4](https://osu.ppy.sh/users/9856910)を**試用期間中のBN**から**BN**へ
-- 2021-01-19: [ikin5050](https://osu.ppy.sh/users/4007649)を**試用期間中のBN**から**BN**へ
-- 2021-01-19: [PokeSky](https://osu.ppy.sh/users/3617111)を**BN**から**試用期間中のBN**へ
-- 2021-01-23: [Benita](https://osu.ppy.sh/users/4023183)を**試用期間中のBN**から**BN**へ
-- 2021-01-24: [UberFazz](https://osu.ppy.sh/users/8646059)を**試用期間中のBN**から**BN**へ
-- 2021-01-24: [Nana Abe](https://osu.ppy.sh/users/6443117)を**試用期間中のBN**から**BN**へ
-- 2021-01-24: [Shmiklak](https://osu.ppy.sh/users/5504231)を**試用期間中のBN**から**BN**へ
-- 2021-01-26: [Eyenine](https://osu.ppy.sh/users/1259391)を**試用期間中のBN**から**BN**へ
-- 2021-01-29: [Yugu](https://osu.ppy.sh/users/31618347)を**BN**から**試用期間中のBN**へ
-- 2021-01-29: [Sonnyc](https://osu.ppy.sh/users/11771)を**BN**から**試用期間中のBN**へ
-- 2021-01-29: [Dored](https://osu.ppy.sh/users/10284894)を**BN**から**試用期間中のBN**へ
-- 2021-01-30: [Default Guy](https://osu.ppy.sh/users/7058457)を**試用期間中のBN**から**BN**へ
+- 2021-01-10: ::autofanboy::{ user=636114 }を**BN**から**試用期間中のBN**へ
+- 2021-01-15: ::Cynplytholowazy::{ user=3901754 }を**試用期間中のBN**から**BN**へ
+- 2021-01-17: ::Arzenvald::{ user=3027421 }を**試用期間中のBN**から**BN**へ
+- 2021-01-19: ::Gamelan4::{ user=9856910 }を**試用期間中のBN**から**BN**へ
+- 2021-01-19: ::ikin5050::{ user=4007649 }を**試用期間中のBN**から**BN**へ
+- 2021-01-19: ::PokeSky::{ user=3617111 }を**BN**から**試用期間中のBN**へ
+- 2021-01-23: ::Benita::{ user=4023183 }を**試用期間中のBN**から**BN**へ
+- 2021-01-24: ::UberFazz::{ user=8646059 }を**試用期間中のBN**から**BN**へ
+- 2021-01-24: ::Nana Abe::{ user=6443117 }を**試用期間中のBN**から**BN**へ
+- 2021-01-24: ::Shmiklak::{ user=5504231 }を**試用期間中のBN**から**BN**へ
+- 2021-01-26: ::Eyenine::{ user=1259391 }を**試用期間中のBN**から**BN**へ
+- 2021-01-29: ::Yugu::{ user=31618347 }を**BN**から**試用期間中のBN**へ
+- 2021-01-29: ::Sonnyc::{ user=11771 }を**BN**から**試用期間中のBN**へ
+- 2021-01-29: ::Dored::{ user=10284894 }を**BN**から**試用期間中のBN**へ
+- 2021-01-30: ::Default Guy::{ user=7058457 }を**試用期間中のBN**から**BN**へ
 
 #### 削除
 
-- 2021-01-07: [JierYagtama](https://osu.ppy.sh/users/7483452)を**BN**から削除
-- 2021-01-15: [Greenshell](https://osu.ppy.sh/users/8693851)を**BN**から削除
-- 2021-01-19: [Rivals_7](https://osu.ppy.sh/users/4610379)を**BN**から削除
-- 2021-01-23: [-Joni-](https://osu.ppy.sh/users/9988837)を**試用期間中のBN**から削除
-- 2021-01-24: [Smokeman](https://osu.ppy.sh/users/2140676)を**BN**から削除
-- 2021-01-24: [Okoratu](https://osu.ppy.sh/users/1623405)を**BN**から削除
-- 2021-01-27: [Voxa](https://osu.ppy.sh/users/9229539)を**BN**から削除
+- 2021-01-07: ::JierYagtama::{ user=7483452 }を**BN**から削除
+- 2021-01-15: ::Greenshell::{ user=8693851 }を**BN**から削除
+- 2021-01-19: ::Rivals_7::{ user=4610379 }を**BN**から削除
+- 2021-01-23: ::-Joni-::{ user=9988837 }を**試用期間中のBN**から削除
+- 2021-01-24: ::Smokeman::{ user=2140676 }を**BN**から削除
+- 2021-01-24: ::Okoratu::{ user=1623405 }を**BN**から削除
+- 2021-01-27: ::Voxa::{ user=9229539 }を**BN**から削除
 
 ## 2月
 
-- 2021-02-05: [Niva](https://osu.ppy.sh/users/197805)を**osu! Alumni**から**GMT**へ
-- 2021-02-15: [Tommay](https://osu.ppy.sh/users/3132818)を**GMT**から**osu! Alumni**へ
-- 2021-02-15: [Kurai](https://osu.ppy.sh/users/77089)を**GMT**から**osu! Alumni**へ
-- 2021-02-15: [Gabe](https://osu.ppy.sh/users/654108)を**GMT**から**osu! Alumni**へ
-- 2021-02-23: [\[ryuu\]](https://osu.ppy.sh/users/5698467)を**GMT**に追加
-- 2021-02-23: [mrrrk](https://osu.ppy.sh/users/9936528)を**GMT**に追加
-- 2021-02-23: [Nukrid](https://osu.ppy.sh/users/2307484)を**GMT**に追加
-- 2021-02-23: [Petal](https://osu.ppy.sh/users/7354729)を**GMT**に追加
-- 2021-02-23: [Sies](https://osu.ppy.sh/users/6491991)を**GMT**に追加
-- 2021-02-23: [Trigonoculus](https://osu.ppy.sh/users/7627013)を**GMT**に追加
-- 2021-02-23: [Venix](https://osu.ppy.sh/users/5999631)を**GMT**に追加
-- 2021-02-23: [Civil oath](https://osu.ppy.sh/users/3216107)を**GMT**に追加
-- 2021-02-23: [Petit](https://osu.ppy.sh/users/4637369)を**GMT**に追加
-- 2021-02-24: [Coldrod](https://osu.ppy.sh/users/9065991)を**GMT**に追加
+- 2021-02-05: ::Niva::{ user=197805 }を**osu! Alumni**から**GMT**へ
+- 2021-02-15: ::Tommay::{ user=3132818 }を**GMT**から**osu! Alumni**へ
+- 2021-02-15: ::Kurai::{ user=77089 }を**GMT**から**osu! Alumni**へ
+- 2021-02-15: ::Gabe::{ user=654108 }を**GMT**から**osu! Alumni**へ
+- 2021-02-23: ::\[ryuu\]::{ user=5698467 }を**GMT**に追加
+- 2021-02-23: ::mrrrk::{ user=9936528 }を**GMT**に追加
+- 2021-02-23: ::Nukrid::{ user=2307484 }を**GMT**に追加
+- 2021-02-23: ::Petal::{ user=7354729 }を**GMT**に追加
+- 2021-02-23: ::Sies::{ user=6491991 }を**GMT**に追加
+- 2021-02-23: ::Trigonoculus::{ user=7627013 }を**GMT**に追加
+- 2021-02-23: ::Venix::{ user=5999631 }を**GMT**に追加
+- 2021-02-23: ::Civil oath::{ user=3216107 }を**GMT**に追加
+- 2021-02-23: ::Petit::{ user=4637369 }を**GMT**に追加
+- 2021-02-24: ::Coldrod::{ user=9065991 }を**GMT**に追加
 
 ### ビートマップノミネーター
 
 #### 追加
 
-- 2021-02-09: [Smoke](https://osu.ppy.sh/users/10726630)を**試用期間中のBN**に追加
-- 2021-02-10: [Yasuho](https://osu.ppy.sh/users/8458835)を**試用期間中のBN**に追加
-- 2021-02-15: [NeKroMan4ik](https://osu.ppy.sh/users/11387664)を**試用期間中のBN**に追加
-- 2021-02-15: [Battle](https://osu.ppy.sh/users/4037545)を**試用期間中のBN**に追加
-- 2021-02-26: [Xinely](https://osu.ppy.sh/users/1521445)を**試用期間中のBN**に追加
+- 2021-02-09: ::Smoke::{ user=10726630 }を**試用期間中のBN**に追加
+- 2021-02-10: ::Yasuho::{ user=8458835 }を**試用期間中のBN**に追加
+- 2021-02-15: ::NeKroMan4ik::{ user=11387664 }を**試用期間中のBN**に追加
+- 2021-02-15: ::Battle::{ user=4037545 }を**試用期間中のBN**に追加
+- 2021-02-26: ::Xinely::{ user=1521445 }を**試用期間中のBN**に追加
 
 #### 移動
 
-- 2021-02-01: [Zer0-](https://osu.ppy.sh/users/4260033)を**試用期間中のBN**から**BN**へ
-- 2021-02-01: [Morrighan](https://osu.ppy.sh/users/12042090)を**試用期間中のBN**から**BN**へ
-- 2021-02-17: [autofanboy](https://osu.ppy.sh/users/636114)を**試用期間中のBN**から**BN**へ
-- 2021-02-21: [Hivie](https://osu.ppy.sh/users/14102976)を**試用期間中のBN**から**BN**へ
-- 2021-02-21: [Ulqui](https://osu.ppy.sh/users/1263669)を**試用期間中のBN**から**BN**へ
-- 2021-02-21: [Luscent](https://osu.ppy.sh/users/2688581)を**BN**から**試用期間中のBN**へ
+- 2021-02-01: ::Zer0-::{ user=4260033 }を**試用期間中のBN**から**BN**へ
+- 2021-02-01: ::Morrighan::{ user=12042090 }を**試用期間中のBN**から**BN**へ
+- 2021-02-17: ::autofanboy::{ user=636114 }を**試用期間中のBN**から**BN**へ
+- 2021-02-21: ::Hivie::{ user=14102976 }を**試用期間中のBN**から**BN**へ
+- 2021-02-21: ::Ulqui::{ user=1263669 }を**試用期間中のBN**から**BN**へ
+- 2021-02-21: ::Luscent::{ user=2688581 }を**BN**から**試用期間中のBN**へ
 
 #### 削除
 
-- 2021-02-13: [Rocma](https://osu.ppy.sh/users/566276)を**BN**から削除
-- 2021-02-16: [Nao Tomori](https://osu.ppy.sh/users/5364763)を**BN**から削除
+- 2021-02-13: ::Rocma::{ user=566276 }を**BN**から削除
+- 2021-02-16: ::Nao Tomori::{ user=5364763 }を**BN**から削除
 
 ## 3月
 
-- 2021-03-01: [ThePooN](https://osu.ppy.sh/users/718454)を**開発者**に追加
-- 2021-03-01: [Lasse](https://osu.ppy.sh/users/896613)を**NAT**から**osu! Alumni**へ
-- 2021-03-06: [Zelq](https://osu.ppy.sh/users/8953955)を**NAT**に追加
-- 2021-03-07: [Agatsu](https://osu.ppy.sh/users/5579871)を**NAT**に追加
-- 2021-03-19: [Nozhomi](https://osu.ppy.sh/users/2716981)を**GMT**に追加
+- 2021-03-01: ::ThePooN::{ user=718454 }を**開発者**に追加
+- 2021-03-01: ::Lasse::{ user=896613 }を**NAT**から**osu! Alumni**へ
+- 2021-03-06: ::Zelq::{ user=8953955 }を**NAT**に追加
+- 2021-03-07: ::Agatsu::{ user=5579871 }を**NAT**に追加
+- 2021-03-19: ::Nozhomi::{ user=2716981 }を**GMT**に追加
 
 ### ビートマップノミネーター
 
 #### 追加
 
-- 2021-03-01: [Mir](https://osu.ppy.sh/users/8688812)を**試用期間中のBN**に追加
-- 2021-03-01: [Lasse](https://osu.ppy.sh/users/896613)を**BN**に追加
-- 2021-03-12: [Paran](https://osu.ppy.sh/users/13340203)を**試用期間中のBN**に追加
-- 2021-03-14: [Horiiizon](https://osu.ppy.sh/users/8071438)を**試用期間中のBN**に追加
-- 2021-03-14: [gevbiivi5](https://osu.ppy.sh/users/7140680)を**試用期間中のBN**に追加
-- 2021-03-14: [AJT](https://osu.ppy.sh/users/3181083)を**試用期間中のBN**に追加
-- 2021-03-14: [VINXIS](https://osu.ppy.sh/users/4323406)を**試用期間中のBN**に追加
-- 2021-03-18: [NyalettOwO x3](https://osu.ppy.sh/users/7592136)を**試用期間中のBN**に追加
-- 2021-03-18: [wonjae](https://osu.ppy.sh/users/5032045)を**試用期間中のBN**に追加
-- 2021-03-23: [-Aku](https://osu.ppy.sh/users/12315824)を**試用期間中のBN**に追加
-- 2021-03-28: [Komirin](https://osu.ppy.sh/users/4725379)を**試用期間中のBN**に追加
-- 2021-03-28: [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608)を**試用期間中のBN**に追加
-- 2021-03-30: [Sylas](https://osu.ppy.sh/users/3906405)を**試用期間中のBN**に追加
-- 2021-03-30: [Kudosu](https://osu.ppy.sh/users/11038155)を**試用期間中のBN**に追加
+- 2021-03-01: ::Mir::{ user=8688812 }を**試用期間中のBN**に追加
+- 2021-03-01: ::Lasse::{ user=896613 }を**BN**に追加
+- 2021-03-12: ::Paran::{ user=13340203 }を**試用期間中のBN**に追加
+- 2021-03-14: ::Horiiizon::{ user=8071438 }を**試用期間中のBN**に追加
+- 2021-03-14: ::gevbiivi5::{ user=7140680 }を**試用期間中のBN**に追加
+- 2021-03-14: ::AJT::{ user=3181083 }を**試用期間中のBN**に追加
+- 2021-03-14: ::VINXIS::{ user=4323406 }を**試用期間中のBN**に追加
+- 2021-03-18: ::NyalettOwO x3::{ user=7592136 }を**試用期間中のBN**に追加
+- 2021-03-18: ::wonjae::{ user=5032045 }を**試用期間中のBN**に追加
+- 2021-03-23: ::-Aku::{ user=12315824 }を**試用期間中のBN**に追加
+- 2021-03-28: ::Komirin::{ user=4725379 }を**試用期間中のBN**に追加
+- 2021-03-28: ::AHHHHHHHHHHHHHH::{ user=8249608 }を**試用期間中のBN**に追加
+- 2021-03-30: ::Sylas::{ user=3906405 }を**試用期間中のBN**に追加
+- 2021-03-30: ::Kudosu::{ user=11038155 }を**試用期間中のBN**に追加
 
 #### 移動
 
-- 2021-03-05: [Myxo](https://osu.ppy.sh/users/2202645)を**試用期間中のBN**から**BN**へ
-- 2021-03-07: [PokeSky](https://osu.ppy.sh/users/3617111)を**試用期間中のBN**から**BN**へ
-- 2021-03-14: [guden](https://osu.ppy.sh/users/11626065)を**試用期間中のBN**から**BN**へ
-- 2021-03-15: [Dored](https://osu.ppy.sh/users/10284894)を**試用期間中のBN**から**BN**へ
-- 2021-03-15: [Sonnyc](https://osu.ppy.sh/users/11771)を**試用期間中のBN**から**BN**へ
-- 2021-03-20: [deta5859](https://osu.ppy.sh/users/15275662)を**試用期間中のBN**から**BN**へ
-- 2021-03-23: [Yugu](https://osu.ppy.sh/users/3161834)を**試用期間中のBN**から**BN**へ
-- 2021-03-27: [Astronic](https://osu.ppy.sh/users/9320502)を**BN**から**試用期間中のBN**へ
-- 2021-03-30: [Yasuho](https://osu.ppy.sh/users/8458835)を**試用期間中のBN**から**BN**へ
+- 2021-03-05: ::Myxo::{ user=2202645 }を**試用期間中のBN**から**BN**へ
+- 2021-03-07: ::PokeSky::{ user=3617111 }を**試用期間中のBN**から**BN**へ
+- 2021-03-14: ::guden::{ user=11626065 }を**試用期間中のBN**から**BN**へ
+- 2021-03-15: ::Dored::{ user=10284894 }を**試用期間中のBN**から**BN**へ
+- 2021-03-15: ::Sonnyc::{ user=11771 }を**試用期間中のBN**から**BN**へ
+- 2021-03-20: ::deta5859::{ user=15275662 }を**試用期間中のBN**から**BN**へ
+- 2021-03-23: ::Yugu::{ user=3161834 }を**試用期間中のBN**から**BN**へ
+- 2021-03-27: ::Astronic::{ user=9320502 }を**BN**から**試用期間中のBN**へ
+- 2021-03-30: ::Yasuho::{ user=8458835 }を**試用期間中のBN**から**BN**へ
 
 #### 削除
 
-- 2021-03-06: [Zelq](https://osu.ppy.sh/users/8953955)を**BN**から削除
-- 2021-03-07: [Lafayla](https://osu.ppy.sh/users/5312547)を**BN**から削除
-- 2021-03-07: [Agatsu](https://osu.ppy.sh/users/5579871)を**BN**から削除
-- 2021-03-14: [GIGACHAD](https://osu.ppy.sh/users/11081858)を**試用期間中のBN**から削除
-- 2021-03-16: [Phob](https://osu.ppy.sh/users/6069462)を**BN**から削除
-- 2021-03-16: [riffy](https://osu.ppy.sh/users/597957)を**BN**から削除
-- 2021-03-18: [frukoyurdakul](https://osu.ppy.sh/users/7612550)を**BN**から削除
-- 2021-03-18: [Secre](https://osu.ppy.sh/users/2306637)を**BN**から削除
+- 2021-03-06: ::Zelq::{ user=8953955 }を**BN**から削除
+- 2021-03-07: ::Lafayla::{ user=5312547 }を**BN**から削除
+- 2021-03-07: ::Agatsu::{ user=5579871 }を**BN**から削除
+- 2021-03-14: ::GIGACHAD::{ user=11081858 }を**試用期間中のBN**から削除
+- 2021-03-16: ::Phob::{ user=6069462 }を**BN**から削除
+- 2021-03-16: ::riffy::{ user=597957 }を**BN**から削除
+- 2021-03-18: ::frukoyurdakul::{ user=7612550 }を**BN**から削除
+- 2021-03-18: ::Secre::{ user=2306637 }を**BN**から削除
 
 ## 4月
 
-- 2021-04-13: [Leniane](https://osu.ppy.sh/users/7138602)を**NAT**から**osu! Alumni**へ
-- 2021-04-16: [-mint-](https://osu.ppy.sh/users/8976576)を**プロジェクトLovedチーム**に追加
-- 2021-04-16: [Abraxos](https://osu.ppy.sh/users/5025064)を**プロジェクトLovedチーム**に追加
-- 2021-04-16: [Bubbleman](https://osu.ppy.sh/users/5182050)を**プロジェクトLovedチーム**に追加
-- 2021-04-16: [DigitalHypno](https://osu.ppy.sh/users/4384207)を**プロジェクトLovedチーム**に追加
-- 2021-04-16: [Kawawa](https://osu.ppy.sh/users/4647754)を**プロジェクトLovedチーム**に追加
-- 2021-04-16: [KuroKuroKuro](https://osu.ppy.sh/users/11931563)を**プロジェクトLovedチーム**に追加
-- 2021-04-16: [Penguinosity](https://osu.ppy.sh/users/10235296)を**プロジェクトLovedチーム**に追加
-- 2021-04-16: [POCARI SWEAT](https://osu.ppy.sh/users/5082685)を**プロジェクトLovedチーム**に追加
-- 2021-04-16: [Pope Gadget](https://osu.ppy.sh/users/2288341)を**プロジェクトLovedチーム**に追加
-- 2021-04-16: [Remus](https://osu.ppy.sh/users/6850949)を**プロジェクトLovedチーム**に追加
-- 2021-04-16: [Sartan](https://osu.ppy.sh/users/4100941)を**プロジェクトLovedチーム**に追加
-- 2021-04-16: [Spectator](https://osu.ppy.sh/users/702598)を**プロジェクトLovedチーム**に追加
-- 2021-04-16: [Tenshichan](https://osu.ppy.sh/users/1101600)を**プロジェクトLovedチーム**に追加
-- 2021-04-16: [waywern2012](https://osu.ppy.sh/users/5870453)を**プロジェクトLovedチーム**に追加
-- 2021-04-16: [Wesley](https://osu.ppy.sh/users/2407265)を**プロジェクトLovedチーム**に追加
-- 2021-04-16: [X a v y](https://osu.ppy.sh/users/3738344)を**プロジェクトLovedチーム**に追加
-- 2021-04-16: [nekodex](https://osu.ppy.sh/users/102)を**osu! Alumni**から削除
-- 2021-04-19: [juankristal](https://osu.ppy.sh/users/443656)を**GMT**から**osu! Alumni**へ
-- 2021-04-28: [Wixonater](https://osu.ppy.sh/users/10083084)を**プロジェクトLovedチーム**に追加
-- 2021-04-28: [Alter-](https://osu.ppy.sh/users/4980256)を**プロジェクトLovedチーム**に追加
-- 2021-04-28: [waywern2012](https://osu.ppy.sh/users/5870453)を**プロジェクトLovedチーム**から削除
-- 2021-04-28: [Kaifin](https://osu.ppy.sh/users/2596942)を**プロジェクトLovedチーム**から削除
-- 2021-04-28: [RandomeLoL](https://osu.ppy.sh/users/7080063)を**プロジェクトLovedチーム**に追加
-- 2021-04-28: [Nikolayio](https://osu.ppy.sh/users/11279465)を**プロジェクトLovedチーム**に追加
-- 2021-04-28: [Komirin](https://osu.ppy.sh/users/4725379)を**プロジェクトLovedチーム**に追加
-- 2021-04-28: [kadoen](https://osu.ppy.sh/users/12780575)を**プロジェクトLovedチーム**に追加
-- 2021-04-28: [Noffy](https://osu.ppy.sh/users/1541323)を**プロジェクトLovedチーム**に追加
-- 2021-04-28: [hypercyte](https://osu.ppy.sh/users/9155377)を**プロジェクトLovedチーム**に追加
+- 2021-04-13: ::Leniane::{ user=7138602 }を**NAT**から**osu! Alumni**へ
+- 2021-04-16: ::-mint-::{ user=8976576 }を**プロジェクトLovedチーム**に追加
+- 2021-04-16: ::Abraxos::{ user=5025064 }を**プロジェクトLovedチーム**に追加
+- 2021-04-16: ::Bubbleman::{ user=5182050 }を**プロジェクトLovedチーム**に追加
+- 2021-04-16: ::DigitalHypno::{ user=4384207 }を**プロジェクトLovedチーム**に追加
+- 2021-04-16: ::Kawawa::{ user=4647754 }を**プロジェクトLovedチーム**に追加
+- 2021-04-16: ::KuroKuroKuro::{ user=11931563 }を**プロジェクトLovedチーム**に追加
+- 2021-04-16: ::Penguinosity::{ user=10235296 }を**プロジェクトLovedチーム**に追加
+- 2021-04-16: ::POCARI SWEAT::{ user=5082685 }を**プロジェクトLovedチーム**に追加
+- 2021-04-16: ::Pope Gadget::{ user=2288341 }を**プロジェクトLovedチーム**に追加
+- 2021-04-16: ::Remus::{ user=6850949 }を**プロジェクトLovedチーム**に追加
+- 2021-04-16: ::Sartan::{ user=4100941 }を**プロジェクトLovedチーム**に追加
+- 2021-04-16: ::Spectator::{ user=702598 }を**プロジェクトLovedチーム**に追加
+- 2021-04-16: ::Tenshichan::{ user=1101600 }を**プロジェクトLovedチーム**に追加
+- 2021-04-16: ::waywern2012::{ user=5870453 }を**プロジェクトLovedチーム**に追加
+- 2021-04-16: ::Wesley::{ user=2407265 }を**プロジェクトLovedチーム**に追加
+- 2021-04-16: ::X a v y::{ user=3738344 }を**プロジェクトLovedチーム**に追加
+- 2021-04-16: ::nekodex::{ user=102 }を**osu! Alumni**から削除
+- 2021-04-19: ::juankristal::{ user=443656 }を**GMT**から**osu! Alumni**へ
+- 2021-04-28: ::Wixonater::{ user=10083084 }を**プロジェクトLovedチーム**に追加
+- 2021-04-28: ::Alter-::{ user=4980256 }を**プロジェクトLovedチーム**に追加
+- 2021-04-28: ::waywern2012::{ user=5870453 }を**プロジェクトLovedチーム**から削除
+- 2021-04-28: ::Kaifin::{ user=2596942 }を**プロジェクトLovedチーム**から削除
+- 2021-04-28: ::RandomeLoL::{ user=7080063 }を**プロジェクトLovedチーム**に追加
+- 2021-04-28: ::Nikolayio::{ user=11279465 }を**プロジェクトLovedチーム**に追加
+- 2021-04-28: ::Komirin::{ user=4725379 }を**プロジェクトLovedチーム**に追加
+- 2021-04-28: ::kadoen::{ user=12780575 }を**プロジェクトLovedチーム**に追加
+- 2021-04-28: ::Noffy::{ user=1541323 }を**プロジェクトLovedチーム**に追加
+- 2021-04-28: ::hypercyte::{ user=9155377 }を**プロジェクトLovedチーム**に追加
 
 ### ビートマップノミネーター
 
 #### 追加
 
-- 2021-04-10: [-Luminate](https://osu.ppy.sh/users/4778689)を**試用期間中のBN**に追加
-- 2021-04-15: [Souvenir](https://osu.ppy.sh/users/14057792)を**試用期間中のBN**に追加
-- 2021-04-15: [Okoratu](https://osu.ppy.sh/users/1623405)を**試用期間中のBN**に追加
-- 2021-04-18: [My Angel RangE](https://osu.ppy.sh/users/6336713)を**試用期間中のBN**に追加
+- 2021-04-10: ::-Luminate::{ user=4778689 }を**試用期間中のBN**に追加
+- 2021-04-15: ::Souvenir::{ user=14057792 }を**試用期間中のBN**に追加
+- 2021-04-15: ::Okoratu::{ user=1623405 }を**試用期間中のBN**に追加
+- 2021-04-18: ::My Angel RangE::{ user=6336713 }を**試用期間中のBN**に追加
 
 #### 移動
 
-- 2021-04-01: [Crissa](https://osu.ppy.sh/users/5405836)を**BN**から**試用期間中のBN**へ
-- 2021-04-01: [Smoke](https://osu.ppy.sh/users/10726630)を**試用期間中のBN**から**BN**へ
-- 2021-04-06: [NeKroMan4ik](https://osu.ppy.sh/users/11387664)を**試用期間中のBN**から**BN**へ
-- 2021-04-07: [Mipha-](https://osu.ppy.sh/users/5767941)を**試用期間中のBN**から**BN**へ
-- 2021-04-08: [Xinely](https://osu.ppy.sh/users/1521445)を**試用期間中のBN**から**BN**へ
-- 2021-04-12: [Luscent](https://osu.ppy.sh/users/2688581)を**試用期間中のBN**から**BN**へ
-- 2021-04-18: [Mir](https://osu.ppy.sh/users/8688812)を**試用期間中のBN**から**BN**へ
-- 2021-04-28: [Daletto](https://osu.ppy.sh/users/7592136)を**試用期間中のBN**から**BN**へ
-- 2021-04-28: [Paran](https://osu.ppy.sh/users/13340203)を**試用期間中のBN**から**BN**へ
+- 2021-04-01: ::Crissa::{ user=5405836 }を**BN**から**試用期間中のBN**へ
+- 2021-04-01: ::Smoke::{ user=10726630 }を**試用期間中のBN**から**BN**へ
+- 2021-04-06: ::NeKroMan4ik::{ user=11387664 }を**試用期間中のBN**から**BN**へ
+- 2021-04-07: ::Mipha-::{ user=5767941 }を**試用期間中のBN**から**BN**へ
+- 2021-04-08: ::Xinely::{ user=1521445 }を**試用期間中のBN**から**BN**へ
+- 2021-04-12: ::Luscent::{ user=2688581 }を**試用期間中のBN**から**BN**へ
+- 2021-04-18: ::Mir::{ user=8688812 }を**試用期間中のBN**から**BN**へ
+- 2021-04-28: ::Daletto::{ user=7592136 }を**試用期間中のBN**から**BN**へ
+- 2021-04-28: ::Paran::{ user=13340203 }を**試用期間中のBN**から**BN**へ
 
 #### 削除
 
-- 2021-04-02: [Battle](https://osu.ppy.sh/users/4037545)を**試用期間中のBN**から削除
-- 2021-04-04: [BaAR_Vendel](https://osu.ppy.sh/users/8679346)を**BN**から削除
-- 2021-04-10: [Milan-](https://osu.ppy.sh/users/1052994)を**BN**から削除
-- 2021-04-12: [Xinely](https://osu.ppy.sh/users/1521445)を**BN**から削除
-- 2021-04-15: [-Aqua](https://osu.ppy.sh/users/7150015)を**BN**から削除
-- 2021-04-24: [Ayucchi](https://osu.ppy.sh/users/7823498)を**BN**から削除
-- 2021-04-28: [Myxo](https://osu.ppy.sh/users/2202645)を**BN**から削除
+- 2021-04-02: ::Battle::{ user=4037545 }を**試用期間中のBN**から削除
+- 2021-04-04: ::BaAR_Vendel::{ user=8679346 }を**BN**から削除
+- 2021-04-10: ::Milan-::{ user=1052994 }を**BN**から削除
+- 2021-04-12: ::Xinely::{ user=1521445 }を**BN**から削除
+- 2021-04-15: ::-Aqua::{ user=7150015 }を**BN**から削除
+- 2021-04-24: ::Ayucchi::{ user=7823498 }を**BN**から削除
+- 2021-04-28: ::Myxo::{ user=2202645 }を**BN**から削除
 
 ## 5月
 
-- 2021-05-13: [Mao](https://osu.ppy.sh/users/2204515)を**NAT**から**osu! Alumni**へ
-- 2021-05-23: [Unpredictable](https://osu.ppy.sh/users/7560872)を**NAT**に追加
+- 2021-05-13: ::Mao::{ user=2204515 }を**NAT**から**osu! Alumni**へ
+- 2021-05-23: ::Unpredictable::{ user=7560872 }を**NAT**に追加
 
 ### ビートマップノミネーター
 
 #### 追加
 
-- 2021-05-04: [CallieCube](https://osu.ppy.sh/users/7535045)を**試用期間中のBN**に追加
-- 2021-05-06: [CallMeLyra](https://osu.ppy.sh/users/15272997)を**試用期間中のBN**に追加
-- 2021-05-13: [Logic Agent](https://osu.ppy.sh/users/6341262)を**試用期間中のBN**に追加
-- 2021-05-17: [Secre](https://osu.ppy.sh/users/2306637)を**試用期間中のBN**に追加
-- 2021-05-17: [Du5t](https://osu.ppy.sh/users/6053071)を**試用期間中のBN**に追加
-- 2021-05-18: [Yahuri](https://osu.ppy.sh/users/4682629)を**試用期間中のBN**に追加
-- 2021-05-26: [tomatas95](https://osu.ppy.sh/users/11403815)を**試用期間中のBN**に追加
-- 2021-05-26: [Iceluin](https://osu.ppy.sh/users/3558897)を**試用期間中のBN**に追加
-- 2021-05-26: [Gabdu09](https://osu.ppy.sh/users/8852605)を**試用期間中のBN**に追加
-- 2021-05-26: [Dada](https://osu.ppy.sh/users/9119507)を**試用期間中のBN**に追加
-- 2021-05-26: [Akayume](https://osu.ppy.sh/users/10617530)を**試用期間中のBN**に追加
-- 2021-05-26: [Aakki](https://osu.ppy.sh/users/11077540)を**試用期間中のBN**に追加
-- 2021-05-27: [Nao Tomori](https://osu.ppy.sh/users/5364763)を**試用期間中のBN**に追加
+- 2021-05-04: ::CallieCube::{ user=7535045 }を**試用期間中のBN**に追加
+- 2021-05-06: ::CallMeLyra::{ user=15272997 }を**試用期間中のBN**に追加
+- 2021-05-13: ::Logic Agent::{ user=6341262 }を**試用期間中のBN**に追加
+- 2021-05-17: ::Secre::{ user=2306637 }を**試用期間中のBN**に追加
+- 2021-05-17: ::Du5t::{ user=6053071 }を**試用期間中のBN**に追加
+- 2021-05-18: ::Yahuri::{ user=4682629 }を**試用期間中のBN**に追加
+- 2021-05-26: ::tomatas95::{ user=11403815 }を**試用期間中のBN**に追加
+- 2021-05-26: ::Iceluin::{ user=3558897 }を**試用期間中のBN**に追加
+- 2021-05-26: ::Gabdu09::{ user=8852605 }を**試用期間中のBN**に追加
+- 2021-05-26: ::Dada::{ user=9119507 }を**試用期間中のBN**に追加
+- 2021-05-26: ::Akayume::{ user=10617530 }を**試用期間中のBN**に追加
+- 2021-05-26: ::Aakki::{ user=11077540 }を**試用期間中のBN**に追加
+- 2021-05-27: ::Nao Tomori::{ user=5364763 }を**試用期間中のBN**に追加
 
 #### 移動
 
-- 2021-05-01: [Horiiizon](https://osu.ppy.sh/users/8071438)を**試用期間中のBN**から**BN**へ
-- 2021-05-01: [gevbiivi5](https://osu.ppy.sh/users/7140680)を**試用期間中のBN**から**BN**へ
-- 2021-05-01: [VINXIS](https://osu.ppy.sh/users/4323406)を**試用期間中のBN**から**BN**へ
-- 2021-05-01: [AJT](https://osu.ppy.sh/users/3181083)を**試用期間中のBN**から**BN**へ
-- 2021-05-11: [Xahlt](https://osu.ppy.sh/users/13466351)を**試用期間中のBN**から**BN**へ
-- 2021-05-11: [rosario wknd](https://osu.ppy.sh/users/6341518)を**試用期間中のBN**から**BN**へ
-- 2021-05-15: [Kudosu](https://osu.ppy.sh/users/11038155)を**試用期間中のBN**から**BN**へ
-- 2021-05-15: [Default Guy](https://osu.ppy.sh/users/7058457)を**BN**から**試用期間中のBN**へ
-- 2021-05-15: [davidminh0111](https://osu.ppy.sh/users/9623142)を**BN**から**試用期間中のBN**へ
-- 2021-05-16: [Komirin](https://osu.ppy.sh/users/4725379)を**試用期間中のBN**から**BN**へ
-- 2021-05-16: [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608)を**試用期間中のBN**から**BN**へ
-- 2021-05-18: [Sylas](https://osu.ppy.sh/users/3906405)を**試用期間中のBN**から**BN**へ
-- 2021-05-18: [Okoratu](https://osu.ppy.sh/users/1623405)を**試用期間中のBN**から**BN**へ
-- 2021-05-29: [Souvenir](https://osu.ppy.sh/users/14057792)を**試用期間中のBN**から**BN**へ
+- 2021-05-01: ::Horiiizon::{ user=8071438 }を**試用期間中のBN**から**BN**へ
+- 2021-05-01: ::gevbiivi5::{ user=7140680 }を**試用期間中のBN**から**BN**へ
+- 2021-05-01: ::VINXIS::{ user=4323406 }を**試用期間中のBN**から**BN**へ
+- 2021-05-01: ::AJT::{ user=3181083 }を**試用期間中のBN**から**BN**へ
+- 2021-05-11: ::Xahlt::{ user=13466351 }を**試用期間中のBN**から**BN**へ
+- 2021-05-11: ::rosario wknd::{ user=6341518 }を**試用期間中のBN**から**BN**へ
+- 2021-05-15: ::Kudosu::{ user=11038155 }を**試用期間中のBN**から**BN**へ
+- 2021-05-15: ::Default Guy::{ user=7058457 }を**BN**から**試用期間中のBN**へ
+- 2021-05-15: ::davidminh0111::{ user=9623142 }を**BN**から**試用期間中のBN**へ
+- 2021-05-16: ::Komirin::{ user=4725379 }を**試用期間中のBN**から**BN**へ
+- 2021-05-16: ::AHHHHHHHHHHHHHH::{ user=8249608 }を**試用期間中のBN**から**BN**へ
+- 2021-05-18: ::Sylas::{ user=3906405 }を**試用期間中のBN**から**BN**へ
+- 2021-05-18: ::Okoratu::{ user=1623405 }を**試用期間中のBN**から**BN**へ
+- 2021-05-29: ::Souvenir::{ user=14057792 }を**試用期間中のBN**から**BN**へ
 
 #### 削除
 
-- 2021-05-09: [Ulqui](https://osu.ppy.sh/users/1263669)を**BN**から削除
-- 2021-05-16: [Crissa](https://osu.ppy.sh/users/5405836)を**試用期間中のBN**から削除
-- 2021-05-16: [skylaa](https://osu.ppy.sh/users/9505704)を**BN**から削除
-- 2021-05-17: [Maridius](https://osu.ppy.sh/users/4496961)を**BN**から削除
-- 2021-05-18: [Astronic](https://osu.ppy.sh/users/9320502)を**試用期間中のBN**から削除
-- 2021-05-22: [Butylcyclobutyn](https://osu.ppy.sh/users/10959501)を**BN**から削除
-- 2021-05-23: [Unpredictable](https://osu.ppy.sh/users/7560872)を**BN**から削除
-- 2021-05-23: [-Aku](https://osu.ppy.sh/users/12315824)を**試用期間中のBN**から削除
-- 2021-05-30: [Amiichii](https://osu.ppy.sh/users/9228569)を**BN**から削除
+- 2021-05-09: ::Ulqui::{ user=1263669 }を**BN**から削除
+- 2021-05-16: ::Crissa::{ user=5405836 }を**試用期間中のBN**から削除
+- 2021-05-16: ::skylaa::{ user=9505704 }を**BN**から削除
+- 2021-05-17: ::Maridius::{ user=4496961 }を**BN**から削除
+- 2021-05-18: ::Astronic::{ user=9320502 }を**試用期間中のBN**から削除
+- 2021-05-22: ::Butylcyclobutyn::{ user=10959501 }を**BN**から削除
+- 2021-05-23: ::Unpredictable::{ user=7560872 }を**BN**から削除
+- 2021-05-23: ::-Aku::{ user=12315824 }を**試用期間中のBN**から削除
+- 2021-05-30: ::Amiichii::{ user=9228569 }を**BN**から削除
 
 ## 6月
 
-- 2021-06-06: [Deif](https://osu.ppy.sh/users/318565)を**GMT**から削除
-- 2021-06-06: [WalterToro](https://osu.ppy.sh/users/5281416)を**GMT**から**osu! Alumni**へ
+- 2021-06-06: ::Deif::{ user=318565 }を**GMT**から削除
+- 2021-06-06: ::WalterToro::{ user=5281416 }を**GMT**から**osu! Alumni**へ
 
 ### ビートマップノミネーター
 
 #### 移動
 
-- 2021-06-05: [My Angel RangE](https://osu.ppy.sh/users/6336713)を**試用期間中のBN**から**BN**へ
+- 2021-06-05: ::My Angel RangE::{ user=6336713 }を**試用期間中のBN**から**BN**へ
 
 #### 削除
 
-- 2021-06-02: [Teky](https://osu.ppy.sh/users/10520912)を**BN**から削除
-- 2021-06-02: [Hobbes2](https://osu.ppy.sh/users/8157492)を**BN**から削除
+- 2021-06-02: ::Teky::{ user=10520912 }を**BN**から削除
+- 2021-06-02: ::Hobbes2::{ user=8157492 }を**BN**から削除

@@ -108,7 +108,7 @@ Hasta 16 jugadores se enfrentarán en varias rondas el martes a las 12:00 (UTC+2
 
 ### Presentación secreta
 
-::{ flag=IT }:: [Spazza17](https://osu.ppy.sh/users/3516241) realizará un evento especial en el que se hará un gran anuncio y se revelará una primicia en directo desde el escenario el martes a las 16:00 (UTC+2).
+::{ flag=IT }:: ::Spazza17::{ user=3516241 } realizará un evento especial en el que se hará un gran anuncio y se revelará una primicia en directo desde el escenario el martes a las 16:00 (UTC+2).
 
 ### Adivina el rango
 
@@ -116,7 +116,7 @@ En el evento «Adivina el rango», que se realizará el martes a las 20:00 (UTC+
 
 ### Panel de músicos y artistas
 
-::{ flag=NL }:: [Kushper](https://osu.ppy.sh/users/4832514) y ::{ flag=US }:: [Naikou](https://osu.ppy.sh/beatmaps/artists/471) llevarán a cabo un panel en el que se analizará el mundo de la música original de los torneos y la música de osu! en general, el martes a las 22:30 (UTC+2).
+::{ flag=NL }:: ::Kushper::{ user=4832514 } y ::{ flag=US }:: [Naikou](https://osu.ppy.sh/beatmaps/artists/471) llevarán a cabo un panel en el que se analizará el mundo de la música original de los torneos y la música de osu! en general, el martes a las 22:30 (UTC+2).
 
 ### Survivor
 
@@ -124,7 +124,7 @@ Survivor es un concurso de preguntas y respuestas en el que se plantean pregunta
 
 ### Mindblock
 
-Mindblock es un concurso de preguntas y respuestas organizado por ::{ flag=FI }:: [Nyanaro](https://osu.ppy.sh/users/4157611) el jueves a las 21:00 (UTC+2), en el que los participantes compiten en preguntas difíciles, temas inesperados y rondas que ponen a prueba la mente, en las que la rapidez mental y los conocimientos son fundamentales.
+Mindblock es un concurso de preguntas y respuestas organizado por ::{ flag=FI }:: ::Nyanaro::{ user=4157611 } el jueves a las 21:00 (UTC+2), en el que los participantes compiten en preguntas difíciles, temas inesperados y rondas que ponen a prueba la mente, en las que la rapidez mental y los conocimientos son fundamentales.
 
 ### Presentación de tabletas de 1000 Hz
 
@@ -136,13 +136,13 @@ COE 2026 es organizado por diversos miembros de la comunidad y organizaciones as
 
 | Posición | Miembro(s) |
 | :-- | :-- |
-| Organizador | ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815), ::{ flag=DE }:: [Meyer](https://osu.ppy.sh/users/5452367) |
-| Desarrollador | ::{ flag=NL }:: [Anassm03](https://osu.ppy.sh/users/19743946), ::{ flag=NL }:: [dyl](https://osu.ppy.sh/users/9507985), ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692), ::{ flag=DE }:: [Meyer](https://osu.ppy.sh/users/5452367), ::{ flag=NL }:: [oliebol](https://osu.ppy.sh/users/2756335), ::{ flag=PT }:: [Pinossaur](https://osu.ppy.sh/users/15767298), ::{ flag=AU }:: [Syrin](https://osu.ppy.sh/users/5701575), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) |
-| Técnico informático | ::{ flag=NL }:: [300mm](https://osu.ppy.sh/users/8958322), ::{ flag=NL }:: [dyl](https://osu.ppy.sh/users/9507985), ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692), ::{ flag=NL }:: [Kasll](https://osu.ppy.sh/users/4453686), ::{ flag=PL }:: [LiquidPL](https://osu.ppy.sh/users/5044384), ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981), ::{ flag=DK }:: [THEDUCK](https://osu.ppy.sh/users/6080866), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454), ::{ flag=NL }:: [WhatTheHai](https://osu.ppy.sh/users/2447940), ::{ flag=DE }:: [WhyDontWePlay](https://osu.ppy.sh/users/10716359) |
-| Técnico de escenario | ::{ flag=NL }:: [jackylam5](https://osu.ppy.sh/users/1540807), Jupun__, ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454), toast, wesstrike, ::{ flag=DE }:: [Xhello123X](https://osu.ppy.sh/users/17460866) |
-| Personal del torneo | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=FR }:: [Glowez](https://osu.ppy.sh/users/13706157), ::{ flag=HU }:: [Himada](https://osu.ppy.sh/users/10959366), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=PT }:: [Pinossaur](https://osu.ppy.sh/users/15767298), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454), ::{ flag=NL }:: [Timper](https://osu.ppy.sh/users/11955929), ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) |
-| Coordinador de actividades | ::{ flag=NL }:: [Anassm03](https://osu.ppy.sh/users/19743946), ::{ flag=DE }:: [Knorke](https://osu.ppy.sh/users/10455995), ::{ flag=AU }:: [Syrin](https://osu.ppy.sh/users/5701575) |
-| Coordinador de los medios de comunicación | ::{ flag=FR }:: [JapWhite](https://osu.ppy.sh/users/7068158), ::{ flag=NL }:: [Tais993](https://osu.ppy.sh/users/15423699) |
-| Responsable de ventas | ::{ flag=DE }:: [Mou](https://osu.ppy.sh/users/1453009) |
-| Personal adicional | ::{ flag=SK }:: [Conni](https://osu.ppy.sh/users/36300501), ::{ flag=DE }:: [DrachenKlinge](https://osu.ppy.sh/users/20033121), ::{ flag=FR }:: [GanyuMyBeloved](https://osu.ppy.sh/users/15812525), ::{ flag=NL }:: [HitSquid](https://osu.ppy.sh/users/23781291), ::{ flag=FI }:: [Iai](https://osu.ppy.sh/users/8019011), ::{ flag=CL }:: [Isita](https://osu.ppy.sh/users/13973026), ::{ flag=NL }:: [Kasll](https://osu.ppy.sh/users/4453686), ::{ flag=DE }:: [KnuffKirby](https://osu.ppy.sh/users/14187582), ::{ flag=NL }:: [kyudomaster](https://osu.ppy.sh/users/7267807), melon, ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=GB }:: [shoshuu](https://osu.ppy.sh/users/10337355), ::{ flag=US }:: [Shrocket](https://osu.ppy.sh/users/6591909), sleepy, ::{ flag=HU }:: [verto](https://osu.ppy.sh/users/2015300), ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079), ::{ flag=NL }:: [Zereliq](https://osu.ppy.sh/users/4059978), ::{ flag=DE }:: [Zixx4](https://osu.ppy.sh/users/13582160) |
+| Organizador | ::{ flag=NL }:: ::cavoeboy::{ user=7361815 }, ::{ flag=DE }:: ::Meyer::{ user=5452367 } |
+| Desarrollador | ::{ flag=NL }:: ::Anassm03::{ user=19743946 }, ::{ flag=NL }:: ::dyl::{ user=9507985 }, ::{ flag=GB }:: ::ilw8::{ user=14167692 }, ::{ flag=DE }:: ::Meyer::{ user=5452367 }, ::{ flag=NL }:: ::oliebol::{ user=2756335 }, ::{ flag=PT }:: ::Pinossaur::{ user=15767298 }, ::{ flag=AU }:: ::Syrin::{ user=5701575 }, ::{ flag=FR }:: ::ThePooN::{ user=718454 } |
+| Técnico informático | ::{ flag=NL }:: ::300mm::{ user=8958322 }, ::{ flag=NL }:: ::dyl::{ user=9507985 }, ::{ flag=GB }:: ::ilw8::{ user=14167692 }, ::{ flag=NL }:: ::Kasll::{ user=4453686 }, ::{ flag=PL }:: ::LiquidPL::{ user=5044384 }, ::{ flag=FR }:: ::Nozhomi::{ user=2716981 }, ::{ flag=DK }:: ::THEDUCK::{ user=6080866 }, ::{ flag=FR }:: ::ThePooN::{ user=718454 }, ::{ flag=NL }:: ::WhatTheHai::{ user=2447940 }, ::{ flag=DE }:: ::WhyDontWePlay::{ user=10716359 } |
+| Técnico de escenario | ::{ flag=NL }:: ::jackylam5::{ user=1540807 }, Jupun__, ::{ flag=FR }:: ::Nozhomi::{ user=2716981 }, ::{ flag=FR }:: ::Paturages::{ user=1375479 }, ::{ flag=FR }:: ::ThePooN::{ user=718454 }, toast, wesstrike, ::{ flag=DE }:: ::Xhello123X::{ user=17460866 } |
+| Personal del torneo | ::{ flag=NL }:: ::Albionthegreat::{ user=9853595 }, ::{ flag=NL }:: ::cavoeboy::{ user=7361815 }, ::{ flag=PL }:: ::flapczek::{ user=8210988 }, ::{ flag=FR }:: ::Glowez::{ user=13706157 }, ::{ flag=HU }:: ::Himada::{ user=10959366 }, ::{ flag=FR }:: ::Paturages::{ user=1375479 }, ::{ flag=PT }:: ::Pinossaur::{ user=15767298 }, ::{ flag=DE }:: ::TheHunter1::{ user=6496016 }, ::{ flag=FR }:: ::ThePooN::{ user=718454 }, ::{ flag=NL }:: ::Timper::{ user=11955929 }, ::{ flag=CA }:: ::VINXIS::{ user=4323406 } |
+| Coordinador de actividades | ::{ flag=NL }:: ::Anassm03::{ user=19743946 }, ::{ flag=DE }:: ::Knorke::{ user=10455995 }, ::{ flag=AU }:: ::Syrin::{ user=5701575 } |
+| Coordinador de los medios de comunicación | ::{ flag=FR }:: ::JapWhite::{ user=7068158 }, ::{ flag=NL }:: ::Tais993::{ user=15423699 } |
+| Responsable de ventas | ::{ flag=DE }:: ::Mou::{ user=1453009 } |
+| Personal adicional | ::{ flag=SK }:: ::Conni::{ user=36300501 }, ::{ flag=DE }:: ::DrachenKlinge::{ user=20033121 }, ::{ flag=FR }:: ::GanyuMyBeloved::{ user=15812525 }, ::{ flag=NL }:: ::HitSquid::{ user=23781291 }, ::{ flag=FI }:: ::Iai::{ user=8019011 }, ::{ flag=CL }:: ::Isita::{ user=13973026 }, ::{ flag=NL }:: ::Kasll::{ user=4453686 }, ::{ flag=DE }:: ::KnuffKirby::{ user=14187582 }, ::{ flag=NL }:: ::kyudomaster::{ user=7267807 }, melon, ::{ flag=FR }:: ::Paturages::{ user=1375479 }, ::{ flag=GB }:: ::shoshuu::{ user=10337355 }, ::{ flag=US }:: ::Shrocket::{ user=6591909 }, sleepy, ::{ flag=HU }:: ::verto::{ user=2015300 }, ::{ flag=SE }:: ::Walavouchey::{ user=5773079 }, ::{ flag=NL }:: ::Zereliq::{ user=4059978 }, ::{ flag=DE }:: ::Zixx4::{ user=13582160 } |
 | Socios operativos | [Brabanthallen](https://www.brabanthallen.nl/), [osu!frlive](https://osufr.live/), [Pixel Arcade](https://pixelarcade.nl/), [Speedseats](https://www.speedseats.eu/over-ons/), [Zed Up](https://www.zed-up.de/) |

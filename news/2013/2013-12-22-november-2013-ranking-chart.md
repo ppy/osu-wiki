@@ -12,27 +12,27 @@ Congratulations to last month's winners!
 
 **osu! standard**
 
-1. [Doomsday](https://osu.ppy.sh/users/Doomsday) \- 1 month of supporter
-2. [SapphireGhost](https://osu.ppy.sh/users/SapphireGhost)
-3. [Nitro](https://osu.ppy.sh/users/Nitro)
+1. ::Doomsday::{ user=18983 } \- 1 month of supporter
+2. ::SapphireGhost::{ user=388602 }
+3. ::Nitro::{ user=654098 }
 
 **Taiko**
 
-1. [EBAWER123](https://osu.ppy.sh/users/EBAWER123) \- 1 month of supporter
-2. [FEZ_Icese](https://osu.ppy.sh/users/FEZ_Icese)
-3. [AnFace](https://osu.ppy.sh/users/AnFace)
+1. ::EBAWER123::{ user=480304 } \- 1 month of supporter
+2. ::FEZ_Icese::{ user=2732162 }
+3. ::AnFace::{ user=233485 }
 
 **Catch the Beat**
 
-1. [Dusk](https://osu.ppy.sh/users/Dusk) \- 1 month of supporter
-2. [Sakurano Kurimu](https://osu.ppy.sh/users/1338103)
-3. [\[_Crystal\]](https://osu.ppy.sh/users/1646397)
+1. ::Dusk::{ user=533210 } \- 1 month of supporter
+2. ::Sakurano Kurimu::{ user=1338103 }
+3. ::\[_Crystal\]::{ user=1646397 }
 
 **osu!mania**
 
-1. [SARASNOW](https://osu.ppy.sh/users/SARASNOW) \- 1 month of supporter
-2. [Oujo](https://osu.ppy.sh/users/Oujo)
-3. [ChoiJiYoon](https://osu.ppy.sh/users/ChoiJiYoon)
+1. ::SARASNOW::{ user=3318938 } \- 1 month of supporter
+2. ::Oujo::{ user=3425143 }
+3. ::ChoiJiYoon::{ user=2843258 }
 
 Good luck on the charts this month!
 

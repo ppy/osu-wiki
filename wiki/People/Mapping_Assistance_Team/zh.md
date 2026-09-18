@@ -12,7 +12,7 @@ MAT 由一名 [MAT 领导](/wiki/People/Mapping_Assistance_Team/MAT_Leaders)监�
 
 ## 历史
 
-MAT 成立于 2009 年 12 月 27 日，其首批成员由 BAT 成员亲自挑选。[^1]MAT 的首任临时领导是 ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335)。
+MAT 成立于 2009 年 12 月 27 日，其首批成员由 BAT 成员亲自挑选。[^1]MAT 的首任临时领导是 ::{ flag=AU }:: ::Ephemeral::{ user=102335 }。
 
 此后不久，MAT 开放了申请，允许广大作图与摸图社区的所有成员申请加入。2010 年 2 月 26 日，基于 BAT 成员和现有 MAT 成员的集体评估，第一批新 MAT 成员从这些申请者中产生。[^2]随后申请轮次定期举行，以发掘新成员，并向未通过的申请者提供反馈。
 

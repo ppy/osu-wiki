@@ -8,7 +8,7 @@ tags:
 
 ![](img/banner.jpg)
 
-The **Pending Cup** is originally a Chinese mapping contest, which had its first iteration in 2013 held by [NatsumeRin](https://osu.ppy.sh/users/151679). This year's contest was hosted by [Chaoslitz](https://osu.ppy.sh/users/3621552), [seros](https://osu.ppy.sh/users/10562853) and [Elayue](https://osu.ppy.sh/users/6400861).
+The **Pending Cup** is originally a Chinese mapping contest, which had its first iteration in 2013 held by ::NatsumeRin::{ user=151679 }. This year's contest was hosted by ::Chaoslitz::{ user=3621552 }, ::seros::{ user=10562853 } and ::Elayue::{ user=6400861 }.
 
 ## Schedule
 
@@ -38,8 +38,8 @@ For the winner with the **highest points** out of the **3** tracks, there was a 
 
 | Placement | Prizes |
 | :-: | :-- |
-| 1st | **Wooting 60HE+** (courtesy of [Ttmnzk](https://osu.ppy.sh/users/2495509)), custom Pending Cup 2024 sticker set and keychain |
-| 2nd | **[osu! deskmat](https://osu.ppy.sh/store/products/1347) of your choice** (courtesy of [Chaoslitz](https://osu.ppy.sh/users/3621552)), custom Pending Cup 2024 sticker set and keychain |
+| 1st | **Wooting 60HE+** (courtesy of ::Ttmnzk::{ user=2495509 }), custom Pending Cup 2024 sticker set and keychain |
+| 2nd | **[osu! deskmat](https://osu.ppy.sh/store/products/1347) of your choice** (courtesy of ::Chaoslitz::{ user=3621552 }), custom Pending Cup 2024 sticker set and keychain |
 | 3rd | Custom Pending Cup 2024 sticker set and keychain |
 
 ### Lucky draw
@@ -50,11 +50,11 @@ In addition, there were two lucky draws of 1 month of osu! supporter for anyone 
 
 | Position | Member(s) |
 | --: | :-- |
-| Hosts | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552), ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853), ::{ flag=CN }:: [Elayue](https://osu.ppy.sh/users/6400861) |
-| Judges | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557), ::{ flag=CN }:: [Fycho](https://osu.ppy.sh/users/1876867), ::{ flag=CN }:: [pw384](https://osu.ppy.sh/users/1343783), ::{ flag=US }:: [captin1](https://osu.ppy.sh/users/689997), ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501), ::{ flag=AU }:: [Gibune](https://osu.ppy.sh/users/5778687), ::{ flag=US }:: [KoldNoodl](https://osu.ppy.sh/users/12572294) ::{ flag=JP }:: [Reioli](https://osu.ppy.sh/users/8200707) |
-| Sponsors | ::{ flag=CN }:: [TtmnZk](https://osu.ppy.sh/users/2495509), ::{ flag=CN }:: [Hollow Wings](https://osu.ppy.sh/users/416662), ::{ flag=HK }:: [Regou](https://osu.ppy.sh/users/419954), ::{ flag=JP }:: [Sphaela](https://osu.ppy.sh/users/7075821), ::{ flag=CN }:: [pw384](https://osu.ppy.sh/users/1343783), ::{ flag=CA }:: [Feiri](https://osu.ppy.sh/users/3214844), ::{ flag=CN }:: [Flower](https://osu.ppy.sh/users/1033017), ::{ flag=HK }:: [Kyle Y](https://osu.ppy.sh/users/3565813), ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229), ::{ flag=CN }:: [Gust](https://osu.ppy.sh/users/1244312), ::{ flag=CN }:: [Edmound](https://osu.ppy.sh/users/10932297), ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552), ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853), ::{ flag=CN }:: [Elayue](https://osu.ppy.sh/users/6400861), ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) |
-| Design | ::{ flag=CA }:: [kaetwo](https://osu.ppy.sh/users/1997719), ::{ flag=DK }:: [tochiii](https://osu.ppy.sh/users/3664366) |
-| Special thanks | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), ::{ flag=CA }:: [kaetwo](https://osu.ppy.sh/users/1997719), ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785), ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418), ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747), ::{ flag=JP }:: [Satellite](https://osu.ppy.sh/users/1661227), ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) |
+| Hosts | ::{ flag=HK }:: ::Chaoslitz::{ user=3621552 }, ::{ flag=HK }:: ::seros::{ user=10562853 }, ::{ flag=CN }:: ::Elayue::{ user=6400861 } |
+| Judges | ::{ flag=CN }:: ::Firika::{ user=9590557 }, ::{ flag=CN }:: ::Fycho::{ user=1876867 }, ::{ flag=CN }:: ::pw384::{ user=1343783 }, ::{ flag=US }:: ::captin1::{ user=689997 }, ::{ flag=BE }:: ::enneya::{ user=10959501 }, ::{ flag=AU }:: ::Gibune::{ user=5778687 }, ::{ flag=US }:: ::KoldNoodl::{ user=12572294 } ::{ flag=JP }:: ::Reioli::{ user=8200707 } |
+| Sponsors | ::{ flag=CN }:: ::TtmnZk::{ user=2495509 }, ::{ flag=CN }:: ::Hollow Wings::{ user=416662 }, ::{ flag=HK }:: ::Regou::{ user=419954 }, ::{ flag=JP }:: ::Sphaela::{ user=7075821 }, ::{ flag=CN }:: ::pw384::{ user=1343783 }, ::{ flag=CA }:: ::Feiri::{ user=3214844 }, ::{ flag=CN }:: ::Flower::{ user=1033017 }, ::{ flag=HK }:: ::Kyle Y::{ user=3565813 }, ::{ flag=CN }:: ::_Stan::{ user=1653229 }, ::{ flag=CN }:: ::Gust::{ user=1244312 }, ::{ flag=CN }:: ::Edmound::{ user=10932297 }, ::{ flag=HK }:: ::Chaoslitz::{ user=3621552 }, ::{ flag=HK }:: ::seros::{ user=10562853 }, ::{ flag=CN }:: ::Elayue::{ user=6400861 }, ::{ flag=CN }:: ::Mafumafu::{ user=3076909 } |
+| Design | ::{ flag=CA }:: ::kaetwo::{ user=1997719 }, ::{ flag=DK }:: ::tochiii::{ user=3664366 } |
+| Special thanks | ::{ flag=TN }:: ::Hivie::{ user=14102976 }, ::{ flag=CA }:: ::kaetwo::{ user=1997719 }, ::{ flag=CN }:: ::Mafumafu::{ user=3076909 }, ::{ flag=ID }:: ::Maxus::{ user=4335785 }, ::{ flag=US }:: ::pishifat::{ user=3178418 }, ::{ flag=US }:: ::Protastic101::{ user=6712747 }, ::{ flag=JP }:: ::Satellite::{ user=1661227 }, ::{ flag=SE }:: ::Walavouchey::{ user=5773079 } |
 
 ## Links
 
@@ -86,7 +86,7 @@ This year included two non-FA songs as part of the song list, which also means a
 
 ---
 
-The [lucky draw](#lucky-draw) winners were [App](https://osu.ppy.sh/users/13650508) and [Gyro Zeppeli](https://osu.ppy.sh/users/3824882).
+The [lucky draw](#lucky-draw) winners were ::App::{ user=13650508 } and ::Gyro Zeppeli::{ user=3824882 }.
 
 ## Results
 

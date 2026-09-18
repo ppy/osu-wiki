@@ -11,7 +11,7 @@ outdated_since: 3b4dd8cfaab05c9468820a1547b39b47b22a8fd2
 
 ![AGTS 2019 logo](img/logo.jpg)
 
-**Advanced Global Taiko Showdown 2019**(***AGTS 2019***)は、::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263)と::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133)が主催する2vs2ダブルエリミネーション方式国別osu! taikoトーナメントである。この大会は、Global Taiko ShowdownシリーズのAdvanced Global Taiko Showdownの第1弾として開催されました。
+**Advanced Global Taiko Showdown 2019**(***AGTS 2019***)は、::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }と::{ flag=FR }:: ::TLQ\_Yoshii::{ user=7157133 }が主催する2vs2ダブルエリミネーション方式国別osu! taikoトーナメントである。この大会は、Global Taiko ShowdownシリーズのAdvanced Global Taiko Showdownの第1弾として開催されました。
 
 ## 大会スケジュール
 
@@ -42,16 +42,16 @@ Advanced Global Taiko Showdown 2019は様々なコミュニティメンバーに
 
 | 役職 | メンバー |
 | :-- | :-- |
-| マネージャー | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263)、::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| マップセレクター | ::{ flag=DE }:: [Nepuri](https://osu.ppy.sh/users/6637817)、::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097) |
-| 審判 | ::{ flag=BR }:: [AnonX32](https://osu.ppy.sh/users/2730270)、::{ flag=US }:: [cheese salad](https://osu.ppy.sh/users/6349821)、::{ flag=US }:: [Edgar\_Figaro](https://osu.ppy.sh/users/6508754)、::{ flag=DE }:: [GDLenny](https://osu.ppy.sh/users/8406711)、::{ flag=DE }:: [Heam](https://osu.ppy.sh/users/4705120)、::{ flag=FR }:: [Ladybug](https://osu.ppy.sh/users/4833654)、::{ flag=FR }:: [Ladylag](https://osu.ppy.sh/users/2812098)、::{ flag=FR }:: [Mirthille](https://osu.ppy.sh/users/7548517)、::{ flag=DK }:: [Plaiceholder](https://osu.ppy.sh/users/11910867)、::{ flag=TH }:: [Seaweed](https://osu.ppy.sh/users/5151214)、::{ flag=AU }:: [soliderror](https://osu.ppy.sh/users/10630542)、::{ flag=MY }:: [Stupid Idiot](https://osu.ppy.sh/users/8355574)、::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133)、::{ flag=SG }:: [uchuuj1n](https://osu.ppy.sh/users/9140302) |
-| 配信 | ::{ flag=BR }:: [AnonX32](https://osu.ppy.sh/users/2730270)、::{ flag=JP }:: [Briesmas](https://osu.ppy.sh/users/2865172)、::{ flag=US }:: [cheese salad](https://osu.ppy.sh/users/6349821)、::{ flag=PL }:: [Deroo](https://osu.ppy.sh/users/8360475)、::{ flag=US }:: [ITotallyGetThat](https://osu.ppy.sh/users/8770622)、::{ flag=FR }:: [Kaeldori](https://osu.ppy.sh/users/962519)、::{ flag=NL }:: [Krekker](https://osu.ppy.sh/users/8265940)、::{ flag=FR }:: [Mirthille](https://osu.ppy.sh/users/7548517) |
-| コメンテーター | ::{ flag=BR }:: [AnonX32](https://osu.ppy.sh/users/2730270)、::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171)、::{ flag=US }:: [CaptainEChan](https://osu.ppy.sh/users/9536977)、::{ flag=FR }:: [Chernobog](https://osu.ppy.sh/users/3317042)、::{ flag=PL }:: [Deroo](https://osu.ppy.sh/users/8360475)、::{ flag=US }:: [Edgar\_Figaro](https://osu.ppy.sh/users/6508754)、::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910)、::{ flag=DE }:: [Heam](https://osu.ppy.sh/users/4705120)、::{ flag=US }:: [kb131313](https://osu.ppy.sh/users/11229259)、::{ flag=US }:: [Tsred](https://osu.ppy.sh/users/2737667)、::{ flag=SG }:: [uchuuj1n](https://osu.ppy.sh/users/9140302) |
-| デザイナー | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
-| 統計 | ::{ flag=DE }:: [IceDynamix](https://osu.ppy.sh/users/8599070)、::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263)、::{ flag=CA }:: [Leadenginger](https://osu.ppy.sh/users/3799991)、::{ flag=MY }:: [Minisora](https://osu.ppy.sh/users/9627666) |
-| 翻訳 | ::{ flag=BR }:: [AnonX32](https://osu.ppy.sh/users/2730270)、::{ flag=KR }:: [BamgoeSN](https://osu.ppy.sh/users/1152851)、::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015)、::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754)、::{ flag=PL }:: [Deroo](https://osu.ppy.sh/users/8360475)、::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910)、::{ flag=TW }:: [InfinityAstral](https://osu.ppy.sh/users/9913256)、::{ flag=US }:: [jyake](https://osu.ppy.sh/users/9099822)、::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263)、::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| ウェブ開発者 | ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)、::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) |
-| ウィキ編集者 | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| マネージャー | ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }、::{ flag=FR }:: ::TLQ\_Yoshii::{ user=7157133 } |
+| マップセレクター | ::{ flag=DE }:: ::Nepuri::{ user=6637817 }、::{ flag=US }:: ::Nifty::{ user=4956097 } |
+| 審判 | ::{ flag=BR }:: ::AnonX32::{ user=2730270 }、::{ flag=US }:: ::cheese salad::{ user=6349821 }、::{ flag=US }:: ::Edgar\_Figaro::{ user=6508754 }、::{ flag=DE }:: ::GDLenny::{ user=8406711 }、::{ flag=DE }:: ::Heam::{ user=4705120 }、::{ flag=FR }:: ::Ladybug::{ user=4833654 }、::{ flag=FR }:: ::Ladylag::{ user=2812098 }、::{ flag=FR }:: ::Mirthille::{ user=7548517 }、::{ flag=DK }:: ::Plaiceholder::{ user=11910867 }、::{ flag=TH }:: ::Seaweed::{ user=5151214 }、::{ flag=AU }:: ::soliderror::{ user=10630542 }、::{ flag=MY }:: ::Stupid Idiot::{ user=8355574 }、::{ flag=FR }:: ::TLQ\_Yoshii::{ user=7157133 }、::{ flag=SG }:: ::uchuuj1n::{ user=9140302 } |
+| 配信 | ::{ flag=BR }:: ::AnonX32::{ user=2730270 }、::{ flag=JP }:: ::Briesmas::{ user=2865172 }、::{ flag=US }:: ::cheese salad::{ user=6349821 }、::{ flag=PL }:: ::Deroo::{ user=8360475 }、::{ flag=US }:: ::ITotallyGetThat::{ user=8770622 }、::{ flag=FR }:: ::Kaeldori::{ user=962519 }、::{ flag=NL }:: ::Krekker::{ user=8265940 }、::{ flag=FR }:: ::Mirthille::{ user=7548517 } |
+| コメンテーター | ::{ flag=BR }:: ::AnonX32::{ user=2730270 }、::{ flag=AU }:: ::Beat43210::{ user=5664171 }、::{ flag=US }:: ::CaptainEChan::{ user=9536977 }、::{ flag=FR }:: ::Chernobog::{ user=3317042 }、::{ flag=PL }:: ::Deroo::{ user=8360475 }、::{ flag=US }:: ::Edgar\_Figaro::{ user=6508754 }、::{ flag=EC }:: ::Gamelan4::{ user=9856910 }、::{ flag=DE }:: ::Heam::{ user=4705120 }、::{ flag=US }:: ::kb131313::{ user=11229259 }、::{ flag=US }:: ::Tsred::{ user=2737667 }、::{ flag=SG }:: ::uchuuj1n::{ user=9140302 } |
+| デザイナー | ::{ flag=ID }:: ::fajar13k::{ user=7100002 } |
+| 統計 | ::{ flag=DE }:: ::IceDynamix::{ user=8599070 }、::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }、::{ flag=CA }:: ::Leadenginger::{ user=3799991 }、::{ flag=MY }:: ::Minisora::{ user=9627666 } |
+| 翻訳 | ::{ flag=BR }:: ::AnonX32::{ user=2730270 }、::{ flag=KR }:: ::BamgoeSN::{ user=1152851 }、::{ flag=DE }:: ::Capu::{ user=2474015 }、::{ flag=HK }:: ::Cynplytholowazy::{ user=3901754 }、::{ flag=PL }:: ::Deroo::{ user=8360475 }、::{ flag=EC }:: ::Gamelan4::{ user=9856910 }、::{ flag=TW }:: ::InfinityAstral::{ user=9913256 }、::{ flag=US }:: ::jyake::{ user=9099822 }、::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }、::{ flag=FR }:: ::TLQ\_Yoshii::{ user=7157133 } |
+| ウェブ開発者 | ::{ flag=DE }:: ::hallowatcher::{ user=1874761 }、::{ flag=FR }:: ::ThePooN::{ user=718454 } |
+| ウィキ編集者 | ::{ flag=ID }:: ::fajar13k::{ user=7100002 } |
 
 ## リンク
 
@@ -65,36 +65,36 @@ Advanced Global Taiko Showdown 2019は様々なコミュニティメンバーに
 
 |  | 国 | メンバー |
 | :-: | :-: | :-- |
-| ::{ flag=AR }:: | **アルゼンチン** | **[Pollotuc](https://osu.ppy.sh/users/42440)**、[juanilp4evr](https://osu.ppy.sh/users/6413125)、[Atreevete](https://osu.ppy.sh/users/2615199)、[warning dark](https://osu.ppy.sh/users/5040981) |
-| ::{ flag=AU }:: | **オーストラリア** | **[Beat43210](https://osu.ppy.sh/users/5664171)**、[Tsubasa2](https://osu.ppy.sh/users/6835183)、[richy2001](https://osu.ppy.sh/users/11499467)、[AmateurMonkeyYT](https://osu.ppy.sh/users/8379046) |
-| ::{ flag=AT }:: | **オーストリア** | **[animexamera](https://osu.ppy.sh/users/7511357)**、[morth1](https://osu.ppy.sh/users/7246874)、[Der Katze](https://osu.ppy.sh/users/7645997)、[kBocaj](https://osu.ppy.sh/users/11453341)、[Amane](https://osu.ppy.sh/users/6821436) |
-| ::{ flag=BR }:: | **ブラジル** | **[Lazarento](https://osu.ppy.sh/users/3224958)**、[Uzi I](https://osu.ppy.sh/users/6042123)、[AiAyako](https://osu.ppy.sh/users/7003491)、[Lolligerjoj](https://osu.ppy.sh/users/9053338)、[mihinho](https://osu.ppy.sh/users/6509269) |
-| ::{ flag=CA }:: | **カナダ** | **[beary605](https://osu.ppy.sh/users/2198070)**、[iceandele](https://osu.ppy.sh/users/1740540)、[Player-](https://osu.ppy.sh/users/3724819)、[rubies87](https://osu.ppy.sh/users/4949934)、[DuckyDoom](https://osu.ppy.sh/users/3153062) |
-| ::{ flag=CL }:: | **チリ** | **[Catulus](https://osu.ppy.sh/users/6276709)**、[Adimoc](https://osu.ppy.sh/users/6757492)、[-NaNdo-](https://osu.ppy.sh/users/1934382) |
-| ::{ flag=CN }:: | **中国** | **[\[sACRIFICe\]](https://osu.ppy.sh/users/6294200)**、[super mario fan](https://osu.ppy.sh/users/8263525)、[Flandre sca](https://osu.ppy.sh/users/10324309)、[-OvO-](https://osu.ppy.sh/users/12208924)、[Nisoquo](https://osu.ppy.sh/users/12345370) |
-| ::{ flag=EC }:: | **エクアドル** | **[Gamelan4](https://osu.ppy.sh/users/9856910)**、[Arkano036](https://osu.ppy.sh/users/5899577)、[Etsu](https://osu.ppy.sh/users/3442319) |
-| ::{ flag=FR }:: | **フランス** | **[maximaxiU](https://osu.ppy.sh/users/4069690)**、[Chernobog](https://osu.ppy.sh/users/3317042)、[Gintoki8](https://osu.ppy.sh/users/2239411)、[ALISTAR033009](https://osu.ppy.sh/users/9819975)、[ZeddaStake](https://osu.ppy.sh/users/8801844) |
-| ::{ flag=DE }:: | **ドイツA** | **[Capu](https://osu.ppy.sh/users/2474015)**、[\[TaikoTori\]](https://osu.ppy.sh/users/1074143)、[QEpicAce](https://osu.ppy.sh/users/9489153)、[Siegmund99](https://osu.ppy.sh/users/5168596)、[xBourbon\_Kid](https://osu.ppy.sh/users/645775) |
-| ::{ flag=DE }:: | **ドイツB** | **[Aninoss](https://osu.ppy.sh/users/7364706)**、[Sayira](https://osu.ppy.sh/users/7253958)、[JanteSmith](https://osu.ppy.sh/users/371772)、[Naugustogi](https://osu.ppy.sh/users/6803970) |
-| ::{ flag=HK }:: | **香港** | **[Brown918](https://osu.ppy.sh/users/9805760)**、[Cynplytholowazy](https://osu.ppy.sh/users/3901754)、[\[\_isolated\_\]](https://osu.ppy.sh/users/6187838) |
-| ::{ flag=ID }:: | **インドネシアA** | **[Mikurio](https://osu.ppy.sh/users/10734140)**、[misaki_tk](https://osu.ppy.sh/users/3866964)、[steven1](https://osu.ppy.sh/users/3090416)、[Volta](https://osu.ppy.sh/users/4154071) |
-| ::{ flag=ID }:: | **インドネシアB** | **[Viewland](https://osu.ppy.sh/users/6250135)**、[Shirai-](https://osu.ppy.sh/users/4221845)、[Alwaysyukaz](https://osu.ppy.sh/users/4999506)、[ImChro](https://osu.ppy.sh/users/7280717)、[Ahmad Haris](https://osu.ppy.sh/users/6048245) |
-| ::{ flag=JP }:: | **日本** | **[Briesmas](https://osu.ppy.sh/users/2865172)**、[autumndayo](https://osu.ppy.sh/users/12268857)、[TEL09016579767](https://osu.ppy.sh/users/3925121)、[shinnme_ao](https://osu.ppy.sh/users/6252972)、[Ku_Ren](https://osu.ppy.sh/users/2535243) |
-| ::{ flag=MY }:: | **マレーシア** | **[Bedwyr Aorta](https://osu.ppy.sh/users/10875855)**、[Megumin-Sama](https://osu.ppy.sh/users/6201335)、[Minisora](https://osu.ppy.sh/users/9627666)、[imnoobatosuosu](https://osu.ppy.sh/users/12086753) |
-| ::{ flag=MX }:: | **メキシコ** | **[Iojioji](https://osu.ppy.sh/users/1346121)**、[ZaveryK](https://osu.ppy.sh/users/10913397)、[L\_CORTES\_01](https://osu.ppy.sh/users/12548363) |
-| ::{ flag=NL }:: | **オランダ** | **[Krekker](https://osu.ppy.sh/users/8265940)**、[Hypello](https://osu.ppy.sh/users/1594036)、[jesse-98](https://osu.ppy.sh/users/502722)、[StrijkIjzer](https://osu.ppy.sh/users/4130926) |
-| ::{ flag=PH }:: | **フィリピン** | **[yuki\_momoiro722](https://osu.ppy.sh/users/7186791)**、[Niro-](https://osu.ppy.sh/users/6443899)、[A i r](https://osu.ppy.sh/users/10363380)、[Yron8](https://osu.ppy.sh/users/1537747) |
-| ::{ flag=PL }:: | **ポーランド** | **[Agresywny Arbuz](https://osu.ppy.sh/users/7056658)**、[Tetsurio](https://osu.ppy.sh/users/2044810)、[-Jamu-](https://osu.ppy.sh/users/2271556)、[Wolfgang](https://osu.ppy.sh/users/7184324)、[fafik99](https://osu.ppy.sh/users/1787011) |
-| ::{ flag=RU }:: | **ロシアA** | **[Nozdormu](https://osu.ppy.sh/users/7169208)**、[Akonine](https://osu.ppy.sh/users/7774222)、[pavlukivan](https://osu.ppy.sh/users/8321579)、[CrowWhite](https://osu.ppy.sh/users/8638977)、[TwinT](https://osu.ppy.sh/users/9976154) |
-| ::{ flag=RU }:: | **ロシアB** | **[-Rmdy](https://osu.ppy.sh/users/1933816)**、[JW-Dash](https://osu.ppy.sh/users/5285786)、[oserry](https://osu.ppy.sh/users/11973082)、[Starger](https://osu.ppy.sh/users/3398715)、[Crysally](https://osu.ppy.sh/users/7792131) |
-| ::{ flag=DK }:: ::{ flag=NO }:: ::{ flag=SE }:: | **スカンジナビア** | **[Hana Hayashi](https://osu.ppy.sh/users/4601806)**、[1794766](https://osu.ppy.sh/users/1794766)、[Mills](https://osu.ppy.sh/users/7234023)、[KatLeNeko](https://osu.ppy.sh/users/10183710)、[mammasutter](https://osu.ppy.sh/users/11830625) |
-| ::{ flag=KR }:: | **韓国** | **[POCARI-SWEAT](https://osu.ppy.sh/users/5082685)**、[bbj0920](https://osu.ppy.sh/users/87546)、[yuhuna_kor](https://osu.ppy.sh/users/13046017)、[\[Akita-Neru\]](https://osu.ppy.sh/users/613944)、[TRAtOrTs](https://osu.ppy.sh/users/12481695) |
-| ::{ flag=ES }:: | **スペイン** | **[naliem](https://osu.ppy.sh/users/3252709)**、[RuinedChicken](https://osu.ppy.sh/users/7983713)、[Machango](https://osu.ppy.sh/users/7180552)、[Nara\_NB](https://osu.ppy.sh/users/3593992) |
-| ::{ flag=TW }:: | **台湾** | **[- DeveRUX -](https://osu.ppy.sh/users/2900875)**、[Hatsuse](https://osu.ppy.sh/users/697007)、[nw9v4g46](https://osu.ppy.sh/users/2169329)、[david649713](https://osu.ppy.sh/users/1390823) |
-| ::{ flag=GB }:: ::{ flag=PT }:: | **イギリス/ポルトガル** | **[Metzo](https://osu.ppy.sh/users/10633982)**、[w1ll](https://osu.ppy.sh/users/11406987)、[Ali161102](https://osu.ppy.sh/users/7582420)、[Yumi\_Hideaki](https://osu.ppy.sh/users/10081162) |
-| ::{ flag=US }:: | **アメリカ合衆国A** | **[Backfire](https://osu.ppy.sh/users/263110)**、[ChurroChef](https://osu.ppy.sh/users/9258564)、[CaptainEChan](https://osu.ppy.sh/users/9536977)、[dragonworm](https://osu.ppy.sh/users/11464752) |
-| ::{ flag=US }:: | **アメリカ合衆国B** | **[driodx](https://osu.ppy.sh/users/9709548)**、[Shindamama](https://osu.ppy.sh/users/12780046)、[R J](https://osu.ppy.sh/users/6490509)、[DiggyDogg](https://osu.ppy.sh/users/5014664) |
-| ::{ flag=VE }:: | **ベネズエラ** | **[Nutellitah](https://osu.ppy.sh/users/10613075)**、[JessiChan](https://osu.ppy.sh/users/1368025) |
+| ::{ flag=AR }:: | **アルゼンチン** | **::Pollotuc::{ user=42440 }**、::juanilp4evr::{ user=6413125 }、::Atreevete::{ user=2615199 }、::warning dark::{ user=5040981 } |
+| ::{ flag=AU }:: | **オーストラリア** | **::Beat43210::{ user=5664171 }**、::Tsubasa2::{ user=6835183 }、::richy2001::{ user=11499467 }、::AmateurMonkeyYT::{ user=8379046 } |
+| ::{ flag=AT }:: | **オーストリア** | **::animexamera::{ user=7511357 }**、::morth1::{ user=7246874 }、::Der Katze::{ user=7645997 }、::kBocaj::{ user=11453341 }、::Amane::{ user=6821436 } |
+| ::{ flag=BR }:: | **ブラジル** | **::Lazarento::{ user=3224958 }**、::Uzi I::{ user=6042123 }、::AiAyako::{ user=7003491 }、::Lolligerjoj::{ user=9053338 }、::mihinho::{ user=6509269 } |
+| ::{ flag=CA }:: | **カナダ** | **::beary605::{ user=2198070 }**、::iceandele::{ user=1740540 }、::Player-::{ user=3724819 }、::rubies87::{ user=4949934 }、::DuckyDoom::{ user=3153062 } |
+| ::{ flag=CL }:: | **チリ** | **::Catulus::{ user=6276709 }**、::Adimoc::{ user=6757492 }、::-NaNdo-::{ user=1934382 } |
+| ::{ flag=CN }:: | **中国** | **::\[sACRIFICe\]::{ user=6294200 }**、::super mario fan::{ user=8263525 }、::Flandre sca::{ user=10324309 }、::-OvO-::{ user=12208924 }、::Nisoquo::{ user=12345370 } |
+| ::{ flag=EC }:: | **エクアドル** | **::Gamelan4::{ user=9856910 }**、::Arkano036::{ user=5899577 }、::Etsu::{ user=3442319 } |
+| ::{ flag=FR }:: | **フランス** | **::maximaxiU::{ user=4069690 }**、::Chernobog::{ user=3317042 }、::Gintoki8::{ user=2239411 }、::ALISTAR033009::{ user=9819975 }、::ZeddaStake::{ user=8801844 } |
+| ::{ flag=DE }:: | **ドイツA** | **::Capu::{ user=2474015 }**、::\[TaikoTori\]::{ user=1074143 }、::QEpicAce::{ user=9489153 }、::Siegmund99::{ user=5168596 }、::xBourbon\_Kid::{ user=645775 } |
+| ::{ flag=DE }:: | **ドイツB** | **::Aninoss::{ user=7364706 }**、::Sayira::{ user=7253958 }、::JanteSmith::{ user=371772 }、::Naugustogi::{ user=6803970 } |
+| ::{ flag=HK }:: | **香港** | **::Brown918::{ user=9805760 }**、::Cynplytholowazy::{ user=3901754 }、::\[\_isolated\_\]::{ user=6187838 } |
+| ::{ flag=ID }:: | **インドネシアA** | **::Mikurio::{ user=10734140 }**、::misaki_tk::{ user=3866964 }、::steven1::{ user=3090416 }、::Volta::{ user=4154071 } |
+| ::{ flag=ID }:: | **インドネシアB** | **::Viewland::{ user=6250135 }**、::Shirai-::{ user=4221845 }、::Alwaysyukaz::{ user=4999506 }、::ImChro::{ user=7280717 }、::Ahmad Haris::{ user=6048245 } |
+| ::{ flag=JP }:: | **日本** | **::Briesmas::{ user=2865172 }**、::autumndayo::{ user=12268857 }、::TEL09016579767::{ user=3925121 }、::shinnme_ao::{ user=6252972 }、::Ku_Ren::{ user=2535243 } |
+| ::{ flag=MY }:: | **マレーシア** | **::Bedwyr Aorta::{ user=10875855 }**、::Megumin-Sama::{ user=6201335 }、::Minisora::{ user=9627666 }、::imnoobatosuosu::{ user=12086753 } |
+| ::{ flag=MX }:: | **メキシコ** | **::Iojioji::{ user=1346121 }**、::ZaveryK::{ user=10913397 }、::L\_CORTES\_01::{ user=12548363 } |
+| ::{ flag=NL }:: | **オランダ** | **::Krekker::{ user=8265940 }**、::Hypello::{ user=1594036 }、::jesse-98::{ user=502722 }、::StrijkIjzer::{ user=4130926 } |
+| ::{ flag=PH }:: | **フィリピン** | **::yuki\_momoiro722::{ user=7186791 }**、::Niro-::{ user=6443899 }、::A i r::{ user=10363380 }、::Yron8::{ user=1537747 } |
+| ::{ flag=PL }:: | **ポーランド** | **::Agresywny Arbuz::{ user=7056658 }**、::Tetsurio::{ user=2044810 }、::-Jamu-::{ user=2271556 }、::Wolfgang::{ user=7184324 }、::fafik99::{ user=1787011 } |
+| ::{ flag=RU }:: | **ロシアA** | **::Nozdormu::{ user=7169208 }**、::Akonine::{ user=7774222 }、::pavlukivan::{ user=8321579 }、::CrowWhite::{ user=8638977 }、::TwinT::{ user=9976154 } |
+| ::{ flag=RU }:: | **ロシアB** | **::-Rmdy::{ user=1933816 }**、::JW-Dash::{ user=5285786 }、::oserry::{ user=11973082 }、::Starger::{ user=3398715 }、::Crysally::{ user=7792131 } |
+| ::{ flag=DK }:: ::{ flag=NO }:: ::{ flag=SE }:: | **スカンジナビア** | **::Hana Hayashi::{ user=4601806 }**、::1794766::{ user=1794766 }、::Mills::{ user=7234023 }、::KatLeNeko::{ user=10183710 }、::mammasutter::{ user=11830625 } |
+| ::{ flag=KR }:: | **韓国** | **::POCARI-SWEAT::{ user=5082685 }**、::bbj0920::{ user=87546 }、::yuhuna_kor::{ user=13046017 }、::\[Akita-Neru\]::{ user=613944 }、::TRAtOrTs::{ user=12481695 } |
+| ::{ flag=ES }:: | **スペイン** | **::naliem::{ user=3252709 }**、::RuinedChicken::{ user=7983713 }、::Machango::{ user=7180552 }、::Nara\_NB::{ user=3593992 } |
+| ::{ flag=TW }:: | **台湾** | **::- DeveRUX -::{ user=2900875 }**、::Hatsuse::{ user=697007 }、::nw9v4g46::{ user=2169329 }、::david649713::{ user=1390823 } |
+| ::{ flag=GB }:: ::{ flag=PT }:: | **イギリス/ポルトガル** | **::Metzo::{ user=10633982 }**、::w1ll::{ user=11406987 }、::Ali161102::{ user=7582420 }、::Yumi\_Hideaki::{ user=10081162 } |
+| ::{ flag=US }:: | **アメリカ合衆国A** | **::Backfire::{ user=263110 }**、::ChurroChef::{ user=9258564 }、::CaptainEChan::{ user=9536977 }、::dragonworm::{ user=11464752 } |
+| ::{ flag=US }:: | **アメリカ合衆国B** | **::driodx::{ user=9709548 }**、::Shindamama::{ user=12780046 }、::R J::{ user=6490509 }、::DiggyDogg::{ user=5014664 } |
+| ::{ flag=VE }:: | **ベネズエラ** | **::Nutellitah::{ user=10613075 }**、::JessiChan::{ user=1368025 } |
 
 ## グループ
 

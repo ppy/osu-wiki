@@ -27,10 +27,10 @@ outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
 
 | 名字 | 其他語言 |
 | :-- | :-- |
-| ::{ flag=IT }:: [- Marco -](https://osu.ppy.sh/users/1273955) | 義大利文 |
-| ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  |
-| ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  |
-| ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | 韓文、日文 |
-| ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | 德文 |
-| ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | 菲律賓文 |
-| ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | 波蘭文 |
+| ::{ flag=IT }:: ::- Marco -::{ user=1273955 } | 義大利文 |
+| ::{ flag=US }:: ::Blushing::{ user=5927823 } |  |
+| ::{ flag=GB }:: ::chromb::{ user=10238680 } |  |
+| ::{ flag=KR }:: ::Civil oath::{ user=3216107 } | 韓文、日文 |
+| ::{ flag=DE }:: ::Lyawi::{ user=5851253 } | 德文 |
+| ::{ flag=PH }:: ::Nathanael::{ user=2295078 } | 菲律賓文 |
+| ::{ flag=PL }:: ::spaceman_atlas::{ user=3035836 } | 波蘭文 |

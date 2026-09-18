@@ -25,7 +25,7 @@ The **Novice Mania Cup 3rd** (***MXB 3rd***) is a one-on-one osu!mania 4K specif
 
 ## Prizes
 
-Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/users/11238501).
+Prizes for this tournament are sponsored by ::IA daisuki::{ user=11238501 }.
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -37,12 +37,12 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=CN }:: [IA daisuki](https://osu.ppy.sh/users/11238501) |
-| Co-host | ::{ flag=CN }:: [Flow Light](https://osu.ppy.sh/users/6705256), ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329) |
-| Mappool selector | ::{ flag=CN }:: [ExNeko](https://osu.ppy.sh/users/7590894), ::{ flag=CN }:: [IA daisuki](https://osu.ppy.sh/users/11238501), ::{ flag=US }:: [qqqant](https://osu.ppy.sh/users/8976576), ::{ flag=CN }:: [Toki 0w0](https://osu.ppy.sh/users/10392201), ::{ flag=CN }:: [-\[Ulazis\]-](https://osu.ppy.sh/users/11144363) |
-| Streaming referee | ::{ flag=CN }:: [Flow Light](https://osu.ppy.sh/users/6705256), ::{ flag=CN }:: [IA daisuki](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [NimaPro](https://osu.ppy.sh/users/11524571), ::{ flag=CN }:: [Rasis](https://osu.ppy.sh/users/1209363), ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540) |
-| Commentator | ::{ flag=CN }:: [crazybrother](https://osu.ppy.sh/users/8045083), ::{ flag=CN }:: [Flow Light](https://osu.ppy.sh/users/6705256), ::{ flag=CN }:: [NimaPro](https://osu.ppy.sh/users/11524571), ::{ flag=CN }:: [Rasis](https://osu.ppy.sh/users/1209363), ::{ flag=CN }:: [-\[Ulazis\]-](https://osu.ppy.sh/users/11144363) |
-| Wiki editor | ::{ flag=CN }:: [IA daisuki](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540) |
+| Host | ::{ flag=CN }:: ::IA daisuki::{ user=11238501 } |
+| Co-host | ::{ flag=CN }:: ::Flow Light::{ user=6705256 }, ::{ flag=CN }:: ::hans1999::{ user=6679329 } |
+| Mappool selector | ::{ flag=CN }:: ::ExNeko::{ user=7590894 }, ::{ flag=CN }:: ::IA daisuki::{ user=11238501 }, ::{ flag=US }:: ::qqqant::{ user=8976576 }, ::{ flag=CN }:: ::Toki 0w0::{ user=10392201 }, ::{ flag=CN }:: ::-\[Ulazis\]-::{ user=11144363 } |
+| Streaming referee | ::{ flag=CN }:: ::Flow Light::{ user=6705256 }, ::{ flag=CN }:: ::IA daisuki::{ user=11238501 }, ::{ flag=CN }:: ::NimaPro::{ user=11524571 }, ::{ flag=CN }:: ::Rasis::{ user=1209363 }, ::{ flag=CN }:: ::kj415j45::{ user=9367540 } |
+| Commentator | ::{ flag=CN }:: ::crazybrother::{ user=8045083 }, ::{ flag=CN }:: ::Flow Light::{ user=6705256 }, ::{ flag=CN }:: ::NimaPro::{ user=11524571 }, ::{ flag=CN }:: ::Rasis::{ user=1209363 }, ::{ flag=CN }:: ::-\[Ulazis\]-::{ user=11144363 } |
+| Wiki editor | ::{ flag=CN }:: ::IA daisuki::{ user=11238501 }, ::{ flag=CN }:: ::kj415j45::{ user=9367540 } |
 
 ## Links
 
@@ -57,13 +57,13 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| [525426806](https://osu.ppy.sh/users/10194722) | [H-Shjie](https://osu.ppy.sh/users/11109612) | [Star0v0](https://osu.ppy.sh/users/3675841) | [wuzhin](https://osu.ppy.sh/users/11722256) |
-| [Anonie](https://osu.ppy.sh/users/13725543) | [shizehao](https://osu.ppy.sh/users/4928674) | [biIibiIi-\_-](https://osu.ppy.sh/users/13859478) | [s\_w\_w](https://osu.ppy.sh/users/12192069) |
-| [KirigayaSnow](https://osu.ppy.sh/users/10721528) | [Yutto007](https://osu.ppy.sh/users/10269172) | [RW233](https://osu.ppy.sh/users/10018541) | [solende](https://osu.ppy.sh/users/11863106) |
-| [\[xiao ba\]](https://osu.ppy.sh/users/12451181) | [Chinese\_Psy](https://osu.ppy.sh/users/11049989) | [qiuzhilin](https://osu.ppy.sh/users/11192692) | [Earnestlyqq](https://osu.ppy.sh/users/10637430) |
-| [a794151336](https://osu.ppy.sh/users/9912076) | [A M D](https://osu.ppy.sh/users/5321112) | [bouquetww](https://osu.ppy.sh/users/13007770) | [KaffuCchino](https://osu.ppy.sh/users/13461151) |
-| [yuki hirahira](https://osu.ppy.sh/users/11740840) | [HerrySun](https://osu.ppy.sh/users/13235020) | [Blue\_Potion](https://osu.ppy.sh/users/13094831) | [magical Sao](https://osu.ppy.sh/users/13235020) |
-| [1ess__](https://osu.ppy.sh/users/10823750) |  |  |  |
+| ::525426806::{ user=10194722 } | ::H-Shjie::{ user=11109612 } | ::Star0v0::{ user=3675841 } | ::wuzhin::{ user=11722256 } |
+| ::Anonie::{ user=13725543 } | ::shizehao::{ user=4928674 } | ::biIibiIi-\_-::{ user=13859478 } | ::s\_w\_w::{ user=12192069 } |
+| ::KirigayaSnow::{ user=10721528 } | ::Yutto007::{ user=10269172 } | ::RW233::{ user=10018541 } | ::solende::{ user=11863106 } |
+| ::\[xiao ba\]::{ user=12451181 } | ::Chinese\_Psy::{ user=11049989 } | ::qiuzhilin::{ user=11192692 } | ::Earnestlyqq::{ user=10637430 } |
+| ::a794151336::{ user=9912076 } | ::A M D::{ user=5321112 } | ::bouquetww::{ user=13007770 } | ::KaffuCchino::{ user=13461151 } |
+| ::yuki hirahira::{ user=11740840 } | ::HerrySun::{ user=13235020 } | ::Blue\_Potion::{ user=13094831 } | ::magical Sao::{ user=13235020 } |
+| ::1ess__::{ user=10823750 } |  |  |  |
 
 ## Groups
 
@@ -80,9 +80,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CN }:: [A M D](https://osu.ppy.sh/users/5321112) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CN }:: [shizehao](https://osu.ppy.sh/users/4928674) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=CN }:: [Yutto007](https://osu.ppy.sh/users/10269172) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CN }:: ::A M D::{ user=5321112 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CN }:: ::shizehao::{ user=4928674 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=CN }:: ::Yutto007::{ user=10269172 } |
 
 ## Mappools
 

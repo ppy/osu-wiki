@@ -27,7 +27,7 @@ tags:
 
 [谱面](/wiki/Beatmap) ["Best of No.1 Hits - Lemon Tree (MillhioreF)"](https://osu.ppy.sh/beatmapsets/57878#osu/174267) 于 2009 年 4 月 1 日被[上架](/wiki/Beatmap/Category#ranked)，作为当年愚人节玩笑的一部分。这个谱面很大程度上是社区内的一个梗，用户们开玩笑说这样的谱面应该永远保持上架状态。[^lemontree-reddit][^lemontree-post-machol30][^lemontree-post-peppy] 不久后，其上架状态被审核团队移除。[^lemontree-post-machol30]
 
-一段时间后，原谱面应其创作者的要求被删除；但最终于 2012 年 8 月 24 日由 [MillhioreF](https://osu.ppy.sh/users/941094) 重新上传，用于存档目的。[^lemontree-post-millhioref]
+一段时间后，原谱面应其创作者的要求被删除；但最终于 2012 年 8 月 24 日由 ::MillhioreF::{ user=941094 } 重新上传，用于存档目的。[^lemontree-post-millhioref]
 
 ## 2010 年
 
@@ -41,7 +41,7 @@ tags:
 
 这个玩笑很大程度上源于一个[长期存在的功能请求](https://osu.ppy.sh/community/forums/topics/19307)，即基于现有的 [osu!catch](/wiki/Game_mode/osu!catch) 游戏模式，结合东方 Project 游戏的核心玩法，创建一个新的[游戏模式](/wiki/Game_mode)。
 
-当时还有报道称，[Ephemeral](https://osu.ppy.sh/users/102335) 开玩笑说，购买 osu!supporter 标签会在主菜单界面显示一个裸体的雾雨魔理沙，而不是穿着衣服的。然而，这个说法只是个玩笑，很快被其他人揭穿。[^touhousu-forums-2]
+当时还有报道称，::Ephemeral::{ user=102335 } 开玩笑说，购买 osu!supporter 标签会在主菜单界面显示一个裸体的雾雨魔理沙，而不是穿着衣服的。然而，这个说法只是个玩笑，很快被其他人揭穿。[^touhousu-forums-2]
 
 ## 2011 年
 
@@ -71,7 +71,7 @@ tags:
 
 —Cyclone, "Bad Apple Ranking Chart!"[^bad-apple-news]
 
-该挑战于 2012 年 4 月 1 日开启，并于 2012 年 4 月 2 日结束。在排名期结束时，[Mesita](https://osu.ppy.sh/users/201459) 以 145,623,328 的得分位居第一。[^bad-aple-frontpage]
+该挑战于 2012 年 4 月 1 日开启，并于 2012 年 4 月 2 日结束。在排名期结束时，::Mesita::{ user=201459 } 以 145,623,328 的得分位居第一。[^bad-aple-frontpage]
 
 该排行榜挑战中包含的谱面如下：
 
@@ -114,7 +114,7 @@ tags:
 
 ![](img/2015-osucoins.png "osu! 硬币")
 
-2015 年 3 月 31 日，[peppy](https://osu.ppy.sh/users/2) 发布了[一篇新闻帖](https://osu.ppy.sh/home/news/2015-03-31-osucoins)，宣布增加一种新的游戏内货币，称为 "osu!coins"。[^osu-coins-news][^osu-coins-ontheweb] 这篇新闻帖解释了这种游戏内货币是什么以及它是如何工作的，并附带了一个特别制作的 [osu!academy 视频](https://www.youtube.com/watch?v=BImc5McuK1o)。与此同时，peppy还开玩笑说，他做出这一改变的原因是由于当前玩家捐赠带来的货币收益不足以让他有生之年买得起私人飞机：
+2015 年 3 月 31 日，::peppy::{ user=2 } 发布了[一篇新闻帖](https://osu.ppy.sh/home/news/2015-03-31-osucoins)，宣布增加一种新的游戏内货币，称为 "osu!coins"。[^osu-coins-news][^osu-coins-ontheweb] 这篇新闻帖解释了这种游戏内货币是什么以及它是如何工作的，并附带了一个特别制作的 [osu!academy 视频](https://www.youtube.com/watch?v=BImc5McuK1o)。与此同时，peppy还开玩笑说，他做出这一改变的原因是由于当前玩家捐赠带来的货币收益不足以让他有生之年买得起私人飞机：
 
 > 按照目前的回报率，我有生之年不太可能买到私人飞机，这是我人生的主要目标之一。因此，我与团队讨论了其他的盈利模式，研究了目前市场上类似免费游戏中流行的趋势。
 
@@ -132,7 +132,7 @@ osu! 的主菜单背景中也有一大堆缓缓升起的 osu!coins，主题曲�
 
 ### VR中的 osu!
 
-2016 年 4 月 1 日，[一篇新闻帖](https://osu.ppy.sh/home/news/2016-04-01-oculus-rift-to-be-supported-as-an-input-method) 详细宣布了计划，将增加对 [Oculus Rift](https://zh.wikipedia.org/wiki/Oculus_Rift) 作为 osu! 中新的[输入设备](/wiki/Gameplay/Input_device) 的支持。这篇由 [Evrien](https://osu.ppy.sh/users/791660) 撰写的帖子，引用了对 [peppy](https://osu.ppy.sh/users/2) 所谓采访中的许多引述，其中他解释了他做出这一宣布的理由以及这个概念可能如何实现的想法。[^osu-vr-news]
+2016 年 4 月 1 日，[一篇新闻帖](https://osu.ppy.sh/home/news/2016-04-01-oculus-rift-to-be-supported-as-an-input-method) 详细宣布了计划，将增加对 [Oculus Rift](https://zh.wikipedia.org/wiki/Oculus_Rift) 作为 osu! 中新的[输入设备](/wiki/Gameplay/Input_device) 的支持。这篇由 ::Evrien::{ user=791660 } 撰写的帖子，引用了对 ::peppy::{ user=2 } 所谓采访中的许多引述，其中他解释了他做出这一宣布的理由以及这个概念可能如何实现的想法。[^osu-vr-news]
 
 关于玩家可能如何使用 Oculus Rift 作为输入设备，新闻帖描述道："玩家将体验光标在屏幕上移动到击中对象时的第一人称视角……"，并通过"……让玩家用嘴发出元音般的声音" 来击中对象。实际上，游戏内没有做出与使用 Oculus Rift 或类似的[虚拟现实 (VR)](https://zh.wikipedia.org/wiki/%E8%99%9A%E6%8B%9F%E7%8E%B0%E5%AE%9E) 设备来控制 osu! 相关的更改。[^osu-vr-news]
 
@@ -173,7 +173,7 @@ osu! 的主菜单背景中也有一大堆缓缓升起的 osu!coins，主题曲�
 
 ### MillhioreF 加入精选艺术家
 
-[MillhioreF](https://osu.ppy.sh/users/941094) —— 一位长期的 osu! 版主、开发者和 [Easy 模式](/wiki/Gameplay/Game_modifier/Easy) 玩家 —— 在 2020 年 4 月 1 日的[一篇新闻帖](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref) 中被宣布以 "Millhiore Firianno Biscotti" 的身份 "加入" 了 [精选艺术家](/wiki/People/Featured_Artists) 列表，并附带了五首歌曲：[^irish-fa]
+::MillhioreF::{ user=941094 } —— 一位长期的 osu! 版主、开发者和 [Easy 模式](/wiki/Gameplay/Game_modifier/Easy) 玩家 —— 在 2020 年 4 月 1 日的[一篇新闻帖](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref) 中被宣布以 "Millhiore Firianno Biscotti" 的身份 "加入" 了 [精选艺术家](/wiki/People/Featured_Artists) 列表，并附带了五首歌曲：[^irish-fa]
 
 - Waltz o' the Irish
 - The Waltzing Irishman

@@ -1,6 +1,6 @@
 # osu!arcade
 
-The **osu!arcade** was a prototype arcade machine created by ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2). It consisted of a custom-made enclosure and a built-in touchscreen running a touch-based version of osu!.
+The **osu!arcade** was a prototype arcade machine created by ::{ flag=AU }:: ::peppy::{ user=2 }. It consisted of a custom-made enclosure and a built-in touchscreen running a touch-based version of osu!.
 
 Although it has *arcade* in its name, features typical for arcade machines like coin slots had been considered but were never added when working on the prototype.[^rfid]
 
@@ -39,7 +39,7 @@ In the following years, peppy did not continue to work on the osu!arcade project
 [^rfid]: [GitHub comment by peppy (2026-05-07)](https://github.com/ppy/osu-wiki/pull/14697/changes#r3201675470)
 [^wai-con]: [Forum thread by peppy (2010-01-27) "osu!arcade at Wai-con 2010"](https://osu.ppy.sh/community/forums/topics/23392?n=1)
 [^wai-con-video]: [YouTube video by shigeru miyamoto (2010-01-23) "osu! at Waicon 2010"](https://www.youtube.com/watch?v=WKvm975bmj0)
-[^kingking9-profile]: [kingking9's osu! profile featuring a lot of pictures of the prototype](https://osu.ppy.sh/users/1277097)
+[^kingking9-profile]: ::kingking9's osu! profile featuring a lot of pictures of the prototype::{ user=1277097 }
 [^sore-fingers]: [Tweet by @ppy (2010-07-04)](https://twitter.com/ppy/status/17689427400)
 
 [^tweet-1]: [Tweet by @ppy (2012-05-15)](https://twitter.com/ppy/status/202271556498505729)

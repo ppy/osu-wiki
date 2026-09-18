@@ -8,7 +8,7 @@ tags:
 
 ![Mirai2020 logo](img/logo.png)
 
-The **Mirai. Tournament 2020** (***Mirai2020***) is a worldwide double-eliminination 2v2 osu! tournament hosted by ::{ flag=NL }:: [Mirai Subject](https://osu.ppy.sh/users/5639709). It is the fourth instalment of the Mirai. Tournament.
+The **Mirai. Tournament 2020** (***Mirai2020***) is a worldwide double-eliminination 2v2 osu! tournament hosted by ::{ flag=NL }:: ::Mirai Subject::{ user=5639709 }. It is the fourth instalment of the Mirai. Tournament.
 
 ## Tournament schedule
 
@@ -36,13 +36,13 @@ The Mirai. Tournament 2020 is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=PH }:: [Deadpulse](https://osu.ppy.sh/users/8575527), ::{ flag=PH }:: [kristoffer09](https://osu.ppy.sh/users/3474344) |
-| Mappool selector | ::{ flag=GB }:: [AlexDark69](https://osu.ppy.sh/users/5146647), ::{ flag=FR }:: [Kaeldori](https://osu.ppy.sh/users/962519), ::{ flag=GB }:: [NoSpace](https://osu.ppy.sh/users/10585285), ::{ flag=GB }:: [SacretSword](https://osu.ppy.sh/users/9821402), ::{ flag=DE }:: [Windows 10 Pro](https://osu.ppy.sh/users/7486592), ::{ flag=SG }:: [Zephyrlox](https://osu.ppy.sh/users/6436945) |
-| Streamer | ::{ flag=NL }:: [Mirai Subject](https://osu.ppy.sh/users/5639709) |
-| Commentator | ::{ flag=GB }:: [AlexDark69](https://osu.ppy.sh/users/5146647), ::{ flag=PH }:: [kristoffer09](https://osu.ppy.sh/users/3474344), ::{ flag=TR }:: [oralekin](https://osu.ppy.sh/users/7631823), ::{ flag=DE }:: [Windows 10 Pro](https://osu.ppy.sh/users/7486592) |
-| Designer | ::{ flag=NL }:: [Mirai Subject](https://osu.ppy.sh/users/5639709) |
-| Referee | ::{ flag=GB }:: [AlexDark69](https://osu.ppy.sh/users/5146647), ::{ flag=PH }:: [breadman](https://osu.ppy.sh/users/5886567), ::{ flag=DE }:: [GDLenny](https://osu.ppy.sh/users/8406711), ::{ flag=DE }:: [Inteleon](https://osu.ppy.sh/users/9665028), ::{ flag=TR }:: [oralekin](https://osu.ppy.sh/users/7631823), ::{ flag=NL }:: [Mirai Subject](https://osu.ppy.sh/users/5639709), ::{ flag=VN }:: [rock-on](https://osu.ppy.sh/users/9676089), ::{ flag=PH }:: [Simon Yuusuke](https://osu.ppy.sh/users/7336035), ::{ flag=CA }:: [Takiaz](https://osu.ppy.sh/users/11177233), ::{ flag=CA }:: [TheHunter1](https://osu.ppy.sh/users/6496016) |
-| Statistician | ::{ flag=PH }:: [kristoffer09](https://osu.ppy.sh/users/3474344) |
+| Manager | ::{ flag=PH }:: ::Deadpulse::{ user=8575527 }, ::{ flag=PH }:: ::kristoffer09::{ user=3474344 } |
+| Mappool selector | ::{ flag=GB }:: ::AlexDark69::{ user=5146647 }, ::{ flag=FR }:: ::Kaeldori::{ user=962519 }, ::{ flag=GB }:: ::NoSpace::{ user=10585285 }, ::{ flag=GB }:: ::SacretSword::{ user=9821402 }, ::{ flag=DE }:: ::Windows 10 Pro::{ user=7486592 }, ::{ flag=SG }:: ::Zephyrlox::{ user=6436945 } |
+| Streamer | ::{ flag=NL }:: ::Mirai Subject::{ user=5639709 } |
+| Commentator | ::{ flag=GB }:: ::AlexDark69::{ user=5146647 }, ::{ flag=PH }:: ::kristoffer09::{ user=3474344 }, ::{ flag=TR }:: ::oralekin::{ user=7631823 }, ::{ flag=DE }:: ::Windows 10 Pro::{ user=7486592 } |
+| Designer | ::{ flag=NL }:: ::Mirai Subject::{ user=5639709 } |
+| Referee | ::{ flag=GB }:: ::AlexDark69::{ user=5146647 }, ::{ flag=PH }:: ::breadman::{ user=5886567 }, ::{ flag=DE }:: ::GDLenny::{ user=8406711 }, ::{ flag=DE }:: ::Inteleon::{ user=9665028 }, ::{ flag=TR }:: ::oralekin::{ user=7631823 }, ::{ flag=NL }:: ::Mirai Subject::{ user=5639709 }, ::{ flag=VN }:: ::rock-on::{ user=9676089 }, ::{ flag=PH }:: ::Simon Yuusuke::{ user=7336035 }, ::{ flag=CA }:: ::Takiaz::{ user=11177233 }, ::{ flag=CA }:: ::TheHunter1::{ user=6496016 } |
+| Statistician | ::{ flag=PH }:: ::kristoffer09::{ user=3474344 } |
 
 ## Links
 
@@ -55,38 +55,38 @@ The Mirai. Tournament 2020 is run by various community members.
 
 | Team | Members |
 | :-: | :-- |
-| **8 min tech map** | [poboi06](https://osu.ppy.sh/users/12836907), [SirPinky](https://osu.ppy.sh/users/12948136), [meapii](https://osu.ppy.sh/users/12643092), [His](https://osu.ppy.sh/users/5433421) |
-| **Airline Food** | [Shawn -](https://osu.ppy.sh/users/3504101), [NekoMeganG](https://osu.ppy.sh/users/10766611), [Champs de ble](https://osu.ppy.sh/users/6387858), [Pythia](https://osu.ppy.sh/users/11165033) |
-| **Baeguette** | [pauloreb28](https://osu.ppy.sh/users/14214481), [Hyuras](https://osu.ppy.sh/users/13579528) |
-| **Baka gang.** | [Yote](https://osu.ppy.sh/users/13742179), [Avenger284](https://osu.ppy.sh/users/10296219), [DeathByDarwin](https://osu.ppy.sh/users/9087777) |
-| **Bokeee** | [elcho](https://osu.ppy.sh/users/11276129), [Emiru Ikuno 3](https://osu.ppy.sh/users/13847465) |
-| **FastButNotFurious** | [Sirek](https://osu.ppy.sh/users/14666725), [Hiterzajc](https://osu.ppy.sh/users/13490372) |
-| **HappyHuskyBubbles** | [MatthewBubbles](https://osu.ppy.sh/users/10738779), [huskaii](https://osu.ppy.sh/users/11936616), [onyo](https://osu.ppy.sh/users/13471152), [Harpiness](https://osu.ppy.sh/users/10920975) |
-| **How2NoMod** | [-Flux](https://osu.ppy.sh/users/8872267), [Ostiminum](https://osu.ppy.sh/users/11633163), [das12344321](https://osu.ppy.sh/users/13332111), [MylerMoss](https://osu.ppy.sh/users/14443835) |
-| **LowAcc Players** | [Eg2nD](https://osu.ppy.sh/users/5365662), [ButterJelly](https://osu.ppy.sh/users/8227251) |
-| **Makowy** | [Milkowy](https://osu.ppy.sh/users/9943832), [\[LUX\]Makushi](https://osu.ppy.sh/users/12521970) |
-| **Nanahira Copypasta** | [Synchyy](https://osu.ppy.sh/users/4461522), [Coradi](https://osu.ppy.sh/users/11679352), [SillySoon](https://osu.ppy.sh/users/12670452), [Poke7z](https://osu.ppy.sh/users/2703395) |
-| **Nice Nice Nice** | [AntiButter](https://osu.ppy.sh/users/4466147), [MonkeyyHug](https://osu.ppy.sh/users/14867780), [xix](https://osu.ppy.sh/users/13571295) |
-| **Norank MaMa <3 U** | [Mangent](https://osu.ppy.sh/users/12609921), [Dnwings](https://osu.ppy.sh/users/8947019), [Muziyami](https://osu.ppy.sh/users/7003013), [osu happy](https://osu.ppy.sh/users/9580470) |
-| **Retirement Home** | [Redavor](https://osu.ppy.sh/users/3328606), [DerNettePanda](https://osu.ppy.sh/users/9157610), [Endaris](https://osu.ppy.sh/users/392866), [Shovan](https://osu.ppy.sh/users/2624554) |
-| **Rip OsumeWolf** | [ErroTheCube](https://osu.ppy.sh/users/4425262), [ISpiritI](https://osu.ppy.sh/users/12024232), [stefgast13](https://osu.ppy.sh/users/6578664), [Miles\_Naismith](https://osu.ppy.sh/users/9839582) |
-| **Rusty Cucumber** | [RevRoadster](https://osu.ppy.sh/users/5139514), [ShadowDrake77](https://osu.ppy.sh/users/4823119), [Shrukaghn](https://osu.ppy.sh/users/6304675), [ruruchewy](https://osu.ppy.sh/users/7112839) |
-| **Salted\_Fish** | [lontom00126](https://osu.ppy.sh/users/11987530), [WIFIxFTT](https://osu.ppy.sh/users/7339130), [wanwan4343](https://osu.ppy.sh/users/7797421) |
-| **Sotarks One Tricks** | [Frostdogspd](https://osu.ppy.sh/users/13481585), [matthiaslai](https://osu.ppy.sh/users/10617966) |
-| **Team Sliderbreak** | [ethangrieve1](https://osu.ppy.sh/users/13341525), [tronald-](https://osu.ppy.sh/users/10989101), [- cry -](https://osu.ppy.sh/users/14915029), [Kiing](https://osu.ppy.sh/users/13126824) |
-| **Tempe** | [Darctuile](https://osu.ppy.sh/users/8209634), [Mer C](https://osu.ppy.sh/users/12832163) |
-| **The** | [Meisa](https://osu.ppy.sh/users/13913578), [Aupsie](https://osu.ppy.sh/users/3377305), [de\_end](https://osu.ppy.sh/users/7736227) |
-| **Uprankers** | [Sonic-](https://osu.ppy.sh/users/8691555), [Loreal](https://osu.ppy.sh/users/9362231), [DanielSiew](https://osu.ppy.sh/users/12916724), [Kumaxione](https://osu.ppy.sh/users/2582531) |
-| **WhamDabbFTW** | [MeiFTW](https://osu.ppy.sh/users/15049805), [Nambulance](https://osu.ppy.sh/users/13034610), [Maki-kun](https://osu.ppy.sh/users/11304503), [AO4ILukas](https://osu.ppy.sh/users/14760962) |
-| **WorldWide Bootleg** | [TheCL0VER](https://osu.ppy.sh/users/13819576), [FlagFlayer](https://osu.ppy.sh/users/14289115) |
-| **Your Average Team** | [Isterix](https://osu.ppy.sh/users/7276846), [Meramipop](https://osu.ppy.sh/users/13540434) |
-| **bee movie 2 2** | [PM ME YUR MEMES](https://osu.ppy.sh/users/7378037), [rhythm on osu](https://osu.ppy.sh/users/5355423) |
-| **bruh moment** | [TankoDen](https://osu.ppy.sh/users/11061359), [eFrostBite](https://osu.ppy.sh/users/11150615), [TMrex](https://osu.ppy.sh/users/10176624) |
-| **cherry gum v4** | [steve04](https://osu.ppy.sh/users/10852911), [DanX](https://osu.ppy.sh/users/10542408), [ABKirito](https://osu.ppy.sh/users/9093149) |
-| **im pepa gpig** | [Nova Cobalt](https://osu.ppy.sh/users/4272776), [fw8te](https://osu.ppy.sh/users/14541203), [CrappySalami](https://osu.ppy.sh/users/8955826) |
-| **kamiguozi** | [Guozi on Osu](https://osu.ppy.sh/users/8692802), [na-gi](https://osu.ppy.sh/users/11355787), [- Rainbow -](https://osu.ppy.sh/users/8742486) |
-| **shaky hand** | [Fallen\_HK](https://osu.ppy.sh/users/13981456), [Himman](https://osu.ppy.sh/users/12665894), [McFuddyDuddy](https://osu.ppy.sh/users/8825522), [Player01](https://osu.ppy.sh/users/10194478) |
-| **surprised\_pikachu** | [-Secured-](https://osu.ppy.sh/users/14648196), [Pokeinfernape](https://osu.ppy.sh/users/11412507), [7heGh0st](https://osu.ppy.sh/users/14256252), [Emfyr](https://osu.ppy.sh/users/13445383) |
+| **8 min tech map** | ::poboi06::{ user=12836907 }, ::SirPinky::{ user=12948136 }, ::meapii::{ user=12643092 }, ::His::{ user=5433421 } |
+| **Airline Food** | ::Shawn -::{ user=3504101 }, ::NekoMeganG::{ user=10766611 }, ::Champs de ble::{ user=6387858 }, ::Pythia::{ user=11165033 } |
+| **Baeguette** | ::pauloreb28::{ user=14214481 }, ::Hyuras::{ user=13579528 } |
+| **Baka gang.** | ::Yote::{ user=13742179 }, ::Avenger284::{ user=10296219 }, ::DeathByDarwin::{ user=9087777 } |
+| **Bokeee** | ::elcho::{ user=11276129 }, ::Emiru Ikuno 3::{ user=13847465 } |
+| **FastButNotFurious** | ::Sirek::{ user=14666725 }, ::Hiterzajc::{ user=13490372 } |
+| **HappyHuskyBubbles** | ::MatthewBubbles::{ user=10738779 }, ::huskaii::{ user=11936616 }, ::onyo::{ user=13471152 }, ::Harpiness::{ user=10920975 } |
+| **How2NoMod** | ::-Flux::{ user=8872267 }, ::Ostiminum::{ user=11633163 }, ::das12344321::{ user=13332111 }, ::MylerMoss::{ user=14443835 } |
+| **LowAcc Players** | ::Eg2nD::{ user=5365662 }, ::ButterJelly::{ user=8227251 } |
+| **Makowy** | ::Milkowy::{ user=9943832 }, ::\[LUX\]Makushi::{ user=12521970 } |
+| **Nanahira Copypasta** | ::Synchyy::{ user=4461522 }, ::Coradi::{ user=11679352 }, ::SillySoon::{ user=12670452 }, ::Poke7z::{ user=2703395 } |
+| **Nice Nice Nice** | ::AntiButter::{ user=4466147 }, ::MonkeyyHug::{ user=14867780 }, ::xix::{ user=13571295 } |
+| **Norank MaMa <3 U** | ::Mangent::{ user=12609921 }, ::Dnwings::{ user=8947019 }, ::Muziyami::{ user=7003013 }, ::osu happy::{ user=9580470 } |
+| **Retirement Home** | ::Redavor::{ user=3328606 }, ::DerNettePanda::{ user=9157610 }, ::Endaris::{ user=392866 }, ::Shovan::{ user=2624554 } |
+| **Rip OsumeWolf** | ::ErroTheCube::{ user=4425262 }, ::ISpiritI::{ user=12024232 }, ::stefgast13::{ user=6578664 }, ::Miles\_Naismith::{ user=9839582 } |
+| **Rusty Cucumber** | ::RevRoadster::{ user=5139514 }, ::ShadowDrake77::{ user=4823119 }, ::Shrukaghn::{ user=6304675 }, ::ruruchewy::{ user=7112839 } |
+| **Salted\_Fish** | ::lontom00126::{ user=11987530 }, ::WIFIxFTT::{ user=7339130 }, ::wanwan4343::{ user=7797421 } |
+| **Sotarks One Tricks** | ::Frostdogspd::{ user=13481585 }, ::matthiaslai::{ user=10617966 } |
+| **Team Sliderbreak** | ::ethangrieve1::{ user=13341525 }, ::tronald-::{ user=10989101 }, ::- cry -::{ user=14915029 }, ::Kiing::{ user=13126824 } |
+| **Tempe** | ::Darctuile::{ user=8209634 }, ::Mer C::{ user=12832163 } |
+| **The** | ::Meisa::{ user=13913578 }, ::Aupsie::{ user=3377305 }, ::de\_end::{ user=7736227 } |
+| **Uprankers** | ::Sonic-::{ user=8691555 }, ::Loreal::{ user=9362231 }, ::DanielSiew::{ user=12916724 }, ::Kumaxione::{ user=2582531 } |
+| **WhamDabbFTW** | ::MeiFTW::{ user=15049805 }, ::Nambulance::{ user=13034610 }, ::Maki-kun::{ user=11304503 }, ::AO4ILukas::{ user=14760962 } |
+| **WorldWide Bootleg** | ::TheCL0VER::{ user=13819576 }, ::FlagFlayer::{ user=14289115 } |
+| **Your Average Team** | ::Isterix::{ user=7276846 }, ::Meramipop::{ user=13540434 } |
+| **bee movie 2 2** | ::PM ME YUR MEMES::{ user=7378037 }, ::rhythm on osu::{ user=5355423 } |
+| **bruh moment** | ::TankoDen::{ user=11061359 }, ::eFrostBite::{ user=11150615 }, ::TMrex::{ user=10176624 } |
+| **cherry gum v4** | ::steve04::{ user=10852911 }, ::DanX::{ user=10542408 }, ::ABKirito::{ user=9093149 } |
+| **im pepa gpig** | ::Nova Cobalt::{ user=4272776 }, ::fw8te::{ user=14541203 }, ::CrappySalami::{ user=8955826 } |
+| **kamiguozi** | ::Guozi on Osu::{ user=8692802 }, ::na-gi::{ user=11355787 }, ::- Rainbow -::{ user=8742486 } |
+| **shaky hand** | ::Fallen\_HK::{ user=13981456 }, ::Himman::{ user=12665894 }, ::McFuddyDuddy::{ user=8825522 }, ::Player01::{ user=10194478 } |
+| **surprised\_pikachu** | ::-Secured-::{ user=14648196 }, ::Pokeinfernape::{ user=11412507 }, ::7heGh0st::{ user=14256252 }, ::Emfyr::{ user=13445383 } |
 
 ![](img/bracket.png "Mirai2020 bracket")
 

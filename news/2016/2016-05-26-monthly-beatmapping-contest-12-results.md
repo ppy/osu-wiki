@@ -8,7 +8,7 @@ series: monthly_beatmapping_contest
 
 With a bit of delay, the winner of the 12th Monthly Beatmapping Contest has been decided! Interested in the results? Read on!
 
-The competition very similar to the 11th in that the top two contestants were very close in score. This time around the winner of the contest was [Taeyang](https://osu.ppy.sh/users/Taeyang) with a score of 169 points! Taking second place is [Monstrata](https://osu.ppy.sh/users/Monstrata) scoring 164 points and being quite close to taking first place themselves. Last but certainly not least, our third place contestant coming in with 163 points is [pishifat](https://osu.ppy.sh/users/pishifat), scoring a single point less than our 2nd place contestant.
+The competition very similar to the 11th in that the top two contestants were very close in score. This time around the winner of the contest was ::Taeyang::{ user=2732340 } with a score of 169 points! Taking second place is ::Monstrata::{ user=2706438 } scoring 164 points and being quite close to taking first place themselves. Last but certainly not least, our third place contestant coming in with 163 points is ::pishifat::{ user=3178418 }, scoring a single point less than our 2nd place contestant.
 
 IAHN's "Candy Luv" is going to be bundled with the osu! client with the winning contestant's map. Additionally, the winner receives 6 months of supporter and the "Elite Mapper" title for their user profile. For those who have an impatient sweet tooth and want to play the winning map for Candy Luv right away, you can find it [here](https://osu.ppy.sh/beatmapsets/456054)!
 

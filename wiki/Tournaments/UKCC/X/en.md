@@ -8,7 +8,7 @@ tags:
 
 ![UKCCX banner](img/banner.jpg)
 
-The **UK Community Cup X** (***UKCC X***) was a British 1v1 [Swiss](https://en.wikipedia.org/wiki/Swiss-system_tournament) osu! tournament hosted by ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) and ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973). It was the tenth instalment of the UK Community Cup series and the series' first experimental competition.
+The **UK Community Cup X** (***UKCC X***) was a British 1v1 [Swiss](https://en.wikipedia.org/wiki/Swiss-system_tournament) osu! tournament hosted by ::{ flag=GB }:: ::Bubbleman::{ user=5182050 } and ::{ flag=GB }:: ::Yazzehh::{ user=7068973 }. It was the tenth instalment of the UK Community Cup series and the series' first experimental competition.
 
 ## Tournament schedule
 
@@ -33,13 +33,13 @@ The UK Community Cup X was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
-| Mappool selector | ::{ flag=GB }:: [Roxas](https://osu.ppy.sh/users/1986262), ::{ flag=GB }:: [MoeYandere](https://osu.ppy.sh/users/2565902), ::{ flag=GB }:: [helix](https://osu.ppy.sh/users/3322597), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) |
-| Streamer | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761), ::{ flag=PL }:: [Marzale](https://osu.ppy.sh/users/5194043), ::{ flag=GB }:: [Teejay](https://osu.ppy.sh/users/9499753) |
-| Commentator | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=GB }:: [AlexDark69](https://osu.ppy.sh/users/5146647), ::{ flag=GB }:: [SteffoST](https://osu.ppy.sh/users/6566765), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=AR }:: [Vaf](https://osu.ppy.sh/users/12589048), ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761), ::{ flag=GB }:: [T-Bounce](https://osu.ppy.sh/users/13347736), ::{ flag=GB }:: [Teejay](https://osu.ppy.sh/users/9499753) |
-| Designer | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) |
-| Referee | ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=TR }:: [oralekin](https://osu.ppy.sh/users/7631823), ::{ flag=FR }:: [Mimir](https://osu.ppy.sh/users/7382734), ::{ flag=FR }:: [lardon](https://osu.ppy.sh/users/11409334), ::{ flag=PL }:: [Marzale](https://osu.ppy.sh/users/5194043), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264) |
-| Statistician | ::{ flag=NO }:: [YokesPai](https://osu.ppy.sh/users/6399568) |
+| Manager | ::{ flag=GB }:: ::Bubbleman::{ user=5182050 }, ::{ flag=GB }:: ::Yazzehh::{ user=7068973 } |
+| Mappool selector | ::{ flag=GB }:: ::Roxas::{ user=1986262 }, ::{ flag=GB }:: ::MoeYandere::{ user=2565902 }, ::{ flag=GB }:: ::helix::{ user=3322597 }, ::{ flag=GB }:: ::Bubbleman::{ user=5182050 } |
+| Streamer | ::{ flag=GB }:: ::Bubbleman::{ user=5182050 }, ::{ flag=GB }:: ::Yazzehh::{ user=7068973 }, ::{ flag=US }:: ::ChillierPear::{ user=9501251 }, ::{ flag=GB }:: ::Kingling::{ user=7010761 }, ::{ flag=PL }:: ::Marzale::{ user=5194043 }, ::{ flag=GB }:: ::Teejay::{ user=9499753 } |
+| Commentator | ::{ flag=GB }:: ::Bubbleman::{ user=5182050 }, ::{ flag=GB }:: ::AlexDark69::{ user=5146647 }, ::{ flag=GB }:: ::SteffoST::{ user=6566765 }, ::{ flag=US }:: ::ChillierPear::{ user=9501251 }, ::{ flag=AR }:: ::Vaf::{ user=12589048 }, ::{ flag=GB }:: ::Kingling::{ user=7010761 }, ::{ flag=GB }:: ::T-Bounce::{ user=13347736 }, ::{ flag=GB }:: ::Teejay::{ user=9499753 } |
+| Designer | ::{ flag=US }:: ::ChillierPear::{ user=9501251 } |
+| Referee | ::{ flag=GB }:: ::Yazzehh::{ user=7068973 }, ::{ flag=FI }:: ::Lefafel::{ user=2295850 }, ::{ flag=US }:: ::ChillierPear::{ user=9501251 }, ::{ flag=TR }:: ::oralekin::{ user=7631823 }, ::{ flag=FR }:: ::Mimir::{ user=7382734 }, ::{ flag=FR }:: ::lardon::{ user=11409334 }, ::{ flag=PL }:: ::Marzale::{ user=5194043 }, ::{ flag=NL }:: ::nik::{ user=10077264 } |
+| Statistician | ::{ flag=NO }:: ::YokesPai::{ user=6399568 } |
 
 ## Links
 
@@ -54,10 +54,10 @@ See the [signups sheet](https://docs.google.com/spreadsheets/d/1Jj9t9Fn_WoJmIYW6
 
 | Seed | Players |
 | :-- | :-- |
-| 1–8 | ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761), ::{ flag=GB }:: [Voss](https://osu.ppy.sh/users/7657761), ::{ flag=GB }:: [Jemzsee](https://osu.ppy.sh/users/11553627), ::{ flag=GB }:: [Chemistry](https://osu.ppy.sh/users/6069540), ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549), ::{ flag=GB }:: [Malteser](https://osu.ppy.sh/users/5218178), ::{ flag=GB }:: [Defex](https://osu.ppy.sh/users/9674143), ::{ flag=GB }:: [Mahmood](https://osu.ppy.sh/users/7627844) |
-| 9–16 | ::{ flag=PH }:: [LilyFlower](https://osu.ppy.sh/users/7449949), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=IE }:: [Ophiz](https://osu.ppy.sh/users/6671641), ::{ flag=GB }:: [HonourBound](https://osu.ppy.sh/users/2945999), ::{ flag=GB }:: [Kerantina](https://osu.ppy.sh/users/7516484), ::{ flag=GB }:: [Fozzy](https://osu.ppy.sh/users/9993781), ::{ flag=GB }:: [SinCrone](https://osu.ppy.sh/users/9426809), ::{ flag=GB }:: [_Snowy](https://osu.ppy.sh/users/10710046) |
-| 17–24 | ::{ flag=GB }:: [Best459](https://osu.ppy.sh/users/8185366), ::{ flag=GB }:: [-Deeline](https://osu.ppy.sh/users/10121815), ::{ flag=GB }:: [Cornfield](https://osu.ppy.sh/users/4087422), ::{ flag=GB }:: [idealnettles](https://osu.ppy.sh/users/4010354), ::{ flag=GB }:: [Zyphox](https://osu.ppy.sh/users/6589047), ::{ flag=GB }:: [Rinnu](https://osu.ppy.sh/users/12179012), ::{ flag=IE }:: [Xempus](https://osu.ppy.sh/users/9753313), ::{ flag=GB }:: [[Nathan]](https://osu.ppy.sh/users/4741293) |
-| 25–32 | ::{ flag=GB }:: [Kathalshame](https://osu.ppy.sh/users/4572097), ::{ flag=GB }:: [squarercube](https://osu.ppy.sh/users/5385017), ::{ flag=GB }:: [Matt4132](https://osu.ppy.sh/users/11706972), ::{ flag=GB }:: [Taiga Tiger](https://osu.ppy.sh/users/7405659), ::{ flag=GB }:: [Teejay](https://osu.ppy.sh/users/9499753), ::{ flag=GB }:: [Chugger](https://osu.ppy.sh/users/4491713), ::{ flag=GB }:: [Fwuffy](https://osu.ppy.sh/users/7374212), ::{ flag=GB }:: [thereal99gamer](https://osu.ppy.sh/users/11094254) |
+| 1–8 | ::{ flag=GB }:: ::Kingling::{ user=7010761 }, ::{ flag=GB }:: ::Voss::{ user=7657761 }, ::{ flag=GB }:: ::Jemzsee::{ user=11553627 }, ::{ flag=GB }:: ::Chemistry::{ user=6069540 }, ::{ flag=GB }:: ::Apo11o::{ user=9558549 }, ::{ flag=GB }:: ::Malteser::{ user=5218178 }, ::{ flag=GB }:: ::Defex::{ user=9674143 }, ::{ flag=GB }:: ::Mahmood::{ user=7627844 } |
+| 9–16 | ::{ flag=PH }:: ::LilyFlower::{ user=7449949 }, ::{ flag=GB }:: ::Doomsday::{ user=18983 }, ::{ flag=IE }:: ::Ophiz::{ user=6671641 }, ::{ flag=GB }:: ::HonourBound::{ user=2945999 }, ::{ flag=GB }:: ::Kerantina::{ user=7516484 }, ::{ flag=GB }:: ::Fozzy::{ user=9993781 }, ::{ flag=GB }:: ::SinCrone::{ user=9426809 }, ::{ flag=GB }:: ::_Snowy::{ user=10710046 } |
+| 17–24 | ::{ flag=GB }:: ::Best459::{ user=8185366 }, ::{ flag=GB }:: ::-Deeline::{ user=10121815 }, ::{ flag=GB }:: ::Cornfield::{ user=4087422 }, ::{ flag=GB }:: ::idealnettles::{ user=4010354 }, ::{ flag=GB }:: ::Zyphox::{ user=6589047 }, ::{ flag=GB }:: ::Rinnu::{ user=12179012 }, ::{ flag=IE }:: ::Xempus::{ user=9753313 }, ::{ flag=GB }:: ::[Nathan]::{ user=4741293 } |
+| 25–32 | ::{ flag=GB }:: ::Kathalshame::{ user=4572097 }, ::{ flag=GB }:: ::squarercube::{ user=5385017 }, ::{ flag=GB }:: ::Matt4132::{ user=11706972 }, ::{ flag=GB }:: ::Taiga Tiger::{ user=7405659 }, ::{ flag=GB }:: ::Teejay::{ user=9499753 }, ::{ flag=GB }:: ::Chugger::{ user=4491713 }, ::{ flag=GB }:: ::Fwuffy::{ user=7374212 }, ::{ flag=GB }:: ::thereal99gamer::{ user=11094254 } |
 
 ## Podium
 
@@ -65,9 +65,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: [Voss](https://osu.ppy.sh/users/7657761) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [Kerantina](https://osu.ppy.sh/users/7516484) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: ::Kingling::{ user=7010761 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: ::Voss::{ user=7657761 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: ::Kerantina::{ user=7516484 } |
 
 ## Mappools
 
@@ -509,16 +509,16 @@ See the [Qualifiers results sheet](https://docs.google.com/spreadsheets/d/1Jj9t9
 
 | Placing | Team | Normalised score | Average score |
 | --: | :-- | :-- | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) | 7,398,855 | 822,095 |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: [Voss](https://osu.ppy.sh/users/7657761) | 7,323,703 | 813,745 |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [Jemzsee](https://osu.ppy.sh/users/11553627) | 7,149,778 | 794,420 |
-| *4th place* | ::{ flag=GB }:: [Chemistry](https://osu.ppy.sh/users/6069540) | 7,111,662 | 790,185 |
-| *5th place* | ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) | 6,900,462 | 766,718 |
-| *6th place* | ::{ flag=GB }:: [Malteser](https://osu.ppy.sh/users/5218178) | 6,887,332 | 765,259 |
-| *7th place* | ::{ flag=GB }:: [Defex](https://osu.ppy.sh/users/9674143) | 6,414,683 | 712,743 |
-| *8th place* | ::{ flag=GB }:: [Mahmood](https://osu.ppy.sh/users/7627844) | 6,234,206 | 692,690 |
-| *9th place* | ::{ flag=PH }:: [LilyFlower](https://osu.ppy.sh/users/7449949) | 6,217,907 | 690,879 |
-| *10th place* | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) | 5,931,218 | 659,024 |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: ::Kingling::{ user=7010761 } | 7,398,855 | 822,095 |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: ::Voss::{ user=7657761 } | 7,323,703 | 813,745 |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: ::Jemzsee::{ user=11553627 } | 7,149,778 | 794,420 |
+| *4th place* | ::{ flag=GB }:: ::Chemistry::{ user=6069540 } | 7,111,662 | 790,185 |
+| *5th place* | ::{ flag=GB }:: ::Apo11o::{ user=9558549 } | 6,900,462 | 766,718 |
+| *6th place* | ::{ flag=GB }:: ::Malteser::{ user=5218178 } | 6,887,332 | 765,259 |
+| *7th place* | ::{ flag=GB }:: ::Defex::{ user=9674143 } | 6,414,683 | 712,743 |
+| *8th place* | ::{ flag=GB }:: ::Mahmood::{ user=7627844 } | 6,234,206 | 692,690 |
+| *9th place* | ::{ flag=PH }:: ::LilyFlower::{ user=7449949 } | 6,217,907 | 690,879 |
+| *10th place* | ::{ flag=GB }:: ::Doomsday::{ user=18983 } | 5,931,218 | 659,024 |
 
 ## Ruleset
 
@@ -540,7 +540,7 @@ See the [Qualifiers results sheet](https://docs.google.com/spreadsheets/d/1Jj9t9
 - Schedules for the next round are released on the Monday before a stage is due to happen and **all** matches will be scheduled for the weekend. You can reschedule for weekdays at the staff's discretion.
 - In order to reschedule, you must contact your opponents, agree on a time, and be able to provide **proof** (by form of a screenshot/image) of the agreed reschedule to the hosts.
 - In order to ensure that as many matches take place as possible, reschedules are allowed up to **2 hours before your match is due to be played**. However, your opponent holds the right to **refuse a reschedule if asked less than 12 hours before the scheduled time**.
-- If it is impossible to find a time to reschedule to that suits both teams, both teams should talk to the hosts (::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) or ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973)) who will attempt to sort something out.
+- If it is impossible to find a time to reschedule to that suits both teams, both teams should talk to the hosts (::{ flag=GB }:: ::Bubbleman::{ user=5182050 } or ::{ flag=GB }:: ::Yazzehh::{ user=7068973 }) who will attempt to sort something out.
 
 ### Pre-match
 

@@ -8,7 +8,7 @@ tags:
 
 ![GST2 logo](img/logo.jpg)
 
-The **Great Singapore Tournament 2** (***GST2***) was a Singaporean double-elimination 2v2 osu! tournament hosted by ::{ flag=SG }:: [youi](https://osu.ppy.sh/users/7537133). This was the second instalment of the Great Singapore Tournament.
+The **Great Singapore Tournament 2** (***GST2***) was a Singaporean double-elimination 2v2 osu! tournament hosted by ::{ flag=SG }:: ::youi::{ user=7537133 }. This was the second instalment of the Great Singapore Tournament.
 
 ## Tournament schedule
 
@@ -40,70 +40,70 @@ The Great Singapore Tournament 2 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organizer | ::{ flag=SG }:: [youi](https://osu.ppy.sh/users/7537133) |
-| Administrator | ::{ flag=SG }:: [Ayucchi](https://osu.ppy.sh/users/7823498), ::{ flag=SG }:: [youi](https://osu.ppy.sh/users/7537133) |
-| Mappool selector | ::{ flag=SG }:: [Ayucchi](https://osu.ppy.sh/users/7823498), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=US }:: [Tekkito](https://osu.ppy.sh/users/7075211), ::{ flag=SG }:: [youi](https://osu.ppy.sh/users/7537133) |
-| Mappool tester | ::{ flag=US }:: [Tekkito](https://osu.ppy.sh/users/7075211) |
-| Referee | ::{ flag=SG }:: [Ayucchi](https://osu.ppy.sh/users/7823498), ::{ flag=HK }:: [Cindergoat](https://osu.ppy.sh/users/10168682), ::{ flag=SG }:: [Element118](https://osu.ppy.sh/users/2283992), ::{ flag=ID }:: [Fre](https://osu.ppy.sh/users/3484548), ::{ flag=TW }:: [Saisu Riku](https://osu.ppy.sh/users/9834516), ::{ flag=US }:: [moof](https://osu.ppy.sh/users/8457202), ::{ flag=KR }:: [Nopekjk](https://osu.ppy.sh/users/4585186), ::{ flag=SG }:: [youi](https://osu.ppy.sh/users/7537133), ::{ flag=PL }:: [zibi](https://osu.ppy.sh/users/11301620) |
-| Streamer | ::{ flag=SG }:: [youi](https://osu.ppy.sh/users/7537133) |
-| Commentator | ::{ flag=MY }:: [FaithInOsu](https://osu.ppy.sh/users/10178187), ::{ flag=SG }:: [Loslite](https://osu.ppy.sh/users/6398160), ::{ flag=US }:: [moof](https://osu.ppy.sh/users/8457202), ::{ flag=SG }:: [SeeL](https://osu.ppy.sh/users/5104320), ::{ flag=SG }:: [Wolpis](https://osu.ppy.sh/users/8497340), ::{ flag=SG }:: [youi](https://osu.ppy.sh/users/7537133) |
-| Designer | ::{ flag=SG }:: [youi](https://osu.ppy.sh/users/7537133) |
-| Statistician | ::{ flag=SG }:: [youi](https://osu.ppy.sh/users/7537133) |
-| Pick'em developer | ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264) |
-| Wiki editor | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Organizer | ::{ flag=SG }:: ::youi::{ user=7537133 } |
+| Administrator | ::{ flag=SG }:: ::Ayucchi::{ user=7823498 }, ::{ flag=SG }:: ::youi::{ user=7537133 } |
+| Mappool selector | ::{ flag=SG }:: ::Ayucchi::{ user=7823498 }, ::{ flag=NL }:: ::nik::{ user=10077264 }, ::{ flag=US }:: ::Tekkito::{ user=7075211 }, ::{ flag=SG }:: ::youi::{ user=7537133 } |
+| Mappool tester | ::{ flag=US }:: ::Tekkito::{ user=7075211 } |
+| Referee | ::{ flag=SG }:: ::Ayucchi::{ user=7823498 }, ::{ flag=HK }:: ::Cindergoat::{ user=10168682 }, ::{ flag=SG }:: ::Element118::{ user=2283992 }, ::{ flag=ID }:: ::Fre::{ user=3484548 }, ::{ flag=TW }:: ::Saisu Riku::{ user=9834516 }, ::{ flag=US }:: ::moof::{ user=8457202 }, ::{ flag=KR }:: ::Nopekjk::{ user=4585186 }, ::{ flag=SG }:: ::youi::{ user=7537133 }, ::{ flag=PL }:: ::zibi::{ user=11301620 } |
+| Streamer | ::{ flag=SG }:: ::youi::{ user=7537133 } |
+| Commentator | ::{ flag=MY }:: ::FaithInOsu::{ user=10178187 }, ::{ flag=SG }:: ::Loslite::{ user=6398160 }, ::{ flag=US }:: ::moof::{ user=8457202 }, ::{ flag=SG }:: ::SeeL::{ user=5104320 }, ::{ flag=SG }:: ::Wolpis::{ user=8497340 }, ::{ flag=SG }:: ::youi::{ user=7537133 } |
+| Designer | ::{ flag=SG }:: ::youi::{ user=7537133 } |
+| Statistician | ::{ flag=SG }:: ::youi::{ user=7537133 } |
+| Pick'em developer | ::{ flag=DE }:: ::hallowatcher::{ user=1874761 }, ::{ flag=NL }:: ::nik::{ user=10077264 } |
+| Wiki editor | ::{ flag=ID }:: ::fajar13k::{ user=7100002 } |
 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/983074)
 - [GST Discord server](https://discord.gg/kCfW4Jw)
 - [Livestream](https://twitch.tv/osusg)
-- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/20) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/20) hosted by ::{ flag=DE }:: ::hallowatcher::{ user=1874761 }
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1rPNEsq4I_vuVHSccLjgZ5HucIgnAWTuUfgiYFRAkBOI/edit?usp=sharing)**
 
 ## Participants
 
 | Team | Members |
 | :-- | :-- |
-| **#sobafanclub** | ::{ flag=SG }:: **[Zac-](https://osu.ppy.sh/users/7513426)**, ::{ flag=SG }:: [Rachel](https://osu.ppy.sh/users/6494160) |
-| **\[ Jg \]** | ::{ flag=SG }:: **[\[ Jg \]](https://osu.ppy.sh/users/1671376)**, ::{ flag=SG }:: [will never fc](https://osu.ppy.sh/users/6722556) |
-| **50% fARmErS** | ::{ flag=SG }:: **[[-Lockon-]](https://osu.ppy.sh/users/6726331)**, ::{ flag=SG }:: [Kalo](https://osu.ppy.sh/users/3650695) |
-| **a)ii)no scenario** | ::{ flag=SG }:: **[SeeL](https://osu.ppy.sh/users/5104320)**, ::{ flag=SG }:: [Alice](https://osu.ppy.sh/users/3850861) |
-| **Abused 24/7** | ::{ flag=SG }:: **[\[-shirayuki-\]](https://osu.ppy.sh/users/7679930)**, ::{ flag=SG }:: [Fuwu](https://osu.ppy.sh/users/12059576) |
-| **advanced math** | ::{ flag=SG }:: **[moosepi](https://osu.ppy.sh/users/1868745)**, ::{ flag=SG }:: [Rtzero](https://osu.ppy.sh/users/9262462) |
-| **Ang Soon Tong** | ::{ flag=SG }:: **[-Eni-](https://osu.ppy.sh/users/12074313)**, ::{ flag=SG }:: [ForeverFancy](https://osu.ppy.sh/users/11007140) |
-| **bishan jc** | ::{ flag=SG }:: **[Eskalade](https://osu.ppy.sh/users/9093634)**, ::{ flag=SG }:: [Disbelief1](https://osu.ppy.sh/users/12525467) |
-| **Cute Aim Live!** | ::{ flag=SG }:: **[Izz](https://osu.ppy.sh/users/10001776)**, ::{ flag=SG }:: [RyanGBW](https://osu.ppy.sh/users/1626886) |
-| **dogerinoofanclub** | ::{ flag=SG }:: **[The Cat](https://osu.ppy.sh/users/8556392)**, ::{ flag=SG }:: [Leehai](https://osu.ppy.sh/users/9317883) |
-| **dos idiots v2** | ::{ flag=SG }:: **[Dogerinoo](https://osu.ppy.sh/users/9467258)**, ::{ flag=SG }:: [Layzmcgee](https://osu.ppy.sh/users/9474710) |
-| **double tap** | ::{ flag=SG }:: **[tzechi](https://osu.ppy.sh/users/4662795)**, ::{ flag=SG }:: [xPikachu](https://osu.ppy.sh/users/3205678) |
-| **fail screening** | ::{ flag=SG }:: **[pashty](https://osu.ppy.sh/users/9576725)**, ::{ flag=SG }:: [Snipey](https://osu.ppy.sh/users/9322030) |
-| **fausion foodclub** | ::{ flag=SG }:: **[ShallowoDream](https://osu.ppy.sh/users/13485826)**, ::{ flag=SG }:: [fUwUsion](https://osu.ppy.sh/users/12261210) |
-| **feeding scrubs** | ::{ flag=SG }:: **[wegh](https://osu.ppy.sh/users/4356258)**, ::{ flag=SG }:: [Ireiisu](https://osu.ppy.sh/users/5191022) |
-| **Fijsdejjwsxjfjdd** | ::{ flag=SG }:: **[ExImperia](https://osu.ppy.sh/users/5200499)**, ::{ flag=SG }:: [Lunarsol](https://osu.ppy.sh/users/6622650) |
-| **free pmds** | ::{ flag=SG }:: **[low acc fc](https://osu.ppy.sh/users/10404417)**, ::{ flag=SG }:: [Galaxik1255](https://osu.ppy.sh/users/10820043) |
-| **Fortnite?** | ::{ flag=SG }:: **[DreamlyLoli](https://osu.ppy.sh/users/8547527)**, ::{ flag=SG }:: [\_Meep\_](https://osu.ppy.sh/users/4315188) |
-| **FrogChamp** | ::{ flag=SG }:: **[\_gt](https://osu.ppy.sh/users/8301957)**, ::{ flag=SG }:: [Dawnwing](https://osu.ppy.sh/users/5144534) |
-| **fulap** | ::{ flag=SG }:: **[kirkirs](https://osu.ppy.sh/users/9902622)**, ::{ flag=SG }:: [Ninowo](https://osu.ppy.sh/users/9560886) |
-| **Here for last** | ::{ flag=SG }:: **[woahsia](https://osu.ppy.sh/users/195946)**, ::{ flag=SG }:: [vitasoy](https://osu.ppy.sh/users/9347706) |
-| **hsc thots** | ::{ flag=SG }:: **[qstronaut](https://osu.ppy.sh/users/10958852)**, ::{ flag=SG }:: [Oppairo](https://osu.ppy.sh/users/11015857) |
-| **JC Big Scam** | ::{ flag=SG }:: **[Mrgglock](https://osu.ppy.sh/users/10734032)**, ::{ flag=SG }:: [Hi im xKai](https://osu.ppy.sh/users/4337306) |
-| **Kafuu Chino** | ::{ flag=SG }:: **[m0fum0fu](https://osu.ppy.sh/users/5143605)**, ::{ flag=SG }:: [theprolimsy](https://osu.ppy.sh/users/4288726) |
-| **Kokujin** | ::{ flag=SG }:: **[gleru](https://osu.ppy.sh/users/11136593)**, ::{ flag=SG }:: [kenyio](https://osu.ppy.sh/users/6732506) |
-| **Left Palms Down** | ::{ flag=SG }:: **[Taeng](https://osu.ppy.sh/users/9598965)**, ::{ flag=SG }:: [nazenator](https://osu.ppy.sh/users/9122201) |
-| **Mahathir bin Moh** | ::{ flag=SG }:: **[Loslite](https://osu.ppy.sh/users/6398160)**, ::{ flag=SG }:: [Soba Noodles](https://osu.ppy.sh/users/3010281) |
-| **Mahjulah big gay** | ::{ flag=SG }:: **[lazypear](https://osu.ppy.sh/users/10795700)**, ::{ flag=SG }:: [DaShellWarrior](https://osu.ppy.sh/users/11589198) |
-| **PAP** | ::{ flag=SG }:: **[Wolpis](https://osu.ppy.sh/users/8497340)**, ::{ flag=SG }:: [\[Suguri\]](https://osu.ppy.sh/users/5406758) |
-| **Rainbow Centre** | ::{ flag=SG }:: **[Destroyed69](https://osu.ppy.sh/users/10270008)**, ::{ flag=SG }:: [Rlslngcloud](https://osu.ppy.sh/users/3773739) |
-| **raining lanjiao** | ::{ flag=SG }:: **[M4-K1](https://osu.ppy.sh/users/5210595)**, ::{ flag=SG }:: [Raindrop](https://osu.ppy.sh/users/1155871) |
-| **salakau** | ::{ flag=SG }:: **[Randomguruz](https://osu.ppy.sh/users/8040494)**, ::{ flag=SG }:: [jiawri](https://osu.ppy.sh/users/9984147) |
-| **Section 377A** | ::{ flag=SG }:: **[Hecatia](https://osu.ppy.sh/users/8244635)**, ::{ flag=SG }:: [Clout-Friendly](https://osu.ppy.sh/users/9613873) |
-| **self ref** | ::{ flag=SG }:: **[phox](https://osu.ppy.sh/users/772295)**, ::{ flag=SG }:: [Heresy](https://osu.ppy.sh/users/8876938) |
-| **tamade** | ::{ flag=SG }:: **[GSBlank](https://osu.ppy.sh/users/2312106)**, ::{ flag=SG }:: [Rtyzen](https://osu.ppy.sh/users/2439822) |
-| **TheCatFanClub** | ::{ flag=SG }:: **[AyanoMT](https://osu.ppy.sh/users/11413955)**, ::{ flag=SG }:: [Marina](https://osu.ppy.sh/users/11406548) |
-| **Tom and Jerry** | ::{ flag=SG }:: **[JianHao Tan](https://osu.ppy.sh/users/5447609)**, ::{ flag=SG }:: [k\_1tty](https://osu.ppy.sh/users/5407620) |
-| **totallynotfarmer** | ::{ flag=SG }:: **[Moltenfury](https://osu.ppy.sh/users/3395820)**, ::{ flag=SG }:: [OppaiSuki](https://osu.ppy.sh/users/1285403) |
-| **twitch<!---->.tv/(-->)** | ::{ flag=SG }:: **[P4ndemonium](https://osu.ppy.sh/users/6639059)**, ::{ flag=SG }:: [Chisayo20](https://osu.ppy.sh/users/4667643) |
-| **We can't read EZ** | ::{ flag=SG }:: **[sueishnao](https://osu.ppy.sh/users/9778431)**, ::{ flag=SG }:: [Flamburior](https://osu.ppy.sh/users/11386570) |
+| **#sobafanclub** | ::{ flag=SG }:: **::Zac-::{ user=7513426 }**, ::{ flag=SG }:: ::Rachel::{ user=6494160 } |
+| **\[ Jg \]** | ::{ flag=SG }:: **::\[ Jg \]::{ user=1671376 }**, ::{ flag=SG }:: ::will never fc::{ user=6722556 } |
+| **50% fARmErS** | ::{ flag=SG }:: **::[-Lockon-]::{ user=6726331 }**, ::{ flag=SG }:: ::Kalo::{ user=3650695 } |
+| **a)ii)no scenario** | ::{ flag=SG }:: **::SeeL::{ user=5104320 }**, ::{ flag=SG }:: ::Alice::{ user=3850861 } |
+| **Abused 24/7** | ::{ flag=SG }:: **::\[-shirayuki-\]::{ user=7679930 }**, ::{ flag=SG }:: ::Fuwu::{ user=12059576 } |
+| **advanced math** | ::{ flag=SG }:: **::moosepi::{ user=1868745 }**, ::{ flag=SG }:: ::Rtzero::{ user=9262462 } |
+| **Ang Soon Tong** | ::{ flag=SG }:: **::-Eni-::{ user=12074313 }**, ::{ flag=SG }:: ::ForeverFancy::{ user=11007140 } |
+| **bishan jc** | ::{ flag=SG }:: **::Eskalade::{ user=9093634 }**, ::{ flag=SG }:: ::Disbelief1::{ user=12525467 } |
+| **Cute Aim Live!** | ::{ flag=SG }:: **::Izz::{ user=10001776 }**, ::{ flag=SG }:: ::RyanGBW::{ user=1626886 } |
+| **dogerinoofanclub** | ::{ flag=SG }:: **::The Cat::{ user=8556392 }**, ::{ flag=SG }:: ::Leehai::{ user=9317883 } |
+| **dos idiots v2** | ::{ flag=SG }:: **::Dogerinoo::{ user=9467258 }**, ::{ flag=SG }:: ::Layzmcgee::{ user=9474710 } |
+| **double tap** | ::{ flag=SG }:: **::tzechi::{ user=4662795 }**, ::{ flag=SG }:: ::xPikachu::{ user=3205678 } |
+| **fail screening** | ::{ flag=SG }:: **::pashty::{ user=9576725 }**, ::{ flag=SG }:: ::Snipey::{ user=9322030 } |
+| **fausion foodclub** | ::{ flag=SG }:: **::ShallowoDream::{ user=13485826 }**, ::{ flag=SG }:: ::fUwUsion::{ user=12261210 } |
+| **feeding scrubs** | ::{ flag=SG }:: **::wegh::{ user=4356258 }**, ::{ flag=SG }:: ::Ireiisu::{ user=5191022 } |
+| **Fijsdejjwsxjfjdd** | ::{ flag=SG }:: **::ExImperia::{ user=5200499 }**, ::{ flag=SG }:: ::Lunarsol::{ user=6622650 } |
+| **free pmds** | ::{ flag=SG }:: **::low acc fc::{ user=10404417 }**, ::{ flag=SG }:: ::Galaxik1255::{ user=10820043 } |
+| **Fortnite?** | ::{ flag=SG }:: **::DreamlyLoli::{ user=8547527 }**, ::{ flag=SG }:: ::\_Meep\_::{ user=4315188 } |
+| **FrogChamp** | ::{ flag=SG }:: **::\_gt::{ user=8301957 }**, ::{ flag=SG }:: ::Dawnwing::{ user=5144534 } |
+| **fulap** | ::{ flag=SG }:: **::kirkirs::{ user=9902622 }**, ::{ flag=SG }:: ::Ninowo::{ user=9560886 } |
+| **Here for last** | ::{ flag=SG }:: **::woahsia::{ user=195946 }**, ::{ flag=SG }:: ::vitasoy::{ user=9347706 } |
+| **hsc thots** | ::{ flag=SG }:: **::qstronaut::{ user=10958852 }**, ::{ flag=SG }:: ::Oppairo::{ user=11015857 } |
+| **JC Big Scam** | ::{ flag=SG }:: **::Mrgglock::{ user=10734032 }**, ::{ flag=SG }:: ::Hi im xKai::{ user=4337306 } |
+| **Kafuu Chino** | ::{ flag=SG }:: **::m0fum0fu::{ user=5143605 }**, ::{ flag=SG }:: ::theprolimsy::{ user=4288726 } |
+| **Kokujin** | ::{ flag=SG }:: **::gleru::{ user=11136593 }**, ::{ flag=SG }:: ::kenyio::{ user=6732506 } |
+| **Left Palms Down** | ::{ flag=SG }:: **::Taeng::{ user=9598965 }**, ::{ flag=SG }:: ::nazenator::{ user=9122201 } |
+| **Mahathir bin Moh** | ::{ flag=SG }:: **::Loslite::{ user=6398160 }**, ::{ flag=SG }:: ::Soba Noodles::{ user=3010281 } |
+| **Mahjulah big gay** | ::{ flag=SG }:: **::lazypear::{ user=10795700 }**, ::{ flag=SG }:: ::DaShellWarrior::{ user=11589198 } |
+| **PAP** | ::{ flag=SG }:: **::Wolpis::{ user=8497340 }**, ::{ flag=SG }:: ::\[Suguri\]::{ user=5406758 } |
+| **Rainbow Centre** | ::{ flag=SG }:: **::Destroyed69::{ user=10270008 }**, ::{ flag=SG }:: ::Rlslngcloud::{ user=3773739 } |
+| **raining lanjiao** | ::{ flag=SG }:: **::M4-K1::{ user=5210595 }**, ::{ flag=SG }:: ::Raindrop::{ user=1155871 } |
+| **salakau** | ::{ flag=SG }:: **::Randomguruz::{ user=8040494 }**, ::{ flag=SG }:: ::jiawri::{ user=9984147 } |
+| **Section 377A** | ::{ flag=SG }:: **::Hecatia::{ user=8244635 }**, ::{ flag=SG }:: ::Clout-Friendly::{ user=9613873 } |
+| **self ref** | ::{ flag=SG }:: **::phox::{ user=772295 }**, ::{ flag=SG }:: ::Heresy::{ user=8876938 } |
+| **tamade** | ::{ flag=SG }:: **::GSBlank::{ user=2312106 }**, ::{ flag=SG }:: ::Rtyzen::{ user=2439822 } |
+| **TheCatFanClub** | ::{ flag=SG }:: **::AyanoMT::{ user=11413955 }**, ::{ flag=SG }:: ::Marina::{ user=11406548 } |
+| **Tom and Jerry** | ::{ flag=SG }:: **::JianHao Tan::{ user=5447609 }**, ::{ flag=SG }:: ::k\_1tty::{ user=5407620 } |
+| **totallynotfarmer** | ::{ flag=SG }:: **::Moltenfury::{ user=3395820 }**, ::{ flag=SG }:: ::OppaiSuki::{ user=1285403 } |
+| **twitch<!---->.tv/(-->)** | ::{ flag=SG }:: **::P4ndemonium::{ user=6639059 }**, ::{ flag=SG }:: ::Chisayo20::{ user=4667643 } |
+| **We can't read EZ** | ::{ flag=SG }:: **::sueishnao::{ user=9778431 }**, ::{ flag=SG }:: ::Flamburior::{ user=11386570 } |
 
 ## Groups
 
@@ -124,9 +124,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **tamade** (::{ flag=SG }:: **[GSBlank](https://osu.ppy.sh/users/2312106)**, ::{ flag=SG }:: [Rtyzen](https://osu.ppy.sh/users/2439822)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Mahathir bin Moh** (::{ flag=SG }:: **[Loslite](https://osu.ppy.sh/users/6398160)**, ::{ flag=SG }:: [Soba Noodles](https://osu.ppy.sh/users/3010281)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Tom and Jerry** (::{ flag=SG }:: **[JianHao Tan](https://osu.ppy.sh/users/5447609)**, ::{ flag=SG }:: [k\_1tty](https://osu.ppy.sh/users/5407620)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **tamade** (::{ flag=SG }:: **::GSBlank::{ user=2312106 }**, ::{ flag=SG }:: ::Rtyzen::{ user=2439822 }) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Mahathir bin Moh** (::{ flag=SG }:: **::Loslite::{ user=6398160 }**, ::{ flag=SG }:: ::Soba Noodles::{ user=3010281 }) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Tom and Jerry** (::{ flag=SG }:: **::JianHao Tan::{ user=5447609 }**, ::{ flag=SG }:: ::k\_1tty::{ user=5407620 }) |
 
 ## Mappools
 

@@ -64,26 +64,26 @@ Torneios e competições não-oficiais também são sediados pelas comunidades.
 
 | Nome | Início | Fim | ![Gold Crown](/wiki/shared/crown-gold.png "1º Lugar") | ![Silver Crown](/wiki/shared/crown-silver.png "2º Lugar") | ![Bronze Crown](/wiki/shared/crown-bronze.png "3º Lugar") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [RMoT #2](/wiki/Tournaments/RMoTI/2) | 06/05/2017 | 14/05/2017 | [MagBlood](https://osu.ppy.sh/users/6178640) | [bsurma](https://osu.ppy.sh/users/509575) | [MaIson](https://osu.ppy.sh/users/6047395) |
+| [RMoT #2](/wiki/Tournaments/RMoTI/2) | 06/05/2017 | 14/05/2017 | ::MagBlood::{ user=6178640 } | ::bsurma::{ user=509575 } | ::MaIson::{ user=6047395 } |
 
 ### ![](/wiki/shared/mode/mania.png) Chinese osu!mania 4K Tournament
 
 | Nome | Início | Fim | ![Gold Crown](/wiki/shared/crown-gold.png "1º Lugar") | ![Silver Crown](/wiki/shared/crown-silver.png "2º Lugar") | ![Bronze Crown](/wiki/shared/crown-bronze.png "3º Lugar") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Chinese osu!mania 4K Tournament 2017](/wiki/Tournaments/CMT_4K/2017) | 24/06/2017 | 06/08/2017 | [- Choma -](https://osu.ppy.sh/users/-%20Choma%20-) | [\[Crz\]MemoryI](https://osu.ppy.sh/users/%5BCrz%5DMemoryI) | [\[Crz\]ScSolAr](https://osu.ppy.sh/users/%5BCrz%5DScSolAr) |
+| [Chinese osu!mania 4K Tournament 2017](/wiki/Tournaments/CMT_4K/2017) | 24/06/2017 | 06/08/2017 | ::- Choma -::{ user=4469570 } | ::\[Crz\]MemoryI::{ user=8179131 } | ::\[Crz\]ScSolAr::{ user=1591215 } |
 
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) Most Amazing LAN Ever
 
 | Nome | Início | Fim | ![Gold Crown](/wiki/shared/crown-gold.png "1º Lugar") | ![Silver Crown](/wiki/shared/crown-silver.png "2º Lugar") | ![Bronze Crown](/wiki/shared/crown-bronze.png "3º Lugar") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Most Amazing LAN Ever](/wiki/Tournaments/osu!_Riverside/MALE) | 2019-01-27 | 2019-01-27 | ::{ flag=US }:: [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ::{ flag=US }:: [Zushen](https://osu.ppy.sh/users/2106316) (osu!mania) | ::{ flag=US }:: [Darin on osu](https://osu.ppy.sh/users/4839876) (osu!), ::{ flag=US }:: [Ecal](https://osu.ppy.sh/users/8384260) (osu!mania) | ::{ flag=US }:: [Kenny](https://osu.ppy.sh/users/1225459) (osu!), ::{ flag=US }:: [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
+| [Most Amazing LAN Ever](/wiki/Tournaments/osu!_Riverside/MALE) | 2019-01-27 | 2019-01-27 | ::{ flag=US }:: ::Mathyu::{ user=6303313 } (osu!), ::{ flag=US }:: ::Zushen::{ user=2106316 } (osu!mania) | ::{ flag=US }:: ::Darin on osu::{ user=4839876 } (osu!), ::{ flag=US }:: ::Ecal::{ user=8384260 } (osu!mania) | ::{ flag=US }:: ::Kenny::{ user=1225459 } (osu!), ::{ flag=US }:: ::Ouchiee::{ user=6310052 } (osu!mania) |
 
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) osu! UCI
 
 | Nome | Data | ![Gold Crown](/wiki/shared/crown-gold.png "1º Lugar") | ![Silver Crown](/wiki/shared/crown-silver.png "2º Lugar") | ![Bronze Crown](/wiki/shared/crown-bronze.png "3º Lugar") |
 | :-- | :-- | :-- | :-- | :-- |
-| [The iDOL@NSTER: Irvine Spring Stage](osu!_UCI/iDOL@NSTER) | 2019-05-19 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ::{ flag=US }:: [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ::{ flag=US }:: [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ::{ flag=US }:: [Trainer-](https://osu.ppy.sh/users/9331760) (osu!mania) | ::{ flag=US }:: [death grips](https://osu.ppy.sh/users/4829231) (osu!), ::{ flag=US }:: [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
-| [Night Fall LAN](osu!_UCI/NFL) | 2020-01-18 | ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150) (osu!), ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) (osu!mania) | ::{ flag=US }:: [Monko2k](https://osu.ppy.sh/users/4852013) (osu!), ::{ flag=US }:: [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ::{ flag=CA }:: [Dark lord bob](https://osu.ppy.sh/users/4588299) (osu!mania) |
+| [The iDOL@NSTER: Irvine Spring Stage](osu!_UCI/iDOL@NSTER) | 2019-05-19 | ::{ flag=US }:: ::fieryrage::{ user=3533958 } (osu!), ::{ flag=US }:: ::Crescendo PiaNo::{ user=8798383 } (osu!mania) | ::{ flag=US }:: ::Mathyu::{ user=6303313 } (osu!), ::{ flag=US }:: ::Trainer-::{ user=9331760 } (osu!mania) | ::{ flag=US }:: ::death grips::{ user=4829231 } (osu!), ::{ flag=US }:: ::Ouchiee::{ user=6310052 } (osu!mania) |
+| [Night Fall LAN](osu!_UCI/NFL) | 2020-01-18 | ::{ flag=US }:: ::Vaxei::{ user=4787150 } (osu!), ::{ flag=US }:: ::-mint-::{ user=8976576 } (osu!mania) | ::{ flag=US }:: ::Monko2k::{ user=4852013 } (osu!), ::{ flag=US }:: ::Crescendo PiaNo::{ user=8798383 } (osu!mania) | ::{ flag=US }:: ::fieryrage::{ user=3533958 } (osu!), ::{ flag=CA }:: ::Dark lord bob::{ user=4588299 } (osu!mania) |
 
 ## Veja também
 

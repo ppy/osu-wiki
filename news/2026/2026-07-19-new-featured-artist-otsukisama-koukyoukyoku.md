@@ -19,7 +19,7 @@ Rather than words, the best way to appreciate music is to listen to it. Here on 
 
 ### Otsukisama Koukyoukyoku - Futoumeisha to Fuwa no Koe
 
-Experience [this marathon map](https://osu.ppy.sh/beatmapsets/1812996) created by [iljaaz](https://osu.ppy.sh/users/8501291) and [Plus4j](https://osu.ppy.sh/users/4086497)!
+Experience [this marathon map](https://osu.ppy.sh/beatmapsets/1812996) created by ::iljaaz::{ user=8501291 } and ::Plus4j::{ user=4086497 }!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -29,7 +29,7 @@ Experience [this marathon map](https://osu.ppy.sh/beatmapsets/1812996) created b
 
 ### Otsukisama Koukyoukyoku - Kieyuku Koe to Zanmei no Chikai
 
-Or try out [this other marathon map](https://osu.ppy.sh/beatmapsets/2023431) by [Plus4j](https://osu.ppy.sh/users/4086497)!
+Or try out [this other marathon map](https://osu.ppy.sh/beatmapsets/2023431) by ::Plus4j::{ user=4086497 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/553/Songs/Otsukisama%20Koukyoukyoku%20-%20Kieyuku%20Koe%20to%20Zanmei%20no%20Chikai.mp3">

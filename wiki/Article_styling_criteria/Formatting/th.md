@@ -812,7 +812,7 @@ jpeg-recompress -am smallfry <input> <output>
 ไอคอนธงข้างลิงก์ผู้ใช้ต้องแยกจากข้อความลิงก์ ตามตัวอย่างต่อไปนี้:
 
 ```markdown
-![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
+![][flag_AU] ::peppy::{ user=2 }
 ```
 
 ### ไอคอนธง

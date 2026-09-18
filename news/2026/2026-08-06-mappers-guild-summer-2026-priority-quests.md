@@ -98,7 +98,7 @@ This quest is simple: **create and rank your first beatmap!**
 
 ## Beatmap packs
 
-Anyone who read the recent [Community Contributors article](https://osu.ppy.sh/home/news/2026-08-02-community-contributors-2025) knows that [Shige-Tori\[a\]](https://osu.ppy.sh/users/4459449) is responsible for the ever-expanding [beatmap packs](https://osu.ppy.sh/beatmaps/packs) section of the osu! website. As of recently, those efforts have overlapped with the Mappers' Guild!
+Anyone who read the recent [Community Contributors article](https://osu.ppy.sh/home/news/2026-08-02-community-contributors-2025) knows that ::Shige-Tori\[a\]::{ user=4459449 } is responsible for the ever-expanding [beatmap packs](https://osu.ppy.sh/beatmaps/packs) section of the osu! website. As of recently, those efforts have overlapped with the Mappers' Guild!
 
 In the [Featured Artist packs section](https://osu.ppy.sh/beatmaps/packs?type=featured), you'll find beatmap packs encompassing all recently completed quests in the guild. This includes packs for both [normal quests](https://mappersguild.com/quests) and [priority quests](https://mappersguild.com/missions), with the exception of quests that require 2 or fewer maps. If you made one of the 250+ maps from the [previous batch of priority quests](https://osu.ppy.sh/home/news/2026-03-16-mappers-guild-spring-2026-priority-quests), it's somewhere down here:
 
@@ -109,7 +109,7 @@ In the [Featured Artist packs section](https://osu.ppy.sh/beatmaps/packs?type=fe
 - [**"The Hurdle v7" beatmap pack**](https://osu.ppy.sh/beatmaps/packs/FM43)
 - **"Classified: Genre edition" beatmap pack**... is top secret for now.
 
-Everyone please thank our packing overlord [Shige-Tori\[a\]](https://osu.ppy.sh/users/4459449) for making this happen!
+Everyone please thank our packing overlord ::Shige-Tori\[a\]::{ user=4459449 } for making this happen!
 
 ---
 

@@ -8,7 +8,7 @@ tags:
 
 ![6K AST banner](img/banner.jpg)
 
-The **6K Autumn Showdown Tournament** (***6K AST***) was a 1v1, double-elimination, global osu!mania 6-key tournament hosted by ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=US }:: [tastydumpl1ng](https://osu.ppy.sh/users/18496063) and ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991). It was the first instalment in the 6K AST series.
+The **6K Autumn Showdown Tournament** (***6K AST***) was a 1v1, double-elimination, global osu!mania 6-key tournament hosted by ::{ flag=NL }:: ::Albionthegreat::{ user=9853595 }, ::{ flag=US }:: ::tastydumpl1ng::{ user=18496063 } and ::{ flag=SG }:: ::TheFunk::{ user=13981991 }. It was the first instalment in the 6K AST series.
 
 ## Tournament schedule
 
@@ -41,15 +41,15 @@ The **6K Autumn Showdown Tournament** (***6K AST***) was a 1v1, double-eliminati
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=US }:: [tastydumpl1ng](https://osu.ppy.sh/users/18496063), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991) |
-| Mappool selector | ::{ flag=CN }:: [\[Crz\]sunnyxxy](https://osu.ppy.sh/users/10333739), ::{ flag=CN }:: [Arkman](https://osu.ppy.sh/users/8814590), ::{ flag=MX }:: [My Angel Nilou](https://osu.ppy.sh/users/9658070), ::{ flag=CN }:: [Phukiir](https://osu.ppy.sh/users/4556538), ::{ flag=US }:: [tastydumpl1ng](https://osu.ppy.sh/users/18496063), ::{ flag=CN }:: [U1d](https://osu.ppy.sh/users/10125072) |
-| Mapper | ::{ flag=CN }:: [_IceRain](https://osu.ppy.sh/users/7859973), ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229), ::{ flag=CN }:: [553343477](https://osu.ppy.sh/users/4363223), ::{ flag=CN }:: [AhoUsagi](https://osu.ppy.sh/users/9784248), ::{ flag=HK }:: [Alptraum](https://osu.ppy.sh/users/26496648), ::{ flag=CN }:: [Benson_](https://osu.ppy.sh/users/18471116), ::{ flag=CN }:: [BKwind](https://osu.ppy.sh/users/8900975), ::{ flag=NL }:: [DannyPX](https://osu.ppy.sh/users/11253722), ::{ flag=AU }:: [Decku](https://osu.ppy.sh/users/13360768), ::{ flag=CN }:: [HMillion](https://osu.ppy.sh/users/12891443), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [Imperial Wolf](https://osu.ppy.sh/users/9080296), ::{ flag=MX }:: [My Angel Nilou](https://osu.ppy.sh/users/9658070), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904), ::{ flag=CN }:: [U1d](https://osu.ppy.sh/users/10125072), ::{ flag=CN }:: [YuzakiTsukasa](https://osu.ppy.sh/users/17158897) |
-| Playtester | ::{ flag=CN }:: [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ::{ flag=SG }:: [Japeynius](https://osu.ppy.sh/users/13993659), ::{ flag=US }:: [RevVoJH](https://osu.ppy.sh/users/7286896), ::{ flag=US }:: [tastydumpl1ng](https://osu.ppy.sh/users/18496063), ::{ flag=KR }:: [winterlover](https://osu.ppy.sh/users/16308598), ::{ flag=US }:: [YuJJun](https://osu.ppy.sh/users/12320264) |
-| Streamer | ::{ flag=CN }:: [\[GB\]Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805), ::{ flag=CN }:: [SiFour](https://osu.ppy.sh/users/11590784), ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622) |
-| Commentator | ::{ flag=PH }:: [\[LS\]Tenshi](https://osu.ppy.sh/users/18520056), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=FR }:: [Baguette2Pain](https://osu.ppy.sh/users/11818585), ::{ flag=US }:: [Dynascape](https://osu.ppy.sh/users/8784587), ::{ flag=SG }:: [ERA Adam](https://osu.ppy.sh/users/12297375), ::{ flag=US }:: [RhymesWithMash](https://osu.ppy.sh/users/18834550), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=US }:: [Sparky](https://osu.ppy.sh/users/3187959), ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622) |
-| Referee | ::{ flag=CN }:: [\[GB\]Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=MY }:: [Auxesiaa](https://osu.ppy.sh/users/16417718), ::{ flag=NL }:: [DannyPX](https://osu.ppy.sh/users/11253722), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=PE }:: [ERA Xuste](https://osu.ppy.sh/users/17989444), ::{ flag=VN }:: [MashedPotato](https://osu.ppy.sh/users/10494860), ::{ flag=NX }:: [N4iveDx](https://osu.ppy.sh/users/21340543), ::{ flag=VN }:: [Poity](https://osu.ppy.sh/users/17148657), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515), ::{ flag=VN }:: [rock-on](https://osu.ppy.sh/users/9676089), ::{ flag=CN }:: [shizehao](https://osu.ppy.sh/users/4928674), ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622), ::{ flag=US }:: [tastydumpl1ng](https://osu.ppy.sh/users/18496063), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=CA }:: [ERA Sunny](https://osu.ppy.sh/users/16468962) |
-| Designer | ::{ flag=MX }:: [-Candy-](https://osu.ppy.sh/users/3964918), ::{ flag=MX }:: [demiantorp](https://osu.ppy.sh/users/8291099), ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866) |
-| Statistician | ::{ flag=NL }:: [2Fast](https://osu.ppy.sh/users/5183940), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991) |
+| Host | ::{ flag=NL }:: ::Albionthegreat::{ user=9853595 }, ::{ flag=US }:: ::tastydumpl1ng::{ user=18496063 }, ::{ flag=SG }:: ::TheFunk::{ user=13981991 } |
+| Mappool selector | ::{ flag=CN }:: ::\[Crz\]sunnyxxy::{ user=10333739 }, ::{ flag=CN }:: ::Arkman::{ user=8814590 }, ::{ flag=MX }:: ::My Angel Nilou::{ user=9658070 }, ::{ flag=CN }:: ::Phukiir::{ user=4556538 }, ::{ flag=US }:: ::tastydumpl1ng::{ user=18496063 }, ::{ flag=CN }:: ::U1d::{ user=10125072 } |
+| Mapper | ::{ flag=CN }:: ::_IceRain::{ user=7859973 }, ::{ flag=CN }:: ::_Stan::{ user=1653229 }, ::{ flag=CN }:: ::553343477::{ user=4363223 }, ::{ flag=CN }:: ::AhoUsagi::{ user=9784248 }, ::{ flag=HK }:: ::Alptraum::{ user=26496648 }, ::{ flag=CN }:: ::Benson_::{ user=18471116 }, ::{ flag=CN }:: ::BKwind::{ user=8900975 }, ::{ flag=NL }:: ::DannyPX::{ user=11253722 }, ::{ flag=AU }:: ::Decku::{ user=13360768 }, ::{ flag=CN }:: ::HMillion::{ user=12891443 }, ::{ flag=CN }:: ::Hylotl::{ user=18270260 }, ::{ flag=CN }:: ::Imperial Wolf::{ user=9080296 }, ::{ flag=MX }:: ::My Angel Nilou::{ user=9658070 }, ::{ flag=SG }:: ::TheFunk::{ user=13981991 }, ::{ flag=CN }:: ::tyrcs::{ user=13026904 }, ::{ flag=CN }:: ::U1d::{ user=10125072 }, ::{ flag=CN }:: ::YuzakiTsukasa::{ user=17158897 } |
+| Playtester | ::{ flag=CN }:: ::\[Crz\]Satori::{ user=7082178 }, ::{ flag=SG }:: ::Japeynius::{ user=13993659 }, ::{ flag=US }:: ::RevVoJH::{ user=7286896 }, ::{ flag=US }:: ::tastydumpl1ng::{ user=18496063 }, ::{ flag=KR }:: ::winterlover::{ user=16308598 }, ::{ flag=US }:: ::YuJJun::{ user=12320264 } |
+| Streamer | ::{ flag=CN }:: ::\[GB\]Rush_FTK::{ user=3046856 }, ::{ flag=NL }:: ::Albionthegreat::{ user=9853595 }, ::{ flag=US }:: ::EpsilonMaiagare::{ user=3855052 }, ::{ flag=TH }:: ::konkawe::{ user=15665805 }, ::{ flag=CN }:: ::SiFour::{ user=11590784 }, ::{ flag=US }:: ::SunApple::{ user=11817622 } |
+| Commentator | ::{ flag=PH }:: ::\[LS\]Tenshi::{ user=18520056 }, ::{ flag=NL }:: ::Albionthegreat::{ user=9853595 }, ::{ flag=FR }:: ::Baguette2Pain::{ user=11818585 }, ::{ flag=US }:: ::Dynascape::{ user=8784587 }, ::{ flag=SG }:: ::ERA Adam::{ user=12297375 }, ::{ flag=US }:: ::RhymesWithMash::{ user=18834550 }, ::{ flag=PH }:: ::Silhoueska Elze::{ user=11517895 }, ::{ flag=US }:: ::Sparky::{ user=3187959 }, ::{ flag=US }:: ::SunApple::{ user=11817622 } |
+| Referee | ::{ flag=CN }:: ::\[GB\]Rush_FTK::{ user=3046856 }, ::{ flag=US }:: ::akace100::{ user=9308128 }, ::{ flag=NL }:: ::Albionthegreat::{ user=9853595 }, ::{ flag=MY }:: ::Auxesiaa::{ user=16417718 }, ::{ flag=NL }:: ::DannyPX::{ user=11253722 }, ::{ flag=US }:: ::EpsilonMaiagare::{ user=3855052 }, ::{ flag=PE }:: ::ERA Xuste::{ user=17989444 }, ::{ flag=VN }:: ::MashedPotato::{ user=10494860 }, ::{ flag=NX }:: ::N4iveDx::{ user=21340543 }, ::{ flag=VN }:: ::Poity::{ user=17148657 }, ::{ flag=SG }:: ::Polytetral::{ user=8612061 }, ::{ flag=ID }:: ::Reihynn::{ user=16630515 }, ::{ flag=VN }:: ::rock-on::{ user=9676089 }, ::{ flag=CN }:: ::shizehao::{ user=4928674 }, ::{ flag=US }:: ::SunApple::{ user=11817622 }, ::{ flag=US }:: ::tastydumpl1ng::{ user=18496063 }, ::{ flag=SG }:: ::TheFunk::{ user=13981991 }, ::{ flag=DE }:: ::TheHunter1::{ user=6496016 }, ::{ flag=CA }:: ::ERA Sunny::{ user=16468962 } |
+| Designer | ::{ flag=MX }:: ::-Candy-::{ user=3964918 }, ::{ flag=MX }:: ::demiantorp::{ user=8291099 }, ::{ flag=HK }:: ::ShadeCegLgMn::{ user=12609866 } |
+| Statistician | ::{ flag=NL }:: ::2Fast::{ user=5183940 }, ::{ flag=NL }:: ::Albionthegreat::{ user=9853595 }, ::{ flag=HK }:: ::ShadeCegLgMn::{ user=12609866 }, ::{ flag=SG }:: ::TheFunk::{ user=13981991 } |
 
 ## Links
 
@@ -66,70 +66,70 @@ The **6K Autumn Showdown Tournament** (***6K AST***) was a 1v1, double-eliminati
 
 | Seed | Player |
 | :-- | :-- |
-| 1 | ::{ flag=KR }:: [yz1155](https://osu.ppy.sh/users/2071008) |
-| 2 | ::{ flag=TH }:: [LostCool](https://osu.ppy.sh/users/766374) |
-| 3 | ::{ flag=CA }:: [UmmmMrMoo](https://osu.ppy.sh/users/15314355) |
-| 4 | ::{ flag=PH }:: [- Kura -](https://osu.ppy.sh/users/11420405) |
-| 5 | ::{ flag=CN }:: [Watch01](https://osu.ppy.sh/users/13967954) |
-| 6 | ::{ flag=PH }:: [Sanni](https://osu.ppy.sh/users/3036686) |
-| 7 | ::{ flag=PH }:: [arcwinolivirus](https://osu.ppy.sh/users/2039089) |
-| 8 | ::{ flag=CN }:: [VanWilder](https://osu.ppy.sh/users/89545) |
-| 9 | ::{ flag=CN }:: [Shenzouz](https://osu.ppy.sh/users/29606773) |
-| 10 | ::{ flag=DE }:: [TsukiyaWhiskers](https://osu.ppy.sh/users/12598261) |
-| 11 | ::{ flag=EE }:: [Arcaxio](https://osu.ppy.sh/users/16819909) |
-| 12 | ::{ flag=US }:: [Bunsen](https://osu.ppy.sh/users/24675802) |
-| 13 | ::{ flag=PL }:: [bagjettka](https://osu.ppy.sh/users/18338179) |
-| 14 | ::{ flag=US }:: [Alter-](https://osu.ppy.sh/users/4980256) |
-| 15 | ::{ flag=CN }:: [Krn_](https://osu.ppy.sh/users/12452291) |
-| 16 | ::{ flag=FR }:: [MillaMaxwelle](https://osu.ppy.sh/users/6264519) |
-| 17 | ::{ flag=CN }:: [HxcQ777](https://osu.ppy.sh/users/18282863) |
-| 18 | ::{ flag=CL }:: [Skalim](https://osu.ppy.sh/users/2225008) |
-| 19 | ::{ flag=US }:: [mashu](https://osu.ppy.sh/users/12028216) |
-| 20 | ::{ flag=US }:: [Babypotaterrx3](https://osu.ppy.sh/users/18664411) |
-| 21 | ::{ flag=CL }:: [Matiias](https://osu.ppy.sh/users/3215366) |
-| 22 | ::{ flag=NL }:: [Freek](https://osu.ppy.sh/users/9630674) |
-| 23 | ::{ flag=TH }:: [Natsurio](https://osu.ppy.sh/users/17721836) |
-| 24 | ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684) |
-| 25 | ::{ flag=TH }:: [KenZ](https://osu.ppy.sh/users/437945) |
-| 26 | ::{ flag=MX }:: [- Kopi -](https://osu.ppy.sh/users/24140109) |
-| 27 | ::{ flag=GB }:: [Lelloq](https://osu.ppy.sh/users/8610776) |
-| 28 | ::{ flag=US }:: [RhymesWithMash](https://osu.ppy.sh/users/18834550) |
-| 29 | ::{ flag=FR }:: [jeremkyurem](https://osu.ppy.sh/users/13431947) |
-| 30 | ::{ flag=SG }:: [sukidayo-](https://osu.ppy.sh/users/16870002) |
-| 31 | ::{ flag=US }:: [Tsunakko](https://osu.ppy.sh/users/18172498) |
-| 32 | ::{ flag=US }:: [[TCJ]ScanL](https://osu.ppy.sh/users/11762834) |
-| 33 | ::{ flag=CN }:: [[Paw]FIood](https://osu.ppy.sh/users/6336721) |
-| 34 | ::{ flag=PH }:: [[LS]Tenshi](https://osu.ppy.sh/users/18520056) |
-| 35 | ::{ flag=TH }:: [BossMadWolf](https://osu.ppy.sh/users/2772110) |
-| 36 | ::{ flag=CN }:: [7581yx](https://osu.ppy.sh/users/23070586) |
-| 37 | ::{ flag=KR }:: [Raon2007](https://osu.ppy.sh/users/25850141) |
-| 38 | ::{ flag=HK }:: [zero2snow](https://osu.ppy.sh/users/7751516) |
-| 39 | ::{ flag=TR }:: [Zmor0133](https://osu.ppy.sh/users/6419257) |
-| 40 | ::{ flag=ID }:: [Kasen-](https://osu.ppy.sh/users/3995789) |
-| 41 | ::{ flag=BR }:: [Leototo](https://osu.ppy.sh/users/12017594) |
-| 42 | ::{ flag=CN }:: [Kuiiiiteeee](https://osu.ppy.sh/users/7304075) |
-| 43 | ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267) |
-| 44 | ::{ flag=FR }:: [Baguette2Pain](https://osu.ppy.sh/users/11818585) |
-| 45 | ::{ flag=MX }:: [[TK]Martin_22](https://osu.ppy.sh/users/9653729) |
-| 46 | ::{ flag=PE }:: [-Mandy](https://osu.ppy.sh/users/4775146) |
-| 47 | ::{ flag=CN }:: [ATTrance](https://osu.ppy.sh/users/11047650) |
-| 48 | ::{ flag=US }:: [ERA Jungle](https://osu.ppy.sh/users/9709652) |
-| 49 | ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805) |
-| 50 | ::{ flag=CN }:: [RiceSS](https://osu.ppy.sh/users/8271436) |
-| 51 | ::{ flag=US }:: [Plasticpea](https://osu.ppy.sh/users/27446213) |
-| 52 | ::{ flag=GB }:: [Zoobin4](https://osu.ppy.sh/users/10055204) |
-| 53 | ::{ flag=IL }:: [[-Yuuki-]](https://osu.ppy.sh/users/18782031) |
-| 54 | ::{ flag=US }:: [TPColor](https://osu.ppy.sh/users/19102458) |
-| 55 | ::{ flag=FR }:: [poketoine](https://osu.ppy.sh/users/27254270) |
-| 56 | ::{ flag=GB }:: [-XxbluezaperxX-](https://osu.ppy.sh/users/12264218) |
-| 57 | ::{ flag=TH }:: [AomDCO](https://osu.ppy.sh/users/21072569) |
-| 58 | ::{ flag=CN }:: [Old Pigeon](https://osu.ppy.sh/users/26116770) |
-| 59 | ::{ flag=SE }:: [NeonDrakon](https://osu.ppy.sh/users/6315000) |
-| 60 | ::{ flag=BE }:: [Reilyy](https://osu.ppy.sh/users/6539319) |
-| 61 | ::{ flag=GB }:: [MiniEgg_23](https://osu.ppy.sh/users/25914360) |
-| 62 | ::{ flag=US }:: [Mechafinch](https://osu.ppy.sh/users/17184772) |
-| 63 | ::{ flag=SG }:: [Kings](https://osu.ppy.sh/users/1016926) |
-| 64 | ::{ flag=PL }:: [-Beajek-](https://osu.ppy.sh/users/12696546) |
+| 1 | ::{ flag=KR }:: ::yz1155::{ user=2071008 } |
+| 2 | ::{ flag=TH }:: ::LostCool::{ user=766374 } |
+| 3 | ::{ flag=CA }:: ::UmmmMrMoo::{ user=15314355 } |
+| 4 | ::{ flag=PH }:: ::- Kura -::{ user=11420405 } |
+| 5 | ::{ flag=CN }:: ::Watch01::{ user=13967954 } |
+| 6 | ::{ flag=PH }:: ::Sanni::{ user=3036686 } |
+| 7 | ::{ flag=PH }:: ::arcwinolivirus::{ user=2039089 } |
+| 8 | ::{ flag=CN }:: ::VanWilder::{ user=89545 } |
+| 9 | ::{ flag=CN }:: ::Shenzouz::{ user=29606773 } |
+| 10 | ::{ flag=DE }:: ::TsukiyaWhiskers::{ user=12598261 } |
+| 11 | ::{ flag=EE }:: ::Arcaxio::{ user=16819909 } |
+| 12 | ::{ flag=US }:: ::Bunsen::{ user=24675802 } |
+| 13 | ::{ flag=PL }:: ::bagjettka::{ user=18338179 } |
+| 14 | ::{ flag=US }:: ::Alter-::{ user=4980256 } |
+| 15 | ::{ flag=CN }:: ::Krn_::{ user=12452291 } |
+| 16 | ::{ flag=FR }:: ::MillaMaxwelle::{ user=6264519 } |
+| 17 | ::{ flag=CN }:: ::HxcQ777::{ user=18282863 } |
+| 18 | ::{ flag=CL }:: ::Skalim::{ user=2225008 } |
+| 19 | ::{ flag=US }:: ::mashu::{ user=12028216 } |
+| 20 | ::{ flag=US }:: ::Babypotaterrx3::{ user=18664411 } |
+| 21 | ::{ flag=CL }:: ::Matiias::{ user=3215366 } |
+| 22 | ::{ flag=NL }:: ::Freek::{ user=9630674 } |
+| 23 | ::{ flag=TH }:: ::Natsurio::{ user=17721836 } |
+| 24 | ::{ flag=CN }:: ::AWMRone::{ user=10351684 } |
+| 25 | ::{ flag=TH }:: ::KenZ::{ user=437945 } |
+| 26 | ::{ flag=MX }:: ::- Kopi -::{ user=24140109 } |
+| 27 | ::{ flag=GB }:: ::Lelloq::{ user=8610776 } |
+| 28 | ::{ flag=US }:: ::RhymesWithMash::{ user=18834550 } |
+| 29 | ::{ flag=FR }:: ::jeremkyurem::{ user=13431947 } |
+| 30 | ::{ flag=SG }:: ::sukidayo-::{ user=16870002 } |
+| 31 | ::{ flag=US }:: ::Tsunakko::{ user=18172498 } |
+| 32 | ::{ flag=US }:: ::[TCJ]ScanL::{ user=11762834 } |
+| 33 | ::{ flag=CN }:: ::[Paw]FIood::{ user=6336721 } |
+| 34 | ::{ flag=PH }:: ::[LS]Tenshi::{ user=18520056 } |
+| 35 | ::{ flag=TH }:: ::BossMadWolf::{ user=2772110 } |
+| 36 | ::{ flag=CN }:: ::7581yx::{ user=23070586 } |
+| 37 | ::{ flag=KR }:: ::Raon2007::{ user=25850141 } |
+| 38 | ::{ flag=HK }:: ::zero2snow::{ user=7751516 } |
+| 39 | ::{ flag=TR }:: ::Zmor0133::{ user=6419257 } |
+| 40 | ::{ flag=ID }:: ::Kasen-::{ user=3995789 } |
+| 41 | ::{ flag=BR }:: ::Leototo::{ user=12017594 } |
+| 42 | ::{ flag=CN }:: ::Kuiiiiteeee::{ user=7304075 } |
+| 43 | ::{ flag=TH }:: ::--Pavin--::{ user=12046267 } |
+| 44 | ::{ flag=FR }:: ::Baguette2Pain::{ user=11818585 } |
+| 45 | ::{ flag=MX }:: ::[TK]Martin_22::{ user=9653729 } |
+| 46 | ::{ flag=PE }:: ::-Mandy::{ user=4775146 } |
+| 47 | ::{ flag=CN }:: ::ATTrance::{ user=11047650 } |
+| 48 | ::{ flag=US }:: ::ERA Jungle::{ user=9709652 } |
+| 49 | ::{ flag=TH }:: ::konkawe::{ user=15665805 } |
+| 50 | ::{ flag=CN }:: ::RiceSS::{ user=8271436 } |
+| 51 | ::{ flag=US }:: ::Plasticpea::{ user=27446213 } |
+| 52 | ::{ flag=GB }:: ::Zoobin4::{ user=10055204 } |
+| 53 | ::{ flag=IL }:: ::[-Yuuki-]::{ user=18782031 } |
+| 54 | ::{ flag=US }:: ::TPColor::{ user=19102458 } |
+| 55 | ::{ flag=FR }:: ::poketoine::{ user=27254270 } |
+| 56 | ::{ flag=GB }:: ::-XxbluezaperxX-::{ user=12264218 } |
+| 57 | ::{ flag=TH }:: ::AomDCO::{ user=21072569 } |
+| 58 | ::{ flag=CN }:: ::Old Pigeon::{ user=26116770 } |
+| 59 | ::{ flag=SE }:: ::NeonDrakon::{ user=6315000 } |
+| 60 | ::{ flag=BE }:: ::Reilyy::{ user=6539319 } |
+| 61 | ::{ flag=GB }:: ::MiniEgg_23::{ user=25914360 } |
+| 62 | ::{ flag=US }:: ::Mechafinch::{ user=17184772 } |
+| 63 | ::{ flag=SG }:: ::Kings::{ user=1016926 } |
+| 64 | ::{ flag=PL }:: ::-Beajek-::{ user=12696546 } |
 
 ## Podium
 
@@ -137,9 +137,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=KR }:: [yz1155](https://osu.ppy.sh/users/2071008) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=TH }:: [LostCool](https://osu.ppy.sh/users/766374) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=CN }:: [VanWilder](https://osu.ppy.sh/users/89545) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=KR }:: ::yz1155::{ user=2071008 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=TH }:: ::LostCool::{ user=766374 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=CN }:: ::VanWilder::{ user=89545 } |
 
 ## Mappools
 

@@ -24,9 +24,9 @@ Taiko Korean Beatmap Contest #2는 한국 태고 매핑 커뮤니티 인원들�
 
 | 직책 | 인원 |
 | :-- | :-- |
-| 주최 | ::{ flag=KR }:: [\[Karcher\] 2](https://osu.ppy.sh/users/9892196), ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) |
-| 디자인 | ::{ flag=KR }:: [oL0](https://osu.ppy.sh/users/1134683) |
-| 심사 | ::{ flag=KR }:: [\[Karcher\] 2](https://osu.ppy.sh/users/9892196), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=KR }:: [Ozu](https://osu.ppy.sh/users/980092) |
+| 주최 | ::{ flag=KR }:: ::\[Karcher\] 2::{ user=9892196 }, ::{ flag=KR }:: ::Civil oath::{ user=3216107 } |
+| 디자인 | ::{ flag=KR }:: ::oL0::{ user=1134683 } |
+| 심사 | ::{ flag=KR }:: ::\[Karcher\] 2::{ user=9892196 }, ::{ flag=KR }:: ::Petit::{ user=4637369 }, ::{ flag=KR }:: ::Ozu::{ user=980092 } |
 
 ## 상품
 
@@ -44,9 +44,9 @@ Taiko Korean Beatmap Contest #2는 한국 태고 매핑 커뮤니티 인원들�
 
 | 순위 | 매퍼 |
 | :-: | :-- |
-| ![금관](/wiki/shared/crown-gold.png "1위") | ::{ flag=KR }:: [applerss](https://osu.ppy.sh/users/983349) |
-| ![은관](/wiki/shared/crown-silver.png "2위") | ::{ flag=KR }:: [4\_4](https://osu.ppy.sh/users/1152851) |
-| ![동관](/wiki/shared/crown-bronze.png "3위") | ::{ flag=KR }:: [ddm](https://osu.ppy.sh/users/7910282) |
+| ![금관](/wiki/shared/crown-gold.png "1위") | ::{ flag=KR }:: ::applerss::{ user=983349 } |
+| ![은관](/wiki/shared/crown-silver.png "2위") | ::{ flag=KR }:: ::4\_4::{ user=1152851 } |
+| ![동관](/wiki/shared/crown-bronze.png "3위") | ::{ flag=KR }:: ::ddm::{ user=7910282 } |
 
 ## 규칙
 

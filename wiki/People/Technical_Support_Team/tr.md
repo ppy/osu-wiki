@@ -26,10 +26,10 @@ Eğer bir kimse bahsi geçen alt forumlarda yardıma ihtiyaç duyarsa, ilk olara
 
 | İsim | Ek diller |
 | :-- | :-- |
-| ::{ flag=IT }:: [- Marco -](https://osu.ppy.sh/users/1273955) | İtalyanca |
-| ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  |
-| ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  |
-| ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | Korece, Japonca |
-| ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | Almanca |
-| ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Filipince |
-| ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Lehçe |
+| ::{ flag=IT }:: ::- Marco -::{ user=1273955 } | İtalyanca |
+| ::{ flag=US }:: ::Blushing::{ user=5927823 } |  |
+| ::{ flag=GB }:: ::chromb::{ user=10238680 } |  |
+| ::{ flag=KR }:: ::Civil oath::{ user=3216107 } | Korece, Japonca |
+| ::{ flag=DE }:: ::Lyawi::{ user=5851253 } | Almanca |
+| ::{ flag=PH }:: ::Nathanael::{ user=2295078 } | Filipince |
+| ::{ flag=PL }:: ::spaceman_atlas::{ user=3035836 } | Lehçe |

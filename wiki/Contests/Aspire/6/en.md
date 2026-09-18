@@ -65,58 +65,58 @@ Aspire 6 was run by various members of the [osu! team](/wiki/People/osu!_team) a
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |
-| Designer | ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) |
-| General assistance | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2), ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418), ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) |
-| Replayer | ::{ flag=NO }:: [-GN](https://osu.ppy.sh/users/895581), ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136), ::{ flag=NL }:: [jackylam5](https://osu.ppy.sh/users/1540807), ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718), ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) |
-| Streamer | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) |
-| Audio mixer | ::{ flag=NL }:: [Retiu](https://osu.ppy.sh/users/13475402) |
-| Guest commentator | ::{ flag=US }:: [KoiFishu](https://osu.ppy.sh/users/4539930) |
+| Host | ::{ flag=TN }:: ::Hivie::{ user=14102976 }, ::{ flag=GB }:: ::-Mo-::{ user=2202163 } |
+| Designer | ::{ flag=GB }:: ::Tanza3D::{ user=10379965 } |
+| General assistance | ::{ flag=AU }:: ::peppy::{ user=2 }, ::{ flag=US }:: ::pishifat::{ user=3178418 }, ::{ flag=SE }:: ::Walavouchey::{ user=5773079 } |
+| Replayer | ::{ flag=NO }:: ::-GN::{ user=895581 }, ::{ flag=AT }:: ::Daletto::{ user=7592136 }, ::{ flag=NL }:: ::jackylam5::{ user=1540807 }, ::{ flag=GB }:: ::mangomizer::{ user=1893718 }, ::{ flag=SE }:: ::Walavouchey::{ user=5773079 } |
+| Streamer | ::{ flag=ES }:: ::Trosk-::{ user=3469385 } |
+| Audio mixer | ::{ flag=NL }:: ::Retiu::{ user=13475402 } |
+| Guest commentator | ::{ flag=US }:: ::KoiFishu::{ user=4539930 } |
 
 ## Participants
 
 | Team | Members |
 | :-- | :-- |
-|  | ::{ flag=PT }:: [amongusrtx30080](https://osu.ppy.sh/users/27476898) |
-|  | ::{ flag=US }:: [AdrianLazer](https://osu.ppy.sh/users/10292643) |
-| tma tsod | ::{ flag=CL }:: [TheShadowOfDark](https://osu.ppy.sh/users/5795337), ::{ flag=US }:: [TheMagicAnimals](https://osu.ppy.sh/users/17274052) |
-|  | ::{ flag=NO }:: [Aspheria](https://osu.ppy.sh/users/14781224) |
-|  | ::{ flag=NL }:: [StarLite4](https://osu.ppy.sh/users/39702838) |
-| nil | ::{ flag=SG }:: [RyanAshazy1](https://osu.ppy.sh/users/27581177) |
-|  | ::{ flag=PL }:: [h3oCharles](https://osu.ppy.sh/users/8712289) |
-|  | ::{ flag=TW }:: [Solor](https://osu.ppy.sh/users/25201175) |
-|  | ::{ flag=US }:: [WolfStarArtOSU](https://osu.ppy.sh/users/34821954) |
-|  | ::{ flag=US }:: [The Jorker](https://osu.ppy.sh/users/32908054) |
-|  | ::{ flag=VN }:: [\[-Crazy Boy-\]](https://osu.ppy.sh/users/33849459) |
-|  | ::{ flag=CN }:: [Kieost](https://osu.ppy.sh/users/17823832) |
-|  | ::{ flag=PH }:: [Imajinaree](https://osu.ppy.sh/users/18397685) |
-| dauylpaz | ::{ flag=KZ }:: [tadahitotsu](https://osu.ppy.sh/users/11653544) |
-| Ça casse pas trois pattes à un canard | ::{ flag=BR }:: [Jacques](https://osu.ppy.sh/users/6599241), ::{ flag=FR }:: [SaYa-](https://osu.ppy.sh/users/14628734) |
-| ? | ::{ flag=RU }:: [kuyusu](https://osu.ppy.sh/users/11758667), ::{ flag=NL }:: [Apichu](https://osu.ppy.sh/users/14967853) |
-| Chloris | ::{ flag=VN }:: [LunaUwU](https://osu.ppy.sh/users/39084830) |
-| two guys who like mapping taiko | ::{ flag=AU }:: [Nintendo 64](https://osu.ppy.sh/users/30481748), ::{ flag=CA }:: [EnderBlazegames](https://osu.ppy.sh/users/36292093) |
-| the Northernlion Supercruise | ::{ flag=KR }:: [Akbo](https://osu.ppy.sh/users/7627061) |
-| SV | ::{ flag=AR }:: [APRL03](https://osu.ppy.sh/users/11394892), ::{ flag=AR }:: [el\_matero](https://osu.ppy.sh/users/23417934) |
-|  | ::{ flag=AE }:: [ItzShadowCraft](https://osu.ppy.sh/users/27830521) |
-| Synthesizer | ::{ flag=CN }:: [UTAU](https://osu.ppy.sh/users/13859320) |
-|  | ::{ flag=GB }:: [Pastel Kitten](https://osu.ppy.sh/users/37602544) |
-| Kinflo x Björk Collab | ::{ flag=CA }:: [ThunderBirdo](https://osu.ppy.sh/users/22228239), ::{ flag=GB }:: [- zw\[A 3Q\]-K bg](https://osu.ppy.sh/users/22241162) |
-| kelompok 2 | ::{ flag=ID }:: [Alicia](https://osu.ppy.sh/users/17258072) |
-| DergDergDerg | ::{ flag=HK }:: [DraterTD](https://osu.ppy.sh/users/11671725) |
-|  | ::{ flag=NL }:: [Poochylord](https://osu.ppy.sh/users/26861379) |
-| Chronospatial Disassociators | ::{ flag=US }:: [Tomy](https://osu.ppy.sh/users/14889628), ::{ flag=PL }:: [Tenexxt](https://osu.ppy.sh/users/34064854) |
-| The Jersey Club Sound Bank | ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176), ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) |
-| Marseille Pride | ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817), ::{ flag=FR }:: [Pitsuwa](https://osu.ppy.sh/users/8417565) |
-| No Authors Listed | ::{ flag=DE }:: [Tunnelblick](https://osu.ppy.sh/users/7737096), ::{ flag=US }:: [Utiba](https://osu.ppy.sh/users/11354436) |
-| DDLC-ROM/Puya Love | ::{ flag=RO }:: [Kat\_explodes](https://osu.ppy.sh/users/26376228), ::{ flag=RO }:: [hello\_lol420](https://osu.ppy.sh/users/27609690) |
-| Luminescent Star | ::{ flag=ID }:: [\_MilkTea](https://osu.ppy.sh/users/25019291) |
-|  | ::{ flag=AU }:: [Levesile](https://osu.ppy.sh/users/12054043) |
-|  | ::{ flag=US }:: [Karoo13](https://osu.ppy.sh/users/1882522), ::{ flag=IT }:: [Emotive](https://osu.ppy.sh/users/12381359) |
-| Jumping Turtles | ::{ flag=AU }:: [turt-](https://osu.ppy.sh/users/7630990), ::{ flag=AU }:: [Trainjumper](https://osu.ppy.sh/users/2272587) |
-|  | ::{ flag=TH }:: [PukPow](https://osu.ppy.sh/users/16407679), ::{ flag=TH }:: [Zuika](https://osu.ppy.sh/users/10222009) |
-| T4PULI_BABUL1 | ::{ flag=RU }:: [add222](https://osu.ppy.sh/users/14261013), ::{ flag=RU }:: [\_necroplasma](https://osu.ppy.sh/users/10805852) |
-|  | ::{ flag=US }:: [fowwo](https://osu.ppy.sh/users/4547551) |
-| BORN TO BEAT / WORLD IS A MAP / 音楽 Crash Em All 2026 / I am 2b / 3,215,697,262.574 BPM | ::{ flag=US }:: [-Arko](https://osu.ppy.sh/users/8802914), ::{ flag=US }:: [blixys](https://osu.ppy.sh/users/13015896) |
+|  | ::{ flag=PT }:: ::amongusrtx30080::{ user=27476898 } |
+|  | ::{ flag=US }:: ::AdrianLazer::{ user=10292643 } |
+| tma tsod | ::{ flag=CL }:: ::TheShadowOfDark::{ user=5795337 }, ::{ flag=US }:: ::TheMagicAnimals::{ user=17274052 } |
+|  | ::{ flag=NO }:: ::Aspheria::{ user=14781224 } |
+|  | ::{ flag=NL }:: ::StarLite4::{ user=39702838 } |
+| nil | ::{ flag=SG }:: ::RyanAshazy1::{ user=27581177 } |
+|  | ::{ flag=PL }:: ::h3oCharles::{ user=8712289 } |
+|  | ::{ flag=TW }:: ::Solor::{ user=25201175 } |
+|  | ::{ flag=US }:: ::WolfStarArtOSU::{ user=34821954 } |
+|  | ::{ flag=US }:: ::The Jorker::{ user=32908054 } |
+|  | ::{ flag=VN }:: ::\[-Crazy Boy-\]::{ user=33849459 } |
+|  | ::{ flag=CN }:: ::Kieost::{ user=17823832 } |
+|  | ::{ flag=PH }:: ::Imajinaree::{ user=18397685 } |
+| dauylpaz | ::{ flag=KZ }:: ::tadahitotsu::{ user=11653544 } |
+| Ça casse pas trois pattes à un canard | ::{ flag=BR }:: ::Jacques::{ user=6599241 }, ::{ flag=FR }:: ::SaYa-::{ user=14628734 } |
+| ? | ::{ flag=RU }:: ::kuyusu::{ user=11758667 }, ::{ flag=NL }:: ::Apichu::{ user=14967853 } |
+| Chloris | ::{ flag=VN }:: ::LunaUwU::{ user=39084830 } |
+| two guys who like mapping taiko | ::{ flag=AU }:: ::Nintendo 64::{ user=30481748 }, ::{ flag=CA }:: ::EnderBlazegames::{ user=36292093 } |
+| the Northernlion Supercruise | ::{ flag=KR }:: ::Akbo::{ user=7627061 } |
+| SV | ::{ flag=AR }:: ::APRL03::{ user=11394892 }, ::{ flag=AR }:: ::el\_matero::{ user=23417934 } |
+|  | ::{ flag=AE }:: ::ItzShadowCraft::{ user=27830521 } |
+| Synthesizer | ::{ flag=CN }:: ::UTAU::{ user=13859320 } |
+|  | ::{ flag=GB }:: ::Pastel Kitten::{ user=37602544 } |
+| Kinflo x Björk Collab | ::{ flag=CA }:: ::ThunderBirdo::{ user=22228239 }, ::{ flag=GB }:: ::- zw\[A 3Q\]-K bg::{ user=22241162 } |
+| kelompok 2 | ::{ flag=ID }:: ::Alicia::{ user=17258072 } |
+| DergDergDerg | ::{ flag=HK }:: ::DraterTD::{ user=11671725 } |
+|  | ::{ flag=NL }:: ::Poochylord::{ user=26861379 } |
+| Chronospatial Disassociators | ::{ flag=US }:: ::Tomy::{ user=14889628 }, ::{ flag=PL }:: ::Tenexxt::{ user=34064854 } |
+| The Jersey Club Sound Bank | ::{ flag=GB }:: ::Hydria::{ user=808176 }, ::{ flag=DO }:: ::Antalf::{ user=8793773 } |
+| Marseille Pride | ::{ flag=FR }:: ::Natsuko::{ user=8266817 }, ::{ flag=FR }:: ::Pitsuwa::{ user=8417565 } |
+| No Authors Listed | ::{ flag=DE }:: ::Tunnelblick::{ user=7737096 }, ::{ flag=US }:: ::Utiba::{ user=11354436 } |
+| DDLC-ROM/Puya Love | ::{ flag=RO }:: ::Kat\_explodes::{ user=26376228 }, ::{ flag=RO }:: ::hello\_lol420::{ user=27609690 } |
+| Luminescent Star | ::{ flag=ID }:: ::\_MilkTea::{ user=25019291 } |
+|  | ::{ flag=AU }:: ::Levesile::{ user=12054043 } |
+|  | ::{ flag=US }:: ::Karoo13::{ user=1882522 }, ::{ flag=IT }:: ::Emotive::{ user=12381359 } |
+| Jumping Turtles | ::{ flag=AU }:: ::turt-::{ user=7630990 }, ::{ flag=AU }:: ::Trainjumper::{ user=2272587 } |
+|  | ::{ flag=TH }:: ::PukPow::{ user=16407679 }, ::{ flag=TH }:: ::Zuika::{ user=10222009 } |
+| T4PULI_BABUL1 | ::{ flag=RU }:: ::add222::{ user=14261013 }, ::{ flag=RU }:: ::\_necroplasma::{ user=10805852 } |
+|  | ::{ flag=US }:: ::fowwo::{ user=4547551 } |
+| BORN TO BEAT / WORLD IS A MAP / 音楽 Crash Em All 2026 / I am 2b / 3,215,697,262.574 BPM | ::{ flag=US }:: ::-Arko::{ user=8802914 }, ::{ flag=US }:: ::blixys::{ user=13015896 } |
 
 ## Results
 
@@ -126,89 +126,89 @@ Aspire 6 was run by various members of the [osu! team](/wiki/People/osu!_team) a
 
 | Creator(s) | Entry | Votes |
 | :-- | :-- | --: |
-| [-Arko](https://osu.ppy.sh/users/8802914) & [blixys](https://osu.ppy.sh/users/13015896) | **[Camellia - FM Synthesis Experiment](https://osu.ppy.sh/beatmapsets/2608578#osu/5839931)** | 748 |
-| [Karoo13](https://osu.ppy.sh/users/1882522) & [Emotive](https://osu.ppy.sh/users/12381359) | [WangleLine - Doinkus](https://osu.ppy.sh/beatmapsets/2608566#osu/5839918) | 323 |
-| [add222](https://osu.ppy.sh/users/14261013) & [_necroplasma](https://osu.ppy.sh/users/10805852) | [Frums (unknown "lambda") - 19ZZ](https://osu.ppy.sh/beatmapsets/2608542#osu/5839885) | 307 |
-| [fowwo](https://osu.ppy.sh/users/4547551) | [THE ENTIRE EARTH - conic](https://osu.ppy.sh/beatmapsets/2608562#osu/5839914) | 303 |
-| [TheShadowOfDark](https://osu.ppy.sh/users/5795337) & [TheMagicAnimals](https://osu.ppy.sh/users/17274052) | [Camellia - (The) Red * Room](https://osu.ppy.sh/beatmapsets/2608555#osu/5839905) | 114 |
-| [PukPow](https://osu.ppy.sh/users/16407679) & [Zuika](https://osu.ppy.sh/users/10222009) | [BilliumMoto - HDHR](https://osu.ppy.sh/beatmapsets/2608581#osu/5839941) | 90 |
-| [LunaUwU](https://osu.ppy.sh/users/39084830) | [Mili - world.execute(me);](https://osu.ppy.sh/beatmapsets/2608618#osu/5840004) | 90 |
-| [Akbo](https://osu.ppy.sh/users/7627061) | [Frums - Credits](https://osu.ppy.sh/beatmapsets/2608565#osu/5839917) | 80 |
-| [ThunderBirdo](https://osu.ppy.sh/users/22228239) & [bluirre](https://osu.ppy.sh/users/22241162) | [LeaF - Doppelganger](https://osu.ppy.sh/beatmapsets/2608568#osu/5839920) | 71 |
-| [UTAU](https://osu.ppy.sh/users/13859320) | [LeaF - Aleph-0](https://osu.ppy.sh/beatmapsets/2608557#osu/5839908) | 70 |
-| [amongusrtx30080](https://osu.ppy.sh/users/27476898) | [Frums - Mdrqnxtagon](https://osu.ppy.sh/beatmapsets/2608585#osu/5839947) | 66 |
-| [Imajinaree](https://osu.ppy.sh/users/18397685) | [polysha - Papermoon](https://osu.ppy.sh/beatmapsets/2608592#osu/5839957) | 61 |
-| [Levesile](https://osu.ppy.sh/users/12054043) | [Aquestion - We just wanted to live on the earth](https://osu.ppy.sh/beatmapsets/2608616#osu/5839997) | 50 |
-| [Jacques](https://osu.ppy.sh/users/6599241) & [SaYa-](https://osu.ppy.sh/users/14628734) | [onumi - spider tank](https://osu.ppy.sh/beatmapsets/2608593#osu/5839958) | 35 |
-| [Aspheria](https://osu.ppy.sh/users/14781224) | [Kikuo - Chiri Chiri Juso](https://osu.ppy.sh/beatmapsets/2608561#osu/5839912) | 30 |
-| [_MilkTea](https://osu.ppy.sh/users/25019291) | [LeaF - Calamity Fortune](https://osu.ppy.sh/beatmapsets/2608559#osu/5839910) | 29 |
-| [kuyusu](https://osu.ppy.sh/users/11758667) & [Apichu](https://osu.ppy.sh/users/14967853) | [Kurubukko - Hometown in Ruins](https://osu.ppy.sh/beatmapsets/2608582#osu/5839942) | 19 |
-| [StarLite4](https://osu.ppy.sh/users/39702838) | [Laur - Cosmic Blaster](https://osu.ppy.sh/beatmapsets/2608564#osu/5839916) | 16 |
-| [ItzShadowCraft](https://osu.ppy.sh/users/27830521) | [Dimrain47 - Duality](https://osu.ppy.sh/beatmapsets/2608572#osu/5839925) | 16 |
-| [Kieost](https://osu.ppy.sh/users/17823832) | [rN - opia](https://osu.ppy.sh/beatmapsets/2608588#osu/5839952) | 14 |
-| [turt-](https://osu.ppy.sh/users/7630990) & [trainjumper](https://osu.ppy.sh/users/2272587) | [gladde paling - vleermuis](https://osu.ppy.sh/beatmapsets/2608597#osu/5839964) | 12 |
-| [AdrianLazer](https://osu.ppy.sh/users/10292643) | [Akiri - Symphony Of The Beginning](https://osu.ppy.sh/beatmapsets/2608595#osu/5839960) | 12 |
-| [[-Crazy Boy-]](https://osu.ppy.sh/users/33849459) | [KNOWER - More Than Just Another Try](https://osu.ppy.sh/beatmapsets/2608587#osu/5839949) | 10 |
+| ::-Arko::{ user=8802914 } & ::blixys::{ user=13015896 } | **[Camellia - FM Synthesis Experiment](https://osu.ppy.sh/beatmapsets/2608578#osu/5839931)** | 748 |
+| ::Karoo13::{ user=1882522 } & ::Emotive::{ user=12381359 } | [WangleLine - Doinkus](https://osu.ppy.sh/beatmapsets/2608566#osu/5839918) | 323 |
+| ::add222::{ user=14261013 } & ::_necroplasma::{ user=10805852 } | [Frums (unknown "lambda") - 19ZZ](https://osu.ppy.sh/beatmapsets/2608542#osu/5839885) | 307 |
+| ::fowwo::{ user=4547551 } | [THE ENTIRE EARTH - conic](https://osu.ppy.sh/beatmapsets/2608562#osu/5839914) | 303 |
+| ::TheShadowOfDark::{ user=5795337 } & ::TheMagicAnimals::{ user=17274052 } | [Camellia - (The) Red * Room](https://osu.ppy.sh/beatmapsets/2608555#osu/5839905) | 114 |
+| ::PukPow::{ user=16407679 } & ::Zuika::{ user=10222009 } | [BilliumMoto - HDHR](https://osu.ppy.sh/beatmapsets/2608581#osu/5839941) | 90 |
+| ::LunaUwU::{ user=39084830 } | [Mili - world.execute(me);](https://osu.ppy.sh/beatmapsets/2608618#osu/5840004) | 90 |
+| ::Akbo::{ user=7627061 } | [Frums - Credits](https://osu.ppy.sh/beatmapsets/2608565#osu/5839917) | 80 |
+| ::ThunderBirdo::{ user=22228239 } & ::bluirre::{ user=22241162 } | [LeaF - Doppelganger](https://osu.ppy.sh/beatmapsets/2608568#osu/5839920) | 71 |
+| ::UTAU::{ user=13859320 } | [LeaF - Aleph-0](https://osu.ppy.sh/beatmapsets/2608557#osu/5839908) | 70 |
+| ::amongusrtx30080::{ user=27476898 } | [Frums - Mdrqnxtagon](https://osu.ppy.sh/beatmapsets/2608585#osu/5839947) | 66 |
+| ::Imajinaree::{ user=18397685 } | [polysha - Papermoon](https://osu.ppy.sh/beatmapsets/2608592#osu/5839957) | 61 |
+| ::Levesile::{ user=12054043 } | [Aquestion - We just wanted to live on the earth](https://osu.ppy.sh/beatmapsets/2608616#osu/5839997) | 50 |
+| ::Jacques::{ user=6599241 } & ::SaYa-::{ user=14628734 } | [onumi - spider tank](https://osu.ppy.sh/beatmapsets/2608593#osu/5839958) | 35 |
+| ::Aspheria::{ user=14781224 } | [Kikuo - Chiri Chiri Juso](https://osu.ppy.sh/beatmapsets/2608561#osu/5839912) | 30 |
+| ::_MilkTea::{ user=25019291 } | [LeaF - Calamity Fortune](https://osu.ppy.sh/beatmapsets/2608559#osu/5839910) | 29 |
+| ::kuyusu::{ user=11758667 } & ::Apichu::{ user=14967853 } | [Kurubukko - Hometown in Ruins](https://osu.ppy.sh/beatmapsets/2608582#osu/5839942) | 19 |
+| ::StarLite4::{ user=39702838 } | [Laur - Cosmic Blaster](https://osu.ppy.sh/beatmapsets/2608564#osu/5839916) | 16 |
+| ::ItzShadowCraft::{ user=27830521 } | [Dimrain47 - Duality](https://osu.ppy.sh/beatmapsets/2608572#osu/5839925) | 16 |
+| ::Kieost::{ user=17823832 } | [rN - opia](https://osu.ppy.sh/beatmapsets/2608588#osu/5839952) | 14 |
+| ::turt-::{ user=7630990 } & ::trainjumper::{ user=2272587 } | [gladde paling - vleermuis](https://osu.ppy.sh/beatmapsets/2608597#osu/5839964) | 12 |
+| ::AdrianLazer::{ user=10292643 } | [Akiri - Symphony Of The Beginning](https://osu.ppy.sh/beatmapsets/2608595#osu/5839960) | 12 |
+| ::[-Crazy Boy-]::{ user=33849459 } | [KNOWER - More Than Just Another Try](https://osu.ppy.sh/beatmapsets/2608587#osu/5839949) | 10 |
 
 #### Innovative Gameplay
 
 | Creator(s) | Entry | Votes |
 | :-- | :-- | --: |
-| [-Arko](https://osu.ppy.sh/users/8802914) & [blixys](https://osu.ppy.sh/users/13015896) | **[Camellia - FM Synthesis Experiment](https://osu.ppy.sh/beatmapsets/2608578#osu/5839931)** | 354 |
-| [Karoo13](https://osu.ppy.sh/users/1882522) & [Emotive](https://osu.ppy.sh/users/12381359) | [WangleLine - Doinkus](https://osu.ppy.sh/beatmapsets/2608566#osu/5839918) | 235 |
-| [PukPow](https://osu.ppy.sh/users/16407679) & [Zuika](https://osu.ppy.sh/users/10222009) | [BilliumMoto - HDHR](https://osu.ppy.sh/beatmapsets/2608581#osu/5839941) | 218 |
-| [fowwo](https://osu.ppy.sh/users/4547551) | [THE ENTIRE EARTH - conic](https://osu.ppy.sh/beatmapsets/2608562#osu/5839914) | 213 |
-| [kuyusu](https://osu.ppy.sh/users/11758667) & [Apichu](https://osu.ppy.sh/users/14967853) | [Kurubukko - Hometown in Ruins](https://osu.ppy.sh/beatmapsets/2608582#osu/5839942) | 203 |
-| [TheShadowOfDark](https://osu.ppy.sh/users/5795337) & [TheMagicAnimals](https://osu.ppy.sh/users/17274052) | [Camellia - (The) Red * Room](https://osu.ppy.sh/beatmapsets/2608555#osu/5839905) | 124 |
-| [add222](https://osu.ppy.sh/users/14261013) & [_necroplasma](https://osu.ppy.sh/users/10805852) | [Frums (unknown "lambda") - 19ZZ](https://osu.ppy.sh/beatmapsets/2608542#osu/5839885) | 124 |
-| [Akbo](https://osu.ppy.sh/users/7627061) | [Frums - Credits](https://osu.ppy.sh/beatmapsets/2608565#osu/5839917) | 98 |
-| [ItzShadowCraft](https://osu.ppy.sh/users/27830521) | [Dimrain47 - Duality](https://osu.ppy.sh/beatmapsets/2608572#osu/5839925) | 72 |
-| [LunaUwU](https://osu.ppy.sh/users/39084830) | [Mili - world.execute(me);](https://osu.ppy.sh/beatmapsets/2608618#osu/5840004) | 68 |
-| [ThunderBirdo](https://osu.ppy.sh/users/22228239) & [bluirre](https://osu.ppy.sh/users/22241162) | [LeaF - Doppelganger](https://osu.ppy.sh/beatmapsets/2608568#osu/5839920) | 63 |
-| [Jacques](https://osu.ppy.sh/users/6599241) & [SaYa-](https://osu.ppy.sh/users/14628734) | [onumi - spider tank](https://osu.ppy.sh/beatmapsets/2608593#osu/5839958) | 56 |
-| [Imajinaree](https://osu.ppy.sh/users/18397685) | [polysha - Papermoon](https://osu.ppy.sh/beatmapsets/2608592#osu/5839957) | 53 |
-| [Aspheria](https://osu.ppy.sh/users/14781224) | [Kikuo - Chiri Chiri Juso](https://osu.ppy.sh/beatmapsets/2608561#osu/5839912) | 50 |
-| [StarLite4](https://osu.ppy.sh/users/39702838) | [Laur - Cosmic Blaster](https://osu.ppy.sh/beatmapsets/2608564#osu/5839916) | 43 |
-| [UTAU](https://osu.ppy.sh/users/13859320) | [LeaF - Aleph-0](https://osu.ppy.sh/beatmapsets/2608557#osu/5839908) | 25 |
-| [amongusrtx30080](https://osu.ppy.sh/users/27476898) | [Frums - Mdrqnxtagon](https://osu.ppy.sh/beatmapsets/2608585#osu/5839947) | 24 |
-| [Levesile](https://osu.ppy.sh/users/12054043) | [Aquestion - We just wanted to live on the earth](https://osu.ppy.sh/beatmapsets/2608616#osu/5839997) | 13 |
-| [_MilkTea](https://osu.ppy.sh/users/25019291) | [LeaF - Calamity Fortune](https://osu.ppy.sh/beatmapsets/2608559#osu/5839910) | 12 |
-| [[-Crazy Boy-]](https://osu.ppy.sh/users/33849459) | [KNOWER - More Than Just Another Try](https://osu.ppy.sh/beatmapsets/2608587#osu/5839949) | 9 |
-| [AdrianLazer](https://osu.ppy.sh/users/10292643) | [Akiri - Symphony Of The Beginning](https://osu.ppy.sh/beatmapsets/2608595#osu/5839960) | 8 |
-| [Kieost](https://osu.ppy.sh/users/17823832) | [rN - opia](https://osu.ppy.sh/beatmapsets/2608588#osu/5839952) | 8 |
-| [turt-](https://osu.ppy.sh/users/7630990) & [trainjumper](https://osu.ppy.sh/users/2272587) | [gladde paling - vleermuis](https://osu.ppy.sh/beatmapsets/2608597#osu/5839964) | 5 |
+| ::-Arko::{ user=8802914 } & ::blixys::{ user=13015896 } | **[Camellia - FM Synthesis Experiment](https://osu.ppy.sh/beatmapsets/2608578#osu/5839931)** | 354 |
+| ::Karoo13::{ user=1882522 } & ::Emotive::{ user=12381359 } | [WangleLine - Doinkus](https://osu.ppy.sh/beatmapsets/2608566#osu/5839918) | 235 |
+| ::PukPow::{ user=16407679 } & ::Zuika::{ user=10222009 } | [BilliumMoto - HDHR](https://osu.ppy.sh/beatmapsets/2608581#osu/5839941) | 218 |
+| ::fowwo::{ user=4547551 } | [THE ENTIRE EARTH - conic](https://osu.ppy.sh/beatmapsets/2608562#osu/5839914) | 213 |
+| ::kuyusu::{ user=11758667 } & ::Apichu::{ user=14967853 } | [Kurubukko - Hometown in Ruins](https://osu.ppy.sh/beatmapsets/2608582#osu/5839942) | 203 |
+| ::TheShadowOfDark::{ user=5795337 } & ::TheMagicAnimals::{ user=17274052 } | [Camellia - (The) Red * Room](https://osu.ppy.sh/beatmapsets/2608555#osu/5839905) | 124 |
+| ::add222::{ user=14261013 } & ::_necroplasma::{ user=10805852 } | [Frums (unknown "lambda") - 19ZZ](https://osu.ppy.sh/beatmapsets/2608542#osu/5839885) | 124 |
+| ::Akbo::{ user=7627061 } | [Frums - Credits](https://osu.ppy.sh/beatmapsets/2608565#osu/5839917) | 98 |
+| ::ItzShadowCraft::{ user=27830521 } | [Dimrain47 - Duality](https://osu.ppy.sh/beatmapsets/2608572#osu/5839925) | 72 |
+| ::LunaUwU::{ user=39084830 } | [Mili - world.execute(me);](https://osu.ppy.sh/beatmapsets/2608618#osu/5840004) | 68 |
+| ::ThunderBirdo::{ user=22228239 } & ::bluirre::{ user=22241162 } | [LeaF - Doppelganger](https://osu.ppy.sh/beatmapsets/2608568#osu/5839920) | 63 |
+| ::Jacques::{ user=6599241 } & ::SaYa-::{ user=14628734 } | [onumi - spider tank](https://osu.ppy.sh/beatmapsets/2608593#osu/5839958) | 56 |
+| ::Imajinaree::{ user=18397685 } | [polysha - Papermoon](https://osu.ppy.sh/beatmapsets/2608592#osu/5839957) | 53 |
+| ::Aspheria::{ user=14781224 } | [Kikuo - Chiri Chiri Juso](https://osu.ppy.sh/beatmapsets/2608561#osu/5839912) | 50 |
+| ::StarLite4::{ user=39702838 } | [Laur - Cosmic Blaster](https://osu.ppy.sh/beatmapsets/2608564#osu/5839916) | 43 |
+| ::UTAU::{ user=13859320 } | [LeaF - Aleph-0](https://osu.ppy.sh/beatmapsets/2608557#osu/5839908) | 25 |
+| ::amongusrtx30080::{ user=27476898 } | [Frums - Mdrqnxtagon](https://osu.ppy.sh/beatmapsets/2608585#osu/5839947) | 24 |
+| ::Levesile::{ user=12054043 } | [Aquestion - We just wanted to live on the earth](https://osu.ppy.sh/beatmapsets/2608616#osu/5839997) | 13 |
+| ::_MilkTea::{ user=25019291 } | [LeaF - Calamity Fortune](https://osu.ppy.sh/beatmapsets/2608559#osu/5839910) | 12 |
+| ::[-Crazy Boy-]::{ user=33849459 } | [KNOWER - More Than Just Another Try](https://osu.ppy.sh/beatmapsets/2608587#osu/5839949) | 9 |
+| ::AdrianLazer::{ user=10292643 } | [Akiri - Symphony Of The Beginning](https://osu.ppy.sh/beatmapsets/2608595#osu/5839960) | 8 |
+| ::Kieost::{ user=17823832 } | [rN - opia](https://osu.ppy.sh/beatmapsets/2608588#osu/5839952) | 8 |
+| ::turt-::{ user=7630990 } & ::trainjumper::{ user=2272587 } | [gladde paling - vleermuis](https://osu.ppy.sh/beatmapsets/2608597#osu/5839964) | 5 |
 
 ### osu!taiko
 
 | Creator(s) | Entry | Votes |
 | :-- | :-- | --: |
-| [Solor](https://osu.ppy.sh/users/25201175) | **[Kikuo - Gakkou o Yasunda Hi no Koto](https://osu.ppy.sh/beatmapsets/2608406#taiko/5839532)** | 110 |
-| [The Jorker](https://osu.ppy.sh/users/32908054) | [Akiri - Break For Everest](https://osu.ppy.sh/beatmapsets/2608396#taiko/5839495) | 61 |
-| [tadahitotsu](https://osu.ppy.sh/users/11653544) | [Toromaru - instant emotion](https://osu.ppy.sh/beatmapsets/2608407#taiko/5839533) | 57 |
-| [h3oCharles](https://osu.ppy.sh/users/8712289) | [Camellia - Fly Wit Me](https://osu.ppy.sh/beatmapsets/2608398#taiko/5839509) | 10 |
-| [Nintendo 64](https://osu.ppy.sh/users/30481748) & [EnderBlazegames](https://osu.ppy.sh/users/36292093) | [Yooh - RPG](https://osu.ppy.sh/beatmapsets/2608412#taiko/5839552) | 9 |
+| ::Solor::{ user=25201175 } | **[Kikuo - Gakkou o Yasunda Hi no Koto](https://osu.ppy.sh/beatmapsets/2608406#taiko/5839532)** | 110 |
+| ::The Jorker::{ user=32908054 } | [Akiri - Break For Everest](https://osu.ppy.sh/beatmapsets/2608396#taiko/5839495) | 61 |
+| ::tadahitotsu::{ user=11653544 } | [Toromaru - instant emotion](https://osu.ppy.sh/beatmapsets/2608407#taiko/5839533) | 57 |
+| ::h3oCharles::{ user=8712289 } | [Camellia - Fly Wit Me](https://osu.ppy.sh/beatmapsets/2608398#taiko/5839509) | 10 |
+| ::Nintendo 64::{ user=30481748 } & ::EnderBlazegames::{ user=36292093 } | [Yooh - RPG](https://osu.ppy.sh/beatmapsets/2608412#taiko/5839552) | 9 |
 
 ### osu!catch
 
 | Creator(s) | Entry | Votes |
 | :-- | :-- | --: |
-| [Natsuko](https://osu.ppy.sh/users/8266817) & [Pitsuwa](https://osu.ppy.sh/users/8417565) | **[Aiobahn feat. KOTOKO - Internet Yamero](https://osu.ppy.sh/beatmapsets/2608394#fruits/5839492)** | 105 |
-| [Tomy](https://osu.ppy.sh/users/14889628) & [Tenexxt](https://osu.ppy.sh/users/34064854) | [antiPLUR - Clockwork Spooks](https://osu.ppy.sh/beatmapsets/2608391#fruits/5839488) | 90 |
-| [WolfStarArtOSU](https://osu.ppy.sh/users/34821954) | [Frums - Credits](https://osu.ppy.sh/beatmapsets/2608393#fruits/5839490) | 31 |
+| ::Natsuko::{ user=8266817 } & ::Pitsuwa::{ user=8417565 } | **[Aiobahn feat. KOTOKO - Internet Yamero](https://osu.ppy.sh/beatmapsets/2608394#fruits/5839492)** | 105 |
+| ::Tomy::{ user=14889628 } & ::Tenexxt::{ user=34064854 } | [antiPLUR - Clockwork Spooks](https://osu.ppy.sh/beatmapsets/2608391#fruits/5839488) | 90 |
+| ::WolfStarArtOSU::{ user=34821954 } | [Frums - Credits](https://osu.ppy.sh/beatmapsets/2608393#fruits/5839490) | 31 |
 
 ### osu!mania
 
 | Creator(s) | Entry | Votes |
 | :-- | :-- | --: |
-| [Tunnelblick](https://osu.ppy.sh/users/7737096) & [Utiba](https://osu.ppy.sh/users/11354436) | **[Kobaryo feat. HiTNEX-X - SUPER MEMORIES](https://osu.ppy.sh/beatmapsets/2607785#mania/5837319)** | **255** |
-| [DraterTD](https://osu.ppy.sh/users/11671725) | [BilliumMoto - Amethyst Aurora](https://osu.ppy.sh/beatmapsets/2607762#mania/5837268) | 217 |
-| [Hydria](https://osu.ppy.sh/users/808176) & [Antalf](https://osu.ppy.sh/users/8793773) | [TWC Sound Team "Strike Back Squad" - BUZZ CUTZ](https://osu.ppy.sh/beatmapsets/2607773#mania/5837297) | 98 |
-| [Poochylord](https://osu.ppy.sh/users/26861379) | [Camellia - Labyrinth in Kowloon: Walled World](https://osu.ppy.sh/beatmapsets/2607781#mania/5837308) | 39 |
-| [Alicia](https://osu.ppy.sh/users/17258072) | [Camellia - BAD ACCESS (FROM A MOE MAID)](https://osu.ppy.sh/beatmapsets/2607766#mania/5837286) | 35 |
-| [APRL03](https://osu.ppy.sh/users/11394892) & [el_matero](https://osu.ppy.sh/users/23417934) | [Camellia - KillerToy](https://osu.ppy.sh/beatmapsets/2607778#mania/5837304) | 27 |
-| [RyanAshazy1](https://osu.ppy.sh/users/27581177) | [Symholic feat. Rina Komatsu - Veil of Ash](https://osu.ppy.sh/beatmapsets/2608389#mania/5839486) | 17 |
-| [Pastel Kitten](https://osu.ppy.sh/users/37602544) | [Camellia - illegal trap](https://osu.ppy.sh/beatmapsets/2607775#mania/5837299) | 17 |
-| [Kat_explodes](https://osu.ppy.sh/users/26376228) & [hello_lol420](https://osu.ppy.sh/users/27609690) | [Akiri - ATOMIC RAILGUN](https://osu.ppy.sh/beatmapsets/2607765#mania/5837285) | 13 |
+| ::Tunnelblick::{ user=7737096 } & ::Utiba::{ user=11354436 } | **[Kobaryo feat. HiTNEX-X - SUPER MEMORIES](https://osu.ppy.sh/beatmapsets/2607785#mania/5837319)** | **255** |
+| ::DraterTD::{ user=11671725 } | [BilliumMoto - Amethyst Aurora](https://osu.ppy.sh/beatmapsets/2607762#mania/5837268) | 217 |
+| ::Hydria::{ user=808176 } & ::Antalf::{ user=8793773 } | [TWC Sound Team "Strike Back Squad" - BUZZ CUTZ](https://osu.ppy.sh/beatmapsets/2607773#mania/5837297) | 98 |
+| ::Poochylord::{ user=26861379 } | [Camellia - Labyrinth in Kowloon: Walled World](https://osu.ppy.sh/beatmapsets/2607781#mania/5837308) | 39 |
+| ::Alicia::{ user=17258072 } | [Camellia - BAD ACCESS (FROM A MOE MAID)](https://osu.ppy.sh/beatmapsets/2607766#mania/5837286) | 35 |
+| ::APRL03::{ user=11394892 } & ::el_matero::{ user=23417934 } | [Camellia - KillerToy](https://osu.ppy.sh/beatmapsets/2607778#mania/5837304) | 27 |
+| ::RyanAshazy1::{ user=27581177 } | [Symholic feat. Rina Komatsu - Veil of Ash](https://osu.ppy.sh/beatmapsets/2608389#mania/5839486) | 17 |
+| ::Pastel Kitten::{ user=37602544 } | [Camellia - illegal trap](https://osu.ppy.sh/beatmapsets/2607775#mania/5837299) | 17 |
+| ::Kat_explodes::{ user=26376228 } & ::hello_lol420::{ user=27609690 } | [Akiri - ATOMIC RAILGUN](https://osu.ppy.sh/beatmapsets/2607765#mania/5837285) | 13 |
 
 ## Format
 
@@ -269,7 +269,7 @@ After determining categories, [contest listing pages](https://osu.ppy.sh/communi
 
 The osu! game mode will feature the Visual Spectacle and Innovative Gameplay categories, with 3 votes available per category. osu!taiko, osu!catch, and osu!mania will feature a combined Aspire category, with 1 vote available for osu!taiko and osu!catch, and 2 votes available for osu!mania.
 
-Entries will be anonymised and uploaded to the [osu!team account](https://osu.ppy.sh/users/4341397) for voting.
+Entries will be anonymised and uploaded to the ::osu!team account::{ user=4341397 } for voting.
 
 After voting closes and results are announced, the ownership of all entries will be transferred to one of the entrants — contestants will be contacted to ask who will be the main set owner.
 
@@ -279,7 +279,7 @@ Votes from mappers will also be tallied up — anyone who has a Ranked mapset or
 
 For any questions or inquiries, contact [aspire@ppy.sh](mailto:aspire@ppy.sh).
 
-If your inquiry is urgent and you aren't getting a timely response, please contact [Hivie](https://osu.ppy.sh/users/14102976) or [-Mo-](https://osu.ppy.sh/users/2202163) directly.
+If your inquiry is urgent and you aren't getting a timely response, please contact ::Hivie::{ user=14102976 } or ::-Mo-::{ user=2202163 } directly.
 
 ## Rules
 

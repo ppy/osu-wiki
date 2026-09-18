@@ -8,7 +8,7 @@ tags:
 
 ![Finnish Duo Cup 2025 logo](img/banner.png)
 
-The **Finnish Duo Cup 2025** (**FDC2025**) was a 2v2 double-elimination osu! tournament hosted by ::{ flag=FI }:: [Aetherian](https://osu.ppy.sh/users/6263040). The tournament required at least one of the players in each team to be from ::{ flag=FI }:: Finland or ::{ flag=AX }:: Åland. It was the third instalment of the Finnish Duo Cup.
+The **Finnish Duo Cup 2025** (**FDC2025**) was a 2v2 double-elimination osu! tournament hosted by ::{ flag=FI }:: ::Aetherian::{ user=6263040 }. The tournament required at least one of the players in each team to be from ::{ flag=FI }:: Finland or ::{ flag=AX }:: Åland. It was the third instalment of the Finnish Duo Cup.
 
 ## Tournament schedule
 
@@ -39,14 +39,14 @@ The Finnish Duo Cup 2025 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=FI }:: [Aetherian](https://osu.ppy.sh/users/6263040) |
-| Mappool selector | ::{ flag=FI }:: [Aetherian](https://osu.ppy.sh/users/6263040), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264) |
-| Mapper | ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264) |
-| Mappool playtester | ::{ flag=FI }:: [yimi](https://osu.ppy.sh/users/12047944), ::{ flag=SE }:: [scylla](https://osu.ppy.sh/users/9405745), ::{ flag=US }:: [JoshuaGC](https://osu.ppy.sh/users/17636394), ::{ flag=DE }:: [Ezius](https://osu.ppy.sh/users/1861823), ::{ flag=FI }:: [nikulix](https://osu.ppy.sh/users/16502415), ::{ flag=DE }:: [KSN](https://osu.ppy.sh/users/5442251) |
-| Streamer | ::{ flag=FI }:: [Aetherian](https://osu.ppy.sh/users/6263040), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=RU }:: [RobotSkin\_](https://osu.ppy.sh/users/13820038) |
-| Commentator | ::{ flag=FI }:: [Amasetic](https://osu.ppy.sh/users/11375251), ::{ flag=FI }:: [Nev-](https://osu.ppy.sh/users/11836334), ::{ flag=FI }:: [Roba](https://osu.ppy.sh/users/5210561), ::{ flag=FI }:: [house](https://osu.ppy.sh/users/15242810), ::{ flag=FI }:: [Marjus](https://osu.ppy.sh/users/10463344), ::{ flag=FI }:: [Mike Tyson](https://osu.ppy.sh/users/14764185), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) |
-| Designer | ::{ flag=FI }:: [Aetherian](https://osu.ppy.sh/users/6263040), ::{ flag=BG }:: [Lumeiii](https://osu.ppy.sh/users/24590750) |
-| Referee | ::{ flag=FI }:: [Aetherian](https://osu.ppy.sh/users/6263040), ::{ flag=CL }:: [Isita](https://osu.ppy.sh/users/13973026), ::{ flag=FI }:: [AnjoK](https://osu.ppy.sh/users/9220667), ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731), ::{ flag=DE }:: [Beuto](https://osu.ppy.sh/users/15115857), ::{ flag=RU }:: [RobotSkin\_](https://osu.ppy.sh/users/13820038), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=FI }:: [nikulix](https://osu.ppy.sh/users/16502415) |
+| Host | ::{ flag=FI }:: ::Aetherian::{ user=6263040 } |
+| Mappool selector | ::{ flag=FI }:: ::Aetherian::{ user=6263040 }, ::{ flag=NL }:: ::nik::{ user=10077264 } |
+| Mapper | ::{ flag=NL }:: ::nik::{ user=10077264 } |
+| Mappool playtester | ::{ flag=FI }:: ::yimi::{ user=12047944 }, ::{ flag=SE }:: ::scylla::{ user=9405745 }, ::{ flag=US }:: ::JoshuaGC::{ user=17636394 }, ::{ flag=DE }:: ::Ezius::{ user=1861823 }, ::{ flag=FI }:: ::nikulix::{ user=16502415 }, ::{ flag=DE }:: ::KSN::{ user=5442251 } |
+| Streamer | ::{ flag=FI }:: ::Aetherian::{ user=6263040 }, ::{ flag=FI }:: ::shdewz::{ user=10000899 }, ::{ flag=RU }:: ::RobotSkin\_::{ user=13820038 } |
+| Commentator | ::{ flag=FI }:: ::Amasetic::{ user=11375251 }, ::{ flag=FI }:: ::Nev-::{ user=11836334 }, ::{ flag=FI }:: ::Roba::{ user=5210561 }, ::{ flag=FI }:: ::house::{ user=15242810 }, ::{ flag=FI }:: ::Marjus::{ user=10463344 }, ::{ flag=FI }:: ::Mike Tyson::{ user=14764185 }, ::{ flag=ID }:: ::BlankTap::{ user=10137131 } |
+| Designer | ::{ flag=FI }:: ::Aetherian::{ user=6263040 }, ::{ flag=BG }:: ::Lumeiii::{ user=24590750 } |
+| Referee | ::{ flag=FI }:: ::Aetherian::{ user=6263040 }, ::{ flag=CL }:: ::Isita::{ user=13973026 }, ::{ flag=FI }:: ::AnjoK::{ user=9220667 }, ::{ flag=FI }:: ::Laurakko::{ user=7253731 }, ::{ flag=DE }:: ::Beuto::{ user=15115857 }, ::{ flag=RU }:: ::RobotSkin\_::{ user=13820038 }, ::{ flag=DE }:: ::TheHunter1::{ user=6496016 }, ::{ flag=FI }:: ::nikulix::{ user=16502415 } |
 
 ## Links
 
@@ -60,33 +60,33 @@ The Finnish Duo Cup 2025 was run by various community members.
 
 | Team | Members |
 | :-: | :-- |
-| oddloop | ::{ flag=FI }:: **[Kalanluu](https://osu.ppy.sh/users/2035254)**, ::{ flag=PL }:: [MALIZEWSKI](https://osu.ppy.sh/users/12408961) |
-| carrot fields | ::{ flag=FI }:: **[Amasetic](https://osu.ppy.sh/users/11375251)**, ::{ flag=RU }:: [steisha](https://osu.ppy.sh/users/13951894) |
-| bunny party | ::{ flag=FI }:: **[Eevert](https://osu.ppy.sh/users/12080544)**, ::{ flag=KR }:: [Amamya Kokoro](https://osu.ppy.sh/users/2511839) |
-| terence | ::{ flag=FI }:: **[house](https://osu.ppy.sh/users/15242810)**, ::{ flag=NO }:: [NINERIK](https://osu.ppy.sh/users/10549880) |
-| skibidi vessa | ::{ flag=PL }:: **[kiir0chii](https://osu.ppy.sh/users/9322480)**, ::{ flag=FI }:: [AllyrD](https://osu.ppy.sh/users/9561644) |
-| Melon Boys | ::{ flag=FI }:: **[Isak-](https://osu.ppy.sh/users/8702650)**, ::{ flag=DK }:: [Sobu-](https://osu.ppy.sh/users/13872272) |
-| Gorillamode | ::{ flag=FI }:: **[Marjus](https://osu.ppy.sh/users/10463344)**, ::{ flag=PH }:: [zonelouise](https://osu.ppy.sh/users/1492995) |
-| mä rakastan sua | ::{ flag=FI }:: **[OhLivi](https://osu.ppy.sh/users/10762467)**, ::{ flag=SA }:: [3BDOOO](https://osu.ppy.sh/users/22461441) |
-| might miss a match | ::{ flag=FI }:: **[Tabletti](https://osu.ppy.sh/users/9523661)**, ::{ flag=RO }:: [origin\_](https://osu.ppy.sh/users/15095811) |
-| Karjalanpiirakka | ::{ flag=FI }:: **[savilju](https://osu.ppy.sh/users/8059468)**, ::{ flag=FI }:: [apisedo](https://osu.ppy.sh/users/11048151) |
-| ballers will ball | ::{ flag=FI }:: **[shdewz](https://osu.ppy.sh/users/10000899)**, ::{ flag=US }:: [LightsOut](https://osu.ppy.sh/users/8581210) |
-| Meow & Myouow :3 | ::{ flag=FI }:: **[juujep](https://osu.ppy.sh/users/12031584)**, ::{ flag=GB }:: [HAUNTE](https://osu.ppy.sh/users/7333471) |
-| NATION | ::{ flag=FI }:: **[Nev-](https://osu.ppy.sh/users/11836334)**, ::{ flag=FI }:: [nemq](https://osu.ppy.sh/users/11644972) |
-| Galaxy Destroyers | ::{ flag=FI }:: **[Mike Tyson](https://osu.ppy.sh/users/14764185)**, ::{ flag=SG }:: [qstronaut](https://osu.ppy.sh/users/10958852) |
-| Suklaapallit | ::{ flag=RU }:: **[Endura](https://osu.ppy.sh/users/7774197)**, ::{ flag=FI }:: [Juska](https://osu.ppy.sh/users/12931502) |
-| São Paulo | ::{ flag=BR }:: **[Kyulke](https://osu.ppy.sh/users/12620242)**, ::{ flag=FI }:: [Mayuri](https://osu.ppy.sh/users/18688473) |
-| NO CLUE! | ::{ flag=FI }:: **[mind blowing](https://osu.ppy.sh/users/22396092)**, ::{ flag=US }:: [EthantrixV2](https://osu.ppy.sh/users/10634348) |
-| Airline food | ::{ flag=FI }:: **[Roba](https://osu.ppy.sh/users/5210561)**, ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) |
-| happy new year | ::{ flag=FI }:: **[-cyber](https://osu.ppy.sh/users/20132305)**, ::{ flag=AU }:: [5ixty](https://osu.ppy.sh/users/18321104) |
-| 4444 | ::{ flag=FI }:: **[tkilele](https://osu.ppy.sh/users/9114796)**, ::{ flag=PL }:: [227](https://osu.ppy.sh/users/3741162) |
-| bouquet | ::{ flag=FI }:: **[Aconite](https://osu.ppy.sh/users/15242660)**, ::{ flag=FI }:: [Shylily](https://osu.ppy.sh/users/20770163) |
-| Anttola honor | ::{ flag=FI }:: **[makkara](https://osu.ppy.sh/users/19563871)**, ::{ flag=FI }:: [Naapuri](https://osu.ppy.sh/users/11706246) |
-| drillaz | ::{ flag=FI }:: **[Wokki](https://osu.ppy.sh/users/15532703)**, ::{ flag=PL }:: [HopeRaven](https://osu.ppy.sh/users/8158905) |
-| Schizo rizzzlers | ::{ flag=FI }:: **[NoTablet](https://osu.ppy.sh/users/10967148)**, ::{ flag=FI }:: [beea66](https://osu.ppy.sh/users/10708428) |
-| No title | ::{ flag=FI }:: **[sph3re](https://osu.ppy.sh/users/21073465)**, ::{ flag=PL }:: [mouseANDtablet](https://osu.ppy.sh/users/22922042) |
-| Mandelbrot set | ::{ flag=FI }:: **[Jokupoika24](https://osu.ppy.sh/users/17782643)**, ::{ flag=FI }:: [System Sun](https://osu.ppy.sh/users/3163106) |
-| Lil bros | ::{ flag=FI }:: **[ImTK](https://osu.ppy.sh/users/11506206)**, ::{ flag=FI }:: [OG_PannuLappu](https://osu.ppy.sh/users/7295343) |
+| oddloop | ::{ flag=FI }:: **::Kalanluu::{ user=2035254 }**, ::{ flag=PL }:: ::MALIZEWSKI::{ user=12408961 } |
+| carrot fields | ::{ flag=FI }:: **::Amasetic::{ user=11375251 }**, ::{ flag=RU }:: ::steisha::{ user=13951894 } |
+| bunny party | ::{ flag=FI }:: **::Eevert::{ user=12080544 }**, ::{ flag=KR }:: ::Amamya Kokoro::{ user=2511839 } |
+| terence | ::{ flag=FI }:: **::house::{ user=15242810 }**, ::{ flag=NO }:: ::NINERIK::{ user=10549880 } |
+| skibidi vessa | ::{ flag=PL }:: **::kiir0chii::{ user=9322480 }**, ::{ flag=FI }:: ::AllyrD::{ user=9561644 } |
+| Melon Boys | ::{ flag=FI }:: **::Isak-::{ user=8702650 }**, ::{ flag=DK }:: ::Sobu-::{ user=13872272 } |
+| Gorillamode | ::{ flag=FI }:: **::Marjus::{ user=10463344 }**, ::{ flag=PH }:: ::zonelouise::{ user=1492995 } |
+| mä rakastan sua | ::{ flag=FI }:: **::OhLivi::{ user=10762467 }**, ::{ flag=SA }:: ::3BDOOO::{ user=22461441 } |
+| might miss a match | ::{ flag=FI }:: **::Tabletti::{ user=9523661 }**, ::{ flag=RO }:: ::origin\_::{ user=15095811 } |
+| Karjalanpiirakka | ::{ flag=FI }:: **::savilju::{ user=8059468 }**, ::{ flag=FI }:: ::apisedo::{ user=11048151 } |
+| ballers will ball | ::{ flag=FI }:: **::shdewz::{ user=10000899 }**, ::{ flag=US }:: ::LightsOut::{ user=8581210 } |
+| Meow & Myouow :3 | ::{ flag=FI }:: **::juujep::{ user=12031584 }**, ::{ flag=GB }:: ::HAUNTE::{ user=7333471 } |
+| NATION | ::{ flag=FI }:: **::Nev-::{ user=11836334 }**, ::{ flag=FI }:: ::nemq::{ user=11644972 } |
+| Galaxy Destroyers | ::{ flag=FI }:: **::Mike Tyson::{ user=14764185 }**, ::{ flag=SG }:: ::qstronaut::{ user=10958852 } |
+| Suklaapallit | ::{ flag=RU }:: **::Endura::{ user=7774197 }**, ::{ flag=FI }:: ::Juska::{ user=12931502 } |
+| São Paulo | ::{ flag=BR }:: **::Kyulke::{ user=12620242 }**, ::{ flag=FI }:: ::Mayuri::{ user=18688473 } |
+| NO CLUE! | ::{ flag=FI }:: **::mind blowing::{ user=22396092 }**, ::{ flag=US }:: ::EthantrixV2::{ user=10634348 } |
+| Airline food | ::{ flag=FI }:: **::Roba::{ user=5210561 }**, ::{ flag=CA }:: ::D I O::{ user=3958619 } |
+| happy new year | ::{ flag=FI }:: **::-cyber::{ user=20132305 }**, ::{ flag=AU }:: ::5ixty::{ user=18321104 } |
+| 4444 | ::{ flag=FI }:: **::tkilele::{ user=9114796 }**, ::{ flag=PL }:: ::227::{ user=3741162 } |
+| bouquet | ::{ flag=FI }:: **::Aconite::{ user=15242660 }**, ::{ flag=FI }:: ::Shylily::{ user=20770163 } |
+| Anttola honor | ::{ flag=FI }:: **::makkara::{ user=19563871 }**, ::{ flag=FI }:: ::Naapuri::{ user=11706246 } |
+| drillaz | ::{ flag=FI }:: **::Wokki::{ user=15532703 }**, ::{ flag=PL }:: ::HopeRaven::{ user=8158905 } |
+| Schizo rizzzlers | ::{ flag=FI }:: **::NoTablet::{ user=10967148 }**, ::{ flag=FI }:: ::beea66::{ user=10708428 } |
+| No title | ::{ flag=FI }:: **::sph3re::{ user=21073465 }**, ::{ flag=PL }:: ::mouseANDtablet::{ user=22922042 } |
+| Mandelbrot set | ::{ flag=FI }:: **::Jokupoika24::{ user=17782643 }**, ::{ flag=FI }:: ::System Sun::{ user=3163106 } |
+| Lil bros | ::{ flag=FI }:: **::ImTK::{ user=11506206 }**, ::{ flag=FI }:: ::OG_PannuLappu::{ user=7295343 } |
 
 ## Podium
 
@@ -94,9 +94,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **oddloop** (::{ flag=FI }:: [Kalanluu](https://osu.ppy.sh/users/2035254), ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **bunny party** (::{ flag=FI }:: [Eevert](https://osu.ppy.sh/users/12080544), ::{ flag=KR }:: [Amamya Kokoro](https://osu.ppy.sh/users/2511839)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **terence** (::{ flag=FI }:: [house](https://osu.ppy.sh/users/15242810), ::{ flag=NO }:: [NINERIK](https://osu.ppy.sh/users/10549880)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **oddloop** (::{ flag=FI }:: ::Kalanluu::{ user=2035254 }, ::{ flag=PL }:: ::MALISZEWSKI::{ user=12408961 }) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **bunny party** (::{ flag=FI }:: ::Eevert::{ user=12080544 }, ::{ flag=KR }:: ::Amamya Kokoro::{ user=2511839 }) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **terence** (::{ flag=FI }:: ::house::{ user=15242810 }, ::{ flag=NO }:: ::NINERIK::{ user=10549880 }) |
 
 ## Mappools
 

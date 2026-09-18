@@ -26,8 +26,8 @@ Voir la [page d'index des tournois osu! at UCSD](/wiki/Tournaments/osu!_at_UCSD)
 
 ## Officiers actuels
 
-- ::{ flag=US }:: Darin "[Darin on osu](https://osu.ppy.sh/users/4839876)" Nguyen (*Président*)
-- ::{ flag=US }:: Ash "[Ahntaea](https://osu.ppy.sh/users/4941097)" Tran
-- ::{ flag=CN }:: Jason "[friidryce](https://osu.ppy.sh/users/8271310)" Au
-- ::{ flag=US }:: Peter "[Potor10](https://osu.ppy.sh/users/8029687)" Liu
-- ::{ flag=US }:: Philip "[philisophic](https://osu.ppy.sh/users/7040672)" Lin
+- ::{ flag=US }:: Darin "::Darin on osu::{ user=4839876 }" Nguyen (*Président*)
+- ::{ flag=US }:: Ash "::Ahntaea::{ user=4941097 }" Tran
+- ::{ flag=CN }:: Jason "::friidryce::{ user=8271310 }" Au
+- ::{ flag=US }:: Peter "::Potor10::{ user=8029687 }" Liu
+- ::{ flag=US }:: Philip "::philisophic::{ user=7040672 }" Lin

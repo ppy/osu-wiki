@@ -8,7 +8,7 @@ tags:
 
 ![YHC S3 banner](img/banner.jpg)
 
-The **Yuyuko's Hidden Cup Season 3** (***YHC S3***) was a team-based 4v4 double-elimination osu! tournament hosted by ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030). It was the 3rd instalment of the Yuyuko's Hidden Cup.
+The **Yuyuko's Hidden Cup Season 3** (***YHC S3***) was a team-based 4v4 double-elimination osu! tournament hosted by ::{ flag=CN }:: ::SIyuyuko::{ user=9794030 }. It was the 3rd instalment of the Yuyuko's Hidden Cup.
 
 ## Tournament schedule
 
@@ -39,15 +39,15 @@ The Yuyuko's Hidden Cup Season 3 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030) |
-| Mappool selector | ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
-| Mappool playtester | ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
-| Showcaser | ::{ flag=CN }:: [Hakumo Shiro](https://osu.ppy.sh/users/5179557), ::{ flag=CN }:: [Hakumo Ai](https://osu.ppy.sh/users/694480), ::{ flag=CN }:: [VialVistas](https://osu.ppy.sh/users/9697708), ::{ flag=CN }:: [Sayori\_yui](https://osu.ppy.sh/users/7183040), ::{ flag=CN }:: [Senbe1](https://osu.ppy.sh/users/6911753), ::{ flag=CN }:: [carrywind](https://osu.ppy.sh/users/12228018) |
-| Streamer | ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
-| Commentator | ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
-| Designer | ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
-| Referee | ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
-| Statistician | ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
+| Manager | ::{ flag=CN }:: ::SIyuyuko::{ user=9794030 } |
+| Mappool selector | ::{ flag=CN }:: ::SIyuyuko::{ user=9794030 }, ::{ flag=CN }:: ::Muziyami::{ user=7003013 } |
+| Mappool playtester | ::{ flag=CN }:: ::SIyuyuko::{ user=9794030 }, ::{ flag=CN }:: ::Muziyami::{ user=7003013 } |
+| Showcaser | ::{ flag=CN }:: ::Hakumo Shiro::{ user=5179557 }, ::{ flag=CN }:: ::Hakumo Ai::{ user=694480 }, ::{ flag=CN }:: ::VialVistas::{ user=9697708 }, ::{ flag=CN }:: ::Sayori\_yui::{ user=7183040 }, ::{ flag=CN }:: ::Senbe1::{ user=6911753 }, ::{ flag=CN }:: ::carrywind::{ user=12228018 } |
+| Streamer | ::{ flag=CN }:: ::SIyuyuko::{ user=9794030 }, ::{ flag=CN }:: ::Muziyami::{ user=7003013 } |
+| Commentator | ::{ flag=CN }:: ::SIyuyuko::{ user=9794030 }, ::{ flag=CN }:: ::Muziyami::{ user=7003013 } |
+| Designer | ::{ flag=CN }:: ::Muziyami::{ user=7003013 } |
+| Referee | ::{ flag=CN }:: ::SIyuyuko::{ user=9794030 }, ::{ flag=CN }:: ::Muziyami::{ user=7003013 } |
+| Statistician | ::{ flag=CN }:: ::Muziyami::{ user=7003013 } |
 
 ## Links
 
@@ -61,27 +61,27 @@ The Yuyuko's Hidden Cup Season 3 was run by various community members.
 
 | Team code | Team name | Members |
 | :-: | :-: | :-- |
-| **A** | **null** | [**Arca Lunar**](https://osu.ppy.sh/users/13888511), [mura sama](https://osu.ppy.sh/users/9527178), [Pcioafk](https://osu.ppy.sh/users/13228763), [yukko233](https://osu.ppy.sh/users/28804123), [wjs255](https://osu.ppy.sh/users/29856978), [qimengxunkong](https://osu.ppy.sh/users/16849347), [Endless fare](https://osu.ppy.sh/users/8580156) |
-| **B** | **我倒杯水** | [**n0000000000o**](https://osu.ppy.sh/users/12215328), [yukishize](https://osu.ppy.sh/users/11736169), [cd20200816](https://osu.ppy.sh/users/18118155), [EYii](https://osu.ppy.sh/users/26977726), [FiresunX](https://osu.ppy.sh/users/25578225), [Aokreti](https://osu.ppy.sh/users/27321919), [akuya](https://osu.ppy.sh/users/25089015) |
-| **C** | **6A级景点** | [**FlyingYellow**](https://osu.ppy.sh/users/25776202), [goyhan](https://osu.ppy.sh/users/30314890), [Avogadoll](https://osu.ppy.sh/users/32609690), [-aLIEz-](https://osu.ppy.sh/users/31372295), [YamadaJ](https://osu.ppy.sh/users/13413713), [ArleneRain\_](https://osu.ppy.sh/users/19673275), [[Alex]](https://osu.ppy.sh/users/28776271) |
-| **D** | **鲭西何时无缘进路** | [**innnnovation**](https://osu.ppy.sh/users/18443135), [Natsukaze](https://osu.ppy.sh/users/29046592), [Refu3](https://osu.ppy.sh/users/24013879), [eric1388](https://osu.ppy.sh/users/20384257), [TomCh](https://osu.ppy.sh/users/13863127), [ElectroTD](https://osu.ppy.sh/users/6955595), [Kallen0401](https://osu.ppy.sh/users/32620473) |
-| **E** | **天使纷扰** | [**7R1N1TY**](https://osu.ppy.sh/users/12803951), [SouJuku](https://osu.ppy.sh/users/20403654), [Asp1er](https://osu.ppy.sh/users/17392497), [zhuiyi_crane](https://osu.ppy.sh/users/24365691), [MizukiQwQ](https://osu.ppy.sh/users/15154497), [Fungus OVO](https://osu.ppy.sh/users/4928835), [Lfruin](https://osu.ppy.sh/users/18165022) |
-| **F** | **遇到HD睡大觉** | [**fate80016**](https://osu.ppy.sh/users/8471476), [rtconsuming](https://osu.ppy.sh/users/8500047), [MAPSILL](https://osu.ppy.sh/users/31956309), [FeD4kTo](https://osu.ppy.sh/users/31483691), [SansX](https://osu.ppy.sh/users/29735986), [iz6](https://osu.ppy.sh/users/26093361), [Dawintch](https://osu.ppy.sh/users/9948405) |
-| **G** | **笔不飞 不会打** | [**Kieost**](https://osu.ppy.sh/users/17823832), [sion22](https://osu.ppy.sh/users/30137844), [Zxian](https://osu.ppy.sh/users/20672564), [xxbg](https://osu.ppy.sh/users/31833376), [chana](https://osu.ppy.sh/users/18375016), [Lemen](https://osu.ppy.sh/users/28120802), [K_vAE](https://osu.ppy.sh/users/8756045) |
-| **H** | **孤儿收容所** | [**Niumaokun**](https://osu.ppy.sh/users/16227180), [Alymetic](https://osu.ppy.sh/users/19287762), [LingYuanOvO](https://osu.ppy.sh/users/23805648), [1224192602](https://osu.ppy.sh/users/13089663), [lizhanyiawa](https://osu.ppy.sh/users/13928307), [CyberBunnyGirl](https://osu.ppy.sh/users/11531025), [magic\_\_sunny](https://osu.ppy.sh/users/13323610) |
+| **A** | **null** | ::**Arca Lunar**::{ user=13888511 }, ::mura sama::{ user=9527178 }, ::Pcioafk::{ user=13228763 }, ::yukko233::{ user=28804123 }, ::wjs255::{ user=29856978 }, ::qimengxunkong::{ user=16849347 }, ::Endless fare::{ user=8580156 } |
+| **B** | **我倒杯水** | ::**n0000000000o**::{ user=12215328 }, ::yukishize::{ user=11736169 }, ::cd20200816::{ user=18118155 }, ::EYii::{ user=26977726 }, ::FiresunX::{ user=25578225 }, ::Aokreti::{ user=27321919 }, ::akuya::{ user=25089015 } |
+| **C** | **6A级景点** | ::**FlyingYellow**::{ user=25776202 }, ::goyhan::{ user=30314890 }, ::Avogadoll::{ user=32609690 }, ::-aLIEz-::{ user=31372295 }, ::YamadaJ::{ user=13413713 }, ::ArleneRain\_::{ user=19673275 }, ::[Alex]::{ user=28776271 } |
+| **D** | **鲭西何时无缘进路** | ::**innnnovation**::{ user=18443135 }, ::Natsukaze::{ user=29046592 }, ::Refu3::{ user=24013879 }, ::eric1388::{ user=20384257 }, ::TomCh::{ user=13863127 }, ::ElectroTD::{ user=6955595 }, ::Kallen0401::{ user=32620473 } |
+| **E** | **天使纷扰** | ::**7R1N1TY**::{ user=12803951 }, ::SouJuku::{ user=20403654 }, ::Asp1er::{ user=17392497 }, ::zhuiyi_crane::{ user=24365691 }, ::MizukiQwQ::{ user=15154497 }, ::Fungus OVO::{ user=4928835 }, ::Lfruin::{ user=18165022 } |
+| **F** | **遇到HD睡大觉** | ::**fate80016**::{ user=8471476 }, ::rtconsuming::{ user=8500047 }, ::MAPSILL::{ user=31956309 }, ::FeD4kTo::{ user=31483691 }, ::SansX::{ user=29735986 }, ::iz6::{ user=26093361 }, ::Dawintch::{ user=9948405 } |
+| **G** | **笔不飞 不会打** | ::**Kieost**::{ user=17823832 }, ::sion22::{ user=30137844 }, ::Zxian::{ user=20672564 }, ::xxbg::{ user=31833376 }, ::chana::{ user=18375016 }, ::Lemen::{ user=28120802 }, ::K_vAE::{ user=8756045 } |
+| **H** | **孤儿收容所** | ::**Niumaokun**::{ user=16227180 }, ::Alymetic::{ user=19287762 }, ::LingYuanOvO::{ user=23805648 }, ::1224192602::{ user=13089663 }, ::lizhanyiawa::{ user=13928307 }, ::CyberBunnyGirl::{ user=11531025 }, ::magic\_\_sunny::{ user=13323610 } |
 
 ## Coaches
 
 | Team name | Coach name |
 | :-- | :-- |
-| **null** | [**RoyMaster**](https://osu.ppy.sh/users/28365836) |
-| **我倒杯水** | [**Celia-Claire**](https://osu.ppy.sh/users/12790121) |
-| **6A级景点** | [**ShandenOnter**](https://osu.ppy.sh/users/13999223) |
-| **鲭西何时无缘进路** | [**VialVistas**](https://osu.ppy.sh/users/9697708) |
-| **天使纷扰** | [**Kotor1**](https://osu.ppy.sh/users/2351439) |
-| **遇到HD睡大觉** | [**Stick_Fish**](https://osu.ppy.sh/users/13358640) |
-| **笔不飞 不会打** | [**Sakura Luna**](https://osu.ppy.sh/users/1608105) |
-| **孤儿收容所** | [**-spring night-**](https://osu.ppy.sh/users/17064371) |
+| **null** | ::**RoyMaster**::{ user=28365836 } |
+| **我倒杯水** | ::**Celia-Claire**::{ user=12790121 } |
+| **6A级景点** | ::**ShandenOnter**::{ user=13999223 } |
+| **鲭西何时无缘进路** | ::**VialVistas**::{ user=9697708 } |
+| **天使纷扰** | ::**Kotor1**::{ user=2351439 } |
+| **遇到HD睡大觉** | ::**Stick_Fish**::{ user=13358640 } |
+| **笔不飞 不会打** | ::**Sakura Luna**::{ user=1608105 } |
+| **孤儿收容所** | ::**-spring night-**::{ user=17064371 } |
 
 ![](img/bracket.png "YHCS3 bracket")
 

@@ -8,7 +8,7 @@ tags:
 
 ![COE 1v1 2022 banner](img/banner.png)
 
-The **COE 1v1 Tournament 2022** (***COE1v12022***) was an international open-rank 1v1 tournament hosted by ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251). It was the second instalment of the COE 1v1 Tournament.
+The **COE 1v1 Tournament 2022** (***COE1v12022***) was an international open-rank 1v1 tournament hosted by ::{ flag=US }:: ::ChillierPear::{ user=9501251 }. It was the second instalment of the COE 1v1 Tournament.
 
 ## Tournament schedule
 
@@ -39,39 +39,39 @@ The COE 1v1 Tournament 2022 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organisation | ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454), ::{ flag=DE }:: [Meyer](https://osu.ppy.sh/users/5452367) |
-| Mapper | ::{ flag=GB }:: [CallieCube](https://osu.ppy.sh/users/7535045), ::{ flag=NL }:: [happy30](https://osu.ppy.sh/users/27767), ::{ flag=US }:: [olc](https://osu.ppy.sh/users/7081160), ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926), ::{ flag=CA }:: [Serenhaide](https://osu.ppy.sh/users/10466315), ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334), ::{ flag=JP }:: [rollpan](https://osu.ppy.sh/users/3062998), ::{ flag=US }:: [Woey](https://osu.ppy.sh/users/3792472), ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342), ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955), ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899), ::{ flag=CA }:: [Gordon](https://osu.ppy.sh/users/7856835), ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875), ::{ flag=GB }:: [Aistre](https://osu.ppy.sh/users/4879380), ::{ flag=SE }:: [melwoine](https://osu.ppy.sh/users/12091109) |
-| Commentator | ::{ flag=PL }:: [Bartek22830](https://osu.ppy.sh/users/6404027), ::{ flag=GB }:: [bloo](https://osu.ppy.sh/users/6778877), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=IT }:: [Spazza17](https://osu.ppy.sh/users/3516241), ::{ flag=PL }:: [Wilchq](https://osu.ppy.sh/users/2021758), ::{ flag=US }:: [Woey](https://osu.ppy.sh/users/3792472) |
-| Referee | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
+| Organisation | ::{ flag=NL }:: ::cavoeboy::{ user=7361815 }, ::{ flag=US }:: ::ChillierPear::{ user=9501251 }, ::{ flag=FR }:: ::ThePooN::{ user=718454 }, ::{ flag=DE }:: ::Meyer::{ user=5452367 } |
+| Mapper | ::{ flag=GB }:: ::CallieCube::{ user=7535045 }, ::{ flag=NL }:: ::happy30::{ user=27767 }, ::{ flag=US }:: ::olc::{ user=7081160 }, ::{ flag=BE }:: ::yaspo::{ user=4945926 }, ::{ flag=CA }:: ::Serenhaide::{ user=10466315 }, ::{ flag=GB }:: ::DeviousPanda::{ user=4966334 }, ::{ flag=JP }:: ::rollpan::{ user=3062998 }, ::{ flag=US }:: ::Woey::{ user=3792472 }, ::{ flag=AU }:: ::elicz1::{ user=8039342 }, ::{ flag=PL }:: ::Zelq::{ user=8953955 }, ::{ flag=US }:: ::Halfslashed::{ user=4598899 }, ::{ flag=CA }:: ::Gordon::{ user=7856835 }, ::{ flag=CN }:: ::Ryuusei Aika::{ user=7777875 }, ::{ flag=GB }:: ::Aistre::{ user=4879380 }, ::{ flag=SE }:: ::melwoine::{ user=12091109 } |
+| Commentator | ::{ flag=PL }:: ::Bartek22830::{ user=6404027 }, ::{ flag=GB }:: ::bloo::{ user=6778877 }, ::{ flag=US }:: ::ChillierPear::{ user=9501251 }, ::{ flag=US }:: ::D I O::{ user=3958619 }, ::{ flag=US }:: ::Halfslashed::{ user=4598899 }, ::{ flag=US }:: ::M I L E S::{ user=6036351 }, ::{ flag=IT }:: ::Spazza17::{ user=3516241 }, ::{ flag=PL }:: ::Wilchq::{ user=2021758 }, ::{ flag=US }:: ::Woey::{ user=3792472 } |
+| Referee | ::{ flag=US }:: ::ChillierPear::{ user=9501251 }, ::{ flag=IN }:: ::Speshimen::{ user=7720204 }, ::{ flag=FI }:: ::shdewz::{ user=10000899 }, ::{ flag=DE }:: ::TheHunter1::{ user=6496016 }, ::{ flag=US }:: ::\[K\]::{ user=16551387 } |
 
 ## Links
 
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1603713)
 - [Livestream](https://twitch.tv/coevent)
 - [Challonge bracket](https://challonge.com/COE221v1)
-- [Pick'ems page](https://pickem.hwc.hr/tournaments/96) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/96) hosted by ::{ flag=DE }:: ::hallowatcher::{ user=1874761 }
 - [Tournament spreadsheet](https://docs.google.com/spreadsheets/d/1__qZzjyMKczvxHB7hMaAZkzscooCKhwM6hU1w3RBuEo/edit#gid=831150235)
 
 ## Participants
 
 | Seed No. | Player |
 | :-: | :-- |
-| 1 | ::{ flag=SE }:: [Reedkatt](https://osu.ppy.sh/users/8335950) |
-| 2 | ::{ flag=PL }:: [Bartek22830](https://osu.ppy.sh/users/6404027) |
-| 3 | ::{ flag=EE }:: [Abyssal](https://osu.ppy.sh/users/5527745) |
-| 4 | ::{ flag=US }:: [Trail Mix](https://osu.ppy.sh/users/3328742) |
-| 5 | ::{ flag=PL }:: [Mastasz](https://osu.ppy.sh/users/1876565) |
-| 6 | ::{ flag=PL }:: [Michni](https://osu.ppy.sh/users/3543130) |
-| 7 | ::{ flag=DE }:: [okinamo](https://osu.ppy.sh/users/3765989) |
-| 8 | ::{ flag=SM }:: [oomfie mcdonald](https://osu.ppy.sh/users/11215030) |
-| 9 | ::{ flag=GB }:: [bloo](https://osu.ppy.sh/users/6778877) |
-| 10 | ::{ flag=NO }:: [ninerik](https://osu.ppy.sh/users/10549880) |
-| 11 | ::{ flag=PL }:: [Rafis](https://osu.ppy.sh/users/2558286) |
-| 12 | ::{ flag=GB }:: [Malteser](https://osu.ppy.sh/users/5218178) |
-| 13 | ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890) |
-| 14 | ::{ flag=DK }:: [cat burger](https://osu.ppy.sh/users/11380904) |
-| 15 | ::{ flag=DE }:: [angelkanna](https://osu.ppy.sh/users/10196805) |
-| 16 | ::{ flag=DE }:: [Ephix](https://osu.ppy.sh/users/3772251) |
+| 1 | ::{ flag=SE }:: ::Reedkatt::{ user=8335950 } |
+| 2 | ::{ flag=PL }:: ::Bartek22830::{ user=6404027 } |
+| 3 | ::{ flag=EE }:: ::Abyssal::{ user=5527745 } |
+| 4 | ::{ flag=US }:: ::Trail Mix::{ user=3328742 } |
+| 5 | ::{ flag=PL }:: ::Mastasz::{ user=1876565 } |
+| 6 | ::{ flag=PL }:: ::Michni::{ user=3543130 } |
+| 7 | ::{ flag=DE }:: ::okinamo::{ user=3765989 } |
+| 8 | ::{ flag=SM }:: ::oomfie mcdonald::{ user=11215030 } |
+| 9 | ::{ flag=GB }:: ::bloo::{ user=6778877 } |
+| 10 | ::{ flag=NO }:: ::ninerik::{ user=10549880 } |
+| 11 | ::{ flag=PL }:: ::Rafis::{ user=2558286 } |
+| 12 | ::{ flag=GB }:: ::Malteser::{ user=5218178 } |
+| 13 | ::{ flag=RO }:: ::badeu::{ user=1473890 } |
+| 14 | ::{ flag=DK }:: ::cat burger::{ user=11380904 } |
+| 15 | ::{ flag=DE }:: ::angelkanna::{ user=10196805 } |
+| 16 | ::{ flag=DE }:: ::Ephix::{ user=3772251 } |
 
 ## Mappools
 

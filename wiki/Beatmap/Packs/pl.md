@@ -54,23 +54,23 @@ Zaleca się, aby pobierać paczki beatmap bezpośrednio z oficjalnej listy pacze
 Na chwilę obecną wszystkie paczki beatmap są przechowywane na serwerze `packs.ppy.sh`. Jeśli jednak serwer z jakiegoś powodu będzie niedostępny lub połączenie z nim będzie wolne, możesz skorzystać z poniższych serwerów lustrzanych (mirrorów) stworzonych przez innych:
 
 - Hinamizawa.ai - hub osu!
-  - [Serwer lustrzany](https://hinamizawa.ai/osu/map-packs/) autorstwa ::{ flag=CW }:: [TheMoonBunny](https://osu.ppy.sh/users/902250)
+  - [Serwer lustrzany](https://hinamizawa.ai/osu/map-packs/) autorstwa ::{ flag=CW }:: ::TheMoonBunny::{ user=902250 }
 - Stara przestrzeń dyskowa sprzed migracji do `packs.ppy.sh` ( ~07.05.2023)
-  - [Dysk MEGA](https://mega.nz/folder/Rl4hkKZQ#L1LXE4UgMH00eJF1xqMytw) autorstwa ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907)
+  - [Dysk MEGA](https://mega.nz/folder/Rl4hkKZQ#L1LXE4UgMH00eJF1xqMytw) autorstwa ::{ flag=AT }:: ::Stefan::{ user=626907 }
 - [(Un)official Beatmap Pack Sheet](https://osu.ppy.sh/community/forums/topics/1528191)
-  - [Skoroszyt Google](https://docs.google.com/spreadsheets/d/1gcXL9gubcWEKY1X2taxJdBGjFrqEpkNmjHU7LFpcJRo) autorstwa ::{ flag=KR }:: [Shige-Tori\[a\]](https://osu.ppy.sh/users/4459449)
+  - [Skoroszyt Google](https://docs.google.com/spreadsheets/d/1gcXL9gubcWEKY1X2taxJdBGjFrqEpkNmjHU7LFpcJRo) autorstwa ::{ flag=KR }:: ::Shige-Tori\[a\]::{ user=4459449 }
 - [osu! Beatmap Pack Mirror v2](https://osu.ppy.sh/community/forums/topics/57381)
-  - [Serwer lustrzany](http://osu.yas-online.net/) autorstwa ::{ flag=DE }:: [nanashirei](https://osu.ppy.sh/users/807630)
+  - [Serwer lustrzany](http://osu.yas-online.net/) autorstwa ::{ flag=DE }:: ::nanashirei::{ user=807630 }
 
 ### Torrenty
 
 Torrenty to świetny sposób na pobieranie paczek beatmap w dużych ilościach zamiast pobierania ich pojedynczo. Z pomocą narzędzi do torrentowania możesz pobierać paczki z następujących stron:
 
 - [Osu! Beatmap Packs @ Resilio Sync](https://osu.ppy.sh/community/forums/topics/1255023)
-  - [Plik torrent Resilio Sync](https://link.resilio.com/#f=osu%21%20Beatmap%20Packs&sz=19E2&t=1&s=JHR4G3EUWCAOAKJT6HITFDGMENTSXU7U&i=CASDYUCU4VP4JUMPRYFZLFZK5EIXANSEE&v=2.7&a=2) autorstwa ::{ flag=RU }:: [glukki](https://osu.ppy.sh/users/14285150)
+  - [Plik torrent Resilio Sync](https://link.resilio.com/#f=osu%21%20Beatmap%20Packs&sz=19E2&t=1&s=JHR4G3EUWCAOAKJT6HITFDGMENTSXU7U&i=CASDYUCU4VP4JUMPRYFZLFZK5EIXANSEE&v=2.7&a=2) autorstwa ::{ flag=RU }:: ::glukki::{ user=14285150 }
 - [[Beatmap Packs] All ranked maps](https://osu.ppy.sh/community/forums/topics/330552)
-  - [Plik torrent](https://drive.google.com/drive/folders/1_iOU-sWjjugD7ww8Jsl1ullihcVXh50F?usp=sharing) autorstwa ::{ flag=RE }:: [Elessey](https://osu.ppy.sh/users/4925105)
+  - [Plik torrent](https://drive.google.com/drive/folders/1_iOU-sWjjugD7ww8Jsl1ullihcVXh50F?usp=sharing) autorstwa ::{ flag=RE }:: ::Elessey::{ user=4925105 }
 - [osu! Torrent Beatmap Packs](https://osu.ppy.sh/community/forums/topics/687910)
-  - [Strona internetowa PandoTracker](https://pandotracker.me) autorstwa ::{ flag=IT }:: [- Pandoro](https://osu.ppy.sh/users/2574057)
+  - [Strona internetowa PandoTracker](https://pandotracker.me) autorstwa ::{ flag=IT }:: ::- Pandoro::{ user=2574057 }
 
 Miej na uwadze, że aby pobrać wszystkie dostępne paczki przy użyciu torrentów wymagane jest posiadanie dużej ilości miejsca na dysku oraz szybkiego łącza internetowego.

@@ -2,7 +2,7 @@
 
 ![ANZT 6S logo](img/logo.png)
 
-The **Aus/NZ osu!standard Tournament 6 - Summer** (***ANZT 6S***) was a 1v1 single elimination osu! tournament with a Swiss format group stage hosted by ::{ flag=NZ }:: [Diony](https://osu.ppy.sh/users/4294475) and ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135). It was the seventh instalment of the Aus/NZ tourneys.
+The **Aus/NZ osu!standard Tournament 6 - Summer** (***ANZT 6S***) was a 1v1 single elimination osu! tournament with a Swiss format group stage hosted by ::{ flag=NZ }:: ::Diony::{ user=4294475 } and ::{ flag=AU }:: ::EmeraldStar82::{ user=3772135 }. It was the seventh instalment of the Aus/NZ tourneys.
 
 ## Tournament schedule
 
@@ -27,13 +27,13 @@ The **Aus/NZ osu!standard Tournament 6 - Summer** (***ANZT 6S***) was a 1v1 sing
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=NZ }:: [Diony](https://osu.ppy.sh/users/4294475), ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135) |
-| Scheduler | ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135) |
-| Commentator | ::{ flag=AU }:: [abolaspany](https://osu.ppy.sh/users/4261853), ::{ flag=AU }:: [awesometa](https://osu.ppy.sh/users/7114425), ::{ flag=NZ }:: [Monster Bait](https://osu.ppy.sh/users/6890546), ::{ flag=AU }:: [Monk Gyatso](https://osu.ppy.sh/users/4012086), ::{ flag=AU }:: [Arbusion](https://osu.ppy.sh/users/11469447), ::{ flag=AU }:: [HolyJesus](https://osu.ppy.sh/users/7785655), ::{ flag=AU }:: [Aus](https://osu.ppy.sh/users/6541404), ::{ flag=AU }:: [Takagaki](https://osu.ppy.sh/users/3698691), ::{ flag=AU }:: [pewdekz](https://osu.ppy.sh/users/5754859) |
-| Streamer | ::{ flag=AU }:: [pewdekz](https://osu.ppy.sh/users/5754859), ::{ flag=VN }:: [steve\_04\_](https://osu.ppy.sh/users/10852911), ::{ flag=AU }:: [TheOmyNomy](https://osu.ppy.sh/users/4241054) |
-| Referee | ::{ flag=AU }:: [Illinon](https://osu.ppy.sh/users/8306102), ::{ flag=AU }:: [Soulskyeflare](https://osu.ppy.sh/users/8264319), ::{ flag=AU }:: [awesometa](https://osu.ppy.sh/users/7114425), ::{ flag=PH }:: [ggnakacarlz](https://osu.ppy.sh/users/4075421), ::{ flag=NZ }:: [phophicles](https://osu.ppy.sh/users/9373724), ::{ flag=VN }:: [steve\_04\_](https://osu.ppy.sh/users/10852911), ::{ flag=NZ }:: [NutAndGo](https://osu.ppy.sh/users/7740118), ::{ flag=KR }:: [silverlightcs](https://osu.ppy.sh/users/9862564), ::{ flag=NZ }:: [Div](https://osu.ppy.sh/users/3751116), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811) |
-| Mappool selector | ::{ flag=JP }:: [Delis](https://osu.ppy.sh/users/1603923), ::{ flag=JP }:: [Angel Arrow](https://osu.ppy.sh/users/1970239), ::{ flag=MV }:: [HypebeastHijabi](https://osu.ppy.sh/users/1786945) |
-| Designer | ::{ flag=AU }:: [abolaspany](https://osu.ppy.sh/users/4261853) |
+| Manager | ::{ flag=NZ }:: ::Diony::{ user=4294475 }, ::{ flag=AU }:: ::EmeraldStar82::{ user=3772135 } |
+| Scheduler | ::{ flag=AU }:: ::EmeraldStar82::{ user=3772135 } |
+| Commentator | ::{ flag=AU }:: ::abolaspany::{ user=4261853 }, ::{ flag=AU }:: ::awesometa::{ user=7114425 }, ::{ flag=NZ }:: ::Monster Bait::{ user=6890546 }, ::{ flag=AU }:: ::Monk Gyatso::{ user=4012086 }, ::{ flag=AU }:: ::Arbusion::{ user=11469447 }, ::{ flag=AU }:: ::HolyJesus::{ user=7785655 }, ::{ flag=AU }:: ::Aus::{ user=6541404 }, ::{ flag=AU }:: ::Takagaki::{ user=3698691 }, ::{ flag=AU }:: ::pewdekz::{ user=5754859 } |
+| Streamer | ::{ flag=AU }:: ::pewdekz::{ user=5754859 }, ::{ flag=VN }:: ::steve\_04\_::{ user=10852911 }, ::{ flag=AU }:: ::TheOmyNomy::{ user=4241054 } |
+| Referee | ::{ flag=AU }:: ::Illinon::{ user=8306102 }, ::{ flag=AU }:: ::Soulskyeflare::{ user=8264319 }, ::{ flag=AU }:: ::awesometa::{ user=7114425 }, ::{ flag=PH }:: ::ggnakacarlz::{ user=4075421 }, ::{ flag=NZ }:: ::phophicles::{ user=9373724 }, ::{ flag=VN }:: ::steve\_04\_::{ user=10852911 }, ::{ flag=NZ }:: ::NutAndGo::{ user=7740118 }, ::{ flag=KR }:: ::silverlightcs::{ user=9862564 }, ::{ flag=NZ }:: ::Div::{ user=3751116 }, ::{ flag=US }:: ::tigereyes144::{ user=6499811 } |
+| Mappool selector | ::{ flag=JP }:: ::Delis::{ user=1603923 }, ::{ flag=JP }:: ::Angel Arrow::{ user=1970239 }, ::{ flag=MV }:: ::HypebeastHijabi::{ user=1786945 } |
+| Designer | ::{ flag=AU }:: ::abolaspany::{ user=4261853 } |
 
 ## Links
 
@@ -47,9 +47,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=AU }:: [nickerdead3](https://osu.ppy.sh/users/4999984) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=AU }:: ::Dumii::{ user=3068044 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=AU }:: ::Jordan The Bear::{ user=7477458 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=AU }:: ::nickerdead3::{ user=4999984 } |
 
 All individual match results can be found on the spreadsheet linked above.
 

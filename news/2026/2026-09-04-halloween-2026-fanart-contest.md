@@ -53,7 +53,7 @@ Got any questions, or any urgent matters that need to be looked at? Don't hesita
 
 ---
 
-*Header and promotional artwork by finalist [mewpt](https://osu.ppy.sh/users/3078282) from the [Halloween 2025 Fanart Contest](https://osu.ppy.sh/community/contests/260)!*
+*Header and promotional artwork by finalist ::mewpt::{ user=3078282 } from the [Halloween 2025 Fanart Contest](https://osu.ppy.sh/community/contests/260)!*
 
 Whenever you're ready, head over to the [Halloween 2026 Fanart Contest listing](https://osu.ppy.sh/community/contests/296) and drag-&-drop your entry into the box with the plus sign in it.
 

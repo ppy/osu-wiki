@@ -21,12 +21,12 @@ Se alguém precisar de assistência nos subfórums mencionados, eles devem ser o
 
 | Nomes | Idiomas adicionais |
 | :-- | :-- |
-| ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  |
-| ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
-| ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  |
-| ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino |
-| ::{ flag=CA }:: [Pawsu](https://osu.ppy.sh/users/2371454) |  |
-| ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | Swedish, Spanish |
-| ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) |  |
-| ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | German |
-| ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Spanish |
+| ::{ flag=US }:: ::Death::{ user=3242450 } |  |
+| ::{ flag=US }:: ::Dntm8kmeeatu::{ user=5428812 } |  |
+| ::{ flag=NO }:: ::MillhioreF::{ user=941094 } |  |
+| ::{ flag=PH }:: ::Nathanael::{ user=2295078 } | Filipino |
+| ::{ flag=CA }:: ::Pawsu::{ user=2371454 } |  |
+| ::{ flag=SE }:: ::Saten::{ user=444506 } | Swedish, Spanish |
+| ::{ flag=AU }:: ::smoogipoo::{ user=1040328 } |  |
+| ::{ flag=DE }:: ::Tom94::{ user=1857058 } | German |
+| ::{ flag=ES }:: ::Trosk-::{ user=3469385 } | Spanish |

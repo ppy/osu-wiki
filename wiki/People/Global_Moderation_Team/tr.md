@@ -58,89 +58,89 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 
 | İsim | Ek diller | Odak alanları |
 | :-- | :-- | :-- |
-| ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Almanca | Sohbet moderasyonu |
-| ::{ flag=IT }:: [- Marco -](https://osu.ppy.sh/users/1273955) | İtalyanca | Sohbet moderasyonu, forum moderasyonu |
-| ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | İtalyanca | Mapping/modding topluluk moderasyonu |
-| ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730) |  | Sohbet moderasyonu |
-| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | Çince, Malayca, Kantonca, biraz Japonca | Mapping/modding topluluk moderasyonu |
-| ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | Çince | Mapping/modding topluluk moderasyonu, forum moderasyonu |
-| ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Rusça | Sohbet moderasyonu |
-| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Sırpça | Team leadership, general moderation |
-| ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Forum moderasyonu |
-| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | Sohbet moderasyonu, mapping/modding topluluk moderasyonu, general moderation |
-| ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | Felemenkçe, biraz Almanca | General moderation |
-| ::{ flag=US }:: [Atrue](https://osu.ppy.sh/users/1758523) | Çince | Sohbet moderasyonu, forum moderasyonu, mapping/modding topluluk moderasyonu |
-| ::{ flag=CA }:: [Aurele](https://osu.ppy.sh/users/654108) | Fransızca | Sohbet moderasyonu, forum moderasyonu, mapping/modding topluluk moderasyonu |
-| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Turnuva yönetimi |
-| ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | Çince, Malayca | Sohbet moderasyonu |
-| ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  | Sohbet moderasyonu, forum moderasyonu, teknik destek |
-| ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | İsveççe, İspanyolca | General moderation, turnuva yönetimi |
-| ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  | Sohbet moderasyonu |
-| ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | Korece, Japonca | Sohbet moderasyonu |
-| ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039) | Fransızca | Forum moderasyonu |
-| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | Biraz İspanyolca | Turnuva yönetimi |
-| ::{ flag=BR }:: [DizzyH](https://osu.ppy.sh/users/9896172) | Portekizce | Sohbet moderasyonu |
-| ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | Forum moderasyonu, teknik destek |
-| ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Teknik destek |
-| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | Oyuncu desteği, wiki yönetimi |
-| ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | Fince, biraz İsveççe | Sohbet moderasyonu |
-| ::{ flag=CN }:: [Fycho](https://osu.ppy.sh/users/1876867) | Çince | Sohbet moderasyonu, mapping/modding topluluk moderasyonu |
-| ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | Lehçe | Sohbet moderasyonu |
-| ::{ flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738) | Fransızca | Sohbet moderasyonu |
-| ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Mapping/modding topluluk moderasyonu |
-| ::{ flag=DE }:: [Hopes](https://osu.ppy.sh/users/4907504) | Almanca, Türkçe | Sohbet moderasyonu |
-| ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Endonezce | Mapping/modding topluluk moderasyonu |
-| ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | Fransızca, İspanyolca | Sohbet moderasyonu |
-| ::{ flag=BR }:: [Jaguar](https://osu.ppy.sh/users/3660954) | Portekizce | Sohbet moderasyonu |
-| ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | Kantonca, Çince, Japonca | Sohbet moderasyonu |
-| ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | Rusça | Team leadership, sohbet moderasyonu, forum moderasyonu |
-| ::{ flag=RU }:: [Kudou Chitose](https://osu.ppy.sh/users/9936528) | Rusça | Sohbet moderasyonu |
-| ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) | Fince, biraz İsveççe | Sohbet moderasyonu |
-| ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Portekizce, İspanyolca | Sohbet moderasyonu, turnuva yönetimi |
-| ::{ flag=VE }:: [Leon Brigido](https://osu.ppy.sh/users/13570072) | İspanyolca | Sohbet moderasyonu |
-| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Almanca | Mapping/modding topluluk moderasyonu |
-| ::{ flag=GB }:: [Log Off Now](https://osu.ppy.sh/users/4378277) |  | Sohbet moderasyonu, mapping/modding topluluk moderasyonu |
-| ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | Almanca | Sohbet moderasyonu, forum moderasyonu |
-| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Kantonca, Çince | Turnuva yönetimi |
-| ::{ flag=BR }:: [maot](https://osu.ppy.sh/users/3914271) | Portekizce | Mapping/modding topluluk moderasyonu |
-| ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu! geliştirme |
-| ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597) | Vietnamca | Sohbet moderasyonu |
-| ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Filipince | Sohbet moderasyonu, forum moderasyonu, teknik destek |
-| ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  | Mapping/modding topluluk moderasyonu |
-| ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | Endonezce | Sohbet moderasyonu |
-| ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | Fransızca | Sohbet moderasyonu |
-| ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Almanca, Sırpça | Sohbet moderasyonu, mapping/modding topluluk moderasyonu |
-| ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Resmi takım temsilcisi |
-| ::{ flag=FR }:: [Pachiru](https://osu.ppy.sh/users/2850983) | Fransızca | Sohbet moderasyonu, forum moderasyonu |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Kantonca, Çince | General moderation |
-| ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | Korece, Japonca | Sohbet moderasyonu |
-| ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | Malayca | Sohbet moderasyonu |
-| ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | Lehçe | Skinning community moderation |
-| ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | İspanyolca | Sohbet moderasyonu |
-| ::{ flag=FI }:: [Riverism](https://osu.ppy.sh/users/4980738) | Fince, biraz İsveççe, biraz Japonca | Mapping/modding topluluk moderasyonu, forum moderasyonu |
-| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Felemenkçe, Japonca | Skinning community moderation |
-| ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Almanca | Skinning community moderation, forum moderasyonu |
-| ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772) | Japonca | Sohbet moderasyonu |
-| ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | İsveççe, İspanyolca | Sohbet moderasyonu |
-| ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Fransızca, İspanyolca | Sohbet moderasyonu |
-| ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | Endonezce | Sohbet moderasyonu |
-| ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Endonezce, biraz Vietnamca | Sohbet moderasyonu, forum moderasyonu |
-| ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | Çince | Sohbet moderasyonu |
-| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | Korece | Mapping/modding topluluk moderasyonu |
-| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | Almanca, Sırpça | Forum moderasyonu |
-| ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | Fince | Sohbet moderasyonu |
-| ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | Forum moderasyonu, sohbet moderasyonu |
-| ::{ flag=PE }:: [Tiburon](https://osu.ppy.sh/users/18115022) | İspanyolca | Sohbet moderasyonu |
-| ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | Rusça | Sohbet moderasyonu, wiki yönetimi |
-| ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) | Filipince | Sohbet moderasyonu |
-| ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) | Tayca | Sohbet moderasyonu |
-| ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | İspanyolca | Teknik destek |
-| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Lehçe | Team leadership, sohbet moderasyonu, mapping/modding topluluk moderasyonu |
-| ::{ flag=IT }:: [VoidGod](https://osu.ppy.sh/users/4724656) | İtalyanca | Sohbet moderasyonu |
-| ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) | Endonezce | Sohbet moderasyonu |
-| ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | Lehçe | Sohbet moderasyonu |
-| ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | Sohbet moderasyonu |
-| ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | İspanyolca | Mapping/modding topluluk moderasyonu |
+| ::{ flag=DE }:: ::- Felix::{ user=8503985 } | Almanca | Sohbet moderasyonu |
+| ::{ flag=IT }:: ::- Marco -::{ user=1273955 } | İtalyanca | Sohbet moderasyonu, forum moderasyonu |
+| ::{ flag=IT }:: ::-kevincela-::{ user=266596 } | İtalyanca | Mapping/modding topluluk moderasyonu |
+| ::{ flag=US }:: ::-NoName-::{ user=10400730 } |  | Sohbet moderasyonu |
+| ::{ flag=MY }:: ::\_Kobii::{ user=6209713 } | Çince, Malayca, Kantonca, biraz Japonca | Mapping/modding topluluk moderasyonu |
+| ::{ flag=CN }:: ::\_Stan::{ user=1653229 } | Çince | Mapping/modding topluluk moderasyonu, forum moderasyonu |
+| ::{ flag=CH }:: ::\[ryuu\]::{ user=5698467 } | Rusça | Sohbet moderasyonu |
+| ::{ flag=RS }:: ::0x84f::{ user=7944724 } | Sırpça | Team leadership, general moderation |
+| ::{ flag=US }:: ::abraker::{ user=4635891 } |  | Forum moderasyonu |
+| ::{ flag=GB }:: ::aceticke::{ user=8838763 } |  | Sohbet moderasyonu, mapping/modding topluluk moderasyonu, general moderation |
+| ::{ flag=NL }:: ::Albionthegreat::{ user=9853595 } | Felemenkçe, biraz Almanca | General moderation |
+| ::{ flag=US }:: ::Atrue::{ user=1758523 } | Çince | Sohbet moderasyonu, forum moderasyonu, mapping/modding topluluk moderasyonu |
+| ::{ flag=CA }:: ::Aurele::{ user=654108 } | Fransızca | Sohbet moderasyonu, forum moderasyonu, mapping/modding topluluk moderasyonu |
+| ::{ flag=CA }:: ::Azer::{ user=2155578 } |  | Turnuva yönetimi |
+| ::{ flag=MY }:: ::bibitaru::{ user=4482419 } | Çince, Malayca | Sohbet moderasyonu |
+| ::{ flag=US }:: ::Blushing::{ user=5927823 } |  | Sohbet moderasyonu, forum moderasyonu, teknik destek |
+| ::{ flag=US }:: ::ChillierPear::{ user=9501251 } | İsveççe, İspanyolca | General moderation, turnuva yönetimi |
+| ::{ flag=GB }:: ::chromb::{ user=10238680 } |  | Sohbet moderasyonu |
+| ::{ flag=KR }:: ::Civil oath::{ user=3216107 } | Korece, Japonca | Sohbet moderasyonu |
+| ::{ flag=FR }:: ::Corne2Plum3::{ user=15646039 } | Fransızca | Forum moderasyonu |
+| ::{ flag=CA }:: ::D I O::{ user=3958619 } | Biraz İspanyolca | Turnuva yönetimi |
+| ::{ flag=BR }:: ::DizzyH::{ user=9896172 } | Portekizce | Sohbet moderasyonu |
+| ::{ flag=US }:: ::Death::{ user=3242450 } |  | Forum moderasyonu, teknik destek |
+| ::{ flag=US }:: ::Dntm8kmeeatu::{ user=5428812 } |  | Teknik destek |
+| ::{ flag=AU }:: ::Ephemeral::{ user=102335 } |  | Oyuncu desteği, wiki yönetimi |
+| ::{ flag=FI }:: ::Flutteh::{ user=5042507 } | Fince, biraz İsveççe | Sohbet moderasyonu |
+| ::{ flag=CN }:: ::Fycho::{ user=1876867 } | Çince | Sohbet moderasyonu, mapping/modding topluluk moderasyonu |
+| ::{ flag=PL }:: ::Galkan::{ user=169570 } | Lehçe | Sohbet moderasyonu |
+| ::{ flag=FR }:: ::Ganondorf::{ user=10660738 } | Fransızca | Sohbet moderasyonu |
+| ::{ flag=US }:: ::Halfslashed::{ user=4598899 } |  | Mapping/modding topluluk moderasyonu |
+| ::{ flag=DE }:: ::Hopes::{ user=4907504 } | Almanca, Türkçe | Sohbet moderasyonu |
+| ::{ flag=ID }:: ::Ilham::{ user=3057154 } | Endonezce | Mapping/modding topluluk moderasyonu |
+| ::{ flag=FR }:: ::Imakuri::{ user=6100837 } | Fransızca, İspanyolca | Sohbet moderasyonu |
+| ::{ flag=BR }:: ::Jaguar::{ user=3660954 } | Portekizce | Sohbet moderasyonu |
+| ::{ flag=HK }:: ::kanpakyin::{ user=394326 } | Kantonca, Çince, Japonca | Sohbet moderasyonu |
+| ::{ flag=RU }:: ::Kobold84::{ user=3227533 } | Rusça | Team leadership, sohbet moderasyonu, forum moderasyonu |
+| ::{ flag=RU }:: ::Kudou Chitose::{ user=9936528 } | Rusça | Sohbet moderasyonu |
+| ::{ flag=FI }:: ::Laurakko::{ user=7253731 } | Fince, biraz İsveççe | Sohbet moderasyonu |
+| ::{ flag=BR }:: ::LeoFLT::{ user=3668779 } | Portekizce, İspanyolca | Sohbet moderasyonu, turnuva yönetimi |
+| ::{ flag=VE }:: ::Leon Brigido::{ user=13570072 } | İspanyolca | Sohbet moderasyonu |
+| ::{ flag=DE }:: ::Loctav::{ user=71366 } | Almanca | Mapping/modding topluluk moderasyonu |
+| ::{ flag=GB }:: ::Log Off Now::{ user=4378277 } |  | Sohbet moderasyonu, mapping/modding topluluk moderasyonu |
+| ::{ flag=DE }:: ::Lyawi::{ user=5851253 } | Almanca | Sohbet moderasyonu, forum moderasyonu |
+| ::{ flag=GB }:: ::mangomizer::{ user=1893718 } | Kantonca, Çince | Turnuva yönetimi |
+| ::{ flag=BR }:: ::maot::{ user=3914271 } | Portekizce | Mapping/modding topluluk moderasyonu |
+| ::{ flag=NO }:: ::MillhioreF::{ user=941094 } |  | osu! geliştirme |
+| ::{ flag=VN }:: ::My Angel Chino::{ user=20547597 } | Vietnamca | Sohbet moderasyonu |
+| ::{ flag=PH }:: ::Nathanael::{ user=2295078 } | Filipince | Sohbet moderasyonu, forum moderasyonu, teknik destek |
+| ::{ flag=US }:: ::Nevo::{ user=7451883 } |  | Mapping/modding topluluk moderasyonu |
+| ::{ flag=ID }:: ::Niva::{ user=197805 } | Endonezce | Sohbet moderasyonu |
+| ::{ flag=FR }:: ::Nozhomi::{ user=2716981 } | Fransızca | Sohbet moderasyonu |
+| ::{ flag=DE }:: ::OnosakiHito::{ user=290128 } | Almanca, Sırpça | Sohbet moderasyonu, mapping/modding topluluk moderasyonu |
+| ::{ flag=AU }:: ::osu!team::{ user=4341397 } |  | Resmi takım temsilcisi |
+| ::{ flag=FR }:: ::Pachiru::{ user=2850983 } | Fransızca | Sohbet moderasyonu, forum moderasyonu |
+| ::{ flag=HK }:: ::Petal::{ user=7354729 } | Kantonca, Çince | General moderation |
+| ::{ flag=KR }:: ::Petit::{ user=4637369 } | Korece, Japonca | Sohbet moderasyonu |
+| ::{ flag=MY }:: ::QHideaki13::{ user=733998 } | Malayca | Sohbet moderasyonu |
+| ::{ flag=PL }:: ::Redo_::{ user=7122165 } | Lehçe | Skinning community moderation |
+| ::{ flag=MX }:: ::Repflez::{ user=201392 } | İspanyolca | Sohbet moderasyonu |
+| ::{ flag=FI }:: ::Riverism::{ user=4980738 } | Fince, biraz İsveççe, biraz Japonca | Mapping/modding topluluk moderasyonu, forum moderasyonu |
+| ::{ flag=NL }:: ::Roan::{ user=8214639 } | Felemenkçe, Japonca | Skinning community moderation |
+| ::{ flag=DE }:: ::RockRoller::{ user=8388854 } | Almanca | Skinning community moderation, forum moderasyonu |
+| ::{ flag=JP }:: ::S o h::{ user=2234772 } | Japonca | Sohbet moderasyonu |
+| ::{ flag=SE }:: ::Saten::{ user=444506 } | İsveççe, İspanyolca | Sohbet moderasyonu |
+| ::{ flag=FR }:: ::Shiro::{ user=113005 } | Fransızca, İspanyolca | Sohbet moderasyonu |
+| ::{ flag=ID }:: ::Shurelia::{ user=3807986 } | Endonezce | Sohbet moderasyonu |
+| ::{ flag=ID }:: ::Sies::{ user=6491991 } | Endonezce, biraz Vietnamca | Sohbet moderasyonu, forum moderasyonu |
+| ::{ flag=TW }:: ::spboxer3::{ user=197974 } | Çince | Sohbet moderasyonu |
+| ::{ flag=KR }:: ::Spectator::{ user=702598 } | Korece | Mapping/modding topluluk moderasyonu |
+| ::{ flag=AT }:: ::Stefan::{ user=626907 } | Almanca, Sırpça | Forum moderasyonu |
+| ::{ flag=FI }:: ::terho::{ user=6090105 } | Fince | Sohbet moderasyonu |
+| ::{ flag=NZ }:: ::THAT_otaku::{ user=11798717 } |  | Forum moderasyonu, sohbet moderasyonu |
+| ::{ flag=PE }:: ::Tiburon::{ user=18115022 } | İspanyolca | Sohbet moderasyonu |
+| ::{ flag=CH }:: ::TicClick::{ user=672931 } | Rusça | Sohbet moderasyonu, wiki yönetimi |
+| ::{ flag=PH }:: ::topecnz::{ user=2103927 } | Filipince | Sohbet moderasyonu |
+| ::{ flag=TH }:: ::Trigonoculus::{ user=7627013 } | Tayca | Sohbet moderasyonu |
+| ::{ flag=ES }:: ::Trosk-::{ user=3469385 } | İspanyolca | Teknik destek |
+| ::{ flag=PL }:: ::Venix::{ user=5999631 } | Lehçe | Team leadership, sohbet moderasyonu, mapping/modding topluluk moderasyonu |
+| ::{ flag=IT }:: ::VoidGod::{ user=4724656 } | İtalyanca | Sohbet moderasyonu |
+| ::{ flag=ID }:: ::wowcake::{ user=16121851 } | Endonezce | Sohbet moderasyonu |
+| ::{ flag=PL }:: ::Yason::{ user=2574392 } | Lehçe | Sohbet moderasyonu |
+| ::{ flag=HM }:: ::Zallius::{ user=55 } |  | Sohbet moderasyonu |
+| ::{ flag=CL }:: ::ZiRoX::{ user=200768 } | İspanyolca | Mapping/modding topluluk moderasyonu |
 
 ### Dillere göre moderasyonun gruplandırılması
 
@@ -148,30 +148,30 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | :-- | :-- | :-- |
 | `#arabic` |  |  |
 | `#bulgarian` |  |  |
-| `#cantonese` |  | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) |
-| `#chinese` | [中文](https://osu.ppy.sh/community/forums/25) | ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229), ::{ flag=US }:: [Atrue](https://osu.ppy.sh/users/1758523), ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419), ::{ flag=CN }:: [Fycho](https://osu.ppy.sh/users/1876867), ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) |
+| `#cantonese` |  | ::{ flag=HK }:: ::kanpakyin::{ user=394326 }, ::{ flag=HK }:: ::Petal::{ user=7354729 } |
+| `#chinese` | [中文](https://osu.ppy.sh/community/forums/25) | ::{ flag=CN }:: ::\_Stan::{ user=1653229 }, ::{ flag=US }:: ::Atrue::{ user=1758523 }, ::{ flag=MY }:: ::bibitaru::{ user=4482419 }, ::{ flag=CN }:: ::Fycho::{ user=1876867 }, ::{ flag=HK }:: ::kanpakyin::{ user=394326 }, ::{ flag=TW }:: ::spboxer3::{ user=197974 } |
 | `#czechoslovak` |  |  |
-| `#dutch` | [Nederlands](https://osu.ppy.sh/community/forums/69) | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) |
+| `#dutch` | [Nederlands](https://osu.ppy.sh/community/forums/69) | ::{ flag=NL }:: ::Albionthegreat::{ user=9853595 } |
 | `#english` |  | *Tüm moderatörler* |
-| `#filipino` | [Tagalog](https://osu.ppy.sh/community/forums/76) | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078), ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) |
-| `#finnish` | [Suomi](https://osu.ppy.sh/community/forums/24) | ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507),  ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731), ::{ flag=FI }:: [Riverism](https://osu.ppy.sh/users/4980738),  ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) |
-| `#french` | [Français](https://osu.ppy.sh/community/forums/34) | ::{ flag=CA }:: [Aurele](https://osu.ppy.sh/users/654108), ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039), ::{ flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738), ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837), ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981), ::{ flag=FR }:: [Pachiru](https://osu.ppy.sh/users/2850983), ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) |
-| `#german` | [Deutsch](https://osu.ppy.sh/community/forums/37) | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985), ::{ flag=DE }:: [Hopes](https://osu.ppy.sh/users/4907504), ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253), ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128), ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854), ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) |
+| `#filipino` | [Tagalog](https://osu.ppy.sh/community/forums/76) | ::{ flag=PH }:: ::Nathanael::{ user=2295078 }, ::{ flag=PH }:: ::topecnz::{ user=2103927 } |
+| `#finnish` | [Suomi](https://osu.ppy.sh/community/forums/24) | ::{ flag=FI }:: ::Flutteh::{ user=5042507 },  ::{ flag=FI }:: ::Laurakko::{ user=7253731 }, ::{ flag=FI }:: ::Riverism::{ user=4980738 },  ::{ flag=FI }:: ::terho::{ user=6090105 } |
+| `#french` | [Français](https://osu.ppy.sh/community/forums/34) | ::{ flag=CA }:: ::Aurele::{ user=654108 }, ::{ flag=FR }:: ::Corne2Plum3::{ user=15646039 }, ::{ flag=FR }:: ::Ganondorf::{ user=10660738 }, ::{ flag=FR }:: ::Imakuri::{ user=6100837 }, ::{ flag=FR }:: ::Nozhomi::{ user=2716981 }, ::{ flag=FR }:: ::Pachiru::{ user=2850983 }, ::{ flag=FR }:: ::Shiro::{ user=113005 } |
+| `#german` | [Deutsch](https://osu.ppy.sh/community/forums/37) | ::{ flag=DE }:: ::- Felix::{ user=8503985 }, ::{ flag=DE }:: ::Hopes::{ user=4907504 }, ::{ flag=DE }:: ::Lyawi::{ user=5851253 }, ::{ flag=DE }:: ::OnosakiHito::{ user=290128 }, ::{ flag=DE }:: ::RockRoller::{ user=8388854 }, ::{ flag=AT }:: ::Stefan::{ user=626907 } |
 | `#greek` |  |  |
 | `#hebrew` |  |  |
 | `#hungarian` | [Magyar](https://osu.ppy.sh/community/forums/95) |  |
-| `#indonesian` | [Indonesian](https://osu.ppy.sh/community/forums/73) | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991), ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) |
-| `#italian` | [Italiano](https://osu.ppy.sh/community/forums/36) | ::{ flag=IT }:: [- Marco -](https://osu.ppy.sh/users/1273955), ::{ flag=IT }:: [VoidGod](https://osu.ppy.sh/users/4724656) |
-| `#japanese` | [日本語](https://osu.ppy.sh/community/forums/32) | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107), ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772) |
-| `#korean` | [한국어](https://osu.ppy.sh/community/forums/58) | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) |
-| `#malaysian` | [Malaysian](https://osu.ppy.sh/community/forums/94) | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419), ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) |
-| `#polish` | [Polski](https://osu.ppy.sh/community/forums/26) | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570), ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631), ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) |
-| `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ::{ flag=BR }:: [DizzyH](https://osu.ppy.sh/users/9896172), ::{ flag=BR }:: [Jaguar](https://osu.ppy.sh/users/3660954), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
+| `#indonesian` | [Indonesian](https://osu.ppy.sh/community/forums/73) | ::{ flag=ID }:: ::Niva::{ user=197805 }, ::{ flag=ID }:: ::Shurelia::{ user=3807986 }, ::{ flag=ID }:: ::Sies::{ user=6491991 }, ::{ flag=ID }:: ::wowcake::{ user=16121851 } |
+| `#italian` | [Italiano](https://osu.ppy.sh/community/forums/36) | ::{ flag=IT }:: ::- Marco -::{ user=1273955 }, ::{ flag=IT }:: ::VoidGod::{ user=4724656 } |
+| `#japanese` | [日本語](https://osu.ppy.sh/community/forums/32) | ::{ flag=KR }:: ::Civil oath::{ user=3216107 }, ::{ flag=HK }:: ::kanpakyin::{ user=394326 }, ::{ flag=KR }:: ::Petit::{ user=4637369 }, ::{ flag=JP }:: ::S o h::{ user=2234772 } |
+| `#korean` | [한국어](https://osu.ppy.sh/community/forums/58) | ::{ flag=KR }:: ::Civil oath::{ user=3216107 }, ::{ flag=KR }:: ::Petit::{ user=4637369 } |
+| `#malaysian` | [Malaysian](https://osu.ppy.sh/community/forums/94) | ::{ flag=MY }:: ::bibitaru::{ user=4482419 }, ::{ flag=MY }:: ::QHideaki13::{ user=733998 } |
+| `#polish` | [Polski](https://osu.ppy.sh/community/forums/26) | ::{ flag=PL }:: ::Galkan::{ user=169570 }, ::{ flag=PL }:: ::Venix::{ user=5999631 }, ::{ flag=PL }:: ::Yason::{ user=2574392 } |
+| `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ::{ flag=BR }:: ::DizzyH::{ user=9896172 }, ::{ flag=BR }:: ::Jaguar::{ user=3660954 }, ::{ flag=BR }:: ::LeoFLT::{ user=3668779 } |
 | `#romanian` |  |  |
-| `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467), ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533), ::{ flag=RU }:: [Kudou Chitose](https://osu.ppy.sh/users/9936528), ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) |
-| `#skandinavian` | [Skandinavien](https://osu.ppy.sh/community/forums/77) | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) |
-| `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=VE }:: [Leon Brigido](https://osu.ppy.sh/users/13570072), ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392), ::{ flag=PE }:: [Tiburon](https://osu.ppy.sh/users/18115022) |
-| `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) | ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) |
-| `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) | ::{ flag=DE }:: [Hopes](https://osu.ppy.sh/users/4907504) |
+| `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ::{ flag=CH }:: ::\[ryuu\]::{ user=5698467 }, ::{ flag=RU }:: ::Kobold84::{ user=3227533 }, ::{ flag=RU }:: ::Kudou Chitose::{ user=9936528 }, ::{ flag=CH }:: ::TicClick::{ user=672931 } |
+| `#skandinavian` | [Skandinavien](https://osu.ppy.sh/community/forums/77) | ::{ flag=US }:: ::ChillierPear::{ user=9501251 }, ::{ flag=SE }:: ::Saten::{ user=444506 } |
+| `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ::{ flag=BR }:: ::LeoFLT::{ user=3668779 }, ::{ flag=VE }:: ::Leon Brigido::{ user=13570072 }, ::{ flag=MX }:: ::Repflez::{ user=201392 }, ::{ flag=PE }:: ::Tiburon::{ user=18115022 } |
+| `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) | ::{ flag=TH }:: ::Trigonoculus::{ user=7627013 } |
+| `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) | ::{ flag=DE }:: ::Hopes::{ user=4907504 } |
 | `#ukrainian` |  |  |
-| `#vietnamese` |  | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) |
+| `#vietnamese` |  | ::{ flag=VN }:: ::My Angel Chino::{ user=20547597 }, ::{ flag=ID }:: ::Sies::{ user=6491991 } |

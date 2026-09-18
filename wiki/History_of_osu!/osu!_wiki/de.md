@@ -14,44 +14,44 @@ Dieser Artikel enthält die wichtigsten Ereignisse in der **Geschichte des osu!-
 
 #### Dezember
 
-- **05.12.2011:** Das Grundgerüst des osu!-Wikis wurde aufgebaut, wobei ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) die ersten Bearbeitungen vornahm.
+- **05.12.2011:** Das Grundgerüst des osu!-Wikis wurde aufgebaut, wobei ::{ flag=AU }:: ::Ephemeral::{ user=102335 } die ersten Bearbeitungen vornahm.
 - **06.12.2011:** Das osu!-Wiki [wurde veröffentlicht](https://osu.ppy.sh/community/forums/topics/68525).
 
 ### 2012
 
 #### November
 
-- **29.11.2012:** ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) und ::{ flag=RU }:: [Dellirium](https://osu.ppy.sh/users/519032) wurden als MediaWiki-Admins des osu!-Wikis [hinzugefügt](https://osu.ppy.sh/community/forums/posts/1944044).
+- **29.11.2012:** ::{ flag=MX }:: ::Repflez::{ user=201392 } und ::{ flag=RU }:: ::Dellirium::{ user=519032 } wurden als MediaWiki-Admins des osu!-Wikis [hinzugefügt](https://osu.ppy.sh/community/forums/posts/1944044).
 
 ### 2013
 
 #### Januar
 
-- **27.01.2013:** ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) integrierte das osu!-Wiki in die [Hauptseite](https://osu.ppy.sh/community/forums/posts/2082803).
+- **27.01.2013:** ::{ flag=AU }:: ::peppy::{ user=2 } integrierte das osu!-Wiki in die [Hauptseite](https://osu.ppy.sh/community/forums/posts/2082803).
 
 ### 2014
 
 #### Dezember
 
 - **Unbekanntes Datum:** Das osu!-Wiki wurde zu einem wahren Informationszentrum für osu!, nachdem wesentliche Artikel wie das [osu!-Team](/wiki/People/osu!_team) und die [Regeln](/wiki/Rules) in das Wiki verschoben wurden.
-- **Unbekanntes Datum:** ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) und ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) wurden als MediaWiki-Admins des osu!-Wikis hinzugefügt.
+- **Unbekanntes Datum:** ::{ flag=NZ }:: ::deadbeat::{ user=128370 } und ::{ flag=DE }:: ::Loctav::{ user=71366 } wurden als MediaWiki-Admins des osu!-Wikis hinzugefügt.
 
 ### 2015
 
 #### Dezember
 
 - **Unbekanntes Datum:** Das osu!-Wiki erhielt einen Zustrom an Mitwirkenden, die Artikel in ihre Muttersprachen übersetzten.
-- **Unbekanntes Datum:** ::{ flag=RU }:: [Dellirium](https://osu.ppy.sh/users/519032)s Position als Admin wurde durch ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) ersetzt.
+- **Unbekanntes Datum:** ::{ flag=RU }:: ::Dellirium::{ user=519032 }s Position als Admin wurde durch ::{ flag=FR }:: ::Shiro::{ user=113005 } ersetzt.
 
 ### 2016
 
 #### Februar
 
-- **22.02.2016:** ::{ flag=PL }:: [Ukami](https://osu.ppy.sh/users/820865) und ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) wurden als MediaWiki-Admins des osu!-Wikis hinzugefügt.
+- **22.02.2016:** ::{ flag=PL }:: ::Ukami::{ user=820865 } und ::{ flag=PL }:: ::Galkan::{ user=169570 } wurden als MediaWiki-Admins des osu!-Wikis hinzugefügt.
 
 #### April
 
-- **01.04.2016:** ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) wurde als MediaWiki-Admin des osu!-Wikis hinzugefügt.
+- **01.04.2016:** ::{ flag=PH }:: ::Nathanael::{ user=2295078 } wurde als MediaWiki-Admin des osu!-Wikis hinzugefügt.
 
 #### August
 
@@ -71,18 +71,18 @@ Dieser Artikel enthält die wichtigsten Ereignisse in der **Geschichte des osu!-
 
 #### August
 
-- **26.08.2016:** ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) [erstellte das osu-wiki-Repository](https://github.com/ppy/osu-wiki/tree/3433cbeeda9303a470647cad1c338d43f4272a2e).
+- **26.08.2016:** ::{ flag=AU }:: ::peppy::{ user=2 } [erstellte das osu-wiki-Repository](https://github.com/ppy/osu-wiki/tree/3433cbeeda9303a470647cad1c338d43f4272a2e).
 
 #### September
 
-- **02.09.2016:** ::{ flag=US }:: [craftu](https://osu.ppy.sh/users/16468119) und ::{ flag=US }:: [XYLOO](https://osu.ppy.sh/users/27809907) schlossen die Übertragung des Großteils der alten Inhalte des osu!-Wikis von MediaWiki in das Repository ab. Dabei blieben nur die Bilder übrig und durch die Unterschiede zwischen der [Wikisyntax](https://de.wikipedia.org/wiki/Hilfe:Wikisyntax) (MediaWiki) und [Markdown](https://de.wikipedia.org/wiki/Markdown) (GitHub) enstanden einige Syntaxfehler.
+- **02.09.2016:** ::{ flag=US }:: ::craftu::{ user=16468119 } und ::{ flag=US }:: ::XYLOO::{ user=27809907 } schlossen die Übertragung des Großteils der alten Inhalte des osu!-Wikis von MediaWiki in das Repository ab. Dabei blieben nur die Bilder übrig und durch die Unterschiede zwischen der [Wikisyntax](https://de.wikipedia.org/wiki/Hilfe:Wikisyntax) (MediaWiki) und [Markdown](https://de.wikipedia.org/wiki/Markdown) (GitHub) enstanden einige Syntaxfehler.
 
 ### 2017
 
 #### Januar
 
-- **26.01.2017:** In einem [Development-Blogbeitrag](https://blog.ppy.sh/post/156390386433/2017-01-dev-meeting) sprach ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) über die bevorstehende Einbindung des osu!-Wikis in die osu!-Webseite.
-- **Unbekanntes Datum:** ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883) stellte die Backend-Unterstützung des neuen osu!-Wikis fertig, wodurch das Wiki vollständig in die osu!-Webseite integriert werden konnte.
+- **26.01.2017:** In einem [Development-Blogbeitrag](https://blog.ppy.sh/post/156390386433/2017-01-dev-meeting) sprach ::{ flag=AU }:: ::Ephemeral::{ user=102335 } über die bevorstehende Einbindung des osu!-Wikis in die osu!-Webseite.
+- **Unbekanntes Datum:** ::{ flag=JP }:: ::nanaya::{ user=2387883 } stellte die Backend-Unterstützung des neuen osu!-Wikis fertig, wodurch das Wiki vollständig in die osu!-Webseite integriert werden konnte.
 
 #### Mai
 
@@ -91,7 +91,7 @@ Dieser Artikel enthält die wichtigsten Ereignisse in der **Geschichte des osu!-
 
 #### Juni
 
-- **Unbekanntes Datum:** ::{ flag=PL }:: [TPGPL](https://osu.ppy.sh/users/3944705) wurde ein spezieller Schreibzugriff für das Repository des osu!-Wikis erteilt.
+- **Unbekanntes Datum:** ::{ flag=PL }:: ::TPGPL::{ user=3944705 } wurde ein spezieller Schreibzugriff für das Repository des osu!-Wikis erteilt.
 - **19.06.2017:** Eine [Suchfunktion](https://github.com/ppy/osu-web/pull/1259) wurde dem Wiki hinzugefügt.
 
 ### 2018
@@ -108,7 +108,7 @@ Dieser Artikel enthält die wichtigsten Ereignisse in der **Geschichte des osu!-
 
 #### Juni
 
-- **01.06.2021:** ::{ flag=ID }:: [GPR](https://osu.ppy.sh/users/10721349) implementierte das [osu!-Wiki-Overlay](https://github.com/ppy/osu/pull/12950) in [osu!(lazer)](/wiki/Client/Release_stream/Lazer), welches es ermöglicht, auf einige Seiten des Wikis direkt im osu!(lazer)-Client zuzugreifen.
+- **01.06.2021:** ::{ flag=ID }:: ::GPR::{ user=10721349 } implementierte das [osu!-Wiki-Overlay](https://github.com/ppy/osu/pull/12950) in [osu!(lazer)](/wiki/Client/Release_stream/Lazer), welches es ermöglicht, auf einige Seiten des Wikis direkt im osu!(lazer)-Client zuzugreifen.
 
 #### August
 

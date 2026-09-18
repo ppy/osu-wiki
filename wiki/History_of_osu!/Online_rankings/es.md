@@ -24,11 +24,11 @@ Numerosos jugadores han ocupado el puesto #1 en cada modo de juego en diferentes
 **Página principal:** [Historial de las clasificaciones de osu!](osu!)
 :::
 
-Desde el 11 de julio de 2026, en la [clasificación de rendimiento de osu!](https://osu.ppy.sh/rankings/osu/performance), el jugador en el puesto #1 es ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu).
+Desde el 11 de julio de 2026, en la [clasificación de rendimiento de osu!](https://osu.ppy.sh/rankings/osu/performance), el jugador en el puesto #1 es ::{ flag=AU }:: ::mrekk::{ user=7562902 }.
 
 ## ![][osu!taiko] osu!taiko
 
-Desde el 23 de julio de 2026, en la [clasificación de rendimiento de osu!taiko](https://osu.ppy.sh/rankings/taiko/performance), el jugador en el puesto #1 es ::{ flag=JP }:: [Sinon_33](https://osu.ppy.sh/users/31148838/taiko).
+Desde el 23 de julio de 2026, en la [clasificación de rendimiento de osu!taiko](https://osu.ppy.sh/rankings/taiko/performance), el jugador en el puesto #1 es ::{ flag=JP }:: ::Sinon_33::{ user=31148838 }.
 
 ## ![][osu!catch] osu!catch
 
@@ -36,11 +36,11 @@ Desde el 23 de julio de 2026, en la [clasificación de rendimiento de osu!taiko]
 **Página principal:** [Historial de las clasificaciones de osu!catch](osu!catch)
 :::
 
-Desde el 21 de julio de 2026, en la [clasificación de rendimiento de osu!catch](https://osu.ppy.sh/rankings/fruits/performance), el jugador en el puesto #1 es ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626/fruits).
+Desde el 21 de julio de 2026, en la [clasificación de rendimiento de osu!catch](https://osu.ppy.sh/rankings/fruits/performance), el jugador en el puesto #1 es ::{ flag=KR }:: ::Motion::{ user=3885626 }.
 
 ## ![][osu!mania] osu!mania
 
-Desde el 4 de abril de 2026, en la [clasificación de rendimiento de osu!mania](https://osu.ppy.sh/rankings/mania/performance), el jugador en el puesto #1 es ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649/mania).
+Desde el 4 de abril de 2026, en la [clasificación de rendimiento de osu!mania](https://osu.ppy.sh/rankings/mania/performance), el jugador en el puesto #1 es ::{ flag=KR }:: ::Kalkai::{ user=10790649 }.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

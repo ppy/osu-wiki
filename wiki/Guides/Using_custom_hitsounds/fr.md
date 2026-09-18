@@ -65,4 +65,4 @@ Lorsque le jeu d'échantillons d'un point de synchronisation hérité est régl�
 
 ## Sources externes
 
-- [réponse du forum *how to add custom hitsound?*](https://osu.ppy.sh/community/forums/posts/3215699) par [neonat](https://osu.ppy.sh/users/1561995)
+- [réponse du forum *how to add custom hitsound?*](https://osu.ppy.sh/community/forums/posts/3215699) par ::neonat::{ user=1561995 }

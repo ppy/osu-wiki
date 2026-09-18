@@ -44,17 +44,17 @@ The osu! Philippines Quickfire Showdown 2023 was run by various community member
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927), ::{ flag=PH }:: [ToshiroKen](https://osu.ppy.sh/users/9550257), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [EnIite](https://osu.ppy.sh/users/13470730) |
-| Mappool selector | ::{ flag=PH }:: [xidorn](https://osu.ppy.sh/users/7904667), ::{ flag=PH }:: [Cohue](https://osu.ppy.sh/users/12538598) |
-| Custom mapper | ::{ flag=PH }:: [Anastaxia](https://osu.ppy.sh/users/5375302), ::{ flag=PH }:: [flake](https://osu.ppy.sh/users/7627157), ::{ flag=PH }:: [Kyuuchie](https://osu.ppy.sh/users/11057641), ::{ flag=PH }:: [iFinixe](https://osu.ppy.sh/users/10501608), ::{ flag=PH }:: [Onegai](https://osu.ppy.sh/users/11849100), ::{ flag=PH }:: [newton-](https://osu.ppy.sh/users/5875419), ::{ flag=PH }:: [Amateurre](https://osu.ppy.sh/users/7326908) |
-| Playtester | ::{ flag=PH }:: [ToshiroKen](https://osu.ppy.sh/users/9550257), ::{ flag=PH }:: [GADO](https://osu.ppy.sh/users/1519847), ::{ flag=US }:: [SilenceSuzuka](https://osu.ppy.sh/users/7249644), ::{ flag=SA }:: [-Peachii](https://osu.ppy.sh/users/9683186), ::{ flag=PH }:: [xX_MusicMan_Xx](https://osu.ppy.sh/users/5718989), ::{ flag=PH }:: [Hinatsuru Ai](https://osu.ppy.sh/users/10442993), ::{ flag=PH }:: [zonelouise](https://osu.ppy.sh/users/1492995) |
-| Spreadsheet manager | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866) |
-| Graphic designer | ::{ flag=PH }:: [FLCammo](https://osu.ppy.sh/users/18789292), ::{ flag=PH }:: [mjk](https://osu.ppy.sh/users/19607673), ::{ flag=PH }:: [muffleberry](https://osu.ppy.sh/users/8978259), ::{ flag=PH }:: [KouMyMommy](https://osu.ppy.sh/users/23541645), ::{ flag=PH }:: [Miyazumi](https://osu.ppy.sh/users/7991329), ::{ flag=PH }:: [Inflique](https://osu.ppy.sh/users/13865585), ::{ flag=PH }:: [Nitrous](https://osu.ppy.sh/users/7293512) |
-| Stream operator | ::{ flag=PH }:: [Sharuru](https://osu.ppy.sh/users/3436126), ::{ flag=PH }:: [-Ichinose](https://osu.ppy.sh/users/12635292), ::{ flag=PH }:: [Nitrous](https://osu.ppy.sh/users/7293512) |
-| Commentator | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [EnIilte](https://osu.ppy.sh/users/13470730), ::{ flag=PH }:: [Miyazumi](https://osu.ppy.sh/users/7991329), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573), ::{ flag=PH }:: [Toadette](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [fafa](https://osu.ppy.sh/users/12372097), ::{ flag=PH }:: [zonelouise](https://osu.ppy.sh/users/1492995), ::{ flag=PH }:: [Nathos](https://osu.ppy.sh/users/4785223), ::{ flag=PH }:: [Kageno](https://osu.ppy.sh/users/7246165), ::{ flag=PH }:: [Zaphirox](https://osu.ppy.sh/users/2478675), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550) |
-| Referee | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [-Ichinose](https://osu.ppy.sh/users/12635292), ::{ flag=PH }:: [ToshiroKen](https://osu.ppy.sh/users/9550257), ::{ flag=PH }:: [IDan24](https://osu.ppy.sh/users/11730796), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573), ::{ flag=PH }:: [Flakens](https://osu.ppy.sh/users/13583261), ::{ flag=PH }:: [Toadette](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [arccat](https://osu.ppy.sh/users/4848294), ::{ flag=PH }:: [Ciirno](https://osu.ppy.sh/users/4189963), ::{ flag=PH }:: [zaynaku](https://osu.ppy.sh/users/5439033), ::{ flag=PH }:: [-Hanamaru-](https://osu.ppy.sh/users/11348518), ::{ flag=PH }:: [-PeKoRa-](https://osu.ppy.sh/users/17959882), ::{ flag=PH }:: [Komi Shouko](https://osu.ppy.sh/users/12117146), ::{ flag=PH }:: [-Oblivion](https://osu.ppy.sh/users/18810732), ::{ flag=PH }:: [Sam1Ko](https://osu.ppy.sh/users/24435526) |
-| Programmer | ::{ flag=PH }:: [Nitrous](https://osu.ppy.sh/users/7293512), ::{ flag=NL }:: [DannyPX](https://osu.ppy.sh/users/11253722), ::{ flag=RU }:: [DeadRote](https://osu.ppy.sh/users/7943969) |
-| Wiki writer | ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) |
+| Host | ::{ flag=PH }:: ::topecnz::{ user=2103927 }, ::{ flag=PH }:: ::ToshiroKen::{ user=9550257 }, ::{ flag=PH }:: ::SurfChu85::{ user=4469895 }, ::{ flag=PH }:: ::EnIite::{ user=13470730 } |
+| Mappool selector | ::{ flag=PH }:: ::xidorn::{ user=7904667 }, ::{ flag=PH }:: ::Cohue::{ user=12538598 } |
+| Custom mapper | ::{ flag=PH }:: ::Anastaxia::{ user=5375302 }, ::{ flag=PH }:: ::flake::{ user=7627157 }, ::{ flag=PH }:: ::Kyuuchie::{ user=11057641 }, ::{ flag=PH }:: ::iFinixe::{ user=10501608 }, ::{ flag=PH }:: ::Onegai::{ user=11849100 }, ::{ flag=PH }:: ::newton-::{ user=5875419 }, ::{ flag=PH }:: ::Amateurre::{ user=7326908 } |
+| Playtester | ::{ flag=PH }:: ::ToshiroKen::{ user=9550257 }, ::{ flag=PH }:: ::GADO::{ user=1519847 }, ::{ flag=US }:: ::SilenceSuzuka::{ user=7249644 }, ::{ flag=SA }:: ::-Peachii::{ user=9683186 }, ::{ flag=PH }:: ::xX_MusicMan_Xx::{ user=5718989 }, ::{ flag=PH }:: ::Hinatsuru Ai::{ user=10442993 }, ::{ flag=PH }:: ::zonelouise::{ user=1492995 } |
+| Spreadsheet manager | ::{ flag=PH }:: ::SurfChu85::{ user=4469895 }, ::{ flag=NL }:: ::Albionthegreat::{ user=9853595 }, ::{ flag=HK }:: ::ShadeCegLgMn::{ user=12609866 } |
+| Graphic designer | ::{ flag=PH }:: ::FLCammo::{ user=18789292 }, ::{ flag=PH }:: ::mjk::{ user=19607673 }, ::{ flag=PH }:: ::muffleberry::{ user=8978259 }, ::{ flag=PH }:: ::KouMyMommy::{ user=23541645 }, ::{ flag=PH }:: ::Miyazumi::{ user=7991329 }, ::{ flag=PH }:: ::Inflique::{ user=13865585 }, ::{ flag=PH }:: ::Nitrous::{ user=7293512 } |
+| Stream operator | ::{ flag=PH }:: ::Sharuru::{ user=3436126 }, ::{ flag=PH }:: ::-Ichinose::{ user=12635292 }, ::{ flag=PH }:: ::Nitrous::{ user=7293512 } |
+| Commentator | ::{ flag=PH }:: ::SurfChu85::{ user=4469895 }, ::{ flag=PH }:: ::EnIilte::{ user=13470730 }, ::{ flag=PH }:: ::Miyazumi::{ user=7991329 }, ::{ flag=PH }:: ::lenpai::{ user=5314573 }, ::{ flag=PH }:: ::Toadette::{ user=11517895 }, ::{ flag=PH }:: ::fafa::{ user=12372097 }, ::{ flag=PH }:: ::zonelouise::{ user=1492995 }, ::{ flag=PH }:: ::Nathos::{ user=4785223 }, ::{ flag=PH }:: ::Kageno::{ user=7246165 }, ::{ flag=PH }:: ::Zaphirox::{ user=2478675 }, ::{ flag=PH }:: ::yukina meng::{ user=9919550 } |
+| Referee | ::{ flag=PH }:: ::SurfChu85::{ user=4469895 }, ::{ flag=PH }:: ::-Ichinose::{ user=12635292 }, ::{ flag=PH }:: ::ToshiroKen::{ user=9550257 }, ::{ flag=PH }:: ::IDan24::{ user=11730796 }, ::{ flag=PH }:: ::lenpai::{ user=5314573 }, ::{ flag=PH }:: ::Flakens::{ user=13583261 }, ::{ flag=PH }:: ::Toadette::{ user=11517895 }, ::{ flag=PH }:: ::arccat::{ user=4848294 }, ::{ flag=PH }:: ::Ciirno::{ user=4189963 }, ::{ flag=PH }:: ::zaynaku::{ user=5439033 }, ::{ flag=PH }:: ::-Hanamaru-::{ user=11348518 }, ::{ flag=PH }:: ::-PeKoRa-::{ user=17959882 }, ::{ flag=PH }:: ::Komi Shouko::{ user=12117146 }, ::{ flag=PH }:: ::-Oblivion::{ user=18810732 }, ::{ flag=PH }:: ::Sam1Ko::{ user=24435526 } |
+| Programmer | ::{ flag=PH }:: ::Nitrous::{ user=7293512 }, ::{ flag=NL }:: ::DannyPX::{ user=11253722 }, ::{ flag=RU }:: ::DeadRote::{ user=7943969 } |
+| Wiki writer | ::{ flag=PH }:: ::topecnz::{ user=2103927 } |
 
 ## Links
 
@@ -66,39 +66,39 @@ The osu! Philippines Quickfire Showdown 2023 was run by various community member
 
 - Day 1
   - Confirmed
-    - ::{ flag=PH }:: [Impowster](https://osu.ppy.sh/users/13484596)
-    - ::{ flag=PH }:: [rwnd_](https://osu.ppy.sh/users/14916935)
-    - ::{ flag=PH }:: [CircIes](https://osu.ppy.sh/users/9930573)
-    - ::{ flag=PH }:: [xjfn](https://osu.ppy.sh/users/9326546)
-    - ::{ flag=PH }:: [Desmond823](https://osu.ppy.sh/users/14582737)
-    - ::{ flag=PH }:: [fixedbyglue](https://osu.ppy.sh/users/8296269)
-    - ::{ flag=PH }:: [rexralph1](https://osu.ppy.sh/users/18499824)
-    - ::{ flag=PH }:: [Nyashwa](https://osu.ppy.sh/users/9834366)
-    - ::{ flag=PH }:: [Geanyl](https://osu.ppy.sh/users/10038631)
-    - ::{ flag=PH }:: [Buizie](https://osu.ppy.sh/users/4795670)
+    - ::{ flag=PH }:: ::Impowster::{ user=13484596 }
+    - ::{ flag=PH }:: ::rwnd_::{ user=14916935 }
+    - ::{ flag=PH }:: ::CircIes::{ user=9930573 }
+    - ::{ flag=PH }:: ::xjfn::{ user=9326546 }
+    - ::{ flag=PH }:: ::Desmond823::{ user=14582737 }
+    - ::{ flag=PH }:: ::fixedbyglue::{ user=8296269 }
+    - ::{ flag=PH }:: ::rexralph1::{ user=18499824 }
+    - ::{ flag=PH }:: ::Nyashwa::{ user=9834366 }
+    - ::{ flag=PH }:: ::Geanyl::{ user=10038631 }
+    - ::{ flag=PH }:: ::Buizie::{ user=4795670 }
 - Day 2
   - Confirmed
-    - ::{ flag=PH }:: [NathanRam1918](https://osu.ppy.sh/users/4734703)
-    - ::{ flag=PH }:: [Yukixo](https://osu.ppy.sh/users/17847877)
-    - ::{ flag=PH }:: [LordGabriel](https://osu.ppy.sh/users/9227895)
-    - ::{ flag=PH }:: [Miggie](https://osu.ppy.sh/users/12028437)
-    - ::{ flag=PH }:: [-Myhra](https://osu.ppy.sh/users/2558163)
-    - ::{ flag=PH }:: [Lunasen_](https://osu.ppy.sh/users/15216246)
-    - ::{ flag=PH }:: [Segawa Emi](https://osu.ppy.sh/users/11865009)
-    - ::{ flag=PH }:: [bluezenithgames](https://osu.ppy.sh/users/12681578)
-    - ::{ flag=PH }:: [OsuSeulgiDragon](https://osu.ppy.sh/users/6073492)
-    - ::{ flag=PH }:: [Blasy](https://osu.ppy.sh/users/15317621)
-    - ::{ flag=PH }:: [Kexrus](https://osu.ppy.sh/users/12634710)
-    - ::{ flag=PH }:: [okirema](https://osu.ppy.sh/users/12544805)
-    - ::{ flag=PH }:: [Ravel](https://osu.ppy.sh/users/15902214)
-    - ::{ flag=PH }:: [Dunn](https://osu.ppy.sh/users/7241691)
-    - ::{ flag=PH }:: [T-Spin-Double](https://osu.ppy.sh/users/8249051)
-    - ::{ flag=PH }:: [CasualHexagons](https://osu.ppy.sh/users/14104256)
+    - ::{ flag=PH }:: ::NathanRam1918::{ user=4734703 }
+    - ::{ flag=PH }:: ::Yukixo::{ user=17847877 }
+    - ::{ flag=PH }:: ::LordGabriel::{ user=9227895 }
+    - ::{ flag=PH }:: ::Miggie::{ user=12028437 }
+    - ::{ flag=PH }:: ::-Myhra::{ user=2558163 }
+    - ::{ flag=PH }:: ::Lunasen_::{ user=15216246 }
+    - ::{ flag=PH }:: ::Segawa Emi::{ user=11865009 }
+    - ::{ flag=PH }:: ::bluezenithgames::{ user=12681578 }
+    - ::{ flag=PH }:: ::OsuSeulgiDragon::{ user=6073492 }
+    - ::{ flag=PH }:: ::Blasy::{ user=15317621 }
+    - ::{ flag=PH }:: ::Kexrus::{ user=12634710 }
+    - ::{ flag=PH }:: ::okirema::{ user=12544805 }
+    - ::{ flag=PH }:: ::Ravel::{ user=15902214 }
+    - ::{ flag=PH }:: ::Dunn::{ user=7241691 }
+    - ::{ flag=PH }:: ::T-Spin-Double::{ user=8249051 }
+    - ::{ flag=PH }:: ::CasualHexagons::{ user=14104256 }
   - Substitute
-    - ::{ flag=PH }:: [Hetzer357](https://osu.ppy.sh/users/22690359)
-    - ::{ flag=PH }:: [Tsk](https://osu.ppy.sh/users/14389528)
-    - ::{ flag=PH }:: [FiddleMinger](https://osu.ppy.sh/users/10300115)
-    - ::{ flag=PH }:: [Tonskiii](https://osu.ppy.sh/users/11958707)
+    - ::{ flag=PH }:: ::Hetzer357::{ user=22690359 }
+    - ::{ flag=PH }:: ::Tsk::{ user=14389528 }
+    - ::{ flag=PH }:: ::FiddleMinger::{ user=10300115 }
+    - ::{ flag=PH }:: ::Tonskiii::{ user=11958707 }
 
 ## Podium
 
@@ -108,17 +108,17 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: [Impowster](https://osu.ppy.sh/users/13484596) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [CircIes](https://osu.ppy.sh/users/9930573) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: [fixedbyglue](https://osu.ppy.sh/users/8296269) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: ::Impowster::{ user=13484596 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: ::CircIes::{ user=9930573 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: ::fixedbyglue::{ user=8296269 } |
 
 ### 2023-06-03 (day 2)
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: [NathanRam1918](https://osu.ppy.sh/users/4734703) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [Miggie](https://osu.ppy.sh/users/12028437) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: [Lunasen_](https://osu.ppy.sh/users/15216246) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: ::NathanRam1918::{ user=4734703 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: ::Miggie::{ user=12028437 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: ::Lunasen_::{ user=15216246 } |
 
 ## Mappools
 

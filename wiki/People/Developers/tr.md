@@ -19,36 +19,36 @@ osu!'nun geliştiricileri pembe kullanıcı renklerinden ve "osu!dev" ya da "osu
 
 [Geliştiriciler grup sayfası](https://osu.ppy.sh/groups/11) tüm ekip üyelerini listeler.
 
-osu! geliştirme çalışması osu!'nun yaratıcısı ::{ flag=AU }:: **[peppy](https://osu.ppy.sh/users/2)** tarafından yönetilmektedir.
+osu! geliştirme çalışması osu!'nun yaratıcısı ::{ flag=AU }:: **::peppy::{ user=2 }** tarafından yönetilmektedir.
 
 ### Oyun istemcisi geliştiricileri
 
-- ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377)
-- ::{ flag=SK }:: [Domco](https://osu.ppy.sh/users/3562660)
-- ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094)
-- ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
-- ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328)
-- ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058)
+- ::{ flag=FR }:: ::Damnae::{ user=989377 }
+- ::{ flag=SK }:: ::Domco::{ user=3562660 }
+- ::{ flag=NO }:: ::MillhioreF::{ user=941094 }
+- ::{ flag=AU }:: ::peppy::{ user=2 }
+- ::{ flag=AU }:: ::smoogipoo::{ user=1040328 }
+- ::{ flag=DE }:: ::Tom94::{ user=1857058 }
 
 ### Web sayfası ve sunucu geliştiricileri
 
-- ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883)
-- ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102)
-- ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776)
-- ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
-- ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)
+- ::{ flag=JP }:: ::nanaya::{ user=2387883 }
+- ::{ flag=AU }:: ::nekodex::{ user=102 }
+- ::{ flag=JP }:: ::notbakaneko::{ user=10751776 }
+- ::{ flag=AU }:: ::peppy::{ user=2 }
+- ::{ flag=FR }:: ::ThePooN::{ user=718454 }
 
 ### Tasarımcılar
 
-- ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765)
-- ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202)
+- ::{ flag=JP }:: ::flyte::{ user=3103765 }
+- ::{ flag=US }:: ::RBRat3::{ user=307202 }
 
 ### Topluluk yöneticileri
 
-- ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335)
-- ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
-- ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328)
+- ::{ flag=AU }:: ::Ephemeral::{ user=102335 }
+- ::{ flag=AU }:: ::peppy::{ user=2 }
+- ::{ flag=AU }:: ::smoogipoo::{ user=1040328 }
 
 ### Bot hesaplar
 
-- ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397)
+- ::{ flag=AU }:: ::osu!team::{ user=4341397 }

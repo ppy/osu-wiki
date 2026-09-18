@@ -19,7 +19,7 @@ Okno czatu można otworzyć z większości ekranów klienta poprzez naciśnięci
 | **Czerwony** | [Moderatorzy globalni](/wiki/People/Global_Moderation_Team) lub członkowie [zespołu NAT](/wiki/People/The_Team/Nomination_Assessment_Team) |
 | **Zielony** | Wiadomość zawierająca twoją nazwę użytkownika lub słowo, które dodałeś do listy wywołujących [podświetlenie](Highlight) na czacie. Kopia tej wiadomości pojawi się także na kanale `#highlight` zawierającym wszystkie tego typu wiadomości. |
 | **Niebieski** | Wiadomość prywatna |
-| **Turkusowy** | [peppy](https://osu.ppy.sh/users/2), twórca osu! |
+| **Turkusowy** | ::peppy::{ user=2 }, twórca osu! |
 | **Różowy** | [BanchoBot](/wiki/BanchoBot) |
 
 - Kliknij przycisk `Show Ticker`, aby nowe wiadomości były wyświetlane na dole ekranu, nawet gdy okno czatu jest ukryte.
@@ -81,7 +81,7 @@ Aby wybrać opcję, kliknij ją lub naciśnij odpowiedni numer na klawiaturze:
 | `/addfriend [użytkownik]` | Dodaje `[użytkownika]` do znajomych. | `/addfriend Amigo` | You are now friends with Amigo. |
 | `/delfriend [użytkownik]` | Usuwa `[użytkownika]` ze znajomych. | `/delfriend Amigo` | You are no longer friends with Amigo. |
 | `/away [wiadomość]` | Ustawia automatyczną wiadomość wysyłaną przy braku aktywności do osób piszących do ciebie w prywatnej wiadomości. Pozostaw puste, aby usunąć. | `/away Nazywam się John Smith.` | You have been marked as being away: Nazywam się John Smith. Kiedy Amigo napisze /msg John Gdzie jesteś~? BanchoBot: Nazywam się John Smith. |
-| `/bb` | Wysyła wiadomość do Bancho, aby użyć wybranej komendy, jak na przykład `!stats [user]` | `/bb !stats Uan` | \[15/11/12\] Stats for [Uan](https://osu.ppy.sh/users/147623): Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
+| `/bb` | Wysyła wiadomość do Bancho, aby użyć wybranej komendy, jak na przykład `!stats [user]` | `/bb !stats Uan` | \[15/11/12\] Stats for ::Uan::{ user=147623 }: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
 | `/chat [użytkownik]` lub `/msg [użytkownik]` lub `/query [użytkownik]` | Otwiera czat z danym użytkownikiem. | `/chat Amigo` | (czat z Amigo zostanie otwarty) |
 | `/clear` | Czyści wszystkie wiadomości z czatu. | `/clear` | (czyści praktycznie wszystko, co znajduje się w obecnie wybranej zakładce) |
 | `/ignore [użytkownik][@chp]` | Ignoruje wszystkie wiadomości danego użytkownika podczas tej sesji. Jeżeli po nazwie użytkownika wprowadzisz litery `c`, `h` czy `p` poprzedzone znakiem `@`, możesz ignorować użytkownika odpowiednio na czacie, we [wzmiankach](Highlight) lub w prywatnej wiadomości. | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (Twój czat od teraz będzie ignorować: wszystkie wiadomości od użytkownika Amigo \[c\], wszystkie wiadomości wywołujące podświetlenie od użytkownika Amigo \[h\], wszystkie wiadomości prywatne od użytkownika Amigo \[p\]) |

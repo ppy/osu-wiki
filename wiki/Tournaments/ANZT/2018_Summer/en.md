@@ -2,7 +2,7 @@
 
 ![ANZT 5S logo](img/logo.jpg)
 
-The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a 1v1 double elimination osu! tournament hosted by ::{ flag=NZ }:: [Diony](https://osu.ppy.sh/users/4294475), ::{ flag=AU }:: [Melt3dCheeze](https://osu.ppy.sh/users/634837), ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135), ::{ flag=US }:: [noctisv_v](https://osu.ppy.sh/users/6775083) and ::{ flag=AU }:: [Quite Cynical](https://osu.ppy.sh/users/3361154). It was the fifth instalment of the Aus/NZ tourneys.
+The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a 1v1 double elimination osu! tournament hosted by ::{ flag=NZ }:: ::Diony::{ user=4294475 }, ::{ flag=AU }:: ::Melt3dCheeze::{ user=634837 }, ::{ flag=AU }:: ::EmeraldStar82::{ user=3772135 }, ::{ flag=US }:: ::noctisv_v::{ user=6775083 } and ::{ flag=AU }:: ::Quite Cynical::{ user=3361154 }. It was the fifth instalment of the Aus/NZ tourneys.
 
 ## Tournament schedule
 
@@ -30,13 +30,13 @@ The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a 1v1 doub
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=NZ }:: [Diony](https://osu.ppy.sh/users/4294475), ::{ flag=AU }:: [Melt3dCheeze](https://osu.ppy.sh/users/634837), ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135), ::{ flag=US }:: [noctisv_v](https://osu.ppy.sh/users/6775083), ::{ flag=AU }:: [Quite Cynical](https://osu.ppy.sh/users/3361154) |
-| Scheduler | ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135) |
-| Commentator | ::{ flag=AU }:: [Kano](https://osu.ppy.sh/users/3036203), ::{ flag=AU }:: [BranOtaku](https://osu.ppy.sh/users/6861227), ::{ flag=AU }:: [Noobsicle](https://osu.ppy.sh/users/3432672), ::{ flag=NZ }:: [shortpotato](https://osu.ppy.sh/users/1266102), ::{ flag=AU }:: [Rairiku](https://osu.ppy.sh/users/4945688), ::{ flag=AU }:: [Blobby3000](https://osu.ppy.sh/users/6916774) |
-| Streamer | ::{ flag=AU }:: [BranOtaku](https://osu.ppy.sh/users/6861227), ::{ flag=US }:: [noctisv_v](https://osu.ppy.sh/users/6775083), ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135), ::{ flag=AU }:: [Melt3dCheeze](https://osu.ppy.sh/users/634837), ::{ flag=US }:: [CornLord7117](https://osu.ppy.sh/users/6699829), ::{ flag=AU }:: [Blobby3000](https://osu.ppy.sh/users/6916774) |
-| Referee | ::{ flag=US }:: [noctisv_v](https://osu.ppy.sh/users/6775083), ::{ flag=NZ }:: [Diony](https://osu.ppy.sh/users/4294475), ::{ flag=AU }:: [RoseAntebellum](https://osu.ppy.sh/users/3944288), ::{ flag=AU }:: [Illinon](https://osu.ppy.sh/users/8306102), ::{ flag=AU }:: [Vex](https://osu.ppy.sh/users/1151852), ::{ flag=AU }:: [Poi Yasu](https://osu.ppy.sh/users/6733334), ::{ flag=AU }:: [Quite Cynical](https://osu.ppy.sh/users/3361154), ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135), ::{ flag=AU }:: [Melt3dCheeze](https://osu.ppy.sh/users/634837), ::{ flag=NZ }:: [-Akito](https://osu.ppy.sh/users/5716327), ::{ flag=AU }:: [BranOtaku](https://osu.ppy.sh/users/6861227), ::{ flag=US }:: [trey-](https://osu.ppy.sh/users/8784747) |
-| Mappool selector | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044), ::{ flag=US }:: [Axarious](https://osu.ppy.sh/users/2614511), ::{ flag=US }:: [noctisv_v](https://osu.ppy.sh/users/6775083), ::{ flag=AU }:: [Quite Cynical](https://osu.ppy.sh/users/3361154) |
-| Designer | ::{ flag=NZ }:: [-Akito](https://osu.ppy.sh/users/5716327) |
+| Manager | ::{ flag=NZ }:: ::Diony::{ user=4294475 }, ::{ flag=AU }:: ::Melt3dCheeze::{ user=634837 }, ::{ flag=AU }:: ::EmeraldStar82::{ user=3772135 }, ::{ flag=US }:: ::noctisv_v::{ user=6775083 }, ::{ flag=AU }:: ::Quite Cynical::{ user=3361154 } |
+| Scheduler | ::{ flag=AU }:: ::EmeraldStar82::{ user=3772135 } |
+| Commentator | ::{ flag=AU }:: ::Kano::{ user=3036203 }, ::{ flag=AU }:: ::BranOtaku::{ user=6861227 }, ::{ flag=AU }:: ::Noobsicle::{ user=3432672 }, ::{ flag=NZ }:: ::shortpotato::{ user=1266102 }, ::{ flag=AU }:: ::Rairiku::{ user=4945688 }, ::{ flag=AU }:: ::Blobby3000::{ user=6916774 } |
+| Streamer | ::{ flag=AU }:: ::BranOtaku::{ user=6861227 }, ::{ flag=US }:: ::noctisv_v::{ user=6775083 }, ::{ flag=AU }:: ::EmeraldStar82::{ user=3772135 }, ::{ flag=AU }:: ::Melt3dCheeze::{ user=634837 }, ::{ flag=US }:: ::CornLord7117::{ user=6699829 }, ::{ flag=AU }:: ::Blobby3000::{ user=6916774 } |
+| Referee | ::{ flag=US }:: ::noctisv_v::{ user=6775083 }, ::{ flag=NZ }:: ::Diony::{ user=4294475 }, ::{ flag=AU }:: ::RoseAntebellum::{ user=3944288 }, ::{ flag=AU }:: ::Illinon::{ user=8306102 }, ::{ flag=AU }:: ::Vex::{ user=1151852 }, ::{ flag=AU }:: ::Poi Yasu::{ user=6733334 }, ::{ flag=AU }:: ::Quite Cynical::{ user=3361154 }, ::{ flag=AU }:: ::EmeraldStar82::{ user=3772135 }, ::{ flag=AU }:: ::Melt3dCheeze::{ user=634837 }, ::{ flag=NZ }:: ::-Akito::{ user=5716327 }, ::{ flag=AU }:: ::BranOtaku::{ user=6861227 }, ::{ flag=US }:: ::trey-::{ user=8784747 } |
+| Mappool selector | ::{ flag=AU }:: ::Dumii::{ user=3068044 }, ::{ flag=US }:: ::Axarious::{ user=2614511 }, ::{ flag=US }:: ::noctisv_v::{ user=6775083 }, ::{ flag=AU }:: ::Quite Cynical::{ user=3361154 } |
+| Designer | ::{ flag=NZ }:: ::-Akito::{ user=5716327 } |
 
 ## Links
 
@@ -50,9 +50,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=AU }:: [Lunirs](https://osu.ppy.sh/users/2118945) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=AU }:: [Blobby3000](https://osu.ppy.sh/users/6916774) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=AU }:: [TheOmyNomy](https://osu.ppy.sh/users/4241054) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=AU }:: ::Lunirs::{ user=2118945 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=AU }:: ::Blobby3000::{ user=6916774 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=AU }:: ::TheOmyNomy::{ user=4241054 } |
 
 ## Mappools
 

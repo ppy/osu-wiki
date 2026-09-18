@@ -17,7 +17,7 @@ A hefty **22** pre-timed songs are up for grabs on [**keyesgen**'s Featured Arti
 
 ### keyesgen - Holy Roller
 
-You thought [COE 2026](/wiki/Community/cavoe's_osu!_event/2026) was over? That's ridiculous. Just a few minutes ago, someone set a score on [Noa Himesaka](https://osu.ppy.sh/users/10868788)'s [Holy Roller](https://osu.ppy.sh/beatmapsets/2555973) right in front of the giant pippi mural in the event hall.
+You thought [COE 2026](/wiki/Community/cavoe's_osu!_event/2026) was over? That's ridiculous. Just a few minutes ago, someone set a score on ::Noa Himesaka::{ user=10868788 }'s [Holy Roller](https://osu.ppy.sh/beatmapsets/2555973) right in front of the giant pippi mural in the event hall.
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -27,7 +27,7 @@ You thought [COE 2026](/wiki/Community/cavoe's_osu!_event/2026) was over? That's
 
 ### keyesgen & Miyamo - branching wires
 
-This song was made specifically for the 10th anniversary of *HATSUNE MIKU EXPO*, and [this map](https://osu.ppy.sh/beatmapsets/2540798) by [Ianos](https://osu.ppy.sh/users/9351553) was made specifically for you.
+This song was made specifically for the 10th anniversary of *HATSUNE MIKU EXPO*, and [this map](https://osu.ppy.sh/beatmapsets/2540798) by ::Ianos::{ user=9351553 } was made specifically for you.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/558/the%20mushroom%20forest%20compilation/keyesgen%20%26%20Miyamo%20-%20branching%20wires.mp3">

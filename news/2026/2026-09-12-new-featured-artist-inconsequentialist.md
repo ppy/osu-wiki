@@ -36,8 +36,8 @@ With this much variety, the only way to really understand it is to listen for yo
 
 Try out a couple slow-mo maps that were recently Ranked:
 
-- [osu! map](https://osu.ppy.sh/beatmapsets/2539609) hosted by [Nakano-](https://osu.ppy.sh/users/1893953)
-- [osu!catch map](https://osu.ppy.sh/beatmapsets/2523411) hosted by [mieldeprairie](https://osu.ppy.sh/users/19290397)
+- [osu! map](https://osu.ppy.sh/beatmapsets/2539609) hosted by ::Nakano-::{ user=1893953 }
+- [osu!catch map](https://osu.ppy.sh/beatmapsets/2523411) hosted by ::mieldeprairie::{ user=19290397 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/566/shadows/countingstars%20-%20shadows.mp3">
@@ -45,7 +45,7 @@ Try out a couple slow-mo maps that were recently Ranked:
 
 ### The Promise, The Lie - The Lie
 
-Or try [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2580472) produced by [the song's creator](https://osu.ppy.sh/users/7792315)!
+Or try [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2580472) produced by ::the song's creator::{ user=7792315 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/566/The%20Promise%2C%20The%20Lie/The%20Promise%2C%20The%20Lie%20-%20The%20Lie.mp3">

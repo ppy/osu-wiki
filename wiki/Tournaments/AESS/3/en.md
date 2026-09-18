@@ -8,7 +8,7 @@ tags:
 
 ![AESS3 logo](img/banner.png)
 
-The **Aetherian's Summer Singles 3** (***AESS3***) was a 1v1 double-elimination tournament hosted by ::{ flag=FI }:: [Aetherian](https://osu.ppy.sh/users/6263040). It was the third instalment of the Aetherian's Summer Singles.
+The **Aetherian's Summer Singles 3** (***AESS3***) was a 1v1 double-elimination tournament hosted by ::{ flag=FI }:: ::Aetherian::{ user=6263040 }. It was the third instalment of the Aetherian's Summer Singles.
 
 ## Tournament schedule
 
@@ -40,14 +40,14 @@ The Aetherian's Summer Singles 3 is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=FI }:: [Aetherian](https://osu.ppy.sh/users/6263040) |
-| Admin | ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016) |
-| Moderator | ::{ flag=US }:: [Sohlayce](https://osu.ppy.sh/users/17649736), ::{ flag=US }:: [Varler](https://osu.ppy.sh/users/2504750) |
-| Mappool selector | ::{ flag=FI }:: [Pickxarro](https://osu.ppy.sh/users/3786620), ::{ flag=PL }:: [Tutka](https://osu.ppy.sh/users/8170022), ::{ flag=PL }:: [-Sylvari](https://osu.ppy.sh/users/3493804) |
-| Mappool tester | ::{ flag=RU }:: [gamer228666](https://osu.ppy.sh/users/5981005), ::{ flag=SE }:: [scylla](https://osu.ppy.sh/users/9405745), ::{ flag=HK }:: [Hibiki](https://osu.ppy.sh/users/5413624), ::{ flag=ES }:: [A L E P H](https://osu.ppy.sh/users/6735738), ::{ flag=FI }:: [amasetic](https://osu.ppy.sh/users/11375251) |
-| Streamer | ::{ flag=US }:: [ROB\_](https://osu.ppy.sh/users/12455868), ::{ flag=TH }:: [- Mirage -](https://osu.ppy.sh/users/2298513), ::{ flag=DE }:: [Peti](https://osu.ppy.sh/users/6221425) |
-| Commentator | ::{ flag=FR }:: [Crystal Enjoyer](https://osu.ppy.sh/users/6968364), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=SE }:: [nautzz](https://osu.ppy.sh/users/2012039), ::{ flag=US }:: [Sohlayce](https://osu.ppy.sh/users/17649736) |
-| Referee | ::{ flag=US }:: [ROB\_](https://osu.ppy.sh/users/12455868), ::{ flag=TH }:: [- Mirage -](https://osu.ppy.sh/users/2298513), ::{ flag=DE }:: [Peti](https://osu.ppy.sh/users/6221425), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=CA }:: [dinonesie](https://osu.ppy.sh/users/18315188), ::{ flag=DE }:: [Dragoncurve](https://osu.ppy.sh/users/6675367), ::{ flag=PH }:: [-Pekora-](https://osu.ppy.sh/users/17959882), ::{ flag=VN }:: [namiee](https://osu.ppy.sh/users/14279837), ::{ flag=PL }:: [P a t r i c k](https://osu.ppy.sh/users/6814521), ::{ flag=FI }:: [Nacrus](https://osu.ppy.sh/users/11108658), ::{ flag=GB }:: [SSScotty](https://osu.ppy.sh/users/10319851), ::{ flag=CH }:: [Isita](https://osu.ppy.sh/users/13973026), ::{ flag=US }:: [Sohlayce](https://osu.ppy.sh/users/17649736) |
+| Host | ::{ flag=FI }:: ::Aetherian::{ user=6263040 } |
+| Admin | ::{ flag=DE }:: ::TheHunter1::{ user=6496016 } |
+| Moderator | ::{ flag=US }:: ::Sohlayce::{ user=17649736 }, ::{ flag=US }:: ::Varler::{ user=2504750 } |
+| Mappool selector | ::{ flag=FI }:: ::Pickxarro::{ user=3786620 }, ::{ flag=PL }:: ::Tutka::{ user=8170022 }, ::{ flag=PL }:: ::-Sylvari::{ user=3493804 } |
+| Mappool tester | ::{ flag=RU }:: ::gamer228666::{ user=5981005 }, ::{ flag=SE }:: ::scylla::{ user=9405745 }, ::{ flag=HK }:: ::Hibiki::{ user=5413624 }, ::{ flag=ES }:: ::A L E P H::{ user=6735738 }, ::{ flag=FI }:: ::amasetic::{ user=11375251 } |
+| Streamer | ::{ flag=US }:: ::ROB\_::{ user=12455868 }, ::{ flag=TH }:: ::- Mirage -::{ user=2298513 }, ::{ flag=DE }:: ::Peti::{ user=6221425 } |
+| Commentator | ::{ flag=FR }:: ::Crystal Enjoyer::{ user=6968364 }, ::{ flag=ID }:: ::BlankTap::{ user=10137131 }, ::{ flag=SE }:: ::nautzz::{ user=2012039 }, ::{ flag=US }:: ::Sohlayce::{ user=17649736 } |
+| Referee | ::{ flag=US }:: ::ROB\_::{ user=12455868 }, ::{ flag=TH }:: ::- Mirage -::{ user=2298513 }, ::{ flag=DE }:: ::Peti::{ user=6221425 }, ::{ flag=DE }:: ::TheHunter1::{ user=6496016 }, ::{ flag=CA }:: ::dinonesie::{ user=18315188 }, ::{ flag=DE }:: ::Dragoncurve::{ user=6675367 }, ::{ flag=PH }:: ::-Pekora-::{ user=17959882 }, ::{ flag=VN }:: ::namiee::{ user=14279837 }, ::{ flag=PL }:: ::P a t r i c k::{ user=6814521 }, ::{ flag=FI }:: ::Nacrus::{ user=11108658 }, ::{ flag=GB }:: ::SSScotty::{ user=10319851 }, ::{ flag=CH }:: ::Isita::{ user=13973026 }, ::{ flag=US }:: ::Sohlayce::{ user=17649736 } |
 
 ## Links
 
@@ -59,10 +59,10 @@ The Aetherian's Summer Singles 3 is run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| 1–8 | ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961), ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970), ::{ flag=US }:: [tekkito](https://osu.ppy.sh/users/7075211), ::{ flag=KR }:: [Amamya Kokoro](https://osu.ppy.sh/users/2511839), ::{ flag=CL }:: [Intercambing](https://osu.ppy.sh/users/2546001), ::{ flag=BR }:: [Coreanmaluco](https://osu.ppy.sh/users/3149577), ::{ flag=KR }:: [mx10001](https://osu.ppy.sh/users/11443437), ::{ flag=US }:: [dingleton](https://osu.ppy.sh/users/5645231) |
-| 9–16 | ::{ flag=SG }:: [Tebi](https://osu.ppy.sh/users/5407620), ::{ flag=KR }:: [Allegrissimo](https://osu.ppy.sh/users/9052194), ::{ flag=US }:: [-Koda](https://osu.ppy.sh/users/12260184), ::{ flag=NZ }:: [Zoomer](https://osu.ppy.sh/users/6600930), ::{ flag=RO }:: [Lucrise](https://osu.ppy.sh/users/9719351), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=JE }:: [rudj](https://osu.ppy.sh/users/11592896), ::{ flag=US }:: [Kama](https://osu.ppy.sh/users/13380270) |
-| 17–24 | ::{ flag=FR }:: [FlasTEH](https://osu.ppy.sh/users/8443945), ::{ flag=HU }:: [defii](https://osu.ppy.sh/users/8698024), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=US }:: [EzChock](https://osu.ppy.sh/users/9276293), ::{ flag=IL }:: [PaintedKoala](https://osu.ppy.sh/users/10056419), ::{ flag=DE }:: [akarinya](https://osu.ppy.sh/users/14385814), ::{ flag=US }:: [Altrax](https://osu.ppy.sh/users/7948169), ::{ flag=FI }:: [Amasetic](https://osu.ppy.sh/users/11375251) |
-| 25–32 | ::{ flag=BE }:: [Hanori](https://osu.ppy.sh/users/7078544), ::{ flag=NO }:: [Markus](https://osu.ppy.sh/users/8414284), ::{ flag=US }:: [ampy](https://osu.ppy.sh/users/4458239), ::{ flag=DE }:: [angelkanna](https://osu.ppy.sh/users/10196805), ::{ flag=DE }:: [rundyyy](https://osu.ppy.sh/users/10917620), ::{ flag=HK }:: [F2X](https://osu.ppy.sh/users/16227745), ::{ flag=PL }:: [MAREK MARUCHA](https://osu.ppy.sh/users/2395405), ::{ flag=US }:: [Fametime](https://osu.ppy.sh/users/11405263) |
+| 1–8 | ::{ flag=PL }:: ::maliszewski::{ user=12408961 }, ::{ flag=PH }:: ::enri::{ user=8640970 }, ::{ flag=US }:: ::tekkito::{ user=7075211 }, ::{ flag=KR }:: ::Amamya Kokoro::{ user=2511839 }, ::{ flag=CL }:: ::Intercambing::{ user=2546001 }, ::{ flag=BR }:: ::Coreanmaluco::{ user=3149577 }, ::{ flag=KR }:: ::mx10001::{ user=11443437 }, ::{ flag=US }:: ::dingleton::{ user=5645231 } |
+| 9–16 | ::{ flag=SG }:: ::Tebi::{ user=5407620 }, ::{ flag=KR }:: ::Allegrissimo::{ user=9052194 }, ::{ flag=US }:: ::-Koda::{ user=12260184 }, ::{ flag=NZ }:: ::Zoomer::{ user=6600930 }, ::{ flag=RO }:: ::Lucrise::{ user=9719351 }, ::{ flag=US }:: ::ChillierPear::{ user=9501251 }, ::{ flag=JE }:: ::rudj::{ user=11592896 }, ::{ flag=US }:: ::Kama::{ user=13380270 } |
+| 17–24 | ::{ flag=FR }:: ::FlasTEH::{ user=8443945 }, ::{ flag=HU }:: ::defii::{ user=8698024 }, ::{ flag=US }:: ::fieryrage::{ user=3533958 }, ::{ flag=US }:: ::EzChock::{ user=9276293 }, ::{ flag=IL }:: ::PaintedKoala::{ user=10056419 }, ::{ flag=DE }:: ::akarinya::{ user=14385814 }, ::{ flag=US }:: ::Altrax::{ user=7948169 }, ::{ flag=FI }:: ::Amasetic::{ user=11375251 } |
+| 25–32 | ::{ flag=BE }:: ::Hanori::{ user=7078544 }, ::{ flag=NO }:: ::Markus::{ user=8414284 }, ::{ flag=US }:: ::ampy::{ user=4458239 }, ::{ flag=DE }:: ::angelkanna::{ user=10196805 }, ::{ flag=DE }:: ::rundyyy::{ user=10917620 }, ::{ flag=HK }:: ::F2X::{ user=16227745 }, ::{ flag=PL }:: ::MAREK MARUCHA::{ user=2395405 }, ::{ flag=US }:: ::Fametime::{ user=11405263 } |
 
 ## Podium
 
@@ -70,9 +70,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=KR }:: [mx10001](https://osu.ppy.sh/users/11443437) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PL }:: ::maliszewski::{ user=12408961 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: ::enri::{ user=8640970 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=KR }:: ::mx10001::{ user=11443437 } |
 
 ## Mappools
 

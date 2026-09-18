@@ -19,9 +19,9 @@ Participants get to pick one of 3 songs and submit an osu! or osu! mania mode di
 
 Stemming from the same roots and vision, Pending Cup and Community Charting Contest both began as contests within the Chinese community and have since expanded to welcome participants from across the globe. 
 
-Continuing the streak from [last year](https://osu.ppy.sh/home/news/2026-04-07-pending-cup-2025-results), Pending Cup is celebrating its 14th iteration, hosted by ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552), ::{ flag=CN }:: [FcEazy](https://osu.ppy.sh/users/7825227), ::{ flag=CN }:: [iBell](https://osu.ppy.sh/users/4298072), ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909), and ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853). 
+Continuing the streak from [last year](https://osu.ppy.sh/home/news/2026-04-07-pending-cup-2025-results), Pending Cup is celebrating its 14th iteration, hosted by ::{ flag=HK }:: ::Chaoslitz::{ user=3621552 }, ::{ flag=CN }:: ::FcEazy::{ user=7825227 }, ::{ flag=CN }:: ::iBell::{ user=4298072 }, ::{ flag=CN }:: ::Mafumafu::{ user=3076909 }, and ::{ flag=HK }:: ::seros::{ user=10562853 }. 
 
-After building experience and becoming a reputable mania mode contest, Community Charting Contest has rebranded from [Chinese Charting Contest](/wiki/Contests/CCC) to invite international participants to join us in this incredible event for the first time ever, hosted by ::{ flag=CN }:: [Breakrio](https://osu.ppy.sh/users/1653229) and ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315).
+After building experience and becoming a reputable mania mode contest, Community Charting Contest has rebranded from [Chinese Charting Contest](/wiki/Contests/CCC) to invite international participants to join us in this incredible event for the first time ever, hosted by ::{ flag=CN }:: ::Breakrio::{ user=1653229 } and ::{ flag=CN }:: ::gzdongsheng::{ user=8660315 }.
 
 Read on for all the info. For our Chinese contestants: [点击此处查看中文版主题。](https://osu.ppy.sh/community/forums/topics/2233834?n=1)
 
@@ -82,7 +82,7 @@ Download the beatmap template for any one of these songs, read the rules in the 
 |  |  |
 | --: | :-- |
 | Genre | Jazz |
-| Illustrator | [Arushii](https://osu.ppy.sh/users/15664628) |
+| Illustrator | ::Arushii::{ user=15664628 } |
 | Download | [Beatmap template (2:36 / 178 BPM)](https://assets.ppy.sh/media/news/PDCCCC%202026%20-%20Tedjimo%20yomigY%20-%20Acacia.osz) |
 
 ![](/wiki/shared/news/2026-08-21-pending-cup-x-community-charting-contest-2026/acacia_bg.jpg)
@@ -106,7 +106,7 @@ Download the beatmap template for any one of these songs, read the rules in the 
 |  |  |
 | --: | :-- |
 | Genre | Hi-Tech Hardcore |
-| Illustrator | [hourius](https://osu.ppy.sh/users/12580298) |
+| Illustrator | ::hourius::{ user=12580298 } |
 | Download | [Beatmap template (2:34 / 170 BPM)](https://assets.ppy.sh/media/news/PDCCCC%202026%20-%20V0iD%20-%20Syabaritious%20Sensoriam.osz) |
 
 ![](/wiki/shared/news/2026-08-21-pending-cup-x-community-charting-contest-2026/v0id_bg.jpg)

@@ -1,6 +1,6 @@
 # 旧版曲包
 
-曲包自 2008 年由 ::{ flag=US }:: [Saturos](https://osu.ppy.sh/users/3781) [首次推出](https://osu.ppy.sh/community/forums/topics/1853)以来就一直是 osu! 社区不可或缺的一部分，其中一些曲包还与特定的[成就（现称“奖章”）](/wiki/Medals)相关联。然而，随着 osu! 及其社区这些年的持续发展，整体的作图理念相比早期也经历了重大转变。由于公众的强烈需求，[2016 年 1 月 18 日](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44)对大量曲包进行了重大调整，以使它们整体上能够与时俱进。
+曲包自 2008 年由 ::{ flag=US }:: ::Saturos::{ user=3781 } [首次推出](https://osu.ppy.sh/community/forums/topics/1853)以来就一直是 osu! 社区不可或缺的一部分，其中一些曲包还与特定的[成就（现称“奖章”）](/wiki/Medals)相关联。然而，随着 osu! 及其社区这些年的持续发展，整体的作图理念相比早期也经历了重大转变。由于公众的强烈需求，[2016 年 1 月 18 日](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44)对大量曲包进行了重大调整，以使它们整体上能够与时俱进。
 
 本文列出了在上述调整中受到影响的曲包在其旧版/原始状态下的内容。
 
@@ -8,7 +8,7 @@
 
 ### 第 1 卷
 
-该曲包于 2011 年由 ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) 和 ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) 首次推出。
+该曲包于 2011 年由 ::{ flag=US }:: ::LuigiHann::{ user=1079 } 和 ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } 首次推出。
 
 下载链接：
 
@@ -33,7 +33,7 @@
 
 ### 第 2 卷
 
-该曲包于 2011 年由 ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) 和 ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) 首次推出。
+该曲包于 2011 年由 ::{ flag=US }:: ::LuigiHann::{ user=1079 } 和 ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } 首次推出。
 
 下载链接：
 
@@ -58,7 +58,7 @@
 
 ### 第 3 卷
 
-该曲包于 2011 年由 ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) 和 ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) 首次推出。
+该曲包于 2011 年由 ::{ flag=DE }:: ::Larto::{ user=12328 } 和 ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } 首次推出。
 
 下载链接：
 
@@ -83,7 +83,7 @@
 
 ### 第 4 卷
 
-该曲包于 2011 年由 ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) 首次推出。
+该曲包于 2011 年由 ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } 首次推出。
 
 下载链接：
 
@@ -110,7 +110,7 @@
 
 ### 第 1 卷
 
-该曲包于 2011 年由 ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) 和 ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) 首次推出。
+该曲包于 2011 年由 ::{ flag=US }:: ::LuigiHann::{ user=1079 } 和 ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } 首次推出。
 
 下载链接：
 
@@ -135,7 +135,7 @@
 
 ### 第 2 卷
 
-该曲包于 2011 年由 ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) 和 ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) 首次推出。
+该曲包于 2011 年由 ::{ flag=DE }:: ::Larto::{ user=12328 } 和 ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } 首次推出。
 
 下载链接：
 
@@ -160,7 +160,7 @@
 
 ### 第 3 卷
 
-该曲包于 2011 年由 ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) 和 ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) 首次推出。
+该曲包于 2011 年由 ::{ flag=DE }:: ::Larto::{ user=12328 } 和 ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } 首次推出。
 
 下载链接：
 
@@ -185,7 +185,7 @@
 
 ### 第 4 卷
 
-该曲包于 2011 年由 ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) 首次推出。
+该曲包于 2011 年由 ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } 首次推出。
 
 下载链接：
 
@@ -212,7 +212,7 @@
 
 ### 第 1 卷
 
-该曲包于 2011 年由 ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) 和 ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) 首次推出。
+该曲包于 2011 年由 ::{ flag=US }:: ::LuigiHann::{ user=1079 } 和 ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } 首次推出。
 
 下载链接：
 
@@ -237,7 +237,7 @@
 
 ### 第 2 卷
 
-该曲包于 2011 年由 ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) 和 ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) 首次推出。
+该曲包于 2011 年由 ::{ flag=DE }:: ::Larto::{ user=12328 } 和 ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } 首次推出。
 
 下载链接：
 
@@ -262,7 +262,7 @@
 
 ### 第 3 卷
 
-该曲包于 2011 年由 ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) 和 ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) 首次推出。
+该曲包于 2011 年由 ::{ flag=DE }:: ::Larto::{ user=12328 } 和 ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } 首次推出。
 
 下载链接：
 
@@ -287,7 +287,7 @@
 
 ### 第 4 卷
 
-该曲包于 2011 年由 ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) 首次推出。
+该曲包于 2011 年由 ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } 首次推出。
 
 下载链接：
 
@@ -314,7 +314,7 @@
 
 ### 第 1 卷
 
-该曲包于 2011 年由 ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) 和 ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) 首次推出。
+该曲包于 2011 年由 ::{ flag=US }:: ::LuigiHann::{ user=1079 } 和 ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } 首次推出。
 
 下载链接：
 
@@ -339,7 +339,7 @@
 
 ### 第 2 卷
 
-该曲包于 2011 年由 ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) 和 ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) 首次推出。
+该曲包于 2011 年由 ::{ flag=US }:: ::LuigiHann::{ user=1079 } 和 ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } 首次推出。
 
 下载链接：
 
@@ -364,7 +364,7 @@
 
 ### 第 3 卷
 
-该曲包于 2011 年由 ::{ flag=US }:: [Seibei4211](https://osu.ppy.sh/users/31537) 和 ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) 首次推出。
+该曲包于 2011 年由 ::{ flag=US }:: ::Seibei4211::{ user=31537 } 和 ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } 首次推出。
 
 下载链接：
 
@@ -389,7 +389,7 @@
 
 ### 第 4 卷
 
-该曲包于 2011 年由 ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) 首次推出。
+该曲包于 2011 年由 ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } 首次推出。
 
 下载链接：
 

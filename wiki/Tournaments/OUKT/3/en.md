@@ -8,7 +8,7 @@ tags:
 
 # osu! UK Tournament 3 (OUKT3)
 
-The **osu! UK tournament 3** (***OUKT3***) was a ::{ flag=GB }:: United Kingdom single elimination 1v1 osu! tournament hosted by ::{ flag=GB }:: [PortalLife](https://osu.ppy.sh/users/929134). It is the third iteration of the **osu! UK Tournament** (***OUKT***) series.
+The **osu! UK tournament 3** (***OUKT3***) was a ::{ flag=GB }:: United Kingdom single elimination 1v1 osu! tournament hosted by ::{ flag=GB }:: ::PortalLife::{ user=929134 }. It is the third iteration of the **osu! UK Tournament** (***OUKT***) series.
 
 ## Tournament schedule
 
@@ -29,12 +29,12 @@ The OUKT3 was run by various osu! community members
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=GB }:: [PortalLife](https://osu.ppy.sh/users/929134) |
-| Mappool selector | ::{ flag=GB }:: [PortalLife](https://osu.ppy.sh/users/929134), ::{ flag=US }:: [RLC](https://osu.ppy.sh/users/1047883), ::{ flag=TH }:: [Frostmourne](https://osu.ppy.sh/users/199669) |
-| Referee | ::{ flag=GB }:: [PortalLife](https://osu.ppy.sh/users/929134), ::{ flag=GB }:: [Udon](https://osu.ppy.sh/users/2232928) |
-| Streamer | ::{ flag=GB }:: [Mahiro Yasaka](https://osu.ppy.sh/users/3481378) |
-| Graphic designer | ::{ flag=GB }:: [Toonzz](https://osu.ppy.sh/users/2295917) |
-| The draw master | ::{ flag=GB }:: [Mollerz](https://osu.ppy.sh/users/1820042) |
+| Host | ::{ flag=GB }:: ::PortalLife::{ user=929134 } |
+| Mappool selector | ::{ flag=GB }:: ::PortalLife::{ user=929134 }, ::{ flag=US }:: ::RLC::{ user=1047883 }, ::{ flag=TH }:: ::Frostmourne::{ user=199669 } |
+| Referee | ::{ flag=GB }:: ::PortalLife::{ user=929134 }, ::{ flag=GB }:: ::Udon::{ user=2232928 } |
+| Streamer | ::{ flag=GB }:: ::Mahiro Yasaka::{ user=3481378 } |
+| Graphic designer | ::{ flag=GB }:: ::Toonzz::{ user=2295917 } |
+| The draw master | ::{ flag=GB }:: ::Mollerz::{ user=1820042 } |
 
 ## Links
 
@@ -46,16 +46,16 @@ The OUKT3 was run by various osu! community members
 
 | Seed | Players |
 | :-- | :-- |
-| 1-16 | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [iLikeMudkipz](https://osu.ppy.sh/users/552515), ::{ flag=GB }:: [Raiku](https://osu.ppy.sh/users/1525538), ::{ flag=GB }:: [R a h a r u](https://osu.ppy.sh/users/785193), ::{ flag=GB }:: [Could This Be](https://osu.ppy.sh/users/2313772), ::{ flag=GB }:: [jesus1412](https://osu.ppy.sh/users/230116), ::{ flag=GB }:: [lovu](https://osu.ppy.sh/users/846235), ::{ flag=GB }:: [Kardet](https://osu.ppy.sh/users/1438509), ::{ flag=GB }:: [vidya](https://osu.ppy.sh/users/413305), ::{ flag=GB }:: [Crai](https://osu.ppy.sh/users/2285207), ::{ flag=GB }:: [PortalLife](https://osu.ppy.sh/users/929134), ::{ flag=GB }:: [navi](https://osu.ppy.sh/users/926304), ::{ flag=GB }:: [Jameslike](https://osu.ppy.sh/users/2415743), ::{ flag=GB }:: [kozuka](https://osu.ppy.sh/users/2733537), ::{ flag=GB }:: [Kraiz](https://osu.ppy.sh/users/240049), ::{ flag=GB }:: [bahamete](https://osu.ppy.sh/users/960620) |
-| No seed | ::{ flag=GB }:: [-MoeYandere-](https://osu.ppy.sh/users/2565902), ::{ flag=GB }:: [-Vulcan-](https://osu.ppy.sh/users/2797495), ::{ flag=GB }:: [\[AOTN\]](https://osu.ppy.sh/users/3233710), ::{ flag=GB }:: [3lliot](https://osu.ppy.sh/users/2685857), ::{ flag=GB }:: [Awesomefacerox](https://osu.ppy.sh/users/3741296), ::{ flag=GB }:: [casmith789](https://osu.ppy.sh/users/2773242), ::{ flag=GB }:: [chanch512](https://osu.ppy.sh/users/2415857), ::{ flag=GB }:: [ChicagoTed7172](https://osu.ppy.sh/users/2948139), ::{ flag=GB }:: Chungygiri <!-- missing -->, ::{ flag=GB }:: [cooki3zz](https://osu.ppy.sh/users/3316200), ::{ flag=GB }:: [Cozzzy](https://osu.ppy.sh/users/2003917), ::{ flag=GB }:: [DatPenguinTho](https://osu.ppy.sh/users/4087206), ::{ flag=GB }:: [Desired](https://osu.ppy.sh/users/2752380), ::{ flag=GB }:: [djsettle](https://osu.ppy.sh/users/4010354), ::{ flag=GB }:: [dreeeaam](https://osu.ppy.sh/users/3582719), ::{ flag=GB }:: [EatYourMattress](https://osu.ppy.sh/users/2525888), ::{ flag=GB }:: [Elephant_king](https://osu.ppy.sh/users/2812980), ::{ flag=GB }:: [EzLyn](https://osu.ppy.sh/users/2709812), ::{ flag=GB }:: [gadrin](https://osu.ppy.sh/users/2245830), ::{ flag=GB }:: [Jeromelol](https://osu.ppy.sh/users/3391379), ::{ flag=GB }:: [Just Miku](https://osu.ppy.sh/users/2167861), ::{ flag=GB }:: [Justify](https://osu.ppy.sh/users/3407664), ::{ flag=GB }:: [Kakiage](https://osu.ppy.sh/users/3104031), ::{ flag=GB }:: [kenlei2009](https://osu.ppy.sh/users/3307351), ::{ flag=GB }:: [Kry](https://osu.ppy.sh/users/2746200), ::{ flag=GB }:: [kyou](https://osu.ppy.sh/users/3269265), ::{ flag=GB }:: [Limit_Break](https://osu.ppy.sh/users/3455174), ::{ flag=GB }:: [lovu](https://osu.ppy.sh/users/3455174), ::{ flag=GB }:: [Misti](https://osu.ppy.sh/users/3425197), ::{ flag=GB }:: [NatashaGG](https://osu.ppy.sh/users/3604326), ::{ flag=GB }:: [Neroh](https://osu.ppy.sh/users/2257584), ::{ flag=GB }:: [Ommetaphobia](https://osu.ppy.sh/users/3082695), ::{ flag=GB }:: [Rime](https://osu.ppy.sh/users/1397232), ::{ flag=GB }:: [Run-Cat](https://osu.ppy.sh/users/4361729), ::{ flag=GB }:: [SamC](https://osu.ppy.sh/users/1453543), ::{ flag=GB }:: [Scootawoo](https://osu.ppy.sh/users/1464467), ::{ flag=GB }:: [SgtSitdown](https://osu.ppy.sh/users/3611886), ::{ flag=GB }:: [Slvin](https://osu.ppy.sh/users/1219567), ::{ flag=GB }:: [Snookie](https://osu.ppy.sh/users/1484934), ::{ flag=GB }:: [spaminabox](https://osu.ppy.sh/users/1418433), ::{ flag=GB }:: [starblazes](https://osu.ppy.sh/users/1586614), ::{ flag=GB }:: [sullyjhf](https://osu.ppy.sh/users/1994780), ::{ flag=GB }:: [Swaayy](https://osu.ppy.sh/users/2412218), ::{ flag=GB }:: [Syrus](https://osu.ppy.sh/users/1372358), ::{ flag=GB }:: [Udon](https://osu.ppy.sh/users/2232928), ::{ flag=LT }:: [vaidax5](https://osu.ppy.sh/users/3577602), ::{ flag=GB }:: [Viremon](https://osu.ppy.sh/users/827070), ::{ flag=GB }:: [YunoWhoItIs](https://osu.ppy.sh/users/1331455), ::{ flag=GB }:: [Zarfots](https://osu.ppy.sh/users/2253985), |
+| 1-16 | ::{ flag=GB }:: ::Doomsday::{ user=18983 }, ::{ flag=GB }:: ::iLikeMudkipz::{ user=552515 }, ::{ flag=GB }:: ::Raiku::{ user=1525538 }, ::{ flag=GB }:: ::R a h a r u::{ user=785193 }, ::{ flag=GB }:: ::Could This Be::{ user=2313772 }, ::{ flag=GB }:: ::jesus1412::{ user=230116 }, ::{ flag=GB }:: ::lovu::{ user=846235 }, ::{ flag=GB }:: ::Kardet::{ user=1438509 }, ::{ flag=GB }:: ::vidya::{ user=413305 }, ::{ flag=GB }:: ::Crai::{ user=2285207 }, ::{ flag=GB }:: ::PortalLife::{ user=929134 }, ::{ flag=GB }:: ::navi::{ user=926304 }, ::{ flag=GB }:: ::Jameslike::{ user=2415743 }, ::{ flag=GB }:: ::kozuka::{ user=2733537 }, ::{ flag=GB }:: ::Kraiz::{ user=240049 }, ::{ flag=GB }:: ::bahamete::{ user=960620 } |
+| No seed | ::{ flag=GB }:: ::-MoeYandere-::{ user=2565902 }, ::{ flag=GB }:: ::-Vulcan-::{ user=2797495 }, ::{ flag=GB }:: ::\[AOTN\]::{ user=3233710 }, ::{ flag=GB }:: ::3lliot::{ user=2685857 }, ::{ flag=GB }:: ::Awesomefacerox::{ user=3741296 }, ::{ flag=GB }:: ::casmith789::{ user=2773242 }, ::{ flag=GB }:: ::chanch512::{ user=2415857 }, ::{ flag=GB }:: ::ChicagoTed7172::{ user=2948139 }, ::{ flag=GB }:: Chungygiri <!-- missing -->, ::{ flag=GB }:: ::cooki3zz::{ user=3316200 }, ::{ flag=GB }:: ::Cozzzy::{ user=2003917 }, ::{ flag=GB }:: ::DatPenguinTho::{ user=4087206 }, ::{ flag=GB }:: ::Desired::{ user=2752380 }, ::{ flag=GB }:: ::djsettle::{ user=4010354 }, ::{ flag=GB }:: ::dreeeaam::{ user=3582719 }, ::{ flag=GB }:: ::EatYourMattress::{ user=2525888 }, ::{ flag=GB }:: ::Elephant_king::{ user=2812980 }, ::{ flag=GB }:: ::EzLyn::{ user=2709812 }, ::{ flag=GB }:: ::gadrin::{ user=2245830 }, ::{ flag=GB }:: ::Jeromelol::{ user=3391379 }, ::{ flag=GB }:: ::Just Miku::{ user=2167861 }, ::{ flag=GB }:: ::Justify::{ user=3407664 }, ::{ flag=GB }:: ::Kakiage::{ user=3104031 }, ::{ flag=GB }:: ::kenlei2009::{ user=3307351 }, ::{ flag=GB }:: ::Kry::{ user=2746200 }, ::{ flag=GB }:: ::kyou::{ user=3269265 }, ::{ flag=GB }:: ::Limit_Break::{ user=3455174 }, ::{ flag=GB }:: ::lovu::{ user=3455174 }, ::{ flag=GB }:: ::Misti::{ user=3425197 }, ::{ flag=GB }:: ::NatashaGG::{ user=3604326 }, ::{ flag=GB }:: ::Neroh::{ user=2257584 }, ::{ flag=GB }:: ::Ommetaphobia::{ user=3082695 }, ::{ flag=GB }:: ::Rime::{ user=1397232 }, ::{ flag=GB }:: ::Run-Cat::{ user=4361729 }, ::{ flag=GB }:: ::SamC::{ user=1453543 }, ::{ flag=GB }:: ::Scootawoo::{ user=1464467 }, ::{ flag=GB }:: ::SgtSitdown::{ user=3611886 }, ::{ flag=GB }:: ::Slvin::{ user=1219567 }, ::{ flag=GB }:: ::Snookie::{ user=1484934 }, ::{ flag=GB }:: ::spaminabox::{ user=1418433 }, ::{ flag=GB }:: ::starblazes::{ user=1586614 }, ::{ flag=GB }:: ::sullyjhf::{ user=1994780 }, ::{ flag=GB }:: ::Swaayy::{ user=2412218 }, ::{ flag=GB }:: ::Syrus::{ user=1372358 }, ::{ flag=GB }:: ::Udon::{ user=2232928 }, ::{ flag=LT }:: ::vaidax5::{ user=3577602 }, ::{ flag=GB }:: ::Viremon::{ user=827070 }, ::{ flag=GB }:: ::YunoWhoItIs::{ user=1331455 }, ::{ flag=GB }:: ::Zarfots::{ user=2253985 }, |
 
 ## Podium
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: [jesus1412](https://osu.ppy.sh/users/230116) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [iLikeMudkipz](https://osu.ppy.sh/users/552515) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: ::Doomsday::{ user=18983 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: ::jesus1412::{ user=230116 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: ::iLikeMudkipz::{ user=552515 } |
 
 ## Mappools
 

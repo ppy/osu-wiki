@@ -1,6 +1,6 @@
 # Paquetes de beatmaps heredados
 
-Los paquetes de beatmaps han sido una parte integral de la comunidad de osu! desde [su primera presentación](https://osu.ppy.sh/community/forums/topics/1853) por ::{ flag=US }:: [Saturos](https://osu.ppy.sh/users/3781) en 2008, en el que algunos de los paquetes estaban vinculados a ciertos [logros](/wiki/Medals) disponibles. Sin embargo, como osu! y su comunidad siguió creciendo a lo largo de los años, el meta del mapping en general también experimentó un cambio importante desde sus primeros días, y —debido a una gran demanda del público— [el 18 de enero de 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44) se hizo una revisión a fondo de numerosos paquetes de beatmaps con el fin de mantenerlos, en su conjunto, relevantes con los tiempos.
+Los paquetes de beatmaps han sido una parte integral de la comunidad de osu! desde [su primera presentación](https://osu.ppy.sh/community/forums/topics/1853) por ::{ flag=US }:: ::Saturos::{ user=3781 } en 2008, en el que algunos de los paquetes estaban vinculados a ciertos [logros](/wiki/Medals) disponibles. Sin embargo, como osu! y su comunidad siguió creciendo a lo largo de los años, el meta del mapping en general también experimentó un cambio importante desde sus primeros días, y —debido a una gran demanda del público— [el 18 de enero de 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44) se hizo una revisión a fondo de numerosos paquetes de beatmaps con el fin de mantenerlos, en su conjunto, relevantes con los tiempos.
 
 Este artículo enumera el contenido de los paquetes de beatmaps, que se sometieron a dicha revisión, en su estado heredado/original.
 
@@ -8,7 +8,7 @@ Este artículo enumera el contenido de los paquetes de beatmaps, que se sometier
 
 ### Volumen 1
 
-Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
+Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: ::LuigiHann::{ user=1079 } y ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } en 2011.
 
 Enlaces de descarga:
 
@@ -33,7 +33,7 @@ Beatmaps:
 
 ### Volumen 2
 
-Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
+Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: ::LuigiHann::{ user=1079 } y ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } en 2011.
 
 Enlaces de descarga:
 
@@ -58,7 +58,7 @@ Beatmaps:
 
 ### Volumen 3
 
-Este paquete de beatmaps fue presentado por primera vez por ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
+Este paquete de beatmaps fue presentado por primera vez por ::{ flag=DE }:: ::Larto::{ user=12328 } y ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } en 2011.
 
 Enlaces de descarga:
 
@@ -83,7 +83,7 @@ Beatmaps:
 
 ### Volumen 4
 
-Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
+Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } en 2011.
 
 Enlaces de descarga:
 
@@ -110,7 +110,7 @@ Beatmaps:
 
 ### Volumen 1
 
-Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
+Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: ::LuigiHann::{ user=1079 } y ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } en 2011.
 
 Enlaces de descarga:
 
@@ -135,7 +135,7 @@ Beatmaps:
 
 ### Volumen 2
 
-Este paquete de beatmaps fue presentado por primera vez por ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
+Este paquete de beatmaps fue presentado por primera vez por ::{ flag=DE }:: ::Larto::{ user=12328 } y ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } en 2011.
 
 Enlaces de descarga:
 
@@ -160,7 +160,7 @@ Beatmaps:
 
 ### Volumen 3
 
-Este paquete de beatmaps fue presentado por primera vez por ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
+Este paquete de beatmaps fue presentado por primera vez por ::{ flag=DE }:: ::Larto::{ user=12328 } y ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } en 2011.
 
 Enlaces de descarga:
 
@@ -185,7 +185,7 @@ Beatmaps:
 
 ### Volumen 4
 
-Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
+Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } en 2011.
 
 Enlaces de descarga:
 
@@ -212,7 +212,7 @@ Beatmaps:
 
 ### Volumen 1
 
-Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
+Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: ::LuigiHann::{ user=1079 } y ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } en 2011.
 
 Enlaces de descarga:
 
@@ -237,7 +237,7 @@ Beatmaps:
 
 ### Volumen 2
 
-Este paquete de beatmaps fue presentado por primera vez por ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
+Este paquete de beatmaps fue presentado por primera vez por ::{ flag=DE }:: ::Larto::{ user=12328 } y ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } en 2011.
 
 Enlaces de descarga:
 
@@ -262,7 +262,7 @@ Beatmaps:
 
 ### Volumen 3
 
-Este paquete de beatmaps fue presentado por primera vez por ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
+Este paquete de beatmaps fue presentado por primera vez por ::{ flag=DE }:: ::Larto::{ user=12328 } y ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } en 2011.
 
 Enlaces de descarga:
 
@@ -287,7 +287,7 @@ Beatmaps:
 
 ### Volumen 4
 
-Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
+Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } en 2011.
 
 Enlaces de descarga:
 
@@ -314,7 +314,7 @@ Beatmaps:
 
 ### Volumen 1
 
-Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
+Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: ::LuigiHann::{ user=1079 } y ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } en 2011.
 
 Enlaces de descarga:
 
@@ -339,7 +339,7 @@ Beatmaps:
 
 ### Volumen 2
 
-Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
+Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: ::LuigiHann::{ user=1079 } y ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } en 2011.
 
 Enlaces de descarga:
 
@@ -364,7 +364,7 @@ Beatmaps:
 
 ### Volumen 3
 
-Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: [Seibei4211](https://osu.ppy.sh/users/31537) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
+Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: ::Seibei4211::{ user=31537 } y ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } en 2011.
 
 Enlaces de descarga:
 
@@ -389,7 +389,7 @@ Beatmaps:
 
 ### Volumen 4
 
-Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
+Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } en 2011.
 
 Enlaces de descarga:
 

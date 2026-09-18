@@ -14,27 +14,27 @@ Congratulations to last month's winners:
 
 **osu! standard**
 
-**1st** [Forseen](https://osu.ppy.sh/users/Forseen)\
-**2nd** [SapphireGhost](https://osu.ppy.sh/users/SapphireGhost)\
-**3rd** [Raiku](https://osu.ppy.sh/users/Raiku)
+**1st** ::Forseen::{ user=556012 }\
+**2nd** ::SapphireGhost::{ user=388602 }\
+**3rd** ::Raiku::{ user=1525538 }
 
 **Taiko**
 
-**1st** [asuasu_yura](https://osu.ppy.sh/users/asuasu_yura)\
-**2nd** [seiichiz](https://osu.ppy.sh/users/seiichiz)\
-**3rd** [Rappu](https://osu.ppy.sh/users/Rappu)
+**1st** ::asuasu_yura::{ user=2875968 }\
+**2nd** ::seiichiz::{ user=2459534 }\
+**3rd** ::Rappu::{ user=1207106 }
 
 **Catch the Beat**
 
-**1st** [SkyDuDu](https://osu.ppy.sh/users/SkyDuDu)\
-**2nd** [Dusk](https://osu.ppy.sh/users/Dusk)\
-**3rd** [YERTI](https://osu.ppy.sh/users/YERTI)
+**1st** ::SkyDuDu::{ user=20080974 }\
+**2nd** ::Dusk::{ user=533210 }\
+**3rd** ::YERTI::{ user=1490757 }
 
 **osu!mania**
 
-**1st** [Karund](https://osu.ppy.sh/users/Karund)\
-**2nd** [Oujo](https://osu.ppy.sh/users/Oujo)\
-**3rd** [mamoruna](https://osu.ppy.sh/users/mamoruna)
+**1st** ::Karund::{ user=2433584 }\
+**2nd** ::Oujo::{ user=3425143 }\
+**3rd** ::mamoruna::{ user=3255127 }
 
 Good luck on the charts this month!
 

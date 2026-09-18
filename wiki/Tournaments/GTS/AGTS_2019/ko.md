@@ -10,7 +10,7 @@ outdated_translation: true
 
 ![AGTS 2019 Logo](img/logo.jpg)
 
-**Advanced Global Taiko Showdown 2019** (***AGTS 2019***)는 더블 엘리미네이션 방식의 2대2 국가대항전 토너먼트이며, ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263)와 ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133)가 주최했습니다. Global Taiko Showdown 시리즈의 3번째 대회이기도 합니다..
+**Advanced Global Taiko Showdown 2019** (***AGTS 2019***)는 더블 엘리미네이션 방식의 2대2 국가대항전 토너먼트이며, ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }와 ::{ flag=FR }:: ::TLQ\_Yoshii::{ user=7157133 }가 주최했습니다. Global Taiko Showdown 시리즈의 3번째 대회이기도 합니다..
 
 ## 토너먼트 일정
 
@@ -41,16 +41,16 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 
 | 직책 | 구성원 |
 | :-- | :-- |
-| 관리 | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| 맵풀 선택 | ::{ flag=DE }:: [Nepuri](https://osu.ppy.sh/users/6637817), ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097) |
-| 심판 | ::{ flag=BR }:: [AnonX32](https://osu.ppy.sh/users/2730270), ::{ flag=US }:: [cheese salad](https://osu.ppy.sh/users/6349821), ::{ flag=US }:: [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ::{ flag=DE }:: [GDLenny](https://osu.ppy.sh/users/8406711), ::{ flag=DE }:: [Heam](https://osu.ppy.sh/users/4705120), ::{ flag=FR }:: [Ladybug](https://osu.ppy.sh/users/4833654), ::{ flag=FR }:: [Ladylag](https://osu.ppy.sh/users/2812098), ::{ flag=FR }:: [Mirthille](https://osu.ppy.sh/users/7548517), ::{ flag=DK }:: [Plaiceholder](https://osu.ppy.sh/users/11910867), ::{ flag=TH }:: [Seaweed](https://osu.ppy.sh/users/5151214), ::{ flag=AU }:: [soliderror](https://osu.ppy.sh/users/10630542), ::{ flag=MY }:: [Stupid Idiot](https://osu.ppy.sh/users/8355574), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ::{ flag=SG }:: [uchuuj1n](https://osu.ppy.sh/users/9140302) |
-| 방송 송출 | ::{ flag=BR }:: [AnonX32](https://osu.ppy.sh/users/2730270), ::{ flag=JP }:: [Briesmas](https://osu.ppy.sh/users/2865172), ::{ flag=US }:: [cheese salad](https://osu.ppy.sh/users/6349821), ::{ flag=PL }:: [Deroo](https://osu.ppy.sh/users/8360475), ::{ flag=US }:: [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ::{ flag=FR }:: [Kaeldori](https://osu.ppy.sh/users/962519), ::{ flag=NL }:: [Krekker](https://osu.ppy.sh/users/8265940), ::{ flag=FR }:: [Mirthille](https://osu.ppy.sh/users/7548517) |
-| 해설 | ::{ flag=BR }:: [AnonX32](https://osu.ppy.sh/users/2730270), ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=US }:: [CaptainEChan](https://osu.ppy.sh/users/9536977), ::{ flag=FR }:: [Chernobog](https://osu.ppy.sh/users/3317042), ::{ flag=PL }:: [Deroo](https://osu.ppy.sh/users/8360475), ::{ flag=US }:: [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910), ::{ flag=DE }:: [Heam](https://osu.ppy.sh/users/4705120), ::{ flag=US }:: [kb131313](https://osu.ppy.sh/users/11229259), ::{ flag=US }:: [Tsred](https://osu.ppy.sh/users/2737667), ::{ flag=SG }:: [uchuuj1n](https://osu.ppy.sh/users/9140302) |
-| 디자인 | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
-| 통계 정리 | ::{ flag=DE }:: [IceDynamix](https://osu.ppy.sh/users/8599070), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=CA }:: [Leadenginger](https://osu.ppy.sh/users/3799991), ::{ flag=MY }:: [Minisora](https://osu.ppy.sh/users/9627666) |
-| 번역 | ::{ flag=BR }:: [AnonX32](https://osu.ppy.sh/users/2730270), ::{ flag=KR }:: [BamgoeSN](https://osu.ppy.sh/users/1152851), ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015), ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ::{ flag=PL }:: [Deroo](https://osu.ppy.sh/users/8360475), ::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910), ::{ flag=TW }:: [InfinityAstral](https://osu.ppy.sh/users/9913256), ::{ flag=US }:: [jyake](https://osu.ppy.sh/users/9099822), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| 위키 편집 | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
-| 관리자 | ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) |
+| 관리 | ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, ::{ flag=FR }:: ::TLQ\_Yoshii::{ user=7157133 } |
+| 맵풀 선택 | ::{ flag=DE }:: ::Nepuri::{ user=6637817 }, ::{ flag=US }:: ::Nifty::{ user=4956097 } |
+| 심판 | ::{ flag=BR }:: ::AnonX32::{ user=2730270 }, ::{ flag=US }:: ::cheese salad::{ user=6349821 }, ::{ flag=US }:: ::Edgar\_Figaro::{ user=6508754 }, ::{ flag=DE }:: ::GDLenny::{ user=8406711 }, ::{ flag=DE }:: ::Heam::{ user=4705120 }, ::{ flag=FR }:: ::Ladybug::{ user=4833654 }, ::{ flag=FR }:: ::Ladylag::{ user=2812098 }, ::{ flag=FR }:: ::Mirthille::{ user=7548517 }, ::{ flag=DK }:: ::Plaiceholder::{ user=11910867 }, ::{ flag=TH }:: ::Seaweed::{ user=5151214 }, ::{ flag=AU }:: ::soliderror::{ user=10630542 }, ::{ flag=MY }:: ::Stupid Idiot::{ user=8355574 }, ::{ flag=FR }:: ::TLQ\_Yoshii::{ user=7157133 }, ::{ flag=SG }:: ::uchuuj1n::{ user=9140302 } |
+| 방송 송출 | ::{ flag=BR }:: ::AnonX32::{ user=2730270 }, ::{ flag=JP }:: ::Briesmas::{ user=2865172 }, ::{ flag=US }:: ::cheese salad::{ user=6349821 }, ::{ flag=PL }:: ::Deroo::{ user=8360475 }, ::{ flag=US }:: ::ITotallyGetThat::{ user=8770622 }, ::{ flag=FR }:: ::Kaeldori::{ user=962519 }, ::{ flag=NL }:: ::Krekker::{ user=8265940 }, ::{ flag=FR }:: ::Mirthille::{ user=7548517 } |
+| 해설 | ::{ flag=BR }:: ::AnonX32::{ user=2730270 }, ::{ flag=AU }:: ::Beat43210::{ user=5664171 }, ::{ flag=US }:: ::CaptainEChan::{ user=9536977 }, ::{ flag=FR }:: ::Chernobog::{ user=3317042 }, ::{ flag=PL }:: ::Deroo::{ user=8360475 }, ::{ flag=US }:: ::Edgar\_Figaro::{ user=6508754 }, ::{ flag=EC }:: ::Gamelan4::{ user=9856910 }, ::{ flag=DE }:: ::Heam::{ user=4705120 }, ::{ flag=US }:: ::kb131313::{ user=11229259 }, ::{ flag=US }:: ::Tsred::{ user=2737667 }, ::{ flag=SG }:: ::uchuuj1n::{ user=9140302 } |
+| 디자인 | ::{ flag=ID }:: ::fajar13k::{ user=7100002 } |
+| 통계 정리 | ::{ flag=DE }:: ::IceDynamix::{ user=8599070 }, ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, ::{ flag=CA }:: ::Leadenginger::{ user=3799991 }, ::{ flag=MY }:: ::Minisora::{ user=9627666 } |
+| 번역 | ::{ flag=BR }:: ::AnonX32::{ user=2730270 }, ::{ flag=KR }:: ::BamgoeSN::{ user=1152851 }, ::{ flag=DE }:: ::Capu::{ user=2474015 }, ::{ flag=HK }:: ::Cynplytholowazy::{ user=3901754 }, ::{ flag=PL }:: ::Deroo::{ user=8360475 }, ::{ flag=EC }:: ::Gamelan4::{ user=9856910 }, ::{ flag=TW }:: ::InfinityAstral::{ user=9913256 }, ::{ flag=US }:: ::jyake::{ user=9099822 }, ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, ::{ flag=FR }:: ::TLQ\_Yoshii::{ user=7157133 } |
+| 위키 편집 | ::{ flag=ID }:: ::fajar13k::{ user=7100002 } |
+| 관리자 | ::{ flag=DE }:: ::hallowatcher::{ user=1874761 }, ::{ flag=FR }:: ::ThePooN::{ user=718454 } |
 
 ## 링크
 
@@ -64,36 +64,36 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 
 |  | 국가 | 팀원 |
 | :-: | :-: | :-- |
-| ::{ flag=AR }:: | **아르헨티나** | **[Pollotuc](https://osu.ppy.sh/users/42440)**, [juanilp4evr](https://osu.ppy.sh/users/6413125), [Atreevete](https://osu.ppy.sh/users/2615199), [warning dark](https://osu.ppy.sh/users/5040981) |
-| ::{ flag=AU }:: | **호주** | **[Beat43210](https://osu.ppy.sh/users/5664171)**, [Tsubasa2](https://osu.ppy.sh/users/6835183), [richy2001](https://osu.ppy.sh/users/11499467), [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046) |
-| ::{ flag=AT }:: | **오스트리아** | **[animexamera](https://osu.ppy.sh/users/7511357)**, [morth1](https://osu.ppy.sh/users/7246874), [Der Katze](https://osu.ppy.sh/users/7645997), [kBocaj](https://osu.ppy.sh/users/11453341), [Amane](https://osu.ppy.sh/users/6821436) |
-| ::{ flag=BR }:: | **브라질** | **[Lazarento](https://osu.ppy.sh/users/3224958)**, [Uzi I](https://osu.ppy.sh/users/6042123), [AiAyako](https://osu.ppy.sh/users/7003491), [Lolligerjoj](https://osu.ppy.sh/users/9053338), [mihinho](https://osu.ppy.sh/users/6509269) |
-| ::{ flag=CA }:: | **캐나다** | **[beary605](https://osu.ppy.sh/users/2198070)**, [iceandele](https://osu.ppy.sh/users/1740540), [Player-](https://osu.ppy.sh/users/3724819), [rubies87](https://osu.ppy.sh/users/4949934), [DuckyDoom](https://osu.ppy.sh/users/3153062) |
-| ::{ flag=CL }:: | **칠레** | **[Catulus](https://osu.ppy.sh/users/6276709)**, [Adimoc](https://osu.ppy.sh/users/6757492), [-NaNdo-](https://osu.ppy.sh/users/1934382) |
-| ::{ flag=CN }:: | **중국** | **[\[sACRIFICe\]](https://osu.ppy.sh/users/6294200)**, [super mario fan](https://osu.ppy.sh/users/8263525), [Flandre sca](https://osu.ppy.sh/users/10324309), [-OvO-](https://osu.ppy.sh/users/12208924), [Nisoquo](https://osu.ppy.sh/users/12345370) |
-| ::{ flag=EC }:: | **에콰도르** | **[Gamelan4](https://osu.ppy.sh/users/9856910)**, [Arkano036](https://osu.ppy.sh/users/5899577), [Etsu](https://osu.ppy.sh/users/3442319) |
-| ::{ flag=FR }:: | **프랑스** | **[maximaxiU](https://osu.ppy.sh/users/4069690)**, [Chernobog](https://osu.ppy.sh/users/3317042), [Gintoki8](https://osu.ppy.sh/users/2239411), [ALISTAR033009](https://osu.ppy.sh/users/9819975), [ZeddaStake](https://osu.ppy.sh/users/8801844) |
-| ::{ flag=DE }:: | **독일 A** | **[Capu](https://osu.ppy.sh/users/2474015)**, [\[TaikoTori\]](https://osu.ppy.sh/users/1074143), [QEpicAce](https://osu.ppy.sh/users/9489153), [Siegmund99](https://osu.ppy.sh/users/5168596), [xBourbon\_Kid](https://osu.ppy.sh/users/645775) |
-| ::{ flag=DE }:: | **독일 B** | **[Aninoss](https://osu.ppy.sh/users/7364706)**, [Sayira](https://osu.ppy.sh/users/7253958), [JanteSmith](https://osu.ppy.sh/users/371772), [Naugustogi](https://osu.ppy.sh/users/6803970) |
-| ::{ flag=HK }:: | **홍콩** | **[Brown918](https://osu.ppy.sh/users/9805760)**, [Cynplytholowazy](https://osu.ppy.sh/users/3901754), [\[\_isolated\_\]](https://osu.ppy.sh/users/6187838) |
-| ::{ flag=ID }:: | **인도네시아 A** | **[Mikurio](https://osu.ppy.sh/users/10734140)**, [misaki_tk](https://osu.ppy.sh/users/3866964), [steven1](https://osu.ppy.sh/users/3090416), [Volta](https://osu.ppy.sh/users/4154071) |
-| ::{ flag=ID }:: | **인도네시아 B** | **[Viewland](https://osu.ppy.sh/users/6250135)**, [Shirai-](https://osu.ppy.sh/users/4221845), [Alwaysyukaz](https://osu.ppy.sh/users/4999506), [ImChro](https://osu.ppy.sh/users/7280717), [Ahmad Haris](https://osu.ppy.sh/users/6048245) |
-| ::{ flag=JP }:: | **일본** | **[Briesmas](https://osu.ppy.sh/users/2865172)**, [autumndayo](https://osu.ppy.sh/users/12268857), [TEL09016579767](https://osu.ppy.sh/users/3925121), [shinnme_ao](https://osu.ppy.sh/users/6252972), [Ku_Ren](https://osu.ppy.sh/users/2535243) |
-| ::{ flag=MY }:: | **말레이시아** | **[Bedwyr Aorta](https://osu.ppy.sh/users/10875855)**, [Megumin-Sama](https://osu.ppy.sh/users/6201335), [Minisora](https://osu.ppy.sh/users/9627666), [imnoobatosuosu](https://osu.ppy.sh/users/12086753) |
-| ::{ flag=MX }:: | **멕시코** | **[Iojioji](https://osu.ppy.sh/users/1346121)**, [ZaveryK](https://osu.ppy.sh/users/10913397), [L\_CORTES\_01](https://osu.ppy.sh/users/12548363) |
-| ::{ flag=NL }:: | **네덜란드** | **[Krekker](https://osu.ppy.sh/users/8265940)**, [Hypello](https://osu.ppy.sh/users/1594036), [jesse-98](https://osu.ppy.sh/users/502722), [StrijkIjzer](https://osu.ppy.sh/users/4130926) |
-| ::{ flag=PH }:: | **필리핀** | **[yuki\_momoiro722](https://osu.ppy.sh/users/7186791)**, [Niro-](https://osu.ppy.sh/users/6443899), [A i r](https://osu.ppy.sh/users/10363380), [Yron8](https://osu.ppy.sh/users/1537747) |
-| ::{ flag=PL }:: | **폴란드** | **[Agresywny Arbuz](https://osu.ppy.sh/users/7056658)**, [Tetsurio](https://osu.ppy.sh/users/2044810), [-Jamu-](https://osu.ppy.sh/users/2271556), [Wolfgang](https://osu.ppy.sh/users/7184324), [fafik99](https://osu.ppy.sh/users/1787011) |
-| ::{ flag=RU }:: | **러시아 A** | **[Nozdormu](https://osu.ppy.sh/users/7169208)**, [Akonine](https://osu.ppy.sh/users/7774222), [pavlukivan](https://osu.ppy.sh/users/8321579), [CrowWhite](https://osu.ppy.sh/users/8638977), [TwinT](https://osu.ppy.sh/users/9976154) |
-| ::{ flag=RU }:: | **러시아 B** | **[-Rmdy](https://osu.ppy.sh/users/1933816)**, [JW-Dash](https://osu.ppy.sh/users/5285786), [oserry](https://osu.ppy.sh/users/11973082), [Starger](https://osu.ppy.sh/users/3398715), [Crysally](https://osu.ppy.sh/users/7792131) |
-| ::{ flag=DK }:: ::{ flag=NO }:: ::{ flag=SE }:: | **스칸디나비아** | **[Hana Hayashi](https://osu.ppy.sh/users/4601806)**, [1794766](https://osu.ppy.sh/users/1794766), [Mills](https://osu.ppy.sh/users/7234023), [KatLeNeko](https://osu.ppy.sh/users/10183710), [mammasutter](https://osu.ppy.sh/users/11830625) |
-| ::{ flag=KR }:: | **대한민국** | **[POCARI-SWEAT](https://osu.ppy.sh/users/5082685)**, [bbj0920](https://osu.ppy.sh/users/87546), [yuhuna_kor](https://osu.ppy.sh/users/13046017), [\[Akita-Neru\]](https://osu.ppy.sh/users/613944), [TRAtOrTs](https://osu.ppy.sh/users/12481695) |
-| ::{ flag=ES }:: | **스페인** | **[naliem](https://osu.ppy.sh/users/3252709)**, [RuinedChicken](https://osu.ppy.sh/users/7983713), [Machango](https://osu.ppy.sh/users/7180552), [Nara\_NB](https://osu.ppy.sh/users/3593992) |
-| ::{ flag=TW }:: | **대만** | **[- DeveRUX -](https://osu.ppy.sh/users/2900875)**, [Hatsuse](https://osu.ppy.sh/users/697007), [nw9v4g46](https://osu.ppy.sh/users/2169329), [david649713](https://osu.ppy.sh/users/1390823) |
-| ::{ flag=GB }:: ::{ flag=PT }:: | **영국/포르투갈** | **[Metzo](https://osu.ppy.sh/users/10633982)**, [w1ll](https://osu.ppy.sh/users/11406987), [Ali161102](https://osu.ppy.sh/users/7582420), [Yumi\_Hideaki](https://osu.ppy.sh/users/10081162) |
-| ::{ flag=US }:: | **미국 A** | **[Backfire](https://osu.ppy.sh/users/263110)**, [ChurroChef](https://osu.ppy.sh/users/9258564), [CaptainEChan](https://osu.ppy.sh/users/9536977), [dragonworm](https://osu.ppy.sh/users/11464752) |
-| ::{ flag=US }:: | **미국 B** | **[driodx](https://osu.ppy.sh/users/9709548)**, [Shindamama](https://osu.ppy.sh/users/12780046), [R J](https://osu.ppy.sh/users/6490509), [DiggyDogg](https://osu.ppy.sh/users/5014664) |
-| ::{ flag=VE }:: | **베네수엘라** | **[Nutellitah](https://osu.ppy.sh/users/10613075)**, [JessiChan](https://osu.ppy.sh/users/1368025) |
+| ::{ flag=AR }:: | **아르헨티나** | **::Pollotuc::{ user=42440 }**, ::juanilp4evr::{ user=6413125 }, ::Atreevete::{ user=2615199 }, ::warning dark::{ user=5040981 } |
+| ::{ flag=AU }:: | **호주** | **::Beat43210::{ user=5664171 }**, ::Tsubasa2::{ user=6835183 }, ::richy2001::{ user=11499467 }, ::AmateurMonkeyYT::{ user=8379046 } |
+| ::{ flag=AT }:: | **오스트리아** | **::animexamera::{ user=7511357 }**, ::morth1::{ user=7246874 }, ::Der Katze::{ user=7645997 }, ::kBocaj::{ user=11453341 }, ::Amane::{ user=6821436 } |
+| ::{ flag=BR }:: | **브라질** | **::Lazarento::{ user=3224958 }**, ::Uzi I::{ user=6042123 }, ::AiAyako::{ user=7003491 }, ::Lolligerjoj::{ user=9053338 }, ::mihinho::{ user=6509269 } |
+| ::{ flag=CA }:: | **캐나다** | **::beary605::{ user=2198070 }**, ::iceandele::{ user=1740540 }, ::Player-::{ user=3724819 }, ::rubies87::{ user=4949934 }, ::DuckyDoom::{ user=3153062 } |
+| ::{ flag=CL }:: | **칠레** | **::Catulus::{ user=6276709 }**, ::Adimoc::{ user=6757492 }, ::-NaNdo-::{ user=1934382 } |
+| ::{ flag=CN }:: | **중국** | **::\[sACRIFICe\]::{ user=6294200 }**, ::super mario fan::{ user=8263525 }, ::Flandre sca::{ user=10324309 }, ::-OvO-::{ user=12208924 }, ::Nisoquo::{ user=12345370 } |
+| ::{ flag=EC }:: | **에콰도르** | **::Gamelan4::{ user=9856910 }**, ::Arkano036::{ user=5899577 }, ::Etsu::{ user=3442319 } |
+| ::{ flag=FR }:: | **프랑스** | **::maximaxiU::{ user=4069690 }**, ::Chernobog::{ user=3317042 }, ::Gintoki8::{ user=2239411 }, ::ALISTAR033009::{ user=9819975 }, ::ZeddaStake::{ user=8801844 } |
+| ::{ flag=DE }:: | **독일 A** | **::Capu::{ user=2474015 }**, ::\[TaikoTori\]::{ user=1074143 }, ::QEpicAce::{ user=9489153 }, ::Siegmund99::{ user=5168596 }, ::xBourbon\_Kid::{ user=645775 } |
+| ::{ flag=DE }:: | **독일 B** | **::Aninoss::{ user=7364706 }**, ::Sayira::{ user=7253958 }, ::JanteSmith::{ user=371772 }, ::Naugustogi::{ user=6803970 } |
+| ::{ flag=HK }:: | **홍콩** | **::Brown918::{ user=9805760 }**, ::Cynplytholowazy::{ user=3901754 }, ::\[\_isolated\_\]::{ user=6187838 } |
+| ::{ flag=ID }:: | **인도네시아 A** | **::Mikurio::{ user=10734140 }**, ::misaki_tk::{ user=3866964 }, ::steven1::{ user=3090416 }, ::Volta::{ user=4154071 } |
+| ::{ flag=ID }:: | **인도네시아 B** | **::Viewland::{ user=6250135 }**, ::Shirai-::{ user=4221845 }, ::Alwaysyukaz::{ user=4999506 }, ::ImChro::{ user=7280717 }, ::Ahmad Haris::{ user=6048245 } |
+| ::{ flag=JP }:: | **일본** | **::Briesmas::{ user=2865172 }**, ::autumndayo::{ user=12268857 }, ::TEL09016579767::{ user=3925121 }, ::shinnme_ao::{ user=6252972 }, ::Ku_Ren::{ user=2535243 } |
+| ::{ flag=MY }:: | **말레이시아** | **::Bedwyr Aorta::{ user=10875855 }**, ::Megumin-Sama::{ user=6201335 }, ::Minisora::{ user=9627666 }, ::imnoobatosuosu::{ user=12086753 } |
+| ::{ flag=MX }:: | **멕시코** | **::Iojioji::{ user=1346121 }**, ::ZaveryK::{ user=10913397 }, ::L\_CORTES\_01::{ user=12548363 } |
+| ::{ flag=NL }:: | **네덜란드** | **::Krekker::{ user=8265940 }**, ::Hypello::{ user=1594036 }, ::jesse-98::{ user=502722 }, ::StrijkIjzer::{ user=4130926 } |
+| ::{ flag=PH }:: | **필리핀** | **::yuki\_momoiro722::{ user=7186791 }**, ::Niro-::{ user=6443899 }, ::A i r::{ user=10363380 }, ::Yron8::{ user=1537747 } |
+| ::{ flag=PL }:: | **폴란드** | **::Agresywny Arbuz::{ user=7056658 }**, ::Tetsurio::{ user=2044810 }, ::-Jamu-::{ user=2271556 }, ::Wolfgang::{ user=7184324 }, ::fafik99::{ user=1787011 } |
+| ::{ flag=RU }:: | **러시아 A** | **::Nozdormu::{ user=7169208 }**, ::Akonine::{ user=7774222 }, ::pavlukivan::{ user=8321579 }, ::CrowWhite::{ user=8638977 }, ::TwinT::{ user=9976154 } |
+| ::{ flag=RU }:: | **러시아 B** | **::-Rmdy::{ user=1933816 }**, ::JW-Dash::{ user=5285786 }, ::oserry::{ user=11973082 }, ::Starger::{ user=3398715 }, ::Crysally::{ user=7792131 } |
+| ::{ flag=DK }:: ::{ flag=NO }:: ::{ flag=SE }:: | **스칸디나비아** | **::Hana Hayashi::{ user=4601806 }**, ::1794766::{ user=1794766 }, ::Mills::{ user=7234023 }, ::KatLeNeko::{ user=10183710 }, ::mammasutter::{ user=11830625 } |
+| ::{ flag=KR }:: | **대한민국** | **::POCARI-SWEAT::{ user=5082685 }**, ::bbj0920::{ user=87546 }, ::yuhuna_kor::{ user=13046017 }, ::\[Akita-Neru\]::{ user=613944 }, ::TRAtOrTs::{ user=12481695 } |
+| ::{ flag=ES }:: | **스페인** | **::naliem::{ user=3252709 }**, ::RuinedChicken::{ user=7983713 }, ::Machango::{ user=7180552 }, ::Nara\_NB::{ user=3593992 } |
+| ::{ flag=TW }:: | **대만** | **::- DeveRUX -::{ user=2900875 }**, ::Hatsuse::{ user=697007 }, ::nw9v4g46::{ user=2169329 }, ::david649713::{ user=1390823 } |
+| ::{ flag=GB }:: ::{ flag=PT }:: | **영국/포르투갈** | **::Metzo::{ user=10633982 }**, ::w1ll::{ user=11406987 }, ::Ali161102::{ user=7582420 }, ::Yumi\_Hideaki::{ user=10081162 } |
+| ::{ flag=US }:: | **미국 A** | **::Backfire::{ user=263110 }**, ::ChurroChef::{ user=9258564 }, ::CaptainEChan::{ user=9536977 }, ::dragonworm::{ user=11464752 } |
+| ::{ flag=US }:: | **미국 B** | **::driodx::{ user=9709548 }**, ::Shindamama::{ user=12780046 }, ::R J::{ user=6490509 }, ::DiggyDogg::{ user=5014664 } |
+| ::{ flag=VE }:: | **베네수엘라** | **::Nutellitah::{ user=10613075 }**, ::JessiChan::{ user=1368025 } |
 
 ## 시드
 

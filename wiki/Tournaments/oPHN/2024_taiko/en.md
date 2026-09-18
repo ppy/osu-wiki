@@ -35,14 +35,14 @@ The osu! Philippines Nationals 2024 - osu!taiko tournament was ran by various co
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=PH }:: [qish](https://osu.ppy.sh/users/17050115), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
-| Mappool Selector | ::{ flag=ID }:: [Alwaysyukaz](https://osu.ppy.sh/users/4999506), ::{ flag=PH }:: [Fynbi](https://osu.ppy.sh/users/2164993), ::{ flag=ID }:: [Lightning Wyvern](https://osu.ppy.sh/users/1533122), ::{ flag=PH }:: [Mochii\_31](https://osu.ppy.sh/users/25140935), ::{ flag=PH }:: [qish](https://osu.ppy.sh/users/17050115), ::{ flag=US }:: [SilverTyrant](https://osu.ppy.sh/users/14356353) |
-| Mappers and Testers | ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957), ::{ flag=ID }:: [Alwaysyukaz](https://osu.ppy.sh/users/4999506), ::{ flag=PH }:: [Eyenine](https://osu.ppy.sh/users/1259391), ::{ flag=PH }:: [Fynbi](https://osu.ppy.sh/users/2164993), ::{ flag=TW }:: [K a y o k o](https://osu.ppy.sh/users/17664300), ::{ flag=ID }:: [Lightning Wyvern](https://osu.ppy.sh/users/1533122), ::{ flag=PH }:: [midorijeon](https://osu.ppy.sh/users/10969875), ::{ flag=RU }:: [Nozdormu](https://osu.ppy.sh/users/7169208), ::{ flag=PH }:: [qish](https://osu.ppy.sh/users/17050115), ::{ flag=TW }:: [WTHBRO](https://osu.ppy.sh/users/8957119), ::{ flag=TW }:: [X a v y](https://osu.ppy.sh/users/3738344), ::{ flag=PH }:: [CoEqual](https://osu.ppy.sh/users/14167247), ::{ flag=PH }:: [Fluorinedesu](https://osu.ppy.sh/users/26539515), ::{ flag=PH }:: [JoshEco4](https://osu.ppy.sh/users/18591473), ::{ flag=PH }:: [Mochii\_31](https://osu.ppy.sh/users/25140935), ::{ flag=UK }:: [My Angel Subaru](https://osu.ppy.sh/users/17797595), ::{ flag=US }:: [SilverTyrant](https://osu.ppy.sh/users/14356353) |
-| Referee | ::{ flag=PH }:: [-Ichinose](https://osu.ppy.sh/users/12635292), ::{ flag=PH }:: [CoEqual](https://osu.ppy.sh/users/14167247), ::{ flag=PH }:: [Fluorinedesu](https://osu.ppy.sh/users/26539515), ::{ flag=PH }:: [Phann\_](https://osu.ppy.sh/users/12905445), ::{ flag=PH }:: [Shiori Shiomiya](https://osu.ppy.sh/users/11154860), ::{ flag=SG }:: [Spartric](https://osu.ppy.sh/users/7740442) |
-| Streamer | ::{ flag=PH }:: [CoEqual](https://osu.ppy.sh/users/14167247), ::{ flag=PH }:: [Spartric](https://osu.ppy.sh/users/7740442), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
-| Commentator | ::{ flag=PH }:: [ezeenS](https://osu.ppy.sh/users/3679969), ::{ flag=PH }:: [Farmer Brown](https://osu.ppy.sh/users/17823779), ::{ flag=PH }:: [IDan24](https://osu.ppy.sh/users/11730796), ::{ flag=PH }:: [Mochii\_31](https://osu.ppy.sh/users/25140935), ::{ flag=UK }:: [My Angel Subaru](https://osu.ppy.sh/users/17797595), ::{ flag=PH }:: [qish](https://osu.ppy.sh/users/17050115), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895) |
-| GFX | ::{ flag=PH }:: [muffleberry](https://osu.ppy.sh/users/8978259), ::{ flag=PH }:: [Miyazumi](https://osu.ppy.sh/users/9919550), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550) |
-| Statistician | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
+| Host | ::{ flag=PH }:: ::qish::{ user=17050115 }, ::{ flag=PH }:: ::Silhoueska Elze::{ user=11517895 }, ::{ flag=PH }:: ::SurfChu85::{ user=4469895 } |
+| Mappool Selector | ::{ flag=ID }:: ::Alwaysyukaz::{ user=4999506 }, ::{ flag=PH }:: ::Fynbi::{ user=2164993 }, ::{ flag=ID }:: ::Lightning Wyvern::{ user=1533122 }, ::{ flag=PH }:: ::Mochii\_31::{ user=25140935 }, ::{ flag=PH }:: ::qish::{ user=17050115 }, ::{ flag=US }:: ::SilverTyrant::{ user=14356353 } |
+| Mappers and Testers | ::{ flag=SG }:: ::\_gt::{ user=8301957 }, ::{ flag=ID }:: ::Alwaysyukaz::{ user=4999506 }, ::{ flag=PH }:: ::Eyenine::{ user=1259391 }, ::{ flag=PH }:: ::Fynbi::{ user=2164993 }, ::{ flag=TW }:: ::K a y o k o::{ user=17664300 }, ::{ flag=ID }:: ::Lightning Wyvern::{ user=1533122 }, ::{ flag=PH }:: ::midorijeon::{ user=10969875 }, ::{ flag=RU }:: ::Nozdormu::{ user=7169208 }, ::{ flag=PH }:: ::qish::{ user=17050115 }, ::{ flag=TW }:: ::WTHBRO::{ user=8957119 }, ::{ flag=TW }:: ::X a v y::{ user=3738344 }, ::{ flag=PH }:: ::CoEqual::{ user=14167247 }, ::{ flag=PH }:: ::Fluorinedesu::{ user=26539515 }, ::{ flag=PH }:: ::JoshEco4::{ user=18591473 }, ::{ flag=PH }:: ::Mochii\_31::{ user=25140935 }, ::{ flag=UK }:: ::My Angel Subaru::{ user=17797595 }, ::{ flag=US }:: ::SilverTyrant::{ user=14356353 } |
+| Referee | ::{ flag=PH }:: ::-Ichinose::{ user=12635292 }, ::{ flag=PH }:: ::CoEqual::{ user=14167247 }, ::{ flag=PH }:: ::Fluorinedesu::{ user=26539515 }, ::{ flag=PH }:: ::Phann\_::{ user=12905445 }, ::{ flag=PH }:: ::Shiori Shiomiya::{ user=11154860 }, ::{ flag=SG }:: ::Spartric::{ user=7740442 } |
+| Streamer | ::{ flag=PH }:: ::CoEqual::{ user=14167247 }, ::{ flag=PH }:: ::Spartric::{ user=7740442 }, ::{ flag=PH }:: ::SurfChu85::{ user=4469895 } |
+| Commentator | ::{ flag=PH }:: ::ezeenS::{ user=3679969 }, ::{ flag=PH }:: ::Farmer Brown::{ user=17823779 }, ::{ flag=PH }:: ::IDan24::{ user=11730796 }, ::{ flag=PH }:: ::Mochii\_31::{ user=25140935 }, ::{ flag=UK }:: ::My Angel Subaru::{ user=17797595 }, ::{ flag=PH }:: ::qish::{ user=17050115 }, ::{ flag=PH }:: ::Silhoueska Elze::{ user=11517895 } |
+| GFX | ::{ flag=PH }:: ::muffleberry::{ user=8978259 }, ::{ flag=PH }:: ::Miyazumi::{ user=9919550 }, ::{ flag=PH }:: ::yukina meng::{ user=9919550 } |
+| Statistician | ::{ flag=NL }:: ::Albionthegreat::{ user=9853595 }, ::{ flag=PH }:: ::SurfChu85::{ user=4469895 } |
 
 ## Links
 
@@ -64,22 +64,22 @@ The following players qualified for the tournament:
 
 | Seed | Users |
 | :-- | :-- |
-| 1 | ::{ flag=PH }:: [Silicosis 2](https://osu.ppy.sh/users/18560307) |
-| 2 | ::{ flag=PH }:: [Astrid Park](https://osu.ppy.sh/users/12320451) |
-| 3 | ::{ flag=PH }:: [Taikore](https://osu.ppy.sh/users/29115112) |
-| 4 | ::{ flag=PH }:: [space-walker](https://osu.ppy.sh/users/9435841) |
-| 5 | ::{ flag=PH }:: [Krishel17](https://osu.ppy.sh/users/9841880) |
-| 6 | ::{ flag=PH }:: [Farmer Brown](https://osu.ppy.sh/users/17823779) |
-| 7 | ::{ flag=PH }:: [rrapido](https://osu.ppy.sh/users/18630149) |
-| 8 | ::{ flag=PH }:: [wwowie](https://osu.ppy.sh/users/19445999) |
-| 9 | ::{ flag=PH }:: [Asa Kazato](https://osu.ppy.sh/users/13547767) |
-| 10 | ::{ flag=PH }:: [Kornettissimo](https://osu.ppy.sh/users/7487058) |
-| 11 | ::{ flag=PH }:: [Syni-](https://osu.ppy.sh/users/15232470) |
-| 12 | ::{ flag=PH }:: [Euanofthedead](https://osu.ppy.sh/users/15676812) |
-| 13 | ::{ flag=PH }:: [\_Kancho\_](https://osu.ppy.sh/users/11035895) |
-| 14 | ::{ flag=PH }:: [Kotaro](https://osu.ppy.sh/users/796530) |
-| 15 | ::{ flag=SA }:: [thesuslulkid](https://osu.ppy.sh/users/25611653) |
-| 16 | ::{ flag=PH }:: [Phann\_](https://osu.ppy.sh/users/12905445) |
+| 1 | ::{ flag=PH }:: ::Silicosis 2::{ user=18560307 } |
+| 2 | ::{ flag=PH }:: ::Astrid Park::{ user=12320451 } |
+| 3 | ::{ flag=PH }:: ::Taikore::{ user=29115112 } |
+| 4 | ::{ flag=PH }:: ::space-walker::{ user=9435841 } |
+| 5 | ::{ flag=PH }:: ::Krishel17::{ user=9841880 } |
+| 6 | ::{ flag=PH }:: ::Farmer Brown::{ user=17823779 } |
+| 7 | ::{ flag=PH }:: ::rrapido::{ user=18630149 } |
+| 8 | ::{ flag=PH }:: ::wwowie::{ user=19445999 } |
+| 9 | ::{ flag=PH }:: ::Asa Kazato::{ user=13547767 } |
+| 10 | ::{ flag=PH }:: ::Kornettissimo::{ user=7487058 } |
+| 11 | ::{ flag=PH }:: ::Syni-::{ user=15232470 } |
+| 12 | ::{ flag=PH }:: ::Euanofthedead::{ user=15676812 } |
+| 13 | ::{ flag=PH }:: ::\_Kancho\_::{ user=11035895 } |
+| 14 | ::{ flag=PH }:: ::Kotaro::{ user=796530 } |
+| 15 | ::{ flag=SA }:: ::thesuslulkid::{ user=25611653 } |
+| 16 | ::{ flag=PH }:: ::Phann\_::{ user=12905445 } |
 
 ## Podium
 
@@ -87,9 +87,9 @@ This competition ended with the following podium:
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: [Silicosis 2](https://osu.ppy.sh/users/18560307) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [Astrid Park](https://osu.ppy.sh/users/12320451) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: [Taikore](https://osu.ppy.sh/users/29115112) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: ::Silicosis 2::{ user=18560307 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: ::Astrid Park::{ user=12320451 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: ::Taikore::{ user=29115112 } |
 
 ## Mappools
 

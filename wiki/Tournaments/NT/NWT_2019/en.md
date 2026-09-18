@@ -8,7 +8,7 @@ tags:
 
 ![NWT 2019 logo](img/logo.jpg)
 
-The **nik's Winter Tour 2019** (***NWT 2019***) was a worldwide 1v1 double-elimination osu! tournament hosted by ::{ flag=NL }:: [nikolomara](https://osu.ppy.sh/users/10077264). It was the first instalment of the nik's Tournaments series.
+The **nik's Winter Tour 2019** (***NWT 2019***) was a worldwide 1v1 double-elimination osu! tournament hosted by ::{ flag=NL }:: ::nikolomara::{ user=10077264 }. It was the first instalment of the nik's Tournaments series.
 
 ## Tournament schedule
 
@@ -39,15 +39,15 @@ The nik's Winter Tour 2019 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=NL }:: [nikolomara](https://osu.ppy.sh/users/10077264) |
-| Admin | ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [vita2](https://osu.ppy.sh/users/10706998) |
-| Mappool selector | ::{ flag=US }:: [dblade](https://osu.ppy.sh/users/4272841), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [vita2](https://osu.ppy.sh/users/10706998) |
-| Referee | ::{ flag=FR }:: [\[ Mimir \]](https://osu.ppy.sh/users/7382734), ::{ flag=DE }:: [Arekkuso](https://osu.ppy.sh/users/9287979), ::{ flag=PL }:: [Asasyn01](https://osu.ppy.sh/users/8013323), ::{ flag=US }:: [Dios Dong](https://osu.ppy.sh/users/3958619), ::{ flag=KR }:: [Hal\[Cyon\]](https://osu.ppy.sh/users/9740893), ::{ flag=DE }:: [hi-def](https://osu.ppy.sh/users/10697191), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=AU }:: [loler123903](https://osu.ppy.sh/users/8034438), ::{ flag=SE }:: [Melwoine](https://osu.ppy.sh/users/12091109), ::{ flag=NL }:: [nikolomara](https://osu.ppy.sh/users/10077264), ::{ flag=US }:: [Poke\_player](https://osu.ppy.sh/users/6502279), ::{ flag=GB }:: [Snipe The Neko](https://osu.ppy.sh/users/8638531), ::{ flag=VN }:: [steve\_04\_](https://osu.ppy.sh/users/10852911), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [vita2](https://osu.ppy.sh/users/10706998), ::{ flag=DE }:: [WitchOfFrost](https://osu.ppy.sh/users/7511840), ::{ flag=RU }:: [Xassie](https://osu.ppy.sh/users/7958911) |
-| Streamer | ::{ flag=US }:: [Dios Dong](https://osu.ppy.sh/users/3958619), ::{ flag=FR }:: [Kaeldori](https://osu.ppy.sh/users/962519), ::{ flag=VN }:: [steve\_04\_](https://osu.ppy.sh/users/10852911), ::{ flag=DE }:: [WitchOfFrost](https://osu.ppy.sh/users/7511840) |
-| Commentator | ::{ flag=US }:: [Dios Dong](https://osu.ppy.sh/users/3958619), ::{ flag=DE }:: [hi-def](https://osu.ppy.sh/users/10697191), ::{ flag=NL }:: [Just Lucan](https://osu.ppy.sh/users/5007943), ::{ flag=DE }:: [WitchOfFrost](https://osu.ppy.sh/users/7511840), ::{ flag=US }:: [YoshiLover456](https://osu.ppy.sh/users/6843383) |
-| Designer | ::{ flag=US }:: [\_p0ke\_](https://osu.ppy.sh/users/5434711), ::{ flag=US }:: [Cindelluna](https://osu.ppy.sh/users/3039847) |
-| Statistician | ::{ flag=NL }:: [nikolomara](https://osu.ppy.sh/users/10077264) |
-| Wiki editor | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Manager | ::{ flag=NL }:: ::nikolomara::{ user=10077264 } |
+| Admin | ::{ flag=US }:: ::tigereyes144::{ user=6499811 }, ::{ flag=GB }:: ::vita2::{ user=10706998 } |
+| Mappool selector | ::{ flag=US }:: ::dblade::{ user=4272841 }, ::{ flag=US }:: ::tigereyes144::{ user=6499811 }, ::{ flag=GB }:: ::vita2::{ user=10706998 } |
+| Referee | ::{ flag=FR }:: ::\[ Mimir \]::{ user=7382734 }, ::{ flag=DE }:: ::Arekkuso::{ user=9287979 }, ::{ flag=PL }:: ::Asasyn01::{ user=8013323 }, ::{ flag=US }:: ::Dios Dong::{ user=3958619 }, ::{ flag=KR }:: ::Hal\[Cyon\]::{ user=9740893 }, ::{ flag=DE }:: ::hi-def::{ user=10697191 }, ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, ::{ flag=AU }:: ::loler123903::{ user=8034438 }, ::{ flag=SE }:: ::Melwoine::{ user=12091109 }, ::{ flag=NL }:: ::nikolomara::{ user=10077264 }, ::{ flag=US }:: ::Poke\_player::{ user=6502279 }, ::{ flag=GB }:: ::Snipe The Neko::{ user=8638531 }, ::{ flag=VN }:: ::steve\_04\_::{ user=10852911 }, ::{ flag=US }:: ::tigereyes144::{ user=6499811 }, ::{ flag=GB }:: ::vita2::{ user=10706998 }, ::{ flag=DE }:: ::WitchOfFrost::{ user=7511840 }, ::{ flag=RU }:: ::Xassie::{ user=7958911 } |
+| Streamer | ::{ flag=US }:: ::Dios Dong::{ user=3958619 }, ::{ flag=FR }:: ::Kaeldori::{ user=962519 }, ::{ flag=VN }:: ::steve\_04\_::{ user=10852911 }, ::{ flag=DE }:: ::WitchOfFrost::{ user=7511840 } |
+| Commentator | ::{ flag=US }:: ::Dios Dong::{ user=3958619 }, ::{ flag=DE }:: ::hi-def::{ user=10697191 }, ::{ flag=NL }:: ::Just Lucan::{ user=5007943 }, ::{ flag=DE }:: ::WitchOfFrost::{ user=7511840 }, ::{ flag=US }:: ::YoshiLover456::{ user=6843383 } |
+| Designer | ::{ flag=US }:: ::\_p0ke\_::{ user=5434711 }, ::{ flag=US }:: ::Cindelluna::{ user=3039847 } |
+| Statistician | ::{ flag=NL }:: ::nikolomara::{ user=10077264 } |
+| Wiki editor | ::{ flag=ID }:: ::fajar13k::{ user=7100002 } |
 
 ## Links
 
@@ -61,10 +61,10 @@ The nik's Winter Tour 2019 was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ::{ flag=US }:: [Fish-](https://osu.ppy.sh/users/3318654), ::{ flag=AU }:: [loveleft](https://osu.ppy.sh/users/9240047), ::{ flag=DE }:: [\[Lucky\]](https://osu.ppy.sh/users/1303685), ::{ flag=US }:: [\_p0ke\_](https://osu.ppy.sh/users/5434711), ::{ flag=RU }:: [Liswiera](https://osu.ppy.sh/users/9356954), ::{ flag=US }:: [YoshiLover456](https://osu.ppy.sh/users/6843383), ::{ flag=RU }:: [DeSconTent](https://osu.ppy.sh/users/7995027), ::{ flag=TW }:: [\_kyuu](https://osu.ppy.sh/users/3416783) |
-| High | ::{ flag=IT }:: [Proioxis](https://osu.ppy.sh/users/9503564), ::{ flag=UA }:: [Zertus](https://osu.ppy.sh/users/5875469), ::{ flag=KR }:: [pseudophilia](https://osu.ppy.sh/users/6192650), ::{ flag=KR }:: [woobin5004](https://osu.ppy.sh/users/1755215), ::{ flag=US }:: [San Diego](https://osu.ppy.sh/users/3993153) ,::{ flag=PL }:: [lokser](https://osu.ppy.sh/users/4675441), ::{ flag=DE }:: [Menty](https://osu.ppy.sh/users/3619284), ::{ flag=US }:: [Raoul](https://osu.ppy.sh/users/9924405) |
-| Low | ::{ flag=US }:: [F1shbowl](https://osu.ppy.sh/users/10129737), ::{ flag=ID }:: [Xicyte](https://osu.ppy.sh/users/10212581), ::{ flag=US }:: [lahwraN](https://osu.ppy.sh/users/6995880), ::{ flag=CA }:: [Xeli](https://osu.ppy.sh/users/4947796), ::{ flag=AT }:: [Snajper](https://osu.ppy.sh/users/4211027), ::{ flag=US }:: [themaster156](https://osu.ppy.sh/users/3845254), ::{ flag=PL }:: [bart6003](https://osu.ppy.sh/users/2100107), ::{ flag=AU }:: [Pictures](https://osu.ppy.sh/users/4578623) |
-| Unseeded | ::{ flag=ID }:: [NoVaLian](https://osu.ppy.sh/users/6459827), ::{ flag=DE }:: [Kawaii Kaneki](https://osu.ppy.sh/users/3344333), ::{ flag=CA }:: [deflateddolphin](https://osu.ppy.sh/users/10184558), ::{ flag=NO }:: [Defectum](https://osu.ppy.sh/users/8631719), ::{ flag=US }:: [Tuco](https://osu.ppy.sh/users/11706350), ::{ flag=RU }:: [Nentse](https://osu.ppy.sh/users/8559485), ::{ flag=FI }:: [Roba](https://osu.ppy.sh/users/5210561), ::{ flag=VN }:: [Mayukaki](https://osu.ppy.sh/users/1487263) |
+| Top | ::{ flag=US }:: ::Fish-::{ user=3318654 }, ::{ flag=AU }:: ::loveleft::{ user=9240047 }, ::{ flag=DE }:: ::\[Lucky\]::{ user=1303685 }, ::{ flag=US }:: ::\_p0ke\_::{ user=5434711 }, ::{ flag=RU }:: ::Liswiera::{ user=9356954 }, ::{ flag=US }:: ::YoshiLover456::{ user=6843383 }, ::{ flag=RU }:: ::DeSconTent::{ user=7995027 }, ::{ flag=TW }:: ::\_kyuu::{ user=3416783 } |
+| High | ::{ flag=IT }:: ::Proioxis::{ user=9503564 }, ::{ flag=UA }:: ::Zertus::{ user=5875469 }, ::{ flag=KR }:: ::pseudophilia::{ user=6192650 }, ::{ flag=KR }:: ::woobin5004::{ user=1755215 }, ::{ flag=US }:: ::San Diego::{ user=3993153 } ,::{ flag=PL }:: ::lokser::{ user=4675441 }, ::{ flag=DE }:: ::Menty::{ user=3619284 }, ::{ flag=US }:: ::Raoul::{ user=9924405 } |
+| Low | ::{ flag=US }:: ::F1shbowl::{ user=10129737 }, ::{ flag=ID }:: ::Xicyte::{ user=10212581 }, ::{ flag=US }:: ::lahwraN::{ user=6995880 }, ::{ flag=CA }:: ::Xeli::{ user=4947796 }, ::{ flag=AT }:: ::Snajper::{ user=4211027 }, ::{ flag=US }:: ::themaster156::{ user=3845254 }, ::{ flag=PL }:: ::bart6003::{ user=2100107 }, ::{ flag=AU }:: ::Pictures::{ user=4578623 } |
+| Unseeded | ::{ flag=ID }:: ::NoVaLian::{ user=6459827 }, ::{ flag=DE }:: ::Kawaii Kaneki::{ user=3344333 }, ::{ flag=CA }:: ::deflateddolphin::{ user=10184558 }, ::{ flag=NO }:: ::Defectum::{ user=8631719 }, ::{ flag=US }:: ::Tuco::{ user=11706350 }, ::{ flag=RU }:: ::Nentse::{ user=8559485 }, ::{ flag=FI }:: ::Roba::{ user=5210561 }, ::{ flag=VN }:: ::Mayukaki::{ user=1487263 } |
 
 ## Podium
 
@@ -72,9 +72,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: [Fish-](https://osu.ppy.sh/users/3318654) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=AU }:: [loveleft](https://osu.ppy.sh/users/9240047) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=DE }:: [\[Lucky\]](https://osu.ppy.sh/users/1303685) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: ::Fish-::{ user=3318654 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=AU }:: ::loveleft::{ user=9240047 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=DE }:: ::\[Lucky\]::{ user=1303685 } |
 
 ## Mappools
 

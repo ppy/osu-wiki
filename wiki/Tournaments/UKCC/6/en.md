@@ -9,7 +9,7 @@ tags:
 
 ![UKCC6 logo](img/logo.png)
 
-The **UK Community Cup 6** (***UKCC6***) was a British 2v2 double-elimination osu! tournament hosted by ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=GB }:: [Chrigarr](https://osu.ppy.sh/users/10111130), ::{ flag=GB }:: [\_Takara](https://osu.ppy.sh/users/11599184) and ::{ flag=GB }:: [Doomsday is Bad](https://osu.ppy.sh/users/3481378). It was the sixth instalment of the UK Community Cup series and the series' third 2v2 competition.
+The **UK Community Cup 6** (***UKCC6***) was a British 2v2 double-elimination osu! tournament hosted by ::{ flag=GB }:: ::Yazzehh::{ user=7068973 }, ::{ flag=GB }:: ::Chrigarr::{ user=10111130 }, ::{ flag=GB }:: ::\_Takara::{ user=11599184 } and ::{ flag=GB }:: ::Doomsday is Bad::{ user=3481378 }. It was the sixth instalment of the UK Community Cup series and the series' third 2v2 competition.
 
 ## Tournament schedule
 
@@ -45,13 +45,13 @@ The UK Community Cup 6 was run by various community members.
 
 | Position | Members |
 | :-- | :-- |
-| Manager | ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=GB }:: [Chrigarr](https://osu.ppy.sh/users/10111130), ::{ flag=GB }:: [\_Takara](https://osu.ppy.sh/users/11599184), ::{ flag=GB }:: [Doomsday is Bad](https://osu.ppy.sh/users/3481378) |
-| Mappool selector | ::{ flag=GB }:: [SoraRoxas01](https://osu.ppy.sh/users/1986262), ::{ flag=GB }:: [Jameslike](https://osu.ppy.sh/users/2415743), ::{ flag=GB }:: [helix](https://osu.ppy.sh/users/3322597), ::{ flag=GB }:: [Doomsday is Bad](https://osu.ppy.sh/users/3481378), ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207) |
-| Streamer | ::{ flag=GB }:: [Electovoid](https://osu.ppy.sh/users/6648263), ::{ flag=GB }:: [helix](https://osu.ppy.sh/users/3322597), ::{ flag=GB }:: [Chrigarr](https://osu.ppy.sh/users/10111130), ::{ flag=GB }:: [\_Takara](https://osu.ppy.sh/users/11599184), ::{ flag=CA }:: [kymotsujason](https://osu.ppy.sh/users/2541804) |
-| Commentator | ::{ flag=GB }:: [hlo](https://osu.ppy.sh/users/2232928), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [\_Takara](https://osu.ppy.sh/users/11599184), ::{ flag=GB }:: [AlexDark69](https://osu.ppy.sh/users/5146647), ::{ flag=GB }:: [Pelzio](https://osu.ppy.sh/users/4775226), ::{ flag=GB }:: [Electovoid](https://osu.ppy.sh/users/6648263), ::{ flag=GB }:: [xFluffyo](https://osu.ppy.sh/users/8397226), ::{ flag=GB }:: [Chrigarr](https://osu.ppy.sh/users/10111130), ::{ flag=GB }:: [sut\_son](https://osu.ppy.sh/users/sut_son), ::{ flag=GB }:: [Nega](https://osu.ppy.sh/users/3181083), ::{ flag=FI }:: [Nyanaro](https://osu.ppy.sh/users/4157611), ::{ flag=GB }:: [Rojaseq](https://osu.ppy.sh/users/3027841), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811) |
-| Designer | ::{ flag=GB }:: [Doomsday is Bad](https://osu.ppy.sh/users/3481378) |
-| Referee | ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850), ::{ flag=GB }:: [Chrigarr](https://osu.ppy.sh/users/10111130), ::{ flag=GB }:: [\_Takara](https://osu.ppy.sh/users/11599184), ::{ flag=GB }:: [minorman4](https://osu.ppy.sh/users/4837257), ::{ flag=GB }:: [Domblade](https://osu.ppy.sh/users/6701945), ::{ flag=FR }:: [FayeurS 5](https://osu.ppy.sh/users/6177263), ::{ flag=GB }:: [Arthorian](https://osu.ppy.sh/users/10588677), ::{ flag=NL }:: [Wiqued](https://osu.ppy.sh/users/10039350), ::{ flag=PL }:: [Baziu](https://osu.ppy.sh/users/7192659), ::{ flag=DE }:: [GDLenny](https://osu.ppy.sh/users/8406711), ::{ flag=GR }:: [Nikolomara](https://osu.ppy.sh/users/10077264), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=DE }:: [real cute](https://osu.ppy.sh/users/9172811), ::{ flag=BE }:: [DraQeu](https://osu.ppy.sh/users/4425520), ::{ flag=FR }:: [\[ Mimir \]](https://osu.ppy.sh/users/7382734) |
-| Statistician | ::{ flag=NO }:: [YokesPai](https://osu.ppy.sh/users/6399568) |
+| Manager | ::{ flag=GB }:: ::Yazzehh::{ user=7068973 }, ::{ flag=GB }:: ::Chrigarr::{ user=10111130 }, ::{ flag=GB }:: ::\_Takara::{ user=11599184 }, ::{ flag=GB }:: ::Doomsday is Bad::{ user=3481378 } |
+| Mappool selector | ::{ flag=GB }:: ::SoraRoxas01::{ user=1986262 }, ::{ flag=GB }:: ::Jameslike::{ user=2415743 }, ::{ flag=GB }:: ::helix::{ user=3322597 }, ::{ flag=GB }:: ::Doomsday is Bad::{ user=3481378 }, ::{ flag=US }:: ::DigitalHypno::{ user=4384207 } |
+| Streamer | ::{ flag=GB }:: ::Electovoid::{ user=6648263 }, ::{ flag=GB }:: ::helix::{ user=3322597 }, ::{ flag=GB }:: ::Chrigarr::{ user=10111130 }, ::{ flag=GB }:: ::\_Takara::{ user=11599184 }, ::{ flag=CA }:: ::kymotsujason::{ user=2541804 } |
+| Commentator | ::{ flag=GB }:: ::hlo::{ user=2232928 }, ::{ flag=GB }:: ::Doomsday::{ user=18983 }, ::{ flag=GB }:: ::\_Takara::{ user=11599184 }, ::{ flag=GB }:: ::AlexDark69::{ user=5146647 }, ::{ flag=GB }:: ::Pelzio::{ user=4775226 }, ::{ flag=GB }:: ::Electovoid::{ user=6648263 }, ::{ flag=GB }:: ::xFluffyo::{ user=8397226 }, ::{ flag=GB }:: ::Chrigarr::{ user=10111130 }, ::{ flag=GB }:: ::sut\_son::{ user=9622163 }, ::{ flag=GB }:: ::Nega::{ user=3181083 }, ::{ flag=FI }:: ::Nyanaro::{ user=4157611 }, ::{ flag=GB }:: ::Rojaseq::{ user=3027841 }, ::{ flag=US }:: ::tigereyes144::{ user=6499811 } |
+| Designer | ::{ flag=GB }:: ::Doomsday is Bad::{ user=3481378 } |
+| Referee | ::{ flag=GB }:: ::Yazzehh::{ user=7068973 }, ::{ flag=FI }:: ::Lefafel::{ user=2295850 }, ::{ flag=GB }:: ::Chrigarr::{ user=10111130 }, ::{ flag=GB }:: ::\_Takara::{ user=11599184 }, ::{ flag=GB }:: ::minorman4::{ user=4837257 }, ::{ flag=GB }:: ::Domblade::{ user=6701945 }, ::{ flag=FR }:: ::FayeurS 5::{ user=6177263 }, ::{ flag=GB }:: ::Arthorian::{ user=10588677 }, ::{ flag=NL }:: ::Wiqued::{ user=10039350 }, ::{ flag=PL }:: ::Baziu::{ user=7192659 }, ::{ flag=DE }:: ::GDLenny::{ user=8406711 }, ::{ flag=GR }:: ::Nikolomara::{ user=10077264 }, ::{ flag=US }:: ::tigereyes144::{ user=6499811 }, ::{ flag=DE }:: ::real cute::{ user=9172811 }, ::{ flag=BE }:: ::DraQeu::{ user=4425520 }, ::{ flag=FR }:: ::\[ Mimir \]::{ user=7382734 } |
+| Statistician | ::{ flag=NO }:: ::YokesPai::{ user=6399568 } |
 
 ## Links
 
@@ -67,64 +67,64 @@ The UK Community Cup 6 was run by various community members.
 
 | Team | Members |
 | :-- | :-- |
-| **Boom! Tetris for Benbow** | ::{ flag=GB }:: [TopSp1n](https://osu.ppy.sh/users/7657761), ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) |
-| **whatever** | ::{ flag=GB }:: [meltz](https://osu.ppy.sh/users/6741042), ::{ flag=GB }:: [Woffel](https://osu.ppy.sh/users/3915122) |
-| **Could've been major** | ::{ flag=GB }:: [Bloo](https://osu.ppy.sh/users/6778877), ::{ flag=GB }:: [Nega](https://osu.ppy.sh/users/3181083) |
-| **Blooming FlowR in Summer Solstice** | ::{ flag=GB }:: [Summer Solstice](https://osu.ppy.sh/users/3233710), ::{ flag=GB }:: [gadrin](https://osu.ppy.sh/users/2245830) |
-| **That one** | ::{ flag=GB }:: [Electovoid](https://osu.ppy.sh/users/6648263), ::{ flag=GB }:: [OPJames](https://osu.ppy.sh/users/4117142) |
-| **ok idk** | ::{ flag=GB }:: [hlo](https://osu.ppy.sh/users/2232928), ::{ flag=GB }:: [zzyyy](https://osu.ppy.sh/users/3600441) |
-| **SwimmyJimmies** | ::{ flag=GB }:: [OPJimmySwimmy](https://osu.ppy.sh/users/6576972), ::{ flag=GB }:: [OPSwimmyJimmy](https://osu.ppy.sh/users/4196808) |
-| **\[blank\]** | ::{ flag=GB }:: [Harpy](https://osu.ppy.sh/users/6761714), ::{ flag=GB }:: [xFluffyo](https://osu.ppy.sh/users/8397226) |
-| **Question Mark** | ::{ flag=GB }:: [Best459](https://osu.ppy.sh/users/8185366), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) |
-| **Where's yours???** | ::{ flag=GB }:: [KmK](https://osu.ppy.sh/users/7077554), ::{ flag=GB }:: [Wario](https://osu.ppy.sh/users/4361729) |
-| **10man?** | ::{ flag=GB }:: [majoreh](https://osu.ppy.sh/users/7959222), ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) |
-| **Twins Remastered** | ::{ flag=GB }:: [SteffoST](https://osu.ppy.sh/users/6566765), ::{ flag=GB }:: [Shaww](https://osu.ppy.sh/users/2704809) |
-| **Cephox** | ::{ flag=GB }:: [Zyphox](https://osu.ppy.sh/users/6589047), ::{ flag=GB }:: [Cephus](https://osu.ppy.sh/users/3373206) |
-| **Werther's Originals** | ::{ flag=GB }:: [dong](https://osu.ppy.sh/users/4422446), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) |
-| **Burrito Gang** | ::{ flag=GB }:: [skyset](https://osu.ppy.sh/users/6244594), ::{ flag=GB }:: [Cla](https://osu.ppy.sh/users/4748791) |
-| **V I N T A G E** | ::{ flag=GB }:: [Jerome](https://osu.ppy.sh/users/3391379), ::{ flag=GB }:: [Kardet](https://osu.ppy.sh/users/1438509) |
+| **Boom! Tetris for Benbow** | ::{ flag=GB }:: ::TopSp1n::{ user=7657761 }, ::{ flag=GB }:: ::Apo11o::{ user=9558549 } |
+| **whatever** | ::{ flag=GB }:: ::meltz::{ user=6741042 }, ::{ flag=GB }:: ::Woffel::{ user=3915122 } |
+| **Could've been major** | ::{ flag=GB }:: ::Bloo::{ user=6778877 }, ::{ flag=GB }:: ::Nega::{ user=3181083 } |
+| **Blooming FlowR in Summer Solstice** | ::{ flag=GB }:: ::Summer Solstice::{ user=3233710 }, ::{ flag=GB }:: ::gadrin::{ user=2245830 } |
+| **That one** | ::{ flag=GB }:: ::Electovoid::{ user=6648263 }, ::{ flag=GB }:: ::OPJames::{ user=4117142 } |
+| **ok idk** | ::{ flag=GB }:: ::hlo::{ user=2232928 }, ::{ flag=GB }:: ::zzyyy::{ user=3600441 } |
+| **SwimmyJimmies** | ::{ flag=GB }:: ::OPJimmySwimmy::{ user=6576972 }, ::{ flag=GB }:: ::OPSwimmyJimmy::{ user=4196808 } |
+| **\[blank\]** | ::{ flag=GB }:: ::Harpy::{ user=6761714 }, ::{ flag=GB }:: ::xFluffyo::{ user=8397226 } |
+| **Question Mark** | ::{ flag=GB }:: ::Best459::{ user=8185366 }, ::{ flag=GB }:: ::Bubbleman::{ user=5182050 } |
+| **Where's yours???** | ::{ flag=GB }:: ::KmK::{ user=7077554 }, ::{ flag=GB }:: ::Wario::{ user=4361729 } |
+| **10man?** | ::{ flag=GB }:: ::majoreh::{ user=7959222 }, ::{ flag=GB }:: ::Kingling::{ user=7010761 } |
+| **Twins Remastered** | ::{ flag=GB }:: ::SteffoST::{ user=6566765 }, ::{ flag=GB }:: ::Shaww::{ user=2704809 } |
+| **Cephox** | ::{ flag=GB }:: ::Zyphox::{ user=6589047 }, ::{ flag=GB }:: ::Cephus::{ user=3373206 } |
+| **Werther's Originals** | ::{ flag=GB }:: ::dong::{ user=4422446 }, ::{ flag=GB }:: ::Doomsday::{ user=18983 } |
+| **Burrito Gang** | ::{ flag=GB }:: ::skyset::{ user=6244594 }, ::{ flag=GB }:: ::Cla::{ user=4748791 } |
+| **V I N T A G E** | ::{ flag=GB }:: ::Jerome::{ user=3391379 }, ::{ flag=GB }:: ::Kardet::{ user=1438509 } |
 
 ### Mid seed
 
 | Team | Members |
 | :-- | :-- |
-| **cshuutg_gseorn** | ::{ flag=GB }:: [Chugger](https://osu.ppy.sh/users/4491713), ::{ flag=GB }:: [sut\_son](https://osu.ppy.sh/users/9622163) |
-| **Team Beached Whale** | ::{ flag=MV }:: [HypebeastHijabi](https://osu.ppy.sh/users/1786945), ::{ flag=GB }:: [Chemistry](https://osu.ppy.sh/users/6069540) |
-| **A B S O L U T E U N I T S** | ::{ flag=GB }:: [Defex](https://osu.ppy.sh/users/9674143), ::{ flag=GB }:: [Malteser](https://osu.ppy.sh/users/5218178) |
-| **DT aka delet this** | ::{ flag=GB }:: [mmi-](https://osu.ppy.sh/users/5444914), ::{ flag=GB }:: [OskaRRRitoS](https://osu.ppy.sh/users/7051163) |
-| **rice farmers** | ::{ flag=VN }:: [LMT](https://osu.ppy.sh/users/7262798), ::{ flag=GB }:: [Erylie](https://osu.ppy.sh/users/6652874) |
-| **heck** | ::{ flag=GB }:: [pod](https://osu.ppy.sh/users/8237552), ::{ flag=GB }:: [Teejay](https://osu.ppy.sh/users/9499753) |
-| **i dont mind dude xd** | ::{ flag=GB }:: [AlexDark69](https://osu.ppy.sh/users/5146647), ::{ flag=GB }:: [Tilley](https://osu.ppy.sh/users/8793814) |
-| **Brb suing Fortnite** | ::{ flag=IE }:: [M a t t y](https://osu.ppy.sh/users/3737136), ::{ flag=IE }:: [wackobako](https://osu.ppy.sh/users/3649156) |
-| **Morbidly Obese** | ::{ flag=GB }:: [Morbid](https://osu.ppy.sh/users/6963690), ::{ flag=GB }:: [Obese](https://osu.ppy.sh/users/3937808) |
-| **Sinking Ship** | ::{ flag=GB }:: [RndGuy](https://osu.ppy.sh/users/1201586), ::{ flag=GB }:: [Cozzzy](https://osu.ppy.sh/users/2003917) |
-| **OG** | ::{ flag=IE }:: [aernat](https://osu.ppy.sh/users/4073754), ::{ flag=IE }:: [Demon](https://osu.ppy.sh/users/3991596) |
-| **bubble but worse** | ::{ flag=GB }:: [Taekyon](https://osu.ppy.sh/users/9406725), ::{ flag=GB }:: [\_Legacy](https://osu.ppy.sh/users/7157608) |
-| **IRA** | ::{ flag=IE }:: [Turnz](https://osu.ppy.sh/users/7194225), ::{ flag=IE }:: [S E K A I](https://osu.ppy.sh/users/8726490) |
-| **Gazzzaa Sucks** | ::{ flag=GB }:: [This Acc Sucks](https://osu.ppy.sh/users/7299249), ::{ flag=GB }:: [Gazzzaa](https://osu.ppy.sh/users/8624512) |
-| **can we play all our amtches drunk?** | ::{ flag=GB }:: [Doughy](https://osu.ppy.sh/users/5275937), ::{ flag=GB }:: [Orenjijusu](https://osu.ppy.sh/users/5261864) |
-| **send cat pics** | ::{ flag=GB }:: [unrealLyyy](https://osu.ppy.sh/users/9594849), ::{ flag=GB }:: [IamKirby](https://osu.ppy.sh/users/3955274) |
+| **cshuutg_gseorn** | ::{ flag=GB }:: ::Chugger::{ user=4491713 }, ::{ flag=GB }:: ::sut\_son::{ user=9622163 } |
+| **Team Beached Whale** | ::{ flag=MV }:: ::HypebeastHijabi::{ user=1786945 }, ::{ flag=GB }:: ::Chemistry::{ user=6069540 } |
+| **A B S O L U T E U N I T S** | ::{ flag=GB }:: ::Defex::{ user=9674143 }, ::{ flag=GB }:: ::Malteser::{ user=5218178 } |
+| **DT aka delet this** | ::{ flag=GB }:: ::mmi-::{ user=5444914 }, ::{ flag=GB }:: ::OskaRRRitoS::{ user=7051163 } |
+| **rice farmers** | ::{ flag=VN }:: ::LMT::{ user=7262798 }, ::{ flag=GB }:: ::Erylie::{ user=6652874 } |
+| **heck** | ::{ flag=GB }:: ::pod::{ user=8237552 }, ::{ flag=GB }:: ::Teejay::{ user=9499753 } |
+| **i dont mind dude xd** | ::{ flag=GB }:: ::AlexDark69::{ user=5146647 }, ::{ flag=GB }:: ::Tilley::{ user=8793814 } |
+| **Brb suing Fortnite** | ::{ flag=IE }:: ::M a t t y::{ user=3737136 }, ::{ flag=IE }:: ::wackobako::{ user=3649156 } |
+| **Morbidly Obese** | ::{ flag=GB }:: ::Morbid::{ user=6963690 }, ::{ flag=GB }:: ::Obese::{ user=3937808 } |
+| **Sinking Ship** | ::{ flag=GB }:: ::RndGuy::{ user=1201586 }, ::{ flag=GB }:: ::Cozzzy::{ user=2003917 } |
+| **OG** | ::{ flag=IE }:: ::aernat::{ user=4073754 }, ::{ flag=IE }:: ::Demon::{ user=3991596 } |
+| **bubble but worse** | ::{ flag=GB }:: ::Taekyon::{ user=9406725 }, ::{ flag=GB }:: ::\_Legacy::{ user=7157608 } |
+| **IRA** | ::{ flag=IE }:: ::Turnz::{ user=7194225 }, ::{ flag=IE }:: ::S E K A I::{ user=8726490 } |
+| **Gazzzaa Sucks** | ::{ flag=GB }:: ::This Acc Sucks::{ user=7299249 }, ::{ flag=GB }:: ::Gazzzaa::{ user=8624512 } |
+| **can we play all our amtches drunk?** | ::{ flag=GB }:: ::Doughy::{ user=5275937 }, ::{ flag=GB }:: ::Orenjijusu::{ user=5261864 } |
+| **send cat pics** | ::{ flag=GB }:: ::unrealLyyy::{ user=9594849 }, ::{ flag=GB }:: ::IamKirby::{ user=3955274 } |
 
 ### Low seed
 
 | Team | Members |
 | :-- | :-- |
-| **KFC for Spare** | ::{ flag=GB }:: [Maharen](https://osu.ppy.sh/users/4019511), ::{ flag=GB }:: [DeltaZero](https://osu.ppy.sh/users/6472042) |
-| **Whiisk** | ::{ flag=GB }:: [Hii](https://osu.ppy.sh/users/5475585), ::{ flag=GB }:: [Wsk](https://osu.ppy.sh/users/9673192) |
-| **Solibriquet** | ::{ flag=GB }:: [Olib](https://osu.ppy.sh/users/4044289), ::{ flag=GB }:: [Sobriquet](https://osu.ppy.sh/users/3891023) |
-| **gunplay melody** | ::{ flag=GB }:: [idealnettles](https://osu.ppy.sh/users/4010354), ::{ flag=GB }:: [koiishi](https://osu.ppy.sh/users/707861) |
-| **gamers elbow** | ::{ flag=GB }:: [moneybags](https://osu.ppy.sh/users/9645554), ::{ flag=GB }:: [adrixxx](https://osu.ppy.sh/users/9754392) |
-| **uh** | ::{ flag=GB }:: [lokkut](https://osu.ppy.sh/users/4776591), ::{ flag=GB }:: [Sam](https://osu.ppy.sh/users/1453543) |
-| **Straw Carrots** | ::{ flag=GB }:: [Rojaseq](https://osu.ppy.sh/users/3027841), ::{ flag=GB }:: [Pelzio](https://osu.ppy.sh/users/4775226) |
-| **#notmynova** | ::{ flag=GB }:: [Coodywoo](https://osu.ppy.sh/users/6145623), ::{ flag=GB }:: [st0nebull](https://osu.ppy.sh/users/3214055) |
-| **technicality** | ::{ flag=GB }:: [Elit3](https://osu.ppy.sh/users/10086758), ::{ flag=GB }:: [Luminiscental](https://osu.ppy.sh/users/10526814) |
-| **DMU Esports** | ::{ flag=GB }:: [xPhell](https://osu.ppy.sh/users/9346516), ::{ flag=GB }:: [Phymiath](https://osu.ppy.sh/users/9106403) |
-| **The Bin Men** | ::{ flag=GB }:: [-spoon-](https://osu.ppy.sh/users/10623176), ::{ flag=GB }:: [Mashi](https://osu.ppy.sh/users/8400612) |
-| **\[-Omitted-\]** | ::{ flag=GB }:: [PsychoStatic](https://osu.ppy.sh/users/7291594), ::{ flag=GB }:: [kekking434](https://osu.ppy.sh/users/7820712) |
-| **Lincs FM** | ::{ flag=GB }:: [\[B-e-N-o\]](https://osu.ppy.sh/users/10192264), ::{ flag=GB }:: [JLCrayton](https://osu.ppy.sh/users/7357242) |
-| **TeamName404** | ::{ flag=GB }:: [MarIsBad](https://osu.ppy.sh/users/3705704), ::{ flag=GB }:: [Sith](https://osu.ppy.sh/users/8112797) |
-| **ram ranch** | ::{ flag=GB }:: [MyAngelZeroTwo](https://osu.ppy.sh/users/8337591), ::{ flag=GB }:: [BurninLight](https://osu.ppy.sh/users/9473917) |
-| **Чики Брики** | ::{ flag=GB }:: [Icedd](https://osu.ppy.sh/users/11146469), ::{ flag=GB }:: [Dant2003](https://osu.ppy.sh/users/9227012) |
+| **KFC for Spare** | ::{ flag=GB }:: ::Maharen::{ user=4019511 }, ::{ flag=GB }:: ::DeltaZero::{ user=6472042 } |
+| **Whiisk** | ::{ flag=GB }:: ::Hii::{ user=5475585 }, ::{ flag=GB }:: ::Wsk::{ user=9673192 } |
+| **Solibriquet** | ::{ flag=GB }:: ::Olib::{ user=4044289 }, ::{ flag=GB }:: ::Sobriquet::{ user=3891023 } |
+| **gunplay melody** | ::{ flag=GB }:: ::idealnettles::{ user=4010354 }, ::{ flag=GB }:: ::koiishi::{ user=707861 } |
+| **gamers elbow** | ::{ flag=GB }:: ::moneybags::{ user=9645554 }, ::{ flag=GB }:: ::adrixxx::{ user=9754392 } |
+| **uh** | ::{ flag=GB }:: ::lokkut::{ user=4776591 }, ::{ flag=GB }:: ::Sam::{ user=1453543 } |
+| **Straw Carrots** | ::{ flag=GB }:: ::Rojaseq::{ user=3027841 }, ::{ flag=GB }:: ::Pelzio::{ user=4775226 } |
+| **#notmynova** | ::{ flag=GB }:: ::Coodywoo::{ user=6145623 }, ::{ flag=GB }:: ::st0nebull::{ user=3214055 } |
+| **technicality** | ::{ flag=GB }:: ::Elit3::{ user=10086758 }, ::{ flag=GB }:: ::Luminiscental::{ user=10526814 } |
+| **DMU Esports** | ::{ flag=GB }:: ::xPhell::{ user=9346516 }, ::{ flag=GB }:: ::Phymiath::{ user=9106403 } |
+| **The Bin Men** | ::{ flag=GB }:: ::-spoon-::{ user=10623176 }, ::{ flag=GB }:: ::Mashi::{ user=8400612 } |
+| **\[-Omitted-\]** | ::{ flag=GB }:: ::PsychoStatic::{ user=7291594 }, ::{ flag=GB }:: ::kekking434::{ user=7820712 } |
+| **Lincs FM** | ::{ flag=GB }:: ::\[B-e-N-o\]::{ user=10192264 }, ::{ flag=GB }:: ::JLCrayton::{ user=7357242 } |
+| **TeamName404** | ::{ flag=GB }:: ::MarIsBad::{ user=3705704 }, ::{ flag=GB }:: ::Sith::{ user=8112797 } |
+| **ram ranch** | ::{ flag=GB }:: ::MyAngelZeroTwo::{ user=8337591 }, ::{ flag=GB }:: ::BurninLight::{ user=9473917 } |
+| **Чики Брики** | ::{ flag=GB }:: ::Icedd::{ user=11146469 }, ::{ flag=GB }:: ::Dant2003::{ user=9227012 } |
 
 ## Podium
 
@@ -132,9 +132,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Question Mark** (::{ flag=GB }:: [Best459](https://osu.ppy.sh/users/8185366), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **10man?** (::{ flag=GB }:: [majoreh](https://osu.ppy.sh/users/7959222), ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Boom! Tetris for Benbow** (::{ flag=GB }:: [TopSp1n](https://osu.ppy.sh/users/7657761), ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Question Mark** (::{ flag=GB }:: ::Best459::{ user=8185366 }, ::{ flag=GB }:: ::Bubbleman::{ user=5182050 }) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **10man?** (::{ flag=GB }:: ::majoreh::{ user=7959222 }, ::{ flag=GB }:: ::Kingling::{ user=7010761 }) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Boom! Tetris for Benbow** (::{ flag=GB }:: ::TopSp1n::{ user=7657761 }, ::{ flag=GB }:: ::Apo11o::{ user=9558549 }) |
 
 ## Mappools
 
@@ -766,7 +766,7 @@ Thursday, 7 March 2019:
 - Matches can however be rescheduled for any day in the week as long as there is a referee available to supervise.
 - In order to reschedule, you must contact your opponents, agree on a time and be able to provide **proof** (by form of a screenshot/image) of the agreed reschedule to the Hosts.
 - A time to reschedule your match to must be agreed and staff informed before 2 hours before the match is due to be played. However, your opponents hold the right to refuse a reschedule if asked less than 12 hours from the scheduled time.
-- If it is impossible to find a time to reschedule to that suits both players, both players should talk to the Hosts (::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=GB }:: [Chrigarr](https://osu.ppy.sh/users/10111130), ::{ flag=GB }:: [\_Takara](https://osu.ppy.sh/users/11599184) or ::{ flag=GB }:: [Doomsday is Bad](https://osu.ppy.sh/users/3481378)) and we will attempt to sort something out.
+- If it is impossible to find a time to reschedule to that suits both players, both players should talk to the Hosts (::{ flag=GB }:: ::Yazzehh::{ user=7068973 }, ::{ flag=GB }:: ::Chrigarr::{ user=10111130 }, ::{ flag=GB }:: ::\_Takara::{ user=11599184 } or ::{ flag=GB }:: ::Doomsday is Bad::{ user=3481378 }) and we will attempt to sort something out.
 - Matches that are uncertain to happen (for example, losers’ bracket matches) will still appear on the schedule. They are to be rescheduled if needed in the same way as confirmed matches.
 - If a match needs rescheduling to a time after a related losers’ bracket match, the matches relying on the outcome of the rescheduled match will be rescheduled by staff and 24 hours will be given for rescheduling them, if needed.
 

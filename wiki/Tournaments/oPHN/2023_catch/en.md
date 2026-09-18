@@ -36,16 +36,16 @@ The osu! Philippines Nationals 2023 - osu!catch was ran by various community mem
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=PH }:: [Frizu](https://osu.ppy.sh/users/4067614), ::{ flag=PH }:: [Lawrence Angelo](https://osu.ppy.sh/users/10373568), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895) |
-| Mappool selector | ::{ flag=PH }:: [Lawrence Angelo](https://osu.ppy.sh/users/10373568), ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466), ::{ flag=CA }:: [Katsuragi](https://osu.ppy.sh/users/3616480), ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114), ::{ flag=PH }:: [Nosuri](https://osu.ppy.sh/users/2150415) |
-| Custom mapper | ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276), ::{ flag=PH }:: [Nosuri](https://osu.ppy.sh/users/2150415), ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565), ::{ flag=PH }:: [Crowley](https://osu.ppy.sh/users/6341006), ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883), ::{ flag=SG }:: [Xinnoh](https://osu.ppy.sh/users/4236057), ::{ flag=TH }:: [Kukkai](https://osu.ppy.sh/users/7811952), ::{ flag=PH }:: [JierYagtama](https://osu.ppy.sh/users/7483452), ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817), ::{ flag=CA }:: [Unlucky_w](https://osu.ppy.sh/users/4820793) |
-| Playtester | ::{ flag=GB }:: [Eliminate](https://osu.ppy.sh/users/9169747), ::{ flag=PH }:: [Lawrence Angelo](https://osu.ppy.sh/users/10373568), ::{ flag=CA }:: [Katsuragi](https://osu.ppy.sh/users/3616480), ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466), ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114), ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) |
-| Referee | ::{ flag=GB }:: [Eliminate](https://osu.ppy.sh/users/9169747), ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380), ::{ flag=PH }:: [ToshiroKen](https://osu.ppy.sh/users/9550257), ::{ flag=PH }:: [Nosuri](https://osu.ppy.sh/users/2150415), ::{ flag=PH }:: [-Ichinose](https://osu.ppy.sh/users/12635292), ::{ flag=PE }:: [ERA Xuste](https://osu.ppy.sh/users/17989444), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=CN }:: [[GB]Reisen](https://osu.ppy.sh/users/85860188) |
-| Streamer | ::{ flag=PH }:: [ToshiroKen](https://osu.ppy.sh/users/9550257), ::{ flag=PH }:: [Nosuri](https://osu.ppy.sh/users/2150415), ::{ flag=CN }:: [[GB]Reisen](https://osu.ppy.sh/users/85860188), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895) |
-| Commentator | ::{ flag=GB }:: [Eliminate](https://osu.ppy.sh/users/9169747), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=CN }:: [[GB]Reisen](https://osu.ppy.sh/users/85860188), ::{ flag=PH }:: [Nosuri](https://osu.ppy.sh/users/2150415), ::{ flag=PH }:: [Lawrence Angelo](https://osu.ppy.sh/users/10373568) |
-| Statistician | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=PH }:: [-[Pochi]-](https://osu.ppy.sh/users/18293050), ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
-| GFX | ::{ flag=PH }:: [FLCammo](https://osu.ppy.sh/users/18789292), ::{ flag=PH }:: [jari](https://osu.ppy.sh/users/13262551), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550) |
-| Wiki writer | ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927), ::{ flag=PH }:: [-Ichinose](https://osu.ppy.sh/users/12635292) |
+| Host | ::{ flag=PH }:: ::Frizu::{ user=4067614 }, ::{ flag=PH }:: ::Lawrence Angelo::{ user=10373568 }, ::{ flag=PH }:: ::Silhoueska Elze::{ user=11517895 } |
+| Mappool selector | ::{ flag=PH }:: ::Lawrence Angelo::{ user=10373568 }, ::{ flag=CA }:: ::wwwww::{ user=8434466 }, ::{ flag=CA }:: ::Katsuragi::{ user=3616480 }, ::{ flag=HK }:: ::autofanboy::{ user=636114 }, ::{ flag=PH }:: ::Nosuri::{ user=2150415 } |
+| Custom mapper | ::{ flag=KR }:: ::Rocma::{ user=566276 }, ::{ flag=PH }:: ::Nosuri::{ user=2150415 }, ::{ flag=HK }:: ::autofanboy::{ user=636114 }, ::{ flag=US }:: ::Secre::{ user=2306637 }, ::{ flag=ES }:: ::Deif::{ user=318565 }, ::{ flag=PH }:: ::Crowley::{ user=6341006 }, ::{ flag=US }:: ::Ascendance::{ user=2931883 }, ::{ flag=SG }:: ::Xinnoh::{ user=4236057 }, ::{ flag=TH }:: ::Kukkai::{ user=7811952 }, ::{ flag=PH }:: ::JierYagtama::{ user=7483452 }, ::{ flag=FR }:: ::Natsuko::{ user=8266817 }, ::{ flag=CA }:: ::Unlucky_w::{ user=4820793 } |
+| Playtester | ::{ flag=GB }:: ::Eliminate::{ user=9169747 }, ::{ flag=PH }:: ::Lawrence Angelo::{ user=10373568 }, ::{ flag=CA }:: ::Katsuragi::{ user=3616480 }, ::{ flag=CA }:: ::wwwww::{ user=8434466 }, ::{ flag=HK }:: ::autofanboy::{ user=636114 }, ::{ flag=KR }:: ::Rocma::{ user=566276 } |
+| Referee | ::{ flag=GB }:: ::Eliminate::{ user=9169747 }, ::{ flag=PH }:: ::Aiery::{ user=10363380 }, ::{ flag=PH }:: ::ToshiroKen::{ user=9550257 }, ::{ flag=PH }:: ::Nosuri::{ user=2150415 }, ::{ flag=PH }:: ::-Ichinose::{ user=12635292 }, ::{ flag=PE }:: ::ERA Xuste::{ user=17989444 }, ::{ flag=PH }:: ::Silhoueska Elze::{ user=11517895 }, ::{ flag=CN }:: ::[GB]Reisen::{ user=85860188 } |
+| Streamer | ::{ flag=PH }:: ::ToshiroKen::{ user=9550257 }, ::{ flag=PH }:: ::Nosuri::{ user=2150415 }, ::{ flag=CN }:: ::[GB]Reisen::{ user=85860188 }, ::{ flag=PH }:: ::Silhoueska Elze::{ user=11517895 } |
+| Commentator | ::{ flag=GB }:: ::Eliminate::{ user=9169747 }, ::{ flag=PH }:: ::Silhoueska Elze::{ user=11517895 }, ::{ flag=CN }:: ::[GB]Reisen::{ user=85860188 }, ::{ flag=PH }:: ::Nosuri::{ user=2150415 }, ::{ flag=PH }:: ::Lawrence Angelo::{ user=10373568 } |
+| Statistician | ::{ flag=NL }:: ::Albionthegreat::{ user=9853595 }, ::{ flag=PH }:: ::-[Pochi]-::{ user=18293050 }, ::{ flag=HK }:: ::ShadeCegLgMn::{ user=12609866 }, ::{ flag=PH }:: ::SurfChu85::{ user=4469895 } |
+| GFX | ::{ flag=PH }:: ::FLCammo::{ user=18789292 }, ::{ flag=PH }:: ::jari::{ user=13262551 }, ::{ flag=PH }:: ::yukina meng::{ user=9919550 } |
+| Wiki writer | ::{ flag=PH }:: ::topecnz::{ user=2103927 }, ::{ flag=PH }:: ::-Ichinose::{ user=12635292 } |
 
 ## Links
 
@@ -56,30 +56,30 @@ The osu! Philippines Nationals 2023 - osu!catch was ran by various community mem
 
 ## Participants
 
-- ::{ flag=PH }:: [-Rustyy](https://osu.ppy.sh/users/16355636)
-- ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103)
-- ::{ flag=PH }:: [Maririn](https://osu.ppy.sh/users/1626093)
-- ::{ flag=PH }:: [- Kielzu -](https://osu.ppy.sh/users/6221114)
-- ::{ flag=PH }:: [Mawile](https://osu.ppy.sh/users/12256216)
-- ::{ flag=PH }:: [-Isla-](https://osu.ppy.sh/users/17745759)
-- ::{ flag=PH }:: [Lobsterr](https://osu.ppy.sh/users/6575915)
-- ::{ flag=PH }:: [-HyperDream](https://osu.ppy.sh/users/12410693)
-- ::{ flag=PH }:: [Chrisuly](https://osu.ppy.sh/users/12203613)
-- ::{ flag=PH }:: [Eoneru](https://osu.ppy.sh/users/9025855)
-- ::{ flag=PH }:: [Laqure](https://osu.ppy.sh/users/1642435)
-- ::{ flag=PH }:: [Chloebe](https://osu.ppy.sh/users/4577865)
-- ::{ flag=PH }:: [Shawntell](https://osu.ppy.sh/users/7384938)
-- ::{ flag=PH }:: [Kyonkichi](https://osu.ppy.sh/users/7585544)
-- ::{ flag=PH }:: [Pataray XDD](https://osu.ppy.sh/users/14948441)
-- ::{ flag=PH }:: [Loreal](https://osu.ppy.sh/users/9362231)
-- ::{ flag=PH }:: [Kuroiden](https://osu.ppy.sh/users/16855004)
-- ::{ flag=PH }:: [CardThrower1234](https://osu.ppy.sh/users/22436793)
-- ::{ flag=PH }:: [Bauer](https://osu.ppy.sh/users/22799065)
-- ::{ flag=PH }:: [aaronigoo](https://osu.ppy.sh/users/25457711)
-- ::{ flag=PH }:: [-Steven08-](https://osu.ppy.sh/users/13654885)
-- ::{ flag=PH }:: [KumaRushia](https://osu.ppy.sh/users/23301957)
-- ::{ flag=PH }:: [Kaede3](https://osu.ppy.sh/users/21697693)
-- ::{ flag=PH }:: [IDan24](https://osu.ppy.sh/users/11730796)
+- ::{ flag=PH }:: ::-Rustyy::{ user=16355636 }
+- ::{ flag=PH }:: ::Roido::{ user=6829103 }
+- ::{ flag=PH }:: ::Maririn::{ user=1626093 }
+- ::{ flag=PH }:: ::- Kielzu -::{ user=6221114 }
+- ::{ flag=PH }:: ::Mawile::{ user=12256216 }
+- ::{ flag=PH }:: ::-Isla-::{ user=17745759 }
+- ::{ flag=PH }:: ::Lobsterr::{ user=6575915 }
+- ::{ flag=PH }:: ::-HyperDream::{ user=12410693 }
+- ::{ flag=PH }:: ::Chrisuly::{ user=12203613 }
+- ::{ flag=PH }:: ::Eoneru::{ user=9025855 }
+- ::{ flag=PH }:: ::Laqure::{ user=1642435 }
+- ::{ flag=PH }:: ::Chloebe::{ user=4577865 }
+- ::{ flag=PH }:: ::Shawntell::{ user=7384938 }
+- ::{ flag=PH }:: ::Kyonkichi::{ user=7585544 }
+- ::{ flag=PH }:: ::Pataray XDD::{ user=14948441 }
+- ::{ flag=PH }:: ::Loreal::{ user=9362231 }
+- ::{ flag=PH }:: ::Kuroiden::{ user=16855004 }
+- ::{ flag=PH }:: ::CardThrower1234::{ user=22436793 }
+- ::{ flag=PH }:: ::Bauer::{ user=22799065 }
+- ::{ flag=PH }:: ::aaronigoo::{ user=25457711 }
+- ::{ flag=PH }:: ::-Steven08-::{ user=13654885 }
+- ::{ flag=PH }:: ::KumaRushia::{ user=23301957 }
+- ::{ flag=PH }:: ::Kaede3::{ user=21697693 }
+- ::{ flag=PH }:: ::IDan24::{ user=11730796 }
 
 ## Podium
 
@@ -87,9 +87,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [Maririn](https://osu.ppy.sh/users/1626093) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: [-Rustyy](https://osu.ppy.sh/users/16355636) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: ::Roido::{ user=6829103 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: ::Maririn::{ user=1626093 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: ::-Rustyy::{ user=16355636 } |
 
 ## Mappools
 

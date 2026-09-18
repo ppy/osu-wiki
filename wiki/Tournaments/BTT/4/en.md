@@ -9,7 +9,7 @@ tags:
 
 ![BTT 4 logo](img/logo.gif)
 
-The **Beginners' Taiko Tournament 4** (***BTT 4***) was a 1v1 double elimination osu!taiko tournament hosted by ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the fourth instalment of the Beginners' Taiko Tournament.
+The **Beginners' Taiko Tournament 4** (***BTT 4***) was a 1v1 double elimination osu!taiko tournament hosted by ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }. It was the fourth instalment of the Beginners' Taiko Tournament.
 
 ## Tournament schedule
 
@@ -41,14 +41,14 @@ The Beginners' Taiko Tournament 4 was run by various osu!taiko community members
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=JP }:: [Briesmas](https://osu.ppy.sh/users/2865172) |
-| Mappool selector | ::{ flag=MY }:: [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ::{ flag=JP }:: [Briesmas](https://osu.ppy.sh/users/2865172), ::{ flag=DE }:: [frz](https://osu.ppy.sh/users/6956922), ::{ flag=SG }:: [uchuuj1n](https://osu.ppy.sh/users/9140302) |
-| Designer | ::{ flag=CA }:: [mits](https://osu.ppy.sh/users/6256255) |
-| Streamer | ::{ flag=MY }:: [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ::{ flag=DE }:: [Heam](https://osu.ppy.sh/users/4705120), ::{ flag=US }:: [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ::{ flag=US }:: [Rukairi](https://osu.ppy.sh/users/6642597), ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095) |
-| Commentator | ::{ flag=AU }:: [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), ::{ flag=CA }:: [DuckyDoom](https://osu.ppy.sh/users/3153062), ::{ flag=US }:: [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ::{ flag=DE }:: [Heam](https://osu.ppy.sh/users/4705120), ::{ flag=US }:: [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ::{ flag=US }:: [Rukairi](https://osu.ppy.sh/users/6642597), ::{ flag=SG }:: [uchuuj1n](https://osu.ppy.sh/users/9140302), ::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910) |
-| Referee | ::{ flag=HK }:: [-GN Junior](https://osu.ppy.sh/users/3901754), ::{ flag=MY }:: [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ::{ flag=JP }:: [Briesmas](https://osu.ppy.sh/users/2865172), ::{ flag=AU }:: [Cactie](https://osu.ppy.sh/users/5592409), ::{ flag=CA }:: [DuckyDoom](https://osu.ppy.sh/users/3153062), ::{ flag=US }:: [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910), ::{ flag=PL }:: [Kondi](https://osu.ppy.sh/users/7382321), ::{ flag=DE }:: [frz](https://osu.ppy.sh/users/6956922), ::{ flag=AU }:: [mhyykl](https://osu.ppy.sh/users/7012650), ::{ flag=MY }:: [Minisora](https://osu.ppy.sh/users/9627666), ::{ flag=RU }:: [Starger](https://osu.ppy.sh/users/3398715), ::{ flag=US }:: [MyAngelManasa](https://osu.ppy.sh/users/6666316), ::{ flag=SG }:: [uchuuj1n](https://osu.ppy.sh/users/9140302) |
-| Statistician | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Wiki editor | ::{ flag=ID }:: [Naruk](https://osu.ppy.sh/users/7100002) |
+| Manager | ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, ::{ flag=JP }:: ::Briesmas::{ user=2865172 } |
+| Mappool selector | ::{ flag=MY }:: ::Bedwyr Aorta::{ user=10875855 }, ::{ flag=JP }:: ::Briesmas::{ user=2865172 }, ::{ flag=DE }:: ::frz::{ user=6956922 }, ::{ flag=SG }:: ::uchuuj1n::{ user=9140302 } |
+| Designer | ::{ flag=CA }:: ::mits::{ user=6256255 } |
+| Streamer | ::{ flag=MY }:: ::Bedwyr Aorta::{ user=10875855 }, ::{ flag=DE }:: ::Heam::{ user=4705120 }, ::{ flag=US }:: ::ITotallyGetThat::{ user=8770622 }, ::{ flag=US }:: ::Rukairi::{ user=6642597 }, ::{ flag=CA }:: ::Sinaeb::{ user=1576095 } |
+| Commentator | ::{ flag=AU }:: ::AmateurMonkeyYT::{ user=8379046 }, ::{ flag=CA }:: ::DuckyDoom::{ user=3153062 }, ::{ flag=US }:: ::Edgar\_Figaro::{ user=6508754 }, ::{ flag=DE }:: ::Heam::{ user=4705120 }, ::{ flag=US }:: ::ITotallyGetThat::{ user=8770622 }, ::{ flag=US }:: ::Rukairi::{ user=6642597 }, ::{ flag=SG }:: ::uchuuj1n::{ user=9140302 }, ::{ flag=EC }:: ::Gamelan4::{ user=9856910 } |
+| Referee | ::{ flag=HK }:: ::-GN Junior::{ user=3901754 }, ::{ flag=MY }:: ::Bedwyr Aorta::{ user=10875855 }, ::{ flag=JP }:: ::Briesmas::{ user=2865172 }, ::{ flag=AU }:: ::Cactie::{ user=5592409 }, ::{ flag=CA }:: ::DuckyDoom::{ user=3153062 }, ::{ flag=US }:: ::Edgar\_Figaro::{ user=6508754 }, ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, ::{ flag=EC }:: ::Gamelan4::{ user=9856910 }, ::{ flag=PL }:: ::Kondi::{ user=7382321 }, ::{ flag=DE }:: ::frz::{ user=6956922 }, ::{ flag=AU }:: ::mhyykl::{ user=7012650 }, ::{ flag=MY }:: ::Minisora::{ user=9627666 }, ::{ flag=RU }:: ::Starger::{ user=3398715 }, ::{ flag=US }:: ::MyAngelManasa::{ user=6666316 }, ::{ flag=SG }:: ::uchuuj1n::{ user=9140302 } |
+| Statistician | ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 } |
+| Wiki editor | ::{ flag=ID }:: ::Naruk::{ user=7100002 } |
 
 ## Links
 
@@ -62,10 +62,10 @@ The Beginners' Taiko Tournament 4 was run by various osu!taiko community members
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ::{ flag=ID }:: [LoliVoiceASMR](https://osu.ppy.sh/users/12517831), ::{ flag=US }:: [LuriCookie](https://osu.ppy.sh/users/9517612), ::{ flag=AU }:: [soliderror](https://osu.ppy.sh/users/10630542), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ::{ flag=PL }:: [\_demo](https://osu.ppy.sh/users/3556891), ::{ flag=SE }:: [\[ M e a k u \]](https://osu.ppy.sh/users/2747072), ::{ flag=FR }:: [Trypha](https://osu.ppy.sh/users/2812098), ::{ flag=PL }:: [Xellander](https://osu.ppy.sh/users/6573608) |
-| High | ::{ flag=MX }:: [Firu](https://osu.ppy.sh/users/10516547), ::{ flag=QA }:: [Hiiiii5](https://osu.ppy.sh/users/9419541), ::{ flag=US }:: [\[Hypotato\]](https://osu.ppy.sh/users/6022983), ::{ flag=AR }:: [Elenaflores169](https://osu.ppy.sh/users/8821300), ::{ flag=HK }:: [shikuro\_re](https://osu.ppy.sh/users/9338943), ::{ flag=NL }:: [MasterForcer](https://osu.ppy.sh/users/3263646), ::{ flag=US }:: [itsAdore](https://osu.ppy.sh/users/7633855), ::{ flag=SE }:: [Noercy](https://osu.ppy.sh/users/8214806) |
-| Low | ::{ flag=RU }:: [\_Suzuha](https://osu.ppy.sh/users/8445602), ::{ flag=AU }:: [Neppy5000](https://osu.ppy.sh/users/12542518), ::{ flag=IE }:: [GamingHamster](https://osu.ppy.sh/users/11304155), ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095), ::{ flag=BR }:: [KaikyBr](https://osu.ppy.sh/users/11816848), ::{ flag=FR }:: [Heartswimm](https://osu.ppy.sh/users/10936319), ::{ flag=PL }:: [Bartek22830](https://osu.ppy.sh/users/6404027), ::{ flag=DE }:: [GDLenny](https://osu.ppy.sh/users/8406711) |
-| Unseeded | ::{ flag=DE }:: [HiddenDenki](https://osu.ppy.sh/users/6868059), ::{ flag=EC }:: [Reo09](https://osu.ppy.sh/users/10211528), ::{ flag=FI }:: [Ristpek](https://osu.ppy.sh/users/11819476), ::{ flag=EC }:: [Mik3gam3r7919](https://osu.ppy.sh/users/10570577), ::{ flag=PT }:: [Wilir-senpai](https://osu.ppy.sh/users/4566582), ::{ flag=DE }:: [GinIkari](https://osu.ppy.sh/users/6083491), ::{ flag=US }:: [james2998](https://osu.ppy.sh/users/13777712), ::{ flag=MY }:: [koaywj](https://osu.ppy.sh/users/10879816) |
+| Top | ::{ flag=ID }:: ::LoliVoiceASMR::{ user=12517831 }, ::{ flag=US }:: ::LuriCookie::{ user=9517612 }, ::{ flag=AU }:: ::soliderror::{ user=10630542 }, ::{ flag=FR }:: ::TLQ\_Yoshii::{ user=7157133 }, ::{ flag=PL }:: ::\_demo::{ user=3556891 }, ::{ flag=SE }:: ::\[ M e a k u \]::{ user=2747072 }, ::{ flag=FR }:: ::Trypha::{ user=2812098 }, ::{ flag=PL }:: ::Xellander::{ user=6573608 } |
+| High | ::{ flag=MX }:: ::Firu::{ user=10516547 }, ::{ flag=QA }:: ::Hiiiii5::{ user=9419541 }, ::{ flag=US }:: ::\[Hypotato\]::{ user=6022983 }, ::{ flag=AR }:: ::Elenaflores169::{ user=8821300 }, ::{ flag=HK }:: ::shikuro\_re::{ user=9338943 }, ::{ flag=NL }:: ::MasterForcer::{ user=3263646 }, ::{ flag=US }:: ::itsAdore::{ user=7633855 }, ::{ flag=SE }:: ::Noercy::{ user=8214806 } |
+| Low | ::{ flag=RU }:: ::\_Suzuha::{ user=8445602 }, ::{ flag=AU }:: ::Neppy5000::{ user=12542518 }, ::{ flag=IE }:: ::GamingHamster::{ user=11304155 }, ::{ flag=CA }:: ::Sinaeb::{ user=1576095 }, ::{ flag=BR }:: ::KaikyBr::{ user=11816848 }, ::{ flag=FR }:: ::Heartswimm::{ user=10936319 }, ::{ flag=PL }:: ::Bartek22830::{ user=6404027 }, ::{ flag=DE }:: ::GDLenny::{ user=8406711 } |
+| Unseeded | ::{ flag=DE }:: ::HiddenDenki::{ user=6868059 }, ::{ flag=EC }:: ::Reo09::{ user=10211528 }, ::{ flag=FI }:: ::Ristpek::{ user=11819476 }, ::{ flag=EC }:: ::Mik3gam3r7919::{ user=10570577 }, ::{ flag=PT }:: ::Wilir-senpai::{ user=4566582 }, ::{ flag=DE }:: ::GinIkari::{ user=6083491 }, ::{ flag=US }:: ::james2998::{ user=13777712 }, ::{ flag=MY }:: ::koaywj::{ user=10879816 } |
 
 ## Podium
 
@@ -73,9 +73,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=HK }:: [shikuro\_re](https://osu.ppy.sh/users/9338943) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PL }:: [\_demo](https://osu.ppy.sh/users/3556891) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: [LuriCookie](https://osu.ppy.sh/users/9517612) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=HK }:: ::shikuro\_re::{ user=9338943 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PL }:: ::\_demo::{ user=3556891 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: ::LuriCookie::{ user=9517612 } |
 
 ## Mappools
 

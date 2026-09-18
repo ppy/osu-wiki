@@ -10,7 +10,7 @@ tags:
 
 ![MCLT 4K 2025 banner](img/banner.jpg)
 
-The **osu!mania 4K Chilean National Cup 2025** (***MCLT 4K 2025***) was a 1v1, double-elimination, Chilean-only open rank osu! tournament hosted by ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733) and ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085). It was the first instalment of the osu!mania 4K Chilean National Cup.
+The **osu!mania 4K Chilean National Cup 2025** (***MCLT 4K 2025***) was a 1v1, double-elimination, Chilean-only open rank osu! tournament hosted by ::{ flag=CL }:: ::myucchii::{ user=10072733 } and ::{ flag=CL }:: ::nyawaa::{ user=10235085 }. It was the first instalment of the osu!mania 4K Chilean National Cup.
 
 ## Tournament schedule
 
@@ -41,16 +41,16 @@ The osu!mania 4K Chilean National Cup 2025 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085) |
-| Mappool selector | ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085), ::{ flag=CL }:: [MyAngelKokomi](https://osu.ppy.sh/users/8880797), ::{ flag=CN }:: [[GB]nyasunwaifu](https://osu.ppy.sh/users/26031439) |
-| Mappool scouter | ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=VN }:: [--Glitchy--](https://osu.ppy.sh/users/30644569) |
-| Mappool playtester | ::{ flag=VN }:: [--Glitchy--](https://osu.ppy.sh/users/30644569), ::{ flag=CN }:: [[GB]nyasunwaifu](https://osu.ppy.sh/users/26031439), ::{ flag=CL }:: [[LS]bambi fnf](https://osu.ppy.sh/users/20360332), ::{ flag=US }:: [beta carotene](https://osu.ppy.sh/users/22839620), ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497), ::{ flag=BR }:: [fefedk](https://osu.ppy.sh/users/18943504), ::{ flag=AR }:: [gxrl](https://osu.ppy.sh/users/13226626), ::{ flag=AR }:: [-hakitsu](https://osu.ppy.sh/users/25300387), ::{ flag=BR }:: [LeMarcinho](https://osu.ppy.sh/users/13347579), ::{ flag=US }:: [PeachMarrow](https://osu.ppy.sh/users/15926730), ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085), ::{ flag=KR }:: [[GB]SuddenDeath](https://osu.ppy.sh/users/6699923), ::{ flag=CL }:: [Xan-](https://osu.ppy.sh/users/5919873), ::{ flag=CL }:: [MyAngelKokomi](https://osu.ppy.sh/users/8880797), ::{ flag=KR }:: [imyeeyee](https://osu.ppy.sh/users/26473894), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=US }:: [Hello_Son](https://osu.ppy.sh/users/17308009), ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267) |
-| Mapper | ::{ flag=BR }:: [Davix150](https://osu.ppy.sh/users/26512810), ::{ flag=NZ }:: [Div](https://osu.ppy.sh/users/3751116), ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610), ::{ flag=US }:: [elexire](https://osu.ppy.sh/users/9206093), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CL }:: [H4chyk0](https://osu.ppy.sh/users/17397748), ::{ flag=BR }:: [nayeonie bunny](https://osu.ppy.sh/users/15187174), ::{ flag=US }:: [ImperialTrinity](https://osu.ppy.sh/users/5066305), ::{ flag=US }:: [Logan636](https://osu.ppy.sh/users/9423766), ::{ flag=PE }:: [Miaurichesu](https://osu.ppy.sh/users/10055648), ::{ flag=CL }:: [NikoSek](https://osu.ppy.sh/users/4088977), ::{ flag=KR }:: [[GB]Oceanus](https://osu.ppy.sh/users/9164100), ::{ flag=CN }:: [[GB]R-Trigger](https://osu.ppy.sh/users/25308131), ::{ flag=US }:: [Smokydoh](https://osu.ppy.sh/users/20169884), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CL }:: [Urusai](https://osu.ppy.sh/users/469808), ::{ flag=CN }:: [V1do-](https://osu.ppy.sh/users/17527968), ::{ flag=CL }:: [MyAngelKokomi](https://osu.ppy.sh/users/8880797) |
-| Streamer | ::{ flag=CL }:: [Jeanne Da Rin](https://osu.ppy.sh/users/5214842), ::{ flag=CL }:: [Kioshinxs](https://osu.ppy.sh/users/14433939), ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085), ::{ flag=IT }:: [ndrrr](https://osu.ppy.sh/users/4609767), ::{ flag=CL }:: [Shiny Froakie](https://osu.ppy.sh/users/6194830), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=AR }:: [Limber](https://osu.ppy.sh/users/7093698) |
-| Commentator | ::{ flag=CL }:: [Jeanne Da Rin](https://osu.ppy.sh/users/5214842), ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=CL }:: [Shiny Froakie](https://osu.ppy.sh/users/6194830), ::{ flag=CL }:: [-Ryu-](https://osu.ppy.sh/users/8440939), ::{ flag=AR }:: [Limber](https://osu.ppy.sh/users/7093698), ::{ flag=CL }:: [Kioshinxs](https://osu.ppy.sh/users/14433939), ::{ flag=CL }:: [Xan-](https://osu.ppy.sh/users/5919873), ::{ flag=AR }:: [gxrl](https://osu.ppy.sh/users/13226626), ::{ flag=CL }:: [Urusai](https://osu.ppy.sh/users/469808) |
-| Referee | ::{ flag=VN }:: [--Glitchy--](https://osu.ppy.sh/users/30644569), ::{ flag=CL }:: [Bastaku](https://osu.ppy.sh/users/14351782), ::{ flag=CL }:: [chibamasu](https://osu.ppy.sh/users/16067522), ::{ flag=CL }:: [Isita](https://osu.ppy.sh/users/13973026), ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=IT }:: [ndrrr](https://osu.ppy.sh/users/4609767), ::{ flag=AR }:: [ottenst](https://osu.ppy.sh/users/13488325), ::{ flag=CL }:: [nyawaa](https://osu.ppy.sh/users/10235085), ::{ flag=CL }:: [Shiny Froakie](https://osu.ppy.sh/users/6194830), ::{ flag=CL }:: [ulko](https://osu.ppy.sh/users/1263669), ::{ flag=AR }:: [Limber](https://osu.ppy.sh/users/7093698) |
-| Spreadsheet management | ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=CN }:: [CuteNatro](https://osu.ppy.sh/users/27233308) |
-| Design team | ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=US }:: [mohca](https://osu.ppy.sh/users/14499702), ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610), ::{ flag=CL }:: [SmilingKey](https://osu.ppy.sh/users/10659178), ::{ flag=PH }:: [DD1amond](https://osu.ppy.sh/users/14705051) |
+| Organiser | ::{ flag=CL }:: ::myucchii::{ user=10072733 }, ::{ flag=CL }:: ::nyawaa::{ user=10235085 } |
+| Mappool selector | ::{ flag=CL }:: ::myucchii::{ user=10072733 }, ::{ flag=CL }:: ::nyawaa::{ user=10235085 }, ::{ flag=CL }:: ::MyAngelKokomi::{ user=8880797 }, ::{ flag=CN }:: ::[GB]nyasunwaifu::{ user=26031439 } |
+| Mappool scouter | ::{ flag=CN }:: ::Blue_Potion::{ user=13094831 }, ::{ flag=VN }:: ::--Glitchy--::{ user=30644569 } |
+| Mappool playtester | ::{ flag=VN }:: ::--Glitchy--::{ user=30644569 }, ::{ flag=CN }:: ::[GB]nyasunwaifu::{ user=26031439 }, ::{ flag=CL }:: ::[LS]bambi fnf::{ user=20360332 }, ::{ flag=US }:: ::beta carotene::{ user=22839620 }, ::{ flag=MY }:: ::cheewee10::{ user=4477497 }, ::{ flag=BR }:: ::fefedk::{ user=18943504 }, ::{ flag=AR }:: ::gxrl::{ user=13226626 }, ::{ flag=AR }:: ::-hakitsu::{ user=25300387 }, ::{ flag=BR }:: ::LeMarcinho::{ user=13347579 }, ::{ flag=US }:: ::PeachMarrow::{ user=15926730 }, ::{ flag=CL }:: ::nyawaa::{ user=10235085 }, ::{ flag=KR }:: ::[GB]SuddenDeath::{ user=6699923 }, ::{ flag=CL }:: ::Xan-::{ user=5919873 }, ::{ flag=CL }:: ::MyAngelKokomi::{ user=8880797 }, ::{ flag=KR }:: ::imyeeyee::{ user=26473894 }, ::{ flag=US }:: ::EpsilonMaiagare::{ user=3855052 }, ::{ flag=US }:: ::Hello_Son::{ user=17308009 }, ::{ flag=TH }:: ::--Pavin--::{ user=12046267 } |
+| Mapper | ::{ flag=BR }:: ::Davix150::{ user=26512810 }, ::{ flag=NZ }:: ::Div::{ user=3751116 }, ::{ flag=US }:: ::Nepijin::{ user=11734610 }, ::{ flag=US }:: ::elexire::{ user=9206093 }, ::{ flag=CN }:: ::Hylotl::{ user=18270260 }, ::{ flag=CL }:: ::H4chyk0::{ user=17397748 }, ::{ flag=BR }:: ::nayeonie bunny::{ user=15187174 }, ::{ flag=US }:: ::ImperialTrinity::{ user=5066305 }, ::{ flag=US }:: ::Logan636::{ user=9423766 }, ::{ flag=PE }:: ::Miaurichesu::{ user=10055648 }, ::{ flag=CL }:: ::NikoSek::{ user=4088977 }, ::{ flag=KR }:: ::[GB]Oceanus::{ user=9164100 }, ::{ flag=CN }:: ::[GB]R-Trigger::{ user=25308131 }, ::{ flag=US }:: ::Smokydoh::{ user=20169884 }, ::{ flag=CN }:: ::Blue_Potion::{ user=13094831 }, ::{ flag=CL }:: ::Urusai::{ user=469808 }, ::{ flag=CN }:: ::V1do-::{ user=17527968 }, ::{ flag=CL }:: ::MyAngelKokomi::{ user=8880797 } |
+| Streamer | ::{ flag=CL }:: ::Jeanne Da Rin::{ user=5214842 }, ::{ flag=CL }:: ::Kioshinxs::{ user=14433939 }, ::{ flag=CL }:: ::myucchii::{ user=10072733 }, ::{ flag=CL }:: ::nyawaa::{ user=10235085 }, ::{ flag=IT }:: ::ndrrr::{ user=4609767 }, ::{ flag=CL }:: ::Shiny Froakie::{ user=6194830 }, ::{ flag=PH }:: ::Silhoueska Elze::{ user=11517895 }, ::{ flag=US }:: ::EpsilonMaiagare::{ user=3855052 }, ::{ flag=AR }:: ::Limber::{ user=7093698 } |
+| Commentator | ::{ flag=CL }:: ::Jeanne Da Rin::{ user=5214842 }, ::{ flag=CL }:: ::myucchii::{ user=10072733 }, ::{ flag=CL }:: ::Shiny Froakie::{ user=6194830 }, ::{ flag=CL }:: ::-Ryu-::{ user=8440939 }, ::{ flag=AR }:: ::Limber::{ user=7093698 }, ::{ flag=CL }:: ::Kioshinxs::{ user=14433939 }, ::{ flag=CL }:: ::Xan-::{ user=5919873 }, ::{ flag=AR }:: ::gxrl::{ user=13226626 }, ::{ flag=CL }:: ::Urusai::{ user=469808 } |
+| Referee | ::{ flag=VN }:: ::--Glitchy--::{ user=30644569 }, ::{ flag=CL }:: ::Bastaku::{ user=14351782 }, ::{ flag=CL }:: ::chibamasu::{ user=16067522 }, ::{ flag=CL }:: ::Isita::{ user=13973026 }, ::{ flag=CL }:: ::myucchii::{ user=10072733 }, ::{ flag=IT }:: ::ndrrr::{ user=4609767 }, ::{ flag=AR }:: ::ottenst::{ user=13488325 }, ::{ flag=CL }:: ::nyawaa::{ user=10235085 }, ::{ flag=CL }:: ::Shiny Froakie::{ user=6194830 }, ::{ flag=CL }:: ::ulko::{ user=1263669 }, ::{ flag=AR }:: ::Limber::{ user=7093698 } |
+| Spreadsheet management | ::{ flag=CL }:: ::myucchii::{ user=10072733 }, ::{ flag=CN }:: ::CuteNatro::{ user=27233308 } |
+| Design team | ::{ flag=CL }:: ::myucchii::{ user=10072733 }, ::{ flag=US }:: ::mohca::{ user=14499702 }, ::{ flag=US }:: ::Nepijin::{ user=11734610 }, ::{ flag=CL }:: ::SmilingKey::{ user=10659178 }, ::{ flag=PH }:: ::DD1amond::{ user=14705051 } |
 
 ## Links
 
@@ -65,30 +65,30 @@ The osu!mania 4K Chilean National Cup 2025 was run by various community members.
 
 | Seed | Player |
 | :-: | :-- |
-| 1 | ::{ flag=CL }:: [b3njvv2](https://osu.ppy.sh/users/23291631) |
-| 2 | ::{ flag=CL }:: [Anterex](https://osu.ppy.sh/users/24548857) |
-| 3 | ::{ flag=CL }:: [kuraaaFangirl](https://osu.ppy.sh/users/27989088) |
-| 4 | ::{ flag=CL }:: [Hikikomori](https://osu.ppy.sh/users/27989088) |
-| 5 | ::{ flag=CL }:: [Ogata Kanna](https://osu.ppy.sh/users/20234457) |
-| 6 | ::{ flag=CL }:: [Shiny Sylveon](https://osu.ppy.sh/users/22813898) |
-| 7 | ::{ flag=CL }:: [yukataa](https://osu.ppy.sh/users/24277812) |
-| 8 | ::{ flag=CL }:: [Yor Fangirl](https://osu.ppy.sh/users/19088935) |
-| 9 | ::{ flag=CL }:: [Best Sanallite](https://osu.ppy.sh/users/23315931) |
-| 10 | ::{ flag=CL }:: [Jeanne Da Rin](https://osu.ppy.sh/users/5214842) |
-| 11 | ::{ flag=CL }:: [NikitodeuS](https://osu.ppy.sh/users/25323782) |
-| 12 | ::{ flag=CL }:: [TheTrixdo_YT](https://osu.ppy.sh/users/15428378) |
-| 13 | ::{ flag=CL }:: [Horuszed](https://osu.ppy.sh/users/24181636) |
-| 14 | ::{ flag=CL }:: [UQU](https://osu.ppy.sh/users/11012279) |
-| 15 | ::{ flag=CL }:: [[REG]Levels](https://osu.ppy.sh/users/15421077) |
-| 16 | ::{ flag=CL }:: [Wantaso](https://osu.ppy.sh/users/17363267) |
-| 17 | ::{ flag=CL }:: [[REG]M1ST3R](https://osu.ppy.sh/users/21788629) |
-| 18 | ::{ flag=CL }:: [-Kori](https://osu.ppy.sh/users/12490530) |
-| 19 | ::{ flag=CL }:: [[AT] Funnies](https://osu.ppy.sh/users/31679332) |
-| 20 | ::{ flag=CL }:: [Diprimm](https://osu.ppy.sh/users/12219285) |
-| 21 | ::{ flag=CL }:: [brunaso](https://osu.ppy.sh/users/22386768) |
-| 22 | ::{ flag=CL }:: [-Ryu-](https://osu.ppy.sh/users/8440939) |
-| 23 | ::{ flag=CL }:: [YeaaBoiii](https://osu.ppy.sh/users/14630452) |
-| 24 | ::{ flag=CL }:: [labotx](https://osu.ppy.sh/users/12434346) |
+| 1 | ::{ flag=CL }:: ::b3njvv2::{ user=23291631 } |
+| 2 | ::{ flag=CL }:: ::Anterex::{ user=24548857 } |
+| 3 | ::{ flag=CL }:: ::kuraaaFangirl::{ user=27989088 } |
+| 4 | ::{ flag=CL }:: ::Hikikomori::{ user=27989088 } |
+| 5 | ::{ flag=CL }:: ::Ogata Kanna::{ user=20234457 } |
+| 6 | ::{ flag=CL }:: ::Shiny Sylveon::{ user=22813898 } |
+| 7 | ::{ flag=CL }:: ::yukataa::{ user=24277812 } |
+| 8 | ::{ flag=CL }:: ::Yor Fangirl::{ user=19088935 } |
+| 9 | ::{ flag=CL }:: ::Best Sanallite::{ user=23315931 } |
+| 10 | ::{ flag=CL }:: ::Jeanne Da Rin::{ user=5214842 } |
+| 11 | ::{ flag=CL }:: ::NikitodeuS::{ user=25323782 } |
+| 12 | ::{ flag=CL }:: ::TheTrixdo_YT::{ user=15428378 } |
+| 13 | ::{ flag=CL }:: ::Horuszed::{ user=24181636 } |
+| 14 | ::{ flag=CL }:: ::UQU::{ user=11012279 } |
+| 15 | ::{ flag=CL }:: ::[REG]Levels::{ user=15421077 } |
+| 16 | ::{ flag=CL }:: ::Wantaso::{ user=17363267 } |
+| 17 | ::{ flag=CL }:: ::[REG]M1ST3R::{ user=21788629 } |
+| 18 | ::{ flag=CL }:: ::-Kori::{ user=12490530 } |
+| 19 | ::{ flag=CL }:: ::[AT] Funnies::{ user=31679332 } |
+| 20 | ::{ flag=CL }:: ::Diprimm::{ user=12219285 } |
+| 21 | ::{ flag=CL }:: ::brunaso::{ user=22386768 } |
+| 22 | ::{ flag=CL }:: ::-Ryu-::{ user=8440939 } |
+| 23 | ::{ flag=CL }:: ::YeaaBoiii::{ user=14630452 } |
+| 24 | ::{ flag=CL }:: ::labotx::{ user=12434346 } |
 
 ## Podium
 

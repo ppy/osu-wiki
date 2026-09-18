@@ -11,7 +11,7 @@ tags:
 
 ![OTR26 banner](img/banner.png)
 
-The **osu!türkiye Open 2026** (***OTR26***) was a 2v2, double-elimination, Turkish-only regional osu! tournament hosted by ::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741), ::{ flag=TR }:: [Orkay](https://osu.ppy.sh/users/9321674), ::{ flag=TR }:: [SStoney](https://osu.ppy.sh/users/8576252) and ::{ flag=TR }:: [Zeus](https://osu.ppy.sh/users/5464437). It was the 3rd instalment of the osu!türkiye Open series. Unlike the previous iterations, where the teams were formed via draft format, the 2026 edition featured premade team signups.
+The **osu!türkiye Open 2026** (***OTR26***) was a 2v2, double-elimination, Turkish-only regional osu! tournament hosted by ::{ flag=TR }:: ::LyeRR::{ user=13068741 }, ::{ flag=TR }:: ::Orkay::{ user=9321674 }, ::{ flag=TR }:: ::SStoney::{ user=8576252 } and ::{ flag=TR }:: ::Zeus::{ user=5464437 }. It was the 3rd instalment of the osu!türkiye Open series. Unlike the previous iterations, where the teams were formed via draft format, the 2026 edition featured premade team signups.
 
 ## Tournament schedule
 
@@ -44,19 +44,19 @@ The osu!türkiye Open 2026 is run by [osu!türkiye](https://osuturkiye.com) and 
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741), ::{ flag=TR }:: [Orkay](https://osu.ppy.sh/users/9321674), ::{ flag=TR }:: [SStoney](https://osu.ppy.sh/users/8576252), ::{ flag=TR }:: [Zeus](https://osu.ppy.sh/users/5464437) |
-| Mappool selector | **::{ flag=TR }:: [Orkay](https://osu.ppy.sh/users/9321674)**, ::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741), ::{ flag=TR }:: [spray-](https://osu.ppy.sh/users/16750823) |
-| Mappool quality assurance | ::{ flag=TR }:: [garvanturr](https://osu.ppy.sh/users/9143539), ::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741), ::{ flag=TR }:: [Orkay](https://osu.ppy.sh/users/9321674), ::{ flag=TR }:: [SStoney](https://osu.ppy.sh/users/8576252), ::{ flag=TR }:: [yeyygitalp](https://osu.ppy.sh/users/26015902) |
-| Mappool playtester | ::{ flag=ES }:: [ESCRUPULILLO](https://osu.ppy.sh/users/18217876), ::{ flag=RU }:: [fedotoff](https://osu.ppy.sh/users/7351448), ::{ flag=DE }:: [Inflictives](https://osu.ppy.sh/users/10243433), ::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741), ::{ flag=TR }:: [Orkay](https://osu.ppy.sh/users/9321674), ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528), ::{ flag=TR }:: [Shinkiro](https://osu.ppy.sh/users/6093148), ::{ flag=TR }:: [spray-](https://osu.ppy.sh/users/16750823) |
-| Mapper | ::{ flag=DE }:: [0ppInOsu](https://osu.ppy.sh/users/12551840), ::{ flag=TR }:: [Akhaten](https://osu.ppy.sh/users/12474487), ::{ flag=HK }:: [Arushii](https://osu.ppy.sh/users/15664628), ::{ flag=PH }:: [Auriga](https://osu.ppy.sh/users/15563306), ::{ flag=TR }:: [Coeminals](https://osu.ppy.sh/users/10213311), ::{ flag=VN }:: [Ducky-](https://osu.ppy.sh/users/9351565), ::{ flag=TR }:: [Ekrem Imamoglu](https://osu.ppy.sh/users/10801545), ::{ flag=TR }:: [garvanturr](https://osu.ppy.sh/users/9143539), ::{ flag=DE }:: [Keke Tang](https://osu.ppy.sh/users/16551148), ::{ flag=GR }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=US }:: [nooj](https://osu.ppy.sh/users/8271086), ::{ flag=US }:: [nuclei](https://osu.ppy.sh/users/25134566), ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405), ::{ flag=TR }:: [Orkay](https://osu.ppy.sh/users/9321674), ::{ flag=TW }:: [oTwinkle](https://osu.ppy.sh/users/15095654), ::{ flag=AU }:: [ralsricat](https://osu.ppy.sh/users/12318332), ::{ flag=CY }:: [ravensong](https://osu.ppy.sh/users/10772580), ::{ flag=VN }:: [S_ounds](https://osu.ppy.sh/users/18230278), ::{ flag=TR }:: [Seiioh](https://osu.ppy.sh/users/9655150), ::{ flag=TR }:: [SStoney](https://osu.ppy.sh/users/8576252), ::{ flag=TR }:: [Take](https://osu.ppy.sh/users/19322780), ::{ flag=FR }:: [Timevid](https://osu.ppy.sh/users/9125335) |
-| Hitsounder | ::{ flag=DE }:: [Celektus](https://osu.ppy.sh/users/4294993), ::{ flag=TR }:: [Coeminals](https://osu.ppy.sh/users/10213311), ::{ flag=PH }:: [Mejiro Dober](https://osu.ppy.sh/users/19425672), ::{ flag=PH }:: [midorijeon](https://osu.ppy.sh/users/10969875), ::{ flag=TR }:: [Orkay](https://osu.ppy.sh/users/9321674) |
-| Streamer | **::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741)**, ::{ flag=TR }:: [Drestau](https://osu.ppy.sh/users/10987034), ::{ flag=TR }:: [RokeT-](https://osu.ppy.sh/users/17151907) |
-| Commentator | **::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741)**, ::{ flag=TR }:: [AgorelL](https://osu.ppy.sh/users/16725049), ::{ flag=TR }:: [Cherpi](https://osu.ppy.sh/users/14828870), ::{ flag=TR }:: [Cureleux](https://osu.ppy.sh/users/25429183), ::{ flag=TR }:: [dragonsaga](https://osu.ppy.sh/users/4982690), ::{ flag=TR }:: [Drestau](https://osu.ppy.sh/users/10987034), ::{ flag=TR }:: [emrepkrr](https://osu.ppy.sh/users/19034045), ::{ flag=TR }:: [Lypophr3nia](https://osu.ppy.sh/users/34947009), ::{ flag=TR }:: [mostiza](https://osu.ppy.sh/users/7354243), ::{ flag=TR }:: [mustifafifax](https://osu.ppy.sh/users/14473721), ::{ flag=TR }:: [Nitrur](https://osu.ppy.sh/users/29649528), ::{ flag=TR }:: [Orkay](https://osu.ppy.sh/users/9321674), ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528), ::{ flag=TR }:: [RokeT-](https://osu.ppy.sh/users/17151907), ::{ flag=TR }:: [SStoney](https://osu.ppy.sh/users/8576252), ::{ flag=TR }:: [vuluvulu](https://osu.ppy.sh/users/35459987) |
-| Commentator (special guests) | ::{ flag=TR }:: [-K3RIM-](https://osu.ppy.sh/users/9187208), ::{ flag=TR }:: [ACLFT](https://osu.ppy.sh/users/25540750), ::{ flag=TR }:: [arda](https://osu.ppy.sh/users/15019357), ::{ flag=TR }:: [Cheas](https://osu.ppy.sh/users/15596748), ::{ flag=TR }:: [Clutch](https://osu.ppy.sh/users/14958380), ::{ flag=TR }:: [dia23](https://osu.ppy.sh/users/9365664), ::{ flag=TR }:: [garvanturr](https://osu.ppy.sh/users/9143539), ::{ flag=TR }:: [Liery](https://osu.ppy.sh/users/11551991), ::{ flag=TR }:: [me\_ozix](https://osu.ppy.sh/users/24326661), ::{ flag=TR }:: [Metro Turizm](https://osu.ppy.sh/users/14113711), ::{ flag=TR }:: [Nymphe](https://osu.ppy.sh/users/10507407), ::{ flag=TR }:: [Serdar](https://osu.ppy.sh/users/9197580), ::{ flag=TR }:: [tingirmin](https://osu.ppy.sh/users/9027514), ::{ flag=TR }:: [Zybit](https://osu.ppy.sh/users/15333513) |
-| Tournament design | **::{ flag=TR }:: [Zeus](https://osu.ppy.sh/users/5464437)**, ::{ flag=TR }:: [Aeshma](https://osu.ppy.sh/users/13845312), ::{ flag=TR }:: [BatuhanYtho](https://osu.ppy.sh/users/12091015), ::{ flag=TR }:: [Drestau](https://osu.ppy.sh/users/10987034), ::{ flag=TR }:: [lustorium](https://osu.ppy.sh/users/10066998), ::{ flag=TR }:: [mostiza](https://osu.ppy.sh/users/7354243), ::{ flag=TR }:: [Nitrur](https://osu.ppy.sh/users/29649528), ::{ flag=TR }:: [Noreu](https://osu.ppy.sh/users/21073648), ::{ flag=TR }:: [Seiioh](https://osu.ppy.sh/users/9655150) |
-| Referee | **::{ flag=TR }:: [raptor-](https://osu.ppy.sh/users/11593647)**, ::{ flag=TR }:: [Cureleux](https://osu.ppy.sh/users/25429183), ::{ flag=TR }:: [Drestau](https://osu.ppy.sh/users/10987034), ::{ flag=TR }:: [HeroBabaa](https://osu.ppy.sh/users/29914048), ::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741), ::{ flag=TR }:: [Nitrur](https://osu.ppy.sh/users/29649528), ::{ flag=TR }:: [purehalcyon](https://osu.ppy.sh/users/18258854), ::{ flag=TR }:: [RokeT-](https://osu.ppy.sh/users/17151907), ::{ flag=TR }:: [Soroic](https://osu.ppy.sh/users/17163162), ::{ flag=TR }:: [Sweet](https://osu.ppy.sh/users/19650017), ::{ flag=TR }:: [vuluvulu](https://osu.ppy.sh/users/35459987) |
-| Statistician | **::{ flag=TR }:: [Drestau](https://osu.ppy.sh/users/10987034)**, ::{ flag=TR }:: [raptor-](https://osu.ppy.sh/users/11593647) |
-| Developer | ::{ flag=TR }:: [Drestau](https://osu.ppy.sh/users/10987034), ::{ flag=TR }:: [raptor-](https://osu.ppy.sh/users/11593647), ::{ flag=TR }:: [Zeus](https://osu.ppy.sh/users/5464437) |
+| Manager | ::{ flag=TR }:: ::LyeRR::{ user=13068741 }, ::{ flag=TR }:: ::Orkay::{ user=9321674 }, ::{ flag=TR }:: ::SStoney::{ user=8576252 }, ::{ flag=TR }:: ::Zeus::{ user=5464437 } |
+| Mappool selector | **::{ flag=TR }:: ::Orkay::{ user=9321674 }**, ::{ flag=TR }:: ::LyeRR::{ user=13068741 }, ::{ flag=TR }:: ::spray-::{ user=16750823 } |
+| Mappool quality assurance | ::{ flag=TR }:: ::garvanturr::{ user=9143539 }, ::{ flag=TR }:: ::LyeRR::{ user=13068741 }, ::{ flag=TR }:: ::Orkay::{ user=9321674 }, ::{ flag=TR }:: ::SStoney::{ user=8576252 }, ::{ flag=TR }:: ::yeyygitalp::{ user=26015902 } |
+| Mappool playtester | ::{ flag=ES }:: ::ESCRUPULILLO::{ user=18217876 }, ::{ flag=RU }:: ::fedotoff::{ user=7351448 }, ::{ flag=DE }:: ::Inflictives::{ user=10243433 }, ::{ flag=TR }:: ::LyeRR::{ user=13068741 }, ::{ flag=TR }:: ::Orkay::{ user=9321674 }, ::{ flag=TR }:: ::Raikouhou::{ user=8007528 }, ::{ flag=TR }:: ::Shinkiro::{ user=6093148 }, ::{ flag=TR }:: ::spray-::{ user=16750823 } |
+| Mapper | ::{ flag=DE }:: ::0ppInOsu::{ user=12551840 }, ::{ flag=TR }:: ::Akhaten::{ user=12474487 }, ::{ flag=HK }:: ::Arushii::{ user=15664628 }, ::{ flag=PH }:: ::Auriga::{ user=15563306 }, ::{ flag=TR }:: ::Coeminals::{ user=10213311 }, ::{ flag=VN }:: ::Ducky-::{ user=9351565 }, ::{ flag=TR }:: ::Ekrem Imamoglu::{ user=10801545 }, ::{ flag=TR }:: ::garvanturr::{ user=9143539 }, ::{ flag=DE }:: ::Keke Tang::{ user=16551148 }, ::{ flag=GR }:: ::nik::{ user=10077264 }, ::{ flag=US }:: ::nooj::{ user=8271086 }, ::{ flag=US }:: ::nuclei::{ user=25134566 }, ::{ flag=DE }:: ::Okoayu::{ user=1623405 }, ::{ flag=TR }:: ::Orkay::{ user=9321674 }, ::{ flag=TW }:: ::oTwinkle::{ user=15095654 }, ::{ flag=AU }:: ::ralsricat::{ user=12318332 }, ::{ flag=CY }:: ::ravensong::{ user=10772580 }, ::{ flag=VN }:: ::S_ounds::{ user=18230278 }, ::{ flag=TR }:: ::Seiioh::{ user=9655150 }, ::{ flag=TR }:: ::SStoney::{ user=8576252 }, ::{ flag=TR }:: ::Take::{ user=19322780 }, ::{ flag=FR }:: ::Timevid::{ user=9125335 } |
+| Hitsounder | ::{ flag=DE }:: ::Celektus::{ user=4294993 }, ::{ flag=TR }:: ::Coeminals::{ user=10213311 }, ::{ flag=PH }:: ::Mejiro Dober::{ user=19425672 }, ::{ flag=PH }:: ::midorijeon::{ user=10969875 }, ::{ flag=TR }:: ::Orkay::{ user=9321674 } |
+| Streamer | **::{ flag=TR }:: ::LyeRR::{ user=13068741 }**, ::{ flag=TR }:: ::Drestau::{ user=10987034 }, ::{ flag=TR }:: ::RokeT-::{ user=17151907 } |
+| Commentator | **::{ flag=TR }:: ::LyeRR::{ user=13068741 }**, ::{ flag=TR }:: ::AgorelL::{ user=16725049 }, ::{ flag=TR }:: ::Cherpi::{ user=14828870 }, ::{ flag=TR }:: ::Cureleux::{ user=25429183 }, ::{ flag=TR }:: ::dragonsaga::{ user=4982690 }, ::{ flag=TR }:: ::Drestau::{ user=10987034 }, ::{ flag=TR }:: ::emrepkrr::{ user=19034045 }, ::{ flag=TR }:: ::Lypophr3nia::{ user=34947009 }, ::{ flag=TR }:: ::mostiza::{ user=7354243 }, ::{ flag=TR }:: ::mustifafifax::{ user=14473721 }, ::{ flag=TR }:: ::Nitrur::{ user=29649528 }, ::{ flag=TR }:: ::Orkay::{ user=9321674 }, ::{ flag=TR }:: ::Raikouhou::{ user=8007528 }, ::{ flag=TR }:: ::RokeT-::{ user=17151907 }, ::{ flag=TR }:: ::SStoney::{ user=8576252 }, ::{ flag=TR }:: ::vuluvulu::{ user=35459987 } |
+| Commentator (special guests) | ::{ flag=TR }:: ::-K3RIM-::{ user=9187208 }, ::{ flag=TR }:: ::ACLFT::{ user=25540750 }, ::{ flag=TR }:: ::arda::{ user=15019357 }, ::{ flag=TR }:: ::Cheas::{ user=15596748 }, ::{ flag=TR }:: ::Clutch::{ user=14958380 }, ::{ flag=TR }:: ::dia23::{ user=9365664 }, ::{ flag=TR }:: ::garvanturr::{ user=9143539 }, ::{ flag=TR }:: ::Liery::{ user=11551991 }, ::{ flag=TR }:: ::me\_ozix::{ user=24326661 }, ::{ flag=TR }:: ::Metro Turizm::{ user=14113711 }, ::{ flag=TR }:: ::Nymphe::{ user=10507407 }, ::{ flag=TR }:: ::Serdar::{ user=9197580 }, ::{ flag=TR }:: ::tingirmin::{ user=9027514 }, ::{ flag=TR }:: ::Zybit::{ user=15333513 } |
+| Tournament design | **::{ flag=TR }:: ::Zeus::{ user=5464437 }**, ::{ flag=TR }:: ::Aeshma::{ user=13845312 }, ::{ flag=TR }:: ::BatuhanYtho::{ user=12091015 }, ::{ flag=TR }:: ::Drestau::{ user=10987034 }, ::{ flag=TR }:: ::lustorium::{ user=10066998 }, ::{ flag=TR }:: ::mostiza::{ user=7354243 }, ::{ flag=TR }:: ::Nitrur::{ user=29649528 }, ::{ flag=TR }:: ::Noreu::{ user=21073648 }, ::{ flag=TR }:: ::Seiioh::{ user=9655150 } |
+| Referee | **::{ flag=TR }:: ::raptor-::{ user=11593647 }**, ::{ flag=TR }:: ::Cureleux::{ user=25429183 }, ::{ flag=TR }:: ::Drestau::{ user=10987034 }, ::{ flag=TR }:: ::HeroBabaa::{ user=29914048 }, ::{ flag=TR }:: ::LyeRR::{ user=13068741 }, ::{ flag=TR }:: ::Nitrur::{ user=29649528 }, ::{ flag=TR }:: ::purehalcyon::{ user=18258854 }, ::{ flag=TR }:: ::RokeT-::{ user=17151907 }, ::{ flag=TR }:: ::Soroic::{ user=17163162 }, ::{ flag=TR }:: ::Sweet::{ user=19650017 }, ::{ flag=TR }:: ::vuluvulu::{ user=35459987 } |
+| Statistician | **::{ flag=TR }:: ::Drestau::{ user=10987034 }**, ::{ flag=TR }:: ::raptor-::{ user=11593647 } |
+| Developer | ::{ flag=TR }:: ::Drestau::{ user=10987034 }, ::{ flag=TR }:: ::raptor-::{ user=11593647 }, ::{ flag=TR }:: ::Zeus::{ user=5464437 } |
 | Musician | [Akiri](https://osu.ppy.sh/beatmaps/artists/401), [flures](https://soundcloud.com/realflures), [Kagankaravana](https://www.youtube.com/@kagankaravana), [sumi](https://soundcloud.com/sumi-83860761), [XenjeS](https://osu.ppy.sh/beatmaps/artists/482), [Xennzor](https://soundcloud.com/xennzordnb), [Zeforex](https://soundcloud.com/zeforex), [ZxNX](https://osu.ppy.sh/beatmaps/artists/288) |
 
 Group leaders are denoted in **bold**.
@@ -70,66 +70,66 @@ Group leaders are denoted in **bold**.
 - [Discord server](https://discord.gg/osuturkiye)
 - [Detailed ruleset](https://osuturkiye.com/wiki/otr26)
 - Challonge brackets: [Group Stage](https://challonge.com/otr26grup) / [Elimination Stage](https://challonge.com/OTR26cifteleme)
-- [Pick'ems page](https://pickem.hwc.hr/tournaments/198) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/198) hosted by ::{ flag=DE }:: ::hallowatcher::{ user=1874761 }
 
 ## Participants
 
 | Team | Members | Total pp[^pp-limit] |
 | :-- | :-- | --: |
-| farketmez | ::{ flag=TR }:: **[Metro Turizm](https://osu.ppy.sh/users/14113711)**, ::{ flag=TR }:: [Nymphe](https://osu.ppy.sh/users/10507407) | 20.987pp |
-| Fanta Enjoyers | ::{ flag=TR }:: **[maidkedi](https://osu.ppy.sh/users/21893727)**, ::{ flag=TR }:: [TSM L9 RUI](https://osu.ppy.sh/users/31355527) | 20.983pp |
-| cok zeki takim | ::{ flag=TR }:: **[gheanfoil](https://osu.ppy.sh/users/13596160)**, ::{ flag=TR }:: [ht2](https://osu.ppy.sh/users/27584970) | 20.973pp |
-| alındınmı? .p | ::{ flag=TR }:: **[arda](https://osu.ppy.sh/users/15019357)**, ::{ flag=TR }:: [tingirmin](https://osu.ppy.sh/users/9027514) | 20.930pp |
-| Pinterest kedipp | ::{ flag=TR }:: **[kr__](https://osu.ppy.sh/users/29545680)**, ::{ flag=TR }:: [Whydm](https://osu.ppy.sh/users/22148222) | 20.855pp |
-| acil feet | ::{ flag=TR }:: **[dia23](https://osu.ppy.sh/users/9365664)**, ::{ flag=TR }:: [ACLFT](https://osu.ppy.sh/users/25540750) | 20.853pp |
-| ördek | ::{ flag=TR }:: **[empi-](https://osu.ppy.sh/users/12500084)**, ::{ flag=TR }:: [_Ferapax](https://osu.ppy.sh/users/25204719) | 20.732pp |
-| enes batur | ::{ flag=TR }:: **[Ievi-](https://osu.ppy.sh/users/14684430)**, ::{ flag=TR }:: [Aeghil](https://osu.ppy.sh/users/18349668) | 20.718pp |
-| steal balls and run | ::{ flag=TR }:: **[emrepkrr](https://osu.ppy.sh/users/19034045)**, ::{ flag=TR }:: [MilkyChocolate](https://osu.ppy.sh/users/10630390) | 20.684pp |
-| 21cm pp limit | ::{ flag=TR }:: **[Rosaitty](https://osu.ppy.sh/users/9319605)**, ::{ flag=TR }:: [mustifafifax](https://osu.ppy.sh/users/14473721) | 20.572pp |
-| cansın | ::{ flag=TR }:: **[Clutch](https://osu.ppy.sh/users/14958380)**, ::{ flag=TR }:: [Zey1111](https://osu.ppy.sh/users/25349230) | 20.522pp |
-| bak | ::{ flag=TR }:: **[dragonsaga](https://osu.ppy.sh/users/4982690)**, ::{ flag=TR }:: [Liery](https://osu.ppy.sh/users/11551991) | 20.461pp |
-| barigadam | ::{ flag=TR }:: **[-K3RIM-](https://osu.ppy.sh/users/9187208)**, ::{ flag=TR }:: [TReminTR13](https://osu.ppy.sh/users/32029930) | 20.456pp |
-| Dede ve Torunu | ::{ flag=TR }:: **[Cherpi](https://osu.ppy.sh/users/14828870)**, ::{ flag=TR }:: [LeBoum](https://osu.ppy.sh/users/8700026) | 20.296pp |
-| W puskevit | ::{ flag=TR }:: **[Puskevit](https://osu.ppy.sh/users/9060966)**, ::{ flag=TR }:: [dskylh](https://osu.ppy.sh/users/12623324) | 20.115pp |
-| baaa mi diyo la? :O | ::{ flag=TR }:: **[AgorelL](https://osu.ppy.sh/users/16725049)**, ::{ flag=TR }:: [Zybit](https://osu.ppy.sh/users/15333513) | 19.816pp |
-| washed gang | ::{ flag=TR }:: **[yorunoken](https://osu.ppy.sh/users/17279598)**, ::{ flag=TR }:: [citrous](https://osu.ppy.sh/users/20367144) | 19.705pp |
-| bocamak | ::{ flag=TR }:: **[vestige](https://osu.ppy.sh/users/18988939)**, ::{ flag=TR }:: [knaa](https://osu.ppy.sh/users/34654247) | 18.999pp |
-| aranan adamlar 0134 | ::{ flag=TR }:: **[Sekjiru](https://osu.ppy.sh/users/11643416)**, ::{ flag=TR }:: [Kaije](https://osu.ppy.sh/users/14140384) | 18.537pp |
-| takım olak | ::{ flag=TR }:: **[Terasel](https://osu.ppy.sh/users/16138723)**, ::{ flag=TR }:: [Aisn](https://osu.ppy.sh/users/12489717) | 18.466pp |
-| zilla | ::{ flag=TR }:: **[tadashiosu](https://osu.ppy.sh/users/24421391)**, ::{ flag=TR }:: [Repxic](https://osu.ppy.sh/users/13903087) | 18.289pp |
-| Aim Slop Abusers | ::{ flag=TR }:: **[Columbinaa](https://osu.ppy.sh/users/33511891)**, ::{ flag=TR }:: [BayFazzer](https://osu.ppy.sh/users/28489877) | 17.938pp |
-| Joymaxxing | ::{ flag=TR }:: **[Misumena](https://osu.ppy.sh/users/6440158)**, ::{ flag=TR }:: [Arcuez](https://osu.ppy.sh/users/6036220) | 17.762pp |
-| eyvah | ::{ flag=TR }:: **[- kayu](https://osu.ppy.sh/users/15572272)**, ::{ flag=TR }:: [b4ris](https://osu.ppy.sh/users/18028990) | 17.429pp |
-| libaler | ::{ flag=TR }:: **[Alerr](https://osu.ppy.sh/users/11159192)**, ::{ flag=TR }:: [Mirayy](https://osu.ppy.sh/users/23756902) | 17.326pp |
-| Genç Yetenekler | ::{ flag=TR }:: **[Jollyms](https://osu.ppy.sh/users/16825848)**, ::{ flag=TR }:: [Sipali](https://osu.ppy.sh/users/17352029) | 17.312pp |
-| Ölü El Terminal | ::{ flag=TR }:: **[Yureibutsad](https://osu.ppy.sh/users/10301951)**, ::{ flag=TR }:: [isotkarahanli](https://osu.ppy.sh/users/33176656) | 17.225pp |
-| :steamhappy: | ::{ flag=TR }:: **[Wixax](https://osu.ppy.sh/users/6207181)**, ::{ flag=TR }:: [\[Lin\]](https://osu.ppy.sh/users/26119591) | 17.134pp |
-| Ballade 123 | ::{ flag=TR }:: **[Mianorqe](https://osu.ppy.sh/users/37490087)**, ::{ flag=TR }:: [WarriorKestane](https://osu.ppy.sh/users/33371304) | 16.987pp |
-| Folklar | ::{ flag=TR }:: **[Ataturk](https://osu.ppy.sh/users/11381914)**, ::{ flag=TR }:: [birb](https://osu.ppy.sh/users/11285985) | 16.929pp |
-| AvazAvazAğlayanYüz | ::{ flag=TR }:: **[Secretboy](https://osu.ppy.sh/users/24752641)**, ::{ flag=TR }:: [ademos](https://osu.ppy.sh/users/17320778) | 16.693pp |
-| çeşgul | ::{ flag=TR }:: **[Misora-](https://osu.ppy.sh/users/11621574)**, ::{ flag=TR }:: [red person](https://osu.ppy.sh/users/9709191) | 16.353pp |
-| hortlak | ::{ flag=TR }:: **[huckmen444](https://osu.ppy.sh/users/5019334)**, ::{ flag=TR }:: [RokeT-](https://osu.ppy.sh/users/17151907) | 15.393pp |
-| Cortisol | ::{ flag=TR }:: **[dark sunn](https://osu.ppy.sh/users/20485889)**, ::{ flag=TR }:: [dodo0317](https://osu.ppy.sh/users/36458923) | 14.911pp |
-| Opsiyonel | ::{ flag=TR }:: **[Rokuchi](https://osu.ppy.sh/users/36182718)**, ::{ flag=TR }:: [Lnk](https://osu.ppy.sh/users/21053038) | 14.642pp |
-| İBO VE GAMİNG | ::{ flag=TR }:: **[onlyforK](https://osu.ppy.sh/users/29900877)**, ::{ flag=TR }:: [NaberMudur](https://osu.ppy.sh/users/19385395) | 14.487pp |
-| jembeyler | ::{ flag=TR }:: **[getsplited](https://osu.ppy.sh/users/17760960)**, ::{ flag=TR }:: [ayberk](https://osu.ppy.sh/users/25530991) | 14.381pp |
-| kaafi | ::{ flag=TR }:: **[erukedi](https://osu.ppy.sh/users/19693888)**, ::{ flag=TR }:: [hilmicem](https://osu.ppy.sh/users/37606341) | 14.298pp |
-| 8-5 mesai | ::{ flag=TR }:: **[Piince](https://osu.ppy.sh/users/17048466)**, ::{ flag=TR }:: [Scawroad](https://osu.ppy.sh/users/17636719) | 13.836pp |
-| Aşuk ile Maşuk | ::{ flag=TR }:: **[NeoShnn](https://osu.ppy.sh/users/33623009)**, ::{ flag=TR }:: [cago](https://osu.ppy.sh/users/22443340) | 13.616pp |
-| SloppersInParis | ::{ flag=TR }:: **[Vantanite](https://osu.ppy.sh/users/17779421)**, ::{ flag=TR }:: [babapro1313](https://osu.ppy.sh/users/34618819) | 13.508pp |
-| performatif genişletme | ::{ flag=TR }:: **[Cureleux](https://osu.ppy.sh/users/25429183)**, ::{ flag=TR }:: [purehalcyon](https://osu.ppy.sh/users/18258854) | 13.202pp |
-| babaeski esports | ::{ flag=TR }:: **[fnxx](https://osu.ppy.sh/users/16827662)**, ::{ flag=TR }:: [selimax](https://osu.ppy.sh/users/13525233) | 12.608pp |
-| Tink E-spor | ::{ flag=TR }:: **[qtunap](https://osu.ppy.sh/users/16620788)**, ::{ flag=TR }:: [Tetsunaru](https://osu.ppy.sh/users/16556729) | 12.279pp |
-| Kanye babam ve biz | ::{ flag=TR }:: **[HALKBANK](https://osu.ppy.sh/users/20918038)**, ::{ flag=TR }:: [\[-Phantom64-\]](https://osu.ppy.sh/users/12741458) | 11.665pp |
-| Takım isminiz | ::{ flag=TR }:: **[shimu](https://osu.ppy.sh/users/14318796)**, ::{ flag=TR }:: [yagizvsx](https://osu.ppy.sh/users/19756573) | 11.263pp |
-| Retired LoL Players | ::{ flag=TR }:: **[StarVolt_](https://osu.ppy.sh/users/36683886)**, ::{ flag=TR }:: [LeoNard_](https://osu.ppy.sh/users/33431776) | 10.791pp |
-| P7zenjoy | ::{ flag=TR }:: **[alpov](https://osu.ppy.sh/users/19578998)**, ::{ flag=TR }:: [AhtapotNecmi](https://osu.ppy.sh/users/24852332) | 10.050pp |
-| random kid | ::{ flag=TR }:: **[vuluvulu](https://osu.ppy.sh/users/35459987)**, ::{ flag=TR }:: [Cheas](https://osu.ppy.sh/users/15596748) | 9.870pp |
-| Dream Team | ::{ flag=TR }:: **[me_ozix](https://osu.ppy.sh/users/24326661)**, ::{ flag=TR }:: [Lypophr3nia](https://osu.ppy.sh/users/34947009) | 8.907pp |
-| Agalar | ::{ flag=TR }:: **[ChortaX](https://osu.ppy.sh/users/37923969)**, ::{ flag=TR }:: [Oumyoop](https://osu.ppy.sh/users/12419300) | 8.209pp |
-| professional slider breaking | ::{ flag=TR }:: **[AwcunY](https://osu.ppy.sh/users/27222225)**, ::{ flag=TR }:: [gameofsalih](https://osu.ppy.sh/users/28412980) | 7.415pp |
-| denizli horozları | ::{ flag=TR }:: **[kufukami](https://osu.ppy.sh/users/37929479)**, ::{ flag=TR }:: [without mercy](https://osu.ppy.sh/users/28436050) | 6.981pp |
-| low acc or quit | ::{ flag=TR }:: **[Emrecan](https://osu.ppy.sh/users/39182209)**, ::{ flag=TR }:: [fishtuna](https://osu.ppy.sh/users/38898878) | 4.769pp |
+| farketmez | ::{ flag=TR }:: **::Metro Turizm::{ user=14113711 }**, ::{ flag=TR }:: ::Nymphe::{ user=10507407 } | 20.987pp |
+| Fanta Enjoyers | ::{ flag=TR }:: **::maidkedi::{ user=21893727 }**, ::{ flag=TR }:: ::TSM L9 RUI::{ user=31355527 } | 20.983pp |
+| cok zeki takim | ::{ flag=TR }:: **::gheanfoil::{ user=13596160 }**, ::{ flag=TR }:: ::ht2::{ user=27584970 } | 20.973pp |
+| alındınmı? .p | ::{ flag=TR }:: **::arda::{ user=15019357 }**, ::{ flag=TR }:: ::tingirmin::{ user=9027514 } | 20.930pp |
+| Pinterest kedipp | ::{ flag=TR }:: **::kr__::{ user=29545680 }**, ::{ flag=TR }:: ::Whydm::{ user=22148222 } | 20.855pp |
+| acil feet | ::{ flag=TR }:: **::dia23::{ user=9365664 }**, ::{ flag=TR }:: ::ACLFT::{ user=25540750 } | 20.853pp |
+| ördek | ::{ flag=TR }:: **::empi-::{ user=12500084 }**, ::{ flag=TR }:: ::_Ferapax::{ user=25204719 } | 20.732pp |
+| enes batur | ::{ flag=TR }:: **::Ievi-::{ user=14684430 }**, ::{ flag=TR }:: ::Aeghil::{ user=18349668 } | 20.718pp |
+| steal balls and run | ::{ flag=TR }:: **::emrepkrr::{ user=19034045 }**, ::{ flag=TR }:: ::MilkyChocolate::{ user=10630390 } | 20.684pp |
+| 21cm pp limit | ::{ flag=TR }:: **::Rosaitty::{ user=9319605 }**, ::{ flag=TR }:: ::mustifafifax::{ user=14473721 } | 20.572pp |
+| cansın | ::{ flag=TR }:: **::Clutch::{ user=14958380 }**, ::{ flag=TR }:: ::Zey1111::{ user=25349230 } | 20.522pp |
+| bak | ::{ flag=TR }:: **::dragonsaga::{ user=4982690 }**, ::{ flag=TR }:: ::Liery::{ user=11551991 } | 20.461pp |
+| barigadam | ::{ flag=TR }:: **::-K3RIM-::{ user=9187208 }**, ::{ flag=TR }:: ::TReminTR13::{ user=32029930 } | 20.456pp |
+| Dede ve Torunu | ::{ flag=TR }:: **::Cherpi::{ user=14828870 }**, ::{ flag=TR }:: ::LeBoum::{ user=8700026 } | 20.296pp |
+| W puskevit | ::{ flag=TR }:: **::Puskevit::{ user=9060966 }**, ::{ flag=TR }:: ::dskylh::{ user=12623324 } | 20.115pp |
+| baaa mi diyo la? :O | ::{ flag=TR }:: **::AgorelL::{ user=16725049 }**, ::{ flag=TR }:: ::Zybit::{ user=15333513 } | 19.816pp |
+| washed gang | ::{ flag=TR }:: **::yorunoken::{ user=17279598 }**, ::{ flag=TR }:: ::citrous::{ user=20367144 } | 19.705pp |
+| bocamak | ::{ flag=TR }:: **::vestige::{ user=18988939 }**, ::{ flag=TR }:: ::knaa::{ user=34654247 } | 18.999pp |
+| aranan adamlar 0134 | ::{ flag=TR }:: **::Sekjiru::{ user=11643416 }**, ::{ flag=TR }:: ::Kaije::{ user=14140384 } | 18.537pp |
+| takım olak | ::{ flag=TR }:: **::Terasel::{ user=16138723 }**, ::{ flag=TR }:: ::Aisn::{ user=12489717 } | 18.466pp |
+| zilla | ::{ flag=TR }:: **::tadashiosu::{ user=24421391 }**, ::{ flag=TR }:: ::Repxic::{ user=13903087 } | 18.289pp |
+| Aim Slop Abusers | ::{ flag=TR }:: **::Columbinaa::{ user=33511891 }**, ::{ flag=TR }:: ::BayFazzer::{ user=28489877 } | 17.938pp |
+| Joymaxxing | ::{ flag=TR }:: **::Misumena::{ user=6440158 }**, ::{ flag=TR }:: ::Arcuez::{ user=6036220 } | 17.762pp |
+| eyvah | ::{ flag=TR }:: **::- kayu::{ user=15572272 }**, ::{ flag=TR }:: ::b4ris::{ user=18028990 } | 17.429pp |
+| libaler | ::{ flag=TR }:: **::Alerr::{ user=11159192 }**, ::{ flag=TR }:: ::Mirayy::{ user=23756902 } | 17.326pp |
+| Genç Yetenekler | ::{ flag=TR }:: **::Jollyms::{ user=16825848 }**, ::{ flag=TR }:: ::Sipali::{ user=17352029 } | 17.312pp |
+| Ölü El Terminal | ::{ flag=TR }:: **::Yureibutsad::{ user=10301951 }**, ::{ flag=TR }:: ::isotkarahanli::{ user=33176656 } | 17.225pp |
+| :steamhappy: | ::{ flag=TR }:: **::Wixax::{ user=6207181 }**, ::{ flag=TR }:: ::\[Lin\]::{ user=26119591 } | 17.134pp |
+| Ballade 123 | ::{ flag=TR }:: **::Mianorqe::{ user=37490087 }**, ::{ flag=TR }:: ::WarriorKestane::{ user=33371304 } | 16.987pp |
+| Folklar | ::{ flag=TR }:: **::Ataturk::{ user=11381914 }**, ::{ flag=TR }:: ::birb::{ user=11285985 } | 16.929pp |
+| AvazAvazAğlayanYüz | ::{ flag=TR }:: **::Secretboy::{ user=24752641 }**, ::{ flag=TR }:: ::ademos::{ user=17320778 } | 16.693pp |
+| çeşgul | ::{ flag=TR }:: **::Misora-::{ user=11621574 }**, ::{ flag=TR }:: ::red person::{ user=9709191 } | 16.353pp |
+| hortlak | ::{ flag=TR }:: **::huckmen444::{ user=5019334 }**, ::{ flag=TR }:: ::RokeT-::{ user=17151907 } | 15.393pp |
+| Cortisol | ::{ flag=TR }:: **::dark sunn::{ user=20485889 }**, ::{ flag=TR }:: ::dodo0317::{ user=36458923 } | 14.911pp |
+| Opsiyonel | ::{ flag=TR }:: **::Rokuchi::{ user=36182718 }**, ::{ flag=TR }:: ::Lnk::{ user=21053038 } | 14.642pp |
+| İBO VE GAMİNG | ::{ flag=TR }:: **::onlyforK::{ user=29900877 }**, ::{ flag=TR }:: ::NaberMudur::{ user=19385395 } | 14.487pp |
+| jembeyler | ::{ flag=TR }:: **::getsplited::{ user=17760960 }**, ::{ flag=TR }:: ::ayberk::{ user=25530991 } | 14.381pp |
+| kaafi | ::{ flag=TR }:: **::erukedi::{ user=19693888 }**, ::{ flag=TR }:: ::hilmicem::{ user=37606341 } | 14.298pp |
+| 8-5 mesai | ::{ flag=TR }:: **::Piince::{ user=17048466 }**, ::{ flag=TR }:: ::Scawroad::{ user=17636719 } | 13.836pp |
+| Aşuk ile Maşuk | ::{ flag=TR }:: **::NeoShnn::{ user=33623009 }**, ::{ flag=TR }:: ::cago::{ user=22443340 } | 13.616pp |
+| SloppersInParis | ::{ flag=TR }:: **::Vantanite::{ user=17779421 }**, ::{ flag=TR }:: ::babapro1313::{ user=34618819 } | 13.508pp |
+| performatif genişletme | ::{ flag=TR }:: **::Cureleux::{ user=25429183 }**, ::{ flag=TR }:: ::purehalcyon::{ user=18258854 } | 13.202pp |
+| babaeski esports | ::{ flag=TR }:: **::fnxx::{ user=16827662 }**, ::{ flag=TR }:: ::selimax::{ user=13525233 } | 12.608pp |
+| Tink E-spor | ::{ flag=TR }:: **::qtunap::{ user=16620788 }**, ::{ flag=TR }:: ::Tetsunaru::{ user=16556729 } | 12.279pp |
+| Kanye babam ve biz | ::{ flag=TR }:: **::HALKBANK::{ user=20918038 }**, ::{ flag=TR }:: ::\[-Phantom64-\]::{ user=12741458 } | 11.665pp |
+| Takım isminiz | ::{ flag=TR }:: **::shimu::{ user=14318796 }**, ::{ flag=TR }:: ::yagizvsx::{ user=19756573 } | 11.263pp |
+| Retired LoL Players | ::{ flag=TR }:: **::StarVolt_::{ user=36683886 }**, ::{ flag=TR }:: ::LeoNard_::{ user=33431776 } | 10.791pp |
+| P7zenjoy | ::{ flag=TR }:: **::alpov::{ user=19578998 }**, ::{ flag=TR }:: ::AhtapotNecmi::{ user=24852332 } | 10.050pp |
+| random kid | ::{ flag=TR }:: **::vuluvulu::{ user=35459987 }**, ::{ flag=TR }:: ::Cheas::{ user=15596748 } | 9.870pp |
+| Dream Team | ::{ flag=TR }:: **::me_ozix::{ user=24326661 }**, ::{ flag=TR }:: ::Lypophr3nia::{ user=34947009 } | 8.907pp |
+| Agalar | ::{ flag=TR }:: **::ChortaX::{ user=37923969 }**, ::{ flag=TR }:: ::Oumyoop::{ user=12419300 } | 8.209pp |
+| professional slider breaking | ::{ flag=TR }:: **::AwcunY::{ user=27222225 }**, ::{ flag=TR }:: ::gameofsalih::{ user=28412980 } | 7.415pp |
+| denizli horozları | ::{ flag=TR }:: **::kufukami::{ user=37929479 }**, ::{ flag=TR }:: ::without mercy::{ user=28436050 } | 6.981pp |
+| low acc or quit | ::{ flag=TR }:: **::Emrecan::{ user=39182209 }**, ::{ flag=TR }:: ::fishtuna::{ user=38898878 } | 4.769pp |
 
 Captains are denoted in **bold**.
 

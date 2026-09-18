@@ -1,6 +1,6 @@
 # Paket-paket beatmap lama
 
-Paket beatmap telah menjadi bagian yang tak terpisahkan dari komunitas osu! sejak [pertama kali diperkenalkan](https://osu.ppy.sh/community/forums/topics/1853) oleh ::{ flag=US }:: [Saturos](https://osu.ppy.sh/users/3781) pada tahun 2008, di mana pada kala itu paket-paket beatmap tertentu telah dijadikan syarat untuk dapat membuka [medali-medali yang ada](/wiki/Medals). Meskipun demikian, dengan perkembangan osu! yang semakin pesat seiring tahunnya, beatmap-beatmap yang ada juga ikut berevolusi dan—karena permintaan yang besar dari publik—[pada tanggal 18 Januari 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44) tim osu! merombak ulang isi berbagai paket beatmap yang ada agar tidak lekang termakan zaman.
+Paket beatmap telah menjadi bagian yang tak terpisahkan dari komunitas osu! sejak [pertama kali diperkenalkan](https://osu.ppy.sh/community/forums/topics/1853) oleh ::{ flag=US }:: ::Saturos::{ user=3781 } pada tahun 2008, di mana pada kala itu paket-paket beatmap tertentu telah dijadikan syarat untuk dapat membuka [medali-medali yang ada](/wiki/Medals). Meskipun demikian, dengan perkembangan osu! yang semakin pesat seiring tahunnya, beatmap-beatmap yang ada juga ikut berevolusi dan—karena permintaan yang besar dari publik—[pada tanggal 18 Januari 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44) tim osu! merombak ulang isi berbagai paket beatmap yang ada agar tidak lekang termakan zaman.
 
 Berikut ini merupakan komposisi asli dari paket-paket beatmap yang bersangkutan sebelum mereka dirombak ulang sebagaimana yang telah disebutkan di atas.
 
@@ -8,7 +8,7 @@ Berikut ini merupakan komposisi asli dari paket-paket beatmap yang bersangkutan 
 
 ### Volume 1
 
-Paket beatmap ini diperkenalkan oleh ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) dan ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
+Paket beatmap ini diperkenalkan oleh ::{ flag=US }:: ::LuigiHann::{ user=1079 } dan ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } pada tahun 2011.
 
 Tautan unduhan:
 
@@ -33,7 +33,7 @@ Daftar beatmap:
 
 ### Volume 2
 
-Paket beatmap ini diperkenalkan oleh ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) dan ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
+Paket beatmap ini diperkenalkan oleh ::{ flag=US }:: ::LuigiHann::{ user=1079 } dan ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } pada tahun 2011.
 
 Tautan unduhan:
 
@@ -58,7 +58,7 @@ Daftar beatmap:
 
 ### Volume 3
 
-Paket beatmap ini diperkenalkan oleh ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) dan ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
+Paket beatmap ini diperkenalkan oleh ::{ flag=DE }:: ::Larto::{ user=12328 } dan ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } pada tahun 2011.
 
 Tautan unduhan:
 
@@ -83,7 +83,7 @@ Daftar beatmap:
 
 ### Volume 4
 
-Paket beatmap ini diperkenalkan oleh ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
+Paket beatmap ini diperkenalkan oleh ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } pada tahun 2011.
 
 Tautan unduhan:
 
@@ -110,7 +110,7 @@ Daftar beatmap:
 
 ### Volume 1
 
-Paket beatmap ini diperkenalkan oleh ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) dan ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
+Paket beatmap ini diperkenalkan oleh ::{ flag=US }:: ::LuigiHann::{ user=1079 } dan ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } pada tahun 2011.
 
 Tautan unduhan:
 
@@ -135,7 +135,7 @@ Daftar beatmap:
 
 ### Volume 2
 
-Paket beatmap ini diperkenalkan oleh ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) dan ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
+Paket beatmap ini diperkenalkan oleh ::{ flag=DE }:: ::Larto::{ user=12328 } dan ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } pada tahun 2011.
 
 Tautan unduhan:
 
@@ -160,7 +160,7 @@ Daftar beatmap:
 
 ### Volume 3
 
-Paket beatmap ini diperkenalkan oleh ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) dan ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
+Paket beatmap ini diperkenalkan oleh ::{ flag=DE }:: ::Larto::{ user=12328 } dan ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } pada tahun 2011.
 
 Tautan unduhan:
 
@@ -185,7 +185,7 @@ Daftar beatmap:
 
 ### Volume 4
 
-Paket beatmap ini diperkenalkan oleh ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
+Paket beatmap ini diperkenalkan oleh ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } pada tahun 2011.
 
 Tautan unduhan:
 
@@ -212,7 +212,7 @@ Daftar beatmap:
 
 ### Volume 1
 
-Paket beatmap ini diperkenalkan oleh ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) dan ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
+Paket beatmap ini diperkenalkan oleh ::{ flag=US }:: ::LuigiHann::{ user=1079 } dan ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } pada tahun 2011.
 
 Tautan unduhan:
 
@@ -237,7 +237,7 @@ Daftar beatmap:
 
 ### Volume 2
 
-Paket beatmap ini diperkenalkan oleh ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) dan ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
+Paket beatmap ini diperkenalkan oleh ::{ flag=DE }:: ::Larto::{ user=12328 } dan ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } pada tahun 2011.
 
 Tautan unduhan:
 
@@ -262,7 +262,7 @@ Daftar beatmap:
 
 ### Volume 3
 
-Paket beatmap ini diperkenalkan oleh ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) dan ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
+Paket beatmap ini diperkenalkan oleh ::{ flag=DE }:: ::Larto::{ user=12328 } dan ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } pada tahun 2011.
 
 Tautan unduhan:
 
@@ -287,7 +287,7 @@ Daftar beatmap:
 
 ### Volume 4
 
-Paket beatmap ini diperkenalkan oleh ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
+Paket beatmap ini diperkenalkan oleh ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } pada tahun 2011.
 
 Tautan unduhan:
 
@@ -314,7 +314,7 @@ Daftar beatmap:
 
 ### Volume 1
 
-Paket beatmap ini diperkenalkan oleh ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) dan ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
+Paket beatmap ini diperkenalkan oleh ::{ flag=US }:: ::LuigiHann::{ user=1079 } dan ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } pada tahun 2011.
 
 Tautan unduhan:
 
@@ -339,7 +339,7 @@ Daftar beatmap:
 
 ### Volume 2
 
-Paket beatmap ini diperkenalkan oleh ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) dan ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
+Paket beatmap ini diperkenalkan oleh ::{ flag=US }:: ::LuigiHann::{ user=1079 } dan ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } pada tahun 2011.
 
 Tautan unduhan:
 
@@ -364,7 +364,7 @@ Daftar beatmap:
 
 ### Volume 3
 
-Paket beatmap ini diperkenalkan oleh ::{ flag=US }:: [Seibei4211](https://osu.ppy.sh/users/31537) dan ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
+Paket beatmap ini diperkenalkan oleh ::{ flag=US }:: ::Seibei4211::{ user=31537 } dan ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } pada tahun 2011.
 
 Tautan unduhan:
 
@@ -389,7 +389,7 @@ Daftar beatmap:
 
 ### Volume 4
 
-Paket beatmap ini diperkenalkan oleh ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) pada tahun 2011.
+Paket beatmap ini diperkenalkan oleh ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } pada tahun 2011.
 
 Tautan unduhan:
 

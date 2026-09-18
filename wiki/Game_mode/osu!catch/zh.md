@@ -116,5 +116,5 @@ osu!catch 有三种难度参数，每种参数都对游玩过程有不同影响�
 ![特殊模式中的 osu!catch logo](/wiki/shared/Ctb_logo.jpg "特殊模式中的 Catch the Beat logo")
 
 - 在 2012 年 4 月 10 日前，osu!catch 谱面无法上架，也无法被纳入排行谱面中。然而现在已经变了，谱师可以制作 osu!catch 特定难度并使其上架，只要合乎[上架标准](/wiki/Ranking_criteria/osu!catch)即可。
-- 第一张至少含有一个 osu!catch 难度的上架谱面是 [Yousei Teikoku - Dare so Ka no Gekka (TV Size)](https://osu.ppy.sh/beatmapsets/13676)，谱面主是 ::{ flag=CN }:: [NatsumeRin](https://osu.ppy.sh/users/151679)，osu!catch 客串难度作者是 ::{ flag=CN }:: [Uran](https://osu.ppy.sh/users/133302)。
-- 第一张上架的 osu!catch 专谱是 [Rita - Hajimari no Toki](https://osu.ppy.sh/beatmapsets/91485)，谱师是 ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565)。
+- 第一张至少含有一个 osu!catch 难度的上架谱面是 [Yousei Teikoku - Dare so Ka no Gekka (TV Size)](https://osu.ppy.sh/beatmapsets/13676)，谱面主是 ::{ flag=CN }:: ::NatsumeRin::{ user=151679 }，osu!catch 客串难度作者是 ::{ flag=CN }:: ::Uran::{ user=133302 }。
+- 第一张上架的 osu!catch 专谱是 [Rita - Hajimari no Toki](https://osu.ppy.sh/beatmapsets/91485)，谱师是 ::{ flag=ES }:: ::Deif::{ user=318565 }。

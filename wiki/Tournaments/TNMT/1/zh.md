@@ -21,7 +21,7 @@
 
 ## 比赛奖品
 
-本次比赛奖品由 ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329) 赞助。
+本次比赛奖品由 ::{ flag=CN }:: ::hans1999::{ user=6679329 } 赞助。
 
 | 名次 | 奖品 |
 | :-: | :-- |
@@ -33,14 +33,14 @@
 
 | 团队 | 人员 |
 | :-- | :-- |
-| 比赛经理 | ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329), ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095) |
-| 比赛监督 | ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540) |
-| 图池管理 | ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329), ::{ flag=HK }:: [zero2snow](https://osu.ppy.sh/users/7751516), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576), ::{ flag=SG }:: [ByeForNow](https://osu.ppy.sh/users/7199159), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722) |
-| 直播 | ::{ flag=CN }:: [Flow Light](https://osu.ppy.sh/users/6705256), ::{ flag=CN }:: [crazybrother](https://osu.ppy.sh/users/8045083), ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540), ::{ flag=CN }:: [Rasis](https://osu.ppy.sh/users/1209363), ::{ flag=CN }:: [IA daisuki](https://osu.ppy.sh/users/11238501), ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095), ::{ flag=US }:: [-Lethal-](https://osu.ppy.sh/users/5125822), ::{ flag=US }:: [Logan636](https://osu.ppy.sh/users/9423766) |
-| 裁判 | ::{ flag=CN }:: [Flow Light](https://osu.ppy.sh/users/6705256), ::{ flag=HK }:: [zero2snow](https://osu.ppy.sh/users/7751516), ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540), ::{ flag=CN }:: [Rasis](https://osu.ppy.sh/users/1209363), ::{ flag=CN }:: [IA daisuki](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [crazybrother](https://osu.ppy.sh/users/8045083), ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617), ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095), ::{ flag=CH }:: [Icerite](https://osu.ppy.sh/users/7226287), ::{ flag=US }:: [Logan636](https://osu.ppy.sh/users/9423766) |
-| 解说 | ::{ flag=CN }:: [crazybrother](https://osu.ppy.sh/users/8045083), ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329), ::{ flag=CN }:: [NimaPro](https://osu.ppy.sh/users/11524571), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=CN }:: [Rasis](https://osu.ppy.sh/users/1209363), ::{ flag=CN }:: [Snowkyou](https://osu.ppy.sh/users/12513448), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=US }:: [-Lethal-](https://osu.ppy.sh/users/5125822), ::{ flag=NZ }:: [NutAndGo](https://osu.ppy.sh/users/7740118), ::{ flag=US }:: [Logan636](https://osu.ppy.sh/users/9423766) |
-| 视觉设计 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) |
-| Wiki | ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540), ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835), ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| 比赛经理 | ::{ flag=CN }:: ::hans1999::{ user=6679329 }, ::{ flag=CA }:: ::Sinaeb::{ user=1576095 } |
+| 比赛监督 | ::{ flag=SG }:: ::Polytetral::{ user=8612061 }, ::{ flag=CN }:: ::kj415j45::{ user=9367540 } |
+| 图池管理 | ::{ flag=CN }:: ::hans1999::{ user=6679329 }, ::{ flag=HK }:: ::zero2snow::{ user=7751516 }, ::{ flag=SG }:: ::Raveille::{ user=1388767 }, ::{ flag=US }:: ::-mint-::{ user=8976576 }, ::{ flag=SG }:: ::ByeForNow::{ user=7199159 }, ::{ flag=AU }:: ::PotassiumF::{ user=4247722 } |
+| 直播 | ::{ flag=CN }:: ::Flow Light::{ user=6705256 }, ::{ flag=CN }:: ::crazybrother::{ user=8045083 }, ::{ flag=CN }:: ::kj415j45::{ user=9367540 }, ::{ flag=CN }:: ::Rasis::{ user=1209363 }, ::{ flag=CN }:: ::IA daisuki::{ user=11238501 }, ::{ flag=CA }:: ::Sinaeb::{ user=1576095 }, ::{ flag=US }:: ::-Lethal-::{ user=5125822 }, ::{ flag=US }:: ::Logan636::{ user=9423766 } |
+| 裁判 | ::{ flag=CN }:: ::Flow Light::{ user=6705256 }, ::{ flag=HK }:: ::zero2snow::{ user=7751516 }, ::{ flag=CN }:: ::kj415j45::{ user=9367540 }, ::{ flag=CN }:: ::Rasis::{ user=1209363 }, ::{ flag=CN }:: ::IA daisuki::{ user=11238501 }, ::{ flag=CN }:: ::crazybrother::{ user=8045083 }, ::{ flag=CN }:: ::aiyulu::{ user=189617 }, ::{ flag=CA }:: ::Sinaeb::{ user=1576095 }, ::{ flag=CH }:: ::Icerite::{ user=7226287 }, ::{ flag=US }:: ::Logan636::{ user=9423766 } |
+| 解说 | ::{ flag=CN }:: ::crazybrother::{ user=8045083 }, ::{ flag=CN }:: ::hans1999::{ user=6679329 }, ::{ flag=CN }:: ::NimaPro::{ user=11524571 }, ::{ flag=SG }:: ::Polytetral::{ user=8612061 }, ::{ flag=CN }:: ::Rasis::{ user=1209363 }, ::{ flag=CN }:: ::Snowkyou::{ user=12513448 }, ::{ flag=AU }:: ::PotassiumF::{ user=4247722 }, ::{ flag=US }:: ::-Lethal-::{ user=5125822 }, ::{ flag=NZ }:: ::NutAndGo::{ user=7740118 }, ::{ flag=US }:: ::Logan636::{ user=9423766 } |
+| 视觉设计 | ::{ flag=HK }:: ::Chaoslitz::{ user=3621552 } |
+| Wiki | ::{ flag=CN }:: ::kj415j45::{ user=9367540 }, ::{ flag=US }:: ::Joehu::{ user=8549835 }, ::{ flag=ID }:: ::fajar13k::{ user=7100002 } |
 
 ## 链接
 

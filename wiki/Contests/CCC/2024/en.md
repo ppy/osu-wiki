@@ -34,11 +34,11 @@ The **Chinese Charting Contest 2024** (***CCC2024***) was an osu!mania mapping c
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229) |
-| Manager | ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229), ::{ flag=CN }:: [mafumafu](https://osu.ppy.sh/users/3076909) |
-| Designer | ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799) |
-| Judge | ::{ flag=MY }:: [_Kobii](https://osu.ppy.sh/users/6209713), ::{ flag=SG }:: [Evening](https://osu.ppy.sh/users/2193881), ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785), ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |
-| Statistician | ::{ flag=CN }:: [[Crz]Alleyne](https://osu.ppy.sh/users/11279273) |
+| Organiser | ::{ flag=CN }:: ::_Stan::{ user=1653229 } |
+| Manager | ::{ flag=CN }:: ::_Stan::{ user=1653229 }, ::{ flag=CN }:: ::mafumafu::{ user=3076909 } |
+| Designer | ::{ flag=CN }:: ::AlexDunk::{ user=9194799 } |
+| Judge | ::{ flag=MY }:: ::_Kobii::{ user=6209713 }, ::{ flag=SG }:: ::Evening::{ user=2193881 }, ::{ flag=CN }:: ::gzdongsheng::{ user=8660315 }, ::{ flag=ID }:: ::Maxus::{ user=4335785 }, ::{ flag=US }:: ::Unpredictable::{ user=7560872 } |
+| Statistician | ::{ flag=CN }:: ::[Crz]Alleyne::{ user=11279273 } |
 
 ## Links
 
@@ -62,10 +62,10 @@ The **Chinese Charting Contest 2024** (***CCC2024***) was an osu!mania mapping c
 
 | Place | Mapper(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") Winner | ::{ flag=CN }:: [BKwind](https://osu.ppy.sh/users/8900975) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") 2nd place | ::{ flag=CN }:: [\_Yiiiii](https://osu.ppy.sh/users/6066359) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") 3rd place | ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904) |
-| Participation Award (4th-7th) | ::{ flag=CN }:: [Boomushroom](https://osu.ppy.sh/users/10588550), ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534), ::{ flag=RU }:: [FlappiBakuse](https://osu.ppy.sh/users/11724295), ::{ flag=CN }:: [wIntEr7z](https://osu.ppy.sh/users/16509588) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") Winner | ::{ flag=CN }:: ::BKwind::{ user=8900975 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") 2nd place | ::{ flag=CN }:: ::\_Yiiiii::{ user=6066359 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") 3rd place | ::{ flag=CN }:: ::tyrcs::{ user=13026904 } |
+| Participation Award (4th-7th) | ::{ flag=CN }:: ::Boomushroom::{ user=10588550 }, ::{ flag=CN }:: ::Seiran-::{ user=14351534 }, ::{ flag=RU }:: ::FlappiBakuse::{ user=11724295 }, ::{ flag=CN }:: ::wIntEr7z::{ user=16509588 } |
 
 ## Ruleset
 

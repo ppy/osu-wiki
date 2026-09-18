@@ -36,18 +36,18 @@
 
 | 队名 | 谱师 | 故事板作者 | 提交作品 |
 | :-- | :-- | :-- | :-- |
-| ? | ::{ flag=RU }:: [kuyusu](https://osu.ppy.sh/users/11758667) | ::{ flag=NL }:: [Apichu](https://osu.ppy.sh/users/14967853) | [谱面链接](https://osu.ppy.sh/beatmapsets/1841847) |
-| absolutno pofig | ::{ flag=RU }:: [Shmiklak](https://osu.ppy.sh/users/5504231), ::{ flag=RU }:: [Shime](https://osu.ppy.sh/users/11558207), ::{ flag=BG }:: [Delette](https://osu.ppy.sh/users/7835664), ::{ flag=RU }:: [piroshki](https://osu.ppy.sh/users/7645522), ::{ flag=UA }:: [PantyDev](https://osu.ppy.sh/users/5420543) | ::{ flag=UA }:: [PantyDev](https://osu.ppy.sh/users/5420543) | [谱面链接](https://osu.ppy.sh/beatmapsets/1841846) |
-| Crazy Thursday | ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834), ::{ flag=CN }:: [yf_bmp](https://osu.ppy.sh/users/1243669), ::{ flag=CN }:: [TtmnZk](https://osu.ppy.sh/users/2495509), ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552), ::{ flag=CN }:: [yf_bmp](https://osu.ppy.sh/users/1243669), ::{ flag=CN }:: [Yumeno Himiko](https://osu.ppy.sh/users/1806962) | [谱面链接](https://osu.ppy.sh/beatmapsets/1841885) |
-| Crush the Candy Boys | ::{ flag=GB }:: [Altai](https://osu.ppy.sh/users/5745865), ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334), ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323), ::{ flag=CA }:: [TheDuckMask](https://osu.ppy.sh/users/7405768) | [谱面链接](https://osu.ppy.sh/beatmapsets/1841845) |
-| dreamers | ::{ flag=GE }:: [RetroSpectors](https://osu.ppy.sh/users/29665779), ::{ flag=SK }:: [DJMakerMusician](https://osu.ppy.sh/users/17416390) | ::{ flag=SK }:: [DJMakerMusician](https://osu.ppy.sh/users/17416390) | 待定链接 |
-| GokuLook Princesa | ::{ flag=ES }:: [Nachmark](https://osu.ppy.sh/users/17584310), ::{ flag=ES }:: [CebollaVladimir](https://osu.ppy.sh/users/15308238), ::{ flag=ES }:: [Jaime Altozano](https://osu.ppy.sh/users/7567228), ::{ flag=ES }:: [Yuri Enjoyer](https://osu.ppy.sh/users/6961543) | ::{ flag=US }:: [binarie](https://osu.ppy.sh/users/15632854) | [谱面链接](https://osu.ppy.sh/beatmapsets/1841839) |
-| Penta-force | ::{ flag=TH }:: [PukPow](https://osu.ppy.sh/users/16407679), ::{ flag=AU }:: [Share](https://osu.ppy.sh/users/14305018), ::{ flag=AU }:: [Coppertine](https://osu.ppy.sh/users/7279762), ::{ flag=UA }:: [Esutarosa](https://osu.ppy.sh/users/12024753) | ::{ flag=AU }:: [Coppertine](https://osu.ppy.sh/users/7279762) | [谱面链接](https://osu.ppy.sh/beatmapsets/1841996) |
-| Team Funny | ::{ flag=PL }:: [M i X](https://osu.ppy.sh/users/7160660), ::{ flag=DE }:: [thexo](https://osu.ppy.sh/users/4887938), ::{ flag=ID }:: [KlaksoncakFish](https://osu.ppy.sh/users/3866821) | ::{ flag=PH }:: [Jiysea](https://osu.ppy.sh/users/7354700) | [谱面链接](https://osu.ppy.sh/beatmapsets/1842149) |
-| TV Sizers | ::{ flag=CL }:: [MystyCute](https://osu.ppy.sh/users/10210657), ::{ flag=IL }:: [TheSword](https://osu.ppy.sh/users/14004374), ::{ flag=CL }:: [Cris-](https://osu.ppy.sh/users/6175280), ::{ flag=CL }:: [kanocchi](https://osu.ppy.sh/users/2321050), ::{ flag=CL }:: [[-Evil-]](https://osu.ppy.sh/users/10234313) | ::{ flag=IL }:: [TheSword](https://osu.ppy.sh/users/14004374) | [谱面链接](https://osu.ppy.sh/beatmapsets/1841923) |
-| ULTRA ICE TEA | ::{ flag=GB }:: [-jordan-](https://osu.ppy.sh/users/7288862), ::{ flag=IE }:: [hytaa](https://osu.ppy.sh/users/17190075), ::{ flag=JP }:: [too](https://osu.ppy.sh/users/12196931), ::{ flag=DE }:: [Celektus](https://osu.ppy.sh/users/4294993) | ::{ flag=HU }:: [Himada](https://osu.ppy.sh/users/10959366) | [谱面链接](https://osu.ppy.sh/beatmapsets/1841926) |
-| Δ = b² – 4ac | ::{ flag=BR }:: [Kalindraz](https://osu.ppy.sh/users/2313166), ::{ flag=BR }:: [NEURONIO](https://osu.ppy.sh/users/7198334), ::{ flag=BR }:: [Sakura Airi](https://osu.ppy.sh/users/8682057), ::{ flag=BR }:: [Maot](https://osu.ppy.sh/users/3914271) | ::{ flag=BR }:: [K4L1](https://osu.ppy.sh/users/11334594), ::{ flag=BR }:: [Maot](https://osu.ppy.sh/users/3914271) | [谱面链接](https://osu.ppy.sh/beatmapsets/1842004) |
-| 三角形.tar.gz | ::{ flag=NO }:: [Fisky](https://osu.ppy.sh/users/8352623), ::{ flag=ID }:: [ScubDomino](https://osu.ppy.sh/users/8972308), ::{ flag=CN }:: [fanzhen0019](https://osu.ppy.sh/users/418699) | ::{ flag=RU }:: [Tommy Phelps](https://osu.ppy.sh/users/10974581), ::{ flag=DZ }:: [VenerableNyanta](https://osu.ppy.sh/users/12243368) | [谱面链接](https://osu.ppy.sh/beatmapsets/1842041) |
+| ? | ::{ flag=RU }:: ::kuyusu::{ user=11758667 } | ::{ flag=NL }:: ::Apichu::{ user=14967853 } | [谱面链接](https://osu.ppy.sh/beatmapsets/1841847) |
+| absolutno pofig | ::{ flag=RU }:: ::Shmiklak::{ user=5504231 }, ::{ flag=RU }:: ::Shime::{ user=11558207 }, ::{ flag=BG }:: ::Delette::{ user=7835664 }, ::{ flag=RU }:: ::piroshki::{ user=7645522 }, ::{ flag=UA }:: ::PantyDev::{ user=5420543 } | ::{ flag=UA }:: ::PantyDev::{ user=5420543 } | [谱面链接](https://osu.ppy.sh/beatmapsets/1841846) |
+| Crazy Thursday | ::{ flag=CN }:: ::Yugu::{ user=3161834 }, ::{ flag=CN }:: ::yf_bmp::{ user=1243669 }, ::{ flag=CN }:: ::TtmnZk::{ user=2495509 }, ::{ flag=HK }:: ::Chaoslitz::{ user=3621552 } | ::{ flag=HK }:: ::Chaoslitz::{ user=3621552 }, ::{ flag=CN }:: ::yf_bmp::{ user=1243669 }, ::{ flag=CN }:: ::Yumeno Himiko::{ user=1806962 } | [谱面链接](https://osu.ppy.sh/beatmapsets/1841885) |
+| Crush the Candy Boys | ::{ flag=GB }:: ::Altai::{ user=5745865 }, ::{ flag=GB }:: ::DeviousPanda::{ user=4966334 }, ::{ flag=DE }:: ::Mao::{ user=2204515 } | ::{ flag=US }:: ::Noffy::{ user=1541323 }, ::{ flag=CA }:: ::TheDuckMask::{ user=7405768 } | [谱面链接](https://osu.ppy.sh/beatmapsets/1841845) |
+| dreamers | ::{ flag=GE }:: ::RetroSpectors::{ user=29665779 }, ::{ flag=SK }:: ::DJMakerMusician::{ user=17416390 } | ::{ flag=SK }:: ::DJMakerMusician::{ user=17416390 } | 待定链接 |
+| GokuLook Princesa | ::{ flag=ES }:: ::Nachmark::{ user=17584310 }, ::{ flag=ES }:: ::CebollaVladimir::{ user=15308238 }, ::{ flag=ES }:: ::Jaime Altozano::{ user=7567228 }, ::{ flag=ES }:: ::Yuri Enjoyer::{ user=6961543 } | ::{ flag=US }:: ::binarie::{ user=15632854 } | [谱面链接](https://osu.ppy.sh/beatmapsets/1841839) |
+| Penta-force | ::{ flag=TH }:: ::PukPow::{ user=16407679 }, ::{ flag=AU }:: ::Share::{ user=14305018 }, ::{ flag=AU }:: ::Coppertine::{ user=7279762 }, ::{ flag=UA }:: ::Esutarosa::{ user=12024753 } | ::{ flag=AU }:: ::Coppertine::{ user=7279762 } | [谱面链接](https://osu.ppy.sh/beatmapsets/1841996) |
+| Team Funny | ::{ flag=PL }:: ::M i X::{ user=7160660 }, ::{ flag=DE }:: ::thexo::{ user=4887938 }, ::{ flag=ID }:: ::KlaksoncakFish::{ user=3866821 } | ::{ flag=PH }:: ::Jiysea::{ user=7354700 } | [谱面链接](https://osu.ppy.sh/beatmapsets/1842149) |
+| TV Sizers | ::{ flag=CL }:: ::MystyCute::{ user=10210657 }, ::{ flag=IL }:: ::TheSword::{ user=14004374 }, ::{ flag=CL }:: ::Cris-::{ user=6175280 }, ::{ flag=CL }:: ::kanocchi::{ user=2321050 }, ::{ flag=CL }:: ::[-Evil-]::{ user=10234313 } | ::{ flag=IL }:: ::TheSword::{ user=14004374 } | [谱面链接](https://osu.ppy.sh/beatmapsets/1841923) |
+| ULTRA ICE TEA | ::{ flag=GB }:: ::-jordan-::{ user=7288862 }, ::{ flag=IE }:: ::hytaa::{ user=17190075 }, ::{ flag=JP }:: ::too::{ user=12196931 }, ::{ flag=DE }:: ::Celektus::{ user=4294993 } | ::{ flag=HU }:: ::Himada::{ user=10959366 } | [谱面链接](https://osu.ppy.sh/beatmapsets/1841926) |
+| Δ = b² – 4ac | ::{ flag=BR }:: ::Kalindraz::{ user=2313166 }, ::{ flag=BR }:: ::NEURONIO::{ user=7198334 }, ::{ flag=BR }:: ::Sakura Airi::{ user=8682057 }, ::{ flag=BR }:: ::Maot::{ user=3914271 } | ::{ flag=BR }:: ::K4L1::{ user=11334594 }, ::{ flag=BR }:: ::Maot::{ user=3914271 } | [谱面链接](https://osu.ppy.sh/beatmapsets/1842004) |
+| 三角形.tar.gz | ::{ flag=NO }:: ::Fisky::{ user=8352623 }, ::{ flag=ID }:: ::ScubDomino::{ user=8972308 }, ::{ flag=CN }:: ::fanzhen0019::{ user=418699 } | ::{ flag=RU }:: ::Tommy Phelps::{ user=10974581 }, ::{ flag=DZ }:: ::VenerableNyanta::{ user=12243368 } | [谱面链接](https://osu.ppy.sh/beatmapsets/1842041) |
 
 ## 结果
 
@@ -88,15 +88,15 @@
   - **参与者：** 3 个月的 osu! 支持者
   - **冠军：**  6 个月的 osu! 支持者 + *谱师之选*主页奖牌
 - 谱师组成员：
-  - ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163)
-  - ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549)
-  - ::{ flag=CN }:: [Elayue](https://osu.ppy.sh/users/6400861)
-  - ::{ flag=US }:: [IOException](https://osu.ppy.sh/users/2688103)
-  - ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909)
-  - ::{ flag=BR }:: [Mismagius](https://osu.ppy.sh/users/19048)
-  - ::{ flag=CA }:: [Monstrata](https://osu.ppy.sh/users/2706438)
-  - ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805)
-  - ::{ flag=GB }:: [Shii](https://osu.ppy.sh/users/9186316)
+  - ::{ flag=GB }:: ::-Mo-::{ user=2202163 }
+  - ::{ flag=GB }:: ::Apo11o::{ user=9558549 }
+  - ::{ flag=CN }:: ::Elayue::{ user=6400861 }
+  - ::{ flag=US }:: ::IOException::{ user=2688103 }
+  - ::{ flag=CN }:: ::Mafumafu::{ user=3076909 }
+  - ::{ flag=BR }:: ::Mismagius::{ user=19048 }
+  - ::{ flag=CA }:: ::Monstrata::{ user=2706438 }
+  - ::{ flag=ID }:: ::Niva::{ user=197805 }
+  - ::{ flag=GB }:: ::Shii::{ user=9186316 }
 
 ![谱师之选主页奖牌](/wiki/shared/news/2022-05-26-triangles/mappers@2x.png)
 
@@ -107,14 +107,14 @@
   - **参与者：** 3 个月的 osu! 支持者
   - **冠军：**  6 个月的 osu! 支持者 + *故事板作者之选*主页奖牌
 - 故事板作者组成员：
-  - ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163)
-  - ::{ flag=DK }:: [-Tochi](https://osu.ppy.sh/users/3664366)
-  - ::{ flag=CA }:: [Enkrypton](https://osu.ppy.sh/users/5178122)
-  - ::{ flag=VN }:: [Hokichi](https://osu.ppy.sh/users/6607303)
-  - ::{ flag=CN }:: [Kuse](https://osu.ppy.sh/users/6984103)
-  - ::{ flag=PL }:: [Moko](https://osu.ppy.sh/users/6488658)
-  - ::{ flag=TH }:: [ohm002](https://osu.ppy.sh/users/4468239)
-  - ::{ flag=US }:: [Storyboarder](https://osu.ppy.sh/users/6124671)
+  - ::{ flag=GB }:: ::-Mo-::{ user=2202163 }
+  - ::{ flag=DK }:: ::-Tochi::{ user=3664366 }
+  - ::{ flag=CA }:: ::Enkrypton::{ user=5178122 }
+  - ::{ flag=VN }:: ::Hokichi::{ user=6607303 }
+  - ::{ flag=CN }:: ::Kuse::{ user=6984103 }
+  - ::{ flag=PL }:: ::Moko::{ user=6488658 }
+  - ::{ flag=TH }:: ::ohm002::{ user=4468239 }
+  - ::{ flag=US }:: ::Storyboarder::{ user=6124671 }
 
 ![故事板作者之选主页奖牌](/wiki/shared/news/2022-05-26-triangles/storyboarders@2x.png)
 

@@ -10,7 +10,7 @@ tags:
 
 ![YHC S2 横幅](img/banner.jpg)
 
-**第二届幽幽杯** (***YHC S2***) 是基于 osu! 主模式，娱乐为主的多人 (3v3) 打图游玩锦标赛，主办是 ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030)。这是该系列赛的第二届比赛。
+**第二届幽幽杯** (***YHC S2***) 是基于 osu! 主模式，娱乐为主的多人 (3v3) 打图游玩锦标赛，主办是 ::{ flag=CN }:: ::SIyuyuko::{ user=9794030 }。这是该系列赛的第二届比赛。
 
 ## 时间安排
 
@@ -37,15 +37,15 @@ tags:
 
 | 职责 | 成员 |
 | :-- | :-- |
-| 主办 | ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030) |
-| 选图 | ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
-| 试图 | ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
-| 提供回放 | ::{ flag=CN }:: [Hakumo Shiro](https://osu.ppy.sh/users/5179557), ::{ flag=CN }:: [Hakumo Ai](https://osu.ppy.sh/users/694480), ::{ flag=CN }:: [VialVistas](https://osu.ppy.sh/users/9697708), ::{ flag=CN }:: [Crystal](https://osu.ppy.sh/users/1646397), ::{ flag=CN }:: [Sayori\_yui](https://osu.ppy.sh/users/7183040), ::{ flag=CN }:: [Senbe1](https://osu.ppy.sh/users/6911753), ::{ flag=CN }:: [carrywind](https://osu.ppy.sh/users/12228018) |
-| 直播 | ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
-| 解说 | ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
-| 设计 | ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
-| 裁判 | ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
-| 统计 | ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
+| 主办 | ::{ flag=CN }:: ::SIyuyuko::{ user=9794030 } |
+| 选图 | ::{ flag=CN }:: ::SIyuyuko::{ user=9794030 }, ::{ flag=CN }:: ::Muziyami::{ user=7003013 } |
+| 试图 | ::{ flag=CN }:: ::SIyuyuko::{ user=9794030 }, ::{ flag=CN }:: ::Muziyami::{ user=7003013 } |
+| 提供回放 | ::{ flag=CN }:: ::Hakumo Shiro::{ user=5179557 }, ::{ flag=CN }:: ::Hakumo Ai::{ user=694480 }, ::{ flag=CN }:: ::VialVistas::{ user=9697708 }, ::{ flag=CN }:: ::Crystal::{ user=1646397 }, ::{ flag=CN }:: ::Sayori\_yui::{ user=7183040 }, ::{ flag=CN }:: ::Senbe1::{ user=6911753 }, ::{ flag=CN }:: ::carrywind::{ user=12228018 } |
+| 直播 | ::{ flag=CN }:: ::SIyuyuko::{ user=9794030 }, ::{ flag=CN }:: ::Muziyami::{ user=7003013 } |
+| 解说 | ::{ flag=CN }:: ::SIyuyuko::{ user=9794030 }, ::{ flag=CN }:: ::Muziyami::{ user=7003013 } |
+| 设计 | ::{ flag=CN }:: ::Muziyami::{ user=7003013 } |
+| 裁判 | ::{ flag=CN }:: ::SIyuyuko::{ user=9794030 }, ::{ flag=CN }:: ::Muziyami::{ user=7003013 } |
+| 统计 | ::{ flag=CN }:: ::Muziyami::{ user=7003013 } |
 
 ## 链接
 
@@ -58,12 +58,12 @@ tags:
 
 | 队伍代号 | 队名 | 成员 |
 | :-: | :-: | :-- |
-| **A** | **老年娱乐** | [**Spell**](https://osu.ppy.sh/users/13003552), [\_Yukinoshita](https://osu.ppy.sh/users/15343685), [HUYI520](https://osu.ppy.sh/users/15337997), [mike233333](https://osu.ppy.sh/users/15436106), [lizhanyiawa](https://osu.ppy.sh/users/13928307) |
-| **B** | **无所谓 帕老师会出手** | [**QianLi1611**](https://osu.ppy.sh/users/30367809), [The Origin](https://osu.ppy.sh/users/10225377), [USAIKO](https://osu.ppy.sh/users/30018494), [AliceMana](https://osu.ppy.sh/users/11531025), [LimeSeptum](https://osu.ppy.sh/users/13256419) |
-| **C** | **已经结束啦** | [**Ayaaaachi**](https://osu.ppy.sh/users/16022736), [innnnovation](https://osu.ppy.sh/users/18443135), [dawnstar](https://osu.ppy.sh/users/17426219), [eric1388](https://osu.ppy.sh/users/20384257), [Lzq12345](https://osu.ppy.sh/users/15012640) |
-| **D** | **懒人三项** | [**RoyMaster**](https://osu.ppy.sh/users/28365836), [Sakura Luna](https://osu.ppy.sh/users/1608105), [cirnosaikyo](https://osu.ppy.sh/users/19971407), [small_pineapple](https://osu.ppy.sh/users/20989945), [\_Eilphy](https://osu.ppy.sh/users/15175276) |
-| **E** | **主播教我HD刷170** | [**Neutron torpedo**](https://osu.ppy.sh/users/24657559), [SugersakiE](https://osu.ppy.sh/users/15091523), [Kevin0036](https://osu.ppy.sh/users/24004891), [qimengxunkong](https://osu.ppy.sh/users/16849347), [dongguadongde](https://osu.ppy.sh/users/28494479) |
-| **F** | **东雪莲后援会** | [**Kieost**](https://osu.ppy.sh/users/17823832), [-XiAoyu](https://osu.ppy.sh/users/19061410), [Yin0508](https://osu.ppy.sh/users/15730382), [Zxian](https://osu.ppy.sh/users/20672564), [YuKiRoKi](https://osu.ppy.sh/users/16668536) |
+| **A** | **老年娱乐** | ::**Spell**::{ user=13003552 }, ::\_Yukinoshita::{ user=15343685 }, ::HUYI520::{ user=15337997 }, ::mike233333::{ user=15436106 }, ::lizhanyiawa::{ user=13928307 } |
+| **B** | **无所谓 帕老师会出手** | ::**QianLi1611**::{ user=30367809 }, ::The Origin::{ user=10225377 }, ::USAIKO::{ user=30018494 }, ::AliceMana::{ user=11531025 }, ::LimeSeptum::{ user=13256419 } |
+| **C** | **已经结束啦** | ::**Ayaaaachi**::{ user=16022736 }, ::innnnovation::{ user=18443135 }, ::dawnstar::{ user=17426219 }, ::eric1388::{ user=20384257 }, ::Lzq12345::{ user=15012640 } |
+| **D** | **懒人三项** | ::**RoyMaster**::{ user=28365836 }, ::Sakura Luna::{ user=1608105 }, ::cirnosaikyo::{ user=19971407 }, ::small_pineapple::{ user=20989945 }, ::\_Eilphy::{ user=15175276 } |
+| **E** | **主播教我HD刷170** | ::**Neutron torpedo**::{ user=24657559 }, ::SugersakiE::{ user=15091523 }, ::Kevin0036::{ user=24004891 }, ::qimengxunkong::{ user=16849347 }, ::dongguadongde::{ user=28494479 } |
+| **F** | **东雪莲后援会** | ::**Kieost**::{ user=17823832 }, ::-XiAoyu::{ user=19061410 }, ::Yin0508::{ user=15730382 }, ::Zxian::{ user=20672564 }, ::YuKiRoKi::{ user=16668536 } |
 
 ## 分组
 

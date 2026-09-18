@@ -8,7 +8,7 @@ tags:
 
 ![RDOC 2014 logo](img/logo.png)
 
-The **Royal Danish osu!Cup 2014** (***RDOC 2014***) was a Danish 1v1 double-elimination osu! tournament hosted by ::{ flag=DK }:: [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273). It was the first instalment of the Royal Danish osu!Cup.
+The **Royal Danish osu!Cup 2014** (***RDOC 2014***) was a Danish 1v1 double-elimination osu! tournament hosted by ::{ flag=DK }:: ::Mayoi Hachikuji::{ user=2114273 }. It was the first instalment of the Royal Danish osu!Cup.
 
 ## Tournament schedule
 
@@ -33,12 +33,12 @@ The Royal Danish osu!Cup 2014 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=DK }:: [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273) |
-| Mappool selector | ::{ flag=DK }:: [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273), ::{ flag=DK }:: [Heibel](https://osu.ppy.sh/users/983000) |
-| Referee | ::{ flag=DK }:: [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273), ::{ flag=DK }:: [Heibel](https://osu.ppy.sh/users/983000) |
-| Other helpers | ::{ flag=DK }:: [Vocalover](https://osu.ppy.sh/users/2281840), ::{ flag=SE }:: [Kotayo](https://osu.ppy.sh/users/1730025), ::{ flag=DK }:: [PlasticSmoothie](https://osu.ppy.sh/users/296565) |
-| Designer | ::{ flag=DK }:: [Nickyeh](https://osu.ppy.sh/users/2314944) |
-| Donator | ::{ flag=DK }:: [Gupply](https://osu.ppy.sh/users/2983311), ::{ flag=DK }:: [TimG](https://osu.ppy.sh/users/1879963) |
+| Manager | ::{ flag=DK }:: ::Mayoi Hachikuji::{ user=2114273 } |
+| Mappool selector | ::{ flag=DK }:: ::Mayoi Hachikuji::{ user=2114273 }, ::{ flag=DK }:: ::Heibel::{ user=983000 } |
+| Referee | ::{ flag=DK }:: ::Mayoi Hachikuji::{ user=2114273 }, ::{ flag=DK }:: ::Heibel::{ user=983000 } |
+| Other helpers | ::{ flag=DK }:: ::Vocalover::{ user=2281840 }, ::{ flag=SE }:: ::Kotayo::{ user=1730025 }, ::{ flag=DK }:: ::PlasticSmoothie::{ user=296565 } |
+| Designer | ::{ flag=DK }:: ::Nickyeh::{ user=2314944 } |
+| Donator | ::{ flag=DK }:: ::Gupply::{ user=2983311 }, ::{ flag=DK }:: ::TimG::{ user=1879963 } |
 
 ## Links
 
@@ -47,38 +47,38 @@ The Royal Danish osu!Cup 2014 was run by various community members.
 
 ## Participants
 
-- ::{ flag=DK }:: [Gupply](https://osu.ppy.sh/users/2983311)
-- ::{ flag=DK }:: [TimG](https://osu.ppy.sh/users/1879963)
-- ::{ flag=DK }:: [Jobbe](https://osu.ppy.sh/users/2707230)
+- ::{ flag=DK }:: ::Gupply::{ user=2983311 }
+- ::{ flag=DK }:: ::TimG::{ user=1879963 }
+- ::{ flag=DK }:: ::Jobbe::{ user=2707230 }
 - ::{ flag=DK }:: raww
-- ::{ flag=DK }:: [Otaku-kun123](https://osu.ppy.sh/users/3664366)
-- ::{ flag=DK }:: [Tenasow](https://osu.ppy.sh/users/2735417)
-- ::{ flag=DK }:: [Lethly](https://osu.ppy.sh/users/1637208)
-- ::{ flag=DK }:: [Nicklz3107](https://osu.ppy.sh/users/1902855)
-- ::{ flag=DK }:: [winthermens](https://osu.ppy.sh/users/2080544)
-- ::{ flag=DK }:: [Nickyeh](https://osu.ppy.sh/users/2314944)
-- ::{ flag=DK }:: [Kylling](https://osu.ppy.sh/users/2691925)
-- ::{ flag=DK }:: [Amou Kanade](https://osu.ppy.sh/users/3111445)
-- ::{ flag=DK }:: [-Dustbunny-](https://osu.ppy.sh/users/3711672)
-- ::{ flag=DK }:: [Shoujo](https://osu.ppy.sh/users/35608)
-- ::{ flag=DK }:: [Nithirot](https://osu.ppy.sh/users/3053982)
-- ::{ flag=DK }:: [jeross](https://osu.ppy.sh/users/2744290)
-- ::{ flag=DK }:: [arild159](https://osu.ppy.sh/users/3089925)
-- ::{ flag=DK }:: [ZoDiaN1337](https://osu.ppy.sh/users/2256249)
-- ::{ flag=DK }:: [powerupgm](https://osu.ppy.sh/users/2954652)
-- ::{ flag=DK }:: [Deaxz](https://osu.ppy.sh/users/2742880)
-- ::{ flag=DK }:: [karrusel](https://osu.ppy.sh/users/2429098)
-- ::{ flag=DK }:: [Broniel](https://osu.ppy.sh/users/3175330)
-- ::{ flag=DK }:: [Tropians](https://osu.ppy.sh/users/2536611)
-- ::{ flag=DK }:: [Maltahl](https://osu.ppy.sh/users/2369766)
+- ::{ flag=DK }:: ::Otaku-kun123::{ user=3664366 }
+- ::{ flag=DK }:: ::Tenasow::{ user=2735417 }
+- ::{ flag=DK }:: ::Lethly::{ user=1637208 }
+- ::{ flag=DK }:: ::Nicklz3107::{ user=1902855 }
+- ::{ flag=DK }:: ::winthermens::{ user=2080544 }
+- ::{ flag=DK }:: ::Nickyeh::{ user=2314944 }
+- ::{ flag=DK }:: ::Kylling::{ user=2691925 }
+- ::{ flag=DK }:: ::Amou Kanade::{ user=3111445 }
+- ::{ flag=DK }:: ::-Dustbunny-::{ user=3711672 }
+- ::{ flag=DK }:: ::Shoujo::{ user=35608 }
+- ::{ flag=DK }:: ::Nithirot::{ user=3053982 }
+- ::{ flag=DK }:: ::jeross::{ user=2744290 }
+- ::{ flag=DK }:: ::arild159::{ user=3089925 }
+- ::{ flag=DK }:: ::ZoDiaN1337::{ user=2256249 }
+- ::{ flag=DK }:: ::powerupgm::{ user=2954652 }
+- ::{ flag=DK }:: ::Deaxz::{ user=2742880 }
+- ::{ flag=DK }:: ::karrusel::{ user=2429098 }
+- ::{ flag=DK }:: ::Broniel::{ user=3175330 }
+- ::{ flag=DK }:: ::Tropians::{ user=2536611 }
+- ::{ flag=DK }:: ::Maltahl::{ user=2369766 }
 - ::{ flag=DK }:: Shiryuu
-- ::{ flag=DK }:: [Tonarinototoro](https://osu.ppy.sh/users/2678812)
-- ::{ flag=DK }:: [Mr Proncoz](https://osu.ppy.sh/users/2491276)
-- ::{ flag=DK }:: [nitram166](https://osu.ppy.sh/users/2552515)
-- ::{ flag=DK }:: [Ximadi](https://osu.ppy.sh/users/2700938)
-- ::{ flag=DK }:: [PlasticSmoothie](https://osu.ppy.sh/users/296565)
-- ::{ flag=DK }:: [Kazutakee](https://osu.ppy.sh/users/2637514)
-- ::{ flag=DK }:: [Kozhler](https://osu.ppy.sh/users/2245929)
+- ::{ flag=DK }:: ::Tonarinototoro::{ user=2678812 }
+- ::{ flag=DK }:: ::Mr Proncoz::{ user=2491276 }
+- ::{ flag=DK }:: ::nitram166::{ user=2552515 }
+- ::{ flag=DK }:: ::Ximadi::{ user=2700938 }
+- ::{ flag=DK }:: ::PlasticSmoothie::{ user=296565 }
+- ::{ flag=DK }:: ::Kazutakee::{ user=2637514 }
+- ::{ flag=DK }:: ::Kozhler::{ user=2245929 }
 
 ## Podium
 
@@ -86,11 +86,11 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=DK }:: [TimG](https://osu.ppy.sh/users/1879963) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=DK }:: [Tropians](https://osu.ppy.sh/users/2536611) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=DK }:: [Broniel](https://osu.ppy.sh/users/3175330) |
-| *4th place* | ::{ flag=DK }:: [PlasticSmoothie](https://osu.ppy.sh/users/296565) |
-| *5-6th place* | ::{ flag=DK }:: [Gupply](https://osu.ppy.sh/users/2983311), ::{ flag=DK }:: [Tonarinototoro](https://osu.ppy.sh/users/2678812) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=DK }:: ::TimG::{ user=1879963 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=DK }:: ::Tropians::{ user=2536611 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=DK }:: ::Broniel::{ user=3175330 } |
+| *4th place* | ::{ flag=DK }:: ::PlasticSmoothie::{ user=296565 } |
+| *5-6th place* | ::{ flag=DK }:: ::Gupply::{ user=2983311 }, ::{ flag=DK }:: ::Tonarinototoro::{ user=2678812 } |
 
 ## Mappools
 

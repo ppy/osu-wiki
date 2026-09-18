@@ -18,44 +18,44 @@ W tym artykule przedstawiono ważne wydarzenia w **historii osu! wiki**, od czas
 
 #### Grudzień
 
-- **05.12.2011:** Stworzono podstawy osu! wiki. Pierwsze zmiany zostały wprowadzone przez użytkownika ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335).
+- **05.12.2011:** Stworzono podstawy osu! wiki. Pierwsze zmiany zostały wprowadzone przez użytkownika ::{ flag=AU }:: ::Ephemeral::{ user=102335 }.
 - **06.12.2011:** osu! wiki [zostało upublicznione](https://osu.ppy.sh/community/forums/topics/68525).
 
 ### 2012
 
 #### Listopad
 
-- **29.11.2012** Użytkownicy ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) oraz ::{ flag=RU }:: [Dellirium](https://osu.ppy.sh/users/519032) [zostali dodani](https://osu.ppy.sh/community/forums/posts/1944044) do grona administratorów osu! wiki na MediaWiki.
+- **29.11.2012** Użytkownicy ::{ flag=MX }:: ::Repflez::{ user=201392 } oraz ::{ flag=RU }:: ::Dellirium::{ user=519032 } [zostali dodani](https://osu.ppy.sh/community/forums/posts/1944044) do grona administratorów osu! wiki na MediaWiki.
 
 ### 2013
 
 #### Styczeń
 
-- **27.01.2013:** ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) ujednolicił wygląd osu! wiki z [wyglądem strony osu!](https://osu.ppy.sh/community/forums/posts/2082803).
+- **27.01.2013:** ::{ flag=AU }:: ::peppy::{ user=2 } ujednolicił wygląd osu! wiki z [wyglądem strony osu!](https://osu.ppy.sh/community/forums/posts/2082803).
 
 ### 2014
 
 #### Grudzień
 
 - **Nieznana data:** osu! wiki stało się oficjalnym centrum wiedzy o osu! po przeniesieniu do niej stron takich jak [Zespół](/wiki/People/osu!_team) czy [Zasady](/wiki/Rules).
-- **Nieznana data:** Użytkownicy ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) oraz ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) zostali dodani do grona administratorów osu! wiki na MediaWiki.
+- **Nieznana data:** Użytkownicy ::{ flag=NZ }:: ::deadbeat::{ user=128370 } oraz ::{ flag=DE }:: ::Loctav::{ user=71366 } zostali dodani do grona administratorów osu! wiki na MediaWiki.
 
 ### 2015
 
 #### Grudzień
 
 - **Nieznana data:** osu! wiki zyskało wielu nowych współautorów, którzy wykonali tłumaczenia artykułów na swoje ojczyste języki.
-- **Nieznana data:** Użytkownik ::{ flag=RU }:: [Dellirium](https://osu.ppy.sh/users/519032) zostaje zastąpiony na swoim stanowisku administratora przez ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005).
+- **Nieznana data:** Użytkownik ::{ flag=RU }:: ::Dellirium::{ user=519032 } zostaje zastąpiony na swoim stanowisku administratora przez ::{ flag=FR }:: ::Shiro::{ user=113005 }.
 
 ### 2016
 
 #### Luty
 
-- **22.02.2016:** Użytkownicy ::{ flag=PL }:: [Ukami](https://osu.ppy.sh/users/820865) oraz ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) zostali dodani do grona administratorów osu! wiki na MediaWiki.
+- **22.02.2016:** Użytkownicy ::{ flag=PL }:: ::Ukami::{ user=820865 } oraz ::{ flag=PL }:: ::Galkan::{ user=169570 } zostali dodani do grona administratorów osu! wiki na MediaWiki.
 
 #### Kwiecień
 
-- **01.04.2016:** Użytkownik ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) został dodany do grona administratorów osu! wiki na MediaWiki.
+- **01.04.2016:** Użytkownik ::{ flag=PH }:: ::Nathanael::{ user=2295078 } został dodany do grona administratorów osu! wiki na MediaWiki.
 
 #### Sierpień
 
@@ -75,18 +75,18 @@ W tym artykule przedstawiono ważne wydarzenia w **historii osu! wiki**, od czas
 
 #### Sierpień
 
-- **26.08.2016:** ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) [utworzył repozytorium osu-wiki](https://github.com/ppy/osu-wiki/tree/3433cbeeda9303a470647cad1c338d43f4272a2e).
+- **26.08.2016:** ::{ flag=AU }:: ::peppy::{ user=2 } [utworzył repozytorium osu-wiki](https://github.com/ppy/osu-wiki/tree/3433cbeeda9303a470647cad1c338d43f4272a2e).
 
 #### Wrzesień
 
-- **02.09.2016:** Użytkownicy ::{ flag=US }:: [craftu](https://osu.ppy.sh/users/16468119) oraz ::{ flag=US }:: [XYLOO](https://osu.ppy.sh/users/27809907) ukończyli migrację większości zawartości starej wersji osu! wiki do repozytorium GitHub. Pozostały jedynie obrazy oraz błędy składniowe wynikające z różnic pomiędzy [wikikodem](https://pl.wikipedia.org/wiki/Pomoc:Formatowanie_tekstu) MediaWiki a używanym przez GitHub językiem [Markdown](https://pl.wikipedia.org/wiki/Markdown).
+- **02.09.2016:** Użytkownicy ::{ flag=US }:: ::craftu::{ user=16468119 } oraz ::{ flag=US }:: ::XYLOO::{ user=27809907 } ukończyli migrację większości zawartości starej wersji osu! wiki do repozytorium GitHub. Pozostały jedynie obrazy oraz błędy składniowe wynikające z różnic pomiędzy [wikikodem](https://pl.wikipedia.org/wiki/Pomoc:Formatowanie_tekstu) MediaWiki a używanym przez GitHub językiem [Markdown](https://pl.wikipedia.org/wiki/Markdown).
 
 ### 2017
 
 #### Styczeń
 
-- **26.01.2017:** Użytkownik ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) we [wpisie na blogu poświęconymu rozwojowi gry](https://blog.ppy.sh/post/156390386433/2017-01-dev-meeting) wspomniał o nadchodzącej integracji repozytorium GitHub ze stroną internetową osu!.
-- **Nieznana data:**  Użytkownik ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883) ukończył pracę nad backendem nowej wersji osu! wiki, umożliwiając jej pełną integrację ze stroną internetową osu!.
+- **26.01.2017:** Użytkownik ::{ flag=AU }:: ::Ephemeral::{ user=102335 } we [wpisie na blogu poświęconymu rozwojowi gry](https://blog.ppy.sh/post/156390386433/2017-01-dev-meeting) wspomniał o nadchodzącej integracji repozytorium GitHub ze stroną internetową osu!.
+- **Nieznana data:**  Użytkownik ::{ flag=JP }:: ::nanaya::{ user=2387883 } ukończył pracę nad backendem nowej wersji osu! wiki, umożliwiając jej pełną integrację ze stroną internetową osu!.
 
 #### Maj
 
@@ -95,7 +95,7 @@ W tym artykule przedstawiono ważne wydarzenia w **historii osu! wiki**, od czas
 
 #### Czerwiec
 
-- **Nieznana data:** Użytkownik ::{ flag=PL }:: [TPGPL](https://osu.ppy.sh/users/3944705) otrzymał specjalne prawa dostępu do repozytorium osu! wiki.
+- **Nieznana data:** Użytkownik ::{ flag=PL }:: ::TPGPL::{ user=3944705 } otrzymał specjalne prawa dostępu do repozytorium osu! wiki.
 - **19.06.2017:** Do wiki dodano [funkcję wyszukiwania](https://github.com/ppy/osu-web/pull/1259).
 
 ### 2018
@@ -112,7 +112,7 @@ W tym artykule przedstawiono ważne wydarzenia w **historii osu! wiki**, od czas
 
 #### Czerwiec
 
-- **01.06.2021:** Użytkownik ::{ flag=ID }:: [GPR](https://osu.ppy.sh/users/10721349) zaimplementował [nakładkę osu! wiki](https://github.com/ppy/osu/pull/12950) w [osu!(lazer)](/wiki/Client/Release_stream/Lazer), pozwalając na dostęp do niektórych stron wiki bezpośrednio z klienta osu!(lazer).
+- **01.06.2021:** Użytkownik ::{ flag=ID }:: ::GPR::{ user=10721349 } zaimplementował [nakładkę osu! wiki](https://github.com/ppy/osu/pull/12950) w [osu!(lazer)](/wiki/Client/Release_stream/Lazer), pozwalając na dostęp do niektórych stron wiki bezpośrednio z klienta osu!(lazer).
 
 #### Sierpień
 

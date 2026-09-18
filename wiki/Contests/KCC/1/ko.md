@@ -33,10 +33,10 @@ tags:
 
 | 직책 | 인원 |
 | :-- | :-- |
-| 주최자 | ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783) |
-| 매니저 | ::{ flag=KR }:: [Oni Suika](https://osu.ppy.sh/users/4848023) |
-| 디자이너 | ::{ flag=KR }:: [POCARI SWEAT](https://osu.ppy.sh/users/5082685) |
-| 심사위원 | ::{ flag=PL }:: [_underjoy](https://osu.ppy.sh/users/2235750), ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783), ::{ flag=GT }:: [Hoto Cocoa](https://osu.ppy.sh/users/6974536), ::{ flag=KR }:: [Kawawa](https://osu.ppy.sh/users/4647754), ::{ flag=KR }:: [Pengdoll](https://osu.ppy.sh/users/6392061) |
+| 주최자 | ::{ flag=KR }:: ::Garalulu::{ user=757783 } |
+| 매니저 | ::{ flag=KR }:: ::Oni Suika::{ user=4848023 } |
+| 디자이너 | ::{ flag=KR }:: ::POCARI SWEAT::{ user=5082685 } |
+| 심사위원 | ::{ flag=PL }:: ::_underjoy::{ user=2235750 }, ::{ flag=KR }:: ::Garalulu::{ user=757783 }, ::{ flag=GT }:: ::Hoto Cocoa::{ user=6974536 }, ::{ flag=KR }:: ::Kawawa::{ user=4647754 }, ::{ flag=KR }:: ::Pengdoll::{ user=6392061 } |
 
 ## 링크
 
@@ -70,9 +70,9 @@ tags:
 
 | 순위 | 매퍼 |
 | :-: | :-- |
-| ![금상](/wiki/shared/crown-gold.png "1위") | ::{ flag=KR }:: [11Bit](https://osu.ppy.sh/users/14804526) |
-| ![은상](/wiki/shared/crown-silver.png "2위") | ::{ flag=KR }:: [Sherie](https://osu.ppy.sh/users/9113475) |
-| ![동상](/wiki/shared/crown-bronze.png "3위") | ::{ flag=CA }:: [arpia97](https://osu.ppy.sh/users/6363008) |
+| ![금상](/wiki/shared/crown-gold.png "1위") | ::{ flag=KR }:: ::11Bit::{ user=14804526 } |
+| ![은상](/wiki/shared/crown-silver.png "2위") | ::{ flag=KR }:: ::Sherie::{ user=9113475 } |
+| ![동상](/wiki/shared/crown-bronze.png "3위") | ::{ flag=CA }:: ::arpia97::{ user=6363008 } |
 
 ## 규칙
 

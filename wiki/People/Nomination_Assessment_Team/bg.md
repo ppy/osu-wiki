@@ -50,37 +50,37 @@ NAT държи потенциалните NAT членове в списъка �
 
 | Име | Допълнителен език | Основни отговорности |
 | :-- | :-- | :-- |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Оценка, Модерация |
-| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Кантонски, Китайски | Оценка |
-| ::{ flag=GB }:: [hypercyte](https://osu.ppy.sh/users/9155377) | Бенгалски, малко Арабски | Оценка, Структура, Модерация, Комуникация |
-| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Шведски | Структура, Комуникация |
-| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  | Оценка, Структура, Комуникация |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Структура |
-| ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | Оценка |
-| ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | Испански, Френски | Оценка |
-| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Немски | Оценка |
-| ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Полски | Оценка |
+| ::{ flag=GB }:: ::-Mo-::{ user=2202163 } |  | Оценка, Модерация |
+| ::{ flag=HK }:: ::Chaoslitz::{ user=3621552 } | Кантонски, Китайски | Оценка |
+| ::{ flag=GB }:: ::hypercyte::{ user=9155377 } | Бенгалски, малко Арабски | Оценка, Структура, Модерация, Комуникация |
+| ::{ flag=SE }:: ::Naxess::{ user=8129817 } | Шведски | Структура, Комуникация |
+| ::{ flag=US }:: ::Noffy::{ user=1541323 } |  | Оценка, Структура, Комуникация |
+| ::{ flag=US }:: ::pishifat::{ user=3178418 } |  | Структура |
+| ::{ flag=US }:: ::UberFazz::{ user=8646059 } |  | Оценка |
+| ::{ flag=CL }:: ::Uberzolik::{ user=1314547 } | Испански, Френски | Оценка |
+| ::{ flag=BE }:: ::yaspo::{ user=4945926 } | Немски | Оценка |
+| ::{ flag=PL }:: ::Zelq::{ user=8953955 } | Полски | Оценка |
 
 ### osu!taiko
 
 | Име | Допълнителен език | Основни отговорности |
 | :-- | :-- | :-- |
-| ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Немски | Оценка |
-| ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | Кантонски, Китайски | Оценка |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Оценка |
+| ::{ flag=DE }:: ::Capu::{ user=2474015 } | Немски | Оценка |
+| ::{ flag=HK }:: ::Faputa::{ user=845733 } | Кантонски, Китайски | Оценка |
+| ::{ flag=US }:: ::radar::{ user=7131099 } |  | Оценка |
 
 ### osu!catch
 
 | Име | Допълнителен език | Основни отговорности |
 | :-- | :-- | :-- |
-| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Испански, Немски | Оценка, Модерация |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Немски | Оценка, Структура |
-| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | Корейски | Оценка, Комуникация |
+| ::{ flag=ES }:: ::Deif::{ user=318565 } | Испански, Немски | Оценка, Модерация |
+| ::{ flag=NL }:: ::Greaper::{ user=2369776 } | Немски | Оценка, Структура |
+| ::{ flag=KR }:: ::Spectator::{ user=702598 } | Корейски | Оценка, Комуникация |
 
 ### osu!mania
 
 | Име | Допълнителен език | Основни отговорности |
 | :-- | :-- | :-- |
-| ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese | Оценка |
-| ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809) | Арабски, Френски | Оценка |
-| ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Оценка |
+| ::{ flag=ES }:: ::Quenlla::{ user=4725379 } | Spanish, Portuguese, Galician, Italian, Japanese | Оценка |
+| ::{ flag=DZ }:: ::Scotty::{ user=11085809 } | Арабски, Френски | Оценка |
+| ::{ flag=US }:: ::Unpredictable::{ user=7560872 } |  | Оценка |

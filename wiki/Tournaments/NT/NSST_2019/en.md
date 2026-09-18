@@ -8,7 +8,7 @@ tags:
 
 ![NSST 2019 logo](img/logo.jpg)
 
-The **nik's Spring/Summer Tour 2019** (***NSST 2019***) was a 1v1 worldwide double-elimination osu! tournament hosted by ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264). It was the second instalment of the nik's Tournaments series.
+The **nik's Spring/Summer Tour 2019** (***NSST 2019***) was a 1v1 worldwide double-elimination osu! tournament hosted by ::{ flag=NL }:: ::nik::{ user=10077264 }. It was the second instalment of the nik's Tournaments series.
 
 ## Tournament schedule
 
@@ -40,15 +40,15 @@ The nik's Spring/Summer Tour 2019 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264) |
-| Admin | ::{ flag=US }:: [Cindelluna](https://osu.ppy.sh/users/3039847), ::{ flag=AU }:: [nonamegohst](https://osu.ppy.sh/users/4384859), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [vita2](https://osu.ppy.sh/users/10706998) |
-| Mappool selector | ::{ flag=DE }:: [hi-def](https://osu.ppy.sh/users/10697191), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=GB }:: [vita2](https://osu.ppy.sh/users/10706998) |
-| Referee | ::{ flag=PL }:: [Asasyn01](https://osu.ppy.sh/users/8013323), ::{ flag=US }:: [Cindelluna](https://osu.ppy.sh/users/3039847), ::{ flag=US }:: [Dios Dong](https://osu.ppy.sh/users/3958619), ::{ flag=DE }:: [hi-def](https://osu.ppy.sh/users/10697191), ::{ flag=AU }:: [Illinon](https://osu.ppy.sh/users/8306102), ::{ flag=AU }:: [loler123903](https://osu.ppy.sh/users/8034438), ::{ flag=DE }:: [LwL](https://osu.ppy.sh/users/3556856), ::{ flag=CN }:: [M1keL](https://osu.ppy.sh/users/10732897), ::{ flag=SE }:: [Melwoine](https://osu.ppy.sh/users/12091109), ::{ flag=DE }:: [Menty](https://osu.ppy.sh/users/3619284), ::{ flag=FR }:: [Mimir](https://osu.ppy.sh/users/7382734), ::{ flag=PH }:: [muffleberry](https://osu.ppy.sh/users/8978259), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=DE }:: [NKJ](https://osu.ppy.sh/users/9675790), ::{ flag=US }:: [Poke\_player](https://osu.ppy.sh/users/6502279), ::{ flag=GB }:: [Snipe The Neko](https://osu.ppy.sh/users/8638531), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=VN }:: [Vespulaz](https://osu.ppy.sh/users/10848857), ::{ flag=GB }:: [vita2](https://osu.ppy.sh/users/10706998), ::{ flag=DE }:: [WitchOfFrost](https://osu.ppy.sh/users/7511840), ::{ flag=RU }:: [Xassie](https://osu.ppy.sh/users/7958911), ::{ flag=UA }:: [Zertus](https://osu.ppy.sh/users/5875469) |
-| Streamer | ::{ flag=GB }:: [-spoon-](https://osu.ppy.sh/users/10623176), ::{ flag=DE }:: [\[Lucky\]](https://osu.ppy.sh/users/1303685), ::{ flag=PL }:: [bart6003](https://osu.ppy.sh/users/2100107), ::{ flag=US }:: [Dios Dong](https://osu.ppy.sh/users/3958619), ::{ flag=NL }:: [Just Lucan](https://osu.ppy.sh/users/5007943), ::{ flag=NL }:: [Swerro](https://osu.ppy.sh/users/4507667), ::{ flag=DE }:: [WitchOfFrost](https://osu.ppy.sh/users/7511840), ::{ flag=RU }:: [Xassie](https://osu.ppy.sh/users/7958911) |
-| Commentator | ::{ flag=GB }:: [-spoon-](https://osu.ppy.sh/users/10623176), ::{ flag=DE }:: [\[Lucky\]](https://osu.ppy.sh/users/1303685), ::{ flag=US }:: [Dios Dong](https://osu.ppy.sh/users/3958619), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=DE }:: [hi-def](https://osu.ppy.sh/users/10697191), ::{ flag=NL }:: [Just Lucan](https://osu.ppy.sh/users/5007943), ::{ flag=DE }:: [Menty](https://osu.ppy.sh/users/3619284), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=NL }:: [Swerro](https://osu.ppy.sh/users/4507667), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=DE }:: [WitchOfFrost](https://osu.ppy.sh/users/7511840), ::{ flag=RU }:: [Xassie](https://osu.ppy.sh/users/7958911), ::{ flag=US }:: [YoshiLover456](https://osu.ppy.sh/users/6843383) |
-| Designer | ::{ flag=US }:: [\_p0ke\_](https://osu.ppy.sh/users/5434711), ::{ flag=US }:: [Cindelluna](https://osu.ppy.sh/users/3039847) |
-| Statistician | ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=AU }:: [nonamegohst](https://osu.ppy.sh/users/4384859) |
-| Wiki editor | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Manager | ::{ flag=NL }:: ::nik::{ user=10077264 } |
+| Admin | ::{ flag=US }:: ::Cindelluna::{ user=3039847 }, ::{ flag=AU }:: ::nonamegohst::{ user=4384859 }, ::{ flag=US }:: ::tigereyes144::{ user=6499811 }, ::{ flag=GB }:: ::vita2::{ user=10706998 } |
+| Mappool selector | ::{ flag=DE }:: ::hi-def::{ user=10697191 }, ::{ flag=NL }:: ::nik::{ user=10077264 }, ::{ flag=GB }:: ::vita2::{ user=10706998 } |
+| Referee | ::{ flag=PL }:: ::Asasyn01::{ user=8013323 }, ::{ flag=US }:: ::Cindelluna::{ user=3039847 }, ::{ flag=US }:: ::Dios Dong::{ user=3958619 }, ::{ flag=DE }:: ::hi-def::{ user=10697191 }, ::{ flag=AU }:: ::Illinon::{ user=8306102 }, ::{ flag=AU }:: ::loler123903::{ user=8034438 }, ::{ flag=DE }:: ::LwL::{ user=3556856 }, ::{ flag=CN }:: ::M1keL::{ user=10732897 }, ::{ flag=SE }:: ::Melwoine::{ user=12091109 }, ::{ flag=DE }:: ::Menty::{ user=3619284 }, ::{ flag=FR }:: ::Mimir::{ user=7382734 }, ::{ flag=PH }:: ::muffleberry::{ user=8978259 }, ::{ flag=NL }:: ::nik::{ user=10077264 }, ::{ flag=DE }:: ::NKJ::{ user=9675790 }, ::{ flag=US }:: ::Poke\_player::{ user=6502279 }, ::{ flag=GB }:: ::Snipe The Neko::{ user=8638531 }, ::{ flag=US }:: ::tigereyes144::{ user=6499811 }, ::{ flag=VN }:: ::Vespulaz::{ user=10848857 }, ::{ flag=GB }:: ::vita2::{ user=10706998 }, ::{ flag=DE }:: ::WitchOfFrost::{ user=7511840 }, ::{ flag=RU }:: ::Xassie::{ user=7958911 }, ::{ flag=UA }:: ::Zertus::{ user=5875469 } |
+| Streamer | ::{ flag=GB }:: ::-spoon-::{ user=10623176 }, ::{ flag=DE }:: ::\[Lucky\]::{ user=1303685 }, ::{ flag=PL }:: ::bart6003::{ user=2100107 }, ::{ flag=US }:: ::Dios Dong::{ user=3958619 }, ::{ flag=NL }:: ::Just Lucan::{ user=5007943 }, ::{ flag=NL }:: ::Swerro::{ user=4507667 }, ::{ flag=DE }:: ::WitchOfFrost::{ user=7511840 }, ::{ flag=RU }:: ::Xassie::{ user=7958911 } |
+| Commentator | ::{ flag=GB }:: ::-spoon-::{ user=10623176 }, ::{ flag=DE }:: ::\[Lucky\]::{ user=1303685 }, ::{ flag=US }:: ::Dios Dong::{ user=3958619 }, ::{ flag=US }:: ::fieryrage::{ user=3533958 }, ::{ flag=DE }:: ::hi-def::{ user=10697191 }, ::{ flag=NL }:: ::Just Lucan::{ user=5007943 }, ::{ flag=DE }:: ::Menty::{ user=3619284 }, ::{ flag=NL }:: ::nik::{ user=10077264 }, ::{ flag=NL }:: ::Swerro::{ user=4507667 }, ::{ flag=US }:: ::tigereyes144::{ user=6499811 }, ::{ flag=DE }:: ::WitchOfFrost::{ user=7511840 }, ::{ flag=RU }:: ::Xassie::{ user=7958911 }, ::{ flag=US }:: ::YoshiLover456::{ user=6843383 } |
+| Designer | ::{ flag=US }:: ::\_p0ke\_::{ user=5434711 }, ::{ flag=US }:: ::Cindelluna::{ user=3039847 } |
+| Statistician | ::{ flag=NL }:: ::nik::{ user=10077264 }, ::{ flag=AU }:: ::nonamegohst::{ user=4384859 } |
+| Wiki editor | ::{ flag=ID }:: ::fajar13k::{ user=7100002 } |
 
 ## Links
 
@@ -68,19 +68,19 @@ The nik's Spring/Summer Tour 2019 was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ::{ flag=US }:: [idke](https://osu.ppy.sh/users/4650315), ::{ flag=US }:: [Leftoverss](https://osu.ppy.sh/users/4665746), ::{ flag=US }:: [im a fancy lad](https://osu.ppy.sh/users/4908650), ::{ flag=CA }:: [Eddie-](https://osu.ppy.sh/users/3898396), ::{ flag=RO }:: [eternum](https://osu.ppy.sh/users/4581069), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=US }:: [fuduhasio](https://osu.ppy.sh/users/6124018) |
-| High | ::{ flag=SG }:: [Demonical](https://osu.ppy.sh/users/5447609), ::{ flag=US }:: [mniminwoo](https://osu.ppy.sh/users/3929529), ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044), ::{ flag=US }:: [Tohru](https://osu.ppy.sh/users/3596296), ::{ flag=DE }:: [papika](https://osu.ppy.sh/users/7093373), ::{ flag=GR }:: [Riven](https://osu.ppy.sh/users/3638005), ::{ flag=PH }:: [konawiki](https://osu.ppy.sh/users/4003979), ::{ flag=AR }:: [-Nanahira-](https://osu.ppy.sh/users/6169195) |
-| Low | ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403), ::{ flag=AR }:: [Nykke](https://osu.ppy.sh/users/8181950), ::{ flag=DE }:: [LwL](https://osu.ppy.sh/users/3556856), ::{ flag=AR }:: [Penguo](https://osu.ppy.sh/users/4389490), ::{ flag=AU }:: [ASecretBox 2](https://osu.ppy.sh/users/4166621), ::{ flag=AR }:: [N Y Q A](https://osu.ppy.sh/users/5420232), ::{ flag=SE }:: [Reedkatt](https://osu.ppy.sh/users/8335950), ::{ flag=RU }:: [Kreet](https://osu.ppy.sh/users/9202834) |
-| Unseeded | ::{ flag=US }:: [Will Stetson](https://osu.ppy.sh/users/4909088), ::{ flag=AR }:: [Megafan](https://osu.ppy.sh/users/6632605), ::{ flag=DE }:: [respektive](https://osu.ppy.sh/users/1023489), ::{ flag=US }:: [Tekkito](https://osu.ppy.sh/users/7075211), ::{ flag=IT }:: [umii](https://osu.ppy.sh/users/2538695), ::{ flag=SG }:: [moosepi](https://osu.ppy.sh/users/1868745), ::{ flag=VE }:: [-Dreamless](https://osu.ppy.sh/users/4426728), ::{ flag=FR }:: [Okatsu\_k](https://osu.ppy.sh/users/4862580) |
+| Top | ::{ flag=US }:: ::idke::{ user=4650315 }, ::{ flag=US }:: ::Leftoverss::{ user=4665746 }, ::{ flag=US }:: ::im a fancy lad::{ user=4908650 }, ::{ flag=CA }:: ::Eddie-::{ user=3898396 }, ::{ flag=RO }:: ::eternum::{ user=4581069 }, ::{ flag=US }:: ::fieryrage::{ user=3533958 }, ::{ flag=GB }:: ::Bubbleman::{ user=5182050 }, ::{ flag=US }:: ::fuduhasio::{ user=6124018 } |
+| High | ::{ flag=SG }:: ::Demonical::{ user=5447609 }, ::{ flag=US }:: ::mniminwoo::{ user=3929529 }, ::{ flag=AU }:: ::Dumii::{ user=3068044 }, ::{ flag=US }:: ::Tohru::{ user=3596296 }, ::{ flag=DE }:: ::papika::{ user=7093373 }, ::{ flag=GR }:: ::Riven::{ user=3638005 }, ::{ flag=PH }:: ::konawiki::{ user=4003979 }, ::{ flag=AR }:: ::-Nanahira-::{ user=6169195 } |
+| Low | ::{ flag=NL }:: ::Lilily::{ user=6502403 }, ::{ flag=AR }:: ::Nykke::{ user=8181950 }, ::{ flag=DE }:: ::LwL::{ user=3556856 }, ::{ flag=AR }:: ::Penguo::{ user=4389490 }, ::{ flag=AU }:: ::ASecretBox 2::{ user=4166621 }, ::{ flag=AR }:: ::N Y Q A::{ user=5420232 }, ::{ flag=SE }:: ::Reedkatt::{ user=8335950 }, ::{ flag=RU }:: ::Kreet::{ user=9202834 } |
+| Unseeded | ::{ flag=US }:: ::Will Stetson::{ user=4909088 }, ::{ flag=AR }:: ::Megafan::{ user=6632605 }, ::{ flag=DE }:: ::respektive::{ user=1023489 }, ::{ flag=US }:: ::Tekkito::{ user=7075211 }, ::{ flag=IT }:: ::umii::{ user=2538695 }, ::{ flag=SG }:: ::moosepi::{ user=1868745 }, ::{ flag=VE }:: ::-Dreamless::{ user=4426728 }, ::{ flag=FR }:: ::Okatsu\_k::{ user=4862580 } |
 
 ### Tier 2
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107), ::{ flag=KR }:: [\_Suyong](https://osu.ppy.sh/users/7295276), ::{ flag=RU }:: [Liswiera](https://osu.ppy.sh/users/9356954), ::{ flag=US }:: [YoshiLover456](https://osu.ppy.sh/users/6843383), ::{ flag=RU }:: [\_Suzuha](https://osu.ppy.sh/users/8445602), ::{ flag=PL }:: [bart6003](https://osu.ppy.sh/users/2100107), ::{ flag=PL }:: [Triojo](https://osu.ppy.sh/users/7736410), ::{ flag=US }:: [Raoul](https://osu.ppy.sh/users/9924405) |
-| High | ::{ flag=SG }:: [woahsia](https://osu.ppy.sh/users/195946), ::{ flag=ID }:: [Xicyte](https://osu.ppy.sh/users/10212581), ::{ flag=DE }:: [Menty](https://osu.ppy.sh/users/3619284), ::{ flag=FR }:: [Spartan Plume](https://osu.ppy.sh/users/2553166), ::{ flag=US }:: [Yeong Yuseong](https://osu.ppy.sh/users/8926244), ::{ flag=CA }:: [mahloola](https://osu.ppy.sh/users/8759374), ::{ flag=MY }:: [Chiyuu](https://osu.ppy.sh/users/8226107), ::{ flag=BG }:: [kiril2011](https://osu.ppy.sh/users/3703793) |
-| Low | ::{ flag=US }:: [Crihs](https://osu.ppy.sh/users/6995880), ::{ flag=CO }:: [ElMick33](https://osu.ppy.sh/users/5458323), ::{ flag=US }:: [Tuco](https://osu.ppy.sh/users/11706350), ::{ flag=ID }:: [Ulat Bulu](https://osu.ppy.sh/users/3484548), ::{ flag=GB }:: [unrealLyyy](https://osu.ppy.sh/users/9594849), ::{ flag=CA }:: [PayneTrain](https://osu.ppy.sh/users/10275038), ::{ flag=NL }:: [Swerro](https://osu.ppy.sh/users/4507667), ::{ flag=CA }:: [Saltystick](https://osu.ppy.sh/users/2165408) |
-| Unseeded | ::{ flag=DE }:: [Katsumi](https://osu.ppy.sh/users/513834), ::{ flag=GB }:: [4Circ](https://osu.ppy.sh/users/2161823), ::{ flag=KR }:: [siroitora](https://osu.ppy.sh/users/9146185), ::{ flag=PL }:: [lokser](https://osu.ppy.sh/users/4675441), ::{ flag=PL }:: [Kusiu](https://osu.ppy.sh/users/5285044), ::{ flag=RU }:: [Ontoryran](https://osu.ppy.sh/users/5182623), ::{ flag=CA }:: [Xeli](https://osu.ppy.sh/users/4947796), ::{ flag=IT }:: [Condizionatore](https://osu.ppy.sh/users/8810254) |
+| Top | ::{ flag=KR }:: ::Civil oath::{ user=3216107 }, ::{ flag=KR }:: ::\_Suyong::{ user=7295276 }, ::{ flag=RU }:: ::Liswiera::{ user=9356954 }, ::{ flag=US }:: ::YoshiLover456::{ user=6843383 }, ::{ flag=RU }:: ::\_Suzuha::{ user=8445602 }, ::{ flag=PL }:: ::bart6003::{ user=2100107 }, ::{ flag=PL }:: ::Triojo::{ user=7736410 }, ::{ flag=US }:: ::Raoul::{ user=9924405 } |
+| High | ::{ flag=SG }:: ::woahsia::{ user=195946 }, ::{ flag=ID }:: ::Xicyte::{ user=10212581 }, ::{ flag=DE }:: ::Menty::{ user=3619284 }, ::{ flag=FR }:: ::Spartan Plume::{ user=2553166 }, ::{ flag=US }:: ::Yeong Yuseong::{ user=8926244 }, ::{ flag=CA }:: ::mahloola::{ user=8759374 }, ::{ flag=MY }:: ::Chiyuu::{ user=8226107 }, ::{ flag=BG }:: ::kiril2011::{ user=3703793 } |
+| Low | ::{ flag=US }:: ::Crihs::{ user=6995880 }, ::{ flag=CO }:: ::ElMick33::{ user=5458323 }, ::{ flag=US }:: ::Tuco::{ user=11706350 }, ::{ flag=ID }:: ::Ulat Bulu::{ user=3484548 }, ::{ flag=GB }:: ::unrealLyyy::{ user=9594849 }, ::{ flag=CA }:: ::PayneTrain::{ user=10275038 }, ::{ flag=NL }:: ::Swerro::{ user=4507667 }, ::{ flag=CA }:: ::Saltystick::{ user=2165408 } |
+| Unseeded | ::{ flag=DE }:: ::Katsumi::{ user=513834 }, ::{ flag=GB }:: ::4Circ::{ user=2161823 }, ::{ flag=KR }:: ::siroitora::{ user=9146185 }, ::{ flag=PL }:: ::lokser::{ user=4675441 }, ::{ flag=PL }:: ::Kusiu::{ user=5285044 }, ::{ flag=RU }:: ::Ontoryran::{ user=5182623 }, ::{ flag=CA }:: ::Xeli::{ user=4947796 }, ::{ flag=IT }:: ::Condizionatore::{ user=8810254 } |
 
 ## Groups
 
@@ -88,27 +88,27 @@ The nik's Spring/Summer Tour 2019 was run by various community members.
 
 | Group | Top Seed | High Seed | Low Seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ::{ flag=RO }:: [eternum](https://osu.ppy.sh/users/4581069) | ::{ flag=GR }:: [Riven](https://osu.ppy.sh/users/3638005) | ::{ flag=AU }:: [ASecretBox 2](https://osu.ppy.sh/users/4166621) | ::{ flag=VE }:: [-Dreamless](https://osu.ppy.sh/users/4426728) |
-| **B** | ::{ flag=US }:: [idke](https://osu.ppy.sh/users/4650315) | ::{ flag=PH }:: [konawiki](https://osu.ppy.sh/users/4003979) | ::{ flag=RU }:: [Kreet](https://osu.ppy.sh/users/9202834) | ::{ flag=DE }:: [respektive](https://osu.ppy.sh/users/1023489) |
-| **C** | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) | ::{ flag=SG }:: [Demonical](https://osu.ppy.sh/users/5447609) | ::{ flag=AR }:: [Nykke](https://osu.ppy.sh/users/8181950) | ::{ flag=AR }:: [Megafan](https://osu.ppy.sh/users/6632605) |
-| **D** | ::{ flag=US }:: [fuduhasio](https://osu.ppy.sh/users/6124018) | ::{ flag=DE }:: [papika](https://osu.ppy.sh/users/7093373) | ::{ flag=SE }:: [Reedkatt](https://osu.ppy.sh/users/8335950) | ::{ flag=FR }:: [Okatsu\_k](https://osu.ppy.sh/users/4862580) |
-| **E** | ::{ flag=US }:: [im a fancy lad](https://osu.ppy.sh/users/4908650) | ::{ flag=US }:: [Tohru](https://osu.ppy.sh/users/3596296) | ::{ flag=DE }:: [LwL](https://osu.ppy.sh/users/3556856) | ::{ flag=SG }:: [moosepi](https://osu.ppy.sh/users/1868745) |
-| **F** | ::{ flag=CA }:: [Eddie-](https://osu.ppy.sh/users/3898396) | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) | ::{ flag=AR }:: [Penguo](https://osu.ppy.sh/users/4389490) | ::{ flag=IT }:: [umii](https://osu.ppy.sh/users/2538695) |
-| **G** | ::{ flag=US }:: [Leftoverss](https://osu.ppy.sh/users/4665746) | ::{ flag=AR }:: [-Nanahira-](https://osu.ppy.sh/users/6169195) | ::{ flag=AR }:: [N Y Q A](https://osu.ppy.sh/users/5420232) | ::{ flag=US }:: [Tekkito](https://osu.ppy.sh/users/7075211) |
-| **H** | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) | ::{ flag=US }:: [mniminwoo](https://osu.ppy.sh/users/3929529) | ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403) | ::{ flag=US }:: [Will Stetson](https://osu.ppy.sh/users/4909088) |
+| **A** | ::{ flag=RO }:: ::eternum::{ user=4581069 } | ::{ flag=GR }:: ::Riven::{ user=3638005 } | ::{ flag=AU }:: ::ASecretBox 2::{ user=4166621 } | ::{ flag=VE }:: ::-Dreamless::{ user=4426728 } |
+| **B** | ::{ flag=US }:: ::idke::{ user=4650315 } | ::{ flag=PH }:: ::konawiki::{ user=4003979 } | ::{ flag=RU }:: ::Kreet::{ user=9202834 } | ::{ flag=DE }:: ::respektive::{ user=1023489 } |
+| **C** | ::{ flag=US }:: ::fieryrage::{ user=3533958 } | ::{ flag=SG }:: ::Demonical::{ user=5447609 } | ::{ flag=AR }:: ::Nykke::{ user=8181950 } | ::{ flag=AR }:: ::Megafan::{ user=6632605 } |
+| **D** | ::{ flag=US }:: ::fuduhasio::{ user=6124018 } | ::{ flag=DE }:: ::papika::{ user=7093373 } | ::{ flag=SE }:: ::Reedkatt::{ user=8335950 } | ::{ flag=FR }:: ::Okatsu\_k::{ user=4862580 } |
+| **E** | ::{ flag=US }:: ::im a fancy lad::{ user=4908650 } | ::{ flag=US }:: ::Tohru::{ user=3596296 } | ::{ flag=DE }:: ::LwL::{ user=3556856 } | ::{ flag=SG }:: ::moosepi::{ user=1868745 } |
+| **F** | ::{ flag=CA }:: ::Eddie-::{ user=3898396 } | ::{ flag=AU }:: ::Dumii::{ user=3068044 } | ::{ flag=AR }:: ::Penguo::{ user=4389490 } | ::{ flag=IT }:: ::umii::{ user=2538695 } |
+| **G** | ::{ flag=US }:: ::Leftoverss::{ user=4665746 } | ::{ flag=AR }:: ::-Nanahira-::{ user=6169195 } | ::{ flag=AR }:: ::N Y Q A::{ user=5420232 } | ::{ flag=US }:: ::Tekkito::{ user=7075211 } |
+| **H** | ::{ flag=GB }:: ::Bubbleman::{ user=5182050 } | ::{ flag=US }:: ::mniminwoo::{ user=3929529 } | ::{ flag=NL }:: ::Lilily::{ user=6502403 } | ::{ flag=US }:: ::Will Stetson::{ user=4909088 } |
 
 ### Tier 2
 
 | Group | Top Seed | High Seed | Low Seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ::{ flag=PL }:: [Triojo](https://osu.ppy.sh/users/7736410) | ::{ flag=SG }:: [woahsia](https://osu.ppy.sh/users/195946) | ::{ flag=ID }:: [Ulat Bulu](https://osu.ppy.sh/users/3484548) | ::{ flag=CA }:: [Xeli](https://osu.ppy.sh/users/4947796) |
-| **B** | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | ::{ flag=US }:: [Yeong Yuseong](https://osu.ppy.sh/users/8926244) | ::{ flag=CA }:: [PayneTrain](https://osu.ppy.sh/users/10275038) | ::{ flag=PL }:: [lokser](https://osu.ppy.sh/users/4675441) |
-| **C** | ::{ flag=KR }:: [\_Suyong](https://osu.ppy.sh/users/7295276) | ::{ flag=ID }:: [Xicyte](https://osu.ppy.sh/users/10212581) | ::{ flag=CO }:: [ElMick33](https://osu.ppy.sh/users/5458323) | ::{ flag=DE }:: [Katsumi](https://osu.ppy.sh/users/513834) |
-| **D** | ::{ flag=US }:: [Raoul](https://osu.ppy.sh/users/9924405) | ::{ flag=CA }:: [mahloola](https://osu.ppy.sh/users/8759374) | ::{ flag=US }:: [Tuco](https://osu.ppy.sh/users/11706350) | ::{ flag=KR }:: [siroitora](https://osu.ppy.sh/users/9146185) |
-| **E** | ::{ flag=US }:: [YoshiLover456](https://osu.ppy.sh/users/6843383) | ::{ flag=MY }:: [Chiyuu](https://osu.ppy.sh/users/8226107) | ::{ flag=US }:: [Crihs](https://osu.ppy.sh/users/6995880) | ::{ flag=IT }:: [Condizionatore](https://osu.ppy.sh/users/8810254) |
-| **F** | ::{ flag=RU }:: [Liswiera](https://osu.ppy.sh/users/9356954) | ::{ flag=BG }:: [kiril2011](https://osu.ppy.sh/users/3703793) | ::{ flag=GB }:: [unrealLyyy](https://osu.ppy.sh/users/9594849) | ::{ flag=PL }:: [Kusiu](https://osu.ppy.sh/users/5285044) |
-| **G** | ::{ flag=PL }:: [bart6003](https://osu.ppy.sh/users/2100107) | ::{ flag=DE }:: [Menty](https://osu.ppy.sh/users/3619284) | ::{ flag=NL }:: [Swerro](https://osu.ppy.sh/users/4507667) | ::{ flag=GB }:: [4Circ](https://osu.ppy.sh/users/2161823) |
-| **H** | ::{ flag=RU }:: [\_Suzuha](https://osu.ppy.sh/users/8445602) | ::{ flag=FR }:: [Spartan Plume](https://osu.ppy.sh/users/2553166) | ::{ flag=CA }:: [Saltystick](https://osu.ppy.sh/users/2165408) | ::{ flag=RU }:: [Ontoryran](https://osu.ppy.sh/users/5182623) |
+| **A** | ::{ flag=PL }:: ::Triojo::{ user=7736410 } | ::{ flag=SG }:: ::woahsia::{ user=195946 } | ::{ flag=ID }:: ::Ulat Bulu::{ user=3484548 } | ::{ flag=CA }:: ::Xeli::{ user=4947796 } |
+| **B** | ::{ flag=KR }:: ::Civil oath::{ user=3216107 } | ::{ flag=US }:: ::Yeong Yuseong::{ user=8926244 } | ::{ flag=CA }:: ::PayneTrain::{ user=10275038 } | ::{ flag=PL }:: ::lokser::{ user=4675441 } |
+| **C** | ::{ flag=KR }:: ::\_Suyong::{ user=7295276 } | ::{ flag=ID }:: ::Xicyte::{ user=10212581 } | ::{ flag=CO }:: ::ElMick33::{ user=5458323 } | ::{ flag=DE }:: ::Katsumi::{ user=513834 } |
+| **D** | ::{ flag=US }:: ::Raoul::{ user=9924405 } | ::{ flag=CA }:: ::mahloola::{ user=8759374 } | ::{ flag=US }:: ::Tuco::{ user=11706350 } | ::{ flag=KR }:: ::siroitora::{ user=9146185 } |
+| **E** | ::{ flag=US }:: ::YoshiLover456::{ user=6843383 } | ::{ flag=MY }:: ::Chiyuu::{ user=8226107 } | ::{ flag=US }:: ::Crihs::{ user=6995880 } | ::{ flag=IT }:: ::Condizionatore::{ user=8810254 } |
+| **F** | ::{ flag=RU }:: ::Liswiera::{ user=9356954 } | ::{ flag=BG }:: ::kiril2011::{ user=3703793 } | ::{ flag=GB }:: ::unrealLyyy::{ user=9594849 } | ::{ flag=PL }:: ::Kusiu::{ user=5285044 } |
+| **G** | ::{ flag=PL }:: ::bart6003::{ user=2100107 } | ::{ flag=DE }:: ::Menty::{ user=3619284 } | ::{ flag=NL }:: ::Swerro::{ user=4507667 } | ::{ flag=GB }:: ::4Circ::{ user=2161823 } |
+| **H** | ::{ flag=RU }:: ::\_Suzuha::{ user=8445602 } | ::{ flag=FR }:: ::Spartan Plume::{ user=2553166 } | ::{ flag=CA }:: ::Saltystick::{ user=2165408 } | ::{ flag=RU }:: ::Ontoryran::{ user=5182623 } |
 
 ## Podium
 
@@ -118,17 +118,17 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: [im a fancy lad](https://osu.ppy.sh/users/4908650) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: ::Bubbleman::{ user=5182050 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=US }:: ::fieryrage::{ user=3533958 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: ::im a fancy lad::{ user=4908650 } |
 
 ### Tier 2
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=KR }:: [\_Suyong](https://osu.ppy.sh/users/7295276) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=NL }:: [Swerro](https://osu.ppy.sh/users/4507667) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=KR }:: ::Civil oath::{ user=3216107 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=KR }:: ::\_Suyong::{ user=7295276 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=NL }:: ::Swerro::{ user=4507667 } |
 
 ## Mappools
 

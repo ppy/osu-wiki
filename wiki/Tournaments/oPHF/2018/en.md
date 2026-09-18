@@ -39,16 +39,16 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) was a semi-rest
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management and organisation | ::{ flag=PH }:: [Zaphirox](https://osu.ppy.sh/users/2478675) (osu!), ::{ flag=PH }:: [Deneb](https://osu.ppy.sh/users/2604212) (osu!taiko), ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103) (osu!catch), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) (osu!mania) |
-| Mappool selector (osu!) | ::{ flag=PH }:: [MioMilo](https://osu.ppy.sh/users/2199427), ::{ flag=PH }:: [Nitrous](https://osu.ppy.sh/users/7293512), ::{ flag=ID }:: [nya10](https://osu.ppy.sh/users/1372608) |
-| Mappool selector (osu!taiko) | ::{ flag=PH }:: [Deneb](https://osu.ppy.sh/users/2604212) |
-| Mappool selector (osu!catch) | ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103), ::{ flag=PH }:: [Chloebe](https://osu.ppy.sh/users/4577865), ::{ flag=PH }:: [JeirYagtama](https://osu.ppy.sh/users/7483452), ::{ flag=PH }:: [-Nicotine](https://osu.ppy.sh/users/4818935) |
-| Mappool selector (osu!mania 4K and 7K) | ::{ flag=PH }:: [Lenfried-](https://osu.ppy.sh/users/5314573), ::{ flag=PH }:: [JztCallMeRon](https://osu.ppy.sh/users/2471512), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [Ainyan](https://osu.ppy.sh/users/3770641), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767). ::{ flag=MY }:: [Cryolien](https://osu.ppy.sh/users/1626983), ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497) |
-| Referee | ::{ flag=PH }:: [Zaphirox](https://osu.ppy.sh/users/2478675), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [MapleSyrup-](https://osu.ppy.sh/users/1192936), ::{ flag=PH }:: [samosita](https://osu.ppy.sh/users/6090289), ::{ flag=PH }:: [ggnakacarlz](https://osu.ppy.sh/users/4075421), ::{ flag=PH }:: [-MomoX](https://osu.ppy.sh/users/2150415), ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103), ::{ flag=PH }:: [Nezol](https://osu.ppy.sh/users/7509103), ::{ flag=PH }:: [Afireee](https://osu.ppy.sh/users/7919913), ::{ flag=PH }:: [Hues](https://osu.ppy.sh/users/2367206), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=AU }:: [nonamegohst](https://osu.ppy.sh/users/4384859), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Streamer | ::{ flag=PH }:: [aEverr](https://osu.ppy.sh/users/6027084), ::{ flag=PH }:: [Ainyan](https://osu.ppy.sh/users/3770641), ::{ flag=PH }:: [LohaWarpe](https://osu.ppy.sh/users/8560810) |
-| Commentator | ::{ flag=PH }:: [Zaphirox](https://osu.ppy.sh/users/2478675), ::{ flag=PH }:: [Deneb](https://osu.ppy.sh/users/2604212), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [Awishi](https://osu.ppy.sh/users/4290020), ::{ flag=PH }:: [Toyohime-](https://osu.ppy.sh/users/9770359), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722) |
-| Designer | ::{ flag=PH }:: [Mira-san](https://osu.ppy.sh/users/4469895) |
-| Statistician | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [MapleSyrup-](https://osu.ppy.sh/users/1192936) |
+| Management and organisation | ::{ flag=PH }:: ::Zaphirox::{ user=2478675 } (osu!), ::{ flag=PH }:: ::Deneb::{ user=2604212 } (osu!taiko), ::{ flag=PH }:: ::Roido::{ user=6829103 } (osu!catch), ::{ flag=PH }:: ::SurfChu85::{ user=4469895 } (osu!mania) |
+| Mappool selector (osu!) | ::{ flag=PH }:: ::MioMilo::{ user=2199427 }, ::{ flag=PH }:: ::Nitrous::{ user=7293512 }, ::{ flag=ID }:: ::nya10::{ user=1372608 } |
+| Mappool selector (osu!taiko) | ::{ flag=PH }:: ::Deneb::{ user=2604212 } |
+| Mappool selector (osu!catch) | ::{ flag=PH }:: ::Roido::{ user=6829103 }, ::{ flag=PH }:: ::Chloebe::{ user=4577865 }, ::{ flag=PH }:: ::JeirYagtama::{ user=7483452 }, ::{ flag=PH }:: ::-Nicotine::{ user=4818935 } |
+| Mappool selector (osu!mania 4K and 7K) | ::{ flag=PH }:: ::Lenfried-::{ user=5314573 }, ::{ flag=PH }:: ::JztCallMeRon::{ user=2471512 }, ::{ flag=PH }:: ::SurfChu85::{ user=4469895 }, ::{ flag=PH }:: ::Ainyan::{ user=3770641 }, ::{ flag=SG }:: ::Raveille::{ user=1388767 }. ::{ flag=MY }:: ::Cryolien::{ user=1626983 }, ::{ flag=MY }:: ::cheewee10::{ user=4477497 } |
+| Referee | ::{ flag=PH }:: ::Zaphirox::{ user=2478675 }, ::{ flag=PH }:: ::SurfChu85::{ user=4469895 }, ::{ flag=PH }:: ::MapleSyrup-::{ user=1192936 }, ::{ flag=PH }:: ::samosita::{ user=6090289 }, ::{ flag=PH }:: ::ggnakacarlz::{ user=4075421 }, ::{ flag=PH }:: ::-MomoX::{ user=2150415 }, ::{ flag=PH }:: ::Roido::{ user=6829103 }, ::{ flag=PH }:: ::Nezol::{ user=7509103 }, ::{ flag=PH }:: ::Afireee::{ user=7919913 }, ::{ flag=PH }:: ::Hues::{ user=2367206 }, ::{ flag=SG }:: ::Raveille::{ user=1388767 }, ::{ flag=AU }:: ::nonamegohst::{ user=4384859 }, ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 } |
+| Streamer | ::{ flag=PH }:: ::aEverr::{ user=6027084 }, ::{ flag=PH }:: ::Ainyan::{ user=3770641 }, ::{ flag=PH }:: ::LohaWarpe::{ user=8560810 } |
+| Commentator | ::{ flag=PH }:: ::Zaphirox::{ user=2478675 }, ::{ flag=PH }:: ::Deneb::{ user=2604212 }, ::{ flag=PH }:: ::SurfChu85::{ user=4469895 }, ::{ flag=PH }:: ::Awishi::{ user=4290020 }, ::{ flag=PH }:: ::Toyohime-::{ user=9770359 }, ::{ flag=AU }:: ::PotassiumF::{ user=4247722 } |
+| Designer | ::{ flag=PH }:: ::Mira-san::{ user=4469895 } |
+| Statistician | ::{ flag=PH }:: ::SurfChu85::{ user=4469895 }, ::{ flag=PH }:: ::MapleSyrup-::{ user=1192936 } |
 
 ## Links
 
@@ -69,102 +69,102 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) was a semi-rest
 
 | Seed | Player |
 | :-- | :-- |
-| 1 | ::{ flag=PH }:: [ededed028](https://osu.ppy.sh/users/3932796) |
-| 2 | ::{ flag=PH }:: [zonelouise](https://osu.ppy.sh/users/1492995) |
-| 3 | ::{ flag=PH }:: [TyrantsEye2014](https://osu.ppy.sh/users/4530738) |
-| 4 | ::{ flag=PH }:: [Stereo](https://osu.ppy.sh/users/1499137) |
-| 5 | ::{ flag=PH }:: [Rammu](https://osu.ppy.sh/users/10652837) |
-| 6 | ::{ flag=PH }:: [Pikhael](https://osu.ppy.sh/users/9597208) |
-| 7 | ::{ flag=PH }:: [Fzechen](https://osu.ppy.sh/users/8248762) |
-| 8 | ::{ flag=PH }:: [Caernarvon725](https://osu.ppy.sh/users/8208317) |
-| 9 | ::{ flag=PH }:: [-Onoya An](https://osu.ppy.sh/users/2725984) |
-| 10 | ::{ flag=PH }:: [Nyahrumanyah](https://osu.ppy.sh/users/4645185) |
-| 11 | ::{ flag=PH }:: [Gilthunder](https://osu.ppy.sh/users/4514716) |
-| 12 | ::{ flag=PH }:: [Umuuu](https://osu.ppy.sh/users/10688529) |
-| 13 | ::{ flag=PH }:: [-PJ-](https://osu.ppy.sh/users/9347900) |
-| 14 | ::{ flag=PH }:: [IcedCha](https://osu.ppy.sh/users/11054021) |
-| 15 | ::{ flag=PH }:: [Akiraie](https://osu.ppy.sh/users/11766556) |
-| 16 | ::{ flag=PH }:: [Xidorn](https://osu.ppy.sh/users/7904667) |
-| 17 | ::{ flag=PH }:: [Aharu](https://osu.ppy.sh/users/5039816) |
-| 18 | ::{ flag=PH }:: [\[Vik\]](https://osu.ppy.sh/users/5428448) |
-| 19 | ::{ flag=PH }:: [Dunn](https://osu.ppy.sh/users/7241691) |
-| 20 | ::{ flag=PH }:: [- CrossX -](https://osu.ppy.sh/users/5375302) |
-| 21 | ::{ flag=PH }:: [ArtillerySenpai](https://osu.ppy.sh/users/8329656) |
-| 22 | ::{ flag=PH }:: [Zythics](https://osu.ppy.sh/users/6604492) |
-| 23 | ::{ flag=PH }:: [JasonEspiritu](https://osu.ppy.sh/users/8387179) |
-| 24 | ::{ flag=PH }:: [Liquicidize](https://osu.ppy.sh/users/7066405) |
-| 25 | ::{ flag=PH }:: [Aestheticbrick](https://osu.ppy.sh/users/8249051) |
-| 26 | ::{ flag=PH }:: [KasperBK](https://osu.ppy.sh/users/8223881) |
-| 27 | ::{ flag=PH }:: [Nomis126](https://osu.ppy.sh/users/10852654) |
-| 28 | ::{ flag=PH }:: [Nyanntai](https://osu.ppy.sh/users/6449091) |
-| 29 | ::{ flag=PH }:: [IsseiKun](https://osu.ppy.sh/users/10597843) |
-| 30 | ::{ flag=PH }:: [Tornikel](https://osu.ppy.sh/users/10940000) |
-| 31 | ::{ flag=PH }:: [Aoi_Shimoto](https://osu.ppy.sh/users/9809833) |
-| 32 | ::{ flag=PH }:: [Karma Jun](https://osu.ppy.sh/users/6796612) |
+| 1 | ::{ flag=PH }:: ::ededed028::{ user=3932796 } |
+| 2 | ::{ flag=PH }:: ::zonelouise::{ user=1492995 } |
+| 3 | ::{ flag=PH }:: ::TyrantsEye2014::{ user=4530738 } |
+| 4 | ::{ flag=PH }:: ::Stereo::{ user=1499137 } |
+| 5 | ::{ flag=PH }:: ::Rammu::{ user=10652837 } |
+| 6 | ::{ flag=PH }:: ::Pikhael::{ user=9597208 } |
+| 7 | ::{ flag=PH }:: ::Fzechen::{ user=8248762 } |
+| 8 | ::{ flag=PH }:: ::Caernarvon725::{ user=8208317 } |
+| 9 | ::{ flag=PH }:: ::-Onoya An::{ user=2725984 } |
+| 10 | ::{ flag=PH }:: ::Nyahrumanyah::{ user=4645185 } |
+| 11 | ::{ flag=PH }:: ::Gilthunder::{ user=4514716 } |
+| 12 | ::{ flag=PH }:: ::Umuuu::{ user=10688529 } |
+| 13 | ::{ flag=PH }:: ::-PJ-::{ user=9347900 } |
+| 14 | ::{ flag=PH }:: ::IcedCha::{ user=11054021 } |
+| 15 | ::{ flag=PH }:: ::Akiraie::{ user=11766556 } |
+| 16 | ::{ flag=PH }:: ::Xidorn::{ user=7904667 } |
+| 17 | ::{ flag=PH }:: ::Aharu::{ user=5039816 } |
+| 18 | ::{ flag=PH }:: ::\[Vik\]::{ user=5428448 } |
+| 19 | ::{ flag=PH }:: ::Dunn::{ user=7241691 } |
+| 20 | ::{ flag=PH }:: ::- CrossX -::{ user=5375302 } |
+| 21 | ::{ flag=PH }:: ::ArtillerySenpai::{ user=8329656 } |
+| 22 | ::{ flag=PH }:: ::Zythics::{ user=6604492 } |
+| 23 | ::{ flag=PH }:: ::JasonEspiritu::{ user=8387179 } |
+| 24 | ::{ flag=PH }:: ::Liquicidize::{ user=7066405 } |
+| 25 | ::{ flag=PH }:: ::Aestheticbrick::{ user=8249051 } |
+| 26 | ::{ flag=PH }:: ::KasperBK::{ user=8223881 } |
+| 27 | ::{ flag=PH }:: ::Nomis126::{ user=10852654 } |
+| 28 | ::{ flag=PH }:: ::Nyanntai::{ user=6449091 } |
+| 29 | ::{ flag=PH }:: ::IsseiKun::{ user=10597843 } |
+| 30 | ::{ flag=PH }:: ::Tornikel::{ user=10940000 } |
+| 31 | ::{ flag=PH }:: ::Aoi_Shimoto::{ user=9809833 } |
+| 32 | ::{ flag=PH }:: ::Karma Jun::{ user=6796612 } |
 
 ### osu!taiko
 
 | Seed | Player |
 | :-- | :-- |
-| 1 | ::{ flag=PH }:: [Pochacco](https://osu.ppy.sh/users/2927742) |
-| 2 | ::{ flag=PH }:: [Rimazii](https://osu.ppy.sh/users/3831514) |
-| 3 | ::{ flag=PH }:: [yuki\_momoiro722](https://osu.ppy.sh/users/7186791) |
-| 4 | ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895) |
-| 5 | ::{ flag=JP }:: [\[\_\_\_\_\_\_\]](https://osu.ppy.sh/users/4764062) |
-| 6 | ::{ flag=PH }:: [Keishii](https://osu.ppy.sh/users/8381177) |
+| 1 | ::{ flag=PH }:: ::Pochacco::{ user=2927742 } |
+| 2 | ::{ flag=PH }:: ::Rimazii::{ user=3831514 } |
+| 3 | ::{ flag=PH }:: ::yuki\_momoiro722::{ user=7186791 } |
+| 4 | ::{ flag=PH }:: ::Silhoueska Elze::{ user=11517895 } |
+| 5 | ::{ flag=JP }:: ::\[\_\_\_\_\_\_\]::{ user=4764062 } |
+| 6 | ::{ flag=PH }:: ::Keishii::{ user=8381177 } |
 
 ### osu!catch
 
 | Seed | Player |
 | :-- | :-- |
-| 1 | ::{ flag=PH }:: [Crowley](https://osu.ppy.sh/users/6341006) |
-| 2 | ::{ flag=PH }:: [KaganimeRin](https://osu.ppy.sh/users/1626093) |
-| 3 | ::{ flag=PH }:: [Aishiii](https://osu.ppy.sh/users/4382259) |
-| 4 | ::{ flag=PH }:: [AJamez](https://osu.ppy.sh/users/7890134) |
-| 5 | ::{ flag=PH }:: [Kuya Frex](https://osu.ppy.sh/users/8868701) |
-| 6 | ::{ flag=PH }:: [Laqure](https://osu.ppy.sh/users/1642435) |
-| 7 | ::{ flag=PH }:: [Lobsterr](https://osu.ppy.sh/users/6575915) |
-| 8 | ::{ flag=PH }:: [Loreal](https://osu.ppy.sh/users/9362231) |
-| 9 | ::{ flag=PH }:: [- Kielzu -](https://osu.ppy.sh/users/6221114) |
-| 10 | ::{ flag=PH }:: [AJ1703](https://osu.ppy.sh/users/10509387) |
-| 11 | ::{ flag=PH }:: [johnneijzen1](https://osu.ppy.sh/users/2627194) |
-| 12 | ::{ flag=PH }:: [Keishii](https://osu.ppy.sh/users/8381177) |
+| 1 | ::{ flag=PH }:: ::Crowley::{ user=6341006 } |
+| 2 | ::{ flag=PH }:: ::KaganimeRin::{ user=1626093 } |
+| 3 | ::{ flag=PH }:: ::Aishiii::{ user=4382259 } |
+| 4 | ::{ flag=PH }:: ::AJamez::{ user=7890134 } |
+| 5 | ::{ flag=PH }:: ::Kuya Frex::{ user=8868701 } |
+| 6 | ::{ flag=PH }:: ::Laqure::{ user=1642435 } |
+| 7 | ::{ flag=PH }:: ::Lobsterr::{ user=6575915 } |
+| 8 | ::{ flag=PH }:: ::Loreal::{ user=9362231 } |
+| 9 | ::{ flag=PH }:: ::- Kielzu -::{ user=6221114 } |
+| 10 | ::{ flag=PH }:: ::AJ1703::{ user=10509387 } |
+| 11 | ::{ flag=PH }:: ::johnneijzen1::{ user=2627194 } |
+| 12 | ::{ flag=PH }:: ::Keishii::{ user=8381177 } |
 
 ### osu!mania 4K
 
 | Seed | Player |
 | :-- | :-- |
-| 1 | ::{ flag=PH }:: [arge-](https://osu.ppy.sh/users/9919550) |
-| 2 | ::{ flag=PH }:: [Baltz](https://osu.ppy.sh/users/6083463) |
-| 3 | ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895) |
-| 4 | ::{ flag=PH }:: [Ikisouu](https://osu.ppy.sh/users/12020287) |
-| 5 | ::{ flag=PH }:: [Shiyui-](https://osu.ppy.sh/users/9374607) |
-| 6 | ::{ flag=PH }:: [kei101895](https://osu.ppy.sh/users/3032245) |
-| 7 | ::{ flag=PH }:: [Batujitsu](https://osu.ppy.sh/users/6402552) |
-| 8 | ::{ flag=PH }:: [Edison](https://osu.ppy.sh/users/1325159) |
-| 9 | ::{ flag=PH }:: [Andrei--](https://osu.ppy.sh/users/7222840) |
-| 10 | ::{ flag=PH }:: [Inoariusu](https://osu.ppy.sh/users/8586656) |
-| 11 | ::{ flag=PH }:: [vincent4399](https://osu.ppy.sh/users/9764388) |
-| 12 | ::{ flag=AE }:: [Suravur](https://osu.ppy.sh/users/10160304) |
-| 13 | ::{ flag=XX }:: [Izayoi-san-](https://osu.ppy.sh/users/11871956) |
-| 14 | ::{ flag=PH }:: [LohaWarpe](https://osu.ppy.sh/users/8560810) |
-| 15 | ::{ flag=PH }:: [hikaruXD19](https://osu.ppy.sh/users/5417259) |
-| 16 | ::{ flag=PH }:: [Partycarft30](https://osu.ppy.sh/users/8046460) |
+| 1 | ::{ flag=PH }:: ::arge-::{ user=9919550 } |
+| 2 | ::{ flag=PH }:: ::Baltz::{ user=6083463 } |
+| 3 | ::{ flag=PH }:: ::Silhoueska Elze::{ user=11517895 } |
+| 4 | ::{ flag=PH }:: ::Ikisouu::{ user=12020287 } |
+| 5 | ::{ flag=PH }:: ::Shiyui-::{ user=9374607 } |
+| 6 | ::{ flag=PH }:: ::kei101895::{ user=3032245 } |
+| 7 | ::{ flag=PH }:: ::Batujitsu::{ user=6402552 } |
+| 8 | ::{ flag=PH }:: ::Edison::{ user=1325159 } |
+| 9 | ::{ flag=PH }:: ::Andrei--::{ user=7222840 } |
+| 10 | ::{ flag=PH }:: ::Inoariusu::{ user=8586656 } |
+| 11 | ::{ flag=PH }:: ::vincent4399::{ user=9764388 } |
+| 12 | ::{ flag=AE }:: ::Suravur::{ user=10160304 } |
+| 13 | ::{ flag=XX }:: ::Izayoi-san-::{ user=11871956 } |
+| 14 | ::{ flag=PH }:: ::LohaWarpe::{ user=8560810 } |
+| 15 | ::{ flag=PH }:: ::hikaruXD19::{ user=5417259 } |
+| 16 | ::{ flag=PH }:: ::Partycarft30::{ user=8046460 } |
 
 ### osu!mania 7K
 
 | Seed | Player |
 | :-- | :-- |
-| 1 | ::{ flag=PH }:: [Nikana](https://osu.ppy.sh/users/4345491) |
-| 2 | ::{ flag=PH }:: [Cielo Day](https://osu.ppy.sh/users/2722489) |
-| 3 | ::{ flag=PH }:: [FeveredNickel](https://osu.ppy.sh/users/7331952) |
-| 4 | ::{ flag=PH }:: [fer789](https://osu.ppy.sh/users/8901267) |
-| 5 | ::{ flag=PH }:: [Andrei--](https://osu.ppy.sh/users/7222840) |
-| 6 | ::{ flag=PH }:: [LohaWarpe](https://osu.ppy.sh/users/8560810) |
-| 7 | ::{ flag=PH }:: [LackPoints](https://osu.ppy.sh/users/8748664) |
-| 8 | ::{ flag=PH }:: [kei101895](https://osu.ppy.sh/users/3032245) |
-| 9 | ::{ flag=PH }:: [Keishii](https://osu.ppy.sh/users/8381177) |
-| 10 | ::{ flag=PH }:: [Shawntell](https://osu.ppy.sh/users/7384938) |
+| 1 | ::{ flag=PH }:: ::Nikana::{ user=4345491 } |
+| 2 | ::{ flag=PH }:: ::Cielo Day::{ user=2722489 } |
+| 3 | ::{ flag=PH }:: ::FeveredNickel::{ user=7331952 } |
+| 4 | ::{ flag=PH }:: ::fer789::{ user=8901267 } |
+| 5 | ::{ flag=PH }:: ::Andrei--::{ user=7222840 } |
+| 6 | ::{ flag=PH }:: ::LohaWarpe::{ user=8560810 } |
+| 7 | ::{ flag=PH }:: ::LackPoints::{ user=8748664 } |
+| 8 | ::{ flag=PH }:: ::kei101895::{ user=3032245 } |
+| 9 | ::{ flag=PH }:: ::Keishii::{ user=8381177 } |
+| 10 | ::{ flag=PH }:: ::Shawntell::{ user=7384938 } |
 
 ## Podium
 
@@ -174,41 +174,41 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: [Stereo](https://osu.ppy.sh/users/1499137) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [TyrantsEye2014](https://osu.ppy.sh/users/4530738) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: [ededed028](https://osu.ppy.sh/users/3932796), ::{ flag=PH }:: [zonelouise](https://osu.ppy.sh/users/1492995) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: ::Stereo::{ user=1499137 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: ::TyrantsEye2014::{ user=4530738 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: ::ededed028::{ user=3932796 }, ::{ flag=PH }:: ::zonelouise::{ user=1492995 } |
 
 ### osu!taiko division
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: [Pochacco](https://osu.ppy.sh/users/2927742) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [Rimazii](https://osu.ppy.sh/users/3831514) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: [yuki\_momoiro722](https://osu.ppy.sh/users/7186791) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: ::Pochacco::{ user=2927742 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: ::Rimazii::{ user=3831514 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: ::yuki\_momoiro722::{ user=7186791 } |
 
 ### osu!catch division
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: [- Kielzu -](https://osu.ppy.sh/users/6221114) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [KaganimeRin](https://osu.ppy.sh/users/1626093) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: [Crowley](https://osu.ppy.sh/users/6341006) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: ::- Kielzu -::{ user=6221114 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: ::KaganimeRin::{ user=1626093 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: ::Crowley::{ user=6341006 } |
 
 ### osu!mania 4K division
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: [arge-](https://osu.ppy.sh/users/9919550) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [Baltz](https://osu.ppy.sh/users/6083463) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: [Shiyui-](https://osu.ppy.sh/users/9374607) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: ::arge-::{ user=9919550 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: ::Baltz::{ user=6083463 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: ::Shiyui-::{ user=9374607 } |
 
 ### osu!mania 7K division
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: [Nikana](https://osu.ppy.sh/users/4345491) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [fer789](https://osu.ppy.sh/users/8901267) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: [Cielo Day](https://osu.ppy.sh/users/2722489) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: ::Nikana::{ user=4345491 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: ::fer789::{ user=8901267 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: ::Cielo Day::{ user=2722489 } |
 
 ## Mappools
 

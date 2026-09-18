@@ -231,7 +231,7 @@ Poniższe tabele zawierają listę wszystkich tagów użytkowników pogrupowanyc
 
 ## Ciekawostki
 
-- Powyższe tagi, które ukazały się po raz pierwszy 21 marca 2025 roku, były inspirowane projektem [OMDB](https://omdb.nyahh.net/). Jego celem również było stworzenie systemu tagów do filtrowania beatmap zarządzanego przez społeczność. OMDB zostało pierwotnie opracowane przez ::{ flag=GB }:: [apollodw](https://osu.ppy.sh/users/9558549). 1 marca 2025 roku projekt został zamknięty [z przyczyn osobistych](https://x.com/bunnygirltwink/status/1892328084893815059).
+- Powyższe tagi, które ukazały się po raz pierwszy 21 marca 2025 roku, były inspirowane projektem [OMDB](https://omdb.nyahh.net/). Jego celem również było stworzenie systemu tagów do filtrowania beatmap zarządzanego przez społeczność. OMDB zostało pierwotnie opracowane przez ::{ flag=GB }:: ::apollodw::{ user=9558549 }. 1 marca 2025 roku projekt został zamknięty [z przyczyn osobistych](https://x.com/bunnygirltwink/status/1892328084893815059).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

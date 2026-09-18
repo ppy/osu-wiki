@@ -10,7 +10,7 @@ tags:
 
 ![CFDT 2 logo](img/logo.png)
 
-The **Catch French Dual Tournament 2** (***CFDT 2***) was a French double-elimination 2v2 osu!catch tournament hosted by ::{ flag=FR }:: [h-e-c-a123](https://osu.ppy.sh/users/3163012) and ::{ flag=FR }:: [Laffey Gaming](https://osu.ppy.sh/users/5122949). Teams consisted of two players, where the first player was ranked between #1 and #500, and the latter was ranked #501 or below. It was the second instalment of the Catch French Dual Tournament and part of the Catch French Cup series.
+The **Catch French Dual Tournament 2** (***CFDT 2***) was a French double-elimination 2v2 osu!catch tournament hosted by ::{ flag=FR }:: ::h-e-c-a123::{ user=3163012 } and ::{ flag=FR }:: ::Laffey Gaming::{ user=5122949 }. Teams consisted of two players, where the first player was ranked between #1 and #500, and the latter was ranked #501 or below. It was the second instalment of the Catch French Dual Tournament and part of the Catch French Cup series.
 
 ## Tournament schedule
 
@@ -41,15 +41,15 @@ The Catch French Dual Tournament 2 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ::{ flag=FR }:: [h-e-c-a123](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [Laffey Gaming](https://osu.ppy.sh/users/5122949) |
-| Mappool selector | ::{ flag=FR }:: [AiNA](https://osu.ppy.sh/users/4426908), ::{ flag=FR }:: [h-e-c-a123](https://osu.ppy.sh/users/3163012) |
-| Custom mapper | ::{ flag=FR }:: [Noctalium](https://osu.ppy.sh/users/6488167), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |
-| Mappool tester | ::{ flag=FR }:: [Bebar](https://osu.ppy.sh/users/12584928), ::{ flag=FR }:: [Noctalium](https://osu.ppy.sh/users/6488167) |
-| Referee | ::{ flag=FR }:: [bambinex](https://osu.ppy.sh/users/18818124), ::{ flag=BE }:: [Cakenoob](https://osu.ppy.sh/users/6045522), ::{ flag=FR }:: [h-e-c-a123](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [Laffey Gaming](https://osu.ppy.sh/users/5122949), ::{ flag=FR }:: [Mimir](https://osu.ppy.sh/users/7382734), ::{ flag=FR }:: [Pizou](https://osu.ppy.sh/users/9475990) |
-| Streamer | ::{ flag=FR }:: [AiNA](https://osu.ppy.sh/users/4426908), ::{ flag=FR }:: [Jielefe](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [Noctalium](https://osu.ppy.sh/users/6488167), ::{ flag=FR }:: [Pizou](https://osu.ppy.sh/users/9475990) |
-| Commentator | ::{ flag=FR }:: [AiNA](https://osu.ppy.sh/users/4426908), ::{ flag=FR }:: [bambinex](https://osu.ppy.sh/users/18818124), ::{ flag=FR }:: [h-e-c-a123](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [Jielefe](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [Kitsuka](https://osu.ppy.sh/users/10334943), ::{ flag=FR }:: [MitsukeZ](https://osu.ppy.sh/users/12943161) |
-| Designer | ::{ flag=FR }:: [Jielefe](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [Nin-Amel](https://osu.ppy.sh/users/5210058) |
-| Wiki writer | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Organiser | ::{ flag=FR }:: ::h-e-c-a123::{ user=3163012 }, ::{ flag=FR }:: ::Laffey Gaming::{ user=5122949 } |
+| Mappool selector | ::{ flag=FR }:: ::AiNA::{ user=4426908 }, ::{ flag=FR }:: ::h-e-c-a123::{ user=3163012 } |
+| Custom mapper | ::{ flag=FR }:: ::Noctalium::{ user=6488167 }, ::{ flag=US }:: ::Secre::{ user=2306637 } |
+| Mappool tester | ::{ flag=FR }:: ::Bebar::{ user=12584928 }, ::{ flag=FR }:: ::Noctalium::{ user=6488167 } |
+| Referee | ::{ flag=FR }:: ::bambinex::{ user=18818124 }, ::{ flag=BE }:: ::Cakenoob::{ user=6045522 }, ::{ flag=FR }:: ::h-e-c-a123::{ user=3163012 }, ::{ flag=FR }:: ::Laffey Gaming::{ user=5122949 }, ::{ flag=FR }:: ::Mimir::{ user=7382734 }, ::{ flag=FR }:: ::Pizou::{ user=9475990 } |
+| Streamer | ::{ flag=FR }:: ::AiNA::{ user=4426908 }, ::{ flag=FR }:: ::Jielefe::{ user=15334170 }, ::{ flag=FR }:: ::Noctalium::{ user=6488167 }, ::{ flag=FR }:: ::Pizou::{ user=9475990 } |
+| Commentator | ::{ flag=FR }:: ::AiNA::{ user=4426908 }, ::{ flag=FR }:: ::bambinex::{ user=18818124 }, ::{ flag=FR }:: ::h-e-c-a123::{ user=3163012 }, ::{ flag=FR }:: ::Jielefe::{ user=15334170 }, ::{ flag=FR }:: ::Kitsuka::{ user=10334943 }, ::{ flag=FR }:: ::MitsukeZ::{ user=12943161 } |
+| Designer | ::{ flag=FR }:: ::Jielefe::{ user=15334170 }, ::{ flag=FR }:: ::Nin-Amel::{ user=5210058 } |
+| Wiki writer | ::{ flag=ID }:: ::fajar13k::{ user=7100002 } |
 
 ## Links
 
@@ -63,23 +63,23 @@ The Catch French Dual Tournament 2 was run by various community members.
 
 | Team | Members |
 | :-- | :-- |
-| **5€** | ::{ flag=FR }:: **[Boros](https://osu.ppy.sh/users/5490623)**, ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520) |
-| **:nanasmil:** | ::{ flag=FR }:: **[Oasix](https://osu.ppy.sh/users/6183012)**, ::{ flag=AT }:: [Mashiro Mama](https://osu.ppy.sh/users/10415976) |
-| **:pleading_face:** | ::{ flag=FR }:: **[Natsuko](https://osu.ppy.sh/users/8266817)**, ::{ flag=ID }:: [Ruu](https://osu.ppy.sh/users/3212755) |
-| **Black Ice** | ::{ flag=FR }:: **[Sounny](https://osu.ppy.sh/users/7326109)**, ::{ flag=RU }:: [Nerris](https://osu.ppy.sh/users/11202866) |
-| **dégénéré** | ::{ flag=FR }:: **[\_\_\_\_\_\_\_\_\_\_\__](https://osu.ppy.sh/users/6973354)**, ::{ flag=FR }:: [Zelepha](https://osu.ppy.sh/users/6201167) |
-| **Florika** | ::{ flag=FR }:: **[floflim](https://osu.ppy.sh/users/5954015)**, ::{ flag=SG }:: [He Ang CTB](https://osu.ppy.sh/users/2451381) |
-| **FR X US coalition** | ::{ flag=FR }:: **[Electr0o](https://osu.ppy.sh/users/9484428)**, ::{ flag=US }:: [Elux](https://osu.ppy.sh/users/12004983) |
-| **French Penguins** | ::{ flag=FR }:: **[Yostel](https://osu.ppy.sh/users/3594510)**, ::{ flag=IT }:: [ArMa79](https://osu.ppy.sh/users/4982799) |
-| **hecatia fanclub** | ::{ flag=CA }:: **[WadBot](https://osu.ppy.sh/users/14571181)**, ::{ flag=CA }:: [Zyoulou](https://osu.ppy.sh/users/8668722) |
-| **JP DANS DA TOURNOI** | ::{ flag=CA }:: **[SandwichMaster](https://osu.ppy.sh/users/7345342)**, ::{ flag=CA }:: [Katsuragi](https://osu.ppy.sh/users/3616480) |
-| **Le Grand Jordan23** | ::{ flag=FR }:: **[Dask](https://osu.ppy.sh/users/4151397)**, ::{ flag=CL }:: [Stark](https://osu.ppy.sh/users/1565036) |
-| **Not French** | ::{ flag=LU }:: **[Melodies](https://osu.ppy.sh/users/7787785)**, ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530) |
-| **Pot au Phô** | ::{ flag=FR }:: **[Vincs](https://osu.ppy.sh/users/2026299)**, ::{ flag=AU }:: [Yenni](https://osu.ppy.sh/users/3874176) |
-| **Quesedilla avec les frites BELGES** | ::{ flag=BE }:: **[\[ Quinten \]](https://osu.ppy.sh/users/6283136)**, ::{ flag=MX }:: [Muragaki](https://osu.ppy.sh/users/13195815) |
-| **Red Hawk** | ::{ flag=FR }:: **[Kanna\_Shiro](https://osu.ppy.sh/users/12943235)**, ::{ flag=AR }:: [Saikai](https://osu.ppy.sh/users/8172283) |
-| **Taco w/ Baguette** | ::{ flag=FR }:: **[Gray Hardrock](https://osu.ppy.sh/users/9049282)**, ::{ flag=CL }:: [Pekorrat](https://osu.ppy.sh/users/1250096) |
-| **Timezone diff** | ::{ flag=FR }:: **[Jielefe](https://osu.ppy.sh/users/15334170)**, ::{ flag=KR }:: [\[Amazing\]](https://osu.ppy.sh/users/1391036) |
+| **5€** | ::{ flag=FR }:: **::Boros::{ user=5490623 }**, ::{ flag=KR }:: ::T s u m i::{ user=4080520 } |
+| **:nanasmil:** | ::{ flag=FR }:: **::Oasix::{ user=6183012 }**, ::{ flag=AT }:: ::Mashiro Mama::{ user=10415976 } |
+| **:pleading_face:** | ::{ flag=FR }:: **::Natsuko::{ user=8266817 }**, ::{ flag=ID }:: ::Ruu::{ user=3212755 } |
+| **Black Ice** | ::{ flag=FR }:: **::Sounny::{ user=7326109 }**, ::{ flag=RU }:: ::Nerris::{ user=11202866 } |
+| **dégénéré** | ::{ flag=FR }:: **::\_\_\_\_\_\_\_\_\_\_\__::{ user=6973354 }**, ::{ flag=FR }:: ::Zelepha::{ user=6201167 } |
+| **Florika** | ::{ flag=FR }:: **::floflim::{ user=5954015 }**, ::{ flag=SG }:: ::He Ang CTB::{ user=2451381 } |
+| **FR X US coalition** | ::{ flag=FR }:: **::Electr0o::{ user=9484428 }**, ::{ flag=US }:: ::Elux::{ user=12004983 } |
+| **French Penguins** | ::{ flag=FR }:: **::Yostel::{ user=3594510 }**, ::{ flag=IT }:: ::ArMa79::{ user=4982799 } |
+| **hecatia fanclub** | ::{ flag=CA }:: **::WadBot::{ user=14571181 }**, ::{ flag=CA }:: ::Zyoulou::{ user=8668722 } |
+| **JP DANS DA TOURNOI** | ::{ flag=CA }:: **::SandwichMaster::{ user=7345342 }**, ::{ flag=CA }:: ::Katsuragi::{ user=3616480 } |
+| **Le Grand Jordan23** | ::{ flag=FR }:: **::Dask::{ user=4151397 }**, ::{ flag=CL }:: ::Stark::{ user=1565036 } |
+| **Not French** | ::{ flag=LU }:: **::Melodies::{ user=7787785 }**, ::{ flag=PL }:: ::Mniam::{ user=6050530 } |
+| **Pot au Phô** | ::{ flag=FR }:: **::Vincs::{ user=2026299 }**, ::{ flag=AU }:: ::Yenni::{ user=3874176 } |
+| **Quesedilla avec les frites BELGES** | ::{ flag=BE }:: **::\[ Quinten \]::{ user=6283136 }**, ::{ flag=MX }:: ::Muragaki::{ user=13195815 } |
+| **Red Hawk** | ::{ flag=FR }:: **::Kanna\_Shiro::{ user=12943235 }**, ::{ flag=AR }:: ::Saikai::{ user=8172283 } |
+| **Taco w/ Baguette** | ::{ flag=FR }:: **::Gray Hardrock::{ user=9049282 }**, ::{ flag=CL }:: ::Pekorrat::{ user=1250096 } |
+| **Timezone diff** | ::{ flag=FR }:: **::Jielefe::{ user=15334170 }**, ::{ flag=KR }:: ::\[Amazing\]::{ user=1391036 } |
 
 ## Podium
 
@@ -87,9 +87,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **5€** (::{ flag=FR }:: **[Boros](https://osu.ppy.sh/users/5490623)**, ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **:pleading_face:** (::{ flag=FR }:: **[Natsuko](https://osu.ppy.sh/users/8266817)**, ::{ flag=ID }:: [Ruu](https://osu.ppy.sh/users/3212755)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **French Penguins** (::{ flag=FR }:: **[Yostel](https://osu.ppy.sh/users/3594510)**, ::{ flag=IT }:: [ArMa79](https://osu.ppy.sh/users/4982799)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **5€** (::{ flag=FR }:: **::Boros::{ user=5490623 }**, ::{ flag=KR }:: ::T s u m i::{ user=4080520 }) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **:pleading_face:** (::{ flag=FR }:: **::Natsuko::{ user=8266817 }**, ::{ flag=ID }:: ::Ruu::{ user=3212755 }) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **French Penguins** (::{ flag=FR }:: **::Yostel::{ user=3594510 }**, ::{ flag=IT }:: ::ArMa79::{ user=4982799 }) |
 
 ## Mappools
 
