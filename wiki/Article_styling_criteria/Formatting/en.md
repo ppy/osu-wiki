@@ -695,9 +695,9 @@ The URL from the address bar of your web browser should be copied as it is when 
 
 All usernames must be linked on first occurrence. Other occurrences are optional, but must be consistent throughout the entire article for all usernames. If it is difficult to determine the user's id, it may be skipped over.
 
-When linking to a user profile, the user's id number must be used. Use the new website (`https://osu.ppy.sh/users/{username}`) to get the user's id.
+User links must use the format of `::{link_text}::{ user={user_id} }`, e.g. `::peppy::{ user=2 }`. The user id can be retrieved by typing `https://osu.ppy.sh/users/{username}` into a browser, which will automatically redirect to the proper url with the user id. The link text may include additional formatting, such as **bolding** or *italics*.
 
-The link text of the user link should be the user's current name.
+The link text should be the user's current name. Typically, usernames are not updated in line with name changes, instead favouring historical usernames at the time of the article's publication.
 
 ##### Difficulties
 
