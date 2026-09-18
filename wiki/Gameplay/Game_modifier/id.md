@@ -92,7 +92,7 @@ Dalam pertandingan [turnamen](/wiki/Tournaments), **No Mod** (***NM***) mengacu 
 
 #### Free Mod
 
-Dalam pertandingan [turnamen](/wiki/Tournaments), **Free Mod** (***FM***) mengacu pada beatmap yang bebas dimainkan dengan mod atau kombinasi mod mana pun. Turnamen tertentu terkadang juga memiliki berbagai persyaratan khusus seperti mod apa saja yang boleh digunakan, dalam kombinasi mod yang seperti apa, atau apakah suatu beatmap bisa dimainkan tanpa mod pada saat pengaturan Free Mod sedang aktif.
+Dalam pertandingan [turnamen](/wiki/Tournaments), **Free Mod** (***FM***) mengacu pada beatmap yang bebas dimainkan dengan mod atau kombinasi mod mana pun. Turnamen tertentu terkadang memiliki peraturan khusus yang membatasi hal-hal seperti mod apa saja yang boleh digunakan, dalam kombinasi mod yang seperti apa, atau apakah suatu beatmap bisa dimainkan tanpa mod pada saat pengaturan Free Mod sedang aktif.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
