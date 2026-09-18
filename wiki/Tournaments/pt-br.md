@@ -70,7 +70,7 @@ Torneios e competições não-oficiais também são sediados pelas comunidades.
 
 | Nome | Início | Fim | ![Gold Crown](/wiki/shared/crown-gold.png "1º Lugar") | ![Silver Crown](/wiki/shared/crown-silver.png "2º Lugar") | ![Bronze Crown](/wiki/shared/crown-bronze.png "3º Lugar") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Chinese osu!mania 4K Tournament 2017](/wiki/Tournaments/CMT_4K/2017) | 24/06/2017 | 06/08/2017 | ::- Choma -::{ user=4469570 } | [\[Crz\]MemoryI](https://osu.ppy.sh/users/%5BCrz%5DMemoryI) | ::\[Crz\]ScSolAr::{ user=1591215 } |
+| [Chinese osu!mania 4K Tournament 2017](/wiki/Tournaments/CMT_4K/2017) | 24/06/2017 | 06/08/2017 | ::- Choma -::{ user=4469570 } | ::\[Crz\]MemoryI::{ user=8179131 } | ::\[Crz\]ScSolAr::{ user=1591215 } |
 
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) Most Amazing LAN Ever
 

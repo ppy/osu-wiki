@@ -10,7 +10,7 @@ The judges have made their decisions, and the winner of the second Aspire contes
 
 ![](https://puu.sh/oTUdn/ce9faf4bbe.jpg)
 
-After weeks of intense scrutiny, our judging dream-team of ::Chaoslitz::{ user=3621552 }, [Natsu](https://osu.ppy.sh/users/Natsu), ::Okorin::{ user=1623405 }, [Sonnyc](https://osu.ppy.sh/users/Sonnyc) agonized endlessly over the creativity thrust before them. In keeping with Aspire tradition, both ::ztrot::{ user=6347 } and myself stepped in to judge purely in the creative category alone, giving the contest its signature weighting towards creative enterprise.
+After weeks of intense scrutiny, our judging dream-team of ::Chaoslitz::{ user=3621552 }, ::Natsu::{ user=1953876 }, ::Okorin::{ user=1623405 }, ::Sonnyc::{ user=11771 } agonized endlessly over the creativity thrust before them. In keeping with Aspire tradition, both ::ztrot::{ user=6347 } and myself stepped in to judge purely in the creative category alone, giving the contest its signature weighting towards creative enterprise.
 
 We showcased one of the game's most creatively-oriented maps (as far as mapping mechanics goes) in the announcement contest, and boy were we surprised by the massive variation in entries this time around! We saw everything, from stereo hitsounding, to fully keysounded maps, atmospheric storyboarding, metamorphising sliders, 2B burai kicksliders, wiggle-hold sliders, double-taps, 2016 TAG4 mapping and so, so much more. Personally, I was more impressed with this iteration of the contest from the sheer breadth of experimentation in its entries alone.
 

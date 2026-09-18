@@ -19,7 +19,7 @@ Calling all mappers! Come show off your mapping skills to the community with the
 
 ## Judges
 
-::**dkun**::{ user=154400 }, [**Nyquill**](https://osu.ppy.sh/users/Nyquill), ::**Andrea**::{ user=33599 }, [**those**](https://osu.ppy.sh/users/those), ::**MMzz**::{ user=128993 }, [**Sync**](https://osu.ppy.sh/users/Sync)
+::**dkun**::{ user=154400 }, ::**Nyquill**::{ user=682935 }, ::**Andrea**::{ user=33599 }, ::**those**::{ user=557166 }, ::**MMzz**::{ user=128993 }, ::**Sync**::{ user=806921 }
 
 ## Prizes
 
@@ -62,7 +62,7 @@ Un richiamo per tutti i mapper! Venite e mostrate la vostra bravura nel mapping 
 
 ### Giudici
 
-::**dkun**::{ user=154400 }, [**Nyquill**](https://osu.ppy.sh/users/Nyquill), ::**Andrea**::{ user=33599 }, [**those**](https://osu.ppy.sh/users/those), ::**MMzz**::{ user=128993 }, [**Sync**](https://osu.ppy.sh/users/Sync)
+::**dkun**::{ user=154400 }, ::**Nyquill**::{ user=682935 }, ::**Andrea**::{ user=33599 }, ::**those**::{ user=557166 }, ::**MMzz**::{ user=128993 }, ::**Sync**::{ user=806921 }
 
 ### Premi
 
@@ -100,7 +100,7 @@ Appel à tous les mappeurs ! Venez montrer à la communauté vos talents de mapp
 
 ### Juges
 
-::**dkun**::{ user=154400 }, [**Nyquill**](https://osu.ppy.sh/users/Nyquill), ::**Andrea**::{ user=33599 }, [**those**](https://osu.ppy.sh/users/those), ::**MMzz**::{ user=128993 }, [**Sync**](https://osu.ppy.sh/users/Sync)
+::**dkun**::{ user=154400 }, ::**Nyquill**::{ user=682935 }, ::**Andrea**::{ user=33599 }, ::**those**::{ user=557166 }, ::**MMzz**::{ user=128993 }, ::**Sync**::{ user=806921 }
 
 ### Prix
 
@@ -138,7 +138,7 @@ Appel à tous les mappeurs ! Venez montrer à la communauté vos talents de mapp
 
 ### 裁判
 
-::**dkun**::{ user=154400 }, [**Nyquill**](https://osu.ppy.sh/users/Nyquill), ::**Andrea**::{ user=33599 }, [**those**](https://osu.ppy.sh/users/those), ::**MMzz**::{ user=128993 }, [**Sync**](https://osu.ppy.sh/users/Sync)
+::**dkun**::{ user=154400 }, ::**Nyquill**::{ user=682935 }, ::**Andrea**::{ user=33599 }, ::**those**::{ user=557166 }, ::**MMzz**::{ user=128993 }, ::**Sync**::{ user=806921 }
 
 ### 奖品
 
@@ -176,7 +176,7 @@ Panggilan kepada seluruh mapper! Tunjukkan kepiawaian Anda kepada komunitas sert
 
 ### Juri
 
-::**dkun**::{ user=154400 }, [**Nyquill**](https://osu.ppy.sh/users/Nyquill), ::**Andrea**::{ user=33599 }, [**those**](https://osu.ppy.sh/users/those), ::**MMzz**::{ user=128993 }, [**Sync**](https://osu.ppy.sh/users/Sync)
+::**dkun**::{ user=154400 }, ::**Nyquill**::{ user=682935 }, ::**Andrea**::{ user=33599 }, ::**those**::{ user=557166 }, ::**MMzz**::{ user=128993 }, ::**Sync**::{ user=806921 }
 
 ### Hadiah
 
@@ -214,7 +214,7 @@ mapperのみなさんへ！この度マッピングコンテストが開催さ�
 
 ### 審査員
 
-::**dkun**::{ user=154400 }, [**Nyquill**](https://osu.ppy.sh/users/Nyquill), ::**Andrea**::{ user=33599 }, [**those**](https://osu.ppy.sh/users/those), ::**MMzz**::{ user=128993 }, [**Sync**](https://osu.ppy.sh/users/Sync)
+::**dkun**::{ user=154400 }, ::**Nyquill**::{ user=682935 }, ::**Andrea**::{ user=33599 }, ::**those**::{ user=557166 }, ::**MMzz**::{ user=128993 }, ::**Sync**::{ user=806921 }
 
 ### 賞品
 
@@ -252,7 +252,7 @@ Aufruf an alle Mapper! Zeig uns dein Können und erhalte die Chance, dass deine 
 
 ### Preisrichter
 
-::**dkun**::{ user=154400 }, [**Nyquill**](https://osu.ppy.sh/users/Nyquill), ::**Andrea**::{ user=33599 }, [**those**](https://osu.ppy.sh/users/those), ::**MMzz**::{ user=128993 }, [**Sync**](https://osu.ppy.sh/users/Sync)
+::**dkun**::{ user=154400 }, ::**Nyquill**::{ user=682935 }, ::**Andrea**::{ user=33599 }, ::**those**::{ user=557166 }, ::**MMzz**::{ user=128993 }, ::**Sync**::{ user=806921 }
 
 ### Preise
 
@@ -290,7 +290,7 @@ Aufruf an alle Mapper! Zeig uns dein Können und erhalte die Chance, dass deine 
 
 ### Состав жюри
 
-::**dkun**::{ user=154400 }, [**Nyquill**](https://osu.ppy.sh/users/Nyquill), ::**Andrea**::{ user=33599 }, [**those**](https://osu.ppy.sh/users/those), ::**MMzz**::{ user=128993 }, [**Sync**](https://osu.ppy.sh/users/Sync)
+::**dkun**::{ user=154400 }, ::**Nyquill**::{ user=682935 }, ::**Andrea**::{ user=33599 }, ::**those**::{ user=557166 }, ::**MMzz**::{ user=128993 }, ::**Sync**::{ user=806921 }
 
 ### Призы
 
@@ -328,7 +328,7 @@ Aufruf an alle Mapper! Zeig uns dein Können und erhalte die Chance, dass deine 
 
 ### Jueces
 
-::**dkun**::{ user=154400 }, [**Nyquill**](https://osu.ppy.sh/users/Nyquill), ::**Andrea**::{ user=33599 }, [**those**](https://osu.ppy.sh/users/those), ::**MMzz**::{ user=128993 }, [**Sync**](https://osu.ppy.sh/users/Sync)
+::**dkun**::{ user=154400 }, ::**Nyquill**::{ user=682935 }, ::**Andrea**::{ user=33599 }, ::**those**::{ user=557166 }, ::**MMzz**::{ user=128993 }, ::**Sync**::{ user=806921 }
 
 ### Premios
 

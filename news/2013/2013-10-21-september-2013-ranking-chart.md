@@ -20,7 +20,7 @@ Congratulations to last month's winners! And a big thanks to ::OnosakiHito::{ us
 
 1. ::afura32o::{ user=2368504 } \- 1 month of supporter
 2. ::sandgodoven2::{ user=676578 }
-3. [JCMq](https://osu.ppy.sh/users/JCMq)
+3. JCMq
 
 **Catch the Beat**
 

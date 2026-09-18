@@ -22,7 +22,7 @@ You have these wonderful artists to thank for the new menu backgrounds:
 - ::Dramilion::{ user=3058773 }'s [quite frankly terrifying rendition of the Spookinator 9000](https://puu.sh/rZkG4/00c41caea6.jpg) trick-or-treating at Aiko's house
 - ::SkyDiverFox::{ user=6926124 } showing [Aiko, pippi and a taikodon soaring above a Halloween festival](https://puu.sh/rZkFU/6182192764.jpg)
 - ::d o \1 o b::{ user=5402247 }'s adorable [witch-pippi wishing everyone a happy "holloween"](https://puu.sh/rZkFR/b72f79fe47.jpg)
-- [DarkieMonster](https://osu.ppy.sh/users/DarkieMonster)'s vibrant, [colour-weaving, eye-ball flinging witch-pippi](https://puu.sh/rZkFT/ee1e7da052.jpg)
+- DarkieMonster's vibrant, [colour-weaving, eye-ball flinging witch-pippi](https://puu.sh/rZkFT/ee1e7da052.jpg)
 - ::Adarin::{ user=118360 }'s night-sky overlook [featuring a dashing Yuzu-cula, neko witch-pippi and a succubus Maria being chased over the moon by the Taikonator](https://puu.sh/rZkFY/114aa28463.jpg).
 - ::DreamWisps::{ user=5378101 }'s striking [digital painting of witch-pippi and a catgirl companion before the full moon](https://puu.sh/rZkFW/e9bd9c587f.jpg)
 - ::Arenbou::{ user=5917731 }'s heart-fluttering [rendition of Yuzu in a kigurumi hoarding waaaaaayyy too much candy](https://puu.sh/rZkGc/9c4ede43b4.jpg)

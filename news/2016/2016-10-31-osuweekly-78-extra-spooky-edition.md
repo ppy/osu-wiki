@@ -14,7 +14,7 @@ Do you ever get the feeling the game changes whenever you're not looking at it? 
 </tr></table>
 
 **A big thanks to the following contributors for making this *haunting* edition of osu!weekly possible:**<br>
-::Count Raveille::{ user=1388767 }, [Xylostein](https://osu.ppy.sh/users/Xylo-), ::He Who Beats The Dead::{ user=128370 }, [and an intractably handsome unnamed spirit with a strange fixation on chips](https://osu.ppy.sh/users/Ephemeral)
+::Count Raveille::{ user=1388767 }, ::Xylostein::{ user=3812814 }, ::He Who Beats The Dead::{ user=128370 }, ::and an intractably handsome unnamed spirit with a strange fixation on chips::{ user=102335 }
 
 **You know what's more spooky than the rate of which the game updates? The fact that Ephemeral already made [a post](https://osu.ppy.sh/home/news/2016-10-29-halloween-cometh) about it!** cYsmix (one of the resident osu!musicians) released a banging new track that will be *mysteriously* replacing our beloved circles theme from nekodex. Other new content such as new paranormal "hush-hush" achievements are also waiting for you to stumble upon when you least expect it!
 

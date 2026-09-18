@@ -245,8 +245,8 @@ Newspaper Cup to coroczny konkurs dot. tworzenia beatmap, którego głównymi ce
 
 | Numer utworu | Utwory | ![Złota korona](/wiki/shared/crown-gold.png "1. miejsce") | ![Srebrna korona](/wiki/shared/crown-silver.png "2. miejsce") |
 | :-- | :-- | :-- | :-- |
-| 1 | 葉月ゆら - サラマンドラの踊り子 | ::Yugu::{ user=3161834 } | [nika mika](https://osu.ppy.sh/users/nika%20mika) |
-| 2 | P＊Light - SAY BAY | ::Firika::{ user=9590557 } | [Yugu](https://osu.ppy.sh/users/Yugu) |
+| 1 | 葉月ゆら - サラマンドラの踊り子 | ::Yugu::{ user=3161834 } | ::nika mika::{ user=3878832 } |
+| 2 | P＊Light - SAY BAY | ::Firika::{ user=9590557 } | ::Yugu::{ user=3161834 } |
 
 - [Wątek dot. konkursu](https://osu.ppy.sh/community/forums/topics/690824)
 - [Wątek z wynikami](https://osu.ppy.sh/community/forums/topics/721264)
