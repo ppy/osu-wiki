@@ -11,7 +11,7 @@ tags:
 
 #### Bloom
 
-![Bloom 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/BM.png)
+![Bloom 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/BM.png?1)
 
 *光标开花了...更大的光标！*
 

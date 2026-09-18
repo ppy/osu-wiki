@@ -12,7 +12,7 @@ tags:
 
 #### Cinema
 
-![Cinema mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/CN.png)
+![Cinema mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/CN.png?1)
 
 *Watch the video without visual distractions.*
 
@@ -32,7 +32,7 @@ tags:
 :::
 
 ::: alert-note
-**Note:** For the osu!stable version of this article, see [Cinema (mod)](/wiki/Gameplay/Game_modifier/Cinema)
+**Note:** For the osu!(stable) version of this article, see [Cinema (mod)](/wiki/Gameplay/Game_modifier/Cinema)
 :::
 
 ::: alert-note

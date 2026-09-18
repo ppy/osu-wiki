@@ -12,7 +12,7 @@ tags:
 
 #### Random
 
-![Random mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/RD.png)
+![Random mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/RD.png?1)
 
 *![][osu!]: It never gets boring!*\
 *![][osu!taiko]: Shuffle around the colours!*\
@@ -23,7 +23,8 @@ tags:
 | Acronym | RD |
 | Type | Conversion |
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!mania] |
-| Score multiplier | `1.00x` |
+| Score multiplier ![][osu!] | `0.70x` |
+| Score multiplier ![][osu!taiko] ![][osu!mania] | `1.00x` |
 | Status | Unranked |
 | Incompatible mods ![][osu!] | [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)) |
 | Incompatible mods ![][osu!taiko] | [Swap (SW)](/wiki/Gameplay/Game_modifier/Swap) |
@@ -32,7 +33,7 @@ tags:
 :::
 
 ::: alert-note
-**Note:** For the osu!stable version of this article, see [Random (mod)](/wiki/Gameplay/Game_modifier/Random)
+**Note:** For the osu!(stable) version of this article, see [Random (mod)](/wiki/Gameplay/Game_modifier/Random)
 :::
 
 ::: alert-note
@@ -43,9 +44,9 @@ The **Random** mod intends to make gameplay more varied by randomising [beatmaps
 
 In osu!, Random places all [hit circles](/wiki/Gameplay/Hit_object/Hit_circle) and [sliders](/wiki/Gameplay/Hit_object/Slider) in arbitrary positions while always preserving the distance between two objects.
 
-In osu!taiko, Random assigns a random colour ([red or blue](/wiki/Gameplay/Hit_object/Hit)) to each note. [Drumrolls](/wiki/Gameplay/Hit_object/Drumroll) and [swells](/wiki/Gameplay/Hit_object/Swell) are not affected.
+In osu!taiko, Random assigns a random colour (red or blue) to each [note](/wiki/Gameplay/Hit_object/Hit). [Drumrolls](/wiki/Gameplay/Hit_object/Drumroll) and [swells](/wiki/Gameplay/Hit_object/Swell) are not affected.
 
-In osu!mania, Random moves all notes and [hold notes](/wiki/Beatmap/Pattern/osu!mania/Hold_note) to a random column.
+In osu!mania, Random moves all [notes](/wiki/Gameplay/Hit_object/Note) and [hold notes](/wiki/Gameplay/Hit_object/Hold_note) to a random column.
 
 ## Customisation
 

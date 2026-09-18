@@ -14,6 +14,8 @@ tags:
   - 模组列表
   - 个人预设
   - 自定义
+outdated_translation: true
+outdated_since: 7948b9f2ca3fe3533b6727d65cb9d514b5c82db7
 ---
 
 # 游戏模组 (lazer)
@@ -114,7 +116,7 @@ tags:
 
 #### 个人预设
 
-**个人预设**是一个独立的类别（位于**降低难度**左侧），玩家能够直接在此保存任何模组组合。所有个人预设都需要命名，并可以选填描述。每个游戏模式的个人预设列表相互独立。
+**个人预设**是一个独立的类别（位于`降低难度`左侧），玩家能够直接在此保存任何模组组合。所有个人预设都需要命名，并可以选填描述。每个游戏模式的个人预设列表相互独立。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

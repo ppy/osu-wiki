@@ -18,8 +18,6 @@ tags:
   - mods de teclas
   - mod del número de teclas
   - mods del número de teclas
-outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Mods de teclas (lazer)
@@ -30,7 +28,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 
 #### 1K, 2K, 3K, 4K, 5K, 6K, 7K, 8K, 9K, 10K
 
-![Icono del mod 7K](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/7K.png)
+![Icono del mod 7K](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/7K.png?1)
 
 *Juega con el \[número de teclas\] que quieras.*
 
@@ -47,11 +45,15 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 :::
 
 ::: alert-note
-**Nota:** Para la versión de osu!stable de este artículo, véase [xK (mod)](/wiki/Gameplay/Game_modifier/xK)
+**Nota:** Para la versión de osu!(stable) de este artículo, véase [xK (mod)](/wiki/Gameplay/Game_modifier/xK)
 :::
 
 ::: alert-note
 **Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
+
+Los **mods de teclas** le permiten al jugador cambiar el número de teclas en los [beatmaps](/wiki/Beatmap) de osu!mania, ofreciendo la posibilidad de elegir entre jugar con una o diez teclas. Ten en cuenta que estos mods solo funcionan en [converts](/wiki/Beatmap/Converts).
+
+**Estos mods no se pueden personalizar.**
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

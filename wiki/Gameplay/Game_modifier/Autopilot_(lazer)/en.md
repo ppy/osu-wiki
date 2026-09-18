@@ -13,7 +13,7 @@ tags:
 
 #### Autopilot
 
-![Autopilot mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AP.png)
+![Autopilot mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AP.png?1)
 
 *Automatic cursor movement - just follow the rhythm.*
 
@@ -30,7 +30,7 @@ tags:
 :::
 
 ::: alert-note
-**Note:** For the osu!stable version of this article, see [Autopilot (mod)](/wiki/Gameplay/Game_modifier/Autopilot)
+**Note:** For the osu!(stable) version of this article, see [Autopilot (mod)](/wiki/Gameplay/Game_modifier/Autopilot)
 :::
 
 ::: alert-note

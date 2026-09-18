@@ -2,8 +2,6 @@
 stub: true
 tags:
   - CS
-outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Constant Speed (mod)
@@ -14,7 +12,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 
 #### Constant Speed
 
-![Icono del mod Constant Speed](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/CS.png)
+![Icono del mod Constant Speed](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/CS.png?1)
 
 *¡Olvídate de los complicados cambios de velocidad!*
 
@@ -32,6 +30,10 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ::: alert-note
 **Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
+
+El mod **Constant Speed** simplifica los [beatmaps](/wiki/Beatmap) de osu!taiko y osu!mania al convertir cada sección a la misma velocidad de desplazamiento (ajustada por los mappers mediante la [velocidad de los sliders](/wiki/Gameplay/Hit_object/Slider/Slider_velocity)). Por lo tanto, solo se usa la velocidad base del beatmap para determinar la velocidad de desplazamiento.
+
+**Este mod no se puede personalizar.**
 
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

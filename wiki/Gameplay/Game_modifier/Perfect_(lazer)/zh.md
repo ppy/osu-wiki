@@ -12,7 +12,7 @@ tags:
 
 #### Perfect
 
-![Perfect 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/PF.png)
+![Perfect 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/PF.png?1)
 
 *不 SS，便失败。*
 
@@ -29,7 +29,7 @@ tags:
 :::
 
 ::: alert-note
-**注:** 对于该文章的 osu!stable 版本，请见：[Perfect（模组）](/wiki/Gameplay/Game_modifier/Perfect)
+**注:** 对于该文章的 osu!(stable) 版本，请见：[Perfect（模组）](/wiki/Gameplay/Game_modifier/Perfect)
 :::
 
 ::: alert-note
