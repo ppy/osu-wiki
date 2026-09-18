@@ -25,7 +25,7 @@ The **National Dutch Championship 2026** (***NDC 2026***) is a 1v1, double elimi
 
 ## Prizes
 
-The prize pool currently totals €1050 and will be divided as follows:
+The tournament offers a prize pool that currently totals €1050 and will be divided as follows:
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -35,7 +35,7 @@ The prize pool currently totals €1050 and will be divided as follows:
 | *4th place* | 7.5% (€78,75) |
 | *5th & 6th place* | 2.5% (€26,25) |
 
-The tournament and prize pool is sponsored by both the organisation and community members. Donators can choose how much of their donation they want to go to either the prize pool or improving the tournament series:
+Both the tournament and the prize pool are sponsored by the organisation and community members. Donators can choose how much of their donation they want to go to either the prize pool or improving the tournament series:
 
 - ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403): €500
 - ::{ flag=NL }:: [S O U R](https://osu.ppy.sh/users/4445948): €500
@@ -43,6 +43,7 @@ The tournament and prize pool is sponsored by both the organisation and communit
 - ::{ flag=NL }:: [Aimy](https://osu.ppy.sh/users/20348925): €350
 - ::{ flag=NL }:: [Timper](https://osu.ppy.sh/users/11955929): €200
 - ::{ flag=XX }:: Anonymous: €50
+- ::{ flag=NL }:: [Alphan](https://osu.ppy.sh/users/13298387): €30
 
 <!-- ![](img/badge.png "NDC 2026 winner badge") -->
 
@@ -64,7 +65,7 @@ The National Dutch Championship 2026 is run by various community members.
 
 ## Links
 
-- [Website](https://tourney.huismetbenen.nl/36)
+- **[Official website](https://tourney.huismetbenen.nl/36)**
 - [Forum post](https://osu.ppy.sh/community/forums/topics/2232832?n=1)
 - [Livestream A](https://twitch.tv/NDC_osu)
 - [Livestream B](https://twitch.tv/NDC_osu2)
@@ -114,6 +115,33 @@ The National Dutch Championship 2026 is run by various community members.
 | 38 | ::{ flag=NL }:: [eclipseeeeee_e](https://osu.ppy.sh/users/38970099) | #349759 | #3261 |
 
 ## Mappools
+
+### Quarterfinals
+
+**[Download the mappack here!](https://tourney.huismetbenen.nl/36/mappools/qf)**
+
+- No Mod
+  1. [Pierce The Veil - The First Punch (quantumvortex) [Extreme]](https://osu.ppy.sh/beatmapsets/2513202#osu/5540215)
+  2. [Cattle Decapitation - Your Disposal (nebuwua) [Dcs' Extra]](https://osu.ppy.sh/beatmapsets/1809193#osu/3903620)
+  3. [Abaraya - Kanashibari Ni Attara (PEALEERD_TAK) [tak's x]](https://osu.ppy.sh/beatmapsets/2489418#osu/5467651)
+  4. [onumi - ZERO-SEVEN (Cappu) [SAVE SATOKO]](https://osu.ppy.sh/beatmapsets/2206892#osu/4673006)
+  5. [Spongebob Squarewave - Free L-Town (Sped Up Ver.) (Silverboxer) [Peanut Butter Jelly Time]](https://osu.ppy.sh/beatmapsets/2400868#osu/5205913)
+  6. [Aethoro - Paradox Palette (Mir) [Painted Prism]](https://osu.ppy.sh/beatmapsets/2464948#osu/5395577)
+- Hidden
+  1. [Sangatsu no Phantasia - Seishun nante Iranaiwa (Smug Nanachi) [Adolescence]](https://osu.ppy.sh/beatmapsets/1146237#osu/2393405)
+  2. [Mutsuhiko Izumi - Tengoku to Jigoku (AJT) [ignore's Another]](https://osu.ppy.sh/beatmapsets/2476325#osu/5429456)
+  3. [vifiiy - ASTRiX* (324c) [\*\*\*\*\*]](https://osu.ppy.sh/beatmapsets/2620764#osu/5882295)
+- Hard Rock
+  1. [USAO - Night sky (Extended Mix) (Mir) [Constellations]](https://osu.ppy.sh/beatmapsets/2527984#osu/5585451)
+  2. [a_hisaxChicking - The Navigator's Hope (Rohit6) [Endurance of the Seafarer]](https://osu.ppy.sh/beatmapsets/439225#osu/945304)
+  3. [JYOCHO - Taiyou to Kurashite Kita (dsco) [Bloom]](https://osu.ppy.sh/beatmapsets/600881#osu/1269564)
+- Double Time
+  1. [Kalafina - sprinter (synderes) [nihility]](https://osu.ppy.sh/beatmapsets/1126545#osu/2353845)
+  2. [lapix - Toumei Shin'en feat. nayuta (Tolyan) [Collab Insane]](https://osu.ppy.sh/beatmapsets/2142708#osu/4511819)
+  3. [TatshMusicCircle - Raikou -3rd Desire- (Kite) [JJburst's Insane]](https://osu.ppy.sh/beatmapsets/143316#osu/2952473)
+  4. [Maksim Mrvica - Croatian Rhapsody (haha5957) [Vivace]](https://osu.ppy.sh/beatmapsets/54016#osu/170608)
+- Tiebreaker
+  1. [Pa's Lam System - Looooooop (pocket-) [relentlesssssss]](https://osu.ppy.sh/beatmapsets/1623348#osu/3314510)
 
 ### Round of 16
 
@@ -172,17 +200,55 @@ The National Dutch Championship 2026 is run by various community members.
   4. [polysha - More than Words (Azrulk) [Synchronized Iridescent]](https://osu.ppy.sh/beatmapsets/2290532#osu/4888924)
   5. [sasakure.UK - A.D.3039 no Hatena (BATBALL) [Progress]](https://osu.ppy.sh/beatmapsets/2117464#osu/4598262)
 - Hidden
-  1. [Kawada Mami - Going back to square one (cRyo[iceeicee]) [Insane]](https://osu.ppy.sh/beatmapsets/384975#osu/841064)
+  1. [Kawada Mami - Going back to square one (cRyo\[iceeicee\]) [Insane]](https://osu.ppy.sh/beatmapsets/384975#osu/841064)
   2. [Sylosis - Empty Prophets (Herazu) [Isolation]](https://osu.ppy.sh/beatmapsets/2182697#osu/4612002)
 - Hard Rock
   1. [otetsu feat. Megurine Luka - Minamo no Sakura, Yume wa Sakayume (ponbot) [Ephemeral]](https://osu.ppy.sh/beatmapsets/2494219#osu/5481382)
-  2. [BEMANI Sound Team "Sota Fujimori" - OZONE (milr_) [Expert]](https://osu.ppy.sh/beatmapsets/2023910#osu/4215734)
+  2. [BEMANI Sound Team "Sota Fujimori" - OZONE (milr\_) [Expert]](https://osu.ppy.sh/beatmapsets/2023910#osu/4215734)
 - Double Time
   1. [Tatsh feat. Sariyajin - FOUR SEASONS OF LONELINESS (ouranhshc) [gow's Lunatic]](https://osu.ppy.sh/beatmapsets/28342#osu/112158)
   2. [senya - Sakuretsu Irony (Satellite) [Satellite]](https://osu.ppy.sh/beatmapsets/2271602#osu/4838687)
   3. [Sheena Ringo - Yami ni Furu Ame (Beren) [ScubDomino's Insane]](https://osu.ppy.sh/beatmapsets/1649315#osu/3379930)
 
 ## Match results
+
+### Round of 16
+
+Monday, 14 September 2026:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Joeri ::{ flag=NL }:: | 1 | **5** | ::{ flag=NL }:: **walcart** | [#1](https://osu.ppy.sh/community/matches/121858923) |
+| Kyqn ::{ flag=NL }:: | 1 | **5** | ::{ flag=NL }:: **GeKa_Z** | [#1](https://osu.ppy.sh/community/matches/121858634) |
+
+Sunday, 13 September 2026:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **luciano** ::{ flag=NL }:: | **5** | 2 | ::{ flag=NL }:: cozyin| [#1](https://osu.ppy.sh/community/matches/121854743) |
+| **dracoria** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: Alphan| [#1](https://osu.ppy.sh/community/matches/121852998) |
+| **Burning John** ::{ flag=NL }:: | **5** | 1 | ::{ flag=NL }:: Goose King| [#1](https://osu.ppy.sh/community/matches/121852734) |
+| PotJohn Nutella ::{ flag=NL }:: | 3 | **5** | ::{ flag=NL }:: **Heavymetal4life**| [#1](https://osu.ppy.sh/community/matches/121852694) |
+| TheCoolJfp ::{ flag=NL }:: | 0 | **5** | ::{ flag=NL }:: **ghous**| [#1](https://osu.ppy.sh/community/matches/121852723) |
+| NeonCircles ::{ flag=NL }:: | 1 | **5** | ::{ flag=NL }:: **Wittepoes**| [#1](https://osu.ppy.sh/community/matches/121852684) |
+| **John ethken** ::{ flag=NL }:: | **0** | -1 | ::{ flag=NL }:: wessel_osu2 | *win by default* |
+
+Saturday, 12 September 2026:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| fuwmii ::{ flag=NL }:: | 1 | **5** | ::{ flag=NL }:: **wooz**| [#1](https://osu.ppy.sh/community/matches/121848263) |
+| **PotjeNutella** ::{ flag=NL }:: | **5** | 2 | ::{ flag=NL }:: olifanten| [#1](https://osu.ppy.sh/community/matches/121847902) |
+| Senyagi ::{ flag=NL }:: | -1 | **0** | ::{ flag=NL }:: **Eriror** | *win by default* |
+| **UC2** ::{ flag=NL }:: | **5** | 1 | ::{ flag=NL }:: Weeder| [#1](https://osu.ppy.sh/community/matches/121847519) |
+
+Friday, 11 September 2026:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Synchrostar ::{ flag=NL }:: | 2 | **5** | ::{ flag=NL }:: **Rozeolifant13**| [#1](https://osu.ppy.sh/community/matches/121841477) |
+| **Aheo** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: Pisslow| [#1](https://osu.ppy.sh/community/matches/121841140) |
+| Cootiezi ::{ flag=NL }:: | 3 | **5** | ::{ flag=NL }:: **-Wyren-**| [#1](https://osu.ppy.sh/community/matches/121840464) |
 
 ### Round of 32
 
@@ -242,16 +308,19 @@ Thursday, 3 September 2026:
 1. Qualifier lobbies will be managed by a bot and monitored by a human referee who can intervene when necessary.
 2. Lobbies can be started from 10:00-23:59 on Thursday until Sunday.
 3. Every map in the qualifier pool will be played once, map order can be decided by the player.
-4. Each map will award the player with points using the formula: Points = Player Score / Median Score.
+4. Each map will award the player with points using the formula: `Points = Player Score / Median Score`.
 5. The top 32 players by total points will advance to the Round of 32.
 
 ### Match procedure
 
 1. The referee will initiate rolls, where both players will `!roll` once. The highest roll chooses first or second ban. Whoever bans first also picks first.
-2. Bans and picks will alternate between players, with each player having 90 seconds for their pick/ban. If the timer runs out, the other player gets to choose that pick/ban. Keep in mind this does not change the pick/ban order. For example: Player 2's timer runs out, so Player 1 gets their pick instead. After this, Player 1 gets to pick again according to the original pick/ban order.
+2. Bans and picks will alternate between players, with each player having 90 seconds for their pick/ban.
+    - If the timer runs out, the other player gets to choose that pick/ban. Keep in mind this does not change the pick/ban order. For example: Player 2's timer runs out, so Player 1 gets their pick instead. After this, Player 1 gets to pick again according to the original pick/ban order.
 3. Each player can ban at most 2 maps of the same mod.
-4. Each player is allowed a 3-minute break per match. In case of a tiebreaker, players are allowed an additional 2-minute break.
-5. In case of a bracket reset, the second match allows for another set of warmups if preferred by the players. Timeout rules are also reset for this match, allowing each player another 3-minute break, and an additional 2-minute break in case of a tiebreaker.
+4. Each player is allowed a 3-minute break per match.
+    - In case of a tiebreaker, players are allowed an additional 2-minute break.
+5. In case of a bracket reset, the second match allows for another set of warmups if preferred by the players.
+    - Timeout rules are also reset for this match, allowing each player another 3-minute break, and an additional 2-minute break in case of a tiebreaker.
 
 ### Mappools
 
