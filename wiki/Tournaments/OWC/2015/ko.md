@@ -69,7 +69,7 @@ outdated_translation: true
 | F | Country name | Team |
 | :-: | :-: | :-- |
 | ::{ flag=MX }:: | **Mexico** | **::Broodich::{ user=2484629 }**, ::Id_Beat::{ user=3431380 }, ::Atheneon::{ user=2164627 }, ::lndex::{ user=2038320 }, ::Psycopath-::{ user=3233957 }, ::Eiikon::{ user=2553519 }, ::KevEz::{ user=2271558 }, ::Atsuro::{ user=2279351 } |
-| ::{ flag=MY }:: | **Malaysia** | **::ClawViper::{ user=2681361 }**, ::xsrsbsns::{ user=414427 }, ::Gon::{ user=583765 }, [Rumia-](https://osu.ppy.sh/users/1787171 "Rumia-"), ::Ex6TenZ::{ user=2676512 }, ::caleb123456::{ user=2205376 }, ::Rampax::{ user=3995630 }, ::Amane-::{ user=2276847 } |
+| ::{ flag=MY }:: | **Malaysia** | **::ClawViper::{ user=2681361 }**, ::xsrsbsns::{ user=414427 }, ::Gon::{ user=583765 }, ::Rumia-::{ user=1787171 }, ::Ex6TenZ::{ user=2676512 }, ::caleb123456::{ user=2205376 }, ::Rampax::{ user=3995630 }, ::Amane-::{ user=2276847 } |
 | ::{ flag=AU }:: | **Australia** | **::Bauxe::{ user=1881685 }**, ::Tokichii::{ user=557197 }, ::JappyBabes::{ user=697783 }, ::Meowt3dCheeze::{ user=634837 }, ::[ ZhengS ]::{ user=2671317 }, ::Hexicate::{ user=2171562 }, ::Jaybladezz::{ user=3725492 }, ::Aloha::{ user=792176 } |
 | ::{ flag=US }:: | **United States** | **::Xilver::{ user=3099689 }**, ::Natalia::{ user=2162669 }, ::Axarious::{ user=2614511 }, ::Ritzeh::{ user=1028387 }, ::Seouless::{ user=3328676 }, ::0120::{ user=1901534 }, ::Zodiaack::{ user=3096229 }, ::[Toy]::{ user=2757689 } |
 
@@ -78,7 +78,7 @@ outdated_translation: true
 | F | Country name | Team |
 | :-: | :-: | :-- |
 | ::{ flag=IT }:: | **Italy** | **::xiAmME::{ user=1428960 }**, ::Nemis::{ user=1635091 }, ::Kirin::{ user=1852356 }, ::DT-sama::{ user=3525018 }, ::- Croma -::{ user=1752181 }, ::Gian::{ user=2105981 }, ::LLoyd-chan::{ user=2849149 }, ::umii::{ user=2538695 } |
-| ::{ flag=LT }:: | **Lithuania** | **::QonQuest::{ user=988503 }**, ::Mazzerin::{ user=2942381 }, ::Auji::{ user=4114438 }, ::PainSinger::{ user=697843 }, ::Zinkon::{ user=85043 }, [Shelbis](https://osu.ppy.sh/users/2639159 "Shelbis"), ::Midget::{ user=4141635 }, ::Azerite::{ user=2562987 } |
+| ::{ flag=LT }:: | **Lithuania** | **::QonQuest::{ user=988503 }**, ::Mazzerin::{ user=2942381 }, ::Auji::{ user=4114438 }, ::PainSinger::{ user=697843 }, ::Zinkon::{ user=85043 }, ::Shelbis::{ user=2639159 }, ::Midget::{ user=4141635 }, ::Azerite::{ user=2562987 } |
 | ::{ flag=HK }:: | **Hong Kong** | **::- G I D Z -::{ user=2286528 }**, ::Chaoslitz::{ user=3621552 }, ::shAe1eck::{ user=1553672 }, ::MinG3012::{ user=1583218 }, ::-N a n a k o-::{ user=1407516 }, ::clp012345::{ user=126144 } |
 | ::{ flag=FR }:: | **France** | **::Musty::{ user=251683 }**, ::NerO::{ user=1545031 }, ::Elysion::{ user=106269 }, ::Kynan::{ user=1093361 }, ::mrzomb::{ user=1694887 }, ::filsdelama::{ user=2831793 }, ::Shapy::{ user=2705769 }, ::FayeurS::{ user=3105416 } |
 
@@ -89,7 +89,7 @@ outdated_translation: true
 | ::{ flag=UA }:: | **Ukraine** | **::Aka::{ user=1307553 }**, ::wasisdasS::{ user=1999698 }, ::FllareA::{ user=1163931 }, ::Granje::{ user=496387 }, ::-Ranndom-::{ user=5022536 }, ::Yoru-hide::{ user=791121 }, ::blednak::{ user=912627 } |
 | ::{ flag=LV }:: | **Latvia** | **::LoGo::{ user=750382 }**, ::Forseen::{ user=556012 }, ::Emula::{ user=2891792 }, ::Vmx::{ user=967501 }, ::Jesus[Krists]::{ user=2842992 }, ::Edijs::{ user=2799835 }, ::xoho::{ user=3647897 } |
 | ::{ flag=CA }:: | **Canada** | **::TrickMirror::{ user=2138739 }**, ::Azer::{ user=2155578 }, ::Bowlglet::{ user=622485 }, ::Xenbo::{ user=1895489 }, ::Ciao::{ user=2674642 }, ::MiruHong::{ user=2866814 }, ::Ignite::{ user=3122948 }, ::Shina Kokomi::{ user=980956 } |
-| ::{ flag=PL }:: | **Poland** | **::Wilchq::{ user=2021758 }**, ::Rafis::{ user=2558286 }, ::WubWoofWolf::{ user=39828 }, ::AmaiHachimitsu::{ user=844815 }, ::r0ck::{ user=1549620 }, [fartownik](https://osu.ppy.sh/users/56917 "fartownik"), ::SpajdeR::{ user=3446664 }, ::Lucid Astray::{ user=1773225 } |
+| ::{ flag=PL }:: | **Poland** | **::Wilchq::{ user=2021758 }**, ::Rafis::{ user=2558286 }, ::WubWoofWolf::{ user=39828 }, ::AmaiHachimitsu::{ user=844815 }, ::r0ck::{ user=1549620 }, ::fartownik::{ user=56917 }, ::SpajdeR::{ user=3446664 }, ::Lucid Astray::{ user=1773225 } |
 
 ### Group D
 
@@ -107,7 +107,7 @@ outdated_translation: true
 | ::{ flag=NZ }:: | **New Zealand** | **::shortpotato::{ user=1266102 }**, ::kiyumi::{ user=3701898 }, ::a loli::{ user=1488796 }, ::momochan::{ user=4827310 }, ::[ Pustules ]::{ user=2419478 }, ::Tang::{ user=2162609 }, ::yellowy246::{ user=3833980 }, ::Grimacee::{ user=2352484 } |
 | ::{ flag=AR }:: | **Argentina** | **::GaTu::{ user=3583351 }**, ::Enhu::{ user=2840499 }, ::Graphite Edge::{ user=825712 }, ::benjacala::{ user=1625740 }, ::Fr0th::{ user=3458870 }, ::Peingod::{ user=2212941 }, ::chucentry::{ user=2498731 }, ::Dreamcast::{ user=1565577 } |
 | ::{ flag=FI }:: | **Finland** | **::Sanze::{ user=3110552 }**, ::isokasapupuja::{ user=1770462 }, ::huono_tuuri::{ user=1432954 }, ::Poofie::{ user=3517198 }, ::nycto::{ user=2867764 }, ::Hyppyri::{ user=3123423 }, ::Winner::{ user=3437263 }, ::Incera::{ user=2159415 } |
-| ::{ flag=KR }:: | **South Korea** | **::Neta::{ user=832084 }**, ::Cinia Pacifica::{ user=1414625 }, ::[Chiyo]::{ user=2000416 }, [- Hakurei Reimu-](https://osu.ppy.sh/users/948713 "- Hakurei Reimu-"), ::Meltina::{ user=946990 }, ::Enon::{ user=2043401 }, ::Gomo Pslvarh::{ user=1206417 }, ::eoehd1ek::{ user=3938876 } |
+| ::{ flag=KR }:: | **South Korea** | **::Neta::{ user=832084 }**, ::Cinia Pacifica::{ user=1414625 }, ::[Chiyo]::{ user=2000416 }, ::- Hakurei Reimu-::{ user=948713 }, ::Meltina::{ user=946990 }, ::Enon::{ user=2043401 }, ::Gomo Pslvarh::{ user=1206417 }, ::eoehd1ek::{ user=3938876 } |
 
 ### Group F
 
@@ -123,7 +123,7 @@ outdated_translation: true
 | F | Country name | Team |
 | :-: | :-: | :-- |
 | ::{ flag=SG }:: | **Singapore** | **::plaatinum::{ user=3385566 }**, ::GSBlank::{ user=2312106 }, ::Rtyzen::{ user=2439822 }, ::oneplusone::{ user=1843447 }, ::Clyine::{ user=1275211 }, ::jcjc::{ user=1200275 }, ::-LeeP-::{ user=1143744 }, ::Tatch::{ user=2390650 } |
-| ::{ flag=TH }:: | **Thailand** | **::FrostxE::{ user=199669 }**, ::- Phantasma -::{ user=1427407 }, ::bossm::{ user=654123 }, [Mikkuri](https://osu.ppy.sh/users/317494 "Mikkuri"), ::NonxE::{ user=319312 }, ::Romantic::{ user=1592894 } |
+| ::{ flag=TH }:: | **Thailand** | **::FrostxE::{ user=199669 }**, ::- Phantasma -::{ user=1427407 }, ::bossm::{ user=654123 }, ::Mikkuri::{ user=317494 }, ::NonxE::{ user=319312 }, ::Romantic::{ user=1592894 } |
 | ::{ flag=NL }:: | **Netherlands** | **::taku::{ user=684433 }**, ::jackylam5::{ user=1540807 }, ::Pittigbaasje::{ user=2167433 }, ::HappyStick::{ user=256802 }, ::Synchrostar::{ user=419705 }, ::Chidori::{ user=5258565 }, ::Menthuthuyoupi::{ user=2715937 }, ::Kyshiro::{ user=640611 } |
 | ::{ flag=DE }:: | **Germany** | **::Dustice::{ user=754565 }**, ::BDDav::{ user=1164526 }, ::Neliel::{ user=1500305 }, ::Beafowl::{ user=2438122 }, ::Jonimay::{ user=1118341 }, ::TobiGH3::{ user=3341040 }, ::W3SON::{ user=2070822 }, ::cptnXn::{ user=495272 } |
 
@@ -134,7 +134,7 @@ outdated_translation: true
 | ::{ flag=PT }:: | **Portugal** | **::kek::{ user=2148013 }**, ::Osama::{ user=799218 }, ::Mizuru::{ user=4495871 }, ::AA00AA::{ user=2928612 }, ::Zenden::{ user=3070694 }, ::PedroLipton::{ user=3272012 } |
 | ::{ flag=SE }:: | **Sweden** | **::Xytox::{ user=2229274 }**, ::Slizzer::{ user=809983 }, ::SnickarN::{ user=3258429 }, ::AntoN::{ user=2538562 }, ::Bubba::{ user=2330524 }, ::IVo one::{ user=3623465 }, ::Sebbe::{ user=3181965 }, ::Xiniox::{ user=5233691 } |
 | ::{ flag=AT }:: | **Austria** | **::Fedora Goose::{ user=2323131 }**, ::Omgforz::{ user=578943 }, ::Alumetorz::{ user=1145984 }, ::BlueFlame::{ user=3506191 }, ::Shirone::{ user=1426098 }, ::Elscar::{ user=2253511 }, ::Hakkero::{ user=177913 }, ::skritsch::{ user=3323141 } |
-| ::{ flag=TW }:: | **Taiwan** | **::Rucker::{ user=147515 }**, ::hvick225::{ user=50265 }, ::Small K::{ user=952751 }, ::YuyuKo sama::{ user=234788 }, ::Uan::{ user=147623 }, [dabanlong](https://osu.ppy.sh/users/624254 "dabanlong"), ::zxxzxxz::{ user=1646474 }, ::RedLeaf::{ user=2703742 } |
+| ::{ flag=TW }:: | **Taiwan** | **::Rucker::{ user=147515 }**, ::hvick225::{ user=50265 }, ::Small K::{ user=952751 }, ::YuyuKo sama::{ user=234788 }, ::Uan::{ user=147623 }, ::dabanlong::{ user=624254 }, ::zxxzxxz::{ user=1646474 }, ::RedLeaf::{ user=2703742 } |
 
 ## 맵풀
 
