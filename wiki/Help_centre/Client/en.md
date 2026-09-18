@@ -145,7 +145,7 @@ To safely force your beatmap database to be recreated, try the following steps:
 
 ::: alert-notice
 **Notice**
-a fix for this was added in [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) dated 2021-05-19. If you happen to still encounter this issue, please [let us know](https://github.com/ppy/osu-stable-issues/issues).
+A fix for this was added in [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) dated 2021-05-19. If you happen to still encounter this issue, please [let us know](https://github.com/ppy/osu-stable-issues/issues).
 :::
 
 ### My song list keeps scrolling! {id=songs-list-scrolling}

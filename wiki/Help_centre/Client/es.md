@@ -162,7 +162,7 @@ Para forzar de forma segura la recreación de tu base de datos de los beatmaps, 
 
 ::: alert-notice
 **Aviso**
-se añadió una corrección para esto en [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) el 19 de mayo de 2021. Si sigues teniendo este problema, [háznoslo saber](https://github.com/ppy/osu-stable-issues/issues).
+Se añadió una corrección para esto en [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) el 19 de mayo de 2021. Si sigues teniendo este problema, [háznoslo saber](https://github.com/ppy/osu-stable-issues/issues).
 :::
 
 ### ¡Mi lista de canciones no para de moverse! {id=songs-list-scrolling}

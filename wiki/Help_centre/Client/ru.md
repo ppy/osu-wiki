@@ -169,7 +169,7 @@ osu! обычно обновляется самостоятельно, но ин
 
 ::: alert-notice
 **Внимание**
-эта проблема исправлена в версии [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3), вышедшей 19 мая 2021 г. Если карты пропадают в более новой версии osu!, [сообщите нам об этом](https://github.com/ppy/osu-stable-issues/issues).
+Эта проблема исправлена в версии [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3), вышедшей 19 мая 2021 г. Если карты пропадают в более новой версии osu!, [сообщите нам об этом](https://github.com/ppy/osu-stable-issues/issues).
 :::
 
 ### Список карт постоянно пролистывается {id=songs-list-scrolling}

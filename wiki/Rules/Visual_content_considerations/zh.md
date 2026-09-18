@@ -52,7 +52,7 @@ tags:
 ## 获取图像评估
 
 ::: alert-note
-**参见：** [内容投票流程](/wiki/Rules/Content_voting_process)。
+**参见：** [内容投票流程](/wiki/Rules/Content_voting_process)
 :::
 
 在谱面之外的任何地方使用的图像（头像、个人资料封面、用户页面等）**不**受以下解释的投票程序的约束，并且可以由[全局管理团队 (GMT)](/wiki/People/Global_Moderation_Team) 随时自行决定删除。
