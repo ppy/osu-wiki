@@ -225,30 +225,30 @@ Sunday, 13 September 2026:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **luciano** ::{ flag=NL }:: | **5** | 2 | ::{ flag=NL }:: cozyin| [#1](https://osu.ppy.sh/community/matches/121854743) |
-| **dracoria** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: Alphan| [#1](https://osu.ppy.sh/community/matches/121852998) |
-| **Burning John** ::{ flag=NL }:: | **5** | 1 | ::{ flag=NL }:: Goose King| [#1](https://osu.ppy.sh/community/matches/121852734) |
-| PotJohn Nutella ::{ flag=NL }:: | 3 | **5** | ::{ flag=NL }:: **Heavymetal4life**| [#1](https://osu.ppy.sh/community/matches/121852694) |
-| TheCoolJfp ::{ flag=NL }:: | 0 | **5** | ::{ flag=NL }:: **ghous**| [#1](https://osu.ppy.sh/community/matches/121852723) |
-| NeonCircles ::{ flag=NL }:: | 1 | **5** | ::{ flag=NL }:: **Wittepoes**| [#1](https://osu.ppy.sh/community/matches/121852684) |
+| **luciano** ::{ flag=NL }:: | **5** | 2 | ::{ flag=NL }:: cozyin | [#1](https://osu.ppy.sh/community/matches/121854743) |
+| **dracoria** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: Alphan | [#1](https://osu.ppy.sh/community/matches/121852998) |
+| **Burning John** ::{ flag=NL }:: | **5** | 1 | ::{ flag=NL }:: Goose King | [#1](https://osu.ppy.sh/community/matches/121852734) |
+| PotJohn Nutella ::{ flag=NL }:: | 3 | **5** | ::{ flag=NL }:: **Heavymetal4life** | [#1](https://osu.ppy.sh/community/matches/121852694) |
+| TheCoolJfp ::{ flag=NL }:: | 0 | **5** | ::{ flag=NL }:: **ghous** | [#1](https://osu.ppy.sh/community/matches/121852723) |
+| NeonCircles ::{ flag=NL }:: | 1 | **5** | ::{ flag=NL }:: **Wittepoes** | [#1](https://osu.ppy.sh/community/matches/121852684) |
 | **John ethken** ::{ flag=NL }:: | **0** | -1 | ::{ flag=NL }:: wessel_osu2 | *win by default* |
 
 Saturday, 12 September 2026:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| fuwmii ::{ flag=NL }:: | 1 | **5** | ::{ flag=NL }:: **wooz**| [#1](https://osu.ppy.sh/community/matches/121848263) |
-| **PotjeNutella** ::{ flag=NL }:: | **5** | 2 | ::{ flag=NL }:: olifanten| [#1](https://osu.ppy.sh/community/matches/121847902) |
+| fuwmii ::{ flag=NL }:: | 1 | **5** | ::{ flag=NL }:: **wooz** | [#1](https://osu.ppy.sh/community/matches/121848263) |
+| **PotjeNutella** ::{ flag=NL }:: | **5** | 2 | ::{ flag=NL }:: olifanten | [#1](https://osu.ppy.sh/community/matches/121847902) |
 | Senyagi ::{ flag=NL }:: | -1 | **0** | ::{ flag=NL }:: **Eriror** | *win by default* |
-| **UC2** ::{ flag=NL }:: | **5** | 1 | ::{ flag=NL }:: Weeder| [#1](https://osu.ppy.sh/community/matches/121847519) |
+| **UC2** ::{ flag=NL }:: | **5** | 1 | ::{ flag=NL }:: Weeder | [#1](https://osu.ppy.sh/community/matches/121847519) |
 
 Friday, 11 September 2026:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Synchrostar ::{ flag=NL }:: | 2 | **5** | ::{ flag=NL }:: **Rozeolifant13**| [#1](https://osu.ppy.sh/community/matches/121841477) |
-| **Aheo** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: Pisslow| [#1](https://osu.ppy.sh/community/matches/121841140) |
-| Cootiezi ::{ flag=NL }:: | 3 | **5** | ::{ flag=NL }:: **-Wyren-**| [#1](https://osu.ppy.sh/community/matches/121840464) |
+| Synchrostar ::{ flag=NL }:: | 2 | **5** | ::{ flag=NL }:: **Rozeolifant13** | [#1](https://osu.ppy.sh/community/matches/121841477) |
+| **Aheo** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: Pisslow | [#1](https://osu.ppy.sh/community/matches/121841140) |
+| Cootiezi ::{ flag=NL }:: | 3 | **5** | ::{ flag=NL }:: **-Wyren-** | [#1](https://osu.ppy.sh/community/matches/121840464) |
 
 ### Round of 32
 
@@ -315,12 +315,12 @@ Thursday, 3 September 2026:
 
 1. The referee will initiate rolls, where both players will `!roll` once. The highest roll chooses first or second ban. Whoever bans first also picks first.
 2. Bans and picks will alternate between players, with each player having 90 seconds for their pick/ban.
-    - If the timer runs out, the other player gets to choose that pick/ban. Keep in mind this does not change the pick/ban order. For example: Player 2's timer runs out, so Player 1 gets their pick instead. After this, Player 1 gets to pick again according to the original pick/ban order.
+   - If the timer runs out, the other player gets to choose that pick/ban. Keep in mind this does not change the pick/ban order. For example: Player 2's timer runs out, so Player 1 gets their pick instead. After this, Player 1 gets to pick again according to the original pick/ban order.
 3. Each player can ban at most 2 maps of the same mod.
 4. Each player is allowed a 3-minute break per match.
-    - In case of a tiebreaker, players are allowed an additional 2-minute break.
+   - In case of a tiebreaker, players are allowed an additional 2-minute break.
 5. In case of a bracket reset, the second match allows for another set of warmups if preferred by the players.
-    - Timeout rules are also reset for this match, allowing each player another 3-minute break, and an additional 2-minute break in case of a tiebreaker.
+   - Timeout rules are also reset for this match, allowing each player another 3-minute break, and an additional 2-minute break in case of a tiebreaker.
 
 ### Mappools
 
