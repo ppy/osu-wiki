@@ -170,28 +170,28 @@ This competition has come to an end and resulted in the following podium:
 
 Sunday, 6 September 2009:
 
-| Team 1 |  |  | Team 2 |
-| --: | :-: | :-: | :-- |
+| Team 1 |  |  | Team 2 | Notes |
+| --: | :-: | :-: | :-- |  |
 | Lubimy Ponczgi! | 1 | **3** | **Animalz D:** |
 
 ### Semifinals
 
-| Team 1 |  |  | Team 2 |
-| --: | :-: | :-: | :-- |
+| Team 1 |  |  | Team 2 | Notes |
+| --: | :-: | :-: | :-- |  |
 | MINMIrox | ? | **3** | **Lubimy Ponczgi!** |
 
 ### Round 3
 
-| Team 1 |  |  | Team 2 |  |
-| --: | :-: | :-: | :-- | :-- |
-| fagboat | 0 | **2** | **MINMIrox** | *disqualified* |
+| Team 1 |  |  | Team 2 | Notes |
+| --: | :-: | :-: | :-- |  |
+| fagboat | -1 | **2** | **MINMIrox** | *disqualified* |
 | two noobs | 1 | **2** | **Lubimy Ponczgi!** |
 | Let's rock | 1 | **2** | **Animalz D:** |
 
 ### Round 2
 
-| Team 1 |  |  | Team 2 |  |
-| --: | :-: | :-: | :-- | :-- |
+| Team 1 |  |  | Team 2 | Notes |
+| --: | :-: | :-: | :-- |  |
 | Does it matter? | 1 | **2** | **fagboat** |
 | huge cocks | 0 | **2** | **MINMIrox** | *disqualified* |
 | Asskickers! | 0 | **2** | **two noobs** |
@@ -201,8 +201,8 @@ Sunday, 6 September 2009:
 
 ### Round 1
 
-| Team 1 |  |  | Team 2 |  |
-| --: | :-: | :-: | :-- | :-- |
+| Team 1 |  |  | Team 2 | Notes |
+| --: | :-: | :-: | :-- |  |
 | **Does it matter?** | **2** | 1 | Less QQ more PEWPEW |
 | **fagboat** | **2** | 0 | Mlekołaki |
 | **huge cocks** | **2** | 1 | Banchobag |
