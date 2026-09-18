@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 16e65eec08567f086caf6e797c4d180c4868c5ec
----
-
 # Torneos
 
 Sección dedicada para torneos de osu!. Los torneos tienen su foro dedicado que puede encontrarse [a través de este enlace](https://osu.ppy.sh/community/forums/55).
@@ -293,6 +288,21 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | Mirai. osu! Winter Festival 2017/2018 | 5/10/2017 | 24/2/2018 | :thonking: | Decay II | FX\_POWER |
 | Mirai. Idol Tournament 2019 | 1/4/2019 | 21/5/2019 | Drift% | MAC901 | Traitorpulse |
 | [Mirai. Tournament 2020](Mirai/2020) | 6/4/2020 | 23/6/2020 | Norank MaMa <3 U | Uprankers | Salted\_Fish |
+
+#### [National Dutch Championship](NDC)
+
+| Nombre | Inicio | Final | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Dutch osu! Cup 2017 | 11/3/2017 | 07/5/2017 | [Lazer](https://osu.ppy.sh/users/1799925) | [Yura Rin](https://osu.ppy.sh/users/2574658) | [Pittigbaasje](https://osu.ppy.sh/users/2167433) |
+| Dutch osu! Cup 2018 | 10/3/2018 | 13/5/2018 | [jackylam5](https://osu.ppy.sh/users/1540807) | [Viveliam](https://osu.ppy.sh/users/3506793) | [Damnjelly](https://osu.ppy.sh/users/1666355) |
+| Dutch osu! Cup 2019 | 20/2/2019 | 5/5/2019 | [Lilily](https://osu.ppy.sh/users/6502403) | [Skyrovania](https://osu.ppy.sh/users/4696315) | [Yura Rin](https://osu.ppy.sh/users/2574658) |
+| Dutch osu! Cup 2020 | 12/4/2020 | 3/5/2020 | [Viveliam](https://osu.ppy.sh/users/3506793) | [Skyrovania](https://osu.ppy.sh/users/4696315) | [sunui](https://osu.ppy.sh/users/3065571) |
+| Dutch osu! Cup 2021 | 1/3/2021 | 9/5/2021 | [Skyrovania](https://osu.ppy.sh/users/4696315) | [Viveliam](https://osu.ppy.sh/users/3506793) | [Kushper](https://osu.ppy.sh/users/4832514) |
+| [National Dutch Championship 2022](NDC/2022) | 13/12/2021 | 27/2/2022 | [Viveliam](https://osu.ppy.sh/users/3506793) | [Lilily](https://osu.ppy.sh/users/6502403) | [Skyrovania](https://osu.ppy.sh/users/4696315) |
+| [National Dutch Championship 2023](NDC/2023) | 8/1/2023 | 12/3/2023 | [Lilily](https://osu.ppy.sh/users/6502403) | [Burning John](https://osu.ppy.sh/users/6744123) | [luciano](https://osu.ppy.sh/users/11604978) |
+| [National Dutch Championship 2024](NDC/2024) | 5/8/2024 | 13/10/2024 | [Aheo](https://osu.ppy.sh/users/14919428) | [Burning John](https://osu.ppy.sh/users/6744123) | [luciano](https://osu.ppy.sh/users/11604978) |
+| [National Dutch Championship 2025](NDC/2025) | 9/8/2025 | 12/10/2025 | [Aheo](https://osu.ppy.sh/users/14919428) | [Tutel](https://osu.ppy.sh/users/12241010) | [John ethken](https://osu.ppy.sh/users/641155) |
+| [National Dutch Championship 2026](NDC/2026) | 8/8/2026 | 12/10/2026 | TBD | TBD | TBD |
 
 #### [nik's Tournaments](NT)
 
