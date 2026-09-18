@@ -37,7 +37,10 @@ Si vous pensez avoir été injustement réduit au silence, contactez [l'équipe 
 
 ## Raisons courantes des silences
 
-*Attention : Adopter un "comportement inapproprié" dans les messages privés n'est pas contraire aux règles, à moins que le comportement inapproprié ne soit transmis à des destinataires non consentants ou inconscients. En cas de signalement, des sanctions appropriées seront prises.*
+::: alert-caution
+**Attention**
+Adopter un "comportement inapproprié" dans les messages privés n'est pas contraire aux règles, à moins que le comportement inapproprié ne soit transmis à des destinataires non consentants ou inconscients. En cas de signalement, des sanctions appropriées seront prises.
+:::
 
 - Comportement inapproprié dans les tchats ou forums publics (par exemple, `#multiplayer`, discussions sur les beatmaps, commentaires, etc.), y compris, mais sans s'y limiter, le spamming, les discussions absurdes, le racisme, etc.
 - Télécharger ou publier du contenu inapproprié par d'autres moyens (par exemple, avatars de profil, envois des beatmap, détails de profil, bio de page d'utilisateur, bannière, etc.).

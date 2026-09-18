@@ -23,7 +23,9 @@ tags:
 
 ## Установка {id=installation}
 
-*Основная статья: [Установка](/wiki/Client/Installation)*
+::: alert-note
+**Основная статья:** [Установка](/wiki/Client/Installation)
+:::[Установка](/wiki/Client/Installation)
 
 ### Как установить osu!? {id=download}
 
@@ -33,7 +35,9 @@ tags:
 
 ## Регистрация {id=registration}
 
-*Основная статья: [Регистрация](/wiki/Registration)*
+::: alert-note
+**Основная статья:** [Регистрация](/wiki/Registration)
+:::[Регистрация](/wiki/Registration)
 
 ### Как мне зарегистрироваться в osu?! {id=how-to-register}
 

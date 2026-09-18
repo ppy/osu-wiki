@@ -14,7 +14,9 @@ tags:
 
 # Website
 
-*Main page: [Help centre](/wiki/Help_centre)*
+::: alert-note
+**Main page:** [Help centre](/wiki/Help_centre)
+:::
 
 This section is dedicated to issues with the osu! website.
 

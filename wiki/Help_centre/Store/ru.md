@@ -19,7 +19,9 @@ tags:
 
 # Магазин osu!store и мерч
 
-*Основная статья: [Справочный центр](/wiki/Help_centre)*\
+::: alert-note
+**Основная статья:** [Справочный центр](/wiki/Help_centre)
+:::[Справочный центр](/wiki/Help_centre)
 *О решении проблем с продуктами, которые больше не продаются, см. [Архив osu!store](/wiki/Help_centre/Store/Store_archive).*
 
 Эта статья относится только к продуктам, купленным через [osu!store](https://osu.ppy.sh/store/listing).
