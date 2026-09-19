@@ -141,7 +141,7 @@ osu!catch recibió un reinicio completo de la clasificación global el 7 de dici
 | ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 21/7/2026 | 27/8/2026 | [\[1\]](https://web.archive.org/web/20260721170106/https://osu.ppy.sh/rankings/fruits/global/performance) [\[2\]](https://www.reddit.com/r/osugame/comments/1v25lkm/motion_returns_to_1_in_ctb/) |
 | ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | 27/8/2026 | 14/9/2026 | [\[1\]](https://web.archive.org/web/20260831205135/https://osu.ppy.sh/rankings/fruits/global/performance) |
 | ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 14/9/2026 | 15/9/2026 | [\[1\]](https://www.reddit.com/r/osugame/comments/1wfqh0b/osucatch_qwhj79_redside_feat_hatsune_miku/) [\[2\]](https://osu.ppy.sh/scores/7476629017) |
-| ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | 15/9/2026 | Presente | [\[1\]](https://osu.ppy.sh/scores/7483422941) |
+| ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | 15/9/2026 | Presente | [\[1\]](https://web.archive.org/web/20260919163239/https://osu.ppy.sh/rankings/fruits/global/performance) [\[2\]](https://osu.ppy.sh/scores/7483422941) |
 
 ## Número de reinados
 
