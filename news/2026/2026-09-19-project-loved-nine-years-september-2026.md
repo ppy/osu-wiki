@@ -84,7 +84,7 @@ For our 9th anniversary, follow me into our little Project Loved time machine an
 
 [Frakturehawkens'](https://osu.ppy.sh/users/7458583) [-45 - Midorigo Queen Bee](https://osu.ppy.sh/beatmapsets/1126144#osu) is loved by many for its modern take on the beloved Umineko song. Compared to [Natteke's](https://osu.ppy.sh/users/157177) [classic map](https://osu.ppy.sh/beatmapsets/38235#osu/124321) of the same song from 2011, [Frakturehawkens'](https://osu.ppy.sh/users/7458583) take shows how much mapping has grown over the past decade. This map uses many split-stream aim-control patterns and incorporates slider tech with delicately adjusted slider velocities to reflect the song's intensity, not to mention the breathtaking object patterning throughout.
 
-This will mark [Frakturehawkens'](https://osu.ppy.sh/users/7458583) first-ever Loved map. If you loved playing this map, please vote \*\*YES\*\*!!
+This will mark [Frakturehawkens'](https://osu.ppy.sh/users/7458583) first-ever Loved map. If you loved playing this map, please vote **YES**!!
 
 This map is also a tribute to [EijiKuinbii](https://osu.ppy.sh/users/6270995), may they rest in peace. The osu! community remembers you.
 
@@ -371,7 +371,7 @@ The top difficulty was featured in many tournaments, starting from [osu!catch In
 
 If you are familiar with multiplayer lobbies in osu!catch, you probably also know [Rocma's difficulty](https://osu.ppy.sh/beatmapsets/1753057#fruits/3594551), which is popular among high-end players because of its creative slider emphasis, 1/8 stacks and 1/16 doubles. Some people consider this difficulty harder than the top difficulty, mostly because of the tight spacing during the intense sections, which can be extremely punishing.
 
-[Nosuri\[/url and \[url=https://osu.ppy.sh/beatmapsets/1753057#fruits/3595056\]Kukkai's](https://osu.ppy.sh/beatmapsets/1753057#fruits/3625504) difficulties are aimed at players who are struggling with the previously described difficulties. While Nosuri's difficulty might be a good introduction to mechanical patterns without requiring as much speed, Kukkai's difficulty has a lot of flow instead, which is very unique for the whole set and very friendly to play for the majority of the community.
+[Nosuri](https://osu.ppy.sh/beatmapsets/1753057#fruits/3625504) and [Kukkai's](https://osu.ppy.sh/beatmapsets/1753057#fruits/3595056) difficulties are aimed at players who are struggling with the previously described difficulties. While Nosuri's difficulty might be a good introduction to mechanical patterns without requiring as much speed, Kukkai's difficulty has a lot of flow instead, which is very unique for the whole set and very friendly to play for the majority of the community.
 
 If you want to compete with others on this known mapset, don't forget to vote YES.
 
