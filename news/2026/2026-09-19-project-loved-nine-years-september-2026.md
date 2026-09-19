@@ -9,7 +9,7 @@ Can you believe it? 9 years of Project Loved!
 
 ![](/wiki/shared/news/banners/project-loved-2.jpg)
 
-9 years ago, led by the pioneer [Toy](https://osu.ppy.sh/users/2757689), the current version of Loved materialized for the first time in the form of [Project Loved / Captain's Pick](https://osu.ppy.sh/home/news/2017-09-25-introducing-the-loved-captains-pick). It was a brave new world of leaderboarded maps that has survived until now — and is still going strong!  
+9 years ago, led by the pioneer [Toy](https://osu.ppy.sh/users/2757689), the current version of Loved materialised for the first time in the form of [Project Loved / Captain's Pick](https://osu.ppy.sh/home/news/2017-09-25-introducing-the-loved-captains-pick). It was a brave new world of leaderboarded maps that has survived until now — and is still going strong!  
 
 Did you quit exactly 9 years and 1 day ago, and are just coming back? No problem! Here's what this is about: Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All of the maps are chosen by the [Loved captains](https://loved.sh/team) of their respective game modes. Each beatmap banner in this news post will redirect you to the respective poll. Alternatively you can view them all directly on the [Project Loved forum](https://osu.ppy.sh/community/forums/120). The voting process lasts for 10 days, so don't forget to vote! More info can be found on the [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/).
 
