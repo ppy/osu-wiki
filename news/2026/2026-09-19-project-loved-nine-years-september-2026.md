@@ -13,6 +13,8 @@ Can you believe it? 9 years of Project Loved!
 
 Did you quit exactly 9 years and 1 day ago, and are just coming back? No problem! Here's what this is about: Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All of the maps are chosen by the [Loved captains](https://loved.sh/team) of their respective game modes. Each beatmap banner in this news post will redirect you to the respective poll. Alternatively you can view them all directly on the [Project Loved forum](https://osu.ppy.sh/community/forums/120). The voting process lasts for 10 days, so don't forget to vote! More info can be found on the [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/).
 
+You might remember a couple months ago the osu!taiko captains opened applications for new members... and those have now been decided! Drumroll please... **[YonGin](https://osu.ppy.sh/users/7109317), [rloseise](https://osu.ppy.sh/users/6793778) and [Vendelicious](https://osu.ppy.sh/users/8818089) are your new additions to the osu!taiko captains!**
+
 Regarding last round, you can view the results here:
 
 - [Results for osu!](https://osu.ppy.sh/community/forums/topics/2239524?n=2)
@@ -162,7 +164,7 @@ Mori Calliope-san, konnichiwa! Kono map, aisou ka?
 
 Another ultra difficult map heads to Project Loved's way as [ralsricat](https://osu.ppy.sh/users/12318332) debuts with their (\*coughs\* this is a long one) [Mori Calliope - Excuse My Rudeness, But Could You Please RIP (ReeK's "Dude Whats A Genre" Remix)](https://osu.ppy.sh/beatmapsets/1595773#osu) for this month. If you're wondering, yes, it *was* really important that I typed out the full name, as we here at Project Loved will do anything for Mori Calliope...
 
-With that out of the way, this map is a classic take on the infamous mechtech (mechanical + technical for those who are still unaware... keep up with the times and check out an OWC mappool showcase or two 🙄) skillset that feels like the perfect blend between control and strain. There's a ton of diffs for you to have fun with the aim, or the streams, or the sliders, or the flow, or... you get what I mean.
+With that out of the way, this map is a classic take on the infamous mechtech (mechanical + technical for those who are still unaware... keep up with the times and check out an OWC mappool showcase or two 🙄) skill set that feels like the perfect blend between control and strain. There's a ton of diffs for you to have fun with the aim, or the streams, or the sliders, or the flow, or... you get what I mean.
 
 Make sure to give it a play, and vote YES on this map!! (yattaaaa wwwww)
 
@@ -198,7 +200,8 @@ The osu!taiko Loved candidates were chosen by [\_gt](https://osu.ppy.sh/users/83
 174 BPM, 2:07 | 7.95★\
 *description written by [chmekoe](https://osu.ppy.sh/users/7807444)*
 
-Nine years of Project Loved... Isn't that crazy? What better way to celebrate than with another banger from one of the most well-known names in the Taiko Loved section?\
+Nine years of Project Loved... Isn't that crazy? What better way to celebrate than with another banger from one of the most well-known names in the osu!taiko Loved section?
+
 [STEAKA - Pakipaki Tenshi no Hard Luck](https://osu.ppy.sh/beatmapsets/2055221#taiko) is the perfect showcase of [Raphalge](https://osu.ppy.sh/users/3918650)'s mapping style when it comes to boss maps: challenging bursts mixed with fast doublets and finishers that will put your finger control and speed to the test, along with scroll speed that makes the experience even more dynamic!
 
 Bring a friend or two and give this map a try, as it's also compatible with the co-op mode. Don't forget to vote "yes" to help this map reach Loved status!
@@ -223,7 +226,7 @@ Give this map a try — you won't regret it. But don't get too addicted, and rem
 
 Brace for impact with the lunar module 91MM1CK*
 
-Venture out to the far galaxies with [EXPLORER-4](https://osu.ppy.sh/beatmapsets/1664805#taiko) if you're down for a cosmic cruise full of brutal SV reading and polyrhythms! This map will test these skillsets to the absolute fullest. Make sure not to collide with these slowly approaching ~~kats~~ asteroids!
+Venture out to the far galaxies with [EXPLORER-4](https://osu.ppy.sh/beatmapsets/1664805#taiko) if you're down for a cosmic cruise full of brutal SV reading and polyrhythms! This map will test these skill sets to the absolute fullest. Make sure not to collide with these slowly approaching ~~kats~~ asteroids!
 
 Even if you get lost in the neverending doublet spam, we sure hope you find the shiny yes button back on planet Earth to bring this map to the Loved section!
 
@@ -233,9 +236,11 @@ Even if you get lost in the neverending doublet spam, we sure hope you find the 
 181 BPM, 2:01 | 6.39★\
 *description written by [K a y o k o](https://osu.ppy.sh/users/17664300)*
 
-"Hello, I would like a half-pound roast beef sandwich, a French dip with plenty of au jus, a large curly fries, make sure they're extra crispy, and a four-piece mozzarella with marinara sauce. Oh, and don't forget to throw in a massive fistful of both Arby's and horsey sauces. To wash the food down, get me a large diet coke with extra ice since I'm watching the carbs, n just throw it all in one bag, boss. Thanks..."
-
-"sir, this is a LOVED VOTING, not an arby's!"
+> \
+> Hello, I would like a half-pound roast beef sandwich, a French dip with plenty of au jus, a large curly fries, make sure they're extra crispy, and a four-piece mozzarella with marinara sauce. Oh, and don't forget to throw in a massive fistful of both Arby's and horsey sauces. To wash the food down, get me a large diet coke with extra ice since I'm watching the carbs, 'n just throw it all in one bag, boss. Thanks...\
+> \
+> sir, this is a LOVED VOTING, not an arby's!\
+> 
 
 [they asked me how we got here, i told them 'sir, this is an arby's'](https://osu.ppy.sh/beatmapsets/2103011#taiko) by xaev is an intense SV map by one of the most creative mappers out there, [Metzo](https://osu.ppy.sh/users/10633982). The map on its own is already pretty challenging, but the SVs give the map so much more depth. [Metzo](https://osu.ppy.sh/users/10633982) cleverly manipulates the SVs to match each section of the song, and not only does it play well, but it also looks beautiful. Definitely a map that all of you should go ahead and try out, and cast your precious "Yes" vote here at Arby's!
 
@@ -265,9 +270,9 @@ If you're ready to enjoy the tunes or turn on Hidden and try not to meet your do
 191.2 BPM, 4:02 | 1.33★ – 6.61★\
 *description written by [YonGin](https://osu.ppy.sh/users/7109317)*
 
-🤘It has been a while since the biggest osu!taiko metal head, [frukoyurdakul](https://osu.ppy.sh/users/7612550), was last featured in Loved. This potential addition is a set that is available for almost every skill level to experience fruko's nostalgic metal mapping style with creative mono patternings. It was also featured in [osu!Taiko World Cup 2024](/wiki/Tournaments/TWC/2024) Quaterfinals Stage as well. Giving us a lot of close battles on stream.
+🤘It has been a while since the biggest osu!taiko metal head, [frukoyurdakul](https://osu.ppy.sh/users/7612550), was last featured in Loved. This potential addition is a set that allows almost every skill level to experience fruko's nostalgic metal mapping style with creative mono patternings. It was also featured in the [osu!taiko World Cup 2024](/wiki/Tournaments/TWC/2024) Quarterfinals stage, giving us a lot of close battles on stream.
 
-If you want to see this featuring a leaderboard, you should vote "YES" NOW!
+If you want to see this featuring a leaderboard, you should VOTE "YES" NOW!
 
 [![](/wiki/shared/news/2026-09-19-project-loved-nine-years-september-2026/2468908.jpg)](https://osu.ppy.sh/community/forums/topics/)
 
@@ -310,9 +315,12 @@ The osu!catch Loved candidates were chosen by [Jakkubon](https://osu.ppy.sh/user
 250 BPM, 1:54 | 1.40★ – 7.09★\
 *description written by [LaviSorrow](https://osu.ppy.sh/users/9966768)*
 
-Together with the 9th anniversary of Project Loved, we would like to present a 9-difficulty mapset hosted by [fieryun06](https://osu.ppy.sh/users/6583168).\
-After spending the last 6 years in the graveyard section, this set has gathered a dedicated group of fans and enjoyers. Despite the passage of time, its difficulties can still occasionally be found in multiplayer lobbies, proving that they have managed to remain relevant to the community.\
-**fieryun06** created numerous beatmaps throughout their mapping career, but unfortunately, none of them managed to reach ranked status before they went inactive. This set was likely their closest attempt, with every difficulty offering interesting patterns and a high-level quality. Only minor adjustments would have been needed to bring it up to ranked standards.\
+Together with the 9th anniversary of Project Loved, we would like to present a 9-difficulty mapset hosted by [fieryun06](https://osu.ppy.sh/users/6583168).
+
+After spending the last 6 years in the graveyard section, this set has gathered a dedicated group of fans and enjoyers. Despite the passage of time, its difficulties can still occasionally be found in multiplayer lobbies, proving that they have managed to remain relevant to the community.
+
+**fieryun06** created numerous beatmaps throughout their mapping career, but unfortunately, none of them managed to reach ranked status before they went inactive. This set was likely their closest attempt, with every difficulty offering interesting patterns and a high-level quality. Only minor adjustments would have been needed to bring it up to ranked standards.
+
 The wide difficulty range gives both beginners and veteran players an opportunity to test their skills and find something enjoyable to play. If you have never given this set a try, now is the perfect time to discover what kept it alive in the community for so many years!
 
 [![](/wiki/shared/news/2026-09-19-project-loved-nine-years-september-2026/1961729.jpg)](https://osu.ppy.sh/community/forums/topics/)
@@ -361,7 +369,7 @@ For the 9th anniversary of Project Loved, my nomination goes to [USAO & Camellia
 
 The top difficulty was featured in many tournaments, starting from [osu!catch International Cup VIII](https://osu.ppy.sh/community/forums/topics/1643552?n=1) as a HardRock pick and many more through the years. The map is consistently transitioning between 1/4 mechanical patterns requiring speed and precision and 1/8 stacks that are mostly friendly, but a few of them are tricky.
 
-If you are familiar with multiplayer lobbies in Catch the Beat, you probably also know [Rocma's difficulty](https://osu.ppy.sh/beatmapsets/1753057#fruits/3594551), which is popular among high-end players because of its creative slider emphasis, 1/8 stacks and 1/16 doubles. Some people consider this difficulty harder than the top difficulty, mostly because of the tight spacing during the intense sections, which can be extremely punishing.
+If you are familiar with multiplayer lobbies in osu!catch, you probably also know [Rocma's difficulty](https://osu.ppy.sh/beatmapsets/1753057#fruits/3594551), which is popular among high-end players because of its creative slider emphasis, 1/8 stacks and 1/16 doubles. Some people consider this difficulty harder than the top difficulty, mostly because of the tight spacing during the intense sections, which can be extremely punishing.
 
 [Nosuri\[/url and \[url=https://osu.ppy.sh/beatmapsets/1753057#fruits/3595056\]Kukkai's](https://osu.ppy.sh/beatmapsets/1753057#fruits/3625504) difficulties are aimed at players who are struggling with the previously described difficulties. While Nosuri's difficulty might be a good introduction to mechanical patterns without requiring as much speed, Kukkai's difficulty has a lot of flow instead, which is very unique for the whole set and very friendly to play for the majority of the community.
 
@@ -448,7 +456,7 @@ Perhaps I've already said too much about caracol, given they're currently one of
 250 BPM, 2:50 | 4.85★\
 *description written by [LivelyPeninsula](https://osu.ppy.sh/users/11517895)*
 
-[-mint-](https://osu.ppy.sh/users/8976576) is known to create a lot of maps from all skillsets, regardless if it is rice or LN. This chart showcases why she is able to.
+[-mint-](https://osu.ppy.sh/users/8976576) is known to create a lot of maps from all skill sets, regardless if it is rice or LN. This chart showcases why she is able to.
 
 [Side By Side](https://osu.ppy.sh/beatmapsets/1462675#mania/3004710) is a technical-oriented chart, and with an OD of 8, this map really requires you to have a good grasp of your own fundamentals in order to perform well on this chart. While this may be rated in the 4-star range, it does not mean that this is by any means easy to FC or get high accuracy on. The amount of rolls, streams, and graces that are present in this chart can cause you to really drop accuracy, especially if you are not careful.
 
@@ -464,7 +472,7 @@ Want to see more challenging maps in terms of accuracy? Do you want to see more 
 
 [Castella](https://osu.ppy.sh/users/4810916) has always been a staple for LN charts, especially those with a particularly low OD. This chart is a good example of that, and I can definitely say, is a [Love Letter](https://osu.ppy.sh/beatmapsets/1665027#mania/3416962) for all LN players alike.
 
-Charts like this are great for an introduction to newer LN players out there, specifically for those who are transitioning from a rice-oriented playstyle to dip their toes on the long note skillset. There are a mix of long and short LNs, shields, rolls, and density as well. With the variety of patterns that you can see all throughout this chart, there's going to be so much to offer, and of course, the added difficulty and challenge to stay consistent, especially once those short LNs start to mix with the density / inverse sections. Those streams and bursts could also make you drop, and even though this is an OD 0 chart, you are still required to have a huge amount of focus from to finish.
+Charts like this are great for an introduction to newer LN players out there, specifically for those who are transitioning from a rice-oriented playstyle to dip their toes on the long note skill set. There are a mix of long and short LNs, shields, rolls, and density as well. With the variety of patterns that you can see all throughout this chart, there's going to be so much to offer, and of course, the added difficulty and challenge to stay consistent, especially once those short LNs start to mix with the density / inverse sections. Those streams and bursts could also make you drop, and even though this is an OD 0 chart, you are still required to have a huge amount of focus from to finish.
 
 Another challenge would be getting a very good ratio on this chart. Because this is OD 0, great counts are expected to be lower than usual; however, because of a lot of them being converted into perfects, players who are not as proficient in LN fundamentals may get a lot of 300s, leading to a negative ratio overall. Short LNs roped into density patterns tend to lead players into getting a lot of regular 300s, and you'd really have to focus harder than usual if you'd want to get a better ratio in general.
 
@@ -486,7 +494,7 @@ If you want to see more charts like this, then why don't we send our own [Love L
 
 Overall, I do think that this chart is one of those easy to S but hard to 99+ charts, where a lot of players should be able to meet the threshold for an S rank, but being as precise as you can be is definitely going to be a tall task considering the patterns that you have to be mindful of. Not to mention, there's going to be a lot of moments where you might release a bit too early, given how straining those patterns could be, especially if you are not paying attention to each column while playing this.
 
-Long Note charts like [Labyrinth](https://osu.ppy.sh/beatmapsets/1291607#mania/2680883) is a great example of how LNs could be expressed in a very creative manner, and also be a test to how accurate one could play this skillset. Given how much the playerbase has evolved, I'd say that the scores we are about to see in the leaderboards will be nothing short of crazy. Funnily enough, the title is very fitting, as you'd have to figure out a way to play this chart properly without dropping so much accuracy or consistency.
+Long Note charts like [Labyrinth](https://osu.ppy.sh/beatmapsets/1291607#mania/2680883) is a great example of how LNs could be expressed in a very creative manner, and also be a test to how accurate one could play this skill set. Given how much the playerbase has evolved, I'd say that the scores we are about to see in the leaderboards will be nothing short of crazy. Funnily enough, the title is very fitting, as you'd have to figure out a way to play this chart properly without dropping so much accuracy or consistency.
 
 If you want to see more charts like this, then I think it's about time to give this a supportive vote, and see more from [Abraxos](https://osu.ppy.sh/users/5025064) in the Loved category!
 
