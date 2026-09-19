@@ -68,8 +68,7 @@ For September, we have a bit of a special pick for Project Loved's 9th Birthday.
 
 Let us know how many names you can recognise in this hour-long collaboration!
 
-Happy 9th Birthday to osu! Project Loved, and thank you to all the mappers and players who made this happen. (Yes, that's you!)\
-See you soon for October's round, where we start counting down towards Loved's 10th anniversary!
+Happy 9th Birthday to osu! Project Loved, and thank you to all the mappers and players who made this happen. (Yes, that's you!) See you soon for October's round, where we start counting down towards Loved's 10th anniversary!
 
 Also, please vote yes, I neeeeed this
 
@@ -177,7 +176,7 @@ Hi guys, my name is [BATBALL](https://osu.ppy.sh/users/15173952). So I was gonna
 
 Well... not sure what happened there. Anyways it's me [chiv](https://osu.ppy.sh/users/6701656) here to introduce our last pick of the month, which is [GRR SNARL GROWL's](https://osu.ppy.sh/users/4681578) (I call him Squilly because we're tight like that just letting yall know) [B.O.B](https://osu.ppy.sh/beatmapsets/1981082#osu). You might be wondering what B.O.B stands for. Does it stand for Low AR gimmick overlap reading? Does it stand for [Corsace Closed](https://osu.ppy.sh/community/forums/topics/1744515?n=1)? Does it actually stand for the hit tournament series [Bangin' osu! Beatdown](https://docs.google.com/spreadsheets/d/1tXpe9Q2K8eNCcQuP4FTnI9ZS3DLsGOtNUKMvzR50OVo/edit?gid=578531657#gid=578531657)?
 
-Well... all of those things might just be true. This is the type of map you'll be able to open and instantly recognize if you can play the map or if it's something you'd rather watch [Ekoro](https://osu.ppy.sh/users/284905) or [kt09-](https://osu.ppy.sh/users/14436159) clipfarm on twitter. Regardless, to support our ever-increasing supply of reading clipfarm potential for our platforms, please vote yes!
+Well... all of those things might just be true. This is the type of map you'll be able to open and instantly recognize if you can play the map or if it's something you'd rather watch [Ekoro](https://osu.ppy.sh/users/284905) or [kt09-](https://osu.ppy.sh/users/14436159) clipfarm on twitter. Regardless, to support our ever-increasing supply of reading clipfarm potential for our platforms, please vote Yes!
 
 ## osu!taiko
 
@@ -483,7 +482,7 @@ If you want to see more charts like this, then why don't we send our own [Love L
 
 [Abraxos](https://osu.ppy.sh/users/5025064) is known for their creative charts, especially on the LN/HB side of things. This chart in specific is a great example of how they are able to express themselves in a chart.
 
-[Labyrinth](https://osu.ppy.sh/beatmapsets/1291607#mania/2680883) is a LN-tech heavy chart, where you are expected to be proficient in numerous LN patterns to get a high score on it. While it may be on OD 6.4, it doesn't necessarily mean that it will be easy to play this chart. Expect a mix of grace notes, inverse patterns, rolls, and bursts, in which all of them have varying lengths of LNs. It is no surprise that this has been featured in some tournaments, with one major example being in the [Quarterfinals mappool of the osu!mania LN Tournament 3](/wiki/Tournaments/o%21mLN/3#quarterfinals), slotted in as one of the technical LN picks.
+[Labyrinth](https://osu.ppy.sh/beatmapsets/1291607#mania/2680883) is a LN-tech heavy chart, where you are expected to be proficient in numerous LN patterns to get a high score on it. While it may be on OD 6.4, it doesn't necessarily mean that it will be easy to play this chart. Expect a mix of grace notes, inverse patterns, rolls, and bursts, in which all of them have varying lengths of LNs. It is no surprise that this has been featured in some tournaments, with one major example being in the [Quarterfinals mappool of the osu!mania LN Tournament 3](/wiki/Tournaments/o!mLN/3#quarterfinals), slotted in as one of the technical LN picks.
 
 Overall, I do think that this chart is one of those easy to S but hard to 99+ charts, where a lot of players should be able to meet the threshold for an S rank, but being as precise as you can be is definitely going to be a tall task considering the patterns that you have to be mindful of. Not to mention, there's going to be a lot of moments where you might release a bit too early, given how straining those patterns could be, especially if you are not paying attention to each column while playing this.
 
