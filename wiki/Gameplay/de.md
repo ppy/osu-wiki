@@ -29,6 +29,7 @@ Indexseite für Artikel zu den wesentlichen Elementen und Konzepten des Spielver
 - [Pause](/wiki/Beatmap/Break)
 - [Punktzahl](Score)
 - [Quick-Play](Quick_play)
+- [Replay](Replay)
 - [Schwierigkeitsmultiplikator](Score/ScoreV1/osu!#difficulty-multiplier)
 - [ScoreV1](Score/ScoreV1)
 - [ScoreV2](Score#scorev2)
@@ -40,7 +41,6 @@ Indexseite für Artikel zu den wesentlichen Elementen und Konzepten des Spielver
 - [Tablet-Abdeckung](Tablet_cover)
 - [Tägliche Herausforderung](Daily_challenge)
 - [Trefferfenster](Hit_window)
-- [Replay](Replay)
 - [Zuschauen](Spectating)
 
 ## osu!
