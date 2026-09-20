@@ -41,11 +41,15 @@ Play through [this 2-through-8-star difficulty spread](https://osu.ppy.sh/beatma
     <source src="https://assets.ppy.sh/artists/568/Sunken%20Memory/Exsy%20-%20Sunken%20Memory.mp3">
 </audio>
 
+<!-- lint ignore no-heading-punctuation -->
+
 ### Exsy - Ambience.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/568/Ambience/Exsy%20-%20Ambience..mp3">
 </audio>
+
+<!-- lint ignore no-heading-punctuation -->
 
 ### Exsy - Unbalance.
 
