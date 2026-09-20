@@ -4,8 +4,6 @@ tags:
   - FL
   - flash light
   - 手电筒
-outdated_translation: true
-outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 ---
 
 # Flashlight（lazer 模组）
@@ -28,8 +26,7 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 | 默认快捷键 ![][osu!taiko] ![][osu!catch] | `J` |
 | 默认快捷键 ![][osu!mania] | `L` |
 | 游戏模式 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| 得分系数 ![][osu!] ![][osu!taiko] ![][osu!catch] | `1.12x` |
-| 得分系数 ![][osu!mania] | `1.00x` |
+| 得分倍率 | 见[计分](#计分) |
 | 状态 | 计入排名 |
 | 不兼容的模组 ![][osu!] | [Blinds (BL)](/wiki/Gameplay/Game_modifier/Blinds), [Bloom (BM)](/wiki/Gameplay/Game_modifier/Bloom) |
 | 不兼容的模组 ![][osu!taiko] ![][osu!catch] | None |
@@ -38,7 +35,7 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 :::
 
 ::: alert-note
-**注:** 对于该文章的 osu!stable 版本，请见：[Flashlight（模组）](/wiki/Gameplay/Game_modifier/Flashlight)
+**注:** 对于该文章的 osu!(stable) 版本，请见：[Flashlight（模组）](/wiki/Gameplay/Game_modifier/Flashlight)
 :::
 
 ::: alert-note
@@ -56,6 +53,44 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 - `基于连击数改变大小 (Change size based on combo)` (![][osu!] ![][osu!taiko] ![][osu!catch] 默认启用，![][osu!mania] 默认禁用): （默认启用）：随连击数增加减小`手电筒区域大小 (Flashlight size)`。
 
 更改上述任意设置均会导致分数**不计表现分**。
+
+## 计分
+
+### ![][osu!] osu!
+
+In osu!, Flashlight has a score multiplier of `1.20x` by default, but is modified under certain conditions. The exact multiplier is calculated as follows:
+
+<!-- Technically this it not exactly how it's written in OsuScoreMultiplierCalculatorV2.cs, but I think it's a bit easier to explain this way. -->
+
+1. The intial multiplier is `0.20x`.
+2. For each 0.1 step the `Flashlight size` is increased above its default value, this multiplier is reduced by `0.02x` (to a minimum of `0.02x`). Decreasing the `Flashlight size` below its default value does not affect the multiplier.
+3. If `Change size based on combo` is disabled, the multiplier is divided by `5`.
+4. If [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Freeze_Frame) is enabled, the multiplier is divided by `2`.
+5. Finally, `1` is added to the multiplier, therefore always resulting in a value between `1.02x` and `1.20x`.
+
+Thus, if `S` is the selected `Flashlight size`, `C = 5` if `Change size based on combo` is disabled (`C = 1` otherwise) and `F = 2` if [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Freeze_Frame) is enabled (`F = 1` otherwise), the score multiplier is given by the following formula:[^multiplier]
+
+![Flashlight score multiplier in osu!](img/multiplier_osu.png "Flashlight score multiplier in osu!")
+
+#### 示例
+
+To illustrate, consider the following situation: The user wants to play a beatmap using Freeze Frame and Flashlight with a`Flashlight size` of 1.3 that decreases as combo increases.
+
+Since the `Flashlight size` has been increased by 0.3, the initial multiplier `0.20x` is reduced by `3 * 0.02 = 0.06x`, meaning the multiplier becomes `0.20 - 3 * 0.02 = 0.14x`.
+
+Due to Freeze Frame, this value is divided by `2` and `1` is added, resulting in a final score multiplier of `1 + 0.14 / 2 = 1.07x`.
+
+### ![][osu!taiko] osu!taiko 与 ![][osu!catch] osu!catch
+
+In osu!taiko and osu!catch, Flashlight has a score multiplier of `1.12x`. However, by changing any of its settings, the multiplier is reduced to `1.00x`.
+
+### ![][osu!mania] osu!mania
+
+In osu!mania, Flashlight has a score multiplier of `1.00x`, regardless of its settings.
+
+## 参考
+
+[^multiplier]: [osu!(lazer) 源代码中的 `OsuScoreMultiplierCalculatorV2`](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Osu/Scoring/OsuScoreMultiplierCalculatorV2.cs#L154-L163)
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

@@ -38,6 +38,6 @@ tags:
 
 ## 计分
 
-Blinds 模组的分数倍率为 `1.24x`。但将其与 [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) 或 [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable) 并用时，后者的倍率将会下降至 `1.00x`。也就是说，Blinds、Hidden + Blinds 与 Traceable + Blinds 的得分倍率均为 `1.24x`。
+Blinds 模组的分数倍率为 `1.24x`。但将其与 [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) 或 [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable) 并用时，后者的倍率将会降低至 `1.00x`。也就是说，Blinds、Hidden + Blinds 与 Traceable + Blinds 的得分倍率均为 `1.24x`。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

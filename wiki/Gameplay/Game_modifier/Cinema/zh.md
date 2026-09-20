@@ -21,7 +21,7 @@ tags:
 
 - 缩写：CM
 - 类别：特殊
-- 得分系数：1.00x
+- 得分倍率：1.00x
 - 默认快捷键：`V` `V` 或 `Shift` + `V`（或者在选择[谱面](/wiki/Beatmap)时按住 `Ctrl` + `Shift`）
 - 兼容的游戏模式：![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
