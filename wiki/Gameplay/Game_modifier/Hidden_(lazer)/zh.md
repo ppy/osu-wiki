@@ -2,8 +2,6 @@
 stub: true
 tags:
   - HD
-outdated_translation: true
-outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 ---
 
 # Hidden（lazer 模组）
@@ -28,8 +26,7 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 | 默认快捷键 ![][osu!] ![][osu!taiko] ![][osu!catch] | `H` |
 | 默认快捷键 ![][osu!mania] | `J` |
 | 游戏模式 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| 得分倍率 ![][osu!] ![][osu!taiko] ![][osu!catch] | `1.06x` |
-| 得分倍率 ![][osu!mania] | `1.00x` |
+| 得分倍率 | 见[计分](#计分) |
 | 状态 | 可计表现分 |
 | 不兼容的模组 ![][osu!] | [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable), [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Approach_Different), [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Freeze_Frame), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
 | 不兼容的模组 ![][osu!taiko] ![][osu!catch] | 无 |
@@ -56,6 +53,30 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 - `仅隐藏缩圈 (Only fade approach circles)` (默认禁用): 使缩圈不可见，但物件不会渐隐。
 
 启用该设置会导致分数**不计表现分**。
+
+## 计分
+
+### ![][osu!] osu!
+
+在 osu! 模式中，Hidden 模组的默认得分倍率为 `1.04x`。[^multiplier]
+
+- 若启用了`仅隐藏缩圈`，则将倍率降低 `0.02x`。
+- 若启用了 [Wiggle (WG)](/wiki/Gameplay/Game_modifier/Wiggle)、[Grow (GR)](/wiki/Gameplay/Game_modifier/Grow)、[Deflate (DF)](/wiki/Gameplay/Game_modifier/Deflate)、[Repel (RP)](/wiki/Gameplay/Game_modifier/Repel) 模组中的任意一个，则将倍率降低 `0.02x`。
+- 若启用了 [Blinds (BL)](/wiki/Gameplay/Game_modifier/Blinds) 模组，则忽略前两条规则，倍率设为 `1.00x`。
+
+举个例子，使用 Hidden、Grow 与 Repel 模组游玩时，Hidden 模组的得分倍率为 `1.02x`。
+
+### ![][osu!taiko] osu!taiko 与 ![][osu!catch] osu!catch
+
+在 osu!taiko 与 osu!catch 中，Hidden 的得分倍率为 `1.06x`。
+
+### ![][osu!mania] osu!mania
+
+在 osu!mania 中，Hidden 的得分倍率为 `1.00x`。
+
+## 参考
+
+[^multiplier]: [osu!(lazer) 源代码中的 `OsuScoreMultiplierCalculatorV2`](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Osu/Scoring/OsuScoreMultiplierCalculatorV2.cs#L141-L152)
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
