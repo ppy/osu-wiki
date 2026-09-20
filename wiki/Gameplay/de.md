@@ -40,7 +40,7 @@ Indexseite für Artikel zu den wesentlichen Elementen und Konzepten des Spielver
 - [Tablet-Abdeckung](Tablet_cover)
 - [Tägliche Herausforderung](Daily_challenge)
 - [Trefferfenster](Hit_window)
-- [Wiederholung](Replay)
+- [Replay](Replay)
 - [Zuschauen](Spectating)
 
 ## osu!
