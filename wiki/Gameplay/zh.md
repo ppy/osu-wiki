@@ -31,7 +31,7 @@
 - [气合 (Kiai) 时间](Kiai_time)
 - [脑梗 (Mind block)](Mind_block)
 - [模组倍率](Game_modifier/Mod_multiplier)
-- [Mod multiplier (lazer)](Game_modifier/Mod_multiplier_(lazer))
+- [模组倍率 (lazer)](Game_modifier/Mod_multiplier_(lazer))
 - [物件锁](Judgement/Notelock)
 - [通过](Pass)
 - [玩法](Play_style)
