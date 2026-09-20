@@ -164,8 +164,6 @@ Sunday, 20 September 2026:
 | 59c | United Kingdom ::{ flag=GB }:: | 1 | **7** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/121890252) | [#1](https://www.twitch.tv/videos/2879362856) |
 | 60 | **South Korea** ::{ flag=KR }:: | **7** | 5 | ::{ flag=US }:: United States | [#1](https://osu.ppy.sh/community/matches/121890786) | [#1](https://www.twitch.tv/videos/2879435092) |
 
-## Match results
-
 ### Semifinals
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1QlON17szXf5_JekXZfw8BLVLBBR6eEA0pA2fCp3TYNs?rm=minimal).
