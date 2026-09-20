@@ -2,8 +2,6 @@
 stub: true
 tags:
   - DP
-outdated_translation: true
-outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 ---
 
 # Depth（模组）
@@ -41,5 +39,13 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 
 - `最大深度 (Maximum depth)` (50–200，默认为 100): 物件出现时的距离。
 - `显示缩圈 (Show Approach Circles)` (默认启用): 是否应显示[缩圈](/wiki/Gameplay/Hit_object/Approach_circle)。
+
+## 冷知识
+
+- 据 [Mod Multiplier: Survey Results](https://osu.ppy.sh/home/news/2026-06-03-mod-multipliers-survey-results#hidden-(hd)) 新闻帖所述，当启用 Depth 模组时，[Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) 模组的得分倍率会降低 `0.02x`。实际上，Hidden 与 Depth 模组并不兼容，但 osu!(lazer) 的源代码依然考虑到了这种情况。[^hd-dp-multiplier]
+
+## References
+
+[^hd-dp-multiplier]: [osu!(lazer) 源代码中的 `OsuScoreMultiplierCalculatorV2`](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Osu/Scoring/OsuScoreMultiplierCalculatorV2.cs#L42)
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
