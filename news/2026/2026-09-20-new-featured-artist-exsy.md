@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Exsy"
-date: 2026-09-20 19:00:00 +0000
+date: 2026-09-20 20:00:00 +0000
 series: featured_artists
 ---
 
