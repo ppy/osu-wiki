@@ -20,7 +20,9 @@ Scroll' durch die unten stehenden Abschnitte, um zu erfahren, was zu tun ist, je
 
 ### Im Spielchat {id=chat}
 
-*Siehe auch: [Schlechtes Verhalten melden § Chat im Spiel](/wiki/Reporting_bad_behaviour#chat-im-spiel)*
+::: alert-note
+**Siehe auch:** [Schlechtes Verhalten melden § Chat im Spiel](/wiki/Reporting_bad_behaviour#chat-im-spiel)
+:::
 
 Blockiere den Benutzer sofort, indem du mit der rechten Maustaste auf seinen Benutzernamen klickst oder ihn gedrückt hältst. Wähle dann `Benutzer ignorieren` in osu!(stable) oder `Blockieren` in osu!(lazer).
 
