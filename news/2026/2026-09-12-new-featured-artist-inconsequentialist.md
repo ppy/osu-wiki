@@ -7,7 +7,7 @@ series: featured_artists
 
 **Inconsequentialist** has been making music for longer than many osu! players have been alive.
 
-![](https://assets.ppy.sh/artists/566/header.jpg)
+![](https://assets.ppy.sh/artists/566/header.jpg?1)
 
 From amateur rap as a teenager in the early 2000s to deathcore with the band *Versus My Phobia* from 2009–2016 to increasingly more genre explorations up through today, **Inconsequentialist** is a musician who knows his limits (...or more specifically, he knows he has none).
 
