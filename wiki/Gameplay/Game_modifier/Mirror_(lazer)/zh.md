@@ -24,8 +24,8 @@ tags:
 | 类别 | 转换 |
 | 游戏模式 | ![][osu!] ![][osu!catch] ![][osu!mania] |
 | 得分倍率 | `1.00x` |
-| 状态 ![][osu!] ![][osu!catch] | 不计入排名 |
-| 状态 ![][osu!mania] | 计入排名 |
+| 状态 ![][osu!] ![][osu!catch] | 不计表现分 |
+| 状态 ![][osu!mania] | 可计表现分 |
 | 不兼容的模组 ![][osu!] | [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)) |
 | 不兼容的模组 ![][osu!catch] ![][osu!mania] | 无 |
 

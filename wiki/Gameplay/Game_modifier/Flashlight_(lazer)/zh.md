@@ -27,7 +27,7 @@ tags:
 | 默认快捷键 ![][osu!mania] | `L` |
 | 游戏模式 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | 得分倍率 | 见[计分](#计分) |
-| 状态 | 计入排名 |
+| 状态 | 可计表现分 |
 | 不兼容的模组 ![][osu!] | [Blinds (BL)](/wiki/Gameplay/Game_modifier/Blinds), [Bloom (BM)](/wiki/Gameplay/Game_modifier/Bloom) |
 | 不兼容的模组 ![][osu!taiko] ![][osu!catch] | None |
 | 不兼容的模组 ![][osu!mania] | [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)), [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover) |

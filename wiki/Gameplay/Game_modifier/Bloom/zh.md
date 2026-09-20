@@ -21,7 +21,7 @@ tags:
 | 类别 | 娱乐 |
 | 游戏模式 | ![][osu!] |
 | 得分倍率 | `1.00x` |
-| 状态 | 不计入排名 |
+| 状态 | 不计表现分 |
 | 不兼容的模组 | [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)), [No Scope (NS)](/wiki/Gameplay/Game_modifier/No_Scope), [Touch Device (TD)](/wiki/Gameplay/Game_modifier/Touch_Device_(lazer)) |
 
 :::

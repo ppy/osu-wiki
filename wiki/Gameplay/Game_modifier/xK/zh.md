@@ -36,7 +36,7 @@ tags:
 
 ## 说明
 
-*注意：在 osu!mania 专谱中会忽略所有 xK 模组。使用 1K、2K、3K 模组游玩不计入排名。*
+*注意：在 osu!mania 专谱中会忽略所有 xK 模组。使用 1K、2K、3K 模组游玩不计表现分。*
 
 这些[游戏模组](/wiki/Gameplay/Game_modifier)会让所有 [osu!mania](/wiki/Game_mode/osu!mania) 的*转*[谱](/wiki/Beatmap)强制使用选择的按键设置。它们会根据所选模组忽略谱面原有的按键设置，但会导致得分倍率下降。
 

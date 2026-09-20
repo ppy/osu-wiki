@@ -23,7 +23,7 @@ tags:
 | 游戏模式 | ![][osu!] ![][osu!taiko] ![][osu!mania] |
 | 得分倍率 ![][osu!] | `0.10x` |
 | 得分倍率 ![][osu!taiko] ![][osu!mania] | `0.50x` |
-| 状态 | 不计入排名 |
+| 状态 | 不计表现分 |
 | 不兼容的模组 | [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)), [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore), [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)), [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Wind_Down) |
 
 :::

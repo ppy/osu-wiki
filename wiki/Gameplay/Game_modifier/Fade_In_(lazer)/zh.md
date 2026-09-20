@@ -24,7 +24,7 @@ tags:
 | 默认快捷键 | `H` |
 | 游戏模式 | ![][osu!mania] |
 | 得分倍率 | `1.00x` |
-| 状态 | 计入排名 |
+| 状态 | 可计表现分 |
 | 不兼容的模组 | [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover), [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) |
 
 :::

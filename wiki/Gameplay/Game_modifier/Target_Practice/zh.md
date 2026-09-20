@@ -29,7 +29,7 @@ tags:
 
 ## 说明
 
-*注意：启用此模组游玩的成绩不计入排名。*
+*注意：启用此模组游玩的成绩不计表现分。*
 
 **Target Practice** 是一个[osu! 模式](/wiki/Game_mode/osu!)独有的实验性[游戏模组](/wiki/Gameplay/Game_modifier)，此模组移除谱面中所有的[打击物件](/wiki/Gameplay/Hit_object)，取而代之的是简化的“标靶”。此模组多用于娱乐，不过也有助于练习节奏稳定性和提高准确率。
 

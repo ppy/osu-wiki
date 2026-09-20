@@ -25,7 +25,7 @@ tags:
 | 游戏模式 | ![][osu!] ![][osu!taiko] ![][osu!mania] |
 | 得分倍率 ![][osu!] | `0.70x` |
 | 得分倍率 ![][osu!taiko] ![][osu!mania] | `1.00x` |
-| 状态 | 不计入排名 |
+| 状态 | 不计表现分 |
 | 不兼容的模组 ![][osu!] | [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)) |
 | 不兼容的模组 ![][osu!taiko] | [Swap (SW)](/wiki/Gameplay/Game_modifier/Swap) |
 | 不兼容的模组 ![][osu!mania] | 无 |

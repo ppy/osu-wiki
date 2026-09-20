@@ -27,7 +27,7 @@ tags:
 
 ## 说明
 
-*注意：启用此模组会导致成绩不计入排名。*
+*注意：启用此模组会导致成绩不计表现分。*
 
 **Cinema** [游戏模组](/wiki/Gameplay/Game_modifier)会隐藏所有[打击物件](/wiki/Gameplay/Hit_object)，意在让玩家放松下来，观看谱面的视频或故事板。也就是使用 [Auto](/wiki/Gameplay/Game_modifier/Auto) 模组进行游玩，但 **只显示背景与故事板**。
 

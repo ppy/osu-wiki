@@ -22,7 +22,7 @@ tags:
 | 类别 | Fun |
 | 游戏模式 | ![][osu!catch] |
 | 得分倍率 | `1.00x` |
-| 状态 | 不计入排名 |
+| 状态 | 不计表现分 |
 | 不兼容的模组 | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Relax (RX)](/wiki/Gameplay/Game_modifier/Relax_(lazer)) |
 
 :::

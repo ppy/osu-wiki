@@ -23,7 +23,7 @@ tags:
 | 默认快捷键 | `K` |
 | 游戏模式 | ![][osu!] |
 | 得分倍率 | 见[计分](#计分) |
-| 状态 | 计入排名 |
+| 状态 | 可计表现分 |
 | 不兼容的模组 | [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) |
 
 :::

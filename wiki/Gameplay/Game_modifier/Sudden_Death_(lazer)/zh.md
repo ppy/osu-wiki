@@ -24,7 +24,7 @@ tags:
 | 默认快捷键 | `S` |
 | 游戏模式 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | 得分倍率 | `1.00x` |
-| 状态 | 计入排名 |
+| 状态 | 可计表现分 |
 | 不兼容的模组 ![][osu!] | [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)) |
 | 不兼容的模组 ![][osu!taiko] ![][osu!catch] ![][osu!mania] | [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)) |
 
@@ -47,7 +47,7 @@ tags:
 - `Miss 滑条尾时也失败 (Also fail when missing a slider tail)` (默认禁用): 漏掉[滑条尾](/wiki/Gameplay/Hit_object/Slider/Slidertail)会导致失败。*该设置仅在 osu! 模式中可用。*
 - `失败时重试 (Restart on fail)` (默认禁用): 失败时自动重玩谱面。
 
-以上设置任意组合下的分数均可计入排名。
+以上设置任意组合下的分数均可可计表现分。
 
 ## 冷知识
 

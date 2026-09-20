@@ -58,7 +58,7 @@ tags:
 
 ### osu!mania
 
-*注意：在 osu!mania 中使用此模组会导致成绩不计入排名。*
+*注意：在 osu!mania 中使用此模组会导致成绩不计表现分。*
 
 在 [osu!mania](/wiki/Game_mode/osu!mania) 中，此模组会使掉血速度增加 40%，计时区间严度增加约 29%。尽管显示 AR 值增加，也不会影响游玩。
 
