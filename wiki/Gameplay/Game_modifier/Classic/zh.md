@@ -2,8 +2,6 @@
 stub: true
 tags:
   - CL
-outdated_translation: true
-outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 ---
 
 # Classic（模组）
@@ -23,7 +21,7 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 | 缩写 | CL |
 | 类别 | 转换 |
 | 游戏模式 | ![][osu!] ![][osu!taiko] ![][osu!mania] |
-| 得分系数 | `0.96x` |
+| 得分倍率 | 见[计分](#计分) |
 | 状态 | 不计入排名 |
 | 不兼容的模组 ![][osu!] | [Strict Tracking (ST)](/wiki/Gameplay/Game_modifier/Strict_Tracking) |
 | 不兼容的模组 ![][osu!taiko] ![][osu!mania] | 无 |
@@ -53,6 +51,26 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 - `传统血量机制 (Classic health)` (默认启用): [掉血](/wiki/Gameplay/Health)机制将与 osu!(stable) 相似。
 
 <!-- explanation of why this is unranked could be interesting to write about here -clayton -->
+
+## 计分
+
+### ![][osu!] osu!
+
+在 osu! 模式中，Classic 模组的得分倍率为 `0.985x`。当禁用`使用传统物件锁`时，得分倍率会降低到 `0.96x`。
+
+这也特别意味着对于在 osu!(stable) 中获得的分数，其得分倍率为 `0.985x`。
+
+### ![][osu!taiko] osu!taiko
+
+在 osu!taiko 中，Classic 模组的得分倍率为 `1.00x`。
+
+### ![][osu!catch] osu!catch
+
+如上文所述，osu!catch 中不存在 Classic 模组，但在 osu!(stable) 中获得的分数依然会使用该模组。在这种情况下，其得分倍率为 `1.00x`。
+
+### ![][osu!mania] osu!mania
+
+在 osu!mania 中，Classic 模组的得分倍率为 `1.00x`。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
