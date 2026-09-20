@@ -9,7 +9,7 @@ Roll out the pixelated red carpet for **Exsy**, our newest Featured Artist!
 
 ![](https://assets.ppy.sh/artists/568/header.jpg)
 
-Multi-medium savant **Exsy** takes the emotional basis of artcore, combines it with equally emotional Vocaloid lyrics, and packages everything with stylized music videos unlike anything else. (Seriously, you'll need to see them for yourself.)
+Multi-medium savant **Exsy** takes the emotional basis of artcore, combines it with equally emotional Vocaloid lyrics, and packages everything with stylised music videos unlike anything else. (Seriously, you'll need to see them for yourself.)
 
 Inspired by the likes of *Feryquitous* and [*Feint*](https://osu.ppy.sh/beatmaps/artists/306), it should be no surprise that **Exsy**'s music is also solid for everything in the rhythm game space, obviously including osu!. That's why **Exsy** is one of our Featured Artists as of today!
 
