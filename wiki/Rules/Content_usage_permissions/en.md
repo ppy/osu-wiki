@@ -16,7 +16,10 @@ Please also consider contacting the team about negotiating licensing. See the [o
 
 ## Audio
 
-*Notice: Posting or streaming gameplay on other sites may potentially be subject to different licensing requirements that need to be negotiated or understood. Please exercise due diligence when broadcasting gameplay to an audience.*
+::: alert-notice
+**Notice**
+Posting or streaming gameplay on other sites may potentially be subject to different licensing requirements that need to be negotiated or understood. Please exercise due diligence when broadcasting gameplay to an audience.
+:::
 
 osu! provides mappers a library of licensed songs via the [Featured Artist](/wiki/People/Featured_Artists) program. Each song on [the listing](https://osu.ppy.sh/beatmaps/artists) is free for use within osu! and has no risk of removal.
 
