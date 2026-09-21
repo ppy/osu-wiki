@@ -106,7 +106,7 @@ Officially-supported tournaments **must** meet certain quality standards and mai
 
 #### Graphics
 
-Below are header images used in various community tournaments. These headers should be used as a reference for **above average** graphics quality. This level of quality should be aimed for by tournaments seeking official support.
+Below are header images used in various community tournaments. These headers **should** be used as a reference for **above average** graphics quality. This level of quality **should** be aimed for by tournaments seeking official support.
 
 For each of these tournaments, take note of the overall design of the forum post and other imagery used across the forum post and spreadsheets.
 
@@ -138,7 +138,7 @@ Tournaments requesting official support **must** adhere to the following:
   - This includes preventing users who are perceived to be "sandbagging" from play. Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the committee for a case-by-case review (see [contact](#contact)).
   - Disqualifying a user due to a breach of tournament rules is allowed without prior approval. However, hosts **must** document such cases and retain evidence in the event the legitimacy of the disqualification is challenged.
 - A dedicated referee **must** be present during every match, or be available to be summoned with minimal delay (less than five minutes) **if** permission for [automated software](#automated-refereeing) has been granted and is being used for assistance. Players **must not** "self-ref".
-- Every match within the same bracket or Qualifier stage **must** be held in a consistent format. For example, in a tournament which uses a Qualifier stage and a double-elimination bracket stage, bracket matches should all be played either synchronously or asynchronously, but not both.
+- Every match within the same bracket or Qualifier stage **must** be held in a consistent format. For example, in a tournament which uses a Qualifier stage and a double-elimination bracket stage, bracket matches **must** all be played either synchronously or asynchronously, but not both.
 - All multiplayer matches relevant to the tournament **must** be created with the `!mp make` command, so that they do not expire. The results **must** be recorded and made publicly available on the original tournament forum post, or an outside source linked on the forum post, in a clear and accessible format.
 - All relevant rule changes **must** be communicated clearly to all participants.
 - All relevant links **must** be present and maintained on the tournament's forum post.
@@ -214,7 +214,7 @@ In addition to the expectations for programs above, automated refereeing tools *
 
 ## Requesting support
 
-This section details the procedures hosts must follow to receive official support. It is assumed that tournaments requesting support already satisfy the [eligibility criteria](#eligibility-criteria).
+This section details the procedures hosts **must** follow to receive official support. It is assumed that tournaments requesting support already satisfy the [eligibility criteria](#eligibility-criteria).
 
 ### Screening
 
@@ -345,7 +345,7 @@ Below are examples of previously approved main-menu banners:
 
 The tri-badge distinction is reserved for tournaments which achieve the highest level of production quality possible in osu! tournaments. In general, it should be **obvious** the tournament is worthy of receiving the distinction due to its outstanding quality, competition, and community impact.
 
-Hosts aiming to achieve this support are expected to adhere to all requirements listed below, and must aim to satisfy as many of the below recommendations as possible:
+Hosts aiming to achieve this support **must** adhere to all requirements listed below, and **should** aim to satisfy as many of the below recommendations as possible:
 
 - The tournament **must not** violate **any** other criteria listed in this article.
 - The tournament **must** be open rank[^open-rank] and **must not** be restricted to any specific geographic region.
