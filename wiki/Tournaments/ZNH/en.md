@@ -54,25 +54,25 @@ The Zenith Lan is run by various community members.
 
 * **No Mod**
 
-  1. [NM1](https://osu.ppy.sh/beatmapsets/2184705#osu/4618010)
-  2. [NM2](https://osu.ppy.sh/beatmapsets/2108626#osu/4440275)
-  3. [NM3](https://osu.ppy.sh/beatmapsets/969845#osu/2028973)
-  4. [NM4](https://osu.ppy.sh/beatmapsets/1286316#osu/2670817)
-  5. [NM5](https://osu.ppy.sh/beatmapsets/1257525#osu/2613076)
-  6. [NM6](https://osu.ppy.sh/beatmapsets/10333#osu/44406)
+  1. [Sou - Worst Regret [Relief]](https://osu.ppy.sh/beatmapsets/2184705#osu/4618010)
+  2. [bilbordy - slishkom pozdno  [Extreme]](https://osu.ppy.sh/beatmapsets/2108626#osu/4440275)
+  3. [POLKADOT STINGRAY - Telecaster Stripe  [Extreme]](https://osu.ppy.sh/beatmapsets/969845#osu/2028973)
+  4. [Eagle - S!ck  [!]](https://osu.ppy.sh/beatmapsets/1286316#osu/2670817)
+  5. [Laur - Nostalgic Blood of the Strife  [MAXIMUM]](https://osu.ppy.sh/beatmapsets/1257525#osu/2613076)
+  6. [Jenny Rom - The Game of Love  [Jericho2442's Groove]](https://osu.ppy.sh/beatmapsets/10333#osu/44406)
 * **Hidden**
 
-  1. [HD1](https://osu.ppy.sh/beatmapsets/220220#osu/538404)
-  2. [HD2](https://osu.ppy.sh/beatmapsets/856645#osu/1789641)
+  1. [Sota Fujimori - Move That Body -Extended Mix-  [Extreme]](https://osu.ppy.sh/beatmapsets/220220#osu/538404)
+  2. [Gesu no Kiwami Otome. - Romance ga Ariamaru  [Insane]](https://osu.ppy.sh/beatmapsets/856645#osu/1789641)
 * **Hard Rock**
 
-  1. [HR1](https://osu.ppy.sh/beatmapsets/341933#osu/755900)
-  2. [HR2](https://osu.ppy.sh/beatmapsets/1693764#osu/4671188)
+  1. [ETIA. - Lost Love  [Last Eve]](https://osu.ppy.sh/beatmapsets/341933#osu/755900)
+  2. [SWAN K feat. Asuka M - LOVE B.B.B  [dksslqj's Another]](https://osu.ppy.sh/beatmapsets/1693764#osu/4671188)
 * **Double Time**
 
-  1. [DT1](https://osu.ppy.sh/beatmapsets/1074482#osu/2248577)
-  2. [DT2](https://osu.ppy.sh/beatmapsets/1296273#osu/2750914)
-  3. [DT3](https://osu.ppy.sh/beatmapsets/476697#osu/1018250)
+  1. [Paramore - Still Into You  [Lingering Emotions]](https://osu.ppy.sh/beatmapsets/1074482#osu/2248577)
+  2. [Yousei Teikoku - Paradiso=Inferno  [Insane]](https://osu.ppy.sh/beatmapsets/1296273#osu/2750914)
+  3. [REOL - ChiruChiru  [Scatter]](https://osu.ppy.sh/beatmapsets/476697#osu/1018250)
 
 ## Ruleset
 
