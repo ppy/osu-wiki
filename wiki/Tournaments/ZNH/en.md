@@ -25,9 +25,9 @@ The **Zenith LAN** (***ZNH***) is a single-elimination 1v1 osu! tournament hoste
 
 |                           Placing                          | Prize(s)                                                                     |
 | :--------------------------------------------------------: | :--------------------------------------------------------------------------- |
-|   ![Gold crown](/wiki/shared/crown-gold.png "1st place")   | Badge (pending) + secret prizes courtesy of osu! + 4 months of osu!supporter |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter + secret prizes courtesy of osu!                   |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter + secret prizes courtesy of osu!                   |
+|   ![Gold crown](/wiki/shared/crown-gold.png "1st place")   | Badge (pending) + secret prizes courtesy of peppy in behalf of osu! + 4 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter + secret prizes courtesy of peppy in behalf of osu!                   |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter + secret prizes courtesy of peppy in behalf of osu!                   |
 
 ## Organisation
 
