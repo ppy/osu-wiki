@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!mania 4K World Cup 2026: Quarterfinals & Semifinals Recap"
-date: 2026-09-22 20:00:00 +0000
+date: 2026-09-22 21:00:00 +0000
 series: world_cups
 ---
 
