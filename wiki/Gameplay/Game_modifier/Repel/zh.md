@@ -39,7 +39,7 @@ tags:
 
 - `斥力强度 (Repulsion strength)` (0.05–1.0，默认 0.5): 光标排斥打击物件的强度。
 
-## Scoring
+## 计分
 
 Repel 模组的分数倍率为 `1.00x`。但将其与 [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) 并用时，Hidden 模组的倍率将会降低 `0.02x`，参见 [Hidden (HD) § 计分](/wiki/Gameplay/Game_modifier/Hidden_(lazer)#计分).
 
