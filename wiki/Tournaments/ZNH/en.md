@@ -111,7 +111,7 @@ The Zenith LAN is run by various community members from Greece and beyond.
 
 1. The two players will `/roll`. The winner decides whether to choose the order of picks or bans, and the loser chooses the order of the remaining selection.
 2. The win condition for the matches, as well the as number of bans available to each player, depends on the round as follows:
-   - Round of 16: Best of 6 (first to 3), with 2 bans per player.
+   - Round of 16: Best of 5 (first to 3), with 2 bans per player.
    - Quarterfinals and Semifinals: Best of 9 (first to 5), with 2 bans per player.
    - Finals and Grand Finals: Best of 15 (first to 7), with 1 ban per player.
 3. During their turn, players will be given a maximum of 2 minutes to pick a map and an additional 1.5 minutes after the pick to be ready.
