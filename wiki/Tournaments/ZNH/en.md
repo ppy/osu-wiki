@@ -7,7 +7,7 @@ tags:
 
 ![Zenith LAN logo](img/banner.png)
 
-The **Zenith LAN** (***ZNH***) is a single-elimination 1v1 osu! tournament hosted by ::{ flag=GR }:: [KakashiSensei_](https://osu.ppy.sh/users/18254930) in Thessaloniki, Greece.
+The **Zenith LAN** (***ZNH***) is a single-elimination 1v1 osu! tournament hosted by ::{ flag=GR }:: [KakashiSensei_](https://osu.ppy.sh/users/18254930) in Thessaloniki, Greece as part of [Animecon: Run Thessaloniki VIII](https://anime-con.gr/)'s community program. It is the first major LAN osu! tournament to ever be held in the city of Thessaloniki.
 
 ## Tournament schedule
 
