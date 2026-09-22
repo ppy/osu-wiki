@@ -1,4 +1,7 @@
-
+---
+tags: # yamllint disable rule:braces rule:osu-wiki-nested-structure
+  - ZNH
+---
 
 # Zenith Lan
 
