@@ -25,7 +25,6 @@ The **Zenith Lan** (***ZNH***) is a 1v1, single-elimination, LAN, open rank osu!
 |   ![Gold crown](/wiki/shared/crown-gold.png "1st place")   | Badge (pending) + secret prizes courtesy of osu! + 4 months of osu!supporter |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter + secret prizes courtesy of osu!                   |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter + secret prizes courtesy of osu!                   |
-|                         *4th place*                        |                                                                              |
 
 ## Organisation
 
