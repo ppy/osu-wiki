@@ -7,7 +7,7 @@ tags: # yamllint disable rule:braces rule:osu-wiki-nested-structure
 
 ![ZNH logo](img/banner.png) <!-- replace "logo" with "banner" if that suits the image better -->
 
-The **Zenith Lan** (***ZNH***) is a 1v1, single-elimination, LAN, open rank osu! tournament hosted by ::{ flag=GR }:: [KakashiSensei_](https://osu.ppy.sh/users/18254930) in Greece.
+The **Zenith Lan** (***ZNH***) is a 1v1, single-elimination, LAN, open rank osu! tournament hosted by ::{ flag=GR }:: [KakashiSensei_](https://osu.ppy.sh/users/18254930) in Thessaloniki, Greece.
 
 ## Tournament schedule
 
