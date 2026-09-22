@@ -54,7 +54,7 @@ tags:
 
 ## 作图
 
-在 `.osu` [文件格式](/wiki/Client/File_formats/osu_(file_format)#hitsounds)中，咚和咔作为一般的[打击圈](/wiki/Gameplay/Hit_object/Hit_circle)存储，其颜色由音符带有的[打击音效](/wiki/Beatmapping/Hitsound)决定：哨声或掌声对应咔，其余情况对应咚。大音符没有单独的物件类型，仅仅是带有钹音效的物件。所有这些都让 osu!taiko 成为了唯一一个由音效直接决定游玩的游戏模式。
+在 `.osu` [文件格式](/wiki/Client/File_formats/osu_(file_format)#音效)中，咚和咔作为一般的[打击圈](/wiki/Gameplay/Hit_object/Hit_circle)存储，其颜色由音符带有的[打击音效](/wiki/Beatmapping/Hitsound)决定：哨声或掌声对应咔，其余情况对应咚。大音符没有单独的物件类型，仅仅是带有钹音效的物件。所有这些都让 osu!taiko 成为了唯一一个由音效直接决定游玩的游戏模式。
 
 ## 参考
 
