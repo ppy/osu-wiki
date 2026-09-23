@@ -7,7 +7,8 @@ tags:
 
 ![Zenith LAN logo](img/banner.png)
 
-The **Zenith LAN** (***ZNH***) is a single-elimination 1v1 osu! tournament hosted by ::{ flag=GR }:: [KakashiSensei_](https://osu.ppy.sh/users/18254930) in Thessaloniki, Greece as part of [Animecon: Run Thessaloniki VIII](https://anime-con.gr/)'s community program. It is the first badged greek LAN osu! tournament thats being held in the city of Thessaloniki. Come and have fun in an Anime Convention with a lot of things to do including seeing osu! players, space to play osu! freely and join us on Saturday 3rd of October where we have an Osu! Panel talking about the game.
+The **Zenith LAN** (***ZNH***) is a single-elimination 1v1 osu! tournament hosted by ::{ flag=GR }:: [KakashiSensei_](https://osu.ppy.sh/users/18254930) in Thessaloniki, Greece as part of [Animecon: Run Thessaloniki VIII](https://anime-con.gr/)'s community program. It is the first badged greek LAN osu! tournament thats being held in the city of Thessaloniki. Come and have fun in an Anime Convention with a lot of things to do including seeing osu! players, space to play osu! freely and join us on Saturday 3rd of October where we have an Osu! Panel talking about the game. This is an annual anime convention dedicated to anime, manga, cosplay, and Japanese pop culture. Ohh and one more thing some japanese idols will come and sing so dont lose that.
+
 
 ## Tournament schedule
 
@@ -38,7 +39,7 @@ The Zenith LAN is run by various community members from Greece and beyond.
 | Manager          | ::{ flag=GR }:: [Double_](https://osu.ppy.sh/users/20163454)                                                               |
 | Mappool selector | ::{ flag=GR }:: [JackPax](https://osu.ppy.sh/users/11226645)                                                               |
 | Streamer         | TBD                                                                                                                        |
-| Commentator      | ::{ flag=GR }:: [Current 02](https://osu.ppy.sh/users/29239717)                                                            |
+| Commentator      | ::{ flag=GR }:: [Current 02](https://osu.ppy.sh/users/29239717), ::{ flag=GR }:: [Isaki Riona](https://osu.ppy.sh/users/17294162)                                                           |
 | Designer         | ::{ flag=FR }:: [Kheops](https://osu.ppy.sh/users/18607342)                                                                |
 | Referee          | ::{ flag=GR }:: [Double_](https://osu.ppy.sh/users/20163454), ::{ flag=GR }:: [pan_har](https://osu.ppy.sh/users/26660680) |
 | Statistician     | ::{ flag=GR }:: [Double_](https://osu.ppy.sh/users/20163454)                                                               |
