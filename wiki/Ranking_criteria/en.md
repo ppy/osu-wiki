@@ -174,12 +174,6 @@ Each [osu!mania](/wiki/Game_mode/osu!mania) [key mode](osu!mania#common-terms) a
 - **[Gameplay sounds](/wiki/Skinning/Sounds#gameplay) excluding [active hitsounds](/wiki/Beatmapping/Hitsound#active-hitsound) should use the MP3 (`.mp3`) or Ogg Vorbis (`.ogg`) file format.** These files usually have long durations and uncompressed WAV (`.wav`) files are unnecessarily large in comparison, however uncompressed WAV should be used when it results in a smaller file size.
 - **Avoid replacing the hit finish in soft/normal samplesets with frequently used custom hitsound samples.** Using these finishes to represent snare/bass drums or a song's melody can sound obnoxious for anyone disabling beatmap hitsounds. Replacing hit whistles/claps is recommended because those samples are used more often. osu!taiko beatmaps are exempt from this guideline and have their own mode-specific hitsound sample guideline.
 
-### Allowances
-
-- **For consistency, beatmaps are encouraged to reuse existing audio files where possible.**
-  - **Featured Artist songs should use the audio file contained within the `.osz` template provided on the relevant [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists).**
-  - **Songs that have previously been ranked should reuse the audio file from a ranked beatmap of the song.** Crediting the original mapper or map is not required.
-
 ## Video and background
 
 ### Rules
