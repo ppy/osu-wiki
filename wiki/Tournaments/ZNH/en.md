@@ -58,7 +58,6 @@ The Zenith LAN is run by various community members from Greece and beyond.
 **[Download the mappack here! (108.8 MB)](https://drive.google.com/file/d/1RPmY3eN4FhW-eKGtGQ9NH3E_gn-c2AYX/view?usp=sharing)**
 
 - No Mod
-
   1. [Sou - Worst Regret (killian) \[Relief\]](https://osu.ppy.sh/beatmapsets/2184705#osu/4618010)
   2. [bilbordy - slishkom pozdno (Seni) \[Extreme\]](https://osu.ppy.sh/beatmapsets/2108626#osu/4440275)
   3. [POLKADOT STINGRAY - Telecaster Stripe (moph) \[Extreme\]](https://osu.ppy.sh/beatmapsets/969845#osu/2028973)
