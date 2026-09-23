@@ -177,8 +177,8 @@ Each [osu!mania](/wiki/Game_mode/osu!mania) [key mode](osu!mania#common-terms) a
 ### Allowances
 
 - **For consistency, beatmaps are encouraged to reuse existing audio files where possible.**
-  - **Featured Artists songs should use the audio file contained within the `.osz` template provided on the relevant [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists).**
-  - **Songs that have previously been ranked should reuse the audio file from a ranked beatmap of that song.** Crediting the original mapper or map is not required.
+  - **Featured Artist songs should use the audio file contained within the `.osz` template provided on the relevant [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists).**
+  - **Songs that have previously been ranked should reuse the audio file from a ranked beatmap of the song.** Crediting the original mapper or map is not required.
 
 ## Video and background
 
