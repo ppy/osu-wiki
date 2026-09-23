@@ -347,7 +347,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ### Grand Finals
 
-**[Download the mappack here (245 MB)](https://packs.ppy.sh/P338%20-%20osu%21mania%204K%20World%20Cup%202026%3A%20Grand%20Finals.zip)**\
+**[Download the mappack here (245 MB)](https://packs.ppy.sh/S1871%20-%20osu!%20Beatmap%20Pack%20%231871.zip)**\
 [Watch the showcase VOD here](https://www.twitch.tv/videos/2879618105)
 
 - Rice
