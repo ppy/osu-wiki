@@ -131,7 +131,7 @@ Powiązane ogłoszenie: [Community Contributors: 2017](https://osu.ppy.sh/home/n
 | ::{ flag=AU }:: [Syrin](https://osu.ppy.sh/users/5701575) | Stworzenie aplikacji [PerformancePlus](https://syrin.me/pp+/) i [osu!chan](https://osuchan.syrin.me) |
 | ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767) | Ogromny wkład w stworzenie i opublikowanie projektu Scorewatch |
 | ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) | Ogromny wkład w stworzenie i opublikowanie projektu Scorewatch |
-| ::{ flag=US }:: [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | Ogromny wkład w rozwój osu! wiki poprzez niezliczone zmiany, poprawki i recenzje|
+| ::{ flag=US }:: [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | Ogromny wkład w rozwój osu! wiki poprzez niezliczone zmiany, poprawki i recenzje |
 | ::{ flag=PL }:: [TPGPL](https://osu.ppy.sh/users/3944705) | Stworzenie fundamentów osu! wiki oraz wieloletni wkład w jej rozwój |
 
 ## 2019
@@ -283,14 +283,14 @@ Powiązane ogłoszenie: [Community Contributors: 2024](https://osu.ppy.sh/home/n
 
 | Użytkownik | Wkład |
 | :-- | :-- |
-| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Ogromny wkład w sprawy związane z moderacją, kierowanie zespołem i pisanie aktualności  |
+| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Ogromny wkład w sprawy związane z moderacją, kierowanie zespołem i pisanie aktualności |
 | ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) | Wybitna koordynacja produkcji muzyki oraz grafik dla osu! |
 | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | Ogromny wkład w społeczność oraz scenę tworzenia beatmap trybu osu!catch |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Ogromny wkład w społeczność trybu osu!catch oraz tworzenie różnych narzędzi |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Ogromny wkład w modowanie oraz scenę tworzenia beatmap trybu osu!mania |
 | ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) | Ogromny wkład w scenę turniejową i tworzenia beatmap trybu osu!mania |
 | ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) | Ogromny wkład w prace nad systemem pp poprzez dedykowane narzędzia ([huismetbenen](https://pp.huismetbenen.nl/)) |
-| ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | Ogromny wkład w osu!(stable) i prace nad systemem pp  |
+| ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | Ogromny wkład w osu!(stable) oraz prace nad systemem pp |
 | ::{ flag=CA }:: [emanfman](https://osu.ppy.sh/users/4136150) | Ogromny wkład w jednoczenie społeczności podczas eventów [r/place](https://www.reddit.com/r/place/) na portalu Reddit |
 | ::{ flag=RU }:: [cyperdark](https://osu.ppy.sh/users/9893708) | Ogromny wkład w dokumentowanie powtórek społeczności oraz tworzenie różnych narzędzi |
 | ::{ flag=CA }:: [FunOrange](https://osu.ppy.sh/users/2051389) | Ogromny wkład w społeczność poprzez tworzenie narzędzi ([osu-trainer](https://github.com/FunOrange/osu-trainer)) |
