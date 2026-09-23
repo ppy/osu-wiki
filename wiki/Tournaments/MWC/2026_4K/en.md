@@ -661,6 +661,5 @@ The weights for the Qualifiers are as follows:
 
 [^losers-bracket]: Losers bracket Grand Finals match
 [^winners-bracket]: Grand Finals match – final matchup depends on the winner of the preceding Losers bracket match
-[^showmatch]: Grand Finals showmatch
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rank sum
