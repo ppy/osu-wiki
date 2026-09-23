@@ -12,7 +12,7 @@ tags:
 
 #### Swap
 
-![Swap 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SW.png)
+![Swap 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SW.png?1)
 
 *咚变成咔，咔变成咚！*
 
