@@ -5,7 +5,7 @@
 :::
 
 ::: alert-note
-**Note:** For the discontinued multiplayer ranked system, see [Quick play](wiki/Gameplay/Quick_play).
+**Note:** For the discontinued multiplayer ranked system, see [Quick play](/wiki/Gameplay/Quick_play).
 :::
 **Ranked play** is a multiplayer mode in [osu!(lazer)](/wiki/Client/Release_stream/Lazer) where players can compete in 1v1 matches, climb up an all-new leaderboard, and progress through an all-new tier system.
 
