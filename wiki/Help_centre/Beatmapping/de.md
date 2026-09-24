@@ -14,7 +14,9 @@ tags:
 
 # Mapping und Editor
 
-*Hauptseite: [Hilfecenter](/wiki/Help_centre)*
+::: alert-note
+**Hauptseite:** [Hilfecenter](/wiki/Help_centre)
+:::
 
 Dieser Abschnitt beschäftigt sich mit Problemen mit dem Beatmap-Editor und Mapping generell.
 
