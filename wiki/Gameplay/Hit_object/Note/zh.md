@@ -16,7 +16,7 @@ tags:
 
 ![osu!mania 的音符](/wiki/shared/Mania_notes.jpg "osu!mania 的音符")
 
-**单点音符 (Notes)** 是 [osu!mania](/wiki/Game_mode/osu!mania) 谱面中的基本[打击物件](/wiki/Gameplay/Hit_object)。每个单点音符位于游玩区域的一[列](/wiki/Game_mode/osu!mania#playfield)中，在到达判定线时，需要按下对应列的按键进行击打。
+**单点音符 (Notes)** 是 [osu!mania](/wiki/Game_mode/osu!mania) 谱面中的基本[打击物件](/wiki/Gameplay/Hit_object)。每个单点音符位于游玩区域的一[列](/wiki/Game_mode/osu!mania#游玩区域)中，在到达判定线时，需要按下对应列的按键进行击打。
 
 社区行话里把单点音符称作*米粒 (rice)*，与之相反的是*面条 (noodles)*（[长按音符](/wiki/Gameplay/Hit_object/Hold_note)）。
 
