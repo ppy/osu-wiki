@@ -26,7 +26,9 @@ From this menu, the user can select the gamemode (and for osu!mania, the keycoun
 Upon entering the queue, the player is able to exit this menu to play solo, and will be notified when a match is ready to join.
 
 ## Ranked gameplay
+
 ### Discard phase
+
 ![](img/discard.jpg "Discard phase interface")
 
 At the start of each match, both players are dealt a hand of **five** cards. They are then given **30 seconds** to discard any number of cards that they would like to reroll.
@@ -37,6 +39,7 @@ A beatmap card can be right-clicked to open it's beatmap page.
 :::
 
 ### Pick phase
+
 ![](img/pickphase.jpg "Pick phase interface: players turn")
 
 After the discard phase, the player with the **lowest rating** will take their turn first. The current turn is signified by the colour of the background (blue for the user's turn, red for their opponent's turn).
@@ -49,6 +52,7 @@ If a player fails to pick or download a map, they will take damage.
 :::
 
 ### Beatmap results
+
 ![](img/scores.jpg "Ranked play results screen")
 
 After a beatmap is played, both players are shown a results screen showing how they each performed. After a short animation, the player with the worse score on the map will take damage.
@@ -61,7 +65,7 @@ Each player starts the match with **one million** health, and they will take dam
 
 Damage dealt is based on the following formula:
 
-    DamageDealt = (Score Difference * Multiplier) + 50000
+`DamageDealt = (Score Difference * Multiplier) + 50000`
 
 Multiplier is not shared between players, and starts at 1.0x for each player. This increases by 0.5 for a round loss, and 1 for a round win.
 
@@ -72,6 +76,7 @@ A match will end when any player reaches **zero** health.
 In the event that a player takes over one million damage for their first loss, their health will instead be set to one. This is intended to discourage single-map victories.
 
 ## Matchmaking Rating
+
 Matchmaking rating (shortened to "MMR" or simply "rating") is a variable assigned to each user which fluctuates depending on how well they perform in ranked play matches. Ratings are used to pair players of similar skill levels together when forming matches.
 
 A second 'uncertainty' variable is used when players do not have recent matches, resulting in greater changes to their rating. In the event where a player has never played ranked play, they are assigned an initial rating based on their performance points.
@@ -102,6 +107,3 @@ The lustrous tier instead consists of the 100 players for each gamemode.
 ## Trivia
 
 - The health system for ranked play was heavily inspired by a similar mechanic in *GeoGuessr*
-
-
-
