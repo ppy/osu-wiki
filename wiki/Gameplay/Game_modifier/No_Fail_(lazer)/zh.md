@@ -13,7 +13,7 @@ tags:
 
 #### No Fail
 
-![No Fail 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/NF.png)
+![No Fail 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/NF.png?1)
 
 *不管怎么样，你都失败不了。*
 

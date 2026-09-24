@@ -12,7 +12,7 @@ tags:
 
 #### Bubbles
 
-![Bubbles 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/BU.png)
+![Bubbles 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/BU.png?1)
 
 *别被爆开的它们分了心！*
 

@@ -16,7 +16,10 @@ Für Lizenzverhandlungen kann man sich ebenfalls an dieses Team wenden. Siehe [o
 
 ## Audio
 
-*Hinweis: Das Veröffentlichen oder Streamen von Spielinhalten auf anderen Seiten könnte möglicherweise anderen Lizenzbestimmungen unterliegen. Bitte gehe bei der Liveübertragung von Spielinhalten mit der gebotenen Sorgfalt vor.*
+::: alert-notice
+**Hinweis**
+Das Veröffentlichen oder Streamen von Spielinhalten auf anderen Seiten könnte möglicherweise anderen Lizenzbestimmungen unterliegen. Bitte gehe bei der Liveübertragung von Spielinhalten mit der gebotenen Sorgfalt vor.
+:::
 
 osu! stellt Mappern eine Sammlung an lizenzierten Songs über das [Featured-Artist](/wiki/People/Featured_Artists)-Programm zur Verfügung. Jeder Song in der [Auflistung](https://osu.ppy.sh/beatmaps/artists) ist für die Verwendung innerhalb von osu! kostenlos und es besteht kein Risiko, dass er entfernt wird.
 

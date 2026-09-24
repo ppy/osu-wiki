@@ -12,7 +12,7 @@ tags:
 
 #### Wiggle
 
-![Wiggle mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/WG.png)
+![Wiggle mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/WG.png?1)
 
 *They just won't stay still...*
 
@@ -23,7 +23,7 @@ tags:
 | Game modes | ![][osu!] |
 | Score multiplier | See [Scoring](#scoring) |
 | Status | Unranked |
-| Incompatible mods | [Transform (TR)](/wiki/Gameplay/Game_modifier/Transform), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised), [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
+| Incompatible mods | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Transform (TR)](/wiki/Gameplay/Game_modifier/Transform), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised), [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
 
 :::
 

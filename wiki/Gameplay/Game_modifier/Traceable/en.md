@@ -12,7 +12,7 @@ tags:
 
 #### Traceable
 
-![Traceable mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/TC.png)
+![Traceable mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/TC.png?1)
 
 *Put your faith in the approach circles...*
 
