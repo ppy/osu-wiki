@@ -1,7 +1,5 @@
 ---
 no_native_review: true
-outdated_translation: true
-outdated_since: c4f2e9fad13f8f3d44f481a18b5ede0c4ea3ccb7
 ---
 
 # Formatierung
@@ -700,9 +698,9 @@ Die URL aus der Adressleiste deines Webbrowsers sollte so kopiert werden, wie si
 
 Alle Benutzernamen müssen bei ihrer ersten Nennung verlinkt werden. Andere Nennungen sind optional, müssen aber im ganzen Artikel für alle Benutzernamen konsistent sein. Wenn es schwierig ist, die Benutzer-ID zu bestimmen, darf hier die Verlinkung übersprungen werden.
 
-Wenn zu anderen Benutzerprofilen verlinkt wird, muss die Benutzer-ID verwendet werden. Benutze die neue Webseite (`https://osu.ppy.sh/users/{Benutzername}`), um an die Benutzer-ID zu gelangen.
+Benutzerlinks müssen das Format `::{Linktext}::{ user={Benutzer-ID} }` verwenden, z. B. `::peppy::{ user=2 }`. Um an die Benutzer-ID zu gelangen, tippe `https://osu.ppy.sh/users/{Benutzername}` in einen Browser ein, wodurch du automatisch auf die richtige URL mit der Benutzer-ID weitergeleitet wirst. Der Linktext darf weitere Formatierungen enthalten, wie zum Beispiel **Fettschrift** oder *Kursivschrift*.
 
-Der Linktext des Benutzerlinks sollte den aktuellen Namen des Benutzers verwenden.
+Der Linktext sollte den aktuellen Namen des Benutzers verwenden. Üblicherweise werden Benutzernamen nicht entsprechend Namensänderungen aktualisiert, sondern die historischen Benutzernamen zur Zeit der Veröffentlichung des Artikels werden beibehalten.
 
 ##### Schwierigkeitsgrade
 
@@ -711,6 +709,8 @@ Sobald ein einziger Schwierigkeitsgrad verlinkt wird, sollte folgendes Format f�
 ```
 {Künstler} - {Titel} ({Ersteller}) [{Name_des_Schwierigkeitsgrads}]
 ```
+
+[Gibt es mehrere Ersteller](/wiki/Beatmap/Beatmap_collaborations), so darf `{Ersteller}` auch eine Liste von Benutzernamen sein.
 
 Der Link muss tatsächlich auf den Schwierigkeitsgrad verweisen. URLs für Beatmap-Schwierigkeitsgrade müssen wie folgt formatiert sein:
 
@@ -727,6 +727,8 @@ Sobald auf eine Beatmap verwiesen wird, benutze dieses Format für den Linktext:
 ```
 {Künstler} - {Titel} ({Ersteller})
 ```
+
+[Gibt es mehrere Ersteller](/wiki/Beatmap/Beatmap_collaborations), so darf `{Ersteller}` auch eine Liste von Benutzernamen sein.
 
 Alle URLs zu Beatmaps müssen folgendermaßen formatiert sein:
 
