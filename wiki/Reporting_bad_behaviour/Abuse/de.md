@@ -12,7 +12,7 @@ Die E-Mail-Adresse für Missbrauch wird nur von [peppy](https://osu.ppy.sh/users
 
 Nichts, was du an [abuse@ppy.sh](mailto:abuse@ppy.sh) sendest, wird jemals mit jemand anderem als ihm geteilt werden.
 
-Es gibt keine "Verjährungsfrist" für Missbrauch in osu! — zögere nicht, etwas zu melden nur weil es vor längerer Zeit passiert ist.
+Missbrauch "verjährt" nicht in osu! — zögere nicht, etwas zu melden, nur weil es vor längerer Zeit passiert ist.
 
 ## Jemand hat mir gegenüber unangebrachte sexuelle Annäherungen oder Bemerkungen gemacht! {id=bad-remarks}
 
