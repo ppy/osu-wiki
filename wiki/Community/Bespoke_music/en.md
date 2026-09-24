@@ -3016,6 +3016,14 @@ These songs are part of the [tomspicy osu! collection 01 EP](https://osu.ppy.sh/
 | --: | :-: | :-- | :-: |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/krimek/mastermaker "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/02QBEzZAqXm6VZziJGUagk "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://krimek.bandcamp.com/track/mastermaker "Bandcamp") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Krimek&query=%22MasterMaker%22 "osu! original") | Krimek - MasterMaker |  |
 
+#### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) [Pending Cup x Community Charting Contest 2026](https://osu.ppy.sh/community/forums/topics/2233835)
+
+| Links |  | Song | Beatmap |
+| --: | :-: | :-- | :-: |
+|  | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=siraph&query=%22Noctua%22 "osu! original") | siraph - Noctua |  |
+|  | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Tedjimo%20yomigY&query=%22Acacia%22 "osu! original") | Tedjimo yomigY - Acacia |  |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/voidisk/syabaritious-sensoriam-2026 "SoundCloud") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=V0iD&query=%22Syabaritious%20Sensoriam%22 "osu! original") | V0iD - Syabaritious Sensoriam |  |
+
 #### ![](/wiki/shared/mode/taiko.png) Mapping Global Taiko Showdown 2023
 
 | Links |  | Song | Beatmap |
@@ -3062,14 +3070,6 @@ These songs are part of the [tomspicy osu! collection 01 EP](https://osu.ppy.sh/
 | Links |  | Song | Beatmap |
 | --: | :-: | :-- | :-: |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/samstring/akarui-taiyo "SoundCloud") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=SAMString&query=%22Akarui%20Taiyo%22 "osu! original") | SAMString - Akarui Taiyo |  |
-
-####  [Pending Cup x Community Charting Contest 2026](https://osu.ppy.sh/community/forums/topics/2233835)
-
-| Links |  | Song | Beatmap |
-| --: | :-: | :-- | :-: |
-|  | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=siraph&query=%22Noctua%22 "osu! original") | siraph - Noctua |  |
-|  | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Tedjimo%20yomigY&query=%22Acacia%22 "osu! original") | Tedjimo yomigY - Acacia |  |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/voidisk/syabaritious-sensoriam-2026 "SoundCloud") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=V0iD&query=%22Syabaritious%20Sensoriam%22 "osu! original") | V0iD - Syabaritious Sensoriam |  |
 
 ### Standalone beatmap releases
 
