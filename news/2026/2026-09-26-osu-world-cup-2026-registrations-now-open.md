@@ -17,7 +17,6 @@ We are committing to lazer for future iterations of the osu! World Cup (note tha
 
 There are no major changes for this year except for an expanded Round of 16 mappool (from 18 beatmaps to 20), which will now run on a best-of-11 format. If you need a quick refresher on how the updated format works, we've got you covered:
 
-
 ### Double bracket format
 
 While the tournament still features the classic Qualifier stage, we have changed the usual Round of 32 for a Group stage. Instead of the usual 32 teams, there are **40 seeds** up for grabs – but there's a catch. The 40 qualifying teams will be divided into three distinct tiers:
