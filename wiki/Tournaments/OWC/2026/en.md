@@ -313,12 +313,3 @@ The final bracket configuration will be as follows:
    - **Do not ask for a reschedule unless it is absolutely needed. The tournament managers reserve the right to deny any rescheduling request.**
    - Late reschedule requests will not be accepted under any circumstances.
 6. Captains are chiefly responsible for their team's availability, and will be held accountable for any mismanagement in this regard. Captains that do not observe deadlines, act in bad faith when rescheduling matches, or similar offenses, are subject to the sanctions listed on the Tournament Rules section, rule 15.
-
-## Notes
-
-[^pf]: PF – Points for this team
-[^pa]: PA – Points against this team
-[^pd]: PD – Point differential: `PD = map wins - map losses`. Used as the first tiebreaker for the group
-[^groups-seed]: Qualifier seeding. Used as the second tiebreaker for the group
-[^qualifiers-seeding]: Used as the main seeding method
-[^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum
