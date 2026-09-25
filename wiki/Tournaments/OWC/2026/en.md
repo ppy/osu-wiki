@@ -14,7 +14,7 @@ The **osu! World Cup 2026** (***OWC 2026***) is a country-based osu! tournament 
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2026-09-25 (22:00 UTC)/2026-10-09 (23:59 UTC) |
+| Registration phase | 2026-09-25 (22:00 UTC)/2026-10-10 (23:59 UTC) |
 | Qualifier showcase | 2026-10-18 (17:00 UTC) |
 | Qualifier stage | 2026-10-24/2026-10-25 |
 | Group Stage | 2026-10-31/2026-11-08 |
