@@ -70,4 +70,4 @@ If your registration passes our internal checks, you will be placed on the candi
 
 *Remember that any registrations submitted after the deadline will not be considered under any circumstances — submit your registration ahead of time to avoid any last-minute headaches. If you run into any issues while signing up, email [accounts@ppy.sh](mailto:accounts@ppy.sh).*
 
-—Azer, ChillierPear, LeoFLT
+—Azer, ChillierPear & LeoFLT
