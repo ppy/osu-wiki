@@ -2,8 +2,6 @@
 stub: true
 tags:
   - WG
-outdated_translation: true
-outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 ---
 
 # Wiggle（模组）
@@ -23,8 +21,8 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 | 缩写 | WG |
 | 类别 | 娱乐 |
 | 游戏模式 | ![][osu!] |
-| 得分系数 | `1.00x` |
-| 状态 | 不计入排名 |
+| 得分倍率 | 见[计分](#计分) |
+| 状态 | 不计表现分 |
 | 不兼容的模组 | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Transform (TR)](/wiki/Gameplay/Game_modifier/Transform), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised), [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
 
 :::
@@ -40,5 +38,9 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 ![游戏客户端内的 Wiggle 自定义设置](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/WG.png)
 
 - `强度 (Strength)` (0.1–2.0，默认 1.0): 打击物件晃动的强度。
+
+## 计分
+
+Wiggle 模组的分数倍率为 `1.00x`。但将其与 [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) 并用时，Hidden 模组的倍率将会降低 `0.02x`，参见 [Hidden (HD) § 计分](/wiki/Gameplay/Game_modifier/Hidden_(lazer)#计分).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

@@ -2,8 +2,6 @@
 stub: true
 tags:
   - EZ
-outdated_translation: true
-outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 ---
 
 # Easy（lazer 模组）
@@ -27,15 +25,15 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 | 类别 | 降低难度 |
 | 默认快捷键 | `Q` |
 | 游戏模式 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| 得分系数 | `0.50x` |
-| 状态 | 计入排名 |
+| 得分倍率 | 见[计分](#计分) |
+| 状态 | 可计表现分 |
 | 不兼容的模组 ![][osu!] ![][osu!catch] ![][osu!mania] | [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)), [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) |
 | 不兼容的模组 ![][osu!taiko] | [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) |
 
 :::
 
 ::: alert-note
-**注:** 对于该文章的 osu!stable 版本，请见：[Easy（模组）](/wiki/Gameplay/Game_modifier/Easy)
+**注:** 对于该文章的 osu!(stable) 版本，请见：[Easy（模组）](/wiki/Gameplay/Game_modifier/Easy)
 :::
 
 ::: alert-note
@@ -69,6 +67,22 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 - `额外生命数 (Extra Lives)` (0–10，默认为 2): 开始游玩谱面时，额外生命的数目。
 
 更改额外生命数会导致分数**不计表现分**。
+
+## 计分
+
+### ![][osu!] osu!
+
+在 osu! 模式中，Easy 模组的默认得分倍率为 `0.80x`。与默认值相比，没多出一条额外生命，得分倍率会下降 `0.10x`，最小值为 `0.40x`（6 条额外生命时）。额外生命数小于 2 时，得分倍率不受影响。
+
+因此得分倍率为 `max(0.4, 0.8 - max(0, 0.1 * (extra_lives - 2)))`。[^multiplier]
+
+### ![][osu!taiko] ![][osu!catch] ![][osu!mania] 其他游戏模式
+
+在 osu!taiko、osu!catch 与 osu!mania 中，Easy 模组的得分倍率为 `0.50x`。
+
+## 参考
+
+[^multiplier]: [osu!(lazer) 源代码中的 `OsuScoreMultiplierCalculatorV2`](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Osu/Scoring/OsuScoreMultiplierCalculatorV2.cs#L112-L119)
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
