@@ -555,7 +555,6 @@ The final standings and statistics for the Qualifiers stage can be found [on thi
 6. Captains are chiefly responsible for their team's availability, and will be held accountable for any mismanagement in this regard. Captains that do not observe deadlines, act in bad faith when rescheduling matches, or similar offenses, are subject to sanctions.
 7. Teams are encouraged to create "Threads" in the `#rescheduling` channel of the tournament's Discord server when in need of extended discussion regarding a reschedule. This allows the tournament organisers to intervene if required, and provides them with great context to help resolve disputes, or to accommodate late reschedules. Threads greatly expedite complicated rescheduling processes, and may grant exceptions for late reschedules if circumstances require it.
 
-[^winners-bracket]: Winners' bracket match
 [^qualifiers-seeding]: Cumulative z-score, scaled to 0–100
 [^austria-hungary]: Country merge between Austria and Hungary
 [^czechoslovakia]: Country merge between Czechia and Slovakia
