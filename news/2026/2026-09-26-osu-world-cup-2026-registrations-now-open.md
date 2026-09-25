@@ -9,9 +9,9 @@ Greatness is once again upon us. Get ready as the curtains rise on the 17th osu!
 
 ![](/wiki/Tournaments/OWC/2026/img/owc2026-banner.jpg)
 
-For this year, there are no major changes from 2025, with the exception of an increase in the mappool size from Round of 16, as well as a best of 11 format to accompany it. If you still need a refresher, look no further – we got you covered.
+There are no major changes for this year except for an expanded Round of 16 mappool, which will now run on a best-of-11 format. If you need a quick refresher on how the updated format works, we've got you covered.
 
-## Group stage
+## Tournament format
 
 While the tournament still features the classic Qualifier stage, we have changed the usual Round of 32 for a Group stage. Instead of the usual 32 teams, there are **40 seeds** up for grabs – but there's a catch. The 40 qualifying teams will be divided into three distinct tiers:
 
@@ -19,7 +19,7 @@ While the tournament still features the classic Qualifier stage, we have changed
 - **Challengers (Seeds 9–24):** This group will feature 16 teams, all advancing to the Round of 16 (either winners or losers bracket). This group will feature 16 teams competing for eight winners bracket spots, with the bottom eight finishers being relegated to the losers bracket instead.
 - **Contenders (Seeds 25–40):** The final 16 teams, the Contenders will have to prove their skills in order to earn their spot in the bracket stage.
 
-Replacing the Round of 32, the Group Stage is back and will now take place over **two weeks**. The **Challenger** and **Contender** teams will be drafted into their own separate groups of four, with each team playing 3 matches in a classic Round Robin format. This new system is designed to create closer, fairer matches, ensuring that every team that qualifies gets to experience the competition for as long as possible.
+Replacing the Round of 32, the Group Stage is back and will now take place over **two weeks**. The **Challenger** and **Contender** teams will be drafted into their own separate groups of four, with each team playing 3 matches in a classic Round Robin format. This system is designed to create closer matches, ensuring that every team that qualifies gets to experience the competition for as long as possible.
 
 Team placements after three group stage matches will determine their final seeding:
 
@@ -28,7 +28,7 @@ Team placements after three group stage matches will determine their final seedi
 
 This culminates in a familiar Round of 16 structure, where the 8 Legends will face the top 8 Challengers, and the bottom 8 Challengers will take on the top 8 Contenders. 
 
-As always, for more details on this (and more!), please refer to the **[osu! World Cup 2026 wiki article](/wiki/Tournaments/OWC/2026)**. For this year in specific, we urge you to check the [Group stage instructions](/wiki/Tournaments/OWC/2026#group-stage-instructions) section, as it details how the group stage will work in full. You can also discuss this event in the **[official discussion thread](DISC_THREAD)** or the public **[community server](https://discord.com/invite/0Vxo9AsejDkGlk3H)**.
+As always, for more details on this (and more!), please refer to the **[osu! World Cup 2026 wiki article](/wiki/Tournaments/OWC/2026)**. For this year in specific, we urge you to check the [Group stage instructions](/wiki/Tournaments/OWC/2026#group-stage-instructions) section, as it details how the group stage will work in full. You can also discuss this event in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/2248588)** or the public **[community server](https://discord.com/invite/0Vxo9AsejDkGlk3H)**.
 
 ## Tournament schedule
 

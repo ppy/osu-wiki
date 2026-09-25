@@ -58,7 +58,7 @@ Group leaders denoted in **bold**.
 [![Click here to register for OWC 2026](img/register-wiki.png)](https://osu.ppy.sh/community/tournaments/58)
 
 - [Livestream](https://www.twitch.tv/osulive)
-- [Discussion thread](DISC_THREAD)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/2248588)
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/58)
 
 ## Ruleset
