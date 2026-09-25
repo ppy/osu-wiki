@@ -1,4 +1,8 @@
 separator: ，
+tables:
+  no_members: 目前尚无见习成员。
+  name: 名字
+  additional_languages: 语言
 alumni:
   roles:
     academy: osu!academy 创立者
