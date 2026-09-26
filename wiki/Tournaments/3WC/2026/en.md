@@ -255,13 +255,13 @@ The 3 Digit World Cup 2026 was run by various community members.
 
 Detailed statistics for this round can be found [on this spreadsheet](https://docs.google.com/spreadsheets/d/14vg83XNenlDc9U8k7mIbGZ-ldRMaKF1ByM8vXEDIFs4).
 
-Saturday, 28 March 2025:
+Saturday, 28 March 2026:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **Hong Kong** ::{ flag=HK }:: | **7** | 4 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/120815961) | [#1](https://www.youtube.com/watch?v=9RA6a7dtq_A) |
 
-Sunday, 29 March 2025:
+Sunday, 29 March 2026:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
@@ -271,14 +271,14 @@ Sunday, 29 March 2025:
 
 Detailed statistics for this round can be found [on this spreadsheet](https://docs.google.com/spreadsheets/d/1rcYwLFh8XHoZwLAOjgWgWMX6cinoG-nWK2ZgoE-tpV4).
 
-Saturday, 21 March 2025:
+Saturday, 21 March 2026:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | Canada ::{ flag=CA }:: | 0 | **7** | ::{ flag=AU }:: **Australia** | [#1](https://osu.ppy.sh/community/matches/120768736) | [#1](https://www.youtube.com/watch?v=pT6N8KppmTo) |
 | Chile ::{ flag=CL }:: | 4 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/120769147) | [#1](https://www.youtube.com/watch?v=AgwnDc_6-8o) |
 
-Sunday, 22 March 2025:
+Sunday, 22 March 2026:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
@@ -289,13 +289,13 @@ Sunday, 22 March 2025:
 
 Detailed statistics for this round can be found [on this spreadsheet](https://docs.google.com/spreadsheets/d/1YY_7TtGUtxVIPZwYBA74-Gf833__pnltG7Kq3q9JwqA).
 
-Friday, 13 March 2025:
+Friday, 13 March 2026:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **United States** ::{ flag=US }:: | **7** | 0 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/120716873) | [#1](https://www.youtube.com/watch?v=WVB9NtWX9oc) |
 
-Saturday, 14 March 2025:
+Saturday, 14 March 2026:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
@@ -305,7 +305,7 @@ Saturday, 14 March 2025:
 | **France** ::{ flag=FR }:: | **7** | 1 | ::{ flag=AH }:: Austria-Hungary | [#1](https://osu.ppy.sh/community/matches/120722521) | [#1](https://www.youtube.com/watch?v=49fDuIBOmXo) |
 | Germany ::{ flag=DE }:: | 3 | **7** | ::{ flag=RO }:: **Romania** | [#1](https://osu.ppy.sh/community/matches/120723957) | [#1](https://www.youtube.com/watch?v=rIOwoa9xa_o) |
 
-Sunday, 15 March 2025:
+Sunday, 15 March 2026:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
@@ -316,7 +316,7 @@ Sunday, 15 March 2025:
 
 Detailed statistics for this round can be found [on this spreadsheet](https://docs.google.com/spreadsheets/d/1AunvW4EvAEZBAyodO5FFrUthfsfiXJhQxaQO-IH7nUQ).
 
-Saturday, 7 March 2025:
+Saturday, 7 March 2026:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
@@ -324,7 +324,7 @@ Saturday, 7 March 2025:
 | Indonesia ::{ flag=ID }:: | 3 | **6** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/120673679) | [#1](https://www.youtube.com/watch?v=CAcAGpQAMlo) |
 | **Chile** ::{ flag=CL }:: | **6** | 2 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/120674612) | [#1](https://www.youtube.com/watch?v=g_03VUxadVw) |
 
-Sunday, 8 March 2025:
+Sunday, 8 March 2026:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
@@ -333,7 +333,7 @@ Sunday, 8 March 2025:
 | **Austria-Hungary** ::{ flag=AH }:: | **6** | 5 | ::{ flag=IB }:: Iberia | [#1](https://osu.ppy.sh/community/matches/120684090) | [#1](https://www.youtube.com/watch?v=gLy--xt1hhc) |
 | **Canada** ::{ flag=CA }:: | **6** | 3 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/120684612) | [#1](https://www.youtube.com/watch?v=WLNONVeLpro) |
 
-Monday, 9 March 2025:
+Monday, 9 March 2026:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
@@ -343,7 +343,7 @@ Monday, 9 March 2025:
 
 Detailed statistics for this round can be found [on this spreadsheet](https://docs.google.com/spreadsheets/d/18bf9afBcXF6soyYyvCQk5u77A8SeFzJa4KIbpsnle8k).
 
-Saturday, 28 February 2025:
+Saturday, 28 February 2026:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
@@ -352,7 +352,7 @@ Saturday, 28 February 2025:
 | **Germany** ::{ flag=DE }:: | **6** | 3 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/120626438) | [#1](https://www.youtube.com/watch?v=gnMyVvBCAUg) |
 | **United States** ::{ flag=US }:: | **6** | 0 | ::{ flag=AH }:: Austria-Hungary | [#1](https://osu.ppy.sh/community/matches/120628312) | [#1](https://www.youtube.com/watch?v=5u6lnFCt0k0) |
 
-Sunday, 1 March 2025:
+Sunday, 1 March 2026:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
