@@ -32,6 +32,7 @@ Tournois officiels organisés par l'équipe d'osu!.
 | [osu! World Cup 2023](OWC/2023) | 21/10/2023 | 03/12/2023 | ::{ flag=US }:: États-Unis | ::{ flag=KR }:: Corée du Sud | ::{ flag=AU }:: Australien |
 | [osu! World Cup 2024](OWC/2024) | 26/10/2024 | 08/12/2024 | ::{ flag=KR }:: Corée du Sud | ::{ flag=US }:: États-Unis | ::{ flag=AU }:: Australien |
 | [osu! World Cup 2025](OWC/2025) | 25/10/2025 | 14/12/2025 | ::{ flag=PL }:: Pologne | ::{ flag=US }:: États-Unis | ::{ flag=AU }:: Australien |
+| [osu! World Cup 2026](OWC/2026) | 25/10/2026 | 13/12/2026 | *À déterminé* | *À déterminé* | *À déterminé* |
 
 ### ![](/wiki/shared/mode/taiko.png) [osu!taiko World Cup](TWC)
 
