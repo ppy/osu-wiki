@@ -700,7 +700,7 @@ Alle Benutzernamen müssen bei ihrer ersten Nennung verlinkt werden. Andere Nenn
 
 Benutzerlinks müssen das Format `::{Linktext}::{ user={Benutzer-ID} }` verwenden, z. B. `::peppy::{ user=2 }`. Um an die Benutzer-ID zu gelangen, tippe `https://osu.ppy.sh/users/{Benutzername}` in einen Browser ein, wodurch du automatisch auf die richtige URL mit der Benutzer-ID weitergeleitet wirst. Der Linktext darf weitere Formatierungen enthalten, wie zum Beispiel **Fettschrift** oder *Kursivschrift*.
 
-Der Linktext sollte den aktuellen Namen des Benutzers verwenden. Üblicherweise werden Benutzernamen nicht entsprechend Namensänderungen aktualisiert, sondern die historischen Benutzernamen zur Zeit der Veröffentlichung des Artikels werden beibehalten.
+Der Linktext sollte den aktuellen Namen des Benutzers verwenden. Üblicherweise werden bei Namensänderungen die historischen Benutzernamen zur Zeit der Veröffentlichung des Artikels beibehalten, anstatt sie zu aktualisieren.
 
 ##### Schwierigkeitsgrade
 
