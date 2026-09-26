@@ -656,10 +656,10 @@ Detailed statistics can be seen in the [information spreadsheet](https://docs.go
 
 1. Please fill this [Google Form](https://forms.gle/bi7Hhci8gnFL3SaE6) to register.
    - Player **must** join this [Discord server](https://discord.gg/DqPuRU8Bhc) or this [QQ group](https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=pRNiqDnTUmLKQgy8iy2LnLx3uTYIL0dG) after registering.
-2. To ensure valid registrations, a list of every participant will be sent for [tournament screening](/wiki/Tournaments/Official_support#tournament-screening).
+2. To ensure valid registrations, a list of every participant will be sent for [tournament screening](/wiki/Tournaments/Official_support#screening).
    - Players must not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 3. A list of all successfully registered players will be published after registration.
-4. [Tournament staff members](/wiki/Tournaments/Official_support#staff) and the members of the winner team in JHC2024 must not participate as players in the tournament.
+4. [Tournament staff members](/wiki/Tournaments/Official_support#staff-expectations) and the members of the winner team in JHC2024 must not participate as players in the tournament.
 
 ### Qualifier instructions
 
