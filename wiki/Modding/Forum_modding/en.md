@@ -31,7 +31,9 @@ A forum thread was automatically moved between different forum sections loosely 
 
 ### Star priority
 
-*Main article: [Star priority](/wiki/Modding/Star_priority)*
+::: alert-note
+**Main page:** [Star priority](/wiki/Modding/Star_priority)
+:::
 
 In every subforum, beatmap threads were sorted by their star priority, which had several purposes:
 
@@ -80,7 +82,9 @@ While not required, mappers were expected to reply to every mod received. A repl
 
 ### Kudosu
 
-*Main article: [Kudosu](/wiki/Modding/Kudosu)*
+::: alert-note
+**Main page:** [Kudosu](/wiki/Modding/Kudosu)
+:::
 
 If a mod post was deemed useful, the mapper or a member of the QAT/BAT/BN could award it with kudosu. According to an unwritten rule, only a user's first mod post was eligible to gain kudosu. Regardless of how many suggestions were in a post or how useful it was to the mapper, the amount of kudosu received was consistent:
 

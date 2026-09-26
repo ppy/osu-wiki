@@ -2,16 +2,14 @@
 stub: true
 tags:
   - FC
-outdated_translation: true
-outdated_since: cfef44fa9c881a508f155745740cb091b5422c84
 ---
 
-# Full combo
+# Full Combo
 
-**Full combo** (oder kurz *FC*) ist ein Begriff zum Beschreiben der Situation, wenn ein Spieler die maximal mögliche [Combo](/wiki/Beatmapping/Combo) auf einer [Beatmap](/wiki/Beatmap) erreicht. Vollständige Combos werden vergeben, wenn eine Beatmap ohne Misses, [Sliderbreaks](/wiki/Gameplay/Judgement/Slider_break) oder fallen gelassene [Sliderenden](/wiki/Gameplay/Hit_object/Slider/Slidertail) erfolgreich durchgespielt wird.
+**Full Combo** (oder kurz *FC*, zu Dt. vollständige Combo) ist ein Begriff zum Beschreiben der Situation, wenn ein Spieler die maximal mögliche [Combo](/wiki/Gameplay/Combo_(score_multiplier)) auf einer [Beatmap](/wiki/Beatmap) erreicht. Vollständige Combos werden vergeben, wenn eine Beatmap ohne Misses, [Sliderbreaks](/wiki/Gameplay/Judgement/Slider_break) oder fallen gelassene [Sliderenden](/wiki/Gameplay/Hit_object/Slider/Slidertail) erfolgreich durchgespielt wird.
 
-Scores, die durch fallen gelassene Sliderenden eine Combo verloren haben, werden weithin von der Community als vollständige Combos angesehen. Das unterscheidet sich vom Spiel-Client und der Anzeige auf der Webseite.
+Scores, die durch fallen gelassene Sliderenden eine Combo verloren haben, werden weithin von der Community als vollständige Combos angesehen. Das unterscheidet sich vom Spiel-Client und der Anzeige auf der Webseite. Ein Score mit der maximal möglichen Combo wird auch als **Perfect Full Combo** — kurz *PFC* oder zu Dt. perfekte vollständige Combo; nicht zu verwechseln mit der Note [SS](/wiki/Gameplay/Grade) — bezeichnet, um zwischen Scores mit und ohne fallen gelassene Sliderenden unterscheiden zu können.
 
-![Screenshot eines Scores mit einer vollständigen Combo und einer unterbrochenen Combo](img/combo-comparison.png "Der Top-Score ist eine vollständige Combo und der untere Score ist eine unterbrochene Combo.")
+![Screenshot eines Scores mit einer vollständigen Combo und einer unterbrochenen Combo](img/combo-comparison.png "Der obere Score ist eine vollständige Combo und der untere Score ist eine unterbrochene Combo.")
 
 Da der [Score](/wiki/Gameplay/Score) eines individuellen Objekts in [osu!](/wiki/Game_mode/osu!) und [osu!catch](/wiki/Game_mode/osu!catch) stark vom Combo-Multiplikator abhängt und praktisch unbegrenzt ist, vergeben vollständige Combos in diesen Spielmodi typischerweise den höchsten Score.

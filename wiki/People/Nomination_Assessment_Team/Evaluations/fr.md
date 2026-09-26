@@ -6,7 +6,9 @@ outdated_since: 85884faf3c55f4909a718caf3489f02a2908e59b
 
 # Évaluations des Beatmap Nominator
 
-*Voir également : [Devenir un Beatmap Nominator § Processus de candidature](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator#processus-de-candidature)*
+::: alert-note
+**Voir également** : [Devenir un Beatmap Nominator § Processus de candidature](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator#processus-de-candidature)
+:::
 
 L'évaluation des candidats au poste de [Beatmap Nominator](/wiki/People/Beatmap_Nominators) (*BN*) et des Beatmap Nominator actuels est effectuée par les membres de la [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*). Ces évaluations suivent un format défini afin de garantir que chaque candidature et chaque nominateur soient examinés régulièrement. Toutes les évaluations ont lieu sur le [site web des BN](https://bn.mappersguild.com/).
 

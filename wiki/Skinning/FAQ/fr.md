@@ -40,7 +40,9 @@ Vous pouvez également quitter et rouvrir osu! ou lancer l'updater pour recharge
 
 ### Que sont les skinning sets ?
 
-*Page principale : [Ranking Criteria/Skin Set List](/wiki/Ranking_criteria/Skin_set_list)*
+::: alert-note
+**Page principale** : [Ranking Criteria/Skin Set List](/wiki/Ranking_criteria/Skin_set_list)
+:::
 
 Dans osu!, il y a plus de 200 éléments qui peuvent être skinnés (sans compter les images animées individuelles). Cependant, vous n'êtes pas obligé de tous les skinner. Vous pouvez simplement les supprimer car osu! utilisera les images par défaut pour ceux que vous n'avez pas inclus.
 
@@ -133,7 +135,9 @@ Il est vraiment important d'inclure diverses captures d'écran du gameplay et du
 
 ### Qu'est-ce que skin.ini ?
 
-*Page principale : [skin.ini](/wiki/Skinning/skin.ini)*
+::: alert-note
+**Page principale** : [skin.ini](/wiki/Skinning/skin.ini)
+:::
 
 ### Qu'est-ce que la v1.0 et la v2.0+ ?
 
@@ -210,7 +214,10 @@ Toutefois, l'écran de classement d'osu!mania fait exception à cette règle. En
 2. L'image statique dans le répertoire racine.
 3. L'image par défaut.
 
-*Remarque : Dans osu!mania, osu! ignore le chemin spécifié dans le fichier `skin.ini` et utilisera seulement l'image du répertoire racine (le dossier où les éléments de skin sont chargés).*
+::: alert-notice
+**Note**
+Dans osu!mania, osu! ignore le chemin spécifié dans le fichier `skin.ini` et utilisera seulement l'image du répertoire racine (le dossier où les éléments de skin sont chargés).
+:::
 
 ## Animations
 
@@ -220,7 +227,10 @@ Tout d'abord, vérifiez la liste des éléments pour voir si l'élément que vou
 
 Par exemple, si vous essayez d'animer `scorebar-colour.png`, nommez la première image `scorebar-colour-0.png`, puis la deuxième `scorebar-colour-1.png`, puis la troisième `scorebar-colour-2.png`, et répétez pour le reste.
 
-*Remarque : tous les éléments n'ont pas un trait d'union (`-`) entre le nom et le numéro de l'image. Consultez la liste des éléments pour connaître les noms des animations.*
+::: alert-notice
+**Note**
+tous les éléments n'ont pas un trait d'union (`-`) entre le nom et le numéro de l'image. Consultez la liste des éléments pour connaître les noms des animations.
+:::
 
 Les fréquences d'images de l'animation pour chaque élément sont incohérentes. Certains utilisent une valeur définie dans le fichier skin.ini, d'autres utilisent la valeur définie par le client, tandis que d'autres encore sont basés sur le BPM (battements par minute) de la beatmap. Pour cette raison, l'animation des éléments de skin se fait par essais et erreurs (voir la section suivante pour les méthodes de résolution de ce problème).
 
@@ -273,7 +283,9 @@ Vous devez avoir un tag [osu!supporter](/wiki/osu!supporter) pour voir l'image d
 
 ### Que fait @2x ?
 
-*Page principale : [HD images](#images-hd)*
+::: alert-note
+**Page principale** : [HD images](#images-hd)
+:::
 
 ### Mes tambours taiko sont dans la mauvaise position !
 
@@ -281,7 +293,9 @@ Ouvrez le fichier [skin.ini](/wiki/Skinning/skin.ini) et changez la `Version` en
 
 ### Comment modifier les couleurs de la combinaison ?
 
-*Page principale : [skin.ini](/wiki/Skinning/skin.ini#[colours])*
+::: alert-note
+**Page principale** : [skin.ini](/wiki/Skinning/skin.ini#[colours])
+:::
 
 ### Comment désactiver un ou plusieurs hitsounds ?
 

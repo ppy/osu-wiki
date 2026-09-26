@@ -19,7 +19,9 @@ In the modern [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure), the 
 
 ## History
 
-*See also: [Mapping and modding timeline](/wiki/History_of_osu!/Mapping_and_modding_timeline)*
+::: alert-note
+**See also:** [Mapping and modding timeline](/wiki/History_of_osu!/Mapping_and_modding_timeline)
+:::
 
 Bubbles were introduced by ::{ flag=AU }:: [peppy](/wiki/People/peppy) on October 29, 2007, for "beatmaps that are being considered for ranked play (pending further moderator's feedback)". Setting a beatmap thread's icon to a bubble was a way for BAT members to indicate that the beatmap was of good quality and had followed the [ranking criteria](/wiki/Ranking_criteria)<!-- internal reference: https://osu.ppy.sh/community/forums/topics/619 -->.
 

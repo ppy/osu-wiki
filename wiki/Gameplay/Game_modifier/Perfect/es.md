@@ -13,9 +13,17 @@ tags:
 
 ![Icono del mod PF](/wiki/shared/mods/PF.png "Icono del mod Perfect (PF)")
 
-*Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase: [Perfect (mod de lazer)](/wiki/Gameplay/Game_modifier/Perfect_(lazer))*\
-*Para la lista completa de los mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*\
-*Véase también: [Sudden Death (mod)](/wiki/Gameplay/Game_modifier/Sudden_Death)*
+::: alert-note
+**Nota:** Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase [Perfect (mod de lazer)](/wiki/Gameplay/Game_modifier/Perfect_(lazer))
+:::
+
+::: alert-note
+**Nota:** Para la lista completa de los mods, véase [Modificador del juego](/wiki/Gameplay/Game_modifier)
+:::
+
+::: alert-note
+**Véase también:** [Sudden Death (mod)](/wiki/Gameplay/Game_modifier/Sudden_Death)
+:::
 
 ## Resumen
 

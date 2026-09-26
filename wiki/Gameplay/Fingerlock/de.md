@@ -10,7 +10,9 @@ tags:
 
 # Fingerlock
 
-*Nicht zu verwechseln mit [Notelock](/wiki/Gameplay/Judgement/Notelock) oder [Denkblockade](/wiki/Gameplay/Mind_block).*
+::: alert-note
+**Anmerkung:** Nicht zu verwechseln mit [Notelock](/wiki/Gameplay/Judgement/Notelock) oder [Denkblockade](/wiki/Gameplay/Mind_block).
+:::
 
 **Fingerlock** (auch `Finger-Lock` oder `Finger Lock` genannt) ist ein Begriff, der das Gefühl beschreibt, die Kontrolle über die Finger zu verlieren, während man osu! spielt. Obwohl der Begriff nicht spezifisch für osu! ist, wird er von Spielern häufig verwendet, um ihre Frustration über Situationen auszudrücken, in denen ein Spieler weiß, wann und wo er ein [Hit-Objekt](/wiki/Gameplay/Hit_object) treffen muss, aber unerklärlicherweise die Taste einfach nicht drückt, was zu einem Gefühl führt, als sei der Finger "gesperrt" (engl. "locked"). Daher auch der Name "Fingerlock".
 
@@ -18,7 +20,10 @@ tags:
 
 ## Ursachen
 
-*Vorsicht: Fingerlock ist **kein** Krankheitszustand. Alle angeblichen Forschungsergebnisse oder allgemein bekannten Informationen der osu! Community über die Ursache und/oder die langfristigen Auswirkungen sind **nicht als wissenschaftlich** zu betrachten. Die osu!-Community ist nicht qualifiziert, medizinische Ratschläge zu erteilen; verwende das osu!-Wiki nicht, um medizinische Beschwerden zu diagnostizieren.*
+::: alert-caution
+**Vorsicht**
+Fingerlock ist **kein** Krankheitszustand. Alle angeblichen Forschungsergebnisse oder allgemein bekannten Informationen der osu! Community über die Ursache und/oder die langfristigen Auswirkungen sind **nicht als wissenschaftlich** zu betrachten. Die osu!-Community ist nicht qualifiziert, medizinische Ratschläge zu erteilen; verwende das osu!-Wiki nicht, um medizinische Beschwerden zu diagnostizieren.
+:::
 
 Fingerlock ist ein häufiges Phänomen, das viele erfahrene osu!-Spieler erleben. Die meisten Spieler sind sich einig, dass Fingerlock im Allgemeinen kein Grund zur Sorge ist. Wenn ein Spieler jedoch häufig unter anhaltenden oder schmerzhaften Fingerlocks leidet, sollte er einen Arzt aufsuchen, da es sich um eine gesundheitliche Störung handeln kann.
 

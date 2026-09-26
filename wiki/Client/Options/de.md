@@ -60,7 +60,7 @@ Du kannst auf dieses Menü durch das Klicken auf deine Benutzerkarte zugreifen, 
 
 | Name | Beschreibung | Typ | Standardwert |
 | :-- | :-- | :-- | :-- |
-| `Updatequelle` | Zeigt eine Liste an Builds an, die du benutzen kannst. | Dropdown-Menü | `Stable` |
+| `Updatequelle` | Zeigt eine Liste an Builds an, die du benutzen kannst. | Dropdown-Menü | `Stabil` |
 | `osu! ist auf dem neuesten Stand!` | Klicke, um den Spiel-Client zu zwingen, nach Updates zu suchen und diese herunterzuladen, falls verfügbar. | Button |  |
 | `osu!-Ordner öffnen` | Öffnet den lokalen osu!-Ordner, der deine Skins, Beatmaps usw. enthält. | Button |  |
 
@@ -70,9 +70,8 @@ Wenn du die Dropdown-Liste unter `Updatequelle` öffnest, hast du folgende Optio
 
 | Name | Beschreibung |
 | :-- | :-- |
-| `Stable` | Stable public release build. |
-| `Beta` | Dev build - erhält neue Funktionen früher, aber möglicherweise leicht fehlerhaft. |
-| `Cutting Edge (Experimentell)` | Dev build - erhält neue Funktionen noch früher, aber möglicherweise mit vielen Fehlern. |
+| `Stabil` | Ofizielle Version von osu!(stable). |
+| `Cutting Edge (Experimentell)` | Dev build - erhält Updates früher, aber möglicherweise fehlerhaft. |
 
 ## Grafik
 
@@ -92,7 +91,10 @@ Dieser Abschnitt ist über das Aussehen des Spiel-Clients, Teile der Benutzerobe
 
 ---
 
-*Anmerkung: Wenn der Spiel-Client nicht das aktive Fenster ist, dann wird das FPS-Limit automatisch auf 30 FPS gesetzt.*\
+::: alert-notice
+**Anmerkung:** Wenn der Spiel-Client nicht das aktive Fenster ist, dann wird das FPS-Limit automatisch auf 30 FPS gesetzt.
+:::
+
 *Vorsicht für Laptop-Nutzer: `Unbegrenzt (nur im Spiel)` zu benutzen, kann dafür sorgen, dass dein Laptop überhitzt!*
 
 Wenn du die Dropdown-Liste zu `FPS-Limit` öffnest, wirst du folgende Optionen sehen:

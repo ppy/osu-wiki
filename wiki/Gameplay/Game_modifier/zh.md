@@ -33,7 +33,9 @@ tags:
 
 ## 模组列表
 
-*参见：[概要（游戏模组）](/wiki/Gameplay/Game_modifier/Summary)*
+::: alert-note
+**参见：** [概要（游戏模组）](/wiki/Gameplay/Game_modifier/Summary)
+:::
 
 下表列出的所有模组只能在它们右侧列出的游戏模式（![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]）内发挥作用。
 

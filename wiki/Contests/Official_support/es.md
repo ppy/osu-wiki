@@ -14,7 +14,9 @@ tags:
 
 # Soporte oficial para concursos de beatmapping
 
-*Para el soporte para torneos, véase: [Soporte oficial para torneos](/wiki/Tournaments/Official_support).*
+::: alert-note
+**Nota:** Para el soporte para torneos, véase [Soporte oficial para torneos](/wiki/Tournaments/Official_support).
+:::
 
 Los [concursos de beatmapping](/wiki/Contests) pueden recibir soporte del [osu! team](/wiki/People/osu!_team) siempre que cumplan ciertos criterios.
 

@@ -112,7 +112,10 @@ The Continental Global Taiko Showdown 2021 was run by various community members.
 
 ### Regional phase
 
-*Note: Global ranks are recorded at the end of registration.*
+::: alert-notice
+**Notice**
+Global ranks are recorded at the end of registration.
+:::
 
 #### Asia
 
@@ -1722,7 +1725,7 @@ Saturday, 20 March 2021:
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Gustav0eiji ::{ flag=BR }:: | 1 | **7** | ::{ flag=CL }:: **Necromancy-** | [#1](https://osu.ppy.sh/community/matches/78587416) |
-| **Necromancy-** ::{ flag=CL }:: | **7** | ::{ flag=BR }:: Gustav0eiji | [#1](https://osu.ppy.sh/community/matches/78594215) |
+| **Necromancy-** ::{ flag=CL }:: | **7** | 1 | ::{ flag=BR }:: Gustav0eiji | [#1](https://osu.ppy.sh/community/matches/78594215) |
 
 ##### Finals
 

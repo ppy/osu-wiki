@@ -28,36 +28,6 @@ outdated_translation: true
 
 Тепер ваша гілка актуальна по відношенню до оригінального репозиторію.
 
----
-
-Це рішення працює добре у більшості випадків, але цей інструмент сам по собі має обмежені можливості. Наприклад, він не дозволяє вам перезаписувати будь-які небажані зміни на гілці, оскільки він об'єднує лише основну гілку `master`.
-
-Якщо ви зіткнулися з будь-якими проблемами при використанні інструментів GitHub, або ви хочете перезаписати вміст вашої гілки, ви можете використати workflow написаний учасниками osu! wiki.
-
-1. Відкрийте **ваш форк** і перейдіть до вкладки `Actions`.
-
-2. У `Workflows`, знайдіть `Sync from osu! upstream`.
-
-3. Натисніть `Run workflow` і заповніть опції:
-
-   <!-- when updating this translation, delete img/github-actions-workflow-dialog.png if this translation is the last one to use it. —clayton -->
-
-   ![](img/github-actions-workflow-dialog.png "GitHub Actions Workflow - Запуск Workflow")
-
-   - **Use workflow from**: назва гілки, яку ви бажаєте синхронізувати. За замовчуванням вона виставлена як `master`.
-   - **Overwrite any changes in the target repository**:
-     - `true`: замінити вміст вашої гілки чистою копією гілки `master` з `ppy/osu-wiki`.
-     - `false` (за замовчуванням): об'єднати ваші зміни зі змінами на `ppy/osu-wiki`.
-   - **Create a backup of your target branch**:
-     - `true`: створити гілку з назвою `backup-{назва вашої гілки}` перед її зміною.
-     - `false` (за замовчуванням): не робити ніяких резервних копій.
-
-4. Натисніть кнопку `Run Workflow` і зачекайте поки workflow зробить все необхідне. Якщо вам цікаво як це працює, натисніть на завдання workflow — `Sync from osu! upstream`.
-
-   <!-- when updating this translation, delete img/github-actions-workflow-overview.png if this translation is the last one to use it. —clayton -->
-
-   ![](img/github-actions-workflow-overview.png "GitHub Actions Workflow - Огляд Workflow")
-
 ## Внесення змін
 
 *Перегляньте також: [Форк Workflow | Git Туторіал від Atlassian](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)*

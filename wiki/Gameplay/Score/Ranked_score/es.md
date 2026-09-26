@@ -1,6 +1,8 @@
 # Puntuación clasificada
 
-*Para otros usos, véase [Puntuación (desambiguación)](/wiki/Disambiguation/Score).*
+::: alert-note
+**Nota:** [Puntuación (desambiguación)](/wiki/Disambiguation/Score).
+:::
 
 La **puntuación clasificada** es la suma total de las mejores puntuaciones de todas las [dificultades](/wiki/Beatmap/Difficulty) clasificadas, amadas y aprobadas jugadas en línea.
 

@@ -21,7 +21,10 @@ La ventana de **configuración de las canciones** es la cuarta sección del [edi
 
 ## Dificultad
 
-*Nota: Los [criterios de clasificación](/wiki/Ranking_criteria) específicos de cada modo de juego contienen configuraciones recomendadas para cada nivel de dificultad.*
+::: alert-notice
+**Aviso**
+Los [criterios de clasificación](/wiki/Ranking_criteria) específicos de cada modo de juego contienen configuraciones recomendadas para cada nivel de dificultad.
+:::
 
 ![Dos capturas de pantalla de la pestaña Difficulty. osu!mania se diferencia del resto de modos de juego.](img/SS_Difficulty.jpg "Sección de dificultad. Esta ventana de diálogo es diferente para las dificultades específicas de osu!mania, como se muestra a la derecha.")
 
@@ -31,13 +34,17 @@ Los valores se pueden ajustar con una precisión de 0,1x manteniendo presionado 
 
 ### Tasa de drenaje de HP (HP drain rate)
 
-*Artículo principal: [Tasa de drenaje de HP](/wiki/Beatmap/HP_drain_rate)*
+::: alert-note
+**Página principal:** [Tasa de drenaje de HP](/wiki/Beatmap/HP_drain_rate)
+:::
 
 La tasa de drenaje de HP (HP) determina la cantidad de recuperación de salud o daño de [golpes](/wiki/Gameplay/Judgement) precisos o fuera de tiempo. En osu! y osu!catch, también afecta a la tasa de [drenaje de salud pasiva](/wiki/Beatmap/HP_drain_rate). Los valores más altos proporcionan una menor recuperación de la salud con penalizaciones mayores.
 
 ### Tamaño del círculo (Circle size)
 
-*Artículo principal: [Tamaño del círculo](/wiki/Beatmap/Circle_size)*
+::: alert-note
+**Página principal:** [Tamaño del círculo](/wiki/Beatmap/Circle_size)
+:::
 
 ![Vista general de los distintos tamaños de círculos](img/Circle_sizes.png "Vista general de los distintos tamaños de círculos")
 
@@ -47,7 +54,9 @@ En los beatmaps [específicos de osu!mania](#modo-específico-(mode-specific)), 
 
 ### Velocidad de aproximación (Approach rate)
 
-*Página principal: [Velocidad de aproximación](/wiki/Beatmap/Approach_rate)*
+::: alert-note
+**Página principal:** [Velocidad de aproximación](/wiki/Beatmap/Approach_rate)
+:::
 
 La velocidad de aproximación (AR) indica cuánto tiempo permanecen en la pantalla los objetos de osu! y osu!catch desde el momento en que aparecen hasta el momento de golpear/atrapar. Los valores más altos significan periodos más cortos de visibilidad y menos tiempo para reaccionar.
 
@@ -55,8 +64,13 @@ osu!taiko y osu!mania no se ven afectados por los cambios en la velocidad de apr
 
 ### Dificultad general (Overall difficulty)
 
-*Página principal: [Dificultad general](/wiki/Beatmap/Overall_difficulty)*\
-*Nota: En las páginas de [información de los beatmaps](/wiki/Beatmap_information), la dificultad general aparece como `Precisión`.*
+::: alert-note
+**Página principal:** [Dificultad general](/wiki/Beatmap/Overall_difficulty)
+:::
+
+::: alert-notice
+**Nota:** En las páginas de [información de los beatmaps](/wiki/Beatmap_information), la dificultad general aparece como `Precisión`.
+:::
 
 La dificultad general (OD) es responsable del tamaño de las ventanas de tiempo, que definen qué tan difícil es lograr una alta precisión. Los valores de OD más altos significan ventanas de tiempo más cortas, lo que requiere más exactitud y precisión. Dado que la precisión es importante para ganar HP, la dificultad general influye indirectamente en lo difícil que es pasar 
 un beatmap.
@@ -124,7 +138,9 @@ Los colores de los combos solo tienen efecto en osu! y osu!catch.
 
 ### Tolerancia de apilamiento (Stack leniency)
 
-*Artículo principal: [Tolerancia de apilamiento](/wiki/Beatmap/Stack_leniency)*
+::: alert-note
+**Página principal:** [Tolerancia de apilamiento](/wiki/Beatmap/Stack_leniency)
+:::
 
 La tolerancia de apilamiento es un ajuste específico de osu! que afecta al comportamiento de los objetos apilados. Normalmente, los [sliders](/wiki/Gameplay/Hit_object/Slider) y los [círculos](/wiki/Gameplay/Hit_object/Hit_circle) que estén cerca en el tiempo se [apilarán](/wiki/Beatmapping/Mapping_techniques/Stack) automáticamente y se desplazarán ligeramente si se colocan en el mismo lugar. Esto se hace para ayudar a los jugadores a ver mejor los objetos [superpuestos](/wiki/Beatmapping/Mapping_techniques/Overlap).
 

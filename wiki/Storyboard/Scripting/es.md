@@ -6,7 +6,10 @@ Las **secuencias de comandos de los storyboards** son el proceso de edición de 
 
 La creación de las secuencias de comandos es una alternativa común al [editor de storyboards del cliente del juego](/wiki/Client/Beatmap_editor/Design) cuando se requiere precisión o complejidad. Con un editor de texto como el [Bloc de notas](https://es.wikipedia.org/wiki/Bloc_de_notas), [Notepad++](https://www.notepad-plus-plus.org/) o [Visual Studio Code](https://code.visualstudio.com/), los creadores de los storyboards pueden editar los valores exactos de los [objetos](Objects) y [comandos](Commands) en lugar de usar controles en pantalla. Muchos storyboarders también usan la [programación](https://es.wikipedia.org/wiki/Programación) para crear archivos de storyboards que serían difíciles de crear manualmente.
 
-*Advertencia: Evita editar las secuencias de comandos de un storyboard en un [beatmap](/wiki/Beatmap) actualmente abierto en el [editor de beatmaps](/wiki/Client/Beatmap_editor). Es posible que tu trabajo se sobrescriba al guardar el beatmap.*
+::: alert-warning
+**Advertencia**
+Evita editar las secuencias de comandos de un storyboard en un [beatmap](/wiki/Beatmap) actualmente abierto en el [editor de beatmaps](/wiki/Client/Beatmap_editor). Es posible que tu trabajo se sobrescriba al guardar el beatmap.
+:::
 
 ## Conceptos y formato de archivo
 

@@ -16,7 +16,9 @@ outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 
 *À ne pas confondre avec [Nightcore (genre)](https://fr.wikipedia.org/wiki/Nightcore).*\
 *Voir aussi : [NC (désambiguïsation)](/wiki/Disambiguation/NC), [Double Time (mod)](/wiki/Gameplay/Game_modifier/Double_Time)*\
-*Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Remarque** : Pour la liste complète de tous les mods, voir [modificateurs de jeu](/wiki/Gameplay/Game_modifier)
+:::
 
 ## À propos
 

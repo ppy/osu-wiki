@@ -11,7 +11,9 @@ tags:
 
 # Lazer release stream
 
-*For a list of features in lazer and common questions regarding the new client, see: [Help centre/Upgrading to lazer](/wiki/Help_centre/Upgrading_to_lazer)*
+::: alert-note
+**Note:** For a list of features in lazer and common questions regarding the new client, see [Help centre/Upgrading to lazer](/wiki/Help_centre/Upgrading_to_lazer)
+:::
 
 ::: Infobox
 

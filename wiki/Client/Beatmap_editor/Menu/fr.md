@@ -96,7 +96,9 @@ outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
 
 ## Design
 
-*Page principale : [Design](/wiki/Client/Beatmap_editor/Design)*
+::: alert-note
+**Page principale** : [Design](/wiki/Client/Beatmap_editor/Design)
+:::
 
 ![Menu "Design"](img/M_Design-FR.png "Menu Design")
 
@@ -106,7 +108,9 @@ outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
 
 ## Timing
 
-*Page principale : [Timing](/wiki/Client/Beatmap_editor/Timing)*
+::: alert-note
+**Page principale** : [Timing](/wiki/Client/Beatmap_editor/Timing)
+:::
 
 ![Menu "Timing"](img/M_Timing-FR.png "Menu Timing")
 

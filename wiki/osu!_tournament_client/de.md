@@ -1,17 +1,12 @@
----
-outdated_translation: true
-outdated_since: 0ad74729d42a03df29f787cc719600ecd54f853b
----
-
 # osu!-Turnier-Client
 
 Der **osu!-Turnier-Client** ist der offizielle Client, der [osu!tourney](/wiki/osu!_tournament_client/osu!tourney) mit zusätzlichen Szenen und Informationen ummantelt, die für ein osu!-Turnier während eines Livestreams relevant sind.
 
 Nutzer, die Probleme mit dem Client haben, können [auf GitHub ein Issue erstellen](https://github.com/ppy/osu/issues) oder eine E-Mail an [tournaments@ppy.sh](mailto:tournaments@ppy.sh) senden.
 
-## Einstellung
+## Einrichtung
 
-Um den osu!-Turnier-Client zu starten, musst du ein Startargument zur ausführbaren Datei von [osu!(lazer)](/wiki/Client/Release_stream/Lazer) spezifizieren. Kreiere zu diesem Zweck eine Desktop-Verknüpfung und setze den Speicherort auf `%LOCALAPPDATA%/osulazer/osu!.exe --tournament`. Durch die spezielle Verknüpfung wird osu!(lazer) im Turnier-Client-Modus gestartet.
+Um den osu!-Turnier-Client zu starten, musst du der ausführbaren Datei von [osu!(lazer)](/wiki/Client/Release_stream/Lazer) ein Startargument mitgeben. Erstelle dazu eine Desktop-Verknüpfung und setze den Speicherort auf `%LOCALAPPDATA%/osulazer/osu!.exe --tournament`. Durch die spezielle Verknüpfung wird osu!(lazer) im Turnier-Client-Modus gestartet.
 
 Da der osu!-Turnier-Client nur ein Overlay für osu!tourney ist, muss das ebenfalls eingerichtet werden. Setze die Updatequelle in osu!tourney zu `Cutting Edge (Experimentell)` und erstelle eine leere Datei namens `ipc.txt` innerhalb des Installationsordners von osu!tourney. Folge danach der [osu!tourney-Einrichtungsanleitung](/wiki/osu!_tournament_client/osu!tourney/Setup).
 
@@ -20,7 +15,7 @@ Da der osu!-Turnier-Client nur ein Overlay für osu!tourney ist, muss das ebenfa
 ![Konfigurationsbildschirm des osu!-Turnier-Clients](img/setup-screen.png)
 
 - Stelle sicher, dass `Current IPC source` mit dem Speicherort der osu!tourney-Instanz übereinstimmt, die du nutzen wirst.
-- Logge dich in osu!(lazer) ein, indem du auf `Change Login` klickst.
+- Logge dich in osu!(lazer) ein, indem du auf `Change sign-in` klickst.
 - Stelle den richtigen Spielmodus über das Dropdown-Menü ein.
 - Ändere die Höhe, damit sie dem Wert `Height` in der Datei `tournament.cfg` von osu!tourney entspricht.
 
@@ -36,6 +31,12 @@ In der Turnierkonfiguration können die notwendigen Assets bereitgestellt werden
   - Flags
   - Mods
   - Videos
+
+Um Turnierdetails anzupassen, verwende die folgenden Tools im Turnier-Client:
+
+- `Team Editor`: Teams und Spieler bearbeiten.
+- `Rounds Editor`: Runden und Mappools verwalten.
+- `Bracket Editor`: Neue Spiele erstellen, sowie Teams, Runden und die Zeit jedes Spiels verwalten.
 
 ## Personalisierung
 
@@ -67,16 +68,18 @@ Die Dateien müssen die folgenden Vorgaben erfüllen:
 - Dateiendungen `mp4`, `m4v` oder `avi`
 - Videocodec: H.264, Audiocodec: keiner
 
-Die Videodateien müssen in `<dein-turnier>/Videos` platziert werden und für die korrekte Funktion sind bestimmte Namen erforderlich.
+Die Videodateien müssen in `<dein-turnier>/Videos` platziert werden und für die korrekte Funktionsweise sind bestimmte Namen erforderlich.
 
 | Szene | Datei(en) |
 | :-- | :-- |
 | Schedule | `schedule` |
-| TeamIntro | `teamintro` |
+| Bracket | `ladder` |
+| Team Intro | `teamintro` |
 | Seeding | `seeding` |
-| MapPool | `mappool` |
+| Map Pool | `mappool` |
 | Gameplay | `gameplay` |
 | Win | `teamwin-red`, `teamwin-blue` |
-| Drawings | `main` |
+| Drawings | `drawings` |
 | Showcase | `showcase` |
-| Bracket | `ladder` |
+
+Die Videodatei mit dem Namen `main` wird standardmäßig als Hintergrund verwendet, bis sie durch eine der oben genannten Videodateien ersetzt wird.

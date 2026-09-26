@@ -12,7 +12,9 @@ tags:
 
 # History of osu! April Fools' day jokes
 
-*For the complete history of osu!, see: [History of osu!](/wiki/History_of_osu!)*
+::: alert-note
+**Note:** For the complete history of osu!, see [History of osu!](/wiki/History_of_osu!)
+:::
 
 Every year, the [osu! team](/wiki/People/osu!_team) likes to play pranks on the community on April Fools' day. This article lists all April Fools' day jokes that have been played on the osu! community since 2009.
 
@@ -105,7 +107,9 @@ On 1 April 2014, the osu! main menu screen was temporarily changed (shown below)
 
 ### osu!coins
 
-*See also: [osu!coin](/wiki/History_of_osu!/April_Fools/osu!coin)*
+::: alert-note
+**See also:** [osu!coin](/wiki/History_of_osu!/April_Fools/osu!coin)
+:::
 
 ![](img/2015-osucoins.png "The osu! coins")
 
@@ -115,7 +119,10 @@ On 31 March 2015, [peppy](https://osu.ppy.sh/users/2) released [a newspost](http
 
 —peppy, "osu!coins"[^osu-coins-news]
 
-*Note: Under [Coordinated Universal Time (UTC)](https://en.wikipedia.org/wiki/Coordinated_Universal_Time), the post was posted on 31 March 2015. However, at the time of the publication, peppy was currently living in Australia, where the current date was 1 April 2015.*
+::: alert-notice
+**Notice**
+Under [Coordinated Universal Time (UTC)](https://en.wikipedia.org/wiki/Coordinated_Universal_Time), the post was posted on 31 March 2015. However, at the time of the publication, peppy was currently living in Australia, where the current date was 1 April 2015.
+:::
 
 In short, in order to play or restart a [beatmap](/wiki/Beatmap), users must have spent one [osu!coin](/wiki/History_of_osu!/April_Fools/osu!coin), and once they ran out of osu!coins, they would either have to stop playing and wait until the next day, or pay real money to get more osu!coins. In spite of this description, however, actual gameplay was not affected, and users could just continue playing as normal, even if all their osu!coins were depleted.[^osu-coins-news][^osu-coins-yt][^osu-coins-yt-2]
 
@@ -131,7 +138,10 @@ On 1 April 2016, [a newspost](https://osu.ppy.sh/home/news/2016-04-01-oculus-rif
 
 Regarding how players might use the Oculus Rift as an input method, the newspost describes that "the player will experience a first person point-of-view of the cursor as it travels to and from hit-objects on screen…" and will hit hit objects by "…having the player produce vowel-like sounds using their mouth". No actual in-game changes were made related to using the Oculus Rift or a similar [virtual reality (VR)](https://en.wikipedia.org/wiki/Virtual_reality) device to control osu!.[^osu-vr-news]
 
-*Notice: McOsu is developed separately from and has no direct affiliation with osu! or ppy Pty Ltd.*
+::: alert-notice
+**Notice**
+McOsu is developed separately from and has no direct affiliation with osu! or ppy Pty Ltd.
+:::
 
 However, even though the official osu! developers have/had no intention of genuinely adding VR support, the idea of osu! in VR piqued interest in the minds of some fans. This interest eventually culminated into an unofficial fan project that was started shortly afterwards that aimed to create a free and open source client to practice osu! [beatmaps](/wiki/Beatmap) in with more features and [game modifiers](/wiki/Gameplay/Game_modifier) including the ability to play in VR. Named "[McOsu](https://store.steampowered.com/app/607260/McOsu)", the project was completed and released on [Steam](https://en.wikipedia.org/wiki/Steam_(service)) on 20 March 2017.[^osu-vr-reddit][^osu-vr-yt][^osu-vr-gameskinny][^osu-vr-mcosu]
 
@@ -149,7 +159,7 @@ As part of the handful of April Fools' day jokes for 2016, the [osu! cookie](/wi
 
 ## 2017
 
-As announced in a [tweet by peppy](https://twitter.com/ppy/status/848021525663842304), there was no April Fools' day joke for osu! in 2017 due to development on the [lazer](/wiki/Client/Release_stream/Lazer) version of the osu! client.
+As announced in a [tweet by peppy](https://twitter.com/ppy/status/848021525663842304), there was no April Fools' day joke for osu! in 2017 due to development on [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
 ## 2018
 
@@ -162,6 +172,8 @@ On 1 April 2018 the [osu! cookie](/wiki/Brand_identity_guidelines) on the main m
 ### Sneezing girl sound effect
 
 For the April Fools' day of 2019, there was approximately a 1 in 20 chance of hearing the sound effect of a high-pitched girl sneezing upon opening a beatmap.[^sneeze-reddit][^sneeze-reddit-2][^sneeze-forums]
+
+Following 2019, this joke has been repeated every year (in osu!(stable) only).[^sneeze-2-reddit][^sneeze-2-reddit-2][^sneeze-2-forums][^sneeze-2-forums-2][^sneeze-3-reddit][^sneeze-3-forums]
 
 ## 2020
 
@@ -176,16 +188,6 @@ For the April Fools' day of 2019, there was approximately a 1 in 20 chance of he
 - There's Gold Beneath Your Waltzing Rainbow (feat. Mismagius)
 
 ["MillhioreF - Waltz o' the Irish (MillhioreF)"](https://osu.ppy.sh/beatmapsets/73348#osu/326585) — a long-running joke beatmap within the community — was also [Loved](/wiki/Beatmap/Category#loved) on 31 March 2020 as part of this joke.
-
-### Sneezing girl sound effect
-
-April Fools' day 2020 recycled the same joke from the previous year, which caused an approximately 1 in 20 chance of hearing the sound effect of a high-pitched girl sneezing upon opening a beatmap.[^sneeze-2-reddit][^sneeze-2-reddit-2]
-
-## 2021
-
-### Sneezing girl sound effect
-
-April Fools' day 2021 recycled the same joke from the previous two years, which was a 1 in 20 chance of hearing a sound effect of a high-pitched girl sneezing upon opening a beatmap.[^sneeze-2-forums][^sneeze-2-forums-2]
 
 ## 2026
 
@@ -289,12 +291,15 @@ This toggle section was added in reference to the many requests on [GitHub discu
 [^sneeze-reddit-2]: [Reddit post by u/anoymaly2152 in r/osugame (2019-04-01) "Bless you, Pippi."](https://www.reddit.com/r/osugame/comments/b848ro/bless_you_pippi/)
 [^sneeze-forums]: [Forum thread by Brainage (2019-04-01) "No April Fools in the changelog?"](https://osu.ppy.sh/community/forums/topics/888939)
 
-[^irish-fa]: [News post by Ephemeral (2020-04-01) "New Featured Artist: MillhioreF"](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref)
-
 [^sneeze-2-reddit]: [Reddit post by u/not_pingu in r/osugame (2020-04-01) "Does anybody sometimes hear the "achoo"? (sorry for bad quality)"](https://www.reddit.com/r/osugame/comments/fsxfpk/does_anybody_sometimes_hear_the_achoo_sorry_for/)
 [^sneeze-2-reddit-2]: [Reddit post by u/ohmaytt in r/osugame (2020-04-01) "This year's osu! April Fool's Day joke"](https://www.reddit.com/r/osugame/comments/fsq30l/this_years_osu_april_fools_day_joke/)
 [^sneeze-2-forums]: [Forum thread by MilkyIQ (2021-04-01) "Is this not the third year in a row that we get sneezing girl?"](https://osu.ppy.sh/community/forums/topics/1286906)
 [^sneeze-2-forums-2]: [Forum thread by GreatTurtleKing (2021-04-01) "i heard like a sneeze when i just started to play a song"](https://osu.ppy.sh/community/forums/topics/1286396)
+
+[^sneeze-3-reddit]: [Reddit post by u/Clone_C1 in r/osugame (2022-04-01) "Is peppy trolling, I hear some anime girl sneezing or something when select a song?"](https://www.reddit.com/r/osugame/comments/ttjurr/is_peppy_trolling_i_hear_some_anime_girl_sneezing/)
+[^sneeze-3-forums]: [Forum thread by Antonio225 (2022-04-01) "Osu! Sneezing sound"](https://osu.ppy.sh/community/forums/topics/1550108)
+
+[^irish-fa]: [News post by Ephemeral (2020-04-01) "New Featured Artist: MillhioreF"](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref)
 
 [^2026]: [osu!(lazer) source code](https://github.com/ppy/osu/commit/3edc428c3a084896ec6fcb4f09528cdd0668c0ef)
 [^barrel-roll]: A reference to a meme from [Star Fox 64](https://en.wikipedia.org/wiki/Star_Fox_64), where Peppy Hare advises the player to "Do a barrel roll!", i.e. rotate 360 degrees.

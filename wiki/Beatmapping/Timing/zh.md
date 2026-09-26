@@ -15,7 +15,9 @@
 
 ## 歌曲结构
 
-*主页面：[乐理](/wiki/Music_theory)*
+::: alert-note
+**主文章：** [乐理](/wiki/Music_theory)
+:::
 
 几乎所有歌曲都可以按照不同的节拍来分段。测定时间轴 (Timing) 的目标是将它们划分好，从而为制作谱面创造先决条件。在论述测定时间轴的过程前，先了解音乐理论中的一些概念将会很有帮助。
 
@@ -26,8 +28,13 @@
 
 ## 测定流程
 
-*主页面：[如何测定歌曲时间轴 (Timing)](/wiki/Guides/How_to_time_songs)*\
-*参见：[谱面编辑器——测定时间轴标签页](/wiki/Client/Beatmap_editor/Timing)*
+::: alert-note
+**主文章：** [如何测定歌曲时间轴 (Timing)](/wiki/Guides/How_to_time_songs)
+:::
+
+::: alert-note
+**参见：** [谱面编辑器——测定时间轴标签页](/wiki/Client/Beatmap_editor/Timing)
+:::
 
 ### 单红线
 

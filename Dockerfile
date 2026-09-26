@@ -22,6 +22,9 @@ WORKDIR /osu-wiki
 COPY package.json package-lock.json pyproject.toml uv.lock ./
 RUN npm install && npm install -g osu-wiki && uv sync
 
+# Since `uv sync` runs under root, other users need access to /root to run the managed Python interpreter
+RUN chmod o+rx /root
+
 # Run the container with UID and GID of the host
 COPY meta/docker-entrypoint.sh /
 ENTRYPOINT ["/docker-entrypoint.sh"]

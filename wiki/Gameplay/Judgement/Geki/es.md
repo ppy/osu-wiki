@@ -7,7 +7,9 @@ tags:
 
 # Geki
 
-*Véase también: [Katu](/wiki/Gameplay/Judgement/Katu)*
+::: alert-note
+**Véase también:** [Katu](/wiki/Gameplay/Judgement/Katu)
+:::
 
 **Geki (激)**, o *Elite Beat!*, es el término de un [juicio](/wiki/Gameplay/Judgement) para cuando un [combo](/wiki/Beatmapping/Combo) se completa con el nivel más alto posible de [precisión](/wiki/Gameplay/Accuracy) en cada nota. Otorga un mayor aumento de HP en comparación con los últimos 300 en un combo no perfecto.
 

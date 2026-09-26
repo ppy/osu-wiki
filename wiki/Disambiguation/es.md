@@ -14,6 +14,7 @@ Un artículo regular, si tiene un título similar, tiene que usar la [nota «Par
 - [Mod](Mod)
 - [NC](NC)
 - [NM](NM)
+- [Note](Note)
 - [osu!](osu!)
 - [Ouendan](Ouendan)
 - [Rango](Rank)

@@ -16,8 +16,13 @@ tags:
 
 ![Co-op Modsymbol](/wiki/shared/mods/CP.png "Co-op (CO) Modsymbol")
 
-*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*\
-*Nicht zu verwechseln mit [Mehrspieler](/wiki/Client/Interface/Multiplayer).*
+::: alert-note
+**Anmerkung:** Für die vollständige Liste aller Mods, siehe [Spielmodifikationen](/wiki/Gameplay/Game_modifier)
+:::
+
+::: alert-note
+**Anmerkung:** Nicht zu verwechseln mit [Mehrspieler](/wiki/Client/Interface/Multiplayer).
+:::
 
 ## Übersicht
 
@@ -29,7 +34,10 @@ tags:
 
 ## Beschreibung
 
-*Hinweis: Das Aktivieren der Mod Co-op sorgt dafür, dass das Spiel nicht gerankt wird.*
+::: alert-notice
+**Hinweis**
+Das Aktivieren der Mod Co-op sorgt dafür, dass das Spiel nicht gerankt wird.
+:::
 
 Die Mod **Co-op** ist eine [Spielmodifikation](/wiki/Gameplay/Game_modifier) für [osu!mania](/wiki/Game_mode/osu!mania), die ein zweites Spielfeld mit einer zweiten Steuerung abhängig vom aktuellen *x*K-Wert (z. B. 7K -> 7K + 7K = 14K) bereitstellt. Bei osu!mania-spezifischen [Beatmaps](/wiki/Beatmap) wird der *x*K-Wert in die Hälfte geteilt (z. B. 7K -> 4K + 3K = 7K).
 
@@ -48,7 +56,10 @@ Die folgende Tabelle betrifft nur Beatmaps, die von [osu!](/wiki/Game_mode/osu!)
 | 6K | 0,74x | 0,82x | 1,00x | 0,90x | 0,90x | 0,90x | 0,90x | 0,90x | 0,90x |
 | 7K | 0,70x | 0,78x | 0,86x | 0,90x | 0,90x | 0,90x | 0,90x | 0,90x | 0,90x |
 
-*Anmerkung: Die Mod Co-op verhängt keine Strafe auf osu!mania-spezifischen Beatmaps.*
+::: alert-notice
+**Hinweis**
+Die Mod Co-op verhängt keine Strafe auf osu!mania-spezifischen Beatmaps.
+:::
 
 Eine detaillierte Erklärung über das zweite Spielfeld kann unter [Spielmodi/osu!mania § Co-op](/wiki/Game_mode/osu!mania#co-op) gefunden werden.
 

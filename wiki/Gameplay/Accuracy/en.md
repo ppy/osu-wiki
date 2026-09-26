@@ -68,7 +68,10 @@ ScoreV2 increases the weighting of rainbow 300s to 305:
 
 The performance graph is a chart that displays the player's performance (based on their life bar) over the course of a play (time). Additional information can be shown when hovering the in-game cursor over it.
 
-*Note: The additional information can only be viewed after playing a beatmap or watching a replay. After exiting the [results screen](/wiki/Client/Interface#results-screen), this information will not be saved.*
+::: alert-notice
+**Notice**
+The additional information can only be viewed after playing a beatmap or watching a replay. After exiting the [results screen](/wiki/Client/Interface#results-screen), this information will not be saved.
+:::
 
 ### Accuracy
 
@@ -82,7 +85,9 @@ Due to the way the [DT](/wiki/Gameplay/Game_modifier/Double_Time) (Double Time) 
 
 #### Unstable rate
 
-*Main page: [Unstable rate](/wiki/Gameplay/Unstable_rate)*
+::: alert-note
+**Main page:** [Unstable rate](/wiki/Gameplay/Unstable_rate)
+:::
 
 `Unstable Rate` (*UR*) displays the [standard deviation](https://en.wikipedia.org/wiki/Standard_deviation) of hit errors, in tenths of a millisecond. A lower UR indicates greater consistency.
 
@@ -90,7 +95,10 @@ Note that consistency is not the same thing as accuracy. While low UR often come
 
 ### Spin
 
-*Note: Spin is only used for the [osu! game mode](/wiki/Game_mode/osu!).*
+::: alert-notice
+**Notice**
+Spin is only used for the [osu! game mode](/wiki/Game_mode/osu!).
+:::
 
 In addition to the accuracy, some information regarding spinners is also seen in the same tooltip. <!-- This line could use some more information on what that information is, how it's calculated, what it means, etc. etc. -->
 

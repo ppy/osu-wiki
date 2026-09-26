@@ -4,7 +4,9 @@ stub: true
 
 # Tabletas gráficas
 
-*Véase también: [Estilos de juego](/wiki/Gameplay/Play_style)*
+::: alert-note
+**Véase también:** [Estilos de juego](/wiki/Gameplay/Play_style)
+:::
 
 ![](img/tablet.jpg "Tableta gráfica")
 

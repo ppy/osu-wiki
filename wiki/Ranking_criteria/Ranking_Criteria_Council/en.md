@@ -103,7 +103,10 @@ Between 2016 and 2018, the UBKRC reformed all sections of the Ranking Criteria t
 
 ### osu!mania members
 
-*Note: The original osu!mania UBKRC members were unable to complete a Ranking Criteria draft and were replaced by the users below*
+::: alert-notice
+**Notice**
+The original osu!mania UBKRC members were unable to complete a Ranking Criteria draft and were replaced by the users below
+:::
 
 - ::{ flag=DE }:: [Feerum](https://osu.ppy.sh/users/4815717) (Organizer)
 - ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) (Organizer)

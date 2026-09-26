@@ -1,7 +1,12 @@
 # Redacción
 
-*Para los estándares de formato, véase: [Criterios de estilo para artículos/Formato](../Formatting)*\
-*Aviso: Este artículo usa [RFC 2119](https://tools.ietf.org/html/rfc2119) para describir los niveles de exigencia.*
+::: alert-note
+**Nota:** Para los estándares de formato, véase [Criterios de estilo para artículos/Formato](../Formatting)
+:::
+
+::: alert-notice
+**Aviso:** Este artículo usa [RFC 2119](https://tools.ietf.org/html/rfc2119) para describir los niveles de exigencia.
+:::
 
 Este artículo se refiere a los estándares de escritura del español. Consulta la versión en inglés de esta página para conocer los estándares de escritura de los artículos en inglés.
 
@@ -108,7 +113,9 @@ Dean Herbert (también conocido como peppy) creó osu! en 2007.
 
 ### Marcas registradas
 
-*Para las reglas con respecto a osu!, véase: [osu!](#osu!)*
+::: alert-note
+**Nota:** Para las reglas con respecto a osu!, véase [osu!](#osu!)
+:::
 
 Las siguientes marcas comerciales deben escribirse de la siguiente manera (las mayúsculas y minúsculas deben coincidir):
 
@@ -280,7 +287,9 @@ Los [artículos con registros informales](#registro-del-lenguaje) pueden usar co
 
 ### Números
 
-*Para el formato de los números, véase el [manual de estilo de Wikipedia sobre el formato de números](https://es.wikipedia.org/wiki/Wikipedia:Manual_de_estilo#Números)*
+::: alert-note
+**Nota:** Para el formato de los números, véase el [manual de estilo de Wikipedia sobre el formato de números](https://es.wikipedia.org/wiki/Wikipedia:Manual_de_estilo#Números)
+:::
 
 Los [artículos con registros informales](#registro-del-lenguaje) pueden ignorar esta sección; sin embargo, el uso debe mantenerse consistente a lo largo de todo el artículo.
 

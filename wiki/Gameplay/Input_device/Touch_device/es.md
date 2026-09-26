@@ -4,7 +4,9 @@ stub: true
 
 # Dispositivo táctil
 
-*Véase también: [Estilos de juego](/wiki/Gameplay/Play_style)*
+::: alert-note
+**Véase también:** [Estilos de juego](/wiki/Gameplay/Play_style)
+:::
 
 Un **dispositivo táctil** es un dispositivo con pantalla táctil que permite al usuario interactuar con el ordenador usando sus dedos. osu! es compatible con dispositivos táctiles de forma nativa. Puedes tocar la pantalla para apuntar y hacer clic al mismo tiempo. Los dispositivos táctiles suelen venir en forma de portátiles con pantalla táctil, tabletas gráficas de gama alta o teléfonos inteligentes.
 

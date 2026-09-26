@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 6a2ddbe3a17833bb7cf5c2b85e34bfa2aa4fcb38
+---
+
 # Criterios de clasificación
 
 Este artículo establece las reglas y pautas que los [beatmaps](/wiki/Beatmap) deben seguir para avanzar en el [procedimiento de clasificación](/wiki/Beatmap_ranking_procedure).
@@ -82,7 +87,10 @@ Importante entender antes de usar:
 
 ## Beatmap
 
-*Nota: Cada [modo de teclas](osu!mania#términos-comunes) y [estilo de juego](osu!mania#términos-comunes) de [osu!mania](/wiki/Game_mode/osu!mania) es considerado un modo de juego separado a lo largo de esta sección.*
+::: alert-notice
+**Aviso**
+Cada [modo de teclas](osu!mania#términos-comunes) y [estilo de juego](osu!mania#términos-comunes) de [osu!mania](/wiki/Game_mode/osu!mania) es considerado un modo de juego separado a lo largo de esta sección.
+:::
 
 ### Reglas
 

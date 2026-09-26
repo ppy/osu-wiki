@@ -74,7 +74,9 @@ In osu!(lazer), each of the settings can be altered to the user's preferences us
 
 ## Play styles
 
-*Main page: [Play style § osu!catch](/wiki/Gameplay/Play_style#osu!catch).*
+::: alert-note
+**Main page:** [Play style § osu!catch](/wiki/Gameplay/Play_style#osu!catch).
+:::
 
 ## Scoring
 
@@ -88,7 +90,9 @@ After completing a beatmap, the score is assigned a [grade](/wiki/Gameplay/Grade
 
 ## Skinning
 
-*Main page: [Skinning/osu!catch](/wiki/Skinning/osu!catch)*
+::: alert-note
+**Main page:** [Skinning/osu!catch](/wiki/Skinning/osu!catch)
+:::
 
 ## Beatmapping
 

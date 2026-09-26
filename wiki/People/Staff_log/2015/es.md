@@ -1,6 +1,9 @@
 # Registro del personal de 2015
 
-*Nota: El historial de algunos usuarios puede estar incompleto durante este año.*
+::: alert-notice
+**Aviso**
+El historial de algunos usuarios puede estar incompleto durante este año.
+:::
 
 ## Enero
 

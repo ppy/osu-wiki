@@ -1,6 +1,8 @@
 # Errores de modding comunes
 
-*Véase también: [Convertirse en Beatmap Nominator § Expectativas de modding](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)*
+::: alert-note
+**Véase también:** [Convertirse en Beatmap Nominator § Expectativas de modding](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)
+:::
 
 Esta guía enseñará varios ejemplos de errores que los [modders](/wiki/Modding/Modder) principiantes suelen cometer cuando [modean](/wiki/Modding) un [beatmap](/wiki/Beatmap).
 

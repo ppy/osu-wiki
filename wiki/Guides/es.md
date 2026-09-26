@@ -4,7 +4,9 @@ A continuación, se muestra una lista ordenada de guías creadas por miembros de
 
 ## Beatmapping
 
-*Página principal: [Beatmapping](/wiki/Beatmapping)*
+::: alert-note
+**Página principal:** [Beatmapping](/wiki/Beatmapping)
+:::
 
 - [Guía de edición de audio](Audio_editing)
 - [Cambiar el texto del título](/wiki/Beatmap/Title_text#cambiar-el-texto-del-título)
@@ -19,11 +21,13 @@ A continuación, se muestra una lista ordenada de guías creadas por miembros de
 - [Guía de mapping de osu!mania](osu!mania_mapping_guide)
 - [Cómo establecer la compensación en el compás correcto](Setting_the_offset_on_the_correct_beat)
 - [Usar hitsounds personalizados](Using_custom_hitsounds)
-- [Temporizar canciones con compases de #/8](Timing_songs_with_8-signatures)
+- [Temporizar canciones con compases de #/8](Timing_songs_with_N_per_8_time_signatures)
 
 ## Modding
 
-*Página principal: [Modding](/wiki/Modding)*
+::: alert-note
+**Página principal:** [Modding](/wiki/Modding)
+:::
 
 - [Errores de modding comunes](Common_modding_mistakes)
 - [Cómo conseguir mods para tu mapa](Getting_your_map_modded)
@@ -36,7 +40,9 @@ A continuación, se muestra una lista ordenada de guías creadas por miembros de
 
 ## Skinning
 
-*Página principal: [Guías de skinning e hilos importantes](/wiki/Skinning/Guides_and_important_threads)*
+::: alert-note
+**Página principal:** [Guías de skinning e hilos importantes](/wiki/Skinning/Guides_and_important_threads)
+:::
 
 - [Cómo cortar imágenes con fondos complejos](Cropping_with_complex_backgrounds)
 - [Cómo cortar imágenes con fondos simples](Cropping_with_simple_backgrounds)

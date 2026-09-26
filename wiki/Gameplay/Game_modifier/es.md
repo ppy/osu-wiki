@@ -17,8 +17,13 @@ tags:
 
 # Modificadores del juego
 
-*Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase: [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*\
-*Para otros usos de «mod», véase: [Mod (desambiguación)](/wiki/Disambiguation/Mod)*
+::: alert-note
+**Nota:** Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
+
+::: alert-note
+**Nota:** Para otros usos de «mod», véase [Mod (desambiguación)](/wiki/Disambiguation/Mod)
+:::
 
 ![Pantalla del selector de mods](img/mod-selection-screen-ES.jpg "Comparación entre los selectores de mods de los modos de juego osu! (arriba a la izquierda), osu!taiko (arriba a la derecha), osu!catch (abajo a la izquierda) y osu!mania (abajo a la derecha)")
 
@@ -30,7 +35,9 @@ En la pantalla de selección, los mods se separan en tres categorías: `Menos di
 
 ## Lista de mods
 
-*Véase también: [Resumen de los modificadores del juego](/wiki/Gameplay/Game_modifier/Summary)*
+::: alert-note
+**Véase también:** [Resumen de los modificadores del juego](/wiki/Gameplay/Game_modifier/Summary)
+:::
 
 Cada uno de los mods enumerados a continuación tendrá el icono de sus modos de juego compatibles (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) al lado.
 
@@ -67,7 +74,10 @@ Cada uno de los mods enumerados a continuación tendrá el icono de sus modos de
 
 ### Otros
 
-*Nota: Estos mods se usaron y estaban disponibles hace algún tiempo, pero ahora no están disponibles.*
+::: alert-notice
+**Aviso**
+Estos mods se usaron y estaban disponibles hace algún tiempo, pero ahora no están disponibles.
+:::
 
 - [10K](/wiki/Gameplay/Game_modifier/10K) ![][osu!mania]
 - [Fade Out](/wiki/Gameplay/Game_modifier/Fade_Out) ![][osu!mania]

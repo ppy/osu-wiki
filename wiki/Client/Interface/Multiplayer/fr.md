@@ -1,6 +1,8 @@
 ---
 no_native_review: true
 needs_cleanup: true
+outdated_translation: true
+outdated_since: 700c767c79ccf1b57d76b0acda46dc032cf94ce9
 ---
 
 <!-- TODO: needs further rewrite, see https://github.com/ppy/osu-wiki/issues/7165 -->
@@ -13,7 +15,10 @@ needs_cleanup: true
 
 ## Comment jouer
 
-*Remarque : Le mode multijoueur nécessite un [compte osu!](/wiki/Registration) et n'est pas disponible pour les joueurs [réduits au silence](/wiki/Silence).*
+::: alert-notice
+**Note**
+Le mode multijoueur nécessite un [compte osu!](/wiki/Registration) et n'est pas disponible pour les joueurs [réduits au silence](/wiki/Silence).
+:::
 
 Le menu principal permet d'accéder au lobby multijoueur principal en suivant les étapes suivantes :
 
@@ -22,7 +27,10 @@ Le menu principal permet d'accéder au lobby multijoueur principal en suivant le
 
 ## Lobby principal
 
-*Remarque : Un tag [osu!supporter](/wiki/osu!supporter) actif est nécessaire pour entrer dans le lobby en utilisant le build `Cutting Edge (expérimental)`.*
+::: alert-notice
+**Note**
+Un tag [osu!supporter](/wiki/osu!supporter) actif est nécessaire pour entrer dans le lobby en utilisant le build `Cutting Edge (expérimental)`.
+:::
 
 ![](img/multi-lobby-fr.jpg "Exemple d'une journée typique dans le lobby multijoueur principal")
 
@@ -352,7 +360,10 @@ Les panneaux latéraux affichent les résultats de chaque joueur dans différent
 
 ##### Interface
 
-*Remarque : ce mode d'équipe n'est pas classé et n'est disponible qu'en mode osu!.*
+::: alert-notice
+**Note**
+ce mode d'équipe n'est pas classé et n'est disponible qu'en mode osu!.
+:::
 
 ::: Infobox
 ![](img/multi-coop-interface.jpg "Interface du mode d'équipe Tag co-op")

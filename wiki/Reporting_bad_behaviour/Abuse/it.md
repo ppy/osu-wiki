@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: e7163973aa4c854dcc0455e3f696b608bf0852f7
+---
+
 # Denunciare un abuso
 
 ## Non so se dovrei segnalarlo o meno

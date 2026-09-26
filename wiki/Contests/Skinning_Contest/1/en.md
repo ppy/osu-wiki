@@ -93,7 +93,9 @@ The Skinning Contest #1 was run by various community members.
 
 ## Podium
 
-*For the full results, see the [contest page](https://osu.ppy.sh/community/contests/126).*
+::: alert-note
+**Note:** For the full results, see the [contest page](https://osu.ppy.sh/community/contests/126).
+:::
 
 ![](img/podium.png "Skinning Contest #1 podium")
 

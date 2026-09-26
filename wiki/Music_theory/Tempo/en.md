@@ -7,7 +7,9 @@ tags:
 
 # Tempo
 
-*See also: [Timing](/wiki/Beatmapping/Timing)*
+::: alert-note
+**See also:** [Timing](/wiki/Beatmapping/Timing)
+:::
 
 ::: Infobox
 ![Screenshot of the BPM indicator on the beatmap information page](img/beatmap-info.png "The song's tempo, equal to 187, can be seen on the top corner of the beatmap information page")

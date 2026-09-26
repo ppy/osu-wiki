@@ -109,9 +109,9 @@ Los puntos de los concursos se han usado en los siguientes concursos:
 
 | Usuario | Puntos | Concursos |
 | :-- | :-- | :-- |
-| ::{ flag=JP }:: [**uone**](https://osu.ppy.sh/users/5321719) | **12** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (4), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2), [TMWC](/wiki/Contests/TMWC) (2), [VMC2](/wiki/Contests/VMC/2) (1) |
+| ::{ flag=JP }:: [**uone**](https://osu.ppy.sh/users/5321719) | **12** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (4), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2), [TMWC](/wiki/Contests/TMWC) (2), [VMC2](/wiki/Contests/VMC/2) (1), [TMWC 2025](/wiki/Contests/TMWC/2025) (3) |
+| ::{ flag=SG }:: [**_gt**](https://osu.ppy.sh/users/8301957) | **11** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (7), [o!tFAC](/wiki/Contests/o!tFAC) (2), [MGTS 2025](/wiki/Contests/MGTS/2025) (2) |
 | ::{ flag=JP }:: [**-Kazuha**](https://osu.ppy.sh/users/29978316) | **10** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (5), [TMWC](/wiki/Contests/TMWC) (2), [TMWC 2025](/wiki/Contests/TMWC/2025) (3) |
-| ::{ flag=SG }:: [**_gt**](https://osu.ppy.sh/users/8301957) | **9** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (5), [o!tFAC](/wiki/Contests/o!tFAC) (2), [MGTS 2025](/wiki/Contests/MGTS/2025) (2) |
 | ::{ flag=JP }:: [**IceOC**](https://osu.ppy.sh/users/5482401) | **7** | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2), [TMWC](/wiki/Contests/TMWC) (2), [TMWC 2025](/wiki/Contests/TMWC/2025) (3) |
 | ::{ flag=JP }:: [**tasuke912**](https://osu.ppy.sh/users/2774767) | **7** | [TMWC](/wiki/Contests/TMWC) (2), [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (2), [TMWC 2025](/wiki/Contests/TMWC/2025) (3) |
 | ::{ flag=TH }:: [**Ph0eNiiXZ**](https://osu.ppy.sh/users/9463721) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (3), [o!tFAC](/wiki/Contests/o!tFAC) (3) |
@@ -119,8 +119,8 @@ Los puntos de los concursos se han usado en los siguientes concursos:
 | ::{ flag=FI }:: [duski](https://osu.ppy.sh/users/6506484) | 5 | [TMWC](/wiki/Contests/TMWC) (3), [TMWC 2025](/wiki/Contests/TMWC/2025) (2) |
 | ::{ flag=FI }:: [Minami-Kotori](https://osu.ppy.sh/users/3083539) | 5 | [TMWC](/wiki/Contests/TMWC) (3), [TMWC 2025](/wiki/Contests/TMWC/2025) (2) |
 | ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473) | 5 | [TMWC](/wiki/Contests/TMWC) (3), [TMWC 2025](/wiki/Contests/TMWC/2025) (2) |
+| ::{ flag=FI }:: [Jaltzu](https://osu.ppy.sh/users/2597417) | 5 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (3), [TMWC 2025](/wiki/Contests/TMWC/2025) (2) |
 | ::{ flag=US }:: [Alchyr](https://osu.ppy.sh/users/4993032) | 4 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
-| ::{ flag=FI }:: [Jaltzu](https://osu.ppy.sh/users/2597417) | 4 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (2), [TMWC 2025](/wiki/Contests/TMWC/2025) (2) |
 | ::{ flag=JP }:: [Waribashi](https://osu.ppy.sh/users/2250574) | 3 | [MGTS 2025](/wiki/Contests/MGTS/2025) |
 | ::{ flag=JP }:: [layxa](https://osu.ppy.sh/users/14800030) | 3 | [MGTS 2025](/wiki/Contests/MGTS/2025) |
 | ::{ flag=JP }:: [komasy](https://osu.ppy.sh/users/1980256) | 3 | [MGTS 2025](/wiki/Contests/MGTS/2025) |
@@ -156,10 +156,11 @@ Los puntos de los concursos se han usado en los siguientes concursos:
 
 | Usuario | Puntos | Concursos |
 | :-- | :-- | :-- |
-| ::{ flag=CA }:: [**Unlucky_w**](https://osu.ppy.sh/users/4820793) | **11** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=CA }:: [**Unlucky_w**](https://osu.ppy.sh/users/4820793) | **12** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=PH }:: [**Jemzuu**](https://osu.ppy.sh/users/7890134) | **7** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (5), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2) |
 | ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (2), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (1) |
 | ::{ flag=SG }:: [Xinnoh](https://osu.ppy.sh/users/4236057) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=PH }:: [-Rusty](https://osu.ppy.sh/users/16355636) | 2 | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) |
 | ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=US }:: [wwwww](https://osu.ppy.sh/users/8434466) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
@@ -170,7 +171,6 @@ Los puntos de los concursos se han usado en los siguientes concursos:
 | ::{ flag=ID }:: [Ilhamuharam](https://osu.ppy.sh/users/7657968) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=RU }:: [2zz](https://osu.ppy.sh/users/8201267) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
-| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 
 ### osu!mania
 

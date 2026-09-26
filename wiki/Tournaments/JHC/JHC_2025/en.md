@@ -125,7 +125,7 @@ For solo teams, the prize of osu!supporter was doubled.
 | 55 | kim jeong hyeok | ::{ flag=KR }:: [ssrykat](https://osu.ppy.sh/users/15079888), ::{ flag=KR }:: [gaesol](https://osu.ppy.sh/users/12452131) |
 | 56 | apalah | ::{ flag=ID }:: [NizT](https://osu.ppy.sh/users/23115247) |
 | 57 | I can't acc | ::{ flag=US }:: [Chordjack](https://osu.ppy.sh/users/23738691), ::{ flag=LV }:: [Treeidk](https://osu.ppy.sh/users/18887843) |
-| 58 | Slaughterhouse | ::{ flag= }:: [Itsketork-](https://osu.ppy.sh/users/37941027), ::{ flag=SE }:: [Mr_SmellySocks](https://osu.ppy.sh/users/26864198) |
+| 58 | Slaughterhouse | ::{ flag=SA }:: [Itsketork-](https://osu.ppy.sh/users/37941027), ::{ flag=SE }:: [Mr_SmellySocks](https://osu.ppy.sh/users/26864198) |
 | 59 | Mizuki Sensitive | ::{ flag=TR }:: [hsod](https://osu.ppy.sh/users/15391485), ::{ flag=GB }:: [laser](https://osu.ppy.sh/users/15809312) |
 | 60 | Jacking Time! | ::{ flag=US }:: [Tevelkin](https://osu.ppy.sh/users/18508394) |
 | 61 | 是青暮哇~ | ::{ flag=CN }:: [gamechocolate](https://osu.ppy.sh/users/27799476) |

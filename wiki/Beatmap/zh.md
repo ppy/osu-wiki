@@ -22,13 +22,17 @@ tags:
 
 ## 难度
 
-*主页面：[难度](/wiki/Beatmap/Difficulty)*
+::: alert-note
+**主文章：** [难度](/wiki/Beatmap/Difficulty)
+:::
 
 *难度*是一个描述了打击物件位置、音效、诸如 [Kiai 时间](/wiki/Gameplay/Kiai_time)等特殊效果的文件，以[`.osu` 后缀名](/wiki/Client/File_formats/osu_(file_format))来存储。它也包含一些像[难度设定](/wiki/Client/Beatmap_editor/Song_setup#谱面难度设定-(difficulty))之类会影响游玩的参数。谱面中的不同难度有不同的结构，有时只能在一个[游戏模式](/wiki/Game_mode)下游玩。[谱面星级](/wiki/Beatmap/Star_rating)系统用于可视化描述难度需要的实力水平。
 
 ## 提交
 
-*主页面：[提交](/wiki/Beatmapping/Beatmap_submission)*
+::: alert-note
+**主文章：** [提交](/wiki/Beatmapping/Beatmap_submission)
+:::
 
 谱面作者（以下简称谱师）能把自己的作品[提交](/wiki/Beatmapping/Beatmap_submission)至公共[谱面列表](https://osu.ppy.sh/beatmapsets)。同时每张谱面都属于[一个人](/wiki/Beatmap/Beatmap_host)。但谱面通常是多人合作：有些难度可能是作者与其他谱师[合作](/wiki/Beatmap/Beatmap_collaborations)或由其他谱师[单独制作](/wiki/Beatmap/Guest_difficulty)的。
 
@@ -46,7 +50,9 @@ https://osu.ppy.sh/beatmapsets/{SID}#{游戏模式}/{BID}
 
 ### 谱面分类
 
-*主页面：[谱面分类](Category)*
+::: alert-note
+**主文章：** [谱面分类](Category)
+:::
 
 所有提交后的谱面都会归于以下列出的一种分类，而且谱面分类有可能会变更：
 
@@ -73,7 +79,9 @@ osu!direct 是游戏客户端内的谱面列表，可用于快速浏览并且提
 
 ### 曲包
 
-*主页面：[曲包](Packs)*
+::: alert-note
+**主文章：** [曲包](Packs)
+:::
 
 在同一月上架或是含有相同的主题（如：同一个艺术家）的谱面，常被打包成一个大型的压缩文件，即曲包。官方提供的曲包列表可在[这个网页](https://osu.ppy.sh/beatmaps/packs)上浏览。
 
@@ -101,7 +109,9 @@ osu!direct 是游戏客户端内的谱面列表，可用于快速浏览并且提
 
 <!-- TODO: would be very cool to have a separate article for osu!lazer as well (issue #4686) -->
 
-*主页面：[谱面聚光灯](/wiki/Beatmap_Spotlights)*
+::: alert-note
+**主文章：** [谱面聚光灯](/wiki/Beatmap_Spotlights)
+:::
 
 早期，社区就已出现多种方法展示独特和优秀的谱面（推图）。其中，也是最早被公式记录的一种方法就是收集一部分已上架 (Ranked) 谱面来举办月度或季度榜单，总分名列前茅的顶流玩家能获得 [osu! 支持者](/wiki/osu!supporter)作为奖品。
 
@@ -109,12 +119,16 @@ osu!direct 是游戏客户端内的谱面列表，可用于快速浏览并且提
 
 ### 作图比赛
 
-*主页面：[竞赛](/wiki/Contests)*
+::: alert-note
+**主文章：** [竞赛](/wiki/Contests)
+:::
 
 osu! 社区经常举办不同的作图比赛来促进谱面创新和奖励优秀的谱师。这些作图比赛既有小到仅由本地社区举办的；也有全球规模、奖励极其丰厚的。优胜者通常能获得 [osu! 支持者](/wiki/osu!supporter)标签和独特的个人[主页奖牌](/wiki/Community/Profile_badge)。
 
 ### 精选艺术家
 
-*主页面：[精选艺术家](/wiki/People/Featured_Artists)*
+::: alert-note
+**主文章：** [精选艺术家](/wiki/People/Featured_Artists)
+:::
 
 精选艺术家是由 [osu! 团队](/wiki/People/osu!_team)负责的社区项目。其专注于为 osu! 获取具有版权的歌曲以使其用于作图。[精选艺术家列表](https://osu.ppy.sh/beatmaps/artists)列出了所有涉及的艺术家，并提供预先测定好时间轴的谱面模板以便作图使用。

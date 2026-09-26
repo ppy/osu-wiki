@@ -6,7 +6,9 @@ Ten en cuenta que el cliente de osu!(lazer) se encuentra actualmente en fase de 
 
 ## Acceder al cliente
 
-*Para obtener información detallada sobre cómo ejecutar y configurar el cliente para torneos de osu!, véase: [Cliente para torneos de osu!](/wiki/osu!_tournament_client#configuración)*
+::: alert-note
+**Nota:** Para obtener información detallada sobre cómo ejecutar y configurar el cliente para torneos de osu!, véase [Cliente para torneos de osu!](/wiki/osu!_tournament_client#configuración)
+:::
 
 Si nunca has usado el cliente para torneos de osu!, ábrelo una vez creando un acceso directo en el escritorio, cuya ubicación sea `%LOCALAPPDATA%/osulazer/osu!.exe --tournament`.
 

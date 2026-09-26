@@ -32,7 +32,9 @@ También pueden usarse ángulos de entre 10 y 80 grados.
 
 ### Espaciado acelerado
 
-*No debe confundirse con [Espaciado hacia fuera](#espaciado-hacia-fuera).*
+::: alert-note
+**Nota:** No debe confundirse con [Espaciado hacia fuera](#espaciado-hacia-fuera).
+:::
 
 Nominador: [Gabi](https://osu.ppy.sh/users/57057)
 
@@ -102,7 +104,9 @@ Es muy importante que el mapper deje clara la dirección hacia la que se dirigen
 
 ### Espaciado hacia afuera
 
-*No debe confundirse con [Espaciado acelerado](#espaciado-acelerado)*
+::: alert-note
+**Nota:** No debe confundirse con [Espaciado acelerado](#espaciado-acelerado)
+:::
 
 Nominador: [Pasonia](https://osu.ppy.sh/users/43345)
 

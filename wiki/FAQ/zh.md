@@ -314,7 +314,7 @@ osu!mania 是继 osu!taiko 和 osu!catch 游戏模式后，第三个加入的模
 
 *关于准确率计算的详细解释可在各游戏模式的对应页面或[准确率页面](/wiki/Gameplay/Accuracy)找到。*
 
-### 评价
+### 评级
 
 #### [][osu! 图标] osu!
 
@@ -365,12 +365,12 @@ osu!mania 是继 osu!taiko 和 osu!catch 游戏模式后，第三个加入的模
 - 银 SS (SSH) = 使用 *[Hidden](/wiki/Gameplay/Game_modifier/Hidden)* 和/或 *[Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)* 模组的正常 SS 等级。
 - 银 S (SH) = 使用 *[Hidden](/wiki/Gameplay/Game_modifier/Hidden)* 和/或 *[Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)* 模组的正常 S 等级。
 
-**关于个人资料页面的*评价*：**
+**关于个人资料页面的*评级*：**
 
 - 当接收等级时，如果游戏内 osu! 账户仍与 Bancho 服务器连接在线，则获得的等级会设置在资料页面的一般->等级下。
   - **离线时的游玩**，即使 osu! 账户已登录，**也不会被记入**。
 - **资料给出的等级取决于对应游戏模式中上架/达标谱面难度的最高分获得的等级，而非所有分数。**
-  - 如果一张谱面有三个上架难度，并且在 osu!catch 中 SS 了所有难度，则 osu!catch 的评价部分会得到三个 SS，而不是只得到一个。
+  - 如果一张谱面有三个上架难度，并且在 osu!catch 中 SS 了所有难度，则 osu!catch 的评级部分会得到三个 SS，而不是只得到一个。
   - 然而，如果通过重玩已 SS 的上架难度获得了新的最高分（转盘加分更多，或者是通过游戏模组）但获得了 S 等级，则 SS 总数会减少 1，S 总数会增加 1。
 
 ## 表现分 (pp)

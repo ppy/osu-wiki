@@ -3,6 +3,8 @@ stub: true
 tags:
   - EZ
   - Easy
+outdated_translation: true
+outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Easy (mod lazer)
@@ -13,7 +15,7 @@ tags:
 
 #### Easy
 
-![Icône du mod Easy](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/EZ.png)
+![Icône du mod Easy](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/EZ.png?1)
 
 *![][osu!] Cercles plus larges, barre de vie plus indulgente, moins de précision nécessaire, et deux vies supplémentaires !*\
 *![][osu!taiko] Les notes arrivent plus lentement, et moins de précision nécessaire !*\
@@ -26,7 +28,7 @@ tags:
 | Type | Réduction de la difficulté |
 | Touche de raccourci par défaut | `A` (`Q` sur un clavier QWERTY) |
 | Modes de jeu | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Multiplicateur de score | 0,50x |
+| Multiplicateur de score | `0,50x` |
 | Statut | Classé |
 | Mods incompatibles ![][osu!] ![][osu!catch] ![][osu!mania] | [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)), [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) |
 | Mods incompatibles ![][osu!taiko] | [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) |

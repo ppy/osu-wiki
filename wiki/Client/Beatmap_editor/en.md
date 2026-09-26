@@ -4,7 +4,9 @@
 
 ![A screenshot of the editor's compose tab showing pishifat's Donor Song beatmap](img/compose.jpg)
 
-*For beatmap editor shortcuts, see: [Shortcut key reference § Beatmap editor](/wiki/Client/Keyboard_shortcuts#beatmap-editor)*
+::: alert-note
+**Note:** For beatmap editor shortcuts, see [Shortcut key reference § Beatmap editor](/wiki/Client/Keyboard_shortcuts#beatmap-editor)
+:::
 
 The **beatmap editor** is osu!'s in-game graphical interface for creating [beatmaps](/wiki/Beatmap). [Beatmapping](/wiki/Beatmapping) is the act of creating beatmaps for osu!.
 

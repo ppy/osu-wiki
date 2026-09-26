@@ -12,7 +12,9 @@ tags:
 
 # Schwierigkeitsgrad
 
-*Nicht zu verwechseln mit [Beatmap](/wiki/Beatmap).*
+::: alert-note
+**Anmerkung:** Nicht zu verwechseln mit [Beatmap](/wiki/Beatmap).
+:::
 
 Ein **Schwierigkeitsgrad** einer Beatmap (auch *Schwierigkeitsstufe* genannt) ist ein Spiellevel, das als Textdatei mit [der Erweiterung `.osu`](/wiki/Client/File_formats/osu_(file_format)) gespeichert wird. Er besteht aus [Hit-Objekten](/wiki/Gameplay/Hit_object) eines bestimmten [Spielmodus](/wiki/Game_mode), die entsprechend dem [Timing](/wiki/Client/Beatmap_editor/Timing) passend zu einem spezifischen Song gesetzt werden. Schwierigkeitsstufen haben verschiedene Aspekte, die das Spielerlebnis direkt beeinflussen. Der Name des Schwierigkeitsgrades und die [Sternebewertung](/wiki/Beatmap/Star_rating) geben normalerweise genügend Informationen, um zu erkennen, wie anspruchsvoll der Schwierigkeitsgrad ist.
 
@@ -24,7 +26,9 @@ Aus auditiver Sicht kann eine Schwierigkeitsstufe den Song durch ein oder mehrer
 
 ## Schwierigkeitslevel
 
-*Siehe auch: [Benennung von Schwierigkeitsgraden](/wiki/Ranking_criteria/Difficulty_naming)*
+::: alert-note
+**Siehe auch:** [Benennung von Schwierigkeitsgraden](/wiki/Ranking_criteria/Difficulty_naming)
+:::
 
 Dies sind die typischen Level an Schwierigkeitsgraden, die eine Beatmap enthalten kann. Die spezifischen Definitionen und Anforderungen der einzelnen Level können in den entsprechenden [Ranking-Kriterien](/wiki/Ranking_criteria) des jeweiligen Spielmodus gefunden werden.
 

@@ -18,7 +18,9 @@ tags:
 
 # Hitsound
 
-*Véase también: [Agregar hitsounds personalizados](/wiki/Guides/Using_custom_hitsounds)*
+::: alert-note
+**Véase también:** [Agregar hitsounds personalizados](/wiki/Guides/Using_custom_hitsounds)
+:::
 
 Los **hitsounds** son los sonidos que osu! reproduce en respuesta a la entrada del usuario al interactuar con [objetos](/wiki/Gameplay/Hit_object). Los hitsounds se usan normalmente para brindar retroalimentación auditiva al jugador para ayudarlo a juzgar su [precisión](/wiki/Gameplay/Accuracy) en relación con la canción.
 

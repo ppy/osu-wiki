@@ -5,7 +5,9 @@ outdated_since: 6c82f44e565fa781d94e635276839381c735ee67
 
 # osu! (игровой режим)
 
-*У этого термина существуют и другие значения, см. [osu! (значения)](/wiki/Disambiguation/osu!).*
+::: alert-note
+**Примечание:** У этого термина существуют и другие значения, см. [osu! (значения)](/wiki/Disambiguation/osu!).
+:::
 
 ![Геймплей osu!](/wiki/shared/osu-gameplay.jpg "Интерфейс osu!")
 
@@ -85,7 +87,9 @@ osu! — первый добавленный игровой режим, назв
 
 ## Стили игры
 
-*См. также: [Стили игры § osu!](/wiki/Gameplay/Play_style#osu!).*
+::: alert-note
+**См. также:** [Стили игры § osu!](/wiki/Gameplay/Play_style#osu!).
+:::
 
 ## Управление
 

@@ -1,17 +1,16 @@
----
-outdated_translation: true
-outdated_since: 29a5a9f474335b22a431cd6065db4f5dd87e951e
----
-
 # Устройство osu! wiki
 
-*См. также: [Руководство по работе с osu! wiki](/wiki/osu!_wiki/Contribution_guide)*
+::: alert-note
+**См. также:** [Руководство по работе с osu! wiki](/wiki/osu!_wiki/Contribution_guide)
+:::
 
-Здесь рассказывается о технических и административных аспектах osu! wiki, а также приводятся различные [рутинные задачи по обновлению статей](#рутинная-работа), с которыми вы можете помочь. Все обсуждения, связанные с osu! wiki, ведутся на канале `#osu-wiki` [дискорд-сервера osu!](/wiki/Community/Discord_servers#official).
+Здесь рассказывается о технических и административных аспектах osu! wiki, а также приводятся различные [рутинные задачи по обновлению статей](#рутинная-работа), с которыми вы можете помочь. Все обсуждения, связанные с osu! wiki, ведутся на канале `#osu-wiki` [дискорд-сервера osu!](/wiki/Community/Discord_servers#официальный-сервер).
 
 ## Администраторы
 
-*Основная статья: [Администраторы osu! wiki](/wiki/People/osu!_wiki_maintainers)*
+::: alert-note
+**Основная статья:** [Администраторы osu! wiki](/wiki/People/osu!_wiki_maintainers)
+:::
 
 Администраторы — лица, у которых есть [совместный доступ](https://docs.github.com/ru/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/permission-levels-for-a-personal-account-repository#collaborator-access-for-a-repository-owned-by-a-personal-account) к [репозиторию `ppy/osu-wiki`](https://github.com/ppy/osu-wiki/), где хранятся все статьи и новости. Они разбирают связанные с проектом задачи и проблемы, проверяют пулл-реквесты и принимают решения, определяющие развитие osu! wiki.
 
@@ -72,7 +71,7 @@ outdated_since: 29a5a9f474335b22a431cd6065db4f5dd87e951e
 | 2 | Markdown | [remark](https://github.com/remarkjs/remark), запускаемый через [`meta/remark.sh`](https://github.com/ppy/osu-wiki/blob/master/meta/remark.sh) | Проверяет правильность и единообразие разметки Markdown в новостях и статьях. | В описание пулл-реквеста нужно добавить строчку `SKIP_REMARK`. Чтобы подавить конкретную ошибку, над строчкой с ней нужно добавить `<!-- lint ignore rule-name -->`, заменив `rule-name` на нарушаемое правило. |
 | 3 | YAML | Команда `check-yaml` из набора [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Проверяет структуру YAML в [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml) и [метаданных](/wiki/Article_styling_criteria/Formatting#метаданные) статей. | Никак. |
 | 4 | Битые ссылки | Команда `check-links` из набора [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Проверяет, что все [вики-ссылки](/wiki/Article_styling_criteria/Formatting#вики-ссылки) ведут на существующую статью или новость, либо на их разделы. | В описание пулл-реквеста нужно добавить строчку `SKIP_WIKILINK_CHECK`. |
-| 5 | Устаревшие переводы | Команда `check-outdated-articles` из набора [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Проверяет, что при обновлении английской версии статьи её переводы [помечены как устаревшие](/wiki/Article_styling_criteria/Formatting#устаревший-перевод). | В описание пулл-реквеста нужно добавить строчку `SKIP_OUTDATED_CHECK`. |
+| 5 | Устаревшие переводы | Скрипт GitHub Actions ["Post-merge outdate processing"](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/post-merge-outdate.yml) | После вливания правок автоматически помечает нетронутые переводы английских статей [как устаревшие](/wiki/Article_styling_criteria/Formatting#устаревший-перевод). | См. [Устаревшие переводы](#устаревшие-переводы). |
 
 ##### Правило для remark [`no-heading-punctuation`](https://github.com/remarkjs/remark-lint/tree/main/packages/remark-lint-no-heading-punctuation)
 
@@ -102,7 +101,9 @@ outdated_since: 29a5a9f474335b22a431cd6065db4f5dd87e951e
 
 ##### Проверка ссылок
 
-*См. также: [Критерии оформления статей/Оформление § Вики-ссылки](/wiki/Article_styling_criteria/Formatting#вики-ссылки)*
+::: alert-note
+**См. также:** [Критерии оформления статей/Оформление § Вики-ссылки](/wiki/Article_styling_criteria/Formatting#вики-ссылки)
+:::
 
 Если вы редактируете статью, рекомендуется заодно исправить и битые ссылки, если они там есть. Иногда это становится нетривиальной задачей, либо мешает:
 
@@ -112,9 +113,23 @@ outdated_since: 29a5a9f474335b22a431cd6065db4f5dd87e951e
 
 ##### Устаревшие переводы
 
-*См. также: [Критерии оформления статей/Оформление § Устаревший перевод](/wiki/Article_styling_criteria/Formatting#устаревший-перевод) и [Критерии оформления статей/Содержание § Равенство содержания](/wiki/Article_styling_criteria/Writing#равенство-содержания)*
+::: alert-note
+**См. также:** [Критерии оформления статей/Оформление § Устаревший перевод](/wiki/Article_styling_criteria/Formatting#устаревший-перевод) и [Критерии оформления статей/Содержание § Равенство содержания](/wiki/Article_styling_criteria/Writing#равенство-содержания)
+:::
 
-Пропускать эту проверку (и не помечать переводы как устаревшие) стоит, если ваши правки не меняют смысл и подробности статьи и заключаются в переформулировке фраз, исправлении ошибок, опечаток, и т.д.
+Переводы не нужно помечать как устаревшие, если ваши правки не меняют смысл и содержание статьи и заключаются в переформулировке фраз, исправлении ошибок, опечаток и т.д. В таких случаях автоматическую пометку можно отключить.
+
+Для этого нужно указать, какие файлы или статьи помечать **не** надо: добавьте в описание пулл-реквеста одну или несколько инструкций из таблицы ниже, каждую — на отдельной строке. Поддерживаются следующие форматы:
+
+| Инструкция | Что делает |
+| :-- | :-- |
+| `DO_NOT_OUTDATE: wiki/Path/To/Article/es.md` | Игнорирует один перевод. |
+| `DO_NOT_OUTDATE: wiki/Article` | Игнорирует все переводы статьи `Article`. |
+| `DO_NOT_OUTDATE: wiki/*/es.md` | Игнорирует все переводы на испанский. |
+| `DO_NOT_OUTDATE: wiki/{Article,Other_article}/{es,jp}.md` | Игнорирует переводы статей `Article` и `Other article` на испанский и японский. |
+| `DO_NOT_OUTDATE: wiki/Article + wiki/Other_article/es.md` | Объединяет через плюс несколько правил в одной строке. |
+
+Префикс `wiki/` можно не писать.
 
 ### Разработка
 
@@ -131,15 +146,20 @@ osu! wiki интегрирована в веб-сайт osu!: о техниче�
 
 ## Рутинная работа
 
-*Примечание: на сайте [osu-wiki status](https://osu.wiki/status/en) есть список статей, нуждающихся в доработке.*
+::: alert-notice
+**Внимание**
+на сайте [osu-wiki status](https://osu.wiki/status/en) есть список статей, нуждающихся в доработке.
+:::
 
-Ценность и полнота вики зависят от участия сообщества. Вы можете помочь администраторам и редакторам, если тоже сделаете пару правок. О том, как именно их сделать, см. [Руководство по работе с osu! wiki](/wiki/osu!_wiki/Contribution_guide). Если вы где-то застряли, попросите помощи на канале `#osu-wiki` [дискорд-сервера osu!](/wiki/Community/Discord_servers#official).
+Ценность и полнота вики зависят от участия сообщества. Вы можете помочь администраторам и редакторам, если тоже сделаете пару правок. О том, как именно их сделать, см. [Руководство по работе с osu! wiki](/wiki/osu!_wiki/Contribution_guide). Если вы где-то застряли, попросите помощи на канале `#osu-wiki` [дискорд-сервера osu!](/wiki/Community/Discord_servers#официальный-сервер).
 
 ### Перевод статей
 
 <!-- note: the GitHub links are intentional here, because they expose many articles of a category at once -->
 
-*Список переводов и их статус: см. [osu-wiki status](https://osu.wiki/status/en)*
+::: alert-note
+**Примечание:** список переводов и их статус можно посмотреть на [osu-wiki status](https://osu.wiki/status/en)
+:::
 
 osu! wiki читают пользователи со всего мира. Чтобы помочь вашему локальному сообществу и, возможно, привлечь в игру новых крутых игроков, мапперов, моддеров или разработчиков, переведите на русский какую-нибудь статью или обновите устаревшие переводы. Если вы знаете другой язык, убедитесь, что он [поддерживается osu! wiki](/wiki/Article_styling_criteria/Formatting#локали). Помните, что перевод должен [совпадать с оригиналом по содержанию](/wiki/Article_styling_criteria/Writing#равенство-содержания). Если вы хорошо владеете языком и умеете чётко излагать мысли, беритесь за какие-нибудь ключевые статьи, например, [правила](https://github.com/ppy/osu-wiki/tree/master/wiki/Rules) или [критерии ранкинга](https://github.com/ppy/osu-wiki/tree/master/wiki/Ranking_criteria). Новичкам имеет смысл начать с маленьких статей, чтобы ревьюеры могли легко указать на основные ошибки.
 
@@ -147,7 +167,9 @@ osu! wiki читают пользователи со всего мира. Что
 
 ### Дописывание заготовок
 
-*Примерный объём работы: см. [список статей-заготовок на английском](https://github.com/search?q=stub%3A+true+repo%3Appy%2Fosu-wiki+filename%3Aen.md)*
+::: alert-note
+**Примечание:** примерный объём работы можно оценить по [списку статей-заготовок на английском](https://github.com/search?q=stub%3A+true+repo%3Appy%2Fosu-wiki+path%3A**%2Fen.md)
+:::
 
 Некоторые статьи osu! wiki не завершены и содержат лишь базовые сведения. Они самостоятельны, но являются *заготовками*: нужно, чтобы кто-то написал полноценный, завершённый текст. Если вы хорошо знакомы с предметом статьи, то можете доработать её и тем самым поделиться знаниями.
 
@@ -161,6 +183,8 @@ osu! постоянно меняется: появляются новые кар
 
 ### Обновление статей
 
-*Примерный объём работы: см. [список TODO в английских статьях](https://github.com/search?q=TODO+repo%3Appy%2Fosu-wiki+path%3A**%2Fen.md)*
+::: alert-note
+**Примечание:** примерный объём работы можно оценить по [списку TODO в английских статьях](https://github.com/search?q=TODO+repo%3Appy%2Fosu-wiki+path%3A**%2Fen.md)
+:::
 
 Уже написанные статьи тоже надо обновлять. Если в текст попала ошибка, или тема раскрыта не полностью, или вы просто хотите дописать или поправить статью, не стесняйтесь улучшить osu! wiki. Перед тем, как менять что-то важное или вносить масштабные изменения, стоит обсудить это с остальными: напишите в канал `#osu-wiki` или [заведите новую задачу](https://github.com/ppy/osu-wiki/issues/new).

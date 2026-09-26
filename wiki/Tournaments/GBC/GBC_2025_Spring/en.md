@@ -44,7 +44,7 @@ The **GB Cup 2025 Spring** (***GBC 2025 Spring***) was an osu!mania 4K point-bas
 | *17th place – 24th place* | 20 RMB |
 | *Full attendance prize (include playoff players)* | KanonBot profile badge (all groups), 10 RMB (Group B), 12.4 RMB (Group A), 14,8 RMB (Group S), 17.2 RMB (Group EX) |
 
-![GBC 2025 Spring QQ division winner badge](img/GBC-2025-Spring-badge-QQ-1st.png) 
+![GBC 2025 Spring QQ division winner badge](img/GBC-2025-Spring-badge-QQ-1st.png)
 
 ### Discord division
 
@@ -516,6 +516,7 @@ Due to the vast number of matches and players involved, it's not possible to dis
 
 1. Each group has four mappools, with one mappool to be played in every week.
 2. Each mappool consists of 7 beatmaps that will all be played under [Free Mod](/wiki/Gameplay/Game_modifier#free-mod) conditions. This means that there is a unique Free Mod bracket.
+   - Free Mod here means `No Fail`, `Hidden`, `Fade In`, `Flashlight`, and `Mirror` are allowed.
 3. The composition of the beatmap slots in the mappool may vary from round to round.
 
 ### Scheduling information

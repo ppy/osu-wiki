@@ -62,7 +62,10 @@ Aucun effet :
 - Terminer des Dendens
 - Terminer des Shakers
 
-*Note: Il est complètement possible qu'une beatmap ne soit jamais classée à cause de son design si elle contient uniquement des roulements de tambours et/ou des dendens/shakers.*
+::: alert-notice
+**Note**
+Il est complètement possible qu'une beatmap ne soit jamais classée à cause de son design si elle contient uniquement des roulements de tambours et/ou des dendens/shakers.
+:::
 
 ## osu!catch
 

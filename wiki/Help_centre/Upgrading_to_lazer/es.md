@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: f287ccabf717f22c643ae835a042aeab3c24b569
+---
+
 # Actualizar a lazer
 
 osu!(lazer) es la próxima gran actualización del juego. Es la culminación de varios años de trabajo detrás de escena para relanzar laboriosamente el juego.
@@ -552,7 +557,7 @@ Probablemente traigamos de vuelta el soporte para esto en el futuro debido a la 
 
 #### ¿Por qué no puedo usar FPS ilimitados?
 
-Sobre cierto límite no hay motivo para usar tasas de refresco mayores. Lazer emplea varias tecnologías nuevas para asegurar que una menor latencia sea posible sin requerir altas tazas de refresco. Esto continuará mejorando en el futuro, ya que nos quedan algunas mejoras por implementar.
+Sobre cierto límite no hay motivo para usar tasas de refresco mayores. Lazer emplea varias tecnologías nuevas para asegurar que una menor latencia sea posible sin requerir altas tasas de refresco. Esto continuará mejorando en el futuro, ya que nos quedan algunas mejoras por implementar.
 
 Lazer sondea la entrada a 1000 Hz sin importar el limitador de FPS, razón por la cual la configuración máxima del limitador también se limita a 1000 FPS.
 

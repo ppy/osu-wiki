@@ -45,7 +45,7 @@ For those who prefer circles without numbers, [this osu!taiko map](https://osu.p
 
 ---
 
-True or false: Does [**Dazzling**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/545) has pre-timed beatmap templates for every song above? Answer in your notebooks now.
+True or false: Does [**Dazzling**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/545) have pre-timed beatmap templates for every song above? Answer in your notebooks now.
 
 When you're done contemplating object placements in the editor, a week will have passed, and a new Featured Artist will have been announced!
 

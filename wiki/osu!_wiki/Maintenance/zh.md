@@ -1,12 +1,16 @@
 # osu! wiki 维护
 
-*参见：[osu! wiki 贡献指南](/wiki/osu!_wiki/Contribution_guide)*
+::: alert-note
+**参见：** [osu! wiki 贡献指南](/wiki/osu!_wiki/Contribution_guide)
+:::
 
 这篇文章描述了 osu! wiki 的技术和管理方面。它还囊括了保持 wiki 更新所需的维护程序——也许你可以[在其中一个程序做出贡献](#例行程序)。所有与 wiki 相关的讨论，应使用 [osu! Discord 服务器](/wiki/Community/Discord_servers#official)的 `#osu-wiki` 频道。
 
 ## 管理员
 
-*主文章：[osu! wiki 维护者列表](/wiki/People/osu!_wiki_maintainers)*
+::: alert-note
+**主文章：** [osu! wiki 维护者列表](/wiki/People/osu!_wiki_maintainers)
+:::
 
 管理员有对 [`ppy/osu-wiki` 仓库](https://github.com/ppy/osu-wiki/)的[协作访问权限](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/permission-levels-for-a-personal-account-repository#collaborator-access-for-a-repository-owned-by-a-personal-account)。所有文章和新闻帖都存储在仓库之中。他们可以分类和标记问题、管理打开的拉取请求 (PR)、决定 osu! wiki 的现在和未来。
 
@@ -97,7 +101,9 @@ osu! 的创始者。
 
 ##### Wiki 链接检查
 
-*参见：[文章风格规范/排版 § Wiki 链接](/wiki/Article_styling_criteria/Formatting#wiki-链接)*
+::: alert-note
+**参见：** [文章风格规范/排版 § Wiki 链接](/wiki/Article_styling_criteria/Formatting#wiki-链接)
+:::
 
 鼓励贡献者在更新文章时，修复坏掉的链接。也就是说，在某些情况下，可能需要做比简单地提出拉取请求 (PR) 更多的工作：
 
@@ -107,7 +113,9 @@ osu! 的创始者。
 
 ##### 过时翻译
 
-*参见：[文章风格规范/排版 § 过时翻译](/wiki/Article_styling_criteria/Formatting#过时翻译文章)和[文章风格规范/写作 § 内容一致性](/wiki/Article_styling_criteria/Writing#内容一致性)*
+::: alert-note
+**参见：** [文章风格规范/排版 § 过时翻译](/wiki/Article_styling_criteria/Formatting#过时翻译文章)和[文章风格规范/写作 § 内容一致性](/wiki/Article_styling_criteria/Writing#内容一致性)
+:::
 
 如果只是做出较小的改动，或者调整语法这类不会影响原本意思的更改，则无需将翻译标记为过时。在这些情况下，可以跳过将翻译标记为过时的自动操作。
 
