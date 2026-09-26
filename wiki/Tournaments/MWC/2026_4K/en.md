@@ -127,22 +127,25 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e45
 
 ## Match schedule: Grand Finals
 
-### Saturday, 26 September 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |  |
-| :-: | --: | :-- | :-- | :-: | :-: |
-| 61 | United States ::{ flag=US }:: | ::{ flag=CN }:: China | [Sep 26 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260926T150000&p1=1440&p2=263&p3=33) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-
 ### Sunday, 27 September 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
-| 62b | South Korea ::{ flag=KR }:: | ::{ flag=CN }:: China | [Sep 27 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260927T120000&p1=1440&p2=235&p3=33) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | 62a | South Korea ::{ flag=KR }:: | ::{ flag=US }:: United States | [Sep 27 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260927T150000&p1=1440&p2=235&p3=263) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 
 ## Match results
 
+### Grand Finals
+
+Saturday, 26 September 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 61 | **United States** ::{ flag=US }:: | **7** | 4 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/121920931) | [#1](https://www.twitch.tv/videos/2884659067) |
+
 ### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1ZqfUEgydWtT5BZ6uX3Ojvp0B89nJZRiVJT-UsxOWgpo?rm=minimal).
 
 Wednesday, 16 September 2026:
 
@@ -659,7 +662,6 @@ The weights for the Qualifiers are as follows:
 
 ## Notes
 
-[^losers-bracket]: Losers bracket Grand Finals match
-[^winners-bracket]: Grand Finals match – final matchup depends on the winner of the preceding Losers bracket match
+[^winners-bracket]: Grand Finals match
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rank sum
