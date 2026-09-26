@@ -248,7 +248,7 @@ The final standings and statistics for the Qualifier stage can be found in [this
 3. Should a country not have enough registrations to form a team (2 or less), they may be allowed to merge with another closely related country in order to supplement that.
    - Relations may be historical, political, or geographical.
    - All merges will be reviewed on a case-by-case basis by the tournament organisers.
-4. To ensure valid registrations, every prospective participant will go through [tournament screening](/wiki/Tournaments/Official_support#tournament-screening); violation of the [osu! community rules](/wiki/Rules) within the previous 12 months or an active tournament ban may void a player's eligibility to participate.
+4. To ensure valid registrations, every prospective participant will go through [tournament screening](/wiki/Tournaments/Official_support#screening); violation of the [osu! community rules](/wiki/Rules) within the previous 12 months or an active tournament ban may void a player's eligibility to participate.
    - Individuals who are unhappy with the results of screening should contact [accounts@ppy.sh](mailto:accounts@ppy.sh) to request more information about their case.
 5. Tournament staff members are not allowed to play in the tournament, with the exception of commentators, streamers, and designers.
    - The tournament organisers must ensure that such staff members do not have access to any privileged data, e.g. qualifier score information, or mappool information before the mappool showcase.

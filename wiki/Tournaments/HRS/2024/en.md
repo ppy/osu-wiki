@@ -631,7 +631,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 ### Tournament registration
 
 1. Every user interested in participating signs up individually.
-2. To ensure valid registrations, every prospective participant will be manually checked by the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) process that is offered to community tournaments.
+2. To ensure valid registrations, every prospective participant will be manually checked by the [tournament screening](/wiki/Tournaments/Official_support#screening) process that is offered to community tournaments.
    - To be successfully accepted on the list, players are required to be placed #15000 or higher on the osu! global ranking including [BWS](/wiki/Tournaments/Badge-weighted_seeding), and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 3. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators, statisticians, and streamers.
    - The tournament managers must ensure that such staff members do not have access to any priviledged data, e.g. Qualifiers score information, or mappool information before the mappool showcase.
