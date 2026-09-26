@@ -128,6 +128,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/6b3
 
 ### Grand Finals
 
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1DnaCXHGCDr-6uWYwNX5J4oUzlIqSBPP6ZjFn-Jy5FcM?rm=minimal).
+
 Saturday, 25 April 2026:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
