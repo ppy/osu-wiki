@@ -2,15 +2,13 @@
 stub: true
 tags:
   - FC
-outdated_translation: true
-outdated_since: cfef44fa9c881a508f155745740cb091b5422c84
 ---
 
 # 全连
 
 **全连** （**Full combo**，简写为 *FC*）用来描述玩家在一张[谱面](/wiki/Beatmap)获得最大理论[连击数](/wiki/Gameplay/Combo_(score_multiplier))的情况。在没有 Miss<!-- TODO: link -->、[断滑条](/wiki/Gameplay/Judgement/Slider_break)、漏掉[滑条尾](/wiki/Gameplay/Hit_object/Slider/Slidertail)的情况下通过谱面时，即可获得全连。
 
-osu! 社区公认的是，仅因漏掉滑条尾而失去连击的成绩也属于全连。这个与游戏客户端和网页的显示有所不同。
+osu! 社区公认的是，仅因漏掉滑条尾而失去连击的成绩也属于全连。这个与游戏客户端和网页的显示有所不同。获得最大理论连击数的成绩也可被称作**完美全连**（**Perfect full combo**，简写为 *PFC*，请勿与 [SS](/wiki/Gameplay/Grade) 评级相混淆），这样便能将其与漏掉滑条尾的成绩区分开来。
 
 ![全连与有断连成绩的截图](img/combo-comparison.png "上面的成绩是全连的，下面的成绩有断连。")
 
