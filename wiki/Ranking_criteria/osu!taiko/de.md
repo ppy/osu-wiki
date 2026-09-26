@@ -40,7 +40,7 @@ Die **Ranking-Kriterien für osu!taiko** legen die [Regeln und Richtlinien](/wik
 
 ## Global
 
-Globale Regeln und Richtlinien gelten für alle Arten von osu!taiko-Schwierigkeitsstufen. Rhythmusbezogene Regeln und Leitlinien gelten für Beatmaps mit etwa 180 BPM und 4/4-Taktsignaturen. Wenn dein Song drastisch schneller oder langsamer ist, können einige Variablen anders sein, wie in [Skalierung der BPM anhand der Ranking-Kriterien](/wiki/Ranking_criteria/Scaling_BPM) ausführlich beschrieben.
+Globale Regeln und Richtlinien gelten für alle osu!taiko-Schwierigkeitsstufen. Rhythmusbezogene Regeln und Richtlinien gelten für Beatmaps mit ca. 180 BPM und 4/4-Taktsignaturen. Wenn dein Song drastisch schneller oder langsamer ist, können einige Variablen anders sein, wie unter [BPM-Skalierung in den Ranking-Kriterien](/wiki/Ranking_criteria/Scaling_BPM) ausführlich beschrieben wird.
 
 ### Allgemein
 
