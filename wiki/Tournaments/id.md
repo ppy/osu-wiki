@@ -28,6 +28,7 @@ Berikut merupakan berbagai turnamen resmi yang diselenggarakan oleh tim osu!.
 | [osu! World Cup 2023](OWC/2023) | 2023-10-21 | 2023-12-03 | ::{ flag=US }:: Amerika Serikat | ::{ flag=KR }:: Korea Selatan | ::{ flag=AU }:: Australia |
 | [osu! World Cup 2024](OWC/2024) | 2024-10-26 | 2024-12-08 | ::{ flag=KR }:: Korea Selatan | ::{ flag=US }:: Amerika Serikat | ::{ flag=AU }:: Australia |
 | [osu! World Cup 2025](OWC/2025) | 2025-10-25 | 2025-12-14 | ::{ flag=PL }:: Polandia | ::{ flag=US }:: Amerika Serikat | ::{ flag=AU }:: Australia |
+| [osu! World Cup 2026](OWC/2026) | 2026-10-25 | 2026-12-13 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/taiko.png) [osu!taiko World Cup](TWC)
 
