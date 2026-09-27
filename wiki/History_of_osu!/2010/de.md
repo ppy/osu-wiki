@@ -26,7 +26,7 @@ In diesem Monat führte peppy in einem osu!-Update einen neuen Algorithmus zur B
 
 Am 2. August wurde allen Nutzern eine einmalige Änderung ihres Nutzernamen gewährt. Um diese zu verwenden, musste man mindestens einmal ein osu!supporter-Tag bessessen haben, entweder durch einen Kauf oder als Geschenk.[^name-change]
 
-Der Chatbefehl [`!report`](/wiki/BanchoBot#report) wurde zu [Bancho](/wiki/BanchoBot) hinzugefügt, wodurch Spieler in der Lagen waren, Moderatoren über Fehlverhalten im Chat zu informieren.[^bancho-report]
+Der Chatbefehl [`!report`](/wiki/BanchoBot#report) wurde zu [Bancho](/wiki/BanchoBot) hinzugefügt, wodurch Spieler in der Lage waren, Moderatoren über Fehlverhalten im Chat zu informieren.[^bancho-report]
 
 [nardii](https://osu.ppy.sh/users/1017) gab peppy Zugriff auf sein [Twitter](https://twitter.com)-Konto [@osugame](https://twitter.com/osugame), welches seither für allgemeine Neuigkeiten bezüglich osu! genutzt wurde.[^twitter-osugame]
 
@@ -35,10 +35,10 @@ Der Chatbefehl [`!report`](/wiki/BanchoBot#report) wurde zu [Bancho](/wiki/Banch
 Am 2. September erhielt osu! mehrere Updates in Bezug auf Mapping, unter anderem:[^stable-b1650]
 
 - Die [SB-Load](/wiki/Client/Beatmap_editor/SB_load)-Anzeige, die die Effizienz des Zeichnens des Storyboards und der Hintergrundelemente widerspiegelt.
-- Um die Geschwindkeit der [Approach-Circles](/wiki/Gameplay/Hit_object/Approach_circle) unabhängig von der [allgemeinen Schwierigkeit](/wiki/Beatmap/Overall_difficulty) konfigurieren zu können, wurde die [Approach-Rate](/wiki/Beatmap/Approach_rate) eingeführt.
+- Um die Geschwindigkeit der [Approach-Circles](/wiki/Gameplay/Hit_object/Approach_circle) unabhängig von der [allgemeinen Schwierigkeit](/wiki/Beatmap/Overall_difficulty) konfigurieren zu können, wurde die [Approach-Rate](/wiki/Beatmap/Approach_rate) eingeführt.
 - Benutzerdefinierte Multiplikatoren der [Slidergeschwindigkeit](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) von 0,5x bis 2x.
 
-60 [Schwierigkeitsgrade](/wiki/Beatmap/Difficulty) waren von einem Bug in Taiko[^taiko-name] betroffen durch den Drumrolls nicht richtig angezeigt wurden, weswegen alle Scores auf diesen gelöscht wurden.[^taiko-reset]
+60 [Schwierigkeitsgrade](/wiki/Beatmap/Difficulty) waren von einem Fehler in Taiko[^taiko-name] betroffen, durch den Drumrolls nicht richtig angezeigt wurden, weswegen alle Scores auf diesen gelöscht wurden.[^taiko-reset]
 
 ## Oktober
 
@@ -48,7 +48,7 @@ Die Mod [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) wurde für einen T
 
 ## November
 
-Ein osu!-Update fügte neue Sprites für den Modus Taiko[^taiko-name] hinzu.[^stable-b1696]
+Ein osu!-Update fügte neue [Sprites](https://de.wikipedia.org/wiki/Sprite_(Computergrafik)) für den Modus Taiko[^taiko-name] hinzu.[^stable-b1696]
 
 Vom 20. bis zum 28. November wurde die Flashlight-Mod in Online-Ranglisten nach intensiver Diskussion erneut deaktiviert, da Spieler nach wie vor in der Lage waren, mit der Mod zu schummeln.[^flashlight-3][^flashlight-4]
 
