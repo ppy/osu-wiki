@@ -22,10 +22,10 @@ This article was last updated on TODO: DATE. A complete changelog is maintained 
 
 To reduce ambiguity, the words and phrases defined in [RFC-2119](https://www.ietf.org/rfc/rfc2119.txt) are adopted. These terms are used in **bold** to differentiate between what is strictly required, what is suggested, and what is optional.
 
-- **Must** - This word—or the terms **required** or **shall**—represent an absolute requirement.
-- **Must not** - This phrase—or the phrase **shall not**—represents an absolute prohibition.
-- **Should** - This word—or the adjective **recommended**—means that there may exist valid reasons to ignore a particular item, but the full implications must be understood before deviating from the recommended course of action.
-- **May** - This word—or the adjective **optional**—means that an item is truly optional. These terms are often followed by specific conditions which must be met before the optional component is realised. In these cases, the words **if** or **unless** are used to define the conditions.
+- **Must** - This word — or the terms **required** or **shall** — represent an absolute requirement.
+- **Must not** - This phrase — or the phrase **shall not** — represents an absolute prohibition.
+- **Should** - This word — or the adjective **recommended** — means that there may exist valid reasons to ignore a particular item, but the full implications must be understood before deviating from the recommended course of action.
+- **May** - This word — or the adjective **optional** — means that an item is truly optional. These terms are often followed by specific conditions which must be met before the optional component is realised. In these cases, the words **if** or **unless** are used to define the conditions.
 
 ## Foreword
 
@@ -60,7 +60,7 @@ Community-run tournaments receiving this support **must** abide by the following
 
 ### Format
 
-Format criteria are **inflexible, absolute fundamentals** that all officially-supported tournaments **must** abide by. Any violation of the below points will immediately result in a [revocation of support](#revocation-of-support):
+Format criteria are **inflexible, absolute fundamentals** that all officially supported tournaments **must** abide by. Any violation of the below points will immediately result in a [revocation of support](#revocation-of-support):
 
 - The tournament's theme, sponsors, and promotional material **must not** violate the [community rules](/wiki/Rules).
 - Any region restrictions **must** be reasonable, e.g. between countries with a shared language, political history, or geographic region.
@@ -69,7 +69,7 @@ Format criteria are **inflexible, absolute fundamentals** that all officially-su
   - LAN tournaments **may** operate on a Quarterfinals double-elimination or Round of 16 single-elimination format **if and only if** their bracket is held entirely offline.
   - Larger formats, such as group stages and Swiss brackets, **may** also be used **if** they start with at least 16 teams.
     - If applicable and starting with only 16 teams, the format **must** break to a double-elimination bracket afterwards.
-  - Draft or auction style tournaments **may** follow the same reduced bracket size as LAN events **if** they are open rank[^open-rank] and have a minimum team size of 8.
+  - Draft- or auction-style tournaments **may** follow the same reduced bracket size as LAN events **if** they are open rank[^open-rank] and have a minimum team size of 8.
     - Note: This applies to a maximum of 2 divisions for global or continental tournaments and 1 division for smaller-scale tournaments.
   - To request official support for an alternative format, hosts **must** [contact the committee](#contact) and receive written approval **before** accepting registrations for the event.
 - Tournaments that are not open rank[^open-rank] **must not** allow participants whose numeric global rank value is larger than:
@@ -83,16 +83,16 @@ Format criteria are **inflexible, absolute fundamentals** that all officially-su
   - Personal information **may** be collected as needed to fulfill legal, financial, or tax obligations and to fulfill the distribution of monetary or physical prizes.
   - Other exceptions to this rule **may** be granted by the committee, provided the tournament organiser provides a thorough justification to them via [tournaments@ppy.sh](mailto:tournaments@ppy.sh) well before any such information is collected.
   - For tournaments restricting registrations by country, profile flags **should** be used as the basis for entry.
-- In cases where **any** personal information is collected from registrants for any reason **other than** distribution of prizes:
-  - Tournament organisers **must** include a privacy policy on the tournament's forum post and/or wiki page **immediately upon forum post publication** detailing the following:
+- In cases where **any** personal information is collected from registrants for any reason **other than** distribution of prizes...
+  - ...tournament organisers **must** include a privacy policy on the tournament's forum post and/or wiki page **immediately upon forum post publication** detailing the following:
     - Any users, organisations, or other entities who can view this information.
     - How the information will be stored and processed.
     - What the information will be used for.
-  - Modifications to the privacy policy **must** be announced publicly.
+  - ...modifications to the privacy policy **must** be announced publicly.
 
 ### Quality
 
-Officially-supported tournaments **must** meet certain quality standards and maintain them throughout the tournament. Low-quality events are subject to [revocation of support](#revocation-of-support).
+Officially supported tournaments **must** meet certain quality standards and maintain them throughout the tournament. Low-quality events are subject to [revocation of support](#revocation-of-support).
 
 - Forum post graphics, profile badges, stream overlays, and other graphics **should** have a reasonable amount of effort put into them. A consistent theme following standard design principles is **recommended**.
   - Graphic designers are frequently commissioned to handle this aspect of the tournament.
@@ -112,15 +112,15 @@ Below are header images used in various community tournaments. These headers **s
 
 For each of these tournaments, take note of the overall design of the forum post and other imagery used across the forum post and spreadsheets.
 
-##### osu! finnish tournament 9
+[osu! finnish tournament 9](https://osu.ppy.sh/community/forums/topics/2107540?n=1):
 
-[![](img/oft9-banner.png)](https://osu.ppy.sh/community/forums/topics/2107540?n=1)
+[![osu! finnish tournament 9 banner](img/oft9-banner.png)](https://osu.ppy.sh/community/forums/topics/2107540?n=1)
 
-##### Belladonna's Duoiji Cup
+[Belladonna's Duoiji Cup](https://osu.ppy.sh/community/forums/topics/1827765?n=1):
 
-[![](img/bdc-banner.png)](https://osu.ppy.sh/community/forums/topics/1827765?n=1)
+[![Belladonna's Duoiji Cup banner](img/bdc-banner.png)](https://osu.ppy.sh/community/forums/topics/1827765?n=1)
 
-### Regulatory
+### Regulatory rules
 
 Tournaments requesting official support **must** adhere to the following:
 
@@ -135,16 +135,16 @@ Tournaments requesting official support **must** adhere to the following:
     - Third offense: 1 year hosting ban
     - Fourth offense: Indefinite hosting ban
   - The sanction scale will reset by one step each year that has elapsed since the host's most recent offense. Repeat offenders are never re-eligible for a second warning.
-- All registrants **must** be screened by the [account support team](/wiki/People/Account_support_team) before play commences.[^play-commence] See [screening](#screening) for more details.
+- All registrants **must** be screened by the [account support team](/wiki/People/Account_support_team) before play commences.[^play-commence] See the [screening section](#screening) for more details.
 - If a user satisfies the sign-up criteria (if any) and is not [filtered](#registrant-filtering-and-seeding) out through other means, the tournament **must not** prevent those who pass the screening from participating without both ample evidence presented publicly against them and the approval of the account support team.
-  - This includes preventing users who are perceived to be "sandbagging" from play. Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the committee for a case-by-case review (see [contact](#contact)).
+  - This includes preventing users who are perceived to be "sandbagging" from play. Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the committee for a case-by-case review (see the [contact section](#contact)).
   - Disqualifying a user due to a breach of tournament rules is allowed without prior approval. However, hosts **must** document such cases and retain evidence in the event the legitimacy of the disqualification is challenged.
 - A dedicated referee **must** be present during every match, or be available to be summoned with minimal delay (less than five minutes) **if** permission for [automated software](#automated-refereeing) has been granted and is being used for assistance. Players **must not** "self-ref".
 - Every match within the same bracket or Qualifier stage **must** be held in a consistent format. For example, in a tournament which uses a Qualifier stage and a double-elimination bracket stage, bracket matches **must** all be played either synchronously or asynchronously, but not both.
 - All multiplayer matches relevant to the tournament **must** be created with the `!mp make` command, so that they do not expire. The results **must** be recorded and made publicly available on the original tournament forum post, or an outside source linked on the forum post, in a clear and accessible format.
 - All relevant rule changes **must** be communicated clearly to all participants.
 - All relevant links **must** be present and maintained on the tournament's forum post.
-  - The main spreadsheet, online bracket, event website, twitch streams, Discord, and other core links are expected to be on the forum post. Other links, such as statistics, **may** be included on the tournament's main spreadsheet instead.
+  - The main spreadsheet, online bracket, event website, Twitch streams, Discord server, and other core links are expected to be on the forum post. Other links, such as ones to statistics spreadsheets, **may** be included on the tournament's main spreadsheet instead.
 - All promotional material or services associated with a tournament receiving official support **must** adhere to the [osu! community rules](/wiki/Rules). This includes things like Twitter accounts, Discord servers, and so on.
 - All forum threads associated with the tournament **must** contain this snippet **at the very end** of the forum post:
 
@@ -154,7 +154,7 @@ Tournaments requesting official support **must** adhere to the following:
 
 #### Organiser expectations
 
-Tournament organisers **must** report instances of foul play, misconduct, and violations of the staff & player expectations outlined below to the committee (see [contact](#contact)). Similarly, players and staff share a responsibility to inform the committee in instances of organiser misconduct.
+Tournament organisers **must** report instances of foul play, misconduct, and violations of the staff and player expectations outlined below to the committee (see the [contact section](#contact)). Similarly, players and staff share a responsibility to inform the committee in instances of organiser misconduct.
 
 #### Staff expectations
 
@@ -170,9 +170,9 @@ With regards to staff roles, the following rules apply:
 
 At the support team's discretion, staff members whose conduct contradicts these expectations **may** be issued a [tournament ban](/wiki/Help_centre/Tournament_sanctions#tournament-bans) or [staffing ban](/wiki/Help_centre/Tournament_sanctions#staffing-bans).
 
-At the support team's discretion, organisers who make major mistakes that break eligibility rules or expectations for official support may be subject to a [hosting ban](/wiki/Help_centre/Tournament_sanctions#hosting-bans). Hosting bans may be used in place of revoking official support when a tournament would otherwise be ineligible for support while maintaining competitive integrity. While under a hosting ban, users may not be a primary organiser or admin of any officially-supported tournament. They may, however, engage in other roles which do not involve organisation.
+At the support team's discretion, organisers who make major mistakes that break eligibility rules or expectations for official support may be subject to a [hosting ban](/wiki/Help_centre/Tournament_sanctions#hosting-bans). Hosting bans may be used in place of revoking official support when a tournament would otherwise be ineligible for support while maintaining competitive integrity. While under a hosting ban, users may not be a primary organiser or admin of any officially supported tournament. They may, however, engage in other roles which do not involve organisation.
 
-A list of all tournament staff **must** be publicly visible in an easily accessible location. This list **must** be contained within the tournament's forum post, wiki page, website, **or** spreadsheet. If there are multiple lists of staff, they **must** all be up to date and in sync with one another.
+A list of all tournament staff members **must** be publicly visible in an easily accessible location. This list **must** be contained within the tournament's forum post, wiki page, website, **or** spreadsheet. If there are multiple lists of staff, they **must** all be up to date and in sync with one another.
 
 #### Player expectations
 
@@ -186,7 +186,7 @@ At the account support team's discretion, offending players may be issued timed 
 
 Third-party programs designed to filter registrants, seed players, or automate the job of a referee **must** be open, transparent, and documented. Any third-party tool used for these purposes **must**:
 
-- Be made publicly and functionally available as an open-source repository. An open-source license **must** be present.
+- Be made publicly and functionally available as an open-source repository. An [open-source license](https://en.wikipedia.org/wiki/Open-source_license) **must** be present.
 - Be thoroughly documented in an easily readable and digestible format. The outputs **must** be reproducible using the provided documentation.
 
 Currently, approval for the use of any such tool **must** be **explicitly granted** by the committee. Additionally, this approval **must** be granted for every tournament where programs for registrant filtering, seeding, or automated refereeing are used.
@@ -245,7 +245,7 @@ Once the request is received, the account support team will return a list of use
 
 #### Registrants
 
-Hosts **must** attach a spreadsheet / CSV file that lists registrants for screening.
+Hosts **must** attach a spreadsheet or a CSV file that lists registrants for screening.
 
 - For solo tournaments, include the `username` and `user_id` on each line.
 - For team-based tournaments, include `username`, `team_name`, and `user_id`, and group players by team.
@@ -275,7 +275,7 @@ All registrants **must** be included in the screening list, **except** in this c
 
 For events using tryouts, or any other format where a large number of registrants have no chance of participating, hosts **should** wait until final teams are formed before submitting the screening list. In these cases, hosts **should** include designated backups or substitutes to alleviate the impact of a player on the main roster getting screened. This is typically only the case in world-cup-style tournaments.
 
-For clarifications on which registrants are relevant for a particular tournament, [contact the committee](#contact).
+For clarifications on which registrants are subject to screening for a particular tournament, [contact the committee](#contact).
 
 #### Enforcement
 
@@ -301,7 +301,7 @@ At this time, a maximum of two news posts are permitted per tournament receiving
 
 If a news post advertising registrations is denied, the committee **may** inform hosts of their potential eligibility for a conclusionary news post. Hosts and organisers interested in doing so **must** send in a new request after the tournament has concluded.
 
-For assistance with authoring or merging, join the [osu! Discord](https://discord.com/invite/ppy) and ask for help in the `#osu-wiki` channel.
+For assistance with authoring and publication, join the [osu! Discord server](https://discord.com/invite/ppy) and ask for help in the `#osu-news` channel. For news formatting and style requirements, see the [news styling criteria](/wiki/News_styling_criteria).
 
 #### Main-menu banners
 
@@ -328,20 +328,20 @@ Due to main-menu banners appearing everywhere across osu!, they **must** be of *
 - It **must** clearly display the logo, motif, **and** name of the tournament, plus any information about the ongoing stage or section that is being advertised.
 - The design **must not** include any AI-generated assets.
 - The submission **must** be a `.png` file.
-- The frame width **must not** exceed `1000px`. Smaller widths **may** be used.
-- The frame height **must** be exactly `180px`.
+- The frame width **must not** exceed `1000 px`. Smaller widths **may** be used.
+- The frame height **must** be exactly `180 px`.
 - The banner **must** have sufficient padding around the edges.
 - All banner images will be treated as `2x`, meaning that they will be exported at 50% scale into a `1x` image. Design the images appropriately to ensure everything is legible at half size. The image shown to users depends on the resolution of their osu! client.
 
 Designers **should** make use of the template image (shown below) and the [asset previewer tool](https://tcomm.hivie.tn/assets-previewer?tab=in-game-banners) to see how banners will appear in-game and on the website.
 
-![](https://assets.ppy.sh/media/mainmenu_template.png)
+![Main menu template](https://assets.ppy.sh/media/mainmenu_template.png)
 
 Below are examples of previously approved main-menu banners:
 
-[![](img/coegts-menubanner.png)](https://osu.ppy.sh/community/forums/topics/2098556?n=1)
+[![cavoe's osu! event's Global Taiko Showdown 2025 menu banner](img/coegts-menubanner.png)](https://osu.ppy.sh/community/forums/topics/2098556?n=1)
 
-[![](img/4wc24-menubanner.png)](/wiki/Tournaments/4WC/2024)
+[![4 Digit World Cup 2024 menu banner](img/4wc24-menubanner.png)](/wiki/Tournaments/4WC/2024)
 
 ### Tri-badge {id=tri-badge-support}
 
@@ -363,7 +363,7 @@ Hosts aiming to achieve this support **must** adhere to all requirements listed 
 - The tournament **should** be widely respected and highly anticipated by the community.
 - The level of competition **must** be **extremely high**.
 - A tournament website **may** be used. **If** so, it **must** function **exceptionally** well. A website that does not match the rest of the tournament's quality is worse than no website at all.
-- A vast majority of matches **must** be livestreamed with **high-quality** commentary. The **recommended** broadcast resolution is 1920x1080 at 60FPS. The goal **should** be to stream and commentate as many matches as possible.
+- A vast majority of matches **must** be livestreamed with **high-quality** commentary. The **recommended** broadcast resolution is 1920x1080 at 60 FPS. The goal **should** be to stream and commentate as many matches as possible.
 - Barring exceptional circumstances, livestreams **must** be recorded. Recordings **must** be preserved and **should** be elegantly curated.
   - Saving livestream recordings and re-publishing to a video hosting platform, such as YouTube, is **recommended**.
   - Uploads **should** have thumbnails.
@@ -388,7 +388,7 @@ Hosts **should** reply to the same email thread used for the screening request t
 Include the following in the email:
 
 - A list of badge recipients (the tournament winners).
-- The image used for the profile badge (see [design requirements](#design-requirements)).
+- The image used for the profile badge (see the [design requirements](#design-requirements)).
 - Links to the forum post and, where applicable, the wiki page, website, and/or publicly viewable spreadsheet(s) with:
   - All mappools.
   - Complete match history with links to all matches, including Qualifiers if used.
@@ -401,10 +401,10 @@ Hosts **must** review the following items **before** submitting the conclusion e
 
 - All staff listings are updated and synchronised. Where staff are listed in spreadsheets (e.g. referees assigned to matches), usernames **must** be consistent throughout.
 - All staff are appropriately credited in any spreadsheets.
-- The seeding method, results, and match links are publicly listed and easily accessible as described in [regulatory](#regulatory). A third-party **must** be able to reproduce the results **exactly** using the provided match links.
+- The seeding method, results, and match links are publicly listed and easily accessible as described in the [regulatory section](#regulatory). A third-party **must** be able to reproduce the results **exactly** using the provided match links.
   - Take note of any filtered scores and list them in the email. Sometimes, scores are played by mistake or with the wrong format and are excluded at the spreadsheet level but will still show up in the match data when verifying.
   - If the score values used for seeding differ from the MP links in any way, the relevant details **must** be stated in the conclusion email. This includes any normalisations of, or other modifications to, in-game mod multipliers.
-- All required links are present on the forum post (see [regulatory](#regulatory)).
+- All required links are present on the forum post (see the [regulatory section](#regulatory)).
 - All online brackets and match listings are updated to include results for all matches.
 
 ## Profile badges
@@ -416,7 +416,7 @@ Profile badges are awarded to the winners of tournaments which abide by the [eli
 Badge images **must** adhere to the following standards:
 
 - The submitted file **must** be a `.png` file.
-- The dimensions **must** be exactly `172x80px`.
+- The dimensions **must** be exactly `172x80 px`.
 - The design **must** clearly display the tournament's name, logo, or motif.
 - The design **must** be cleanly produced, legible, and of reasonable visual quality.
 - The design **must not** include any sponsorship or promote anything besides the tournament.
@@ -431,7 +431,7 @@ Designers **should** make use of the [badge visualisation tool](https://tcomm.hi
 
 Below are examples of exemplary profile badge designs:
 
-[![](img/phkc-badge.png)](https://osu.ppy.sh/community/forums/topics/2036687?n=1) [![](img/egts-w-2022@2x.png)](/wiki/Tournaments/GTS/EGTS_2022) [![](img/PRISM241ST@2x.png)](/wiki/Tournaments/Project_Prism/2024)
+[![Philippines Kaibigan Cup 2025 badge](img/phkc-badge.png)](https://osu.ppy.sh/community/forums/topics/2036687?n=1) [![Expert Global Taiko Showdown 2022 winner badge](img/egts-w-2022@2x.png)](/wiki/Tournaments/GTS/EGTS_2022) [![Project Prism 2024 winner badge](img/PRISM241ST@2x.png)](/wiki/Tournaments/Project_Prism/2024)
 
 Submissions that do not meet these standards will be refused with reasoning. Under these circumstances, the committee reserves the right to require a badge to be redesigned.
 
@@ -457,12 +457,12 @@ There are three main ways to get in contact with the committee:
 
 Generally, these are the reasons each method **should** be used alongside expected wait times for a response. Contact methods with the ![][false] icon **must not** be used for the corresponding contact reason.
 
-| Contact reason | [Email](mailto:tournaments@ppy.sh) | [TC Website](https://tcomm.hivie.tn/) | [Discord](https://discord.com/invite/ppy)[^intervention] |
+| Contact reason | [Email](mailto:tournaments@ppy.sh) | [TC website](https://tcomm.hivie.tn/) | [Discord](https://discord.com/invite/ppy)[^intervention] |
 | :-- | :-- | :-- | :-- |
 | Official tournament support requests / screening | ![][true] 10–14 days | ![][false] | ![][false] |
 | News post and main-menu banner requests | ![][true] 10–14 days | ![][false] | ![][false] |
 | Conclusion / badge request | ![][true] [^badge-request] | ![][false] | ![][false] |
-| Anonymous inquiry or report | ![][true] [^anonymous-inquiry] | ![][false] | ![][false] |
+| Anonymous inquiry or report | ![][true][^anonymous-inquiry] | ![][false] | ![][false] |
 | Tournament format approval requests | ![][false] | ![][true] 10–14 days | ![][false] |
 | Complex issues requiring resolution by the committee | ![][partial] 10–14 days | ![][true] a few days | ![][false] |
 | Tournament reports | ![][false] | ![][true] 10–14 days | ![][false] |
@@ -482,7 +482,7 @@ A registrant who has passed screening but has not been scheduled for any matches
 
 In the unlikely event that a player becomes restricted during the course of the tournament, it may be necessary to replay certain matches where they were involved in order to preserve the competitive integrity of the tournament. Tournament organisers **should** contact the [account support team](/wiki/People/Account_support_team) to receive information and guidance on these (hopefully rare) cases.
 
-### Why can't badges be awarded to recurring monthly (or weekly) tournaments? {id=recurring-contests}
+### Why can badges not be awarded to recurring monthly (or weekly) tournaments? {id=recurring-contests}
 
 Flooding the game with profile badges dilutes the prestige of the prize for everybody else. We do not want profile badges to be something that people 'farm' from a few sets of regular, recurring tournaments.
 
