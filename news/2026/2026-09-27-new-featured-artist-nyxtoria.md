@@ -19,15 +19,15 @@ Totalling **21** tracks, [**Nyxtoria**'s Featured Artist listing](https://osu.pp
 
 ### Nyxtoria - BASSTARD!!!
 
-Usually we'd preview a few different songs and direct you to the artist's page for more, but since there are so many different sounds in this release, we'll instead showcase **Nyxtoria**'s crossfade of their *BASSTARD!!!* album. All of these tracks are part of [the circle's listing](https://osu.ppy.sh/beatmaps/artists/570):
+Usually we'd preview a few different songs and direct you to the artist's page for more, but since there are so many different sounds in this release, we'll instead showcase **Nyxtoria**'s crossfade demo of their *BASSTARD!!!* album. All of these tracks are part of [the circle's listing](https://osu.ppy.sh/beatmaps/artists/570):
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/iJ-USS1XqvY" frameborder="0" allowfullscreen></iframe>
 </div>
 
-### Exsy - Re:drawers feat. Kasane Teto & KAFU
+### Pinku Rimu feat. Nyxtoria - Pink Dreamy
 
-[nik](https://osu.ppy.sh/users/10077264) also placed a few circles for [one of **Nyxtoria**'s VTuber collaboration tracks](https://osu.ppy.sh/beatmapsets/2586784), so you can check that out here too:
+On the polar opposite end of that album, [nik](https://osu.ppy.sh/users/10077264) also placed a few circles for [one of **Nyxtoria**'s VTuber collaboration tracks](https://osu.ppy.sh/beatmapsets/2586784), so you can check that out here too:
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
