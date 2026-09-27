@@ -37,6 +37,10 @@ The osu!taiko World Cup 2026 offered a $2,000 cash prize pool and limited-editio
 
 ![](img/twc2026-badge-1st.png "TWC 2026 winner badge") ![](img/twc2026-badge-2nd.png "TWC 2026 2nd-place badge") ![](img/twc2026-badge-3rd.png "TWC 20266 3rd-place badge")
 
+## Podium
+
+![](img/twc2026-podium.jpg "TWC 2026 podium")
+
 ## Organisation
 
 The osu!taiko World Cup 2026 was run by the [osu! team](/wiki/People/osu!_team) and various community members.
@@ -119,10 +123,6 @@ The osu!taiko World Cup 2026 was run by the [osu! team](/wiki/People/osu!_team) 
 Captains are listed in **bold**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/6b38d4e22d9926c8e0bb24c5a634ac8d).
-
-## Podium
-
-![](img/twc2026-podium.jpg "TWC 2026 podium")
 
 ## Match results
 
