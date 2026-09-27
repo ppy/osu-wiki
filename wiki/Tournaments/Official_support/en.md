@@ -455,20 +455,20 @@ There are three main ways to get in contact with the committee:
 - Submitting a ticket or report through the [Tournament Committee website](https://tcomm.hivie.tn/).
 - Pinging the `@tournament-committee` role in the [osu! Discord](https://discord.com/invite/ppy).
 
-Generally, these are the reasons each method **should** be used alongside expected wait times for a response. Contact methods with the ![false] icon **must not** be used for the corresponding contact reason.
+Generally, these are the reasons each method **should** be used alongside expected wait times for a response. Contact methods with the ![false][] icon **must not** be used for the corresponding contact reason.
 
 | Contact reason | [Email](mailto:tournaments@ppy.sh) | [TC Website](https://tcomm.hivie.tn/) | [Discord](https://discord.com/invite/ppy)[^intervention] |
 | :-- | :-- | :-- | :-- |
-| Official tournament support requests / screening | ![true] 10–14 days | ![false] | ![false] |
-| News post and main-menu banner requests | ![true] 10–14 days | ![false] | ![false] |
-| Conclusion / badge request | ![true] [^badge-request] | ![false] | ![false] |
-| Anonymous inquiry or report | ![true] [^anonymous-inquiry] | ![false] | ![false] |
-| Tournament format approval requests | ![false] | ![true] 10–14 days | ![false] |
-| Complex issues requiring resolution by the committee | ![partial] 10–14 days | ![true] a few days | ![false] |
-| Tournament reports | ![false] | ![true] 10–14 days | ![false] |
-| Quick clarification on beatmap compliance | ![false] | ![true] a few hours | ![true] a few hours |
-| Quick questions about procedures | ![false] | ![true] a few days | ![true] a few hours |
-| Immediate assistance / intervention by the committee | ![false] | ![false] | ![true] a few hours |
+| Official tournament support requests / screening | ![true][] 10–14 days | ![false][] | ![false][] |
+| News post and main-menu banner requests | ![true][] 10–14 days | ![false][] | ![false][] |
+| Conclusion / badge request | ![true][] [^badge-request] | ![false][] | ![false][] |
+| Anonymous inquiry or report | ![true][] [^anonymous-inquiry] | ![false][] | ![false][] |
+| Tournament format approval requests | ![false][] | ![true][] 10–14 days | ![false][] |
+| Complex issues requiring resolution by the committee | ![partial][] 10–14 days | ![true][] a few days | ![false][] |
+| Tournament reports | ![false][] | ![true][] 10–14 days | ![false][] |
+| Quick clarification on beatmap compliance | ![false][] | ![true][] a few hours | ![true][] a few hours |
+| Quick questions about procedures | ![false][] | ![true][] a few days | ![true][] a few hours |
+| Immediate assistance / intervention by the committee | ![false][] | ![false][] | ![true][] a few hours |
 
 Wait times for a resolution vary depending on the complexity and urgency of the inquiry as well as the method of contact. Simple queries are sometimes answered in minutes, while complex topics requiring group consensus can take longer.
 

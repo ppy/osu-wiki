@@ -93,7 +93,7 @@ Hard Rock Showdown 2024 was run by various community members.
 | ::{ flag=US }:: | **29** | **[Flameztear](https://osu.ppy.sh/users/13207763)** |
 | ::{ flag=HU }:: | **30** | **[defii](https://osu.ppy.sh/users/8698024)** |
 | ::{ flag=AR }:: | **31** | **[R1cho](https://osu.ppy.sh/users/13065919)** |
-| ::{ flag=LV}:: | **32** | **[hihihaha142](https://osu.ppy.sh/users/21653406)** |
+| ::{ flag=LV }:: | **32** | **[hihihaha142](https://osu.ppy.sh/users/21653406)** |
 
 ## Podium
 
@@ -476,7 +476,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 | #29 | ::{ flag=US }:: **[Flameztear](https://osu.ppy.sh/users/13207763)** | 4.990 | 482,046 |
 | #30 | ::{ flag=HU }:: **[defii](https://osu.ppy.sh/users/8698024)** | 4.964 | 471,771 |
 | #31 | ::{ flag=AR }:: **[R1cho](https://osu.ppy.sh/users/13065919)** | 4.855 | 473,609 |
-| #32 | ::{ flag=LV}:: **[hihihaha142](https://osu.ppy.sh/users/21653406)** | 4.840 | 468,076 |
+| #32 | ::{ flag=LV }:: **[hihihaha142](https://osu.ppy.sh/users/21653406)** | 4.840 | 468,076 |
 | #33 | ::{ flag=FI }:: [Amasetic](https://osu.ppy.sh/users/11375251) | 4.815 | 467,918 |
 | #34 | ::{ flag=NL }:: [chillington 15](https://osu.ppy.sh/users/6744123) | 4.806 | 451,814 |
 | #35 | ::{ flag=CO }:: [Carlosflow](https://osu.ppy.sh/users/11940767) | 4.728 | 446,859 |
