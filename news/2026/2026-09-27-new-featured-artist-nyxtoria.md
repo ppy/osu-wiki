@@ -9,9 +9,9 @@ Hands up. We have you surrounded (by awesome music).
 
 ![](https://assets.ppy.sh/artists/570/header.jpg)
 
-Technically speaking, **Nyxtoria** is more than just an "artist". Launched in 2022 by *Yutsuri* and *Mihovox*, **Nyxtoria** is an Indonesian doujin music circle without boundaries. Each of their releases involves a variety of different talents, combining experimental genres and styles to create their own fresh takes on music.
+Technically speaking, **Nyxtoria** is more than just an "artist". Launched in 2022 by *Yutsuri* and *Mihovox*, **Nyxtoria** is an Indonesian doujin music circle comprised of a bunch of talented artists. Each of their releases involves a variety of different producers, combining experimental genres and styles to create their own fresh takes on electronic soundscapes.
 
-Ranging from VTuber collaborations with names like *Airi Cordelia*, *Fiona Clearesta* and *Pinku Rimu*, to massive compilation albums like *BASSTARD!!!*, **Nyxtoria** has reached into the deepest corners of the doujin space, and has brought them here to osu!.
+Ranging from VTuber collaborations with names like *Airi Cordelia*, *Fiona Clearesta* and *Pinku Rimu*, to massive compilation albums like *BASSTARD!!!*, **Nyxtoria** has reached into the deepest depths of the doujin space, and has brought them here to osu!.
 
 Totalling **21** tracks, [**Nyxtoria**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/570) has everything you've been looking for in pre-timed `.osz` format.
 
