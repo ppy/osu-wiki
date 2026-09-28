@@ -2,7 +2,7 @@
 
 # Permainan
 
-Halaman indeks untuk berbagai artikel yang berhubungan dengan elemen dan konsep permainan inti.
+Halaman indeks untuk berbagai artikel yang berhubungan dengan elemen-elemen dan konsep-konsep inti permainan.
 
 ## Istilah umum
 
