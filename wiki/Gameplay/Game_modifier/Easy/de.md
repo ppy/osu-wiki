@@ -6,6 +6,8 @@ tags:
   - mod
   - game modifier
   - Spielmodifikation
+outdated_translation: true
+outdated_since: 6f8002d584fe1170d5671e311cafb03daf702f31
 ---
 
 # Easy (Mod)

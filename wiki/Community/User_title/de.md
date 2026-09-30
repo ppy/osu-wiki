@@ -9,6 +9,8 @@ tags:
   - Nutzerfarbe
   - Titel
   - Rang
+outdated_translation: true
+outdated_since: 8b5e6e6710bbbc889616a0820cba3d777b497fa2
 ---
 
 # Nutzertitel

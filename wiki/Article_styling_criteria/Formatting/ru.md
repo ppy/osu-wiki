@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: c4f2e9fad13f8f3d44f481a18b5ede0c4ea3ccb7
+---
+
 # Оформление статей
 
 ::: alert-note

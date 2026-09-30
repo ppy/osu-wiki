@@ -12,7 +12,7 @@ tags:
 
 #### No Scope
 
-![No Scope mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/NS.png)
+![No Scope mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/NS.png?1)
 
 *![][osu!]: Where's the cursor?*\
 *![][osu!catch]: Where's the catcher?*

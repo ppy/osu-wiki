@@ -11,7 +11,7 @@ tags:
 
 #### Muted
 
-![Muted mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/MU.png)
+![Muted mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/MU.png?1)
 
 *Can you still feel the rhythm without music?*
 

@@ -1,4 +1,4 @@
-# 2023
+# History of osu! 2023
 
 ## January
 

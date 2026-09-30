@@ -12,7 +12,7 @@ tags:
 
 #### Dual Stages
 
-![Dual Stages mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/DS.png)
+![Dual Stages mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/DS.png?1)
 
 *Double the stages, double the fun!*
 
@@ -28,7 +28,7 @@ tags:
 :::
 
 ::: alert-note
-**Note:** For the osu!stable version of this article, see [Co-op (mod)](/wiki/Gameplay/Game_modifier/Co-op)
+**Note:** For the osu!(stable) version of this article, see [Co-op (mod)](/wiki/Gameplay/Game_modifier/Co-op)
 :::
 
 ::: alert-note

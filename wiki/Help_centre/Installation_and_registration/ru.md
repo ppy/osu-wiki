@@ -17,13 +17,17 @@ tags:
 
 # Установка и регистрация
 
-*Основная страница: [Центр помощи](/wiki/Help_centre)*
+::: alert-note
+**Основная статья:** [Центр помощи](/wiki/Help_centre)
+:::
 
 Этот раздел посвящён установке osu! и регистрации аккаунта.
 
 ## Установка {id=installation}
 
-*Основная статья: [Установка](/wiki/Client/Installation)*
+::: alert-note
+**Основная статья:** [Установка](/wiki/Client/Installation)
+:::
 
 ### Как установить osu!? {id=download}
 
@@ -33,7 +37,9 @@ tags:
 
 ## Регистрация {id=registration}
 
-*Основная статья: [Регистрация](/wiki/Registration)*
+::: alert-note
+**Основная статья:** [Регистрация](/wiki/Registration)
+:::
 
 ### Как мне зарегистрироваться в osu?! {id=how-to-register}
 

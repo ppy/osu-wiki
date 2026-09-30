@@ -12,7 +12,7 @@ tags:
 
 #### Spin In
 
-![Spin In 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SI.png)
+![Spin In 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SI.png?1)
 
 *圆圈旋转进入。没有缩圈。*
 

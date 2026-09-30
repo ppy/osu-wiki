@@ -16,7 +16,10 @@ También puedes considerar la posibilidad de ponerte en contacto con el equipo p
 
 ## Audio
 
-*Aviso: La publicación o retransmisión del juego en otros sitios puede estar sujeta a diferentes requisitos de licencia que deben negociarse o entenderse. Por favor, actúa con la debida diligencia cuando transmitas tus partidas a una audiencia.*
+::: alert-notice
+**Aviso**
+La publicación o retransmisión del juego en otros sitios puede estar sujeta a diferentes requisitos de licencia que deben negociarse o entenderse. Por favor, actúa con la debida diligencia cuando transmitas tus partidas a una audiencia.
+:::
 
 osu! brinda una librería de canciones licenciadas a los mappers a través del programa de [Artista Destacado](/wiki/People/Featured_Artists). Cada canción en [la lista](https://osu.ppy.sh/beatmaps/artists) se puede usar libremente en osu! y no está sujeta a riesgo de eliminación.
 

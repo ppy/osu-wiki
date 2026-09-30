@@ -13,7 +13,7 @@ tags:
 
 #### Single Tap
 
-![Single Tap 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SG.png)
+![Single Tap 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SG.png?1)
 
 *![][osu!]: 只能用一个键！*\
 *![][osu!taiko]: 一个键打咚，一个键打咔。*

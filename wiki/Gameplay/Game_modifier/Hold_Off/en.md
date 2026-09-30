@@ -12,7 +12,7 @@ tags:
 
 #### Hold Off
 
-![Hold Off mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/HO.png)
+![Hold Off mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/HO.png?1)
 
 *Replaces all hold notes with normal notes.*
 
@@ -31,7 +31,7 @@ tags:
 **Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-The **Hold Off** mod removes all [hold notes](/wiki/Beatmap/Pattern/osu!mania/Hold_note) from a [beatmap](/wiki/Beatmap) and replaces their heads with regular notes.
+The **Hold Off** mod removes all [hold notes](/wiki/Gameplay/Hit_object/Hold_note) from a [beatmap](/wiki/Beatmap) and replaces their heads with regular notes.
 
 **This mod cannot be customised.**
 

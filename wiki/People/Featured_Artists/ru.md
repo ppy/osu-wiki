@@ -42,7 +42,7 @@ tags:
 
 Во всех соревнованиях по маппингу, указанных на [странице конкурсов сообщества](https://osu.ppy.sh/community/contests), — например, [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) и [Mapping Olympiad](/wiki/Contests/Mapping_Olympiad), — фигурируют только песни из программы Featured Artists. Это же требование есть и в некоторых неофициальных конкурсах.
 
-Для популяризации программы Featured Artists был создан проект [Mappers' Guild](/wiki/Community/Mappers_Guild), где мапперы могут совместно поучаствовать в прохождении квестов в стиле MMORPG. За публикацию и ранкинг карт полагаются призы (включая три уровня значков для профиля). Вступить в Mappers' Guild можно на [сайте проекта](https://mappersguild.com/). Начиная с [апреля 2023 г.](https://osu.ppy.sh/home/news/2023-04-09-new-featured-artist-chon), всё, что относится к Featured Artists, можно обсудить в канале `#featured-artists` [дискорд-сервера osu!](/wiki/Community/Discord_servers#официальный-сервер).
+Для популяризации программы Featured Artists был создан проект [Mappers' Guild](/wiki/Community/Mappers_Guild), где мапперы могут совместно поучаствовать в прохождении квестов в стиле MMORPG. За публикацию и ранкинг карт полагаются призы (включая три уровня [значков для профиля](/wiki/Community/Profile_badge)). Вступить в Mappers' Guild можно на [сайте проекта](https://mappersguild.com/). Начиная с [апреля 2023 г.](https://osu.ppy.sh/home/news/2023-04-09-new-featured-artist-chon), всё, что относится к Featured Artists, можно обсудить в канале `#featured-artists` [дискорд-сервера osu!](/wiki/Community/Discord_servers#официальный-сервер).
 
 Если вы обнаружили какие-то ошибки в затаймленных файлах `.osz` из базы Featured Artists, пожалуйста, сообщите о них в [специальном треде](https://osu.ppy.sh/community/forums/topics/783985).
 
@@ -72,6 +72,7 @@ tags:
 | ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) | [BilliumMoto](https://osu.ppy.sh/beatmaps/artists/38) |
 | ::{ flag=BR }:: [BrayanKitsn](https://osu.ppy.sh/users/34744443) | [BrayanKitsn](https://osu.ppy.sh/beatmaps/artists/506) |
 | ::{ flag=KR }:: [Cinamoro](https://osu.ppy.sh/users/18214510) | [Cinamoro](https://osu.ppy.sh/beatmaps/artists/341) |
+| ::{ flag=DE }:: [countingstars](https://osu.ppy.sh/users/7792315) | [Inconsequentialist](https://osu.ppy.sh/beatmaps/artists/566) |
 | ::{ flag=AT }:: [creosu](https://osu.ppy.sh/users/13958834) | [Creo](https://osu.ppy.sh/beatmaps/artists/36) |
 | ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | [cYsmix](https://osu.ppy.sh/beatmaps/artists/2) |
 | ::{ flag=US }:: [dandeless](https://osu.ppy.sh/users/6111413) | [dandeless](https://osu.ppy.sh/beatmaps/artists/544) |

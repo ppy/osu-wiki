@@ -12,7 +12,7 @@ tags:
 
 #### Moving Fast
 
-![Moving Fast 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/MF.png)
+![Moving Fast 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/MF.png?1)
 
 *一直冲也要慢一点！*
 

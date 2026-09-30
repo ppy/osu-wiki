@@ -12,7 +12,7 @@ tags:
 
 #### Constant Speed
 
-![Constant Speed mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/CS.png)
+![Constant Speed mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/CS.png?1)
 
 *No more tricky speed changes!*
 

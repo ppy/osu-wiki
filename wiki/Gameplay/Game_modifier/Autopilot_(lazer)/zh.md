@@ -13,7 +13,7 @@ tags:
 
 #### Autopilot
 
-![Autopilot 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AP.png)
+![Autopilot 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AP.png?1)
 
 *光标会自动移动，跟着节奏点就好。*
 
@@ -30,7 +30,7 @@ tags:
 :::
 
 ::: alert-note
-**注:** 对于该文章的 osu!stable 版本，请见：[Autopilot（模组）](/wiki/Gameplay/Game_modifier/Autopilot)
+**注:** 对于该文章的 osu!(stable) 版本，请见：[Autopilot（模组）](/wiki/Gameplay/Game_modifier/Autopilot)
 :::
 
 ::: alert-note

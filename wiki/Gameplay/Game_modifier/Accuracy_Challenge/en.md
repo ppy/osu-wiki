@@ -13,7 +13,7 @@ tags:
 
 #### Accuracy Challenge
 
-![Accuracy Challenge mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AC.png)
+![Accuracy Challenge mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AC.png?1)
 
 *Fail if your accuracy drops too low!*
 

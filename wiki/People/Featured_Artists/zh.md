@@ -43,7 +43,7 @@ tags:
 
 所有公开发布的[作图竞赛](https://osu.ppy.sh/community/contests)，比如[月度作图竞赛 (MBC)](/wiki/Contests/Monthly_Beatmapping_Contest)、[奥林谱克 (Mapping Olympiad)](/wiki/Contests/Mapping_Olympiad)，都会要求参赛者使用精选艺术家的歌曲来作图。有些社区自发的竞赛也会使用这一规定。
 
-为了鼓励使用精选艺术家提供的内容来作图，社区成立了谱师公会 (Mappers' Guild)，向谱师们提供了一个可以与其他谱师一起参与的 MMO 风格的任务体系。制作并上架谱面可以获得奖励，包括分为三个等级的个人主页徽章<!--计划：个人资料勋章-->。想加入公会的谱师可以访问[谱师公会网站](https://mappersguild.com/)。从 [2023 年 4 月](https://osu.ppy.sh/home/news/2023-04-09-new-featured-artist-chon)起，谱师们还可以在 [osu! Discord 服务器](/wiki/Community/Discord_servers#official) 的 `#featured-artists` 频道讨论所有与精选艺术家谱面制作有关的话题。
+为了鼓励使用精选艺术家提供的内容来作图，社区成立了谱师公会 (Mappers' Guild)，向谱师们提供了一个可以与其他谱师一起参与的 MMO 风格的任务体系。制作并上架谱面可以获得奖励，包括分为三个等级的[个人主页徽章](/wiki/Community/Profile_badge)。想加入公会的谱师可以访问[谱师公会网站](https://mappersguild.com/)。从 [2023 年 4 月](https://osu.ppy.sh/home/news/2023-04-09-new-featured-artist-chon)起，谱师们还可以在 [osu! Discord 服务器](/wiki/Community/Discord_servers#official) 的 `#featured-artists` 频道讨论所有与精选艺术家谱面制作有关的话题。
 
 如果精选艺术家里提供的 `.osz` 文件有任何问题，可以在[这个论坛帖](https://osu.ppy.sh/community/forums/topics/783985)中提交反馈。
 
@@ -73,6 +73,7 @@ tags:
 | ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) | [BilliumMoto](https://osu.ppy.sh/beatmaps/artists/38) |
 | ::{ flag=BR }:: [BrayanKitsn](https://osu.ppy.sh/users/34744443) | [BrayanKitsn](https://osu.ppy.sh/beatmaps/artists/506) |
 | ::{ flag=KR }:: [Cinamoro](https://osu.ppy.sh/users/18214510) | [Cinamoro](https://osu.ppy.sh/beatmaps/artists/341) |
+| ::{ flag=DE }:: [countingstars](https://osu.ppy.sh/users/7792315) | [Inconsequentialist](https://osu.ppy.sh/beatmaps/artists/566) |
 | ::{ flag=AT }:: [creosu](https://osu.ppy.sh/users/13958834) | [Creo](https://osu.ppy.sh/beatmaps/artists/36) |
 | ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | [cYsmix](https://osu.ppy.sh/beatmaps/artists/2) |
 | ::{ flag=US }:: [dandeless](https://osu.ppy.sh/users/6111413) | [dandeless](https://osu.ppy.sh/beatmaps/artists/544) |

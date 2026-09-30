@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 5fe4d3c2895e176f6f46995790db6b1435a3c599
+---
+
 # macOS için kurulum
 
 Bu sayfa size macOS cihazınızda osu!'yu nasıl kuracağınız hakkında size rehberlik edecektir.
