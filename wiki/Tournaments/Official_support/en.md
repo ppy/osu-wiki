@@ -339,7 +339,11 @@ Designers **should** make use of the template image (shown below) and the [asset
 
 Below are examples of previously approved main-menu banners:
 
+[cavoe's osu! event's Global Taiko Showdown 2025](https://osu.ppy.sh/community/forums/topics/2098556?n=1):
+
 [![cavoe's osu! event's Global Taiko Showdown 2025 menu banner](img/coegts-menubanner.png)](https://osu.ppy.sh/community/forums/topics/2098556?n=1)
+
+[4 Digit World Cup 2024](/wiki/Tournaments/4WC/2024):
 
 [![4 Digit World Cup 2024 menu banner](img/4wc24-menubanner.png)](/wiki/Tournaments/4WC/2024)
 
