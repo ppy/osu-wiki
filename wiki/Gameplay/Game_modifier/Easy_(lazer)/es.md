@@ -14,7 +14,7 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 
 #### Easy
 
-![Icono del mod Easy](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/EZ.png)
+![Icono del mod Easy](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/EZ.png?1)
 
 *![][osu!]: Círculos más grandes, menor drenaje de HP, menor precisión requerida, ¡y vidas extra!*\
 *![][osu!taiko]: ¡Las notas se moverán más despacio y la precisión requerida será menor!*\

@@ -12,7 +12,7 @@ tags:
 
 #### Relax
 
-![Relax mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/RX.png)
+![Relax mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/RX.png?1)
 
 *![][osu!]: You don't need to click. Give your clicking/tapping fingers a break from the heat of things.*\
 *![][osu!taiko]: No need to remember which key is correct anymore!*\

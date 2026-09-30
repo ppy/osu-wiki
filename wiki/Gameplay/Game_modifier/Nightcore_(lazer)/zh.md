@@ -14,7 +14,7 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 
 #### Nightcore
 
-![Nightcore 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/NC.png)
+![Nightcore 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/NC.png?1)
 
 *洞次打次洞次打次...*
 

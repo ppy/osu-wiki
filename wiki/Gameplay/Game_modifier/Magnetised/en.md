@@ -12,7 +12,7 @@ tags:
 
 #### Magnetised
 
-![Magnetised mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/MG.png)
+![Magnetised mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/MG.png?1)
 
 *No need to chase the circles — your cursor is a magnet!*
 

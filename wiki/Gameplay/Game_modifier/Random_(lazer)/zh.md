@@ -12,7 +12,7 @@ tags:
 
 #### Random
 
-![Random 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/RD.png)
+![Random 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/RD.png?1)
 
 *![][osu!]: 从不会无聊！*\
 *![][osu!taiko]: 随机排布物件颜色！*\
@@ -44,9 +44,9 @@ tags:
 
 在 osu! 模式中，Random 模组会随机放置所有[打击圈](/wiki/Gameplay/Hit_object/Hit_circle)与[滑条](/wiki/Gameplay/Hit_object/Slider)，但相邻物件间的间距总会保持不变。
 
-在 osu!taiko 模式中，Random 模组会为所有音符随机分配一种颜色（[红色或蓝色](/wiki/Gameplay/Hit_object/Hit)）。[长条](/wiki/Gameplay/Hit_object/Drumroll)与[转盘](/wiki/Gameplay/Hit_object/Swell)不受该模组影响。
+在 osu!taiko 模式中，Random 模组会为所有[音符](/wiki/Gameplay/Hit_object/Hit)随机分配一种颜色（红色或蓝色）。[长条](/wiki/Gameplay/Hit_object/Drumroll)与[转盘](/wiki/Gameplay/Hit_object/Swell)不受该模组影响。
 
-在 osu!mania 模式中，Random 模组会将所有单点音符与[长条](/wiki/Beatmap/Pattern/osu!mania/Hold_note)按列打乱重排。
+在 osu!mania 模式中，Random 模组会将所有[单点音符](/wiki/Gameplay/Hit_object/Note)与[长条](/wiki/Gameplay/Hit_object/Hold_note)按列打乱重排。
 
 ## 自定义
 

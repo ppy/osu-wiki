@@ -12,7 +12,7 @@ tags:
 
 #### Strict Tracking
 
-![Icono del mod Strict Tracking](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/ST.png)
+![Icono del mod Strict Tracking](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/ST.png?1)
 
 *Una vez que inicies un slider, síguelo con precisión o fallarás.*
 

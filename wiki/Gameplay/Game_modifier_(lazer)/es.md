@@ -117,7 +117,7 @@ Junto a cada uno de los mods que se enumeran a continuación aparecen los iconos
 
 ### Preajustes personales
 
-Los **preajustes personales** se encuentran en una categoría independiente (a la izquierda de **Reducción de dificultad**) y permiten a los jugadores guardar cualquier combinación de mods directamente en ella. A cada preajuste personal hay que asignarle un nombre y, si se desea, una descripción. Cada modo de juego tiene una lista independiente de preajustes personales.
+Los **preajustes personales** se encuentran en una categoría independiente (a la izquierda de `Reducción de dificultad`) y permiten a los jugadores guardar cualquier combinación de mods directamente en ella. A cada preajuste personal hay que asignarle un nombre y, si se desea, una descripción. Cada modo de juego tiene una lista independiente de preajustes personales.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

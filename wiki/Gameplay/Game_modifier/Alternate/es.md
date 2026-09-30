@@ -12,7 +12,7 @@ tags:
 
 #### Alternate
 
-![Icono del mod Alternate](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AL.png)
+![Icono del mod Alternate](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AL.png?1)
 
 *¡No uses la misma tecla dos veces seguidas!*
 

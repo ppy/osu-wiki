@@ -12,7 +12,7 @@ tags:
 
 #### Transform
 
-![Icono del mod Transform](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/TR.png)
+![Icono del mod Transform](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/TR.png?1)
 
 *Todo se mueve. TODO.*
 

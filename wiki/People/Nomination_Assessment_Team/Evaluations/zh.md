@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 90ad638e22909345d5081bc148e3ad86452ec412
+---
+
 # 谱面审核成员评估
 
 *另请参阅：[成为 BN § 申请流程](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator#bn-申请流程)*

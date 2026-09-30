@@ -12,7 +12,7 @@ tags:
 
 #### Swap
 
-![Icono del mod Swap](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SW.png)
+![Icono del mod Swap](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SW.png?1)
 
 *Los dons se convierten en kats, los kats se convierten en dons*
 

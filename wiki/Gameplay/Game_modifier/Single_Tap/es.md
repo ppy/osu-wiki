@@ -13,7 +13,7 @@ tags:
 
 #### Single Tap
 
-![Icono del mod Single Tap](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SG.png)
+![Icono del mod Single Tap](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SG.png?1)
 
 *![][osu!]: ¡Solo debes usar una tecla!*\
 *![][osu!taiko]: Una tecla para los dons, una tecla para los kats.*

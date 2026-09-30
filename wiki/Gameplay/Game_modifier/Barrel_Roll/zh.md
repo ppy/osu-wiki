@@ -12,7 +12,7 @@ tags:
 
 #### Barrel Roll
 
-![Barrel Roll 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/BR.png)
+![Barrel Roll 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/BR.png?1)
 
 *整个游玩区域都转起来了！*
 

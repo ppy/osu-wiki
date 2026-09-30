@@ -42,7 +42,7 @@ Les beatmappeurs sont encouragés à créer des maps pour les musiques des Featu
 
 Tous les concours de mapping publiés sur la [liste des concours communautaires](https://osu.ppy.sh/community/contests), tels que le [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) et les [Mapping Olympiad](/wiki/Contests/Mapping_Olympiad), requièrent des participants qu'ils mappent les musiques des Featured Artist. Certains concours organisés par la communauté utilisent également ces musiques.
 
-Pour promouvoir le mapping du contenu Featured Artist, les membres de la communauté ont créé la [Mappers' Guild](/wiki/Community/Mappers_Guild), offrant aux mappeurs un système de quêtes de type MMO auquel ils peuvent participer avec d'autres mappeurs. Des prix sont attribués pour la création et le classement des beatmaps, notamment trois niveaux de badges de profil. Les mappeurs peuvent rejoindre la guilde en visitant le [site Web de la Mappers' Guild](https://mappersguild.com/). À partir [d'avril 2023](https://osu.ppy.sh/home/news/2023-04-09-new-featured-artist-chon), les mappeurs peuvent également discuter de tout ce qui concerne la création de beatmaps d'artistes vedettes sur le canal `#featured-artists` du [serveur Discord d'osu!](/wiki/Community/Discord_servers#officielle).
+Pour promouvoir le mapping du contenu Featured Artist, les membres de la communauté ont créé la [Mappers' Guild](/wiki/Community/Mappers_Guild), offrant aux mappeurs un système de quêtes de type MMO auquel ils peuvent participer avec d'autres mappeurs. Des prix sont attribués pour la création et le classement des beatmaps, notamment trois niveaux de [badges de profil](/wiki/Community/Profile_badge). Les mappeurs peuvent rejoindre la guilde en visitant le [site Web de la Mappers' Guild](https://mappersguild.com/). À partir [d'avril 2023](https://osu.ppy.sh/home/news/2023-04-09-new-featured-artist-chon), les mappeurs peuvent également discuter de tout ce qui concerne la création de beatmaps d'artistes vedettes sur le canal `#featured-artists` du [serveur Discord d'osu!](/wiki/Community/Discord_servers#officielle).
 
 Si un `.osz` préprogrammé provenant de la liste des Featured Artist comporte des erreurs de quelque nature que ce soit, celles-ci peuvent être signalées sur [ce post de discussion du forum](https://osu.ppy.sh/community/forums/topics/783985).
 
@@ -72,6 +72,7 @@ La [page du groupe des Featured Artist](https://osu.ppy.sh/groups/35) répertori
 | ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) | [BilliumMoto](https://osu.ppy.sh/beatmaps/artists/38) |
 | ::{ flag=BR }:: [BrayanKitsn](https://osu.ppy.sh/users/34744443) | [BrayanKitsn](https://osu.ppy.sh/beatmaps/artists/506) |
 | ::{ flag=KR }:: [Cinamoro](https://osu.ppy.sh/users/18214510) | [Cinamoro](https://osu.ppy.sh/beatmaps/artists/341) |
+| ::{ flag=DE }:: [countingstars](https://osu.ppy.sh/users/7792315) | [Inconsequentialist](https://osu.ppy.sh/beatmaps/artists/566) |
 | ::{ flag=AT }:: [creosu](https://osu.ppy.sh/users/13958834) | [Creo](https://osu.ppy.sh/beatmaps/artists/36) |
 | ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | [cYsmix](https://osu.ppy.sh/beatmaps/artists/2) |
 | ::{ flag=US }:: [dandeless](https://osu.ppy.sh/users/6111413) | [dandeless](https://osu.ppy.sh/beatmaps/artists/544) |

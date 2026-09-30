@@ -12,7 +12,7 @@ tags:
 
 #### Hidden
 
-![Hidden mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/HD.png)
+![Hidden mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/HD.png?1)
 
 *![][osu!] Play with no approach circles and fading circles/sliders.*\
 *![][osu!taiko] Beats fade out before you hit them!*\

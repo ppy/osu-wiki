@@ -12,7 +12,7 @@ tags:
 
 #### Hold Off
 
-![Hold Off 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/HO.png)
+![Hold Off 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/HO.png?1)
 
 *把面条都换成单点音符。*
 
@@ -31,7 +31,7 @@ tags:
 **注:** 对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-**Hold Off** 模组会移除[谱面](/wiki/Beatmap)中的所有[长条](/wiki/Beatmap/Pattern/osu!mania/Hold_note)，将长条的头部替换成常规的单点音符。
+**Hold Off** 模组会移除[谱面](/wiki/Beatmap)中的所有[长条](/wiki/Gameplay/Hit_object/Hold_note)，将长条的头部替换成常规的单点音符。
 
 **该模组不支持自定义。**
 

@@ -28,7 +28,7 @@ tags:
 
 #### 1K, 2K, 3K, 4K, 5K, 6K, 7K, 8K, 9K, 10K
 
-![Icono del mod 7K](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/7K.png)
+![Icono del mod 7K](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/7K.png?1)
 
 *Juega con el \[número de teclas\] que quieras.*
 

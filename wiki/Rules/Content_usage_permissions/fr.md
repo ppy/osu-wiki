@@ -22,7 +22,10 @@ N'hésitez pas à contacter l'équipe pour négocier des licences. Voir la page 
 
 ## Audio
 
-*Remarque : L'affichage ou la diffusion de jeux sur d'autres sites peut potentiellement être soumis à des exigences différentes en matière de licence qui doivent être négociées ou comprises. Veuillez faire preuve de diligence raisonnable lorsque vous diffusez du gameplay à un public.*
+::: alert-notice
+**Note**
+L'affichage ou la diffusion de jeux sur d'autres sites peut potentiellement être soumis à des exigences différentes en matière de licence qui doivent être négociées ou comprises. Veuillez faire preuve de diligence raisonnable lorsque vous diffusez du gameplay à un public.
+:::
 
 osu! fournit aux mappeurs une bibliothèque de musiques sous licence via le programme [Featured Artist](/wiki/People/Featured_Artists). Chaque musique figurant sur [cette liste](https://osu.ppy.sh/beatmaps/artists) peut être utilisée librement dans osu! et ne risque pas d'être supprimée.
 

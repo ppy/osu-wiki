@@ -43,6 +43,7 @@ The tournament and prize pool was sponsored by both the organisation and communi
 - ::{ flag=NL }:: [Katie Djeestar](https://osu.ppy.sh/users/641155): €150
 - ::{ flag=NL }:: [wie ben jij](https://osu.ppy.sh/users/16322001): €100
 - ::{ flag=NL }:: [Astraea](https://osu.ppy.sh/users/17526061): €90
+- ::{ flag=NL }:: [Fubu](https://osu.ppy.sh/users/12719649): €90
 
 ![](img/badge.png "NDC 2025 winner badge")
 
