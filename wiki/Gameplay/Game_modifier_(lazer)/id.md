@@ -6,20 +6,21 @@ tags:
   - lazer
   - overview
   - list of mods
-  - daftar mod
-  - kustomisasi
   - personal presets
   - customise
+  - daftar mod
+  - kustomisasi
+  - preset pribadi
 ---
 
 # Modifikator permainan (lazer)
 
 ::: alert-note
-**Note:** Untuk versi osu!(stable) dari artikel ini, lihat [Modifikator permainan](/wiki/Gameplay/Game_modifier)
+**Catatan:** Untuk versi osu!(stable) dari artikel ini, lihat [Modifikator permainan](/wiki/Gameplay/Game_modifier)
 :::
 
 ::: alert-note
-**Note:** Untuk penggunaan lainnya dari istilah "mod", lihat [Mod (disambiguasi)](/wiki/Disambiguation/Mod)
+**Catatan:** Untuk penggunaan lainnya dari istilah "mod", lihat [Mod (disambiguasi)](/wiki/Disambiguation/Mod)
 :::
 
 ![](img/mod-select-ID.jpg "Layar pemilihan mod untuk mode permainan osu!")
@@ -29,7 +30,7 @@ tags:
 ## Pengali skor mod
 
 ::: alert-note
-**Halaman Utama:** [Pengali skor mod (lazer)](/wiki/Gameplay/Game_modifier/Mod_multiplier_(lazer))
+**Halaman utama:** [Pengali skor mod (lazer)](/wiki/Gameplay/Game_modifier/Mod_multiplier_(lazer))
 :::
 
 Mod-mod tertentu bisa mengurangi atau meningkatkan nilai pengali skor yang aktif. Pada saat dua atau lebih mod digunakan secara bersamaan, pengali skor dari masing-masing mod akan saling dikalikan satu sama lain (sebagai contoh, `1.04x * 1.09x = 1.1336x`). Meskipun demikian, terdapat beberapa pengecualian untuk hal ini sebagaimana yang bisa dilihat pada halaman artikel masing-masing mod.
@@ -118,7 +119,7 @@ Ikon-ikon berikut (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) menun
 
 ### Preset Pribadi
 
-Pilihan **Preset Pribadi** terletak di kategori yang terpisah (di sebelah kiri **Pengurang Kesulitan**), yang memungkinkan pemain untuk menyimpan kombinasi mod apa pun di dalamnya. Setiap preset pribadi dilengkapi dengan kolom nama yang harus diisi dan kolom deskripsi yang bersifat opsional. Masing-masing mode permainan memiliki daftar preset pribadinya tersendiri.
+Pilihan **Preset Pribadi** terletak di kategori yang terpisah (di sebelah kiri `Pengurang Kesulitan`), yang memungkinkan pemain untuk menyimpan kombinasi mod apa pun di dalamnya. Setiap preset pribadi dilengkapi dengan kolom nama yang harus diisi dan kolom deskripsi yang bersifat opsional. Masing-masing mode permainan memiliki daftar preset pribadinya tersendiri.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
