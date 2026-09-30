@@ -12,31 +12,31 @@ tags:
   - customise
 ---
 
-# Game modifier (lazer)
+# Modifikator permainan (lazer)
 
 ::: alert-note
-**Note:** Untuk versi osu!(stable) dari artikel ini, lihat [Game modifier](/wiki/Gameplay/Game_modifier)
+**Note:** Untuk versi osu!(stable) dari artikel ini, lihat [Modifikator permainan](/wiki/Gameplay/Game_modifier)
 :::
 
 ::: alert-note
-**Note:** Untuk penggunaan lain istilah "mod", lihat [Mod (disambiguasi)](/wiki/Disambiguation/Mod)
+**Note:** Untuk penggunaan lainnya dari istilah "mod", lihat [Mod (disambiguasi)](/wiki/Disambiguation/Mod)
 :::
 
 ![](img/mod-select-ID.jpg "Layar pemilihan mod untuk mode permainan osu!")
 
-**Game modifiers**, atau **mod**, dibagi menjadi enam kategori utama: `Pengurang Kesulitan`, `Peningkat Kesulitan`, `Otomatisasi`, `Konversi`, `Hiburan` dan `Sistem`. Mod-mod ini dapat memiliki berbagai macam efek terhadap permainan, seperti penyesuaian visual terhadap [hit objek](/wiki/Gameplay/Hit_object) di suatu [beatmap](/wiki/Beatmap) atau mengubah kecepatan map yang dimainkan. Mod-mod dari kategori `Sistem` akan diterapkan secara otomatis saat dibutuhkan.
+**Modifikator permainan**, atau **mod**, terbagi ke dalam enam kategori utama: `Pengurang Kesulitan`, `Peningkat Kesulitan`, `Otomasi`, `Konversi`, `Hiburan` dan `Sistem`. Mod-mod ini memiliki berbagai macam efek terhadap permainan, seperti menyesuaikan tampilan [objek permainan](/wiki/Gameplay/Hit_object) di suatu [beatmap](/wiki/Beatmap) atau mengubah kecepatan map yang dimainkan. Mod dari kategori `Sistem` akan dipasang secara otomatis saat dibutuhkan.
 
 ## Pengali skor mod
 
 ::: alert-note
-**Halaman Utama:** [Pengali skor (lazer)](/wiki/Gameplay/Game_modifier/Mod_multiplier_(lazer))
+**Halaman Utama:** [Pengali skor mod (lazer)](/wiki/Gameplay/Game_modifier/Mod_multiplier_(lazer))
 :::
 
-Beberapa mod dapat mengurangi atau meningkatkan nilai pengali skor. Saat dua atau lebih mod digunakan secara bersamaan, pengali skor masing-masing mod akan dikalikan bersama (misalnya `1.04x * 1.09x = 1.1336x`). Ada beberapa pengecualian, yang mana sudah dijelaskan di dalam artikel mod-mod yang bersangkutan.
+Mod-mod tertentu bisa mengurangi atau meningkatkan nilai pengali skor yang aktif. Pada saat dua atau lebih mod digunakan secara bersamaan, pengali skor dari masing-masing mod akan saling dikalikan satu sama lain (sebagai contoh, `1.04x * 1.09x = 1.1336x`). Meskipun demikian, terdapat beberapa pengecualian untuk hal ini sebagaimana yang bisa dilihat pada halaman artikel masing-masing mod.
 
-## Daftar Mod
+## Daftar mod
 
-Ikon-ikon mode permainan berikut (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) menunjukkan [mode permainan](/wiki/Game_mode) apa saja mod-mod berikut ini dapat digunakan.
+Ikon-ikon berikut (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) menunjukkan pada [mode permainan](/wiki/Game_mode) mana saja mod-mod berikut ini bisa digunakan.
 
 ### Pengurang Kesulitan
 
@@ -63,7 +63,7 @@ Ikon-ikon mode permainan berikut (![][osu!] ![][osu!taiko] ![][osu!catch] ![][os
 - [Strict Tracking (ST)](/wiki/Gameplay/Game_modifier/Strict_Tracking) ![][osu!]
 - [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
-### Otomatisasi
+### Otomasi
 
 - [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
@@ -116,9 +116,9 @@ Ikon-ikon mode permainan berikut (![][osu!] ![][osu!taiko] ![][osu!catch] ![][os
 - [Touch Device (TD)](/wiki/Gameplay/Game_modifier/Touch_Device_(lazer)) ![][osu!]
 - [Score V2 (SV2)](/wiki/Gameplay/Game_modifier/Score_V2_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
-### Preset Personal
+### Preset Pribadi
 
-Kategori **Preset Personal** terletak di kategori terpisah (di sebelah kiri **Pengurang Kesulitan**) yang memungkinkan pemain menyimpan kombinasi mod apa pun ke dalamnya. Setiap preset personal harus diberi nama, sedangkan untuk pemberian deskripsi bersifat opsional. Setiap mode permainan memiliki daftar preset personal masing-masing.
+Pilihan **Preset Pribadi** terletak di kategori yang terpisah (di sebelah kiri **Pengurang Kesulitan**), yang memungkinkan pemain untuk menyimpan kombinasi mod apa pun di dalamnya. Setiap preset pribadi dilengkapi dengan kolom nama yang harus diisi dan kolom deskripsi yang bersifat opsional. Masing-masing mode permainan memiliki daftar preset pribadinya tersendiri.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
