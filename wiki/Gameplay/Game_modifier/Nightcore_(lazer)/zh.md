@@ -2,6 +2,8 @@
 stub: true
 tags:
   - NC
+outdated_translation: true
+outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 ---
 
 # Nightcore（lazer 模组）
@@ -12,7 +14,7 @@ tags:
 
 #### Nightcore
 
-![Nightcore 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/NC.png)
+![Nightcore 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/NC.png?1)
 
 *洞次打次洞次打次...*
 

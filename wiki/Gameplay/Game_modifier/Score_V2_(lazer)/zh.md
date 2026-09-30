@@ -12,7 +12,7 @@ tags:
 
 #### Score V2
 
-![Score V2 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SV2.png)
+![Score V2 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SV2.png?1)
 
 *在早期版本使用 V2 计分算法获得的成绩。*
 
@@ -28,7 +28,7 @@ tags:
 :::
 
 ::: alert-note
-**注:** 对于该文章的 osu!stable 版本，请见 [ScoreV2 (模组)](/wiki/Gameplay/Game_modifier/ScoreV2)
+**注:** 对于该文章的 osu!(stable) 版本，请见 [ScoreV2 (模组)](/wiki/Gameplay/Game_modifier/ScoreV2)
 :::
 
 ::: alert-note

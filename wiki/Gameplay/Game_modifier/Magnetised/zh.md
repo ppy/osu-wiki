@@ -2,6 +2,8 @@
 stub: true
 tags:
   - MG
+outdated_translation: true
+outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 ---
 
 # Magnetised（模组）
@@ -12,7 +14,7 @@ tags:
 
 #### Magnetised
 
-![Magnetised 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/MG.png)
+![Magnetised 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/MG.png?1)
 
 *不必追着圈跑了——你的光标就是磁铁！*
 

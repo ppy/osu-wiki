@@ -12,7 +12,7 @@ tags:
 
 #### Cover
 
-![Cover mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/CO.png)
+![Cover mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/CO.png?1)
 
 *Decrease the playfield's viewing area.*
 

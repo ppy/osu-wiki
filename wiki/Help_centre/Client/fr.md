@@ -28,7 +28,9 @@ outdated_since: 93ee94cafcbd971726f274c065dcf20c3587b5ad
 
 # Client
 
-*Page principale : [Centre d'aide](/wiki/Help_centre)*
+::: alert-note
+**Page principale** : [Centre d'aide](/wiki/Help_centre)
+:::
 
 Vous avez des problèmes avec le client de jeu ? Découvrez si votre problème figure parmi les problèmes les plus courants rencontrés par nos utilisateurs.
 
@@ -149,7 +151,10 @@ Pour forcer la recréation de votre base de données des beatmaps en toute sécu
 7. Renommez-le comme bon vous semble. Ce n'est pas important, tant que vous le ne renommez pas "osu!". Puis appuyez sur `Entrer`.
 8. Relancez osu!
 
-*Remarque : un correctif pour ce problème a été ajouté dans la version [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) datée du 19/05/2021. Si vous rencontrez toujours ce problème, veuillez [nous le faire savoir ici](https://github.com/ppy/osu-stable-issues/issues).*
+::: alert-notice
+**Note**
+Un correctif pour ce problème a été ajouté dans la version [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) datée du 19/05/2021. Si vous rencontrez toujours ce problème, veuillez [nous le faire savoir ici](https://github.com/ppy/osu-stable-issues/issues).
+:::
 
 ### Ma liste de beatmaps défile toute seule ! {id=songs-list-scrolling}
 

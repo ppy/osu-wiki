@@ -12,7 +12,7 @@ tags:
 
 #### Cinema
 
-![Cinema 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/CN.png)
+![Cinema 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/CN.png?1)
 
 *专心看视频，没有其他东西干扰。*
 
@@ -32,7 +32,7 @@ tags:
 :::
 
 ::: alert-note
-**注:** 对于该文章的 osu!stable 版本，请见：[Cinema（模组）](/wiki/Gameplay/Game_modifier/Cinema)
+**注:** 对于该文章的 osu!(stable) 版本，请见：[Cinema（模组）](/wiki/Gameplay/Game_modifier/Cinema)
 :::
 
 ::: alert-note

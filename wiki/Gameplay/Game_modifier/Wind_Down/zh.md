@@ -2,6 +2,8 @@
 stub: true
 tags:
   - WD
+outdated_translation: true
+outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 ---
 
 # Wind Down（模组）
@@ -12,7 +14,7 @@ tags:
 
 #### Wind Down
 
-![Wind Down 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/WD.png)
+![Wind Down 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/WD.png?1)
 
 *慢——下——来...*
 

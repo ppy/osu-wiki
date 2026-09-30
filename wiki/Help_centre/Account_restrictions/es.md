@@ -1,6 +1,8 @@
 # Restricciones de cuenta
 
-*Página principal: [Centro de ayuda](/wiki/Help_centre)*
+::: alert-note
+**Página principal:** [Centro de ayuda](/wiki/Help_centre)
+:::
 
 Una restricción es un tiempo fuera de la comunidad forzado a cuentas que exhiben una conducta anormal, sospechosa o que rompen las reglas.
 

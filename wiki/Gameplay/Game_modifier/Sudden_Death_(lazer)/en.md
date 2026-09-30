@@ -13,7 +13,7 @@ tags:
 
 #### Sudden Death
 
-![Sudden Death mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SD.png)
+![Sudden Death mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SD.png?1)
 
 *Miss and fail.*
 
@@ -31,7 +31,7 @@ tags:
 :::
 
 ::: alert-note
-**Note:** For the osu!stable version of this article, see [Sudden Death (mod)](/wiki/Gameplay/Game_modifier/Sudden_Death)
+**Note:** For the osu!(stable) version of this article, see [Sudden Death (mod)](/wiki/Gameplay/Game_modifier/Sudden_Death)
 :::
 
 ::: alert-note

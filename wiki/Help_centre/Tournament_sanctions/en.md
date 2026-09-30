@@ -1,6 +1,8 @@
 # Tournament sanctions
 
-*Main page: [Help centre](/wiki/Help_centre)*
+::: alert-note
+**Main page:** [Help centre](/wiki/Help_centre)
+:::
 
 ## Tournament bans
 

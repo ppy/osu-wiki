@@ -13,7 +13,7 @@ tags:
 
 #### Sudden Death
 
-![Sudden Death 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SD.png)
+![Sudden Death 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SD.png?1)
 
 *不全连，便失败。*
 
@@ -31,7 +31,7 @@ tags:
 :::
 
 ::: alert-note
-**注:** 对于该文章的 osu!stable 版本，请见 [Sudden Death (模组)](/wiki/Gameplay/Game_modifier/Sudden_Death)
+**注:** 对于该文章的 osu!(stable) 版本，请见 [Sudden Death (模组)](/wiki/Gameplay/Game_modifier/Sudden_Death)
 :::
 
 ::: alert-note
