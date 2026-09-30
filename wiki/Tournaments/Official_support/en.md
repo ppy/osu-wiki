@@ -12,7 +12,7 @@ tags:
 **Note:** For beatmapping contest support, see [Official beatmapping contest support](/wiki/Contests/Official_support).
 :::
 
-The [Tournament Committee](/wiki/People/Tournament_Committee) ("committee") runs a program where they provide community-run tournaments that abide by certain criteria and expectations with extra support, at their discretion. This program is overseen by the [osu! team](/wiki/People/osu!_team). This article details all procedures and regulations pertaining to this program.
+The [Tournament Committee](/wiki/People/Tournament_Committee) runs a program where they provide community-run tournaments that abide by certain criteria and expectations with extra support, at their discretion. This program is overseen by the [osu! team](/wiki/People/osu!_team). This article details all procedures and regulations pertaining to this program.
 
 As the tournament landscape continues to evolve, the committee routinely updates this article as needed. The committee works with the [account support team](/wiki/People/Account_support_team) to execute the rules and procedures defined here.
 
@@ -339,7 +339,11 @@ Designers **should** make use of the template image (shown below) and the [asset
 
 Below are examples of previously approved main-menu banners:
 
+[cavoe's osu! event's Global Taiko Showdown 2025](https://osu.ppy.sh/community/forums/topics/2098556?n=1):
+
 [![cavoe's osu! event's Global Taiko Showdown 2025 menu banner](img/coegts-menubanner.png)](https://osu.ppy.sh/community/forums/topics/2098556?n=1)
+
+[4 Digit World Cup 2024](/wiki/Tournaments/4WC/2024):
 
 [![4 Digit World Cup 2024 menu banner](img/4wc24-menubanner.png)](/wiki/Tournaments/4WC/2024)
 
@@ -401,10 +405,10 @@ Hosts **must** review the following items **before** submitting the conclusion e
 
 - All staff listings are updated and synchronised. Where staff are listed in spreadsheets (e.g. referees assigned to matches), usernames **must** be consistent throughout.
 - All staff are appropriately credited in any spreadsheets.
-- The seeding method, results, and match links are publicly listed and easily accessible as described in the [regulatory section](#regulatory). A third-party **must** be able to reproduce the results **exactly** using the provided match links.
+- The seeding method, results, and match links are publicly listed and easily accessible as described in the [regulatory section](#regulatory-rules). A third-party **must** be able to reproduce the results **exactly** using the provided match links.
   - Take note of any filtered scores and list them in the email. Sometimes, scores are played by mistake or with the wrong format and are excluded at the spreadsheet level but will still show up in the match data when verifying.
   - If the score values used for seeding differ from the MP links in any way, the relevant details **must** be stated in the conclusion email. This includes any normalisations of, or other modifications to, in-game mod multipliers.
-- All required links are present on the forum post (see the [regulatory section](#regulatory)).
+- All required links are present on the forum post (see the [regulatory section](#regulatory-rules)).
 - All online brackets and match listings are updated to include results for all matches.
 
 ## Profile badges
