@@ -8,6 +8,9 @@ tags:
   - hit error
   - timing
   - UR
+  - unstable rate terkonversi
+  - UR terkonversi
+  - kesalahan hit
 ---
 
 # Unstable rate
