@@ -401,10 +401,10 @@ Hosts **must** review the following items **before** submitting the conclusion e
 
 - All staff listings are updated and synchronised. Where staff are listed in spreadsheets (e.g. referees assigned to matches), usernames **must** be consistent throughout.
 - All staff are appropriately credited in any spreadsheets.
-- The seeding method, results, and match links are publicly listed and easily accessible as described in the [regulatory section](#regulatory). A third-party **must** be able to reproduce the results **exactly** using the provided match links.
+- The seeding method, results, and match links are publicly listed and easily accessible as described in the [regulatory section](#regulatory-rules). A third-party **must** be able to reproduce the results **exactly** using the provided match links.
   - Take note of any filtered scores and list them in the email. Sometimes, scores are played by mistake or with the wrong format and are excluded at the spreadsheet level but will still show up in the match data when verifying.
   - If the score values used for seeding differ from the MP links in any way, the relevant details **must** be stated in the conclusion email. This includes any normalisations of, or other modifications to, in-game mod multipliers.
-- All required links are present on the forum post (see the [regulatory section](#regulatory)).
+- All required links are present on the forum post (see the [regulatory section](#regulatory-rules)).
 - All online brackets and match listings are updated to include results for all matches.
 
 ## Profile badges
