@@ -12,7 +12,7 @@ tags:
 **Note:** For beatmapping contest support, see [Official beatmapping contest support](/wiki/Contests/Official_support).
 :::
 
-The [Tournament Committee](/wiki/People/Tournament_Committee) ("committee") runs a program where they provide community-run tournaments that abide by certain criteria and expectations with extra support, at their discretion. This program is overseen by the [osu! team](/wiki/People/osu!_team). This article details all procedures and regulations pertaining to this program.
+The [Tournament Committee](/wiki/People/Tournament_Committee) runs a program where they provide community-run tournaments that abide by certain criteria and expectations with extra support, at their discretion. This program is overseen by the [osu! team](/wiki/People/osu!_team). This article details all procedures and regulations pertaining to this program.
 
 As the tournament landscape continues to evolve, the committee routinely updates this article as needed. The committee works with the [account support team](/wiki/People/Account_support_team) to execute the rules and procedures defined here.
 
