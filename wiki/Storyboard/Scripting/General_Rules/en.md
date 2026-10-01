@@ -59,31 +59,31 @@ By default, the preview [background](/wiki/Beatmap/Background) (the background v
 
 The idea behind using a storyboard rather than a video file is **the ability to change elements dynamically to fit them to the gameplay's circumstances**. osu! only displays one of the Fail/Pass layers at once, depending on the player's performance. These states are referred to as *Fail State* and *Pass State*.
 
-States **before the first playtime** (e.g., before the first [hit circle](/wiki/Gameplay/Hit_object/Hit_circle), [slider](/wiki/Gameplay/Hit_object/Slider) or [spinner](/wiki/Gameplay/Hit_object/Spinner), not necessarily before the audio file starts):
+States **before the first [drain time](/wiki/Beatmap/Drain_time)** (e.g., before the first [hit circle](/wiki/Gameplay/Hit_object/Hit_circle), [slider](/wiki/Gameplay/Hit_object/Slider) or [spinner](/wiki/Gameplay/Hit_object/Spinner), not necessarily before the audio file starts):
 
 - Always Pass State, the Fail layer will never be displayed. It is not recommended to use either Pass or Fail layers at this point in the beatmap, as it is meaningless to say the player is "passing" at this point.
 
-States during **playtime** ([drain time](/wiki/Beatmap/Drain_time), when the player is expected to click on objects to keep the health bar from draining):
+States during **drain time** (when the player is expected to click on objects to keep the health bar from draining):
 
 - Pass State if this is the first [combo colour](/wiki/Beatmapping/Combo_colour) or if the previous [combo](/wiki/Beatmapping/Combo) ended with a [Geki](/wiki/Gameplay/Judgement/Geki).
 - Fail State otherwise. Note that there is no state for just [Katu](/wiki/Gameplay/Judgement/Katu), unlike in the DS games (which had three states).
   - In [osu!taiko](/wiki/Game_mode/osu!taiko), Fail State if the player missed the last note, Pass State otherwise.
   - In [osu!catch](/wiki/Game_mode/osu!catch), it is always the state of the previous break. The first playable section will always be Pass State.
 
-States during **break time** (between playtime segments):
+States during **break time** (between drain time segments):
 
-- Pass State if the health bar ended above half in the last playtime section (i.e., the "O" symbol appears).
+- Pass State if the health bar ended above half in the last drain time section (i.e., the "O" symbol appears).
 - Fail State otherwise (i.e., the "X" symbol appears).
   - In [osu!taiko](/wiki/Game_mode/osu!taiko), if it reaches a certain quota at a certain time. Refer to these two examples:
     - Getting an accuracy of 96.5% while the health bar is still at 40% will give a Pass instead of a Fail.
     - Getting too many 100s in about 30 notes and getting a D while the health bar is still at around 30% will result in a Fail instead of a Pass (in this case, refer to [ZUN - Maiden's Cappricio ~ Dream Battle](https://osu.ppy.sh/beatmapsets/18005#taiko/69556)).
 
-States **after the last playtime**, if the beatmap had at least one [break](/wiki/Beatmap/Break):
+States **after the last drain time**, if the beatmap had at least one [break](/wiki/Beatmap/Break):
 
 - Pass State if at least half of the breaks occurred in the Pass State.
 - Fail State otherwise.
 
-States **after the last playtime**, if the beatmap had no breaks:
+States **after the last drain time**, if the beatmap had no breaks:
 
 - Same as during break time.
 
