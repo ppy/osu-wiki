@@ -9,7 +9,7 @@ tags:
 # Ranking
 
 ::: alert-note
-**Note:** [Rank (disambiguation)](/wiki/Disambiguation/Rank).
+**See also:** [Rank (disambiguation)](/wiki/Disambiguation/Rank).
 :::
 
 **Ranking** (alternatively called "leaderboards") is a list that sorts members of the osu! community according to certain criteria.
@@ -30,16 +30,16 @@ The score ranking compares players' total score and lists them accordingly. Rank
 
 ## Kudosu ranking
 
-The Kudosu ranking compares users' accumulated [Kudosu](/wiki/Modding/Kudosu) and lists them accordingly. This ranking requires no playing skills, as Kudosu is gained as a part of the [modding process](/wiki/Modding).
+The kudosu ranking compares users' accumulated [kudosu](/wiki/Modding/Kudosu) and lists them accordingly. This ranking requires no playing skills, as kudosu is gained as a part of the [modding process](/wiki/Modding).
 
 ## Spotlights ranking
 
-The Spotlights rankings are time-limited leaderboards that compare players' skill on a specific set of beatmaps each [Spotlights](/wiki/Beatmap_Spotlights) season. Players who rank highly on Spotlights rankings will receive specific awards as a result of their hard work.
+The Spotlights rankings are seasonal leaderboards that compare players' skill on a specific set of  [Spotlights](/wiki/Beatmap_Spotlights) beatmaps that are active in each of the seasons. Players who rank highly on Spotlights rankings will receive specific awards as a result of their hard work.
 
 ## Beatmap ranking
 
-The beatmap rankings compare players' scores against each other on individual beatmaps. They appear once a beatmap has been [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), [Approved](/wiki/Beatmap/Category#approved), or Loved. The top eight are shown without having to scroll, and if the player has a top 50 score, it will automatically scroll to their score. First place ranks can be seen on a user's profile page.
+The beatmap rankings compare players' scores against each other on individual beatmaps. They appear once a beatmap has been [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), [Approved](/wiki/Beatmap/Category#approved), or [Loved](https://osu.ppy.sh/wiki/en/Beatmap/Category#loved). The top eight are shown without having to scroll, and if the player has a top 50 score, it will automatically scroll to their score. First place ranks can be seen on a user's profile page.
 
 ## Country ranking
 
-The country rankings are based on performance points of players from a country.
+The country rankings compare the total performance points earned cumulatively by all active players from each country.

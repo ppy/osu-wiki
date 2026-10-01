@@ -11,10 +11,10 @@ tags:
 # Grade
 
 ::: alert-note
-**Note:** [Rank (disambiguation)](/wiki/Disambiguation/Rank).
+**See also:** [Rank (disambiguation)](/wiki/Disambiguation/Rank).
 :::
 
-**Grades** are a set of letters representing a player's performance on a given [beatmap](/wiki/Beatmap). They accompany the total [score](/wiki/Gameplay/Score) on the result screen and appear in all lists alongside scores.
+**Grades** are a set of letters representing a player's performance on a given [beatmap](/wiki/Beatmap). They appear next to the player's total [score](/wiki/Gameplay/Score) on the result screen, and also in various [leaderboards](/wiki/Ranking) alongside player scores.
 
 From lowest to highest, the possible grades are D, C, B, A, S, and SS. Silver S and SS grades are only achievable when using the [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight), or [Fade In](/wiki/Gameplay/Game_modifier/Fade_In) game modifiers.
 
