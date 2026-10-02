@@ -22,7 +22,7 @@ tags:
 
 - 缩写：NC
 - 类别：增加难度
-- 得分系数：
+- 得分倍率：
   - ![][osu!]: 1.12x
   - ![][osu!taiko]: 1.12x
   - ![][osu!catch]: 1.06x
@@ -36,7 +36,7 @@ tags:
 
 **Nightcore** [游戏模组](/wiki/Gameplay/Game_modifier)的工作方式与其变体模组 Double Time 完全一致，但会提高音乐音调，并在后台播放鼓点音效。在 4/4 拍中，第一拍、第三拍播放低音鼓声，第二拍、第四排播放击掌声，每四个小节的第一拍播放碰撞声。
 
-[得分系数](/wiki/Gameplay/Game_modifier/Mod_multiplier)与 Double Time 模组启用时保持一致，谱面除 Double Time 模组所作更改外不会受到其他任何影响。
+[得分倍率](/wiki/Gameplay/Game_modifier/Mod_multiplier)与 Double Time 模组启用时保持一致，谱面除 Double Time 模组所作更改外不会受到其他任何影响。
 
 此模组在所有游戏模式中效果相同。
 

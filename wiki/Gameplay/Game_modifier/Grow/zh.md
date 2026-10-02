@@ -2,8 +2,6 @@
 stub: true
 tags:
   - GR
-outdated_translation: true
-outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 ---
 
 # Grow（模组）
@@ -23,7 +21,7 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 | 缩写 | GR |
 | 类别 | 娱乐 |
 | 游戏模式 | ![][osu!] |
-| 得分系数 | `1.00x` |
+| 得分倍率 | 见[计分](#计分) |
 | 状态 | 不计表现分 |
 | 不兼容的模组 | [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Deflate (DF)](/wiki/Gameplay/Game_modifier/Deflate), [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Approach_Different), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
 
@@ -40,5 +38,9 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 ![游戏客户端中的 Grow 自定义设置](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/GR.png)
 
 - `初始大小 (Starting size)` (0.00–0.99，默认为 0.5): 所有物件的初始大小。
+
+## 计分
+
+Grow 模组的分数倍率为 `1.00x`。但将其与 [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) 并用时，后者的倍率将会降低 `0.02x`，参见 [Hidden (HD) § 计分](/wiki/Gameplay/Game_modifier/Hidden_(lazer)#计分).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
