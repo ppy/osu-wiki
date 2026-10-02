@@ -14,7 +14,7 @@ tags:
 **Lihat juga:** [Rank (disambiguasi)](/wiki/Disambiguation/Rank).
 :::
 
-**Peringkat** (*ranking*, atau yang juga disebut sebagai "leaderboard"/"papan peringkat") adalah daftar yang mengurutkan para anggota komunitas osu! berdasarkan kriteria tertentu.
+**Peringkat** (*ranking*, atau yang juga disebut sebagai *leaderboard*/*papan peringkat*) adalah daftar yang mengurutkan para anggota komunitas osu! berdasarkan kriteria tertentu.
 
 Semua peringkat di bawah ini (kecuali peringkat beatmap) bisa diakses dengan melayangkan kursor ke atas menu `rankings` pada header situs web. Untuk papan peringkat beatmap, peringkat ini bisa ditemukan pada [halaman informasi](/wiki/Beatmap_information) masing-masing beatmap.
 
@@ -28,7 +28,7 @@ Peringkat performance point menggambarkan tingkat kemampuan seorang pemain diban
 
 ## Peringkat skor
 
-Peringkat skor membandingkan total skor pemain dan mengurutkannya dari yang terbesar hingga terkecil. Papan peringkat ini memerlukan banyak waktu untuk bisa didaki, namun cenderung memerlukan kemampuan mekanik yang lebih rendah dibanding papan peringkat performance point.
+Peringkat skor membandingkan [skor Ranked](/wiki/Gameplay/Score/Ranked_score) pemain dan mengurutkannya dari yang terbesar hingga terkecil. Papan peringkat ini memerlukan banyak waktu untuk bisa didaki, namun cenderung memerlukan kemampuan mekanik yang lebih rendah dibanding papan peringkat performance point.
 
 ## Peringkat kudosu
 
