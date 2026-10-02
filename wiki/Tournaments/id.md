@@ -97,7 +97,7 @@ Berikut merupakan berbagai turnamen resmi yang diselenggarakan oleh tim osu!.
 | [osu!mania 7K World Cup 2025](MWC/2025_7K) | 2024-12-12 | 2025-02-23 | ::{ flag=KR }:: Korea Selatan | ::{ flag=CN }:: Tiongkok | ::{ flag=PH }:: Filipina |
 | [osu!mania 4K World Cup 2025](MWC/2025_4K) | 2025-07-17 | 2025-09-28 | ::{ flag=US }:: Amerika Serikat | ::{ flag=KR }:: Korea Selatan | ::{ flag=CN }:: Tiongkok |
 | [osu!mania 7K World Cup 2026](MWC/2026_7K) | 2025-12-11 | 2026-02-22 | ::{ flag=KR }:: Korea Selatan | ::{ flag=PH }:: Filipina | ::{ flag=JP }:: Jepang |
-| [osu!mania 4K World Cup 2026](MWC/2026_4K) | 2026-07-16 | 2026-09-27 | *TBD* | *TBD* | *TBD* |
+| [osu!mania 4K World Cup 2026](MWC/2026_4K) | 2026-07-16 | 2026-09-27 | ::{ flag=KR }:: Korea Selatan | ::{ flag=US }:: Amerika Serikat | ::{ flag=CN }:: Tiongkok |
 
 ## Turnamen komunitas
 
