@@ -35,7 +35,7 @@ Coordinates are specified with positive values for `X` going to the **right**, p
 
 ### Layers
 
-All storyboard sprites are placed below the [hit objects](/wiki/Gameplay/Hit_object) except the Overlay layer, which is still placed below the [skin](/wiki/Skin). So, even the "highest" (Overlay) layer in the storyboard will always be above the hit objects, but behind the [health bar](/wiki/Client/Interface/Health_bar), the cursor, etc.
+All storyboard sprites are placed below the [hit objects](/wiki/Gameplay/Hit_object) except for the Overlay layer, which is still placed below the [skin](/wiki/Skin). So, even the "highest" (Overlay) layer in the storyboard will always be above the hit objects, but behind the [health bar](/wiki/Client/Interface/Health_bar), the cursor, etc.
 
 These are the five storyboard layers, in increasing order of priority:
 
@@ -94,11 +94,11 @@ States **after the last drain time**, if the beatmap had no breaks:
 - Time is measured in milliseconds from the start of the beatmap's main audio file (`.mp3`/`.ogg`), including negative values to indicate an intro.
 - Time in the storyboard is not dependent on the beatmap's [timing](/wiki/Beatmapping/Timing) (e.g., the number of [measures](/wiki/Music_theory/Measure) or the BPM). Therefore, it is recommended to make sure the beatmap is reasonably well-timed before storyboarding, as it will be harder to adjust these times later.
 - Time is not constrained to the length of the song. It is possible to use negative values for events before the song starts (an intro), and values that extend beyond the last playable section or even the end of the audio file (an outro).
-- When loaded, the beatmap starts from the earliest event specified or from time 0, whichever is earlier.
-  - In the former case, the `Skip` button will be displayed to the user. Clicking it or pressing `Space` will skip to time 0. The game reverts to normal pre-map skip behaviour (e.g., press `Skip` again to go straight to the countdown — unlike in [Elite Beat Agents](https://en.wikipedia.org/wiki/Elite_Beat_Agents), where restarting the beatmap takes the player all the way back to the start, not to time 0).
+- When loaded, the beatmap starts from the earliest event specified or from 0 ms, whichever is earlier.
+  - In the former case, the `Skip` button will be displayed to the user. Clicking it or pressing `Space` will skip to 0 ms. The game reverts to normal pre-map skip behaviour (e.g., press `Skip` again to go straight to the countdown — unlike in [Elite Beat Agents](https://en.wikipedia.org/wiki/Elite_Beat_Agents), where restarting the beatmap takes the player all the way back to the start, not to 0 ms).
 - The game will transition to the [results screen](/wiki/Client/Interface#results-screen) as soon as the last event occurs, or the user clicks the `Skip` button or presses `Space`.
   - This includes events that are on **both** the Pass and Fail layers, even though only one will be displayed.
-    - Example: If the Fail storyboard ends at time 20.000 and the Pass storyboard ends at time 25.000, the game will wait until time 25.000, even if the player is in the Fail State (all objects will disappear). Therefore, it is best to ensure that both Pass and Fail ending variants take the same amount of time to complete.
+    - Example: If the Fail storyboard ends at 20,000 ms and the Pass storyboard ends at 25,000 ms, the game will wait until 25,000 ms, even if the player is in the Fail State (all objects will disappear). Therefore, it is best to ensure that both Pass and Fail ending variants take the same amount of time to complete.
   - Events will continue even if the user skips to the results screen early, and the audio produced by the storyboard can still be heard.
 - In the beatmap editor's design tab, the current time in milliseconds is displayed. Press `Ctrl` + `C` to copy the current time to the clipboard.
 
