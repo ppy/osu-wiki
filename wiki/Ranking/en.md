@@ -9,10 +9,10 @@ tags:
 # Ranking
 
 ::: alert-note
-**See also:** [Rank (disambiguation)](/wiki/Disambiguation/Rank).
+**Note:** [Rank (disambiguation)](/wiki/Disambiguation/Rank).
 :::
 
-**Ranking** (alternatively called "leaderboards") is a list that sorts members of the osu! community according to certain criteria.
+**Ranking** (alternatively called *leaderboards*) is a list that sorts members of the osu! community according to certain criteria.
 
 All but the individual beatmap rankings can be navigated to by hovering over the `rankings` menu on the website header. For the individual beatmap ranking, they can be found on their [beatmap info page](/wiki/Beatmap_information).
 
@@ -26,7 +26,7 @@ The performance points ranking describes a player's skill-level in comparison to
 
 ## Score ranking
 
-The score ranking compares players' total score and lists them accordingly. Ranking highly on this leaderboard requires a large time commitment, but requires relatively less mechanical skill than the performance points ranking.
+The score ranking compares players' [ranked score](/wiki/Gameplay/Score/Ranked_score) and lists them accordingly. Ranking highly on this leaderboard requires a large time commitment, but requires relatively less mechanical skill than the performance points ranking.
 
 ## Kudosu ranking
 
