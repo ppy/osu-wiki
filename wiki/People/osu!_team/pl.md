@@ -27,7 +27,7 @@ Osoby wymienione poniżej stanowią trzon **zespołu osu!** i to właśnie one w
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Ogólna pomoc, organizator i administrator [mistrzostw świata](/wiki/Tournaments#oficjalne) |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) | Ogólna pomoc, [moderator](/wiki/People/Global_Moderation_Team) |
 | ::{ flag=SK }:: [Domco](https://osu.ppy.sh/users/3562660) | Programista gry |
-| ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) | Główny grafik, obserwator Creative Cloud  |
+| ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) | Główny grafik, obserwator Creative Cloud |
 | ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | Programista gry |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Ogólna pomoc, lider [NAT](/wiki/People/Nomination_Assessment_Team), zarządca [Project Loved](/wiki/Community/Project_Loved) |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Organizator i administrator [mistrzostw świata](/wiki/Tournaments#oficjalne) |
