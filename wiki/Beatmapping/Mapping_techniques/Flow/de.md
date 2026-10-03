@@ -39,7 +39,7 @@ In Beatmaps können verschiedene Flow-Arten verwendet werden, um unterschiedlich
 
 Zum Beispiel können weiche Läufe unnatürlichen Bewegungen gegenübergestellt werden, um Unterschiede in der Intensität des Songs an entscheidenden Stellen aufzuzeigen. Weiterhin werden Wiederholungen regelmäßig eingesetzt, um einen sich wiederholenden Teil des Songs hervorzuheben.
 
-Es gibt aufgrund der Anzahl an möglichen Cursor-Bewegungsmuster und weil das Thema stark von den eigenen Vorlieben abhängt keine klare Einigung darüber, wie Flow am besten beim Beatmapping umgesetzt werden sollte.
+Aufgrund der Anzahl möglicher Cursor-Bewegungsmuster und weil das Thema stark von den eigenen Vorlieben abhängt, gibt es keine klare Einigung darüber, wie Flow am besten beim Beatmapping umgesetzt werden sollte.
 
 ## Siehe auch
 
