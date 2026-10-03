@@ -1,22 +1,30 @@
----
-outdated_translation: true
-outdated_since: 029eb57bd83c4d5d74fb54d65723f05b44411250
----
+# Skryptowanie storyboardów
 
-# Skryptowanie tła
+![Przykład skryptu otwartego w "Code - OSS"](img/osb-example.png "Przykład skryptu storyboardowego (plik .osb)")
 
-![Przykład skryptów w pliku .osb.](img/osb-example.png "Przykład skryptów w pliku .osb.")
+**Skryptowanie** to proces tworzenia [storyboardów](/wiki/Storyboard) poprzez edycję plików [`.osb`](/wiki/Client/File_formats/osb_(file_format)) i [`.osu`](/wiki/Client/File_formats/osu_(file_format)). Pliki te definiują położenie grafik oraz różne efekty, które [klient gry](/wiki/Client) wyświetla w tle podczas rozgrywki.
 
-In addition to using the [Storyboard Editor](/wiki/Client/Beatmap_editor/Design)(Design tab) to create [Storyboards](/wiki/Storyboard) for maps, you can also use a plain text editor (such as Notepad or [Notepad++](http://www.notepad-plus-plus.org/)). This is referred to as "**Storyboarding by Scripting**" (SBS), and allows you to be more precise (to the pixel and the millisecond) as to when sprites appear, what they do, and so on.
+Skryptowanie to popularna alternatywa dla [wbudowango edytora storyboardów](/wiki/Client/Beatmap_editor/Design), gdy wymagana jest większa precyzja lub gdy użytkownik pracuje nad bardziej złożonym projektem. Z pomocą edytora tekstu, takiego jak [Notatnik](https://pl.wikipedia.org/wiki/Notatnik_(program) "Artykuł \"Notatnik (program)\" na Wikipedii"), [Notepad++](https://www.notepad-plus-plus.org/) czy [Visual Studio Code](https://code.visualstudio.com/) twórca storyboardu może precyzyjnie edytować wartości [obiektów](Objects) oraz [komend](Commands), zamiast modyfikować je za pomocą dostępnych w edytorze narzędzi. Wielu twórców korzysta również z [programowania](https://pl.wikipedia.org/wiki/Programowanie_komputerów "Artykuł \"Programowanie komputerów\" na Wikipedii") do komponowania storyboardów, które byłyby wyjątkowo trudne do stworzenia innymi metodami.
 
-## Poradnik dla początkujących
+::: alert-warning
+**Uwaga**
+Unikaj edytowania skryptów storyboardowych [beatmapy](/wiki/Beatmap), która jest aktualnie otwarta w [edytorze](/wiki/Client/Beatmap_editor). Dokonane przez ciebie zmiany mogą zostać nadpisane po zapisaniu beatmapy.
+:::
 
-[Doomsday przygotował fajny poradnik dla początkujących, ukazujący koncept skryptowania tła (12:22).](http://www.youtube.com/watch?v=UJ1YLDs-bZg)
+## Pojęcia oraz format pliku
 
-## Pełna specyfikacja
+Sprawdź poniższe artykuły:
 
-It is primarily based on [the official specifications](https://osu.ppy.sh/community/forums/topics/1869) and experience in making large SBs. This is **not a step-by-step guide**, although simple examples are provided. It is meant to exhaustively detail how SBS translates into actions on-screen in osu!.
+- [Ogólne zasady tworzenia storyboardów](General_Rules)
+- [Obiekty](Objects)
+- [Komendy](Commands)
+- [Złożone komendy](Compound_Commands)
+- [Sample audio](Audio)
+- [Flagi plików osu!](osu!_File_Toggles)
+- [Zmienne](Variables)
+- [Skróty](Shorthand)
+- [Poradnik](Cheat_Sheet)
 
-[Przeczytaj główne zasady przed zaczęciem skryptowania tła](/wiki/Storyboard/Scripting/General_Rules). Zaoszczędzi ci to późniejszych problemów. Tutaj możesz sprawdzić [specyfikację obiektów w sprite'ów](/wiki/Storyboard/Scripting/Objects) oraz [ich ruch](/wiki/Storyboard/Scripting/Commands).
+## Narzędzia stworzone przez społeczność
 
-Ważne: Przed zapisaniem pracy w Notatniku, **zapisz wpierw beatmapę**. Edytor może czasami nie odpowiadać, więc **często dokonuj zapisów**.
+Istnieją również różne narzędzia stworzone przez społeczność, które rozbudowują proces tworzenia skryptów, takie jak [storybrew](https://github.com/Damnae/storybrew "Repozytorium GitHub") autorstwa ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377).
