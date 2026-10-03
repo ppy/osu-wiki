@@ -303,7 +303,7 @@
 | [National Dutch Championship 2023](NDC/2023) | 2023-01-08 | 2023-03-12 | [Lilily](https://osu.ppy.sh/users/6502403) | [Burning John](https://osu.ppy.sh/users/6744123) | [luciano](https://osu.ppy.sh/users/11604978) |
 | [National Dutch Championship 2024](NDC/2024) | 2024-08-05 | 2024-10-13 | [Aheo](https://osu.ppy.sh/users/14919428) | [Burning John](https://osu.ppy.sh/users/6744123) | [luciano](https://osu.ppy.sh/users/11604978) |
 | [National Dutch Championship 2025](NDC/2025) | 2025-08-09 | 2025-10-12 | [Aheo](https://osu.ppy.sh/users/14919428) | [Tutel](https://osu.ppy.sh/users/12241010) | [John ethken](https://osu.ppy.sh/users/641155) |
-| [National Dutch Championship 2026](NDC/2026) | 2026-08-08 | 2026-10-12 | TBD | TBD | TBD |
+| [National Dutch Championship 2026](NDC/2026) | 2026-08-08 | 2026-10-12 | *待定* | *待定* | *待定* |
 
 #### [nik's Tournaments](NT)
 
@@ -543,7 +543,7 @@
 | [UK Community Cup 10](UKCC/10) | 2021-09-11 | 2021-10-31 | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) | ::{ flag=GB }:: [majoreh](https://osu.ppy.sh/users/7959222) | ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) |
 | [UK Community Cup 11](UKCC/11) | 2022-01-23 | 2022-04-03 | Luciano Fan Club | denial piano | The |
 | [UK Community Cup 12](UKCC/12) | 2023-03-18 | 2023-04-30 | ::{ flag=GB }:: [Accolibed](https://osu.ppy.sh/users/9269034) | ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) | ::{ flag=GB }:: [rudj](https://osu.ppy.sh/users/11592896) |
-| [UK Community Cup 13](UKCC/13) | 2025-06-08 | 2025-07-27 | *tbd* | *tbd* | *tbd* |
+| [UK Community Cup 13](UKCC/13) | 2025-06-08 | 2025-07-27 | *待定* | *待定* | *待定* |
 
 #### [Ulat Bulu Cup](UCUP)
 
@@ -669,7 +669,7 @@
 
 | 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Project Prism 2024](Project_Prism/2024) | 2024-05-11 | 2024-06-30 | *TBD* | *TBD* | *TBD* |
+| [Project Prism 2024](Project_Prism/2024) | 2024-05-11 | 2024-06-30 | *待定* | *待定* | *待定* |
 
 #### [Taiko Convert Tournament](TCT)
 
@@ -903,7 +903,7 @@
 | [Jaye's One Key Event 3: paradigm//SHIFT](JOKE/3) | 2023-10-28 | 2023-12-17 | ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) | ::{ flag=JP }:: [hz404](https://osu.ppy.sh/users/14947043) | ::{ flag=US }:: [\[LS\]Ham](https://osu.ppy.sh/users/17523947) |
 | [One Key World Cup 2024](JOKE/1KWC_2024) | 2024-05-04 | 2024-06-16 | ::{ flag=JP }:: 日本 | ::{ flag=GB }:: 英国 | ::{ flag=AU }:: 澳洲 A |
 | [One Key World Cup 2025](JOKE/1KWC_2025) | 2025-04-26 | 2025-06-08 | ::{ flag=JP }:: 日本 | ::{ flag=US }:: 美国 | ::{ flag=GB }:: 英国 |
-| [Jaye's One Key Event 4: The Great Escape](JOKE/4) | 2025-10-25 | 2025-12-07 | *TBD* | *TBD* | *TBD* |
+| [Jaye's One Key Event 4: The Great Escape](JOKE/4) | 2025-10-25 | 2025-12-07 | *待定* | *待定* | *待定* |
 
 #### [Mania Beginner's Showdown](MBS)
 

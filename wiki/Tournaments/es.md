@@ -28,7 +28,7 @@ Torneos oficiales organizados por el osu! team.
 | [osu! World Cup 2023](OWC/2023) | 21/10/2023 | 3/12/2023 | ::{ flag=US }:: Estados Unidos | ::{ flag=KR }:: Corea del Sur | ::{ flag=AU }:: Australia |
 | [osu! World Cup 2024](OWC/2024) | 26/10/2024 | 8/12/2024 | ::{ flag=KR }:: Corea del Sur | ::{ flag=US }:: Estados Unidos | ::{ flag=AU }:: Australia |
 | [osu! World Cup 2025](OWC/2025) | 25/10/2025 | 14/12/2025 | ::{ flag=PL }:: Polonia | ::{ flag=US }:: Estados Unidos | ::{ flag=AU }:: Australia |
-| [osu! World Cup 2026](OWC/2026) | 25/10/2026 | 13/12/2026 | *TBD* | *TBD* | *TBD* |
+| [osu! World Cup 2026](OWC/2026) | 25/10/2026 | 13/12/2026 | *Por decidirse* | *Por decidirse* | *Por decidirse* |
 
 ### ![](/wiki/shared/mode/taiko.png) [osu!taiko World Cup](TWC)
 
@@ -303,7 +303,7 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | [National Dutch Championship 2023](NDC/2023) | 8/1/2023 | 12/3/2023 | [Lilily](https://osu.ppy.sh/users/6502403) | [Burning John](https://osu.ppy.sh/users/6744123) | [luciano](https://osu.ppy.sh/users/11604978) |
 | [National Dutch Championship 2024](NDC/2024) | 5/8/2024 | 13/10/2024 | [Aheo](https://osu.ppy.sh/users/14919428) | [Burning John](https://osu.ppy.sh/users/6744123) | [luciano](https://osu.ppy.sh/users/11604978) |
 | [National Dutch Championship 2025](NDC/2025) | 9/8/2025 | 12/10/2025 | [Aheo](https://osu.ppy.sh/users/14919428) | [Tutel](https://osu.ppy.sh/users/12241010) | [John ethken](https://osu.ppy.sh/users/641155) |
-| [National Dutch Championship 2026](NDC/2026) | 8/8/2026 | 12/10/2026 | TBD | TBD | TBD |
+| [National Dutch Championship 2026](NDC/2026) | 8/8/2026 | 12/10/2026 | *Por decidirse* | *Por decidirse* | *Por decidirse* |
 
 #### [nik's Tournaments](NT)
 

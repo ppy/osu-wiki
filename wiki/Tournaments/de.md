@@ -28,7 +28,7 @@ Offizielle Turniere, die vom osu!-Team organisiert werden.
 | [osu! World Cup 2023](OWC/2023) | 21.10.2023 | 03.12.2023 | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=KR }:: Südkorea | ::{ flag=AU }:: Australien |
 | [osu! World Cup 2024](OWC/2024) | 26.10.2024 | 08.12.2024 | ::{ flag=KR }:: Südkorea | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=AU }:: Australien |
 | [osu! World Cup 2025](OWC/2025) | 25.10.2025 | 14.12.2025 | ::{ flag=PL }:: Polen | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=AU }:: Australien |
-| [osu! World Cup 2026](OWC/2026) | 25.10.2026 | 13.12.2026 | *TBD* | *TBD* | *TBD* |
+| [osu! World Cup 2026](OWC/2026) | 25.10.2026 | 13.12.2026 | *Noch offen* | *Noch offen* | *Noch offen* |
 
 ### ![](/wiki/shared/mode/taiko.png) [osu!taiko World Cup](TWC)
 
@@ -303,7 +303,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [National Dutch Championship 2023](NDC/2023) | 08.01.2023 | 12.03.2023 | [Lilily](https://osu.ppy.sh/users/6502403) | [Burning John](https://osu.ppy.sh/users/6744123) | [luciano](https://osu.ppy.sh/users/11604978) |
 | [National Dutch Championship 2024](NDC/2024) | 05.08.2024 | 13.10.2024 | [Aheo](https://osu.ppy.sh/users/14919428) | [Burning John](https://osu.ppy.sh/users/6744123) | [luciano](https://osu.ppy.sh/users/11604978) |
 | [National Dutch Championship 2025](NDC/2025) | 09.08.2025 | 12.10.2025 | [Aheo](https://osu.ppy.sh/users/14919428) | [Tutel](https://osu.ppy.sh/users/12241010) | [John ethken](https://osu.ppy.sh/users/641155) |
-| [National Dutch Championship 2026](NDC/2026) | 08.08.2026 | 12.10.2026 | TBD | TBD | TBD |
+| [National Dutch Championship 2026](NDC/2026) | 08.08.2026 | 12.10.2026 | *Noch offen* | *Noch offen* | *Noch offen* |
 
 #### [nik's Tournaments](NT)
 
@@ -543,7 +543,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [UK Community Cup 10](UKCC/10) | 11.09.2021 | 31.10.2021 | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) | ::{ flag=GB }:: [majoreh](https://osu.ppy.sh/users/7959222) | ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) |
 | [UK Community Cup 11](UKCC/11) | 23.01.2022 | 03.04.2022 | Luciano Fan Club | denial piano | The |
 | [UK Community Cup 12](UKCC/12) | 18.03.2023 | 30.04.2023 | ::{ flag=GB }:: [Accolibed](https://osu.ppy.sh/users/9269034) | ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) | ::{ flag=GB }:: [rudj](https://osu.ppy.sh/users/11592896) |
-| [UK Community Cup 13](UKCC/13) | 08.06.2025 | 27.07.2025 | *TBD* | *TBD* | *TBD* |
+| [UK Community Cup 13](UKCC/13) | 08.06.2025 | 27.07.2025 | *Noch offen* | *Noch offen* | *Noch offen* |
 
 #### [Ulat Bulu Cup](UCUP)
 
@@ -669,7 +669,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Project Prism 2024](Project_Prism/2024) | 11.05.2024 | 30.06.2024 | *TBD* | *TBD* | *TBD* |
+| [Project Prism 2024](Project_Prism/2024) | 11.05.2024 | 30.06.2024 | *Noch offen* | *Noch offen* | *Noch offen* |
 
 #### [Taiko Convert Tournament](TCT)
 
@@ -903,7 +903,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [Jaye's One Key Event 3: paradigm//SHIFT](JOKE/3) | 28.10.2023 | 17.12.2023 | ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) | ::{ flag=JP }:: [hz404](https://osu.ppy.sh/users/14947043) | ::{ flag=US }:: [\[LS\]Ham](https://osu.ppy.sh/users/17523947) |
 | [One Key World Cup 2024](JOKE/1KWC_2024) | 04.05.2024 | 16.06.2024 | ::{ flag=JP }:: Japan | ::{ flag=GB }:: Vereinigtes Königreich | ::{ flag=AU }:: Australien-A |
 | [One Key World Cup 2025](JOKE/1KWC_2025) | 26.04.2025 | 08.06.2025 | ::{ flag=JP }:: Japan | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=GB }:: Vereinigtes Königreich |
-| [Jaye's One Key Event 4: The Great Escape](JOKE/4) | 25.10.2025 | 07.12.2025 | *TBD* | *TBD* | *TBD* |
+| [Jaye's One Key Event 4: The Great Escape](JOKE/4) | 25.10.2025 | 07.12.2025 | *Noch offen* | *Noch offen* | *Noch offen* |
 
 #### [Mania Beginner's Showdown](MBS)
 
