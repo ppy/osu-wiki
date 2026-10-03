@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Halloween 2026 Fanart Contest: Voting Open"
-date: 2026-10-03 20:00:00 +0000
+date: 2026-10-04 18:00:00 +0000
 series: fanart_contests
 ---
 
@@ -19,7 +19,7 @@ To accompany you on this terrifying journey, here's a slideshow of all the submi
     </video>
 </div>
 
-[![Click here to start voting in the Halloween 2026 Fanart Contest!](/wiki/shared/news/2026-10-03-halloween-2026-fanart-voting/vote.png)](https://osu.ppy.sh/community/contests/296)
+[![Click here to start voting in the Halloween 2026 Fanart Contest!](/wiki/shared/news/2026-10-04-halloween-2026-fanart-voting/vote.png)](https://osu.ppy.sh/community/contests/296)
 
 Voting phase will run for **7 days** from the date of this post and will end on **October 8 @ 18:00 UTC**. As per tradition, the winners will receive the following rewards:
 
