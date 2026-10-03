@@ -3,27 +3,27 @@ no_native_review: true
 separator: ", "
 alumni:
   roles:
-    academy: prowadzenie akademii osu!
+    academy: założyciel osu!academy
     admin: administrator
     chat: moderator czatu
-    dev: deweloper gry
-    media: współtworzenie mediów gry
+    dev: programista gry
+    media: współtwórca mediów gry
     support: pomoc techniczna
-    tournaments: organizowanie turniejów
+    tournaments: organizator turniejów
 gmt:
   all_mods: wszyscy moderatorzy
   areas:
     beatmap: moderowanie beatmap
     chat: moderowanie czatu
     forum: moderowanie forum
-    general: moderowanie ogólne
-    team: oficjalny profil zespołu gry
+    general: ogólne moderowanie
+    team: oficjalne konto zespołu
     dev: rozwój gry
-    player: zarządzanie społecznością
+    player: wsparcie społeczności
     support: pomoc techniczna
-    tournaments: organizowanie turniejów
-    wiki: zarządzanie wiki osu!
-    mapping: moderowanie społeczności twórców i moderów beatmap
+    tournaments: zarządzanie turniejami
+    wiki: zarządzanie osu! wiki
+    mapping: moderowanie społeczności twórców beatmap i moderów
     skinning: moderowanie społeczności twórców skórek
     leadership: kierowanie zespołem
 nat:
