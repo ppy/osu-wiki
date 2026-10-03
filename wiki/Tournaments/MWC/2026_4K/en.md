@@ -10,7 +10,7 @@ tags:
 
 ![MWC 4K 2026 banner](img/mwc4k2026-banner.jpg)
 
-The **osu!mania 4K World Cup 2026** (***MWC 4K 2026***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the thirteenth instalment of the osu!mania 4K World Cup.
+The **osu!mania 4K World Cup 2026** (***MWC 4K 2026***) was a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the thirteenth instalment of the osu!mania 4K World Cup.
 
 ## Tournament schedule
 
@@ -28,7 +28,7 @@ The **osu!mania 4K World Cup 2026** (***MWC 4K 2026***) is a country-based osu!m
 
 ## Prizes
 
-The osu!mania 4K World Cup 2026 offers a $2,000 cash prize pool and limited-edition merch.
+The osu!mania 4K World Cup 2026 offered a $2,000 cash prize pool and limited-edition merch.
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -36,9 +36,15 @@ The osu!mania 4K World Cup 2026 offers a $2,000 cash prize pool and limited-edit
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
+![](img/mwc4k2026-badge-1st.png "MWC 4K 2026 winner badge") ![](img/mwc4k2026-badge-2nd.png "MWC 4K 2026 2nd-place badge") ![](img/mwc4k2026-badge-3rd.png "MWC 4K 2026 3rd-place badge")
+
+## Podium
+
+![](img/mwc4k2026-podium.jpg "MWC 4K 2026 podium")
+
 ## Organisation
 
-The osu!mania 4K World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team) and various community members.
+The osu!mania 4K World Cup 2026 was run by the [osu! team](/wiki/People/osu!_team) and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -63,7 +69,6 @@ The osu!mania 4K World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team
 - [Challonge bracket](https://challonge.com/MWC4K2026)
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/57)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/201) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
-- [Support your country with a profile banner](https://osu.ppy.sh/store/products/1760)
 
 ## Participants
 
@@ -125,24 +130,27 @@ Captains are listed in **bold**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e45337b779dd7a2db8e4d047bed7f5fd).
 
-## Match schedule: Grand Finals
-
-### Saturday, 26 September 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |  |
-| :-: | --: | :-- | :-- | :-: | :-: |
-| 61 | United States ::{ flag=US }:: | ::{ flag=CN }:: China | [Sep 26 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260926T150000&p1=1440&p2=263&p3=33) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-
-### Sunday, 27 September 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |  |
-| :-: | --: | :-- | :-- | :-: | :-: |
-| 62b | South Korea ::{ flag=KR }:: | ::{ flag=CN }:: China | [Sep 27 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260927T120000&p1=1440&p2=235&p3=33) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 62a | South Korea ::{ flag=KR }:: | ::{ flag=US }:: United States | [Sep 27 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260927T150000&p1=1440&p2=235&p3=263) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-
 ## Match results
 
+### Grand Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1Obh7oMg8eUEGQQSCFMwsSqNc9HWnbrwBmOwMr05-Htw?rm=minimal).
+
+Saturday, 26 September 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 61 | **United States** ::{ flag=US }:: | **7** | 4 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/121920931) | [#1](https://www.twitch.tv/videos/2884659067) |
+
+Sunday, 27 September 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 62a | **South Korea** ::{ flag=KR }:: | **7** | 3 | ::{ flag=US }:: United States | [#1](https://osu.ppy.sh/community/matches/121927220) | [#1](https://www.twitch.tv/videos/2885635576) |
+
 ### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1ZqfUEgydWtT5BZ6uX3Ojvp0B89nJZRiVJT-UsxOWgpo?rm=minimal).
 
 Wednesday, 16 September 2026:
 
@@ -347,7 +355,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ### Grand Finals
 
-**[Download the mappack here (245 MB)](https://packs.ppy.sh/S1871%20-%20osu!%20Beatmap%20Pack%20%231871.zip)**\
+**[Download the mappack here (245 MB)](https://packs.ppy.sh/P338%20-%20osu%21mania%204K%20World%20Cup%202026%3A%20Grand%20Finals.zip?1790036126)**\
 [Watch the showcase VOD here](https://www.twitch.tv/videos/2879618105)
 
 - Rice
@@ -659,7 +667,5 @@ The weights for the Qualifiers are as follows:
 
 ## Notes
 
-[^losers-bracket]: Losers bracket Grand Finals match
-[^winners-bracket]: Grand Finals match – final matchup depends on the winner of the preceding Losers bracket match
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rank sum
