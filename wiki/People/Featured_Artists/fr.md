@@ -62,6 +62,7 @@ La [page du groupe des Featured Artist](https://osu.ppy.sh/groups/35) répertori
 | ::{ flag=JP }:: [7\_7](https://osu.ppy.sh/users/7491106) | [7\_7](https://osu.ppy.sh/beatmaps/artists/356) |
 | ::{ flag=JP }:: [A\_\_](https://osu.ppy.sh/users/12011880) | [A?](https://osu.ppy.sh/beatmaps/artists/173) |
 | ::{ flag=US }:: [Absolute Zero](https://osu.ppy.sh/users/4847256) | [0 K](https://osu.ppy.sh/beatmaps/artists/424) |
+| ::{ flag=IL }:: [adamyes](https://osu.ppy.sh/users/11554822) | [adamyes](https://osu.ppy.sh/beatmaps/artists/571) |
 | ::{ flag=US }:: [Akiri](https://osu.ppy.sh/users/19587411) | [Akiri](https://osu.ppy.sh/beatmaps/artists/401) |
 | ::{ flag=CL }:: [akts](https://osu.ppy.sh/users/6309660) | [Akts](https://osu.ppy.sh/beatmaps/artists/513) |
 | ::{ flag=US }:: [antiPLUR](https://osu.ppy.sh/users/7318723) | [antiPLUR / Internet Death Machine](https://osu.ppy.sh/beatmaps/artists/24) |
