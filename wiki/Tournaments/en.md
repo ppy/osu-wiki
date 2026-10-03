@@ -303,7 +303,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [National Dutch Championship 2023](NDC/2023) | 2023-01-08 | 2023-03-12 | [Lilily](https://osu.ppy.sh/users/6502403) | [Burning John](https://osu.ppy.sh/users/6744123) | [luciano](https://osu.ppy.sh/users/11604978) |
 | [National Dutch Championship 2024](NDC/2024) | 2024-08-05 | 2024-10-13 | [Aheo](https://osu.ppy.sh/users/14919428) | [Burning John](https://osu.ppy.sh/users/6744123) | [luciano](https://osu.ppy.sh/users/11604978) |
 | [National Dutch Championship 2025](NDC/2025) | 2025-08-09 | 2025-10-12 | [Aheo](https://osu.ppy.sh/users/14919428) | [Tutel](https://osu.ppy.sh/users/12241010) | [John ethken](https://osu.ppy.sh/users/641155) |
-| [National Dutch Championship 2026](NDC/2026) | 2026-08-08 | 2026-10-12 | TBD | TBD | TBD |
+| [National Dutch Championship 2026](NDC/2026) | 2026-08-08 | 2026-10-12 | *TBD* | *TBD* | *TBD* |
 
 #### [nik's Tournaments](NT)
 
@@ -543,7 +543,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [UK Community Cup 10](UKCC/10) | 2021-09-11 | 2021-10-31 | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) | ::{ flag=GB }:: [majoreh](https://osu.ppy.sh/users/7959222) | ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) |
 | [UK Community Cup 11](UKCC/11) | 2022-01-23 | 2022-04-03 | Luciano Fan Club | denial piano | The |
 | [UK Community Cup 12](UKCC/12) | 2023-03-18 | 2023-04-30 | ::{ flag=GB }:: [Accolibed](https://osu.ppy.sh/users/9269034) | ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) | ::{ flag=GB }:: [rudj](https://osu.ppy.sh/users/11592896) |
-| [UK Community Cup 13](UKCC/13) | 2025-06-08 | 2025-07-27 | *tbd* | *tbd* | *tbd* |
+| [UK Community Cup 13](UKCC/13) | 2025-06-08 | 2025-07-27 | *TBD* | *TBD* | *TBD* |
 
 #### [Ulat Bulu Cup](UCUP)
 
