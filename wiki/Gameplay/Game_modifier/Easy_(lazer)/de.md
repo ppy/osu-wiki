@@ -58,7 +58,7 @@ In osu!catch werden die [Circle-Size](/wiki/Beatmap/Circle_size), die [HP-Drain-
 
 ### ![][osu!mania] osu!mania
 
-In osu!mania wird die [HP-Drain-Rate](/wiki/Beatmap/HP_drain_rate) halbiert, während die Zeitfenster etwa 40 % weniger streng werden.
+In osu!mania wird die [HP-Drain-Rate](/wiki/Beatmap/HP_drain_rate) halbiert, während die Zeitfenster etwa 40 % kulanter werden.
 
 ## Personalisierung
 
@@ -66,7 +66,7 @@ In osu!mania wird die [HP-Drain-Rate](/wiki/Beatmap/HP_drain_rate) halbiert, wä
 
 Diese Mod kann in allen Spielmodi außer osu!taiko personalisiert werden.
 
-- `Zusätzliche Leben` (0–10, Standard: 2): Die Anzahl zusätzlicher Leben beim Starten einer Beatmap.
+- `Zusätzliche Leben` (0 bis 10, Standard: 2): Die Anzahl zusätzlicher Leben beim Starten einer Beatmap.
 
 Wenn du die Anzahl zusätzlicher Leben veränderst, werden deine Scores **nicht bewertet**.
 
