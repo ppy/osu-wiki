@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: adamyes"
-date: 2026-10-03 18:00:00 +0000
+date: 2026-10-03 21:00:00 +0000
 series: featured_artists
 ---
 
