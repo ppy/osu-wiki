@@ -307,7 +307,7 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | [National Dutch Championship 2023](NDC/2023) | 08/01/2023 | 12/03/2023 | [Lilily](https://osu.ppy.sh/users/6502403) | [Burning John](https://osu.ppy.sh/users/6744123) | [luciano](https://osu.ppy.sh/users/11604978) |
 | [National Dutch Championship 2024](NDC/2024) | 05/08/2024 | 13/10/2024 | [Aheo](https://osu.ppy.sh/users/14919428) | [Burning John](https://osu.ppy.sh/users/6744123) | [luciano](https://osu.ppy.sh/users/11604978) |
 | [National Dutch Championship 2025](NDC/2025) | 09/08/2025 | 12/10/2025 | [Aheo](https://osu.ppy.sh/users/14919428) | [Tutel](https://osu.ppy.sh/users/12241010) | [John ethken](https://osu.ppy.sh/users/641155) |
-| [National Dutch Championship 2026](NDC/2026) | 08/08/2026 | 12/10/2026 | À déterminé | À déterminé | À déterminé |
+| [National Dutch Championship 2026](NDC/2026) | 08/08/2026 | 12/10/2026 | *À déterminé* | *À déterminé* | *À déterminé* |
 
 #### [nik's Tournaments](NT)
 
