@@ -11,7 +11,7 @@ osu! player, multi-instrumentalist, Vocaloid appreciator, and producer of top-ti
 
 Taking the leap from an avid music listener to a prolific music producer isn't easy, but for guitarist/bassist/drummer **adamyes**, it was inevitable.
 
-After closely following J-Pop and Vocaloid scenes, **adamyes** took the plunge and began releasing his own tunes, drawing influence from some familiar names like *ZUTOMAYO*, *Ado*, *Sasakure.UK* and *DECO\*27*.
+After closely following J-pop and Vocaloid scenes, **adamyes** took the plunge and began releasing his own tunes, drawing influence from some familiar names like *ZUTOMAYO*, *Ado*, *Sasakure.UK* and *DECO\*27*.
 
 **4** of those tracks indefinitely live on [**adamyes**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/571) as pre-timed `.osz` files! Preview them, download whichever sounds like it'd make for a cool map, you know the drill.
 
