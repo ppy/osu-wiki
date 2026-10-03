@@ -446,7 +446,7 @@ The final standings for the Qualifier stage can be found in the [following sprea
    - Users responsible for organising their country's tryouts are encouraged to contact ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264) or ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) in advance to be elected as provisional captains for their team.
    - Captains are allowed to include up to 2 substitute players in their team submission. These substitute players may replace any players that get screened out.
    - **Teams that do not not send their team list by January 26, 23:59 UTC will be disqualified from the tournament.**
-4. After the team submission phase, all selected players will be checked by the [account support team](/wiki/People/Account_support_team) through [screening](/wiki/Tournaments/Official_support#tournament-screening).
+4. After the team submission phase, all selected players will be checked by the [account support team](/wiki/People/Account_support_team) through [screening](/wiki/Tournaments/Official_support#screening).
    - Players must not have violated the [osu! community rules](/wiki/Rules) within the last 12 months to pass the screening.
 5. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators and streamers.
 
