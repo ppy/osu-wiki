@@ -50,7 +50,8 @@ The COE 2026 1v1 Tournament offered a total cash prize pool of 4900€, keyboard
 ## Links
 
 - **[Information sheet](https://docs.google.com/spreadsheets/d/1OUw0gzwpIqKqqX7u40DnEMVVLAAE2KdxmSjaiiogRBM/edit?gid=717614054#gid=717614054)**
-- [COE website](https://cavoe.events)
+- [COE Qualifiers Playlist](https://osu.ppy.sh/multiplayer/rooms/3302305)
+- [COE Website](https://cavoe.events)
 - [Livestream](https://twitch.tv/coevent)
 - [COE Discord server](https://discord.com/invite/d6ru6PVcSY)
 - [COE 1v1 Tournament Discord server](https://discord.gg/zJ7e6cTVFh)
