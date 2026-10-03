@@ -956,7 +956,7 @@ Dieser Artikel listet alle Showcase-Beatmaps auf, die im Laufe der Zeit von Mitg
 
 ## Geschichte
 
-Von Anfang an war es eins der wesentlichen Ziele der Mappers' Guild, Beatmap-Pakete zu erstellen um kommende Featured Artists zu bewerben.<!-- https://osu.ppy.sh/community/forums/topics/875743 --> Dies spiegelte sich in ihrem ersten großen Projekt wider, in dem Mitglieder sechs Beatmaps von [lizenzierten MOtOLOiD-Songs](https://osu.ppy.sh/beatmaps/artists/19) lange vor der [zugehörigen Ankündigung des Künstlers](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid) vorbereitet und gerankt haben.
+Von Anfang an war es eins der wesentlichen Ziele der Mappers' Guild, Beatmap-Pakete zu erstellen, um kommende Featured Artists zu bewerben.<!-- https://osu.ppy.sh/community/forums/topics/875743 --> Dies spiegelte sich in ihrem ersten großen Projekt wider, in dem Mitglieder sechs Beatmaps von [lizenzierten MOtOLOiD-Songs](https://osu.ppy.sh/beatmaps/artists/19) lange vor der [zugehörigen Ankündigung des Künstlers](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid) vorbereitet und gerankt haben.
 
 Da man der Mappers' Guild in ihrer Anfangszeit nur über ein geschlossenes Bewerbungsverfahren beitreten konnte, war der Zugang zu bevorstehenden Inhalten der Featured Artists oft einer Handvoll Mapper vorbehalten, die überwiegend im Spielmodus [osu!](/wiki/Game_mode/osu!) aktiv waren. Mit der Umstellung auf ein offenes und automatisiertes Zugangssystem [im März 2019](/wiki/History_of_osu!/Mapping_and_modding_timeline#march.5) wurden mit der Zeit jedoch immer mehr Mapper unabhängig von ihrem Spielmodus für die Erstellung von Showcase-Beatmaps für zukünftige Featured Artists gewonnen.
 
