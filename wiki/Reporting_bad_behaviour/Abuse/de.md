@@ -28,7 +28,7 @@ Blockiere den Benutzer sofort, indem du mit der rechten Maustaste auf seinen Ben
 
 Du solltest ihn auch sofort melden, indem du auf die Schaltfläche `Benutzer melden...` oder `Melden` klickst und danach die Eingabefelder ausfüllst.
 
-**Sofern du nicht in osu!(lazer) spielst**, kannst den Beitrag auch melden, indem du `!report <Person> <Problem>` eingibst, wobei `<Person>` der Benutzername der Person ist, welche dir Probleme bereitet, und `<Problem>` eine kurze Erklärung darstellt. Falls der Benutzername dieser Person Leerzeichen enthält, ersetze diese bitte durch Unterstriche (`_`).
+**Sofern du nicht in osu!(lazer) spielst**, kannst du den Beitrag auch melden, indem du `!report <Person> <Problem>` eingibst, wobei `<Person>` der Benutzername der Person ist, welche dir Probleme bereitet, und `<Problem>` eine kurze Erklärung darstellt. Falls der Benutzername dieser Person Leerzeichen enthält, ersetze diese bitte durch Unterstriche (`_`).
 
 Wenn du der Meinung bist, dass die Bemerkungen/Annäherungen höchst unangemessen waren, es nicht das erste Mal ist, dass der Benutzer dir gegenüber unangemessene Bemerkungen gemacht hat, oder wenn du minderjährig bist, sende bitte eine E-Mail an [abuse@ppy.sh](mailto:abuse@ppy.sh), die so viele Informationen wie möglich enthält.
 
@@ -86,7 +86,7 @@ Sende eine E-Mail an [abuse@ppy.sh](mailto:abuse@ppy.sh), die alles enthält, wa
 
 Falls du keine Beweise hast, sondern nur Geschichten oder Gerüchte, von denen du glaubst, dass sie stichhaltig genug sind, um darauf zu reagieren, sende uns bitte trotzdem eine E-Mail. Wir nehmen Beschwerden wie diese sehr ernst und werden jeden Bericht eingehend prüfen.
 
-## Ich denke, ich have mich gegenüber jemandem unangemessen verhalten und möchte es zugeben {id=own-misconduct}
+## Ich denke, ich habe mich gegenüber jemandem unangemessen verhalten und möchte es zugeben {id=own-misconduct}
 
 Sende eine E-Mail an [accounts@ppy.sh](mailto:accounts@ppy.sh), in der du dein Verhalten beschreibst, das du für unangemessen hältst. Füge so viele Screenshots und Chatverläufe bei wie du kannst, und versuche zu erklären, warum das Verhalten unangemessen gewesen sein könnte, falls das nicht sofort klar ist.
 
