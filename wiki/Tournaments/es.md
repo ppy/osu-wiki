@@ -131,7 +131,7 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | 3 Digit World Cup 2023 | 17/2/2023 | 30/4/2023 | ::{ flag=KR }:: Corea del Sur | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: Estados Unidos |
 | 3 Digit World Cup 2024 | 25/12/2023 | 10/3/2024 | ::{ flag=KR }:: Corea del Sur | ::{ flag=US }:: Estados Unidos | ::{ flag=BR }:: Brasil |
 | [3 Digit World Cup 2025](3WC/2025) | 28/12/2024 | 16/3/2024 | ::{ flag=KR }:: Corea del Sur | ::{ flag=US }:: Estados Unidos | ::{ flag=DE }:: Alemania |
-| [3 Digit World Cup 2026](3WC/2026) | 11/01/2026 | 29/03/2026 | ::{ flag=US }:: Estados Unidos | ::{ flag=HK }:: Hong Kong | ::{ flag=KR }:: Corea del Sur |
+| [3 Digit World Cup 2026](3WC/2026) | 11/1/2026 | 29/3/2026 | ::{ flag=US }:: Estados Unidos | ::{ flag=HK }:: Hong Kong | ::{ flag=KR }:: Corea del Sur |
 
 #### [4 Digit World Cup](4WC)
 
