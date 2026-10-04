@@ -22,7 +22,7 @@ Because of this, this list only includes players who have reached rank #1 on the
 
 ::: alert-notice
 **Notice**
-osu!catch recieved a full global leaderboard reset on 7 December 2008, scores from before this date are no longer available.
+osu!catch received a full global leaderboard reset on 7 December 2008, scores from before this date are no longer available.
 :::
 
 <!-- TODO: Further research into the Ranked Score and ppv1 leaderboards.
