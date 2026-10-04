@@ -37,6 +37,10 @@ osu!catch 世界杯 2026 提供 2000 美元奖金池和限定版周边。依靠�
 
 ![](img/cwc2026-badge-1st.png "CWC 2026 冠军徽章") ![](img/cwc2026-badge-2nd.png "CWC 2026 亚军徽章") ![](img/cwc2026-badge-3rd.png "CWC 2026 季军徽章")
 
+## 领奖台
+
+![](img/cwc2026-podium.jpg "CWC 2026 领奖台")
+
 ## 组织
 
 osu!catch 世界杯 2026 由多位社区成员组织。
@@ -117,10 +121,6 @@ osu!catch 世界杯 2026 由多位社区成员组织。
 队长**加粗**表示。
 
 完整的报名表存储在[这里](https://gist.github.com/LeoFLT/e99153d582c530823a55fa1beef737ec)。
-
-## 领奖台
-
-![](img/cwc2026-podium.jpg "CWC 2026 领奖台")
 
 ## 比赛结果
 

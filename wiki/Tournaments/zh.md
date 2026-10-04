@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 16e65eec08567f086caf6e797c4d180c4868c5ec
----
-
 # 锦标赛
 
 本页面展示锦标赛。锦标赛有专门的论坛，可以通过[此链接](https://osu.ppy.sh/community/forums/55)找到。
@@ -33,6 +28,7 @@ outdated_since: 16e65eec08567f086caf6e797c4d180c4868c5ec
 | [osu! 世界杯 2023](OWC/2023) | 2023-10-21 | 2023-12-03 | ::{ flag=US }:: 美国 | ::{ flag=KR }:: 韩国 | ::{ flag=AU }:: 澳洲 |
 | [osu! 世界杯 2024](OWC/2024) | 2024-10-26 | 2024-12-08 | ::{ flag=KR }:: 韩国 | ::{ flag=US }:: 美国 | ::{ flag=AU }:: 澳洲 |
 | [osu! 世界杯 2025](OWC/2025) | 2025-10-25 | 2025-12-14 | ::{ flag=PL }:: 波兰 | ::{ flag=US }:: 美国 | ::{ flag=AU }:: 澳洲 |
+| [osu! 世界杯 2026](OWC/2026) | 2026-10-25 | 2026-12-13 | *待定* | *待定* | *待定* |
 
 ### ![](/wiki/shared/mode/taiko.png) [osu!taiko 世界杯](TWC)
 
@@ -101,7 +97,7 @@ outdated_since: 16e65eec08567f086caf6e797c4d180c4868c5ec
 | [osu!mania 7K 世界杯 2025](MWC/2025_7K) | 2024-12-12 | 2025-02-23 | ::{ flag=KR }:: 韩国 | ::{ flag=CN }:: 中国 | ::{ flag=PH }:: 菲律宾 |
 | [osu!mania 4K 世界杯 2025](MWC/2025_4K) | 2025-07-17 | 2025-09-28 | ::{ flag=US }:: 美国 | ::{ flag=KR }:: 韩国 | ::{ flag=CN }:: 中国 |
 | [osu!mania 7K 世界杯 2026](MWC/2026_7K) | 2025-12-11 | 2026-02-22 | ::{ flag=KR }:: 韩国 | ::{ flag=PH }:: 菲律宾 | ::{ flag=JP }:: 日本 |
-| [osu!mania 4K 世界杯 2026](MWC/2026_4K) | 2026-07-16 | 2026-09-27 | *待定* | *待定* | *待定* |
+| [osu!mania 4K 世界杯 2026](MWC/2026_4K) | 2026-07-16 | 2026-09-27 | ::{ flag=KR }:: 韩国 | ::{ flag=US }:: 美国 | ::{ flag=CN }:: 中国 |
 
 ## 社区锦标赛
 
@@ -293,6 +289,21 @@ outdated_since: 16e65eec08567f086caf6e797c4d180c4868c5ec
 | Mirai. osu! Winter Festival 2017/2018 | 2017-10-05 | 2018-02-24 | :thonking: | Decay II | FX\_POWER |
 | Mirai. Idol Tournament 2019 | 2019-04-01 | 2019-05-21 | Drift% | MAC901 | Traitorpulse |
 | [Mirai. Tournament 2020](Mirai/2020) | 2020-04-06 | 2020-06-23 | Norank MaMa <3 U | Uprankers | Salted\_Fish |
+
+#### [National Dutch Championship](NDC)
+
+| 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Dutch osu! Cup 2017 | 2017-03-11 | 2017-05-07 | [Lazer](https://osu.ppy.sh/users/1799925) | [Yura Rin](https://osu.ppy.sh/users/2574658) | [Pittigbaasje](https://osu.ppy.sh/users/2167433) |
+| Dutch osu! Cup 2018 | 2018-03-10 | 2018-05-13 | [jackylam5](https://osu.ppy.sh/users/1540807) | [Viveliam](https://osu.ppy.sh/users/3506793) | [Damnjelly](https://osu.ppy.sh/users/1666355) |
+| Dutch osu! Cup 2019 | 2019-02-20 | 2019-05-05 | [Lilily](https://osu.ppy.sh/users/6502403) | [Skyrovania](https://osu.ppy.sh/users/4696315) | [Yura Rin](https://osu.ppy.sh/users/2574658) |
+| Dutch osu! Cup 2020 | 2020-04-12 | 2020-05-03 | [Viveliam](https://osu.ppy.sh/users/3506793) | [Skyrovania](https://osu.ppy.sh/users/4696315) | [sunui](https://osu.ppy.sh/users/3065571) |
+| Dutch osu! Cup 2021 | 2021-03-01 | 2021-05-09 | [Skyrovania](https://osu.ppy.sh/users/4696315) | [Viveliam](https://osu.ppy.sh/users/3506793) | [Kushper](https://osu.ppy.sh/users/4832514) |
+| [National Dutch Championship 2022](NDC/2022) | 2021-12-13 | 2022-02-27 | [Viveliam](https://osu.ppy.sh/users/3506793) | [Lilily](https://osu.ppy.sh/users/6502403) | [Skyrovania](https://osu.ppy.sh/users/4696315) |
+| [National Dutch Championship 2023](NDC/2023) | 2023-01-08 | 2023-03-12 | [Lilily](https://osu.ppy.sh/users/6502403) | [Burning John](https://osu.ppy.sh/users/6744123) | [luciano](https://osu.ppy.sh/users/11604978) |
+| [National Dutch Championship 2024](NDC/2024) | 2024-08-05 | 2024-10-13 | [Aheo](https://osu.ppy.sh/users/14919428) | [Burning John](https://osu.ppy.sh/users/6744123) | [luciano](https://osu.ppy.sh/users/11604978) |
+| [National Dutch Championship 2025](NDC/2025) | 2025-08-09 | 2025-10-12 | [Aheo](https://osu.ppy.sh/users/14919428) | [Tutel](https://osu.ppy.sh/users/12241010) | [John ethken](https://osu.ppy.sh/users/641155) |
+| [National Dutch Championship 2026](NDC/2026) | 2026-08-08 | 2026-10-12 | *待定* | *待定* | *待定* |
 
 #### [nik's Tournaments](NT)
 
@@ -532,7 +543,7 @@ outdated_since: 16e65eec08567f086caf6e797c4d180c4868c5ec
 | [UK Community Cup 10](UKCC/10) | 2021-09-11 | 2021-10-31 | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) | ::{ flag=GB }:: [majoreh](https://osu.ppy.sh/users/7959222) | ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) |
 | [UK Community Cup 11](UKCC/11) | 2022-01-23 | 2022-04-03 | Luciano Fan Club | denial piano | The |
 | [UK Community Cup 12](UKCC/12) | 2023-03-18 | 2023-04-30 | ::{ flag=GB }:: [Accolibed](https://osu.ppy.sh/users/9269034) | ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) | ::{ flag=GB }:: [rudj](https://osu.ppy.sh/users/11592896) |
-| [UK Community Cup 13](UKCC/13) | 2025-06-08 | 2025-07-27 | *tbd* | *tbd* | *tbd* |
+| [UK Community Cup 13](UKCC/13) | 2025-06-08 | 2025-07-27 | *待定* | *待定* | *待定* |
 
 #### [Ulat Bulu Cup](UCUP)
 
@@ -658,7 +669,7 @@ outdated_since: 16e65eec08567f086caf6e797c4d180c4868c5ec
 
 | 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Project Prism 2024](Project_Prism/2024) | 2024-05-11 | 2024-06-30 | *TBD* | *TBD* | *TBD* |
+| [Project Prism 2024](Project_Prism/2024) | 2024-05-11 | 2024-06-30 | *待定* | *待定* | *待定* |
 
 #### [Taiko Convert Tournament](TCT)
 
@@ -892,7 +903,7 @@ outdated_since: 16e65eec08567f086caf6e797c4d180c4868c5ec
 | [Jaye's One Key Event 3: paradigm//SHIFT](JOKE/3) | 2023-10-28 | 2023-12-17 | ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) | ::{ flag=JP }:: [hz404](https://osu.ppy.sh/users/14947043) | ::{ flag=US }:: [\[LS\]Ham](https://osu.ppy.sh/users/17523947) |
 | [One Key World Cup 2024](JOKE/1KWC_2024) | 2024-05-04 | 2024-06-16 | ::{ flag=JP }:: 日本 | ::{ flag=GB }:: 英国 | ::{ flag=AU }:: 澳洲 A |
 | [One Key World Cup 2025](JOKE/1KWC_2025) | 2025-04-26 | 2025-06-08 | ::{ flag=JP }:: 日本 | ::{ flag=US }:: 美国 | ::{ flag=GB }:: 英国 |
-| [Jaye's One Key Event 4: The Great Escape](JOKE/4) | 2025-10-25 | 2025-12-07 | *TBD* | *TBD* | *TBD* |
+| [Jaye's One Key Event 4: The Great Escape](JOKE/4) | 2025-10-25 | 2025-12-07 | *待定* | *待定* | *待定* |
 
 #### [Mania Beginner's Showdown](MBS)
 

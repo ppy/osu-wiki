@@ -61,6 +61,7 @@ The [Featured Artist group page](https://osu.ppy.sh/groups/35) lists all such ac
 | ::{ flag=JP }:: [7\_7](https://osu.ppy.sh/users/7491106) | [7\_7](https://osu.ppy.sh/beatmaps/artists/356) |
 | ::{ flag=JP }:: [A\_\_](https://osu.ppy.sh/users/12011880) | [A?](https://osu.ppy.sh/beatmaps/artists/173) |
 | ::{ flag=US }:: [Absolute Zero](https://osu.ppy.sh/users/4847256) | [0 K](https://osu.ppy.sh/beatmaps/artists/424) |
+| ::{ flag=IL }:: [adamyes](https://osu.ppy.sh/users/11554822) | [adamyes](https://osu.ppy.sh/beatmaps/artists/571) |
 | ::{ flag=US }:: [Akiri](https://osu.ppy.sh/users/19587411) | [Akiri](https://osu.ppy.sh/beatmaps/artists/401) |
 | ::{ flag=CL }:: [akts](https://osu.ppy.sh/users/6309660) | [Akts](https://osu.ppy.sh/beatmaps/artists/513) |
 | ::{ flag=US }:: [antiPLUR](https://osu.ppy.sh/users/7318723) | [antiPLUR / Internet Death Machine](https://osu.ppy.sh/beatmaps/artists/24) |
@@ -85,6 +86,7 @@ The [Featured Artist group page](https://osu.ppy.sh/groups/35) lists all such ac
 | ::{ flag=KR }:: [Down](https://osu.ppy.sh/users/4694602) | [Down](https://osu.ppy.sh/beatmaps/artists/350) |
 | ::{ flag=US }:: [Elzy](https://osu.ppy.sh/users/7521394) | [Dvwnpour](https://osu.ppy.sh/beatmaps/artists/503) |
 | ::{ flag=US }:: [erikmcclure](https://osu.ppy.sh/users/19898921) | [Erik McClure](https://osu.ppy.sh/beatmaps/artists/125) |
+| ::{ flag=JP }:: [exsy_nanzya-](https://osu.ppy.sh/users/8937324) | [Exsy](https://osu.ppy.sh/beatmaps/artists/568) |
 | ::{ flag=CA }:: [exyl_sounds](https://osu.ppy.sh/users/16759928) | [Exyl](https://osu.ppy.sh/beatmaps/artists/285) |
 | ::{ flag=GR }:: [Geoxor](https://osu.ppy.sh/users/8112146) | [Geoxor](https://osu.ppy.sh/beatmaps/artists/133) |
 | ::{ flag=NL }:: [happy30](https://osu.ppy.sh/users/27767) | [happy30](https://osu.ppy.sh/beatmaps/artists/317) |
