@@ -65,7 +65,7 @@ States **before the first [drain time](/wiki/Beatmap/Drain_time)** (e.g., before
 
 States during **drain time** (when the player is expected to click on objects to keep the health bar from draining):
 
-- Pass State if this is the first [combo colour](/wiki/Beatmapping/Combo_colour) or if the previous [combo](/wiki/Beatmapping/Combo) ended with a [Geki](/wiki/Gameplay/Judgement/Geki).
+- Pass State if this is the first [combo](/wiki/Beatmapping/Combo) or if the previous combo ended with a [Geki](/wiki/Gameplay/Judgement/Geki).
 - Fail State otherwise. Note that there is no state for just [Katu](/wiki/Gameplay/Judgement/Katu), unlike in the DS games (which had three states).
   - In [osu!taiko](/wiki/Game_mode/osu!taiko), Fail State if the player missed the last note, Pass State otherwise.
   - In [osu!catch](/wiki/Game_mode/osu!catch), it is always the state of the previous break. The first playable section will always be Pass State.
