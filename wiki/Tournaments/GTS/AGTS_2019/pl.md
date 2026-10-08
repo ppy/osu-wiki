@@ -375,22 +375,22 @@ Niedziela, 18 sierpnia 2019 roku:
 | B1 | **Argentyna** ::{ flag=AR }:: | **5** | 2 | ::{ flag=HK }:: Hongkong | [#1](https://osu.ppy.sh/community/matches/54160229) |
 | B3 | **Japonia** ::{ flag=JP }:: | **5** | 3 | ::{ flag=AR }:: Argentyna | [#1](https://osu.ppy.sh/community/matches/54161382) |
 | B4 | Hongkong ::{ flag=HK }:: | 0 | **5** | ::{ flag=CL }:: **Chile** | [#1](https://osu.ppy.sh/community/matches/54161391) |
-| F2 | Indonezja B ::{ flag=ID }:: | 0 | **5** | ::{ flag=CA }:: **Kanada** | -win by default- |
+| F2 | Indonezja B ::{ flag=ID }:: | 0 | **5** | ::{ flag=CA }:: **Kanada** | -automatyczne zwycięstwo- |
 | B6 | Hongkong ::{ flag=HK }:: | 1 | **5** | ::{ flag=JP }:: **Japonia** | [#1](https://osu.ppy.sh/community/matches/54165254) |
 | F4 | **Indonezja A** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: Indonezja B | [#1](https://osu.ppy.sh/community/matches/54168881) |
 | A3 | **Polska** ::{ flag=PL }:: | **5** | 1 | ::{ flag=RU }:: Rosja B | [#1](https://osu.ppy.sh/community/matches/54168865) |
 | D5 | Brazylia ::{ flag=BR }:: | 2 | **5** | ::{ flag=RU }:: **Rosja A** | [#1](https://osu.ppy.sh/community/matches/54168668) |
 | A4 | **Filipiny** ::{ flag=PH }:: | **5** | 0 | ::{ flag=MY }:: Malezja | [#1](https://osu.ppy.sh/community/matches/54170118) |
 | C2 | Tajwan ::{ flag=TW }:: | 0 | **5** | ::{ flag=NL }:: **Holandia** | [#1](https://osu.ppy.sh/community/matches/54169919) |
-| E2 | Wenezuela ::{ flag=VE }:: | 0 | **5** | ::{ flag=KR }:: **Korea Południowa** | -win by default- |
+| E2 | Wenezuela ::{ flag=VE }:: | 0 | **5** | ::{ flag=KR }:: **Korea Południowa** | -automatyczne zwycięstwo- |
 | E3 | **Korea Południowa** ::{ flag=KR }:: | **5** | 2 | ::{ flag=DE }:: Niemcy A | [#1](https://osu.ppy.sh/community/matches/54171395) |
 | F1 | Wielka Brytania/Portugalia ::{ flag=GB }:: ::{ flag=PT }:: | 4 | **5** | ::{ flag=ID }:: **Indonezja A** | [#1](https://osu.ppy.sh/community/matches/54171441) |
 | A2 | Malezja ::{ flag=MY }:: | 0 | **5** | ::{ flag=PL }:: **Polska** | [#1](https://osu.ppy.sh/community/matches/54171560) |
 | D3 | Stany Zjednoczone A ::{ flag=US }:: | 2 | **5** | ::{ flag=RU }:: **Rosja A** | [#1](https://osu.ppy.sh/community/matches/54171222) |
 | C3 | **Holandia** ::{ flag=NL }:: | **5** | 1 | ::{ flag=FR }:: Francja | [#1](https://osu.ppy.sh/community/matches/54173902) |
 | D4 | Stany Zjednoczone B ::{ flag=US }:: | 4 | **5** | ::{ flag=BR }:: **Brazylia** | [#1](https://osu.ppy.sh/community/matches/54175298) |
-| E4 | **Scandinavia** ::{ flag=DK }:: ::{ flag=NO }:: ::{ flag=SE }:: | **5** | 0 | ::{ flag=VE }:: Wenezuela | -win by default- |
-| E5 | Wenezuela ::{ flag=VE }:: | 0 | **5** | ::{ flag=DE }:: **Niemcy A** | -win by default- |
+| E4 | **Scandinavia** ::{ flag=DK }:: ::{ flag=NO }:: ::{ flag=SE }:: | **5** | 0 | ::{ flag=VE }:: Wenezuela | -automatyczne zwycięstwo- |
+| E5 | Wenezuela ::{ flag=VE }:: | 0 | **5** | ::{ flag=DE }:: **Niemcy A** | -automatyczne zwycięstwo- |
 | D2 | **Brazylia** ::{ flag=BR }:: | **5** | 3 | ::{ flag=US }:: Stany Zjednoczone A | [#1](https://osu.ppy.sh/community/matches/54181034) |
 
 ## Zasady
