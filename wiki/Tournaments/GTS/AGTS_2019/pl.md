@@ -3,62 +3,61 @@ tags:
   - AGTS 2019
   - AGTS
   - GTS
-outdated_translation: true
 ---
 
 # Advanced Global Taiko Showdown 2019
 
-![AGTS 2019 Logo](img/logo.jpg)
+![Logo AGTS 2019](img/logo.jpg)
 
-**Advanced Global Taiko Showdown 2019** (***AGTS 2019***) był turniejem osu!taiko podwójnej eliminacji bazowanym na krajach prowadzonym przez ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) i ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). To była trzecia część serii Global Taiko Showdown.
+**Advanced Global Taiko Showdown 2019** (***AGTS 2019***) był bazowanym na krajach turniejem osu!taiko podwójnej eliminacji prowadzonym przez ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) i ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). Była to trzecia edycja Advanced Global Taiko Showdown oraz część serii Global Taiko Showdown.
 
 ## Harmonogram turnieju
 
-| Event | Czas |
+| Wydarzenie | Data |
 | --: | :-- |
-| Faza Rejestracji | 2019-07-07/2019-07-21 |
-| Live Drawings | 2019-08-04 (15:00 UTC) |
-| Kwalifikacje | 2019-08-10/2019-08-11 |
-| Faza Grupowa | 2019-08-17/2019-08-18 |
-| Ćwierćfinały | 2019-08-24/2019-08-25 |
-| Półfinały | 2019-08-31/2019-09-01 |
-| Finały | 2019-09-07/2019-09-08 |
-| Wielkie Finały | 2019-09-14 |
+| Faza rejestracji | 07.07.2019 - 21.07.2019 |
+| Losowanie grup na żywo | 04.08.2019 (15:00 UTC) |
+| Kwalifikacje | 10.08.2019 - 11.08.2019 |
+| Faza grupowa | 17.08.2019 - 18.08.2019 |
+| Ćwierćfinały | 24.08.2019 - 25.08.2019 |
+| Półfinały | 31.08.2019 - 01.09.2019 |
+| Finały | 07.09.2019 - 08.09.2019 |
+| Wielki finał | 14.09.2019 |
 
 ## Nagrody
 
 | Miejsce | Nagroda(y) |
 | :-: | :-- |
-| ![Złota Korona](/wiki/shared/crown-gold.png "1 miejsce") | Unikalna odznaka profilu, ekskluzywny baner |
-| ![Srebrna Korona](/wiki/shared/crown-silver.png "2 miejsce") | Ekskluzywny baner |
-| ![Brązowa Korona](/wiki/shared/crown-bronze.png "3 miejsce") | Ekskluzywny baner |
+| ![Złota korona](/wiki/shared/crown-gold.png "1 miejsce") | Unikalna odznaka profilowa, ekskluzywny baner drużynowy |
+| ![Srebrna korona](/wiki/shared/crown-silver.png "2 miejsce") | Ekskluzywny baner drużynowy |
+| ![Brązowa korona](/wiki/shared/crown-bronze.png "3 miejsce") | Ekskluzywny baner drużynowy |
 
-![AGTS 2019 Odznaka Zwycięzcy](img/badge.png)
+![Odznaka zwycięzcy AGTS 2019](img/badge.png)
 
 ## Organizacja
 
-Advanced Global Taiko Showdown 2019 był prowadzony przez różnych członków społeczności poprzez podział wielu zadań na różne obszary odpowiedzialności.
+Advanced Global Taiko Showdown 2019 był prowadzony przez różnych członków społeczności.
 
-| Pozycja | Członkowie |
+| Stanowisko | Użytkownicy |
 | :-- | :-- |
-| Menedżer | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
+| Organizatorzy | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
 | Mappoolerzy | ::{ flag=DE }:: [Nepuri](https://osu.ppy.sh/users/6637817), ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097) |
 | Sędziowie | ::{ flag=BR }:: [AnonX32](https://osu.ppy.sh/users/2730270), ::{ flag=US }:: [cheese salad](https://osu.ppy.sh/users/6349821), ::{ flag=US }:: [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ::{ flag=DE }:: [GDLenny](https://osu.ppy.sh/users/8406711), ::{ flag=DE }:: [Heam](https://osu.ppy.sh/users/4705120), ::{ flag=FR }:: [Ladybug](https://osu.ppy.sh/users/4833654), ::{ flag=FR }:: [Ladylag](https://osu.ppy.sh/users/2812098), ::{ flag=FR }:: [Mirthille](https://osu.ppy.sh/users/7548517), ::{ flag=DK }:: [Plaiceholder](https://osu.ppy.sh/users/11910867), ::{ flag=TH }:: [Seaweed](https://osu.ppy.sh/users/5151214), ::{ flag=AU }:: [soliderror](https://osu.ppy.sh/users/10630542), ::{ flag=MY }:: [Stupid Idiot](https://osu.ppy.sh/users/8355574), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ::{ flag=SG }:: [uchuuj1n](https://osu.ppy.sh/users/9140302) |
 | Streamerzy | ::{ flag=BR }:: [AnonX32](https://osu.ppy.sh/users/2730270), ::{ flag=JP }:: [Briesmas](https://osu.ppy.sh/users/2865172), ::{ flag=US }:: [cheese salad](https://osu.ppy.sh/users/6349821), ::{ flag=PL }:: [Deroo](https://osu.ppy.sh/users/8360475), ::{ flag=US }:: [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ::{ flag=FR }:: [Kaeldori](https://osu.ppy.sh/users/962519), ::{ flag=NL }:: [Krekker](https://osu.ppy.sh/users/8265940), ::{ flag=FR }:: [Mirthille](https://osu.ppy.sh/users/7548517) |
 | Komentatorzy | ::{ flag=BR }:: [AnonX32](https://osu.ppy.sh/users/2730270), ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=US }:: [CaptainEChan](https://osu.ppy.sh/users/9536977), ::{ flag=FR }:: [Chernobog](https://osu.ppy.sh/users/3317042), ::{ flag=PL }:: [Deroo](https://osu.ppy.sh/users/8360475), ::{ flag=US }:: [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910), ::{ flag=DE }:: [Heam](https://osu.ppy.sh/users/4705120), ::{ flag=US }:: [kb131313](https://osu.ppy.sh/users/11229259), ::{ flag=US }:: [Tsred](https://osu.ppy.sh/users/2737667), ::{ flag=SG }:: [uchuuj1n](https://osu.ppy.sh/users/9140302) |
-| Designerzy | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Projektant | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
 | Statystycy | ::{ flag=DE }:: [IceDynamix](https://osu.ppy.sh/users/8599070), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=CA }:: [Leadenginger](https://osu.ppy.sh/users/3799991), ::{ flag=MY }:: [Minisora](https://osu.ppy.sh/users/9627666) |
 | Tłumacze | ::{ flag=BR }:: [AnonX32](https://osu.ppy.sh/users/2730270), ::{ flag=KR }:: [BamgoeSN](https://osu.ppy.sh/users/1152851), ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015), ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ::{ flag=PL }:: [Deroo](https://osu.ppy.sh/users/8360475), ::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910), ::{ flag=TW }:: [InfinityAstral](https://osu.ppy.sh/users/9913256), ::{ flag=US }:: [jyake](https://osu.ppy.sh/users/9099822), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Edytor Wiki | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
-| Developer | ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) |
+| Programiści | ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) |
+| Edytor osu! wiki | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
 
-## Links
+## Linki
 
 - [Wątek dyskusyjny](https://osu.ppy.sh/community/forums/topics/931003)
-- [Serwer Discord AGTS](https://discord.gg/zbHVzvF)
-- [Livestream](https://www.twitch.tv/gtsosu)
-- [Challonge brackets](https://challonge.com/AGTS2019)
-- **[Arkusz Statystyk](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit)**
+- [Serwer Discord GTS](https://discord.gg/3mGC3HB)
+- [Transmisja na żywo](https://www.twitch.tv/gtsosu)
+- [Drabinka Challonge](https://challonge.com/AGTS2019)
+- **[Arkusz statystyk](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit)**
 
 ## Uczestnicy
 
@@ -97,7 +96,7 @@ Advanced Global Taiko Showdown 2019 był prowadzony przez różnych członków s
 
 ## Grupy
 
-| Grupa | Top seed | High seed | Low seed | Unseeded |
+| Grupa | Koszyk 1 | Koszyk 2 | Koszyk 3 | Koszyk 4 |
 | :-: | :-- | :-- | :-- | :-- |
 | **A** | ::{ flag=PL }:: Polska | ::{ flag=RU }:: Rosja B | ::{ flag=PH }:: Filipiny | ::{ flag=MY }:: Malezja |
 | **B** | ::{ flag=JP }:: Japonia | ::{ flag=AR }:: Argentyna | ::{ flag=HK }:: Hongkong | ::{ flag=CL }:: Chile |
@@ -108,19 +107,19 @@ Advanced Global Taiko Showdown 2019 był prowadzony przez różnych członków s
 
 ## Podium
 
-Turniej dobiegł końca i wynikiem jest następujące podium:
+Turniej dobiegł końca. Oto końcowe podium:
 
 | Miejsce | Kraj |
 | :-: | :-- |
-| ![Złota Korona](/wiki/shared/crown-gold.png "1 miejsce") | ::{ flag=JP }:: Japonia |
-| ![Srebrna Korona](/wiki/shared/crown-silver.png "2 miejsce") | ::{ flag=CA }:: Kanada |
-| ![Brązowa Korona](/wiki/shared/crown-bronze.png "3 miejsce") | ::{ flag=RU }:: Rosja A |
+| ![Złota korona](/wiki/shared/crown-gold.png "1 miejsce") | ::{ flag=JP }:: Japonia |
+| ![Srebrna korona](/wiki/shared/crown-silver.png "2 miejsce") | ::{ flag=CA }:: Kanada |
+| ![Brązowa korona](/wiki/shared/crown-bronze.png "3 miejsce") | ::{ flag=RU }:: Rosja A |
 
 ## Mappoole
 
-### Wielkie Finały
+### Wielki finał
 
-**[Tutaj pobierzesz paczki map! (86 MB)](https://mega.nz/#!s5sQzABI!BZ2WNuZ13rXisVdUgv2-gdku-4YxAR5IvkRfHqpRrOE)**
+**[Tutaj pobierzesz paczkę map! (86 MB)](https://mega.nz/#!s5sQzABI!BZ2WNuZ13rXisVdUgv2-gdku-4YxAR5IvkRfHqpRrOE)**
 
 - NoMod
   1. [sakuraburst - dragonlands (Faputa) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/935765#taiko/1954961)
@@ -149,7 +148,7 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 
 ### Finały
 
-**[Tutaj pobierzesz paczki map! (102 MB)](https://mega.nz/#!VslyCQQC!OjkCUb9D1DUMskdeyY8OMGefSheh7Ol2hTaGkOJLSkQ)**
+**[Tutaj pobierzesz paczkę map! (102 MB)](https://mega.nz/#!VslyCQQC!OjkCUb9D1DUMskdeyY8OMGefSheh7Ol2hTaGkOJLSkQ)**
 
 - NoMod
   1. [YUC'e - PUMP (KinomiCandy) \[Kinobles & Ozzy's Oni\]](https://osu.ppy.sh/beatmapsets/610546#taiko/1289147)
@@ -178,7 +177,7 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 
 ### Półfinały
 
-**[Tutaj pobierzesz paczki map! (77 MB)](https://mega.nz/#!xoE0iIbD!lJcoplSa3ELqMyn3vgNRHelF8xP93he6DpzoBcQ4qEs)**
+**[Tutaj pobierzesz paczkę map! (77 MB)](https://mega.nz/#!xoE0iIbD!lJcoplSa3ELqMyn3vgNRHelF8xP93he6DpzoBcQ4qEs)**
 
 - NoMod
   1. [Murder King - Ben Her Gun Artik Sen (frukoyurdakul) \[Suistimal\]](https://osu.ppy.sh/beatmapsets/959186#taiko/2008180)
@@ -207,7 +206,7 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 
 ### Ćwierćfinały
 
-**[Tutaj pobierzesz paczki map! (83 MB)](https://mega.nz/#!spkR0agQ!MokudfOpqItg9GU4KnYaD-jRjMLVYctMnBeRmWDtGDA)**
+**[Tutaj pobierzesz paczkę map! (83 MB)](https://mega.nz/#!spkR0agQ!MokudfOpqItg9GU4KnYaD-jRjMLVYctMnBeRmWDtGDA)**
 
 - NoMod
   1. [Function Phantom - Euclid (salchow) \[Green's Fifth Axiom\]](https://osu.ppy.sh/beatmapsets/941145#taiko/2002626)
@@ -233,9 +232,9 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 - Tiebreaker
   1. **[Various Artists - International OTOMAD's 6 (Midnaait) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/424276#taiko/916603)**
 
-### Faza Grupowa
+### Faza grupowa
 
-**[Tutaj pobierzesz paczki map! (96 MB)](https://mega.nz/#!Iw9DFapR!yT-FtB8nk1fXieIln5gP_2tbUOWuxFQKAnj40NVpZHE)**
+**[Tutaj pobierzesz paczkę map! (96 MB)](https://mega.nz/#!Iw9DFapR!yT-FtB8nk1fXieIln5gP_2tbUOWuxFQKAnj40NVpZHE)**
 
 - NoMod
   1. [Kurubukko vs yukitani - Minamichita EVOLVED (Cherry Blossom) \[Ex's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/136632#taiko/342847)
@@ -267,7 +266,7 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 
 ### Kwalifikacje
 
-**[Tutaj pobierzesz paczki map! (20 MB)](https://mega.nz/#!4tsAEabY!800Cnbm5zlWGqErHTN9NvRZ8ieeBAqjrQxKWyvoCS9Q)**
+**[Tutaj pobierzesz paczkę map! (20 MB)](https://mega.nz/#!4tsAEabY!800Cnbm5zlWGqErHTN9NvRZ8ieeBAqjrQxKWyvoCS9Q)**
 
 - NoMod
   1. [kors k - Poochie (Nifty) \[Special\]](https://osu.ppy.sh/beatmapsets/946420#taiko/1976130)
@@ -279,34 +278,44 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 - DoubleTime
   1. [FLOW - Steppin' out (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/933667#taiko/1949159)
 
-## Wyniki Meczy
+## Wyniki meczów
 
-### Wielkie Finały
+### Wielki finał
 
-| Sobota, 2019-09-14 |  |  |  |  |
+Sobota, 14 września 2019 roku:
+
+| Drużyna 1 |  |  | Drużyna 2 | Link do meczu |
 | --: | :-: | :-: | :-- | :-- |
 | **Japonia** ::{ flag=JP }:: | **7** | 1 | ::{ flag=CA }:: Kanada | [#1](https://osu.ppy.sh/community/matches/54839968) |
 
 ### Finały
 
-| Sobota, 2019-09-07 |  |  |  |  |
+Sobota, 7 września 2019 roku:
+
+| Drużyna 1 |  |  | Drużyna 2 | Link do meczu |
 | --: | :-: | :-: | :-- | :-- |
 | **Japonia** ::{ flag=JP }:: | **7** | 1 | ::{ flag=RU }:: Rosja A | [#1](https://osu.ppy.sh/community/matches/54674122) |
 
-| Niedziela, 2019-09-08 |  |  |  |  |
+Niedziela, 8 września 2019 roku:
+
+| Drużyna 1 |  |  | Drużyna 2 | Link do meczu |
 | --: | :-: | :-: | :-- | :-- |
 | Korea Południowa ::{ flag=KR }:: | 4 | **7** | ::{ flag=CA }:: **Kanada** | [#1](https://osu.ppy.sh/community/matches/54691282) |
 | Rosja A ::{ flag=RU }:: | 2 | **7** | ::{ flag=CA }:: **Kanada** | [#1](https://osu.ppy.sh/community/matches/54706574) |
 
 ### Półfinały
 
-| Sobota, 2019-08-31 |  |  |  |  |
+Sobota, 31 sierpnia 2019 roku:
+
+| Drużyna 1 |  |  | Drużyna 2 | Link do meczu |
 | --: | :-: | :-: | :-- | :-- |
 | Indonezja A ::{ flag=ID }:: | 4 | **7** | ::{ flag=JP }:: **Japonia** | [#1](https://osu.ppy.sh/community/matches/54504410) |
 | **Rosja A** ::{ flag=RU }:: | **7** | 2 | ::{ flag=TW }:: Tajwan | [#1](https://osu.ppy.sh/community/matches/54507108) |
 | Argentyna ::{ flag=AR }:: | 4 | **7** | ::{ flag=CA }:: **Kanada** | [#1](https://osu.ppy.sh/community/matches/54515229) |
 
-| Niedziela, 2019-09-01 |  |  |  |  |
+Niedziela, 1 września 2019 roku:
+
+| Drużyna 1 |  |  | Drużyna 2 | Link do meczu |
 | --: | :-: | :-: | :-- | :-- |
 | Tajwan ::{ flag=TW }:: | 1 | **7** | ::{ flag=CA }:: **Kanada** | [#1](https://osu.ppy.sh/community/matches/54521624) |
 | Holandia ::{ flag=NL }:: | 6 | **7** | ::{ flag=KR }:: **Korea Południowa** | [#1](https://osu.ppy.sh/community/matches/54530786) |
@@ -314,7 +323,9 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 
 ### Ćwierćfinały
 
-| Sobota, 2019-08-24 |  |  |  |  |
+Sobota, 24 sierpnia 2019 roku:
+
+| Drużyna 1 |  |  | Drużyna 2 | Link do meczu |
 | --: | :-: | :-: | :-- | :-- |
 | Argentyna ::{ flag=AR }:: | 5 | **6** | ::{ flag=TW }:: **Tajwan** | [#1](https://osu.ppy.sh/community/matches/54305260) |
 | Niemcy A ::{ flag=DE }:: | 0 | **6** | ::{ flag=ID }:: **Indonezja A** | [#1](https://osu.ppy.sh/community/matches/54317268) |
@@ -324,7 +335,9 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 | Polska ::{ flag=PL }:: | 1 | **6** | ::{ flag=ID }:: **Indonezja A** | [#1](https://osu.ppy.sh/community/matches/54320532) |
 | **Kanada** ::{ flag=CA }:: | **6** | 1 | ::{ flag=RU }:: Rosja B | [#1](https://osu.ppy.sh/community/matches/54322599) |
 
-| Niedziela, 2019-08-25 |  |  |  |  |
+Niedziela, 25 sierpnia 2019 roku:
+
+| Drużyna 1 |  |  | Drużyna 2 | Link do meczu |
 | --: | :-: | :-: | :-- | :-- |
 | Korea Południowa ::{ flag=KR }:: | 3 | **6** | ::{ flag=TW }:: **Tajwan** | [#1](https://osu.ppy.sh/community/matches/54334906) |
 | Holandia ::{ flag=NL }:: | 2 | **6** | ::{ flag=RU }:: **Rosja A** | [#1](https://osu.ppy.sh/community/matches/54346880) |
@@ -332,9 +345,11 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 | **Holandia** ::{ flag=NL }:: | **6** | 0 | ::{ flag=BR }:: Brazylia | [#1](https://osu.ppy.sh/community/matches/54349753) |
 | Polska ::{ flag=PL }:: | 0 | **6** | ::{ flag=AR }:: **Argentyna** | [#1](https://osu.ppy.sh/community/matches/54360101) |
 
-### Faza Grupowa
+### Faza grupowa
 
-| Grupa | Sobota, 2019-08-17 |  |  |  |  |
+Sobota, 17 sierpnia 2019 roku:
+
+| Grupa | Drużyna 1 |  |  | Drużyna 2 | Link do meczu |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | C4 | Meksyk ::{ flag=MX }:: | 2 | **5** | ::{ flag=TW }:: **Tajwan** | [#1](https://osu.ppy.sh/community/matches/54132793) |
 | D6 | Stany Zjednoczone B ::{ flag=US }:: | 1 | **5** | ::{ flag=US }:: **Stany Zjednoczone A** | [#1](https://osu.ppy.sh/community/matches/54133753) |
@@ -351,7 +366,9 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 | B5 | Chile ::{ flag=CL }:: | 0 | **5** | ::{ flag=AR }:: **Argentyna** | [#1](https://osu.ppy.sh/community/matches/54153575) |
 | C3 | **Kanada** ::{ flag=CA }:: | **5** | 0 | ::{ flag=GB }:: ::{ flag=PT }:: Wielka Brytania/Portugalia | [#1](https://osu.ppy.sh/community/matches/54153517) |
 
-| Group | Niedziela, 2019-08-18 |  |  |  |  |
+Niedziela, 18 sierpnia 2019 roku:
+
+| Grupa | Drużyna 1 |  |  | Drużyna 2 | Link do meczu |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | F6 | Indonezja A ::{ flag=ID }:: | 3 | **5** | ::{ flag=CA }:: **Kanada** | [#1](https://osu.ppy.sh/community/matches/54159212) |
 | B2 | Chile ::{ flag=CL }:: | 0 | **5** | ::{ flag=JP }:: **Japonia** | [#1](https://osu.ppy.sh/community/matches/54160233) |
@@ -378,110 +395,110 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 
 ## Zasady
 
-### Ogólne Zasady
+### Ogólne zasady
 
-1. Ten turniej to **turniej drużynowy 2v2** z drużynami po **maksymalne 5 graczy**.
-2. Drużyny najpierw zagrają w f**azie grupowej** a następnie w **drabince podwójnej eliminacji**.
-3. Systemem Punktacji będzie **Score V2**.
-4. Każdy gracz, który spełnia wymagania określone w części dotyczącej ograniczeń rankingu, może zagrać. Ponieważ ten turniej będzie miał na celu zdobycie odznaki profilu, niektórzy gracze mogą zostać odrzuceni przez personel osu.
-5. Każdy członek personelu oprócz **Organizatorów, Mappoolerów oraz Sędziów** może wziąć udział w turnieju.
-6. Zawodnicy i członkowie personelu muszą całkowicie przeczytać ten zestaw reguł (i założymy, że zrobiłeś to podczas całego turnieju).
-7. Wszyscy uczestnicy muszą zachować szacunek i właściwą postawę do innych. Nieprzestrzeganie tej zasady może skutkować czarną listą/wyrzuceniem z turnieju. Ta zasada dotyczy również całego personelu.
-8. Wszelkie zmiany reguł lub nieoczekiwane zdarzenia zostaną ogłoszone w wątku na forum i na serwerze Discord.
+1. Advanced Global Taiko Showdown to **turniej drużynowy 2v2** z drużynami po **maksymalnie 5 graczy**.
+2. Drużyny najpierw zagrają w **fazie grupowej**, a następnie w **drabince podwójnej eliminacji**.
+3. Użytym systemem punktacji będzie **Score V2**.
+4. Każdy gracz, który spełnia wymagania określone w części dotyczącej ograniczeń rankingu, może wziąć udział. Ponieważ organizatorzy chcą, aby było możliwe wręczenie zwycięzcom odznaki profilowej, zespół osu! może odmówić wzięcia udziału niektórym osobom.
+5. Każdy członek personelu oprócz **organizatorów, mappoolerów oraz sędziów** może wziąć udział w turnieju.
+6. Zawodnicy i członkowie personelu muszą przeczytać zasady w całości (i przez cały czas trwania turnieju będziemy zakładać, że to zrobiłeś).
+7. Wszyscy uczestnicy muszą zachowywać się z szacunkiem i wykazywać się właściwą postawą wobec innych. Nieprzestrzeganie tej zasady może skutkować umieszczeniem na czarnej liście/wyrzuceniem z turnieju. Ta zasada dotyczy również całego personelu.
+8. Wszelkie zmiany reguł lub nieoczekiwane zdarzenia zostaną ogłoszone w wątku na forum oraz na serwerze Discord.
 
-### Ograniczenia Rangi
+### Ograniczenia rangi
 
-1. Musisz być w rankingu od #500 do #3,500 podczas rejestracji. Oznacza to, że musisz być w tym przedziale rankingowym **aż do końca rejestracji**.
-2. Nie możesz przekroczyć rangi **#400 podczas turnieju**. Jeśli przekroczysz ten limit, zostaniesz zdyskwalifikowany.
-3. Musisz zarejestrować się za pomocą flagi kraju swojego profilu.
-4. YMusisz dołącyć do Serwera Discord turnieju.
+1. Twoja pozycja w rankingu globalnym musi mieścić się w przedziale od #500 do #3500 podczas rejestracji. Oznacza to, że musisz mieścić się w tym przedziale **aż do końca rejestracji**.
+2. Nie możesz osiągnać pozycji wyższej niż **#400 w czasie trwania turnieju**. Jeśli przekroczysz ten limit, zostaniesz zdyskwalifikowany.
+3. Musisz zarejestrować się według flagi kraju umieszczonej na twoim profilu.
+4. Musisz dołącyć do serwera Discord turnieju.
 
-### Rejestracja i Tworzenie Drużyn
+### Rejestracja i tworzenie drużyn
 
-1. Aby wziąć udział, musisz spełnić kryteria podane w **części [ograniczenia rangi.](#ograniczenia-rangi)**
-2. Gracze rejestrują się indywidualnie. Kiedy ich rejestracja zostanie zaakceptowana, otrzymają rolę kraju.
-3. Pierwszy kapitan drużyny zostanie wybrany przez personel turnieju i otrzyma listę wszystkich graczy w kraju w prywatnej wiadomości na forum osu!.
-4. Personel może odmówić graczowi, jeśli uzna, że umiejętności gracza nie pasują do turnieju.
+1. Aby wziąć udział, musisz spełnić wymogi podane w **części [ograniczenia rangi](#ograniczenia-rangi)**.
+2. Gracze rejestrują się indywidualnie. Kiedy ich rejestracja zostanie zaakceptowana, otrzymają rolę danego kraju na serwerze Discord.
+3. Pierwszy kapitan drużyny zostanie wybrany przez personel turnieju i otrzyma listę wszystkich graczy z danego kraju w prywatnej wiadomości na forum osu!.
+4. Personel może odmówić wzięcia udziału graczowi, jeżeli uzna, że jego umiejętności nie odpowiadają wymaganiom turnieju.
 5. W tym roku zezwalamy na 2 drużyny dla danego kraju pod pewnymi warunkami:
-   - Jeżeli jest **6 lub więcej graczy** zarejestrowanych dla kraju.
-   - Każda drużyna musi posiadać **conajmniej 3 graczy**.
-6. Kapitan wybrany przez personel turnieju jest odpowiedzialny za wybór składu drużyny, chyba, że:
-   1. Jeśli w danym kraju zarejestrowanych jest 5 graczy lub mniej, ci gracze utworzą zespół reprezentujący ich kraj. W innych przypadkach to on zdecyduje, jak to się stanie, np.
-   2. W przypadku, gdy w danym kraju zapisanych jest więcej niż 6 graczy, skład musi być rozdzielony, aby utworzyć 2 drużyny. Zaleca się jak najszybsze znalezienie porozumienia, a następnie zacząć wybranie kapitana aby szybciej zaplanować i przygotować mecze.
-   3. W przypadku, gdy gracze nie mogą znaleźć porozumienia, zostaną uszeregowani według pp i umieszczeni w 2 drużynach z co najmniej 3 członkami w każdym z nich z najlepszymi w pierwszej drużynie, a najniższymi w drugiej.
-7. Kapitan będzie tym, który w razie potrzeby zmieni harmonogram meczu i zapewni, że jego koledzy z drużyny są obecni w czasie meczy.
+   - Jeżeli jest **6 lub więcej graczy** zarejestrowanych dla danego kraju.
+   - Każda drużyna musi posiadać co najmniej 3 graczy.
+6. Kapitan wybrany przez personel turnieju jest odpowiedzialny za wybór składu drużyny, chyba że:
+   1. Dla danego kraju zarejestrowanych jest 5 graczy lub mniej, wtedy wszyscy ci gracze utworzą drużynę reprezentującą ich kraj. W innych przypadkach to kapitan decyduje o składzie drużyny.
+   2. W przypadku, gdy dla danego kraju zapisanych jest więcej niż 6 graczy, skład musi być rozdzielony tak, aby utworzyć 2 drużyny. Zaleca się jak najszybsze znalezienie porozumienia, by następnie wybrać kapitanów i mieć możliwość sprawnego planowania i przygotowania do meczów.
+   3. W przypadku, gdy gracze nie mogą dojść do porozumienia, zostaną ułożeni według liczby pp i umieszczeni w 2 drużynach z co najmniej 3 członkami, z najlepszymi graczami w pierwszej drużynie oraz najgorszymi w drugiej.
+7. Kapitan będzie tym, który w razie potrzeby odpowiada za zmiany terminu meczów i zapewni, że członkowie jego drużyny są obecni w ich trakcie.
 
-### Zasady Faz
+### Zasady faz
 
-1. W turnieju jest siedem faz: Kwalifikacje, Faza Grupowa, Ćwierćfinał, Półfinały, Finały i Wielkie Finały.
-2. Drużyna zostanie rozstawiona ze średnią swoich rang na każdej mapie podczas rundy kwalifikacji.
-3. W przypadku, gdy zarejestrowanych jest więcej niż 32 zespoły, tylko 32 najlepsze drużyny przejdą dalej.
-4. Drużyny zostaną rozlosowane w **6 grupach po 4** zespoły podczas Drawing Show, który odbędzie się w niedzielę 11 sierpnia.
-5. W Fazie Grupowej wszystkie drużyny z każdej grupy staną naprzeciw siebie. **Najlepsze 2 zespoły wychodzą z grupy**.
-6. Rankingi każdej grupy są określane przez sortowanie wyników wyników każdej drużyny w następującym priorytecie:
-   1. Najwięcej meczy wygranych.
+1. W turnieju jest siedem faz: kwalifikacje, faza grupowa, ćwierćfinały, półfinały, finały oraz wielki finał.
+2. Drużyny zostanie rozstawione do koszyków według średniej miejsc uzyskanych przez swoich członków na każdej mapie podczas kwalifikacji.
+3. W przypadku, gdy będzie zarejestrowanych więcej niż 32 drużyn, jedynie 24 najlepszych wyjdzie z kwalifikacji.
+4. Drużyny zostaną podzielone na **6 grup po 4** zespoły podczas losowania na żywo, które odbędzie się w niedzielę 11 sierpnia.
+5. W fazie grupowej wszystkie drużyny z każdej grupy zmierzą się ze sobą. **Najlepsze 2 zespoły** wychodzą z grupy i przechodzą do fazy pucharowej.
+6. Rankingi każdej grupy są określane przez ułożenie wyników poszczególnych drużyn zgodnie z następującym priorytetem:
+   1. Najwięcej wygranych meczów.
    2. Najwyższy (liczba wygranych map - liczba przegranych map) wynik.
-   3. Nawięcej map wygranych.
-   4. Winner of the match played previously between the tied teams.
-7. W Fazie Grupowej "Win by default" będzie uważane za wygrane 4:0, +1,0 punktowy współczynnik różnicy.
+   3. Nawięcej wygranych map.
+   4. Zwycięzca meczu pomiędzy zremisowanymi drużynami.
+7. W fazie grupowej walkower będzie uznawany za wygraną 4:0, +1,0 punktowy współczynnik różnicy.
 8. Warunkiem zwycięstwa dla każdej fazy jest:
-   - Faza Grupowa: BO9 (wygraj 5 map)
-   - RO16, Ćwierćfinały i Drabinka Przegranych Runda 1 i 2: BO11 (wygraj 6 map)
-   - Półfinały, Finały, Wielkie Finały i Drabinka Przegranych Runda 3 i 4: BO13 (wygraj 7 map)
+   - Faza grupowa: BO9 (wygranie 5 map)
+   - Ćwierćfinały: BO11 (wygranie 6 map)
+   - Półfinały, finały oraz wielki finał: BO13 (wygranie 7 map)
 
-### Instrukcje Mappoola
+### Instrukcje mappoola
 
-1. Dla każdego z następujących będzie 1 osobny mappool: Kwalifikacje, Faza Grupowa, Ćwierćfinały, Półfinały, Finały i Wielkie Finały.
-2. Drabinka Przegranych zagra ten sam mappool co w Drabince Wygranych w ten sam weekend
-3. Mappool Kwalifikacji będzie się różnił od pozostałych, ponieważ jego format to: 2 mapy NoMod, 1 mapa Hidden, 1 mapa HardRock, 1 Mapa DoubleTime.
-4. Każdy mappool składa się z następujących map: NoMod, Hidden, HardRock, DoubleTime, FreeMod and Tiebreaker.
-5. Każdy pula map będzie się składać z 20 map.
-6. Ilość map Hidden, Hard Rock i Double Time będzie wynosić 2 i 3 dla map FreeMod we wszystkich Fazach.
-7. Mapy EX będą grane bez modów i są trudniejszą wersją NoMod. Zawierają mapy, które zawierają specjalne techniki mapowania, zmiany prędkości itp.
-8. Mapy FreeMod będą grane z użyciem FreeModa. Każdy gracz może wybrać **Hidden, HardRock albo oba. Przynajmniej jeden gracz z każdej drużyny musi grać z conajmniej jednym modem**.
-9. Tiebreaker jest rozgrywany w warunkach FreeMod, ale nie jest wymagane aby ktokolwiek grał z modem.
-10. Mappool dla każdego Fazy zostanie zaprezentowany tydzień wcześniej.
+1. Każda z następujących faz będzie mieć swój własny mappool: kwalifikacje, faza grupowa, ćwierćfinały, półfinały, finały i wielki finał.
+2. Drabinka przegranych zagra ten sam mappool co drabinka wygranych w danym tygodniu.
+3. Mappool kwalifikacji będzie się różnił od pozostałych, ponieważ jego format to: 2 mapy NoMod, 1 mapa Hidden, 1 mapa HardRock, 1 mapa DoubleTime.
+4. Każdy mappool składa się z 7 kategorii: NoMod, Hidden, HardRock, DoubleTime, FreeMod oraz Tiebreaker.
+5. Każdy mappool będzie się składać z 20 map.
+6. Ilość map Hidden, HardRock, DoubleTime oraz FreeMod będzie wynosić 3 dla wszystkich faz turnieju.
+7. Mapy EX będą grane bez modów i są trudniejszą wersją NoMod. Zawierają mapy, które zawierają nietypowe techniki mapowania, zmiany prędkości itp.
+8. Mapy FreeMod będą grane przy użyciu FreeMod. Każdy gracz może wybrać mody **Hidden, HardRock albo oba. Przynajmniej jeden gracz z każdej drużyny musi grać z co najmniej jednym modem**.
+9. Tiebreaker jest rozgrywany na zasadach FreeMod, jednak nie jest wymagane, aby przynajmniej jeden gracz grał z modem.
+10. Mappool dla każdej fazy zostanie zaprezentowany tydzień wcześniej.
 
-### Instrukcje Planowania
+### Instrukcje planowania meczów
 
-1. Każda Faza odbywa się **podczas weekendu**. (Dozwolone jest jednak zaplanowanie meczu na inny dzień, jeśli w weekend nie będzie czasu)
+1. Każda faza będzie odbywać się **podczas weekendu** (dozwolone jest jednak zaplanowanie meczu na inny dzień, jeśli nie będzie wystarczającej ilości czasu w weekend).
 2. Mecze mogą się nakładać, jeśli sędziowie są dostępni.
-3. Postaramy się zaplanować mecze jak najlepiej, aby pasowały do stref czasowych. Harmonogram zostanie wydany w weekend przed każdą Fazą.
-4. Przełożenia będą rozpatrywane tylko wtedy, gdy obie drużyny zgodzą się na ustalony czas, należy to zrobić i powiadomić o tym personel turnieju przed **Piątkiem o 01:59 UTC+2** w tym konkretnym tygodniu, gdy mecz się odbędzie.
+3. Postaramy się zaplanować mecze jak najlepiej, aby pasowały do stref czasowych. Harmonogram zostanie opublikowany w weekend przed każdą fazą.
+4. Przełożenia będą rozpatrywane tylko wtedy, gdy obie drużyny będą zgodne co do terminu. Należy to zrobić i powiadomić o tym personel turnieju przed **23:59 w czwartek czasu UTC+0** tygodnia, w którym ma odbyć się mecz.
 5. O zmiany harmonogramu może prosić tylko **kapitan drużyny**.
 
-### Regulamin Meczu
+### Regulamin meczu
 
-1. Prywatne pokój zostanie utworzone 10 minut przed meczem przez sędziego. Obaj kapitanowie drużyn zostaną zaproszeni do pokoju, gdy nadejdzie czas meczu. Następnie sędziowie lub kapitanowie zapraszają resztę graczy do pokoju.
-2. Jeśli nie ma dostępnego personelu, mecz zostanie przełożony.
-3. Jeśli podczas meczu bierze udział mniej niż minimalna wymagana liczba graczy, maksymalny czas, w którym można opóźnić mecz, wynosi 10 minut.
-4. Jeśli żadna z obu drużyn nie ma minimalnej wymaganej liczby graczy po 10 minutach, będzie to traktowane jako strata dla obu drużyn w Fazie Frupowej. W Fazie Podwójnej Eliminacji awansuje drużyna z najwyższym seedem.
-5. Mecz zostanie rozegrany jako TeamVs i ScoreV2, a nazwa pokoju musi być: „AGTS 2019: (Team Red) vs (Team Blue)”.
-6. Każda drużyna ma jedną mapę rozgrzewkę, ale musi być poniżej 4 minut. Każdy z graczy może wejść do pokoju podczas rozgrzewki.
-7. Każdy kapitam musi zbanować **jedną mapę** podczas każdego meczu (oprócz Tiebreakera). Te mapy nie będą mogły zostać wybrane przez żadną z drużyn podczas całego meczu.
-8. Kapitan każdej drużyny musi użyć komendy `!roll` na czacie.
-9. Drużyna z **wyższym rollem banuje druga i wybiera pierwsza mapę**. Drużyna z **niższym rollem banuje pierwsza i wybiera druga mapę**.
-10. Wybór mapy będzie następował na przemian przez kapitanów drużyny.
-11. Kapitan może wybrać dowolną mapę z aktualnego mappoola.
-12. Wymiana graczy podczas meczu jest dozwolona bez limitu.
-13. Jeśli gracz rozłączy się pomiędzy mapami i drużyna nie może dokonać wymiany, mecz może zostać opóźniony maksymalnie o 10 minut.
-14. Jeżeli gracz rozłączy się podczas grania mapy, będzie traktowany jakby nie przeszedł mapy.
-15. Rozłączenie gracza w ciągu 30 sekund od rozpoczęcia mapy może skutkować ponownym zagraniem mapy. Jest to dozwolone tylko raz na drużynę.
-16. Wyniki gracza, który nie przeszedł mapy nie są dodawane do wyniku drużyny.
-17. Jeżeli mapa zakończy się remisem, jej wynik zostaje anulowany i mapa jest grana jeszcze raz.
-18. W przypadku remisu punktów (przykład: 4-4 w BO9), zostaje wybrany Tiebreaker.
+1. Prywatny pokój zostanie utworzony 10 minut przed meczem przez sędziego. Obaj kapitanowie drużyn zostaną zaproszeni do pokoju, gdy nadejdzie czas meczu. Następnie sędziowie lub kapitanowie zaproszą resztę graczy do pokoju.
+2. Jeśli żaden członek personelu nie będzie dostępny, mecz zostanie przełożony.
+3. Jeśli do pokoju dołączy mniej niż minimalna wymagana ilość graczy, mecz może zostać opóźniony maksymalnie o 10 minut.
+4. Jeśli żadna z obu drużyn nie ma minimalnej wymaganej liczby graczy po 10 minutach, będzie to traktowane jako przegrana dla obu drużyn w fazie grupowej. W drabince podwójnej eliminacji drużyna z lepszego koszyka przejdzie do kolejnej fazy.
+5. Mecz zostanie rozegrany przy użyciu TeamVs i ScoreV2, a pokój musi mieć nazwę: „AGTS 2019: (Drużyna czerwona) vs (Drużyna niebieska)”.
+6. Każda drużyna może wybrać jedną mapę na rozgrzewkę, jednak musi być krótsza niż 4 minuty. Wszyscy gracze mogą wejść do pokoju na czas rozgrzewki.
+7. Każdy kapitan musi zbanować **jedną mapę** z mappoola (oprócz Tiebreakera). Te mapy nie będą mogły zostać wybrane przez żadną z drużyn podczas całego meczu.
+8. Kapitan każdej drużyny musi wylosować liczbę przy użyciu komendy `!roll` na czacie.
+9. Drużyna z **wyższą wylosowaną liczbą banuje jako druga i wybiera mapę jako pierwsza **. Drużyna z **niższą wylosowaną liczbą banuje jako pierwsza i wybiera mapę jako druga**.
+10. Kapitanowie drużyn będą na zmianę wybierać mapy.
+11. Kapitan może wybrać dowolną mapę z dowolnej kategorii.
+12. Wymiana zawodników podczas meczu jest dozwolona bez ograniczeń.
+13. Jeśli gracz rozłączy się pomiędzy mapami, a drużyna nie może zapewnić zastępstwa, mecz może zostać opóźniony maksymalnie o 10 minut.
+14. Jeżeli gracz rozłączy się podczas grania mapy, będzie traktowany tak, jakby nie jej nie przeszedł.
+15. Mapę można zagrać ponownie, jeśli jeden z graczy rozłączy się w ciągu 30 sekund od jej rozpoczęcia. Jest to dozwolone tylko raz na drużynę.
+16. Wyniki graczy, którzy nie przeszli mapy, nie są dodawane do wyniku drużyny.
+17. Jeżeli mapa zakończy się remisem, jej wynik zostaje anulowany, a mapa zostanie zagrana ponownie.
+18. W przypadku remisu punktów (na przykład: 4-4 w BO9) zostaje wybrany Tiebreaker.
 
 ### Zasady All-star
 
-All-star to zabawne wydarzenie, które odbędzie się w ten sam weekend, co Wielkie Finały! Zaprezentuje najlepszych graczy turnieju grających przeciwko sobie w dwóch różnych typach meczów.
+All-star to fajne wydarzenie, które odbędzie się w ten sam weekend, co wielki finał! Zaprezentuje najlepszych graczy turnieju grających przeciwko sobie w dwóch różnych typach meczów.
 
-1. 12 graczy weźmie udział w tym wydarzeniu. Zostaną wybrani w drodze głosowania.
-2. 12 najlepszych graczy zagra w All-star. Jeśli jest więcej niż 2 graczy z kraju w top 12 najczęściej wybieranych graczy, tylko 2 najlepszych będzie uczestniczyć w All-star.
-3. Najlepsi 2 gracze będą kapitanami każdej drużyny i wybiorą skład z pozostałych 10 graczy. Gracz z największą ilością głosów wybiera pierwszy. Wybieranie będzie przebiegało według "snake draft picking style", i tak ono wygląda: A->B->B->A->A->B->B->A->A->B.
-4. Najpierw odbędą się 2 gry battle royale 3v3 z mappolem 12 map(2 NM,HR,HD,DT,FM,EX). (EX = trudniejsze mapy) Mapy są wybierane losowo przy użyciu "wheel".
-5. Gry 4v4 odbędą się na zasadach:
-   - Mappool z 5 NM, HR, HD, DT, FM, EX i 1 TB. (te same zasady dla modów co normalne mecze)
+1. W wydarzeniu weźmie udział 12 graczy, wybranych drogą głosowania.
+2. W All-star zagra 12 najlepszych graczy. Jeśli w grupie 12 najczęściej wybieranych graczy będzie więcej niż 2 z danego kraju, tylko 2 najlepszych będzie uczestniczyć w All-star.
+3. Najlepsi 2 gracze będą kapitanami każdej z drużyn i wybiorą skład z pozostałych 10 graczy. Gracz z największą ilością głosów wybiera pierwszy. Wybór graczy będzie przebiegał według tzw. snake draft, który wygląda następująco: A->B->B->A->A->B->B->A->A->B.
+4. Najpierw odbędą się 2 mecze battle royale 3v3 z mappolem złożonym z 12 map (2 NM, HR, HD, DT, FM, EX (EX = trudniejsze mapy)). Mapy są wybierane losowo przy użyciu koła losującego.
+5. Odbędą się również mecze 4v4 na następujących zasadach:
+   - Mappool złożony z 5 map NM, HR, HD, DT, FM, EX i jednego TB (zasady dotyczące modów są takie same, co w przypadku zwykłych meczów).
    - Brak banów.
-   - Mod zostanie wybrany losowo według rolla, a następnie mapa zostanie wybrana przez "wheel"
+   - Mod zostanie wybrany losowo przy użyciu komendy `!roll`, a następnie zostanie wylosowana mapa.
    - Wymiana zawodników podczas meczu jest dozwolona bez ograniczeń.
-   - Te same zasade, co normalnie kiedy gracz się rozłączy.
+   - Te same zasady, co w przypadku zwykłych meczów, jeżeli któryś z zawodników się rozłączy.
