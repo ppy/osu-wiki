@@ -29,7 +29,7 @@ Configuration files are files that regulate the initial settings for osu! upon l
 
 | File name | Function |
 | --: | :-- |
-| `osu!.cfg`| Stores security information about the osu! application files and the current release stream (*Note: The contents of this file should never be modified manually unless absolutely necessary*) |
+| `osu!.cfg` | Stores security information about the osu! application files and the current release stream (*Note: The contents of this file should never be modified manually unless absolutely necessary*) |
 | `osu!.<operating system username>.cfg` | Stores [Options](/wiki/Client/Options) data and other game settings (*See also: [User configuration file](/wiki/Client/Program_files/User_configuration_file)*) |
 | `tournament.cfg` | Stores data related to [osu!tourney](/wiki/osu!_tournament_client/osu!tourney) and the [osu! tournament client](/wiki/osu!_tournament_client) |
 
@@ -111,7 +111,7 @@ Replays are named following the `{Local player name} - {Artist} - {Title} {[Diff
 
 The Screenshots folder stores the screenshots the player has created in osu!. These screenshots can be captured in-game at any window by pressing the screenshot key (F12 by default).
 
-Screenshots are named following the `screenshot###` format, where "###" is the screenshot number count. By default, all screenshots taken will be saved as `.jpg`, although it can be changed to `.png` in the Options menu.
+Screenshots are named following the `screenshot###` format, where "###" is the screenshot number count. By default, all screenshots taken will be saved as `.jpg`, although this can be changed to `.png` in the Options menu.
 
 ### Skins
 
