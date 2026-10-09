@@ -73,7 +73,7 @@ Application files are osu!'s main user-facing components. These files are safe t
 | File name | Function |
 | --: | :-- |
 | `osu!.exe` | Boots up osu! |
-| `osume.exe` | Allows players to update and repair osu! installations manually (*Note: Has been deprecated in favor of the automatic updater that are embedded into the game*) |
+| `osume.exe` | Allows players to update and repair osu! installations manually (*Note: Has been deprecated in favor of `osu!.exe`'s own built-in updater*) |
 
 ## Folders
 
