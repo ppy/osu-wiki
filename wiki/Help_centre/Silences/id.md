@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: ab33806e03d394319729869ceb062c3ae9154ae9
 ---
 
 # Silence
@@ -9,7 +11,7 @@ no_native_review: true
 ## Batasan
 
 :::Infobox
-![](img/silence-profile.png "Rekaman silence pada halaman profil")
+![](img/silence-profile.png?1 "Rekaman silence pada halaman profil")
 :::
 
 Pengguna yang sedang di-silence tidak dapat melakukan hal-hal berikut:

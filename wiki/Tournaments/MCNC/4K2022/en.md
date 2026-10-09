@@ -51,8 +51,8 @@ The osu!mania 4K Chinese National Cup 2022 was run by various community members.
 
 ## Links
 
-- [Discussion thread (English)]( https://osu.ppy.sh/community/forums/topics/1567764)
-- [Discussion thread (Chinese)]( https://osu.ppy.sh/community/forums/topics/1567763)
+- [Discussion thread (English)](https://osu.ppy.sh/community/forums/topics/1567764)
+- [Discussion thread (Chinese)](https://osu.ppy.sh/community/forums/topics/1567763)
 - [Livestream](https://live.bilibili.com/2996250)
 - [Discord server](https://discord.gg/uBHK5vq)
 - [Main page](https://mcnc.crzteam.cn/home)
@@ -147,7 +147,7 @@ This competition has come to an end and resulted in the following podium:
 
 - Rice
   1. [Ariabl'eyes - Namidasou Outomata (Cut Ver.) (\[Crz\]Alleyne) \[Rachel's Lv.30(Marathon) 1.05x (189bpm)\]](https://osu.ppy.sh/beatmapsets/1827294#mania/3750023)
-  2. [Noisestorm - Antihero (Original Mix) (YuEast 2018) \[Ancient\]]( https://osu.ppy.sh/beatmapsets/1813707#mania/3720773)
+  2. [Noisestorm - Antihero (Original Mix) (YuEast 2018) \[Ancient\]](https://osu.ppy.sh/beatmapsets/1813707#mania/3720773)
   3. [Falcom Sound Team jdk - Hard Desperation (lemonguy) \[Nightmare\]](https://osu.ppy.sh/beatmapsets/1613480#mania/3294142)
   4. [SHK- Super Fantasy (\[Crz\]xz1z1z) [Super Jacks 1.2x (174bpm)]](https://osu.ppy.sh/beatmapsets/1823684#mania/3742104)
   5. [lmperial Circus Dead Decadence - BRING+EYES=DEATH+INVITE (MintAril) \[sleet\]](https://osu.ppy.sh/beatmapsets/762130#mania/1602426)

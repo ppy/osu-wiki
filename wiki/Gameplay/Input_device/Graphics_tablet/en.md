@@ -4,7 +4,9 @@ stub: true
 
 # Graphics tablet
 
-*See also: [Play style](/wiki/Gameplay/Play_style)*
+::: alert-note
+**See also:** [Play style](/wiki/Gameplay/Play_style)
+:::
 
 ![](img/tablet.jpg "Graphics tablet")
 

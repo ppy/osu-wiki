@@ -1,14 +1,14 @@
-"area:help centre":
+area:help centre:
   - changed-files:
       - any-glob-to-any-file:
           - wiki/Help_centre/**
 
-"area:legal":
+area:legal:
   - changed-files:
       - any-glob-to-any-file:
           - wiki/Legal/**
 
-"area:meta":
+area:meta:
   - changed-files:
       - any-glob-to-any-file:
           - "*"
@@ -20,23 +20,23 @@
           - wiki/Tournaments/TEMPLATE.md
           - wiki/Tournaments/TEMPLATE-SERIES.md
 
-"area:news":
+area:news:
   - changed-files:
       - any-glob-to-any-file:
           - news/**/*.md
           - wiki/shared/news/**
 
-"area:ranking criteria":
+area:ranking criteria:
   - changed-files:
       - any-glob-to-any-file:
           - wiki/Ranking_criteria/**
 
-"area:tournaments":
+area:tournaments:
   - changed-files:
       - any-glob-to-any-file:
           - wiki/Tournaments/**
 
-"area:translations":
+area:translations:
   - all:
       - changed-files:
           - any-glob-to-any-file:

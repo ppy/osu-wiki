@@ -1,13 +1,8 @@
----
-outdated_translation: true
-outdated_since: 4286c7437dbab8fa1ccf423025af23f83f0569f3
----
-
 # 升级到 lazer
 
 osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕后工作的结晶，并且，我们重构了游戏。
 
-我们最终的目标，是将这个版本作为一个更新发布，并将完全取代现在的游戏版本 (稳定版)，但在实现之前还有些工作要做。最后，我们将继续支持旧版本，直到玩家们都迁移到新版本。至于何时完全取代，由**玩家**群体决定。
+这个版本带来了许多 osu!(stable) 没有的新特性。不过，每个版本都有其独有的特性，玩家可以自由选择自己想玩的版本。这也会决定我们将继续维护多久旧版本（osu!stable）。
 
 "lazer" 是这个版本的代号。当它成为游戏的主要版本时，最终将删除掉这个代号。为方便起见，本文以下部分将 osu!(lazer) 简称为 "lazer"，osu!(stable) 简称为 "stable"。
 
@@ -64,7 +59,7 @@ osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕�
 | 按谱面校准偏移值 (offset) | ![部分支持][partial][^offset-calibration-stable] | ![支持][true][^offset-calibration-lazer] |
 | 光标拖动 osu! 滑条时，滑条“蛇形”缩回 | ![不支持][false] | ![支持][true][^can-disable] |
 | 对 osu! 玩家稍微友好的“物件锁 (note lock)” | ![不支持][false] | ![支持][true][^note-lock] |
-| osu!mania、osu! 基于时间轴给物件上色 | ![不支持][false] | ![支持][true] |
+| osu!、osu!catch、osu!mania 基于时间轴给物件上色 | ![不支持][false] | ![支持][true] |
 | 回放控制 | ![不支持][false] | ![支持][true] |
 | 在回放中评论以 [Niconico](https://zh.wikipedia.org/wiki/Niconico) 弹幕风格滚动 | ![支持][true] | ![不支持][false] |
 
@@ -88,7 +83,8 @@ osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕�
 | 多人自由模式 | ![不支持][false] | ![支持][true][^freestyle] |
 | 多人游戏指令 | ![支持][true] | ![不支持][false] |
 | 合作模式 (Tag co-op) | ![支持][true] | ![不支持][false] |
-| 课题模式 (玩家策划的排行榜) | ![不支持][false] | ![支持][true] |
+| 歌单模式 (玩家策划的排行榜) | ![不支持][false] | ![支持][true] |
+| 排位模式 | ![不支持][false] | ![支持][true] |
 | 更新在官网上改动过的谱面 | ![部分支持][partial][^map-only] | ![支持][true][^all-files] |
 
 ### 编辑器
@@ -101,6 +97,7 @@ osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕�
 | osu!mania 编辑器 | ![支持][true] | ![支持][true] |
 | 打开一个难度作为参考 | ![支持][true] | ![不支持][false] |
 | 按物件设定变速和音量 (SV / volume) | ![不支持][false] | ![支持][true] |
+| 自定义音效采样集 (hitsound sample sets) | ![支持][true] | ![支持][true] |
 | 分段调整滑条的曲线类型 | ![不支持][false] | ![支持][true] |
 | 分割、合并滑条 | ![不支持][false] | ![支持][true] |
 | 旋转物件 | ![支持][true] | ![支持][true] |
@@ -124,11 +121,11 @@ osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕�
 | 这个更改是刻意的 | ![否][false] |
 | 这个更改需要进一步的考虑 | ![是][true] |
 
-#### 评价系统的区别
+#### 评级系统的区别
 
-在 stable 中，达成各[评价](/wiki/Gameplay/Grade)所需的准确率（和判定）条件如下：
+在 stable 中，达成各[评级](/wiki/Gameplay/Grade)所需的准确率（和判定）条件如下：
 
-| 评价 | osu! / osu!taiko | osu!catch | osu!mania |
+| 评级 | osu! / osu!taiko | osu!catch | osu!mania |
 | :-: | :-- | :-- | :-- |
 | SS | 100% | 100% | 100% |
 | S | GREAT/300 数量 >90% (≤1% MEH/50，无失误) | >98% | >95% |
@@ -136,11 +133,11 @@ osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕�
 | B | GREAT/300 数量 >70% (无失误) 或者 GREAT/300 数量 >80% | >90% | >80% |
 | C | GREAT/300 数量 >60% | >85% | >70% |
 
-而在 osu!(lazer) 达成各评价所需的准确率要求如下：
+而在 lazer 中达成各评级所需的准确率要求如下：
 
-| 评价 | osu! / osu!taiko | osu!catch | osu!mania |
+| 评级 | osu! / osu!taiko | osu!catch | osu!mania |
 | :-: | :-- | :-- | :-- |
-| SS | 100% | 100% | 100% |
+| SS | 100% | 100% | 所有[判定](/wiki/Gameplay/Judgement/osu!mania)均为 GREAT 或 PERFECT |
 | S | ≥95% (无失误) | ≥98% | ≥95% |
 | A | ≥90% | ≥94% | ≥90% |
 | B | ≥80% | ≥90% | ≥80% |
@@ -153,28 +150,11 @@ osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕�
 | 这个更改是刻意的 | ![是][true] |
 | 这个更改需要进一步的考虑 | ![否][false] |
 
-#### 判定区间边缘与 stable 不同
-
-当物件的点击时间正好位于判定区间的边缘时，不同的客户端版本可能会给出不一样的判定。
-
-| 游戏模式 | 与 stable 比较 | 与 lazer 比较 | 与 lazer 回放模式比较 |
-| :-- | :-- | :-- | :-- |
-| osu! | `abs(round(hit error)) < floor(hit window)` | `abs(hit error) <= hit window` | `abs(round(hit error)) <= hit window` |
-| osu!taiko | `abs(round(hit error)) < floor(hit window)`，除了 MISS 判定区间使用 `<=` | `abs(hit error) <= hit window` | `abs(round(hit error)) <= hit window` |
-| osu!mania | `abs(round(hit error)) <= floor(hit window)` | `abs(hit error) <= hit window` | `abs(round(hit error)) <= hit window` |
-
-|  |  |
-| :-- | :-: |
-| 旧版本不兼容 | ![是][true] |
-| Classic 模组能够还原旧版本的效果 | ![否][false] |
-| 这个更改是刻意的 | ![是][true] |
-| 这个更改需要进一步的考虑 | ![是][true] |
-
 #### 计分系统变更
 
 lazer 内的计分系统与 ScoreV2 系统类似，并且这套系统会把所有 ScoreV1 的分数转换过来。
 
-这套系统的分数有两种可互换的显示模式：标准和经典。标准分数将正常情况下的理论分限制到 100 万 + 奖励分并乘以分数倍率（与 ScoreV2 系统类似）。经典分数与标准分数相同，但它会根据谱面中物件的数量对分数曲线作二次缩放（与 ScoreV1 系统类似）。可以在设置中修改显示模式，并且游戏中所有的分数都会相应地改变。
+有两种可相互转换的分数显示模式：标准化分数和经典分数。标准化分数将正常情况下的理论分限制为 100 万 + 奖励分并乘以分数倍率（与 ScoreV2 系统类似）。经典分数与标准化分数相同，但它会根据谱面中物件的数量对分数曲线作二次缩放（与 ScoreV1 系统类似）。可以在设置中修改显示模式，并且游戏中所有的分数都会相应地改变。
 
 所有被击打的物件或者所有判定的分数之间，也会存在些许差异。
 
@@ -184,12 +164,6 @@ lazer 内的计分系统与 ScoreV2 系统类似，并且这套系统会把所�
 | Classic 模组能够还原旧版本的效果 | ![否][false] |
 | 这个更改是刻意的 | ![是][true] |
 | 这个更改需要进一步的考虑 | ![是][true] |
-
-#### 未实现故事板触发器
-
-部分故事板含有特别的元素，需要玩家特定的输入或处于特定的血量下才能触发。
-
-![](img/sb-triggers.gif)
 
 ### osu!
 
@@ -206,7 +180,7 @@ lazer 内的计分系统与 ScoreV2 系统类似，并且这套系统会把所�
 | 这个更改是刻意的 | ![是][true] |
 | 这个更改需要进一步的考虑 | ![否][false] |
 
-#### 点击滑条头的判定也会计入准确率
+#### 准度影响滑条头判定
 
 ![](img/slideracc.gif)
 
@@ -335,19 +309,6 @@ lazer 内的计分系统与 ScoreV2 系统类似，并且这套系统会把所�
 | 这个更改是刻意的 | ![是][true] |
 | 这个更改需要进一步的考虑 | ![是][true] |
 
-#### Flashlight 中心与打击区对齐
-
-<!-- TODO: comparison image  -->
-
-在 stable 中， Flashlight 的中心会向右下方偏移，从而让打击物件更容易被看到。
-
-|  |  |
-| :-- | :-: |
-| 旧版本不兼容 | ![否][false] |
-| Classic 模组能够还原旧版本的效果 | ![否][false] |
-| 这个更改是刻意的 | ![否][false] |
-| 这个更改需要进一步的考虑 | ![是][true] |
-
 ### osu!catch
 
 #### 某些情况下，红果跳生成方式可能不同
@@ -418,18 +379,7 @@ lazer 内的计分系统与 ScoreV2 系统类似，并且这套系统会把所�
 |  |  |
 | :-- | :-: |
 | 旧版本不兼容 | ![是][true] |
-| Classic 模组能够还原旧版本的效果 | ![否][false] |
-| 这个更改是刻意的 | ![是][true] |
-| 这个更改需要进一步的考虑 | ![否][false] |
-
-#### 转谱不再使用不同的判定区间
-
-在 stable 中，由 osu! 模式转换成 osu!mania 模式的转谱有[不同的打击区间](/wiki/Gameplay/Judgement/osu!mania)。
-
-|  |  |
-| :-- | :-: |
-| 旧版本不兼容 | ![是][true] |
-| Classic 模组能够还原旧版本的效果 | ![否][false] |
+| Classic 模组能够还原旧版本的效果 | ![是][true] |
 | 这个更改是刻意的 | ![是][true] |
 | 这个更改需要进一步的考虑 | ![否][false] |
 
@@ -456,7 +406,7 @@ lazer 内的计分系统与 ScoreV2 系统类似，并且这套系统会把所�
 
 #### 稳定版会停止维护吗？我会被迫切换游戏版本吗？
 
-只要还有玩家使用它，稳定版将继续维护。最坏情况来说，它仍将维护几年。
+只要还有玩家使用它，稳定版将继续维护。至少，它仍将维护几年。
 
 #### 我能从稳定版向 lazer 导入我所有的数据吗？
 
@@ -490,9 +440,9 @@ lazer 内的计分系统与 ScoreV2 系统类似，并且这套系统会把所�
 
 #### 如果我在 lazer 中获得了成绩，它会显示在我的个人主页上吗？
 
-是的，但是在官网的“Lazer 模式”关闭的状态下，不会显示在“最好成绩”。
+在 lazer 中获得的成绩可在`置顶成绩`、`最好成绩`、`最近 24 小时游玩`与`被观看次数最多的回放`中显示。
 
-目前也不会显示在“第一名”。
+如果想让它们也在`第一名`中显示，则需要在网站中启用 `Lazer 模式`。
 
 #### 如果我在 lazer 中获得了成绩，它能给我表现分 (pp) 吗？
 
@@ -500,7 +450,7 @@ lazer 内的计分系统与 ScoreV2 系统类似，并且这套系统会把所�
 
 #### lazer 使用 ScoreV2 计分吗？
 
-是的，用的是做了一些调整的 ScoreV2 。
+它使用在 ScoreV2 基础上进行了一些调整的评分系统。
 
 <!-- lint ignore no-heading-punctuation -->
 
@@ -528,38 +478,44 @@ lazer 内的计分系统与 ScoreV2 系统类似，并且这套系统会把所�
 
 但是，目前只有以下模组能给予表现分：
 
-- 降低难度
+*除非特别指出，只有在模组的自定义选项为**默认配置**时，才能获得表现分。*
+
+- 降低难度 (Difficulty reduction)
   - Easy
   - No Fail
-  - Half Time (仅 0.75 倍速，可以调整 `Adjust pitch` )
-  - Daycore (仅 0.75 倍速)
-- 增加难度
-  - Hard Rock (不适用 osu!mania )
-  - Sudden Death (可以打开 `Restart on fail` )
-  - Perfect (可以打开 `Restart on fail` )
+  - Half Time (允许开启 `Adjust pitch`)
+  - Daycore
+- 增加难度 (Difficulty Increase)
+  - Hard Rock (osu!mania 除外)
+  - Sudden Death (允许调节所有自定义选项)
+  - Perfect (允许调节所有自定义选项)
+  - Double Time (允许开启 `Adjust pitch`)
+  - Nightcore
+  - Fade In (仅 osu!mania)
   - Hidden
-  - Nightcore (仅 1.5 倍速)
-  - Double Time (仅 1.5 倍速，可以调整 `Adjust pitch`)
+  - Traceable (仅 osu!)
+  - Cover (仅 osu!mania，允许调节所有自定义选项)
   - Flashlight
-  - Blinds
-  - Accuracy Challenge
-- 转谱 (仅限 osu!mania)
-  - Mirror
-  - Four Keys
-  - Five Keys
-  - Six Keys
-  - Seven Keys
-  - Eight Keys
-  - Nine Keys
-- 娱乐
-  - Muted
-  - No Scope
-- 自动游玩 (仅限 osu! 模式)
-  - Spun out
-- 系统
+  - Blinds (仅 osu!)
+  - Accuracy Challenge (允许调节所有自定义选项)
+- 自动游玩 (Automation)
+  - Spun Out (仅 osu!)
+- 转换 (Conversion)
+  - Alternate (仅 osu!)
+  - Swap (仅 osu!taiko)
+  - Single Tap (仅 osu! 和 osu!taiko)
+  - Mirror (仅 osu!mania)
+  - Four Keys (仅 osu!mania)
+  - Five Keys (仅 osu!mania)
+  - Six Keys (仅 osu!mania)
+  - Seven Keys (仅 osu!mania)
+  - Eight Keys (仅 osu!mania)
+  - Nine Keys (仅 osu!mania)
+- 娱乐 (Fun)
+  - Muted (允许调节所有自定义选项)
+  - No Scope (仅 osu! 和 osu!catch，允许调节所有自定义选项)
+- 系统 (System)
   - Touch Device
-
-除非特别指出，那么只有在模组的自定义设置为默认值时，此时才能获得表现分。
 
 #### 我不喜欢新游戏机制。我能恢复旧游戏机制吗？
 
@@ -589,7 +545,7 @@ lazer 内的计分系统与 ScoreV2 系统类似，并且这套系统会把所�
 
 如果你想知道帧率会如何影响输入延迟，并想测试你自己的感知力，请在设置底部运行“延迟测试器”。
 
-你也能[阅读这篇科技文章](https://github.com/ppy/osu/wiki/Latency-and-unlimited-frame-rates)，它能解释我们的所作所为，以及背后的理由。
+你也能[阅读这篇技术文档](https://github.com/ppy/osu/wiki/Latency-and-unlimited-frame-rates)，它能解释我们的所作所为，以及背后的理由。
 
 #### 如果输入限制在 1000 HZ，那我 8000 HZ 回报率的鼠标怎么办？
 
@@ -629,7 +585,7 @@ lazer 内的计分系统与 ScoreV2 系统类似，并且这套系统会把所�
 
 lazer 没有歌曲文件夹！这能让我们做一些很酷的事情，比如不需要在选歌界面按下 `F5` 来刷新谱面（因为所有谱面都将处于可用状态），并将存储谱面需要的磁盘空间节省 20-40%。你可以阅读这篇文章，得知 [lazer 是如何存储文件](/wiki/Client/Release_stream/Lazer/File_storage)的。
 
-如果你需要修改谱面，请使用编辑器。接下来，我们将在编辑器中引入一种模式，可以临时访问谱面所属的文件夹，便于你在作图的时候使用外部程序编辑谱面。
+如果你需要修改谱面，请使用游戏内置的编辑器。或者，你也可以在编辑器中的`文件`选项卡点击`外部编辑`以打开一个用于外部编辑的临时文件夹。
 
 #### 现在 "osu!direct" 已经开放给所有玩家，那支持者还会有什么新福利吗？
 

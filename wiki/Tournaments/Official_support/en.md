@@ -7,7 +7,9 @@ tags:
 
 # Official tournament support
 
-*For beatmapping contest support, see: [Official beatmapping contest support](/wiki/Contests/Official_support).*
+::: alert-note
+**Note:** For beatmapping contest support, see [Official beatmapping contest support](/wiki/Contests/Official_support).
+:::
 
 The [osu! team](/wiki/People/osu!_team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.
 

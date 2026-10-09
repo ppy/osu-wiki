@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 8b6f6798c3487a7ec6bf1dbd592dbd96f50f4443
+---
+
 # Persyaratan untuk mendapatkan medali Mod Introduction
 
 | Nama medali | Persyaratan |

@@ -59,7 +59,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | Per-beatmap offset calibration | ![Partial][partial][^offset-calibration-stable] | ![Yes][true][^offset-calibration-lazer] |
 | osu! sliders "snake" while dragging | ![No][false] | ![Yes][true][^can-disable] |
 | osu! player-friendly "note lock" | ![No][false] | ![Yes][true][^note-lock] |
-| osu!mania and osu! timing-based note colouring | ![No][false] | ![Yes][true] |
+| osu!, osu!catch and osu!mania timing-based note colouring | ![No][false] | ![Yes][true] |
 | Replay seeking | ![No][false] | ![Yes][true] |
 | [Niconico](https://en.wikipedia.org/wiki/Niconico)-style scrolling replay comments | ![Yes][true] | ![No][false] |
 
@@ -84,6 +84,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | Multiplayer commands | ![Yes][true] | ![No][false] |
 | Tag co-op | ![Yes][true] | ![No][false] |
 | Playlists (user-curated leaderboards) | ![No][false] | ![Yes][true] |
+| Ranked play | ![No][false] | ![Yes][true] |
 | Updating beatmaps with online changes | ![Partial][partial][^map-only] | ![Yes][true][^all-files] |
 
 ### Editor
@@ -96,6 +97,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | osu!mania editor | ![Yes][true] | ![Yes][true] |
 | Open difficulty as reference | ![Yes][true] | ![No][false] |
 | Per-object SV / volume | ![No][false] | ![Yes][true] |
+| Custom hitsound sample sets | ![Yes][true] | ![Yes][true] |
 | Per-segment slider curve types | ![No][false] | ![Yes][true] |
 | Slider splitting and merging | ![No][false] | ![Yes][true] |
 | Pattern rotation | ![Yes][true] | ![Yes][true] |
@@ -131,7 +133,7 @@ In stable, the accuracy (and judgement) requirements for each [grade](/wiki/Game
 | B | >70% GREATs/300s (no misses) or >80% GREATs/300s | >90% | >80% |
 | C | >60% GREATs/300s | >85% | >70% |
 
-Meanwhile, osu!(lazer) has these accuracy cutoffs now:
+Meanwhile, lazer has these accuracy cutoffs now:
 
 | Grade | osu! / osu!taiko | osu!catch | osu!mania |
 | :-: | :-- | :-- | :-- |
@@ -162,12 +164,6 @@ There are also some differences in how much score each hit object and each judge
 | Revertable using the Classic mod | ![No][false] |
 | Intentionally changed | ![Yes][true] |
 | Needs further consideration | ![Yes][true] |
-
-#### Storyboard triggers are not implemented
-
-Some storyboards feature elements that react to player input or health.
-
-![](img/sb-triggers.gif)
 
 ### osu!
 
@@ -233,7 +229,7 @@ See [this YouTube video](https://www.youtube.com/watch?v=SlWKKA-ltZY) for a deta
 
 Missing a slider head (either by not hitting it or hitting it during its miss window) would previously break combo but not cause a MISS judgement, and a judgement could still be received for the missed slider by completing the rest of it. This allowed players to get scores with low max combo while technically having no misses.
 
-In lazer, not hitting the slider head will give a MISS judgement for the whole slider. After missing a slider head, combo, score, and accuracy can still be gained from slider ticks, repeats, and ends.
+In lazer, not hitting the slider head will give a MISS judgement for the whole slider. After missing a slider head, combo, score and accuracy can still be gained from slider ticks, repeats and ends.
 
 |  |  |
 | :-- | :-: |
@@ -278,7 +274,7 @@ The RPM required to get the maximum score is as follows:
 
 ![](img/aspire-slider.gif)
 
-Some adventurous beatmaps exploit glitches in the stable client that allowed for very weird slider mechanics. These range from zero-length sliders acting as invisible circles, to cross-screen stretched and squished sliders.
+Some adventurous beatmaps exploit glitches in the stable client that allow for very weird slider mechanics. These range from zero-length sliders acting as invisible circles, to cross-screen stretched and squished sliders.
 
 More discussion and consideration will be needed for how much of Aspire beatmaps will be compatible going forward. For example, invisible circles might become a properly supported feature in the future.
 
@@ -311,19 +307,6 @@ In stable, drumrolls could not be hit too quickly or too slowly. This restrictio
 | Breaks backwards compatibility | ![Yes][true] |
 | Revertable using the Classic mod | ![No][false] |
 | Intentionally changed | ![Yes][true] |
-| Needs further consideration | ![Yes][true] |
-
-#### The Flashlight centre is aligned with the hit receptor
-
-<!-- TODO: comparison image  -->
-
-In stable, the Flashlight centre is offset a bit down and to the right, making more hit objects visible.
-
-|  |  |
-| :-- | :-: |
-| Breaks backwards compatibility | ![No][false] |
-| Revertable using the Classic mod | ![No][false] |
-| Intentionally changed | ![No][false] |
 | Needs further consideration | ![Yes][true] |
 
 ### osu!catch
@@ -423,7 +406,7 @@ You can find it for download [here](https://osu.ppy.sh/home/download). In the ne
 
 #### Is stable going away? Am I going to be forced to switch?
 
-Stable will continue to be maintained as long as users are using it. At very least, it will be maintained for several years.
+Stable will continue to be maintained as long as users are using it. At the very least, it will be maintained for several years.
 
 #### Can I import all my data from stable to lazer?
 
@@ -457,9 +440,9 @@ That said, individual scores and beatmaps can be exported from lazer and manuall
 
 #### If I set a score on lazer, will it show on my profile?
 
-Yes, but it won't show in "best performance" with "lazer mode" turned off on the website.
+Scores set on lazer will be displayed under `Pinned Scores`, `Best Performance`, `Recent Plays (24h)` and `Most Watched Replays`.
 
-It additionally not show in "first place ranks" regardless for now.
+In order for them to also show in `First Place Scores`, you have to enable `Lazer mode` on the website.
 
 #### If I set a score on lazer, will it give performance points?
 
@@ -495,38 +478,44 @@ Scores of all mod combinations appear on leaderboards.
 
 However, only the following mods will award performance points for now:
 
+*Only the **default configuration** of customisation options is eligible for performance points, unless otherwise noted.*
+
 - Difficulty reduction
   - Easy
   - No Fail
-  - Half Time (only 0.75x, configuring `Adjust pitch` is allowed)
-  - Daycore (only 0.75x)
+  - Half Time (Configuring `Adjust pitch` is allowed)
+  - Daycore
 - Difficulty Increase
-  - Hard Rock (not for osu!mania)
-  - Sudden Death (Configuring `Restart on fail` is allowed)
-  - Perfect (Configuring `Restart on fail` is allowed)
+  - Hard Rock (Not for osu!mania)
+  - Sudden Death (All customisation options are allowed)
+  - Perfect (All customisation options are allowed)
+  - Double Time (Configuring `Adjust pitch` is allowed)
+  - Nightcore
+  - Fade In (osu!mania only)
   - Hidden
-  - Nightcore (only 1.5x)
-  - Double Time (only 1.5x, configuring `Adjust pitch` is allowed)
+  - Traceable (osu! only)
+  - Cover (osu!mania only, all customisation options are allowed)
   - Flashlight
-  - Blinds
-  - Accuracy Challenge
-- Conversion (osu!mania only)
-  - Mirror
-  - Four Keys
-  - Five Keys
-  - Six Keys
-  - Seven Keys
-  - Eight Keys
-  - Nine Keys
+  - Blinds (osu! only)
+  - Accuracy Challenge (All customisation options are allowed)
+- Automation
+  - Spun Out (osu! only)
+- Conversion
+  - Alternate (osu! only)
+  - Swap (osu!taiko only)
+  - Single Tap (osu! & osu!taiko only)
+  - Mirror (osu!mania only)
+  - Four Keys (osu!mania only)
+  - Five Keys (osu!mania only)
+  - Six Keys (osu!mania only)
+  - Seven Keys (osu!mania only)
+  - Eight Keys (osu!mania only)
+  - Nine Keys (osu!mania only)
 - Fun
-  - Muted
-  - No Scope
-- Automation (osu! only)
-  - Spun out
+  - Muted (All customisation options are allowed)
+  - No Scope (osu! & osu!catch only, all customisation options are allowed)
 - System
   - Touch Device
-
-Only the default configuration of customisation options is eligible for performance points, unless otherwise noted above.
 
 #### I don't like the new gameplay mechanics. Can I restore the old gameplay mechanics like on stable?
 
@@ -556,7 +545,7 @@ Lazer polls for input at 1,000 Hz regardless of FPS limiter, which is why the ma
 
 If you are curious about how this affects input latency and test your own perception, please run the built-in "latency certifier" at the bottom of settings.
 
-You can also [read this technical document](https://github.com/ppy/osu/wiki/Latency-and-unlimited-frame-rates) explaining the path we are taking along with rationale behind it.
+You can also [read this technical document](https://github.com/ppy/osu/wiki/Latency-and-unlimited-frame-rates) explaining the path we are taking along with the rationale behind it.
 
 #### If input is only polled at 1,000 Hz, what about my 8,000 Hz gaming mouse?
 
@@ -596,7 +585,7 @@ We have a huge backlog of user-requested features and improvements that we will 
 
 There is no songs folder in lazer! This allows us to do cool things like not require pressing `F5` at song select to refresh beatmaps (because beatmaps are always in a good state) and reduce the disk space used by beatmaps by 20–40%. You can read more about [the way lazer stores files](/wiki/Client/Release_stream/Lazer/File_storage).
 
-If you need to make changes to a beatmap, please use the editor. Going forward we will introduce a mode in the editor which makes a beatmap's folder temporarily accessible for external editing. This will allow you to use external tools on a beatmap during the creation process.
+If you need to make changes to a beatmap, please use the in-game beatmap editor. To access the raw files for a beatmap set, you can use the **Edit externally** option under the **File** menu.
 
 #### Now that "osu!direct" is available to all players, will supporters have any new benefits?
 

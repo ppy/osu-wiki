@@ -4,6 +4,8 @@ tags:
   - modding V2
   - MV2
 outdated: true
+outdated_translation: true
+outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
 ---
 
 # Diskusi beatmap

@@ -6,7 +6,9 @@ tags:
 
 # Local offset
 
-*Pour d'autres utilisations, voir [Offset](/wiki/Offset).*
+::: alert-note
+**Remarque** : Pour d'autres utilisations, voir [Offset](/wiki/Offset).
+:::
 
 Le **Local  offset** (plus rarement appelé *offline offset* ou décalage local) est un paramètre qui déplace l'apparence des [objets](/wiki/Gameplay/Hit_object) par rapport à l'audio des [beatmaps](/wiki/Beatmap) individuelles. Cela peut être utile pour les joueurs qui ont des décalages auditifs ou visuels. Le local song offset fonctionne avec le [décalage global](/wiki/Offset/Universal_offset) pour calculer un décalage total.
 

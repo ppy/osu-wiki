@@ -89,6 +89,8 @@ tags:
 
 ## osu!(lazer)
 
+<!-- Source: https://github.com/ppy/osu/blob/master/osu.Game/Localisation/MenuTipStrings.cs -->
+
 这些提示出现在 [osu!(lazer)](/wiki/Client/Release_stream/Lazer) 的主菜单下方。
 
 - 在游戏里随时按下 `Ctrl` + `T`，来唤出工具栏！
@@ -114,7 +116,7 @@ tags:
 - 将任何图片拖入皮肤编辑器来快速导入它！
 - 你能创建模组预设，来更轻松地挂上你最喜欢的多个模组组合！
 - 许多模组有可以大幅度改变效果的自定义设置。点击模组选择界面的`自定义模组`按钮来浏览设置！
-- 按下 `Ctrl` + `Shift` + `R` 随机切换皮肤！
+- 按下 `Ctrl` + `Shift` + `R` 随机切换皮肤！你也可以使用 `Ctrl` + `Shift` + `E` 和 `Ctrl` + `Shift` + `T` 循环切换皮肤。
 - 按下 `Ctrl` + `Shift` + `F` 显示 FPS 计数器。但请不要过多注意它！
 - 在播放回放时，按下 `Ctrl` + `H` 显示回放设置！
 - 右键点击排行榜上分数的模组，可以轻松复制它！

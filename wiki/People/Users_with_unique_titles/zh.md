@@ -72,7 +72,7 @@
 | [OWC 2020](/wiki/Tournaments/OWC/2020) | Former osu! Champion: 2020 | ::{ flag=US }:: [Apraxia](https://osu.ppy.sh/users/4194445), ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691), ::{ flag=US }:: [kablaze](https://osu.ppy.sh/users/3043603), ::{ flag=US }:: [Rektygon](https://osu.ppy.sh/users/7813296), ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150) |
 | [OWC 2021](/wiki/Tournaments/OWC/2021) | Former osu! Champion: 2021 | ::{ flag=US }:: [Aireu](https://osu.ppy.sh/users/1650010), ::{ flag=US }:: [Aricin](https://osu.ppy.sh/users/1419095), ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207), ::{ flag=US }:: [Exarch](https://osu.ppy.sh/users/5370153), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |
 | [OWC 2022](/wiki/Tournaments/OWC/2022) | Former osu! Champion: 2022 | ::{ flag=US }:: [decaten](https://osu.ppy.sh/users/5645231), ::{ flag=US }:: [im a fancy lad](https://osu.ppy.sh/users/4908650), ::{ flag=US }:: [Monko2k](https://osu.ppy.sh/users/4852013), ::{ flag=US }:: [Sawada](https://osu.ppy.sh/users/8198848), ::{ flag=US }:: [Utami](https://osu.ppy.sh/users/7512553) |
-| [OWC 2023](/wiki/Tournaments/OWC/2023) | Former osu! Champion: 2023 | ::{ flag=US }:: [BoshyMan741](https://osu.ppy.sh/users/4830687), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=US }:: [Kama](https://osu.ppy.sh/users/13380270), ::{ flag=US }:: [Rektygon](https://osu.ppy.sh/users/7813296), ::{ flag=US }:: [tekkito](https://osu.ppy.sh/users/7075211), ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150), ::{ flage=US }:: [hotdog4000](https://osu.ppy.sh/users/4108547), ::{ flag=US }:: [wudci](https://osu.ppy.sh/users/2590257) |
+| [OWC 2023](/wiki/Tournaments/OWC/2023) | Former osu! Champion: 2023 | ::{ flag=US }:: [BoshyMan741](https://osu.ppy.sh/users/4830687), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=US }:: [Kama](https://osu.ppy.sh/users/13380270), ::{ flag=US }:: [Rektygon](https://osu.ppy.sh/users/7813296), ::{ flag=US }:: [tekkito](https://osu.ppy.sh/users/7075211), ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150), ::{ flag=US }:: [hotdog4000](https://osu.ppy.sh/users/4108547), ::{ flag=US }:: [wudci](https://osu.ppy.sh/users/2590257) |
 
 拥有 **Former osu!taiko Champion** 头衔，在之前 osu!taiko 世界杯获胜的冠军：
 
@@ -140,6 +140,7 @@
 
 - ::{ flag=JP }:: [-Kazuha](https://osu.ppy.sh/users/29978316)
 - ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596)
+- ::{ flag=DE }:: [0ppInOsu](https://osu.ppy.sh/users/12551840)
 - ::{ flag=PH }:: [acnozei](https://osu.ppy.sh/users/10141268)
 - ::{ flag=KR }:: [Acylica](https://osu.ppy.sh/users/1943309)
 - ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883)
@@ -154,6 +155,8 @@
 - ::{ flag=US }:: [fowwo](https://osu.ppy.sh/users/4547551)
 - ::{ flag=JP }:: [Gamu](https://osu.ppy.sh/users/611174)
 - ::{ flag=GB }:: [hypercyte](https://osu.ppy.sh/users/9155377)
+- ::{ flag=CN }:: [iBell](https://osu.ppy.sh/users/4298072)
+- ::{ flag=JP }:: [iceOC](https://osu.ppy.sh/users/5482401)
 - ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134)
 - ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377)
 - ::{ flag=KR }:: [Kawawa](https://osu.ppy.sh/users/4647754)
@@ -179,6 +182,7 @@
 - ::{ flag=LY }:: [Soul Evans](https://osu.ppy.sh/users/4490770)
 - ::{ flag=BE }:: [Sylas](https://osu.ppy.sh/users/3906405)
 - ::{ flag=KR }:: [Taeyang](https://osu.ppy.sh/users/2732340)
+- ::{ flag=JP }:: [tasuke912](https://osu.ppy.sh/users/2774767)
 - ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811)
 - ::{ flag=CN }:: [TtmnZk](https://osu.ppy.sh/users/2495509)
 - ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904)
@@ -191,9 +195,11 @@
 
 ### 优秀提名者
 
-*主文章：[优秀提名者](/wiki/People/Elite_Nominators)*
+::: alert-note
+**主文章：** [优秀提名者](/wiki/People/Elite_Nominators)
+:::
 
-自 2020 年以来，[谱面提名成员 (BN)](/wiki/People/Beatmap_Nominators) 和[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 的成员如果在一年内，在谱面上架方面做出卓越贡献，将会获得 **Elite Nominator** 头衔。头衔将会在玩家被评定时颁发，展示持续一年或持续到玩家离开提名团队。
+自 2020 年以来，[谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) 和[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 的成员如果在一年内，在谱面上架方面做出卓越贡献，将会获得 **Elite Nominator** 头衔。头衔将会在玩家被评定时颁发，展示持续一年或持续到玩家离开提名团队。
 
 - ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957)
 - ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785)[^elite-note]

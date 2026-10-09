@@ -18,7 +18,10 @@ outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 
 ![Icône du mod AT](/wiki/shared/mods/AT.png "Icône du mod Auto (AT)")
 
-*Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Gameplay/Game_modifier)*\
+::: alert-note
+**Remarque** : Pour la liste complète de tous les mods, voir [modificateurs de jeu](/wiki/Gameplay/Game_modifier)
+:::
+
 *À ne pas confondre avec le mod [Autopilot](/wiki/Gameplay/Game_modifier/Autopilot)*.
 
 ## À propos
@@ -32,7 +35,10 @@ outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 
 ## Description
 
-*Attention : Si vous activez le mod Auto, le jeu ne sera pas classé et ne sera pas enregistré dans les classements locaux.*
+::: alert-caution
+**Attention**
+Si vous activez le mod Auto, le jeu ne sera pas classé et ne sera pas enregistré dans les classements locaux.
+:::
 
 Le mod **Auto** est un [modificateur de jeu](/wiki/Gameplay/Game_modifier) qui permet aux joueurs de regarder une exécution parfaite de la beatmap sélectionné.
 

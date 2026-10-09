@@ -1,6 +1,8 @@
 # skin.ini
 
-*See also: [skin.ini/Blank](/wiki/Skinning/skin.ini/Blank)*
+::: alert-note
+**See also:** [skin.ini/Blank](/wiki/Skinning/skin.ini/Blank)
+:::
 
 The `skin.ini` is an initialization file that is found in almost every skin folder.
 This file will define how osu! will display certain skin elements.
@@ -258,7 +260,10 @@ osu! organises the commands with a heading command. Which may look like this `[G
 
 ## \[Colours\]
 
-*Note: this header **must** be spelled as **`[Colours]`**, not `[Colors]`!*
+::: alert-notice
+**Notice**
+this header **must** be spelled as **`[Colours]`**, not `[Colors]`!
+:::
 
 - `Combo1:`
   - Question: What colour is used for the last combo?

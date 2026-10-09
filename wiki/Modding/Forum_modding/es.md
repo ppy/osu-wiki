@@ -17,7 +17,7 @@ En el sistema de modding en los foros, cada beatmap tenía un hilo del foro para
 
 ## Hilos de los beatmaps
 
-Se creaba un hilo en el foro para un beatmap durante su [envío](/wiki/Beatmapping/Beatmap_submission) inicial y contenía comentarios de forma libre, interacciones con las dificultades de invitados y comentarios estructurados en forma de las publicaciones de mods. Servía como centro principal de discusión entre todos los usuarios interesados ​​en el beatmap: jugadores habituales, el [anfitrión del beatmap](/wiki/Beatmap/Beatmap_host), [mappers invitados](/wiki/Beatmap/Guest_difficulty), [modders]( /wiki/Modding/Modder) y miembros de estos equipos que podían clasificar beatmaps:
+Se creaba un hilo en el foro para un beatmap durante su [envío](/wiki/Beatmapping/Beatmap_submission) inicial y contenía comentarios de forma libre, interacciones con las dificultades de invitados y comentarios estructurados en forma de las publicaciones de mods. Servía como centro principal de discusión entre todos los usuarios interesados ​​en el beatmap: jugadores habituales, el [anfitrión del beatmap](/wiki/Beatmap/Beatmap_host), [mappers invitados](/wiki/Beatmap/Guest_difficulty), [modders](/wiki/Modding/Modder) y miembros de estos equipos que podían clasificar beatmaps:
 
 - [Beatmap Appreciation Team](/wiki/People/Beatmap_Appreciation_Team) (*BAT*)
 - [Mapping Assistance Team](/wiki/People/Mapping_Assistance_Team) (*MAT*)
@@ -33,7 +33,9 @@ Un hilo del foro se movía automáticamente entre diferentes secciones del foro 
 
 ### Prioridad por estrellas
 
-*Artículo principal: [Prioridad por estrellas](/wiki/Modding/Star_priority)*
+::: alert-note
+**Página principal:** [Prioridad por estrellas](/wiki/Modding/Star_priority)
+:::
 
 En cada subforo, los hilos de los beatmaps se ordenaban por prioridad de estrellas, lo que tenía varios propósitos:
 
@@ -82,7 +84,9 @@ Si bien no era necesario, se esperaba que los mappers respondieran a cada mod re
 
 ### Kudosu
 
-*Artículo principal: [Kudosu](/wiki/Modding/Kudosu)*
+::: alert-note
+**Página principal:** [Kudosu](/wiki/Modding/Kudosu)
+:::
 
 Si una publicación de un mod se consideraba útil, el mapper o un miembro del QAT/BAT o un BN podía premiarla con kudosu. Según una regla no escrita, solo la primera publicación de un mod de un usuario era elegible para obtener kudosu. Independientemente del número de sugerencias de una publicación o de su utilidad para el mapper, la cantidad de kudosu recibidos era la misma:
 

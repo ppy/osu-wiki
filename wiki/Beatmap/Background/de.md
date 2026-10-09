@@ -7,7 +7,9 @@ tags:
 
 # Hintergrund
 
-*Für Vorschriften zu Hintergründen, siehe: [Rankingkriterien](/wiki/Ranking_criteria)*
+::: alert-note
+**Anmerkung:** Für Vorschriften zu Hintergründen, siehe [Rankingkriterien](/wiki/Ranking_criteria)
+:::
 
 Bilder und Videos können als **Hintergrund** für Beatmaps verwendet werden. Wenn nur "bg" oder "background" geschrieben wird, ist üblicherweise ein Hintergrundbild gemeint.
 

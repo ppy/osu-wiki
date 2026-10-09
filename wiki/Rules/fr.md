@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 35fd45bb9f2c97a027f0763398d07b68dc687533
 ---
 
 # Règles
@@ -40,7 +42,10 @@ Ces règles sont les bases à partir de laquelle nous contribuons à faire de la
 
 ## Règles de mise en ligne des beatmaps
 
-*Note : Ces règles s'appliquent à **toutes les beatmaps mises en ligne**, pas seulement les beatmaps classées. Pour des règles plus spécifiques concernant les beatmaps classées, voir les [critères de classement](/wiki/Ranking_criteria).*
+::: alert-notice
+**Note**
+Ces règles s'appliquent à **toutes les beatmaps mises en ligne**, pas seulement les beatmaps classées. Pour des règles plus spécifiques concernant les beatmaps classées, voir les [critères de classement](/wiki/Ranking_criteria).
+:::
 
 Ces règles s'appliquent strictement aux beatmaps mises en ligne via le [système de mise en ligne des beatmaps](/wiki/Beatmapping/Beatmap_submission). Ces fils de discussion sont créés via le client d'osu! lorsqu'une beatmap est soumise via l'[éditeur](/wiki/Client/Beatmap_editor).
 

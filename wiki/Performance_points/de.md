@@ -65,7 +65,9 @@ Das Resultat daraus ist, dass Mods wie [Double Time](/wiki/Gameplay/Game_modifie
 
 ### Genauigkeit
 
-*Siehe auch: [Genauigkeit](/wiki/Gameplay/Accuracy)*
+::: alert-note
+**Siehe auch:** [Genauigkeit](/wiki/Gameplay/Accuracy)
+:::
 
 *Genauigkeit* ist ein Prozentwert, der die Fähigkeit eines Spielers bewertet, [Hit-Objekte](/wiki/Gameplay/Hit_object) zur richtigen Zeit zu treffen. Sie ist auch ein Kernwert, um die individuelle Leistung eines Spielers auf einer Beatmap zu bewerten.
 

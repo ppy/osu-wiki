@@ -22,7 +22,9 @@ tags:
 
 *Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Fade In (lazer)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer))*\
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*\
-*Эта статья — про мод, снижающий область видимости. О моде, убирающем круги вокруг нот, см. [Hidden](/wiki/Gameplay/Game_modifier/Hidden). О моде, затемняющем игровое поле, см. [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight).*
+::: alert-note
+**Примечание:** Эта статья — про мод, снижающий область видимости. О моде, убирающем круги вокруг нот, см. [Hidden](/wiki/Gameplay/Game_modifier/Hidden). О моде, затемняющем игровое поле, см. [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight).
+:::
 
 ## Краткая информация
 
@@ -35,7 +37,7 @@ tags:
 
 ## Описание
 
-**Fade In** (рус. *постепенное появление*) — [игровой модификатор](/wiki/Gameplay/Game_modifier) в [osu!mania](/wiki/Game_mode/osu!mania), повышающий сложность [карты](/wiki/Beatmap) за счёт того, что ноты пропадают и становятся видны только перед полосой [джаджмента](/wiki/Gameplay/Judgement) (англ. *judgement bar*).
+**Fade In** (рус. *постепенное появление*) — [игровой модификатор](/wiki/Gameplay/Game_modifier) в [osu!mania](/wiki/Game_mode/osu!mania), повышающий сложность [карты](/wiki/Beatmap) за счёт того, что ноты пропадают и становятся видны только перед линией [джаджмента](/wiki/Gameplay/Judgement) (англ. *judgement bar*).
 
 Скорость, с которой ноты появляются, зависит от набранного комбо: чем оно больше, тем дольше скрыты ноты, и тем позже они появляются.
 

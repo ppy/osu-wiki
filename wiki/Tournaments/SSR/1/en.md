@@ -558,7 +558,7 @@ Saturday, 9 August 2025:
 | [trooperr](https://osu.ppy.sh/users/32028459) ::{ flag=US }:: | 0 | **62,746** | ::{ flag=VN }:: **[LassieNoki](https://osu.ppy.sh/users/34152447)** | [#1](https://osu.ppy.sh/community/matches/118920915) |
 | **[Silicosis](https://osu.ppy.sh/users/15548876)** ::{ flag=PH }:: | **131,026** | 0 | ::{ flag=IT }:: [antony88fayah](https://osu.ppy.sh/users/20656485) | [#1](https://osu.ppy.sh/community/matches/118920939) |
 | **[miksstter](https://osu.ppy.sh/users/26205879)** ::{ flag=LV }:: | **0** | -1 | ::{ flag=DE }:: [Sirbeyy](https://osu.ppy.sh/users/12917829) | *win by default* |
-| [XenoPenguino](https://osu.ppy.sh/users/12045254) ::{ flag=CA }:: | 0 | **151,981** | ::{ flag=ES }:: [JoseXD\_](https://osu.ppy.sh/users/29511004) | [#1]() |
+| [XenoPenguino](https://osu.ppy.sh/users/12045254) ::{ flag=CA }:: | 0 | **151,981** | ::{ flag=ES }:: [JoseXD\_](https://osu.ppy.sh/users/29511004) | [#1](https://osu.ppy.sh/community/matches/118922997) |
 | **[Tonels](https://osu.ppy.sh/users/15179858)** ::{ flag=US }:: | **0** | -1 | ::{ flag=PL }:: [bagjettka](https://osu.ppy.sh/users/18338179) | *win by default* |
 | **[MiniEgg\_23](https://osu.ppy.sh/users/25914360)** ::{ flag=GB }:: | **57,001** | 0 | ::{ flag=US }:: [da\_bee](https://osu.ppy.sh/users/34548393) | [#1](https://osu.ppy.sh/community/matches/118923499) |
 | **[\[LS\]Astal](https://osu.ppy.sh/users/32151196)** ::{ flag=US }:: | **56,169** | 0 | ::{ flag=US }:: [Tevelkin](https://osu.ppy.sh/users/18508394) | [#1](https://osu.ppy.sh/community/matches/118924120) |

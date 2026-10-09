@@ -1,13 +1,18 @@
 # Summary of game modifiers
 
-*Main page: [Game modifiers](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Main page:** [Game modifiers](/wiki/Gameplay/Game_modifier)
+:::
 
 <!-- READ BEFORE EDITING:
 - Mods are listed in order of appearance on the Mod Selection screen.
   - osu! is treated as the default and will be displayed before osu!mania specific mods; with exception to "experimental" mods.
   - SV2, TP, and DC are listed last because they are considered "experimental". -->
 
-*Note: All mods used in osu!mania will never increase the score multiplier.*
+::: alert-notice
+**Notice**
+All mods used in osu!mania will never increase the score multiplier.
+:::
 
 | Mod | Name (Abbr.) | Multiplier | Caption |
 | :-- | :-- | :-- | :-- |
@@ -36,7 +41,10 @@
 
 ## xK mod score multipliers
 
-*Notice: This table only affects beatmaps converted from osu! to osu!mania during play, not on osu!mania-specific beatmaps!*
+::: alert-notice
+**Notice**
+This table only affects beatmaps converted from osu! to osu!mania during play, not on osu!mania-specific beatmaps!
+:::
 
 | Default/Modifier | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
 | :-: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
@@ -47,7 +55,10 @@
 
 ### xK mod with Co-op score multipliers
 
-*Notice: This table only affects beatmaps converted from osu! to osu!mania during play, not on osu!mania-specific beatmaps. And as such, the Co-Op mod gives no penalty on osu!mania-specific beatmaps.*
+::: alert-notice
+**Notice**
+This table only affects beatmaps converted from osu! to osu!mania during play, not on osu!mania-specific beatmaps. And as such, the Co-Op mod gives no penalty on osu!mania-specific beatmaps.
+:::
 
 | Default/Modifier | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
 | :-: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
@@ -58,7 +69,10 @@
 
 ## Inverse mods
 
-*Note: All mods cancel out the Target Practice mod.*
+::: alert-notice
+**Notice**
+All mods cancel out the Target Practice mod.
+:::
 
 | These mods... | ...cancel out these mods. (and vice-versa) |
 | :-- | :-- |

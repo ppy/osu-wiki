@@ -1,10 +1,17 @@
+---
+outdated_translation: true
+outdated_since: 238835a67fc953aa2aa5a51f64149a1d862bfd62
+---
+
 # Skinning du mode osu!mania
 
 Depuis la version 2.5, les skinners peuvent personnaliser entièrement les notes et la scène du mode osu!mania en utilisant le fichier [skin.ini](/wiki/Skinning/skin.ini). Voici ce qu'osu! reconnaîtra si l'on choisit de ne pas utiliser le fichier `skin.ini` pour plus de personnalisation.
 
 ## Hit Bursts
 
-*Voir également : [Skinning/FAQ § Hiérarchie de l'écran de classement](/wiki/Skinning/FAQ#hiérarchie-des-résultats-de-l'écran-de-classement)*
+::: alert-note
+**Voir également** : [Skinning/FAQ § Hiérarchie de l'écran de classement](/wiki/Skinning/FAQ#hiérarchie-des-résultats-de-l'écran-de-classement)
+:::
 
 ---
 

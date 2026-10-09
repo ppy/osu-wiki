@@ -31,13 +31,17 @@
 
 ### 掉血速度 (HP Drain Rate)
 
-*主文章：[血量](/wiki/Beatmap/HP_drain_rate)*
+::: alert-note
+**主文章：** [血量](/wiki/Beatmap/HP_drain_rate)
+:::
 
 掉血速度 (HP) 决定了打击较好时恢复血量及[打击](/wiki/Gameplay/Judgement)不好时损失的血量。在 osu! 与 osu!catch 中，这个值也影响[被动血量](/wiki/Client/Interface/Health_bar)。HP 值越高，恢复血量就越低，损失血量就越高。
 
 ### 圆圈大小 (Circle Size)
 
-*主文章：[圆圈大小 (Circle size)](/wiki/Beatmap/Circle_size)*
+::: alert-note
+**主文章：** [圆圈大小 (Circle size)](/wiki/Beatmap/Circle_size)
+:::
 
 ![多种圆圈大小的概览](img/Circle_sizes.png "多种圆圈大小的概览")
 
@@ -56,7 +60,7 @@ osu!taiko 与 osu!mania 不受缩圈速度改变的影响——两个模式都�
 ### 整体难度 (Overall Difficulty)
 
 *主页面：[整体难度 (Overall difficulty)](/wiki/Beatmap/Overall_difficulty)*\
-*备注：整体难度在谱面页上被称为`准度要求 (Accuracy)`。*
+*备注：整体难度在[谱面信息页](/wiki/Beatmap_information)上被称为`准度要求 (Accuracy)`。*
 
 整体难度 (OD) 负责调整打击区间的长度，后者定义了获得高准确率的难易程度。OD 值越高，打击区间就越短，对准确度和精确度的要求就越高。由于准确度对获得血量很重要，整体难度间接影响了通过谱面的难度。
 
@@ -125,7 +129,9 @@ osu!taiko 与 osu!mania 不受缩圈速度改变的影响——两个模式都�
 
 ### 堆叠 (Stacking)
 
-*主页面：[堆叠度 (Stack leniency)](/wiki/Beatmap/Stack_leniency)*
+::: alert-note
+**主文章：** [堆叠度 (Stack leniency)](/wiki/Beatmap/Stack_leniency)
+:::
 
 堆叠度是 osu! 专用的一项设置，会影响堆叠物件的表现。一般情况下，当时间上间隔很小的[滑条](/wiki/Gameplay/Hit_object/Slider)与[打击圈](/wiki/Gameplay/Hit_object/Hit_circle)被放在同一个点时，它们会自动[堆叠](/wiki/Beatmapping/Mapping_techniques/Stack)
 。这旨在帮助玩家看到[相互重叠](/wiki/Beatmapping/Mapping_techniques/Overlap)的打击物件。

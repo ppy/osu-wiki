@@ -1,3 +1,14 @@
+---
+tags:
+  - mute
+  - timeout
+  - chat ban
+  - muteo
+  - mutear
+  - baneo del chat
+  - baneado del chat
+---
+
 # Silencio
 
 **Silencio** es el término usado para describir el castigo de limitar los medios de comunicación de un usuario dentro de la comunidad de osu!. Los miembros del [Global Moderation Team](/wiki/People/Global_Moderation_Team) y del [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) suelen dar estos silencios para mantener un ambiente limpio, tanto en el sitio web como en el juego.
@@ -5,7 +16,7 @@
 ## Limitaciones
 
 ::: Infobox
-![](img/silence-profile-ES.png "Registro de un silencio en la página de perfil")
+![](img/silence-profile-ES.png?1 "Registro de un silencio en la página de perfil")
 :::
 
 Un usuario que tiene un silencio activo no puede hacer lo siguiente:
@@ -23,6 +34,8 @@ Un usuario que tiene un silencio activo no puede hacer lo siguiente:
 :::
 
 Una vez que se aplique un silencio a un usuario, se eliminarán todos sus mensajes en el chat y se mostrará una alerta en el lugar del campo de entrada del chat con la duración del silencio activo.[^chat-cleanup]
+
+Una vez aplicados, los silencios son visibles públicamente en la pestaña `Estado de la cuenta` del perfil del usuario silenciado, y permanecen visibles durante 28 días tras su finalización. Si el silencio está activo, la duración restante se mostrará en esta pestaña. Si un usuario tiene tres o más silencios visibles, o si tiene un silencio visible que dura 43 horas o más, también se muestra una advertencia sobre el estado de su cuenta.
 
 ## Duraciones
 
@@ -54,9 +67,15 @@ También se pueden dar silencios a los usuarios por otras razones, tales como (p
 
 ## Apelar un silencio
 
-Si bien los silencios se aplican para mantener un entorno positivo en la comunidad, pueden producirse errores. Si crees que el silencio que se te ha dado es un error o está injustificado, ponte en contacto con el [equipo de soporte de cuentas](/wiki/People/Account_support_team#accounts@ppy.sh) en [accounts@ppy.sh](mailto:accounts@ppy.sh) y explícales la situación.
+Si bien los silencios se aplican para mantener un entorno positivo en la comunidad, pueden producirse errores. Si crees que el silencio que se te ha dado es un error o está injustificado, ponte en contacto con el [equipo de soporte de cuentas](/wiki/People/Account_support_team#accounts@ppy.sh) en [accounts@ppy.sh](mailto:accounts@ppy.sh) y explícales la situación. También puedes pedirles que te expliquen las razones de tu silencio.
 
 Ten en cuenta que debes usar la dirección de correo electrónico asociada a tu cuenta de osu! y mencionar tu nombre de usuario para confirmar que eres tú.
+
+## ¿Cómo puedo evitar que me silencien?
+
+Lee atentamente y sigue las [reglas](/wiki/Rules), las [consideraciones de contenido visual](/wiki/Rules/Visual_content_considerations), las [reglas del contenido de canciones](/wiki/Rules/Song_content_rules) y el [código de conducta para el modding y el mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping). Si no estás seguro acerca de algo que quieres hacer o decir y que podría infringir las reglas, pregúntale a [un miembro del Global Moderation Team](https://osu.ppy.sh/groups/4).
+
+Además, si tienes alguna publicación antigua en el foro, un beatmap, un comentario o algo similar que consideres que contiene contenido inapropiado, también es recomendable que lo elimines o edites dicho contenido si puedes. Si por cualquier motivo no puedes editar o eliminar el contenido, ponte en contacto con un miembro del Global Moderation Team para que lo elimine.
 
 ## Referencias
 

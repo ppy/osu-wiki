@@ -1,6 +1,8 @@
 # Système de notation d'osu!catch
 
-*Voir également : [Système de jugement d'osu!catch](/wiki/Gameplay/Judgement/osu!catch)*
+::: alert-note
+**Voir également** : [Système de jugement d'osu!catch](/wiki/Gameplay/Judgement/osu!catch)
+:::
 
 Le score pour osu!catch utilise le même multiplicateur qu'[osu!](/wiki/Game_mode/osu!).
 Cependant, le fruit qui additionne le score est différent de celui d'osu!

@@ -2,7 +2,9 @@
 
 ![Aufruf von Objekten/Sprites im SB](img/SBS_Sprite.jpg "Aufruf von Objekten/Sprites im SB")
 
-*Für Objekte in [osu!](/wiki/Game_mode/osu!) und beim [Beatmapping](/wiki/Beatmapping), siehe: [Hit-Objekte](/wiki/Gameplay/Hit_object)*
+::: alert-note
+**Anmerkung:** Für Objekte in [osu!](/wiki/Game_mode/osu!) und beim [Beatmapping](/wiki/Beatmapping), siehe [Hit-Objekte](/wiki/Gameplay/Hit_object)
+:::
 
 Beim [Storyboarding](/wiki/Storyboard) sind **Objekte** Sprites oder Animationen, die auf dem Bildschirm erscheinen und das Storyboard bilden. Instanzen zu SB-spezifischen Audioeffekten können genauso als Objekte bezeichnet werden, jedoch gibt es zur Klarstellung [hier](/wiki/Storyboard/Scripting/Audio) noch einen eigenen Artikel dazu.
 

@@ -304,7 +304,10 @@ Las siguientes tablas de clasificación también están disponibles como una [ho
 
 ### osu!
 
-*Nota: Puedes [descargar todas las listas de juego de osu!](https://osu.ppy.sh/beatmaps/packs/1992) como un solo paquete de beatmaps.*
+::: alert-notice
+**Aviso**
+Puedes [descargar todas las listas de juego de osu!](https://osu.ppy.sh/beatmaps/packs/1992) como un solo paquete de beatmaps.
+:::
 
 #### Lista de juego A
 
@@ -340,7 +343,10 @@ Las siguientes tablas de clasificación también están disponibles como una [ho
 
 ### osu!taiko
 
-*Nota: Puedes [descargar todas las listas de juego de osu!](https://osu.ppy.sh/beatmaps/packs/1993) como un solo paquete de beatmaps.*
+::: alert-notice
+**Aviso**
+Puedes [descargar todas las listas de juego de osu!](https://osu.ppy.sh/beatmaps/packs/1993) como un solo paquete de beatmaps.
+:::
 
 #### Lista de juego A
 
@@ -376,7 +382,10 @@ Las siguientes tablas de clasificación también están disponibles como una [ho
 
 ### osu!catch
 
-*Nota: Puedes [descargar todas las listas de juego de osu!](https://osu.ppy.sh/beatmaps/packs/1994) como un solo paquete de beatmaps.*
+::: alert-notice
+**Aviso**
+Puedes [descargar todas las listas de juego de osu!](https://osu.ppy.sh/beatmaps/packs/1994) como un solo paquete de beatmaps.
+:::
 
 #### Lista de juego A
 
@@ -412,7 +421,10 @@ Las siguientes tablas de clasificación también están disponibles como una [ho
 
 ### osu!mania
 
-*Nota: Puedes [descargar todas las listas de juego de osu!](https://osu.ppy.sh/beatmaps/packs/1995) como un solo paquete de beatmaps.*
+::: alert-notice
+**Aviso**
+Puedes [descargar todas las listas de juego de osu!](https://osu.ppy.sh/beatmaps/packs/1995) como un solo paquete de beatmaps.
+:::
 
 #### Lista de juego A
 

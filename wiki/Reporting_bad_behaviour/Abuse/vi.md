@@ -1,5 +1,6 @@
 ---
-no_native_review: true
+outdated_translation: true
+outdated_since: e7163973aa4c854dcc0455e3f696b608bf0852f7
 ---
 
 # Báo cáo lạm dụng
@@ -52,7 +53,7 @@ Sau đó, hãy liên hệ ngay với quản trị viên của máy chủ bằng 
 
 Nếu hành vi lạm dụng này tiếp tục diễn ra và quản trị viên không làm gì về việc đó, [vui lòng thông báo cho nhóm Discord Trust & Safety bằng cách gửi báo cáo](https://dis.gd/request).
 
-Ngoài ra, nếu bạn biết tài khoản osu! của người quấy rối bạn, vui lòng gửi email đến [abuse@ppy.sh](mailto:abuse@ppy.sh) chứa càng nhiều thông tin thì càng tốt và nó sẽ được điều tra kịp thời khi có thời gian. Lưu ý rằng chúng tôi không thể can thiệp vào nội dung trên các dịch vụ của bên thứ ba, vì vậy không có gì đảm bảo rằng chúng tôi sẽ thực hiện hành động, nhưng chúng tôi sẽ giữ lại bất kỳ ghi chú trong tệp.
+Nếu bạn biết tài khoản osu! của người làm phiền bạn, vui lòng gửi email đến [abuse@ppy.sh](mailto:abuse@ppy.sh) kèm theo càng nhiều thông tin thì càng tốt và vụ việc sẽ được xem xét khi có thể. Lưu ý rằng chúng tôi không thể xử lý các nội dung trên các dịch vụ của bên thứ ba, vì vậy không có gì đảm bảo rằng chúng tôi sẽ hành động, nhưng chúng tôi sẽ lưu lại mọi ghi chú trong hồ sơ.
 
 ### Trên Twitter được liên kết với tài khoản osu!
 
@@ -62,15 +63,15 @@ Sau đó, chặn hoặc tắt tiếng người dùng đó bằng cách nhấp v�
 
 Xin lưu ý rằng người đó sẽ biết bạn chặn họ nếu họ kiểm tra hồ sơ Twitter của bạn. Nếu bạn lo lắng điều này sẽ làm cho vấn đề trở nên tồi tệ hơn trong tương lai thì hãy chọn tắt tiếng tài khoản đó. Thao tác này sẽ xóa các tweet của họ khỏi dòng thời gian của bạn và ngăn bạn xem thêm bất kỳ nội dung nào từ họ, nhưng họ vẫn có thể xem và bình luận về tất cả các tweet bạn thực hiện.
 
-Nếu bạn biết tài khoản osu! của người quấy rối bạn, vui lòng gửi email đến [abuse@ppy.sh](mailto:abuse@ppy.sh) chứa càng nhiều thông tin thì càng tốt và nó sẽ được điều tra kịp thời khi có thời gian. Lưu ý rằng chúng tôi không thể can thiệp vào nội dung trên các dịch vụ của bên thứ ba, vì vậy không có gì đảm bảo rằng chúng tôi sẽ thực hiện hành động, nhưng chúng tôi sẽ giữ lại bất kỳ ghi chú trong tệp.
+Nếu bạn biết tài khoản osu! của người làm phiền bạn, vui lòng gửi email đến [abuse@ppy.sh](mailto:abuse@ppy.sh) kèm theo càng nhiều thông tin thì càng tốt và vụ việc sẽ được xem xét khi có thể. Lưu ý rằng chúng tôi không thể xử lý các nội dung trên các dịch vụ của bên thứ ba, vì vậy không có gì đảm bảo rằng chúng tôi sẽ hành động, nhưng chúng tôi sẽ lưu lại mọi ghi chú trong hồ sơ.
 
-## Một thành viên của một trong các nhóm tình nguyện (NAT, GMT) đang tiếp cận/nói chuyện/cư xử với tôi không đúng chuẩn mực!
+## Một thành viên trong các nhóm tình nguyện (NAT, GMT) đang tiếp cận/nói chuyện/cư xử với tôi không đúng chuẩn mực!
 
 Gửi email đến [abuse@ppy.sh](mailto:abuse@ppy.sh) **ngay lập tức** với càng nhiều thông tin càng tốt. Điều này bao gồm ảnh chụp màn hình, nhật ký trò chuyện, cơ bản là bất kỳ thứ gì bạn có thể đính kèm vào email.
 
 Nếu bất kỳ điều gì bạn muốn đính kèm khiến bạn cảm thấy xấu hổ, vui lòng che khuất nó đi.
 
-Chúng tôi sẽ xem xét vấn đề ngay khi có thể.
+Chúng tôi sẽ xem xét vấn đề càng sớm càng tốt.
 
 ## Ai đó tôi biết đang bị lạm dụng bởi một thành viên trong nhóm tình nguyện (NAT, GMT) nhưng quá sợ hãi để lên tiếng!
 

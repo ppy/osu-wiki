@@ -82,7 +82,7 @@ osu! 中的物件接受任何形式的输入，只要及时点击物件即可。
 
 维持连击时，总分会指数级增长。接近谱面结尾的物件比谱面开头的物件值更多的分数，意味着万一玩家打击不准，就会失去更多的潜在分数。因此，准确度较低的分数会获得更高的分数，并击败准确度较高的分数，这是可能的，并且非常常见。
 
-完成谱面后，会为分数分配一个[评价](/wiki/Gameplay/Grade#osu!)。评价以单个字母为形式，是对准确度的简短评估。金或银 SS 表示 100% 准确度，而其他的评价（从 S 到 D）取决于 300、 50 和 miss 的数目。
+完成谱面后，会为分数分配一个[评级](/wiki/Gameplay/Grade#osu!)。评级以单个字母为形式，是对准确度的简短评估。金或银 SS 表示 100% 准确度，而其他的评级（从 S 到 D）取决于 300、 50 和 miss 的数目。
 
 ## 自定义皮肤
 
@@ -130,7 +130,7 @@ osu! 的游玩基于*[押忍！战斗！应援团](https://zh.wikipedia.org/wiki
       - 计时器是转盘外缘的变色圆圈。当计时圈的颜色完全改变时，转盘就会结束。
 - 在线排行榜启用当天（2007 年 10 月 7 日），最先上架的三张谱面是：
   - [Kenji Ninuma - DISCO PRINCE (peppy)](https://osu.ppy.sh/beatmapsets/1)，即 `discoprince`；显然是在约一小时内作好的图。
-  - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/beatmapsets/3 )，即 `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`。
+  - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/beatmapsets/3)，即 `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`。
   - [Brandy - Love Fighter (FFFanatic)](https://osu.ppy.sh/beatmapsets/16)，即 `Brandy - Love Fighter`。
 - 值得注意的是，旧谱面的文件夹有自己的命名约定（这样的文件夹名只能在*早期*谱面包中找到），并未严格遵循目前强制使用的`{谱面集 ID} {艺术家名} - {谱面名}`格式。
   - 无论如何，从 osu! 网站的谱面列表上直接下载的谱面都遵循目前强制使用的命名格式。

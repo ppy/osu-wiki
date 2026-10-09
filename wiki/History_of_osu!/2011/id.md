@@ -1,9 +1,10 @@
 ---
 outdated_translation: true
 outdated_since: 7e141e8221bdddf973c3eb5aabe4c4b2825144c8
+stub: true
 ---
 
-# 2011
+# Sejarah osu! 2011
 
 ## Desember
 

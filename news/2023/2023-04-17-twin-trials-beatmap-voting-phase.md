@@ -73,17 +73,17 @@ Click any banner below to download its team's mapset! Just keep in mind that you
 
 The **top 8 osu! submissions** were narrowed down for this vote:
 
-[![blacklist international team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/osu/blacklist%20international.png)](https://osu.ppy.sh/beatmapsets/1971997)
+[![blacklist international team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/osu/blacklist-international.png)](https://osu.ppy.sh/beatmapsets/1971997)
 
-[![bulochki k chayu team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/osu/bulochki%20k%20chayu.png)](https://osu.ppy.sh/beatmapsets/1972171)
+[![bulochki k chayu team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/osu/bulochki-k-chayu.png)](https://osu.ppy.sh/beatmapsets/1972171)
 
-[![donerbuden bande team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/osu/donerbuden%20bande.png)](https://osu.ppy.sh/beatmapsets/1971983)
+[![donerbuden bande team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/osu/donerbuden-bande.png)](https://osu.ppy.sh/beatmapsets/1971983)
 
-[![Eye of Aeon team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/osu/Eye%20of%20Aeon.png)](https://osu.ppy.sh/beatmapsets/1972126)
+[![Eye of Aeon team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/osu/Eye-of-Aeon.png)](https://osu.ppy.sh/beatmapsets/1972126)
 
-[![Hardvard Dropouts team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/osu/Harvard%20Dropouts.png)](https://osu.ppy.sh/beatmapsets/1972749)
+[![Hardvard Dropouts team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/osu/Harvard-Dropouts.png)](https://osu.ppy.sh/beatmapsets/1972749)
 
-[![Imperishable Night team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/osu/Imperishable%20Night.png)](https://osu.ppy.sh/beatmapsets/1972104)
+[![Imperishable Night team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/osu/Imperishable-Night.png)](https://osu.ppy.sh/beatmapsets/1972104)
 
 [![PepeBusinessCorp team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/osu/PepeBusinessCorp.png)](https://osu.ppy.sh/beatmapsets/1971987)
 
@@ -97,15 +97,15 @@ The **top 8 osu! submissions** were narrowed down for this vote:
 
 [![-w-)b team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/taiko/-w-b.png)](https://osu.ppy.sh/beatmapsets/1972219)
 
-[![Frozen Bananas team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/taiko/Frozen%20Bananas.png)](https://osu.ppy.sh/beatmapsets/1972268)
+[![Frozen Bananas team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/taiko/Frozen-Bananas.png)](https://osu.ppy.sh/beatmapsets/1972268)
 
 [![meow team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/taiko/meow.png)](https://osu.ppy.sh/beatmapsets/1975181)
 
-[![Playing Counter Strike Global Offensive team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/taiko/Playing%20Counter%20Strike%20Global%20Offensive.png)](https://osu.ppy.sh/beatmapsets/1972018)
+[![Playing Counter Strike Global Offensive team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/taiko/Playing-Counter-Strike-Global-Offensive.png)](https://osu.ppy.sh/beatmapsets/1972018)
 
 [![Printemps team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/taiko/Printemps.png)](https://osu.ppy.sh/beatmapsets/1975991)
 
-[![we spent one discord message thinking of this teamname team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/taiko/we%20spent%20one%20discord%20message%20thinking%20of%20this%20teamname.png)](https://osu.ppy.sh/beatmapsets/1971951)
+[![we spent one discord message thinking of this teamname team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/taiko/we-spent-one-discord-message-thinking-of-this-teamname.png)](https://osu.ppy.sh/beatmapsets/1971951)
 
 ### osu!catch
 
@@ -115,11 +115,11 @@ The **top 8 osu! submissions** were narrowed down for this vote:
 
 [![:moyai: team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/catch/moyai.png)](https://osu.ppy.sh/beatmapsets/1972145)
 
-[![Alien Tails team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/catch/Alien%20Tails.png)](https://osu.ppy.sh/beatmapsets/1972368)
+[![Alien Tails team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/catch/Alien-Tails.png)](https://osu.ppy.sh/beatmapsets/1972368)
 
-[![Catch the AFK team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/catch/Catch%20the%20AFK.png)](https://osu.ppy.sh/beatmapsets/1972031)
+[![Catch the AFK team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/catch/Catch-the-AFK.png)](https://osu.ppy.sh/beatmapsets/1972031)
 
-[![Team name team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/catch/Team%20name.png)](https://osu.ppy.sh/beatmapsets/1972394)
+[![Team name team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/catch/Team-name.png)](https://osu.ppy.sh/beatmapsets/1972394)
 
 ### osu!mania
 
@@ -127,9 +127,9 @@ The **top 8 osu! submissions** were narrowed down for this vote:
 
 The **top 8 osu!mania submissions** were narrowed down for this vote:
 
-[!["world cup" team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/mania/world%20cup.png)](https://osu.ppy.sh/beatmapsets/1972607)
+[!["world cup" team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/mania/world-cup.png)](https://osu.ppy.sh/beatmapsets/1972607)
 
-[![Olsen's Shipmates team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/mania/Olsen's%20Shipmates.png)](https://osu.ppy.sh/beatmapsets/1972324)
+[![Olsen's Shipmates team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/mania/Olsen's-Shipmates.png)](https://osu.ppy.sh/beatmapsets/1972324)
 
 [![Petmalu team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/mania/Petmalu.png)](https://osu.ppy.sh/beatmapsets/1972411)
 
@@ -137,11 +137,11 @@ The **top 8 osu!mania submissions** were narrowed down for this vote:
 
 [![PrtSc team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/mania/PrtSc.png)](https://osu.ppy.sh/beatmapsets/1972242)
 
-[![The Furries Are Mitosising team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/mania/The%20Furries%20Are%20Mitosising.png)](https://osu.ppy.sh/beatmapsets/1971949)
+[![The Furries Are Mitosising team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/mania/The-Furries-Are-Mitosising.png)](https://osu.ppy.sh/beatmapsets/1971949)
 
-[![The Wolf and the Fox team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/mania/The%20Wolf%20and%20the%20Fox.png)](https://osu.ppy.sh/beatmapsets/1972034)
+[![The Wolf and the Fox team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/mania/The-Wolf-and-the-Fox.png)](https://osu.ppy.sh/beatmapsets/1972034)
 
-[![why are we here team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/mania/why%20are%20we%20here.png)](https://osu.ppy.sh/beatmapsets/1974129)
+[![why are we here team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/mania/why-are-we-here.png)](https://osu.ppy.sh/beatmapsets/1974129)
 
 ---
 

@@ -1,6 +1,8 @@
 # osu!tourney
 
-*Siehe auch: [osu!-Turnier-Client](/wiki/osu!_tournament_client)*
+::: alert-note
+**Siehe auch:** [osu!-Turnier-Client](/wiki/osu!_tournament_client)
+:::
 
 **osu!tourney** ist der Multi-Spectator-Client für die stabile Version von osu!, der zum Anzeigen und Streamen aller Spieler in einem Raum benutzt wird.
 

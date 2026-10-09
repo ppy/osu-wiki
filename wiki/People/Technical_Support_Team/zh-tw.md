@@ -27,9 +27,10 @@ outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
 
 | 名字 | 其他語言 |
 | :-- | :-- |
+| ::{ flag=IT }:: [- Marco -](https://osu.ppy.sh/users/1273955) | 義大利文 |
 | ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  |
-| ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  |
-| ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
+| ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  |
+| ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | 韓文、日文 |
+| ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | 德文 |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | 菲律賓文 |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | 波蘭文 |
-| ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | 西班牙文 |

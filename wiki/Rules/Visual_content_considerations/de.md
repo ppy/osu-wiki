@@ -30,7 +30,7 @@ Bilder oder visuelle Elemente, die eines der folgenden Dinge enthalten, sind **n
 - **sexueller Inhalt, der Minderjährige enthält oder auf diese ausgerichtet ist**
 - **exzessive Gewalt, Blut, Zerstückelung, Enthauptung oder Verstümmelung**
 - **erhebliche sexuelle Anspielungen**
-- **anzügliches Posieren oder Aufforderung zu sexuellen Taten**
+- **anzügliches Posieren oder Aufforderung zu sexuellen Handlungen**
 - **erotischer Inhalt oder grafische Abbildungen von Sexualität**
 - **Beispiele von Drogenkonsum, die Vorbereitung dazu oder die Identifikation mit illegaler Drogensubkultur**[^drug-nature]
 - **Darstellungen von absichtlich hetzerischen politischen, kulturellen, religiösen oder sozialen Inhalten**
@@ -51,7 +51,9 @@ In bestimmten Umständen können einige Ausnahmen für künstlerische Verwendung
 
 ## Dein Bild bewerten lassen
 
-*Siehe: [Verfahren zur Abstimmung über Inhalte](/wiki/Rules/Content_voting_process).*
+::: alert-note
+**Siehe auch:** [Verfahren zur Abstimmung über Inhalte](/wiki/Rules/Content_voting_process)
+:::
 
 Bilder, die auf der Webseite außerhalb einer Beatmap benutzt werden (Avatare, Profilbilder, Nutzerseiten usw.) sind **nicht** Thema des Abstimmungsverfahrens, das unten erklärt wird, und können jederzeit nach dem Ermessen des [globalen Moderationsteams](/wiki/People/Global_Moderation_Team) (GMT) entfernt werden.
 

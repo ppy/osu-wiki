@@ -1,6 +1,9 @@
 # Registre du personnel : 2010
 
-*Remarque : L'histoire de quelques utilisateurs peut être incomplète pendant cette année.*
+::: alert-notice
+**Note**
+L'histoire de quelques utilisateurs peut être incomplète pendant cette année.
+:::
 
 ## Janvier
 

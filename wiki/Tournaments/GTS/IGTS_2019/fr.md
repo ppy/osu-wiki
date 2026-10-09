@@ -442,7 +442,7 @@ Samedi, 8 Juin 2019:
 | G5 | Pérou ::{ flag=PE }:: | 0 | **5** | ::{ flag=CL }:: **Chili** | [#1](https://osu.ppy.sh/community/matches/52446788) |
 | C6 | Équateur ::{ flag=EC }:: | 0 | **5** | ::{ flag=JP }:: **Japon** | *victoire par défaut* |
 | G4 | **Indonésie B** ::{ flag=ID }:: | **5** | 4 | ::{ flag=PE }:: Pérou | [#1](https://osu.ppy.sh/community/matches/52447584) |
-| G6 | Indonésie B ::{ flag=ID }:: | 1 | **5** | ::{ flag=BR }:: **Brésil** | [#1](https://osu.ppy.sh/community/matches/52476732 ) |
+| G6 | Indonésie B ::{ flag=ID }:: | 1 | **5** | ::{ flag=BR }:: **Brésil** | [#1](https://osu.ppy.sh/community/matches/52476732) |
 | D2 | Singapour ::{ flag=SG }:: | 2 | **5** | ::{ flag=KR }:: **Corée du Sud** | [#1](https://osu.ppy.sh/community/matches/52453695) |
 | A3 | Taïwan ::{ flag=TW }:: | 2 | **5** | ::{ flag=ID }:: **Indonésie A** | [#1](https://osu.ppy.sh/community/matches/52457632) |
 | B3 | Pologne A ::{ flag=PL }:: | 0 | **5** | ::{ flag=PH }:: **Philippines** | *victoire par défaut* |

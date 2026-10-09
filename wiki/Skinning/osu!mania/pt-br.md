@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 238835a67fc953aa2aa5a51f64149a1d862bfd62
+---
+
 # osu!mania skinning
 
 A partir da versão v2.5+, skinners agora são capazes de customizar totalmente as notas e stages do osu!mania no arquivo [skin.ini](/wiki/Skinning/skin.ini). O conteúdo a seguir é o que o osu! vai reconhecer se alguém optar por não usar o `skin.ini` para demais customizações.

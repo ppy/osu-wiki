@@ -7,7 +7,9 @@ tags:
 
 # Forum
 
-*Siehe auch: [Internetforum](https://de.wikipedia.org/wiki/Internetforum)*
+::: alert-note
+**Siehe auch:** [Internetforum](https://de.wikipedia.org/wiki/Internetforum)
+:::
 
 [Die **osu!-Foren**](https://osu.ppy.sh/community/forums) sind ein Ort für Konversationen, in denen Nachrichten nach Themen gruppiert werden und keine schnelle Antwort erwartet wird. Die Diskussionen sind durchsuchbar, werden für immer gespeichert und können zu jeder Zeit erneut besucht werden. Das unterscheidet sie von den Sofortnachrichten im [osu!-Chat](/wiki/Community/Internet_Relay_Chat). Infolgedessen sind Forenbeiträge länger, enthalten mehr Informationen und bieten üblicherweise mehr Details als Chat-Nachrichten.
 
@@ -31,7 +33,9 @@ Zusätzlich zur Gruppenzugehörigkeit, die durch Gruppenabzeichen gekennzeichnet
 
 ### Moderation
 
-*Siehe auch: [Schlechtes Verhalten melden § Forum](/wiki/Reporting_bad_behaviour#forum)*
+::: alert-note
+**Siehe auch:** [Schlechtes Verhalten melden § Forum](/wiki/Reporting_bad_behaviour#forum)
+:::
 
 [Moderatoren](/wiki/People/Global_Moderation_Team) sind Benutzer, die die Foren sauber und angemessen halten und sich um diesbezügliche Bedenken kümmern. Moderatoren können unangebrachte Beiträge oder Themen bearbeiten bzw. löschen, Themen anpinnen und sie zwischen verschiedenen Foren verschieben. Des Weiteren können sie Missetäter durch eine [Stummschaltung](/wiki/Silence) temporär daran hindern, Beiträge zu teilen.
 

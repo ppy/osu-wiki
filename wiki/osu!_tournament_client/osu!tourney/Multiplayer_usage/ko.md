@@ -16,7 +16,9 @@
 
 ### 토너먼트 관리 명령어
 
-*메인 페이지: [토너먼트 관리 명령어](/wiki/osu!tourney/Tournament_management_commands "Tournament management commands")*
+::: alert-note
+**메인 페이지:** [토너먼트 관리 명령어](/wiki/osu!tourney/Tournament_management_commands "Tournament management commands")
+:::
 
 알맞는 플레이어에게 알맞는 슬롯을 배정하기 위해 `!mp move` 와 `!mp team` 명령어를 활용하세요.
 

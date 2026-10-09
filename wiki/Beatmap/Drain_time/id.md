@@ -2,12 +2,13 @@
 stub: true
 tags:
   - drain length
+  - waktu bersih
 ---
 
-# Drain time
+# Waktu permainan bersih
 
-**Drain time** mengacu pada total durasi sebuah [beatmap](/wiki/Beatmap) yang mengharuskan pemain untuk aktif. Ini dimulai dari awal [hit object](/wiki/Gameplay/Hit_object), berhenti sampai hit object yang terakhir, dan tidak ada [putus](/wiki/Beatmap/Break). Kata *drain* berasal dari [osu!](/wiki/Game_mode/osu!) dan sistem [health drain](/wiki/Gameplay/Health) mode [osu!catch](/wiki/Game_mode/osu!catch), dimana health pemain terus menurun ketika mereka bermain sebuah map.
+**Waktu permainan bersih** (*drain time*) adalah istilah yang mengacu kepada total waktu pada [beatmap](/wiki/Beatmap) yang mengharuskan pemain untuk aktif bermain. Waktu ini dimulai dari [objek permainan](/wiki/Gameplay/Hit_object) pertama hingga objek permainan terakhir tanpa menghitung [jeda permainan](/wiki/Beatmap/Break) (*break*). Kata *drain* ini sendiri berasal dari [sistem nyawa](/wiki/Gameplay/Health) yang ada pada mode [osu!](/wiki/Game_mode/osu!) dan [osu!catch](/wiki/Game_mode/osu!catch), di mana nyawa pemain akan terus berkurang seiring dengan mereka bermain.
 
-Beatmap dengan durasi drain time yang sangat panjang adalah tipe *[marathons](/wiki/Beatmap/Marathon)* yang di mana harus memiliki kesabaran untuk menyelesaikannya.
+Beatmap dengan waktu permainan bersih yang sangat panjang pada umumnya disebut sebagai beatmap *[maraton](/wiki/Beatmap/Marathon)*, karena beatmap-beatmap ini memerlukan daya tahan yang lebih untuk bisa diselesaikan.
 
-Laman info Beatmap pada situs web yang berfungsi menghitung drain time (berlabel `Drain length`) berdasarkan waktu mulai hit objects saja, jadi jika object terakhir pada map adalah [slider](/wiki/Gameplay/Hit_object/Slider) atau [spinner](/wiki/Gameplay/Hit_object/Spinner), drain time tidak akan ditampilkan dengan benar.
+[Halaman informasi beatmap](/wiki/Beatmap_information) yang ada di situs web osu! menghitung waktu permainan bersih (atau `Durasi bersih`) hanya berdasarkan waktu awal objek permainan. Oleh karenanya, apabila objek terakhir yang ada pada beatmap adalah [slider](/wiki/Gameplay/Hit_object/Slider) atau [spinner](/wiki/Gameplay/Hit_object/Spinner), waktu bersih ini tidak akan ditampilkan secara akurat.

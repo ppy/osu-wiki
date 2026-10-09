@@ -62,9 +62,23 @@
 | Chill Pack | 完成 [Chill Pack](https://osu.ppy.sh/beatmaps/packs/T108) 曲包中的所有谱面。 |
 | Rohi Pack | 完成 [Rohi Pack](https://osu.ppy.sh/beatmaps/packs/F2) 曲包中的所有谱面。 |
 | Drum & Bass Pack | 完成 [Drum & Bass Pack](https://osu.ppy.sh/beatmaps/packs/T113) 曲包中的所有谱面。 |
+| Chroma Pack | 完成 [Chroma Pack](https://osu.ppy.sh/beatmaps/packs/A101) 曲包中的所有谱面。 |
+| in love with a ghost | 完成 [in love with a ghost Pack](https://osu.ppy.sh/beatmaps/packs/F3) 曲包中的所有谱面。 |
+| Mili Pack | 完成 [Mili Pack](https://osu.ppy.sh/beatmaps/packs/A102) 曲包中的所有谱面。 |
+| 4K Globetrotter | 完成 [4K Globetrotter Pack](https://osu.ppy.sh/beatmaps/packs/T134) 曲包中的所有谱面。 |
+| 7K World Cup Anthology | 完成 [7K World Cup Anthology Pack](https://osu.ppy.sh/beatmaps/packs/T135) 曲包中的所有谱面。 |
 | Mappers' Guild Pack I | 完成 [Mappers' Guild Pack I](https://osu.ppy.sh/beatmaps/packs/1365) 曲包中的所有谱面。 |
 | Mappers' Guild Pack II | 完成 [Mappers' Guild Pack II](https://osu.ppy.sh/beatmaps/packs/1450) 曲包中的所有谱面。 |
 | Mappers' Guild Pack III | 完成 [Mappers' Guild Pack III](https://osu.ppy.sh/beatmaps/packs/1689) 曲包中的所有谱面。 |
 | Mappers' Guild Pack IV | 完成 [Mappers' Guild Pack IV](https://osu.ppy.sh/beatmaps/packs/1757) 曲包中的所有谱面。 |
 | Mappers' Guild Pack V | 完成 [Mappers' Guild Pack V](https://osu.ppy.sh/beatmaps/packs/2032) 曲包中的所有谱面。 |
 | Mappers' Guild Pack VI | 完成 [Mappers' Guild Pack VI](https://osu.ppy.sh/beatmaps/packs/2033) 曲包中的所有谱面。 |
+| Project Loved: Winter 2021 | 完成 Project Loved: Winter 2021 曲包中的所有谱面 ([osu!](https://osu.ppy.sh/beatmaps/packs/L1), [osu!taiko](https://osu.ppy.sh/beatmaps/packs/L2), [osu!catch](https://osu.ppy.sh/beatmaps/packs/L3), [osu!mania](https://osu.ppy.sh/beatmaps/packs/L4))。 |
+| Project Loved: Spring 2022 | 完成 Project Loved: Spring 2022 曲包中的所有谱面 ([osu!](https://osu.ppy.sh/beatmaps/packs/L5), [osu!taiko](https://osu.ppy.sh/beatmaps/packs/L6), [osu!catch](https://osu.ppy.sh/beatmaps/packs/L7), [osu!mania](https://osu.ppy.sh/beatmaps/packs/L8))。 |
+| Project Loved: Summer 2022 | 完成 Project Loved: Summer 2022 曲包中的所有谱面 ([osu!](https://osu.ppy.sh/beatmaps/packs/L9), [osu!taiko](https://osu.ppy.sh/beatmaps/packs/L10), [osu!catch](https://osu.ppy.sh/beatmaps/packs/L11), [osu!mania](https://osu.ppy.sh/beatmaps/packs/L12))。 |
+| Project Loved: Autumn 2022 | 完成 Project Loved: Autumn 2022 曲包中的所有谱面 ([osu!](https://osu.ppy.sh/beatmaps/packs/L13), [osu!taiko](https://osu.ppy.sh/beatmaps/packs/L14), [osu!catch](https://osu.ppy.sh/beatmaps/packs/L15), [osu!mania](https://osu.ppy.sh/beatmaps/packs/L16))。 |
+| Project Loved: Winter 2022 | 完成 Project Loved: Winter 2022 曲包中的所有谱面 ([osu!](https://osu.ppy.sh/beatmaps/packs/L17), [osu!taiko](https://osu.ppy.sh/beatmaps/packs/L18), [osu!catch](https://osu.ppy.sh/beatmaps/packs/L19), [osu!mania](https://osu.ppy.sh/beatmaps/packs/L20))。 |
+| Project Loved: Spring 2023 | 完成 Project Loved: Spring 2023 曲包中的所有谱面 ([osu!](https://osu.ppy.sh/beatmaps/packs/L21), [osu!taiko](https://osu.ppy.sh/beatmaps/packs/L22), [osu!catch](https://osu.ppy.sh/beatmaps/packs/L23), [osu!mania](https://osu.ppy.sh/beatmaps/packs/L24))。 |
+| Project Loved: Summer 2023 | 完成 Project Loved: Summer 2023 曲包中的所有谱面 ([osu!](https://osu.ppy.sh/beatmaps/packs/L25), [osu!taiko](https://osu.ppy.sh/beatmaps/packs/L26), [osu!catch](https://osu.ppy.sh/beatmaps/packs/L27), [osu!mania](https://osu.ppy.sh/beatmaps/packs/L28))。 |
+| Project Loved: Best of 2024 | 完成 Project Loved: Best of 2024 曲包中的所有谱面 ([osu!](https://osu.ppy.sh/beatmaps/packs/L32), [osu!taiko](https://osu.ppy.sh/beatmaps/packs/L31), [osu!catch](https://osu.ppy.sh/beatmaps/packs/L30), [osu!mania](https://osu.ppy.sh/beatmaps/packs/L29))。 |
+| Project Loved: Best of 2025 | 完成 Project Loved: Best of 2025 曲包中的所有谱面 ([osu!](https://osu.ppy.sh/beatmaps/packs/L36), [osu!taiko](https://osu.ppy.sh/beatmaps/packs/L35), [osu!catch](https://osu.ppy.sh/beatmaps/packs/L34), [osu!mania](https://osu.ppy.sh/beatmaps/packs/L33))。 |

@@ -19,7 +19,9 @@ Haz clic en la canción, esto abrirá el [editor de beatmaps](/wiki/Client/Beatm
 
 ### Configuración de la canción
 
-*Página principal: [Song Setup](/wiki/Client/Beatmap_editor/Song_setup)*
+::: alert-note
+**Página principal:** [Song Setup](/wiki/Client/Beatmap_editor/Song_setup)
+:::
 
 Al crear un nuevo [beatmap](/wiki/Beatmap), siempre verás este cuadro antes que cualquier otra cosa del editor de beatmaps.
 
@@ -32,7 +34,9 @@ El siguiente paso es agregar tiempo a tu beatmap.
 
 ### Tiempo
 
-*Página principal: [Timing](/wiki/Client/Beatmap_editor/Timing)*
+::: alert-note
+**Página principal:** [Timing](/wiki/Client/Beatmap_editor/Timing)
+:::
 
 **¡El tiempo es vital!**
 Los mapas temporizados incorrectamente no serán considerados para clasificarse.
@@ -43,14 +47,18 @@ Esto te ahorrará a ti (y a la comunidad de modding) muchas molestias más adela
 
 ### Componer
 
-*Página principal: [Compose](/wiki/Client/Beatmap_editor/Compose)*
+::: alert-note
+**Página principal:** [Compose](/wiki/Client/Beatmap_editor/Compose)
+:::
 
 La pestaña compose del editor de beatmaps es donde probablemente pasarás la mayor parte de tu tiempo creando beatmaps.
 Es donde puedes colocar visualmente objetos y alternar sus [hitsounds](/wiki/Beatmapping/Hitsound)
 
 ### Diseño
 
-*Página principal: [Design](/wiki/Client/Beatmap_editor/Design) y [Storyboarding](/wiki/Storyboard#storyboarding)*
+::: alert-note
+**Página principal:** [Design](/wiki/Client/Beatmap_editor/Design) y [Storyboarding](/wiki/Storyboard#storyboarding)
+:::
 
 La pestaña de diseño del editor de beatmaps es donde puedes establecer la imagen de fondo del beatmap, agregar un vídeo y/o crear un storyboard básico.
 Dependiendo de lo que hagas, puedes usar la pestaña de diseño mucho o nada en absoluto, si llegas a hacer [SBS](/wiki/Storyboard/Scripting) (secuencias de comandos del storyboard).

@@ -9,7 +9,9 @@ tags:
 
 # Language Surveillance Division
 
-*For the modern team of moderators, see: [Global Moderation Team](/wiki/People/Global_Moderation_Team).*
+::: alert-note
+**Note:** For the modern team of moderators, see [Global Moderation Team](/wiki/People/Global_Moderation_Team).
+:::
 
 **Language Surveillance Division** (colloquially known as the *LSD*) was a usergroup responsible for the moderation of language-specific communities inside osu!. Each of its members had a dedicated area of focus: a language channel where they were mainly present, and respective forum sections that they could manage (such as places like [Help](https://osu.ppy.sh/community/forums/5) or [Off-Topic](https://osu.ppy.sh/community/forums/52)). <!-- TicClick: no to-do, as it's hard enough to accomplish, but having the early history of the team and its roots, and a complete list of all chat moderators, would be appreciated -->
 

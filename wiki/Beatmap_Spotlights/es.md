@@ -30,7 +30,9 @@ Si no hay salas abiertas, espera a la próxima temporada. La pausa entre tempora
 
 ## Temporadas de Spotlights
 
-*Para obtener la lista de temporadas de Spotlights, véase: [Temporadas](Seasons)*
+::: alert-note
+**Nota:** Para obtener la lista de temporadas de Spotlights, véase [Temporadas](Seasons)
+:::
 
 El proyecto Beatmap Spotlights está organizado actualmente en temporadas predefinidas. Cada temporada consta de un conjunto de beatmaps seleccionados y una liga de temporada competitiva para toda la comunidad.
 

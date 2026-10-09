@@ -12,7 +12,7 @@ tags:
 
 #### No Release
 
-![No Release mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/NR.png)
+![No Release mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/NR.png?1)
 
 *No more timing the end of hold notes.*
 
@@ -22,15 +22,17 @@ tags:
 | Type | Difficulty Reduction |
 | Default shortcut key | `T` |
 | Game modes | ![][osu!mania] |
-| Score multiplier | 0.90x |
+| Score multiplier | `0.90x` |
 | Status | Unranked |
-| Incompatible mods | [Hold Off (HO)](/wiki/Gameplay/Game_modifier/Hold_Off) |
+| Incompatible mods | [Invert (IN)](/wiki/Gameplay/Game_modifier/Invert), [Hold Off (HO)](/wiki/Gameplay/Game_modifier/Hold_Off) |
 
 :::
 
-*For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
-The **No Release** mod removes the [accuracy](/wiki/Gameplay/Accuracy) penalty when releasing a key on the tail of [hold notes](/wiki/Beatmap/Pattern/osu!mania/Hold_note).
+The **No Release** mod removes the [accuracy](/wiki/Gameplay/Accuracy) penalty when releasing a key on the tail of a [hold note](/wiki/Gameplay/Hit_object/Hold_note) too late.
 
 **This mod cannot be customised.**
 

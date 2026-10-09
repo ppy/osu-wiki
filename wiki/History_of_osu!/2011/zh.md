@@ -3,7 +3,7 @@ no_native_review: true
 stub: true
 ---
 
-# 2011
+# osu! 2011 大事记
 
 ## 二月
 
@@ -15,7 +15,7 @@ osu! 网站中加入了一些新的功能，例如仅限 [osu!supporter](/wiki/o
 
 3 月 28 日的一次 osu! 更新为[谱面编辑器](/wiki/Client/Beatmap_editor)的一些对话框带来了一些提升；同时，得到提升的还有 [Bancho](/wiki/Bancho_(server)) 性能。[^stable-b1800] [^bancho]
 
-[osu!monthly](/wiki/Community/osu!monthly) 的第一个版本由 ::{ flag=US }:: [jjrocks](https://osu.ppy.sh/30985) 和 ::{ flag=GB }:: [Corin](https://osu.ppy.sh/users/639270) 发布。它包含了从用户统计到[谱面审核团队 (BAT)](/wiki/People/Beatmap_Appreciation_Team) 和 [作图协助团队 (MAT)](/wiki/People/Mapping_Assistance_Team) 的活动等不少内容。[^monthly-1]
+[osu!monthly](/wiki/Community/osu!monthly) 的第一个版本由 ::{ flag=US }:: [jjrocks](https://osu.ppy.sh/30985) 和 ::{ flag=GB }:: [Corin](https://osu.ppy.sh/users/639270) 发布。它包含了从用户统计到[谱面评估团队 (BAT)](/wiki/People/Beatmap_Appreciation_Team) 和 [谱面协助团队 (MAT)](/wiki/People/Mapping_Assistance_Team) 的活动等不少内容。[^monthly-1]
 
 ## 八月
 
@@ -25,7 +25,7 @@ osu! 网站中加入了一些新的功能，例如仅限 [osu!supporter](/wiki/o
 
 ## 九月
 
-[Pesets](https://osu.ppy.sh/users/%40Pesets) 为 [Android](https://zh.wikipedia.org/wiki/Android_(operating_system)) 平台发布了一个非官方的 osu! 版本。[^droid]这个版本曾经也有一个专门的[子论坛](https://osu.ppy.sh/forum/viewforum.php?f=85)，现已封存。
+::{ flag=RU }:: [Pesets](https://osu.ppy.sh/users/780451) 为 [Android](https://zh.wikipedia.org/wiki/Android_(operating_system)) 平台发布了一个非官方的 osu! 版本。[^droid]这个版本曾经也有一个专门的[子论坛](https://osu.ppy.sh/forum/viewforum.php?f=85)，现已封存。
 
 ## 十月
 

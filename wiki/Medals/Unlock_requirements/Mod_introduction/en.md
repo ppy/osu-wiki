@@ -13,3 +13,5 @@
 | Risk Averse | Clear a Qualified, Ranked, or Approved beatmap with the [NoFail](/wiki/Gameplay/Game_modifier/No_Fail) mod enabled. |
 | Slowboat | Clear a Qualified, Ranked, or Approved beatmap with the [Half Time](/wiki/Gameplay/Game_modifier/Half_Time) mod enabled. |
 | Burned Out | Clear a Qualified, Ranked, or Approved beatmap with the [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) mod enabled. This medal can only be achieved in the [osu!](/wiki/Game_mode/osu!) game mode as the `Spun Out` mod is not present in other game modes. |
+| Gear Shift | Clear a Qualified, Ranked, or Approved beatmap with any mod from the [Conversion](/wiki/Gameplay/Game_modifier_(lazer)#conversion) category enabled. This medal can only be achieved in [osu!(lazer)](/wiki/Client/Release_stream/Lazer) since the mod category is exclusive to it. |
+| Game Night | Clear a Qualified, Ranked, or Approved beatmap with any mod from the [Fun](/wiki/Gameplay/Game_modifier_(lazer)#fun) category enabled. This medal can only be achieved in [osu!(lazer)](/wiki/Client/Release_stream/Lazer) since the mod category is exclusive to it. |

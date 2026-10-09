@@ -30,7 +30,10 @@ All deadlines start at 00:00 UTC and end at 23:59 UTC.
 
 ## Prizes
 
-*Note: Players' Pick and top 3 prizes can be added together if a team wins both prizes.*
+::: alert-notice
+**Notice**
+Players' Pick and top 3 prizes can be added together if a team wins both prizes.
+:::
 
 | Placing | Prize(s) |
 | :-: | :-- |

@@ -6,7 +6,9 @@ tags:
 
 # Bancho (서버)
 
-*다른 의미를 찾으려면 [Bancho (동음이의어)](/wiki/Disambiguation/Bancho)를 참조하세요.*
+::: alert-note
+**참고:** 다른 의미를 찾으려면 [Bancho (동음이의어)](/wiki/Disambiguation/Bancho)를 참조하세요.
+:::
 
 **Bancho**(또는 *osu!Bancho*)는 서버 컴포넌트의 코드 네임이며, osu! 정식 버전의 게임을 실행하는 유저 간의 실시간 상호작용을 처리합니다.
 

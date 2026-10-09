@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 8b6f6798c3487a7ec6bf1dbd592dbd96f50f4443
+---
+
 # Conditions de déverrouillage des médailles : Mod Introduction
 
 | Nom de la médaille | Condition |

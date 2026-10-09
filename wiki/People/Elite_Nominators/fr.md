@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 2e4084ceec5bdfd409b082031957e3e4c5e778e7
 ---
 
 # Elite Nominators
@@ -26,7 +28,9 @@ Les Elite Nominators sont sélectionnés par la Nomination Assessment Team sur l
 
 ### 2019
 
-*Pour le post de news, voir : [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)*
+::: alert-note
+**Remarque** : Pour le post de news, voir [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)
+:::
 
 | Nom | Mode de jeu |
 | :-- | :-- |
@@ -44,7 +48,9 @@ Les Elite Nominators sont sélectionnés par la Nomination Assessment Team sur l
 
 ### 2020
 
-*Pour le post de news, voir : [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
+::: alert-note
+**Remarque** : Pour le post de news, voir [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)
+:::
 
 | Nom | Mode de jeu |
 | :-- | :-- |
@@ -62,7 +68,9 @@ Les Elite Nominators sont sélectionnés par la Nomination Assessment Team sur l
 
 ### 2021
 
-*Pour le post de news, voir : [Community Contributors 2021: Elite Nominators](https://osu.ppy.sh/home/news/2022-03-22-community-contributors-elite-nominators)*
+::: alert-note
+**Remarque** : Pour le post de news, voir [Community Contributors 2021: Elite Nominators](https://osu.ppy.sh/home/news/2022-03-22-community-contributors-elite-nominators)
+:::
 
 | Nom | Mode de jeu |
 | :-- | :-- |
@@ -85,7 +93,9 @@ Les Elite Nominators sont sélectionnés par la Nomination Assessment Team sur l
 
 ### 2022
 
-*Pour le post de news, voir : [Community Contributors 2022: Elite Nominators](https://osu.ppy.sh/home/news/2023-02-17-community-contributors-elite-nominators-2022)*
+::: alert-note
+**Remarque** : Pour le post de news, voir [Community Contributors 2022: Elite Nominators](https://osu.ppy.sh/home/news/2023-02-17-community-contributors-elite-nominators-2022)
+:::
 
 | Nom | Mode de jeu |
 | :-- | :-- |
@@ -106,7 +116,9 @@ Les Elite Nominators sont sélectionnés par la Nomination Assessment Team sur l
 
 ### 2023
 
-*Pour le post de news, voir : [Community Contributors 2023: Elite Nominators](https://osu.ppy.sh/home/news/2024-02-28-community-contributors-elite-nominators-2023)*
+::: alert-note
+**Remarque** : Pour le post de news, voir [Community Contributors 2023: Elite Nominators](https://osu.ppy.sh/home/news/2024-02-28-community-contributors-elite-nominators-2023)
+:::
 
 | Nom | Mode de jeu |
 | :-- | :-- |
@@ -129,7 +141,9 @@ Les Elite Nominators sont sélectionnés par la Nomination Assessment Team sur l
 
 ### 2024
 
-*Pour le post de news, voir : [Community Contributors 2024: Elite Nominators](https://osu.ppy.sh/home/news/2025-03-24-community-contributors-elite-nominators-2024)*
+::: alert-note
+**Remarque** : Pour le post de news, voir [Community Contributors 2024: Elite Nominators](https://osu.ppy.sh/home/news/2025-03-24-community-contributors-elite-nominators-2024)
+:::
 
 | Nom | Mode de jeu |
 | :-- | :-- |

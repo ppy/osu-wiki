@@ -76,7 +76,7 @@ This competition has come to an end and resulted in the following podium:
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [Accolibed](https://osu.ppy.sh/users/9269034) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [rudj](https://osu.ppy.sh/users/11592896 ) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [rudj](https://osu.ppy.sh/users/11592896) |
 
 ## Mappools
 

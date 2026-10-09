@@ -426,7 +426,7 @@ Sunday, 3 October 2021:
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **\|l\|l\|l\|** | **5** | 0 | i love tateyama | [#1](https://osu.ppy.sh/community/matches/91846788) |
-| Upper | Surtr S3 | 3 | **5** | **having fun** | [#1](https://osu.ppy.sh/community/matches/91856557 ) |
+| Upper | Surtr S3 | 3 | **5** | **having fun** | [#1](https://osu.ppy.sh/community/matches/91856557) |
 | Upper | :iofiPanic: | 0 | **5** | **Venception** | *win by default* |
 | Lower | **Le Skillcapped** | **5** | 0 | skor buruk | *win by default* |
 

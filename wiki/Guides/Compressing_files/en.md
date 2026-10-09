@@ -93,7 +93,9 @@ Generally, OGG (Vorbis) results in better quality than MP3 for a given bit rate.
 
 ### Using Audacity
 
-*See also: [Audio editing guide](/wiki/Guides/Audio_editing#audacity)*
+::: alert-note
+**See also:** [Audio editing guide](/wiki/Guides/Audio_editing#audacity)
+:::
 
 To begin, download and install [Audacity](https://www.audacityteam.org/), then follow these steps:
 
@@ -114,11 +116,16 @@ To begin, download and install [Audacity](https://www.audacityteam.org/), then f
 
 5. Once done entering metadata, which can be left blank if desired, click `OK` to start re-encoding.
 
-*Note: Clicking `Cancel` in the metadata dialog will abort the re-encoding process.*
+::: alert-notice
+**Notice**
+Clicking `Cancel` in the metadata dialog will abort the re-encoding process.
+:::
 
 ### Using FFmpeg
 
-*For instructions on installing FFmpeg, see: [Video/Using FFmpeg](/wiki/Guides/Compressing_files#using-ffmpeg)*
+::: alert-note
+**Note:** For instructions on installing FFmpeg, see [Video/Using FFmpeg](/wiki/Guides/Compressing_files#using-ffmpeg)
+:::
 
 After installing FFmpeg, open a terminal, then use one of the below commands.
 

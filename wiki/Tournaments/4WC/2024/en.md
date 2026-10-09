@@ -191,7 +191,7 @@ The 4 Digit World Cup 2024 was run by various community members.
   2. [BABYMETAL - Arkadia (ItsWinter) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1695872#osu/3644487)
   3. [Dark PHOENiX - Shoujo Satori (sjoy) \[Terrible Souvenir\]](https://osu.ppy.sh/beatmapsets/2161801#osu/4558977)
   4. [lapix - Under Mebius feat. Aitsuki Nakuru (YUKIYANAGI Remix) (Rentai) \[Unwelcome Overdose \[remnait\]\]](https://osu.ppy.sh/beatmapsets/2187828#osu/4625963)
-  5. [UNDEAD CORPORATION - Everything will freeze (LeCandy) \[Daycore's Frozen Extreme\]](https://osu.ppy.sh/beatmapsets/2128889#osu/4485821 )
+  5. [UNDEAD CORPORATION - Everything will freeze (LeCandy) \[Daycore's Frozen Extreme\]](https://osu.ppy.sh/beatmapsets/2128889#osu/4485821)
   6. [inabakumori - Hello Marina (Spork Lover) \[good song\]](https://osu.ppy.sh/beatmapsets/2139111#osu/4501918)
 - Hidden
   1. [The Mars Volta - Cotopaxi (MonsieurSebas) \[Ruminahui\]](https://osu.ppy.sh/beatmapsets/2139177#osu/4502085)

@@ -1,6 +1,8 @@
 # 常见的摸图错误
 
-*参见：[成为 BN § 摸图期望](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)*
+::: alert-note
+**参见：** [成为 BN § 摸图期望](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)
+:::
 
 这篇指引将会展示一些刚学着去[摸](/wiki/Modding)一张[谱面](/wiki/Beatmap)的[摸图员](/wiki/Modding/Modder)常犯的错误。
 

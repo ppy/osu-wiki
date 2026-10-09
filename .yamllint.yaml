@@ -30,6 +30,7 @@ rules:
     allow-quoted-quotes: true
     quote-type: double
     required: only-when-needed
+    check-keys: true
   truthy:
     check-keys: false
     level: error

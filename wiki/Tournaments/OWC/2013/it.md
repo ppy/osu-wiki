@@ -26,7 +26,7 @@ La **osu! World Cup 2013** (***OWC 2013***) è stato un torneo di osu! ospitato 
 
 | Piazzamento | Premi |
 | :-: | :-- |
-| ![Corona d'oro](/wiki/shared/crown-gold.png "1° posto") | 6 mesi di osu!supporter, badge per il profilo, trofeo OWC, [osu!tablet](https://osu.ppy.sh/community/forums/topics/169139) | ![Corona d'argento](/wiki/shared/crown-silver.png "2° posto") |
+| ![Corona d'oro](/wiki/shared/crown-gold.png "1° posto") | 6 mesi di osu!supporter, badge per il profilo, trofeo OWC, [osu!tablet](https://osu.ppy.sh/community/forums/topics/169139) |
 | ![Corona d'argento](/wiki/shared/crown-silver.png "2° posto") | 3 mesi di osu!supporter |
 | ![Corona di bronzo](/wiki/shared/crown-bronze.png "3° posto") | 1 mese di osu!supporter |
 
@@ -126,7 +126,7 @@ Questa competizione si è conclusa e ha portato al seguente podio:
   5. [Neru - Ningen Shikkaku (nold\_1702) \[Posthumous\]](https://osu.ppy.sh/beatmapsets/86983#osu/237848)
   6. [TJ.Hangneil - Kamui (7odoa) \[SHD\]](https://osu.ppy.sh/beatmapsets/39017#osu/124664)
 - Hidden
-  1. [Tsukasa - Heaven's Race Guitar Style (La Cataline) \[Collab\]](https://osu.ppy.sh/beatmapsets/41974#taiko/132260)
+  1. [Tsukasa - Heaven's Race Guitar Style (La Cataline) \[Collab\]](https://osu.ppy.sh/beatmapsets/41974#osu/132260)
   2. [Zektbach - meme (AngelHoney) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/68617#osu/198428)
   3. [Nekomata Master - Smile of Split (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/56847#osu/171678)
   4. [YAMAGEN'S DEVILELIET - EYES OF DEVILELIET (Kite) \[PERNICIOUS\]](https://osu.ppy.sh/beatmapsets/36988#osu/119238)

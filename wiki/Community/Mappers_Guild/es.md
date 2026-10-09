@@ -3,6 +3,8 @@ tags:
   - Mapper's Guild
   - MG
   - Gremio
+outdated_translation: true
+outdated_since: 3610ba210d6c679c0d60201420ee64d700cbcc44
 ---
 
 # Mappers' Guild
@@ -81,7 +83,9 @@ Además de los puntos generales del Mappers' Guild mencionados anteriormente, la
 
 ### Beatmaps de exhibición
 
-*Artículo principal: [Beatmaps de exhibición de Artistas Destacados](/wiki/People/Featured_Artists/Featured_Artist_showcase_beatmaps)*
+::: alert-note
+**Página principal:** [Beatmaps de exhibición de Artistas Destacados](/wiki/People/Featured_Artists/Featured_Artist_showcase_beatmaps)
+:::
 
 Los miembros de Mappers' Guild también pueden participar en la creación de beatmaps de exhibición para futuros anuncios de Artistas Destacados. Tras el anuncio del Artista Destacado correspondiente, estos beatmaps se destacan en la [publicación de la noticia](https://osu.ppy.sh/home/news) y, a menudo, también se promocionan en el [Twitter de @osugame](https://twitter.com/osugame).
 

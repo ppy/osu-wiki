@@ -68,7 +68,10 @@ The Catch French Beginner 5 was run by various community members.
 | Unseeded | ::{ flag=FR }:: [iron-wish](https://osu.ppy.sh/users/12264606), ::{ flag=FR }:: [Nos_If](https://osu.ppy.sh/users/7365196), ::{ flag=FR }:: [Utopsia](https://osu.ppy.sh/users/11080305), ::{ flag=FR }:: [Kammthaar](https://osu.ppy.sh/users/8802523) |
 | Eliminated | ::{ flag=FR }:: [SverdWyrd](https://osu.ppy.sh/users/10996443), ::{ flag=FR }:: [Hitsumo](https://osu.ppy.sh/users/3199415) |
 
-*Note: Players were sorted by the Qualifiers results.*
+::: alert-notice
+**Notice**
+Players were sorted by the Qualifiers results.
+:::
 
 ## Podium
 

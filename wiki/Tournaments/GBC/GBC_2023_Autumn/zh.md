@@ -37,24 +37,24 @@ tags:
 
 | 队伍排名 | 奖励 |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "冠军") | 个人资料页缎带，猫猫 bot 缎带，¥150 |
-| ![Silver crown](/wiki/shared/crown-silver.png "亚军") | 猫猫 bot 缎带，¥150 |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "季军") | 猫猫 bot 缎带，¥120 |
-| *殿军* | ¥90 |
-| *第 5-6 名* | ¥75 |
-| *第 7-8 名* | ¥60 |
-| *第 9-12 名* | ¥45 |
-| *第 13-16 名* | ¥30 |
-| *每场常规赛比赛胜利* | ¥50 |
+| ![Gold crown](/wiki/shared/crown-gold.png "冠军") | 个人资料页缎带，猫猫 bot 缎带，¥150 人民币 |
+| ![Silver crown](/wiki/shared/crown-silver.png "亚军") | 猫猫 bot 缎带，¥150 人民币 |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "季军") | 猫猫 bot 缎带，¥120 人民币 |
+| *殿军* | ¥90 人民币 |
+| *第 5-6 名* | ¥75 人民币 |
+| *第 7-8 名* | ¥60 人民币 |
+| *第 9-12 名* | ¥45 人民币 |
+| *第 13-16 名* | ¥30 人民币 |
+| *每场常规赛比赛胜利* | ¥50 人民币 |
 
 | 资格赛排名 | 奖励 |
 | :-: | :-- |
-| *冠军* | ¥200 |
-| *亚军* | ¥150 |
-| *季军* | ¥100 |
-| *第 7-8 名* | ¥75 |
-| *第 9-24 名* | ¥50 |
-| *其他所有入选的选手* | ¥20 |
+| *冠军* | ¥200 人民币 |
+| *亚军* | ¥150 人民币 |
+| *季军* | ¥100 人民币 |
+| *第 7-8 名* | ¥75 人民币 |
+| *第 9-24 名* | ¥50 人民币 |
+| *其他所有入选的选手* | ¥20 人民币 |
 
 ![GBC 2023 秋季赛 QQ 赛区冠军缎带图片](img/GBC-2023-Autumn-badge-QQ-1st.png)
 
@@ -62,15 +62,15 @@ tags:
 
 | 队伍排名 | 奖励 |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "冠军") | 个人资料页缎带，¥150 |
-| ![Silver crown](/wiki/shared/crown-silver.png "亚军") | ¥150 |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "季军") | ¥120 |
-| *殿军* | ¥90 |
-| *第 5-6 名* | ¥75 |
-| *第 7-8 名* | ¥60 |
-| *第 9-12 名* | ¥45 |
-| *第 13-16 名* | ¥30 |
-| *每场常规赛比赛胜利* | $6 |
+| ![Gold crown](/wiki/shared/crown-gold.png "冠军") | 个人资料页缎带，¥150 人民币 |
+| ![Silver crown](/wiki/shared/crown-silver.png "亚军") | ¥150 人民币 |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "季军") | ¥120 人民币 |
+| *殿军* | ¥90 人民币 |
+| *第 5-6 名* | ¥75 人民币 |
+| *第 7-8 名* | ¥60 人民币 |
+| *第 9-12 名* | ¥45 人民币 |
+| *第 13-16 名* | ¥30 人民币 |
+| *每场常规赛比赛胜利* | $6 人民币 |
 
 | 资格赛排名 | 奖励 |
 | :-: | :-- |

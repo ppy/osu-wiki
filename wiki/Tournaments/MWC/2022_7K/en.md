@@ -315,7 +315,7 @@ Sunday, January 30, 2022
 | --: | :-: | :-: | :-- | :-- |
 | **South Korea** ::{ flag=KR }:: | **6** | 0 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/97170691) |
 | **China** ::{ flag=CN }:: | **6** | 5 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/97177094) |
-| **Philippines** ::{ flag=PH }:: | **6** | 0 | ::{ flag=TH }:: Thailand | [#1]( https://osu.ppy.sh/community/matches/97182046) |
+| **Philippines** ::{ flag=PH }:: | **6** | 0 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/97182046) |
 | **Malaysia** ::{ flag=MY }:: | **6** | 0 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/97187449) |
 
 ### Round of 16

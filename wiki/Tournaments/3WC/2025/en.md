@@ -138,7 +138,7 @@ The 3 Digit World Cup 2025 was run by various community members.
 - No Mod
   1. [System Of A Down - Cigaro (SupaV) \[Can't you see that you love my C\]](https://osu.ppy.sh/beatmapsets/2332976#osu/5006403)
   2. [Whispered - Exile of the Floating World (MrKosiej) \[Drifting Path\]](https://osu.ppy.sh/beatmapsets/769346#osu/1617731)
-  3. [XenjeS - Night Sky Solitude (nooj) \[Nocturne, the Eternal Nightmare\]](https://osu.ppy.sh/beatmapsets/2333228#osu/5006943 )
+  3. [XenjeS - Night Sky Solitude (nooj) \[Nocturne, the Eternal Nightmare\]](https://osu.ppy.sh/beatmapsets/2333228#osu/5006943)
   4. [Endorfin. vs Feryquitous - Sincuvate (Rentai) \[Coalescence\]](https://osu.ppy.sh/beatmapsets/2333309#osu/5007132)
   5. [NayutalieN - Rocket Cider (BoshyMan741) \[I want soda pop\]](https://osu.ppy.sh/beatmapsets/2056015#osu/4296282)
 - Hidden

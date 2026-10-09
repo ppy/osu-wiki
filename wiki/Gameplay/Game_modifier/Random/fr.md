@@ -13,7 +13,9 @@ outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 
 ![Icône du mod RD](/wiki/shared/mods/RD.png "Icône du mod Random (RD)")
 
-*Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Remarque** : Pour la liste complète de tous les mods, voir [modificateurs de jeu](/wiki/Gameplay/Game_modifier)
+:::
 
 ## À propos
 

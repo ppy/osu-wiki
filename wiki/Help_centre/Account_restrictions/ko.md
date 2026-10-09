@@ -6,7 +6,9 @@ outdated_translation: true
 
 # 계정 제한
 
-*메인 페이지: [Help centre](/wiki/Help_centre)*
+::: alert-note
+**메인 페이지:** [Help centre](/wiki/Help_centre)
+:::
 
 제한 조치는 비정상 혹은 의심스럽거나 규칙을 위반하는 계정에 대해 커뮤니티에서 강제로 타임아웃을 적용하는 것입니다.
 

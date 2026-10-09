@@ -70,7 +70,10 @@ The Game_Osu Tourney 3 was run by various community members.
 
 ## Participants
 
-*Note: Badge-weighted seeding (BWS) is used in this tournament to more accurately seed players and enforce rank restrictions. It works by taking into account the amount of recorded tournament wins (via badges) that a player has in addition to their rank. See the Game\_Osu website linked above for more details.*
+::: alert-notice
+**Notice**
+Badge-weighted seeding (BWS) is used in this tournament to more accurately seed players and enforce rank restrictions. It works by taking into account the amount of recorded tournament wins (via badges) that a player has in addition to their rank. See the Game\_Osu website linked above for more details.
+:::
 
 | BWS Rank | Player |
 | :-: | :-- |

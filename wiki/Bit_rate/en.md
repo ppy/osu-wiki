@@ -4,8 +4,13 @@ stub: true
 
 # Bit rate
 
-*For regulations surrounding bit rate, see: [Ranking criteria](/wiki/Ranking_criteria)*\
-*For help re-encoding audio to a different bit rate, see: [Audio editing guide](/wiki/Guides/Audio_editing).*
+::: alert-note
+**Note:** For regulations surrounding bit rate, see [Ranking criteria](/wiki/Ranking_criteria)
+:::
+
+::: alert-note
+**Note:** For help re-encoding audio to a different bit rate, see [Audio editing guide](/wiki/Guides/Audio_editing).
+:::
 
 **Bit rate** is a measurement of data throughput for a media file in units of bits over time. In osu!, this is relevant when talking about the quality of audio files: higher quality audio typically requires a higher bit rate, while lower quality audio can use a lower bit rate.
 

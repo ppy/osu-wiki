@@ -12,4 +12,4 @@ tags:
 
 通常将掉血时间极长的谱面称作 *[马拉松](/wiki/Beatmap/Marathon)* 图，因为需要超常的耐力才能完成它们。
 
-网站上的谱面信息页面只根据打击物件的开始时间计算掉血时间（网页上标为`游玩长度`），因此如果谱面的最后一个物件是[滑条](/wiki/Gameplay/Hit_object/Slider)或[转盘](/wiki/Gameplay/Hit_object/Spinner)，显示的掉血时间就是错的。
+网站上的[谱面信息页面](/wiki/Beatmap_information)只根据打击物件的开始时间计算掉血时间（网页上标为`游玩长度`），因此如果谱面的最后一个物件是[滑条](/wiki/Gameplay/Hit_object/Slider)或[转盘](/wiki/Gameplay/Hit_object/Spinner)，显示的掉血时间就是错的。

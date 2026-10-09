@@ -2,7 +2,9 @@
 
 El **desafío diario** es un modo multijugador de [osu!(lazer)](/wiki/Client/Release_stream/Lazer) en el que los jugadores pueden acumular una racha al pasar beatmaps diarios consecutivos con una dificultad creciente, la cual se reinicia cada 7 días.
 
-Los beatmaps del desafío diario son seleccionados por un grupo de contribuidores y se componen principalmente de temas de los [Artistas Destacados](/wiki/People/Featured_Artists). En ciertas ocasiones, estos beatmaps pueden venir con un mod impuesto a los usuarios, lo que les obliga a pasar el beatmap con el mod seleccionado.
+Los beatmaps del desafío diario son seleccionados por un grupo de contribuidores. A veces, los beatmaps pueden seguir una temática relacionada con un género concreto, un artista o una característica especial. Al final de cada mes, se dedica una semana a destacar los beatmaps de gran calidad del mes anterior, tarea de la que se encargan algunos miembros del [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team).
+
+En ocasiones, los beatmaps pueden incluir un mod obligatorio para los usuarios, lo que les obliga a completar el beatmap con ese mod seleccionado.
 
 Los desafíos diarios actuales y todos los anteriores pueden verse en la [página de las tablas de clasificación de los desafíos diarios en el sitio web](https://osu.ppy.sh/rankings/daily-challenge).
 
@@ -40,16 +42,18 @@ Las rachas de juego se muestran en el perfil del usuario con diferentes colores 
 
 ## Contribuidores
 
-El proyecto está organizado por ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976). Los siguientes miembros de la comunidad son responsables de elegir los beatmaps:
+El proyecto está organizado por ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976). Los siguientes miembros de la comunidad son responsables de seleccionar los beatmaps:
 
 - ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596)
-- ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464)
-- ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
+- ::{ flag=SE }:: [byd](https://osu.ppy.sh/users/6398464)
+- ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327)
+- ::{ flag=IT }:: [gansijiye](https://osu.ppy.sh/users/9704802)
 - ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536)
 - ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
 - ::{ flag=US }:: [TheMagicAnimals](https://osu.ppy.sh/users/17274052)
 - ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079)
-- ::{ flag=IT }:: [zekk](https://osu.ppy.sh/users/9704802)
+- ::{ flag=US }:: [Willy](https://osu.ppy.sh/users/3521482)
+- ::{ flag=US }:: [Wispy](https://osu.ppy.sh/users/11106929)
 
 ## Curiosidades
 

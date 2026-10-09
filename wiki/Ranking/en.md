@@ -8,15 +8,19 @@ tags:
 
 # Ranking
 
-*For other uses, see [Rank (disambiguation)](/wiki/Disambiguation/Rank).*
+::: alert-note
+**Note:** [Rank (disambiguation)](/wiki/Disambiguation/Rank).
+:::
 
 **Ranking** (alternatively called "leaderboards") is a list that sorts members of the osu! community according to certain criteria.
 
-All but the individual beatmap rankings can be navigated to by hovering over the `rankings` menu on the website header. For the individual beatmap ranking, they can be found on their beatmap info page.
+All but the individual beatmap rankings can be navigated to by hovering over the `rankings` menu on the website header. For the individual beatmap ranking, they can be found on their [beatmap info page](/wiki/Beatmap_information).
 
 ## Performance points ranking
 
-*See also: [Performance points](/wiki/Performance_points)*
+::: alert-note
+**See also:** [Performance points](/wiki/Performance_points)
+:::
 
 The performance points ranking describes a player's skill-level in comparison to other players. This leaderboard is determined by the total number of performance points an individual player has, and can be seen on a player's profile and on the [performance leaderboards](https://osu.ppy.sh/rankings/osu/performance).
 

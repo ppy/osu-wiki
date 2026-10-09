@@ -11,7 +11,9 @@ Le **star rating** (***SR***) décrit la difficulté d'une [beatmap](/wiki/Beatm
 
 ## Difficulté
 
-*Page principale : [Difficulté](/wiki/Beatmap/Difficulty)*
+::: alert-note
+**Page principale** : [Difficulté](/wiki/Beatmap/Difficulty)
+:::
 
 À partir du 27 juillet 2021, le site web d'osu! attribue automatiquement la couleur de l'indice de difficulté d'une beatmap en fonction de son star rating selon le spectre suivant :
 

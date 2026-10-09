@@ -31,7 +31,7 @@ Además, hay 3 botones más abajo en la página:
 
 - **¡Hypear este mapa!:** Los hypes se usan como forma de promocionar los mapas y señalar el interés por ver el mapa clasificado. Los hypes son necesarios para que un beatmap pase a estar calificado, ya que antes de que un Beatmap Nominator pueda nominar un beatmap, este debe alcanzar al menos 5 hypes. Cada usuario solo puede hypear un beatmap una vez, y los hypeos se reparten cada 7 días, hasta un máximo de 10 hypeos.
 - **Ver/Dejar de ver:** Ver un mapa hará que aparezcan notificaciones cada vez que ocurra algo en la discusión del beatmap. Si ya sigues una discusión de un beatmap, también puedes dejar de seguirla pulsando de nuevo el botón.
-- **Página del mapa:** Vuelve a la página de información y resultados del beatmap.
+- **Página del mapa:** Vuelve a la página de [información del beatmap](/wiki/Beatmap_information).
 
 Los Beatmap Nominators y los moderadores tienen botones adicionales, pero no son importantes para este tutorial.
 

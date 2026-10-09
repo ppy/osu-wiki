@@ -5,7 +5,9 @@ outdated_since: e64b60d701b97ee73b4fc0917b3e7d8da216f55d
 
 # osu!stream
 
-*Pour la liste des musiques incluses dans le jeu, voir : [Liste des musiques d'osu!stream](/wiki/osu!stream/Song_List)*
+::: alert-note
+**Remarque** : Pour la liste des musiques incluses dans le jeu, voir [Liste des musiques d'osu!stream](/wiki/osu!stream/Song_List)
+:::
 
 ![](img/Os-Logo.jpg "logo d'osu!stream")
 
@@ -231,7 +233,10 @@ La couleur de fond est le violet et les lumières s'assombrissent en fonction de
 
 ## Score
 
-*Attention : Le classement peut toujours être consulté en jeu, mais aucun nouveau score ne sera accepté.*
+::: alert-caution
+**Attention**
+Le classement peut toujours être consulté en jeu, mais aucun nouveau score ne sera accepté.
+:::
 
 ### Précision
 

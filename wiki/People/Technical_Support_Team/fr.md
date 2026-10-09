@@ -19,7 +19,10 @@ Si quelqu'un a besoin d'aide dans les sous-forums mentionnés ci-dessus, les mem
 
 ## Membres de l'équipe
 
-*Remarque : tous les membres de l'équipe de support technique parlent l'anglais en plus de la langue énumérée ci-dessous, sauf indication contraire.*
+::: alert-notice
+**Note**
+tous les membres de l'équipe de support technique parlent l'anglais en plus de la langue énumérée ci-dessous, sauf indication contraire.
+:::
 
 La [page de groupe de l'équipe de support technique](https://osu.ppy.sh/groups/22) répertorie tous les membres de l'équipe.
 
@@ -28,6 +31,7 @@ La [page de groupe de l'équipe de support technique](https://osu.ppy.sh/groups/
 | ::{ flag=IT }:: [- Marco -](https://osu.ppy.sh/users/1273955) | Italien |
 | ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  |
 | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  |
+| ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | Coréen, japonais |
 | ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | Allemand |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Polonais |
