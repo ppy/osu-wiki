@@ -10,7 +10,7 @@ It aims to shift the focus of skill progression from the amount of time played t
 
 Performance points are heavily based on calculated beatmap difficulty, which is determined by a unique algorithm constructed for each individual [game mode](/wiki/Game_mode).
 
-The difficulty of the beatmap a player is playing on determines the end pp value of their score. By design, the formula relies on four core values: **[aim](#aim)**, **[speed](#speed)**, **[accuracy](#accuracy)**, and **[strain](#strain)**. All of which are then combined in varying magnitudes to produce an overall score that relates to a beatmap's particular [difficulty](/wiki/Beatmap/Difficulty), and a player's individual performance in said beatmap.
+The difficulty of the beatmap a player is playing on determines the end pp value of their score. By design, the formula relies on five core values: **[aim](#aim)**, **[speed](#speed)**, **[accuracy](#accuracy)**, **[strain](#strain)** and **[reading](#reading)**. All of which are then combined in varying magnitudes to produce an overall score that relates to a beatmap's particular [difficulty](/wiki/Beatmap/Difficulty), and a player's individual performance in said beatmap.
 
 Scores are then "weighted" against each other to ensure that only the best scores a user makes count the most towards their overall performance points ranking. Known as the [*weightage system*](#weightage-system), its goal is to prevent the rapid and repeated gaining of lower pp scores on easy beatmaps by reducing the amount of pp that is actually gained based on the player's other top scores.
 
@@ -58,6 +58,12 @@ Scores with high accuracy values are considered by the algorithm to be highly im
 *Strain* is a core value that considers how many times, and for how long, a player is subjected to high intensity sections within a particular beatmap.
 
 Sections or  of extremely high speed or difficulty [patterning](/wiki/Beatmap/Pattern) in a beatmap will significantly increase its considered strain values. E.g., beatmaps with more [streams](/wiki/Beatmap/Pattern/osu!/Stream) or fast jump waves will have high strain values, and thus increase the pp gain for that beatmap.
+
+### Reading
+
+*Reading* is a core value that considers how difficult it is to read patterns in a beatmap.
+
+In the osu! gamemode, difficult to read patterns will increase the beatmap's reading values. E.g., beatmaps with very high note density due to low [approach rate](/wiki/Beatmap/Approach_rate) or beatmaps with difficult to read patterns due to high approach rate will have high reading values, and will award higher PP scores.
 
 <!-- consult reg contributors before moving FAQ to a new location-->
 
@@ -151,5 +157,20 @@ On October 28, 2024, more changes were deployed. The specifics of the changes ma
   - Introduce a scaling factor to the pp loss affected by the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod based on the number of misses in a play
 - osu!mania
   - Adjust LN value scaling to address overweighted LN maps
+
+On July 3, 2026, the algorithm was changed again. Details are in the [corresponding news post](https://osu.ppy.sh/home/news/2026-07-03-performance-points-star-rating-updates), but here are the main changes:
+
+- osu!
+  - AR and HD bonuses replaced with the Reading skill
+  - Every note now contributes to Speed's final difficulty
+  - Fixed chunking to be variable-length
+  - Lower BPM aim with high distance is now worth more
+  - Low OD scores on Speed-heavy maps nerfed and vice versa
+  - Nerfed repetitive acute-angle jumps
+  - Miss penalty made harsher on initial impact
+- osu!taiko
+  - Nerfed long gaps during frequent rhythm changes
+- osu!catch
+  - Nerfed linear spacings
 
 ppv2 is currently in active service, with updates in the form of news posts published by the [Performance Points Committee](/wiki/People/Performance_Points_Committee) whenever new changes are deployed.
