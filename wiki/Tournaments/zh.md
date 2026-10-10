@@ -127,6 +127,7 @@
 | 3 Digit World Cup 2023 | 2023-02-17 | 2023-04-30 | ::{ flag=KR }:: 韩国 | ::{ flag=HK }:: 香港 | ::{ flag=US }:: 美国 |
 | 3 Digit World Cup 2024 | 2023-12-25 | 2024-03-10 | ::{ flag=KR }:: 韩国 | ::{ flag=US }:: 美国 | ::{ flag=BR }:: 巴西 |
 | [3 Digit World Cup 2025](3WC/2025) | 2024-12-28 | 2025-03-16 | ::{ flag=KR }:: 韩国 | ::{ flag=US }:: 美国 | ::{ flag=DE }:: 德国 |
+| [3 Digit World Cup 2026](3WC/2026) | 2026-01-11 | 2026-03-29 | ::{ flag=US }:: 美国 | ::{ flag=HK }:: 香港 | ::{ flag=KR }:: 韩国 |
 
 #### [4 Digit World Cup](4WC)
 
