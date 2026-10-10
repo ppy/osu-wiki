@@ -1,13 +1,8 @@
----
-outdated_since: 19979c9243ed12b55105ba13229f63a23e3e0f70
-outdated_translation: true
----
-
 # Ranking-Kriterien für osu!mania
 
 ***Hinweis: Dieser Artikel ist eine Ergänzung der [allgemeinen Ranking-Kriterien](/wiki/Ranking_criteria).***
 
-Die **Ranking-Kriterien für osu!mania** legen die [Regeln und Richtlinien](/wiki/Ranking_criteria#general-terms) fest, die [osu!mania](/wiki/Game_mode/osu!mania)-spezifische [Beatmaps](/wiki/Beatmap) befolgen müssen, um das [Beatmap-Ranking-Verfahren](/wiki/Beatmap_ranking_procedure) zu durchlaufen.
+Die **Ranking-Kriterien für osu!mania** legen die [Regeln und Richtlinien](/wiki/Ranking_criteria) fest, die [osu!mania](/wiki/Game_mode/osu!mania)-spezifische [Beatmaps](/wiki/Beatmap) befolgen müssen, um das [Beatmap-Ranking-Verfahren](/wiki/Beatmap_ranking_procedure) zu durchlaufen.
 
 ## Glossar
 
@@ -26,8 +21,13 @@ Die **Ranking-Kriterien für osu!mania** legen die [Regeln und Richtlinien](/wik
 ### Gebräuchliche Begriffe
 
 - **BPM**: Tempo von einem Song, gemessen in Beats pro Minute.
-- **Spalte (Column)**: Vertikale Linien auf dem Spielfeld, auf dem die Noten platziert werden. Der Editor benutzt `0|1|2|3|4|5|6|7|8|9` für Zeitstempel-Bezeichnungen.
+- **Spalte (Column)**: Vertikale Bahnen auf dem [Spielfeld](/wiki/Game_mode/osu!mania#playfield), auf denen die Noten platziert werden. Beachte, dass sich die [Zeitstempel](/wiki/Modding/Timestamp) im Editor auf die Positionen der Spalten beziehen, wobei diese bei Null beginnend von links nummeriert werden.
 - **Tastenmodi (Key Mode)**: Die Anzahl der Spalten in einer Schwierigkeitsstufe.
+- **Spielstil**: Die von einem Mapper beabsichtigten [Tastenbelegungen](/wiki/Game_mode/osu!mania#controls) oder Handpositionen zum Spielen eines Schwierigkeitsgrads.
+- **Standard-Spielstil**: Der häufigste Spielstil für 10 oder weniger Tasten, bei dem keine Spalte von besonderer Bedeutung ist und vom Spieler erwartet wird, dass er jede Taste mit einem eigenen Finger bedient.
+  - Beispiele von Standard-Spielstilen: 4K, 7K, 10K
+  - Beispiele von anderen Spielstilen: 7K+1, 10K2S, 14K DP
+- **N+1-Spielstil:** Ein bestimmter Spielstil, bei dem die Objekte in der Spalte ganz links unabhängig von den anderen Spalten platziert werden, welche ansonsten einen Standard-Spielstil bilden.
 - **Keysounding**: Hitsounding an jeweiliger Stelle mit Hilfe von Samples, welche sehr ähnlich oder direkt vom Song stammen.
 - **Slider-Geschwindigkeit**: Die Geschwindigkeit mit der sich die Noten/Taktstriche auf dem Spielfeld bewegen. Die Basisgeschwindigkeit (1,0x) basiert auf der Scroll-Geschwindigkeit des Spielers. Zusätzliche Änderungen können durch vererbte (grüne) Zeitpunkte vorgenommen werden.
 - **Langzeitige Änderungen der Slider-Geschwindigkeit**: Ein Geschwindigkeitswechsel, welcher länger als 4 Takte dauert.
@@ -55,25 +55,25 @@ Die **Ranking-Kriterien für osu!mania** legen die [Regeln und Richtlinien](/wik
 
 Im [Mapping-Ratgeber für osu!mania](/wiki/Guides/osu!mania_mapping_guide) sind weitere Informationen zu den Bezeichnungsweisen von Patterns erhältlich.
 
-## Allgemeines
+## Global
 
-Allgemeine Regeln und Richtlinien gelten für jede osu!mania-Schwierigkeit. Rhythmusbezogene Regeln und Richtlinien gelten für Beatmaps mit ca. 180 BPM und 4/4-Taktsignaturen. Wenn dein Song drastisch schneller oder langsamer ist, können einige Variablen anders sein, wie unter [BPM-Skalierung in den Ranking-Kriterien](/wiki/Ranking_criteria/Scaling_BPM) ausführlich beschrieben wird.
+Globale Regeln und Richtlinien gelten für alle osu!mania-Schwierigkeitsstufen. Rhythmusbezogene Regeln und Richtlinien gelten für Beatmaps mit ca. 180 BPM und 4/4-Taktsignaturen. Wenn dein Song drastisch schneller oder langsamer ist, können einige Variablen anders sein, wie unter [BPM-Skalierung in den Ranking-Kriterien](/wiki/Ranking_criteria/Scaling_BPM) ausführlich beschrieben wird.
 
-### Regeln
+### Allgemein
+
+#### Regeln
 
 - **Die Mod `Auto` muss in der Lage sein, die volle Punktzahl (1.000.000) in allen Schwierigkeitsstufen zu erreichen.**
 - **In einer Spalte dürfen nicht zwei Noten mit demselben Zeitstempel platziert werden.**
 - **Keine Spalte darf leer sein**. Wenn weniger Tasten verwendet werden sollen, ändere die Anzahl der Tasten in den Song-Einstellungen.
 - **Im Schwierigkeitsgrad Insane oder niedriger dürfen nicht mehr als 6 Noten gleichzeitig gedrückt werden.** Bei der Verwendung von mehr als 6 Noten muss auch ein angemessener Abstand zum nächstniedrigeren Schwierigkeitsgrad eingehalten werden. Diese Regel gilt nicht für die Enden einer langen Note, da sie nicht gedrückt, sondern losgelassen werden.
-- **Beatmaps dürfen nur 4 bis 10 Tasten benutzen.** Alles andere wird nicht von dem Rank-Bereich unterstützt.
-- **Wenn mehrere Tastenmodi in einer Beatmap vorhanden sind, muss der Tastenstil in allen Schwierigkeitsnamen gekennzeichnet werden. Andernfalls darf der Tastenstil nicht gekennzeichnet werden.**
-- **Beatmaps, die den speziellen N+1 Mapping-Stil verwenden, müssen als solche unter dem Tab `Advanced` des Song-Setups im Editor markiert werden und "N+1" muss zu den Tags hinzugefügt werden. Bei Beatmaps, die mehrere Tastenmodi enthalten, müssen Schwierigkeiten in diesem Stil mit der Notation N+1 angegeben werden (z. B. 7K+1 anstatt 8K bei der Benennung der Schwierigkeitsstufe).**
-- **Wenn die [Drain-Zeit](/wiki/Beatmap/Drain_time) von jeder Schwierigkeit...**
-  - **...kürzer als 2:30 ist**, darf der unterste Schwierigkeitsgrad jedes enthaltenen Tastenmodus nicht anspruchsvoller als Normal sein, **ODER** jeder Tastenmodus muss eine angemessene Verteilung[^proper-spread] mit insgesamt mindestens 4 Schwierigkeitsstufen beinhalten.
-  - **...zwischen 2:30 und 3:15 liegt**, darf der unterste Schwierigkeitsgrad jedes enthaltenen Tastenmodus nicht anspruchsvoller als Hard sein, **ODER** jeder Tastenmodus muss eine angemessene Verteilung[^proper-spread] mit insgesamt mindestens 3 Schwierigkeitsstufen beinhalten.
-  - **...zwischen 3:15 und 4:00 liegt**, darf der unterste Schwierigkeitsgrad jedes enthaltenen Tastenmodus nicht anspruchsvoller als Insane sein, **ODER** jeder Tastenmodus muss eine angemessene Verteilung[^proper-spread] mit insgesamt mindestens 2 Schwierigkeitsstufen beinhalten.
+- **Beatmaps dürfen nur 4 bis 10, 12, 14, 16 oder 18 Tasten benutzen.**
+  - **Bei mehr als 10 Tasten muss einer der [Spielstile](#gebräuchliche-begriffe) [10K2S](/wiki/Beatmapping/osu!mania_10K_plus_playstyles#10K2S), [DP](/wiki/Beatmapping/osu!mania_10K_plus_playstyles#DP), [EZ2AC](/wiki/Beatmapping/osu!mania_10K_plus_playstyles#EZ2AC), [10K8K](/wiki/Beatmapping/osu!mania_10K_plus_playstyles#10K8K) oder [9K9K](/wiki/Beatmapping/osu!mania_10K_plus_playstyles#9K9K) verwendet werden.
+- **Wenn die Beatmap einen Schwierigkeitsgrad mit mehr als 10 Tasten oder mehrere [Tastenmodi](#gebräuchliche-begriffe) oder [Spielstile](#gebräuchliche-begriffe) enthält, muss der Name jedes Schwierigkeitsgrads den entsprechenden Tastenmodus oder Spielstil kennzeichnen. Andernfalls dürfen die Namen aller Schwierigkeitsgrade die Tastenmodi oder Spielstile nicht kennzeichnen.**
+- **Alle Spielstile der Beatmap, die keine [Standard-Spielstile](#gebräuchliche-begriffe) sind, müssen in den Tags der Beatmap gekennzeichnet werden.**
+- **Für Schwierigkeitsgrade, die einen [N+1-Spielstil](#gebräuchliche-begriffe) verwenden, muss die Option `Use special style (N+1 style) for mania` im Tab `Advanced` des `Song Setup`-Fensters aktiviert sein. Die Beatmap muss außerdem das Tag "N+1" enthalten.** Im Sinne dieser Regel können nur Spielstile mit weniger als 10 Tasten als "N+1" angesehen werden.[^n-plus-1]
 
-### Richtlinien
+#### Richtlinien
 
 - **Jede Note sollte mit einem in der Musik vorkommenden Klang verbunden sein.** Dies sollte ein eindeutiger Klang sein, jedoch kann es auch ein kontinuierlicher Klang mit ununterscheidbarem Anfang oder Ende darstellen. Ausnahmen zugunsten der Vereinfachung sollten vorgenommen werden, wenn man der Musik genau folgt...
   - und es unangemessen wäre mit voller Genauigkeit zu spielen.
@@ -89,11 +89,20 @@ Allgemeine Regeln und Richtlinien gelten für jede osu!mania-Schwierigkeit. Rhyt
 - **Vermeide das Spammen von kurzen Kiai-Zeitabschnitten.** Dies kann ablenkend wirken und den Spielablauf negativ beeinflussen.
 - **Pausen sollten nur dann eingelegt werden, wenn ein Abschnitt der Musik extrem ruhig oder leise ist.** Bei niedrigeren Schwierigkeitsgraden, insbesondere bei Liedern mit höherer BPM, können Pausen verwendet werden, um Teile des Liedes zu vermeiden, die für neue Spieler unangemessen sind.
 
+### Verteilung
+
+#### Regeln
+
+- **Wenn die [Drain-Zeit](/wiki/Beatmap/Drain_time) jeder Schwierigkeitsstufe...**
+  - **...kürzer als 2:00 ist**, müssen alle [Tastenmodi](#gebräuchliche-begriffe) und [Spielstile](#gebräuchliche-begriffe) entweder den Schwierigkeitsgrad Normal oder niedriger enthalten, oder eine angemessene Verteilung[^proper-spread] mit mindestens 4 Schwierigkeitsgraden bereitstellen.
+  - **...zwischen 2:00 und 2:45 liegt**, müssen alle [Tastenmodi](#gebräuchliche-begriffe) und [Spielstile](#gebräuchliche-begriffe) entweder den Schwierigkeitsgrad Hard oder niedriger enthalten, oder eine angemessene Verteilung[^proper-spread] mit mindestens 3 Schwierigkeitsgraden bereitstellen.
+  - **...zwischen 2:45 und 3:30 liegt**, müssen alle [Tastenmodi](#gebräuchliche-begriffe) und [Spielstile](#gebräuchliche-begriffe) entweder den Schwierigkeitsgrad Insane oder niedriger enthalten, oder eine angemessene Verteilung[^proper-spread] mit mindestens 2 Schwierigkeitsgraden bereitstellen.
+
 ## Schwierigkeitsgradabhängig
 
 Schwierigkeitsgradabhängige Regeln und Richtlinien treffen nur auf die Schwierigkeitsgrade zu, für die sie aufgelistet sind und *gelten somit nicht für **jeden** osu!mania-Schwierigkeitsgrad*. Rhythmusbezogene Regeln und Richtlinien gelten für Beatmaps mit etwa 180 BPM. Sollte dein Song drastisch schneller oder langsamer sein, so können einige Variablen anders sein, wie unter [BPM-Skalierung in den Ranking-Kriterien](/wiki/Ranking_criteria/Scaling_BPM) beschrieben wird.
 
-*Tastenmodi-spezifische Richtlinien basieren auf den am häufigsten verwendeten Tastenmodi (4 Key und 7 Key). Alle anderen Tastenmodi sollten diese Richtlinien befolgen, sofern sie anwendbar sind.*
+*[Tastenmodi](#gebräuchliche-begriffe)-spezifische Richtlinien basieren auf den am häufigsten verwendeten Tastenmodi (4 Key und 7 Key). Alle anderen Tastenmodi oder [Spielstile](#gebräuchliche-begriffe) sollten diese Richtlinien befolgen, sofern sie anwendbar sind.*
 
 ### ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 
@@ -147,8 +156,8 @@ Zusätzliche Richtlinien für *4 Key Normal* Schwierigkeiten:
 
 Zusätzliche Richtlinien für *7 Key Normal* Schwierigkeiten:
 
-- **Vermeide Chords mit mehr als 3 Noten.** Dies gilt auch für lange Noten-Patterns, die in mehr als drei Spalten Noten enthalten. Es ist jedoch in Ordnung, ein Double zu verwenden, das mit der anderen Hand gespielt wird als die lange Note.
-- **Bracket-Patterns sollten sparsam verwendet werden.**
+- **Vermeide Chords mit mehr als 3 Noten.** Dies gilt auch für lange Noten-Patterns, die in mehr als drei Spalten Noten enthalten. Es ist jedoch in Ordnung, ein Triple zu verwenden, das mit der anderen Hand gespielt wird als die lange Note.
+- **Vermeide 1/4-Bracket-Patterns.** 1/2-Bracket-Patterns sollten sparsam verwendet werden.
 - **Lange Noten, die mit benachbarten, gleichzeitig gehaltenen Tasten gespielt werden, sollten gleichzeitig losgelassen werden.** Lange Noten mit mehreren Release-Zeiten erfordern eine Koordination, die Spieler dieses Niveaus nicht vernünftig bewältigen können.
 
 ### ![](/wiki/shared/diff/hard-m.png?20211215) Hard
@@ -175,8 +184,8 @@ Zusätzliche Richtlinien für *4 Key Hard* Schwierigkeiten:
 Zusätzliche Richtlinien für *7 Key Hard* Schwierigkeiten:
 
 - **Vermeide Chords mit mehr als 4 Noten.** Dies gilt auch für lange Noten-Patterns, die in mehr als vier Spalten Noten enthalten.
-- **Halte den Chord-Abstand in einem Chordstream bei einem Intervall von 1/1 oder höher.** Alles was dichter ist, kann die Lesbarkeit beeinträchtigen.
 - **Gelegentliche Hands können in Streams verwendet werden, solange sie durch mindestens einen Takt (4 Beats) getrennt sind.**
+- **Während eines Chordstreams sollten Chords mindestens 1/1 eines Beats voneinander entfernt sein.** Chordstreams mit höherer Chord-Frequenz sollten nicht länger als 2/1 eines Beats sein.
 
 ### ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 
@@ -197,10 +206,7 @@ Zusätzliche Richtlinien für *4 Key Insane* Schwierigkeiten:
 Zusätzliche Richtlinien für *7 Key Insane* Schwierigkeiten:
 
 - **Vermeide die Verwendung von 1/4-Jacks mit mehr als 3+ Noten in der Mitte eines Chordstreams.** Diese erfordern eine Fingerfertigkeit, die für Spieler dieses Niveaus zu schwierig ist.
-- **Während eines langen Chordstreams mit einem Chord alle...**
-  - ...1/1, sollten nicht mehr als 3 Noten vorhanden sein, außer am Anfang/Ende eines Streams, bei dem 4 akzeptabel sind.
-  - ...1/2, sollten nicht mehr als 2 Noten vorhanden sein.
-  - ...1/4, wird empfohlen, stattdessen eine einzelne Note zu verwenden, es sei denn, es gibt eine eindeutige musikalische Begründung dafür.
+- **Vermeide die Überschreitung eines Durchschnitts von 7 Noten pro Beat während eines langen Chordstreams.** Noten, die sich über zwei Beats erstrecken zählen zum darauffolgenden oder zum vorherigen Beat, aber nicht zu beiden.
 - **Bracket-Streams sollten sparsam verwendet werden.**
 
 ### ![](/wiki/shared/diff/expert-m.png?20211215) Expert
@@ -210,6 +216,7 @@ Zusätzliche Richtlinien für *7 Key Insane* Schwierigkeiten:
 - **Vermeide ungerechtfertigte Steigerungen des Schwierigkeitsgrads.** Der Schwierigkeitsgrad sollte der Intensität des Liedes entsprechen.
 - **Langzeitige Änderungen der Slider-Geschwindigkeit sollten zwischen 0,60x und 1,10x liegen.**
 
-## Notes
+## Anmerkungen
 
+[^n-plus-1]: Die Einstellung "N+1" hat aktuell keine Funktion und ist in den Ranking-Kriterien nur reguliert, um die zukünftige Verwendung zu unterstützen. Es ist zur Zeit unklar, wie sich diese Einstellung auf 10 oder mehr Tasten auswirkt, deswegen darf sie in diesen Fällen vorerst nicht aktiviert werden.
 [^proper-spread]: Eine "angemessene" Verteilung *für die Schwierigkeitsstufen Insane und schwerer* wird als eine Verteilung mit Abständen zwischen den Schwierigkeitsgraden ähnlich wie die zwischen niedrigeren [Leveln](/wiki/Beatmap/Difficulty#schwierigkeitslevel) wie in den [schwierigkeitsgradabhängigen Kriterien](#schwierigkeitsgradabhängig) erläutert.
