@@ -220,6 +220,8 @@ Powiązane ogłoszenie: [Community Contributors: 2020](https://osu.ppy.sh/home/n
 
 ### 2022
 
+#### Czerwiec
+
 ::: alert-note
 Powiązane ogłoszenie: [Community Contributors: 2021](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021)
 :::
