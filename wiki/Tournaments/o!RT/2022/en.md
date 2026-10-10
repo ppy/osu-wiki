@@ -466,7 +466,7 @@ Tuesday, July 26, 2022:
 
 1. Prerequisites for participating in the tournament are as follows:
    - Having a Romanian ::{ flag=RO }:: or Moldovan ::{ flag=MD }:: flag on the profile.
-   - Passing the [screening](/wiki/Tournaments/Official_support#tournament-screening) phase to verify eligibility for playing in tournaments supported by the osu! staff. This will be done only after the sign-up period has ended, so a player must be registered to go through this process.
+   - Passing the [screening](/wiki/Tournaments/Official_support#screening) phase to verify eligibility for playing in tournaments supported by the osu! staff. This will be done only after the sign-up period has ended, so a player must be registered to go through this process.
 2. Core staff members like hosts, referees, mappool selectors, or spreadsheet managers are not allowed to simultaneously take part in the tournament as players.
 3. Staff members fulfilling only front-end roles as streamers, commentators or graphics designers are permitted to participate in the tournament as players.
 

@@ -576,7 +576,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
    - Users responsible for organising their country's tryouts are encouraged to contact [LeoFLT](https://osu.ppy.sh/users/3668779) to be added to the list of eligible users for the role of provisional captains for their team. 
    - **Teams that do not send their team list by January 4, 23:59 UTC will their members selected by the tournament organisers.**
      - Auto-selection will be based primarily on osu!mania 7K global rank; however, secondary factors such as community presence and user activity may be used to fill remaining spots. The provisional captain responsible for the missing submission is subject to removal from the team on a case-by-case basis.
-3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
+3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#screening) that is offered to community tournaments.
    - Every valid registrant will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, players are required to be ranked #5,000 or higher on the osu!mania 7K global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 4. All successfully formed teams will be published after the registration phase on this page.
