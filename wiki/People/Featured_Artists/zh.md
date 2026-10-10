@@ -145,6 +145,7 @@ tags:
 | ::{ flag=CA }:: [samostara](https://osu.ppy.sh/users/13278140) | [keyesgen](https://osu.ppy.sh/beatmaps/artists/558) |
 | ::{ flag=GB }:: [SAMString](https://osu.ppy.sh/users/7273976) | [SAMString](https://osu.ppy.sh/beatmaps/artists/273) |
 | ::{ flag=PH }:: [SeiiYuumi](https://osu.ppy.sh/users/38160353) | [Sukima Altera](https://osu.ppy.sh/beatmaps/artists/542) |
+| ::{ flag=US }:: [SevExists](https://osu.ppy.sh/users/30544756) | [Sev](https://osu.ppy.sh/beatmaps/artists/572) |
 | ::{ flag=RU }:: [Shadren](https://osu.ppy.sh/users/745494) | [Shadren](https://osu.ppy.sh/beatmaps/artists/362) |
 | ::{ flag=US }:: [skymuted](https://osu.ppy.sh/users/7734050) | [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15) |
 | ::{ flag=ES }:: [sotuiofficial](https://osu.ppy.sh/users/14779258) | [Rising Sun Traxx](https://osu.ppy.sh/beatmaps/artists/41) (建立者) |
