@@ -118,7 +118,7 @@ Each [osu!mania](/wiki/Game_mode/osu!mania) [key mode](osu!mania#common-terms) a
 
 ### Allowances
 
-- **[Inherited timing points](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) may use slider velocity multipliers with more than two decimal places.** The editor accepts these values but only displays them rounded to two decimal places, so the exact value can only be seen in the `.osu` file. Editing the `.osu` file or using external tools to set these values is acceptable, as the same values can be set in the editor.
+- **[Inherited timing points](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) may use slider velocity multipliers with more than two decimal places.** The editor accepts these values but only displays them rounded to two decimal places, so the exact value can only be seen in the `.osu` file.
 
 ## Timing
 
