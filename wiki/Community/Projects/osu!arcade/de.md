@@ -36,7 +36,7 @@ In den folgenden Jahren setzte peppy seine Arbeit an der osu!arcade nicht fort. 
 
 ## Referenzen
 
-[^rfid]: [GitHub-Kommentar von peppy (07.05.2026)](https://github.com/ppy/osu-wiki/pull/14697/changes#r3201675470)
+[^rfid]: [GitHub-Kommentar von peppy (07.05.2026)](https://github.com/ppy/osu-wiki/pull/14697#discussion_r3201675470)
 [^wai-con]: [Forumsbeitrag von peppy (27.01.2010) "osu!arcade at Wai-con 2010"](https://osu.ppy.sh/community/forums/topics/23392?n=1)
 [^wai-con-video]: [YouTube-Video von shigeru miyamoto (23.01.2010) "osu! at Waicon 2010"](https://www.youtube.com/watch?v=WKvm975bmj0)
 [^kingking9-profile]: [osu!-Profil von kingking9, auf dem sich viele Bilder des Prototyps befinden](https://osu.ppy.sh/users/1277097)
@@ -45,10 +45,10 @@ In den folgenden Jahren setzte peppy seine Arbeit an der osu!arcade nicht fort. 
 [^tweet-1]: [Tweet von @ppy (15.05.2012)](https://twitter.com/ppy/status/202271556498505729)
 [^tweet-2]: [Tweet von @ppy (13.06.2012)](https://twitter.com/ppy/status/212795116774109184)
 [^optical]: [YouTube-Kommentar von Dean Herbert (2013) unter "[osu!stream/osu!arcade] OK Go - This Too Shall Pass"](https://www.youtube.com/watch?v=LQjYwpDnBec&lc=Ugz7J0_hFd-DXQHN5Gl4AaABAg)
-[^design-documents]: [Forumsbeitrag von peppy (01.11.2013) "osu!arcade design documents"](https://osu.ppy.sh/community/forums/topics/163062?n=1)
 [^music-light]: [YouTube-Video von Dean Herbert (03.06.2012) "osu!arcade lighting #2 (wip)"](https://www.youtube.com/watch?v=CjXqPZXbnHU)
-[^local-multi]: [Tweet von @ppy (24.08.2012)](https://twitter.com/ppy/status/239027656476213249)
-[^multi-arcade]: [GitHub-Kommentar von peppy (07.05.2026)](https://github.com/ppy/osu-wiki/pull/14697/changes#r3201696782)
+[^design-documents]: [Forumsbeitrag von peppy (01.11.2013) "osu!arcade design documents"](https://osu.ppy.sh/community/forums/topics/163062?n=1)
 [^rflan]: [YouTube-Video von Dean Herbert (17.10.2012) "osu!arcade @ RFLAN (highlights #1)"](https://www.youtube.com/watch?v=3RZ0e5QxUj8)
 [^oneup]: [YouTube-Video von Dean Herbert (19.09.2012) "osu!arcade @ OneUp Microcinema"](https://www.youtube.com/watch?v=aIDqzD09Sus)
+[^local-multi]: [Tweet von @ppy (24.08.2012)](https://twitter.com/ppy/status/239027656476213249)
+[^multi-arcade]: [GitHub-Kommentar von peppy (07.05.2026)](https://github.com/ppy/osu-wiki/pull/14697/changes#r3201696782)
 [^conversion]: [Blogbeitrag von peppy (17.12.2012) "This Week in osu!"](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5)
