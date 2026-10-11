@@ -16,23 +16,23 @@ Während der zweitägigen Convention versuchte peppy Feedback zu erhalten, indem
 
 Viele Besucher der Convention wollten den Arcade-Automaten ausprobieren, so sehr, dass es aufgrund der konstanten Menschenmenge um das Gerät zumeist schwierig war, den Bildschirm zu sehen. Insgesamt kam der Arcade-Automat bei der Community gut an, wobei manche Spieler darauf hinwiesen, dass man wunde Finger bekam, wenn man zu lang spielte.[^sore-fingers]
 
-## Second prototype
+## Zweiter Prototyp
 
 ::: Infobox
-![Second prototype](img/prototype_v2.jpg "Second prototype")
+![Zweiter Prototyp](img/prototype_v2.jpg "Zweiter Prototyp")
 :::
 
-Around early to mid 2012, a second prototype was developed.[^tweet-1][^tweet-2] It featured two speakers which were integrated into the cabinet. The touchscreen used a precise optical-based system.[^optical] Furthermore, an [Arduino](https://en.wikipedia.org/wiki/Arduino) [microcontroller](https://en.wikipedia.org/wiki/Microcontroller) controlled LED lights that would flash according to the music.[^music-light][^design-documents]
+Etwa Anfang bis Mitte 2012 wurde ein zweiter Prototyp entwickelt.[^tweet-1][^tweet-2] Er enthielt zwei Lautsprecher, die in das Gerät eingebaut waren. Der Touchscreen verwendete ein präzises, optisches System.[^optical] Außerdem steuerte ein [Arduino](https://de.wikipedia.org/wiki/Arduino_(Plattform))-[Mikrocontroller](https://de.wikipedia.org/wiki/Mikrocontroller) LED-Leuchten, die passend zur Musik blinkten.[^music-light][^design-documents]
 
-The prototype was showcased to the public running [osu!stream](/wiki/osu!stream), an osu! variant designed for touch devices, at multiple events such as the "Red Flag LAN Fest" in Perth.[^rflan][^oneup]
+Auf dem Prototyp lief [osu!stream](/wiki/osu!stream), eine osu!-Variante für Touch-Geräte. Er wurde der Öffentlichkeit auf mehreren Veranstaltungen, wie beispielsweise dem "Red Flag LAN Fest" in Perth, vorgestellt.[^rflan][^oneup]
 
-In August 2012, support for local multiplayer was added to osu!stream specifically for the arcade.[^local-multi] Included with the multiplayer mode was a custom server and real-time synced cursors, an exclusive feature not present in any other osu! variant.[^multi-arcade]
+Im August 2012 wurde in osu!stream speziell für den Arcade-Automaten ein lokaler Mehrspielermodus hinzugefügt.[^local-multi] Enthalten waren ein eigener Server und in Echtzeit synchronisierte Cursor, ein exklusives Feature, das in keiner anderen Variante von osu! vorhanden ist.[^multi-arcade]
 
-Later that same year, peppy experimented with support for converting [osu!](/wiki/Game_mode/osu!) [beatmaps](/wiki/Beatmap) to osu!stream, so a more diverse range of maps could be played on the arcade cabinet.[^conversion]
+Später im selben Jahr experimentierte peppy damit, [osu!](/wiki/Game_mode/osu!)-[Beatmaps](/wiki/Beatmap) in Beatmaps für osu!stream zu konvertieren, damit auf dem Arcade-Automaten eine größere Vielfalt an Beatmaps gespielt werden konnte.[^conversion]
 
-## Future
+## Zukunft
 
-In the following years, peppy did not continue to work on the osu!arcade project. By publishing the [design document](https://osu.ppy.sh/community/forums/topics/163062?n=1) in October 2013 however, he wanted to inspire others to create their own arcade cabinet or undertake similar projects.
+In den folgenden Jahren setzte peppy seine Arbeit an der osu!arcade nicht fort. Durch die Veröffentlichung des [Designdokuments](https://osu.ppy.sh/community/forums/topics/163062?n=1) im Oktober 2013 wollte er jedoch andere dazu inspirieren, ihren eigenen Arcade-Automaten zu bauen oder ähnliche Projekte umzusetzen.
 
 ## Referenzen
 
@@ -42,13 +42,13 @@ In the following years, peppy did not continue to work on the osu!arcade project
 [^kingking9-profile]: [osu!-Profil von kingking9, auf dem sich viele Bilder des Prototyps befinden](https://osu.ppy.sh/users/1277097)
 [^sore-fingers]: [Tweet von @ppy (04.07.2010)](https://twitter.com/ppy/status/17689427400)
 
-[^tweet-1]: [Tweet by @ppy (2012-05-15)](https://twitter.com/ppy/status/202271556498505729)
-[^tweet-2]: [Tweet by @ppy (2012-06-13)](https://twitter.com/ppy/status/212795116774109184)
-[^optical]: [YouTube comment by Dean Herbert (2013) in "[osu!stream/osu!arcade] OK Go - This Too Shall Pass"](https://www.youtube.com/watch?v=LQjYwpDnBec&lc=Ugz7J0_hFd-DXQHN5Gl4AaABAg)
-[^design-documents]: [Forum thread by peppy (2013-11-01) "osu!arcade design documents"](https://osu.ppy.sh/community/forums/topics/163062?n=1)
-[^music-light]: [YouTube video by Dean Herbert (2012-06-03) "osu!arcade lighting #2 (wip)"](https://www.youtube.com/watch?v=CjXqPZXbnHU)
-[^local-multi]: [Tweet by @ppy (2012-08-24)](https://twitter.com/ppy/status/239027656476213249)
-[^multi-arcade]: [GitHub comment by peppy (2026-05-07)](https://github.com/ppy/osu-wiki/pull/14697/changes#r3201696782)
-[^rflan]: [YouTube video by Dean Herbert (2012-10-17) "osu!arcade @ RFLAN (highlights #1)"](https://www.youtube.com/watch?v=3RZ0e5QxUj8)
-[^oneup]: [YouTube video by Dean Herbert (2012-09-19) "osu!arcade @ OneUp Microcinema"](https://www.youtube.com/watch?v=aIDqzD09Sus)
-[^conversion]: [Blog post by peppy (2012-12-17) "This Week in osu!"](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5)
+[^tweet-1]: [Tweet von @ppy (15.05.2012)](https://twitter.com/ppy/status/202271556498505729)
+[^tweet-2]: [Tweet von @ppy (13.06.2012)](https://twitter.com/ppy/status/212795116774109184)
+[^optical]: [YouTube-Kommentar von Dean Herbert (2013) unter "[osu!stream/osu!arcade] OK Go - This Too Shall Pass"](https://www.youtube.com/watch?v=LQjYwpDnBec&lc=Ugz7J0_hFd-DXQHN5Gl4AaABAg)
+[^design-documents]: [Forumsbeitrag von peppy (01.11.2013) "osu!arcade design documents"](https://osu.ppy.sh/community/forums/topics/163062?n=1)
+[^music-light]: [YouTube-Video von Dean Herbert (03.06.2012) "osu!arcade lighting #2 (wip)"](https://www.youtube.com/watch?v=CjXqPZXbnHU)
+[^local-multi]: [Tweet von @ppy (24.08.2012)](https://twitter.com/ppy/status/239027656476213249)
+[^multi-arcade]: [GitHub-Kommentar von peppy (07.05.2026)](https://github.com/ppy/osu-wiki/pull/14697/changes#r3201696782)
+[^rflan]: [YouTube-Video von Dean Herbert (17.10.2012) "osu!arcade @ RFLAN (highlights #1)"](https://www.youtube.com/watch?v=3RZ0e5QxUj8)
+[^oneup]: [YouTube-Video von Dean Herbert (19.09.2012) "osu!arcade @ OneUp Microcinema"](https://www.youtube.com/watch?v=aIDqzD09Sus)
+[^conversion]: [Blogbeitrag von peppy (17.12.2012) "This Week in osu!"](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5)
