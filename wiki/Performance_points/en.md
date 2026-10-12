@@ -61,7 +61,7 @@ Sections or  of extremely high speed or difficulty [patterning](/wiki/Beatmap/Pa
 
 ### Reading
 
-*Reading* is a core value that considers how difficult it is to read patterns in a beatmap.
+*Reading* is a core value that considers how difficult it is to understand and react to patterns in a beatmap.
 
 In the osu! gamemode, difficult to read patterns will increase the beatmap's reading values. E.g., beatmaps with very high note density due to low [approach rate](/wiki/Beatmap/Approach_rate) or beatmaps with difficult to read patterns due to high approach rate will have high reading values, and will award higher PP scores.
 
