@@ -1,6 +1,6 @@
 # Design tab
 
-![Design tab](img/SE_base.jpg "Design tab")
+![Design tab](img/SE_base.png "Design tab")
 
 The **Storyboard Editor** is a section of the in-game [Beatmap Editor](/wiki/Client/Beatmap_editor), under the Design tab, which enables simple [Storyboarding](/wiki/Storyboard). It is a good introduction to the fundamental concept before the more advanced [Storyboard Scripting](/wiki/Storyboard/Scripting).
 
@@ -59,19 +59,20 @@ For the readings, **x/y** are your *own* mouse coordinates on the beatmap and wi
 
 #### Layer Toggles
 
-![Layer Toggles](img/SE_LT_B.jpg "Layer Toggles")
+![Layer Toggles](img/SE_LT_B.png "Layer Toggles")
 
 These will **disable/enable layers from being shown.** If you do not want to see the passing scene (that is always on top of the fail scene in editor), turn "Passing" off and enjoy the fail scene. This is useful when you want to see commands for different objects but something is in the way.
 
-All the toggles are as shown below:-
+All the toggles are as shown below:
 
 - Background
 - Failing
 - Passing
 - Foreground
+- Overlay
 - HitObjects (automatically disabled)
 
-**Note:** HitObjects > Foreground > Passing/Failing > Background where ">" blocks that layer. Also, any new objects (not from "Compose") introduced are set to "Foreground" by default. To transfer, drag and drop to the desired layer's tab.
+**Note:** Overlay > HitObjects > Foreground > Passing/Failing > Background where ">" blocks that layer. Also, any new objects (not from "Compose") introduced are set to "Foreground" by default. To transfer, drag and drop to the desired layer's tab.
 
 #### Transformation (timeframe-based)
 
@@ -79,7 +80,7 @@ These are the commands used for your object. Five of the commands have been put 
 
 ![An example of an object subjected to Move up/down and Fade In.](img/SE_Move.jpg "An example of an object subjected to Move up/down and Fade In.")
 
-To use them:-
+To use them:
 
 1. Click on the Storyboard element
 2. Select your transformation (MSFRC)
@@ -87,7 +88,7 @@ To use them:-
 4. Set the effect usage (move up or down your mouse to trigger)
 5. Rinse and Repeat.
 
-![Transformations buttons](img/SE_TRANS.jpg "Transformations buttons")
+![Transformations buttons](img/SE_TRANS.png "Transformations buttons")
 
 ##### Transformation effects (timeframe-based)
 
@@ -108,7 +109,7 @@ To use them:-
 
 ##### Extra commands
 
-![Extra commands](img/SE_AO.jpg "Extra commands")
+![Extra commands](img/SE_AO.png "Extra commands")
 
 | Command | Usage |
 | :-- | :-- |
@@ -137,7 +138,7 @@ This is the **visual representation of the storyboard and changes based on both 
 
 #### Sprite Library
 
-![Visual representation of the sprite used.](img/SE_SL.jpg "Visual representation of the sprite used.")
+![Visual representation of the sprite used.](img/SE_SL.png "Visual representation of the sprite used.")
 
 Click the "Browse..." button to search for sprite to use. You can duplicate the sprite by clicking on it's thumbnail at Sprite Library window.
 
