@@ -14,7 +14,7 @@ tags:
 
 #### Fade In
 
-![Icono del mod Fade In](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/FI.png)
+![Icono del mod Fade In](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/FI.png?1)
 
 *¡Las notas aparecen de la nada!*
 
@@ -31,7 +31,7 @@ tags:
 :::
 
 ::: alert-note
-**Nota:** Para la versión de osu!stable de este artículo, véase [Fade In (mod)](/wiki/Gameplay/Game_modifier/Fade_In)
+**Nota:** Para la versión de osu!(stable) de este artículo, véase [Fade In (mod)](/wiki/Gameplay/Game_modifier/Fade_In)
 :::
 
 ::: alert-note

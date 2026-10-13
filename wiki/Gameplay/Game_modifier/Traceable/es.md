@@ -2,6 +2,8 @@
 stub: true
 tags:
   - TC
+outdated_translation: true
+outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 ---
 
 # Traceable (mod)
@@ -12,7 +14,7 @@ tags:
 
 #### Traceable
 
-![Icono del mod Traceable](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/TC.png)
+![Icono del mod Traceable](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/TC.png?1)
 
 *Confía en los círculos de aproximación...*
 

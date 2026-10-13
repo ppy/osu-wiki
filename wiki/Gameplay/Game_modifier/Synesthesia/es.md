@@ -12,7 +12,7 @@ tags:
 
 #### Synesthesia
 
-![Icono del mod Synesthesia](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SY.png)
+![Icono del mod Synesthesia](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SY.png?1)
 
 *Colorea los objetos según el ritmo.*
 
@@ -21,7 +21,8 @@ tags:
 | Acrónimo | SY |
 | Tipo | Diversión |
 | Modos de juego compatibles | ![][osu!] ![][osu!catch] |
-| Multiplicador de puntuación | `0,80x` |
+| Multiplicador de puntuación ![][osu!] | `0,99x` |
+| Multiplicador de puntuación ![][osu!catch] | `0,80x` |
 | Estado | No clasificado |
 | Mods incompatibles | Ninguno |
 

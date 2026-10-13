@@ -12,7 +12,7 @@ tags:
 
 #### Perfect
 
-![Icono del mod Perfect](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/PF.png)
+![Icono del mod Perfect](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/PF.png?1)
 
 *SS o nada.*
 
@@ -29,7 +29,7 @@ tags:
 :::
 
 ::: alert-note
-**Nota:** Para la versión de osu!stable de este artículo, véase [Perfect (mod)](/wiki/Gameplay/Game_modifier/Perfect)
+**Nota:** Para la versión de osu!(stable) de este artículo, véase [Perfect (mod)](/wiki/Gameplay/Game_modifier/Perfect)
 :::
 
 ::: alert-note

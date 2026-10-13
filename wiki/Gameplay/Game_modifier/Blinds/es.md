@@ -2,6 +2,8 @@
 stub: true
 tags:
   - BL
+outdated_translation: true
+outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 ---
 
 # Blinds (mod)
@@ -12,7 +14,7 @@ tags:
 
 #### Blinds
 
-![Icono del mod Blinds](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/BL.png)
+![Icono del mod Blinds](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/BL.png?1)
 
 *Juega con persianas en tu pantalla.*
 

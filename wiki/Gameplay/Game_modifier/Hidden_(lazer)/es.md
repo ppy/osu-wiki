@@ -2,6 +2,8 @@
 stub: true
 tags:
   - HD
+outdated_translation: true
+outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 ---
 
 # Hidden (mod de lazer)
@@ -12,7 +14,7 @@ tags:
 
 #### Hidden
 
-![Icono del mod Hidden](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/HD.png)
+![Icono del mod Hidden](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/HD.png?1)
 
 *![][osu!] Juega sin círculos de aproximación y con círculos/sliders que desaparecen.*\
 *![][osu!taiko] ¡Las notas desaparecen antes de que las pulses!*\

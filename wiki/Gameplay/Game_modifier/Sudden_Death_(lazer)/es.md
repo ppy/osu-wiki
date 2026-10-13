@@ -13,7 +13,7 @@ tags:
 
 #### Sudden Death
 
-![Icono del mod Sudden Death](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SD.png)
+![Icono del mod Sudden Death](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SD.png?1)
 
 *Falla una nota y pierdes.*
 
@@ -31,7 +31,7 @@ tags:
 :::
 
 ::: alert-note
-**Nota:** Para la versión de osu!stable de este artículo, véase [Sudden Death (mod)](/wiki/Gameplay/Game_modifier/Sudden_Death)
+**Nota:** Para la versión de osu!(stable) de este artículo, véase [Sudden Death (mod)](/wiki/Gameplay/Game_modifier/Sudden_Death)
 :::
 
 ::: alert-note

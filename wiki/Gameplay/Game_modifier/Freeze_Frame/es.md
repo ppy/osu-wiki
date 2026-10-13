@@ -2,6 +2,8 @@
 stub: true
 tags:
   - FR
+outdated_translation: true
+outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 ---
 
 # Freeze Frame (mod)
@@ -12,7 +14,7 @@ tags:
 
 #### Freeze Frame
 
-![Icono del mod Freeze Frame](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/FR.png)
+![Icono del mod Freeze Frame](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/FR.png?1)
 
 *Graba las notas en tu memoria.*
 

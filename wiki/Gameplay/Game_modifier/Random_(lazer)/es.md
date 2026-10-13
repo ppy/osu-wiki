@@ -12,7 +12,7 @@ tags:
 
 #### Random
 
-![Icono del mod Random](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/RD.png)
+![Icono del mod Random](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/RD.png?1)
 
 *![][osu!]: ¡Nunca se hace aburrido!*\
 *![][osu!taiko]: ¡Mezcla los colores!*\
@@ -23,7 +23,8 @@ tags:
 | Acrónimo | RD |
 | Tipo | Conversion |
 | Modos de juego compatibles | ![][osu!] ![][osu!taiko] ![][osu!mania] |
-| Multiplicador de puntuación | `1,00x` |
+| Multiplicador de puntuación ![][osu!] | `0,70x` |
+| Multiplicador de puntuación ![][osu!taiko] ![][osu!mania] | `1,00x` |
 | Estado | No clasificado |
 | Mods incompatibles ![][osu!] | [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)) |
 | Incompatible mods ![][osu!taiko] | [Swap (SW)](/wiki/Gameplay/Game_modifier/Swap) |
@@ -32,7 +33,7 @@ tags:
 :::
 
 ::: alert-note
-**Nota:** Para la versión de osu!stable de este artículo, véase [Random (mod)](/wiki/Gameplay/Game_modifier/Random)
+**Nota:** Para la versión de osu!(stable) de este artículo, véase [Random (mod)](/wiki/Gameplay/Game_modifier/Random)
 :::
 
 ::: alert-note
@@ -43,9 +44,9 @@ El mod **Random** tiene como objetivo hacer que la jugabilidad sea más variada 
 
 En osu!, Random coloca todos los [círculos](/wiki/Gameplay/Hit_object/Hit_circle) y [sliders](/wiki/Gameplay/Hit_object/Slider) en posiciones arbitrarias, conservando siempre la distancia entre dos objetos.
 
-En osu!taiko, Random asigna un color aleatorio ([rojo o azul](/wiki/Gameplay/Hit_object/Hit)) a cada nota. Los [redobles de tambor](/wiki/Gameplay/Hit_object/Drumroll) y los [swells](/wiki/Gameplay/Hit_object/Swell) no se ven afectados.
+En osu!taiko, Random asigna un color aleatorio (rojo o azul) a cada [nota](/wiki/Gameplay/Hit_object/Hit). Los [redobles de tambor](/wiki/Gameplay/Hit_object/Drumroll) y los [swells](/wiki/Gameplay/Hit_object/Swell) no se ven afectados.
 
-En osu!mania, Random mueve todas las notas y las [notas largas](/wiki/Beatmap/Pattern/osu!mania/Hold_note) a una columna aleatoria.
+En osu!mania, Random mueve todas las [notas](/wiki/Gameplay/Hit_object/Note) y las [notas largas](/wiki/Gameplay/Hit_object/Hold_note) a una columna aleatoria.
 
 ## Personalización
 

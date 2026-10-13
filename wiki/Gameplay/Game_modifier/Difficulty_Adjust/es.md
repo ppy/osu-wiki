@@ -2,6 +2,8 @@
 stub: true
 tags:
   - DA
+outdated_translation: true
+outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 ---
 
 # Difficulty Adjust (mod)
@@ -12,7 +14,7 @@ tags:
 
 #### Difficulty Adjust
 
-![Icono del mod Difficulty Adjust](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/DA.png)
+![Icono del mod Difficulty Adjust](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/DA.png?1)
 
 *Modifica los ajustes de dificultad de un beatmap.*
 

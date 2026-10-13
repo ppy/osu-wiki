@@ -13,7 +13,7 @@ tags:
 
 #### Hard Rock
 
-![Icono del mod Hard Rock](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/HR.png)
+![Icono del mod Hard Rock](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/HR.png?1)
 
 *Todo se vuelve un poco más difícil...*
 
@@ -23,7 +23,8 @@ tags:
 | Tipo | Aumento de dificultad |
 | Tecla de acceso directo predeterminada | `A` |
 | Modos de juego compatibles | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Multiplicador de puntuación ![][osu!] ![][osu!taiko] | `1,06x` |
+| Multiplicador de puntuación ![][osu!] | `1,09x` |
+| Multiplicador de puntuación ![][osu!taiko] | `1,06x` |
 | Multiplicador de puntuación ![][osu!catch] | `1,12x` |
 | Multiplicador de puntuación ![][osu!mania] | `1,00x` |
 | Estado ![][osu!] ![][osu!taiko] ![][osu!catch] | Clasificado |
@@ -34,7 +35,7 @@ tags:
 :::
 
 ::: alert-note
-**Nota:** Para la versión de osu!stable de este artículo, véase [Hard Rock (mod)](/wiki/Gameplay/Game_modifier/Hard_Rock)
+**Nota:** Para la versión de osu!(stable) de este artículo, véase [Hard Rock (mod)](/wiki/Gameplay/Game_modifier/Hard_Rock)
 :::
 
 ::: alert-note
