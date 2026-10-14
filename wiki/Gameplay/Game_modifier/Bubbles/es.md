@@ -12,7 +12,7 @@ tags:
 
 #### Bubbles
 
-![Icono del mod Bubbles](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/BU.png)
+![Icono del mod Bubbles](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/BU.png?1)
 
 *¡No dejes que los estallidos te distraigan!*
 
