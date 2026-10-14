@@ -15,7 +15,7 @@ tags:
 
 #### Autoplay
 
-![Icono del mod Autoplay](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AT.png)
+![Icono del mod Autoplay](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AT.png?1)
 
 *Visualiza una jugada automática perfecta de la canción.*
 

@@ -14,7 +14,7 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 
 #### Depth
 
-![Icono del mod Depth](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/DP.png)
+![Icono del mod Depth](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/DP.png?1)
 
 *3D. Casi.*
 

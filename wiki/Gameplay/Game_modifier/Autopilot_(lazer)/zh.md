@@ -13,7 +13,7 @@ tags:
 
 #### Autopilot
 
-![Autopilot 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AP.png)
+![Autopilot 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AP.png?1)
 
 *光标会自动移动，跟着节奏点就好。*
 

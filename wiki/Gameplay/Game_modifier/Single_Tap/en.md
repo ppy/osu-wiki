@@ -13,7 +13,7 @@ tags:
 
 #### Single Tap
 
-![Single Tap mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SG.png)
+![Single Tap mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SG.png?1)
 
 *![][osu!]: You must only use one key!*\
 *![][osu!taiko]: One key for dons, one key for kats.*

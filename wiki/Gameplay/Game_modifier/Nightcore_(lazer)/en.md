@@ -12,7 +12,7 @@ tags:
 
 #### Nightcore
 
-![Nightcore mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/NC.png)
+![Nightcore mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/NC.png?1)
 
 *Uguuuuuuuu...*
 

@@ -12,7 +12,7 @@ tags:
 
 #### Wiggle
 
-![Wiggle mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/WG.png)
+![Wiggle mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/WG.png?1)
 
 *They just won't stay still...*
 

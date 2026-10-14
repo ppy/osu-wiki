@@ -12,7 +12,7 @@ tags:
 
 #### No Release
 
-![Icono del mod No Release](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/NR.png)
+![Icono del mod No Release](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/NR.png?1)
 
 *Olvídate de calcular el momento en el que debes soltar las notas largas.*
 
