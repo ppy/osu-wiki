@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Użytkownicy z unikalnymi tytułami
 
 Tytuły są zazwyczaj związane z [grupami użytkowników](/wiki/People/User_group), jednak użytkownicy wymienieni poniżej otrzymali je z innych powodów. Większość z nich została przyznana za nadzwyczajne osiągnięcia lub wkład w grę, podczas gdy reszta upamiętnia kultowe i śmieszne momenty z historii gry. 
