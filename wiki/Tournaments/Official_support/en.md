@@ -465,7 +465,7 @@ Generally, these are the reasons each method **should** be used alongside expect
 | :-- | :-- | :-- | :-- |
 | Official tournament support requests / screening | ![][true] 10–14 days | ![][false] | ![][false] |
 | News post and main-menu banner requests | ![][true] 10–14 days | ![][false] | ![][false] |
-| Conclusion / badge request | ![][true] [^badge-request] | ![][false] | ![][false] |
+| Conclusion / badge request | ![][true][^badge-request] | ![][false] | ![][false] |
 | Anonymous inquiry or report | ![][true][^anonymous-inquiry] | ![][false] | ![][false] |
 | Tournament format approval requests | ![][false] | ![][true] 10–14 days | ![][false] |
 | Complex issues requiring resolution by the committee | ![][partial] 10–14 days | ![][true] a few days | ![][false] |
