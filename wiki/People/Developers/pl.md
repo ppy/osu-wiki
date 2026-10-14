@@ -7,6 +7,7 @@ tags:
   - osu! devs
   - programiści osu!
   - zespół programistów
+no_native_review: true
 ---
 
 # Programiści
