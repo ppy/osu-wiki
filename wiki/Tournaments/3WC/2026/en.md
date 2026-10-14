@@ -64,19 +64,19 @@ The 3 Digit World Cup 2026 was run by various community members.
 |  | Team | Members |
 | :-: | :-: | :-- |
 | ::{ flag=AU }:: | **Australia** | **[palr](https://osu.ppy.sh/users/15429006)**, [Zyntex](https://osu.ppy.sh/users/11806306), [cyo](https://osu.ppy.sh/users/8195473), [Xaver](https://osu.ppy.sh/users/7410343), [Drox-](https://osu.ppy.sh/users/4309566), [saykk](https://osu.ppy.sh/users/18973222) |
-| ::{ flag=XX }:: | **Austria-Hungary**[^austria-hungary] | **[fedoragoose](https://osu.ppy.sh/users/2323131)**, [defii](https://osu.ppy.sh/users/8698024), [z9a](https://osu.ppy.sh/users/13057699), [z10a](https://osu.ppy.sh/users/18153252), [Akuma no Tenshi](https://osu.ppy.sh/users/21811804), [Nekoyase](https://osu.ppy.sh/users/10981997) |
+| ![Austria-Hungary](img/AH.png) | **Austria-Hungary**[^austria-hungary] | **[fedoragoose](https://osu.ppy.sh/users/2323131)**, [defii](https://osu.ppy.sh/users/8698024), [z9a](https://osu.ppy.sh/users/13057699), [z10a](https://osu.ppy.sh/users/18153252), [Akuma no Tenshi](https://osu.ppy.sh/users/21811804), [Nekoyase](https://osu.ppy.sh/users/10981997) |
 | ::{ flag=BR }:: | **Brazil** | **[monte](https://osu.ppy.sh/users/10077132)**, [-IZZY](https://osu.ppy.sh/users/15225729), [Coreanmaluco](https://osu.ppy.sh/users/3149577), [shwq](https://osu.ppy.sh/users/22536015), [tayko](https://osu.ppy.sh/users/20328948), [-Hirata](https://osu.ppy.sh/users/10188022) |
 | ::{ flag=CA }:: | **Canada** | **[PikaPwn](https://osu.ppy.sh/users/2012453)**, [puppy](https://osu.ppy.sh/users/6304246), [Wanderio](https://osu.ppy.sh/users/16529875), [noncycle](https://osu.ppy.sh/users/12701607), [Rykaii](https://osu.ppy.sh/users/10792185), [C-L](https://osu.ppy.sh/users/8901306) |
 | ::{ flag=CL }:: | **Chile** | **[alfiu](https://osu.ppy.sh/users/17724014)**, [Gonzah](https://osu.ppy.sh/users/12434652), [_fefe](https://osu.ppy.sh/users/8133880), [nekore](https://osu.ppy.sh/users/18946207), [Hanayume](https://osu.ppy.sh/users/12211248) |
-| ::{ flag=XX }:: | **Czechoslovakia**[^czechoslovakia] | **[Dri3x](https://osu.ppy.sh/users/11478426)**, [RafeuX](https://osu.ppy.sh/users/11553201), [Seviade](https://osu.ppy.sh/users/10954912) |
+| ::{ flag=CZ }:: | **Czechoslovakia**[^czechoslovakia] | **[Dri3x](https://osu.ppy.sh/users/11478426)**, [RafeuX](https://osu.ppy.sh/users/11553201), [Seviade](https://osu.ppy.sh/users/10954912) |
 | ::{ flag=DE }:: | **Germany** | **[runnysunny](https://osu.ppy.sh/users/15339747)**, [-lion](https://osu.ppy.sh/users/24270105), [Fleh](https://osu.ppy.sh/users/7780605), [Sh4rq_](https://osu.ppy.sh/users/11684622), [Christiaaan](https://osu.ppy.sh/users/11804019) |
 | ::{ flag=FI }:: | **Finland** | **[Nev-](https://osu.ppy.sh/users/11836334)**, [Amasetic](https://osu.ppy.sh/users/11375251), [Isak-](https://osu.ppy.sh/users/8702650), [Mike Tyson](https://osu.ppy.sh/users/14764185), [Marjus](https://osu.ppy.sh/users/10463344) |
 | ::{ flag=FR }:: | **France** | **[Musty](https://osu.ppy.sh/users/251683)**, [Hifkil](https://osu.ppy.sh/users/4301976), [Satsukiiii](https://osu.ppy.sh/users/25626082), [Thundur](https://osu.ppy.sh/users/4141918), [JapWhite](https://osu.ppy.sh/users/7068158), [lonq noir](https://osu.ppy.sh/users/14165027) |
 | ::{ flag=GB }:: | **United Kingdom** | **[fudge](https://osu.ppy.sh/users/11592896)**, [Bubbleman](https://osu.ppy.sh/users/5182050), [SinqHD](https://osu.ppy.sh/users/15887523), [polski1](https://osu.ppy.sh/users/18131614), [Reimu Hakurei](https://osu.ppy.sh/users/12686213), [velcro shoes](https://osu.ppy.sh/users/11345690) |
 | ::{ flag=GR }:: | **Greece** | **[JackPaX](https://osu.ppy.sh/users/11226645)**, [-Puyu](https://osu.ppy.sh/users/10398348), [Nekkid](https://osu.ppy.sh/users/12145220), [bob man](https://osu.ppy.sh/users/20263707) |
 | ::{ flag=HK }:: | **Hong Kong** | **[misha awa](https://osu.ppy.sh/users/14503423)**, [A21](https://osu.ppy.sh/users/11198996), [F2X](https://osu.ppy.sh/users/16227745), [maxbireo](https://osu.ppy.sh/users/4682646), [Tsuwagi](https://osu.ppy.sh/users/9313951), [Zoomeree](https://osu.ppy.sh/users/18802561) |
-| ::{ flag=XX }:: | **Iberia**[^iberia] | **[A L E P H](https://osu.ppy.sh/users/6735738)**, [towny1](https://osu.ppy.sh/users/16512684), [\[dekori\]](https://osu.ppy.sh/users/17465075), [ESCRUPULILLO](https://osu.ppy.sh/users/18217876), [RafaMat](https://osu.ppy.sh/users/10743390), [uatzap](https://osu.ppy.sh/users/16509171) |
-| ::{ flag=XX }:: | **Imperio Rioplatense**[^imperio-rioplatense] | **[Bomilk](https://osu.ppy.sh/users/7081596)**, [Tofy](https://osu.ppy.sh/users/11113067), [viciobylike](https://osu.ppy.sh/users/18922516), [Seiong](https://osu.ppy.sh/users/7341471), [Rebo](https://osu.ppy.sh/users/6942259), [helvetia](https://osu.ppy.sh/users/6407282) |
+| ![Iberia](img/IB.png) | **Iberia**[^iberia] | **[A L E P H](https://osu.ppy.sh/users/6735738)**, [towny1](https://osu.ppy.sh/users/16512684), [\[dekori\]](https://osu.ppy.sh/users/17465075), [ESCRUPULILLO](https://osu.ppy.sh/users/18217876), [RafaMat](https://osu.ppy.sh/users/10743390), [uatzap](https://osu.ppy.sh/users/16509171) |
+| ![Imperio Rioplatense](img/AY.png) | **Imperio Rioplatense**[^imperio-rioplatense] | **[Bomilk](https://osu.ppy.sh/users/7081596)**, [Tofy](https://osu.ppy.sh/users/11113067), [viciobylike](https://osu.ppy.sh/users/18922516), [Seiong](https://osu.ppy.sh/users/7341471), [Rebo](https://osu.ppy.sh/users/6942259), [helvetia](https://osu.ppy.sh/users/6407282) |
 | ::{ flag=ID }:: | **Indonesia** | **[GNX](https://osu.ppy.sh/users/10069909)**, [MineFrostID](https://osu.ppy.sh/users/12159899), [im a fancy kids](https://osu.ppy.sh/users/16270893), [Hakui Koyori](https://osu.ppy.sh/users/10717635), [Norlain](https://osu.ppy.sh/users/11983229), [VtuberVoiceASMR](https://osu.ppy.sh/users/8780223) |
 | ::{ flag=JP }:: | **Japan** | **[YMD](https://osu.ppy.sh/users/17202789)**, [k4rnu1](https://osu.ppy.sh/users/15537476), [Homutan](https://osu.ppy.sh/users/8655635), [haga1115](https://osu.ppy.sh/users/6574823), [Rikuima](https://osu.ppy.sh/users/14035920), [Furamun](https://osu.ppy.sh/users/14671051) |
 | ::{ flag=KR }:: | **South Korea** | **[Amamya Kokoro](https://osu.ppy.sh/users/2511839)**, [Allegrissimo](https://osu.ppy.sh/users/9052194), [Chipori](https://osu.ppy.sh/users/7027766), [MYKEYBOARD](https://osu.ppy.sh/users/15567583), [Petit](https://osu.ppy.sh/users/4637369), [Sherbet](https://osu.ppy.sh/users/11800154) |
@@ -302,7 +302,7 @@ Saturday, 14 March 2026:
 | **Australia** ::{ flag=AU }:: | **7** | 1 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/120720289) | [#1](https://www.youtube.com/watch?v=vKhjiEod1F0) |
 | **Hong Kong** ::{ flag=HK }:: | **7** | 2 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/120721555) | [#1](https://www.youtube.com/watch?v=Yk2N-g6ZihY) |
 | Brazil ::{ flag=BR }:: | 6 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/120722032) | [#1](https://www.youtube.com/watch?v=gStg5sIwZlw) |
-| **France** ::{ flag=FR }:: | **7** | 1 | ::{ flag=XX }:: Austria-Hungary | [#1](https://osu.ppy.sh/community/matches/120722521) | [#1](https://www.youtube.com/watch?v=49fDuIBOmXo) |
+| **France** ::{ flag=FR }:: | **7** | 1 | ![Austria-Hungary](img/AH.png) Austria-Hungary | [#1](https://osu.ppy.sh/community/matches/120722521) | [#1](https://www.youtube.com/watch?v=49fDuIBOmXo) |
 | Germany ::{ flag=DE }:: | 3 | **7** | ::{ flag=RO }:: **Romania** | [#1](https://osu.ppy.sh/community/matches/120723957) | [#1](https://www.youtube.com/watch?v=rIOwoa9xa_o) |
 
 Sunday, 15 March 2026:
@@ -330,7 +330,7 @@ Sunday, 8 March 2026:
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **Hong Kong** ::{ flag=HK }:: | **6** | 2 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/120681059) | [#1](https://www.youtube.com/watch?v=4lVGAd4pIFg) |
 | **Philippines** ::{ flag=PH }:: | **6** | 4 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/120681632) | [#1](https://www.youtube.com/watch?v=q2MPuR7AANs) |
-| **Austria-Hungary** ::{ flag=XX }:: | **6** | 5 | ::{ flag=XX }:: Iberia | [#1](https://osu.ppy.sh/community/matches/120684090) | [#1](https://www.youtube.com/watch?v=gLy--xt1hhc) |
+| **Austria-Hungary** ![Austria-Hungary](img/AH.png) | **6** | 5 | ![Iberia](img/IB.png) Iberia | [#1](https://osu.ppy.sh/community/matches/120684090) | [#1](https://www.youtube.com/watch?v=gLy--xt1hhc) |
 | **Canada** ::{ flag=CA }:: | **6** | 3 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/120684612) | [#1](https://www.youtube.com/watch?v=WLNONVeLpro) |
 
 Monday, 9 March 2026:
@@ -350,7 +350,7 @@ Saturday, 28 February 2026:
 | **Hong Kong** ::{ flag=HK }:: | **6** | 2 | ::{ flag=NZ }:: New Zealand | [#1](https://osu.ppy.sh/community/matches/120623619) | [#1](https://www.youtube.com/watch?v=r_qbMDSUQqc) |
 | **Canada** ::{ flag=CA }:: | **6** | 0 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/120626487) | [#1](https://www.youtube.com/watch?v=QsCYjtvseXw) |
 | **Germany** ::{ flag=DE }:: | **6** | 3 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/120626438) | [#1](https://www.youtube.com/watch?v=gnMyVvBCAUg) |
-| **United States** ::{ flag=US }:: | **6** | 0 | ::{ flag=XX }:: Austria-Hungary | [#1](https://osu.ppy.sh/community/matches/120628312) | [#1](https://www.youtube.com/watch?v=5u6lnFCt0k0) |
+| **United States** ::{ flag=US }:: | **6** | 0 | ![Austria-Hungary](img/AH.png) Austria-Hungary | [#1](https://osu.ppy.sh/community/matches/120628312) | [#1](https://www.youtube.com/watch?v=5u6lnFCt0k0) |
 
 Sunday, 1 March 2026:
 
@@ -359,7 +359,7 @@ Sunday, 1 March 2026:
 | Romania ::{ flag=RO }:: | 5 | **6** | ::{ flag=AU }:: **Australia** | [#1](https://osu.ppy.sh/community/matches/120633352) | [#1](https://www.youtube.com/watch?v=TDAbtkP_zc4) |
 | South Korea ::{ flag=KR }:: | 5 | **6** | ::{ flag=FR }:: **France** | [#1](https://osu.ppy.sh/community/matches/120633691) | [#1](https://www.youtube.com/watch?v=uHz1qWV8d_Q) |
 | **Chile** ::{ flag=CL }:: | **6** | 5 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/120634443) | [#1](https://www.youtube.com/watch?v=9YDr38kU_B8) |
-| **Brazil** ::{ flag=BR }:: | **6** | 3 | ::{ flag=XX }:: Iberia | [#1](https://osu.ppy.sh/community/matches/120636058) | [#1](https://www.youtube.com/watch?v=vVo3ou0oHBQ) |
+| **Brazil** ::{ flag=BR }:: | **6** | 3 | ![Iberia](img/IB.png) Iberia | [#1](https://osu.ppy.sh/community/matches/120636058) | [#1](https://www.youtube.com/watch?v=vVo3ou0oHBQ) |
 
 ### Qualifiers
 
@@ -375,21 +375,21 @@ The final standings and statistics for the Qualifiers stage can be found [on thi
 | #6 | ::{ flag=KR }:: South Korea | 87.66 |
 | #7 | ::{ flag=RO }:: Romania | 83.79 |
 | #8 | ::{ flag=BR }:: Brazil | 80.12 |
-| #9 | ::{ flag=XX }:: Iberia | 79.32 |
+| #9 | ![Iberia](img/IB.png) Iberia | 79.32 |
 | #10 | ::{ flag=AU }:: Australia | 78.57 |
 | #11 | ::{ flag=FR }:: France | 76.40 |
 | #12 | ::{ flag=RU }:: Russian Federation | 72.15 |
 | #13 | ::{ flag=PH }:: Philippines | 68.30 |
 | #14 | ::{ flag=ID }:: Indonesia | 67.79 |
 | #15 | ::{ flag=NZ }:: New Zealand | 67.21 |
-| #16 | ::{ flag=XX }:: Austria-Hungary | 65.55 |
+| #16 | ![Austria-Hungary](img/AH.png) Austria-Hungary | 65.55 |
 | #17 | ::{ flag=NO }:: Norway | 64.44 |
 | #18 | ::{ flag=GB }:: United Kingdom | 63.88 |
 | #19 | ::{ flag=TH }:: Thailand | 62.95 |
 | #20 | ::{ flag=JP }:: Japan | 61.82 |
 | #21 | ::{ flag=UA }:: Ukraine | 56.64 |
 | #22 | ::{ flag=FI }:: Finland | 49.29 |
-| #23 | ::{ flag=XX }:: Imperio Rioplatense | 48.25 |
+| #23 | ![Imperio Rioplatense](img/AY.png) Imperio Rioplatense | 48.25 |
 | #24 | ::{ flag=GR }:: Greece | 43.48 |
 | #25 | ::{ flag=SG }:: Singapore | 38.09 |
 | #26 | ::{ flag=SE }:: Sweden | 30.44 |
