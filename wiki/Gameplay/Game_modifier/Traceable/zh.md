@@ -2,6 +2,8 @@
 stub: true
 tags:
   - TC
+outdated_translation: true
+outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 ---
 
 # Traceable（模组）
@@ -12,7 +14,7 @@ tags:
 
 #### Traceable
 
-![Traceable 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/TC.png)
+![Traceable 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/TC.png?1)
 
 *相信缩圈...*
 

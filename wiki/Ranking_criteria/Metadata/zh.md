@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 63358d53d23f2be7e8331d07e6be6ddd319f3cd2
+---
+
 # 元数据
 
 ## 常规
