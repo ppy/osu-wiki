@@ -12,7 +12,7 @@ tags:
 
 #### Synesthesia
 
-![Synesthesia mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SY.png)
+![Synesthesia mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SY.png?1)
 
 *Colours hit objects based on the rhythm.*
 

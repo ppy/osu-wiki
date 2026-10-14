@@ -14,7 +14,7 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 
 #### Wiggle
 
-![Wiggle 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/WG.png)
+![Wiggle 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/WG.png?1)
 
 *它们就是不能定住不动...*
 

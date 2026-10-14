@@ -12,7 +12,7 @@ tags:
 
 #### Invert
 
-![Icono del mod Invert](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/IN.png).
+![Icono del mod Invert](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/IN.png?1).
 
 *Mantén las notas. Al ritmo de la música.*
 

@@ -12,7 +12,7 @@ tags:
 
 #### Depth
 
-![Depth mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/DP.png)
+![Depth mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/DP.png?1)
 
 *3D. Almost.*
 

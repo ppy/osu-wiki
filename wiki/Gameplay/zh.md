@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: a0e42c3c9bcd558fb101a9886e413eef1c38c2c2
+---
+
 <!--TODO: link other articles when available: 'miss', taiko hit objects, mania heading, mania hit objects, etc. -->
 
 # 游玩

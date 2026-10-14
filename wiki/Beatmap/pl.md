@@ -28,7 +28,7 @@ Niektóre efekty wizualne i dźwiękowe beatmapy można wyłączyć w nakładce 
 **Główny artykuł:** [Poziom trudności](/wiki/Beatmap/Difficulty)
 :::
 
-*Poziom trudności* to plik z [rozszerzeniem `.osu`](/wiki/Client/File_formats/osu_(file_format)), który zawiera rozmieszczenie obiektów, hitsoundów oraz efektów specjalnych, takich jak [czas kiai](/wiki/Gameplay/Kiai_time). Zawiera też [ustawienia trudności](/wiki/Client/Beatmap_editor/Song_setup#ustawienia-trudności) i inne parametry bezpośrednio wpływające na rozgrywkę. Poziomy trudności beatmapy różnią się od siebie strukturą i czasem są dostępne tylko w jednym [trybie gry](/wiki/Game_mode). System [gwiazdek](/wiki/Beatmap/Star_rating) służy do wizualizacji wymaganego poziomu umiejętności.
+*Poziom trudności* to plik z [rozszerzeniem `.osu`](/wiki/Client/File_formats/osu_(file_format)), który zawiera rozmieszczenie obiektów, hitsoundów oraz efektów specjalnych, takich jak [czas kiai](/wiki/Gameplay/Kiai_time). Zawiera też [ustawienia trudności](/wiki/Client/Beatmap_editor/Song_setup#difficulty) i inne parametry bezpośrednio wpływające na rozgrywkę. Poziomy trudności beatmapy różnią się od siebie strukturą i czasem są dostępne tylko w jednym [trybie gry](/wiki/Game_mode). System [gwiazdek](/wiki/Beatmap/Star_rating) służy do wizualizacji wymaganego poziomu umiejętności.
 
 ## Publikowanie beatmap
 

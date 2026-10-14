@@ -12,7 +12,7 @@ tags:
 
 #### Cover
 
-![Cover 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/CO.png)
+![Cover 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/CO.png?1)
 
 *缩小游玩区域的可见范围。*
 
