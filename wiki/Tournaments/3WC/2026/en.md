@@ -393,7 +393,7 @@ The final standings and statistics for the Qualifiers stage can be found [on thi
 | #24 | ::{ flag=GR }:: Greece | 43.48 |
 | #25 | ::{ flag=SG }:: Singapore | 38.09 |
 | #26 | ::{ flag=SE }:: Sweden | 30.44 |
-| #27 | ::{ flag=CE }:: Czechoslovakia | 0.00 |
+| #27 | ::{ flag=CZ }:: Czechoslovakia | 0.00 |
 
 ## Ruleset
 
