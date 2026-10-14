@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Celność
 
 Celność to procentowa wartość określająca, jak precyzyjnie gracz trafia [obiekty](/wiki/Gameplay/Hit_object). W grze istnieją trzy różne rodzaje celności: celność beatmapy, przedstawiająca celność poszczególnych trafień na danej beatmapie; ogólna celność gracza, ważona w celu podkreślenia lepszych wyników; oraz celność [pp](/wiki/Performance_points), zależna od celności wyników uzyskanych na rankingowych beatmapach.
