@@ -75,7 +75,7 @@ It's admittedly a little hard to explain, but [Feryquitous feat. Aitsuki Nakuru 
 
 ---
 
-Piggybacking off the Quarterfinals, the Semifinals also brings us two new osu! originals! 
+Piggybacking off the Quarterfinals, the Semifinals also brings us two new osu! originals!
 
 [![](/wiki/shared/news/2026-09-22-osumania-4k-world-cup-quarterfinal-and-semifinals-recap/Risoku-banner.jpg)](https://osu.ppy.sh/beatmapsets/2616511#mania/5867959)
 
@@ -216,7 +216,7 @@ I actually didn't have any interpretations of the song initially. It was only la
 
 Our team already had many discussions about the young man winning the heart of the girl, but I failed to really get into the how part. So, with what I call an epiphany, I finally conjured up a new interpretation: initially the girl is uninterested but curious and ready to challenge him. The young man fails multiple times, but each time he fails, he gets back up, still determined to win. It's during these losses that she starts to gain an affinity for him, seeing him as a determined, persevering boy whom she finds endearing. At the end, they both have feelings for each other, and thus they leave the casino with each other by their side.
 
-I think adding that resistance adds so much to the story, in the sense that it no longer looks like a smooth ride. He had to fight for it, and he had his eyes on the prize. That's why I drew the first scene with the girl smiling whilst looking somewhere other than the camera, along with an alternate expression where her mouth is in a frown and her eyes are separated from the eyelashes. I requested that the storyboarder have her frown when she looks at the camera. For the next scene, where they are sitting across from each other, while she isn't frowning, she has more of a light expression. Meanwhile, the young man has a light but stiff expression, with the alternate expression being a frown as he starts to lose. It's a minor thing, really. 
+I think adding that resistance adds so much to the story, in the sense that it no longer looks like a smooth ride. He had to fight for it, and he had his eyes on the prize. That's why I drew the first scene with the girl smiling whilst looking somewhere other than the camera, along with an alternate expression where her mouth is in a frown and her eyes are separated from the eyelashes. I requested that the storyboarder have her frown when she looks at the camera. For the next scene, where they are sitting across from each other, while she isn't frowning, she has more of a light expression. Meanwhile, the young man has a light but stiff expression, with the alternate expression being a frown as he starts to lose. It's a minor thing, really.
 
 ![](/wiki/shared/news/2026-09-22-osumania-4k-world-cup-quarterfinal-and-semifinals-recap/1-facial_expressions.png)
 
@@ -270,7 +270,6 @@ The lyrics are filled with casino imagery, from cards and dice to chips and roul
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-fa" href="https://osu.ppy.sh/users/11310625">Blue Star Lotus</a></p>
 
-[Blue Star Lotus](https://osu.ppy.sh/users/11310625)
 We wanted the characters to represent card suits: the heart for the girl and the club for the young man. For that, we sneaked details like the heart-shaped chest window on the girl's dress and the club symbol on the guy's lapel chain into their designs.
 
 Our graphic designers [mohca](https://osu.ppy.sh/users/14499702), [mochasan_](https://osu.ppy.sh/users/23804364), and [Kanomi](https://osu.ppy.sh/users/37694048) also helped to make various assets that would fit the theme, including a full set of card designs. The king, queen, and joker illustrations were completely on me. The king and queen cards feature the same main characters, but with different outfits and accessories. They were inspired by traditional playing card designs, but I wanted to make them look a bit more modern and cool. You can also find more of the symbols I mentioned earlier throughout these artworks. As for the joker, we wanted to avoid giving him a face, or at least any specific identity, since he isn't really the main focus of the story.

@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 16e65eec08567f086caf6e797c4d180c4868c5ec
----
-
 # Турниры
 
 Данный раздел посвящён турнирам по osu!. Организация и проведение турниров также обсуждаются в [отдельном форуме](https://osu.ppy.sh/community/forums/55).
@@ -33,6 +28,7 @@ outdated_since: 16e65eec08567f086caf6e797c4d180c4868c5ec
 | [osu! World Cup 2023](OWC/2023) | 21.10.2023 | 03.12.2023 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=KR }:: Республика Корея | ::{ flag=AU }:: Австралия |
 | [osu! World Cup 2024](OWC/2024) | 26.10.2024 | 08.12.2024 | ::{ flag=KR }:: Республика Корея | ::{ flag=US }:: Соединённые Штаты | ::{ flag=AU }:: Австралия |
 | [osu! World Cup 2025](OWC/2025) | 25.10.2025 | 14.12.2025 | ::{ flag=PL }:: Польша | ::{ flag=US }:: Соединённые Штаты | ::{ flag=AU }:: Австралия |
+| [osu! World Cup 2026](OWC/2026) | 25.10.2026 | 13.12.2026 | *Подлежит уточнению* | *Подлежит уточнению* | *Подлежит уточнению* |
 
 ### ![](/wiki/shared/mode/taiko.png) [osu!taiko World Cup](TWC)
 
@@ -101,7 +97,7 @@ outdated_since: 16e65eec08567f086caf6e797c4d180c4868c5ec
 | [osu!mania 7K World Cup 2025](MWC/2025_7K) | 12.12.2024 | 23.02.2025 | ::{ flag=KR }:: Республика Корея | ::{ flag=CN }:: Китай | ::{ flag=PH }:: Филиппины |
 | [osu!mania 4K World Cup 2025](MWC/2025_4K) | 17.07.2025 | 28.09.2025 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=KR }:: Республика Корея | ::{ flag=CN }:: Китай |
 | [osu!mania 7K World Cup 2026](MWC/2026_7K) | 11.12.2025 | 22.02.2026 | ::{ flag=KR }:: Республика Корея | ::{ flag=PH }:: Филиппины | ::{ flag=JP }:: Япония |
-| [osu!mania 4K World Cup 2026](MWC/2026_4K) | 16.07.2026 | 27.09.2026 | *Подлежит уточнению* | *Подлежит уточнению* | *Подлежит уточнению* |
+| [osu!mania 4K World Cup 2026](MWC/2026_4K) | 16.07.2026 | 27.09.2026 | ::{ flag=KR }:: Республика Корея | ::{ flag=US }:: Соединённые Штаты | ::{ flag=CN }:: Китай |
 
 ## Неофициальные турниры
 
@@ -293,6 +289,21 @@ outdated_since: 16e65eec08567f086caf6e797c4d180c4868c5ec
 | Mirai. osu! Winter Festival 2017/2018 | 05.10.2017 | 24.02.2018 | :thonking: | Decay II | FX\_POWER |
 | Mirai. Idol Tournament 2019 | 01.04.2019 | 21.05.2019 | Drift% | MAC901 | Traitorpulse |
 | [Mirai. Tournament 2020](Mirai/2020) | 06.04.2020 | 23.06.2020 | Norank MaMa <3 U | Uprankers | Salted\_Fish |
+
+#### [National Dutch Championship](NDC)
+
+| Название | Начало | Конец | ![Золото][GCrown] | ![Серебро][SCrown] | ![Бронза][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Dutch osu! Cup 2017 | 11.03.2017 | 07.05.2017 | [Lazer](https://osu.ppy.sh/users/1799925) | [Yura Rin](https://osu.ppy.sh/users/2574658) | [Pittigbaasje](https://osu.ppy.sh/users/2167433) |
+| Dutch osu! Cup 2018 | 10.03.2018 | 13.05.2018 | [jackylam5](https://osu.ppy.sh/users/1540807) | [Viveliam](https://osu.ppy.sh/users/3506793) | [Damnjelly](https://osu.ppy.sh/users/1666355) |
+| Dutch osu! Cup 2019 | 20.02.2019 | 05.05.2019 | [Lilily](https://osu.ppy.sh/users/6502403) | [Skyrovania](https://osu.ppy.sh/users/4696315) | [Yura Rin](https://osu.ppy.sh/users/2574658) |
+| Dutch osu! Cup 2020 | 12.04.2020 | 03.05.2020 | [Viveliam](https://osu.ppy.sh/users/3506793) | [Skyrovania](https://osu.ppy.sh/users/4696315) | [sunui](https://osu.ppy.sh/users/3065571) |
+| Dutch osu! Cup 2021 | 01.03.2021 | 09.05.2021 | [Skyrovania](https://osu.ppy.sh/users/4696315) | [Viveliam](https://osu.ppy.sh/users/3506793) | [Kushper](https://osu.ppy.sh/users/4832514) |
+| [National Dutch Championship 2022](NDC/2022) | 13.12.2021 | 27.02.2022 | [Viveliam](https://osu.ppy.sh/users/3506793) | [Lilily](https://osu.ppy.sh/users/6502403) | [Skyrovania](https://osu.ppy.sh/users/4696315) |
+| [National Dutch Championship 2023](NDC/2023) | 08.01.2023 | 12.03.2023 | [Lilily](https://osu.ppy.sh/users/6502403) | [Burning John](https://osu.ppy.sh/users/6744123) | [luciano](https://osu.ppy.sh/users/11604978) |
+| [National Dutch Championship 2024](NDC/2024) | 05.08.2024 | 13.10.2024 | [Aheo](https://osu.ppy.sh/users/14919428) | [Burning John](https://osu.ppy.sh/users/6744123) | [luciano](https://osu.ppy.sh/users/11604978) |
+| [National Dutch Championship 2025](NDC/2025) | 09.08.2025 | 12.10.2025 | [Aheo](https://osu.ppy.sh/users/14919428) | [Tutel](https://osu.ppy.sh/users/12241010) | [John ethken](https://osu.ppy.sh/users/641155) |
+| [National Dutch Championship 2026](NDC/2026) | 08.08.2026 | 12.10.2026 | *Подлежит уточнению* | *Подлежит уточнению* | *Подлежит уточнению* |
 
 #### [nik's Tournaments](NT)
 
