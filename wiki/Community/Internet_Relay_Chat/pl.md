@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Internet Relay Chat
 
 ::: alert-note
