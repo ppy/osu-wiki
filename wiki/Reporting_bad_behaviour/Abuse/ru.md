@@ -6,6 +6,8 @@ tags:
   - ко мне пристают
   - пошлый
   - пошлости
+outdated_translation: true
+outdated_since: e7163973aa4c854dcc0455e3f696b608bf0852f7
 ---
 
 # Жалобы на приставания

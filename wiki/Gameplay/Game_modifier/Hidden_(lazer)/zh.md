@@ -14,7 +14,7 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 
 #### Hidden
 
-![Hidden 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/HD.png)
+![Hidden 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/HD.png?1)
 
 *![][osu!] 没有缩圈，圆圈与滑条渐隐。*\
 *![][osu!taiko] 物件会在击打之前渐渐隐藏！*\

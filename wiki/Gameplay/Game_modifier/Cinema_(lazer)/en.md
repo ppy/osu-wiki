@@ -12,7 +12,7 @@ tags:
 
 #### Cinema
 
-![Cinema mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/CN.png)
+![Cinema mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/CN.png?1)
 
 *Watch the video without visual distractions.*
 
