@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Skryptowanie storyboardów
 
 ![Przykład skryptu otwartego w "Code - OSS"](img/osb-example.png "Przykład skryptu storyboardowego (plik .osb)")
