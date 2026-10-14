@@ -12,7 +12,7 @@ tags:
 
 #### Score V2
 
-![Icono del mod Score V2](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SV2.png)
+![Icono del mod Score V2](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SV2.png?1)
 
 *Puntuaciones establecidas en versiones anteriores de osu! con el algoritmo de puntuación V2 activo.*
 
