@@ -14,7 +14,7 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 
 #### Freeze Frame
 
-![Freeze Frame 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/FR.png)
+![Freeze Frame 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/FR.png?1)
 
 *牢牢记住这些物件。*
 
