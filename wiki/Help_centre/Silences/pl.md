@@ -5,6 +5,7 @@ tags:
   - chat ban
   - ban na czat
   - wyciszenie
+no_native_review: true
 ---
 
 # Uciszenie
