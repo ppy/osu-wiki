@@ -62,6 +62,7 @@ tags:
 | ::{ flag=JP }:: [7\_7](https://osu.ppy.sh/users/7491106) | [7\_7](https://osu.ppy.sh/beatmaps/artists/356) |
 | ::{ flag=JP }:: [A\_\_](https://osu.ppy.sh/users/12011880) | [A?](https://osu.ppy.sh/beatmaps/artists/173) |
 | ::{ flag=US }:: [Absolute Zero](https://osu.ppy.sh/users/4847256) | [0 K](https://osu.ppy.sh/beatmaps/artists/424) |
+| ::{ flag=IL }:: [adamyes](https://osu.ppy.sh/users/11554822) | [adamyes](https://osu.ppy.sh/beatmaps/artists/571) |
 | ::{ flag=US }:: [Akiri](https://osu.ppy.sh/users/19587411) | [Akiri](https://osu.ppy.sh/beatmaps/artists/401) |
 | ::{ flag=CL }:: [akts](https://osu.ppy.sh/users/6309660) | [Akts](https://osu.ppy.sh/beatmaps/artists/513) |
 | ::{ flag=US }:: [antiPLUR](https://osu.ppy.sh/users/7318723) | [antiPLUR / Internet Death Machine](https://osu.ppy.sh/beatmaps/artists/24) |
@@ -143,6 +144,7 @@ tags:
 | ::{ flag=CA }:: [samostara](https://osu.ppy.sh/users/13278140) | [keyesgen](https://osu.ppy.sh/beatmaps/artists/558) |
 | ::{ flag=GB }:: [SAMString](https://osu.ppy.sh/users/7273976) | [SAMString](https://osu.ppy.sh/beatmaps/artists/273) |
 | ::{ flag=PH }:: [SeiiYuumi](https://osu.ppy.sh/users/38160353) | [Sukima Altera](https://osu.ppy.sh/beatmaps/artists/542) |
+| ::{ flag=US }:: [SevExists](https://osu.ppy.sh/users/30544756) | [Sev](https://osu.ppy.sh/beatmaps/artists/572) |
 | ::{ flag=RU }:: [Shadren](https://osu.ppy.sh/users/745494) | [Shadren](https://osu.ppy.sh/beatmaps/artists/362) |
 | ::{ flag=US }:: [skymuted](https://osu.ppy.sh/users/7734050) | [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15) |
 | ::{ flag=ES }:: [sotuiofficial](https://osu.ppy.sh/users/14779258) | [Rising Sun Traxx](https://osu.ppy.sh/beatmaps/artists/41) (основатель) |
