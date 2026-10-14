@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # osu!academy
 
 ![](img/logo.png "logo osu!academy")
