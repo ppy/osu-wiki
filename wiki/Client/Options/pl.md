@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Opcje
 
 ![Nakładka opcji](img/options_basic.jpg "Nakładka opcji \(panel boczny po lewej\)")
