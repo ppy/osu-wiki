@@ -302,7 +302,7 @@ Saturday, 14 March 2026:
 | **Australia** ::{ flag=AU }:: | **7** | 1 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/120720289) | [#1](https://www.youtube.com/watch?v=vKhjiEod1F0) |
 | **Hong Kong** ::{ flag=HK }:: | **7** | 2 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/120721555) | [#1](https://www.youtube.com/watch?v=Yk2N-g6ZihY) |
 | Brazil ::{ flag=BR }:: | 6 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/120722032) | [#1](https://www.youtube.com/watch?v=gStg5sIwZlw) |
-| **France** ::{ flag=FR }:: | **7** | 1 | ::{ flag=AH }:: Austria-Hungary | [#1](https://osu.ppy.sh/community/matches/120722521) | [#1](https://www.youtube.com/watch?v=49fDuIBOmXo) |
+| **France** ::{ flag=FR }:: | **7** | 1 | ::{ flag=XX }:: Austria-Hungary | [#1](https://osu.ppy.sh/community/matches/120722521) | [#1](https://www.youtube.com/watch?v=49fDuIBOmXo) |
 | Germany ::{ flag=DE }:: | 3 | **7** | ::{ flag=RO }:: **Romania** | [#1](https://osu.ppy.sh/community/matches/120723957) | [#1](https://www.youtube.com/watch?v=rIOwoa9xa_o) |
 
 Sunday, 15 March 2026:
@@ -330,7 +330,7 @@ Sunday, 8 March 2026:
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **Hong Kong** ::{ flag=HK }:: | **6** | 2 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/120681059) | [#1](https://www.youtube.com/watch?v=4lVGAd4pIFg) |
 | **Philippines** ::{ flag=PH }:: | **6** | 4 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/120681632) | [#1](https://www.youtube.com/watch?v=q2MPuR7AANs) |
-| **Austria-Hungary** ::{ flag=AH }:: | **6** | 5 | ::{ flag=IB }:: Iberia | [#1](https://osu.ppy.sh/community/matches/120684090) | [#1](https://www.youtube.com/watch?v=gLy--xt1hhc) |
+| **Austria-Hungary** ::{ flag=XX }:: | **6** | 5 | ::{ flag=XX }:: Iberia | [#1](https://osu.ppy.sh/community/matches/120684090) | [#1](https://www.youtube.com/watch?v=gLy--xt1hhc) |
 | **Canada** ::{ flag=CA }:: | **6** | 3 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/120684612) | [#1](https://www.youtube.com/watch?v=WLNONVeLpro) |
 
 Monday, 9 March 2026:
@@ -350,7 +350,7 @@ Saturday, 28 February 2026:
 | **Hong Kong** ::{ flag=HK }:: | **6** | 2 | ::{ flag=NZ }:: New Zealand | [#1](https://osu.ppy.sh/community/matches/120623619) | [#1](https://www.youtube.com/watch?v=r_qbMDSUQqc) |
 | **Canada** ::{ flag=CA }:: | **6** | 0 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/120626487) | [#1](https://www.youtube.com/watch?v=QsCYjtvseXw) |
 | **Germany** ::{ flag=DE }:: | **6** | 3 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/120626438) | [#1](https://www.youtube.com/watch?v=gnMyVvBCAUg) |
-| **United States** ::{ flag=US }:: | **6** | 0 | ::{ flag=AH }:: Austria-Hungary | [#1](https://osu.ppy.sh/community/matches/120628312) | [#1](https://www.youtube.com/watch?v=5u6lnFCt0k0) |
+| **United States** ::{ flag=US }:: | **6** | 0 | ::{ flag=XX }:: Austria-Hungary | [#1](https://osu.ppy.sh/community/matches/120628312) | [#1](https://www.youtube.com/watch?v=5u6lnFCt0k0) |
 
 Sunday, 1 March 2026:
 
@@ -359,7 +359,7 @@ Sunday, 1 March 2026:
 | Romania ::{ flag=RO }:: | 5 | **6** | ::{ flag=AU }:: **Australia** | [#1](https://osu.ppy.sh/community/matches/120633352) | [#1](https://www.youtube.com/watch?v=TDAbtkP_zc4) |
 | South Korea ::{ flag=KR }:: | 5 | **6** | ::{ flag=FR }:: **France** | [#1](https://osu.ppy.sh/community/matches/120633691) | [#1](https://www.youtube.com/watch?v=uHz1qWV8d_Q) |
 | **Chile** ::{ flag=CL }:: | **6** | 5 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/120634443) | [#1](https://www.youtube.com/watch?v=9YDr38kU_B8) |
-| **Brazil** ::{ flag=BR }:: | **6** | 3 | ::{ flag=IB }:: Iberia | [#1](https://osu.ppy.sh/community/matches/120636058) | [#1](https://www.youtube.com/watch?v=vVo3ou0oHBQ) |
+| **Brazil** ::{ flag=BR }:: | **6** | 3 | ::{ flag=XX }:: Iberia | [#1](https://osu.ppy.sh/community/matches/120636058) | [#1](https://www.youtube.com/watch?v=vVo3ou0oHBQ) |
 
 ### Qualifiers
 
@@ -375,21 +375,21 @@ The final standings and statistics for the Qualifiers stage can be found [on thi
 | #6 | ::{ flag=KR }:: South Korea | 87.66 |
 | #7 | ::{ flag=RO }:: Romania | 83.79 |
 | #8 | ::{ flag=BR }:: Brazil | 80.12 |
-| #9 | ::{ flag=IB }:: Iberia | 79.32 |
+| #9 | ::{ flag=XX }:: Iberia | 79.32 |
 | #10 | ::{ flag=AU }:: Australia | 78.57 |
 | #11 | ::{ flag=FR }:: France | 76.40 |
 | #12 | ::{ flag=RU }:: Russian Federation | 72.15 |
 | #13 | ::{ flag=PH }:: Philippines | 68.30 |
 | #14 | ::{ flag=ID }:: Indonesia | 67.79 |
 | #15 | ::{ flag=NZ }:: New Zealand | 67.21 |
-| #16 | ::{ flag=AH }:: Austria-Hungary | 65.55 |
+| #16 | ::{ flag=XX }:: Austria-Hungary | 65.55 |
 | #17 | ::{ flag=NO }:: Norway | 64.44 |
 | #18 | ::{ flag=GB }:: United Kingdom | 63.88 |
 | #19 | ::{ flag=TH }:: Thailand | 62.95 |
 | #20 | ::{ flag=JP }:: Japan | 61.82 |
 | #21 | ::{ flag=UA }:: Ukraine | 56.64 |
 | #22 | ::{ flag=FI }:: Finland | 49.29 |
-| #23 | ::{ flag=AY }:: Imperio Rioplatense | 48.25 |
+| #23 | ::{ flag=XX }:: Imperio Rioplatense | 48.25 |
 | #24 | ::{ flag=GR }:: Greece | 43.48 |
 | #25 | ::{ flag=SG }:: Singapore | 38.09 |
 | #26 | ::{ flag=SE }:: Sweden | 30.44 |
