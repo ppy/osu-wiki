@@ -25,7 +25,7 @@ It should not come as a surprise that our video team formed by [Dynascape](https
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2873402124&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-![Finals mappool table](/wiki/shared/news/2026-10-09-osumania-4k-world-cup-finals-recap/mappool-f.jpg)
+![Finals mappool table](/wiki/shared/news/2026-10-14-osumania-4k-world-cup-finals-recap/mappool-f.jpg)
 
 There may be no [osu! originals](/wiki/Community/Bespoke_music) this time around, but the pool didn't get any less interesting! [Nanahoshi Kangengakudan - MAKE A LOSER (Instrumental Ver.)](https://osu.ppy.sh/beatmapsets/2620235#mania/5880813) (RC8) by ::{ flag=DE }:: [IceDynamix](https://osu.ppy.sh/users/8599070) takes the newest and last slot of the rice pool. As the name may suggest, this beatmap has just about everything you'd expect from a wildcard. Making use of dumps, it uses the instrumentals, mainly the saxophone, as a means for building unconventional patterns. By doing so, it creates a largely unique experience that allows it stand out far and beyond what a typical slot in this category would. 
 
