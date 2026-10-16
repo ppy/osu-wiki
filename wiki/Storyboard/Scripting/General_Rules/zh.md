@@ -1,8 +1,3 @@
----
-outdated_since: 4783e764c4e6d760cabec64dcaea88e8ce9c6581
-outdated_translation: true
----
-
 # 故事板编写一般规则
 
 ![一个编写 .osb 脚本的例子。](img/SBS_Base.jpg "一个编写 .osb 脚本的例子。")
@@ -13,7 +8,9 @@ outdated_translation: true
 
 ### 对象
 
-*对于 [osu!](/wiki/Game_mode/osu!) 模式与[作图](/wiki/Beatmapping)时的物件，参见：[打击物件](/wiki/Gameplay/Hit_object)*
+::: alert-note
+**注:** 对于 [osu!](/wiki/Game_mode/osu!) 模式与[作图](/wiki/Beatmapping)时的物件，参见[打击物件](/wiki/Gameplay/Hit_object)
+:::
 
 [故事板对象](/wiki/Storyboard/Scripting/Objects)指的是故事板中精灵图或动画的实例。故事板也可以播放声音，请阅读[音频](/wiki/Storyboard/Scripting/Audio)指南获取详情。
 
@@ -38,14 +35,15 @@ outdated_translation: true
 
 ### 图层
 
-所有故事板精灵图都位于皮肤与[打击物件](/wiki/Gameplay/Hit_object)下层。因此，即使是故事板中“最高”的层（前景层）也会显示在血条、物件与光标等等下方。
+除叠加层之外，所有层级的故事板精灵图都显示在[打击物件](/wiki/Gameplay/Hit_object)下层。作为故事板中“最高”的层级，叠加层总会显示在打击物件上方，但仍然位于血条与光标等等下方。
 
-一共有四个故事板层，按优先级从低到高排序：
+一共有五个故事板层，按优先级从低到高排序：
 
 - 背景层
 - 失败层（仅在玩家处于“失败状态”时显示，见下文的[游戏状态](#游戏状态)）
 - 通过层（仅在玩家处于“通过状态”时显示，见下文的[游戏状态](#游戏状态)）
 - 前景层
+- 叠加层（显示在物件上层，请谨慎使用）
 
 注意与“设计”标签页中所示不同，“失败”与“通过”层不会同时出现。
 

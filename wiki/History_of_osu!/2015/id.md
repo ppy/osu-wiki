@@ -2,7 +2,7 @@
 outdated_translation: true
 ---
 
-# 2015
+# Sejarah osu! 2015
 
 ## Maret
 

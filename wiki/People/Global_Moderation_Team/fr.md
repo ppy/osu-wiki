@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: ee4ec9fd67b738d039e0110bafd28ca118e7db57
 no_native_review_since: 8ad5d07abb60afb005417de9dd9ee4653daf6ae0 Doryan
 tags:
   - GMT
@@ -10,6 +8,8 @@ tags:
   - modérateur
   - modérateurs
   - modérateur de tchat
+outdated_translation: true
+outdated_since: e5f0364195b7a422f5889406dbc624eff7ca54a1
 ---
 
 # Global Moderation Team
@@ -69,7 +69,7 @@ Les Global Moderators bénéficient des avantages suivants :
 
 ## Départ de l'équipe
 
-Lorsqu'un Global Moderator décide de quitter l'équipe, il peut se voir accorder les récompenses suivantes en fonction des circonstances :
+Lorsqu'un Global Moderator décide de quitter l'équipe à l'amiable, il peut se voir accorder les récompenses suivantes en fonction des circonstances :
 
 - **Titre [osu! Alumni](/wiki/People/osu!_Alumni)** : Il est accordé aux membres qui ont fait partie de l'équipe pendant au moins un an ou qui ont apporté une contribution significative au sein de l'équipe au cours d'une période plus courte.
 - **osu!supporter** : Les membres se voient attribuer une étiquette osu!supporter qui dure le double du temps qu'ils ont passé dans les GMT, dans les mêmes conditions que le statut osu! Alumni.

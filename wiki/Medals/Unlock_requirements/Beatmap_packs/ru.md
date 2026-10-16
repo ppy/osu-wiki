@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 6cc3878c2bfbf34606db670d6367448298d2aa3e
----
-
 # Условия получения медалей Beatmap Packs
 
 | Название медали | Условие |
@@ -67,9 +62,23 @@ outdated_since: 6cc3878c2bfbf34606db670d6367448298d2aa3e
 | Chill Pack | Пройти все карты из подборки [Chill Pack](https://osu.ppy.sh/beatmaps/packs/T108). |
 | Rohi Pack | Пройти все карты из подборки [Rohi Pack](https://osu.ppy.sh/beatmaps/packs/F2). |
 | Drum & Bass Pack | Пройти все карты из подборки [Drum & Bass Pack](https://osu.ppy.sh/beatmaps/packs/T113). |
+| Chroma Pack | Пройти все карты из подборки [Chroma Pack](https://osu.ppy.sh/beatmaps/packs/A101). |
+| in love with a ghost | Пройти все карты из подборки [in love with a ghost Pack](https://osu.ppy.sh/beatmaps/packs/F3). |
+| Mili Pack | Пройти все карты из подборки [Mili Pack](https://osu.ppy.sh/beatmaps/packs/A102). |
+| 4K Globetrotter | Пройти все карты из подборки [4K Globetrotter Pack](https://osu.ppy.sh/beatmaps/packs/T134). |
+| 7K World Cup Anthology | Пройти все карты из подборки [7K World Cup Anthology Pack](https://osu.ppy.sh/beatmaps/packs/T135). |
 | Mappers' Guild Pack I | Пройти все карты из подборки [Mappers' Guild Pack I](https://osu.ppy.sh/beatmaps/packs/1365). |
 | Mappers' Guild Pack II | Пройти все карты из подборки [Mappers' Guild Pack II](https://osu.ppy.sh/beatmaps/packs/1450). |
 | Mappers' Guild Pack III | Пройти все карты из подборки [Mappers' Guild Pack III](https://osu.ppy.sh/beatmaps/packs/1689). |
 | Mappers' Guild Pack IV | Пройти все карты из подборки [Mappers' Guild Pack IV](https://osu.ppy.sh/beatmaps/packs/1757). |
 | Mappers' Guild Pack V | Пройти все карты из подборки [Mappers' Guild Pack V](https://osu.ppy.sh/beatmaps/packs/2032). |
 | Mappers' Guild Pack VI | Пройти все карты из подборки [Mappers' Guild Pack VI](https://osu.ppy.sh/beatmaps/packs/2033). |
+| Project Loved: Winter 2021 | Пройти все карты из подборки Project Loved: Winter 2021 ([osu!](https://osu.ppy.sh/beatmaps/packs/L1), [osu!taiko](https://osu.ppy.sh/beatmaps/packs/L2), [osu!catch](https://osu.ppy.sh/beatmaps/packs/L3), [osu!mania](https://osu.ppy.sh/beatmaps/packs/L4)). |
+| Project Loved: Spring 2022 | Пройти все карты из подборки Project Loved: Spring 2022 ([osu!](https://osu.ppy.sh/beatmaps/packs/L5), [osu!taiko](https://osu.ppy.sh/beatmaps/packs/L6), [osu!catch](https://osu.ppy.sh/beatmaps/packs/L7), [osu!mania](https://osu.ppy.sh/beatmaps/packs/L8)). |
+| Project Loved: Summer 2022 | Пройти все карты из подборки Project Loved: Summer 2022 ([osu!](https://osu.ppy.sh/beatmaps/packs/L9), [osu!taiko](https://osu.ppy.sh/beatmaps/packs/L10), [osu!catch](https://osu.ppy.sh/beatmaps/packs/L11), [osu!mania](https://osu.ppy.sh/beatmaps/packs/L12)). |
+| Project Loved: Autumn 2022 | Пройти все карты из подборки Project Loved: Autumn 2022 ([osu!](https://osu.ppy.sh/beatmaps/packs/L13), [osu!taiko](https://osu.ppy.sh/beatmaps/packs/L14), [osu!catch](https://osu.ppy.sh/beatmaps/packs/L15), [osu!mania](https://osu.ppy.sh/beatmaps/packs/L16)). |
+| Project Loved: Winter 2022 | Пройти все карты из подборки Project Loved: Winter 2022 ([osu!](https://osu.ppy.sh/beatmaps/packs/L17), [osu!taiko](https://osu.ppy.sh/beatmaps/packs/L18), [osu!catch](https://osu.ppy.sh/beatmaps/packs/L19), [osu!mania](https://osu.ppy.sh/beatmaps/packs/L20)). |
+| Project Loved: Spring 2023 | Пройти все карты из подборки Project Loved: Spring 2023 ([osu!](https://osu.ppy.sh/beatmaps/packs/L21), [osu!taiko](https://osu.ppy.sh/beatmaps/packs/L22), [osu!catch](https://osu.ppy.sh/beatmaps/packs/L23), [osu!mania](https://osu.ppy.sh/beatmaps/packs/L24)). |
+| Project Loved: Summer 2023 | Пройти все карты из подборки Project Loved: Summer 2023 ([osu!](https://osu.ppy.sh/beatmaps/packs/L25), [osu!taiko](https://osu.ppy.sh/beatmaps/packs/L26), [osu!catch](https://osu.ppy.sh/beatmaps/packs/L27), [osu!mania](https://osu.ppy.sh/beatmaps/packs/L28)). |
+| Project Loved: Best of 2024 | Пройти все карты из подборки Project Loved: Best of 2024 ([osu!](https://osu.ppy.sh/beatmaps/packs/L32), [osu!taiko](https://osu.ppy.sh/beatmaps/packs/L31), [osu!catch](https://osu.ppy.sh/beatmaps/packs/L30), [osu!mania](https://osu.ppy.sh/beatmaps/packs/L29)). |
+| Project Loved: Best of 2025 | Пройти все карты из подборки Project Loved: Best of 2025 ([osu!](https://osu.ppy.sh/beatmaps/packs/L36), [osu!taiko](https://osu.ppy.sh/beatmaps/packs/L35), [osu!catch](https://osu.ppy.sh/beatmaps/packs/L34), [osu!mania](https://osu.ppy.sh/beatmaps/packs/L33)). |
