@@ -2,6 +2,8 @@
 stub: true
 tags:
   - DF
+outdated_translation: true
+outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 ---
 
 # Deflate（模组）
@@ -12,7 +14,7 @@ tags:
 
 #### Deflate
 
-![Deflate 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/DF.png)
+![Deflate 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/DF.png?1)
 
 *在大小正好的时候点击它们！*
 
