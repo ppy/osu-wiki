@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 2dd2e5256a1bec3d6a190d0cddd4d2d59aae5ddc
----
-
 # Projekte
 
 ::: alert-note
@@ -202,6 +197,7 @@ Diese Projekte sind alle noch funktionsfähig, werden jedoch nicht mehr aktiv ge
 
 | Logo | Name | Projektleiter | Beschreibung |
 | :-: | :-- | :-- | :-- |
+|  | [osu!arcade](/wiki/Community/Projects/osu!arcade) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Prototyp eines Arcade-Automaten, auf dem eine Touch-Version von osu! lief |
 |  | [osu!performance](https://github.com/ppy/osu-performance/) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Teil des Spiels, der für die Berechnung von [Performance-Punkten](/wiki/Performance_points) (pp) verantwortlich ist |
 | ![](img/logo_osu_stream.png) | [osu!stream](/wiki/osu!stream) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Spezialversion von osu! für tragbare iOS- und Android-Geräte |
 | ![](img/logo_osu_osx.png) | [osu! on OS X](https://osuosx.tumblr.com/) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Experimentelle Version von osu!, die nativ auf macOS läuft |
