@@ -12,7 +12,7 @@ tags:
 
 #### Mirror
 
-![Mirror 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/MR.png)
+![Mirror 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/MR.png?1)
 
 *![][osu!]: 物件绕所选轴翻转。*\
 *![][osu!catch]: 水果左右翻转。*\

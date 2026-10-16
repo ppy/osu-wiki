@@ -12,7 +12,7 @@ tags:
 
 #### Adaptive Speed
 
-![Adaptive Speed 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AS.png)
+![Adaptive Speed 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AS.png?1)
 
 *让曲速适应你。*
 

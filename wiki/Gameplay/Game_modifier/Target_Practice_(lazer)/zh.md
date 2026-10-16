@@ -13,7 +13,7 @@ tags:
 
 #### Target Practice
 
-![Target Practice 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/TP.png)
+![Target Practice 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/TP.png?1)
 
 *练习跟上歌曲的节拍。*
 
