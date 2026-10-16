@@ -1,3 +1,9 @@
+---
+stub: true
+tags:
+  - logo
+---
+
 # Cookie
 
 *Xem thêm: [Hướng dẫn nhận diện thương hiệu](/wiki/Brand_identity_guidelines)*

@@ -12,7 +12,7 @@ tags:
 
 #### Bubbles
 
-![Bubbles mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/BU.png)
+![Bubbles mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/BU.png?1)
 
 *Don't let their popping distract you!*
 

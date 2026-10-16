@@ -13,7 +13,7 @@ tags:
 
 #### Fade In
 
-![Fade In mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/FI.png)
+![Fade In mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/FI.png?1)
 
 *Keys appear out of nowhere!*
 
