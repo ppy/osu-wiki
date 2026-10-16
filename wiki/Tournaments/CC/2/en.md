@@ -177,7 +177,7 @@ This competition has come to an end and resulted in the following podium:
   2. [Halozy - Little Summer Party (Takos) [Lunatic]](https://osu.ppy.sh/beatmapsets/39537#osu/125957)
 - HardRock
   1. [senya - Kataomoi no Bigaku (Satellite) [N a s y a's Lunatic]](https://osu.ppy.sh/beatmapsets/363504#osu/798932)
-  2. [DJ S3RL feat. Tamika - Rainbow Girl ([Te][Amo]) [Insane]](https://osu.ppy.sh/beatmapsets/67105#osu/891250)
+  2. [DJ S3RL feat. Tamika - Rainbow Girl (\[Te\]\[Amo\]) [Insane]](https://osu.ppy.sh/beatmapsets/67105#osu/891250)
 - DoubleTime
   1. [07th Expansion - lixAxil (La Cataline) [Hard]](https://osu.ppy.sh/beatmapsets/37627#osu/120864)
   2. [EastNewSound - Oueisaien (hoLysoup) [Lunatic]](https://osu.ppy.sh/beatmapsets/46483#osu/158663)

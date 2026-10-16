@@ -14,7 +14,7 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 
 #### Grow
 
-![Icono del mod Grow](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/GR.png)
+![Icono del mod Grow](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/GR.png?1)
 
 *¡Pulsa los objetos en el tamaño adecuado!*
 
