@@ -11,8 +11,8 @@ needs_cleanup: true
 
 | [osu!](/wiki/Game_mode/osu!) | [osu!taiko](/wiki/Game_mode/osu!taiko) | [osu!catch](/wiki/Game_mode/osu!catch) | [osu!mania](/wiki/Game_mode/osu!mania) |
 | :-: | :-: | :-: | :-: |
-| [圆圈](/wiki/Gameplay/Hit_object/Hit_circle) | [咚和咔](/wiki/Gameplay/Hit_object/Hit) | [水果](/wiki/Gameplay/Hit_object/Fruit) | 单点音符 |
-| [滑条](/wiki/Gameplay/Hit_object/Slider) | [长条](/wiki/Gameplay/Hit_object/Drumroll) | [水果串](/wiki/Gameplay/Hit_object/Juice_stream) | 长按音符 |
+| [圆圈](/wiki/Gameplay/Hit_object/Hit_circle) | [咚和咔](/wiki/Gameplay/Hit_object/Hit) | [水果](/wiki/Gameplay/Hit_object/Fruit) | [单点音符](/wiki/Gameplay/Hit_object/Note) |
+| [滑条](/wiki/Gameplay/Hit_object/Slider) | [长条](/wiki/Gameplay/Hit_object/Drumroll) | [水果串](/wiki/Gameplay/Hit_object/Juice_stream) | [长按音符](/wiki/Gameplay/Hit_object/Hold_note) |
 | [转盘](/wiki/Gameplay/Hit_object/Spinner) | [转盘](/wiki/Gameplay/Hit_object/Swell) | [香蕉](/wiki/Gameplay/Hit_object/Banana) | x |
 | x | x | [红果](/wiki/Gameplay/Hit_object/Hyperfruit) | x |
 

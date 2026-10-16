@@ -1,15 +1,10 @@
----
-outdated_since: befb4e6b64f5c1f1616b60a93cb5883df9234324
-outdated_translation: true
----
-
 # Медали
 
 **Медали**, ранее известные как *достижения*, — значки в игровом профиле, показывающие, что игрок достиг определённой цели. В данный момент в osu! существует **352** медалей, разделенных на 8 групп: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights) и [Beatmap Challenge Packs](#beatmap-challenge-packs).
 
 ## Beatmap Packs
 
-Медали группы **Beatmap Packs** могут быть получены за **прохождение до конца хотя бы одной сложности на каждой карте** в подборках по [определённой тематике](https://osu.ppy.sh/beatmaps/packs?type=theme) или конкретному [исполнителю или альбому](https://osu.ppy.sh/beatmaps/packs?type=artist).
+Медали группы **Beatmap Packs** могут быть получены за **прохождение до конца хотя бы одной сложности на каждой карте** в подборках по [определённой тематике](https://osu.ppy.sh/beatmaps/packs?type=theme), в подборках [Project Loved](https://osu.ppy.sh/beatmaps/packs?type=loved), а также в подборках по конкретному [исполнителю или альбому](https://osu.ppy.sh/beatmaps/packs?type=artist).
 
 Для получения медалей все карты должны быть пройдены в режиме игры [osu!](/wiki/Game_mode/osu!), если не указано обратное. При этом разрешено использовать [упрощающие](/wiki/Gameplay/Game_modifier#понижение-сложности) или [усложняющие игру моды](/wiki/Gameplay/Game_modifier#повышение-сложности), а также мод [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out).
 
@@ -43,6 +38,8 @@ outdated_translation: true
 
 Поскольку медали группы **Hush-Hush** — своего рода секретные достижения, условия для их получения не указаны напрямую. Тем не менее, [совместное разгадывание этих условий](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals) только поощряется!
 
+У этой группы есть и подгруппа «Hush-Hush (Expert)». Отличается она тем, что её медали нельзя получить с [упрощающими](/wiki/Gameplay/Game_modifier#понижение-сложности) или [особыми модами](/wiki/Gameplay/Game_modifier#особые-моды).
+
 ## Beatmap Spotlights
 
 Медали группы **Beatmap Spotlights** выдаются за прохождение подборок карт, выпущенных в рамках проекта [Monthly Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights). Чтобы разблокировать медали этой категории, игроку нужно сыграть во все карты из *подборки для любого режима игры*, которые входят в соответствующий чарт Beatmap Spotlights. При этом можно пользоваться модами из списка ниже:
@@ -71,4 +68,5 @@ outdated_translation: true
 
 ## См. также
 
+- [Первые обладатели медалей](First_medal_unlocks)
 - [Условия получения медалей](Unlock_requirements)

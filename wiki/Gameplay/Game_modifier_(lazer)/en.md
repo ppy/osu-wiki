@@ -13,7 +13,7 @@ tags:
 # Game modifier (lazer)
 
 ::: alert-note
-**Note:** For the osu!stable version of this article, see [Game modifier](/wiki/Gameplay/Game_modifier)
+**Note:** For the osu!(stable) version of this article, see [Game modifier](/wiki/Gameplay/Game_modifier)
 :::
 
 ::: alert-note
@@ -22,7 +22,15 @@ tags:
 
 ![](img/mod-select.jpg "Mod selection screen for the osu! game mode")
 
-**Game modifiers**, or **mods**, are separated into six categories: `Difficulty Reduction`, `Difficulty Increase`, `Automation`, `Conversion`, `Fun` and `System`. Some of them can reduce or increase the score multiplier. When multiple mods are used simultaneously, their respective multipliers will be multiplied together (e.g. `1.06x * 1.12x = 1.1872x`). Mods from the `System` category are applied automatically when necessary.
+**Game modifiers**, or **mods**, are separated into six categories: `Difficulty Reduction`, `Difficulty Increase`, `Automation`, `Conversion`, `Fun` and `System`. They can have various effects on gameplay, such as visual adjustments to a [beatmap](/wiki/Beatmap)'s [hit objects](/wiki/Gameplay/Hit_object) or the speed at which the map is played. Mods from the `System` category are applied automatically when necessary.
+
+## Mod multiplier
+
+::: alert-note
+**Main page:** [Mod multiplier (lazer)](/wiki/Gameplay/Game_modifier/Mod_multiplier_(lazer))
+:::
+
+Some mods can reduce or increase the score multiplier. When multiple mods are used simultaneously, their respective multipliers will usually be multiplied together (e.g. `1.04x * 1.09x = 1.1336x`). There are some exceptions to this, which are pointed out in the articles of the affected mods.
 
 ## List of mods
 
@@ -108,7 +116,7 @@ Next to each of the mods listed below the icons of their compatible ![][osu!] ![
 
 ### Personal Presets
 
-The **Personal Presets** are located in a separate category (left of **Difficulty Reduction**) and allow players to save any combination of mods directly into it. Each personal preset has to be assigned a name and optionally a description. Every game mode has a separate list of personal presets.
+The **Personal Presets** are located in a separate category (left of `Difficulty Reduction`) and allow players to save any combination of mods directly into it. Each personal preset has to be assigned a name and optionally a description. Every game mode has a separate list of personal presets.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

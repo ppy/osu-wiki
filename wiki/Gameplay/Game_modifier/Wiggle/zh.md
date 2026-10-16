@@ -2,6 +2,8 @@
 stub: true
 tags:
   - WG
+outdated_translation: true
+outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 ---
 
 # Wiggle（模组）
@@ -12,7 +14,7 @@ tags:
 
 #### Wiggle
 
-![Wiggle 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/WG.png)
+![Wiggle 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/WG.png?1)
 
 *它们就是不能定住不动...*
 
@@ -23,7 +25,7 @@ tags:
 | 游戏模式 | ![][osu!] |
 | 得分系数 | `1.00x` |
 | 状态 | 不计入排名 |
-| 不兼容的模组 | [Transform (TR)](/wiki/Gameplay/Game_modifier/Transform), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised), [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
+| 不兼容的模组 | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Transform (TR)](/wiki/Gameplay/Game_modifier/Transform), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised), [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
 
 :::
 
