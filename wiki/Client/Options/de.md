@@ -330,11 +330,11 @@ Die Optionen hier beeinflussen nur das Arbeiten innerhalb des Editors oder den T
 
 | Name | Beschreibung | Typ | Standardwert |
 | :-- | :-- | :-- | :-- |
-| `Hintergrundvideo` | Spielt das Hintergrundvideo der Beatmap während dem Editieren ab. | Checkbox | `Aktiviert` |
-| `Standardskin verwenden` | Benutzt den Standardskin von osu! während dem Editieren, unabhängig von dem aktuell ausgewählten Skin. | Checkbox | `Deaktiviert` |
-| `Snaking Slider` | Aktiviert das Bewegen der Slider während dem Editieren. | Checkbox | `Aktiviert` |
-| `Hit Animationen` | Aktiviert Trefferanimationen während dem Editieren. | Checkbox | `Deaktiviert` |
-| `Follow Points` | Aktiviert Follow Points während dem Editieren. | Checkbox | `Aktiviert` |
+| `Hintergrundvideo` | Spielt das Hintergrundvideo der Beatmap während des Editierens ab. | Checkbox | `Aktiviert` |
+| `Standardskin verwenden` | Benutzt den Standardskin von osu! während des Editierens, unabhängig vom aktuell ausgewählten Skin. | Checkbox | `Deaktiviert` |
+| `Snaking Slider` | Aktiviert das Bewegen der Slider während des Editierens. | Checkbox | `Aktiviert` |
+| `Hit Animationen` | Aktiviert Trefferanimationen während des Editierens. | Checkbox | `Deaktiviert` |
+| `Follow Points` | Aktiviert Follow Points während des Editierens. | Checkbox | `Aktiviert` |
 | `Stapeln` | Stapelt die Hit-Circles wie im Spiel. | Checkbox | `Aktiviert` |
 
 Diese Optionen können durch das Menü `Ansicht` im Beatmap-Editor manuell überschrieben werden.
