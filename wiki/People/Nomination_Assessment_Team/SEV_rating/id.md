@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Nilai SEV
 
 SEV adalah sistem pengukuran internal yang digunakan oleh [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*) untuk menilai seberapa relevan suatu [penganuliran nominasi](/wiki/Beatmap_ranking_procedure#nomination-resets) terhadap hasil evaluasi dari [Beatmap Nominator](/wiki/People/Beatmap_Nominators) (*BN*) yang bersangkutan. Pengukuran ini terbagi ke dalam dua nilai, yang masing-masingnya ditampilkan sebagai *Obviousness* (kejelasan) dan *Severity* (keparahan). Kejelasan memiliki rentang nilai dari 0 ke 2 dan keparahan dari 0 ke 3, yang membuat sistem ini praktis untuk digunakan.
