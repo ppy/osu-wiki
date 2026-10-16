@@ -13,7 +13,7 @@ tags:
 
 #### Accuracy Challenge
 
-![Accuracy Challenge 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AC.png)
+![Accuracy Challenge 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AC.png?1)
 
 *准度过低即失败！*
 
