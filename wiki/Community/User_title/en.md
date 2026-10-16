@@ -20,15 +20,13 @@ A **user title** is a short label on a user's profile page set by the [osu! team
 
 The colour of a user title is the same as the user's colour, which is also usually set by group membership. If the user has no colour set, the title is white.
 
-## History
+## Post count titles
 
-### Post count titles
+![Screenshot of Ymir's post sidebar](img/rhythm-incarnate.png "The \"Rhythm Incarnate\" title sits above Ymir's team and country flags.")
 
-![Screenshot of Damnae's post sidebar on the old website](img/star-shooter.png "The \"Star Shooter\" title sits above Damnae's post count.")
+<!-- Image from https://osu.ppy.sh/community/forums/topics/145250?n=58271, previous user has a non-forum title -->
 
-<!-- the bottom post on https://web.archive.org/web/20131107133826/https://osu.ppy.sh/forum/t/141240 -->
-
-On the forum sections of the [old osu! website](https://old.ppy.sh)<!-- TODO: wiki page -->, users could obtain titles by reaching certain post count milestones as follows: <!-- https://osu.ppy.sh/community/forums/posts/2306316 -->
+On the [osu! forums](https://osu.ppy.sh/community/forums), users can obtain titles by reaching certain post count milestones as follows: 
 
 | Forum title | Total post count |
 | :-: | :-- |
@@ -43,7 +41,15 @@ On the forum sections of the [old osu! website](https://old.ppy.sh)<!-- TODO: wi
 | Combo Commander | 260–499 |
 | Rhythm Incarnate | 500+ |
 
-These titles were only visible on the sidebars of forum posts (not on the users' profiles) and were not shown if another custom title was already set prior.
+These titles are only visible on the sidebars of forum posts (not on the users' profiles) and are not shown if another custom title has already been set.
+
+### History
+
+![Screenshot of Damnae's post sidebar on the old website](img/star-shooter.png "The \"Star Shooter\" title sits above Damnae's post count.")
+
+<!-- the bottom post on https://web.archive.org/web/20131107133826/https://osu.ppy.sh/forum/t/141240 -->
+
+For a time, post count titles were only accessible on the [old osu! website](https://old.ppy.sh)<!-- TODO: wiki page -->, with the same requirements on milestones.<!-- https://osu.ppy.sh/community/forums/posts/2306316 --> They were removed as osu! transitioned to a new design layout. Post count titles were re-implemented in September 2026.
 
 ## Trivia
 

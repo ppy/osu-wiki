@@ -12,7 +12,7 @@ tags:
 
 #### Simplified Rhythm
 
-![Simplified Rhythm 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SR.png)
+![Simplified Rhythm 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SR.png?1)
 
 *简化棘手的节奏！*
 
