@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 4eca74b4fb7d8adfe715fb20eab415cf787c15fb
+---
+
 # Opciones
 
 ![Menú de opciones](img/options_basic-ES.jpg "Menú de opciones \(barra lateral a la izquierda\)")
