@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 31dfe4fc4d0e20084b9445fbeb2774b613be2e9e
 ---
 
 # Monthly Beatmapping Contest
