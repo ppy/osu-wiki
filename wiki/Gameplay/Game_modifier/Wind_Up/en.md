@@ -12,7 +12,7 @@ tags:
 
 #### Wind Up
 
-![Wind Up mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/WU.png)
+![Wind Up mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/WU.png?1)
 
 *Can you keep up?*
 
