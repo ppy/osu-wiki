@@ -12,7 +12,7 @@ tags:
 
 #### Moving Fast
 
-![Moving Fast mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/MF.png)
+![Moving Fast mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/MF.png?1)
 
 *Dashing by default, slow down!*
 
