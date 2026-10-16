@@ -236,7 +236,7 @@ Le bouton bleu est utilisé pour contrôler l'état de préparation du joueur et
 ### Historique des matchs
 
 ::: Infobox
-![](img/multi-mh-fr.jpg?1 "Une page sur l'historique des matchs sur le site web")
+![](/wiki/shared/multiplayer/stable/multi-mh-fr.jpg?1 "Une page sur l'historique des matchs sur le site web")
 :::
 
 La partie inférieure de l'écran est la [console de tchat](/wiki/Client/Interface/Chat_console). Chaque match a son propre canal dans un onglet appelé `#multiplayer`, avec [BanchoBot](/wiki/BanchoBot) fournissant un lien vers l'historique du match sur la première ligne.
@@ -408,7 +408,7 @@ L'écran des résultats de `Tag-team VS` est identique à [l'écran des résulta
 ### Histoire
 
 ::: Infobox
-![](img/legacy-multi-lobby.jpg "Capture d'écran du lobby principal lors de la sortie d'osu!mania (8 octobre 2012), mais pas encore jouable en multijoueur.")
+![](/wiki/shared/multiplayer/stable/legacy-multi-lobby.jpg "Capture d'écran du lobby principal lors de la sortie d'osu!mania (8 octobre 2012), mais pas encore jouable en multijoueur.")
 :::
 
 - La version multijoueur initiale a été implémentée le 3 juin 2008 dans l'osu! Public Release b335.

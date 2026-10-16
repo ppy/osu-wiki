@@ -87,7 +87,8 @@ In [osu!mania](/wiki/Game_mode/osu!mania) verringert die Mod Easy die allgemeine
 ## Trivia
 
 - Beim Anschauen eines Replays, in dem ein weiteres Leben zum Einsatz kommt, überspringt das Spiel die Nachfüllanimation der Lebensleiste und setzt das Replay fort, als wäre die Mod [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) aktiviert.
-- Im [Mehrspielermodus](/wiki/Client/Interface/Multiplayer) sind die zusätzlichen Leben in den Modi [Tag Co-op und Tag Team Vs.](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs) deaktiviert.
+- Im [Mehrspielermodus](/wiki/Gameplay/Multiplayer) sind die zusätzlichen Leben in den Modi [Tag Co-op und Tag Team Vs.](/wiki/Gameplay/Multiplayer#tag-co-op-/-tag-team-vs) deaktiviert.
+- Die Mod Easy hebt die Mod [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) auf und umgekehrt.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
