@@ -23,8 +23,8 @@ tags:
 | 缩写 | SG |
 | 类别 | 转换 |
 | 游戏模式 | ![][osu!] ![][osu!taiko] |
-| 得分系数 | `1.00x` |
-| 状态 | 计入排名 |
+| 得分倍率 | `1.00x` |
+| 状态 | 可计表现分 |
 | 不兼容的模组 ![][osu!] | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Relax (RX)](/wiki/Gameplay/Game_modifier/Relax_(lazer)), [Alternate (AL)](/wiki/Gameplay/Game_modifier/Alternate) |
 | 不兼容的模组 ![][osu!taiko] | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Relax (RX)](/wiki/Gameplay/Game_modifier/Relax_(lazer)) |
 
