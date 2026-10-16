@@ -134,7 +134,7 @@ Each [osu!mania](/wiki/Game_mode/osu!mania) [key mode](osu!mania#common-terms) a
   - Be snapped through a temporary change in [BPM](/wiki/Music_theory/Tempo).
 - **An object which is wrongly snapped due to passing through or ending slightly before a new [uninherited timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) must be snapped within the new timing section.**
   - For osu!, this does not apply to slider repeats and reverses, as they are passive objects.
-  - For osu!catch, slider repeats and reverses have to be snapped as they affect drop generation.
+  - For osu!catch, slider repeats and slider ends have to be snapped as they affect drop generation.
   - To fix unsnapped spinners and osu!mania long notes, this can be achieved through dragging the end of the object in the timeline. For sliders, this can be achieved through slider velocity manipulation or editing of the `.osu` file. 
 
 ## Audio
