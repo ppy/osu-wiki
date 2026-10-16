@@ -96,14 +96,6 @@ Once an NAT member chooses to depart from the team under amicable terms, they ma
 
 - **[osu! Alumni](/wiki/People/osu!_Alumni) user title**: This is granted to members who were part of the team for at least 1 year, or have made significant contributions within the team during a shorter period of time.
 - **osu!supporter**: Members will be awarded an osu!supporter tag that lasts double the amount of time they spent in the NAT, under the same conditions as osu! Alumni status.
-- **Internal access**: In special cases, members may be granted continued access to the internal NAT discussion channel depending on their past contributions and the likelihood of them having positive impact in future discussions. This privilege may be revoked if the member is inactive in discussions or is causing issues.
-
-Former NAT members who currently have internal access are:
-
-- ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083)
-- ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882)
-- ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
-- ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926)
 
 ## NAT Leadership
 
@@ -142,17 +134,18 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | Italian |
 | ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548) |  |
 | ::{ flag=FI }:: [Asphyxia](https://osu.ppy.sh/users/1715720) | Finnish |
-| ::{ flag=SE }:: [byd](https://osu.ppy.sh/users/6398464) | Swedish |
-| ::{ flag=TH }:: [Electoz](https://osu.ppy.sh/users/6485263) | Thai |
-| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Dutch |
-| ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | Finnish |
-| ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
-| ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Chinese |
-| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | French, Spanish |
-| ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516) | Chinese |
 | ::{ flag=RO }:: [bsm](https://osu.ppy.sh/users/12366071) | Romanian |
+| ::{ flag=SE }:: [byd](https://osu.ppy.sh/users/6398464) | Swedish |
+| ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334) |  |
+| ::{ flag=TH }:: [Electoz](https://osu.ppy.sh/users/6485263) | Thai |
+| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | German |
+| ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Chinese |
+| ::{ flag=TW }:: [Mameko](https://osu.ppy.sh/users/9834516) | Chinese |
+| ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812) | German |
+| ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Russian |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
-| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | German |
+| ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853) | Chinese |
+| ::{ flag=NL }:: [Syph](https://osu.ppy.sh/users/4858573) | Dutch |
 
 #### osu!taiko
 
@@ -169,7 +162,6 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | Name | Additional languages |
 | :-- | :-- |
 | ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136) | German |
-| ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | Korean |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | Korean |
 
 #### osu!mania
@@ -178,10 +170,11 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | :-- | :-- |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamese |
 | ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | Spanish |
+| ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699) |  |
 | ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Chinese |
-| ::{ flag=IT }:: [Harbyter](https://osu.ppy.sh/users/1147679) | Italian |
-| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesian |
+| ::{ flag=RU }:: [Kurisu Makise](https://osu.ppy.sh/users/2790640) | Russian |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Catalan, Spanish |
+| ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | Chinese |
 
 ### Structural
 
@@ -192,14 +185,17 @@ The following NAT members are exclusively responsible for structural tasks, and 
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Handling internal discussions, affairs, and documentation |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | BN Mentorship organisation |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | [Nomination Planner](https://bnplanner.greaper.net/beatmaps) and [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) development |
+| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | RC forum management |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [BN Management website](https://bn.mappersguild.com) development |
 
 The following NAT members are primarily evaluators, but also contribute to structural tasks:
 
 | User | Task |
 | :-- | :-- |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | NAT leadership, [BN Management website](https://bn.mappersguild.com) and [osu!taiko MV plugin](https://github.com/Hiviexd/MVTaikoChecks) development |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Handling content reports, [osu!mania MV plugin](https://github.com/MChecaH/ManiaCheck) development |
+| ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | Internal tooling development |
+| ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548) | RC forum management, [NATea Time](https://osu.ppy.sh/community/forums/topics/2178956) organisation |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | NAT leadership, [BN Management website](https://bn.mappersguild.com) and [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) development |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Handling content reports |
 
 ---
 

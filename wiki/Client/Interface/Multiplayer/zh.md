@@ -1,20 +1,19 @@
----
-needs_cleanup: true
-outdated_translation: true
-outdated_since: 700c767c79ccf1b57d76b0acda46dc032cf94ce9
----
-
-<!-- TODO: 仍需进一步重写：https://github.com/ppy/osu-wiki/issues/7165 -->
-
 # 多人游戏
 
-**多人游戏** （**Multiplayer**，有时简写为 *Multi*）是最多允许 16 位玩家进行个人对抗、团队对抗或合作游玩的游戏模式，游玩的谱面由房主决定。
+::: alert-note
+**另见:** [快速匹配](/wiki/Gameplay/Quick_play)与[每日挑战](/wiki/Gameplay/Daily_challenge)
+:::
+
+**多人游戏** （**Multiplayer**，有时简写为 *Multi*）是最多允许 16 位玩家进行个人对抗、团队对抗或合作游玩的 osu! 游戏模式，游玩的谱面由房主决定。
 
 [osu! 学院](/wiki/Community/Video_series/osu!academy)的[第 6 集 (YouTube)](https://www.youtube.com/watch?v=QPTLyG7O8ak) 视频中包括了这部分内容，除此之外还介绍了[在线用户面板](/wiki/Client/Interface/Chat_console#扩展聊天面板)的相关内容。
 
 ## 游玩方法
 
-*注意：需要 [osu! 账号](/wiki/Registration)来参加多人游戏，[被禁言](/wiki/Silence)的玩家无法参加。*
+::: alert-notice
+**注意**
+需要 [osu! 账号](/wiki/Registration)来参加多人游戏，[被禁言](/wiki/Silence)的玩家无法参加。
+:::
 
 在主菜单中，可以通过如下步骤进入多人游戏大厅：
 
@@ -23,7 +22,10 @@ outdated_since: 700c767c79ccf1b57d76b0acda46dc032cf94ce9
 
 ## 大厅
 
-*注意：当使用`测试版`版本时，需要活跃的[osu! 支持者](/wiki/osu!supporter)标签来进入多人游戏大厅。*
+::: alert-notice
+**注意**
+当使用`测试版（不定期更新）`版本时，需要活跃的 [osu! 支持者](/wiki/osu!supporter)标签来进入多人游戏大厅。
+:::
 
 ![](img/multi-lobby.jpg "多人游戏大厅日常一览")
 
@@ -47,9 +49,9 @@ outdated_since: 700c767c79ccf1b57d76b0acda46dc032cf94ce9
 
 屏幕中部列出了可用的比赛房间。
 
-大多数房间的背景是亮白色的，说明它们[正常使用游戏界面建立](#建立新房间)。也有紫色背景的房间，它们是通过[房间管理聊天命令](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)（如 `!mp make` 或 `!mp makeprivate`）建立的*锦标赛房间*。
+大多数房间的背景是白色的，说明它们[正常使用游戏界面建立](#建立新房间)。带紫色背景的房间则是通过[房间管理聊天命令](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)（如 `!mp make` 或 `!mp makeprivate`）建立的*锦标赛房间*。
 
-每个房间会显示多条信息。比如，房间右侧的玩家栏可以显示三种不同颜色：
+每个房间会显示多种信息。比如，房间右侧的玩家槽位可以显示三种不同颜色：
 
 | 颜色 | 描述 |
 | :-: | :-- |
@@ -113,7 +115,7 @@ outdated_since: 700c767c79ccf1b57d76b0acda46dc032cf94ce9
 
 光标悬停在表中玩家上时，会显示对应玩家的等级、国家或地区和[整体准确率](/wiki/Gameplay/Accuracy)。
 
-列表中的玩家栏可以有四种不同颜色，各有不同含义：
+取决于玩家状态，列表中的玩家栏会使用四种颜色之一进行高亮：
 
 | 颜色 | 描述 |
 | :-: | :-- |
@@ -159,13 +161,13 @@ outdated_since: 700c767c79ccf1b57d76b0acda46dc032cf94ce9
 | `AR` | 缩圈速度 |
 | `OD` | 判定严度 |
 | `HP` | 掉血速度 |
-| `Stars` | 星数评价 |
+| `Star Rating` | 星数评价 |
 
 如果玩家没有对应谱面，则会给出如下状态之一：
 
 | 谱面状态 | 描述 |
 | :-: | :-- |
-| `Ranked` / `Approved` / `Pending` / `Graveyard` | [谱面类别](/wiki/Beatmap/Category)。点击谱面卡片后会打开谱面信息页，可以在这里[下载](/wiki/Beatmap#下载谱面)它。 |
+| `Ranked` / `Approved` / `Pending` / `Graveyard` | [谱面类别](/wiki/Beatmap/Category)。点击谱面卡片后会打开谱面信息页，可以在这里[下载](/wiki/Beatmap#下载谱面)它。若玩家拥有活跃的 [osu! 支持者](/wiki/osu!supporter)标签，则会使用 [osu!direct](/wiki/osu!supporter#osu!direct) 下载谱面。 |
 | `Not uploaded or not up-to-date（未上传或非最新）` | 无法下载此谱面。如果问题无法解决，房主应该帮玩家找到（[谱面列表](https://osu.ppy.sh/beatmapsets)中的）链接。 |
 | `Cannot update the beatmap（无法更新谱面）` | 房主选择了已经修改的谱面。 |
 
@@ -181,7 +183,9 @@ outdated_since: 700c767c79ccf1b57d76b0acda46dc032cf94ce9
 
 #### 组队模式 {id=team-mode-match-setup}
 
-*对于关于组队模式的更多信息，参见[组队模式游玩小节](#team-mode-gameplay).*
+::: alert-note
+**注:** 对于组队模式对游玩过程的影响，参见[组队模式](#team-mode-gameplay)
+:::
 
 可以使用以下四种组队模式进行比赛：
 
@@ -209,13 +213,13 @@ outdated_since: 700c767c79ccf1b57d76b0acda46dc032cf94ce9
 | `Score（分数）` | 分数最高的玩家获胜。 |
 | `Accuracy（准确率）` | 准确率最高的玩家获胜。如果准确率为 100.00% 的玩家不止一位，则（转盘获得）分数最高的玩家获胜，否则算作平局。 |
 | `Combo（连击数）` | *在谱面结束时*连击数最高的玩家获胜。如果连击数相同，则分数最高的玩家获胜。此条件下不考虑最高连击数。 |
-| `Score v2` | （标准化）分数最高的玩家获胜。 |
+| `Score v2` | [标准化](/wiki/Gameplay/Score#scorev2)分数最高的玩家获胜。 |
 
 ### 比赛设置按钮
 
 [聊天面板](/wiki/Client/Interface/Chat_console)上方有两个大按钮，分别是橙色和蓝色的。
 
-左边的橙色 `离开房间` 按钮的作用显而易见。当房主离开房间时，房主资格会按槽位自动转移给剩余玩家。房间里没有玩家时会自动关闭，但由 [`!mp` 命令](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)建立的房间除外，这类房间会在 30 分钟后关闭。
+左边的橙色 `离开房间` 按钮的作用显而易见。当房主离开房间时，房主资格会按槽位自动转移给剩余玩家。房间里没有剩余玩家时会自动关闭，但由 [`!mp` 命令](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)建立的房间除外，这类房间会在 30 分钟后关闭。
 
 蓝色按钮用于控制玩家的准备状态，以及开始比赛。
 
@@ -250,7 +254,7 @@ outdated_since: 700c767c79ccf1b57d76b0acda46dc032cf94ce9
 
 #### 血量
 
-当玩家的血条掉光时，玩家仍然可以继续游玩，但会被视作失败，其分数不会出现在排行榜上。在没有使用 [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death) 游戏模组的情况下，玩家在血条回满时就会复活。
+当玩家的血条掉光时，玩家仍然可以继续游玩，但会被视作失败，其分数不会出现在排行榜上（使用 [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail) 时除外）。在没有使用 [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death) 游戏模组的情况下，玩家在血条回满时就会复活。
 
 在 Team VS 模式中，比赛结束时处于失败状态的玩家，其分数不会计入所在队伍总分。如果队伍中的所有玩家都失败了，比赛就会立刻结束，默认另一队获胜。
 
@@ -321,8 +325,6 @@ Head-to-head 模式是多人游戏的默认组队模式，游玩过程没有特�
 
 此次游玩的[等级](/wiki/Gameplay/Grade)会以水印的形式显示在结果下层。点击排行榜上其他玩家的区域可以查看其结果。
 
-每位玩家都会在[聊天](/wiki/Client/Interface/Chat_console)的 `#userlog` 标签页中收到比赛结果的私信。
-
 #### Team VS
 
 ##### 界面
@@ -333,7 +335,7 @@ Head-to-head 模式是多人游戏的默认组队模式，游玩过程没有特�
 
 在 Team VS 模式中，蓝队、红队两支队伍对立竞争。
 
-蓝队玩家列表位于屏幕左侧，红队位于右侧。屏幕中央有一个左右移动的皇冠，显示目前获胜的队伍。
+蓝队玩家列表位于屏幕左侧，红队位于右侧。屏幕中央有一个左右移动的皇冠，显示目前领先的队伍。
 
 在比赛房间内可以改变队伍。成员较少的队伍游玩时绝没有障碍，只组一支队伍开始比赛也是完全有可能的。
 
@@ -353,7 +355,10 @@ Head-to-head 模式是多人游戏的默认组队模式，游玩过程没有特�
 
 ##### 界面
 
-*注意：这个组队模式不计入排名，且仅在 osu! 模式中可用。*
+::: alert-notice
+**注意**
+这个组队模式不计入排名，且仅在 osu! 模式中可用。
+:::
 
 ::: Infobox
 ![](img/multi-coop-interface.jpg "Tag co-op 模式界面")
@@ -369,13 +374,13 @@ Head-to-head 模式是多人游戏的默认组队模式，游玩过程没有特�
 
 绿色箭头会指示目前正在游玩的玩家，屏幕右下角会显示其名字。警告箭头会指出玩家负责的连击组将至的时机，此时连击组中的打击物件会有颜色。玩家可以在比赛配置页的 [Tag 颜色](#tag-颜色)区设置固定的连击组颜色。
 
-所有玩家都要旋转转盘，否则会导致断连。
+所有玩家都要完成转盘，否则会导致断连。
 
 在比赛期间，如果玩家退出，游戏会自动完成他们负责的部分。
 
 所有玩家共用血条，血条完全清空时比赛结束。在 Tag-team VS 模式中，两支队伍有各自的血条，血量降到零时队伍则会失败。
 
-如果使用 [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death) 游戏模组的玩家失败，整场比赛就会结束，即便在 Tag-team VS 模式中也是如此。如果使用 [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy) 模组，玩家仍会拥有两条额外生命。在 Tag-team VS 模式中，当队伍的血条降到零时，[血条](/wiki/Client/Interface/Health_bar)会被重新填满，但比赛仍会将该队伍判定为*失败*并立刻结束。
+如果使用 [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death) 游戏模组的玩家失败，整场比赛就会结束，即便在 Tag-team VS 模式中也是如此。[Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy) 模组中的额外生命也不会生效：[血条](/wiki/Client/Interface/Health_bar)会被重新填满，但该队伍仍会被判定为*失败*，使比赛立刻结束。
 
 ##### 结果
 

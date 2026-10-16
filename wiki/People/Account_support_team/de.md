@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 564f595d55c5e5665b1281d9caeb729fcad5c853
----
-
 # Account-Support-Team
 
 ::: alert-note
@@ -36,7 +31,7 @@ Du solltest das Team zu Account-bezogenen Themen kontaktieren, über die du kein
   - Entfernung von Profilinhalten;
   - Entfernung von Beatmaps;
   - Entfernung von Forumsbeiträgen und Kommentaren.
-- Fälle von Fehlverhalten, die du [gestehen möchtest](/wiki/Reporting_bad_behaviour/Handling_foul_play#was-kann-ich-tun,-wenn-ich-die-regeln-gebrochen-habe?).
+- Fälle von Fehlverhalten, die du [gestehen möchtest](/wiki/Reporting_bad_behaviour/Handling_foul_play#admit).
 - [Verlust des Zugriffs auf die E-Mail](/wiki/Help_centre/Account#sign-in), die mit deinem osu!-Account verbunden ist, oder wenn dein Account gestohlen wurde.
 - [Rücksetzungen des Benutzernamens und Rechtschreibfehlerkorrekturen](/wiki/Help_centre/Account#name-changes).
 - [Registrierungen von Bot-Accounts](/wiki/Bot_account).

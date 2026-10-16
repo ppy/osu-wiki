@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 6a2ddbe3a17833bb7cf5c2b85e34bfa2aa4fcb38
+---
+
 # Критерии ранкинга
 
 Эта статья содержит правила и рекомендации, которым [карты](/wiki/Beatmap) должны следовать, чтобы пройти [процедуру ранкинга](/wiki/Beatmap_ranking_procedure).

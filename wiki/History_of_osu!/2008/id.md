@@ -1,4 +1,4 @@
-# 2008
+# Sejarah osu! 2008
 
 ![](img/2008.jpg)
 

@@ -9,7 +9,7 @@ Estas comunidades son gestionadas por la comunidad de osu!, cada una con su prop
 | Avatar | Nombre | Descripción |
 | :-: | :-: | :-- |
 | ![Avatar de osugame](img/osugame.png) | [/r/osugame](https://reddit.com/r/osugame) | **/r/osugame** es actualmente el mayor foro multimodo abierto para discusiones generales y exhibiciones de puntuaciones. |
-|  | [/r/osumania](https://reddit.com/r/osumania) | **/r/osumania** ofrece un espacio seguro destinado específicamente al modo de juego [osu!mania](/wiki/Game_mode/osu!mania). |
+| ![Avatar de osumania](img/osumania.png) | [/r/osumania](https://reddit.com/r/osumania) | **/r/osumania** ofrece un espacio seguro destinado específicamente al modo de juego [osu!mania](/wiki/Game_mode/osu!mania). |
 |  | [/r/osumapping](https://reddit.com/r/osumapping) | **/r/osumapping** funciona como una plataforma dedicada a la creación de mapas. |
 | ![Avatar de osuskins](img/osuskins.png) | [/r/osuskins](https://reddit.com/r/osuskins) | **/r/osuskins** permite a los usuarios solicitar ayuda general sobre la creación de skins, intercambiar opiniones de diseño, así como solicitar ayuda para encontrar skins específicas. |
 

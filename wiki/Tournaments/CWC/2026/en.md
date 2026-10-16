@@ -27,7 +27,7 @@ The **osu!catch World Cup 2026** (***CWC 2026***) was a country-based osu!catch 
 
 ## Prizes
 
-The osu!catch World Cup 2026 offered a $2,000 cash prize pool and limited-edition merch.
+The osu!catch World Cup 2026 offered a $2,000 cash prize pool and limited-edition merch. The prize pool was further increased to $2,450 from community donations.
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -36,6 +36,10 @@ The osu!catch World Cup 2026 offered a $2,000 cash prize pool and limited-editio
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
 ![](img/cwc2026-badge-1st.png "CWC 2026 winner badge") ![](img/cwc2026-badge-2nd.png "CWC 2026 2nd-place badge") ![](img/cwc2026-badge-3rd.png "CWC 2026 3rd-place badge")
+
+## Podium
+
+![](img/cwc2026-podium.jpg "CWC 2026 podium")
 
 ## Organisation
 
@@ -116,10 +120,6 @@ The osu!catch World Cup 2026 was run by various community members.
 Captains are listed in **bold**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e99153d582c530823a55fa1beef737ec).
-
-## Podium
-
-![](img/cwc2026-podium.jpg "CWC 2026 podium")
 
 ## Match results
 

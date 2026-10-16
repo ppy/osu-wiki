@@ -1,12 +1,10 @@
 ---
 legal: true
-outdated_translation: true
-outdated_since: b1776120326b6dbcb16e18460dafcbcef1c68706
 ---
 
 # Datenschutzerklärung von osu!
 
-Zuletzt aktualisiert am 3. September 2024. [Sehen Sie den Verlauf der englischen Version hier](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md).
+Zuletzt aktualisiert am 24. April 2026. [Sehen Sie den Verlauf der englischen Version hier.](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
 
 Zusätzlich zu dieser Richtlinie sollten Sie auch unsere [Nutzungsbedingungen](/wiki/Legal/Terms) lesen und verstehen.
 
@@ -16,7 +14,7 @@ osu! wird von einer australischen Identität (ppy Pty Ltd) geleitet, wobei sich 
 
 osu! bietet Nutzern ein breites Spektrum an Dienstleistungen aus nahezu allen Ländern der Welt an, mit einer lebendigen Community und vielen Möglichkeiten für Nutzer, ihre Kreativität mit anderen über Nutzerprofile, Beatmaps (Spiellevel), Foren, privaten Nachrichten, dem Chat im Spiel sowie Replay-Kommentaren zu teilen.
 
-Um Ihnen diese Dienstleistungen zur Verfügung stellen zu können, müssen wir oft personenbezogene Daten sammeln, speichern und übermitteln. Wir geben uns Mühe, im Betrieb von osu! so transparent wie möglich zu sein und diese Datenschutzerklärung sollte uns näher an dieses Ziel bringen.
+Um Ihnen diese Dienstleistungen zur Verfügung stellen zu können, müssen wir oft personenbezogene Daten sammeln, speichern und übermitteln. Wir geben uns Mühe, im Betrieb von osu! so transparent wie möglich zu sein. Diese Datenschutzerklärung wurde mit der Absicht erstellt, dieses Ziel einzuhalten.
 
 In diesem Dokument wird beschrieben, welche Informationen wir in unserem Netzwerk und bei der Benutzung unserer Produkte sowie Dienstleistungen sammeln, wie wir diese Informationen verwenden und welche Optionen wir Ihnen anbieten, um Ihre personenbezogenen Daten zu steuern.
 
@@ -42,7 +40,7 @@ Bei der Anpassung Ihres Benutzerprofils (das öffentlich für alle Nutzer einseh
 - Ihren aktuellen Standort
 - Ihre Interessen
 - Ihren Beruf
-- Ihre Präsenz in den sozialen Medien (Twitter, Discord, Skype, Webseite)
+- Ihre Präsenz in den sozialen Medien (Twitter, Discord, Webseite)
 - Ihren Avatar und Ihre Profilbilder
 - Ihre Unterschrift
 
@@ -86,19 +84,19 @@ Diese gesammelten Daten werden aggregiert und nur aufbewahrt, wenn sie nützlich
 
 Wir betreiben weder Marketing oder Werbung, noch senden wir irgendwelche unerwünschten E-Mails. Die einzigen E-Mails, die Sie von uns bekommen, sind das Ergebnis aus einer Handlung auf unseren Diensten (beispielsweise die Beantragung der Zwei-Faktor-Authentifizierung, der Kauf eines Produkts oder das Aktivieren von Benachrichtigungen für eine Diskussion).
 
-Wir teilen Ihre personenbezogenen Daten mit Drittanbietern in sehr speziellen Fällen:
+Wir teilen Ihre personenbezogenen Daten nicht mit Drittanbietern. Alle Analysedaten werden intern gespeichert. Begrenzte Diagnoseinformationen werden möglicherweise vertrauenswürdigen Entwicklern des Teams zur Verfügung gestellt, um Probleme im Spiel oder auf der Webseite zu analysieren und zu beheben.
 
-- wenn Sie Informationen ausdrücklich öffentlich gemacht haben
-- um Ihre Bestellungen abwickeln zu können
-- um Zahlungen über Zahlungsdienstleister wie z. B. PayPal und Xsolla zu verarbeiten
-- um Ihre Tickets für den Kundenservice zu verarbeiten (wir verwenden [Enchant](https://enchant.com))
-- um unseren Dienst durch Fehleraufzeichnung zu verbessern (wir benutzen [Sentry](https://sentry.io))
+Bitte beachten Sie, dass beim Ausführen gewisser Aktionen möglicherweise Dienstleistungen von Drittanbietern genutzt werden:
+
+- Das Einreichen eines Support-Tickets per E-Mail wird über Enchant verwaltet.
+- Die Bestellung von physischem Merchandise wird über Shopify oder andere Merchandise-Partner verwaltet.
+- Supporter-Tags und andere nicht-physische Käufe werden von Xsolla oder PayPal abgewickelt. Wir speichern keine Zahlungsinformationen oder Informationen zur Auftragsabwicklung.
 
 ## Ihre Rechte und Kontrolle
 
 Als Nutzer haben Sie das Recht, Ihre personenbezogenen Daten zu migrieren, zu aktualisieren oder zu löschen. Das kann hauptsächlich über die [Einstellungen](https://osu.ppy.sh/home/account/edit) oder durch eine angepasste Funktion "Bearbeiten" in den relevanten Abschnitten unserer Seite gemacht werden. Wenn Sie Ihre vollständigen Kontodaten programmatisch abrufen möchten, verwenden Sie bitte unser [öffentliches API](https://github.com/ppy/osu-api/wiki).
 
-In vielen Fällen können Nutzerbeiträge wie zum Beispiel Forumsbeiträge und Beatmaps auf individueller Basis gelöscht werden. Sie finden die Schaltflächen zum Löschen direkt bei den Elementen, die gelöscht werden können.
+In vielen Fällen können Nutzerbeiträge — wie zum Beispiel Forumsbeiträge und Beatmaps — auf individueller Basis gelöscht werden. Sie finden die Schaltflächen zum Löschen direkt bei den Elementen, die gelöscht werden können.
 
 Sie haben die Möglichkeit, Ihr Konto von unserem Dienst zu löschen. Bitte beachten Sie, dass dies aktuell ein manueller Prozess ist und mehrere Tage in Anspruch nehmen kann ([kontaktieren Sie uns](mailto:privacy@ppy.sh), um einen Antrag zu stellen). Im Falle einer Kontolöschung können Teile Ihrer öffentlichen Beiträge erhalten bleiben, wie unter "Informationen, die wir sammeln" beschrieben.
 

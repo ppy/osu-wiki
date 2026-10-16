@@ -28,6 +28,7 @@ Torneos oficiales organizados por el osu! team.
 | [osu! World Cup 2023](OWC/2023) | 21/10/2023 | 3/12/2023 | ::{ flag=US }:: Estados Unidos | ::{ flag=KR }:: Corea del Sur | ::{ flag=AU }:: Australia |
 | [osu! World Cup 2024](OWC/2024) | 26/10/2024 | 8/12/2024 | ::{ flag=KR }:: Corea del Sur | ::{ flag=US }:: Estados Unidos | ::{ flag=AU }:: Australia |
 | [osu! World Cup 2025](OWC/2025) | 25/10/2025 | 14/12/2025 | ::{ flag=PL }:: Polonia | ::{ flag=US }:: Estados Unidos | ::{ flag=AU }:: Australia |
+| [osu! World Cup 2026](OWC/2026) | 25/10/2026 | 13/12/2026 | *Por decidirse* | *Por decidirse* | *Por decidirse* |
 
 ### ![](/wiki/shared/mode/taiko.png) [osu!taiko World Cup](TWC)
 
@@ -96,7 +97,7 @@ Torneos oficiales organizados por el osu! team.
 | [osu!mania 7K World Cup 2025](MWC/2025_7K) | 12/12/2024 | 23/2/2025 | ::{ flag=KR }:: Corea del Sur | ::{ flag=CN }:: China | ::{ flag=PH }:: Filipinas |
 | [osu!mania 4K World Cup 2025](MWC/2025_4K) | 17/7/2025 | 29/9/2025 | ::{ flag=US }:: Estados Unidos | ::{ flag=KR }:: Corea del Sur | ::{ flag=CN }:: China |
 | [osu!mania 7K World Cup 2026](MWC/2026_7K) | 11/12/2025 | 22/2/2026 | ::{ flag=KR }:: Corea del Sur | ::{ flag=PH }:: Filipinas | ::{ flag=JP }:: Japón |
-| [osu!mania 4K World Cup 2026](MWC/2026_4K) | 16/7/2026 | 27/9/2026 | *TBD* | *TBD* | *TBD* |
+| [osu!mania 4K World Cup 2026](MWC/2026_4K) | 16/7/2026 | 27/9/2026 | ::{ flag=KR }:: Corea del Sur | ::{ flag=US }:: Estados Unidos | ::{ flag=CN }:: China |
 
 ## Comunidad
 
@@ -126,6 +127,7 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | 3 Digit World Cup 2023 | 17/2/2023 | 30/4/2023 | ::{ flag=KR }:: Corea del Sur | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: Estados Unidos |
 | 3 Digit World Cup 2024 | 25/12/2023 | 10/3/2024 | ::{ flag=KR }:: Corea del Sur | ::{ flag=US }:: Estados Unidos | ::{ flag=BR }:: Brasil |
 | [3 Digit World Cup 2025](3WC/2025) | 28/12/2024 | 16/3/2024 | ::{ flag=KR }:: Corea del Sur | ::{ flag=US }:: Estados Unidos | ::{ flag=DE }:: Alemania |
+| [3 Digit World Cup 2026](3WC/2026) | 11/1/2026 | 29/3/2026 | ::{ flag=US }:: Estados Unidos | ::{ flag=HK }:: Hong Kong | ::{ flag=KR }:: Corea del Sur |
 
 #### [4 Digit World Cup](4WC)
 
@@ -288,6 +290,21 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | Mirai. osu! Winter Festival 2017/2018 | 5/10/2017 | 24/2/2018 | :thonking: | Decay II | FX\_POWER |
 | Mirai. Idol Tournament 2019 | 1/4/2019 | 21/5/2019 | Drift% | MAC901 | Traitorpulse |
 | [Mirai. Tournament 2020](Mirai/2020) | 6/4/2020 | 23/6/2020 | Norank MaMa <3 U | Uprankers | Salted\_Fish |
+
+#### [National Dutch Championship](NDC)
+
+| Nombre | Inicio | Final | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Dutch osu! Cup 2017 | 11/3/2017 | 7/5/2017 | [Lazer](https://osu.ppy.sh/users/1799925) | [Yura Rin](https://osu.ppy.sh/users/2574658) | [Pittigbaasje](https://osu.ppy.sh/users/2167433) |
+| Dutch osu! Cup 2018 | 10/3/2018 | 13/5/2018 | [jackylam5](https://osu.ppy.sh/users/1540807) | [Viveliam](https://osu.ppy.sh/users/3506793) | [Damnjelly](https://osu.ppy.sh/users/1666355) |
+| Dutch osu! Cup 2019 | 20/2/2019 | 5/5/2019 | [Lilily](https://osu.ppy.sh/users/6502403) | [Skyrovania](https://osu.ppy.sh/users/4696315) | [Yura Rin](https://osu.ppy.sh/users/2574658) |
+| Dutch osu! Cup 2020 | 12/4/2020 | 3/5/2020 | [Viveliam](https://osu.ppy.sh/users/3506793) | [Skyrovania](https://osu.ppy.sh/users/4696315) | [sunui](https://osu.ppy.sh/users/3065571) |
+| Dutch osu! Cup 2021 | 1/3/2021 | 9/5/2021 | [Skyrovania](https://osu.ppy.sh/users/4696315) | [Viveliam](https://osu.ppy.sh/users/3506793) | [Kushper](https://osu.ppy.sh/users/4832514) |
+| [National Dutch Championship 2022](NDC/2022) | 13/12/2021 | 27/2/2022 | [Viveliam](https://osu.ppy.sh/users/3506793) | [Lilily](https://osu.ppy.sh/users/6502403) | [Skyrovania](https://osu.ppy.sh/users/4696315) |
+| [National Dutch Championship 2023](NDC/2023) | 8/1/2023 | 12/3/2023 | [Lilily](https://osu.ppy.sh/users/6502403) | [Burning John](https://osu.ppy.sh/users/6744123) | [luciano](https://osu.ppy.sh/users/11604978) |
+| [National Dutch Championship 2024](NDC/2024) | 5/8/2024 | 13/10/2024 | [Aheo](https://osu.ppy.sh/users/14919428) | [Burning John](https://osu.ppy.sh/users/6744123) | [luciano](https://osu.ppy.sh/users/11604978) |
+| [National Dutch Championship 2025](NDC/2025) | 9/8/2025 | 12/10/2025 | [Aheo](https://osu.ppy.sh/users/14919428) | [Tutel](https://osu.ppy.sh/users/12241010) | [John ethken](https://osu.ppy.sh/users/641155) |
+| [National Dutch Championship 2026](NDC/2026) | 8/8/2026 | 12/10/2026 | *Por decidirse* | *Por decidirse* | *Por decidirse* |
 
 #### [nik's Tournaments](NT)
 
@@ -479,7 +496,8 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 
 | Nombre | Inicio | Final | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [SEA Summer Suiji Showdown 3](SSSS/3) | 5/6/2023 | 31/7/2023 | Schale | Tingyun Motor | maimai |
+| [SEA Summer Suiji Showdown 3](SSSS/3) | 5/6/2023 | 31/7/2023 | **Schale** (::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635), ::{ flag=MY }:: [Agagak](https://osu.ppy.sh/users/3645490), ::{ flag=VN }:: [Chipperonio](https://osu.ppy.sh/users/13141032), ::{ flag=PH }:: [Yukixo](https://osu.ppy.sh/users/17847877), ::{ flag=VN }:: [MisonoMika](https://osu.ppy.sh/users/16583941), ::{ flag=SG }:: [hollowknees](https://osu.ppy.sh/users/15195364)) | **Tingyun Motor** (::{ flag=ID }:: [ThatNOOBGuy](https://osu.ppy.sh/users/11091594), ::{ flag=MY }:: [Tzero](https://osu.ppy.sh/users/6088976), ::{ flag=MY }:: [milo Penguin](https://osu.ppy.sh/users/10702232), ::{ flag=ID }:: [Mashima Himeko](https://osu.ppy.sh/users/10474988), ::{ flag=SG }:: [CopyPasted](https://osu.ppy.sh/users/9341983), ::{ flag=SG }:: [JokThree](https://osu.ppy.sh/users/7713152)) | **maimai** (::{ flag=SG }:: [Eagle5324](https://osu.ppy.sh/users/11987104), ::{ flag=ID }:: [DeathHydra](https://osu.ppy.sh/users/7457788), ::{ flag=SG }:: [moroha29](https://osu.ppy.sh/users/9182389), ::{ flag=SG }:: [Quickeryes](https://osu.ppy.sh/users/18227681), ::{ flag=SG }:: [uniqly](https://osu.ppy.sh/users/8876527), ::{ flag=VN }:: [smthelse](https://osu.ppy.sh/users/13238121)) |
+| [SEA Summer Suiji Showdown 4](SSSS/4) | 15/6/2026 | 9/8/2026 | **Paper Rex** (::{ flag=ID }:: [tsunagite](https://osu.ppy.sh/users/10069909), ::{ flag=VN }:: [Another Guy](https://osu.ppy.sh/users/4540667), ::{ flag=MY }:: [MadDdDio](https://osu.ppy.sh/users/15086959), ::{ flag=PH }:: [Yukixo](https://osu.ppy.sh/users/17847877), ::{ flag=PH }:: [GuardiaN](https://osu.ppy.sh/users/11001039), ::{ flag=SG }:: [Moltenfury](https://osu.ppy.sh/users/3395820)) | **Matagi Snipers** (::{ flag=TH }:: [-Kedama](https://osu.ppy.sh/users/12147277), ::{ flag=PH }:: [Impowster](https://osu.ppy.sh/users/13484596), ::{ flag=VN }:: [25 FPS](https://osu.ppy.sh/users/31659938), ::{ flag=SG }:: [moosepi](https://osu.ppy.sh/users/1868745), ::{ flag=PH }:: [Xyphox](https://osu.ppy.sh/users/8315885), ::{ flag=PH }:: [xidorn](https://osu.ppy.sh/users/7904667)) | **Leviatán** (::{ flag=TH }:: [fuzzyu](https://osu.ppy.sh/users/21958501), ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594), ::{ flag=MY }:: [Chibi Maruko](https://osu.ppy.sh/users/5585377), ::{ flag=PH }:: [- Ciel -](https://osu.ppy.sh/users/10166961), ::{ flag=PH }:: [JayAreEee](https://osu.ppy.sh/users/10852557), ::{ flag=VN }:: [aiyern](https://osu.ppy.sh/users/13826244)) |
 
 #### [Spanish Showdown](SS)
 
@@ -868,11 +886,14 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | [GB Cup 2023 Autumn (Discord div.)](GBC/GBC_2023_Autumn) | 14/10/2023 | 17/12/2023 | D9: 麦当劳护肤 | D2: viets sing | D12: Sunaookami Shiroko |
 | [GB Cup 2024 Spring (QQ div.)](GBC/GBC_2024_Spring) | 23/3/2024 | 9/6/2024 | ::{ flag=CN }:: [nyasunfanboy](https://osu.ppy.sh/users/14066511) | ::{ flag=CN }:: [\[GB\]ParasolTree](https://osu.ppy.sh/users/27552902) | ::{ flag=CN }:: [\[Crz\]ChenXi](https://osu.ppy.sh/users/23890527) |
 | [GB Cup 2024 Spring (Discord div.)](GBC/GBC_2024_Spring) | 23/3/2024 | 9/6/2024 | ::{ flag=CZ }:: [grillroasted](https://osu.ppy.sh/users/18271627) | ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267) | ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805) |
-| [GB Cup 2024 IRL](GBC/GBC_2024_IRL) | 13/7/2023 | 28/7/2023 | ::{ flag=CN }:: [DawnX](https://osu.ppy.sh/users/8534840) | ::{ flag=CN }:: [\[GB\]GanyuAngel](https://osu.ppy.sh/users/27233308) | ::{ flag=CN }:: [Mantozi](https://osu.ppy.sh/users/10764424) |
+| [GB Cup 2024 IRL](GBC/GBC_2024_IRL) | 13/7/2024 | 28/7/2024 | ::{ flag=CN }:: [DawnX](https://osu.ppy.sh/users/8534840) | ::{ flag=CN }:: [\[GB\]GanyuAngel](https://osu.ppy.sh/users/27233308) | ::{ flag=CN }:: [Mantozi](https://osu.ppy.sh/users/10764424) |
 | [GB Cup 2024 Autumn (QQ div.)](GBC/GBC_2024_Autumn) | 26/10/2024 | 5/1/2025 | Q17: 雾雨魔法小萝莉 | Q5: 我已进入天空之城 | Q3: 漏勺挖洞, Q24: Make PLANA Great Againn |
 | [GB Cup 2024 Autumn (Discord div.)](GBC/GBC_2024_Autumn) | 26/10/2024 | 5/1/2025 | D16: okay² | D12: Photon Worshippers | D13: bol |
 | [GB Cup 2025 Spring (QQ div.)](GBC/GBC_2025_Spring) | 22/3/2025 | 8/6/2025 | ::{ flag=CN }:: [\[GB\]ParasolTree](https://osu.ppy.sh/users/27552902) | ::{ flag=CN }:: [FoaMelt1](https://osu.ppy.sh/users/36570108) | ::{ flag=CN }:: [WOEM2436](https://osu.ppy.sh/users/36120676) |
 | [GB Cup 2025 Spring (Discord div.)](GBC/GBC_2025_Spring) | 22/3/2025 | 14/6/2025 | ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733) | ::{ flag=CN }:: [DawnX](https://osu.ppy.sh/users/8534840) | ::{ flag=US }:: [PeachMarrow](https://osu.ppy.sh/users/15926730) |
+| [GB Cup 2025 Autumn (QQ div.)](GBC/GBC_2025_Autumn) | 4/11/2025 | 10/1/2026 | Q20: 不整活 | Q4: 玩不玩 | Q23: 队员已红温之anpig1013, Q22: My Angel Noodle |
+| [GB Cup 2025 Autumn (Discord div.)](GBC/GBC_2025_Autumn) | 4/11/2025 | 10/1/2026 | D8: super magical chest | D6: Siemieniakowszczyzna | D20, D13 |
+| [GB Cup 2026 IRL](GBC/GBC_2026_IRL) | 7/7/2026 | 26/7/2026 | ::{ flag=CN }:: [DawnX](https://osu.ppy.sh/users/8534840) | ::{ flag=CN }:: [shadiaojunshi](https://osu.ppy.sh/users/29165753) | ::{ flag=CN }:: [Vain_](https://osu.ppy.sh/users/38363768), ::{ flag=CN }:: [HowToPlaySV](https://osu.ppy.sh/users/32494511) |
 
 #### [Jaye's One Key Event](JOKE)
 
