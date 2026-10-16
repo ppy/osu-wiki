@@ -15,7 +15,7 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 
 #### Half Time
 
-![Half Time 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/HT.png)
+![Half Time 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/HT.png?1)
 
 *减<<<<<<速...*
 

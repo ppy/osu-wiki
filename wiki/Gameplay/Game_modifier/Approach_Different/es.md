@@ -12,7 +12,7 @@ tags:
 
 #### Approach Different
 
-![Icono del mod Approach Different](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AD.png)
+![Icono del mod Approach Different](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AD.png?1)
 
 *No confíes en los círculos de aproximación...*
 

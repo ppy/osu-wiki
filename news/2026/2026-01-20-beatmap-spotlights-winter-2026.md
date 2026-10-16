@@ -153,7 +153,7 @@ Sorry, the letter P had gotten stuck there, BUT what was said is pretty much tru
 
 #### Beatmap of the Season - Curators' Pick
 
-[![](/wiki/shared/news/2026-01-16-beatmap-spotlights-winter-2026/2129944.jpg)](https://osu.ppy.sh/beatmapsets/2129944#mania/4478878)
+[![](/wiki/shared/news/2026-01-20-beatmap-spotlights-winter-2026/2129944.jpg)](https://osu.ppy.sh/beatmapsets/2129944#mania/4478878)
 
 **[Dustvoxx, Loctek - Labyrinth of Mind \[\[7K\] Diffusion\]](https://osu.ppy.sh/beatmapsets/2129944#mania/4478878)**, created by [tyrcs](https://osu.ppy.sh/users/13026904)\
 *primarily suggested and described by [Seulgi](https://osu.ppy.sh/users/4918394)*
