@@ -1,6 +1,8 @@
 ---
 no_native_review: true
 needs_cleanup: true
+outdated_translation: true
+outdated_since: 700c767c79ccf1b57d76b0acda46dc032cf94ce9
 ---
 
 <!-- TODO: needs further rewrite, see https://github.com/ppy/osu-wiki/issues/7165 -->

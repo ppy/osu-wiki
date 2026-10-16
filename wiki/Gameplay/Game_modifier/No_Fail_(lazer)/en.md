@@ -13,7 +13,7 @@ tags:
 
 #### No Fail
 
-![No Fail mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/NF.png)
+![No Fail mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/NF.png?1)
 
 *You can't fail, no matter what.*
 
@@ -30,7 +30,7 @@ tags:
 :::
 
 ::: alert-note
-**Note:** For the osu!stable version of this article, see [No Fail (mod)](/wiki/Gameplay/Game_modifier/No_Fail)
+**Note:** For the osu!(stable) version of this article, see [No Fail (mod)](/wiki/Gameplay/Game_modifier/No_Fail)
 :::
 
 ::: alert-note

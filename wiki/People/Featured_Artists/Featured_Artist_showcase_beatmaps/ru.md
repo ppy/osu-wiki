@@ -1,13 +1,8 @@
----
-outdated_translation: true
-outdated_since: 7db101ba555502134cfcb73ccd205cb57716aa7c
----
-
 # Промо-карты Featured Artist
 
 Мапперы из [Mappers' Guild](/wiki/Community/Mappers_Guild) время от времени создают эксклюзивные карты на песни ещё не опубликованных исполнителей из списка [Featured Artists](/wiki/People/Featured_Artists). Эти карты впоследствии упоминаются в [новостях](https://osu.ppy.sh/home/news) с анонсами соответствующих музыкантов, а также часто рекламируются в [твиттере @osugame](https://twitter.com/osugame).
 
-Чтобы замапать промо-карту Featured Artist, член Mappers' Guild должен начать [таинственный временный квест](/wiki/Community/Mappers_Guild#квесты) или получить приглашение от ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418), либо чтобы в его профиле на [сайте Mappers' Guild](https://mappersguild.com/) была включена опция `FA showcase mapper`.
+Чтобы замапать промо-карту Featured Artist, член Mappers' Guild должен начать [таинственный временный квест](/wiki/Community/Mappers_Guild#квесты) или получить приглашение от ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418).
 
 Ниже перечислены все промо-карты, замапанные членами Mappers' Guild.
 
@@ -787,6 +782,177 @@ outdated_since: 7db101ba555502134cfcb73ccd205cb57716aa7c
 
 - **[PaceMKR](https://osu.ppy.sh/home/news/2024-04-13-new-featured-artist-pacemkr)** (2024-04-13)
   - (![][osu!]) [PaceMKR - Break It Down (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2051128#osu/4283294) от ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337)
+
+### Май
+
+- **[Rubatonin](https://osu.ppy.sh/home/news/2024-05-04-new-featured-artist-rubatonin)** (2024-05-04)
+  - (![][osu!]) [Hexacube - SUPER-ENTHUSIASTIC!!](https://osu.ppy.sh/beatmapsets/2049613) от ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837)
+  - (![][osu!mania]) [dabih & polarN - Koushyoku no Melody](https://osu.ppy.sh/beatmapsets/2174509) от ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699)
+  - (![][osu!mania]) [Essbee - Rubix](https://osu.ppy.sh/beatmapsets/2098237) от ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699)
+  - (![][osu!mania]) [LucaProject - Recovery](https://osu.ppy.sh/beatmapsets/2115263) от ::{ flag=ID }:: [Ucitysm](https://osu.ppy.sh/users/14768693)
+  - (![][osu!taiko]) [Xeudo Code - TERRAFORGE](https://osu.ppy.sh/beatmapsets/2089942) от ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649)
+- **[633397](https://osu.ppy.sh/home/news/2024-05-11-new-featured-artist-633397)** (2024-05-11)
+  - (![][osu!]) [633397 - this evil was warranted](https://osu.ppy.sh/beatmapsets/2131700) от ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
+  - (![][osu!taiko]) [633397 - nothing can hurt you now. it's okay, don't worry](https://osu.ppy.sh/beatmapsets/2138377) от ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649)
+  - (![][osu!taiko]) [633397 - run home](https://osu.ppy.sh/beatmapsets/2138818) от ::{ flag=US }:: [Alchyr](https://osu.ppy.sh/users/4993032)
+  - (![][osu!taiko]) [633397 - i can't run anymore](https://osu.ppy.sh/beatmapsets/2134503) от ::{ flag=SG }:: [_gt](https://osu.ppy.sh/users/8301957)
+- **[Strelitzia](https://osu.ppy.sh/home/news/2024-05-26-new-featured-artist-strelitzia)** (2024-05-26)
+  - (![][osu!]) [Strelitzia - This Bed Ain't Big Enough Fer The Two of Us](https://osu.ppy.sh/beatmapsets/2182598) от ::{ flag=US }:: [squirrelpascals](https://osu.ppy.sh/users/6151332)
+
+### Июнь
+
+- **[DeBisco](https://osu.ppy.sh/home/news/2024-06-02-new-featured-artist-debisco)** (2024-06-02)
+  - (![][osu!]) [DeBisco - FLASHBACK (Radio Edit)](https://osu.ppy.sh/beatmapsets/2132887) от ::{ flag=GB }:: [Shii](https://osu.ppy.sh/users/9186316)
+  - (![][osu!]) [DeBisco - Overclocked (Pocket Size) (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2133686) от ::{ flag=DE }:: [Kojio](https://osu.ppy.sh/users/2054596)
+- **[xiiiac13](https://osu.ppy.sh/home/news/2024-06-09-new-featured-artist-xiiiac13)** (2024-06-09)
+  - (![][osu!])(![][osu!taiko]) [xiiiac13 - who let him cook](https://osu.ppy.sh/beatmapsets/2169368) от ::{ flag=HU }:: [nytro](https://osu.ppy.sh/users/11327918)
+  - (![][osu!]) [xiiiac13 - got a compliment today](https://osu.ppy.sh/beatmapsets/2163558) от ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552)
+- **[Doomsday](https://osu.ppy.sh/home/news/2024-06-16-new-featured-artist-doomsday)** (2024-06-16)
+  - (![][osu!catch]) [Doomsday - SigmaGlider](https://osu.ppy.sh/beatmapsets/2138030) от ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134)
+- **[Nakura](https://osu.ppy.sh/home/news/2024-06-22-new-featured-artist-nakura)** (2024-06-22)
+  - (![][osu!]) [Nakura - Takin' U There (osu! edit)](https://osu.ppy.sh/beatmapsets/2134284) от ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071)
+  - (![][osu!taiko]) [Nakura - 7th Sphere](https://osu.ppy.sh/beatmapsets/2155698) от ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835)
+- **[takehirotei](https://osu.ppy.sh/home/news/2024-06-29-new-featured-artist-takehirotei)** (2024-06-29)
+  - (![][osu!]) [takehirotei - Chronoexplorers (feat. Finite Limit)](https://osu.ppy.sh/beatmapsets/2168355) от ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992)
+  - (![][osu!taiko]) [takehirotei - Tainted Reminiscence](https://osu.ppy.sh/beatmapsets/2158145) от ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741)
+  - (![][osu!taiko]) [takehirotei - Quad Erat Demonstrandum](https://osu.ppy.sh/beatmapsets/2134747) от ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283)
+
+### Июль
+
+- **[Rose Quartz](https://osu.ppy.sh/home/news/2024-07-06-new-featured-artist-rose-quartz)** (2024-07-06)
+  - (![][osu!taiko]) [Rose Quartz - A Frozen Realm](https://osu.ppy.sh/beatmapsets/2129385) от ::{ flag=HK }:: [iRedi](https://osu.ppy.sh/users/8005579)
+- **[MetaHumanBoi](https://osu.ppy.sh/home/news/2024-07-13-new-featured-artist-metahumanboi)** (2024-07-13)
+  - (![][osu!]) [MetaHumanBoi - Solar Strike](https://osu.ppy.sh/beatmapsets/2142528) от ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337)
+- **[Candle](https://osu.ppy.sh/home/news/2024-07-21-new-featured-artist-candle)** (2024-07-21)
+  - (![][osu!mania]) [Candle - Dust Powered Sniper Rifle](https://osu.ppy.sh/beatmapsets/2129710) от ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230)
+
+### Сентябрь
+
+- **[cast heal](https://osu.ppy.sh/home/news/2024-09-07-new-featured-artist-cast-heal)** (2024-09-07)
+  - (![][osu!]) [cast heal - run to her](https://osu.ppy.sh/beatmapsets/2217395) от ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405)
+  - (![][osu!]) [cast heal - fragments](https://osu.ppy.sh/beatmapsets/2183856) от ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405)
+
+### Октябрь
+
+- **[Trina Lydia](https://osu.ppy.sh/home/news/2024-10-06-new-featured-artist-trina-lydia)** (2024-10-06)
+  - (![][osu!]) [Trina Lydia - Stellar Immortality](https://osu.ppy.sh/beatmapsets/2197796) от ::{ flag=US }:: [Wispy](https://osu.ppy.sh/users/11106929)
+- **[sugosugiii](https://osu.ppy.sh/home/news/2024-10-20-new-featured-artist-sugosugiii)** (2024-10-20)
+  - (![][osu!]) [sugosugiii - Times New Roman](https://osu.ppy.sh/beatmapsets/2240606) от ::{ flag=US }:: [Aeril](https://osu.ppy.sh/users/4334976)
+  - (![][osu!taiko]) [sugosugiii, SiLiS - Reminiscing Onward](https://osu.ppy.sh/beatmapsets/2241960) от ::{ flag=FR }:: [Slyme](https://osu.ppy.sh/users/11695793)
+
+### Ноябрь
+
+- **[WyvernP](https://osu.ppy.sh/home/news/2024-11-09-new-featured-artist-wyvernp)** (2024-11-09)
+  - (![][osu!]) [WyvernP - I'm not a HERO (2023 Remake)](https://osu.ppy.sh/beatmapsets/2202737) от ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
+  - (![][osu!taiko]) [WyvernP - White Devil](https://osu.ppy.sh/beatmapsets/2194042) от ::{ flag=US }:: [Alchyr](https://osu.ppy.sh/users/4993032)
+
+## 2025
+
+### Январь
+
+- **[ZVLIAN](https://osu.ppy.sh/home/news/2025-01-12-new-featured-artist-zvlian)** (2025-01-12)
+  - (![][osu!]) [ZVLIAN - Worlds (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2240082) от ::{ flag=HU }:: [nytro](https://osu.ppy.sh/users/11327918)
+  - (![][osu!])(![][osu!taiko]) [ZVLIAN - SHIFTING GROUND](https://osu.ppy.sh/beatmapsets/2247612) от ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337)
+- **[ntyn](https://osu.ppy.sh/home/news/2025-01-18-new-featured-artist-ntyn)** (2025-01-18)
+  - (![][osu!]) [ntyn - We Love Idol, and Master! (Chiptune)](https://osu.ppy.sh/beatmapsets/2258940) от ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337)
+
+### Февраль
+
+- **[WEARY](https://osu.ppy.sh/home/news/2025-02-22-new-featured-artist-weary)** (2025-02-22)
+  - (![][osu!mania]) [WEARY & IlluminatedGalaxy - Journey](https://osu.ppy.sh/beatmapsets/2216028) от ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230)
+  - (![][osu!]) [WEARY x Revrey - Effulgence](https://osu.ppy.sh/beatmapsets/2234038) от ::{ flag=CL }:: [Cris-](https://osu.ppy.sh/users/6175280)
+  - (![][osu!]) [Mega Collaboration - Starry Night (Extended Mix)](https://osu.ppy.sh/beatmapsets/2195040) от ::{ flag=FI }:: [P_O](https://osu.ppy.sh/users/831979)
+
+### Март
+
+- **[SEVEN LIVES](https://osu.ppy.sh/home/news/2025-03-09-new-featured-artist-seven-lives)** (2025-03-09)
+  - (![][osu!taiko]) [SEVEN LIVES - Statues](https://osu.ppy.sh/beatmapsets/2197744) от ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097)
+- **[hikota](https://osu.ppy.sh/home/news/2025-03-15-new-featured-artist-hikota)** (2025-03-15)
+  - (![][osu!]) [hikota - Acceptance](https://osu.ppy.sh/beatmapsets/2301725) от ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264)
+  - (![][osu!]) [hikota - farewell](https://osu.ppy.sh/beatmapsets/2260529) от ::{ flag=ID }:: [Kyouren](https://osu.ppy.sh/users/2013571)
+- **[rae](https://osu.ppy.sh/home/news/2025-03-22-new-featured-artist-rae)** (2025-03-22)
+  - (![][osu!])(![][osu!taiko]) [r@e - UNABLE](https://osu.ppy.sh/beatmapsets/2275451) от ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337)
+
+### Апрель
+
+- **[lexycat](https://osu.ppy.sh/home/news/2025-04-05-new-featured-artist-lexycat)** (2025-04-05)
+  - (![][osu!taiko]) [lexycat - incision](https://osu.ppy.sh/beatmapsets/2208878) от ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283)
+  - (![][osu!taiko]) [lexycat - glitter *](https://osu.ppy.sh/beatmapsets/2300144) от ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230)
+  - (![][osu!mania]) [lexycat - Abyssal Storm](https://osu.ppy.sh/beatmapsets/2285560) от ::{ flag=TW }:: [Usagi_](https://osu.ppy.sh/users/16046205)
+- **[1zm8](https://osu.ppy.sh/home/news/2025-04-28-new-featured-artist-1zm8)** (2025-04-28)
+  - (![][osu!]) [1zm8 - Beyond The Horizon](https://osu.ppy.sh/beatmapsets/2260556) от ::{ flag=US }:: [Wispy](https://osu.ppy.sh/users/11106929)
+  - (![][osu!taiko]) [1zm8 - IDEAL [SHIFT]](https://osu.ppy.sh/beatmapsets/2301094) от ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649)
+
+### Май
+
+- **[The Musical Ghost](https://osu.ppy.sh/home/news/2025-05-24-new-featured-artist-the-musical-ghost)** (2025-05-24)
+  - (![][osu!mania]) [The Musical Ghost - Thinking Of](https://osu.ppy.sh/beatmapsets/2275105) от ::{ flag=PH }:: [chocomilku-](https://osu.ppy.sh/users/16687756)
+- **[UNTONE Sound Group](https://osu.ppy.sh/home/news/2025-05-31-new-featured-artist-untone-sound-group)** (2025-05-31)
+  - (![][osu!]) [TFD500 - Yami](https://osu.ppy.sh/beatmapsets/2239180) от ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337)
+  - (![][osu!mania]) [DJ Stuiter - Iridescent](https://osu.ppy.sh/beatmapsets/2206149) от ::{ flag=ID }:: [Ucitysm](https://osu.ppy.sh/users/14768693)
+
+### Июль
+
+- **[Aspect](https://osu.ppy.sh/home/news/2025-07-26-new-featured-artist-aspect)** (2025-07-26)
+  - (![][osu!mania]) [Aspect & Viznode - Astral Grove (Viznode Remix) [Aspect 2023 Live Edit]](https://osu.ppy.sh/beatmapsets/2304854) от ::{ flag=DE }:: [BadDragon](https://osu.ppy.sh/users/6051688)
+
+### Август
+
+- **[DraGonis](https://osu.ppy.sh/home/news/2025-08-04-new-featured-artist-dragonis)** (2025-08-04)
+  - (![][osu!]) [DraGonis x Ghost Voices - Stargazing in Liyue](https://osu.ppy.sh/beatmapsets/2361261) от ::{ flag=HR }:: [Fufla](https://osu.ppy.sh/users/14367317)
+- **[SPIRIT GARDEN *](https://osu.ppy.sh/home/news/2025-08-09-new-featured-artist-spirit-garden)** (2025-08-09)
+  - (![][osu!catch]) [SPIRIT GARDEN * - Continue](https://osu.ppy.sh/beatmapsets/2343693) от ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164)
+- **[Juwubi](https://osu.ppy.sh/home/news/2025-08-16-new-featured-artist-juwubi)** (2025-08-16)
+  - (![][osu!]) [Juwubi - NEVER GONNA GIVE YOU UP](https://osu.ppy.sh/beatmapsets/2341735) от ::{ flag=US }:: [Wispy](https://osu.ppy.sh/users/11106929)
+- **[GRYSCL](https://osu.ppy.sh/home/news/2025-08-24-new-featured-artist-gryscl)** (2025-08-24)
+  - (![][osu!taiko]) [GRYSCL - Wwhatevver](https://osu.ppy.sh/beatmapsets/2342916) от ::{ flag=HK }:: [iRedi](https://osu.ppy.sh/users/8005579)
+  - (![][osu!mania]) [GRYSCL - Escapism](https://osu.ppy.sh/beatmapsets/2384418) от ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230)
+- **[d0tc0mmie](https://osu.ppy.sh/home/news/2025-08-31-new-featured-artist-d0tc0mmie)** (2025-08-31)
+  - (![][osu!taiko]) [d0tc0mmie - Guilty feat. Kasane Teto](https://osu.ppy.sh/beatmapsets/2371889) от ::{ flag=RU }:: [Ryxliee](https://osu.ppy.sh/users/15823344)
+  - (![][osu!taiko]) [d0tc0mmie feat. Kasane Teto - Strobe Light (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2351120) от ::{ flag=GB }:: [MicSup08](https://osu.ppy.sh/users/8834793)
+
+### Сентябрь
+
+- **[Drazically](https://osu.ppy.sh/home/news/2025-09-07-new-featured-artist-drazically)** (2025-09-07)
+  - (![][osu!taiko]) [Drazically - Reality:SHIFT](https://osu.ppy.sh/beatmapsets/2335282) от ::{ flag=JP }:: [-Kazuha](https://osu.ppy.sh/users/29978316)
+  - (![][osu!catch]) [Drazically - ReiNcarnation](https://osu.ppy.sh/beatmapsets/2334915) от ::{ flag=PH }:: [Bunnrei](https://osu.ppy.sh/users/829284)
+- **[kikoyu](https://osu.ppy.sh/home/news/2025-09-13-new-featured-artist-kikoyu)** (2025-09-13)
+  - (![][osu!]) [kikoyu - hypocrite](https://osu.ppy.sh/beatmapsets/2477208#osu/5436059) от ::{ flag=GB }:: [Shii](https://osu.ppy.sh/users/9186316)
+- **[Xeon Diversity](https://osu.ppy.sh/home/news/2025-09-20-new-featured-artist-xeon-diversity)** (2025-09-20)
+  - (![][osu!]) [Xeon Diversity - Luminaire](https://osu.ppy.sh/beatmapsets/2353640) от ::{ flag=CA }:: [coco](https://osu.ppy.sh/users/9579526)
+- **[Dvwnpour](https://osu.ppy.sh/home/news/2025-09-28-new-featured-artist-dvwnpour)** (2025-09-28)
+  - (![][osu!mania]) [Dvwnpour & Mediy0 - Starpop](https://osu.ppy.sh/beatmapsets/2363664) от ::{ flag=KR }:: [Rurvker](https://osu.ppy.sh/users/24526335)
+
+### Октябрь
+
+- **[Tanger](https://osu.ppy.sh/home/news/2025-10-19-new-featured-artist-tanger)** (2025-10-19)
+  - (![][osu!]) [Tanger - tiny windows (feat. Frizk)](https://osu.ppy.sh/beatmapsets/2391171) от ::{ flag=DE }:: [Nagi Seishiro](https://osu.ppy.sh/users/6300910)
+
+### Ноябрь
+
+- **[lexxndr](https://osu.ppy.sh/home/news/2025-11-08-new-featured-artist-lexxndr)** (2025-11-09)
+  - (![][osu!taiko]) [lexxndr - The Beginning](https://osu.ppy.sh/beatmapsets/2432317) от ::{ flag=HK }:: [iRedi](https://osu.ppy.sh/users/8005579)
+- **[WhiteSakata](https://osu.ppy.sh/home/news/2025-11-15-new-featured-artist-whitesakata)** (2025-11-15)
+  - (![][osu!]) [WhiteSakata - R(eiterat)e:](https://osu.ppy.sh/beatmapsets/2407278) от ::{ flag=US }:: [Wispy](https://osu.ppy.sh/users/11106929)
+- **[Akts](https://osu.ppy.sh/home/news/2025-11-22-new-featured-artist-akts)** (2025-11-22)
+  - (![][osu!taiko]) [Akts - Too Much To See](https://osu.ppy.sh/beatmapsets/2352682) от ::{ flag=US }:: [Izzeee](https://osu.ppy.sh/users/8503743)
+
+### Декабрь
+
+- **[MIDInco](https://osu.ppy.sh/home/news/2025-12-07-new-featured-artist-midinco)** (2025-12-07)
+  - (![][osu!]) [MIDInco - Shatter](https://osu.ppy.sh/beatmapsets/2401660) от ::{ flag=US }:: [Cytusine](https://osu.ppy.sh/users/11557554)
+- **[AKA](https://osu.ppy.sh/home/news/2025-12-15-new-featured-artist-aka)** (2025-12-15)
+  - (![][osu!]) [Sweet Dove feat. AKA - Omoide Kakera](https://osu.ppy.sh/beatmapsets/2433381) от ::{ flag=US }:: [Aeril](https://osu.ppy.sh/users/4334976)
+  - (![][osu!catch]) [AZALI & indrop feat. AKA - Faceless Memories](https://osu.ppy.sh/beatmapsets/2419849) от ::{ flag=FR }:: [Slyme](https://osu.ppy.sh/users/11695793)
+- **[Stariah](https://osu.ppy.sh/home/news/2025-12-21-new-featured-artist-stariah)** (2025-12-21)
+  - (![][osu!]) [Stariah & ColBreakz - Dreams](https://osu.ppy.sh/beatmapsets/2428963) от ::{ flag=LT }:: [Amefystol](https://osu.ppy.sh/users/26748801)
+
+## 2026
+
+### Февраль
+
+- **[John Grant](https://osu.ppy.sh/home/news/2026-02-01-new-featured-artist-john-grant)** (2026-02-01)
+  - (![][osu!]) [John Grant - Fabled Frontiers](https://osu.ppy.sh/beatmapsets/2237488) от ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264)
 
 ## История
 

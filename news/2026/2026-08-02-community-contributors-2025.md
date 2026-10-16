@@ -35,7 +35,7 @@ It's no secret that the technical side of tournaments is one of the pillars keep
 
 From tools used by organisers and staff on a daily basis to large-scale projects serving the tournament ecosystem, Stage's work has left quite the mark in modern osu! tournaments. Whether it be through developing tools such as [Brigitta](https://github.com/hburn7/Brigitta), an IRC client tailored for tournament referees, or the [Mappool Compliance Checker](https://github.com/hburn7/mappool-compliance-checker) and [its corresponding API](https://github.com/hburn7/omc-api), helping organisers navigate content usage permissions without losing their sanity in the process, their efforts have consistently solved problems most people only notice when they stop working.
 
-Furthermore, Stage has been the driving force behind the osu! Tournament Rating project, a massive undertaking aiming to comprehensively track and rate thousands tournaments across all game modes, with the goal of providing a player rating metric that can be reliably used to measure tournament performance.
+Furthermore, Stage has been the driving force behind the osu! Tournament Rating project, a massive undertaking aiming to comprehensively track and rate thousands of tournaments across all game modes, with the goal of providing a player rating metric that can be reliably used to measure tournament performance.
 
 Put simply, we've got Stage to thank for making the lives of tournament organisers easier!
 

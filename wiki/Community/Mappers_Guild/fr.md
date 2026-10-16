@@ -3,6 +3,8 @@ no_native_review: true
 tags:
   - Mapper's Guild
   - MG
+outdated_translation: true
+outdated_since: 3610ba210d6c679c0d60201420ee64d700cbcc44
 ---
 
 # Mappers' Guild

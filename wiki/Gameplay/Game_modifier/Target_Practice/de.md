@@ -7,14 +7,15 @@ tags:
   - game modifier
   - cutting edge
   - Spielmodifikation
-no_native_review: true
-outdated_translation: true
-outdated_since: f765631cd44ae8e9acea47ce6c88b9ec510998b3
 ---
 
 # Target Practice (Mod)
 
 ![TP Modsymbol](/wiki/shared/mods/TP.png "Target Practice (TP) Modsymbol")
+
+::: alert-note
+**Anmerkung:** Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe [Target Practice (lazer-Mod)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer))
+:::
 
 ::: alert-note
 **Anmerkung:** Für die vollständige Liste aller Mods, siehe [Spielmodifikationen](/wiki/Gameplay/Game_modifier)
@@ -38,17 +39,21 @@ outdated_since: f765631cd44ae8e9acea47ce6c88b9ec510998b3
 Das Aktivieren der Mod Target Practice sorgt dafür, dass das Spiel nicht gerankt wird.
 :::
 
-Die Mod **Target Practice** ist eine experimentelle [Spielmodifikation](/wiki/Gameplay/Game_modifier), die alle eingezeichneten [Hit-Objekte](/wiki/Gameplay/Hit_object) entfernt und sie mit einer vereinfachten sowie einheitlichen Reihe von "Zielscheiben" ersetzt.
+Die Mod **Target Practice** ist eine experimentelle [Spielmodifikation](/wiki/Gameplay/Game_modifier) für [osu!](/wiki/Game_mode/osu!), die alle [Hit-Objekte](/wiki/Gameplay/Hit_object) einer Beatmap entfernt und sie mit einer vereinfachten Reihe von "Zielscheiben" ersetzt. Sie wird überwiegend zum Spaß verwendet, kann aber auch hilfreich sein, um das Einhalten eines gleichmäßigen Tempos zu üben und seine Treffergenauigkeit zu verbessern.
 
-Bei einem Spiel, bei dem die Mod Target Practice aktiviert ist, wird den Spielern eine Reihe von "Zielscheiben" präsentiert, die langsam an Größe und Helligkeit zunehmen. Der Spieler muss dann die Zielscheiben treffen oder klicken, wenn sie die höchste Helligkeit sowie die maximale Größe haben und der richtige Zeitpunkt gekommen ist. Ein gleichmäßiges Metronom spielt im Hintergrund, um den Spielern zu signalisieren, zu welchem Zeitpunkt sie die Zielscheibe treffen sollen.
+Wenn Target Practice aktiviert ist, versteckt osu! die Lebensleiste und die Genauigkeitsanzeige. Der Spieler muss die Zielscheiben treffen, die nach und nach auf dem [Spielfeld](/wiki/Client/Playfield) erscheinen, mit der Absicht, ihren Mittelpunkt zu treffen. Um im Rhythmus zu bleiben, können sich Spieler an dem Metronom orientieren, welches im Hintergrund spielt.
 
-Die Mod wird hauptsächlich zum Spaß verwendet, kann aber auch benutzt werden, um das Einhalten eines gleichmäßigen Tempos zu üben.
+Das Spiel läuft bis zum ersten [MISS](/wiki/Gameplay/Judgement/osu!), wonach die [Ergebnisanzeige](/wiki/Client/Interface#ergebnisanzeige) erscheint. Die Bedeutung der verschiedenen Noten ähnelt der in [osu!mania](/wiki/Gameplay/Grade#osu!mania).
+
+## Zielscheiben
+
+Eine Zielscheibe kann als eine spezielle Art von [Hit-Circle](/wiki/Gameplay/Hit_object/Hit_circle) ohne [Combo-Zahl](/wiki/Beatmapping/Combo) betrachtet werden. Trefferpunkte und Genauigkeit hängen davon ab, wo und wann die Zielscheibe getroffen wird. Je genauer und präziser dies geschieht, desto mehr Punkte werden vergeben, wobei man für einen idealen Treffer 250 Punkte erhält. Auf dem Spielfeld werden die Zielscheiben in Gruppen platziert, wobei alle zwei [Beats](/wiki/Music_theory/Beat) eine neue Gruppe beginnt. Der Abstand der Zielscheiben innerhalb einer Gruppe bleibt konstant und erhöht sich ein wenig mit jeder neuen Gruppe.
 
 ![TP Gameplay](img/TP-gameplay.jpg "osu!-Gameplay, bei dem die Mod Target Practice aktiviert ist")
 
 ## Trivia
 
-- Die Mod Target Practice verwendet die [Combo-Farben](/wiki/Beatmapping/Combo_colour), die in der aktuellen Datei [skin.ini](/wiki/Skinning/skin.ini) des Spielers gekennzeichnet sind.
-- Sobald ein Spiel, bei dem die Mod Target Practice aktiviert ist, nicht bestanden wird, gelangt der Spieler zur Ergebnisanzeige anstatt zum Niederlagenbildschirm.
+- Die Mod Target Practice verwendet die [Combo-Farben](/wiki/Beatmapping/Combo_colour) aus der [skin.ini](/wiki/Skinning/skin.ini)-Datei des aktuellen Skins.
+- Schließt man eine Beatmap mit Target Practice nicht erfolgreich ab, wird die Ergebnisanzeige anstatt des Niederlagenbildschirms angezeigt.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
