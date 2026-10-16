@@ -74,6 +74,12 @@ Happy 9th Birthday to osu! Project Loved, and thank you to all the mappers and p
 
 Also, please vote yes, I neeeeed this
 
+Quick interruption! I'd like to quickly direct you all to the amazing video created by the talented [Log Off Now](https://osu.ppy.sh/users/4378277) to celebrate this map's accomplishments and it going up for voting! Please if you have some time, check it out! -[aceticke](https://osu.ppy.sh/users/8838763)
+
+<div align="center">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/JBT5Hv7ovJw" frameborder="0" allowfullscreen></iframe>
+</div>
+
 [![](/wiki/shared/news/2026-09-19-project-loved-nine-years-september-2026/1126144.jpg)](https://osu.ppy.sh/community/forums/topics/2246687)
 
 [-45 - Midorigo Queen Bee](https://osu.ppy.sh/beatmapsets/1126144#osu) by [Frakturehawkens](https://osu.ppy.sh/users/7458583)\
