@@ -49,7 +49,7 @@ Outside of the rice category, this round brought us two osu! originals!
 
 Where to even begin when it comes to [Sasuke Haraguchi](https://osu.ppy.sh/beatmaps/artists/561)? Extremely well known for a few select songs such as [Igaku](https://www.youtube.com/watch?v=F38EuG2dAyM) and [HITO Mania](https://www.youtube.com/watch?v=HTxwOxFt5d4), we're getting our very own with [TAKER TAKER](https://osu.ppy.sh/beatmapsets/2612669#mania/5852786) (HB2) by ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576)! The chart contains just about everything you'd find in a HB2, containing minijacks, bursty patterns both in the rice and long note department, alongside some occasional tricky longjacks. Huge, huge thanks to [Porukana](https://osu.ppy.sh/users/12992775), [Triantafyllia](https://osu.ppy.sh/users/17084594), [Alptraum](https://osu.ppy.sh/users/26496648), [RedcXca](https://osu.ppy.sh/users/14056601) for the illustrations, [Panthullu](https://osu.ppy.sh/users/12580298) and [mohca](https://osu.ppy.sh/users/14499702) for the graphic design, [Raybean](https://osu.ppy.sh/users/16676388) and [Noffy](https://osu.ppy.sh/users/1541323) for the storyboard, and our very own -mint- for the lyrics translation **and** midi transcription!
 
-[![](/wiki/shared/news/2026-09-22-osumania-4k-world-cup-quarterfinal-and-semifinals-recap/All_In_on_Your_Shadow-banner.jpg)](https://osu.ppy.sh/beatmapsets/2608577#mania/5839930)
+[![](/wiki/shared/news/2026-09-22-osumania-4k-world-cup-quarterfinal-and-semifinals-recap/All_In_on_Your_Shadow-banner.jpg)](https://osu.ppy.sh/beatmapsets/2612696#mania/5852880)
 
 <div class="osu-md__paragraph">
     <audio controls>
