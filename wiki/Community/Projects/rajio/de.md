@@ -22,6 +22,6 @@ rajio war zunächst einige Jahre in Betrieb, bis zur Einstellung im Jahr 2010.[^
 ## Referenzen
 
 [^rajio-database-ref]: [Blogbeitrag von peppy (08.10.2008)](https://pe.ppy.sh/2008/10/229/): "*rajio ahoy*"
-[^rajio-out-of-service-ref]: [Tweet by peppy (03.07.2010)](https://twitter.com/ppy/status/17639387454): "*@aqua321 rajio ist schon seit einer Weile nicht mehr aktiv... wird eines Tages zurückkehren!*" (aus dem Englischen übersetzt)
-[^rajio-revival-ref1]: [Tweet by peppy (18.04.2011)](https://twitter.com/ppy/status/59817540494438401): "*Ich ziehe in Betracht, rajio.ppy.sh wieder zum Leben zu erwecken, da in letzter Zeit viele Leute Interesse daran gezeigt haben!*" (aus dem Englischen übersetzt)
-[^rajio-revival-ref2]: [Forum reply by Cyclohexane (06.05.2011)](https://osu.ppy.sh/community/forums/posts/828595): "*Nein, wirklich, es wäre gut, das zu haben. Vor allem mit dem neu hinzugefügten #rajio.*" (aus dem Englischen übersetzt)
+[^rajio-out-of-service-ref]: [Tweet von peppy (03.07.2010)](https://twitter.com/ppy/status/17639387454): "*@aqua321 rajio ist schon seit einer Weile nicht mehr aktiv... wird eines Tages zurückkehren!*" (aus dem Englischen übersetzt)
+[^rajio-revival-ref1]: [Tweet von peppy (18.04.2011)](https://twitter.com/ppy/status/59817540494438401): "*Ich ziehe in Betracht, rajio.ppy.sh wieder zum Leben zu erwecken, da in letzter Zeit viele Leute Interesse daran gezeigt haben!*" (aus dem Englischen übersetzt)
+[^rajio-revival-ref2]: [Forenantwort von Cyclohexane (06.05.2011)](https://osu.ppy.sh/community/forums/posts/828595): "*Nein, wirklich, es wäre gut, das zu haben. Vor allem mit dem neu hinzugefügten #rajio.*" (aus dem Englischen übersetzt)
