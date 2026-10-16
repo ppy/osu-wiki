@@ -3,6 +3,8 @@ tags:
   - BN
   - BNG
   - 审核
+outdated_translation: true
+outdated_since: e5f0364195b7a422f5889406dbc624eff7ca54a1
 ---
 
 # 谱面审核成员 (BN)
