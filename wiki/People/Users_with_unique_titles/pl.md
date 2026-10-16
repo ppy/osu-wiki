@@ -1,7 +1,5 @@
 ---
 no_native_review: true
-outdated_translation: true
-outdated_since: 4f11e3c2b1d5db4f5bec07132285b5b8f5b5d071
 ---
 
 # Użytkownicy z unikalnymi tytułami
@@ -324,6 +322,7 @@ Twórcy storyboardów, którzy wykazali się niezwykłym talentem i ponadprzeci�
 - ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552)
 - ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377)
 - ::{ flag=PL }:: [Exile-](https://osu.ppy.sh/users/2559349)
+- ::{ flag=NZ }:: [LowGraphics](https://osu.ppy.sh/users/5383942)
 - ::{ flag=RU }:: [Shmiklak](https://osu.ppy.sh/users/5504231)
 - ::{ flag=RU }:: [Tommy Phelps](https://osu.ppy.sh/users/10974581)
 - ::{ flag=DZ }:: [VenerableNyanta](https://osu.ppy.sh/users/12243368)

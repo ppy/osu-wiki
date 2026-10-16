@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 4eca74b4fb7d8adfe715fb20eab415cf787c15fb
+---
+
 # 设置
 
 ![设置菜单](img/options_basic-ZH.jpg "设置菜单（左侧的侧边栏）")
