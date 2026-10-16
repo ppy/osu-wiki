@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 4f11e3c2b1d5db4f5bec07132285b5b8f5b5d071
 ---
 
 # Użytkownicy z unikalnymi tytułami
