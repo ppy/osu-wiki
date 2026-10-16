@@ -19,7 +19,9 @@ tags:
 
 # Webseite
 
-*Hauptseite: [Hilfecenter](/wiki/Help_centre)*
+::: alert-note
+**Hauptseite:** [Hilfecenter](/wiki/Help_centre)
+:::
 
 Diese Sektion befasst sich mit Problemen auf der osu!-Webseite.
 

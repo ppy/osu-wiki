@@ -28,7 +28,9 @@ tags:
 
 # Client
 
-*Hauptseite: [Hilfecenter](/wiki/Help_centre)*
+::: alert-note
+**Hauptseite:** [Hilfecenter](/wiki/Help_centre)
+:::
 
 Hast du Probleme mit dem Spiel-Client? Finde heraus, ob dein Problem unter den häufigsten Problemen unserer Nutzer aufgelistet ist.
 
@@ -149,7 +151,10 @@ Um die Beatmap-Datenbank gefahrlos zu einer Neuerstellung zu zwingen, versuche d
 7. Nenne sie um wie du möchtest. Es spielt keine Rolle, solange sie nicht "osu!" heißt. Anschließend drücke `Enter`.
 8. Starte osu! erneut.
 
-*Anmerkung: eine Fehlerbehebung dafür wurde in [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) am 19. Mai 2021 hinzugefügt. Wenn du diesem Problem immer noch begegnest, dann [lasse uns das bitte wissen](https://github.com/ppy/osu-stable-issues/issues).*
+::: alert-notice
+**Hinweis**
+Eine Fehlerbehebung dafür wurde in [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) am 19. Mai 2021 hinzugefügt. Wenn du diesem Problem immer noch begegnest, dann [lasse uns das bitte wissen](https://github.com/ppy/osu-stable-issues/issues).
+:::
 
 ### Meine Songliste scrollt weiter! {id=songs-list-scrolling}
 

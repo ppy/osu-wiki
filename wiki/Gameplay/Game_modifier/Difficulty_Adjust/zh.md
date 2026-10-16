@@ -14,7 +14,7 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 
 #### Difficulty Adjust
 
-![Difficulty Adjust 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/DA.png)
+![Difficulty Adjust 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/DA.png?1)
 
 *覆写谱面的难度设定。*
 

@@ -37,7 +37,9 @@ outdated_since: 4479d2a14a95f9ff5041641cb23fd66d0c58ba38
 
 # Cliente
 
-*Página principal: [Centro de ayuda](/wiki/Help_centre)*
+::: alert-note
+**Página principal:** [Centro de ayuda](/wiki/Help_centre)
+:::
 
 ¿Tienes problemas con el cliente del juego? Averigua si tu problema se encuentra entre los más comunes de nuestros usuarios.
 
@@ -158,7 +160,10 @@ Para forzar de forma segura la recreación de tu base de datos de los beatmaps, 
 7. Ponle el nombre que quieras. No importa, siempre que no se llame «osu!». Luego presiona `Entrar`.
 8. Vuelve a iniciar osu!.
 
-*Nota: se añadió una corrección para esto en [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) el 19 de mayo de 2021. Si sigues teniendo este problema, [háznoslo saber](https://github.com/ppy/osu-stable-issues/issues).*
+::: alert-notice
+**Aviso**
+Se añadió una corrección para esto en [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) el 19 de mayo de 2021. Si sigues teniendo este problema, [háznoslo saber](https://github.com/ppy/osu-stable-issues/issues).
+:::
 
 ### ¡Mi lista de canciones no para de moverse! {id=songs-list-scrolling}
 

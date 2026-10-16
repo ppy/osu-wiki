@@ -71,13 +71,13 @@ With this outcome, the two mappers have earned the profile badge below, [2 point
 
 #### Judging runner-up
 
-[![blacklist international team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/osu/blacklist%20international.png)](https://osu.ppy.sh/beatmapsets/1971997)
+[![blacklist international team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/osu/blacklist-international.png)](https://osu.ppy.sh/beatmapsets/1971997)
 
 Runner-ups [acnozei](https://osu.ppy.sh/users/10141268) and [flake](https://osu.ppy.sh/users/7627157) earned [a point of progress towards the *Elite Mapper* user title](/wiki/Contests/Contest_points) too. If you're looking for an easier map than the winner, [this one](https://osu.ppy.sh/beatmapsets/1971997) may be worth a try!
 
 #### Community vote winner
 
-[![Hardvard Dropouts team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/osu/Harvard%20Dropouts.png)](https://osu.ppy.sh/beatmapsets/1972749)
+[![Hardvard Dropouts team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/osu/Harvard-Dropouts.png)](https://osu.ppy.sh/beatmapsets/1972749)
 
 While judges favored [DeviousPanda](https://osu.ppy.sh/users/4966334) and [iljaaz](https://osu.ppy.sh/users/8501291)'s map, the wider osu! community took a different stance.
 
@@ -102,7 +102,7 @@ And while they're not earning major prizes, we'd like to also shout out [yf_bmp]
 
 #### Judging & community vote winner
 
-[![Frozen Bananas team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/taiko/Frozen%20Bananas.png)](https://osu.ppy.sh/beatmapsets/1972268)
+[![Frozen Bananas team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/taiko/Frozen-Bananas.png)](https://osu.ppy.sh/beatmapsets/1972268)
 
 Sitting atop the podium is [this submission](https://osu.ppy.sh/beatmapsets/1972268) by legendary osu!taiko residents [uone](https://osu.ppy.sh/users/5321719) and [iceOC](https://osu.ppy.sh/users/5482401)! Each of them have a longstanding history in the osu!taiko community, winning tournaments left and right, and now they're here to put a mapping competition into their portfolios too!
 
@@ -141,7 +141,7 @@ Jemzuu and -Rusty's efforts towards osu!catch mapping have paid off. Both have e
 
 #### Runner-up and community vote winner
 
-[![Alien Tails team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/catch/Alien%20Tails.png)](https://osu.ppy.sh/beatmapsets/1972368)
+[![Alien Tails team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/catch/Alien-Tails.png)](https://osu.ppy.sh/beatmapsets/1972368)
 
 Neck and neck, [Deif](https://osu.ppy.sh/users/318565) and [autofanboy](https://osu.ppy.sh/users/636114) narrowly took the lead from [Jemzuu](https://osu.ppy.sh/users/7890134) and [-Rustyy](https://osu.ppy.sh/users/16355636) in the [community vote](https://osu.ppy.sh/community/contests/168)!
 
@@ -176,7 +176,7 @@ Each mapper has been awarded their own profile badge and [2 points of progress t
 
 #### Judging runner-up
 
-[![The Wolf and the Fox team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/mania/The%20Wolf%20and%20the%20Fox.png)](https://osu.ppy.sh/beatmapsets/1972034)
+[![The Wolf and the Fox team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/mania/The-Wolf-and-the-Fox.png)](https://osu.ppy.sh/beatmapsets/1972034)
 
 [AutotelicBrown](https://osu.ppy.sh/users/4238941) and resident NAT member [Akasha-](https://osu.ppy.sh/users/2596306) fell just short of first place with [this 4K submission](https://osu.ppy.sh/beatmapsets/1972034). While they're not the winners, runner-ups receive [a point of progress towards the *Elite Mapper* user title](/wiki/Contests/Contest_points)!
 
