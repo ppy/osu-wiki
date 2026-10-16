@@ -320,6 +320,7 @@ osu! 团队为想要改动设计或重新设计游戏某些吉祥物的社区成
 - ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552)
 - ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377)
 - ::{ flag=PL }:: [Exile-](https://osu.ppy.sh/users/2559349)
+- ::{ flag=NZ }:: [LowGraphics](https://osu.ppy.sh/users/5383942)
 - ::{ flag=RU }:: [Shmiklak](https://osu.ppy.sh/users/5504231)
 - ::{ flag=RU }:: [Tommy Phelps](https://osu.ppy.sh/users/10974581)
 - ::{ flag=DZ }:: [VenerableNyanta](https://osu.ppy.sh/users/12243368)
