@@ -16,7 +16,7 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 
 #### Half Time
 
-![Icono del mod Half Time](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/HT.png)
+![Icono del mod Half Time](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/HT.png?1)
 
 *Menos zoom...*
 
