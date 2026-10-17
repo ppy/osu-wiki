@@ -457,7 +457,7 @@ The ruleset is mainly based on [osu!mania 4K World Cup 2021](/wiki/Tournaments/M
 1. Please complete the [registration form](https://forms.gle/41fgDJ5XV3PzUGD2A) to registrate.
 2. Participants are required to join as teams.
 3. The size of a team has a minimum of 2 and a maximum of 4.
-4. To ensure valid registrations, every prospective participant will be manually checked by via [tournament screening](/wiki/Tournaments/Official_support#tournament-screening).
+4. To ensure valid registrations, every prospective participant will be manually checked by via [tournament screening](/wiki/Tournaments/Official_support#screening).
    - If any member in a team is blacklisted by organisers or considered "suspicious" by the account support team, the whole team will be disqualified. **Blacklists in other tournaments will be considered as well.**
    - There are no rank requirements for this tournament, but player must not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 5. All successfully formed teams will be published after the registration phase.
