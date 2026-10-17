@@ -27,22 +27,22 @@ Created for [Kyoku 2024](/wiki/Contests/Kyoku/2024), [this map of *.hereafter*](
     </video>
 </div>
 
-### 
+### $k_Hwa$ - Psychosis
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/573/PROXIMITY/%24k%27Hwa%24%20-%20Psychosis.mp3">
 </audio>
 
-### 
+### $k_Hwa$ - Facade
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/573/Songs/k%27Hwa%27-%27Facade.mp3">
 </audio>
 
-### 
+### $k_Hwa$ - High Fall
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/573/PROXIMITY/%24k%27Hwa%24%20-%20High%20Fall.mp3">
 </audio>
 
 ---
