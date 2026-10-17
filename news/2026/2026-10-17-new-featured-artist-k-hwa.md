@@ -9,7 +9,7 @@ osu! is a rhythm game. **k_Hwa** creates music that suits rhythm games. We'll le
 
 ![](https://assets.ppy.sh/artists/573/header.jpg)
 
-Transforming the circumstances of a harsh reality into pure motivation, **k_Hwa** (also known as *\$k\_Hwa\$*) has been knee-deep in music production since 2023. Two years later, **k_Hwa** released their debut album *PROXIMITY*, including tracks originally created for a variety of tournaments across osu! (you may have heard these before!).
+Transforming the circumstances of a harsh reality into pure motivation, **k_Hwa** (also known as *\$k_화\$*) has been knee-deep in music production since 2023. Two years later, **k_Hwa** released their debut album *PROXIMITY*, including tracks originally created for a variety of tournaments across osu! (you may have heard these before!).
 
 **k_Hwa**'s music draws influence from EDM artists like [*Zekk*](https://osu.ppy.sh/beatmaps/artists/76) and [*rejection*](https://osu.ppy.sh/beatmaps/artists/199), along with not-so-electronic bands like *twenty one pilots*, resulting in an iconic drum-forward soundscape that's now part of our Featured Artist catalogue.
 
