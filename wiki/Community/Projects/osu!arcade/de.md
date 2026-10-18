@@ -14,7 +14,7 @@ Für die Anime-Convention [Wai-con](https://en.wikipedia.org/wiki/Wai-Con) in Pe
 
 Während der zweitägigen Convention versuchte peppy Feedback zu erhalten, indem er sowohl Anfängern, als auch [Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)- und [Elite Beat Agents](/wiki/iNiS_games#elite-beat-agents)-Veteranen beim Spielen zusah.
 
-Viele Besucher der Convention wollten den Arcade-Automaten ausprobieren, so sehr, dass es aufgrund der konstanten Menschenmenge um das Gerät zumeist schwierig war, den Bildschirm zu sehen. Insgesamt kam der Arcade-Automat bei der Community gut an, wobei manche Spieler darauf hinwiesen, dass man wunde Finger bekam, wenn man zu lang spielte.[^sore-fingers]
+Viele Besucher der Convention wollten den Arcade-Automaten ausprobieren, sogar so sehr, dass es aufgrund der konstanten Menschenmenge um das Gerät zumeist schwierig war, den Bildschirm zu sehen. Insgesamt kam der Arcade-Automat bei der Community gut an, wobei manche Spieler darauf hinwiesen, dass man wunde Finger bekam, wenn man zu lang spielte.[^sore-fingers]
 
 ## Zweiter Prototyp
 
