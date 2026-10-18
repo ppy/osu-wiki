@@ -57,7 +57,7 @@ Group leaders denoted in **bold**.
 
 ## Links
 
-- [Information spreadsheet](https://www.twitch.tv/videos/2904438814)
+- [Information spreadsheet](https://docs.google.com/spreadsheets/d/136yKaeBtlxHo7o7TQxHflLOw1T67ahn8vF2FTJ0IjFc?rm=minimal)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2248588)
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/58)
