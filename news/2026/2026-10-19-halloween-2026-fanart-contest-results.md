@@ -74,7 +74,7 @@ You can click on any of the banners to view the full image.
 
 [![](https://assets.ppy.sh/contests/296/banners/Kourihase.jpg)](https://assets.ppy.sh/contests/296/winners/Kourihase.png)
 
-[**Kourihase**](https://osu.ppy.sh/users/13298982)'s way with colours mesmerised **541** voters with how such a spooky theme can look so cute! Octo-Dean approved ✅
+[**Kourihase**](https://osu.ppy.sh/users/13298982)'s way with colours mesmerised **541** voters with how such a spooky theme can look so cute! Octo-peppy approved. ✅
 
 [![](https://assets.ppy.sh/contests/296/banners/Bajan%20Canadian.jpg)](https://assets.ppy.sh/contests/296/winners/Bajan%20Canadian.png)
 
@@ -96,19 +96,19 @@ As per tradition, we can't have a fanart contest without [peppy](https://osu.ppy
 
 [![](https://assets.ppy.sh/contests/296/banners/yasyrus.jpg)](https://assets.ppy.sh/contests/296/winners/yasyrus.png)
 
-[**yasyrus**](https://osu.ppy.sh/users/14856576)'s artwork depicting a swarm of Don may be one of the scariest pieces of the season. Handling two drums is already difficult as it is, let alone an entire school of sentient mini-percussion instruments...
+[**yasyrus**](https://osu.ppy.sh/users/14856576)'s artwork depicting a swarm of Dons may be one of the scariest pieces of the season. Handling two drums is already difficult as it is, let alone an entire school of sentient percussion specialists...
 
 [![](https://assets.ppy.sh/contests/296/banners/-%20Y%20u%20m%20i%20J%20i-.jpg)](https://assets.ppy.sh/contests/296/winners/-%20Y%20u%20m%20i%20J%20i-.jpg)
 
-[**- Y u m i J i-**](https://osu.ppy.sh/users/7656048)'s work of a cozy temple reunion between pippi and Mocha as Jiangshi was this season's best (and only!) Chinese representation best suited for these festivities.
+[**- Y u m i J i-**](https://osu.ppy.sh/users/7656048)'s work of a cozy temple reunion between Jiangshi pippi and Mocha was this season's best (and only!) Chinese representation suited for these festivities.
 
 [![](https://assets.ppy.sh/contests/296/banners/Raybean.jpg)](https://assets.ppy.sh/contests/296/winners/Raybean.png)
 
-[**Raybean**](https://osu.ppy.sh/users/16676388)'s paper texture collage of pippi cosplaying as Remilia Scarlet was one of this season's most creative compositions! The mix of cut-outs and theming of their work made it stand out even among peppy's picks.
+[**Raybean**](https://osu.ppy.sh/users/16676388)'s paper texture collage of pippi cosplaying as Remilia Scarlet was one of this season's most creative compositions! The mix of cut-outs and theming of their work made it stand out from the rest, marking it well worthy of inclusion.
 
 [![](https://assets.ppy.sh/contests/296/banners/XETTE.jpg)](https://assets.ppy.sh/contests/296/winners/XETTE.jpg)
 
-[**XETTE**](https://osu.ppy.sh/users/39304029)'s got the whole squad lined up in a vivid, colorful yet simple composition. Packed full with details, everyone's costume manage to stand out on their own — yes, even Chirou's!
+[**XETTE**](https://osu.ppy.sh/users/39304029)'s got the whole squad lined up in a vivid, colourful yet simple composition. Packed full with details, everyone's costume manage to stand out on their own — yes, even Chirou's!
 
 ---
 
