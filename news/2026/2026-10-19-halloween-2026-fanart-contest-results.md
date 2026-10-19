@@ -114,7 +114,9 @@ As per tradition, we can't have a fanart contest without [peppy](https://osu.ppy
 
 We express our eternal gratitude to everyone who participated, both to the new faces and returning artists alike!
 
-You'll find all the winning entries shown above on the main menu (make sure you turn on seasonal backgrounds in the settings if you haven't already). If you don't see your favourite entry, feel free to [download a zip file containing all entries of the Halloween 2026 Fanart Contest here](https://assets.ppy.sh/contests/296/Halloween2026FanartSubmissions.zip)! Maybe it's about time your desktop wallpaper got a proper dress-up for Halloween.
+You'll find a selection of the winning entries shown above on the main menu, so make sure you turn on seasonal backgrounds in the settings if you haven't already. Note that one or more entries were omitted for this round as being deemed not a great fit for in-game display.
+
+If you don't see your favourite entry, feel free to [download a zip file containing all entries of the Halloween 2026 Fanart Contest here](https://assets.ppy.sh/contests/296/Halloween2026FanartSubmissions.zip)! Maybe it's about time your desktop wallpaper got a proper dress-up for Halloween.
 
 If you have [osu!supporter](/wiki/osu!supporter), you can drag and drop any image into the game's main menu to set it as the background (by itself — it won't join the others in the rotation). Even if you don't have an osu!supporter tag active, the **top 4 entries** will be available as part of the selection of **default profile page banners** until the end of the next art contest (click the pen icon at the bottom right of your profile cover).
 
