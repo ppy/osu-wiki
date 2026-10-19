@@ -102,7 +102,7 @@ Zu diesem Zeitpunkt wirst du jedoch schon ein paar beeindruckendere Scores geset
 
 ### Warum habe ich pp verloren, nachdem ich einen neuen Score gesetzt habe?
 
-**Der pp-Algorithmus wird gelegentlich aktualisiert und Scores werden neu berechnet, um die neuen Änderungen widerszuspiegeln, was eine plötzliche Verringerung oder Erhöhung deiner gesamten pp bewirken kann, wenn du während dieses Prozesses einen Score setzt.**
+**Der pp-Algorithmus wird gelegentlich aktualisiert und Scores werden neu berechnet, um die neuen Änderungen widerzuspiegeln, was eine plötzliche Verringerung oder Erhöhung deiner gesamten pp bewirken kann, wenn du während dieses Prozesses einen Score setzt.**
 
 Updates der Performance-Points-Systeme werden von Ankündigungen im Spiel und auf der Webseite begleitet, die mehr Informationen über den Prozess der Neuberechnung und die Änderungen selbst enthalten.
 
@@ -130,7 +130,7 @@ Am 16. Januar 2021 wurde das ppv2-System verändert, mit dem Ziel an schwieriger
 - Die Einführung eines Skalierungsfaktors für den Verlust von pp bei der Benutzung der Mod [No Fail](/wiki/Gameplay/Game_modifier/No_Fail), basierend darauf wie oft verfehlt wird.
 - Die Einführung eines Skalierungsfaktors für den Verlust von pp bei der Benutzung der Mod [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out), basierend darauf wie viele Spinner eine Beatmap enthält.
 - Die Rate des Verlusts von pp wurde angepasst, um bei längeren Beatmaps mit höherer Combo nachsichtiger zu sein.
-- Kleinerer Gewinn von pp bei schlechter [Genauigkeit](/wiki/Gameplay/Accuracy).
+- Bei schlechter [Genauigkeit](/wiki/Gameplay/Accuracy) werden weniger pp vergeben.
 
 Am 28. Oktober 2024 wurden weitere Änderungen eingebaut. Die Details dieser Änderungen werden im [dazugehörigen Newsbeitrag](https://osu.ppy.sh/home/news/2024-10-28-performance-points-star-rating-updates) ausführlich erläutert. Die wichtigsten Punkte sind:
 
