@@ -158,7 +158,7 @@ On October 28, 2024, more changes were deployed. The specifics of the changes ma
 - osu!mania
   - Adjust LN value scaling to address overweighted LN maps
 
-On July 3, 2026, the algorithm was changed again. Details are in the [corresponding news post](https://osu.ppy.sh/home/news/2026-07-03-performance-points-star-rating-updates), but here are the main changes:
+On July 3, 2026, an update to the algorithm was [announced in a news post](https://osu.ppy.sh/home/news/2026-07-03-performance-points-star-rating-updates), with the main changes being:
 
 - osu!
   - AR and HD bonuses replaced with the Reading skill
