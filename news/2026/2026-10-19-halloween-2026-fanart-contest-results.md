@@ -20,11 +20,11 @@ The votes have been tallied, the spirits have spoken, and the results are in!
 You can click on any of the banners to view the full image.
 :::
 
-[![](https://assets.ppy.sh/contests/296/banners/Dreamxiety.jpg)](https://assets.ppy.sh/contests/296/winners/Dreamxiety.png)
+[![](https://assets.ppy.sh/contests/296/banners/Dreamxiety.jpg)](https://assets.ppy.sh/contests/296/winners/Dreamxiety.jpg)
 
 [**Dreamxiety**](https://osu.ppy.sh/users/13103233) yet again impressed the community by pulling no punches. Presenting a beauty-and-the-beast-esque scene with pippi, an unlikely companion and her sidekick Don. Seeing no shortage of finesse and style, **1119** voters immediately recognised art worthy of nothing less than victory.
 
-[![](https://assets.ppy.sh/contests/296/banners/Triantafyllia.jpg)](https://assets.ppy.sh/contests/296/winners/Triantafyllia.png)
+[![](https://assets.ppy.sh/contests/296/banners/Triantafyllia.jpg)](https://assets.ppy.sh/contests/296/winners/Triantafyllia.jpg)
 
 [**Triantafyllia**](https://osu.ppy.sh/users/17084594)'s Alisa floating amid the crows attracted a flock of **897** curious connoisseurs. Staring into the vivid painting, their awe made it soar into the silver spot of the contest.
 
@@ -60,7 +60,7 @@ You can click on any of the banners to view the full image.
 
 [**wxyz**](https://osu.ppy.sh/users/14954732)'s quiet scene of pippi's peaceful slumber by flowers and skulls took the breaths away from **605** prince charmings, all visiting to admire such beauty macabre.
 
-[![](https://assets.ppy.sh/contests/296/banners/Sey10.jpg)](https://assets.ppy.sh/contests/296/winners/Sey10.png)
+[![](https://assets.ppy.sh/contests/296/banners/Sey10.jpg)](https://assets.ppy.sh/contests/296/winners/Sey10.jpg)
 
 [**Sey10**](https://osu.ppy.sh/users/5843837)'s demonic pippi made a bloody explosive entrance to the contest on a full moon night, turning **585** humans into loyal servants and elevating her status to an undisputed winner.
 
@@ -86,7 +86,7 @@ Let's not worry too much about a certain resident [mango](https://osu.ppy.sh/use
 
 As per tradition, we can't have a fanart contest without [peppy](https://osu.ppy.sh/users/2) blessing the main menu with even more eerie treats.
 
-[![](https://assets.ppy.sh/contests/296/banners/Ch3rryL.jpg)](https://assets.ppy.sh/contests/296/winners/Ch3rryL.png)
+[![](https://assets.ppy.sh/contests/296/banners/Ch3rryL.jpg)](https://assets.ppy.sh/contests/296/winners/Ch3rryL.jpg)
 
 [**Ch3rryL**](https://osu.ppy.sh/users/20272150)'s cutesy depiction of both pippi and Mocha accompanied by lil' Don stroke a chord on peppy's heart this Halloween.
 
@@ -98,7 +98,7 @@ As per tradition, we can't have a fanart contest without [peppy](https://osu.ppy
 
 [**yasyrus**](https://osu.ppy.sh/users/14856576)'s artwork depicting a swarm of Don may be one of the scariest pieces of the season. Handling two drums is already difficult as it is, let alone an entire school of sentient mini-percussion instruments...
 
-[![](https://assets.ppy.sh/contests/296/banners/-%20Y%20u%20m%20i%20J%20i-.jpg)](https://assets.ppy.sh/contests/296/winners/-%20Y%20u%20m%20i%20J%20i-.png)
+[![](https://assets.ppy.sh/contests/296/banners/-%20Y%20u%20m%20i%20J%20i-.jpg)](https://assets.ppy.sh/contests/296/winners/-%20Y%20u%20m%20i%20J%20i-.jpg)
 
 [**- Y u m i J i-**](https://osu.ppy.sh/users/7656048)'s work of a cozy temple reunion between pippi and Mocha as Jiangshi was this season's best (and only!) Chinese representation best suited for these festivities.
 
@@ -106,7 +106,7 @@ As per tradition, we can't have a fanart contest without [peppy](https://osu.ppy
 
 [**Raybean**](https://osu.ppy.sh/users/16676388)'s paper texture collage of pippi cosplaying as Remilia Scarlet was one of this season's most creative compositions! The mix of cut-outs and theming of their work made it stand out even among peppy's picks.
 
-[![](https://assets.ppy.sh/contests/296/banners/XETTE.jpg)](https://assets.ppy.sh/contests/296/winners/XETTE.png)
+[![](https://assets.ppy.sh/contests/296/banners/XETTE.jpg)](https://assets.ppy.sh/contests/296/winners/XETTE.jpg)
 
 [**XETTE**](https://osu.ppy.sh/users/39304029)'s got the whole squad lined up in a vivid, colorful yet simple composition. Packed full with details, everyone's costume manage to stand out on their own — yes, even Chirou's!
 
