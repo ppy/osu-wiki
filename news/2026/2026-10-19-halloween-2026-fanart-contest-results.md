@@ -104,7 +104,7 @@ As per tradition, we can't have a fanart contest without [peppy](https://osu.ppy
 
 [![](https://assets.ppy.sh/contests/296/banners/Raybean.jpg)](https://assets.ppy.sh/contests/296/winners/Raybean.png)
 
-[**Raybean**](https://osu.ppy.sh/users/16676388)'s paper texture collage of pippi cosplaying as Remilia Scarlet was one of this season's most creative compositions! The mix of cut-outs and theming of their work made it stand out from the rest, marking it well worthy of inclusion.
+[**Raybean**](https://osu.ppy.sh/users/16676388)'s paper texture collage (with some design help from [Dreamxiety](https://osu.ppy.sh/users/13103233) or so we hear!) of pippi cosplaying as Remilia Scarlet was one of this season's most creative compositions! The mix of cut-outs and theming of their work made it stand out from the rest, marking it well worthy of inclusion.
 
 [![](https://assets.ppy.sh/contests/296/banners/XETTE.jpg)](https://assets.ppy.sh/contests/296/winners/XETTE.jpg)
 
