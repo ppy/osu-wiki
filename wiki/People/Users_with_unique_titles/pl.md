@@ -322,6 +322,7 @@ Twórcy storyboardów, którzy wykazali się niezwykłym talentem i ponadprzeci�
 - ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552)
 - ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377)
 - ::{ flag=PL }:: [Exile-](https://osu.ppy.sh/users/2559349)
+- ::{ flag=NZ }:: [LowGraphics](https://osu.ppy.sh/users/5383942)
 - ::{ flag=RU }:: [Shmiklak](https://osu.ppy.sh/users/5504231)
 - ::{ flag=RU }:: [Tommy Phelps](https://osu.ppy.sh/users/10974581)
 - ::{ flag=DZ }:: [VenerableNyanta](https://osu.ppy.sh/users/12243368)
