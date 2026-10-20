@@ -18,7 +18,7 @@ The **3 Digit Taiko World Cup 2026** (***3TWC 2026***) is a worldwide 2v2 double
 | Qualifiers mappool showcase | 2026-09-27 16:00 (UTC) |
 | Qualifiers | 2026-10-03/2026-10-04 |
 | Qualifiers seedings and Round of 32 mappool showcase | 2026-10-04 22:00 (UTC) |
-| Round of 32 / Round of 24 | 2026-10-10/2026-10-11 |
+| Round of 32 | 2026-10-10/2026-10-11 |
 | Round of 16 | 2026-10-17/2026-10-18 |
 | Quarterfinals | 2026-10-24/2026-10-25 |
 | Semifinals[^semifinals-delay] | 2026-10-31/2026-11-01 |
