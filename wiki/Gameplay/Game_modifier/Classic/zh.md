@@ -66,7 +66,7 @@ tags:
 
 ### ![][osu!catch] osu!catch
 
-如上文所述，osu!catch 中不存在 Classic 模组，但在 osu!(stable) 中获得的分数依然会使用该模组。在这种情况下，其得分倍率为 `1.00x`。
+如上文所述，osu!catch 中不存在 Classic 模组，但在 osu!(stable) 中获得的分数依然会使用该模组表示。在这种情况下，其得分倍率为 `1.00x`。
 
 ### ![][osu!mania] osu!mania
 
