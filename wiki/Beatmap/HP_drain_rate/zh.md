@@ -21,7 +21,7 @@ tags:
 **备注:** 关于掉血速度相关的规定，参见：[谱面上架标准 (RC)](/wiki/Ranking_criteria)
 :::
 
-**掉血速度** (***HP***) 是一张[谱面](/wiki/Beatmap)的难度设置，控制随时间被动失去的[血量](/wiki/Gameplay/Health)。同时也影响玩家错失物件时的血量惩罚，以及准确命中[打击物件](/wiki/Gameplay/Hit_object)时血量恢复。
+**掉血速度** (***HP***) 是一张[谱面](/wiki/Beatmap)的难度设置，控制随时间被动失去的[血量](/wiki/Gameplay/Health)。同时也影响玩家错失物件时的血量惩罚，以及准确命中[打击物件](/wiki/Gameplay/Hit_object)时的血量恢复。
 
 HP 值取值范围为 0 ~ 10，其中 10 是惩罚最严的，0 是最宽松的。<!-- TODO: quantify what the value actually means -->
 
