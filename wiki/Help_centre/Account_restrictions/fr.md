@@ -6,7 +6,9 @@ outdated_since: 07144764dfa8ee93e7d1e8144a2ed8b5fd98ab4e
 
 # Restrictions relatives aux comptes
 
-*Page principale : [Centre d'assistance](/wiki/Help_centre)*
+::: alert-note
+**Page principale** : [Centre d'assistance](/wiki/Help_centre)
+:::
 
 Une restriction est une exclusion de la communauté imposée aux comptes qui présentent un comportement anormal, suspect ou qui ne respectent pas les règles.
 

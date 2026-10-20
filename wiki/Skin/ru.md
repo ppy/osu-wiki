@@ -15,4 +15,4 @@
 - [Completed Skins Compendium](https://compendium.skinship.xyz/)
 - [Circle People Pro Player Skin Collection](https://circle-people.com/skins/)
 
-Помимо перечисленного, многие игроки, в том числе топовые, выкладывают свои скины [в своём профиле](/wiki/osu!supporter#editable-profile-section), в описаниях видео на YouTube, или распространяют их через команды в чате Twitch.
+Помимо перечисленного, многие игроки, в том числе топовые, выкладывают свои скины [в своём профиле](/wiki/osu!supporter#отдельный-раздел-профиля), в описаниях видео на YouTube, или распространяют их через команды в чате Twitch.
