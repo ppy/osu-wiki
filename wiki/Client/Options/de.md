@@ -120,8 +120,8 @@ Wenn du die Dropdown-Liste zu `FPS-Limit` öffnest, wirst du folgende Optionen s
 | :-- | :-- | :-- | :-- |
 | `Auflösung wählen` | Stelle die Auflösung des Spiel-Clients ein. Die aufgelisteten Auflösungen sind auf das begrenzt, was dein Bildschirm/deine Grafikkarte unterstützt. | Dropdown-Menü |  |
 | `Vollbildmodus` | Führt den Spiel-Client im Vollbildmodus aus (normalerweise reduziert das die Eingabelatenzzeit). | Checkbox | `Aktiviert` |
-| `Render at native resolution` | Benutze die volle native Auflösung, aber stelle osu! in einem kleineren, zentrierten Teil des Bildschirms dar. | Checkbox | `Aktiviert` |
 | `Minimise on alt-tab during fullscreen` | Minimiere das Fenster beim Drücken von `Alt` + `Tab`. | Checkbox | `Aktiviert` |
+| `Render at native resolution` | Benutze die volle native Auflösung, aber stelle osu! in einem kleineren, zentrierten Teil des Bildschirms dar. | Checkbox | `Deaktiviert` |
 | `Horizontale Position` | Passe den horizontalen Offset für den Letterbox-Modus an. Erscheint nur, wenn `Render at native resolution` aktiviert ist. | Schieberegler | `0 %` |
 | `Vertikale Position` | Passe den vertikalen Offset für den Letterbox-Modus an. Erscheint nur, wenn `Render at native resolution` aktiviert ist. | Schieberegler | `0 %` |
 
@@ -136,7 +136,7 @@ Wenn du die Dropdown-Liste zu `FPS-Limit` öffnest, wirst du folgende Optionen s
 | `Storyboards` | Erlaube die Anzeige von Storyboards in den Hintergründen von Beatmaps (kann pro Beatmap deaktiviert werden). | Checkbox | `Aktiviert` |
 | `Combo-Bilder` | Erlaube das Anzeigen von Combo-Bildern beim Erreichen von bestimmten Combo-Werten. | Checkbox | `Deaktiviert` |
 | `Trefferleuchten` | Zeigt einen dezenten Leuchteffekt beim Anklicken von Circles. Das Leuchten während der Kiai Time wird nicht deaktiviert. | Checkbox | `Aktiviert` |
-| `Shadereffekte` | Aktiviere Shadereffekte im Spiel. Wenn deine Grafikkarte dies nicht unterstützt, wird diese Option automatisch deaktiviert. | Checkbox | `Disabled` |
+| `Shadereffekte` | Aktiviere Shadereffekte im Spiel. Wenn deine Grafikkarte dies nicht unterstützt, wird diese Option automatisch deaktiviert. | Checkbox | `Deaktiviert` |
 | `Unschärfefilter` | Passe die Shadereffekte an, damit diese weniger auffallend wirken. Das wird automatisch `Shadereffekte` aktivieren. | Checkbox | `Deaktiviert` |
 | `Screenshot-Format` | Stelle das Dateiformat für Screenshots ein. | Dropdown-Menü | `JPEG (Web-geeignet)` |
 
@@ -285,7 +285,7 @@ Dieser Abschnitt ist über Eingabeperipheriegeräte.
 | :-- | :-- | :-- | :-- |
 | `Mausgeschwindigkeit` | Passe die Sensitivität des Mauszeigers an. Sofern verändert, sollte `Raw Input` automatisch aktiviert werden. | Schieberegler | `1x` |
 | `Raw Input` | Liest die Positionsdaten für Maus/Tablet direkt von der Hardware aus, ohne eine Nachbearbeitung (dadurch wird die Mausbeschleunigung ignoriert). | Checkbox | `Deaktiviert` |
-| `Absoluten Raw Input auf das osu! Fenster abbilden` | Beschränkt Eingabegeräte mit absoluter Positionierung (z. B. Stift-Tablets) nur auf das Fenster des Spiel-Clients. | Checkbox | `Deaktiviert` |
+| `Absoluten Raw Input auf das osu! Fenster abbilden` | Beschränkt Eingabegeräte mit absoluter Positionierung (z. B. Stift-Tablets) nur auf das Fenster des Spiel-Clients. | Checkbox | Derselbe Wert wie bei `Raw Input` |
 | `Mauszeiger eingrenzen` | Verhindert, dass der Mauszeiger das Fenster des Spiel-Clients verlassen kann. Siehe unten für weitere Details. | Dropdown-Menü | `Nur für Vollbildmodus` |
 | `Mausrad beim Spielen deaktivieren` | Deaktiviert das Mausrad während des Spielens. Das Mausrad zu benutzen, kann die allgemeine Lautstärke verändern. | Checkbox | `Deaktiviert` |
 | `Maustasten beim Spielen deaktivieren` | Deaktiviert Maustasten während des Spielens. Das ist hilfreich für Spieler, die mit Tastatur spielen. | Checkbox | `Deaktiviert` |
@@ -330,11 +330,11 @@ Die Optionen hier beeinflussen nur das Arbeiten innerhalb des Editors oder den T
 
 | Name | Beschreibung | Typ | Standardwert |
 | :-- | :-- | :-- | :-- |
-| `Hintergrundvideo` | Spielt das Hintergrundvideo der Beatmap während dem Editieren ab. | Checkbox | `Deaktiviert` |
-| `Standardskin verwenden` | Benutzt den Standardskin von osu! während dem Editieren, unabhängig von dem aktuell ausgewählten Skin. | Checkbox | `Deaktiviert` |
-| `Snaking Slider` | Aktiviert das Bewegen der Slider während dem Editieren. | Checkbox | `Aktiviert` |
-| `Hit Animationen` | Aktiviert Trefferanimationen während dem Editieren. | Checkbox | `Deaktiviert` |
-| `Follow Points` | Aktiviert Follow Points während dem Editieren. | Checkbox | `Aktiviert` |
+| `Hintergrundvideo` | Spielt das Hintergrundvideo der Beatmap während des Editierens ab. | Checkbox | `Aktiviert` |
+| `Standardskin verwenden` | Benutzt den Standardskin von osu! während des Editierens, unabhängig vom aktuell ausgewählten Skin. | Checkbox | `Deaktiviert` |
+| `Snaking Slider` | Aktiviert das Bewegen der Slider während des Editierens. | Checkbox | `Aktiviert` |
+| `Hit Animationen` | Aktiviert Trefferanimationen während des Editierens. | Checkbox | `Deaktiviert` |
+| `Follow Points` | Aktiviert Follow Points während des Editierens. | Checkbox | `Aktiviert` |
 | `Stapeln` | Stapelt die Hit-Circles wie im Spiel. | Checkbox | `Aktiviert` |
 
 Diese Optionen können durch das Menü `Ansicht` im Beatmap-Editor manuell überschrieben werden.
