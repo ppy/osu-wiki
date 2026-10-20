@@ -42,14 +42,14 @@ The Catch Indonesia Cup Open 2026 is run by various osu! community members from 
 | :-- | :-- |
 | Host | ::{ flag=ID }:: [Intel21](https://osu.ppy.sh/users/1272422), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898) |
 | Mappool selector | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=TW }:: [Beepu](https://osu.ppy.sh/users/4958376), ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) |
-| Custom mapper | *TBA* |
+| Custom mapper | ::{ flag=ID }:: [dika312](https://osu.ppy.sh/users/741613), ::{ flag=ID }:: [Sololiquy](https://osu.ppy.sh/users/4350087), ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), *more TBA* |
 | Playtester | ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817), ::{ flag=US }:: [Elux](https://osu.ppy.sh/users/12004983), ::{ flag=CL }:: [Pekorrat](https://osu.ppy.sh/users/1250096) |
-| Streamer | *TBA* |
-| Commentator | *TBA* |
+| Streamer | ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), *more TBA* |
+| Commentator | ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=ID }:: [dika312](https://osu.ppy.sh/users/741613), *TBA* |
 | Referee | *TBA* |
 | Design coordinator | ::{ flag=MY }:: [mochasan\_](https://osu.ppy.sh/users/23804364) |
 | Graphic designer | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592), ::{ flag=ID }:: [smsrdzc](https://osu.ppy.sh/users/38505034), ::{ flag=ID }:: [CubeixID200](https://osu.ppy.sh/users/10678919), ::{ flag=CA }:: [Aquatic\_3](https://osu.ppy.sh/users/22711091) |
-| Illustrator | ::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233), ::{ flag=ID }:: [Rezukitazu](https://osu.ppy.sh/users/2499880), ::{ flag=SG }:: [Hecatia](https://osu.ppy.sh/users/8244635), ::{ flag=GB }:: [pericrayola](https://osu.ppy.sh/users/31184671), ::{ flag=ID }:: Minato [(↗)](https://twitter.com/minato28507), ::{ flag=ID }:: Reminisensi [(↗)](https://twitter.com/Reminisensi_), ::{ flag=VN }:: Utopia [(↗)](https://twitter.com/_Utopia_Hope) |
+| Illustrator | ::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233), ::{ flag=ID }:: [Rezukitazu](https://osu.ppy.sh/users/2499880), ::{ flag=SG }:: [Hecatia](https://osu.ppy.sh/users/8244635),  ::{ flag=IN }:: [rrex](https://osu.ppy.sh/users/16827064), ::{ flag=GB }:: [pericrayola](https://osu.ppy.sh/users/31184671), ::{ flag=ID }:: Minato [(↗)](https://twitter.com/minato28507), ::{ flag=ID }:: Reminisensi [(↗)](https://twitter.com/Reminisensi_), ::{ flag=VN }:: Utopia [(↗)](https://twitter.com/_Utopia_Hope) |
 | Statistician | ::{ flag=SG }:: [lovemathboy](https://osu.ppy.sh/users/4220829) |
 | Wiki and newspost | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136) |
 
@@ -64,6 +64,26 @@ The Catch Indonesia Cup Open 2026 is run by various osu! community members from 
 ## Participants
 
 To be announced.
+
+## Mappools
+
+### Qualifiers
+
+**[Download the mappack here! (58 MB)](https://drive.google.com/file/d/18kD4tjWmEOHe_n5uKoANbueoUGZfnm3M/view)**
+
+- No Mod
+  1. [LV.4 feat. Yuu Ikeba - Sentimental Surge (Mojotax) \[Sensation\]](https://osu.ppy.sh/beatmapsets/2599185#osu/5809669)
+  2. [ARForest - Final Resonance (Sololiquy) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2639271#osu/5948755)
+  3. [Shounen Radio - neu (AnApple7) \[smile and cry; you and me!\]](https://osu.ppy.sh/beatmapsets/2337190#osu/5018067)
+- Hidden
+  1. [Mitsukiyo - Mikansei Romantic (feat. kotono) (sawarabi) \[Dramatic Love\]](https://osu.ppy.sh/beatmapsets/2464646#osu/5394778)
+  2. [Tanchiky - TouchDown (autofanboy) \[KickOff (CICO Edit)\]](https://osu.ppy.sh/beatmapsets/2639255#osu/5948698)
+- Hard Rock
+  1. [Imy - Countdown (EpanPan) \[Eternal Time\]](https://osu.ppy.sh/beatmapsets/2639244#osu/5948656)
+  2. [NewJeans - Right Now (Spectator) \[Overdose (CICO Ver.)\]](https://osu.ppy.sh/beatmapsets/2639588#fruits/5951344)
+- Double Time
+  1. [yanaginagi - Outsider (Spectator) \[Lumi's Rain\]](https://osu.ppy.sh/beatmapsets/2271671#osu/4882744)
+  2. [YUC'e - Cappuchino (Dika312) \[Cozy Rain\]](https://osu.ppy.sh/beatmapsets/2639250#osu/5948691)
 
 ## Ruleset
 
