@@ -17,11 +17,6 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm-rela
 - **Each beatmap must use at least two different custom combo colours unless the default skin is forced.** The combo colours must not blend with the beatmap's background/storyboard/video in any case. This is so hit objects are always visible to the player and custom skin's combo colours do not blend with the background accidentally.
 - **All actively clicked parts of objects must have at least one audible [hitsound](/wiki/Beatmapping/Hitsound) that does not blend with the song.** Players do not receive enough feedback otherwise. Using [keysounds](/wiki/Beatmapping/Hitsound#keysound) as hitnormals without other distinct additional hitsounds, for example, is not allowed.
 - **Difficulties must convert to other game modes without breaking star rating/performance points.** In certain cases, a `.osu` file can be formatted improperly, causing converted difficulties to incorrectly display star rating and reward inaccurate performance points.
-- **If the [drain time](/wiki/Beatmap/Drain_time) of each difficulty is...**
-  - **...lower than 3:30**, the lowest difficulty cannot be harder than a Normal.
-  - **...between 3:30 and 4:15**, the lowest difficulty cannot be harder than a Hard.
-  - **...between 4:15 and 5:00**, the lowest difficulty cannot be harder than an Insane.
-  - **[Break times](/wiki/Beatmap/Break) may be combined with [drain time](/wiki/Beatmap/Drain_time) to meet the above thresholds.** For the highest difficulty, this is limited to at most 30 seconds of break time. This does not apply to difficulties with less than 30 seconds of drain time.
 
 #### Guidelines
 
@@ -33,6 +28,19 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm-rela
 - **Spinner ends, slider ends, and slider reverses should have hitsound feedback.** If these are used to represent a held sound and do not align with a distinct sound, having no feedback is acceptable.
 - **Avoid using sound samples for sliderslide, sliderwhistle, and spinnerspin which do not naturally loop.** These hitsounds are continuous, meaning that their files play from start to end and loop as one continuous sound for the length of the object, so using sound files with a clear impact for them might lead to unwanted side effects.
 - **Avoid unjustified difficulty spikes.** Difficulty should be representative of the song's intensity.
+
+### Spread
+
+#### Rules
+
+The following list covers where the [spread](/wiki/Beatmap/Difficulty_spread) of a mapset must start, depending on the durations listed below. When a mapset contains difficulties with different durations, the shortest difficulty in the mapset will determine the required spread.
+
+- **If the [drain time](/wiki/Beatmap/Drain_time) of each difficulty is...**
+  - **...lower than 2:30**, the lowest difficulty cannot be harder than a Normal.
+  - **...between 2:30 and 3:15**, the lowest difficulty cannot be harder than a Hard.
+  - **...between 3:15 and 4:00**, the lowest difficulty cannot be harder than an Insane.
+
+**[Break times](/wiki/Beatmap/Break) may be combined with [drain time](/wiki/Beatmap/Drain_time) to meet the above thresholds.** For the highest difficulty, this is limited to at most 30 seconds of break time. This does not apply to difficulties with less than 30 seconds of drain time.
 
 ### Skinning
 

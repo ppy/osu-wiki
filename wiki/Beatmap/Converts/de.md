@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
   - convert beatmaps
   - converted beatmaps
@@ -21,12 +20,12 @@ Aktuell unterstützt osu! die Beatmap-Konvertierung vom [osu!-Spielmodus](/wiki/
 **Siehe auch:** [osu!taiko mapping/osu! conversion notes](/wiki/Game_mode/osu!taiko#osu!-conversion-notes)
 :::
 
-Konvertierte osu!taiko-Beatmaps werden anhand der Platzierung von [Hitsounds](/wiki/Beatmapping/Hitsound), dem Rhythmus und der Änderungen der Slidergeschwindigkeit in einer Beatmap generiert. Die Konvertierung folgt abhängig von den [Hit-Objekten](/wiki/Gameplay/Hit_object) und ihren entsprechenden Hitsounds dem folgenden Prinzip:
+Konvertierte osu!taiko-Beatmaps werden anhand der Platzierung von [Hitsounds](/wiki/Beatmapping/Hitsound), des Rhythmus und der Änderungen der Slidergeschwindigkeit in einer Beatmap generiert. Die Konvertierung folgt abhängig von den [Hit-Objekten](/wiki/Gameplay/Hit_object) und ihren entsprechenden Hitsounds dem folgenden Prinzip:
 
-- Circles, Sliderköpfe, Sliderenden und Sliderwiederholungen, denen keine zusätzlichen Hitsounds (z. B. keine Whistle (Pfeife), Clap (Klatschen) oder Finish) zugeordnet sind, werden zu roten Noten (Don) konvertiert.
-- Circles, Sliderköpfe, Sliderenden und Sliderwiederholungen, die die Hitsounds Whistle, Clap oder beides auslösen, werden zu blauen Noten (Katu) konvertiert.
-- Circles, Sliderköpfe, Sliderenden und Sliderwiederholungen, die den Hitsound Finish auslösen, werden zu großen roten Noten konvertiert.
-- Circles, Sliderköpfe, Sliderenden und Sliderwiederholungen, die ein Finish UND eine Whistle, ein Clap oder beides auslösen, werden zu großen blauen Noten konvertiert.
+- Circles, Sliderheads, Sliderenden und Sliderwiederholungen, denen keine zusätzlichen Hitsounds (z. B. keine Whistle (Pfeife), Clap (Klatschen) oder Finish) zugeordnet sind, werden zu roten Noten (Don) konvertiert.
+- Circles, Sliderheads, Sliderenden und Sliderwiederholungen, die die Hitsounds Whistle, Clap oder beides auslösen, werden zu blauen Noten (Katu) konvertiert.
+- Circles, Sliderheads, Sliderenden und Sliderwiederholungen, die den Hitsound Finish auslösen, werden zu großen roten Noten konvertiert.
+- Circles, Sliderheads, Sliderenden und Sliderwiederholungen, die ein Finish UND eine Whistle, ein Clap oder beides auslösen, werden zu großen blauen Noten konvertiert.
 - Sehr lange Slider werden zu Drumrolls konvertiert.
 - Spinner werden zu Dendens (shakers) konvertiert.
 
@@ -36,10 +35,10 @@ Konvertierte osu!taiko-Beatmaps werden anhand der Platzierung von [Hitsounds](/w
 **Siehe auch:** [osu!catch mapping/osu! conversion notes](/wiki/Game_mode/osu!catch#osu!-conversion-notes)
 :::
 
-Konvertierte osu!catch-Beatmaps werden anhand des Rhythmus und der *horizontalen Platzierung* (z. B. die Ausrichtung an der X-Achse) der [Hit-Objekte](/wiki/Gameplay/Hit_object) in einer Beatmap wie folgt generiert:
+Konvertierte osu!catch-Beatmaps werden anhand des Rhythmus und der *horizontalen Platzierung* (z. B. die Ausrichtung an der x-Achse) der [Hit-Objekte](/wiki/Gameplay/Hit_object) in einer Beatmap wie folgt generiert:
 
-- Circles, Sliderköpfe, Sliderenden und Sliderwiederholungen werden zu [Fruits](/wiki/Gameplay/Hit_object/Fruit) konvertiert.
-- Sliderpunkte werden zu [Juice Drops](/wiki/Gameplay/Hit_object/Juice_stream#drop) konvertiert.
+- Circles, Sliderheads, Sliderenden und Sliderwiederholungen werden zu [Fruits](/wiki/Gameplay/Hit_object/Fruit) konvertiert.
+- Sliderticks werden zu [Juice Drops](/wiki/Gameplay/Hit_object/Juice_stream#drop) konvertiert.
 - Sliderpfade werden zu [Droplets](/wiki/Gameplay/Hit_object/Juice_stream#droplet) konvertiert.
 - Spinner werden zu [Bananen](/wiki/Gameplay/Hit_object/Banana) konvertiert.
 
@@ -50,4 +49,4 @@ Konvertierte osu!mania-Beatmaps werden hauptsächlich anhand des Rhythmus der Be
 - Circles und kürzere Slider (z. B. [1/4-Slider](/wiki/Client/Beatmap_editor/Beat_snap_divisor)) werden zu normalen Notes konvertiert.
 - Spinner und längere Slider werden zu langen Notes konvertiert.
 
-Des Weiteren sind konvertierte osu!mania-Beatmaps in dieser Hinsicht einzigartig, da die generierte Beatmap abhängig vom Schwierigkeitsgrad der ursprünglichen Beatmap entweder [4K, 5K oder 7K](/wiki/Gameplay/Game_modifier/xK) sein kann.
+Des Weiteren sind konvertierte osu!mania-Beatmaps insofern einzigartig, dass die generierte Beatmap abhängig vom Schwierigkeitsgrad der ursprünglichen Beatmap entweder [4K, 5K oder 7K](/wiki/Gameplay/Game_modifier/xK) sein kann.
