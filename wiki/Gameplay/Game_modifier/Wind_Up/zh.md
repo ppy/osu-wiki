@@ -14,7 +14,7 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 
 #### Wind Up
 
-![Wind Up 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/WU.png)
+![Wind Up 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/WU.png?1)
 
 *你能跟上吗？*
 

@@ -12,7 +12,7 @@ tags:
 
 #### No Scope
 
-![No Scope 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/NS.png)
+![No Scope 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/NS.png?1)
 
 *![][osu!]: 光标到哪去了？*\
 *![][osu!catch]: 小人到哪去了？*

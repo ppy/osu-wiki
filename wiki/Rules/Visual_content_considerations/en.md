@@ -51,7 +51,9 @@ In certain circumstances, some exceptions may apply for artistic use of high-eff
 
 ## Getting your image assessed
 
-*See: [Content voting process](/wiki/Rules/Content_voting_process).*
+::: alert-note
+**See also:** [Content voting process](/wiki/Rules/Content_voting_process)
+:::
 
 Images that are used anywhere on the site outside of a beatmap (avatars, profile covers, userpages, etc) are **not** subject to the voting procedure explained below and may be removed at any time at the discretion of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) (GMT).
 

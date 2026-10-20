@@ -1,5 +1,7 @@
 ---
 no_native_review_since: 2f6e3d4239952f6ec0084111a5df129ad1840c05 Niva
+outdated_translation: true
+outdated_since: e7163973aa4c854dcc0455e3f696b608bf0852f7
 ---
 
 # Melaporkan tindak pelecehan
