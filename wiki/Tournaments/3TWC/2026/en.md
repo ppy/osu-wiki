@@ -103,91 +103,91 @@ The 3 Digit Taiko World Cup 2026 is run by various community members.
 ### Quarterfinals
 
 - No Mod
-  1. [katagiri - c0pyf0x (Raphalge) \[megu's inn3r 0ni\]](https://osu.ppy.sh/beatmaps/4657899)
-  2. [Kara - Viltus (Nwolf) \[old\]](https://osu.ppy.sh/beatmaps/5949821)
-  3. [Yousei Teikoku - Kyouki Chinden (ler1211) \[Yandere Oni\]](https://osu.ppy.sh/beatmaps/4006317)
-  4. [Sakuzyo feat. Nikki Simmons - Destr0yer (Minh) \[destroy the happy end\]](https://osu.ppy.sh/beatmaps/5949854)
-  5. [YAMAGEN'S DEVILELIET - EYES OF DEVILELIET (ulko) \[SIGHT OF BEAST\]](https://osu.ppy.sh/beatmaps/5949823)
-  6. [Tanchiky - ENERGY SYNERGY MATRIX (Genjuro) \[E.S.M.\]](https://osu.ppy.sh/beatmaps/2591999)
+  1. [katagiri - c0pyf0x (Raphalge) \[megu's inn3r 0ni\]](https://osu.ppy.sh/beatmapsets/2169957#taiko/4657899)
+  2. [Kara - Viltus (Nwolf) \[old\]](https://osu.ppy.sh/beatmapsets/2639390#taiko/5949821)
+  3. [Yousei Teikoku - Kyouki Chinden (ler1211) \[Yandere Oni\]](https://osu.ppy.sh/beatmapsets/1938037#taiko/4006317)
+  4. [Sakuzyo feat. Nikki Simmons - Destr0yer (Minh) \[destroy the happy end\]](https://osu.ppy.sh/beatmapsets/2574308#taiko/5949854)
+  5. [YAMAGEN'S DEVILELIET - EYES OF DEVILELIET (ulko) \[SIGHT OF BEAST\]](https://osu.ppy.sh/beatmapsets/2639392#taiko/5949823)
+  6. [Tanchiky - ENERGY SYNERGY MATRIX (Genjuro) \[E.S.M.\]](https://osu.ppy.sh/beatmapsets/1247020#taiko/2591999)
 - Hidden
-  1. [MYUKKE. - The Revival of Eighteen (Lumenite-) \[18\]](https://osu.ppy.sh/beatmaps/5949816)
-  2. [chelmico - Easy Breezy (7\_7 bootleg) (Ksyro\_) \[team uk twc type of beat\]](https://osu.ppy.sh/beatmaps/5949871)
+  1. [MYUKKE. - The Revival of Eighteen (Lumenite-) \[18\]](https://osu.ppy.sh/beatmapsets/2639388#taiko/5949816)
+  2. [chelmico - Easy Breezy (7\_7 bootleg) (Ksyro\_) \[team uk twc type of beat\]](https://osu.ppy.sh/beatmapsets/2639414#taiko/5949871)
 - Hard Rock
-  1. [Akhuta - Ludus In Tenebris (ulko) \[Nightmare\]](https://osu.ppy.sh/beatmaps/5949831)
-  2. [S3RL - Feel The Melody (Mortis Bootleg) (Cut Ver.) (knibblet) \[Music Is My Only Drug (3TWC Edit)\]](https://osu.ppy.sh/beatmaps/5949808)
+  1. [Akhuta - Ludus In Tenebris (ulko) \[Nightmare\]](https://osu.ppy.sh/beatmapsets/2639396#taiko/5949831)
+  2. [S3RL - Feel The Melody (Mortis Bootleg) (Cut Ver.) (knibblet) \[Music Is My Only Drug (3TWC Edit)\]](https://osu.ppy.sh/beatmapsets/2639382#taiko/5949808)
 - Double Time
-  1. [Aventura - Mi Corazoncito (ulko) \[Mi Condena\]](https://osu.ppy.sh/beatmaps/5949836)
-  2. [DJ Raisei - No Hi-TECH No Life (Eltigant) \[Oni\]](https://osu.ppy.sh/beatmaps/4883552)
+  1. [Aventura - Mi Corazoncito (ulko) \[Mi Condena\]](https://osu.ppy.sh/beatmapsets/2639399#taiko/5949836)
+  2. [DJ Raisei - No Hi-TECH No Life (Eltigant) \[Oni\]](https://osu.ppy.sh/beatmapsets/2276254#taiko/4883552)
 - Double Time + Hidden
-  1. [Miku Sawai - Colorful.(Asterisk DnB Remix) (Charlotte) \[Oni\]](https://osu.ppy.sh/beatmaps/1421041)
+  1. [Miku Sawai - Colorful.(Asterisk DnB Remix) (Charlotte) \[Oni\]](https://osu.ppy.sh/beatmapsets/672223#taiko/1421041)
 - Double Time + Hard Rock
-  1. [FAKE TYPE. feat. MAXBET - Volstead Bar (Quorum) \[Oni (Edit Ver.)\]](https://osu.ppy.sh/beatmaps/5949810)
+  1. [FAKE TYPE. feat. MAXBET - Volstead Bar (Quorum) \[Oni (Edit Ver.)\]](https://osu.ppy.sh/beatmapsets/1644174#taiko/5949810)
 - Free Mod
-  1. [yaku - BEAMFORMiNG (OnosakiHito) \[BEATMAPFORMiNG\]](https://osu.ppy.sh/beatmaps/5949858)
-  2. [EBIMAYO - HYPERBOUNCE (nevqr) \[ZXCV (L VER.)\]](https://osu.ppy.sh/beatmaps/5743464)
+  1. [yaku - BEAMFORMiNG (OnosakiHito) \[BEATMAPFORMiNG\]](https://osu.ppy.sh/beatmapsets/2639408#taiko/5949858)
+  2. [EBIMAYO - HYPERBOUNCE (nevqr) \[ZXCV (L VER.)\]](https://osu.ppy.sh/beatmapsets/2577937#taiko/5743464)
 - Tiebreaker
-  1. **[ikaruga\_nex - SICK ROCK CRAZY (nevqr) \[3TWC SUTER STVRTFINALOVY\]](https://osu.ppy.sh/beatmaps/5949859)**
+  1. **[ikaruga\_nex - SICK ROCK CRAZY (nevqr) \[3TWC SUTER STVRTFINALOVY\]](https://osu.ppy.sh/beatmapsets/2639409#taiko/5949859)**
 
 ### Round of 16
 
 - No Mod
-  1. [cosMoP@BousouP - Monopole. (Shinsekai-) \[Electromagnetism.\]](https://osu.ppy.sh/beatmaps/5934478)
-  2. [Terminal 11 - Sparkle Downer (\_CaptainZero) \[killjoy (edit)\]](https://osu.ppy.sh/beatmaps/5932821)
-  3. [Shounen Zodiac - Stray March (Raphalge) \[Oni\]](https://osu.ppy.sh/beatmaps/5934451)
-  4. [Pa's Lam System - I'm Coming (Mtell Future core Bootleg) (SolaEclipse) \[...Pause\]](https://osu.ppy.sh/beatmaps/5934477)
-  5. [ryu5150 - Louder than steel (Cut Ver.) (reisen91937) \[Ironclad\]](https://osu.ppy.sh/beatmaps/5934459)
+  1. [cosMoP@BousouP - Monopole. (Shinsekai-) \[Electromagnetism.\]](https://osu.ppy.sh/beatmapsets/792944#taiko/5934478)
+  2. [Terminal 11 - Sparkle Downer (\_CaptainZero) \[killjoy (edit)\]](https://osu.ppy.sh/beatmapsets/2634917#taiko/5932821)
+  3. [Shounen Zodiac - Stray March (Raphalge) \[Oni\]](https://osu.ppy.sh/beatmapsets/2635456#taiko/5934451)
+  4. [Pa's Lam System - I'm Coming (Mtell Future core Bootleg) (SolaEclipse) \[...Pause\]](https://osu.ppy.sh/beatmapsets/2635465#taiko/5934477)
+  5. [ryu5150 - Louder than steel (Cut Ver.) (reisen91937) \[Ironclad\]](https://osu.ppy.sh/beatmapsets/2635457#taiko/5934459)
 - Hidden
-  1. [Charli XCX - Talk talk (feat. Troye Sivan) (ulko) \[Yap Yap\]](https://osu.ppy.sh/beatmaps/5934574)
-  2. [Simon Safhalter - One Way Only (Nwolf) \[Hidden Only (Edit Ver.)\]](https://osu.ppy.sh/beatmaps/5934468)
+  1. [Charli XCX - Talk talk (feat. Troye Sivan) (ulko) \[Yap Yap\]](https://osu.ppy.sh/beatmapsets/2635501#taiko/5934574)
+  2. [Simon Safhalter - One Way Only (Nwolf) \[Hidden Only (Edit Ver.)\]](https://osu.ppy.sh/beatmapsets/2635461#taiko/5934468)
 - Hard Rock
-  1. [Masafumi Takada - Mr. Monokuma's Lesson (Skid) \[Despair (Edit)\]](https://osu.ppy.sh/beatmaps/5934596)
-  2. [A? - ENERGY INFLATION (Yasuho) \[INNER ONI (EDIT)\]](https://osu.ppy.sh/beatmaps/5934515)
+  1. [Masafumi Takada - Mr. Monokuma's Lesson (Skid) \[Despair (Edit)\]](https://osu.ppy.sh/beatmapsets/2632184#taiko/5934596)
+  2. [A? - ENERGY INFLATION (Yasuho) \[INNER ONI (EDIT)\]](https://osu.ppy.sh/beatmapsets/1548112#taiko/5934515)
 - Double Time
-  1. [FOREVER STONED - HIGHED UP (W/ WINDSMOKE) (ulko) \[ZAZA\]](https://osu.ppy.sh/beatmaps/5934600)
-  2. [Synthion feat. STARLIVHT - True (qish) \[Oni (Edit)\]](https://osu.ppy.sh/beatmaps/3984038)
+  1. [FOREVER STONED - HIGHED UP (W/ WINDSMOKE) (ulko) \[ZAZA\]](https://osu.ppy.sh/beatmapsets/2635503#taiko/5934600)
+  2. [Synthion feat. STARLIVHT - True (qish) \[Oni (Edit)\]](https://osu.ppy.sh/beatmapsets/1929045#taiko/3984038)
 - Free Mod
-  1. [Exsy - Re:drawers feat. Kasane Teto & KAFU (tasuke912) \[Beyond the Ideal\]](https://osu.ppy.sh/beatmaps/5934534)
-  2. [Yuta Imai feat. Kasane Teto - G.L.I.T.C.H. (Shinsekai-) \[S.Y.S.T.E.M.E.R.R.O.R.\]](https://osu.ppy.sh/beatmaps/5934494)
+  1. [Exsy - Re:drawers feat. Kasane Teto & KAFU (tasuke912) \[Beyond the Ideal\]](https://osu.ppy.sh/beatmapsets/2635485#taiko/5934534)
+  2. [Yuta Imai feat. Kasane Teto - G.L.I.T.C.H. (Shinsekai-) \[S.Y.S.T.E.M.E.R.R.O.R.\]](https://osu.ppy.sh/beatmapsets/2635472#taiko/5934494)
 - Tiebreaker
-  1. **[Gardens - Counting Breaths feat. eili (ulko) \[Last Breath v4\]](https://osu.ppy.sh/beatmaps/5934572)**
+  1. **[Gardens - Counting Breaths feat. eili (ulko) \[Last Breath v4\]](https://osu.ppy.sh/beatmapsets/2635500#taiko/5934572)**
 
 ### Round of 32
 
 - No Mod
-  1. [Harumaki Gohan - Melty Land Nightmare (Reku Mochizuki Remix) (7\_7) \[Sar7\_7\]](https://osu.ppy.sh/beatmaps/3331353)
-  2. [Tedjimo yomigY - JezoensiS (Cychloryn) \[Inner Oni\]](https://osu.ppy.sh/beatmaps/3782248)
-  3. [Kairiki Bear feat. KAFU - Mest (\_Rise) \[Inner Oni (3TWC Edit)\]](https://osu.ppy.sh/beatmaps/3531089)
-  4. [Maozon - Equilibrium (Shinsekai-) \[Equilibrio\]](https://osu.ppy.sh/beatmaps/5919708)
-  5. [t+pazolite - HYPER4ID (ulko) \[TRICK3RY\]](https://osu.ppy.sh/beatmaps/5919710)
+  1. [Harumaki Gohan - Melty Land Nightmare (Reku Mochizuki Remix) (7\_7) \[Sar7\_7\]](https://osu.ppy.sh/beatmapsets/1632033#taiko/3331353)
+  2. [Tedjimo yomigY - JezoensiS (Cychloryn) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1841481#taiko/3782248)
+  3. [Kairiki Bear feat. KAFU - Mest (\_Rise) \[Inner Oni (3TWC Edit)\]](https://osu.ppy.sh/beatmapsets/1721328#taiko/3531089)
+  4. [Maozon - Equilibrium (Shinsekai-) \[Equilibrio\]](https://osu.ppy.sh/beatmapsets/2631557#taiko/5919708)
+  5. [t+pazolite - HYPER4ID (ulko) \[TRICK3RY\]](https://osu.ppy.sh/beatmapsets/2631559#taiko/5919710)
 - Hidden
-  1. [EmoCosine - Step to Sky (Short Ver.) (Lumenite-) \[Stairway to the Exosphere\]](https://osu.ppy.sh/beatmaps/5919724)
-  2. [Camellia - werewolf howls. (Nwolf) \[Inner Oni\]](https://osu.ppy.sh/beatmaps/692800)
+  1. [EmoCosine - Step to Sky (Short Ver.) (Lumenite-) \[Stairway to the Exosphere\]](https://osu.ppy.sh/beatmapsets/2631569#taiko/5919724)
+  2. [Camellia - werewolf howls. (Nwolf) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/309969#taiko/692800)
 - Hard Rock
-  1. [Eagle - Hypersonik (Kulalaying) \[el mapa sonico mach veintiuno\]](https://osu.ppy.sh/beatmaps/5919985)
-  2. [MYTH & ROID - L.L.L. (Devli) \[yassu-'s Inner Oni\]](https://osu.ppy.sh/beatmaps/1100983)
+  1. [Eagle - Hypersonik (Kulalaying) \[el mapa sonico mach veintiuno\]](https://osu.ppy.sh/beatmapsets/2631595#taiko/5919985)
+  2. [MYTH & ROID - L.L.L. (Devli) \[yassu-'s Inner Oni\]](https://osu.ppy.sh/beatmapsets/505696#taiko/1100983)
 - Double Time
-  1. [vocaliod-P(noa) feat. Hatsune Miku - 1/6 -out of the gravity- (SN707) \[Orbit\]](https://osu.ppy.sh/beatmaps/5475857)
-  2. [Beniiro Litmus - Rin to Shite Saku Hana no Gotoku (Genjuro) \[Oni\]](https://osu.ppy.sh/beatmaps/2921739)
+  1. [vocaliod-P(noa) feat. Hatsune Miku - 1/6 -out of the gravity- (SN707) \[Orbit\]](https://osu.ppy.sh/beatmapsets/2492249#taiko/5475857)
+  2. [Beniiro Litmus - Rin to Shite Saku Hana no Gotoku (Genjuro) \[Oni\]](https://osu.ppy.sh/beatmapsets/1417157#taiko/2921739)
 - Free Mod
-  1. [awfuless - Temptation (ulko) \[Inner Oni\]](https://osu.ppy.sh/beatmaps/5919748)
-  2. [PSYQUI - Still Lonesome (h o n e y) \[Lonely\]](https://osu.ppy.sh/beatmaps/2798326)
+  1. [awfuless - Temptation (ulko) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2631578#taiko/5919748)
+  2. [PSYQUI - Still Lonesome (h o n e y) \[Lonely\]](https://osu.ppy.sh/beatmapsets/1351704#taiko/2798326)
 - Tiebreaker
-  1. **[Paledusk - RUMBLE (feat. Masato of coldrain) (YonGin) \[Game Over!\]](https://osu.ppy.sh/beatmaps/5919646)**
+  1. **[Paledusk - RUMBLE (feat. Masato of coldrain) (YonGin) \[Game Over!\]](https://osu.ppy.sh/beatmapsets/2631533#taiko/5919646)**
 
 ### Qualifiers
 
 - No Mod
-  1. [Jerico's Law - Everybody Lost 2025 (OnosakiHito) \[Ura Oni (3TWC Ver.)\]](https://osu.ppy.sh/beatmaps/5905987)
-  2. [MIssionary & DCWH - Scherzo \~Fortuna's Pranks\~ (\_mtk) \[Mischief\]](https://osu.ppy.sh/beatmaps/5905943)
-  3. [Haywyre - Dichotomy (Soft Mix) (ulko) \[Duality\]](https://osu.ppy.sh/beatmaps/5905977)
+  1. [Jerico's Law - Everybody Lost 2025 (OnosakiHito) \[Ura Oni (3TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2627623#taiko/5905987)
+  2. [MIssionary & DCWH - Scherzo \~Fortuna's Pranks\~ (\_mtk) \[Mischief\]](https://osu.ppy.sh/beatmapsets/2627603#taiko/5905943)
+  3. [Haywyre - Dichotomy (Soft Mix) (ulko) \[Duality\]](https://osu.ppy.sh/beatmapsets/2627618#taiko/5905977)
 - Hidden
-  1. [Meryl. - AEON (waidabu) \[Everlasting\]](https://osu.ppy.sh/beatmaps/5906440)
+  1. [Meryl. - AEON (waidabu) \[Everlasting\]](https://osu.ppy.sh/beatmapsets/2627778#taiko/5906440)
 - Hard Rock
-  1. [Tatsh - reunion (Shinsekai-) \[Mesa Redonda\]](https://osu.ppy.sh/beatmaps/5905998)
+  1. [Tatsh - reunion (Shinsekai-) \[Mesa Redonda\]](https://osu.ppy.sh/beatmapsets/2627630#taiko/5905998)
 - Double Time
-  1. [livetune adding Takuro Sugawara (from 9mm Parabellum Bullet) - Sen no Tsubasa (YonGin) \[Uprising\]](https://osu.ppy.sh/beatmaps/5905949)
+  1. [livetune adding Takuro Sugawara (from 9mm Parabellum Bullet) - Sen no Tsubasa (YonGin) \[Uprising\]](https://osu.ppy.sh/beatmapsets/2627608#taiko/5905949)
 - Free Mod
-  1. [t+pazolite - CENSORED!! (Ksyro\_) \[IN#&R ONI!!\]](https://osu.ppy.sh/beatmaps/5906028)
+  1. [t+pazolite - CENSORED!! (Ksyro\_) \[IN#&R ONI!!\]](https://osu.ppy.sh/beatmapsets/2627642#taiko/5906028)
 
 ## Match results
 
