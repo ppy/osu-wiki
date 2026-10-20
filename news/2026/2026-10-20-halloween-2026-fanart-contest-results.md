@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Halloween 2026 Fanart Contest: Results"
-date: 2026-10-19 15:00:00
+date: 2026-10-20 11:30:00
 series: fanart_contests
 ---
 
 About time we season up the game with some spectacular spooky goodness!
 
-![](/wiki/shared/news/2026-10-19-halloween-2026-fanart-contest-results/banner.jpg)
+![](/wiki/shared/news/2026-10-20-halloween-2026-fanart-contest-results/banner.jpg)
 
 It's no doubt that Halloween and osu! go hand in hand, especially with **2,483** of you casting a total of **30k+** votes to decide which entries haunt the main menu.
 
