@@ -28,6 +28,7 @@ Official tournaments organised by the osu! team.
 | [osu! World Cup 2023](OWC/2023) | 2023-10-21 | 2023-12-03 | ::{ flag=US }:: United States | ::{ flag=KR }:: South Korea | ::{ flag=AU }:: Australia |
 | [osu! World Cup 2024](OWC/2024) | 2024-10-26 | 2024-12-08 | ::{ flag=KR }:: South Korea | ::{ flag=US }:: United States | ::{ flag=AU }:: Australia |
 | [osu! World Cup 2025](OWC/2025) | 2025-10-25 | 2025-12-14 | ::{ flag=PL }:: Poland | ::{ flag=US }:: United States | ::{ flag=AU }:: Australia |
+| [osu! World Cup 2026](OWC/2026) | 2026-10-25 | 2026-12-13 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/taiko.png) [osu!taiko World Cup](TWC)
 
@@ -96,7 +97,7 @@ Official tournaments organised by the osu! team.
 | [osu!mania 7K World Cup 2025](MWC/2025_7K) | 2024-12-12 | 2025-02-23 | ::{ flag=KR }:: South Korea | ::{ flag=CN }:: China | ::{ flag=PH }:: Philippines |
 | [osu!mania 4K World Cup 2025](MWC/2025_4K) | 2025-07-17 | 2025-09-28 | ::{ flag=US }:: United States | ::{ flag=KR }:: South Korea | ::{ flag=CN }:: China |
 | [osu!mania 7K World Cup 2026](MWC/2026_7K) | 2025-12-11 | 2026-02-22 | ::{ flag=KR }:: South Korea | ::{ flag=PH }:: Philippines | ::{ flag=JP }:: Japan |
-| [osu!mania 4K World Cup 2026](MWC/2026_4K) | 2026-07-16 | 2026-09-27 | *TBD* | *TBD* | *TBD* |
+| [osu!mania 4K World Cup 2026](MWC/2026_4K) | 2026-07-16 | 2026-09-27 | ::{ flag=KR }:: South Korea | ::{ flag=US }:: United States | ::{ flag=CN }:: China |
 
 ## Community
 
@@ -126,6 +127,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | 3 Digit World Cup 2023 | 2023-02-17 | 2023-04-30 | ::{ flag=KR }:: South Korea | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: United States |
 | 3 Digit World Cup 2024 | 2023-12-25 | 2024-03-10 | ::{ flag=KR }:: South Korea | ::{ flag=US }:: United States | ::{ flag=BR }:: Brazil |
 | [3 Digit World Cup 2025](3WC/2025) | 2024-12-28 | 2025-03-16 | ::{ flag=KR }:: South Korea | ::{ flag=US }:: United States | ::{ flag=DE }:: Germany |
+| [3 Digit World Cup 2026](3WC/2026) | 2026-01-11 | 2026-03-29 | ::{ flag=US }:: United States | ::{ flag=HK }:: Hong Kong | ::{ flag=KR }:: South Korea |
 
 #### [4 Digit World Cup](4WC)
 
@@ -302,7 +304,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [National Dutch Championship 2023](NDC/2023) | 2023-01-08 | 2023-03-12 | [Lilily](https://osu.ppy.sh/users/6502403) | [Burning John](https://osu.ppy.sh/users/6744123) | [luciano](https://osu.ppy.sh/users/11604978) |
 | [National Dutch Championship 2024](NDC/2024) | 2024-08-05 | 2024-10-13 | [Aheo](https://osu.ppy.sh/users/14919428) | [Burning John](https://osu.ppy.sh/users/6744123) | [luciano](https://osu.ppy.sh/users/11604978) |
 | [National Dutch Championship 2025](NDC/2025) | 2025-08-09 | 2025-10-12 | [Aheo](https://osu.ppy.sh/users/14919428) | [Tutel](https://osu.ppy.sh/users/12241010) | [John ethken](https://osu.ppy.sh/users/641155) |
-| [National Dutch Championship 2026](NDC/2026) | 2026-08-08 | 2026-10-12 | TBD | TBD | TBD |
+| [National Dutch Championship 2026](NDC/2026) | 2026-08-08 | 2026-10-12 | *TBD* | *TBD* | *TBD* |
 
 #### [nik's Tournaments](NT)
 
@@ -472,6 +474,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Resurrection Cup 2023](RESC/2023) | 2023-06-16 | 2023-07-30 | ESSA | fresh off the boat | Sleep accommodation |
 | [Resurrection Cup 2024](RESC/2024) | 2024-06-14 | 2024-07-28 | kotomiler | fresh off the boat | Bobik |
 | [Resurrection Cup 2025](RESC/2025) | 2025-05-18 | 2025-08-10 | tarczynski esports | Monkey Business | FIAT MULTIPLA |
+| [Resurrection Cup 2026](RESC/2026) | 2026-06-12 | 2026-08-16 | 37AMCLOVERS | OWC READY | Waddle Dee |
 
 #### [ROI PRO Tournament](RPT)
 
@@ -542,7 +545,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [UK Community Cup 10](UKCC/10) | 2021-09-11 | 2021-10-31 | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) | ::{ flag=GB }:: [majoreh](https://osu.ppy.sh/users/7959222) | ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) |
 | [UK Community Cup 11](UKCC/11) | 2022-01-23 | 2022-04-03 | Luciano Fan Club | denial piano | The |
 | [UK Community Cup 12](UKCC/12) | 2023-03-18 | 2023-04-30 | ::{ flag=GB }:: [Accolibed](https://osu.ppy.sh/users/9269034) | ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) | ::{ flag=GB }:: [rudj](https://osu.ppy.sh/users/11592896) |
-| [UK Community Cup 13](UKCC/13) | 2025-06-08 | 2025-07-27 | *tbd* | *tbd* | *tbd* |
+| [UK Community Cup 13](UKCC/13) | 2025-06-08 | 2025-07-27 | *TBD* | *TBD* | *TBD* |
 
 #### [Ulat Bulu Cup](UCUP)
 
