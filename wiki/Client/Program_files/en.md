@@ -95,6 +95,10 @@ The Exports folder stores the beatmaps and skins the player has exported from th
 
 The Localisation folder stores the files that are used to translate the game's English texts to the user's selected language. This folder will only appear if the player has switched their language in the options at least once.
 
+### Logs
+
+The Logs folder stores osu!'s [log files](/wiki/Help_centre#log-files), which are mainly used to [troubleshoot problems](https://github.com/ppy/osu/discussions/15188) as needed. This folder will only appear if the player has run the game at least once.
+
 ### Replays
 
 ::: alert-notice
