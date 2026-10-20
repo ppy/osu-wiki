@@ -48,11 +48,11 @@ You can click on any of the banners to view the full image.
 
 [**Porukana**](https://osu.ppy.sh/users/12992775)'s angelic Alisa captivated **687** mortals with her radiant beauty.
 
-[![](https://assets.ppy.sh/contests/296/banners/X-ill.jpg)](https://assets.ppy.sh/contests/296/winners/X-ill.png)
+[![](https://assets.ppy.sh/contests/296/banners/X-ill.jpg)](https://assets.ppy.sh/contests/296/winners/X%2Dill%20%2821771922%29.png)
 
 [**X-ill**](https://osu.ppy.sh/users/21771922)'s Mocha means serious business, breaking the fourth wall of tempered glass with the business end of her chainsaw. **614** of her minions cheered for her badassery.
 
-[![](https://assets.ppy.sh/contests/296/banners/Melu-chan.jpg)](https://assets.ppy.sh/contests/296/winners/Melu-chan.png)
+[![](https://assets.ppy.sh/contests/296/banners/Melu-chan.jpg)](https://assets.ppy.sh/contests/296/winners/Melu%2Dchan%20%2839513434%29.png)
 
 [**Melu-chan**](https://osu.ppy.sh/users/39513434) showed us cat-bat pippi and kitten friends chilling after an evening round of trick or treats, enjoying some Halloween candy spoils and newbie osu! streamer toils.
 
@@ -98,7 +98,7 @@ As per tradition, we can't have a fanart contest without [peppy](https://osu.ppy
 
 [**yasyrus**](https://osu.ppy.sh/users/14856576)'s artwork depicting a swarm of Dons may be one of the scariest pieces of the season. Handling two drums is already difficult as it is, let alone an entire school of sentient percussion specialists...
 
-[![](https://assets.ppy.sh/contests/296/banners/-%20Y%20u%20m%20i%20J%20i-.jpg)](https://assets.ppy.sh/contests/296/winners/-%20Y%20u%20m%20i%20J%20i-.jpg)
+[![](https://assets.ppy.sh/contests/296/banners/-%20Y%20u%20m%20i%20J%20i-.jpg)](https://assets.ppy.sh/contests/296/winners/%2D%20Y%20u%20m%20i%20J%20i%2D%20%287656048%29.jpg)
 
 [**- Y u m i J i-**](https://osu.ppy.sh/users/7656048)'s work of a cozy temple reunion between Jiangshi pippi and Mocha was this season's best (and only!) Chinese representation suited for these festivities.
 
