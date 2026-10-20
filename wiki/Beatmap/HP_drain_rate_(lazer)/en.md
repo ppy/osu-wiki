@@ -37,7 +37,7 @@ The health recovery amounts for GREAT, OK and MEH are fixed at +3.00%, +1.10%, a
 
 The health penalty for MISS is linearly affected by the HP value:[^DifficultyRange] -3% at HP 0, -12.5% at HP 5, and -20% at HP 10. Missing a slider tick or a reverse costs less: -2%, -7.5%, and -14% respectively. Dropping a slider tail costs no health.[^OsuHealthProcessor]
 
-Completing a combo grants extra health after the last object has been hit. Thge bonus is +7% if every object in it was a GREAT (a [Geki](/wiki/Gameplay/Judgement/Geki)), +5% if all of them were at least an OK (a [Katu](/wiki/Gameplay/Judgement/Katu)), and +3% otherwise. Missing a slider tick or dropping a slider tail brings the bonus down to +5%.
+Completing a combo grants extra health after the last object has been hit. The bonus is +7% if every object in it was a GREAT (a [Geki](/wiki/Gameplay/Judgement/Geki)), +5% if all of them were at least an OK (a [Katu](/wiki/Gameplay/Judgement/Katu)), and +3% otherwise. Missing a slider tick or dropping a slider tail brings the bonus down to +5%.
 
 ### osu!taiko
 
