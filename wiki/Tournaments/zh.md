@@ -599,6 +599,7 @@
 | 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [3 Digit Taiko World Cup](3TWC/1) | 2021-01-09 | 2021-02-21 | ::{ flag=CN }:: 中国 | ::{ flag=KR }:: 韩国 | ::{ flag=MY }:: 马来西亚 |
+| [3 Digit Taiko World Cup 2026](3TWC/2026) | 2026-07-25 | 2026-11-15 | *待定* | *待定* | *待定* |
 
 #### [Asian-Oceanian Taiko Showdown](AOTS)
 
