@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Halloween 2026 Fanart Contest: Results"
-date: 2026-10-20 11:30:00
+date: 2026-10-20 14:30:00
 series: fanart_contests
 ---
 
