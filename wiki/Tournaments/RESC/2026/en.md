@@ -9,7 +9,7 @@ tags:
 
 ![Resurrection Cup 2026 - Codename: Genesis](img/banner.png)
 
-**Resurrection Cup 2026 - Codename: Genesis** was a 3v3, double-elimination osu! tournament hosted by ::{ flag=HU }:: [Phreel](https://osu.ppy.sh/users/12840110), ::{ flag=ID }:: [gamicrayola](https://osu.ppy.sh/users/29426345) and ::{ flag=VN }:: [BCraftMG](https://osu.ppy.sh/users/13456818). It was the fifth instalment in the Resurrection Cup series.
+**Resurrection Cup 2026 - Codename: Genesis** was a 3v3, double-elimination osu! tournament hosted by ::{ flag=HU }:: [Phreel](https://osu.ppy.sh/users/12840110), ::{ flag=SG }:: [gamicrayola](https://osu.ppy.sh/users/29426345) and ::{ flag=VN }:: [BCraftMG](https://osu.ppy.sh/users/13456818). It was the fifth instalment in the Resurrection Cup series.
 
 ## Tournament schedule
 
@@ -31,7 +31,7 @@ tags:
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge (pending), exclusive profile banner |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Exclusive profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Exclusive profile banner |
-| "4th place" | Exclusive profile banner |
+| 4th place | Exclusive profile banner |
 
 ![](img/badge.png "Resurrection Cup 2026 winner badge")
 
@@ -80,7 +80,7 @@ tags:
 | 7 | **mrbeast money** | ::{ flag=RU }:: **[vljoy209](https://osu.ppy.sh/users/16870029)**, ::{ flag=RU }:: [zoomiee](https://osu.ppy.sh/users/12482926), ::{ flag=FI }:: [Amasetic](https://osu.ppy.sh/users/11375251), ::{ flag=DE }:: [-lion](https://osu.ppy.sh/users/24270105), ::{ flag=NL }:: [Tutel](https://osu.ppy.sh/users/12241010) |
 | 8 | **WITH IT A LOT** | ::{ flag=US }:: **[calebshucks](https://osu.ppy.sh/users/7959945)**, ::{ flag=CA }:: [Wanderio](https://osu.ppy.sh/users/16529875), ::{ flag=US }:: [Rykic](https://osu.ppy.sh/users/12667143), ::{ flag=US }:: [hidden on osu](https://osu.ppy.sh/users/10626955), ::{ flag=US }:: [Flameztear](https://osu.ppy.sh/users/13207763) |
 | 9 | **quick parsec** | ::{ flag=BE }:: **[lychee boba](https://osu.ppy.sh/users/7078544)**, ::{ flag=BE }:: [hexi](https://osu.ppy.sh/users/10760701), ::{ flag=NO }:: [YokesPai](https://osu.ppy.sh/users/6399568), ::{ flag=FR }:: [Hifkil](https://osu.ppy.sh/users/4301976), ::{ flag=FR }:: [Satsukiiii](https://osu.ppy.sh/users/25626082) |
-| 10 | **Waddle Dee** | ::{ flag=CA }:: **[Birchman](https://osu.ppy.sh/users/10676573)**, ::{ flag=CA }:: [PikaPwn](https://osu.ppy.sh/users/2012453), ::{ flag=CA }:: [steamhappy](https://osu.ppy.sh/users/7802400), ::{ flag=CA }:: [nujabes](https://osu.ppy.sh/users/12258658), ::{ flag=US }:: [TTv_UFO](https://osu.ppy.sh/users/14676719) |
+| 10 | **Waddle Dee** | ::{ flag=CA }:: **[Birchman](https://osu.ppy.sh/users/10676573)**, ::{ flag=CA }:: [PikaPwn](https://osu.ppy.sh/users/2012453), ::{ flag=CA }:: [steamhappy](https://osu.ppy.sh/users/7802400), ::{ flag=CA }:: [Tsfury](https://osu.ppy.sh/users/12258658), ::{ flag=US }:: [TTv_UFO](https://osu.ppy.sh/users/14676719) |
 | 11 | **The cup** | ::{ flag=US }:: **[orngoos](https://osu.ppy.sh/users/20250190)**, ::{ flag=US }:: [xymbii](https://osu.ppy.sh/users/10809844), ::{ flag=US }:: [ur cute](https://osu.ppy.sh/users/9993348), ::{ flag=US }:: [BoshyMan741](https://osu.ppy.sh/users/4830687), ::{ flag=US }:: [aidinth](https://osu.ppy.sh/users/11580377) |
 | 12 | **Dadunai** | ::{ flag=CN }:: **[z980838928](https://osu.ppy.sh/users/1355695)**, ::{ flag=HK }:: [mcy4](https://osu.ppy.sh/users/2165650), ::{ flag=CN }:: [lolol233](https://osu.ppy.sh/users/11375105), ::{ flag=CN }:: [lolol235](https://osu.ppy.sh/users/6090175), ::{ flag=HK }:: [misha awa](https://osu.ppy.sh/users/14503423) |
 | 13 | **LiùSieteSeisQī** | ::{ flag=US }:: **[1ncert](https://osu.ppy.sh/users/12522447)**, ::{ flag=US }:: [BATBALL](https://osu.ppy.sh/users/15173952), ::{ flag=US }:: [rng_](https://osu.ppy.sh/users/9265990), ::{ flag=US }:: [Tokii](https://osu.ppy.sh/users/9138046), ::{ flag=US }:: [Indiana](https://osu.ppy.sh/users/12967296) |
@@ -143,7 +143,7 @@ This competition has come to an end and resulted in the following podium:
   3. [DJ Sharpnel - Entangle Night (aspen) [Entangle Stream -250-]](https://osu.ppy.sh/beatmapsets/2216137#osu/4697636)
   4. [Kabocha - Draw me a map, Let me feel the tap (toybot) [Extreme]](https://osu.ppy.sh/beatmapsets/2051856#osu/4284969)
 - Tiebreaker
-  1. [Drazically - E:RULER DISC (Blacky Design) [IN:FINITE DISTORTION]](https://osu.ppy.sh/beatmapsets/2596934#osu/5802541)
+  1. **[Drazically - E:RULER DISC (Blacky Design) [IN:FINITE DISTORTION]](https://osu.ppy.sh/beatmapsets/2596934#osu/5802541)**
 
 ### Finals
 
@@ -172,7 +172,7 @@ This competition has come to an end and resulted in the following podium:
   3. [First Fragment - Le Serment De Tsion (LMT) [Kneel]](https://osu.ppy.sh/beatmapsets/2287985#osu/4881760)
   4. [Shogo Nomura - egoist (Megafan) [colbab]](https://osu.ppy.sh/beatmapsets/2373325#osu/5124793)
 - Tiebreaker
-  1. [Xeven - Crowdkill (feat. Kasane Teto) (eringiRa) [Brutal Strike]](https://osu.ppy.sh/beatmapsets/2585574#osu/5766790)
+  1. **[Xeven - Crowdkill (feat. Kasane Teto) (eringiRa) [Brutal Strike]](https://osu.ppy.sh/beatmapsets/2585574#osu/5766790)**
 
 ### Semifinals
 
@@ -508,7 +508,7 @@ For the full version of the ruleset, see the [rulebook](https://docs.google.com/
 5. 90 second timers are used for teams to swap members and ready up.
 6. Rosters are locked after play. Changes are not allowed under any circumstance.
 7. Due to this process, teams with players who are screened out will be disqualified from the tournament.
-8. Top 32 seeded teams using Zipf' Law will proceed to Bracket Stage.
+8. Top 32 seeded teams using Zipf's Law will proceed to Bracket Stage.
 
 ### Bracket stage procedure
 
@@ -523,7 +523,7 @@ For the full version of the ruleset, see the [rulebook](https://docs.google.com/
 7. No Fail is enforced on all maps.
 8. Captains will `!roll` in matches. The winner may choose between pick or ban order, and the other captain may choose the remaining order.
 9. Teams have 1 ban in Round of 32 and Round of 16, and 2 bans throughout the rest of bracket stage.
-   - Ban order is ABBA, with 2nd ban happening after 4 maps are played .
+   - Ban order is ABBA, with 2nd ban happening after 4 maps are played.
 10. Teams have 120 seconds to declare picks and bans.
 11. Teams have 120 seconds to swap teammates and lock in their roster.
 
@@ -534,7 +534,7 @@ For the full version of the ruleset, see the [rulebook](https://docs.google.com/
 
 ### Stage and mappool information
 
-| Stage | Best of | Ban Count | Star Rating | NM | HD | HR | DT | FM | TB |
+| Stage | Best of | Ban count | Star rating | NM | HD | HR | DT | FM | TB |
 | :-- | --: | --: | --: | --: | --: | --: | --: | --: | --: |
 | Qualifiers | 1[^qualifier-playthrough] |  | 7.2★ | 4 | 2 | 2 | 3 |  |  |
 | Round of 32 | 9 | 1 | 6.8★ | 5 | 2 | 2 | 3 | 3 | 1 |
