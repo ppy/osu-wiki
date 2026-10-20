@@ -3,9 +3,9 @@ outdated: true
 needs_cleanup: true
 ---
 
-# History of osu!
+# Histoire de osu!
 
-Records of osu!'s history, all in the osu! wiki.
+Archives de l'histoire de osu!, tout sur le wiki d'osu!
 
 | Année | Description |
 | :-: | :-- |
