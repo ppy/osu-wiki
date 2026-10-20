@@ -86,7 +86,8 @@ In [osu!mania](/wiki/Game_mode/osu!mania), the Easy mod reduces overall difficul
 ## Trivia
 
 - When watching a replay where an extra life is used, the game skips the health refill animation and continues the play as if the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod were active.
-- In [multiplayer](/wiki/Client/Interface/Multiplayer), the extra lives mechanic is disabled in the [Tag Co-op or Tag Team Vs. team modes](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs).
+- In [multiplayer](/wiki/Gameplay/Multiplayer), the extra lives mechanic is disabled in the [Tag Co-op or Tag Team Vs. team modes](/wiki/Gameplay/Multiplayer#tag-co-op-/-tag-team-vs).
+- The Easy mod will cancel out the [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) mod, and vice-versa.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

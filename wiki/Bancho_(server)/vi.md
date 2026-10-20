@@ -11,7 +11,7 @@ tags:
 
 - Hệ thống chat, [trạng thái trực tuyến](/wiki/Client/Interface/Chat_console#bảng-trò-chuyện-mở-rộng), và [cổng IRC](/wiki/Community/Internet_Relay_Chat)
 - Chế độ [Spectator](/wiki/Gameplay/Spectating)
-- [Hệ thống Multiplayer](/wiki/Client/Interface/Multiplayer) và [quản lý giải đấu](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
+- [Hệ thống Multiplayer](/wiki/Gameplay/Multiplayer) và [quản lý giải đấu](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
 
 ::: Infobox
 ![](img/connection-warning.png "Ảnh chụp màn hình menu chính với biểu tượng kết nối kém (góc dưới bên phải, biểu tượng đầu tiên)")
