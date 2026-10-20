@@ -599,6 +599,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [3 Digit Taiko World Cup](3TWC/1) | 09.01.2021 | 21.02.2021 | ::{ flag=CN }:: China | ::{ flag=KR }:: Südkorea | ::{ flag=MY }:: Malaysia |
+| [3 Digit Taiko World Cup 2026](3TWC/2026) | 25.07.2026 | 15.11.2026 | *Noch offen* | *Noch offen* | *Noch offen* |
 
 #### [Asian-Oceanian Taiko Showdown](AOTS)
 

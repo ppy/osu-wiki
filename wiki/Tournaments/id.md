@@ -599,6 +599,7 @@ Berikut merupakan berbagai turnamen/kompetisi tidak resmi yang diselenggarakan o
 | Nama | Mulai | Selesai | ![Mahkota Emas][GCrown] | ![Mahkota Perak][SCrown] | ![Mahkota Perunggu][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [3 Digit Taiko World Cup](3TWC/1) | 2021-01-09 | 2021-02-21 | ::{ flag=CN }:: Tiongkok | ::{ flag=KR }:: Korea Selatan | ::{ flag=MY }:: Malaysia |
+| [3 Digit Taiko World Cup 2026](3TWC/2026) | 2026-07-25 | 2026-11-15 | *TBD* | *TBD* | *TBD* |
 
 #### [Asian-Oceanian Taiko Showdown](AOTS)
 

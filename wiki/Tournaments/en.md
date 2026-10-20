@@ -599,6 +599,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [3 Digit Taiko World Cup](3TWC/1) | 2021-01-09 | 2021-02-21 | ::{ flag=CN }:: China | ::{ flag=KR }:: South Korea | ::{ flag=MY }:: Malaysia |
+| [3 Digit Taiko World Cup 2026](3TWC/2026) | 2026-07-25 | 2026-11-15 | *TBD* | *TBD* | *TBD* |
 
 #### [Asian-Oceanian Taiko Showdown](AOTS)
 
