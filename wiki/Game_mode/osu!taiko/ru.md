@@ -6,7 +6,7 @@ needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/9918, also, check 
 
 ![Gameplay of osu!taiko](/wiki/shared/taiko-gameplay.jpg "Интерфейс osu!taiko")
 
-osu!taiko это игровой режим в osu!, основанный на серии японских ритм-игр [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin) (выпущено в Северной Америке под названием [Taiko: Drum Master](http://en.wikipedia.org/wiki/Taiko:_Drum_Master)).
+osu!taiko - это игровой режим в osu!, основанный на серии японских ритм-игр [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin) (выпущено в Северной Америке под названием [Taiko: Drum Master](http://en.wikipedia.org/wiki/Taiko:_Drum_Master)).
 
 ## ![](/wiki/shared/mode/taiko.png) Геймплей
 
@@ -85,11 +85,11 @@ osu!taiko это игровой режим в osu!, основанный на с
 
 ## Подсчет очков
 
-[Счет в osu!taiko](/wiki/Gameplay/Score/ScoreV1/osu!taiko) это взвешенная сумма множества игровых компонентов. Счет зависит от следующих факторов:
+[Счет в osu!taiko](/wiki/Gameplay/Score/ScoreV1/osu!taiko) - это взвешенная сумма множества игровых компонентов. Счет зависит от следующих факторов:
 
 - [Оценка](/wiki/Gameplay/Judgement/osu!taiko) определяет стоимость игрового объекта (300, 100 или 0 при промахе). Стоимость обычных и больших нот зависит от точности нажатия, в то время как стоимость остальных игровых объектов статична.
 - [Аккуратность](/wiki/Gameplay/Accuracy#osu!taiko) зависит от оценки и показывает, насколько точны нажатия. поздние или ранние нажатия, как и промахи, понижают аккуратность.
-- [Комбо](/wiki/Gameplay/Combo_(score_multiplier)) это множитель очков: успешное исполнение игрового объекта приносит тем больше очков, чем больше комбо и наоборот. Комбо может быть [прервано](/wiki/Gameplay/Judgement/Combobreak) из-за промаха. В osu!taiko, множитель очков от комбо ограничен и не влияет на итоговый результат так сильно, как в режимах osu! или osu!catch.
+- [Комбо](/wiki/Gameplay/Combo_(score_multiplier)) - это множитель очков: успешное исполнение игрового объекта приносит тем больше очков, чем больше комбо и наоборот. Комбо может быть [прервано](/wiki/Gameplay/Judgement/Combobreak) из-за промаха. В osu!taiko, множитель очков от комбо ограничен и не влияет на итоговый результат так сильно, как в режимах osu! или osu!catch.
 - [Kiai time](/wiki/Gameplay/Kiai_time): в osu!taiko, kiai time увеличивает получаемые очки на 20%, то же самое происходит и в играх *Taiko no Tatsujin*.
 
 Помимо добавления очков, каждый исполненный игровой объект немного повышает [шкалу здоровья](/wiki/Client/Interface/Health_bar), которая должна быть хотя бы **наполовину полная**для успешного прохождения игроком карты.
