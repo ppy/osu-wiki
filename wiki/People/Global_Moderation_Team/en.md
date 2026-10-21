@@ -86,7 +86,7 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | German | Chat moderation |
 | ::{ flag=IT }:: [- Marco -](https://osu.ppy.sh/users/1273955) | Italian | Chat moderation, forum moderation |
 | ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | Italian | Mapping/modding community moderation |
-| ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730) |  | Chat moderation |
+| ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730) |  | Chat moderation, mapping/modding community moderation |
 | ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | Chinese, Malay, Cantonese, some Japanese | Mapping/modding community moderation |
 | ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | Chinese | Mapping/modding community moderation, forum moderation |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Russian | Chat moderation |

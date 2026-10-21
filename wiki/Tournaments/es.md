@@ -474,6 +474,7 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | [Resurrection Cup 2023](RESC/2023) | 16/6/2023 | 30/7/2023 | ESSA | fresh off the boat | Sleep accommodation |
 | [Resurrection Cup 2024](RESC/2024) | 14/6/2024 | 28/7/2024 | kotomiler | fresh off the boat | Bobik |
 | [Resurrection Cup 2025](RESC/2025) | 18/5/2025 | 10/8/2025 | tarczynski esports | Monkey Business | FIAT MULTIPLA |
+| [Resurrection Cup 2026](RESC/2026) | 12/6/2026 | 16/8/2026 | 37AMCLOVERS | OWC READY | Waddle Dee |
 
 #### [ROI PRO Tournament](RPT)
 
@@ -598,6 +599,7 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | Nombre | Inicio | Final | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [3 Digit Taiko World Cup](3TWC/1) | 9/1/2021 | 21/2/2021 | ::{ flag=CN }:: China | ::{ flag=KR }:: Corea del Sur | ::{ flag=MY }:: Malasia |
+| [3 Digit Taiko World Cup 2026](3TWC/2026) | 25/7/2026 | 15/11/2026 | *Por decidirse* | *Por decidirse* | *Por decidirse* |
 
 #### [Asian-Oceanian Taiko Showdown](AOTS)
 
