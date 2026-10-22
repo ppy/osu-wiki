@@ -233,7 +233,7 @@ The **Badge** column lists what every badged tournament needs. The **Tri-badge**
 | H1 | The tournament series runs no more than twice per year. | Required | Required | [Eligibility criteria](#eligibility-criteria) |
 | H2 | The format meets the minimum size expectations. | Required | Required | [Eligibility criteria](#eligibility-criteria) |
 | H3 | Any rank restrictions fall within the permitted ranges. | Required | See H4 | [Eligibility criteria](#eligibility-criteria) |
-| H4 | The tournament is open rank. | � | Required | [Top-three badges](#tri-badge) |
+| H4 | The tournament is open rank. | - | Required | [Top-three badges](#tri-badge) |
 | H5 | Any regional restriction is reasonable. | Required | Required | [Eligibility criteria](#eligibility-criteria) |
 | H6 | Regionally restricted tournaments meet the [regional eligibility](#regional-eligibility) threshold (at least 50% of permitted countries are eligible). | - | Required | [Regional eligibility](#regional-eligibility) |
 | H7 | At least 80% of all matches, excluding qualifiers, receive a full broadcast.[^full-broadcast] | - | Required | - |
