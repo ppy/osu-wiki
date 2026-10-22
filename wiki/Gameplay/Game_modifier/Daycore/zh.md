@@ -2,8 +2,6 @@
 stub: true
 tags:
   - DC
-outdated_translation: true
-outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 ---
 
 # Daycore（模组）
@@ -24,8 +22,8 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 | 类别 | 降低难度 |
 | 默认快捷键 | `R` |
 | 游戏模式 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| 得分系数 | `0.30x*` |
-| 状态 | 计入排名 |
+| 得分倍率 | 见 [Half Time (HT) § 计分](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)#计分) |
+| 状态 | 可计表现分 |
 | 不兼容的模组 ![][osu!] ![][osu!taiko] ![][osu!mania] | [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)), [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)), [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Wind_Down), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed) |
 | 不兼容的模组 ![][osu!catch] | [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)), [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)), [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Wind_Down) |
 
