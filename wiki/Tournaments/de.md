@@ -127,6 +127,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | 3 Digit World Cup 2023 | 17.02.2023 | 30.04.2023 | ::{ flag=KR }:: Südkorea | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: Vereinigte Staaten |
 | 3 Digit World Cup 2024 | 25.12.2023 | 10.03.2024 | ::{ flag=KR }:: Südkorea | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=BR }:: Brasilien |
 | [3 Digit World Cup 2025](3WC/2025) | 28.12.2024 | 16.03.2025 | ::{ flag=KR }:: Südkorea | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=DE }:: Deutschland |
+| [3 Digit World Cup 2026](3WC/2026) | 11.01.2026 | 29.03.2026 | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=HK }:: Hong Kong | ::{ flag=KR }:: Südkorea |
 
 #### [4 Digit World Cup](4WC)
 
@@ -473,6 +474,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [Resurrection Cup 2023](RESC/2023) | 16.06.2023 | 30.07.2023 | ESSA | fresh off the boat | Sleep accommodation |
 | [Resurrection Cup 2024](RESC/2024) | 14.06.2024 | 28.07.2024 | kotomiler | fresh off the boat | Bobik |
 | [Resurrection Cup 2025](RESC/2025) | 18.05.2025 | 10.08.2025 | tarczynski esports | Monkey Business | FIAT MULTIPLA |
+| [Resurrection Cup 2026](RESC/2026) | 12.06.2026 | 16.08.2026 | 37AMCLOVERS | OWC READY | Waddle Dee |
 
 #### [ROI PRO Tournament](RPT)
 
@@ -597,6 +599,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [3 Digit Taiko World Cup](3TWC/1) | 09.01.2021 | 21.02.2021 | ::{ flag=CN }:: China | ::{ flag=KR }:: Südkorea | ::{ flag=MY }:: Malaysia |
+| [3 Digit Taiko World Cup 2026](3TWC/2026) | 25.07.2026 | 15.11.2026 | *Noch offen* | *Noch offen* | *Noch offen* |
 
 #### [Asian-Oceanian Taiko Showdown](AOTS)
 

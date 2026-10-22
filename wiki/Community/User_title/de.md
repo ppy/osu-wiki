@@ -9,8 +9,6 @@ tags:
   - Nutzerfarbe
   - Titel
   - Rang
-outdated_translation: true
-outdated_since: 8b5e6e6710bbbc889616a0820cba3d777b497fa2
 ---
 
 # Nutzertitel
@@ -25,17 +23,15 @@ Ein **Nutzertitel** ist eine kurze Bezeichnung auf der Profilseite eines Nutzers
 
 Die Farbe des Nutzertitels ist dieselbe wie die Farbe des Nutzers, die in der Regel ebenfalls durch die Gruppenmitgliedschaft festgelegt wird. Wenn für den Nutzer keine Farbe festgelegt ist, ist der Titel weiß.
 
-## Geschichte
+## Titel für die Anzahl der Beiträge
 
-### Titel für Anzahl der Beiträge
+![Screenshot von Ymirs Seitenleiste](img/rhythm-incarnate.png "Der Titel \"Rhythm Incarnate\" befindet sich über der Teamflagge und der Länderflagge von Ymir.")
 
-![Screenshot von Damnaes Seitenleiste auf der alten Webseite](img/star-shooter.png "Der Titel \"Star Shooter\" befindet sich über der Beitragsanzahl von Damnae.")
+<!-- Image from https://osu.ppy.sh/community/forums/topics/145250?n=58271, previous user has a non-forum title -->
 
-<!-- the bottom post on https://web.archive.org/web/20131107133826/https://osu.ppy.sh/forum/t/141240 -->
+Im [osu!-Forum](https://osu.ppy.sh/community/forums) können Nutzer Titel durch eine bestimmte Anzahl von Beiträgen wie folgt erlangen:
 
-Im Forumsbereich der [alten osu!-Webseite](https://old.ppy.sh) konnten Nutzer Titel durch eine bestimmte Anzahl von Beiträgen wie folgt erlangen:<!-- https://osu.ppy.sh/community/forums/posts/2306316 -->
-
-| Forum-Titel | Gesamtzahl der Beiträge |
+| Titel im Forum | Gesamtzahl der Beiträge |
 | :-: | :-- |
 | Rhythm Rookie | 0 bis 4 |
 | Tempo Trainee | 5 bis 14 |
@@ -48,12 +44,20 @@ Im Forumsbereich der [alten osu!-Webseite](https://old.ppy.sh) konnten Nutzer Ti
 | Combo Commander | 260 bis 499 |
 | Rhythm Incarnate | 500+ |
 
-Diese Titel waren nur auf der Seitenleiste in Forenbeiträgen sichtbar (nicht auf dem Profil des Nutzers) und wurden nicht angezeigt, wenn ein anderer benutzerdefinierter Titel bereits eingestellt war.
+Diese Titel sind nur auf der Seitenleiste in Forenbeiträgen sichtbar (nicht auf dem Profil der Nutzer) und werden nicht angezeigt, wenn bereits ein anderer benutzerdefinierter Titel eingestellt ist.
+
+## Geschichte
+
+![Screenshot von Damnaes Seitenleiste auf der alten Webseite](img/star-shooter.png "Der Titel \"Star Shooter\" befindet sich über der Beitragsanzahl von Damnae.")
+
+<!-- the bottom post on https://web.archive.org/web/20131107133826/https://osu.ppy.sh/forum/t/141240 -->
+
+Eine Zeit lang waren Titel für die Anzahl der Beiträge nur auf der [alten osu!-Webseite](https://old.ppy.sh)<!-- TODO: wiki page --> verfügbar, bei gleichen Anforderungen bezüglich der Beitragsanzahl.<!-- https://osu.ppy.sh/community/forums/posts/2306316 --> Sie wurden entfernt, als osu! auf ein neues Design umstellte. Im September 2026 wurden diese Titel wieder eingeführt.
 
 ## Trivia
 
 ::: Infobox
-![](img/multiple-titles.png "Die zwei Titel von VINXIS werden zur gleichen Zeit angezeigt")
+![](img/multiple-titles.png "Die zwei Titel von VINXIS werden gleichzeitig angezeigt")
 :::
 
 - Nutzertitel werden im Quellcode des Spiels als "rank titles" bezeichnet. Das ist ein übrig gebliebener Name aus der Zeit, als osu! auf [phpBB](https://www.phpbb.com/) aufbaute.

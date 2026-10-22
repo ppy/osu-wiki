@@ -127,6 +127,7 @@ Berikut merupakan berbagai turnamen/kompetisi tidak resmi yang diselenggarakan o
 | 3 Digit World Cup 2023 | 2023-02-17 | 2023-04-30 | ::{ flag=KR }:: Korea Selatan | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: Amerika Serikat |
 | 3 Digit World Cup 2024 | 2023-12-25 | 2024-03-10 | ::{ flag=KR }:: Korea Selatan | ::{ flag=US }:: Amerika Serikat | ::{ flag=BR }:: Brazil |
 | [3 Digit World Cup 2025](3WC/2025) | 2024-12-28 | 2025-03-16 | ::{ flag=KR }:: Korea Selatan | ::{ flag=US }:: Amerika Serikat | ::{ flag=DE }:: Jerman |
+| [3 Digit World Cup 2026](3WC/2026) | 2026-01-11 | 2026-03-29 | ::{ flag=US }:: Amerika Serikat | ::{ flag=HK }:: Hong Kong | ::{ flag=KR }:: Korea Selatan |
 
 #### [4 Digit World Cup](4WC)
 
@@ -473,6 +474,7 @@ Berikut merupakan berbagai turnamen/kompetisi tidak resmi yang diselenggarakan o
 | [Resurrection Cup 2023](RESC/2023) | 2023-06-16 | 2023-07-30 | ESSA | fresh off the boat | Sleep accommodation |
 | [Resurrection Cup 2024](RESC/2024) | 2024-06-14 | 2024-07-28 | kotomiler | fresh off the boat | Bobik |
 | [Resurrection Cup 2025](RESC/2025) | 2025-05-18 | 2025-08-10 | tarczynski esports | Monkey Business | FIAT MULTIPLA |
+| [Resurrection Cup 2026](RESC/2026) | 2026-06-12 | 2026-08-16 | 37AMCLOVERS | OWC READY | Waddle Dee |
 
 #### [ROI PRO Tournament](RPT)
 
@@ -597,6 +599,7 @@ Berikut merupakan berbagai turnamen/kompetisi tidak resmi yang diselenggarakan o
 | Nama | Mulai | Selesai | ![Mahkota Emas][GCrown] | ![Mahkota Perak][SCrown] | ![Mahkota Perunggu][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [3 Digit Taiko World Cup](3TWC/1) | 2021-01-09 | 2021-02-21 | ::{ flag=CN }:: Tiongkok | ::{ flag=KR }:: Korea Selatan | ::{ flag=MY }:: Malaysia |
+| [3 Digit Taiko World Cup 2026](3TWC/2026) | 2026-07-25 | 2026-11-15 | *TBD* | *TBD* | *TBD* |
 
 #### [Asian-Oceanian Taiko Showdown](AOTS)
 

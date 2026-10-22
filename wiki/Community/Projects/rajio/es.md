@@ -22,7 +22,6 @@ rajio estuvo en funcionamiento durante un par de años antes de cerrar en 2010.[
 ## Referencias
 
 [^rajio-database-ref]: [Publicación en el blog antiguo de peppy (8/10/2008)](https://pe.ppy.sh/2008/10/229/): «*rajio ahoy*»
-[^rajio-out-of-service-ref]: [Tuit por peppy (3/7/2010)](https://twitter.com/ppy/status/17639387454): «*@aqua321
- rajio has been out of action for a while now... will be back someday!*»
+[^rajio-out-of-service-ref]: [Tuit por peppy (3/7/2010)](https://twitter.com/ppy/status/17639387454): «*@aqua321 rajio has been out of action for a while now... will be back someday!*»
 [^rajio-revival-ref1]: [Tuit por peppy (18/4/2011)](https://twitter.com/ppy/status/59817540494438401): «*looking at the possibility of bringing rajio.ppy.sh back to life due to a lot of people showing interest in it recently!*»
 [^rajio-revival-ref2]: [Respuesta en el foro por Cyclohexane (6/5/2011)](https://osu.ppy.sh/community/forums/posts/828595): «*No, really it'd be good to have. Especially with the newly born #rajio.*»

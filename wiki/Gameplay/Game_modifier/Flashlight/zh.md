@@ -21,7 +21,7 @@ tags:
 
 - 缩写：FL
 - 类别：增加难度
-- 得分系数：
+- 得分倍率：
   - ![][osu!] ![][osu!taiko] ![][osu!catch]：1.12x
   - ![][osu!mania]：1.00x
 - 默认快捷键：`G`
@@ -71,7 +71,7 @@ tags:
 ## 冷知识
 
 - 若使用此模组以 S 或 SS 等级完成谱面，则会获得银 S 或银 SS 等级。
-- 最初在2010年时，此模组由于最容易被黑而饱受争议；随后此模组被迫不计入排名，直到一个补丁填补了此模组实现方法上的漏洞。
+- 最初在2010年时，此模组由于最容易被黑而饱受争议；随后此模组被迫不计表现分，直到一个补丁填补了此模组实现方法上的漏洞。
   - [Flashlight mod disabled #2](https://osu.ppy.sh/community/forums/topics/41039)
   - [Flashlight is back!](https://osu.ppy.sh/community/forums/topics/41519)
 
