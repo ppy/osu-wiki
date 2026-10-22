@@ -196,7 +196,7 @@ This competition has come to an end and resulted in the following podium:
 - No Mod
   1. [N.W.A. - Fuck Tha Police (The Honeysticks) [Straight Outta Compton]](https://osu.ppy.sh/beatmapsets/2351370#osu/5060096)
   2. [DJ SHARPNEL - Over the Fullereneshift (sharpnel) [-Tynamo's Instrumentality]](https://osu.ppy.sh/beatmapsets/2401580#osu/5520212)
-  3. [LizNoir - Darkness sympathizer (_kotachi_) [Loveloners]](https://osu.ppy.sh/beatmapsets/2158224#osu/4549893)
+  3. [LizNoir - Darkness sympathizer (\_kotachi\_) [Loveloners]](https://osu.ppy.sh/beatmapsets/2158224#osu/4549893)
   4. [Project-G - The Sundering (6pXgEj3hc7Umj5H) [Severed Fates]](https://osu.ppy.sh/beatmapsets/2042527#osu/4262164)
   5. [astraea - angels megamix (nik) [met liefde (van het ndc)]](https://osu.ppy.sh/beatmapsets/2624426#osu/5895109)
   6. [NM - LOVE IS THE POWER -Re:born- (EthantrixV3) [ENCORE EXTRA STAGE]](https://osu.ppy.sh/beatmapsets/2577951#osu/5743494)
