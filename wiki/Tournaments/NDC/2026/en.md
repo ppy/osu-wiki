@@ -46,7 +46,7 @@ Both the tournament and the prize pool were sponsored by the organisation and co
 - ::{ flag=XX }:: Anonymous: €50
 - ::{ flag=NL }:: [Alphan](https://osu.ppy.sh/users/13298387): €30
 
-<!-- ![](img/badge.png "NDC 2026 winner badge") -->
+![](img/badge.png "NDC 2026 winner badge")
 
 ## Organisation
 
@@ -58,7 +58,7 @@ The National Dutch Championship 2026 was run by various community members.
 | Mappool selector | ::{ flag=NL }:: [G e n g a o z o](https://osu.ppy.sh/users/14390731), ::{ flag=CN }:: [FcEazy](https://osu.ppy.sh/users/7825227), ::{ flag=TW }:: [Imokora](https://osu.ppy.sh/users/2472609) |
 | Mapper | ::{ flag=RU }:: [saido39](https://osu.ppy.sh/users/11278761), ::{ flag=DE }:: [324c](https://osu.ppy.sh/users/2054596), ::{ flag=GR }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=TH }:: [quantumvortex](https://osu.ppy.sh/users/10660777), ::{ flag=DE }:: [Icekalt](https://osu.ppy.sh/users/5410645), ::{ flag=DE }:: [Pho](https://osu.ppy.sh/users/3624692), ::{ flag=US }:: [SkyFlame](https://osu.ppy.sh/users/3552948), ::{ flag=NL }:: [Vivyanne](https://osu.ppy.sh/users/3789276) |
 | Storyboarder | ::{ flag=VN }:: [Ningguang](https://osu.ppy.sh/users/8500334) |
-| Song artist | ::{ flag=NL }:: [vifiiy](https://osu.ppy.sh/users/12876323), ::{ flag=NL }:: [astraea](https://osu.ppy.sh/users/17526061), ::{ flag=NL }:: [Kushper](https://osu.ppy.sh/users/4832514), ::{ flag=NO }:: [RLCR](https://osu.ppy.sh/users/12016215), lastpromise, ::{ flag=FI }:: [Naikoumusic](https://osu.ppy.sh/users/29139453) |
+| Song artist | ::{ flag=NL }:: [vifiiy](https://osu.ppy.sh/users/12876323), ::{ flag=NL }:: [astraea](https://osu.ppy.sh/users/17526061), ::{ flag=NL }:: [Kushper](https://osu.ppy.sh/users/4832514), ::{ flag=NO }:: [RLCR](https://osu.ppy.sh/users/12016215), ::{ flag=JP }:: [lastpromise](https://x.com/saigonopromise), ::{ flag=FI }:: [Naikoumusic](https://osu.ppy.sh/users/29139453) |
 | Background artist | ::{ flag=PH }:: [spinnyternally](https://osu.ppy.sh/users/18547482), ::{ flag=LV }:: [NekoMeganG](https://osu.ppy.sh/users/10766611), ::{ flag=NL }:: [vifiiy](https://osu.ppy.sh/users/12876323) |
 | Playtester | ::{ flag=NL }:: [Skyrovania](https://osu.ppy.sh/users/4696315), ::{ flag=NL }:: [SecretlyShiro](https://osu.ppy.sh/users/7498203), ::{ flag=NL }:: [Tutel](https://osu.ppy.sh/users/12241010), ::{ flag=NL }:: [Sroj](https://osu.ppy.sh/users/4783389), ::{ flag=FI }:: [mxu](https://osu.ppy.sh/users/18687807), ::{ flag=BE }:: [hexi](https://osu.ppy.sh/users/10760701), ::{ flag=PT }:: [Kuronora](https://osu.ppy.sh/users/2742030), ::{ flag=AT }:: [fedoragoose](https://osu.ppy.sh/users/2323131), ::{ flag=BE }:: [lychee boba](https://osu.ppy.sh/users/7078544), ::{ flag=PL }:: [Eirra](https://osu.ppy.sh/users/3493804), ::{ flag=DE }:: [KSN](https://osu.ppy.sh/users/5442251), ::{ flag=PL }:: [fajga](https://osu.ppy.sh/users/10590281) |
 | Referee | ::{ flag=TH }:: [Infinitstart](https://osu.ppy.sh/users/4026124), ::{ flag=NL }:: [wie ben jij](https://osu.ppy.sh/users/16322001), ::{ flag=EE }:: [sodanator](https://osu.ppy.sh/users/28827755), ::{ flag=NL }:: [Aimy](https://osu.ppy.sh/users/20348925), ::{ flag=NL }:: [Timper](https://osu.ppy.sh/users/11955929), ::{ flag=NL }:: [Bart](https://osu.ppy.sh/users/15961009), ::{ flag=NL }:: [astraea](https://osu.ppy.sh/users/17526061), ::{ flag=NL }:: [Fubu](https://osu.ppy.sh/users/12719649), ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) |
@@ -120,6 +120,12 @@ The National Dutch Championship 2026 was run by various community members.
 | 36 | ::{ flag=NL }:: [Natan](https://osu.ppy.sh/users/15457513) | #27863 | #292 |
 | 37 | ::{ flag=NL }:: [Bittshrooms](https://osu.ppy.sh/users/9250996) | #42831 | #461 |
 | 38 | ::{ flag=NL }:: [eclipseeeeee_e](https://osu.ppy.sh/users/38970099) | #349759 | #3261 |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+![](img/podium.jpg "NDC 2026 results")
 
 ## Mappools
 
