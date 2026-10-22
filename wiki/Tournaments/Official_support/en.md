@@ -214,6 +214,112 @@ In addition to the expectations for programs above, automated refereeing tools *
 - A human referee **must** always be available to respond to calls for support from participants within a reasonable timeframe (2–5 minutes) and be able to be summoned remotely via the use of a `!panic` command inside the lobby itself. When this command is used, all automation **must** stop until resumed by the human referee.
 - Any ongoing lobbies **must** be able to be manually taken over by a human referee with minimal interference whilst also retaining any previous logs of play and chat.
 
+## Badge support
+
+The checklists below are published so that organisers can check their tournament against the same criteria the [Tournament Committee](/wiki/People/Tournament_Committee) uses during [review](/wiki/People/Tournament_Committee#tournament-review), and fix any issues before submitting a request. For items that are not self-explanatory, each links to the section of this article that explains it in full. Where the two differ, the full text takes priority.
+
+Requirements fall into three groups:
+
+- **[Hard requirements](#hard-requirements)** must all be met **before** a request for badge support is sent. A tournament that does not meet them will not receive badge support.
+- **[Soft requirements](#soft-requirements)** must be met by the end of the review process. Issues found during review can be fixed then, but it is best to address them in advance.
+- **[Tri-badge criteria](#tri-badge)** apply only to tournaments requesting badges for their top three finalists.
+
+### Hard requirements
+
+The **Badge** column lists what every badged tournament needs. The **Tri-badge** column lists what a tournament requesting [top-three badges](#tri-badge) needs. This includes everything in the **Badge** column unless noted otherwise.
+
+| ID | Requirement | Badge | Tri-badge | See also |
+| :-: | :-- | :-: | :-: | :-- |
+| H1 | The tournament series runs no more than twice per year. | Required | Required | [Eligibility criteria](#eligibility-criteria) |
+| H2 | The format meets the minimum size expectations. | Required | Required | [Eligibility criteria](#eligibility-criteria) |
+| H3 | Any rank restrictions fall within the permitted ranges. | Required | See H4 | [Eligibility criteria](#eligibility-criteria) |
+| H4 | The tournament is open rank. | - | Required | [Top-three badges](#tri-badge) |
+| H5 | Any regional restriction is reasonable. | Required | Required | [Eligibility criteria](#eligibility-criteria) |
+| H6 | Regionally restricted tournaments meet the [regional eligibility](#regional-eligibility) threshold (at least 50% of permitted countries are eligible). | - | Required | [Regional eligibility](#regional-eligibility) |
+| H7 | At least 80% of all matches, excluding qualifiers, receive a full broadcast.[^full-broadcast] | - | Required | - |
+| H8 | No beatmaps under a DMCA takedown are used. | Required | Required | [Eligibility criteria](#eligibility-criteria) |
+| H9 | All mappools follow the [content usage permissions](/wiki/Rules/Content_usage_permissions), or proof of artist permission is provided. | Required | Required | [Eligibility criteria](#eligibility-criteria) |
+| H10 | The tournament theme, sponsors and promotional material **must not** violate the [community rules](/wiki/Rules). | Required | Required | [Regulations](#regulations) |
+| H11 | No generative AI was used to create any tournament visuals, music or beatmaps. | Required | Required | [Quality](#quality) |
+| H12 | All registrants were screened by the account support team before play commenced. | Required | Required | [Tournament screening](#screening) |
+| H13 | No players who failed screening were allowed to participate. | Required | Required | [Tournament screening](#screening) |
+| H14 | No personal information was collected outside the permitted exceptions. | Required | Required | [Eligibility criteria](#eligibility-criteria) |
+| H15 | A dedicated referee was present at every match, or approved [automated refereeing](#automated-refereeing) tools were used with a referee on call. | Required | Required | [Regulations](#regulations) |
+| H16 | No staff in disallowed roles played in the tournament. | Required | Required | [Staff expectations](#staff-expectations) |
+| H17 | No more than 50% of bracket stage matches ended in unpreventable forfeits.[^unpreventable-forfeit] | Required | See H18 | - |
+| H18 | No more than 25% of bracket stage matches ended in unpreventable forfeits.[^unpreventable-forfeit] | - | Required | - |
+| H19 | Any third-party filtering or seeding tools are open-source, documented, and received prior approval from the Tournament Committee. | Required | Required | [Programs](#programs) |
+| H20 | No manual adjustments were made to player or team seeding. | Required | Required | [Registrant filtering and seeding](#registrant-filtering-and-seeding) |
+| H21 | The seeding method is documented publicly. | Required | Required | [Registrant filtering and seeding](#registrant-filtering-and-seeding) |
+| H22 | Seeding can be reproduced by any independent third party. | Required | Required | [Registrant filtering and seeding](#registrant-filtering-and-seeding) |
+| H23 | The forum thread **and** tournament website (where applicable) contains a link to the [tournament reports form](https://tcomm.hivie.tn/reports/create). | Required | Required | [Regulations](#regulations) |
+| H24 | All rule changes were communicated clearly to all participants ahead of time. | Required | Required | [Regulations](#regulations) |
+| H25 | All tournament-affiliated platforms (Discord servers, social media accounts, websites, etc.) adhere to the [osu! community rules](/wiki/Rules). | Required | Required | [Regulations](#regulations) |
+
+### Soft requirements
+
+Soft requirements apply to all badged tournaments, including those requesting tri-badge. They must be in place by the time review concludes.
+
+| ID | Requirement | See also |
+| :-: | :-- | :-- |
+| S1 | Any tournament or staffing bans among staff were properly disclosed and handled. | [Staff expectations](#staff-expectations) |
+| S2 | Staff lists are public, easily accessible, up to date, and synchronised across all sources. | [Staff expectations](#staff-expectations) |
+| S3 | A public match history includes multiplayer links for every match. | [Regulations](#regulations) |
+| S4 | The badge follows the posted quality and formatting standards. | [Profile badges](#profile-badges) |
+| S5 | Mappools remain fully visible after the tournament concludes. | [Regulations](#regulations) |
+| S6 | Qualifier results are publicly available, where applicable. | [Regulations](#regulations) |
+
+### Tri-badge
+
+In exceptionally rare cases, a tournament may be granted badges for its top three finalists. Tournaments receiving this distinction are meant to represent the finest level of organisation and gameplay that the game has to offer. This distinction is awarded solely at the discretion of the Tournament Committee and osu! team.
+
+To be considered, a tournament must meet every [hard requirement](#hard-requirements) marked **Required** in the **Tri-badge** column, all [soft requirements](#soft-requirements), and score well on the criteria below.
+
+#### Scoring criteria
+
+These criteria help organisers judge whether their tournament is likely to reach the top-three standard. Yes/no criteria are worth 1 point if met and 0 if not. Scaled criteria are scored by the Tournament Committee and may contribute a variable number of points, the range of which will be noted below.
+
+Tournaments reaching a total of **[TBD] points** are likely to be considered for top-three badges. This total is a guideline to help organisers assess their own tournament, **not** a guarantee: the final decision rests with the osu! team and Tournament Committee.
+
+| ID | Criterion | Scoring |
+| :-: | :-- | :-- |
+| T1 | Website design | Scaled |
+| T2 | Website functionality | Scaled |
+| T3 | At least 30% of mappool tracks are already licensed [Featured Artist](/wiki/People/Featured_Artists) tracks | Yes/No |
+| T4 | Original music was commissioned for the tournament | Yes/No |
+| T5 | Quality of custom beatmaps | Scaled |
+| T6 | A wiki page was created for the tournament | Yes/No |
+| T7 | The tournament received news post support | Yes/No |
+| T8 | The tournament received in-game banner support | Yes/No |
+| T9 | Quality of release videos and/or custom designs | Scaled |
+| T10 | Mappool showcases were produced | Yes/No |
+| T11 | Clean, well-organised public documentation, spreadsheet, or website with full match data, statistics, and pick/ban history | Scaled |
+
+#### Regional eligibility
+
+Regionally restricted tournaments may be considered for top-three badges only if at least 50% of the countries permitted by the tournament's rules are **eligible countries** for the relevant game mode.
+
+A country is eligible if it placed within the following range at **either** of the two most recent World Cups for that game mode:
+
+| Game mode | World Cup | Eligible placements |
+| :-- | :-- | :-: |
+| osu! | [osu! World Cup](/wiki/Tournaments/OWC) | Top 24 |
+| osu!taiko | [osu!taiko World Cup](/wiki/Tournaments/TWC) | Top 12 |
+| osu!catch | [osu!catch World Cup](/wiki/Tournaments/CWC) | Top 8 |
+| osu!mania 4K | [osu!mania 4K World Cup](/wiki/Tournaments/MWC) | Top 16 |
+| osu!mania 7K | [osu!mania 7K World Cup](/wiki/Tournaments/MWC) | Top 8 |
+
+For example, an osu!taiko tournament open to 10 countries is eligible if at least 5 of those countries placed in the top 12 at either of the last two osu!taiko World Cups.
+
+#### Examples
+
+Below are examples of tournaments which have received this distinction:
+
+- [COE 2025 1v1 Tournament](/wiki/Tournaments/COE/COE_2025)
+- [Expert Global Taiko Showdown 2025](https://osu.ppy.sh/community/forums/topics/2023740?n=1)
+- [Springtime osu!mania Free-for-all Tournament 6](/wiki/Tournaments/SOFT/6)
+- [Project Prism 2024](/wiki/Tournaments/Project_Prism/2024)
+
 ## Requesting support
 
 This section details the procedures hosts **must** follow to receive official support. It is assumed that tournaments requesting support already satisfy the [eligibility criteria](#eligibility-criteria).
@@ -347,42 +453,6 @@ Below are examples of previously approved main-menu banners:
 
 [![4 Digit World Cup 2024 menu banner](img/4wc24-menubanner.png)](/wiki/Tournaments/4WC/2024)
 
-### Tri-badge {id=tri-badge-support}
-
-The tri-badge distinction is reserved for tournaments which achieve the highest level of production quality possible in osu! tournaments. In general, it should be **obvious** the tournament is worthy of receiving the distinction due to its outstanding quality, competition and community impact.
-
-Hosts aiming to achieve this support **must** adhere to all requirements listed below, and **should** aim to satisfy as many of the below recommendations as possible:
-
-- The tournament **must not** violate **any** other criteria listed in this article.
-- The tournament **must** be open rank[^open-rank] and **must not** be restricted to any specific geographic region.
-- Rules and regulations **must** be thoroughly thought through and documented **exceptionally well**.
-  - Rules **should not** need to be changed during the course of the event.
-- Rules and regulations **must** be enforced with **extremely high** accuracy. Issues with normal tournament operations are expected to be handled **exceptionally** well.
-- Stream overlays and other graphics **must** be of **extremely high** quality.
-  - Stream overlays **must** provide an excellent viewing experience, and **must not** have unnecessary clutter, unpolished elements, misaligned text or text that unpleasantly clashes with background imagery.
-  - Stream overlays **should** be animated.
-- Stream overlays **must** function **flawlessly** by the time the finals round is reached. While it is understood that bugs and issues occur in early rounds, these **must** be resolved as early as possible.
-- Player and community interest in the tournament **should** be **exceptionally high**.
-- Viewership of late-stage livestreams **should** be among the highest for tournaments of the same mode.
-- The tournament **should** be widely respected and highly anticipated by the community.
-- The level of competition **must** be **extremely high**.
-- A tournament website **may** be used. **If** so, it **must** function **exceptionally** well. A website that does not match the rest of the tournament's quality is worse than no website at all.
-- A vast majority of matches **must** be livestreamed with **high-quality** commentary. The **recommended** broadcast resolution is 1920x1080 at 60 FPS. The goal **should** be to stream and commentate as many matches as possible.
-- Barring exceptional circumstances, livestreams **must** be recorded. Recordings **must** be preserved and **should** be elegantly curated.
-  - Saving livestream recordings and re-publishing to a video hosting platform, such as YouTube, is **recommended**.
-  - Uploads **should** have thumbnails.
-
-At the committee's discretion, tournaments which meet or exceed these expectations **may** be granted the privilege of awarding badges to their top three finalists.
-
-#### Examples
-
-Below are examples of tournaments which have received this distinction:
-
-- [COE 2025 1v1 Tournament](/wiki/Tournaments/COE/COE_2025)
-- [Expert Global Taiko Showdown 2025](https://osu.ppy.sh/community/forums/topics/2023740?n=1)
-- [Springtime osu!mania Free-for-all Tournament 6](/wiki/Tournaments/SOFT/6)
-- [Project Prism 2024](/wiki/Tournaments/Project_Prism/2024)
-
 ## Conclusion
 
 After the tournament concludes, hosts **must** email [tournaments@ppy.sh](mailto:tournaments@ppy.sh) to request profile badge prizes with information pertinent to the review process. Requests **must not** be submitted before the tournament ends. Hosts **should** submit this request as soon as possible after the tournament's conclusion.
@@ -507,3 +577,5 @@ Yes! See [Official beatmapping contest support](/wiki/Contests/Official_support)
 [true]: /wiki/shared/true.png "Allowed, preferred"
 [false]: /wiki/shared/false.png "Not allowed"
 [partial]: /wiki/shared/partial.png "Allowed, not preferred"
+[^full-broadcast]: [TBD — definition of a "full broadcast", e.g. the match is streamed live in its entirety on the tournament's public broadcast channel.]
+[^unpreventable-forfeit]: [TBD — definition of an "unpreventable" forfeit, e.g. one caused by a participant's no-show or withdrawal rather than by an organiser's scheduling or administrative failure.]
