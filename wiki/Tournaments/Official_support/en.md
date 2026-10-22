@@ -311,6 +311,15 @@ A country is eligible if it placed within the following range at **either** of t
 
 For example, an osu!taiko tournament open to 10 countries is eligible if at least 5 of those countries placed in the top 12 at either of the last two osu!taiko World Cups.
 
+#### Examples
+
+Below are examples of tournaments which have received this distinction:
+
+- [COE 2025 1v1 Tournament](/wiki/Tournaments/COE/COE_2025)
+- [Expert Global Taiko Showdown 2025](https://osu.ppy.sh/community/forums/topics/2023740?n=1)
+- [Springtime osu!mania Free-for-all Tournament 6](/wiki/Tournaments/SOFT/6)
+- [Project Prism 2024](/wiki/Tournaments/Project_Prism/2024)
+
 ## Requesting support
 
 This section details the procedures hosts **must** follow to receive official support. It is assumed that tournaments requesting support already satisfy the [eligibility criteria](#eligibility-criteria).
