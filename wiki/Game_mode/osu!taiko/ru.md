@@ -4,7 +4,7 @@ needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/9918, also, check 
 
 # osu!taiko
 
-![Gameplay of osu!taiko](/wiki/shared/taiko-gameplay.jpg "Интерфейс osu!taiko")
+![Геймплей osu!taiko](/wiki/shared/taiko-gameplay.jpg "Интерфейс osu!taiko")
 
 osu!taiko - это игровой режим в osu!, основанный на серии японских ритм-игр [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin) (выпущено в Северной Америке под названием [Taiko: Drum Master](http://en.wikipedia.org/wiki/Taiko:_Drum_Master)).
 
@@ -20,7 +20,7 @@ osu!taiko - это игровой режим в osu!, основанный на 
 
 #### Игровое поле
 
-![Taiko playfield](/wiki/shared/Taiko_playfield.jpg "Игровое поле osu!taiko")
+![Игровое поле в osu!taiko](/wiki/shared/Taiko_playfield.jpg "Игровое поле osu!taiko")
 
 Для игроков с опытом игры в *Taiko no Tatsujin*:
 
@@ -40,7 +40,7 @@ osu!taiko - это игровой режим в osu!, основанный на 
 
 #### Ноты тайко
 
-![Taiko hit circles](/wiki/shared/Taiko_hitcircles.jpg "Ноты в osu!taiko")
+![Круглые ноты в osu!taiko](/wiki/shared/Taiko_hitcircles.jpg "Ноты в osu!taiko")
 
 Ноты тайко могут быть либо красными, либо синими кругами. Эти круги называются Дон (для красных нот) и Кацу или Кат (для синих нот) соответственно.
 
@@ -50,7 +50,7 @@ osu!taiko - это игровой режим в osu!, основанный на 
 
 #### Драмроллы
 
-![Taiko drumroll](/wiki/shared/Taiko_drumroll.jpg "Драмролл в osu!taiko")
+![Драмролл в osu!taiko](/wiki/shared/Taiko_drumroll.jpg "Драмролл в osu!taiko")
 
 Для получения очков, нажимайте внутренние (или внешние) части барабана до конца драмролла. Можно нажимать как левую, как правую, так и обе части по очереди. Если перед вами **БОЛЬШОЙ** драмролл, нужно нажимать одновременно две стороны внутренней (или внешней) части барабана. Заметьте, что вы можете ударить по драмроллу ограниченное количество раз. Счетчик повышается только если вы ударили по маленькому кругу, в отличии от *Taiko no Tatsujin*, где вы можете нажимать по драмроллу так быстро, как можете.
 
@@ -58,7 +58,7 @@ osu!taiko - это игровой режим в osu!, основанный на 
 
 #### Дендены
 
-![Taiko spinner](/wiki/shared/Taiko_spinner.jpg "Спиннер (денден) в osu!taiko")
+![Спиннер в osu!taiko](/wiki/shared/Taiko_spinner.jpg "Спиннер (денден) в osu!taiko")
 
 **Поочередно** нажимайте внешнюю и внутреннюю части барабана (например: красная, синяя, красная, синяя, ...), пока счетчик денден не достигнет 0. Цвет, с которого вы начали денден, не важен (вы можете начать как с красного, так и с синего), и неудача в прохождении дендена повлечет за собой потерю здоровья, но не сброс комбо. Если нажимать один и тот же цвет несколько раз во время дендена, его счетчик не понизится, пока другой цвет не будет нажат.
 
@@ -136,7 +136,7 @@ osu!taiko - это игровой режим в osu!, основанный на 
 
 ### История
 
-![osu!taiko logo in the Special Modes](img/Taiko_logo.jpg "Логотип osu!taiko в меню особых режимов")
+![Логотип osu!taiko в меню особых режимов](img/Taiko_logo.jpg "Логотип osu!taiko в меню особых режимов")
 
 - При включенной в меню настроек функции `Свой скин для тайко` под секцией настроек скина будет использовать элементы скина из папки `taiko` при игре в osu!taiko, независимо от элементов текущего скина. Раньше там находился скин *[Taiko от LuiginHann](https://osu.ppy.sh/community/forums/topics/41319)*, который можно было скачать из устаревшего `osume.exe` (старая система обновлений, использовавшаяся до интеграции ее в игру) во вкладке `Skin`.
 - Первой рейтинговой картой, содержащей сложность в режиме osu!taiko стала [Taiko no Tatsujin - Saitama2000](https://osu.ppy.sh/beatmapsets/210) от [Kharl](https://osu.ppy.sh/users/452)
