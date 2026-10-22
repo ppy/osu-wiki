@@ -11,7 +11,7 @@ Archives de l'histoire de osu!, tout sur le wiki d'osu!
 | :-: | :-- |
 | [2007](2007) | Build initial du jeu |
 | [2008](2008) | osu!taiko, osu!catch, plus de mods et améliorations majeures |
-| [2009](2009) | osu! iPhone, nouveaux modes multijoueurs et système de kudosu  |
+| [2009](2009) | osu! iPhone, nouveaux modes multijoueurs et système de kudosu |
 | [2010](2010) | Wai-con 2010 |
 | [2011](2011) | Création du wiki d'osu! |
 | [2012](2012) | 5 ans d'osu!, osu!mania, support widescreen et paramètres visuels |
