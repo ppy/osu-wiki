@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2026 banner](img/owc2026-banner.jpg)
 
-The **osu! World Cup 2026** (***OWC 2026***) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the seventeenth instalment of the osu! World Cup.
+The **osu! World Cup 2026** (***OWC 2026***) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the seventeenth installment of the osu! World Cup.
 
 ## Tournament schedule
 
