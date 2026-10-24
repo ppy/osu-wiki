@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Persefone"
-date: 2026-10-24 18:00:00 +0000
+date: 2026-10-24 22:00:00 +0000
 series: featured_artists
 ---
 
