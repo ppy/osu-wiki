@@ -17,7 +17,7 @@ If you need some convincing before that, look no further than these previews:
 
 ### Persefone - Consciousness
 
-This two-part track has been mapped in full by [GoldenWolf](https://osu.ppy.sh/users/1612624), so [experience it for yourself](https://osu.ppy.sh/beatmapsets/700870) or watch this ancient video of [wuk](https://osu.ppy.sh/users/14457718) giving it an attempt from [COE](/wiki/Community/cavoe's_osu!_event)! (Alternatively, try out [Fabrical](https://osu.ppy.sh/users/10719991)'s [4K osu!mania rendition](https://osu.ppy.sh/beatmapsets/2361305) of the song.)
+The first two parts of this multi-segment track have been mapped by [GoldenWolf](https://osu.ppy.sh/users/1612624), so [experience it for yourself](https://osu.ppy.sh/beatmapsets/700870) or watch this ancient video of [wuk](https://osu.ppy.sh/users/14457718) giving it an attempt from [COE](/wiki/Community/cavoe's_osu!_event)! (Alternatively, try out [Fabrical](https://osu.ppy.sh/users/10719991)'s [4K osu!mania rendition](https://osu.ppy.sh/beatmapsets/2361305) of the song.)
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
