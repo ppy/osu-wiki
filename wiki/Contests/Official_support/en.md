@@ -45,8 +45,8 @@ In addition, all promotional material or any services associated with a contest 
 
 While the following expectations mainly apply to tournaments, contests are still expected to abide by them to the best of their ability:
 
-- [Staff](/wiki/Tournaments/Official_support#staff)
-- [Players](/wiki/Tournaments/Official_support#players)
+- [Staff](/wiki/Tournaments/Official_support#staff-expectations)
+- [Players](/wiki/Tournaments/Official_support#player-expectations)
 
 ## Eligibility
 

@@ -46,8 +46,8 @@ tags:
 
 虽然以下期望主要适用于锦标赛，但作图竞赛也应尽其所能遵守：
 
-- [有关工作人员](/wiki/Tournaments/Official_support#staff)
-- [有关参赛者](/wiki/Tournaments/Official_support#players)
+- [有关工作人员](/wiki/Tournaments/Official_support#staff-expectations)
+- [有关参赛者](/wiki/Tournaments/Official_support#player-expectations)
 
 ## 资格标准
 
