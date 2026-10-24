@@ -298,7 +298,7 @@ Curated and description written by [RandomeLoL](https://osu.ppy.sh/users/7080063
 190 BPM, 1:52 | 3.94★
 Curated and description written by [Muse Dash](https://osu.ppy.sh/users/13695676)
 
-It's not every day you stumble upon a pure rice mapset that manages to keep things this engaging from start to finish, and [Grayed Out](https://osu.ppy.sh/beatmapsets/2447781) delivers a highly unique playing experience. The top difficulty introduced some snappy tech patterns and dump sections that match the music's intensity perfectly without feeling disjointed. On the flip side, the lower diffs do an excellent job of breaking down those complex rhythms into smooth, beginner-friendly patterns. Huge props to [-MysticEyes](url) for finding that elusive sweet spot between map expression and actual gameplay.
+It's not every day you stumble upon a pure rice mapset that manages to keep things this engaging from start to finish, and [Grayed Out](https://osu.ppy.sh/beatmapsets/2447781) delivers a highly unique playing experience. The top difficulty introduced some snappy tech patterns and dump sections that match the music's intensity perfectly without feeling disjointed. On the flip side, the lower diffs do an excellent job of breaking down those complex rhythms into smooth, beginner-friendly patterns. Huge props to [-MysticEyes](https://osu.ppy.sh/users/6253266) for finding that elusive sweet spot between map expression and actual gameplay.
 
 ![](https://assets.ppy.sh/beatmaps/2556183/covers/cover@2x.jpg?1780975576)
 
@@ -340,7 +340,7 @@ Fun fact: [the composer knows their songs were used in osu!](https://x.com/JunaF
 190 BPM, 5:12 | 6.44★
 Curated and description written by [Rurv](https://osu.ppy.sh/users/24526335)
 
-We're going to feature this wonderful rice and long note mixture! A banger song from [osu! World Cup 2025](https://osu.ppy.sh/wiki/en/Tournaments/OWC/2025), mapped by a very-well-known 4K combination mappers, [VividCycle](https://osu.ppy.sh/beatmapsets/2473390#mania/5420892) (also known as [Seiran-](https://osu.ppy.sh/beatmapsets/2473390#mania/5420892)) and [purakon](https://osu.ppy.sh/users/22412151) will provide you gather your overall skillsets. You'll need to know how to handle both rice and long note skills; it starts with your rice stream consistency and ends with reading complex long notes. It will be enjoyable to challenge your limits with mid-tier boss charts.
+We're going to feature this wonderful rice and long note mixture! A banger song from [osu! World Cup 2025](/wiki/Tournaments/OWC/2025), mapped by a very-well-known 4K combination mappers, [VividCycle](https://osu.ppy.sh/users/14351534) (also known as Seiran-) and [purakon](https://osu.ppy.sh/users/22412151) will provide you gather your overall skillsets. You'll need to know how to handle both rice and long note skills; it starts with your rice stream consistency and ends with reading complex long notes. It will be enjoyable to challenge your limits with mid-tier boss charts.
 
 ![](https://assets.ppy.sh/beatmaps/2253784/covers/cover@2x.jpg?1780991168)
 
