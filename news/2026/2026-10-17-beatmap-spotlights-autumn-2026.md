@@ -262,7 +262,7 @@ This original composed for the [osu!catch World Cup 2024](/wiki/Tournaments/CWC/
 170 BPM, 5:28 | 5.76★
 Curated and description written by [BlackBN](https://osu.ppy.sh/users/6291741)
 
-As one of the submissions for "ease of access v2", Spectator has delivered a really breathtaking mid-SR map. The really low-CS and wiggle-heavy patterns provide something unique that you definitely don't want to miss out on!
+As one of the submissions for the Mappers' Guild priority quest "[ease of access v2](https://mappersguild.com/missions?id=69b4f0940ff92c44ae6600a6)", Spectator has delivered a really breathtaking mid-SR map. The really low-CS and wiggle-heavy patterns provide something unique that you definitely don't want to miss out on!
 
 ![](https://assets.ppy.sh/beatmaps/2596676/covers/cover@2x.jpg?1786276593)
 
