@@ -38,7 +38,7 @@ The osu! spotlit beatmaps were curated by [DigitalHypno](https://osu.ppy.sh/user
 178 BPM, 2:41 | 3.70★
 Curated and description written by [DigitalHypno](https://osu.ppy.sh/users/4384207)
 
-F1055 is the perfect balance of inspirational mapping quality and uniquely enjoyable gameplay. The top difficulty was created by a team of South Korean mappers ([Beomsan](https://osu.ppy.sh/users/3626063), [Acylica](https://osu.ppy.sh/users/1943309), [milr_](https://osu.ppy.sh/users/4485933), and [Taeyang](https://osu.ppy.sh/users/2732340)) for the [osu! Beatmapping World Championship (OBWC) 2025](https://osu.ppy.sh/wiki/en/Contests/o%21bwc/4) Final. Now Ranked with a full difficulty spread, each difficulty features stunningly high-quality mapping and slider shapes, engaging complex rhythms, and custom keysounds that elevate the song to new creative heights.
+F1055 is the perfect balance of inspirational mapping quality and uniquely enjoyable gameplay. The top difficulty was created by a team of South Korean mappers ([Beomsan](https://osu.ppy.sh/users/3626063), [Acylica](https://osu.ppy.sh/users/1943309), [milr_](https://osu.ppy.sh/users/4485933), and [Taeyang](https://osu.ppy.sh/users/2732340)) for the [osu! Beatmapping World Championship (OBWC) 2025](/wiki/Contests/o!bwc/4) Final. Now Ranked with a full difficulty spread, each difficulty features stunningly high-quality mapping and slider shapes, engaging complex rhythms, and custom keysounds that elevate the song to new creative heights.
 
 ![](https://assets.ppy.sh/beatmaps/2478473/covers/cover@2x.jpg?1769353849)
 
@@ -100,7 +100,7 @@ Partly inspired by 1OOpa-'s *Haru no Katami*, [Maria Iskariot](https://osu.ppy.s
 260 BPM, 2:21 | 6.99★
 Curated and description written by [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 
-A masterpiece of storytelling mapping supported by amazing slider design, this entry from the American team during the [osu! Beatmapping World Championship (OBWC) 2025 Final](https://osu.ppy.sh/wiki/en/Contests/o%21bwc/4) delivers a memorable playing experience. The team members, [fowwo](https://osu.ppy.sh/users/4547551), [Pandize](https://osu.ppy.sh/users/5490937), [phyr](https://osu.ppy.sh/users/13181574), [Weoweet](https://osu.ppy.sh/users/16861790) and [6pXgEj3hc7Umj5H](https://osu.ppy.sh/users/18130046), have since then become inspirations for numerous aspiring mappers. With the inclusion of the several lower diffs made by the American team that inherited their entry's spirit, together with the French team's entry by [Nozuchi](https://osu.ppy.sh/users/5858447), [Timevid](https://osu.ppy.sh/users/9125335), [Blacky Design](https://osu.ppy.sh/users/11540165), [Yumerios](https://osu.ppy.sh/users/11681430), [Pisapou](https://osu.ppy.sh/users/16640021) and [Lyvai](https://osu.ppy.sh/users/17081761), this mapset will grant players on every level an unforgettable journey.
+A masterpiece of storytelling mapping supported by amazing slider design, this entry from the American team during the [osu! Beatmapping World Championship (OBWC) 2025 Final](/wiki/Contests/o!bwc/4) delivers a memorable playing experience. The team members, [fowwo](https://osu.ppy.sh/users/4547551), [Pandize](https://osu.ppy.sh/users/5490937), [phyr](https://osu.ppy.sh/users/13181574), [Weoweet](https://osu.ppy.sh/users/16861790) and [6pXgEj3hc7Umj5H](https://osu.ppy.sh/users/18130046), have since then become inspirations for numerous aspiring mappers. With the inclusion of the several lower diffs made by the American team that inherited their entry's spirit, together with the French team's entry by [Nozuchi](https://osu.ppy.sh/users/5858447), [Timevid](https://osu.ppy.sh/users/9125335), [Blacky Design](https://osu.ppy.sh/users/11540165), [Yumerios](https://osu.ppy.sh/users/11681430), [Pisapou](https://osu.ppy.sh/users/16640021) and [Lyvai](https://osu.ppy.sh/users/17081761), this mapset will grant players on every level an unforgettable journey.
 
 ![](https://assets.ppy.sh/beatmaps/2560052/covers/cover@2x.jpg?1780114465)
 
@@ -178,7 +178,7 @@ At over four minutes of length, [yakisode](https://osu.ppy.sh/users/35619347) ca
 260 BPM, 2:28 | 7.55★
 Curated by [nevqr](https://osu.ppy.sh/users/14269506). Description written by [Yasuho](https://osu.ppy.sh/users/8458835)
 
-Emerging from [this year's osu!taiko World Cup](https://osu.ppy.sh/wiki/en/Tournaments/TWC/2026), this 260 BPM song combines lots of rhythm changes and an energetic Vocaloid voice. A must-play for speed enthusiasts! Served as the Finals NM1 and as one of the most sought-after osu! originals this year, you have to stay *Super-Focused* from start to finish. A great pick to test your speed abilities and push your limits.
+Emerging from [this year's osu!taiko World Cup](/wiki/Tournaments/TWC/2026), this 260 BPM song combines lots of rhythm changes and an energetic Vocaloid voice. A must-play for speed enthusiasts! Served as the Finals NM1 and as one of the most sought-after osu! originals this year, you have to stay *Super-Focused* from start to finish. A great pick to test your speed abilities and push your limits.
 
 ![](https://assets.ppy.sh/beatmaps/2099918/covers/cover@2x.jpg?1764532049)
 
@@ -194,7 +194,7 @@ A long-awaited community favorite during the 2 years of mapping, [Ares](https://
 144 BPM, 7:31 | 8.14★
 Curated and description written by [Yasuho](https://osu.ppy.sh/users/8458835)
 
-Brace for impact, as the Finals tiebreaker of [this year's osu!taiko World Cup](https://osu.ppy.sh/wiki/en/Tournaments/TWC/2026) lands in your `Songs` folder, with seven and a half minutes of pure hyperflip bliss, challenging patterns and a beautifully crafted storyboard. This map combines tricky SVs with a bunch of snapping changes that emphasize all the intensity this incredible song has to offer!
+Brace for impact, as the Finals tiebreaker of [this year's osu!taiko World Cup](/wiki/Tournaments/TWC/2026) lands in your `Songs` folder, with seven and a half minutes of pure hyperflip bliss, challenging patterns and a beautifully crafted storyboard. This map combines tricky SVs with a bunch of snapping changes that emphasize all the intensity this incredible song has to offer!
 
 ## osu!catch
 
@@ -348,7 +348,7 @@ We're going to feature this wonderful rice and long note mixture! A banger song 
 226 BPM, 7:10 | 7.32★
 Curated by [Muse Dash](https://osu.ppy.sh/users/13695676). Description written by [RandomeLoL](https://osu.ppy.sh/users/7080063)
 
-Earlier this summer, the Ranked section was finally bestowed with [kanemiko & Kyutatsuki & Aoi - Fractal vertex](https://osu.ppy.sh/beatmapsets/2253784#mania/4793996) by [-mint-](https://osu.ppy.sh/users/8976576), [Toaph Daddy](https://osu.ppy.sh/users/7616811), [MyZterioN-](https://osu.ppy.sh/users/8521723), [elexire](https://osu.ppy.sh/users/9206093), and [guden](https://osu.ppy.sh/users/11626065). Arguably one of the most anticipated maps from the [osu!mania 4K World Cup 2024](https://osu.ppy.sh/wiki/en/Tournaments/MWC/2024_4K), the Grand Finals tiebreaker joined the Ranked section alongside the rest of capstone beatmaps of the tournament series! This full-flavour, non-stop barrage of mapping styles ended up becoming one of the community's most favourite maps of the year. Despite the challenge, we believe it remains a must-try for any players with the capacity to endure its difficulty. Shoutouts to everyone from the pooling and design team for their continued love for their craft.
+Earlier this summer, the Ranked section was finally bestowed with [kanemiko & Kyutatsuki & Aoi - Fractal vertex](https://osu.ppy.sh/beatmapsets/2253784#mania/4793996) by [-mint-](https://osu.ppy.sh/users/8976576), [Toaph Daddy](https://osu.ppy.sh/users/7616811), [MyZterioN-](https://osu.ppy.sh/users/8521723), [elexire](https://osu.ppy.sh/users/9206093), and [guden](https://osu.ppy.sh/users/11626065). Arguably one of the most anticipated maps from the [osu!mania 4K World Cup 2024](/wiki/Tournaments/MWC/2024_4K), the Grand Finals tiebreaker joined the Ranked section alongside the rest of capstone beatmaps of the tournament series! This full-flavour, non-stop barrage of mapping styles ended up becoming one of the community's most favourite maps of the year. Despite the challenge, we believe it remains a must-try for any players with the capacity to endure its difficulty. Shoutouts to everyone from the pooling and design team for their continued love for their craft.
 
 ---
 
