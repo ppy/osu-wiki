@@ -68,7 +68,7 @@ In early 2020, the Seasonal Spotlights have been discontinued in favour of the [
 
 **Beatmap Challenge Packs medals**, also referred to as [*Skill Packs medals*](https://osu.ppy.sh/home/news/2020-11-20-featured-artist-beatmap-updates-from-the-mappers-guild#skill-packs), are medals awarded upon clearing the hardest difficulty present on all beatmaps featured in certain [Theme Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=theme) or [Artist/Album Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=artist). These are specifically curated to test each player's comprehension of various gameplay aspects around a specific skill level, e.g. within a particular [star rating](/wiki/Beatmap/Star_rating) or difficulty cap range.
 
-All beatmaps in the pack have to be cleared in the [osu!](/wiki/Game_mode/osu!) game mode in order to qualify for the medal unless otherwise specified. [Difficulty reduction](/wiki/Gameplay/Game_modifier#difficulty-reduction) or [special](/wiki/Gameplay/Game_modifier#special) mods may not be used. In osu!(lazer), players are not allowed to use any unranked mods such as [Relax](/wiki/Gameplay/Game_modifier/Relax_(lazer)).
+All beatmaps in the pack have to be cleared in the [osu!](/wiki/Game_mode/osu!) game mode in order to qualify for the medal unless otherwise specified. [Difficulty reduction](/wiki/Gameplay/Game_modifier#difficulty-reduction) or [special](/wiki/Gameplay/Game_modifier#special) mods may not be used. In osu!(lazer), players are also not allowed to use any unranked mods such as [Relax](/wiki/Gameplay/Game_modifier/Relax_(lazer)).
 
 ## See also
 
