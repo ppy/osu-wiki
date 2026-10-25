@@ -322,7 +322,7 @@ Arguably the most unorthodox beatmap from the season, we wanted to put the spotl
 150 BPM, 4:24 | 4.57★
 Curated and description written by [Muse Dash](https://osu.ppy.sh/users/13695676)
 
-Step into the ethereal atmosphere of [Bourei](https://osu.ppy.sh/beatmapsets/2419237) with this highly inventive tech dump map. [caraco](https://osu.ppy.sh/beatmapsets/2419237) brilliantly expresses the song's moods into varied patterns, utilizing a strong focus on stack structures and light LN transitions. The result is a mapping style that feels both smooth and fresh, perfectly matching the music's vibe.
+Step into the ethereal atmosphere of [Bourei](https://osu.ppy.sh/beatmapsets/2419237) with this highly inventive tech dump map. [caracol](https://osu.ppy.sh/beatmapsets/2419237) brilliantly expresses the song's moods into varied patterns, utilizing a strong focus on stack structures and light LN transitions. The result is a mapping style that feels both smooth and fresh, perfectly matching the music's vibe.
 
 ![](https://assets.ppy.sh/beatmaps/2465370/covers/cover@2x.jpg?1766687943)
 
