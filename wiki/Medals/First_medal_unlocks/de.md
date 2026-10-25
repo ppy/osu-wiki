@@ -98,6 +98,7 @@ Dies ist eine Auflistung der Nutzer, die in der Geschichte von osu! die jeweilig
 | ![](/wiki/shared/medals/catch-packs-mili.png) | Mili Pack | ::{ flag=US }:: [TheMagicAnimals](https://osu.ppy.sh/users/17274052) | 15.06.2026 (06:40:10) |
 | ![](/wiki/shared/medals/mania-packs-4k-globe.png) | 4K Globetrotter | ::{ flag=US }:: [TheMagicAnimals](https://osu.ppy.sh/users/17274052) | 15.06.2026 (06:53:30) |
 | ![](/wiki/shared/medals/mania-packs-7k-world-cup.png) | 7K World Cup Anthology | ::{ flag=JP }:: [hisuiohani-na](https://osu.ppy.sh/users/35005394) | 15.06.2026 (06:22:16) |
+| ![](/wiki/shared/medals/spotlight-2026-autumn.png) | Autumn 2026 Beatmap Spotlights | ::{ flag=PH }:: [ChargedCrit](https://osu.ppy.sh/users/17485251) | 25.11.2026 (13:07:35) |
 
 ## Beatmap Spotlights
 
