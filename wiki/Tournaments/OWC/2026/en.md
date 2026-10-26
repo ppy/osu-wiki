@@ -217,7 +217,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 [Watch the Qualifier seed reveal VOD here](https://www.twitch.tv/videos/2910922400)
 
-| Seed | Country | Rating[^qualifiers-seeding]  | Avg. score[^qualifiers-tiebreaker] | Lobby link |
+| Seed | Country | Rating[^qualifiers-seeding] | Avg. score[^qualifiers-tiebreaker] | Lobby link |
 | :-: | :-- | --: | --: | --: |
 | #1 | ::{ flag=US }:: United States | 10.278 | 3,206,706 | [#1](https://osu.ppy.sh/community/matches/122053470) |
 | #2 | ::{ flag=PL }:: Poland | 10.048 | 3,134,130 | [#1](https://osu.ppy.sh/community/matches/122068729) |
