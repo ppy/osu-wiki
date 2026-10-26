@@ -159,7 +159,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/dc7
 | E2 | Türkiye ::{ flag=TR }:: | ::{ flag=DK }:: Denmark | [Oct 31 (Sat) 16:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261031T163000&p1=1440&p3=69) | *TBD* |
 | E1 | Türkiye ::{ flag=TR }:: | ::{ flag=SA }:: Saudi Arabia | [Oct 31 (Sat) 17:15 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261031T171500&p1=1440) | *TBD* |
 | B4 | New Zealand ::{ flag=NZ }:: | ::{ flag=NL }:: Netherlands | [Oct 31 (Sat) 21:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261031T210000&p1=1440&p2=264&p3=16) | *TBD* |
-| SC | Round of 16 | mappool showcase | []() |  |
 
 ### Sunday, 1 November 2026
 
@@ -213,7 +212,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/dc7
 | G3 | Romania ::{ flag=RO }:: | ::{ flag=BE }:: Belgium | [Nov 08 (Sun) 19:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T193000&p1=1440&p2=49&p3=48) | *TBD* |
 
 ## Qualifiers
-
 
 The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1zw7sLCKtB-yLer9mTdhkMCDKanbEpKWy-E3AQQ9mZ8c?rm=minimal).
 
@@ -289,14 +287,13 @@ The final standings for the Qualifier stage can be found in the following [sprea
 | #66 | ::{ flag=MN }:: Mongolia | 2.587 | 803,605 | [#1](https://osu.ppy.sh/community/matches/122067397) |
 | #67 | ::{ flag=MT }:: Malta | 2.412 | 740,948 | [#1](https://osu.ppy.sh/community/matches/122063288) |
 
-\*: 
-
 ## Groups
 
 [Watch the Group drawings VOD here](https://www.twitch.tv/videos/2910922400?t=0h56m57s)
 
 Group A:
-| # | Team | Wins | Losses | PF | PA | PD | Seed |
+
+| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD^[pd] | Seed |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
 | #1 | ::{ flag=HK }:: Hong Kong | **0** | 0 | 0 | 0 | **0** | 9 |
 | #2 | ::{ flag=NO }:: Norway | **0** | 0 | 0 | 0 | **0** | 13 |
@@ -304,7 +301,8 @@ Group A:
 | #4 | ::{ flag=AR }:: Argentina | **0** | 0 | 0 | 0 | **0** | 23 |
 
 Group B:
-| # | Team | Wins | Losses | PF | PA | PD | Seed |
+
+| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD^[pd] | Seed |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
 | #1 | ::{ flag=DE }:: Germany | **0** | 0 | 0 | 0 | **0** | 10 |
 | #2 | ::{ flag=NZ }:: New Zealand | **0** | 0 | 0 | 0 | **0** | 15 |
@@ -312,7 +310,8 @@ Group B:
 | #4 | ::{ flag=TW }:: Taiwan | **0** | 0 | 0 | 0 | **0** | 21 |
 
 Group C:
-| # | Team | Wins | Losses | PF | PA | PD | Seed |
+
+| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD^[pd] | Seed |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
 | #1 | ::{ flag=CN }:: China | **0** | 0 | 0 | 0 | **0** | 12 |
 | #2 | ::{ flag=SE }:: Sweden | **0** | 0 | 0 | 0 | **0** | 14 |
@@ -320,7 +319,8 @@ Group C:
 | #4 | ::{ flag=TH }:: Thailand | **0** | 0 | 0 | 0 | **0** | 22 |
 
 Group D:
-| # | Team | Wins | Losses | PF | PA | PD | Seed |
+
+| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD^[pd] | Seed |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
 | #1 | ::{ flag=BR }:: Brazil | **0** | 0 | 0 | 0 | **0** | 11 |
 | #2 | ::{ flag=AT }:: Austria | **0** | 0 | 0 | 0 | **0** | 16 |
@@ -328,7 +328,8 @@ Group D:
 | #4 | ::{ flag=PH }:: Philippines | **0** | 0 | 0 | 0 | **0** | 24 |
 
 Group E:
-| # | Team | Wins | Losses | PF | PA | PD | Seed |
+
+| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD^[pd] | Seed |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
 | #1 | ::{ flag=TR }:: Türkiye | **0** | 0 | 0 | 0 | **0** | 27 |
 | #2 | ::{ flag=SA }:: Saudi Arabia | **0** | 0 | 0 | 0 | **0** | 30 |
@@ -336,7 +337,8 @@ Group E:
 | #4 | ::{ flag=UY }:: Uruguay | **0** | 0 | 0 | 0 | **0** | 37 |
 
 Group F:
-| # | Team | Wins | Losses | PF | PA | PD | Seed |
+
+| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD^[pd] | Seed |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
 | #1 | ::{ flag=JP }:: Japan | **0** | 0 | 0 | 0 | **0** | 28 |
 | #2 | ::{ flag=MY }:: Malaysia | **0** | 0 | 0 | 0 | **0** | 29 |
@@ -344,7 +346,8 @@ Group F:
 | #4 | ::{ flag=SK }:: Slovakia | **0** | 0 | 0 | 0 | **0** | 40 |
 
 Group G:
-| # | Team | Wins | Losses | PF | PA | PD | Seed |
+
+| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD^[pd] | Seed |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
 | #1 | ::{ flag=RO }:: Romania | **0** | 0 | 0 | 0 | **0** | 26 |
 | #2 | ::{ flag=UA }:: Ukraine | **0** | 0 | 0 | 0 | **0** | 31 |
@@ -352,7 +355,8 @@ Group G:
 | #4 | ::{ flag=BE }:: Belgium | **0** | 0 | 0 | 0 | **0** | 39 |
 
 Group H:
-| # | Team | Wins | Losses | PF | PA | PD | Seed |
+
+| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD^[pd] | Seed |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
 | #1 | ::{ flag=ES }:: Spain | **0** | 0 | 0 | 0 | **0** | 25 |
 | #2 | ::{ flag=PT }:: Portugal | **0** | 0 | 0 | 0 | **0** | 32 |
@@ -671,7 +675,7 @@ The final bracket configuration will be as follows:
 [^pf]: PF – Points for this team
 [^pa]: PA – Points against this team
 [^pd]: PD – Point differential: `PD = map wins - map losses`. Used as the first tiebreaker for the group
-[^groups-seed]: Qualifier seeding. Used as the second tiebreaker for the group
+[^groups-seed]: Qualifier seeding. Used as the final tiebreaker for the group
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum
 [^player-pov-recording]: One or more scores were taken from a player POV recording due to technical issues and may not appear on the match link.
