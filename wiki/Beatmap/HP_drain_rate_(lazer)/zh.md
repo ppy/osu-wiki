@@ -5,6 +5,8 @@ tags:
   - passive drain rate
   - 掉血速度
   - 被动掉血速度
+outdated_translation: true
+outdated_since: 21a9e9ac5552149f60dfa47791175ad0d1be6317
 ---
 
 # 掉血速度 (HP drain rate) (lazer)
