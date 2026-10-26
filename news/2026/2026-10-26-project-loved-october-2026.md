@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Loved: October 2026"
-date: 2026-10-26 20:00:00 +0000
+date: 2026-10-26 22:20:00 +0000
 series: project_loved
 ---
 
@@ -51,11 +51,11 @@ The osu! Loved candidates were chosen by [BATBALL](https://osu.ppy.sh/users/1517
 190 BPM, 3:37 | 7.68★\
 *description written by [BATBALL](https://osu.ppy.sh/users/15173952)*
 
-WELCOME TO OCTOBER. TO START OFF THE SPOOKY SEASON, 👻👻 THIS MONTH I'LL BE NOMINATING ONE OF MY FAVORITE MAPS! [Hakushi Hasegawa + Yukichikasaku/men - Sukuinote](https://osu.ppy.sh/beatmapsets/2070901#osu).
+WELCOME TO OCTOBER. TO START OFF THE SPOOKY SEASON, 👻👻 THIS MONTH I'LL BE NOMINATING ONE OF MY FAVORITE MAPS ! [Hakushi Hasegawa + Yukichikasaku/men - Sukuinote](https://osu.ppy.sh/beatmapsets/2070901#osu).
 
 THIS MIGHT BE ONE OF THE MOST RIDICULOUS MAPS YOU WILL EVER PLAY! ON TOP OF A MAGNIFICENT AESTHETIC STYLE, MAPPER [MYSTYCUTE](https://osu.ppy.sh/users/10210657) COMBINES ELEMENTS OF SLIDER TECH, AIM CONTROL, AND RHYTHM TO CREATE A CRAZY BEATMAP THAT, DESPITE SITTING AT 7.67★, STILL FEELS MASSIVELY UNDERWEIGHTED...
 
-IT'S NO SURPRISE THAT THIS MAP IS ALSO A SECOND-PLACE FINISHER OF THE BEATMAPPING CONTEST [PENDING CUP XI](https://osu.ppy.sh/community/forums/topics/1774614?n=1). THIS MAP 很牛逼🤫
+IT'S NO SURPRISE THAT THIS MAP IS ALSO A SECOND-PLACE FINISHER OF THE BEATMAPPING CONTEST [PENDING CUP XI](https://osu.ppy.sh/community/forums/topics/1774614?n=1). THIS MAP 很牛逼 🤫
 
 求你们给这个图点赞吧 PLEASE!!!! 🥺 VOTE YES ON THIS MAP!!!
 
@@ -81,7 +81,7 @@ Get involved in the biggest event by voting **yes**, and get hyped for the upcom
 190 BPM, 3:36 | 7.37★, 7.49★\
 *description written by [chiv](https://osu.ppy.sh/users/6701656)*
 
-Aim players rejoice... we're making some magic happen in Loved 😇😇😇
+Aim players rejoice... we're making some magic happen in Loved. 😇😇😇
 
 Probably one of the greatest NM1s ever made, [Skytuna](https://osu.ppy.sh/users/9079936) and [apoq](https://osu.ppy.sh/users/4349246)'s (bear with me here) [Kishida Kyoudan & The Akeboshi Rockets - Shinkou wa Hakanaki Ningen no Tame ni](https://osu.ppy.sh/beatmapsets/1153755#osu) finally gets its spotlight in this month's Project Loved. Here you'll find some of the smoothest jump patterning splashing across the playfield as your cursor flies with the music, cultivating some incredibly satisfying aim flow. This map is genuinely a gem for any aim player looking to really push that consistency skill cap, and it's on an absolute banger as well.
 
