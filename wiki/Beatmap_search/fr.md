@@ -30,7 +30,7 @@ Les champs de métadonnées des beatmap peuvent être comparés à des valeurs s
 | `=` | ![Oui][vrai] | ![Oui][vrai] | ![Oui][vrai] | Égale à |
 | `==` | ![Non][faux] | ![Oui][vrai] | ![Non][faux] | Égale à |
 | `:` | ![Oui][vrai] | ![Non][faux] | ![Oui][vrai] | Égale à |
-| `!=` | ![Non][faux] | ![Oui][vrai] | ![Non][faux] | Pas égal à |
+| `!=` | ![Non][faux] | ![Oui][vrai] | ![Oui][vrai] | Pas égal à |
 | `<` | ![Oui][vrai] | ![Oui][vrai] | ![Oui][vrai] | Inférieure à |
 | `>` | ![Oui][vrai] | ![Oui][vrai] | ![Oui][vrai] | Supérieure à |
 | `<=` | ![Oui][vrai] | ![Oui][vrai] | ![Oui][vrai] | Inférieur ou égal à |

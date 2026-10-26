@@ -25,7 +25,7 @@ tags:
 | `=` | ![Yes][true] | ![Yes][true] | ![Yes][true] | Равенство |
 | `==` | ![No][false] | ![Yes][true] | ![No][false] | Равенство |
 | `:` | ![Yes][true] | ![No][false] | ![Yes][true] | Равенство |
-| `!=` | ![No][false] | ![Yes][true] | ![No][false] | Неравенство |
+| `!=` | ![No][false] | ![Yes][true] | ![Yes][true] | Неравенство |
 | `<` | ![Yes][true] | ![Yes][true] | ![Yes][true] | Меньше |
 | `>` | ![Yes][true] | ![Yes][true] | ![Yes][true] | Больше |
 | `<=` | ![Yes][true] | ![Yes][true] | ![Yes][true] | Меньше или равно |
