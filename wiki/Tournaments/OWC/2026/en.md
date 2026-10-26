@@ -217,7 +217,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 [Watch the Qualifier seed reveal VOD here](https://www.twitch.tv/videos/2910922400)
 
-| Seed | Country | Rating[^qualifiers-seeding] | Avg. score[^qualifiers-tiebreaker] | Lobby link |
+| Seed[^groups-seed] | Country | Rating[^qualifiers-seeding] | Avg. score[^qualifiers-tiebreaker] | Lobby link |
 | :-: | :-- | --: | --: | --: |
 | #1 | ::{ flag=US }:: United States | 10.278 | 3,206,706 | [#1](https://osu.ppy.sh/community/matches/122053470) |
 | #2 | ::{ flag=PL }:: Poland | 10.048 | 3,134,130 | [#1](https://osu.ppy.sh/community/matches/122068729) |
@@ -293,7 +293,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 Group A:
 
-| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD^[pd] | Seed |
+| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
 | #1 | ::{ flag=HK }:: Hong Kong | **0** | 0 | 0 | 0 | **0** | 9 |
 | #2 | ::{ flag=NO }:: Norway | **0** | 0 | 0 | 0 | **0** | 13 |
@@ -302,7 +302,7 @@ Group A:
 
 Group B:
 
-| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD^[pd] | Seed |
+| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
 | #1 | ::{ flag=DE }:: Germany | **0** | 0 | 0 | 0 | **0** | 10 |
 | #2 | ::{ flag=NZ }:: New Zealand | **0** | 0 | 0 | 0 | **0** | 15 |
@@ -311,7 +311,7 @@ Group B:
 
 Group C:
 
-| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD^[pd] | Seed |
+| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
 | #1 | ::{ flag=CN }:: China | **0** | 0 | 0 | 0 | **0** | 12 |
 | #2 | ::{ flag=SE }:: Sweden | **0** | 0 | 0 | 0 | **0** | 14 |
@@ -320,7 +320,7 @@ Group C:
 
 Group D:
 
-| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD^[pd] | Seed |
+| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
 | #1 | ::{ flag=BR }:: Brazil | **0** | 0 | 0 | 0 | **0** | 11 |
 | #2 | ::{ flag=AT }:: Austria | **0** | 0 | 0 | 0 | **0** | 16 |
@@ -329,7 +329,7 @@ Group D:
 
 Group E:
 
-| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD^[pd] | Seed |
+| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
 | #1 | ::{ flag=TR }:: Türkiye | **0** | 0 | 0 | 0 | **0** | 27 |
 | #2 | ::{ flag=SA }:: Saudi Arabia | **0** | 0 | 0 | 0 | **0** | 30 |
@@ -338,7 +338,7 @@ Group E:
 
 Group F:
 
-| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD^[pd] | Seed |
+| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
 | #1 | ::{ flag=JP }:: Japan | **0** | 0 | 0 | 0 | **0** | 28 |
 | #2 | ::{ flag=MY }:: Malaysia | **0** | 0 | 0 | 0 | **0** | 29 |
@@ -347,7 +347,7 @@ Group F:
 
 Group G:
 
-| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD^[pd] | Seed |
+| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
 | #1 | ::{ flag=RO }:: Romania | **0** | 0 | 0 | 0 | **0** | 26 |
 | #2 | ::{ flag=UA }:: Ukraine | **0** | 0 | 0 | 0 | **0** | 31 |
@@ -356,7 +356,7 @@ Group G:
 
 Group H:
 
-| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD^[pd] | Seed |
+| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
 | #1 | ::{ flag=ES }:: Spain | **0** | 0 | 0 | 0 | **0** | 25 |
 | #2 | ::{ flag=PT }:: Portugal | **0** | 0 | 0 | 0 | **0** | 32 |
