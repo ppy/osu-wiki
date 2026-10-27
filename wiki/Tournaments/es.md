@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: b85d4d6d8458155339a57a482196951b6384c2bd
+---
+
 # Torneos
 
 Sección dedicada para torneos de osu!. Los torneos tienen su foro dedicado que puede encontrarse [a través de este enlace](https://osu.ppy.sh/community/forums/55).
@@ -127,6 +132,7 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | 3 Digit World Cup 2023 | 17/2/2023 | 30/4/2023 | ::{ flag=KR }:: Corea del Sur | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: Estados Unidos |
 | 3 Digit World Cup 2024 | 25/12/2023 | 10/3/2024 | ::{ flag=KR }:: Corea del Sur | ::{ flag=US }:: Estados Unidos | ::{ flag=BR }:: Brasil |
 | [3 Digit World Cup 2025](3WC/2025) | 28/12/2024 | 16/3/2024 | ::{ flag=KR }:: Corea del Sur | ::{ flag=US }:: Estados Unidos | ::{ flag=DE }:: Alemania |
+| [3 Digit World Cup 2026](3WC/2026) | 11/1/2026 | 29/3/2026 | ::{ flag=US }:: Estados Unidos | ::{ flag=HK }:: Hong Kong | ::{ flag=KR }:: Corea del Sur |
 
 #### [4 Digit World Cup](4WC)
 
@@ -294,16 +300,16 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 
 | Nombre | Inicio | Final | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Dutch osu! Cup 2017 | 11/3/2017 | 7/5/2017 | [Lazer](https://osu.ppy.sh/users/1799925) | [Yura Rin](https://osu.ppy.sh/users/2574658) | [Pittigbaasje](https://osu.ppy.sh/users/2167433) |
-| Dutch osu! Cup 2018 | 10/3/2018 | 13/5/2018 | [jackylam5](https://osu.ppy.sh/users/1540807) | [Viveliam](https://osu.ppy.sh/users/3506793) | [Damnjelly](https://osu.ppy.sh/users/1666355) |
-| Dutch osu! Cup 2019 | 20/2/2019 | 5/5/2019 | [Lilily](https://osu.ppy.sh/users/6502403) | [Skyrovania](https://osu.ppy.sh/users/4696315) | [Yura Rin](https://osu.ppy.sh/users/2574658) |
-| Dutch osu! Cup 2020 | 12/4/2020 | 3/5/2020 | [Viveliam](https://osu.ppy.sh/users/3506793) | [Skyrovania](https://osu.ppy.sh/users/4696315) | [sunui](https://osu.ppy.sh/users/3065571) |
-| Dutch osu! Cup 2021 | 1/3/2021 | 9/5/2021 | [Skyrovania](https://osu.ppy.sh/users/4696315) | [Viveliam](https://osu.ppy.sh/users/3506793) | [Kushper](https://osu.ppy.sh/users/4832514) |
-| [National Dutch Championship 2022](NDC/2022) | 13/12/2021 | 27/2/2022 | [Viveliam](https://osu.ppy.sh/users/3506793) | [Lilily](https://osu.ppy.sh/users/6502403) | [Skyrovania](https://osu.ppy.sh/users/4696315) |
-| [National Dutch Championship 2023](NDC/2023) | 8/1/2023 | 12/3/2023 | [Lilily](https://osu.ppy.sh/users/6502403) | [Burning John](https://osu.ppy.sh/users/6744123) | [luciano](https://osu.ppy.sh/users/11604978) |
-| [National Dutch Championship 2024](NDC/2024) | 5/8/2024 | 13/10/2024 | [Aheo](https://osu.ppy.sh/users/14919428) | [Burning John](https://osu.ppy.sh/users/6744123) | [luciano](https://osu.ppy.sh/users/11604978) |
-| [National Dutch Championship 2025](NDC/2025) | 9/8/2025 | 12/10/2025 | [Aheo](https://osu.ppy.sh/users/14919428) | [Tutel](https://osu.ppy.sh/users/12241010) | [John ethken](https://osu.ppy.sh/users/641155) |
-| [National Dutch Championship 2026](NDC/2026) | 8/8/2026 | 12/10/2026 | *Por decidirse* | *Por decidirse* | *Por decidirse* |
+| Dutch osu! Cup 2017 | 11/3/2017 | 7/5/2017 | ::{ flag=NL }:: [Lazer](https://osu.ppy.sh/users/1799925) | ::{ flag=NL }:: [Yura Rin](https://osu.ppy.sh/users/2574658) | ::{ flag=NL }:: [Pittigbaasje](https://osu.ppy.sh/users/2167433) |
+| Dutch osu! Cup 2018 | 10/3/2018 | 13/5/2018 | ::{ flag=NL }:: [jackylam5](https://osu.ppy.sh/users/1540807) | ::{ flag=NL }:: [Viveliam](https://osu.ppy.sh/users/3506793) | ::{ flag=NL }:: [Damnjelly](https://osu.ppy.sh/users/1666355) |
+| Dutch osu! Cup 2019 | 20/2/2019 | 5/5/2019 | ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403) | ::{ flag=NL }:: [Skyrovania](https://osu.ppy.sh/users/4696315) | ::{ flag=NL }:: [Yura Rin](https://osu.ppy.sh/users/2574658) |
+| Dutch osu! Cup 2020 | 12/4/2020 | 3/5/2020 | ::{ flag=NL }:: [Viveliam](https://osu.ppy.sh/users/3506793) | ::{ flag=NL }:: [Skyrovania](https://osu.ppy.sh/users/4696315) | ::{ flag=NL }:: [sunui](https://osu.ppy.sh/users/3065571) |
+| Dutch osu! Cup 2021 | 1/3/2021 | 9/5/2021 | ::{ flag=NL }:: [Skyrovania](https://osu.ppy.sh/users/4696315) | ::{ flag=NL }:: [Viveliam](https://osu.ppy.sh/users/3506793) | ::{ flag=NL }:: [Kushper](https://osu.ppy.sh/users/4832514) |
+| [National Dutch Championship 2022](NDC/2022) | 13/12/2021 | 27/2/2022 | ::{ flag=NL }:: [Viveliam](https://osu.ppy.sh/users/3506793) | ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403) | ::{ flag=NL }:: [Skyrovania](https://osu.ppy.sh/users/4696315) |
+| [National Dutch Championship 2023](NDC/2023) | 8/1/2023 | 12/3/2023 | ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403) | ::{ flag=NL }:: [Burning John](https://osu.ppy.sh/users/6744123) | ::{ flag=NL }:: [luciano](https://osu.ppy.sh/users/11604978) |
+| [National Dutch Championship 2024](NDC/2024) | 5/8/2024 | 13/10/2024 | ::{ flag=NL }:: [Aheo](https://osu.ppy.sh/users/14919428) | ::{ flag=NL }:: [Burning John](https://osu.ppy.sh/users/6744123) | ::{ flag=NL }:: [luciano](https://osu.ppy.sh/users/11604978) |
+| [National Dutch Championship 2025](NDC/2025) | 9/8/2025 | 12/10/2025 | ::{ flag=NL }:: [Aheo](https://osu.ppy.sh/users/14919428) | ::{ flag=NL }:: [Tutel](https://osu.ppy.sh/users/12241010) | ::{ flag=NL }:: [John ethken](https://osu.ppy.sh/users/641155) |
+| [National Dutch Championship 2026](NDC/2026) | 8/8/2026 | 12/10/2026 | ::{ flag=NL }:: [Aheo](https://osu.ppy.sh/users/14919428) | ::{ flag=NL }:: [John ethken](https://osu.ppy.sh/users/641155) | ::{ flag=NL }:: [dracoria](https://osu.ppy.sh/users/20241831) |
 
 #### [nik's Tournaments](NT)
 
@@ -473,6 +479,7 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | [Resurrection Cup 2023](RESC/2023) | 16/6/2023 | 30/7/2023 | ESSA | fresh off the boat | Sleep accommodation |
 | [Resurrection Cup 2024](RESC/2024) | 14/6/2024 | 28/7/2024 | kotomiler | fresh off the boat | Bobik |
 | [Resurrection Cup 2025](RESC/2025) | 18/5/2025 | 10/8/2025 | tarczynski esports | Monkey Business | FIAT MULTIPLA |
+| [Resurrection Cup 2026](RESC/2026) | 12/6/2026 | 16/8/2026 | 37AMCLOVERS | OWC READY | Waddle Dee |
 
 #### [ROI PRO Tournament](RPT)
 
@@ -597,6 +604,7 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | Nombre | Inicio | Final | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [3 Digit Taiko World Cup](3TWC/1) | 9/1/2021 | 21/2/2021 | ::{ flag=CN }:: China | ::{ flag=KR }:: Corea del Sur | ::{ flag=MY }:: Malasia |
+| [3 Digit Taiko World Cup 2026](3TWC/2026) | 25/7/2026 | 15/11/2026 | *Por decidirse* | *Por decidirse* | *Por decidirse* |
 
 #### [Asian-Oceanian Taiko Showdown](AOTS)
 

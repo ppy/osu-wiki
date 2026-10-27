@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: b85d4d6d8458155339a57a482196951b6384c2bd
+---
+
 # Турниры
 
 Данный раздел посвящён турнирам по osu!. Организация и проведение турниров также обсуждаются в [отдельном форуме](https://osu.ppy.sh/community/forums/55).
@@ -127,6 +132,7 @@
 | 3 Digit World Cup 2023 | 17.02.2023 | 30.04.2023 | ::{ flag=KR }:: Республика Корея | ::{ flag=HK }:: Гонконг | ::{ flag=US }:: Соединённые Штаты |
 | 3 Digit World Cup 2024 | 25.12.2023 | 10.03.2024 | ::{ flag=KR }:: Республика Корея | ::{ flag=US }:: Соединённые Штаты | ::{ flag=BR }:: Бразилия |
 | [3 Digit World Cup 2025](3WC/2025) | 28.12.2024 | 16.03.2025 | ::{ flag=KR }:: Республика Корея | ::{ flag=US }:: Соединённые Штаты | ::{ flag=DE }:: Германия |
+| [3 Digit World Cup 2026](3WC/2026) | 11.01.2026 | 29.03.2026 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=HK }:: Гонконг | ::{ flag=KR }:: Республика Корея |
 
 #### [4 Digit World Cup](4WC)
 
@@ -294,16 +300,16 @@
 
 | Название | Начало | Конец | ![Золото][GCrown] | ![Серебро][SCrown] | ![Бронза][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Dutch osu! Cup 2017 | 11.03.2017 | 07.05.2017 | [Lazer](https://osu.ppy.sh/users/1799925) | [Yura Rin](https://osu.ppy.sh/users/2574658) | [Pittigbaasje](https://osu.ppy.sh/users/2167433) |
-| Dutch osu! Cup 2018 | 10.03.2018 | 13.05.2018 | [jackylam5](https://osu.ppy.sh/users/1540807) | [Viveliam](https://osu.ppy.sh/users/3506793) | [Damnjelly](https://osu.ppy.sh/users/1666355) |
-| Dutch osu! Cup 2019 | 20.02.2019 | 05.05.2019 | [Lilily](https://osu.ppy.sh/users/6502403) | [Skyrovania](https://osu.ppy.sh/users/4696315) | [Yura Rin](https://osu.ppy.sh/users/2574658) |
-| Dutch osu! Cup 2020 | 12.04.2020 | 03.05.2020 | [Viveliam](https://osu.ppy.sh/users/3506793) | [Skyrovania](https://osu.ppy.sh/users/4696315) | [sunui](https://osu.ppy.sh/users/3065571) |
-| Dutch osu! Cup 2021 | 01.03.2021 | 09.05.2021 | [Skyrovania](https://osu.ppy.sh/users/4696315) | [Viveliam](https://osu.ppy.sh/users/3506793) | [Kushper](https://osu.ppy.sh/users/4832514) |
-| [National Dutch Championship 2022](NDC/2022) | 13.12.2021 | 27.02.2022 | [Viveliam](https://osu.ppy.sh/users/3506793) | [Lilily](https://osu.ppy.sh/users/6502403) | [Skyrovania](https://osu.ppy.sh/users/4696315) |
-| [National Dutch Championship 2023](NDC/2023) | 08.01.2023 | 12.03.2023 | [Lilily](https://osu.ppy.sh/users/6502403) | [Burning John](https://osu.ppy.sh/users/6744123) | [luciano](https://osu.ppy.sh/users/11604978) |
-| [National Dutch Championship 2024](NDC/2024) | 05.08.2024 | 13.10.2024 | [Aheo](https://osu.ppy.sh/users/14919428) | [Burning John](https://osu.ppy.sh/users/6744123) | [luciano](https://osu.ppy.sh/users/11604978) |
-| [National Dutch Championship 2025](NDC/2025) | 09.08.2025 | 12.10.2025 | [Aheo](https://osu.ppy.sh/users/14919428) | [Tutel](https://osu.ppy.sh/users/12241010) | [John ethken](https://osu.ppy.sh/users/641155) |
-| [National Dutch Championship 2026](NDC/2026) | 08.08.2026 | 12.10.2026 | *Подлежит уточнению* | *Подлежит уточнению* | *Подлежит уточнению* |
+| Dutch osu! Cup 2017 | 11.03.2017 | 07.05.2017 | ::{ flag=NL }:: [Lazer](https://osu.ppy.sh/users/1799925) | ::{ flag=NL }:: [Yura Rin](https://osu.ppy.sh/users/2574658) | ::{ flag=NL }:: [Pittigbaasje](https://osu.ppy.sh/users/2167433) |
+| Dutch osu! Cup 2018 | 10.03.2018 | 13.05.2018 | ::{ flag=NL }:: [jackylam5](https://osu.ppy.sh/users/1540807) | ::{ flag=NL }:: [Viveliam](https://osu.ppy.sh/users/3506793) | ::{ flag=NL }:: [Damnjelly](https://osu.ppy.sh/users/1666355) |
+| Dutch osu! Cup 2019 | 20.02.2019 | 05.05.2019 | ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403) | ::{ flag=NL }:: [Skyrovania](https://osu.ppy.sh/users/4696315) | ::{ flag=NL }:: [Yura Rin](https://osu.ppy.sh/users/2574658) |
+| Dutch osu! Cup 2020 | 12.04.2020 | 03.05.2020 | ::{ flag=NL }:: [Viveliam](https://osu.ppy.sh/users/3506793) | ::{ flag=NL }:: [Skyrovania](https://osu.ppy.sh/users/4696315) | ::{ flag=NL }:: [sunui](https://osu.ppy.sh/users/3065571) |
+| Dutch osu! Cup 2021 | 01.03.2021 | 09.05.2021 | ::{ flag=NL }:: [Skyrovania](https://osu.ppy.sh/users/4696315) | ::{ flag=NL }:: [Viveliam](https://osu.ppy.sh/users/3506793) | ::{ flag=NL }:: [Kushper](https://osu.ppy.sh/users/4832514) |
+| [National Dutch Championship 2022](NDC/2022) | 13.12.2021 | 27.02.2022 | ::{ flag=NL }:: [Viveliam](https://osu.ppy.sh/users/3506793) | ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403) | ::{ flag=NL }:: [Skyrovania](https://osu.ppy.sh/users/4696315) |
+| [National Dutch Championship 2023](NDC/2023) | 08.01.2023 | 12.03.2023 | ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403) | ::{ flag=NL }:: [Burning John](https://osu.ppy.sh/users/6744123) | ::{ flag=NL }:: [luciano](https://osu.ppy.sh/users/11604978) |
+| [National Dutch Championship 2024](NDC/2024) | 05.08.2024 | 13.10.2024 | ::{ flag=NL }:: [Aheo](https://osu.ppy.sh/users/14919428) | ::{ flag=NL }:: [Burning John](https://osu.ppy.sh/users/6744123) | ::{ flag=NL }:: [luciano](https://osu.ppy.sh/users/11604978) |
+| [National Dutch Championship 2025](NDC/2025) | 09.08.2025 | 12.10.2025 | ::{ flag=NL }:: [Aheo](https://osu.ppy.sh/users/14919428) | ::{ flag=NL }:: [Tutel](https://osu.ppy.sh/users/12241010) | ::{ flag=NL }:: [John ethken](https://osu.ppy.sh/users/641155) |
+| [National Dutch Championship 2026](NDC/2026) | 08.08.2026 | 12.10.2026 | ::{ flag=NL }:: [Aheo](https://osu.ppy.sh/users/14919428) | ::{ flag=NL }:: [John ethken](https://osu.ppy.sh/users/641155) | ::{ flag=NL }:: [dracoria](https://osu.ppy.sh/users/20241831) |
 
 #### [nik's Tournaments](NT)
 
@@ -473,6 +479,7 @@
 | [Resurrection Cup 2023](RESC/2023) | 16.06.2023 | 30.07.2023 | ESSA | fresh off the boat | Sleep accommodation |
 | [Resurrection Cup 2024](RESC/2024) | 14.06.2024 | 28.07.2024 | kotomiler | fresh off the boat | Bobik |
 | [Resurrection Cup 2025](RESC/2025) | 18.05.2025 | 10.08.2025 | tarczynski esports | Monkey Business | FIAT MULTIPLA |
+| [Resurrection Cup 2026](RESC/2026) | 12.06.2026 | 16.08.2026 | 37AMCLOVERS | OWC READY | Waddle Dee |
 
 #### [ROI PRO Tournament](RPT)
 
@@ -597,6 +604,7 @@
 | Название | Начало | Конец | ![Золото][GCrown] | ![Серебро][SCrown] | ![Бронза][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [3 Digit Taiko World Cup](3TWC/1) | 09.01.2021 | 21.02.2021 | ::{ flag=CN }:: Китай | ::{ flag=KR }:: Республика Корея | ::{ flag=MY }:: Малайзия |
+| [3 Digit Taiko World Cup 2026](3TWC/2026) | 25.07.2026 | 15.11.2026 | *Подлежит уточнению* | *Подлежит уточнению* | *Подлежит уточнению* |
 
 #### [Asian-Oceanian Taiko Showdown](AOTS)
 
