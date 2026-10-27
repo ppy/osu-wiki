@@ -228,4 +228,4 @@ The ruleset can be found in the [Information and rules document](https://docs.go
 
 [^semifinals-delay]: The Semifinals were extended to two weekends due to Halloween.
 [^prize-pool]: The prize pool share is split among the entire team roster. Teammates may also request another prize of the same value.
-[^avg-rank]: Average global rank of the team members
+[^avg-rank]: Average global rank of the team members.
