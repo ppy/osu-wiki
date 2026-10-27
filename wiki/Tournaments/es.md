@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: b85d4d6d8458155339a57a482196951b6384c2bd
----
-
 # Torneos
 
 Sección dedicada para torneos de osu!. Los torneos tienen su foro dedicado que puede encontrarse [a través de este enlace](https://osu.ppy.sh/community/forums/55).
@@ -604,7 +599,7 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | Nombre | Inicio | Final | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [3 Digit Taiko World Cup](3TWC/1) | 9/1/2021 | 21/2/2021 | ::{ flag=CN }:: China | ::{ flag=KR }:: Corea del Sur | ::{ flag=MY }:: Malasia |
-| [3 Digit Taiko World Cup 2026](3TWC/2026) | 25/7/2026 | 15/11/2026 | *Por decidirse* | *Por decidirse* | *Por decidirse* |
+| [3 Digit Taiko World Cup 2026](3TWC/2026) | 25/7/2026 | 22/11/2026 | *Por decidirse* | *Por decidirse* | *Por decidirse* |
 
 #### [Asian-Oceanian Taiko Showdown](AOTS)
 

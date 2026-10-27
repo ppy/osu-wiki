@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: b85d4d6d8458155339a57a482196951b6384c2bd
----
-
 # 锦标赛
 
 本页面展示锦标赛。锦标赛有专门的论坛，可以通过[此链接](https://osu.ppy.sh/community/forums/55)找到。
@@ -604,7 +599,7 @@ outdated_since: b85d4d6d8458155339a57a482196951b6384c2bd
 | 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [3 Digit Taiko World Cup](3TWC/1) | 2021-01-09 | 2021-02-21 | ::{ flag=CN }:: 中国 | ::{ flag=KR }:: 韩国 | ::{ flag=MY }:: 马来西亚 |
-| [3 Digit Taiko World Cup 2026](3TWC/2026) | 2026-07-25 | 2026-11-15 | *待定* | *待定* | *待定* |
+| [3 Digit Taiko World Cup 2026](3TWC/2026) | 2026-07-25 | 2026-11-22 | *待定* | *待定* | *待定* |
 
 #### [Asian-Oceanian Taiko Showdown](AOTS)
 
