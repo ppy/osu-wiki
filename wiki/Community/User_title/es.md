@@ -12,8 +12,6 @@ tags:
   - clasificación
   - títulos
   - color de usuario
-outdated_translation: true
-outdated_since: 8b5e6e6710bbbc889616a0820cba3d777b497fa2
 ---
 
 # Título de usuario
@@ -28,15 +26,13 @@ Un **título de usuario** es una etiqueta corta en la página de perfil de un us
 
 El color del título de un usuario es el mismo que el color del usuario, que también suele establecerse por la pertenencia a un grupo. Si el usuario no tiene un color establecido, el título será blanco.
 
-## Historia
+## Títulos por número de publicaciones
 
-### Títulos de número de publicaciones
+![Captura de pantalla de la barra lateral de la publicación de Ymir](img/rhythm-incarnate.png "El título «Rhythm Incarnate» se encuentra por encima de las banderas de equipo y del país de Ymir.")
 
-![Captura de pantalla de la barra lateral de la publicación de Damnae en el viejo sitio web](img/star-shooter.png "El título «Star Shooter» se encuentra por encima del número de publicaciones de Damnae.")
+En los [foros de osu!](https://osu.ppy.sh/community/forums), los usuarios pueden obtener títulos al alcanzar determinados hitos en el número de publicaciones, tal y como se indica a continuación:
 
-En las secciones del foro del [viejo sitio web de osu!](https://old.ppy.sh), los usuarios podían obtener títulos al alcanzar ciertos hitos de número de publicaciones de la siguiente manera:
-
-| Título del foro | Recuento total de publicaciones |
+| Título del foro | Número total de publicaciones |
 | :-: | :-- |
 | Rhythm Rookie | 0-4 |
 | Tempo Trainee | 5-14 |
@@ -49,7 +45,13 @@ En las secciones del foro del [viejo sitio web de osu!](https://old.ppy.sh), los
 | Combo Commander | 260-499 |
 | Rhythm Incarnate | 500+ |
 
-Estos títulos solo eran visibles en las barras laterales de las publicaciones del foro (no en los perfiles de los usuarios) y no se mostraban si ya se había establecido otro título personalizado anteriormente.
+Estos títulos solo son visibles en las barras laterales de las publicaciones del foro (no en los perfiles de los usuarios) y no se muestran si ya hay otro título personalizado establecido.
+
+## Historia
+
+![Captura de pantalla de la barra lateral de la publicación de Damnae en el viejo sitio web](img/star-shooter.png "El título «Star Shooter» se encuentra por encima del número de publicaciones de Damnae.")
+
+Durante un tiempo, los títulos por número de publicaciones solo estaban disponibles en el [antiguo sitio web de osu!](https://old.ppy.sh), con los mismos requisitos en cuanto a hitos. Se eliminaron cuando osu! cambió a un nuevo diseño. En septiembre de 2026, se volvieron a introducir los títulos por número de publicaciones.
 
 ## Curiosidades
 
