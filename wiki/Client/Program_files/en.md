@@ -10,7 +10,7 @@ The **osu! program files** are a set of files that osu! uses to run the game and
 
 ## Location
 
-All of osu!'s program files are present in the game's [installation folder](/wiki/Client/Installation), which by default can be found in the following locations:
+All of osu!'s program files are present in the game's installation folder, which by default can be found in the following locations:
 
 | Windows | macOS |
 | :-- | :-- |
@@ -20,7 +20,7 @@ All of osu!'s program files are present in the game's [installation folder](/wik
 
 ::: alert-caution
 **Caution**
-Be careful when dealing with these files manually, as you might break osu! if you are not careful.
+Make sure to backup these files before changing their contents manually, as you might break the game if you are not careful.
 :::
 
 ### .cfg (Configuration files)
@@ -29,7 +29,7 @@ Configuration files store game settings. Unlike other program files, they are hu
 
 | File name | Function |
 | --: | :-- |
-| `osu!.cfg` | Stores security information about the osu! application files and the current [release stream](/wiki/Client/Release_stream) (*Note: The contents of this file should never be modified manually unless absolutely necessary*) |
+| `osu!.cfg` | Stores security information about the osu! application files and the current [release stream](/wiki/Client/Release_stream) (*Note: Should never be modified manually unless absolutely necessary*) |
 | `osu!.<operating system username>.cfg` | Stores [game options](/wiki/Client/Options) and other settings. See also: [User configuration file](/wiki/Client/Program_files/User_configuration_file) |
 | `tournament.cfg` | Stores data related to [osu!tourney](/wiki/osu!_tournament_client/osu!tourney) and the [osu! tournament client](/wiki/osu!_tournament_client) |
 
@@ -81,7 +81,7 @@ Application files are osu!'s main user-facing components. These files are safe t
 
 The `Chat` folder stores chat logs. It will only appear if the player has the `Automatically log private messages` option enabled, or if they have run the `/savelog` command in the [chat console](/wiki/Client/Interface/Chat_console) at least once.
 
-Chat logs are named following the `{Tab_name}-{YYYYMMDD}-{HHMMSS}` format, and are preserved in a plain text (`.txt`) format that can be opened in any text editor. For example, a chat log with the name `#multiplayer-20121115-040845.txt` indicates that it originates from the `#multiplayer` chat and was saved on Thursday, 15 November 2012 at 04:08:45 local time. Chat logs of private messages are also stored in plain text files and use the `{username}` format. For example, messages exchanged between the player and [peppy](https://osu.ppy.sh/users/2) would be stored in a file named `peppy.txt`.
+Chat logs are named following the `{Tab_name}-{YYYYMMDD}-{HHMMSS}` format, and are preserved in a plain text (`.txt`) format that can be opened in any text editor. For example, a chat log with the name `#multiplayer-20121115-040845.txt` indicates that it originates from the `#multiplayer` chat and was saved on Thursday, 15 November 2012 at 04:08:45 local time. Chat logs of private messages are also stored in plain text files and use the `{username}` format. For example, messages exchanged between the player and ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) would be stored in a file named `peppy.txt`.
 
 ### Downloads
 
@@ -122,7 +122,7 @@ Screenshots are named following the `screenshot###` format, where "###" is the s
 **See also:** [Skinning](/wiki/Skinning)
 :::
 
-The Skins folder stores user-created [skins](/wiki/Skin), which can be used to customise the in-game [interface](/wiki/Client/Interface) and gameplay elements. Players can download skins as `.osk` files from the [Skinning subforum](https://osu.ppy.sh/community/forums/15) and install them by double-clicking on them from a file manager application.
+The `Skins` folder stores user-created [skins](/wiki/Skin), which can be used to customise [interface](/wiki/Client/Interface) and gameplay elements. Players can download skins as `.osk` files from the [Skinning subforum](https://osu.ppy.sh/community/forums/15) or other websites and install them by double-clicking the file or dragging it into the game window.
 
 The built-in skin, *Default*, does not have its own folder and cannot be deleted.
 
