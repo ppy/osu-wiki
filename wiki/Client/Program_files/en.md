@@ -97,7 +97,7 @@ The `Localisation` folder stores downloaded game translations. This folder will 
 
 ### Logs
 
-The Logs folder stores osu!'s [log files](/wiki/Help_centre#log-files), which are mainly used to [troubleshoot problems](https://github.com/ppy/osu/discussions/15188) as needed. This folder will only appear if the player has run the game at least once.
+The Logs folder stores osu!'s [log files](/wiki/Help_centre#log-files), which are mainly used to [troubleshoot problems](https://github.com/ppy/osu/discussions/15188) as needed. This folder will only appear if the player has run the game in the `Cutting Edge (Experimental)` [release stream](/wiki/Client/Release_stream) at least once.
 
 ### Replays
 
