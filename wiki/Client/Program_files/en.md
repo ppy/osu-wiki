@@ -131,11 +131,3 @@ The built-in skin, *Default*, does not have its own folder and cannot be deleted
 The `Songs` folder stores the player's beatmaps, which consist of `.osu` ([difficulties](/wiki/Beatmap/Difficulty)), `.mp3`/`.ogg` (audio) and `.jpg`/`.png`/`.gif` ([background](/wiki/Beatmap/Background)) files at the very least. Certain beatmaps may also include `.wav`/`.ogg` ([hitsounds](/wiki/Beatmapping/Hitsound)), `.osb` ([storyboard](/wiki/Storyboard)) and `.mp4`/`.flv` (video) files, as well as additional subfolders for storyboard assets and/or custom beatmap skins.
 
 By default, beatmap folders are named following the `{BeatmapSetID} {Artist} - {Song Title}` format. For example, a beatmap folder with the name `57950 SOUND HOLIC - Drive My Life` indicates that it belongs to the beatmap [SOUND HOLIC - Drive My Life](https://osu.ppy.sh/beatmapsets/57950). Please note that certain very old beatmaps (as well as unsubmitted beatmaps) do not necessarily follow this format.
-
-## Hidden folders
-
-Folders below are hidden because any modifications made to them could prevent osu! from starting correctly (or at all).
-
-### Data
-
-The `Data` folder stores all of the local replay data as well as some of osu!'s most important system files. It also contains some of osu!'s cache files, such as the beatmap background cache and the avatar caches. These files should **not** be deleted while osu! is running, as they may be in use by osu! at any point.
