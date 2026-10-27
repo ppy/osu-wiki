@@ -23,17 +23,17 @@ All of osu!'s program files are present in the game's installation folder, which
 Make sure to backup these files before changing their contents manually, as you might break the game if you are not careful.
 :::
 
-### .cfg (Configuration files)
+### .cfg (configuration files)
 
 Configuration files store game settings. Unlike other program files, they are human-readable and can be opened and modified by using a text editor.
 
 | File name | Function |
 | --: | :-- |
-| `osu!.cfg` | Stores security information about the osu! application files and the current [release stream](/wiki/Client/Release_stream) (*Note: Should never be modified manually unless absolutely necessary*) |
+| `osu!.cfg` | Stores security information about the osu! application files and the current [release stream](/wiki/Client/Release_stream) *(should never be modified manually unless absolutely necessary)* |
 | `osu!.<operating system username>.cfg` | Stores [game options](/wiki/Client/Options) and other settings. See also: [User configuration file](/wiki/Client/Program_files/User_configuration_file) |
 | `tournament.cfg` | Stores data related to [osu!tourney](/wiki/osu!_tournament_client/osu!tourney) and the [osu! tournament client](/wiki/osu!_tournament_client) |
 
-### .db (Database files)
+### .db (database files)
 
 Database files contain information needed for running the game, such as saved scores and the cached list of [beatmaps](/wiki/Beatmap) saved on the player's device.
 
@@ -44,36 +44,36 @@ Database files contain information needed for running the game, such as saved sc
 | `presence.db` | Stores the list of players logged into the chat console in the form of a cache |
 | `scores.db` | Stores imported and locally achieved records |
 
-### .dll (Application extension)
+### .dll (application extension)
 
-`.dll` files, or [dynamic link-library](https://en.wikipedia.org/wiki/Dynamic-link_library) files, are files that constitute osu!'s components and dependencies. Except for the `.dll` files that are attributed to osu!, these files all originated from a third-party source and were subsequently integrated into the game's framework.
+`.dll` files, or [dynamic-link library](https://en.wikipedia.org/wiki/Dynamic-link_library) files, are files that constitute osu!'s components and dependencies. Except for the `.dll` files that are attributed to osu!, these files all originated from a third-party source and were subsequently integrated into the game's framework.
 
 | File name | Function |
 | --: | :-- |
 | `avcodec-51.dll` | Allows osu! to encode/decode audio and video files |
 | `avformat-52.dll` | Allows osu! to read different audio and video formats |
 | `avutil-49.dll` | Provides core utilities for osu! to handle the processing of multimedia files |
-| `bass.dll` | Allows osu! to play and record `.mp3` and `.ogg` audio files |
+| `bass.dll` | Allows osu! to play audio |
 | `bass_fx.dll` | An add-on for `bass.dll` that allows osu! to run signal processing functions, such as [tempo](/wiki/Music_theory/Tempo) quantisation and reverse playback |
 | `d3dcompiler_47.dll` | Allows osu!'s shader codes to be processed by the player's GPU/graphics card |
 | `libEGL.dll` | Allows osu!'s display to be natively rendered over different operating systems |
 | `libEGLESv2.dll` | Helps osu! in processing hardware-accelerated 3D graphics rendering |
 | `Microsoft.Ink.dll` | Shared code module that osu! uses to perform certain system tasks in parallel with other applications |
-| `OpenTK.dll` | Allows osu! to utilize various [OpenGL](https://en.wikipedia.org/wiki/OpenGL) functions such as keyboard and mouse input handling |
+| `OpenTK.dll` | Allows osu! to utilise various [OpenGL](https://en.wikipedia.org/wiki/OpenGL) functions such as keyboard and mouse input handling |
 | `osu!auth.dll` | Handles osu!'s client-side player authorisation |
 | `osu!gameplay.dll` | Various modules related to osu!'s gameplay features |
 | `osu!seasonal.dll` | Stores information related to osu!'s seasonal backgrounds |
 | `osu!ui.dll` | Various modules related to osu!'s user interface display |
 | `pthreadgc2.dll` | Allows osu! to use [multithreading support](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)) |
 
-### .exe (Application files)
+### .exe (application files)
 
 Application files are osu!'s main user-facing components. These files are safe to run assuming the player obtained the game from the official [download page](https://osu.ppy.sh/home/download).
 
 | File name | Function |
 | --: | :-- |
-| `osu!.exe` | Boots up osu! |
-| `osume.exe` | Allows players to update and repair osu! installations manually (*Note: This has been deprecated in favor of `osu!.exe`'s own built-in updater*) |
+| `osu!.exe` | Starts osu! |
+| `osume.exe` | Allows players to update and repair osu! installations manually *(deprecated in favour of `osu!.exe`'s own built-in updater)* |
 
 ## Folders
 
@@ -85,7 +85,7 @@ Chat logs are named following the `{Tab_name}-{YYYYMMDD}-{HHMMSS}` format, and a
 
 ### Downloads
 
-The `Downloads` folder stores the beatmap files that are being process by [osu!direct](/wiki/osu!supporter#osu!direct) (requires [osu!supporter](/wiki/osu!supporter)). These beatmap files will be transferred to the `Songs` folder once the download is finished.
+The `Downloads` folder stores the beatmap files that are being process by [osu!direct](/wiki/osu!supporter#osu!direct) (requires [osu!supporter](/wiki/osu!supporter)). These files are transferred to the `Songs` folder once the download is finished.
 
 ### Exports
 
