@@ -47,7 +47,7 @@ tags:
 
 ### История
 
-![Скриншот поста от пользователя Damnae на старом сайте](img/star-shooter.png "Титул \"Star Shooter\" над количеством постов пользователя Damnae.")
+![Скриншот поста от пользователя Damnae на старом сайте](img/star-shooter.png "Титул \"Star Shooter\" над числом постов пользователя Damnae.")
 
 <!-- the bottom post on https://web.archive.org/web/20131107133826/https://osu.ppy.sh/forum/t/141240 -->
 
