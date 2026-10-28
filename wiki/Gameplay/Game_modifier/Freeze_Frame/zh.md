@@ -3,7 +3,6 @@ stub: true
 tags:
   - FR
 outdated_translation: true
-outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 ---
 
 # Freeze Frame（模组）
@@ -23,7 +22,7 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 | 缩写 | FR |
 | 类别 | 娱乐 |
 | 游戏模式 | ![][osu!] |
-| 得分系数 | `1.00x` |
+| 得分倍率 | 见[计分](#计分) |
 | 状态 | 不计表现分 |
 | 不兼容的模组 | [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Transform (TR)](/wiki/Gameplay/Game_modifier/Transform), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Approach_Different), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
 
@@ -36,5 +35,9 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 **Freeze Frame** 模组使每个[连击组](/wiki/Beatmapping/Combo)中的所有[打击物件](/wiki/Gameplay/Hit_object)同时（字面意思，在组内首个物件出现时）出现。
 
 **该模组不支持自定义。**
+
+## 计分
+
+Freeze Frame 模组的分数倍率为 `1.00x`。但将其与 [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) 并用时，Flashlight 模组的倍率将会降低，参见 [Flashlight (FL) § 计分](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)#计分)。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

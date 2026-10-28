@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 2dd2e5256a1bec3d6a190d0cddd4d2d59aae5ddc
----
-
 # Projekte
 
 ::: alert-note
@@ -167,7 +162,7 @@ Alle vier [Spielmodi](/wiki/Game_mode) wurden von verschiedenen Nutzern in [Scra
 
 | Logo | Name | Projektleiter | Beschreibung |
 | :-: | :-- | :-- | :-- |
-| ![](img/logo_bonus_pp_calculator.png) | [Bonus PP calculator](https://osu.ppy.sh/community/forums/topics/538470) | ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Anwendung, mit der man berechnen kann, wie viel [Bonus-pp](/wiki/Performance_points#mit-wie-vielen-bonus-pp-werde-ich-belohnt%2C-wenn-ich-viele-scores-auf-gerankten-beatmaps-habe%3F) ein Nutzer hat |
+| ![](img/logo_bonus_pp_calculator.png) | [Bonus PP calculator](https://osu.ppy.sh/community/forums/topics/538470) | ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Anwendung, mit der man berechnen kann, wie viel [Bonus-pp](/wiki/Performance_points#mit-wie-vielen-bonus-pp-werde-ich-belohnt,-wenn-ich-scores-auf-gerankten-beatmaps-habe?) ein Nutzer hat |
 | ![](img/logo_osuchan.png) | [osu!chan](https://osuchan.syrin.me) | ::{ flag=AU }:: [Syrin](https://osu.ppy.sh/users/5701575) | Webseite, die eine Vielzahl alternativer Ranglisten anbietet |
 | ![](img/logo_osuskills.png) | [osu!Skills](https://osu.ppy.sh/community/forums/topics/367283) | ::{ flag=RU }:: [Kert](https://osu.ppy.sh/users/119933) | Webseite, die pp in andere Metriken wie Ausdauer, Reaktionsvermögen und Erinnerungsvermögen aufschlüsselt |
 | ![](img/logo_osustats.png) | [osu!Stats](https://osustats.ppy.sh) | ::{ flag=PL }:: [Piotrekol](https://osu.ppy.sh/users/304520) | Webseite zum Suchen bestimmter Scores und Spielerstatistiken |
@@ -202,6 +197,7 @@ Diese Projekte sind alle noch funktionsfähig, werden jedoch nicht mehr aktiv ge
 
 | Logo | Name | Projektleiter | Beschreibung |
 | :-: | :-- | :-- | :-- |
+|  | [osu!arcade](/wiki/Community/Projects/osu!arcade) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Prototyp eines Arcade-Automaten, auf dem eine Touch-Version von osu! lief |
 |  | [osu!performance](https://github.com/ppy/osu-performance/) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Teil des Spiels, der für die Berechnung von [Performance-Punkten](/wiki/Performance_points) (pp) verantwortlich ist |
 | ![](img/logo_osu_stream.png) | [osu!stream](/wiki/osu!stream) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Spezialversion von osu! für tragbare iOS- und Android-Geräte |
 | ![](img/logo_osu_osx.png) | [osu! on OS X](https://osuosx.tumblr.com/) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Experimentelle Version von osu!, die nativ auf macOS läuft |
