@@ -3,6 +3,8 @@ stub: true
 tags:
   - health drain rate
   - passive drain rate
+  - Gesundheitsverlust
+  - passiver Gesundheitsverlust
 ---
 
 # HP-Drain-Rate
