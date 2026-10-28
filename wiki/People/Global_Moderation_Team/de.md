@@ -13,7 +13,7 @@ tags:
 **Siehe auch:** [Mod (Begriffsabgrenzung)](/wiki/Disambiguation/Mod).
 :::
 
-Das **globale Moderationsteam** (früher auch bekannt als globales Modteam, Administratoren oder “GreenBAT”), allgemein auch **GMT**, besteht aus Mitgliedern der osu!-Community, die in erster Linie für die Moderation von Spielern sowie einschlägige Probleme im Team und in der gesamten Community zuständig sind. Sie sind anhand ihres zitrusgrünen Nutzertitels, dem zitrusgrünen [Gruppenabzeichen](/wiki/People/User_groups) mit der Aufschrift `GMT` sowie ihrem roten Nutzernamen im Spiel zu erkennen.
+Das **globale Moderationsteam** (früher auch bekannt als globales Modteam, Administratoren oder "GreenBAT"), allgemein auch **GMT**, besteht aus Mitgliedern der osu!-Community, die in erster Linie für die Moderation von Spielern sowie einschlägige Probleme im Team und in der gesamten Community zuständig sind. Sie sind anhand ihres zitrusgrünen Nutzertitels, dem zitrusgrünen [Gruppenabzeichen](/wiki/People/User_groups) mit der Aufschrift `GMT` sowie ihrem roten Nutzernamen im Spiel zu erkennen.
 
 **Alle globalen Moderatoren müssen sich neben den [Community-Richtlinien](/wiki/Rules) auch an den [Verhaltenskodex für Mitwirkende](/wiki/Rules/Contributor_code_of_conduct) halten.**
 
@@ -25,7 +25,7 @@ Das **globale Moderationsteam** (früher auch bekannt als globales Modteam, Admi
 **Siehe auch:** [Schlechtes Verhalten melden](/wiki/Reporting_bad_behaviour)
 :::
 
-Das globale Moderationsteam ist für das Wohlergehen des Chats und Forums zuständig und kümmert sich um reibungslose Interaktionen innerhalb der Community. Das GMT kann bei allen Fragen zu Moderationsthemen angesprochen werden. Dazu gehören beispielsweise:
+Das globale Moderationsteam ist für das Wohlergehen des Chats und des Forums zuständig und kümmert sich um reibungslose Interaktionen innerhalb der Community. Das GMT kann bei allen Fragen zu Moderationsthemen angesprochen werden. Dazu gehören beispielsweise:
 
 - Probleme im Chat (z. B. Spam oder Belästigung)
 - Fehlverhalten in den Foren (z. B. unangemessene Beiträge)
@@ -50,7 +50,7 @@ Generell wird das Team Kandidaten über mehrere Wochen oder Monate hinweg beobac
 ### Einige Dinge, die du nicht machen solltest
 
 1. Frage das GMT nicht ständig, ob du als potenzieller Kandidat geeignet bist. Das GMT möchte niemanden hinzufügen, der nur zum Selbstzweck beiträgt. Deine Herangehensweise sollte nicht eigennützig sein.
-2. Melde nicht jede Kleinigkeit im Chat. Du solltest unterscheiden können, was gemeldet werden sollte und was nicht.
+2. Melde nicht jede Kleinigkeit im Chat. Es ist eine wichtige Fähigkeit, unterscheiden zu können, was gemeldet werden sollte und was nicht.
 3. Beantworte keine Fragen, wenn du dir mit der Antwort nicht sicher bist. Das gilt vor allem in den Foren. Vorschläge sind willkommen, aber das Verbreiten von Falschinformationen hilft niemandem. Wenn du die Lösung für ein Problem nicht kennst, dann lasse jemand anderen antworten und lerne von ihm.
 4. Mache nicht zu viel. Das Team sucht nicht nach übermäßig vielen, sondern nach regelmäßigen Beiträgen. Es ist bekannt, dass Kandidaten sonst ihre Geduld und ihr Engagement verlieren. Nur keine Hektik!
 
@@ -60,14 +60,14 @@ Globale Moderatoren erhalten die folgenden Vorteile:
 
 - **[osu!supporter](/wiki/osu!supporter)**: Ein osu!supporter-Tag, das für die Dauer der Mitgliedschaft im Team gilt.
 - **Abzeichen für das Engagement**: Ein [Profilabzeichen](/wiki/Community/Profile_badge), das die Amtszeit des Nutzers, zwischen 1 und 10 Jahren, anzeigt.
-  ![GMT-Abzeichen für 1 Jahr](https://assets.ppy.sh/profile-badges/GMT1y.png "GMT-Abzeichen für 1 Jahr") ![GMT-Abzeichen für 2 Jahre](https://assets.ppy.sh/profile-badges/GMT2y.png "GMT-Abzeichen für 2 Jahre") ![GMT-Abzeichen für 3 Jahre](https://assets.ppy.sh/profile-badges/GMT3y.png?2024 "GMT-Abzeichen für 3 Jahre") ![GMT-Abzeichen für 4 Jahre](https://assets.ppy.sh/profile-badges/GMT4y.png?2024 "GMT-Abzeichen für 4 Jahre") ![GMT-Abzeichen für 5 Jahre](https://assets.ppy.sh/profile-badges/GMT5y.png?2024 "GMT-Abzeichen für 5 Jahre") ![GMT-Abzeichen für 6 Jahre](https://assets.ppy.sh/profile-badges/GMT6y.png "GMT-Abzeichen für 6 Jahre") ![GMT-Abzeichen für 7 Jahre](https://assets.ppy.sh/profile-badges/GMT7y.png "GMT-Abzeichen für 7 Jahre") ![GMT-Abzeichen für 8 Jahre](https://assets.ppy.sh/profile-badges/GMT8y.png "GMT-Abzeichen für 8 Jahre") ![GMT-Abzeichen für 9 Jahre](https://assets.ppy.sh/profile-badges/GMT9y.png "GMT-Abzeichen für 9 Jahre") ![GMT-Abzeichen für 10 Jahre](https://assets.ppy.sh/profile-badges/GMT10y.png "GMT-Abzeichen für 10 Jahre")
+  ![GMT-Abzeichen für ein Jahr](https://assets.ppy.sh/profile-badges/GMT1y.png "GMT-Abzeichen für ein Jahr") ![GMT-Abzeichen für 2 Jahre](https://assets.ppy.sh/profile-badges/GMT2y.png "GMT-Abzeichen für 2 Jahre") ![GMT-Abzeichen für 3 Jahre](https://assets.ppy.sh/profile-badges/GMT3y.png?2024 "GMT-Abzeichen für 3 Jahre") ![GMT-Abzeichen für 4 Jahre](https://assets.ppy.sh/profile-badges/GMT4y.png?2024 "GMT-Abzeichen für 4 Jahre") ![GMT-Abzeichen für 5 Jahre](https://assets.ppy.sh/profile-badges/GMT5y.png?2024 "GMT-Abzeichen für 5 Jahre") ![GMT-Abzeichen für 6 Jahre](https://assets.ppy.sh/profile-badges/GMT6y.png "GMT-Abzeichen für 6 Jahre") ![GMT-Abzeichen für 7 Jahre](https://assets.ppy.sh/profile-badges/GMT7y.png "GMT-Abzeichen für 7 Jahre") ![GMT-Abzeichen für 8 Jahre](https://assets.ppy.sh/profile-badges/GMT8y.png "GMT-Abzeichen für 8 Jahre") ![GMT-Abzeichen für 9 Jahre](https://assets.ppy.sh/profile-badges/GMT9y.png "GMT-Abzeichen für 9 Jahre") ![GMT-Abzeichen für 10 Jahre](https://assets.ppy.sh/profile-badges/GMT10y.png "GMT-Abzeichen für 10 Jahre")
 
 ## Ausscheiden aus dem Team
 
 Entscheidet sich ein globaler Moderator dazu, das Team im Guten zu verlassen, kann er je nach Umstand die folgenden Belohnungen erhalten:
 
-- **Nutzertitel [osu! Alumni](/wiki/People/osu!_Alumni)**: Dieser Titel wird an Mitglieder verliehen, die mindestens 1 Jahr lang Teil des Teams waren oder über einen kürzeren Zeitraum bedeutende Beiträge innerhalb des Teams geleistet haben.
-- **osu!supporter**: Mitglieder erhalten ein osu!supporter-Tag, das doppelt so lange gilt wie ihre Zeit im GMT. Dabei gelten dieselben Bedingungen, die für den osu!-Alumni-Titel gelten.
+- **Nutzertitel [osu! Alumni](/wiki/People/osu!_Alumni)**: Dieser Titel wird an Mitglieder verliehen, die mindestens ein Jahr lang Teil des Teams waren oder über einen kürzeren Zeitraum bedeutende Beiträge innerhalb des Teams geleistet haben.
+- **osu!supporter**: Mitglieder erhalten ein osu!supporter-Tag, das doppelt so lange gilt wie ihre Zeit im GMT. Dabei gelten dieselben Bedingungen wie für den osu! Alumni-Titel.
 
 ## Teammitglieder
 
@@ -78,7 +78,7 @@ Alle Mitglieder des GMTs sprechen Englisch, außer es wurde zusätzlich vermerkt
 
 Die [Gruppenseite des GMTs](https://osu.ppy.sh/groups/4) listet alle Teammitglieder auf. Zusätzlich zu den unten genannten Bereichen nehmen alle globalen Moderatoren an der [Bewertung von visuellen und auditiven Inhalten in Beatmaps](/wiki/Rules/Visual_content_considerations#dein-bild-bewerten-lassen) teil.
 
-**Ein Mitglied des GMTs darf sich Aufgaben aus allen Kategorien aussuchen und damit beschäftigen, unabhängig von den aufgelisteten Schwerpunkten.** Als Beispiel kann ein GMT-Mitglied hauptsächlich für die Chatmoderation verantwortlich sein und nebenbei bei der Forum-Moderation aushelfen.
+**Ein Mitglied des GMTs darf sich Aufgaben aus allen Kategorien aussuchen und damit beschäftigen, unabhängig von den aufgelisteten Schwerpunkten.** Beispielsweise kann ein GMT-Mitglied hauptsächlich für die Chatmoderation verantwortlich sein und nebenbei bei der Forum-Moderation aushelfen.
 
 <!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
 
