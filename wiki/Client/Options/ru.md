@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 49184acd47084cd8be8a2ec20aa54e4e81cfbefe
+---
+
 # Настройки
 
 ![Меню настроек](img/options_basic.jpg "Меню настроек (боковая панель слева)")

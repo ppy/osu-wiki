@@ -6,6 +6,8 @@ tags:
   - supporter
   - donator osu!
   - status donatora osu!
+outdated_translation: true
+outdated_since: 49184acd47084cd8be8a2ec20aa54e4e81cfbefe
 ---
 
 # osu!supporter
