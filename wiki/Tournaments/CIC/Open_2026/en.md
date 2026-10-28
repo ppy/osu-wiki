@@ -212,7 +212,7 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
    - In the Grand Final match, the winner of the upper bracket will only need to win a single match in order to claim the championship title. The winner of the lower bracket, however, will need to win two matches and enforce a *bracket reset* in order to clinch the championship title.
 4. Players that can compete in the next round are determined by:
    - In the Round of 32, each player needs to win 5 points in order to win a match. (Best of 9)
-   - In the Round of 16, Quarterfinals and the Semifinals, each player needs to win 6 points in order to win a match. (Best of 11)
+   - In the Round of 16, the Quarterfinals and the Semifinals, each player needs to win 6 points in order to win a match. (Best of 11)
    - In both of the Finals weeks, each player needs to win 7 points in order to win a match. (Best of 13)
    - Whether there are players that are declared to win the match by default.
    - Whether there are players that are disqualified from the tournament.
