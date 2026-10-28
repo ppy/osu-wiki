@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: b85d4d6d8458155339a57a482196951b6384c2bd
----
-
 # Turnamen
 
 Laman ini dikhususkan untuk berbagai turnamen yang ada di osu!. Turnamen memiliki forumnya tersendiri yang dapat kamu temukan [pada tautan berikut](https://osu.ppy.sh/community/forums/55).
@@ -604,7 +599,7 @@ Berikut merupakan berbagai turnamen/kompetisi tidak resmi yang diselenggarakan o
 | Nama | Mulai | Selesai | ![Mahkota Emas][GCrown] | ![Mahkota Perak][SCrown] | ![Mahkota Perunggu][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [3 Digit Taiko World Cup](3TWC/1) | 2021-01-09 | 2021-02-21 | ::{ flag=CN }:: Tiongkok | ::{ flag=KR }:: Korea Selatan | ::{ flag=MY }:: Malaysia |
-| [3 Digit Taiko World Cup 2026](3TWC/2026) | 2026-07-25 | 2026-11-15 | *TBD* | *TBD* | *TBD* |
+| [3 Digit Taiko World Cup 2026](3TWC/2026) | 2026-07-25 | 2026-11-22 | *TBD* | *TBD* | *TBD* |
 
 #### [Asian-Oceanian Taiko Showdown](AOTS)
 
