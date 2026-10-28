@@ -13,7 +13,7 @@ gmt:
   areas:
     beatmap: Beatmap-Moderation
     chat: Chat-Moderation
-    forum: Forum-Moderation
+    forum: Forumsmoderation
     general: Allgemeine Moderation
     team: offizielle Präsenz des Teams
     dev: osu!-Entwicklung
