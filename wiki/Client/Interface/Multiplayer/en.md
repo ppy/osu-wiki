@@ -1,4 +1,4 @@
-# Multiplayer
+# Multiplayer interface
 
 ::: alert-note
 **Note:** For how multiplayer works, see [Multiplayer](/wiki/Gameplay/Multiplayer)
