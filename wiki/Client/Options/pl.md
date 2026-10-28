@@ -20,7 +20,7 @@ Ta sekcja jest poświęcona twojemu kontu, ustawieniom języka i aktualizacjom.
 
 ### Logowanie
 
-Jeżeli nie zalogujesz się w kliencie gry, nakładka opcji zostanie otworzona automatycznie z prośbą o zalogowanie się. Możesz ją zignorować poprzez naciśnięcie klawisza `Esc`, naciśnięcie przycisku `Cofnij` lub przejście do ekranu wyboru piosenki. Klient gry oznaczy cię jako „gościa”. Jako gość nie będziesz w stanie wyświetlać rankingów beatmap, przesyłać wyników ani grać w [trybie wieloosobowym](/wiki/Client/Interface/Multiplayer).
+Jeżeli nie zalogujesz się w kliencie gry, nakładka opcji zostanie otworzona automatycznie z prośbą o zalogowanie się. Możesz ją zignorować poprzez naciśnięcie klawisza `Esc`, naciśnięcie przycisku `Cofnij` lub przejście do ekranu wyboru piosenki. Klient gry oznaczy cię jako „gościa”. Jako gość nie będziesz w stanie wyświetlać rankingów beatmap, przesyłać wyników ani grać w [trybie wieloosobowym](/wiki/Gameplay/Multiplayer).
 
 Jako gość wyświetlą się następujące opcje:
 

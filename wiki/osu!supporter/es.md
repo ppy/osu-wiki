@@ -83,7 +83,7 @@ Obtener un osu!supporter viene con la habilidad de cambiar tu nombre de usuario 
 osu!direct es el motor de búsqueda y descarga de beatmaps disponible para supporters. Podrás acceder desde el menú principal al hacer clic en el letrero vertical de `osu!direct` en la parte derecha de la pantalla. Además de contener un listado de beatmaps incorporado, osu!direct ofrece otras maneras de obtener nuevos beatmaps sin salir del juego:
 
 - Enlaces de beatmaps en el chat, que te dirigen al sitio web de osu!, ahora activan el aviso de descarga dentro del juego
-- Descargas automáticas de beatmaps mientras juegas en una sala [multijugador](/wiki/Client/Interface/Multiplayer) o te encuentres [observando](/wiki/Gameplay/Spectating) a otro usuario, como una [configuración opcional](/wiki/Client/Options#en-línea)
+- Descargas automáticas de beatmaps mientras juegas en una sala [multijugador](/wiki/Gameplay/Multiplayer) o te encuentres [observando](/wiki/Gameplay/Spectating) a otro usuario, como una [configuración opcional](/wiki/Client/Options#en-línea)
 - Enlaces automáticos a los beatmaps que se están jugando en la pestaña `#spectator` del chat para los espectadores, como una [configuración opcional](/wiki/Client/Options#en-línea)
 
 ### Tablas de clasificación extendidas

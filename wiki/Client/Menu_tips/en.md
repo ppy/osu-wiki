@@ -39,7 +39,7 @@ These tips appear at the bottom of the [main menu](/wiki/Client/Interface#main-m
 - Hit `F8` at any time to activate the in-game chat window. You can check out the [commands available](/wiki/Client/Interface/Chat_console#commands-list) in chat by typing `!help` or `/help`
 - Make sure to take breaks every so often. Your hands have to serve you in life for more than just osu! [spinners](/wiki/Gameplay/Hit_object/Spinner).
 - Don't ignore [unranked](/wiki/Beatmap/Category) maps. If you find some you like and leave [constructive comments](/wiki/Modding), there is a much higher chance of them being [ranked](/wiki/Beatmap_ranking_procedure)!
-- You can play songs together with other players in [multiplayer mode](/wiki/Client/Interface/Multiplayer)!
+- You can play songs together with other players in [multiplayer mode](/wiki/Gameplay/Multiplayer)!
 - Ever wondered where someone was from? Hit `F9` and hover their user panel!
 - Hit `F5` at the song select screen to refresh and load any new songs from disk.
 - Hit `Shift` + `F12` anywhere in-game to take a screenshot and automatically upload it to the internet.
