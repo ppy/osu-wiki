@@ -6,7 +6,7 @@ tags:
 
 # Catch Indonesia Cup Open 2026
 
-![Catch Indonesia Cup Open 2026 banner](img/banner.jpg)
+![Catch Indonesia Cup Open 2026 banner](img/banner_new.png)
 
 The **Catch Indonesia Cup Open 2026** (***CICO 2026***) is a double-elimination 1v1 osu!catch tournament hosted by ::{ flag=ID }:: [Intel21](https://osu.ppy.sh/users/1272422), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), and ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898). Despite its name, the tournament is open to all osu!catch players from the around the world regardless of geographical location. It is the fourteenth iteration of the Catch the Beat Indonesia Cup, as well as the fourth one to be held under the "Open" format.
 
@@ -62,6 +62,7 @@ The Catch Indonesia Cup Open 2026 is run by various osu! community members from 
 - [Discord server](https://discord.gg/YwAYbPa)
 - [Challonge brackets](https://challonge.com/CICO2026)
 - [Livestream channel](https://www.twitch.tv/osucatchid)
+- [Pick'ems page](https://pickem.hoaq.works/tournament/19) hosted by ::{ flag=VN }:: [Hoaq](https://osu.ppy.sh/users/7696512)
 
 ## Participants
 
@@ -210,8 +211,8 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
    - Players that lose in the lower bracket will be eliminated from the tournament.
    - In the Grand Final match, the winner of the upper bracket will only need to win a single match in order to claim the championship title. The winner of the lower bracket, however, will need to win two matches and enforce a *bracket reset* in order to clinch the championship title.
 4. Players that can compete in the next round are determined by:
-   - In the Round of 32 and the Round of 16, each player needs to win 5 points in order to win a match. (Best of 9)
-   - In the Quarterfinals and the Semifinals, each player needs to win 6 points in order to win a match. (Best of 11)
+   - In the Round of 32, each player needs to win 5 points in order to win a match. (Best of 9)
+   - In the Round of 16, Quarterfinals and the Semifinals, each player needs to win 6 points in order to win a match. (Best of 11)
    - In both of the Finals weeks, each player needs to win 7 points in order to win a match. (Best of 13)
    - Whether there are players that are declared to win the match by default.
    - Whether there are players that are disqualified from the tournament.
@@ -230,11 +231,11 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 4. Players are expected to exercise common sense in the pick time and ready time windows.
    - Depending on the severity and frequency, players will be punished for their misdemeanours during these time windows. For the list of all the possible punishments, please refer to [this screenshot](https://leopard.hosting.pecon.us/dl/hzlkt).
 5. Maps from the same mod pool **may not be picked by the same player twice in a row**.
-   - For example, following a NM1 pick, the same player may not pick another map from the No Mod pool on their next picking turn.   
-6. In a Hard Rock or Double Time pick, the Hidden mod may optionally be used by players on top of the respective mods.   
-7. In a Free Mod pick, players have to apply at least one mod to play the beatmap with. Allowed mods are Easy, Hard Rock, Hidden, or any possible combinations of the three mods. 
+   - For example, following a NM1 pick, the same player may not pick another map from the No Mod pool on their next picking turn.
+6. In a Hard Rock or Double Time pick, the Hidden mod may optionally be used by players on top of the respective mods.
+7. In a Free Mod pick, players have to apply at least one mod to play the beatmap with. Allowed mods include Hidden, Hard Rock, or both.
    - Playing a Free Mod pick without any mods applied is not allowed.
-8. In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled. Players are free to play the tiebreaker map with the Hidden mod should they wish to. 
+8. In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled. Players are free to play the tiebreaker map with the Hidden mod should they wish to.
    - Playing the tiebreaker map with a mod is *not* mandatory.
 9. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
 
