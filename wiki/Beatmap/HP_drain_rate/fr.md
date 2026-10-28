@@ -3,6 +3,8 @@ stub: true
 tags:
   - health drain rate
   - passive drain rate
+outdated_translation: true
+outdated_since: fb3e12eefb4f46a4c14a539098d3031b2d63e457
 ---
 
 # Taux de drain de vie
