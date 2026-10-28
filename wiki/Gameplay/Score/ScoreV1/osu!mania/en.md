@@ -35,7 +35,7 @@ ModMultiplier = The score multiplier of the selected mods (see below)
 ModDivider = The punishment divider of the selected mods (see below)
 ```
 
-| Judgement | HitValue | HitBonusValue | HitBonus | HitPunishment |
+| Judgement | `HitValue` | `HitBonusValue` | `HitBonus` | `HitPunishment` |
 | :-- | --: | --: | --: | --: |
 | PERFECT | 320 | 32 | 2 |  |
 | GREAT | 300 | 32 | 1 |  |
