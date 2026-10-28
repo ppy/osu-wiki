@@ -1,8 +1,8 @@
-# Allgemeine Regeln für Storyboarding
+# Allgemeine Regeln für das Storyboarding
 
 ![Ein Bespiel eines Skripts in .osb.](img/SBS_Base.jpg "Ein Bespiel eines Skripts in .osb.")
 
-Diese Anleitung beschreibt den geskripteten Code unter `[Events]` in einer `.osb`- oder `.osu`-Datei. Die Befehle in der `.osb`-Datei der [Beatmap](/wiki/Beatmap) werden in allen [Schwierigkeitsstufen](/wiki/Beatmap/Difficulty) verwendet, während die in der `.osu`-Datei nur auf die jeweilige Schwierigkeitsstufe angewendet werden.
+Diese Anleitung beschreibt den geskripteten Code unter `[Events]` in einer `.osb`- oder `.osu`-Datei. Die Befehle in der `.osb`-Datei der [Beatmap](/wiki/Beatmap) werden in allen [Schwierigkeitsgraden](/wiki/Beatmap/Difficulty) verwendet, während die in der `.osu`-Datei nur auf den jeweiligen Schwierigkeitsgrad angewendet werden.
 
 ## Grundregeln
 
@@ -14,9 +14,9 @@ Diese Anleitung beschreibt den geskripteten Code unter `[Events]` in einer `.osb
 
 Ein [Storyboard-Objekt](/wiki/Storyboard/Scripting/Objects) ist eine Instanz eines [Sprites](https://de.wikipedia.org/wiki/Sprite_(Computergrafik)) oder eine Animation in einem [Storyboard](/wiki/Storyboard). Storyboards können auch Ton enthalten, siehe den [Audio-Leitfaden](/wiki/Storyboard/Scripting/Audio) für mehr Details.
 
-Nur PNG und JPEG werden als Bildformate für Objekte akzeptiert.	JPEGs sind verlustreich, d. h. sie haben eine kleinere Dateigröße, speichern jedoch nicht jeden Pixel präzise ab. Außerdem unterstützen sie keine Transparenz. Daher eignen sie sich gut als Hintergrundbilder sowie für quadratische oder fotorealistische Bilder. PNGs sind verlustlos, d. h. alle Pixel werden exakt abgespeichert, was zu einer größeren Dateigröße im Vergleich zum JPEG führt. Da sie Transparenz unterstützen, sind sie für Objekte oder Text im Vordergrund üblicherweise am besten eignet.
+Nur PNG und JPEG werden als Bildformate für Objekte akzeptiert.	JPEGs sind verlustreich, d. h. sie haben eine kleinere Dateigröße, speichern jedoch nicht jeden Pixel präzise ab. Außerdem unterstützen sie keine Transparenz. Daher eignen sie sich gut als Hintergrundbilder sowie für quadratische oder fotorealistische Bilder. PNGs sind verlustlos, d. h. alle Pixel werden exakt abgespeichert, was zu einer höheren Dateigröße im Vergleich zu JPEG führt. Da sie Transparenz unterstützen, sind sie für Objekte oder Text im Vordergrund üblicherweise am besten geeignet.
 
-Die Animationen werden in der Engine erstellt, d.h. PNG-Ebenen oder Animationensfunktionen sollten nicht verwendet werden. Speichere stattdessen jeden Frame als einzelne Datei ab und füge eine Dazimalzahl zum Dateinamen hinzu, z. B. "sample0.png" und "sample1.png" für eine Animation "sample.png" bestehend aus 2 Frames).
+Die Animationen werden in der Engine erstellt, d. h. PNG-Ebenen oder Animationsfunktionen sollten nicht verwendet werden. Speichere stattdessen jeden Frame als einzelne Datei ab und füge eine Dazimalzahl zum Dateinamen hinzu, z. B. "sample0.png" und "sample1.png" für eine Animation "sample.png" bestehend aus 2 Frames).
 
 ### Bildschirmgröße
 
@@ -30,14 +30,14 @@ Koordinaten werden angegeben durch positive `X`-Werte nach **rechts** und positi
 
 | Bildfläche | x | y |
 | :-: | :-: | :-: |
-| Editor | 0 – 640 | 0 – 480 |
-| Spielbereich | 60 – 570 | 55 – 440 |
+| Editor | 0 bis 640 | 0 bis 480 |
+| Spielbereich | 60 bis 570 | 55 bis 440 |
 
 ### Ebenen
 
 Mit Ausnahme des Overlays (welches unterhalb des [Skins](/wiki/Skin) platziert wird) werden alle Storyboard-Sprites unterhalb der [Hit-Objekte](/wiki/Gameplay/Hit_object) platziert. Daher liegt selbst die "höchste" Ebene (Overlay) im Storyboard immer noch über den Hit-Objekten, aber unter der [Lebensleiste](/wiki/Client/Interface/Health_bar), dem Cursor, etc.
 
-Dies sind die fünf Storyboard-Ebenen, in aufsteigender Reihenfolge nach Priorität:
+Das sind die fünf Storyboard-Ebenen, in aufsteigender Reihenfolge nach Priorität:
 
 - Hintergrund
 - Fail (erscheint nur, wenn der Spieler im "Fail-Zustand" ist, siehe [Spielzustand](#spielzustand) weiter unten)
@@ -70,7 +70,7 @@ Der Zustand **während der Drain-Zeit** (während der der Spieler auf Objekte kl
   - In [osu!taiko](/wiki/Game_mode/osu!taiko) ist es der Fail-Zustand, falls der Spieler die letzte Note verfehlt hat und ansonsten der Pass-Zustand.
   - In [osu!catch](/wiki/Game_mode/osu!catch) wird stets der Zustand der vorherigen Pause übernommen. Der erste spielbare Abschnitt hat immer den Pass-Zustand.
 
-Der Zustand **während den Pausen** (zwischen den Drain-Zeiten):
+Der Zustand **während der Pausen** (zwischen den Drain-Zeiten):
 
 - Pass-Zustand, wenn die Lebensleiste zum Ende der vorherigen Drain-Zeit mehr als zur Hälfte gefüllt war (d. h. wenn das Symbol "O" erscheint).
 - Andernfalls Fail-Zustand (d. h. wenn das Symbol "X" erscheint).
@@ -91,8 +91,8 @@ Der Zustand **nach der letzten Drain-Zeit**, wenn die Beatmap keine Pausen hatte
 
 ![Drücke STRG + C, um den Zeitstempel zu kopieren.](img/SBS_Time.jpg "Drücke STRG + C, um den Zeitstempel zu kopieren.")
 
-- Die Zeit wird in Millisekunden gemessen ab dem Beginn der Audiodatei (`.mp3`/`.ogg`) der Beatmap, wobei auch negative Werte für Intros möglich sind.
-- Die Zeit im Storyboard hängt nicht vom [Timing](/wiki/Beatmapping/Timing) (z. B. die Anzahl [Takte](/wiki/Music_theory/Measure) oder die BPM) der Beatmap ab. Daher wird empfohlen, sicherzustellen, dass das Timing der Beatmap einigermaßen gut eingestellt ist, bevor am Storyboard gearbeitet wird, da es sonst schwieriger wird, diese Zeiten später anzupassen.
+- Die Zeit wird in Millisekunden ab dem Beginn der Audiodatei (`.mp3`/`.ogg`) der Beatmap gemessen, wobei auch negative Werte für Intros möglich sind.
+- Die Zeit im Storyboard hängt nicht vom [Timing](/wiki/Beatmapping/Timing) der Beatmap (z. B. der Anzahl [Takte](/wiki/Music_theory/Measure) oder den BPM) ab. Daher wird empfohlen, sicherzustellen, dass das Timing der Beatmap einigermaßen gut eingestellt ist, bevor am Storyboard gearbeitet wird, da es sonst schwieriger wird, diese Zeiten später anzupassen.
 - Die Zeit ist nicht auf die Länge des Songs beschränkt. Die Verwendung von negativen Werten für Ereignisse vor dem Song (Intro), und Werten, die über den letzten spielbaren Abschnitt oder sogar über das Ende der Audiodatei hinausgehen (Outro), ist möglich.
 - Sobald sie geladen ist, startet die Beatmap zum Zeitpunkt des ersten Ereignisses oder bei 0 ms, je nachdem was zuerst eintritt.
   - Im ersten Fall wird dem Benutzer der `Skip`-Button angezeigt. Durch Anklicken dieses Buttons oder durch Drücken der Leertaste wird zum Zeitpunkt 0 ms gesprungen. Das Spiel kehrt zum normalen Skip-Verhalten vor der Beatmap zurück (z. B. `Skip` erneut drücken, um direkt zum Countdown zu springen — im Gegensatz zu [Elite Beat Agents](https://de.wikipedia.org/wiki/Elite_Beat_Agents), wo das Neustarten einer Beatmap den Spieler nicht zum Zeitpunkt 0 ms, sondern zum Anfäng zurückbringt).
