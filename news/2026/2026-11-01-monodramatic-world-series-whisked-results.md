@@ -20,6 +20,7 @@ Missed the live show? Don't loaf around — we've got the TL;DR fresh out of the
 ![MWS2026 podium](/wiki/shared/news/2026-11-01-monodramatic-world-series-whisked-results/podium.jpg)
 
 Let's dive right into the action! This year, we saw **190 players register** for our 1v1 tournament! Talk about a batch made for greatness!
+
 One of the biggest stories of the tournament was ::{ flag=JP }:: [shouponpon](https://osu.ppy.sh/users/22986777)'s incredible run. After being sent to the loser's bracket in the Round of 16 by ::{ flag=FR }:: [MyzeJD](https://osu.ppy.sh/users/3257847), ::{ flag=JP }:: shouponpon fought their way back through the competition. In the match for at least third place, ::{ flag=LT }:: [Darnix](https://osu.ppy.sh/users/21877230) unfortunately fell short, paving the way for ::{ flag=JP }:: shouponpon to continue their rise to fame and secure a spot in **Grand Finals!**
 
 But the story didn't end there. ::{ flag=JP }:: shouponpon managed to force a **bracket reset against ::{ flag=FR }:: MyzeJD**, giving us another serving of action! ::{ flag=FR }:: MyzeJD ultimately took the win in the tiebreaker, but it was a nail-biting match right down to the final crumb.
@@ -47,7 +48,7 @@ Be sure to check out our custom maps via our [main sheet!](https://docs.google.c
 
 ### Originals
 
-| Round | Original beatmap | Links | Want a sneak peek? |
+| Round | Song | Links | Want a sneak peek? |
 | :-: | :-- | :-- | :-- |
 | RO32 | [Rukadesu - OVERHEAT](https://osu.ppy.sh/beatmapsets/2613248#osu/5854660) | [![Soundcloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/rukadesu/houkago-overheat) | <audio controls><source src="https://assets.ppy.sh/media/news/mws-2026-ruka.mp3"></audio> |
 | RO16 | [SiLiS - Saikyou Konzatsuji](https://osu.ppy.sh/beatmapsets/2617103#osu/5870101) | [![Soundcloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/silis/saikyoukonzatsuji) | <audio controls><source src="https://assets.ppy.sh/media/news/mws-2026-silis.mp3"></audio> |
