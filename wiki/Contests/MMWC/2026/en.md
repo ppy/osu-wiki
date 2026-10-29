@@ -31,6 +31,8 @@ The **osu!mania Mapping World Cup 2026** (***MMWC 2026***) was a country-based, 
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of total cash prize[^cash-prize], [Contest points](/wiki/Contests/Contest_points) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 15% of total cash prize[^cash-prize], [Contest points](/wiki/Contests/Contest_points) |
 
+![MMWC 2026 winner badge](img/badge.jpg "MMWC 2026 winner badge")
+
 ## Organisation
 
 The osu!mania Mapping World Cup 2026 was run by various community members.
@@ -108,6 +110,10 @@ The osu!mania Mapping World Cup 2026 was run by various community members.
 - [Discord server](https://discord.com/invite/a7kpKK2rNj)
 - [Contest spreadsheet](https://docs.google.com/spreadsheets/d/1qP-zPogcytTcMB3SMIAQkWYiTcxOzfMXo4gauRmORbI/edit?usp=sharing)
 - [**Registration form**](https://docs.google.com/forms/d/e/1FAIpQLScpB8MP8-D4bHGuT1aR6_iq-cVprS0zrOmiEEbVQpJL9AyDug/viewform?usp=sharing&ouid=103196331030427249584)
+
+## Podium
+
+![MMWC 2026 podium](img/podium.jpg "MMWC 2026 podium")
 
 ## Results
 

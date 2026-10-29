@@ -7,7 +7,7 @@ series: community_contests
 
 Welcome to the recap of the osu!mania Mapping World Cup 2026!
 
-![](/wiki/shared/news/2026-10-29-osumania-mapping-world-cup-2026-results/MMWC26.jpg)
+![](/wiki/shared/news/2026-03-15-osumania-mapping-world-cup-2026-registrations/banner.jpg)
 
 The osu!mania Mapping World Cup is a country-based, multi-stage osu!mania mapping contest on a scale unlike anything seen previously in the osu!mania scene. After competing across multiple rounds of mapping, one country emerged as this year's winner.
 
@@ -15,7 +15,7 @@ For more information on the rules, contest format, schedule, submissions and jud
 
 ## Results
 
-![MMWC 2026 podium](/wiki/shared/news/2026-10-29-osumania-mapping-world-cup-2026-results/MMWC26_Podium.jpg)
+![MMWC 2026 podium](/wiki/Contests/MMWC/2026/img/podium.jpg)
 
 After three stages of the mapping phase, featuring a total of 72 charted maps, ::{ flag=ID }:: Team Indonesia has successfully claimed the crown on August 15, surpassing the contenders from the American continent: second-place ::{ flag=US }:: ::{ flag=CA }:: Team American Alliance and third-place ::{ flag=US }:: Team United States. A list of the participating teams, charted beatmaps, stage activity and a complete breakdown of the contest results, plus links to the judges' comments, can be found in the [contest spreadsheet](https://docs.google.com/spreadsheets/d/1qP-zPogcytTcMB3SMIAQkWYiTcxOzfMXo4gauRmORbI/edit?usp=sharing).
 
