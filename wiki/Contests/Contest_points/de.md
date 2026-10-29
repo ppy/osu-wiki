@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: c9bdc94c9ef0bc1d5e188289a5a3109ff64893fb
+---
+
 # Wettbewerbspunkte
 
 **Wettbewerbspunkte** sind Punkte, die eine Belohnung in offiziellen Mapping-Wettbewerben darstellen. Nutzer, die **6 Punkte** angesammelt haben, bekommen den Titel *Elite Mapper* verliehen. Den Titel *Elite Mapper II* erlangen Überflieger mit 12 Punkten!
