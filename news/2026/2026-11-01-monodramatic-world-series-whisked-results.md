@@ -9,9 +9,9 @@ MWS has brought us another batch of memorable moments from start to finish! Chec
 
 ![](/wiki/shared/news/2026-11-01-monodramatic-world-series-whisked-results/banner.jpg)
 
-Intense matches, jaw-dropping music, and a vibrant production team made this year's **Monodramatic World Series: Whisked** one of our most exciting events yet! From July to late October, the tournament served up a unique baking gimmick: players collected ingredients from the maps they played to cook up strategic buffs and debuffs.
+Intense matches, jaw-dropping music and a vibrant production team made this year's **Monodramatic World Series: Whisked** one of our most exciting events yet! From July to late October, the tournament served up a unique baking gimmick: players collected ingredients from the maps they played to cook up strategic buffs and debuffs.
 
-The result? A recipe for unexpected twists, thrilling moments, and plenty of freshly baked excitement! It was a refreshing twist on the standard tournament format, proving that the competition was more than half-baked.
+The result? A recipe for unexpected twists, thrilling moments and plenty of freshly baked excitement! It was a refreshing twist on the standard tournament format, proving that the competition was more than half-baked.
 
 Missed the live show? Don't loaf around — we've got the TL;DR fresh out of the oven! 🍞
 
