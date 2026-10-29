@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 63358d53d23f2be7e8331d07e6be6ddd319f3cd2
----
-
 # Metadatos
 
 ## General
@@ -198,8 +193,9 @@ Cuando todo el campo está en mayúsculas o minúsculas, los marcadores pueden u
 
 - **Las etiquetas deben estar relacionadas con el beatmap**, como la descripción del estilo, la canción, el storyboard, el vídeo o el contenido del fondo. Las etiquetas confusas deben evitarse.
 - **Los nombres con espacios entre caracteres como `-[M o c h a]-` deben etiquetarse como `-[M_o_c_h_a]-`.**
-- **Las etiquetas deben incluir los siguientes elementos cuando sea necesario:**
-  - **Creadores de las [dificultades de invitados](/wiki/Beatmap/Guest_difficulty), storyboarders, skinners y hitsounders.**
+- **Las etiquetas deben incluir lo siguiente cuando sea necesario:**
+  - **Nombres de los creadores de las [dificultades de invitados](/wiki/Beatmap/Guest_difficulty) y hitsounders.**
+  - **Nombres de los creadores de cualquier elemento visual creado específicamente para su uso en el beatmap, incluidas las comisiones.** Esto incluye, pero no se limita a: fondos personalizados, vídeos, storyboards y skins.
   - **`Featured Artist`, si la canción figura en el [catálogo de los Artistas Destacados](https://osu.ppy.sh/beatmaps/artists).** No debes usar la etiqueta si la canción no está en el catálogo de los Artistas Destacados.
   - **Al menos una etiqueta del género de la canción y una etiqueta de idioma.**
     - Para las pistas instrumentales, `instrumental` es la etiqueta de idioma.
