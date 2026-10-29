@@ -31,9 +31,9 @@ Want to relive the moment? The full Final Stage showcase is available to watch i
 
 The top three teams have earned their well-deserved rewards, with a total prize pool of $250 USD, alongside a few additional goodies:
 
-- **1st place:** Cash prize equal to 55% of the total prize pool, [contest points](/wiki/Contests/Contest_points) and a shiny profile badge.
-- **2nd place:** Cash prize equal to 30% of the total prize pool and [contest points](/wiki/Contests/Contest_points).
-- **3rd place:** Cash prize equal to 15% of the total prize pool and [contest points](/wiki/Contests/Contest_points).
+- **1st place:** Cash prize equal to 55% of the total prize pool, 3 [contest points](/wiki/Contests/Contest_points) and a shiny profile badge.
+- **2nd place:** Cash prize equal to 30% of the total prize pool and 2 [contest points](/wiki/Contests/Contest_points).
+- **3rd place:** Cash prize equal to 15% of the total prize pool and 1 [contest point](/wiki/Contests/Contest_points).
 
 ![MMWC 2026 badge](/wiki/Contests/MMWC/2026/img/badge.jpg)
 
