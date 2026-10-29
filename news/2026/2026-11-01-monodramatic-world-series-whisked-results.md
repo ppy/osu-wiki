@@ -21,7 +21,7 @@ Missed the live show? Don't loaf around — we've got the TL;DR fresh out of the
 
 Let's dive right into the action! This year, we saw **190 players register** for our 1v1 tournament! Talk about a batch made for greatness!
 
-One of the biggest stories of the tournament was ::{ flag=JP }:: [shouponpon](https://osu.ppy.sh/users/22986777)'s incredible run. After being sent to the loser's bracket in the Round of 16 by ::{ flag=FR }:: [MyzeJD](https://osu.ppy.sh/users/3257847), ::{ flag=JP }:: shouponpon fought their way back through the competition. In the match for at least third place, ::{ flag=LT }:: [Darnix](https://osu.ppy.sh/users/21877230) unfortunately fell short, paving the way for ::{ flag=JP }:: shouponpon to continue their rise to fame and secure a spot in **Grand Finals!**
+One of the biggest stories of the tournament was ::{ flag=JP }:: [shouponpon](https://osu.ppy.sh/users/22986777)'s incredible run. After being sent to the losers' bracket in the Round of 16 by ::{ flag=FR }:: [MyzeJD](https://osu.ppy.sh/users/3257847), ::{ flag=JP }:: shouponpon fought their way back through the competition. In the match for at least third place, ::{ flag=LT }:: [Darnix](https://osu.ppy.sh/users/21877230) unfortunately fell short, paving the way for ::{ flag=JP }:: shouponpon to continue their rise to fame and secure a spot in the **Grand Finals!**
 
 But the story didn't end there. ::{ flag=JP }:: shouponpon managed to force a **bracket reset against ::{ flag=FR }:: MyzeJD**, giving us another serving of action! ::{ flag=FR }:: MyzeJD ultimately took the win in the tiebreaker, but it was a nail-biting match right down to the final crumb.
 
@@ -103,6 +103,6 @@ And that's a wrap for **MWS: Whisked**!
 
 Congratulations to our winners, and an even bigger thank-you to all the players, staff and viewers who made this year's competition unforgettable. Your passion, hard work and support helped make this event a recipe for success!
 
-It's been a pleasure baking up these memories with you all. Until next time, stay fresh, and we'll see you at the next batch: **Monodramatic World Series: Operation Elpis**!
+It's been a pleasure baking up these memories with you all. Until next time, stay fresh, and we'll see you at the next batch, **Monodramatic World Series: Operation Elpis**!
 
 —iiMegxnx
