@@ -35,7 +35,7 @@ The top three teams have earned their well-deserved rewards, with a total prize 
 - **2nd place:** Cash prize equal to 30% of the total prize pool and [contest points](/wiki/Contests/Contest_points).
 - **3rd place:** Cash prize equal to 15% of the total prize pool and [contest points](/wiki/Contests/Contest_points).
 
-![MMWC 2026 badge](/wiki/shared/news/2026-10-29-osumania-mapping-world-cup-2026-results/MMWC26_Badge.jpg)
+![MMWC 2026 badge](/wiki/Contests/MMWC/2026/img/badge.jpg)
 
 ---
 
