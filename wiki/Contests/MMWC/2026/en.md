@@ -227,7 +227,7 @@ Second Chance teams are teams that received a special pass into the Group Stage 
 ### Rules
 
 - **The [osu! community rules](/wiki/Rules) are in place at all times during this contest.**
-- **At least one team member must join the contest's [Discord server](https://discord.com/invite/a7kpKK2rNj)**
+- **At least one team member must join the contest's [Discord server](https://discord.com/invite/a7kpKK2rNj).**
 - **Map submissions must be created collaboratively by team members.** Any form of plagiarism involving outside parties is prohibited.
 - **Each map must be mapped by at least 3 different mappers.** This is a team-based competition. Collaboration is necessary to determine the strengths of each participating country. We want to avoid situations amongst teams where some members get carried. Providing feedback does not count as a part of collaboration.
 - **A mapper on the winning team must participate in at least 2 out of the 3 maps made to be eligible for the badge and points rewards.**
@@ -250,7 +250,7 @@ Second Chance teams are teams that received a special pass into the Group Stage 
 
 ### Judging criteria
 
-- **Representation (30):** Points will be assigned based on how well the beatmap represents the song through its overall arrangement, patterns and structure. As well as how well the map demonstrates the essence of collaborative mapping.
+- **Representation (30):** Points will be assigned based on how well the beatmap represents the song through its overall arrangement, patterns and structure, as well as how well the map demonstrates the essence of collaborative mapping.
 - **Creativity (25):** Points will be assigned based on how innovative the beatmap's design is, including unique structural arrangements, logical intensity changes, and other technical aspects.
 - **Playability (25):** Points will be assigned based on the extent to which the beatmap provides a cohesive playing, visual, and entertainment experience while maintaining a reasonable difficulty curve and fitting into the current stage's difficulty range.
 - **Impression (20):** Points will be assigned based on the judges' overall thoughts regarding the submission, as well as factors not covered by the three aspects above.
