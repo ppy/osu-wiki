@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!mania Mapping World Cup 2026: Results"
-date: 2026-10-29 12:00:00 +0000
+date: 2026-10-29 22:00:00 +0000
 series: community_contests
 ---
 
