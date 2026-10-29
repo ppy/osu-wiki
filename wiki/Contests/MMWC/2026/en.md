@@ -39,10 +39,10 @@ The osu!mania Mapping World Cup 2026 is run by various community members.
 | :-- | :-- |
 | Hosts | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515) |
 | Designer | ::{ flag=ID }:: [Syadow-](https://osu.ppy.sh/users/3484485) |
-| Video Editor | ::{ flag=ID }:: [Mirsaaa](https://osu.ppy.sh/users/15328093) |
+| Video editor | ::{ flag=ID }:: [Mirsaaa](https://osu.ppy.sh/users/15328093) |
 | Commentators | ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
 | Judges | ::{ flag=VN }:: [\[TCD\] Dzar03](https://osu.ppy.sh/users/16712231), ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773), ::{ flag=PH }:: [chocomilku-](https://osu.ppy.sh/users/16687756), ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699), ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315), ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176), ::{ flag=RU }:: [Kurisu Makise](https://osu.ppy.sh/users/2790640), ::{ flag=CA }:: [Ryax](https://osu.ppy.sh/users/8949769), ::{ flag=KR }:: [secXcscX](https://osu.ppy.sh/users/13543418), ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |
-| Guest Judges[^guest-judges] | ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576), ::{ flag=SG }:: [Abraxos](https://osu.ppy.sh/users/5025064), ::{ flag=DE }:: [IceDynamix](https://osu.ppy.sh/users/8599070), ::{ flag=KR }:: [Poca](https://osu.ppy.sh/users/8581031), ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) |
+| Guest judges[^guest-judges] | ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576), ::{ flag=SG }:: [Abraxos](https://osu.ppy.sh/users/5025064), ::{ flag=DE }:: [IceDynamix](https://osu.ppy.sh/users/8599070), ::{ flag=KR }:: [Poca](https://osu.ppy.sh/users/8581031), ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) |
 
 ## Participants
 
@@ -126,7 +126,7 @@ The osu!mania Mapping World Cup 2026 is run by various community members.
 | Group Stage | *Limited Artist* — Each team is required to create a map using tracks by artists selected by the hosts. The available choices and selection order are influenced by a team's placement in the previous stage. |
 | Final Stage | *Limited Song Choice – Diverse Mapping Style* — Each team must create a map using a song selected from two songs provided by the hosts. Song selection order is determined by a team's placement in the previous stage. Each mapper in the team should contribute a section with a distinct interpretation and mapping style. |
 
-- Each stage will introduce difficulty requirements for submissions. These will get progressively harder as the rounds go on. Failing to fulfill the difficulty requirements will affect **Playability** score.
+- Each stage will introduce difficulty requirements for submissions. These will get progressively harder as the rounds go on. Failing to fulfill the difficulty requirements will affect the **Playability** score.
 
 ### Rules
 
@@ -136,35 +136,37 @@ The osu!mania Mapping World Cup 2026 is run by various community members.
 - **Each map must be mapped by at least 3 different mappers.** This is a team-based competition. Collaboration is necessary to determine the strengths of each participating country. We want to avoid situations amongst teams where some members get carried. Providing feedback does not count as a part of collaboration.
 - **A mapper on the winning team must participate in at least 2 out of the 3 maps made to be eligible for the badge and points rewards.**
 - **Submissions will not be accepted after the deadlines set for each stage.**
-- **All participants are expected to uphold the highest standards of sportsmanship and integrity throughout the contest.** Demonstrating mutual respect toward other participants, observers, judges, and organisers is expected.
+- **All participants are expected to uphold the highest standards of sportsmanship and integrity throughout the contest.** Demonstrating mutual respect toward other participants, observers, judges and organisers is expected.
 - **Sharing your work outside your team before judging concludes, or leaking confidential information, will lead to a disqualification from the contest.** At the same time, it is also necessary to avoid being seen by others in the editor as this could expose confidential song selection information.
 
-### Submission Checklists
+### Submission checklist
 
-- The Creator field of the map’s metadata is the **Team Captain**.
-- The submission must be handled exclusively by **Team Captain**.
-- Song used should be on **Featured Artists** listing page.
-- Song used should not be under “Already Mapped Songs” in the [contest spreadsheet](https://docs.google.com/spreadsheets/d/1qP-zPogcytTcMB3SMIAQkWYiTcxOzfMXo4gauRmORbI/edit?usp=sharing).
+- The `Creator` field of the map's metadata is the **Team Captain**.
+- The submission must be handled exclusively by the **Team Captain**.
+- The song used should be on the **Featured Artists** listing page.
+- The song used should not be listed under "Already Mapped Songs" in the [contest spreadsheet](https://docs.google.com/spreadsheets/d/1qP-zPogcytTcMB3SMIAQkWYiTcxOzfMXo4gauRmORbI/edit?usp=sharing).
 - The minimum drain time of the submitted map is **2:45**, with a reasonable distribution of collaborative work.
 - The submitted map should utilize **Bookmark Points** to indicate each part transitions.
-- You may use any background image for the map, but it will be replaced on the judge’s end to maintain anonymity. Please ensure that it still complies with the [Visual content considerations](https://osu.ppy.sh/wiki/en/Rules/Visual_content_considerations) and is provided in **.jpg** format.
-- Videos, Storyboards, and Skins are not allowed.
-- The contributing mappers should be listed in the Tags for recap purposes, it will be removed on the judges’ end.
-- Submitted file should be in .osz format and renamed into the **captain** and **team name**.
+- You may use any background image for the map, but it will be replaced on the judges' end to maintain anonymity. Please ensure that it still complies with the [visual content considerations](/wiki/Rules/Visual_content_considerations) and is provided in `.jpg` format.
+- Videos, storyboards and skins are not allowed.
+- The contributing mappers should be listed in the tags for recap purposes, it will be removed on the judges' end.
+- The submitted file should be in `.osz` format and renamed to the **captain** and **team name**.
 
 ### Judging Criteria
 
-- **Representation (30):** Points will be assigned based on how well the beatmap represents the song through its overall arrangement, patterns, and structure. As well as how well the map demonstrates the essence of collaboration mapping.
+- **Representation (30):** Points will be assigned based on how well the beatmap represents the song through its overall arrangement, patterns and structure. As well as how well the map demonstrates the essence of collaboration mapping.
 - **Creativity (25):** Points will be assigned based on how innovative the beatmap's design is, including unique structural arrangements, logical intensity changes, and other technical aspects.
 - **Playability (25):** Points will be assigned based on the extent to which the beatmap provides a cohesive playing, visual, and entertainment experience while maintaining a reasonable difficulty curve and fitting into the current stage's difficulty range.
 - **Impression (20):** Points will be assigned based on the judges' overall thought regarding the submission, as well as factors not covered by the three aspects above.
 
-Starting from the _Group Stage_, the **Playability (25)** criterion was split into:
-- 20 points for **Playability**.
+Starting from the *Group Stage*, the **Playability (25)** criterion was split into:
+
+- 20 points for **Playability**,
 - 5 points for **Difficulty Alignment**.
 
-In the _Final Stage_, the **Representation (30)** criterion was split into:
-- 20 points for **Representation**.
+In the *Final Stage*, the **Representation (30)** criterion was split into:
+
+- 20 points for **Representation**,
 - 10 points for **Diversity Served**.
 
 Scores are reported as standardised scores.
@@ -173,9 +175,9 @@ Scores are reported as standardised scores.
 
 ### Qualification Stage
 
-Judges: ::{ flag=PH }:: [chocomilku-](https://osu.ppy.sh/users/16687756), ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699), ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176), ::{ flag=RU }:: [Kurisu Makise](https://osu.ppy.sh/users/2790640), ::{ flag=KR }:: [secXcscX](https://osu.ppy.sh/users/13543418)
+The judges in this stage were ::{ flag=PH }:: [chocomilku-](https://osu.ppy.sh/users/16687756), ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699), ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176), ::{ flag=RU }:: [Kurisu Makise](https://osu.ppy.sh/users/2790640) and ::{ flag=KR }:: [secXcscX](https://osu.ppy.sh/users/13543418).
 
-**Team Seeding**
+#### Team Seeding
 
 | Seed |  | Country/Continent | Members | Final Score |
 | :-: | :-: | :-: | :-- | --: |
@@ -198,24 +200,24 @@ Judges: ::{ flag=PH }:: [chocomilku-](https://osu.ppy.sh/users/16687756), ::{ fl
 
 Teams are seeded with unique country/continent basis.
 
-**Second Chance teams**
+#### Second Chance teams
 
-| Placement |  | Country/Continent | Members | Final Score |
+| Placement |  | Country/continent | Members | Final score |
 | :-: | :-: | :-: | :-- | --: |
 | 4 | ::{ flag=ID }:: | **Indonesia Wildcard** | **[Oscyy](https://osu.ppy.sh/users/4818604)**, [ChocoCoki-](https://osu.ppy.sh/users/3565870), [upan](https://osu.ppy.sh/users/5214397) | 4.3764 |
 | 10 | ::{ flag=ID }:: | **Indonesia Wildcard** | **[Ainer](https://osu.ppy.sh/users/13371424)**, [Antipole](https://osu.ppy.sh/users/17258072), [FelixSpade](https://osu.ppy.sh/users/2651304), [Revv-](https://osu.ppy.sh/users/12424909) | 2.5872 |
 | 14 | ::{ flag=VN }:: | **Vietnam Wildcard** | **[minh2506](https://osu.ppy.sh/users/27706969)**, [imaKea](https://osu.ppy.sh/users/25845757), [phuongkhoa102](https://osu.ppy.sh/users/18054129), [Shoka Shirokane](https://osu.ppy.sh/users/33461938) | 2.1087 |
 | 16 | ::{ flag=VN }:: | **Vietnam Wildcard** | **[Lott](https://osu.ppy.sh/users/13821222)**, [Akasha-](https://osu.ppy.sh/users/2596306), [JustAnYDudEykNw](https://osu.ppy.sh/users/29268726), [Micleak](https://osu.ppy.sh/users/16140674) | 1.8229 |
 
-Second Chance teams are teams that received a special pass into the Group Stage after placing in the Top 16, but were unfortunately not seeded because they were not the highest-placed team from their country/continent (up to 4 teams).
+Second Chance teams are teams that received a special pass into the Group Stage after placing in the top 16, but were unfortunately not seeded because they were not the highest-placed team from their country/continent (up to 4 teams).
 
 ### Group Stage
 
-Judges: ::{ flag=PH }:: [\[TCD\] Dzar03](https://osu.ppy.sh/users/16712231), ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773), ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315), ::{ flag=CA }:: [Ryax](https://osu.ppy.sh/users/8949769), ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872)
+The judges in this stage were ::{ flag=PH }:: [\[TCD\] Dzar03](https://osu.ppy.sh/users/16712231), ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773), ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315), ::{ flag=CA }:: [Ryax](https://osu.ppy.sh/users/8949769) and ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872).
 
-**Group A**
+#### Group A
 
-| Placement |  | Country/Continent | Members | Final Score |
+| Placement |  | Country/continent | Members | Final score |
 | :-: | :-: | :-: | :-- | --: |
 | 1 | ::{ flag=US }:: ::{ flag=CA }:: | **American Alliance** | **[Zonifyy](https://osu.ppy.sh/users/10244543)**, [Asymetrical](https://osu.ppy.sh/users/15863480), [Nezu-](https://osu.ppy.sh/users/21963245), [snowsnowsonsnow](https://osu.ppy.sh/users/8160564) | 3.6128 |
 | 2 | ::{ flag=US }:: | **United States** | **[elexire](https://osu.ppy.sh/users/9206093)**, [Ballistic](https://osu.ppy.sh/users/5170506), [lemonguy](https://osu.ppy.sh/users/4693052), [Toaph Daddy](https://osu.ppy.sh/users/7616811) | 2.0942 |
@@ -230,9 +232,9 @@ Judges: ::{ flag=PH }:: [\[TCD\] Dzar03](https://osu.ppy.sh/users/16712231), ::{
 | 11 | ::{ flag=ID }:: | **Indonesia Wildcard** | **[Oscyy](https://osu.ppy.sh/users/4818604)**, [ChocoCoki-](https://osu.ppy.sh/users/3565870), [upan](https://osu.ppy.sh/users/5214397) | 0.0000[^not-submitting] |
 | 12 | ::{ flag=ID }:: | **Indonesia Wildcard** | **[Ainer](https://osu.ppy.sh/users/13371424)**, [Antipole](https://osu.ppy.sh/users/17258072), [FelixSpade](https://osu.ppy.sh/users/2651304), [Revv-](https://osu.ppy.sh/users/12424909) | 0.0000[^not-submitting] |
 
-**Group B**
+#### Group B
 
-| Placement |  | Country/Continent | Members | Final Score |
+| Placement |  | Country/continent | Members | Final score |
 | :-: | :-: | :-: | :-- | --: |
 | 1 | ::{ flag=CN }:: | **China** | **[Seiran-](https://osu.ppy.sh/users/14351534)**, [chy030_ft_pH5_6](https://osu.ppy.sh/users/9492856), [G1NYA](https://osu.ppy.sh/users/31767575), [PlatinumSplash](https://osu.ppy.sh/users/23427252) | 4.6742 |
 | 2 | ::{ flag=TH }:: | **Thailand** | **[nanonbandusty](https://osu.ppy.sh/users/15543726)**, [haerinforever](https://osu.ppy.sh/users/12852613), [MatchaLatte-](https://osu.ppy.sh/users/15944956), [t9Wa2](https://osu.ppy.sh/users/17768395) | 3.7760 |
@@ -243,11 +245,11 @@ Judges: ::{ flag=PH }:: [\[TCD\] Dzar03](https://osu.ppy.sh/users/16712231), ::{
 | 7 | ::{ flag=CN }:: ::{ flag=HK }:: | **Asian Alliance** | **[Hoshimegu Mio](https://osu.ppy.sh/users/17753835)**, [DraterTD](https://osu.ppy.sh/users/11671725), [Koyori Chan](https://osu.ppy.sh/users/11238501) | -4.1622 |
 | 8 | ::{ flag=MY }:: | **Malaysia** | **[\_Kobii](https://osu.ppy.sh/users/6209713)**, [\[-Leon-\]](https://osu.ppy.sh/users/13382147), [Mochineko](https://osu.ppy.sh/users/3793196) | 0.0000[^submission-withdrawn] |
 
-3 teams from each Group are advanced into the Final Stage.
+3 teams from each group advanced to the Final Stage.
 
 ### Final Stage
 
-Judges: ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576), ::{ flag=SG }:: [Abraxos](https://osu.ppy.sh/users/5025064), ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315), ::{ flag=DE }:: [IceDynamix](https://osu.ppy.sh/users/8599070), ::{ flag=KR }:: [Poca](https://osu.ppy.sh/users/8581031), ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379)
+The judges in this stage were ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576), ::{ flag=SG }:: [Abraxos](https://osu.ppy.sh/users/5025064), ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315), ::{ flag=DE }:: [IceDynamix](https://osu.ppy.sh/users/8599070), ::{ flag=KR }:: [Poca](https://osu.ppy.sh/users/8581031) and ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379).
 
 | Placement |  | Country/Continent | Members | Final Score |
 | :-: | :-: | :-: | :-- | --: |
@@ -258,14 +260,14 @@ Judges: ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576), ::{ flag=SG 
 | 5 | ::{ flag=TH }:: | **Thailand** | **[nanonbandusty](https://osu.ppy.sh/users/15543726)**, [haerinforever](https://osu.ppy.sh/users/12852613), [MatchaLatte-](https://osu.ppy.sh/users/15944956), [t9Wa2](https://osu.ppy.sh/users/17768395) | -4.2819 |
 | 6 | ::{ flag=KR }:: | **South Korea** | **[komugii](https://osu.ppy.sh/users/16723762)**, [11Bit](https://osu.ppy.sh/users/14804526), [LeiN-](https://osu.ppy.sh/users/2162939) | 0.0000[^not-submitting] |
 
-A list of the participating teams, charted beatmaps, stage activity, and complete breakdown of the contest results plus links to judge's comment can be found in the [contest spreadsheet](https://docs.google.com/spreadsheets/d/1qP-zPogcytTcMB3SMIAQkWYiTcxOzfMXo4gauRmORbI/edit?usp=sharing).
+A list of the participating teams, charted beatmaps, stage activity and a complete breakdown of the contest results plus links to judge's comment can be found in the [contest spreadsheet](https://docs.google.com/spreadsheets/d/1qP-zPogcytTcMB3SMIAQkWYiTcxOzfMXo4gauRmORbI/edit?usp=sharing).
 
 ## Notes
 
 [^cash-prize]: The cash prize pool was generously crowdfunded by the osu!mania community.
 
-[^guest-judges]: Community members who have been invited as Judge Panelist during the contest's Final Stage.
+[^guest-judges]: Community members who have been invited as judge panelist during the contest's final stage.
 
-[^not-submitting]: The team that did not submit any beatmap.
+[^not-submitting]: This team did not submit any beatmap.
 
-[^submission-withdrawn]: The submission was withdrawn by breaking Submission Checklists.
+[^submission-withdrawn]: The submission was withdrawn because it didn't comply with the submission checklist.
