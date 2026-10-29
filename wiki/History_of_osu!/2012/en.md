@@ -44,7 +44,7 @@ On October 8, the Vertical Scrolling Rhythm Game (VSRG) [osu!mania](/wiki/Game_m
 
 :::
 
-For players who entered the [multiplayer](/wiki/Gameplay/Multiplayer) lobby before updating to the b20121008 build, there was a bug causing a comical appearance of osu!mania named as "3" without the game mode icon. Players were not able to play in the room without applying the update.
+For players who entered the [multiplayer lobby](/wiki/Client/Interface/Multiplayer#main-lobby) before updating to the b20121008 build, there was a bug causing a comical appearance of osu!mania named as "3" without the game mode icon. Players were not able to play in the room without applying the update.
 
 ::: Infobox
 

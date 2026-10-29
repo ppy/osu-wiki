@@ -6,8 +6,6 @@ tags:
   - supporter
   - donator osu!
   - status donatora osu!
-outdated_translation: true
-outdated_since: 49184acd47084cd8be8a2ec20aa54e4e81cfbefe
 ---
 
 # osu!supporter
@@ -85,7 +83,7 @@ Zakup osu!supportera daje możliwość jednej darmowej zmiany nazwy użytkownika
 osu!direct pozwala na szukanie i pobieranie beatmap bezpośrednio w kliencie gry. Można je otworzyć w menu głównym poprzez kliknięcie przycisku `osu!direct`, który znajduje się po prawej stronie ekranu. osu!direct oferuje również inne sposoby pobierania map bez wychodzenia z gry:
 
 - Linki, które normalnie przekierowują do strony beatmapy w internecie, teraz od razu rozpoczynają pobieranie mapy
-- Automatyczne pobieranie beatmap w poczekalniach [trybu wieloosobowego](/wiki/Client/Interface/Multiplayer) oraz podczas [obserwowania](/wiki/Gameplay/Spectating) innych graczy. Można wyłączyć w [opcjach](/wiki/Client/Options#integracja)
+- Automatyczne pobieranie beatmap w poczekalniach [trybu wieloosobowego](/wiki/Gameplay/Multiplayer) oraz podczas [obserwowania](/wiki/Gameplay/Spectating) innych graczy. Można wyłączyć w [opcjach](/wiki/Client/Options#integracja)
 - Automatyczne zamieszczanie linku do obecnie granej beatmapy na czacie `#spectator`. Można wyłączyć w [opcjach](/wiki/Client/Options#powiadomienia-i-prywatność)
 
 ### Rozszerzone tabele wyników

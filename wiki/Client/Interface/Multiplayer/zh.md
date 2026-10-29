@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 49184acd47084cd8be8a2ec20aa54e4e81cfbefe
+---
+
 # 多人游戏
 
 ::: alert-note

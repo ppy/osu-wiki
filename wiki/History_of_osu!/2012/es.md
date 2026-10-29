@@ -44,7 +44,7 @@ El 8 de octubre, el juego de ritmo de desplazamiento vertical (VSRG) conocido co
 
 :::
 
-Para los jugadores que entraban al modo [multijugador](/wiki/Gameplay/Multiplayer) antes de actualizar a la versión b20121008, había un error que causaba una cómica aparición de osu!mania con el nombre de «3» sin el icono del modo de juego. Los jugadores no podían jugar sin aplicar la actualización.
+Para los jugadores que entraban al modo [multijugador](/wiki/Client/Interface/Multiplayer#sala-principal) antes de actualizar a la versión b20121008, había un error que causaba una cómica aparición de osu!mania con el nombre de «3» sin el icono del modo de juego. Los jugadores no podían jugar sin aplicar la actualización.
 
 ::: Infobox
 
