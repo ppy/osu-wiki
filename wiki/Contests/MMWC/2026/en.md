@@ -8,7 +8,7 @@ tags:
 
 ![Contest banner](img/banner.jpg)
 
-The **osu!mania Mapping World Cup 2026** (***MMWC 2026***) is a country-based, multi-stage osu!mania mapping contest that aims to crown which nation is the best at creating osu!mania beatmaps.
+The **osu!mania Mapping World Cup 2026** (***MMWC 2026***) was a country-based, multi-stage osu!mania mapping contest that aimed to crown the best nation at creating osu!mania beatmaps.
 
 ## Schedule
 
@@ -33,7 +33,7 @@ The **osu!mania Mapping World Cup 2026** (***MMWC 2026***) is a country-based, m
 
 ## Organisation
 
-The osu!mania Mapping World Cup 2026 is run by various community members.
+The osu!mania Mapping World Cup 2026 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
