@@ -27,9 +27,9 @@ The **osu!mania Mapping World Cup 2026** (***MMWC 2026***) was a country-based, 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 55% of total cash prize[^cash-prize], unique profile badge, [Contest points](/wiki/Contests/Contest_points) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of total cash prize[^cash-prize], [Contest points](/wiki/Contests/Contest_points) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 15% of total cash prize[^cash-prize], [Contest points](/wiki/Contests/Contest_points) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 55% of total cash prize[^cash-prize], unique profile badge, [contest points](/wiki/Contests/Contest_points) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of total cash prize[^cash-prize], [contest points](/wiki/Contests/Contest_points) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 15% of total cash prize[^cash-prize], [contest points](/wiki/Contests/Contest_points) |
 
 ![MMWC 2026 winner badge](img/badge.jpg "MMWC 2026 winner badge")
 
