@@ -6,7 +6,7 @@ tags:
 
 # osu!mania Mapping World Cup 2026
 
-![contest banner](img/banner.jpg)
+![Contest banner](img/banner.jpg)
 
 The **osu!mania Mapping World Cup 2026** (***MMWC 2026***) is a country-based, multi-stage osu!mania mapping contest that aims to crown which nation is the best at creating osu!mania beatmaps.
 
@@ -14,13 +14,13 @@ The **osu!mania Mapping World Cup 2026** (***MMWC 2026***) is a country-based, m
 
 | Event | Timestamp (UTC) |
 | :-- | :-- |
-| Registration phase | 2026-03-15 – 2026-04-01 (23:59) |
-| Qualification Stage mapping phase | 2026-04-03 – 2026-04-23 (23:59) |
-| Qualification Stage judging phase | 2026-04-25 – 2026-05-15 (23:59) |
-| Group Stage mapping phase | 2026-05-23 – 2026-06-11 (23:59) |
-| Group Stage judging phase | 2026-06-13 – 2026-06-26 (23:59) |
-| Final Stage mapping phase | 2026-07-03 – 2026-07-23 (23:59) |
-| Final Stage judging phase | 2026-07-25 – 2026-08-07 (23:59) |
+| Registration phase | 2026-03-15/2026-04-01 (23:59) |
+| Qualification Stage mapping phase | 2026-04-03/2026-04-23 (23:59) |
+| Qualification Stage judging phase | 2026-04-25/2026-05-15 (23:59) |
+| Group Stage mapping phase | 2026-05-23/2026-06-11 (23:59) |
+| Group Stage judging phase | 2026-06-13/2026-06-26 (23:59) |
+| Final Stage mapping phase | 2026-07-03/2026-07-23 (23:59) |
+| Final Stage judging phase | 2026-07-25/2026-08-07 (23:59) |
 | Final results | 2026-08-15 |
 
 ## Prizes
@@ -46,7 +46,7 @@ The osu!mania Mapping World Cup 2026 is run by various community members.
 
 ## Participants
 
-|  | Country/Continent | Members |
+|  | Country/continent | Members |
 | :-: | :-: | :-- |
 | ::{ flag=US }:: ::{ flag=CA }:: | **American Alliance** | **[Zonifyy](https://osu.ppy.sh/users/10244543)**, [Asymetrical](https://osu.ppy.sh/users/15863480), [Nezu-](https://osu.ppy.sh/users/21963245), [snowsnowsonsnow](https://osu.ppy.sh/users/8160564) |
 | ::{ flag=AR }:: ::{ flag=PE }:: ::{ flag=BR }:: ::{ flag=CL }:: | **American Alliance** | **[APRL03](https://osu.ppy.sh/users/11394892)**, [Gndsklgb](https://osu.ppy.sh/users/25617005), [MilesNoobkk](https://osu.ppy.sh/users/22656756), [XxFoxFirexX352](https://osu.ppy.sh/users/25479095) |
@@ -146,7 +146,7 @@ The osu!mania Mapping World Cup 2026 is run by various community members.
 - The song used should be on the **Featured Artists** listing page.
 - The song used should not be listed under "Already Mapped Songs" in the [contest spreadsheet](https://docs.google.com/spreadsheets/d/1qP-zPogcytTcMB3SMIAQkWYiTcxOzfMXo4gauRmORbI/edit?usp=sharing).
 - The minimum drain time of the submitted map is **2:45**, with a reasonable distribution of collaborative work.
-- The submitted map should utilize **Bookmark Points** to indicate each part transitions.
+- The submitted map should utilise **Bookmark Points** to indicate each part transitions.
 - You may use any background image for the map, but it will be replaced on the judges' end to maintain anonymity. Please ensure that it still complies with the [visual content considerations](/wiki/Rules/Visual_content_considerations) and is provided in `.jpg` format.
 - Videos, storyboards and skins are not allowed.
 - The contributing mappers should be listed in the tags for recap purposes, it will be removed on the judges' end.
@@ -179,7 +179,7 @@ The judges in this stage were ::{ flag=PH }:: [chocomilku-](https://osu.ppy.sh/u
 
 #### Team Seeding
 
-| Seed |  | Country/Continent | Members | Final Score |
+| Seed |  | Country/continent | Members | Final score |
 | :-: | :-: | :-: | :-- | --: |
 | 1 | ::{ flag=JP }:: | **Japan** | **[f_ronte](https://osu.ppy.sh/users/33532882)**, [ICECAKE](https://osu.ppy.sh/users/16100800), [omegaY\_](https://osu.ppy.sh/users/14727263), [yoshyap](https://osu.ppy.sh/users/16608860) | 5.9807 |
 | 2 | ::{ flag=CN }:: ::{ flag=HK }:: | **Asian Alliance** | **[Hoshimegu Mio](https://osu.ppy.sh/users/17753835)**, [DraterTD](https://osu.ppy.sh/users/11671725), [Koyori Chan](https://osu.ppy.sh/users/11238501) | 5.5967 |
@@ -251,7 +251,7 @@ The judges in this stage were ::{ flag=PH }:: [\[TCD\] Dzar03](https://osu.ppy.s
 
 The judges in this stage were ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576), ::{ flag=SG }:: [Abraxos](https://osu.ppy.sh/users/5025064), ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315), ::{ flag=DE }:: [IceDynamix](https://osu.ppy.sh/users/8599070), ::{ flag=KR }:: [Poca](https://osu.ppy.sh/users/8581031) and ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379).
 
-| Placement |  | Country/Continent | Members | Final Score |
+| Placement |  | Country/continent | Members | Final score |
 | :-: | :-: | :-: | :-- | --: |
 | 1 | ::{ flag=ID }:: | **Indonesia** | **[My Angel Chen](https://osu.ppy.sh/users/24285111)**, [_Yunazu](https://osu.ppy.sh/users/11330898), [kartofle](https://osu.ppy.sh/users/32074763), [SatoriMaiden](https://osu.ppy.sh/users/15522414) | 3,8226 |
 | 2 | ::{ flag=US }:: ::{ flag=CA }:: | **American Alliance** | **[Zonifyy](https://osu.ppy.sh/users/10244543)**, [Asymetrical](https://osu.ppy.sh/users/15863480), [Nezu-](https://osu.ppy.sh/users/21963245), [snowsnowsonsnow](https://osu.ppy.sh/users/8160564) | 2.7286 |
@@ -265,9 +265,6 @@ A list of the participating teams, charted beatmaps, stage activity and a comple
 ## Notes
 
 [^cash-prize]: The cash prize pool was generously crowdfunded by the osu!mania community.
-
 [^guest-judges]: Community members who have been invited as judge panelist during the contest's final stage.
-
 [^not-submitting]: This team did not submit any beatmap.
-
 [^submission-withdrawn]: The submission was withdrawn because it didn't comply with the submission checklist.
