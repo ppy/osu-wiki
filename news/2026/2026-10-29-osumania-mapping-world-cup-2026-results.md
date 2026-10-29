@@ -24,7 +24,7 @@ After three stages of the mapping phase, featuring a total of 72 charted maps, :
 Want to relive the showcase? The full Final Stage showcase is available to watch in the VOD below!
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/watch?v=7BXuXEtC_tw" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/7BXuXEtC_tw" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Prizes
