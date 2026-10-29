@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Monodramatic World Series: Whisked Concludes
+title: "Monodramatic World Series: Whisked - Results"
 date: 2026-11-01 18:00:00 +0000
 series: community_tournaments
 ---
-MWS has brought us another batch of memorable moments from start to finish! Check out how it ended. 
 
-![](\wiki\shared\news\2026-11-01-monodramatic-world-series-whisked-concludes\Banner.jpg)
+MWS has brought us another batch of memorable moments from start to finish! Check out how it ended.
+
+![](\wiki\shared\news\2026-11-01-monodramatic-world-series-whisked-results\Banner.jpg)
 
 Intense matches, jaw-dropping music, and a vibrant production team made this year's **Monodramatic World Series: Whisked** one of our most exciting events yet! From July to late October, the tournament served up a unique baking gimmick: players collected ingredients from the maps they played to cook up strategic buffs and debuffs.
 
@@ -16,7 +17,7 @@ Missed the live show? Don't loaf around—we've got the TL;DR fresh out of the o
 
 ## Results
 
-![](\wiki\shared\news\2026-11-01-monodramatic-world-series-whisked-concludes\Podium.png)
+![](\wiki\shared\news\2026-11-01-monodramatic-world-series-whisked-results\Podium.png)
 
 Let's dive right into the action! This year, we saw **190 players register** for our 1v1 tournament! Talk about a batch made for greatness!
 
@@ -24,12 +25,12 @@ One of the biggest stories of the tournament was Shouponpon's incredible run. Af
 
 But the story didn't end there. Shouponpon managed to force a **bracket reset against MyzeJD**, giving us another serving of action! MyzeJD ultimately took the win in the tiebreaker, but it was a nail-biting match right down to the final crumb.
 
-To every player who participated: you all did your best, fought hard, and made this tournament something special. We couldn't have asked for a better batch of competitors!   
+To every player who participated: you all did your best, fought hard, and made this tournament something special. We couldn't have asked for a better batch of competitors!
 
 
 ## Custom Skin
 
-![](\wiki\shared\news\2026-11-01-monodramatic-world-series-whisked-concludes\Podium.png)
+![](\wiki\shared\news\2026-11-01-monodramatic-world-series-whisked-results\Podium.png)
 
 Huge thanks to [Tohkan](https://osu.ppy.sh/users/16928887) for creating our custom skin with the help of [Clo4cky's](https://osu.ppy.sh/users/39560029) audio talents. They brought the Whisked bakery straight to you.
 
@@ -38,7 +39,7 @@ Creating osu skins is not an easy task, it takes a lot of fine tuning and patien
 
 ## MWS 2026 Originals
 
-![](\wiki\shared\news\2026-11-01-monodramatic-world-series-whisked-concludes\OriginalsBanner.jpg)
+![](\wiki\shared\news\2026-11-01-monodramatic-world-series-whisked-results\OriginalsBanner.jpg)
 
 Compared to our 2024 and 2025 iterations, we've significantly increased the number of original and custom songs featured in this year's tournament! Every composer and mapper involved was a pleasure to work with, and their contributions helped make this year's musical lineup something truly special.
 
@@ -53,7 +54,7 @@ Be sure to check out our custom maps via our [main sheet!](https://docs.google.c
 | --- | --- | --- | --- | --- |
 | Round of 32 | Rukadesu - OVERHEAT | [![Soundcloud](\wiki\shared\link\SoundCloud.png)](https://soundcloud.com/rukadesu/houkago-overheat) | <audio controls><source src="https://meganoleary.art/ruka_1min.m4a"></audio> | [🔗](https://osu.ppy.sh/beatmapsets/2613248#osu/5854660)
 | Round of 16 | SiLiS - Saikyou Konzatsuji | [![Soundcloud](\wiki\shared\link\SoundCloud.png)](https://soundcloud.com/silis/saikyoukonzatsuji?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) | <audio controls><source src="https://meganoleary.art/silis_1min.m4a"></audio> | [🔗](https://osu.ppy.sh/beatmapsets/2617103#osu/5870101)|
-| Round of 16 | kou! - mewomewomewo | [![Soundcloud](\wiki\shared\link\SoundCloud.png)](https://soundcloud.com/koukondaikon/mewomewomewo?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) [![YouTube](\wiki\shared\link\YouTube.png)](https://youtu.be/t1WUpiJydnA?si=fONrpJQrAfQhRyff)[![Spotify](\wiki\shared\link\Spotify.png)](https://open.spotify.com/track/1AFv8HXLgwLTHKEeXrZ4QB?si=98a9eb045a014435) | <audio controls><source src="https://meganoleary.art/kou_1min.m4a"></audio> | [🔗](https://osu.ppy.sh/beatmapsets/2617115#osu/5870134) 
+| Round of 16 | kou! - mewomewomewo | [![Soundcloud](\wiki\shared\link\SoundCloud.png)](https://soundcloud.com/koukondaikon/mewomewomewo?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) [![YouTube](\wiki\shared\link\YouTube.png)](https://youtu.be/t1WUpiJydnA?si=fONrpJQrAfQhRyff)[![Spotify](\wiki\shared\link\Spotify.png)](https://open.spotify.com/track/1AFv8HXLgwLTHKEeXrZ4QB?si=98a9eb045a014435) | <audio controls><source src="https://meganoleary.art/kou_1min.m4a"></audio> | [🔗](https://osu.ppy.sh/beatmapsets/2617115#osu/5870134)
 | Quarterfinals | Aiyru - Perspective | [![Soundcloud](\wiki\shared\link\SoundCloud.png)](https://soundcloud.com/aiyru/perspective?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)[![YouTube](\wiki\shared\link\YouTube.png)](https://youtu.be/wZKtLB_EOPs?si=pXt2MSy0R7hFYKkd)[![Twitter](\wiki\shared\link\Twitter.png)](https://x.com/Aiyru1/status/2099807940383232403?s=20) | <audio controls><source src="https://meganoleary.art/perspective_1min.m4a"></audio> | [🔗](https://osu.ppy.sh/beatmapsets/2620955#osu/5882840)
 | Semifinals | sleepy - Farine et Fureur  |  [![Soundcloud](\wiki\shared\link\SoundCloud.png)](https://soundcloud.com/sleeplessgamign/mwsw-farine-et-fureur?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) | <audio controls><source src="https://meganoleary.art/FaurineEtFureur_1min.m4a"></audio> | [🔗](https://osu.ppy.sh/beatmapsets/2624621#osu/5895728)
 | Semifinals | N_dog feat. Ethereal_Winter - Liar Appearance | [![Soundcloud](\wiki\shared\link\SoundCloud.png)](https://soundcloud.com/user-721414606/liar-appearance) [![YouTube](\wiki\shared\link\YouTube.png)](https://www.youtube.com/watch?v=S1cbH4Rc6g8) [![Twitter](\wiki\shared\link\Twitter.png)](https://x.com/N_dogofficial/status/2102306917708439744?s=20) | <audio controls><source src="https://meganoleary.art/ndog_1min.m4a"></audio> | [🔗](https://osu.ppy.sh/beatmapsets/2624552#osu/5895502)
