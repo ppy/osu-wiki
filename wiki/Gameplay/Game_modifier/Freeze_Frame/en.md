@@ -12,7 +12,7 @@ tags:
 
 #### Freeze Frame
 
-![Freeze Frame mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/FR.png)
+![Freeze Frame mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/FR.png?1)
 
 *Burn the notes into your memory.*
 

@@ -12,7 +12,7 @@ tags:
 
 #### Strict Tracking
 
-![Strict Tracking 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/ST.png)
+![Strict Tracking 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/ST.png?1)
 
 *点击滑条后，没跟上便 Miss。*
 
@@ -21,7 +21,7 @@ tags:
 | 缩写 | ST |
 | 类别 | 增加难度 |
 | 游戏模式 | ![][osu!] |
-| 得分系数 | `1.00x` |
+| 得分倍率 | `1.00x` |
 | 状态 | 不计表现分 |
 | 不兼容的模组 | [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)), [Classic (CL)](/wiki/Gameplay/Game_modifier/Classic) |
 

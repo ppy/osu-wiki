@@ -12,7 +12,7 @@ tags:
 
 #### No Scope
 
-![No Scope 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/NS.png)
+![No Scope 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/NS.png?1)
 
 *![][osu!]: 光标到哪去了？*\
 *![][osu!catch]: 小人到哪去了？*
@@ -22,8 +22,8 @@ tags:
 | 缩写 | NS |
 | 类别 | 娱乐 |
 | 游戏模式 | ![][osu!] ![][osu!catch] |
-| 得分系数 | `1.00x` |
-| 状态 | 计入排名 |
+| 得分倍率 | `1.00x` |
+| 状态 | 可计表现分 |
 | 不兼容的模组 ![][osu!] | [Bloom (BM)](/wiki/Gameplay/Game_modifier/Bloom) |
 | 不兼容的模组 ![][osu!catch] | 无 |
 

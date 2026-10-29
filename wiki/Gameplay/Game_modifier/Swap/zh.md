@@ -12,7 +12,7 @@ tags:
 
 #### Swap
 
-![Swap 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SW.png)
+![Swap 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SW.png?1)
 
 *咚变成咔，咔变成咚！*
 
@@ -21,8 +21,8 @@ tags:
 | 缩写 | SW |
 | 类别 | 转换 |
 | 游戏模式 | ![][osu!taiko] |
-| 得分系数 | `1.00x` |
-| 状态 | 计入排名 |
+| 得分倍率 | `1.00x` |
+| 状态 | 可计表现分 |
 | 不兼容的模组 | [Random (RD)](/wiki/Gameplay/Game_modifier/Random_(lazer)) |
 
 :::

@@ -24,7 +24,7 @@ tags:
 
 #### 1K, 2K, 3K, 4K, 5K, 6K, 7K, 8K, 9K, 10K
 
-![7K 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/7K.png)
+![7K 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/7K.png?1)
 
 *用 \[按键数\] 个按键来玩。*
 
@@ -33,8 +33,8 @@ tags:
 | 缩写 | \[按键数\]K |
 | 类别 | 转换 |
 | 游戏模式 | ![][osu!mania] |
-| 得分系数 | `0.90x` |
-| 状态 (4K–9K) | 计入排名 |
+| 得分倍率 | `0.90x` |
+| 状态 (4K–9K) | 可计表现分 |
 | 状态 (1K–3K, 10K) | 不计表现分 |
 | 不兼容的模组 | 无 |
 

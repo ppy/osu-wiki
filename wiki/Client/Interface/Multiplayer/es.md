@@ -232,7 +232,7 @@ El botón azul se usa para controlar el estado de preparación del jugador y par
 ### Historial de las partidas
 
 ::: Infobox
-![](img/multi-mh-ES.jpg "El historial de una partida en el sitio web")
+![](/wiki/shared/multiplayer/stable/multi-mh-ES.jpg "El historial de una partida en el sitio web")
 :::
 
 La sección inferior de la pantalla es la [consola del chat](/wiki/Client/Interface/Chat_console). Cada partida tiene su propio canal en una pestaña llamada `#multiplayer`, con [BanchoBot](/wiki/BanchoBot) proporcionando un enlace al historial de la partida en la primera línea.
@@ -404,7 +404,7 @@ La pantalla de resultados de `Tag-team VS` es idéntica a la [pantalla de result
 ### Historia
 
 ::: Infobox
-![](img/legacy-multi-lobby.jpg "Captura de pantalla de la sala principal cuando osu!mania se lanzó por primera vez (8 de octubre de 2012), pero aún no se podía jugar en multijugador")
+![](/wiki/shared/multiplayer/stable/legacy-multi-lobby.jpg "Captura de pantalla de la sala principal cuando osu!mania se lanzó por primera vez (8 de octubre de 2012), pero aún no se podía jugar en multijugador")
 :::
 
 - La versión multijugador inicial se implementó el 3 de junio de 2008 en la versión pública b335 de osu!.

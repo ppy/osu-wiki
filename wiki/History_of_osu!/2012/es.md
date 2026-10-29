@@ -44,7 +44,7 @@ El 8 de octubre, el juego de ritmo de desplazamiento vertical (VSRG) conocido co
 
 :::
 
-Para los jugadores que entraban al modo [multijugador](/wiki/Client/Interface/Multiplayer) antes de actualizar a la versión b20121008, había un error que causaba una cómica aparición de osu!mania con el nombre de «3» sin el icono del modo de juego. Los jugadores no podían jugar sin aplicar la actualización.
+Para los jugadores que entraban al modo [multijugador](/wiki/Gameplay/Multiplayer) antes de actualizar a la versión b20121008, había un error que causaba una cómica aparición de osu!mania con el nombre de «3» sin el icono del modo de juego. Los jugadores no podían jugar sin aplicar la actualización.
 
 ::: Infobox
 
@@ -55,7 +55,7 @@ Para los jugadores que entraban al modo [multijugador](/wiki/Client/Interface/Mu
 Además del nuevo modo de juego, en la actualización se había implementado lo siguiente:
 
 - Se añadieron hitsounds por objeto en el editor, gracias a ::{ flag=CA }:: [mm201](https://osu.ppy.sh/users/30655).
-- Los jugadores podrían recuperarse de fallar un beatmap en [multijugador](/wiki/Client/Interface/Multiplayer) al alcanzar el total de HP (esto no ocurriría si estaba activado el mod [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death) o [Perfect](/wiki/Gameplay/Game_modifier/Perfect)).
+- Los jugadores podrían recuperarse de fallar un beatmap en [multijugador](/wiki/Gameplay/Multiplayer) al alcanzar el total de HP (esto no ocurriría si estaba activado el mod [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death) o [Perfect](/wiki/Gameplay/Game_modifier/Perfect)).
 - Se añadió soporte de desplazamiento a la lista de clasificación en línea del juego.
 - Se mejoró la [selección de skins](/wiki/Client/Options#skin) para que la vista previa se reproduzca de forma más realista.
 

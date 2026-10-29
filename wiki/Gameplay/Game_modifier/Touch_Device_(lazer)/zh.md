@@ -15,7 +15,7 @@ tags:
 
 #### Touch Device
 
-![Touch Device 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/TD.png)
+![Touch Device 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/TD.png?1)
 
 *使用触摸屏游玩时会自动添加。*
 
@@ -24,8 +24,8 @@ tags:
 | 缩写 | TD |
 | 类别 | 系统 |
 | 游戏模式 | ![][osu!] |
-| 得分系数 | `1.00x` |
-| 状态 | 计入排名 |
+| 得分倍率 | `1.00x` |
+| 状态 | 可计表现分 |
 | 不兼容的模组 | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)), [Bloom (BM)](/wiki/Gameplay/Game_modifier/Bloom) |
 
 :::

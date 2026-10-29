@@ -1,6 +1,8 @@
 # Turniersanktionen
 
-*Hauptseite: [Hilfecenter](/wiki/Help_centre)*
+::: alert-note
+**Hauptseite:** [Hilfecenter](/wiki/Help_centre)
+:::
 
 ## Turniersperren
 

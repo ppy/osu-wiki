@@ -20,7 +20,7 @@ Cette section concerne votre compte, les paramètres de langue et les mises à j
 
 ### Connexion
 
-Si vous n'êtes pas connecté au client, le menu des options s'ouvrira automatiquement au démarrage, vous invitant à vous connecter. Vous pouvez ignorer cette demande en appuyant sur `Esc`, en cliquant sur le bouton retour, ou en naviguant vers l'écran de sélection des musiques. Si vous ne vous connectez pas, le client vous marquera comme "invité" et vous ne pourrez pas obtenir de scores en ligne, soumettre des scores ou jouer au mode [multijoueur](/wiki/Client/Interface/Multiplayer).
+Si vous n'êtes pas connecté au client, le menu des options s'ouvrira automatiquement au démarrage, vous invitant à vous connecter. Vous pouvez ignorer cette demande en appuyant sur `Esc`, en cliquant sur le bouton retour, ou en naviguant vers l'écran de sélection des musiques. Si vous ne vous connectez pas, le client vous marquera comme "invité" et vous ne pourrez pas obtenir de scores en ligne, soumettre des scores ou jouer au mode [multijoueur](/wiki/Gameplay/Multiplayer).
 
 Si vous êtes un invité, ces options seront affichées :
 
