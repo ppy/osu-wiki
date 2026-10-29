@@ -17,11 +17,11 @@ For more information on the rules, contest format, schedule, submissions and jud
 
 ![MMWC 2026 podium](/wiki/Contests/MMWC/2026/img/podium.jpg)
 
-After three stages of the mapping phase, featuring a total of 72 charted maps, ::{ flag=ID }:: Team Indonesia has successfully claimed the crown on August 15, surpassing the contenders from the American continent: second-place ::{ flag=US }:: ::{ flag=CA }:: Team American Alliance and third-place ::{ flag=US }:: Team United States. A list of the participating teams, charted beatmaps, stage activity and a complete breakdown of the contest results, plus links to the judges' comments, can be found in the [contest spreadsheet](https://docs.google.com/spreadsheets/d/1qP-zPogcytTcMB3SMIAQkWYiTcxOzfMXo4gauRmORbI/edit?usp=sharing).
+After three stages featuring a total of 72 charted maps, ::{ flag=ID }:: Team Indonesia successfully claimed the crown on August 15, surpassing the contenders from the North American continent: second-place ::{ flag=US }:: ::{ flag=CA }:: Team American Alliance and third-place ::{ flag=US }:: Team United States. A list of the participating teams, charted beatmaps, stage activity and a complete breakdown of the contest results, plus links to the judges' comments, can be found in the [contest spreadsheet](https://docs.google.com/spreadsheets/d/1qP-zPogcytTcMB3SMIAQkWYiTcxOzfMXo4gauRmORbI/edit?usp=sharing).
 
 ## Final stage showcase
 
-Want to relive the showcase? The full Final Stage showcase is available to watch in the VOD below!
+Want to relive the moment? The full Final Stage showcase is available to watch in the VOD below!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/7BXuXEtC_tw" frameborder="0" allowfullscreen></iframe>
@@ -39,6 +39,6 @@ The top three teams have earned their well-deserved rewards, with a total prize 
 
 ---
 
-For now, we would like to extend our heartfelt thanks to all of the participants, staff, and everyone else who contributed to making this contest possible. We hope to carry the lessons and experiences from this year forward as we work towards bringing you an even better osu!mania Mapping World Cup in 2027!
+Finally, we would like to extend our heartfelt thanks to all of the participants, staff, and everyone else who contributed to making this contest possible. We hope to carry the lessons and experiences from this year forward as we work towards bringing you an even better osu!mania Mapping World Cup in 2027!
 
 —Ilham, Maxus & Reihynn

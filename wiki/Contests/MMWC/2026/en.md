@@ -109,7 +109,6 @@ The osu!mania Mapping World Cup 2026 was run by various community members.
 - [Contest listing](https://osu.ppy.sh/community/contests/283)
 - [Discord server](https://discord.com/invite/a7kpKK2rNj)
 - [Contest spreadsheet](https://docs.google.com/spreadsheets/d/1qP-zPogcytTcMB3SMIAQkWYiTcxOzfMXo4gauRmORbI/edit?usp=sharing)
-- [**Registration form**](https://docs.google.com/forms/d/e/1FAIpQLScpB8MP8-D4bHGuT1aR6_iq-cVprS0zrOmiEEbVQpJL9AyDug/viewform?usp=sharing&ouid=103196331030427249584)
 
 ## Podium
 
@@ -123,14 +122,14 @@ The judges in this stage were ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/
 
 | Placement |  | Country/continent | Members | Final score |
 | :-: | :-: | :-: | :-- | --: |
-| 1 | ::{ flag=ID }:: | **Indonesia** | **[My Angel Chen](https://osu.ppy.sh/users/24285111)**, [_Yunazu](https://osu.ppy.sh/users/11330898), [kartofle](https://osu.ppy.sh/users/32074763), [SatoriMaiden](https://osu.ppy.sh/users/15522414) | 3,8226 |
+| 1 | ::{ flag=ID }:: | **Indonesia** | **[My Angel Chen](https://osu.ppy.sh/users/24285111)**, [_Yunazu](https://osu.ppy.sh/users/11330898), [kartofle](https://osu.ppy.sh/users/32074763), [SatoriMaiden](https://osu.ppy.sh/users/15522414) | 3.8226 |
 | 2 | ::{ flag=US }:: ::{ flag=CA }:: | **American Alliance** | **[Zonifyy](https://osu.ppy.sh/users/10244543)**, [Asymetrical](https://osu.ppy.sh/users/15863480), [Nezu-](https://osu.ppy.sh/users/21963245), [snowsnowsonsnow](https://osu.ppy.sh/users/8160564) | 2.7286 |
 | 3 | ::{ flag=US }:: | **United States** | **[elexire](https://osu.ppy.sh/users/9206093)**, [Ballistic](https://osu.ppy.sh/users/5170506), [lemonguy](https://osu.ppy.sh/users/4693052), [Toaph Daddy](https://osu.ppy.sh/users/7616811) | -0.9374 |
 | 4 | ::{ flag=CN }:: | **China** | **[Seiran-](https://osu.ppy.sh/users/14351534)**, [chy030_ft_pH5_6](https://osu.ppy.sh/users/9492856), [G1NYA](https://osu.ppy.sh/users/31767575), [PlatinumSplash](https://osu.ppy.sh/users/23427252) | -1.3318 |
 | 5 | ::{ flag=TH }:: | **Thailand** | **[nanonbandusty](https://osu.ppy.sh/users/15543726)**, [haerinforever](https://osu.ppy.sh/users/12852613), [MatchaLatte-](https://osu.ppy.sh/users/15944956), [t9Wa2](https://osu.ppy.sh/users/17768395) | -4.2819 |
 | 6 | ::{ flag=KR }:: | **South Korea** | **[komugii](https://osu.ppy.sh/users/16723762)**, [11Bit](https://osu.ppy.sh/users/14804526), [LeiN-](https://osu.ppy.sh/users/2162939) | 0.0000[^not-submitting] |
 
-A list of the participating teams, charted beatmaps, stage activity and a complete breakdown of the contest results plus links to judge's comment can be found in the [contest spreadsheet](https://docs.google.com/spreadsheets/d/1qP-zPogcytTcMB3SMIAQkWYiTcxOzfMXo4gauRmORbI/edit?usp=sharing).
+A list of the participating teams, charted beatmaps, stage activity and a complete breakdown of the contest results plus links to the judges' comments can be found in the [contest spreadsheet](https://docs.google.com/spreadsheets/d/1qP-zPogcytTcMB3SMIAQkWYiTcxOzfMXo4gauRmORbI/edit?usp=sharing).
 
 ### Group Stage
 
@@ -243,18 +242,18 @@ Second Chance teams are teams that received a special pass into the Group Stage 
 - The song used should be on the **Featured Artists** listing page.
 - The song used should not be listed under "Already Mapped Songs" in the [contest spreadsheet](https://docs.google.com/spreadsheets/d/1qP-zPogcytTcMB3SMIAQkWYiTcxOzfMXo4gauRmORbI/edit?usp=sharing).
 - The minimum drain time of the submitted map is **2:45**, with a reasonable distribution of collaborative work.
-- The submitted map should utilise **Bookmark Points** to indicate each part transitions.
+- The submitted map should utilise **Bookmark Points** to indicate each part transition.
 - You may use any background image for the map, but it will be replaced on the judges' end to maintain anonymity. Please ensure that it still complies with the [visual content considerations](/wiki/Rules/Visual_content_considerations) and is provided in `.jpg` format.
 - Videos, storyboards and skins are not allowed.
-- The contributing mappers should be listed in the tags for recap purposes, it will be removed on the judges' end.
-- The submitted file should be in `.osz` format and renamed to the **captain** and **team name**.
+- The contributing mappers should be listed in the tags for recap purposes, they will be removed on the judges' end.
+- The submitted file should be in `.osz` format and renamed after the **captain** and **team name**.
 
 ### Judging criteria
 
-- **Representation (30):** Points will be assigned based on how well the beatmap represents the song through its overall arrangement, patterns and structure. As well as how well the map demonstrates the essence of collaboration mapping.
+- **Representation (30):** Points will be assigned based on how well the beatmap represents the song through its overall arrangement, patterns and structure. As well as how well the map demonstrates the essence of collaborative mapping.
 - **Creativity (25):** Points will be assigned based on how innovative the beatmap's design is, including unique structural arrangements, logical intensity changes, and other technical aspects.
 - **Playability (25):** Points will be assigned based on the extent to which the beatmap provides a cohesive playing, visual, and entertainment experience while maintaining a reasonable difficulty curve and fitting into the current stage's difficulty range.
-- **Impression (20):** Points will be assigned based on the judges' overall thought regarding the submission, as well as factors not covered by the three aspects above.
+- **Impression (20):** Points will be assigned based on the judges' overall thoughts regarding the submission, as well as factors not covered by the three aspects above.
 
 Starting from the *Group Stage*, the **Playability (25)** criterion was split into:
 
