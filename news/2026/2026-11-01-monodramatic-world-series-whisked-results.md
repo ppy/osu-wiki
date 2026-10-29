@@ -35,7 +35,6 @@ Huge thanks to ::{ flag=US }:: [tohkan](https://osu.ppy.sh/users/16928887) for c
 
 Creating osu skins is not an easy task, it takes a lot of fine tuning and patience... sorta like baking. It's available to download via [osuck.net](https://skins.osuck.net/skins/5841?tab=downloads).
 
-
 ## MWS 2026 originals
 
 ![](/wiki/shared/news/2026-11-01-monodramatic-world-series-whisked-results/originals.jpg)
@@ -54,7 +53,7 @@ Be sure to check out our custom maps via our [main sheet!](https://docs.google.c
 | RO16 | [SiLiS - Saikyou Konzatsuji](https://osu.ppy.sh/beatmapsets/2617103#osu/5870101) | [![Soundcloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/silis/saikyoukonzatsuji) | <audio controls><source src="https://assets.ppy.sh/media/news/mws-2026-silis.mp3"></audio> |
 | RO16 | [kou! - mewomewomewo](https://osu.ppy.sh/beatmapsets/2617115#osu/5870134) | [![Soundcloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/koukondaikon/mewomewomewo) | <audio controls><source src="https://assets.ppy.sh/media/news/mws-2026-kou.mp3"></audio> |
 | QF | [Aiyru - Perspective](https://osu.ppy.sh/beatmapsets/2620955#osu/5882840) | [![Soundcloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/aiyru/perspective) | <audio controls><source src="https://assets.ppy.sh/media/news/mws-2026-perspective.mp3"></audio> |
-| SF | [sleepy - Farine et Fureur ](https://osu.ppy.sh/beatmapsets/2624621#osu/5895728) | [![Soundcloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sleeplessgamign/mwsw-farine-et-fureur) | <audio controls><source src="https://assets.ppy.sh/media/news/mws-2026-FaurineEtFureur.mp3"></audio> |
+| SF | [sleepy - Farine et Fureur](https://osu.ppy.sh/beatmapsets/2624621#osu/5895728) | [![Soundcloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sleeplessgamign/mwsw-farine-et-fureur) | <audio controls><source src="https://assets.ppy.sh/media/news/mws-2026-FaurineEtFureur.mp3"></audio> |
 | SF | [N_dog feat. Ethereal_Winter - Liar Appearance](https://osu.ppy.sh/beatmapsets/2624552#osu/5895502) | [![Soundcloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/user-721414606/liar-appearance) [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=S1cbH4Rc6g8) [![Twitter](/wiki/shared/link/Twitter.png)](https://x.com/N_dogofficial/status/2102306917708439744) | <audio controls><source src="https://assets.ppy.sh/media/news/mws-2026-ndog.mp3"></audio> |
 | F | [Slax - Everbloom](https://osu.ppy.sh/beatmapsets/2628082#osu/5907277) | [![Soundcloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/dj-slax/everbloom) [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=7wp8S3tuICc) [![Twitter](/wiki/shared/link/Twitter.png)](https://twitter.com/slax23) | <audio controls><source src="https://assets.ppy.sh/media/news/mws-2026-slax.mp3"></audio> |
 | F | [Jeko - Tempestuous](https://osu.ppy.sh/beatmapsets/2628304#osu/5907973) | [![Soundcloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/j3cyclone/tempestuous-mwsw-finals-hr4) [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=FqfTyGqZSZU) | <audio controls><source src="https://assets.ppy.sh/media/news/mws-2026-jeko.mp3"></audio> |
@@ -86,6 +85,7 @@ Be sure to check out our custom maps via our [main sheet!](https://docs.google.c
         color: #FFFFFF;
     }
 </style>
+
 <div class="news-chat-quote__text-container">
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9536345" style="background-image: url('/wiki/shared/avatars/CinnamonTwist.jpg')"></a>
@@ -95,6 +95,7 @@ Be sure to check out our custom maps via our [main sheet!](https://docs.google.c
 Three years, MWS has existed. In each one of those years, we failed, learned and succeeded in the year following. I'm so proud of the outcome of Whisked, even if there were struggles along the way. I'm proud of those who stood up to take charge when others were missing, and those who adapted to the issues in front of them.
 
 From original music to artwork, to GFX and animation; everyone who worked on this project poured everything they had into it, and I'm glad to call it the most successful iteration of MWS yet. It's a daunting task, but I'm happy to accept the challenge of becoming even better next year.
+
 </div>
 
 ---
