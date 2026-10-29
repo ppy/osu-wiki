@@ -47,7 +47,7 @@ Be sure to check out our custom maps via our [main sheet!](https://docs.google.c
 
 ### Originals
 
-| Round | Original beatmap | Want a sneak peek? |
+| Round | Original beatmap | Links | Want a sneak peek? |
 | :-: | :-- | :-- | :-- |
 | Round of 32 | [Rukadesu - OVERHEAT](https://osu.ppy.sh/beatmapsets/2613248#osu/5854660) | [![Soundcloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/rukadesu/houkago-overheat) | <audio controls><source src="https://meganoleary.art/ruka_1min.m4a"></audio> |
 | Round of 16 | [SiLiS - Saikyou Konzatsuji](https://osu.ppy.sh/beatmapsets/2617103#osu/5870101) | [![Soundcloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/silis/saikyoukonzatsuji) | <audio controls><source src="https://meganoleary.art/silis_1min.m4a"></audio> |
