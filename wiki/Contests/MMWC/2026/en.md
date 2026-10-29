@@ -109,6 +109,97 @@ The osu!mania Mapping World Cup 2026 was run by various community members.
 - [Contest spreadsheet](https://docs.google.com/spreadsheets/d/1qP-zPogcytTcMB3SMIAQkWYiTcxOzfMXo4gauRmORbI/edit?usp=sharing)
 - [**Registration form**](https://docs.google.com/forms/d/e/1FAIpQLScpB8MP8-D4bHGuT1aR6_iq-cVprS0zrOmiEEbVQpJL9AyDug/viewform?usp=sharing&ouid=103196331030427249584)
 
+## Results
+
+### Final Stage
+
+The judges in this stage were ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576), ::{ flag=SG }:: [Abraxos](https://osu.ppy.sh/users/5025064), ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315), ::{ flag=DE }:: [IceDynamix](https://osu.ppy.sh/users/8599070), ::{ flag=KR }:: [Poca](https://osu.ppy.sh/users/8581031) and ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379).
+
+| Placement |  | Country/continent | Members | Final score |
+| :-: | :-: | :-: | :-- | --: |
+| 1 | ::{ flag=ID }:: | **Indonesia** | **[My Angel Chen](https://osu.ppy.sh/users/24285111)**, [_Yunazu](https://osu.ppy.sh/users/11330898), [kartofle](https://osu.ppy.sh/users/32074763), [SatoriMaiden](https://osu.ppy.sh/users/15522414) | 3,8226 |
+| 2 | ::{ flag=US }:: ::{ flag=CA }:: | **American Alliance** | **[Zonifyy](https://osu.ppy.sh/users/10244543)**, [Asymetrical](https://osu.ppy.sh/users/15863480), [Nezu-](https://osu.ppy.sh/users/21963245), [snowsnowsonsnow](https://osu.ppy.sh/users/8160564) | 2.7286 |
+| 3 | ::{ flag=US }:: | **United States** | **[elexire](https://osu.ppy.sh/users/9206093)**, [Ballistic](https://osu.ppy.sh/users/5170506), [lemonguy](https://osu.ppy.sh/users/4693052), [Toaph Daddy](https://osu.ppy.sh/users/7616811) | -0.9374 |
+| 4 | ::{ flag=CN }:: | **China** | **[Seiran-](https://osu.ppy.sh/users/14351534)**, [chy030_ft_pH5_6](https://osu.ppy.sh/users/9492856), [G1NYA](https://osu.ppy.sh/users/31767575), [PlatinumSplash](https://osu.ppy.sh/users/23427252) | -1.3318 |
+| 5 | ::{ flag=TH }:: | **Thailand** | **[nanonbandusty](https://osu.ppy.sh/users/15543726)**, [haerinforever](https://osu.ppy.sh/users/12852613), [MatchaLatte-](https://osu.ppy.sh/users/15944956), [t9Wa2](https://osu.ppy.sh/users/17768395) | -4.2819 |
+| 6 | ::{ flag=KR }:: | **South Korea** | **[komugii](https://osu.ppy.sh/users/16723762)**, [11Bit](https://osu.ppy.sh/users/14804526), [LeiN-](https://osu.ppy.sh/users/2162939) | 0.0000[^not-submitting] |
+
+A list of the participating teams, charted beatmaps, stage activity and a complete breakdown of the contest results plus links to judge's comment can be found in the [contest spreadsheet](https://docs.google.com/spreadsheets/d/1qP-zPogcytTcMB3SMIAQkWYiTcxOzfMXo4gauRmORbI/edit?usp=sharing).
+
+### Group Stage
+
+The judges in this stage were ::{ flag=PH }:: [\[TCD\] Dzar03](https://osu.ppy.sh/users/16712231), ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773), ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315), ::{ flag=CA }:: [Ryax](https://osu.ppy.sh/users/8949769) and ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872).
+
+#### Group A
+
+| Placement |  | Country/continent | Members | Final score |
+| :-: | :-: | :-: | :-- | --: |
+| 1 | ::{ flag=US }:: ::{ flag=CA }:: | **American Alliance** | **[Zonifyy](https://osu.ppy.sh/users/10244543)**, [Asymetrical](https://osu.ppy.sh/users/15863480), [Nezu-](https://osu.ppy.sh/users/21963245), [snowsnowsonsnow](https://osu.ppy.sh/users/8160564) | 3.6128 |
+| 2 | ::{ flag=US }:: | **United States** | **[elexire](https://osu.ppy.sh/users/9206093)**, [Ballistic](https://osu.ppy.sh/users/5170506), [lemonguy](https://osu.ppy.sh/users/4693052), [Toaph Daddy](https://osu.ppy.sh/users/7616811) | 2.0942 |
+| 3 | ::{ flag=ID }:: | **Indonesia** | **[My Angel Chen](https://osu.ppy.sh/users/24285111)**, [_Yunazu](https://osu.ppy.sh/users/11330898), [kartofle](https://osu.ppy.sh/users/32074763), [SatoriMaiden](https://osu.ppy.sh/users/15522414) | 1.7802 |
+| 4 | ::{ flag=MX }:: | **Mexico** | **[Naiibe](https://osu.ppy.sh/users/21340543)**, [kilotek](https://osu.ppy.sh/users/23833099), [Sakuragi Kaware](https://osu.ppy.sh/users/19638984), [tochi](https://osu.ppy.sh/users/13875577) | 1.6697 |
+| 5 | ::{ flag=RU }:: | **Russian Federation** | **[Son\_66](https://osu.ppy.sh/users/27315846)**, [astat11](https://osu.ppy.sh/users/12338913), [Lazurent](https://osu.ppy.sh/users/17272017), [riftoyu](https://osu.ppy.sh/users/26702763) | 1.4631 |
+| 6 | ::{ flag=JP }:: | **Japan** | **[f_ronte](https://osu.ppy.sh/users/33532882)**, [ICECAKE](https://osu.ppy.sh/users/16100800), [omegaY\_](https://osu.ppy.sh/users/14727263), [yoshyap](https://osu.ppy.sh/users/16608860) | -0.4469 |
+| 7 | ::{ flag=VN }:: | **Vietnam Wildcard** | **[Lott](https://osu.ppy.sh/users/13821222)**, [Akasha-](https://osu.ppy.sh/users/2596306), [JustAnYDudEykNw](https://osu.ppy.sh/users/29268726), [Micleak](https://osu.ppy.sh/users/16140674) | -1.7567 |
+| 8 | ::{ flag=VN }:: | **Vietnam Wildcard** | **[minh2506](https://osu.ppy.sh/users/27706969)**, [imaKea](https://osu.ppy.sh/users/25845757), [phuongkhoa102](https://osu.ppy.sh/users/18054129), [Shoka Shirokane](https://osu.ppy.sh/users/33461938) | -3.6571 |
+| 9 | ::{ flag=VN }:: | **Vietnam** | **[GamerChris](https://osu.ppy.sh/users/36042814)**, [\[GB\]Kita-](https://osu.ppy.sh/users/27175001), [\[TCD\]SnowyCutie](https://osu.ppy.sh/users/26853034), [soup3r](https://osu.ppy.sh/users/25088164) | -4.7594 |
+| 10 | ::{ flag=IL }:: ::{ flag=RO }:: ::{ flag=GR }:: | **European Alliance** | **[Skibidi Toilet](https://osu.ppy.sh/users/18782031)**, [Bei](https://osu.ppy.sh/users/14039549), [flvxify](https://osu.ppy.sh/users/17698463), [Mich\_](https://osu.ppy.sh/users/11784492) | 0.0000[^not-submitting] |
+| 11 | ::{ flag=ID }:: | **Indonesia Wildcard** | **[Oscyy](https://osu.ppy.sh/users/4818604)**, [ChocoCoki-](https://osu.ppy.sh/users/3565870), [upan](https://osu.ppy.sh/users/5214397) | 0.0000[^not-submitting] |
+| 12 | ::{ flag=ID }:: | **Indonesia Wildcard** | **[Ainer](https://osu.ppy.sh/users/13371424)**, [Antipole](https://osu.ppy.sh/users/17258072), [FelixSpade](https://osu.ppy.sh/users/2651304), [Revv-](https://osu.ppy.sh/users/12424909) | 0.0000[^not-submitting] |
+
+#### Group B
+
+| Placement |  | Country/continent | Members | Final score |
+| :-: | :-: | :-: | :-- | --: |
+| 1 | ::{ flag=CN }:: | **China** | **[Seiran-](https://osu.ppy.sh/users/14351534)**, [chy030_ft_pH5_6](https://osu.ppy.sh/users/9492856), [G1NYA](https://osu.ppy.sh/users/31767575), [PlatinumSplash](https://osu.ppy.sh/users/23427252) | 4.6742 |
+| 2 | ::{ flag=TH }:: | **Thailand** | **[nanonbandusty](https://osu.ppy.sh/users/15543726)**, [haerinforever](https://osu.ppy.sh/users/12852613), [MatchaLatte-](https://osu.ppy.sh/users/15944956), [t9Wa2](https://osu.ppy.sh/users/17768395) | 3.7760 |
+| 3 | ::{ flag=KR }:: | **South Korea** | **[komugii](https://osu.ppy.sh/users/16723762)**, [11Bit](https://osu.ppy.sh/users/14804526), [LeiN-](https://osu.ppy.sh/users/2162939) | 0.7401 |
+| 4 | ::{ flag=NL }:: | **Netherlands** | **[Linlime](https://osu.ppy.sh/users/14438535)**, [DannyPX](https://osu.ppy.sh/users/11253722), [Muse Dash](https://osu.ppy.sh/users/13695676), [Saemitsu](https://osu.ppy.sh/users/14262789) | 0.0109 |
+| 5 | ::{ flag=FR }:: | **France** | **[Paturages](https://osu.ppy.sh/users/1375479)**, [Adri](https://osu.ppy.sh/users/4579132), [poketoine](https://osu.ppy.sh/users/27254270), [Ventilo le vrai](https://osu.ppy.sh/users/13661408) | -1.6073 |
+| 6 | ::{ flag=CO }:: | **Colombia** | **[xNett](https://osu.ppy.sh/users/4998501)**, [AlexGB](https://osu.ppy.sh/users/24500138), [eveille](https://osu.ppy.sh/users/35548476), [MarvelousCosmos](https://osu.ppy.sh/users/14189527) | -3.4317 |
+| 7 | ::{ flag=CN }:: ::{ flag=HK }:: | **Asian Alliance** | **[Hoshimegu Mio](https://osu.ppy.sh/users/17753835)**, [DraterTD](https://osu.ppy.sh/users/11671725), [Koyori Chan](https://osu.ppy.sh/users/11238501) | -4.1622 |
+| 8 | ::{ flag=MY }:: | **Malaysia** | **[\_Kobii](https://osu.ppy.sh/users/6209713)**, [\[-Leon-\]](https://osu.ppy.sh/users/13382147), [Mochineko](https://osu.ppy.sh/users/3793196) | 0.0000[^submission-withdrawn] |
+
+3 teams from each group advanced to the Final Stage.
+
+### Qualification Stage
+
+The judges in this stage were ::{ flag=PH }:: [chocomilku-](https://osu.ppy.sh/users/16687756), ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699), ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176), ::{ flag=RU }:: [Kurisu Makise](https://osu.ppy.sh/users/2790640) and ::{ flag=KR }:: [secXcscX](https://osu.ppy.sh/users/13543418).
+
+#### Team seeding
+
+| Seed |  | Country/continent | Members | Final score |
+| :-: | :-: | :-: | :-- | --: |
+| 1 | ::{ flag=JP }:: | **Japan** | **[f_ronte](https://osu.ppy.sh/users/33532882)**, [ICECAKE](https://osu.ppy.sh/users/16100800), [omegaY\_](https://osu.ppy.sh/users/14727263), [yoshyap](https://osu.ppy.sh/users/16608860) | 5.9807 |
+| 2 | ::{ flag=CN }:: ::{ flag=HK }:: | **Asian Alliance** | **[Hoshimegu Mio](https://osu.ppy.sh/users/17753835)**, [DraterTD](https://osu.ppy.sh/users/11671725), [Koyori Chan](https://osu.ppy.sh/users/11238501) | 5.5967 |
+| 3 | ::{ flag=ID }:: | **Indonesia** | **[My Angel Chen](https://osu.ppy.sh/users/24285111)**, [_Yunazu](https://osu.ppy.sh/users/11330898), [kartofle](https://osu.ppy.sh/users/32074763), [SatoriMaiden](https://osu.ppy.sh/users/15522414) | 4.9237 |
+| 4 | ::{ flag=NL }:: | **Netherlands** | **[Linlime](https://osu.ppy.sh/users/14438535)**, [DannyPX](https://osu.ppy.sh/users/11253722), [Muse Dash](https://osu.ppy.sh/users/13695676), [Saemitsu](https://osu.ppy.sh/users/14262789) | 3.8340 |
+| 5 | ::{ flag=US }:: | **United States** | **[elexire](https://osu.ppy.sh/users/9206093)**, [Ballistic](https://osu.ppy.sh/users/5170506), [lemonguy](https://osu.ppy.sh/users/4693052), [Toaph Daddy](https://osu.ppy.sh/users/7616811) | 3.3974 |
+| 6 | ::{ flag=CN }:: | **China** | **[Seiran-](https://osu.ppy.sh/users/14351534)**, [chy030_ft_pH5_6](https://osu.ppy.sh/users/9492856), [G1NYA](https://osu.ppy.sh/users/31767575), [PlatinumSplash](https://osu.ppy.sh/users/23427252) | 3.2725 |
+| 7 | ::{ flag=MX }:: | **Mexico** | **[Naiibe](https://osu.ppy.sh/users/21340543)**, [kilotek](https://osu.ppy.sh/users/23833099), [Sakuragi Kaware](https://osu.ppy.sh/users/19638984), [tochi](https://osu.ppy.sh/users/13875577) | 3.1300 |
+| 8 | ::{ flag=TH }:: | **Thailand** | **[nanonbandusty](https://osu.ppy.sh/users/15543726)**, [haerinforever](https://osu.ppy.sh/users/12852613), [MatchaLatte-](https://osu.ppy.sh/users/15944956), [t9Wa2](https://osu.ppy.sh/users/17768395) | 2.6195 |
+| 9 | ::{ flag=US }:: ::{ flag=CA }:: | **American Alliance** | **[Zonifyy](https://osu.ppy.sh/users/10244543)**, [Asymetrical](https://osu.ppy.sh/users/15863480), [Nezu-](https://osu.ppy.sh/users/21963245), [snowsnowsonsnow](https://osu.ppy.sh/users/8160564) | 2.4141 |
+| 10 | ::{ flag=MY }:: | **Malaysia** | **[\_Kobii](https://osu.ppy.sh/users/6209713)**, [\[-Leon-\]](https://osu.ppy.sh/users/13382147), [Mochineko](https://osu.ppy.sh/users/3793196) | 2.3702 |
+| 11 | ::{ flag=VN }:: | **Vietnam** | **[GamerChris](https://osu.ppy.sh/users/36042814)**, [\[GB\]Kita-](https://osu.ppy.sh/users/27175001), [\[TCD\]SnowyCutie](https://osu.ppy.sh/users/26853034), [soup3r](https://osu.ppy.sh/users/25088164) | 2.2802 |
+| 12 | ::{ flag=KR }:: | **South Korea** | **[komugii](https://osu.ppy.sh/users/16723762)**, [11Bit](https://osu.ppy.sh/users/14804526), [LeiN-](https://osu.ppy.sh/users/2162939) | 2.0461 |
+| 13 | ::{ flag=IL }:: ::{ flag=RO }:: ::{ flag=GR }:: | **European Alliance** | **[Skibidi Toilet](https://osu.ppy.sh/users/18782031)**, [Bei](https://osu.ppy.sh/users/14039549), [flvxify](https://osu.ppy.sh/users/17698463), [Mich\_](https://osu.ppy.sh/users/11784492) | 1.7739 |
+| 14 | ::{ flag=CO }:: | **Colombia** | **[xNett](https://osu.ppy.sh/users/4998501)**, [AlexGB](https://osu.ppy.sh/users/24500138), [eveille](https://osu.ppy.sh/users/35548476), [MarvelousCosmos](https://osu.ppy.sh/users/14189527) | 1.7041 |
+| 15 | ::{ flag=RU }:: | **Russian Federation** | **[Son\_66](https://osu.ppy.sh/users/27315846)**, [astat11](https://osu.ppy.sh/users/12338913), [Lazurent](https://osu.ppy.sh/users/17272017), [riftoyu](https://osu.ppy.sh/users/26702763) | 1.3816 |
+| 16 | ::{ flag=FR }:: | **France** | **[Paturages](https://osu.ppy.sh/users/1375479)**, [Adri](https://osu.ppy.sh/users/4579132), [poketoine](https://osu.ppy.sh/users/27254270), [Ventilo le vrai](https://osu.ppy.sh/users/13661408) | 1.3232 |
+
+Teams are seeded with unique country/continent basis.
+
+#### Second Chance teams
+
+| Placement |  | Country/continent | Members | Final score |
+| :-: | :-: | :-: | :-- | --: |
+| 4 | ::{ flag=ID }:: | **Indonesia Wildcard** | **[Oscyy](https://osu.ppy.sh/users/4818604)**, [ChocoCoki-](https://osu.ppy.sh/users/3565870), [upan](https://osu.ppy.sh/users/5214397) | 4.3764 |
+| 10 | ::{ flag=ID }:: | **Indonesia Wildcard** | **[Ainer](https://osu.ppy.sh/users/13371424)**, [Antipole](https://osu.ppy.sh/users/17258072), [FelixSpade](https://osu.ppy.sh/users/2651304), [Revv-](https://osu.ppy.sh/users/12424909) | 2.5872 |
+| 14 | ::{ flag=VN }:: | **Vietnam Wildcard** | **[minh2506](https://osu.ppy.sh/users/27706969)**, [imaKea](https://osu.ppy.sh/users/25845757), [phuongkhoa102](https://osu.ppy.sh/users/18054129), [Shoka Shirokane](https://osu.ppy.sh/users/33461938) | 2.1087 |
+| 16 | ::{ flag=VN }:: | **Vietnam Wildcard** | **[Lott](https://osu.ppy.sh/users/13821222)**, [Akasha-](https://osu.ppy.sh/users/2596306), [JustAnYDudEykNw](https://osu.ppy.sh/users/29268726), [Micleak](https://osu.ppy.sh/users/16140674) | 1.8229 |
+
+Second Chance teams are teams that received a special pass into the Group Stage after placing in the top 16, but were unfortunately not seeded because they were not the highest-placed team from their country/continent (up to 4 teams).
+
 ## Ruleset
 
 ### Format
@@ -152,7 +243,7 @@ The osu!mania Mapping World Cup 2026 was run by various community members.
 - The contributing mappers should be listed in the tags for recap purposes, it will be removed on the judges' end.
 - The submitted file should be in `.osz` format and renamed to the **captain** and **team name**.
 
-### Judging Criteria
+### Judging criteria
 
 - **Representation (30):** Points will be assigned based on how well the beatmap represents the song through its overall arrangement, patterns and structure. As well as how well the map demonstrates the essence of collaboration mapping.
 - **Creativity (25):** Points will be assigned based on how innovative the beatmap's design is, including unique structural arrangements, logical intensity changes, and other technical aspects.
@@ -170,97 +261,6 @@ In the *Final Stage*, the **Representation (30)** criterion was split into:
 - 10 points for **Diversity Served**.
 
 Scores are reported as standardised scores.
-
-## Results
-
-### Qualification Stage
-
-The judges in this stage were ::{ flag=PH }:: [chocomilku-](https://osu.ppy.sh/users/16687756), ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699), ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176), ::{ flag=RU }:: [Kurisu Makise](https://osu.ppy.sh/users/2790640) and ::{ flag=KR }:: [secXcscX](https://osu.ppy.sh/users/13543418).
-
-#### Team Seeding
-
-| Seed |  | Country/continent | Members | Final score |
-| :-: | :-: | :-: | :-- | --: |
-| 1 | ::{ flag=JP }:: | **Japan** | **[f_ronte](https://osu.ppy.sh/users/33532882)**, [ICECAKE](https://osu.ppy.sh/users/16100800), [omegaY\_](https://osu.ppy.sh/users/14727263), [yoshyap](https://osu.ppy.sh/users/16608860) | 5.9807 |
-| 2 | ::{ flag=CN }:: ::{ flag=HK }:: | **Asian Alliance** | **[Hoshimegu Mio](https://osu.ppy.sh/users/17753835)**, [DraterTD](https://osu.ppy.sh/users/11671725), [Koyori Chan](https://osu.ppy.sh/users/11238501) | 5.5967 |
-| 3 | ::{ flag=ID }:: | **Indonesia** | **[My Angel Chen](https://osu.ppy.sh/users/24285111)**, [_Yunazu](https://osu.ppy.sh/users/11330898), [kartofle](https://osu.ppy.sh/users/32074763), [SatoriMaiden](https://osu.ppy.sh/users/15522414) | 4.9237 |
-| 4 | ::{ flag=NL }:: | **Netherlands** | **[Linlime](https://osu.ppy.sh/users/14438535)**, [DannyPX](https://osu.ppy.sh/users/11253722), [Muse Dash](https://osu.ppy.sh/users/13695676), [Saemitsu](https://osu.ppy.sh/users/14262789) | 3.8340 |
-| 5 | ::{ flag=US }:: | **United States** | **[elexire](https://osu.ppy.sh/users/9206093)**, [Ballistic](https://osu.ppy.sh/users/5170506), [lemonguy](https://osu.ppy.sh/users/4693052), [Toaph Daddy](https://osu.ppy.sh/users/7616811) | 3.3974 |
-| 6 | ::{ flag=CN }:: | **China** | **[Seiran-](https://osu.ppy.sh/users/14351534)**, [chy030_ft_pH5_6](https://osu.ppy.sh/users/9492856), [G1NYA](https://osu.ppy.sh/users/31767575), [PlatinumSplash](https://osu.ppy.sh/users/23427252) | 3.2725 |
-| 7 | ::{ flag=MX }:: | **Mexico** | **[Naiibe](https://osu.ppy.sh/users/21340543)**, [kilotek](https://osu.ppy.sh/users/23833099), [Sakuragi Kaware](https://osu.ppy.sh/users/19638984), [tochi](https://osu.ppy.sh/users/13875577) | 3.1300 |
-| 8 | ::{ flag=TH }:: | **Thailand** | **[nanonbandusty](https://osu.ppy.sh/users/15543726)**, [haerinforever](https://osu.ppy.sh/users/12852613), [MatchaLatte-](https://osu.ppy.sh/users/15944956), [t9Wa2](https://osu.ppy.sh/users/17768395) | 2.6195 |
-| 9 | ::{ flag=US }:: ::{ flag=CA }:: | **American Alliance** | **[Zonifyy](https://osu.ppy.sh/users/10244543)**, [Asymetrical](https://osu.ppy.sh/users/15863480), [Nezu-](https://osu.ppy.sh/users/21963245), [snowsnowsonsnow](https://osu.ppy.sh/users/8160564) | 2.4141 |
-| 10 | ::{ flag=MY }:: | **Malaysia** | **[\_Kobii](https://osu.ppy.sh/users/6209713)**, [\[-Leon-\]](https://osu.ppy.sh/users/13382147), [Mochineko](https://osu.ppy.sh/users/3793196) | 2.3702 |
-| 11 | ::{ flag=VN }:: | **Vietnam** | **[GamerChris](https://osu.ppy.sh/users/36042814)**, [\[GB\]Kita-](https://osu.ppy.sh/users/27175001), [\[TCD\]SnowyCutie](https://osu.ppy.sh/users/26853034), [soup3r](https://osu.ppy.sh/users/25088164) | 2.2802 |
-| 12 | ::{ flag=KR }:: | **South Korea** | **[komugii](https://osu.ppy.sh/users/16723762)**, [11Bit](https://osu.ppy.sh/users/14804526), [LeiN-](https://osu.ppy.sh/users/2162939) | 2.0461 |
-| 13 | ::{ flag=IL }:: ::{ flag=RO }:: ::{ flag=GR }:: | **European Alliance** | **[Skibidi Toilet](https://osu.ppy.sh/users/18782031)**, [Bei](https://osu.ppy.sh/users/14039549), [flvxify](https://osu.ppy.sh/users/17698463), [Mich\_](https://osu.ppy.sh/users/11784492) | 1.7739 |
-| 14 | ::{ flag=CO }:: | **Colombia** | **[xNett](https://osu.ppy.sh/users/4998501)**, [AlexGB](https://osu.ppy.sh/users/24500138), [eveille](https://osu.ppy.sh/users/35548476), [MarvelousCosmos](https://osu.ppy.sh/users/14189527) | 1.7041 |
-| 15 | ::{ flag=RU }:: | **Russian Federation** | **[Son\_66](https://osu.ppy.sh/users/27315846)**, [astat11](https://osu.ppy.sh/users/12338913), [Lazurent](https://osu.ppy.sh/users/17272017), [riftoyu](https://osu.ppy.sh/users/26702763) | 1.3816 |
-| 16 | ::{ flag=FR }:: | **France** | **[Paturages](https://osu.ppy.sh/users/1375479)**, [Adri](https://osu.ppy.sh/users/4579132), [poketoine](https://osu.ppy.sh/users/27254270), [Ventilo le vrai](https://osu.ppy.sh/users/13661408) | 1.3232 |
-
-Teams are seeded with unique country/continent basis.
-
-#### Second Chance teams
-
-| Placement |  | Country/continent | Members | Final score |
-| :-: | :-: | :-: | :-- | --: |
-| 4 | ::{ flag=ID }:: | **Indonesia Wildcard** | **[Oscyy](https://osu.ppy.sh/users/4818604)**, [ChocoCoki-](https://osu.ppy.sh/users/3565870), [upan](https://osu.ppy.sh/users/5214397) | 4.3764 |
-| 10 | ::{ flag=ID }:: | **Indonesia Wildcard** | **[Ainer](https://osu.ppy.sh/users/13371424)**, [Antipole](https://osu.ppy.sh/users/17258072), [FelixSpade](https://osu.ppy.sh/users/2651304), [Revv-](https://osu.ppy.sh/users/12424909) | 2.5872 |
-| 14 | ::{ flag=VN }:: | **Vietnam Wildcard** | **[minh2506](https://osu.ppy.sh/users/27706969)**, [imaKea](https://osu.ppy.sh/users/25845757), [phuongkhoa102](https://osu.ppy.sh/users/18054129), [Shoka Shirokane](https://osu.ppy.sh/users/33461938) | 2.1087 |
-| 16 | ::{ flag=VN }:: | **Vietnam Wildcard** | **[Lott](https://osu.ppy.sh/users/13821222)**, [Akasha-](https://osu.ppy.sh/users/2596306), [JustAnYDudEykNw](https://osu.ppy.sh/users/29268726), [Micleak](https://osu.ppy.sh/users/16140674) | 1.8229 |
-
-Second Chance teams are teams that received a special pass into the Group Stage after placing in the top 16, but were unfortunately not seeded because they were not the highest-placed team from their country/continent (up to 4 teams).
-
-### Group Stage
-
-The judges in this stage were ::{ flag=PH }:: [\[TCD\] Dzar03](https://osu.ppy.sh/users/16712231), ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773), ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315), ::{ flag=CA }:: [Ryax](https://osu.ppy.sh/users/8949769) and ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872).
-
-#### Group A
-
-| Placement |  | Country/continent | Members | Final score |
-| :-: | :-: | :-: | :-- | --: |
-| 1 | ::{ flag=US }:: ::{ flag=CA }:: | **American Alliance** | **[Zonifyy](https://osu.ppy.sh/users/10244543)**, [Asymetrical](https://osu.ppy.sh/users/15863480), [Nezu-](https://osu.ppy.sh/users/21963245), [snowsnowsonsnow](https://osu.ppy.sh/users/8160564) | 3.6128 |
-| 2 | ::{ flag=US }:: | **United States** | **[elexire](https://osu.ppy.sh/users/9206093)**, [Ballistic](https://osu.ppy.sh/users/5170506), [lemonguy](https://osu.ppy.sh/users/4693052), [Toaph Daddy](https://osu.ppy.sh/users/7616811) | 2.0942 |
-| 3 | ::{ flag=ID }:: | **Indonesia** | **[My Angel Chen](https://osu.ppy.sh/users/24285111)**, [_Yunazu](https://osu.ppy.sh/users/11330898), [kartofle](https://osu.ppy.sh/users/32074763), [SatoriMaiden](https://osu.ppy.sh/users/15522414) | 1.7802 |
-| 4 | ::{ flag=MX }:: | **Mexico** | **[Naiibe](https://osu.ppy.sh/users/21340543)**, [kilotek](https://osu.ppy.sh/users/23833099), [Sakuragi Kaware](https://osu.ppy.sh/users/19638984), [tochi](https://osu.ppy.sh/users/13875577) | 1.6697 |
-| 5 | ::{ flag=RU }:: | **Russian Federation** | **[Son\_66](https://osu.ppy.sh/users/27315846)**, [astat11](https://osu.ppy.sh/users/12338913), [Lazurent](https://osu.ppy.sh/users/17272017), [riftoyu](https://osu.ppy.sh/users/26702763) | 1.4631 |
-| 6 | ::{ flag=JP }:: | **Japan** | **[f_ronte](https://osu.ppy.sh/users/33532882)**, [ICECAKE](https://osu.ppy.sh/users/16100800), [omegaY\_](https://osu.ppy.sh/users/14727263), [yoshyap](https://osu.ppy.sh/users/16608860) | -0.4469 |
-| 7 | ::{ flag=VN }:: | **Vietnam Wildcard** | **[Lott](https://osu.ppy.sh/users/13821222)**, [Akasha-](https://osu.ppy.sh/users/2596306), [JustAnYDudEykNw](https://osu.ppy.sh/users/29268726), [Micleak](https://osu.ppy.sh/users/16140674) | -1.7567 |
-| 8 | ::{ flag=VN }:: | **Vietnam Wildcard** | **[minh2506](https://osu.ppy.sh/users/27706969)**, [imaKea](https://osu.ppy.sh/users/25845757), [phuongkhoa102](https://osu.ppy.sh/users/18054129), [Shoka Shirokane](https://osu.ppy.sh/users/33461938) | -3.6571 |
-| 9 | ::{ flag=VN }:: | **Vietnam** | **[GamerChris](https://osu.ppy.sh/users/36042814)**, [\[GB\]Kita-](https://osu.ppy.sh/users/27175001), [\[TCD\]SnowyCutie](https://osu.ppy.sh/users/26853034), [soup3r](https://osu.ppy.sh/users/25088164) | -4.7594 |
-| 10 | ::{ flag=IL }:: ::{ flag=RO }:: ::{ flag=GR }:: | **European Alliance** | **[Skibidi Toilet](https://osu.ppy.sh/users/18782031)**, [Bei](https://osu.ppy.sh/users/14039549), [flvxify](https://osu.ppy.sh/users/17698463), [Mich\_](https://osu.ppy.sh/users/11784492) | 0.0000[^not-submitting] |
-| 11 | ::{ flag=ID }:: | **Indonesia Wildcard** | **[Oscyy](https://osu.ppy.sh/users/4818604)**, [ChocoCoki-](https://osu.ppy.sh/users/3565870), [upan](https://osu.ppy.sh/users/5214397) | 0.0000[^not-submitting] |
-| 12 | ::{ flag=ID }:: | **Indonesia Wildcard** | **[Ainer](https://osu.ppy.sh/users/13371424)**, [Antipole](https://osu.ppy.sh/users/17258072), [FelixSpade](https://osu.ppy.sh/users/2651304), [Revv-](https://osu.ppy.sh/users/12424909) | 0.0000[^not-submitting] |
-
-#### Group B
-
-| Placement |  | Country/continent | Members | Final score |
-| :-: | :-: | :-: | :-- | --: |
-| 1 | ::{ flag=CN }:: | **China** | **[Seiran-](https://osu.ppy.sh/users/14351534)**, [chy030_ft_pH5_6](https://osu.ppy.sh/users/9492856), [G1NYA](https://osu.ppy.sh/users/31767575), [PlatinumSplash](https://osu.ppy.sh/users/23427252) | 4.6742 |
-| 2 | ::{ flag=TH }:: | **Thailand** | **[nanonbandusty](https://osu.ppy.sh/users/15543726)**, [haerinforever](https://osu.ppy.sh/users/12852613), [MatchaLatte-](https://osu.ppy.sh/users/15944956), [t9Wa2](https://osu.ppy.sh/users/17768395) | 3.7760 |
-| 3 | ::{ flag=KR }:: | **South Korea** | **[komugii](https://osu.ppy.sh/users/16723762)**, [11Bit](https://osu.ppy.sh/users/14804526), [LeiN-](https://osu.ppy.sh/users/2162939) | 0.7401 |
-| 4 | ::{ flag=NL }:: | **Netherlands** | **[Linlime](https://osu.ppy.sh/users/14438535)**, [DannyPX](https://osu.ppy.sh/users/11253722), [Muse Dash](https://osu.ppy.sh/users/13695676), [Saemitsu](https://osu.ppy.sh/users/14262789) | 0.0109 |
-| 5 | ::{ flag=FR }:: | **France** | **[Paturages](https://osu.ppy.sh/users/1375479)**, [Adri](https://osu.ppy.sh/users/4579132), [poketoine](https://osu.ppy.sh/users/27254270), [Ventilo le vrai](https://osu.ppy.sh/users/13661408) | -1.6073 |
-| 6 | ::{ flag=CO }:: | **Colombia** | **[xNett](https://osu.ppy.sh/users/4998501)**, [AlexGB](https://osu.ppy.sh/users/24500138), [eveille](https://osu.ppy.sh/users/35548476), [MarvelousCosmos](https://osu.ppy.sh/users/14189527) | -3.4317 |
-| 7 | ::{ flag=CN }:: ::{ flag=HK }:: | **Asian Alliance** | **[Hoshimegu Mio](https://osu.ppy.sh/users/17753835)**, [DraterTD](https://osu.ppy.sh/users/11671725), [Koyori Chan](https://osu.ppy.sh/users/11238501) | -4.1622 |
-| 8 | ::{ flag=MY }:: | **Malaysia** | **[\_Kobii](https://osu.ppy.sh/users/6209713)**, [\[-Leon-\]](https://osu.ppy.sh/users/13382147), [Mochineko](https://osu.ppy.sh/users/3793196) | 0.0000[^submission-withdrawn] |
-
-3 teams from each group advanced to the Final Stage.
-
-### Final Stage
-
-The judges in this stage were ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576), ::{ flag=SG }:: [Abraxos](https://osu.ppy.sh/users/5025064), ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315), ::{ flag=DE }:: [IceDynamix](https://osu.ppy.sh/users/8599070), ::{ flag=KR }:: [Poca](https://osu.ppy.sh/users/8581031) and ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379).
-
-| Placement |  | Country/continent | Members | Final score |
-| :-: | :-: | :-: | :-- | --: |
-| 1 | ::{ flag=ID }:: | **Indonesia** | **[My Angel Chen](https://osu.ppy.sh/users/24285111)**, [_Yunazu](https://osu.ppy.sh/users/11330898), [kartofle](https://osu.ppy.sh/users/32074763), [SatoriMaiden](https://osu.ppy.sh/users/15522414) | 3,8226 |
-| 2 | ::{ flag=US }:: ::{ flag=CA }:: | **American Alliance** | **[Zonifyy](https://osu.ppy.sh/users/10244543)**, [Asymetrical](https://osu.ppy.sh/users/15863480), [Nezu-](https://osu.ppy.sh/users/21963245), [snowsnowsonsnow](https://osu.ppy.sh/users/8160564) | 2.7286 |
-| 3 | ::{ flag=US }:: | **United States** | **[elexire](https://osu.ppy.sh/users/9206093)**, [Ballistic](https://osu.ppy.sh/users/5170506), [lemonguy](https://osu.ppy.sh/users/4693052), [Toaph Daddy](https://osu.ppy.sh/users/7616811) | -0.9374 |
-| 4 | ::{ flag=CN }:: | **China** | **[Seiran-](https://osu.ppy.sh/users/14351534)**, [chy030_ft_pH5_6](https://osu.ppy.sh/users/9492856), [G1NYA](https://osu.ppy.sh/users/31767575), [PlatinumSplash](https://osu.ppy.sh/users/23427252) | -1.3318 |
-| 5 | ::{ flag=TH }:: | **Thailand** | **[nanonbandusty](https://osu.ppy.sh/users/15543726)**, [haerinforever](https://osu.ppy.sh/users/12852613), [MatchaLatte-](https://osu.ppy.sh/users/15944956), [t9Wa2](https://osu.ppy.sh/users/17768395) | -4.2819 |
-| 6 | ::{ flag=KR }:: | **South Korea** | **[komugii](https://osu.ppy.sh/users/16723762)**, [11Bit](https://osu.ppy.sh/users/14804526), [LeiN-](https://osu.ppy.sh/users/2162939) | 0.0000[^not-submitting] |
-
-A list of the participating teams, charted beatmaps, stage activity and a complete breakdown of the contest results plus links to judge's comment can be found in the [contest spreadsheet](https://docs.google.com/spreadsheets/d/1qP-zPogcytTcMB3SMIAQkWYiTcxOzfMXo4gauRmORbI/edit?usp=sharing).
 
 ## Notes
 
