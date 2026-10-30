@@ -146,14 +146,13 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/dc7
 
 | ID | Team A | Team B | Match time | Twitch stream |
 | :-: | --: | :-- | :-- | :-: |
-| F1 | Japan ::{ flag=JP }:: | ::{ flag=MY }:: Malaysia | [Oct 31 (Sat) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261031T030000&p1=1440&p2=248&p3=122) | [osulive](https://twitch.tv/osulive) |
 | B1 | Germany ::{ flag=DE }:: | ::{ flag=NZ }:: New Zealand | [Oct 31 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261031T110000&p1=1440&p2=37&p3=264) | [osulive](https://twitch.tv/osulive) |
 | C3 | China ::{ flag=CN }:: | ::{ flag=TH }:: Thailand | [Oct 31 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261031T120000&p1=1440&p2=33&p3=28) | [osulive](https://twitch.tv/osulive) |
 | C2 | China ::{ flag=CN }:: | ::{ flag=FR }:: France | [Oct 31 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261031T130000&p1=1440&p2=33&p3=195) | [osulive](https://twitch.tv/osulive) |
 | E5 | Saudi Arabia ::{ flag=SA }:: | ::{ flag=UY }:: Uruguay | [Oct 31 (Sat) 14:15 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261031T141500&p1=1440) | [osulive](https://twitch.tv/osulive) |
 | E3 | Türkiye ::{ flag=TR }:: | ::{ flag=UY }:: Uruguay | [Oct 31 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261031T150000&p1=1440) | [osulive_2](https://twitch.tv/osulive_2) |
 | F5 | Malaysia ::{ flag=MY }:: | ::{ flag=SK }:: Slovakia | [Oct 31 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261031T150000&p1=1440&p2=122) | [osulive](https://twitch.tv/osulive) |
-| H3 | Spain ::{ flag=ES }:: | ::{ flag=SG }:: Singapore | [Oct 31 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261031T150000&p1=1440&p2=141&p3=236) |  |
+| H3 | Spain ::{ flag=ES }:: | ::{ flag=SG }:: Singapore | [Oct 31 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261031T150000&p1=1440&p2=141&p3=236) | *TBD* |
 
 ### Sunday, 1 November 2026
 
@@ -178,6 +177,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/dc7
 | E1 | Türkiye ::{ flag=TR }:: | ::{ flag=SA }:: Saudi Arabia | [Nov 07 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261107T130000&p1=1440) | *TBD* |
 | A2 | Hong Kong ::{ flag=HK }:: | ::{ flag=ID }:: Indonesia | [Nov 07 (Sat) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261107T133000&p1=1440&p2=102&p3=108) | *TBD* |
 | D5 | Austria ::{ flag=AT }:: | ::{ flag=PH }:: Philippines | [Nov 07 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261107T140000&p1=1440&p3=145) | *TBD* |
+| F1 | Japan ::{ flag=JP }:: | ::{ flag=MY }:: Malaysia | [Nov 07 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261107T140000&p1=1440&p2=248&p3=122) | [osulive](https://twitch.tv/osulive) |
 | D2 | Brazil ::{ flag=BR }:: | ::{ flag=FI }:: Finland | [Nov 07 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261107T160000&p1=1440&p2=45&p3=101) | *TBD* |
 | G4 | Ukraine ::{ flag=UA }:: | ::{ flag=CZ }:: Czechia | [Nov 07 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261107T170000&p1=1440&p2=367&p3=204) | *TBD* |
 
@@ -627,7 +627,7 @@ The final bracket configuration will be as follows:
    - The loser of the `!roll` decides which team **bans** first.
    - **From Quarterfinals onwards, the first team will ban one beatmap, followed by two bans from second team, finishing with one ban from the first team.**
 4. After bans are decided, both teams will take turns in picking a beatmap from the mappool.
-5. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than allotted for either action, the procedures adopted will be as follows:
+5. Teams will be allowed 2 minutes to pick or ban beatmaps and 2 minutes to press the `Ready` button on their client. If a team takes more time than allotted for either action, the procedures adopted will be as follows:
    - For the first occurrence:
      - The team will receive a verbal warning from the referee; in addition, the referee may opt to forcefully use the team's tactical timeout to allow for the team to pick.
      - If the team does not pick a map within 15 seconds from when the timer expires, the referee will apply the procedure for subsequent occurrences listed below, i.e. a random pick will be used for a pick timer, and the match will be forcefully started for a ready timer.
