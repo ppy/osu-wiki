@@ -33,7 +33,7 @@ To every player who participated: you all did your best, fought hard and made th
 
 Huge thanks to ::{ flag=US }:: [tohkan](https://osu.ppy.sh/users/16928887) for creating our custom skin with the help of ::{ flag=DZ }:: [Clo4cky](https://osu.ppy.sh/users/19957202)'s audio talents. They brought the Whisked bakery straight to you.
 
-Creating osu skins is not an easy task, it takes a lot of fine tuning and patience... sorta like baking. It's available to download via [osuck.net](https://skins.osuck.net/skins/5841?tab=downloads).
+Creating osu! skins is not an easy task, it takes a lot of fine tuning and patience... akin to baking. It's available to download via [osuck.net](https://skins.osuck.net/skins/5841?tab=downloads).
 
 ## MWS 2026 originals
 
