@@ -61,7 +61,7 @@ Be sure to check out our custom maps via our [main sheet!](https://docs.google.c
 | GF | [takehirotei - WHISKED // SYNTHESIS // PROTOCOL](https://osu.ppy.sh/beatmapsets/2635755#osu/5936455) | [![Soundcloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/takehirotei/whisked-synthesis-protocol) [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=y9Eam4rBSvo) | <audio controls><source src="https://assets.ppy.sh/media/news/mws-2026-take.mp3"></audio> |
 | GF | [they (feat. shiniboros) - To dream of a purified world](https://osu.ppy.sh/beatmapsets/2635804#osu/5936470) | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=wfYk2evUMrU)[![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/6bulls6fafRedSZVWjWiBs) | <audio controls><source src="https://assets.ppy.sh/media/news/mws-2026-they.mp3"></audio> |
 
-## Message from our founder
+## A message from our founder
 
 <style>
     .news-chat-quote__avatar {
