@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Monodramatic World Series: Whisked - Results"
-date: 2026-11-01 18:00:00 +0000
+date: 2026-10-30 18:00:00 +0000
 series: community_tournaments
 ---
 
 MWS has brought us another batch of memorable moments from start to finish! Check out how it ended.
 
-![](/wiki/shared/news/2026-11-01-monodramatic-world-series-whisked-results/banner.jpg)
+![](/wiki/shared/news/2026-10-30-monodramatic-world-series-whisked-results/banner.jpg)
 
 Intense matches, jaw-dropping music and a vibrant production team made this year's **Monodramatic World Series: Whisked** one of our most exciting events yet! From July to late October, the tournament served up a unique baking gimmick: players collected ingredients from the maps they played to cook up strategic buffs and debuffs.
 
@@ -17,7 +17,7 @@ Missed the live show? Don't loaf around — we've got the TL;DR fresh out of the
 
 ## Results
 
-![MWS2026 podium](/wiki/shared/news/2026-11-01-monodramatic-world-series-whisked-results/podium.jpg)
+![MWS2026 podium](/wiki/shared/news/2026-10-30-monodramatic-world-series-whisked-results/podium.jpg)
 
 Let's dive right into the action! This year, we saw **190 players register** for our 1v1 tournament! Talk about a batch made for greatness!
 
@@ -29,7 +29,7 @@ To every player who participated: you all did your best, fought hard and made th
 
 ## Custom skin
 
-![](/wiki/shared/news/2026-11-01-monodramatic-world-series-whisked-results/skin.jpg)
+![](/wiki/shared/news/2026-10-30-monodramatic-world-series-whisked-results/skin.jpg)
 
 Huge thanks to ::{ flag=US }:: [tohkan](https://osu.ppy.sh/users/16928887) for creating our custom skin with the help of ::{ flag=DZ }:: [Clo4cky](https://osu.ppy.sh/users/19957202)'s audio talents. They brought the Whisked bakery straight to you.
 
@@ -37,7 +37,7 @@ Creating osu skins is not an easy task, it takes a lot of fine tuning and patien
 
 ## MWS 2026 originals
 
-![](/wiki/shared/news/2026-11-01-monodramatic-world-series-whisked-results/originals.jpg)
+![](/wiki/shared/news/2026-10-30-monodramatic-world-series-whisked-results/originals.jpg)
 
 Compared to our 2024 and 2025 iterations, we've significantly increased the number of original and custom songs featured in this year's tournament! Every composer and mapper involved was a pleasure to work with, and their contributions helped make this year's musical lineup something truly special.
 
