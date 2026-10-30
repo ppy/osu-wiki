@@ -11,7 +11,7 @@ tags:
 
 - Sistema di Chat, [presenza online](/wiki/Client/Interface/Chat_console#chat-console-estesa), e [IRC gateway](/wiki/Community/Internet_Relay_Chat)
 - Modalità [spettatore](/wiki/Gameplay/Spectating)
-- [Sistema multiplayer](/wiki/Client/Interface/Multiplayer) e [gestione dei tornei](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
+- [Sistema multiplayer](/wiki/Gameplay/Multiplayer) e [gestione dei tornei](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
 
 ::: Infobox
 ![](img/connection-warning.png "Schermata del menu principale con il simbolo di scarsa connessione (in basso a destra, il primo)")
