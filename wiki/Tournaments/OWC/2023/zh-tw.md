@@ -601,7 +601,7 @@ osu! World Cup 2023 由 [osu! team](/wiki/People/osu!_team) 團隊以及社群�
    - 允許隊長可以視情況組織 "選拔" ，以測試選手的能力。
    - 臨時隊長可以隨時把隊長角色指派給其他隊員，一旦指派，只有新指派的隊長可以再指派其他隊員為隊長。
    - **未在 2023 年 10 月 13 日星期五（世界標準時間 23:59）之前提供隊伍名單的隊伍將被取消比賽資格**
-3. 為確保報名，[account support team](/wiki/People/Account_support_team) 會進行人工檢查，透過 [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) ，對每位參賽的選手進行審查。
+3. 為確保報名，[account support team](/wiki/People/Account_support_team) 會進行人工檢查，透過 [tournament screening](/wiki/Tournaments/Official_support#screening) ，對每位參賽的選手進行審查。
    - 每位參賽的選手都將被分配到各自國家的候選名單中。
    - 通過審查的選手，須具備全球 #5000 或更高的排名，且在 12 個月內沒有違反 [osu! community rules](/wiki/Rules) 。
 4. 報名階段結束後會在此頁面公布所有成功報名的隊伍。
