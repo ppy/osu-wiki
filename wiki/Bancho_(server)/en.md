@@ -13,7 +13,7 @@ tags:
 
 - Chat system, [online presence](/wiki/Client/Interface/Chat_console#extended-chat-console), and the [IRC gateway](/wiki/Community/Internet_Relay_Chat)
 - [Spectator](/wiki/Gameplay/Spectating) mode
-- [Multiplayer system](/wiki/Client/Interface/Multiplayer) and [tournament management](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
+- [Multiplayer system](/wiki/Gameplay/Multiplayer) and [tournament management](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
 
 ::: Infobox
 ![](img/connection-warning.png "Screenshot of the main menu with the bad connection symbol (bottom right, first)")
