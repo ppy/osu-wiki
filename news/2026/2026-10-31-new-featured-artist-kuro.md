@@ -45,8 +45,6 @@ You'll forever remember [this map](https://osu.ppy.sh/beatmapsets/2222536) also 
 
 ### kuro - Connection destination: Utopia
 
-You'll forever remember [this map](https://osu.ppy.sh/beatmapsets/2222536) also by [Eclipse-](https://osu.ppy.sh/users/8493070)!
-
 <audio controls>
     <source src="https://assets.ppy.sh/artists/369/Songs/kuro_-_Connection_destination_Utopia.mp3">
 </audio>
