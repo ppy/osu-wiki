@@ -51,7 +51,7 @@ You'll forever remember [this map](https://osu.ppy.sh/beatmapsets/2222536) also 
 
 ### Halv vs. kuro - Evreka
 
-You might've noticed that **kuro** has technically had a Featured Artist page for a while. That's because **kuro** (in collaboration with [*Halv*](https://osu.ppy.sh/beatmaps/artists/368)) produced the full flavour Grand Finals tiebreaker for [2023's osu!catch World Cup](https://osu.ppy.sh/wiki/Tournaments/CWC/2023)!
+You might've noticed that **kuro** has technically had a Featured Artist page for a while. That's because **kuro** (in collaboration with [*Halv*](https://osu.ppy.sh/beatmaps/artists/368)) produced the full flavour Grand Finals tiebreaker for [2023's osu!catch World Cup](/wiki/Tournaments/CWC/2023)!
 
 As you can tell, this track has gotten quite a bit of love already. Play through some of these:
 
