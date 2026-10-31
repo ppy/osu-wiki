@@ -1,111 +1,65 @@
----
-outdated_translation: true
-outdated_since: 1c921bb312848bb2dce76217542281d0db5a6825
----
+# osu! wiki'ye katkı rehberi
 
-# osu! wiki katkı rehberi
+osu! wiki'yi daha iyi hale getirmek için gösterdiğiniz ilgi için teşekkür ederiz! Bu makale, sizin için adım adım katkı sürecini içerir. GitHub'a aşina iseniz, değişiklik önermek için alışılmış feature-branch iş akışınızı takip edip; [kontrol](#self-check) kısmına atlayabilirsiniz.
 
-osu! wiki'yi daha iyi hale getirmek için gösterdiğiniz ilgiye teşekkür ederiz! Bu hızlı başlangıç kılavuzu GitHub ortamında hiç çalışmamış, osu! wiki'nin katkı iş akışına alışkın olmayan yeni başlayanlar için hazırlanmıştır. Eğer GitHub kullanmakta deneyimliyseniz, bu veri havuzundaki içerik güncellemeleri için ortak feature-branch iş akışını takip edebilir ve bu rehberi atlayabilirsiniz.
+Yeni katılımcıların [git](https://git-scm.com/) ve Github ile aşina olmaları beklenmez, çünkü onlar geliştiriciler için araçlardır. Bir şeyi ilk denemenizde doğru yapamayabilirsiniz, bu durumda bir [wiki bakımcısı](/wiki/People/osu!_wiki_maintainers) sizin için sorunları düzeltir veya sizi doğru yola yönlendirir.
 
-Eğer herhangi bir noktada kafanız karıştıysa ve/veya daha fazla yardıma ihtiyacınız varsa, [osu!dev Discord](https://discord.gg/ppy) sunucusuna (`#osu-wiki` kanalına) mesaj atmaktan çekinmeyin.
+Herhangi bir noktada ipucu veya öneriye ihtiyaç duyduğunuz taktirde, [osu! Discord sunucusu](/wiki/Community/Discord_servers#official)'ndaki `#osu-wiki` kanalına mesaj atmaktan çekinmeyin.
 
-## Başlarken
+## Katkıda bulunulabilecek alanlar
 
-### Kayıt olma
+Eğer yardım etmek istiyorsanız ama nereden başlayacağınızı bilmiyorsanız, [osu! wiki bakımı § rutinler](/wiki/osu!_wiki/Maintenance#routines)'e bakınız. Wiki'de kullanılan biçimlendirme diline aşina olmak için, Adam Pritchard'ın [Markdown kopya kağıdı](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)'na bakınız.
 
-1. Eğer yoksa, GitHub hesabı oluşturmak için [kayıt olun](https://github.com/join).
-2. [Giriş yapın](https://github.com/login).
-3. [Fork etme](#fork-etme) kısmına devam edin.
+## Wiki'yi düzenleme
 
-### Fork etme
+::: alert-note
+**Not:** Katkı süreci genel bir rehber için, [GitHub akışı - GitHub Dokümantasyonu](https://docs.github.com/en/get-started/quickstart/github-flow)'na bakınız.
+:::
 
-1. [`osu-wiki` reposuna](https://github.com/ppy/osu-wiki) gidin.
+Bu wiki'deki makaleler [GitHub][osu_wiki]'ta depolanmaktadır. Katkı sağlamak için şunları yapınız:
 
-2. `Fork` tuşuna tıklayın.
+0. Bir GitHub hesabı [oluşturunuz](https://github.com/signup)
+1. [`ppy/osu-wiki`][osu_wiki] deposunu açın ve wiki'nin kontrollü bir kopyasını oluşturmak için `Fork` yani `Çatalla` yazan sağ üstteki butona tıklayın. Forkunuz'a geri dönmek için [`ppy/osu-wiki`][osu_wiki]'ye gidin ve yeniden `Fork`'a basın.
+   - Eğer hâlihazırda bir fork oluşturmuş iseniz, forkunuzu [En iyi uygulamalar § Fork'u senkronize etmek](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork)'e uygun bir şekilde senkronize ediniz.
+2. [En iyi uygulamalar § Değişiklik yapma](/wiki/osu!_wiki/Contribution_guide/Best_practices#making-edits)'yı okuyunuz ve gerekli değişiklikleri yapınız. Herhangi bir programı kullanmakta özgürsünüz fakat osu! wiki, şu iki iş akışı hakkında detaylı bilgi içermektedir:
+   - [GitHub Tarayıcı Tabanlı Editör](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (çevrim içi, kurulum gerektirmez)
+   - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (çevrim dışı, daha fazla kontrol)
 
-   ![](img/fork.jpg)
+## Kontroller {id=self-check}
 
-3. Fork'unuza gitmek için `Fork` tuşuna yeniden tıklayın.
+Düzenlemelerinizi yapmayı bitirdiğinizde, yaptığınız düzenlemeleri kontrol ediniz. Düzenlemelerinizi aşağıdaki kontrol listesinden geçiriniz.
 
-4. Aşağıdakine benzer bir resim görmeniz `ppy/osu-wiki` reposunun bir fork'unu ortaya çıkardığınız ve şu anda fork'unuzda bulunduğunuz anlamına gelir.
+- **Ton**: osu!wiki makaleleri, istisnalar olsa da, nötr bir ton ile yazılmalıdır.
+- **Stil ve gramer**: Makaleler; okuyucudan çok mental efor gerektirmemeli, net ve anlaşılabilir olmalıdır. İstikrarlı olunuz ve aşırı komplike veya birdenbire biten cümleleri kullanmaktan kaçınınız. Yanlış yazılan kelimelerden, gramer veya sözdizimsel hatalardan kaçınmak için entegre yazım denetleyicisi içeren bir editör kullanınız.
+- **[İçerik denkliği](/wiki/Article_styling_criteria/Writing#content-parity)**: Çeviriler, orijinal makale ile aynı bilgileri içermelidir (noktalama, ifade ve biçimlendirme farklılıkları elbette beklenir). Eğer bir çeviri size eksik, hatalı veya eski gelirse; çevirinin içeriğini değiştirmek yerine, bir [sorun açınız](https://github.com/ppy/osu-wiki/issues/new) veya çevirinin orijinaline ekstra bir pull request açınız.
+- **Yapı ve biçimlendirme**: Makalenizin istediğiniz gibi göründüğünü teyit etmek için [jbt'nin Markdown Editörü](https://jbt.github.io/markdown-editor/) gibi bir araç ile makalenizi ön izleyiniz.
+- **Bütün görüntüler ve diğer yazı dışındaki dosyalar**'ın boyutu [1 megabayt'tan az](/wiki/Article_styling_criteria/Formatting#file-size) olmalıdır. **Ekran görüntülerinin** maksimum çözünürlük olarak 1280x720'yi kullanması, varsayılan osu! skin'ini ve [belirli ayarları](/wiki/Article_styling_criteria/Formatting#screenshots-of-gameplay) kullanması zorunludur.
 
-   ![](img/forked.jpg)
+Daha spesifik yazma ve biçimlendirme standartları için [makale stil kriteri](/wiki/Article_styling_criteria) linkine gidiniz. Hepsini bir oturuşta okumanız önerilmez, keza bir şeyin değiştirilmesi gerekiyorsa bir gözden geçiren bunu söyleyecektir.
 
-5. [Fork'unuzu senkronlama](#forkunuzu-senkronlama) kısmına devam edin.
+## Pull request
 
-### Fork'unuzu senkronlama
+Değişikliklerinizin kontrol edildiğini ve fork'unuzda olduklarını varsayarsak, sizin bir pull request açarak wiki bakımcılarına değişikliklerinizi önermeniz gerekir:
 
-1. `osu-wiki` reponuzun fork'una gidin.
+1. **Kendi** osu! wiki forkunuza gidin, `master↓` yazan açılır listeyi bulun ve değişikliklerinizi içeren branşınıza tıklayınız.
+2. `Contribute↓` butonuna sonrasında ise `Open pull request`'e tıklayınız.
+3. [En iyi uygulamalar § Bir pull request açma](/wiki/osu!_wiki/Contribution_guide/Best_practices#opening-a-pull-request)'ya göre gerekli alanları doldurunuz ve `Create pull request`'e tıklayınız.
 
-2. Dosyaların üzerinde, branch'ınızın `ppy:master` ile kıyaslandığında "behind" *(geride)*, "ahead" *(ileride)*, veya "even" *(eşit)* olduğunu belirten bir yazı bulunur. Eğer "behind" veya "ahead and behind" gibi bir yazıyla karşılaşırsanız, behind-commit'lerin sayısının bir önemi olmaksızın, branch'ınız güncel değildir.
+## Gözden geçirmeler {id=review}
 
-   ![](img/fork-even.jpg "İyi (Commit yok ve güncel)")
+osu! wiki'deki bütün değişiklikler modere edilmektedir. Bu aşamada, diğer katkı sağlayan insanlar makaleyi düzenlerken kaçırdığınız hataları ve bu hataları düzeltmek için önerilerilerini ya pull request'e direkt düzenleme önererek ya da yazı ile (yorum yaparak) iletirler. Bu yorumları ya [önerileri uygulayarak](/wiki/osu!_wiki/Contribution_guide/Best_practices#applying-reviews) ya da olduğu gibi kalmasını istiyorsanız nedenini açıklayarak kaale almanız gerekir.
 
-   ![](img/fork-ahead.jpg "İyi (Bunlar sizin commit'leriniz)")
+Eğer hiç kimse yorum yapmamış ise, aşağıdakileri deneyiniz:
 
-   ![](img/fork-behind.jpg "Muhtemelen kötü (Branch'ınız güncel değil)")
+- Bütün önerileri kaale aldığınızdan emin olunuz. İnsanlar yaptıkları yorumlara cevap bekliyor olabilir.
+- [osu! Discord sunucusu](/wiki/Community/Discord_servers#official)'ndaki `#osu-wiki` kanalında veya GitHub yorumlarında diğer osu! wiki editörlerine sorunuz.
+- Çeviride yardım almak için, dilinizdeki bazı ana projeye kaynaştırılmış pull requestlerin gözden geçirenleriyle veya yazarlarıyla iletişime geçiniz. ([örnek GitHub sorgusu](https://github.com/ppy/osu-wiki/pulls?q=is:pr+is:merged+[ID]))
+- Arkadaşlarınızı bir bakış atmaları için dürtün!
 
-   ![](img/fork-ahead-behind.jpg "Muhtemelen kötü (Branch'ınız sizin commit'lerinizle güncel değil)")
+Bir manuel göz geçirmeye ek olarak, osu! wiki deposu sizin değişikliklerinizin wiki'nin ortak diline uyduğuna ve biçimlendirme hatalarından arınmış olduğuna emin olmak için [bir dizi otomatik kontroller](/wiki/osu!_wiki/Maintenance#ci-checks) yapar. Bu kontrollerin durumunu görmek için, pull request'inizin `Actions` sekmesini açın ve hataların altında teşhis mesajları varsa onları takip edin.
 
-3. Eğer zaten değiştirilmiş bir dosyayı düzenlemeyecekseniz, bu pek bir sorun değil. Ancak ne kadar çok commit gerideyseniz, değiştirilmiş dosyalarla karşılaşma durumunuz bir o kadar yüksek.
+## Merge (Kaynaştırma)
 
-4. Bunu düzeltmek için, [Yaygın Sorunlar makalesinden Branch'ım güncel değil! kısmına](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork) gözatın.
+Değişiklikleriniz er ya da geç bir [wiki bakımcısı](/wiki/People/osu!_wiki_maintainers) tarafından, genellikle diğer katkı sağlayan insanlardan sonra, kontrol edilecektir. Eğer belirli bir zamandan sonra hiçbir şey olmaz ise, pull request'inizin yorumlarında veya [osu! Discord sunucusu](/wiki/Community/Discord_servers#official)'nun `#osu-wiki` kanalında bir sorun. Değişiklikleriniz kaynaştırma olduktan kısa bir süre sonra osu! wiki'sinde görünür olur (bazen bu süre beş saate kadar sürebilir). 
 
-5. 4\. adımı tamamladığınızda, [Çevrimiçi ya da yerel düzenleme](#çevrimiçi-ya-da-yerel-düzenleme) kısmına devam edin.
-
-## Çevrimiçi ya da yerel düzenleme
-
-Bu noktada iki seçeneiğiniz var:
-
-- [GitHub Web Arayüzü](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) - çevrimiçi düzenleyin; tekli makale düzenleme için en iyisi
-- [GitHub Masaüstü](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) - yerel düzenleyin; tekli ve/veya çoklu makale düzenleme için en iyisi (bu resimleri veya dosyaları karşıya yükleme, silme veya taşımayı da içerir)
-
-*Not: Düzenleme için yukarıda listelenen iki seçeneğe sınırlı değilsiniz. Rehberi kısa ve öz tutmak adına, bu makalelerde diğer araç-gereçlerin kullanımından detaylıca hatta hiç bahsedilmeyecek. GitHub Web Arayüzü ve GitHub Masaüstü'nün halihazırda yaptıklarını aşağı yukarı yapan başka üçüncü parti uygulamalar da mevcut.*
-
-***GitHub Web Arayüzü* ya da *GitHub Masaüstü* seçeneklerinden herhangi birini tamamladığınızda, sonraki kısıma devam edebilirsiniz.**
-
-## Bitirme
-
-### Pull request açma
-
-1. [`ppy/osu-wiki` reposuna](https://github.com/ppy/osu-wiki) gidin.
-
-2. Eğer yeterince hızlıysanız, aşağıdaki sarı sütunu görebilirsiniz.
-
-   ![](img/github-recent.jpg)
-
-3. Eğer görüyorsanız, `Compare & pull request` butonuna tıklayın (8. adıma atlayın). Aksi halde, `New pull request` butonuna tıklayın (4. adıma devam edin).
-
-4. Sonraki sayfada, eğer aşağıda belirtildiği gibi iki buton görüyorsanız, `compare across forks`'a tıklayın.
-
-   ![](img/compare-across-forks-no.jpg "İyi değil.")
-
-5. `head fork` açılan listesinden sizin kullanıcı adınıza sahip olan seçeneğe tıklayın (ikincisi olmalı).
-
-   ![](img/head-fork.jpg)
-
-6. `compare` açılan listesinden oluşturduğunuz branch'in olduğu seçeneğe tıklayın (alfabetik olarak sıralıdır).
-
-   ![](img/compare-branch.jpg)
-
-7. `Create pull request` butonuna tıklayın.
-
-8. Başlığı İngilizce dilinde girin. Bu, neyi değiştirdiğinizin çok kısa bir özeti olmalı.
-
-   Makale çevirileri için, başlıktan önce çevirdiğiniz dilin isminin iki harfli kısaltmasını köşeli parantez içersinde yazın. Başlığınız direkt çevirdiğiniz makalenin/makalelerin ismi bile olabilir. Örneğin, `[FR] BBCode` sizin [BBCode makalesini](/wiki/BBCode) Fransızcaya çevirdiğinizi gösterir.
-
-9. Açıklama kutusunu değişikliklerinizin bir özetiyle doldurun. Tamamlanma durumu ve gözden geçirenlerin bilmesi gerekenler gibi, pull request'inizle ilgili her türlü bilginin de altını çizmelisiniz. Aynı zamanda pull request'inizin merge edildiğinde issue'ları otomatik olarak kapatmasını açıklamaya "resolves #1" ya da "closes #1" vs. yazarak sağlayabilirsiniz ([Anahtar sözcük kullanarak issue kapatma](https://help.github.com/articles/closing-issues-using-keywords/) makalesini GitHub Yardım üzerinden inceleyebilirsiniz).
-
-10. Hazır olduğunuzda, `Create pull request` butonuna tıklayın.
-
-    ![](img/new-pull-request.png)
-
-11. Aşağıdaki [Gözden geçirmeler](#gözden-geçirmeler) ve [Merge etme](#merge-etme) kısımlarına devam edin.
-
-### Gözden geçirmeler
-
-Pull request'inizi oluşturduğunuzda, diğer osu! wiki editörleri yaptığınız değişikliklerdeki gözden kaçırdığınız hataların bulunmasında yardımcı olurlar. **Bu gözden geçirmelere ayak uydurmak zorundasınız,** aksi halde oluşturduğunuz pull request kapatılması için işaretlenebilir! Eğer birilerinin sizin pull request'inizi gözden geçirmesini istiyorsanız, [osu!dev Discord](https://discord.gg/ppy) sunucusunda (`#osu-wiki` kanalında) veya GitHub yorumlarında diğer osu! wiki editörlerine sorabilirsiniz.
-
-### Merge etme
-
-Değişikliklerinizin osu! wiki üzerinde canlı olarak görüntülenmesi için, pull request'iniz merge edilmelidir. Pull request'iniz gözden geçirilip onaylandığında, GitHub'taki yorum kısmını ya da [osu!dev Discord](https://discord.gg/ppy) sunucusunda (`#osu-wiki` kanalında) birisinden merge etmesini isteyebilirsiniz. Merge edildiğinde, yaptığınız değişikliklerin osu! wiki üzerinde canlı olarak yer alması beş saati bulabilir.
+[osu_wiki]: https://github.com/ppy/osu-wiki
