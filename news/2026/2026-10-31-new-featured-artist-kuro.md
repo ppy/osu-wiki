@@ -73,6 +73,6 @@ As you can tell, this track has gotten quite a bit of love already. Play through
 
 Once your hour-long *Evreka* session is done, head to [**kuro**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/369) and map your own version of the song (or any other song by **kuro**!).
 
-"What's going on next weekend?" you might ask. You should be aware of our Featured Artist announcement schedule by now, but if you're somehow not, stay tuned for a new artist reveal in a week!
+"What's going on next weekend?", you might ask. You should be aware of our Featured Artist announcement schedule by now, but if you're somehow not, stay tuned for a new artist reveal in a week!
 
 —pishifat
