@@ -26,7 +26,7 @@ Pola metadanych beatmapy mogą być porównywane z konkretnymi wartościami w ce
 | `=` | ![Tak][true] | ![Tak][true] | ![Tak][true] | Równe |
 | `==` | ![Nie][false] | ![Tak][true] | ![Nie][false] | Równe |
 | `:` | ![Tak][true] | ![Nie][false] | ![Tak][true] | Równe |
-| `!=` | ![Nie][false] | ![Tak][true] | ![Nie][false] | Różne |
+| `!=` | ![Nie][false] | ![Tak][true] | ![Tak][true] | Różne |
 | `<` | ![Tak][true] | ![Tak][true] | ![Tak][true] | Mniejsze niż |
 | `>` | ![Tak][true] | ![Tak][true] | ![Tak][true] | Większe niż |
 | `<=` | ![Tak][true] | ![Tak][true] | ![Tak][true] | Mniejsze lub równe |
