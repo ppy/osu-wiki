@@ -14,7 +14,7 @@ Diese Anleitung beschreibt den geskripteten Code unter `[Events]` in einer `.osb
 
 Ein [Storyboard-Objekt](/wiki/Storyboard/Scripting/Objects) ist eine Instanz eines [Sprites](https://de.wikipedia.org/wiki/Sprite_(Computergrafik)) oder eine Animation in einem [Storyboard](/wiki/Storyboard). Storyboards können auch Ton enthalten, siehe den [Audio-Leitfaden](/wiki/Storyboard/Scripting/Audio) für mehr Details.
 
-Nur PNG und JPEG werden als Bildformate für Objekte akzeptiert.	JPEGs sind verlustreich, d. h. sie haben eine kleinere Dateigröße, speichern jedoch nicht jeden Pixel präzise ab. Außerdem unterstützen sie keine Transparenz. Daher eignen sie sich gut als Hintergrundbilder sowie für quadratische oder fotorealistische Bilder. PNGs sind verlustlos, d. h. alle Pixel werden exakt abgespeichert, was zu einer höheren Dateigröße im Vergleich zu JPEG führt. Da sie Transparenz unterstützen, sind sie für Objekte oder Text im Vordergrund üblicherweise am besten geeignet.
+Nur PNG und JPEG werden als Bildformate für Objekte akzeptiert. JPEGs sind verlustreich, d. h. sie haben eine kleinere Dateigröße, speichern jedoch nicht jeden Pixel präzise ab. Außerdem unterstützen sie keine Transparenz. Daher eignen sie sich gut als Hintergrundbilder sowie für quadratische oder fotorealistische Bilder. PNGs sind verlustlos, d. h. alle Pixel werden exakt abgespeichert, was zu einer höheren Dateigröße im Vergleich zu JPEG führt. Da sie Transparenz unterstützen, sind sie für Objekte oder Text im Vordergrund üblicherweise am besten geeignet.
 
 Die Animationen werden in der Engine erstellt, d. h. PNG-Ebenen oder Animationsfunktionen sollten nicht verwendet werden. Speichere stattdessen jeden Frame als einzelne Datei ab und füge eine Dazimalzahl zum Dateinamen hinzu, z. B. "sample0.png" und "sample1.png" für eine Animation "sample.png" bestehend aus 2 Frames).
 
@@ -76,7 +76,7 @@ Der Zustand **während der Pausen** (zwischen den Drain-Zeiten):
 - Andernfalls Fail-Zustand (d. h. wenn das Symbol "X" erscheint).
   - In [osu!taiko](/wiki/Game_mode/osu!taiko), wenn zu einem bestimmten Zeitpunkt eine gewisse Quote erreicht wurde. Siehe die beiden folgenden Beispiele:
     - Erreicht man eine Genauigkeit von 96,5 %, während die Lebensleiste nur zu 40 % gefüllt ist, tritt der Pass-Zustand anstatt des Fail-Zustands ein.
-	- Bei zu vielen 100ern in etwa 30 Noten oder einem D, während die Lebensleiste noch bei etwa 30 % ist, tritt der Fail-Zustand anstatt des Pass-Zustands ein (in diesem Fall, siehe [ZUN - Maiden's Cappricio ~ Dream Battle](https://osu.ppy.sh/beatmapsets/18005#taiko/69556)).
+    - Bei zu vielen 100ern in etwa 30 Noten oder einem D, während die Lebensleiste noch bei etwa 30 % ist, tritt der Fail-Zustand anstatt des Pass-Zustands ein (in diesem Fall, siehe [ZUN - Maiden's Cappricio ~ Dream Battle](https://osu.ppy.sh/beatmapsets/18005#taiko/69556)).
 
 Der Zustand **nach der letzten Drain-Zeit**, wenn die Beatmap mindestens eine [Pause](/wiki/Beatmap/Break) hatte:
 
