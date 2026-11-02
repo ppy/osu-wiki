@@ -71,6 +71,7 @@ You can also check the [forum post](https://osu.ppy.sh/community/forums/topics/2
 Throughout the tournament, we will also host giveaways and present awards to recognise other participants and community members, so stay tuned for more opportunities to get involved!
 
 We can only imagine what Europe's finest have in store for us this iteration and the castle awaits its challengers.
+
 Good luck to all players, may the strongest country conquer the undead and emerge victorious!
 
 —Filoxen, alisha-
