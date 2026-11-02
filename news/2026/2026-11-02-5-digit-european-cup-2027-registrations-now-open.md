@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5 Digit European Cup 2027: Registrations Now Open!"
-date: 2026-11-02 12:15:00 +0000
+date: 2026-11-02 12:20:00 +0000
 series: miscellaneous
 ---
 
