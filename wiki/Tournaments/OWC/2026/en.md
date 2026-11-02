@@ -174,7 +174,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/dc7
 | ID | Team A | Team B | Match time | Twitch stream |
 | :-: | --: | :-- | :-- | :-: |
 | H6 | Peru ::{ flag=PE }:: | ::{ flag=SG }:: Singapore | [Nov 08 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T020000&p1=1440&p2=131&p3=236) | *TBD* |
-| G1 | Romania ::{ flag=RO }:: | ::{ flag=UA }:: Ukraine | [Nov 08 (Sun) 09:45 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T094500&p1=1440&p2=49&p3=367) | *TBD* |
 | B4 | New Zealand ::{ flag=NZ }:: | ::{ flag=NL }:: Netherlands | [Nov 08 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T100000&p1=1440&p2=264&p3=16) | *TBD* |
 | D6 | Finland ::{ flag=FI }:: | ::{ flag=PH }:: Philippines | [Nov 08 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T120000&p1=1440&p2=101&p3=145) | *TBD* |
 | A4 | Norway ::{ flag=NO }:: | ::{ flag=ID }:: Indonesia | [Nov 08 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T130000&p1=1440&p2=187&p3=108) | *TBD* |
@@ -190,6 +189,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/dc7
 | B3 | Germany ::{ flag=DE }:: | ::{ flag=TW }:: Taiwan | [Nov 08 (Sun) 16:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T163000&p1=1440&p2=37&p3=241) | *TBD* |
 | G6 | Czechia ::{ flag=CZ }:: | ::{ flag=BE }:: Belgium | [Nov 08 (Sun) 16:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T163000&p1=1440&p2=204&p3=48) | *TBD* |
 | D1 | Brazil ::{ flag=BR }:: | ::{ flag=AT }:: Austria | [Nov 08 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T170000&p1=1440&p2=45) | *TBD* |
+| G1 | Romania ::{ flag=RO }:: | ::{ flag=UA }:: Ukraine | [Nov 08 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T170000&p1=1440&p2=49&p3=367) | *TBD* |
 | C4 | Sweden ::{ flag=SE }:: | ::{ flag=FR }:: France | [Nov 08 (Sun) 17:15 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T171500&p1=1440&p2=239&p3=195) | *TBD* |
 | G2 | Romania ::{ flag=RO }:: | ::{ flag=CZ }:: Czechia | [Nov 08 (Sun) 18:45 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T184500&p1=1440&p2=49&p3=204) | *TBD* |
 | A5 | Norway ::{ flag=NO }:: | ::{ flag=AR }:: Argentina | [Nov 08 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T190000&p1=1440&p2=187&p3=51) | *TBD* |
@@ -305,7 +305,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 Group A:
 
-| # | Team | Wins | Losses | PF | PA | PD | Seed |
+| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
 | #1 | ::{ flag=HK }:: Hong Kong | **1** | 0 | 5 | 0 | **+5** | 9 |
 | #2 | ::{ flag=NO }:: Norway | **0** | 0 | 0 | 0 | **0** | 13 |
@@ -314,7 +314,7 @@ Group A:
 
 Group B:
 
-| # | Team | Wins | Losses | PF | PA | PD | Seed |
+| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
 | #1 | ::{ flag=DE }:: Germany | **1** | 0 | 5 | 3 | **+2** | 10 |
 | #2 | ::{ flag=NL }:: Netherlands | **1** | 0 | 5 | 4 | **+1** | 20 |
@@ -323,7 +323,7 @@ Group B:
 
 Group C:
 
-| # | Team | Wins | Losses | PF | PA | PD | Seed |
+| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
 | #1 | ::{ flag=CN }:: China | **2** | 0 | 10 | 3 | **+7** | 12 |
 | #2 | ::{ flag=SE }:: Sweden | **0** | 0 | 0 | 0 | **0** | 14 |
@@ -332,7 +332,7 @@ Group C:
 
 Group D:
 
-| # | Team | Wins | Losses | PF | PA | PD | Seed |
+| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
 | #1 | ::{ flag=BR }:: Brazil | **0** | 0 | 0 | 0 | **0** | 11 |
 | #2 | ::{ flag=AT }:: Austria | **0** | 0 | 0 | 0 | **0** | 16 |
@@ -341,7 +341,7 @@ Group D:
 
 Group E:
 
-| # | Team | Wins | Losses | PF | PA | PD | Seed |
+| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
 | #1 | ::{ flag=DK }:: Denmark | **1** | 0 | 5 | 0 | **+5** | 33 |
 | #2 | ::{ flag=TR }:: Türkiye | **1** | 0 | 5 | 3 | **+2** | 27 |
@@ -350,7 +350,7 @@ Group E:
 
 Group F:
 
-| # | Team | Wins | Losses | PF | PA | PD | Seed |
+| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
 | #1 | ::{ flag=JP }:: Japan | **1** | 0 | 5 | 2 | **+3** | 28 |
 | #2 | ::{ flag=MY }:: Malaysia | **1** | 0 | 5 | 4 | **+1** | 29 |
@@ -359,7 +359,7 @@ Group F:
 
 Group G:
 
-| # | Team | Wins | Losses | PF | PA | PD | Seed |
+| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
 | #1 | ::{ flag=RO }:: Romania | **0** | 0 | 0 | 0 | **0** | 26 |
 | #2 | ::{ flag=UA }:: Ukraine | **0** | 0 | 0 | 0 | **0** | 31 |
@@ -368,7 +368,7 @@ Group G:
 
 Group H:
 
-| # | Team | Wins | Losses | PF | PA | PD | Seed |
+| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
 | #1 | ::{ flag=PT }:: Portugal | **1** | 0 | 5 | 0 | **+5** | 32 |
 | #2 | ::{ flag=ES }:: Spain | **1** | 0 | 5 | 1 | **+4** | 25 |
