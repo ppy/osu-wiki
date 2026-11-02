@@ -45,7 +45,7 @@ To view the full format and other relevant details, check out the forum post or 
 
 ## How do I register?
 
-[![Click here to register for 5EC'27!](/wiki/shared/news/2026-11-02-5-digit-european-cup-2027-registrations-now-open/register.png)]()
+[![Click here to register for 5EC'27!](/wiki/shared/news/2026-11-02-5-digit-european-cup-2027-registrations-now-open/register.png)](https://forms.gle/b8kfe6S7qVbJ8K5W7)
 
 The deadline to register for this tournament is November 15, 2026 (23:59 UTC)
 
@@ -56,7 +56,9 @@ Players who sign up and meet the following criteria will be eligible to particip
 
 All countries with at least 4 eligible registrants will be allowed to appoint one player as a captain. Captains will be responsible for selecting and submitting a roster of 4–8 players to represent their country in the tournament. Countries with more than 8 candidates are encouraged to host tryouts to determine the best players for their team.
 
-Joining the official [5EC Discord server]() is mandatory for all players selected for a team. Everyone else, including spectators, are encouraged to join to keep up with important announcements and tournament livestream notifications.
+Joining the official [5EC Discord server](https://discord.com/invite/hDhj6Jb45k) is mandatory for all players selected for a team. Everyone else, including spectators, are encouraged to join to keep up with important announcements and tournament livestream notifications.
+
+You can also check the [forum post](https://osu.ppy.sh/community/forums/topics/2258351) for additional information and links!
 
 # Prize pool
 
