@@ -49,9 +49,11 @@ The osu! World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team) and va
 | Mapper | ::{ flag=IT }:: [\-kevincela\-](https://osu.ppy.sh/users/266596), ::{ flag=TW }:: [9ami](https://osu.ppy.sh/users/1499997), ::{ flag=TW }:: [ameponzu](https://osu.ppy.sh/users/12763959), ::{ flag=DE }:: [an3](https://osu.ppy.sh/users/11954090), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=BR }:: [dasdwqdf](https://osu.ppy.sh/users/5403374), ::{ flag=JP }:: [eringiRa](https://osu.ppy.sh/users/16383529), ::{ flag=TW }:: [Flask](https://osu.ppy.sh/users/959763), ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882), ::{ flag=KR }:: [HyperPigeon](https://osu.ppy.sh/users/9956596), ::{ flag=BR }:: [maot](https://osu.ppy.sh/users/3914271), ::{ flag=JP }:: [Meg](https://osu.ppy.sh/users/1872496), ::{ flag=AR }:: [Megafan](https://osu.ppy.sh/users/6632605), ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812), ::{ flag=US }:: [Nathan](https://osu.ppy.sh/users/4785223), ::{ flag=KR }:: [Natori Sana](https://osu.ppy.sh/users/8991722), ::{ flag=RU }:: [PandaHero](https://osu.ppy.sh/users/1233255), ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418), ::{ flag=JP }:: [ponbot](https://osu.ppy.sh/users/8939857), ::{ flag=CL }:: [Pyo](https://osu.ppy.sh/users/6641784), ::{ flag=SG }:: [Rtyzen](https://osu.ppy.sh/users/2439822), ::{ flag=RU }:: [saido39](https://osu.ppy.sh/users/11278761), ::{ flag=US }:: [toybot](https://osu.ppy.sh/users/2848604), ::{ flag=BR }:: [vetoed](https://osu.ppy.sh/users/10909373), ::{ flag=CN }:: [YeLing](https://osu.ppy.sh/users/14726718), ::{ flag=DE }:: [Yukiyo](https://osu.ppy.sh/users/4541873), ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955), *more TBA* |
 | Spread contributors | **::{ flag=US }:: [Cytusine](https://osu.ppy.sh/users/11557554)**, *more TBA* |
 | Commentator | **::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)**, ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=GB }:: [Damarsh](https://osu.ppy.sh/users/7465147), ::{ flag=US }:: [Dohland](https://osu.ppy.sh/users/5220511), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=US }:: [hubbawubba](https://osu.ppy.sh/users/15910288), ::{ flag=CA }:: [I\-Flame](https://osu.ppy.sh/users/11257542), ::{ flag=KZ }:: [Lightin](https://osu.ppy.sh/users/7595619), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=AU }:: [Mavs](https://osu.ppy.sh/users/11076938), ::{ flag=GB }:: [SadShiba](https://osu.ppy.sh/users/10747626), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189), ::{ flag=AU }:: [Vordi](https://osu.ppy.sh/users/6659116), ::{ flag=GB }:: [TorvaZero](https://osu.ppy.sh/users/22609063) |
+| Commentator (special guests) | ::{ flag=BR }:: [\-felicia](https://osu.ppy.sh/users/10157694), ::{ flag=IT }:: [\-kevincela\-](https://osu.ppy.sh/users/266596), ::{ flag=CA }:: [Ayykk](https://osu.ppy.sh/users/19098393), ::{ flag=US }:: [EthantrixV3](https://osu.ppy.sh/users/10634348), ::{ flag=AT }:: [fedoragoose](https://osu.ppy.sh/users/2323131), ::{ flag=UA }:: [Filoxen](https://osu.ppy.sh/users/24454271), ::{ flag=GB }:: [Log Off Now](https://osu.ppy.sh/users/4378277), ::{ flag=FI }:: [Nev\-](https://osu.ppy.sh/users/11836334), ::{ flag=US }:: [Pezz](https://osu.ppy.sh/users/10651106), ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835), *more TBA* |
 | Referee | **::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)**, ::{ flag=IN }:: [\-Space](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=BR }:: [DizzyH](https://osu.ppy.sh/users/9896172), ::{ flag=SE }:: [ellen\-](https://osu.ppy.sh/users/7630166), ::{ flag=VN }:: [Hoaq](https://osu.ppy.sh/users/7696512), ::{ flag=CL }:: [Isita](https://osu.ppy.sh/users/13973026), ::{ flag=GR }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | **::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)**, ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
 | Tournament design | ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=HK }:: [Detristy](https://osu.ppy.sh/users/38325708), ::{ flag=RU }:: [LeeNarie](https://osu.ppy.sh/users/2667849), ::{ flag=ID }:: [LenLitchu](https://osu.ppy.sh/users/34098325), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
+| Musician | [Doomsday](https://osu.ppy.sh/beatmaps/artists/425), *more TBA* |
 
 Group leaders denoted in **bold**.
 
@@ -61,7 +63,9 @@ Group leaders denoted in **bold**.
 - [Livestream](https://www.twitch.tv/osulive)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2248588)
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/58)
+- Challonge brackets: [Group stage](https://challonge.com/OWC26_Groups) / [Bracket stage](https://challonge.com/OWC2026)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/204) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Support your country with a profile banner](https://osu.ppy.sh/store/products/1792)
 
 ## Participants
 
@@ -139,77 +143,85 @@ Captains are listed in **bold**
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/dc73f8a9c4b74bdb75b26322c83f6ff1).
 
-## Match schedule: Group stage - Week 1
-
-### Saturday, 31 October 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |
-| :-: | --: | :-- | :-- | :-: |
-| F1 | Japan ::{ flag=JP }:: | ::{ flag=MY }:: Malaysia | [Oct 31 (Sat) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261031T030000&p1=1440&p2=248&p3=122) | *TBD* |
-| F6 | Greece ::{ flag=GR }:: | ::{ flag=SK }:: Slovakia | [Oct 31 (Sat) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261031T090000&p1=1440) | *TBD* |
-| F5 | Malaysia ::{ flag=MY }:: | ::{ flag=SK }:: Slovakia | [Oct 31 (Sat) 09:45 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261031T094500&p1=1440&p2=122) | *TBD* |
-| F4 | Malaysia ::{ flag=MY }:: | ::{ flag=GR }:: Greece | [Oct 31 (Sat) 10:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261031T103000&p1=1440&p2=122) | *TBD* |
-| F3 | Japan ::{ flag=JP }:: | ::{ flag=SK }:: Slovakia | [Oct 31 (Sat) 11:15 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261031T111500&p1=1440&p2=248) | *TBD* |
-| F2 | Japan ::{ flag=JP }:: | ::{ flag=GR }:: Greece | [Oct 31 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261031T120000&p1=1440&p2=248) | *TBD* |
-| D5 | Austria ::{ flag=AT }:: | ::{ flag=PH }:: Philippines | [Oct 31 (Sat) 12:45 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261031T124500&p1=1440&p3=145) | *TBD* |
-| E6 | Denmark ::{ flag=DK }:: | ::{ flag=UY }:: Uruguay | [Oct 31 (Sat) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261031T133000&p1=1440&p2=69) | *TBD* |
-| E5 | Saudi Arabia ::{ flag=SA }:: | ::{ flag=UY }:: Uruguay | [Oct 31 (Sat) 14:15 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261031T141500&p1=1440) | *TBD* |
-| E4 | Saudi Arabia ::{ flag=SA }:: | ::{ flag=DK }:: Denmark | [Oct 31 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261031T150000&p1=1440&p3=69) | *TBD* |
-| E3 | Türkiye ::{ flag=TR }:: | ::{ flag=UY }:: Uruguay | [Oct 31 (Sat) 15:45 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261031T154500&p1=1440) | *TBD* |
-| E2 | Türkiye ::{ flag=TR }:: | ::{ flag=DK }:: Denmark | [Oct 31 (Sat) 16:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261031T163000&p1=1440&p3=69) | *TBD* |
-| E1 | Türkiye ::{ flag=TR }:: | ::{ flag=SA }:: Saudi Arabia | [Oct 31 (Sat) 17:15 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261031T171500&p1=1440) | *TBD* |
-| B4 | New Zealand ::{ flag=NZ }:: | ::{ flag=NL }:: Netherlands | [Oct 31 (Sat) 21:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261031T210000&p1=1440&p2=264&p3=16) | *TBD* |
-
-### Sunday, 1 November 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |
-| :-: | --: | :-- | :-- | :-: |
-| B5 | New Zealand ::{ flag=NZ }:: | ::{ flag=TW }:: Taiwan | [Nov 01 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261101T020000&p1=1440&p2=264&p3=241) | *TBD* |
-| D6 | Finland ::{ flag=FI }:: | ::{ flag=PH }:: Philippines | [Nov 01 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261101T080000&p1=1440&p2=101&p3=145) | *TBD* |
-| B1 | Germany ::{ flag=DE }:: | ::{ flag=NZ }:: New Zealand | [Nov 01 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261101T090000&p1=1440&p2=37&p3=264) | *TBD* |
-| D4 | Austria ::{ flag=AT }:: | ::{ flag=FI }:: Finland | [Nov 01 (Sun) 09:45 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261101T094500&p1=1440&p3=101) | *TBD* |
-| B3 | Germany ::{ flag=DE }:: | ::{ flag=TW }:: Taiwan | [Nov 01 (Sun) 10:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261101T103000&p1=1440&p2=37&p3=241) | *TBD* |
-| D3 | Brazil ::{ flag=BR }:: | ::{ flag=PH }:: Philippines | [Nov 01 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261101T130000&p1=1440&p2=45&p3=145) | *TBD* |
-| B6 | Netherlands ::{ flag=NL }:: | ::{ flag=TW }:: Taiwan | [Nov 01 (Sun) 13:45 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261101T134500&p1=1440&p2=16&p3=241) | *TBD* |
-| D2 | Brazil ::{ flag=BR }:: | ::{ flag=FI }:: Finland | [Nov 01 (Sun) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261101T143000&p1=1440&p2=45&p3=101) | *TBD* |
-| D1 | Brazil ::{ flag=BR }:: | ::{ flag=AT }:: Austria | [Nov 01 (Sun) 15:15 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261101T151500&p1=1440&p2=45) | *TBD* |
-| B2 | Germany ::{ flag=DE }:: | ::{ flag=NL }:: Netherlands | [Nov 01 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261101T160000&p1=1440&p2=37&p3=16) | *TBD* |
-
 ## Match schedule: Group stage - Week 2
+
+### Friday, 6 November 2026
+
+| ID | Team A | Team B | Match time | Twitch stream |
+| :-: | --: | :-- | :-- | :-: |
+| B2 | Germany ::{ flag=DE }:: | ::{ flag=NL }:: Netherlands | [Nov 06 (Fri) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261106T190000&p1=1440&p2=37&p3=16) | *TBD* |
+| H1 | Spain ::{ flag=ES }:: | ::{ flag=PT }:: Portugal | [Nov 06 (Fri) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261106T190000&p1=1440&p2=141&p3=133) | *TBD* |
 
 ### Saturday, 7 November 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |
 | :-: | --: | :-- | :-- | :-: |
+| B5 | New Zealand ::{ flag=NZ }:: | ::{ flag=TW }:: Taiwan | [Nov 07 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261107T100000&p1=1440&p2=264&p3=241) | *TBD* |
 | H5 | Portugal ::{ flag=PT }:: | ::{ flag=SG }:: Singapore | [Nov 07 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261107T100000&p1=1440&p2=133&p3=236) | *TBD* |
-| A1 | Hong Kong ::{ flag=HK }:: | ::{ flag=NO }:: Norway | [Nov 07 (Sat) 10:45 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261107T104500&p1=1440&p2=102&p3=187) | *TBD* |
-| A5 | Norway ::{ flag=NO }:: | ::{ flag=AR }:: Argentina | [Nov 07 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261107T130000&p1=1440&p2=187&p3=51) | *TBD* |
-| A3 | Hong Kong ::{ flag=HK }:: | ::{ flag=AR }:: Argentina | [Nov 07 (Sat) 13:45 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261107T134500&p1=1440&p2=102&p3=51) | *TBD* |
-| A4 | Norway ::{ flag=NO }:: | ::{ flag=ID }:: Indonesia | [Nov 07 (Sat) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261107T143000&p1=1440&p2=187&p3=108) | *TBD* |
+| C1 | China ::{ flag=CN }:: | ::{ flag=SE }:: Sweden | [Nov 07 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261107T130000&p1=1440&p2=33&p3=239) | *TBD* |
+| E1 | Türkiye ::{ flag=TR }:: | ::{ flag=SA }:: Saudi Arabia | [Nov 07 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261107T130000&p1=1440) | *TBD* |
+| A2 | Hong Kong ::{ flag=HK }:: | ::{ flag=ID }:: Indonesia | [Nov 07 (Sat) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261107T133000&p1=1440&p2=102&p3=108) | *TBD* |
+| C6 | France ::{ flag=FR }:: | ::{ flag=TH }:: Thailand | [Nov 07 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261107T140000&p1=1440&p2=195&p3=28) | *TBD* |
+| D5 | Austria ::{ flag=AT }:: | ::{ flag=PH }:: Philippines | [Nov 07 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261107T140000&p1=1440&p3=145) | *TBD* |
+| F1 | Japan ::{ flag=JP }:: | ::{ flag=MY }:: Malaysia | [Nov 07 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261107T140000&p1=1440&p2=248&p3=122) | *TBD* |
+| D2 | Brazil ::{ flag=BR }:: | ::{ flag=FI }:: Finland | [Nov 07 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261107T160000&p1=1440&p2=45&p3=101) | *TBD* |
+| G4 | Ukraine ::{ flag=UA }:: | ::{ flag=CZ }:: Czechia | [Nov 07 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261107T180000&p1=1440&p2=367&p3=204) | *TBD* |
+| G3 | Romania ::{ flag=RO }:: | ::{ flag=BE }:: Belgium | [Nov 07 (Sat) 18:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261107T183000&p1=1440&p2=49&p3=48) | *TBD* |
+| G5 | Ukraine ::{ flag=UA }:: | ::{ flag=BE }:: Belgium | [Nov 07 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261107T200000&p1=1440&p2=367&p3=48) | *TBD* |
 
 ### Sunday, 8 November 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |
 | :-: | --: | :-- | :-- | :-: |
 | H6 | Peru ::{ flag=PE }:: | ::{ flag=SG }:: Singapore | [Nov 08 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T020000&p1=1440&p2=131&p3=236) | *TBD* |
-| A2 | Hong Kong ::{ flag=HK }:: | ::{ flag=ID }:: Indonesia | [Nov 08 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T040000&p1=1440&p2=102&p3=108) | *TBD* |
-| H3 | Spain ::{ flag=ES }:: | ::{ flag=SG }:: Singapore | [Nov 08 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T090000&p1=1440&p2=141&p3=236) | *TBD* |
-| G1 | Romania ::{ flag=RO }:: | ::{ flag=UA }:: Ukraine | [Nov 08 (Sun) 09:45 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T094500&p1=1440&p2=49&p3=367) | *TBD* |
-| C6 | France ::{ flag=FR }:: | ::{ flag=TH }:: Thailand | [Nov 08 (Sun) 10:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T103000&p1=1440&p2=195&p3=28) | *TBD* |
-| C5 | Sweden ::{ flag=SE }:: | ::{ flag=TH }:: Thailand | [Nov 08 (Sun) 11:15 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T111500&p1=1440&p2=239&p3=28) | *TBD* |
-| C3 | China ::{ flag=CN }:: | ::{ flag=TH }:: Thailand | [Nov 08 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T120000&p1=1440&p2=33&p3=28) | *TBD* |
-| C2 | China ::{ flag=CN }:: | ::{ flag=FR }:: France | [Nov 08 (Sun) 12:45 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T124500&p1=1440&p2=33&p3=195) | *TBD* |
-| C1 | China ::{ flag=CN }:: | ::{ flag=SE }:: Sweden | [Nov 08 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T133000&p1=1440&p2=33&p3=239) | *TBD* |
-| A6 | Indonesia ::{ flag=ID }:: | ::{ flag=AR }:: Argentina | [Nov 08 (Sun) 14:15 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T141500&p1=1440&p2=108&p3=51) | *TBD* |
-| H4 | Portugal ::{ flag=PT }:: | ::{ flag=PE }:: Peru | [Nov 08 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T150000&p1=1440&p2=133&p3=131) | *TBD* |
-| H2 | Spain ::{ flag=ES }:: | ::{ flag=PE }:: Peru | [Nov 08 (Sun) 15:45 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T154500&p1=1440&p2=141&p3=131) | *TBD* |
+| B4 | New Zealand ::{ flag=NZ }:: | ::{ flag=NL }:: Netherlands | [Nov 08 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T100000&p1=1440&p2=264&p3=16) | *TBD* |
+| D6 | Finland ::{ flag=FI }:: | ::{ flag=PH }:: Philippines | [Nov 08 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T120000&p1=1440&p2=101&p3=145) | *TBD* |
+| A4 | Norway ::{ flag=NO }:: | ::{ flag=ID }:: Indonesia | [Nov 08 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T130000&p1=1440&p2=187&p3=108) | *TBD* |
+| C5 | Sweden ::{ flag=SE }:: | ::{ flag=TH }:: Thailand | [Nov 08 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T130000&p1=1440&p2=239&p3=28) | *TBD* |
+| E2 | Türkiye ::{ flag=TR }:: | ::{ flag=DK }:: Denmark | [Nov 08 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T130000&p1=1440&p3=69) | *TBD* |
+| A1 | Hong Kong ::{ flag=HK }:: | ::{ flag=NO }:: Norway | [Nov 08 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T140000&p1=1440&p2=102&p3=187) | *TBD* |
+| D3 | Brazil ::{ flag=BR }:: | ::{ flag=PH }:: Philippines | [Nov 08 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T140000&p1=1440&p2=45&p3=145) | *TBD* |
+| D4 | Austria ::{ flag=AT }:: | ::{ flag=FI }:: Finland | [Nov 08 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T140000&p1=1440&p3=101) | *TBD* |
+| E4 | Saudi Arabia ::{ flag=SA }:: | ::{ flag=DK }:: Denmark | [Nov 08 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T140000&p1=1440&p3=69) | *TBD* |
+| F4 | Malaysia ::{ flag=MY }:: | ::{ flag=GR }:: Greece | [Nov 08 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T140000&p1=1440&p2=122) | *TBD* |
+| A6 | Indonesia ::{ flag=ID }:: | ::{ flag=AR }:: Argentina | [Nov 08 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T150000&p1=1440&p2=108&p3=51) | *TBD* |
+| F2 | Japan ::{ flag=JP }:: | ::{ flag=GR }:: Greece | [Nov 08 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T150000&p1=1440&p2=248) | *TBD* |
+| B3 | Germany ::{ flag=DE }:: | ::{ flag=TW }:: Taiwan | [Nov 08 (Sun) 16:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T163000&p1=1440&p2=37&p3=241) | *TBD* |
 | G6 | Czechia ::{ flag=CZ }:: | ::{ flag=BE }:: Belgium | [Nov 08 (Sun) 16:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T163000&p1=1440&p2=204&p3=48) | *TBD* |
-| H1 | Spain ::{ flag=ES }:: | ::{ flag=PT }:: Portugal | [Nov 08 (Sun) 16:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T163000&p1=1440&p2=141&p3=133) | *TBD* |
+| D1 | Brazil ::{ flag=BR }:: | ::{ flag=AT }:: Austria | [Nov 08 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T170000&p1=1440&p2=45) | *TBD* |
+| G1 | Romania ::{ flag=RO }:: | ::{ flag=UA }:: Ukraine | [Nov 08 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T170000&p1=1440&p2=49&p3=367) | *TBD* |
 | C4 | Sweden ::{ flag=SE }:: | ::{ flag=FR }:: France | [Nov 08 (Sun) 17:15 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T171500&p1=1440&p2=239&p3=195) | *TBD* |
-| G4 | Ukraine ::{ flag=UA }:: | ::{ flag=CZ }:: Czechia | [Nov 08 (Sun) 17:15 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T171500&p1=1440&p2=367&p3=204) | *TBD* |
-| G5 | Ukraine ::{ flag=UA }:: | ::{ flag=BE }:: Belgium | [Nov 08 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T180000&p1=1440&p2=367&p3=48) | *TBD* |
 | G2 | Romania ::{ flag=RO }:: | ::{ flag=CZ }:: Czechia | [Nov 08 (Sun) 18:45 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T184500&p1=1440&p2=49&p3=204) | *TBD* |
-| G3 | Romania ::{ flag=RO }:: | ::{ flag=BE }:: Belgium | [Nov 08 (Sun) 19:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T193000&p1=1440&p2=49&p3=48) | *TBD* |
+| A5 | Norway ::{ flag=NO }:: | ::{ flag=AR }:: Argentina | [Nov 08 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T190000&p1=1440&p2=187&p3=51) | *TBD* |
+| H2 | Spain ::{ flag=ES }:: | ::{ flag=PE }:: Peru | [Nov 08 (Sun) 20:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T203000&p1=1440&p2=141&p3=131) | *TBD* |
+| SC | Round of 16 | mappool showcase | [Nov 08 (Sun) 21:30 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20261108T213000&p1=1440) | [osulive](https://twitch.tv/osulive) |
+
+## Match results
+
+### Group stage - Week 1
+
+Saturday, 31 October 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| B1 | **Germany** ::{ flag=DE }:: | **5** | 3 | ::{ flag=NZ }:: New Zealand | [#1](https://osu.ppy.sh/community/matches/122095113) | [#1](https://www.twitch.tv/videos/2915987453) |
+| C3 | **China** ::{ flag=CN }:: | **5** | 2 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/122095354) | [#1](https://www.twitch.tv/videos/2915987449) |
+| C2 | **China** ::{ flag=CN }:: | **5** | 1 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/122095688) | [#1](https://www.twitch.tv/videos/2915987451) |
+| E5 | **Saudi Arabia** ::{ flag=SA }:: | **5** | 3 | ::{ flag=UY }:: Uruguay | [#1](https://osu.ppy.sh/community/matches/122096042) | [#1](https://www.twitch.tv/videos/2915987450) |
+| E3 | **Türkiye** ::{ flag=TR }:: | **5** | 3 | ::{ flag=UY }:: Uruguay | [#1](https://osu.ppy.sh/community/matches/122096482) | [#1](https://www.twitch.tv/videos/2915987452) |
+| F5 | **Malaysia** ::{ flag=MY }:: | **5** | 4 | ::{ flag=SK }:: Slovakia | [#1](https://osu.ppy.sh/community/matches/122096229) | [#1](https://www.twitch.tv/videos/2915978754) |
+| H3 | **Spain** ::{ flag=ES }:: | **5** | 1 | ::{ flag=SG }:: Singapore | [#1](https://osu.ppy.sh/community/matches/122096268) |  |
+
+Sunday, 1 November 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| B6 | **Netherlands** ::{ flag=NL }:: | **5** | 4 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/122101187) | [#1](https://www.twitch.tv/videos/2916911284) |
+| A3 | **Hong Kong** ::{ flag=HK }:: | **5** | 0 | ::{ flag=AR }:: Argentina | [#1](https://osu.ppy.sh/community/matches/122101541) | [#1](https://www.twitch.tv/videos/2916911283) |
+| F3 | **Japan** ::{ flag=JP }:: | **5** | 2 | ::{ flag=SK }:: Slovakia | [#1](https://osu.ppy.sh/community/matches/122101543) | [#1](https://www.twitch.tv/videos/2916800424) |
+| E6 | **Denmark** ::{ flag=DK }:: | **5** | 0 | ::{ flag=UY }:: Uruguay | [#1](https://osu.ppy.sh/community/matches/122102096) | [#1](https://www.twitch.tv/videos/2916857976) |
+| F6 | Greece ::{ flag=GR }:: | 2 | **5** | ::{ flag=SK }:: **Slovakia** | [#1](https://osu.ppy.sh/community/matches/122102098) | [#1](https://www.twitch.tv/videos/2916914044) |
+| H4 | **Portugal** ::{ flag=PT }:: | **5** | 0 | ::{ flag=PE }:: Peru | [#1](https://osu.ppy.sh/community/matches/122103638) | [#1](https://www.twitch.tv/videos/2917112964) |
 
 ## Qualifiers
 
@@ -295,28 +307,28 @@ Group A:
 
 | # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
-| #1 | ::{ flag=HK }:: Hong Kong | **0** | 0 | 0 | 0 | **0** | 9 |
+| #1 | ::{ flag=HK }:: Hong Kong | **1** | 0 | 5 | 0 | **+5** | 9 |
 | #2 | ::{ flag=NO }:: Norway | **0** | 0 | 0 | 0 | **0** | 13 |
 | #3 | ::{ flag=ID }:: Indonesia | **0** | 0 | 0 | 0 | **0** | 18 |
-| #4 | ::{ flag=AR }:: Argentina | **0** | 0 | 0 | 0 | **0** | 23 |
+| #4 | ::{ flag=AR }:: Argentina | **0** | 1 | 0 | 5 | **-5** | 23 |
 
 Group B:
 
 | # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
-| #1 | ::{ flag=DE }:: Germany | **0** | 0 | 0 | 0 | **0** | 10 |
-| #2 | ::{ flag=NZ }:: New Zealand | **0** | 0 | 0 | 0 | **0** | 15 |
-| #3 | ::{ flag=NL }:: Netherlands | **0** | 0 | 0 | 0 | **0** | 20 |
-| #4 | ::{ flag=TW }:: Taiwan | **0** | 0 | 0 | 0 | **0** | 21 |
+| #1 | ::{ flag=DE }:: Germany | **1** | 0 | 5 | 3 | **+2** | 10 |
+| #2 | ::{ flag=NL }:: Netherlands | **1** | 0 | 5 | 4 | **+1** | 20 |
+| #3 | ::{ flag=TW }:: Taiwan | **0** | 1 | 4 | 5 | **-1** | 21 |
+| #4 | ::{ flag=NZ }:: New Zealand | **0** | 1 | 3 | 5 | **-2** | 15 |
 
 Group C:
 
 | # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
-| #1 | ::{ flag=CN }:: China | **0** | 0 | 0 | 0 | **0** | 12 |
+| #1 | ::{ flag=CN }:: China | **2** | 0 | 10 | 3 | **+7** | 12 |
 | #2 | ::{ flag=SE }:: Sweden | **0** | 0 | 0 | 0 | **0** | 14 |
-| #3 | ::{ flag=FR }:: France | **0** | 0 | 0 | 0 | **0** | 17 |
-| #4 | ::{ flag=TH }:: Thailand | **0** | 0 | 0 | 0 | **0** | 22 |
+| #3 | ::{ flag=TH }:: Thailand | **0** | 1 | 2 | 5 | **-3** | 22 |
+| #4 | ::{ flag=FR }:: France | **0** | 1 | 1 | 5 | **-4** | 17 |
 
 Group D:
 
@@ -331,19 +343,19 @@ Group E:
 
 | # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
-| #1 | ::{ flag=TR }:: Türkiye | **0** | 0 | 0 | 0 | **0** | 27 |
-| #2 | ::{ flag=SA }:: Saudi Arabia | **0** | 0 | 0 | 0 | **0** | 30 |
-| #3 | ::{ flag=DK }:: Denmark | **0** | 0 | 0 | 0 | **0** | 33 |
-| #4 | ::{ flag=UY }:: Uruguay | **0** | 0 | 0 | 0 | **0** | 37 |
+| #1 | ::{ flag=DK }:: Denmark | **1** | 0 | 5 | 0 | **+5** | 33 |
+| #2 | ::{ flag=TR }:: Türkiye | **1** | 0 | 5 | 3 | **+2** | 27 |
+| #3 | ::{ flag=SA }:: Saudi Arabia | **1** | 0 | 5 | 3 | **+2** | 30 |
+| #4 | ::{ flag=UY }:: Uruguay | **0** | 3 | 6 | 15 | **-9** | 37 |
 
 Group F:
 
 | # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
-| #1 | ::{ flag=JP }:: Japan | **0** | 0 | 0 | 0 | **0** | 28 |
-| #2 | ::{ flag=MY }:: Malaysia | **0** | 0 | 0 | 0 | **0** | 29 |
-| #3 | ::{ flag=GR }:: Greece | **0** | 0 | 0 | 0 | **0** | 34 |
-| #4 | ::{ flag=SK }:: Slovakia | **0** | 0 | 0 | 0 | **0** | 40 |
+| #1 | ::{ flag=JP }:: Japan | **1** | 0 | 5 | 2 | **+3** | 28 |
+| #2 | ::{ flag=MY }:: Malaysia | **1** | 0 | 5 | 4 | **+1** | 29 |
+| #3 | ::{ flag=SK }:: Slovakia | **1** | 2 | 11 | 12 | **-1** | 40 |
+| #4 | ::{ flag=GR }:: Greece | **0** | 1 | 2 | 5 | **-3** | 34 |
 
 Group G:
 
@@ -358,10 +370,10 @@ Group H:
 
 | # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
-| #1 | ::{ flag=ES }:: Spain | **0** | 0 | 0 | 0 | **0** | 25 |
-| #2 | ::{ flag=PT }:: Portugal | **0** | 0 | 0 | 0 | **0** | 32 |
-| #3 | ::{ flag=PE }:: Peru | **0** | 0 | 0 | 0 | **0** | 36 |
-| #4 | ::{ flag=SG }:: Singapore | **0** | 0 | 0 | 0 | **0** | 38 |
+| #1 | ::{ flag=PT }:: Portugal | **1** | 0 | 5 | 0 | **+5** | 32 |
+| #2 | ::{ flag=ES }:: Spain | **1** | 0 | 5 | 1 | **+4** | 25 |
+| #3 | ::{ flag=SG }:: Singapore | **0** | 1 | 1 | 5 | **-4** | 38 |
+| #4 | ::{ flag=PE }:: Peru | **0** | 1 | 0 | 5 | **-5** | 36 |
 
 ## Mappools
 
@@ -625,9 +637,9 @@ The final bracket configuration will be as follows:
    - The winner of the `!roll` decides which team **picks** first.
      - Teams may "double pick" (i.e. pick two or more maps from the same mod pool in sequence) without restrictions.
    - The loser of the `!roll` decides which team **bans** first.
-   - **From Quarterfinals onwards, the first team will ban one beatmap, followed by two bans from second team, finishing with one ban from the first team.**
+   - **From Round of 16 onwards, the first team will ban one beatmap, followed by two bans from second team, finishing with one ban from the first team.**
 4. After bans are decided, both teams will take turns in picking a beatmap from the mappool.
-5. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than allotted for either action, the procedures adopted will be as follows:
+5. Teams will be allowed 2 minutes to pick or ban beatmaps and 2 minutes to press the `Ready` button on their client. If a team takes more time than allotted for either action, the procedures adopted will be as follows:
    - For the first occurrence:
      - The team will receive a verbal warning from the referee; in addition, the referee may opt to forcefully use the team's tactical timeout to allow for the team to pick.
      - If the team does not pick a map within 15 seconds from when the timer expires, the referee will apply the procedure for subsequent occurrences listed below, i.e. a random pick will be used for a pick timer, and the match will be forcefully started for a ready timer.

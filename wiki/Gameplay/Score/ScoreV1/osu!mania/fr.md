@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 66258f8e4890fdfb96281fb605c443d687ab080d
+---
+
 # Système de notation d'osu!mania
 
 ::: alert-note
