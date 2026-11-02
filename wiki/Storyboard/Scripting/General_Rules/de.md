@@ -104,7 +104,7 @@ Der Zustand **nach der letzten Drain-Zeit**, wenn die Beatmap keine Pausen hatte
 
 ## Kommentare
 
-Einzeilge Kommentare im Stil von C können hinzugefügt werden, aber beachte, dass sie möglicherweise entfernt werden, wenn die Beatmap über den Editor im Spiel gespeichert wird. Standardmäßig werden einige Kommentare verwendet, um die Befehle in die fünf Ebenen zu unterteilen.
+Einzeilige Kommentare im Stil von C können hinzugefügt werden, aber beachte, dass sie möglicherweise entfernt werden, wenn die Beatmap über den Editor im Spiel gespeichert wird. Standardmäßig werden einige Kommentare verwendet, um die Befehle in die fünf Ebenen zu unterteilen.
 
 `// Das ist ein Kommentar.`
 
