@@ -27,7 +27,7 @@ Today may be Halloween, but we're not going to deliver jumpscares. Here are some
 
 ### kuro - Judgement of "Justitia"
 
-Have you ever heard a 327 BPM song? Now you can thanks to [the tournament it was made for](https://osu.ppy.sh/community/forums/topics/2017688?n=1) and [this map](https://osu.ppy.sh/beatmapsets/2432404) by [Eclipse-](https://osu.ppy.sh/users/8493070)!
+Have you ever heard a 327 BPM song? Now you can thanks to [this tournament tiebreaker](https://osu.ppy.sh/beatmapsets/2325695) hosted by [Oceanus](https://osu.ppy.sh/users/9164100) and [this Ranked map](https://osu.ppy.sh/beatmapsets/2432404) by [Eclipse-](https://osu.ppy.sh/users/8493070)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/369/Songs/kuro_-_Judgement_of_Justitia.mp3">
