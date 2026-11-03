@@ -90,7 +90,7 @@ In **Ausnahmefällen** dürfen die Richtlinien ignoriert werden. Diese außergew
 - **Die Ausgangsgeschwindigkeit von Slidern sollte 1,40 in allen Schwierigkeitsgraden einer Beatmap sein.** Dies soll eine optimale Menge an Noten auf dem Spielfeld sowie den bestmöglichen Abstand zwischen verschiedenen Noten gewährleisten.
 - **Wenn die Geschwindigkeit von Slidern verändert wird, sollte diese den Tempoänderungen im Song entsprechen.** Das bedeutet, dass ruhige Teile eines Songs nicht beschleunigt und schnelle Teile nicht verlangsamt werden.
 - **Vermeide es, weiche Änderungen der Slider-Geschwindigkeit in Sektionen mit variabler Taktteilung zu benutzen.** Dadurch wird die Lesbarkeit dieser Taktteilungen beeinträchtigt, daher solltest du die Abweichungen niedrig genug halten, um ein Überlappen zu verhindern.
-- **Vermeide abrupte Änderungen der Slider-Geschwindigkeit innerhalb von Patterns, die bereits überlappen (z. B. 1/4-Streams).** Weiche Änderungen der Slider-Geschwindigkeit sollten in diese Fällen benutzt werden, um sicherzustellen, dass die Patterns lesbar bleiben.
+- **Vermeide abrupte Änderungen der Slider-Geschwindigkeit innerhalb von Patterns, die bereits überlappen (z. B. 1/4-Streams).** Weiche Änderungen der Slider-Geschwindigkeit sollten in diesen Fällen benutzt werden, um sicherzustellen, dass die Patterns lesbar bleiben.
 - **Songs mit variablen BPM dürfen häufige Änderungen der Slider-Geschwindigkeit beinhalten, um die Scrollgeschwindigkeit, mit der sich Noten bewegen, ungefähr konstant zu halten.** Auf diese Weise werden die Zeitabstände zwischen den Noten leicht erkennbar und verbessern das Spielerlebnis, da Überlappungen durch BPM-Änderungen vermieden werden.
 
 ## Abhängig vom Schwierigkeitsgrad
@@ -107,11 +107,11 @@ Es ist akzeptabel, Ruhemomente seltener zu verwenden, wenn sie aufgrund des Temp
 
 | Schwierigkeitsgrad | Ruhemoment | Beispiel | Länge der Kette |
 | :-: | :-: | :-: | :-- |
-| ![](/wiki/shared/diff/easy-t.png?20211215) **Kantan** | 3/1 oder länger | ![3/1](img/kantan.png "3/1") | Ruhemoment benötigt alle 32–36 Beats |
-| ![](/wiki/shared/diff/normal-t.png?20211215) **Futsuu** | 2/1 oder länger | ![2/1](img/futsuu.png "2/1") | Ruhemoment benötigt alle 32–36 Beats |
-| ![](/wiki/shared/diff/hard-t.png?20211215) **Muzukashii** (erste Option) | 3/2 oder länger | ![3/2](img/muzu1.png "3/2") | Ruhemoment benötigt alle 32–36 Beats |
-| ![](/wiki/shared/diff/hard-t.png?20211215) **Muzukashii** (zweite Option) | 3 aufeinanderfolgende 1/1 oder länger | ![3 aufeinanderfolgende 1/1](img/muzu2.png "3 consecutive 1/1") | Ruhemoment benötigt alle 32–36 Beats |
-| ![](/wiki/shared/diff/insane-t.png?20211215) **Oni** | 1/1 oder länger | ![1/1](img/oni.png "1/1") | Ruhemoment benötigt alle 16–20 Beats |
+| ![](/wiki/shared/diff/easy-t.png?20211215) **Kantan** | 3/1 oder länger | ![3/1](img/kantan.png "3/1") | Ruhemoment benötigt alle 32 bis 36 Beats |
+| ![](/wiki/shared/diff/normal-t.png?20211215) **Futsuu** | 2/1 oder länger | ![2/1](img/futsuu.png "2/1") | Ruhemoment benötigt alle 32 bis 36 Beats |
+| ![](/wiki/shared/diff/hard-t.png?20211215) **Muzukashii** (erste Option) | 3/2 oder länger | ![3/2](img/muzu1.png "3/2") | Ruhemoment benötigt alle 32 bis 36 Beats |
+| ![](/wiki/shared/diff/hard-t.png?20211215) **Muzukashii** (zweite Option) | 3 aufeinanderfolgende 1/1 oder länger | ![3 aufeinanderfolgende 1/1](img/muzu2.png "3 aufeinanderfolgende 1/1") | Ruhemoment benötigt alle 32 bis 36 Beats |
+| ![](/wiki/shared/diff/insane-t.png?20211215) **Oni** | 1/1 oder länger | ![1/1](img/oni.png "1/1") | Ruhemoment benötigt alle 16 bis 20 Beats |
 
 ### ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 
