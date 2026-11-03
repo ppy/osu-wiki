@@ -101,6 +101,9 @@ osu! offers more relaxed limits on various online features to supporters:
 | Team size | 8 | `8 + 4 * supporters in the team` up to **256** |
 | Online beatmap favourites | 100 | 1000 |
 | Friend count | 500 | 1000 |
+| Maximum number of pinned scores on profile | 10 | 50 |
+| Maximum number of simultaneously open playlists | 1 | 5 |
+| Maximum playlist duration | 14 days (2 weeks) | 93 days (~3 months) |
 
 Additionally, bearers of osu!supporter are granted more lenient beatmap download limits.
 
@@ -116,6 +119,8 @@ After obtaining osu!supporter, some visual and aural elements of the osu! interf
 | `seeya.wav` | The "see ya next time" sample that plays when the game shuts down |
 
 For details, see [Skinning/Interface § Main menu](/wiki/Skinning/Interface#main-menu) and [Skinning/Sounds § Main menu](/wiki/Skinning/Sounds#main-menu).
+
+In osu!(lazer) supporters can also choose to display the background or video of the currently playing beatmap in the main menu via the "Background source" option in settings.
 
 ### Extended search
 

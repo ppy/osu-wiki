@@ -104,6 +104,9 @@ osu! oferuje donatorom zwiększone limity różnych funkcji online:
 | Rozmiar zespołu | 8 | `8 + 4 * liczba donatorów w zespole`, aż do **256** |
 | Liczba ulubionych beatmap | 100 | 1000 |
 | Liczba znajomych | 500 | 1000 |
+| Maksymalna liczba przypiętych wyników na profilu | 10 | 50 |
+| Maksymalna liczba jednocześnie otwartych gier w trybie asynchronicznym | 1 | 5 |
+| Maksymalna długość gry asynchronicznej | 14 dni (2 tygodnie) | 93 dni (około 3 miesiące) |
 
 Dodatkowo donatorzy osu! zyskują dostęp do większej szybkości pobierania beatmap.
 
@@ -119,6 +122,8 @@ Posiadanie status donatora osu! daje graczowi możliwość modyfikacji niektóry
 | `seeya.wav` | Dźwięk "see ya next time" odtwarzany przy zamykaniu gry |
 
 Więcej informacji można znaleźć w artykułach [Tworzenie skórek/Interfejs § Menu główne](/wiki/Skinning/Interface#main-menu) oraz [Tworzenie skórek/Dźwięki § Menu główne](/wiki/Skinning/Sounds#main-menu).
+
+W osu!(lazer) donatorzy ponadto mogą wybrać opcję wyświetlania tła lub wideo z obecnie odtwarzanej beatmapy w głównym menu za pośrednictwem opcji "Źródło tła" w ustawieniach.
 
 ### Rozszerzenie wyszukiwarki beatmap
 
