@@ -15,7 +15,7 @@ tags:
 
 ![Half Time Modsymbol](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/HT.png?1)
 
-*Weniger zoom...*
+*Weniger wusch...*
 
 |  |  |
 | :-- | :-- |

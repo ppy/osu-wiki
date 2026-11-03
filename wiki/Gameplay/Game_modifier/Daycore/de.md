@@ -14,7 +14,7 @@ tags:
 
 ![Daycore Modsymbol](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/DC.png?1)
 
-*Whoaaaaa...*
+*Uuiiih...*
 
 |  |  |
 | :-- | :-- |
