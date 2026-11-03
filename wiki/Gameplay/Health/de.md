@@ -20,23 +20,23 @@ Sprünge in der Punktzahl gibt es, nachdem Hit-Circles getroffen wurden, wobei d
 
 Wiederherstellung der Gesundheit:
 
-- Erfolgreiches Anklicken eines Hit-Circles (eine bessere [Beurteilung](/wiki/Gameplay/Judgement) führt zu einem größeren Lebensgewinn; der letzte Hit-Circle in einer Farb-Combo gewährt mehr Gesundheit)
-- Erfolgreiches Anklicken eines Sliderstarts
+- erfolgreiches Anklicken eines Hit-Circles (eine bessere [Beurteilung](/wiki/Gameplay/Judgement) führt zu einem größeren Lebensgewinn; der letzte Hit-Circle in einer Farb-Combo gewährt mehr Gesundheit)
+- erfolgreiches Anklicken eines Sliderstarts
 - Der Sliderball sammelte erfolgreich einen Slidertick
 - Der Sliderball berührte erfolgreich das Sliderende oder einen Umkehrpfeil (eine bessere Beurteilung beim letzten Tick führt zu einem größeren Lebensgewinn)
-- Einen Spinner abschließen und ihn weiterdrehen (eine bessere Beurteilung am Ende des Spinners führt zu einem größeren Lebensgewinn)
+- einen Spinner abschließen und ihn weiterdrehen (eine bessere Beurteilung am Ende des Spinners führt zu einem größeren Lebensgewinn)
 
 Rückgang der Gesundheit:
 
 - Health-Drain
-- Einen Hit-Circle verfehlen
-- Einen Sliderhead zu früh anklicken
-- Einen Slidertick oder Slider-Umkehrpfeil verfehlen
-- Weniger als eine 50 auf einem Spinner erreichen
+- einen Hit-Circle verfehlen
+- einen Sliderhead zu früh anklicken
+- einen Slidertick oder Slider-Umkehrpfeil verfehlen
+- weniger als eine 50 auf einem Spinner erreichen
 
 Kein Effekt:
 
-- Pause
+- Pausen
 
 ## osu!taiko
 
@@ -46,11 +46,11 @@ Sprünge in der Punktzahl entstehen nach dem Treffen von Noten, wobei die Änder
 
 Wiederherstellung der Gesundheit:
 
-- Ein 'Great' oder 'Good' auf kleinen/großen Noten
+- ein 'Great' oder 'Good' auf kleinen/großen Noten
 
 Rückgang der Gesundheit:
 
-- Ein 'Miss' oder ein 'Bad' auf kleinen/großen Noten
+- ein 'Miss' oder ein 'Bad' auf kleinen/großen Noten
 - Dendens nicht abschließen
 - Shakers nicht abschließen
 
@@ -83,7 +83,7 @@ Rückgang der Gesundheit:
 
 Kein Effekt:
 
-- Pause
+- Pausen
 
 ## osu!mania
 
@@ -93,9 +93,9 @@ Sprünge in der Punktzahl gibt es, nachdem Noten getroffen wurden, wobei die Än
 
 Wiederherstellung der Gesundheit:
 
-- Eine Rainbow 300, 300 oder 200 (von am meisten bis am wenigsten gewonnen)
-- Eine Hold-Note mit der richtigen Taste halten
+- eine Rainbow 300, 300 oder 200 (von am meisten bis am wenigsten gewonnen)
+- eine Hold-Note mit der richtigen Taste halten
 
 Rückgang der Gesundheit:
 
-- Eine 50 oder ein Miss
+- eine 50 oder ein Miss
