@@ -7,7 +7,7 @@ series: community_contests
 
 The holidays are approaching, and that means another osu!mania Secret Santa Contest!
 
-![](https://assets.ppy.sh/contests/297/banner.jpg)
+![](/wiki/shared/news/2026-11-03-osumania-secret-santa-2026/banner.jpg)
 
 The **osu!mania Secret Santa Contest 2026** is an osu!mania mapping contest where mappers create beatmaps based on a randomly received short text prompt from another mapper. And this year, we're opening it up so that mappers who missed the prompt submission deadline can still participate in the mapping contest via *judge-written prompts*!
 
@@ -84,10 +84,10 @@ Note that all submissions will be anonymised before they're reviewed by judges t
 
 To receive a prompt from another user for your beatmap, you must submit a prompt via the **[prompt submission form](https://forms.gle/9fUw67kiExr8TTaY7)** by the draft deadline (November 10th). Any revisions must also be submitted via this form by the revision deadline (November 12th).
 
-You may submit your beatmap through the **[contest page](https://osu.ppy.sh/community/contests/297)**. You are allowed to resubmit your entry anytime before the mapping phase has ended.
+You may submit your beatmap through the **[contest page](https://mappersguild.com/contests/listing?contest=6ae9370a234e251a6af18929)**. You are allowed to resubmit your entry anytime before the mapping phase has ended.
 
 - When you've finished mapping, package your map in the editor via `File > Export Package`, which creates a `.osz` file.
-- Once exported, drag and drop the `.osz` file onto the submission box in the [contest page](https://osu.ppy.sh/community/contests/297).
+- Once exported, drag and drop the `.osz` file onto the submission box in the [contest page](https://mappersguild.com/contests/listing?contest=6ae9370a234e251a6af18929).
 
 ---
 
