@@ -41,8 +41,8 @@ The Catch Indonesia Cup Open 2026 is run by various osu! community members from 
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=ID }:: [Intel21](https://osu.ppy.sh/users/1272422), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898) |
-| Mappool selector | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=TW }:: [Beepu](https://osu.ppy.sh/users/4958376), ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) |
-| Custom mapper | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), ::{ flag=ID }:: [dika312](https://osu.ppy.sh/users/741613), ::{ flag=ID }:: [Sololiquy](https://osu.ppy.sh/users/4350087), ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=CO }:: [\[ Azu- \]](https://osu.ppy.sh/users/8290364), *more TBA* |
+| Mappool selector | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), ::{ flag=ID }:: [dika312](https://osu.ppy.sh/users/741613), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=TW }:: [Beepu](https://osu.ppy.sh/users/4958376), ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) |
+| Custom mapper | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), ::{ flag=ID }:: [dika312](https://osu.ppy.sh/users/741613), ::{ flag=ID }:: [Sololiquy](https://osu.ppy.sh/users/4350087), ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580), ::{ flag=VN }:: [-Miya](https://osu.ppy.sh/users/5978981), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=TW }:: [Beepu](https://osu.ppy.sh/users/4958376), ::{ flag=KR }:: [My Angel RangE](https://osu.ppy.sh/users/6336713), ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136), ::{ flag=DE }:: [DizzyOracel](https://osu.ppy.sh/users/32159666), ::{ flag=US }:: [Yoshi\_green](https://osu.ppy.sh/users/1035891), ::{ flag=CO }:: [\[ Azu- \]](https://osu.ppy.sh/users/8290364), *more TBA* |
 | Hitsounder | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [ArXe](https://osu.ppy.sh/users/14013313), ::{ flag=PH }:: [midorijeon](https://osu.ppy.sh/users/10969875), ::{ flag=IT }:: [Leomine](https://osu.ppy.sh/users/13277919) |
 | Playtester | ::{ flag=SG }:: [\[Eun\]](https://osu.ppy.sh/users/3788536), ::{ flag=FR }:: [Nelys](https://osu.ppy.sh/users/8422828), ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817), ::{ flag=FI }:: [Veeti](https://osu.ppy.sh/users/12863098), ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823), ::{ flag=US }:: [Elux](https://osu.ppy.sh/users/12004983), ::{ flag=CL }:: [Pekorrat](https://osu.ppy.sh/users/1250096) |
 | Streamer | ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=FI }:: [kimi321](https://osu.ppy.sh/users/6962961), ::{ flag=DE }:: [Gomen Yuuka](https://osu.ppy.sh/users/14050018) |
@@ -75,7 +75,7 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 | 1 | ::{ flag=AR }:: [SirGonzaxz](https://osu.ppy.sh/users/17309439) | 8.887 |
 | 2 | ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 8.807 |
 | 3 | ::{ flag=PE }:: [Boltico](https://osu.ppy.sh/users/5297904) | 8.743 |
-| 4 | ::{ flag=ID }:: [- N a g i -](https://osu.ppy.sh/users/2956936) | 8.706 |
+| 4 | ::{ flag=CN }:: [- N a g i -](https://osu.ppy.sh/users/2956936) | 8.706 |
 | 5 | ::{ flag=CO }:: [Juansy-](https://osu.ppy.sh/users/12588215) | 8.691 |
 | 6 | ::{ flag=CO }:: [HelpMePleasee](https://osu.ppy.sh/users/10835397) | 8.532 |
 | 7 | ::{ flag=CL }:: [Stark](https://osu.ppy.sh/users/1565036) | 8.530 |
@@ -107,48 +107,105 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here! (116 MB)](https://drive.google.com/file/d/1-UsReW-fkHN2qT9tewkiweRoBvU12lrD/view)**
+
+- No Mod
+  1. [void - Dedication (Beepu) \[Hollow Vow\]](https://osu.ppy.sh/beatmapsets/2647441#fruits/5979022)
+  2. [DJ Raisei - ReDIVE NEURON (Jemzuu) \[Unlucky\_w's Overdose\]](https://osu.ppy.sh/beatmapsets/2321611#fruits/5017095)
+  3. [meganeko - Moonflowers (DizzyOracel) \[fall into the night\]](https://osu.ppy.sh/beatmapsets/2647443#fruits/5979024)
+  4. [bibuko - Homework Crisis (Spectator) \[Let's Dash!!\]](https://osu.ppy.sh/beatmapsets/2647648#fruits/5979752)
+- Hidden
+  1. [YOASOBI - UNDEAD (Spectator) \[Crowley's Overdose\]](https://osu.ppy.sh/beatmapsets/2243054#fruits/4950436)
+  2. [Shikata Akiko - METHOD\_METAFALICA/. (Madoka Ayukawa) \[Mir\]](https://osu.ppy.sh/beatmapsets/2647422#fruits/5978979)
+  3. [YUC'e - POISON -KO3 Remix- (My Angel RangE) \[POISON -5- (CICO edit)\]](https://osu.ppy.sh/beatmapsets/2647408#fruits/5978926)
+- Hard Rock
+  1. [Mimori Suzuko - Light for Knight (-Miya) \[White Knight (HR Edit)\]](https://osu.ppy.sh/beatmapsets/2647424#fruits/5978981)
+  2. [Nanatsukaze - Sakura Rain (Sololiquy) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2647428#fruits/5978992)
+  3. [seatrus - Ataraxia (2020 Rework) (EpanPan) \[Eudaimonia\]](https://osu.ppy.sh/beatmapsets/2647427#fruits/5978988)
+- Double Time
+  1. [kessoku band - Re:Re: (Yumeno Himiko) \[atomic's Rain\]](https://osu.ppy.sh/beatmapsets/2330599#fruits/5002103)
+  2. [EmoCosine - Love Pills (Zvenx) \[Addiction\]](https://osu.ppy.sh/beatmapsets/2647438#fruits/5979014)
+  3. [Halozy - Three Magic (DiGiTAL WiNG TRANCE Remix) (BoberOfDarkness) \[rinkiha & Bober's Enchanted Love (CICO Edit)\]](https://osu.ppy.sh/beatmapsets/2647862#fruits/5981269)
+- Free Mod
+  1. [My Chemical Romance - Na Na Na (Na Na Na Na Na Na Na Na Na) (Zvenx) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2647440#fruits/5979020)
+  2. [*wakadori - NightTheater (Yoshi\_green) \[WinterRain\]](https://osu.ppy.sh/beatmapsets/2647442#fruits/5979023)
+- Tiebreaker
+  1. **[Helblinde - The Solace of Oblivion (Daletto) \[Daletto & Spec's Salvation in Bloodshed\]](https://osu.ppy.sh/beatmapsets/2647537#fruits/5979309)**
+
 ### Round of 32
 
 **[Download the mappack here! (113 MB)](https://drive.google.com/file/d/1CYfPV4hVFKiQUiZf6EXFYkx2f8CT2fXX/view)**
 
 - No Mod
-  1. [sheirara - RARARA (EpanPan) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2643612#osu/5966053)
-  2. [ak+q - Excelsia (EpanPan) \[Elysium\]](https://osu.ppy.sh/beatmapsets/2643620#osu/5966078)
-  3. [XL Project - THE DAMNED STALKERS (hy1hy1hy) \[Steven's ctb\]](https://osu.ppy.sh/beatmapsets/22037#osu/77930)
-  4. [yanaginagi - landscape (Spectator) \[overdose\]](https://osu.ppy.sh/beatmapsets/2644065#osu/5967481)
+  1. [sheirara - RARARA (EpanPan) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2643612#fruits/5966053)
+  2. [ak+q - Excelsia (EpanPan) \[Elysium\]](https://osu.ppy.sh/beatmapsets/2643620#fruits/5966078)
+  3. [XL Project - THE DAMNED STALKERS (hy1hy1hy) \[Steven's ctb\]](https://osu.ppy.sh/beatmapsets/22037#fruits/77930)
+  4. [yanaginagi - landscape (Spectator) \[overdose\]](https://osu.ppy.sh/beatmapsets/2644065#fruits/5967481)
 - Hidden
-  1. [Isekaijoucho - To the endless sky (Sololiquy) \[Memories\]](https://osu.ppy.sh/beatmapsets/2643627#osu/5966096)
-  2. [Boom Kitty - Cord Cutter (Zvenx) \[Epan say this is easy\]](https://osu.ppy.sh/beatmapsets/2643902#osu/5967007)
+  1. [Isekaijoucho - To the endless sky (Sololiquy) \[Memories\]](https://osu.ppy.sh/beatmapsets/2643627#fruits/5966096)
+  2. [Boom Kitty - Cord Cutter (Zvenx) \[Epan say this is easy\]](https://osu.ppy.sh/beatmapsets/2643902#fruits/5967007)
 - Hard Rock
-  1. [solfa feat. Ceui - Natsuiro Yakimochi Koi Moyou (ItzFfas) \[Precious Feeling\]](https://osu.ppy.sh/beatmapsets/2611984#osu/5850788)
-  2. [DOT96 - MAKE IT FUNKY NOW (hiroshiki) \[MAKE IT CATCH NOW\]](https://osu.ppy.sh/beatmapsets/2469196#osu/5407397)
+  1. [solfa feat. Ceui - Natsuiro Yakimochi Koi Moyou (ItzFfas) \[Precious Feeling\]](https://osu.ppy.sh/beatmapsets/2611984#fruits/5850788)
+  2. [DOT96 - MAKE IT FUNKY NOW (hiroshiki) \[MAKE IT CATCH NOW\]](https://osu.ppy.sh/beatmapsets/2469196#fruits/5407397)
 - Double Time
-  1. [ClariS - Colorful -season 03- (Fisicia) \[Vibrant Colors\]](https://osu.ppy.sh/beatmapsets/2643757#osu/5966484)
-  2. [Frums - the end of this world, and the girl who crossed the moon's oceans. (Cut Ver.) (fayew) \[rain\]](https://osu.ppy.sh/beatmapsets/2154917#osu/4541816)
-  3. [-45 - Guinevere (Madoka Ayukawa) \[Crystal Violet\]](https://osu.ppy.sh/beatmapsets/2643915#osu/5967036)
+  1. [ClariS - Colorful -season 03- (Fisicia) \[Vibrant Colors\]](https://osu.ppy.sh/beatmapsets/2643757#fruits/5966484)
+  2. [Frums - the end of this world, and the girl who crossed the moon's oceans. (Cut Ver.) (fayew) \[rain\]](https://osu.ppy.sh/beatmapsets/2154917#fruits/4541816)
+  3. [-45 - Guinevere (Madoka Ayukawa) \[Crystal Violet\]](https://osu.ppy.sh/beatmapsets/2643915#fruits/5967036)
 - Free Mod
-  1. [Tokyo Jihen - Sounan (Dedot) \[Lost\]](https://osu.ppy.sh/beatmapsets/2067609#osu/4325523)
-  2. [Mitsukiyo - Luminous Memory (Sololiquy) \[Memory [CICO edit]\]](https://osu.ppy.sh/beatmapsets/1927452#osu/5966129)
+  1. [Tokyo Jihen - Sounan (Dedot) \[Lost\]](https://osu.ppy.sh/beatmapsets/2067609#fruits/4325523)
+  2. [Mitsukiyo - Luminous Memory (Sololiquy) \[Memory [CICO edit]\]](https://osu.ppy.sh/beatmapsets/1927452#fruits/5966129)
 - Tiebreaker
-  1. **[Pratanallis feat. KOKOMI - Black Berserker (\[ Azu- \]) \[Darkness in Grace\]](https://osu.ppy.sh/beatmapsets/2643642#osu/5966131)**
+  1. **[Pratanallis feat. KOKOMI - Black Berserker (\[ Azu- \]) \[Darkness in Grace\]](https://osu.ppy.sh/beatmapsets/2643642#fruits/5966131)**
 
 ### Qualifiers
 
 **[Download the mappack here! (58 MB)](https://drive.google.com/file/d/18kD4tjWmEOHe_n5uKoANbueoUGZfnm3M/view)**
 
 - No Mod
-  1. [LV.4 feat. Yuu Ikeba - Sentimental Surge (Mojotax) \[Sensation\]](https://osu.ppy.sh/beatmapsets/2599185#osu/5809669)
-  2. [ARForest - Final Resonance (Sololiquy) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2639271#osu/5948755)
-  3. [Shounen Radio - neu (AnApple7) \[smile and cry; you and me!\]](https://osu.ppy.sh/beatmapsets/2337190#osu/5018067)
+  1. [LV.4 feat. Yuu Ikeba - Sentimental Surge (Mojotax) \[Sensation\]](https://osu.ppy.sh/beatmapsets/2599185#fruits/5809669)
+  2. [ARForest - Final Resonance (Sololiquy) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2639271#fruits/5948755)
+  3. [Shounen Radio - neu (AnApple7) \[smile and cry; you and me!\]](https://osu.ppy.sh/beatmapsets/2337190#fruits/5018067)
 - Hidden
-  1. [Mitsukiyo - Mikansei Romantic (feat. kotono) (sawarabi) \[Dramatic Love\]](https://osu.ppy.sh/beatmapsets/2464646#osu/5394778)
-  2. [Tanchiky - TouchDown (autofanboy) \[KickOff (CICO Edit)\]](https://osu.ppy.sh/beatmapsets/2639255#osu/5948698)
+  1. [Mitsukiyo - Mikansei Romantic (feat. kotono) (sawarabi) \[Dramatic Love\]](https://osu.ppy.sh/beatmapsets/2464646#fruits/5394778)
+  2. [Tanchiky - TouchDown (autofanboy) \[KickOff (CICO Edit)\]](https://osu.ppy.sh/beatmapsets/2639255#fruits/5948698)
 - Hard Rock
-  1. [Imy - Countdown (EpanPan) \[Eternal Time\]](https://osu.ppy.sh/beatmapsets/2639244#osu/5948656)
+  1. [Imy - Countdown (EpanPan) \[Eternal Time\]](https://osu.ppy.sh/beatmapsets/2639244#fruits/5948656)
   2. [NewJeans - Right Now (Spectator) \[Overdose (CICO Ver.)\]](https://osu.ppy.sh/beatmapsets/2639588#fruits/5951344)
 - Double Time
-  1. [yanaginagi - Outsider (Spectator) \[Lumi's Rain\]](https://osu.ppy.sh/beatmapsets/2271671#osu/4882744)
-  2. [YUC'e - Cappuchino (Dika312) \[Cozy Rain\]](https://osu.ppy.sh/beatmapsets/2639250#osu/5948691)
+  1. [yanaginagi - Outsider (Spectator) \[Lumi's Rain\]](https://osu.ppy.sh/beatmapsets/2271671#fruits/4882744)
+  2. [YUC'e - Cappuchino (dika312) \[Cozy Rain\]](https://osu.ppy.sh/beatmapsets/2639250#fruits/5948691)
+
+## Match results
+
+### Round of 32
+
+Saturday, 31 October 2026:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [dazzulay](https://osu.ppy.sh/users/1948043) ::{ flag=CN }:: | 0 | **5** | ::{ flag=HR }:: **[doddo](https://osu.ppy.sh/users/5166056)** | [#1](https://osu.ppy.sh/community/matches/122095956) |
+| Upper | **[Firu](https://osu.ppy.sh/users/10516547)** ::{ flag=MX }:: | **5** | 3 | ::{ flag=ES }:: [Sprint](https://osu.ppy.sh/users/13845399) | [#1](https://osu.ppy.sh/community/matches/122096977) |
+| Upper | [\[Romanos\]](https://osu.ppy.sh/users/4682813) ::{ flag=GR }:: | 3 | **5** | ::{ flag=CL }:: **[Smukur](https://osu.ppy.sh/users/6434318)** | [#1](https://osu.ppy.sh/community/matches/122097332) |
+| Upper | **[Juansy-](https://osu.ppy.sh/users/12588215)** ::{ flag=CO }:: | **5** | 0 | ::{ flag=TR }:: [shimu](https://osu.ppy.sh/users/14318796) | [#1](https://osu.ppy.sh/community/matches/122095955) |
+| Upper | [ElSkeffe](https://osu.ppy.sh/users/6283136) ::{ flag=BE }:: | 1 | **5** | ::{ flag=TW }:: **[- S H -](https://osu.ppy.sh/users/2548278)** | [#1](https://osu.ppy.sh/community/matches/122094485) |
+| Upper | **[Boltico](https://osu.ppy.sh/users/5297904)** ::{ flag=PE }:: | **5** | 0 | ::{ flag=HK }:: [my angel auto](https://osu.ppy.sh/users/29503627) | [#1](https://osu.ppy.sh/community/matches/122096271) |
+| Upper | **[SirGonzaxz](https://osu.ppy.sh/users/17309439)** ::{ flag=AR }:: | **5** | 0 | ::{ flag=NZ }:: [Cipse](https://osu.ppy.sh/users/7928880) | [#1](https://osu.ppy.sh/community/matches/122098676) |
+| Upper | [Lunati1kid](https://osu.ppy.sh/users/25723773) ::{ flag=PE }:: | 1 | **5** | ::{ flag=RU }:: **[Nerris](https://osu.ppy.sh/users/11202866)** | [#1](https://osu.ppy.sh/community/matches/122096597) |
+| Upper | **[-Rustyy](https://osu.ppy.sh/users/16355636)** ::{ flag=PH }:: | **5** | 4 | ::{ flag=BG }:: [Azakriel](https://osu.ppy.sh/users/30653081) | [#1](https://osu.ppy.sh/community/matches/122096263) |
+| Upper | **[Aryssiel](https://osu.ppy.sh/users/2389481)** ::{ flag=CL }:: | **5** | 3 | ::{ flag=RU }:: [smelly DVD box](https://osu.ppy.sh/users/6647589) | [#1](https://osu.ppy.sh/community/matches/122097330) |
+| Upper | [madcin](https://osu.ppy.sh/users/2957534) ::{ flag=PL }:: | 0 | **5** | ::{ flag=ID }:: **[Keita](https://osu.ppy.sh/users/3355617)** | *win by default* |
+
+Sunday, 1 November 2026:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[eauikk](https://osu.ppy.sh/users/1177233)** ::{ flag=TW }:: | **5** | 1 | ::{ flag=US }:: [trooperr](https://osu.ppy.sh/users/32028459) | [#1](https://osu.ppy.sh/community/matches/122099593) |
+| Upper | **[Stark](https://osu.ppy.sh/users/1565036)** ::{ flag=CL }:: | **5** | 1 | ::{ flag=MX }:: [Niisan](https://osu.ppy.sh/users/19515018) | [#1](https://osu.ppy.sh/community/matches/122101813) |
+| Upper | **[- N a g i -](https://osu.ppy.sh/users/2956936)** ::{ flag=CN }:: | **5** | 1 | ::{ flag=ES }:: [MusicDropZ](https://osu.ppy.sh/users/12759554) | [#1](https://osu.ppy.sh/community/matches/122100726) |
+| Upper | **[qwhj79](https://osu.ppy.sh/users/7547506)** ::{ flag=KR }:: | **5** | 1 | ::{ flag=FI }:: [ES Jonne](https://osu.ppy.sh/users/7024526) | [#1](https://osu.ppy.sh/community/matches/122100547) |
+| Upper | **[HelpMePleasee](https://osu.ppy.sh/users/10835397)** ::{ flag=CO }:: | **5** | 3 | ::{ flag=CN }:: [Cornet](https://osu.ppy.sh/users/18468376) | [#1](https://osu.ppy.sh/community/matches/122099442) |
 
 ## Ruleset
 
