@@ -206,7 +206,7 @@ Zusätzliche Richtlinien für *4 Key Insane* Schwierigkeiten:
 Zusätzliche Richtlinien für *7 Key Insane* Schwierigkeiten:
 
 - **Vermeide die Verwendung von 1/4-Jacks mit mehr als 3+ Noten in der Mitte eines Chordstreams.** Diese erfordern eine Fingerfertigkeit, die für Spieler dieses Niveaus zu schwierig ist.
-- **Vermeide die Überschreitung eines Durchschnitts von 7 Noten pro Beat während eines langen Chordstreams.** Noten, die sich über zwei Beats erstrecken zählen zum darauffolgenden oder zum vorherigen Beat, aber nicht zu beiden.
+- **Vermeide die Überschreitung eines Durchschnitts von 7 Noten pro Beat während eines langen Chordstreams.** Noten, die sich über zwei Beats erstrecken, zählen zum darauffolgenden oder zum vorherigen Beat, aber nicht zu beiden.
 - **Bracket-Streams sollten sparsam verwendet werden.**
 
 ### ![](/wiki/shared/diff/expert-m.png?20211215) Expert
