@@ -27,7 +27,7 @@ El campo de metadatos de los beatmaps se pueden comparar con valores específico
 | `=` | ![Sí][true] | ![Sí][true] | ![Sí][true] | Igual que |
 | `==` | ![No][false] | ![Sí][true] | ![No][false] | Igual que |
 | `:` | ![Sí][true] | ![No][false] | ![Sí][true] | Igual que |
-| `!=` | ![No][false] | ![Sí][true] | ![No][false] | No igual que |
+| `!=` | ![No][false] | ![Sí][true] | ![Sí][true] | No igual que |
 | `<` | ![Sí][true] | ![Sí][true] | ![Sí][true] | Menor que |
 | `>` | ![Sí][true] | ![Sí][true] | ![Sí][true] | Mayor que |
 | `<=` | ![Sí][true] | ![Sí][true] | ![Sí][true] | Menor que o igual que |
