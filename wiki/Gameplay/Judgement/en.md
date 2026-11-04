@@ -13,9 +13,7 @@ needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/9613
 
 These individual scores contribute to your overall accuracy for the map.
 
-## Game mode articles
 
-- [osu!](osu/)
 ## Game mode articles
 
 - [osu!](osu!)
