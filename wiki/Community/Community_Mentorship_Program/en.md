@@ -9,13 +9,17 @@ The **Community Mentorship Program** (CMP) is a way for inexperienced mappers to
 
 The program is currently organised through the [Mentorship Discord](/wiki/Community/Discord_servers#mapping-and-modding) and is managed in seasonal cycles. Each cycle is announced through a forum post and occasional cycles are advertised through front page news posts. Currently, applications for the program are managed through the [community mentorship website](https://osucmp.com/). Historical cycle information, including dates, previous mentor and mentee pairings, and per-person mentorship history can also be found on the website.
 
-The Community Mentorship Program is sometimes colloquially called "blue mentorship" or "official mentorship" to distinguish it from other community-run mentorships or individuals who mentor independently of the program. However, despite this distinction CMP is still entirely voluntarily organized.
+The Community Mentorship Program is sometimes colloquially called "blue mentorship" or "official mentorship" to distinguish it from other community-run mentorships or individuals who mentor independently of the program. However, despite this distinction CMP is still entirely voluntarily organised.
 
 ## Discord Information
 
 Anyone is able to [join the server](https://discord.com/invite/Ft2FtXmBgx) and participate in public channels such as a community lobby, mapping discussion threads, feedback threads, and several other channels. However, some functions of mentorship are directly between a mentor and mentee, and some channels are hidden for server members who have not been part of a mentorship cycle.
 
 Mentors can also choose to create classrooms, which are then added as private channels in the Discord server for them, their mentees, and any other mentors, mentees, or guests that they wish to have in the classroom.
+
+## Resources
+
+During cycles, mentors or organisers may choose to host events or contests. Some historical information and guides have been made available for everyone as learning resources. These archives cover a range of topics between mapping theory, specifics of certain tools, map analysis, and the ranking process.  Previous discussion archives are collected [on the CMP website's archive page](https://osucmp.com/discussions).
 
 ## History
 
@@ -29,37 +33,33 @@ This program was organised by [Ephemeral](https://osu.ppy.sh/users/102335), [Shi
 
 The current iteration of the Community Mentorship Program was started in August 2016, lead by [Yuii-](https://osu.ppy.sh/users/2935923) and [Okoayu](https://osu.ppy.sh/users/1623405), with a focus on osu! mapping. This sought to revive the, at the time, long-dormant preceding mentorship program. In its [first cycle](https://osu.ppy.sh/community/forums/topics/480428?n=1), mentors were expected to be members of the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) or [Quality Assurance Team](/wiki/People/Quality_Assurance_Team), with some case-by-case exceptions for external mentors. In the [second cycle](https://osu.ppy.sh/community/forums/topics/506906?n=1), mentor requirements were changed, allowing any community members to apply to become a mentor, as long as they had the required experience.
 
-In October, osu!catch started its [own mentorship program](https://osu.ppy.sh/community/forums/topics/506010?n=1). It was initially organized by [Ascendance](https://osu.ppy.sh/users/2931883), [ZiRoX](https://osu.ppy.sh/users/200768), and [JBHyperion](https://osu.ppy.sh/users/4879508). While sharing much of the same structure as osu! mentorship, all cycle schedules and Discord spaces were maintained separately from the osu! mentorship.
+In October, osu!catch started its [own mentorship program](https://osu.ppy.sh/community/forums/topics/506010?n=1). It was initially organised by [Ascendance](https://osu.ppy.sh/users/2931883), [ZiRoX](https://osu.ppy.sh/users/200768), and [JBHyperion](https://osu.ppy.sh/users/4879508). While sharing much of the same structure as osu! mentorship, all cycle schedules and Discord spaces were maintained separately from the osu! mentorship.
 
-In November, osu!taiko started their mentorship program, the [Taiko Community Mentorship Program](https://osu.ppy.sh/community/forums/topics/521416?n=1). It was organized by [Raiden](https://osu.ppy.sh/users/2239480), [DakeDekaane](https://osu.ppy.sh/users/1425253), and [OnosakiHito](https://osu.ppy.sh/users/290128). Like osu!catch, the Taiko Community Mentorship was initially organized separately.  
+In November, osu!taiko started their mentorship program, the [Taiko Community Mentorship Program](https://osu.ppy.sh/community/forums/topics/521416?n=1). It was organised by [Raiden](https://osu.ppy.sh/users/2239480), [DakeDekaane](https://osu.ppy.sh/users/1425253), and [OnosakiHito](https://osu.ppy.sh/users/290128). Like osu!catch, the Taiko Community Mentorship was initially organised separately.  
 
 ### 2017
 
-Beginning with the [2017 Fall Cycle](https://osu.ppy.sh/community/forums/topics/617542?n=1), the osu! and osu!catch mentorship programs were merged into one shared organization and cycle schedule. This was the fifth cycle for osu!, and fourth for osu!catch, but only the osu! cycle numbering would be used going forward to avoid any confusion.
+Beginning with the [2017 Fall Cycle](https://osu.ppy.sh/community/forums/topics/617542?n=1), the osu! and osu!catch mentorship programs were merged into one shared organisation and cycle schedule. This was the fifth cycle for osu!, and fourth for osu!catch, but only the osu! cycle numbering would be used going forward to avoid any confusion.
 
 In the following [2017 Winter Cycle](https://osu.ppy.sh/community/forums/topics/650607?n=1) osu!taiko was also merged in with the osu! and osu!catch mentorship. All three mentorship programs were merged and would be run as one program moving forward.
 
 ### 2018
 
-With the [2018 Spring Cycle](https://osu.ppy.sh/community/forums/topics/689250?n=1) osu!mania was added to the program, with mode-specific organizational help from [Asherz007](https://osu.ppy.sh/users/9014047). In future cycles, whether a mode would be an option for hopeful mentees would depend on mentor availability.
+With the [2018 Spring Cycle](https://osu.ppy.sh/community/forums/topics/689250?n=1) osu!mania was added to the program, with mode-specific organisational help from [Asherz007](https://osu.ppy.sh/users/9014047). In future cycles, whether a mode would be an option for hopeful mentees would depend on mentor availability.
 
 ### 2020
 
-[Modding Mentorship](https://osu.ppy.sh/community/forums/topics/1140587?n=1) was begun as an independent program, organized by [Nayah](https://osu.ppy.sh/users/5226970), and was immediately available for all game modes. The program was described as aimed to help both those aiming to become generally better modders, as well as to help those who would like to apply for Beatmap Nominator.
+[Modding Mentorship](https://osu.ppy.sh/community/forums/topics/1140587?n=1) was begun as an independent program, organised by [Nayah](https://osu.ppy.sh/users/5226970), and was immediately available for all game modes. The program was described as aimed to help both those aiming to become generally better modders, as well as to help those who would like to apply for Beatmap Nominator.
 
 ### 2022
 
 Starting with the [20th iteration of the program, the 2022 Winter Cycle](https://osu.ppy.sh/community/forums/topics/1472007?n=1), the Modding Mentorship was merged into the Community Mentorship Program. While mapping mentors frequently teach mentees modding during a community mentorship cycle, the merge of Modding Mentorship allowed an explicit focus for mentors and mentees hoping to more directly focus on modding itself. Those hoping to become mentors or mentees became able apply for those specific focuses. Mentor listings distinguish whether they are modding or mapping focused for cycles from this point onward.
 
-Also in the 20th iteration, storyboarding was added as a fifth mentorship option. Specific to Storyboarding, mentors and mentees could also choose between technical and creative focuses. This difference from mapping options was added due to the breadth of different fields covered in storyboarding, from graphic design, to animation, to programming. Due to this difference, Storyboard mentor applications were done through a separate form from mapping and modding. The initial design and rollout of the storyboarding addition was organized by [Noffy](https://osu.ppy.sh/users/1541323) and [PoNo](https://osu.ppy.sh/users/4610047).
+Also in the 20th iteration, storyboarding was added as a fifth mentorship option. Specific to Storyboarding, mentors and mentees could also choose between technical and creative focuses. This difference from mapping options was added due to the breadth of different fields covered in storyboarding, from graphic design, to animation, to programming. Due to this difference, Storyboard mentor applications were done through a separate form from mapping and modding. The initial design and rollout of the storyboarding addition was organised by [Noffy](https://osu.ppy.sh/users/1541323) and [PoNo](https://osu.ppy.sh/users/4610047).
 
 ### 2026
 
-The [mentorship website](https://osucmp.com/) was launched, making historical pairing information accessible to non-organizers, and moving the application system off of Google Forms. Prior to the website becoming available, all cycle and pairing information was managed through a series of Google Forms and Google Spreadsheets.
-
-## Resources
-
-During cycles, mentors or organizers may choose to host events or contests. Some historical information and guides have been made available for everyone as learning resources. These archives cover a range of topics between mapping theory, specifics of certain tools, map analysis, and the ranking process.  Previous discussion archives are collected [on the CMP website's archive page](https://osucmp.com/discussions).
+The [mentorship website](https://osucmp.com/) was launched, making historical pairing information accessible to non-organisers, and moving the application system off of Google Forms. Prior to the website becoming available, all cycle and pairing information was managed through a series of Google Forms and Google Spreadsheets.
 
 ## Cycles
 
