@@ -42,7 +42,7 @@ And all participants receive the most wondrous prize of all: the gift of giving!
 
 | Category | Details |
 | :-: | :-- |
-| Prompt (10) | How well the beatmap responds to the given text prompt.|
+| Prompt (10) | How well the beatmap responds to the given text prompt. |
 | Creativity (10) | How artfully crafted and expressed the beatmap is. |
 | Gameplay (10) | How engaging the beatmap is, and how enhancing it is to the experience of playing along to the music. |
 | Musical Representation (10) | How properly the beatmap follows the music's macro- and micro-level structures (i.e. form, repetitions), sounds and/or sound contours (applicable for dumps), etc. |
