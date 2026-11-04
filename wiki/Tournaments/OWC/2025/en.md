@@ -421,7 +421,7 @@ Sunday, 30 November 2025:
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/17kagjqYqpy9issTyfcntSALTQrOyU7S9Um1TU-vZ2A0?rm=minimal).
 
-Friday, 22 November 2025:
+Friday, 21 November 2025:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |

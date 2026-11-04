@@ -1,7 +1,5 @@
 ---
 outdated: true
-outdated_translation: true
-outdated_since: 2e46133ccf2d05a25afff2cb36d5807952acc562
 ---
 
 # Geschichte von osu!
@@ -12,8 +10,8 @@ Aufzeichnungen der Geschichte von osu!, alle im osu!-Wiki.
 | :-: | :-- |
 | [2007](2007) | Anfängliche Spielentwicklung |
 | [2008](2008) | osu!taiko, osu!catch, mehr Mods und wesentliche Verbesserungen |
-| [2009](2009) | osu! iPhone |
-| 2010 | *Undokumentiert* |
+| [2009](2009) | osu! iPhone, neue Mehrspieler-Modi, Kudosu-System |
+| [2010](2010) | Wai-con 2010 |
 | [2011](2011) | osu!-Wiki |
 | [2012](2012) | Fünf Jahre osu!, osu!mania, Breitbildunterstützung und visuelle Einstellungen |
 | [2013](2013) | Überarbeitung der UI, HD-Skins, verbesserte Breitbildunterstützung, osu!mania-Editor, Sammlungen im Spiel, moddingV2 wurde vorgestellt, Disqus, osu!api, Overlays für Genauigkeit, Comic Fiesta 2013, unbegrenzte Downloads und osu!cuttingedge (nur für osu!supporter) |
@@ -33,3 +31,4 @@ Aufzeichnungen der Geschichte von osu!, alle im osu!-Wiki.
 - [Geschichte der Online-Ranglisten](Online_rankings)
 - [Mitarbeiter-Log](/wiki/People/Staff_log)
 - [Geschichte der osu!-Turniere](/wiki/Tournaments)
+- [Vergangene Artikel aus dem osu!store](/wiki/Past_osu!store_items)

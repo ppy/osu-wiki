@@ -53,7 +53,7 @@ simple, yet they give another nice touch to the whole beatmap! The only thing wh
 guitar part didn't get mapped, I think if that part would've been mapped the map would've been even more fun!
 Though, as I already said, the map is quite fun already, that's also why I'm mentioning it here!
 
-- [DJ S3RL feat. Tamika - Rainbow Girl](https://osu.ppy.sh/beatmapsets/67105) by [[Te][Amo]](https://osu.ppy.sh/users/602695)
+- [DJ S3RL feat. Tamika - Rainbow Girl](https://osu.ppy.sh/beatmapsets/67105) by [\[Te\]\[Amo\]](https://osu.ppy.sh/users/602695)
 
 This beatmap is simply a masterpiece. Even though most of you might find the beatmap a bit simple and easy, the
 storyboard makes this something incredibly awesome! It's just spectacular how this beatmap plays well along with

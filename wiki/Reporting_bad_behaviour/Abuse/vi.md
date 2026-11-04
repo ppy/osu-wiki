@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: e7163973aa4c854dcc0455e3f696b608bf0852f7
+---
+
 # Báo cáo lạm dụng
 
 ## Tôi không biết liệu mình có nên báo cáo điều này hay không

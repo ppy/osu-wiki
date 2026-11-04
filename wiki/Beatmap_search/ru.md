@@ -57,7 +57,7 @@ tags:
 | `status` | Статус карты. Может быть равен `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, `loved`, для краткости — `r`/`a`/`p`/`n`/`u`/`l` |
 | `played` | Время, прошедшее с последней попытки (в днях) |
 | `unplayed` | Только несыгранные карты. С этим полем нужно использовать пустое сравнение (т.е. `unplayed=`). Сам результат сравнения игнорируется |
-| `speed` | Сохранённая скорость прокрутки osu!mania. Она равна 0, если карта ещё не была сыграна, или если выключена настройка [`Remember osu!mania scroll speed per beatmap (Своя скорость прокрутки osu!mania)`](/wiki/Client/Options#gameplay) |
+| `speed` | Сохранённая скорость прокрутки osu!mania. Она равна 0, если карта ещё не была сыграна, или если выключена настройка [`Remember osu!mania scroll speed per beatmap (Своя скорость прокрутки osu!mania)`](/wiki/Client/Options#игра) |
 
 ## Веб-сайт[^website-filters]
 

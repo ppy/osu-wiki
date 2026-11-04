@@ -94,7 +94,7 @@ This article details the major events in the **history of the osu! wiki** from t
 #### June
 
 - **Unknown date:** ::{ flag=PL }:: [TPGPL](https://osu.ppy.sh/users/3944705) was given a special write-access to the osu! wiki repository.
-- **Unknown date:** [Search functionality](https://github.com/ppy/osu-web/pull/2331) was added to the wiki.
+- **2017-06-19:** [Search functionality](https://github.com/ppy/osu-web/pull/1259) was added to the wiki.
 
 ### 2018
 
@@ -116,3 +116,10 @@ This article details the major events in the **history of the osu! wiki** from t
 
 - **2021-08-08:** [Gallery support](https://github.com/ppy/osu-web/pull/8126) was added to the wiki.
 - **2021-08-12:** [Footnotes](https://github.com/ppy/osu-web/pull/8125) were added to the wiki.
+
+### 2026
+
+#### July
+
+- **2026-07-06:** To make hatnotes more prominent, [styled alerts](https://github.com/ppy/osu-web/pull/13079) were added which would display them with a symbol and a coloured vertical line at the left side.
+- **2026-07-30:** A [user card component](https://github.com/ppy/osu-web/pull/13125) was added which would display a user card with various user statistics when hovering over the profile link, similar to the `[profile]` [BBCode](/wiki/BBCode) tag.

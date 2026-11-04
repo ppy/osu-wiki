@@ -5,6 +5,8 @@ tags:
   - passive drain rate
   - дрейн
   - хп
+outdated_translation: true
+outdated_since: fb3e12eefb4f46a4c14a539098d3031b2d63e457
 ---
 
 # HP drain rate

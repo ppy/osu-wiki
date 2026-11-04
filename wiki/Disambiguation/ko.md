@@ -18,6 +18,7 @@ no_native_review: true
 - [모드](Mod)
 - [NC](NC)
 - [NM](NM)
+- [Note](Note)
 - [osu!](osu!)
 - [Ouendan](Ouendan)
 - [랭크](Rank)

@@ -1,4 +1,4 @@
-# 2008
+# Sejarah osu! 2008
 
 ![](img/2008.jpg)
 
@@ -32,7 +32,7 @@ Mode [Taiko](/wiki/Game_mode/osu!taiko) pertama kali memperlihatkan eksistensiny
 
 ## Juni
 
-Pencapaian utama dalam sejarah osu! dicapai dengan penambahan mode permainan [Multi (multiplayer)](/wiki/Client/Interface/Multiplayer). Opsi skinning lebih diperluas lebih lanjut mengenai grafik dan suara. Terakhir, obrolan multi-channel dapat dilakukan untuk pertama kalinya.
+Pencapaian utama dalam sejarah osu! dicapai dengan penambahan mode permainan [Multi (multiplayer)](/wiki/Gameplay/Multiplayer). Opsi skinning lebih diperluas lebih lanjut mengenai grafik dan suara. Terakhir, obrolan multi-channel dapat dilakukan untuk pertama kalinya.
 
 ## Juli
 

@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: c33493a68ff0fd04d12d4432725bb13745b06696
 ---
 
 # Critères de classement d'osu!mania

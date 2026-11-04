@@ -11,8 +11,8 @@ Los *objetos* son elementos donde los jugadores pueden interactuar jugando un [b
 
 | [osu!](/wiki/Game_mode/osu!) | [osu!taiko](/wiki/Game_mode/osu!taiko) | [osu!catch](/wiki/Game_mode/osu!catch) | [osu!mania](/wiki/Game_mode/osu!mania) |
 | :-: | :-: | :-: | :-: |
-| [Círculos](/wiki/Gameplay/Hit_object/Hit_circle) | [Don y Kat](/wiki/Gameplay/Hit_object/Hit) | [Frutas](/wiki/Gameplay/Hit_object/Fruit) | Notas |
-| [Sliders](/wiki/Gameplay/Hit_object/Slider) | [Redobles de tambor](/wiki/Gameplay/Hit_object/Drumroll) | [Corriente de jugo](/wiki/Gameplay/Hit_object/Juice_stream) | Notas largas |
+| [Círculos](/wiki/Gameplay/Hit_object/Hit_circle) | [Don y Kat](/wiki/Gameplay/Hit_object/Hit) | [Frutas](/wiki/Gameplay/Hit_object/Fruit) | [Notas](/wiki/Gameplay/Hit_object/Note) |
+| [Sliders](/wiki/Gameplay/Hit_object/Slider) | [Redobles de tambor](/wiki/Gameplay/Hit_object/Drumroll) | [Corriente de jugo](/wiki/Gameplay/Hit_object/Juice_stream) | [Notas largas](/wiki/Gameplay/Hit_object/Hold_note) |
 | [Spinners](/wiki/Gameplay/Hit_object/Spinner) | [Swells](/wiki/Gameplay/Hit_object/Swell) | [Plátanos](/wiki/Gameplay/Hit_object/Banana) | x |
 | x | x | [Hiperfrutas](/wiki/Gameplay/Hit_object/Hyperfruit) | x |
 

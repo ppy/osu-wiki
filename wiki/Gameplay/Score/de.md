@@ -1,6 +1,8 @@
 # Punktzahl
 
-*Siehe auch [Score (Begriffsabgrenzung)](/wiki/Disambiguation/Score).*
+::: alert-note
+**Anmerkung:** [Score (Begriffsabgrenzung)](/wiki/Disambiguation/Score).
+:::
 
 Die Punktzahl eines Spielers nach dem erfolgreichen Abschluss einer [Beatmap](/wiki/Beatmap) hängt von den [Beurteilungen](/wiki/Gameplay/Judgement), die der Spieler bei jedem [Hit-Objekt](/wiki/Gameplay/Hit_object) erzielt, ab. Allgemein gibt es zwei Hauptversionen des Punktesystems.
 
@@ -25,4 +27,4 @@ ScoreV2 bezeichnet die neue Version des Punktesystems. Die Idee hinter der Weite
 
 Neben der von ScoreV2 erreichten Standardisierung zwischen den Spielmodi umgeht dieses neue Punktesystem auch ein [Überlaufproblem (Integer Overflow)](https://de.wikipedia.org/wiki/Arithmetischer_%C3%9Cberlauf#Ganzzahl%C3%BCberlauf), von dem lange bzw. Combo-intensive Beatmaps betroffen sein können. Da die Gesamtpunktzahl als eine 32-Bit-Ganzzahl gespeichert wird und die Punktzahl durch ScoreV1 theoretisch unendlich hoch sein kann, kommt es bei der Überschreitung der maximal mit 32 Bit darstellbaren Zahl von 2.147.483.647 Punkten zu einem Überlauf in den negativen Zahlenbereich (ergo, die Punktzahl nimmt ab diesem Punkt wieder ab). Für lange Beatmaps mit einem theoretischen Punktzahlmaximum über dem Grenzwert für 32-Bit-Ganzzahlen wird in der Praxis automatisch ScoreV2 verwendet.
 
-ScoreV2 ist nicht standardmäßig aktiviert. Im Einzelspielermodus kann es aber durch den nicht-gerankten Spielmodifikator [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) aktiviert werden. Im [Multiplayer](/wiki/Client/Interface/Multiplayer) kann ScoreV2 im Match-Setup unter `Win Condition` eingestellt werden.
+ScoreV2 ist nicht standardmäßig aktiviert. Im Einzelspielermodus kann es aber durch den nicht-gerankten Spielmodifikator [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) aktiviert werden. Im [Multiplayer](/wiki/Gameplay/Multiplayer) kann ScoreV2 im Match-Setup unter `Win Condition` eingestellt werden.

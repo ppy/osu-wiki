@@ -2,8 +2,6 @@
 stub: true
 tags:
   - BL
-outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Blinds（模组）
@@ -14,7 +12,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 
 #### Blinds
 
-![Blinds 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/BL.png)
+![Blinds 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/BL.png?1)
 
 *在屏幕上添加盲区。*
 
@@ -24,16 +22,22 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | 类别 | 增加难度 |
 | 默认快捷键 | `K` |
 | 游戏模式 | ![][osu!] |
-| 得分系数 | `1.12x` |
-| 状态 | 计入排名 |
+| 得分倍率 | 见[计分](#计分) |
+| 状态 | 可计表现分 |
 | 不兼容的模组 | [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) |
 
 :::
 
-*对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**注:** 对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
-**Blinds** 模组将整个屏幕用[障子门](https://zh.wikipedia.org/wiki/%E9%9A%9C%E5%AD%90)覆盖，使玩家无法看到后面的物件。玩家获得的 Miss 越多，门开得就越大，连击数累计的效果则相反。
+**Blinds** 模组将整个[游戏区域](/wiki/Client/Playfield)用[障子门](https://zh.wikipedia.org/wiki/%E9%9A%9C%E5%AD%90)覆盖，使玩家无法看到门后的[打击物件](/wiki/Gameplay/Hit_object)。玩家的[血量](/wiki/Gameplay/Health)越低，门开得就越大，反之亦然。出于这个原因，使用该模组获得的[表现分](/wiki/Performance_points)取决于[谱面](/wiki/Beatmap)的[掉血速度 (HP)](/wiki/Beatmap/HP_drain_rate)。
 
 **此模组不支持自定义。**
+
+## 计分
+
+Blinds 模组的分数倍率为 `1.24x`。但将其与 [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) 或 [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable) 并用时，后者的倍率将会降低至 `1.00x`。也就是说，Blinds、Hidden + Blinds 与 Traceable + Blinds 的得分倍率均为 `1.24x`。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

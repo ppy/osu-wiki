@@ -13,7 +13,7 @@ tags:
 
 #### Fade In
 
-![Fade In mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/FI.png)
+![Fade In mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/FI.png?1)
 
 *Keys appear out of nowhere!*
 
@@ -30,7 +30,7 @@ tags:
 :::
 
 ::: alert-note
-**Note:** For the osu!stable version of this article, see [Fade In (mod)](/wiki/Gameplay/Game_modifier/Fade_In)
+**Note:** For the osu!(stable) version of this article, see [Fade In (mod)](/wiki/Gameplay/Game_modifier/Fade_In)
 :::
 
 ::: alert-note

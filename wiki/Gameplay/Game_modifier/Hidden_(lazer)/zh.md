@@ -2,8 +2,6 @@
 stub: true
 tags:
   - HD
-outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Hidden（lazer 模组）
@@ -14,7 +12,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 
 #### Hidden
 
-![Hidden 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/HD.png)
+![Hidden 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/HD.png?1)
 
 *![][osu!] 没有缩圈，圆圈与滑条渐隐。*\
 *![][osu!taiko] 物件会在击打之前渐渐隐藏！*\
@@ -28,24 +26,57 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | 默认快捷键 ![][osu!] ![][osu!taiko] ![][osu!catch] | `H` |
 | 默认快捷键 ![][osu!mania] | `J` |
 | 游戏模式 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| 得分系数 ![][osu!] ![][osu!taiko] ![][osu!catch] | `1.06x` |
-| 得分系数 ![][osu!mania] | `1.00x` |
-| 状态 | 计入排名 |
+| 得分倍率 | 见[计分](#计分) |
+| 状态 | 可计表现分 |
 | 不兼容的模组 ![][osu!] | [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable), [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Approach_Different), [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Freeze_Frame), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
+| 不兼容的模组 ![][osu!taiko] ![][osu!catch] | 无 |
 | 不兼容的模组 ![][osu!mania] | [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)), [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover), [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) |
 
 :::
 
-*对于该文章的 osu!stable 版本，请见：[Hidden（模组）](/wiki/Gameplay/Game_modifier/Hidden)*\
-*对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**注:** 对于该文章的 osu!(stable) 版本，请见：[Hidden（模组）](/wiki/Gameplay/Game_modifier/Hidden)
+:::
 
-**Hidden** 模组移除了[缩圈](/wiki/Gameplay/Hit_object/Approach_circle)，让[打击圈](/wiki/Gameplay/Hit_object/Hit_circle)在屏幕上出现后渐隐。
+::: alert-note
+**注:** 对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
+
+**Hidden** 模组移除了游戏中的[缩圈](/wiki/Gameplay/Hit_object/Approach_circle)，让[打击圈](/wiki/Gameplay/Hit_object/Hit_circle)在屏幕上出现后渐隐。该模组的效果与 [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable) 模组相反。
 
 ## 自定义
 
 ![游戏客户端中 Hidden 模组的自定义设置](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/HD.png)
 
-- **仅隐藏缩圈**（默认禁用）：使缩圈不可见，但物件不会渐隐。
+该模组仅在 osu! 模式支持自定义。
+
+- `仅隐藏缩圈 (Only fade approach circles)` (默认禁用): 使缩圈不可见，但物件不会渐隐。
+
+启用该设置会导致分数**不计表现分**。
+
+## 计分
+
+### ![][osu!] osu!
+
+在 osu! 模式中，Hidden 模组的默认得分倍率为 `1.04x`。[^multiplier]
+
+- 若启用了`仅隐藏缩圈`，则将倍率降低 `0.02x`。
+- 若启用了 [Wiggle (WG)](/wiki/Gameplay/Game_modifier/Wiggle)、[Grow (GR)](/wiki/Gameplay/Game_modifier/Grow)、[Deflate (DF)](/wiki/Gameplay/Game_modifier/Deflate)、[Repel (RP)](/wiki/Gameplay/Game_modifier/Repel) 模组中的任意一个，则将倍率降低 `0.02x`。
+- 若启用了 [Blinds (BL)](/wiki/Gameplay/Game_modifier/Blinds) 模组，则忽略前两条规则，倍率设为 `1.00x`。
+
+举个例子，使用 Hidden、Grow 与 Repel 模组游玩时，Hidden 模组的得分倍率为 `1.02x`。
+
+### ![][osu!taiko] osu!taiko 与 ![][osu!catch] osu!catch
+
+在 osu!taiko 与 osu!catch 中，Hidden 的得分倍率为 `1.06x`。
+
+### ![][osu!mania] osu!mania
+
+在 osu!mania 中，Hidden 的得分倍率为 `1.00x`。
+
+## 参考
+
+[^multiplier]: [osu!(lazer) 源代码中的 `OsuScoreMultiplierCalculatorV2`](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Osu/Scoring/OsuScoreMultiplierCalculatorV2.cs#L141-L152)
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

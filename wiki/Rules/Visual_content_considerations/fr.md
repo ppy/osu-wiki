@@ -53,7 +53,9 @@ Dans certaines circonstances, des exceptions peuvent s'appliquer pour l'utilisat
 
 ## Faire évaluer votre image
 
-*Voir : [Processus de vote sur le contenu](/wiki/Rules/Content_voting_process).*
+::: alert-note
+**Voir également** : [Processus de vote sur le contenu](/wiki/Rules/Content_voting_process)
+:::
 
 Les images qui sont utilisées n'importe où sur le site en dehors d'une beatmap (avatars, couvertures de profil, pages d'utilisateur, etc.) ne sont **pas** soumises à la procédure de vote expliquée ci-dessous et peuvent être supprimées à tout moment à la discrétion de la Global Moderation Team.
 
