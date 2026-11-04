@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
   - up.ppy
   - up.ppy.sh
@@ -15,9 +14,9 @@ tags:
 
 ## Dienst
 
-upppy wurde als kostenlose, leichte Alternative zu proprietären Bild-Hostingdiensten wie beispielsweise [Rapidshare](https://de.wikipedia.org/wiki/Rapidshare) oder [ImageShack](https://de.wikipedia.org/wiki/ImageShack) entwickelt.[^upppy-image-hosting-ref]
+upppy wurde als kostenlose, leichte Alternative zu proprietären Bild-Hostingdiensten wie [Rapidshare](https://de.wikipedia.org/wiki/Rapidshare) oder [ImageShack](https://de.wikipedia.org/wiki/ImageShack) entwickelt.[^upppy-image-hosting-ref]
 
-Für die Nutzung des Dienstes war keine Registrierung erforderlich und jeder konnte gemäß den Nutzungsbedingungen anonym Dateien hochladen. Wie bei manchen [Imageboards](https://de.wikipedia.org/wiki/Imageboard) hatte der Nutzer beim Hochladen einer Datei die Wahl, einen Beitrag im Standard-Kanal (`#random`) oder in einem der spezifischeren Kanäle zu veröffentlichen:
+Für die Nutzung des Dienstes war keine Registrierung erforderlich und jeder konnte im Rahmen der Nutzungsbedingungen anonym Dateien hochladen. Wie bei manchen [Imageboards](https://de.wikipedia.org/wiki/Imageboard) hatten Nutzer beim Hochladen einer Datei die Wahl, den Upload im Standardkanal (`#random`) oder in einem der spezifischeren Kanäle zu veröffentlichen:
 
 - `#anime`
 - `#game`
@@ -30,11 +29,11 @@ Für die Nutzung des Dienstes war keine Registrierung erforderlich und jeder kon
 - `#video`
 - `#wallpaper`
 
-Sobald eine Datei veröffentlicht wurde, wurde sie zu einem festen Teil der Plattform und konnte vom hochladenden Nutzer weder gelöscht noch bearbeitet werden. Genauso wie auf [Reddit](/wiki/Community/Reddit) konnten Nutzer unter diesen Beiträgen Kommentare hinterlassen sowie eine positive oder negative Bewertung vergeben.
+Sobald eine Datei veröffentlicht wurde, wurde sie zu einem festen Bestandteil der Plattform und konnte vom hochladenden Nutzer weder gelöscht noch bearbeitet werden. Genauso wie auf [Reddit](/wiki/Community/Reddit) konnten Nutzer unter diesen Beiträgen Kommentare hinterlassen sowie positive oder negative Bewertungen vergeben.
 
 ## Stilllegung
 
-Da upppy in seinem Formular zum Hochladen von Dateien [Adobe Flash Player](https://de.wikipedia.org/wiki/Adobe_Flash#Flash_Player) nutzte, konnten aufgrund der [Produkteinstellung des Adobe Flash Player](https://www.adobe.com/de/products/flashplayer/end-of-life-alternative.html) ab dem 31. Dezember 2020 keine weiteren Dateien mehr hochgeladen werden, mit Ausnahme von Nutzern, die noch sehr alte Browser verwendeten. Anfang 2025 wurde die gesamte Webseite entfernt, sodass beim Aufruf nur noch eine Fehlerseite angezeigt wird.
+Da upppy in seinem Formular zum Hochladen von Dateien den [Adobe Flash Player](https://de.wikipedia.org/wiki/Adobe_Flash#Flash_Player) nutzte, konnten aufgrund der [Produkteinstellung des Adobe Flash Players](https://www.adobe.com/de/products/flashplayer/end-of-life-alternative.html) ab dem 31. Dezember 2020 keine neuen Dateien mehr hochgeladen werden, mit Ausnahme von Nutzern, die noch sehr alte Browser verwendeten. Anfang 2025 wurde die gesamte Webseite abgeschaltet, sodass beim Aufruf nur noch eine Fehlerseite angezeigt wird.
 
 ## Referenzen
 

@@ -87,7 +87,7 @@ The [beatmap description](/wiki/Beatmap/Beatmap_description) is a field editable
 
 - ...linking resources such as the background image's source or [hitsound samples](/wiki/Beatmapping/Hitsound) used.
 - ...linking to relevant media surrounding the song, such as its music video or the official website of the artist.
-- ...crediting other users for their contributions (e.g. [guest mappers](/wiki/Beatmap/Guest_difficulty), [modders](/wiki/Modding), [storyboarders](/wiki/Storyboard).
+- ...crediting other users for their contributions (e.g. [guest mappers](/wiki/Beatmap/Guest_difficulty), [modders](/wiki/Modding), [storyboarders](/wiki/Storyboard)).
 - ...trivia related to the beatmap (e.g. mapping milestones).
 
 ### Keywords

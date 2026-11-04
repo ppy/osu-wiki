@@ -2,8 +2,6 @@
 stub: true
 tags:
   - TC
-outdated_translation: true
-outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 ---
 
 # Traceable（模组）
@@ -24,8 +22,8 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 | 类别 | 增加难度 |
 | 默认快捷键 | `J` |
 | 游戏模式 | ![][osu!] |
-| 得分系数 | `1.00x` |
-| 状态 | 计入排名 |
+| 得分倍率 | 启用 [Blinds (BL)](/wiki/Gameplay/Game_modifier/Blinds) 时为 `1.00x`，否则为 `1.02x` |
+| 状态 | 可计表现分 |
 | 不兼容的模组 | [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)), [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Grow (GR)](/wiki/Gameplay/Game_modifier/Grow), [Deflate (DF)](/wiki/Gameplay/Game_modifier/Deflate), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
 
 :::
