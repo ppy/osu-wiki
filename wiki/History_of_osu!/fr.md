@@ -1,6 +1,7 @@
 ---
 outdated: true
 needs_cleanup: true
+no_native_review: true
 ---
 
 # Histoire de osu!
