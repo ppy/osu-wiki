@@ -19,7 +19,7 @@ The limit is your imagination!
 
 | Event | Dates |
 | --: | :-- |
-| Prompt submissions open | November 3rd, 2026 |
+| Prompt submissions open | November 5th, 2026 |
 | Prompt draft deadline | November 10th, 2026 (23:59 UTC) |
 | Prompt revision deadline | November 12th, 2026 (23:59 UTC) |
 | Mapping phase (3.5 weeks) | November 13th to December 6th, 2026 (23:59 UTC) |
