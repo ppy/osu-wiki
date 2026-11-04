@@ -134,7 +134,7 @@ Each [osu!mania](/wiki/Game_mode/osu!mania) [key mode](osu!mania#common-terms) a
   - Be snapped through a temporary change in [BPM](/wiki/Music_theory/Tempo).
 - **An object which is wrongly snapped due to passing through or ending slightly before a new [uninherited timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) must be snapped within the new timing section.**
   - For osu!, this does not apply to slider repeats and reverses, as they are passive objects.
-  - For osu!catch, slider repeats and reverses have to be snapped as they affect drop generation.
+  - For osu!catch, slider repeats and slider ends have to be snapped as they affect drop generation.
   - To fix unsnapped spinners and osu!mania long notes, this can be achieved through dragging the end of the object in the timeline. For sliders, this can be achieved through slider velocity manipulation or editing of the `.osu` file. 
 
 ## Audio
@@ -199,7 +199,8 @@ Each [osu!mania](/wiki/Game_mode/osu!mania) [key mode](osu!mania#common-terms) a
 
 ### Rules
 
-- **If you are using any elements created by another community member, ask permission beforehand.** Respecting the work of others is paramount and most people will be delighted to have their work featured in your projects! Thus, if you do not know who made the elements you plan on using, you must not use them.
+- **If you are using any elements created by another community member, ask permission beforehand.** Respecting the work of others is paramount and most people will be delighted to have their work featured in your projects!
+- **If you do not know who made the elements you plan on using, you must not use them.**
 - **[Gameplay elements](/wiki/Ranking_criteria/Skin_set_list) must be visible.** You cannot make any element that will impair the playability of the beatmap invisible as it will make the beatmap unintuitive or even impossible to play (`cursormiddle.png` is an exception as it affects the behaviour of cursor trail). Elements that are not relevant for gameplay may only be transparent if there is a valid reason for this and the action itself does not impair the usage of interface elements negatively.
 - **Skinned elements must be cropped cleanly so they do not have pixelated artifacts around them or half-cropped shadows.**
 - **Skinned elements cannot exceed dimensions to the point where they overlap other skin elements which they would not normally overlap in the default skin.** This applies only to the visible parts of an image, which could distort the gameplay experience by visually obstructing normally visible elements.

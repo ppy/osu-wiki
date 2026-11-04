@@ -12,7 +12,7 @@ tags:
 
 - Sistem chat, [sistem online presence](/wiki/Client/Interface/Chat_console#konsol-chat-yang-diperluas), dan [gateway IRC](/wiki/Community/Internet_Relay_Chat)
 - Mode [spectator](/wiki/Gameplay/Spectating)
-- [Sistem multiplayer](/wiki/Client/Interface/Multiplayer) dan [manajemen turnamen](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
+- [Sistem multiplayer](/wiki/Gameplay/Multiplayer) dan [manajemen turnamen](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
 
 ::: Infobox
 ![](img/connection-warning.png "Tangkapan layar menu utama yang menampilkan simbol koneksi yang bermasalah (pojok kanan bawah, simbol pertama)")

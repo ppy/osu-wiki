@@ -41,7 +41,7 @@ outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
 
 [遊戲模式](/wiki/Game_mode)：[osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[圖譜](/wiki/Beatmap) • [難度](/wiki/Beatmap/Difficulty) • [打擊物件](/wiki/Gameplay/Hit_object) • [Mod](/wiki/Gameplay/Game_modifier) • [分數](/wiki/Gameplay/Score) • [重播](/wiki/Gameplay/Replay) • [成就](/wiki/Medals) • [多人遊戲](/wiki/Client/Interface/Multiplayer)
+[圖譜](/wiki/Beatmap) • [難度](/wiki/Beatmap/Difficulty) • [打擊物件](/wiki/Gameplay/Hit_object) • [Mod](/wiki/Gameplay/Game_modifier) • [分數](/wiki/Gameplay/Score) • [重播](/wiki/Gameplay/Replay) • [成就](/wiki/Medals) • [多人遊戲](/wiki/Gameplay/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">

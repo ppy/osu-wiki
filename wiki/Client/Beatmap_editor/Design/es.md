@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: bb1e8272b293548e9bc5b82e756e86a6e09a5b3d
+---
+
 # Pestaña de diseño
 
 ![Pestaña de diseño](img/SE_base-ES.png "Pestaña de diseño")

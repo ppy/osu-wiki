@@ -37,6 +37,10 @@ The osu!catch World Cup 2026 offered a $2,000 cash prize pool and limited-editio
 
 ![](img/cwc2026-badge-1st.png "CWC 2026 winner badge") ![](img/cwc2026-badge-2nd.png "CWC 2026 2nd-place badge") ![](img/cwc2026-badge-3rd.png "CWC 2026 3rd-place badge")
 
+## Podium
+
+![](img/cwc2026-podium.jpg "CWC 2026 podium")
+
 ## Organisation
 
 The osu!catch World Cup 2026 was run by various community members.
@@ -116,10 +120,6 @@ The osu!catch World Cup 2026 was run by various community members.
 Captains are listed in **bold**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e99153d582c530823a55fa1beef737ec).
-
-## Podium
-
-![](img/cwc2026-podium.jpg "CWC 2026 podium")
 
 ## Match results
 

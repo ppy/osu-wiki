@@ -8,6 +8,8 @@ tags:
   - 支持者
   - 支持者标签
   - 撒泼特
+outdated_translation: true
+outdated_since: 26b4a6dcf86a0df96bed2c328f27ddec739ebd74
 ---
 
 <!--The strings on the website on line 154 have been updated as of https://github.com/ppy/osu-web/pull/9820. To update this page, also check if the corresponding strings on crowdin need to be updated.-->
@@ -85,7 +87,7 @@ tags:
 osu!direct 是供支持者使用的游戏内谱面搜索和下载引擎。可以在主菜单点击屏幕右侧垂直的 `osu!direct` 标识进入。除了一个内置的谱面列表，osu!direct 还提供其他不需要切出游戏就可以下载新谱面的方式：
 
 - 如果聊天窗口中的谱面链接指向 osu! 网页的谱面，可以直接在游戏内弹出下载提示
-- 可以在[多人游戏](/wiki/Client/Interface/Multiplayer)房间或[旁观](/wiki/Gameplay/Spectating)中使用的自动谱面下载器。这是一个游戏内的[可选设置](/wiki/Client/Options#关联)
+- 可以在[多人游戏](/wiki/Gameplay/Multiplayer)房间或[旁观](/wiki/Gameplay/Spectating)中使用的自动谱面下载器。这是一个游戏内的[可选设置](/wiki/Client/Options#关联)
 - 在被旁观时，可自动向 `#spectator` 聊天窗口发送当前谱面链接，这也是一个游戏内[可选设置](/wiki/Client/Options#提示与隐私)
 
 ### 额外排行榜

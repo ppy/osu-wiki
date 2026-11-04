@@ -8,6 +8,8 @@ tags:
   - модератор
   - модератор чата
   - модераторы
+outdated_translation: true
+outdated_since: e5f0364195b7a422f5889406dbc624eff7ca54a1
 ---
 
 # Команда глобальной модерации
