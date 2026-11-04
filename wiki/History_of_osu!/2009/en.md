@@ -34,7 +34,7 @@ osu! makes its way to the iPhone as a port done by [nuudles](https://osu.ppy.sh/
 
 The osu! website's FAQ became translatable and voluntary contributors helped in making the FAQ accessible in multiple languages.[^faq-localisation]
 
-In a huge update on January 26, osu! received many new features.[^stable-b593a] Among these changes were new multiplayer modes [Tag VS](/wiki/Client/Interface/Multiplayer#team-vs) and [Tag Team VS](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs), as well as password protection for multiplayer rooms. Objects in the storyboard editor became modifiable in new ways via the transformation options vector scaling and flipping. While playing, hit lighting effects would emphasise a hit by splashing colours on the playfield. Furthermore, song progress also became displayable in the form of a pie. Additionally, a new beatmap sorting mode "Last Played" was added to the [song select](/wiki/Client/Interface#song-select) screen.
+In a huge update on January 26, osu! received many new features.[^stable-b593a] Among these changes were new multiplayer modes [Tag VS](/wiki/Gameplay/Multiplayer#team-vs) and [Tag Team VS](/wiki/Gameplay/Multiplayer#tag-co-op-/-tag-team-vs), as well as password protection for multiplayer rooms. Objects in the storyboard editor became modifiable in new ways via the transformation options vector scaling and flipping. While playing, hit lighting effects would emphasise a hit by splashing colours on the playfield. Furthermore, song progress also became displayable in the form of a pie. Additionally, a new beatmap sorting mode "Last Played" was added to the [song select](/wiki/Client/Interface#song-select) screen.
 
 ## February
 

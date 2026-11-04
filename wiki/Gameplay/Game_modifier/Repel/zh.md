@@ -2,8 +2,6 @@
 stub: true
 tags:
   - RP
-outdated_translation: true
-outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 ---
 
 # Repel（模组）
@@ -23,8 +21,8 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 | 缩写 | RP |
 | 类别 | 娱乐 |
 | 游戏模式 | ![][osu!] |
-| 得分系数 | `1.00x` |
-| 状态 | 不计入排名 |
+| 得分倍率 | 见[计分](#计分) |
+| 状态 | 不计表现分 |
 | 不兼容的模组 | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)), [Transform (TR)](/wiki/Gameplay/Game_modifier/Transform), [Wiggle (WG)](/wiki/Gameplay/Game_modifier/Wiggle), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised), [Bubbles (BU)](/wiki/Gameplay/Game_modifier/Bubbles), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
 
 :::
@@ -40,5 +38,9 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 ![游戏客户端中的 Repel 自定义设置](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/RP.png)
 
 - `斥力强度 (Repulsion strength)` (0.05–1.0，默认 0.5): 光标排斥打击物件的强度。
+
+## 计分
+
+Repel 模组的分数倍率为 `1.00x`。但将其与 [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) 并用时，Hidden 模组的倍率将会降低 `0.02x`，参见 [Hidden (HD) § 计分](/wiki/Gameplay/Game_modifier/Hidden_(lazer)#计分).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

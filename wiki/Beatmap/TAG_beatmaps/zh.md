@@ -13,7 +13,7 @@ tags:
 
 *请勿与“标签”混淆，后者是[谱面元数据的一部分](/wiki/Client/Beatmap_editor/Song_setup)。*
 
-**接力 (TAG) 谱面** （或者就是 *TAG*）指的为是[多人游戏](/wiki/Client/Interface/Multiplayer)中的 [Tag co-op 或 Tag-team VS 模式](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs) 特制的谱面。正是如此，这些谱面通常需要多位玩家在多人游戏房间合作游玩才能完成。
+**接力 (TAG) 谱面** （或者就是 *TAG*）指的为是[多人游戏](/wiki/Gameplay/Multiplayer)中的 [Tag co-op 或 Tag-team VS 模式](/wiki/Gameplay/Multiplayer#tag-co-op-/-tag-team-vs) 特制的谱面。正是如此，这些谱面通常需要多位玩家在多人游戏房间合作游玩才能完成。
 
 在这些模式中，每位玩家轮流负责完成一组[连击串](/wiki/Beatmapping/Combo)，直到歌曲结束。出于这个原因，接力谱面的串在位置上距离很远，让谱面几乎不可能由一位玩家单独游玩。
 

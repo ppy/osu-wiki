@@ -589,13 +589,13 @@ This contest has come to an end and resulted in the following podium:
 | **Mapper / storyboarder** | ::{ flag=UZ }:: [Shmiklak](https://osu.ppy.sh/users/5504231) |
 | **VFX artist** | ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061) |
 
-[![Artwork of furtrash - LONG LIVE THE KING](img/banners/LONG_LIVE_THE_KING.jpg)](https://osu.ppy.sh/beatmapsets/2412245)
+[![Artwork of fur:trash - LONG LIVE THE KING](img/banners/LONG_LIVE_THE_KING.jpg)](https://osu.ppy.sh/beatmapsets/2412245)
 
 ::: Infobox
 
 <!-- lint ignore heading-increment -->
 
-#### [![SoundCloud](/wiki/shared/link/SoundCloud.png "SoundCloud")](https://soundcloud.com/furtrash/long-live-the-king) [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=3eR9n0f5D0E) [furtrash - LONG LIVE THE KING](https://osu.ppy.sh/beatmapsets/2412245)
+#### [![SoundCloud](/wiki/shared/link/SoundCloud.png "SoundCloud")](https://soundcloud.com/furtrash/long-live-the-king) [![YouTube](/wiki/shared/link/YouTube.png "YouTube")](https://www.youtube.com/watch?v=3eR9n0f5D0E) [fur:trash - LONG LIVE THE KING](https://osu.ppy.sh/beatmapsets/2412245)
 
 |  |  |
 | --: | :-- |
@@ -1266,7 +1266,7 @@ This contest has come to an end and resulted in the following podium:
 | 19 | [aidolon - Replay](https://osu.ppy.sh/beatmapsets/2412321) | 1541.2 | 53% |
 | 20 | [Krimek - Dahlia (feat. eili)](https://osu.ppy.sh/beatmapsets/2412294) | 1537.3 | 53% |
 | 21 | [RRolanDD - Almom](https://osu.ppy.sh/beatmapsets/2412270) | 1516.1 | 52% |
-| 22 | [furtrash - LONG LIVE THE KING](https://osu.ppy.sh/beatmapsets/2412245) | 1511.5 | 50% |
+| 22 | [fur:trash - LONG LIVE THE KING](https://osu.ppy.sh/beatmapsets/2412245) | 1511.5 | 50% |
 | 23 | [Chamiracqua - The Epiphany (feat. smoothycloud)](https://osu.ppy.sh/beatmapsets/2412261) | 1508.9 | 51% |
 | 24 | [Viatores Nebulae feat. Megurine Luka - Heart of Epitaph](https://osu.ppy.sh/beatmapsets/2412283) | 1474.4 | 47% |
 | 25 | [WangleLine - Super Kitten Travel Hex](https://osu.ppy.sh/beatmapsets/2412252) | 1456.1 | 44% |
@@ -1311,7 +1311,7 @@ This contest has come to an end and resulted in the following podium:
 | 17 | [nm-y - Datura Sh//va](https://osu.ppy.sh/beatmapsets/2412263) | 1546.3 | 55% |
 | 18 | [Star* aka liaoxingyao - Inochi](https://osu.ppy.sh/beatmapsets/2412248) | 1541.6 | 55% |
 | 19 | [trung-nova - Starry Comet](https://osu.ppy.sh/beatmapsets/2412271) | 1523.8 | 53% |
-| 20 | [furtrash - LONG LIVE THE KING](https://osu.ppy.sh/beatmapsets/2412245) | 1511.2 | 50% |
+| 20 | [fur:trash - LONG LIVE THE KING](https://osu.ppy.sh/beatmapsets/2412245) | 1511.2 | 50% |
 | 21 | [Maemi no Yume - Free Your Heart](https://osu.ppy.sh/beatmapsets/2412235) | 1503.7 | 51% |
 | 22 | [Xeven - Become One Again (feat. Hatsune Miku)](https://osu.ppy.sh/beatmapsets/2412365) | 1498.1 | 49% |
 | 23 | [Viatores Nebulae feat. Megurine Luka - Heart of Epitaph](https://osu.ppy.sh/beatmapsets/2412283) | 1498.1 | 49% |
@@ -1348,7 +1348,7 @@ This contest has come to an end and resulted in the following podium:
 | 7 | [nominomu - against cacophony (feat. Mai)](https://osu.ppy.sh/beatmapsets/2412236) | 1600.7 | 62% |
 | 8 | [nm-y - Datura Sh//va](https://osu.ppy.sh/beatmapsets/2412263) | 1599 | 61% |
 | 9 | [Xyris - Vitality Charger (feat. Hanakuma Chifuyu)](https://osu.ppy.sh/beatmapsets/2412277) | 1595.9 | 61% |
-| 10 | [furtrash - LONG LIVE THE KING](https://osu.ppy.sh/beatmapsets/2412245) | 1593.3 | 60% |
+| 10 | [fur:trash - LONG LIVE THE KING](https://osu.ppy.sh/beatmapsets/2412245) | 1593.3 | 60% |
 | 11 | [Redside - First Adventure](https://osu.ppy.sh/beatmapsets/2412285) | 1585.7 | 60% |
 | 12 | [takehirotei - Haiboku no Altra Vita](https://osu.ppy.sh/beatmapsets/2412331) | 1577.6 | 59% |
 | 13 | [Fox Rush - Paint The Ocean Blue (feat. Cassylish)](https://osu.ppy.sh/beatmapsets/2412259) | 1577.4 | 59% |

@@ -34,7 +34,7 @@ osu! gelangt durch eine Portierung von [nuudles](https://osu.ppy.sh/users/21312)
 
 Das FAQ auf der osu!-Webseite wurde übersetzbar und Freiwillige halfen dabei, das FAQ in vielen Sprachen zugänglich zu machen.[^faq-localisation]
 
-Durch ein großes Update am 26. Januar erhielt osu! viele neue Funktionen.[^stable-b593a] Zu diesen Änderungen gehörten die neuen Mehrspielermodi [Tag VS](/wiki/Client/Interface/Multiplayer#team-vs) und [Tag Team VS](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs) sowie ein Passwortschutz für Mehrspielerräume. Objekte im Storyboard-Editor konnten mit den neuen Transformationsoptionen Vektorskalierung und Spiegelung bearbeitet werden. Während des Spiels betonten Lichteffekt einen Treffer durch das Erscheinen von Farben auf dem Spielfeld. Des Weiteren konnte der Songfortschritt auch als Kreisdiagramm dargestellt werden. Zuletzt wurde der neue Beatmap-Sortiermodus "Zuletzt gespielt" zur [Songauswahl](/wiki/Client/Interface#songauswahl) hinzugefügt.
+Durch ein großes Update am 26. Januar erhielt osu! viele neue Funktionen.[^stable-b593a] Zu diesen Änderungen gehörten die neuen Mehrspielermodi [Tag VS](/wiki/Gameplay/Multiplayer#team-vs) und [Tag Team VS](/wiki/Gameplay/Multiplayer#tag-co-op-/-tag-team-vs) sowie ein Passwortschutz für Mehrspielerräume. Objekte im Storyboard-Editor konnten mit den neuen Transformationsoptionen Vektorskalierung und Spiegelung bearbeitet werden. Während des Spiels betonten Lichteffekt einen Treffer durch das Erscheinen von Farben auf dem Spielfeld. Des Weiteren konnte der Songfortschritt auch als Kreisdiagramm dargestellt werden. Zuletzt wurde der neue Beatmap-Sortiermodus "Zuletzt gespielt" zur [Songauswahl](/wiki/Client/Interface#songauswahl) hinzugefügt.
 
 ## Februar
 
