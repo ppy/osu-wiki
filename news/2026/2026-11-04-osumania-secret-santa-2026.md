@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "osu!mania Secret Santa Contest 2026: Prompt Submissions Open!"
-date: 2026-11-03 12:00:00 +0000
+date: 2026-11-04 23:00:00 +0000
 series: community_contests
 ---
 
 The holidays are approaching, and that means another osu!mania Secret Santa Contest!
 
-![](/wiki/shared/news/2026-11-03-osumania-secret-santa-2026/banner.jpg)
+![](/wiki/shared/news/2026-11-04-osumania-secret-santa-2026/banner.jpg)
 
 The **osu!mania Secret Santa Contest 2026** is an osu!mania mapping contest where mappers create beatmaps based on a randomly received short text prompt from another mapper. And this year, we're opening it up so that mappers who missed the prompt submission deadline can still participate in the mapping contest via *judge-written prompts*!
 
