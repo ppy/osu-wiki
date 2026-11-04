@@ -17,54 +17,38 @@ Anyone is able to [join the server](https://discord.com/invite/Ft2FtXmBgx) and p
 
 Mentors can also choose to create classrooms, which are then added as private channels in the Discord server for them, their mentees, and any other mentors, mentees, or guests that they wish to have in the classroom.
 
-# History
+## History
 
-## 2010-2013
-
+### 2010-2013
 Between 2010 and 2013, community mentoring was set up for inexperienced mappers to learn directly from members of the [Beatmap Appreciation Team (*BAT*)](/wiki/People/Beatmap_Appreciation_Team) and the [Mapping Assistance Team (*MAT*)](/wiki/People/Mapping_Assistance_Team).
 
 This program was organised by [Ephemeral](https://osu.ppy.sh/users/102335), [Shiro](https://osu.ppy.sh/users/113005), and [Kurai](https://osu.ppy.sh/users/77089), each at different points in its history.
 
-## 2016
-
+### 2016
 - The current iteration of the Community Mentorship Program was started in August 2016, lead by [Yuii-](https://osu.ppy.sh/users/2935923) and [Okoayu](https://osu.ppy.sh/users/1623405), with a focus on osu! mapping. This sought to revive the, at the time, long-dormant preceding mentorship program. In its [first cycle](https://osu.ppy.sh/community/forums/topics/480428?n=1), mentors were expected to be members of the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) or [Quality Assurance Team](/wiki/People/Quality_Assurance_Team), with some case-by-case exceptions for external mentors. In the [second cycle](https://osu.ppy.sh/community/forums/topics/506906?n=1), mentor requirements were changed, allowing any community members to apply to become a mentor, as long as they had the required experience.
-
 - In October, osu!catch started its [own mentorship program](https://osu.ppy.sh/community/forums/topics/506010?n=1). It was initially organized by [Ascendance](https://osu.ppy.sh/users/2931883), [ZiRoX](https://osu.ppy.sh/users/200768), and [JBHyperion](https://osu.ppy.sh/users/4879508). At the time, osu!catch mentorship did not require the use of Discord like the other mentorship programs would.
-
 - In November, osu!taiko started their mentorship program, the [Taiko Community Mentorship Program](https://osu.ppy.sh/community/forums/topics/521416?n=1). It was organized by [Raiden](https://osu.ppy.sh/users/2239480), [DakeDekaane](https://osu.ppy.sh/users/1425253), and [OnosakiHito](https://osu.ppy.sh/users/290128). While sharing much of the same structure as osu! mentorship, all cycle schedules and Discord spaces were maintained separately from the osu! mentorship.
-
-## 2017
-
+### 2017
 - Beginning with the [2017 Fall Cycle](https://osu.ppy.sh/community/forums/topics/617542?n=1), the osu! and osu!catch mentorship programs were merged into one shared organization and cycle schedule. This was the fifth cycle for osu!, and fourth for osu!catch, but only the osu! cycle numbering would be used going forward to avoid any confusion.
-
 - In the following [2017 Winter Cycle](https://osu.ppy.sh/community/forums/topics/650607?n=1) osu!taiko was also merged in with the osu! and osu!catch mentorship. All three mentorship programs were merged and would be run as one program moving forward. 
-
-## 2018
-
+### 2018
 - With the [2018 Spring Cycle](https://osu.ppy.sh/community/forums/topics/689250?n=1) osu!mania was added to the program, with mode-specific organizational help from [Asherz007](https://osu.ppy.sh/users/9014047). In future cycles, whether a mode would be an option for hopeful mentees would depend on mentor availability.
-
-## 2020
-
+### 2020
 - [Modding Mentorship](https://osu.ppy.sh/community/forums/topics/1140587?n=1) was begun as an independent program, organized by [Nayah](https://osu.ppy.sh/users/5226970), and was immediately available for all game modes. The program was described as aimed to help both those aiming to become generally better modders, as well as to help those who would like to apply for Beatmap Nominator.
-
-## 2022
-
+### 2022
 - Starting with the [20th iteration of the program, the 2022 Winter Cycle](https://osu.ppy.sh/community/forums/topics/1472007?n=1), the Modding Mentorship was merged into the Community Mentorship Program. While mapping mentors frequently teach mentees modding during a community mentorship cycle, the merge of Modding Mentorship allowed an explicit focus for mentors and mentees hoping to more directly focus on modding itself. Those hoping to become mentors or mentees became able apply for those specific focuses. Mentor listings distinguish whether they are modding or mapping focused for cycles from this point onward.
-
 - Also in the 20th iteration, storyboarding was added as a fifth mentorship option. Specific to Storyboarding, mentors and mentees could also choose between technical and creative focuses. This difference from mapping options was added due to the breadth of different fields covered in storyboarding, from graphic design, to animation, to programming. Due to this difference, Storyboard mentor applications were done through a separate form from mapping and modding. The initial design and rollout of the storyboarding addition was organized by [Noffy](https://osu.ppy.sh/users/1541323) and [PoNo](https://osu.ppy.sh/users/4610047).
-
-## 2026
+### 2026
 - The [mentorship website](https://osucmp.com/) was launched, making historical pairing information accessible to non-organizers, and moving the application system off of Google Forms. Prior to the website becoming available, all cycle and pairing information was managed through a series of Google Forms and Google Spreadsheets.
-
-# Resources
+## Resources
 
 During cycles, mentors or organizers may choose to host events or contests. Some historical information and guides have been made available for everyone as learning resources. These archives cover a range of topics between mapping theory, specifics of certain tools, map analysis, and the ranking process.  Previous discussion archives are collected [on the CMP website's archive page](https://osucmp.com/discussions).
 
-# Cycles
+## Cycles
 
 This list covers both the Community Mentorship Program itself, and any known cycles for programs mentioned in this article that were merged into the Community Mentorship Program.
 
-## Community Mentorship Program 
+### Community Mentorship Program 
 
 Every cycle is also browsable on the [cycle archive](https://osucmp.com/archive).
 
@@ -105,7 +89,7 @@ Every cycle is also browsable on the [cycle archive](https://osucmp.com/archive)
 | 2 | 2016-10-30 | 2017-02-05 | [Forum post](https://osu.ppy.sh/community/forums/topics/506906?n=1) |  | [Archive](https://osucmp.com/archive/2) |
 | 1 | 2016-08-08 | 2016-10-14 | [Forum post](https://osu.ppy.sh/community/forums/topics/480428?n=1) |  | [Archive](https://osucmp.com/archive/1) |
 
-## osu!catch Mentorship Program
+### osu!catch Mentorship Program
 
 Cycle 1 and Cycle 2 of the osu!catch Mentorship program share one thread, where Cycle 2 information replaced Cycle 1 as the opening post, initially to make current information easier to access in one place. This was later changed to seperate threads per cycle.
 
@@ -116,14 +100,14 @@ Cycle 1 and Cycle 2 of the osu!catch Mentorship program share one thread, where 
 | 3 | 2017-05-21 | 2017-07-30 | https://osu.ppy.sh/community/forums/topics/585850?n=1 |
 | 4 | 2017-08-13 | 2017-10-22 | https://osu.ppy.sh/community/forums/topics/618238?n=1 |
 
-## osu!taiko Mentorship Program
+### osu!taiko Mentorship Program
 
 | Cycle | Start | End | Forum post | 
 | :-- | :-- | :-- | :-- |
 | 1 | 2016-12-16 | 2017-03-26 | https://osu.ppy.sh/community/forums/topics/521416?n=1 |
 
 
-## Modding Mentorship
+### Modding Mentorship
 
 | Cycle | Start | Forum post | 
 | :-- | :-- | :-- |
