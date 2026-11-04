@@ -12,7 +12,7 @@ tags:
 
 #### Wind Down
 
-![Wind Down mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/WD.png)
+![Wind Down mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/WD.png?1)
 
 *Sloooow doooown...*
 

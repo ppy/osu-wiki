@@ -12,7 +12,7 @@ tags:
 
 #### Score V2
 
-![Score V2 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SV2.png)
+![Score V2 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SV2.png?1)
 
 *在早期版本使用 V2 计分算法获得的成绩。*
 
@@ -21,8 +21,8 @@ tags:
 | 缩写 | SV2 |
 | 类别 | 系统 |
 | 游戏模式 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| 得分系数 | `1.00x` |
-| 状态 | 不计入排名 |
+| 得分倍率 | `1.00x` |
+| 状态 | 不计表现分 |
 | 不兼容的模组 | 无 |
 
 :::

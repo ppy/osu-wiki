@@ -12,7 +12,7 @@ tags:
 
 #### Barrel Roll
 
-![Barrel Roll 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/BR.png)
+![Barrel Roll 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/BR.png?1)
 
 *整个游玩区域都转起来了！*
 
@@ -21,8 +21,8 @@ tags:
 | 缩写 | BR |
 | 类别 | 娱乐 |
 | 游戏模式 | ![][osu!] |
-| 得分系数 | `1.00x` |
-| 状态 | 不计入排名 |
+| 得分倍率 | `1.00x` |
+| 状态 | 不计表现分 |
 | 不兼容的模组 | [Bubbles (BU)](/wiki/Gameplay/Game_modifier/Bubbles) |
 
 :::

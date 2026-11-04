@@ -12,7 +12,7 @@ tags:
 
 #### Invert
 
-![Invert mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/IN.png)
+![Invert mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/IN.png?1)
 
 *Hold the keys. To the beat.*
 
@@ -31,7 +31,7 @@ tags:
 **Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-The **Invert Mod** "inverts" osu!mania gameplay by forcing the player to press all keys and only release them when a [hit object](/wiki/Gameplay/Hit_object) appears. This is achieved by covering every column entirely in [hold notes](/wiki/Beatmap/Pattern/osu!mania/Hold_note) except for the positions of notes and the beginnings of hold notes.
+The **Invert Mod** "inverts" osu!mania gameplay by forcing the player to press all keys and only release them when a [hit object](/wiki/Gameplay/Hit_object) appears. This is achieved by covering every column entirely in [hold notes](/wiki/Gameplay/Hit_object/Hold_note) except for the positions of notes and the beginnings of hold notes.
 
 **This mod cannot be customised.**
 

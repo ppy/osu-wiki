@@ -57,7 +57,9 @@ Currently, the main osu! projects are hosted on GitHub and available for anyone 
 
 #### osu!
 
-*For detailed insights on contributions to the osu! project, see: [Contributors of the `osu` repository](https://github.com/ppy/osu/graphs/contributors)*
+::: alert-note
+**Note:** For detailed insights on contributions to the osu! project, see [Contributors of the `osu` repository](https://github.com/ppy/osu/graphs/contributors)
+:::
 
 - ::{ flag=CA }:: [DrabWeb](https://osu.ppy.sh/users/6946022)
 - ::{ flag=JP }:: [ekr](https://osu.ppy.sh/users/4497706)
@@ -67,7 +69,9 @@ Currently, the main osu! projects are hosted on GitHub and available for anyone 
 
 #### osu!framework
 
-*For detailed insights on contributions to the osu!framework project, see: [Contributors of the `osu-framework` repository](https://github.com/ppy/osu-framework/graphs/contributors)*
+::: alert-note
+**Note:** For detailed insights on contributions to the osu!framework project, see [Contributors of the `osu-framework` repository](https://github.com/ppy/osu-framework/graphs/contributors)
+:::
 
 - ::{ flag=JP }:: [ekr](https://osu.ppy.sh/users/4497706)
 - ::{ flag=CN }:: [huoyaoyuan](https://osu.ppy.sh/users/2428732)
@@ -77,7 +81,9 @@ Currently, the main osu! projects are hosted on GitHub and available for anyone 
 
 #### osu!web
 
-*For detailed insights on contributions to the osu!web project, see: [Contributors of the `osu-web` repository](https://github.com/ppy/osu-web/graphs/contributors)*
+::: alert-note
+**Note:** For detailed insights on contributions to the osu!web project, see [Contributors of the `osu-web` repository](https://github.com/ppy/osu-web/graphs/contributors)
+:::
 
 - ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350)
 - ::{ flag=ID }:: [GPR](https://osu.ppy.sh/users/10721349)

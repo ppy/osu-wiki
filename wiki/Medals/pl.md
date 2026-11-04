@@ -4,7 +4,7 @@ no_native_review: true
 
 # Medale
 
-**Medale**, dawniej znane jako *osiągnięcia*, to odznaki wyświetlające się na profilach użytkowników, przyznawane za wykonanie konkretnych zadań. Obecnie w grze jest łącznie **352** medali do odblokowania w ośmiu różnych kategoriach: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights) oraz [Beatmap Challenge Packs](#beatmap-challenge-packs).
+**Medale**, dawniej znane jako *osiągnięcia*, to odznaki wyświetlające się na profilach użytkowników, przyznawane za wykonanie konkretnych zadań. Obecnie w grze jest łącznie **353** medali do odblokowania w ośmiu różnych kategoriach: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights) oraz [Beatmap Challenge Packs](#beatmap-challenge-packs).
 
 ## Beatmap Packs
 
@@ -16,7 +16,7 @@ Warto wspomnieć, że zawartość wszystkich paczek Video Game, Anime, Internet!
 
 ## Skill
 
-**Medale Skill** są przyznawane za ukończenie różnych wyzwań bazujących na umiejętnościach, takich jak uzyskanie konkretnej długości [combo](/wiki/Gameplay/Combo_(score_multiplier)),osiągnięcie konkretnej pozycji w [rankingu globalnym](https://osu.ppy.sh/rankings/osu/performance) czy przejście lub przejście z [pełnym combo](/wiki/Gameplay/Full_combo) dowolnej [zakwalifikowanej](/wiki/Beatmap/Category#zakwalifikowane), [rankingowej](/wiki/Beatmap/Category#ranked) lub [zatwierdzonej](/wiki/Beatmap/Category#approved) beatmapy, której [ilość gwiazdek](/wiki/Beatmap/Star_rating) mieści się w określonym przedziale.
+**Medale Skill** są przyznawane za ukończenie różnych wyzwań bazujących na umiejętnościach, takich jak uzyskanie konkretnej długości [combo](/wiki/Gameplay/Combo_(score_multiplier)),osiągnięcie konkretnej pozycji w [rankingu globalnym](https://osu.ppy.sh/rankings/osu/performance) czy przejście lub przejście z [pełnym combo](/wiki/Gameplay/Full_combo) dowolnej [zakwalifikowanej](/wiki/Beatmap/Category#qualified), [rankingowej](/wiki/Beatmap/Category#ranked) lub [zatwierdzonej](/wiki/Beatmap/Category#approved) beatmapy, której [ilość gwiazdek](/wiki/Beatmap/Star_rating) mieści się w określonym przedziale.
 
 ## Dedication
 
@@ -28,7 +28,7 @@ Warto wspomnieć, że zawartość wszystkich paczek Video Game, Anime, Internet!
 **Zobacz także:** [Modyfikatory gry](/wiki/Gameplay/Game_modifier).
 :::
 
-**Medale Mod Introduction** są przyznawane za przejście dowolnej [zakwalifikowanej](/wiki/Beatmap/Category#qualifed), [rankingowej](/wiki/Beatmap/Category#ranked) lub [zatwierdzonej](/wiki/Beatmap/Category#approved) beatmapy z konkretnym [modem](/wiki/Gameplay/Game_modifier). Mają one za zadanie zachęcić nowszych graczy do wypróbowania każdego moda oraz odkrycia, co osu! ma do zaoferowania. Należy jednak zaznaczyć, że w przypadku korzystania z wielu modów naraz nie będzie możliwe zdobycie medalu za żaden z wybranych modów.
+**Medale Mod Introduction** są przyznawane za przejście dowolnej [zakwalifikowanej](/wiki/Beatmap/Category#qualified), [rankingowej](/wiki/Beatmap/Category#ranked) lub [zatwierdzonej](/wiki/Beatmap/Category#approved) beatmapy z konkretnym [modem](/wiki/Gameplay/Game_modifier). Mają one za zadanie zachęcić nowszych graczy do wypróbowania każdego moda oraz odkrycia, co osu! ma do zaoferowania. Należy jednak zaznaczyć, że w przypadku korzystania z wielu modów naraz nie będzie możliwe zdobycie medalu za żaden z wybranych modów.
 
 Wszystkie medale Mod Introduction mogą zostać zdobyte w dowolnym [trybie gry](/wiki/Game_mode), o ile nie wskazano inaczej.
 

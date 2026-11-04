@@ -193,8 +193,9 @@ When the entire field is uppercase or lowercase, markers may use alternative cas
 
 - **Tags must be related to the beatmap**, such as describing the style, song, storyboard, video, or background content. Misleading tags must be avoided.
 - **Names with spaces between single characters like `-[M o c h a]-` need to be tagged as `-[M_o_c_h_a]-`**
-- **Tags must include the following items when applicable:**
-  - **[Guest difficulty](/wiki/Beatmap/Guest_difficulty) creators, storyboarders, skinners and hitsounders.**
+- **Tags must include the following when applicable:**
+  - **Names of [guest difficulty](/wiki/Beatmap/Guest_difficulty) creators and hitsounders.**
+  - **Names of creators of any visual assets created specifically for use in the beatmap, including commissions.** This includes, but is not limited to, custom backgrounds, videos, storyboard, and skins.
   - **`Featured Artist`, if the track is listed in the [Featured Artist catalogue](https://osu.ppy.sh/beatmaps/artists).** You must not use the tag if the song is not in the featured artist catalogue.
   - **At least one song genre and one language tag.**
     - For instrumental tracks, `instrumental` is the language tag.

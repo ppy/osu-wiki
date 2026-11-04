@@ -12,7 +12,7 @@ tags:
 
 - 聊天系统、[在线状态](/wiki/Client/Interface/Chat_console#扩展聊天面板)与 [IRC 网关](/wiki/Community/Internet_Relay_Chat)
 - [旁观](/wiki/Gameplay/Spectating)模式
-- [多人游戏系统](/wiki/Client/Interface/Multiplayer)与[比赛管理](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
+- [多人游戏系统](/wiki/Gameplay/Multiplayer)与[比赛管理](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
 
 ::: Infobox
 ![](img/connection-warning.png "连接状态不佳时，主菜单截图（右下角左数第一个图标）")

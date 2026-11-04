@@ -12,7 +12,7 @@ tags:
 
 #### Relax
 
-![Icono del mod Relax](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/RX.png)
+![Icono del mod Relax](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/RX.png?1)
 
 *![][osu!]: No necesitas hacer clic. Deja que tus dedos descansen un poco.*\
 *![][osu!taiko]: ¡No es necesario recordar qué tecla es la correcta!*\

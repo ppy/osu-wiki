@@ -12,7 +12,7 @@ tags:
 
 #### Deflate
 
-![Deflate mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/DF.png)
+![Deflate mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/DF.png?1)
 
 *Hit them at the right size!*
 

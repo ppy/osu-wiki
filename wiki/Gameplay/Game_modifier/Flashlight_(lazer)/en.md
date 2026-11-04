@@ -13,7 +13,7 @@ tags:
 
 #### Flashlight
 
-![Flashlight mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/FL.png)
+![Flashlight mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/FL.png?1)
 
 *Restricted view area.*
 

@@ -12,7 +12,7 @@ tags:
 
 #### Alternate
 
-![Alternate mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AL.png)
+![Alternate mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AL.png?1)
 
 *Don't use the same key twice in a row!*
 

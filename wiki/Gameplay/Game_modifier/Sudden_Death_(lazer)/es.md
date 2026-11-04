@@ -13,7 +13,7 @@ tags:
 
 #### Sudden Death
 
-![Icono del mod Sudden Death](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SD.png)
+![Icono del mod Sudden Death](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SD.png?1)
 
 *Falla una nota y pierdes.*
 

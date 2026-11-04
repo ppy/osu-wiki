@@ -12,7 +12,7 @@ tags:
 
 #### Dual Stages
 
-![Dual Stages mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/DS.png)
+![Dual Stages mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/DS.png?1)
 
 *Double the stages, double the fun!*
 

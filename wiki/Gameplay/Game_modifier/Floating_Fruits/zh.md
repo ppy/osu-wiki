@@ -12,7 +12,7 @@ tags:
 
 #### Floating Fruits
 
-![Floating Fruits 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/FF.png)
+![Floating Fruits 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/FF.png?1)
 
 *水果在...飘浮？*
 
@@ -21,7 +21,7 @@ tags:
 | 缩写 | FF |
 | 类别 | 娱乐 |
 | 游戏模式 | ![][osu!catch] |
-| 得分系数 | `1.00x` |
+| 得分倍率 | `1.00x` |
 | 状态 | 不计表现分 |
 | 不兼容的模组 | 无 |
 

@@ -13,7 +13,7 @@ tags:
 
 #### Target Practice
 
-![Icono del mod Target Practice](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/TP.png)
+![Icono del mod Target Practice](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/TP.png?1)
 
 *Practica siguiendo el ritmo de la canción.*
 

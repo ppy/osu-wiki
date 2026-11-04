@@ -13,8 +13,13 @@ tags:
 
 # osu!store y mercancía
 
-*Página principal: [Centro de ayuda](/wiki/Help_centre)*\
-*Para solucionar algún problema con los productos más antiguos, véase: [Archivo de la osu!store](/wiki/Help_centre/Store/Store_archive)*
+::: alert-note
+**Página principal:** [Centro de ayuda](/wiki/Help_centre)
+:::
+
+::: alert-note
+**Nota:** Para solucionar algún problema con los productos más antiguos, véase [Archivo de la osu!store](/wiki/Help_centre/Store/Store_archive)
+:::
 
 Este artículo solo se refiere a los productos comprados desde la [osu!store](https://osu.ppy.sh/store/listing).
 

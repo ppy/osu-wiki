@@ -80,7 +80,7 @@ Getting osu!supporter comes with the ability to change usernames for free for th
 osu!direct is the in-game beatmap search and download engine available to supporters. It may be accessed from the main menu by clicking the vertical `osu!direct` label on the right side of the screen. In addition to a built-in beatmap listing, osu!direct provides other ways to obtain new beatmaps without leaving the game:
 
 - Beatmap links in chat, which point to beatmaps on the osu! website, now trigger the download prompt in-game
-- Automatic beatmap downloads while playing in a [multiplayer](/wiki/Client/Interface/Multiplayer) lobby or [spectating](/wiki/Gameplay/Spectating) another player, as an [opt-out setting](/wiki/Client/Options#integration)
+- Automatic beatmap downloads while playing in a [multiplayer](/wiki/Gameplay/Multiplayer) lobby or [spectating](/wiki/Gameplay/Spectating) another player, as an [opt-out setting](/wiki/Client/Options#integration)
 - Automatic linking of currently played beatmaps in the `#spectator` chat tab for spectators, as an [opt-out setting](/wiki/Client/Options#alerts-and-privacy)
 
 ### Extended leaderboards
@@ -101,6 +101,9 @@ osu! offers more relaxed limits on various online features to supporters:
 | Team size | 8 | `8 + 4 * supporters in the team` up to **256** |
 | Online beatmap favourites | 100 | 1000 |
 | Friend count | 500 | 1000 |
+| Pinned scores on profile | 10 | 50 |
+| Simultaneously open playlists | 1 | 5 |
+| Playlist duration | 14 days (2 weeks) | 93 days (~3 months) |
 
 Additionally, bearers of osu!supporter are granted more lenient beatmap download limits.
 
@@ -116,6 +119,8 @@ After obtaining osu!supporter, some visual and aural elements of the osu! interf
 | `seeya.wav` | The "see ya next time" sample that plays when the game shuts down |
 
 For details, see [Skinning/Interface § Main menu](/wiki/Skinning/Interface#main-menu) and [Skinning/Sounds § Main menu](/wiki/Skinning/Sounds#main-menu).
+
+In osu!(lazer) supporters can also choose to display the background or video of the currently playing beatmap in the main menu via the `Background source` option in settings.
 
 ### Extended search
 

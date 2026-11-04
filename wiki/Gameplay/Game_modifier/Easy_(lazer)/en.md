@@ -12,7 +12,7 @@ tags:
 
 #### Easy
 
-![Easy mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/EZ.png)
+![Easy mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/EZ.png?1)
 
 *![][osu!] Larger circles, more forgiving HP drain, less accuracy required, and extra lives!*\
 *![][osu!taiko] Beats move slower, and less accuracy required!*\

@@ -12,7 +12,7 @@ tags:
 
 #### Dual Stages
 
-![Dual Stages 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/DS.png)
+![Dual Stages 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/DS.png?1)
 
 *双重舞台，双倍乐趣！*
 
@@ -21,7 +21,7 @@ tags:
 | 缩写 | DS |
 | Type | Conversion |
 | 游戏模式 | ![][osu!mania] |
-| 得分系数 | `1.00x` |
+| 得分倍率 | `1.00x` |
 | 状态 | 不计表现分 |
 | 不兼容的模组 | 无 |
 
