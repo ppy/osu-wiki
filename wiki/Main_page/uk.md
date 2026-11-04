@@ -41,7 +41,7 @@ outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
 
 [Режими гри](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Бітмапи](/wiki/Beatmap) • [Складність](/wiki/Beatmap/Difficulty) • [Ігрові об\'єкти](/wiki/Gameplay/Hit_object) • [Модифікатори](/wiki/Gameplay/Game_modifier) • [Ігрові очки](/wiki/Gameplay/Score) • [Повтор](/wiki/Gameplay/Replay) • [Медалі](/wiki/Medals) • [Мультиплеєр](/wiki/Client/Interface/Multiplayer)
+[Бітмапи](/wiki/Beatmap) • [Складність](/wiki/Beatmap/Difficulty) • [Ігрові об\'єкти](/wiki/Gameplay/Hit_object) • [Модифікатори](/wiki/Gameplay/Game_modifier) • [Ігрові очки](/wiki/Gameplay/Score) • [Повтор](/wiki/Gameplay/Replay) • [Медалі](/wiki/Medals) • [Мультиплеєр](/wiki/Gameplay/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
