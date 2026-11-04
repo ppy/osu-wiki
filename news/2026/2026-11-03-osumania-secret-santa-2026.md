@@ -82,7 +82,7 @@ Note that all submissions will be anonymised before they're reviewed by judges t
 
 ## Prompt and beatmap submission
 
-To receive a prompt from another user for your beatmap, you must submit a prompt via the **[prompt submission form](https://forms.gle/9fUw67kiExr8TTaY7)** by the draft deadline (November 10th). Any revisions must also be submitted via this form by the revision deadline (November 12th).
+To receive a prompt from another user for your beatmap, you must submit a prompt via the **[prompt submission form](https://form-auth.ppy.sh/form/2026-mania-secret-santa-contest-prompt-submission)** by the draft deadline (November 10th). Any revisions must also be submitted via this form by the revision deadline (November 12th).
 
 You may submit your beatmap through the **[contest page](https://mappersguild.com/contests/listing?contest=6ae9370a234e251a6af18929)**. You are allowed to resubmit your entry anytime before the mapping phase has ended.
 
