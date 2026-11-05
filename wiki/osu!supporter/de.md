@@ -121,7 +121,7 @@ Nach Erhalt eines osu!supporter-Tags können einige visuelle und akustische Elem
 
 Für mehr Details, siehe [Skinning/Benutzeroberfläche § Hauptmenü](/wiki/Skinning/Interface#main-menu) und [Skinning/Sounds § Hauptmenü](/wiki/Skinning/Sounds#main-menu).
 
-In osu!(lazer) können Unterstützer die Option `Hintergrundquelle` in den Einstellungen verwenden, um das Hintergrundbild oder -video der aktuell abgespielten Beatmap im Hauptmenü anzuzeigen.
+In osu!(lazer) können Unterstützer zudem die Option `Hintergrundquelle` in den Einstellungen verwenden, um das Hintergrundbild oder -video der aktuell abgespielten Beatmap im Hauptmenü anzuzeigen.
 
 ### Erweiterte Suche
 
@@ -160,7 +160,7 @@ Klicke danach auf `Zum Warenkorb hinzufügen`, um das Supporter-Tag in den osu!s
 
 osu!supporter kann auch an andere Spieler verschenkt werden, indem ihr Nutzername in die graue Box unter der Benutzerkarte eingegeben wird, oder durch Klicken des Buttons `Verschenke ein osu!supporter-Tag` auf ihrer Profilseite. Weitere Personen können hinzugefügt werden, indem man zur Shop-Seite oder zum Profil eines Spielers zurückgeht und den Prozess wiederholt.
 
-Der Empfänger wird nicht darüber informiert, von wem das Tag kam, aber beim Verschenken von osu!supporter kann eine optionale Nachricht angehängt werden, die zusammen mit der E-Mail-Benachrichtigung versendet wird.
+Der Empfänger wird nicht darüber informiert, von wem das Tag kam, beim Verschenken von osu!supporter kann jedoch eine optionale Nachricht angehängt werden, die zusammen mit der E-Mail-Benachrichtigung versendet wird.
 
 ### Bestätigung
 
