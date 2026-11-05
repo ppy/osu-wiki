@@ -452,7 +452,7 @@ Due to the vast number of matches and players involved, it's not possible to dis
 | B | 0–4,999 |
 
 5. If the 4K pp of a player is much higher than the upper limit of their group, they will be forcibly moved into a higher group. The buffer limit for each group is *100 pp*.
-6. [Tournament staff members](/wiki/Tournaments/Official_support#staff) may not participate as players in the tournament.
+6. [Tournament staff members](/wiki/Tournaments/Official_support#staff-expectations) may not participate as players in the tournament.
 7. The tournament management reserves the right to promote players that are considered to be too strong in their initial groups.
 8. The tournament management reserves the right to decline restricted players from participating in the tournament.
 9. Players are allowed to request for their group to be revised. In order to do so, such requests will need to be accompanied with screenshots of adequate scores from higher-level mappools to the tournament management.

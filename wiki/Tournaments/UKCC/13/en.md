@@ -67,7 +67,7 @@ The UK Community Cup 13 is run by various community members.
 - Players will be seeded by the sum of normalised scores from a qualifier stage.
 - The top 48 players will progress onto a 48 player, double-elimination bracket.
 - Players are required to join the UK Community Cup Discord server to participate in the tournament.
-- Signups are subject to [tournament screening](/wiki/Tournaments/Official_support#tournament-screening).
+- Signups are subject to [tournament screening](/wiki/Tournaments/Official_support#screening).
 
 ### Scheduling
 

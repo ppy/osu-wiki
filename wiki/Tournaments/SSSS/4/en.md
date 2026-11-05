@@ -567,7 +567,7 @@ The full details of the Qualifier results can be found [here](https://docs.googl
 2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
 4. Testplayers, referees, custom mappers, mappool selectors, and replayers may not participate as players in the tournament.
-   - Eliminated players are free to enlist in any of these roles for the later stages of the tournament in accordance with the [official tournament support guidelines](/wiki/Tournaments/Official_support#staff). 
+   - Eliminated players are free to enlist in any of these roles for the later stages of the tournament in accordance with the [official tournament support guidelines](/wiki/Tournaments/Official_support#staff-expectations). 
 
 ### Round-specific rules
 
@@ -653,4 +653,4 @@ The full details of the Qualifier results can be found [here](https://docs.googl
 ## Notes
 
 [^two-way-tie-note]: Both NAVI and Astralis were tied in all the tiebreaker criteria. As such, the two teams were playing an extra play-in match to determine the final qualifying spot in their group.
-[^staff-note]: ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635), ::{ flag=MY }:: [Lunasa](https://osu.ppy.sh/users/16436446), ::{ flag=VN }:: [\_Kasaezic](https://osu.ppy.sh/users/848961), and ::{ flag=ID }:: [SDKO](https://osu.ppy.sh/users/4858555) were all admitted as staff members after their respective eliminations in accordance with the [official tournament support guidelines](/wiki/Tournaments/Official_support#staff).
+[^staff-note]: ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635), ::{ flag=MY }:: [Lunasa](https://osu.ppy.sh/users/16436446), ::{ flag=VN }:: [\_Kasaezic](https://osu.ppy.sh/users/848961), and ::{ flag=ID }:: [SDKO](https://osu.ppy.sh/users/4858555) were all admitted as staff members after their respective eliminations in accordance with the [official tournament support guidelines](/wiki/Tournaments/Official_support#staff-expectations).

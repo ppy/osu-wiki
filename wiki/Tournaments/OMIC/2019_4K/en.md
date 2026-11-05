@@ -381,7 +381,7 @@ Sunday, 30 June 2019:
   - Streamer
   - Commentator
   - Designer
-- Every registering participant will be required to go through [tournament screening](/wiki/Tournaments/Official_support#tournament-screening).
+- Every registering participant will be required to go through [tournament screening](/wiki/Tournaments/Official_support#screening).
 
 ### Tournament rules
 
