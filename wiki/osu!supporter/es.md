@@ -5,6 +5,8 @@ tags:
   - etiqueta de supporter
   - etiqueta osu!supporter
   - etiqueta de osu!supporter
+outdated_translation: true
+outdated_since: 26b4a6dcf86a0df96bed2c328f27ddec739ebd74
 ---
 
 # osu!supporter
