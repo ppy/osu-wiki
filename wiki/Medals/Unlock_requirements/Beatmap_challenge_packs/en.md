@@ -1,6 +1,6 @@
 # Unlock requirements for Beatmap Challenge Packs medals
 
-[Difficulty reduction mods](/wiki/Gameplay/Game_modifier#difficulty-reduction) may not be used to clear these packs.
+[Difficulty reduction](/wiki/Gameplay/Game_modifier#difficulty-reduction) or [special](/wiki/Gameplay/Game_modifier#special) mods may not be used to clear these packs. In osu!(lazer), players are also not allowed to use any unranked mods such as [Relax](/wiki/Gameplay/Game_modifier/Relax_(lazer)).
 
 | Medal name | Requirement |
 | :-- | :-- |
