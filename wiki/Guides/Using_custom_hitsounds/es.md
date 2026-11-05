@@ -4,7 +4,7 @@ En esta guía aprenderás a usar [hitsounds](/wiki/Beatmapping/Hitsound) persona
 
 ## Obtener hitsounds personalizados
 
-Para poder usar hitsounds personalizados en tu beatmap, ¡primero necesitarás algunos! La [biblioteca personalizada de hitsounds](/wiki/Guides/Custom_hitsound_library) es un gran recurso para obtener muestras de sonido, incluyendo platillos, tambores, campanas, silbatos y mucho más. Alternativamente, si no encuentras lo que buscas, ¡puedes hacer tus propias muestras!
+Para poder usar hitsounds personalizados en tu beatmap, ¡primero necesitarás algunos! La biblioteca personalizada de hitsounds es un gran recurso para obtener muestras de sonido, incluyendo platillos, tambores, campanas, silbatos y mucho más. Alternativamente, si no encuentras lo que buscas, ¡puedes hacer tus propias muestras!
 
 Los hitsounds deben estar en formato `.wav` o `.ogg`, ya que no tienen ningún retraso en la reproducción y se reproducen en bucle correctamente. Los archivos de audio en formato `.mp3` tienen ligeros retrasos y es posible que no coincidan con precisión con la canción que estás intentando ponerle hitsounds. Sin embargo, pueden seguir siendo útiles para determinados efectos de sonido, como los aplausos o los ruidos ambientales, en los que el tamaño de los archivos `.wav` o `.ogg` puede ser prohibitivo.
 
