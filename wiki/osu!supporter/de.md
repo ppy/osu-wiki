@@ -3,8 +3,6 @@ tags:
   - supporter tag
   - osu!supporter tag
   - Unterstützung
-outdated_translation: true
-outdated_since: 26b4a6dcf86a0df96bed2c328f27ddec739ebd74
 ---
 
 # osu!supporter
@@ -104,6 +102,9 @@ osu! bietet Untersützern eine Lockerung der Grenzwerte für verschiedene Online
 | Teamgröße | 8 | `8 + 4 * Teammitglieder mit osu!supporter`, bis zu **256** |
 | Online-Beatmap-Favoriten | 100 | 1000 |
 | Anzahl der Freunde | 500 | 1000 |
+| Angepinnte Scores im Profil | 10 | 50 |
+| Gleichzeitig geöffnete Playlists | 1 | 5 |
+| Playlist-Dauer | 14 Tage (2 Woche) | 93 Tage (~3 Monate) |
 
 Des Weiteren werden Besitzern von osu!supporter weniger strenge Download-Beschränkungen gewährt.
 
@@ -119,6 +120,8 @@ Nach Erhalt eines osu!supporter-Tags können einige visuelle und akustische Elem
 | `seeya.wav` | Das Sample "see ya next time", das beim Beenden des Spiels abgespielt wird |
 
 Für mehr Details, siehe [Skinning/Benutzeroberfläche § Hauptmenü](/wiki/Skinning/Interface#main-menu) und [Skinning/Sounds § Hauptmenü](/wiki/Skinning/Sounds#main-menu).
+
+In osu!(lazer) können Unterstützer die Option `Hintergrundquelle` in den Einstellungen verwenden, um das Hintergrundbild oder -video der aktuell abgespielten Beatmap im Hauptmenü anzuzeigen.
 
 ### Erweiterte Suche
 
