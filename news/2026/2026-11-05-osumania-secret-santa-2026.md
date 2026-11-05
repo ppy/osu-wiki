@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!mania Secret Santa Contest 2026: Prompt Submissions Open!"
-date: 2026-11-05 12:00:00 +0000
+date: 2026-11-05 16:20:00 +0000
 series: community_contests
 ---
 
