@@ -94,7 +94,7 @@ Unterstützer haben Zugriff auf mehrere beatmapspezifische [Ranglisten](/wiki/Be
 
 ### Erhöhte Grenzwerte
 
-osu! bietet Untersützern eine Lockerung der Grenzwerte für verschiedene Online-Features:
+osu! bietet Unterstützern eine Lockerung der Grenzwerte für verschiedene Online-Features:
 
 | Wert | Normales Limit | osu!supporter-Limit |
 | :-- | :-: | :-: |
