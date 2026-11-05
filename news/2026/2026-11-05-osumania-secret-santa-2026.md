@@ -86,7 +86,7 @@ To receive a prompt from another user for your beatmap, you must submit a prompt
 
 You may submit your beatmap through the **[contest page](https://mappersguild.com/contests/listing?contest=6ae9370a234e251a6af18929)**. You are allowed to resubmit your entry anytime before the mapping phase has ended.
 
-- When you've finished mapping, package your map in the editor via `File > Export Package`, which creates a `.osz` file.
+- When you've finished mapping, create an `.osz` file through the editor via `File > Export Package` in osu!(stable), or `File > Export > For compatibility (.osz)` in osu!(lazer).
 - Once exported, upload the `.osz` file to a file sharing service, making sure the link is accessible to anyone, and paste the link into the submission box in the [contest page](https://mappersguild.com/contests/listing?contest=6ae9370a234e251a6af18929).
 
 ---
