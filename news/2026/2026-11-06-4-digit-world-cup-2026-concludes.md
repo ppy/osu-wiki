@@ -125,10 +125,10 @@ This 4WC, we had the pleasure of working with an unprecedented variety of compos
 
 ::: alert-tip
 **Tip**
-You can click on any of the banners (except this first one) to view a showcase video on YouTube.
+You can click on any of the banners to view a showcase video on YouTube.
 :::
 
-![](/wiki/shared/news/2026-11-06-4-digit-world-cup-2026-concludes/astral-tether.jpg)
+[![](/wiki/shared/news/2026-11-06-4-digit-world-cup-2026-concludes/astral-tether.jpg)](https://www.youtube.com/watch?v=KAMOwKrriQY)
 
 [CryoChem](https://osu.ppy.sh/users/38269492) & [sugosugiii](https://osu.ppy.sh/users/15118952) - [Astral Tether](https://osu.ppy.sh/beatmapsets/2589083#osu/5776219) \[Netnekyai's Liminality\]\
 Design by [Z419](https://osu.ppy.sh/users/9912966) | Mapped by [netnesanya](https://osu.ppy.sh/users/6017901) and [Kyairie](https://osu.ppy.sh/users/10910405)\
