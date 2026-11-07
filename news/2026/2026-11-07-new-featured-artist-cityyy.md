@@ -9,9 +9,9 @@ The 1/4 beat snap divisor is **Cityyy**'s domain.
 
 ![](https://assets.ppy.sh/artists/575/header.jpg)
 
-As [an avid osu! player](https://osu.ppy.sh/users/25198721), **Cityyy** frequents tapping-favored maps full of streams, and as a musician, he explores multi-genre trance-inducing tunes densely packed with 16th notes. With **Cityyy**'s addition to our Featured Artists, this might be your sign to become a stream player/mapper too.
+As [an avid osu! player](https://osu.ppy.sh/users/25198721), **Cityyy** frequents tapping-favoured maps full of streams, and as a musician, he explores multi-genre trance-inducing tunes densely packed with 16th notes. With **Cityyy**'s addition to our Featured Artists, this might be your sign to become a stream player/mapper too.
 
-Over on [**Cityyy**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/575) you'll find **x** pre-timed beatmap templates. Peruse each one until you find the `.osz` with your name on it.
+Over on [**Cityyy**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/575) you'll find **14** pre-timed beatmap templates. Peruse each one until you find the `.osz` with your name on it.
 
 Whether you're looking for map design inspiration or some stream-filled maps to play, we have you covered:
 
