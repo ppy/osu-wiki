@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Orchard Cup 2026: Results"
-date: 2026-11-08 22:00:00 +0000
+date: 2026-11-08 21:45:00 +0000
 series: community_contests
 ---
 
