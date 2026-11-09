@@ -55,7 +55,7 @@ Một điểm căn nhịp **kế thừa** sử dụng các thiết lập căn nh
 
 ## Giao diện chính
 
-![Ảnh chụp tab timing trong editor](/wiki/shared/timing/Timing_base.jpg)
+![Ảnh chụp tab timing trong editor](/wiki/shared/timing/Timing_base-VI.jpg)
 
 Tab timing có thể được mở bằng cách nhấn `F3` và cung cấp truy cập nhanh tới các thiết lập sau:
 
@@ -77,7 +77,7 @@ Tab timing có thể được mở bằng cách nhấn `F3` và cung cấp truy 
 
 ### Bộ đếm nhịp
 
-![](img/metronome.png "Bộ đếm nhịp của osu! trong tab timing")
+![](img/metronome-VI.png "Bộ đếm nhịp của osu! trong tab timing")
 
 Bộ đếm nhịp nằm ở góc trên bên phải của tab timing, giúp nhanh chóng tìm ra các thiết lập căn nhịp gần đúng. Giá trị BPM và offset ban đầu của bài hát có thể được xác định bằng cách nhấn `T` liên tục hoặc nhấp vào nút `Gõ vào đây!` theo nhịp của bài hát.
 
