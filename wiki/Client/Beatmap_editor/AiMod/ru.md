@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 0a9f09e47d80dd57fd7d0637886dc23e0343de9a
+---
+
 # AiMod
 
 ![](img/AiMod.jpg "Окно AiMod со списком предупреждений и ошибок в карте.")

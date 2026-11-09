@@ -37,7 +37,7 @@ Alles über das Klicken von Kreisen, das Schlagen der Trommeln, das Schnappen vo
 
 [Spielmodi](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Schwierigkeitsgrad](/wiki/Beatmap/Difficulty) • [Hit-Objekte](/wiki/Gameplay/Hit_object) • [Mods](/wiki/Gameplay/Game_modifier) • [Mods (lazer)](/wiki/Gameplay/Game_modifier_(lazer)) • [Score](/wiki/Gameplay/Score) • [Replay](/wiki/Gameplay/Replay) • [Medaillen](/wiki/Medals) • [Mehrspielermodus](/wiki/Client/Interface/Multiplayer) • [Tägliche Herausforderung](/wiki/Gameplay/Daily_challenge) • [Quick play](/wiki/Gameplay/Quick_play)
+[Beatmap](/wiki/Beatmap) • [Schwierigkeitsgrad](/wiki/Beatmap/Difficulty) • [Hit-Objekte](/wiki/Gameplay/Hit_object) • [Mods](/wiki/Gameplay/Game_modifier) • [Mods (lazer)](/wiki/Gameplay/Game_modifier_(lazer)) • [Score](/wiki/Gameplay/Score) • [Replay](/wiki/Gameplay/Replay) • [Medaillen](/wiki/Medals) • [Mehrspielermodus](/wiki/Gameplay/Multiplayer) • [Tägliche Herausforderung](/wiki/Gameplay/Daily_challenge) • [Quick play](/wiki/Gameplay/Quick_play)
 
 </div>
 <div class="wiki-main-page-panel">

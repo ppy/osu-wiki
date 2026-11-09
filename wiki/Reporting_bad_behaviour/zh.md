@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 40e7a35ab519347caaa07e83eb12d3f9e4f70438
----
-
 # 举报不当行为
 
 osu! 设有一个[全局管理团队](/wiki/People/Global_Moderation_Team) (GMT)，负责维护游戏及其社区生态保持干净安全。如果你发现违反规则的行为或不适当的内容，请使用下述方法之一进行举报。或者，如果你的举报在合理时间内未得到妥善处理，你也可以直接联系任何在线管理员——但这仅应作为最后的手段。
@@ -27,11 +22,9 @@ osu! 设有一个[全局管理团队](/wiki/People/Global_Moderation_Team) (GMT)
 
 ### !report 命令
 
-*注意：在 osu!(lazer) 中或网页端通过 `!report` 命令举报用户，会导致举报内容**对所有人可见！** 请改用[聊天举报菜单](#lazer-reports)或通过[其个人主页](#个人主页)进行举报。*
-
 ![](img/report-command.jpg "使用 !report 命令示例")
 
-聊天违规是最常见的违规行为。要举报此类行为，请使用 [`!report` 命令](https://osu.ppy.sh/community/forums/topics/34843)，最好在违规行为发生的频道中进行。不必紧张：如果你的消息以 `!report` 加一个空格开头，并且是在 osu!(stable) 或 IRC 客户端中发送的，**则只有管理员能看到**，聊天室中的其他人都看不到。如果你仍有顾虑，也可以像下图所示那样，通过 osu!(stable) 客户端的[游戏内覆盖层](#stable-reports)使用举报功能。
+聊天违规是最常见的违规行为。要举报此类行为，请使用 [`!report` 命令](https://osu.ppy.sh/community/forums/topics/34843)，最好在违规行为发生的频道中进行。不必紧张：如果你的消息以 `!report` 加一个空格开头，**则只有管理员能看到**，聊天室中的其他人都看不到。如果你仍有顾虑，也可以像下图所示那样，通过 osu!(stable) 客户端的[游戏内覆盖层](#stable-reports)，或者在[被举报人的个人主页](#个人主页)使用举报功能。
 
 该命令的语法有两种形式：
 

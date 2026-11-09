@@ -45,7 +45,7 @@ The GB Cup 2026 In Real Life was run by Team GB and various community members.
 | Offline helper | ::{ flag=CN }:: [\[GB\]sharkful](https://osu.ppy.sh/users/35850313), ::{ flag=CN }:: [Zyuuu](https://osu.ppy.sh/users/15389275), ::{ flag=CN }:: [-duji-](https://osu.ppy.sh/users/33554103), ::{ flag=CN }:: [Kirchhoff123](https://osu.ppy.sh/users/29546640), ::{ flag=CN }:: [neeeeeh](https://osu.ppy.sh/users/18586390), ::{ flag=CN }:: [\[GB\]Prz1y](https://osu.ppy.sh/users/14759634) |
 | Mappool selector | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [V1do-](https://osu.ppy.sh/users/17527968) |
 | Streamer | ::{ flag=CN }:: [V1do-](https://osu.ppy.sh/users/17527968) |
-| Referee | ::{ flag=CN }:: [\[GB\]Cinelia](https://osu.ppy.sh/users/24289042) |
+| Referee | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[GB\]Cinelia](https://osu.ppy.sh/users/24289042), ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334), ::{ flag=CN }:: [\[GB\]ChickenGold](https://osu.ppy.sh/users/16586663) |
 | Design | ::{ flag=RU }:: [MemeBen](https://osu.ppy.sh/users/18171966), ::{ flag=CN }:: [\[GB\]Prz1y](https://osu.ppy.sh/users/14759634) |
 | Guest | ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497), ::{ flag=KR }:: [Naaaad](https://osu.ppy.sh/users/10344857) |
 | Statistician & wiki editor | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |

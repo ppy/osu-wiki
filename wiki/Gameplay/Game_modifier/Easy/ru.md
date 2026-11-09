@@ -9,6 +9,8 @@ tags:
   - модификатор
   - изи
   - изимод
+outdated_translation: true
+outdated_since: 6f8002d584fe1170d5671e311cafb03daf702f31
 ---
 
 # Easy
@@ -82,7 +84,7 @@ Easy действует в [osu!mania](/wiki/Game_mode/osu!mania) почти т�
 ## Факты
 
 - Когда игрок расходует всё здоровье, анимация его восстановления не показывается в записи игры. Вместо этого игра просто продолжается дальше, как при включённом моде [No Fail](/wiki/Gameplay/Game_modifier/No_Fail).
-- При игре в [мультиплеере](/wiki/Client/Interface/Multiplayer) механика «жизней» не работает, если выбран режим игры [Tag Co-op или Tag Team Vs.](/wiki/Client/Interface/Multiplayer#tag-coop-/-tag-team-vs)
+- При игре в [мультиплеере](/wiki/Gameplay/Multiplayer) механика «жизней» не работает, если выбран режим игры [Tag Co-op или Tag Team Vs.](/wiki/Gameplay/Multiplayer#tag-co-op-/-tag-team-vs)
 - Включение Easy убирает [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), и наоборот.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

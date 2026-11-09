@@ -23,7 +23,7 @@ Należy zauważyć, że UR mierzy spójność między błędami trafień, a nie 
 
 ![Zrzut ekranu wykresu "performance" na ekranie wyników, z etykietą zawierającą "Unstable Rate: 124.50"](img/performance-graph.png)
 
-Po najechaniu kursorem na wykres wydajności na [ekranie wyników](/wiki/Client/Interface#results-screen), wyświetlane są informacje o średnim błędzie trafienia oraz unstable rate danego przejścia. Informacje te pojawią się tylko wtedy, gdy wynik został właśnie osiągnięty, był oglądany w trybie obserwatora lub odtworzony z powtórki.
+Po najechaniu kursorem na wykres wydajności na [ekranie wyników](/wiki/Client/Interface#ekran-wyniku), wyświetlane są informacje o średnim błędzie trafienia oraz unstable rate danego przejścia. Informacje te pojawią się tylko wtedy, gdy wynik został właśnie osiągnięty, był oglądany w trybie obserwatora lub odtworzony z powtórki.
 
 ## Z modami zmieniającymi tempo
 

@@ -19,7 +19,7 @@ In first place with a whopping **15923** votes is [Sunako](https://osu.ppy.sh/us
 
 It turns out Mocha looks really good in buns, who knew?
 
-[![](/wiki/shared/news/2018-05-02-spring-2018-fanart-contest-results/In%20those%20days.jpg)](https://assets.ppy.sh/contests/64/winners/osu%21%20Spring%20Fanart%202018%20-%20In%20those%20days.png)
+[![](/wiki/shared/news/2018-05-02-spring-2018-fanart-contest-results/In-those-days.jpg)](https://assets.ppy.sh/contests/64/winners/osu%21%20Spring%20Fanart%202018%20-%20In%20those%20days.png)
 
 Trailing super close in second place with **14251** votes is [In those days](https://osu.ppy.sh/users/777173)'s rendition of a spring-attired Pippi taking a walk among sakura-trees in bloom. Simply spectacular, what more is there to say?
 

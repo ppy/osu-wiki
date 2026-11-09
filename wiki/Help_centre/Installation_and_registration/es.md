@@ -14,13 +14,17 @@ tags:
 
 # Instalación y registro
 
-*Página principal: [Centro de ayuda](/wiki/Help_centre)*
+::: alert-note
+**Página principal:** [Centro de ayuda](/wiki/Help_centre)
+:::
 
 Esta sección está dedicada a los problemas relacionados con la instalación de osu! y la creación de tu propia cuenta.
 
 ## Instalación {id=installation}
 
-*Página principal: [Instalación](/wiki/Client/Installation)*
+::: alert-note
+**Página principal:** [Instalación](/wiki/Client/Installation)
+:::
 
 ### ¿Cómo descargo osu!? {id=download}
 
@@ -30,7 +34,9 @@ Como alternativa, [haz clic aquí](https://osu.ppy.sh/home/download) para accede
 
 ## Registro {id=registration}
 
-*Página principal: [Registro](/wiki/Registration)*
+::: alert-note
+**Página principal:** [Registro](/wiki/Registration)
+:::
 
 ### ¿Dónde puedo registrarme en osu!? {id=how-to-register}
 

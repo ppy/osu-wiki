@@ -5,7 +5,9 @@ outdated_since: 7d5c25409561f95b70f655de670ca1fa015f22fa
 
 # 토너먼트 밴
 
-*메인 페이지: [Help centre](/wiki/Help_centre)*
+::: alert-note
+**메인 페이지:** [Help centre](/wiki/Help_centre)
+:::
 
 토너먼트 밴은 플레이어가 어떤 자격으로든 공식적으로 지원되는 토너먼트에 참여하는 것을 금지합니다. 여기에는 대회 플레이 및 스태프 활동과 대회에 관련된 지원이 포함됩니다.
 

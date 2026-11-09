@@ -7,7 +7,7 @@ series: project_loved
 
 It's time for [Project Loved](https://osu.ppy.sh/community/forums/120) once again! Check out the new batch of maps that could be Loved, and vote for your favourites!
 
-[![](/wiki/shared/news/banners/project-loved.jpg)](https://osu.ppy.sh/community/forums/120)
+![](/wiki/shared/news/banners/project-loved.jpg)
 
 Welcome to [Project Loved](https://osu.ppy.sh/community/forums/120)'s first round of voting for June 2018! You guys know the drill by know; we've selected 28 Loved beatmap candidates based on your submissions, and now you can vote whether or not you want each map to finally enter the Loved category. If a map has at least 75% positive votes for osu! or osu!taiko, or 80% for osu!catch or osu!mania, it'll make its way into the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved)!
 

@@ -59,7 +59,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | Per-beatmap offset calibration | ![Partial][partial][^offset-calibration-stable] | ![Yes][true][^offset-calibration-lazer] |
 | osu! sliders "snake" while dragging | ![No][false] | ![Yes][true][^can-disable] |
 | osu! player-friendly "note lock" | ![No][false] | ![Yes][true][^note-lock] |
-| osu!mania and osu! timing-based note colouring | ![No][false] | ![Yes][true] |
+| osu!, osu!catch and osu!mania timing-based note colouring | ![No][false] | ![Yes][true] |
 | Replay seeking | ![No][false] | ![Yes][true] |
 | [Niconico](https://en.wikipedia.org/wiki/Niconico)-style scrolling replay comments | ![Yes][true] | ![No][false] |
 
@@ -133,7 +133,7 @@ In stable, the accuracy (and judgement) requirements for each [grade](/wiki/Game
 | B | >70% GREATs/300s (no misses) or >80% GREATs/300s | >90% | >80% |
 | C | >60% GREATs/300s | >85% | >70% |
 
-Meanwhile, osu!(lazer) has these accuracy cutoffs now:
+Meanwhile, lazer has these accuracy cutoffs now:
 
 | Grade | osu! / osu!taiko | osu!catch | osu!mania |
 | :-: | :-- | :-- | :-- |
@@ -164,12 +164,6 @@ There are also some differences in how much score each hit object and each judge
 | Revertable using the Classic mod | ![No][false] |
 | Intentionally changed | ![Yes][true] |
 | Needs further consideration | ![Yes][true] |
-
-#### Storyboard triggers are not implemented
-
-Some storyboards feature elements that react to player input or health.
-
-![](img/sb-triggers.gif)
 
 ### osu!
 
@@ -235,7 +229,7 @@ See [this YouTube video](https://www.youtube.com/watch?v=SlWKKA-ltZY) for a deta
 
 Missing a slider head (either by not hitting it or hitting it during its miss window) would previously break combo but not cause a MISS judgement, and a judgement could still be received for the missed slider by completing the rest of it. This allowed players to get scores with low max combo while technically having no misses.
 
-In lazer, not hitting the slider head will give a MISS judgement for the whole slider. After missing a slider head, combo, score, and accuracy can still be gained from slider ticks, repeats, and ends.
+In lazer, not hitting the slider head will give a MISS judgement for the whole slider. After missing a slider head, combo, score and accuracy can still be gained from slider ticks, repeats and ends.
 
 |  |  |
 | :-- | :-: |
@@ -280,7 +274,7 @@ The RPM required to get the maximum score is as follows:
 
 ![](img/aspire-slider.gif)
 
-Some adventurous beatmaps exploit glitches in the stable client that allowed for very weird slider mechanics. These range from zero-length sliders acting as invisible circles, to cross-screen stretched and squished sliders.
+Some adventurous beatmaps exploit glitches in the stable client that allow for very weird slider mechanics. These range from zero-length sliders acting as invisible circles, to cross-screen stretched and squished sliders.
 
 More discussion and consideration will be needed for how much of Aspire beatmaps will be compatible going forward. For example, invisible circles might become a properly supported feature in the future.
 
@@ -313,19 +307,6 @@ In stable, drumrolls could not be hit too quickly or too slowly. This restrictio
 | Breaks backwards compatibility | ![Yes][true] |
 | Revertable using the Classic mod | ![No][false] |
 | Intentionally changed | ![Yes][true] |
-| Needs further consideration | ![Yes][true] |
-
-#### The Flashlight centre is aligned with the hit receptor
-
-<!-- TODO: comparison image  -->
-
-In stable, the Flashlight centre is offset a bit down and to the right, making more hit objects visible.
-
-|  |  |
-| :-- | :-: |
-| Breaks backwards compatibility | ![No][false] |
-| Revertable using the Classic mod | ![No][false] |
-| Intentionally changed | ![No][false] |
 | Needs further consideration | ![Yes][true] |
 
 ### osu!catch
@@ -459,9 +440,9 @@ That said, individual scores and beatmaps can be exported from lazer and manuall
 
 #### If I set a score on lazer, will it show on my profile?
 
-Yes, but it won't show in "best performance" with "lazer mode" turned off on the website.
+Scores set on lazer will be displayed under `Pinned Scores`, `Best Performance`, `Recent Plays (24h)` and `Most Watched Replays`.
 
-It additionally doesn't show in "first place ranks" regardless for now.
+In order for them to also show in `First Place Scores`, you have to enable `Lazer mode` on the website.
 
 #### If I set a score on lazer, will it give performance points?
 
@@ -564,7 +545,7 @@ Lazer polls for input at 1,000 Hz regardless of FPS limiter, which is why the ma
 
 If you are curious about how this affects input latency and test your own perception, please run the built-in "latency certifier" at the bottom of settings.
 
-You can also [read this technical document](https://github.com/ppy/osu/wiki/Latency-and-unlimited-frame-rates) explaining the path we are taking along with rationale behind it.
+You can also [read this technical document](https://github.com/ppy/osu/wiki/Latency-and-unlimited-frame-rates) explaining the path we are taking along with the rationale behind it.
 
 #### If input is only polled at 1,000 Hz, what about my 8,000 Hz gaming mouse?
 

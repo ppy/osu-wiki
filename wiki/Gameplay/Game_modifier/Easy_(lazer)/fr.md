@@ -15,7 +15,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 
 #### Easy
 
-![Icône du mod Easy](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/EZ.png)
+![Icône du mod Easy](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/EZ.png?1)
 
 *![][osu!] Cercles plus larges, barre de vie plus indulgente, moins de précision nécessaire, et deux vies supplémentaires !*\
 *![][osu!taiko] Les notes arrivent plus lentement, et moins de précision nécessaire !*\

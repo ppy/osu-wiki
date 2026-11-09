@@ -24,7 +24,7 @@ Berikut adalah daftar berbagai panduan yang telah dibuat oleh anggota-anggota ko
 - [Panduan Mapping osu!mania](osu!mania_Mapping_Guide)
 - [Mengatur offset dengan ketukan yang tepat](Setting_the_Offset_on_the_Correct_Beat)
 - [Menambahkan hitsound khusus](Using_custom_hitsounds)
-- [Menentukan timing lagu dengan birama #/8](Timing_Songs_With_8-Signatures)
+- [Menentukan timing lagu dengan birama #/8](Timing_songs_with_N_per_8_time_signatures)
 
 ## Modding
 

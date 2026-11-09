@@ -17,7 +17,7 @@ outdated_since: a1204aec65f4533d47725e5a423e288bc4a41a40
 ![Ikon mod Co-op](/wiki/shared/mods/CP.png "Ikon mod Co-op (CO)")
 
 *Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game Modifier](/wiki/Gameplay/Game_modifier)*\
-*Berbeda konteks dengan [Multiplayer](/wiki/Client/Interface/Multiplayer).*
+*Berbeda konteks dengan [Multiplayer](/wiki/Gameplay/Multiplayer).*
 
 ## Tentang
 

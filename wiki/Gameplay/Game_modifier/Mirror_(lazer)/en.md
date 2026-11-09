@@ -12,7 +12,7 @@ tags:
 
 #### Mirror
 
-![Mirror mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/MR.png)
+![Mirror mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/MR.png?1)
 
 *![][osu!]: Flip objects on the chosen axes.*\
 *![][osu!catch]: Fruits are flipped horizontally.*\
@@ -32,7 +32,7 @@ tags:
 :::
 
 ::: alert-note
-**Note:** For the osu!stable version of this article, see [Mirror (mod)](/wiki/Gameplay/Game_modifier/Mirror)
+**Note:** For the osu!(stable) version of this article, see [Mirror (mod)](/wiki/Gameplay/Game_modifier/Mirror)
 :::
 
 ::: alert-note

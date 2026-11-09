@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 8671cc4ee70371518ae3834e7a44c327317eca8c
 ---
 
 # Sejarah osu! wiki

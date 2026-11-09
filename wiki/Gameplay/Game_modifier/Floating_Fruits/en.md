@@ -12,7 +12,7 @@ tags:
 
 #### Floating Fruits
 
-![Floating Fruits mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/FF.png)
+![Floating Fruits mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/FF.png?1)
 
 *The fruits are... floating?*
 

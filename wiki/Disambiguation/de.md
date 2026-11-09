@@ -14,6 +14,7 @@ Ein normaler Artikel, mit einem ähnlichen Titel, muss die Kopfnote ["Für ander
 - [Mod](Mod)
 - [NC](NC)
 - [NM](NM)
+- [Note](Note)
 - [osu!](osu!)
 - [Ouendan](Ouendan)
 - [Rank](Rank)

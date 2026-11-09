@@ -11,7 +11,7 @@ tags:
 
 #### Muted
 
-![Muted 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/MU.png)
+![Muted 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/MU.png?1)
 
 *没有音乐，你还能感知到节奏吗？*
 
@@ -20,8 +20,8 @@ tags:
 | 缩写 | MU |
 | 类别 | 娱乐 |
 | 游戏模式 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| 得分系数 | `1.00x` |
-| 状态 | 计入排名 |
+| 得分倍率 | `1.00x` |
+| 状态 | 可计表现分 |
 | 不兼容的模组 | 无 |
 
 :::
