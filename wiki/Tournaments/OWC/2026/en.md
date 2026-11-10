@@ -154,7 +154,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/dc7
 | 15 | Sweden ::{ flag=SE }:: | ::{ flag=MY }:: Malaysia | [Nov 14 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261114T120000&p1=1440&p2=239&p3=122) | [osulive](https://twitch.tv/osulive) |
 | 13 | Netherlands ::{ flag=NL }:: | ::{ flag=RO }:: Romania | [Nov 14 (Sat) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261114T133000&p1=1440&p2=16&p3=49) | [osulive](https://twitch.tv/osulive) |
 | 5 | Poland ::{ flag=PL }:: | ::{ flag=FR }:: France | [Nov 14 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261114T150000&p1=1440&p2=262&p3=195) | [osulive](https://twitch.tv/osulive) |
-| 12 | Argentina ::{ flag=AR }:: | ::{ flag=ES }:: Spain | [Nov 14 (Sat) 16:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261114T163000&p1=1440&p2=51&p3=141) | [osulive](https://twitch.tv/osulive) |
 | 1 | United States ::{ flag=US }:: | ::{ flag=FI }:: Finland | [Nov 14 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261114T180000&p1=1440&p2=263&p3=101) | [osulive](https://twitch.tv/osulive) |
 | 4 | Canada ::{ flag=CA }:: | ::{ flag=BR }:: Brazil | [Nov 14 (Sat) 19:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261114T193000&p1=1440&p2=188&p3=45) | [osulive](https://twitch.tv/osulive) |
 
@@ -167,10 +166,11 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/dc7
 | 10 | Philippines ::{ flag=PH }:: | ::{ flag=SA }:: Saudi Arabia | [Nov 15 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261115T090000&p1=1440&p2=145) | [osulive](https://twitch.tv/osulive) |
 | 16 | Taiwan ::{ flag=TW }:: | ::{ flag=UA }:: Ukraine | [Nov 15 (Sun) 10:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261115T103000&p1=1440&p2=241&p3=367) | [osulive](https://twitch.tv/osulive) |
 | 2 | United Kingdom ::{ flag=GB }:: | ::{ flag=HK }:: Hong Kong | [Nov 15 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261115T120000&p1=1440&p2=136&p3=102) | [osulive](https://twitch.tv/osulive) |
-| 6 | Russian Federation ::{ flag=RU }:: | ::{ flag=DE }:: Germany | [Nov 15 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261115T133000&p1=1440&p2=166&p3=37) | [osulive](https://twitch.tv/osulive) |
+| 6 | Russian Federation ::{ flag=RU }:: | ::{ flag=DE }:: Germany | [Nov 15 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261115T150000&p1=1440&p2=166&p3=37) | [osulive](https://twitch.tv/osulive) |
 | 11 | Austria ::{ flag=AT }:: | ::{ flag=TR }:: Türkiye | [Nov 15 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261115T150000&p1=1440) | [osulive](https://twitch.tv/osulive) |
 | 3 | Chile ::{ flag=CL }:: | ::{ flag=NO }:: Norway | [Nov 15 (Sun) 16:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261115T163000&p1=1440&p2=232&p3=187) | [osulive](https://twitch.tv/osulive) |
-| SC | Quarterfinals | mappool showcase | [Nov 15 (Sun) 18:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20261115T180000&p1=1440) | [osulive](https://twitch.tv/osulive) |
+| 12 | Argentina ::{ flag=AR }:: | ::{ flag=ES }:: Spain | [Nov 15 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261115T190000&p1=1440&p2=51&p3=141) | [osulive](https://twitch.tv/osulive) |
+| SC | Quarterfinals | mappool showcase | [Nov 15 (Sun) 20:30 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20261115T200000&p1=1440) | [osulive](https://twitch.tv/osulive) |
 
 ## Match results
 
@@ -432,7 +432,7 @@ Group H:
 - Free Mod
   1. [Sukima Altera - Ms. Lunatic Raver (osu!Mix) (Pho) \[Psychotic (OWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2620944#osu/5991839)
   2. [Pearl & The Oysters - Sous la lune mandarine (squirrelpascals) \[anatomy of an orange\]](https://osu.ppy.sh/beatmapsets/2650841#osu/5991860)
-  3. [I Prevail - Body Bag (piroshki) \[Deadweight\]](https://osu.ppy.sh/beatmapsets/2586059#osu/5768148)
+  3. [I Prevail - Body Bag (piroshki) \[Deadweight (owc ver.)\]](https://osu.ppy.sh/beatmapsets/2586059#osu/5991687)
   4. [pa-o-mu99999 - bobobo-bo bo-bobobo (fanzhen0019) \[d-ddd-d-ddddd-d\]](https://osu.ppy.sh/beatmapsets/2650845#osu/5991868)
 - Tiebreaker
   1. **[Pratanallis feat. KOKOMI - Reve d'ange (ponbot, Satellite) \[Resplendissant\]](https://osu.ppy.sh/beatmapsets/2650854#osu/5991904)**
