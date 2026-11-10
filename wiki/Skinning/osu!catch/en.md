@@ -8,7 +8,7 @@
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 2.3+ | ![Yes][true] | ![Yes][true] | Normal | Top | Min width: 302px |
+| 2.3+ | ![Yes][true] | ![Yes][true] | Normal | Top | Min width: 306px |
 
 Notes:
 
