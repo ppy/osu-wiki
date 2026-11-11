@@ -158,7 +158,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/dc7
 | 1 | United States ::{ flag=US }:: | ::{ flag=FI }:: Finland | [Nov 14 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261114T180000&p1=1440&p2=263&p3=101) | [osulive](https://twitch.tv/osulive) |
 | 4 | Canada ::{ flag=CA }:: | ::{ flag=BR }:: Brazil | [Nov 14 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261114T190000&p1=1440&p2=188&p3=45) | [osulive](https://twitch.tv/osulive) |
 
-### Sunday, 25 October 2026
+### Sunday, 15 November 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |
 | :-: | --: | :-- | :-- | :-: |
