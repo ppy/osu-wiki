@@ -143,7 +143,6 @@ Captains are listed in **bold**
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/dc73f8a9c4b74bdb75b26322c83f6ff1).
 
-
 ## Match schedule: Round of 16
 
 ### Saturday, 14 November 2026
