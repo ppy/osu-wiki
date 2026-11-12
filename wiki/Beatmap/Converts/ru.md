@@ -20,7 +20,7 @@ tags:
 ### Из osu! в osu!taiko
 
 ::: alert-note
-**См. также:** [osu!taiko § Конверсия из osu!](/wiki/Game_mode/osu!taiko#osu!-conversion-notes)
+**См. также:** [osu!taiko § Конверсия из osu!](/wiki/Game_mode/osu!taiko#особенности-конвертации-из-osu!)
 :::
 
 Конверты для osu!taiko генерирутся в зависимости от использованных [хитсаундов](/wiki/Beatmapping/Hitsound), ритма карты и изменения скорости слайдеров. В зависимости от типа [объектов](/wiki/Gameplay/Hit_object) и их хитсаундов, происходит следующее:
