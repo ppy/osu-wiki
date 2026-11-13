@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Digit World Cup 2026 Concludes
-date: 2026-11-12 19:00:00
+date: 2026-11-13 03:00:00
 series: community_tournaments
 ---
 
@@ -13,7 +13,7 @@ This iteration of 4WC [brought together](https://osu.ppy.sh/home/news/2026-06-04
 
 ## Summary
 
-![4WC 2026 podium](/wiki/shared/news/2026-11-12-4-digit-world-cup-2026-concludes/podium.jpg)
+![4WC 2026 podium](/wiki/shared/news/2026-11-13-4-digit-world-cup-2026-concludes/podium.jpg)
 
 This year, the United States took the title once again, becoming your 4 Digit World Cup champions for the fourth year in a row!
 
@@ -128,7 +128,7 @@ This 4WC, we had the pleasure of working with an unprecedented variety of compos
 You can click on any of the banners to view a showcase video on YouTube.
 :::
 
-[![](/wiki/shared/news/2026-11-12-4-digit-world-cup-2026-concludes/astral-tether.jpg)](https://www.youtube.com/watch?v=KAMOwKrriQY)
+[![](/wiki/shared/news/2026-11-13-4-digit-world-cup-2026-concludes/astral-tether.jpg)](https://www.youtube.com/watch?v=KAMOwKrriQY)
 
 [CryoChem](https://osu.ppy.sh/users/38269492) & [sugosugiii](https://osu.ppy.sh/users/15118952) - [Astral Tether](https://osu.ppy.sh/beatmapsets/2589083#osu/5776219) \[Netnekyai's Liminality\]\
 Design by [Z419](https://osu.ppy.sh/users/9912966) | Mapped by [netnesanya](https://osu.ppy.sh/users/6017901) and [Kyairie](https://osu.ppy.sh/users/10910405)\
@@ -138,7 +138,7 @@ BPM: 175 | Length: 2:47 | ★ 6.63
 
 ---
 
-[![](/wiki/shared/news/2026-11-12-4-digit-world-cup-2026-concludes/glowstone.jpg)](https://www.youtube.com/watch?v=vSyOrBN6sFk)
+[![](/wiki/shared/news/2026-11-13-4-digit-world-cup-2026-concludes/glowstone.jpg)](https://www.youtube.com/watch?v=vSyOrBN6sFk)
 
 [XaverXD](https://osu.ppy.sh/users/12448575) - [Glowstone% [Tech-Assisted Speedrun]](https://osu.ppy.sh/beatmapsets/2605170#osu/5828632) \[6:50:359\]\
 Illustration by [kyermaniac](https://osu.ppy.sh/users/32859564), design & video by [Aracium](https://osu.ppy.sh/users/15882740)\
@@ -149,7 +149,7 @@ BPM: 180 | Length: 3:24 | ★ 7.00
 
 ---
 
-[![](/wiki/shared/news/2026-11-12-4-digit-world-cup-2026-concludes/meet-your-demise.jpg)](https://www.youtube.com/watch?v=N6aZMRu_mso)
+[![](/wiki/shared/news/2026-11-13-4-digit-world-cup-2026-concludes/meet-your-demise.jpg)](https://www.youtube.com/watch?v=N6aZMRu_mso)
 
 [Febbs!](https://ivaadenfebbs.carrd.co/) - [Meet Your Demise](https://osu.ppy.sh/beatmapsets/2609056#osu/5841185) \[hi hello\]\
 Illustration, design & motion by [Febbs!](https://ivaadenfebbs.carrd.co/)\
@@ -160,7 +160,7 @@ BPM: 175 | Length: 2:30 | ★ 6.90
 
 ---
 
-[![](/wiki/shared/news/2026-11-12-4-digit-world-cup-2026-concludes/shibuya-after-midnight.jpg)](https://www.youtube.com/watch?v=CLpUY9S1DgQ)
+[![](/wiki/shared/news/2026-11-13-4-digit-world-cup-2026-concludes/shibuya-after-midnight.jpg)](https://www.youtube.com/watch?v=CLpUY9S1DgQ)
 
 [Project NVII](https://ffm.to/thank-you-my-friends-memory-replay) x [Febbs!](https://ivaadenfebbs.carrd.co/) - [Shibuya After Midnight (feat. Dazuko)](https://osu.ppy.sh/beatmapsets/2609234#osu/5841678) \[Extreme\]\
 Design by [Project NVII](https://ffm.to/thank-you-my-friends-memory-replay), motion by [Febbs!](https://ivaadenfebbs.carrd.co/)\
@@ -171,7 +171,7 @@ BPM: 180 | Length: 3:14 | ★ 6.49
 
 ---
 
-[![](/wiki/shared/news/2026-11-12-4-digit-world-cup-2026-concludes/ascending.jpg)](https://www.youtube.com/watch?v=6TaS3jkZTtw)
+[![](/wiki/shared/news/2026-11-13-4-digit-world-cup-2026-concludes/ascending.jpg)](https://www.youtube.com/watch?v=6TaS3jkZTtw)
 
 [Halgoh](https://osu.ppy.sh/users/4109923) - [Ascending](https://osu.ppy.sh/beatmapsets/2613192#osu/5854438) \[Halgoh x Maestro\]\
 Illustration by [Windwolfy](https://cara.app/kenddrakai), design by Isha.\
@@ -184,7 +184,7 @@ BPM: 178 | Length: 3:50 | ★ 7.18
 
 ---
 
-[![](/wiki/shared/news/2026-11-12-4-digit-world-cup-2026-concludes/sidekick.jpg)](https://www.youtube.com/watch?v=QKEchuR4gIY)
+[![](/wiki/shared/news/2026-11-13-4-digit-world-cup-2026-concludes/sidekick.jpg)](https://www.youtube.com/watch?v=QKEchuR4gIY)
 
 [SJ68](https://linktr.ee/SJ68_Ent) - [SIDEKICK](https://osu.ppy.sh/beatmapsets/2613174#osu/5854384) \[///STILL KICKING///\]\
 Design & motion by motionless.\
@@ -197,7 +197,7 @@ BPM: 200 | Length: 2:21 | ★ 6.94
 
 ---
 
-[![](/wiki/shared/news/2026-11-12-4-digit-world-cup-2026-concludes/radian-lunacy.jpg)](https://www.youtube.com/watch?v=in8JlvrhL1Y)
+[![](/wiki/shared/news/2026-11-13-4-digit-world-cup-2026-concludes/radian-lunacy.jpg)](https://www.youtube.com/watch?v=in8JlvrhL1Y)
 
 [jeko](https://jekoofficial.straw.page/) (w/ [Syuenn](https://syuenn.straw.page/) & [Krasper2](https://www.youtube.com/@Krasper2)) - [Radian Lunacy](https://osu.ppy.sh/beatmapsets/2613176#osu/5854390) \[FOUR DIMENSIONS\]\
 Illustration by [Nightingale](https://twitter.com/kaisoushiroune), design by [Aracium](https://osu.ppy.sh/users/15882740), video by [Aquatic_3](https://osu.ppy.sh/users/22711091).\
@@ -208,7 +208,7 @@ BPM: 205 | Length: 5:45 | ★ 8.02
 
 ---
 
-[![](/wiki/shared/news/2026-11-12-4-digit-world-cup-2026-concludes/contexture.jpg)](https://www.youtube.com/watch?v=PowXh8XF2a0)
+[![](/wiki/shared/news/2026-11-13-4-digit-world-cup-2026-concludes/contexture.jpg)](https://www.youtube.com/watch?v=PowXh8XF2a0)
 
 [they](https://linktr.ee/th3y) - [Contexture](https://osu.ppy.sh/beatmapsets/2616999#osu/5869835) \[Dazzling Occurrence\]\
 Illustration by [kawaizem](https://osu.ppy.sh/users/13843101), design by [mochasan](https://osu.ppy.sh/users/23804364), video by [Iskas](https://osu.ppy.sh/users/16816551).\
@@ -221,7 +221,7 @@ BPM: 150 | Length: 5:23 | ★ 7.42
 
 ---
 
-[![](/wiki/shared/news/2026-11-12-4-digit-world-cup-2026-concludes/xelino-x-nexo-tli.jpg)](https://www.youtube.com/watch?v=eGIj7nAN4Hw)
+[![](/wiki/shared/news/2026-11-13-4-digit-world-cup-2026-concludes/xelino-x-nexo-tli.jpg)](https://www.youtube.com/watch?v=eGIj7nAN4Hw)
 
 [Xomaryu](https://www.youtube.com/channel/UCckzpT_heaLSyQoi_gQHyYQ) - [Xelino-x//Nexo'tli](https://osu.ppy.sh/beatmapsets/2616998#osu/5869834) \[PROJECT:VOID\]\
 Illustration by [nabi](https://x.com/nabie0x), design by [Kanomi](https://osu.ppy.sh/users/37694048), video by kyo.\
@@ -232,7 +232,7 @@ BPM: 230 | Length: 3:04 | ★ 8.28
 
 ---
 
-[![](/wiki/shared/news/2026-11-12-4-digit-world-cup-2026-concludes/ridiculous-rhythmic-tester.jpg)](https://www.youtube.com/watch?v=tE6CVkjHeWc)
+[![](/wiki/shared/news/2026-11-13-4-digit-world-cup-2026-concludes/ridiculous-rhythmic-tester.jpg)](https://www.youtube.com/watch?v=tE6CVkjHeWc)
 
 [OfficialAz3](https://youtube.com/@OfficialAz3) feat. DawMii - [Ridiculous Rhythmic Tester (osu ver)](https://osu.ppy.sh/beatmapsets/2617012#osu/5869878) \[\<(@_@)\>\]\
 Illustration, design & motion by [Febbs!](https://ivaadenfebbs.carrd.co/)\
@@ -243,7 +243,7 @@ BPM: 176 | Length: 2:52 | ★ 6.73
 
 ---
 
-[![](/wiki/shared/news/2026-11-12-4-digit-world-cup-2026-concludes/rhapsody-for-the-regina.jpg)](https://www.youtube.com/watch?v=o3z3ND4W0aM)
+[![](/wiki/shared/news/2026-11-13-4-digit-world-cup-2026-concludes/rhapsody-for-the-regina.jpg)](https://www.youtube.com/watch?v=o3z3ND4W0aM)
 
 [THE BEAT WIZARD](https://www.youtube.com/@THE_BEAT_WIZARD) - [Rhapsody for the Regina in C minor, Op. 10](https://osu.ppy.sh/beatmapsets/2617039#osu/5869935) \[Masquerade\]\
 Illustration by [kawaizem](https://osu.ppy.sh/users/13843101) & pigeonbait, design by [kae1](https://osu.ppy.sh/users/27779868), video by [Aquatic_3](https://osu.ppy.sh/users/22711091), storyboard by [Pho](https://osu.ppy.sh/users/3624692) & [darkos](https://osu.ppy.sh/users/5969271).\
@@ -279,7 +279,7 @@ BPM: 200 | Length: 8:38 | ★ 8.36
 
 ### skiatzo
 
-![](/wiki/shared/news/2026-11-12-4-digit-world-cup-2026-concludes/skiatzo.png)
+![](/wiki/shared/news/2026-11-13-4-digit-world-cup-2026-concludes/skiatzo.png)
 
 ::{ flag=GB }:: [skiatzo](https://osu.ppy.sh/users/16774872) (a.k.a. saim) captained Team United Kingdom and was one of the tournament's strongest players, finishing first in the individual statistics in both Quarterfinals and Semifinals. He later joined the staff team as a playtester.
 
@@ -353,7 +353,7 @@ As for the future, it depends on who stays. From the looks of things, everyone e
 
 ### Pezz
 
-![](/wiki/shared/news/2026-11-12-4-digit-world-cup-2026-concludes/pezz.png)
+![](/wiki/shared/news/2026-11-13-4-digit-world-cup-2026-concludes/pezz.png)
 
 ::{ flag=US }:: [Pezz](https://osu.ppy.sh/users/10651106) is a two-time 4WC champion who transitioned into mappooling in 2025. Continuing his involvement this year, he returns as a head pooler.
 
@@ -413,7 +413,7 @@ My personal favorite custom was the Final TB. It's my favorite skillset in the g
 
 Last but not least, 4WC would not have been possible without our massive staff team of 159 members working behind the scenes for 1,066 players who signed up to compete.
 
-![4WC 2026 credits](/wiki/shared/news/2026-11-12-4-digit-world-cup-2026-concludes/credits.png)
+![4WC 2026 credits](/wiki/shared/news/2026-11-13-4-digit-world-cup-2026-concludes/credits.png)
 
 We hope to see all of you again in 4WC 2027!
 
