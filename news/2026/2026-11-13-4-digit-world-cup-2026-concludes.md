@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Digit World Cup 2026 Concludes
-date: 2026-11-13 08:00:00
+date: 2026-11-13 15:00:00
 series: community_tournaments
 ---
 
