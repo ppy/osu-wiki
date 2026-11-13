@@ -90,11 +90,11 @@ Group B turned out to be a tale of two matchups: [Germany vs. New Zealand](https
 | #3 | ::{ flag=SE }:: Sweden | **1** | 2 | 8 | 14 | **-6** | 14 |
 | #4 | ::{ flag=TH }:: Thailand | **0** | 3 | 7 | 15 | **-8** | 22 |
 
-group c desc
+Group C opened up with a dominating set of three consecutive wins by China, placing them firmly at the number one spot before any other matches even had the chance to be played out. The second ticket into the winners' bracket saw more contestion after [France](https://osu.ppy.sh/community/matches/122128337) and [Sweden](https://osu.ppy.sh/community/matches/122134184) both took down Thailand, but it was ultimately France who came on top off of a [5–2 seed upset against Sweden](https://osu.ppy.sh/community/matches/122135541).
 
-**Highlight match:** tbd
+**Highlight match:** [Sweden vs. Thailand](https://osu.ppy.sh/community/matches/122134184) ([VOD](https://www.youtube.com/watch?v=oJJoERANt5I)) saw a whopping three of the top 20 closest maps of the entire Group Stage all in one match, with Thailand threatening a massive seed upset up 4–3 off of a few last-minute steals before letting it slip away and allowing Sweden to breathe a sigh of relief.
 
-**Group MVP:** tbd
+**Group MVP:** ::{ flag=SE }:: [scylla](https://osu.ppy.sh/users/9405745), despite falling short of the winners' bracket spot, showed yet again what a force to be reckoned with he is. An average score of 752,140 across each and every one of Sweden's 22 played maps as well as the [only SS score in the Group Stage](https://www.youtube.com/watch?v=oJJoERANt5I&t=1544) — nothing short of incredible.
 
 ### Group D
 
