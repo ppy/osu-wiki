@@ -59,5 +59,4 @@ Les trois échantillons suivants sont additifs, ce qui signifie que lorsque vous
 
 ## Articles connexes
 
-- [Bibliothèque de hitsounds personnalisés](/wiki/Guides/Custom_hitsound_library)
 - [Skinning/Sons](/wiki/Skinning/Sounds)
