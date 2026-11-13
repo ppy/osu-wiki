@@ -121,7 +121,7 @@ As they continued into the latter half of the match, the Philippines were able t
 
 ## 4WC originals
 
-This 4WC, we had the pleasure of working with an unprecedented variety of composers and designers for a total of 12 4WC originals. Hear all about them from our composers!
+This 4WC, we had the pleasure of working with an unprecedented variety of composers and designers for a total of **eleven** 4WC originals. Hear all about them from our composers!
 
 ::: alert-tip
 **Tip**
