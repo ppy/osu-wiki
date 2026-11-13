@@ -72,8 +72,8 @@ Po prawej stronie paska punktów życia wyświetla się łączny wynik, a pod ni
 
 Domyślne ustawienia sterowania w osu! to:
 
-| Mysz| Klawiatura| Tablet/ekran dotykowy|
-|:-- |:-- |:-- |
+| Mysz | Klawiatura | Tablet/ekran dotykowy |
+| :-- | :-- | :-- |
 | Lewy przycisk (M1) / Prawy przycisk (M2) | `Z` (K1) / `X` (K2) | Dotknięcie ekranu (M1) |
 
 Elementy rozgrywki przyjmą jakikolwiek sygnał zarejestrowany przez urządzenie, o ile obiekt został trafiony na czas.
@@ -151,7 +151,7 @@ Ukończenie dendena nie zwiększa combo ani nie odnawia punktów życia. Za każ
 
 Domyślne ustawienia sterowania w osu!taiko to:
 
-| Typ| Mysz| Klawiatura| TaTaCon|
+| Kolor kółka | Mysz | Klawiatura | TaTaCon |
 | :-- | :-- | :-- | :-- |
 | Czerwony | Lewy przycisk myszy (L) | `X` (L) / `C` (R) | Płaska powierzchnia bębęnka |
 | Niebieski | Prawy przycisk myszy (L) | `Z` (L) / `V` (R) | Krawędź bębęnka |
@@ -316,7 +316,7 @@ Układ klawiszy dla stylu *od lewej do prawej* (gry *Beatmania *IIDX**)
 
 | Ocena | Wymagania |
 | :-: | :-- |
-| SS | 100% celności|
+| SS | 100% celności |
 | S | Ponad 90% 300-tek, mniej niż 1% 50-tek oraz 0 nietrafień |
 | A | Ponad 80% 300-tek oraz 0 nietrafień **LUB** ponad 90% 300-tek |
 | B | Ponad 70% 300-tek oraz 0 nietrafień **LUB** ponad 80% 300-tek |
@@ -325,12 +325,12 @@ Układ klawiszy dla stylu *od lewej do prawej* (gry *Beatmania *IIDX**)
 
 #### ![][osu!taiko icon] osu!taiko
 
-| Ocena| Wymagania|
-|:----------:|:----------|
-| SS| 100% celności|
-| S| Ponad 95% celności (ponad 90% GREAT lub mniej niż 1 GOOD na każde 10 obiektów)|
-| A| Ponad 90% celności (ponad 80% GREAT lub mniej niż 1 GOOD na każde 5 obiektów)|
-| B| Ponad 80% celności (ponad 70% GREAT lub mniej niż 1 GOOD na każde 3,33 obiektów)|
+| Ocena | Wymagania |
+| :-: | :-- |
+| SS | 100% celności |
+| S | Ponad 95% celności (ponad 90% GREAT lub mniej niż 1 GOOD na każde 10 obiektów) |
+| A | Ponad 90% celności (ponad 80% GREAT lub mniej niż 1 GOOD na każde 5 obiektów) |
+| B | Ponad 80% celności (ponad 70% GREAT lub mniej niż 1 GOOD na każde 3,33 obiektów) |
 
 #### ![][osu!catch icon] osu!catch
 
@@ -463,9 +463,9 @@ Istnieją jednak nieoficjalne porty gry oraz oficjalny spin-off dostępny na urz
 
 Do najbardziej znanych z nich należą:
 
-- ![][osu! icon] opsu! [Windows/OS X/ Linux/Android]: Port osu! napisany w Javie przez użytkownika **itdelatrisu**, ze wsparciem ze strony **fluddokt** przy tworzeniu wersji na Androida.
-- ![][osu!taiko icon] T-Aiko! v2 [Android/iOS]: Port osu!taiko stworzony przez **zespół low.moe (Guy-kun)**. Zawiera system dziennych wyzwań oraz doszlifowaną tabelę wyników T-Aiko!.
-- ![][osu! icon] osu!stream [iOS]: Doświadcz nowego spin-offu osu! stworzonego od zera przez zespół osu!, przeznaczonego na urządzenia z systemem iOS.
+- ![][osu! icon] opsu! (Windows/OS X/ Linux/Android): Port osu! napisany w Javie przez użytkownika **itdelatrisu**, ze wsparciem ze strony **fluddokt** przy tworzeniu wersji na Androida.
+- ![][osu!taiko icon] T-Aiko! v2 (Android/iOS): Port osu!taiko stworzony przez **zespół low.moe (Guy-kun)**. Zawiera system dziennych wyzwań oraz doszlifowaną tabelę wyników T-Aiko!.
+- ![][osu! icon] osu!stream (iOS): Doświadcz nowego spin-offu osu! stworzonego od zera przez zespół osu!, przeznaczonego na urządzenia z systemem iOS.
 
 ### osu!
 
@@ -527,7 +527,7 @@ Wykonaj poniższe kroki:
 - Nieaktualne FAQ autorstwa peppy’ego (`/p/faq/`, na którym to bazowany był ten artykuł; obecnie usunięte)
 - Wątek „Beginner's Training” autorstwa Pokebis [\[1\]](https://osu.ppy.sh/community/forums/topics/5456 "Beginner Training autorstwa Pokebis")
 - Wątek „TBT Project \[Training Manual For Taiko Beginner v2\]” autorstwa OnosakiHito [\[2\]](https://osu.ppy.sh/community/forums/topics/175867 "Projekt TBT [Training Manual For Taiko Beginner v2] autorstwa OnosakiHito")
-- Wątek „CBT Project”	 autorstwa Kingkevin30 [\[3\]](https://osu.ppy.sh/community/forums/topics/131067 "Projekt CBT autorstwa Kingkevin30")
+- Wątek „CBT Project” autorstwa Kingkevin30 [\[3\]](https://osu.ppy.sh/community/forums/topics/131067 "Projekt CBT autorstwa Kingkevin30")
 - Wątek „osu!mania maps, sorted by difficulty” autorstwa Entozer [\[4\]](https://osu.ppy.sh/community/forums/topics/147552 "Lista map dla trybu osu!mania autorstwa Entozer, posortowana według poziomu trudności")
 - Wątek „\[GUIDE\] How to improve in osu!mania autorstwa” Drace [\[5\]](https://osu.ppy.sh/community/forums/topics/147552 "Poradnik, jak poprawić swoje umiejętności w trybie osu!mania autorstwa Drace")
 - Wątek „osu!search - Advanced beatmap searching” autorstwa Rivenation [\[6\]](https://osu.ppy.sh/community/forums/topics/380485 "Zaawansowana wyszukiwarka beatmap autorstwa Rivenation")
