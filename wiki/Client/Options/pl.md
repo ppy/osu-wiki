@@ -126,8 +126,8 @@ Jeżeli rozwiniesz listę opcji `Limit klatek`, zobaczysz następujące opcje:
 | :-- | :-- | :-- | :-- |
 | `Wybierz rozdzielczość` | Ustawia rozdzielczość klienta gry. Można wybrać jedynie wartości wspierane przez kartę graficzną oraz monitor. | Rozwijane menu |  |
 | `Tryb pełnoekranowy` | Uruchamia grę w trybie pełnoekranowym (zazwyczaj zmniejsza opóźnienie kursora). | Pole wyboru | `Włączone` |
-| `Render at native resolution` | Używa pełnej rozdzielczości ekranu, jednak osu! będzie wyświetlane jedynie w mniejszej części pośrodku. | Pole wyboru | `Włączone` |
 | `Minimise on alt-tab during fullscreen` | Minimalizuje okno gry po naciśnięciu `Alt` + `Tab`. | Pole wyboru | `Włączone` |
+| `Render at native resolution` | Używa pełnej rozdzielczości ekranu, jednak osu! będzie wyświetlane jedynie w mniejszej części pośrodku. | Pole wyboru | `Włączone` |
 | `Pozycja pozioma` | Dostosowuje pozycję poziomą w trybie letterboxingu. Dostępne jedynie po zaznaczeniu `Render at native resolution`. | Suwak | `0%` |
 | `Pozycja pionowa` | Dostosowuje pozycję pionową w trybie letterboxingu. Dostępne jedynie po zaznaczeniu `Render at native resolution`. | Suwak | `0%` |
 
@@ -291,7 +291,7 @@ Ta sekcja jest poświęcona sterowaniu w grze.
 | :-- | :-- | :-- | :-- |
 | `Czułość myszki` | Dostosowuje czułość kursora myszy. Zmiana tej opcji automatycznie aktywuje opcję `Użyj odczytu bezpośredniego`. | Suwak | `1x` |
 | `Użyj odczytu bezpośredniego` | Odczytuje nieprzetworzoną przez system pozycję myszy lub tabletu bezpośrednio z urządzenia (zapobiega akceleracji). | Pole wyboru | `Wyłączone` |
-| `Mapuj powierzchnię roboczą tabletu do okna osu!` | Proporcjonalnie dostosowuje odczyt bezpośredni urządzenia (np. tableta) do wielkości klienta gry. | Pole wyboru | `Wyłączone` |
+| `Mapuj powierzchnię roboczą tabletu do okna osu!` | Proporcjonalnie dostosowuje odczyt bezpośredni urządzenia (np. tableta) do wielkości klienta gry. | Pole wyboru | Obecna wartość opcji `Użyj odczytu bezpośredniego` |
 | `Ograniczaj kursor myszy` | Zapobiega wychodzeniu kursora myszy poza okno klienta gry. Zjedź niżej, aby dowiedzieć się więcej. | Rozwijane menu | `Tylko w trybie pełnoekranowym` |
 | `Wyłącz kółko myszy podczas gry` | Wyłącza kółko myszy podczas rozgrywki. Kółko myszy może zmieniać ogólną głośność gry. | Pole wyboru | `Wyłączone` |
 | `Wyłącz przyciski myszy podczas gry` | Wyłącza przyciski myszy podczas rozgrywki (przydatne dla graczy używających klawiatury). | Pole wyboru | `Wyłączone` |
@@ -336,7 +336,7 @@ Te opcje oddziałują wyłącznie na edytor beatmap i tryb testowania beatmapy w
 
 | Nazwa | Opis | Typ | Domyślnie |
 | :-- | :-- | :-- | :-- |
-| `Wideo w tle` | Odtwarza wideo w tle podczas edytowania beatmapy. | Pole wyboru | `Wyłączone` |
+| `Wideo w tle` | Odtwarza wideo w tle podczas edytowania beatmapy. | Pole wyboru | `Włączone` |
 | `Używaj domyślnej skórki` | Używa domyślnej skórki osu! podczas edytowania beatmap zamiast tej wybranej przez gracza. | Pole wyboru | `Wyłączone` |
 | `Rozwijane slidery` | Slidery będą stopniowo się rozwijać również w edytorze. | Pole wyboru | `Włączone` |
 | `Animacje kliknięcia obiektów` | Animacje kliknięć obiektów będą widoczne w edytorze. | Pole wyboru | `Wyłączone` |
