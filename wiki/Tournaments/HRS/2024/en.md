@@ -93,7 +93,7 @@ Hard Rock Showdown 2024 was run by various community members.
 | ::{ flag=US }:: | **29** | **[Flameztear](https://osu.ppy.sh/users/13207763)** |
 | ::{ flag=HU }:: | **30** | **[defii](https://osu.ppy.sh/users/8698024)** |
 | ::{ flag=AR }:: | **31** | **[R1cho](https://osu.ppy.sh/users/13065919)** |
-| ::{ flag=LV}:: | **32** | **[hihihaha142](https://osu.ppy.sh/users/21653406)** |
+| ::{ flag=LV }:: | **32** | **[hihihaha142](https://osu.ppy.sh/users/21653406)** |
 
 ## Podium
 
@@ -476,7 +476,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 | #29 | ::{ flag=US }:: **[Flameztear](https://osu.ppy.sh/users/13207763)** | 4.990 | 482,046 |
 | #30 | ::{ flag=HU }:: **[defii](https://osu.ppy.sh/users/8698024)** | 4.964 | 471,771 |
 | #31 | ::{ flag=AR }:: **[R1cho](https://osu.ppy.sh/users/13065919)** | 4.855 | 473,609 |
-| #32 | ::{ flag=LV}:: **[hihihaha142](https://osu.ppy.sh/users/21653406)** | 4.840 | 468,076 |
+| #32 | ::{ flag=LV }:: **[hihihaha142](https://osu.ppy.sh/users/21653406)** | 4.840 | 468,076 |
 | #33 | ::{ flag=FI }:: [Amasetic](https://osu.ppy.sh/users/11375251) | 4.815 | 467,918 |
 | #34 | ::{ flag=NL }:: [chillington 15](https://osu.ppy.sh/users/6744123) | 4.806 | 451,814 |
 | #35 | ::{ flag=CO }:: [Carlosflow](https://osu.ppy.sh/users/11940767) | 4.728 | 446,859 |
@@ -631,7 +631,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 ### Tournament registration
 
 1. Every user interested in participating signs up individually.
-2. To ensure valid registrations, every prospective participant will be manually checked by the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) process that is offered to community tournaments.
+2. To ensure valid registrations, every prospective participant will be manually checked by the [tournament screening](/wiki/Tournaments/Official_support#screening) process that is offered to community tournaments.
    - To be successfully accepted on the list, players are required to be placed #15000 or higher on the osu! global ranking including [BWS](/wiki/Tournaments/Badge-weighted_seeding), and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 3. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators, statisticians, and streamers.
    - The tournament managers must ensure that such staff members do not have access to any priviledged data, e.g. Qualifiers score information, or mappool information before the mappool showcase.

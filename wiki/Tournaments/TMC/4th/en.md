@@ -781,7 +781,7 @@ The ruleset is primarily based on rulesets used in the [osu!mania 4K World Cup 2
 
 1. Please complete the [registration form](https://docs.google.com/forms/d/1tl-4NeWZIDI10-1Mkja8lT3DHEpIUB_PK2uqAHptVj8/) to register.
 2. A team must have a minimum of 2 and a maximum of 4 players.
-3. To ensure valid registrations, every prospective player will be manually checked via [tournament screening](/wiki/Tournaments/Official_support#tournament-screening).
+3. To ensure valid registrations, every prospective player will be manually checked via [tournament screening](/wiki/Tournaments/Official_support#screening).
    - If any member in a team is blacklisted by organisers or considered "suspicious" by the account support team, the whole team will be disqualified. **Blacklists in other tournaments will be considered as well.**
    - There are no rank requirements for this tournament, but players must not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 4. All successfully formed teams will be published after the registration phase.
