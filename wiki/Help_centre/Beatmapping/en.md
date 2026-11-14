@@ -57,4 +57,4 @@ You can delete your beatmap yourself by waiting for it to decay to the beatmap G
 
 Once your beatmap is in the Graveyard, you can delete it yourself by going to the [Discussion page](/wiki/Beatmap_discussion) of your beatmap and clicking the `Delete` button that appears on the right side of the screen after scrolling down.
 
-Occasionally, however, a beatmap may become corrupted in a way that prevents it from being updated. In that case, you can ask to have it deleted by reporting it to the [NAT](/wiki/People/Nomination_Assessment_Team) and [GMT](/wiki/People/Global_Moderation_Team) via the [beatmap page](/wiki/en/Reporting_bad_behaviour#beatmap) or the [BN website](https://bn.mappersguild.com/reports).
+Occasionally, however, a beatmap may become corrupted in a way that prevents it from being updated. In that case, you can ask to have it deleted by reporting it to the [NAT](/wiki/People/Nomination_Assessment_Team) and [GMT](/wiki/People/Global_Moderation_Team) via the [beatmap page](/wiki/Reporting_bad_behaviour#beatmap) or the [BN website](https://bn.mappersguild.com/reports).
