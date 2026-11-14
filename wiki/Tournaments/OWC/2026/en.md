@@ -163,7 +163,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/dc7
 
 ### Round of 16
 
-
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1OKR6TSPjh0lIUgyOjpdrRmVQGBEN_vkh2kK8ygWFyZE?rm=minimal).
 
 Saturday, 14 November 2026:
