@@ -143,19 +143,6 @@ Captains are listed in **bold**
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/dc73f8a9c4b74bdb75b26322c83f6ff1).
 
-## Match schedule: Round of 16
-
-### Saturday, 14 November 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |
-| :-: | --: | :-- | :-- | :-: |
-| 7 | Australia ::{ flag=AU }:: | ::{ flag=NZ }:: New Zealand | [Nov 14 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261114T100000&p1=1440&p2=57&p3=264) | [osulive](https://twitch.tv/osulive) |
-| 8 | South Korea ::{ flag=KR }:: | ::{ flag=CN }:: China | [Nov 14 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261114T130000&p1=1440&p2=235&p3=33) | [osulive](https://twitch.tv/osulive) |
-| 2 | United Kingdom ::{ flag=GB }:: | ::{ flag=HK }:: Hong Kong | [Nov 14 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261114T140000&p1=1440&p2=136&p3=102) | [osulive](https://twitch.tv/osulive) |
-| 9 | Indonesia ::{ flag=ID }:: | ::{ flag=SG }:: Singapore | [Nov 14 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261114T140000&p1=1440&p2=108&p3=236) | [osulive_2](https://twitch.tv/osulive_2) |
-| 5 | Poland ::{ flag=PL }:: | ::{ flag=FR }:: France | [Nov 14 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261114T150000&p1=1440&p2=262&p3=195) | [osulive_2](https://twitch.tv/osulive_2) |
-| 13 | Netherlands ::{ flag=NL }:: | ::{ flag=RO }:: Romania | [Nov 14 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261114T170000&p1=1440&p2=16&p3=49) | [osulive](https://twitch.tv/osulive) |
-
 ### Sunday, 15 November 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |
