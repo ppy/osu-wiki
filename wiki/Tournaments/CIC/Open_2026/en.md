@@ -42,7 +42,7 @@ The Catch Indonesia Cup Open 2026 is run by various osu! community members from 
 | :-- | :-- |
 | Host | ::{ flag=ID }:: [Intel21](https://osu.ppy.sh/users/1272422), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898) |
 | Mappool selector | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), ::{ flag=ID }:: [dika312](https://osu.ppy.sh/users/741613), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=TW }:: [Beepu](https://osu.ppy.sh/users/4958376), ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) |
-| Custom mapper | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), ::{ flag=ID }:: [dika312](https://osu.ppy.sh/users/741613), ::{ flag=ID }:: [Sololiquy](https://osu.ppy.sh/users/4350087), ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580), ::{ flag=VN }:: [-Miya](https://osu.ppy.sh/users/5978981), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=TW }:: [Beepu](https://osu.ppy.sh/users/4958376), ::{ flag=KR }:: [My Angel RangE](https://osu.ppy.sh/users/6336713), ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136), ::{ flag=DE }:: [DizzyOracel](https://osu.ppy.sh/users/32159666), ::{ flag=US }:: [Yoshi\_green](https://osu.ppy.sh/users/1035891), ::{ flag=CO }:: [\[ Azu- \]](https://osu.ppy.sh/users/8290364), *more TBA* |
+| Custom mapper | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), ::{ flag=ID }:: [dika312](https://osu.ppy.sh/users/741613), ::{ flag=ID }:: [Sololiquy](https://osu.ppy.sh/users/4350087), ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580), ::{ flag=VN }:: [-Miya](https://osu.ppy.sh/users/5978981), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=TW }:: [Beepu](https://osu.ppy.sh/users/4958376), ::{ flag=KR }:: [My Angel RangE](https://osu.ppy.sh/users/6336713), ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136), ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817), ::{ flag=DE }:: [DizzyOracel](https://osu.ppy.sh/users/32159666), ::{ flag=ES }:: [Alepe](https://osu.ppy.sh/users/15273403), ::{ flag=ES }:: [Race-](https://osu.ppy.sh/users/18660354), ::{ flag=US }:: [Yoshi\_green](https://osu.ppy.sh/users/1035891), ::{ flag=CO }:: [\[ Azu- \]](https://osu.ppy.sh/users/8290364), *more TBA* |
 | Hitsounder | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [ArXe](https://osu.ppy.sh/users/14013313), ::{ flag=PH }:: [midorijeon](https://osu.ppy.sh/users/10969875), ::{ flag=IT }:: [Leomine](https://osu.ppy.sh/users/13277919) |
 | Playtester | ::{ flag=SG }:: [\[Eun\]](https://osu.ppy.sh/users/3788536), ::{ flag=FR }:: [Nelys](https://osu.ppy.sh/users/8422828), ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817), ::{ flag=FI }:: [Veeti](https://osu.ppy.sh/users/12863098), ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823), ::{ flag=US }:: [Elux](https://osu.ppy.sh/users/12004983), ::{ flag=CL }:: [Pekorrat](https://osu.ppy.sh/users/1250096) |
 | Streamer | ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=FI }:: [kimi321](https://osu.ppy.sh/users/6962961), ::{ flag=DE }:: [Gomen Yuuka](https://osu.ppy.sh/users/14050018) |
@@ -51,7 +51,7 @@ The Catch Indonesia Cup Open 2026 is run by various osu! community members from 
 | Design coordinator | ::{ flag=MY }:: [mochasan\_](https://osu.ppy.sh/users/23804364) |
 | Graphic designer | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592), ::{ flag=ID }:: [smsrdzc](https://osu.ppy.sh/users/38505034), ::{ flag=ID }:: [CubeixID200](https://osu.ppy.sh/users/10678919), ::{ flag=IN }:: [rrex](https://osu.ppy.sh/users/16827064), ::{ flag=CA }:: [Aquatic\_3](https://osu.ppy.sh/users/22711091) |
 | Illustrator | ::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233), ::{ flag=ID }:: [Rezukitazu](https://osu.ppy.sh/users/2499880), ::{ flag=SG }:: [Hecatia](https://osu.ppy.sh/users/8244635), ::{ flag=GB }:: [pericrayola](https://osu.ppy.sh/users/31184671), ::{ flag=ID }:: Minato [(↗)](https://twitter.com/minato28507), ::{ flag=ID }:: Reminisensi [(↗)](https://twitter.com/Reminisensi_), ::{ flag=ID }:: Ueha10 [(↗)](https://twitter.com/Ueha10), ::{ flag=VN }:: Utopia [(↗)](https://twitter.com/_Utopia_Hope) |
-| Musician | ::{ flag=ID }:: sheirara [(↗)](https://twitter.com/sheirara), *more TBA* |
+| Musician | ::{ flag=ID }:: sheirara [(↗)](https://twitter.com/sheirara), ::{ flag=ES }:: Primbe [(↗)](https://soundcloud.com/primbe), trailmix37 [(↗)](https://twitter.com/trailmix37), *more TBA* |
 | Statistician | ::{ flag=SG }:: [lovemathboy](https://osu.ppy.sh/users/4220829), ::{ flag=PH }:: [MapleSyrup12](https://osu.ppy.sh/users/34222047) |
 | Wiki and newspost | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136) |
 
@@ -106,6 +106,33 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 | 32 | ::{ flag=NZ }:: [Cipse](https://osu.ppy.sh/users/7928880) | 7.811 |
 
 ## Mappools
+
+### Quarterfinals
+
+**[Download the mappack here! (139 MB)](https://drive.google.com/file/d/1I7OJEjr1MSRNploPF1UnU5_2AZj-DeK2/view)**
+
+- No Mod
+  1. [m108 - Shining Stella (Spectator) \[Deluge\]](https://osu.ppy.sh/beatmapsets/2651463#osu/5993909)
+  2. [DJ Noriken vs. MASAKI - QiXiN MAdN3ss 2153 (Jemzuu) \[ULTRA\]](https://osu.ppy.sh/beatmapsets/1784525#osu/3654761)
+  3. [The Flashbulb - Coinage (Alepe) \[Numismatics\]](https://osu.ppy.sh/beatmapsets/2651330#osu/5993597)
+  4. [solfa feat. KOTOKO - affection (Madoka Ayukawa) \[Harmonious\]](https://osu.ppy.sh/beatmapsets/2651308#osu/5993529)
+- Hidden
+  1. [Rigel Theatre - ECLIPSE (F D Flourite) \[I prefer VSCode\]](https://osu.ppy.sh/beatmapsets/2000364#osu/4158940)
+  2. [KAKU P-MODEL - Sore ike! Halycon (Deif) \[Go for it!\]](https://osu.ppy.sh/beatmapsets/1463986#osu/3007125)
+  3. [Primbe - Caelion (Race-) \[Race & Alepe's Heavenly Battle\]](https://osu.ppy.sh/beatmapsets/2651306#osu/5993527)
+- Hard Rock
+  1. [Fuki - Zinger Ringer Gang Love (-Luminate) \[Zvenx's Deluge\]](https://osu.ppy.sh/beatmapsets/2320439#osu/5031230)
+  2. [Fractal Dreamers - Ex Nihilo (wonjae) \[Genesis\]](https://osu.ppy.sh/beatmapsets/1254879#osu/2607991)
+  3. [trung-nova - Prism of Chroma (Natsuko) \[Metamorphopsia\]](https://osu.ppy.sh/beatmapsets/2651310#osu/5993532)
+- Double Time
+  1. [MYTH & ROID - shadowgraph (DizzyOracel) \[can you see the meaning inside yourself?\]](https://osu.ppy.sh/beatmapsets/2651847#osu/5995389)
+  2. [DJ Genki - RAVE BUSTERS (Zvenx) \[Nagi ask for Nilou bg in dt\]](https://osu.ppy.sh/beatmapsets/2651438#osu/5993862)
+  3. [u's - LOVELESS WORLD (Wyuuji) \[Rain (CICO Edit)\]](https://osu.ppy.sh/beatmapsets/2651752#osu/5995127)
+- Free Mod
+  1. [FARUCO - Oshikatsu Angel Miss Vivian (feat. Mustard and beatMARIO) (Sololiquy) \[VIVIAN\]](https://osu.ppy.sh/beatmapsets/2651301#osu/5993517)
+  2. [Dictate - Militant (DizzyOracel) \[\_/-\\\_/\>0\<\\_/-\\\_\]](https://osu.ppy.sh/beatmapsets/2651321#osu/5993576)
+- Tiebreaker
+  1. **[trailmix37 - Achamoth (Zvenx) \[Divine Light\]](https://osu.ppy.sh/beatmapsets/2651476#osu/5993943)**
 
 ### Round of 16
 
@@ -178,6 +205,33 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
   2. [YUC'e - Cappuchino (dika312) \[Cozy Rain\]](https://osu.ppy.sh/beatmapsets/2639250#fruits/5948691)
 
 ## Match results
+
+### Round of 16
+
+Saturday, 7 November 2026:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[qwhj79](https://osu.ppy.sh/users/7547506)** ::{ flag=KR }:: | **6** | 0 | ::{ flag=RU }:: [Nerris](https://osu.ppy.sh/users/11202866) | [#1](https://osu.ppy.sh/community/matches/122127519) |
+| Lower | [ES Jonne](https://osu.ppy.sh/users/7024526) ::{ flag=FI }:: | 3 | **6** | ::{ flag=PE }:: **[Lunati1kid](https://osu.ppy.sh/users/25723773)** | [#1](https://osu.ppy.sh/community/matches/122130464) |
+| Lower | **[Niisan](https://osu.ppy.sh/users/19515018)** ::{ flag=MX }:: | **6** | 0 | ::{ flag=US }:: [trooperr](https://osu.ppy.sh/users/32028459) | [#1](https://osu.ppy.sh/community/matches/122131092) |
+| Lower | [Cipse](https://osu.ppy.sh/users/7928880) ::{ flag=NZ }:: | 4 | **6** | ::{ flag=ES }:: **[Sprint](https://osu.ppy.sh/users/13845399)** | [#1](https://osu.ppy.sh/community/matches/122127751) |
+| Upper | [Stark](https://osu.ppy.sh/users/1565036) ::{ flag=CL }:: | 4 | **6** | ::{ flag=TW }:: **[eauikk](https://osu.ppy.sh/users/1177233)** | [#1](https://osu.ppy.sh/community/matches/122129108) |
+| Lower | [MusicDropZ](https://osu.ppy.sh/users/12759554) ::{ flag=ES }:: | 1 | **6** | ::{ flag=PL }:: **[madcin](https://osu.ppy.sh/users/2957534)** | [#1](https://osu.ppy.sh/community/matches/122129804) |
+| Upper | **[Boltico](https://osu.ppy.sh/users/5297904)** ::{ flag=PE }:: | **6** | 2 | ::{ flag=HR }:: [doddo](https://osu.ppy.sh/users/5166056) | [#1](https://osu.ppy.sh/community/matches/122130475) |
+| Upper | **[Aryssiel](https://osu.ppy.sh/users/7547506)** ::{ flag=CL }:: | **6** | 0 | ::{ flag=PH }:: [-Rustyy](https://osu.ppy.sh/users/16355636) | *win by default* |
+
+Sunday, 8 November 2026:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[HelpMePleasee](https://osu.ppy.sh/users/10835397)** ::{ flag=CO }:: | **6** | 1 | ::{ flag=TW }:: [- S H -](https://osu.ppy.sh/users/2548278) | [#1](https://osu.ppy.sh/community/matches/122132291) |
+| Lower | [my angel auto](https://osu.ppy.sh/users/29503627) ::{ flag=HK }:: | 1 | **6** | ::{ flag=CN }:: **[dazzulay](https://osu.ppy.sh/users/1948043)** | [#1](https://osu.ppy.sh/community/matches/122130464) |
+| Upper | **[- N a g i -](https://osu.ppy.sh/users/2956936)** ::{ flag=CN }:: | **6** | 1 | ::{ flag=ID }:: [Keita](https://osu.ppy.sh/users/3355617) | [#1](https://osu.ppy.sh/community/matches/122134179) |
+| Lower | [Cornet](https://osu.ppy.sh/users/18468376) ::{ flag=CN }:: | 3 | **6** | ::{ flag=BE }:: **[ElSkeffe](https://osu.ppy.sh/users/6283136)** | [#1](https://osu.ppy.sh/community/matches/122134514) |
+| Upper | **[SirGonzaxz](https://osu.ppy.sh/users/17309439)** ::{ flag=AR }:: | **6** | 0 | ::{ flag=MX }:: [Firu](https://osu.ppy.sh/users/10516547) | [#1](https://osu.ppy.sh/community/matches/122135734) |
+| Lower | **[smelly DVD box](https://osu.ppy.sh/users/6647589)** ::{ flag=RU }:: | **6** | 5 | ::{ flag=BG }:: [Azakriel](https://osu.ppy.sh/users/30653081) | [#1](https://osu.ppy.sh/community/matches/122135115) |
+| Lower | [shimu](https://osu.ppy.sh/users/14318796) ::{ flag=TR }:: | 0 | **6** | ::{ flag=GR }:: **[\[Romanos\]](https://osu.ppy.sh/users/4682813)** | *win by default* |
 
 ### Round of 32
 
@@ -283,8 +337,7 @@ Sunday, 1 November 2026:
 2. Players will have to ban **two beatmaps** from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match. 
    - Barring the tiebreaker, there are no restrictions as to which beatmaps may and may not be banned in a match.
    - Banning does not apply in the Qualifier lobbies.
-3. Players will be given a chance to pick **one warm-up beatmap** to be played in the lobby.
-   - Playing a warm-up beatmap is not mandatory, and players may elect to skip their warm-up pick should they wish to.
+3. **There will be no warm-up beatmaps to be played in the multiplayer lobby**. Players who are looking to warm up before the match are expected to do so by their own before the match commences.
 4. Players are expected to exercise common sense in the pick time and ready time windows.
    - Depending on the severity and frequency, players will be punished for their misdemeanours during these time windows. For the list of all the possible punishments, please refer to [this screenshot](https://leopard.hosting.pecon.us/dl/hzlkt).
 5. Maps from the same mod pool **may not be picked by the same player twice in a row**.
