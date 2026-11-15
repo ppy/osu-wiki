@@ -105,11 +105,13 @@ Group C opened up with a dominating set of three consecutive wins by China, plac
 | #3 | ::{ flag=AT }:: Austria | **1** | 2 | 11 | 10 | **+1** | 16 |
 | #4 | ::{ flag=PH }:: Philippines | **0** | 3 | 5 | 15 | **-10** | 24 |
 
-group d desc
+Group D was a battleground until the very end, with 3 teams just 8 seeds apart the outcome could have ended in any number of ways. Brazil as the top seed did their part securing a perfect 3–0 record to top the group, albeit shaky in execution. They concluded their matches with just a +6 point differential, the lowest of any top seeded team in all 8 groups, but they got the job done. The real story of this group was Finland. They came in as the 19th seed out of qualifiers but punched far above their weight class, finishing the group stage ranked 5th in performance out of all 32 teams. They beat both bottom teams handedly and lost only to the top seeded Brazil in a [close 5-3](https://osu.ppy.sh/community/matches/122129109). This win came at the expense of Austria, who came in seeded second in the group and easily could have made the top 2 going to winners bracket, decided by only a singular map, they were an anomaly alongside brazil, being the only team to place 3rd in a group with a positive point differential.
 
-**Highlight match:** tbd
+Last but certainly not least in this group was the Philippines; they came in as the bottom seed and finished winless. They shouldn't hang their heads though, with the 13th overall team performance, well above their final placement, and took three maps off [Finland](https://osu.ppy.sh/community/matches/122133984) and two off [Brazil](https://osu.ppy.sh/community/matches/122134505) in the process. If you only look at their 0–5 against Austria, you'll underrate them.
 
-**Group MVP:** tbd
+**Highlight match:** [Brazil vs. Austria](https://osu.ppy.sh/community/matches/122135425) ([VOD](https://www.youtube.com/watch?v=UlqLB5sdQ2k)) and it isn't particularly close. The top two seeds in the group met in the final match, the only one to see a tiebreaker. Austria played as if their entire bracket was on the line, because it was! They led the match 4–3 and were just one map away from a 5–3 win that would have completely rewritten the standings. Three teams would have finished 2–1, and Austria would have gotten first on point differential. Brazil had other plans. After being down 3–1 at one point, they clawed their way back to a 4–4 scoreline, this meant that even if Austria won the tiebreaker and the match, they would have still been left in third. Deciding to have some fun with the situation, both teams opted for an 8-way HR showdown on tiebreaker for the match win!
+
+**Group MVP:** This was one was tough to call. Finland's ::{ flag=FI }:: [savilju](https://osu.ppy.sh/users/8059468) has the best performance score of the group at 2.124, along with the highest average score and accuracy, but ::{ flag=BR }:: [Exxotl](https://osu.ppy.sh/users/15225729) gets the final nod. He finished just behind at 2.116, while pling 21 of Brazil's 24 maps and was MVP five times. Brazil's run in the group was a close one, and they could lean on him almost every time, being an almost permanent fixture in the lobby and still performing at the top of the group.
 
 ### Group E
 
@@ -173,6 +175,6 @@ group h desc
 
 ---
 
-The bracket stage begins this weekend with the Round of 16 and losers' bracket round 1, where we are joined by the eight Legends teams that had a pass on the Group Stage. Tune in at [osulive](https://www.twitch.tv/osulive) and [osulive_2](https://www.twitch.tv/osulive) to catch all of the upcoming action, and make sure to have a look at [the wiki](/wiki/Tournaments/OWC/2026) or [information sheet](https://docs.google.com/spreadsheets/d/136yKaeBtlxHo7o7TQxHflLOw1T67ahn8vF2FTJ0IjFc?rm=minimal) for all schedules and other details, so you don't miss a match. See you all [on the stream](https://www.twitch.tv/osulive)!
+The bracket stage begins this weekend with the Round of 16 and losers' bracket round 1, where we are joined by our eight Legends teams that had a free ticket through the Group Stage. Tune in at [osulive](https://www.twitch.tv/osulive), [osulive_2](https://www.twitch.tv/osulive_2) and [osulive_3](https://www.twitch.tv/osulive_3) to catch all of the upcoming action! Make sure to have a look at the [wiki](/wiki/Tournaments/OWC/2026) or [information sheet](https://docs.google.com/spreadsheets/d/136yKaeBtlxHo7o7TQxHflLOw1T67ahn8vF2FTJ0IjFc?rm=minimal) for all schedules and other details, so you don't miss a match. See you all [on the stream](https://www.twitch.tv/osulive)!
 
 —ChillierPear, Dada, Lightin, M I L E S, shdewz & this1neguy
