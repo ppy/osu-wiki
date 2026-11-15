@@ -145,18 +145,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/dc7
 
 ## Match schedule: Round of 16
 
-### Saturday, 14 November 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |
-| :-: | --: | :-- | :-- | :-: |
-| 7 | Australia ::{ flag=AU }:: | ::{ flag=NZ }:: New Zealand | [Nov 14 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261114T100000&p1=1440&p2=57&p3=264) | [osulive](https://twitch.tv/osulive) |
-| 8 | South Korea ::{ flag=KR }:: | ::{ flag=CN }:: China | [Nov 14 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261114T130000&p1=1440&p2=235&p3=33) | [osulive](https://twitch.tv/osulive) |
-| 2 | United Kingdom ::{ flag=GB }:: | ::{ flag=HK }:: Hong Kong | [Nov 14 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261114T140000&p1=1440&p2=136&p3=102) | [osulive](https://twitch.tv/osulive) |
-| 9 | Indonesia ::{ flag=ID }:: | ::{ flag=SG }:: Singapore | [Nov 14 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261114T140000&p1=1440&p2=108&p3=236) | [osulive_2](https://twitch.tv/osulive_2) |
-| 5 | Poland ::{ flag=PL }:: | ::{ flag=FR }:: France | [Nov 14 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261114T150000&p1=1440&p2=262&p3=195) | [osulive](https://twitch.tv/osulive) |
-| 13 | Netherlands ::{ flag=NL }:: | ::{ flag=RO }:: Romania | [Nov 14 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261114T170000&p1=1440&p2=16&p3=49) | [osulive](https://twitch.tv/osulive) |
-| 4 | Canada ::{ flag=CA }:: | ::{ flag=BR }:: Brazil | [Nov 14 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261114T190000&p1=1440&p2=188&p3=45) | [osulive](https://twitch.tv/osulive) |
-
 ### Sunday, 15 November 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |
@@ -170,9 +158,25 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/dc7
 | 3 | Chile ::{ flag=CL }:: | ::{ flag=NO }:: Norway | [Nov 15 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261115T180000&p1=1440&p2=232&p3=187) | [osulive](https://twitch.tv/osulive) |
 | 1 | United States ::{ flag=US }:: | ::{ flag=FI }:: Finland | [Nov 15 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261115T190000&p1=1440&p2=263&p3=101) | [osulive_2](https://twitch.tv/osulive_2) |
 | 12 | Argentina ::{ flag=AR }:: | ::{ flag=ES }:: Spain | [Nov 15 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261115T190000&p1=1440&p2=51&p3=141) | [osulive](https://twitch.tv/osulive) |
-| SC | Quarterfinals | mappool showcase | [Nov 15 (Sun) 20:30 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20261115T203000&p1=1440) | [osulive](https://twitch.tv/osulive) |
+| SC | Quarterfinals | mappool showcase | [Nov 15 (Sun) 20:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261115T203000&p1=1440) | [osulive](https://twitch.tv/osulive) |
+| 4 | Canada ::{ flag=CA }:: | ::{ flag=BR }:: Brazil | [Nov 15 (Sun) 22:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261115T223000&p1=1440&p2=188&p3=45) | [osulive](https://twitch.tv/osulive) |
 
 ## Match results
+
+### Round of 16
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1OKR6TSPjh0lIUgyOjpdrRmVQGBEN_vkh2kK8ygWFyZE?rm=minimal).
+
+Saturday, 14 November 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 7 | **Australia** ::{ flag=AU }:: | **6** | 0 | ::{ flag=NZ }:: New Zealand | [#1](https://osu.ppy.sh/community/matches/122160560) | [#1](https://www.twitch.tv/videos/2928642316) |
+| 8 | **South Korea** ::{ flag=KR }:: | **6** | 2 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/122161241) | [#1](https://www.twitch.tv/videos/2928646298) |
+| 2 | **United Kingdom** ::{ flag=GB }:: | **6** | 1 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/122161624) | [#1](https://www.twitch.tv/videos/2928646297) |
+| 9 | **Indonesia** ::{ flag=ID }:: | **6** | 0 | ::{ flag=SG }:: Singapore | [#1](https://osu.ppy.sh/community/matches/122161556) | [#1](https://www.twitch.tv/videos/2928648179) |
+| 5 | **Poland** ::{ flag=PL }:: | **6** | 1 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/122161932) | [#1](https://www.twitch.tv/videos/2928676698) |
+| 13 | **Netherlands** ::{ flag=NL }:: | **6** | 0 | ::{ flag=RO }:: Romania | [#1](https://osu.ppy.sh/community/matches/122162608) | [#1](https://www.twitch.tv/videos/2928982145) |
 
 ### Group stage
 
