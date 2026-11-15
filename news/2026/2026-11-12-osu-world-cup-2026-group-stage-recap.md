@@ -137,11 +137,11 @@ group e desc
 | #3 | ::{ flag=SK }:: Slovakia | **1** | 2 | 11 | 12 | **-1** | 40 |
 | #4 | ::{ flag=GR }:: Greece | **0** | 3 | 5 | 15 | **-10** | 34 |
 
-group f desc
+While the outcome of group F was in line with most people's expectations, nobody could have predicted how the matches in this group actually played out. The source of variance happened to be the bottom seed: qualifying by the skin of their teeth at 40th, Slovakia won 11 points in the Group Stage. To put it another way, they were 4 map wins away from being 3–0 in this group. It was incredible to watch, although, admittedly, it was a bit nerve wracking for me (M I L E S) when they almost upset Malaysia after I foolishly made a bet on the Full Circle podcast that I would shave my head if Slovakia beat Japan. But luckily for my luscious head of hair, Japan got the job done with a 5–2 victory. Malaysia was one of two teams to play tiebreaker twice this round, defeating Slovakia on it while falling short against Japan. Greece did a great job qualifying for the tournament again, but continue to look for an elusive group stage match victory. We wish them the best of luck with that next year.
 
-**Highlight match:** tbd
+**Highlight match:** Both [Japan vs. Malaysia](https://osu.ppy.sh/community/matches/122128332) ([VOD](https://www.youtube.com/watch?v=1_CFDNu25-Q)) and [Malaysia vs. Slovakia](https://osu.ppy.sh/community/matches/122096229) ([VOD](https://www.youtube.com/watch?v=5uAejfkJ6uw)) deserve this spot. The former showed two teams separated by 1 seed play like it. Both squads had a dominant skillset that they won by huge margins (speed for Japan, Hidden for Malaysia), but outside of those, several maps had score differences under 100,000 (as low as 6,777!). And that's not to mention both matches going to tiebreaker, which is always a plus. The latter match saw the emergence of Slovakia, who had strong performances on speed and Hard Rock to force tiebreaker in a match against a team 11 seeds higher than them.
 
-**Group MVP:** tbd
+**Group MVP:** Despite not having the highest performance score on his team, ::{ flag=JP }:: [ChocoPafe](https://osu.ppy.sh/users/8856806) stood out as the MVP of this group to me. Perma-lobby players have a special place in my heart, and he filled this role to a T—performing excellently on a wide range of skillsets, taking HDHR on several Free Mod picks, while flexing his muscles on the tiebreaker against Malaysia, getting the top score in the lobby by a margin of about 200,000 points.
 
 ### Group G
 
