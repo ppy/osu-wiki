@@ -5,7 +5,9 @@ tags:
 
 # Lokales Offset
 
-*Für andere Bedeutungen, siehe [Offset](/wiki/Offset).*
+::: alert-note
+**Anmerkung:** [Offset](/wiki/Offset).
+:::
 
 **Lokales Offset** (oder seltener *Offline-Offset*) ist eine Einstellung, die das Erscheinen von [Hit-Objekten](/wiki/Gameplay/Hit_object) in Bezug auf das Audio individueller [Beatmaps](/wiki/Beatmap) verschiebt. Dies kann für Spieler hilfreich sein, die auditive oder visuelle Verzögerungen haben. Das lokale Offset bildet gemeinsam mit dem [globalen Offset](/wiki/Offset/Universal_offset) einen Gesamtversatz.
 

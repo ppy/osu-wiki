@@ -11,7 +11,9 @@ tags:
 
 # osu!mapping
 
-*Nicht zu verwechseln mit [Beatmapping](/wiki/Beatmapping).*
+::: alert-note
+**Anmerkung:** Nicht zu verwechseln mit [Beatmapping](/wiki/Beatmapping).
+:::
 
 **osu!mapping** ist eine wöchentliche englische Videoreihe, die von ::{ flag=US }:: **[pishifat](https://osu.ppy.sh/users/3178418)** erstellt wurde und vom [Mapping-](/wiki/Beatmapping) und [Modding-](/wiki/Modding)Ökosystem handelt. Es wird auf dem [persönlichen YouTube-Kanal von pishifat](https://www.youtube.com/user/Pishifat) gehostet und die meisten Leute kennen es einfach als "pishifat Videos" oder "pishi Videos".
 

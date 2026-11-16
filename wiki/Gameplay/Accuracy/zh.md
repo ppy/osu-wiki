@@ -76,7 +76,9 @@
 
 #### 不稳定度（Unstable rate）
 
-*主文章：[不稳定度](/wiki/Gameplay/Unstable_rate)*
+::: alert-note
+**主文章：** [不稳定度](/wiki/Gameplay/Unstable_rate)
+:::
 
 `不稳定度` (*UR*) 显示了打击偏差的[标准差](https://zh.wikipedia.org/wiki/%E6%A8%99%E6%BA%96%E5%B7%AE)，单位是 0.1 毫秒。UR 越低，玩家越稳定。
 

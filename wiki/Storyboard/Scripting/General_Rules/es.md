@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: ced38568505b6f6352878a6524747fa1ebdf6408
+---
+
 # Reglas generales del storyboarding
 
 ![Un ejemplo de las secuencias de comandos en un archivo .osb.](img/SBS_Base-ES.png "Un ejemplo de las secuencias de comandos en un archivo .osb.")
@@ -8,7 +13,9 @@ Esta guía describe las líneas de código de las secuencias de comandos que se 
 
 ### Objetos
 
-*Para los objetos en [osu!](/wiki/Game_mode/osu!) y el [beatmapping](/wiki/Beatmapping), véase: [Objetos](/wiki/Gameplay/Hit_object)*
+::: alert-note
+**Nota:** Para los objetos en [osu!](/wiki/Game_mode/osu!) y el [beatmapping](/wiki/Beatmapping), véase [Objetos](/wiki/Gameplay/Hit_object)
+:::
 
 Un [objeto de un storyboard](/wiki/Storyboard/Scripting/Objects) es una instancia de un sprite o una animación en un storyboard. Los storyboards también pueden tener sonido; consulta la guía de [audio](/wiki/Storyboard/Scripting/Audio) para obtener más detalles.
 

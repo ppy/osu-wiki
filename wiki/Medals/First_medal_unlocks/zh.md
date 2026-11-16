@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 21ea7a43c8a0935d9888f6a607782eadb1fd5177
+---
+
 # 首次奖章解锁记录
 
 本文是 osu! 历史上首次解锁各个奖章的用户的汇编记录。

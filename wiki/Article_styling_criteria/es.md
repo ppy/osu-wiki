@@ -6,7 +6,9 @@ tags:
 
 # Criterios de estilo para artículos
 
-*Para las publicaciones de noticias, véase: [Criterios de estilo para noticias](/wiki/News_styling_criteria)*
+::: alert-note
+**Nota:** Para las publicaciones de noticias, véase [Criterios de estilo para noticias](/wiki/News_styling_criteria)
+:::
 
 Los criterios de estilo para artículos (ASC) sirven como estándares de estilo obligatorios de la osu! wiki para mantener la coherencia en la claridad, el formato y el diseño en todos los artículos, y para que estos tengan una gramática adecuada, una ortografía correcta y una información correcta.
 
@@ -16,7 +18,10 @@ Para sugerir cambios con respecto a los criterios de estilo para artículos, [ab
 
 ## Estándares
 
-*Aviso: Los siguientes artículos utilizan [RFC 2119](https://tools.ietf.org/html/rfc2119) para describir los niveles de exigencia.*
+::: alert-notice
+**Aviso**
+Los siguientes artículos utilizan [RFC 2119](https://tools.ietf.org/html/rfc2119) para describir los niveles de exigencia.
+:::
 
 Los criterios de estilo para artículos se dividen en dos artículos:
 

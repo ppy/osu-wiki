@@ -5,7 +5,9 @@ tags:
 
 # Online-Offset
 
-*Für andere Bedeutungen, siehe [Offset](/wiki/Offset).*
+::: alert-note
+**Anmerkung:** [Offset](/wiki/Offset).
+:::
 
 **Online-Offset** ist ein Versatz, der auf eine [Beatmap](/wiki/Beatmap) angewendet werden kann, nachdem sie [gerankt](/wiki/Beatmap/Category#ranked) wurde. Dies geschieht in der Regel, wenn eine Beatmap kleine [Timing-Änderungen](/wiki/Beatmapping/Timing) benötigt, um sie korrekt auf den Song abzustimmen. Das Online-Offset wird zum [universalen Offset](/wiki/Offset/Universal_offset) und zum [lokalen Offset](/wiki/Offset/Local_offset) des Spielers hinzuaddiert.
 

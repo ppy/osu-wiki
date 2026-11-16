@@ -52,7 +52,9 @@ En determinadas circunstancias, pueden aplicarse algunas excepciones para el uso
 
 ## Evaluación de una imagen
 
-*Véase: [Proceso de votación de contenido](/wiki/Rules/Content_voting_process).*
+::: alert-note
+**Véase también:** [Proceso de votación de contenido](/wiki/Rules/Content_voting_process)
+:::
 
 Las imágenes que se usan en cualquier parte del sitio fuera de un beatmap (avatares, portadas de perfiles, páginas de usuario, etc.) **no** están sujetas al procedimiento de votación que se explica a continuación y pueden eliminarse en cualquier momento a discreción del [Global Moderation Team](/wiki/People/Global_Moderation_Team) (GMT).
 

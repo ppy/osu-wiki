@@ -13,7 +13,9 @@ This page lists ways for people from all around osu! to get in touch with each o
 
 ## Projects
 
-*See also: [List of all projects](/wiki/Community/Projects)*
+::: alert-note
+**See also:** [List of all projects](/wiki/Community/Projects)
+:::
 
 - [Community mentorship program](/wiki/Community/Community_Mentorship_Program)
 - [Mappers' Guild](/wiki/Community/Mappers_Guild)

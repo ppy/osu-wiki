@@ -2,6 +2,8 @@
 tags:
   - Mapper's Guild
   - MG
+outdated_translation: true
+outdated_since: 3610ba210d6c679c0d60201420ee64d700cbcc44
 ---
 
 # 谱师公会
@@ -80,7 +82,9 @@ tags:
 
 ### 展示谱面
 
-*主页面：[精选艺术家展示谱面](/wiki/People/Featured_Artists/Featured_Artist_showcase_beatmaps)*
+::: alert-note
+**主文章：** [精选艺术家展示谱面](/wiki/People/Featured_Artists/Featured_Artist_showcase_beatmaps)
+:::
 
 公会成员也可以参与为未来公布的精选艺术家创作展示谱面。在相应精选艺术家公布时，这些谱面会在[新闻帖](https://osu.ppy.sh/home/news)中重点展示，并往往会在 [@osugame Twitter](https://twitter.com/osugame) 上进行推广。
 

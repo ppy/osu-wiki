@@ -6,7 +6,9 @@ tags:
 
 # Background
 
-*For regulations surrounding backgrounds, see: [Ranking Criteria](/wiki/Ranking_criteria)*
+::: alert-note
+**Note:** For regulations surrounding backgrounds, see [Ranking Criteria](/wiki/Ranking_criteria)
+:::
 
 **Background** (***BG***) images and videos can be added to [beatmaps](/wiki/Beatmap). When written only as "background" or "bg", it usually refers to the background image.
 

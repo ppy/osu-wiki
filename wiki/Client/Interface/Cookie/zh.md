@@ -3,13 +3,13 @@ stub: true
 tags:
   - logo
   - 标识
-outdated_translation: true
-outdated_since: 73f44ef9e7832b18372e910edc7ce6025acb50bd
 ---
 
 # 粉饼
 
-*另见：[品牌标识准则](/wiki/Brand_identity_guidelines)*
+::: alert-note
+**另见:** [品牌标识准则](/wiki/Brand_identity_guidelines)
+:::
 
 **曲奇**（国内大多称“粉饼”）是 osu! 标志的别称，得名于其形状。该标志在游戏客户端中多次出现，可见于启动界面、主菜单、单人游玩模式，以及旧版的崩溃报告中（如下图所示）。
 
@@ -17,15 +17,26 @@ outdated_since: 73f44ef9e7832b18372e910edc7ce6025acb50bd
 
 ## 历史
 
-下表收录了 osu! 历史上使用过的所有粉饼标识，以供存档参考。
+### osu!(stable)
+
+下表展示了 osu!(stable) 历史上使用过的所有粉饼标识，以供存档参考。
 
 | 粉饼标识 | 年份 | 备注 |
 | :-: | :-: | :-- |
-| ![2007 osu! 标识](img/2007.png) | 2007 | 使用 *Verdana* 字体。 |
-| ![2008 osu! 标识](img/2008.png) | 2008 | 使用 *Verdana* 字体。 |
-| ![2009 osu! 标识](img/2009.png) | 2009 | 使用 *Verdana* 字体。 |
-| ![2011 osu! 标识](img/2011.png) | 2011 | 使用 *Verdana* 字体。 |
-| ![2011 osu! 标识（修正色）](img/2011fixedcolour.png) | 2011 | 使用 *Verdana* 字体。 |
-| ![2014 osu! 标识](img/2014@2x.png) | 2014 | 使用 *Aller* 字体。 |
-| ![现行 osu! 标识](img/2016@2x.png) | 2016 至今 | 使用 *Aller* 字体。 |
-| *缺失* | 2024 年 1 月 – 2024 年 5 月 | 使用 *Torus* 字体，因受批评仅短暂使用。 |
+| ![2007 年 osu!(stable) 标识](img/2007.png) | 2007 | 使用 Verdana 字体。 |
+| ![2008 年 osu!(stable) 标识](img/2008.png) | 2008 | 使用 Verdana 字体。 |
+| ![2009 年 osu!(stable) 标识](img/2009.png) | 2009 | 使用 Verdana 字体。 |
+| ![2011 年 osu!(stable) 标识](img/2011.png) | 2011 | 使用 Verdana 字体。 |
+| ![2011 年 osu!(stable) 标识](img/2011fixedcolour.png) | 2011 | 使用 Verdana 字体。 |
+| ![2014 年 osu!(stable) 标识](img/2014@2x.png) | 2014 | 使用 Aller 字体。 |
+| ![现行 osu!(stable) 标识](img/2016@2x.png) | 2016 至今 | 使用 Aller 字体。 |
+
+### osu!(lazer)
+
+下表展示了 osu!(lazer) 历史上使用过的所有粉饼标识，以供存档参考。
+
+| 粉饼标识 | 年份 | 备注 |
+| :-: | :-: | :-- |
+| ![2019 年 osu!(lazer) 标识](img/2019@2x.png) | 2019 | 使用 Aller 字体，仅用作临时应用图标，将 osu!(lazer) 与 osu!(stable) 区分开来。 |
+| ![2024 年 osu!(lazer) 标识](img/2024@2x.png) | 2024 年 1 月 - 2024 年 5 月 | 使用 Torus 字体，因受批评仅短暂使用。 |
+| ![现行 osu!(lazer) 标识](img/2024_2@2x.png) | 2024 年 5 月至今 | 使用 Torus 字体。 |

@@ -36,7 +36,7 @@ The osu!mania 4K World Cup 2025 offered a $2,000 cash prize pool and limited-edi
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
-![](img/mwc4k2025-badge-1st.png "MWC 7K 2025 winner badge") ![](img/mwc4k2025-badge-2nd.png "MWC 7K 2025 2nd-place badge") ![](img/mwc4k2025-badge-3rd.png "MWC 7K 2025 3rd-place badge")
+![](img/mwc4k2025-badge-1st.png "MWC 4K 2025 winner badge") ![](img/mwc4k2025-badge-2nd.png "MWC 4K 2025 2nd-place badge") ![](img/mwc4k2025-badge-3rd.png "MWC 4K 2025 3rd-place badge")
 
 ## Organisation
 

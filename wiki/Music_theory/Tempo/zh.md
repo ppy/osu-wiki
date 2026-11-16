@@ -10,7 +10,9 @@ tags:
 
 # 曲速
 
-*参见：[测定时间轴](/wiki/Beatmapping/Timing)*
+::: alert-note
+**参见：** [测定时间轴](/wiki/Beatmapping/Timing)
+:::
 
 ::: Infobox
 ![谱面信息页上 BPM 指示信息的截图](img/beatmap-info-ZH.png "可以在谱面信息页的角落看到，歌曲的曲速等于 160")

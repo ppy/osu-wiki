@@ -13,9 +13,17 @@ no_native_review: true
 
 ![SV2 Modsymbol](/wiki/shared/mods/SV2.png "ScoreV2 (SV2) Modsymbol")
 
-*Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe: [Score V2 (lazer-Mod)](/wiki/Gameplay/Game_modifier/Score_V2_(lazer))*\
-*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*\
-*Nicht zu verwechseln mit [Score](/wiki/Gameplay/Score) oder [ScoreV1](/wiki/Gameplay/Score/ScoreV1).*
+::: alert-note
+**Anmerkung:** Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe [Score V2 (lazer-Mod)](/wiki/Gameplay/Game_modifier/Score_V2_(lazer))
+:::
+
+::: alert-note
+**Anmerkung:** Für die vollständige Liste aller Mods, siehe [Spielmodifikationen](/wiki/Gameplay/Game_modifier)
+:::
+
+::: alert-note
+**Anmerkung:** Nicht zu verwechseln mit [Score](/wiki/Gameplay/Score) oder [ScoreV1](/wiki/Gameplay/Score/ScoreV1).
+:::
 
 ## Übersicht
 
@@ -27,8 +35,13 @@ no_native_review: true
 
 ## Beschreibung
 
-*Hinweis: Das Aktivieren der Mod ScoreV2 sorgt dafür, dass das Spiel nicht gerankt wird.*\
-*Für Informationen über das ScoreV2-Bewertungssystem, siehe: [ScoreV2](/wiki/Gameplay/Score#scorev2)*
+::: alert-notice
+**Hinweis:** Das Aktivieren der Mod ScoreV2 sorgt dafür, dass das Spiel nicht gerankt wird.
+:::
+
+::: alert-note
+**Anmerkung:** Für Informationen über das ScoreV2-Bewertungssystem, siehe [ScoreV2](/wiki/Gameplay/Score#scorev2)
+:::
 
 Die Mod **ScoreV2** ist eine Mod, die das prototypische ScoreV2-Bewertungssystem anstatt des aktuellen Bewertungssystems entsprechend für jeden [Spielmodus](/wiki/Game_mode) nutzt. Kurz gesagt versucht das ScoreV2-System die Scoring-Werte aller [Hit-Objekte](/wiki/Gameplay/Hit_object) auf einen maximalen Wert von 1 Million bei einem 1,00-fachen Score-Multiplikator zu setzen (ohne Bonus-Werte bei Spinnern in [osu!](/wiki/Game_mode/osu!), Dendens in [osu!taiko](/wiki/Game_mode/osu!taiko) und gesammelte Bananen in [osu!catch](/wiki/Game_mode/osu!catch)).
 

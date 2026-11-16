@@ -9,6 +9,8 @@ tags:
   - модификатор
   - изи
   - изимод
+outdated_translation: true
+outdated_since: 6f8002d584fe1170d5671e311cafb03daf702f31
 ---
 
 # Easy
@@ -16,7 +18,10 @@ tags:
 ![Значок мода EZ](/wiki/shared/mods/EZ.png "Значок мода Easy (EZ)")
 
 *Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Easy (lazer)](/wiki/Gameplay/Game_modifier/Easy_(lazer))*\
-*У этого термина существуют и другие значения, см. [Easy (значения)](/wiki/Disambiguation/Easy).*\
+::: alert-note
+**Примечание:** У этого термина существуют и другие значения, см. [Easy (значения)](/wiki/Disambiguation/Easy).
+:::
+
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*
 
 ## Краткая информация
@@ -48,13 +53,19 @@ tags:
 
 Несмотря на это, большинство игроков считают, что Easy не понижает, а, напротив, повышает субъективную сложность карт, особенно быстрых. Причина кроется в том, что низкая скорость появления нот сильно затрудняет чтение карты, создавая нагромождения объектов, которые плохо отражают реальную скорость геймплея (см. скриншот выше).
 
-*Примечание: эта проблема подробно раскрывается в теме «[Let's talk Easy Mod](https://osu.ppy.sh/community/forums/topics/56606)», посвящённой улучшению мода.*
+::: alert-notice
+**Внимание**
+эта проблема подробно раскрывается в теме «[Let's talk Easy Mod](https://osu.ppy.sh/community/forums/topics/56606)», посвящённой улучшению мода.
+:::
 
 ### osu!taiko
 
 В [osu!taiko](/wiki/Game_mode/osu!taiko) при включении Easy вдвое снижаются [скорость слайдеров](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), общая сложность (OD) и потеря здоровья (HP).
 
-*Примечание: число нажатий, необходимых для прохождения [спиннеров](/wiki/Gameplay/Hit_object/Spinner), снижается до значения параметра OD.*
+::: alert-notice
+**Внимание**
+число нажатий, необходимых для прохождения [спиннеров](/wiki/Gameplay/Hit_object/Spinner), снижается до значения параметра OD.
+:::
 
 В отличие от других режимов игры, Easy в osu!taiko значительно ускоряет заполнение шкалы здоровья, необходимой для прохождения уровня. Две дополнительные «жизни» не добавляются, поскольку в тайко нельзя провалить прохождение карты в середине игры.
 
@@ -73,7 +84,7 @@ Easy действует в [osu!mania](/wiki/Game_mode/osu!mania) почти т�
 ## Факты
 
 - Когда игрок расходует всё здоровье, анимация его восстановления не показывается в записи игры. Вместо этого игра просто продолжается дальше, как при включённом моде [No Fail](/wiki/Gameplay/Game_modifier/No_Fail).
-- При игре в [мультиплеере](/wiki/Client/Interface/Multiplayer) механика «жизней» не работает, если выбран режим игры [Tag Co-op или Tag Team Vs.](/wiki/Client/Interface/Multiplayer#tag-coop-/-tag-team-vs)
+- При игре в [мультиплеере](/wiki/Gameplay/Multiplayer) механика «жизней» не работает, если выбран режим игры [Tag Co-op или Tag Team Vs.](/wiki/Gameplay/Multiplayer#tag-co-op-/-tag-team-vs)
 - Включение Easy убирает [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), и наоборот.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

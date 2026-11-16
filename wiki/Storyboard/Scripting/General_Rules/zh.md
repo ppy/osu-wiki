@@ -1,6 +1,6 @@
 ---
-outdated_since: 4783e764c4e6d760cabec64dcaea88e8ce9c6581
 outdated_translation: true
+outdated_since: ced38568505b6f6352878a6524747fa1ebdf6408
 ---
 
 # 故事板编写一般规则
@@ -13,7 +13,9 @@ outdated_translation: true
 
 ### 对象
 
-*对于 [osu!](/wiki/Game_mode/osu!) 模式与[作图](/wiki/Beatmapping)时的物件，参见：[打击物件](/wiki/Gameplay/Hit_object)*
+::: alert-note
+**注:** 对于 [osu!](/wiki/Game_mode/osu!) 模式与[作图](/wiki/Beatmapping)时的物件，参见[打击物件](/wiki/Gameplay/Hit_object)
+:::
 
 [故事板对象](/wiki/Storyboard/Scripting/Objects)指的是故事板中精灵图或动画的实例。故事板也可以播放声音，请阅读[音频](/wiki/Storyboard/Scripting/Audio)指南获取详情。
 
@@ -38,14 +40,15 @@ outdated_translation: true
 
 ### 图层
 
-所有故事板精灵图都位于皮肤与[打击物件](/wiki/Gameplay/Hit_object)下层。因此，即使是故事板中“最高”的层（前景层）也会显示在血条、物件与光标等等下方。
+除覆盖层之外，所有层级的故事板精灵图都显示在[打击物件](/wiki/Gameplay/Hit_object)下层。作为故事板中“最高”的层级，覆盖层总会显示在打击物件上方，但仍然位于血条与光标等等下方。
 
-一共有四个故事板层，按优先级从低到高排序：
+一共有五个故事板层，按优先级从低到高排序：
 
 - 背景层
 - 失败层（仅在玩家处于“失败状态”时显示，见下文的[游戏状态](#游戏状态)）
 - 通过层（仅在玩家处于“通过状态”时显示，见下文的[游戏状态](#游戏状态)）
 - 前景层
+- 覆盖层（显示在物件上层，请谨慎使用）
 
 注意与“设计”标签页中所示不同，“失败”与“通过”层不会同时出现。
 
@@ -78,7 +81,7 @@ outdated_translation: true
 - 否则为失败状态（即出现“X”符号）。
   - 在 [osu!taiko](/wiki/Game_mode/osu!taiko) 中，在一定时间点达到一定限额时。参考以下两个例子：
     - 示例一：血条仍处于 40% 时准确率为 96.5% 可获得“通过”而非“失败”。
-    - 示例二：在大约 30 个物件中得到太多 100，以及血条仍约处于 30% 时获得 D 评价，会导致“失败”（此情况参见[ZUN - Maiden's Cappricio ~ Dream Battle](https://osu.ppy.sh/beatmapsets/18005#taiko/69556)）。
+    - 示例二：在大约 30 个物件中得到太多 100，以及血条仍约处于 30% 时获得 D 评级，会导致“失败”（此情况参见[ZUN - Maiden's Cappricio ~ Dream Battle](https://osu.ppy.sh/beatmapsets/18005#taiko/69556)）。
 
 若谱面至少有一个休息时段，在上一游玩时间后的状态：
 

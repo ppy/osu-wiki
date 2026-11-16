@@ -19,4 +19,4 @@ tags:
 
 ## 游玩
 
-从定义的角度来说，断滑条会中断连击，但玩家获得的是 [GOOD](/wiki/Gameplay/Judgement/osu!) 而不是 MISS 判定。因此在其他所有[准确率](/wiki/Gameplay/Accuracy)要求都满足的情况下，依然有可能获得 S 或银 S [评价](/wiki/Gameplay/Grade)。
+从定义的角度来说，断滑条会中断连击，但玩家获得的是 [GOOD](/wiki/Gameplay/Judgement/osu!) 而不是 MISS 判定。因此在其他所有[准确率](/wiki/Gameplay/Accuracy)要求都满足的情况下，依然有可能获得 S 或银 S [评级](/wiki/Gameplay/Grade)。

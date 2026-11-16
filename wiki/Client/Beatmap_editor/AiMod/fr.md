@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 0a9f09e47d80dd57fd7d0637886dc23e0343de9a
 ---
 
 # AiMod
@@ -23,7 +25,10 @@ Le développement d'AiMod est généralement en retard par rapport aux standards
 
 ## Messages
 
-*Remarque : Les chiffres entre crochets (par exemple `{0}`) sont des espaces réservés pour un nombre ou un mot.*
+::: alert-notice
+**Note**
+Les chiffres entre crochets (par exemple `{0}`) sont des espaces réservés pour un nombre ou un mot.
+:::
 
 ### Informatif
 

@@ -13,7 +13,9 @@ no_native_review: true
 
 ![NV Modsymbol](/wiki/shared/mods/NV.png "No Video (NV) Modsymbol")
 
-*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Anmerkung:** Für die vollständige Liste aller Mods, siehe [Spielmodifikationen](/wiki/Gameplay/Game_modifier)
+:::
 
 ## Übersicht
 
@@ -23,7 +25,10 @@ no_native_review: true
 
 ## Beschreibung
 
-*Hinweis: Diese Mod ist nicht mehr verfügbar.*
+::: alert-notice
+**Hinweis**
+Diese Mod ist nicht mehr verfügbar.
+:::
 
 Die Mod **No Video** war eine [Spielmodifikation](/wiki/Gameplay/Game_modifier), die es Spielern ermöglichte, das Hintergrundvideo einer [Beatmap](/wiki/Beatmap) zu deaktivieren. Das wurde benutzt, um die Bildwiederholrate und die Spielleistung zu verbessern.
 

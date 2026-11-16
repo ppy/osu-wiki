@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: c33493a68ff0fd04d12d4432725bb13745b06696
+---
+
 # Criterios de clasificación de osu!
 
 ***Aviso: Este artículo es una extensión de los [criterios de clasificación generales](/wiki/Ranking_criteria).***
@@ -54,7 +59,9 @@ Las reglas y pautas específicas de cada dificultad solo se aplican al nivel de 
 
 ### Nombres de las dificultades
 
-*Artículo principal: [Nombramiento de las dificultades](/wiki/Ranking_criteria/Difficulty_naming)*
+::: alert-note
+**Página principal:** [Nombramiento de las dificultades](/wiki/Ranking_criteria/Difficulty_naming)
+:::
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-o.png?20211215) Normal

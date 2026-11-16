@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 0a9f09e47d80dd57fd7d0637886dc23e0343de9a
+---
+
 # AiMod
 
 ![](img/AiMod.jpg "La ventana AiMod enlista advertencias y errores de un beatmap.")
@@ -19,7 +24,10 @@ El desarrollo de AiMod usualmente está por debajo de los estándares de la comu
 
 ## Mensajes
 
-*Nota: Los números dentro de llaves (p. ej. `{0}`) son marcadores para un número o una palabra.*
+::: alert-notice
+**Aviso**
+Los números dentro de llaves (p. ej. `{0}`) son marcadores para un número o una palabra.
+:::
 
 ### Informativos
 

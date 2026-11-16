@@ -18,7 +18,9 @@ Cette page répertorie les moyens par lesquels les utilisateurs de tout le site 
 
 ## Projets
 
-*Voir également : [Liste de tous les projets](/wiki/Community/Projects)*
+::: alert-note
+**Voir également** : [Liste de tous les projets](/wiki/Community/Projects)
+:::
 
 - [Community mentorship program](/wiki/Community/Community_Mentorship_Program)
 - [Manga](/wiki/Community/Manga)

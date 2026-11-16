@@ -2,8 +2,6 @@
 tags:
   - hit objects
   - objek ketukan
-outdated_translation: true
-outdated_since: d6c7c0584fb357f15e4cb27909721fed36058c8e
 ---
 
 # Hit object
@@ -12,9 +10,9 @@ outdated_since: d6c7c0584fb357f15e4cb27909721fed36058c8e
 
 | [osu!](/wiki/Game_mode/osu!) | [osu!taiko](/wiki/Game_mode/osu!taiko) | [osu!catch](/wiki/Game_mode/osu!catch) | [osu!mania](/wiki/Game_mode/osu!mania) |
 | :-: | :-: | :-: | :-: |
-| [hit circle](/wiki/Gameplay/Hit_object/Hit_circle) | hit circle | [fruit](/wiki/Gameplay/Hit_object/Fruit) | note |
-| [slider](/wiki/Gameplay/Hit_object/Slider) | drumroll | [juice stream](/wiki/Gameplay/Hit_object/Juice_stream) | hold note |
-| [spinner](/wiki/Gameplay/Hit_object/Spinner) | denden | [banana](/wiki/Gameplay/Hit_object/Banana) | x |
+| [hit circle](/wiki/Gameplay/Hit_object/Hit_circle) | [Don & Kat](/wiki/Gameplay/Hit_object/Hit) | [fruit](/wiki/Gameplay/Hit_object/Fruit) | [note](/wiki/Gameplay/Hit_object/Note) |
+| [slider](/wiki/Gameplay/Hit_object/Slider) | [drumroll](/wiki/Gameplay/Hit_object/Drumroll) | [juice stream](/wiki/Gameplay/Hit_object/Juice_stream) | [hold note](/wiki/Gameplay/Hit_object/Hold_note) |
+| [spinner](/wiki/Gameplay/Hit_object/Spinner) | [swells](/wiki/Gameplay/Hit_object/Swell) | [banana](/wiki/Gameplay/Hit_object/Banana) | x |
 | x | x | [hyperfruit](/wiki/Gameplay/Hit_object/Hyperfruit) | x |
 
 Walaupun hold note pada osu!mania pada dasarnya tidak sama dengan slider pada osu! karena perbedaan perilaku antar keduanya, di sini kami mengkategorikan keduanya sebagai hal yang sama untuk menyederhanakan tabel di atas. Adapun elemen-elemen permainan yang tidak bersifat interaktif seperti *health bar* atau *kiai star* dikategorikan sebagai elemen tambahan atau bagian dari *user interface*.

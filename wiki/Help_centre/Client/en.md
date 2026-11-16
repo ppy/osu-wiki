@@ -20,7 +20,9 @@ tags:
 
 # Client
 
-*Main page: [Help centre](/wiki/Help_centre)*
+::: alert-note
+**Main page:** [Help centre](/wiki/Help_centre)
+:::
 
 Having trouble with the game client? Find out if your issue is listed among the most common problems encountered by our users.
 
@@ -141,7 +143,10 @@ To safely force your beatmap database to be recreated, try the following steps:
 7. Rename it as you wish. It doesn't matter, as long as it is not called "osu!". Then press `Enter`.
 8. Relaunch osu!.
 
-*Note: a fix for this was added in [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) dated 2021-05-19. If you happen to still encounter this issue, please [let us know](https://github.com/ppy/osu-stable-issues/issues).*
+::: alert-notice
+**Notice**
+A fix for this was added in [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) dated 2021-05-19. If you happen to still encounter this issue, please [let us know](https://github.com/ppy/osu-stable-issues/issues).
+:::
 
 ### My song list keeps scrolling! {id=songs-list-scrolling}
 
@@ -291,6 +296,12 @@ You can also try playing in Windowed or Borderless mode, which will use your ope
 Turning on VSync or playing in Windowed or Borderless mode will introduce a *slight* amount of input lag, unfortunately. For most people, this will not cause significant issues.
 
 Later NVidia graphics cards have a global option in the NVidia Control Panel to set the global refresh rate to a setting called 'Fast', which will also fix this issue.
+
+### I switched to osu!(lazer)'s native tablet drivers and now my area has changed! {id=tablet-area}
+
+osu!(lazer) has the [OpenTabletDriver](https://opentabletdriver.net/) built-in. If you weren't using these drivers before, then this happens because your tablet is not configured correctly for the native drivers.
+
+See the [tablet area conversion guide](/wiki/Guides/Tablet_conversion) for more information on how to correctly convert your old tablet driver's area to OpenTabletDriver's settings.
 
 ## Online features {id=online-features}
 

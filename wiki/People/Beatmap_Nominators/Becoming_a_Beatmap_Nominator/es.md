@@ -16,7 +16,9 @@ Los modders que deseen postularse para los Beatmap Nominators deben:
 
 ## Cualidades a demostrar en el modding
 
-*Véase también: [Errores de modding comunes](/wiki/Guides/Common_modding_mistakes) y [Guía de modding de osu!mania](/wiki/Guides/osu!mania_modding_guide)*
+::: alert-note
+**Véase también:** [Errores de modding comunes](/wiki/Guides/Common_modding_mistakes) y [Guía de modding de osu!mania](/wiki/Guides/osu!mania_modding_guide)
+:::
 
 Los mods enviados deben mostrar que un usuario es capaz de reconocer los beatmaps que deben y no deben ser nominados, además de analizar y mejorar los beatmaps hasta un nivel adecuado para los Beatmap Nominators.
 

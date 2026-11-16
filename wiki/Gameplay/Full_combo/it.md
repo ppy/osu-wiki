@@ -2,15 +2,13 @@
 stub: true
 tags:
   - FC
-outdated_translation: true
-outdated_since: cfef44fa9c881a508f155745740cb091b5422c84
 ---
 
 # Full combo
 
 **Full combo** (o *FC* in breve) è un termine usato per descrivere un giocatore che ottiene la massima [combo](/wiki/Gameplay/Combo_(score_multiplier)) possibile su una [beatmap](/wiki/Beatmap). Le full combo si ottengono superando una beatmap senza miss, [sliderbreaks](/wiki/Gameplay/Judgement/Slider_break) e senza perdere [slider ends](/wiki/Gameplay/Hit_object/Slider/Slidertail).
 
-I punteggi che hanno perso combo sugli slider end sono ampiamente considerati dalla comunità come full combo. Questo differisce dalla visualizzazione del client di gioco e del sito web.
+I punteggi che hanno perso combo sugli slider end sono ampiamente considerati dalla comunità come full combo. Questo differisce dalla visualizzazione del client di gioco e del sito web. Un punteggio con la massima combo possibile può anche essere chiamato **perfect full combo** (o *PFC* abbreviato, da non confondere con un grado [SS](/wiki/Gameplay/Grade)) per distinguere punteggi con o senza slider end persi.
 
 ![Schermata dei punteggi delle full combo e delle non full combo](img/combo-comparison.png "Il punteggio sopra è una full combo e quello sotto è una combo interrotta").
 

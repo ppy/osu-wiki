@@ -39,7 +39,9 @@ Angles between 10 and 80 degrees can also be used.
 
 ### Accelerated Spacing
 
-*Not to be confused with [Spacing Out](#spacing-out).*
+::: alert-note
+**Note:** Not to be confused with [Spacing Out](#spacing-out).
+:::
 
 Nominator(s): [Gabi](https://osu.ppy.sh/users/57057)
 
@@ -109,7 +111,9 @@ It is very important that the mapper makes it clear as to the direction of where
 
 ### Spacing Out
 
-*Not to be confused with [Accelerated Spacing](#accelerated-spacing)*
+::: alert-note
+**Note:** Not to be confused with [Accelerated Spacing](#accelerated-spacing)
+:::
 
 Nominator(s): [Pasonia](https://osu.ppy.sh/users/43345)
 

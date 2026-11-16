@@ -9,11 +9,15 @@ tags:
   - rango
   - s plateada
   - ss plateada
+outdated_translation: true
+outdated_since: 2788a3f6df7033581be0ea0338399f41a84a6daf
 ---
 
 # Grado
 
-*Para otros usos, véase [Rango (desambiguación)](/wiki/Disambiguation/Rank).*
+::: alert-note
+**Nota:** [Rango (desambiguación)](/wiki/Disambiguation/Rank).
+:::
 
 Las **grados** son un conjunto de letras que representan el rendimiento de un jugador en un [beatmap](/wiki/Beatmap) dado. Acompañan a la [puntuación](/wiki/Gameplay/Score) total en la pantalla de resultados y aparecen en todas las listas junto a las puntuaciones.
 

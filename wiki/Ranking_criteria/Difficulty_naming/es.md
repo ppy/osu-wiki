@@ -6,7 +6,10 @@ El objetivo del nombramiento de las dificultades es informar a los jugadores de 
 
 Estos nombres de dificultad son los más usados para cada modo de juego.
 
-*Nota: El nombre de dificultad **Marathon** permitía a los mappers enviar mapas de canciones más largas, por lo que se hizo popular para mapas de una sola dificultad. Hoy en día, el nombre no tiene ningún significado especial y solo suele usarse para canciones muy largas o compilaciones de canciones.*
+::: alert-notice
+**Aviso**
+El nombre de dificultad **Marathon** permitía a los mappers enviar mapas de canciones más largas, por lo que se hizo popular para mapas de una sola dificultad. Hoy en día, el nombre no tiene ningún significado especial y solo suele usarse para canciones muy largas o compilaciones de canciones.
+:::
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
@@ -112,7 +115,10 @@ Los mapas de canciones procedentes de otros juegos suelen tomar prestado el esqu
 
 ### SOUND VOLTEX
 
-*Nota: Los grandes conjuntos de mapas de canciones de SOUND VOLTEX suelen usar nombres de dificultad de varias versiones del juego, incluso si la canción no aparece en todas ellas.*
+::: alert-notice
+**Aviso**
+Los grandes conjuntos de mapas de canciones de SOUND VOLTEX suelen usar nombres de dificultad de varias versiones del juego, incluso si la canción no aparece en todas ellas.
+:::
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) BASIC / BSC
 - ![](/wiki/shared/diff/normal-o.png?20211215) NOVICE / NOV

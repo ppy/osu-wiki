@@ -27,7 +27,10 @@ Es wird zwar angenommen, dass ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2
 
 ## 2007
 
-*Anmerkung: In der Zeit, in der [Ranked Score](/wiki/Gameplay/Score/Ranked_score) im Einsatz war, wechselte der Spieler auf dem ersten Platz häufig. Daher sind die früheren Einträge ungenauer. Detaillierte Informationen können in der geschätzten Rekonstruktion der globalen Rangliste von Ranked Score gefunden werden, die [hier](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE) zur Verfügung steht.*
+::: alert-notice
+**Hinweis**
+In der Zeit, in der [Ranked Score](/wiki/Gameplay/Score/Ranked_score) im Einsatz war, wechselte der Spieler auf dem ersten Platz häufig. Daher sind die früheren Einträge ungenauer. Detaillierte Informationen können in der geschätzten Rekonstruktion der globalen Rangliste von Ranked Score gefunden werden, die [hier](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE) zur Verfügung steht.
+:::
 
 | Spieler | von | bis | Quellen |
 | --: | :-- | :-- | :-- |
@@ -127,7 +130,10 @@ Es wird zwar angenommen, dass ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2
 
 ## 2012
 
-*Anmerkung: [ppv1](/wiki/Performance_points/ppv1) ersetzte Ranked Score am 24. Juli 2012 vollständig.*
+::: alert-notice
+**Hinweis**
+[ppv1](/wiki/Performance_points/ppv1) ersetzte Ranked Score am 24. Juli 2012 vollständig.
+:::
 
 | Spieler | von | bis | Quellen |
 | --: | :-- | :-- | :-- |
@@ -158,7 +164,10 @@ Es wird zwar angenommen, dass ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2
 
 ## 2014
 
-*Anmerkung: [ppv2](/wiki/Performance_points) wurde am 27. Januar 2014 eingeführt.*
+::: alert-notice
+**Hinweis**
+[ppv2](/wiki/Performance_points) wurde am 27. Januar 2014 eingeführt.
+:::
 
 | Spieler | von | bis | Quellen |
 | --: | :-- | :-- | :-- |
@@ -350,7 +359,10 @@ Die folgende Liste stellt dar, wie oft ein Spieler in seiner Spielzeit den erste
 
 ## Längste zusammengezählte Titelverteidigung
 
-*Anmerkung: Der aktuelle Spieler auf dem ersten Platz ist nicht in dieser Liste enthalten.*
+::: alert-notice
+**Hinweis**
+Der aktuelle Spieler auf dem ersten Platz ist nicht in dieser Liste enthalten.
+:::
 
 Die folgende Liste enthält die Gesamtanzahl der Tage, die ein Spieler den ersten Platz innehatte (Stand: 11. Juli 2026).
 
@@ -397,7 +409,10 @@ Die folgende Liste enthält die Gesamtanzahl der Tage, die ein Spieler den erste
 
 ## Längste ununterbrochene Titelverteidigung
 
-*Anmerkung: Nur Titelverteidigungen mit mehr als 100 Tagen werden genannt. Der aktuelle Spieler auf dem ersten Platz ist nicht enthalten.*
+::: alert-notice
+**Hinweis**
+Nur Titelverteidigungen mit mehr als 100 Tagen werden genannt. Der aktuelle Spieler auf dem ersten Platz ist nicht enthalten.
+:::
 
 Die folgende Liste stellt die größte Anzahl an aufeinanderfolgenden Tagen dar, in denen ein Spieler den ersten Platz innehatte (Stand: 11. Juli 2026).
 

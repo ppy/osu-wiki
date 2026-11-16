@@ -1,6 +1,8 @@
 # Simplified ranking criteria
 
-*For the full ranking criteria, see: [Ranking criteria](/wiki/Ranking_criteria)*
+::: alert-note
+**Note:** For the full ranking criteria, see [Ranking criteria](/wiki/Ranking_criteria)
+:::
 
 The full list of [ranking criteria](/wiki/Ranking_criteria) is complicated. It explains every rule and guideline required to create a [beatmap](/wiki/Beatmap) worthy of being [ranked](/wiki/Beatmap_ranking_procedure#rank), including *a lot* of niche situations that the majority of mappers never encounter.
 
@@ -29,17 +31,11 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 - **A [guest mapper](/wiki/Beatmap/Guest_difficulty) can't create more difficulties than the [host](/wiki/Beatmap/Beatmap_host).**
 - **Minimum requirement for lowest difficulty by mode and length:**
 
-| [Drain time](/wiki/Beatmap/Drain_time) | ![osu!](/wiki/shared/mode/osu.png "osu!") osu! |
-| :-- | :-: |
-| **0:30 to 3:30** | Normal |
-| **3:30 to 4:15** | Hard |
-| **4:15 to 5:00** | Insane |
-
-| [Drain time](/wiki/Beatmap/Drain_time) | ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") osu!taiko | ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") osu!catch |
-| :-- | :-: | :-: |
-| **0:30 to 2:30** | Futsuu | Salad |
-| **2:30 to 3:15** | Muzukashii | Platter |
-| **3:15 to 4:00** | Oni | Rain |
+| [Drain time](/wiki/Beatmap/Drain_time) | ![osu!](/wiki/shared/mode/osu.png "osu!") osu! | ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") osu!taiko | ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") osu!catch |
+| :-- | :-: | :-: | :-: |
+| **0:30 to 2:30** | Normal | Futsuu | Salad |
+| **2:30 to 3:15** | Hard | Muzukashii | Platter |
+| **3:15 to 4:00** | Insane | Oni | Rain |
 
 | [Drain time](/wiki/Beatmap/Drain_time) | ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") osu!mania |
 | :-- | :-: |
@@ -135,7 +131,9 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 
 ## Mode-specific
 
-*For full [game mode](/wiki/Game_mode)–specific ranking criteria, see: [osu!](../osu!), [osu!taiko](../osu!taiko), [osu!catch](../osu!catch), and [osu!mania](../osu!mania)*
+::: alert-note
+**Note:** For full [game mode](/wiki/Game_mode)–specific ranking criteria, see [osu!](../osu!), [osu!taiko](../osu!taiko), [osu!catch](../osu!catch), and [osu!mania](../osu!mania)
+:::
 
 ### osu!
 
@@ -179,7 +177,10 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 
 ## Song interpretation
 
-*Note: This section is based on subjective mapping views, not the ranking criteria.*
+::: alert-notice
+**Notice**
+This section is based on subjective mapping views, not the ranking criteria.
+:::
 
 **Every element of a map should represent the song.**
 

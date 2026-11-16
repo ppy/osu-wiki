@@ -59,7 +59,9 @@ Les règles et directives spécifiques aux difficultés ne s'appliquent qu'au ni
 
 ### Noms des difficultés
 
-*Article principal : [Noms des difficultés](/wiki/Ranking_criteria/Difficulty_naming)*
+::: alert-note
+**Page principale** : [Noms des difficultés](/wiki/Ranking_criteria/Difficulty_naming)
+:::
 
 - ![](/wiki/shared/diff/easy-c.png?20211215) Cup
 - ![](/wiki/shared/diff/normal-c.png?20211215) Salad

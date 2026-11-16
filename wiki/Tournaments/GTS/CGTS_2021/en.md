@@ -112,7 +112,10 @@ The Continental Global Taiko Showdown 2021 was run by various community members.
 
 ### Regional phase
 
-*Note: Global ranks are recorded at the end of registration.*
+::: alert-notice
+**Notice**
+Global ranks are recorded at the end of registration.
+:::
 
 #### Asia
 

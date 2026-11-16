@@ -1,6 +1,8 @@
 # Installation
 
-*See also: [Installation on macOS](/wiki/Client/Installation/macOS)*
+::: alert-note
+**See also:** [Installation on macOS](/wiki/Client/Installation/macOS)
+:::
 
 This page will tell you how to get osu! working on your Windows device. The [osu!academy](/wiki/Community/Video_series/osu!academy) has a [video tutorial](https://www.youtube.com/watch?v=0V5GwzmMhpU) that explains how to install osu! on Windows.
 
@@ -34,7 +36,9 @@ If you are using a 64-bit Windows 7, you may have difficulties installing osu! c
 
 ## Adding beatmaps
 
-*See also: [Beatmaps](/wiki/Beatmap)*
+::: alert-note
+**See also:** [Beatmaps](/wiki/Beatmap)
+:::
 
 There are two ways to add beatmaps, via the website or osu!direct (requires [osu!supporter](/wiki/osu!supporter)).
 
@@ -50,7 +54,10 @@ There are two ways to add beatmaps, via the website or osu!direct (requires [osu
 
 ### osu!direct
 
-*Note: You need to have an osu!supporter tag and an internet connection to use osu!direct.*
+::: alert-notice
+**Notice**
+You need to have an osu!supporter tag and an internet connection to use osu!direct.
+:::
 
 1. Open osu!, and click the osu!direct button on the right side of the main screen.
 2. Find a song that you would like to play.
@@ -61,7 +68,9 @@ There are two ways to add beatmaps, via the website or osu!direct (requires [osu
 
 ## Adding skins
 
-*See also: [Skinning](/wiki/Skinning)*
+::: alert-note
+**See also:** [Skinning](/wiki/Skinning)
+:::
 
 1. Go to the [skinning forums](https://osu.ppy.sh/community/forums/15) and find a skin you like.
 2. Once you find a skin, download it.

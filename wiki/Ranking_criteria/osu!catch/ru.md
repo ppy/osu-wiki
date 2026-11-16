@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: c33493a68ff0fd04d12d4432725bb13745b06696
+---
+
 # Критерии ранкинга osu!catch
 
 ***Примечание: эта статья — продолжение [общих критериев ранкинга](/wiki/Ranking_criteria).***
@@ -51,7 +56,9 @@
 
 ### Названия сложностей
 
-*Основная статья: [Названия сложностей](/wiki/Ranking_criteria/Difficulty_naming)*
+::: alert-note
+**Основная статья:** [Названия сложностей](/wiki/Ranking_criteria/Difficulty_naming)
+:::
 
 - ![](/wiki/shared/diff/easy-c.png?20211215) Cup
 - ![](/wiki/shared/diff/normal-c.png?20211215) Salad

@@ -1,6 +1,8 @@
 ---
 no_native_review: true
 needs_cleanup: true
+outdated_translation: true
+outdated_since: 700c767c79ccf1b57d76b0acda46dc032cf94ce9
 ---
 
 <!-- TODO: needs further rewrite, see https://github.com/ppy/osu-wiki/issues/7165 -->
@@ -13,7 +15,10 @@ needs_cleanup: true
 
 ## Comment jouer
 
-*Remarque : Le mode multijoueur nécessite un [compte osu!](/wiki/Registration) et n'est pas disponible pour les joueurs [réduits au silence](/wiki/Silence).*
+::: alert-notice
+**Note**
+Le mode multijoueur nécessite un [compte osu!](/wiki/Registration) et n'est pas disponible pour les joueurs [réduits au silence](/wiki/Silence).
+:::
 
 Le menu principal permet d'accéder au lobby multijoueur principal en suivant les étapes suivantes :
 
@@ -22,7 +27,10 @@ Le menu principal permet d'accéder au lobby multijoueur principal en suivant le
 
 ## Lobby principal
 
-*Remarque : Un tag [osu!supporter](/wiki/osu!supporter) actif est nécessaire pour entrer dans le lobby en utilisant le build `Cutting Edge (expérimental)`.*
+::: alert-notice
+**Note**
+Un tag [osu!supporter](/wiki/osu!supporter) actif est nécessaire pour entrer dans le lobby en utilisant le build `Cutting Edge (expérimental)`.
+:::
 
 ![](img/multi-lobby-fr.jpg "Exemple d'une journée typique dans le lobby multijoueur principal")
 
@@ -228,7 +236,7 @@ Le bouton bleu est utilisé pour contrôler l'état de préparation du joueur et
 ### Historique des matchs
 
 ::: Infobox
-![](img/multi-mh-fr.jpg?1 "Une page sur l'historique des matchs sur le site web")
+![](/wiki/shared/multiplayer/stable/multi-mh-fr.jpg?1 "Une page sur l'historique des matchs sur le site web")
 :::
 
 La partie inférieure de l'écran est la [console de tchat](/wiki/Client/Interface/Chat_console). Chaque match a son propre canal dans un onglet appelé `#multiplayer`, avec [BanchoBot](/wiki/BanchoBot) fournissant un lien vers l'historique du match sur la première ligne.
@@ -352,7 +360,10 @@ Les panneaux latéraux affichent les résultats de chaque joueur dans différent
 
 ##### Interface
 
-*Remarque : ce mode d'équipe n'est pas classé et n'est disponible qu'en mode osu!.*
+::: alert-notice
+**Note**
+ce mode d'équipe n'est pas classé et n'est disponible qu'en mode osu!.
+:::
 
 ::: Infobox
 ![](img/multi-coop-interface.jpg "Interface du mode d'équipe Tag co-op")
@@ -397,7 +408,7 @@ L'écran des résultats de `Tag-team VS` est identique à [l'écran des résulta
 ### Histoire
 
 ::: Infobox
-![](img/legacy-multi-lobby.jpg "Capture d'écran du lobby principal lors de la sortie d'osu!mania (8 octobre 2012), mais pas encore jouable en multijoueur.")
+![](/wiki/shared/multiplayer/stable/legacy-multi-lobby.jpg "Capture d'écran du lobby principal lors de la sortie d'osu!mania (8 octobre 2012), mais pas encore jouable en multijoueur.")
 :::
 
 - La version multijoueur initiale a été implémentée le 3 juin 2008 dans l'osu! Public Release b335.

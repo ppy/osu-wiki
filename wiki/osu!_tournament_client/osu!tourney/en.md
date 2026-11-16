@@ -1,6 +1,8 @@
 # osu!tourney
 
-*See also: [osu! tournament client](/wiki/osu!_tournament_client)*
+::: alert-note
+**See also:** [osu! tournament client](/wiki/osu!_tournament_client)
+:::
 
 **osu!tourney** is the multi-spectator client for the stable version of osu!, used to view and stream all players in a multiplayer room at once.
 

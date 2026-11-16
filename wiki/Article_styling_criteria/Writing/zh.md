@@ -1,6 +1,9 @@
 # 写作
 
-*关于排版标准，请参见：[文章风格规范/排版](../Formatting)*\
+::: alert-note
+**备注：** 关于排版标准，请参见[文章风格规范/排版](../Formatting)
+:::
+
 *注意：这篇文章根据 [RFC 2119](https://tools.ietf.org/html/rfc2119) 来描述需求级别。*
 
 本文为中文的写作规范，但因为有时也需要使用英文术语，故而本文也包含部分英文内容的书写要求。有关英文文章的完整写作规范，请参阅本文章的英文版。
@@ -244,7 +247,9 @@ osu! 通常需要使用 `Z`、`X` 和鼠标来游玩，而 Dean Herbert（也称
 
 ### 标点符号
 
-*关于国家标准，请参见：[GB/T 15834-2011 标点符号用法](http://www.moe.gov.cn/ewebeditor/uploadfile/2015/01/13/20150113091548267.pdf)*
+::: alert-note
+**备注：** 关于国家标准，请参见[GB/T 15834-2011 标点符号用法](http://www.moe.gov.cn/ewebeditor/uploadfile/2015/01/13/20150113091548267.pdf)
+:::
 
 #### 顿号
 
@@ -302,7 +307,9 @@ Commas, `vs.`, `feat.`, `CV:` and any other symbols linking or designating artis
 
 ### 数字
 
-*关于国家标准，请参见：[GB/T 15834-2011 出版物上数字用法](http://www.moe.gov.cn/ewebeditor/uploadfile/2015/01/13/20150113091154536.pdf)*
+::: alert-note
+**备注：** 关于国家标准，请参见[GB/T 15834-2011 出版物上数字用法](http://www.moe.gov.cn/ewebeditor/uploadfile/2015/01/13/20150113091154536.pdf)
+:::
 
 一般情况下（不符合以上国家标准定义的情况），使用中文数字和阿拉伯数字均可。使用阿拉伯数字时，惯用做法是与中英混用类似，将数字前后留出一个空格。
 

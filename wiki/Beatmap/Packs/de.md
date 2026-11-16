@@ -38,7 +38,10 @@ Beatmap-Pakete werden in 7 Kategorien mit jeweils einem bestimmten Buchstaben al
 
 ## Alternative Downloads
 
-*Vorsicht: osu! kann nicht garantieren, dass Dateien aus inoffiziellen Quellen ungefährlich, aktuell oder vollständig sind.*
+::: alert-caution
+**Vorsicht**
+osu! kann nicht garantieren, dass Dateien aus inoffiziellen Quellen ungefährlich, aktuell oder vollständig sind.
+:::
 
 Es wird empfohlen, Beatmap-Pakete direkt von der offiziellen Auflistung herunterzuladen. Solltest du jedoch Probleme beim Herunterladen haben, gibt es mehrere Alternativen, die du nutzen kannst.
 

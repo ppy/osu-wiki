@@ -1,7 +1,12 @@
 # Résumé des modificateurs de jeu
 
-*Page principale : [Modificateurs de jeu](/wiki/Gameplay/Game_modifier)*\
-*Note : Tous les mods utilisés dans osu!mania n'augmenteront jamais le multiplicateur de score.*
+::: alert-note
+**Page principale** : [Modificateurs de jeu](/wiki/Gameplay/Game_modifier)
+:::
+
+::: alert-notice
+**Note** : Tous les mods utilisés dans osu!mania n'augmenteront jamais le multiplicateur de score.
+:::
 
 | Mod | Nom (Abréviation) | Multiplicateur | Légende |
 | :-- | :-- | :-- | :-- |
@@ -41,7 +46,10 @@
 
 ### Multiplicateurs de score avec le mod xK en Co-op
 
-*Remarque : Ce tableau n'affecte que les beatmaps converties d'osu! à osu!mania pendant le jeu, et non les beatmaps spécifiques à osu!mania. En tant que tel, le mod Co-op ne donne aucune pénalité sur les beatmaps spécifiques à osu!mania.*
+::: alert-notice
+**Note**
+Ce tableau n'affecte que les beatmaps converties d'osu! à osu!mania pendant le jeu, et non les beatmaps spécifiques à osu!mania. En tant que tel, le mod Co-op ne donne aucune pénalité sur les beatmaps spécifiques à osu!mania.
+:::
 
 | Défaut/Modificateur | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
 | :-: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
@@ -52,7 +60,10 @@
 
 ## Annulations entre les mods
 
-*Note : Tous les mods annulent le mod Target Practice.*
+::: alert-notice
+**Note**
+Tous les mods annulent le mod Target Practice.
+:::
 
 | Ces mods... | ...annule ces mod (et vice-versa) |
 | :-- | :-- |

@@ -13,7 +13,10 @@ tags:
 
 # Mapas técnicos
 
-*Aviso: Para el propósito de este artículo, el término «mapa técnico» se tratará como un término general que incluye todas estas definiciones.*
+::: alert-notice
+**Aviso**
+Para el propósito de este artículo, el término «mapa técnico» se tratará como un término general que incluye todas estas definiciones.
+:::
 
 **Mapa técnico** (a menudo abreviado en inglés como «tech maps») es un término que no tiene una definición clara y acordada entre la comunidad de osu!. Dependiendo del usuario, un «mapa técnico» puede ser tan amplio como un [beatmap](/wiki/Beatmap) que simplemente contiene [patrones](/wiki/Beatmap/Pattern) no genéricos, o tan específico como un beatmap que es denso en número de [objetos](/wiki/Gameplay/Hit_object) y contiene muchas formas irregulares de [sliders](/wiki/Gameplay/Hit_object/Slider) que cambian rápida y drásticamente las velocidades (a menudo a alta intensidad).
 
@@ -27,7 +30,10 @@ Debido a la naturaleza amplia del término «mapa técnico», existen muchos asp
 
 ### Definición más amplia
 
-*Aviso: La definición «más amplia» solo requiere que uno o dos de los aspectos enumerados estén presentes para poder definir un beatmap como técnico.*
+::: alert-notice
+**Aviso**
+La definición «más amplia» solo requiere que uno o dos de los aspectos enumerados estén presentes para poder definir un beatmap como técnico.
+:::
 
 - Patrones no genéricos o difíciles de leer (ejemplo mostrado a continuación)
   - Un «flow» difícil para el beatmap
@@ -46,7 +52,10 @@ Buenos ejemplos de mapas técnicos que se ajustan a esta definición son [Silent
 
 ### Definición más restrictiva/específica
 
-*Aviso: La definición «más restrictiva/específica» requiere que **todos** los aspectos enumerados estén presentes para poder definir un beatmap como técnico.*
+::: alert-notice
+**Aviso**
+La definición «más restrictiva/específica» requiere que **todos** los aspectos enumerados estén presentes para poder definir un beatmap como técnico.
+:::
 
 - Formas irregulares de sliders
 - Cambios rápidos y bruscos en la velocidad del slider

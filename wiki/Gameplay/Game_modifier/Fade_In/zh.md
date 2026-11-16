@@ -22,7 +22,7 @@ tags:
 
 - 缩写：FI
 - 类别：增加难度
-- 得分系数：1.00x
+- 得分倍率：1.00x
 - 默认快捷键：`F`
 - 兼容的游戏模式：![][osu!mania]
 - 变体：[Hidden](/wiki/Gameplay/Game_modifier/Hidden)

@@ -13,3 +13,4 @@ Index page for all of the Catch the Beat Indonesia Cup series.
 - [Catch the Beat Indonesia Cup 2023](2023)
 - [Catch the Beat Indonesia Cup Open 2024](Open_2024)
 - [Catch the Beat Indonesia Cup Open 2025](Open_2025)
+- [Catch the Beat Indonesia Cup Open 2026](Open_2026)

@@ -34,7 +34,9 @@ outdated_since: 07144764dfa8ee93e7d1e8144a2ed8b5fd98ab4e
 
 # 계정
 
-*메인 페이지: [Help centre](/wiki/Help_centre)*
+::: alert-note
+**메인 페이지:** [Help centre](/wiki/Help_centre)
+:::
 
 당신의 osu! 계정과 관련된 모든 것이 있습니다. 문제에 적합한 해결 방법이 있는지 알아보려면 아래를 확인하세요.
 
@@ -226,7 +228,9 @@ osu!에서는 유저가 여러 계정을 가지는 것을 매우 반대하며, �
 ### 계정을 삭제할 수 있나요? {id=account-deletion}
 
 *계정 삭제에 대한 자세한 내용을 확인하려면 [osu! 개인 정보 보호 정책 § 귀하의 권리 및 통제](/wiki/Legal/Privacy#your-rights-and-control) 문서를 참조하세요.*\
-*주의: 계정 삭제는 영구적이며 취소할 수 없습니다!*
+::: alert-caution
+**주의:** 계정 삭제는 영구적이며 취소할 수 없습니다!
+:::
 
 네, 모든 유저는 [privacy@ppy.sh](mailto:privacy@ppy.sh)로 메일을 보내 계정 삭제를 요청할 수 있습니다. 계정 삭제는 **최종적**이므로, 되돌리거나 취소가 불가능합니다. 여러 계정을 갖는 것은 [규칙](/wiki/Rules#커뮤니티-규칙) 위반이기에, 계정을 삭제한다고 새 계정을 만들 수 있다는 것은 아닙니다. 이는 더 이상 osu!의 온라인 기능을 사용할 수 없다는 것을 의미하기도 합니다.
 

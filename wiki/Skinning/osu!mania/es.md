@@ -4,7 +4,9 @@ Desde la versión 2.5 o en versiones posteriores, los skinners ahora pueden pers
 
 ## Hit Bursts
 
-*Véase también: [Skinning/FAQ § Jerarquía de puntuación de la pantalla de clasificación](/wiki/Skinning/FAQ#jerarquía-de-puntuación-de-la-pantalla-de-clasificación)*
+::: alert-note
+**Véase también:** [Skinning/FAQ § Jerarquía de puntuación de la pantalla de clasificación](/wiki/Skinning/FAQ#jerarquía-de-puntuación-de-la-pantalla-de-clasificación)
+:::
 
 ---
 

@@ -13,9 +13,17 @@ tags:
 
 ![Icono del mod DT](/wiki/shared/mods/DT.png "Icono del mod Double Time (DT)")
 
-*Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase: [Double Time (mod de lazer)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer))*\
-*Para la lista completa de los mods, véase: [Modificadores del juego](/wiki/Gameplay/Game_modifier)*\
-*Véase también: [Nightcore (mod)](/wiki/Gameplay/Game_modifier/Nightcore)*
+::: alert-note
+**Nota:** Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase [Double Time (mod de lazer)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer))
+:::
+
+::: alert-note
+**Nota:** Para la lista completa de los mods, véase [Modificadores del juego](/wiki/Gameplay/Game_modifier)
+:::
+
+::: alert-note
+**Véase también:** [Nightcore (mod)](/wiki/Gameplay/Game_modifier/Nightcore)
+:::
 
 ## Resumen
 
@@ -33,7 +41,10 @@ tags:
 
 ## Descripción
 
-*Nota: El método usado para aumentar la velocidad no aumenta el tono de la canción.*
+::: alert-notice
+**Aviso**
+El método usado para aumentar la velocidad no aumenta el tono de la canción.
+:::
 
 El mod **Double Time** es un [modificador del juego](/wiki/Gameplay/Game_modifier) que intenta aumentar la dificultad de un [beatmap](/wiki/Beatmap) aumentando su velocidad general (BPM) en un 150 % (1,5x), reduciendo la duración de la canción en un 33 % y aumentando la [velocidad de aproximación (AR)](/wiki/Beatmap/Approach_rate), la [dificultad general (OD)](/wiki/Beatmap/Overall_difficulty) y la [salud (HP)](/wiki/Gameplay/Health).
 

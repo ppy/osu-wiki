@@ -26,7 +26,9 @@ Les contributeurs qui ont enregistré leur compte à une époque plus ancienne d
 
 #### Août
 
-*Pour le post du forum, voir : [osu! community contributors](https://osu.ppy.sh/community/forums/topics/147919)*
+::: alert-note
+**Remarque** : Pour le post du forum, voir [osu! community contributors](https://osu.ppy.sh/community/forums/topics/147919)
+:::
 
 | Utilisateur | Contributions |
 | :-- | :-- |
@@ -60,7 +62,9 @@ Les contributeurs qui ont enregistré leur compte à une époque plus ancienne d
 
 #### Janvier
 
-*Pour le post de news, voir : [Community Contributor Badges (January 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016)*
+::: alert-note
+**Remarque** : Pour le post de news, voir [Community Contributor Badges (January 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016)
+:::
 
 | Utilisateur | Contributions |
 | :-- | :-- |
@@ -75,7 +79,9 @@ Les contributeurs qui ont enregistré leur compte à une époque plus ancienne d
 
 #### Mars
 
-*Pour le post de news, voir : [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53)*
+::: alert-note
+**Remarque** : Pour le post de news, voir [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53)
+:::
 
 | Utilisateur | Contributions |
 | :-- | :-- |
@@ -83,7 +89,9 @@ Les contributeurs qui ont enregistré leur compte à une époque plus ancienne d
 
 #### Novembre
 
-*Pour le post de news, voir : [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best)*
+::: alert-note
+**Remarque** : Pour le post de news, voir [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best)
+:::
 
 | Utilisateur | Contributions |
 | :-- | :-- |
@@ -101,7 +109,9 @@ Les contributeurs qui ont enregistré leur compte à une époque plus ancienne d
 
 #### Décembre
 
-*Pour le post de news, voir : [Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017)*
+::: alert-note
+**Remarque** : Pour le post de news, voir [Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017)
+:::
 
 | Utilisateur | Contributions |
 | :-- | :-- |
@@ -130,7 +140,9 @@ Les contributeurs qui ont enregistré leur compte à une époque plus ancienne d
 
 #### Février
 
-*Pour le post de news, voir : [Community Contributors: February 2019](https://osu.ppy.sh/home/news/2019-02-22-community-contributors-february-2019)*
+::: alert-note
+**Remarque** : Pour le post de news, voir [Community Contributors: February 2019](https://osu.ppy.sh/home/news/2019-02-22-community-contributors-february-2019)
+:::
 
 | Utilisateur | Contributions |
 | :-- | :-- |
@@ -162,7 +174,9 @@ Les contributeurs qui ont enregistré leur compte à une époque plus ancienne d
 
 #### Février
 
-*Pour le post de news, voir : [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)*
+::: alert-note
+**Remarque** : Pour le post de news, voir [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)
+:::
 
 | Utilisateur | Contributions |
 | :-- | :-- |
@@ -192,7 +206,9 @@ Les contributeurs qui ont enregistré leur compte à une époque plus ancienne d
 
 #### Mars
 
-*Pour le post de news, voir : [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
+::: alert-note
+**Remarque** : Pour le post de news, voir [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)
+:::
 
 | Utilisateur | Contributions |
 | :-- | :-- |
@@ -208,7 +224,9 @@ Les contributeurs qui ont enregistré leur compte à une époque plus ancienne d
 
 #### Juin
 
-*Pour le post de news, voir : [Community Contributors: 2021](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021)*
+::: alert-note
+**Remarque** : Pour le post de news, voir [Community Contributors: 2021](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021)
+:::
 
 | Utilisateur | Contributions |
 | :-- | :-- |
@@ -232,7 +250,9 @@ Les contributeurs qui ont enregistré leur compte à une époque plus ancienne d
 
 #### Novembre
 
-*Pour le post de news, voir : [Community Contributors: 2022 & 2023](https://osu.ppy.sh/home/news/2023-11-19-community-contributors-2022-2023)*
+::: alert-note
+**Remarque** : Pour le post de news, voir [Community Contributors: 2022 & 2023](https://osu.ppy.sh/home/news/2023-11-19-community-contributors-2022-2023)
+:::
 
 | Utilisateur | Contributions |
 | :-- | :-- |

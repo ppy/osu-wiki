@@ -9,7 +9,9 @@
 
 ## 历史
 
-*主文章：[osu! wiki 的历史](/wiki/History_of_osu!/osu!_wiki)*
+::: alert-note
+**主文章：** [osu! wiki 的历史](/wiki/History_of_osu!/osu!_wiki)
+:::
 
 建立结构化知识库的[初次尝试](https://osu.ppy.sh/community/forums/posts/1175876)可被追溯到 2011 年，那时 [peppy](/wiki/People/peppy) 搭建了一个 [MediaWiki](https://zh.wikipedia.org/wiki/MediaWiki) 实例供参与者使用。数年以来，MediaWiki 的维护与运营被证明是困难且繁琐的。于是在 [2016 年 8 月 26 日](https://discord.com/channels/188630481301012481/218677502141399041/218678017659109376)，peppy 与一支志愿者团队开始将 osu! wiki 迁移到 GitHub，并沿用至今。在那之后，osu! wiki 就被整合到新版 osu! 网站中，并获得了对优质用户体验至关重要的技术与视觉更新。
 

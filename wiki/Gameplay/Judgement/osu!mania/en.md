@@ -62,7 +62,7 @@ Late MEH hits or releases are impossible and result in a miss instead.
 The [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) mod changes a few things about osu!mania judgement mechanics:
 
 - The PERFECT hit window is changed to `22.4 - 0.6 × OD` if OD ≤ 5, and `24.9 - 1.1 × OD` if OD ≥ 5.
-- Hold notes receive two seperate judgements at the head and tail, as if they were regular notes.
+- Hold notes receive two separate judgements at the head and tail, as if they were regular notes.
   - Hold note tail release windows become 1.5x longer.<!-- https://github.com/peppy/osu-stable-reference/search?q=SliderEndLenience -->
   - Releasing the key during the hold note body prevents tail judgements higher than MEH.
   - Again, late MEH hits or releases result in misses instead.

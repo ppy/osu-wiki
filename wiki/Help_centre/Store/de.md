@@ -9,8 +9,13 @@ tags:
 
 # osu!store und Merchandise
 
-*Hauptseite: [Hilfecenter](/wiki/Help_centre)*\
-*Für Hilfe zu älteren Produkten, siehe: [Shoparchiv](/wiki/Help_centre/Store/Store_archive)*
+::: alert-note
+**Hauptseite:** [Hilfecenter](/wiki/Help_centre)
+:::
+
+::: alert-note
+**Anmerkung:** Für Hilfe zu älteren Produkten, siehe [Shoparchiv](/wiki/Help_centre/Store/Store_archive)
+:::
 
 Dieser Artikel bezieht sich nur auf Produkte, die im [osu!store](https://osu.ppy.sh/store/listing) erworben werden können.
 

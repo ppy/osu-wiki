@@ -1,6 +1,8 @@
 # Einschränkungen des Accounts
 
-*Hauptseite: [Hilfecenter](/wiki/Help_centre)*
+::: alert-note
+**Hauptseite:** [Hilfecenter](/wiki/Help_centre)
+:::
 
 Eine Einschränkung ist ein zeitlich begrenzter Ausschluss aus der Community für Accounts, die abnormales, verdächtiges oder regel-brechendes Verhalten zeigen.
 

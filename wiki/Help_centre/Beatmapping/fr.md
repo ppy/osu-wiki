@@ -16,7 +16,9 @@ no_native_review: true
 
 # Beatmapping et éditeur
 
-*Page principale : [Centre d'aide](/wiki/Help_centre)*
+::: alert-note
+**Page principale** : [Centre d'aide](/wiki/Help_centre)
+:::
 
 Cette section est dédiée aux problèmes liés à l'éditeur de beatmap et au beatmapping en général.
 

@@ -1,8 +1,12 @@
-# Submission
+# Beatmap submission
+
+::: alert-note
+**Note:** For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see [Beatmap submission (lazer)](/wiki/Beatmapping/Beatmap_submission_(lazer))
+:::
 
 [Beatmaps](/wiki/Beatmap) can be submitted to the osu! website via the [in-game editor](/wiki/Client/Beatmap_editor). Submitting a beatmap allows it to receive attention from other users and potentially enter the [Ranked](/wiki/Beatmap/Category#ranked) or [Loved](/wiki/Beatmap/Category#loved) categories.
 
-![](img/bss_warning.png "Beatmap Submission System screen")
+![The Beatmap Submission System window](img/bss_warning.png "Beatmap Submission System window")
 
 Selecting `Upload Beatmap...` from the `File` dropdown in the editor (shortcut: `Ctrl` + `Shift` + `U`) will open the **Beatmap Submission System** (***BSS***) window. This initially lists resources to help users ask mapping-related questions, find [feedback](/wiki/Modding) for their beatmaps, and ensure their maps are suitable for ranking. If you encounter trouble when using BSS, see the [BSS Issues](/wiki/Guides/BSS_issues) guide.
 
@@ -14,13 +18,13 @@ If the beatmap a user is uploading is not already on the osu! website, the BSS w
 
 When clicking the `Upload NEW Beatmap!` or `Update Beatmap!` button, a user will be presented with the choice of uploading their beatmap to the `Work In Progress/Help` or `Pending Beatmaps` categories. WIP beatmaps cannot be nominated for ranking, while pending beatmaps can.
 
-The `Creator's Words` section allows for user input that appears alongside the beatmap's website listing page. This supports [BBCode](/wiki/BBCode) formatting.
+The `Creator's Words` section was used to edit the [beatmap description](/wiki/Beatmap/Beatmap_description), and is disabled since [Stable 20251128.1](https://osu.ppy.sh/home/changelog/stable40/20251128.1). The description could still be edited from the website after beatmap submission.
 
 Two checkboxes appear near the bottom of the window. The first says `Receive email notification on reply`, which adds the beatmap to the user's [modding watchlist](https://osu.ppy.sh/beatmapsets/watches). The second says `Load in browser after submission`, which will load the beatmap's listing page in your default browser.
 
 ## Limitations
 
-Beatmaps will fail to submit if they exceed the online file size or difficulty limit. The file size limit is 5MB plus an additional 10MB for every minute of beatmap length, and it caps at 100MB. The difficulty limit is currently 128.
+Beatmaps will fail to submit if they exceed the online file size or difficulty limit. The file size limit is 5 MB plus an additional 10 MB for every minute of beatmap length, and it caps at 100 MB. The difficulty limit is currently 128.
 
 Users are allowed a limited number of pending beatmaps at a time. The limit varies depending on how many ranked beatmaps a user has and whether or not they are currently an [osu!supporter](/wiki/osu!supporter). Users without osu!supporter can have 4 pending beatmaps plus 1 per ranked beatmap (up to 4). With osu!supporter, this increases to 8 pending beatmaps plus 1 per ranked beatmap (up to 12) for a total of 20.
 

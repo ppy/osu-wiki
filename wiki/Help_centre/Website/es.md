@@ -24,7 +24,9 @@ tags:
 
 # Sitio web
 
-*Página principal: [Centro de ayuda](/wiki/Help_centre)*
+::: alert-note
+**Página principal:** [Centro de ayuda](/wiki/Help_centre)
+:::
 
 Esta sección está dedicada a los problemas con el sitio web de osu!.
 

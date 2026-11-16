@@ -1,6 +1,8 @@
 # Account restrictions
 
-*Main page: [Help centre](/wiki/Help_centre)*
+::: alert-note
+**Main page:** [Help centre](/wiki/Help_centre)
+:::
 
 A restriction is a timeout from the community forced upon accounts that exhibit abnormal, suspicious, or rule-breaking behaviour.
 

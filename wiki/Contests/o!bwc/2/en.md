@@ -175,7 +175,9 @@ Songs:
 
 ### Qualifiers
 
-*For scoring details, see the [qualifiers leaderboard](https://obwc.net/results/qualifiers) on the contest website.*
+::: alert-note
+**Note:** For scoring details, see the [qualifiers leaderboard](https://obwc.net/results/qualifiers) on the contest website.
+:::
 
 **[Download all entries here! (219 MB)](https://obwc.net/api/results/downloadZip/1)**
 

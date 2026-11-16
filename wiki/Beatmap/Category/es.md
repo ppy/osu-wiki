@@ -28,7 +28,9 @@ Los beatmaps clasificados están respaldados como contenido oficial, en el senti
 
 ### Amados {id=loved}
 
-*Para conocer la historia de la categoría amados, véase: [Historia de amado](/wiki/History_of_osu!/History_of_Loved)*
+::: alert-note
+**Nota:** Para conocer la historia de la categoría amados, véase [Historia de amado](/wiki/History_of_osu!/History_of_Loved)
+:::
 
 Es posible que los beatmaps amados no cumplan con los [criterios de clasificación](/wiki/Ranking_criteria), pero son *amados* por la comunidad y, por lo tanto, se añaden regularmente en función de los votos de la comunidad en [Project Loved](/wiki/Community/Project_Loved). Tienen tablas de clasificación, pero no otorgarán [puntos de rendimiento](/wiki/Performance_points) y todas las puntuaciones se eliminarán si se mueve fuera de amados. Los beatmaps amados usan el icono del corazón (![](/wiki/shared/status/loved.png)) en el selector de canciones.
 

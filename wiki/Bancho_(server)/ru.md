@@ -7,13 +7,15 @@ tags:
 
 # Bancho (сервер)
 
-*У этого термина существуют и другие значения, см. [Bancho (значения)](/wiki/Disambiguation/Bancho).*
+::: alert-note
+**Примечание:** У этого термина существуют и другие значения, см. [Bancho (значения)](/wiki/Disambiguation/Bancho).
+:::
 
 **Bancho** (рус. **Банчо**, иногда *osu!Bancho*) — кодовое имя серверного компонента, который отвечает за взаимодействие в реальном времени между игроками, у которых запущена стабильная версия osu!:
 
 - Чат, [онлайн-статус игроков](/wiki/Client/Interface/Chat_console#расширенное-окно-чата) и [IRC-сервер](/wiki/Community/Internet_Relay_Chat)
 - [Режим зрителя](/wiki/Gameplay/Spectating)
-- [Мультиплеер](/wiki/Client/Interface/Multiplayer) и [управление турнирами](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
+- [Мультиплеер](/wiki/Gameplay/Multiplayer) и [управление турнирами](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
 
 ::: Infobox
 ![](img/connection-warning.png "Скриншот главного меню с иконкой плохого соединения (в правом нижнем углу, слева)")

@@ -1,13 +1,21 @@
 # GitHubs webbasierter Editor
 
-*Anmerkung: Dieser Artikel verwendet Windows-Tastenkombinationen.*\
-*Siehe auch: [The github.dev web-based editor - GitHub Docs](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor)*
+::: alert-notice
+**Anmerkung:** Dieser Artikel verwendet Windows-Tastenkombinationen.
+:::
+
+::: alert-note
+**Siehe auch:** [The github.dev web-based editor - GitHub Docs](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor)
+:::
 
 [github.dev](https://github.dev) ist eine öffentlich zugängliche und auf GitHub angepasste Web-Version von [Visual Studio Code](https://code.visualstudio.com). Verglichen mit GitHubs eigenem Web-Editor, bietet er viel mehr Flexibilität und Kontrolle über den Inhalt eines Repositorys. github.dev ist eine empfohlene Methode für das Beitragen zum osu!-Wiki, insbesondere wenn an mehreren Artikeln gleichzeitig gearbeitet wird.
 
 ## Navigation
 
-*Anmerkung: Um mit dem osu!-Wiki zu arbeiten, erstelle eine **[Verzweigung (Fork) des Repositorys `ppy/osu-wiki`](/wiki/osu!_wiki/Contribution_guide#das-wiki-editieren).***
+::: alert-notice
+**Hinweis**
+Um mit dem osu!-Wiki zu arbeiten, erstelle eine **[Verzweigung (Fork) des Repositorys `ppy/osu-wiki`](/wiki/osu!_wiki/Contribution_guide#das-wiki-editieren).**
+:::
 
 Ersetze `github.com` in der URL deiner Verzweigung mit `github.dev`, um das osu!-Wiki im Editor zu öffnen. Alternativ kannst du auch deine Verzweigung auf GitHub öffnen und `.` (Punkt) drücken.
 

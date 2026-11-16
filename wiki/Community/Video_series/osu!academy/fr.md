@@ -10,7 +10,10 @@ Au fil des ans, l'osu!academy a été hébergée par plusieurs membres de la com
 
 La série principale d'osu!academy sert d'introduction générale au vaste monde d'osu!. Elle vise à familiariser les utilisateurs avec les principales caractéristiques d'osu! et de ses services, qui pourraient dérouter les nouveaux venus en raison de la courbe d'apprentissage abrupte associée au jeu.
 
-*Note : Les épisodes 1 à 6 ont été réenregistrés, car ils présentaient des informations obsolètes et étaient donc jugés inutiles.*
+::: alert-notice
+**Note**
+Les épisodes 1 à 6 ont été réenregistrés, car ils présentaient des informations obsolètes et étaient donc jugés inutiles.
+:::
 
 | Numéro | Titre | Description |
 | :-: | :-- | :-- |

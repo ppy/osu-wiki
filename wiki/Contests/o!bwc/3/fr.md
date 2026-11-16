@@ -31,7 +31,10 @@ Toutes les échéances commencent à 00:00 UTC et se terminent à 23:59 UTC.
 
 ## Prix
 
-*Note : Les prix "Players' Pick" et "Top 3" peuvent être additionnés si une équipe remporte les deux prix.*
+::: alert-notice
+**Note**
+Les prix "Players' Pick" et "Top 3" peuvent être additionnés si une équipe remporte les deux prix.
+:::
 
 | Placing | Prize(s) |
 | :-: | :-- |

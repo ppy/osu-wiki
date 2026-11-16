@@ -12,7 +12,9 @@ La **calificación por estrellas** (***SR*** por *Star Rating*) describe la difi
 
 ## Dificultad
 
-*Página principal: [Dificultad](/wiki/Beatmap/Difficulty)*
+::: alert-note
+**Página principal:** [Dificultad](/wiki/Beatmap/Difficulty)
+:::
 
 A partir del 27 de julio de 2021, el sitio web de osu! asigna automáticamente el color de calificación de dificultad de un beatmap en función de su calificación por estrellas de acuerdo con el siguiente espectro:
 

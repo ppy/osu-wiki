@@ -1,6 +1,8 @@
 # osu!stream
 
-*Para ver la lista de canciones que aparecen en el juego, véase: [Lista de canciones de osu!stream](/wiki/osu!stream/Song_List)*
+::: alert-note
+**Nota:** Para ver la lista de canciones que aparecen en el juego, véase [Lista de canciones de osu!stream](/wiki/osu!stream/Song_List)
+:::
 
 ![](img/Os-Logo.jpg "Logo de osu!stream")
 
@@ -24,7 +26,10 @@ En 2023, doce años después de su lanzamiento inicial, osu!stream fue finalment
 
 ### Método de la App Store (recomendado)
 
-*Nota: Asegúrate de que el dispositivo pueda conectarse a internet (por Wi-Fi o datos móviles).*
+::: alert-notice
+**Aviso**
+Asegúrate de que el dispositivo pueda conectarse a internet (por Wi-Fi o datos móviles).
+:::
 
 - Entra a la «App Store» desde el dispositivo iOS o a la «Play Store» en Android
 - Busca osu!stream
@@ -177,7 +182,10 @@ El color del fondo es púrpura y las luces se oscurecerán dependiendo de la HP 
 
 ## Sistema de puntuación
 
-*Aviso: La tabla de clasificación puede seguir viéndose en el juego, pero no se aceptarán nuevas puntuaciones.*
+::: alert-notice
+**Aviso**
+La tabla de clasificación puede seguir viéndose en el juego, pero no se aceptarán nuevas puntuaciones.
+:::
 
 ### Precisión
 

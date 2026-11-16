@@ -6,7 +6,9 @@ tags:
 
 # Normal mod
 
-*See also: [NM (disambiguation)](/wiki/Disambiguation/NM).*
+::: alert-note
+**See also:** [NM (disambiguation)](/wiki/Disambiguation/NM).
+:::
 
 A **normal mod** (*NM*) is a [mod](/wiki/Modding) that is provided without requiring any work from the requesting creator. Normal mods are typically done to get second opinions on a [beatmap](/wiki/Beatmap) to help improve it. Many modders use the term "NM" to distinguish it from [mod for mod](/wiki/Modding/Mod_for_mod) exchanges.
 

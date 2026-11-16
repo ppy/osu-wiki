@@ -13,7 +13,9 @@ tags:
 
 # Dificultad
 
-*No debe confundirse con [Beatmap](/wiki/Beatmap).*
+::: alert-note
+**Nota:** No debe confundirse con [Beatmap](/wiki/Beatmap).
+:::
 
 La **dificultad** de un mapa es un nivel de juego, que se almacena como un archivo de texto con [la extensión `.osu`](/wiki/Client/File_formats/osu_(file_format)). Consiste en [objetos](/wiki/Gameplay/Hit_object) de un cierto [modo de juego](/wiki/Game_mode), que se ajustan según la [temporización](/wiki/Client/Beatmap_editor/Timing) adaptada a una canción específica. Las dificultades tienen diferentes aspectos, que afectan directamente a la experiencia del usuario. El nombre de la dificultad y la [calificación por estrellas](/wiki/Beatmap/Star_rating) generalmente brindan suficiente información para saber qué tan desafiante es.
 
@@ -25,7 +27,9 @@ Los [componentes visuales](/wiki/Beatmap) de una dificultad, contrario a sus pat
 
 ## Niveles de dificultad
 
-*Véase también: [Nombramiento de las dificultades](/wiki/Ranking_criteria/Difficulty_naming)*
+::: alert-note
+**Véase también:** [Nombramiento de las dificultades](/wiki/Ranking_criteria/Difficulty_naming)
+:::
 
 Estos son los niveles típicos de dificultad en los que puede caer un mapa. Las definiciones específicas y los requisitos de cada uno se pueden encontrar en sus [criterios de clasificación](/wiki/Ranking_criteria) de los respectivos modos.
 

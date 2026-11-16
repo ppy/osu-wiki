@@ -1,23 +1,38 @@
 ---
-outdated_translation: true
+tags:
+  - kiai mode
+  - kiai section
+  - tryb kiai
+  - sekcja kiai
+no_native_review: true
 ---
 
-# Czas Kiai
+# Czas kiai
 
-![Fontanna gwiazd oznaczająca początek Czasu Kiai.](img/kiai-time-osu-gameplay.png "Fontanna gwiazd oznaczająca początek Czasu Kiai.")
+::: alert-note
+Zasady używania czasu kiai można zobaczyć w [kryteriach rankingowych](/wiki/Ranking_criteria)
+:::
 
-![Znaczek Czasu Kiai w Edytorze.](img/kiai-time-editor.png "Znaczek Czasu Kiai w Edytorze.")
+::: Infobox
+![](img/kiai-time-osu-gameplay.png "Fontanny na początku sekcji kiai w beatmapie w trybie osu!")
+:::
 
-**Czas Kiai** jest umieszczany przez [twórcę mapy](/wiki/Beatmapping) między dwoma [miejscami](/wiki/Client/Beatmap_editor/Timing) w [beatmapie](/wiki/Beatmap). Czas Kiai łatwo zauważyć, ponieważ wraz z jego rozpoczęciem pojawia się gwiezdna fontanna, a ekran oraz [elementy beatmapy](/wiki/Gameplay/Hit_object) zaczynają migać zgodnie z [rytmem](/wiki/Client/Beatmap_editor/Timing) piosenki. Gdy Czas Kiai jest aktywny, z kursora będą wylatywały gwiazdki przy każdym naciśnięciu kółka, przeciągnięciu slidera oraz kręceniu spinnerem.
+::: Infobox
+![](img/kiai-time-taiko-gameplay.png "Kiai w trybie osu!taiko: podekscytowana pippidon oraz fioletowy pas z obiektami")
+:::
 
-## Czas Kiai w mapowaniu
+**Czas kiai** (znany także jako *kiai*) to zbiór różnych efektów wizualnych mających na celu podkreślenie wybranej sekcji [beatmapy](/wiki/Beatmap). Został zainspirowany[^taiko-roots] przez Go-Go Time z serii [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin). Sekcje kiai są wyróżnione gwiezdnymi fontannami, gwiazdkami lecącymi spod kursora oraz miganiem [elementów rozgrywki](/wiki/Gameplay/Hit_object) zgodnie z [tempem](/wiki/Music_theory/Tempo) piosenki. Podobne efekty, takie jak miganie boków ekranu oraz gwiezdne fontanny, są widoczne również w [menu głównym](/wiki/Client/Interface#menu-główne).
 
-Przy [tworzeniu](/wiki/Client/Beatmap_editor) beatmap, Czas Kiai stosuje się najczęściej na „najmocniejszym” momencie w piosence - zazwyczaj refrenie. Niektóre piosenki nie mają refrenu, natomiast mają inny odczuwalnie zaakcentowany element, który może świetnie współgrać z Czasem Kiai. Należy pamiętać, że nadmierne użycie sekcji rozpoczynajacych Czas Kiai spowoduje tak samo nadmierne występowanie gwiezdnych fontann. Pozbawia to mapę możliwość uzyskania statusu rankingowego.
+Kiai nie wpływa na rozgrywkę w trybach gry osu!, osu!catch oraz osu!mania, jednak w trybie [osu!taiko](/wiki/Game_mode/osu!taiko) sprawia, że gracz otrzymuje 20% więcej [punktów](/wiki/Gameplay/Score).
 
-## Rady dotyczące używania Czasu Kiai
+## Tworzenie beatmap
 
-1. Na mapach **[osu!taiko](/wiki/Game_mode/osu!taiko)** sekcje z Czasem Kiai dodają 20% więcej [punktów](/wiki/Gameplay/Score). Jako że wpływa to na rozgrywkę, należy wziąć pod uwagę ewentualne rozmieszczenie tychże sekcji podczas tworzenia [map](/wiki/Beatmap) dedykowanych dla trybu osu!taiko.
-2. **Konsekwencja**: używanie sekcji Czasu Kiai w odmiennych miejscach piosenki na tym samym [poziomie trudności](/wiki/Beatmap/Difficulty) może być niekomfortowe dla graczy. Wszystkie poziomy trudności od tego samego [twórcy](/wiki/Beatmapping) powinny mieć ujednolicone sekcje Czasu Kiai.
-3. **Nie powinno się używać całkowicie białego [koloru combo](/wiki/Beatmapping/Combo_colour)** (255,255,255); psuje to efekt Kiai i powoduje ból oczu.
-4. Jako, że sekcje Czasu Kiai są używane w „najmocniejszych” momentach piosenki, normalnością jest fakt, że momenty te są stosunkowo trudniejsze do zagrania od innych części mapy.
-5. **[Gościnne poziomy trudności](/wiki/Beatmapping/Combo_colour) mogą mieć inaczej ustawione sekcje Czasu Kiai**. Wynika to z faktu, że każda osoba inaczej rozumie „najmocniejszy” moment w piosence. Mimo wszystko, sekcje Czasu Kiai powinny być konsekwentnie ułożone.
+::: Infobox
+![](img/kiai-time-editor.png "Wskaźnik kiai w edytorze beatmap. Sekcja kiai jest oznaczona pomarańczowym kolorem na dolnej osi czasu")
+:::
+
+Kiai najczęściej stosuje się do zaakcentowania „najmocniejszego” momentu piosenki, którym zazwyczaj jest refren. Takie sekcje są zwykle trudniejsze od pozostałych części mapy. Kiai może zostać włączone przez twórcę beatmapy dla wybranych [sekcji czasowych](/wiki/Client/Beatmap_editor/Timing) w zakładce `Style` panelu `Timing and Control Points`. Kiai nie może zostać wyłączone przez gracza.
+
+## Przypisy
+
+[^taiko-roots]: [Film na YouTubie opublikowany przez Deana Herberta: "osu! "Kiai Time" preview"](https://www.youtube.com/watch?v=1iFHftUNMrE)

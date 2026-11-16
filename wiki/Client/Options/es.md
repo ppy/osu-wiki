@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 4eca74b4fb7d8adfe715fb20eab415cf787c15fb
+---
+
 # Opciones
 
 ![Menú de opciones](img/options_basic-ES.jpg "Menú de opciones \(barra lateral a la izquierda\)")
@@ -14,7 +19,7 @@ Esta sección trata sobre tu cuenta, configuración de idioma, y actualizaciones
 
 ### Iniciar sesión
 
-Si no has iniciado sesión en el cliente del juego, se abrirá automáticamente el menú de opciones al inicio y se te pedirá que inicies sesión. Puedes ignorar esto presionando `Esc`, haciendo clic en el botón atrás, o navegando al selector canciones. Si no inicias sesión, el cliente del juego te marcará como «Guest» y no podrás obtener puntuaciones en línea, enviar puntuaciones ni jugar [multijugador](/wiki/Client/Interface/Multiplayer).
+Si no has iniciado sesión en el cliente del juego, se abrirá automáticamente el menú de opciones al inicio y se te pedirá que inicies sesión. Puedes ignorar esto presionando `Esc`, haciendo clic en el botón atrás, o navegando al selector canciones. Si no inicias sesión, el cliente del juego te marcará como «Guest» y no podrás obtener puntuaciones en línea, enviar puntuaciones ni jugar [multijugador](/wiki/Gameplay/Multiplayer).
 
 Si eres un invitado, se mostrarán estas opciones:
 
@@ -91,7 +96,10 @@ Esta sección trata sobre la apariencia de tu cliente del juego, partes de la in
 
 ---
 
-*Nota: cuando el cliente del juego no es la ventana activa, el límite de fps se reduce automáticamente a 30 fps.*\
+::: alert-notice
+**Nota:** cuando el cliente del juego no es la ventana activa, el límite de fps se reduce automáticamente a 30 fps.
+:::
+
 *Precaución para los usuarios de ordenadores portátiles: ¡el uso de `Ilimitado (en partida)` puede hacer que tu ordenador portátil se sobrecaliente!*
 
 Si abres la lista desplegable de `Límite de FPS`, se te presentarán estas opciones:

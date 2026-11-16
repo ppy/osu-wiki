@@ -14,7 +14,10 @@ The difficulty of the beatmap a player is playing on determines the end pp value
 
 Scores are then "weighted" against each other to ensure that only the best scores a user makes count the most towards their overall performance points ranking. Known as the [*weightage system*](#weightage-system), its goal is to prevent the rapid and repeated gaining of lower pp scores on easy beatmaps by reducing the amount of pp that is actually gained based on the player's other top scores.
 
-*Note: A small amount of bonus pp is awarded based on the number of Ranked maps you have set a score on.*
+::: alert-notice
+**Notice**
+A small amount of bonus pp is awarded based on the number of Ranked maps you have set a score on.
+:::
 
 ### Weightage system
 
@@ -42,7 +45,9 @@ As a result of this, mods like [Double Time](/wiki/Gameplay/Game_modifier/Double
 
 ### Accuracy
 
-*See also: [Accuracy](/wiki/Gameplay/Accuracy)*
+::: alert-note
+**See also:** [Accuracy](/wiki/Gameplay/Accuracy)
+:::
 
 *Accuracy* is a percent measure of a player's ability to hit [hit objects](/wiki/Gameplay/Hit_object) on-time; in regards to the pp algorithm, it is also a core value that is used to evaluate a player's individual performance on a beatmap.
 

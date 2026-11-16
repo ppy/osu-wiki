@@ -1,6 +1,8 @@
 # Sanciones de los torneos
 
-*Página principal: [Centro de ayuda](/wiki/Help_centre)*
+::: alert-note
+**Página principal:** [Centro de ayuda](/wiki/Help_centre)
+:::
 
 ## Vetos de los torneos
 

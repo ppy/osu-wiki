@@ -15,8 +15,12 @@ tags:
 
 # Procedimiento de clasificación de beatmaps
 
-*Véase también: [Rango (desambiguación)](/wiki/Disambiguation/Rank) y [Cola de clasificación de beatmaps](Ranking_queue)*
-*Para las categorías de beatmaps mencionadas a continuación, véase: [Categorías de beatmaps](/wiki/Beatmap/Category)*
+::: alert-note
+**Véase también:** [Rango (desambiguación)](/wiki/Disambiguation/Rank) y [Cola de clasificación de beatmaps](Ranking_queue)
+:::
+::: alert-note
+**Nota:** Para las categorías de beatmaps mencionadas a continuación, véase [Categorías de beatmaps](/wiki/Beatmap/Category)
+:::
 
 Los [beatmaps](/wiki/Beatmap) se pueden promocionar en la comunidad siguiendo el procedimiento de clasificación de beatmaps e ingresando a la categoría [clasificados](/wiki/Beatmap/Category#ranked).
 

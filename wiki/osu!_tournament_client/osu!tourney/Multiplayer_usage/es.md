@@ -19,7 +19,9 @@ Los nombres de los equipos (`Team Name 1` y `Team Name 2`) pueden sustituirse po
 
 ### Comandos para la gestión de torneos
 
-*Página principal: [Comandos para la gestión de torneos](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)*
+::: alert-note
+**Página principal:** [Comandos para la gestión de torneos](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
+:::
 
 Asegúrate de asignar los espacios correctos a los jugadores que se unen a la sala usando los comandos `!mp move` y `!mp team`.
 

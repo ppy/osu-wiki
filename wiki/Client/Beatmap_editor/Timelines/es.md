@@ -4,7 +4,9 @@ En el [editor de beatmaps](/wiki/Client/Beatmap_editor), hay tres líneas de tie
 
 ## Atajos
 
-*Para obtener una lista de atajos de teclado para la línea de tiempo, véase: [Referencia de las teclas de acceso rápido](/wiki/Client/Keyboard_shortcuts)*
+::: alert-note
+**Nota:** Para obtener una lista de atajos de teclado para la línea de tiempo, véase [Referencia de las teclas de acceso rápido](/wiki/Client/Keyboard_shortcuts)
+:::
 
 ## Reproductor de canciones
 

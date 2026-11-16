@@ -4,7 +4,9 @@ stub: true
 
 # Juice stream
 
-*See also: [Score](/wiki/Gameplay/Score)*
+::: alert-note
+**See also:** [Score](/wiki/Gameplay/Score)
+:::
 
 **Juice streams** are an element in [osu!catch](/wiki/Game_mode/osu!catch) which include both drops and droplets. Juice streams are generated when a [slider](/wiki/Gameplay/Hit_object/Slider) is placed in the editor.
 

@@ -35,7 +35,10 @@ The **osu! Philippines Quickfire Showdown** (***oPQS***) was a 1v1 single-elimin
 
 ## Prizes
 
-*Note: The prizes were granted for each day of the tournament.*
+::: alert-notice
+**Notice**
+The prizes were granted for each day of the tournament.
+:::
 
 | Placing | Prizes |
 | :-: | :-- |

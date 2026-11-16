@@ -12,9 +12,17 @@ tags:
 
 ![CM Modysmbol](/wiki/shared/mods/CM.png "Cinema (CM) Modsymbol")
 
-*Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe: [Cinema (lazer-Mod)](/wiki/Gameplay/Game_modifier/Cinema_(lazer))*\
-*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*\
-*Nicht zu verwechseln mit [Kinematographie](https://de.wikipedia.org/wiki/Kinematographie).*
+::: alert-note
+**Anmerkung:** Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe [Cinema (lazer-Mod)](/wiki/Gameplay/Game_modifier/Cinema_(lazer))
+:::
+
+::: alert-note
+**Anmerkung:** Für die vollständige Liste aller Mods, siehe [Spielmodifikationen](/wiki/Gameplay/Game_modifier)
+:::
+
+::: alert-note
+**Anmerkung:** Nicht zu verwechseln mit [Kinematographie](https://de.wikipedia.org/wiki/Kinematographie).
+:::
 
 ## Über
 
@@ -26,7 +34,10 @@ tags:
 
 ## Beschreibung
 
-*Hinweis: Das Aktivieren der Mod Cinema sorgt dafür, dass das Spiel nicht gerankt wird.*
+::: alert-notice
+**Hinweis**
+Das Aktivieren der Mod Cinema sorgt dafür, dass das Spiel nicht gerankt wird.
+:::
 
 Die Mod **Cinema** ist eine [Spielmodifikation](/wiki/Gameplay/Game_modifier), die es dem Spieler ermöglicht, sich zu entspannen und Videos oder Storyboards aus einer Beatmap anzusehen, ohne dass [Hit-Objekte](/wiki/Gameplay/Hit_object) erscheinen. Dies führt zu einem Spiel, bei dem die Mod [Auto](/wiki/Gameplay/Game_modifier/Auto) verwendet wird, allerdings werden **nur der Hintergrund und das Storyboard angezeigt**.
 

@@ -7,9 +7,17 @@ tags:
 
 # Cuenta regresiva
 
-*Para temporizadores de torneos, véase: [Comandos de gestión de torneos](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)*\
-*Para regulaciones sobre cuentas regresivas, véase: [Criterios de clasificación § General § Pautas](/wiki/Ranking_criteria#pautas)*\
-*Véase también: [Compensación (desambiguación)](/wiki/Offset)*
+::: alert-note
+**Nota:** Para temporizadores de torneos, véase [Comandos de gestión de torneos](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
+:::
+
+::: alert-note
+**Nota:** Para regulaciones sobre cuentas regresivas, véase [Criterios de clasificación § General § Pautas](/wiki/Ranking_criteria#pautas)
+:::
+
+::: alert-note
+**Véase también:** [Compensación (desambiguación)](/wiki/Offset)
+:::
 
 Puede aparecer una **cuenta regresiva** al comienzo de un [beatmap](/wiki/Beatmap). Esto es útil para las canciones que comienzan de forma rápida y/o abrupta, pero la mayoría de los beatmaps no necesitan esta opción habilitada. Las cuentas regresivas se pueden activar o desactivar en el menú [song setup](/wiki/Client/Beatmap_editor/Song_setup) en la pestaña `Design`, pero no están permitidas para los beatmaps de [osu!taiko](/wiki/Game_mode/osu!taiko).
 

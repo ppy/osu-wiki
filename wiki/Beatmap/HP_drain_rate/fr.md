@@ -3,11 +3,16 @@ stub: true
 tags:
   - health drain rate
   - passive drain rate
+outdated_translation: true
+outdated_since: fb3e12eefb4f46a4c14a539098d3031b2d63e457
 ---
 
 # Taux de drain de vie
 
-*Pour la santé en tant que mécanisme de gameplay, voir : [Santé](/wiki/Gameplay/Health)*\
+::: alert-note
+**Remarque** : Pour la santé en tant que mécanisme de gameplay, voir [Santé](/wiki/Gameplay/Health)
+:::
+
 *Pour les règles concernant le taux de drain de vie, voir : [Critères de classement](/wiki/Ranking_criteria)*.
 
 Le **taux de drain de vie** (***HP***) est un paramètre de difficulté d'une [beatmap](/wiki/Beatmap) qui contrôle la quantité de [santé](/wiki/Gameplay/Health) qui est perdue passivement à cause du [drain de vie](/wiki/Gameplay/Health). Il affecte également le degré de pénalisation du joueur lorsqu'il manque des notes et la quantité de santé qu'il récupère en touchant avec précision les [objets](/wiki/Gameplay/Hit_object).

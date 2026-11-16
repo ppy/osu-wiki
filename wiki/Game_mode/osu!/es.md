@@ -1,6 +1,8 @@
 # osu! (modo de juego)
 
-*Para otros usos, véase [osu! (desambiguación)](/wiki/Disambiguation/osu!).*
+::: alert-note
+**Nota:** [osu! (desambiguación)](/wiki/Disambiguation/osu!).
+:::
 
 ![Una partida de osu!](/wiki/shared/osu-gameplay.jpg "Interfaz de osu!")
 

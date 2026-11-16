@@ -8,7 +8,9 @@ tags:
 
 # Tempo
 
-*Siehe auch: [Timing](/wiki/Beatmapping/Timing)*
+::: alert-note
+**Siehe auch:** [Timing](/wiki/Beatmapping/Timing)
+:::
 
 ::: Infobox
 ![Screenshot der BPM-Anzeige auf der Beatmap-Informationsseite](img/beatmap-info-DE.png "Das Tempo des Songs (181) ist in der oberen Ecke der Beatmap-Informationsseite sichtbar")

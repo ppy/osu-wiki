@@ -1,10 +1,17 @@
+---
+outdated_translation: true
+outdated_since: e9424c7b634130babdfdf22a8e98686fda9ba052
+---
+
 # Concursos
 
 Esta sección está dedicada a los concursos que se llevan a cabo en toda la comunidad de osu!.
 
 ## Concursos oficiales
 
-*Véase también: [Puntos de los concursos](Contest_points), [Soporte oficial para concursos de beatmapping](Official_support)*
+::: alert-note
+**Véase también:** [Puntos de los concursos](Contest_points), [Soporte oficial para concursos de beatmapping](Official_support)
+:::
 
 Los concursos oficiales son organizados (o reconocidos como oficiales) por el [osu! team](/wiki/People/osu!_team). La mayoría de los concursos oficiales tienen sus propias páginas en la [lista de concursos](https://osu.ppy.sh/community/contests).
 

@@ -489,7 +489,7 @@ Sunday, 10 August 2025:
    - `Smax` = highest score achieved by any player on that map
 
 6. The 32 players with the **highest `%MAX` sum** according to the above criteria will advance to the knock-out stages.
-   - If there are two (or more) teams that share the same `%MAX` sum, the teams will be ordered based on their average score across all nine Qualifier beatmaps.
+   - If there are two (or more) players that share the same `%MAX` sum, the players will be ordered based on their average score across all nine Qualifier beatmaps.
 7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
 #### Knock-out stage rules

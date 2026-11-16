@@ -13,9 +13,17 @@ tags:
 
 ![Icono del mod SD](/wiki/shared/mods/SD.png "Icono del mod Sudden Death (SD)")
 
-*Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase: [Sudden Death (mod de lazer)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer))*\
-*Para la lista completa de los mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*\
-*Véase también: [Perfect (mod)](/wiki/Gameplay/Game_modifier/Perfect)*
+::: alert-note
+**Nota:** Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase [Sudden Death (mod de lazer)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer))
+:::
+
+::: alert-note
+**Nota:** Para la lista completa de los mods, véase [Modificador del juego](/wiki/Gameplay/Game_modifier)
+:::
+
+::: alert-note
+**Véase también:** [Perfect (mod)](/wiki/Gameplay/Game_modifier/Perfect)
+:::
 
 ## Resumen
 

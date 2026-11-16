@@ -19,7 +19,10 @@ Si quelqu'un a besoin d'aide dans les sous-forums mentionnés ci-dessus, les mem
 
 ## Membres de l'équipe
 
-*Remarque : tous les membres de l'équipe de support technique parlent l'anglais en plus de la langue énumérée ci-dessous, sauf indication contraire.*
+::: alert-notice
+**Note**
+tous les membres de l'équipe de support technique parlent l'anglais en plus de la langue énumérée ci-dessous, sauf indication contraire.
+:::
 
 La [page de groupe de l'équipe de support technique](https://osu.ppy.sh/groups/22) répertorie tous les membres de l'équipe.
 

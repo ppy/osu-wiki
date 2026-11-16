@@ -3,7 +3,7 @@ no_native_review: true
 stub: true
 ---
 
-# 2011
+# osu! 2011 大事记
 
 ## 二月
 
@@ -25,7 +25,7 @@ osu! 网站中加入了一些新的功能，例如仅限 [osu!supporter](/wiki/o
 
 ## 九月
 
-[Pesets](https://osu.ppy.sh/users/%40Pesets) 为 [Android](https://zh.wikipedia.org/wiki/Android_(operating_system)) 平台发布了一个非官方的 osu! 版本。[^droid]这个版本曾经也有一个专门的[子论坛](https://osu.ppy.sh/forum/viewforum.php?f=85)，现已封存。
+::{ flag=RU }:: [Pesets](https://osu.ppy.sh/users/780451) 为 [Android](https://zh.wikipedia.org/wiki/Android_(operating_system)) 平台发布了一个非官方的 osu! 版本。[^droid]这个版本曾经也有一个专门的[子论坛](https://osu.ppy.sh/forum/viewforum.php?f=85)，现已封存。
 
 ## 十月
 

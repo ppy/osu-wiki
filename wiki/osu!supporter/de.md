@@ -4,6 +4,8 @@ tags:
   - supporter tag
   - osu!supporter tag
   - Unterstützung
+outdated_translation: true
+outdated_since: 26b4a6dcf86a0df96bed2c328f27ddec739ebd74
 ---
 
 # osu!supporter
@@ -70,7 +72,10 @@ Sobald osu!supporter ausläuft, bleibt die Farbwahl erhalten, kann aber nur zum 
 
 ### Eine kostenlose Änderung des Benutzernamens
 
-*Anmerkung: Kleinere Namensänderungen können beim Account-Support-Team kostenlos beantragt werden — siehe [Hilfecenter/Account § Kann ich den Benutzernamen meines Accounts ändern?](/wiki/Help_centre/Account#name-changes).*
+::: alert-notice
+**Hinweis**
+Kleinere Namensänderungen können beim Account-Support-Team kostenlos beantragt werden — siehe [Hilfecenter/Account § Kann ich den Benutzernamen meines Accounts ändern?](/wiki/Help_centre/Account#name-changes).
+:::
 
 Mit osu!supporter darf der Benutzername gemäß den [geltenden Bedingungen](/wiki/Help_centre/Account#name-changes) beim ersten Mal kostenlos geändert werden.
 
@@ -79,7 +84,7 @@ Mit osu!supporter darf der Benutzername gemäß den [geltenden Bedingungen](/wik
 osu!direct ist das Such- und Downloadmodul für Beatmaps im Spiel, welches nur für Unterstützer verfügbar ist. Es kann über das Hauptmenü erreicht werden, indem man auf das vertikale Label `osu!direct` auf der rechten Seite des Bildschirms klickt. Zusätzlich zu einer eingebauten Beatmap-Auflistung bietet osu!direct andere Wege, an neue Beatmaps zu gelangen, ohne das Spiel zu verlassen:
 
 - Beatmap-Links im Chat, die auf Beatmaps auf der osu!-Webseite zeigen, lösen jetzt im Spiel eine Aufforderung zum Herunterladen aus
-- Automatisches Herunterladen von Beatmaps während des Spielens in einer [Mehrspieler](/wiki/Client/Interface/Multiplayer)-Lobby oder beim [Zuschauen](/wiki/Gameplay/Spectating) eines anderen Spielers, als eine [Opt-out-Einstellung](/wiki/Client/Options#integration)
+- Automatisches Herunterladen von Beatmaps während des Spielens in einer [Mehrspieler](/wiki/Gameplay/Multiplayer)-Lobby oder beim [Zuschauen](/wiki/Gameplay/Spectating) eines anderen Spielers, als eine [Opt-out-Einstellung](/wiki/Client/Options#integration)
 - Automatische Verlinkung von aktuell gespielten Beatmaps für Zuschauer im Chat-Tab `#spectator`, als eine [Opt-out-Einstellung](/wiki/Client/Options#mitteilungen-und-privatsphäre)
 
 ### Erweiterte Ranglisten

@@ -38,7 +38,10 @@ Los paquetes de beatmaps se dividen en 7 categorías con un indicador de letra e
 
 ## Descargas alternativas
 
-*Precaución: osu! no puede garantizar que los archivos de fuentes no oficiales sean seguros, estén actualizados o completos.*
+::: alert-caution
+**Precaución**
+osu! no puede garantizar que los archivos de fuentes no oficiales sean seguros, estén actualizados o completos.
+:::
 
 Se recomienda descargar los paquetes de beatmaps directamente desde el listado oficial. Sin embargo, si tienes dificultades para descargar paquetes desde allí, hay varias alternativas que puedes usar.
 

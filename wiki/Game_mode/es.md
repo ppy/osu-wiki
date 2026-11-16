@@ -20,7 +20,9 @@ Para cambiar entre los modos, haz clic en el botón `Mode` de la parte inferior 
 
 ## ![][osu!] osu!
 
-*Página principal: [osu!](osu!)*
+::: alert-note
+**Página principal:** [osu!](osu!)
+:::
 
 *osu!* es el modo predeterminado, donde se espera que los jugadores toquen círculos, mantengan sliders, y spinners al pulso de la música. Se basa en el juego de ritmo de [iNiS](https://es.wikipedia.org/wiki/INiS) *[Osu! Tatakae! Ouendan](https://es.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* original. osu! tiene su propia mascota llamada [pippi](/wiki/Mascots#pippi), una niña de cabello rosado y negro.
 
@@ -28,7 +30,9 @@ Para cambiar entre los modos, haz clic en el botón `Mode` de la parte inferior 
 
 ## ![][osu!taiko] osu!taiko
 
-*Página principal: [osu!taiko](osu!taiko)*
+::: alert-note
+**Página principal:** [osu!taiko](osu!taiko)
+:::
 
 *osu!taiko* simula el proceso de tocar un tambor real, donde los jugadores utilizan un teclado o un kit de batería para golpear círculos de diferentes colores en una sola cinta transportadora. Se basa en la serie de juegos *[Taiko no Tatsujin](https://es.wikipedia.org/wiki/Taiko_no_Tatsujin)* producida por [Bandai Namco Entertainment](https://es.wikipedia.org/wiki/Bandai_Namco_Entertainment). La mascota de osu!taiko es [Mocha](/wiki/Mascots#mocha), una chica de cabello verde con un kimono que sostiene baquetas.
 
@@ -36,7 +40,9 @@ Para cambiar entre los modos, haz clic en el botón `Mode` de la parte inferior 
 
 ## ![][osu!catch] osu!catch
 
-*Página principal: [osu!catch](osu!catch)*
+::: alert-note
+**Página principal:** [osu!catch](osu!catch)
+:::
 
 *osu!catch* es un modo de juego en el que los jugadores controlan a un catcher para recoger las frutas que caen al ritmo de la música desde la parte superior de la pantalla. Se basa ligeramente en el minijuego «Catch It!» de las primeras versiones de [rdm/rhythm-it](https://nvyu.net/rdm/jp/)[^rdm], un simulador de [Beatmania](https://es.wikipedia.org/wiki/Beatmania_(serie)) para PC, que a su vez deriva del modo *EZ2CATCH* del sistema arcade [EZ2DJ](https://es.wikipedia.org/wiki/EZ2DJ). La mascota de osu!catch es [Yuzu](/wiki/Mascots#yuzu), un chico de pelo azul.
 
@@ -44,7 +50,9 @@ Para cambiar entre los modos, haz clic en el botón `Mode` de la parte inferior 
 
 ## ![][osu!mania] osu!mania
 
-*Página principal: [osu!mania](osu!mania)*
+::: alert-note
+**Página principal:** [osu!mania](osu!mania)
+:::
 
 *osu!mania* es un modo de juego de ritmo de desplazamiento vertical (VSRG) diseñado como un simulador de piano. Fue [introducido e implementado](https://osu.ppy.sh/community/forums/topics/100751) principalmente por [woc2006](https://osu.ppy.sh/users/1105845), y se basa en una variedad de juegos de ritmo de tipo transportador (principalmente, [Dance Dance Revolution](https://es.wikipedia.org/wiki/Dance_Dance_Revolution_(serie)) y [Beatmania](https://es.wikipedia.org/wiki/Beatmania_(serie))). Las mascotas de osu!mania son los gemelos [Mani y Mari](/wiki/Mascots#mani-&-mari), ambos con el pelo morado y morado claro.
 

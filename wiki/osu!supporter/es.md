@@ -5,6 +5,8 @@ tags:
   - etiqueta de supporter
   - etiqueta osu!supporter
   - etiqueta de osu!supporter
+outdated_translation: true
+outdated_since: 26b4a6dcf86a0df96bed2c328f27ddec739ebd74
 ---
 
 # osu!supporter
@@ -71,7 +73,10 @@ Una vez que la etiqueta de osu!supporter expire, los colores personalizados perm
 
 ### Cambio de nombre gratis
 
-*Nota: Se pueden solicitar cambios menores de nombre al equipo de soporte de cuentas de forma gratuita, véase [Centro de ayuda/Cuenta § ¿Puedo cambiar el nombre de usuario de mi cuenta?](/wiki/Help_centre/Account#name-changes).*
+::: alert-notice
+**Aviso**
+Se pueden solicitar cambios menores de nombre al equipo de soporte de cuentas de forma gratuita, véase [Centro de ayuda/Cuenta § ¿Puedo cambiar el nombre de usuario de mi cuenta?](/wiki/Help_centre/Account#name-changes).
+:::
 
 Obtener un osu!supporter viene con la habilidad de cambiar tu nombre de usuario por primera vez de manera gratuita, siguiendo las [condiciones usuales](/wiki/Help_centre/Account#name-changes).
 
@@ -80,7 +85,7 @@ Obtener un osu!supporter viene con la habilidad de cambiar tu nombre de usuario 
 osu!direct es el motor de búsqueda y descarga de beatmaps disponible para supporters. Podrás acceder desde el menú principal al hacer clic en el letrero vertical de `osu!direct` en la parte derecha de la pantalla. Además de contener un listado de beatmaps incorporado, osu!direct ofrece otras maneras de obtener nuevos beatmaps sin salir del juego:
 
 - Enlaces de beatmaps en el chat, que te dirigen al sitio web de osu!, ahora activan el aviso de descarga dentro del juego
-- Descargas automáticas de beatmaps mientras juegas en una sala [multijugador](/wiki/Client/Interface/Multiplayer) o te encuentres [observando](/wiki/Gameplay/Spectating) a otro usuario, como una [configuración opcional](/wiki/Client/Options#en-línea)
+- Descargas automáticas de beatmaps mientras juegas en una sala [multijugador](/wiki/Gameplay/Multiplayer) o te encuentres [observando](/wiki/Gameplay/Spectating) a otro usuario, como una [configuración opcional](/wiki/Client/Options#en-línea)
 - Enlaces automáticos a los beatmaps que se están jugando en la pestaña `#spectator` del chat para los espectadores, como una [configuración opcional](/wiki/Client/Options#en-línea)
 
 ### Tablas de clasificación extendidas

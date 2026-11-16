@@ -63,15 +63,16 @@ For the readings, **x/y** are your *own* mouse coordinates on the beatmap and wi
 
 These will **disable/enable layers from being shown.** If you do not want to see the passing scene (that is always on top of the fail scene in editor), turn "Passing" off and enjoy the fail scene. This is useful when you want to see commands for different objects but something is in the way.
 
-All the toggles are as shown below:-
+All the toggles are as shown below:
 
 - Background
 - Failing
 - Passing
 - Foreground
+- Overlay
 - HitObjects (automatically disabled)
 
-**Note:** HitObjects > Foreground > Passing/Failing > Background where ">" blocks that layer. Also, any new objects (not from "Compose") introduced are set to "Foreground" by default. To transfer, drag and drop to the desired layer's tab.
+**Note:** Overlay > HitObjects > Foreground > Passing/Failing > Background where ">" blocks that layer. Also, any new objects (not from "Compose") introduced are set to "Foreground" by default. To transfer, drag and drop to the desired layer's tab.
 
 #### Transformation (timeframe-based)
 
@@ -79,7 +80,7 @@ These are the commands used for your object. Five of the commands have been put 
 
 ![An example of an object subjected to Move up/down and Fade In.](img/SE_Move.jpg "An example of an object subjected to Move up/down and Fade In.")
 
-To use them:-
+To use them:
 
 1. Click on the Storyboard element
 2. Select your transformation (MSFRC)

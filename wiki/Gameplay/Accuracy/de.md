@@ -62,7 +62,10 @@ ScoreV2 erhöht die Gewichtung von Regenbogen-300ern zu 305:
 
 Die Leistungskurve ist ein Diagramm, das die Leistung des Spielers (basierend auf seinem Lebensbalken) im Verlauf eines Spiels (Zeit) anzeigt. Zusätzliche Informationen können angezeigt werden, wenn man den Mauszeiger im Spiel darüber bewegt.
 
-*Anmerkung: Die zusätzlichen Informationen können nur nach dem Abspielen einer Beatmap oder nach dem Ansehen eines Replays angezeigt werden. Nach dem Verlassen des [Ergebnisbildschirms](/wiki/Client/Interface#rangliste) werden diese Informationen nicht gespeichert.*
+::: alert-notice
+**Hinweis**
+Die zusätzlichen Informationen können nur nach dem Abspielen einer Beatmap oder nach dem Ansehen eines Replays angezeigt werden. Nach dem Verlassen des [Ergebnisbildschirms](/wiki/Client/Interface#rangliste) werden diese Informationen nicht gespeichert.
+:::
 
 ### Genauigkeit
 
@@ -76,7 +79,9 @@ Aufgrund der Art und Weise, wie die Mods [DT](/wiki/Gameplay/Game_modifier/Doubl
 
 #### Unstable rate
 
-*Hauptseite: [Streuung](/wiki/Gameplay/Unstable_rate)*
+::: alert-note
+**Hauptseite:** [Streuung](/wiki/Gameplay/Unstable_rate)
+:::
 
 `Unstable Rate` (*UR*) zeigt die [Standardabweichung](https://de.wikipedia.org/wiki/Standardabweichung_(Stochastik)) der Trefferfehler in Millisekunden, multipliziert mit 10, an. Ein geringerer Streuungswert steht für eine hohe Gleichmäßigkeit.
 
@@ -84,7 +89,10 @@ Beachte, dass Gleichmäßigkeit nicht das Gleiche wie Genauigkeit ist. Während 
 
 ### Spin
 
-*Hinweis: Spin wird nur für den [osu! Spielmodus](/wiki/Game_mode/osu!) verwendet.*
+::: alert-notice
+**Hinweis**
+Spin wird nur für den [osu! Spielmodus](/wiki/Game_mode/osu!) verwendet.
+:::
 
 Zusätzlich zur Genauigkeit werden in der gleichen Meldung auch einige Informationen zu Spinnern angezeigt.
 

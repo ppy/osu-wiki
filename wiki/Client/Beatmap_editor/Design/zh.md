@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: bb1e8272b293548e9bc5b82e756e86a6e09a5b3d
+---
+
 # 设计 (Design) 标签页
 
 ![设计 (Design) 标签页](img/SE_base-ZH.png "设计 (Design) 标签页")

@@ -60,7 +60,9 @@ Nach dem Drücken von `Play` im Hauptmenü kannst du zwischen 3 Optionen auswäh
 
 ### Mehrspieler-Lobby
 
-*Hauptseite: [Mehrspieler](/wiki/Client/Interface/Multiplayer)*
+::: alert-note
+**Hauptseite:** [Mehrspieler](/wiki/Client/Interface/Multiplayer)
+:::
 
 ![](img/multi-lobby-DE.jpg "Mehrspieler-Lobby")
 
@@ -144,7 +146,9 @@ Sortiere Beatmaps in einer bestimmten Reihenfolge.
 
 ### Suche
 
-*Hauptartikel: [Beatmap-Suche](/wiki/Beatmap_search)*
+::: alert-note
+**Hauptseite:** [Beatmap-Suche](/wiki/Beatmap_search)
+:::
 
 ![](img/search-bar-DE.jpg)
 
@@ -219,7 +223,10 @@ Bewege deinen Cursor über das Modsymbol, um dir die Beschreibung dazu anzeigen 
 
 Klicke auf den Button `Random` oder drücke `F2`, damit das Spiel **zufällig durch alle Beatmaps blättert und eine davon auswählt.**
 
-*Anmerkung: Du kannst `Shift` und den Button `Random` oder `F2` drücken, um zu der vorher gewählten Beatmap zurückzukehren.*
+::: alert-notice
+**Hinweis**
+Du kannst `Shift` und den Button `Random` oder `F2` drücken, um zu der vorher gewählten Beatmap zurückzukehren.
+:::
 
 ![](img/beatmap-options-DE.jpg "Mögliche Optionen für eine Beatmap")
 
@@ -278,11 +285,13 @@ Die Kategorien in der Ranglistenanzeige sind wie folgt:
 | `Max Combo` | Die höchste Combo, die du auf der Beatmap gespielt hast. | Die höchste Combo, die du jemals über alle Beatmaps gesehen erreicht hast. |
 | [`Ranked Score`](/wiki/Gameplay/Score/Ranked_score) | Dein [bestes Ergebnis](/wiki/Gameplay/Score/Ranked_score) auf der Beatmap. | Die Anzahl der Punkte von allen gerankten Beatmaps, die du jemals gespielt hast, wobei jede Beatmap genau einmal gezählt wird. |
 | [`Total Score`](/wiki/Gameplay/Score/Total_score) | Das wird nicht berücksichtigt, da es deine Position in der Online-Rangliste nicht beeinflusst. | Das gleiche wie beim gerankten Score, aber es werden alle verfügbaren Beatmaps auf der osu!-Webseite miteinbezogen, also auch gescheiterte Beatmaps oder Beatmaps, bei denen der alte Punktestand nicht überboten wurde. Das wird auf dein [Level](/wiki/Gameplay/Score/Total_score#level) angerechnet.<!-- TODO: Check link as soon as article is available --> |
-| [`Performance`](/wiki/Performance_points) | Die Menge an [ungewichteten PP](/wiki/Performance_points#warum-habe-ich-von-der-beatmap,-die-ich-gespielt-habe,-nicht-die-volle-menge-an-pp-bekommen?), die du für den Score erreichen würdest. | Deine gesamte Menge an Performance-Punkten und wie viele PP der eingereichte Score wert war. |
+| [`Performance`](/wiki/Performance_points) | Die Menge an [ungewichteten PP](/wiki/Performance_points#warum-habe-ich-von-einer-beatmap,-die-ich-gespielt-habe,-nicht-die-volle-menge-an-pp-bekommen?), die du für den Score erreichen würdest. | Deine gesamte Menge an Performance-Punkten und wie viele PP der eingereichte Score wert war. |
 
 ### Medaillen
 
-*Hauptseite: [Medaillen](/wiki/Medals)*
+::: alert-note
+**Hauptseite:** [Medaillen](/wiki/Medals)
+:::
 
 ![](img/medal-unlock.jpg "Eine Medaille freischalten")
 

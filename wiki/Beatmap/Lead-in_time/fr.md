@@ -7,7 +7,9 @@ tags:
 
 # Lead-in
 
-*Voir également : [Offset](/wiki/Offset)*
+::: alert-note
+**Voir également** : [Offset](/wiki/Offset)
+:::
 
 Le **lead-in** est le temps que le jeu donne aux joueurs pour réagir avant le premier [objet](/wiki/Gameplay/Hit_object) d'une [beatmap](/wiki/Beatmap). Il peut être personnalisé par les [mappers](/wiki/Beatmapping) en éditant le champ `AudioLeadIn` dans le [fichier `.osu`](/wiki/Client/File_formats/osu_(file_format)) d'une [difficulté de beatmap](/wiki/Beatmap/Difficulty) qui contient la durée du lead-in en millisecondes.
 

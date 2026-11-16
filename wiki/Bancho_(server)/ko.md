@@ -6,13 +6,15 @@ tags:
 
 # Bancho (서버)
 
-*다른 의미를 찾으려면 [Bancho (동음이의어)](/wiki/Disambiguation/Bancho)를 참조하세요.*
+::: alert-note
+**참고:** 다른 의미를 찾으려면 [Bancho (동음이의어)](/wiki/Disambiguation/Bancho)를 참조하세요.
+:::
 
 **Bancho**(또는 *osu!Bancho*)는 서버 컴포넌트의 코드 네임이며, osu! 정식 버전의 게임을 실행하는 유저 간의 실시간 상호작용을 처리합니다.
 
 - 채팅 시스템, [온라인 유저 목록 확장](/wiki/Client/Interface/Chat_console#확장-채팅-콘솔), [IRC 게이트웨이](/wiki/Community/Internet_Relay_Chat)
 - [관전자](/wiki/Gameplay/Spectating) 모드
-- [멀티플레이어 시스템](/wiki/Client/Interface/Multiplayer)과 [토너먼트 관리](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
+- [멀티플레이어 시스템](/wiki/Gameplay/Multiplayer)과 [토너먼트 관리](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
 
 ::: Infobox
 ![](img/connection-warning.png "연결 상태 좋지 않음 아이콘이 표시된 메인 메뉴 스크린샷. (우측 하단, 첫번째 아이콘)")

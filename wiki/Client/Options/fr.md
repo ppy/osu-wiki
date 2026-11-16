@@ -20,7 +20,7 @@ Cette section concerne votre compte, les paramètres de langue et les mises à j
 
 ### Connexion
 
-Si vous n'êtes pas connecté au client, le menu des options s'ouvrira automatiquement au démarrage, vous invitant à vous connecter. Vous pouvez ignorer cette demande en appuyant sur `Esc`, en cliquant sur le bouton retour, ou en naviguant vers l'écran de sélection des musiques. Si vous ne vous connectez pas, le client vous marquera comme "invité" et vous ne pourrez pas obtenir de scores en ligne, soumettre des scores ou jouer au mode [multijoueur](/wiki/Client/Interface/Multiplayer).
+Si vous n'êtes pas connecté au client, le menu des options s'ouvrira automatiquement au démarrage, vous invitant à vous connecter. Vous pouvez ignorer cette demande en appuyant sur `Esc`, en cliquant sur le bouton retour, ou en naviguant vers l'écran de sélection des musiques. Si vous ne vous connectez pas, le client vous marquera comme "invité" et vous ne pourrez pas obtenir de scores en ligne, soumettre des scores ou jouer au mode [multijoueur](/wiki/Gameplay/Multiplayer).
 
 Si vous êtes un invité, ces options seront affichées :
 
@@ -98,7 +98,10 @@ This section is about the appearance of your game client, parts of the interface
 
 ---
 
-*Note: Lorsque le client n'est pas la fenêtre active, la limite d'images par seconde est automatiquement ramenée à 30 images par seconde.*\
+::: alert-notice
+**Note** : Lorsque le client n'est pas la fenêtre active, la limite d'images par seconde est automatiquement ramenée à 30 images par seconde.
+:::
+
 *Attention aux utilisateurs d'ordinateurs portables : l'utilisation de l'option `Illimité (en jeu)` peut entraîner une surchauffe de votre ordinateur portable !*
 
 Si vous ouvrez la liste déroulante de l'option `Images par seconde :`, vous aurez les options suivantes :

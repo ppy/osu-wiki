@@ -21,7 +21,9 @@ Click on the song, this will open the [beatmap editor](/wiki/Client/Beatmap_edit
 
 ### Song Setup
 
-*Main page: [Song Setup](/wiki/Client/Beatmap_editor/Song_setup)*
+::: alert-note
+**Main page:** [Song Setup](/wiki/Client/Beatmap_editor/Song_setup)
+:::
 
 When making a new [beatmap](/wiki/Beatmap), you will always see this dialog before any other parts of the beatmap editor.
 
@@ -34,7 +36,9 @@ The next step is to add timing to your beatmap.
 
 ### Timing
 
-*Main page: [Timing](/wiki/Client/Beatmap_editor/Timing)*
+::: alert-note
+**Main page:** [Timing](/wiki/Client/Beatmap_editor/Timing)
+:::
 
 **Timing is vital!**
 Incorrectly timed maps will not be considered for ranking.
@@ -45,14 +49,18 @@ This will save you (and the modding community) a lot of hassle later on.
 
 ### Compose
 
-*Main page: [Compose](/wiki/Client/Beatmap_editor/Compose)*
+::: alert-note
+**Main page:** [Compose](/wiki/Client/Beatmap_editor/Compose)
+:::
 
 The compose tab of the beatmap editor is where you will probably spend a majority of your time beatmapping.
 It is where you can visually place hit objects and toggle their [hitsounds](/wiki/Beatmapping/Hitsound).
 
 ### Design
 
-*Main page: [Design](/wiki/Client/Beatmap_editor/Design) and [Storyboarding](/wiki/Storyboard#storyboarding)*
+::: alert-note
+**Main page:** [Design](/wiki/Client/Beatmap_editor/Design) and [Storyboarding](/wiki/Storyboard#storyboarding)
+:::
 
 The design tab of the beatmap editor is where you can set the beatmap's background image, add a video, and/or make a basic storyboard.
 Depending on what you do, you may use the design tab a lot or none at all, if you happen to be doing [SBS](/wiki/Storyboard/Scripting) (storyboard scripting).

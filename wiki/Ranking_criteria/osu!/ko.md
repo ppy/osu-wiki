@@ -56,7 +56,9 @@ outdated_since: 627216096f80308b675f9761f2166ca0f83532e6
 
 ### 난이도명
 
-*주 문서: [난이도 작명](/wiki/Ranking_criteria/Difficulty_naming)*
+::: alert-note
+**메인 페이지:** [난이도 작명](/wiki/Ranking_criteria/Difficulty_naming)
+:::
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-o.png?20211215) Normal

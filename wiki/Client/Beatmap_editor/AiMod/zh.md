@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 0a9f09e47d80dd57fd7d0637886dc23e0343de9a
+---
+
 # AiMod
 
 ![](img/AiMod-ZH.png "AiMod 窗口列出了谱面中的警告和错误。")

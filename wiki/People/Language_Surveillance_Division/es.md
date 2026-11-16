@@ -12,7 +12,9 @@ tags:
 
 # División de Vigilancia Lingüística
 
-*Para conocer el equipo moderno de moderadores, véase: [Global Moderation Team](/wiki/People/Global_Moderation_Team).*
+::: alert-note
+**Nota:** Para conocer el equipo moderno de moderadores, véase [Global Moderation Team](/wiki/People/Global_Moderation_Team).
+:::
 
 La **División de Vigilancia Lingüística** (coloquialmente conocida como *LSD*) era un grupo de usuarios responsable de la moderación de comunidades de idiomas específicos dentro de osu!. Cada uno de sus miembros tenía un área de enfoque dedicada: un canal de idioma en el que estaban presentes principalmente y las secciones respectivas del foro que podían administrar (lugares como [Help](https://osu.ppy.sh/community/forums/5) u [Off-Topic](https://osu.ppy.sh/community/forums/52)).
 

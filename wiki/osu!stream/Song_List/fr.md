@@ -1,6 +1,8 @@
 # Liste des musiques d'osu!stream
 
-*Pour des informations sur le jeu de base, voir : [osu!stream](/wiki/osu!stream)*
+::: alert-note
+**Remarque** : Pour des informations sur le jeu de base, voir [osu!stream](/wiki/osu!stream)
+:::
 
 osu!stream propose jusqu'à 45 musiques jouables réparties dans différents packs de musiques. Depuis [la mise à jour de 2020](https://news.osustream.com/post/611013728007274496/osustream-2020-release), toutes les musiques peuvent être téléchargées et jouées gratuitement.
 

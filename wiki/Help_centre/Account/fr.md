@@ -32,7 +32,9 @@ outdated_since: 07144764dfa8ee93e7d1e8144a2ed8b5fd98ab4e
 
 # Compte
 
-*Page principale : [Centre d'aide](/wiki/Help_centre)*
+::: alert-note
+**Page principale** : [Centre d'aide](/wiki/Help_centre)
+:::
 
 Tout ce qui concerne votre compte osu!. Lisez ci-dessous pour savoir s'il existe une solution appropriée à votre problème.
 
@@ -223,8 +225,13 @@ Cela ne signifie pas non plus que vous pouvez créer un nouveau compte pour fair
 
 ### Puis-je supprimer mon compte ? {id=suppression-compte}
 
-*Pour plus d'informations sur la suppression d'un compte, voir : [Politique de confidentialité d'osu! § Vos droits et votre contrôle](/wiki/Legal/Privacy#vos-droits-et-votre-contrôle).*\
-*Attention : La suppression d'un compte est permanente et ne peut donc pas être annulée !*
+::: alert-note
+**Remarque** : Pour plus d'informations sur la suppression d'un compte, voir [Politique de confidentialité d'osu! § Vos droits et votre contrôle](/wiki/Legal/Privacy#vos-droits-et-votre-contrôle).
+:::
+
+::: alert-caution
+**Attention** : La suppression d'un compte est permanente et ne peut donc pas être annulée !
+:::
 
 Oui, tout utilisateur peut demander la suppression de son compte en envoyant un courriel à [privacy@ppy.sh](mailto:privacy@ppy.sh). Gardez à l'esprit que la suppression de votre compte est **finale**, ce qui signifie qu'elle ne peut pas être annulée. La suppression de votre compte ne signifie pas que vous pouvez en créer un nouveau, car le fait d'avoir plusieurs comptes est contraire aux [règles](/wiki/Rules#règles-communautaires). Cela signifie que vous ne pourrez plus utiliser aucune des fonctionnalités en ligne d'osu!.
 

@@ -33,7 +33,9 @@ Un fil de discussion du forum a été déplacé automatiquement entre différent
 
 ### Star priority
 
-*Article principale : [Star priority](/wiki/Modding/Star_priority)*
+::: alert-note
+**Page principale** : [Star priority](/wiki/Modding/Star_priority)
+:::
 
 Dans chaque sous-forum, les fils des beatmaps étaient classés selon leur star priority, ce qui avait plusieurs objectifs :
 
@@ -82,7 +84,9 @@ Bien que cela ne soit pas obligatoire, les mappeurs étaient censés répondre �
 
 ### Kudosu
 
-*Article principale : [Kudosu](/wiki/Modding/Kudosu)*
+::: alert-note
+**Page principale** : [Kudosu](/wiki/Modding/Kudosu)
+:::
 
 Si un mod post était jugé utile, le mappeur ou un membre de la QAT/BAT/BN pouvait lui attribuer un kudosu. Selon une règle non écrite, seul le premier mod post d'un utilisateur pouvait être récompensé par un kudosu. Quel que soit le nombre de suggestions contenues dans un message ou son utilité pour le mappeur, le nombre de kudosu reçus était constant :
 

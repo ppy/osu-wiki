@@ -60,7 +60,10 @@ No effect:
 - Completing Dendens
 - Completing Shakers
 
-*Note: It is entirely possible for a beatmap to never pass by design due to it only containing drumrolls and/or dendens/shakers.*
+::: alert-notice
+**Notice**
+It is entirely possible for a beatmap to never pass by design due to it only containing drumrolls and/or dendens/shakers.
+:::
 
 ## osu!catch
 

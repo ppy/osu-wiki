@@ -4,7 +4,9 @@ stub: true
 
 # Corriente de jugo
 
-*Véase también: [Puntuación](/wiki/Gameplay/Score)*
+::: alert-note
+**Véase también:** [Puntuación](/wiki/Gameplay/Score)
+:::
 
 Las **corrientes de jugo** son un elemento en [osu!catch](/wiki/Game_mode/osu!catch) que incluye gotas y gotitas. Las corrientes de jugo son generadas cuando se coloca un [slider](/wiki/Gameplay/Hit_object/Slider) en el editor.
 

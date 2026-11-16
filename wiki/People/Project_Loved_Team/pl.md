@@ -1,57 +1,43 @@
 ---
-outdated_translation: true
-outdated_since: 700437a67e7944ce70e934e9e7f2e451ef0b947a
 tags:
   - captain
   - captains
+  - kapitan
+  - kapitanowie
 no_native_review: true
 ---
 
 # Zespół Project Loved
 
-**Zespół Project Loved** składa się z członków społeczności osu!, którzy zarządzają [Project Loved](/wiki/Community/Project_Loved) - platformą do głosowania, przez którą wybierane są [ulubione beatmapy społeczności](/wiki/Beatmap/Category#loved).
+**Zespół Project Loved** składa się z członków społeczności osu!, którzy zarządzają projektem [Project Loved](/wiki/Community/Project_Loved) - platformą do głosowania, która umożliwia [beatmapom](/wiki/Beatmap) uzyskanie statusu [ulubionych społeczności](/wiki/Beatmap/Category#loved). Członków zespołu można rozpoznać po jasnoróżowej plakietce [grupy użytkowników](/wiki/People/User_groups) z napisem `LVD`.
 
-## Zadania
+Główną część zespołu Project Loved stanowią *kapitanowie* poszczególnych [trybów gry](/wiki/Game_mode). Są oni odpowiedzialni za wybieranie i nominowanie beatmap do kategorii ulubionych społeczności oraz reprezentują społeczność danego trybu gry w zespole. Piszą również krótkie opisy nominowanych beatmap, by przybliżyć je czytelnikom, którzy mogą ich nie znać. Można je znaleźć w aktualnościach związanych z Project Loved.
 
-Zespół Project Loved głównie składa się z *kapitanów* dla każdego [trybu gry](/wiki/Game_mode). Kapitanowie są odpowiedzialni za wybieranie i nominowanie odpowiednich beatmap do kategorii ulubionych społeczności. Piszą oni również krótkie teksty o nominowanych beatmapch, by zaznajomić z nimi czytelników, którzy mogą ich nie znać.
+Inne ważne stanowiska pełnione przez członków zespołu to:
 
-Reszta zespołu pomaga z kontrolą jakości, zarządzaniem i organizacją.
+- *Moderatorzy zawartości*, którzy upewniają się, że każda nominowana beatmapa przestrzega [zasad dotyczących zawartości utworu](/wiki/Rules/Song_content_rules) oraz [wytycznych dotyczących treści wizualnych](/wiki/Rules/Visual_content_considerations).
+- *Redaktorzy opisów*, którzy sprawdzają opisy napisane przez kapitanów pod kątem błędów ortograficznych i gramatycznych
+- *Osoby weryfikujące metadane*, które upewniają się, że metadane nominowanych beatmap są poprawne
 
-## Członkowie zespołu
+[Strona grupy Project Loved](https://osu.ppy.sh/groups/31) zawiera listę wszystkich członków zespołu. Bardziej szczegółowy wykaz stanowisk w zespole Project Loved oraz listę byłych członków można znaleźć na [stronie internetowej Project Loved](https://loved.sh/team).
 
-::{ flag=US }:: **[clayton](https://osu.ppy.sh/users/3666350)** nadzoruje projekt a także pisze posty na forum oraz aktualności, ::{ flag=LT }:: [huu](https://osu.ppy.sh/users/6044237) zarządza publicznymi skoroszytami i moderuje dyskusje związane z projektem, natomiast ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323), ::{ flag=GB }:: [hypercyte](https://osu.ppy.sh/users/9155377) i ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410) sprawdzają metadane beatmap, które trafiają do głosowań. Reszta zespołu to kapitanowie:
+## Dołączanie do zespołu Project Loved
 
-### Kapitanowie osu!
+Większość nowych członków jest wybierana przez proces aplikowania na konkretne stanowiska w zespole w celu obsadzeniu wolnych stanowisk lub odciążenia pozostałych członków zespołu. Formularze zgłoszeniowe są zamieszczane w [ogłoszeniach](https://osu.ppy.sh/home/news) Project Loved, a wybranych kandydatów ogłasza się w kolejnym miesiącu.
 
-- ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050)
-- ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207)
-- ::{ flag=LV }:: [waywern2012](https://osu.ppy.sh/users/5870453)
+W niektórych przypadkach nowi członkowie mogą zostać wybrani ręcznie w celu obsadzenia stanowisk wymagających określonych umiejętności lub uprawnień (np. stanowisko moderatora zawartości, które mogą obejmować jedynie [moderatorzy globalni](/wiki/People/Global_Moderation_Team) oraz członkowie [NAT](/wiki/People/Nomination_Assessment_Team)).
 
-### Kapitanowie osu!taiko
+Kryteria przyjęcia do zespołu znacznie się różnią w zależności od stanowiska, jednak zawsze cenione są kompetencje oraz udział w społeczności gry.
 
-- ::{ flag=CL }:: [-Kazu-](https://osu.ppy.sh/users/920861)
-- ::{ flag=JP }:: [KuroKuroKuro](https://osu.ppy.sh/users/11931563)
-- ::{ flag=KR }:: [POCARI SWEAT](https://osu.ppy.sh/users/5082685)
-- ::{ flag=RU }:: [Remus](https://osu.ppy.sh/users/6850949)
-- ::{ flag=TW }:: [X a v y](https://osu.ppy.sh/users/3738344)
+## Korzyści
 
-### Kapitanowie osu!catch
+Członkowie zespołu Project Loved otrzymują [odznakę](/wiki/Community/Profile_badge) pokazującą, ile lat pomagali w prowadzeniu projektu.
 
-- ::{ flag=NL }:: [Sartan](https://osu.ppy.sh/users/4100941)
-- ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598)
-- ::{ flag=DE }:: [Tenshichan](https://osu.ppy.sh/users/1101600)
-- ::{ flag=NL }:: [Wesley](https://osu.ppy.sh/users/2407265)
-
-### Kapitanowie osu!mania
-
-- ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576)
-- ::{ flag=SG }:: [Abraxos](https://osu.ppy.sh/users/5025064)
-- ::{ flag=KR }:: [Kawawa](https://osu.ppy.sh/users/4647754)
-- ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573)
-- ::{ flag=US }:: [Penguinosity](https://osu.ppy.sh/users/10235296)
-- ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341)
+![Odznaka LVD za 1 rok stażu](https://assets.ppy.sh/profile-badges/loved1y.png "Odznaka LVD za 1 rok stażu") ![Odznaka LVD za 2 lata stażu](https://assets.ppy.sh/profile-badges/loved2y.png "Odznaka LVD za 2 lata stażu") ![Odznaka LVD za 3 lata stażu](https://assets.ppy.sh/profile-badges/loved3y.png "Odznaka LVD za 3 lata stażu") ![Odznaka LVD za 4 lata stażu](https://assets.ppy.sh/profile-badges/loved4y.png "Odznaka LVD za 4 lata stażu") ![Odznaka LVD za 5 lat stażu](https://assets.ppy.sh/profile-badges/loved5y.png "Odznaka LVD za 5 lat stażu") ![Odznaka LVD za 6 lat stażu](https://assets.ppy.sh/profile-badges/loved6y.png "Odznaka LVD za 6 lat stażu")
 
 ## Ciekawostki
 
-- We wrześniu 2017 roku użytkownik ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) stworzył pierwszy zespół kapitanów wraz z systemem [Captain's Pick](/wiki/History_of_osu!/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)), którego nazwa została później zmieniona na Project Loved. Do późnego 2019 roku Toy nadzorował i zarządzał całym projektem.
-- Grupa zespołu Project Loved ma numer 31, ale jej strona nie jest dostępna dla wszystkich. Członkowstwo w grupie pozwala na moderowanie [forum Project Loved](https://osu.ppy.sh/community/forums/120) i nadawanie beatmapom statusu ulubionych społeczności. Jedynymi członkami tej grupy są: ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350), ::{ flag=LT }:: [huu](https://osu.ppy.sh/users/6044237) oraz ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689).
+- We wrześniu 2017 roku użytkownik ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) stworzył pierwszy zespół kapitanów wraz z systemem [Captain's Pick](/wiki/History_of_osu!/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)), którego nazwa została później zmieniona na Project Loved. Toy nadzorował cały projekt i zarządzał nim do końca 2019 roku.
+- [Strona grupy Project Loved](https://osu.ppy.sh/groups/31) do 28 kwietnia 2021 roku nie była publicznie dostępna i była używana jedynie w celach administracyjnych. Obecnie każdy może ją wyświetlić.
+ - Do 16 czerwca 2021 roku do grupy należeli wyłącznie użytkownicy ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350), ::{ flag=LT }:: [huu](https://osu.ppy.sh/users/6044237) oraz ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689). Obecnie każdy członek zespołu Project Loved przynależy do tej grupy.
+- Od 28 lipca 2023 roku członkowie otrzymują odznaki w oparciu o liczbę lat spędzonych w zespole.

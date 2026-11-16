@@ -14,8 +14,13 @@ tags:
 
 ![Icono del mod RL](/wiki/shared/mods/RL.png "Icono del mod Relax (RL)")
 
-*Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase: [Relax (mod de lazer)](/wiki/Gameplay/Game_modifier/Relax_(lazer))*\
-*Para la lista completa de los mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Nota:** Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase [Relax (mod de lazer)](/wiki/Gameplay/Game_modifier/Relax_(lazer))
+:::
+
+::: alert-note
+**Nota:** Para la lista completa de los mods, véase [Modificador del juego](/wiki/Gameplay/Game_modifier)
+:::
 
 ## Resumen
 
@@ -31,7 +36,10 @@ tags:
 
 ## Descripción
 
-*Aviso: Activar el mod Relax hará que la jugada no se clasifique y no se guardará en la tabla de clasificación local.*
+::: alert-notice
+**Aviso**
+Activar el mod Relax hará que la jugada no se clasifique y no se guardará en la tabla de clasificación local.
+:::
 
 El mod **Relax** es un [modificador del juego](/wiki/Gameplay/Game_modifier) que tiene como objetivo permitir una experiencia relajante a los jugadores. Debido a su naturaleza, el mod se usa normalmente para analizar/practicar [patrones](/wiki/Beatmap/Pattern) difíciles en los [beatmaps](/wiki/Beatmap), o para cuando los jugadores quieren dar un descanso a sus manos.
 
@@ -39,7 +47,7 @@ El mod **Relax** es un [modificador del juego](/wiki/Gameplay/Game_modifier) que
 
 En [osu!](/wiki/Game_mode/osu!), activar el mod Relax solo requiere que el jugador desplace el cursor sobre los [objetos](/wiki/Gameplay/Hit_object); todos los objetos serán pulsados automáticamente por osu!. El mod hace que sea imposible morir en el beatmap en todos los modos de juego.
 
-El mod Relax también desactiva la interfaz del juego, ocultando así la [puntuación](/wiki/Gameplay/Score), [combo](/wiki/Beatmapping/Combo) y los fallos, aunque esto se puede volver a activar presionando `Mayús` + `Tabulador`. Además, el valor de los giros por minuto (SPM) se duplicará, lo que permitirá que el jugador gire mucho más rápido y, por lo tanto, obtenga una puntuación más alta que en un juego normal.
+El mod Relax también desactiva la interfaz del juego, ocultando así la [puntuación](/wiki/Gameplay/Score), [combo](/wiki/Gameplay/Combo_(score_multiplier)) y los fallos, aunque esto se puede volver a activar presionando `Mayús` + `Tabulador`. Además, el valor de los giros por minuto (SPM) se duplicará, lo que permitirá que el jugador gire mucho más rápido y, por lo tanto, obtenga una puntuación más alta que en un juego normal.
 
 ### osu!taiko
 

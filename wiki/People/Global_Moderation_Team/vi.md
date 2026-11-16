@@ -1,12 +1,12 @@
 ---
-outdated_translation: true
-outdated_since: ee4ec9fd67b738d039e0110bafd28ca118e7db57
 tags:
   - GMT
   - moderator
   - moderators
   - chat mod
   - kiểm duyệt viên
+outdated_translation: true
+outdated_since: e5f0364195b7a422f5889406dbc624eff7ca54a1
 ---
 
 # Đội ngũ Kiểm duyệt viên
@@ -71,7 +71,7 @@ Khi một Kiểm duyệt viên quyết định rời khỏi đội ngũ, họ c�
 
 *Lưu ý: Tất cả các thành viên của GMT đều nói tiếng Anh bên cạnh những ngôn ngữ được liệt kê dưới đây trừ khi có ghi chú khác.*
 
-[Trang của Đội ngũ Kiểm duyệt viên](https://osu.ppy.sh/groups/4) liệt kê tất cả các thành viên trong đội ngũ. Bên cạnh những lĩnh vực được ghi dưới đây, tất cả các Kiểm duyệt viên đều tham gia vào [kiểm tra nội dung âm thanh và hình ảnh trong beatmap](/wiki/Rules/Visual_content_considerations#getting-your-image-assessed).
+[Trang của Đội ngũ Kiểm duyệt viên](https://osu.ppy.sh/groups/4) liệt kê tất cả các thành viên trong đội ngũ. Bên cạnh những lĩnh vực được ghi dưới đây, tất cả các Kiểm duyệt viên đều tham gia vào [kiểm tra nội dung âm thanh và hình ảnh trong beatmap](/wiki/Rules/Visual_content_considerations#nhận-đánh-giá-hình-ảnh-của-bạn).
 
 **Mọi thành viên của GMT có thể tham gia vào tất cả công việc của bất kì bộ phận nào họ chọn, bất kể mảng phụ trách chính của họ.** Ví dụ, một Kiểm duyệt viên phụ trách mảng quản lý chat có thể đồng thời hỗ trợ quản lý diễn đàn.
 

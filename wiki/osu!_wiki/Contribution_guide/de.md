@@ -12,7 +12,9 @@ Wenn du helfen möchtest, aber nicht weißt, wo du anfangen kannst, siehe [Verwa
 
 ## Das Wiki editieren
 
-*Für einen allgemeinen Beteiligungsprozess, siehe [GitHub flow - GitHub Docs](https://docs.github.com/en/get-started/quickstart/github-flow)*
+::: alert-note
+**Anmerkung:** Für einen allgemeinen Beteiligungsprozess, siehe [GitHub flow - GitHub Docs](https://docs.github.com/en/get-started/quickstart/github-flow)
+:::
 
 Die Artikel des osu!-Wikis werden auf [GitHub][osu_wiki] gespeichert. Um etwas beizutragen, mache das Folgende:
 

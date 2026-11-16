@@ -10,6 +10,8 @@ tags:
   - сс
   - серебряная с
   - серебряная сс
+outdated_translation: true
+outdated_since: 2788a3f6df7033581be0ea0338399f41a84a6daf
 ---
 
 # Оценка

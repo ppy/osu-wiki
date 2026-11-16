@@ -6,7 +6,10 @@ Las calificaciones SEV solo son visibles para los miembros del NAT, dado que sol
 
 ## Obviedad y severidad
 
-*Nota: Un restablecimiento hecho para arreglar cosas que se considerarían buenas si se dejaran sin arreglar siempre se puntúa con 0/0. Esto es para no desalentar el modding y la aplicación de mejoras en mapas [calificados](/wiki/Beatmap/Category#qualified).*
+::: alert-notice
+**Aviso**
+Un restablecimiento hecho para arreglar cosas que se considerarían buenas si se dejaran sin arreglar siempre se puntúa con 0/0. Esto es para no desalentar el modding y la aplicación de mejoras en mapas [calificados](/wiki/Beatmap/Category#qualified).
+:::
 
 La **obviedad** se refiere a la facilidad con la que se puede detectar el problema.
 

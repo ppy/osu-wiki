@@ -6,7 +6,9 @@ no_native_review: true
 
 # Bannissement des tournois
 
-*Page principale : [Centre d'aide](/wiki/Help_centre)*
+::: alert-note
+**Page principale** : [Centre d'aide](/wiki/Help_centre)
+:::
 
 Un bannissement des tournois empêche un joueur d'être impliqué dans des tournois officiellement soutenus, à quelque titre que ce soit. Cela comprend le fait de jouer et de fournir du personnel ou toute autre forme d'assistance.
 

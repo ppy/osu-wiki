@@ -15,14 +15,21 @@ tags:
 
 # Timing tab
 
-*For a timing setup guide, see: [How to time songs](/wiki/Guides/How_to_time_songs)*\
-*See also: [Beatmapping/Timing](/wiki/Beatmapping/Timing)*
+::: alert-note
+**Note:** For a timing setup guide, see [How to time songs](/wiki/Guides/How_to_time_songs)
+:::
+
+::: alert-note
+**See also:** [Beatmapping/Timing](/wiki/Beatmapping/Timing)
+:::
 
 **Timing** is the [beatmap editor](/wiki/Client/Beatmap_editor)'s tab for changing and setting up the timing of a [beatmap](/wiki/Beatmap), which is essential for correct song representation. It contains timing-related settings and tools, and also a [dedicated window](#timing-setup-panel) for working with multiple [timing points](#timing-points), both for musical structure representation and beatmap design purposes.
 
 ## Timing points
 
-*See also: [Offset](/wiki/Offset)*
+::: alert-note
+**See also:** [Offset](/wiki/Offset)
+:::
 
 In [mapping](/wiki/Beatmapping), a *timing point*, colloquially called an *offset*, is a way to apply common settings, such as [timing](/wiki/Beatmapping/Timing), [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) multipliers, or [hitsounds](/wiki/Beatmapping/Hitsound) and their respective volumes, to a specific section of a beatmap. In osu!, there are two types of timing points.
 

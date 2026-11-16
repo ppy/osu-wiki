@@ -1,6 +1,8 @@
 # Mascotas
 
-*Véase también: [Galería/Mascotas](/wiki/Mascots/Gallery).*
+::: alert-note
+**Véase también:** [Galería/Mascotas](/wiki/Mascots/Gallery).
+:::
 
 Este artículo lista las numerosas mascotas de osu! junto con una breve descripción de cada una. Se puede ver un vídeo de YouTube con las mascotas de osu! siendo mostradas [aquí](https://youtu.be/mJF2cAs_MrI).
 
@@ -14,7 +16,9 @@ pippi, estilizado con una «p» minúscula, es la mascota de osu! que se unió e
 
 ### ![icono de osu!catch](/wiki/shared/mode/catch.png) Yuzu
 
-*Para la publicación en las noticias, véase: [Meet Yuzu!](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu) y [Introducing Yuzu's New Look](https://osu.ppy.sh/home/news/2019-01-09-introducing-yuzu)*
+::: alert-note
+**Nota:** Para la publicación en las noticias, véase [Meet Yuzu!](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu) y [Introducing Yuzu's New Look](https://osu.ppy.sh/home/news/2019-01-09-introducing-yuzu)
+:::
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 
@@ -22,7 +26,9 @@ Yuzu es la mascota de osu!catch que se unió el 22/6/2014. Nació el 10/4/2000, 
 
 ### ![icono de osu!mania](/wiki/shared/mode/mania.png) Mani & Mari
 
-*Para más información, véase: [Introducing Mani and Mari, the New osu!mania Mascots.](https://osu.ppy.sh/home/news/2020-09-17-introducing-mani-mari-osumania)*
+::: alert-note
+**Nota:** Para más información, véase [Introducing Mani and Mari, the New osu!mania Mascots.](https://osu.ppy.sh/home/news/2020-09-17-introducing-mani-mari-osumania)
+:::
 
 ![Mani & Mari](https://assets.ppy.sh/media/mari-mani/wiki-key-condensed.png "Mani & Mari")
 
@@ -32,7 +38,9 @@ Mani es algo así como un inconformista, siempre buscando explorar nuevos estilo
 
 ### ![icono de osu!taiko](/wiki/shared/mode/taiko.png) Mocha
 
-*Para la publicación en las noticias, véase: [The new osu!taiko mascot is here!](https://osu.ppy.sh/home/news/2017-05-25-the-new-osutaiko-mascot-is-here)*
+::: alert-note
+**Nota:** Para la publicación en las noticias, véase [The new osu!taiko mascot is here!](https://osu.ppy.sh/home/news/2017-05-25-the-new-osutaiko-mascot-is-here)
+:::
 
 ![Mocha](img/Mocha.png "Mocha")
 

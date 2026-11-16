@@ -4,7 +4,9 @@ Skinning is one of the key features of osu! that allows players to restyle the g
 
 ## Skinning sets
 
-*Main page: [Skin set list](/wiki/Ranking_criteria/Skin_set_list)*
+::: alert-note
+**Main page:** [Skin set list](/wiki/Ranking_criteria/Skin_set_list)
+:::
 
 **For beatmaps only,** if your beatmap skin contains a single element from the listed sets in the [ranking criteria](/wiki/Ranking_criteria), it must contain all of the other elements within said skinning set. This only applies to beatmap skins, but other skinners are advised to follow these lists as well to preserve the integrity of their skin.
 

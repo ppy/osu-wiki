@@ -84,7 +84,7 @@ osu!catch 有三种难度参数，每种参数都对游玩过程有不同影响�
 - [连击数](/wiki/Gameplay/Combo_(score_multiplier))是一个分数乘数：连击数较高时，完成打击物件会对总分作出更多的贡献，反之亦然。在 osu!catch 中，连击可能会因为漏掉大果或中果而[断掉](/wiki/Gameplay/Judgement/Combobreak)，同时[血量](/wiki/Gameplay/Health)也会减少。
 - [准确率](/wiki/Gameplay/Accuracy#osu!catch)显示一共接住了多少物件。漏掉小果时会降低准确率，但不会导致断连。
 
-完成谱面后，会为分数分配一个[评价](/wiki/Gameplay/Grade#osu!catch)——评价以单个字母为形式，是对准确度的简短评估。金或银 SS 表示 100% 准确度，而其他的评价（从 S 到 D）取决于漏掉物件的数目。
+完成谱面后，会为分数分配一个[评级](/wiki/Gameplay/Grade#osu!catch)——评级以单个字母为形式，是对准确度的简短评估。金或银 SS 表示 100% 准确度，而其他的评级（从 S 到 D）取决于漏掉物件的数目。
 
 ## 自定义皮肤
 

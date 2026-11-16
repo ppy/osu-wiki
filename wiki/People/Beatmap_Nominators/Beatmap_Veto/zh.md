@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 0cc6f12f0ea484bf3e84c3b0cd5b124bc79edf7c
+---
+
 # 谱面否决
 
 *谱面否决 (Veto)* 是[谱面审核成员](/wiki/People/Beatmap_Nominators)在发现谱面存在明显质量问题，不适合[上架](/wiki/Beatmap/Category#ranked)时，中止谱面上架的权力。在[过审](/wiki/Beatmap_ranking_procedure#过审)之前，通过进一步讨论来解决质量问题，是谱面审核成员的主要责任。

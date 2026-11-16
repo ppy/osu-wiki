@@ -12,8 +12,13 @@
 
 ## 角色与职责
 
-*主条目：[帮助中心](/wiki/Help_centre)*\
-*请参阅：[账号限制](/wiki/Help_centre/Account_restrictions)*
+::: alert-note
+**主文章：** [帮助中心](/wiki/Help_centre)
+:::
+
+::: alert-note
+**参见：** [账号限制](/wiki/Help_centre/Account_restrictions)
+:::
 
 此团队受理你本人无法掌控的账号问题。请记得发送邮件时使用你 osu! 账号所绑定的邮箱，并且详述你的问题。
 

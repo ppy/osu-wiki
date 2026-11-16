@@ -4,7 +4,9 @@ Diese Seite beschäftigt sich mit einigen Aufgaben, die beim Beitragen zu erledi
 
 ## Einführung
 
-*Für mehr Informationen über git und GitHub, siehe [GitHub-Dokumentation (auf Englisch)](https://docs.github.com)*
+::: alert-note
+**Anmerkung:** Für mehr Informationen über git und GitHub, siehe [GitHub-Dokumentation (auf Englisch)](https://docs.github.com)
+:::
 
 **Git** ist ein System zur Versionsverwaltung, das dabei hilft, Änderungen an Dateien zu verwalten. Die Daten und Änderungsgeschichte des osu!-Wikis werden in einem Git-Repository gespeichert. **GitHub** ist eine Entwicklungsplattform, die eine Webschnittstelle für Git-Repositorys bietet und eine Reihe von Projektmanagement-Tools bereitstellt.
 
@@ -24,7 +26,9 @@ Eine *Verzweigung* (Fork) is eine Momentaufnahme des ursprünglichen Repositorys
 
 ## Änderungen vornehmen
 
-*Siehe auch: [Forking Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)*
+::: alert-note
+**Siehe auch:** [Forking Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)
+:::
 
 Innerhalb deiner Verzweigung des osu!-Wikis bist du frei, jegliche Änderungen zu machen und diese abzuspeichern. **Commits** sind individuelle "Sicherungspunkte" des Repositorys. **Branches** sind Arbeitsbereiche, die es ermöglichen, zwischen verschiedenen Versionen des Repositorys zu wechseln. Folge diesen Richtlinien, um die Arbeitsabläufe zu vereinfachen und die Versionshistorie sauber und frei von Schmutz zu halten:
 

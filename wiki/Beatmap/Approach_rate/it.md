@@ -3,8 +3,6 @@ tags:
   - approach time
   - AR
   - reading
-outdated_translation: true
-outdated_since: 0cba10a82a37c43b0eb79d44b66916ee06b30121
 ---
 
 # La velocità di approccio
@@ -21,26 +19,22 @@ In [osu!taiko](/wiki/Game_mode/osu!taiko) e [osu!mania](/wiki/Game_mode/osu!mani
 
 La durata di un oggetto da colpire che resta visibile sullo schermo (senza mod) varia da 1800ms con AR0 a 450ms con AR10. La scala dei livelli di AR si sposta di 120ms per AR inferiori a 5 e di 150ms per AR superiori a 5.
 
-Guarda l'infografica e le formule qui sotto per una panoramica:
+Vedi l'infografica e le formule qui sotto per una panoramica:
 
 ```
-                                       X = colpire/raccogliere
-             a n t i c i p o           ↓
-├───────────────────────┬──────────────┤
-0%     apparizione        100% opacità
+             a n t i c i p o             X = colpire/raccogliere
+0%                        66%            ↓
+├──────────────────────────┬─────────────┤
+        apparizione         piena opacità
 ```
 
 L'oggetto da colpire comincia ad apparire a `X - anticipo` con:
 
-- AR < 5: `anticipo = 1200ms + 600ms * (5 - AR) / 5`
+- AR < 5: `anticipo = 1200ms + 120ms * (5 - AR)`
 - AR = 5: `anticipo = 1200ms`
-- AR > 5: `anticipo = 1200ms - 750ms * (AR - 5) / 5`
+- AR > 5: `anticipo = 1200ms - 150ms * (AR - 5)`
 
-Il tempo impiegato dall'oggetto per apparire completamente dipende anche dalla velocità di approccio:
-
-- AR < 5: `apparizione = 800ms + 400ms * (5 - AR) / 5`
-- AR = 5: `apparizione = 800ms`
-- AR > 5: `apparizione = 800ms - 500ms * (AR - 5) / 5`
+L'oggetto da colpire raggiunge l'opacità finale (piena) ai 2/3 del tempo di anticipo.
 
 ### Tabella di confronto
 

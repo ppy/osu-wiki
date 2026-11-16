@@ -38,6 +38,10 @@ The osu!mania 7K World Cup 2026 offered a $1,200 cash prize pool and limited-edi
 
 ![](img/badge-1st.png "MWC 7K 2026 winner badge") ![](img/badge-2nd.png "MWC 7K 2026 2nd-place badge") ![](img/badge-3rd.png "MWC 7K 2026 3rd-place badge")
 
+## Podium
+
+![](img/mwc7k2026-podium.jpg "MWC 7K 2026 podium")
+
 ## Organisation
 
 The osu!mania 7K World Cup 2026 was run by the [osu! team](/wiki/People/osu!_team) and various community members.
@@ -122,10 +126,6 @@ Group leaders denoted in **bold**.
 Captains are listed in **bold**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a9e282b9f0a2f2e973c62537763db0c2).
-
-## Podium
-
-![](img/mwc7k2026-podium.jpg "MWC 7K 2026 podium")
 
 ## Match results
 

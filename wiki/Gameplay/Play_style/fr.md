@@ -12,7 +12,10 @@ Aussi connu sous le nom de *mouse only*, les joueurs qui n'utilisent que la sour
 
 Ce style de jeu est largement considéré comme la méthode la plus difficile à utiliser et les joueurs utilisant uniquement la souris qui se classent bien dans les classements généraux sont généralement très respectés par la communauté.
 
-*Note : La superposition des touches montre le clic gauche/droit comme `M1` et `M2`.*
+::: alert-notice
+**Note**
+La superposition des touches montre le clic gauche/droit comme `M1` et `M2`.
+:::
 
 ### Double souris
 
@@ -20,7 +23,10 @@ La double souris est un style de jeu dans lequel un joueur a une souris dans cha
 
 Ce style de jeu était considéré comme une blague par la plupart des joueurs jusqu'en mai 2013, lorsque le joueur canadien ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) a commencé à obtenir les meilleurs scores sur des beatmaps très respectées comme [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691) et [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823) en jouant avec deux souris.
 
-*Note : Il est également courant pour les joueurs qui jouent en double souris de scotcher la souris utilisée pour cliquer sur le bureau.*
+::: alert-notice
+**Note**
+Il est également courant pour les joueurs qui jouent en double souris de scotcher la souris utilisée pour cliquer sur le bureau.
+:::
 
 ### Souris et clavier
 
@@ -30,27 +36,42 @@ Les joueurs avec souris et clavier jouent presque exactement de la même manièr
 
 Certains joueurs n'utilisent que le clavier pour taper, tandis que d'autres ne passent au clavier qu'en cas de stream (action de taper une série d'objets en succession rapide) et utilisent la souris pour cliquer pour tout le reste.
 
-*Note : Le compteur de clics montre les pressions du clavier comme `K1` et `K2`.*
+::: alert-notice
+**Note**
+Le compteur de clics montre les pressions du clavier comme `K1` et `K2`.
+:::
 
 ### Tablette seulement
 
 ![](/wiki/shared/Osu!tablet.jpg "l'osu!tablet")
 
-*Remarque : Ce style de jeu nécessite l'utilisation d'une [tablette graphique](/wiki/Gameplay/Input_device/Graphics_tablet).*
+::: alert-notice
+**Note**
+Ce style de jeu nécessite l'utilisation d'une [tablette graphique](/wiki/Gameplay/Input_device/Graphics_tablet).
+:::
 
 Les joueurs sur tablette font passer un stylet au-dessus d'une tablette graphique pour naviguer avec le curseur et ne cliquent sur les objets qu'en tapant avec le stylet sur la surface de la tablette graphique elle-même.
 
-*Remarque : Le compteur de clics montrera toutes les touches de la tablette comme `M1`.*
+::: alert-notice
+**Note**
+Le compteur de clics montrera toutes les touches de la tablette comme `M1`.
+:::
 
 #### Tapx
 
 La communauté considère qu'il est pratiquement impossible de réaliser des streams en continu avec une seule entrée tactile à un BPM élevé. Ainsi, pour faire des streams en continu en tant que joueur sur tablette uniquement, un joueur doit alterner entre le tapotement de son stylet sur la tablette et l'appui sur une touche secondaire assignée (généralement une touche de la tablette ou du clavier). Cette méthode est parfois appelée *tapx*.
 
-*Remarque : Comme le stylet est considéré comme `M1`, seul le bouton de clic secondaire fonctionnera, et `X` est généralement le bouton de clic secondaire par défaut.*
+::: alert-notice
+**Note**
+Comme le stylet est considéré comme `M1`, seul le bouton de clic secondaire fonctionnera, et `X` est généralement le bouton de clic secondaire par défaut.
+:::
 
 ### Tablette et clavier
 
-*Remarque : Ce style de jeu nécessite l'utilisation d'une tablette graphique.*
+::: alert-notice
+**Note**
+Ce style de jeu nécessite l'utilisation d'une tablette graphique.
+:::
 
 La tablette et le clavier sont un style de jeu populaire parmi de nombreux joueurs passionnés, compétitifs et de haut niveau.
 
@@ -68,7 +89,10 @@ Lorsqu'un joueur avec un écran tactile touche l'écran, son appareil déplace s
 
 Ce style de jeu peut ressembler à celui d'[osu!stream](/wiki/osu!stream) en raison de l'action de toucher directement l'écran plutôt que de déplacer un curseur.
 
-*Remarque : Le compteur de clics indique l'entrée tactile comme `M1`.*
+::: alert-notice
+**Note**
+Le compteur de clics indique l'entrée tactile comme `M1`.
+:::
 
 ### Écran tactile et clavier
 
@@ -91,17 +115,26 @@ Il suffit au joueur d'appuyer sur les touches du clavier qui lui sont assignées
 
 Il existe deux styles principaux de réglage de l'emplacement des touches sur le clavier : KDDK (Taiko par défaut, ou BRRB) ou DDKK/KKDD (ou RRBB/BBRR). Les lettres représentent le placement du bord du tambour ou du centre du tambour (par exemple, K dans KDDK pour le bord du tambour, et D pour le centre du tambour).
 
-*Note : Pour les raccourci clavier, la valeur par défaut est `Z`, `X`, `C`, et `V` (KDDK, ou BRRB).*
+::: alert-notice
+**Note**
+Pour les raccourci clavier, la valeur par défaut est `Z`, `X`, `C`, et `V` (KDDK, ou BRRB).
+:::
 
 ### Manette taiko
 
 La manette taiko est le style de jeu et la manette par défaut de la série [Taiko no Tatsujin](https://fr.wikipedia.org/wiki/Taiko_no_Tatsujin) ([Taiko Drum Master](https://wikipedia.org/wiki/Taiko:_Drum_Master) pour les États-Unis).
 
-*Remarque : certains joueurs expérimentés qui utilisent une manette taiko peuvent créer la leur à partir de zéro, tandis que d'autres l'achètent dans des magasins de retail ou en ligne.*
+::: alert-notice
+**Note**
+certains joueurs expérimentés qui utilisent une manette taiko peuvent créer la leur à partir de zéro, tandis que d'autres l'achètent dans des magasins de retail ou en ligne.
+:::
 
 Les joueurs qui utilisent une manette taiko portent un bâton de taiko/tambour dans chaque main et frappent le centre (rouge) ou le bord du tambour (bleu) pour enregistrer la note en fonction de l'endroit où elle est frappée.
 
-*Remarque : La plupart des contrôleurs taiko se connectent à l'ordinateur en utilisant un connecteur Bluetooth s'il n'y a pas de connecteur USB, bien que cela puisse augmenter la latence.*
+::: alert-notice
+**Note**
+La plupart des contrôleurs taiko se connectent à l'ordinateur en utilisant un connecteur Bluetooth s'il n'y a pas de connecteur USB, bien que cela puisse augmenter la latence.
+:::
 
 ### Autres styles
 
@@ -145,7 +178,10 @@ Pour le dash, de nombreux joueurs utilisent l'un des boutons de leur manette de 
 
 ### Clavier
 
-*Remarque : Pour plus d'information à propos des claviers mécaniques, voir ce [guide externe pour clavier mécanique](http://www.daskeyboard.com/blog/mechanical-keyboard-guide/).*
+::: alert-notice
+**Note**
+Pour plus d'information à propos des claviers mécaniques, voir ce [guide externe pour clavier mécanique](http://www.daskeyboard.com/blog/mechanical-keyboard-guide/).
+:::
 
 Le clavier était autrefois la *seule* façon de jouer à osu!mania jusqu'à ce que d'autres méthodes de jeu soient prises en charge au fil du temps.
 
@@ -155,7 +191,10 @@ Pour jouer avec un clavier, les joueurs doivent appuyer sur les touches correspo
 
 Les contrôleurs d'arcade d'autres jeux de rythme tels que DJMAX, O2Jam, Beatmania IIDX, etc. constituent un style de jeu adapté aux vétérans des jeux de rythme de type tapis roulant.
 
-*Note : Puisque l'utilisation de 8 touches nécessite la décision du mappeur ou l'utilisation de modificateurs de jeu, la plupart des joueurs possédant ces manettes d'arcade peuvent gérer jusqu'à 7 touches (max par défaut) et 1 spéciale.*
+::: alert-notice
+**Note**
+Puisque l'utilisation de 8 touches nécessite la décision du mappeur ou l'utilisation de modificateurs de jeu, la plupart des joueurs possédant ces manettes d'arcade peuvent gérer jusqu'à 7 touches (max par défaut) et 1 spéciale.
+:::
 
 ### Pad de danse
 
