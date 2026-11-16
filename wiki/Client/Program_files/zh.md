@@ -89,7 +89,7 @@ osu! 的所有文件都存放在游戏安装目录。默认情况下，可在以
 
 ### Exports
 
-`Exports` 文件夹存储玩家从客户端导出的谱面与皮肤。该文件夹只会在玩家用过[皮肤选择器的`导出 .osk`](/wiki/Client/Options#skin.1)，或[谱面编辑器的`导出图包`](/wiki/Client/Beatmap_editor/Menu#文件)后出现。
+`Exports` 文件夹存储玩家从客户端导出的谱面与皮肤。该文件夹只会在玩家用过[皮肤选择器的`导出 .osk`](/wiki/Client/Options#皮肤)，或[谱面编辑器的`导出图包`](/wiki/Client/Beatmap_editor/Menu#文件)后出现。
 
 ### Localisation
 
