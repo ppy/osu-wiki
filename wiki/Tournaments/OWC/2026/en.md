@@ -194,27 +194,27 @@ Saturday, 14 November 2026:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| 7 | **Australia** ::{ flag=AU }:: | **6** | 0 | ::{ flag=NZ }:: New Zealand | [#1](https://osu.ppy.sh/community/matches/122160560) | [#1](https://www.twitch.tv/videos/2928642316) |
-| 8 | **South Korea** ::{ flag=KR }:: | **6** | 2 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/122161241) | [#1](https://www.twitch.tv/videos/2928646298) |
-| 2 | **United Kingdom** ::{ flag=GB }:: | **6** | 1 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/122161624) | [#1](https://www.twitch.tv/videos/2928646297) |
-| 9 | Singapore ::{ flag=SG }:: | 0 | **6** | ::{ flag=ID }:: **Indonesia** | [#1](https://osu.ppy.sh/community/matches/122161556) | [#1](https://www.twitch.tv/videos/2928648179) |
-| 5 | **Poland** ::{ flag=PL }:: | **6** | 1 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/122161932) | [#1](https://www.twitch.tv/videos/2928676698) |
-| 13 | Romania ::{ flag=RO }:: | 0 | **6** | ::{ flag=NL }:: **Netherlands** | [#1](https://osu.ppy.sh/community/matches/122162608) | [#1](https://www.twitch.tv/videos/2928982145) |
+| 7 | **Australia** ::{ flag=AU }:: | **6** | 0 | ::{ flag=NZ }:: New Zealand | [#1](https://osu.ppy.sh/community/matches/122160560) | [#1](https://www.youtube.com/watch?v=yOCnxoeOMVY) |
+| 8 | **South Korea** ::{ flag=KR }:: | **6** | 2 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/122161241) | [#1](https://www.youtube.com/watch?v=z9u96dUAQoI) |
+| 2 | **United Kingdom** ::{ flag=GB }:: | **6** | 1 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/122161624) | [#1](https://www.youtube.com/watch?v=q8GgEy-U3yA) |
+| 9 | Singapore ::{ flag=SG }:: | 0 | **6** | ::{ flag=ID }:: **Indonesia** | [#1](https://osu.ppy.sh/community/matches/122161556) | [#1](https://www.youtube.com/watch?v=E-R2PsinhO8) |
+| 5 | **Poland** ::{ flag=PL }:: | **6** | 1 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/122161932) | [#1](https://www.youtube.com/watch?v=iJvd6Ax7cHA) |
+| 13 | Romania ::{ flag=RO }:: | 0 | **6** | ::{ flag=NL }:: **Netherlands** | [#1](https://osu.ppy.sh/community/matches/122162608) | [#1](https://www.youtube.com/watch?v=r9tj_7yeEQw) |
 
 Sunday, 15 November 2026:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| 10 | Saudi Arabia ::{ flag=SA }:: | 2 | **6** | ::{ flag=PH }:: **Philippines** | [#1](https://osu.ppy.sh/community/matches/122166787) | [#1](https://www.twitch.tv/videos/2929722550) |
-| 15 | Malaysia ::{ flag=MY }:: | 0 | **6** | ::{ flag=SE }:: **Sweden** | [#1](https://osu.ppy.sh/community/matches/122167116) | [#1](https://www.twitch.tv/videos/2929716284) |
-| 14 | Japan ::{ flag=JP }:: | 5 | **6** | ::{ flag=TH }:: **Thailand** | [#1](https://osu.ppy.sh/community/matches/122167144) | [#1](https://www.twitch.tv/videos/2929722548) |
-| 6 | Russian Federation ::{ flag=RU }:: | 3 | **6** | ::{ flag=DE }:: **Germany** | [#1](https://osu.ppy.sh/community/matches/122167419) | [#1](https://www.twitch.tv/videos/2929716286) |
-| 11 | **Türkiye** ::{ flag=TR }:: | **6** | 3 | ::{ flag=AT }:: Austria | [#1](https://osu.ppy.sh/community/matches/122167451) | [#1](https://www.twitch.tv/videos/2929722547) |
-| 16 | Ukraine ::{ flag=UA }:: | 2 | **6** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/122167771) | [#1](https://www.twitch.tv/videos/2929761449) |
-| 3 | **Chile** ::{ flag=CL }:: | **6** | 0 | ::{ flag=NO }:: Norway | [#1](https://osu.ppy.sh/community/matches/122168337) | [#1](https://www.twitch.tv/videos/2929906192) |
-| 1 | **United States** ::{ flag=US }:: | **6** | 0 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/122168644) | [#1](https://www.twitch.tv/videos/2929903778) |
-| 12 | **Spain** ::{ flag=ES }:: | **6** | 3 | ::{ flag=AR }:: Argentina | [#1](https://osu.ppy.sh/community/matches/122168642) | [#1](https://www.twitch.tv/videos/2929923516) |
-| 4 | **Canada** ::{ flag=CA }:: | **6** | 5 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/122169614) | [#1](https://www.twitch.tv/videos/2930096732) |
+| 10 | Saudi Arabia ::{ flag=SA }:: | 2 | **6** | ::{ flag=PH }:: **Philippines** | [#1](https://osu.ppy.sh/community/matches/122166787) | [#1](https://www.youtube.com/watch?v=p7U-pB_Dsvs) |
+| 15 | Malaysia ::{ flag=MY }:: | 0 | **6** | ::{ flag=SE }:: **Sweden** | [#1](https://osu.ppy.sh/community/matches/122167116) | [#1](https://www.youtube.com/watch?v=aLBcMKUoxII) |
+| 14 | Japan ::{ flag=JP }:: | 5 | **6** | ::{ flag=TH }:: **Thailand** | [#1](https://osu.ppy.sh/community/matches/122167144) | [#1](https://www.youtube.com/watch?v=YdxBI-DxN48) |
+| 6 | Russian Federation ::{ flag=RU }:: | 3 | **6** | ::{ flag=DE }:: **Germany** | [#1](https://osu.ppy.sh/community/matches/122167419) | [#1](https://www.youtube.com/watch?v=GYSddZFaoys) |
+| 11 | **Türkiye** ::{ flag=TR }:: | **6** | 3 | ::{ flag=AT }:: Austria | [#1](https://osu.ppy.sh/community/matches/122167451) | [#1](https://www.youtube.com/watch?v=uqc8F8ru6J4) |
+| 16 | Ukraine ::{ flag=UA }:: | 2 | **6** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/122167771) | [#1](https://www.youtube.com/watch?v=lSMjPgvo0_I) |
+| 3 | **Chile** ::{ flag=CL }:: | **6** | 0 | ::{ flag=NO }:: Norway | [#1](https://osu.ppy.sh/community/matches/122168337) | [#1](https://www.youtube.com/watch?v=_y8a7HyjhUg) |
+| 1 | **United States** ::{ flag=US }:: | **6** | 0 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/122168644) | [#1](https://www.youtube.com/watch?v=e37eT1HAbGE) |
+| 12 | **Spain** ::{ flag=ES }:: | **6** | 3 | ::{ flag=AR }:: Argentina | [#1](https://osu.ppy.sh/community/matches/122168642) | [#1](https://www.youtube.com/watch?v=V4lnbwVEOsE) |
+| 4 | **Canada** ::{ flag=CA }:: | **6** | 5 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/122169614) | [#1](https://www.youtube.com/watch?v=zZAtCXrJ0UA) |
 
 ### Group stage
 
@@ -450,7 +450,7 @@ Group H:
 ### Quarterfinals
 
 **[Download the mappack here (223 MB)](https://packs.ppy.sh/P342%20-%20osu%21%20World%20Cup%202026%3A%20Quarterfinals.zip)**\
-[Watch the showcase VOD here](https://www.twitch.tv/videos/2930018249)
+[Watch the showcase VOD here](https://www.youtube.com/watch?v=J0TZLZAHz5o)
 
 - No Mod
   1. [Tokyo Jihen - Sounan (Axarious) \[Normal\]](https://osu.ppy.sh/beatmapsets/1012994#osu/2120381)
@@ -482,7 +482,7 @@ Group H:
 ### Round of 16
 
 **[Download the mappack here (163 MB)](https://packs.ppy.sh/P341%20-%20osu%21%20World%20Cup%202026%3A%20Round%20of%2016.zip)**\
-[Watch the showcase VOD here](https://www.twitch.tv/videos/2923596000)
+[Watch the showcase VOD here](https://www.youtube.com/watch?v=1tMDbOIzXPU)
 
 - No Mod
   1. [BAD NERVES - YOU'VE GOT THE NERVE (steamyhotbun) \[NO WAY\]](https://osu.ppy.sh/beatmapsets/2650741#osu/5991670)
