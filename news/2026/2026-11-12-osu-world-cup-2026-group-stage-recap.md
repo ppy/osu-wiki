@@ -1,17 +1,17 @@
 ---
 layout: post
 title: "osu! World Cup 2026: Group Stage Recap"
-date: 2026-11-12 15:00:00 +0000
+date: 2026-11-17 12:00:00 +0000
 series: world_cups
 ---
 
-top text
+It's that time of the year again. The most anticipated tournament of the year is already in full swing, with the return of the Group Stage providing no shortage of exciting action.
 
 ![](/wiki/shared/news/2026-11-12-osu-world-cup-2026-group-stage-recap/banner.jpg)
 
 The most captivating two weeks of the osu! calendar have once again provided a compelling experience for fans and players alike. In 2025, the Group Stage was reintroduced to the osu! World Cup and instantly proved its worth as the teams taking part fought tooth and nail to the death, seeking the rarefied air of the bracket stage.
 
-A year later, the stage was again set for the marathon that is 48 matches in a single round to excite and amaze. Once the fast and furious set of reschedules were finalized resulting in 22 matches in the final eight hours of the fortnight, it was time for the matches to begin. Who would reach the winners' bracket and set themselves up for their best shot at World Cup glory? Who would battle their way through to the final few slots in the first round of the losers' bracket? Read on to find out!
+A year later, the stage was again set for the marathon that is 48 matches in a two-week stage to excite and amaze. Once the fast and furious set of reschedules were finalized resulting in 22 matches in the final eight hours of the fortnight, it was time for the matches to begin. Who would reach the winners' bracket and set themselves up for their best shot at World Cup glory? Who would battle their way through to the final few slots in the first round of the losers' bracket? Read on to find out!
 
 ## Mappool recap
 
@@ -122,11 +122,11 @@ Last but certainly not least in this group was the Philippines; they came in as 
 | #3 | ::{ flag=DK }:: Denmark | **1** | 2 | 9 | 10 | **-1** | 33 |
 | #4 | ::{ flag=UY }:: Uruguay | **0** | 3 | 6 | 15 | **-9** | 37 |
 
-group e desc
+Usually when a team qualifies for OWC for the first time, people don't expect much of them past their qualification. While this is true most of the time, Saudi Arabia became the exception of that rule with how Group E played out. They lost only six points over the course of their 3 matches, including a stunning [5–1 upset over Türkiye](https://osu.ppy.sh/community/matches/122127961) ([VOD](https://www.youtube.com/watch?v=H4iE_HzcmQQ)), a team that has historically been very successful in early stages. That win all but secured them the top of the group. The race for second came down to the wire between Türkiye and Denmark, but Türkiye was able to remain in front after [defeating the Danes 5–2](https://osu.ppy.sh/community/matches/122134181) ([VOD](https://www.youtube.com/watch?v=EpnHceIcLSs)). Uruguay proved themselves to be great fighters too this year, taking 3 points off both Türkiye and Saudi Arabia, but once again fell short of winning any matches.
 
-**Highlight match:** tbd
+**Highlight match:** [Türkiye vs. Uruguay](https://osu.ppy.sh/community/matches/122096482) ([VOD](https://www.youtube.com/watch?v=uj95jCo0eaI)) is my highlight match of this group mostly because of how insane the final map was in this match. ::{ flag=UY }:: [Alyra](https://osu.ppy.sh/users/11113213) put up a heroic performance on the FM3 to try and drag Uruguay to a tiebreaker against Türkiye, but was shut down at the last second by a strong combo from ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528) on the HR. It was definitely one of the most intense moments in the first weekend!
 
-**Group MVP:** tbd
+**Group MVP:** Surprising absolutely nobody, it's ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528). He played 20 out of 21 maps for Türkiye with an average score of 758,487, landing at the 7th highest performance score out of anyone in the Group Stage. He proved once again why he is considered one of the strongest tournament players in the game.
 
 ### Group F
 
@@ -152,11 +152,11 @@ While the outcome of group F was in line with most people's expectations, nobody
 | #3 | ::{ flag=BE }:: Belgium | **1** | 2 | 9 | 13 | **-4** | 39 |
 | #4 | ::{ flag=CZ }:: Czechia | **0** | 3 | 4 | 15 | **-11** | 35 |
 
-group g desc
+Group G was a two-horse race from start to finish, with neither of the bottom two seeds getting more than two points against either of the top seeds. And you can't really blame Belgium or Czechia for this, since the top seeded teams of Romania and Ukraine have both historically been successful units in the World Cup. Romania was looking to make a statement, with former super-carry ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890) returning to the roster, that they could once again go far in the tournament. Ukraine was also hungry for success this year, since their previous run was derailed by external factors. The stage was set for an eastern European showdown between these two squads, which ended up in favor of Ukraine with a [5–3 scoreline](https://osu.ppy.sh/community/matches/122135435) ([VOD](https://www.youtube.com/watch?v=-bvUhoOjHBY)) and several maps ending up excruciatingly close. This determined the top 2 pairing, but Czechia and Belgium had a [banger matchup of their own](https://osu.ppy.sh/community/matches/122135294) ([VOD](https://www.youtube.com/watch?v=DSTLH0c3SNM)), which Belgium narrowly took 5–3, closing it out on HR2 with only a 59,657 point difference.
 
-**Highlight match:** tbd
+**Highlight match:** [Romania vs. Ukraine](https://osu.ppy.sh/community/matches/122135435) ([VOD](https://www.youtube.com/watch?v=-bvUhoOjHBY)) felt like one of the higher stakes matches to come out of the contender groups. Both squads put up impressive scores, such as the Romanians putting up the 4th highest overall score on NM3, and the Ukrainians closing the match out with the 4th highest overall score on NM4. There were also several close picks to keep everyone on the edge of their seat.
 
-**Group MVP:** tbd
+**Group MVP:** ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890) completely popped off in the Group Stage, with an incredible average score of 838,585, playing 13 out of 21 maps for Romania and scoring the highest single score on NM3.
 
 ### Group H
 
@@ -167,14 +167,16 @@ group g desc
 | #3 | ::{ flag=PT }:: Portugal | **1** | 2 | 8 | 10 | **-2** | 32 |
 | #4 | ::{ flag=PE }:: Peru | **0** | 3 | 5 | 15 | **-10** | 36 |
 
-group h desc
+Group H featured 3 teams duking it out for the 2nd spot in the group, with Portugal, Peru and Singapore all vying for a spot in the bracket stage. Spain were the heavy hitters of Group H, starting with 2 decisive wins against [Singapore](https://osu.ppy.sh/community/matches/122096268) and [Portugal](https://osu.ppy.sh/community/matches/122135723) ([VOD](https://www.youtube.com/watch?v=IVf8MQM8T30)). They had a closer match with [Peru](https://osu.ppy.sh/community/matches/122136450) ([VOD](https://www.youtube.com/watch?v=DbCrUvpgADA)), but ultimately prevailed to secure the top spot after ::{ flag=ES }:: [\[dekori\]](https://osu.ppy.sh/users/17465075) put up 747,207 points on HR1 to close out the match.
 
-**Highlight match:** tbd
+Portugal got off to a strong start by sweeping [Peru](https://osu.ppy.sh/community/matches/122103638) ([VOD](https://www.youtube.com/watch?v=Tlzch8St8tk)), setting the stage to battle it out with Singapore for 2nd place. Despite being the lowest seed in the group, Singapore has had a long history of preforming in the early stages. Ultimately, Portugal couldn't keep up, losing 5–1 to [Singapore](https://osu.ppy.sh/community/matches/122128741) ([VOD](https://www.youtube.com/watch?v=m5tYPQ8-SjI)) with a very strong showing from ::{ flag=SG }:: [hollowknees](https://osu.ppy.sh/users/15195364), leaving just Peru standing between Singapore and the bracket stage. Singapore got off to a strong start, quickly going up 4–0 before Peru fought back to make it 4–2. ::{ flag=SG }:: [Mekeyo](https://osu.ppy.sh/users/10270787) then put up an FC on NM2 to win the match ([VOD](https://www.youtube.com/watch?v=fhohA2RUgVM)) and secure bracket stage for Singapore, making them the only team to get top 2 as the bottom seed in their group. 
 
-**Group MVP:** tbd
+**Highlight match:** Spain vs. Peru ([VOD](https://www.youtube.com/watch?v=DbCrUvpgADA)) was the final match in the group, with Peru looking to play spoiler and give Singapore a shot at first seed with a win. Peru started the match by winning their FM2 pick and followed that up with an incredible 4.1 million team score to breakpoint Spain and go up 2–0. Spain got right back on track, winning the next 4 maps, with ::{ flag=ES }:: [A L E P H](https://osu.ppy.sh/users/6735738) top scoring each one. ::{ flag=PE }:: [Arnold24x24](https://osu.ppy.sh/users/2291265) put up an FC on FM1 with Hidden to keep Peru's hopes alive, before Spain closed out the match 5–3 on HR1, securing the top spot in the group.
+
+**Group MVP:** ::{ flag=ES }:: [A L E P H](https://osu.ppy.sh/users/6735738) was the clear standout of Group H, playing every map for Spain and getting top scores on 11 of the 21 maps played. He had a number of strong scores, including the 3rd and 4th best scores on HR2 and FCs on HD2 and NM5. With a performance score of 2.147, A L E P H was the 14th best player of the Group Stage, always there when Spain needed a bit of extra push to get over the finish line.
 
 ---
 
-The bracket stage begins this weekend with the Round of 16 and losers' bracket round 1, where we are joined by our eight Legends teams that had a free ticket through the Group Stage. Tune in at [osulive](https://www.twitch.tv/osulive), [osulive_2](https://www.twitch.tv/osulive_2) and [osulive_3](https://www.twitch.tv/osulive_3) to catch all of the upcoming action! Make sure to have a look at the [wiki](/wiki/Tournaments/OWC/2026) or [information sheet](https://docs.google.com/spreadsheets/d/136yKaeBtlxHo7o7TQxHflLOw1T67ahn8vF2FTJ0IjFc?rm=minimal) for all schedules and other details, so you don't miss a match. See you all [on the stream](https://www.twitch.tv/osulive)!
+The bracket stage kicked off this past weekend with the Round of 16 and losers' bracket round 1, where we were finally joined by our eight Legends teams after their free ticket through the Group Stage. If you missed any of it, full videos of each match are available on our [YouTube](https://www.youtube.com/@osugamearchive). The action continues this weekend with the Quarterfinals and losers' bracket rounds 2 and 3! Make sure to have a look at the [wiki](/wiki/Tournaments/OWC/2026) or [information sheet](https://docs.google.com/spreadsheets/d/136yKaeBtlxHo7o7TQxHflLOw1T67ahn8vF2FTJ0IjFc?rm=minimal) for all schedules and other details, so you don't miss a match. See you all on stream!
 
-—ChillierPear, Dada, Lightin, M I L E S, shdewz & this1neguy
+—ChillierPear, Dada, I-Flame, Lightin, M I L E S, shdewz & this1neguy
