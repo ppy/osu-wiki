@@ -8,6 +8,8 @@ tags:
   - 支持者
   - 支持者标签
   - 撒泼特
+outdated_translation: true
+outdated_since: 26b4a6dcf86a0df96bed2c328f27ddec739ebd74
 ---
 
 <!--The strings on the website on line 154 have been updated as of https://github.com/ppy/osu-web/pull/9820. To update this page, also check if the corresponding strings on crowdin need to be updated.-->

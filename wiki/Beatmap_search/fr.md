@@ -26,11 +26,11 @@ Par défaut, tout texte saisi à [l'écran de sélection des musiques](/wiki/Cli
 Les champs de métadonnées des beatmap peuvent être comparés à des valeurs spécifiques pour un filtrage plus précis, à l'aide des opérateurs suivants :
 
 | Comparaison | osu!web | osu!(stable) | osu!(lazer) | Description |
-| :-: | :- :| :-: | :-: | :-- |
+| :-: | :-: | :-: | :-: | :-- |
 | `=` | ![Oui][vrai] | ![Oui][vrai] | ![Oui][vrai] | Égale à |
 | `==` | ![Non][faux] | ![Oui][vrai] | ![Non][faux] | Égale à |
 | `:` | ![Oui][vrai] | ![Non][faux] | ![Oui][vrai] | Égale à |
-| `!=` | ![Non][faux] | ![Oui][vrai] | ![Non][faux] | Pas égal à |
+| `!=` | ![Non][faux] | ![Oui][vrai] | ![Oui][vrai] | Pas égal à |
 | `<` | ![Oui][vrai] | ![Oui][vrai] | ![Oui][vrai] | Inférieure à |
 | `>` | ![Oui][vrai] | ![Oui][vrai] | ![Oui][vrai] | Supérieure à |
 | `<=` | ![Oui][vrai] | ![Oui][vrai] | ![Oui][vrai] | Inférieur ou égal à |
