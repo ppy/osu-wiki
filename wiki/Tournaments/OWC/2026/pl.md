@@ -3,6 +3,8 @@ tags:
   - OWC
   - OWC2026
 no_native_review: true
+outdated_translation: true
+outdated_since: 073ebbc7249fe1a19add2f370244baa77d5ca6ed
 ---
 
 # osu! World Cup 2026
