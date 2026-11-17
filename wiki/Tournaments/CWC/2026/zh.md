@@ -3,8 +3,6 @@ tags:
   - CWC
   - CWC2026
   - CWC 2026
-outdated_translation: true
-outdated_since: 8a7b594c0cf746cc93c65f7bdd7a802eae807815
 ---
 
 # osu!catch 世界杯 2026
@@ -128,6 +126,8 @@ osu!catch 世界杯 2026 由多位社区成员组织。
 
 ### 总决赛
 
+可以在[这里](https://docs.google.com/spreadsheets/d/1bXGL0H6CG0x3hFVtXoXvMEnTT9--BwdjwEeD1K4mjvs?rm=minimal)找到本轮比赛的详细统计信息。
+
 2026 年 7 月 11 日 星期六：
 
 | ID | 队伍 A |  |  | 队伍 B | 比赛链接 | 回放链接 |
@@ -141,6 +141,8 @@ osu!catch 世界杯 2026 由多位社区成员组织。
 | 62a | **阿根廷** ::{ flag=AR }:: | **7** | 4 | ::{ flag=PL }:: 波兰 | [#1](https://osu.ppy.sh/community/matches/121500052) | [#1](https://www.twitch.tv/videos/2818377183) |
 
 ### 决赛
+
+可以在[这里](https://docs.google.com/spreadsheets/d/1q8sidhfi-OYZcL7YCpNt057VQkb8NFeca898tzIdkxM?rm=minimal)找到本轮比赛的详细统计信息。
 
 2026 年 7 月 4 日 星期六：
 
@@ -180,6 +182,8 @@ osu!catch 世界杯 2026 由多位社区成员组织。
 | 56 | **阿根廷** ::{ flag=AR }:: | **7** | 3 | ::{ flag=JP }:: 日本 | [#1](https://osu.ppy.sh/community/matches/121414527) | [#1](https://www.twitch.tv/videos/2807472278) |
 
 ### 四分之一决赛
+
+可以在[这里](https://docs.google.com/spreadsheets/d/1lbQ_p44_w4pwO49iLm1CV8LDYl13K7zgcIxWw8NptpE?rm=minimal)找到本轮比赛的详细统计信息。
 
 2026 年 6 月 19 日 星期五：
 
