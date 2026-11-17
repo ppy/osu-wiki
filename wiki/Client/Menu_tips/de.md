@@ -41,7 +41,7 @@ Diese Tipps erscheinen am unteren Rand des [Hauptmenüs](/wiki/Client/Interface#
 - Du kannst überall `F8` drücken, um den In-Game-Chat zu öffnen. Tippe `!help` oder `/help` ein, um eine Übersicht über die [verfügbaren Befehle](/wiki/Client/Interface/Chat_console#liste-an-chatbefehlen) zu erhalten.
 - Lege hin und wieder mal eine Pause ein und gönne deinen Augen und Händen eine Pause. Du könntest sie noch brauchen.
 - Ignoriere [nicht gerankte](/wiki/Beatmap/Category) Maps nicht einfach. Wenn du welche findest, die du magst, und [Verbesserungsvorschläge hinterlässt](/wiki/Modding), erhöhst du die Wahrscheinlichkeit, dass sie [gerankt](/wiki/Beatmap_ranking_procedure) wird!
-- Im [Multiplayer-Modus](/wiki/Client/Interface/Multiplayer) kannst du zusammen mit anderen spielen!
+- Im [Multiplayer-Modus](/wiki/Gameplay/Multiplayer) kannst du zusammen mit anderen spielen!
 - Hast du dich schon mal gefragt, woher die ganzen Spieler kommen? Drücke `F9` und bewege die Maus über ihr User-Panel!
 - Drücke `F5` in der Songauswahl, um neue Lieder in deinem Songs-Ordner zu importieren.
 - Wenn du `Shift` gedrückt hältst, während du mit `F12` einen Screenshot aufnimmst, wird er automatisch ins Internet hochgeladen.

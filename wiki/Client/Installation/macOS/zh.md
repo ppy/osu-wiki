@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 5fe4d3c2895e176f6f46995790db6b1435a3c599
----
-
 # 在 macOS 上安装
 
 这个页面会为你在 macOS 设备上安装 osu! 提供有限的帮助。
@@ -13,7 +8,7 @@ outdated_since: 5fe4d3c2895e176f6f46995790db6b1435a3c599
 
 ## 安装 osu!
 
-macOS 版本的 osu! 可能会出现轻微的显示问题，且游玩性能相对较差。一开始游戏可能无法正常游玩，需要经过细致的调整之后才能适应。若要安装它，请参照以下步骤：
+macOS 版本的 osu! 不再支持在线游玩，可能会出现轻微的显示问题，且游玩性能相对较差。一开始游戏可能无法正常游玩，需要经过细致的调整之后才能适应。若要安装它，请参照以下步骤：
 
 1. 访问[非官方的 Wineskin 下载页面](https://osu.ppy.sh/community/forums/topics/1106057)，下载最新版本的 Wineskin 并解压缩。
 2. 下载[非官方的 osu!macOS Agent tool](https://osu.ppy.sh/community/forums/topics/1036678) 并使用它来修复 `osu!.app` 文件。你也可以：

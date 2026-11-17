@@ -24,7 +24,7 @@ Metadaten von Beatmaps können für eine genauere Filterung über die folgenden 
 | `=` | ![Ja][true] | ![Ja][true] | ![Ja][true] | Gleich |
 | `==` | ![Nein][false] | ![Ja][true] | ![Nein][false] | Gleich |
 | `:` | ![Ja][true] | ![Nein][false] | ![Ja][true] | Gleich |
-| `!=` | ![Nein][false] | ![Ja][true] | ![Nein][false] | Nicht gleich |
+| `!=` | ![Nein][false] | ![Ja][true] | ![Ja][true] | Nicht gleich |
 | `<` | ![Ja][true] | ![Ja][true] | ![Ja][true] | Kleiner als |
 | `>` | ![Ja][true] | ![Ja][true] | ![Ja][true] | Größer als |
 | `<=` | ![Ja][true] | ![Ja][true] | ![Ja][true] | Kleiner als oder gleich |

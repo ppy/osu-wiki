@@ -14,14 +14,12 @@ tags:
   - 模组列表
   - 个人预设
   - 自定义
-outdated_translation: true
-outdated_since: 7948b9f2ca3fe3533b6727d65cb9d514b5c82db7
 ---
 
 # 游戏模组 (lazer)
 
 ::: alert-note
-**注:** 对于该文章的 osu!stable 版本，请见：[游戏模组](/wiki/Gameplay/Game_modifier)
+**注:** 对于该文章的 osu!(stable) 版本，请见：[游戏模组](/wiki/Gameplay/Game_modifier)
 :::
 
 ::: alert-note
@@ -30,7 +28,15 @@ outdated_since: 7948b9f2ca3fe3533b6727d65cb9d514b5c82db7
 
 ![](img/mod-select-ZH.jpg "osu! 游戏模式的模组选择界面")
 
-**游戏模组**（又称**模组**）被分为六类：`降低难度`、`增加难度`、`自动化`、`转换`、`娱乐`与`系统`。其中一些模组能够减少或增加得分倍率。同时使用多个模组时，最终的得分倍率是各模组得分倍率的乘积（如 `1.06x * 1.12x = 1.1872x`）。`系统`类别的模组会按需自动启用。
+**游戏模组**（又称**模组**）被分为六类：`降低难度`、`增加难度`、`自动化`、`转换`、`娱乐`与`系统`。它们对于游玩过程的效果各异，例如调节[谱面](/wiki/Beatmap)中[打击物件](/wiki/Gameplay/Hit_object)的视觉效果，或者是谱面的游玩速度。`系统`类别的模组会按需自动启用。
+
+## 模组倍率
+
+::: alert-note
+**主页面:** [模组倍率 (lazer)](/wiki/Gameplay/Game_modifier/Mod_multiplier_(lazer))
+:::
+
+一些模组能够减少或增加得分倍率。同时使用多个模组时，最终的得分倍率是各模组得分倍率的乘积（如 `1.04x * 1.09x = 1.1336x`）。存在的一些例外，会在受影响的模组文章中指出。
 
 ## 模组列表
 

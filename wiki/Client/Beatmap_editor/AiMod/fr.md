@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 0a9f09e47d80dd57fd7d0637886dc23e0343de9a
 ---
 
 # AiMod

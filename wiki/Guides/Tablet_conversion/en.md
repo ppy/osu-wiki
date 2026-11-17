@@ -22,8 +22,8 @@ osu!(lazer) has the [OpenTabletDriver](https://opentabletdriver.net/) built-in. 
 | :-- | :-- |
 | `Width` | The width of the area in millimetres |
 | `Height` | The height of the area in millimetres |
-| `XOffset` | The X offset of the center of the area in millimetres |
-| `YOffset` | The Y offset of the center of the area in millimetres |
+| `XOffset` | The X offset of the centre of the area in millimetres |
+| `YOffset` | The Y offset of the centre of the area in millimetres |
 | `LPI` | Lines per inch, commonly 5,080 or 2,540 |
 | `TWidth`[^Tablet_Dimensions] | The width of the tablet's digitiser in millimetres |
 | `THeight`[^Tablet_Dimensions] | The height of the tablet's digitiser in millimetres |
@@ -43,12 +43,12 @@ Use the following formulas to compute the values for osu!(lazer)'s OpenTabletDri
 | `Right` | The number of lines from the left side of the tablet to the right side of the area |
 | `Bottom` | The number of lines from the top side of the tablet to the bottom side of the area |
 
-#### Wacom & VEIKK to OpenTabletDriver conversion
+#### Wacom and VEIKK to OpenTabletDriver conversion
 
 ```
-Width = (Right - Left) / LPI * 25.4
-Height = (Bottom - Top) / LPI * 25.4
-XOffset = (Width / 2) + (Left / LPI * 25.4)
+Width   = (Right - Left) / LPI * 25.4
+Height  = (Bottom - Top) / LPI * 25.4
+XOffset = (Width  / 2) + (Left / LPI * 25.4)
 YOffset = (Height / 2) + (Top / LPI * 25.4)
 ```
 

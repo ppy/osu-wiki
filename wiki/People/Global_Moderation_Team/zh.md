@@ -6,6 +6,8 @@ tags:
   - chat mod
   - 管理员
   - 版主
+outdated_translation: true
+outdated_since: e5f0364195b7a422f5889406dbc624eff7ca54a1
 ---
 
 # 全局管理团队 (GMT)
