@@ -2,6 +2,7 @@
 tags:
   - OWC
   - OWC2026
+no_native_review: true
 ---
 
 # osu! World Cup 2026
