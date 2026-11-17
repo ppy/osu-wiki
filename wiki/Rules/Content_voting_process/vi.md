@@ -4,8 +4,8 @@ Nội dung được gửi đến [Người đề cử Beatmap](/wiki/People/Beat
 
 ## Quy trình đánh giá 
 
-1. Một mapper, modder, hoặc thành viên liên quan trong cộng đồng đưa ra những yếu tố trực quan ở một beatmap để xem xét theo [Những cân nhắc về nội dung trực quan](/wiki/Rules/Visual_content_considerations) qua việc gửi báo cáo nội dung tại [website BN](https://bn.mappersguild.com/reports).
-2. Các báo cáo sau đó được NAT và GMT đánh giá[^beatmap-nominators]. Đối với hầu hết mọi tình huống, trừ những tình huống rõ ràng nhất, một "trường hợp nội dung" mới được làm trực tiếp và sẵn sàng bỏ phiếu càng sớm càng tốt. Toàn bộ thành viên của BN, GMT và NAT đều đủ điều kiện để tham gia bỏ phiếu.
+1. Một mapper, modder, hay thành viên trong cộng đồng thấy có vấn đề về yếu tố trực quan nào đó của một beatmap và đưa ra để xem xét theo [Những cân nhắc về nội dung trực quan](/wiki/Rules/Visual_content_considerations) qua việc gửi báo cáo nội dung tại [website BN](https://bn.mappersguild.com/reports).
+2. Các báo cáo sau đó được NAT và GMT đánh giá[^beatmap-nominators]. Trừ những trường hợp quá hiển nhiên, một "trường hợp nội dung" mới sẽ được tạo và mở bỏ phiếu sớm nhất có thể. Toàn bộ thành viên của BN, GMT và NAT đều đủ điều kiện để tham gia bỏ phiếu.
 3. Trong khi cuộc bỏ phiếu đang hoạt động, bất kỳ beatmap nào chứa đựng yếu tố trực quan được đề cập đều không thể đề cử hoặc đủ tư cách. Nếu beatmap đang ở trạng thái đủ tư cách, một yêu cầu sửa đổi sẽ được đăng trong phần thảo luận modding, tạm dừng việc xếp hạng bản đồ cho đến khi cuộc bỏ phiếu kết thúc.
 4. Cuộc bỏ phiếu sẽ kết thúc sau khoảng thời gian 3 ngày mà không có thêm phiếu mới, hoặc đủ 7 ngày kể từ khi cuộc bỏ phiếu bắt đầu, tùy điều kiện nào đến trước đó.
 
@@ -24,7 +24,7 @@ Khi đạt đủ số phiếu yêu cầu, kết quả cuộc bỏ phiếu sẽ l
 
 #### Ví dụ 1
 
-Ultralazer420 cần tìm một hình nền cho beatmap mới của họ mà họ muốn sử dụng, nhưng không chắc chắn liệu nó có được phép hay không. Theo quy trình đã nêu, họ đưa hình ảnh đó lên thành một cuộc bỏ phiếu.
+Ultralazer420 chọn được một hình nền cho beatmap mới của họ, nhưng không chắc chắn liệu nó có được phép hay không. Theo quy trình trên, họ đưa hình ảnh đó lên để bỏ phiếu.
 
 Sau 3 ngày, cuộc bỏ phiếu đã kết thúc và kết quả được đưa ra
 
@@ -32,15 +32,15 @@ Sau 3 ngày, cuộc bỏ phiếu đã kết thúc và kết quả được đưa
 
 Điều này có nghĩa là số phiếu của BN bây giờ được gộp vào tổng số phiếu, và những phiếu đó được sử dụng để quyết định kết quả
 
-Sau khi tính toán số phiếu BN với GMT và NAT, 67% số phiếu chấp nhận hình ảnh là ổn để sử dụng, 33% thì không đồng ý
+Sau khi gộp số phiếu BN với GMT và NAT, 67% người bỏ phiếu chấp nhận hình ảnh là ổn để sử dụng, 33% thì không đồng ý
 
-Vì điều này không đạt ngưỡng 70% cần thiết để hình ảnh được thông qua, hình ảnh đó được xem là không thể chấp nhận và Ultralazer420 được yêu cầu tìm một hình ảnh khác để sử dụng thay thế.
+Vì điều này không đạt ngưỡng 70% cần thiết để hình ảnh được thông qua, hình ảnh đó được xem là không thể chấp nhận và Ultralazer420 được yêu cầu tìm một hình ảnh khác để sử dụng.
 
 #### Ví dụ 2
 
 Một người dùng báo cáo một beatmap đủ tư cách được làm bởi StableStreamer vì họ tin rằng hình nền của beatmap đó là không hợp lệ. Họ báo cáo hình ảnh như quy trình đã nêu ở trên.
 
-Báo cáo đã được GMT và NAT xem xét. Sau khi đạt sự đồng thuận với nhiều ý kiến khác nhau, nội dung hình ảnh được gửi theo quy trình bỏ phiếu và một yêu cầu được đăng trong phần thảo luận beatmap để tạm thời ngăn không cho beatmap được xếp hạng.
+Báo cáo đã được GMT và NAT xem xét. Sau khi không đạt được sự đồng thuận rõ ràng, nội dung hình ảnh đưa vào theo quy trình bỏ phiếu và một đề xuất được đăng trong phần thảo luận beatmap nhằm tạm thời ngăn không cho beatmap được xếp hạng.
 
 Sau 7 ngày, cuộc bỏ phiếu đã kết thúc, 71% phiếu của GMT và NAT đồng ý rằng hình ảnh được chấp nhận, 29% không đồng ý.
 
@@ -50,4 +50,4 @@ Cuộc thảo luận về beatmap đã được giải quyết, và StableStream
 
 ## Ghi chú
 
-[^beatmap-nominators]: [Người đề cử beatmap](/wiki/People/Beatmap_Nominators) gửi nội dung thành cuộc bỏ phiếu có thể bỏ qua quy trình xem xét và bắt đầu một cuộc bỏ phiếu mới ngay lập tức.
+[^beatmap-nominators]: [Người đề cử beatmap](/wiki/People/Beatmap_Nominators) khi tự đưa nội dung lên để bỏ phiếu có thể bỏ qua bước xem xét và bắt đầu một cuộc bỏ phiếu mới ngay lập tức.
