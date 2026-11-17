@@ -1,7 +1,5 @@
 ---
 no_native_review: true
-outdated_translation: true
-outdated_since: 4eca74b4fb7d8adfe715fb20eab415cf787c15fb
 ---
 
 # Opcje
@@ -127,7 +125,7 @@ Jeżeli rozwiniesz listę opcji `Limit klatek`, zobaczysz następujące opcje:
 | `Wybierz rozdzielczość` | Ustawia rozdzielczość klienta gry. Można wybrać jedynie wartości wspierane przez kartę graficzną oraz monitor. | Rozwijane menu |  |
 | `Tryb pełnoekranowy` | Uruchamia grę w trybie pełnoekranowym (zazwyczaj zmniejsza opóźnienie kursora). | Pole wyboru | `Włączone` |
 | `Minimise on alt-tab during fullscreen` | Minimalizuje okno gry po naciśnięciu `Alt` + `Tab`. | Pole wyboru | `Włączone` |
-| `Render at native resolution` | Używa pełnej rozdzielczości ekranu, jednak osu! będzie wyświetlane jedynie w mniejszej części pośrodku. | Pole wyboru | `Włączone` |
+| `Render at native resolution` | Używa pełnej rozdzielczości ekranu, jednak osu! będzie wyświetlane jedynie w mniejszej części pośrodku. | Pole wyboru | `Wyłączone` |
 | `Pozycja pozioma` | Dostosowuje pozycję poziomą w trybie letterboxingu. Dostępne jedynie po zaznaczeniu `Render at native resolution`. | Suwak | `0%` |
 | `Pozycja pionowa` | Dostosowuje pozycję pionową w trybie letterboxingu. Dostępne jedynie po zaznaczeniu `Render at native resolution`. | Suwak | `0%` |
 
