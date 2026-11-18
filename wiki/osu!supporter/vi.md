@@ -17,11 +17,11 @@ Bạn có thể nhận danh hiệu osu!supporter tại [trang cửa hàng osu!su
 ### Huy hiệu trái tim
 
 ::: Infobox
-![](img/userpage.png?20241103 "Profile with osu!supporter")
+![](img/userpage.png?20241103 "Trang cá nhân với osu!supporter")
 :::
 
 ::: Infobox
-![](img/usercard.png?20241022 "User card with osu!supporter")
+![](img/usercard.png?20241022 "Thẻ người dùng có osu!supporter")
 :::
 
 Người ủng hộ sẽ nhận được một huy hiệu có hình trái tim, thường hiển thị bên cạnh tên người dùng của họ trên trang web. Số lượng trái tim phụ thuộc vào tổng thời gian sử dụng osu!supporter mà người dùng đã mua hoặc được tặng<!-- source: https://github.com/ppy/osu-web/blob/ac227d6abbd48630ebbf428c4e3372f388004ee5/app/Models/User.php#L1733-L1750 -->:
@@ -33,7 +33,7 @@ Người ủng hộ sẽ nhận được một huy hiệu có hình trái tim, t
 ### Màu tên người dùng
 
 ::: Infobox
-![](img/chat.png "A person with osu!supporter in the chat")
+![](img/chat.png "Người có trạng thái osu!supporter trong khung chat")
 :::
 
 Tên người dùng của những người đang có gói supporter hoạt động sẽ hiển thị màu vàng sáng trong [khung trò chuyện](/wiki/Client/Interface/Chat_console) đối với những người chơi khác.
@@ -125,7 +125,7 @@ Trong osu!(lazer), người ủng hộ cũng có thể chọn hiển thị hình
 ### Tìm kiếm mở rộng
 
 ::: Infobox
-![](img/beatmap-search.png "Beatmap search page on the website, with two new filters at the bottom")
+![](img/beatmap-search.png "Trang tìm kiếm beatmap trên trang web, với hai bộ lọc mới ở phía dưới")
 :::
 
 Người ủng hộ có quyền truy cập vào bộ lọc [tìm kiếm beatmap](https://osu.ppy.sh/beatmapsets) mở rộng:
@@ -140,7 +140,7 @@ Người ủng hộ có thể truy cập chế độ chơi mạng từ các bả
 ## Thời hạn còn lại
 
 ::: Infobox
-![](img/status.jpg?1 "osu!supporter purchase statistics")
+![](img/status.jpg?1 "Số liệu thống kê mua gói osu!supporter")
 :::
 
 Thời hạn osu!supporter còn lại, cũng như tổng số tiền đóng góp, số lần mua danh hiệu và quà tặng, được hiển thị ở đầu [trang giới thiệu osu!supporter](https://osu.ppy.sh/home/support).
@@ -154,7 +154,7 @@ Sau đó, nhấp vào `Thêm vào giỏ` để thêm danh hiệu supporter vào 
 ### Tặng osu!supporter
 
 ::: Infobox
-![](img/profile-gift-supporter.png "Dropdown menu button on a profile page for gifting someone osu!supporter")
+![](img/profile-gift-supporter.png "Nút menu thả xuống trên trang hồ sơ để tặng gói osu!supporter cho người khác")
 :::
 
 Bạn cũng có thể tặng osu!supporter cho người chơi khác bằng cách nhập tên người dùng của họ bên dưới thẻ người dùng, hoặc nhấp vào `Tặng danh hiệu supporter` trên trang hồ sơ của họ. Bạn có thể thêm nhiều người nhận hơn bằng cách quay lại trang cửa hàng hoặc trang hồ sơ của người khác và lặp lại quy trình trên.
