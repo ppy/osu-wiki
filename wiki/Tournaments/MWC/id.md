@@ -1,6 +1,6 @@
 # osu!mania World Cup
 
-Laman indeks untuk semua seri osu!mania World Cup.
+Halaman indeks untuk semua rangkaian osu!mania World Cup.
 
 ## osu!mania 4K/7K World Cup
 
