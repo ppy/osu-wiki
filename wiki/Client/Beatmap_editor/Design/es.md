@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: bb1e8272b293548e9bc5b82e756e86a6e09a5b3d
----
-
 # Pestaña de diseño
 
 ![Pestaña de diseño](img/SE_base-ES.png "Pestaña de diseño")
@@ -68,7 +63,7 @@ Para las lecturas, **x/y** son las *propias* coordenadas de tu ratón en el beat
 
 Estos **deshabilitarán/habilitarán la visualización de capas.** Si no quieres ver la escena de pass (que siempre está encima de la escena de fail en el editor), desactiva «Pasando» y disfruta de la escena de fallo. Esto es útil cuando quieres ver comandos para los diferentes objetos pero hay algo en el camino.
 
-Todos los interruptores se muestran a continuación:-
+Todos los interruptores se muestran a continuación:
 
 - Fondo
 - Fallando
@@ -77,7 +72,7 @@ Todos los interruptores se muestran a continuación:-
 - Overlay
 - Objetos (desactivado automáticamente)
 
-**Nota:** Objetos > Primer plano > Pasando/Fallando > Fondo, donde «>» bloquea esa capa. Además, cualquier objeto nuevo (que no sea de «Compose») introducido se establece en «Primer plano» de forma predeterminada. Para transferir, arrastra y suelta en la pestaña de la capa deseada.
+**Nota:** Overlay > Objetos > Primer plano > Pasando/Fallando > Fondo, donde «>» bloquea esa capa. Además, cualquier objeto nuevo (que no sea de «Compose») introducido se establece en «Primer plano» de forma predeterminada. Para transferir, arrastra y suelta en la pestaña de la capa deseada.
 
 #### Transformación (basada en el tiempo)
 
@@ -85,7 +80,7 @@ Estos son los comandos usados para tu objeto. Se han implementado cinco de los c
 
 ![Un ejemplo de un objeto sujeto a un movimiento de hacia arriba/abajo y aparición gradual.](img/SE_Move-ES.png "Un ejemplo de un objeto sujeto a un movimiento de hacia arriba/abajo y aparición gradual.")
 
-Para usarlos:-
+Para usarlos:
 
 1. Haz clic en el elemento del storyboard
 2. Selecciona tu transformación (MTDGC)
