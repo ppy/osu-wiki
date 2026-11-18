@@ -1,7 +1,7 @@
 ---
 tags:
-- supporter tag
-- osu!supporter tag
+  - supporter tag
+  - osu!supporter tag
 ---
 
 # osu!supporter
