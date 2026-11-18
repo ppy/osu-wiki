@@ -144,7 +144,7 @@ Các phím tắt này hoạt động ở mọi nơi trong trò chơi:
 
 ## Trình chỉnh sửa beatmap
 
-*Trang chính: [Trình chỉnh sửa beatmap](/wiki/Client/Beatmap_editor)*
+*Trang chính: [Trình chỉnh sửa beatmap](/wiki/Client/trình-chỉnh-sửa-beatmap)*
 
 ### Tổng quát
 
