@@ -85,7 +85,7 @@ osu!direct là công cụ tìm kiếm và tải xuống beatmap ngay trong trò 
 
 ### Bảng xếp hạng mở rộng
 
-Người ủng hộ có quyền truy cập vào nhiều [bảng xếp hạng](/wiki/Beatmap#leaderboards) riêng biệt cho từng beatmap, khả dụng cả trong trò chơi lẫn trên trang web:
+Người ủng hộ có quyền truy cập vào nhiều [bảng xếp hạng](/wiki/Beatmap#các-bảng-xếp-hạng) riêng biệt cho từng beatmap, khả dụng cả trong trò chơi lẫn trên trang web:
 
 - Bảng xếp hạng toàn cầu cho mọi tổ hợp [chế độ điều chỉnh lối chơi](/wiki/Gameplay/Game_modifier)
 - Bảng xếp hạng theo quốc gia của những người chơi mang cùng quốc kỳ
