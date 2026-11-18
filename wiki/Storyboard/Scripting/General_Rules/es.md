@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: ced38568505b6f6352878a6524747fa1ebdf6408
+---
+
 # Reglas generales del storyboarding
 
 ![Un ejemplo de las secuencias de comandos en un archivo .osb.](img/SBS_Base-ES.png "Un ejemplo de las secuencias de comandos en un archivo .osb.")

@@ -20,7 +20,7 @@ tags:
 ![Значок мода Co-op](/wiki/shared/mods/CP.png "Значок мода Co-op (CO)")
 
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*\
-*Не следует путать с [мультиплеером](/wiki/Client/Interface/Multiplayer).*
+*Не следует путать с [мультиплеером](/wiki/Gameplay/Multiplayer).*
 
 ## Краткая информация
 

@@ -125,6 +125,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e99
 
 ### Grand Finals
 
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1bXGL0H6CG0x3hFVtXoXvMEnTT9--BwdjwEeD1K4mjvs?rm=minimal).
+
 Saturday, 11 July 2026:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
@@ -138,6 +140,8 @@ Sunday, 12 July 2026:
 | 62a | **Argentina** ::{ flag=AR }:: | **7** | 4 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/121500052) | [#1](https://www.twitch.tv/videos/2818377183) |
 
 ### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1q8sidhfi-OYZcL7YCpNt057VQkb8NFeca898tzIdkxM?rm=minimal).
 
 Saturday, 4 July 2026:
 

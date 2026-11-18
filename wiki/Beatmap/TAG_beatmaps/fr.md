@@ -13,7 +13,7 @@ tags:
 **Remarque** : A ne pas confondre avec les tags, qui sont une [partie des métadonnées d'une beatmap](/wiki/Client/Beatmap_editor/Song_setup).
 :::
 
-**Les Beatmaps TAG** (ou simplement *TAG*) sont des beatmaps spécialement conçus pour le [mode Tag co-op ou Tag-team VS](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs) dans les [lobby multijoueurs](/wiki/Client/Interface/Multiplayer). Ainsi, ces beatmaps nécessitent souvent un jeu coopératif entre deux joueurs ou plus dans le lobby afin d'être terminés.
+**Les Beatmaps TAG** (ou simplement *TAG*) sont des beatmaps spécialement conçus pour le [mode Tag co-op ou Tag-team VS](/wiki/Gameplay/Multiplayer#tag-co-op-/-tag-team-vs) dans les [lobby multijoueurs](/wiki/Gameplay/Multiplayer). Ainsi, ces beatmaps nécessitent souvent un jeu coopératif entre deux joueurs ou plus dans le lobby afin d'être terminés.
 
 Dans ces modes, chaque joueur est responsable d'une [chaîne de combo](/wiki/Beatmapping/Combo), et tout au long de la musique, les joueurs alternent entre les chaînes de combo. Pour cette raison, les beatmaps TAG sont souvent conçus de manière à ce que les chaînes de combo soient placées très loin les unes des autres, ce qui rend presque impossible le clear de la beatmap par un seul joueur.
 
