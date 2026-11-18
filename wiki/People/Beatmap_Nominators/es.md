@@ -74,7 +74,7 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | ::{ flag=US }:: [Atrue](https://osu.ppy.sh/users/1758523) | Chino |
 | ::{ flag=CA }:: [Aurele](https://osu.ppy.sh/users/654108) | Francés |
 | ::{ flag=US }:: [BeatofIke](https://osu.ppy.sh/users/1103522) |  |
-| ::{ flag=TH }:: [bebe](https://osu.ppy.sh/users/5057420) | Thai |
+| ::{ flag=TH }:: [bebe](https://osu.ppy.sh/users/5057420) | Tailandés |
 | ::{ flag=US }:: [Camo](https://osu.ppy.sh/users/5194391) |  |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) |  |
 | ::{ flag=CL }:: [chr](https://osu.ppy.sh/users/3810322) | Urdu |
