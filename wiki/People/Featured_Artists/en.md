@@ -85,6 +85,7 @@ The [Featured Artist group page](https://osu.ppy.sh/groups/35) lists all such ac
 | ::{ flag=JP }:: [DJ Raisei](https://osu.ppy.sh/users/9892920) | [DJ Raisei](https://osu.ppy.sh/beatmaps/artists/204) |
 | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) | [Doomsday](https://osu.ppy.sh/beatmaps/artists/425) |
 | ::{ flag=KR }:: [Down](https://osu.ppy.sh/users/4694602) | [Down](https://osu.ppy.sh/beatmaps/artists/350) |
+| ::{ flag=EE }:: [dream1x](https://osu.ppy.sh/users/11764140) | [dream1x](https://osu.ppy.sh/beatmaps/artists/576) |
 | ::{ flag=US }:: [Elzy](https://osu.ppy.sh/users/7521394) | [Dvwnpour](https://osu.ppy.sh/beatmaps/artists/503) |
 | ::{ flag=US }:: [erikmcclure](https://osu.ppy.sh/users/19898921) | [Erik McClure](https://osu.ppy.sh/beatmaps/artists/125) |
 | ::{ flag=JP }:: [exsy_nanzya-](https://osu.ppy.sh/users/8937324) | [Exsy](https://osu.ppy.sh/beatmaps/artists/568) |
