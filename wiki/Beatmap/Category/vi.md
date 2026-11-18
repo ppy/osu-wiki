@@ -8,7 +8,7 @@ Các [beatmap](/wiki/Beatmap) sau khi tải lên trực tuyến sẽ được ch
 
 Trạng thái đắp mộ là nơi chứa các beatmap bị [tác giả](/wiki/Beatmap/Beatmap_host) bỏ dở. Các beatmap này không có bảng xếp hạng, nhưng vẫn có thể tải xuống và chơi bình thường, đồng thời vẫn [được tính vào thống kê chơi](#thống-kê-beatmap-chưa-xếp-hạng). Nó sử dụng biểu tượng dấu hỏi (![](/wiki/shared/status/graveyard.png)) trong [màn hình chọn bài hát](/wiki/Client/Interface#màn-hình-chọn-map).
 
-Một beatmap sẽ tự động từ [Đang thực hiện (WIP) và Đang chờ](#wip-and-pending) sang trạng thái đắp mộ nếu không được cập nhật trong vòng 4 tuần. Tác giả có thể khôi phục beatmap (tức là đưa trở lại [Đang chờ](#wip-and-pending)) bằng cách cập nhật qua [hệ thống gửi beatmap](/wiki/Beatmapping/Beatmap_submission). Beatmap nằm trong đắp mộ không được tính vào [giới hạn tổng số beatmap đã tải lên](/wiki/osu!supporter#increased-limits) của mapper, nhưng để khôi phục nó thì cần có một ô Đang chờ trống.
+Một beatmap sẽ tự động từ [Đang thực hiện (WIP) và Đang chờ](#wip-and-pending) sang trạng thái đắp mộ nếu không được cập nhật trong vòng 4 tuần. Tác giả có thể khôi phục beatmap (tức là đưa trở lại [Đang chờ](#wip-and-pending)) bằng cách cập nhật qua [hệ thống gửi beatmap](/wiki/Beatmapping/Beatmap_submission). Beatmap nằm trong đắp mộ không được tính vào [giới hạn tổng số beatmap đã tải lên](/wiki/osu!supporter#increased-limits) {id=increased-limits} của mapper, nhưng để khôi phục nó thì cần có một ô Đang chờ trống.
 
 ### Đang thực hiện và Đang chờ {id=wip-and-pending}
 
