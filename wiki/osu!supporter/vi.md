@@ -91,7 +91,7 @@ Người ủng hộ có quyền truy cập vào nhiều [bảng xếp hạng](/w
 - Bảng xếp hạng theo quốc gia của những người chơi mang cùng quốc kỳ
 - Bảng xếp hạng bạn bè hiển thị vị trí của người chơi trên một beatmap so với bạn bè của họ
 
-### Tăng các giới hạn
+### Tăng các giới hạn {#increased-limits}
 
 osu! cung cấp các giới hạn thoải mái hơn cho nhiều tính năng trực tuyến đối với người ủng hộ:
 
