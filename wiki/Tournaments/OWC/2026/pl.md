@@ -150,40 +150,40 @@ Pełną listę zapisów można znaleźć [tutaj](https://gist.github.com/LeoFLT/
 
 | ID | Drużyna A | Drużyna B | Godzina meczu | Transmisja na Twitchu |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
-| 18 | Nowa Zelandia ::{ flag=NZ }:: | ::{ flag=PH }:: Filipiny | [21 lis. (sob.) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261121T080000&p1=1440&p2=264&p3=145) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 17 | Chiny ::{ flag=CN }:: | ::{ flag=ID }:: Indonezja | [21 lis. (sob.) 09:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261121T093000&p1=1440&p2=33&p3=108) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 24 | Finlandia ::{ flag=FI }:: | ::{ flag=TW }:: Tajwan | [21 lis. (sob.) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261121T110000&p1=1440&p2=101&p3=241) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 23 | Hong Kong ::{ flag=HK }:: | ::{ flag=SE }:: Szwecja | [21 lis. (sob.) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261121T123000&p1=1440&p2=102&p3=239) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 18 | Nowa Zelandia ::{ flag=NZ }:: | ::{ flag=PH }:: Filipiny | [21 lis. (sob.) 05:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261121T053000&p1=1440&p2=264&p3=145) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 17 | Chiny ::{ flag=CN }:: | ::{ flag=ID }:: Indonezja | [21 lis. (sob.) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261121T130000&p1=1440&p2=33&p3=108) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 19 | Federacja Rosyjska ::{ flag=RU }:: | ::{ flag=TR }:: Turcja | [21 lis. (sob.) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261121T140000&p1=1440&p2=166) | [osulive_3](https://twitch.tv/osulive_3) | [^losers-bracket] |
 | 22 | Norwegia ::{ flag=NO }:: | ::{ flag=TH }:: Tajlandia | [21 lis. (sob.) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261121T140000&p1=1440&p2=187&p3=28) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 19 | Federacja Rosyjska ::{ flag=RU }:: | ::{ flag=TR }:: Turcja | [21 lis. (sob.) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261121T153000&p1=1440&p2=166) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 20 | Francja ::{ flag=FR }:: | ::{ flag=ES }:: Hiszpania | [21 lis. (sob.) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261121T170000&p1=1440&p2=195&p3=141) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 21 | Brazylia ::{ flag=BR }:: | ::{ flag=NL }:: Holandia | [21 lis. (sob.) 18:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261121T183000&p1=1440&p2=45&p3=16) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 24 | Finlandia ::{ flag=FI }:: | ::{ flag=TW }:: Tajwan | [21 lis. (sob.) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261121T140000&p1=1440&p2=101&p3=241) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
+| 25b | Chiny ::{ flag=CN }:: | ::{ flag=PH }:: Filipiny | [21 lis. (sob.) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261121T143000&p1=1440&p2=33&p3=145) |  | [^potential-match] |
+| 25d | Indonezja ::{ flag=ID }:: | ::{ flag=PH }:: Filipiny | [21 lis. (sob.) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261121T143000&p1=1440&p2=108&p3=145) |  | [^potential-match] |
+| 23 | Hong Kong ::{ flag=HK }:: | ::{ flag=SE }:: Szwecja | [21 lis. (sob.) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261121T150000&p1=1440&p2=102&p3=239) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 20 | Francja ::{ flag=FR }:: | ::{ flag=ES }:: Hiszpania | [21 lis. (sob.) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261121T180000&p1=1440&p2=195&p3=141) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 21 | Brazylia ::{ flag=BR }:: | ::{ flag=NL }:: Holandia | [21 lis. (sob.) 18:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261121T183000&p1=1440&p2=45&p3=16) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
 | 30 | Chile ::{ flag=CL }:: | ::{ flag=CA }:: Kanada | [21 lis. (sob.) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261121T200000&p1=1440&p2=232&p3=188) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 
 ### Niedziela, 22 listopada 2026 roku
 
 | ID | Drużyna A | Drużyna B | Godzina meczu | Transmisja na Twitchu |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
-| 25a | Chiny ::{ flag=CN }:: | ::{ flag=NZ }:: Nowa Zelandia | [22 lis. (niedz.) 09:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261122T093000&p1=1440&p2=33&p3=264) | *do ustalenia* | [^potential-match] |
-| 25b | Chiny ::{ flag=CN }:: | ::{ flag=PH }:: Filipiny | [22 lis. (niedz.) 09:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261122T093000&p1=1440&p2=33&p3=145) | *do ustalenia* | [^potential-match] |
-| 25c | Indonezja ::{ flag=ID }:: | ::{ flag=NZ }:: Nowa Zelandia | [22 lis. (niedz.) 09:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261122T093000&p1=1440&p2=108&p3=264) | *do ustalenia* | [^potential-match] |
-| 25d | Indonezja ::{ flag=ID }:: | ::{ flag=PH }:: Filipiny | [22 lis. (niedz.) 09:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261122T093000&p1=1440&p2=108&p3=145) | *do ustalenia* | [^potential-match] |
 | 32 | Australia ::{ flag=AU }:: | ::{ flag=KR }:: Korea Południowa | [22 lis. (niedz.) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261122T110000&p1=1440&p2=57&p3=235) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 28a | Hong Kong ::{ flag=HK }:: | ::{ flag=FI }:: Finlandia | [22 lis. (niedz.) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261122T123000&p1=1440&p2=102&p3=101) | *do ustalenia* | [^potential-match] |
-| 28b | Hong Kong ::{ flag=HK }:: | ::{ flag=TW }:: Tajwan | [22 lis. (niedz.) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261122T123000&p1=1440&p2=102&p3=241) | *do ustalenia* | [^potential-match] |
-| 28c | Szwecja ::{ flag=SE }:: | ::{ flag=FI }:: Finlandia | [22 lis. (niedz.) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261122T123000&p1=1440&p2=239&p3=101) | *do ustalenia* | [^potential-match] |
-| 28d | Szwecja ::{ flag=SE }:: | ::{ flag=TW }:: Tajwan | [22 lis. (niedz.) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261122T123000&p1=1440&p2=239&p3=241) | *do ustalenia* | [^potential-match] |
-| 27a | Brazylia ::{ flag=BR }:: | ::{ flag=NO }:: Norwegia | [22 lis. (niedz.) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261122T140000&p1=1440&p2=45&p3=187) | *do ustalenia* | [^potential-match] |
+| 25a | Chiny ::{ flag=CN }:: | ::{ flag=NZ }:: Nowa Zelandia | [22 lis. (niedz.) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261122T120000&p1=1440&p2=33&p3=264) | *do ustalenia* | [^potential-match] |
+| 25c | Indonezja ::{ flag=ID }:: | ::{ flag=NZ }:: Nowa Zelandia | [22 lis. (niedz.) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261122T120000&p1=1440&p2=108&p3=264) | *do ustalenia* | [^potential-match] |
+| 26a | Federacja Rosyjska ::{ flag=RU }:: | ::{ flag=FR }:: Francja | [22 lis. (niedz.) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261122T140000&p1=1440&p2=166&p3=195) | *do ustalenia* | [^potential-match] |
+| 26c | Turcja ::{ flag=TR }:: | ::{ flag=FR }:: Francja | [22 lis. (niedz.) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261122T140000&p1=1440&p3=195) | *do ustalenia* | [^potential-match] |
 | 27b | Brazylia ::{ flag=BR }:: | ::{ flag=TH }:: Tajlandia | [22 lis. (niedz.) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261122T140000&p1=1440&p2=45&p3=28) | *do ustalenia* | [^potential-match] |
 | 27c | Holandia ::{ flag=NL }:: | ::{ flag=NO }:: Norwegia | [22 lis. (niedz.) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261122T140000&p1=1440&p2=16&p3=187) | *do ustalenia* | [^potential-match] |
 | 27d | Holandia ::{ flag=NL }:: | ::{ flag=TH }:: Tajlandia | [22 lis. (niedz.) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261122T140000&p1=1440&p2=16&p3=28) | *do ustalenia* | [^potential-match] |
-| 26a | Federacja Rosyjska ::{ flag=RU }:: | ::{ flag=FR }:: Francja | [22 lis. (niedz.) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261122T153000&p1=1440&p2=166&p3=195) | *do ustalenia* | [^potential-match] |
-| 26b | Federacja Rosyjska ::{ flag=RU }:: | ::{ flag=ES }:: Hiszpania | [22 lis. (niedz.) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261122T153000&p1=1440&p2=166&p3=141) | *do ustalenia* | [^potential-match] |
-| 26c | Turcja ::{ flag=TR }:: | ::{ flag=FR }:: Francja | [22 lis. (niedz.) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261122T153000&p1=1440&p3=195) | *do ustalenia* | [^potential-match] |
+| 27a | Brazylia ::{ flag=BR }:: | ::{ flag=NO }:: Norwegia | [22 lis. (niedz.) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261122T150000&p1=1440&p2=45&p3=187) | *do ustalenia* | [^potential-match] |
+| 28a | Hong Kong ::{ flag=HK }:: | ::{ flag=FI }:: Finlandia | [22 lis. (niedz.) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261122T150000&p1=1440&p2=102&p3=101) | *do ustalenia* | [^potential-match] |
+| 28b | Hong Kong ::{ flag=HK }:: | ::{ flag=TW }:: Tajwan | [22 lis. (niedz.) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261122T150000&p1=1440&p2=102&p3=241) | *do ustalenia* | [^potential-match] |
+| 28c | Szwecja ::{ flag=SE }:: | ::{ flag=FI }:: Finlandia | [22 lis. (niedz.) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261122T150000&p1=1440&p2=239&p3=101) | *do ustalenia* | [^potential-match] |
+| 28d | Szwecja ::{ flag=SE }:: | ::{ flag=TW }:: Tajwan | [22 lis. (niedz.) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261122T150000&p1=1440&p2=239&p3=241) | *do ustalenia* | [^potential-match] |
 | 26d | Turcja ::{ flag=TR }:: | ::{ flag=ES }:: Hiszpania | [22 lis. (niedz.) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261122T153000&p1=1440&p3=141) | *do ustalenia* | [^potential-match] |
+| 26b | Federacja Rosyjska ::{ flag=RU }:: | ::{ flag=ES }:: Hiszpania | [22 lis. (niedz.) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261122T160000&p1=1440&p2=166&p3=141) | *do ustalenia* | [^potential-match] |
 | 31 | Polska ::{ flag=PL }:: | ::{ flag=DE }:: Niemcy | [22 lis. (niedz.) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261122T170000&p1=1440&p2=262&p3=37) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | 29 | Stany Zjednoczone ::{ flag=US }:: | ::{ flag=GB }:: Wielka Brytania | [22 lis. (niedz.) 18:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261122T183000&p1=1440&p2=263&p3=136) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| SC | Półfinały | prezentacja mappoola | [22 lis. (niedz.) 20:30 UTC (szacunkowo)](https://www.timeanddate.com/worldclock/converter.html?iso=20261122T203000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| SC | Półfinały | prezentacja mappoola | [22 lis. (niedz.) 20:00 UTC (szacunkowo)](https://www.timeanddate.com/worldclock/converter.html?iso=20261122T200000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Wyniki meczów
 
@@ -450,7 +450,7 @@ Grupa H:
 
 ### Ćwierćfinały
 
-**[Tutaj pobierzesz paczkę map (223 MB)](https://packs.ppy.sh/P342%20-%20osu%21%20World%20Cup%202026%3A%20Quarterfinals.zip)**\
+**[Tutaj pobierzesz paczkę map (223 MB)](https://packs.ppy.sh/P342%20-%20osu!%20World%20Cup%202026%3A%20Quarterfinals.zip?1794921288)**\
 [Tutaj obejrzysz VOD'a z prezentacji](https://www.youtube.com/watch?v=J0TZLZAHz5o)
 
 - No Mod
@@ -714,7 +714,7 @@ Grupy są uszeregowane malejąco według średnich wyników %MAX z kwalifikacji.
 
 Dla grup Challengers oznacza to, że seedy 1–4 dla fazy pucharowej składają się ze zdobywców 1. miejsca z grup od A do D, podczas gdy 5–8 są odpowiednio zdobywcami 2. miejsca z każdej grupy. Seedy 9–12 będą składać się ze zdobywców 3. miejsca z każdej grupy. Wreszcie seedy 13-16 będą składać się ze zdobywców 4. miejsca z każdej grupy.
 
-Dla grup Contenders seedy 9–12 składają się ze zdobywców 1. miejsca z grup od E do F, podczas gdy 13–16 są odpowiednio zdobywcami 2. miejsca z każdej grupy. Zdobywcy 3. i 4. miejsca z każdej grupy odpadają z turnieju.
+Dla grup Contenders seedy 9–12 składają się ze zdobywców 1. miejsca z grup od E do H, podczas gdy 13–16 są odpowiednio zdobywcami 2. miejsca z każdej grupy. Zdobywcy 3. i 4. miejsca z każdej grupy odpadają z turnieju.
 
 Na przykład, jeśli drużyny z 1. miejsca w grupach A i B osiągną wynik 3-0 z bilansem punktów +15 (3 mecze wygrane 5-0), wyższy seed otrzyma drużyna z grupy A.
 
