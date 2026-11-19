@@ -62,7 +62,7 @@ Khi osu!supporter hết hạn, ảnh bìa vẫn sẽ được giữ nguyên như
 Tương tự như ảnh bìa hồ sơ, người ủng hộ có thể thay đổi màu sắc cho trang hồ sơ của mình:
 
 - Nhấn vào biểu tượng cây bút chì ở góc dưới bên phải của ảnh bìa hồ sơ.
-- Việc điều chỉnh màu sắc hồ sơ sẽ thay đổi màu của hầu hết mọi thứ, bao gồm ảnh bìa, các nút bấm, liên kết và văn bản.
+- Việc điều chỉnh màu sắc hồ sơ sẽ thay đổi màu của hầu hết mọi thứ, bao gồm biểu ngữ, các nút bấm, liên kết và văn bản.
 
 Khi osu!supporter hết hạn, các tùy chỉnh màu sắc vẫn sẽ được giữ nguyên, nhưng chỉ có thể đặt lại về mặc định chứ không thể đổi sang màu khác.
 
