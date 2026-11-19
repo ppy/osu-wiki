@@ -10,7 +10,7 @@ tags:
 
 **osu!supporter** (hoặc ***danh hiệu osu!supporter***) là một danh hiệu tạm thời được trao cho những người chơi ủng hộ osu! bằng cách đóng góp tiền tự nguyện để giúp trò chơi phát triển. Những người ủng hộ sẽ nhận được một số quyền lợi về mặt giao diện và kỹ thuật, hầu hết trong số đó chỉ có hiệu lực khi danh hiệu này đang được kích hoạt. Các tính năng bổ sung từ osu!supporter không mang lại bất kỳ lợi thế nào về lối chơi, hiệu quả hay điểm số, và sẽ không bao giờ như vậy.
 
-Bạn có thể nhận danh hiệu osu!supporter tại [trang cửa hàng osu!supporter](https://osu.ppy.sh/store/products/supporter-tag).
+Bạn có thể nhận thẻ osu!supporter tại [trang cửa hàng osu!supporter](https://osu.ppy.sh/store/products/supporter-tag).
 
 ## Các tính năng
 
