@@ -9,7 +9,6 @@
 - [音频编辑指南](Audio_editing)
 - [更改标题文字](/wiki/Beatmap/Title_text#修改标题文本)
 - [压缩文件](Compressing_files)
-- [自定义打击音效库](Custom_hitsound_library)
 - [自定义音效名称](Custom_sample_overrides)
 - [如何更改谱面的艺术家或标题](Changing_the_artist_or_title)
 - [如何解决谱面提交系统的问题](BSS_issues)
