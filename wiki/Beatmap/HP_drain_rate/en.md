@@ -8,7 +8,7 @@ tags:
 # HP drain rate
 
 ::: alert-note
-**Note:** For the osu!(lazer) version of this article, see: [HP drain rate (lazer)](/wiki/Beatmap/HP_drain_rate_(lazer))
+**Note:** For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see [HP drain rate (lazer)](/wiki/Beatmap/HP_drain_rate_(lazer))
 :::
 
 ::: alert-note

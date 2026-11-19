@@ -9,7 +9,7 @@ tags:
 
 # Bot-Account
 
-Ein **Bot-Account** ist eine spezielle Art eines osu!-Accounts, der von einem automatisierten Dienst anstelle einer realen Person betrieben wird. Auf der Webseite werden Bots mit dem weißen Gruppenabzeichen `BOT` gekennzeichnet und nur die `ich!`-Seite ihres Profils ist sichtbar. Bot-Accounts werden meistens dazu verwendet, "Chatbots" zu hosten, die über [Mehrspieler-Lobbies](/wiki/Client/Interface/Multiplayer) oder private Nachrichten verschiedene Funktionalitäten für die Community bereitstellen.
+Ein **Bot-Account** ist eine spezielle Art eines osu!-Accounts, der von einem automatisierten Dienst anstelle einer realen Person betrieben wird. Auf der Webseite werden Bots mit dem weißen Gruppenabzeichen `BOT` gekennzeichnet und nur die `ich!`-Seite ihres Profils ist sichtbar. Bot-Accounts werden meistens dazu verwendet, "Chatbots" zu hosten, die über [Mehrspieler-Lobbies](/wiki/Gameplay/Multiplayer) oder private Nachrichten verschiedene Funktionalitäten für die Community bereitstellen.
 
 Bot-Accounts können nur über den [Bewerbungsprozess](#einen-bot-account-erstellen) erstellt werden. Der Versuch, einen Bot-Account mit einer normalen Registrierung anzulegen, wird als Multi-Accounting betrachtet und ist gegen die [Community-Regeln](/wiki/Rules#community-regeln).
 

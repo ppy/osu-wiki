@@ -19,7 +19,7 @@ tags:
 :::
 
 ::: alert-note
-**Note:** Not to be confused with [Multiplayer](/wiki/Client/Interface/Multiplayer).
+**Note:** Not to be confused with [Multiplayer](/wiki/Gameplay/Multiplayer).
 :::
 
 ## About

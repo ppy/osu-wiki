@@ -83,7 +83,7 @@ Zakup osu!supportera daje możliwość jednej darmowej zmiany nazwy użytkownika
 osu!direct pozwala na szukanie i pobieranie beatmap bezpośrednio w kliencie gry. Można je otworzyć w menu głównym poprzez kliknięcie przycisku `osu!direct`, który znajduje się po prawej stronie ekranu. osu!direct oferuje również inne sposoby pobierania map bez wychodzenia z gry:
 
 - Linki, które normalnie przekierowują do strony beatmapy w internecie, teraz od razu rozpoczynają pobieranie mapy
-- Automatyczne pobieranie beatmap w poczekalniach [trybu wieloosobowego](/wiki/Client/Interface/Multiplayer) oraz podczas [obserwowania](/wiki/Gameplay/Spectating) innych graczy. Można wyłączyć w [opcjach](/wiki/Client/Options#integracja)
+- Automatyczne pobieranie beatmap w poczekalniach [trybu wieloosobowego](/wiki/Gameplay/Multiplayer) oraz podczas [obserwowania](/wiki/Gameplay/Spectating) innych graczy. Można wyłączyć w [opcjach](/wiki/Client/Options#integracja)
 - Automatyczne zamieszczanie linku do obecnie granej beatmapy na czacie `#spectator`. Można wyłączyć w [opcjach](/wiki/Client/Options#powiadomienia-i-prywatność)
 
 ### Rozszerzone tabele wyników
@@ -104,6 +104,9 @@ osu! oferuje donatorom zwiększone limity różnych funkcji online:
 | Rozmiar zespołu | 8 | `8 + 4 * liczba donatorów w zespole`, aż do **256** |
 | Liczba ulubionych beatmap | 100 | 1000 |
 | Liczba znajomych | 500 | 1000 |
+| Liczba przypiętych wyników na profilu | 10 | 50 |
+| Liczba jednocześnie otwartych gier w trybie asynchronicznym | 1 | 5 |
+| Długość gry asynchronicznej | 14 dni (2 tygodnie) | 93 dni (około 3 miesiące) |
 
 Dodatkowo donatorzy osu! zyskują dostęp do większej szybkości pobierania beatmap.
 
@@ -119,6 +122,8 @@ Posiadanie status donatora osu! daje graczowi możliwość modyfikacji niektóry
 | `seeya.wav` | Dźwięk "see ya next time" odtwarzany przy zamykaniu gry |
 
 Więcej informacji można znaleźć w artykułach [Tworzenie skórek/Interfejs § Menu główne](/wiki/Skinning/Interface#main-menu) oraz [Tworzenie skórek/Dźwięki § Menu główne](/wiki/Skinning/Sounds#main-menu).
+
+W osu!(lazer) donatorzy ponadto mogą wybrać opcję wyświetlania tła lub wideo z obecnie odtwarzanej beatmapy w głównym menu za pośrednictwem opcji `Źródło tła` w ustawieniach.
 
 ### Rozszerzenie wyszukiwarki beatmap
 

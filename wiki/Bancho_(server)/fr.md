@@ -13,7 +13,7 @@ tags:
 
 - Système de tchat, [présence en ligne](/wiki/Client/Interface/Chat_console#la-console-de-tchat-étendue), et [passerelle IRC](/wiki/Community/Internet_Relay_Chat)
 - Mode [spectateur](/wiki/Gameplay/Spectating)
-- [Système de multijoueur](/wiki/Client/Interface/Multiplayer) et [gestion de tournois](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
+- [Système de multijoueur](/wiki/Gameplay/Multiplayer) et [gestion de tournois](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
 
 ::: Infobox
 ![](img/connection-warning.png "Capture d'écran du menu principal avec le symbole indiquant une mauvaise connexion (premier symbole en bas à droite)")
