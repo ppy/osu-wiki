@@ -66,7 +66,9 @@ osu!taiko — игровой режим osu!, основанный на япон
 
 ## Стили игры
 
-*Подробнее см. [Стили игры § osu!taiko](/wiki/Gameplay/Play_style#osu!taiko).*
+::: alert-note
+**Примечание:** Подробнее см. [Стили игры § osu!taiko](/wiki/Gameplay/Play_style#osu!taiko).
+:::
 
 ## Управление
 
@@ -98,7 +100,9 @@ osu!taiko — игровой режим osu!, основанный на япон
 
 ## Скиннинг
 
-*Подробнее см. [Скиннинг osu!taiko](/wiki/Skinning/osu!taiko).*
+::: alert-note
+**Примечание:** Подробнее см. [Скиннинг osu!taiko](/wiki/Skinning/osu!taiko).
+:::
 
 ## Маппинг для osu!taiko
 
