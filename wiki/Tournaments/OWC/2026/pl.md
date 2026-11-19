@@ -714,7 +714,7 @@ Grupy są uszeregowane malejąco według średnich wyników %MAX z kwalifikacji.
 
 Dla grup Challengers oznacza to, że seedy 1–4 dla fazy pucharowej składają się ze zdobywców 1. miejsca z grup od A do D, podczas gdy 5–8 są odpowiednio zdobywcami 2. miejsca z każdej grupy. Seedy 9–12 będą składać się ze zdobywców 3. miejsca z każdej grupy. Wreszcie seedy 13-16 będą składać się ze zdobywców 4. miejsca z każdej grupy.
 
-Dla grup Contenders seedy 9–12 składają się ze zdobywców 1. miejsca z grup od E do F, podczas gdy 13–16 są odpowiednio zdobywcami 2. miejsca z każdej grupy. Zdobywcy 3. i 4. miejsca z każdej grupy odpadają z turnieju.
+Dla grup Contenders seedy 9–12 składają się ze zdobywców 1. miejsca z grup od E do H, podczas gdy 13–16 są odpowiednio zdobywcami 2. miejsca z każdej grupy. Zdobywcy 3. i 4. miejsca z każdej grupy odpadają z turnieju.
 
 Na przykład, jeśli drużyny z 1. miejsca w grupach A i B osiągną wynik 3-0 z bilansem punktów +15 (3 mecze wygrane 5-0), wyższy seed otrzyma drużyna z grupy A.
 
