@@ -22,7 +22,7 @@ Beatmap metadata fields can be compared against specific values for more granula
 | `=` | ![Yes][true] | ![Yes][true] | ![Yes][true] | Equal to |
 | `==` | ![No][false] | ![Yes][true] | ![No][false] | Equal to |
 | `:` | ![Yes][true] | ![No][false] | ![Yes][true] | Equal to |
-| `!=` | ![No][false] | ![Yes][true] | ![No][false] | Not equal to |
+| `!=` | ![No][false] | ![Yes][true] | ![Yes][true] | Not equal to |
 | `<` | ![Yes][true] | ![Yes][true] | ![Yes][true] | Less than |
 | `>` | ![Yes][true] | ![Yes][true] | ![Yes][true] | Greater than |
 | `<=` | ![Yes][true] | ![Yes][true] | ![Yes][true] | Less than or equal to |

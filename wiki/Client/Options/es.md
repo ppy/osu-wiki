@@ -14,7 +14,7 @@ Esta sección trata sobre tu cuenta, configuración de idioma, y actualizaciones
 
 ### Iniciar sesión
 
-Si no has iniciado sesión en el cliente del juego, se abrirá automáticamente el menú de opciones al inicio y se te pedirá que inicies sesión. Puedes ignorar esto presionando `Esc`, haciendo clic en el botón atrás, o navegando al selector canciones. Si no inicias sesión, el cliente del juego te marcará como «Guest» y no podrás obtener puntuaciones en línea, enviar puntuaciones ni jugar [multijugador](/wiki/Client/Interface/Multiplayer).
+Si no has iniciado sesión en el cliente del juego, se abrirá automáticamente el menú de opciones al inicio y se te pedirá que inicies sesión. Puedes ignorar esto presionando `Esc`, haciendo clic en el botón atrás, o navegando al selector canciones. Si no inicias sesión, el cliente del juego te marcará como «Guest» y no podrás obtener puntuaciones en línea, enviar puntuaciones ni jugar [multijugador](/wiki/Gameplay/Multiplayer).
 
 Si eres un invitado, se mostrarán estas opciones:
 

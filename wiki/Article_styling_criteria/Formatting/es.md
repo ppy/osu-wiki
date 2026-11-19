@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: c4f2e9fad13f8f3d44f481a18b5ede0c4ea3ccb7
----
-
 # Formato
 
 ::: alert-note
@@ -625,9 +620,9 @@ Lo siguiente es un ejemplo de ambos estilos en línea:
 Lo siguiente es un ejemplo del estilo de referencia:
 
 ```markdown
-[Modificador del juego][game mods link]
+[Modificador del juego][Enlace de los mods]
 
-[game mods link]: /wiki/Game_modifier
+[Enlace de los mods]: /wiki/Game_modifier
 ```
 
 ---
@@ -691,7 +686,7 @@ Los enlaces wiki que apuntan a una sección de un artículo pueden usar el símb
 
 ```markdown
 ::: alert-note
-**Nota:** Para las reglas de tiempo, véase [Criterios de clasificación § Temporización](/wiki/Ranking_criteria#temporización)
+**Nota:** Para las reglas de temporización, véase [Criterios de clasificación § Temporización](/wiki/Ranking_criteria#temporización)
 :::
 ```
 
@@ -703,9 +698,9 @@ La URL de la barra de direcciones del navegador web debe copiarse tal como está
 
 Todos los nombres de usuario deben estar vinculados en la primera aparición. Otras ocurrencias son opcionales, pero deben ser consistentes a lo largo de todo el artículo para todos los nombres de usuario. Si es difícil determinar la identificación del usuario, se puede omitir.
 
-Al vincular a un perfil de usuario, se debe usar el número identificador del usuario. Usa el nuevo sitio web (`https://osu.ppy.sh/users/{nombre de usuario}`) para obtener el ID del usuario.
+Los enlaces de usuario deben seguir el formato `::{texto_del_enlace}::{ user={id_de_usuario} }`, por ejemplo, `::peppy::{ user=2 }`. El ID de usuario se puede obtener escribiendo `https://osu.ppy.sh/users/{nombre_de_usuario}` en un navegador, lo que redirigirá automáticamente a la URL correcta con el ID de usuario. El texto del enlace puede incluir formato adicional, como **negrita** o *cursiva*.
 
-El texto del enlace de usuario debe ser el nombre actual del usuario.
+El texto del enlace debe ser el nombre actual del usuario. Por lo general, los nombres de usuario no se actualizan cuando un usuario cambia de nombre, sino que se da prioridad a los nombres de usuario que figuraban en el momento de la publicación del artículo.
 
 ##### Dificultades
 
@@ -714,6 +709,8 @@ Siempre que enlace a una sola dificultad, usa este formato como texto del enlace
 ```
 {artista} - {título} ({creador}) [{nombre_de_la_dificultad}]
 ```
+
+[Cuando hay varios creadores](/wiki/Beatmap/Beatmap_collaborations), la sección de creadores puede consistir en una lista de nombres de usuario.
 
 El enlace debe vincular realmente a esa dificultad. Las URL de la dificultad del beatmap deben tener el siguiente formato:
 
@@ -730,6 +727,8 @@ Siempre que enlace a un beatmap, usa este formato como texto del enlace:
 ```
 {artista} - {título} ({creador})
 ```
+
+[Cuando hay varios creadores](/wiki/Beatmap/Beatmap_collaborations), la sección de creadores puede consistir en una lista de nombres de usuario.
 
 Todas las URL de los beatmaps deben tener el siguiente formato:
 

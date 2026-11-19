@@ -20,7 +20,7 @@ tags:
 **Remarque** : Pour la liste complète de tous les mods, voir [modificateurs de jeu](/wiki/Gameplay/Game_modifier)
 :::
 
-*À ne pas confondre avec [Multiplayer](/wiki/Client/Interface/Multiplayer).*
+*À ne pas confondre avec [Multiplayer](/wiki/Gameplay/Multiplayer).*
 
 ## À propos
 

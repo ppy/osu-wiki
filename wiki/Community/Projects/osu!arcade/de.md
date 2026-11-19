@@ -50,5 +50,5 @@ In den folgenden Jahren setzte peppy seine Arbeit an der osu!arcade nicht fort. 
 [^rflan]: [YouTube-Video von Dean Herbert (17.10.2012) "osu!arcade @ RFLAN (highlights #1)"](https://www.youtube.com/watch?v=3RZ0e5QxUj8)
 [^oneup]: [YouTube-Video von Dean Herbert (19.09.2012) "osu!arcade @ OneUp Microcinema"](https://www.youtube.com/watch?v=aIDqzD09Sus)
 [^local-multi]: [Tweet von @ppy (24.08.2012)](https://twitter.com/ppy/status/239027656476213249)
-[^multi-arcade]: [GitHub-Kommentar von peppy (07.05.2026)](https://github.com/ppy/osu-wiki/pull/14697/changes#r3201696782)
+[^multi-arcade]: [GitHub-Kommentar von peppy (07.05.2026)](https://github.com/ppy/osu-wiki/pull/14697#discussion_r3201696782)
 [^conversion]: [Blogbeitrag von peppy (17.12.2012) "This Week in osu!"](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5)
