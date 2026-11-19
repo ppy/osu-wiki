@@ -36,7 +36,7 @@ Người ủng hộ sẽ nhận được một huy hiệu có hình trái tim, t
 ![](img/chat.png "Người có trạng thái osu!supporter trong khung chat")
 :::
 
-Tên người dùng của những người đang có gói supporter hoạt động sẽ hiển thị màu vàng sáng trong [khung trò chuyện](/wiki/Client/Interface/Chat_console) đối với những người chơi khác.
+Tên người dùng của người đang có thẻ supporter hoạt động sẽ hiển thị màu vàng sáng trong [khung trò chuyện](/wiki/Client/Interface/Chat_console) đối với những người chơi khác.
 
 ### Mục hồ sơ có thể chỉnh sửa
 
