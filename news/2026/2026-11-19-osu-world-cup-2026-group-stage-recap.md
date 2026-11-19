@@ -7,7 +7,7 @@ series: world_cups
 
 It's that time of the year again. The most anticipated tournament of the year is already in full swing, with the return of the Group Stage providing no shortage of exciting action.
 
-![](/wiki/shared/news/2026-11-12-osu-world-cup-2026-group-stage-recap/banner.jpg)
+![](/wiki/shared/news/2026-11-19-osu-world-cup-2026-group-stage-recap/banner.jpg)
 
 The most captivating two weeks of the osu! calendar have once again provided a compelling experience for fans and players alike. In 2025, the Group Stage was reintroduced to the osu! World Cup and instantly proved its worth as the teams taking part fought tooth and nail to the death, seeking the rarefied air of the bracket stage.
 
@@ -27,7 +27,7 @@ A year later, the scene was set once again for the marathon that is 48 matches i
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/gB-jf4OaSDc" frameborder="0" allowfullscreen></iframe>
 </div>
 
-![](/wiki/shared/news/2026-11-12-osu-world-cup-2026-group-stage-recap/mappool.png?1)
+![](/wiki/shared/news/2026-11-19-osu-world-cup-2026-group-stage-recap/mappool.png?1)
 
 The Group Stage pool, as a concept, is unique in multiple ways: it's the most-played yet smallest pool in the whole tournament, and the only pool to be played for two whole weekends. By the end of the stage, every player, caster, and many a spectator would get to know the pool better than they know their own house. Every map in the stage was played a dozen or more times, and in a sense, the uniqueness of it is that a lot of the audience gets to know the maps in much more detail than usual, through sheer exposure. To all of those who couldn't catch the matches live, however, here's a quick rundown of some of the more popular maps these past two weeks.
 
@@ -37,7 +37,7 @@ By far the most contested map, when accounting for the sum of bans and picks in 
 
 There was one new [osu! original](/wiki/Community/Bespoke_music) debuting in this year's Group Stage too, made by none other than the legendary osu! player, caster and community figure turned producer, [Doomsday](https://osu.ppy.sh/beatmaps/artists/425)! He blessed this No Mod pool with ZestTea.
 
-[![](/wiki/shared/news/2026-11-12-osu-world-cup-2026-group-stage-recap/zesttea-banner.jpg)](https://osu.ppy.sh/beatmapsets/2643238#osu/5963955)
+[![](/wiki/shared/news/2026-11-19-osu-world-cup-2026-group-stage-recap/zesttea-banner.jpg)](https://osu.ppy.sh/beatmapsets/2643238#osu/5963955)
 
 <div class="osu-md__paragraph">
     <audio controls>
