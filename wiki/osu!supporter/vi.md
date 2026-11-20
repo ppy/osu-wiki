@@ -80,7 +80,7 @@ Việc sở hữu osu!supporter đi kèm với quyền đổi tên người dùn
 osu!direct là công cụ tìm kiếm và tải xuống beatmap ngay trong trò chơi dành riêng cho người ủng hộ. Bạn có thể truy cập tính năng này từ menu chính bằng cách nhấp vào nhãn dọc `osu!direct` ở phía bên phải màn hình. Ngoài danh sách beatmap tích hợp sẵn, osu!direct còn cung cấp các cách khác để tải beatmap mới mà không cần rời khỏi trò chơi:
 
 - Các liên kết beatmap trong khung trò chuyện trỏ đến trang web osu! giờ đây sẽ kích hoạt hộp thoại tải xuống ngay trong trò chơi
-- Tự động tải xuống beatmap khi đang chơi trong phòng [chơi mạng](/wiki/Gameplay/Multiplayer) hoặc [theo dõi](/wiki/Gameplay/Spectating) người chơi khác, dưới dạng một [tùy chọn có thể tắt](/wiki/Client/Options#integration)
+- Tự động tải xuống beatmap khi đang chơi trong phòng [Multiplayer](/wiki/Gameplay/Multiplayer) hoặc [theo dõi](/wiki/Gameplay/Spectating) người chơi khác, dưới dạng một [tùy chọn có thể tắt](/wiki/Client/Options#integration)
 - Tự động gửi liên kết beatmap đang chơi vào kênh trò chuyện `#spectator` cho người theo dõi, dưới dạng một [tùy chọn có thể tắt](/wiki/Client/Options#alerts-and-privacy)
 
 ### Bảng xếp hạng mở rộng
