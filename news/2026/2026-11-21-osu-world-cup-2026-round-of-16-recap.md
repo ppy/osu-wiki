@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu! World Cup 2026: Group Stage Recap"
+title: "osu! World Cup 2026: Round of 16 Recap"
 date: 2026-11-21 15:00:00 +0000
 series: world_cups
 ---
