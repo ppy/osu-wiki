@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 0a9f09e47d80dd57fd7d0637886dc23e0343de9a
----
-
 # AiMod
 
 ![](img/AiMod-ZH.png "AiMod 窗口列出了谱面中的警告和错误。")
@@ -16,7 +11,7 @@ AiMod 的开发进程往往滞后于摸图社区与[谱面上架标准 (RC)](/wi
 ## 标签页
 
 - **全部 (All)：** 聚合其他标签页的项目。
-- **作曲 (Compose)：** 这些一般是物件放置的问题。你可能需要选中“检查间距锁定”(Check distance snap)来显示警告项目（由于取决于谱面大小或长度，这些检查会导致操作卡顿）。
+- **作曲 (Compose)：** 这些一般是物件放置的问题。你可能需要选中`检查间距锁定 (Check distance snap)` 来显示警告项目（由于取决于谱面大小或长度，这些检查会导致操作卡顿）。
 - **设计 (Design)：** 这些一般是界面问题的一部分，比如背景故事板等等。
 - **时间轴测定 (Timing)：** 当出现这类问题时，请检查时间轴，因为可能有什么东西放得不对。
 - **元数据 (Meta)：** 当出现这类问题时，请检查歌曲设置。
@@ -24,7 +19,10 @@ AiMod 的开发进程往往滞后于摸图社区与[谱面上架标准 (RC)](/wi
 
 ## 消息
 
-*注意：花括号里的数字（比如 `{0}`）是数字或词语的占位符。*
+::: alert-notice
+**注意**
+花括号里的数字（比如 `{0}`）是数字或词语的占位符。
+:::
 
 ### 信息
 
@@ -38,12 +36,12 @@ AiMod 的开发进程往往滞后于摸图社区与[谱面上架标准 (RC)](/wi
 
 | 消息 | 解释 | 解决方案 | 注意 |
 | :-- | :-- | :-- | :-- |
-| 建议 Easy/Normal 难度的 HP 值至少为 4。 | *不言而喻* | 打开[歌曲设置](/wiki/Client/Beatmap_editor/Song_setup)页，将难度 (Difficulty) 标签页下的 `HP Drain Rate` 值设为 4 及以上。 | 仅限 ![](/wiki/shared/mode/mania.png) osu!mania 谱面 |
-| 建议 Hard 及以上难度的 HP 值至少为 7。 | *不言而喻* | 打开歌曲设置页，将难度 (Difficulty) 标签页下的 `HP Drain Rate` 值设为 7 及以上。 | 仅限 ![](/wiki/shared/mode/mania.png) osu!mania 谱面 |
-| 建议 OD 值至少为 5。 | *不言而喻* | 打开歌曲设置页，将难度 (Difficulty) 标签页下的 `Overall Difficulty` 值设为 5 及以上。 | 仅限 ![](/wiki/shared/mode/mania.png) osu!mania 谱面。如果有意使用较低的 OD 值，则可忽略此警告。 |
-| 建议滑条极少的图 OD 值至少为 7。 | *不言而喻* | 打开歌曲设置页，将难度 (Difficulty) 标签页下的 `Overall Difficulty` 值设为 7 及以上。 | 仅限 ![](/wiki/shared/mode/mania.png) osu!mania 谱面。如果有意使用较低的 OD 值，则可忽略此警告。 |
-| <!-- 二者均会出现，不确定影响因素 -->建议滑条极少的图 OD 值至少为 8。 | *不言而喻* | 打开歌曲设置页，将难度 (Difficulty) 标签页下的 `Overall Difficulty` 值设为 8 及以上。 | 仅限 ![](/wiki/shared/mode/mania.png) osu!mania 谱面。如果有意使用较低的 OD 值，则可忽略此警告。 |
-| 滑条速度应该是 1.40 或 1.60。 | 此谱面的基本滑条速度值不是 1.40 或 1.60，违反了 [osu!taiko 谱面上架标准](/wiki/Ranking_criteria/osu!taiko)中关于音符间最佳距离的规定。 | 转到 Timing 标签页，将 `Slider Velocity:` 值设置为 1.40 或 1.60。 | 仅限 ![](/wiki/shared/mode/taiko.png) osu!taiko 谱面 |
+| 建议 Easy/Normal 难度的 HP 值至少为 4。 | *不言而喻* | 打开[歌曲设置](/wiki/Client/Beatmap_editor/Song_setup)页，将`难度 (Difficulty)` 标签页下的 `HP Drain Rate` 值设为 4 及以上。 | 仅限 ![](/wiki/shared/mode/mania.png) osu!mania 谱面 |
+| 建议 Hard 及以上难度的 HP 值至少为 7。 | *不言而喻* | 打开歌曲设置页，将`难度 (Difficulty)` 标签页下的 `HP Drain Rate` 值设为 7 及以上。 | 仅限 ![](/wiki/shared/mode/mania.png) osu!mania 谱面 |
+| 建议 OD 值至少为 5。 | *不言而喻* | 打开歌曲设置页，将`难度 (Difficulty)` 标签页下的 `Overall Difficulty` 值设为 5 及以上。 | 仅限 ![](/wiki/shared/mode/mania.png) osu!mania 谱面。如果有意使用较低的 OD 值，则可忽略此警告。 |
+| 建议滑条极少的图 OD 值至少为 7。 | *不言而喻* | 打开歌曲设置页，将`难度 (Difficulty)` 标签页下的 `Overall Difficulty` 值设为 7 及以上。 | 仅限 ![](/wiki/shared/mode/mania.png) osu!mania 谱面。如果有意使用较低的 OD 值，则可忽略此警告。 |
+| <!-- 二者均会出现，不确定影响因素 -->建议滑条极少的图 OD 值至少为 8。 | *不言而喻* | 打开歌曲设置页，将`难度 (Difficulty)` 标签页下的 `Overall Difficulty` 值设为 8 及以上。 | 仅限 ![](/wiki/shared/mode/mania.png) osu!mania 谱面。如果有意使用较低的 OD 值，则可忽略此警告。 |
+| 滑条速度应该是 1.40 或 1.60。 | 此谱面的基本滑条速度值不是 1.40 或 1.60，违反了 [osu!taiko 谱面上架标准](/wiki/Ranking_criteria/osu!taiko)中关于音符间最佳距离的规定。 | 转到时间轴测定标签页，将 `Slider Velocity` 值设置为 1.40 或 1.60。 | 仅限 ![](/wiki/shared/mode/taiko.png) osu!taiko 谱面 |
 
 ### 错误
 
@@ -102,7 +100,7 @@ AiMod 的开发进程往往滞后于摸图社区与[谱面上架标准 (RC)](/wi
 | 消息 | 解释 | 解决方案 | 注意 |
 | :-- | :-- | :-- | :-- |
 | 背景图片尺寸大于 2560x1440。 | *不言而喻* | 调整背景图片尺寸，或者换一张背景图片。 |  |
-| 包含快速闪烁的故事板，可能需要设置闪光警告 (epilepsy warning)。 | 故事板元素变化过快，可能对罹患[光敏癫痫](https://en.wikipedia.org/wiki/Seizure)而不了解此事的玩家有害。 | 启用[歌曲设置 (Song setup) 窗口](/wiki/Client/Beatmap_editor/Song_setup)中设计 (Design) 标签页下的 `Display epilepsy warning (storyboard has quick strobing)` 选项。 |  |
+| 包含快速闪烁的故事板，可能需要设置闪光警告 (epilepsy warning)。 | 故事板元素变化过快，可能对罹患[光敏癫痫](https://en.wikipedia.org/wiki/Seizure)而不了解此事的玩家有害。 | 启用[歌曲设置 (Song setup) 窗口](/wiki/Client/Beatmap_editor/Song_setup)中`设计 (Design)` 标签页下的 `Display epilepsy warning (storyboard has quick strobing)` 选项。 |  |
 | <!-- Not sure how to test this one -->{0} 的尺寸必须为 {1}x{1} 。 | 指定设计元素的尺寸与要求尺寸不一致。 | 将此元素的尺寸调节正确。 |  |
 | 4:3 比例的视频尺寸不能超过 1024x768。 | *不言而喻* | 调整背景视频尺寸或将其替换。 |  |
 | 16:9 比例的视频尺寸不能超过 1280x720。 | *不言而喻* | 调整背景视频尺寸或将其替换。 |  |
@@ -133,40 +131,40 @@ AiMod 的开发进程往往滞后于摸图社区与[谱面上架标准 (RC)](/wi
 
 | 消息 | 解释 | 解决方案 | 注意 |
 | :-- | :-- | :-- | :-- |
-| [堆叠判定值 (Stack leniency)](/wiki/Beatmap/Stack_leniency) 高于 0.9 或低于 0.3。 | [歌曲设置](/wiki/Client/Beatmap_editor/Song_setup)页面中高级 (Advanced) 标签页下的 `Stack Leniency` 滑块对应值小于 3 或大于 9。 | 将 `Stack Leniency` 值设定为 3 到 9 之间。 | 如果有意这样使用堆叠判定值，则可忽略此警告。 |
-| 艺术家名（罗马拼音）包含非 ASCII 字符。 | 歌曲设置页面中常规 (General) 标签页下的 `Romanised Artist` 字段含有[非标准 Unicode 字符](https://baike.baidu.com/item/%E7%BB%9F%E4%B8%80%E7%A0%81)。 | 参照[谱面上架标准中的元数据标准化规则](/wiki/Ranking_criteria/Metadata)为 `Romanised Artist` 字段填写罗马音艺术家名。 |  |
-| 标题名（罗马拼音）包含非 ASCII 字符。 | 歌曲设置页面中常规 (General) 标签页下的 `Romanised Title` 字段含有[非标准 Unicode 字符](https://baike.baidu.com/item/%E7%BB%9F%E4%B8%80%E7%A0%81)。 | 参照[谱面上架标准中的元数据标准化规则](/wiki/Ranking_criteria/Metadata)为 `Romanised Title` 字段填写罗马音标题名。 |  |
-| osu!mania 模式不允许使用倒计时 (countdown)。 | *不言而喻* | 取消勾选歌曲设置页中设计 (Design) 标签页下的 `Enable countdown` 选项。 | 仅限 ![](/wiki/shared/mode/mania.png) osu!mania 谱面 |
-| osu!mania 模式不允许使用黑边 (letterbox)。 | *不言而喻* | 取消勾选歌曲设置页中设计 (Design) 标签页下的 `Letterbox during breaks` 选项。 | 仅限 ![](/wiki/shared/mode/mania.png) osu!mania 谱面 |
-| 太鼓模式不允许使用倒计时 (countdown)。 | *不言而喻* | 取消勾选歌曲设置页中设计 (Design) 标签页下的 `Enable countdown` 选项。 | 仅限 ![](/wiki/shared/mode/taiko.png) osu!taiko 谱面。尽管游戏中存在此警告， osu!taiko 也不支持倒计时，但 AiMod 不会显示此警告。 |
-| 太鼓模式不允许设置闪光警告 (epilepsy warning)。 | *不言而喻* | 取消勾选歌曲设置页中设计 (Design) 标签页下的 `Display epilepsy warning (storyboard has quick strobing)` 选项。 | 仅限 ![](/wiki/shared/mode/taiko.png) osu!taiko 谱面。此警告基于一条已过时的谱面上架标准中的规则，现已被弃用。因此，由于当前的[谱面上架标准](/wiki/Ranking_criteria)要求带有快速闪烁视频或故事板的谱面必须带有闪光警告，可以忽略此警告。 |
-| 太鼓模式不允许使用黑边 (letterbox)。 | *不言而喻* | 取消勾选歌曲设置页中设计 (Design) 标签页下的 `Letterbox during breaks` 选项。 | 仅限 ![](/wiki/shared/mode/taiko.png) osu!taiko 谱面 |
+| [堆叠判定值 (Stack leniency)](/wiki/Beatmap/Stack_leniency) 高于 0.9 或低于 0.3。 | [歌曲设置](/wiki/Client/Beatmap_editor/Song_setup)页面中`高级 (Advanced)` 标签页下的 `Stack Leniency` 滑块对应值小于 3 或大于 9。 | 将 `Stack Leniency` 值设定为 3 到 9 之间。 | 如果有意这样使用堆叠判定值，则可忽略此警告。 |
+| 艺术家名（罗马拼音）包含非 ASCII 字符。 | 歌曲设置页面中`常规 (General)` 标签页下的 `Romanised Artist` 字段含有[非标准 Unicode 字符](https://baike.baidu.com/item/%E7%BB%9F%E4%B8%80%E7%A0%81)。 | 参照[谱面上架标准中的元数据标准化规则](/wiki/Ranking_criteria/Metadata)为 `Romanised Artist` 字段填写罗马音艺术家名。 |  |
+| 标题名（罗马拼音）包含非 ASCII 字符。 | 歌曲设置页面中`常规 (General)` 标签页下的 `Romanised Title` 字段含有[非标准 Unicode 字符](https://baike.baidu.com/item/%E7%BB%9F%E4%B8%80%E7%A0%81)。 | 参照[谱面上架标准中的元数据标准化规则](/wiki/Ranking_criteria/Metadata)为 `Romanised Title` 字段填写罗马音标题名。 |  |
+| osu!mania 模式不允许使用倒计时 (countdown)。 | *不言而喻* | 取消勾选歌曲设置页中`设计 (Design)` 标签页下的 `Enable countdown` 选项。 | 仅限 ![](/wiki/shared/mode/mania.png) osu!mania 谱面 |
+| osu!mania 模式不允许使用黑边 (letterbox)。 | *不言而喻* | 取消勾选歌曲设置页中`设计 (Design)` 标签页下的 `Letterbox during breaks` 选项。 | 仅限 ![](/wiki/shared/mode/mania.png) osu!mania 谱面 |
+| 太鼓模式不允许使用倒计时 (countdown)。 | *不言而喻* | 取消勾选歌曲设置页中`设计 (Design)` 标签页下的 `Enable countdown` 选项。 | 仅限 ![](/wiki/shared/mode/taiko.png) osu!taiko 谱面。尽管游戏中存在此警告， osu!taiko 也不支持倒计时，但 AiMod 不会显示此警告。 |
+| 太鼓模式不允许设置闪光警告 (epilepsy warning)。 | *不言而喻* | 取消勾选歌曲设置页中`设计 (Design)` 标签页下的 `Display epilepsy warning (storyboard has quick strobing)` 选项。 | 仅限 ![](/wiki/shared/mode/taiko.png) osu!taiko 谱面。此警告基于一条已过时的谱面上架标准中的规则，现已被弃用。因此，由于当前的[谱面上架标准](/wiki/Ranking_criteria)要求带有快速闪烁视频或故事板的谱面必须带有闪光警告，可以忽略此警告。 |
+| 太鼓模式不允许使用黑边 (letterbox)。 | *不言而喻* | 取消勾选歌曲设置页中`设计 (Design)` 标签页下的 `Letterbox during breaks` 选项。 | 仅限 ![](/wiki/shared/mode/taiko.png) osu!taiko 谱面 |
 
 #### 图集 (Mapset)
 
 | 消息 | 解释 | 解决方案 | 注意 |
 | :-- | :-- | :-- | :-- |
-| 艺术家 (Unicode artist) 名与 {0} 难度不同。 | [歌曲设置](/wiki/Client/Beatmap_editor/Song_setup)页面中常规 (General) 标签页下，各难度的 `Artist` 字段内容不一致。 | 确保不同难度的 `Artist` 字段内容一致。 |  |
-| 英文 (Romanzied) 的艺术家名与 {0} 难度不同。 | [歌曲设置](/wiki/Client/Beatmap_editor/Song_setup)页面中常规 (General) 标签页下，各难度的 `Romanised Artist` 字段内容不一致。 | 确保不同难度的 `Romanised Artist` 字段内容一致。 |  |
-| 标题 (Unicode title) 名与 {0} 难度不同。 | [歌曲设置](/wiki/Client/Beatmap_editor/Song_setup)页面中常规 (General) 标签页下，各难度的 `Title` 字段内容不一致。 | 确保不同难度的 `Title` 字段内容一致。 |  |
-| 英文 (Romanized) 的标题名与 {0} 难度不同。 | [歌曲设置](/wiki/Client/Beatmap_editor/Song_setup)页面中常规 (General) 标签页下，各难度的 `Romanised Title` 字段内容不一致。 | 确保不同难度的 `Romanised Title` 字段内容一致。 |  |
-| 来源 (Source) 名与 {0} 难度不同。 | [歌曲设置](/wiki/Client/Beatmap_editor/Song_setup)页面中常规 (General) 标签页下，各难度的 `Source` 字段内容不一致。 | 确保不同难度的 `Source` 字段内容一致。 |  |
-| Tags 与 {0} 难度不同。 | [歌曲设置](/wiki/Client/Beatmap_editor/Song_setup)页面中常规 (General) 标签页下，各难度的 `Tags` 字段内容不一致。 | 确保不同难度的 `Tags` 字段内容一致。 |  |
+| 艺术家 (Unicode artist) 名与 {0} 难度不同。 | [歌曲设置](/wiki/Client/Beatmap_editor/Song_setup)页面中`常规 (General)` 标签页下，各难度的 `Artist` 字段内容不一致。 | 确保不同难度的 `Artist` 字段内容一致。 |  |
+| 英文 (Romanzied) 的艺术家名与 {0} 难度不同。 | [歌曲设置](/wiki/Client/Beatmap_editor/Song_setup)页面中`常规 (General)` 标签页下，各难度的 `Romanised Artist` 字段内容不一致。 | 确保不同难度的 `Romanised Artist` 字段内容一致。 |  |
+| 标题 (Unicode title) 名与 {0} 难度不同。 | [歌曲设置](/wiki/Client/Beatmap_editor/Song_setup)页面中`常规 (General)` 标签页下，各难度的 `Title` 字段内容不一致。 | 确保不同难度的 `Title` 字段内容一致。 |  |
+| 英文 (Romanized) 的标题名与 {0} 难度不同。 | [歌曲设置](/wiki/Client/Beatmap_editor/Song_setup)页面中`常规 (General)` 标签页下，各难度的 `Romanised Title` 字段内容不一致。 | 确保不同难度的 `Romanised Title` 字段内容一致。 |  |
+| 来源 (Source) 名与 {0} 难度不同。 | [歌曲设置](/wiki/Client/Beatmap_editor/Song_setup)页面中`常规 (General)` 标签页下，各难度的 `Source` 字段内容不一致。 | 确保不同难度的 `Source` 字段内容一致。 |  |
+| Tags 与 {0} 难度不同。 | [歌曲设置](/wiki/Client/Beatmap_editor/Song_setup)页面中`常规 (General)` 标签页下，各难度的 `Tags` 字段内容不一致。 | 确保不同难度的 `Tags` 字段内容一致。 |  |
 | <!-- 未翻译 -->非继承计时点与 {0} 难度不同。 | 不同难度的非继承计时点（[红线](/wiki/Client/Beatmap_editor/Timing#非继承时间点（红线）)）不一致。 | 确保不同难度的所有非继承时间点位置一致。 |  |
 | 音频文件与 {0} 难度不同。 | 谱面中不同难度使用的 .mp3 文件不一致。 | 确保所有难度使用相同的 .mp3 文件作为基础。 |  |
-| 前奏长度与 {0} 难度不同。 | 不同难度的音频前奏长度不一致。 | 在记事本中分开打开所有难度文件（通过点击 `文件` > `在记事本中打开 .osu 文件`），然后确保所有难度的 `AudioLeadIn:` 值都一致。 | 由于音频前奏长度不再允许手动设置，此警告已被弃用。 |
-| 倒计时设置与 {0} 难度不同。 | [歌曲设置](/wiki/Client/Beatmap_editor/Song_setup)页面中设计 (Design) 标签页下，各难度的 `Enable countdown` 设置不一致。 | 确保所有难度的 `Enable countdown` 设置一致。 |  |
-| 暂停时间的黑边 (letterbox) 设置与 {0} 难度不同。 | [歌曲设置](/wiki/Client/Beatmap_editor/Song_setup)页面中设计 (Design) 标签页下，各难度的 `Letterbox during breaks` 设置不一致。 | 确保所有难度的 `Letterbox during breaks` 设置一致。 |  |
+| 前奏长度与 {0} 难度不同。 | 不同难度的音频前奏长度不一致。 | 在记事本中分开打开所有难度文件（通过点击 `文件` > `在记事本中打开 .osu 文件`），然后确保所有难度的 `AudioLeadIn` 值都一致。 | 由于音频前奏长度不再允许手动设置，此警告已被弃用。 |
+| 倒计时设置与 {0} 难度不同。 | [歌曲设置](/wiki/Client/Beatmap_editor/Song_setup)页面中`设计 (Design)` 标签页下，各难度的 `Enable countdown` 设置不一致。 | 确保所有难度的 `Enable countdown` 设置一致。 |  |
+| 暂停时间的黑边 (letterbox) 设置与 {0} 难度不同。 | [歌曲设置](/wiki/Client/Beatmap_editor/Song_setup)页面中`设计 (Design)` 标签页下，各难度的 `Letterbox during breaks` 设置不一致。 | 确保所有难度的 `Letterbox during breaks` 设置一致。 |  |
 | 音频预览时间与 {0} 难度不同。 | 不同难度的音频预览时间不一致。 | 点击 `Timing` > `把当前位置设为预览点` 来手动设置各个难度的预览点，这样所有难度的预览点都在同一点。 |  |
 | 谱面超出了上传大小限制（最多允许 {0}kb）。 | 压缩的 `.osz` 文件太大了。 | 从谱面文件夹中删除所有未使用的文件，压缩大小臃肿的资源文件（图片、视频、音效等等）。 | 若要了解更多关于 osu! 的上传限制的事情，参见[此文章](/wiki/Beatmapping/Beatmap_submission#限制)。 |
-| <!-- 未翻译 -->此图集需要更低难度。 | *不言而喻* | 为此图集创建更简单的难度。 | 此警告基于一条已过时的谱面上架标准中的规则，现已被弃用。因此，只要谱面遵循当前的[谱面上架标准](/wiki/Ranking_criteria#谱面)，就可以忽略此警告。 |
-| 图集中至少需要一个 Easy/Normal 难度。 | *不言而喻* | 为此图集创建 Easy/Normal 难度。 | 此警告基于一条已过时的谱面上架标准中的规则，现已被弃用。因此，只要谱面遵循当前的[谱面上架标准](/wiki/Ranking_criteria#谱面)，就可以忽略此警告。 |
-| <!-- 未验证 -->此图集在没有 Hard 难度的情况下不可有 Insane 难度。 | *不言而喻* | 为此图集创建 Hard 难度。 | 此警告基于一条已过时的谱面上架标准中的规则，现已被弃用。因此，只要谱面遵循当前的[谱面上架标准](/wiki/Ranking_criteria#谱面)，就可以忽略此警告。 |
-| <!-- 未验证 -->缺失图集难度：{0}。 | *不言而喻* | 创建缺失的难度来填补难度空缺。 | 此警告基于一条已过时的谱面上架标准中的规则，现已被弃用。因此，只要谱面遵循当前的[谱面上架标准](/wiki/Ranking_criteria#谱面)，就可以忽略此警告。 |
-| 图集中至少需要两个 osu! 标准模式的难度。 | *不言而喻* | 为此图集再创建一个难度。 | 仅限 osu! 谱面。此警告基于一条已过时的谱面上架标准中的规则，现已被弃用。因此，只要谱面遵循当前的[谱面上架标准](/wiki/Ranking_criteria/osu!#规定)，就可以忽略此警告。 |
-| 图集中至少需要两个太鼓模式的难度。 | *不言而喻* | 为此图集再创建一个难度。 | 仅限 ![](/wiki/shared/mode/taiko.png) osu!taiko 谱面。此警告基于一条已过时的谱面上架标准中的规则，现已被弃用。因此，只要谱面遵循当前的[谱面上架标准](/wiki/Ranking_criteria/osu!taiko#规定)，就可以忽略此警告。 |
-| 图集中至少需要两个 osu!catch 模式的难度。 | *不言而喻* | 为此图集再创建一个难度。 | 仅限 osu!catch 谱面。此警告基于一条已过时的谱面上架标准中的规则，现已被弃用。因此，只要谱面遵循当前的[谱面上架标准](/wiki/Ranking_criteria/osu!catch#规定)，就可以忽略此警告。 |
-| 图集中至少需要两个 osu!mania 模式的难度。 | *不言而喻* | 为此图集再创建一个难度。 | 仅限 ![](/wiki/shared/mode/mania.png) osu!mania 谱面。此警告基于一条已过时的谱面上架标准中的规则，现已被弃用。因此，只要谱面遵循当前的[谱面上架标准](/wiki/Ranking_criteria/osu!mania#规定)，就可以忽略此警告。 |
+| <!-- 未翻译 -->此图集需要更低难度。 | *不言而喻* | 为此图集创建更简单的难度。 | 此警告基于一条已过时的谱面上架标准中的规则，现已被弃用。因此，只要谱面遵循当前的[谱面上架标准](/wiki/Ranking_criteria#规定.1)，就可以忽略此警告。 |
+| 图集中至少需要一个 Easy/Normal 难度。 | *不言而喻* | 为此图集创建 Easy/Normal 难度。 | 此警告基于一条已过时的谱面上架标准中的规则，现已被弃用。因此，只要谱面遵循当前的[谱面上架标准](/wiki/Ranking_criteria#规定.1)，就可以忽略此警告。 |
+| <!-- 未验证 -->此图集在没有 Hard 难度的情况下不可有 Insane 难度。 | *不言而喻* | 为此图集创建 Hard 难度。 | 此警告基于一条已过时的谱面上架标准中的规则，现已被弃用。因此，只要谱面遵循当前的[谱面上架标准](/wiki/Ranking_criteria#规定.1)，就可以忽略此警告。 |
+| <!-- 未验证 -->缺失图集难度：{0}。 | *不言而喻* | 创建缺失的难度来填补难度空缺。 | 此警告基于一条已过时的谱面上架标准中的规则，现已被弃用。因此，只要谱面遵循当前的[谱面上架标准](/wiki/Ranking_criteria#规定.1)，就可以忽略此警告。 |
+| 图集中至少需要两个 osu! 标准模式的难度。 | *不言而喻* | 为此图集再创建一个难度。 | 仅限 osu! 谱面。此警告基于一条已过时的谱面上架标准中的规则，现已被弃用。因此，只要谱面遵循当前的[谱面上架标准](/wiki/Ranking_criteria/osu!#难度分布)，就可以忽略此警告。 |
+| 图集中至少需要两个太鼓模式的难度。 | *不言而喻* | 为此图集再创建一个难度。 | 仅限 ![](/wiki/shared/mode/taiko.png) osu!taiko 谱面。此警告基于一条已过时的谱面上架标准中的规则，现已被弃用。因此，只要谱面遵循当前的[谱面上架标准](/wiki/Ranking_criteria/osu!taiko#难度分布)，就可以忽略此警告。 |
+| 图集中至少需要两个 osu!catch 模式的难度。 | *不言而喻* | 为此图集再创建一个难度。 | 仅限 osu!catch 谱面。此警告基于一条已过时的谱面上架标准中的规则，现已被弃用。因此，只要谱面遵循当前的[谱面上架标准](/wiki/Ranking_criteria/osu!catch#难度分布)，就可以忽略此警告。 |
+| 图集中至少需要两个 osu!mania 模式的难度。 | *不言而喻* | 为此图集再创建一个难度。 | 仅限 ![](/wiki/shared/mode/mania.png) osu!mania 谱面。此警告基于一条已过时的谱面上架标准中的规则，现已被弃用。因此，只要谱面遵循当前的[谱面上架标准](/wiki/Ranking_criteria/osu!mania#难度分布)，就可以忽略此警告。 |
 
 ## 缺陷
 
