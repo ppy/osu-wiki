@@ -38,7 +38,7 @@ Người ủng hộ sẽ nhận được một huy hiệu có hình trái tim, t
 
 Tên người dùng của người đang có thẻ supporter hoạt động sẽ hiển thị màu vàng sáng trong [khung trò chuyện](/wiki/Client/Interface/Chat_console) đối với những người chơi khác.
 
-### Mục hồ sơ có thể chỉnh sửa
+### Mục hồ sơ có thể tuỳ chỉnh
 
 Người ủng hộ sẽ nhận được một mục hồ sơ mới có tiêu đề `tôi!`, thường được gọi là trang người dùng. Trang người dùng đóng vai trò là không gian cá nhân có thể chỉnh sửa, nơi văn bản được định dạng bằng [BBCode](/wiki/BBCode). Tính năng này là vĩnh viễn và vẫn có thể chỉnh sửa ngay cả sau khi hết hạn osu!supporter.
 
