@@ -58,7 +58,7 @@ Got any questions, or any urgent matters that need to be looked at? Don't hesita
 
 ---
 
-*Header and promotional artwork by finalist [SuperSSun](https://osu.ppy.sh/users/6972778) from the [Winter 2025 Art Contest](https://osu.ppy.sh/community/contests/269)!*
+*Header and promotional artwork by finalist [SuperSSun](https://osu.ppy.sh/users/6972778) from the [Winter 2025 Fanart Contest](https://osu.ppy.sh/community/contests/269)!*
 
 Once your masterpiece is ready, head over to the [Winter 2026 Fanart Contest listing](https://osu.ppy.sh/community/contests/297) and drag-and-drop your entry into the box with the plus sign in it.
 
