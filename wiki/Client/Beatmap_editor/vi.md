@@ -10,7 +10,7 @@
 
 **Trình chỉnh sửa beatmap** là giao diện đồ họa trong trò chơi của osu! dùng để tạo [beatmap](/wiki/Beatmap). [Beatmapping](/wiki/Beatmapping) là quá trình tạo ra các beatmap cho osu!.
 
-Trình chỉnh sửa beatmap được chia thành bốn phần chính hiển thị ở góc trên bên trái của trình chỉnh sửa:
+Trình chỉnh sửa beatmap được chia thành bốn tab, có thể thấy ở góc trên bên trái của trình chỉnh sửa:
 
 - Soạn thảo
 - Thiết kế
@@ -19,11 +19,11 @@ Trình chỉnh sửa beatmap được chia thành bốn phần chính hiển th�
 
 ## Soạn thảo
 
-[Soạn thảo](/wiki/Client/Beatmap_editor/Compose) là nơi tạo ra tất cả các [nốt](/wiki/Gameplay/Hit_object) và các yếu tố liên quan đến lối chơi khác. Vì lý do này, hầu hết các mapper đều dành thời gian ở tab này nhiều hơn tất cả các tab còn lại.
+Tab [Soạn thảo](/wiki/Client/Beatmap_editor/Compose) là nơi tạo ra tất cả các [nốt](/wiki/Gameplay/Hit_object) và các yếu tố liên quan đến lối chơi khác. Hầu hết các mapper dành thời gian ở tab này nhiều nhất.
 
 ## Thiết kế
 
-[Thiết kế](/wiki/Client/Beatmap_editor/Design) cung cấp cách để tạo [storyboard](/wiki/Storyboard), tức các hiệu ứng hình ảnh đi kèm với beatmap. Vì storyboard thường có các hiệu ứng phức tạp đòi hỏi phải sử dụng nhiều câu lệnh storyboard, các mapper cũng thường sử dụng trực tiếp [trình tạo storyboard](/wiki/Storyboard/Scripting) mà không cần mở tab “Thiết kế”.
+Tab [Thiết kế](/wiki/Client/Beatmap_editor/Design) cung cấp cách để tạo [storyboard](/wiki/Storyboard), tức các hiệu ứng hình ảnh đi kèm với beatmap. Vì storyboard thường có các hiệu ứng phức tạp đòi hỏi phải sử dụng nhiều câu lệnh storyboard, các mapper thường [viết mã storyboard](/wiki/Storyboard/Scripting) trực tiếp thay vì dùng tab “Thiết kế”.
 
 ## Căn nhịp
 
