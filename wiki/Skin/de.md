@@ -15,4 +15,4 @@ Skins können entweder [von Grund auf neu erstellt](/wiki/Skinning) oder als ein
 - [Completed Skins Compendium](https://compendium.skinship.xyz/)
 - [Circle People Pro Player Skin Collection](https://circle-people.com/skins/)
 
-Darüber hinaus stellen viele Spieler, auch die hochrangigen, ihre eigenen persönlichen Skins auf ihre [Benutzerseiten](/wiki/osu!supporter#editierbare-profilsektion), in Beschreibungen von YouTube-Videos oder über einen Befehl im Twitch-Chat bereit.
+Darüber hinaus stellen viele Spieler, auch die hochrangigen, ihre eigenen persönlichen Skins auf ihre [Benutzerseiten](/wiki/osu!supporter#editierbarer-profilabschnitt), in Beschreibungen von YouTube-Videos oder über einen Befehl im Twitch-Chat bereit.
