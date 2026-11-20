@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Winter 2026 Fanart Contest
-date: 2026-11-20 17:00:00 +0000
+date: 2026-11-20 17:45:00 +0000
 series: fanart_contests
 ---
 
