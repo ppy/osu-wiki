@@ -25,22 +25,22 @@ Tab [Soạn thảo](/wiki/Client/Beatmap_editor/Compose) là nơi tạo ra tất
 
 Tab [Thiết kế](/wiki/Client/Beatmap_editor/Design) cung cấp cách để tạo [storyboard](/wiki/Storyboard), tức các hiệu ứng hình ảnh đi kèm với beatmap. Vì storyboard thường có các hiệu ứng phức tạp đòi hỏi phải sử dụng nhiều câu lệnh storyboard, các mapper thường [viết mã storyboard](/wiki/Storyboard/Scripting) trực tiếp thay vì dùng tab “Thiết kế”.
 
-## Căn nhịp
+## Timing
 
-[Căn nhịp](/wiki/Client/Beatmap_editor/Timing) quản lý các phân đoạn nhịp điệu của bài hát và điều khiển âm thanh khi chạm nốt của beatmap. Điều này rất quan trọng vì một beatmap cần có nhịp điệu chính xác và phản hồi âm thanh phù hợp để trải nghiệm chơi khớp với tiết tấu của bài hát.
+Tab [Timing](/wiki/Client/Beatmap_editor/Timing) quản lý các điểm căn nhịp của bài hát và điều khiển hitsound của beatmap. Đây là những thứ rất quan trọng vì một beatmap cần được căn nhịp chính xác và có phản hồi âm thanh phù hợp để trải nghiệm chơi khớp với tiết tấu của bài hát.
 
 ## Cài đặt bài hát
 
-[Cài đặt bài hát](/wiki/Client/Beatmap_editor/Song_setup) dùng để điền [siêu dữ liệu](/wiki/Client/Beatmap_editor/Song_setup#general) của beatmap và các thông tin chung khác áp dụng cho toàn bộ [beatmap](/wiki/Beatmap). Thông tin này bao gồm tên bài hát, nghệ sĩ, tên độ khó, màu sắc combo, v.v.
+Tab [Cài đặt bài hát](/wiki/Client/Beatmap_editor/Song_setup) là nơi để điền [siêu dữ liệu](/wiki/Client/Beatmap_editor/Song_setup#general) của beatmap và những thông tin chung mà mọi [beatmap](/wiki/Beatmap) đều có, bao gồm tên bài hát, nghệ sĩ, tên độ khó, màu sắc combo, v.v.
 
 ## Khác
 
 Các thành phần khác của trình chỉnh sửa beatmap bao gồm:
 
 - [AiMod](AiMod): Hệ thống tự động báo cáo các lỗi hoặc vấn đề trong beatmap
-- [Bộ chia nhịp](Beat_snap_divisor): Xác định cách các đối tượng bám vào dòng thời gian
-- [Căn khoảng cách](Distance_snap): Hệ số nhân ảnh hưởng đến việc các đối tượng được đặt gần hay xa nhau
+- [Độ chia nhịp](Beat_snap_divisor): Xác định cách các đối tượng bám vào dòng thời gian
+- [Căn khoảng cách](Distance_snap): Hệ số ảnh hưởng đến khoảng cách giữa các đối tượng khi đặt
 - [Kiai time](/wiki/Gameplay/Kiai_time): Các phân đoạn nhịp điệu đặc biệt giúp nhấn mạnh một phần cao trào của beatmap
 - [Menu](Menu): Giúp bạn điều hướng trong trình chỉnh sửa beatmap
-- [SB load](SB_load): Con số dùng để cho biết mức độ nặng của một storyboard
+- [SB load](SB_load): Chỉ số cho biết mức độ đòi hỏi tài nguyên của storyboard
 - [Dòng thời gian](Timelines): Hiển thị các đối tượng đã đặt, khoảng nghỉ và nhiều thông tin khác
