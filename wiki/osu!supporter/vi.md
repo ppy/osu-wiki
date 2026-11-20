@@ -24,7 +24,7 @@ Bạn có thể nhận thẻ osu!supporter tại [trang cửa hàng osu!supporte
 ![](img/usercard.png?20241022 "Thẻ người dùng có osu!supporter")
 :::
 
-Người ủng hộ sẽ nhận được một huy hiệu có hình trái tim, thường hiển thị bên cạnh tên người dùng của họ trên trang web. Số lượng trái tim phụ thuộc vào tổng thời gian sử dụng osu!supporter mà người dùng đã mua hoặc được tặng<!-- source: https://github.com/ppy/osu-web/blob/ac227d6abbd48630ebbf428c4e3372f388004ee5/app/Models/User.php#L1733-L1750 -->:
+Người ủng hộ sẽ nhận được một huy hiệu có hình trái tim, thường hiển thị bên cạnh tên người dùng của họ trên trang web. Số lượng trái tim phụ thuộc vào tổng thời gian osu!supporter mà người dùng đã mua hoặc được tặng<!-- source: https://github.com/ppy/osu-web/blob/ac227d6abbd48630ebbf428c4e3372f388004ee5/app/Models/User.php#L1733-L1750 -->:
 
 - Dưới 1 năm: 1 trái tim
 - Từ 1 đến 5 năm: 2 trái tim
@@ -83,7 +83,7 @@ osu!direct là công cụ tìm kiếm và tải xuống beatmap ngay trong trò 
 - Tự động tải xuống beatmap khi đang chơi trong phòng [Multiplayer](/wiki/Gameplay/Multiplayer) hoặc [theo dõi](/wiki/Gameplay/Spectating) người chơi khác, dưới dạng một [tùy chọn có thể tắt](/wiki/Client/Options#integration)
 - Tự động gửi liên kết beatmap đang chơi vào kênh trò chuyện `#spectator` cho người theo dõi, dưới dạng một [tùy chọn có thể tắt](/wiki/Client/Options#alerts-and-privacy)
 
-### Bảng xếp hạng mở rộng
+### Bảng xếp hạng bổ sung
 
 Người ủng hộ có quyền truy cập vào một số [bảng xếp hạng](/wiki/Beatmap#các-bảng-xếp-hạng) riêng biệt cho từng beatmap, khả dụng cả trong trò chơi lẫn trên trang web:
 
@@ -122,7 +122,7 @@ Sau khi nhận được osu!supporter, một số yếu tố hình ảnh và âm
 
 Trong osu!(lazer), người ủng hộ cũng có thể chọn hiển thị hình nền hoặc video của beatmap đang phát ở menu chính thông qua tùy chọn `Nguồn hình nền` trong phần cài đặt.
 
-### Tìm kiếm mở rộng
+### Bộ lọc tìm kiếm nâng cao
 
 ::: Infobox
 ![](img/beatmap-search.png "Trang tìm kiếm beatmap trên trang web, với hai bộ lọc mới ở phía dưới")
@@ -147,7 +147,7 @@ Thời hạn osu!supporter còn lại, cũng như tổng số tiền đóng góp
 
 ## Cách nhận osu!supporter
 
-Để nhận osu!supporter, hãy truy cập [trang cửa hàng osu!supporter](https://osu.ppy.sh/store/products/supporter-tag) và điều chỉnh thời hạn của thẻ bằng thanh trượt hoặc các nút chọn số tháng bên dưới. Tất cả giá đều được tính bằng đô la Mỹ (USD) và không bao gồm các khoản phí phát sinh từ hệ thống thanh toán.
+Để nhận osu!supporter, hãy truy cập [trang cửa hàng osu!supporter](https://osu.ppy.sh/store/products/supporter-tag) và chọn thời hạn của thẻ bằng thanh trượt hoặc các nút chọn số tháng bên dưới. Tất cả giá đều được tính bằng đô la Mỹ (USD) và không bao gồm các khoản phí phát sinh từ hệ thống thanh toán.
 
 Sau đó, nhấp vào `Thêm Vào Giỏ Hàng` để thêm thẻ supporter vào giỏ hàng osu!store. Để hoàn tất giao dịch, đi tới [giỏ hàng](https://osu.ppy.sh/store/cart) và nhấp vào `Thanh toán`, sau đó làm theo hướng dẫn trên màn hình.
 
@@ -163,7 +163,7 @@ Người nhận sẽ không được thông báo ai là người đã tặng th�
 
 ### Xác nhận
 
-Sau khi giao dịch hoàn tất, sẽ có một sự kiện mới xuất hiện trong mục `Hoạt động gần đây` trên hồ sơ của cả người tặng và người nhận:
+Sau khi giao dịch hoàn tất, sẽ có một dòng mới xuất hiện trong mục `Hoạt động gần đây` trên hồ sơ của cả người tặng và người nhận:
 
 - `{username} đã ủng hộ osu! - cảm ơn sự hào phóng của bạn!` nếu đây là lần đầu tiên người dùng nhận osu!supporter hoặc tặng nó cho người khác.
 - `{username} lại một lần nữa chọn ủng hộ osu! - cảm ơn sự hào phóng của bạn!` nếu người dùng đã từng là osu!supporter hoặc đã từng tặng trước đó.
