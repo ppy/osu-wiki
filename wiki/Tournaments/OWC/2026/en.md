@@ -186,6 +186,24 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/dc7
 
 ## Match results
 
+### Quarterfinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1p3BRYXycS-tONYVqeobdbmo-YKFjHyL3SG6FXh7Yu-U?rm=minimal).
+
+Saturday, 21 November 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 18 | **New Zealand** ::{ flag=NZ }:: | **6** | 4 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/122192333) | [#1](https://www.youtube.com/watch?v=OcUhRp_U4nw) |
+| 17 | **China** ::{ flag=CN }:: | **6** | 2 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/122193657) | [#1](https://www.youtube.com/watch?v=Vpn2Jg3-bDg) |
+| 19 | **Russian Federation** ::{ flag=RU }:: | **6** | 2 | ::{ flag=TR }:: Türkiye | [#1](https://osu.ppy.sh/community/matches/122193986) | [#1](https://www.youtube.com/watch?v=SRBmEfP2l3o) |
+| 22 | **Norway** ::{ flag=NO }:: | **6** | 3 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/122193973) | [#1](https://www.youtube.com/watch?v=cpBHvXwswho) |
+| 24 | Finland ::{ flag=FI }:: | 0 | **6** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/122194017) | [#1](https://www.youtube.com/watch?v=YKVaHpzZL_4) |
+| 23 | **Hong Kong** ::{ flag=HK }:: | **6** | 3 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/122194333) | [#1](https://www.youtube.com/watch?v=XH9HnZuJVxc) |
+| 20 | **France** ::{ flag=FR }:: | **6** | 2 | ::{ flag=ES }:: Spain | [#1](https://osu.ppy.sh/community/matches/122195296) | [#1](https://www.youtube.com/watch?v=vWQsU5xIDcI) |
+| 21 | **Brazil** ::{ flag=BR }:: | **6** | 5 | ::{ flag=NL }:: Netherlands | [#1](https://osu.ppy.sh/community/matches/122195470) | [#1](https://www.youtube.com/watch?v=bd9MZ3dn9hk) |
+| 30 | **Chile** ::{ flag=CL }:: | **6** | 2 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/122195939) | [#1](https://www.youtube.com/watch?v=zpTg5iKqJKQ) |
+
 ### Round of 16
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1OKR6TSPjh0lIUgyOjpdrRmVQGBEN_vkh2kK8ygWFyZE?rm=minimal).
