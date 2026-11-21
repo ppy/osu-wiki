@@ -142,7 +142,7 @@ Các phím tắt này hoạt động ở mọi nơi trong trò chơi:
 | `8` | Đặt tốc độ phát lại thành 3x. |
 | `9` | Đặt tốc độ phát lại thành 4x. |
 
-## Trình chỉnh sửa beatmap
+## Trình chỉnh sửa beatmap {id=beatmap-editor}
 
 *Trang chính: [Trình chỉnh sửa beatmap](/wiki/Client/Beatmap_editor)*
 
