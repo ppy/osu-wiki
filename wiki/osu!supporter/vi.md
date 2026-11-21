@@ -2,13 +2,15 @@
 tags:
   - supporter tag
   - osu!supporter tag
+  - thẻ supporter
+  - thẻ osu!supporter
 ---
 
 # osu!supporter
 
 [![osu!supporter promotional image](img/supporter-eyecatch.jpg)](https://osu.ppy.sh/home/support)
 
-**osu!supporter** (hoặc ***thẻ osu!supporter***) là một thẻ tạm thời được trao cho những người chơi ủng hộ osu! thông qua hoạt động tình nguyện, quyên góp tiền để giúp trò chơi phát triển hơn. Những người ủng hộ sẽ nhận được một số quyền lợi về mặt giao diện hồ sơ và chức năng, hầu hết trong số đó chỉ có hiệu lực khi thẻ này đang được kích hoạt. Các tính năng bổ sung từ osu!supporter không mang lại bất kỳ lợi thế nào về lối chơi, hiệu quả hay điểm số, và sẽ không bao giờ như vậy.
+**osu!supporter** (hoặc ***thẻ osu!supporter***) là một danh hiệu tạm thời được trao cho những người chơi đã ủng hộ osu! bằng cách quyên góp tiền một cách tự nguyện nhằm giúp osu! phát triển. Những người ủng hộ sẽ nhận được một số quyền lợi về mặt giao diện hồ sơ và chức năng, hầu hết trong số đó chỉ có hiệu lực khi thẻ này đang được kích hoạt. Các tính năng bổ sung từ osu!supporter không mang lại bất kỳ lợi thế nào về lối chơi, hiệu quả hay điểm số, và sẽ không bao giờ như vậy.
 
 Bạn có thể nhận thẻ osu!supporter tại [trang cửa hàng osu!supporter](https://osu.ppy.sh/store/products/supporter-tag).
 
@@ -24,7 +26,7 @@ Bạn có thể nhận thẻ osu!supporter tại [trang cửa hàng osu!supporte
 ![](img/usercard.png?20241022 "Thẻ người dùng có osu!supporter")
 :::
 
-Người ủng hộ sẽ nhận được một huy hiệu có hình trái tim, thường hiển thị bên cạnh tên người dùng của họ trên trang web. Số lượng trái tim phụ thuộc vào tổng thời gian osu!supporter mà người dùng đã mua hoặc được tặng<!-- source: https://github.com/ppy/osu-web/blob/ac227d6abbd48630ebbf428c4e3372f388004ee5/app/Models/User.php#L1733-L1750 -->:
+Người ủng hộ sẽ nhận được một huy hiệu có hình trái tim, thường hiển thị bên cạnh tên người dùng của họ trên trang web. Số lượng trái tim phụ thuộc vào tổng thời gian osu!supporter mà người dùng đã nhận được<!-- source: https://github.com/ppy/osu-web/blob/ac227d6abbd48630ebbf428c4e3372f388004ee5/app/Models/User.php#L1733-L1750 -->:
 
 - Dưới 1 năm: 1 trái tim
 - Từ 1 đến 5 năm: 2 trái tim
@@ -87,7 +89,7 @@ osu!direct là công cụ tìm kiếm và tải xuống beatmap ngay trong trò 
 
 Người ủng hộ có quyền truy cập vào một số [bảng xếp hạng](/wiki/Beatmap#các-bảng-xếp-hạng) riêng biệt cho từng beatmap, khả dụng cả trong trò chơi lẫn trên trang web:
 
-- Bảng xếp hạng toàn cầu cho mọi tổ hợp [bản mod điều chỉnh lối chơi](/wiki/Gameplay/Game_modifier)
+- Bảng xếp hạng toàn cầu cho mọi tổ hợp [mod](/wiki/Gameplay/Game_modifier)
 - Bảng xếp hạng người chơi theo quốc gia.
 - Bảng xếp hạng bạn bè hiển thị thứ hạng của người chơi trên beatmap so với bạn bè của họ
 
@@ -97,7 +99,7 @@ osu! cung cấp các giới hạn thoải mái hơn cho nhiều tính năng tr�
 
 | Thông số | Giới hạn thường | Giới hạn osu!supporter |
 | :-- | :-: | :-: |
-| [Beatmap đang chờ duyệt](/wiki/Beatmap/Category#wip-and-pending) | `4 + tối thiểu(beatmap đã xếp hạng, 4)`, tối đa **8**[^pending-beatmaps-ref] | `8 + tối thiểu(beatmap đã xếp hạng, 12)`, tối đa **20**[^pending-beatmaps-ref] |
+| [Beatmap Đang chờ](/wiki/Beatmap/Category#wip-and-pending) | `4 + min(số beatmap đã xếp hạng, 4)`, tối đa **8**[^pending-beatmaps-ref] | `8 + min(số beatmap đã xếp hạng, 12)`, tối đa **20**[^pending-beatmaps-ref] |
 | Quy mô đội | 8 | `8 + 4 * số supporter trong đội` tối đa **256** |
 | Beatmap yêu thích trực tuyến | 100 | 1000 |
 | Số lượng bạn bè | 500 | 1000 |
@@ -133,9 +135,9 @@ Người ủng hộ có quyền truy cập vào bộ lọc [tìm kiếm beatmap]
 - Các beatmap đã chơi (hoặc chưa chơi)
 - Các beatmap đã đạt được điểm số với một mức [xếp hạng](/wiki/Gameplay/Grade) nhất định
 
-### Chơi mạng trên các bản dựng thử nghiệm của osu!
+### Chơi multiplayer trên các bản dựng thử nghiệm của osu!
 
-Người ủng hộ có thể truy cập chế độ chơi mạng từ các bản dựng thuộc nhánh phát hành trải nghiệm sớm "cutting edge".
+Người ủng hộ có thể truy cập chế độ multiplayer từ các bản dựng thuộc nhánh phát hành trải nghiệm sớm "cutting edge".
 
 ## Thời hạn còn lại
 
@@ -157,7 +159,7 @@ Sau đó, nhấp vào `Thêm Vào Giỏ Hàng` để thêm thẻ supporter vào 
 ![](img/profile-gift-supporter.png "Nút menu thả xuống trên trang hồ sơ để tặng gói osu!supporter cho người khác")
 :::
 
-Bạn cũng có thể tặng osu!supporter cho người chơi khác bằng cách nhập tên người dùng của họ bên dưới thẻ người dùng, hoặc nhấp vào `Tặng danh hiệu supporter` trên trang hồ sơ của họ. Bạn có thể thêm nhiều người nhận hơn bằng cách quay lại trang cửa hàng hoặc trang hồ sơ của người khác và lặp lại quy trình trên.
+Bạn cũng có thể tặng osu!supporter cho người chơi khác bằng cách nhập tên người dùng của họ bên dưới thẻ người dùng, hoặc nhấp vào `Tặng thẻ supporter` trên trang hồ sơ của họ. Bạn có thể thêm nhiều người nhận hơn bằng cách quay lại trang cửa hàng hoặc trang hồ sơ của người khác và lặp lại quy trình trên.
 
 Người nhận sẽ không được thông báo ai là người đã tặng thẻ cho họ, nhưng khi tặng osu!supporter, bạn có thể đính kèm một lời nhắn để gửi cùng với email thông báo tới họ.
 
