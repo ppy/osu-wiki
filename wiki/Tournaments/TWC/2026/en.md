@@ -221,7 +221,7 @@ Friday, 27 March 2026:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| 12 | **Taiwan** ::{ flag=TW }:: | **5** | 2 | ::{ flag=NO }:: Norway | [#1](https://osu.ppy.sh/community/matches/120807946) | [#1](https://www.twitch.tv/videos/2732987093) |
+| 2 | **Taiwan** ::{ flag=TW }:: | **5** | 2 | ::{ flag=NO }:: Norway | [#1](https://osu.ppy.sh/community/matches/120807946) | [#1](https://www.twitch.tv/videos/2732987093) |
 
 Saturday, 28 March 2026:
 
