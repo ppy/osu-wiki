@@ -11,11 +11,11 @@ series: featured_artists
 
 When you combine **Fujiyori**'s multi-genre production capabilities with support from renowned vocalists across the doujin music scene, you shouldn't be surprised to hear something awe-inspiring.
 
-**Fujiyori** (also known as *planless*) is an expert in crafting cutesy electro pop, heavy metalcore, and essentially anything in-between. Here on osu! though, **Fujiyori**'s featured music draws clear influence from the Japanese doujin sphere.
+**Fujiyori** (also known as *planless*) is an expert in crafting cutesy electro pop, heavy metalcore and essentially anything in-between. Here on osu! though, **Fujiyori**'s featured music draws clear influence from the Japanese doujin sphere.
 
 Pre-timed beatmap templates for **5** songs are ready for mapping from [**Fujiyori**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/579).
 
-Some might recognize **Fujiyori**/*planless* from a number of mobile rhythm games like *Cytus II*, *Rotaeno*, *Ellia*, and *Lanota*. Future generations, however, will start recognizing **Fujiyori** as one of osu!'s Featured Artists, especially thanks to these foundational maps:
+Some might recognise **Fujiyori**/*planless* from a number of mobile rhythm games like *Cytus II*, *Rotaeno*, *Ellia* and *Lanota*. Future generations, however, will start recognising **Fujiyori** as one of osu!'s Featured Artists, especially thanks to these foundational maps:
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
