@@ -74,7 +74,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### July
 
-- **2010-07-24:** The first iteration of the [Community Mentorship Program](/wiki/Community/Community_Mentorship_Program#earlier-mentoring-programs) was launched.
+- **2010-07-24:** The first iteration of the [Community Mentorship Program](/wiki/Community/Community_Mentorship_Program#2010-2013) was launched.
   - Users could apply to learn about mapping and modding directly from volunteer MAT and BAT members.
   - The program was discontinued in 2013.<!-- https://osu.ppy.sh/community/forums/topics/34111 + https://osu.ppy.sh/community/forums/topics/34194 -->
 
