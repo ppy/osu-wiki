@@ -9,8 +9,6 @@ tags:
   - rango
   - s plateada
   - ss plateada
-outdated_translation: true
-outdated_since: 2788a3f6df7033581be0ea0338399f41a84a6daf
 ---
 
 # Grado
@@ -19,7 +17,7 @@ outdated_since: 2788a3f6df7033581be0ea0338399f41a84a6daf
 **Nota:** [Rango (desambiguación)](/wiki/Disambiguation/Rank).
 :::
 
-Las **grados** son un conjunto de letras que representan el rendimiento de un jugador en un [beatmap](/wiki/Beatmap) dado. Acompañan a la [puntuación](/wiki/Gameplay/Score) total en la pantalla de resultados y aparecen en todas las listas junto a las puntuaciones.
+Las **grados** son un conjunto de letras que representan el rendimiento de un jugador en un [beatmap](/wiki/Beatmap) dado. Aparecen junto a la [puntuación](/wiki/Gameplay/Score) total del jugador en la pantalla de resultados, así como en diversas [tablas de clasificación](/wiki/Ranking) junto a las puntuaciones de los jugadores.
 
 De menor a mayor, los grados posibles son D, C, B, A, S y SS. Los grados Silver S y SS solo se pueden lograr cuando se usan los modificadores del juego [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) o [Fade In](/wiki/Gameplay/Game_modifier/Fade_In).
 

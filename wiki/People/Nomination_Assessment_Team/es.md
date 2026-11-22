@@ -2,8 +2,6 @@
 tags:
   - NAT
   - equipo de evaluación de nominaciones
-outdated_translation: true
-outdated_since: e5f0364195b7a422f5889406dbc624eff7ca54a1
 ---
 
 # Nomination Assessment Team
@@ -101,13 +99,6 @@ Una vez que un miembro del NAT decide dejar el equipo de forma amistosa, se le p
 - **osu!supporter**: Los miembros recibirán una etiqueta osu!supporter que durará el doble del tiempo que pasaron en el NAT, con las mismas condiciones que los osu! Alumni.
 - **Acceso interno**: En casos especiales, a los miembros se les puede otorgar acceso continuo al canal de discusión del NAT interno dependiendo de sus contribuciones pasadas y la probabilidad de que tengan un impacto positivo en discusiones futuras. Este privilegio puede revocarse si el miembro está inactivo en las discusiones o está causando problemas.
 
-Los antiguos miembros del NAT que actualmente tienen acceso interno son:
-
-- ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083)
-- ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882)
-- ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
-- ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926)
-
 ## Liderazgo del NAT
 
 A partir de marzo de 2023, el NAT decidió volver a adoptar el concepto de liderazgo, que [se usaba anteriormente](/wiki/People/Quality_Assurance_Team/QAT_Leaders) en el [QAT](/wiki/People/Quality_Assurance_Team). El líder del NAT tiene la responsabilidad de ambas categorías, la de evaluación y la de estructural, por lo que puede supervisar y participar en todos los aspectos del NAT.
@@ -143,17 +134,18 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 | ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | Italiano |
 | ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548) |  |
 | ::{ flag=FI }:: [Asphyxia](https://osu.ppy.sh/users/1715720) | Finés |
-| ::{ flag=SE }:: [byd](https://osu.ppy.sh/users/6398464) | Sueco |
-| ::{ flag=TH }:: [Electoz](https://osu.ppy.sh/users/6485263) | Tailandés |
-| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Neerlandés |
-| ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | Finés |
-| ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
-| ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Chino |
-| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | Francés, español |
-| ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516) | Chino |
 | ::{ flag=RO }:: [bsm](https://osu.ppy.sh/users/12366071) | Rumano |
+| ::{ flag=SE }:: [byd](https://osu.ppy.sh/users/6398464) | Sueco |
+| ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334) |  |
+| ::{ flag=TH }:: [Electoz](https://osu.ppy.sh/users/6485263) | Tailandés |
+| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Alemán |
+| ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Chino |
+| ::{ flag=TW }:: [Mameko](https://osu.ppy.sh/users/9834516) | Chino |
+| ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812) | Alemán |
+| ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Ruso |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
-| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | Alemán |
+| ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853) | Chino |
+| ::{ flag=NL }:: [Syph](https://osu.ppy.sh/users/4858573) | Neerlandés |
 
 #### osu!taiko
 
@@ -170,7 +162,6 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
 | ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136) | Alemán |
-| ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | Coreano |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | Coreano |
 
 #### osu!mania
@@ -179,10 +170,11 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 | :-- | :-- |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamita |
 | ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | Español |
+| ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699) |  |
 | ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Chino |
-| ::{ flag=IT }:: [Harbyter](https://osu.ppy.sh/users/1147679) | Italiano |
-| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesio |
+| ::{ flag=RU }:: [Kurisu Makise](https://osu.ppy.sh/users/2790640) | Ruso |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Catalán, español |
+| ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | Chino |
 
 ### Estructural
 
@@ -193,14 +185,17 @@ Los siguientes miembros del NAT son exclusivamente responsables de las tareas es
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Manejo de discusiones internas, asuntos y documentación |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Organización del programa BN Mentorship |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Desarrollo de [Nomination Planner](https://bnplanner.greaper.net/beatmaps) y [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) |
+| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | Gestión del foro de los criterios de clasificación |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Desarrollo del [sitio web de gestión de los BN](https://bn.mappersguild.com) |
 
 Los siguientes miembros del NAT son principalmente evaluadores, pero también contribuyen a tareas estructurales:
 
 | Usuario | Tarea |
 | :-- | :-- |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Liderazgo del NAT, desarrollo del [sitio web de gestión de los BN](https://bn.mappersguild.com) y del [plugin de MV de osu!taiko](https://github.com/Hiviexd/MVTaikoChecks) |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Manejo de los reportes de contenido, desarrollo del [plugin de MV de osu!mania](https://github.com/MChecaH/ManiaCheck) |
+| ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | Desarrollo interno de herramientas |
+| ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548) | Gestión del foro de los criterios de clasificación, organización del [NATea Time](https://osu.ppy.sh/community/forums/topics/2178956) |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Liderazgo del NAT, gestión del [sitio web de los BN](https://bn.mappersguild.com) y desarrollo de [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Gestión de los reportes de contenido |
 
 ---
 
