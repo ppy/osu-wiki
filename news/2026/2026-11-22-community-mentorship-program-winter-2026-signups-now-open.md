@@ -52,8 +52,9 @@ You can find more information on these mentors in their [detailed overview](http
 
 | Mentor | Track | Time zone |
 | :-- | :-- | :-- |
+| ::{ flag=NL }:: [Linlime](https://osu.ppy.sh/users/14438535) | Mapping | UTC+1 |
 | ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | Mapping | UTC+1 |
-| ::{ flag=NL }:: [Linlime](https://osu.ppy.sh/users/14438535) | Mapping | UTC+2 |
+| ::{ flag=HK }:: [PokeSky](https://osu.ppy.sh/users/3617111) | Modding | UTC+7 |
 | ::{ flag=ID }:: [SatoriMaiden](https://osu.ppy.sh/users/15522414) | Mapping | UTC+7 |
 | ::{ flag=VN }:: [[TCD] Dzar03](https://osu.ppy.sh/users/16712231) | Mapping & modding | UTC+7 |
 | ::{ flag=CN }:: [[Crz]Cardiloid](https://osu.ppy.sh/users/32066819) | Mapping | UTC+8 |
@@ -62,7 +63,6 @@ You can find more information on these mentors in their [detailed overview](http
 | ::{ flag=CN }:: [Hoshimegu Mio](https://osu.ppy.sh/users/17753835) | Mapping | UTC+8 |
 | ::{ flag=CN }:: [V1do-](https://osu.ppy.sh/users/17527968) | Mapping | UTC+8 |
 | ::{ flag=HK }:: [NineSey](https://osu.ppy.sh/users/25454675) | Mapping | UTC+8 |
-| ::{ flag=HK }:: [PokeSky](https://osu.ppy.sh/users/3617111) | Modding | UTC+8 |
 | ::{ flag=KR }:: [Rurv](https://osu.ppy.sh/users/24526335) | Modding | UTC+9 |
 
 You can find more information on these mentors in their [detailed overview](https://osucmp.com/mentors?track=10) and apply to them [through this form](https://osucmp.com/apply/mentee).
@@ -85,6 +85,7 @@ You can find more information on these mentors in their [detailed overview](http
 | Mentor | Track | Time zone |
 | :-- | :-- | :-- |
 | ::{ flag=CA }:: [mieldeprairie](https://osu.ppy.sh/users/19290397) | Mapping | UTC-5 |
+| ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817) | Mapping & modding | UTC+1 |
 | ::{ flag=DE }:: [DizzyOracel](https://osu.ppy.sh/users/32159666) | Modding | UTC+2 |
 | ::{ flag=LV }:: [SspoksS](https://osu.ppy.sh/users/14380867) | Mapping | UTC+3 |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Mapping | UTC+8 |
