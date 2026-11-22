@@ -64,7 +64,7 @@ Experience [this 4K osu!mania marathon](https://osu.ppy.sh/beatmapsets/2527897) 
 Check out [the 7K map from the video above](https://osu.ppy.sh/beatmapsets/2569794) hosted by [Irone OSU](https://osu.ppy.sh/users/10678230) or [this 4K version](https://osu.ppy.sh/beatmapsets/2559688) hosted by [Calcul0us](https://osu.ppy.sh/users/38905883)!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/581/Songs/Fujiyori_-_Fly_Again.mp3">
+    <source src="https://assets.ppy.sh/artists/581/Songs/Fujiyori%20-%20Fly%20Again.mp3">
 </audio>
 
 ---
