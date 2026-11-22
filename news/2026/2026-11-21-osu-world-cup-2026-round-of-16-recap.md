@@ -143,6 +143,8 @@ With how close the rest of the match had been, expectations were high going into
     }
 </style>
 
+![](/wiki/shared/news/2026-11-21-osu-world-cup-2026-round-of-16-recap/kafaka-and-secondoverthree.png)
+
 There are countless different ways you can narrate a story in animation design, and the classic music video style featuring illustrations and motion graphics is one of them. In this design project, [Kafaka](https://osu.ppy.sh/users/9148291) and [Secondoverthree](https://osu.ppy.sh/users/13432062) were tasked with creating parts of the storyboard and visual effects design (VFX) respectively.
 
 <div class="news-chat-quote__text-container">
