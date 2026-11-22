@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Community Mentorship Program Winter 2026 Signups Now Open
-date: 2026-11-22 12:00:00 +0000
+date: 2026-11-22 23:00:00 +0000
 series: online_events
 ---
 
