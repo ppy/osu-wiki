@@ -90,7 +90,11 @@ Typical for the first round of any bracket stage, this week saw a majority of th
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/YdxBI-DxN48" frameborder="0" allowfullscreen></iframe>
 </div>
 
-jp th desc
+Despite Japan being the lower seed in this matchup, confidence was high going into the Round of 16 after sweeping their group in the Group Stage. Thailand had a tougher time in their Challengers group, going 0–3, but were still a team to be feared after taking Sweden to tiebreaker. ::{ flag=JP }:: [Rikuima](https://osu.ppy.sh/users/14035920), ::{ flag=JP }:: [ChocoPafe](https://osu.ppy.sh/users/8856806), ::{ flag=TH }:: [nwd](https://osu.ppy.sh/users/17792223) and ::{ flag=TH }:: [Arz3](https://osu.ppy.sh/users/6571991) appeared to be the players to watch after their strong Group Stage performances.
+
+The match began with Thailand banning HR2 and DT2, and Japan banning NM1 and HD2. Both teams got off to strong starts, winning their first picks decisively: HD1 for Thailand and DT3 for Japan. Thailand then took advantage of their superior reading, winning NM5 with an impressive 892,843 score from ::{ flag=TH }:: [Arz3](https://osu.ppy.sh/users/6571991). Despite ::{ flag=TH }:: [fuzzyu](https://osu.ppy.sh/users/21958501)'s best efforts with a score of 929,046, Japan held on to their HR2 pick to tie the match at 2–2. Japan then took a break point on HD3 with a 739,871 from ::{ flag=JP }:: [haga1115](https://osu.ppy.sh/users/6574823). Unfortunately for Japan, their fortunes took a turn as ::{ flag=TH }:: [fuzzyu](https://osu.ppy.sh/users/21958501) and ::{ flag=TH }:: [Arz3](https://osu.ppy.sh/users/6571991) scored 846,437 and 842,762 on DT1 to take the break point back.
+
+Thailand narrowly won their FM2 pick by 29,188 points, followed by taking yet another break point on FM1 to go up 5–3, thanks to a 981,888 Hidden FC from ::{ flag=TH }:: [nwd](https://osu.ppy.sh/users/17792223). Japan, with their tournament lives on the line, fired right back, setting the 3rd best NM4 team score of 2,805,367 to take a break point, followed by a nail biting 146,091 point win on DT4, forcing the match into tiebreaker. After an excruciating five minutes, 22,873 points was all that stood between the two teams, and it was by this margin that Japan had their OWC 2026 run put to an end, with a strong 673,063 points from ::{ flag=TH }:: [Arz3](https://osu.ppy.sh/users/6571991) barely keeping Thailand in the lead.
 
 ### ::{ flag=RU }:: Russian Federation vs. ::{ flag=DE }:: Germany
 
@@ -98,7 +102,11 @@ jp th desc
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/GYSddZFaoys" frameborder="0" allowfullscreen></iframe>
 </div>
 
-ru de desc
+Seven matchups and seven different losses, as we approach the *El Clásico* of OWC: the Russian Federation vs. Germany. For the first time in what felt like an eternity, the Russians were stocked up and felt like clear favourites to beat Germany and finally end the accursed streak that had built up: a fifteen-year saga of complete domination by the German roster with its roots in the very first OWC. As the players got out of the Group Stage and Qualifiers respectively, Russia was seed #7 while the seed #10 Germany had to climb their way up from the Group Stage after narrowly missing out on the eight Legends spots.
+
+As the match started, Russia opted to go for FM1 as their first pick, and Germany immediately snatched the initiative to take a break point, with ::{ flag=DE }:: [Fleh](https://osu.ppy.sh/users/7780605) leading the charge with an impressive 974,218 Hard Rock score. The consolidation point came in with Germany confidently taking their NM1 pick, and the situation escalated as Russia tried their luck on NM5. However, their bogeyman did not let them rest and grabbed the pick for themselves to receive yet another breakpoint through a double FC by ::{ flag=DE }:: [criller](https://osu.ppy.sh/users/8116659) and ::{ flag=DE }:: [-lion](https://osu.ppy.sh/users/24270105).
+
+With their backs against the wall and the scoreboard looking grim, Russia had to take Germany's pick of HD1 with a massive step-up from ::{ flag=RU }:: [desuqe](https://osu.ppy.sh/users/9712285) and ::{ flag=RU }:: [Skrowell](https://osu.ppy.sh/users/9694263); they barely managed to scrape by and steal it towards the end with a 28,177 point difference. Riding that momentum, the Russian rookie ::{ flag=RU }:: [reimia](https://osu.ppy.sh/users/11243772) got the best score of the week on the DT4 swing pick to make the score 3–2. As the match progressed, Russia took another breakpoint on FM3 through ::{ flag=RU }:: [desuqe](https://osu.ppy.sh/users/9712285)'s No Mod FC, which the opposition tried to match with a Hidden FC from ::{ flag=DE }:: [Tim Kackner](https://osu.ppy.sh/users/14385814). However, the momentum they were riding was quickly dying out as German rookie ::{ flag=DE }:: [vin](https://osu.ppy.sh/users/13223964) tipped the scales on HR2 with a strong 952,811 score, which led to the subsequent Russian collapse on HR3 to give put the Germans at match point. Next up was HD3, where ::{ flag=DE }:: [criller](https://osu.ppy.sh/users/8116659), who had a relatively quiet game until then, stepped up with an FC and led his team to yet another victory, maintaining the unmatched streak against Russia. The curse held on for yet another year, and Russia was sent packing to the losers' bracket.
 
 ### ::{ flag=CA }:: Canada vs. ::{ flag=BR }:: Brazil
 
@@ -221,6 +229,6 @@ This was my first time working together with another VFX designer on an osu! ori
 
 ---
 
-ending paragraph
+The action continued in the Quarterfinals this past weekend, the VODs of which are available on [YouTube](https://www.youtube.com/@osugamearchive) to catch up on. The mayhem keeps on going with the Semifinals fast approaching; make sure to stay on top of the schedule with the [wiki](/wiki/Tournaments/OWC/2026) and [information sheet](https://docs.google.com/spreadsheets/d/136yKaeBtlxHo7o7TQxHflLOw1T67ahn8vF2FTJ0IjFc?rm=minimal), and join us [on the stream](https://www.twitch.tv/osulive)!
 
 —Dada, I-Flame, Kuroise, Lightin, shdewz & this1neguy
