@@ -5,15 +5,15 @@ date: 2026-11-22 12:00:00 +0000
 series: online_events
 ---
 
-The 35th cycle of the Community Mentorship Program is about to begin! Get ready to delve deep into the world of mapping, modding, or storyboarding.
+The 35th cycle of the Community Mentorship Program is about to begin! Get ready to delve deep into the world of mapping, modding or storyboarding.
 
 ![](/wiki/shared/news/banners/community-mentorship-program.jpg)
 
-The Community Mentorship Program serves as a place for upcoming mappers, modders, and storyboarders to develop their skills under the guidance of more experienced members in the community. If you've ever found yourself wanting to expand your current knowledge, this might just be the opportunity you need.
+The Community Mentorship Program serves as a place for upcoming mappers, modders and storyboarders to develop their skills under the guidance of more experienced members in the community. If you've ever found yourself wanting to expand your current knowledge, this might just be the opportunity you need.
 
-Over the course of a cycle, you'll have the opportunity to learn from your mentor, participate in various mentorship events such as speedmapping contests, organise guest difficulties for your mapsets on our job board, and more!
+Over the course of a cycle, you'll have the opportunity to learn from your mentor, participate in various mentorship events such as speedmapping contests, organise guest difficulties for your mapsets on our job board and more!
 
-On the public side of things, [our Discord server](https://discord.com/invite/Ft2FtXmBgx) offers general mapping discussion, feedback channels, and the guest difficulty job board! We also announce mapping opportunities for tournaments and other relevant events on the server. If you happen to be running an event that you feel is relevant, feel free to reach out to the [organisation team](https://osucmp.com/org-team)!
+On the public side of things, [our Discord server](https://discord.com/invite/Ft2FtXmBgx) offers general mapping discussion, feedback channels and the guest difficulty job board! We also announce mapping opportunities for tournaments and other relevant events on the server. If you happen to be running an event that you feel is relevant, feel free to reach out to the [organisation team](https://osucmp.com/org-team)!
 
 If you're interested in the program, please read the [forum post](https://osu.ppy.sh/community/forums/topics/2259487?n=1) for a full rundown on how to apply.
 
@@ -25,7 +25,7 @@ The mentee signups are currently open, and close on the **29th of November**!
 | :-- | :-- | :-- |
 | ::{ flag=CA }:: [Monstrata](https://osu.ppy.sh/users/2706438) | Mapping | UTC-8 |
 | ::{ flag=US }:: [pancakes](https://osu.ppy.sh/users/26131645) | Modding | UTC-8 |
-| ::{ flag=KR }:: [KeyWee](https://osu.ppy.sh/users/10476879) | Mapping & Modding | UTC-7 |
+| ::{ flag=KR }:: [KeyWee](https://osu.ppy.sh/users/10476879) | Mapping & modding | UTC-7 |
 | ::{ flag=US }:: [Nathan](https://osu.ppy.sh/users/4785223) | Mapping | UTC-7 |
 | ::{ flag=US }:: [Scorf](https://osu.ppy.sh/users/17038784) | Mapping | UTC-7 |
 | ::{ flag=US }:: [Local Hero](https://osu.ppy.sh/users/16134122) | Mapping | UTC-5 |
@@ -44,7 +44,7 @@ The mentee signups are currently open, and close on the **29th of November**!
 | ::{ flag=ZA }:: [Mattay](https://osu.ppy.sh/users/9748303) | Mapping | UTC+2 |
 | ::{ flag=CN }:: [UTAU](https://osu.ppy.sh/users/13859320) | Mapping | UTC+8 |
 | ::{ flag=MY }:: [Murada](https://osu.ppy.sh/users/8365335) | Mapping | UTC+8 |
-| ::{ flag=TW }:: [Plus4j](https://osu.ppy.sh/users/4086497) | Mapping & Modding | UTC+8 |
+| ::{ flag=TW }:: [Plus4j](https://osu.ppy.sh/users/4086497) | Mapping & modding | UTC+8 |
 
 You can find more information on these mentors in their [detailed overview](https://osucmp.com/mentors?track=1) and apply to them [through this form](https://osucmp.com/apply/mentee).
 
@@ -55,7 +55,7 @@ You can find more information on these mentors in their [detailed overview](http
 | ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | Mapping | UTC+1 |
 | ::{ flag=NL }:: [Linlime](https://osu.ppy.sh/users/14438535) | Mapping | UTC+2 |
 | ::{ flag=ID }:: [SatoriMaiden](https://osu.ppy.sh/users/15522414) | Mapping | UTC+7 |
-| ::{ flag=VN }:: [[TCD] Dzar03](https://osu.ppy.sh/users/16712231) | Mapping & Modding | UTC+7 |
+| ::{ flag=VN }:: [[TCD] Dzar03](https://osu.ppy.sh/users/16712231) | Mapping & modding | UTC+7 |
 | ::{ flag=CN }:: [[Crz]Cardiloid](https://osu.ppy.sh/users/32066819) | Mapping | UTC+8 |
 | ::{ flag=CN }:: [[GB]Cinelia](https://osu.ppy.sh/users/24289042) | Mapping | UTC+8 |
 | ::{ flag=CN }:: [G1NYA](https://osu.ppy.sh/users/31767575) | Mapping | UTC+8 |
