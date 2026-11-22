@@ -159,7 +159,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/dc7
 
 | ID | Team A | Team B | Match time | Twitch stream |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
-| 38 | Winner of 36 | Winner of 35 | [Nov 29 (Sun) 00:00 UTC]() |  |  |
 | 38a | South Korea ::{ flag=KR }:: | ::{ flag=DE }:: Germany | [Nov 29 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261129T100000&p1=1440&p2=235&p3=37) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 38b | South Korea ::{ flag=KR }:: | ::{ flag=HK }:: Hong Kong | [Nov 29 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261129T100000&p1=1440&p2=235&p3=102) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 37c | China ::{ flag=CN }:: | ::{ flag=GB }:: United Kingdom | [Nov 29 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261129T120000&p1=1440&p2=33&p3=136) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
