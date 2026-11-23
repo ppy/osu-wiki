@@ -55,7 +55,7 @@ Anyways, this year I'm thankful for rhythm maps, especially after a [certain Can
 
 Hey guys... Welcome to November, I hope you guys are excited for your monthly mandated OWC map... [osu! World Cup 2021](/wiki/Tournaments/OWC/2021) btw... (sorry for not being ORIGINAL pls dont fire me)
 
-
+---
 
 )em erif tnod slp LANIGIRO gnieb ton rof yrros( ...wtb 1202 puC dlroW !uso ...pam CWO detadnam ylhtnom ruoy rof deticxe era syug uoy epoh I ,rebmevoN ot emocleW ...syug yeH
 
@@ -236,7 +236,7 @@ If you want to see this map Loved as much as I do, get down to the voting page a
 The \[Jal hae bo ryum ^\_^;; (drain time under 3:00 zz)\] difficulty is *not* being nominated for Loved.\
 *description written by [YonGin](https://osu.ppy.sh/users/7109317)*
 
-What is it like when you turn on the [Random mod](/wiki/Gameplay/Game_modifier/Random_%28lazer%29) on osu!lazer? Here is a perfect Random mod simulator! [Southern Cross](https://osu.ppy.sh/beatmapsets/1914925#taiko/3950563) is the origin of the toxic stream series by various Korean players, including [6\_9](https://osu.ppy.sh/users/2998248) & [NaNaHiDa](https://osu.ppy.sh/users/30114023). It features stream patterns that you will never expect. It has its own aura and charm that can only be found in this series. A perfect map for anyone who is into awkward pattern reading.
+What is it like when you turn on the [Random mod](/wiki/Gameplay/Game_modifier/Random_(lazer)) on osu!lazer? Here is a perfect Random mod simulator! [Southern Cross](https://osu.ppy.sh/beatmapsets/1914925#taiko/3950563) is the origin of the toxic stream series by various Korean players, including [6\_9](https://osu.ppy.sh/users/2998248) & [NaNaHiDa](https://osu.ppy.sh/users/30114023). It features stream patterns that you will never expect. It has its own aura and charm that can only be found in this series. A perfect map for anyone who is into awkward pattern reading.
 
 **Vote yes NOW** if you want to see this style of maps in Loved!
 
