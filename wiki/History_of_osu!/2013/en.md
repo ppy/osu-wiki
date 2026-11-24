@@ -60,7 +60,7 @@ The shortcuts `Ctrl` + `1`, `2`, `3` or `4` were added to easily switch in the s
 
 Comments in beatmap [replays](/wiki/Gameplay/Replay) were styled as [danmaku subtitles](https://en.wikipedia.org/wiki/Danmaku_subtitling) where they would move across the screen in accordance to when they were made, similar to the video sharing platform [Niconico](https://en.wikipedia.org/wiki/Niconico). osu!supporters received the ability to set a custom colour for their comments.
 
-All [Mapping Assistance Team](/wiki/People/Mapping_Assistance_Team) (*MAT*) members became [Beatmap Appreciation Team](/People/Beatmap_Appreciation_Team) (*BAT*) members as the MAT was officially dissolved due to responsibilities and permissions being too similar between the two.[^mat-end]
+All [Mapping Assistance Team](/wiki/People/Mapping_Assistance_Team) (*MAT*) members became [Beatmap Appreciation Team](/wiki/People/Beatmap_Appreciation_Team) (*BAT*) members as the MAT was officially dissolved due to responsibilities and permissions being too similar between the two.[^mat-end]
 
 peppy released one of the [initial osu! builds](https://osu.ppy.sh/community/forums/topics/130144) from September 2007, the one he had hoped to release for osu!'s 5th anniversary.
 
