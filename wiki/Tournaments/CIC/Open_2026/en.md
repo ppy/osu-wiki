@@ -45,9 +45,9 @@ The Catch Indonesia Cup Open 2026 is run by various osu! community members from 
 | Custom mapper | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), ::{ flag=ID }:: [dika312](https://osu.ppy.sh/users/741613), ::{ flag=ID }:: [Sololiquy](https://osu.ppy.sh/users/4350087), ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580), ::{ flag=VN }:: [-Miya](https://osu.ppy.sh/users/5978981), ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134), ::{ flag=TH }:: [-Luminate](https://osu.ppy.sh/users/4778689), ::{ flag=PH }:: [Bunnrei](https://osu.ppy.sh/users/829284), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=JP }:: [hiroshiki](https://osu.ppy.sh/users/2667256), ::{ flag=TW }:: [Beepu](https://osu.ppy.sh/users/4958376), ::{ flag=KR }:: [My Angel RangE](https://osu.ppy.sh/users/6336713), ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136), ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817), ::{ flag=DE }:: [DizzyOracel](https://osu.ppy.sh/users/32159666), ::{ flag=ES }:: [Alepe](https://osu.ppy.sh/users/15273403), ::{ flag=ES }:: [Race-](https://osu.ppy.sh/users/18660354), ::{ flag=US }:: [yeeeter](https://osu.ppy.sh/users/15274666), ::{ flag=US }:: [Vaqu](https://osu.ppy.sh/users/14714724), ::{ flag=US }:: [Yoshi\_green](https://osu.ppy.sh/users/1035891), ::{ flag=US }:: [Nidoking](https://osu.ppy.sh/users/7034422), ::{ flag=CO }:: [\[ Azu- \]](https://osu.ppy.sh/users/8290364), *more TBA* |
 | Hitsounder | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [dika312](https://osu.ppy.sh/users/741613), ::{ flag=ID }:: [ArXe](https://osu.ppy.sh/users/14013313), ::{ flag=PH }:: [midorijeon](https://osu.ppy.sh/users/10969875), ::{ flag=IT }:: [Leomine](https://osu.ppy.sh/users/13277919) |
 | Playtester | ::{ flag=SG }:: [\[Eun\]](https://osu.ppy.sh/users/3788536), ::{ flag=FR }:: [Nelys](https://osu.ppy.sh/users/8422828), ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817), ::{ flag=FI }:: [Veeti](https://osu.ppy.sh/users/12863098), ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823), ::{ flag=US }:: [Elux](https://osu.ppy.sh/users/12004983), ::{ flag=CL }:: [Pekorrat](https://osu.ppy.sh/users/1250096) |
-| Streamer | ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=FI }:: [kimi321](https://osu.ppy.sh/users/6962961), ::{ flag=DE }:: [Gomen Yuuka](https://osu.ppy.sh/users/14050018) |
-| Commentator | ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=ID }:: [dika312](https://osu.ppy.sh/users/741613), ::{ flag=SG }:: [\[Eun\]](https://osu.ppy.sh/users/3788536), ::{ flag=SG }:: [QuailLover](https://osu.ppy.sh/users/26383230), ::{ flag=IN }:: [Pilot\_BFFRI](https://osu.ppy.sh/users/27266540), ::{ flag=DE }:: [Heam](https://osu.ppy.sh/users/4705120) |
-| Referee | ::{ flag=ID }:: [Azel69](https://osu.ppy.sh/users/35659235), ::{ flag=PH }:: [MapleSyrup12](https://osu.ppy.sh/users/34222047), ::{ flag=VN }:: [Beegamer](https://osu.ppy.sh/users/14827521), ::{ flag=IN }:: [Pilot\_BFFRI](https://osu.ppy.sh/users/27266540), ::{ flag=KR }:: [Discord](https://osu.ppy.sh/users/16194858), ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823), ::{ flag=BR }:: [\[MG\] ExRoiBoi](https://osu.ppy.sh/users/25147371) |
+| Streamer | ::{ flag=ID }:: [Intel21](https://osu.ppy.sh/users/1272422), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=FI }:: [kimi321](https://osu.ppy.sh/users/6962961), ::{ flag=DE }:: [Gomen Yuuka](https://osu.ppy.sh/users/14050018) |
+| Commentator | ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [dika312](https://osu.ppy.sh/users/741613), ::{ flag=ID }:: [Aphelion-](https://osu.ppy.sh/users/8370351), ::{ flag=SG }:: [\[Eun\]](https://osu.ppy.sh/users/3788536), ::{ flag=SG }:: [QuailLover](https://osu.ppy.sh/users/26383230), ::{ flag=IN }:: [Pilot\_BFFRI](https://osu.ppy.sh/users/27266540), ::{ flag=DE }:: [Ginikari](https://osu.ppy.sh/users/6083491), ::{ flag=DE }:: [Heam](https://osu.ppy.sh/users/4705120) |
+| Referee | ::{ flag=ID }:: [Azel69](https://osu.ppy.sh/users/35659235), ::{ flag=PH }:: [MapleSyrup12](https://osu.ppy.sh/users/34222047), ::{ flag=VN }:: [Beegamer](https://osu.ppy.sh/users/14827521), ::{ flag=IN }:: [Pilot\_BFFRI](https://osu.ppy.sh/users/27266540), ::{ flag=KR }:: [Discord](https://osu.ppy.sh/users/16194858), ::{ flag=DE }:: [Ginikari](https://osu.ppy.sh/users/6083491), ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823), ::{ flag=US }:: [Senkon](https://osu.ppy.sh/users/23313862), ::{ flag=BR }:: [\[MG\] ExRoiBoi](https://osu.ppy.sh/users/25147371) |
 | Design coordinator | ::{ flag=MY }:: [mochasan\_](https://osu.ppy.sh/users/23804364) |
 | Graphic designer | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592), ::{ flag=ID }:: [smsrdzc](https://osu.ppy.sh/users/38505034), ::{ flag=ID }:: [CubeixID200](https://osu.ppy.sh/users/10678919), ::{ flag=IN }:: [rrex](https://osu.ppy.sh/users/16827064), ::{ flag=CA }:: [Aquatic\_3](https://osu.ppy.sh/users/22711091) |
 | Illustrator | ::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233), ::{ flag=ID }:: [Rezukitazu](https://osu.ppy.sh/users/2499880), ::{ flag=SG }:: [Hecatia](https://osu.ppy.sh/users/8244635), ::{ flag=GB }:: [pericrayola](https://osu.ppy.sh/users/31184671), ::{ flag=ID }:: Minato [(↗)](https://twitter.com/minato28507), ::{ flag=ID }:: Reminisensi [(↗)](https://twitter.com/Reminisensi_), ::{ flag=ID }:: Ueha10 [(↗)](https://twitter.com/Ueha10), ::{ flag=VN }:: Utopia [(↗)](https://twitter.com/_Utopia_Hope) |
@@ -235,6 +235,31 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 
 ## Match results
 
+### Semifinals
+
+Friday, 20 November 2026:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[Aryssiel](https://osu.ppy.sh/users/2389481)** ::{ flag=CL }:: | **7** | 5 | ::{ flag=CL }:: [Stark](https://osu.ppy.sh/users/1565036) | [#1](https://osu.ppy.sh/community/matches/122195605) |
+
+Saturday, 21 November 2026:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Smukur](https://osu.ppy.sh/users/6434318) ::{ flag=CL }:: | 6 | **7** | ::{ flag=HR }:: **[doddo](https://osu.ppy.sh/users/5166056)** | [#1](https://osu.ppy.sh/community/matches/122194981) |
+| Lower | **[eauikk](https://osu.ppy.sh/users/1177233)** ::{ flag=TW }:: | **7** | 5 | ::{ flag=BE }:: [ElSkeffe](https://osu.ppy.sh/users/6283136) | [#1](https://osu.ppy.sh/community/matches/122189249) |
+| Lower | **[Keita](https://osu.ppy.sh/users/3355617)** ::{ flag=CO }:: | **7** | 0 | ::{ flag=CO }:: [HelpMePleasee](https://osu.ppy.sh/users/10835397) | *win by default* |
+
+Sunday, 22 November 2026:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[qwhj79](https://osu.ppy.sh/users/7547506)** ::{ flag=KR }:: | **7** | 3 | ::{ flag=PE }:: [Boltico](https://osu.ppy.sh/users/5297904) | [#1](https://osu.ppy.sh/community/matches/122199871) |
+| Lower | [doddo](https://osu.ppy.sh/users/5166056) ::{ flag=HR }:: | 6 | **7** | ::{ flag=CL }:: **[Aryssiel](https://osu.ppy.sh/users/2389481)** | [#1](https://osu.ppy.sh/community/matches/122201087) |
+| Upper | **[SirGonzaxz](https://osu.ppy.sh/users/17309439)** ::{ flag=AR }:: | **7** | 6 | ::{ flag=CN }:: [- N a g i -](https://osu.ppy.sh/users/2956936) | [#1](https://osu.ppy.sh/community/matches/122199578) |
+| Lower | [Keita](https://osu.ppy.sh/users/3355617) ::{ flag=ID }:: | 2 | **7** | ::{ flag=TW }:: **[eauikk](https://osu.ppy.sh/users/1177233)** | [#1](https://osu.ppy.sh/community/matches/122199050) |
+
 ### Quarterfinals
 
 Friday, 13 November 2026:
@@ -403,7 +428,7 @@ Sunday, 1 November 2026:
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
 2. Players will have to ban **two beatmaps** from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match. 
-   - Barring the tiebreaker, there are no restrictions as to which beatmaps may and may not be banned in a match.
+   - Maps from the same mod pool may not be banned by the same player in a single match.
    - Banning does not apply in the Qualifier lobbies.
 3. **There will be no warm-up beatmaps to be played in the multiplayer lobby**. Players who are looking to warm up before the match are expected to do so by their own before the match commences.
 4. Players are expected to exercise common sense in the pick time and ready time windows.
