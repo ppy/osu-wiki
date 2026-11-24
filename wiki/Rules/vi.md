@@ -1,9 +1,3 @@
----
-no_native_review: true
-outdated_translation: true
-outdated_since: 35fd45bb9f2c97a027f0763398d07b68dc687533
----
-
 # Nội quy
 
 Những nội quy dưới đây là nền móng trong việc gìn giữ cộng đồng osu! luôn là một nơi vui vẻ và chào đón mọi người.
@@ -14,7 +8,7 @@ Những nội quy dưới đây là nền móng trong việc gìn giữ cộng �
 2. **Chơi một cách công bằng.** Sử dụng bất cứ công cụ hỗ trợ bên thứ ba để có thêm lợi thế là không được. Điều này bao gồm những việc như sử dụng phần mềm hỗ trợ aim, điều chỉnh tốc độ, vân vân. Macros, phím tắt, hoặc phần cứng mà trong đó thực hiện một hành động vật lý (VD: ấn một phím xuống) không tương ứng với cùng một hành động trong game thì cũng bị cấm tương tự. Nếu một chương trình đang làm điều gì đó giúp bạn chơi game thay vì bạn tự chơi lấy thì không ổn đâu!
 3. **Đối xử tốt với người khác.** Quấy rối hay bất cứ hình thức chống đối nào khác đều không được chấp nhận trong cộng đồng osu!. Chúng ta ở đây là để bấm vòng, đánh trống, hứng quả, và bấm 18 phím đàn cùng lúc, không phải trở thành một thằng đểu cáng trong mắt người khác.
 4. **Đừng cư xử như một thằng khốn.** Nếu có lúc nào đó bạn chợt nghĩ liệu mình có vi phạm điều này không thì nhiều khả năng là có đấy.
-5. **Đây là cộng đồng phù hợp cho mọi lứa tuổi.** Nghĩa là những thứ 18+/[NSFW](https://vi.wikipedia.org/wiki/NSFW) như sử dụng ma tuý hoặc các vấn đề liên quan đến tình dục đều không được hoan nghênh tại đây.
+5. **Đây là cộng đồng phù hợp cho mọi lứa tuổi.** Nghĩa là những thứ 18+/[NSFW](https://vi.wikipedia.org/wiki/NSFW) như sử dụng ma tuý hoặc các vấn đề liên quan đến tình dục đều không được hoan nghênh tại đây. Bất cứ hình ảnh, video, hoặc liên kết được tải lên hoặc được tạo hiển thị trong osu! **bắt buộc** phải theo [Những cân nhắc về nội dung trực quan](Visual_Content_Considerations). 
 6. **Giữ cho cộng đồng văn minh.** osu! không phải là nơi để hẹn hò hay tình tứ. Sử dụng ngôn ngữ, hình ảnh gợi dục hay tán tỉnh người chơi khác vô tội vạ một cách công khai hay riêng tư đều KHÔNG ĐƯỢC PHÉP. Nếu bạn cảm thấy không thoải mái khi ai đó bắt chuyện với bạn, [bí mật báo cáo cho chúng tôi](/wiki/Reporting_bad_behaviour/Abuse) để chúng tôi có thể giúp bạn (và có thể giúp đỡ những người khác tránh bị xâm hại).
 7. **Với những thứ mà nội quy không bao quát được sẽ theo lẽ thường để xử lý.** Các quản trị viên có toàn quyền phán quyết khi họ thấy cần thiết.
 
@@ -25,8 +19,8 @@ Những nội quy dưới đây là nền móng trong việc gìn giữ cộng �
 3. **Nếu ai đó bị buộc im lặng hoặc bị hạn chế, hãy kệ họ và đừng bàn tán về họ.** Nếu ai đó bị giới hạn, vấn đề đó chỉ thuộc giữa họ và quản trị game — người ngoài không can thiệp!
 4. **Khuyến khích sự công bằng, và đừng chú ý đến người chơi gian lận hay những người độc hại.** Thật không may là những loại người này vẫn tồn tại, và việc chú ý tới họ chỉ khiến họ tiếp tục, hoặc kích động người khác làm theo. Hãy báo cáo họ qua chat bằng lệnh `!report` hoặc nút bấm trên trang cá nhân họ rồi mặc kệ.
 5. **Giữ chat trong sạch và phù hợp mọi lứa tuổi, tránh nội dung NSFW khi có thể.** NSFW không thực sự phù hợp với một cộng đồng cho mọi lứa tuổi. Bạn có thể tự do làm vậy trong chat riêng tư (có chừng mực) nhưng hãy tránh xa những kênh công cộng vì lợi ích của những người khác nữa.
-6. **Để ý những thứ bạn chia sẻ với người khác, đặc biệt khi nội dung có thể chứa những thứ có thể gây khó chịu hay có tác động mạnh.** Nếu bạn phải đắn đo về một thứ gì trước khi gửi thì có lẽ nó không ổn đâu. Tránh những thứ như ánh sáng nhấp nháy, chớp giật, máu me, hình ảnh bạo lực hay bất cứ nội dung nặng đô nào khác.
-7. **Chỉ đăng link các trang web hợp pháp và có liên quan.** Những trang chiếu lậu (những trang được cấp phép như Animelab hay Crunchyroll thì OK) hay bất chứ thứ gì liên quan tới "warez" hay bất cứ phần mềm lậu đều không ổn và chúng tôi không muốn thấy nó trong chat. Quảng cáo link Twitch về trò chơi khác cũng được thôi, nhưng CHỈ ở kênh `#videogames`.
+6. **Để ý những thứ bạn chia sẻ với người khác, đặc biệt khi nội dung có thể chứa những thứ có thể gây khó chịu hay có tác động mạnh.** Nếu bạn phải đắn đo về một thứ gì trước khi gửi thì có lẽ nó không ổn đâu. Tránh những thứ như ánh sáng nhấp nháy, chớp giật, máu me, hình ảnh bạo lực hay bất cứ nội dung nặng đô nào khác, đồng thời lưu ý đến [Những cân nhắc về nội dung trực quan](Visual_Content_Considerations). 
+7. **Chỉ đăng link các trang web hợp pháp và có liên quan.** Những trang chiếu lậu (những trang được cấp phép thì OK) hay bất chứ thứ gì liên quan tới "warez" hay bất cứ phần mềm lậu đều không ổn và chúng tôi không muốn thấy nó trong chat. Quảng cáo link Twitch về trò chơi khác cũng được thôi, nhưng CHỈ ở kênh `#videogames`.
 8. **Không quảng cáo bất cứ máy chủ trò chuyện bên thứ ba nào, bao gồm nhóm/server Discord, Teamspeak, Facebook,...** osu! chat chỉ nên đặt osu! lên hàng đầu, chứ không phải nơi chia sẻ link tới server cá nhân. Quảng cáo trong chat riêng tư nếu cần.
 9. **Trong các kênh ngôn ngữ cụ thể, bạn phải nói ngôn ngữ đó (Tiếng Anh trong `#english`, Tiếng Việt trong `#vietnamese`, v.v.) khi tham gia thảo luận.** Ở những kênh không ghi chú ngôn ngữ, hãy luôn nói tiếng Anh. Kênh `#lobby` và `#help` có thể sử dụng bất cứ ngôn ngữ nào, không như các kênh khác. *Những ai thuộc [bộ phận kiểm duyệt](/wiki/People/Global_Moderation_Team) không cần tuân theo nội quy này khi đang thi hành nhiệm vụ.*
 
@@ -42,14 +36,17 @@ Những nội quy dưới đây là nền móng trong việc gìn giữ cộng �
 
 ## Nội quy đăng tải beatmap
 
-*Chú ý: Những nội quy dưới đây áp dụng cho **tất cả các map được đăng tải**, chứ không chỉ map được xếp hạng. Về nội quy riêng cho beatmap được xếp hạng, hãy xem [Tiêu chuẩn Xếp hạng](/wiki/Ranking_criteria).*
+::: alert-notice
+**Chú ý:** 
+Những nội quy dưới đây áp dụng cho **tất cả các map được đăng tải**, chứ không chỉ map được xếp hạng. Về nội quy riêng cho beatmap được xếp hạng, hãy xem [Tiêu chuẩn Xếp hạng](/wiki/Ranking_criteria).
+:::
 
 Những luật này được áp dụng chặt chẽ với mọi beatmap đăng trong game thông qua [Hệ thống Đăng tải Beatmap](/wiki/Beatmapping/Beatmap_submission). Những chủ đề/cuôc thảo luận sẽ được tạo thông qua osu! client khi một beatmap được đăng qua [editor](/wiki/Client/Beatmap_editor).
 
 1. **Đảm bảo bạn có quyền sử dụng bất cứ thứ gì trong beatmap của bạn.** Nó bao gồm bài hát, video, hitsounds, ảnh nền, hay bất cứ nội dung nào mà không do bạn tạo ra. Nếu bạn không biết chỗ để tìm nội dung có thể sử dụng tự do, hãy xem qua thư viện [Nghệ sĩ Nổi bật](https://osu.ppy.sh/beatmaps/artists) của chúng tôi, nơi có nhạc được cấp quyền sử dụng 100% trong osu!, và hãy đọc [Quyền Sử dụng Nội dung](Content_Usage_Guidelines) để biết thêm thông tin.
 2. **Giữ đúng trọng tâm khi đang ở mục [thảo luận beatmap](/wiki/Beatmap_discussion).** Những chủ đề/thảo luận này là về beatmap được đề cập đến, chứ không phải thứ khác. Nếu bạn có vấn đề gì không liên quan trực tiếp tới beatmap, hãy đăng nó ở diễn đàn tương ứng.
 3. **Không sao chép hoặc ăn cắp sản phẩm của người khác.** Cũng không được đăng hoặc sử dụng thành phẩm của người khác mà không có sự cho phép của họ (bao gồm, nhưng không giới hạn ở skins và guest difficulties).
-4. **Tuân thủ [Quy định Nội dung Bài hát](Song_Content_Rules) và [Lưu ý Nội dung Trực quan](Visual_Content_Considerations).**
+4. **Tuân thủ [Quy định Nội dung Bài hát](Song_Content_Rules) và [Những Cân Nhắc Về Nội dung Trực quan](Visual_Content_Considerations).**
 
 ## Điều gì xảy ra khi tôi không tuân thủ nội quy?
 
@@ -59,14 +56,14 @@ Những điều không hay đấy bao gồm (*nhưng không giới hạn ở*):
 
 - Bị cấm chat trong game trong một khoảng thời gian (còn gọi là [im lặng](/wiki/Help_centre/Silences)).
 - Gỡ bỏ mọi nội dung vi phạm khỏi trang cá nhân, hồ sơ hoặc beatmap được đăng lên.
-- Bị mất quyền chỉnh sửa hoặc thay đổi nội dung trên trang cá nhân hay các chi tiết trên hồ sơ.
-- Bị mất quyền chơi hoặc tham gia các giải đấu chính thức.
+- Bị mất quyền chỉnh sửa hoặc thay đổi nội dung trên trang cá nhân, ảnh đại diện hay các chi tiết trên hồ sơ.
+- Bị mất quyền chơi hoặc làm nhân sự các giải đấu được chính thức (còn được gọi là [lệnh cấm thi đấu](/wiki/Help_centre/Tournament_sanctions#lệnh-cấm-thi-đấu)).
 
 Trừ khi hành vi vi phạm mới nghiêm trọng hơn, lần [im lặng](/wiki/Help_centre/Silences) và các vi phạm khác tiếp theo sẽ tăng thời lượng gần như theo cấp số nhân với mỗi lần vi phạm. Kiểm duyệt viên không thể điều chỉnh thời hạn bạn bị buộc im lặng sau mỗi lần vi phạm — những ai vi phạm liên tục sẽ bị cấm chơi trong khoảng thời gian dài.
 
-Một vài vi phạm có lượng thời gian phạt tối thiểu (thường là 43 tiếng trở lên) nếu nó mang tính nghiêm trọng, chủ yếu dành cho những lỗi vi phạm như chia sẻ nội dung không lành mạnh hoặc liên tục quấy rối người chơi khác.
+Một vài vi phạm có lượng thời gian im lặng tối thiểu (thường là 43 tiếng trở lên), mặc dù các hình phạt tăng nặng này chủ yếu dành cho những lỗi vi phạm như chia sẻ nội dung không lành mạnh hoặc liên tục quấy rối người chơi khác.
 
-Nếu sau vài lần vi phạm mà bạn vẫn tiếp tục phá vỡ luật lệ, tài khoản của bạn có thể bị [giới hạn vĩnh viễn và không thể thay đổi](/wiki/Help_centre/Account_restrictions).
+Nếu sau vài lần vi phạm mà bạn vẫn tiếp tục phá vỡ luật lệ, hoặc nếu bạn phá vỡ luật lệ một cách đặc biệt nghiêm trọng (chẳng hạn như gian lận), tài khoản của bạn có thể bị [giới hạn vĩnh viễn và không thể thay đổi](/wiki/Help_centre/Account_restrictions).
 
 Tài khoản bị giới hạn không thể chơi trực tuyến, ghi điểm, chat với người chơi khác và bị "cấm" tương tác với cộng đồng dưới mọi hình thức. Bị giới hạn do vi phạm nội quy cộng đồng chỉ có thể được gỡ bằng việc viết mail gửi đội ngũ hỗ trợ sau 3 tháng bị giới hạn ([kèm thêm một vài điều kiện khác](/wiki/Help_centre/Account_restrictions#reasons)).
 
