@@ -1,7 +1,7 @@
 ---
 layout: post
 title: osu! Beatmapping World Championship 2026 Results
-date: 2026-11-11 12:00:00 +0000
+date: 2026-11-26 12:00:00 +0000
 series: community_contests
 ---
 
@@ -11,7 +11,7 @@ Greetings, osu! community! The [osu! Beatmapping World Championship (o!bwc)](htt
 
 ## Summary
 
-![Podium of top 4 winning teams: China, Australia, Argentina and Russian Federation](/wiki/shared/news/2026-11-11-osu-beatmapping-championship-2026-results/concluding-newspost-podium.jpg)
+![Podium of top 4 winning teams: China, Australia, Argentina and Russian Federation](/wiki/shared/news/2026-11-26-osu-beatmapping-world-championship-2026-results/concluding-newspost-podium.jpg)
 
 o!bwc started, like many competitions, with a qualifier round, in which all registered teams competed for 16 spots in the clash stage. These were followed by four clash rounds: The Round of 16, Quarterfinal, Semifinal and Final. Each clash round consisted of intense head-to-head matchups where only the winners advanced. For full details on the matchups, check out the [o!bwc bracket on Challonge](https://challonge.com/obwc2026) and the [livestream recordings](https://www.youtube.com/@osubwc8023) of each round.
 
@@ -53,7 +53,7 @@ The o!bwc teams have brought an incredible variety of maps to the community, and
 > Hello! Here are our comments about "Annabel - helical symmetry" from qualifiers. The main concept of the map was to give each musical section its own visual language and shape design. The electronic bass is represented by rectangular shapes, the synth by waves, glitches by circles, and the bass guitar by Catmull-based sliders. Each color change in the map also marks a distinct musical concept, helping separate sections while keeping the overall design coherent. The hitsounds were designed to support the increasing intensity of the map, becoming more prominent as the music builds. As the song progresses, these individual concepts gradually interact with one another to create a more complex visual structure. The final kiai brings all of these concepts together, combining the different shapes and designs into a cohesive final section. Overall, we wanted the map to feel like a visual representation of the song itself, where every musical element has its own identity while remaining part of the same unified composition.
 ## Prizes
 
-![Badge Design](/wiki/shared/news/2026-11-11-osu-beatmapping-championship-2026-results/concluding-newspost-badges.jpg)
+![Badge Design](/wiki/shared/news/2026-11-26-osu-beatmapping-championship-2026-results/concluding-newspost-badges.jpg)
 
 This year, we received a total of **$1,150 USD** of donations from a wide range of sponsors! The top 4 teams get a share of the prize pool, and in addition to cash prizes, badge and contest points are also awarded as detailed below.
 
@@ -70,7 +70,7 @@ Over the course of the contest, more than 50 teams contributed almost 100 beatma
 
 Congratulations once again to the winning teams! We also extend our heartfelt thanks to all participants for their creativity and passion, as well as to the judges, helpers and generous sponsors who made this contest possible.
 
-![Credits with everyone involved](/wiki/shared/news/2026-11-11-osu-beatmapping-championship-2026-results/concluding-newspost-staff.jpg)
+![Credits with everyone involved](/wiki/shared/news/2026-11-26-osu-beatmapping-world-championship-2026-results/concluding-newspost-staff.jpg)
 
 ---
 
