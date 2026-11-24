@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "osu! World Cup 2026: Round of 16 Recap"
-date: 2026-11-23 12:00:00 +0000
+date: 2026-11-24 19:00:00 +0000
 series: world_cups
 ---
 
 With the Group Stage out of the way, the bracket of the osu! World Cup 2026 is finally underway.
 
-![](/wiki/shared/news/2026-11-23-osu-world-cup-2026-round-of-16-recap/banner.png)
+![](/wiki/shared/news/2026-11-24-osu-world-cup-2026-round-of-16-recap/banner.png)
 
 After an excruciating two weeks of sitting on their heels, the top 8 seeds of the year finally got to flex their muscle in the Round of 16 of the bracket stage. Their opponents had sharpened their skills in the three matches all played over the course of the two weeks of the Group Stage, but each would come up against an entirely new tier of opponent as the world's best were finally given the opportunity to show their skills off to the world.
 
@@ -27,7 +27,7 @@ Not to be overlooked, though, were the teams making their way to the first round
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/1tMDbOIzXPU" frameborder="0" allowfullscreen></iframe>
 </div>
 
-![](/wiki/shared/news/2026-11-23-osu-world-cup-2026-round-of-16-recap/mappool.png)
+![](/wiki/shared/news/2026-11-24-osu-world-cup-2026-round-of-16-recap/mappool.png)
 
 The Round of 16 pool had some interesting picks. As the first pool to be expanded, it has one extra map per mod pool (excluding No Mod), leaving room for more variety than in the previous week and allowing some more niche skillsets to shine through. Maps such as [Otsukare Summer](https://osu.ppy.sh/beatmapsets/2650813#osu/5991803) by [newton-](https://osu.ppy.sh/users/5875419) and [Sous la lune mandarine](https://osu.ppy.sh/beatmapsets/2650841#osu/5991860) by [squirrelpascals](https://osu.ppy.sh/users/6151332) are examples of the reading side of this expanded format, both being quite popular throughout the weekend, while a map like [Stomp to my pigs](https://osu.ppy.sh/beatmapsets/2128425#osu/4474940) by [Silverboxer](https://osu.ppy.sh/users/2166762) was a popular offering on the speedier, mechanical side.
 
@@ -37,7 +37,7 @@ The Free Mod pool also showcased some of the musical diversity of this round, wi
 
 We also had two originals debuting this week, with the first one being [EtE](https://osu.ppy.sh/beatmapsets/2650828#osu/5991834), by our beloved [Risa Yuzuki](https://osu.ppy.sh/beatmaps/artists/211) with production by the great Feryquitous!
 
-[![](/wiki/shared/news/2026-11-23-osu-world-cup-2026-round-of-16-recap/ete-banner.png)](https://osu.ppy.sh/beatmapsets/2650828#osu/5991834)
+[![](/wiki/shared/news/2026-11-24-osu-world-cup-2026-round-of-16-recap/ete-banner.png)](https://osu.ppy.sh/beatmapsets/2650828#osu/5991834)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -49,7 +49,7 @@ Matching its harrowing yet beautiful and captivating composition, the light tech
 
 And to cap off the pool, the tiebreaker: [Reve d'ange](https://osu.ppy.sh/beatmapsets/2650854#osu/5991904) by the fine folk at [Pratanallis](https://osu.ppy.sh/beatmaps/artists/175)!
 
-[![](/wiki/shared/news/2026-11-23-osu-world-cup-2026-round-of-16-recap/revedange-banner.jpg)](https://osu.ppy.sh/beatmapsets/2650854#osu/5991904)
+[![](/wiki/shared/news/2026-11-24-osu-world-cup-2026-round-of-16-recap/revedange-banner.jpg)](https://osu.ppy.sh/beatmapsets/2650854#osu/5991904)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -151,7 +151,7 @@ With how close the rest of the match had been, expectations were high going into
     }
 </style>
 
-![](/wiki/shared/news/2026-11-23-osu-world-cup-2026-round-of-16-recap/kafaka-and-secondoverthree.png)
+![](/wiki/shared/news/2026-11-24-osu-world-cup-2026-round-of-16-recap/kafaka-and-secondoverthree.png)
 
 There are countless different ways you can narrate a story in animation design, and the classic music video style featuring illustrations and motion graphics is one of them. In this design project, [Kafaka](https://osu.ppy.sh/users/9148291) and [Secondoverthree](https://osu.ppy.sh/users/13432062) were tasked with creating parts of the storyboard and visual effects design (VFX) respectively.
 
@@ -187,11 +187,11 @@ This story follows a girl who has achieved a certain level of success but contin
 
 We planned the entire design to feature more flexible illustrations to be reused in various scenes while trying to keep the original narrative. The final product features 3 main backgrounds that represent how she progressed through the story:
 
-![Illustration 1](/wiki/shared/news/2026-11-23-osu-world-cup-2026-round-of-16-recap/interview-image1.jpg)
+![Illustration 1](/wiki/shared/news/2026-11-24-osu-world-cup-2026-round-of-16-recap/interview-image1.jpg)
 
-![Illustration 2](/wiki/shared/news/2026-11-23-osu-world-cup-2026-round-of-16-recap/interview-image2.jpg)
+![Illustration 2](/wiki/shared/news/2026-11-24-osu-world-cup-2026-round-of-16-recap/interview-image2.jpg)
 
-![Illustration 3](/wiki/shared/news/2026-11-23-osu-world-cup-2026-round-of-16-recap/interview-image3.jpg)
+![Illustration 3](/wiki/shared/news/2026-11-24-osu-world-cup-2026-round-of-16-recap/interview-image3.jpg)
 
 One of the main inspirations was [Lies Playing Truth](https://osu.ppy.sh/beatmapsets/2271658#osu/4838793), storyboarded by [Lowgraphics](https://osu.ppy.sh/users/5383942). The general visual aspect coincided with what we wanted to go for, and the flexible reuse of one singular illustration piece throughout the storyboard helped us create different scenes for all the illustrations we had.
 
@@ -201,11 +201,11 @@ One of the main inspirations was [Lies Playing Truth](https://osu.ppy.sh/beatmap
 
 My initial goal was to create a striking first impression along with establishing the setting/perspective of the narrative we received, as well as introducing the main (and only) character. In my third main scene, I depicted our main character crushing her own "self". This scene was an attempt to depict how she was essentially destroying another version of herself, possibly one that she regrets, or one she never wanted to become.
 
-![Illustration 4](/wiki/shared/news/2026-11-23-osu-world-cup-2026-round-of-16-recap/interview-image4.jpg)
+![Illustration 4](/wiki/shared/news/2026-11-24-osu-world-cup-2026-round-of-16-recap/interview-image4.jpg)
 
 The following scene shows our main character gazing out in the distance in solitude as she sits down on a flight of stone stairs in the rain. Possibly despairing about why she is still struggling despite her success. Or maybe she is gazing out in hopes of revitalizing a new spark — that sort of feeling!
 
-![Illustration 5](/wiki/shared/news/2026-11-23-osu-world-cup-2026-round-of-16-recap/interview-image5.jpg)
+![Illustration 5](/wiki/shared/news/2026-11-24-osu-world-cup-2026-round-of-16-recap/interview-image5.jpg)
 
 In terms of inspiration, I had taken quite a bit of it from the designs of our amazing illustrators working on this tiebreaker. During the early parts of production, [Minerva Rin](https://osu.ppy.sh/users/34699930) had shared a character reference with the team. Using this as the primary reference, I had prepared a 3D model silhouette of her that I could use in the video. I tried to add some emphasis on some of her more defining features like the camellia/bow in her hair, as well as her wings. I also drew a lot of inspiration from a few of my own gathered references & notes I put in a personal moodboard as well. There were some sparks of inspiration from eavesdropping on some of the conversations between the storyboarders/illustrators in the Discord chat as well. It's honestly pretty cool how ideas can sprout from small, seemingly unimportant remarks people say.
 
