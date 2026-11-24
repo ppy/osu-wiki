@@ -176,7 +176,7 @@ Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont le
 
 - 06/04/2022 : Transfert de [Len](https://osu.ppy.sh/users/1686145) : **BN probatoire** > **BN**
 - 10/04/2022 : Transfert de [Cellina](https://osu.ppy.sh/users/2490770) : **BN probatoire** > **BN**
-- 12/04/2022 : Transfert de [Chromoxx](https://osu.ppy.sh/users/1881639) : **BN probatoire** >  **BN**
+- 12/04/2022 : Transfert de [Chromoxx](https://osu.ppy.sh/users/1881639) : **BN probatoire** > **BN**
 - 14/04/2022 : Transfert de [secXcscX](https://osu.ppy.sh/users/13543418) : **BN probatoire** > **BN**
 - 17/04/2022 : Transfert de [Didah](https://osu.ppy.sh/users/8030129) : **BN probatoire** > **BN**
 - 18/04/2022 : Transfert de [bigh](https://osu.ppy.sh/users/16352736) : **BN probatoire** > **BN**
@@ -185,7 +185,7 @@ Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont le
 - 24/04/2022 : Transfert de [Present](https://osu.ppy.sh/users/5645691) : **BN** > **BN probatoire**
 - 24/04/2022 : Transfert de [Cris-](https://osu.ppy.sh/users/6175280) : **BN** > **BN probatoire**
 - 24/04/2022 : Transfert de [Usaha](https://osu.ppy.sh/users/6443117) : **BN probatoire** > **BN**
-- 01/05/2022  : Transfert de [gzdongsheng](https://osu.ppy.sh/users/8660315) : **BN probatoire** > **BN**
+- 01/05/2022 : Transfert de [gzdongsheng](https://osu.ppy.sh/users/8660315) : **BN probatoire** > **BN**
 
 #### Retraits
 

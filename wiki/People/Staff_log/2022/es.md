@@ -176,7 +176,7 @@ En este registro se usan abreviaturas para los grupos de usuarios:
 
 - 6/4/2022: [Len](https://osu.ppy.sh/users/1686145) fue movido de los **BN provisionales** a los **BN**
 - 10/4/2022: [Cellina](https://osu.ppy.sh/users/2490770) fue movido de los **BN provisionales** a los **BN**
-- 12/4/2022: [Chromoxx](https://osu.ppy.sh/users/1881639) fue retirado de los **BN provisionales** to  **BN**
+- 12/4/2022: [Chromoxx](https://osu.ppy.sh/users/1881639) fue retirado de los **BN provisionales** to **BN**
 - 14/4/2022: [secXcscX](https://osu.ppy.sh/users/13543418) fue movido de los **BN provisionales** a los **BN**
 - 17/4/2022: [Didah](https://osu.ppy.sh/users/8030129) fue movido de los **BN provisionales** a los **BN**
 - 18/4/2022: [bigh](https://osu.ppy.sh/users/16352736) fue movido de los **BN provisionales** a los **BN**

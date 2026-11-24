@@ -176,7 +176,7 @@ Abbreviations for user groups are used throughout this log:
 
 - 2022-04-06: Moved [Len](https://osu.ppy.sh/users/1686145) from **Probationary BN** to **BN**
 - 2022-04-10: Moved [Cellina](https://osu.ppy.sh/users/2490770) from **Probationary BN** to **BN**
-- 2022-04-12: Moved [Chromoxx](https://osu.ppy.sh/users/1881639) from **Probationary BN** to  **BN**
+- 2022-04-12: Moved [Chromoxx](https://osu.ppy.sh/users/1881639) from **Probationary BN** to **BN**
 - 2022-04-14: Moved [secXcscX](https://osu.ppy.sh/users/13543418) from **Probationary BN** to **BN**
 - 2022-04-17: Moved [Didah](https://osu.ppy.sh/users/8030129) from **Probationary BN** to **BN**
 - 2022-04-18: Moved [bigh](https://osu.ppy.sh/users/16352736) from **Probationary BN** to **BN**
