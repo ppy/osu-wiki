@@ -29,7 +29,7 @@ El historial de algunos usuarios puede estar incompleto durante este año.
 
 ## Agosto
 
-- El Beatmap Approval Team pasó a llamarse Beatmap Appreciation Team (23/8/2011)
+- **El Beatmap Approval Team pasó a llamarse Beatmap Appreciation Team** (23/8/2011)
 
 ## Septiembre
 
