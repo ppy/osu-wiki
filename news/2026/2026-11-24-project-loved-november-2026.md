@@ -9,7 +9,7 @@ Not enough maps with leaderboards? We're here to make more.
 
 ![](/wiki/shared/news/banners/project-loved-2.jpg)
 
-We got another Loved wave before GTA6— wait, what!? Oh well, we're here anyway! The days are short, the temperatures low (for our Southern friends: The days are long, the temperatures high) and Loved is back! What is this? Who are you? If these are questions you have, let me explain. Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All of the maps are chosen by the [Loved captains](https://loved.sh/team) of their respective game modes. Each beatmap banner in this news post will redirect you to the respective poll. Alternatively you can view them all directly on the [Project Loved forum](https://osu.ppy.sh/community/forums/120). The voting process lasts for 10 days, so don't forget to vote! More info can be found on the [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/).
+We got another Loved wave before GTA6 — wait, what!? Oh well, we're here anyway! The days are short, the temperatures low (for our Southern friends: the days are long, the temperatures high) and Loved is back! What is this? Who are you? If these are questions you have, let me explain. Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All of the maps are chosen by the [Loved captains](https://loved.sh/team) of their respective game modes. Each beatmap banner in this news post will redirect you to the respective poll. Alternatively you can view them all directly on the [Project Loved forum](https://osu.ppy.sh/community/forums/120). The voting process lasts for 10 days, so don't forget to vote! More info can be found on the [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/).
 
 Regarding last round, you can view the results here:
 
@@ -47,23 +47,23 @@ The osu! Loved candidates were chosen by [BATBALL](https://osu.ppy.sh/users/1517
 131 BPM, 3:31 | 6.57★\
 *description written by [BATBALL](https://osu.ppy.sh/users/15173952)*
 
-Vote YES if you want to see this map in Loved, [DeviousPanda](https://osu.ppy.sh/users/4966334)'s [live on kaeps](https://osu.ppy.sh/beatmapsets/1616052#osu/3299412) !
+Vote YES if you want to see this map in Loved, [DeviousPanda](https://osu.ppy.sh/users/4966334)'s [live on kaeps](https://osu.ppy.sh/beatmapsets/1616052#osu/3299412)!
 
-This month's pick is no shy of a rhythm map, featuring tons of aim control and finger control patterns, along with a rhythmically challenging song from Sleeping Pola that constantly oscillates between 3/4 and 7/4 time signature while also providing many different rhythmic subdivisions. Be sure to check this map out if you'd like to improve your finger control skills!
+This month's pick is no shy of a rhythm map, featuring tons of aim control and finger control patterns, along with a rhythmically challenging song from Sleeping Pola that constantly oscillates between 3/4 and 7/4 time signatures while also providing many different rhythmic subdivisions. Be sure to check this map out if you'd like to improve your finger control skills!
 
-Anyways, this year I'm thankful for rhythm maps, especially after a [certain Canadian mappooler](https://osu.ppy.sh/users/6701656) game-ended this skillset from all tournaments in the last 3 years! Thanks!
+Anyway, this year I'm thankful for rhythm maps, especially after a [certain Canadian mappooler](https://osu.ppy.sh/users/6701656) game-ended this skill set from all tournaments in the last 3 years! Thanks!
 
 Hey guys... Welcome to November, I hope you guys are excited for your monthly mandated OWC map... [osu! World Cup 2021](/wiki/Tournaments/OWC/2021) btw... (sorry for not being ORIGINAL pls dont fire me)
 
 ---
 
-)em erif tnod slp LANIGIRO gnieb ton rof yrros( ...wtb 1202 puC dlroW !uso ...pam CWO detadnam ylhtnom ruoy rof deticxe era syug uoy epoh I ,rebmevoN ot emocleW ...syug yeH
+)em erif tnod slp LANIGIRO gnieb ton rof yrros (...wtb 1202 puC dlroW !uso ...pam CWO detadnam ylhtnom ruoy rof deticxe era syug uoy epoh I ,rebmevoN ot emocleW ...syug yeH
 
-!sknahT !sraey 3 tsal eht ni stnemanruot lla morf teslliks siht dedne-emag relooppam naidanaC niatrec a retfa yllaicepse ,spam mhtyhr rof lufknaht m'I raey siht ,syawynA
+!sknahT !sraey 3 tsal eht ni stnemanruot lla morf teslliks siht dedne-emag relooppam naidanaC niatrec a retfa yllaicepse ,spam mhtyhr rof lufknaht m'I raey siht ,yawynA
 
-!slliks lortnoc regnif ruoy evorpmi ot ekil d'uoy fi tuo pam siht kcehc ot erus eB .snoisividbus cimhtyhr tnereffid ynam gnidivorp osla elihw erutangis emit 4/7 dna 4/3 neewteb setallicso yltnatsnoc taht aloP gnipeelS morf gnos gnignellahc yllacimhtyhr a htiw gnola ,snrettap lortnoc regnif dna lortnoc mia fo snot gnirutaef ,pam mhtyhr a fo yhs on si kcip s'htnom sihT
+!slliks lortnoc regnif ruoy evorpmi ot ekil d'uoy fi tuo pam siht kcehc ot erus eB .snoisividbus cimhtyhr tnereffid ynam gnidivorp osla elihw serutangis emit 4/7 dna 4/3 neewteb setallicso yltnatsnoc taht aloP gnipeelS morf gnos gnignellahc yllacimhtyhr a htiw gnola ,snrettap lortnoc regnif dna lortnoc mia fo snot gnirutaef ,pam mhtyhr a fo yhs on si kcip s'htnom sihT
 
-! [speak no evil](https://osu.ppy.sh/beatmapsets/1616052#osu) s'adnaPsuoiveD ,devoL ni pam siht ees ot tnaw uoy fi SEY etoV
+![speak no evil](https://osu.ppy.sh/beatmapsets/1616052#osu) s'adnaPsuoiveD ,devoL ni pam siht ees ot tnaw uoy fi SEY etoV
 
 [![](/wiki/shared/news/2026-11-24-project-loved-november-2026/472250.jpg)](https://osu.ppy.sh/community/forums/topics/)
 
@@ -85,7 +85,7 @@ It was submitted 10 years ago, yet it hasn't aged a day. It's still a legitimate
 
 Corsace Open 2021 | Yaz's Summer Cup 2022 | Australian States Cup 2022 | North American Duo Tournament 2022 | Bangin' osu! Beatdown | Wonderful Everydraft Tournament | 4 Digit World Cup 2024 | mahloola regional cup 3 | Lazer Grand Arena 2025 | osu! Collegiate League: 10th Edition Tier 1
 
-What a beautiful list of tournaments. Wonder what they all have in common? They've selected the greatest NM1 for 7.0 🌟 ever created, [xLolicore-'s](https://osu.ppy.sh/users/4525153) [MikitoP feat. Rib - Tsukiakari](https://osu.ppy.sh/beatmapsets/1569879#osu). This map is *exactly* what you want from this slot - none of this ["Sounan"](https://leoflt.com/s/owc2026-info) nonsense we're about to see this week in OWC. It's really #nothingbutjumps and sometimes that's exactly what we all want.
+What a beautiful list of tournaments. Wonder what they all have in common? They've selected the greatest NM1 for 7.0★ ever created, [xLolicore-](https://osu.ppy.sh/users/4525153)'s [MikitoP feat. Rib - Tsukiakari](https://osu.ppy.sh/beatmapsets/1569879#osu). This map is *exactly* what you want from this slot — none of this ["Sounan"](https://docs.google.com/spreadsheets/d/136yKaeBtlxHo7o7TQxHflLOw1T67ahn8vF2FTJ0IjFc/edit?rm=minimal&gid=1075626328#gid=1075626328) nonsense we're about to see this week in OWC. It's really #nothingbutjumps and sometimes that's exactly what we all want.
 
 Please rise and vote YES for the greatest aim map of all time.
 
@@ -97,9 +97,9 @@ Please rise and vote YES for the greatest aim map of all time.
 
 Ladies and gentlemen... give a warm welcome to a new king in the Loved scene.
 
-[Yue Cat](https://osu.ppy.sh/users/12936947) makes his debut in Project Loved this month with his take on [LV.4 - Angel dust (2016 Radio Mix)](https://osu.ppy.sh/beatmapsets/2189473#osu). If you haven't seen this map yet, let the CEO of clipfarm, [decaten](https://osu.ppy.sh/users/5645231), show you some [magic](https://www.youtube.com/watch?v=K70ZxPF6zag). There really isn't much else to be said, but just some insane patterns at a ridiculous level for you to enjoy from a glance... or if you wanna get active 😈
+[Yue Cat](https://osu.ppy.sh/users/12936947) makes his debut in Project Loved this month with his take on [LV.4 - Angel dust (2016 Radio Mix)](https://osu.ppy.sh/beatmapsets/2189473#osu). If you haven't seen this map yet, let the CEO of clipfarm, [decaten](https://osu.ppy.sh/users/5645231), show you some [magic](https://www.youtube.com/watch?v=K70ZxPF6zag). There really isn't much else to be said, but just some insane patterns at a ridiculous level for you to enjoy from a glance... or if you wanna get active. 😈
 
-Vote yes for more real maps in loved!
+Vote yes for more real maps in Loved!
 
 [![](/wiki/shared/news/2026-11-24-project-loved-november-2026/1589017.jpg)](https://osu.ppy.sh/community/forums/topics/)
 
@@ -111,15 +111,15 @@ Hehehello everyone!
 
 [frederic - Rererepeat](https://osu.ppy.sh/beatmapsets/1589017#osu/3245623) is the latest entry in [n0ah](https://osu.ppy.sh/users/3086393)'s iconic map series, with all of its other mapsets already featured in the Loved section!
 
-As per usual, this map features questionable difficulty settings, wacky patterns which are extremely difficult to read, an extremely catchy song, and a beautiful yellow flower in the background - as it is almost like a tradition at this point.
+As per usual, this map features questionable difficulty settings, wacky patterns which are extremely difficult to read, an extremely catchy song, and a beautiful yellow flower in the background — as it is almost like a tradition at this point.
 
-Don't let the relatively slow BPM fool you though, the combination of low AR, unconventional rhythm choice, and perfect stacks is bound to have you miss when you least expect it! Especially considering the song's agonizingly long 4:32 of drain time - it's a true test to the player's consistency and reading.
+Don't let the relatively slow BPM fool you though: the combination of low AR, unconventional rhythm choice, and perfect stacks is bound to have you miss when you least expect it! This is especially considering the song's agonizingly long 4:32 drain time — it's a true test of the player's consistency and reading.
 
 And if you find yourself not quite up to the challenge yet, don't worry: the mapper's added a difficulty just for you, with higher AR and simplified patterns to get you accustomed to reading-intensive mapping.
 
 To wrap the whole package up nicely, the map also features an awesome custom storyboard created by [Dalibor](https://osu.ppy.sh/users/6886572) and [BramboraSK](https://osu.ppy.sh/users/8543258).
 
-That's all from me, be sure to vote YesYesYEEEEES if you want your local reading player to eat good this month!!
+That's all from me, be sure to vote Yes-Yes-YEEEEES if you want your local reading player to eat good this month!!
 
 [![](/wiki/shared/news/2026-11-24-project-loved-november-2026/620081.jpg)](https://osu.ppy.sh/community/forums/topics/)
 
@@ -129,11 +129,11 @@ That's all from me, be sure to vote YesYesYEEEEES if you want your local reading
 
 Hello Cats,
 
-Welcome back to November! I haven't decided why yet, but November is the best month to play aim-control tech maps! Which is why we will be welcoming [Akali](https://osu.ppy.sh/users/2127359) back onto the Loved stage with their map [Amane (Rolling Contact) - Technical Master](https://osu.ppy.sh/beatmapsets/620081#osu/1306932) 💥
+Welcome back to November! I haven't decided why yet, but November is the best month to play aim control tech maps, which is why we will be welcoming [Akali](https://osu.ppy.sh/users/2127359) back onto the Loved stage with their map [Amane (Rolling Contact) - Technical Master](https://osu.ppy.sh/beatmapsets/620081#osu/1306932)! 💥
 
-[Akali](https://osu.ppy.sh/users/2127359) is a mapper who needs no introduction to the Loved category. With an overwhelming 18 Loved maps so far, they dominate the community voting every time with their difficult, fun, and innovative maps. This one in particular features a lot of *Technical* cut-streams and flow-heavy aim-control patterns that are very difficult to *Master*. (I'm sorry)
+[Akali](https://osu.ppy.sh/users/2127359) is a mapper who needs no introduction to the Loved category. With an overwhelming 18 Loved maps so far, they dominate the community voting every time with their difficult, fun, and innovative maps. This one in particular features a lot of *Technical* cut streams and flow-heavy aim control patterns that are very difficult to *Master*. (I'm sorry.)
 
-Please vote yes if you wish to become a Technical Master as well... plasse vote yes I needd thjis
+Please vote yes if you wish to become a *Technical Master* as well... *plasse vote yes I needd thjis*.
 
 [![](/wiki/shared/news/2026-11-24-project-loved-november-2026/189971.jpg)](https://osu.ppy.sh/community/forums/topics/)
 
@@ -147,7 +147,7 @@ Back then, maps of this astounding difficulty were few and far between, with the
 
 *Mmmmmmm* is the second installment of this series, and it hits you just as hard with plenty of corner jumps as well as spacing that progressively increases as the map plays out, capping out with triples and streams that span across your entire screen consistently.
 
-With plays like [Cookiezi's](https://www.youtube.com/watch?v=8JimXSBCNmc) and [Doomsday's](https://www.youtube.com/watch?v=7pEOthhllB0)'s giving this map a spotlight over 10 years ago, it's about time this map gets to settle in the Loved section after so long. If you want to see how players nowadays fare with a classic like this, be sure to vote Yes!
+With plays like [Cookiezi](https://www.youtube.com/watch?v=8JimXSBCNmc)'s and [Doomsday](https://www.youtube.com/watch?v=7pEOthhllB0)'s giving this map a spotlight over 10 years ago, it's about time this map gets to settle in the Loved section after so long. If you want to see how players nowadays fare with a classic like this, be sure to vote Yes!
 
 [![](/wiki/shared/news/2026-11-24-project-loved-november-2026/2468634.jpg)](https://osu.ppy.sh/community/forums/topics/)
 
@@ -161,7 +161,7 @@ This big-circle, 7/4 alt-tech monstrosity is probably one of the most interestin
 
 This map was also featured in **[OWC 2025](/wiki/Tournaments/OWC/2025)**. Despite November already having its monthly mandated OWC map nominated for Loved (thanks, BATBALL), I do think this beatmap is unique and deserves its nomination.
 
-If you think this chaotic masterpiece deserves a spot in the Loved section, make sure to cast your vote for **YES!**
+If you think this chaotic masterpiece deserves a spot in the Loved section, make sure to cast your vote for **YES**!
 
 [![](/wiki/shared/news/2026-11-24-project-loved-november-2026/1317565.jpg)](https://osu.ppy.sh/community/forums/topics/)
 
@@ -169,13 +169,13 @@ If you think this chaotic masterpiece deserves a spot in the Loved section, make
 175 BPM, 2:21 | 6.19★\
 *description written by [seros](https://osu.ppy.sh/users/10562853)*
 
-\*Wooowwww\*, you again?
+*Wooowwww*, you again?
 
 Well, yes, [Halgoh](https://osu.ppy.sh/users/4109923) does deserve more spots here, this time with a hood classic: [kiraku - connection](https://osu.ppy.sh/beatmapsets/1317565#osu)!
 
 Ahead of his time and arguably creating a style of his own, [Halgoh](https://osu.ppy.sh/users/4109923) is back this month with an awe-inspiring slider-only tech map.
 
-Some say this map marked the moment he solidified his style. Known for distinctive slider shapes that incorporate movement and slider velocity so neatly that you feel silky-smooth dancing through them, [Halgoh](https://osu.ppy.sh/users/4109923) is in a league of his own. Not to mention his incredible hitsounding capabilities, providing an extra layer of enjoyment above this Drum & Bass track. Be aware that the abnormal rhythm at the end of the song may throw you off, but let's see that as a challenge!
+Some say this map marked the moment he solidified his style. Known for distinctive slider shapes that incorporate movement and slider velocity so neatly that you feel silky-smooth dancing through them, [Halgoh](https://osu.ppy.sh/users/4109923) is in a league of his own. Not to mention his incredible hitsounding capabilities, providing an extra layer of enjoyment above this drum & bass track. Be aware that the abnormal rhythm at the end of the song may throw you off, but let's see that as a challenge!
 
 Let's give one of our game's tech mapping greats some love (vote YES)!!!!
 
@@ -187,7 +187,7 @@ Let's give one of our game's tech mapping greats some love (vote YES)!!!!
 
 Do you yearn for the older generations of beatmaps on this game? I've got you covered with a blast from the past tune, charted by someone familiar with the antiquated eras of this game, but in a modern era...
 
-Please welcome [Lesjuh](https://osu.ppy.sh/users/44308)'s map of [Junko Ohashi - In Your Lovin'](https://osu.ppy.sh/beatmapsets/1096881#osu/2292051) to the stage! You will be met with their signature style upon playing through the map, except for some key differences. The presence of more slider-velocity changes throughout the map makes parsing some of the patterns tricky, on top of the somewhat large aim requirement that's needed for a lot of the tricky jumps and angles. There can also be a few stacks here and there strewn about, ready to test your reading and cursor control at a moment's notice!
+Please welcome [Lesjuh](https://osu.ppy.sh/users/44308)'s map of [Junko Ohashi - In Your Lovin'](https://osu.ppy.sh/beatmapsets/1096881#osu/2292051) to the stage! You will be met with their signature style upon playing through the map, except for some key differences. The presence of more slider velocity changes throughout the map makes parsing some of the patterns tricky, on top of the somewhat large aim requirement that's needed for a lot of the tricky jumps and angles. There can also be a few stacks here and there strewn about, ready to test your reading and cursor control at a moment's notice!
 
 Give the love some love by voting this into Loved status through Project Loved! ❤️
 
@@ -213,9 +213,9 @@ The osu!taiko Loved candidates were chosen by [Eriha](https://osu.ppy.sh/users/1
 
 Since its upload four years ago, [Shiggy Jr. - Oyasumi (cexiria remix)](https://osu.ppy.sh/beatmapsets/1668584#taiko) mapped by [KMYK\_](https://osu.ppy.sh/users/9687503) has been a favorite among players who love multi-game and high-BPM tracks. It has gained popularity for its addictive combination of music and note placement.
 
-At first glance, it might seem like just another high-BPM map, but the doublets timed to the beep sounds and the finisher spam in the latter half present a level of difficulty that holds up even in today's competitive scene, making this map particularly well-suited for practicing those elements!
+At first glance, it might seem like just another high-BPM map, but the doublets timed to the beep sounds and the finisher spam in the latter half present a level of difficulty that holds up even in today's competitive scene, making this map particularly well suited for practicing those elements!
 
-To all of you playing late at night, why not vote **yes** and then play "Oyasumi" to say goodnight to the game client? ...Zzz
+To all of you playing late at night, why not vote **yes** and then play *Oyasumi* to say goodnight to the game client? ...Zzz
 
 [![](/wiki/shared/news/2026-11-24-project-loved-november-2026/2362517.jpg)](https://osu.ppy.sh/community/forums/topics/)
 
@@ -236,7 +236,7 @@ If you want to see this map Loved as much as I do, get down to the voting page a
 The \[Jal hae bo ryum ^\_^;; (drain time under 3:00 zz)\] difficulty is *not* being nominated for Loved.\
 *description written by [YonGin](https://osu.ppy.sh/users/7109317)*
 
-What is it like when you turn on the [Random mod](/wiki/Gameplay/Game_modifier/Random_(lazer)) on osu!lazer? Here is a perfect Random mod simulator! [Southern Cross](https://osu.ppy.sh/beatmapsets/1914925#taiko/3950563) is the origin of the toxic stream series by various Korean players, including [6\_9](https://osu.ppy.sh/users/2998248) & [NaNaHiDa](https://osu.ppy.sh/users/30114023). It features stream patterns that you will never expect. It has its own aura and charm that can only be found in this series. A perfect map for anyone who is into awkward pattern reading.
+What is it like when you turn on the [Random mod](/wiki/Gameplay/Game_modifier/Random_(lazer)) on osu!(lazer)? Here is a perfect Random mod simulator! [Southern Cross](https://osu.ppy.sh/beatmapsets/1914925#taiko/3950563) is the origin of the toxic stream series by various Korean players, including [6\_9](https://osu.ppy.sh/users/2998248) and [NaNaHiDa](https://osu.ppy.sh/users/30114023). It features stream patterns that you will never expect, and it has its own aura and charm that can only be found in this series — a perfect map for anyone who is into awkward pattern reading.
 
 **Vote yes NOW** if you want to see this style of maps in Loved!
 
@@ -251,7 +251,7 @@ The \[Magic Handshake\] difficulty is *not* being nominated for Loved.\
 
 For this month's Project Loved, [Alsael](https://osu.ppy.sh/users/13938746) brings you a full spread of hip-hop and rap songs to chew on!
 
-Offering 8 diffs from 1 to almost 7 stars, everyone will find a difficulty tailored to their skill level and even favourite skillset. Streams, speed, short bursts? This set's got it all. Accessibility is key in Loved maps and there's a reason why this pack has racked up a playcount just shy of 2 thousand!
+Offering 8 diffs from 1 to almost 7 stars, everyone will find a difficulty tailored to their skill level and even favourite skill set. Streams, speed, short bursts? This set's got it all. Accessibility is key in Loved maps and there's a reason why this pack has racked up a playcount just shy of 2 thousand!
 
 Make sure to vote **yes** if you'd like to see this map Loved!
 
@@ -261,9 +261,9 @@ Make sure to vote **yes** if you'd like to see this map Loved!
 170 BPM, 2:50 | 6.51★\
 *description written by [Horiiizon](https://osu.ppy.sh/users/8071438)*
 
-Please ignore the title of this map, as you are definitely going to want to play [Amanogawa Converter - Never play me](https://osu.ppy.sh/beatmapsets/2354618#taiko/5069528) mapped by [ZTH](https://osu.ppy.sh/users/5258461), mapped for the gimmick slot in the [osu!taiko World Cup 2025 Finals](/wiki/Tournaments/TWC/2025#finals). Never play me features extreme and varied SVs that test reading on all fronts, including fast SV increases and decreases, extreme overlaps and cut streams made especially difficult to read due to intricate and difficult patterns including a constant mix of 1/6 and 1/8!
+Please ignore the title of this map, as you are definitely going to want to play [Amanogawa Converter - Never play me](https://osu.ppy.sh/beatmapsets/2354618#taiko/5069528) mapped by [ZTH](https://osu.ppy.sh/users/5258461), mapped for the gimmick slot in the [osu!taiko World Cup 2025 Finals](/wiki/Tournaments/TWC/2025#finals). *Never play me* features extreme and varied SVs that test reading on all fronts, including fast SV increases and decreases, extreme overlaps and cut streams made especially difficult to read due to intricate and difficult patterns including a constant mix of 1/6 and 1/8!
 
-Definitely play me and vote yes if you enjoyed 🐱💣
+Definitely play me and vote yes if you enjoyed! 🐱💣
 
 ## osu!catch
 
@@ -305,7 +305,7 @@ If you've been around the osu!catch tournament scene for a while, you've probabl
 
 Mapped by [Jemzuu](https://osu.ppy.sh/users/7890134) back in 2021, [Revenant](https://osu.ppy.sh/beatmapsets/1457736#fruits/2995853) is a tech map with plenty of mechanical patterns, made around the time he was starting to develop the mapping style he's known for today. It's a pretty challenging map that really shows what his tech mapping is all about.
 
-It even has over 4,000 playcount despite being a graveyard map, which says a lot about how popular it is.
+It even has over 4,000 playcount despite being a Graveyard map, which says a lot about how popular it is.
 
 After all these years of tournament picks, let's finally get it into Loved!
 
@@ -331,9 +331,9 @@ Now let's get this one a spot in Loved, shall we... 🌟?
 185 BPM, 3:58 | 7.97★\
 *description written by [MILK\_16](https://osu.ppy.sh/users/9137627)*
 
-*Brine*..... We all remember that iconic map that for more than a whole generation was seen and played all around the multiplayer lobbies, from which CTB legends managed to get amazing scores and conquer said map. Sadly, such an iconic map disappeared.
+*Brine*..... We all remember that iconic map that for more than a whole generation was seen and played all around the multiplayer lobbies, from which osu!catch legends managed to get amazing scores and conquer said map. Sadly, such an iconic map disappeared.
 
-But today, [Story](https://osu.ppy.sh/users/8172283) comes back to the Loved section bringing un a tribute to [sink to the deep sea world](https://osu.ppy.sh/beatmapsets/1695393#fruits/3464138) from the FA [Chroma](https://osu.ppy.sh/beatmaps/artists/215), inspired on [Rocma](https://osu.ppy.sh/users/566276)'s set, it features a 7.96★ star rating and a versatile playability in which you must be precise, consistent and possess stamina to conquer it. Wiggles, streams, anti-flow, and L-shaped patterns are some of the patterns this masterpiece presents to us, aside from a high AR and a length of almost 4 minutes, you will need nerves of steel if you want to manage an FC.
+But today, [Story](https://osu.ppy.sh/users/8172283) comes back to the Loved section bringing un a tribute to [sink to the deep sea world](https://osu.ppy.sh/beatmapsets/1695393#fruits/3464138) from the FA [Chroma](https://osu.ppy.sh/beatmaps/artists/215), inspired by [Rocma](https://osu.ppy.sh/users/566276)'s set, it features a 7.96★ star rating and a versatile playability in which you must be precise, consistent and possess stamina to conquer it. Wiggles, streams, anti-flow, and L-shaped patterns are some of the patterns this masterpiece presents to us, aside from a high AR and a length of almost 4 minutes, you will need nerves of steel if you want to manage an FC.
 
 What are you waiting for to download and try this map? If you liked it and want to see it in the Loved section soon, please give us a positive vote on the survey.
 
@@ -344,9 +344,10 @@ What are you waiting for to download and try this map? If you liked it and want 
 The \[hs\] difficulty is *not* being nominated for Loved.\
 *description written by [LaviSorrow](https://osu.ppy.sh/users/9966768)*
 
-One of the most recognizable AR8 slider-reading test maps is finally getting its chance to be Loved!\
-[Crim Nanakusa - Dialnote](https://osu.ppy.sh/beatmapsets/1935722#fruits/4000779), originally created as an HD2 pick for the [AxS 8 tournament](https://wybin.xyz/axs-8th-edition/home), remains one of the biggest accuracy challenges among low-approach-rate beatmaps to this day. Its star rating might be only 4.05★, but don't let that fool you - this map is incredibly difficult to SS, especially with the Hidden mod.\
-While its patterns might seem relatively simple at first glance, a lot of work went into manually adjusting the droplets appearing throughout the sliders, making this map a truly unique challenge.\
+One of the most recognizable AR 8 slider reading test maps is finally getting its chance to be Loved! [Crim Nanakusa - Dialnote](https://osu.ppy.sh/beatmapsets/1935722#fruits/4000779), originally created as an HD2 pick for the [AxS 8 tournament](https://osu.ppy.sh/community/forums/topics/1689014?n=1), remains one of the biggest accuracy challenges among low-approach-rate beatmaps to this day. Its star rating might be only 4.05★, but don't let that fool you — this map is incredibly difficult to SS, especially with the Hidden mod.
+
+While its patterns might seem relatively simple at first glance, a lot of work went into manually adjusting the droplets appearing throughout the sliders, making this map a truly unique challenge.
+
 A huge shoutout to the creator, [Sololiquy](https://osu.ppy.sh/users/4350087)! We love the unique approach you bring to every beatmap you create!
 
 [![](/wiki/shared/news/2026-11-24-project-loved-november-2026/33989.jpg)](https://osu.ppy.sh/community/forums/topics/)
@@ -391,7 +392,7 @@ To be honest, I get it. They're incredibly catchy, both in terms of how visually
 
 So, why this one set in particular among the 3 popular ones?
 
-All 3 sets do have pretty much the same general approach, but vary in patterns and execution. [denzeljr's](https://osu.ppy.sh/users/14335907) rendition was the one I liked the most, and raw statistics also seemed to follow my lead. Or maybe I was led by statistics to think that. I don't really know.
+All 3 sets do have pretty much the same general approach, but vary in patterns and execution. [denzeljr](https://osu.ppy.sh/users/14335907)'s rendition was the one I liked the most, and raw statistics also seemed to follow my lead. Or maybe I was led by statistics to think that. I don't really know.
 
 Anyways, *WYNEHOUSE (Nightcore Mix)* is a pretty interesting reading challenge: lots of stutters, lots of repetitive and intuitive denormalization, and fairly physical patterning as far as SV usually goes. I think a lot of people should be able to grasp the concepts in a run or two. Getting good accuracy, however, is another type of grind that requires you to anchor yourself both visually and aurally to keep the necessary stability to execute the map properly.
 
@@ -483,7 +484,7 @@ However, unlike regular jumpstream, you also have to consider your releases, sin
 
 There are different kinds of approaches here, one of which where you try to get lesser 200s but sacrifice ratio, or get a better ratio but get more 200s and other bad judgments. Obviously, the ideal is getting a great ratio and no bad judgments at all; however, these kinds of scores are reserved for the best of the best players. Thankfully, this chart is at OD 7, which was the standard for LN charts in tournaments at the time. This means that it is a little forgiving when it comes to 200s, but it does not mean that you shouldn't focus anymore. With the nature of this chart, you really need to make sure that you can keep a consistent rhythm, hit the patterns correctly, and release at the right moment.
 
-Knowing how much the playerbase has evolved, I know that we are going to see crazy performances all around. Starting from 1.0x up to 1.3x, players have a wide range of rates to see which one they could challenge themselves among the rest of the world. LN continues to become a skillset that more people are getting the hang of, and players will definitely be able to sharpshoot this to the best of their abilities.
+Knowing how much the playerbase has evolved, I know that we are going to see crazy performances all around. Starting from 1.0x up to 1.3x, players have a wide range of rates to see which one they could challenge themselves among the rest of the world. LN continues to become a skill set that more people are getting the hang of, and players will definitely be able to sharpshoot this to the best of their abilities.
 
 Do you think you have what it takes to reach the top of the top on LN density charts like this? Do you want to see more charts like this? Then I think you should show your support for this chart and give this a favorable vote!
 
@@ -499,7 +500,7 @@ Charted for the LN1 slot of the [MWC 4K 2024](/wiki/Tournaments/MWC/2024_4K) Gra
 
 If we deconstruct the chart down to the pure hit notes, we stray away from broken streams and welcome in some tricky bursts! But the changes don't stop there, (un)fortunately. Taking the releases back into account, we find 1/12 flams scattered within staggers and what I like to call references; those releases that occur on the same snap as other hit notes, yet doesn't exactly play like density patterning.
 
-With the presence of this pattern, you can 'reference' the release timing with the hit notes and physically snap to the correct timing like you can with LN2 maps. Since they usually follow up staggers in this particular chart, it gives rise to the classic timing hell feel, forcing you to read these changes and adjust your finger control on the spot. But with the aforementioned changes above, it feels like this classic feel has been revised. Yet I can't say this is a bad thing at all! These changes are so creative that it results in such a fun and unique chart! But if you don't have insanely strong long note fundamentals, you'll watch yourself suffer and watch your accuracy [Ignite](https://osu.ppy.sh/beatmapsets/2253770#mania/4793964) (into flames).
+With the presence of this pattern, you can "reference" the release timing with the hit notes and physically snap to the correct timing like you can with LN2 maps. Since they usually follow up staggers in this particular chart, it gives rise to the classic timing hell feel, forcing you to read these changes and adjust your finger control on the spot. But with the aforementioned changes above, it feels like this classic feel has been revised. Yet I can't say this is a bad thing at all! These changes are so creative that it results in such a fun and unique chart! But if you don't have insanely strong long note fundamentals, you'll watch yourself suffer and watch your accuracy [Ignite](https://osu.ppy.sh/beatmapsets/2253770#mania/4793964) (into flames).
 
 Whether you annihilate charts or charts usually devastate you, it doesn't matter if you can't adjust to these timing flames. If you feel ruthless, give [Ignite](https://osu.ppy.sh/beatmapsets/2253770#mania/4793964) a highly anticipated shot into Loved and vote!
 
@@ -525,7 +526,7 @@ Guess who's back? This month, our old friend [tangjinxi](https://osu.ppy.sh/user
 
 If you have a soft spot for 7K LN maps, chances are you're already familiar with tangjinxi's mapping style. That nostalgic O2Jam flavor never loses its charm, and it's always a pleasure to see it return for another round. With two difficulties to choose from, there's more than one way to get your LN fix!
 
-For me, the nostalgia goes beyond the patterns. GG Bond was part of my childhood, and hearing this song again brings those memories right back. Whether you're here for tangjinxi's maps, the O2Jam nostalgia, or just for GG Bond, give this set a try and VOTE YES!!!
+For me, the nostalgia goes beyond the patterns. GG Bond was part of my childhood, and hearing this song again brings those memories right back. Whether you're here for tangjinxi's maps, the O2Jam nostalgia, or just for *GG Bond*, give this set a try and VOTE YES!!!
 
 [![](/wiki/shared/news/2026-11-24-project-loved-november-2026/2134141.jpg)](https://osu.ppy.sh/community/forums/topics/)
 
@@ -533,11 +534,11 @@ For me, the nostalgia goes beyond the patterns. GG Bond was part of my childhood
 200 BPM, 4:17 | 7.52★\
 *description written by [Carpihat](https://osu.ppy.sh/users/10085090)*
 
-[Leeju](https://osu.ppy.sh/users/18219603)'s patterns are well known for their distinctive structure and flow. It's been a while since we last nominated one of his maps, so this month we're bringing [魑魅魍魎 -跋扈-](https://osu.ppy.sh/beatmapsets/2134141#mania/4490010) into the spotlight!
+[Leeju](https://osu.ppy.sh/users/18219603)'s patterns are well known for their distinctive structure and flow. It's been a while since we last nominated one of his maps, so this month we're bringing [魑魅魍魎 -跋扈-](https://osu.ppy.sh/beatmapsets/2134141#mania/4490010) (*Chimi Moryo -Bakko-*) into the spotlight!
 
 This map consists almost entirely of rice, with chordstreams as its main pattern. It also features a fair amount of burst delays and trills. These patterns flow naturally with the song's arrangement. In particular, when Laur's signature repeating 1/4 synths kick in, Leeju makes excellent use of repetitive patterns to turn them into something that feels both intuitive and perfectly suited to the music.
 
-If you enjoy this map, love the music, or are simply a fan of Leeju's mapping, please vote for us!
+If you enjoy this map, love the music, or are simply a fan of Leeju's mapping, please vote yes!
 
 ---
 
