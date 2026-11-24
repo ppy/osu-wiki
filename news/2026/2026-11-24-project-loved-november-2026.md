@@ -63,7 +63,7 @@ Hey guys... Welcome to November, I hope you guys are excited for your monthly ma
 
 !slliks lortnoc regnif ruoy evorpmi ot ekil d'uoy fi tuo pam siht kcehc ot erus eB .snoisividbus cimhtyhr tnereffid ynam gnidivorp osla elihw serutangis emit 4/7 dna 4/3 neewteb setallicso yltnatsnoc taht aloP gnipeelS morf gnos gnignellahc yllacimhtyhr a htiw gnola ,snrettap lortnoc regnif dna lortnoc mia fo snot gnirutaef ,pam mhtyhr a fo yhs on si kcip s'htnom sihT
 
-![speak no evil](https://osu.ppy.sh/beatmapsets/1616052#osu) s'adnaPsuoiveD ,devoL ni pam siht ees ot tnaw uoy fi SEY etoV
+\![speak no evil](https://osu.ppy.sh/beatmapsets/1616052#osu) s'adnaPsuoiveD ,devoL ni pam siht ees ot tnaw uoy fi SEY etoV
 
 [![](/wiki/shared/news/2026-11-24-project-loved-november-2026/472250.jpg)](https://osu.ppy.sh/community/forums/topics/2265979)
 
