@@ -95,17 +95,17 @@ Seputaran In-game, menu utama mendapat visualisasi baru, dengan suar menyala di 
 
 Berpindah ke Gameplay, lead-in time secara otomatis menambah beatmap yang mulai tiba-tiba untuk memungkinkan cukup waktu untuk menyesuaikan [Pengaturan Visual](/wiki/Client/Interface/Visual_settings) dan jumlah tekan total untuk setiap tombol pada input overlay ditambahkan. Untuk penyimpanan hasil online, peringkat pribadi terbaik ditampilkan pada halaman info beatmap selain pemain \#1. Pengiriman skor dari chart mania diizinkan dan replay 50 pemain teratas disimpan daripada biasanya hanya 40 pemain. Perbaikan pada Quick repeat slider yang tidak dapat mencapai kombo maksimumnya. Komentar disqus ditambahkan ke halaman beatmap. Terakhir, pengujian prototipe skor meter untuk semua mode sedang dilakukan untuk osu!test.
 
-![](img/2013-06_01.jpg "Proses pembuatan akun")
+![](img/account-creation.jpg "Proses pembuatan akun")
 
-![](img/2013-06_02.jpg "Contoh percobaan pembuatan beberapa akun")
+![](img/multiple-accounts.jpg "Contoh percobaan pembuatan beberapa akun")
 
-![](img/2013-06_03.jpg "Contoh perbandingan di halaman info beatmap")
+![](img/beatmap-info.jpg "Contoh perbandingan di halaman info beatmap")
 
-![](img/2013-06_04.jpg "Contoh profil pengguna saat ini")
+![](img/user-profile.jpg "Contoh profil pengguna saat ini")
 
-![](img/2013-06_05.jpg "Disqus diimplementasikan")
+![](img/disqus.jpg "Disqus diimplementasikan")
 
-![](img/2013-06_06.jpg "Visualisasi menu utama baru")
+![](img/flare.jpg "Visualisasi menu utama baru")
 
 Tautan Terkait:
 
@@ -118,9 +118,9 @@ Tautan Terkait:
 
 Pada 2013-07-02, peppy membuat [osu!api](https://osu.ppy.sh/community/forums/topics/141240) terbuka untuk umum (sebelumnya hanya tersedia melalui permintaan langsung secara pribadi). Dengan ini, pengembang independen dapat membuat proyek layanan third party untuk osu!. Pada 2013-07-11, laman "forgot password" yang sebelumnya rusak telah diperbaiki. 2013-07-18 membawa pembaruan ke konektivitas fallback Bancho. Pada 2013-07-21, dukungan widescreen untuk storyboard ditambahkan dalam dialog pengaturan lagu. Dua In-game overlay baru ditambahkan untuk melacak akurasi saat Anda bermain atau menonton orang lain bermain. lihat laman [Options](/wiki/Client/Options) untuk informasi lebih lanjut.
 
-![](img/2013-07_01.jpg "Overlay Hit-error")
+![](img/hit-error-overlay.jpg "Overlay Hit-error")
 
-![](img/2013-07_02.jpg "Overlay warna")
+![](img/colour-overlay.jpg "Overlay warna")
 
 Tautan Terkait:
 
@@ -129,7 +129,7 @@ Tautan Terkait:
 
 ## Desember
 
-![](img/2013-12_01.jpg "peppy sebagai bintang tamu di Comic Fiesta 2013")
+![](img/comic-fiesta.jpg "peppy sebagai bintang tamu di Comic Fiesta 2013")
 
 [peppy dikonfirmasi untuk datang di Comic Fiesta 2013, Malaysia pada 21 dan 22 Desember di Kuala Lumpur City Centre](https://osu.ppy.sh/community/forums/topics/163121). Untuk hari pertama (2013-12-21), osu! ditampilkan eksklusif di panggung, menampilkan osu! tersendiri beserta empat mode game yang berbeda (osu!, Taiko, Catch the Beat, dan osu!mania). Untuk hari 2 (2013-12-22), peppy memberikan wawasan tentang osu! bersamaan dengan rencana pembaruan di masa yang akan datang di panel dan memamerkan tablet osu! pada publik untuk mencobanya.
 
