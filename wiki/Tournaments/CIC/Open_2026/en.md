@@ -21,7 +21,7 @@ The **Catch Indonesia Cup Open 2026** (***CICO 2026***) is a double-elimination 
 | Round of 16 | 2026-11-02/2026-11-08 |
 | Quarterfinals | 2026-11-09/2026-11-15 |
 | Semifinals | 2026-11-16/2026-11-22 |
-| *break* | 2026-11-23/2026-11-29 |
+| *Break* | 2026-11-23/2026-11-29 |
 | Finals (week 1) | 2026-11-30/2026-12-06 |
 | Finals (week 2) | 2026-12-07/2026-12-13 |
 
