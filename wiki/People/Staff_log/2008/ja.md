@@ -49,7 +49,7 @@
 
 ## 10月
 
-- [ash](https://osu.ppy.sh/users/11593)をビートマップ承認チームから追加 (2008-10-13) <!-- https://osu.ppy.sh/community/forums/posts/55293 don't really know what happened here. he became a meme? https://osu.ppy.sh/community/forums/posts/81785 -->
+- [ash](https://osu.ppy.sh/users/11593)をビートマップ承認チームに追加 (2008-10-13) <!-- https://osu.ppy.sh/community/forums/posts/55293 don't really know what happened here. he became a meme? https://osu.ppy.sh/community/forums/posts/81785 -->
 - [ash](https://osu.ppy.sh/users/11593)をビートマップ承認チームから削除 (2008-10-13)
 - [Seibei](https://osu.ppy.sh/users/31537)をビートマップ承認チームに追加 (2008-10-28) <!-- https://osu.ppy.sh/community/forums/posts/58918 -->
 - [m980](https://osu.ppy.sh/users/3288)をビートマップ承認チームに追加 (2008-10-28)

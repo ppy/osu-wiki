@@ -52,7 +52,7 @@
 
 ## Октябрь
 
-- Добавление [ash](https://osu.ppy.sh/users/11593) из Beatmap Approval Team (2008-10-13) <!-- https://osu.ppy.sh/community/forums/posts/55293 don't really know what happened here. he became a meme? https://osu.ppy.sh/community/forums/posts/81785 -->
+- Добавление [ash](https://osu.ppy.sh/users/11593) в Beatmap Approval Team (2008-10-13) <!-- https://osu.ppy.sh/community/forums/posts/55293 don't really know what happened here. he became a meme? https://osu.ppy.sh/community/forums/posts/81785 -->
 - Исключение [ash](https://osu.ppy.sh/users/11593) из Beatmap Approval Team (2008-10-13)
 - Добавление [Seibei](https://osu.ppy.sh/users/31537) в Beatmap Approval Team (2008-10-28) <!-- https://osu.ppy.sh/community/forums/posts/58918 -->
 - Добавление [m980](https://osu.ppy.sh/users/3288) в Beatmap Approval Team (2008-10-28)
