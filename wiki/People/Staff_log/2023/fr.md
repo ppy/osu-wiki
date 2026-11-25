@@ -672,4 +672,4 @@ Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont le
 
 ## Après le mois d'octobre
 
-Depuis le 27 octobre 2023, les changements : groupes d'utilisateurs sont enregistrés sur la page ["historique des groupes" du site web](https://osu.ppy.sh/groups/history). Cet article du wiki ne sera plus mis à jour.
+Depuis le 27 octobre 2023, les changements : groupes d'utilisateurs sont enregistrés sur la page [historique des groupes](https://osu.ppy.sh/groups/history) du site web. Cet article du wiki ne sera plus mis à jour.

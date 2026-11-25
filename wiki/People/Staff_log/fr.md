@@ -32,4 +32,4 @@ Les articles suivants répertorient les promotions et les retraits pour la plupa
 - [2022](2022)
 - [2023](2023)
 
-Depuis le 27 octobre 2023, les modifications apportées aux groupes d'utilisateurs sont enregistrées sur la page ["historique des groupes" du site web](https://osu.ppy.sh/groups/history). Ces articles du wiki ne sont plus mis à jour.
+Depuis le 27 octobre 2023, les modifications apportées aux groupes d'utilisateurs sont enregistrées sur la page [historique des groupes](https://osu.ppy.sh/groups/history) du site web. Ces articles du wiki ne sont plus mis à jour.

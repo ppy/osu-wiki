@@ -48,4 +48,4 @@ TODO: incomplete history
 - ... probably many more. searching for "Moved.+?\) to" helps find people with broken history, since their origin group on Moved isn't logged
 -->
 
-Since 27 October, 2023, changes to users' groups are recorded on the ["group history" page of the website](https://osu.ppy.sh/groups/history). These wiki articles are no longer updated.
+Since 27 October, 2023, changes to users' groups are recorded on the [group history page](https://osu.ppy.sh/groups/history) of the website. These wiki articles are no longer updated.

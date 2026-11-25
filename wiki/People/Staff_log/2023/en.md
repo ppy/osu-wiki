@@ -672,4 +672,4 @@ Abbreviations for user groups are used throughout this log:
 
 ## After October
 
-Since 27 October, 2023, changes to users' groups are recorded on the ["group history" page of the website](https://osu.ppy.sh/groups/history). This wiki article is no longer updated.
+Since 27 October, 2023, changes to users' groups are recorded on the [group history page](https://osu.ppy.sh/groups/history) of the website. This wiki article is no longer updated.
