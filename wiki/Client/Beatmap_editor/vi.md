@@ -27,7 +27,7 @@ Tab [Thiết kế](/wiki/Client/Beatmap_editor/Design) cung cấp cách để t�
 
 ## Timing
 
-Tab [Timing](/wiki/Client/Beatmap_editor/Timing) quản lý các điểm căn nhịp của bài hát và điều khiển hitsound của beatmap. Đây là những thứ rất quan trọng vì một beatmap cần được căn nhịp chính xác và có phản hồi âm thanh phù hợp để trải nghiệm chơi khớp với tiết tấu của bài hát.
+Tab [Timing/Căn Nhịp](/wiki/Client/Beatmap_editor/Timing) quản lý các điểm căn nhịp (timing) của bài hát và điều khiển hitsound của beatmap. Đây là những thứ rất quan trọng vì một beatmap cần được căn nhịp chính xác và có độ trễ âm thanh phù hợp để trải nghiệm chơi khớp với tiết tấu của bài hát.
 
 ## Cài đặt bài hát
 
