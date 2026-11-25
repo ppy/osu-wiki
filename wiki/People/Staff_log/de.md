@@ -32,4 +32,4 @@ In den folgenden Artikeln sind die Beförderungen und Pensionierungen der meiste
 - [2022](2022)
 - [2023](2023)
 
-Seit dem 27. Oktober 2023 werden die Änderungen der Benutzergruppen auf der [Seite "Gruppenhistorie"](https://osu.ppy.sh/groups/history) der Webseite dokumentiert. Diese Wiki-Artikel werden nicht mehr aktualisiert.
+Seit dem 27. Oktober 2023 werden die Änderungen der Benutzergruppen in der [Gruppenhistorie](https://osu.ppy.sh/groups/history) auf der Webseite dokumentiert. Diese Wiki-Artikel werden nicht mehr aktualisiert.
