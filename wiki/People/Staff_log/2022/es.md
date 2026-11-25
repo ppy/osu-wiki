@@ -101,7 +101,7 @@ En este registro se usan abreviaturas para los grupos de usuarios:
 - 8/3/2022: [AJT](https://osu.ppy.sh/users/3181083) fue retirado del **NAT**
 - 8/3/2022: [huu](https://osu.ppy.sh/users/6044237) fue retirado del **Project Loved Team**
 - 21/3/2022: [Noffy](https://osu.ppy.sh/users/1541323) fue añadido al **Project Loved Team**
-- 29/3/2022 [Noffy](https://osu.ppy.sh/users/1541323) fue retirado del **NAT**
+- 29/3/2022: [Noffy](https://osu.ppy.sh/users/1541323) fue retirado del **NAT**
 - 29/3/2022: [Noffy](https://osu.ppy.sh/users/1541323) fue añadido a los **osu! Alumni**
 - 31/3/2022: [Kasumi-sama](https://osu.ppy.sh/users/6177263) fue añadido al **Project Loved Team**
 

@@ -101,7 +101,7 @@ Abbreviations for user groups are used throughout this log:
 - 2022-03-08: Removed [AJT](https://osu.ppy.sh/users/3181083) from **NAT**
 - 2022-03-08: Removed [huu](https://osu.ppy.sh/users/6044237) from **Project Loved Team**
 - 2022-03-21: Added [Noffy](https://osu.ppy.sh/users/1541323) to **Project Loved Team**
-- 2022-03-29 Removed [Noffy](https://osu.ppy.sh/users/1541323) from **NAT**
+- 2022-03-29: Removed [Noffy](https://osu.ppy.sh/users/1541323) from **NAT**
 - 2022-03-29: Added [Noffy](https://osu.ppy.sh/users/1541323) to **osu! Alumni**
 - 2022-03-31: Added [Kasumi-sama](https://osu.ppy.sh/users/6177263) to **Project Loved Team**
 
