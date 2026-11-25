@@ -11,7 +11,7 @@ Greetings, osu! community! The [osu! Beatmapping World Championship (o!bwc)](htt
 
 ## Summary
 
-![Podium of top 4 winning teams: China, Australia, Argentina and Russian Federation](/wiki/shared/news/2026-11-26-osu-beatmapping-world-championship-2026-results/concluding-newspost-podium.jpg)
+![Podium of top 4 winning teams: China, Australia, Argentina and the Russian Federation](/wiki/shared/news/2026-11-26-osu-beatmapping-world-championship-2026-results/concluding-newspost-podium.jpg)
 
 o!bwc started, like many competitions, with a qualifier round, in which all registered teams competed for 16 spots in the clash stage. These were followed by four clash rounds: The Round of 16, Quarterfinal, Semifinal and Final. Each clash round consisted of intense head-to-head matchups where only the winners advanced. For full details on the matchups, check out the [o!bwc bracket on Challonge](https://challonge.com/obwc2026) and the [livestream recordings](https://www.youtube.com/@osubwc8023) of each round.
 
@@ -118,7 +118,7 @@ The hitsounds were designed to support the increasing intensity of the map, beco
 
 ## Prizes
 
-![Badge Design](/wiki/shared/news/2026-11-26-osu-beatmapping-championship-2026-results/concluding-newspost-badges.jpg)
+![Badge design](/wiki/shared/news/2026-11-26-osu-beatmapping-world-championship-2026-results/concluding-newspost-badges.jpg)
 
 This year, we received a total of **$1,150 USD** of donations from a wide range of sponsors! The top 4 teams get a share of the prize pool, and in addition to cash prizes, badge and contest points are also awarded as detailed below.
 
