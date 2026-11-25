@@ -2,7 +2,7 @@
 
 <!-- TODO: needs to be revisited when the articles under Beatmap editor no longer match what's written here -->
 
-![A screenshot of the editor's compose tab showing pishifat's Donor Song beatmap](img/compose.jpg)
+![Ảnh chụp màn hình của tab soạn thảo trong trình chỉnh sửa hiển thị beatmap Donor Song bởi pishifat](img/compose.jpg)
 
 ::: alert-note
 **Lưu ý:** Để biết các phím tắt của trình chỉnh sửa beatmap, hãy xem [Tham khảo các phím tắt § Trình chỉnh sửa beatmap](/wiki/Client/Keyboard_shortcuts#beatmap-editor)

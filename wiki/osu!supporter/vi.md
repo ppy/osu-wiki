@@ -8,7 +8,7 @@ tags:
 
 # osu!supporter
 
-[![osu!supporter promotional image](img/supporter-eyecatch.jpg)](https://osu.ppy.sh/home/support)
+[![Hình ảnh giới thiệu osu!supporter](img/supporter-eyecatch.jpg)](https://osu.ppy.sh/home/support)
 
 **osu!supporter** (hoặc ***thẻ osu!supporter***) là một danh hiệu tạm thời được trao cho những người chơi đã ủng hộ osu! bằng cách quyên góp tiền một cách tự nguyện nhằm giúp osu! phát triển. Những người ủng hộ sẽ nhận được một số quyền lợi về mặt giao diện hồ sơ và chức năng, hầu hết trong số đó chỉ có hiệu lực khi thẻ này đang được kích hoạt. Các tính năng bổ sung từ osu!supporter không mang lại bất kỳ lợi thế nào về lối chơi, hiệu quả hay điểm số, và sẽ không bao giờ như vậy.
 
@@ -142,10 +142,10 @@ Người ủng hộ có thể truy cập chế độ multiplayer từ các bản
 ## Thời hạn còn lại
 
 ::: Infobox
-![](img/status.jpg?1 "Số liệu thống kê mua gói osu!supporter")
+![](img/status.jpg?1 "Số liệu thống kê mua thẻ osu!supporter")
 :::
 
-Thời hạn osu!supporter còn lại, cũng như tổng số tiền đóng góp, số lần mua danh hiệu và quà tặng, được hiển thị ở đầu [trang giới thiệu osu!supporter](https://osu.ppy.sh/home/support).
+Thời hạn osu!supporter còn lại, cũng như tổng số tiền đóng góp, số lần mua thẻ và quà tặng, được hiển thị ở đầu [trang giới thiệu osu!supporter](https://osu.ppy.sh/home/support).
 
 ## Cách nhận osu!supporter
 
@@ -156,7 +156,7 @@ Sau đó, nhấp vào `Thêm Vào Giỏ Hàng` để thêm thẻ supporter vào 
 ### Tặng osu!supporter
 
 ::: Infobox
-![](img/profile-gift-supporter.png "Nút menu thả xuống trên trang hồ sơ để tặng gói osu!supporter cho người khác")
+![](img/profile-gift-supporter.png "Nút menu thả xuống trên trang hồ sơ để tặng thẻ osu!supporter cho người khác")
 :::
 
 Bạn cũng có thể tặng osu!supporter cho người chơi khác bằng cách nhập tên người dùng của họ bên dưới thẻ người dùng, hoặc nhấp vào `Tặng thẻ supporter` trên trang hồ sơ của họ. Bạn có thể thêm nhiều người nhận hơn bằng cách quay lại trang cửa hàng hoặc trang hồ sơ của người khác và lặp lại quy trình trên.
