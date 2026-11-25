@@ -381,7 +381,7 @@ Minggu, 30 Juni 2019:
   - Penyiar
   - Komentator
   - Desainer
-- Setiap peserta yang mendaftar akan melalui sesi [Tournament Screening](/wiki/Tournaments/Official_support#tournament-screening).
+- Setiap peserta yang mendaftar akan melalui sesi [Tournament Screening](/wiki/Tournaments/Official_support#screening).
 
 ### Peraturan Turnamen
 

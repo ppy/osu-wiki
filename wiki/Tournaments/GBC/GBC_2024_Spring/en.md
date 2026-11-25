@@ -469,7 +469,7 @@ Due to the large number of players and matches, the match results will be displa
 | B | 0–4,499 |
 
 5. If the 4K pp of a player is much higher than the upper limit of their group, they will be forced to promote into the next group. The buffer is *100 pp*.
-6. [Tournament staff members](/wiki/Tournaments/Official_support#staff) must not participate as players in the tournament.
+6. [Tournament staff members](/wiki/Tournaments/Official_support#staff-expectations) must not participate as players in the tournament.
 7. Organisers may force to promote some players that are considered too strong in their groups.
 8. Organisers reserve the right to decline restricted players from participating in the tournament.
 9. It is allowed for players to request to change their level. Such players need to send screenshots of scores from higher-level mappools to the organiser.

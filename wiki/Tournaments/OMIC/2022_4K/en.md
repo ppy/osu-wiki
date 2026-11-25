@@ -368,7 +368,7 @@ Sunday, 10 July 2022:
   - Streamer
   - Commentator
   - Designer
-- Every registering participant will be required to go through [tournament screening](/wiki/Tournaments/Official_support#tournament-screening).
+- Every registering participant will be required to go through [tournament screening](/wiki/Tournaments/Official_support#screening).
 
 ### General rules
 

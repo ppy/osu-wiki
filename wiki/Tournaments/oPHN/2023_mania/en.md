@@ -520,7 +520,7 @@ As the tournament name implies, this is an osu!mania tournament set up as a nati
 
 Players who currently have (or had at some point since account creation) the Philippine flag on their profile, or players who do not have the Philippine flag on their profiles, but **can present a proof of their Philippine citizenship** to the staff, are the only ones allowed to join the tournament.
 
-Staff members who are **[not referees, mappool selectors, hosts, nor are part of any managing role](/wiki/Tournaments/Official_support#staff)** are permitted to join the tournament.
+Staff members who are **[not referees, mappool selectors, hosts, nor are part of any managing role](/wiki/Tournaments/Official_support#staff-expectations)** are permitted to join the tournament.
 
 #### Round overview
 
