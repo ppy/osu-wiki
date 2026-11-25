@@ -286,8 +286,8 @@ All users listed below were added on 2019-02-16.
 - Removed [Ultima Fox](https://osu.ppy.sh/users/3198109) from Beatmap Nominators - inactivity (2019-11-18)
 - Added [Seolv](https://osu.ppy.sh/users/8067876) to Probationary Beatmap Nominators (2019-11-18)
 - Moved [radar](https://osu.ppy.sh/users/7131099) from Probationary Beatmap Nominators to Beatmap Nominators (2019-11-19)
-- Moved [tasuke912](https://osu.ppy.sh/users/2774767) from Beatmap Nominators to Probationary Beatmap Nominators - nominated beatmap with significant RC violations (2019-11-22)
-- Removed [Rhytoly](https://osu.ppy.sh/users/8121109) from Probationary Beatmap Nominators - nominated beatmap with significant RC violations (2019-11-22)
+- Moved [tasuke912](https://osu.ppy.sh/users/2774767) from Beatmap Nominators to Probationary Beatmap Nominators - nominated beatmap with significant ranking criteria violations (2019-11-22)
+- Removed [Rhytoly](https://osu.ppy.sh/users/8121109) from Probationary Beatmap Nominators - nominated beatmap with significant ranking criteria violations (2019-11-22)
 - Removed [Raiden](https://osu.ppy.sh/users/2239480) from Beatmap Nominators - resignation (2019-11-25)
 - Added [Kyousukee](https://osu.ppy.sh/users/8842107) to Probationary Beatmap Nominators (2019-11-25)
 - Moved [Bunnrei](https://osu.ppy.sh/users/829284) from Probationary Beatmap Nominators to Beatmap Nominators (2019-11-26)
@@ -299,8 +299,8 @@ All users listed below were added on 2019-02-16.
 - Removed [Mir](https://osu.ppy.sh/users/8688812) from Beatmap Nominators - resignation (2019-11-28)
 - Removed [LMT](https://osu.ppy.sh/users/7262798) from Beatmap Nominators - resignation (2019-11-29)
 - Removed [Gabe](https://osu.ppy.sh/users/654108) from Beatmap Nominators - resignation (2019-11-29)
-- Moved [Realazy](https://osu.ppy.sh/users/918297) from Beatmap Nominators to Probationary Beatmap Nominators - nominated beatmap with significant RC violations (2019-11-29)
-- Moved [Sinnoh](https://osu.ppy.sh/users/4236057) from Beatmap Nominators to Probationary Beatmap Nominators - nominated beatmap with significant RC violations and overall insufficient nomination quality (2019-11-29)
+- Moved [Realazy](https://osu.ppy.sh/users/918297) from Beatmap Nominators to Probationary Beatmap Nominators - nominated beatmap with significant ranking criteria violations (2019-11-29)
+- Moved [Sinnoh](https://osu.ppy.sh/users/4236057) from Beatmap Nominators to Probationary Beatmap Nominators - nominated beatmap with significant ranking criteria violations and overall insufficient nomination quality (2019-11-29)
 
 ## December
 
