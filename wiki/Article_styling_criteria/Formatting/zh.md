@@ -5,7 +5,7 @@ tags:
   - 排版
   - 文章风格规范
 outdated_translation: true
-outdated_since: c4f2e9fad13f8f3d44f481a18b5ede0c4ea3ccb7
+outdated_since: 89a87183a47e0124ee42e9d15f70d204b2a03da6
 ---
 
 # 排版

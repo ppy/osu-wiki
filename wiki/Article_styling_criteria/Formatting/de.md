@@ -239,9 +239,7 @@ Zeilenumbrüche sollten nur selten verwendet werden.
 **Anmerkung:** Nicht zu verwechseln mit [Hinweis](#hinweis).
 :::
 
-Kopfnoten sind kleine Notizen im oberen Teil eines Artikels oder eines Abschnitts, um Leser bei der Navigation zu verwandten Artikeln zu helfen oder sie über verwandte Artikel zu informieren.
-
-Kopfnoten müssen in Kursivschrift verfasst sein und direkt unter der Überschrift liegen. Wenn mehrere Kopfnoten benutzt werden, dann müssen diese im selben Paragraphen sein; getrennt durch einen Zeilenumbruch.
+Kopfnoten sind kleine Notizen im oberen Teil eines Artikels oder eines Abschnitts, die Leser bei der Navigation zu verwandten Artikeln helfen oder sie über verwandte Artikel informieren. Diese müssen direkt unter der Überschrift liegen.
 
 ### Hauptseite
 
@@ -315,7 +313,7 @@ Kopfnoten mit *Für andere Bedeutungen* sind den Kopfnoten mit *Nicht zu verwech
 **Anmerkung:** Nicht zu verwechseln mit [Kopfnote](#kopfnote).
 :::
 
-Ein Hinweis sollte an eine angemessene Stelle in einem Abschnitt platziert werden, allerdings muss dafür ein neuer Paragraf angefangen werden, der Kursivschrift nutzt. Hinweise dürfen Fettschrift enthalten, sofern angemessen, aber dies sollte auf ein Minimum begrenzt werden. Hinweise müssen als ganze Sätze geschrieben werden. Damit müssen Hinweise, nicht wie die meisten [Kopfnoten](#kopfnote), einen Punkt (`.`) oder ein Ausrufezeichen (`!`) verwenden. Alles in einem Paragrafen eines Hinweises muss kursiv sein. Diese Kopfnoten müssen wie folgt formatiert werden:
+Hinweise sind kurze informative Textblöcke, die üblicherweise aus einem vollständigen Satz bestehen. Sie dürfen mehrere Absätze und verschachteltes Markdown enthalten, sollten jedoch so kurz und minimalistisch wie möglich gehalten werden. Hinweise müssen wie folgt formatiert sein:
 
 ```markdown
 ::: alert-notice
@@ -340,7 +338,7 @@ Ein Hinweis sollte an eine angemessene Stelle in einem Abschnitt platziert werde
 
 ## Gestapelte Hinweise und Kopfnoten
 
-Mehrere Hinweise und Kopfnoten dürfen gestapelt werden, sofern notwendig. Dabei müssen sie ohne eine Leerzeile und mit einem nachfolgenden Backslash gestapelt werden:
+Mehrere Hinweise und Kopfnoten dürfen kombiniert und gestapelt werden, sofern notwendig. Dabei müssen sie jeweils als ein Satz in einer einzelnen Zeile geschrieben werden und ihre Stilblöcke müssen mit Leerzeilen dazwischen gestapelt werden:
 
 ```markdown
 ::: alert-warning
