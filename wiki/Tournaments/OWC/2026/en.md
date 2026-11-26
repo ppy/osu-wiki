@@ -53,7 +53,7 @@ The osu! World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team) and va
 | Referee | **::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)**, ::{ flag=IN }:: [\-Space](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=BR }:: [DizzyH](https://osu.ppy.sh/users/9896172), ::{ flag=SE }:: [ellen\-](https://osu.ppy.sh/users/7630166), ::{ flag=VN }:: [Hoaq](https://osu.ppy.sh/users/7696512), ::{ flag=CL }:: [Isita](https://osu.ppy.sh/users/13973026), ::{ flag=GR }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | **::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)**, ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
 | Tournament design | ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=HK }:: [Detristy](https://osu.ppy.sh/users/38325708), ::{ flag=RU }:: [LeeNarie](https://osu.ppy.sh/users/2667849), ::{ flag=ID }:: [LenLitchu](https://osu.ppy.sh/users/34098325), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
-| Musician | [Artackni](https://www.youtube.com/@artackni), [bye2](https://bye2.bandcamp.com), [Doomsday](https://osu.ppy.sh/beatmaps/artists/425), [F A K E S](https://open.spotify.com/artist/65c9c6VPL3NE570IbnnhM0), [Juka_Box](https://juka-box.bandcamp.com), [Pratanallis](https://osu.ppy.sh/beatmaps/artists/175), [Risa Yuzuki](https://osu.ppy.sh/beatmaps/artists/211), *more TBA* |
+| Musician | [Artackni](https://osu.ppy.sh/beatmaps/artists/577), [bye2](https://bye2.bandcamp.com), [Doomsday](https://osu.ppy.sh/beatmaps/artists/425), [F A K E S](https://osu.ppy.sh/beatmaps/artists/578), [Juka_Box](https://osu.ppy.sh/beatmaps/artists/583), [Pratanallis](https://osu.ppy.sh/beatmaps/artists/175), [Risa Yuzuki](https://osu.ppy.sh/beatmaps/artists/211), *more TBA* |
 
 Group leaders denoted in **bold**.
 
@@ -151,20 +151,20 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/dc7
 | :-: | --: | :-- | :-- | :-: | :-: |
 | 36 | South Korea ::{ flag=KR }:: | ::{ flag=BR }:: Brazil | [Nov 28 (Sat) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261128T020000&p1=1440&p2=235&p3=45) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 34 | Canada ::{ flag=CA }:: | ::{ flag=CN }:: China | [Nov 28 (Sat) 03:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261128T033000&p1=1440&p2=188&p3=33) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 35 | Germany ::{ flag=DE }:: | ::{ flag=HK }:: Hong Kong | [Nov 28 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261128T100000&p1=1440&p2=37&p3=102) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 40 | Poland ::{ flag=PL }:: | ::{ flag=AU }:: Australia | [Nov 28 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261128T120000&p1=1440&p2=262&p3=57) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 33 | United Kingdom ::{ flag=GB }:: | ::{ flag=RU }:: Russian Federation | [Nov 28 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261128T140000&p1=1440&p2=136&p3=166) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 35 | Germany ::{ flag=DE }:: | ::{ flag=HK }:: Hong Kong | [Nov 28 (Sat) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261128T143000&p1=1440&p2=37&p3=102) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 33 | United Kingdom ::{ flag=GB }:: | ::{ flag=RU }:: Russian Federation | [Nov 28 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261128T160000&p1=1440&p2=136&p3=166) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 
 ### Sunday, 29 November 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
-| 38a | South Korea ::{ flag=KR }:: | ::{ flag=DE }:: Germany | [Nov 29 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261129T100000&p1=1440&p2=235&p3=37) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 38b | South Korea ::{ flag=KR }:: | ::{ flag=HK }:: Hong Kong | [Nov 29 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261129T100000&p1=1440&p2=235&p3=102) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 38a | South Korea ::{ flag=KR }:: | ::{ flag=DE }:: Germany | [Nov 29 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261129T110000&p1=1440&p2=235&p3=37) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 40 | Poland ::{ flag=PL }:: | ::{ flag=AU }:: Australia | [Nov 29 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261129T120000&p1=1440&p2=262&p3=57) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | 37c | China ::{ flag=CN }:: | ::{ flag=GB }:: United Kingdom | [Nov 29 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261129T120000&p1=1440&p2=33&p3=136) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 37d | China ::{ flag=CN }:: | ::{ flag=RU }:: Russian Federation | [Nov 29 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261129T120000&p1=1440&p2=33&p3=166) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 38d | Brazil ::{ flag=BR }:: | ::{ flag=HK }:: Hong Kong | [Nov 29 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261129T140000&p1=1440&p2=45&p3=102) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 38c | Brazil ::{ flag=BR }:: | ::{ flag=DE }:: Germany | [Nov 29 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261129T150000&p1=1440&p2=45&p3=37) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 38c | Brazil ::{ flag=BR }:: | ::{ flag=DE }:: Germany | [Nov 29 (Sun) 16:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261129T163000&p1=1440&p2=45&p3=37) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 37a | Canada ::{ flag=CA }:: | ::{ flag=GB }:: United Kingdom | [Nov 29 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261129T170000&p1=1440&p2=188&p3=136) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 37b | Canada ::{ flag=CA }:: | ::{ flag=RU }:: Russian Federation | [Nov 29 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261129T170000&p1=1440&p2=188&p3=166) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 39 | United States ::{ flag=US }:: | ::{ flag=CL }:: Chile | [Nov 29 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261129T190000&p1=1440&p2=263&p3=232) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
@@ -465,7 +465,7 @@ Group H:
 
 ### Semifinals
 
-**[Download the mappack here (160 MB)](https://packs.ppy.sh/P343%20-%20osu%21%20World%20Cup%202026%3A%20Semifinals.zip)**\
+**[Download the mappack here (160 MB)](https://packs.ppy.sh/P343%20-%20osu!%20World%20Cup%202026%3A%20Semifinals.zip?1795652946)**\
 [Watch the showcase VOD here](https://www.youtube.com/watch?v=ScEbOJfJJhQ)
 
 - No Mod
