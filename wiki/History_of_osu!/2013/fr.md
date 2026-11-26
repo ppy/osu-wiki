@@ -95,17 +95,17 @@ Dans le jeu, le menu principal bénéficie d'une nouvelle visualisation, avec un
 
 En ce qui concerne la jouabilité, un temps d'introduction a été automatiquement ajouté à toutes les beatmaps qui commencent brusquement afin de laisser suffisamment de temps pour ajuster les [réglages visuels](/wiki/Client/Interface/Visual_settings) et le nombre total de pressions pour chaque touche sur l'écran de saisie a été ajouté. Pour les stockages de résultats en ligne, le meilleur classement personnel a été affiché sur les pages d'informations des beatmaps en plus du joueur numéro 1. La soumission des scores à partir des tableaux de mania est autorisée et le Top 50 des replays est stocké au lieu du top 40 habituel. Les quick repeat n'atteignant pas leur combo maximum ont été corrigés. Les commentaires Disqus ont été ajoutés aux pages des beatmaps. Enfin, un prototype de compteur de score pour tous les modes a été testé pour osu!test.
 
-![](img/2013-06_01.jpg "Processus de création de compte")
+![](img/account-creation.jpg "Processus de création de compte")
 
-![](img/2013-06_02.jpg "Exemple de tentative de création de plusieurs comptes")
+![](img/multiple-accounts.jpg "Exemple de tentative de création de plusieurs comptes")
 
-![](img/2013-06_03.jpg "Exemple de comparaison dans les pages d'informations des beatmaps")
+![](img/beatmap-info.jpg "Exemple de comparaison dans les pages d'informations des beatmaps")
 
-![](img/2013-06_04.jpg "Exemple de profil d'utilisateur à la date actuelle")
+![](img/user-profile.jpg "Exemple de profil d'utilisateur à la date actuelle")
 
-![](img/2013-06_05.jpg "Commentaires Disqus implémenté")
+![](img/disqus.jpg "Commentaires Disqus implémenté")
 
-![](img/2013-06_06.jpg "Nouvelle visualisation du menu principal")
+![](img/flare.jpg "Nouvelle visualisation du menu principal")
 
 Liens :
 
@@ -118,9 +118,9 @@ Liens :
 
 Le 02/07/2013, peppy a ouvert l'interface [osu!api](https://osu.ppy.sh/community/forums/topics/141240) au public (auparavant, elle n'était disponible que par le biais de demandes privées). Cela a permis aux développeurs indépendants de travailler sur des services tiers pour osu! Le 11/07/2013, la page "mot de passe oublié", précédemment cassée, a été corrigée. Le 18/07/2013 a apporté des mises à jour à la connectivité fallback de Bancho. Le 21/07/2013, la prise en charge de l'écran large pour les storyboards a été ajoutée dans la boîte de dialogue de configuration des musiques. Deux nouvelles superpositions en jeu ont été ajoutées pour suivre la précision lorsque vous jouez ou regardez les autres jouer. Consultez la page [options](/wiki/Client/Options) pour plus d'informations.
 
-![](img/2013-07_01.jpg "Superposition des erreurs de frappe")
+![](img/hit-error-overlay.jpg "Superposition des erreurs de frappe")
 
-![](img/2013-07_02.jpg "Superposition de couleurs")
+![](img/colour-overlay.jpg "Superposition de couleurs")
 
 Liens :
 
@@ -129,7 +129,7 @@ Liens :
 
 ## Décembre
 
-![](img/2013-12_01.jpg "Invité à la Comic Fiesta 2013")
+![](img/comic-fiesta.jpg "Invité à la Comic Fiesta 2013")
 
 [peppy a été confirmé pour le Comic Fiesta 2013 en Malaisie les 21 et 22 décembre au Kuala Lumpur City Center](https://osu.ppy.sh/community/forums/topics/163121). Pour le jour 1 (21/12/2013), osu! a été présenté comme un événement sur scène, démontrant le jeu dans quatre modes de jeu différents (osu!, Taiko, Catch the Beat, et osu!mania). Pour le jour 2 (22/12/2013), peppy a donné un aperçu d'osu! ainsi que ses futurs plans de mise à jour dans la salle de réunion et a présenté la osu!tablet pour que le public puisse l'essayer.
 
