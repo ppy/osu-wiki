@@ -56,3 +56,5 @@ Please do **not** file a report using either [the in-game `!report` command](/wi
 You can delete your beatmap yourself by waiting for it to decay to the beatmap Graveyard, which it will do so after a month (28 days) without updates.
 
 Once your beatmap is in the Graveyard, you can delete it yourself by going to the [Discussion page](/wiki/Beatmap_discussion) of your beatmap and clicking the `Delete` button that appears on the right side of the screen after scrolling down.
+
+On the rare occasion that your beatmap becomes corrupted during the upload process so that it cannot be updated anymore, you can request to have it deleted on the [Help forum](https://osu.ppy.sh/community/forums/5), through the [BN website](https://bn.mappersguild.com/reports), or by contacting a member of the [NAT](/wiki/People/Nomination_Assessment_Team) or [GMT](/wiki/People/Global_Moderation_Team) directly. However, please note that you can only make these requests for your own beatmaps.
