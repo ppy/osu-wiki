@@ -1,14 +1,10 @@
----
-no_native_review: true
----
-
 # osu!talk
 
 ![](img/osu!talk.jpg "osu!talk-Logo")
 
-**osu!talk** ist eine englische Podcast-Serie, die von [ztrot](https://osu.ppy.sh/users/6347) geführt wird, mit [deadbeat](https://osu.ppy.sh/users/128370) als Co-Moderator. Dabei werden verschiedene Personen aus der osu!-Community interviewt. Des Weiteren gibt es einige Gruppendiskussionen über unterschiedliche Dinge, die sich in der Community ereignen, beispielsweise die Änderungen im [osu!-Team](/wiki/People/osu!_team) oder häufig diskutierte, langwierige Probleme wie Overmapping.
+**osu!talk** ist eine englische Podcast-Serie, die von [ztrot](https://osu.ppy.sh/users/6347) geführt wird, mit [deadbeat](https://osu.ppy.sh/users/128370) als Co-Moderator. Dabei werden verschiedene Personen aus der osu!-Community interviewt. Des Weiteren gibt es einige Gruppendiskussionen über unterschiedliche Dinge, die sich in der Community ereignen, beispielsweise Änderungen im [osu!-Team](/wiki/People/osu!_team) oder häufig diskutierte, langwierige Probleme wie Overmapping.
 
-Die Podcast-Serie ist so eingerichtet, dass jeder an der Live-Sitzung teilnehmen und Fragen während dem öffentlichen [Q&A-Teil](https://de.wikipedia.org/wiki/Liste_von_Abk%C3%BCrzungen_(Netzjargon)#Q) der Episode stellen kann. Diese werden nirgendwo live übertragen, da wir die Nutzer dazu ermutigen möchten, selbst teilzunehmen und mitzumachen.
+Die Podcast-Serie ist so eingerichtet, dass jeder an der Live-Sitzung teilnehmen und während des öffentlichen [Q&A-Teils](https://de.wikipedia.org/wiki/Liste_von_Abk%C3%BCrzungen_(Netzjargon)#Q) der Episode Fragen stellen kann. Diese werden nirgendwo live übertragen, da wir die Nutzer dazu ermutigen möchten, selbst teilzunehmen und mitzumachen.
 
 ## Episoden
 
@@ -17,28 +13,28 @@ Die Podcast-Serie ist so eingerichtet, dass jeder an der Live-Sitzung teilnehmen
 | 1 | [Charles445](https://osu.ppy.sh/users/85000) | GMT/BN | [Link](https://www.youtube.com/watch?v=e8lhBtcPbjw) |
 | 2 | [MMzz](https://osu.ppy.sh/users/128993) | QAT | [Link](https://www.youtube.com/watch?v=fBBQ4bwNZcY) |
 | 3 | [Loctav](https://osu.ppy.sh/users/71366) | Community- und Turniermanager | [Link](https://www.youtube.com/watch?v=gxZtxmUvDoQ) |
-| 4 | [dkun](https://osu.ppy.sh/users/154400) | BAT/zurückgetretenes Mitglied von osu!monthly | [Link](https://www.youtube.com/watch?v=_nFI71fG7-c) |
+| 4 | [dkun](https://osu.ppy.sh/users/154400) | BAT/ehemaliges Mitglied von osu!monthly | [Link](https://www.youtube.com/watch?v=_nFI71fG7-c) |
 | 5 | [LuigiHann](https://osu.ppy.sh/users/1079) | Resident Skinner | [Link](https://www.youtube.com/watch?v=OVjq9ko83t0) |
 | 6 | [JAKACHAN](https://osu.ppy.sh/users/718696) | osu!-Profispieler | [Link](https://www.youtube.com/watch?v=WXFMggx94e0) |
 | 7 | [Daru](https://osu.ppy.sh/users/32480) | osu!painter | [Link](https://www.youtube.com/watch?v=eBFaLRXmfYc) |
 | 8 | [peppy](https://osu.ppy.sh/users/2) | osu!creator | [Link](https://www.youtube.com/watch?v=x7vdW5uZutU) |
-| 9 | [Cyclone](https://osu.ppy.sh/users/18589) | Zurückgetretener Spieler/zurückgetretenes Teammitglied | [Link](https://www.youtube.com/watch?v=jPUSY0FMw2E) |
+| 9 | [Cyclone](https://osu.ppy.sh/users/18589) | Ehemaliger Spieler/ehemaliges Teammitglied | [Link](https://www.youtube.com/watch?v=jPUSY0FMw2E) |
 | 10 | [thelewa](https://osu.ppy.sh/users/475021) | osu!-Profispieler | [Link](https://www.youtube.com/watch?v=N7P-J-5LJzk) |
 | 11 | [WubWoofWolf](https://osu.ppy.sh/users/39828) | osu!-Profispieler | [Link](https://www.youtube.com/watch?v=XYzKlfvQt-w) |
-| 12 | [Ephemeral](https://osu.ppy.sh/users/102335) | Zurückgetretener Teammanager | [Link](https://www.youtube.com/watch?v=eXWmjo0-oyM) |
+| 12 | [Ephemeral](https://osu.ppy.sh/users/102335) | Ehemaliger Teammanager | [Link](https://www.youtube.com/watch?v=eXWmjo0-oyM) |
 | 13 | [ztrot](https://osu.ppy.sh/users/6347) | Mediengestalter | [Link](https://www.youtube.com/watch?v=8COmLt0IBRs) |
 | 14 | [Raiku](https://osu.ppy.sh/users/1525538) | osu!-Profispieler | [Link](https://www.youtube.com/watch?v=5P9FaFrS0CM) |
 | 15 | [smoogipooo](https://osu.ppy.sh/users/1040328) | Entwickler | [Link](https://www.youtube.com/watch?v=vG1yx1xVQsk) |
 | 16 | [OnosakiHito](https://osu.ppy.sh/users/290128) | QAT | [Link](https://www.youtube.com/watch?v=ZYby7r3YNPg) |
 | 17 | [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter | [Link](https://www.youtube.com/watch?v=kSotXmkCN4I) |
-| 18 | [Andrea](https://osu.ppy.sh/users/33599) | Zurückgetretener GMT/BN | [Link](https://www.youtube.com/watch?v=dKEOVBiljdc) |
+| 18 | [Andrea](https://osu.ppy.sh/users/33599) | Ehemals GMT/BN | [Link](https://www.youtube.com/watch?v=dKEOVBiljdc) |
 | 19 | [Doomsday](https://osu.ppy.sh/users/18983) | osu!-Profispieler | [Link](https://www.youtube.com/watch?v=0C74QeEcn_4) |
 | 20 | [Tom94](https://osu.ppy.sh/users/1857058) | Entwickler | [Link](https://www.youtube.com/watch?v=ONnUrG4jrto) |
 | 21 | [Flanster](https://osu.ppy.sh/users/447818) | GMT | [Link](https://www.youtube.com/watch?v=nvGP5x9ZseM) |
 | 21.5 | [Blue Dragon](https://osu.ppy.sh/users/19048) | Mapper | [Link](https://puu.sh/cmOO3/a737a268da.mp3) |
 | 22 | [HappyStick](https://osu.ppy.sh/users/256802) | osu!-Profispieler | [Link](https://www.youtube.com/watch?v=zhAHOreuYp4) |
 | 23 | [Hayabusa](https://osu.ppy.sh/users/3104108) | Top osu!mania-Spieler im Vereinigten Königreich | [Link](https://www.youtube.com/watch?v=1C102Zzuyzg) |
-| 24 | [Kyonko Hiraza](https://osu.ppy.sh/users/444868) | Zurückgetretener osu!-Profispieler | [Link](https://www.youtube.com/watch?v=6RhBqhhn9F0) |
+| 24 | [Kyonko Hiraza](https://osu.ppy.sh/users/444868) | Ehemaliger osu!-Profispieler | [Link](https://www.youtube.com/watch?v=6RhBqhhn9F0) |
 | 25 | [PortalLife](https://osu.ppy.sh/users/929134) | Turnierveranstalter | [Link](https://www.youtube.com/watch?v=odGwuBwqcmc) |
 | 26 | [MillhioreF](https://osu.ppy.sh/users/941094) | Profispieler für die Mod Easy, Teilzeit-Entwickler | [Link](https://www.youtube.com/watch?v=dO3kv8nutSI) |
 | 27 | [machol30](https://osu.ppy.sh/users/5772) | Ehemaliger Mapper | [Link](https://www.youtube.com/watch?v=PR-ItQJLQTE) |
@@ -53,12 +49,12 @@ Die Podcast-Serie ist so eingerichtet, dass jeder an der Live-Sitzung teilnehmen
 | 35 | [juankristal](https://osu.ppy.sh/users/443656) | Turnierkommentator, osu!mania-Profispieler | [Link](https://www.youtube.com/watch?v=YiVCO2U4DLo) |
 | 36 | [Halogen-](https://osu.ppy.sh/users/169992) | osu!mania-Profispieler | [Link](https://www.youtube.com/watch?v=5E02YK5mNRk) |
 | 37 | [Staiain](https://osu.ppy.sh/users/86188) | osu!mania-Profispieler | [Link](https://www.youtube.com/watch?v=_SJA69rqB6w) |
-| 38 | [Starrodkirby86](https://osu.ppy.sh/users/410) | Resident Susumu Hirasawa mapper | [Link](https://www.youtube.com/watch?v=54VUzflrXws) |
+| 38 | [Starrodkirby86](https://osu.ppy.sh/users/410) | Resident Susumu Hirasawa Mapper | [Link](https://www.youtube.com/watch?v=54VUzflrXws) |
 | 39 | [Arf](https://osu.ppy.sh/users/3716999) | Turnierkommentator | [Link](https://www.youtube.com/watch?v=K9_4nzs5idM) |
 | 40 | [The8BitDrummer](https://www.twitch.tv/the8bitdrummer/profile) | Musiker | [Link](https://www.youtube.com/watch?v=tuOv9E9QkJA) |
 | 41 | [Histoire](https://osu.ppy.sh/users/3801463) | Host der osu!-Histy-Championships | [Link](https://www.youtube.com/watch?v=3Q1ygMaAb7g) |
 | 42 | [jakads](https://osu.ppy.sh/users/259972) | Top osu!mania-Spieler | [Link](https://www.youtube.com/watch?v=MXx6oknK6c8) |
-| 43 | [Evening](https://osu.ppy.sh/users/2193881) | Resident Camellia mapper | [Link](https://www.youtube.com/watch?v=gHKzBz8hcoE) |
+| 43 | [Evening](https://osu.ppy.sh/users/2193881) | Resident Camellia Mapper | [Link](https://www.youtube.com/watch?v=gHKzBz8hcoE) |
 | 44 | [pishifat](https://osu.ppy.sh/users/3178418) | QAT | [Link](https://www.youtube.com/watch?v=YseljuHjmLo) |
 | 45 | [Rafis](https://osu.ppy.sh/users/2558286) | osu!-Profispieler | [Link](https://www.youtube.com/watch?v=wKhuovIMa8k) |
 | 46 | [Spare](https://osu.ppy.sh/users/2204373) | Top osu!-Spieler im Vereinigten Königreich | [Link](https://www.youtube.com/watch?v=MTWgwsIxPRc) |
@@ -83,8 +79,8 @@ Die Podcast-Serie ist so eingerichtet, dass jeder an der Live-Sitzung teilnehmen
 | 11 | Catch the Beat Discussion | [Kingkevin30](https://osu.ppy.sh/users/564334), [- Magic Bomb -](https://osu.ppy.sh/users/3071175), [Candlestorm](https://osu.ppy.sh/users/6115166), [Saki](https://osu.ppy.sh/users/3026611) und [Zak](https://osu.ppy.sh/users/1375955) | [Link](https://www.youtube.com/watch?v=1SvUNLkcoQg) |
 | 12 | osu!idol Discussion | [Flanster](https://osu.ppy.sh/users/447818), [shARPII](https://osu.ppy.sh/users/776257) und [Kyonko Hizara](https://osu.ppy.sh/users/444868) | [Link](https://www.youtube.com/watch?v=gwtlGM1GpWM) |
 | 13 | OWC 2015 | [juankristal](https://osu.ppy.sh/users/443656), [Rohulk](https://osu.ppy.sh/users/3219026), [Xilver15](https://osu.ppy.sh/users/3099689) und [Zak](https://osu.ppy.sh/users/1375955) | [Link](https://www.youtube.com/watch?v=vwIPweKIH-Y) |
-| 14 | Music | [nekodex](https://osu.ppy.sh/users/102) and [cYsmix](https://osu.ppy.sh/users/272870) | [Link](https://www.youtube.com/watch?v=qRnPEdVf4hU) |
-| 15 | Staff Hosted Events | [Flanster](https://osu.ppy.sh/users/447818) and [karterfreak](https://osu.ppy.sh/users/1031958) | [Link](https://www.youtube.com/watch?v=9EZBbmNYHaM) |
+| 14 | Music | [nekodex](https://osu.ppy.sh/users/102) und [cYsmix](https://osu.ppy.sh/users/272870) | [Link](https://www.youtube.com/watch?v=qRnPEdVf4hU) |
+| 15 | Staff Hosted Events | [Flanster](https://osu.ppy.sh/users/447818) und [karterfreak](https://osu.ppy.sh/users/1031958) | [Link](https://www.youtube.com/watch?v=9EZBbmNYHaM) |
 | 16 | Aspire II | [Ephemeral](https://osu.ppy.sh/users/102335), [Okoratu](https://osu.ppy.sh/users/1623405), [Ciyus Miapah](https://osu.ppy.sh/users/2805457) und [Taeyang](https://osu.ppy.sh/users/2732340) | [Link](https://www.youtube.com/watch?v=h5_QV1hTdVk) |
 | 17 | OWC 2016 | [juankristal](https://osu.ppy.sh/users/443656), [Doomsday](https://osu.ppy.sh/users/18983) und [Omgforz](https://osu.ppy.sh/users/578943) | [Link](https://www.youtube.com/watch?v=6TFaY-2L4QE) |
 | 18 | Nominator exams | [Mao](https://osu.ppy.sh/users/2204515), [Feerum](https://osu.ppy.sh/users/4815717) und [JBHyperion](https://osu.ppy.sh/users/4879508) | [Link](https://www.youtube.com/watch?v=rV0gR3ctmBU) |
