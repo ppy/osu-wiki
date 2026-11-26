@@ -116,6 +116,10 @@ Each [osu!mania](/wiki/Game_mode/osu!mania) [key mode](osu!mania#common-terms) a
 - **Usernames indicating possession of a [guest difficulty](/wiki/Beatmap/Guest_difficulty) should be consistent between multiple beatmaps.** Varying nicknames for one user makes interpreting who created a difficulty ambiguous or misleading.
 - **Avoid non-alphanumeric unicode characters in a difficulty's name.** These can cause errors with the [beatmap submission system](/wiki/Beatmapping/Beatmap_submission) and problems for certain users when appearing in chat.
 
+### Allowances
+
+- **[Inherited timing points](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) may use slider velocity multipliers with more than two decimal places.** The editor accepts these values but only displays them rounded to two decimal places, so the exact value can only be seen in the `.osu` file.
+
 ## Timing
 
 ### Rules
