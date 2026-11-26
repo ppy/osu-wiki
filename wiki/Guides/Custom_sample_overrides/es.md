@@ -61,5 +61,4 @@ Las siguientes tres muestras son aditivas, lo que significa que cuando golpees u
 
 Véase también
 
-- [Biblioteca personalizada de hitsounds](/wiki/Guides/Custom_hitsound_library)
 - [Skinning/Sonidos](/wiki/Skinning/Sounds)
