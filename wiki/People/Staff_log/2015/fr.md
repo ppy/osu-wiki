@@ -181,7 +181,7 @@ Tous les utilisateurs listés ci-dessous ont été ajoutés le 11/05/2015 :
 - Transfert de [Shockwave](https://osu.ppy.sh/users/251631) : Chat Moderators > Global Moderation Team (02/06/2015)
 - Transfert de [Uni](https://osu.ppy.sh/users/617106) : Global Moderation Team (02/06/2015)
 - Transfert de [Roxas](https://osu.ppy.sh/users/1041833) : Quality Assurance Team > osu! Alumni (05/06/2015)
-- Ajout de [Starry-](https://osu.ppy.sh/users/2166199) : Beatmap Nominators > Quality Assurance Team (05/06/2015)
+- Transfert de [Starry-](https://osu.ppy.sh/users/2166199) : Beatmap Nominators > Quality Assurance Team (05/06/2015)
 - Transfert de [DakeDekaane](https://osu.ppy.sh/users/1425253) : Beatmap Nominators > Quality Assurance Team (08/06/2015)
 - Transfert de [Gamu](https://osu.ppy.sh/users/611174) : Beatmap Nominators > Quality Assurance Team (10/06/2015)
 - Transfert de [IamKwaN](https://osu.ppy.sh/users/1856463) : Chat Moderators > Global Moderation Team (10/06/2015)

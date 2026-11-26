@@ -7,7 +7,7 @@
 
 ## Январь
 
-- Добавление [Derekku](https://osu.ppy.sh/users/91341) из Mapping Assistance Team в Global Mod Team (2011-01-07) <!-- https://osu.ppy.sh/community/forums/posts/657671 -->
+- Перемещение [Derekku](https://osu.ppy.sh/users/91341) из Mapping Assistance Team в Global Mod Team (2011-01-07) <!-- https://osu.ppy.sh/community/forums/posts/657671 -->
 - Добавление [Colin Hou](https://osu.ppy.sh/users/196614) в Mapping Assistance Team (2011-01-21) <!-- https://osu.ppy.sh/community/forums/posts/674701 -->
 - Повторное добавление [Jarby](https://osu.ppy.sh/users/25615) в Mapping Assistance Team (2011-01-21) <!-- https://osu.ppy.sh/community/forums/posts/674740 -->
 - Добавление [Rukarioman](https://osu.ppy.sh/users/110372) в Mapping Assistance Team (2011-01-21) <!-- https://osu.ppy.sh/community/forums/posts/674921 -->
@@ -29,7 +29,7 @@
 
 ## Август
 
-- Переименование Beatmap Approval Team в Beatmap Appreciation Team (2011-08-23) <!-- https://osu.ppy.sh/community/forums/posts/996233 -->
+- **Переименование Beatmap Approval Team в Beatmap Appreciation Team** (2011-08-23) <!-- https://osu.ppy.sh/community/forums/posts/996233 -->
 
 ## Сентябрь
 

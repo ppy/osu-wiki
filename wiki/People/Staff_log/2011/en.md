@@ -7,7 +7,7 @@ Some users' history may be incomplete during this year.
 
 ## January
 
-- Added [Derekku](https://osu.ppy.sh/users/91341) from Mapping Assistance Team to Global Mod Team (2011-01-07) <!-- https://osu.ppy.sh/community/forums/posts/657671 -->
+- Moved [Derekku](https://osu.ppy.sh/users/91341) from Mapping Assistance Team to Global Mod Team (2011-01-07) <!-- https://osu.ppy.sh/community/forums/posts/657671 -->
 - Added [Colin Hou](https://osu.ppy.sh/users/196614) to Mapping Assistance Team (2011-01-21) <!-- https://osu.ppy.sh/community/forums/posts/674701 -->
 - Readded [Jarby](https://osu.ppy.sh/users/25615) to Mapping Assistance Team (2011-01-21) <!-- https://osu.ppy.sh/community/forums/posts/674740 -->
 - Added [Rukarioman](https://osu.ppy.sh/users/110372) to Mapping Assistance Team (2011-01-21) <!-- https://osu.ppy.sh/community/forums/posts/674921 -->
@@ -29,7 +29,7 @@ Some users' history may be incomplete during this year.
 
 ## August
 
-- Renamed Beatmap Approval Team to Beatmap Appreciation Team (2011-08-23) <!-- https://osu.ppy.sh/community/forums/posts/996233 -->
+- **Renamed Beatmap Approval Team to Beatmap Appreciation Team** (2011-08-23) <!-- https://osu.ppy.sh/community/forums/posts/996233 -->
 
 ## September
 

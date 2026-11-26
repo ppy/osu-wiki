@@ -4,7 +4,7 @@
 
 ## มกราคม
 
-- เพิ่ม [Derekku](https://osu.ppy.sh/users/91341) จาก ทีมช่วยเหลือการแมพ เป็น Global Mod Team (07-01-2554)
+- ย้าย [Derekku](https://osu.ppy.sh/users/91341) จาก ทีมช่วยเหลือการแมพ เป็น Global Mod Team (07-01-2554)
 - เพิ่ม [Colin Hou](https://osu.ppy.sh/users/196614) เป็น ทีมช่วยเหลือการแมพ อีกครั้ง (21-01-2554)
 - เพิ่ม [Jarby](https://osu.ppy.sh/users/25615) เป็น ทีมช่วยเหลือการแมพ (21-01-2554)
 - เพิ่ม [Rukarioman](https://osu.ppy.sh/users/110372) เป็น ทีมช่วยเหลือการแมพ อีกครั้ง (21-01-2554)
@@ -26,7 +26,7 @@
 
 ## สิงหาคม
 
-- เปลี่ยนชื่อ ทีมอนุมัติบีทแมพ เป็น Beatmap Appreciation Team (23-08-2554)
+- **เปลี่ยนชื่อ ทีมอนุมัติบีทแมพ เป็น Beatmap Appreciation Team** (23-08-2554)
 
 ## กันยายน
 

@@ -612,7 +612,7 @@ Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont le
 ## Octobre
 
 - 02/10/2023 : Retrait de [Axer](https://osu.ppy.sh/users/7299864) : **Beatmap Spotlight Curators**
-- 05/10/2023  Ajout de [Nao Tomori](https://osu.ppy.sh/users/5364763) : **NAT**
+- 05/10/2023 : Ajout de [Nao Tomori](https://osu.ppy.sh/users/5364763) : **NAT**
 - 13/10/2023 : Ajout de [Yasuho](https://osu.ppy.sh/users/8458835) : **NAT**
 - 13/10/2023 : Transfert de [Firika](https://osu.ppy.sh/users/9590557) : **NAT** > **osu! Alumni**
 - 14/10/2023 : Retrait de [Dusk-](https://osu.ppy.sh/users/6092181) : **NAT**
@@ -655,7 +655,7 @@ Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont le
 - 03/10/2023 : Retrait de [chaser01](https://osu.ppy.sh/users/18730172) : **BN probatoire**
 - 03/10/2023 : Retrait de [KoldNoodl](https://osu.ppy.sh/users/12572294) : **BN**
 - 03/10/2023 : Retrait de [arialle](https://osu.ppy.sh/users/18597899) : **BN probatoire**
-- 05/10/2023  Retrait de [Nao Tomori](https://osu.ppy.sh/users/5364763) : **BN**
+- 05/10/2023 : Retrait de [Nao Tomori](https://osu.ppy.sh/users/5364763) : **BN**
 - 07/10/2023 : Retrait de [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273) : **BN**
 - 07/10/2023 : Retrait de [Antti](https://osu.ppy.sh/users/13281473) : **BN**
 - 12/10/2023 : Retrait de [\[Sick\]Catcat](https://osu.ppy.sh/users/11544934) : **BN**
@@ -672,4 +672,4 @@ Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont le
 
 ## Après le mois d'octobre
 
-Depuis le 27 octobre 2023, les changements : groupes d'utilisateurs sont enregistrés sur la page ["historique des groupes" du site web](https://osu.ppy.sh/groups/history). Cet article du wiki ne sera plus mis à jour.
+Depuis le 27 octobre 2023, les changements : groupes d'utilisateurs sont enregistrés sur la page [historique des groupes](https://osu.ppy.sh/groups/history) du site web. Cet article du wiki ne sera plus mis à jour.

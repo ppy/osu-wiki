@@ -1,4 +1,4 @@
-# Registro del personal de 2021 
+# Registro del personal de 2021
 
 En este registro se usan abreviaturas para los grupos de usuarios:
 

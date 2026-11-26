@@ -181,7 +181,7 @@
 - Перемещение [Shockwave](https://osu.ppy.sh/users/251631) из Chat Moderators в Global Moderation Team (2015-06-03)
 - Перемещение [Uni](https://osu.ppy.sh/users/617106) в Global Moderation Team (2015-06-03)
 - Перемещение [Roxas](https://osu.ppy.sh/users/1041833) из Quality Assurance Team в osu! Alumni (2015-06-05)
-- Добавление [Starry-](https://osu.ppy.sh/users/2166199) из Beatmap Nominators в Quality Assurance Team (2015-06-05)
+- Перемещение [Starry-](https://osu.ppy.sh/users/2166199) из Beatmap Nominators в Quality Assurance Team (2015-06-05)
 - Перемещение [DakeDekaane](https://osu.ppy.sh/users/1425253) из Beatmap Nominators в Quality Assurance Team (2015-06-08)
 - Перемещение [Gamu](https://osu.ppy.sh/users/611174) из Beatmap Nominators в Quality Assurance Team (2015-06-10)
 - Перемещение [IamKwaN](https://osu.ppy.sh/users/1856463) из Chat Moderators в Global Moderation Team (2015-06-10)

@@ -286,8 +286,8 @@ Tous les utilisateurs listés ci-dessous ont été ajoutés le 16/02/2019 :
 - Retrait de [Ultima Fox](https://osu.ppy.sh/users/3198109) : Beatmap Nominators - manque d'activité (18/11/2019)
 - Ajout de [Seolv](https://osu.ppy.sh/users/8067876) : Beatmap Nominators probatoire (18/11/2019)
 - Transfert de [radar](https://osu.ppy.sh/users/7131099) : Beatmap Nominators probatoire > Beatmap Nominators (19/11/2019)
-- Transfert de [tasuke912](https://osu.ppy.sh/users/2774767) : Beatmap Nominators > Beatmap Nominators probatoire - beatmap nommé avec des violations significatives des RC (22/11/2019)
-- Retrait de [Rhytoly](https://osu.ppy.sh/users/8121109) : Beatmap Nominators probatoire - beatmap nommé avec des violations significatives des RC (22/11/2019)
+- Transfert de [tasuke912](https://osu.ppy.sh/users/2774767) : Beatmap Nominators > Beatmap Nominators probatoire - beatmap nommé avec des violations significatives des critères de classement (22/11/2019)
+- Retrait de [Rhytoly](https://osu.ppy.sh/users/8121109) : Beatmap Nominators probatoire - beatmap nommé avec des violations significatives des critères de classement (22/11/2019)
 - Retrait de [Raiden](https://osu.ppy.sh/users/2239480) : Beatmap Nominators - démission (25/11/2019)
 - Ajout de [Kyousukee](https://osu.ppy.sh/users/8842107) : Beatmap Nominators probatoire (25/11/2019)
 - Transfert de [Bunnrei](https://osu.ppy.sh/users/829284) : Beatmap Nominators probatoire > Beatmap Nominators (26/11/2019)
@@ -299,8 +299,8 @@ Tous les utilisateurs listés ci-dessous ont été ajoutés le 16/02/2019 :
 - Retrait de [Mir](https://osu.ppy.sh/users/8688812) : Beatmap Nominators - démission (28/11/2019)
 - Retrait de [LMT](https://osu.ppy.sh/users/7262798) : Beatmap Nominators - démission (29/11/2019)
 - Retrait de [Gabe](https://osu.ppy.sh/users/654108) : Beatmap Nominators - démission (29/11/2019)
-- Transfert de [Realazy](https://osu.ppy.sh/users/918297) : Beatmap Nominators > Beatmap Nominators probatoire - beatmap nommé avec des violations significatives des RC (29/11/2019)
-- Transfert de [Sinnoh](https://osu.ppy.sh/users/4236057) : Beatmap Nominators > Beatmap Nominators probatoire - beatmap nommé avec des violations significatives des RC et qualité insuffisante de la nomination dans l'ensemble (29/11/2019)
+- Transfert de [Realazy](https://osu.ppy.sh/users/918297) : Beatmap Nominators > Beatmap Nominators probatoire - beatmap nommé avec des violations significatives des critères de classement (29/11/2019)
+- Transfert de [Sinnoh](https://osu.ppy.sh/users/4236057) : Beatmap Nominators > Beatmap Nominators probatoire - beatmap nommé avec des violations significatives des critères de classement et qualité insuffisante de la nomination dans l'ensemble (29/11/2019)
 
 ## Décembre
 
