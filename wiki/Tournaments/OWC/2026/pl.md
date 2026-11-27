@@ -14,15 +14,15 @@ tags:
 
 | Wydarzenie | Data |
 | --: | :-- |
-| Faza rejestracji | 2026-09-26 (00:00 UTC)/2026-10-10 (23:59 UTC) |
-| Prezentacja mappoola na kwalifikacje | 2026-10-18 (18:00 UTC) |
-| Kwalifikacje | 2026-10-24/2026-10-25 |
-| Faza grupowa | 2026-10-31/2026-11-08 |
-| 1/8 finału | 2026-11-14/2026-11-15 |
-| Ćwierćfinały | 2026-11-21/2026-11-22 |
-| Półfinały | 2026-11-28/2026-11-29 |
-| Finały | 2026-12-05/2026-12-06 |
-| Wielki finał | 2026-12-12/2026-12-13 |
+| Faza rejestracji | 26.09.2026 (00:00 UTC)/10.10.2026 (23:59 UTC) |
+| Prezentacja mappoola na kwalifikacje | 18.10.2026 (18:00 UTC) |
+| Kwalifikacje | 24.10.2026/25.10.2026 |
+| Faza grupowa | 31.10.2026/08.11.2026 |
+| 1/8 finału | 14.11.2026/15.11.2026 |
+| Ćwierćfinały | 21.11.2026/22.11.2026 |
+| Półfinały | 28.11.2026/29.11.2026 |
+| Finały | 05.12.2026/06.12.2026 |
+| Wielki finał | 12.12.2026/13.12.2026 |
 
 *Uwaga: faza grupowa trwa dwa tygodnie.*
 
