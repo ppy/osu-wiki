@@ -1,4 +1,8 @@
 separator: ", "
+tables:
+  no_members: No hay miembros por el momento.
+  name: Nombre
+  additional_languages: Idiomas adicionales
 alumni:
   roles:
     academy: fundador de la osu!academy
