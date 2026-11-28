@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 0a9f09e47d80dd57fd7d0637886dc23e0343de9a
----
-
 # AiMod
 
 ![](img/AiMod.jpg "Окно AiMod со списком предупреждений и ошибок в карте.")
@@ -46,7 +41,7 @@ outdated_since: 0a9f09e47d80dd57fd7d0637886dc23e0343de9a
 | OD rate is suggested to be at least 5. |  | Откройте окно [Song Setup](/wiki/Client/Beatmap_editor/Song_setup), перейдите на вкладку `Difficulty` и поменяйте значение `Overall Difficulty` на 5 или выше. | ![](/wiki/shared/mode/mania.png) Только для режима osu!mania. Если низкое значение OD выбрано намеренно, это сообщение можно проигнорировать. |
 | OD rate for maps with very few sliders is suggested to be at least 7. |  | Откройте окно [Song Setup](/wiki/Client/Beatmap_editor/Song_setup), перейдите на вкладку `Difficulty` и поменяйте значение `Overall Difficulty` на 7 или выше. | ![](/wiki/shared/mode/mania.png) Только для режима osu!mania. Если низкое значение OD выбрано намеренно, это сообщение можно проигнорировать. |
 | OD rate for maps with very few sliders is suggested to be at least 8. |  | Откройте окно [Song Setup](/wiki/Client/Beatmap_editor/Song_setup), перейдите на вкладку `Difficulty` и поменяйте значение `Overall Difficulty` на 8 или выше. | ![](/wiki/shared/mode/mania.png) Только для режима osu!mania. Если низкое значение OD выбрано намеренно, это сообщение можно проигнорировать. |
-| The Slider Velocity should be 1.40 or 1.60. | Базовая скорость слайдеров, используемая в карте, должна быть равна 1.40 или 1.60. Иные значения нарушают рекомендации [osu!taiko ranking criteria](/wiki/Ranking_criteria/osu!taiko) по оптимальному расстоянию между нотами. | Перейдите на вкладку Timing и выставите значение `Slider Velocity:` в 1.40 или 1.60. | ![](/wiki/shared/mode/taiko.png) Только для режима osu!taiko |
+| The Slider Velocity should be 1.40 or 1.60. | Базовая скорость слайдеров, используемая в карте, должна быть равна 1.40 или 1.60. Иные значения нарушают рекомендацию [критериев ранкинга osu!taiko](/wiki/Ranking_criteria/osu!taiko) об оптимальном расстоянии между нотами. | Перейдите на вкладку Timing и поменяйте базовое значение `Slider Velocity` на 1.40 или 1.60. | ![](/wiki/shared/mode/taiko.png) Только для режима osu!taiko |
 
 ### Ошибки
 
@@ -61,7 +56,7 @@ outdated_since: 0a9f09e47d80dd57fd7d0637886dc23e0343de9a
 | This hold note is less than 10ms long! | Холд-нота слишком короткая, из-за чего карту невозможно пройти на SS. | Удлините холд-ноту или удалите её. | ![](/wiki/shared/mode/mania.png) Только для режима osu!mania |
 | This object overlaps with another object. | Два объекта пересекаются в одной колонке в один и тот же момент времени, из-за чего карту невозможно пройти на SS. | Удалите один из пересекающихся объектов. | ![](/wiki/shared/mode/mania.png) Только для режима osu!mania |
 | This object is stacked on top of another object. | Два объекта наложены друг на друга в одной колонке в один и тот же момент времени, из-за чего карту невозможно пройти на SS. | Найдите обычные или холд-ноты, которые пересекаются, и подвиньте или удалите одну из них. | ![](/wiki/shared/mode/mania.png) Только для режима osu!mania |
-| More than 6 notes simultaneously is not allowed. | Один или несколько паттернов на карте требуют от игрока одновременного нажатия более чем 6 клавиш. В некоторых случаях это не рекомендуется [критериями ранкинга osu!mania](/wiki/Ranking_criteria/osu!mania), поскольку большинство клавиатур способны максимум на 6 одновременных нажатий из-за явления под названием [гостинг](https://nelson-miller.com/what-is-keyboard-ghosting-and-how-do-you-prevent-it/). | Проверьте карту и убедитесь, что в ней нигде не нужно нажимать больше 6 нот одновременно. | ![](/wiki/shared/mode/mania.png) Только для режима osu!mania |
+| More than 6 notes simultaneously is not allowed. | Один или несколько паттернов на карте требуют от игрока одновременного нажатия более чем 6 клавиш. В некоторых случаях это не рекомендуется [критериями ранкинга osu!mania](/wiki/Ranking_criteria/osu!mania), поскольку большинство клавиатур способны максимум на 6 одновременных нажатий из-за явления под названием [гостинг](https://nelson-miller.com/what-is-keyboard-ghosting-and-how-do-you-prevent-it/). | Проверьте карту и убедитесь, что в ней нигде нет больше 6 объектов одновременно. | ![](/wiki/shared/mode/mania.png) Только для режима osu!mania |
 
 #### Design
 
@@ -157,7 +152,7 @@ outdated_since: 0a9f09e47d80dd57fd7d0637886dc23e0343de9a
 | Tags conflict with {0} diff. | Поле `Tags` на вкладке `General` окна [Song Setup](/wiki/Client/Beatmap_editor/Song_setup) различается между сложностями. | Убедитесь, что поле `Tags` одинаково на всех сложностях. |  |
 | Uninherited timing points conflict with {0} diff. | Красные тайминг-секции ([красные линии](/wiki/Client/Beatmap_editor/Timing#красные-тайминг-секции)) по-разному расставлены на разных сложностях. | Убедитесь, что все красные тайминг-секции расположены одинаково на всех сложностях. |  |
 | Audio file conflicts with {0} diff. | Разные сложности используют разные файлы `.mp3`. | Убедитесь, что все сложности используют один и тот же файл `.mp3`. |  |
-| Audio lead-in conflicts with {0} diff. | Разные сложности используют разное значение задержки перед началом аудио (audio lead-in). | Откройте каждую сложность по отдельности в «Блокноте» (через `File` > `Open .osu in Notepad`) и убедитесь, что значение `AudioLeadIn:` одинаково на всех сложностях. | Сейчас неактуально, поскольку значение audio lead-in больше нельзя задать вручную. |
+| Audio lead-in conflicts with {0} diff. | Разные сложности используют разное значение задержки перед началом аудио (audio lead-in). | Откройте каждую сложность по отдельности в «Блокноте» (через `File` > `Open .osu in Notepad`) и убедитесь, что значение `AudioLeadIn` одинаково на всех сложностях. | Сейчас неактуально, поскольку значение audio lead-in больше нельзя задать вручную. |
 | Countdown conflicts with {0} diff. | Разные сложности используют разное значение опции `Enable countdown` на вкладке `Design` окна [Song Setup](/wiki/Client/Beatmap_editor/Song_setup). | Убедитесь, что опция `Enable countdown` установлена одинаково на всех сложностях. |  |
 | Letterbox in breaks conflicts with {0} diff. | Разные сложности используют разное значение опции `Letterbox during breaks` на вкладке `Design` окна [Song Setup](/wiki/Client/Beatmap_editor/Song_setup). | Убедитесь, что опция `Letterbox during breaks` установлена одинаково на всех сложностях. |  |
 | Audio preview time conflicts with {0} diff. | Разные сложности используют разное аудиопревью. | Вручную настройте аудиопревью для каждой сложности через `Timing` > `Set Current Position as Preview Point`, чтобы она была в одном и том же месте. |  |
